@@ -1,0 +1,34 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+#
+# Copy this shape for a new unit, or run: python new_unit.py <slug> --ref "..."
+
+slug: oe1bu9454
+ref: Oe 1 Bü 9454
+archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+title: >-
+  Correspondence of Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen with
+  Kriegs- und Forstrath von Triebenfeld
+date_span: 1798-1816
+status: published          # draft | transcribed | translated | published
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/Oe 1_Bü 9454
+  raw_glob: Oe 1_Bü 9454_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because the source name carries a space and an umlaut. Later
+  # stages parse this prefix, so it must not change once a unit is published.
+  #   Oe 1_Bü 9454_0343_a1.jpg  ->  Oe_1_Bu_9454_0343_a1-L179a_04.jpg
+  ascii_prefix: Oe_1_Bu_9454
+
+# The transcription. Documents are delimited by [LETTER N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on the unit's provenance page.
+description: >-
+  The main correspondence file. Eighteen years of letters from the estate agent
+  Peter Friedrich von Triebenfeld to his employer, with enclosures, legal
+  instruments and copies of correspondence with third parties.
