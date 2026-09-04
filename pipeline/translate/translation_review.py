@@ -55,6 +55,7 @@ def load_rulings():
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--read', action='store_true')
     ap.add_argument('--apply', action='store_true')
     a = ap.parse_args()

@@ -90,6 +90,7 @@ def load_witness(tag):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--a', default=None, help='tag of the first witness (default: none)')
     ap.add_argument('--b', default='B', help='tag of the second witness')
     args = ap.parse_args()

@@ -76,6 +76,7 @@ def existing_status(path):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--force', action='store_true')
     ap.add_argument('--list', action='store_true')
     ap.add_argument('--tag', default=None)

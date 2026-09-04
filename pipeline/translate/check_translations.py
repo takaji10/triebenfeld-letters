@@ -292,6 +292,7 @@ def check_letter(rec, out, glossary, canon, rng):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--letters', default='')
     ap.add_argument('--tag', default=None)
     a = ap.parse_args()

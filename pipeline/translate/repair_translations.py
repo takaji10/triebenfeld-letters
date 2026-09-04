@@ -203,6 +203,7 @@ def apply_repair(lid, page_no, payload):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--batch', action='store_true')
     ap.add_argument('--collect', action='store_true')
     ap.add_argument('--limit', type=int, default=0)

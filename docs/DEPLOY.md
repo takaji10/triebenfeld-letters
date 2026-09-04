@@ -5,35 +5,38 @@ your GitHub account, and is listed under "What you have to do" below.
 
 ## What the repository contains
 
-1,547 files, 241 MB. The Jekyll site in `site/` is the whole of it, bar four
-files: `letters.json`, `verify_site.py`, this file and the README.
+About 1935 files. Most of the bytes are the 872 page images in
+`site/assets/scans/` (229 MB); everything else together is roughly 20 MB.
 
-Of the 241 MB, 229 MB is the 872 page images in `site/assets/scans/`. Everything
-else together is about 12 MB, so the repository is essentially the scans plus a
-rounding error.
+The repository now has to be able to rebuild the site from scratch, not merely
+serve it, so it carries the whole chain:
 
-`letters.json` and `verify_site.py` are kept because they are what makes the
-deploy gate possible: the workflow uses them to prove the published text is
-character-identical to the corpus. Dropping them would not break the site, only
-the guarantee about it.
+| | |
+|---|---|
+| `units/<slug>/` | each holding's transcription, rulings and provenance |
+| `pipeline/` | intake, build, translation and review scripts |
+| `reference/` | glossary, name rulings, place canon, shared across units |
+| `corpus/` | the merged, generated database |
+| `site/` | the Jekyll site and the scan derivatives |
+| `regenerate.py`, `verify_site.py`, `unitlib.py`, `new_unit.py` | entry points |
 
-Deliberately not committed, enforced by root-anchored rules in `.gitignore` so
-they cannot reach into `site/`:
+`corpus/letters.json` and `verify_site.py` are what make the deploy gate
+possible: the workflow uses them to prove the published text is
+character-identical to the transcription.
+
+Deliberately not committed:
 
 | Excluded | Why |
 |---|---|
 | `pages/` | 1.08 GB of archival masters. The site serves the 229 MB derivatives instead. |
+| `cache/` | Model output, about $29 of API spend, re-derivable by paying again. |
+| `review/` | Generated review sheets. What they lead to is recorded in `units/<slug>/rulings.yml` and `reference/`, which are tracked. |
 | `.anthropic_key` | API credential. |
 | `Friedrich Ludwig ... (2018, Seidel) (German).md` | Copyrighted book text, a research reference only. |
-| The pipeline: ~40 scripts, the corpus `.txt` files, review sheets, notes | Not needed to build or serve the site, which links to nothing outside `site/`. |
-| `translation-raw/`, `summaries-raw/`, `summaries-raw-de/`, and three more | Model output caches, 965 files. |
 | `site/_site/` | Build output, rebuilt by the workflow on every push. |
-| `*.bak*` | Working backups of the corpus. |
 
-All of it stays on the working machine. Only the repository is narrowed.
-
-The `*.bak*` rule was widened from `*.bak[0-9]`, which matched a single digit and
-would have committed `.bak10` through `.bak16` and `.bak_review`.
+Raw scans live outside the project entirely; `units/<slug>/unit.yml` records
+where.
 
 ## How deployment works
 

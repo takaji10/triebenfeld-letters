@@ -345,6 +345,7 @@ def run_check(client, model):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--pilot', action='store_true')
     ap.add_argument('--all', action='store_true')
     ap.add_argument('--letters', help='comma-separated letter ids')

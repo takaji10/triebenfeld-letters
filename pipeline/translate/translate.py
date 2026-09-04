@@ -225,7 +225,13 @@ TOOL = {
 # ------------------------------------------------------------------- data --
 
 def load_letters():
-    return json.load(open(LETTERS, encoding='utf-8'))
+    """This unit's documents only.
+
+    The corpus file is merged across units, so without the filter a run would
+    translate every holding in the project and pay for all of it.
+    """
+    recs = json.load(open(LETTERS, encoding='utf-8'))
+    return [r for r in recs if r.get('unit') == UNIT.slug]
 
 
 def load_correspondents():
@@ -537,6 +543,7 @@ def flagged_letters(tag=None):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--check', action='store_true')
     ap.add_argument('--pilot', action='store_true')
     ap.add_argument('--all', action='store_true')

@@ -173,6 +173,7 @@ def build():
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--batch', action='store_true')
     ap.add_argument('--collect', action='store_true')
     ap.add_argument('--build', action='store_true')

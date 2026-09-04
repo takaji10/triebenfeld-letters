@@ -779,6 +779,52 @@ passing as human, and this edition states on its About page that the translation
 machine-made. Rewriting 2,767 spots in historical prose would risk meaning to fix
 something that is not a fault.
 
+## Restructured for a growing corpus
+
+The edition was built around one archival holding, Oe 1 Bü 9454, and it showed: adding a
+second would have meant editing a 500-line script by hand, and would have collided at
+once, because 14525 will also have a document numbered 48.
+
+A unit is now a directory. `units/<slug>/` holds the transcription, the editorial rulings
+keyed by the archive's own document number, and the provenance. Ten constants came out of
+`build_db.py` into `rulings.yml`, lifted by parsing the source and checked to round-trip;
+the place canon moved to `reference/`, because spelling knowledge is shared while
+decisions are not. Adding a holding is writing a file, not editing the pipeline.
+
+Documents carry `unit`, `uid`, `pad` and `permalink`. URLs became
+`/letters/oe1bu9454/48/`, with 318 stubs forwarding from the old flat addresses.
+`letter_id` stays the bare archival number, which is what let every existing ruling
+survive the move untouched.
+
+The build runs per unit into `corpus/units/<slug>/`, and `merge_corpus.py` combines them,
+refusing to merge if two units claim the same uid. A unit whose `corpus.txt` is empty is
+skipped and reported, so a holding can be scaffolded long before it is transcribed.
+
+**Three bugs surfaced that only bite with a second unit**, and one that had been biting
+all along:
+
+- Archival position maps were keyed by `letter_id`, which collides the moment two
+  holdings both number a document 48. Archival sort ignored the unit, so the two would
+  have interleaved. Both now key on the unit.
+- The scan map was keyed by `(letter, page)`, for the same reason.
+- `browse.js` never read the query string at all, so the timeline's `?year=` links have
+  always landed unfiltered. They work now, along with `?unit=`.
+
+**`has_damage` was false for all 318 records.** It tested corpus line ranges: two of the
+five pointed past EOF, and the surviving three no longer land on damaged text, because
+the ranges went stale when the corpus was edited. Correcting the overlap test would have
+falsely flagged letters 253, 254 and 295 as damaged. Damage is now read from the text's
+own `[...]` markers, which travel with the words: 12 letters, 56 marks.
+
+The cache move was the step with money at stake. `translate.py` computed a bare pad and
+would have found nothing under the new names, re-translating 313 letters and paying for
+them twice; `publish` and `summarise` trusted a stale pad recorded inside old cache
+files. 965 files moved with their contents untouched, and `translate.py` now filters the
+merged corpus to its own unit, or a run would translate every holding in the project.
+
+Through all of it the transcription hash never moved: 318 documents, 869 pages,
+character-identical at every step.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

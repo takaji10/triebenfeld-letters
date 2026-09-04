@@ -233,6 +233,7 @@ Rembowski Lombardini Thiel Congress""".split()
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--unit', help='unit slug; required when the project holds more than one')
     ap.add_argument('--max-dist', type=float, default=1.8)
     ap.add_argument('--cue-rate', type=float, default=0.15,
                     help='discovered seeds must sit in name position this often')
