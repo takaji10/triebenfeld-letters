@@ -539,6 +539,31 @@ def run_split(triples, dry_run, write_index=True, folds=None):
         write_review_index(proof_rows, append=True)
     print(f"\n{'(dry run) ' if dry_run else ''}split {done} crop(s); "
           f"{diverted} diverted to {REVIEW_DIR.name}/ for review")
+    if not dry_run:
+        check_complete(manifest)
+
+
+def check_complete(manifest):
+    """Every file the manifest claims should be on disk, and the reverse.
+
+    Worth saying out loud after every run: a page that quietly disappears stays
+    invisible until the transcription comes up short, which is much too late.
+    """
+    listed = {e["file"] for entries in manifest.values() for e in entries}
+    here = {p.name for p in PROCESSED_DIR.glob("*.jpg")}
+    kept = {p.name for p in UNSPLIT_DIR.glob("*.jpg")} if UNSPLIT_DIR.is_dir() else set()
+    missing = sorted(listed - here - kept)
+    extra = sorted(here - listed)
+    if missing:
+        print(f"  WARNING: {len(missing)} file(s) in the manifest are not on disk")
+        for name in missing[:8]:
+            print(f"    {name}")
+        if len(missing) > 8:
+            print(f"    and {len(missing) - 8} more")
+    if extra:
+        print(f"  WARNING: {len(extra)} file(s) on disk are not in the manifest")
+    if not missing and not extra:
+        print(f"  {len(here)} page image(s), manifest agrees")
 
 
 # --------------------------------------------------------------------------- #
