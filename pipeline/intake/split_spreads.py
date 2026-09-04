@@ -69,7 +69,16 @@ FOLD_LO, FOLD_HI = 0.40, 0.60          # fold search window, fraction of width
 PAPER_BRIGHT = 150                      # grayscale value at/above which a pixel is bare paper
 CREASE_HALF = 5                         # +/- columns for the local-minimum crease test
 CREASE_DROP = 8                         # crease column must be this much darker than its local mean
-CREASE_MIN = 0.10                       # crease streak strength below which no real fold line is
+CREASE_MIN = 0.10
+# A book photographed open has a fold that is a dark shadow, not a gap. That
+# inverts the assumption above: the clearest band of bare paper is then a page
+# margin, not the gutter, and cutting there slices a strip off one leaf and can
+# run straight through the writing. Where a shadow like this exists it is the
+# most reliable signal there is, so it is tried first.
+SHADOW_DARK = 150            # at/below this a pixel is not bare paper
+SHADOW_RUN = 0.12            # unbroken dark run, as a fraction of image height
+SHADOW_STROKE = 0.06         # shorter runs than this are pen strokes, not structure
+SPLIT_OVERLAP = 0.008        # each half keeps this much of the other side of the fold                       # crease streak strength below which no real fold line is
                                        #   visible -> fall back to centre of the clear channel
 GUTTER_MIN = 0.55                       # if the clearest column in the window has less than this
                                        #   fraction of bare-paper rows, the centre is inked across
@@ -144,6 +153,68 @@ def median(values):
     return float(s[n // 2]) if n % 2 else (s[n // 2 - 1] + s[n // 2]) / 2.0
 
 
+def shadow_fold(small: Image.Image):
+    """The gutter shadow: the column with the longest unbroken dark run.
+
+    Returns (x, run_fraction) or (None, best_fraction_seen). Writing gives
+    short scattered runs a few pixels long; a fold shadow runs down a large
+    part of the height without a break, so the two do not compete.
+    """
+    px = small.load()
+    w, h = small.size
+    lo, hi = int(w * FOLD_LO), int(w * FOLD_HI)
+    best_x, best_run = None, 0
+    for x in range(lo, hi):
+        run = longest = 0
+        for y in range(h):
+            if px[x, y] <= SHADOW_DARK:
+                run += 1
+                if run > longest:
+                    longest = run
+            else:
+                run = 0
+        if longest > best_run:
+            best_x, best_run = x, longest
+    if best_run >= h * SHADOW_RUN:
+        return best_x, best_run / h
+    return None, best_run / h
+
+
+def text_gap_fold(small: Image.Image):
+    """Midpoint of the clear channel between the two blocks of writing.
+
+    A column counts as written when it holds ink in short runs: long runs are
+    structure (a fold shadow, a page edge), not a pen. Taking the innermost
+    written column on each side of centre and cutting between them puts the cut
+    in paper by construction, whatever the lighting did to the gutter.
+    """
+    px = small.load()
+    w, h = small.size
+    lo, hi = int(w * FOLD_LO), int(w * FOLD_HI)
+
+    def written(x):
+        run = longest = dark = 0
+        for y in range(h):
+            if px[x, y] <= SHADOW_DARK:
+                dark += 1
+                run += 1
+                if run > longest:
+                    longest = run
+            else:
+                run = 0
+        return dark >= 3 and longest < h * SHADOW_STROKE
+
+    mid = w // 2
+    left = [x for x in range(lo, mid) if written(x)]
+    right = [x for x in range(mid, hi) if written(x)]
+    if not left or not right:
+        return None, 0.0
+    a, b = max(left), min(right)
+    if b <= a + 1:
+        return None, 0.0
+    return (a + b) // 2, (b - a) / w
+
+
 def detect_fold(img: Image.Image):
     """Locate the physical fold and return (fold_px_fullres, confidence, meta).
 
@@ -162,6 +233,8 @@ def detect_fold(img: Image.Image):
     w = small.size[0]
 
     raw = column_ink(small)
+    shadow_x, shadow_run = shadow_fold(small)
+    gap_x, gap_w = (None, 0.0) if shadow_x is not None else text_gap_fold(small)
     gutter, crease = column_profiles(small)
     gutter = moving_average(gutter, 5)
     crease = moving_average(crease, 5)
@@ -170,10 +243,23 @@ def detect_fold(img: Image.Image):
     mid = w / 2
     g_max = max(gutter[lo:hi])
 
-    if g_max < GUTTER_MIN:
+    if shadow_x is not None:
+        # the fold casts a shadow: that is where the leaves meet
+        fold_x = shadow_x
+        confidence = "high"
+        crease_val = crease[fold_x]
+        method = f"shadow {shadow_run:.2f}h"
+    elif gap_x is not None:
+        # no shadow, but the writing on the two leaves brackets a clear channel
+        fold_x = gap_x
+        confidence = "high"
+        crease_val = crease[fold_x]
+        method = f"text gap {gap_w:.3f}w"
+    elif g_max < GUTTER_MIN:
         confidence = "reject"
         fold_x = min(range(lo, hi), key=lambda x: raw[x])   # best effort
         crease_val = crease[fold_x]
+        method = "no channel"
     else:
         # bare-paper columns; the true gutter is the WIDEST contiguous band of
         # them (an isolated clear column is a ruled line, not the fold)
@@ -184,6 +270,7 @@ def detect_fold(img: Image.Image):
                 runs.append((start, a))
                 start = b
         band = max(runs, key=lambda r: (r[1] - r[0], -abs((r[0] + r[1]) / 2 - mid)))
+        method = "gutter band"
         cols = range(band[0], band[1] + 1)
         crease_val = max(crease[x] for x in cols)
         if crease_val >= CREASE_MIN:
@@ -212,6 +299,7 @@ def detect_fold(img: Image.Image):
         "gutter": round(gutter[fold_x], 2),
         "crease": round(crease_val, 2),
         "content": content,
+        "method": method,
     }
     return round(fold_x / scale), confidence, meta
 
@@ -371,8 +459,13 @@ def split_one(path, base, suf, manifest, dry_run, proof_rows):
         if dry_run:
             return "would-split"
 
-        left = img.crop((0, 0, fold_px, h))
-        right = img.crop((fold_px, 0, w, h))
+        # A small overlap either side of the fold. In a bound volume the
+        # writing often runs right into the gutter, so a cut exactly on the
+        # fold can clip the last stroke of a line. Giving each half a sliver
+        # of the other costs nothing and means no ink is lost.
+        pad = max(1, int(w * SPLIT_OVERLAP))
+        left = img.crop((0, 0, min(w, fold_px + pad), h))
+        right = img.crop((max(0, fold_px - pad), 0, w, h))
         left.save(PROCESSED_DIR / f"{base}_{suf}1.jpg", quality=JPEG_QUALITY)
         right.save(PROCESSED_DIR / f"{base}_{suf}2.jpg", quality=JPEG_QUALITY)
         UNSPLIT_DIR.mkdir(exist_ok=True)
@@ -526,7 +619,10 @@ def main():
     if args.review:
         build_review()
     elif args.apply_review:
-        run_apply_review(Path(args.apply_review), args.dry_run)
+        _p = Path(args.apply_review)
+        if not _p.is_absolute():
+            _p = ROOT / args.apply_review     # relative to the unit, not the shell
+        run_apply_review(_p, args.dry_run)
     else:
         cand = list(candidates("auto", only=args.only))
         if args.limit:

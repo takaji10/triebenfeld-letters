@@ -1,0 +1,41 @@
+# Editorial rulings for Oe 1 Bü 14526.
+#
+# Keyed by the archive's own document number, which is what letter_id stays.
+# Nothing here is derived: each entry is a decision taken against evidence and
+# recorded so a rebuild reproduces it. Start empty and fill in from the review
+# sheets in review/ as you work through them.
+
+places:
+  # Place of writing, where the dateline is absent, illegible or misleading.
+  # A trailing [?] marks a reading that is probable rather than settled.
+  #   "12": Berlin
+  overrides: {}
+
+dates:
+  # [year, month, day, precision]; null where that element is unknown.
+  #   "3": [1815, 2, 9, "day"]
+  supplied: {}
+
+  # Taken from the document's own duplicate.
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
+
+  # Undated and left so.
+  no_date: []
+
+documents:
+  # Anything that is not an ordinary letter, e.g. "register".
+  doc_type: {}
+
+  # Same document, transcribed twice.
+  duplicate_of: {}
+
+  # Why a sub-record exists, shown on the document.
+  split_note: {}
+
+damage:
+  # Damage is read from the text's own [...] markers. List document numbers
+  # here only for damage the transcription does not mark.
+  letters: []

@@ -1,0 +1,28 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: oe1bu14526
+ref: Oe 1 Bü 14526
+archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+title: >-
+  TODO: what this unit contains, in a line or two.
+date_span: TODO
+status: draft              # draft | transcribed | translated | published
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/Oe 1_Bue 14526
+  raw_glob: Oe 1_Bü 14526_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: Oe_1_Bu_14526
+
+# The transcription. Documents are delimited by [LETTER N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  TODO: a sentence for the reader.
