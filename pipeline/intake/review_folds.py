@@ -155,8 +155,8 @@ PAGE = """<!doctype html>
   <button id="reset">Reset this</button>
   <button id="save" class="primary">Save folds.json</button>
   <button id="copy">Copy</button>
-  <span class="muted"><kbd>&larr;</kbd><kbd>&rarr;</kbd> nudge,
-    <kbd>shift</kbd> x10, <kbd>n</kbd>/<kbd>p</kbd> move on,
+  <span class="muted"><kbd>&larr;</kbd><kbd>&rarr;</kbd> page,
+    <kbd>,</kbd><kbd>.</kbd> nudge the line, <kbd>shift</kbd> x10,
     blue line = current cut</span>
 </header>
 
@@ -220,8 +220,11 @@ document.getElementById('reset').onclick = () => { delete moved[cur().file];
 
 document.addEventListener('keydown', e => {
   const px = e.shiftKey ? 10 : 1;
-  if (e.key === 'ArrowLeft')  { draw((line.offsetLeft - px) / img.clientWidth, true); e.preventDefault(); }
-  if (e.key === 'ArrowRight') { draw((line.offsetLeft + px) / img.clientWidth, true); e.preventDefault(); }
+  // arrows page through the spreads; comma and full stop nudge the line
+  if (e.key === 'ArrowLeft')  { step(-1); e.preventDefault(); }
+  if (e.key === 'ArrowRight') { step(1);  e.preventDefault(); }
+  if (e.key === ',' || e.key === '<') { draw((line.offsetLeft - px) / img.clientWidth, true); e.preventDefault(); }
+  if (e.key === '.' || e.key === '>') { draw((line.offsetLeft + px) / img.clientWidth, true); e.preventDefault(); }
   if (e.key === 'n') step(1);
   if (e.key === 'p') step(-1);
 });
