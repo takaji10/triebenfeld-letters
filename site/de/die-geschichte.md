@@ -311,7 +311,7 @@ Wer die Geschichte in einem Dutzend Stücke lesen will, lese in dieser Folge:
 Zu jedem Dokument gehören eine deutsche Transkription, eine Lesefassung und, bei 313 von
 ihnen, eine englische Übersetzung, dazu die Aufnahmen der Handschrift. Beginnen Sie mit dem
 [Durchsuchen]({{ '/de/briefe/' | relative_url }}), oder lesen Sie zuerst
-[Über diese Edition]({{ '/reading-this-edition/' | relative_url }}) (auf Englisch), wenn Sie
+[Über diese Edition]({{ '/de/ueber-diese-edition/' | relative_url }}), wenn Sie
 wissen wollen, wie der Text erstellt wurde und wie weit er trägt.
 
 Eine Warnung zum Mitnehmen: Die Zahlen in diesen Briefen sind das Unzuverlässigste an

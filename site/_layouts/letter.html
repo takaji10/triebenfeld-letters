@@ -71,7 +71,7 @@ layout: default
       <button type="button" class="vbtn" data-show="reading" data-i18n="view_reading">{{ t.view_reading }}</button>
       <button type="button" class="vbtn" data-show="translation" data-i18n="view_translation">{{ t.view_translation }}</button>
       <label class="chk"><input type="checkbox" id="hidescans"> <span data-i18n="hide_scans">{{ t.hide_scans }}</span></label>
-      <span class="viewhint" data-hint="diplomatic"><span data-i18n="hint_diplomatic">{{ t.hint_diplomatic }}</span> <span data-i18n="editorial_note">{{ t.editorial_note }}</span> <a href="{{ '/reading-this-edition/' | relative_url }}">About the edition</a>.</span>
+      <span class="viewhint" data-hint="diplomatic"><span data-i18n="hint_diplomatic">{{ t.hint_diplomatic }}</span> <span data-i18n="editorial_note">{{ t.editorial_note }}</span> <a data-i18n="nav_about" data-href-en="{{ '/reading-this-edition/' | relative_url }}" data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}" href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>.</span>
       <span class="viewhint" data-hint="reading" hidden><span data-i18n="hint_reading">{{ t.hint_reading }}</span></span>
       <span class="viewhint" data-hint="translation" hidden>
         {% if tr and tr.status and tr.status != 'untranslated' %}<span data-i18n="hint_translation_status">{{ t.hint_translation_status }}</span> <b>{{ tr.status }}</b>.

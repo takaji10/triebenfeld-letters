@@ -45,9 +45,9 @@
     <a data-i18n="nav_places" data-href-en="{{ '/places/' | relative_url }}"
        data-href-de="{{ '/de/orte/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/orte/' | relative_url }}{% else %}{{ '/places/' | relative_url }}{% endif %}">{{ t.nav.places }}</a>
-    {% comment %} The essay stays in English until it is rendered by hand. {% endcomment %}
-    <a data-i18n="nav_about" href="{{ '/reading-this-edition/' | relative_url }}"
-       {% if lang == 'de' %}hreflang="en"{% endif %}>{{ t.nav.about }}</a>
+    <a data-i18n="nav_about" data-href-en="{{ '/reading-this-edition/' | relative_url }}"
+       data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>
   </nav>
 
   {% comment %}
@@ -72,7 +72,9 @@
 <footer class="site-foot">
   <p>
     {{ t.foot | replace: '%d', site.data.stats.total }}
-    <a href="{{ '/reading-this-edition/' | relative_url }}">{{ t.foot_link }}</a>
+    <a data-i18n="foot_link" data-href-en="{{ '/reading-this-edition/' | relative_url }}"
+       data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.foot_link }}</a>
     {{ t.foot_tail }}
   </p>
 </footer>

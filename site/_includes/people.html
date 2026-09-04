@@ -9,7 +9,7 @@
 {% endif %}
 <div class="prose">
   <h1>{{ t.people_h1 }}</h1>
-  <p class="standfirst">{{ t.people_lede }} <a href="{{ '/reading-this-edition/' | relative_url }}">{{ t.nav.about }}</a>.</p>
+  <p class="standfirst">{{ t.people_lede }} <a href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>.</p>
 </div>
 
 <nav class="sortbar" aria-label="Sort people">

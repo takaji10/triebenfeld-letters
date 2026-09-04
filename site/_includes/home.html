@@ -32,7 +32,7 @@
     <h2>{{ t.nav.people }}</h2>
     <p>{{ t.card_people_p }}</p>
   </a>
-  <a class="card" href="{{ '/reading-this-edition/' | relative_url }}">
+  <a class="card" href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">
     <h2>{{ t.card_about }}</h2>
     <p>{{ t.card_about_p }}</p>
   </a>
