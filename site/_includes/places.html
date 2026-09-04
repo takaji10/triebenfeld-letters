@@ -16,8 +16,8 @@
   <span class="sortbar-label">{{ t.sort }}</span>
   <button type="button" data-key="count" data-dir="desc" aria-pressed="true">{{ t.sort_most_docs }}</button>
   <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_docs }}</button>
-  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A&ndash;Z</button>
-  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z&ndash;A</button>
+  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A-Z</button>
+  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z-A</button>
 </nav>
 
 {% assign sorted = site.data.places | sort: "count" | reverse %}

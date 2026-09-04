@@ -16,8 +16,8 @@
   <span class="sortbar-label">{{ t.sort }}</span>
   <button type="button" data-key="count" data-dir="desc" aria-pressed="true">{{ t.sort_most_mentions }}</button>
   <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_mentions }}</button>
-  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A&ndash;Z</button>
-  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z&ndash;A</button>
+  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A-Z</button>
+  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z-A</button>
 </nav>
 
 {% assign sorted = site.data.people | sort: "count" | reverse %}
@@ -28,7 +28,7 @@
     <h2>{{ p.name }}</h2>
     <p class="refs">
       Appears in {{ p.letters.size }} document{% if p.letters.size != 1 %}s{% endif %}
-      &mdash; {{ p.count }} mention{% if p.count != 1 %}s{% endif %}
+      , {{ p.count }} mention{% if p.count != 1 %}s{% endif %}
     </p>
     <p class="refs reflist">
       {% for l in p.letters %}<a href="{{ '/letters/' | append: l | relative_url }}/">{{ l }}</a>{% endfor %}

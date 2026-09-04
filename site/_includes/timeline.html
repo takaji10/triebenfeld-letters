@@ -55,7 +55,7 @@
             <div class="tl-event kind-{{ e.kind }}">
               <h3>{{ e_title }}</h3>
               <p>{{ e_note }}</p>
-              <p class="tl-src">{{ e.date }}{% if e.end %}&ndash;{{ e.end }}{% endif %} &middot; {{ e_src }}</p>
+              <p class="tl-src">{{ e.date }}{% if e.end %}-{{ e.end }}{% endif %} &middot; {{ e_src }}</p>
             </div>
           {% endif %}
         {% endfor %}

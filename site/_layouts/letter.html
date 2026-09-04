@@ -110,7 +110,7 @@ layout: default
       <dt data-i18n="extent">{{ t.extent }}</dt>
       <dd>
         {{ page.n_lines }} <span data-i18n="lines">{{ t.lines }}</span>{% if page.n_pages > 1 %} <span data-i18n="across_pages">{{ t.across_pages }}</span> {{ page.n_pages }} <span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}<br>
-        <span class="muted"><span data-i18n="archival_lines">{{ t.archival_lines }}</span> {{ page.line_start | plus: 1 }}&ndash;{{ page.line_end }}</span>
+        <span class="muted"><span data-i18n="archival_lines">{{ t.archival_lines }}</span> {{ page.line_start | plus: 1 }}-{{ page.line_end }}</span>
       </dd>
 
       {% if page.people.size > 0 %}
@@ -132,10 +132,9 @@ layout: default
       <dd>
         {% assign parent_page = site.letters | where: "letter_id", page.parent_letter | first %}
         {% if parent_page %}
-          <a href="{{ parent_page.url | relative_url }}">Letter {{ page.parent_letter }}</a> &mdash;
-          several documents were bundled under one archival number.
+          <a href="{{ parent_page.url | relative_url }}">Letter {{ page.parent_letter }}</a>. Several documents were bundled under one archival number.
         {% else %}
-          Archival number {{ page.parent_letter }} &mdash; several documents were bundled
+          Archival number {{ page.parent_letter }}. Several documents were bundled
           under it, and it has no single text of its own.
         {% endif %}
         {% assign siblings = site.letters | where: "parent_letter", page.parent_letter | sort: "letter_id" %}

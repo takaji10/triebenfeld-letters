@@ -26,8 +26,8 @@ en:
     places: Places
     about: About the edition
   foot: >-
-    A digital edition of %d documents, 1798–1816. Transcribed from the originals
-    in the Hohenloher Zentralarchiv Neuenstein. See
+    A digital edition of %d documents, 1798-1816. Transcribed from the originals in the Hohenloher
+    Zentralarchiv Neuenstein. See
   foot_link: About the edition
   foot_tail: for editorial method and known limitations.
 
@@ -84,7 +84,8 @@ en:
   hint_translation_none: >-
     Not yet translated. Translations are added page by page; the German is
     complete and searchable meanwhile.
-  hint_translation_status: "English translation — status:"
+  hint_translation_status: >-
+    English translation, status:
   about_doc: About this document
   archival_number: Archival number
   correspondents: Correspondents
@@ -93,7 +94,7 @@ en:
   unattributed: unattributed
   date: Date
   missing_notice: >-
-    This number is missing or skipped in the archive — no text survives under it.
+    This number is missing or skipped in the archive. No text survives under it.
   page_untranslated: This page has not been translated yet.
   place: Place
   extent: Extent
@@ -111,9 +112,8 @@ en:
   home_lede: >-
     Eighteen years of correspondence between <strong>Peter Friedrich von Triebenfeld</strong>,
     estate manager, and <strong>Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen</strong>,
-    Prussian general — written across the collapse of the Prince's fortune, the defeat
-    of Prussia at Jena and Auerstädt, the loss of his Polish estates, and the
-    Congress of Vienna.
+    Prussian general. The letters run across the collapse of the Prince's fortune, the defeat of
+    Prussia at Jena and Auerstädt, the loss of his Polish estates, and the Congress of Vienna.
   fig_documents: documents
   fig_span: span
   fig_people: people identified
@@ -129,11 +129,10 @@ en:
     How the text was established, what the editorial marks mean, and what remains uncertain.
   home_h2: What the letters are about
   home_p1: >-
-    The correspondence opens in 1798 with Triebenfeld lobbying in Berlin to exchange the
-    Prince's Polish estates — granted after the Third Partition — for Prussian crown
-    domains, in order to clear his debts. The exchange fails, and what follows is a long
-    unravelling: loans against the estates, colonisation schemes to raise revenue,
-    and an ever-lengthening list of creditors.
+    The correspondence opens in 1798 with Triebenfeld lobbying in Berlin to exchange the Prince's
+    Polish estates, granted after the Third Partition, for Prussian crown domains, in order to
+    clear his debts. The exchange fails, and what follows is a long unravelling: loans against the
+    estates, colonisation schemes to raise revenue, and an ever-lengthening list of creditors.
   home_p2: >-
     After the Prussian defeat of 1806 the estates fall under the Duchy of Warsaw and are
     sequestered. Triebenfeld is arrested in Berlin by French gendarmerie; by 1811 he is
@@ -146,21 +145,19 @@ en:
   home_p3_sum: 1,414,377 Reichsthaler
   people_h1: People in the letters
   people_lede: >-
-    Everyone named often enough to trace through the correspondence. Occurrence counts
-    come from the text itself; identifications and their evidence are set out in full
-    in the project's who's-who. Names use the spellings established for this edition —
-    see
+    Everyone named often enough to trace through the correspondence. Occurrence counts come from
+    the text itself; identifications and their evidence are set out in full in the project's
+    who's-who. Names use the spellings established for this edition. See
   places_h1: Places of writing
   places_lede: >-
-    Where the letters were written from, taken from each letter's own dateline.
-    Grouped under <em>Unknown</em> where no place is given — enclosures, legal
-    instruments and hurried notes often carry none, and that absence is recorded
-    rather than guessed at.
+    Where the letters were written from, taken from each letter's own dateline. Grouped under
+    <em>Unknown</em> where no place is given. Enclosures, legal instruments and hurried notes
+    often carry none, and that absence is recorded rather than guessed at.
   timeline_h1: Timeline
   timeline_lede: >-
-    The correspondence set against the events that shaped it. The bars show how many
-    letters survive from each year — the near-silence of 1807 and the flood of 1815 are
-    the story in outline. Click any year to read the letters from it.
+    The correspondence set against the events that shaped it. The bars show how many letters
+    survive from each year. The near-silence of 1807 and the flood of 1815 are the story in
+    outline. Click any year to read the letters from it.
   sort: Sort
   sort_most_mentions: Most mentions
   sort_fewest_mentions: Fewest mentions
@@ -170,27 +167,27 @@ en:
   doc_many: documents
   movements_h2: The six movements
   movements:
-    - lead: "1798&ndash;99 &middot; The land swap that fails."
+    - lead: "1798-99 &middot; The land swap that fails."
       body: >-
         Lobbying in Berlin to trade the Polish estates for Prussian crown domains, to
         clear the Prince's debts. It does not come off.
-    - lead: "1800&ndash;1806 &middot; Debt management becomes the whole job."
+    - lead: "1800-1806 &middot; Debt management becomes the whole job."
       body: >-
         Estates sold and mortgaged, colonisation schemes to raise revenue, creditors
         multiplying.
-    - lead: "1806&ndash;1809 &middot; Catastrophe."
+    - lead: "1806-1809 &middot; Catastrophe."
       body: >-
         Jena, Prenzlau, Tilsit. The estates pass to a foreign state and are sequestered;
         Triebenfeld is arrested and left destitute.
-    - lead: "1809&ndash;1812 &middot; Legal war on every front."
+    - lead: "1809-1812 &middot; Legal war on every front."
       body: >-
         Thirty-one simultaneous lawsuits, a fraudulent sequestor, and a rival heir
         litigating for Trąbczyn.
-    - lead: "1813&ndash;1815 &middot; Vienna."
+    - lead: "1813-1815 &middot; Vienna."
       body: >-
         A bankrupt agent at the Congress, petitioning for restitution while the map of
         Poland is redrawn around him.
-    - lead: "1815&ndash;16 &middot; Personal ruin."
+    - lead: "1815-16 &middot; Personal ruin."
       body: >-
         The relationship curdles; Triebenfeld's daughter dies.
 
@@ -209,8 +206,8 @@ de:
     places: Orte
     about: Über die Edition
   foot: >-
-    Eine digitale Edition von %d Dokumenten, 1798–1816. Transkribiert nach den
-    Originalen im Hohenloher Zentralarchiv Neuenstein. Siehe
+    Eine digitale Edition von %d Dokumenten, 1798-1816. Transkribiert nach den Originalen im
+    Hohenloher Zentralarchiv Neuenstein. Siehe
   foot_link: Über die Edition
   foot_tail: für die Editionsgrundsätze und die bekannten Grenzen.
 
@@ -267,7 +264,8 @@ de:
   hint_translation_none: >-
     Noch nicht übersetzt. Die Übersetzungen werden Seite für Seite ergänzt; der
     deutsche Text ist unterdessen vollständig und durchsuchbar.
-  hint_translation_status: "Englische Übersetzung — Status:"
+  hint_translation_status: >-
+    Englische Übersetzung, Status:
   about_doc: Über dieses Dokument
   archival_number: Archivnummer
   correspondents: Korrespondenten
@@ -276,8 +274,7 @@ de:
   unattributed: nicht zugewiesen
   date: Datum
   missing_notice: >-
-    Diese Nummer fehlt im Archiv oder wurde übersprungen — es ist kein Text
-    darunter überliefert.
+    Diese Nummer fehlt im Archiv oder wurde übersprungen. Darunter ist kein Text überliefert.
   page_untranslated: Diese Seite ist noch nicht übersetzt.
   place: Ort
   extent: Umfang
@@ -294,8 +291,8 @@ de:
   home_lede: >-
     Achtzehn Jahre Korrespondenz zwischen <strong>Peter Friedrich von Triebenfeld</strong>,
     Gutsverwalter, und <strong>Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen</strong>,
-    preußischem General — geschrieben über den Zusammenbruch des fürstlichen Vermögens hinweg,
-    die Niederlage Preußens bei Jena und Auerstedt, den Verlust der polnischen Güter und
+    preußischem General. Die Briefe laufen über den Zusammenbruch des fürstlichen Vermögens
+    hinweg, die Niederlage Preußens bei Jena und Auerstedt, den Verlust der polnischen Güter und
     den Wiener Kongress.
   fig_documents: Dokumente
   fig_span: Zeitraum
@@ -304,15 +301,14 @@ de:
   card_browse_p: >-
     Alle %d Dokumente, im Volltext durchsuchbar und filterbar nach Jahr, Person, Ort und Zustand.
   card_timeline_p: >-
-    Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten — von Jena bis zum
-    Wiener Kongress.
+    Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten, von Jena bis zum Wiener
+    Kongress.
   card_people_p: >-
     Wer in den Briefen vorkommt, wie sicher die Identifizierung jeweils ist und wo die
     Belege stehen.
   card_about: Über diese Edition
   card_about_p: >-
-    Wie der Text erstellt wurde, was die editorischen Zeichen bedeuten und was ungeklärt
-    bleibt (auf Englisch).
+    Wie der Text erstellt wurde, was die editorischen Zeichen bedeuten und was ungeklärt bleibt.
   home_h2: Wovon die Briefe handeln
   home_p1: >-
     Die Korrespondenz beginnt 1798, als Triebenfeld in Berlin dafür wirbt, die nach der
@@ -321,12 +317,11 @@ de:
     langes Auseinanderfallen: Anleihen auf die Güter, Kolonisationspläne zur Steigerung der
     Einkünfte und eine immer längere Reihe von Gläubigern.
   home_p2: >-
-    Nach der preußischen Niederlage von 1806 fallen die Güter an das Herzogtum Warschau und
-    werden sequestriert. Triebenfeld wird in Berlin von französischer Gendarmerie verhaftet;
-    1811 führt er einunddreißig Prozesse zugleich. 1814 wird er zum Wiener Kongress
-    entsandt, um Rückgabe zu erwirken, und schreibt mittellos nach Hause — er rechnet die
-    Kosten des Kaffees auf, während er Metternich und Talleyrand durch die Verhandlungen
-    verfolgt.
+    Nach der preußischen Niederlage von 1806 fallen die Güter an das Herzogtum Warschau und werden
+    sequestriert. Triebenfeld wird in Berlin von französischer Gendarmerie verhaftet; 1811 führt
+    er einunddreißig Prozesse zugleich. 1814 wird er zum Wiener Kongress entsandt, um Rückgabe zu
+    erwirken, und schreibt mittellos nach Hause. Er rechnet die Kosten des Kaffees auf, während er
+    Metternich und Talleyrand durch die Verhandlungen verfolgt.
   home_p3_pre: >-
     Die Briefe enden im persönlichen Ruin auf beiden Seiten. Ein am Schluss aufgestelltes
     Liquidationsregister verzeichnet Schulden von
@@ -335,20 +330,18 @@ de:
   people_lede: >-
     Alle, die oft genug genannt werden, um sie durch die Korrespondenz zu verfolgen. Die
     Häufigkeiten stammen aus dem Text selbst; die Identifizierungen und ihre Belege sind
-    vollständig im Personenverzeichnis des Projekts dargelegt. Die Namen folgen den für
-    diese Edition festgelegten Schreibweisen — siehe
+    vollständig im Personenverzeichnis des Projekts dargelegt. Die Namen folgen den für diese
+    Edition festgelegten Schreibweisen. Siehe
   places_h1: Ausstellungsorte
   places_lede: >-
-    Woher die Briefe geschrieben wurden, nach der Datumszeile des jeweiligen Briefes.
-    Unter <em>Unbekannt</em> zusammengefasst, wo kein Ort genannt ist — Beilagen,
-    Rechtsurkunden und eilige Notizen tragen häufig keinen, und dieses Fehlen wird
-    verzeichnet statt erraten.
+    Woher die Briefe geschrieben wurden, nach der Datumszeile des jeweiligen Briefes. Unter
+    <em>Unbekannt</em> zusammengefasst, wo kein Ort genannt ist. Beilagen, Rechtsurkunden und
+    eilige Notizen tragen häufig keinen, und dieses Fehlen wird verzeichnet statt erraten.
   timeline_h1: Zeitleiste
   timeline_lede: >-
-    Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten. Die Balken zeigen,
-    wie viele Briefe aus jedem Jahr überliefert sind — das Fast-Verstummen von 1807 und die
-    Flut von 1815 sind die Geschichte im Umriss. Klicken Sie ein Jahr an, um die Briefe
-    daraus zu lesen.
+    Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten. Die Balken zeigen, wie
+    viele Briefe aus jedem Jahr überliefert sind. Das Fast-Verstummen von 1807 und die Flut von
+    1815 sind die Geschichte im Umriss. Klicken Sie ein Jahr an, um die Briefe daraus zu lesen.
   sort: Sortieren
   sort_most_mentions: Meiste Nennungen
   sort_fewest_mentions: Wenigste Nennungen
@@ -358,26 +351,26 @@ de:
   doc_many: Dokumente
   movements_h2: Die sechs Abschnitte
   movements:
-    - lead: "1798&ndash;99 &middot; Der gescheiterte Gütertausch."
+    - lead: "1798-99 &middot; Der gescheiterte Gütertausch."
       body: >-
         Lobbyarbeit in Berlin, um die polnischen Güter gegen preußische Krondomänen zu
         tauschen und damit die Schulden des Fürsten zu tilgen. Es kommt nicht dazu.
-    - lead: "1800&ndash;1806 &middot; Die Schuldenverwaltung wird zur ganzen Aufgabe."
+    - lead: "1800-1806 &middot; Die Schuldenverwaltung wird zur ganzen Aufgabe."
       body: >-
         Güter werden verkauft und beliehen, Kolonisationsvorhaben sollen Einnahmen
         bringen, die Zahl der Gläubiger wächst.
-    - lead: "1806&ndash;1809 &middot; Die Katastrophe."
+    - lead: "1806-1809 &middot; Die Katastrophe."
       body: >-
         Jena, Prenzlau, Tilsit. Die Güter geraten unter fremde Staatshoheit und werden
         sequestriert; Triebenfeld wird verhaftet und bleibt mittellos zurück.
-    - lead: "1809&ndash;1812 &middot; Rechtskrieg an allen Fronten."
+    - lead: "1809-1812 &middot; Rechtskrieg an allen Fronten."
       body: >-
         Einunddreißig gleichzeitige Prozesse, ein betrügerischer Sequestor und ein
         konkurrierender Erbe, der um Trąbczyn prozessiert.
-    - lead: "1813&ndash;1815 &middot; Wien."
+    - lead: "1813-1815 &middot; Wien."
       body: >-
         Ein bankrotter Bevollmächtigter auf dem Kongress, der um Rückgabe bittet, während
         um ihn herum die Landkarte Polens neu gezeichnet wird.
-    - lead: "1815&ndash;16 &middot; Der persönliche Ruin."
+    - lead: "1815-16 &middot; Der persönliche Ruin."
       body: >-
         Das Verhältnis vergiftet sich; Triebenfelds Tochter stirbt.
