@@ -53,7 +53,13 @@ python pipeline/intake/crop_scans.py --unit oe1bu14525
 # 3. split any bifolia the crop left as one wide page
 python pipeline/intake/split_spreads.py --unit oe1bu14525 --auto
 python pipeline/intake/split_spreads.py --unit oe1bu14525 --review
-#    then: --apply-review processed/_spreads_review/INDEX.md
+#    check the proofs in processed/_spreads_review/, then:
+#      --apply-review processed/_spreads_review/INDEX.md
+#    for any the detector could not place, put the line by hand:
+python pipeline/intake/review_folds.py --unit oe1bu14525
+#      open processed/_spreads_review/review.html, drag each red line onto
+#      the fold, Save folds.json, then:
+python pipeline/intake/split_spreads.py --unit oe1bu14525     --apply-folds processed/_spreads_review/folds.json
 
 # 4. transcribe offline, save to units/oe1bu14525/corpus.txt
 

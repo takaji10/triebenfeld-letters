@@ -423,11 +423,18 @@ def render_proof(img, fold_px, caption):
 # --------------------------------------------------------------------------- #
 # splitting
 # --------------------------------------------------------------------------- #
-def split_one(path, base, suf, manifest, dry_run, proof_rows):
+def split_one(path, base, suf, manifest, dry_run, proof_rows, fold_override=None):
     with Image.open(path) as im:
         img = im.convert("RGB")
         w, h = img.size
-        fold_px, confidence, meta = detect_fold(img)
+        if fold_override is None:
+            fold_px, confidence, meta = detect_fold(img)
+        else:
+            # a fold placed by eye in the review page; trusted over detection
+            fold_px = round(fold_override * w)
+            confidence = "manual"
+            meta = {"fold_frac": round(fold_override, 4), "gutter": 0.0,
+                    "crease": 0.0, "content": "set by hand", "method": "by hand"}
         fold_px = max(1, min(w - 1, fold_px))
 
         tag = "DIVERTED" if confidence == "reject" else "split"
@@ -475,14 +482,15 @@ def split_one(path, base, suf, manifest, dry_run, proof_rows):
         return "split"
 
 
-def run_split(triples, dry_run, write_index=True):
+def run_split(triples, dry_run, write_index=True, folds=None):
     manifest = load_manifest()
     proof_rows, done, diverted = [], 0, 0
     for path, base, suf in triples:
         if already_done(base, suf):
             print(f"  {path.name}: already split, skipping")
             continue
-        r = split_one(path, base, suf, manifest, dry_run, proof_rows)
+        r = split_one(path, base, suf, manifest, dry_run, proof_rows,
+                      fold_override=(folds or {}).get(path.name))
         if r == "split":
             done += 1
         elif r == "diverted":
@@ -578,6 +586,33 @@ def parse_apply_list(fp: Path):
     return wanted
 
 
+def run_apply_folds(fp: Path, dry_run):
+    """Split at folds placed by hand in the review page.
+
+    The file is {crop filename: fold as a fraction of width}, which is what
+    review.html saves. Anything already split is left alone.
+    """
+    with open(fp, encoding='utf-8') as f:
+        folds = json.load(f)
+    triples = []
+    for name in sorted(folds):
+        stem = Path(name).stem
+        m = CROP_RE.match(stem)
+        path = PROCESSED_DIR / (stem + ".jpg")
+        frac = folds[name]
+        if not m:
+            print(f"  {name}: not a <scan>_<suffix> crop name, skipping")
+        elif not path.exists():
+            print(f"  {name}: not found in processed/, skipping")
+        elif not (0.05 < float(frac) < 0.95):
+            print(f"  {name}: fold {frac} is outside the sheet, skipping")
+        else:
+            triples.append((path, m.group(1), m.group(2)))
+    print(f"applying {len(triples)} hand-placed fold(s) from {fp.name}")
+    run_split(triples, dry_run, write_index=False,
+              folds={k: float(v) for k, v in folds.items()})
+
+
 def run_apply_review(fp: Path, dry_run):
     names = parse_apply_list(fp)
     if not names:
@@ -606,6 +641,8 @@ def main():
     ap.add_argument("--auto", action="store_true", help="split crops with AR >= 1.5")
     ap.add_argument("--review", action="store_true",
                     help="render the proof sheet for 1.12 <= AR < 1.5")
+    ap.add_argument("--apply-folds", metavar="PATH",
+                    help="JSON of hand-placed folds saved by review.html")
     ap.add_argument("--apply-review", metavar="PATH",
                     help="split the crops marked 'split' in a review INDEX.md / list file")
     ap.add_argument("--only", metavar="NNNN", help="restrict to crops whose name contains this")
@@ -613,11 +650,16 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="report only; write nothing")
     args = ap.parse_args()
 
-    if sum(bool(x) for x in (args.auto, args.review, args.apply_review)) != 1:
+    if sum(bool(x) for x in (args.auto, args.review, args.apply_review, args.apply_folds)) != 1:
         ap.error("pick exactly one of --auto / --review / --apply-review")
 
     if args.review:
         build_review()
+    elif args.apply_folds:
+        _f = Path(args.apply_folds)
+        if not _f.is_absolute():
+            _f = ROOT / args.apply_folds
+        run_apply_folds(_f, args.dry_run)
     elif args.apply_review:
         _p = Path(args.apply_review)
         if not _p.is_absolute():
