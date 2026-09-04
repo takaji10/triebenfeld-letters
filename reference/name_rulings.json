@@ -1,0 +1,291 @@
+{
+  "_comment": "Rulings already given on name_catalogue.md. name_catalogue.py reads this and suppresses anything settled, so a rebuild only ever shows outstanding work. Add to it as further rulings are made; never remove an entry, or the same candidate will be raised again.",
+  "_applied": "Corrected in the corpus 2026-09-03 (backup .bak6). Listed so a rebuild against an older corpus copy would still suppress them.",
+  "applied": [
+    "AMelan",
+    "AMelerich",
+    "Amelrath",
+    "Amelung",
+    "Amelungs",
+    "Appete",
+    "Bengelin",
+    "Bretz",
+    "Briechsto",
+    "Brzechffa",
+    "Brzechta",
+    "Brzechtsa",
+    "Curant",
+    "Extaffette",
+    "Gartner",
+    "Hardenburg",
+    "Hoferlohn",
+    "Hohenlose",
+    "Humbold",
+    "Humbolt",
+    "Kalicz",
+    "Kalis",
+    "Kalisch",
+    "Kaliszž",
+    "Kaliz",
+    "Krotoszin",
+    "Kálitz",
+    "Moszincka",
+    "Munduhr",
+    "Napolien",
+    "Napolion",
+    "Napolons",
+    "Panie",
+    "Peterbourg",
+    "Petersbourg",
+    "Peysern",
+    "Plass",
+    "Plate",
+    "Plaß",
+    "Portales",
+    "Portalis",
+    "Pourtalles",
+    "Protowski",
+    "Rewiek",
+    "Sakken",
+    "Sakkensche",
+    "Sakkenschen",
+    "Sakkin",
+    "Treibenfeld",
+    "Tribenfeldschen",
+    "Trzczynski",
+    "Unger"
+  ],
+  "_rejected": "Checked against the manuscript and confirmed correct as transcribed. Never re-propose.",
+  "rejected": [
+    "Eines",
+    "Inneres",
+    "Gemalie",
+    "Coeln",
+    "Spannen",
+    "Schulten",
+    "Schuzzes",
+    "Schweizern",
+    "Benshausen",
+    "Pforte",
+    "Schriften",
+    "Bedeutend",
+    "Schritz",
+    "Jemanden",
+    "Stege",
+    "Franckfurten",
+    "Märck",
+    "Berl",
+    "Allse",
+    "August",
+    "Betsch",
+    "Betschen",
+    "Beugelin",
+    "Chwalowski",
+    "Cosel",
+    "Dohna",
+    "Drzewce",
+    "Frankfurth",
+    "Garczynski",
+    "Harlem",
+    "Johnston",
+    "Karnhowsky",
+    "Kiełczewski",
+    "Klewitz",
+    "Ludolff",
+    "Magnuski",
+    "Marianton",
+    "Müllern",
+    "Nassalski",
+    "Nothardt",
+    "Radzinski",
+    "Rietesel",
+    "Ruchel",
+    "Ruzynowice",
+    "Sanitz",
+    "Schlieben",
+    "Smidkowski",
+    "Smiedecki",
+    "Stollberg",
+    "Struensee",
+    "Szczucki",
+    "Toulon",
+    "Truberger",
+    "Uminski",
+    "Wartensleben",
+    "Wildegansch",
+    "Wratislaw",
+    "Zagorow",
+    "Zglinski"
+  ],
+  "_drop_seeds": "Not names at all - ordinary German words that reached the seed list through prepositional idiom.",
+  "drop_seeds": [
+    "Werthe",
+    "Werth",
+    "Wirth",
+    "Brieten",
+    "Bedeutung",
+    "Eines",
+    "Inneres",
+    "Schweiner",
+    "Schritte",
+    "Pferd",
+    "Heuthausen",
+    "Schulde",
+    "Einer",
+    "Stenger",
+    "Mencke"
+  ],
+  "_settled_pairs": "Canonical form already chosen. Tracked in NEEDS_CONFIRMATION.md §H until applied; not a decision that still needs making.",
+  "settled_pairs": [
+    [
+      "Brzechsta",
+      "Brzechta"
+    ],
+    [
+      "Kalisz",
+      "Kalicz"
+    ],
+    [
+      "Kalisz",
+      "Kaliz"
+    ],
+    [
+      "Kalisz",
+      "Kalisch"
+    ],
+    [
+      "Kalicz",
+      "Kaliz"
+    ],
+    [
+      "Hardenberg",
+      "Hardenburg"
+    ],
+    [
+      "Krotoszyn",
+      "Krotoszin"
+    ],
+    [
+      "Napoleon",
+      "Napolion"
+    ],
+    [
+      "Triebenfeld",
+      "Treibenfeld"
+    ],
+    [
+      "Hohenlohe",
+      "Hohenlose"
+    ],
+    [
+      "Petersburg",
+      "Peterbourg"
+    ],
+    [
+      "Amelang",
+      "Amelung"
+    ],
+    [
+      "Amelang",
+      "Amelungs"
+    ],
+    [
+      "Humboldt",
+      "Humbolt"
+    ],
+    [
+      "Humboldt",
+      "Humbold"
+    ],
+    [
+      "Gärtner",
+      "Gartner"
+    ],
+    [
+      "Napoleon",
+      "Napolion"
+    ],
+    [
+      "Grotowski",
+      "Protowski"
+    ],
+    [
+      "Trzcinski",
+      "Trzczynski"
+    ],
+    [
+      "Pourtales",
+      "Portalis"
+    ],
+    [
+      "Pourtales",
+      "Pourtalles"
+    ],
+    [
+      "Pourtales",
+      "Portales"
+    ]
+  ],
+  "_locked_apart": "Confirmed DIFFERENT entities, or a legitimate inflection. Never merge, never raise.",
+  "locked_apart": [
+    [
+      "Trąbczyn",
+      "Wrąbczyn"
+    ],
+    [
+      "Swięcia",
+      "Swięcier"
+    ],
+    [
+      "Hawich",
+      "Honrichs"
+    ],
+    [
+      "Hardenberg",
+      "Wartemberg"
+    ]
+  ],
+  "_tracked_elsewhere": "Investigated and moved to NEEDS_CONFIRMATION.md §G. Suppressed here so they are not raised twice.",
+  "tracked_elsewhere": [
+    "Holland",
+    "Holländer",
+    "Hauländer",
+    "Schlawen",
+    "Wünster"
+  ],
+  "_reclassify": "kind corrections - these are seeds, just filed under the wrong type.",
+  "reclassify": {
+    "Glogau": "place",
+    "Wittow": "place",
+    "Coeln": "person",
+    "Ungar": "not-a-person"
+  },
+  "_keep_derivations": "Correct German derivations of a canonical name. Never propose these as variants - changing them produces non-German.",
+  "keep_derivations": [
+    "Kalischen",
+    "Kalischer",
+    "Kalische",
+    "Kaliszer",
+    "Zagorower",
+    "Cosmarischen",
+    "Schlabrendorffschen",
+    "Brzechſta",
+    "Swięcier"
+  ],
+  "_context_sensitive": "Tokens that are a NAME in some contexts and an ordinary word in others. Never apply a blanket whole-word replace to these - the rule that separates them is recorded alongside.",
+  "context_sensitive": {
+    "Sachen": "the Fuerstin von der Osten-Sacken ONLY when preceded by a noble title (Fuerstin/Fuersten/Graefin, optionally + von der). 8 such instances corrected to Sacken 2026-09-03; the other 116 are the ordinary German word and must stay.",
+    "Hollaender": "RESOLVED 2026-09-03. Two distinct words. In estate contexts Hollaender = Haulaender, the settler-colonists on Dutch-law (Hauland) tenure: L216 glosses it outright, 'die Haulaender oder Collonisten', and L207 p1 uses BOTH spellings on the same page for the same people ('Pol Bauren und Hollaender' in the body, 'denen Bauen und Haulaendern' in the NB). L101's '1 Hollaender Hufe ... von den Besitzern zweyer Hollaender' is the same tenure sense. In military and diplomatic contexts (line 539, L10, L286) Hollaender means Dutchmen, and Holland the country (L32, L133, L196) is correct as written. Do not merge the two senses.",
+    "Amel": "'Amel:' with a colon (line 13117) is a legitimate abbreviation of Amelang, and 'Amelan¬' (11817) is a line-wrap fragment. Neither is a misspelling; leave both.",
+    "Gärtner": "a surname (Geh. Rath v. Gärtner, x12) AND an occupation - L303's creditor register lists 'der Gärtner Nickel' beside 'der Sattler Hennig'. The people index cannot separate them; the register entry is the gardener, not the Rath. Line 4089 'Reibnitz Gartner' has no title and sits in a garbled passage - left as Gartner deliberately.",
+    "Trzcinski": "TWO different men share this surname. L299 states it outright: 'Trzcinski ist wieder hier. Es ist nicht dieser sondern den Major Trzcinski der erstickt ist.' The people index cannot separate them - same spelling - so the entry conflates two referents. The L3 variant 'Trzczynski' was merged into 'Trzcinski' 2026-09-03 on your ruling.",
+    "Portalis": "ONE surviving instance, line 18917, deliberately preserved: 'den Pourtales (nicht Portalis) wird sehr schnell etworten' is the writer's own note that the name should be Pourtales, not Portalis. Replacing it would produce 'Pourtales (nicht Pourtales)' and destroy the remark that proves the identification. Never merge this one."
+  },
+  "_places_identified": "Place names resolved from the manuscript plus historical geography, with the evidence, so the identification is not re-litigated.",
+  "places_identified": {
+    "Medzibor": "L196 dateline 'Schwarzwald bey Medzibor', corrected from 'Munduhr' 2026-09-03. Medzibor was the official name of Miedzybórz until 1886 (then Neumittelwalde), in Kreis Gross Wartenberg, Regierungsbezirk Breslau - correct for 1810. Schwarzwald is a recorded village in the same Kreis, with a forester stationed there, which fits a Kriegs- und Forstrath. Neighbouring letters 193-195/199-201 are dated Kontop and Breslau, same corner of Silesia.",
+    "Breslau (L115)": "L115 dateline read 'Bretz den 3ten Aug'; corrected to Breslau 2026-09-03 on your reading.",
+    "Peisern": "German form of Pyzdry, on the Warthe. 'Peysern' (L28 dateline, L271 prose) normalised to the corpus's existing 'Peisern' (L31) 2026-09-03.",
+    "Hawich (L28 signature)": "L28's signature read 'Rewiek[?]' - corrected to Hawich 2026-09-03 on your reading of the page. It sits in the signature slot after 'erthänigster.' and the Peisern dateline of 5 Oct 1807."
+  }
+}

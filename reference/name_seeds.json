@@ -1,0 +1,1634 @@
+[
+ {
+  "name": "Allbrecht",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Amelang",
+  "kind": "person",
+  "count": 48,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Amelangs",
+  "kind": "person",
+  "count": 6,
+  "source": "discovered",
+  "inflections": [
+   "Amelange",
+   "Amelangsche"
+  ]
+ },
+ {
+  "name": "Amstetten",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Asch",
+  "kind": "unknown",
+  "count": 5,
+  "source": "canon",
+  "inflections": [
+   "Asche"
+  ]
+ },
+ {
+  "name": "August",
+  "kind": "person",
+  "count": 53,
+  "source": "discovered",
+  "inflections": [
+   "Augusts"
+  ]
+ },
+ {
+  "name": "Baden",
+  "kind": "place",
+  "count": 5,
+  "source": "discovered",
+  "inflections": [
+   "Bade"
+  ]
+ },
+ {
+  "name": "Banden",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Band",
+   "Bande"
+  ]
+ },
+ {
+  "name": "Barbe",
+  "kind": "person",
+  "count": 24,
+  "source": "canon",
+  "inflections": [
+   "Barben",
+   "Barbes"
+  ]
+ },
+ {
+  "name": "Bartenstein",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Bartenſtein"
+  ]
+ },
+ {
+  "name": "Berlin",
+  "kind": "place",
+  "count": 234,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Bernhard",
+  "kind": "unknown",
+  "count": 27,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Bernhardi",
+  "kind": "person",
+  "count": 13,
+  "source": "canon",
+  "inflections": [
+   "Bernhardis"
+  ]
+ },
+ {
+  "name": "Besichtigung",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Betsch",
+  "kind": "unknown",
+  "count": 6,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Betsche",
+  "kind": "place",
+  "count": 23,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Betschen",
+  "kind": "place",
+  "count": 12,
+  "source": "discovered",
+  "inflections": [
+   "Betscher"
+  ]
+ },
+ {
+  "name": "Beugelin",
+  "kind": "person",
+  "count": 7,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Beyhm",
+  "kind": "person",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Blizanow",
+  "kind": "place",
+  "count": 35,
+  "source": "discovered",
+  "inflections": [
+   "Blizanower"
+  ]
+ },
+ {
+  "name": "Blomberg",
+  "kind": "person",
+  "count": 15,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Bornstädt",
+  "kind": "person",
+  "count": 10,
+  "source": "canon",
+  "inflections": [
+   "Bornstadt",
+   "Bornstadten",
+   "Bornſtädt"
+  ]
+ },
+ {
+  "name": "Brandenstein",
+  "kind": "person",
+  "count": 6,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Breiten",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Breits"
+  ]
+ },
+ {
+  "name": "Breslau",
+  "kind": "place",
+  "count": 123,
+  "source": "canon",
+  "inflections": [
+   "Breslauer",
+   "Breslausche",
+   "Breslauschen"
+  ]
+ },
+ {
+  "name": "Brieg",
+  "kind": "place",
+  "count": 19,
+  "source": "canon",
+  "inflections": [
+   "Brieger",
+   "Brieges"
+  ]
+ },
+ {
+  "name": "Broniewski",
+  "kind": "person",
+  "count": 14,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Brzechsta",
+  "kind": "person",
+  "count": 52,
+  "source": "canon",
+  "inflections": [
+   "Brzechstas",
+   "Brzechſta"
+  ]
+ },
+ {
+  "name": "Brzyze",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Brzyzer"
+  ]
+ },
+ {
+  "name": "Böhmen",
+  "kind": "place",
+  "count": 5,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Bülow",
+  "kind": "person",
+  "count": 2,
+  "source": "canon",
+  "inflections": [
+   "Bulow"
+  ]
+ },
+ {
+  "name": "Cabanis",
+  "kind": "unknown",
+  "count": 22,
+  "source": "canon",
+  "inflections": [
+   "Cabani"
+  ]
+ },
+ {
+  "name": "Chełmski",
+  "kind": "person",
+  "count": 2,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Chomanowski",
+  "kind": "person",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Chwalowski",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Cosel",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Cosmar",
+  "kind": "person",
+  "count": 84,
+  "source": "canon",
+  "inflections": [
+   "Cosmarische",
+   "Cosmarischen",
+   "Cosmars"
+  ]
+ },
+ {
+  "name": "Curland",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": [
+   "Curlandische",
+   "Curländern",
+   "Curländische",
+   "Curländischen"
+  ]
+ },
+ {
+  "name": "Dohna",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Dresden",
+  "kind": "place",
+  "count": 18,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Drzewce",
+  "kind": "place",
+  "count": 11,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Dąbrowski",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Dąbska",
+  "kind": "person",
+  "count": 10,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Eberhard",
+  "kind": "person",
+  "count": 27,
+  "source": "canon",
+  "inflections": [
+   "Eberhardsche"
+  ]
+ },
+ {
+  "name": "Eberhardt",
+  "kind": "person",
+  "count": 11,
+  "source": "discovered",
+  "inflections": [
+   "Eberhardts"
+  ]
+ },
+ {
+  "name": "Emilie",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Emilien"
+  ]
+ },
+ {
+  "name": "Erfurth",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Erreichung",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Eysenhardt",
+  "kind": "person",
+  "count": 16,
+  "source": "canon",
+  "inflections": [
+   "Eysenhardtsche",
+   "Eyſenhardt"
+  ]
+ },
+ {
+  "name": "Falkenhausen",
+  "kind": "unknown",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Flesch",
+  "kind": "person",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Frankfurth",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": [
+   "Frankfürthen"
+  ]
+ },
+ {
+  "name": "Garczynski",
+  "kind": "person",
+  "count": 11,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Glenck",
+  "kind": "person",
+  "count": 112,
+  "source": "canon",
+  "inflections": [
+   "Glencken",
+   "Glencks",
+   "Glencksche",
+   "Glenckschen"
+  ]
+ },
+ {
+  "name": "Glogau",
+  "kind": "place",
+  "count": 4,
+  "source": "canon",
+  "inflections": [
+   "Glogausche"
+  ]
+ },
+ {
+  "name": "Gneizenau",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Goerne",
+  "kind": "person",
+  "count": 4,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Goldbeck",
+  "kind": "person",
+  "count": 7,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Grenoble",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Grotowski",
+  "kind": "person",
+  "count": 18,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Grävenitz",
+  "kind": "person",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Gärtner",
+  "kind": "person",
+  "count": 13,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Göschel",
+  "kind": "person",
+  "count": 6,
+  "source": "canon",
+  "inflections": [
+   "Goschel"
+  ]
+ },
+ {
+  "name": "Hannover",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Hardenberg",
+  "kind": "person",
+  "count": 32,
+  "source": "canon",
+  "inflections": [
+   "Hardenbergs",
+   "Hardenbergsche"
+  ]
+ },
+ {
+  "name": "Haugwitz",
+  "kind": "person",
+  "count": 7,
+  "source": "canon",
+  "inflections": [
+   "Haugwitzen"
+  ]
+ },
+ {
+  "name": "Hawich",
+  "kind": "person",
+  "count": 42,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Hecker",
+  "kind": "unknown",
+  "count": 32,
+  "source": "canon",
+  "inflections": [
+   "Heckern",
+   "Heckers"
+  ]
+ },
+ {
+  "name": "Hessen",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": [
+   "Hesse",
+   "Heſſen"
+  ]
+ },
+ {
+  "name": "Hohenlohe",
+  "kind": "unknown",
+  "count": 44,
+  "source": "canon",
+  "inflections": [
+   "Hohenloh",
+   "Hohenlohische",
+   "Hohenlohischen"
+  ]
+ },
+ {
+  "name": "Honrichs",
+  "kind": "person",
+  "count": 111,
+  "source": "canon",
+  "inflections": [
+   "Hönrichs"
+  ]
+ },
+ {
+  "name": "Hoym",
+  "kind": "person",
+  "count": 10,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Humboldt",
+  "kind": "person",
+  "count": 17,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Höym",
+  "kind": "person",
+  "count": 7,
+  "source": "canon",
+  "inflections": [
+   "Hoyms"
+  ]
+ },
+ {
+  "name": "Ingelfingen",
+  "kind": "place",
+  "count": 14,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Italien",
+  "kind": "place",
+  "count": 14,
+  "source": "discovered",
+  "inflections": [
+   "Itali"
+  ]
+ },
+ {
+  "name": "Kaemen",
+  "kind": "place",
+  "count": 35,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Kalisz",
+  "kind": "place",
+  "count": 59,
+  "source": "discovered",
+  "inflections": [
+   "Kaliszer"
+  ]
+ },
+ {
+  "name": "Kempen",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Kircheisen",
+  "kind": "person",
+  "count": 9,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Kleist",
+  "kind": "person",
+  "count": 4,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Knobelsdorff",
+  "kind": "person",
+  "count": 16,
+  "source": "canon",
+  "inflections": [
+   "Knobelsdorffs",
+   "Knobelsdorffsche",
+   "Knobelsdorffschen"
+  ]
+ },
+ {
+  "name": "Kolno",
+  "kind": "place",
+  "count": 7,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Konin",
+  "kind": "place",
+  "count": 2,
+  "source": "canon",
+  "inflections": [
+   "Konie"
+  ]
+ },
+ {
+  "name": "Kontop",
+  "kind": "place",
+  "count": 51,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Kopojno",
+  "kind": "place",
+  "count": 10,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Krotoszyn",
+  "kind": "place",
+  "count": 44,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Kunckel",
+  "kind": "unknown",
+  "count": 11,
+  "source": "canon",
+  "inflections": [
+   "Kunckels"
+  ]
+ },
+ {
+  "name": "Kurnatowski",
+  "kind": "person",
+  "count": 2,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Kwilecki",
+  "kind": "person",
+  "count": 9,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Köckritz",
+  "kind": "person",
+  "count": 37,
+  "source": "canon",
+  "inflections": [
+   "Köckritzschen"
+  ]
+ },
+ {
+  "name": "Königsberg",
+  "kind": "place",
+  "count": 18,
+  "source": "canon",
+  "inflections": [
+   "Konigsberg",
+   "Königsberger"
+  ]
+ },
+ {
+  "name": "Lahr",
+  "kind": "person",
+  "count": 45,
+  "source": "canon",
+  "inflections": [
+   "Lahrsche",
+   "Lahrschen"
+  ]
+ },
+ {
+  "name": "Landen",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Land",
+   "Lande",
+   "Landes",
+   "Lands",
+   "Länder"
+  ]
+ },
+ {
+  "name": "Langenburg",
+  "kind": "place",
+  "count": 5,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Lichnowski",
+  "kind": "person",
+  "count": 23,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Lipski",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Lombardini",
+  "kind": "person",
+  "count": 26,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Magdeburg",
+  "kind": "unknown",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Magnuski",
+  "kind": "person",
+  "count": 2,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Marianton",
+  "kind": "person",
+  "count": 5,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Massenbach",
+  "kind": "unknown",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Massow",
+  "kind": "person",
+  "count": 4,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Memel",
+  "kind": "unknown",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Metternich",
+  "kind": "person",
+  "count": 5,
+  "source": "canon",
+  "inflections": [
+   "Metternichs"
+  ]
+ },
+ {
+  "name": "Metzig",
+  "kind": "person",
+  "count": 6,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Meyer",
+  "kind": "person",
+  "count": 45,
+  "source": "canon",
+  "inflections": [
+   "Meyern",
+   "Meyers"
+  ]
+ },
+ {
+  "name": "Michaelis",
+  "kind": "person",
+  "count": 29,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Miedzeritz",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Moscinska",
+  "kind": "person",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Napoleon",
+  "kind": "person",
+  "count": 23,
+  "source": "canon",
+  "inflections": [
+   "Napoléon"
+  ]
+ },
+ {
+  "name": "Neisse",
+  "kind": "place",
+  "count": 14,
+  "source": "discovered",
+  "inflections": [
+   "Neisser"
+  ]
+ },
+ {
+  "name": "Nesselrode",
+  "kind": "person",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Neuenstein",
+  "kind": "place",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Niedzewiecki",
+  "kind": "person",
+  "count": 10,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Nöldichen",
+  "kind": "person",
+  "count": 6,
+  "source": "discovered",
+  "inflections": [
+   "Nöldiche"
+  ]
+ },
+ {
+  "name": "Olesnica",
+  "kind": "place",
+  "count": 22,
+  "source": "canon",
+  "inflections": [
+   "Olesnicas"
+  ]
+ },
+ {
+  "name": "Oppeln",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Otocki",
+  "kind": "person",
+  "count": 11,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Otto",
+  "kind": "person",
+  "count": 4,
+  "source": "discovered",
+  "inflections": [
+   "Ottoischen",
+   "Ottosche"
+  ]
+ },
+ {
+  "name": "Paris",
+  "kind": "place",
+  "count": 36,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Petersburg",
+  "kind": "place",
+  "count": 10,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Philippsborn",
+  "kind": "unknown",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Pirch",
+  "kind": "person",
+  "count": 5,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Pochammer",
+  "kind": "person",
+  "count": 12,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Polajewo",
+  "kind": "place",
+  "count": 25,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Pommern",
+  "kind": "place",
+  "count": 6,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Posen",
+  "kind": "place",
+  "count": 24,
+  "source": "canon",
+  "inflections": [
+   "Pöſe"
+  ]
+ },
+ {
+  "name": "Potsdam",
+  "kind": "unknown",
+  "count": 9,
+  "source": "discovered",
+  "inflections": [
+   "Potsdamschen"
+  ]
+ },
+ {
+  "name": "Pourtales",
+  "kind": "person",
+  "count": 17,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Preußen",
+  "kind": "place",
+  "count": 26,
+  "source": "discovered",
+  "inflections": [
+   "Preussen",
+   "Preuß",
+   "Preuße",
+   "Preußische",
+   "Preußischer"
+  ]
+ },
+ {
+  "name": "Prittwitz",
+  "kind": "place",
+  "count": 4,
+  "source": "canon",
+  "inflections": [
+   "Prittwitzen"
+  ]
+ },
+ {
+  "name": "Prusimska",
+  "kind": "unknown",
+  "count": 11,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Prussiemski",
+  "kind": "person",
+  "count": 12,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Przespolewski",
+  "kind": "person",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Radzinski",
+  "kind": "person",
+  "count": 8,
+  "source": "discovered",
+  "inflections": [
+   "Radzinskis"
+  ]
+ },
+ {
+  "name": "Rapacki",
+  "kind": "person",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Reinhardt",
+  "kind": "unknown",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Rhode",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Rhoden"
+  ]
+ },
+ {
+  "name": "Ruzynowice",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Sachsen",
+  "kind": "place",
+  "count": 18,
+  "source": "discovered",
+  "inflections": [
+   "Sachſen",
+   "Sächsischen"
+  ]
+ },
+ {
+  "name": "Sachßen",
+  "kind": "place",
+  "count": 10,
+  "source": "discovered",
+  "inflections": [
+   "Sachß",
+   "Sächß"
+  ]
+ },
+ {
+  "name": "Sacken",
+  "kind": "person",
+  "count": 25,
+  "source": "canon",
+  "inflections": [
+   "Sack",
+   "Sacke"
+  ]
+ },
+ {
+  "name": "Sagan",
+  "kind": "place",
+  "count": 4,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Scharnhorst",
+  "kind": "person",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Schenck",
+  "kind": "person",
+  "count": 29,
+  "source": "canon",
+  "inflections": [
+   "Schencks"
+  ]
+ },
+ {
+  "name": "Schimmelpfennig",
+  "kind": "person",
+  "count": 9,
+  "source": "discovered",
+  "inflections": [
+   "Schimmelpfennigschen"
+  ]
+ },
+ {
+  "name": "Schlabrendorff",
+  "kind": "person",
+  "count": 30,
+  "source": "canon",
+  "inflections": [
+   "Schlabrendorffen",
+   "Schlabrendorffs",
+   "Schlabrendorffschen"
+  ]
+ },
+ {
+  "name": "Schlawenschitz",
+  "kind": "place",
+  "count": 42,
+  "source": "canon",
+  "inflections": [
+   "Schlawenschitzer"
+  ]
+ },
+ {
+  "name": "Schlesien",
+  "kind": "place",
+  "count": 18,
+  "source": "discovered",
+  "inflections": [
+   "Schleſien"
+  ]
+ },
+ {
+  "name": "Schulenburg",
+  "kind": "person",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Schulze",
+  "kind": "person",
+  "count": 5,
+  "source": "discovered",
+  "inflections": [
+   "Schulz",
+   "Schulzer",
+   "Schulzische"
+  ]
+ },
+ {
+  "name": "Schöler",
+  "kind": "person",
+  "count": 3,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Smidkowski",
+  "kind": "person",
+  "count": 2,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Smiedecki",
+  "kind": "person",
+  "count": 2,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Sobottendorff",
+  "kind": "person",
+  "count": 11,
+  "source": "canon",
+  "inflections": [
+   "Sobottendorffischen",
+   "Sobottendorffs"
+  ]
+ },
+ {
+  "name": "Sommer",
+  "kind": "person",
+  "count": 18,
+  "source": "canon",
+  "inflections": [
+   "Sommers"
+  ]
+ },
+ {
+  "name": "Spanien",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Spanier"
+  ]
+ },
+ {
+  "name": "Stein",
+  "kind": "person",
+  "count": 27,
+  "source": "discovered",
+  "inflections": [
+   "Stei"
+  ]
+ },
+ {
+  "name": "Stossel",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Struensee",
+  "kind": "person",
+  "count": 7,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Stägemann",
+  "kind": "person",
+  "count": 31,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Stössel",
+  "kind": "person",
+  "count": 31,
+  "source": "canon",
+  "inflections": [
+   "Stosseln",
+   "Stossels",
+   "Stösseln",
+   "Stössels",
+   "Stösselschen",
+   "Stößel"
+  ]
+ },
+ {
+  "name": "Swiątniki",
+  "kind": "place",
+  "count": 8,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Swięcia",
+  "kind": "place",
+  "count": 17,
+  "source": "discovered",
+  "inflections": [
+   "Swiecia"
+  ]
+ },
+ {
+  "name": "Swięcier",
+  "kind": "unknown",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Szczucki",
+  "kind": "person",
+  "count": 2,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Szetlewek",
+  "kind": "place",
+  "count": 15,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Südpreußen",
+  "kind": "place",
+  "count": 21,
+  "source": "discovered",
+  "inflections": [
+   "Sudpreußen",
+   "Sudpreußisch",
+   "SüdPreussen",
+   "SüdPreußen",
+   "SüdPreußischen",
+   "SüdPreußischer",
+   "Südpreuße",
+   "Südpreußische",
+   "Südpreußischen"
+  ]
+ },
+ {
+  "name": "Talleyrand",
+  "kind": "unknown",
+  "count": 6,
+  "source": "canon",
+  "inflections": [
+   "Talleyrands"
+  ]
+ },
+ {
+  "name": "Thiel",
+  "kind": "unknown",
+  "count": 2,
+  "source": "canon",
+  "inflections": [
+   "Thiele",
+   "Thieler"
+  ]
+ },
+ {
+  "name": "Thoren",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": [
+   "Thor",
+   "Thore"
+  ]
+ },
+ {
+  "name": "Tietz",
+  "kind": "person",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Triebenfeld",
+  "kind": "person",
+  "count": 331,
+  "source": "canon",
+  "inflections": [
+   "Triebenfeldsche",
+   "Triebenfeldschen"
+  ]
+ },
+ {
+  "name": "Trzcinski",
+  "kind": "person",
+  "count": 11,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Trąbczyn",
+  "kind": "place",
+  "count": 53,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Uminski",
+  "kind": "person",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Ungarn",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": [
+   "Ungar",
+   "Ungarischen"
+  ]
+ },
+ {
+  "name": "Voss",
+  "kind": "person",
+  "count": 58,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Warschau",
+  "kind": "place",
+  "count": 44,
+  "source": "canon",
+  "inflections": [
+   "Warschauer",
+   "Warschauischer"
+  ]
+ },
+ {
+  "name": "Wartemberg",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Wartensleben",
+  "kind": "person",
+  "count": 11,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Wedel",
+  "kind": "unknown",
+  "count": 2,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Weigel",
+  "kind": "person",
+  "count": 92,
+  "source": "canon",
+  "inflections": [
+   "Weigeln",
+   "Weigels",
+   "Weigelsche"
+  ]
+ },
+ {
+  "name": "Werner",
+  "kind": "person",
+  "count": 6,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Wien",
+  "kind": "place",
+  "count": 81,
+  "source": "canon",
+  "inflections": [
+   "Wiener"
+  ]
+ },
+ {
+  "name": "Winzingerode",
+  "kind": "person",
+  "count": 5,
+  "source": "canon",
+  "inflections": [
+   "Winzingeroden"
+  ]
+ },
+ {
+  "name": "Wittow",
+  "kind": "place",
+  "count": 5,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Wrąbczyn",
+  "kind": "place",
+  "count": 9,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Würde",
+  "kind": "place",
+  "count": 4,
+  "source": "discovered",
+  "inflections": [
+   "Würd",
+   "Würden"
+  ]
+ },
+ {
+  "name": "Würtemberg",
+  "kind": "place",
+  "count": 18,
+  "source": "discovered",
+  "inflections": [
+   "Wurtemberg",
+   "Wurtembergsche",
+   "Würtemberger",
+   "Würtembergischen",
+   "Würtembergsche",
+   "Würtembergschen"
+  ]
+ },
+ {
+  "name": "Zagorow",
+  "kind": "unknown",
+  "count": 9,
+  "source": "discovered",
+  "inflections": [
+   "Zagorowe",
+   "Zagorower"
+  ]
+ },
+ {
+  "name": "Zagorowo",
+  "kind": "place",
+  "count": 36,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Zastrow",
+  "kind": "person",
+  "count": 27,
+  "source": "canon",
+  "inflections": [
+   "Zastrowschen"
+  ]
+ },
+ {
+  "name": "Zerboni",
+  "kind": "person",
+  "count": 36,
+  "source": "canon",
+  "inflections": []
+ },
+ {
+  "name": "Zerbonis",
+  "kind": "place",
+  "count": 3,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Zglinski",
+  "kind": "person",
+  "count": 4,
+  "source": "discovered",
+  "inflections": []
+ },
+ {
+  "name": "Öhringen",
+  "kind": "place",
+  "count": 16,
+  "source": "canon",
+  "inflections": [
+   "Ohringscher"
+  ]
+ }
+]

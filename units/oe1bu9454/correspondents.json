@@ -1,0 +1,1910 @@
+{
+  "1": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "10": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "100": {
+    "basis": "sig:\\bBeyme?\\b|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "Beyme"
+  },
+  "101": {
+    "basis": "sig:|sal:Allerdurchlauchtigster",
+    "confidence": "partial",
+    "recipient": "König Friedrich Wilhelm III. von Preußen",
+    "sender": ""
+  },
+  "102": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "103": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "104": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "105": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "106": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "107": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "108": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "109": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "11": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "110": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "111": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "112": {
+    "basis": "sig:|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "113": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "114": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "115": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "116": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "117": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "118a": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "118b": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "118c": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "119": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "12": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "120": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "121": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "122": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "123": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "124": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "125": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "126": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "127": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "128": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "129": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "13": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "130": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "131": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "132": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "133": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "134": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "135": {
+    "basis": "sig:\\bStubenrauch\\b|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "Stubenrauch"
+  },
+  "136": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "137": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "138": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "139": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "14": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "140": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "141": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "142": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "143": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "144": {
+    "basis": "sig:|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "145": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "146": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "147": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "148": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "149": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "15": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "150": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "151": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "152": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "153": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "154": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "155": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "156": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "157": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "158": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "159": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "16": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "160": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "161": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "162": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "163": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "164": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "165": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "166": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "167": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "168": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "169": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "17": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "170": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "171": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "172": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "173": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "174": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "175": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "176": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "177": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "178": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "179": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "179a": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "18": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "180": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "181": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "182": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "183": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "184": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|body address form",
+    "confidence": "body",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "185": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "186": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "187": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "188": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "189": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "19": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "190": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|body address form",
+    "confidence": "body",
+    "recipient": "von Triebenfeld",
+    "sender": "Hahn"
+  },
+  "191": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "192": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "193": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "194": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "195": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "196": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "197": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "198": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "199": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "1a": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "2": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "20": {
+    "basis": "sig:|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "200": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "201": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "202": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "203": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "204": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "205": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "206": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "207": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "208": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "209": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "21": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "210": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "211": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "212": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "213": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "214": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "215": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "216": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "217": {
+    "basis": "sig:v\\.?\\s*Sanitz|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "von Sanitz"
+  },
+  "218": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "219": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "22": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "220": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "221": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "222": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "223": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "224": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "225": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "226": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "227": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "228": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "229": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "23": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "230": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "231": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "232": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "233": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "234": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "235": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "236": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "237": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "238": {
+    "basis": "sig:F\\.?\\s*L\\.?\\s*F\\.?\\s*zu\\|sal:Hochzuehrender\\s+Herr|Ho +office named",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
+  },
+  "239": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "24": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "240": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "241": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "242": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "243": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "244": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "245": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "246": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "247": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "248": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "249": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "25": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "250": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "251": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "252": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "253": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "254": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "255": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "256": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "257": {
+    "basis": "sig:\\bGruemann\\b|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "Gruemann[?]"
+  },
+  "258": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "259": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "26": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "260": {
+    "basis": "sig:|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "261": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "262": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "263": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "264": {
+    "basis": "sig:F\\.?\\s*L\\.?\\s*F\\.?\\s*zu\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "265a": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Wohlgeborner\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "265b": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "266": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "267": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "268": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "269": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "269a": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "27": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "270": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "271": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "272": {
+    "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "Hahn"
+  },
+  "273": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "274": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "275": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "276": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "277": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "278": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "279": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "28": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "280": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "281": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "282": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "283": {
+    "basis": "sig:\\bBequelin\\b|\\bBeugelin\\|sal:Monseigneur",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "Beugelin"
+  },
+  "284": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "285": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "286": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "287": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "288": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "289": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "29": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "290": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "291": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "292": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "293": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "294": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "295": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "296": {
+    "basis": "sig:\\bGrewen|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "Grewen[z?]"
+  },
+  "297": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "298": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "299": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "3": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "30": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "300": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "301": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "302": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "303": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "31": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "32": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "33": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "34": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "35": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "36": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "37": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "38": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "39": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "4": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "40": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "41": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "42": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "43": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "44": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "45": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "46": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "47": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "48": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "49": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "5": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "50": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "51": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "52": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "53": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "54": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "55": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "56": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "57": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "58": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "59": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "6": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "60": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "61": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Wohlgeborner\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "62": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "63": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "64": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "65": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "66": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "67": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "68": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "69": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "7": {
+    "basis": "sig:Charlotte\\s+von\\s+Triebe|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "Charlotte von Triebenfeld"
+  },
+  "70": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "71": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "72": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr +office named",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "72a": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "72b": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "72c": {
+    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "partial",
+    "recipient": "von Triebenfeld",
+    "sender": ""
+  },
+  "72d": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "72e": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "72f": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "73": {
+    "basis": "sig:F\\.?\\s*L\\.?\\s*F\\.?\\s*zu\\|sal:Hochwohlgeb\\w*\\s+Herr",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
+  },
+  "74a": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "74b": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
+    "confidence": "body",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "74c": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "74d": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
+    "confidence": "partial",
+    "recipient": "",
+    "sender": "von Triebenfeld"
+  },
+  "75": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "76": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "77": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "78": {
+    "basis": "sig:|sal:Gn(ä|ae)digster\\s+F(ü|ue",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "79": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "8": {
+    "basis": "sig:|body address form",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "80": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "81": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "82": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "83": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "84": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "85": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "86": {
+    "basis": "sig:|sal:Allerdurchlauchtigster",
+    "confidence": "partial",
+    "recipient": "König Friedrich Wilhelm III. von Preußen",
+    "sender": ""
+  },
+  "87": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "88": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "89": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "9": {
+    "basis": "unmatched",
+    "confidence": "none",
+    "recipient": "",
+    "sender": ""
+  },
+  "90": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "91": {
+    "basis": "sig:\\bBeyme?\\b|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "Beyme"
+  },
+  "92": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "93": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "94": {
+    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "partial",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": ""
+  },
+  "95": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "96": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "97": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "98": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  },
+  "99": {
+    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "von Triebenfeld"
+  }
+}

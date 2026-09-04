@@ -1,0 +1,516 @@
+# Controlled termbase for the English translation (Phase C).
+#
+# Two jobs, one file:
+#   1. translate.py renders this into the cached system prompt, so all 318
+#      letters agree on how a term is put into English.
+#   2. check_translations.py enforces it afterwards - wherever `pattern` fires
+#      in the German, `render` must appear in the English, or the page gets a
+#      `glossary-mismatch` row in translation_review.csv.
+#
+# policy:
+#   keep            leave the German word standing in the English text
+#   translate       replace with `render`
+#   gloss-first-use keep the German, but gloss it the first time in a letter
+#
+# `poles` is only for the rare confusion pairs. collate_translations.py uses it
+# to tell a real meaning-reversal from ordinary paraphrase: if the two witnesses
+# land in different poles that is a divergence worth your time; same pole, or
+# neither, is just two ways of saying the same thing.
+#
+# Counts in comments are occurrences in the corpus, for a sense of weight.
+
+editorial_policy: |
+  This is a READING COPY, not a diplomatic edition. Anyone doing close textual work
+  will go back to the manuscript regardless, so the translation's job is to be
+  faithful and readable, not to reproduce every defect of the transcription.
+
+  Where the transcription is obviously corrupt and the intended word is not in
+  reasonable doubt, translate what was plainly meant, and record the emendation.
+  Do not carry a mangled token into the English. `Mußland` is Rußland, so the
+  English says Russia; `der Fünſt` is der Fürst, so it says the Prince; `Capitul`
+  is Capital, `Blauquette` is Blanquette, `ex nexa` is ex nexu, the `Herzogin von
+  Sagen` is the Duchess of Sagan. Leaving these standing helps nobody: the reader
+  gets nonsense and the scholar still has to check the manuscript.
+
+  Reserve a visible mark for doubt that actually matters:
+    * you cannot tell what was meant;
+    * two readings are both plausible and differ in MEANING;
+    * the choice changes a figure, or which person or place is referred to;
+    * without a mark the sentence would read as confident sense that may be wrong.
+
+  The test is the reader's: would leaving this unmarked make the passage
+  misleading, or merely less than perfectly certain? Mark the first. Let the
+  second go, and record it.
+
+house_style: |
+  Period-faithful but readable English. Keep the deference structure intact -
+  it carries much of the meaning in this correspondence, where a dependent
+  agent writes upward to his prince. Do not flatten the graduated honorifics
+  into modern business politeness. Period vocabulary stands; terms of art keep
+  their German form where English has no true equivalent.
+
+# ---------------------------------------------------------------- currency --
+# The system, verified internally consistent in currency_normalisation_report.md:
+# 1 Reichsthaler = 24 Groschen; 1 Groschen = 12 Pfennig.
+# Figures are never recomputed, converted or modernised - carry them across
+# exactly as written. No financial figure in this corpus is trustworthy alone.
+
+currency:
+  - term: Rthl                              # 1519 in corpus
+    pattern: '\bRthl\b\.?'
+    policy: keep
+    render: 'Rthl'
+    gloss: 'Reichsthaler, the Prussian silver unit of account'
+  - term: Courant                           # 152 in corpus
+    pattern: '\bCourant\b'
+    policy: keep
+    render: 'Courant'
+    gloss: 'current-money Reichsthaler - a distinct denomination from Gold, never merge the two'
+  - term: Gold                              # 20 in corpus
+    pattern: '\bGold\b'
+    policy: keep
+    render: 'Gold'
+    gloss: 'gold Reichsthaler, kept separate from Courant in the liquidation register'
+  - term: Groschen                          # 36 in corpus
+    pattern: '\bg(?:ute)?\.? ?Groschen\b|\bGroschen\b'
+    policy: keep
+    render: 'Groschen'
+    gloss: '1/24 Reichsthaler'
+  - term: Pfennig                           # 3 in corpus
+    pattern: '\bPfennig\w*\b'
+    policy: keep
+    render: 'Pfennig'
+    gloss: "1/12 Groschen; abbreviated `d` (denarius) in the Pfennig position, as in British pre-decimal pence"
+  - term: Ducaten                           # 31 in corpus
+    pattern: '\bDucaten\b'
+    policy: translate
+    render: 'ducats'
+  - term: Gulden                            # 13 in corpus
+    pattern: '\bGulden\b|\bfl\.'
+    policy: translate
+    render: 'gulden'
+    gloss: 'the Viennese florin, the currency of the Congress letters'
+
+# ------------------------------------------------------- forms of address --
+# The gradient matters: Durchlaucht (a prince) outranks Hochwohlgeboren (titled
+# nobility/senior official) outranks Wohlgeboren. Keep them distinct in English.
+
+honorifics:
+  - term: Durchlauchtigster Fürst           # 196 in corpus
+    pattern: 'Durchlauchtigster F(ü|ue)rst'
+    policy: translate
+    render: 'Most Serene Prince'
+  - term: Gnädigster Fürst und Herr         # 150 in corpus
+    pattern: 'Gn(ä|ae)digster F(ü|ue)rst und Herr'
+    policy: translate
+    render: 'Most gracious Prince and Lord'
+  - term: Gnädigster Herr                   # 81 in corpus
+    pattern: 'Gn(ä|ae)digster Herr'
+    policy: translate
+    render: 'Most gracious Lord'
+  - term: Ewr Hochfürstliche Durchlaucht    # 286 in corpus
+    pattern: 'Hochf(ü|ue)rstliche\w* Durchlaucht'
+    policy: translate
+    render: 'Your Most Serene Highness'
+  - term: Ewr Durchlaucht                   # 976 in corpus
+    pattern: '\b(Ewr|Ewer|Euer|Ew\.?)\s+Durchlaucht'
+    policy: translate
+    render: 'Your Serene Highness'
+  - term: Durchlaucht                       # 1719 in corpus
+    pattern: '\bDurchlaucht\w*'
+    policy: translate
+    render: 'Serene Highness'
+  - term: Hochwohlgebohrner Herr            # 21 in corpus
+    pattern: 'Hochwohlgeb(oh|o)rner Herr'
+    policy: translate
+    render: 'Right Honourable Sir'
+    gloss: 'Hochwohlgeboren, literally "high well-born" - the style for titled nobility and senior officials, a rank below Durchlaucht'
+  - term: Hochwohlgebohren                  # 130 in corpus
+    pattern: '\bHochwohlgeb\w*'
+    policy: translate
+    render: 'Your Right Honourable'
+  - term: Hochzuehrender Herr               # 15 in corpus
+    pattern: 'Hoch(zu)?(ver)?ehrender Herr'
+    policy: translate
+    render: 'Highly Honoured Sir'
+  - term: Wohlgeborn                        # 8 in corpus
+    pattern: '\bWohlgeb(o|oh)rn\w*'
+    policy: translate
+    render: 'Your Honour'
+    gloss: 'Wohlgeboren, the style below Hochwohlgeboren'
+  - term: Königliche Majestät               # 8 in corpus
+    pattern: 'K(ö|oe)nigl\w*\.? Majest(ä|ae)t'
+    policy: translate
+    render: "Your Royal Majesty"
+
+# ------------------------------------------------------- closing formulas --
+# Where a model will otherwise default to "yours sincerely" and destroy the
+# register. These are near-universal in the corpus.
+
+formulas:
+  - term: unterthänigster Diener            # 35 in corpus
+    pattern: 'untert(h)?(ä|ae)nigster Diener'
+    policy: translate
+    render: 'most humble and obedient servant'
+  - term: unterthäniger Diener              # 49 in corpus
+    pattern: 'untert(h)?(ä|ae)niger Diener'
+    policy: translate
+    render: 'humble and obedient servant'
+  - term: gehorsamster Diener               # 43 in corpus
+    pattern: '(treu )?gehorsamster Diener'
+    policy: translate
+    render: 'most obedient servant'
+  - term: treuester Knecht                  # 25 in corpus
+    pattern: 'treu(ester|er) Knecht'
+    policy: translate
+    render: 'most faithful servant'
+    gloss: 'Knecht is humbler than Diener - a bondsman rather than a servant; the self-abasement is deliberate'
+  - term: ersterbe                          # 130 in corpus
+    pattern: '\bersterbe\b'
+    policy: translate
+    render: 'I remain, until death,'
+    gloss: 'the standing closing formula: "in deepest reverence I remain unto death..."'
+  - term: In tiefster                       # 13 in corpus
+    pattern: 'In tiefster (Ehrfurcht|Submission|Respect|Treue)'
+    policy: translate
+    render: 'In deepest reverence'
+
+# ------------------------------------------------ legal and estate business --
+
+terms:
+  - term: Sequestration                     # 60 in corpus
+    pattern: '\bSequestrat\w*|\bSequest\w*'
+    policy: translate
+    render: 'sequestration'
+    gloss: 'court-ordered seizure and administration of an estate on behalf of creditors'
+  - term: Vollmacht                         # 106 in corpus
+    pattern: '\bVollmacht\w*'
+    policy: translate
+    render: 'power of attorney'
+  - term: Revers                            # 18 in corpus
+    pattern: '\bRevers\b\w*'
+    policy: translate
+    render: 'written undertaking'
+    gloss: 'a signed bond or counter-declaration'
+  - term: Hypothequen                       # 62 in corpus
+    pattern: '\bHypothe(qu|k)\w*'
+    policy: translate
+    render: 'mortgage'
+  - term: Majorat                           # 41 in corpus
+    pattern: '\bMajorat\w*'
+    policy: translate
+    render: 'entailed estate'
+    gloss: 'Majorat - an estate passing undivided to the eldest heir'
+  - term: Vorwerk                           # 21 in corpus
+    pattern: '\bVorwer(k|ck)\w*'
+    policy: translate
+    render: 'demesne farm'
+    gloss: 'an outlying home farm worked for the manor'
+  - term: Cammer                            # 65 in corpus
+    pattern: '\b(Cammer|Kammer)\b'
+    policy: translate
+    render: 'Chamber'
+    gloss: 'the Prussian Kriegs- und Domänenkammer, the provincial administrative board'
+  - term: Wechsel                           # 39 in corpus
+    pattern: '\bWechsel\w*'
+    policy: translate
+    render: 'bill of exchange'
+  - term: Unterthanen                       # 39 in corpus
+    pattern: '\bUnterthan\w*'
+    policy: translate
+    render: 'subjects'
+    gloss: 'the manorial peasantry owing dues and labour'
+  - term: Transact                          # 24 in corpus
+    pattern: '\bTransact\w*'
+    policy: translate
+    render: 'settlement'
+    gloss: 'the formal compromise between the Prince and his creditors; the 1811 Transact is a recurring thread'
+  - term: Estaffette                        # 29 in corpus
+    pattern: '\bEstaf(f)?ette\w*'
+    policy: translate
+    render: 'express courier'
+  - term: Hufe                              # 30 in corpus
+    pattern: '\bHufe\w*'
+    policy: keep
+    render: 'Hufe'
+    gloss: 'a holding of arable, the standard settler allotment'
+  - term: Anschlag                          # 18 in corpus
+    pattern: '\bAnschlag\w*'
+    policy: translate
+    render: 'valuation'
+  - term: Quittung                          # 23 in corpus
+    pattern: '\bQuittung\w*'
+    policy: translate
+    render: 'receipt'
+  - term: Erbpacht                          # 21 in corpus
+    pattern: '\bErbpacht\w*'
+    policy: translate
+    render: 'hereditary lease'
+  - term: Dismembration                     # 45 in corpus
+    pattern: '\bDismembrat\w*|\bdismembrir\w*'
+    policy: translate
+    render: 'dismemberment'
+    gloss: 'the legal parcelling-up of an estate into separate saleable holdings'
+  - term: Canon                             # 17 in corpus
+    pattern: '\bCanon\b'
+    policy: translate
+    render: 'canon'
+    gloss: 'the fixed annual quit-rent owed under a hereditary lease'
+  - term: Propination                       # 14 in corpus
+    pattern: '\bPropinat\w*'
+    policy: translate
+    render: 'propination rights'
+    gloss: 'the manorial monopoly on brewing and selling liquor'
+  - term: Collonisten                       # 32 in corpus
+    pattern: '\bCollon\w*|\bKolonist\w*'
+    policy: translate
+    render: 'colonists'
+    gloss: 'settlers placed on cleared or dismembered land'
+  - term: Morgen                            # 87 in corpus
+    # The land measure only. Bare "Morgen" is also "tomorrow" and "morning",
+    # and matching those made this the single noisiest check in the sheet.
+    pattern: '\d\s*Morgen\b'
+    policy: keep
+    render: 'Morgen'
+    gloss: 'a land measure, roughly a quarter-hectare in Prussia'
+  - term: Komornik                          # 5 in corpus
+    pattern: '\bKomornik\w*'
+    policy: keep
+    render: 'komornik'
+    gloss: 'a Polish court bailiff / enforcement officer'
+  - term: Podprefect                        # 11 in corpus
+    pattern: '\bPod\s?pr(ae|ä|e)fect\w*'
+    policy: translate
+    render: 'sub-prefect'
+    gloss: 'the Duchy of Warsaw district official'
+  - term: Moratorium                        # 8 in corpus
+    pattern: '\bMoratori\w*'
+    policy: translate
+    render: 'moratorium'
+  - term: Codizill                          # 6 in corpus
+    pattern: '\bCodizill\w*|\bKodizill\w*'
+    policy: translate
+    render: 'codicil'
+  - term: Praetension                       # 6 in corpus
+    pattern: '\bPr(ae|ä)tension\w*'
+    policy: translate
+    render: 'claim'
+  - term: Hauländer                         # 4 in corpus
+    pattern: '\bHaul(ä|ae)nder\w*'
+    policy: keep
+    render: 'Hauländer'
+    gloss: 'settler-colonists holding on Dutch-law tenure - NOT "Hollanders"; see NEEDS_CONFIRMATION.md section G'
+  - term: Indult                            # 2 in corpus
+    pattern: '\bIndult\w*'
+    policy: translate
+    render: 'indult'
+    gloss: 'a grace period granted to a debtor'
+  - term: Intabulation                      # 1 in corpus
+    pattern: '\bIntabulat\w*'
+    policy: translate
+    render: 'intabulation'
+    gloss: 'registration of a debt against a landed estate in the mortgage book'
+  - term: Landschaft                        # 7 in corpus
+    pattern: '\bLandschaft\w*'
+    policy: keep
+    render: 'Landschaft'
+    gloss: 'the noble provincial credit institution that issued Pfandbriefe'
+  - term: Pfandbriefe                       # 5 in corpus
+    pattern: '\bPfandbrief\w*'
+    policy: translate
+    render: 'mortgage bonds'
+  - term: Invaliden-Casse                   # 65 in corpus
+    pattern: '\bInvaliden[- ]?Cass\w*'
+    policy: translate
+    render: "the Invalids' Fund"
+    gloss: 'the Prussian military pension fund, holder of the 50,000 Rthl first mortgage'
+  - term: Kriegs- und Forstrath             # 9 in corpus
+    pattern: 'Kriegs?[- ]?(und )?Forst[- ]?Ra(th|t)\w*'
+    policy: translate
+    render: 'Councillor of War and Forests'
+    gloss: "von Triebenfeld's own title"
+  - term: Hofrath                           # 26 in corpus
+    pattern: '\bHof(f)?ra(th|t)\w*'
+    policy: translate
+    render: 'Court Councillor'
+  - term: Justizbürgermeister               # 4 in corpus
+    pattern: 'Justiz[- ]?B(ü|ue)rge(r)?meister'
+    policy: translate
+    render: 'justice-burgomaster'
+  - term: Ober-Inspector                    # 4 in corpus
+    pattern: 'Ober[- ]?Inspe(c|k)tor'
+    policy: translate
+    render: 'Chief Inspector'
+  - term: Pro Memoria                       # 6 in corpus
+    pattern: 'P(ro)?\.?\s?M(emoria)?\.'
+    policy: keep
+    render: 'Pro Memoria'
+    gloss: 'a memorandum enclosed with, or standing in for, a letter'
+  - term: Abschrift                         # 40 in corpus
+    pattern: '\bAbschrift\b|\bCopia\b'
+    policy: translate
+    render: 'Copy'
+    gloss: 'marks the document as a scribal copy, not the original'
+
+# ----------------------------------------------------------------- exonyms --
+# Countries, regions and major cities that have a settled English name. These
+# SHOULD be translated - "Wien" becomes Vienna - and the point of listing them
+# is consistency, so one letter does not say Vienna where the next says Wien.
+#
+# Village and estate names are deliberately absent: Zagorowo, Trąbczyn, Kontop,
+# Blizanow, Betsche and the rest have no English form and must stand exactly as
+# transcribed, because they are also the least reliable part of the
+# transcription and a silently improved one destroys the evidence.
+
+exonyms:
+  - term: Wien                              # 66 flagged before this was recorded
+    pattern: '\bWien\b'
+    policy: translate
+    render: 'Vienna'
+  - term: Warschau
+    pattern: '\bWarschau\w*'
+    policy: translate
+    render: 'Warsaw'
+  - term: Preußen
+    pattern: '\bPreu(ß|ss)en\b'
+    policy: translate
+    render: 'Prussia'
+  - term: Südpreußen
+    pattern: '\bS(ü|ue)d[- ]?Preu(ß|ss)en\b'
+    policy: translate
+    render: 'South Prussia'
+  - term: Sachsen
+    pattern: '\bSach(ß|s)en\b'
+    policy: translate
+    render: 'Saxony'
+  - term: Schlesien
+    pattern: '\bSchlesien\b'
+    policy: translate
+    render: 'Silesia'
+  - term: Italien
+    pattern: '\bItalien\b'
+    policy: translate
+    render: 'Italy'
+  - term: Böhmen
+    pattern: '\bB(ö|oe)hmen\b'
+    policy: translate
+    render: 'Bohemia'
+  - term: Pommern
+    pattern: '\bPommern\b'
+    policy: translate
+    render: 'Pomerania'
+  - term: Spanien
+    pattern: '\bSpanien\b'
+    policy: translate
+    render: 'Spain'
+  - term: Frankreich
+    pattern: '\bFrankreich\b'
+    policy: translate
+    render: 'France'
+  - term: Rußland
+    pattern: '\bRu(ß|ss)land\b'
+    policy: translate
+    render: 'Russia'
+  - term: Pohlen
+    pattern: '\bPo(h)?len\b'
+    policy: translate
+    render: 'Poland'
+  - term: Österreich
+    pattern: '\b(Ö|Oe)sterreich\b'
+    policy: translate
+    render: 'Austria'
+  - term: Curland
+    pattern: '\bC(u|ur)land\b|\bKurland\b'
+    policy: translate
+    render: 'Courland'
+  - term: Thoren
+    pattern: '\bThoren\b'
+    policy: translate
+    render: 'Thorn'
+
+# ------------------------------------------------------- colon abbreviations --
+# These writers shorten a familiar name to its first syllable and a colon:
+# "Min: v. Hard:", "Gen Lieut v. Koch:", "der Gr. Pourt:". Expand them in the
+# English, because leaving "the Prince Hard:" standing tells an English reader
+# nothing, and because an unexpanded form is invisible to the people index.
+# This is an expansion of an abbreviation, not a correction of a name, so it is
+# applied silently rather than marked.
+#
+# Only expand what the context settles. Known traps, all verified:
+#   Ant:  is "Antwort", not Anton
+#   Kur:  is "Curländische", not a person
+#   Ko:   reads as Koschentin, the estate, not Köckritz
+#   Sch:  could be Schlabrendorff, Schenck or Schimmelpfennig
+#   B:    could be Barbe, Beyme or Brzechsta
+# Where the referent is genuinely unclear, keep the abbreviation and flag it.
+
+abbreviations:
+  - short: 'Hard:'
+    expand: Hardenberg
+  - short: 'Hardenb:'
+    expand: Hardenberg
+  - short: 'Köch:'
+    expand: Köckritz
+  - short: 'Koch:'
+    expand: Köckritz
+  - short: 'Am:'
+    expand: Amelang
+  - short: 'Amel:'
+    expand: Amelang
+  - short: 'Pourt:'
+    expand: Pourtales
+  - short: 'Grev:'
+    expand: Grävenitz
+  - short: 'Lomb:'
+    expand: Lombardini
+  - short: 'Sa:'
+    expand: Sacken
+    note: 'only in "Fürstin/Fürsten Sa:"'
+  - short: 'Gen:'
+    expand: General
+  - short: 'Min:'
+    expand: Minister
+  - short: 'Lieut:'
+    expand: Lieutenant
+  - short: 'Maj:'
+    expand: Major
+  - short: 'Franz:'
+    expand: französisch
+  - short: 'Cour:'
+    expand: Courant
+
+# ------------------------------------------------------------ rare pairs --
+# 42 occurrences in the whole corpus. Every one must be flagged by the model;
+# check_translations.py blocks publication of any page that misses one. These
+# are the meaning-reversing confusions that a fluent translation hides.
+
+rare_pairs:
+  - pair: [Anweisung, Abweisung]
+    pattern: '\bA(n|b)weisung\w*'
+    note: 'Anweisung = an instruction or an order to pay (36x). Abweisung = a dismissal or refusal (1x). One Kurrent minim apart, opposite meanings.'
+    poles:
+      A: [instruct, instruction, direct, directive, order, assignment, warrant, remittance]
+      B: [dismiss, dismissal, reject, rejection, refuse, refusal, deny, denial]
+  - pair: [committirt, exmittirt]
+    pattern: '\b(com|ex)mittir\w*'
+    note: 'committirt = committed or referred (1x). exmittirt = evicted or ejected (4x). Different legal acts entirely.'
+    poles:
+      A: [commit, committed, refer, referred, entrust, entrusted]
+      B: [evict, evicted, eject, ejected, dispossess, remove]
+
+# ------------------------------------------------------------- watch-list --
+# ~7,750 occurrences, about nine per manuscript page. Far too common to flag
+# exhaustively - marking every one would describe German, not filter it. The
+# model is told these are known risks in this hand and asked to flag only the
+# instances genuinely ambiguous in context; check_translations.py additionally
+# samples a few unflagged ones per letter as a calibration probe.
+
+watchlist:
+  - pair: [nach, noch]
+    note: 'to/after vs still/yet'
+  - pair: [als, da]
+    note: 'when/as vs since/there'
+  - pair: [wie, wir]
+    note: 'how/as vs we'
+  - pair: [vor, von]
+    note: 'before/for vs of/from'

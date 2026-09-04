@@ -52,7 +52,7 @@ def fail(msg):
 
 
 def main():
-    with open(os.path.join(ROOT, 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
         recs = json.load(f)
     by_id = {r['letter_id']: r for r in recs}
 
