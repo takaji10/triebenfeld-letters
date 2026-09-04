@@ -1,0 +1,51 @@
+{% assign lang = page.lang | default: 'en' %}
+{% assign t = site.data.i18n[lang] %}
+{% if lang == 'de' %}
+  {% assign u_browse = '/de/briefe/' %}
+{% else %}
+  {% assign u_browse = '/letters/' %}
+{% endif %}
+
+<div class="prose">
+  <h1>{{ t.sources_h1 }}</h1>
+  <p class="standfirst">{{ t.sources_lede }}</p>
+</div>
+
+<div class="sources">
+  {% for u in site.data.units %}
+    <section class="source" id="{{ u.slug }}">
+      <h2>{{ u.ref }}</h2>
+      <p class="source-archive">{{ u.archive }}</p>
+      {% if u.title %}<p class="source-title">{{ u.title }}</p>{% endif %}
+
+      <dl class="source-facts">
+        <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
+        <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
+        {% if u.first %}
+          <div><dt>{{ t.sources_span }}</dt><dd>{{ u.first | slice: 0, 4 }}&ndash;{{ u.last | slice: 0, 4 }}</dd></div>
+        {% endif %}
+      </dl>
+
+      {% if u.description %}<p>{{ u.description }}</p>{% endif %}
+
+      <p class="source-go">
+        <a href="{{ u_browse | relative_url }}?unit={{ u.slug }}">{{ t.sources_browse }}</a>
+      </p>
+    </section>
+  {% endfor %}
+</div>
+
+<style>
+.sources { max-width: var(--measure); margin: 2rem 0 3rem; }
+.source { border-top: 1px solid var(--rule); padding: 1.4rem 0; }
+.source h2 { margin: 0; font-size: 1.15rem; }
+.source-archive { margin: .15rem 0 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); }
+.source-title { margin: .5rem 0 0; color: var(--ink-soft); }
+.source-facts { display: flex; flex-wrap: wrap; gap: 1.6rem; margin: .9rem 0 0; }
+.source-facts div { display: flex; flex-direction: column; }
+.source-facts dt { font-family: var(--sans); font-size: .68rem; letter-spacing: .04em;
+                   text-transform: uppercase; color: var(--ink-faint); }
+.source-facts dd { margin: .1rem 0 0; font-size: 1.05rem; }
+.source p { margin: .9rem 0 0; }
+.source-go { font-family: var(--sans); font-size: .85rem; }
+</style>

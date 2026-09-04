@@ -30,6 +30,13 @@
     </div>
 
     <div class="f-row">
+      {% if site.data.units.size > 1 %}
+      <label><span>{{ t.f_unit }}</span>
+        <select id="unit"><option value="">{{ t.f_allunits }}</option>
+        {% for u in site.data.units %}<option value="{{ u.slug }}">{{ u.ref }} ({{ u.count }})</option>{% endfor %}
+        </select>
+      </label>
+      {% endif %}
       <label><span>{{ t.f_year }}</span>
         <select id="year"><option value="">{{ t.f_any }}</option>
         {% for y in site.data.stats.years %}<option value="{{ y.year }}">{{ y.year }} ({{ y.count }})</option>{% endfor %}

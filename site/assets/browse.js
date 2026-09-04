@@ -47,6 +47,7 @@
   }
 
   function matches(item, f) {
+    if (f.unit && item.unit !== f.unit) return false;
     if (f.year && item.year !== f.year) return false;
     if (f.person && item.people.indexOf(f.person) === -1) return false;
     if (f.place && item.place !== f.place) return false;
@@ -70,6 +71,8 @@
   function sortItems(list, order) {
     return list.sort(function (a, b) {
       if (order === 'archival') {
+        // an archival number orders documents only within its own holding
+        if (a.unit !== b.unit) return a.unit < b.unit ? -1 : 1;
         var ka = archivalKey(a.id), kb = archivalKey(b.id);
         return ka[0] - kb[0] || (ka[1] < kb[1] ? -1 : ka[1] > kb[1] ? 1 : 0);
       }
@@ -83,6 +86,7 @@
   function render() {
     var f = {
       q: fold(els.q.value.trim()),
+      unit: els.unit ? els.unit.value : '',
       year: els.year.value,
       person: els.person.value,
       place: els.place.value,
@@ -146,8 +150,22 @@
   }
 
   function init() {
-    ['q', 'year', 'person', 'place', 'flag', 'order', 'count', 'results', 'empty', 'reset']
+    ['q', 'unit', 'year', 'person', 'place', 'flag', 'order', 'count', 'results', 'empty', 'reset']
       .forEach(function (k) { els[k] = $(k); });
+
+    // The timeline links here with ?year=, and a holding's page with ?unit=.
+    // Seed the controls from the query string so those links actually arrive
+    // somewhere; a value the select does not offer is ignored rather than
+    // silently filtering everything away.
+    try {
+      var qs = new URLSearchParams(window.location.search);
+      ['unit', 'year'].forEach(function (k) {
+        var v = qs.get(k);
+        if (!v || !els[k]) return;
+        var ok = Array.prototype.some.call(els[k].options, function (o) { return o.value === v; });
+        if (ok) els[k].value = v;
+      });
+    } catch (e) { /* older browser: filters just start empty */ }
 
     Array.prototype.forEach.call(document.querySelectorAll('#person option'), function (o) {
       if (o.value) PEOPLE_NAMES[o.value] = o.textContent.replace(/\s*\(\d+\)$/, '');
@@ -172,12 +190,13 @@
       });
 
     els.q.addEventListener('input', debounce(render, 120));
-    ['year', 'person', 'place', 'flag', 'order'].forEach(function (k) {
-      els[k].addEventListener('change', render);
+    ['unit', 'year', 'person', 'place', 'flag', 'order'].forEach(function (k) {
+      if (els[k]) els[k].addEventListener('change', render);
     });
     els.reset.addEventListener('click', function () {
       els.q.value = ''; els.year.value = ''; els.person.value = '';
       els.place.value = ''; els.flag.value = ''; els.order.value = 'chrono';
+      if (els.unit) els.unit.value = '';
       render();
     });
     $('filters').addEventListener('submit', function (e) { e.preventDefault(); });

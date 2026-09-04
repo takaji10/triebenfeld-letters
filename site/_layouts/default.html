@@ -45,6 +45,9 @@
     <a data-i18n="nav_places" data-href-en="{{ '/places/' | relative_url }}"
        data-href-de="{{ '/de/orte/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/orte/' | relative_url }}{% else %}{{ '/places/' | relative_url }}{% endif %}">{{ t.nav.places }}</a>
+    <a data-i18n="nav_sources" data-href-en="{{ '/sources/' | relative_url }}"
+       data-href-de="{{ '/de/quellen/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}{% else %}{{ '/sources/' | relative_url }}{% endif %}">{{ t.nav.sources }}</a>
     <a data-i18n="nav_about" data-href-en="{{ '/reading-this-edition/' | relative_url }}"
        data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>

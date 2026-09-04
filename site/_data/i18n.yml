@@ -24,6 +24,7 @@ en:
     timeline: Timeline
     people: People
     places: Places
+    sources: Sources
     about: About the edition
   foot: >-
     A digital edition of %d documents, 1798-1816. Transcribed from the originals in the Hohenloher
@@ -163,6 +164,17 @@ en:
   sort_fewest_mentions: Fewest mentions
   sort_most_docs: Most documents
   sort_fewest_docs: Fewest documents
+  sources_h1: Sources
+  sources_lede: >-
+    The archival holdings this edition draws on. Documents from all of them are
+    read together as one correspondence; the holding a document comes from is
+    part of its citation, and part of its web address.
+  sources_documents: Documents
+  sources_pages: Manuscript pages
+  sources_span: Span
+  sources_browse: Browse this holding
+  f_unit: Holding
+  f_allunits: All holdings
   doc_one: document
   doc_many: documents
   movements_h2: The six movements
@@ -204,6 +216,7 @@ de:
     timeline: Zeitleiste
     people: Personen
     places: Orte
+    sources: Quellen
     about: Über die Edition
   foot: >-
     Eine digitale Edition von %d Dokumenten, 1798-1816. Transkribiert nach den Originalen im
@@ -347,6 +360,17 @@ de:
   sort_fewest_mentions: Wenigste Nennungen
   sort_most_docs: Meiste Dokumente
   sort_fewest_docs: Wenigste Dokumente
+  sources_h1: Quellen
+  sources_lede: >-
+    Die Archivbestände, auf denen diese Edition beruht. Die Dokumente aller
+    Bestände werden als eine Korrespondenz gelesen; der Bestand, aus dem ein
+    Dokument stammt, gehört zu seinem Zitat und zu seiner Webadresse.
+  sources_documents: Dokumente
+  sources_pages: Handschriftenseiten
+  sources_span: Zeitraum
+  sources_browse: Diesen Bestand durchsuchen
+  f_unit: Bestand
+  f_allunits: Alle Bestände
   doc_one: Dokument
   doc_many: Dokumente
   movements_h2: Die sechs Abschnitte

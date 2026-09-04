@@ -107,6 +107,17 @@ layout: default
         {% if page.date_basis and page.date_basis != '' %}<br><span class="muted">{{ page.date_basis }}</span>{% endif %}
       </dd>
       {% if page.place %}<dt data-i18n="place">{{ t.place }}</dt><dd>{{ page.place }}</dd>{% endif %}
+      {% assign u = site.data.units | where: "slug", page.unit | first %}
+      {% if u %}
+      <dt data-i18n="f_unit">{{ t.f_unit }}</dt>
+      <dd>
+        <a data-i18n-href-unit="1"
+           data-href-en="{{ '/sources/' | relative_url }}#{{ page.unit }}"
+           data-href-de="{{ '/de/quellen/' | relative_url }}#{{ page.unit }}"
+           href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}#{{ page.unit }}{% else %}{{ '/sources/' | relative_url }}#{{ page.unit }}{% endif %}">{{ u.ref }}</a>
+        <br><span class="muted">{{ u.archive }}</span>
+      </dd>
+      {% endif %}
       <dt data-i18n="extent">{{ t.extent }}</dt>
       <dd>
         {{ page.n_lines }} <span data-i18n="lines">{{ t.lines }}</span>{% if page.n_pages > 1 %} <span data-i18n="across_pages">{{ t.across_pages }}</span> {{ page.n_pages }} <span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}<br>
@@ -172,6 +183,8 @@ layout: default
       "nav_timeline": {{ d.nav.timeline | jsonify }},
       "nav_people": {{ d.nav.people | jsonify }},
       "nav_places": {{ d.nav.places | jsonify }},
+      "nav_sources": {{ d.nav.sources | jsonify }},
+      "f_unit": {{ d.f_unit | jsonify }},
       "nav_about": {{ d.nav.about | jsonify }}
     }{%- unless forloop.last -%},{%- endunless -%}
   {%- endfor -%}
