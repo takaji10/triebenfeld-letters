@@ -586,31 +586,110 @@ def parse_apply_list(fp: Path):
     return wanted
 
 
+def current_fold(manifest, base, suf):
+    """The fold a split was made at, as a fraction of the crop, from the manifest."""
+    for entries in manifest.values():
+        halves = [e for e in entries
+                  if e["file"] in (f"{base}_{suf}1.jpg", f"{base}_{suf}2.jpg")]
+        if len(halves) == 2:
+            halves.sort(key=lambda e: e["bbox_original"][0])
+            x0 = halves[0]["bbox_original"][0]
+            x1 = halves[1]["bbox_original"][2]
+            cut = halves[0]["bbox_original"][2]
+            if x1 > x0:
+                return (cut - x0) / (x1 - x0)
+    return None
+
+
+def unsplit(base, suf, manifest):
+    """Undo a split: put the original back and drop the halves."""
+    original = UNSPLIT_DIR / f"{base}_{suf}.jpg"
+    if not original.exists():
+        return False
+    shutil.move(str(original), str(PROCESSED_DIR / f"{base}_{suf}.jpg"))
+    for half in (f"{base}_{suf}1.jpg", f"{base}_{suf}2.jpg"):
+        fp = PROCESSED_DIR / half
+        if fp.exists():
+            fp.unlink()
+    for entries in manifest.values():
+        halves = [e for e in entries
+                  if e["file"] in (f"{base}_{suf}1.jpg", f"{base}_{suf}2.jpg")]
+        if len(halves) != 2:
+            continue
+        # Put the parent crop back, or a re-split has no bbox to work from and
+        # falls back to summing the two half widths - which include the overlap,
+        # so the fold would land short of where it was asked for.
+        halves.sort(key=lambda e: e["bbox_original"][0])
+        a = halves[0]["bbox_original"]
+        # The restored file is the authority on the crop's size. Deriving it
+        # from the halves instead would carry the overlap into the width and
+        # shift every later fold by that much.
+        with Image.open(PROCESSED_DIR / f"{base}_{suf}.jpg") as im:
+            cw, ch = im.size
+        parent = {"file": f"{base}_{suf}.jpg",
+                  "bbox_original": [a[0], a[1], a[0] + cw, a[1] + ch],
+                  "size": [cw, ch]}
+        keep = [e for e in entries if e not in halves]
+        idx = min(entries.index(h) for h in halves)
+        keep.insert(min(idx, len(keep)), parent)
+        entries[:] = keep
+    return True
+
+
 def run_apply_folds(fp: Path, dry_run):
     """Split at folds placed by hand in the review page.
 
     The file is {crop filename: fold as a fraction of width}, which is what
-    review.html saves. Anything already split is left alone.
+    review.html saves. A spread that is already split is redone only when the
+    fold has actually moved, so re-applying the same file changes nothing.
     """
     with open(fp, encoding='utf-8') as f:
-        folds = json.load(f)
-    triples = []
+        folds = {k: float(v) for k, v in json.load(f).items()}
+    manifest = load_manifest()
+    triples, redone, unchanged = [], 0, 0
     for name in sorted(folds):
         stem = Path(name).stem
         m = CROP_RE.match(stem)
-        path = PROCESSED_DIR / (stem + ".jpg")
         frac = folds[name]
         if not m:
             print(f"  {name}: not a <scan>_<suffix> crop name, skipping")
-        elif not path.exists():
-            print(f"  {name}: not found in processed/, skipping")
-        elif not (0.05 < float(frac) < 0.95):
+            continue
+        if not (0.05 < frac < 0.95):
             print(f"  {name}: fold {frac} is outside the sheet, skipping")
-        else:
-            triples.append((path, m.group(1), m.group(2)))
-    print(f"applying {len(triples)} hand-placed fold(s) from {fp.name}")
-    run_split(triples, dry_run, write_index=False,
-              folds={k: float(v) for k, v in folds.items()})
+            continue
+        base, suf = m.group(1), m.group(2)
+        path = PROCESSED_DIR / (stem + ".jpg")
+        if not path.exists():
+            was = current_fold(manifest, base, suf)
+            if was is not None and abs(was - frac) < 0.0005:
+                unchanged += 1
+                continue
+            if not dry_run and not unsplit(base, suf, manifest):
+                print(f"  {name}: already split and no original kept, skipping")
+                continue
+            if dry_run:
+                print(f"  {name}: would move the fold {was:.4f} -> {frac:.4f}"
+                      if was is not None else f"  {name}: would re-split at {frac:.4f}")
+                continue
+            redone += 1
+        triples.append((path, base, suf))
+    if not dry_run:
+        save_manifest(manifest)
+    print(f"applying {len(triples)} hand-placed fold(s) from {fp.name}"
+          + (f"; {redone} moved, {unchanged} unchanged" if redone or unchanged else ""))
+    if triples:
+        run_split(triples, dry_run, write_index=False, folds=folds)
+    # remember which were placed by hand so a later review can leave them be
+    if not dry_run and folds:
+        marker = REVIEW_DIR / "hand_placed.json"
+        seen = {}
+        if marker.exists():
+            with open(marker, encoding='utf-8') as f:
+                seen = json.load(f)
+        seen.update({k: round(v, 4) for k, v in folds.items()})
+        REVIEW_DIR.mkdir(exist_ok=True)
+        with open(marker, 'w', encoding='utf-8') as f:
+            json.dump(seen, f, ensure_ascii=False, indent=1)
 
 
 def run_apply_review(fp: Path, dry_run):
