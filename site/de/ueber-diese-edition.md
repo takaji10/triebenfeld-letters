@@ -126,7 +126,7 @@ Seite unten auf die laufende zu setzen, damit die Blattfolge erkennbar bleibt:
 | 177 | `be¬` | `benennung` |
 | 235 | `ver-` | `verliehren` |
 
-Das sind keine gebrochenen Wörter. Sie zu verbinden erzeugte "ConContract". Sie bleiben in
+Das sind keine gebrochenen Wörter. Sie zu verbinden erzeugte „ConContract“. Sie bleiben in
 der diplomatischen Ansicht, wo sie zur Seite gehören, und entfallen in der Lesefassung, wo
 sie nicht zum Text gehören.
 

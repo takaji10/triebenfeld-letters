@@ -79,8 +79,8 @@ die Hufe und [holten darauf ihre Glaubensbrüder]({{ '/letters/126/' | relative_
 Mennoniten aus Westpreußen [boten an, Zagorowo und Trąbczyn im
 ganzen zu kaufen]({{ '/letters/146/' | relative_url }}) und unter sich aufzuteilen. Daneben
 standen die Hauländer, Siedler auf einer Leihe holländischen Rechts, die der preußischen
-Erwerbung lange vorausging. Der Bestand erläutert das Wort selbst: ["die Hauländer oder
-Collonisten"]({{ '/letters/216/' | relative_url }}).
+Erwerbung lange vorausging. Der Bestand erläutert das Wort selbst: [„die Hauländer oder
+Collonisten“]({{ '/letters/216/' | relative_url }}).
 
 Eine Zeitlang ging es auf. 1806 setzte die von der Kalischer Kammer beglaubigte
 Revenüenübersicht die beiden Herrschaften auf [40.260 Reichsthaler
@@ -146,7 +146,7 @@ Eine Frau, und sie gewinnt. Im folgenden Jahrzehnt bittet sie den König in Wars
 [wird abgewiesen]({{ '/letters/198/' | relative_url }}), bittet den Kaiser in Dresden an
 und [erhält die Güter von den polnischen Commissarien gleichwohl
 zurück]({{ '/letters/217/' | relative_url }}). Triebenfelds Einwand ist immer der
-förmliche, sie habe sich [„ohne alle Decrete und Urtels" in den
+förmliche, sie habe sich [„ohne alle Decrete und Urtels“ in den
 Besitz]({{ '/letters/215/' | relative_url }}) geschwungen, und er bringt ihn nirgends
 durch, weil ihre Verbindungen besser sind als seine.
 
@@ -185,9 +185,9 @@ Dazwischen standen die Kolonisten. Die Getreidepreise waren gefallen, und sie ko
 zahlen. Triebenfelds Beamte rieten, einen Teil der Rückstände zu erlassen, und 1811 wurde
 ein Drittel der Jahreszinsen [aus besonderer Gnade
 erlassen]({{ '/letters/215/' | relative_url }}), was zugleich das Praktische war, denn
-sonst würden „die Leute aus halsstarrigkeit gar nichts geben". Im selben Jahr, bei der
+sonst würden „die Leute aus halsstarrigkeit gar nichts geben“. Im selben Jahr, bei der
 Frage, ob der Fürst die Güter überhaupt behalten solle, schlug er das Gegenteil vor: die
-Hauländer [„gröstentheils durch gericht Erkenntniße"
+Hauländer [„gröstentheils durch gericht Erkenntniße“
 fortzujagen]({{ '/letters/216/' | relative_url }}) und aus dem Land wieder reine Vorwerke
 zu machen.
 
@@ -214,7 +214,7 @@ Das Werben war ernsthaft und sah eine Zeitlang hoffnungsvoll aus. Er reichte bei
 [nahm sich der Sache an]({{ '/letters/250/' | relative_url }}) und verlangte Abschriften
 von allem. Von Hardenberg wird das Wort berichtet, Hohenlohe sei
 [„dieser redliche Mann ... der am meisten gelitten
-hat"]({{ '/letters/262/' | relative_url }}). Triebenfeld verfolgte den ganzen Kongress, die
+hat“]({{ '/letters/262/' | relative_url }}). Triebenfeld verfolgte den ganzen Kongress, die
 Manöver, den achtspännigen Aufzug des Königs von Württemberg, die Forderungen der Herzogin
 von Sagan, während über seine Sache ein Fluss entschied.
 
