@@ -1,0 +1,108 @@
+{% assign lang = page.lang | default: 'en' %}
+{% assign t = site.data.i18n[lang] %}
+{% if lang == 'de' %}
+  {% assign u_browse = '/de/briefe/' %}{% assign u_time = '/de/zeitleiste/' %}
+  {% assign u_people = '/de/personen/' %}{% assign u_places = '/de/orte/' %}
+{% else %}
+  {% assign u_browse = '/letters/' %}{% assign u_time = '/timeline/' %}
+  {% assign u_people = '/people/' %}{% assign u_places = '/places/' %}
+{% endif %}
+<div class="prose">
+  <h1>{{ t.timeline_h1 }}</h1>
+  <p class="standfirst">{{ t.timeline_lede }}</p>
+</div>
+
+{% assign maxc = 0 %}
+{% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
+
+<div class="timeline">
+  {% for year in (1795..1818) %}
+    {% assign ys = year | append: '' %}
+    {% assign yrec = site.data.stats.years | where: "year", ys | first %}
+    {% assign count = 0 %}
+    {% if yrec %}{% assign count = yrec.count %}{% endif %}
+
+    <div class="tl-year{% if count == 0 %} tl-quiet{% endif %}">
+      <div class="tl-label">
+        {% if count > 0 %}
+          <a href="{{ u_browse | relative_url }}?year={{ year }}">{{ year }}</a>
+        {% else %}
+          <span>{{ year }}</span>
+        {% endif %}
+      </div>
+
+      <div class="tl-bar" title="{{ count }} {% if count == 1 %}{{ t.doc_one }}{% else %}{{ t.doc_many }}{% endif %}">
+        {% if count > 0 %}
+          {% assign pct = count | times: 100 | divided_by: maxc %}
+          <span style="width:{{ pct }}%"></span>
+          <em>{{ count }}</em>
+        {% endif %}
+      </div>
+
+      <div class="tl-events">
+        {% for e in site.data.timeline %}
+          {% assign eyear = e.date | slice: 0, 4 %}
+          {% if eyear == ys %}
+            {% if lang == 'de' %}
+              {% assign e_title = e.title_de | default: e.title %}
+              {% assign e_note = e.note_de | default: e.note %}
+              {% assign e_src = e.source_de | default: e.source %}
+            {% else %}
+              {% assign e_title = e.title %}
+              {% assign e_note = e.note %}
+              {% assign e_src = e.source %}
+            {% endif %}
+            <div class="tl-event kind-{{ e.kind }}">
+              <h3>{{ e_title }}</h3>
+              <p>{{ e_note }}</p>
+              <p class="tl-src">{{ e.date }}{% if e.end %}&ndash;{{ e.end }}{% endif %} &middot; {{ e_src }}</p>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="prose">
+  <h2>{{ t.movements_h2 }}</h2>
+  <ol class="movements">
+    {% for m in t.movements %}
+      <li><b>{{ m.lead }}</b> {{ m.body }}</li>
+    {% endfor %}
+  </ol>
+</div>
+
+<style>
+.timeline { max-width: 68rem; margin: 2rem 0 3rem; }
+.tl-year {
+  display: grid; grid-template-columns: 4rem minmax(6rem, 14rem) minmax(0, 1fr);
+  gap: 1rem; align-items: start;
+  padding: .55rem 0; border-top: 1px solid var(--rule);
+}
+.tl-quiet { opacity: .62; }
+.tl-label { font-family: var(--sans); font-weight: 600; font-size: .9rem; padding-top: .1rem; }
+.tl-label a { text-decoration: none; }
+.tl-label a:hover { text-decoration: underline; }
+.tl-bar { position: relative; height: 1.15rem; background: var(--paper-2); border-radius: 2px; margin-top: .1rem; }
+.tl-bar span { position: absolute; inset: 0 auto 0 0; background: var(--accent); opacity: .34; border-radius: 2px; }
+.tl-bar em {
+  position: relative; font-style: normal; font-family: var(--sans);
+  font-size: .7rem; color: var(--ink-soft); padding-left: .4rem; line-height: 1.15rem;
+}
+.tl-events { display: flex; flex-direction: column; gap: .55rem; }
+.tl-event { border-left: 3px solid var(--rule); padding: .1rem 0 .1rem .8rem; }
+.tl-event h3 { margin: 0; font-size: .95rem; }
+.tl-event p { margin: .2rem 0 0; font-size: .87rem; color: var(--ink-soft); max-width: 34rem; }
+.tl-event .tl-src { font-family: var(--sans); font-size: .7rem; color: var(--ink-faint); }
+.kind-war { border-left-color: #a8402c; }
+.kind-political { border-left-color: #46618a; }
+.kind-estate { border-left-color: #7a6220; }
+.kind-personal { border-left-color: #5c6b4a; }
+.movements { max-width: var(--measure); padding-left: 1.1rem; }
+.movements li { margin-bottom: .6rem; }
+@media (max-width: 44rem) {
+  .tl-year { grid-template-columns: 3.2rem minmax(0, 1fr); }
+  .tl-events { grid-column: 1 / -1; }
+}
+</style>

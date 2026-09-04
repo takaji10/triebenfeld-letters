@@ -1,0 +1,82 @@
+<!doctype html>
+{% comment %}
+  Language is a property of the page: the German chrome pages under /de/ set
+  `lang: de` in their front matter, everything else defaults to English. The
+  letter pages are shared between both languages - the documents do not change
+  with the interface - so they carry `shared_lang: true` and swap their labels
+  in the browser instead of having a second URL.
+{% endcomment %}
+{% assign lang = page.lang | default: 'en' %}
+{% assign t = site.data.i18n[lang] %}
+{% assign home = '/' %}
+{% if lang == 'de' %}{% assign home = '/de/' %}{% endif %}
+<html lang="{{ lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ t.brand }}</title>
+<meta name="description" content="{{ page.description | default: site.description | strip_newlines }}">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+
+<a class="skip" href="#main" data-i18n="skip">{{ t.skip }}</a>
+
+<header class="site-head">
+  <a class="brand" data-i18n="brand" data-href-en="{{ '/' | relative_url }}" data-href-de="{{ '/de/' | relative_url }}" href="{{ home | relative_url }}">{{ t.brand }}</a>
+  {% comment %}
+    Both sets of hrefs travel with every link. A server-rendered page uses the
+    one for its own language; a shared letter page has i18n.js repoint them
+    when the reader switches.
+  {% endcomment %}
+  <nav>
+    <a data-i18n="nav_story" data-href-en="{{ '/the-story/' | relative_url }}"
+       data-href-de="{{ '/de/die-geschichte/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/die-geschichte/' | relative_url }}{% else %}{{ '/the-story/' | relative_url }}{% endif %}">{{ t.nav.story }}</a>
+    <a data-i18n="nav_browse" data-href-en="{{ '/letters/' | relative_url }}"
+       data-href-de="{{ '/de/briefe/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/briefe/' | relative_url }}{% else %}{{ '/letters/' | relative_url }}{% endif %}">{{ t.nav.browse }}</a>
+    <a data-i18n="nav_timeline" data-href-en="{{ '/timeline/' | relative_url }}"
+       data-href-de="{{ '/de/zeitleiste/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/zeitleiste/' | relative_url }}{% else %}{{ '/timeline/' | relative_url }}{% endif %}">{{ t.nav.timeline }}</a>
+    <a data-i18n="nav_people" data-href-en="{{ '/people/' | relative_url }}"
+       data-href-de="{{ '/de/personen/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/personen/' | relative_url }}{% else %}{{ '/people/' | relative_url }}{% endif %}">{{ t.nav.people }}</a>
+    <a data-i18n="nav_places" data-href-en="{{ '/places/' | relative_url }}"
+       data-href-de="{{ '/de/orte/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/orte/' | relative_url }}{% else %}{{ '/places/' | relative_url }}{% endif %}">{{ t.nav.places }}</a>
+    {% comment %} The essay stays in English until it is rendered by hand. {% endcomment %}
+    <a data-i18n="nav_about" href="{{ '/reading-this-edition/' | relative_url }}"
+       {% if lang == 'de' %}hreflang="en"{% endif %}>{{ t.nav.about }}</a>
+  </nav>
+
+  {% comment %}
+    On a chrome page the switch is a link to that page's counterpart. On a
+    shared letter page there is no counterpart URL, so it is a button that
+    changes the labels in place and remembers the choice.
+  {% endcomment %}
+  {% assign shared = false %}{% if page.shared_lang or page.layout == 'letter' %}{% assign shared = true %}{% endif %}
+  {% if shared %}
+    <button type="button" class="langswitch" id="langswitch" data-lang="{{ lang }}"></button>
+  {% elsif page.alt_url %}
+    <a class="langswitch" href="{{ page.alt_url | relative_url }}"
+       hreflang="{{ t.other_name | slugify }}" title="{{ t.switch_title }}"
+       data-set-lang="{% if lang == 'de' %}en{% else %}de{% endif %}">{{ t.other_name }}</a>
+  {% endif %}
+</header>
+
+<main id="main">
+{{ content }}
+</main>
+
+<footer class="site-foot">
+  <p>
+    {{ t.foot | replace: '%d', site.data.stats.total }}
+    <a href="{{ '/reading-this-edition/' | relative_url }}">{{ t.foot_link }}</a>
+    {{ t.foot_tail }}
+  </p>
+</footer>
+
+<script src="{{ '/assets/i18n.js' | relative_url }}"></script>
+</body>
+</html>

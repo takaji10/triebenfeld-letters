@@ -1,0 +1,34 @@
+title: "The Triebenfeld Letters"
+description: >-
+  The correspondence of Peter Friedrich von Triebenfeld and Friedrich Ludwig,
+  Fürst zu Hohenlohe-Ingelfingen, 1798-1816 - a digital edition.
+lang: en
+
+# For a GitHub Pages *project* site set baseurl to "/<repository-name>".
+# For a user/organisation site or a custom domain, leave it empty.
+baseurl: ""
+url: ""
+
+collections:
+  letters:
+    output: true
+    permalink: /letters/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: letters
+    values:
+      layout: letter
+
+# Generated output and research files are not part of the site.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+
+sass:
+  style: compressed
+
+plugins: []

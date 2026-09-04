@@ -1,0 +1,40 @@
+{% assign lang = page.lang | default: 'en' %}
+{% assign t = site.data.i18n[lang] %}
+{% if lang == 'de' %}
+  {% assign u_browse = '/de/briefe/' %}{% assign u_time = '/de/zeitleiste/' %}
+  {% assign u_people = '/de/personen/' %}{% assign u_places = '/de/orte/' %}
+{% else %}
+  {% assign u_browse = '/letters/' %}{% assign u_time = '/timeline/' %}
+  {% assign u_people = '/people/' %}{% assign u_places = '/places/' %}
+{% endif %}
+<div class="prose">
+  <h1>{{ t.people_h1 }}</h1>
+  <p class="standfirst">{{ t.people_lede }} <a href="{{ '/reading-this-edition/' | relative_url }}">{{ t.nav.about }}</a>.</p>
+</div>
+
+<nav class="sortbar" aria-label="Sort people">
+  <span class="sortbar-label">{{ t.sort }}</span>
+  <button type="button" data-key="count" data-dir="desc" aria-pressed="true">{{ t.sort_most_mentions }}</button>
+  <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_mentions }}</button>
+  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A&ndash;Z</button>
+  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z&ndash;A</button>
+</nav>
+
+{% assign sorted = site.data.people | sort: "count" | reverse %}
+<div style="max-width:62rem" data-sortable>
+{% for p in sorted %}
+  <div class="person" id="{{ p.slug }}"
+       data-name="{{ p.name | escape }}" data-count="{{ p.count }}">
+    <h2>{{ p.name }}</h2>
+    <p class="refs">
+      Appears in {{ p.letters.size }} document{% if p.letters.size != 1 %}s{% endif %}
+      &mdash; {{ p.count }} mention{% if p.count != 1 %}s{% endif %}
+    </p>
+    <p class="refs reflist">
+      {% for l in p.letters %}<a href="{{ '/letters/' | append: l | relative_url }}/">{{ l }}</a>{% endfor %}
+    </p>
+  </div>
+{% endfor %}
+</div>
+
+<script src="{{ '/assets/sort-list.js' | relative_url }}"></script>

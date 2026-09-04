@@ -1,0 +1,182 @@
+---
+layout: default
+---
+{% assign lid = page.letter_id %}
+{% assign t = site.data.i18n.en %}
+{% comment %}
+  Letter pages are shared between the two languages: the transcription, the
+  scans and the translation are the same documents whichever language the
+  interface is in. They render in English and carry both dictionaries, and
+  assets/i18n.js swaps the labels when the reader asks for German.
+{% endcomment %}
+
+<article class="letter">
+
+  <nav class="letter-nav" aria-label="Letter navigation">
+    <div class="nav-group">
+      <span class="nav-label" data-i18n="nav_archival">{{ t.nav_archival }}</span>
+      {% if page.prev_archival %}<a href="{{ '/letters/' | append: page.prev_archival | relative_url }}/">&larr; {{ page.prev_archival }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
+      {% if page.next_archival %}<a href="{{ '/letters/' | append: page.next_archival | relative_url }}/">{{ page.next_archival }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
+    </div>
+    <div class="nav-group">
+      <span class="nav-label" data-i18n="nav_chrono">{{ t.nav_chrono }}</span>
+      {% if page.prev_chrono %}<a href="{{ '/letters/' | append: page.prev_chrono | relative_url }}/">&larr; {{ page.prev_chrono }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
+      {% if page.next_chrono %}<a href="{{ '/letters/' | append: page.next_chrono | relative_url }}/">{{ page.next_chrono }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
+    </div>
+  </nav>
+
+  <header class="letter-head">
+    <p class="eyebrow">
+      <span data-i18n="{% if page.doc_type == 'register' %}register{% else %}letter{% endif %}">{% if page.doc_type == 'register' %}{{ t.register }}{% else %}{{ t.letter }}{% endif %}</span> {{ lid }}
+      {% if page.parent_letter %}<span class="sub"><span data-i18n="part_of_letter">{{ t.part_of_letter }}</span> {{ page.parent_letter }}</span>{% endif %}
+    </p>
+    <h1>
+      {{ page.date_label }}
+      {% if page.date_source != 'signature' and page.date_iso %}<span class="badge supplied" title="{{ page.date_source_label }}">[supplied]</span>{% endif %}
+    </h1>
+    {% if page.place %}<p class="place">{{ page.place }}</p>{% endif %}
+    {% if page.sender or page.recipient %}
+      <p class="correspondents">
+        {% if page.sender %}<span class="c-from">{{ page.sender }}</span>{% endif %}
+        {% if page.sender and page.recipient %}<span class="c-arrow" aria-label="to">&rarr;</span>{% endif %}
+        {% if page.recipient %}<span class="c-to">{{ page.recipient }}</span>{% endif %}
+      </p>
+    {% endif %}
+
+    {% comment %}
+      The summary belongs to the header, not to the text below it: it describes
+      the document rather than forming part of it, and a reader should have it
+      before deciding whether to read the pages at all.
+    {% endcomment %}
+    {% assign summary = site.data.summaries[page.pad] %}
+    {% assign summary_de = site.data.summaries_de[page.pad] %}
+    {% if summary %}
+      <p class="letter-summary" data-summary="en">{{ summary }}</p>
+    {% endif %}
+    {% if summary_de %}
+      <p class="letter-summary" data-summary="de" hidden>{{ summary_de }}</p>
+    {% endif %}
+  </header>
+
+  {% if page.is_missing %}
+    <p class="notice" data-i18n="missing_notice">{{ t.missing_notice }}</p>
+  {% endif %}
+
+  <div class="letter-body">
+
+    {% assign tr = site.data.translations[page.pad] %}
+
+    <div class="viewbar" role="group" aria-label="Text view">
+      <button type="button" class="vbtn is-on" data-show="diplomatic" data-i18n="view_diplomatic">{{ t.view_diplomatic }}</button>
+      <button type="button" class="vbtn" data-show="reading" data-i18n="view_reading">{{ t.view_reading }}</button>
+      <button type="button" class="vbtn" data-show="translation" data-i18n="view_translation">{{ t.view_translation }}</button>
+      <label class="chk"><input type="checkbox" id="hidescans"> <span data-i18n="hide_scans">{{ t.hide_scans }}</span></label>
+      <span class="viewhint" data-hint="diplomatic"><span data-i18n="hint_diplomatic">{{ t.hint_diplomatic }}</span> <span data-i18n="editorial_note">{{ t.editorial_note }}</span> <a href="{{ '/reading-this-edition/' | relative_url }}">About the edition</a>.</span>
+      <span class="viewhint" data-hint="reading" hidden><span data-i18n="hint_reading">{{ t.hint_reading }}</span></span>
+      <span class="viewhint" data-hint="translation" hidden>
+        {% if tr and tr.status and tr.status != 'untranslated' %}<span data-i18n="hint_translation_status">{{ t.hint_translation_status }}</span> <b>{{ tr.status }}</b>.
+        {% else %}<span data-i18n="hint_translation_none">{{ t.hint_translation_none }}</span>{% endif %}
+      </span>
+    </div>
+
+    {{ content }}
+
+  </div>
+
+  {% if tr and tr.segments %}
+  <script type="application/json" id="translation-data">{{ tr.segments | jsonify }}</script>
+  {% endif %}
+
+  <aside class="meta">
+    <h2 data-i18n="about_doc">{{ t.about_doc }}</h2>
+    <dl>
+      <dt data-i18n="archival_number">{{ t.archival_number }}</dt><dd>{{ lid }}</dd>
+      {% if page.sender or page.recipient %}
+        <dt data-i18n="correspondents">{{ t.correspondents }}</dt>
+        <dd>
+          {% if page.sender %}{{ page.sender }}{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
+          <br><span class="muted" data-i18n="correspondents_to">{{ t.correspondents_to }}</span>
+          {% if page.recipient %}{{ page.recipient }}{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
+          <br><span class="muted" data-i18n="correspondents_note">{{ t.correspondents_note }}</span>
+        </dd>
+      {% endif %}
+      <dt data-i18n="date">{{ t.date }}</dt>
+      <dd>
+        {{ page.date_label }}<br>
+        <span class="muted">{{ page.date_source_label }}</span>
+        {% if page.date_basis and page.date_basis != '' %}<br><span class="muted">{{ page.date_basis }}</span>{% endif %}
+      </dd>
+      {% if page.place %}<dt data-i18n="place">{{ t.place }}</dt><dd>{{ page.place }}</dd>{% endif %}
+      <dt data-i18n="extent">{{ t.extent }}</dt>
+      <dd>
+        {{ page.n_lines }} <span data-i18n="lines">{{ t.lines }}</span>{% if page.n_pages > 1 %} <span data-i18n="across_pages">{{ t.across_pages }}</span> {{ page.n_pages }} <span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}<br>
+        <span class="muted"><span data-i18n="archival_lines">{{ t.archival_lines }}</span> {{ page.line_start | plus: 1 }}&ndash;{{ page.line_end }}</span>
+      </dd>
+
+      {% if page.people.size > 0 %}
+      <dt data-i18n="people_named">{{ t.people_named }}</dt>
+      <dd class="taglist">
+        {% for p in page.people %}
+          {% assign person = site.data.people | where: "slug", p | first %}
+          {% if person %}<a href="{{ '/people/' | relative_url }}#{{ person.slug }}">{{ person.name }}</a>{% endif %}
+        {% endfor %}
+      </dd>
+      {% endif %}
+
+      {% if page.duplicate_of %}
+      <dt data-i18n="duplicate">{{ t.duplicate }}</dt>
+      <dd>The same document as <a href="{{ '/letters/' | append: page.duplicate_of | relative_url }}/">letter {{ page.duplicate_of }}</a>, transcribed twice.</dd>
+      {% endif %}
+      {% if page.parent_letter %}
+      <dt data-i18n="part_of">{{ t.part_of }}</dt>
+      <dd>
+        {% assign parent_page = site.letters | where: "letter_id", page.parent_letter | first %}
+        {% if parent_page %}
+          <a href="{{ parent_page.url | relative_url }}">Letter {{ page.parent_letter }}</a> &mdash;
+          several documents were bundled under one archival number.
+        {% else %}
+          Archival number {{ page.parent_letter }} &mdash; several documents were bundled
+          under it, and it has no single text of its own.
+        {% endif %}
+        {% assign siblings = site.letters | where: "parent_letter", page.parent_letter | sort: "letter_id" %}
+        {% if siblings.size > 1 %}
+          <span class="taglist" style="margin-top:.3rem">
+          {% for s in siblings %}
+            {% if s.letter_id == page.letter_id %}<b>{{ s.letter_id }}</b>{% else %}<a href="{{ s.url | relative_url }}">{{ s.letter_id }}</a>{% endif %}
+          {% endfor %}
+          </span>
+        {% endif %}
+      </dd>
+      {% endif %}
+
+      {% if page.uncertainty_count > 0 or page.has_damage %}
+      <dt>Condition</dt>
+      <dd>
+        {% if page.uncertainty_count > 0 %}{{ page.uncertainty_count }} uncertain reading{% if page.uncertainty_count != 1 %}s{% endif %} marked in the text.<br>{% endif %}
+        {% if page.has_damage %}Contains a damaged passage where text is missing.{% endif %}
+      </dd>
+      {% endif %}
+    </dl>
+  </aside>
+
+
+  {% comment %} Both dictionaries, flattened, for assets/i18n.js. {% endcomment %}
+  <script type="application/json" id="i18n-data">{
+  {%- for pair in site.data.i18n -%}
+    {%- assign L = pair[0] -%}{%- assign d = pair[1] -%}
+    "{{ L }}": {
+      {%- for kv in d -%}
+        {%- if kv[0] != 'nav' -%}"{{ kv[0] }}": {{ kv[1] | strip | jsonify }},{%- endif -%}
+      {%- endfor -%}
+      "nav_story": {{ d.nav.story | jsonify }},
+      "nav_browse": {{ d.nav.browse | jsonify }},
+      "nav_timeline": {{ d.nav.timeline | jsonify }},
+      "nav_people": {{ d.nav.people | jsonify }},
+      "nav_places": {{ d.nav.places | jsonify }},
+      "nav_about": {{ d.nav.about | jsonify }}
+    }{%- unless forloop.last -%},{%- endunless -%}
+  {%- endfor -%}
+  }</script>
+</article>
+
+<script src="{{ '/assets/letter.js' | relative_url }}"></script>

@@ -1,0 +1,277 @@
+# Historical events shown alongside the correspondence.
+#
+# Hand-maintained - add events freely. Fields:
+#   date  : YYYY, YYYY-MM or YYYY-MM-DD (controls placement)
+#   end   : optional, for events spanning a period
+#   title : short label
+#   note  : one or two sentences of context
+#   kind  : war | estate | personal | political  (controls the colour)
+#   source: where the date comes from, shown to the reader
+#
+#   title_de / note_de / source_de : the German rendering, shown on /de/zeitleiste/.
+#   If an event has no _de field the include falls back to the English one, so a new
+#   event can be added in English alone and translated later.
+#
+# "Seidel 2018" = Ulrich Seidel, "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen".
+# Facts are cited; the book's text is not reproduced here.
+
+- date: 1795
+  title: Third Partition of Poland; Peace of Basel
+  note: >-
+    Prussia annexes the territory it calls Südpreußen. Friedrich Ludwig is granted
+    estates there - Zagorów, Trąbczyn, Kaemen and others - which become the subject
+    of most of this correspondence.
+  kind: political
+  source: Seidel 2018, Zeittafel and ch. 13.1
+  title_de: Dritte Teilung Polens; Friede von Basel
+  note_de: >-
+    Preußen annektiert das Gebiet, das es Südpreußen nennt. Friedrich Ludwig erhält dort Güter -
+    Zagorów, Trąbczyn, Kaemen und andere -, die den Gegenstand des größten Teils dieser
+    Korrespondenz bilden.
+  source_de: Seidel 2018, Zeittafel und Kap. 13.1
+
+- date: 1797-11
+  title: Friedrich Wilhelm III accedes to the Prussian throne
+  note: >-
+    The King to whom Friedrich Ludwig petitions repeatedly throughout the letters,
+    usually through the Generaladjutant von Köckritz.
+  kind: political
+  source: general history
+  title_de: Friedrich Wilhelm III. besteigt den preußischen Thron
+  note_de: >-
+    Der König, an den sich Friedrich Ludwig in den Briefen immer wieder wendet, zumeist über den
+    Generaladjutanten von Köckritz.
+  source_de: allgemeine Geschichte
+
+- date: 1798-04-01
+  title: The correspondence opens
+  note: >-
+    Triebenfeld is in Berlin, working to exchange the Prince's Südpreußen estates
+    for the Prussian crown domains of Krotoszyn and Polajewo in order to clear his debts.
+  kind: estate
+  source: letter 75
+  title_de: Die Korrespondenz beginnt
+  note_de: >-
+    Triebenfeld ist in Berlin und arbeitet daran, die südpreußischen Güter des Fürsten gegen die
+    preußischen Krondomänen Krotoszyn und Polajewo einzutauschen, um dessen Schulden zu tilgen.
+  source_de: Brief 75
+
+- date: 1799
+  end: 1804
+  title: Separation from Marianne, and the Transact
+  note: >-
+    The Prince's marriage to Marianne, née Gräfin von Hoym, breaks down; the
+    settlement runs to 1804.
+  kind: personal
+  source: Seidel 2018, ch. 7.1
+  title_de: Trennung von Marianne und der Transact
+  note_de: >-
+    Die Ehe des Fürsten mit Marianne, geb. Gräfin von Hoym, zerbricht; der Vergleich zieht sich
+    bis 1804 hin.
+  source_de: Seidel 2018, Kap. 7.1
+
+- date: 1804
+  title: Kaemen and Kolno sold
+  note: >-
+    The first major disposal of estate land to service debt. A 150,000 Rthl loan from
+    the Invaliden-Casse follows in January 1805.
+  kind: estate
+  source: letters 135, 136, 158
+  title_de: Kaemen und Kolno werden verkauft
+  note_de: >-
+    Die erste größere Veräußerung von Gutsland zur Schuldentilgung. Im Januar 1805 folgt ein
+    Darlehen von 150.000 Rthl aus der Invaliden-Casse.
+  source_de: Briefe 135, 136, 158
+
+- date: 1806-10-14
+  title: Jena and Auerstädt
+  note: >-
+    The Prussian and Saxon armies are destroyed. Friedrich Ludwig commands the left
+    wing and, after the Duke of Brunswick's death, is briefly commander-in-chief.
+  kind: war
+  source: Seidel 2018, Zeittafel
+  title_de: Jena und Auerstädt
+  note_de: >-
+    Das preußische und das sächsische Heer werden vernichtet. Friedrich Ludwig befehligt den
+    linken Flügel und ist nach dem Tod des Herzogs von Braunschweig kurzzeitig Oberbefehlshaber.
+  source_de: Seidel 2018, Zeittafel
+
+- date: 1806-10-28
+  title: Capitulation at Prenzlau
+  note: >-
+    Friedrich Ludwig surrenders and resigns all military offices. Triebenfeld's letter
+    of the same day reports the "malicious rumours" already circulating.
+  kind: war
+  source: Seidel 2018, Zeittafel; letter 26
+  title_de: Kapitulation bei Prenzlau
+  note_de: >-
+    Friedrich Ludwig ergibt sich und legt alle militärischen Ämter nieder. Triebenfelds Brief
+    vom selben Tag berichtet von den bereits ausgestreuten "boshaften Gerüchten".
+  source_de: Seidel 2018, Zeittafel; Brief 26
+
+- date: 1806
+  end: 1808
+  title: House arrest at Öhringen
+  note: A French prisoner in his own residence.
+  kind: personal
+  source: Seidel 2018, Zeittafel
+  title_de: Hausarrest in Öhringen
+  note_de: >-
+    Ein französischer Gefangener in der eigenen Residenz.
+  source_de: Seidel 2018, Zeittafel
+
+- date: 1807-07
+  title: Peace of Tilsit; the Duchy of Warsaw
+  note: >-
+    Much of Südpreußen becomes the Duchy of Warsaw under Saxon sovereignty. The Prince's
+    estates are now in a foreign state, and the sequestrations and lawsuits begin.
+  kind: political
+  source: Seidel 2018, ch. 13.1
+  title_de: Friede von Tilsit; das Herzogtum Warschau
+  note_de: >-
+    Ein großer Teil Südpreußens wird zum Herzogtum Warschau unter sächsischer Oberhoheit. Die
+    Güter des Fürsten liegen nun in einem fremden Staat, und die Sequestrationen und Prozesse
+    beginnen.
+  source_de: Seidel 2018, Kap. 13.1
+
+- date: 1809-01-16
+  title: Triebenfeld arrested in Berlin
+  note: >-
+    Seized by French gendarmerie for acting as the Prince's plenipotentiary against
+    the Invaliden-Casse, and held under strict arrest.
+  kind: personal
+  source: letter 42
+  title_de: Triebenfeld wird in Berlin verhaftet
+  note_de: >-
+    Von der französischen Gendarmerie festgesetzt, weil er als Bevollmächtigter des Fürsten
+    gegen die Invaliden-Casse auftrat, und in strengem Arrest gehalten.
+  source_de: Brief 42
+
+- date: 1809-03-07
+  title: The Kontopp instructions
+  note: >-
+    Thirteen powers of attorney issued at once to Hawich - lift the sequestration, sue
+    the creditors, remove the fraudulent sequestor Honrichs, defend possession at Warsaw.
+    This document survives in two independent transcriptions (letters 48 and 302).
+  kind: estate
+  source: letters 48 and 302
+  title_de: Die Kontopper Instruktionen
+  note_de: >-
+    Dreizehn Vollmachten auf einmal an Hawich ausgestellt - die Sequestration aufheben, die
+    Gläubiger verklagen, den betrügerischen Sequestor Honrichs entfernen, den Besitz in Warschau
+    verteidigen. Dieses Schriftstück ist in zwei voneinander unabhängigen Abschriften
+    überliefert (Briefe 48 und 302).
+  source_de: Briefe 48 und 302
+
+- date: 1811
+  title: Proceedings before the Prussian Kammergericht
+  note: >-
+    The Royal General Invalidenkasse sues over the 1805 loan. The case file survives in
+    Berlin.
+  kind: estate
+  source: Seidel 2018, ch. 14.3
+  title_de: Verfahren vor dem preußischen Kammergericht
+  note_de: >-
+    Die Königliche General-Invalidenkasse klagt wegen des Darlehens von 1805. Die Prozessakte
+    ist in Berlin erhalten.
+  source_de: Seidel 2018, Kap. 14.3
+
+- date: 1812
+  title: Napoleon's Russian campaign
+  note: >-
+    The Grande Armée marches east through the very districts where the estates lie.
+  kind: war
+  source: general history
+  title_de: Napoleons Russlandfeldzug
+  note_de: >-
+    Die Grande Armée zieht ostwärts genau durch die Kreise, in denen die Güter liegen.
+  source_de: allgemeine Geschichte
+
+- date: 1813
+  title: The Wars of Liberation
+  note: >-
+    Prussia turns against France. Triebenfeld writes from Neisse in June, having slept
+    in the open on the road.
+  kind: war
+  source: letter 239
+  title_de: Die Befreiungskriege
+  note_de: >-
+    Preußen wendet sich gegen Frankreich. Triebenfeld schreibt im Juni aus Neisse, nachdem er
+    unterwegs im Freien übernachtet hat.
+  source_de: Brief 239
+
+- date: 1814-09
+  title: The Congress of Vienna opens
+  note: >-
+    Triebenfeld is sent to petition for restitution of the estates, and stays into 1815 -
+    destitute, tracking Metternich and Talleyrand, and begging for money to live on.
+  kind: political
+  source: letters 243 onward
+  title_de: Der Wiener Kongress wird eröffnet
+  note_de: >-
+    Triebenfeld wird entsandt, um die Rückgabe der Güter zu betreiben, und bleibt bis ins Jahr
+    1815 - mittellos, Metternich und Talleyrand auf der Spur und um Geld zum Leben bittend.
+  source_de: Briefe 243 ff.
+
+- date: 1815-01
+  title: The Prosna border question
+  note: >-
+    Russia presses for a frontier that would place Trąbczyn and Blizanow under its
+    sovereignty - which would end any prospect of recovering them.
+  kind: political
+  source: letter 266
+  title_de: Die Frage der Prosna-Grenze
+  note_de: >-
+    Russland drängt auf eine Grenze, die Trąbczyn und Blizanow unter seine Oberhoheit brächte -
+    womit jede Aussicht auf ihre Rückgewinnung dahin wäre.
+  source_de: Brief 266
+
+- date: 1815-03
+  title: Napoleon returns from Elba
+  note: >-
+    The Congress is thrown into suspension, and with it the Prince's case.
+  kind: war
+  source: letters 4, 286
+  title_de: Napoleon kehrt von Elba zurück
+  note_de: >-
+    Der Kongress wird in der Schwebe gehalten, und mit ihm die Sache des Fürsten.
+  source_de: Briefe 4, 286
+
+- date: 1815-06-09
+  title: Final Act of the Congress of Vienna
+  note: >-
+    Part of the former Südpreußen returns to Prussia; the district around Zagorów falls
+    to Congress Poland.
+  kind: political
+  source: Seidel 2018, ch. 13.1
+  title_de: Schlussakte des Wiener Kongresses
+  note_de: >-
+    Ein Teil des ehemaligen Südpreußen fällt an Preußen zurück; der Kreis um Zagorów kommt an
+    Kongresspolen.
+  source_de: Seidel 2018, Kap. 13.1
+
+- date: 1815-12
+  title: Triebenfeld's daughter dies
+  note: >-
+    She dies four days after childbirth; the recurring figure Barbe dies in the same
+    weeks. The correspondence's lowest point.
+  kind: personal
+  source: letter 297
+  title_de: Triebenfelds Tochter stirbt
+  note_de: >-
+    Sie stirbt vier Tage nach der Entbindung; in denselben Wochen stirbt auch die wiederkehrende
+    Gestalt Barbe. Der tiefste Punkt der Korrespondenz.
+  source_de: Brief 297
+
+- date: 1818-02-15
+  title: Friedrich Ludwig dies at Slaventzitz
+  note: >-
+    Creditors move immediately; the Betsche, Zagorów and Trąbczyn estates are sold off
+    soon afterwards. This is two years after the last letter in this collection.
+  kind: personal
+  source: Seidel 2018, ch. 20.1
+  title_de: Friedrich Ludwig stirbt in Slaventzitz
+  note_de: >-
+    Die Gläubiger greifen sofort zu; die Güter Betsche, Zagorów und Trąbczyn werden bald darauf
+    verkauft. Das ist zwei Jahre nach dem letzten Brief dieser Sammlung.
+  source_de: Seidel 2018, Kap. 20.1
