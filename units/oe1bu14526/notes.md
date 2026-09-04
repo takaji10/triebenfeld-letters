@@ -75,6 +75,32 @@ the best estimate for the openings where it found none:
 and uses that wherever no shadow appears. The writing gap survives only as a last resort
 when a unit has too few shadows to form a prior, and is marked low confidence.
 
+## Trimming
+
+Sheets in this volume differ in size, so a split page usually carried a strip of the leaf
+underneath along one edge, often with that leaf's own writing on it. Every page was
+checked in `review_trim.py` and **261 of 342 were trimmed**, 128 on the left and 133 on
+the right, removing a median 204px and up to 474px.
+
+The untrimmed images are kept in `processed/_untrimmed/`, so `apply_trims.py --undo`
+restores them and a second pass always cuts from the original rather than compounding.
+
+## A gap that had to be repaired
+
+While the trim tool was being built it turned out **52 of the 342 page images were
+missing**, though the manifest still listed all 342. The pattern was one crop absent per
+affected scan, and re-running the cropper on one recreated it, so they had existed and
+were removed later, during the re-split work. The cause was not reproducible and the
+evidence was gone.
+
+The unit was rebuilt from the 172 raw scans, which were never touched, and all 148 fold
+decisions were re-applied from the manifest. Everything checks: 342 images, 148 originals
+kept, manifest and disk in exact agreement, 148/148 folds reproduced.
+
+`split_spreads.py` now compares the manifest against the disk after every run and reports
+either way, because a page that quietly disappears stays invisible until the
+transcription comes up short.
+
 ## Next
 
 Transcribe to `corpus.txt`, marking each document with `[LETTER N]` on its own line.

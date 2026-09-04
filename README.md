@@ -62,6 +62,13 @@ python pipeline/intake/review_folds.py --unit oe1bu14525
 python pipeline/intake/split_spreads.py --unit oe1bu14525 \
     --apply-folds processed/_spreads_review/folds.json
 
+# 3b. trim the strip of the leaf underneath off each page edge
+python pipeline/intake/review_trim.py --unit oe1bu14525
+#      open processed/_trim_review/review.html, drag the line, Save trims.json
+python pipeline/intake/apply_trims.py --unit oe1bu14525 \
+    --trims processed/_trim_review/trims.json
+#      one edge per pass; run again for the other side. --undo restores.
+
 # 4. transcribe offline, save to units/oe1bu14525/corpus.txt
 
 # 5. build. Repeat after every edit to corpus.txt or rulings.yml.
