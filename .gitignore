@@ -33,38 +33,52 @@ desktop.ini
 pages/
 
 # ---------------------------------------------------------------------------
-# Research apparatus - kept on this machine, not published with the site.
+# What the project keeps out of version control.
 #
-# The site in site/ is self-contained: it links to nothing outside itself, so
-# none of this is needed to build or serve it. Patterns are root-anchored so
-# they cannot reach into site/.
-#
-# Two files are tracked deliberately, against the rules just below them:
-#   letters.json   - the canonical database
-#   verify_site.py - checks the built HTML against it
-# Together they are what lets the deploy workflow prove the published text is
-# character-identical to the corpus. Dropping them would not break the site,
-# only the guarantee about it.
+# The rule changed when the project became a multi-unit pipeline. It used to
+# publish only the finished website; it now has to be able to rebuild that
+# website from scratch, which means the pipeline and the transcriptions travel
+# with it. What stays out is bulk that can be re-derived, or that is not ours.
 # ---------------------------------------------------------------------------
 
-# Model output caches. Expensive to rebuild - these hold about $29 of API
-# output - so they are kept on this machine but never published.
+# Model output caches. About $29 of API output, and re-derivable by paying
+# again, so they are kept on this machine but never published.
 /cache/
 /retranscription-opus/
 /retranscription-sonnet/
 
-# Corpus text, derived databases, review sheets, notes and scripts
+# 1.08 GB of archival masters. site/assets/scans/ carries the derivatives.
+pages/
+
+# Generated review sheets and reports. Rebuilt by the pipeline on demand;
+# the decisions they lead to are recorded in units/<slug>/rulings.yml and
+# reference/, which are tracked.
+/review/
+
+# Build output
+site/_site/
+site/.jekyll-cache/
+site/.jekyll-metadata
+site/vendor/
+.bundle/
+
+# Working files and one-offs left at the project root
 /*.txt
 /*.csv
-/*.yml
-/scan_review.html
+/final_dates.json
+*.bak*
+__pycache__/
+*.pyc
 
-/*.json
-!/letters.json
+# API credential
+.anthropic_key
 
-/*.py
-!/verify_site.py
+# Copyrighted source. The Seidel (2018) biography is a research reference:
+# facts and short citations may appear in the edition, the book may not.
+Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen*
+*(2018, Seidel)*
 
-/*.md
-!/README.md
-!/DEPLOY.md
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
