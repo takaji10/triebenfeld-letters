@@ -59,7 +59,7 @@ python pipeline/intake/split_spreads.py --unit oe1bu14525 --review
 python pipeline/intake/review_folds.py --unit oe1bu14525
 #      open processed/_spreads_review/review.html, drag each red line onto
 #      the fold, Save folds.json, then:
-python pipeline/intake/split_spreads.py --unit oe1bu14525     --apply-folds processed/_spreads_review/folds.json
+python pipeline/intake/split_spreads.py --unit oe1bu14525 \n    --apply-folds processed/_spreads_review/folds.json
 
 # 4. transcribe offline, save to units/oe1bu14525/corpus.txt
 
@@ -97,7 +97,7 @@ cd site && bundle exec jekyll serve
 `regenerate.py` runs the per-unit steps in dependency order, merges the units, then
 builds the site once. Editing a `corpus.txt` shifts its line numbers, which invalidates
 that unit's line-break decisions, which changes the page structure, which changes the
-scan mapping — so the order is not optional.
+scan mapping, so the order is not optional.
 
 ## Verification
 
