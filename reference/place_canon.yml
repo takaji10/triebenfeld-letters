@@ -1,0 +1,33 @@
+# Place-name spellings, shared by every unit.
+#
+# Not editorial rulings: this is knowledge about how the period spelled places
+# and how the transcriber tended to misread them. A new unit inherits it.
+
+# Variant (lowercased, as it appears) -> the spelling this edition uses.
+canon:
+  "berlin[?]": "Berlin"
+  "ber[lin?]": "Berlin"
+  "berl": "Berlin"
+  "b[erlin?]": "Berlin"
+  "breslau[?]": "Breslau"
+  "bre[slau?]": "Breslau"
+  "bleranow": "Blizanow"
+  "trąbczin": "Trąbczyn"
+  "schlawenzitz": "Schlawenschitz"
+  "franckfurth": "Frankfurt an der Oder"
+  "franckfurth a d h": "Frankfurt an der Oder"
+  "fr a. d. oder": "Frankfurt an der Oder"
+  "prandfurth a d o[der]": "Frankfurt an der Oder"
+  "fraudfurth an der oder": "Frankfurt an der Oder"
+  "konigsberg": "Königsberg"
+  "kontop. 27ten": "Kontop"
+  "kopoyno": "Kopojno"
+  "poser": "Posen"
+  "dreßden": "Dresden"
+  "wein": "Wien"
+  "brzeg": "Brieg"
+  "betsch": "Betsche"
+  "erhringen": "Öhringen"
+
+# Fragments that look like a place in a dateline but are not one.
+reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn", "so bekomme ich", "thl. 13", "uria", "wun", "übrigens sorgen sie ja daß f"]

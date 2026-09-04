@@ -1,0 +1,186 @@
+# Editorial rulings for Oe 1 Bü 9454.
+#
+# Keyed by the archive's own document number, which is what letter_id stays.
+# Nothing here is derived: each entry is a decision taken against evidence and
+# recorded so a rebuild reproduces it. Adding a unit means writing a file like
+# this one, not editing the pipeline.
+
+places:
+  # Place of writing, where the dateline is absent, illegible or misleading.
+  # A trailing [?] marks a reading that is probable rather than settled.
+  overrides:
+    "237": "Kalisz"
+    "282": "Wien"
+    "45": "Kontop"
+    "73": "Schlawenschitz"
+    "99": "Breslau"
+    "142": "Breslau"
+    "132": "Frankfurt an der Oder"
+    "133": "Frankfurt an der Oder"
+    "211": "Klein Öhringen"
+    "221": "Blizanow"
+    "227": "Blizanow"
+    "252": "Wien"
+    "297": "Blizanow"
+    "301": "Blizanow"
+    "72c": "Kalisz"
+    "72e": "Warschau"
+    "150": ""
+    "155": "Breslau"
+    "188": "Breslau"
+    "226": "Blizanow"
+    "74b": "Berlin"
+    "2": "Wien"
+    "4": "Wien"
+    "15": "Wien"
+    "23": "Kontop"
+    "43": "Kontop"
+    "56": "Kontop"
+    "66": "Kontop"
+    "67": "Kontop"
+    "24": "Freyberg"
+    "29": "Schlawenschitz"
+    "31": "Berlin"
+    "35": "Berlin"
+    "37": "Berlin"
+    "83": "Berlin"
+    "84": "Berlin"
+    "85": "Berlin"
+    "92": "Berlin"
+    "97": "Berlin"
+    "100": "Berlin"
+    "109": "Berlin"
+    "34": "Breslau"
+    "117": "Breslau"
+    "119": "Breslau"
+    "36": "Öhringen[?]"
+    "57": "Schweinern"
+    "72b": "Blizanow"
+    "72d": "Warschau"
+    "72f": "Kopojno"
+    "147": "Trąbczyn"
+    "192": "Trąbczyn"
+    "197": "Ollaboch"
+    "202": "Schweinern"
+    "203": "Schweinern"
+    "222": "Blizanow"
+    "242": "Wien"
+    "247": "Wien"
+    "260": "Wien"
+    "261": "Wien"
+    "262": "Wien"
+    "268": "Wien"
+    "283": "Wien"
+    "284": "Wien"
+    "286": "Wien"
+    "207": "Kalisz"
+    "217": "Berlin"
+    "296": "Berlin"
+    "302": "Kontop"
+    "3": "Wien[?]"
+    "8": "Wien[?]"
+    "12": "Wien[?]"
+    "13": "Wien[?]"
+    "254": "Wien[?]"
+    "279": "Wien[?]"
+    "47": "Kontop[?]"
+    "62": "Kontop[?]"
+    "153": "Berlin[?]"
+    "122": "Breslau[?]"
+
+dates:
+  # Established from the manuscripts, where the dateline could not be parsed.
+  # [year, month, day, precision]; null where that element is unknown.
+  supplied:
+    "3": [1815, 2, 9, "day"]
+    "47": [1809, 3, null, "month"]
+    "63": [1809, 12, 16, "day"]
+    "144": [1804, 11, 3, "day"]
+    "173": [1805, 3, 31, "day"]
+    "202": [1810, 8, 30, "day"]
+    "276": [1815, 3, 4, "day"]
+    "109": [1801, 1, 31, "day"]
+    "254": [1814, 9, null, "month"]
+    "186": [1810, 8, 29, "day"]
+    "232": [1812, 6, 16, "day"]
+    "1a": [1815, 2, 12, "day"]
+    "72": [1812, 2, 23, "day"]
+    "72b": [1812, 3, 12, "day"]
+    "72c": [1812, 3, 8, "day"]
+    "72d": [1812, 3, 5, "day"]
+    "72e": [1812, 3, 5, "day"]
+    "72f": [1812, 5, 22, "day"]
+    "74a": [1811, 7, 30, "day"]
+    "74c": [1811, 8, 1, "day"]
+    "74d": [1811, 8, 6, "day"]
+    "74e": [1811, 8, 1, "day"]
+    "118a": [1804, 2, 10, "day"]
+    "118b": [1804, 3, 29, "day"]
+    "118c": [1804, 3, 29, "day"]
+    "179a": [1806, 4, 25, "day"]
+    "265a": [1815, 1, 8, "day"]
+    "265b": [1815, 1, 15, "day"]
+    "269a": [1815, 1, 24, "day"]
+
+  # Taken from the document's own duplicate.
+  twin:
+    "302": [1809, 3, 7, "day"]
+
+  # Bracketed by the letters on either side. The last element records the
+  # reasoning, and is shown to the reader on the document.
+  # [year, month, day, precision, basis]
+  inferred:
+    "8": [1815, 3, null, "inferred", "between L7 (20 Mar 1815) and L10 (4 Mar 1815) - both March 1815"]
+    "62": [1809, 9, null, "inferred", "between L61 (31 Aug 1809) and L64 (6 Dec 1809)"]
+    "183": [1806, 5, null, "inferred", "between L182 (May 1806) and L184 (15 May 1806)"]
+    "215": [1811, 7, null, "inferred", "between L214 (21 Jul 1811) and L216 (29 Jul 1811)"]
+    "224": [1811, 12, null, "inferred", "between L223 (4 Dec 1811) and L226 (20 Dec 1811)"]
+    "230": [1812, 1, null, "inferred", "between L229 (27 Jan 1812) and L233 (26 Jun 1812)"]
+    "74b": [1811, 7, null, "inferred", "undated P.M. note bundled between 74a (30 Jul 1811) and 74c (1 Aug 1811)"]
+
+  # Undated and left so, collected at the end of chronological order.
+  no_date: ["121", "181", "225", "293", "303", "9"]
+
+documents:
+  # Anything that is not an ordinary letter.
+  doc_type:
+    "303": "register"
+
+  # Same document, transcribed twice. Both copies are kept unaltered: comparing
+  # them is the only direct evidence in the corpus of where transcription fails.
+  duplicate_of:
+    "302": "48"
+    "72e": "72d"
+    "118c": "118b"
+
+  # Why a sub-record exists, shown on the document.
+  split_note:
+    "72": "archival number 72 held several documents; this is the first, split out after the scans showed it was distinct from 72a"
+    "72a": "part of letter 72 (see 72); separated from it after the scans showed two documents under one number"
+    "1a": "split out of letter 1 after the scans showed two documents under one archival number"
+    "72b": "part of letter 72 (see 72a)"
+    "72c": "part of letter 72 (see 72a)"
+    "72d": "part of letter 72 (see 72a); German original, duplicated in Polish as 72e"
+    "72e": "part of letter 72 (see 72a); Polish-language duplicate of 72d"
+    "72f": "part of letter 72 (see 72a)"
+    "74a": "part of letter 74, split into 74a-74e (court/legal documents bundled under one archival number)"
+    "74b": "part of letter 74 (see 74a); a personal P.M. note from Triebenfeld, undated"
+    "74c": "part of letter 74 (see 74a)"
+    "74d": "part of letter 74 (see 74a)"
+    "74e": "part of letter 74 (see 74a)"
+    "118a": "part of letter 118, split into 118a-118c"
+    "118b": "part of letter 118 (see 118a)"
+    "118c": "part of letter 118 (see 118a); near-duplicate of 118b"
+    "179a": "enclosure to letter 179 (\"179. a) Abschrift\" in the source) - a multi-exhibit financial dossier (A-D), dated 28 Mar-25 Apr 1806; date given is exhibit C (the Memorial)"
+    "265a": "part of letter 265, split into 265a-265b (two distinct petitions on different topics)"
+    "265b": "part of letter 265 (see 265a)"
+    "269a": "enclosure to letter 269 (\"269 a) Abschrift\" in the source), a copy of an earlier document - dated BEFORE the covering letter 269"
+
+damage:
+  # Damage is read from the text's own [...] markers, which travel with the
+  # words and survive corpus edits. It used to be recorded as corpus line
+  # ranges; those went stale when the corpus was edited and silently stopped
+  # matching anything, so has_damage was false for all 318 records. See notes.md.
+  #
+  # List letter numbers here only for damage the transcription does not mark.
+  letters: []
