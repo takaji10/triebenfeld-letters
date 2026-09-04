@@ -65,9 +65,12 @@ def main():
     seen = set()
     total_ms_pages = 0
     for lid, rec in by_id.items():
-        path = os.path.join(SITE, 'letters', lid, 'index.html')
+        # The record carries its own URL, so this follows the unit-scoped
+        # permalink rather than assuming a shape.
+        rel = rec.get('permalink', f'/letters/{lid}/').strip('/').replace('/', os.sep)
+        path = os.path.join(SITE, rel, 'index.html')
         if not os.path.isfile(path):
-            fail(f'letter {lid}: no page built at letters/{lid}/')
+            fail(f'letter {lid}: no page built at {rec.get("permalink", lid)}')
             continue
         seen.add(lid)
         with open(path, encoding='utf-8') as f:

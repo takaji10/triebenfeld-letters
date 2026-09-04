@@ -15,13 +15,13 @@ layout: default
   <nav class="letter-nav" aria-label="Letter navigation">
     <div class="nav-group">
       <span class="nav-label" data-i18n="nav_archival">{{ t.nav_archival }}</span>
-      {% if page.prev_archival %}<a href="{{ '/letters/' | append: page.prev_archival | relative_url }}/">&larr; {{ page.prev_archival }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
-      {% if page.next_archival %}<a href="{{ '/letters/' | append: page.next_archival | relative_url }}/">{{ page.next_archival }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
+      {% if page.prev_archival %}<a href="{{ page.prev_archival_url | relative_url }}">&larr; {{ page.prev_archival }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
+      {% if page.next_archival %}<a href="{{ page.next_archival_url | relative_url }}">{{ page.next_archival }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
     </div>
     <div class="nav-group">
       <span class="nav-label" data-i18n="nav_chrono">{{ t.nav_chrono }}</span>
-      {% if page.prev_chrono %}<a href="{{ '/letters/' | append: page.prev_chrono | relative_url }}/">&larr; {{ page.prev_chrono }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
-      {% if page.next_chrono %}<a href="{{ '/letters/' | append: page.next_chrono | relative_url }}/">{{ page.next_chrono }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
+      {% if page.prev_chrono %}<a href="{{ page.prev_chrono_url | relative_url }}">&larr; {{ page.prev_chrono }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
+      {% if page.next_chrono %}<a href="{{ page.next_chrono_url | relative_url }}">{{ page.next_chrono }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
     </div>
   </nav>
 
@@ -125,7 +125,7 @@ layout: default
 
       {% if page.duplicate_of %}
       <dt data-i18n="duplicate">{{ t.duplicate }}</dt>
-      <dd>The same document as <a href="{{ '/letters/' | append: page.duplicate_of | relative_url }}/">letter {{ page.duplicate_of }}</a>, transcribed twice.</dd>
+      <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>, transcribed twice.</dd>
       {% endif %}
       {% if page.parent_letter %}
       <dt data-i18n="part_of">{{ t.part_of }}</dt>

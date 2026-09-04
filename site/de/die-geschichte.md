@@ -43,24 +43,24 @@ geschlossene preußische Domänen tauschen, Krotoszyn und Polajewo, und so seine
 tilgen, ohne den Staat um eine Gnade zu bitten.
 
 Den Herbst 1798 verbrachte Triebenfeld in Berlin und arbeitete jeden Zugang, den er
-erreichen konnte: [Cabinetsrath Beyme]({{ '/letters/77/' | relative_url }}), Minister
-[Struensee]({{ '/letters/79/' | relative_url }}), Graf Hoym und vor allem Obrist von
+erreichen konnte: [Cabinetsrath Beyme]({{ '/letters/oe1bu9454/77/' | relative_url }}), Minister
+[Struensee]({{ '/letters/oe1bu9454/79/' | relative_url }}), Graf Hoym und vor allem Obrist von
 Köckritz, Generaladjutant und persönlicher Vertrauter des Königs, der dem Fürsten der
 nützlichste Freund bei Hofe wurde. Gegen sie stand ein Einziger: Etats-Minister von Voss,
 dessen Departement über den Tausch zu berichten hatte und nicht berichtete.
 
 Einige Wochen lang sah es nach Erfolg aus. Köckritz ließ ausrichten, die Sache sei
-[so gut wie abgeschlossen anzusehen]({{ '/letters/96/' | relative_url }}). Sie war es
+[so gut wie abgeschlossen anzusehen]({{ '/letters/oe1bu9454/96/' | relative_url }}). Sie war es
 nicht. Der Bericht von Voss, als er endlich kam, brachte den Plan zu Fall. Er trug dem
 König vor, der Staat verliere jährlich 17.400 Reichsthaler, gestützt auf eine
 Veranschlagung des Kriegsraths Nöldichen, der die Güter, wie Triebenfeld einwandte,
-[nie an Ort und Stelle besichtigt hatte]({{ '/letters/87/' | relative_url }}). Die
+[nie an Ort und Stelle besichtigt hatte]({{ '/letters/oe1bu9454/87/' | relative_url }}). Die
 Ablehnung liegt hier als [Abschrift des königlichen
-Rescripts]({{ '/letters/85/' | relative_url }}) vor, und der Fürst
-[bat noch zwei Jahre später dagegen an]({{ '/letters/101/' | relative_url }}).
+Rescripts]({{ '/letters/oe1bu9454/85/' | relative_url }}) vor, und der Fürst
+[bat noch zwei Jahre später dagegen an]({{ '/letters/oe1bu9454/101/' | relative_url }}).
 
 > Der redliche Lab: Rath Beyhm hatt mich die Sachen in Cab: selbst lesen laßen.
-> <cite>[Brief 96]({{ '/letters/96/' | relative_url }})</cite>
+> <cite>[Brief 96]({{ '/letters/oe1bu9454/96/' | relative_url }})</cite>
 {: .pull}
 
 Alles Weitere folgt aus diesem Scheitern. Der Fürst behält Güter, die er sich nicht leisten
@@ -74,32 +74,32 @@ Triebenfelds Mittel war die Kolonisation. Das Vorwerksland wird zerstückelt, Ba
 in Erbpacht darauf angesetzt, und aus Grund und Boden wird ein dauerhafter Zinsstrom.
 
 Er warb weit und beharrlich. Mährische Brüder aus Böhmen, in den Briefen Hussiten genannt,
-[kamen und besahen sich das Land]({{ '/letters/120/' | relative_url }}) zu 300 Reichsthalern
-die Hufe und [holten darauf ihre Glaubensbrüder]({{ '/letters/126/' | relative_url }}).
+[kamen und besahen sich das Land]({{ '/letters/oe1bu9454/120/' | relative_url }}) zu 300 Reichsthalern
+die Hufe und [holten darauf ihre Glaubensbrüder]({{ '/letters/oe1bu9454/126/' | relative_url }}).
 Mennoniten aus Westpreußen [boten an, Zagorowo und Trąbczyn im
-ganzen zu kaufen]({{ '/letters/146/' | relative_url }}) und unter sich aufzuteilen. Daneben
+ganzen zu kaufen]({{ '/letters/oe1bu9454/146/' | relative_url }}) und unter sich aufzuteilen. Daneben
 standen die Hauländer, Siedler auf einer Leihe holländischen Rechts, die der preußischen
 Erwerbung lange vorausging. Der Bestand erläutert das Wort selbst: [„die Hauländer oder
-Collonisten“]({{ '/letters/216/' | relative_url }}).
+Collonisten“]({{ '/letters/oe1bu9454/216/' | relative_url }}).
 
 Eine Zeitlang ging es auf. 1806 setzte die von der Kalischer Kammer beglaubigte
 Revenüenübersicht die beiden Herrschaften auf [40.260 Reichsthaler
-jährlich]({{ '/letters/179a/' | relative_url }}) an, und die Erbzinsen der neu
+jährlich]({{ '/letters/oe1bu9454/179a/' | relative_url }}) an, und die Erbzinsen der neu
 zerstückelten Gründe waren bereits fast dreimal so viel wert wie die Gefälle der alten
 Unterthanen. Dasselbe Papier verspricht dem König sechzehn neue Dörfer und fünfhundert
 Familien.
 
 Die Schulden aber wuchsen schneller als die Zinsen. Kaemen und Kolno wurden
-[1804 verkauft]({{ '/letters/136/' | relative_url }}). Die Gräfin Schlabrendorff
-[wollte über Weihnachten hinaus nicht warten]({{ '/letters/118b/' | relative_url }}) auf
+[1804 verkauft]({{ '/letters/oe1bu9454/136/' | relative_url }}). Die Gräfin Schlabrendorff
+[wollte über Weihnachten hinaus nicht warten]({{ '/letters/oe1bu9454/118b/' | relative_url }}) auf
 50.000 Reichsthaler. Im Januar 1805 sagte die Invalidenkasse, der preußische
 Militärversorgungsfonds, auf Köckritz' persönliche Verwendung hin
-[150.000 Reichsthaler]({{ '/letters/158/' | relative_url }}) zu, davon 50.000 sogleich
+[150.000 Reichsthaler]({{ '/letters/oe1bu9454/158/' | relative_url }}) zu, davon 50.000 sogleich
 gegen Hypothek und Triebenfelds eigene Unterschrift. Für diese Unterschrift wird er das
 nächste Jahrzehnt bezahlen.
 
 > Jede Wortbrüchigkeit ist meinen Herzen fremd, und soll es bis am lezten Hauch bleiben.
-> <cite>[Brief 158]({{ '/letters/158/' | relative_url }})</cite>
+> <cite>[Brief 158]({{ '/letters/oe1bu9454/158/' | relative_url }})</cite>
 {: .pull}
 
 Mitten darin, im April 1804, zeigt die Korrespondenz, was ihn die Arbeit kostet.
@@ -108,7 +108,7 @@ Reinschriften von anderer Hand machen zu lassen:
 
 > ich bin wie zermalmt und habe mich, da meine gute Frau heute beigesezt wird, mit den
 > Kindern bei meinen Schwager retwirt.
-> ([Brief 124]({{ '/letters/124/' | relative_url }}))
+> ([Brief 124]({{ '/letters/oe1bu9454/124/' | relative_url }}))
 
 Danach erledigt er das Geschäft des Briefes.
 
@@ -118,77 +118,77 @@ Im Herbst 1806 wurde Preußen binnen einer Woche als Militärmacht vernichtet. D
 befehligte bei Jena und capitulierte bei Prenzlau; damit endete seine Laufbahn.
 
 Die Briefe sagen das nicht. Erhalten ist [ein Brief der
-Erleichterung]({{ '/letters/26/' | relative_url }}) aus Breslau von Ende Oktober 1806, in
+Erleichterung]({{ '/letters/oe1bu9454/26/' | relative_url }}) aus Breslau von Ende Oktober 1806, in
 dem Triebenfeld erst durch einen Secretär erfahren hat, dass sein Dienstherr lebt, nachdem
 boshafte Gerüchte alles schlimmer hatten erscheinen lassen. Dass diese Gerüchte Jena und
 Prenzlau gelten, ist ein Schluss aus dem Datum und aus der Biographie. Der Brief nennt die
 Schlacht nie, und diese Edition gibt nicht vor, es sei anders.
 
 > Meine Freude war nun größer als einen Kummer es vorher gewesen war, und ich danke nur Gott daß Sie leben.
-> <cite>[Brief 26]({{ '/letters/26/' | relative_url }})</cite>
+> <cite>[Brief 26]({{ '/letters/oe1bu9454/26/' | relative_url }})</cite>
 {: .pull}
 
 Der Friede von Tilsit trennte im Juli 1807 Südpreußen von der preußischen Krone und gab es
 an das neue Herzogtum Warschau. Die Güter lagen nun im Ausland, und die Familie, der die
 Krone sie einst confisciert hatte, handelte sofort. Im Oktober 1807 wurden die Trąbczyner
 Güter [von einem Appellationsrath aus Kalisz
-übernommen]({{ '/letters/28/' | relative_url }}) und den Erben des alten Besitzers
+übernommen]({{ '/letters/oe1bu9454/28/' | relative_url }}) und den Erben des alten Besitzers
 übergeben. Kaemen ging denselben Weg,
 [gewaltsam genommen, und nichts dagegen zu
-machen]({{ '/letters/27/' | relative_url }}). Es geschah, wie die spätere Bittschrift des
+machen]({{ '/letters/oe1bu9454/27/' | relative_url }}). Es geschah, wie die spätere Bittschrift des
 Fürsten selbst sagt, [vierzehn Wochen nach dem Tilsiter
-Frieden]({{ '/letters/265b/' | relative_url }}).
+Frieden]({{ '/letters/oe1bu9454/265b/' | relative_url }}).
 
 Die Ansprecherin war die Tochter des Starosten Anton von Prussiemski. Sie erscheint in
 diesen Briefen unter verwirrend vielen Namen: *Prusimska* als Mädchen, *Dąbska* als
 Verheiratete und nach einer zweiten Ehe um 1814 *Miączyńska*, *Moscinska* und *Moszynska*.
 Eine Frau, und sie gewinnt. Im folgenden Jahrzehnt bittet sie den König in Warschau an,
-[wird abgewiesen]({{ '/letters/198/' | relative_url }}), bittet den Kaiser in Dresden an
+[wird abgewiesen]({{ '/letters/oe1bu9454/198/' | relative_url }}), bittet den Kaiser in Dresden an
 und [erhält die Güter von den polnischen Commissarien gleichwohl
-zurück]({{ '/letters/217/' | relative_url }}). Triebenfelds Einwand ist immer der
+zurück]({{ '/letters/oe1bu9454/217/' | relative_url }}). Triebenfelds Einwand ist immer der
 förmliche, sie habe sich [„ohne alle Decrete und Urtels“ in den
-Besitz]({{ '/letters/215/' | relative_url }}) geschwungen, und er bringt ihn nirgends
+Besitz]({{ '/letters/oe1bu9454/215/' | relative_url }}) geschwungen, und er bringt ihn nirgends
 durch, weil ihre Verbindungen besser sind als seine.
 
 ## IV. Einunddreißig Prozesse, 1808 bis 1812
 
 1808 hatten die Gläubiger Triebenfeld persönlich erreicht. Er wurde
 [in Berlin von zwei französischen Gendarmen
-verhaftet]({{ '/letters/30/' | relative_url }}), als Generalbevollmächtigter des Fürsten,
+verhaftet]({{ '/letters/oe1bu9454/30/' | relative_url }}), als Generalbevollmächtigter des Fürsten,
 wegen zweier Jahre rückständiger Zinsen auf das Darlehen der Invalidenkasse, für das er
 selbst unterschrieben hatte. [Sein eigener Bericht
-darüber]({{ '/letters/42/' | relative_url }}) lohnt die Lektüre. 1809
-[floh er aus Berlin]({{ '/letters/45/' | relative_url }}), um der Personalhaft aus einem
+darüber]({{ '/letters/oe1bu9454/42/' | relative_url }}) lohnt die Lektüre. 1809
+[floh er aus Berlin]({{ '/letters/oe1bu9454/45/' | relative_url }}), um der Personalhaft aus einem
 anderen Erkenntnis zu entgehen, [wurde unterwegs
-beraubt]({{ '/letters/57/' | relative_url }}) um einen Koffer im Wert von 800
+beraubt]({{ '/letters/oe1bu9454/57/' | relative_url }}) um einen Koffer im Wert von 800
 Reichsthalern und hatte die Execution im Hause.
 
 > Jezt bin ich ein wahrer Bettelhund und muß noch Gott danken, daß ich nicht selbst gemordet bin.
-> <cite>[Brief 57]({{ '/letters/57/' | relative_url }})</cite>
+> <cite>[Brief 57]({{ '/letters/oe1bu9454/57/' | relative_url }})</cite>
 {: .pull}
 
 Dagegen setzte er einen Gegenangriff. Der Plan ist doppelt überliefert, weil dasselbe
 Dokument zweimal in das Archiv geschrieben wurde, als
-[Brief 48]({{ '/letters/48/' | relative_url }}) und
-[Brief 302]({{ '/letters/302/' | relative_url }}), aus Kontop vom 7. März 1809. In einer
+[Brief 48]({{ '/letters/oe1bu9454/48/' | relative_url }}) und
+[Brief 302]({{ '/letters/oe1bu9454/302/' | relative_url }}), aus Kontop vom 7. März 1809. In einer
 Sitzung stellte er dreizehn Spezialvollmachten aus: die Sequestration aufheben, die
 Gläubiger Oppenheimer und Wolff über 72.000 Reichsthaler verklagen, einen betrügerischen
 Sequestor absetzen und belangen, die Rückstände beitreiben, den Besitz in Warschau
 verteidigen.
 
 Im Januar 1811 führte er nach eigener Zählung
-[einunddreißig Prozesse zugleich]({{ '/letters/212/' | relative_url }}) und brachte fast
+[einunddreißig Prozesse zugleich]({{ '/letters/oe1bu9454/212/' | relative_url }}) und brachte fast
 nichts ein. Diesen Brief schrieb er aus einer Bauernhütte in Swiątniki, während er sich von
 einer schweren Krankheit erholte.
 
 Dazwischen standen die Kolonisten. Die Getreidepreise waren gefallen, und sie konnten nicht
 zahlen. Triebenfelds Beamte rieten, einen Teil der Rückstände zu erlassen, und 1811 wurde
 ein Drittel der Jahreszinsen [aus besonderer Gnade
-erlassen]({{ '/letters/215/' | relative_url }}), was zugleich das Praktische war, denn
+erlassen]({{ '/letters/oe1bu9454/215/' | relative_url }}), was zugleich das Praktische war, denn
 sonst würden „die Leute aus halsstarrigkeit gar nichts geben“. Im selben Jahr, bei der
 Frage, ob der Fürst die Güter überhaupt behalten solle, schlug er das Gegenteil vor: die
 Hauländer [„gröstentheils durch gericht Erkenntniße“
-fortzujagen]({{ '/letters/216/' | relative_url }}) und aus dem Land wieder reine Vorwerke
+fortzujagen]({{ '/letters/oe1bu9454/216/' | relative_url }}) und aus dem Land wieder reine Vorwerke
 zu machen.
 
 ## V. Wien, 1814 bis 1815
@@ -196,49 +196,49 @@ zu machen.
 Im Herbst 1814 wurde Triebenfeld zum Wiener Kongress geschickt, um die Rückgabe der
 polnischen Güter zu betreiben.
 
-Er [traf im Oktober ein]({{ '/letters/242/' | relative_url }}), nach drei Tagen Reise, in
+Er [traf im Oktober ein]({{ '/letters/oe1bu9454/242/' | relative_url }}), nach drei Tagen Reise, in
 einer Stadt, in der das Papiergeld die Fremden zugrunde richtete und alles mehr kostete,
 als er hatte. Ein Brief [rechnet seine eigene Armut Zeile für Zeile
-auf]({{ '/letters/243/' | relative_url }}): die Stube, den Kaffee, das eine Glas Wein, das
+auf]({{ '/letters/oe1bu9454/243/' | relative_url }}): die Stube, den Kaffee, das eine Glas Wein, das
 man der Ehre halber nehmen muss, den Lohnlakaien, den Wagen. Er begründet damit die Bitte
 um weitere 300 Reichsthaler in Gold und nennt den Tag, an dem er abreisen muss, wenn sie
 ausbleiben. Als Adresse gibt er die Goldene Ente in der Schulerstraße an.
 
 > wie ich übrigens hier lebe, das ist Hände mäßig, ich habe nichts auf, und öfters nichtes im Leibe
-> <cite>[Brief 266]({{ '/letters/266/' | relative_url }})</cite>
+> <cite>[Brief 266]({{ '/letters/oe1bu9454/266/' | relative_url }})</cite>
 {: .pull}
 
 Das Werben war ernsthaft und sah eine Zeitlang hoffnungsvoll aus. Er reichte beim
-[Staatskanzler Fürsten Hardenberg]({{ '/letters/245/' | relative_url }}) ein und
-[erhielt Bescheid]({{ '/letters/252/' | relative_url }}). Wilhelm von Humboldt
-[nahm sich der Sache an]({{ '/letters/250/' | relative_url }}) und verlangte Abschriften
+[Staatskanzler Fürsten Hardenberg]({{ '/letters/oe1bu9454/245/' | relative_url }}) ein und
+[erhielt Bescheid]({{ '/letters/oe1bu9454/252/' | relative_url }}). Wilhelm von Humboldt
+[nahm sich der Sache an]({{ '/letters/oe1bu9454/250/' | relative_url }}) und verlangte Abschriften
 von allem. Von Hardenberg wird das Wort berichtet, Hohenlohe sei
 [„dieser redliche Mann ... der am meisten gelitten
-hat“]({{ '/letters/262/' | relative_url }}). Triebenfeld verfolgte den ganzen Kongress, die
+hat“]({{ '/letters/oe1bu9454/262/' | relative_url }}). Triebenfeld verfolgte den ganzen Kongress, die
 Manöver, den achtspännigen Aufzug des Königs von Württemberg, die Forderungen der Herzogin
 von Sagan, während über seine Sache ein Fluss entschied.
 
 Die Prosna sollte die Grenze werden. Liefe sie, wo Russland es verlangte, so fielen die
 Trąbczyner Güter und Triebenfelds eigenes Blizanow
-[unter russische Landeshoheit]({{ '/letters/266/' | relative_url }}), außer Reichweite
+[unter russische Landeshoheit]({{ '/letters/oe1bu9454/266/' | relative_url }}), außer Reichweite
 jedes preußischen Gerichts. Im Februar 1815 meldete er die Linie
-[als festgesetzt, und gegen ihn]({{ '/letters/271/' | relative_url }}).
+[als festgesetzt, und gegen ihn]({{ '/letters/oe1bu9454/271/' | relative_url }}).
 
 Dann verließ Napoleon Elba. Triebenfelds Briefe
-[füllen sich mit Grenoble und Lyon]({{ '/letters/4/' | relative_url }}), mit den zehn
+[füllen sich mit Grenoble und Lyon]({{ '/letters/oe1bu9454/4/' | relative_url }}), mit den zehn
 Millionen Franken auf Bonapartes Kopf und schließlich mit der Nachricht, er
-[stehe heute beinahe am Rhein]({{ '/letters/286/' | relative_url }}) mit über 200.000 Mann.
+[stehe heute beinahe am Rhein]({{ '/letters/oe1bu9454/286/' | relative_url }}) mit über 200.000 Mann.
 Der Kongress, und mit ihm die Sache des Fürsten, war damit einfach ausgesetzt.
 
 ## VI. Ende, 1815 bis 1816
 
 Das Verhältnis verdirbt. Die Briefe des Fürsten werden kühl, und Triebenfeld
-[beantwortet drei davon Punkt für Punkt]({{ '/letters/273/' | relative_url }}) und
+[beantwortet drei davon Punkt für Punkt]({{ '/letters/oe1bu9454/273/' | relative_url }}) und
 verteidigt seine Ehre. Er bittet nun nicht mehr für sich um Geld, sondern für seine in
 Schlesien zurückgelassenen Kinder.
 
 > Ihr Wort war mir heilig, ich führte auf diesen Grund das Gebäude auf.
-> <cite>[Brief 273]({{ '/letters/273/' | relative_url }})</cite>
+> <cite>[Brief 273]({{ '/letters/oe1bu9454/273/' | relative_url }})</cite>
 {: .pull}
 
 Im März 1815 schreibt seine Tochter Charlotte dem Fürsten unmittelbar, aus Breslau. Es ist
@@ -248,19 +248,19 @@ ihr Vater ist, und ihn nur über den Mann erreichen kann, in dessen Diensten er 
 > Mein Elend hat jezt alle Gränzen überſchritten, um ſo mehr da ich auch jezt die Hofnung
 > aufgeben muß, meinen Vater durch eine mündliche Beschreibung meine Lage bekant werden zu
 > laßen.
-> ([Brief 7]({{ '/letters/7/' | relative_url }}))
+> ([Brief 7]({{ '/letters/oe1bu9454/7/' | relative_url }}))
 
 Im Dezember, zurück in Blizanow und von einer Krankheit genesen, die ihn beinahe umgebracht
 hätte, schreibt Triebenfeld, dass seine Tochter vier Tage nach der Niederkunft gestorben
 ist. In denselben Tagen hat er vom Tod Barbes erfahren, des Wiener Freundes, der ihm Geld
 geliehen und ihn dort über Wasser gehalten hatte. Er schreibe, sagt er, damit der Fürst
 wisse, [dass er noch lebt und wo er
-ist]({{ '/letters/297/' | relative_url }}).
+ist]({{ '/letters/oe1bu9454/297/' | relative_url }}).
 
 Die Korrespondenz endet Anfang 1816 mit laufenden Geschäften und Geburtstagswünschen.
 
 Das letzte Stück im Archiv ist kein Brief. Es ist
-[ein Auszug aus den Liquidationsprotokollen]({{ '/letters/303/' | relative_url }}), der 142
+[ein Auszug aus den Liquidationsprotokollen]({{ '/letters/oe1bu9454/303/' | relative_url }}), der 142
 Gläubiger verzeichnet, vom Sattler Gleisberger in Potsdam und dem Gärtner Nickel bis zu
 Banquiers und adligen Erben, zusammen 1.414.377 Reichsthaler. Die größte Privatgläubigerin
 darauf ist eine *Fr. Charlotte von Triebenfeld* mit 112.000 Reichsthalern, also derselben
@@ -295,18 +295,18 @@ ihrer Sicherheit.
 
 Wer die Geschichte in einem Dutzend Stücke lesen will, lese in dieser Folge:
 
-1. [Brief 77]({{ '/letters/77/' | relative_url }}), der Tauschplan in vollem Gange
-2. [Brief 85]({{ '/letters/85/' | relative_url }}), der König sagt nein
-3. [Brief 124]({{ '/letters/124/' | relative_url }}), das Begräbnis seiner Frau und das Geschäft des Tages
-4. [Brief 179a]({{ '/letters/179a/' | relative_url }}), was die Güter wirklich wert waren
-5. [Brief 26]({{ '/letters/26/' | relative_url }}), Erleichterung, dass der Fürst 1806 überlebt hat
-6. [Brief 28]({{ '/letters/28/' | relative_url }}), die Güter werden genommen
-7. [Brief 48]({{ '/letters/48/' | relative_url }}), der Gegenangriff und seine dreizehn Vollmachten
-8. [Brief 212]({{ '/letters/212/' | relative_url }}), einunddreißig Prozesse, aus einer Bauernhütte geschrieben
-9. [Brief 243]({{ '/letters/243/' | relative_url }}), was ein Tag in Wien kostet
-10. [Brief 266]({{ '/letters/266/' | relative_url }}), ein Fluss entscheidet alles
-11. [Brief 7]({{ '/letters/7/' | relative_url }}), Charlotte schreibt
-12. [Brief 297]({{ '/letters/297/' | relative_url }}), die Todesfälle
+1. [Brief 77]({{ '/letters/oe1bu9454/77/' | relative_url }}), der Tauschplan in vollem Gange
+2. [Brief 85]({{ '/letters/oe1bu9454/85/' | relative_url }}), der König sagt nein
+3. [Brief 124]({{ '/letters/oe1bu9454/124/' | relative_url }}), das Begräbnis seiner Frau und das Geschäft des Tages
+4. [Brief 179a]({{ '/letters/oe1bu9454/179a/' | relative_url }}), was die Güter wirklich wert waren
+5. [Brief 26]({{ '/letters/oe1bu9454/26/' | relative_url }}), Erleichterung, dass der Fürst 1806 überlebt hat
+6. [Brief 28]({{ '/letters/oe1bu9454/28/' | relative_url }}), die Güter werden genommen
+7. [Brief 48]({{ '/letters/oe1bu9454/48/' | relative_url }}), der Gegenangriff und seine dreizehn Vollmachten
+8. [Brief 212]({{ '/letters/oe1bu9454/212/' | relative_url }}), einunddreißig Prozesse, aus einer Bauernhütte geschrieben
+9. [Brief 243]({{ '/letters/oe1bu9454/243/' | relative_url }}), was ein Tag in Wien kostet
+10. [Brief 266]({{ '/letters/oe1bu9454/266/' | relative_url }}), ein Fluss entscheidet alles
+11. [Brief 7]({{ '/letters/oe1bu9454/7/' | relative_url }}), Charlotte schreibt
+12. [Brief 297]({{ '/letters/oe1bu9454/297/' | relative_url }}), die Todesfälle
 
 Zu jedem Dokument gehören eine deutsche Transkription, eine Lesefassung und, bei 313 von
 ihnen, eine englische Übersetzung, dazu die Aufnahmen der Handschrift. Beginnen Sie mit dem

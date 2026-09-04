@@ -47,11 +47,9 @@ pages/
 # only the guarantee about it.
 # ---------------------------------------------------------------------------
 
-# Model output caches
-/translation-raw/
-/translation-raw-B/
-/summaries-raw/
-/summaries-raw-de/
+# Model output caches. Expensive to rebuild - these hold about $29 of API
+# output - so they are kept on this machine but never published.
+/cache/
 /retranscription-opus/
 /retranscription-sonnet/
 

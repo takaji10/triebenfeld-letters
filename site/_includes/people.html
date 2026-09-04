@@ -31,7 +31,7 @@
       , {{ p.count }} mention{% if p.count != 1 %}s{% endif %}
     </p>
     <p class="refs reflist">
-      {% for l in p.letters %}<a href="{{ '/letters/' | append: l | relative_url }}/">{{ l }}</a>{% endfor %}
+      {% for l in p.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
     </p>
   </div>
 {% endfor %}

@@ -28,7 +28,7 @@
     <h2>{{ pl.name }}</h2>
     <p class="refs">{{ pl.count }} document{% if pl.count != 1 %}s{% endif %}</p>
     <p class="refs reflist">
-      {% for l in pl.letters %}<a href="{{ '/letters/' | append: l | relative_url }}/">{{ l }}</a>{% endfor %}
+      {% for l in pl.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
     </p>
   </div>
 {% endfor %}

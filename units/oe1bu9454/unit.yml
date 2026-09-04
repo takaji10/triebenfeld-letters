@@ -12,6 +12,11 @@ title: >-
 date_span: 1798-1816
 status: published          # draft | transcribed | translated | published
 
+# This unit was published before URLs carried the archival unit, so stubs are
+# generated at the old /letters/<n>/ addresses forwarding to the new ones.
+# A newly added unit does not need this.
+legacy_flat_urls: true
+
 # Raw scans live outside the project. crop_scans.py reads from raw_dir and
 # writes single pages into raw_dir/processed/.
 scans:
