@@ -42,18 +42,38 @@ into the gutter, so a cut exactly on the fold clips the last stroke of some line
 overlap costs a sliver of the facing page and loses no ink. Checked on scan 0033, where
 several lines on the left page reach the fold and now survive whole.
 
-## Held back
+## Every fold checked by hand
 
-Seven openings found neither a shadow nor a clear gap, so they were left whole rather
-than cut on a guess:
+Seven openings gave neither a shadow nor a clear gap and were left whole; they were then
+placed by hand in `review_folds.py`, landing at 0.528 to 0.547, which is where the
+shadow cluster sits and well right of the 0.434 to 0.470 the old fallback had guessed.
 
-```
-0055  0083  0124  0126  0155  0162  0170
-```
+All 141 automatic decisions were then reviewed the same way. **43 were corrected, and
+every one moved to the right**, by a median 23px and up to 207px. Twenty of the 43 had
+been placed by the text-gap rule at almost exactly 0.500.
 
-Their proofs are in `processed/_spreads_review/`. To finish one, set its verdict to
-`split` in `INDEX.md`, correct `fold_frac` by eye, and run `--apply-review`. 0055 and
-0124 have writing close to the fold and are worth doing carefully.
+Final folds: 148 splits, median 0.5321, stdev 0.0115, range 0.496 to 0.559.
+
+## What those 43 corrections taught the splitter
+
+They are real ground truth, and scoring the rules against them showed the text-gap
+midpoint was biased, not noisy: median error 67px, always left of the truth. The fold
+sits right of the middle of the writing gap, because the left leaf's outer margin is
+wider than the right leaf's inner one.
+
+The fix is the unit's own evidence. A book photographed in one sitting puts its fold in
+nearly the same place every time, so the median of the folds the shadow *did* find is
+the best estimate for the openings where it found none:
+
+| fallback | fires | median error | bias |
+|---|---|---|---|
+| gap midpoint | 11/43 | 67px | -67px |
+| unit fold median | 11/43 | **31px** | **-6px** |
+| shadow, for reference | 26/43 | 18px | -18px |
+
+`split_spreads.py` now takes a first pass over the batch to find the unit's fold median
+and uses that wherever no shadow appears. The writing gap survives only as a last resort
+when a unit has too few shadows to form a prior, and is marked low confidence.
 
 ## Next
 
