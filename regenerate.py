@@ -1,54 +1,71 @@
 # -*- coding: utf-8 -*-
 """
-Rebuild everything from the canonical corpus, in dependency order.
+Rebuild everything from the transcriptions, in dependency order.
 
-Run this after editing von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt:
+    python regenerate.py                     every transcribed unit
+    python regenerate.py --unit oe1bu9454    one unit, then re-merge
+    python regenerate.py --site              also build and verify the website
 
-    python3 regenerate.py            # everything except the Jekyll build
-    python3 regenerate.py --site     # also rebuild and verify the website
+Editing a unit's corpus.txt shifts its line numbers, which invalidates that
+unit's line-break decisions (they are keyed by line number), which changes the
+page structure, which changes the scan mapping. So the per-unit order below is
+not optional.
 
-Editing the corpus shifts line numbers, which invalidates the line-break
-decisions (they are keyed by line number), which changes the page structure,
-which changes the scan mapping. So the order below is not optional.
-
-Nothing here touches the corpus or the images - both are read-only inputs.
+Nothing here writes to a corpus.txt or to the images: both are read-only inputs.
 """
-import io, sys, os, subprocess, time
+import io
+import os
+import subprocess
+import sys
+import time
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
-STEPS = [
+# run once per unit, in this order
+PER_UNIT = [
     ('pipeline/build/resolve_linebreaks.py', 'line-break decisions',
      're-derived because line numbers move when the corpus is edited'),
     ('pipeline/build/build_db.py', 'database, pages and reading copy',
-     'letters.csv / letters.json / pages.csv / reading + chronological text'),
+     'corpus/units/<slug>/ - letters, pages, reading and chronological text'),
     ('pipeline/build/match_scans.py', 'scan mapping and reviewer',
      'page_scan_map.csv / scan_inventory.md / scan_review.html'),
+]
+
+# then once for the whole corpus
+MERGED = [
+    ('pipeline/build/merge_corpus.py', 'merge units',
+     'corpus/letters.json and friends, every unit together'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
 ]
 
-# Run after the mapping is rebuilt: the label in each scan filename is derived
-# from it, so it goes stale whenever pages move. Reporting is enough here -
-# renaming is left as a deliberate act (relabel_scans.py --apply).
-POST = [('pipeline/build/relabel_scans.py', 'scan filename labels',
-         'checks the -L<letter>_<page> labels still match the mapping')]
+# after the mapping is rebuilt: the label in each scan filename is derived from
+# it, so it goes stale whenever pages move. Reporting is enough here - renaming
+# is left as a deliberate act (relabel_scans.py --apply).
+POST_UNIT = [('pipeline/build/relabel_scans.py', 'scan filename labels',
+              'checks the -L<letter>_<page> labels still match the mapping')]
 
 KEEP = ('pages:', 'records:', 'VERIFY', 'transcript pages', 'images assigned',
         'images unassigned', 'accounting', 'no image used twice',
         'capture order', 'pages with no image', 'decisions:', 'confidence:',
         'captures ', 'wrote ', 'letter pages checked', 'manuscript pages',
-        'archival lines exact', 'VERIFIED', 'MISMATCH', 'WARNING', 'labels to update', 'nothing to do',
+        'archival lines exact', 'VERIFIED', 'MISMATCH', 'WARNING',
+        'labels to update', 'nothing to do', 'merged:', 'skipped ', 'documents',
         'FAIL', 'ALL CHECKS', 'internal links', 'external resources')
 
 
-def run(script, label, detail):
-    print(f'\n=== {label} ===')
+def run(script, label, detail, unit=None):
+    print(f'\n=== {label}{" - " + unit if unit else ""} ===')
     print(f'    {detail}')
     t = time.time()
-    p = subprocess.run([sys.executable, '-u', os.path.join(ROOT, script)],
-                       cwd=ROOT, capture_output=True, text=True,
+    cmd = [sys.executable, '-u', os.path.join(ROOT, script)]
+    if unit:
+        cmd += ['--unit', unit]
+    p = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True,
                        encoding='utf-8', errors='replace')
     out = (p.stdout or '') + (p.stderr or '')
     for line in out.splitlines():
@@ -61,12 +78,37 @@ def run(script, label, detail):
     print(f'    done in {time.time() - t:.0f}s')
 
 
+def transcribed(u):
+    """A unit with no text yet is scaffolding, not an error."""
+    try:
+        return os.path.getsize(u.corpus_path) > 0
+    except OSError:
+        return False
+
+
 def main():
-    print('Regenerating from von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt')
-    for script, label, detail in STEPS:
+    only = unitlib.unit_arg()
+    units = unitlib.load_units(only)
+
+    ready = [u for u in units if transcribed(u)]
+    waiting = [u for u in units if not transcribed(u)]
+    for u in waiting:
+        print(f'skipping {u.slug}: units/{u.slug}/corpus.txt is empty '
+              f'(status: {u.get("status", "draft")})')
+    if not ready:
+        raise SystemExit('no transcribed unit to build')
+
+    print('Regenerating: ' + ', '.join(u.slug for u in ready))
+    for u in ready:
+        for script, label, detail in PER_UNIT:
+            run(script, label, detail, unit=u.slug)
+
+    for script, label, detail in MERGED:
         run(script, label, detail)
-    for script, label, detail in POST:
-        run(script, label, detail)
+
+    for u in ready:
+        for script, label, detail in POST_UNIT:
+            run(script, label, detail, unit=u.slug)
 
     if '--site' in sys.argv:
         print('\n=== website ===')
@@ -77,12 +119,11 @@ def main():
             print((p.stdout or '') + (p.stderr or ''))
             sys.exit(p.returncode)
         print('    jekyll build ok')
-        run('verify_site.py', 'website verification', 'text fidelity and link integrity')
+        run('verify_site.py', 'website verification',
+            'text fidelity and link integrity')
 
-    print('\nAll done. Reload scan_review.html in the browser.')
-    print('Your anchors, front-matter marks and dropped images are kept;')
-    print('page-level decisions reset when the page structure changes, and the')
-    print('reviewer shows a banner saying so.')
+    print('\nAll done.')
+    print('Review sheets are in review/<slug>/; open scan_review.html to check pairings.')
 
 
 if __name__ == '__main__':

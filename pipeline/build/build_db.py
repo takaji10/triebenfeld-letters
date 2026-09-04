@@ -17,6 +17,12 @@ import sys
 
 OUT = ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNIT = unitlib.one_unit(unitlib.unit_arg())
+# Each unit builds into its own directory; merge_corpus.py combines them into
+# the corpus/ files the website and the review tools read.
+UNIT_OUT = os.path.join(ROOT, 'corpus', 'units', UNIT.slug)
+UNIT_REVIEW = os.path.join(ROOT, 'review', UNIT.slug)
+os.makedirs(UNIT_OUT, exist_ok=True)
+os.makedirs(UNIT_REVIEW, exist_ok=True)
 SRC = UNIT.corpus_path
 with open(SRC, encoding='utf-8') as f:
     lines = f.read().split('\n')
@@ -336,14 +342,14 @@ cols = ['unit','uid','pad','permalink','letter_id','seq_archival','parent_letter
         'date_inferred_from','year','month','day','place','sender','recipient',
         'line_start','line_end','uncertainty_count','has_damage','duplicate_of',
         'is_missing','n_lines','n_pages','text','text_reading']
-with open(os.path.join(ROOT, 'corpus', 'letters.csv'),'w',encoding='utf-8-sig',newline='') as f:
+with open(os.path.join(UNIT_OUT, 'letters.csv'),'w',encoding='utf-8-sig',newline='') as f:
     w = csv.DictWriter(f, fieldnames=cols, extrasaction='ignore'); w.writeheader()
     for r in records: w.writerow(r)
-with open(os.path.join(ROOT, 'corpus', 'letters.json'),'w',encoding='utf-8') as f:
+with open(os.path.join(UNIT_OUT, 'letters.json'),'w',encoding='utf-8') as f:
     json.dump(records, f, ensure_ascii=False, indent=1)
 
 # Page-level table: one row per manuscript page, for scan matching later.
-with open(os.path.join(ROOT, 'corpus', 'pages.csv'),'w',encoding='utf-8-sig',newline='') as f:
+with open(os.path.join(UNIT_OUT, 'pages.csv'),'w',encoding='utf-8-sig',newline='') as f:
     w = csv.writer(f)
     w.writerow(['letter_id','page','line_start','line_end','n_lines','scan','reading'])
     for r in records:
@@ -353,7 +359,7 @@ with open(os.path.join(ROOT, 'corpus', 'pages.csv'),'w',encoding='utf-8-sig',new
 print(f"pages: {sum(len(r['pages']) for r in records)}")
 
 # Reading copy - generated, page by page, each labelled with its archival lines.
-with open(os.path.join(ROOT, 'corpus', 'reading.txt'),'w',
+with open(os.path.join(UNIT_OUT, 'reading.txt'),'w',
           encoding='utf-8',newline='\n') as f:
     f.write("von Triebenfeld / Hohenlohe-Ingelfingen - READING COPY (generated)\n")
     f.write("Line-wraps resolved for readability. Page breaks preserved; each page is\n")
@@ -370,7 +376,7 @@ with open(os.path.join(ROOT, 'corpus', 'reading.txt'),'w',
         f.write("\n\n")
 
 # review table (no full text)
-with open(os.path.join(ROOT, 'review', 'parsed_dates_review.csv'),'w',encoding='utf-8-sig',newline='') as f:
+with open(os.path.join(UNIT_REVIEW, 'parsed_dates_review.csv'),'w',encoding='utf-8-sig',newline='') as f:
     w = csv.writer(f)
     w.writerow(['letter_id','date_iso','precision','source','basis_or_dateline','place','n_lines'])
     for r in records:
@@ -384,7 +390,7 @@ def sortkey(r):
     d = int(r['date_iso'][8:10]) if len(r['date_iso'])>=10 else 0
     return (0, y, m, d, r['letter_id'])
 chron = sorted(records, key=sortkey)
-with open(os.path.join(ROOT, 'corpus', 'chronological.txt'),'w',
+with open(os.path.join(UNIT_OUT, 'chronological.txt'),'w',
           encoding='utf-8',newline='\n') as f:
     f.write("von Triebenfeld / Hohenlohe-Ingelfingen correspondence - CHRONOLOGICAL ORDER\n")
     f.write("Derived from the archival-order file. [LETTER n] = archival number (citation key).\n")
@@ -407,7 +413,7 @@ def content(fn):
         return sorted(l.strip() for l in fh
                       if l.strip() and not re.match(r'^\[LETTER \w+\]', l.strip()))
 a = content(SRC)
-b = content(os.path.join(ROOT, 'corpus', 'chronological.txt'))
+b = content(os.path.join(UNIT_OUT, 'chronological.txt'))
 b = [x for x in b if not x.startswith(('von Triebenfeld / Hohenlohe','Derived from the archival',
                                         'Dates in [brackets]'))]
 
@@ -446,7 +452,7 @@ for _L, _how in _open:
         _bl = [x.strip() for x in _r['text'].split('\n') if x.strip()][-3:]
         _tail = ' / '.join(_bl)[:110].replace('|', '/')
     _lines.append(f'| {_L} | {_how} | {_tail} |')
-with open(os.path.join(ROOT, 'review', 'place_review.md'), 'w', encoding='utf-8', newline='\n') as f:
+with open(os.path.join(UNIT_REVIEW, 'place_review.md'), 'w', encoding='utf-8', newline='\n') as f:
     f.write('\n'.join(_lines) + '\n')
 print(f'place: {_ruled} ruled, {_derived} derived, '
       f'{len(_open)} unresolved -> place_review.md')

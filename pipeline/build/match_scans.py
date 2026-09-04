@@ -33,6 +33,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNIT = unitlib.one_unit(unitlib.unit_arg())
+os.makedirs(os.path.join(ROOT, 'review', UNIT.slug), exist_ok=True)
 PAGES_DIR = os.path.join(ROOT, 'pages')
 # Filenames were renamed to be ASCII and self-describing:
 #   Oe_1_Bu_9454_0343_a1-L179a_04.jpg
@@ -181,7 +182,7 @@ def align(letters, caps):
 
 
 def main():
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'corpus', 'units', UNIT.slug, 'letters.json'), encoding='utf-8') as f:
         recs = json.load(f)
     recs.sort(key=lambda r: letter_key(r['letter_id']))
     for r in recs:
@@ -439,7 +440,7 @@ def write_inventory(caps, recs, per_letter, unparsed, unused):
         A('\n## Images not matched to any page\n')
         A('> ' + ', '.join(f'`{u}`' for u in unused[:60]))
 
-    with open(os.path.join(ROOT, 'review', 'scan_inventory.md'), 'w',
+    with open(os.path.join(ROOT, 'review', UNIT.slug, 'scan_inventory.md'), 'w',
               encoding='utf-8', newline='\n') as f:
         f.write('\n'.join(L) + '\n')
     print('wrote scan_inventory.md')
@@ -468,7 +469,7 @@ def write_reviewer(rows, recs):
     html = TEMPLATE.replace('/*DATA*/', json.dumps(data, ensure_ascii=False)) \
                    .replace('/*LETTERS*/', json.dumps(letters, ensure_ascii=False)) \
                    .replace('/*STAMP*/', json.dumps(stamp))                    .replace('/*SEED*/', json.dumps(load_decisions(), ensure_ascii=False))
-    path = os.path.join(ROOT, 'review', 'scan_review.html')
+    path = os.path.join(ROOT, 'review', UNIT.slug, 'scan_review.html')
     with open(path, 'w', encoding='utf-8', newline='\n') as f:
         f.write(html)
     print(f'wrote scan_review.html ({os.path.getsize(path)/1024/1024:.1f} MB)')

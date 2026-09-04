@@ -30,7 +30,7 @@ import sys
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-UNIT = unitlib.one_unit(unitlib.unit_arg())
+UNITS = unitlib.load_units()
 SITE = os.path.join(ROOT, 'site')
 LETTERS_DIR = os.path.join(SITE, '_letters')
 DATA_DIR = os.path.join(SITE, '_data')
@@ -303,16 +303,21 @@ def yaml_opt(s):
 
 
 def load_scan_map():
-    """(letter_id, page) -> image filename, from the reviewed page/scan mapping."""
-    path = os.path.join(UNIT.dir, 'page_scan_map.csv')
+    """(unit, letter_id, page) -> image filename, across every unit.
+
+    The unit is part of the key because document numbers repeat between units:
+    two holdings can both have a letter 48.
+    """
     out = {}
-    if not os.path.isfile(path):
-        print('  no page_scan_map.csv - pages will render without scans')
-        return out
-    with open(path, encoding='utf-8-sig', newline='') as f:
-        for row in csv.DictReader(f):
-            if row['letter'] and row['page'] and row['image']:
-                out[(row['letter'], int(row['page']))] = row['image']
+    for u in UNITS:
+        path = os.path.join(u.dir, 'page_scan_map.csv')
+        if not os.path.isfile(path):
+            print(f'  {u.slug}: no page_scan_map.csv - pages render without scans')
+            continue
+        with open(path, encoding='utf-8-sig', newline='') as f:
+            for row in csv.DictReader(f):
+                if row['letter'] and row['page'] and row['image']:
+                    out[(u.slug, row['letter'], int(row['page']))] = row['image']
     return out
 
 
@@ -337,7 +342,7 @@ def main():
 
     archival = sorted(recs, key=archival_key)
     chrono = sorted(recs, key=chrono_key)
-    units_by_slug = {u.slug: u for u in unitlib.load_units()}
+    units_by_slug = {u.slug: u for u in UNITS}
     _url_by_id = {r['letter_id']: r['permalink'] for r in recs}
     arch_pos = {r['letter_id']: i for i, r in enumerate(archival)}
     chrono_pos = {r['letter_id']: i for i, r in enumerate(chrono)}
@@ -436,7 +441,7 @@ def main():
                     f'{p["line_start"]}-{p["line_end"]}</span></div>')
             # Two panes: the manuscript image on the left, its own text on the
             # right, so a page and its scan always sit together.
-            img = scans.get((lid, p['page']), '')
+            img = scans.get((r['unit'], lid, p['page']), '')
             body.append('<div class="pane-pair">')
             body.append('<div class="pane-scan">')
             if img:
