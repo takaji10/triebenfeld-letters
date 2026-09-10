@@ -20,6 +20,15 @@ no build ever rewrites, so this is deliberately timid:
 `decision` is read as: `y` apply as proposed, `n` or blank reject, anything else
 is the reading you want in place of the proposal.
 
+A row the sheet could not anchor - the model quoted the reading text, in which
+the line breaks and abbreviations are already resolved, so its words are not on
+any single line of corpus.txt - can still be ruled on by writing the fix out:
+
+    @1179 Zeu -> Zei ; @3013 me -> nie
+
+Each clause names a corpus line, the exact token on it, and what to put there.
+Nothing is applied unless the token is on that line exactly once.
+
 Every applied change is written to review/<slug>/transcription_fixes_applied.md,
 with the line before and after, so the pass can be read back and reversed.
 """
@@ -39,6 +48,25 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 NO = {'', 'n', 'no', 'x', '-', 'reject', 'skip'}
 YES = {'y', 'yes', 'ok', 'apply', 'a'}
 WORD = re.compile(r'[^\W\d_]+', re.UNICODE)
+# '@1179 Zeu -> Zei' - an editor's fix for a row the sheet could not anchor
+EXPLICIT = re.compile(r'^\s*@(\d+)\s+(.+?)\s*->\s*(.+)$')
+
+
+def occurrences(line, token):
+    """How many times `token` stands in `line` as its own run of characters.
+
+    Plain substring counting applied a fix twice: `ehörig` -> `gehörig` matched
+    again inside the `gehörig` the first pass had already written, and left
+    `ggehörig`. A replacement must see the token whole, with a non-word
+    character (or the line edge) on each side.
+    """
+    return len(re.findall(r'(?<![^\W\d_])' + re.escape(token) + r'(?![^\W\d_])',
+                          line))
+
+
+def replace_once(line, token, reading):
+    return re.sub(r'(?<![^\W\d_])' + re.escape(token) + r'(?![^\W\d_])',
+                  lambda _m: reading, line, count=1)
 
 
 def word_changes(before, after):
@@ -106,13 +134,47 @@ def main():
     lines = text.split('\n')
 
     authority = name_authority()
-    applied, refused, skipped = [], [], 0
+    applied, refused, skipped, done_already = [], [], 0, 0
     for r in csv.DictReader(io.open(sheet, encoding='utf-8-sig')):
         d = (r.get('decision') or '').strip()
         if d.lower() in NO:
             skipped += 1
             continue
+        if (r.get('needs') or '') == 'applied':
+            # the sheet's own receipt: this ruling is already in the corpus,
+            # which is why the row no longer locates. Not an unfinished job.
+            done_already += 1
+            continue
         want = r['proposed'] if d.lower() in YES else d
+
+        # an explicit fix: '@<line> <token> -> <reading>', several allowed
+        if EXPLICIT.match(d):
+            # checked in full before anything is written: half a ruling applied
+            # is worse than none, and harder to see afterwards
+            plan, trouble = [], None
+            for clause in d.split(';'):
+                m = EXPLICIT.match(clause.strip())
+                if not m:
+                    trouble = f'{clause.strip()!r} is not @line old -> new'
+                    break
+                n, old, new = int(m.group(1)), m.group(2), m.group(3).strip()
+                if not 1 <= n <= len(lines):
+                    trouble = f'line {n} is outside the corpus'
+                    break
+                if occurrences(lines[n - 1], old) != 1:
+                    trouble = (f'{old!r} appears {occurrences(lines[n - 1], old)} '
+                               f'time(s) on line {n}')
+                    break
+                plan.append((n, old, new))
+            if trouble:
+                refused.append((r, trouble))
+                continue
+            for n, old, new in plan:
+                before = lines[n - 1]
+                lines[n - 1] = replace_once(before, old, new)
+                applied.append((r, n, before, lines[n - 1]))
+            continue
+
         why_no = None
         if r['confidence'] == 'unlocated' or not r['line'].strip():
             why_no = 'not located in the corpus'
@@ -136,11 +198,11 @@ def main():
                 trouble = (f'{old!r} -> {new!r} touches a name in the authority '
                            f'- re-run with --names to apply it')
                 break
-            hits = [i for i in span if lines[i].count(old) == 1]
+            hits = [i for i in span if occurrences(lines[i], old) == 1]
             if not hits:
                 trouble = f'{old!r} not found once on line {n0} or the 3 after it'
                 break
-            if len({i for i in span if old in lines[i]}) > 1:
+            if len({i for i in span if occurrences(lines[i], old)}) > 1:
                 trouble = f'{old!r} appears on more than one line here'
                 break
             done.append((hits[0], old, new))
@@ -150,11 +212,12 @@ def main():
 
         for i, old, new in done:
             before = lines[i]
-            lines[i] = before.replace(old, new, 1)
+            lines[i] = replace_once(before, old, new)
             applied.append((r, i + 1, before, lines[i]))
 
     print(f'{len(applied)} change(s) on {len({x[1] for x in applied})} line(s)')
-    print(f'{len(refused)} refused, {skipped} not ruled on')
+    print(f'{len(refused)} refused, {skipped} rejected, '
+          f'{done_already} already in the corpus')
     for r, why in refused[:12]:
         print(f'  L{r["letter"]} p{r["page"]} {r["transcribed"]!r}: {why}')
     if len(refused) > 12:

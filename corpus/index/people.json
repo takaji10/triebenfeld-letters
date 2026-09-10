@@ -2943,7 +2943,7 @@
  {
   "entity": "hohenlohe",
   "display": "Hohenlohe",
-  "count": 152,
+  "count": 153,
   "documents": [
    "oe1bu14526-10",
    "oe1bu14526-13",
@@ -3614,6 +3614,13 @@
     "surface": "Hohenlohe",
     "page": 15,
     "page_id": "0064_a2",
+    "line": 3339
+   },
+   {
+    "uid": "oe1bu14526-10",
+    "surface": "Hohenlohe",
+    "page": 15,
+    "page_id": "0064_a2",
     "line": 3344
    },
    {
@@ -4076,7 +4083,7 @@
  {
   "entity": "glenck",
   "display": "Glenck",
-  "count": 146,
+  "count": 147,
   "documents": [
    "oe1bu14526-18",
    "oe1bu14526-19",
@@ -4137,6 +4144,13 @@
     "page": 1,
     "page_id": "0156_a2",
     "line": 7705
+   },
+   {
+    "uid": "oe1bu14526-25",
+    "surface": "Glenck",
+    "page": 3,
+    "page_id": "0157_a2",
+    "line": 7773
    },
    {
     "uid": "oe1bu9454-89",
@@ -16294,6 +16308,220 @@
   ]
  },
  {
+  "entity": "gneust",
+  "display": "Gneust",
+  "count": 28,
+  "documents": [
+   "oe1bu14526-27",
+   "oe1bu14526-3",
+   "oe1bu14526-5",
+   "oe1bu9454-135",
+   "oe1bu9454-265a",
+   "oe1bu9454-47",
+   "oe1bu9454-61",
+   "oe1bu9454-64",
+   "oe1bu9454-72"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-27",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "0161_a2",
+    "line": 7884
+   },
+   {
+    "uid": "oe1bu14526-27",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "0161_a2",
+    "line": 7891
+   },
+   {
+    "uid": "oe1bu14526-27",
+    "surface": "Wohlgeb",
+    "page": 2,
+    "page_id": "0162_a1",
+    "line": 7909
+   },
+   {
+    "uid": "oe1bu14526-27",
+    "surface": "Wohlgeb",
+    "page": 3,
+    "page_id": "0162_a2",
+    "line": 7941
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 1,
+    "page_id": "0009_b",
+    "line": 350
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "0009_b",
+    "line": 359
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 1,
+    "page_id": "0009_b",
+    "line": 360
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 3,
+    "page_id": "0010_a2",
+    "line": 394
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 7,
+    "page_id": "0012_a2",
+    "line": 499
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 7,
+    "page_id": "0012_a2",
+    "line": 503
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Wohlgeb",
+    "page": 7,
+    "page_id": "0012_a2",
+    "line": 503
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 8,
+    "page_id": "0013_a1",
+    "line": 528
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 8,
+    "page_id": "0013_a1",
+    "line": 535
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 9,
+    "page_id": "0013_a2",
+    "line": 556
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 10,
+    "page_id": "0014_a1",
+    "line": 575
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gneust",
+    "page": 10,
+    "page_id": "0014_a1",
+    "line": 595
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Wohlgeb",
+    "page": 2,
+    "page_id": "",
+    "line": 9752
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Wohlgeb",
+    "page": 2,
+    "page_id": "",
+    "line": 9767
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Wohlgeb",
+    "page": 2,
+    "page_id": "0020_a1",
+    "line": 910
+   },
+   {
+    "uid": "oe1bu9454-47",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "",
+    "line": 3463
+   },
+   {
+    "uid": "oe1bu9454-47",
+    "surface": "Wohlgeb",
+    "page": 5,
+    "page_id": "",
+    "line": 3597
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "",
+    "line": 4638
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "",
+    "line": 4640
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Wohlgeb",
+    "page": 2,
+    "page_id": "",
+    "line": 4681
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Wohlgeb",
+    "page": 2,
+    "page_id": "",
+    "line": 4687
+   },
+   {
+    "uid": "oe1bu9454-64",
+    "surface": "Wohlgeb",
+    "page": 5,
+    "page_id": "",
+    "line": 4970
+   },
+   {
+    "uid": "oe1bu9454-72",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "",
+    "line": 5547
+   },
+   {
+    "uid": "oe1bu9454-265a",
+    "surface": "Wohlgeb",
+    "page": 1,
+    "page_id": "",
+    "line": 18816
+   }
+  ]
+ },
+ {
   "entity": "lombardini",
   "display": "Lombardini",
   "count": 28,
@@ -16513,206 +16741,6 @@
     "page": 1,
     "page_id": "",
     "line": 21510
-   }
-  ]
- },
- {
-  "entity": "gneust",
-  "display": "Gneust",
-  "count": 26,
-  "documents": [
-   "oe1bu14526-27",
-   "oe1bu14526-3",
-   "oe1bu14526-5",
-   "oe1bu9454-135",
-   "oe1bu9454-265a",
-   "oe1bu9454-47",
-   "oe1bu9454-61",
-   "oe1bu9454-64",
-   "oe1bu9454-72"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-27",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "0161_a2",
-    "line": 7884
-   },
-   {
-    "uid": "oe1bu14526-27",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "0161_a2",
-    "line": 7891
-   },
-   {
-    "uid": "oe1bu14526-27",
-    "surface": "Wohlgeb",
-    "page": 2,
-    "page_id": "0162_a1",
-    "line": 7909
-   },
-   {
-    "uid": "oe1bu14526-27",
-    "surface": "Wohlgeb",
-    "page": 3,
-    "page_id": "0162_a2",
-    "line": 7941
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 1,
-    "page_id": "0009_b",
-    "line": 350
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "0009_b",
-    "line": 359
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 7,
-    "page_id": "0012_a2",
-    "line": 499
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 7,
-    "page_id": "0012_a2",
-    "line": 503
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Wohlgeb",
-    "page": 7,
-    "page_id": "0012_a2",
-    "line": 503
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 8,
-    "page_id": "0013_a1",
-    "line": 528
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 8,
-    "page_id": "0013_a1",
-    "line": 535
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 9,
-    "page_id": "0013_a2",
-    "line": 556
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 10,
-    "page_id": "0014_a1",
-    "line": 575
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gneust",
-    "page": 10,
-    "page_id": "0014_a1",
-    "line": 595
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Wohlgeb",
-    "page": 2,
-    "page_id": "",
-    "line": 9752
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Wohlgeb",
-    "page": 2,
-    "page_id": "",
-    "line": 9767
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Wohlgeb",
-    "page": 2,
-    "page_id": "0020_a1",
-    "line": 910
-   },
-   {
-    "uid": "oe1bu9454-47",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "",
-    "line": 3463
-   },
-   {
-    "uid": "oe1bu9454-47",
-    "surface": "Wohlgeb",
-    "page": 5,
-    "page_id": "",
-    "line": 3597
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "",
-    "line": 4638
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "",
-    "line": 4640
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Wohlgeb",
-    "page": 2,
-    "page_id": "",
-    "line": 4681
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Wohlgeb",
-    "page": 2,
-    "page_id": "",
-    "line": 4687
-   },
-   {
-    "uid": "oe1bu9454-64",
-    "surface": "Wohlgeb",
-    "page": 5,
-    "page_id": "",
-    "line": 4970
-   },
-   {
-    "uid": "oe1bu9454-72",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "",
-    "line": 5547
-   },
-   {
-    "uid": "oe1bu9454-265a",
-    "surface": "Wohlgeb",
-    "page": 1,
-    "page_id": "",
-    "line": 18816
    }
   ]
  },
@@ -20588,6 +20616,182 @@
   ]
  },
  {
+  "entity": "mlynkiewicz",
+  "display": "Matheus Młynkiewicz",
+  "count": 11,
+  "documents": [
+   "oe1bu14526-18",
+   "oe1bu14526-19"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 1,
+    "page_id": "0109_b",
+    "line": 5755
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 3,
+    "page_id": "0110_a2",
+    "line": 5795
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 4,
+    "page_id": "0111_a1",
+    "line": 5810
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 25,
+    "page_id": "0121_a2",
+    "line": 6230
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 1,
+    "page_id": "0123_b",
+    "line": 6320
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6339
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6358
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 3,
+    "page_id": "0124_a2",
+    "line": 6373
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 17,
+    "page_id": "0131_a2",
+    "line": 6751
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 18,
+    "page_id": "0132_a1",
+    "line": 6766
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 19,
+    "page_id": "0132_a2",
+    "line": 6795
+   }
+  ]
+ },
+ {
+  "entity": "chmara",
+  "display": "Johann Chmara",
+  "count": 11,
+  "documents": [
+   "oe1bu14526-18",
+   "oe1bu14526-19"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 1,
+    "page_id": "0109_b",
+    "line": 5756
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "0110_a1",
+    "line": 5775
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 4,
+    "page_id": "0111_a1",
+    "line": 5805
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 23,
+    "page_id": "0120_a2",
+    "line": 6189
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 25,
+    "page_id": "0121_a2",
+    "line": 6229
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 1,
+    "page_id": "0123_b",
+    "line": 6321
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6341
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6366
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 17,
+    "page_id": "0131_a2",
+    "line": 6750
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 18,
+    "page_id": "0132_a1",
+    "line": 6766
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 19,
+    "page_id": "0132_a2",
+    "line": 6795
+   }
+  ]
+ },
+ {
   "entity": "niedzewiecki",
   "display": "Niedzewiecki",
   "count": 11,
@@ -20856,168 +21060,6 @@
     "page": 2,
     "page_id": "",
     "line": 12649
-   }
-  ]
- },
- {
-  "entity": "mlynkiewicz",
-  "display": "Matheus Młynkiewicz",
-  "count": 10,
-  "documents": [
-   "oe1bu14526-18",
-   "oe1bu14526-19"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 1,
-    "page_id": "0109_b",
-    "line": 5755
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 3,
-    "page_id": "0110_a2",
-    "line": 5795
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 4,
-    "page_id": "0111_a1",
-    "line": 5810
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 25,
-    "page_id": "0121_a2",
-    "line": 6230
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 1,
-    "page_id": "0123_b",
-    "line": 6320
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6358
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 3,
-    "page_id": "0124_a2",
-    "line": 6373
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 17,
-    "page_id": "0131_a2",
-    "line": 6751
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 18,
-    "page_id": "0132_a1",
-    "line": 6766
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 19,
-    "page_id": "0132_a2",
-    "line": 6795
-   }
-  ]
- },
- {
-  "entity": "chmara",
-  "display": "Johann Chmara",
-  "count": 10,
-  "documents": [
-   "oe1bu14526-18",
-   "oe1bu14526-19"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 1,
-    "page_id": "0109_b",
-    "line": 5756
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 2,
-    "page_id": "0110_a1",
-    "line": 5775
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 4,
-    "page_id": "0111_a1",
-    "line": 5805
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 23,
-    "page_id": "0120_a2",
-    "line": 6189
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 25,
-    "page_id": "0121_a2",
-    "line": 6229
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 1,
-    "page_id": "0123_b",
-    "line": 6321
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6341
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6366
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 18,
-    "page_id": "0132_a1",
-    "line": 6766
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 19,
-    "page_id": "0132_a2",
-    "line": 6795
    }
   ]
  },
