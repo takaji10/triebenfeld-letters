@@ -273,6 +273,19 @@ def main():
     prior = load_decisions(slug)
 
     freq, names = corpus_frequency(slug), authority_names()
+    # A ruling already given whose proposal is no longer in the sources - a
+    # re-translation stopped flagging it - still has to reach the applier, or
+    # the decision quietly stops being carried out. Fold those back in as rows.
+    have = {(r['pad'], str(r['page']), r['german'].strip(), r['english'].strip())
+            for r in rows}
+    for (pad, page, de, prop), _d in prior.items():
+        if (pad, page, de, prop) in have:
+            continue
+        rows.append({'pad': pad, 'page': page, 'german': de, 'english': prop,
+                     'letter': pad.split('-')[-1].lstrip('0') or '0',
+                     'note': 'ruled on; no longer proposed by the translator',
+                     'kind': 'ruled'})
+
     out, stats = [], defaultdict(int)
     for r in rows:
         rec = by_pad.get(r['pad'])

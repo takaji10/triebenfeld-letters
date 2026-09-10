@@ -125,6 +125,10 @@ def main():
     slug = unitlib.resolve_unit(a.unit)
     unit = unitlib.one_unit(slug)
     rev = unitlib.review_dir(slug)
+    # The sheet, which transcription_fixes.py builds from the translator's
+    # proposals AND from every ruling already recorded - including rulings whose
+    # proposal has since disappeared, because a re-translation stopped flagging
+    # it. Anchoring to the current corpus happens there, in one place.
     sheet = os.path.join(rev, 'transcription_fixes.csv')
     if not os.path.isfile(sheet):
         sys.exit(f'no sheet at {sheet} - run transcription_fixes.py first')
@@ -140,14 +144,13 @@ def main():
         if d.lower() in NO:
             skipped += 1
             continue
-        if (r.get('needs') or '') == 'applied':
-            # the sheet's own receipt: this ruling is already in the corpus,
-            # which is why the row no longer locates. Not an unfinished job.
-            done_already += 1
-            continue
         want = r['proposed'] if d.lower() in YES else d
 
-        # an explicit fix: '@<line> <token> -> <reading>', several allowed
+        # An explicit fix is checked before anything else. It is unlocatable by
+        # design - the editor wrote it out precisely because the row's own text
+        # is on no single line - so the sheet's "already applied" reading of
+        # that must not swallow it. It says so itself: if the token is not
+        # there, the fix is in.
         if EXPLICIT.match(d):
             # checked in full before anything is written: half a ruling applied
             # is worse than none, and harder to see afterwards
@@ -167,7 +170,10 @@ def main():
                     break
                 plan.append((n, old, new))
             if trouble:
-                refused.append((r, trouble))
+                if 'appears 0 time(s)' in trouble:
+                    done_already += 1     # the reading is already in the corpus
+                else:
+                    refused.append((r, trouble))
                 continue
             for n, old, new in plan:
                 before = lines[n - 1]
@@ -176,6 +182,9 @@ def main():
             continue
 
         why_no = None
+        if (r.get('needs') or '') == 'applied':
+            done_already += 1     # the sheet's receipt: the ruling is in
+            continue
         if r['confidence'] == 'unlocated' or not r['line'].strip():
             why_no = 'not located in the corpus'
         elif len(r['line'].split()) > 1:
