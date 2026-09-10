@@ -453,3 +453,250 @@ feb3c413,oe1bu14526-031,1,Ś. Jana Chrziciela,Ś. Jana Chrzciciela,y,ruled on; n
 eac46b7a,oe1bu14526-031,2,Subsigullo,Sub sigillo,@8159 Subsigullo -> Sub sigillo,ruled on; no longer proposed by the translator
 14237189,oe1bu14526-031,2,Natarius,Notarius,y,ruled on; no longer proposed by the translator
 50a94452,oe1bu14526-031,2,Sekretarius,Secretarius,y,ruled on; no longer proposed by the translator
+39c24ed6,oe1bu14526-001,1,H. Criminal,H. Criminalrath,n,"The title appears truncated; ""Criminal"" alone is not a rank."
+ae603f11,oe1bu14526-002,2,beyder fernieren,beyde für einen,@91 fernieren -> für einen,the in-solidum formula requires it
+c8e20e43,oe1bu14526-002,3,zug und zur,Zug um Zug,@131 zug und zur -> Zug um Zug,standard formula for concurrent performance
+9204f4e2,oe1bu14526-002,3,Grund zuverloren,Grund-Inventarium,n,contrasts with the 'plus Inventarium' named on the next page
+003a164e,oe1bu14526-002,7,sage sie tausend,sage ein tausend,y,agrees with the numeral 1000
+12519b1d,oe1bu14526-002,7,Honricht,Honrichs,y,"the same party is named Honrichs on pp. 1, 2 and 8"
+a7f7d2a0,oe1bu14526-002,8,er der Unterschrift,Bey der Unterschrift,y,B misread as e; the notarial formula requires 'bey'
+b8327d1f,oe1bu14526-002,10,Des Justiz-Amt,Das Justiz-Amt,n,nominative expected in the signature line
+a50013a9,oe1bu14526-003,1,nachstehrnder Haus Contract,nachstehender Kauf Contract,y,the document is throughout a Kauf Contract; 'Haus' appears to be a transcription error for 'Kauf'
+fd7cbd1d,oe1bu14526-003,1,auf einen sel. 8 rt. St. geschrieben,auf einen 8 rt. Stempel geschrieben,n,stamp-paper formula
+12e085e8,oe1bu14526-003,2,Wohn und Werth schonts Gebäuben,Wohn- und Wirthschafts-Gebäuden,@376 Werth schonts -> Wirthschafts,standard formula for dwelling and farm buildings
+d5f5b827,oe1bu14526-003,2,Reichen und Reich Staetten,Teichen und Teichstätten,@377 Reichen und Reich Staetten -> Teichen und Teich Staetten,ponds and pond-sites is the standard pairing with fisheries
+50db5e4b,oe1bu14526-003,3,keine Abrechnungen fürmüssen,keine Anrechnung machen,n,'fürmüssen' is not a verb
+0aab8e7d,oe1bu14526-003,6,in zwo gleich lautenden Muster,in zwo gleichlautenden Exemplaren,n,'Muster' is unexpected for duplicate exemplars
+76f8d89a,oe1bu14526-003,8,Stadt und Justiz Seon,Stadt- und Justiz-Secretarius,n,the office paired with the Justizbürgermeister; 'Seon' looks like a truncated 'Secr.'
+29123dfe,oe1bu14526-004,7,Carl Gottlob [Pl...ler?],unresolved surname,n,Left as an uncertain reading; no basis for a guess.
+c5f89cd4,oe1bu14526-005,4,Herrn Schufer,Herrn Käufer,y,K/Sch confusion in Kurrent; the Purchaser is meant throughout
+84e0bb1e,oe1bu14526-005,6,adulterum tantum,ad alterum tantum,@1046 adulterum -> ad alterum,"""ad alterum tantum"" (interest arrears limited to the amount of the principal) is the standard usury-law formula and fits the context"
+b4a385c3,oe1bu14526-006,12,ter mich,für mich,y,'to attend to for me'; likely a Kurrent misreading.
+dcc2a3fb,oe1bu14526-006,12,lesen,Deßen (catchword),n,Possibly a catchword or a stray note; page 13 begins 'deßen zu urkund'.
+76e0a6e5,oe1bu14526-006,13,Adler Ordnungs,Adler-Ordens,@1461 Ordnungs -> Ordens,"'Order' (Orden), not 'Ordnung'."
+19bb5b52,oe1bu14526-006,14,Hawich,(personal name of the court officer),n,Stands alone after the court's name; may be a signature. Retained as transcribed.
+3011b4c7,oe1bu14526-007,6,"wieder jezt, noch in die Zukunft","weder jezt, noch in die Zukunft",y,"The correlative ""noch"" requires ""weder"""
+c915b25b,oe1bu14526-007,6,und besiz dieser Stelle,im Besitz dieser Stelle,@1639 und besiz -> im besiz,Matches the formula used in §III and §XII
+340fd680,oe1bu14526-007,12,Hawich,Hawich (retained),n,Signature stands as transcribed; noted only because such short signatures are the least reliable readings
+e1802fff,oe1bu14526-008,1,im dem Zusamme,in dem Zustande,y,"the usual formula is 'befinden sich in dem Zustande, gerichtliche Handlungen gültig zu vollziehen'"
+e1d1a78e,oe1bu14526-008,3,naten,Raten,y,'in zwey Raten' is the standard phrase and the halves that follow confirm it
+2514b8fe,oe1bu14526-008,4,Erbgruß,Erbzinß,y,the same clause elsewhere in the contract reads 'Erbzinß'; g/z and ß/ß confusion
+4f613894,oe1bu14526-008,6,gekommen,bebauen,n,'muß sich auf eigene Kosten bebauen' — build his own farmstead at his own cost
+7723af4b,oe1bu14526-008,7,für meinen,für immer,y,the parallel formula 'für jezt und künftige Zeiten immerwährend' appears in §. VI.
+29059a19,oe1bu14526-008,8,derschimmt,des Kauf-,n,paired with 'oder Tausch Gelder'
+04f3b8d3,oe1bu14526-008,12,dienst,daß,y,"required by 'thue kund und bekenne hiemit, daß ...'"
+8404fe28,oe1bu14526-008,14,hießen,Kosten,n,'alle Kosten und Auslagen zu erstatten' is the standing phrase
+36750fa2,oe1bu14526-009,2,Maciey Niedzwidzki,Maciey Niedzwiedzki,n,Spelling differs from p.1; retained as transcribed.
+04e585bc,oe1bu14526-009,4,der Bäre Zins,der baare Zins,y,'baare Zins' (cash rent) fits the contrast with free grinding.
+b53aec7a,oe1bu14526-009,5,bekannt er,bekommt er,y,Required finite verb.
+fdecdaf7,oe1bu14526-009,6,Johanig,Johanni,y,Spelling elsewhere in the document.
+017a6fcf,oe1bu14526-009,11,Fürst-Rath,Forst-Rath,y,The title appears as 'Krieges und Forst Rath' on pages 1-2.
+85eb130b,oe1bu14526-009,12,befürt zurückbar,bestellt zurückzulassen,n,"Parallel to § IX, where the lessee must leave the fields sown."
+c92f7e26,oe1bu14526-009,13,ząndem,żądam,n,Polish orthography; the nasal ą for ą-dam reflects phonetic spelling by a German scribe.
+8538c61f,oe1bu14526-010,9,me eine Entschädigung,nie eine Entschädigung,y,"""me"" is not German; ""nie"" fits the renunciation clause."
+16579b4f,oe1bu14526-011,4,auf [p?] seine eigene,auf seine eigenen Kosten,n,The standard formula; the [p?] may be a false start.
+86b4d274,oe1bu14526-011,6,über Verkauff,oder Vertausch,n,"The following ""Tausch quanto"" presupposes exchange."
+73e81bef,oe1bu14526-012,4,siegen,solches,n,Word does not fit; probable transcription error.
+67f9bd30,oe1bu14526-012,4,setald,sobald,y,b/t confusion in Kurrent.
+aac4c814,oe1bu14526-012,5,Muses,Mistes,y,Carting out of manure is the standard spring service; s/t confusion.
+39f8e24b,oe1bu14526-012,6,auß,muß,y,m/a confusion; the clause requires a modal verb.
+3ed2fe99,oe1bu14526-013,3,Das alle Gründe dismembrirt,Da alle Gründe dismembrirt,n,"The correlative ""so dürfen"" requires a causal/temporal ""da""; ""Das"" leaves the sentence without a main clause."
+cb244cb0,oe1bu14526-013,5,wem Einen Thaler,sie Einen Thaler,n,"The sentence continues from p.4 and needs the lessees as subject of ""erlegen""; ""wem"" is likely a Kurrent misreading."
+fbce2d1e,oe1bu14526-013,6,Sie durchlaucht das Fürst,Sr. Durchlaucht des Fürsten,n,Matches the identical formula in the opening line of page 1.
+7bb54a70,oe1bu14526-014,1,Subforestis,Subscribenten,n,"the standard clause is that the comparents are personally known to the undersigned (court); ""Subforestis"" may be a misreading, though a forest-office term canno"
+5e30ca76,oe1bu14526-014,2,suter,unter,y,"Kurrent u/s and t/n confusion; ""unter denen Vorwerksgebäuden"" is the expected reading"
+313f9d0f,oe1bu14526-014,4,fünf pro hut,fünf pro Cent,n,interest at five per cent is the standard clause
+5e89dd8c,oe1bu14526-014,4,der 75 ortum,der 750 Rthlr.,n,§ II sets the second half at 750 rt
+e5d6f9b0,oe1bu14526-014,5,stitz,Titz,y,the Kurrent capital T is readily read as st; the lessee is named Titz throughout
+9abb5e60,oe1bu14526-014,7,Condemnen,Laudemium,y,"the following page opens ""wird kein Laudemium bezahlt"""
+2a116129,oe1bu14526-014,7,finden,Kinder,y,Kurrent K/f confusion in a list of heirs
+98d8dfbb,oe1bu14526-014,9,sonsten,Kosten,y,"parallel with § V ""auf eigene Kosten"""
+fa884714,oe1bu14526-015,1,gezzigen,jetzigen,y,"Kurrent j/g and tz/zz confusion; 'jetzigen Erbpächter' is the standing formula, cf. art. 13 'jetzigen Erbpächtern'"
+0cd3a6b0,oe1bu14526-015,4,einbringende Quart brandt,eingebrachte Quart Brandtwein,n,the German as transcribed is grammatically defective
+44897920,oe1bu14526-016,2,Gottfried Dams,Gottfried Damt,n,"Page 1 gives Damt, page 2 and later pages give Dams; one is a misreading, but both are retained as transcribed."
+bb6398e8,oe1bu14526-016,5,Mier frey jahre,vier Freyjahre,n,Kurrent v/M confusion; the dates on page 6 (this year's St John to St John 1808) span four years.
+715201e2,oe1bu14526-016,17,Gottfried Dümel,Gottfried Dümmel,n,Spelled Dümmel on pages 1-3; retained as transcribed here.
+54f4dd55,oe1bu14526-017,1,Gottfried Damt,Gottfried Dams,n,The signature block on page 10 reads 'Gottfried Dams'.
+427d1109,oe1bu14526-017,2,Kärte,Gärten,y,"Fits the standard enumeration Äcker, Wiesen, Gärten, Brücher."
+41ef609f,oe1bu14526-017,4,Sehe morgen,sechs Morgen,n,Cf. 'Sehe gleiche Besitzungen' on p. 2.
+576d0d13,oe1bu14526-017,4,von Sache Reichsthaler,von fünf Reichsthaler,n,The same sentence later specifies 'Fünf Reichsthaler pro hufe'.
+9063af35,oe1bu14526-017,5,Auf und lese Holz,Raff- und Leseholz,n,The customary Prussian designation of gathering-wood rights.
+b6f26012,oe1bu14526-017,6,Amt stehet den Einsmaßen,Auch stehet den Einsassen frei,n,Parallel to the preceding 'wobei derselbe auch frei stehet'.
+4bb30de1,oe1bu14526-017,6,bis alt Mark,bis alt Marci,n,Old-style St Mark's (25 April) is a customary Prussian term-day closing the winter wood season.
+4a89ed29,oe1bu14526-017,7,"zwischen Thalenten, Aeltere und Kindern","zwischen Ehegatten, Aeltern und Kindern",n,"The standard laudemium exemption is for spouses, parents and children."
+ae579889,oe1bu14526-017,8,Nuurbar,Nutzbarkeiten,y,"Fits the formulaic triad Ländereien, Wiesen und Nutzbarkeiten."
+6c31b452,oe1bu14526-018,19,Kauf und Einstands quanto,Kauf und Erbstands quanto,y,The deed elsewhere reads 'Kauf und Erbstands quantum'.
+81e80870,oe1bu14526-018,22,Eichaust,Echaust,n,Pages 23 and 25 read 'Echaust' / 'Josef Echaust'; one of the two spellings is a misreading.
+c1350f2f,oe1bu14526-018,25,Betrche,Betsche,y,The place is called Betsche throughout; 'Betrche' is a transcription slip.
+f4bff823,oe1bu14526-019,3,großen Orten,großen Orden,y,Formula for orders of knighthood; 't'/'d' confusion.
+4d023ed9,oe1bu14526-019,15,Einstandts quantum,Erbstandts quantum,y,Every other occurrence in the deed reads 'Kauf und Erbstands Quantum'.
+8bd5e318,oe1bu14526-019,16,verboten hatte,gebeten hatten,n,"The communes elsewhere in this holding demand, not forbid, a Polish version; and 'verboten' sits oddly with a court granting an interpreter."
+fec990af,oe1bu14526-019,16,nur Stadt und Dorfgemeinden,der Stadt und Dorfgemeinden,y,Genitive required.
+422bedca,oe1bu14526-019,19,verboten hatten,gebeten hatten,n,As on p.16: the parties elsewhere in this holding request a Polish version rather than forbid one.
+43356d84,oe1bu14526-020,1,Aprill,April,n,Period orthography retained; noted only for the register.
+ce43e417,oe1bu14526-020,1,Johan Götzinger,Johann Götzinger,n,Single-n spelling beside 'Johann Christian Birlack' in the same line suggests a scribal or transcription slip; not carried into the translation.
+b4c4e2af,oe1bu14526-023,1,Ew. Rath Guderian,Crim. Rath Guderian,n,Guderian is styled Criminal-Rath throughout the rest of the document
+6943b3e8,oe1bu14526-023,7,in tens schon Sprache,in teutscher Sprache,n,"""handed over in German translation"" fits a Polish-language act file; but this is a guess and is not folded into the translation"
+c49c7fe5,oe1bu14526-025,1,459 Morgen Ackerfeld in 3 Flure,in 3 Fluren,n,weak plural expected; may also be a misread abbreviation.
+48cf115c,oe1bu14526-025,2,60 Rud Säge blöcke,60 Ruthen Sägeblöcke,n,'Rud' is likely an abbreviation of Ruthen (rods) or of a timber count; left as written.
+86314332,oe1bu14526-025,2,einen jährlichen Zinß von 400,400 Rthl,n,the denomination is omitted after the figure; not supplied in the translation.
+03183bb6,oe1bu14526-025,3,Johan Lindner,Johann Lindner,n,"single-n spelling may be a transcription slip, but is retained as written."
+6799edb6,oe1bu14526-027,1,für allen Land,für alles Land,n,Would give 'possession of all the land'; but the manuscript as transcribed does not read so.
+7b5321c3,oe1bu14526-027,1,qu. 25. Rthl,quaestionirte 25. Rthl,n,'qu.' is the usual chancery abbreviation for 'quaestionirt' = the sum in question.
+c02bb1e9,oe1bu14526-027,2,Hochdieselben,—,n,"Rendered 'Your Honour'; strictly a third-person honorific ('the same, most highly'), matching the Wohlgebohren address."
+78b66315,oe1bu14526-027,3,Die wir übrigens,Der wir übrigens,y,The standard formula is 'Der wir übrigens die Ehre haben ... zu beharren' (referring back to the addressee's style).
+45b526a3,oe1bu14526-030,1,Anno 1767,Anno 1766,n,The privilege is dated 26 September 1766; but the figure may equally be correct if the capitular approbation followed at the next St. Martin chapter.
+0898ba9b,oe1bu14526-030,2,zur Bitte,zur Bede,n,Bede/Bitte-Tage are the customary requested labour days; 'Bede' would make the clause a standard labour-service stipulation.
+68779dde,oe1bu14526-031,1,Stadw,Śladu,n,"genitive of Ślad, the land unit named earlier in the sentence."
+7b0ce378,oe1bu14526-031,2,nieddalemy,nie oddalemy (nie oddalimy),n,"'we shall not remove', matching 'mocy oddalenia' in the same clause."
+7b531ce0,oe1bu14526-002,1,Kauf und Verkauf-Con tracks,Kauf- und Verkauf-Contracts,@55 tracks -> tracts,'tracks' for 'tracts' is a transcription slip
+efd44424,oe1bu14526-002,5,wirth schriftl.,wirthschaftlich,@200 schriftl. -> schaftlich,standard phrase 'in wirthschaftlich gutem Stande'
+80d4e562,oe1bu14526-003,2,"Abfrau Brd. Brand, Brand, Mauer, Kirch Magd und Wurzelfeste","Nagel-, Band-, Mauer-, Erd- und Wurzelfest",n,"the standard chancery list of fixtures (nagelfest, mauerfest, erd- und wurzelfest); the transcription is visibly garbled"
+ee96c259,oe1bu14526-003,4,ein Büttchen der nach Schlesischer Heinige Ein Silber Groschen,"ein Böhmen (Böhm), das nach schlesischer Rechnung Ein Silbergroschen ist",n,a Böhm(en) equalling one Silbergroschen by Silesian reckoning fits the arithmetic; as transcribed the phrase is not German
+159281ce,oe1bu14526-003,5,in seinen keinen und Grenzen,in seinen Rainen und Grenzen,y,"'Rain' (baulk, field-boundary) is the standard pairing with Grenzen"
+5f9bc83e,oe1bu14526-003,5,geschieht an den Herrn Häuser und mehro gestort,geschieht an den Herrn Käufer nunmehro sofort,@458 Häuser -> Käufer,'Häuser' recurs where 'Käufer' is meant; 'mehro gestort' appears corrupt
+a96b0c11,oe1bu14526-003,7,geirthelichen Gerichts Insiegels,gerichtlichen Gerichts-Insiegels,@512 geirthelichen -> gerichtlichen,'geirthelichen' is not a German word
+7fc811f7,oe1bu14526-004,2,Zah fung,Zahlung,@640 fung -> lung,Word split across a line-break with a lost l.
+125da398,oe1bu14526-004,2,der Zu ther,der Güther,@646 Zu -> Gü,"Parallel with §.1 and §.3, where the estates are Güther."
+a1d100bf,oe1bu14526-004,5,des Herrn Käufers Durchlaucht,des Herrn Verkäufers Durchlaucht,y,"Only the Prince is styled Durchlaucht, and it is the seller who owes the delivery of the title papers; cf. §.8."
+506d2bcb,oe1bu14526-004,7,meine bekannte,mir bekannte,y,"Standard notarial formula: ""der mir persönlich bekannte""."
+34170b32,oe1bu14526-005,2,in der Tan aufgeführten Realitäten,in der Taxe aufgeführten Realitäten,n,"""Taxe"" (assessment) is the expected chancery term with a Vermessungs-Register"
+e174728f,oe1bu14526-005,3,diese Gü thar,diese Güther,@958 thar -> ther,e/a confusion across a line break
+ec7b3161,oe1bu14526-005,4,Heer Käufer,Herr Käufer,y,obvious transcription slip
+e08c473c,oe1bu14526-005,4,Posses sorinn- Urtel,Possessorium-Urtel,@989 sorinn -> sorium,line-break garbling of the same term used two lines above
+9df1860f,oe1bu14526-005,5,ihn be zu behalten,ihn beyzubehalten,@1005 be -> bey,line-break split of a single word
+10de8418,oe1bu14526-005,7,Löschungs-A bühren,Löschungs-Gebühren,@1094 Löschungs-A -> Löschungs-Ge,line-break garbling
+20468b11,oe1bu14526-005,7,gehen Herr Käufer,zahlt Herr Käufer,n,"parallel to clause e., ""zahlt Herr Käufer""; the verb is required to govern ""Herr Käufer"" as subject"
+8e2dc292,oe1bu14526-006,1,Krieg es und Forst Rath,Krieges- und Forstrath,n,Word-division artefact of the transcription.
+6a8fbca8,oe1bu14526-006,2,Er durch haupt,Sr. Durchlaucht,@1140 Er -> Sr. ; @1141 haupt -> laucht,"Parallel with page 1, where the same formula reads 'Sr. Durchlaucht des regirenden Herrn Fürsten'."
+2e963076,oe1bu14526-006,8,tausch Famme,Tauschsumme,@1303 Famme -> Summe,'purchase or exchange sum'; 'Famme' has no sense here.
+96f05e90,oe1bu14526-007,1,Person Ihnen als,"Personen, nehmlich als",n,"Two parties appear; a plural and an introductory ""nehmlich"" would restore sense"
+e74f2aaf,oe1bu14526-007,11,sie tragen an diesen Contract,"sie tragen an, diesen Contract",n,"antragen (to move, to apply for) is the standard chancery verb here"
+92345469,oe1bu14526-008,2,und Einkaufsegeld,an Einkaufsgeld,n,'und' before a noun in apposition does not construe; 'an Einkaufsgeld' is the usual phrase
+206909d2,oe1bu14526-008,4,was heißt erkennen nach seinem Vermügen,"das heißt, er kann nach seinem Vermögen",n,restores the sense of the redemption clause
+8a6c3d82,oe1bu14526-008,8,der Can ens,der Consens,@2048 Can -> Cons,'Consens zu jeder Veräußerung einholen' is the standard formula; cf. 'Consens' on pages 17 and 21
+5ae6583a,oe1bu14526-008,13,auseinander geseppen,auseinander zu setzen,n,'sich mit den Pächtern auseinanderzusetzen' = to settle accounts with the tenants
+485ae787,oe1bu14526-008,16,nachgesucht net,nachgesucht hat,y,required main verb
+34619dfa,oe1bu14526-008,17,vier fümend,vier tausend,n,the only magnitude that fits between 'vier' and 'Neun hundert'
+e443d347,oe1bu14526-008,17,Vor omerkern,Vorwerkern,@2356 omerkern -> werkern,line-break corruption of 'Vorwerken'
+ce1627a2,oe1bu14526-009,1,Das Fürstl. Hohenlohesche Patrimonial Gericht füget hiemit zu wißen,... thut hiemit zu wißen,n,Standard chancery formula; 'füget' is likely a Kurrent misreading of 'thuet/thut'.
+062dbf78,oe1bu14526-009,3,von Johanni des jetzigen Jahres 1805. sub bis Johanni 1811.,... 1805 bis Johanni 1811,n,The stray 'sub' appears to be a transcription artefact.
+1854ff01,oe1bu14526-009,7,Steh theil,Nachtheil,@2719 Steh -> Nach,Formulaic 'Schaden oder Nachtheil'.
+e9813b26,oe1bu14526-009,8,weder von der einen nach der andern Seite,weder von der einen noch der andern Seite,y,The correlative 'weder ... noch' requires 'noch'.
+a666e99b,oe1bu14526-009,9,viel wande,Einwande,@2786 viel -> Ein,Formulaic renunciation clause: 'besonders dem Einwande einer vorgefallenen Verletzung über und unter der Hälfte'.
+c6fbb6c7,oe1bu14526-010,9,durch Ansehung böser Leute,durch Anstiftung böser Leute,y,Standard formula in Prussian hereditary-lease contracts for arson or damage instigated by malicious persons.
+512c1a9b,oe1bu14526-011,4,zußer diesem ammeren Erbzinsen,außer diesem immerwährenden Erbzinse,@3497 zußer -> außer,Matches the wording of §. III.
+aab7c5fe,oe1bu14526-011,5,Braun und Brandthause,Brau- und Brandthause,Brau und Brandthause,"""Braun"" for ""Brau"" is a single-letter slip."
+a1e31eff,oe1bu14526-011,10,Verleppung aber und unter der hälfte,Verletzung über und unter der Hälfte,y,"laesio enormis; ""aber"" for ""über"" is a single-letter slip."
+78af02cc,oe1bu14526-012,1,Krieges und Forst Rath,Kriegs- und Forstrath,n,"Standard form of the title; the transcription's ""Krieges"" is an epenthetic misreading."
+f4d17d44,oe1bu14526-012,3,Ge bünde,Gebäude,@3839 bünde -> bäude,§I speaks of Wirthschaftsgebäude; the 100 rt is for the buildings.
+195c2813,oe1bu14526-012,7,Grund herrschrift,Grundherrschaft,@4025 herrschrift -> herrschaft,Recurring mis-transcription of Herrschaft as Herrschrift.
+00a11113,oe1bu14526-012,10,auf berichtigen seinen Nahmen lassen könne,auf seinen Nahmen berichtigen lassen könne,n,"Transposition; the standard formula is ""den Besitztitel auf seinen Namen berichtigen lassen""."
+d8c1f8fd,oe1bu14526-013,1,Ko poyner,Kopoyner (Kopojno),n,The word is divided mid-name; Kopojno lies near Trąbczyn.
+99bbd708,oe1bu14526-013,4,einen gleichen Linie,einer gleichen Linie,n,"Dative required after ""in""; single-letter confusion."
+d8333e39,oe1bu14526-014,2,auf eine merwührende Zeiten,auf immerwährende Zeiten,@4431 eine -> im ; @4432 merwührende -> merwährende,the standing formula for perpetual tenure
+c32e4869,oe1bu14526-014,5,kam ren,baaren,@4520 kam -> baa,"""ausser diesem baaren Erbzinse"" (besides this cash quit-rent) is the expected phrase"
+ca2bf5e5,oe1bu14526-014,6,jedoch man allen,jedoch von allen,y,"m/v Kurrent confusion; required by the following ""befreyet"""
+dfcf3c0e,oe1bu14526-014,6,des hiesigen konnen,des hiesigen Gerichts,n,"""konnen"" stands where the court is named"
+c3c5ac2c,oe1bu14526-014,7,vergleichen bestig Verminderung,dergleichen Besitzveränderung,n,the standard laudemium trigger is a change of possession
+6f27d1d3,oe1bu14526-014,10,über seine Nachfolger,oder seine Nachfolger,y,the clause requires a disjunctive
+b52725bd,oe1bu14526-014,12,sich nachstehenden genhändig,sich nachstehend eigenhändig,@4768 genhändig -> eigenhändig,"""eigenhändig unterschrieben"" is the formula"
+e2e1f7cf,oe1bu14526-016,4,Gier auf haben sie bereits er derst 450 rtl.,Hierauf haben sie bereits erlegt 450 rtl.,@5061 Gier -> Hier,"""Gier auf"" for ""Hierauf"" and ""er derst"" for ""erlegt"" are plausible Kurrent misreadings."
+554b3c67,oe1bu14526-016,4,Eintausend darauf Hundert Reichs Thaler,Eintausend fünf Hundert Reichs Thaler,n,"The figure given is 1500; ""darauf"" is likely a misreading of ""fünf""."
+fb121d37,oe1bu14526-016,4,Termino Tit. George 1805,Termino St. George 1805,n,"""Tit."" is likely a misreading of ""St."" (Sanct)."
+f95981c4,oe1bu14526-016,6,selbige mögen Nahmen haben. wiesen wollen im mer während zu lei fen,"selbige mögen Nahmen haben wie sie wollen, immerwährend zu leisten",n,"""wiesen wollen"" for ""wie sie wollen"" and ""zu lei fen"" for ""zu leisten"" are plausible transcription splits."
+82799fcc,oe1bu14526-016,11,Erb Untertänigkeitwillig frey,Erb-Unterthänigkeit völlig frey,@5294 Untertänigkeitwillig -> Untertänigkeit völlig,willig/völlig Kurrent confusion.
+443f9c81,oe1bu14526-016,16,nach zweytausend,noch zweytausend,y,noch/nach single-letter confusion.
+99c591b2,oe1bu14526-017,6,Kien Nadeln zu rechten,Kiennadeln zu rechen,@5641 rechten -> rechen,'rechen' = to rake; the object is pine needles for litter.
+2072936c,oe1bu14526-017,7,des Jahres 1803,des Jahres 1813,n,The contract is of 1804; an exemption running to 1803 is impossible. Figure left as written in the translation.
+27d86ba8,oe1bu14526-017,9,für jeder einzelnen Jahrte eine besizung,für jede einzelne Besitzung,n,§. 15 speaks of each individual holding; the parallel clause suggests the same here.
+5445201e,oe1bu14526-018,13,unter behalten,unterhalten,n,"'in baulichen Zustande unterhalten' = keep in structural repair, a standard formula."
+e6b06ea1,oe1bu14526-018,16,§. 10. versprechen.,... dem bischöflichen Consistorio zu praesentiren versprechen. § 10.,n,The word 'versprechen' probably closes § 9 and was displaced by the line break before the § 10 heading.
+8ddcc153,oe1bu14526-018,26,prætation fähigen,praestationsfähigen,@6252 prætation -> praestations,The standard Prussian term for a holding able to bear its dues.
+17d6f08d,oe1bu14526-023,14,des dieserhalb sant abgehaltenen Protokolls,des dieserhalb heut abgehaltenen Protokolls,n,"""sant"" does not parse; parallel formulae read ""heut abgehaltenen"""
+d07e0602,oe1bu14526-023,18,Krieges-Rath von Triebenfeld,Krieges- und Forst-Rath von Triebenfeld,n,his full title elsewhere in the document
+e9328969,oe1bu14526-023,19,regie von der Fürst,regierender Fürst,@7418 regie von der -> regierender,standing formula throughout the document
+94a2999e,oe1bu14526-023,19,Stade Actuarius,Stude,n,"""Johann Carl Stude"" appears as witness on p.12; may be the same hand"
+bcda2884,oe1bu14526-026,1,Der Schütze Reise aus Wrąbczynek,Der Schütze Kriede aus Wrąbczynek,n,"The third signatory on p. 4 signs as ""Jacob Kriede""; ""Reise"" here may be a misreading, or the two may be different persons. Not folded into the translation."
+642bd1fa,oe1bu14526-026,2,mit dem p. Raczinski,mit dem p. Brzezinski,n,"The clause refers back to the possessor just named as v. Brzezinski; ""p."" (praefatus/pto = the aforesaid) points to an antecedent. Left as transcribed."
+533c6b7f,oe1bu14526-026,3,bey dieser Geschichte,bey diesem Geschäfte,n,"""Geschichte"" (affair/business) is used loosely here; chancery usage would ordinarily have ""Geschäft"". Rendered as ""business"" without emendation."
+401c4618,oe1bu14526-030,2,alle von Rząkowskische Eheleute,edle von Rządkowskische Eheleute,y,'edle' is the epithet used on page 1; 'alle' is otiose before a single married couple.
+60662ded,oe1bu14526-006,12,angemeßen,unangemeßen,n,The clause otherwise contradicts itself: conduct found 'fitting and prejudicial to me' would not warrant suspension.
+37c28c5a,oe1bu14526-017,10,Dümel,Dumel,n,"Spelled Dumel in the preamble, Dümel in the signatures; one form is a misreading."
+91e5b250,oe1bu14526-003,3,2 Rappamten,2 Rauchhühner? / Kapaunen?,n,a rendered fowl or capon due is usual in this position; the word as transcribed is not German
+f3e18ceb,oe1bu14526-005,4,Höchst Pries,Höchstdenenselben / Höchstdieselben,n,"""Pries"" is not a word; the formula requires a pronoun referring to the Prince"
+0419cd7d,oe1bu14526-007,5,gehauenten,gehörigen or sämmtlichen,n,"A qualifier of ""Abgaben"" is expected; the transcribed word is not a German adjective in this context"
+6898b895,oe1bu14526-009,3,ungute,in Gute / Courant,n,The written-out sum requires a currency word; 'ungute' is meaningless here.
+42cc6137,oe1bu14526-010,15,Marianton,Marianthal / Marianton (place-name uncertain),n,The place of engrossment does not match Trąbczyn where the acts were taken; the name may be corrupt. Carried across as written.
+8e5c8bef,oe1bu14526-011,11,a. u. s. Schenck,a. u. s. (als Unterschriebener?) Schenck,n,"Abbreviation of an attesting formula, not resolved."
+8608d3aa,oe1bu14526-015,1,sieben vor Zwölf gute Groschen,sieben [Rthl] und zwölf gute Groschen,n,"Half of the 15 Rthl canon is 7 Rthl 12 Groschen, as expressly written in article 8 ('7 rt 12 gg')"
+149bcf6d,oe1bu14526-016,18,Brauer,"Brauer (a second attesting official) or ""Brauer"" as part of the preceding attest",n,Stands alone on its own line without a title.
+9f53df46,oe1bu14526-019,4,rettauflichen,wiederkäuflich / vertauschen,n,"The formulaic triad is 'verkaufen, vertauschen, verschenken'."
+18177ffd,oe1bu14526-019,8,ven,Sofern / Insofern,n,Catchword or truncated conjunction opening the conditional clause.
+7dafc385,oe1bu14526-020,1,Zamaika,Zamaiko / Zameika,n,No settlement 'Zamaika' near Sonnenburg is established; the reading may be corrupt. Left as transcribed.
+8d8596b6,oe1bu14526-023,5,Ankkorn,Akkerland / Ackerland,n,"the list (arable, meadows, heaths, lakes) calls for arable land"
+c5acf002,oe1bu14526-023,10,aushändigen sola sten,aushändigen sollen / ausgehändigt werden sollen,n,evident transcription corruption of the verb phrase
+0e7ee3ea,oe1bu14526-023,18,Civil-Vereichs,Civil-Tradition / Civil-Bereichs,n,the deed elsewhere speaks of Natural- und Civil-Tradition
+bb5fcbf8,oe1bu14526-026,4,bedenket,bezeichnet / handzeichen,n,"The three crosses before and after suggest a note that the signatory subscribed with his mark; ""bedenket"" is likely a misreading."
+e2937d89,oe1bu14526-026,4,Barck[?],Barck / Bock,n,"Transcriber already flags the reading as uncertain; the same officer signs at the head of the protocol as Nüchler, so this may be a second magistrate's name."
+da81624a,oe1bu14526-028,1,2/M. rt.,2/m Rthl (i.e. 2000 Rthl),n,'2/M. rt.' is likely the chancery abbreviation for two thousand Reichsthaler; figure left exactly as written.
+2043e343,oe1bu14526-028,1,an Ehe von Radozimski,an Ehe[m]. von Radozimski / an den Herrn von Radozimski,n,"'Ehe' before a noble name is anomalous; possibly an abbreviation or a misread honorific, but left as transcribed."
+9dc86dda,oe1bu14526-028,2,den Curss[?],den Cursus / den Riss (drawing),n,The uncertain reading may be for a technical term for the surveyor's draft; left as marked uncertain.
+d72e09dc,oe1bu14526-030,2,Ginlily,[unidentified notarial signature],n,Form is not a plausible Polish or German surname; likely a mangled reading of the notary's subscription.
+402db2f3,oe1bu14526-031,2,czzatym,przy czym / obiecuiemy z tym,n,the connective introducing the guarantee clause; as transcribed it is not a word.
+09d8f1d5,oe1bu14526-031,2,Zwowecki,zwoleńskiej / zwyczajnej,n,likely a measure- or place-adjective miscopied; unresolved.
+96a78669,oe1bu14526-001,1,Abten,Acten,n,"Kurrent c/b confusion; the same document writes ""Acten"" and ""Ahten"" for the same object."
+4b562110,oe1bu14526-001,1,Ahten,Acten,n,"h/c minim confusion in Kurrent; parallel with ""Wittowes Acten"" above."
+cdf61d1d,oe1bu14526-002,3,Baufer,Käufer,n,K/B confusion in Kurrent
+167f75ca,oe1bu14526-003,2,Preis Steuer Einnehmen,Kreis Steuer Einnehmer,@391 Preis -> Kreis ; @394 Einnehmen -> Einnehmer,elsewhere consistently 'Kreis Steuer Einnehmer'
+4153ae09,oe1bu14526-004,2,8/5 d. / 3 1/5 d.,8/9 d. / 3 1/9 d. (?),n,The two fractions do not sum cleanly to the stated total; figures reproduced as written.
+4a234597,oe1bu14526-004,3,Kolno / Kollno,consistent spelling,n,The document spells the estate both Kollno and Kolno; both retained as written.
+fa947325,oe1bu14526-005,3,bein Posen,in Posen,n,"""bein"" is not German; ""in Posen"" is used elsewhere in the same document"
+61f08a72,oe1bu14526-005,4,Servitiéten,Servituten,n,Latinate legal term garbled
+8c9102d3,oe1bu14526-005,6,noch stehende Onera perpetua,nachstehende Onera perpetua,n,"the same formula ""nachstehender ... Contract"" opens the document; nach/noch confusion"
+3fccffbb,oe1bu14526-006,3,Zeuten,Zeiten,n,'auf unerwährende Zeiten' = for perpetual times; cf. pages 5-6.
+0b97a420,oe1bu14526-006,6,fehnide Holz,stehende Holz,n,'all the timber standing on this Hufe' fits the sense; 'fehnide' is not a German word.
+021cad64,oe1bu14526-006,8,Anste_kung,Anstecken/Ansteckung,n,The transcription carries a line-break hyphen mark; sense is arson by malicious persons.
+5757d3dc,oe1bu14526-006,10,Auszugferligen,Auszug zu fertigen,n,'to issue an extract/engrossment'; word-division artefact.
+ffdd8d9e,oe1bu14526-007,8,nach Er[laß],noch Erlaß,n,weder ... noch
+bfd7a9a6,oe1bu14526-007,12,Zagurowskiey,Zagorowskiey,n,The volume elsewhere has Zagorowo; not folded into the translation
+fa590ccd,oe1bu14526-008,3,Waynachten / Way machten,Weihnachten,n,consistently miscopied form of 'Weihnachten' (Christmas)
+2db106dd,oe1bu14526-008,6,besezzung,Besitzung,n,holding/possession
+bfa8c04b,oe1bu14526-008,20,Fürsten (twice),Forsten,n,"the subject matter is timber rights in the reserved woodland; cf. 'Landereyen, und Forsten' just above"
+b91f3be4,oe1bu14526-008,20,unzumüglich,unzulänglich,n,'found insufficient' fits the compensation clause
+4a76748d,oe1bu14526-009,4,mich seiner Bequemlichkeit,nach seiner Bequemlichkeit,@2624 mich -> nach,watch-list nach/mich confusion in Kurrent.
+ac76f6e5,oe1bu14526-009,5,Flächen erhalt der Geter,Flächeninhalt der Güter,@2646 erhalt -> inhalt,Standard term for surface area of the estates.
+80a5f2ea,oe1bu14526-009,7,Inſtmedhaltung der Brüder,Instandhaltung der Brücken,n,Standard lease clause on ditches and bridges; free timber is supplied for bridge repair.
+50fa4f62,oe1bu14526-009,10,ſo polnischer Sprüche,in polnischer Sprache,@2800 ſo -> in,'Sprüche' (sayings) for 'Sprache' (language); 'ſo' for 'in'.
+ca01b874,oe1bu14526-009,10,Sie Trugen an,Sie trugen an,n,Read as 'antragen' (to move/apply for); capitalisation is scribal.
+4b7a6b43,oe1bu14526-010,6,auch dem übrigen Herrschaftlichen Territorio,auch in dem übrigen Herrschaftlichen Territorio,n,"A preposition appears to be wanting; the dative Territorio suggests ""in dem""."
+e5671f9e,oe1bu14526-010,11,a u s / Schenck / Brauer,"possibly ""a u s"" for ""aus"" or a notarial abbreviation (e.g. ""i.f."" / ""L.S.""), wi",n,"The spaced ""a u s"" does not parse in this position; it may be a scribal abbreviation left unresolved."
+75944d54,oe1bu14526-011,2,welche den 2 hufen 24 Morgen,welche aus 2 Hufen 24 Morgen,n,"Chancery formula is ""welche aus … bestehen""; ""den"" is likely a misread ""aus""."
+68275e9e,oe1bu14526-011,6,man dem Kaufgelde,von dem Kaufgelde,n,"vor/von/man confusion in Kurrent; sense requires ""of the purchase-money""."
+8513013f,oe1bu14526-011,7,läußert … Verzicht,leistet … Verzicht,n,"""Verzicht leisten"" is the formula; ""läußert"" may be a misread ""leistet""."
+0b7a731a,oe1bu14526-011,10,einer artigen Ueberredung,einer arglistigen Ueberredung,n,Standard renunciation formula in Prussian contracts.
+20138606,oe1bu14526-012,8,Ueberschweinnung,Ueberschwemmung,n,Obvious minim confusion.
+5a24dd94,oe1bu14526-014,1,hinndlungen zu woll ziehen,Handlungen gültig zu vollziehen,@4393 woll -> voll,single-letter Kurrent confusions
+9ae11cf5,oe1bu14526-014,3,Seitestell,Titz stellt / seine Stelle,n,"the page-break word ""Seite/stell"" appears to be ""Stelle"" (holding); reading unsettled"
+24f4ab84,oe1bu14526-014,8,uderfrlaß,oder Erlaß,n,"word-boundary and letter confusion; ""oder Erlaß von dem Erbzinße"" is the expected phrase"
+eaef18cd,oe1bu14526-014,9,diesen dieses Contracts,die Kosten dieses Contracts,n,the fee clause requires a noun
+ee33197c,oe1bu14526-014,10,der steckt findenden,dawider statt findenden,@4717 steckt -> statt,"the renunciation formula reads ""allen dawider stattfindenden Rechtsausflüchten"""
+3103ea06,oe1bu14526-014,11,belehrt würden,belehrt worden,n,"perfect passive requires ""worden"""
+6e7a8495,oe1bu14526-014,12,würklich vorgelesen,deutlich vorgelesen,n,"the standard protocol formula is ""deutlich vorgelesen""; Kurrent w/d confusion possible"
+61b9a693,oe1bu14526-015,2,von dem Urbarem Lande,von dem urbaren Lande,n,capitalisation of adjective; no change of sense
+cf368067,oe1bu14526-016,8,wieder Erlaß ... nachſtönſtg. Bauhülfe,weder Erlaß ... noch einige Bauhülfe,@5184 nachſtönſtg. -> noch sonstige,weder/wieder and noch/nach confusions; the clause then reads as a standard denial of both remission and building aid.
+3ad2db34,oe1bu14526-016,11,an jährlichem Zinsetzung sage Fünfzehn Reichs Thaler,"an jährlichem Zins 15 rt, sage Fünfzehn Reichs Thaler",n,"5 per cent of 150 Rthl is 15, consistent with the spelled-out figure."
+f903bbeb,oe1bu14526-016,16,statt Maurer [f?]eine,statt Mauersteine,n,"""Maurer [f?]eine"" is likely ""Mauersteine"" (bricks), which fits the brickworks and the price of 3 Rthl per thousand."
+cf7ac57e,oe1bu14526-017,2,"vertrascht, vergelt und versperckt","vertauscht, vergeben und verpfändet",n,The standing formula for free disposal in Prussian hereditary-lease contracts.
+d5c43857,oe1bu14526-017,3,Für die Betrühtung haftet einer für alle,Für die Berichtigung haftet einer für alle,n,Matches 'die Berichtigung ... zu bewürken' earlier in the same paragraph.
+01d49851,oe1bu14526-017,5,Seit jedoch ... ausdrücklich verkhalten,Sich jedoch ... ausdrücklich vorbehalten,@5626 verkhalten -> vorbehalten,The standing reservation formula; restores subject and verb.
+696d468a,oe1bu14526-018,20,der statupossivus,der status possessionis,n,Standard chancery Latin for the state of possession.
+75bac799,oe1bu14526-019,1,Zügen,zugezogen,n,'als Freund und Beistand zugezogen' is the formulaic phrase for calling in an adviser.
+8b101202,oe1bu14526-023,5,festgesagt,festgesetzt,@7057 festgesagt -> festgesetzt,appears on p.4; standard chancery phrase is festgesetzt
+15a6ef5c,oe1bu14526-023,7,zurück zu gewähvon verpflichtet gewesen,zurück zu gewähren verpflichtet gewesen,n,evident transcription slip
+74262e61,oe1bu14526-024,2,den freye Benutzung,die freye Benutzung,n,'d.' abbreviation in the transcription; feminine accusative expected.
+4a336dc2,oe1bu14526-025,1,Sr des regierenden Herrn Fürsten ... Hochfürstlichen Durchlaucht,Sr. ... Hochfürstlichen Durchlaucht dem regierenden Herrn Fürsten,n,"the honorific word order as transcribed is garbled, with 'Sr' stranded before the genitive."
+2891d568,oe1bu14526-027,2,in 10. Tage wieder ersetzt würde,in 10 Tagen,n,Dative plural expected after 'in' for a period of time.
+28c11bf5,oe1bu14526-031,1,Ja każde dwa wier[telie],Za każde dwa wiertele,@8139 Ja -> Za,'For every two quarter-measures' fits the following clause about a barrel of beer from the Pszczew brewery; Ja/Za is a single-letter confusion.
+98ff6735,oe1bu14526-031,2,Sukszessorów / Sukszezorów,Sukcessorów,n,the same word is spelled three different ways within a few lines.
+ad29f763,oe1bu14526-014,9,zu schüppen,zu schützen,n,"""bei ihren Gerechtsamen zu schützen"" (to protect in their rights) is the formula"

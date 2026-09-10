@@ -52,6 +52,34 @@ WORD = re.compile(r'[^\W\d_]+', re.UNICODE)
 EXPLICIT = re.compile(r'^\s*@(\d+)\s+(.+?)\s*->\s*(.+)$')
 
 
+def record_decisions(slug, sheet):
+    """Merge the sheet's rulings into units/<slug>/transcription_decisions.csv."""
+    cols = ['key', 'pad', 'page', 'transcribed', 'proposed', 'decision', 'why']
+    dest = os.path.join(unitlib.one_unit(slug).dir, 'transcription_decisions.csv')
+    keep = {}
+    if os.path.isfile(dest):
+        for r in csv.DictReader(io.open(dest, encoding='utf-8-sig')):
+            if (r.get('decision') or '').strip():
+                keep[(r['pad'], str(r['page']), r['transcribed'],
+                      r['proposed'])] = {k: r.get(k, '') for k in cols}
+    added = 0
+    for r in csv.DictReader(io.open(sheet, encoding='utf-8-sig')):
+        if not (r.get('decision') or '').strip():
+            continue
+        k = (r['pad'], str(r['page']), r['transcribed'], r['proposed'])
+        if k not in keep or keep[k]['decision'] != r['decision'].strip():
+            added += 1
+        keep[k] = {c: r.get(c, '') for c in cols}
+    with io.open(dest, 'w', encoding='utf-8-sig', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for row in keep.values():
+            w.writerow(row)
+    if added:
+        print(f'recorded {added} new ruling(s) in {dest}')
+    return len(keep)
+
+
 def occurrences(line, token):
     """How many times `token` stands in `line` as its own run of characters.
 
@@ -133,6 +161,13 @@ def main():
     if not os.path.isfile(sheet):
         sys.exit(f'no sheet at {sheet} - run transcription_fixes.py first')
 
+    # Rulings written into the sheet are recorded in the authored file first.
+    # The sheet is regenerated from that file, so a decision that lives only in
+    # the sheet is lost the next time anything rebuilds it - which is how a
+    # whole afternoon's rulings came to be in the corpus with nothing left to
+    # say why.
+    record_decisions(slug, sheet)
+
     corpus_path = os.path.join(unit.dir, unit.get('corpus') or 'corpus.txt')
     text = io.open(corpus_path, encoding='utf-8').read()
     lines = text.split('\n')
@@ -208,6 +243,9 @@ def main():
                            f'- re-run with --names to apply it')
                 break
             hits = [i for i in span if occurrences(lines[i], old) == 1]
+            if not hits and any(occurrences(lines[i], new) for i in span):
+                # the reading is already there: this ruling has been carried out
+                continue
             if not hits:
                 trouble = f'{old!r} not found once on line {n0} or the 3 after it'
                 break

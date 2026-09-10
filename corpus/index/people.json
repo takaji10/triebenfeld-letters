@@ -5172,7 +5172,7 @@
  {
   "entity": "honrichs",
   "display": "Honrichs",
-  "count": 122,
+  "count": 123,
   "documents": [
    "oe1bu14526-2",
    "oe1bu14526-21",
@@ -5232,6 +5232,13 @@
     "page": 2,
     "page_id": "0004_a1",
     "line": 82
+   },
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Honrichs",
+    "page": 7,
+    "page_id": "0006_a2",
+    "line": 259
    },
    {
     "uid": "oe1bu14526-2",
@@ -21318,6 +21325,83 @@
   ]
  },
  {
+  "entity": "titz",
+  "display": "Carl Titz",
+  "count": 9,
+  "documents": [
+   "oe1bu14526-13",
+   "oe1bu14526-14",
+   "oe1bu14526-15",
+   "oe1bu14526-27",
+   "oe1bu9454-288"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-27",
+    "surface": "Titz",
+    "page": 3,
+    "page_id": "0162_a2",
+    "line": 7953
+   },
+   {
+    "uid": "oe1bu14526-15",
+    "surface": "Titz",
+    "page": 5,
+    "page_id": "0090_a2",
+    "line": 4920
+   },
+   {
+    "uid": "oe1bu14526-14",
+    "surface": "Titz",
+    "page": 1,
+    "page_id": "0082_b",
+    "line": 4385
+   },
+   {
+    "uid": "oe1bu14526-14",
+    "surface": "Titz",
+    "page": 2,
+    "page_id": "0083_a1",
+    "line": 4416
+   },
+   {
+    "uid": "oe1bu14526-14",
+    "surface": "Titz",
+    "page": 3,
+    "page_id": "0083_a2",
+    "line": 4466
+   },
+   {
+    "uid": "oe1bu14526-14",
+    "surface": "Titz",
+    "page": 5,
+    "page_id": "0084_a2",
+    "line": 4509
+   },
+   {
+    "uid": "oe1bu14526-14",
+    "surface": "Titz",
+    "page": 12,
+    "page_id": "0088_a",
+    "line": 4771
+   },
+   {
+    "uid": "oe1bu14526-13",
+    "surface": "Titz",
+    "page": 1,
+    "page_id": "0078_b",
+    "line": 4198
+   },
+   {
+    "uid": "oe1bu9454-288",
+    "surface": "Titz",
+    "page": 2,
+    "page_id": "",
+    "line": 20579
+   }
+  ]
+ },
+ {
   "entity": "rochlitz",
   "display": "Forst-Inspector Rochlitz",
   "count": 9,
@@ -21620,76 +21704,6 @@
     "page": 2,
     "page_id": "",
     "line": 13100
-   }
-  ]
- },
- {
-  "entity": "titz",
-  "display": "Carl Titz",
-  "count": 8,
-  "documents": [
-   "oe1bu14526-13",
-   "oe1bu14526-14",
-   "oe1bu14526-15",
-   "oe1bu14526-27",
-   "oe1bu9454-288"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-27",
-    "surface": "Titz",
-    "page": 3,
-    "page_id": "0162_a2",
-    "line": 7953
-   },
-   {
-    "uid": "oe1bu14526-15",
-    "surface": "Titz",
-    "page": 5,
-    "page_id": "0090_a2",
-    "line": 4920
-   },
-   {
-    "uid": "oe1bu14526-14",
-    "surface": "Titz",
-    "page": 1,
-    "page_id": "0082_b",
-    "line": 4385
-   },
-   {
-    "uid": "oe1bu14526-14",
-    "surface": "Titz",
-    "page": 2,
-    "page_id": "0083_a1",
-    "line": 4416
-   },
-   {
-    "uid": "oe1bu14526-14",
-    "surface": "Titz",
-    "page": 3,
-    "page_id": "0083_a2",
-    "line": 4466
-   },
-   {
-    "uid": "oe1bu14526-14",
-    "surface": "Titz",
-    "page": 12,
-    "page_id": "0088_a",
-    "line": 4771
-   },
-   {
-    "uid": "oe1bu14526-13",
-    "surface": "Titz",
-    "page": 1,
-    "page_id": "0078_b",
-    "line": 4198
-   },
-   {
-    "uid": "oe1bu9454-288",
-    "surface": "Titz",
-    "page": 2,
-    "page_id": "",
-    "line": 20579
    }
   ]
  },
