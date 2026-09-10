@@ -27,6 +27,7 @@ import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
+import unitlib
 import io, os, re, sys, csv, json, time, argparse
 
 import yaml
@@ -127,7 +128,7 @@ def abbrev_targets():
     rx = re.compile(r'(?<![A-Za-zÀ-ÿ])(' + '|'.join(
         re.escape(k) for k in sorted(table, key=len, reverse=True)) + ')')
     out = {}
-    for fn in sorted(os.listdir(RAW)):
+    for fn in unitlib.scope_to_unit(sorted(os.listdir(RAW)), a.unit):
         if not fn.endswith('.json') or fn.startswith('_'):
             continue
         d = json.load(open(os.path.join(RAW, fn), encoding='utf-8'))
@@ -212,6 +213,9 @@ def main():
     ap.add_argument('--abbrev', action='store_true',
                     help='target pages whose English still has a colon abbreviation')
     a = ap.parse_args()
+    a.unit = unitlib.resolve_unit(a.unit)
+    # review sheets belong to their unit, not to the project
+    globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
 
     ABBREV_RUN[0] = a.abbrev
     recs = {str(r['letter_id']): r for r in T.load_letters()}

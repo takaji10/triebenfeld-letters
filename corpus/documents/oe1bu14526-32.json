@@ -1,0 +1,71 @@
+{
+ "letter_id": "32",
+ "seq_archival": 32,
+ "parent_letter": "",
+ "unit": "oe1bu14526",
+ "uid": "oe1bu14526-32",
+ "pad": "oe1bu14526-032",
+ "permalink": "/letters/oe1bu14526/32/",
+ "doc_type": "certification",
+ "date_iso": "1799-01-21",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1799-01-21",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1799,
+ "month": 1,
+ "day": 21,
+ "place": "Orzeszkowo",
+ "sender": "",
+ "recipient": "",
+ "line_start": 8163,
+ "line_end": 8174,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "certifies",
+   "target": "30",
+   "note": "The sworn translator George Wilhelm Behr certifies that the foregoing translation agrees word for word with the Polish original extract."
+  }
+ ],
+ "is_missing": 0,
+ "n_lines": 10,
+ "n_pages": 1,
+ "text": "extrahiret, Melchior Janowski\nNotarius Apostolicus Ejusdem\nReverendissimi Capituli Cathedralis\nPosnaniensis Secretarius.\ndaß vorstehende Uebersetzung mit dem Polnischen\nOriginal Extract von Wort zu Wort gleichlautend\nist, solches bescheinige pflichtmäßig als vereide¬\nter Uebersetzer Orzeskowo d. 21ten Januarii 1799.\nGeorge Wilhelm Behr mpp.",
+ "text_reading": "extrahiret, Melchior Janowski\n\nNotarius Apostolicus Ejusdem Reverendissimi Capituli Cathedralis Posnaniensis Secretarius.\n\ndaß vorstehende Uebersetzung mit dem Polnischen Original Extract von Wort zu Wort gleichlautend ist, solches bescheinige pflichtmäßig als vereideter Uebersetzer Orzeskowo d. 21ten Januarii 1799. George Wilhelm Behr mpp.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0169_a2",
+   "line_start": 8165,
+   "line_end": 8173,
+   "n_lines": 9,
+   "diplomatic": "extrahiret, Melchior Janowski\nNotarius Apostolicus Ejusdem\nReverendissimi Capituli Cathedralis\nPosnaniensis Secretarius.\ndaß vorstehende Uebersetzung mit dem Polnischen\nOriginal Extract von Wort zu Wort gleichlautend\nist, solches bescheinige pflichtmäßig als vereide¬\nter Uebersetzer Orzeskowo d. 21ten Januarii 1799.\nGeorge Wilhelm Behr mpp.",
+   "transcription": "extrahiret, Melchior Janowski\nNotarius Apostolicus Ejusdem\nReverendissimi Capituli Cathedralis\nPosnaniensis Secretarius.\ndaß vorstehende Uebersetzung mit dem Polnischen\nOriginal Extract von Wort zu Wort gleichlautend\nist, solches bescheinige pflichtmäßig als vereide-\nter Uebersetzer Orzeskowo d. 21ten Januarii 1799.\nGeorge Wilhelm Behr mpp.",
+   "reading": "extrahiret, Melchior Janowski\n\nNotarius Apostolicus Ejusdem Reverendissimi Capituli Cathedralis Posnaniensis Secretarius.\n\ndaß vorstehende Uebersetzung mit dem Polnischen Original Extract von Wort zu Wort gleichlautend ist, solches bescheinige pflichtmäßig als vereideter Uebersetzer Orzeskowo d. 21ten Januarii 1799. George Wilhelm Behr mpp.",
+   "paragraphs": [
+    "extrahiret, Melchior Janowski",
+    "Notarius Apostolicus Ejusdem Reverendissimi Capituli Cathedralis Posnaniensis Secretarius.",
+    "daß vorstehende Uebersetzung mit dem Polnischen Original Extract von Wort zu Wort gleichlautend ist, solches bescheinige pflichtmäßig als vereideter Uebersetzer Orzeskowo d. 21ten Januarii 1799. George Wilhelm Behr mpp."
+   ],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": ""
+  }
+ ],
+ "mentions": [],
+ "place_canonical": "Orzeszkowo",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "extracted, Melchior Janowski\n\nNotarius Apostolicus Ejusdem Reverendissimi Capituli Cathedralis Posnaniensis Secretarius.\n\nThat the foregoing translation agrees word for word with the Polish original extract, I hereby certify as in duty bound, as sworn translator. Orzeskowo, the 21st of January 1799. George Wilhelm Behr mpp."
+  }
+ ],
+ "text_english": "extracted, Melchior Janowski\n\nNotarius Apostolicus Ejusdem Reverendissimi Capituli Cathedralis Posnaniensis Secretarius.\n\nThat the foregoing translation agrees word for word with the Polish original extract, I hereby certify as in duty bound, as sworn translator. Orzeskowo, the 21st of January 1799. George Wilhelm Behr mpp.",
+ "summary_en": "Closing certification of a translated chapter extract: the notarial subscription of Melchior Janowski, Notarius Apostolicus and secretary of the Reverendissimum Capitulum Cathedrale Posnaniense, followed by the attestation of the sworn translator George Wilhelm Behr, who certifies under oath that the preceding German rendering agrees word for word with the Polish original extract. Only these two authenticating clauses survive on the page; the substantive text of the extract itself is not present here.",
+ "summary_de": "Beglaubigungsvermerk zu einer Übersetzung: Der vereidigte Translator George Wilhelm Behr bescheinigt pflichtgemäß, daß die vorstehende deutsche Übertragung mit dem polnischen Originalextrakt Wort für Wort übereinstimmt. Der Extrakt selbst war ausgezogen von Melchior Janowski, Notarius Apostolicus und Secretarius des Domkapitels zu Posen (Ejusdem Reverendissimi Capituli Cathedralis Posnaniensis Secretarius). Erhalten ist allein diese Schlußformel mit den beiden Unterschriften; der zugehörige Urkundentext ist hier nicht mitgeteilt."
+}

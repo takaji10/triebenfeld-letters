@@ -20,6 +20,7 @@ Keeping letter_id bare is deliberate: every editorial ruling in rulings.yml is
 keyed by it, so those files never have to be re-keyed when a unit is added.
 """
 import io
+import json
 import os
 import re
 import sys
@@ -60,6 +61,24 @@ class Unit(dict):
     @property
     def raw_glob(self):
         return self.get('scans', {}).get('raw_glob', '*.jpg')
+
+    # -- transcriptions that arrived matched to the scans -------------------
+    # A unit whose source came as one text file per page declares where those
+    # files are, so import_pages.py can write the pairing into corpus.txt as
+    # [PAGE ...] markers instead of it having to be inferred afterwards.
+
+    @property
+    def transcriptions_dir(self):
+        return self.get('transcriptions', {}).get('dir', '')
+
+    @property
+    def transcriptions_glob(self):
+        return self.get('transcriptions', {}).get('glob', '*.txt')
+
+    @property
+    def page_id_strip(self):
+        """Text to cut out of a transcription filename to leave the page id."""
+        return self.get('transcriptions', {}).get('page_id_strip', '')
 
     def read_corpus(self):
         """The transcription, split into lines. Read-only input, never rewritten."""
@@ -137,6 +156,19 @@ def utf8_stdout():
     if not isinstance(sys.stdout, io.TextIOWrapper) or sys.stdout.encoding.lower() != 'utf-8':
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
+def load_place_canon():
+    """The shared place-name canon, variant (lowercased) -> the edition's form.
+
+    Standalone because it is not a unit's ruling: build_site_data needs it for
+    tagging, with no unit in hand. It used to keep a second, much smaller copy
+    of its own, so a place normalised on the dateline was not necessarily
+    normalised where it was tagged.
+    """
+    path = os.path.join(ROOT, 'reference', 'place_canon.yml')
+    with open(path, encoding='utf-8') as f:
+        return (yaml.safe_load(f) or {}).get('canon') or {}
+
+
 def load_rulings(unit):
     """The unit's editorial decisions, plus the place canon shared by all units.
 
@@ -166,7 +198,104 @@ def load_rulings(unit):
         'INFERRED':       tuples(dates.get('inferred')),
         'NO_DATE':        set(dates.get('no_date') or []),
         'DOC_TYPE':       docs.get('doc_type') or {},
+        # Language, where the document is not in the German of the rest of the
+        # holding. Recorded per document because it is a property of the
+        # document, and a queryable one: this volume holds a Polish protocol
+        # and a Latin-and-Polish chapter instrument.
+        'DOC_LANGUAGE':   docs.get('language') or {},
+        # Dates the editor read off the document's own dateline, recorded here
+        # only because the parser cannot reach them - a different fact from a
+        # date supplied by a researcher, and labelled differently to the reader.
+        'DATE_READ':      tuples(dates.get('read')),
         'DUP_OF':         docs.get('duplicate_of') or {},
         'SPLIT_NOTE':     docs.get('split_note') or {},
+        # Typed links between documents in this holding: which decree confirms
+        # which instrument, which contract supersedes which. Each entry is
+        # {kind, target, note}; target is a document number in the same unit.
+        'RELATIONS':      docs.get('relations') or {},
         'DAMAGE_LETTERS': set(damage.get('letters') or []),
     }
+
+
+def load_documents(root=None):
+    """Every document, read from the per-document files.
+
+    corpus/documents/<uid>.json is the primary form: one file per document, so
+    a reader can take the few it needs. This assembles the whole set for the
+    callers that genuinely want it - the site builder and the verifier, both of
+    which walk every document once.
+
+    corpus/letters.json holds the same content as a single array. It is an
+    intermediate - build_dataset.py reads it and writes the per-document files -
+    and it is kept because tools outside this pipeline read it. Neither form is
+    canonical: units/<slug>/corpus.txt is, and both are rebuilt from it.
+    """
+    root = root or ROOT
+    index = os.path.join(root, 'corpus', 'index', 'documents.json')
+    docs_dir = os.path.join(root, 'corpus', 'documents')
+    if not os.path.isfile(index):
+        # The dataset has not been built yet in this run; fall back so a
+        # half-built tree still works rather than failing obscurely.
+        legacy = os.path.join(root, 'corpus', 'letters.json')
+        with open(legacy, encoding='utf-8') as f:
+            return json.load(f)
+    with open(index, encoding='utf-8') as f:
+        manifest = json.load(f)
+    out = []
+    for row in manifest:
+        with open(os.path.join(docs_dir, row['uid'] + '.json'), encoding='utf-8') as f:
+            out.append(json.load(f))
+    return out
+
+
+PAD_RE = re.compile(r'^([a-z0-9]+)-\d+[a-z]*(?:\.|$)')
+
+
+def pad_unit(filename):
+    """'oe1bu9454-048.yml' -> 'oe1bu9454'. '' if the name is not a pad."""
+    m = PAD_RE.match(os.path.basename(filename))
+    return m.group(1) if m else ''
+
+
+def scope_to_unit(names, slug):
+    """Keep only the pad-named files belonging to one unit.
+
+    The translation cache and the published translations are one flat directory
+    for the whole project, keyed by pad - and pad carries the unit. So scoping a
+    run is a filename test, and a file whose name is not a pad is left in:
+    dropping it silently would hide state the caller may need.
+    """
+    if not slug:
+        return list(names)
+    return [n for n in names if pad_unit(n) in ('', slug)]
+
+
+def resolve_unit(slug):
+    """The unit to act on, honouring --unit and erroring when it is ambiguous.
+
+    For the translation scripts, which declared --unit in their help and then
+    ignored it: several of them cost money per run, so processing every holding
+    because a flag was forgotten is worse than stopping.
+    """
+    units = load_units()
+    if slug:
+        if slug not in [u.slug for u in units]:
+            raise SystemExit(f'no unit {slug!r} under units/ (have: '
+                             + ', '.join(u.slug for u in units) + ')')
+        return slug
+    if len(units) > 1:
+        raise SystemExit('several units present; pass --unit <slug>: '
+                         + ', '.join(u.slug for u in units))
+    return units[0].slug
+
+
+def review_dir(slug):
+    """review/<slug>/, created on demand.
+
+    The review sheets used to sit directly in review/, one slot for the whole
+    project - so whichever unit ran last overwrote the others' findings. Each
+    unit gets its own directory, as build_db and match_scans already assume.
+    """
+    p = os.path.join(ROOT, 'review', slug)
+    os.makedirs(p, exist_ok=True)
+    return p

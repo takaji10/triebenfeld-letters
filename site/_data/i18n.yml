@@ -69,9 +69,39 @@ en:
   chip_damaged: damaged
   chip_uncertain: uncertain
 
+  # Document kinds. Keyed by doc_type, so a page names itself for what it is:
+  # this edition is no longer only correspondence.
   letter: Letter
   register: Register
-  part_of_letter: part of letter
+  contract: Contract
+  lease: Lease
+  cession: Cession
+  donation: Donation
+  punctation: Punctation
+  settlement: Settlement
+  amendment: Amendment
+  attestation: Attestation
+  notarial_attestation: Notarial attestation
+  certification: Certification
+  certified_copy: Certified copy
+  confirmation: Confirmation
+  ratification: Ratification
+  power_of_attorney: Power of attorney
+  privilege: Privilege
+  protocol: Protocol
+  royal_consent: Royal consent
+  royal_rescript: Royal rescript
+  memorandum: Memorandum
+  note: Note
+  document: Document          # fallback where doc_type is unset
+  part_of_letter: part of
+  # How one document stands to another, shown as a link on the page.
+  rel_translates: Translates
+  rel_certifies: Certifies
+  rel_transmits: Transmits
+  rel_confirms: Confirms
+  rel_refuses: Refuses consent to
+  rel_supersedes: Supersedes
   nav_archival: Archival order
   nav_chrono: Chronological
   view_diplomatic: Transcription
@@ -261,9 +291,39 @@ de:
   chip_damaged: beschädigt
   chip_uncertain: unsicher
 
+  # Dokumentgattungen, nach doc_type. Diese Edition ist nicht mehr nur
+  # Korrespondenz, also benennt sich jede Seite nach ihrer eigenen Gattung.
   letter: Brief
   register: Register
-  part_of_letter: Teil von Brief
+  contract: Vertrag
+  lease: Pachtvertrag
+  cession: Zession
+  donation: Schenkung
+  punctation: Punktation
+  settlement: Vergleich
+  amendment: Nachtrag
+  attestation: Beglaubigung
+  notarial_attestation: Notarielle Beglaubigung
+  certification: Bescheinigung
+  certified_copy: Beglaubigte Abschrift
+  confirmation: Bestätigung
+  ratification: Ratifikation
+  power_of_attorney: Vollmacht
+  privilege: Privileg
+  protocol: Protokoll
+  royal_consent: Königliche Genehmigung
+  royal_rescript: Königliches Reskript
+  memorandum: Denkschrift
+  note: Notiz
+  document: Dokument          # Rückfallwert, wenn doc_type fehlt
+  part_of_letter: Teil von
+  # Wie ein Dokument zu einem anderen steht, als Link auf der Seite.
+  rel_translates: Übersetzt
+  rel_certifies: Beglaubigt
+  rel_transmits: Übersendet
+  rel_confirms: Bestätigt
+  rel_refuses: Verweigert die Genehmigung zu
+  rel_supersedes: Ersetzt
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
   view_diplomatic: Transkription

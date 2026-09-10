@@ -27,14 +27,36 @@ layout: default
 
   <header class="letter-head">
     <p class="eyebrow">
-      <span data-i18n="{% if page.doc_type == 'register' %}register{% else %}letter{% endif %}">{% if page.doc_type == 'register' %}{{ t.register }}{% else %}{{ t.letter }}{% endif %}</span> {{ lid }}
-      {% if page.parent_letter %}<span class="sub"><span data-i18n="part_of_letter">{{ t.part_of_letter }}</span> {{ page.parent_letter }}</span>{% endif %}
+      {%- comment -%}
+        The kind is looked up by doc_type, so a deed calls itself a deed. An
+        unknown or unset type falls back to the generic label rather than
+        silently reading "Letter" over a contract.
+      {%- endcomment -%}
+      {%- assign dt = page.doc_type | default: 'document' -%}
+      {%- if t[dt] == nil %}{% assign dt = 'document' %}{% endif -%}
+      <span data-i18n="{{ dt }}">{{ t[dt] }}</span> {{ lid }}
+      {%- if page.parent_letter %}
+        {%- assign pdt = page.parent_doc_type | default: 'document' -%}
+        {%- if t[pdt] == nil %}{% assign pdt = 'document' %}{% endif -%}
+        <span class="sub"><span data-i18n="part_of_letter">{{ t.part_of_letter }}</span>
+          <span data-i18n="{{ pdt }}">{{ t[pdt] }}</span> {{ page.parent_letter }}</span>
+      {%- endif %}
     </p>
     <h1>
       {{ page.date_label }}
       {% if page.date_source != 'signature' and page.date_iso %}<span class="badge supplied" title="{{ page.date_source_label }}">[supplied]</span>{% endif %}
     </h1>
     {% if page.place %}<p class="place">{{ page.place }}</p>{% endif %}
+    {%- if page.relations %}
+    <ul class="relations">
+      {%- for rel in page.relations %}
+      {%- assign relkey = 'rel_' | append: rel.kind -%}
+      <li class="rel"><span data-i18n="{{ relkey }}">{{ t[relkey] | default: rel.kind }}</span>
+        <a href="{{ rel.target_url | relative_url }}">{{ rel.target_title }}</a>
+        {%- if rel.note %}<span class="rel-note">{{ rel.note }}</span>{% endif %}</li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
     {% if page.sender or page.recipient %}
       <p class="correspondents">
         {% if page.sender %}<span class="c-from">{{ page.sender }}</span>{% endif %}

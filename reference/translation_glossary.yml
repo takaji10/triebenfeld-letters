@@ -212,7 +212,10 @@ terms:
     render: 'Chamber'
     gloss: 'the Prussian Kriegs- und Domänenkammer, the provincial administrative board'
   - term: Wechsel                           # 39 in corpus
-    pattern: '\bWechsel\w*'
+    # not wechselseitig, wechselweise or Abwechselung: \w* swallowed the
+    # adverbs and reported a bill of exchange missing from a page about
+    # mutual assurances
+    pattern: '\bWechsel(n|s|briefe?n?|geschaefte?n?)?\b'
     policy: translate
     render: 'bill of exchange'
   - term: Unterthanen                       # 39 in corpus

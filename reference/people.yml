@@ -1,0 +1,499 @@
+# The people this edition recognises, and how each is matched in the text.
+#
+# This was 85 lines of Python inside build_site_data.py, which meant a new
+# holding's people stayed invisible until someone edited the build. It is an
+# authority, shared across units, so it lives here.
+#
+# match     A regular expression, anchored at a word start by the build. It
+#           matches inflected and adjectival forms (Prusimskische, Hawichs)
+#           without matching inside another word.
+# abbrev    Colon abbreviations the writers use for a familiar name. Kept
+#           separate from `match` because a wrong expansion invents a mention
+#           that is not in the letter, which is worse than missing one.
+# tier      How firmly the person is identified, carried over from the last
+#           column of reference/whos_who.md, which stays the prose companion.
+# variants  Observed spellings of the name. Empty for now: these are
+#           adjudicated in the name sheets and folded back in here.
+#
+# The long tail - names vetted by name_catalogue.py but not individually
+# profiled - is NOT here. It is generated from reference/name_seeds.json at
+# build time, because it is derived data rather than an editorial decision.
+
+people:
+  amelang:
+    display: "Amelang"
+    match: "Amelang"
+    abbrev: "Am(?:el)?:"
+    tier: ""
+    variants: []
+  asch:
+    display: "Asch"
+    match: "Asch\\b"
+    tier: "Context-inferred, spelling explicitly settled"
+    variants: []
+  barbe:
+    display: "Barbe"
+    match: "Barbe"
+    tier: "Context-inferred"
+    variants: []
+  bernhard:
+    display: "Meyer Bernhard"
+    match: "Bernhard(?!i)"
+    tier: "Role unclear — treat as multiple people sharing a common surname, not one entity"
+    variants: []
+  bernhardi:
+    display: "Bergrath Bernhardi"
+    match: "Bernhardi"
+    tier: "Context-inferred, corroborated by the register's own title match"
+    variants: []
+  bewert:
+    display: "Bewert"
+    match: "Bewert"
+    tier: ""
+    variants: []
+  born:
+    display: "Born"
+    match: "Born"
+    tier: ""
+    variants: []
+  bornstaedt:
+    display: "Bornstädt"
+    match: "Bornstädt|Bornstaedt|Bornstaet"
+    tier: "Externally confirmed (family), role unclear beyond creditor"
+    variants: ["Bornstaedt", "Bornstaet"]
+  broniewski:
+    display: "Broniewski"
+    match: "Broniew|Bronisz"
+    tier: ""
+    variants: []
+  chmara:
+    display: "Johann Chmara"
+    match: "Chmara"
+    tier: ""
+    variants: []
+  chomanowski:
+    display: "Chomanowski"
+    match: "Chomanowski"
+    tier: "Context-inferred (role), spelling explicitly settled"
+    variants: []
+  cosmar:
+    display: "Cosmar"
+    match: "Cosmar"
+    tier: "Book-confirmed"
+    variants: []
+  echaust:
+    display: "Echaust"
+    match: "Echaust|Eichaust"
+    tier: ""
+    variants: ["Eichaust"]
+  eysenhardt:
+    display: "Eysenhardt"
+    match: "Eysenhardt"
+    tier: "Context-inferred, distinctness from Reinhardt explicitly settled"
+    variants: []
+  falkenhausen:
+    display: "Falkenhausen"
+    match: "Falkenhausen"
+    tier: "Externally confirmed (family), role context-inferred (thin, only 2 occurrences)"
+    variants: []
+  feller:
+    display: "Feller"
+    match: "Feller"
+    tier: ""
+    variants: []
+  gaertner:
+    display: "Gärtner (Geh. Rath)"
+    match: "Gärtner"
+    tier: "Context-inferred"
+    variants: []
+  gelanski:
+    display: "Florian Gelanski"
+    match: "Florian|Gelanski"
+    tier: ""
+    variants: ["Florian"]
+  glenck:
+    display: "Glenck"
+    match: "Glenck|Glenk"
+    tier: "Book-confirmed"
+    variants: ["Glenk"]
+  gneust:
+    display: "Gneust"
+    match: "Gneust|Wohlgeb"
+    tier: ""
+    variants: ["Wohlgeb"]
+  goeschel:
+    display: "Göschel"
+    match: "Göschel"
+    tier: "Role unclear"
+    variants: []
+  goldbeck:
+    display: "Goldbeck"
+    match: "Goldbeck"
+    tier: "Context-inferred, title abbreviation not resolved"
+    variants: []
+  graevenitz:
+    display: "Grävenitz"
+    match: "Grävenitz"
+    abbrev: "Grev:"
+    tier: "Externally confirmed (family), individual role unclear"
+    variants: []
+  grimm:
+    display: "Grimm"
+    match: "Grimm"
+    tier: ""
+    variants: []
+  guderian:
+    display: "Guderian"
+    match: "Guderian"
+    tier: ""
+    variants: []
+  gunter:
+    display: "Gunter"
+    match: "Gunter|Gunterzur"
+    tier: ""
+    variants: ["Gunterzur"]
+  hache:
+    display: "Hache"
+    match: "Hache"
+    tier: "Role unclear, spelling explicitly settled"
+    variants: []
+  hardenberg:
+    display: "Hardenberg"
+    match: "Hardenberg"
+    abbrev: "Hard(?:enb)?:"
+    tier: ""
+    variants: []
+  hawich:
+    display: "Hawich"
+    match: "Hawich"
+    tier: "Book-confirmed"
+    variants: []
+  hecker:
+    display: "Hecker"
+    match: "Hecker"
+    tier: "Context-inferred"
+    variants: []
+  hertzog:
+    display: "Hertzog"
+    match: "Hertzog"
+    tier: ""
+    variants: []
+  hirschel:
+    display: "Abraham Moses Hirschel"
+    match: "Hirchel|Hirschel"
+    tier: ""
+    variants: ["Hirchel"]
+  hohenlohe:
+    display: "Hohenlohe"
+    match: "Hohenlohe"
+    tier: "Book-confirmed (the book's subject)"
+    variants: []
+  honrichs:
+    display: "Honrichs"
+    match: "Honrichs|Hon(?![a-zà-ÿ])"
+    tier: "Context-inferred (role), spelling explicitly settled against the book"
+    variants: ["Hon"]
+  hoym:
+    display: "Hoym"
+    match: "H[oö]ym"
+    tier: "Book-adjacent (via Marianne's family), individual identity externally plausible but not fully pinned"
+    variants: []
+  humboldt:
+    display: "Wilhelm von Humboldt"
+    match: "Humboldt"
+    tier: "Externally confirmed"
+    variants: []
+  jankowski:
+    display: "Jankowski"
+    match: "Jankowski"
+    tier: ""
+    variants: []
+  kaleschke:
+    display: "Kaleschke"
+    match: "Kaleschke"
+    tier: ""
+    variants: []
+  kircheisen:
+    display: "Kircheisen"
+    match: "Kircheisen"
+    tier: "Externally confirmed, book cross-reference consistent"
+    variants: []
+  knobelsdorff:
+    display: "Knobelsdorff"
+    match: "Knobelsdorff"
+    tier: "Externally confirmed (family), role context-inferred"
+    variants: []
+  knoblauch:
+    display: "Knoblauch"
+    match: "Knob(?![a-zà-ÿ])|Knoblauch"
+    tier: ""
+    variants: ["Knob"]
+  koeckritz:
+    display: "Köckritz"
+    match: "Köckritz"
+    abbrev: "K[oö]ch:"
+    tier: "Externally confirmed"
+    variants: []
+  kunckel:
+    display: "Kunckel"
+    match: "Kunckel"
+    tier: "Role unclear"
+    variants: []
+  kwilecki:
+    display: "Kwilecki"
+    match: "Kwileck"
+    tier: "Externally confirmed (family), role context-inferred"
+    variants: []
+  lahr:
+    display: "von der Lahr"
+    match: "L[aä]hr"
+    tier: "Book-confirmed (as a named debt/matter), person vs. debt-name not fully resolved"
+    variants: []
+  leixner:
+    display: "George Conrad Leixner"
+    match: "Leixner"
+    tier: ""
+    variants: []
+  lombardini:
+    display: "Lombardini"
+    match: "Lombardin"
+    abbrev: "Lomb:"
+    tier: "Book-confirmed"
+    variants: []
+  luka:
+    display: "Samuel Lucke (Luka)"
+    match: "Luka"
+    tier: ""
+    variants: []
+  massenbach:
+    display: "Massenbach"
+    match: "Massenbach"
+    tier: "Book-confirmed"
+    variants: []
+  meierowitz:
+    display: "Franz Meierowitz"
+    match: "Meierowicz|Meierowitz"
+    tier: ""
+    variants: ["Meierowicz"]
+  melzer:
+    display: "Melzer"
+    match: "Melzer"
+    tier: ""
+    variants: []
+  metternich:
+    display: "Metternich"
+    match: "Metternich"
+    tier: "Externally confirmed"
+    variants: []
+  metzig:
+    display: "Metzig"
+    match: "Metzig"
+    tier: ""
+    variants: []
+  michaelis:
+    display: "Michaelis"
+    match: "Michaelis"
+    tier: "Context-inferred"
+    variants: []
+  mlynkiewicz:
+    display: "Matheus Młynkiewicz"
+    match: "Młynkiewicz"
+    tier: ""
+    variants: []
+  napoleon:
+    display: "Napoleon"
+    match: "Napoleon"
+    tier: "Externally confirmed"
+    variants: []
+  nathan:
+    display: "Salomon Nathan"
+    match: "Natan|Nathan"
+    tier: ""
+    variants: ["Natan"]
+  nesselrode:
+    display: "Nesselrode"
+    match: "Nesselrode"
+    tier: ""
+    variants: []
+  neumann:
+    display: "Neumann"
+    match: "Neumann"
+    tier: ""
+    variants: []
+  niedzewiecki:
+    display: "Niedzewiecki"
+    match: "Niedzew"
+    tier: "Context-inferred"
+    variants: []
+  niedzwiedzki:
+    display: "Niedzwiedzki"
+    match: "Niedzwidzki|Niedzwiecki|Niedzwied(?![a-zà-ÿ])|Niedzwiedzki"
+    tier: ""
+    variants: ["Niedzwidzki", "Niedzwiecki", "Niedzwied"]
+  ogrodowicz:
+    display: "Ogrodowicz"
+    match: "Ogrodowicz"
+    tier: ""
+    variants: []
+  otocki:
+    display: "Otocki"
+    match: "Otocki"
+    tier: "Context-inferred"
+    variants: []
+  pochammer:
+    display: "Pochammer"
+    match: "Pochamm?er"
+    tier: "Context-inferred"
+    variants: []
+  pourtales:
+    display: "Pourtalès (Pourtales)"
+    match: "Pourtal|Portalis"
+    abbrev: "Pourt:"
+    tier: "Externally confirmed (family)"
+    variants: []
+  prusimska:
+    display: "Michalina Prusimska (Dąbska / Miączyńska / Moscinska)"
+    match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąa]czy[nń]sk)a(?![a-zà-ÿ])"
+    tier: "User-provided (genealogical) + text-confirmed"
+    variants: []
+  prusimski:
+    display: "Prusimski family (Trąbczyn estates)"
+    match: "Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])"
+    tier: "Text-confirmed"
+    variants: []
+  przespolewski:
+    display: "Przespolewski"
+    match: "Przespolewski"
+    tier: "Context-inferred"
+    variants: []
+  rapacki:
+    display: "Rapacki"
+    match: "Rapacki"
+    tier: "Role unclear"
+    variants: []
+  reinhardt:
+    display: "Reinhardt"
+    match: "Reinhardt"
+    tier: "Role unclear"
+    variants: []
+  rochlitz:
+    display: "Forst-Inspector Rochlitz"
+    match: "Rochlitz"
+    tier: ""
+    variants: []
+  sacken:
+    display: "Sacken (Sakken)"
+    match: "Sakken|Sacken"
+    abbrev: "F(?:ü|ue)rst(?:in|en)\\s+Sa:"
+    tier: "Book-confirmed"
+    variants: []
+  scharnhorst:
+    display: "Scharnhorst"
+    match: "Scharnhorst"
+    tier: "Externally confirmed"
+    variants: []
+  schenck:
+    display: "Schenck"
+    match: "Schenck"
+    tier: "Context-inferred"
+    variants: []
+  schlabrendorff:
+    display: "Schlabrendorff"
+    match: "Schlabrendorff"
+    tier: "Externally confirmed (family)"
+    variants: []
+  schmaling:
+    display: "Schmaling"
+    match: "Schmaling"
+    tier: ""
+    variants: []
+  schulenburg:
+    display: "Schulenburg"
+    match: "Schul[ee]mburg|Schulenburg"
+    tier: "Externally confirmed (family), individual not fully pinned"
+    variants: []
+  simon:
+    display: "Simon"
+    match: "Simon"
+    tier: ""
+    variants: []
+  sobottendorff:
+    display: "Sobottendorff"
+    match: "Sobottendorff"
+    tier: "Externally confirmed (family), role context-inferred"
+    variants: []
+  sprengel:
+    display: "Sprengel"
+    match: "Sprengel"
+    tier: ""
+    variants: []
+  stade:
+    display: "Stade"
+    match: "Stade"
+    tier: ""
+    variants: []
+  staegemann:
+    display: "Stägemann"
+    match: "Stägemann"
+    tier: "Externally confirmed"
+    variants: []
+  stoessel:
+    display: "Stössel"
+    match: "Stössel"
+    tier: "Context-inferred"
+    variants: []
+  talleyrand:
+    display: "Talleyrand"
+    match: "Talleyrand"
+    tier: "Externally confirmed"
+    variants: []
+  titz:
+    display: "Carl Titz"
+    match: "Titz"
+    tier: ""
+    variants: []
+  triebenfeld:
+    display: "v. Triebenfeld"
+    match: "Triebenfeld"
+    tier: "Established by the project itself; Charlotte context-inferred as his wife"
+    variants: []
+  tschachmann:
+    display: "Johann Gottlieb Tschachmann"
+    match: "Tschachmann"
+    tier: ""
+    variants: []
+  voss:
+    display: "Voss"
+    match: "Voss"
+    tier: "Externally confirmed"
+    variants: []
+  wedel:
+    display: "Wedel"
+    match: "Wedel"
+    tier: "Context-inferred, identity not pinned down"
+    variants: []
+  weigel:
+    display: "Weigel"
+    match: "Weigel"
+    tier: "Context-inferred"
+    variants: []
+  winzingerode:
+    display: "Winzingerode"
+    match: "Winzingerode"
+    tier: "Externally confirmed (family/era), individual not fully pinned"
+    variants: []
+  wollenhaupt:
+    display: "Wollenhaupt"
+    match: "Wollenhaupt"
+    tier: ""
+    variants: []
+  zastrow:
+    display: "Zastrow"
+    match: "Zastrow"
+    tier: ""
+    variants: []
+  zerboni:
+    display: "Zerboni"
+    match: "Zerboni"
+    tier: "Context-inferred"
+    variants: []

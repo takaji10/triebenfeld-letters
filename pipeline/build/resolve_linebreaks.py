@@ -31,6 +31,7 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
 
 import io, sys, os, re, csv, json, time, urllib.request, urllib.parse
 from collections import Counter
+from corpus_pages import split_pages
 import unitlib
 import sys
 
@@ -41,12 +42,12 @@ UNIT = unitlib.one_unit(unitlib.unit_arg())
 SRC = unitlib.one_unit(unitlib.unit_arg()).corpus_path
 CACHE = os.path.join(ROOT, 'reference', 'dwds_cache.json')
 DECISIONS = os.path.join(UNIT.dir, 'linebreak_decisions.csv')
-REPORT = os.path.join(ROOT, 'review', 'linebreak_report.md')
+REPORT = os.path.join(ROOT, 'review', UNIT.slug, 'linebreak_report.md')
 
 OFFLINE = '--offline' in sys.argv
 
 WORD = re.compile(r'[A-Za-zÀ-ÿĄąĘęŁłŃńÓóŚśŹźŻżſ]+')
-TAG = re.compile(r'^\[LETTER (\w+)\]$')
+TAG = re.compile(r'^\[DOC (\w+)\]$')
 
 # A DWDS hit count at or above this is treated as "a real word". Chosen from the
 # observed gap: real words land in the thousands-to-millions (dieserhalb 1_430,
@@ -142,18 +143,14 @@ def load_corpus():
 
 
 def pages_of(body):
-    """Split a letter's [(lineno, text)] into pages on blank lines."""
-    pages, cur = [], []
-    for lineno, text in body:
-        if text.strip() == '':
-            if cur:
-                pages.append(cur)
-                cur = []
-        else:
-            cur.append((lineno, text))
-    if cur:
-        pages.append(cur)
-    return pages
+    """A document's [(lineno, text)] split into pages, page ids discarded.
+
+    Deliberately delegated to corpus_pages.split_pages rather than repeating the
+    rule: `crosses_page` decides how a wrap is judged, so if this module and the
+    one that builds the pages disagreed about where a page ends, a mark would be
+    adjudicated against one page structure and applied to another.
+    """
+    return [ls for _, ls in split_pages(body)]
 
 
 def build_vocab(letters):
@@ -219,6 +216,49 @@ def collect_wraps(letters):
                     'context': s[-42:] + ' || ' + nxt_text.strip()[:42],
                 })
     return wraps
+
+
+def collect_unmarked_catchwords(letters):
+    """Catchwords that carry no wrap mark at all.
+
+    A catchword is the scribe's note, at the foot of a page, of the word the
+    next page begins with - a navigation device for whoever turns the leaf, not
+    part of the sentence. Where the transcription marked it with a wrap sign it
+    is already caught above. Most are not marked: the foot of the page simply
+    holds a bare word that then repeats overleaf, and because there is no mark
+    there is no wrap to adjudicate, so the reading text says it twice -
+    "Salomon Natan | Nathan junior zu Berlin".
+
+    Recognised by all of: it is the LAST line of a page; it is short and no more
+    than a few tokens; it carries no wrap mark; and its first word opens the
+    next page. They are proposed here as ordinary rows so that any one of them
+    can be overruled by hand like any other decision.
+    """
+    out = []
+    for lid, body in letters.items():
+        pages = pages_of(body)
+        for pi, page in enumerate(pages[:-1]):
+            lineno, text = page[-1]
+            s = text.rstrip()
+            if not s or s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--')):
+                continue
+            toks = WORD.findall(s)
+            if not toks or len(toks) > 3 or len(s.strip()) > 28:
+                continue
+            nxt_lineno, nxt_text = pages[pi + 1][0]
+            nxt = WORD.findall(nxt_text)
+            if not nxt:
+                continue
+            a, b = toks[0].lower(), nxt[0].lower()
+            if len(a) < 3 or a[:4] != b[:4]:
+                continue
+            out.append({
+                'letter': lid, 'page': pi + 1, 'line': lineno,
+                'next_line': nxt_lineno, 'mark': '', 'head': toks[0], 'tail': nxt[0],
+                'crosses_page': True, 'unmarked_catchword': True,
+                'context': s.strip()[-42:] + ' || ' + nxt_text.strip()[:42],
+            })
+    return out
 
 
 # ------------------------------------------------------------------ decide
@@ -297,7 +337,11 @@ def main():
     lines, letters = load_corpus()
     vocab = build_vocab(letters)
     wraps = collect_wraps(letters)
-    print(f'letters {len(letters)}, vocabulary {len(vocab)}, wraps {len(wraps)}')
+    unmarked = collect_unmarked_catchwords(letters)
+    wraps.extend(unmarked)
+    wraps.sort(key=lambda w: w['line'])
+    print(f'letters {len(letters)}, vocabulary {len(vocab)}, wraps {len(wraps)} '
+          f'({len(unmarked)} of them unmarked catchwords)')
 
     if not OFFLINE:
         forms = set()
@@ -309,6 +353,15 @@ def main():
 
     try:
         for n, w in enumerate(wraps, 1):
+            if w.get('unmarked_catchword'):
+                # Not a wrap: nothing is broken across the line, so there is no
+                # word to weigh. The evidence is positional - last line of a
+                # page, repeated overleaf - and decide() has no way to see it.
+                w['decision'] = 'catchword'
+                w['confidence'] = 'high'
+                w['reason'] = ('unmarked catchword: the page ends with the word '
+                               'the next page begins')
+                continue
             w['decision'], w['confidence'], w['reason'] = decide(w, vocab)
             if n % 100 == 0:
                 print(f'  {n}/{len(wraps)}')
@@ -320,6 +373,43 @@ def main():
             'decision', 'confidence', 'reason', 'crosses_page',
             'joined_corpus', 'joined_dwds', 'head_corpus', 'head_dwds',
             'tail_corpus', 'tail_dwds', 'context']
+
+    # Carry over decisions a human changed. This file is documented as
+    # hand-editable and the report tells you to edit it, but the run used to
+    # overwrite it wholesale - so every adjudication was silently discarded by
+    # the next regenerate. A row is kept only where the wrap itself is
+    # unchanged: same letter, same line, same two halves. If the corpus moved
+    # underneath it, the old ruling was about different text and is dropped.
+    kept = 0
+    if os.path.isfile(DECISIONS):
+        prior, by_context = {}, {}
+        with open(DECISIONS, encoding='utf-8-sig', newline='') as f:
+            for row in csv.DictReader(f):
+                prior[(row.get('letter', ''), row.get('line', ''),
+                       row.get('head', ''), row.get('tail', ''))] = row
+                # Second key, free of both the line number and the document
+                # number, so an adjudication survives a renumbering: merging
+                # enclosures into their parent changes every letter id and
+                # shifts every line, but the wrap itself is the same wrap.
+                by_context[(row.get('head', ''), row.get('tail', ''),
+                            row.get('context', ''))] = row
+        for w in wraps:
+            old = prior.get((str(w['letter']), str(w['line']), w['head'], w['tail']))
+            if not old:
+                old = by_context.get((w['head'], w['tail'], w.get('context', '')))
+            if not old:
+                continue
+            # 'held' marks a row this script did not decide: it was adjudicated
+            # by hand, so it outranks whatever decide() just produced.
+            if (old.get('confidence') == 'held'
+                    or old.get('decision') != w['decision']):
+                w['decision'] = old['decision']
+                w['confidence'] = 'held'
+                w['reason'] = old.get('reason') or 'held: adjudicated by hand'
+                kept += 1
+    if kept:
+        print(f'kept {kept} hand-adjudicated decision(s) from the previous run')
+
     with open(DECISIONS, 'w', encoding='utf-8-sig', newline='') as f:
         wr = csv.DictWriter(f, fieldnames=cols)
         wr.writeheader()

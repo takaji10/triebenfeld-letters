@@ -13,7 +13,7 @@ Live at <https://takaji10.github.io/triebenfeld-letters/>.
 ```
 units/<slug>/     one archival holding
   unit.yml        where its scans are, how its files are named
-  corpus.txt      the transcription. [LETTER N] before each document
+  corpus.txt      the transcription. [DOC N] before each document
   rulings.yml     editorial decisions, keyed by document number
   notes.md        provenance and quirks
 pipeline/
@@ -33,7 +33,7 @@ site/             the Jekyll site
 
 - **Raw scans stay outside the project.** Put them anywhere; record the path in
   `units/<slug>/unit.yml`. Cropping writes into a `processed/` folder beside them.
-- **The transcription goes in `units/<slug>/corpus.txt`**, with `[LETTER N]` on its own
+- **The transcription goes in `units/<slug>/corpus.txt`**, with `[DOC N]` on its own
   line before each document. That file is the canonical input and is never rewritten by
   the pipeline.
 - **Decisions go in `units/<slug>/rulings.yml`**, keyed by the archive's own document

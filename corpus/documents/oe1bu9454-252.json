@@ -1,0 +1,91 @@
+{
+ "letter_id": "252",
+ "seq_archival": 265,
+ "parent_letter": "",
+ "unit": "oe1bu9454",
+ "uid": "oe1bu9454-252",
+ "pad": "oe1bu9454-252",
+ "permalink": "/letters/oe1bu9454/252/",
+ "doc_type": "letter",
+ "date_iso": "1814-11-25",
+ "date_precision": "day",
+ "date_source": "signature",
+ "date_display": "Wien den 25ten Novembr 1814.",
+ "date_inferred_from": "",
+ "year": 1814,
+ "month": 11,
+ "day": 25,
+ "place": "Wien",
+ "sender": "",
+ "recipient": "",
+ "line_start": 18083,
+ "line_end": 18095,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "is_missing": 0,
+ "n_lines": 12,
+ "n_pages": 1,
+ "text": "Ewr Hochwohlgeboren berechrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die\nAngelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf\nTrąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im\nWerck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen\ndes Herzogthums Warschau zur Ausführung kommen wird.\nWien den 25ten Novembr 1814.\nC f v Hardenberg\nAn\ndes Herrn Kriegesraths von Triebenfeld\nHochwohlgebornen\nherr",
+ "text_reading": "Ewr Hochwohlgeboren berechrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die Angelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im Werck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. Wien den 25ten Novembr 1814. C f v Hardenberg An des Herrn Kriegesraths von Triebenfeld Hochwohlgebornen herr",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "",
+   "line_start": 18084,
+   "line_end": 18094,
+   "n_lines": 11,
+   "diplomatic": "Ewr Hochwohlgeboren berechrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die\nAngelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf\nTrąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im\nWerck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen\ndes Herzogthums Warschau zur Ausführung kommen wird.\nWien den 25ten Novembr 1814.\nC f v Hardenberg\nAn\ndes Herrn Kriegesraths von Triebenfeld\nHochwohlgebornen\nherr",
+   "transcription": "Ewr Hochwohlgeboren berechrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die\nAngelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf\nTrąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im\nWerck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen\ndes Herzogthums Warschau zur Ausführung kommen wird.\nWien den 25ten Novembr 1814.\nC f v Hardenberg\nAn\ndes Herrn Kriegesraths von Triebenfeld\nHochwohlgebornen\nherr",
+   "reading": "Ewr Hochwohlgeboren berechrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die Angelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im Werck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. Wien den 25ten Novembr 1814. C f v Hardenberg An des Herrn Kriegesraths von Triebenfeld Hochwohlgebornen herr",
+   "paragraphs": [
+    "Ewr Hochwohlgeboren berechrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die Angelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im Werck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. Wien den 25ten Novembr 1814. C f v Hardenberg An des Herrn Kriegesraths von Triebenfeld Hochwohlgebornen herr"
+   ],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": ""
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "",
+   "line": 18085
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "Hardenberg",
+   "page": 1,
+   "page_id": "",
+   "line": 18090
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 1,
+   "page_id": "",
+   "line": 18092
+  }
+ ],
+ "place_canonical": "Wien",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "In answer to Your Right Honourable's petition of the 25th of last month, I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kaemen will settle itself of its own accord as soon as the general partition and agreement now in progress concerning the Duchy of Warsaw shall come to be carried out. Vienna, the 25th of November 1814. C f v Hardenberg. To the Right Honourable the Councillor of War von Triebenfeld, Sir."
+  }
+ ],
+ "text_english": "In answer to Your Right Honourable's petition of the 25th of last month, I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kaemen will settle itself of its own accord as soon as the general partition and agreement now in progress concerning the Duchy of Warsaw shall come to be carried out. Vienna, the 25th of November 1814. C f v Hardenberg. To the Right Honourable the Councillor of War von Triebenfeld, Sir.",
+ "summary_en": "Reply from Hardenberg in Vienna to the Councillor of War von Triebenfeld's petition of the 25th of the previous month: the Prince of Hohenlohe's affair concerning the claims upon Trąbczyn and Kaemen will resolve itself of its own accord once the general partition and agreement now under negotiation over the Duchy of Warsaw is carried into effect. A brief official note, offering no further action or undertaking in the meantime.",
+ "summary_de": "Antwort auf Triebenfelds Gesuch vom 25. des Vormonats: Die Angelegenheit des Fürsten zu Hohenlohe hinsichtlich der Ansprüche auf Trąbczyn und Kaemen werde sich von selbst regeln, sobald die derzeit in Verhandlung stehende allgemeine Teilung und Übereinkunft über das Herzogtum Warschau zur Ausführung komme. Kurze Auskunft Hardenbergs an den Kriegsrath von Triebenfeld, ohne weitere Zusagen oder Angabe von Summen und Fristen."
+}

@@ -1,20 +1,82 @@
-# Editorial rulings for Oe 1 Bü 14526.
+# Editorial rulings for Oe 1 Bue 14526.
 #
 # Keyed by the archive's own document number, which is what letter_id stays.
 # Nothing here is derived: each entry is a decision taken against evidence and
-# recorded so a rebuild reproduces it. Start empty and fill in from the review
-# sheets in review/ as you work through them.
+# recorded so a rebuild reproduces it. These were established by reading all
+# 288 transcribed pages; the working sheet is
+# review/oe1bu14526/document_boundaries.csv, which carries the opening words
+# and a note for each document.
 
 places:
-  # Place of writing, where the dateline is absent, illegible or misleading.
-  # A trailing [?] marks a reading that is probable rather than settled.
-  #   "12": Berlin
-  overrides: {}
+  # Place of writing, from the document's own dateline or subscription.
+  overrides:
+    "2": "Kalisch"
+    "3": "Betsche"
+    "5": "Breslau"
+    "6": "Trąbczyn"
+    "7": "Trąbczyn"
+    "8": "Trąbczyn"
+    "9": "Trąbczyn"
+    "10": "Trąbczyn"
+    "11": "Trąbczyn"
+    "12": "Trąbczyn"
+    "13": "Trąbczyn"
+    "14": "Trąbczyn"
+    "15": "Trąbczyn"
+    "16": "Trąbczyn"
+    "17": "Zagorowo"
+    "18": "Betsche"
+    "19": "Betsche"
+    "20": "Breslau"
+    "21": "Kalisch"
+    "22": "Posen"
+    "23": "Posen"
+    "24": "Posen"
+    "25": "Zagorowo"
+    "26": "Zagorowo"
+    "27": "Zagorowo"
+    "28": "Zagorowo"
+    "29": "Betsche"
+    "30": "Dolsk"
+    "31": "Dolsk"
+    "32": "Orzeszkowo"
 
 dates:
-  # [year, month, day, precision]; null where that element is unknown.
-  #   "3": [1815, 2, 9, "day"]
-  supplied: {}
+  # Dates the editor read off the document's own dateline or subscription.
+  # Recorded here only because the parser cannot reach them: the datelines in
+  # this volume are formulaic, Latinate and often corrupt. They are NOT
+  # supplied by a researcher, and the reader is told so.
+  read:
+    "2": [1803, 4, 21, "day"]
+    "3": [1799, 5, 6, "day"]
+    "5": [1804, 8, 30, "day"]
+    "6": [1806, 7, 18, "day"]
+    "7": [1806, 7, 8, "day"]
+    "8": [1806, 3, 25, "day"]
+    "9": [1805, 8, 17, "day"]
+    "10": [1805, 5, 11, "day"]
+    "11": [1805, 5, 10, "day"]
+    "12": [1805, 5, 10, "day"]
+    "13": [1805, 5, 7, "day"]
+    "14": [1805, 5, 4, "day"]
+    "15": [1805, 4, 6, "day"]
+    "16": [1804, 12, 20, "day"]
+    "17": [1804, 5, 26, "day"]
+    "18": [1804, 7, 28, "day"]
+    "19": [1804, 7, 28, "day"]
+    "20": [1803, 4, 8, "day"]
+    "21": [1805, 3, 9, "day"]
+    "22": [1805, 3, 18, "day"]
+    "23": [1805, 3, 18, "day"]
+    "24": [1805, 5, 18, "day"]
+    "25": [1798, 10, 1, "day"]
+    "26": [1799, 7, 1, "day"]
+    "27": [1799, 4, 16, "day"]
+    "28": [1799, 5, 27, "day"]
+    "29": [1805, 4, 10, "day"]
+    "30": [1766, 9, 26, "day"]
+    "31": [1766, 9, 26, "day"]
+    "32": [1799, 1, 21, "day"]
 
   # Taken from the document's own duplicate.
   twin: {}
@@ -23,19 +85,105 @@ dates:
   inferred: {}
 
   # Undated and left so.
-  no_date: []
+  no_date: ["1", "4"]
 
 documents:
-  # Anything that is not an ordinary letter, e.g. "register".
-  doc_type: {}
+  # What kind of instrument each document is. This volume is title deeds, not
+  # letters, and the reader-facing label is derived from this field.
+  doc_type:
+    "1": "note"
+    "2": "contract"
+    "3": "confirmation"
+    "4": "contract"
+    "5": "contract"
+    "6": "contract"
+    "7": "contract"
+    "8": "contract"
+    "9": "lease"
+    "10": "contract"
+    "11": "contract"
+    "12": "contract"
+    "13": "contract"
+    "14": "contract"
+    "15": "contract"
+    "16": "contract"
+    "17": "contract"
+    "18": "contract"
+    "19": "certified_copy"
+    "20": "donation"
+    "21": "punctation"
+    "22": "royal_rescript"
+    "23": "confirmation"
+    "24": "royal_rescript"
+    "25": "contract"
+    "26": "protocol"
+    "27": "letter"
+    "28": "letter"
+    "29": "letter"
+    "30": "privilege"
+    "31": "privilege"
+    "32": "certification"
 
-  # Same document, transcribed twice.
-  duplicate_of: {}
+  # Language, where it is not the German of the rest of the volume.
+  language:
+    "31": "la,pl"
 
-  # Why a sub-record exists, shown on the document.
+  # Same instrument, copied into this volume twice. The Betsche Erbpacht
+  # contract is here as Copia No. 92 and Copia No. 93, each with its own
+  # Nachtrag and certified issue; No. 93 carries neither the royal consent
+  # nor the archival attestation that follow No. 92, so 18c and 18d have no
+  # counterpart. Recorded here, not in the boundaries sheet, because it is an
+  # editorial identification rather than something read off a page.
+  duplicate_of:
+    "19": "18"
+
+  # No sub-records: each contract package is one document, so an enclosure
+  # is part of its instrument rather than a record of its own.
   split_note: {}
+
+  # Typed links between documents in this holding. Every one is asserted on
+  # something the text says, not on two documents being about the same estate:
+  # topical similarity was twice enough to produce a wrong link during the
+  # read-through, so a relation needs a sentence behind it.
+  relations:
+    "30":
+      - kind: translates
+        target: "31"
+        note: "German translation of the Posen chapter privilege; document 31 is the Latin and Polish original of the same instrument."
+    "32":
+      - kind: certifies
+        target: "30"
+        note: "The sworn translator George Wilhelm Behr certifies that the foregoing translation agrees word for word with the Polish original extract."
+    "22":
+      - kind: transmits
+        target: "23"
+        note: "Covering rescript of the same day: Ew. Liebden erhalten beiliegend eine Ausfertigung des ... dato confirmirten Kauf-Contracts."
+    "23":
+      - kind: confirms
+        target: "4"
+        note: "The confirmation names den Kauf-Contract vom 16/25. Januar 1805; document 4 is that contract, subscribed Breslau den 16ten Januar 1805."
+    "24":
+      - kind: refuses
+        target: "18"
+        note: "The Krieges- und Domainen-Cammer returns the submitted Erbpachts-Contract and declares the Vererbpachtung of the Herrschaft Betsche to its Buergerschaft ganz unzulaessig. Document 18 is that contract."
+    "16":
+      - kind: supersedes
+        target: "17"
+        note: "Document 16 records that the contract made ueber diese zehn Hufen unterm 26ten May c. a. durch einen gewissen Kunkel was handed back and gaenzlich aufgehoben und annolliret. Document 17 is that Kunkel contract, dated 26 May 1804."
+    "21":
+      - kind: supersedes
+        target: "2"
+        note: "Document 21 is conditional throughout on der Kauf mit den Honrichs annulirt worden; document 2 is the Kauf-Punctation to Martin Honrichs over the same estate Witow. It replaces it only once that annulment takes effect."
 
 damage:
   # Damage is read from the text's own [...] markers. List document numbers
   # here only for damage the transcription does not mark.
-  letters: []
+  #
+  # 24: the royal rescript refusing the Betsche Erbpacht. The right margin of
+  # page 0155_a1 was never transcribed, so about a dozen lines break off in
+  # mid-word - "den Erbpaechtern d.", "die beste Aufsch", "auf den Betrie",
+  # "des Ackerbaues lege", "zu unbemittel". The text is incomplete rather than
+  # corrupt, the transcription does not mark it, and the lost ends cannot be
+  # recovered without re-reading the scan. Flagged so the gap is declared
+  # rather than silently passed off as a whole document.
+  letters: ["24"]

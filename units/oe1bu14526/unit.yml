@@ -5,9 +5,14 @@ slug: oe1bu14526
 ref: Oe 1 Bü 14526
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
 title: >-
-  TODO: what this unit contains, in a line or two.
-date_span: TODO
-status: draft              # draft | transcribed | translated | published
+  Originals and vidimated copies of the deeds of sale and hereditary lease over
+  the South Prussian estates donated to Friedrich Ludwig, Fürst zu
+  Hohenlohe-Ingelfingen
+# 1766 is the Posen chapter privilege for Głazewo, filed as evidence of title
+# and thirty years older than anything else here; the body of the volume runs
+# 1797-1808.
+date_span: 1766-1808
+status: translated         # draft | transcribed | translated | published
 
 # Raw scans live outside the project. crop_scans.py reads from raw_dir and
 # writes single pages into raw_dir/processed/.
@@ -20,9 +25,57 @@ scans:
   # this prefix, so it must not change once the unit is published.
   ascii_prefix: Oe_1_Bu_14526
 
-# The transcription. Documents are delimited by [LETTER N] on its own line.
+# Transcriptions that arrived already matched to the scans, one file per page.
+# import_pages.py reads them in filename order and writes corpus.txt, so the
+# pairing is declared rather than reconstructed later.
+transcriptions:
+  dir: C:/Users/Tersnaus/Downloads/Oe 1_Bue 14526/processed/transcriptions
+  glob: "*.txt"
+
+  # How to get the page's archival identity out of a transcription filename.
+  # These are named <seq>_<archival stem>_<capture>_<crop>.txt, and the capture
+  # and crop are the identity, so everything up to and including the stem goes:
+  #   0016_Oe 1_Bue 14526_0011_a1.txt  ->  0011_a1
+  page_id_strip: "Oe 1_Bue 14526_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt
 
 # For the reader: shown on this unit's provenance page.
 description: >-
-  TODO: a sentence for the reader.
+  Not correspondence but title deeds. Thirty-two contract packages recording how the
+  Fürst sold off and let out the South Prussian estates given to him by
+  Friedrich Wilhelm II in 1796 - purchase contracts, hereditary-lease contracts,
+  powers of attorney, royal confirmations and the notarial attestations that
+  bind them together. Trąbczyn, Betsche, Kolno and Kaemen, Zagorowo and Witow.
+  The volume's own title page calls it Originalia et Copiae vidimatae, and much
+  of it is exactly that: several instruments survive here in two copies, which
+  is what lets one settle the other's damaged readings.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  These are title deeds, not letters: formulaic chancery German, with Latin
+  tags (Actum, in Pausch und Bogen, rem litigiosam, praevia de super partium
+  stipulatione) that are part of the legal register and should be kept, not
+  rendered.
+
+  Some German documents carry a few lines of POLISH, and they matter. Document
+  7 opens its court protocol in Polish (Nizey podpisany Sąd czymi wiadomo komu
+  wiedzieć należy, iż między). Document 9 records the parties demanding the
+  protocol be translated into Polish, in Polish (aby był w polskim Języku
+  Protocoll Przetlamaczony), and carries a Polish witness line. Documents 18
+  and 19 close with Polish signature formulae (Jan Chmara iako pełnomocny;
+  Matheus Młynkiewicz pełno mocny plenipotent - pełnomocny is "authorised
+  representative", the same office the German calls Bevollmächtigter).
+  Translate those passages; do not silently drop them or treat them as
+  corrupt German.
+
+  Do NOT mistake Polish PROPER NAMES in German sentences for Polish text.
+  Trąbczyn, Młynkiewicz, Rządkowski, Głazewo, Świecia, Przybysław, Zagorowo,
+  Wrąbczyn and Wrąbczynek appear throughout German prose and stay as they are.
+  Wrąbczyn, Wrąbczynek and Trąbczyn are three DIFFERENT villages.
+
+  Document 31 is the Latin-and-Polish original of the chapter privilege that
+  document 30 translates into German. Its Latin transumption clause and its
+  Polish body are both source text.

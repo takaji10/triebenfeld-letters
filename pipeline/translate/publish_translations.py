@@ -30,6 +30,7 @@ import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
+import unitlib
 import io, os, re, sys, csv, json, argparse
 
 import yaml
@@ -81,6 +82,9 @@ def main():
     ap.add_argument('--list', action='store_true')
     ap.add_argument('--tag', default=None)
     a = ap.parse_args()
+    a.unit = unitlib.resolve_unit(a.unit)
+    # review sheets belong to their unit, not to the project
+    globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
 
     src = os.path.join(ROOT, 'cache', 'translation-raw' + (f'-{a.tag}' if a.tag else ''))
     if not os.path.isdir(src):
@@ -91,7 +95,7 @@ def main():
         os.makedirs(DEST, exist_ok=True)
 
     published = kept = skipped = 0
-    for fn in sorted(os.listdir(src)):
+    for fn in unitlib.scope_to_unit(sorted(os.listdir(src)), a.unit):
         if not fn.endswith('.json') or fn.startswith('_'):
             continue
         d = json.load(open(os.path.join(src, fn), encoding='utf-8'))

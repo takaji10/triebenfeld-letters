@@ -2,8 +2,7 @@
 """
 Page structure and the generated reading text.
 
-A letter is a sequence of manuscript pages (the corpus marks page breaks with a
-blank line). Each page carries three views:
+A document is a sequence of manuscript pages. Each page carries three views:
 
     diplomatic  - the archival lines, exactly as transcribed        [canonical]
     reading     - lines flowed together, wraps resolved             [generated]
@@ -17,6 +16,15 @@ right scan and the page breaks stay visible.
 Whether a line-end mark really joins two halves of a word is decided in
 resolve_linebreaks.py and recorded in linebreak_decisions.csv, which is
 hand-editable. This module only applies those decisions.
+
+Where a page break falls is decided here, and there are two mechanisms. A
+`[PAGE <id>]` marker on its own line names the manuscript page the lines below
+it come from; that is a declaration, carried through to the database as the
+page's citable identity and used to pair it with its scan. Older units have no
+markers and mark their breaks with a blank line instead, so both are supported
+and the marker wins wherever it appears. Mixing them within one document is an
+error, because it would mean the page boundaries were being asserted twice by
+mechanisms that can disagree.
 """
 import os as _os, sys as _sys
 # pipeline scripts are run directly from two levels down; make the project
@@ -46,21 +54,43 @@ def load_decisions(path=None):
     return out
 
 
+PAGE_TAG = re.compile(r'^\[PAGE ([^\]\s][^\]]*)\]$')
+
+
 def split_pages(body):
     """
-    body: [(abs_line_no, text)] for one letter, blank lines included.
-    Returns [[(abs_line_no, text), ...], ...] - one list per page, blanks dropped.
+    body: [(abs_line_no, text)] for one document, blanks and markers included.
+    Returns [(page_id, [(abs_line_no, text), ...]), ...] - one entry per page.
+
+    page_id is the declared identity where the document carries `[PAGE <id>]`
+    markers, and None where it does not. Marker lines and blank lines are both
+    dropped from the page's text: neither is part of the transcription.
     """
-    pages, cur = [], []
+    marked = any(PAGE_TAG.match(t.strip()) for _, t in body)
+    pages, cur, cur_id = [], [], None
+
+    if marked:
+        for lineno, text in body:
+            m = PAGE_TAG.match(text.strip())
+            if m:
+                if cur:
+                    pages.append((cur_id, cur))
+                cur, cur_id = [], m.group(1)
+            elif text.strip():
+                cur.append((lineno, text))
+        if cur:
+            pages.append((cur_id, cur))
+        return pages
+
     for lineno, text in body:
         if text.strip() == '':
             if cur:
-                pages.append(cur)
+                pages.append((None, cur))
                 cur = []
         else:
             cur.append((lineno, text))
     if cur:
-        pages.append(cur)
+        pages.append((None, cur))
     return pages
 
 
@@ -103,12 +133,25 @@ def page_transcription(page, letter_id, decisions):
     return '\n'.join(out)
 
 
-def page_reading(page, letter_id, decisions, is_register=False):
-    """Flow one page's lines into readable text, applying the wrap decisions."""
+def page_reading(page, letter_id, decisions, is_register=False, paras=None):
+    """
+    Flow one page's lines into readable text, applying the wrap decisions.
+
+    Returns a LIST of paragraphs. `paras` is the set of absolute line numbers
+    that begin one, from paragraph_decisions.csv; with none supplied the page
+    comes back as a single paragraph, which is what it always used to be.
+
+    Reading text still never crosses a page break, so a paragraph that runs on
+    from the previous page starts a new entry here. build_pages records that
+    with continues_previous / continues_next, and the site renders such a
+    paragraph without an indent so the false break does not show.
+    """
     if is_register:
         # Tabular: one entry per line. Flowing it would destroy the table.
-        return '\n'.join(t.strip() for _, t in page)
+        return ['\n'.join(t.strip() for _, t in page)]
 
+    paras = paras or set()
+    out = []
     buf = ''
     join_next = False          # this line ended mid-word: append with no space
 
@@ -126,11 +169,24 @@ def page_reading(page, letter_id, decisions, is_register=False):
             hits = list(WORD.finditer(s))
             if hits:
                 s = s[:hits[-1].start()].rstrip()
+        elif not mark and decision == 'catchword':
+            # An unmarked catchword: the whole line is the scribe's note of the
+            # word overleaf, not a fragment hanging off a sentence. Drop the
+            # line from the reading text - it stays in the diplomatic view and
+            # in the transcription, because it is on the page.
+            s = ''
         elif mark == '¬':
             # Spurious continuation mark: a transcription artefact. Remove the
             # mark, but keep the two words apart.
             s = s[:-1].rstrip()
         # mark == '-' with a split decision: the hyphen is real punctuation, kept.
+
+        # A recorded paragraph break starts a new one - but never in the middle
+        # of a word carried over the line end, which would put half a word in
+        # one paragraph and half in the next.
+        if buf and not join_next and lineno in paras:
+            out.append(re.sub(r'[ \t]+', ' ', buf).strip())
+            buf = ''
 
         if not buf:
             buf = s
@@ -141,18 +197,39 @@ def page_reading(page, letter_id, decisions, is_register=False):
 
         join_next = bool(mark and decision == 'join')
 
-    return re.sub(r'[ \t]+', ' ', buf).strip()
+    if buf.strip():
+        out.append(re.sub(r'[ \t]+', ' ', buf).strip())
+    return out
 
 
-def build_pages(body, letter_id, decisions, is_register=False):
+def build_pages(body, letter_id, decisions, is_register=False, paras=None):
     """
     Returns a list of page dicts:
-      page, line_start, line_end, n_lines, diplomatic, reading, scan
+      page, page_id, line_start, line_end, n_lines, diplomatic, reading,
+      paragraphs, continues_previous, continues_next, scan
+
+    `reading` stays the whole page as one string, so anything that only wants
+    the text is unaffected. `paragraphs` is the same text divided, and is what
+    the site renders.
     """
     out = []
-    for i, page in enumerate(split_pages(body), 1):
+    pages = split_pages(body)
+    for i, (page_id, page) in enumerate(pages, 1):
+        paragraphs = page_reading(page, letter_id, decisions, is_register, paras)
+        # A paragraph runs on across a page break unless the first line of this
+        # page was itself ruled a paragraph start. The reading text still never
+        # crosses the break - the flag only tells the reader that it did.
+        cont_prev = i > 1 and page[0][0] not in (paras or set())
+        cont_next = False
+        if i < len(pages):
+            nxt = pages[i][1]
+            cont_next = nxt[0][0] not in (paras or set())
         out.append({
             'page': i,
+            # The manuscript page this text was read from, where the corpus
+            # declares it. Stable across relabelling, so it is what the dataset
+            # cites and what the scan pairing is built from.
+            'page_id': page_id or '',
             'line_start': page[0][0],
             'line_end': page[-1][0],
             'n_lines': len(page),
@@ -160,7 +237,10 @@ def build_pages(body, letter_id, decisions, is_register=False):
             # against which everything else is checked.
             'diplomatic': '\n'.join(t for _, t in page),
             'transcription': page_transcription(page, letter_id, decisions),
-            'reading': page_reading(page, letter_id, decisions, is_register),
+            'reading': '\n\n'.join(paragraphs),
+            'paragraphs': paragraphs,
+            'continues_previous': cont_prev,
+            'continues_next': cont_next,
             'scan': '',
         })
     return out

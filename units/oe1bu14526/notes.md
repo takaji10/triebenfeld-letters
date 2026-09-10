@@ -1,6 +1,7 @@
 # Oe 1 Bü 14526
 
-Cropped and split; not yet transcribed.
+Cropped, split, staged and transcribed. 288 page images, 288 transcriptions,
+32 documents.
 
 ## Provenance
 
@@ -101,6 +102,87 @@ kept, manifest and disk in exact agreement, 148/148 folds reproduced.
 either way, because a page that quietly disappears stays invisible until the
 transcription comes up short.
 
+## The page count, reconciled
+
+The figures above are a record of the intake as it ran, and they do not end where
+the unit now stands. The count went 335 after splitting, 342 after the fold work
+and the repair, and **288 as staged**. The difference is the blank leaves - blank
+versos and unused halves of an opening - deleted before staging, so gaps in the
+capture sequence are expected here and are not errors.
+
+288 is now consistent everywhere it is counted: `processed/`, `processed/
+transcriptions/`, `pages/`, and `scan_rename_map.json`. `processed/manifest.json`
+describes the 172 raw scans, not the crops.
+
+## Transcription
+
+The transcription was produced by AI, one file per page, and arrived already
+matched to the scans - which is what `import_pages.py` and the `[PAGE ...]`
+markers exist to record. That pairing was declared rather than reconstructed, and
+the build pairs all 287 document pages to their images with no review at all, where
+Oe 1 Bü 9454 needed 865 pairings established by hand.
+
+Being machine-made, the transcription carries an error profile of its own: single
+character slips (`Fiegel` for *Siegel*, `Hohenloke` for *Hohenlohe*), and
+confident context-blind substitutions of a real word for the right one (`Frauen`
+for *Brauen*, `Eier` for *Bier*, `Fürst` for *Forst*, `Straf` for *Stroh*). An
+unflagged reading here therefore carries no authority, which is why the silent
+corruptions were worked through as well as the marked ones.
+
+All 288 pages were read. Three sheets came out of it, in `review/oe1bu14526/`:
+
+- `document_boundaries.csv` - all 71 boundaries, enclosures included, with
+  doc_type, language, date, place and opening words. `rulings.yml` is generated
+  from the 32 that head a package; the rest stay here as the account of what
+  each package contains.
+- `uncertainty_review.full.csv` - every `[?]` and `[...]` in the unit, 124 rows.
+  100 applied, 24 left as found, 0 open. Marks went from 121 to 25 and illegible
+  spans from 6 to 0. Logged with its basis in `uncertainty_applied.md`.
+- `unmarked_suspicions_review.csv` - 158 silent corruptions the transcription
+  never flagged. 152 applied, 1 rejected, 5 open.
+
+Every substitution was same-line. Lines were removed only twice, both
+deliberately: the thirteen stray words at the foot of 0119_a2, which are
+show-through from a facing leaf and not text of this document, and the 39
+sub-record tags when the packages were merged. Where the evidence for a reading
+was internal it is named in the sheet; where it was taken off the scan the row
+says so.
+
+## What the volume turned out to be
+
+**32 documents**, each one a contract package: an instrument together with the
+enclosures filed with it. The enclosures were briefly given records of their own
+- 71 records in all - but that was wrong. A package is defined by a clean group
+of pages, and sub-dividing it made a single leaf appear to belong to two
+documents wherever an enclosure began partway down a page. Merged back, every
+page belongs to exactly one document and the 288 images pair 1:1 with 287
+document pages plus the title page.
+
+Document 23 is the largest package: a royal confirmation reciting eleven
+enclosed instruments - the contract, two ratifications, four attestations, three
+powers of attorney - before resuming with its own dispositive clause. What each
+package contains is recorded in `review/oe1bu14526/document_boundaries.csv`,
+which keeps all 71 boundaries with their opening words and a note apiece.
+
+Several instruments survive here twice, as the title page promises
+(*Originalia et Copiae vidimatae*). The Betsche contract is copied as No. 92 and
+No. 93 (documents 18 and 19, linked by `duplicate_of`), and the Posen chapter
+privilege appears as a German translation and its Polish-and-Latin original
+(documents 30 and 31). Those pairs are the best evidence in the unit: each copy
+settles readings the other loses.
+
+The date range is **1766-1808**, wider than the volume's own subject suggests.
+The 1766 outlier is the Czartoryski privilege for Głazewo, filed thirty years
+early as evidence of title.
+
 ## Next
 
-Transcribe to `corpus.txt`, marking each document with `[LETTER N]` on its own line.
+`rulings.yml` still has no `documents.relations`: the typed links between an
+instrument and the decree that confirms it, and between the German translation
+at document 30 and its Polish original at 31, have nowhere to live yet.
+Paragraph structure (`resolve_paragraphs.py`) does not exist.
+
+One page still needs the scan: the right margin of 0155_a1 was never
+transcribed, so roughly a dozen lines break off mid-word. Four readings are
+left as found because neither the text nor the editor could settle them -
+0117_a2 line 12, 0125_a1 line 23, 0155_a1 line 5 and 0167_a1 line 7.

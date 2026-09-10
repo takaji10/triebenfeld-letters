@@ -59,6 +59,9 @@ def main():
     ap.add_argument('--read', action='store_true')
     ap.add_argument('--apply', action='store_true')
     a = ap.parse_args()
+    a.unit = unitlib.resolve_unit(a.unit)
+    # review sheets belong to their unit, not to the project
+    globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
     if not a.read:
         ap.error('use --read (add --apply to act on it)')
     if not os.path.isfile(SHEET):

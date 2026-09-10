@@ -72,7 +72,7 @@ scans:
   # this prefix, so it must not change once the unit is published.
   ascii_prefix: {ascii_prefix}
 
-# The transcription. Documents are delimited by [LETTER N] on its own line.
+# The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt
 
 # For the reader: shown on this unit's provenance page.

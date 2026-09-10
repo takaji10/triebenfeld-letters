@@ -29,5 +29,34 @@ canon:
   "betsch": "Betsche"
   "erhringen": "Öhringen"
 
+  # --- South Prussian places, from Oe 1 Bü 14526 -------------------------
+  # These four are Trąbczyn. They no longer occur in that unit's corpus, which
+  # was normalised once the editor confirmed them as one place, but they are
+  # kept because they are what the raw transcriptions still say.
+  #
+  # WARNING: Wrąbczyn and Wrąbczynek are DIFFERENT villages, not spellings of
+  # Trąbczyn. Do not add either here, and do not match this group on a stem.
+  "trąpczyn": "Trąbczyn"
+  "trąbrzyn": "Trąbczyn"
+  "trabryn": "Trąbczyn"
+  "trąbczynen": "Trąbczyn"
+
+  # Peisern is the German name of Pyzdry; the edition uses the Polish form.
+  "peysern": "Pyzdry"
+  "peisern": "Pyzdry"
+
+  "zagowo": "Zagorowo"
+  "dolzig": "Dolsk"
+  "allexandrien": "Alexandrien"
+  "orzeskowo": "Orzeszkowo"
+  "biala brzig": "Białobrzeg"
+
+  # One village in the Betsche key, spelled four ways across the German and
+  # the Polish of the same document group.
+  "gloszewo": "Głazewo"
+  "glowewo": "Głazewo"
+  "glazewo": "Głazewo"
+  "głazewie": "Głazewo"
+
 # Fragments that look like a place in a dateline but are not one.
 reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn", "so bekomme ich", "thl. 13", "uria", "wun", "übrigens sorgen sie ja daß f"]

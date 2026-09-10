@@ -22,6 +22,7 @@ import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
+import unitlib
 import io, os, re, sys, json, time, argparse
 
 import yaml
@@ -54,6 +55,16 @@ STATE = os.path.join(OUT, '_batches.json')
 DEST = os.path.join(ROOT, 'site', '_data', LANGS['en']['dest'])
 
 
+# The unit this run is scoped to. The summary cache is one flat directory for
+# the whole project, keyed by pad, so without this a run sweeps every holding.
+UNIT_SLUG = ''
+
+
+def set_unit(slug):
+    global UNIT_SLUG
+    UNIT_SLUG = slug
+
+
 def set_lang(lang):
     global LANG, OUT, STATE, DEST
     LANG = lang
@@ -62,39 +73,37 @@ def set_lang(lang):
     DEST = os.path.join(ROOT, 'site', '_data', LANGS[lang]['dest'])
 
 SYSTEM = """\
-You are writing finding-aid summaries for a scholarly edition of letters written \
-between 1798 and 1816, mostly by a Prussian estate agent, the Kriegs- und \
-Forstrath von Triebenfeld, to his employer Friedrich Ludwig, Fürst zu \
-Hohenlohe-Ingelfingen. They concern estates in South Prussia and the Duchy of \
-Warsaw, debts, lawsuits, the Napoleonic wars and the Congress of Vienna.
+{preamble}
 
-You will be given the English translation of one letter. Write ONE paragraph \
+You will be given the English translation of one document. Write ONE paragraph \
 summarising what it actually contains.
 
   * 40 to 80 words. One paragraph, no headings, no bullet points.
-  * Lead with the substance, not with "This letter". Say what is reported, asked \
-for, or complained of.
+  * Lead with the substance, not with "This letter" or "This document". Say what \
+is reported, asked for, agreed, conveyed or complained of.
   * Name the people, places and sums that matter. These summaries are what a \
-reader scans a list of 313 documents by, so concrete detail is the whole value: \
+reader scans a list of documents by, so concrete detail is the whole value: \
 "presses for the sequestration of Zagorowo to be lifted" is useful, "discusses \
 estate business" is not.
   * Use the names exactly as the translation spells them.
-  * Where the letter is largely a financial schedule or a legal instrument, say \
-so and give its subject and totals.
+  * Where the document is largely a financial schedule or a legal instrument, say \
+so and give its subject, its parties and its totals.
   * If the text is too damaged or fragmentary to summarise, say briefly what \
 survives rather than inventing continuity.
   * Neutral register. Do not editorialise, and do not repeat the date or the \
 place of writing - the page already displays those."""
 
-SYSTEM_DE = """Sie schreiben Kurzregesten für eine wissenschaftliche Edition von Briefen aus den Jahren 1798 bis 1816, verfasst überwiegend von dem preußischen Guts- und Geschäftsträger, dem Kriegs- und Forstrath von Triebenfeld, an seinen Dienstherrn Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen. Es geht um Güter in Südpreußen und im Herzogtum Warschau, um Schulden, Prozesse, die napoleonischen Kriege und den Wiener Kongress.
+SYSTEM_DE = """Sie schreiben Kurzregesten für eine wissenschaftliche Edition von Archivalien.
 
-Sie erhalten die englische Übersetzung eines Briefes. Schreiben Sie EINEN Absatz auf Deutsch, der wiedergibt, was der Brief tatsächlich enthält.
+{preamble}
+
+Sie erhalten die englische Übersetzung eines Dokuments. Schreiben Sie EINEN Absatz auf Deutsch, der wiedergibt, was das Dokument tatsächlich enthält.
 
   * 40 bis 80 Wörter. Ein Absatz, keine Überschriften, keine Aufzählungen.
-  * Beginnen Sie mit der Sache selbst, nicht mit "Dieser Brief". Sagen Sie, was berichtet, erbeten oder beklagt wird.
-  * Nennen Sie die Personen, Orte und Summen, auf die es ankommt. Diese Regesten sind das, wonach ein Leser eine Liste von 313 Dokumenten überfliegt; das Konkrete ist ihr ganzer Wert.
+  * Beginnen Sie mit der Sache selbst, nicht mit "Dieser Brief" oder "Dieses Dokument". Sagen Sie, was berichtet, erbeten, vereinbart, übereignet oder beklagt wird.
+  * Nennen Sie die Personen, Orte und Summen, auf die es ankommt. Diese Regesten sind das, wonach ein Leser eine Liste von Dokumenten überfliegt; das Konkrete ist ihr ganzer Wert.
   * Verwenden Sie die Namen genau in der Schreibweise der Edition, und die zeitgenössischen Formen: Rthl, Ducaten, Sequestration, Erbpacht, Vollmacht.
-  * Handelt es sich im Wesentlichen um eine Rechnung oder eine Rechtsurkunde, so sagen Sie das und nennen Gegenstand und Summen.
+  * Handelt es sich im Wesentlichen um eine Rechnung oder eine Rechtsurkunde, so sagen Sie das und nennen Gegenstand, Parteien und Summen.
   * Ist der Text zu beschädigt oder zu bruchstückhaft, sagen Sie knapp, was erhalten ist, statt Zusammenhang zu erfinden.
   * Sachlicher Ton. Nicht kommentieren, und Datum und Ausstellungsort nicht wiederholen - die Seite zeigt beides bereits an."""
 
@@ -119,7 +128,7 @@ def load_done():
     if not os.path.isdir(OUT):
         return {}
     out = {}
-    for fn in os.listdir(OUT):
+    for fn in unitlib.scope_to_unit(sorted(os.listdir(OUT)), UNIT_SLUG):
         if fn.endswith('.json') and not fn.startswith('_'):
             d = json.load(open(os.path.join(OUT, fn), encoding='utf-8'))
             if d.get('summary'):
@@ -127,20 +136,42 @@ def load_done():
     return out
 
 
+def system_prompt(unit=None):
+    """The rules are the same for every holding; the description of what is
+    being summarised is not.
+
+    This prompt opened by saying the reader is looking at letters from one
+    estate agent between 1798 and 1816, whatever holding was actually being
+    summarised. Pointed at a volume of title deeds it invited exactly the wrong
+    reading - a purchase contract summarised as if it reported news - so the
+    opening now comes from the unit, as the translator's does.
+    """
+    unit = unit or T.UNIT
+    pre = T.unit_preamble(unit).replace('You are translating', 'You are summarising')
+    return (SYSTEM_DE if LANG == 'de' else SYSTEM).replace('{preamble}', pre)
+
+
 def user_block(rec, en):
-    meta = [f"Letter {rec['letter_id']}"]
+    kind = (rec.get('doc_type') or 'document').replace('_', ' ')
+    meta = [f"{kind.capitalize()} {rec['letter_id']}"
+            f" ({len(rec.get('pages') or [])} manuscript page(s))"]
     if rec.get('sender'):
         meta.append(f"From: {rec['sender']}")
     if rec.get('recipient'):
         meta.append(f"To: {rec['recipient']}")
-    if rec.get('doc_type') == 'register':
-        meta.append('This document is a register, not a letter.')
+    if kind not in ('letter', 'document') and len(rec.get('pages') or []) > 1:
+        # A deed is a package: the instrument plus everything filed with it, and
+        # a summary that describes only the first enclosure describes a fraction
+        # of the record.
+        meta.append(f'This is not a letter. It is a {kind}, and the pages that '
+                    f'follow are one package - the instrument together with '
+                    f'whatever was filed with it. Summarise the package.')
     return '\n'.join(meta) + '\n\nENGLISH TRANSLATION:\n' + en
 
 
 def params(rec, en, model=None):
     return dict(model=model or T.MODEL, max_tokens=MAX_TOKENS,
-                system=[{'type': 'text', 'text': (SYSTEM_DE if LANG == 'de' else SYSTEM),
+                system=[{'type': 'text', 'text': system_prompt(),
                          'cache_control': {'type': 'ephemeral'}}],
                 tools=[TOOL], tool_choice={'type': 'tool', 'name': 'submit_summary'},
                 messages=[{'role': 'user', 'content': user_block(rec, en)}])
@@ -155,13 +186,26 @@ def save(lid, summary, usage, model):
 
 
 def build():
-    """Assemble the per-letter files into the one data file the site reads."""
-    done = load_done()
-    if not done:
+    """Assemble the per-document files into the one data file the site reads.
+
+    Every unit, not just the one this run was scoped to. The destination is a
+    single project-wide file, so assembling it from a scoped cache walk wrote a
+    file containing one holding and silently dropped the other 313 summaries.
+    The cache filename is the pad, and is the only identifier in these files
+    that carries the unit - the `pad` recorded inside the older ones predates
+    unit namespacing.
+    """
+    if not os.path.isdir(OUT):
         sys.exit('nothing to build - run the summariser first')
-    # Key by the unit's pad, recomputed from the letter id: the 'pad' stored
-    # in an older cache file predates unit namespacing.
-    out = {T.pad(d['letter']): d['summary'].strip() for d in done.values()}
+    out = {}
+    for fn in sorted(os.listdir(OUT)):
+        if not fn.endswith('.json') or fn.startswith('_'):
+            continue
+        d = json.load(open(os.path.join(OUT, fn), encoding='utf-8'))
+        if d.get('summary'):
+            out[os.path.splitext(fn)[0]] = d['summary'].strip()
+    if not out:
+        sys.exit('nothing to build - run the summariser first')
     os.makedirs(os.path.dirname(DEST), exist_ok=True)
     with open(DEST, 'w', encoding='utf-8', newline='\n') as f:
         f.write('# Generated by summarise.py from the English translations.\n'
@@ -182,13 +226,16 @@ def main():
     ap.add_argument('--model', default=None)
     ap.add_argument('--lang', default='en', choices=sorted(LANGS))
     a = ap.parse_args()
+    set_unit(unitlib.resolve_unit(a.unit))
     set_lang(a.lang)
 
     if a.build:
         build()
         return
 
-    recs = {str(r['letter_id']): r for r in T.load_letters()}
+    # Keyed by pad: the archive's number is unique only inside its holding, and
+    # the cache directory holds every holding's translations at once.
+    recs = {r['pad']: r for r in T.load_letters()}
 
     if a.collect:
         client = T.make_client()
@@ -230,7 +277,9 @@ def main():
 
     done = load_done()
     todo = []
-    for fn in sorted(os.listdir(RAW)):
+    # The translation cache is one flat directory for the whole project, and the
+    # filename is the only identifier in it that carries the unit.
+    for fn in unitlib.scope_to_unit(sorted(os.listdir(RAW)), UNIT_SLUG):
         if not fn.endswith('.json') or fn.startswith('_'):
             continue
         d = json.load(open(os.path.join(RAW, fn), encoding='utf-8'))
@@ -238,7 +287,7 @@ def main():
         if lid in done:
             continue
         en = english_of(d)
-        rec = recs.get(lid)
+        rec = recs.get(os.path.splitext(fn)[0])
         if not en or not rec:
             continue
         todo.append((lid, rec, en))
@@ -249,7 +298,9 @@ def main():
     if a.dry_run:
         if todo:
             lid, rec, en = todo[0]
-            print(f'system: {len(SYSTEM_DE if LANG == "de" else SYSTEM):,} chars (cached)')
+            print(f'system: {len(system_prompt()):,} chars (cached)')
+            print('\n--- system ---')
+            print(system_prompt())
             print('\n--- first request ---')
             print(user_block(rec, en)[:900])
         return

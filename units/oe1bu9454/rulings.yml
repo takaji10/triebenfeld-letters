@@ -148,6 +148,14 @@ documents:
 
   # Same document, transcribed twice. Both copies are kept unaltered: comparing
   # them is the only direct evidence in the corpus of where transcription fails.
+  # Documents not in the German of the rest of the holding. 72e is the Polish
+  # duplicate of the German 72d; 283 is a French letter from a Congress
+  # correspondent. This lived in pipeline/translate/translate.py as a constant,
+  # where it was invisible to everything else and belonged to no unit.
+  language:
+    "72e": "pl"
+    "283": "fr"
+
   duplicate_of:
     "302": "48"
     "72e": "72d"

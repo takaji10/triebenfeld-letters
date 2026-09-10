@@ -288,6 +288,13 @@ ol.dip li::marker {
 
 .text-view[data-view="reading"] p,
 .text-view[data-view="translation"] p { max-width: var(--measure); }
+
+/* Paragraphs in the reading view. The reading text never crosses a page break,
+   so a paragraph that began on the previous page starts again here; .runs-on
+   marks that and drops the opening indent, so the page turn does not read as a
+   new paragraph. */
+.text-view[data-view="reading"] p + p { margin-top: 0; text-indent: 1.4em; }
+.text-view[data-view="reading"] p.runs-on { text-indent: 0; }
 /* The page image itself. */
 .scan-link { display: block; text-decoration: none; }
 img.scan {

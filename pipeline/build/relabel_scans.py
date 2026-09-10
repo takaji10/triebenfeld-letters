@@ -40,7 +40,11 @@ MAP = os.path.join(UNIT.dir, 'page_scan_map.csv')
 DECISIONS = os.path.join(UNIT.dir, 'scan_decisions.json')
 RENAME_MAP = os.path.join(UNIT.dir, 'scan_rename_map.json')
 
-STEM = re.compile(r'^(Oe_1_Bu_9454_\d{4}_[a-h]\d?)(?:-[^.]*)?\.jpg$')
+# Built from the unit's own ascii_prefix. pages/ is shared by every holding, so
+# this pattern is what scopes a run to its own files: another unit's images do
+# not match, and are neither relabelled nor reported missing.
+STEM = re.compile(r'^(' + re.escape(UNIT.ascii_prefix)
+                  + r'_\d{4}_[a-h]\d?)(?:-[^.]*)?\.jpg$')
 SUFFIX = {'front_matter': 'front', 'dropped': 'notapage',
           'image_no_text': 'notext', 'beyond_last_page': 'unplaced'}
 
@@ -64,7 +68,8 @@ def main():
             label = SUFFIX.get(r['status'], 'unplaced')
         want[img] = f'{m.group(1)}-{label}.jpg'
 
-    on_disk = {f for f in os.listdir(PAGES) if f.lower().endswith('.jpg')}
+    on_disk = {f for f in os.listdir(PAGES)
+               if f.lower().endswith('.jpg') and STEM.match(f)}
     missing = on_disk - set(want)
     if missing:
         print(f'  {len(missing)} file(s) in pages/ are absent from the mapping: '
@@ -115,8 +120,12 @@ def main():
         print('updated scan_rename_map.json (originals -> current names)')
 
     if os.path.isdir(DERIV):
+        # Scoped to this unit. site/assets/scans/ holds every holding's
+        # derivatives, and `want` only ever describes this one, so an unscoped
+        # sweep here would delete another unit's published scans.
         gone = [f for f in os.listdir(DERIV)
-                if f.lower().endswith('.jpg') and f not in set(want.values())]
+                if f.lower().endswith('.jpg') and STEM.match(f)
+                and f not in set(want.values())]
         for f in gone:
             os.remove(os.path.join(DERIV, f))
         print(f'pruned {len(gone)} stale derivative(s) - '

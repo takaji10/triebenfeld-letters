@@ -41,6 +41,7 @@ import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
+import unitlib
 import io, os, re, sys, csv, json, random, argparse
 
 import yaml
@@ -113,6 +114,37 @@ def page_source(rec, page_no):
         if p['page'] == page_no:
             return p.get('reading') or p.get('diplomatic') or ''
     return ''
+
+
+# Words that carry none of a rendering's identity. "Your Most Serene Highness"
+# and "His Most Serene Highness" are the same term of art; the deeds refer to
+# the Fürst in the third person where the letters address him in the second,
+# and a check keyed on the pronoun raised 26 rows saying so.
+_EMPTY = {'your', 'his', 'her', 'their', 'our', 'the', 'a', 'an', 'of', 'and',
+          'in', 'on', 'to', 'for', 'most', 'by'}
+
+
+def rendering_present(want, en):
+    """Is the agreed English rendering there, allowing for inflection?
+
+    The old test looked for the rendering's first characters verbatim, so
+    `dismemberment` was reported missing from a page reading "dismembered",
+    `propination rights` from one reading "propination lessee", and every
+    third-person honorific from every deed in the volume. Those are not drift.
+
+    A rendering counts as present when each of its content words appears in
+    some inflected form - matched on a stem, so `lease` finds `leased` but not
+    `least`. Drift that matters - a term rendered by a different English word
+    altogether - still raises its row.
+    """
+    words = [w for w in re.findall(r"[^\W\d_]+", want) if w.lower() not in _EMPTY]
+    if not words:                       # a rendering of nothing but stopwords
+        words = re.findall(r"[^\W\d_]+", want)
+    for w in words:
+        stem = w[:max(4, len(w) - 3)]
+        if not re.search(r'\b' + re.escape(stem), en, re.I):
+            return False
+    return True
 
 
 def check_letter(rec, out, glossary, canon, rng):
@@ -215,7 +247,7 @@ def check_letter(rec, out, glossary, canon, rng):
             for e in glossary[sect]:
                 if re.search(e['pattern'], de, re.I):
                     want = e['render']
-                    if not re.search(re.escape(want[:max(4, len(want) - 3)]), en, re.I):
+                    if not rendering_present(want, en):
                         rows.append(dict(kind='glossary-mismatch', page=n,
                                          german=e['term'], english=want,
                                          note='termbase rendering not found in the English'))
@@ -296,12 +328,21 @@ def main():
     ap.add_argument('--letters', default='')
     ap.add_argument('--tag', default=None)
     a = ap.parse_args()
+    a.unit = unitlib.resolve_unit(a.unit)
+    # review sheets belong to their unit, not to the project
+    globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
+    globals()['REPORT'] = os.path.join(unitlib.review_dir(a.unit), 'translation_report.md')
+    globals()['NOTES'] = os.path.join(unitlib.review_dir(a.unit), 'transcription_candidates.csv')
+    globals()['INFO'] = os.path.join(unitlib.review_dir(a.unit), 'translation_annotations.csv')
 
     src = os.path.join(ROOT, 'cache', 'translation-raw' + (f'-{a.tag}' if a.tag else ''))
     if not os.path.isdir(src):
         sys.exit(f'no translations at {src} - run translate.py first')
 
-    recs = {str(r['letter_id']): r for r in
+    # Keyed by pad, not by letter_id: the archive's own number is unique only
+    # inside its holding, and both units have a document 2. Keying on the bare
+    # number checked every deed against the letter of the same number.
+    recs = {r['pad']: r for r in
             json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))}
     glossary = yaml.safe_load(open(os.path.join(ROOT, 'reference', 'translation_glossary.yml'),
                                    encoding='utf-8'))
@@ -310,28 +351,31 @@ def main():
     want = {x.strip() for x in a.letters.split(',') if x.strip()}
 
     all_rows, per_letter, blocked = [], {}, set()
-    for fn in sorted(os.listdir(src)):
+    for fn in unitlib.scope_to_unit(sorted(os.listdir(src)), a.unit):
         if not fn.endswith('.json') or fn.startswith('_'):
             continue
         out = json.load(open(os.path.join(src, fn), encoding='utf-8'))
         lid = str(out.get('letter'))
+        # the filename is the pad, and is the only identifier in a cache file
+        # that carries its unit
+        pad = os.path.splitext(fn)[0]
         if want and lid not in want:
             continue
-        rec = recs.get(lid)
+        rec = recs.get(pad)
         if rec is None:
             continue
-        rng = random.Random(f'spotcheck-{lid}')       # seeded: reproducible probes
+        rng = random.Random(f'spotcheck-{pad}')       # seeded: reproducible probes
         rows, stats = check_letter(rec, out, glossary, canon, rng)
         rows = [r for r in rows
-                if f"{lid}|{r['page']}|{r['kind']}|{r['german']}" not in cleared]
+                if f"{pad}|{r['page']}|{r['kind']}|{r['german']}" not in cleared]
         for r in rows:
-            r['pad'] = out.get('pad', lid)
+            r['pad'] = pad
             r['letter'] = lid
             r['ruling'] = ''
         if any(r['kind'] in ('rare-pair', 'structure') for r in rows):
             blocked.add(lid)
         all_rows.extend(rows)
-        per_letter[lid] = stats
+        per_letter[pad] = stats
 
     # Fold in the second witness's meaning-level disagreements, if one has been
     # run. They belong in the same sheet: one place to look, not two.

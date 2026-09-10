@@ -31,6 +31,7 @@ import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
+import unitlib
 import io, os, re, sys, json, argparse
 
 import yaml
@@ -63,6 +64,11 @@ def overlap(a, b):
     return len(wa & wb) / min(len(wa), len(wb)) >= 0.5
 
 
+# The unit this run is scoped to. load_witness() walks the shared cache and
+# does not see the parsed arguments, so the flag is carried here.
+UNIT_SLUG = ''
+
+
 def load_witness(tag):
     """Load a witness, skipping any letter whose result came back malformed.
 
@@ -73,7 +79,7 @@ def load_witness(tag):
     out, skipped = {}, []
     if not os.path.isdir(d):
         return out
-    for fn in sorted(os.listdir(d)):
+    for fn in unitlib.scope_to_unit(sorted(os.listdir(d)), UNIT_SLUG):
         if not fn.endswith('.json') or fn.startswith('_'):
             continue
         rec = json.load(open(os.path.join(d, fn), encoding='utf-8'))
@@ -94,6 +100,11 @@ def main():
     ap.add_argument('--a', default=None, help='tag of the first witness (default: none)')
     ap.add_argument('--b', default='B', help='tag of the second witness')
     args = ap.parse_args()
+    args.unit = unitlib.resolve_unit(args.unit)
+    # review sheets belong to their unit, not to the project
+    globals()['OUT'] = os.path.join(unitlib.review_dir(args.unit), 'translation_divergence.json')
+    globals()['REPORT'] = os.path.join(unitlib.review_dir(args.unit), 'translation_divergence.md')
+    globals()['UNIT_SLUG'] = args.unit
 
     A, B = load_witness(args.a), load_witness(args.b)
     if not B:

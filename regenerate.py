@@ -39,6 +39,10 @@ PER_UNIT = [
 MERGED = [
     ('pipeline/build/merge_corpus.py', 'merge units',
      'corpus/letters.json and friends, every unit together'),
+    # The dataset is built first: it writes the per-document files, and the
+    # website and the verifier both read those rather than the merged array.
+    ('pipeline/build/build_dataset.py', 'queryable dataset',
+     'corpus/index/ and corpus/documents/ - what a research agent reads'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
 ]
@@ -49,7 +53,8 @@ MERGED = [
 POST_UNIT = [('pipeline/build/relabel_scans.py', 'scan filename labels',
               'checks the -L<letter>_<page> labels still match the mapping')]
 
-KEEP = ('pages:', 'records:', 'VERIFY', 'transcript pages', 'images assigned',
+KEEP = ('documents/', 'text/', 'people ', 'places ', 'dates ', 'relations ',
+        'uncertainty ', 'pages:', 'records:', 'VERIFY', 'transcript pages', 'images assigned',
         'images unassigned', 'accounting', 'no image used twice',
         'capture order', 'pages with no image', 'decisions:', 'confidence:',
         'captures ', 'wrote ', 'letter pages checked', 'manuscript pages',

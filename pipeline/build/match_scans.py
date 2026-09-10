@@ -6,7 +6,7 @@ Each image is one manuscript page. Blank pages (blank versos, unused spread
 halves) were deliberately deleted before this ran, so gaps in the filename
 sequence are expected and are NOT treated as errors.
 
-Filename grammar:  Oe 1_Bü 9454_NNNN_<crop><half>.jpg
+Filename grammar:  <ascii_prefix>_NNNN_<crop><half>.jpg
     NNNN     the camera capture
     crop     a = leftmost document in the capture, b = next, ...
     half     1 = left page of an opened spread, 2 = right page (absent if not split)
@@ -26,6 +26,8 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
 
 import io, sys, os, re, csv, json
 from collections import defaultdict, Counter
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from corpus_pages import PAGE_TAG
 import unitlib
 import sys
 
@@ -40,12 +42,50 @@ PAGES_DIR = os.path.join(ROOT, 'pages')
 #   <signature>_<capture>_<crop><half>-<L{letter}_{page}|front|notext|notapage>
 # The trailing part is a convenience label; the capture and crop still carry the
 # archival identity, and scan_rename_map.json records the original names.
-FN = re.compile(r'^(Oe_1_Bu_9454)_(\d{4})_([a-h])(\d?)(?:-[^.]*)?\.jpg$')
+#
+# The signature is the unit's own ascii_prefix, not a constant: pages/ is one
+# flat folder shared by every holding, so this pattern is also what scopes a run
+# to its own images. A second unit's files simply do not match and are invisible
+# here, which is what keeps one holding's scans off another's transcript pages.
+FN = re.compile(r'^(' + re.escape(UNIT.ascii_prefix)
+                + r')_(\d{4})_([a-h])(\d?)(?:-[^.]*)?\.jpg$')
 
 # Letter 303, the liquidation register, was originally assumed to be from a
 # separate source. The scans show otherwise: the trailing captures of the
 # Büschel are its own pages, so it takes images like any other document.
 NOT_IN_BUESCHEL = set()
+
+
+def front_matter_page_ids():
+    """Page ids declared before the first [DOC ...] tag.
+
+    A volume's title page belongs to no document, so build_db never emits it as
+    a page of any record and there is no slot here to pair it against. Without
+    this it falls through to the leftover pile as `beyond_last_page`, which is
+    both wrong and enough to break the ordering check, since the first image in
+    the folder then sits at the end of the mapping.
+    """
+    out = []
+    with open(UNIT.corpus_path, encoding='utf-8') as f:
+        for line in f:
+            s = line.strip()
+            if s.startswith('[DOC '):
+                break
+            m = PAGE_TAG.match(s)
+            if m:
+                out.append(m.group(1))
+    return out
+
+
+def page_id_of(filename):
+    """'Oe_1_Bu_14526_0011_a1-L7_03.jpg' -> '0011_a1', or None.
+
+    The capture and the crop are the page's archival identity. The trailing
+    label is derived from the mapping and changes whenever the mapping does, so
+    it is deliberately not part of the id.
+    """
+    m = FN.match(filename)
+    return f'{m.group(2)}_{m.group(3)}{m.group(4)}' if m else None
 
 
 def letter_key(lid):
@@ -120,7 +160,10 @@ def load_captures():
             continue
         m = FN.match(f)
         if not m:
-            unparsed.append(f)
+            # Another holding's image, or one of ours that will not parse. Only
+            # the second is a problem worth reporting.
+            if f.startswith(UNIT.ascii_prefix + '_'):
+                unparsed.append(f)
             continue
         by_num[int(m.group(2))].append((m.group(3), m.group(4) or '', f))
     caps = []
@@ -252,7 +295,50 @@ def main():
     # letter 9 does - so assuming otherwise silently shifts every later pairing.
     pairs = {k: v for k, v in dec['pairs'].items() if v in present}
     gaps = set(dec['gaps'])
-    spoken_for = set(pairs.values())
+
+    # A corpus that carries [PAGE ...] markers has already said which image each
+    # page came from, so there is nothing here to infer. by_page_id resolves a
+    # declared id to the file currently carrying it, whatever label that file
+    # has picked up since.
+    by_page_id = {}
+    for f in present:
+        pid = page_id_of(f)
+        if pid:
+            by_page_id.setdefault(pid, f)
+    declared = {}
+    unresolved = []
+    for (r, p, _pi, _n) in slots:
+        pid = p.get('page_id') or ''
+        if not pid:
+            continue
+        key = f"{r['letter_id']}/{p['page']}"
+        if pid in by_page_id:
+            declared[key] = by_page_id[pid]
+        else:
+            unresolved.append((key, pid))
+    if declared:
+        print(f'  declared pages: {len(declared)} of {len(slots)} '
+              f'paired from [PAGE ...] markers')
+    if unresolved:
+        print(f'  WARNING: {len(unresolved)} declared page(s) name an image that '
+              f'is not in pages/: {unresolved[:5]}')
+    # A recorded pairing is a human who looked at the scans, so it still wins -
+    # but a disagreement means one of the two is wrong and must not pass quietly.
+    clash = [k for k, v in declared.items() if k in pairs and pairs[k] != v]
+    if clash:
+        print(f'  WARNING: {len(clash)} page(s) where the recorded pairing and the '
+              f'[PAGE ...] marker disagree; the recorded one is used: {clash[:5]}')
+
+    # A page declared before the first [DOC ...] is front matter: it is on the
+    # image but belongs to no document, so it gets its own row rather than
+    # falling through to the leftover pile.
+    front_declared = [by_page_id[pid] for pid in front_matter_page_ids()
+                      if pid in by_page_id]
+    if front_declared:
+        print(f'  front matter: {len(front_declared)} page(s) declared before the '
+              f'first document')
+
+    spoken_for = set(pairs.values()) | set(declared.values()) | set(front_declared)
     spare = [f for f in all_imgs if f not in spoken_for]
 
     rows = []
@@ -261,6 +347,8 @@ def main():
         key = f"{r['letter_id']}/{p['page']}"
         if key in pairs:
             img, status = pairs[key], 'reviewed'
+        elif key in declared:
+            img, status = declared[key], 'declared'
         elif key in gaps:
             img, status = '', 'gap'
         else:
@@ -274,7 +362,7 @@ def main():
             'n_lines': p['n_lines'],
             'image': img,
             'status': status,
-            'confidence': 'ok' if status == 'reviewed' else 'check',
+            'confidence': 'ok' if status in ('reviewed', 'declared') else 'check',
             'note': note,
             'hint': page_hint(p) if pi > 0 else '',
             'text': p['diplomatic'],
@@ -290,7 +378,8 @@ def main():
     # Images set aside by a recorded decision - kept visible, never dropped from
     # the record.
     for img, st, note in (
-            [(f, 'front_matter', 'not part of any letter') for f in dec['front_matter']]
+            [(f, 'front_matter', 'not part of any letter')
+             for f in list(dict.fromkeys(list(dec['front_matter']) + front_declared))]
             + [(f, 'dropped', 'not a manuscript page') for f in dec['dropped']]
             + [(f, 'image_no_text', 'no transcribed text') for f in notext]):
         if img in present:
@@ -483,7 +572,21 @@ def verify(rows, present, expected_order, recs):
     """
     print('\n--- verification ---')
     seen = [r['image'] for r in rows if r['image']]
-    dupes = [k for k, v in Counter(seen).items() if v > 1]
+    # One image may legitimately carry two transcript pages: where a document
+    # ends partway down a page and the next begins on the same leaf, both
+    # documents cite that leaf, and the corpus repeats its [PAGE ...] marker to
+    # say so. Those rows are always adjacent. Any other repeat is still an
+    # error - it means one image has been handed to two unrelated pages.
+    where = defaultdict(list)
+    for i, r in enumerate(rows):
+        if r['image']:
+            where[r['image']].append(i)
+    split_pages = [k for k, v in where.items()
+                   if len(v) > 1 and all(b - a == 1 for a, b in zip(v, v[1:]))]
+    dupes = [k for k, v in where.items() if len(v) > 1 and k not in split_pages]
+    if split_pages:
+        print(f'pages split by a document boundary: {len(split_pages)} '
+              f'(one leaf, two documents)')
     page_rows = [r for r in rows if r['page'] != '']
     paired = [r['image'] for r in rows if r['image'] and r['page'] != '']
 

@@ -11,7 +11,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from corpus_pages import build_pages, load_decisions
+from corpus_pages import build_pages, load_decisions, PAGE_TAG
 import unitlib
 import sys
 
@@ -27,7 +27,7 @@ SRC = UNIT.corpus_path
 with open(SRC, encoding='utf-8') as f:
     lines = f.read().split('\n')
 
-tag = re.compile(r'^\[LETTER (\w+)\]$')
+tag = re.compile(r'^\[DOC (\w+)\]$')
 pos = {}
 for i, l in enumerate(lines):
     m = tag.match(l.strip())
@@ -93,13 +93,16 @@ PLACE_CANON     = _R['PLACE_CANON']
 PLACE_REJECT    = _R['PLACE_REJECT']
 PLACE_OVERRIDE  = _R['PLACE_OVERRIDE']
 SUPPLIED        = _R['SUPPLIED']
+DATE_READ       = _R['DATE_READ']
 TWIN            = _R['TWIN']
 NO_DATE         = _R['NO_DATE']
 DOC_TYPE        = _R['DOC_TYPE']
+DOC_LANGUAGE    = _R['DOC_LANGUAGE']
 INFERRED        = _R['INFERRED']
 DUP_OF          = _R['DUP_OF']
 SPLIT_NOTE      = _R['SPLIT_NOTE']
 DAMAGE_LETTERS  = _R['DAMAGE_LETTERS']
+RELATIONS       = _R['RELATIONS']
 # Readings too corrupt to be a place. Blanked and sent to the review list.
 
 # Your rulings. These win over anything derived.
@@ -273,29 +276,69 @@ def iso(y, m, d):
     except ValueError: return f"{y:04d}-{m:02d}"
 
 DECISIONS = load_decisions(os.path.join(UNIT.dir, 'linebreak_decisions.csv'))
+
+
+def load_paragraphs(path):
+    """Absolute line numbers that begin a paragraph, from resolve_paragraphs.py.
+
+    Absent file means no paragraph structure yet: every page then comes back as
+    one block, exactly as it did before this existed.
+    """
+    out = set()
+    if not os.path.isfile(path):
+        return out
+    import csv as _csv
+    with open(path, encoding='utf-8-sig', newline='') as f:
+        for row in _csv.DictReader(f):
+            if (row.get('decision') or '').strip() == 'break':
+                try:
+                    out.add(int(row['line']))
+                except (KeyError, ValueError):
+                    pass
+    return out
+
+
+PARAS = load_paragraphs(os.path.join(UNIT.dir, 'paragraph_decisions.csv'))
+print(f'paragraph breaks loaded: {len(PARAS)}')
 print(f"line-break decisions loaded: {len(DECISIONS)}")
 
 records = []
 PLACE_TRACE = []   # (letter_id, place, how) - feeds place_review.md
 for L in nums:
     s, e = bounds[L]
-    body = [lines[j-1] for j in range(s+1, e+1)]
+    # A [PAGE ...] marker declares which manuscript page the lines below it came
+    # from. It is structure, not transcription, so it is stripped out of the
+    # archival text here and never reaches the record, the site or the exports;
+    # split_pages() has already read it by the time this matters.
+    body = [l for l in (lines[j-1] for j in range(s+1, e+1))
+            if not PAGE_TAG.match(l.strip())]
     text = '\n'.join(body).strip('\n')
     # Page structure: (abs_line_no, text) so every page keeps its archival range.
     numbered = [(j, lines[j-1]) for j in range(s+1, e+1)]
     pages = build_pages(numbered, L, DECISIONS,
-                        is_register=(DOC_TYPE.get(L, 'letter') == 'register'))
+                        is_register=(DOC_TYPE.get(L, 'letter') == 'register'),
+                        paras=PARAS)
     text_reading = '\n\n'.join(p['reading'] for p in pages if p['reading'])
     missing = text.strip() == '(missing)' or text.strip() == '(skipped)'
     y = m = d = None; prec = 'unknown'; srcv = 'none'; basis = ''; dline = ''
     if L in NO_DATE:
         prec, srcv = 'unknown', 'none'
-        basis = ('register/ledger document, no date given in the source' if L == '303'
-                  else 'letter missing/skipped in the archive')
+        # Derived from the document's own kind, not from its number: L == '303'
+        # named one holding's register and said nothing about any other.
+        basis = ('register/ledger document, no date given in the source'
+                 if DOC_TYPE.get(L) == 'register'
+                 else 'letter missing/skipped in the archive')
     elif L in SUPPLIED:
         y, m, d, prec = SUPPLIED[L]; srcv = 'supplied'; basis = 'supplied by researcher'
+    elif L in DATE_READ:
+        y, m, d, prec = DATE_READ[L]; srcv = 'dateline'
+        basis = "read from the document's own dateline"
     elif L in TWIN:
-        y, m, d, prec = TWIN[L]; srcv = 'twin'; basis = 'same document as letter 48'
+        y, m, d, prec = TWIN[L]; srcv = 'twin'
+        # Name the actual twin. This used to read "same document as letter 48"
+        # for every twinned date in the project.
+        _tw = DUP_OF.get(L) or next((k for k, v in DUP_OF.items() if v == L), '')
+        basis = f'same document as {_tw}' if _tw else 'same document as its duplicate'
     elif L in INFERRED:
         y, m, d, prec, basis = INFERRED[L]; srcv = 'inferred'
     else:
@@ -315,7 +358,12 @@ for L in nums:
         permalink=UNIT.permalink(L),
         doc_type=DOC_TYPE.get(L, 'letter'),
         date_iso=iso(y,m,d), date_precision=prec, date_source=srcv,
-        date_display=(f"[{iso(y,m,d)}]" if srcv in ('inferred','supplied','twin') else dline),
+        # Brackets mean "not read from the document". A `dateline` date WAS
+        # read from it - the parser simply could not reach it - so it shows
+        # plain. Without this branch it fell through to `dline`, which is empty
+        # for those, and every such document announced itself as undated.
+        date_display=(f"[{iso(y,m,d)}]" if srcv in ('inferred', 'supplied', 'twin')
+                      else (iso(y, m, d) if srcv == 'dateline' else dline)),
         date_inferred_from=(basis or note),
         year=y or '', month=m or '', day=d or '',
         place=place,
@@ -324,7 +372,11 @@ for L in nums:
         line_start=s, line_end=e,
         uncertainty_count=unc,
         has_damage=int('[...]' in '\n'.join(body) or L in DAMAGE_LETTERS),
+        language=DOC_LANGUAGE.get(L, 'de'),
         duplicate_of=DUP_OF.get(L, ''),
+        # Typed links to other documents in this holding. Editorial assertions,
+        # each recorded in rulings.yml with the evidence for it.
+        relations=RELATIONS.get(L, []),
         is_missing=int(missing),
         n_lines=len(body), n_pages=len(pages),
         text=text, text_reading=text_reading, pages=pages))
@@ -366,7 +418,7 @@ with open(os.path.join(UNIT_OUT, 'reading.txt'),'w',
     f.write("labelled with its line range in the archival file, which stays canonical.\n")
     f.write("Do not edit this file - edit the archival text or linebreak_decisions.csv.\n\n\n")
     for r in records:
-        f.write(f"[LETTER {r['letter_id']}]")
+        f.write(f"[DOC {r['letter_id']}]")
         if r['date_iso']: f.write(f"  {r['date_iso']}")
         if r['place']: f.write(f"  {r['place']}")
         f.write("\n")
@@ -393,7 +445,7 @@ chron = sorted(records, key=sortkey)
 with open(os.path.join(UNIT_OUT, 'chronological.txt'),'w',
           encoding='utf-8',newline='\n') as f:
     f.write("von Triebenfeld / Hohenlohe-Ingelfingen correspondence - CHRONOLOGICAL ORDER\n")
-    f.write("Derived from the archival-order file. [LETTER n] = archival number (citation key).\n")
+    f.write("Derived from the archival-order file. [DOC n] = archival number (citation key).\n")
     f.write("Dates in [brackets] are supplied or inferred, not read from the letter.\n\n\n")
     # carry over the original title page (sits before letter 1, so outside all bounds)
     front = '\n'.join(lines[:pos[nums[0]]-1]).strip('\n')
@@ -403,7 +455,7 @@ with open(os.path.join(UNIT_OUT, 'chronological.txt'),'w',
         disp = r['date_display'] if r['date_display'] else '(no date)'
         if r['date_source'] == 'signature' and r['date_iso']:
             disp = r['date_iso'] + '  |  ' + r['date_display']
-        f.write(f"[LETTER {r['letter_id']}]  {disp}\n")
+        f.write(f"[DOC {r['letter_id']}]  {disp}\n")
         f.write(r['text'] + "\n\n\n")
 print("wrote letters.csv / letters.json / parsed_dates_review.csv / chronological.txt")
 
@@ -411,7 +463,9 @@ print("wrote letters.csv / letters.json / parsed_dates_review.csv / chronologica
 def content(fn):
     with open(fn, encoding='utf-8') as fh:
         return sorted(l.strip() for l in fh
-                      if l.strip() and not re.match(r'^\[LETTER \w+\]', l.strip()))
+                      if l.strip()
+                      and not re.match(r'^\[DOC \w+\]', l.strip())
+                      and not PAGE_TAG.match(l.strip()))
 a = content(SRC)
 b = content(os.path.join(UNIT_OUT, 'chronological.txt'))
 b = [x for x in b if not x.startswith(('von Triebenfeld / Hohenlohe','Derived from the archival',
@@ -475,12 +529,27 @@ for r in records:
         bad_pages += 1
         print(f"  PAGE MISMATCH letter {r['letter_id']}")
     for p in r['pages']:
-        has_catchword = any(DECISIONS.get((r['letter_id'], ln)) == 'catchword'
-                            for ln in range(p['line_start'], p['line_end'] + 1))
-        if has_catchword:
+        # A catchword is dropped from the reading text on purpose, so the page
+        # cannot be compared as it stands. Where the catchword is a whole line -
+        # the unmarked kind - we know exactly what was dropped and can take it
+        # off the archival side too, which keeps the page inside the check. Only
+        # the marked kind, where part of a line goes, is still exempt: there the
+        # fragment cannot be reconstructed from the decision alone.
+        dip_lines, exempt = [], False
+        for ln, txt in zip(range(p['line_start'], p['line_end'] + 1),
+                           p['diplomatic'].split('\n')):
+            if DECISIONS.get((r['letter_id'], ln)) != 'catchword':
+                dip_lines.append(txt)
+                continue
+            t = txt.rstrip()
+            if t.endswith('¬') or (re.search(r'\w-$', t) and not t.endswith('--')):
+                exempt = True             # marked: part of a line goes
+                break
+            # unmarked: the whole line goes, so simply leave it out
+        if exempt:
             catchword_pages += 1
-            continue                      # a fragment is dropped by design
-        if alpha(p['diplomatic']) != alpha(p['reading']):
+            continue
+        if alpha('\n'.join(dip_lines)) != alpha(p['reading']):
             bad_reading += 1
             if bad_reading <= 5:
                 print(f"  READING MISMATCH letter {r['letter_id']} page {p['page']}")
@@ -523,5 +592,9 @@ assert bad_reading == 0, "reading copy altered the text"
 print(f"\nVERIFY archival content lines : {len(a)}")
 print(f"VERIFY chronological lines    : {len(b)}")
 print(f"VERIFY identical content      : {a == b}")
-json.dump({str(r['letter_id']): r['date_iso'] for r in records},
-          open('final_dates.json','w',encoding='utf-8'))
+# Convenience dump for hand checking. Keyed by uid and written under the
+# unit's own review folder: it used to be keyed by archival number and dropped
+# in whatever directory the build happened to run from, which two units share.
+json.dump({r['uid']: r['date_iso'] for r in records},
+          open(os.path.join(UNIT_REVIEW, "final_dates.json"), 'w', encoding='utf-8'),
+          ensure_ascii=False, indent=1)

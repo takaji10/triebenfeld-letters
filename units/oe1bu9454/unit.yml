@@ -29,7 +29,7 @@ scans:
   #   Oe 1_Bü 9454_0343_a1.jpg  ->  Oe_1_Bu_9454_0343_a1-L179a_04.jpg
   ascii_prefix: Oe_1_Bu_9454
 
-# The transcription. Documents are delimited by [LETTER N] on its own line.
+# The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt
 
 # For the reader: shown on the unit's provenance page.
@@ -37,3 +37,10 @@ description: >-
   The main correspondence file. Eighteen years of letters from the estate agent
   Peter Friedrich von Triebenfeld to his employer, with enclosures, legal
   instruments and copies of correspondence with third parties.
+
+# The convention-setting sample for translate.py --pilot. Deliberately spans
+# the range rather than picking easy documents: clean late letters, known-bad
+# ones, both non-German documents, and the 48/302 twin - the only document here
+# with two witnesses. A property of this holding, so it lives with it.
+translation_pilot: ["48", "302", "136", "291", "17", "72e", "283", "290",
+                    "297", "3", "215", "247"]

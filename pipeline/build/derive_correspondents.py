@@ -36,7 +36,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNIT = unitlib.one_unit(unitlib.unit_arg())
 OUT = os.path.join(UNIT.dir, 'correspondents.json')
-SHEET = os.path.join(ROOT, 'review', 'correspondents_review.csv')
+SHEET = os.path.join(ROOT, 'review', UNIT.slug, 'correspondents_review.csv')
 
 PRINCE = 'Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen'
 AGENT = 'von Triebenfeld'
@@ -143,7 +143,12 @@ def derive(rec):
 
 
 def main():
-    recs = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    recs = unitlib.load_documents(ROOT)
+    # Scoped to this unit: the merged file holds every holding, and `out` is
+    # keyed by a bare archival number, so without this one unit's correspondents
+    # land in another's file and documents sharing an id overwrite each other.
+    recs = [r for r in recs if r['unit'] == UNIT.slug]
+    print(f'{UNIT.slug}: {len(recs)} document(s)')
     out, residue = {}, []
     tally = {'high': 0, 'body': 0, 'partial': 0, 'none': 0}
     for r in recs:

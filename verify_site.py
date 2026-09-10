@@ -12,6 +12,7 @@ Run after `jekyll build`. Exits non-zero on any failure.
 """
 import io, sys, os, re, json, html
 from collections import Counter
+import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
@@ -52,9 +53,12 @@ def fail(msg):
 
 
 def main():
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
-        recs = json.load(f)
-    by_id = {r['letter_id']: r for r in recs}
+    # Read the per-document files, which are what the dataset is. Verifying
+    # against the merged array would leave the primary form unchecked.
+    recs = unitlib.load_documents(ROOT)
+    # Keyed by uid: an archival number is unique only within its holding, so
+    # keying by letter_id drops one unit's document 7 on top of another's.
+    by_uid = {r['uid']: r for r in recs}
 
     if not os.path.isdir(SITE):
         print('No _site/ - run `bundle exec jekyll build` in site/ first.')
@@ -64,7 +68,7 @@ def main():
     print('checking letter pages...')
     seen = set()
     total_ms_pages = 0
-    for lid, rec in by_id.items():
+    for lid, rec in by_uid.items():
         # The record carries its own URL, so this follows the unit-scoped
         # permalink rather than assuming a shape.
         rel = rec.get('permalink', f'/letters/{lid}/').strip('/').replace('/', os.sep)
@@ -75,9 +79,13 @@ def main():
         seen.add(lid)
         with open(path, encoding='utf-8') as f:
             page = f.read()
-        # The diplomatic view is one <li> per manuscript line; pulling them back
-        # out must reproduce the corpus's non-blank lines exactly, in order.
-        recovered = [html.unescape(x) for x in re.findall(r'<li>(.*?)</li>', page, re.S)]
+        # The diplomatic view is one <li> per manuscript line, inside
+        # <ol class="dip">. Scope the extraction to those lists: the page also
+        # carries other <li> - the typed relations to other documents - and a
+        # bare <li> match would read them back as if they were transcription.
+        recovered = [html.unescape(x)
+                     for blk in re.findall(r'<ol class="dip"[^>]*>(.*?)</ol>', page, re.S)
+                     for x in re.findall(r'<li>(.*?)</li>', blk, re.S)]
         # The rendered view is the transcription layer: the manuscript's own
         # lines, with line-end marks resolved per the recorded decisions.
         expected = [l for p in rec['pages']
@@ -94,7 +102,7 @@ def main():
         expected_pages = len(rec.get('pages') or [])
         if ms != expected_pages:
             fail(f'letter {lid}: {ms} page sections built, {expected_pages} expected')
-    print(f'  {len(seen)}/{len(by_id)} letters built with exact text')
+    print(f'  {len(seen)}/{len(by_uid)} documents built with exact text')
     print(f'  {total_ms_pages} manuscript page sections')
 
     # ---- 3: internal links -----------------------------------------------
@@ -166,7 +174,7 @@ def main():
         print(f'FAILED - {len(failures)} problem(s)')
         sys.exit(1)
     print('ALL CHECKS PASSED')
-    print(f'  {len(by_id)} documents, text verified character-exact')
+    print(f'  {len(by_uid)} documents, text verified character-exact')
     print(f'  {checked} internal links resolve')
     print('  no external network dependencies')
 

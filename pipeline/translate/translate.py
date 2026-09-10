@@ -49,20 +49,33 @@ GLOSSARY = os.path.join(ROOT, 'reference', 'translation_glossary.yml')
 CORRESPONDENTS = os.path.join(UNIT.dir, 'correspondents.json')
 
 MODEL = 'claude-opus-5'
-MAX_TOKENS = 16000
+MAX_TOKENS = 16000       # floor: enough for any letter in the correspondence
+MAX_TOKENS_CEILING = 32000
 
 # $ per million tokens (input, output), for the run's own cost readout.
 PRICES = {'claude-opus-5': (5, 25), 'claude-fable-5-1': (10, 50),
           'claude-sonnet-5': (2, 10), 'claude-opus-4-8': (5, 25)}
 
-# Documents not in German. 72e is the Polish duplicate of the German 72d;
-# 283 is a French letter from a Congress correspondent.
-LANG = {'72e': 'Polish', '283': 'French'}
+# Language and pilot sample are properties of the holding, not of the
+# translator, and used to sit here as constants naming one unit's documents.
+# They now come from units/<slug>/rulings.yml and units/<slug>/unit.yml.
+LANG_NAME = {'pl': 'Polish', 'fr': 'French', 'la': 'Latin', 'de': 'German',
+             'la,pl': 'Latin and Polish'}
 
-# The convention-setting sample: deliberately spans the range rather than
-# picking easy letters. Clean late letters, known-bad ones, both non-German
-# documents, and the 48/302 twin - the only document with two witnesses.
-PILOT = ['48', '302', '136', '291', '17', '72e', '283', '290', '297', '3', '215', '247']
+
+def _lang_map(unit):
+    """{letter_id: 'Polish'} for documents not in German."""
+    codes = unitlib.load_rulings(unit)['DOC_LANGUAGE']
+    return {k: LANG_NAME.get(v, v) for k, v in codes.items() if v and v != 'de'}
+
+
+def _pilot(unit):
+    """The holding's convention-setting sample, or empty if it declares none."""
+    return [str(x) for x in (unit.get('translation_pilot') or [])]
+
+
+LANG = _lang_map(UNIT)
+PILOT = _pilot(UNIT)
 
 
 # ----------------------------------------------------------------- prompt --
@@ -95,13 +108,36 @@ def glossary_table(g):
     return '\n'.join(out)
 
 
-def build_system(g):
+def unit_preamble(unit):
+    """What this holding is, in its own words.
+
+    The prompt used to open by describing one holding - letters, 1798-1816, one
+    estate agent - and every holding got that description whatever it actually
+    contained. A volume of title deeds from 1766 is not a letter file, and
+    telling the translator it is invites it to render deeds as correspondence.
+    """
+    title = ' '.join((unit.get('title') or '').split())
+    desc = ' '.join((unit.get('description') or '').split())
+    span = unit.get('date_span') or ''
+    ref = unit.get('ref') or unit.slug
+    out = [f'You are translating a scholarly edition of archival documents. This '
+           f'holding is {ref}' + (f', {span}' if span else '') + '.']
+    if title:
+        out.append(title + '.')
+    if desc:
+        out.append(desc)
+    note = ' '.join((unit.get('translation_note') or '').split())
+    if note:
+        out.append('\nWHAT TO WATCH FOR IN THIS HOLDING:\n' + note)
+    return '\n'.join(out)
+
+
+def build_system(g, unit=None):
     return f"""\
-You are translating a scholarly edition of letters written between 1798 and 1816, \
-mostly by a Prussian estate agent, the Kriegs- und Forstrath von Triebenfeld, to \
-his employer Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen. They concern \
-estates in South Prussia and the Duchy of Warsaw, debts, lawsuits, the Napoleonic \
-wars and the Congress of Vienna.
+{unit_preamble(unit) if unit is not None else
+ 'You are translating a scholarly edition of letters written between 1798 and '
+ '1816, mostly by a Prussian estate agent, the Kriegs- und Forstrath von '
+ 'Triebenfeld, to his employer Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen.'}
 
 The German you are given was transcribed from Kurrent handwriting by machine and \
 then corrected by hand over many passes. It is largely sound but it is not \
@@ -309,10 +345,27 @@ def user_block(rec, corr):
             f"segment(s) via the submit_translation tool.\n\n{german_for(rec)}")
 
 
+def budget(rec):
+    """Output budget for one document, from the length of its German.
+
+    A flat 16,000 was a safe ceiling for correspondence, where the longest
+    letter is 18k characters of German and most are a fraction of that. The
+    deeds are packages: document 23 is 21k characters over 26 pages, and it
+    silently truncated - the tool call came back half-written, so nothing
+    parsed and the record saved with zero segments after being paid for.
+
+    Observed ratio across this holding is ~0.87 output tokens per German
+    character; 1.4 leaves room for the model's own notes and the JSON around
+    them.
+    """
+    n = int(len(rec.get('text') or '') * 1.4) + 2000
+    return max(MAX_TOKENS, min(MAX_TOKENS_CEILING, n))
+
+
 def request_params(rec, corr, system, model=None):
     return dict(
         model=model or MODEL,
-        max_tokens=MAX_TOKENS,
+        max_tokens=budget(rec),
         system=[{'type': 'text', 'text': system,
                  'cache_control': {'type': 'ephemeral'}}],
         tools=[TOOL],
@@ -356,11 +409,42 @@ def normalise(payload):
     return payload
 
 
+def normalise_pages(pages, lid=''):
+    """The tool sometimes returns `pages` as a JSON string, not an array.
+
+    It arrives as the text of the array rather than the array itself, and
+    occasionally with the quotes inside nested arrays escaped a second time -
+    `"names": [\\"Breslau\\"]` - which is not valid JSON at that level. Left
+    alone the file is unusable and every downstream tool raises `'str' object
+    has no attribute 'get'` on it, several stages later.
+
+    Recovered here, where the payload is first written, so the damage never
+    reaches the cache. Anything that still will not parse is kept exactly as it
+    came back and reported: a malformed result must not be silently discarded.
+    """
+    if not isinstance(pages, str):
+        return pages
+    for attempt in (pages, pages.replace('\\"', '"')):
+        try:
+            got = json.loads(attempt)
+        except Exception:
+            continue
+        if isinstance(got, list):
+            print(f'  recovered {lid}: `pages` came back as a JSON string '
+                  f'({len(got)} segment(s))')
+            return got
+    print(f'  !! {lid}: `pages` came back as a string and will not parse - '
+          f'kept as received')
+    return pages
+
+
 def save(rec, payload, usage, tag=None, extra=None):
     out = {'letter': str(rec['letter_id']), 'pad': pad(rec['letter_id']),
            'n_pages': len(rec['pages']),
            'model': (extra or {}).get('model', MODEL),
-           'pages': (payload or {}).get('pages', []), 'usage': usage}
+           'pages': normalise_pages((payload or {}).get('pages', []),
+                                    str(rec['letter_id'])),
+           'usage': usage}
     if extra:
         out.update({k: v for k, v in extra.items() if k != 'model'})
     os.makedirs(out_dir(tag), exist_ok=True)
@@ -480,10 +564,20 @@ def run_collect(client, recs_by_id, tag=None):
                 print(f'  {res.custom_id}: {res.result.type}')
                 continue
             msg = res.result.message
+            if getattr(msg, 'stop_reason', None) == 'max_tokens':
+                # the tool call is half-written and will not parse; saving it
+                # would put an empty record in the cache and call it collected
+                print(f'  !! {res.custom_id}: hit the output limit and was '
+                      f'truncated - re-run this one, it did not survive')
+                continue
             payload = extract(msg)
             if payload is None:
                 print(f'  {res.custom_id}: no tool call returned')
                 continue
+            got = len(payload.get('pages') or [])
+            if got != len(rec['pages']):
+                print(f"  !! {res.custom_id}: {got} segment(s) for "
+                      f"{len(rec['pages'])} manuscript page(s)")
             usage = usage_of(msg)
             save(rec, payload, usage, tag,
                  {'model': st.get('model', MODEL), 'batch_id': bid})
@@ -561,7 +655,7 @@ def main():
     recs = load_letters()
     by_id = {str(r['letter_id']): r for r in recs}
     corr = load_correspondents()
-    system = build_system(load_glossary())
+    system = build_system(load_glossary(), UNIT)
 
     if a.check:
         run_check(make_client(), a.model)

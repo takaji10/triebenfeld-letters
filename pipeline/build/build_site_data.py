@@ -2,7 +2,8 @@
 """
 Generate the Jekyll site data from the canonical corpus database.
 
-Reads  : letters.json (the database, itself derived from the canonical .txt)
+Reads  : corpus/documents/ via unitlib.load_documents() (themselves derived
+         from the canonical .txt)
 Writes : site/_letters/*.html          one page per record
          site/_data/*.yml              people, places, stats
          site/assets/search-index.json client-side search + filter index
@@ -37,182 +38,21 @@ DATA_DIR = os.path.join(SITE, '_data')
 ASSETS_DIR = os.path.join(SITE, 'assets')
 
 # ---------------------------------------------------------------- people
-# Canonical names from whos_who.md. Each entry: (slug, display, regex).
-# The regex matches inflected/adjectival forms (Prusimskische, Hawichs, ...)
-# but is anchored at a word start so it can't match inside another word.
-PEOPLE = [
-    # political / military / court
-    ('metternich',     'Metternich',        r'Metternich'),
-    ('talleyrand',     'Talleyrand',        r'Talleyrand'),
-    ('scharnhorst',    'Scharnhorst',       r'Scharnhorst'),
-    ('koeckritz',      'Köckritz',          r'Köckritz'),
-    ('staegemann',     'Stägemann',         r'Stägemann'),
-    ('kircheisen',     'Kircheisen',        r'Kircheisen'),
-    ('voss',           'Voss',              r'Voss'),
-    ('winzingerode',   'Winzingerode',      r'Winzingerode'),
-    ('massenbach',     'Massenbach',        r'Massenbach'),
-    ('hoym',           'Hoym',              r'H[oö]ym'),
-    ('sacken',         'Sacken (Sakken)',   r'Sakken'),
-    ('zastrow',        'Zastrow',           r'Zastrow'),
-    ('humboldt',       'Wilhelm von Humboldt', r'Humboldt'),
-    ('nesselrode',     'Nesselrode',        r'Nesselrode'),
-    ('napoleon',       'Napoleon',          r'Napoleon'),
-    # A surname AND an occupation: L303's register has "der Gärtner Nickel"
-    # (the gardener) beside "der Sattler Hennig". The index cannot separate
-    # them, so the display name says which one is meant.
-    ('gaertner',       'Gärtner (Geh. Rath)', r'Gärtner'),
-    # estate / legal / household
-    ('hawich',         'Hawich',            r'Hawich'),
-    ('honrichs',       'Honrichs',          r'Honrichs'),
-    ('hecker',         'Hecker',            r'Hecker'),
-    ('glenck',         'Glenck',            r'Glenck'),
-    ('cosmar',         'Cosmar',            r'Cosmar'),
-    ('stoessel',       'Stössel',           r'Stössel'),
-    ('weigel',         'Weigel',            r'Weigel'),
-    ('wedel',          'Wedel',             r'Wedel'),
-    ('rapacki',        'Rapacki',           r'Rapacki'),
-    ('kwilecki',       'Kwilecki',          r'Kwileck'),
-    ('niedzewiecki',   'Niedzewiecki',      r'Niedzew'),
-    # One woman under four surnames across the correspondence: born Prusimska,
-    # married Dąbska (used 1807-1811), then remarried - the letters write that
-    # second husband's name as Moscinska/Moszynska, which is the WRITERS' own
-    # error for Miączyńska, not a transcription slip. Letter 266 hedges openly
-    # ("Dąbska oder Moscinska"), and letter 285 states the chain: "der Tochter
-    # des Prussiemski, jezt verehelichte Miączyńska".
-    #
-    # The pattern requires a feminine -a ending, which keeps two things out:
-    # the adjectival `Prusimskische(n)` (the family and its estates, not her -
-    # father and daughter are established as different people), and `Moszynski`,
-    # the husband.
-    ('prusimska',      'Michalina Prusimska (Dąbska / Miączyńska / Moscinska)',
-     r'(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|'
-     r'Mi[ąa]czy[nń]sk)a(?![a-zà-ÿ])'),
-    # Her father Antoni and the family estates. Kept separate deliberately.
-    ('prusimski',      'Prusimski family (Trąbczyn estates)',
-     r'Pru[sz]+ie?msk(?:i|isch\w*)(?![a-zà-ÿ])'),
-    ('schlabrendorff', 'Schlabrendorff',    r'Schlabrendorff'),
-    ('barbe',          'Barbe',             r'Barbe'),
-    ('schenck',        'Schenck',           r'Schenck'),
-    ('lahr',           'von der Lahr',      r'L[aä]hr'),
-    ('bernhardi',      'Bergrath Bernhardi', r'Bernhardi'),
-    ('bernhard',       'Meyer Bernhard',    r'Bernhard(?!i)'),
-    ('pochammer',      'Pochammer',         r'Pochamm?er'),
-    ('lombardini',     'Lombardini',        r'Lombardin'),
-    ('eysenhardt',     'Eysenhardt',        r'Eysenhardt'),
-    ('reinhardt',      'Reinhardt',         r'Reinhardt'),
-    ('michaelis',      'Michaelis',         r'Michaelis'),
-    ('otocki',         'Otocki',            r'Otocki'),
-    ('kunckel',        'Kunckel',           r'Kunckel'),
-    ('goeschel',       'Göschel',           r'Göschel'),
-    ('graevenitz',     'Grävenitz',         r'Grävenitz'),
-    ('knobelsdorff',   'Knobelsdorff',      r'Knobelsdorff'),
-    ('sobottendorff',  'Sobottendorff',     r'Sobottendorff'),
-    ('bornstaedt',     'Bornstädt',         r'Bornstädt'),
-    ('goldbeck',       'Goldbeck',          r'Goldbeck'),
-    ('falkenhausen',   'Falkenhausen',      r'Falkenhausen'),
-    # Corpus spelling is Pourtales (the writer never used the accent); the
-    # display name gives the family's proper form. `Portalis` survives once, at
-    # line 18917, inside the writer's own note "Pourtales (nicht Portalis)" -
-    # matched here so that mention still indexes to the right man.
-    ('pourtales',      'Pourtalès (Pourtales)', r'Pourtal|Portalis'),
-    ('schulenburg',    'Schulenburg',       r'Schul[ee]mburg|Schulenburg'),
-    ('chomanowski',    'Chomanowski',       r'Chomanowski'),
-    ('przespolewski',  'Przespolewski',     r'Przespolewski'),
-    ('asch',           'Asch',              r'Asch\b'),
-    ('hache',          'Hache',             r'Hache'),
-    ('zerboni',        'Zerboni',           r'Zerboni'),
-    ('broniewski',     'Broniewski',        r'Broniew|Bronisz'),
-    # principals
-    ('triebenfeld',    'v. Triebenfeld',    r'Triebenfeld'),
-    ('hohenlohe',      'Hohenlohe',         r'Hohenlohe'),
-]
-def _auto_people():
-    """Names vetted by name_catalogue.py that the curated list above misses.
+# The authorities and the matching both live in entities.py now, so this script
+# and the dataset builder cannot drift apart on who a document names.
+from entities import load_people, load_places, entities_in
 
-    The hand list had 55 entries and matched 54 of the 807 tokens sitting in
-    person position - Grotowski (x15), Brzechsta (x29), Hardenberg (x24) and
-    many more were absent, so they were never highlighted anywhere. The curated
-    entries stay authoritative: they carry display names, merged identities
-    (Michalina Prusimska's four surnames) and distinctions the statistics cannot
-    see (Hawich vs Honrichs). This only fills the long tail.
-    """
-    path = os.path.join(ROOT, 'reference', 'name_seeds.json')
-    if not os.path.isfile(path):
-        return []
-    covered = set()
-    for _, _, pat in PEOPLE:
-        try:
-            rx = re.compile(pat, re.UNICODE)
-        except re.error:
-            continue
-        covered.add(rx)
-    out = []
-    for e in json.load(open(path, encoding='utf-8')):
-        if e['kind'] != 'person' or e['count'] < 2:
-            continue
-        name = e['name']
-        if any(rx.search(name) for rx in covered):
-            continue
-        # slugify() is defined further down the file, so slug locally
-        slug = re.sub(r'[^a-z0-9]+', '-',
-                      unicodedata.normalize('NFKD', name.lower())
-                      .encode('ascii', 'ignore').decode()).strip('-')
-        if not slug:
-            continue
-        # match the name plus German inflection, anchored at a word start
-        out.append((slug, name,
-                    re.escape(name) + r'(?:s|n|en|es|sche\w*|ische\w*)?'))
-    return out
-
-
-PEOPLE = PEOPLE + _auto_people()
-
-# Colon abbreviations. These writers routinely shorten a familiar name to its
-# first syllable and a colon: "Min: v. Hard:", "Gen Lieut v. Koch:", "der Gr.
-# Pourt:". Matching only the full spelling silently loses those mentions - nine
-# letters discuss Hardenberg and never once write his name out, which left him
-# indexed in 31 letters instead of 40.
-#
-# Only abbreviations verified in context are listed. Deliberately absent:
-#   Ant:  is "Antwort", not Anton
-#   Kur:  is "Curländische", not a person
-#   Ko:   reads as Koschentin, the estate, not Köckritz. L2's "In der Ko:
-#         Geschichte" is followed by Pourtalès wanting to buy, which settles it
-#   Sch:  could be Schlabrendorff, Schenck or Schimmelpfennig
-#   B:    could be Barbe, Beyme or Brzechsta
-# A wrong expansion here would invent a mention that is not in the letter,
-# which is worse than missing one.
-NAME_ABBREV = {
-    'hardenberg': r'Hard(?:enb)?:',
-    'koeckritz':  r'K[oö]ch:',
-    'amelang':    r'Am(?:el)?:',
-    'pourtales':  r'Pourt:',
-    'graevenitz': r'Grev:',
-    'lombardini': r'Lomb:',
-    # Both instances are title-anchored ("der Fürstin Sa:", "Die Fürsten Sa:")
-    # and Sacken is the only Fürstin S- in the corpus. Requiring the title is
-    # what makes this safe; a bare 'Sa:' would not be.
-    'sacken':     r'F(?:ü|ue)rst(?:in|en)\s+Sa:',
-}
-
-PEOPLE_RE = [(slug, disp,
-              re.compile(r'(?<![A-Za-zÀ-ÿ])(?:' + pat
-                         + (('|' + NAME_ABBREV[slug]) if slug in NAME_ABBREV else '')
-                         + r')', re.UNICODE))
-             for slug, disp, pat in PEOPLE]
-PEOPLE_DISPLAY = {slug: disp for slug, disp, _ in PEOPLE}
-
-# Place spellings that are the same place.
-PLACE_CANON = {
-    'posen': 'Posen', 'Posen': 'Posen',
-    'Zagorowa': 'Zagorowo', 'Zagorowo': 'Zagorowo',
-}
+PEOPLE_RE = [(slug, disp, rx) for slug, disp, rx in load_people()]
+PEOPLE_DISPLAY = {slug: disp for slug, disp, _ in PEOPLE_RE}
+PEOPLE = [(slug, disp, None) for slug, disp, _ in PEOPLE_RE]
+PLACE_CANON = load_places()
 
 MONTHS = {1:'January',2:'February',3:'March',4:'April',5:'May',6:'June',
           7:'July',8:'August',9:'September',10:'October',11:'November',12:'December'}
 
 SOURCE_LABEL = {
     'signature': 'read from the letter',
+    'dateline':  "read from the document's own dateline",
     'supplied':  'supplied by the researcher',
     'inferred':  'inferred from neighbouring letters',
     'twin':      'taken from its duplicate (letter 48)',
@@ -284,6 +124,32 @@ def diplomatic_html(text):
     return html.escape(text)
 
 
+_DOC_LABELS = None
+
+
+def doc_type_label(doc_type):
+    """'certified_copy' -> 'Certified copy'.
+
+    Read out of site/_data/i18n.yml so the label has one home: the site renders
+    the German from the same file, and a kind added there needs no change here.
+    Anything unlabelled falls back to the generic word rather than to 'Letter'.
+    """
+    global _DOC_LABELS
+    if _DOC_LABELS is None:
+        _DOC_LABELS = {}
+        path = os.path.join(ROOT, 'site', '_data', 'i18n.yml')
+        try:
+            import yaml
+            with open(path, encoding='utf-8') as f:
+                _DOC_LABELS = yaml.safe_load(f).get('en', {}) or {}
+        except Exception:
+            _DOC_LABELS = {}
+    label = _DOC_LABELS.get((doc_type or '').strip())
+    if isinstance(label, str) and label:
+        return label
+    return _DOC_LABELS.get('document', 'Document')
+
+
 def yaml_str(s):
     """Quote a scalar safely for YAML."""
     return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
@@ -322,8 +188,9 @@ def load_scan_map():
 
 
 def main():
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
-        recs = json.load(f)
+    # The per-document files are the primary form; the merged array is derived
+    # from them and kept only for readers outside this project.
+    recs = unitlib.load_documents(ROOT)
     print(f'loaded {len(recs)} records')
     scans = load_scan_map()
     have = os.path.isdir(os.path.join(SITE, 'assets', 'scans'))
@@ -345,7 +212,12 @@ def main():
     archival = sorted(recs, key=archival_key)
     chrono = sorted(recs, key=chrono_key)
     units_by_slug = {u.slug: u for u in UNITS}
-    _url_by_id = {r['letter_id']: r['permalink'] for r in recs}
+    # duplicate_of is recorded in the unit's own rulings.yml, so it names an
+    # archival number in the same holding - resolve it inside that unit.
+    _url_by_uid = {r['uid']: r['permalink'] for r in recs}
+    # parent_letter names a document number inside the same holding, so the
+    # lookup has to be scoped by unit: two units both have a document 7.
+    _by_unit_lid = {(r['unit'], r['letter_id']): r for r in recs}
     # Keyed by uid, not letter_id: document numbers repeat between units.
     arch_pos = {r['uid']: i for i, r in enumerate(archival)}
     chrono_pos = {r['uid']: i for i, r in enumerate(chrono)}
@@ -358,7 +230,7 @@ def main():
         for slug, disp, rx in PEOPLE_RE:
             if rx.search(r['text']):
                 found.append(slug)
-                people_index[slug].append(r['letter_id'])
+                people_index[slug].append(r['uid'])
         r['_people'] = found
         p = PLACE_CANON.get(r['place'], r['place'])
         # Letters that name no place of writing are grouped under "Unknown"
@@ -366,7 +238,7 @@ def main():
         # written, and silently omitting them made the places list look complete
         # when a third of the corpus was missing from it.
         r['_place'] = p or 'Unknown'
-        place_index[r['_place']].append(r['letter_id'])
+        place_index[r['_place']].append(r['uid'])
 
     # ---------- write letter pages ----------
     if os.path.isdir(LETTERS_DIR):
@@ -386,7 +258,9 @@ def main():
         # together are the citation key: /letters/oe1bu9454/48/. The filename
         # stays flat and padded so the collection sorts.
         fm.append(f'permalink: {yaml_str(r["permalink"])}')
-        fm.append(f'title: {yaml_str("Letter " + lid)}')
+        # The page names itself for what it is. Calling a purchase deed
+        # "Letter 7" was harmless while the edition held only correspondence.
+        fm.append(f'title: {yaml_str(doc_type_label(r["doc_type"]) + " " + lid)}')
         fm.append(f'letter_id: {yaml_str(lid)}')
         fm.append(f'unit: {yaml_str(r["unit"])}')
         fm.append(f'uid: {yaml_str(r["uid"])}')
@@ -406,6 +280,10 @@ def main():
         fm.append(f'sender: {yaml_opt(r.get("sender", ""))}')
         fm.append(f'recipient: {yaml_opt(r.get("recipient", ""))}')
         fm.append(f'parent_letter: {yaml_opt(r["parent_letter"])}')
+        # The parent's own kind, so an enclosure reads "part of contract 18"
+        # rather than "part of letter 18" over a deed.
+        _par = _by_unit_lid.get((r['unit'], r['parent_letter'])) if r['parent_letter'] else None
+        fm.append(f'parent_doc_type: {yaml_opt(_par["doc_type"] if _par else "")}')
         fm.append(f'duplicate_of: {yaml_opt(r["duplicate_of"])}')
         fm.append(f'uncertainty_count: {r["uncertainty_count"]}')
         fm.append(f'has_damage: {"true" if r["has_damage"] else "false"}')
@@ -424,9 +302,22 @@ def main():
         fm.append(f'next_archival_url: {yaml_opt(archival[a+1]["permalink"]) if a < len(archival)-1 else "null"}')
         fm.append(f'prev_chrono_url: {yaml_opt(chrono[c-1]["permalink"]) if c > 0 else "null"}')
         fm.append(f'next_chrono_url: {yaml_opt(chrono[c+1]["permalink"]) if c < len(chrono)-1 else "null"}')
-        _dup = r['duplicate_of']
-        fm.append('duplicate_of_url: ' + (yaml_str(_url_by_id[_dup])
-                                         if _dup and _dup in _url_by_id else 'null'))
+        # Typed links to other documents in the same holding. Rendered as
+        # links, so a confirmation reaches the contract it confirms.
+        _rels = [(_rel, _by_unit_lid.get((r['unit'], str(_rel.get('target', '')))))
+                 for _rel in (r.get('relations') or [])]
+        _rels = [(a, b) for a, b in _rels if b]
+        if _rels:
+            fm.append('relations:')
+            for _rel, _t in _rels:
+                fm.append(f'  - kind: {yaml_str(_rel.get("kind", ""))}')
+                fm.append(f'    target: {yaml_str(_t["letter_id"])}')
+                fm.append(f'    target_url: {yaml_str(_t["permalink"])}')
+                fm.append(f'    target_title: {yaml_str(doc_type_label(_t["doc_type"]) + " " + _t["letter_id"])}')
+                fm.append(f'    note: {yaml_str(_rel.get("note", ""))}')
+        _dup = f"{r['unit']}-{r['duplicate_of']}" if r['duplicate_of'] else ''
+        fm.append('duplicate_of_url: ' + (yaml_str(_url_by_uid[_dup])
+                                         if _dup and _dup in _url_by_uid else 'null'))
         fm.append('---')
 
         # One block per manuscript page, so page breaks stay visible and each
@@ -475,7 +366,17 @@ def main():
                 body.append('<p>' + '<br>\n'.join(
                     html.escape(x.strip()) for x in p['reading'].split('\n') if x.strip()) + '</p>')
             else:
-                body.append('<p>' + html.escape(p['reading']) + '</p>')
+                # One <p> per paragraph. The first carries `runs-on` where the
+                # paragraph began on the previous page: the text never crosses a
+                # page break, so it would otherwise look like a fresh paragraph
+                # every time a page turns. The style drops the indent there.
+                paras = p.get('paragraphs') or [p['reading']]
+                for _i, _para in enumerate(paras):
+                    if not _para.strip():
+                        continue
+                    _cls = ' class="runs-on"' if (_i == 0
+                                                  and p.get('continues_previous')) else ''
+                    body.append(f'<p{_cls}>' + html.escape(_para) + '</p>')
             body.append('</div>')
             # view 3 - translation, filled in from _data/translations later
             body.append(f'<div class="text-view" data-view="translation" hidden '
@@ -539,7 +440,10 @@ def main():
             f.write(f'  first: {yaml_str(min(dated) if dated else "")}\n')
             f.write(f'  last: {yaml_str(max(dated) if dated else "")}\n')
 
-    url_by_id = {r['letter_id']: r['permalink'] for r in recs}
+    # Keyed by uid: the indexes above collect uids, because an archival number
+    # is only unique inside its own holding.
+    url_by_uid = {r['uid']: r['permalink'] for r in recs}
+    label_by_uid = {r['uid']: r['letter_id'] for r in recs}
     with open(os.path.join(DATA_DIR, 'people.yml'), 'w', encoding='utf-8', newline='\n') as f:
         f.write('# Generated by build_site_data.py - do not hand-edit.\n')
         for slug, disp, _ in PEOPLE:
@@ -551,7 +455,7 @@ def main():
             f.write(f'  count: {len(ids)}\n')
             f.write('  letters: ['
                     + ', '.join('{id: %s, url: %s}'
-                                % (yaml_str(i), yaml_str(url_by_id[i]))
+                                % (yaml_str(label_by_uid[i]), yaml_str(url_by_uid[i]))
                                 for i in ids) + ']\n')
 
     with open(os.path.join(DATA_DIR, 'places.yml'), 'w', encoding='utf-8', newline='\n') as f:
@@ -564,7 +468,7 @@ def main():
             f.write(f'  count: {len(ids)}\n')
             f.write('  letters: ['
                     + ', '.join('{id: %s, url: %s}'
-                                % (yaml_str(i), yaml_str(url_by_id[i]))
+                                % (yaml_str(label_by_uid[i]), yaml_str(url_by_uid[i]))
                                 for i in ids) + ']\n')
 
     years = Counter(r['date_iso'][:4] for r in recs if r['date_iso'])
@@ -641,25 +545,33 @@ def verify(recs):
     those back out must reproduce the corpus's non-blank lines exactly, in order.
     """
     print('\n--- verification ---')
-    by_id = {r['letter_id']: r for r in recs}
+    # Keyed by uid, not letter_id: an archival number is unique only inside its
+    # own holding, so two units both having a document 7 would collide here and
+    # this check would silently compare one against the other's text.
+    by_uid = {r['uid']: r for r in recs}
     checked = mismatch = 0
     total_pages = 0
     for fn in os.listdir(LETTERS_DIR):
         with open(os.path.join(LETTERS_DIR, fn), encoding='utf-8') as f:
             content = f.read()
-        lid = re.search(r'^letter_id: "(.+?)"$', content, re.M).group(1)
-        recovered = [html.unescape(x) for x in
-                     re.findall(r'<li>(.*?)</li>', content, re.S)]
+        uid = re.search(r'^uid: "(.+?)"$', content, re.M).group(1)
+        # The diplomatic view is one <li> per manuscript line, inside
+        # <ol class="dip">. Scope the extraction to those lists: the page also
+        # carries other <li> - the typed relations to other documents - and a
+        # bare <li> match would read them back as if they were transcription.
+        recovered = [html.unescape(x)
+                     for blk in re.findall(r'<ol class="dip"[^>]*>(.*?)</ol>', content, re.S)
+                     for x in re.findall(r'<li>(.*?)</li>', blk, re.S)]
         # The rendered view is the transcription layer, which build_db.py has
         # already proven differs from the archival text only where a recorded
         # decision says so.
-        expected = [l for p in by_id[lid]['pages']
+        expected = [l for p in by_uid[uid]['pages']
                     for l in p.get('transcription', p['diplomatic']).split('\n')
                     if l.strip()]
         total_pages += len(re.findall(r'<section class="ms-page"', content))
         if recovered != expected:
             mismatch += 1
-            print(f'  MISMATCH letter {lid}: {len(recovered)} lines vs {len(expected)}')
+            print(f'  MISMATCH {uid}: {len(recovered)} lines vs {len(expected)}')
         checked += 1
     print(f'letter pages checked    : {checked}')
     print(f'manuscript pages        : {total_pages}')

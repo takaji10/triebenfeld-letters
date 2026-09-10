@@ -1,0 +1,91 @@
+{
+ "letter_id": "250",
+ "seq_archival": 263,
+ "parent_letter": "",
+ "unit": "oe1bu9454",
+ "uid": "oe1bu9454-250",
+ "pad": "oe1bu9454-250",
+ "permalink": "/letters/oe1bu9454/250/",
+ "doc_type": "letter",
+ "date_iso": "1814-11-05",
+ "date_precision": "day",
+ "date_source": "signature",
+ "date_display": "Wien d. 5ten November 1814.",
+ "date_inferred_from": "",
+ "year": 1814,
+ "month": 11,
+ "day": 5,
+ "place": "Wien",
+ "sender": "",
+ "recipient": "",
+ "line_start": 18031,
+ "line_end": 18048,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "is_missing": 0,
+ "n_lines": 17,
+ "n_pages": 1,
+ "text": "Beylage zu der Brief von 17ten 9br.\nEwr Hochwohlgeboren gefälliges Schreiben vom\n3t dieses habe ich zu erhalten die Ehre gehabt, und\ndurch dasselbe Kenntniß von dem Sr Durchlaucht\ndem Fürsten v. Hardenberg übergebenen Me¬\nmoriale erlangt. Ich habe die Ehre dessen Ab¬\nschrift in der Beilage zurückzusenden, und werde\nnicht ermangete mich für dessen Inhalt zu interes¬\nhirnn soviel es in meinen Würkungs Kreisliegt.\nEmpfangen für Hochwohlgeboren hiermit\ndie Versicherungen meiner vollkommensten Hoch¬\nachtung\nWien d. 5ten November 1814.\nHumboldt.\nAndenherrn\nHerrn v. Triebenfeld",
+ "text_reading": "Beylage zu der Brief von 17ten 9br. Ewr Hochwohlgeboren gefälliges Schreiben vom 3t dieses habe ich zu erhalten die Ehre gehabt, und durch dasselbe Kenntniß von dem Sr Durchlaucht dem Fürsten v. Hardenberg übergebenen Memoriale erlangt. Ich habe die Ehre dessen Abschrift in der Beilage zurückzusenden, und werde nicht ermangete mich für dessen Inhalt zu intereshirnn soviel es in meinen Würkungs Kreisliegt. Empfangen für Hochwohlgeboren hiermit die Versicherungen meiner vollkommensten Hochachtung Wien d. 5ten November 1814. Humboldt. Andenherrn Herrn v. Triebenfeld",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "",
+   "line_start": 18032,
+   "line_end": 18047,
+   "n_lines": 16,
+   "diplomatic": "Beylage zu der Brief von 17ten 9br.\nEwr Hochwohlgeboren gefälliges Schreiben vom\n3t dieses habe ich zu erhalten die Ehre gehabt, und\ndurch dasselbe Kenntniß von dem Sr Durchlaucht\ndem Fürsten v. Hardenberg übergebenen Me¬\nmoriale erlangt. Ich habe die Ehre dessen Ab¬\nschrift in der Beilage zurückzusenden, und werde\nnicht ermangete mich für dessen Inhalt zu interes¬\nhirnn soviel es in meinen Würkungs Kreisliegt.\nEmpfangen für Hochwohlgeboren hiermit\ndie Versicherungen meiner vollkommensten Hoch¬\nachtung\nWien d. 5ten November 1814.\nHumboldt.\nAndenherrn\nHerrn v. Triebenfeld",
+   "transcription": "Beylage zu der Brief von 17ten 9br.\nEwr Hochwohlgeboren gefälliges Schreiben vom\n3t dieses habe ich zu erhalten die Ehre gehabt, und\ndurch dasselbe Kenntniß von dem Sr Durchlaucht\ndem Fürsten v. Hardenberg übergebenen Me-\nmoriale erlangt. Ich habe die Ehre dessen Ab-\nschrift in der Beilage zurückzusenden, und werde\nnicht ermangete mich für dessen Inhalt zu interes-\nhirnn soviel es in meinen Würkungs Kreisliegt.\nEmpfangen für Hochwohlgeboren hiermit\ndie Versicherungen meiner vollkommensten Hoch-\nachtung\nWien d. 5ten November 1814.\nHumboldt.\nAndenherrn\nHerrn v. Triebenfeld",
+   "reading": "Beylage zu der Brief von 17ten 9br. Ewr Hochwohlgeboren gefälliges Schreiben vom 3t dieses habe ich zu erhalten die Ehre gehabt, und durch dasselbe Kenntniß von dem Sr Durchlaucht dem Fürsten v. Hardenberg übergebenen Memoriale erlangt. Ich habe die Ehre dessen Abschrift in der Beilage zurückzusenden, und werde nicht ermangete mich für dessen Inhalt zu intereshirnn soviel es in meinen Würkungs Kreisliegt. Empfangen für Hochwohlgeboren hiermit die Versicherungen meiner vollkommensten Hochachtung Wien d. 5ten November 1814. Humboldt. Andenherrn Herrn v. Triebenfeld",
+   "paragraphs": [
+    "Beylage zu der Brief von 17ten 9br. Ewr Hochwohlgeboren gefälliges Schreiben vom 3t dieses habe ich zu erhalten die Ehre gehabt, und durch dasselbe Kenntniß von dem Sr Durchlaucht dem Fürsten v. Hardenberg übergebenen Memoriale erlangt. Ich habe die Ehre dessen Abschrift in der Beilage zurückzusenden, und werde nicht ermangete mich für dessen Inhalt zu intereshirnn soviel es in meinen Würkungs Kreisliegt. Empfangen für Hochwohlgeboren hiermit die Versicherungen meiner vollkommensten Hochachtung Wien d. 5ten November 1814. Humboldt. Andenherrn Herrn v. Triebenfeld"
+   ],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": ""
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "Hardenberg",
+   "page": 1,
+   "page_id": "",
+   "line": 18036
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface": "Humboldt",
+   "page": 1,
+   "page_id": "",
+   "line": 18045
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 1,
+   "page_id": "",
+   "line": 18047
+  }
+ ],
+ "place_canonical": "Wien",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Enclosure to the letter of the 17th of 9br. I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and have through it gained knowledge of the memorial delivered to His Serene Highness the Prince von Hardenberg. I have the honour to return a copy of the same in the enclosure, and shall not fail to interest myself in its contents so far as it lies within my sphere of action. Receive herewith, Your Right Honourable, the assurances of my most perfect esteem. Vienna, the 5th of November 1814. Humboldt. To Herr von Triebenfeld"
+  }
+ ],
+ "text_english": "Enclosure to the letter of the 17th of 9br. I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and have through it gained knowledge of the memorial delivered to His Serene Highness the Prince von Hardenberg. I have the honour to return a copy of the same in the enclosure, and shall not fail to interest myself in its contents so far as it lies within my sphere of action. Receive herewith, Your Right Honourable, the assurances of my most perfect esteem. Vienna, the 5th of November 1814. Humboldt. To Herr von Triebenfeld",
+ "summary_en": "Humboldt, writing from Vienna and enclosed with Triebenfeld's letter of 17 November, acknowledges Triebenfeld's letter of the 3rd and confirms he has learned of the memorial submitted to Prince von Hardenberg. He returns a copy of the memorial and promises to take up its contents so far as his own sphere of action permits, closing with assurances of esteem.",
+ "summary_de": "Beilage zum Brief vom 17. 9br.: Humboldt bestätigt den Empfang des Schreibens Triebenfelds vom 3. dieses Monats und die dadurch erhaltene Kenntnis der dem Fürsten von Hardenberg überreichten Denkschrift (Memorial). Eine Kopie derselben wird in der Anlage zurückgesandt; Humboldt sagt zu, sich für den Inhalt einzusetzen, soweit es in seinem Wirkungskreis liegt, und versichert Triebenfeld seiner vollkommenen Hochachtung."
+}

@@ -1,0 +1,1025 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,29,break,high,short_line,0.3,17,57,sprechen möchten.,Es werden diesen Wittowes Ahten schon lange in der Trąbczyner
+1,32,break,high,short_line+column,0.6,34,57,Es sind aber solche beym Ausziehen,daß sie liegen würden.
+1,33,break,high,short_line,0.39,22,57,daß sie liegen würden.,von meinem Logis zu Breſslau nach Wilhelmsruh unter den
+2,59,break,high,short_line,0.22,7,32,werden.,Es verkaufet der gedachte
+2,89,run,review,short_line,0.65,22,34,thaler Preußl. Courant,2: dieses Kauf-Pretium verbinden sich
+2,103,break,high,rubric+short_line,0.21,7,34,zinsen.,3.
+2,127,break,high,rubric,0.94,29,31,zum Theil erstreiten sollten.,4.
+2,136,break,high,rubric+short_line,0.65,20,31,nicht erfolgen kann.,5.
+2,154,break,high,rubric+short_line,0.45,14,31,werden können.,6. Verspricht Herr Verkäufer der Con¬
+2,161,break,high,rubric+short_line,0.48,15,31,ge Kauf zurück.,7. Sollte die Final Resolution we¬
+2,217,break,high,rubric,0.76,22,29,gezahlt werden müssen.,8. Kind den Käufern das Guth mit
+2,225,break,high,rubric+short_line,0.66,19,29,Sümmerung erwarten.,9. die dieses Guth betreffenden
+2,230,break,high,rubric,1.0,29,29,Frühige mit extradiret werden,10.
+2,249,break,high,rubric+short_line,0.61,19,31,verbunden seyn soll,11. die Küster dieses Contracts
+2,255,break,high,short_line,0.23,7,31,allein.,Beyde Theile haben diese von
+2,264,break,high,short_line+column,0.69,24,35,gängiger Genehmigung dem,ihre eigenhändige Nahmens
+2,265,break,high,short_line+column,0.71,25,35,ihre eigenhändige Nahmens,Unterschriften willzogen.
+2,266,break,high,short_line,0.71,25,35,Unterschriften willzogen.,Kalisch den 21ten April: 1803.
+2,276,break,high,salutation,0.8,28,35,besonders abzustieden haben.,Geschehen wie über¬
+2,279,break,high,short_line+column,0.43,15,35,Martin Honrichs,Walęty v Kwasiborski
+2,280,break,high,short_line+column,0.57,20,35,Walęty v Kwasiborski,Carl Anton Grimm
+2,281,break,high,short_line+column,0.46,16,35,Carl Anton Grimm,Stanisław Szymanowski
+2,282,break,high,short_line+column,0.6,21,35,Stanisław Szymanowski,als Zeuge
+2,283,run,review,short_line,0.26,9,35,als Zeuge,Die nach vorstehender Kauf Punctation mir in Termino
+2,300,break,high,short_line,0.47,18,38,erhalten zu haben.,Auch verspreche
+2,301,run,review,short_line,0.39,15,38,Auch verspreche,"ich, dem Herrn Banquier Weigel die Ein¬"
+2,315,run,review,short_line,0.53,20,38,Carl Gottlieb Weigel,im Nachmitt und als Compagnon eines Vater
+2,317,run,review,short_line,0.55,21,38,Carl Ferdinand Weigel,Daß vorstehende Cession und Quittung über die
+2,338,run,review,short_line,0.64,25,39,Breslau den 26 April 1803,Des Justiz-Amt des Freien Fürstl. Stift zu
+2,340,break,high,short_line+column,0.18,7,39,Vincenz,[L. S.]
+2,341,break,high,short_line+column,0.18,7,39,[L. S.],Büchler
+3,347,run,review,short_line,0.23,12,53,[S. Melich?],Wir das Fürstlich Hohenlohe Ingelfingensche Gerichts
+3,356,break,high,short_line,0.19,10,53,Wort also:,Zwischen den Hochwohlgebohrnen Herrn Joseph von
+3,358,break,high,short_line+column,0.6,32,53,Jankowski zu [?]inino verkaufern,und
+3,359,run,review,short_line,0.06,3,53,und,den Wohlgebohrnen Herrn Hauptmann und Kreis Steuer¬
+3,367,break,high,rubric,0.91,48,53,die gegenwärtig hierüber verfaßte und von berden,H. Theilnehmern durch die eigenhändige Unterschriften und
+3,373,break,high,rubric+short_line,0.11,6,52,nehmen,I. der Eingangs ermeldete Herr Joseph von Jankowski
+3,391,break,high,rubric+short_line,0.4,21,52,eigenthümlich erkauft,II. an letzt gedachten Herrn Hauptmann und Preis Steuer
+3,401,break,high,rubric+short_line,0.36,16,44,digste quittirt.,III.
+3,407,break,high,rubric,0.88,39,44,Verkaufer keine Abrechnungen fürmüssen.,IV.
+3,410,break,high,rubric+short_line,0.16,7,44,vilegio,"a., in 25 Tynphe, Reise Geld an den Betscher Hof"
+3,411,break,high,rubric,1.08,48,44,"a., in 25 Tynphe, Reise Geld an den Betscher Hof","b., in 5 Szostawa Grundzinn"
+3,412,break,high,rubric,0.61,27,44,"b., in 5 Szostawa Grundzinn","c., in 5 Viertel Hafer"
+3,413,break,high,rubric,0.49,22,44,"c., in 5 Viertel Hafer","d., in 1. Tynph Fuchsgeld"
+3,414,break,high,rubric,0.56,25,44,"d., in 1. Tynph Fuchsgeld","e., in 2 Rappamten und"
+3,415,break,high,rubric,0.49,22,44,"e., in 2 Rappamten und","f., den gewöhnlichen Kirchen Abgaben, welche Herr"
+3,418,break,high,short_line,0.54,24,44,zu praestiren angelobte.,dagegen wird demselben.
+3,422,break,high,rubric,1.04,49,47,Schaafe zu halten und zum Lohn der Schäfer Rechte,50. Stük mit freyer Hüthung auf den Dormower Grunde
+3,427,break,high,rubric+short_line,0.49,23,47,in Betscher Huf bezahlt,VI.
+3,432,break,high,rubric,0.98,46,47,Betscher Hofe auferlegte Strafe erlegen müssen,VII.
+3,443,break,high,rubric,0.74,35,47,rey Schulzen des Betscher Schlüßels,VIII.
+3,455,break,high,rubric+short_line,0.6,27,45,Summer Bestellung verkauft.,IX.
+3,474,break,high,rubric+short_line,0.24,11,46,Endlich und,XI.
+3,488,break,high,short_line,0.37,17,46,und ausdrücklich.,zu Urkund dessen ist gegenwärtiger Kaufpricht
+3,497,run,review,short_line,0.34,17,50,gerechselt worden,So geschehen Birnbaum den 24ten Juny 1797
+3,499,break,high,short_line+column,0.56,28,50,(L. S.) Joseph von Jankowski,(L. S.) Andreas Ernst Gneust.
+3,500,break,high,short_line,0.58,29,50,(L. S.) Andreas Ernst Gneust.,daß die denen Endes unterzeichneten Gerichts Personen
+3,517,break,high,short_line,0.62,26,42,Birnbaum den 24 Juny 1797.,Goeker
+3,518,break,high,short_line+column,0.14,6,42,Goeker,Justiz Bürger Meister
+3,519,break,high,short_line+column,0.5,21,42,Justiz Bürger Meister,und Justitiarius hieselbst
+3,520,break,high,short_line+column,0.62,26,42,und Justitiarius hieselbst,(L. S.)
+3,521,break,high,short_line+column,0.17,7,42,(L. S.),Bauer
+3,522,break,high,short_line+column,0.12,5,42,Bauer,Stadt und Justiz Seon
+3,523,break,high,short_line+column,0.5,21,42,Stadt und Justiz Seon,hieselbst
+3,524,run,review,short_line,0.21,9,42,hieselbst,Actum Betsche den 6ten May 1799.
+3,534,break,high,rubric+short_line,0.26,11,42,erschienen.,"1, der Verkäufer Joseph von Jankowski"
+3,535,break,high,rubric,0.88,37,42,"1, der Verkäufer Joseph von Jankowski",2. der Kaufer Kreis Steuer Einnehmer Gneust
+3,549,break,high,short_line,0.61,22,36,bedächtig vor Gericht.,wie sie diesem Kauf Contract hiermit
+3,553,run,review,short_line,0.36,13,36,halten wollen,Besonders erklärte der Verkäufer von
+3,555,run,review,short_line,0.25,9,36,Jankowski,wie er das verkaufte Grundstük dem
+3,563,run,review,short_line,0.25,9,36,genehmige,daß der Titulus possessionis für den
+3,567,break,high,short_line,0.44,16,36,richtiget werde.,Womit dieses Verlautbarungs Protocoll zur
+3,575,break,high,short_line+column,0.42,16,38,Joseph Jankowski,Andreas Ernst Gneust
+3,576,break,high,short_line+column,0.53,20,38,Andreas Ernst Gneust,Eichaust
+3,577,break,high,short_line+column,0.21,8,38,Eichaust,Schleich
+3,578,break,high,short_line+column,0.21,8,38,Schleich,Hintsch
+3,579,run,review,short_line,0.18,7,38,Hintsch,Wir wollen nun auf das Ansuchen der Contrahenten
+3,587,run,review,short_line,0.39,15,38,fertigen lassen,so geschehen Betsche den 6ten May 1799
+3,589,run,review,short_line,0.42,16,38,Fürstl. Hohenloh,Ingelfingensches GerichtsAmt hieselbst
+3,591,break,high,short_line+column,0.18,7,38,Schenck,p.t. Justitiarius
+3,592,break,high,short_line+column,0.45,17,38,p.t. Justitiarius,Expedirter KaufContract
+3,593,break,high,short_line+column,0.61,23,38,Expedirter KaufContract,zwischen den Herrn von
+3,594,break,high,short_line+column,0.58,22,38,zwischen den Herrn von,Jankowski und Kreis Steuer
+3,595,break,high,short_line+column,0.68,26,38,Jankowski und Kreis Steuer,Einnehmer Gneust
+4,612,break,high,rubric+short_line,0.1,4,39,den:,§. 1.
+4,629,break,high,rubric,0.92,36,39,"thaler, nach dem Müng-Fuße von 1764.",§. 2.
+4,632,break,high,short_line,0.31,12,39,lig bezahlt.,Se. Hochfürstl. Durchlaucht
+4,633,run,review,short_line,0.69,27,39,Se. Hochfürstl. Durchlaucht,"quittiren darüber, und bekennen überhaupt,"
+4,637,break,high,short_line,0.33,13,39,Käufer haben.,Historisch
+4,642,break,high,rubric+short_line,0.21,8,38,hen ist:,A.
+4,650,break,high,rubric,1.04,40,38,sung Sr. Hochfürstl. Durchlaucht bezahlt,"b, 88860 rttl 10 g. 3 1/5 d. sind von dem Herrn Käufer"
+4,654,break,high,rubric+short_line,0.52,20,38,baar bezahlt worden.,"i. e. 142,000 Rthl"
+4,655,break,high,rubric,0.47,18,38,"i. e. 142,000 Rthl",§. 3.
+4,659,break,high,rubric,0.99,38,38,Kollno und Kaemen eingetragene Posten:,"a., ein Capital von 100. Floren Ein Hundert"
+4,663,break,high,rubric+short_line,0.57,22,38,nisch festgesezt sind.,"b., für eben dieselbe Kirche ein Capital von"
+4,664,break,high,rubric,1.14,44,38,"b., für eben dieselbe Kirche ein Capital von",250. rthl. Zwei Hundert und Fünfzig Reichs
+4,670,break,high,rubric,0.78,30,38,Herr Käufer von Johannis 1804.,§. 4.
+4,674,break,high,short_line,0.54,20,37,in Bausch und Bogen.,"Jedoch leisten Se. Hochfürstl. Durchlaucht, die"
+4,676,break,high,rubric+short_line,0.35,13,37,Gewehr dafür:,"a., daß der in den Vermeßungs-Registern"
+4,689,break,high,rubric+short_line,0.54,20,37,Jahre eingeschränkt.,"b., daß an öffentlichen Abgaben mehr"
+4,691,break,high,short_line+column,0.51,19,37,"nicht, als jährlich",für Kaemen.
+4,692,break,high,short_line,0.3,11,37,für Kaemen.,153 rt. 22 g. 8 pf.
+4,693,break,high,short_line,0.51,19,37,153 rt. 22 g. 8 pf.,für Kolno
+4,694,break,high,rubric+short_line,0.24,9,37,für Kolno,125. rt. 21. g. 2. pf.
+4,696,break,high,short_line+column,0.49,18,37,und an geistlichen,Abgaben für
+4,697,break,high,short_line+column,0.3,11,37,Abgaben für,Kaemen
+4,698,break,high,short_line+column,0.16,6,37,Kaemen,16 rt. 16 pf.
+4,699,break,high,short_line,0.35,13,37,16 rt. 16 pf.,auf diesen Güthern haften.
+4,700,break,high,rubric+short_line,0.7,26,37,auf diesen Güthern haften.,§. 5.
+4,706,break,high,short_line,0.49,18,37,gen sein Bewenden.,Es sind in Absicht der Gewehr zwischen den
+4,710,break,high,rubric+short_line,0.47,18,38,angenommen worden.,"a., daß dem Herrn Käufer die Nutzungen"
+4,714,break,high,short_line,0.55,21,38,Lasten zu tragen hat.,Etwanige alte
+4,715,run,review,short_line,0.34,13,38,Etwanige alte,re Rückstände werden von Sr Hochfürstl.
+4,717,break,high,short_line,0.57,22,38,Durchlaucht vertreten.,Auch tragen
+4,718,run,review,short_line,0.29,11,38,Auch tragen,Se. Hochfürstl. Durchlaucht das Justitiariats
+4,720,break,high,rubric,0.91,35,38,Gehalt bis Michaelis vorigen Jahrs.,"b., daß die Güther dem Herrn Käufer über¬"
+4,723,break,high,rubric,1.12,43,38,vorigen Jahres gestanden und gelegen haben.,"c., daß jedoch Herr Käufer nur denjenigen"
+4,728,break,high,short_line,0.36,14,38,im Jahre 1786.,nach der dem Herrn Käufer in deut¬
+4,732,break,high,rubric+short_line,0.47,18,38,pflichtet gewesen.,§. 6. Aufer den in §. 2. bemerkten Kirchen Cu¬
+4,751,run,review,short_line,0.07,3,41,Die,Löschungs Kosten aber werden zur Hälfte von
+4,754,break,high,rubric+short_line,0.63,26,41,dem Herrn Käufer getragen.,§. 7.
+4,761,break,high,rubric+short_line,0.22,9,41,getragen.,§. 8.
+4,771,break,high,short_line,0.17,7,41,worden.,Herr Käufer übernimmt diese
+4,772,run,review,short_line,0.66,27,41,Herr Käufer übernimmt diese,"rem litigiosam, ohne eine Gewehrs leistung"
+4,775,break,high,rubric+short_line,0.32,13,41,zu verlangen.,§. 9.
+4,790,break,high,rubric,0.75,30,40,"befindet, inspiciren zu laßen.",§. 10.
+4,800,break,high,short_line,0.15,6,40,zogen.,Breslau den 16 ten
+4,801,break,high,short_line+column,0.45,18,40,Breslau den 16 ten,Januar 1805.
+4,802,break,high,short_line,0.3,12,40,Januar 1805.,Selbst gelesen und genehmiget.
+4,806,break,high,short_line+column,0.35,14,40,und genehmiget,Meyer Bernhard im nehmen und
+4,807,run,review,short_line,0.7,28,40,Meyer Bernhard im nehmen und,bis auf genehmigung des H. Bco. Director Leixner
+4,810,run,review,short_line,0.17,7,40,tigsten,"Fürsten und Herrn, Herrn Friedrich"
+4,812,run,review,short_line,0.15,6,40,Ludwig,Regierenden Fürsten zu Hohenlohe
+4,830,break,high,short_line,0.34,14,42,mit attestirt.,Breslau den 16ten Januar 1805.
+4,832,run,review,short_line,0.58,24,42,Carl Gottlob [Pl...ler?],könne. Justiz-Commissiende Rath und Notarius
+4,835,break,high,short_line+column,0.48,20,42,Johann Georg Strebel,als Zeuge.
+4,836,break,high,short_line,0.24,10,42,als Zeuge.,Johann Carl Stude
+4,837,break,high,short_line+column,0.41,17,42,Johann Carl Stude,als Zeuge.
+4,838,break,high,short_line,0.24,10,42,als Zeuge.,"Vorstehenden Kauf Contract habe ich selbst gelesen, und"
+4,841,break,high,short_line,0.63,26,42,Oder den 25 Januarii 1805.,George Conrad Leixner
+4,842,break,high,short_line+column,0.51,21,42,George Conrad Leixner,Daß der persönlich meine
+4,843,break,high,short_line+column,0.58,24,42,Daß der persönlich meine,bekannte dispositions¬
+4,853,break,high,rubric,1.1,49,44,Hochseeligen Königs Majestät Friedrich Wilhelm II,"v. 9ten August 1796 adquirirten, in Südpreussen, Po¬"
+4,865,break,high,short_line+column,0.16,7,44,Beamten,Unterschrift attestiret.
+4,866,break,high,salutation+short_line,0.54,24,44,Unterschrift attestiret.,So geschehen
+4,867,run,review,short_line,0.27,12,44,So geschehen,Frankfurt an der Oder am fünf und zwanzigsten
+4,869,run,review,short_line,0.13,6,44,Januar,Ein Tausend Achthundert und Fünf.
+4,871,break,high,short_line,0.52,23,44,Dr. Ernst Gottlob Born.,Königl. Justiz Beamten vnd
+4,872,break,high,short_line+column,0.58,26,44,Königl. Justiz Beamten vnd,"Universitäts Syndikus, auch"
+4,873,break,high,short_line+column,0.61,27,44,"Universitäts Syndikus, auch",Assessor der Juristen Fakultät
+4,874,break,high,short_line+column,0.67,30,44,Assessor der Juristen Fakultät,zu Frankfurt pp.
+5,884,break,high,rubric,0.79,38,48,redet geschloßen und vollzogen worden.,§. 1.
+5,889,break,high,short_line+column,0.6,29,48,der Regierung zu Posen in dem,Kreiße gelegene Güther
+5,890,break,high,short_line+column,0.46,22,48,Kreiße gelegene Güther,Kollno und Kamionne
+5,891,run,review,short_line,0.4,19,48,Kollno und Kamionne,mit sämmtlichen dazu gehörigen Attinenzien und Müh¬
+5,915,break,high,rubric,0.87,41,47,64ge Curant zu seinem völligen Eigenthum.,§. 2.
+5,928,break,high,short_line,0.3,14,47,gefallen laßt.,Sr. Hochfürstl. Durchlaucht haben mit dem Herr
+5,933,break,high,rubric,0.87,41,47,Empfangnahme einer Summe von 53139. Rthl.,"13. Ggl. 8 4/5 Pfl. so fort zurück zu geben, und die"
+5,950,break,high,rubric,0.88,40,46,Sept dem Herrn Käufer tradiren zu laßen.,§. 4.
+5,959,break,high,rubric+short_line,0.51,23,46,thar ganz schuldenfrey.,§. 5.
+5,977,break,high,rubric+short_line,0.5,23,46,jezt erst tradirt wird.,§. 6.
+5,985,break,high,rubric,1.0,46,46,sessorinn - Erkenntniß festgesetzt worden. Dem,5) eere Käufer steht daher dieses Recht ebenfalls
+5,992,break,high,rubric,0.89,41,46,selbe die Erklärung Dr. Durchl. gefallen.,§. 7.
+5,998,break,high,rubric+short_line,0.26,12,46,dirt werden.,§. 8.
+5,1010,break,high,rubric+short_line,0.09,4,46,ist.,§. 9.
+5,1017,break,high,rubric+short_line,0.65,30,46,behalt es dabey sein bewenden.,§. 10.
+5,1029,break,high,rubric,0.98,45,46,legenheit zu betreiben und zu Ende zu bringen,§. 11.
+5,1036,break,high,rubric+short_line,0.12,5,40,petua,"a., einen Jährlichen Zins von Vier Marck Pohlnisch"
+5,1040,break,high,rubric+short_line,0.4,16,40,Gulden Pohlnisch,"b., ein Capital von 250 Rthl oder Ein tausend fünf"
+5,1050,break,high,rubric,1.1,44,40,sen nebst Kosten bis Joh. a. c. berichtigen.,"c., an öffentlichen Abgaben für Kamionne"
+5,1052,break,high,short_line+column,0.2,8,40,jährlich,153 Rth. 22 ggl. 8 Pf.
+5,1053,break,high,short_line,0.55,22,40,153 Rth. 22 ggl. 8 Pf.,desgl. für Kollno Jährl.
+5,1054,break,high,rubric+short_line,0.6,24,40,desgl. für Kollno Jährl.,125. Rthl. 21. ggl. 2 Pf.
+5,1056,break,high,short_line+column,0.7,28,40,ferner an Geistl. Abgaben in,Kamionne
+5,1057,break,high,rubric+short_line,0.2,8,40,Kamionne,16. Rthl. 16 ggl.
+5,1059,run,review,short_line,0.17,7,40,welchen,Herr Käufer Jährl. zu bezahlen und zu
+5,1061,break,high,short_line,0.53,21,40,richtigen verspricht.,Ferner hat Herr Käufer auf das stipulirte Kauf¬
+5,1063,break,high,rubric,0.8,32,40,Pretium der 142000 Rthl bezahlt.,"d., Termino Joh: a c. eine Summe von Sechs und Sie¬"
+5,1076,break,high,rubric+short_line,0.45,21,47,Käufer zufrieden ist.,"e., auf den Ueberrest des Kaufgeldes per 66000 Rthl"
+5,1079,break,high,rubric+short_line,0.4,19,47,worden den 8. Sept.,a.c. zu Handen des Herrn Ritt
+5,1083,break,high,rubric+short_line,0.19,9,47,Quittung.,"f., den letzten Rest der 12860. Rthl. 10. Ggl. 3 1/5 Pf. gehen"
+5,1091,break,high,rubric,0.72,34,47,klärung Herr Käufer zufrieden ist.,§. 12.
+5,1097,break,high,rubric,0.91,43,47,gen beide Contrahenten zu gleichen Theilen.,§. 13.
+5,1106,break,high,short_line,0.53,25,47,niedergeschrieben worden.,Urkundlich
+6,1129,break,high,salutation+short_line,0.4,12,30,bart worden.,Actum Trąbczyn den Acht¬
+6,1131,break,high,short_line+column,0.7,21,30,zehnten Julius Eintau,send Achthundert und
+6,1132,break,high,short_line+column,0.67,20,30,send Achthundert und,Sechs.
+6,1133,break,high,short_line,0.2,6,30,Sechs.,Vor unterschriebenem hie¬
+6,1136,break,high,short_line+column,0.7,21,30,erschienen persönlich,1tens
+6,1147,break,high,rubric+short_line,0.42,10,24,"heits, und",2. der Wirth Blazy Kukulski
+6,1157,run,review,short_line,0.54,13,24,meine Zweifel,Die Declarire freywillig
+6,1168,break,high,rubric+short_line,0.67,16,24,chen Prottocoll.,§. I.
+6,1172,break,high,rubric,0.75,18,24,dem Blazy Kukulski,1. Hufe schreibe Eine Hufe
+6,1175,run,review,short_line,0.71,17,24,zu dreyßig Morgen,und jeder Morgen zu Ein¬
+6,1181,break,high,rubric+short_line,0.67,16,24,ten in Erbpacht.,§. II.
+6,1191,break,high,rubric+short_line,0.12,3,24,ist,§. III.
+6,1200,break,high,rubric,1.1,27,24,derselbe hierdurch quittirt,§. IV. Außerdem macht der Blazy
+6,1223,break,high,rubric,1.0,24,24,1806. abgetragen werden.,§. V.
+6,1246,break,high,rubric,1.0,22,22,migkeit gänzlich frey.,§. VI.
+6,1262,break,high,rubric,1.0,22,22,geschränkt disponiren.,§. VII.
+6,1270,break,high,rubric+short_line,0.41,12,29,und Feldern.,§. VIII.
+6,1275,break,high,short_line,0.45,13,29,Kruge nehmen.,Wenn durch ihn oder seine Leute
+6,1285,break,high,rubric+short_line,0.17,5,29,wird.,§. IX.
+6,1290,break,high,rubric,1.0,29,29,Erbpächter stetz unterworfen.,"§. X. Erbpächter ist befugt, über diese"
+6,1294,break,high,short_line,0.34,10,29,veräußern.,die
+6,1306,break,high,short_line,0.25,7,28,werden.,Bey Vererbungen an Kinder
+6,1308,run,review,short_line,0.71,20,28,und andere Verwandte,wird kein Laudemium entrich¬
+6,1310,break,high,short_line,0.14,4,28,tet.,S. XI.
+6,1311,break,high,short_line,0.21,6,28,S. XI.,Erbpächter leistet für sich und
+6,1327,break,high,rubric+short_line,0.13,4,30,den.,§. XII.
+6,1336,break,high,rubric+short_line,0.17,5,30,kann.,§. XIII.
+6,1340,break,high,rubric+short_line,0.5,15,30,zu berichtigen.,§. XIV.
+6,1366,break,high,short_line,0.38,11,29,herrschaft.,Beyde Theile versprechen diesen
+6,1370,run,review,short_line,0.14,4,29,lich,in Absicht der folgen gerichtlich
+6,1390,break,high,short_line,0.54,22,41,bei und unterzeichnet.,v Triebenfeld.
+6,1391,break,high,short_line,0.34,14,41,v Triebenfeld.,xxx bedeutet Blazy Kukulski.
+6,1392,break,high,short_line,0.68,28,41,xxx bedeutet Blazy Kukulski.,a u s
+6,1393,break,high,short_line+column,0.12,5,41,a u s,Schenk
+6,1394,break,high,short_line+column,0.15,6,41,Schenk,Justitiarius
+6,1395,break,high,short_line+column,0.29,12,41,Justitiarius,Ogrodowicz
+6,1396,break,high,short_line+column,0.24,10,41,Ogrodowicz,Protocollführer
+6,1397,break,high,short_line+column,0.37,15,41,Protocollführer,General Vollmacht
+6,1398,run,review,short_line,0.41,17,41,General Vollmacht,Ich Endes unterschriebenen thue kund und bekenne
+6,1418,run,review,short_line,0.63,27,43,Regirung zu Kalisch und bei,"allen andern behörden zu bitten, und respet an¬"
+6,1443,run,review,short_line,0.7,30,43,lager bey Verpfänderung meines,jetzigen und künftigen Vermögens
+6,1453,break,high,short_line,0.13,5,39,1805.,(L. S.) selbstgelesen und genehmiget
+6,1477,run,review,short_line,0.33,10,30,attestiret,Er geschehen im Guhrwitzschen Justiz Amte
+6,1480,break,high,rubric,1.61,49,30,Freiherrlich von Stillfried Gehrwitzer Justiz Amt,L.S.
+6,1482,break,high,short_line+column,0.23,7,30,Koeppen,Justitiarius
+6,1483,break,high,short_line+column,0.39,12,30,Justitiarius,Kaleschke
+6,1484,break,high,short_line+column,0.3,9,30,Kaleschke,Actuarius
+6,1485,run,review,short_line,0.3,9,30,Actuarius,Urkundlich unter beidrückung des Gerichts
+6,1489,break,high,short_line,0.16,5,30,1808.,Aislich von Hohenlohesches Patrimonial Gericht amt Zagorow
+6,1491,break,high,short_line+column,0.2,6,30,Hawich,Ausfertigung
+6,1492,run,review,short_line,0.39,12,30,Ausfertigung,Das zwischen dem Herrn Krieges und
+7,1510,break,high,salutation,1.03,36,35,następuiący zawarty zostat Kontrakt.,Actum Trąbczyn den Achten Julii
+7,1515,break,high,rubric+short_line,0.26,9,35,Ihnen als,1. der Herr Kriegs und ForstRath v.
+7,1522,break,high,short_line,0.37,13,35,seiner Seits.,und
+7,1523,break,high,rubric+short_line,0.09,3,35,und,2. der Hausländer Wirth Gottlieb Sarre
+7,1526,run,review,short_line,0.37,13,35,anderer Seits,Comparenten befinden sich in dem Zustan¬
+7,1541,break,high,rubric+short_line,0.68,25,36,rende Zeiten in Erbpacht.,§II. Der Gottlieb Sarre zahlet für die Hufe Mag¬
+7,1549,break,high,rubric,0.93,34,36,ohne weiteren Vorbehalt quittiret.,§III.
+7,1568,break,high,rubric+short_line,0.34,10,29,richtiget.,§. IV
+7,1579,break,high,short_line,0.55,16,29,legt werden muß.,"dasjenige Land, welches bei der"
+7,1595,break,high,rubric+short_line,0.3,10,34,Ansprüche.,"§V. Dem Erbpächter stehet es frey, den"
+7,1615,break,high,rubric+short_line,0.5,15,30,mindert werden.,§. VI.
+7,1627,break,high,rubric,1.03,31,30,"zu berichtigen, und zu leisten.",§. VII
+7,1638,break,high,short_line,0.38,12,32,genthümlich.,"Eben so muß Erbpächter, und seine"
+7,1643,break,high,rubric,0.92,29,32,"Zuschuß, oder hülfe bewürcken",§. VIII
+7,1648,break,high,rubric,0.76,24,32,chen Wäldern und Feldern,§. IX. ein Geträncke muß Erbpächter
+7,1651,run,review,short_line,0.7,22,32,Brauerey und Brennerey,oder aus dem Krug nehmen
+7,1663,break,high,rubric+short_line,0.41,12,29,erlegt wird.,§X. Dem Mühlenzwange ist Erbpächter
+7,1667,break,high,rubric,0.97,28,29,"weiset, sein Getreide mahlen",§. XI.
+7,1675,break,high,rubric+short_line,0.34,10,29,terworden.,§. XII
+7,1690,break,high,rubric+short_line,0.3,10,33,vorbehalt.,§. XIII
+7,1707,break,high,rubric+short_line,0.21,6,29,finden,§. XIV
+7,1711,break,high,rubric,0.86,25,29,Erbpächter zu berichtigen,§. XV
+7,1717,break,high,rubric+short_line,0.69,20,29,richtigen laßen kann,§. XVI
+7,1742,run,review,short_line,0.2,6,30,lustig,Beide Theile versprechen diesen
+7,1765,break,high,rubric+short_line,0.4,10,25,schrieben.,v. Triebenfeld
+7,1767,break,high,short_line+column,0.56,14,25,Gottlieb Sarre,Schenk
+7,1768,break,high,short_line+column,0.24,6,25,Schenk,Justitiarius
+7,1769,break,high,short_line+column,0.48,12,25,Justitiarius,Ogrodowicz
+7,1770,break,high,short_line+column,0.4,10,25,Ogrodowicz,Protocoll Führer
+7,1771,run,review,short_line,0.64,16,25,Protocoll Führer,Co dla wiary publiczney pod
+7,1779,break,high,short_line+column,0.17,5,29,skiey,Hawich
+8,1793,break,high,salutation,1.12,29,26,richtlich verlautbart worden.,Actum Trąbczyn den 25ten Martz 1806.
+8,1797,break,high,rubric,0.85,22,26,"bekannte Personen, als","1., Herr Krieges und Forst Hoch¬"
+8,1807,break,high,rubric+short_line,0.35,9,26,Seits und,"2., der Einsmaße Christian"
+8,1811,break,high,short_line,0.5,13,26,derer theils.,Comparenten befinden
+8,1821,break,high,rubric,1.1,23,21,Contract zum Protocoll.,§. I.
+8,1835,break,high,short_line+column,0.71,15,21,währende Zeiten,im Erbfacht.
+8,1836,break,high,rubric+short_line,0.57,12,21,im Erbfacht.,§. II.
+8,1849,break,high,rubric,0.95,20,21,"vorbehalt, quittirt.",§. III.
+8,1873,break,high,rubric,0.95,18,19,Casse berichtigen.,§. IV.
+8,1891,break,high,short_line,0.22,4,18,muß.,"dasjenige Land, welches"
+8,1907,break,high,rubric,1.06,19,18,gemacht werden muß.,§. V.
+8,1941,break,high,rubric,0.83,15,18,mindert werden.,§. VI.
+8,1960,break,high,rubric+short_line,0.53,10,19,zu leisten,§. VII.
+8,1972,break,high,short_line,0.68,13,19,gentheinlich.,Eben so muß Erbpächter
+8,1981,break,high,rubric+short_line,0.16,3,19,ken,§. VIII.
+8,1989,break,high,rubric+short_line,0.58,11,19,und Feldern,§. IX.
+8,2009,run,review,short_line,0.71,12,17,am die Grund,herrschrift erlegt
+8,2011,break,high,rubric+short_line,0.29,5,17,wird.,§. X.
+8,2020,break,high,short_line,0.35,6,17,S. XI.,von allen und jeden
+8,2032,break,high,short_line,0.67,12,18,unterworfen.,S. XII.
+8,2033,break,high,short_line,0.39,7,18,S. XII.,ErbPächter und seine
+8,2047,run,review,short_line,0.11,2,18,um,schaft erlegt und
+8,2051,run,review,short_line,0.06,1,18,3,äußerung eingeholt
+8,2057,break,high,rubric,1.06,19,18,bedurch vorbeheilt.,§. XIII.
+8,2085,break,high,rubric+short_line,0.24,4,17,den.,§. XIV.
+8,2091,break,high,rubric+short_line,0.59,10,17,richtigen.,§. XV.
+8,2117,break,high,short_line,0.41,7,17,treten.,Sollte aber ErbPäch¬
+8,2140,break,high,short_line,0.59,10,17,verlustig.,beide Theile ver¬
+8,2162,run,review,short_line,0.71,12,17,dener Sachen,"sie trugen an,"
+8,2166,run,review,short_line,0.71,12,17,fertigen und,haben sich mich
+8,2175,break,high,short_line+column,0.54,14,26,"ben, und unter",zeichnet.
+8,2176,break,high,rubric+short_line,0.35,9,26,zeichnet.,v. Triebenfeld
+8,2180,break,high,short_line+column,0.27,7,26,Schenck,Justitiarius
+8,2181,break,high,short_line+column,0.46,12,26,Justitiarius,Ogrodowicz
+8,2182,break,high,short_line+column,0.38,10,26,Ogrodowicz,Protocollant
+8,2183,break,high,short_line+column,0.46,12,26,Protocollant,General Wollmacht
+8,2184,run,review,short_line,0.65,17,26,General Wollmacht,Ich Endes unterschriebener thus kund
+8,2188,break,high,rubric,1.08,28,26,Herrn Peter Friedrich August,v. Triebenfeld Euchwohlgebohren
+8,2218,run,review,short_line,0.13,3,24,und,behanden zu bitten.
+8,2249,break,high,short_line,0.64,14,22,finden sollte.,Was nun gedachter mein
+8,2272,break,high,short_line+column,0.68,15,22,Vollmacht eigen,händig unter
+8,2273,run,review,short_line,0.55,12,22,händig unter,schrieben und durch
+8,2295,run,review,short_line,0.69,18,26,vorstehende um den,Königl. Krieges und Forst¬
+8,2318,break,high,short_line+column,0.46,11,24,Justitz Amt,(L. S.)
+8,2319,break,high,short_line+column,0.29,7,24,(L. S.),Koeppen
+8,2320,break,high,short_line+column,0.29,7,24,Koeppen,Justitiarius
+8,2321,break,high,short_line+column,0.5,12,24,Justitiarius,Kaleschke
+8,2322,break,high,short_line+column,0.38,9,24,Kaleschke,Actuarius
+8,2323,run,review,short_line,0.38,9,24,Actuarius,Wir Friedrich Wilhelm von Gottes
+8,2350,break,high,rubric+short_line,0.35,8,23,und zwar,A.) die zur Herrschaft Zagorowo
+8,2360,break,high,rubric,0.96,22,23,Trąbczyn dismembriren.,B. das Vorwerk und dorf¬
+8,2365,break,high,rubric+short_line,0.13,3,23,und,C. die Dienste und Praestationen
+8,2384,break,high,rubric,1.09,25,23,nebst Cabinets Ordres vom,22. Octbr und 7. December
+8,2392,break,high,rubric+short_line,0.48,11,23,"sollen, als","1., daß die dem Unterthanen"
+8,2414,break,high,rubric+short_line,0.31,7,22,"müssen,","2., daß keinen der jezzigen"
+8,2427,break,high,rubric+short_line,0.53,12,22,stellen muß.,"3., daß die sämtlichen auf"
+8,2445,break,high,rubric+short_line,0.14,3,22,den,"4., daß die dem Kloster und"
+8,2471,run,review,short_line,0.68,14,20,gestellt werde,zu Urkund dessen haben
+8,2483,run,review,short_line,0.34,7,20,(L. S.),Königl. Süd Preuß. Krieges und
+8,2486,break,high,short_line+column,0.54,11,20,Menickel[?],Schmiedike
+8,2487,break,high,short_line+column,0.49,10,20,Schmiedike,Kann
+8,2488,break,high,short_line+column,0.2,4,20,Kann,Koch
+8,2489,break,high,short_line+column,0.2,4,20,Koch,Wayda
+8,2490,run,review,short_line,0.24,5,20,Wayda,Consens zur Dismembration
+8,2502,run,review,short_line,0.11,3,27,ret,Marianton den 27. Octbr. 1806.
+8,2504,run,review,short_line,0.26,7,27,(L. S.),Fürstlich Hohenloheſches Patrimonial
+8,2507,run,review,short_line,0.22,6,27,Hawich,Urkundlich und Beydrükung des Gerichts
+8,2510,break,high,short_line,0.52,14,27,ausgefertiget.,Peysern den 13. August 1807.
+8,2513,break,high,short_line+column,0.22,6,27,Hawich,Ausfertigung
+8,2514,run,review,short_line,0.44,12,27,Ausfertigung,des Erbflechts Contracts
+9,2527,break,high,short_line,0.44,16,36,10 ggl. Stempel.,Das Fürstl. Hohenlohesche Patrimonial
+9,2539,run,review,short_line,0.36,13,36,maßen könntet,Actum Trąbczyn den 17ten August 1805
+9,2549,break,high,rubric+short_line,0.08,3,36,und,"2, der hiesige Propinations Pächter"
+9,2563,break,high,rubric+short_line,0.23,7,31,tocoll.,§. I. Es verpachtet nehmlich Herr Krie¬
+9,2580,break,high,short_line+column,0.71,22,31,Maciey Niedzwidzki auf,Sechs
+9,2588,break,high,rubric,0.98,28,28,fünf hundert rthall Courant.,§. II.
+9,2600,break,high,rubric+short_line,0.63,18,28,hiedurch quitiret.,§. III.
+9,2605,break,high,rubric,1.05,30,28,in Absicht des Ertrages statt.,§. IV.
+9,2617,break,high,rubric+short_line,0.68,19,28,Verpächter und zwar,"a., jeder Komornik, Zehn an"
+9,2620,break,high,rubric+short_line,0.11,3,28,und,"b., jeder Einlieger, deren Zahl un¬"
+9,2626,break,high,rubric+short_line,0.61,17,28,lichkeit einigen.,§. V.
+9,2635,break,high,rubric+short_line,0.61,17,28,Bauern in Kopoyno,§. VI.
+9,2645,break,high,short_line,0.69,20,29,Erlaß von der Pacht.,Wenn künftig diese Abgaben auf
+9,2650,break,high,rubric,0.93,27,29,entstehende Minus zu späte.,§. VII.
+9,2661,break,high,rubric,0.76,22,29,Fuhren hartes Nutzholz,§. VIII.
+9,2674,break,high,rubric+short_line,0.27,7,26,Bauten.,§. IX.
+9,2694,break,high,rubric+short_line,0.15,4,26,den.,§. X. Diese Pacht fängt sich von
+9,2710,break,high,rubric+short_line,0.28,8,29,leisten.,§. XII.
+9,2722,break,high,rubric+short_line,0.24,7,29,haftet.,§. XIII.
+9,2744,break,high,rubric+short_line,0.19,5,27,wird.,§. IV.
+9,2752,break,high,rubric+short_line,0.63,17,27,überflüßig hatte.,§. XV.
+9,2766,break,high,rubric,1.07,31,29,Ausführen sich selbst besorgen.,§. XVI
+9,2772,break,high,rubric+short_line,0.59,17,29,dismembrirt wird.,§. XVII
+9,2776,break,high,rubric,0.83,24,29,beyde Theile zur Hälfte.,§. XVIII
+9,2793,run,review,short_line,0.04,1,27,t,"Verführung, Furcht, Zwangs,"
+9,2808,break,high,short_line,0.37,10,27,geben hat.,gelesen und genehmiget
+9,2811,break,high,short_line,0.19,5,27,feld.,zrozmialem y Koptey[?] mierądan
+9,2815,break,high,short_line+column,0.67,18,27,Maciey Niedzwiecki,Anton v Rapacki
+9,2816,break,high,short_line+column,0.56,15,27,Anton v Rapacki,jako Swiadek.
+9,2817,break,high,short_line,0.48,13,27,jako Swiadek.,u. u. u.
+9,2818,break,high,short_line,0.3,8,27,u. u. u.,Schenk.
+9,2819,break,high,salutation+short_line,0.26,7,27,Schenk.,Actum
+9,2824,break,high,rubric,0.87,26,30,das Vorwerk Kopoyno unterm,17. ten dieses Monaths geschloße.
+9,2831,break,high,rubric+short_line,0.5,15,30,Uebereinkommen.,§. I.
+9,2846,break,high,rubric+short_line,0.27,8,30,Beträgt.,§. 2
+9,2859,break,high,rubric,0.89,24,27,praenumerando berichtigt,§ 3.
+9,2879,break,high,short_line,0.37,10,27,schrieben.,gelesen und genehmiget
+9,2884,break,high,short_line+column,0.67,18,27,Języku przespisany,Maciey Niedzwiecki
+9,2885,break,high,short_line+column,0.67,18,27,Maciey Niedzwiecki,Antoni Rapacki
+9,2886,break,high,short_line+column,0.52,14,27,Antoni Rapacki,jako Swiadek.
+9,2887,break,high,short_line,0.48,13,27,jako Swiadek.,u. u. u.
+9,2888,break,high,short_line,0.3,8,27,u. u. u.,Schenk
+9,2889,run,review,short_line,0.22,6,27,Schenk,Es wird also dieser Contract hiemit unter Beydrü¬
+9,2895,break,high,short_line+column,0.26,7,27,Schenck,Justitiarius
+9,2896,run,review,short_line,0.44,12,27,Justitiarius,Ausfertigung des Pacht Contracts
+10,2914,break,high,salutation+short_line,0.59,17,29,vorlautbahrt ist.,Actum Trąbczyn den 11. ten May
+10,2916,break,high,short_line,0.17,5,29,1805.,vor unterschriebenem Patri¬
+10,2918,break,high,rubric,0.86,25,29,monial Gericht erschienen,1. Herr Krieges und ForstRath
+10,2927,break,high,rubric+short_line,0.1,3,29,und,2. der Bau Inspector H. Johann
+10,2932,run,review,short_line,0.5,11,22,derer Seits,Comparenten sind denen
+10,2944,break,high,rubric,0.91,20,22,tract zum Protocoll.,§. I.
+10,2949,break,high,rubric+short_line,0.14,3,22,wce,18. Hufen
+10,2953,break,high,rubric+short_line,0.36,8,22,Wrąbczyn,2. Hufen
+10,2966,break,high,rubric+short_line,0.57,13,23,aber zugleich,1. das Wohnhaus
+10,2968,break,high,rubric+short_line,0.13,3,23,und,2. das Brauhaus in Drzewce
+10,2971,break,high,rubric+short_line,0.26,6,23,geben.,§. II.
+10,2982,break,high,short_line,0.7,16,23,mäßigen Courant.,Die Gebäude welche §. 1. er¬
+10,2988,break,high,rubric,0.96,22,23,bereits mit begriffen.,§. III.
+10,3001,run,review,short_line,0.55,12,22,mit 2600 rtl,Schreibe zwey tausend Sechs
+10,3006,break,high,rubric+short_line,0.32,7,22,gefürt.,§. II.
+10,3026,break,high,rubric,1.04,24,23,zu Johannis jedesmal mit,150. rttr. schreibe Einhundert
+10,3033,break,high,rubric,1.0,23,23,ersten mal zu bezahlen.,§. V.
+10,3043,break,high,rubric,0.87,20,23,gisch betragen soll.,§. VI.
+10,3060,break,high,rubric,1.29,31,24,gen Herrschaftlichen Territorio,§. VII.
+10,3074,break,high,rubric+short_line,0.38,9,24,bezahlen.,§. VIII. Außer dem baaren Erbzin¬
+10,3093,break,high,rubric+short_line,0.39,9,23,erhalten.,§. IX.
+10,3107,break,high,rubric+short_line,0.35,8,23,erlegen.,§. X.
+10,3119,break,high,rubric+short_line,0.64,16,25,Zeiten befreyet.,§. XI.
+10,3123,break,high,rubric,1.12,28,25,stehet frey diese acquirirte,20. Hufen an Andere durch
+10,3135,run,review,short_line,0.12,3,25,der,Bei Vererbungen an Kin¬
+10,3144,break,high,rubric+short_line,0.48,12,25,an befreyet.,§. XII. Erbpächter leistet für sich
+10,3162,break,high,rubric,1.04,25,24,zinste zu statten kommen.,§. XIII.
+10,3166,break,high,rubric,0.96,23,24,bezahlt der Erbpächter.,§. XIV.
+10,3177,break,high,short_line,0.54,13,24,zu vertreten.,Sollte aber Erbpächter
+10,3190,break,high,short_line,0.28,7,25,zuthun.,Beide Theile versprechen den
+10,3217,break,high,short_line,0.7,16,23,gen lassen kann.,Weiter hatten Contrahen¬
+10,3226,break,high,short_line,0.43,10,23,schrieben.,Peter Friedrich August v. Trieben¬
+10,3228,break,high,rubric+short_line,0.22,5,23,feld.,F. W. Wollenhaupt genehmi¬
+10,3230,break,high,short_line,0.7,16,23,get und gelesen.,a u s
+10,3231,break,high,short_line+column,0.22,5,23,a u s,Schenck
+10,3232,break,high,short_line+column,0.3,7,23,Schenck,Brauer
+10,3233,run,review,short_line,0.26,6,23,Brauer,Actum Trąbczyn den 25ten
+10,3235,break,high,short_line,0.52,12,23,August 1805.,vor dem Unterschriebener
+10,3237,break,high,rubric+short_line,0.43,10,23,erschienen,1. der Herr Krieges und
+10,3245,break,high,rubric+short_line,0.65,15,23,"he Ingelfingen,",2. der Bau Inspector Johann
+10,3261,break,high,short_line,0.57,13,23,nommen wurde.,Auf den Grund dieser völ¬
+10,3314,break,high,short_line,0.61,14,23,zu vereinigen.,Gegen die Pächter reser¬
+10,3318,break,high,rubric,0.78,18,23,te Melioration von,"43. rttl 1. Silber-gr, und"
+10,3328,break,high,rubric,0.88,22,25,Gelesen und genehmigt.,v. Triebenfeld
+10,3330,break,high,rubric,1.08,27,25,Johann Willhelm Wollenhaupt,D. Grattenauer
+10,3332,break,high,short_line+column,0.4,10,25,qu. testis,a u s
+10,3333,break,high,short_line+column,0.2,5,25,a u s,Schenck
+10,3334,run,review,short_line,0.28,7,25,Schenck,Es wird also diese Verhandlung hiemit un¬
+10,3338,run,review,short_line,0.64,16,25,te ausgefertiget,Marianton den 18ten January 1806
+10,3341,break,high,short_line+column,0.28,7,25,Schenck,Ausfertigung
+10,3342,run,review,short_line,0.48,12,25,Ausfertigung,des Vergleichs zwischen Sr
+11,3354,break,high,rubric+short_line,0.5,8,16,Gerichte,"1., Herr krieges und"
+11,3366,break,high,short_line+column,0.69,11,16,segen Güter,einer Seits
+11,3367,break,high,short_line+column,0.69,11,16,einer Seits,und
+11,3368,break,high,rubric+short_line,0.19,3,16,und,"2., der Schönfärber und"
+11,3393,break,high,rubric,0.93,13,14,zum Protocoll,§. 1.
+11,3400,run,review,short_line,0.64,9,14,Acker dem,Johann Seymert
+11,3403,run,review,short_line,0.71,10,14,drey hufen,"Magdeburg, welche"
+11,3415,break,high,rubric+short_line,0.36,5,14,zinß.,§. II.
+11,3433,run,review,short_line,0.67,9,14,Summe auf,Johannis dieses
+11,3437,break,high,rubric+short_line,0.59,8,14,Courant.,§. III.
+11,3447,run,review,short_line,0.67,9,14,wahrenden,jährlichen Erbzinß
+11,3477,run,review,short_line,0.64,9,14,erstenmal,zu bezahlen.
+11,3478,break,high,rubric,0.86,12,14,zu bezahlen.,§. IV.
+11,3485,run,review,short_line,0.64,9,14,weder vor,jezt noch für
+11,3492,run,review,short_line,0.71,10,14,mich weder,hütungs noch holzungs
+11,3496,break,high,rubric,1.64,23,14,herrschaftl. Territorio,§. V.
+11,3522,break,high,rubric,1.13,17,15,"oder zu erhalten,",§. VI
+11,3542,break,high,rubric+short_line,0.4,6,15,legen.,§. VII.
+11,3559,break,high,rubric,1.07,16,15,Zeiten befreyet.,§. VIII.
+11,3591,break,high,rubric+short_line,0.53,8,15,bezahlt.,§. IX.
+11,3607,run,review,short_line,0.67,10,15,andere Art,"entstehen, ganz"
+11,3617,break,high,rubric,1.0,15,15,"statten kommen,",§. X.
+11,3635,break,high,rubric+short_line,0.64,9,14,Bauhülfe.,§. XI.
+11,3641,break,high,rubric,1.07,15,14,dem ErbPächter.,§. XII
+11,3650,run,review,short_line,0.57,8,14,men wird,verspricht die
+11,3655,run,review,short_line,0.71,10,14,überall zu,schüzzen und
+11,3679,break,high,short_line,0.5,7,14,gethan.,Beide theile
+11,3687,run,review,short_line,0.57,8,14,entfrage,allen darin¬
+11,3713,break,high,short_line,0.31,4,13,den.,Sr. Hochfürstl. Durch¬
+11,3729,break,high,short_line,0.54,7,13,können.,weiter hätten
+11,3745,break,high,rubric+short_line,0.54,7,13,Seimert,a. u. s.
+11,3747,break,high,short_line+column,0.54,7,13,Schenck,Brauer
+12,3754,break,high,rubric+short_line,0.5,8,16,schienen,"1., Herr Krieges und"
+12,3767,break,high,short_line+column,0.31,5,16,Seits,und
+12,3768,break,high,rubric+short_line,0.19,3,16,und,"2., der Förster H. George"
+12,3781,break,high,short_line,0.44,7,16,würfen.,dieselben ver¬
+12,3794,break,high,rubric+short_line,0.67,10,15,Protocoll.,§. I.
+12,3804,run,review,short_line,0.2,3,15,und,an Wiesen in denen
+12,3813,run,review,short_line,0.67,10,15,Kammer von,jezt ab auf und
+12,3826,break,high,rubric,1.07,16,15,liegende Bauholz,§. II.
+12,3842,run,review,short_line,0.41,7,17,Rthaler,überhaupt also 2100 rthl.
+12,3846,run,review,short_line,0.71,12,17,und zwar auf,Johanni dieses Jahres
+12,3857,break,high,rubric+short_line,0.29,5,17,rant.,§. III.
+12,3869,run,review,short_line,0.65,11,17,werden darf,pro Hufe Magdeburg
+12,3891,break,high,rubric,1.07,16,15,mal zu bezahlen.,§. IV.
+12,3894,run,review,short_line,0.67,10,15,muß kommen,sich auf eigene
+12,3898,run,review,short_line,0.6,9,15,weder vor,jagt nach für
+12,3909,break,high,rubric,1.6,24,15,errschafftl. Territorio.,§. V.
+12,3914,run,review,short_line,0.6,9,15,dem komme,setald als möglich
+12,3935,break,high,rubric+short_line,0.55,8,14,stellet.,§. VI.
+12,3963,break,high,rubric+short_line,0.64,9,14,erhalten.,§. VII.
+12,3968,run,review,short_line,0.71,10,14,brandtwein,aus dem Herrschafts
+12,3977,run,review,short_line,0.71,10,14,brandtwein,Einen Rthaler und
+12,3982,run,review,short_line,0.71,10,14,Strafe der,Grundherrschaft
+12,3984,break,high,rubric+short_line,0.57,8,14,erlegen.,§. VIII.
+12,4001,break,high,short_line,0.64,9,14,befreyet.,S. IX.
+12,4002,break,high,short_line,0.43,6,14,S. IX.,Dem Erbpächter
+12,4008,run,review,short_line,0.71,10,14,aaquirirte,Stelle den andere
+12,4034,break,high,rubric+short_line,0.43,6,14,zahlt.,§. X.
+12,4054,run,review,short_line,0.71,10,14,andere Art,"entstehen, ganz¬"
+12,4064,break,high,rubric,1.07,15,14,statten kommen.,§. XI.
+12,4071,break,high,rubric+short_line,0.57,8,14,Pächter.,§. XII.
+12,4091,break,high,short_line,0.71,10,14,vertreten.,Sollte aber Erb¬
+12,4109,break,high,short_line,0.5,7,14,guthun.,Beide Theile
+12,4141,break,high,short_line,0.31,4,13,den.,Sr. Hochfürstl. Durch¬
+12,4175,break,high,rubric,1.77,23,13,George Friedrich Kammer,a. u. s.
+12,4177,break,high,short_line+column,0.54,7,13,Schenck,Brauer
+13,4189,break,high,rubric+short_line,0.23,9,39,schloßen.,§. I.
+13,4200,break,high,rubric+short_line,0.46,18,39,gewählten Gründen.,§. II.
+13,4206,break,high,rubric+short_line,0.49,19,39,er kann zu einigen.,§. III.
+13,4212,break,high,rubric+short_line,0.33,13,39,Reichsthaler.,§. IV.
+13,4222,break,high,rubric,0.9,38,42,mahl Sieben rttlr Zwölf gute Groschen.,§. V.
+13,4231,break,high,rubric+short_line,0.1,4,42,gen.,§. VI.
+13,4235,break,high,rubric,0.88,37,42,gemessen und in Besizz tradirt werden,§. VII.
+13,4239,break,high,rubric+short_line,0.62,26,42,Morgen Wiesewachs bestehen,§. VIII.
+13,4247,break,high,rubric,0.81,34,42,ches treulich nachgewiesen werden.,§. IX.
+13,4256,break,high,rubric,0.82,32,39,eine andere Wohnung verschaffen.,§. X.
+13,4263,break,high,rubric,0.95,37,39,"gelegt, und gehörig repartirt werden.",§. XI.
+13,4271,break,high,rubric+short_line,0.33,13,39,oder kauffen.,§. XII.
+13,4287,break,high,rubric+short_line,0.26,10,39,tiget ist.,§. XIII.
+13,4292,break,high,rubric+short_line,0.49,19,39,Zeiten unablöslich.,§. XIV.
+13,4301,break,high,rubric,0.74,29,39,und ewige Zeiten unterworfen.,§. XV
+13,4307,break,high,rubric,0.97,38,39,fern sich dieses auch unterziehen muß.,§. XVI.
+13,4317,break,high,rubric,1.01,40,40,"Rthaler, an die Grundherrschaft erlegen.",§. XVII.
+13,4324,break,high,rubric+short_line,0.66,26,40,Erbzins zu statten kommen.,§. XVIII.
+13,4328,break,high,rubric,0.91,36,40,und seine Nachkäufer zu berichtigen.,§. XIX.
+13,4355,run,review,short_line,0.68,26,38,Trąbczyn den 7ten May 1805,Peter Friedrich August v Triebenfeld
+13,4359,break,high,short_line,0.66,25,38,zu Hohenlohe Ingelfingen.,gelesen und genehmiget
+13,4360,break,high,short_line+column,0.58,22,38,gelesen und genehmiget,Johann Gottlieb Tschachmann
+13,4361,run,review,short_line,0.71,27,38,Johann Gottlieb Tschachmann,Johan Fried. Cabanis als Zeuge
+13,4363,break,high,short_line+column,0.58,22,38,Carl. Willhelm Richter,als Zeuge
+14,4371,break,high,rubric+short_line,0.29,5,17,"lich,","1., der Herr Krieges"
+14,4382,break,high,short_line+column,0.71,12,17,stigen Güter,einer Seits
+14,4383,break,high,rubric+short_line,0.65,11,17,einer Seits,"2., der hiesige Fürstl."
+14,4387,break,high,short_line,0.35,6,17,Seits.,Comparenten stud¬
+14,4395,break,high,short_line,0.41,7,17,ziehen.,Dieselben ver¬
+14,4407,break,high,rubric,0.72,9,12,Protocoll,§ I.
+14,4414,run,review,short_line,0.56,7,12,vorwerk,Acker dem
+14,4434,break,high,rubric,1.52,19,12,Zeiten in Erbgiess.,§. II.
+14,4464,break,high,rubric+short_line,0.53,8,15,Courant.,§. III.
+14,4496,break,high,rubric,0.8,12,15,zu bezahlen.,§. IV.
+14,4505,break,high,rubric,0.87,13,15,en entrichtet,§. IV.
+14,4508,break,high,short_line,0.35,6,17,S. IV.,Seid Etablissement
+14,4512,run,review,short_line,0.65,11,17,ohne daß er,hiezu weder von
+14,4517,run,review,short_line,0.71,12,17,hulfe erhält,selbst bewür¬
+14,4519,break,high,rubric+short_line,0.24,4,17,ken.,§. VI.
+14,4528,break,high,short_line+column,0.59,10,17,fünf hufen,solle und
+14,4529,run,review,short_line,0.53,9,17,solle und,jede Königl. Steuern
+14,4546,break,high,rubric+short_line,0.64,9,14,erhalten.,§. VII.
+14,4551,run,review,short_line,0.71,10,14,Brandtwein,mit dem Herr¬
+14,4561,run,review,short_line,0.71,10,14,Brandtwein,Einen Rthaler und
+14,4567,break,high,rubric,1.07,15,14,schaft erlegen.,§. VIII.
+14,4584,break,high,rubric,1.07,16,15,Zeiten befreyet.,5. I
+14,4616,break,high,rubric,1.07,15,14,demium bezahlt.,§. X.
+14,4634,run,review,short_line,0.57,8,14,der wart,"entstehen, ganz¬"
+14,4644,break,high,rubric+short_line,0.5,7,14,kommen.,§. XI.
+14,4661,break,high,rubric,0.79,11,14,brauchelfe.,§. XII.
+14,4668,break,high,rubric+short_line,0.57,8,14,Pächter.,§. XIII.
+14,4676,break,high,short_line+column,0.71,10,14,nachkommen,"wird, wer¬"
+14,4681,break,high,short_line+column,0.71,10,14,rechtsamen,überall zu
+14,4682,run,review,short_line,0.71,10,14,überall zu,"schüppen, und"
+14,4689,break,high,short_line,0.54,7,13,treten.,Sollte aber Erb¬
+14,4708,break,high,short_line,0.54,7,13,güthen.,beide Theile
+14,4737,run,review,short_line,0.71,10,14,den folgen,dieser Ent¬
+15,4778,break,high,rubric,0.91,67,74,verabredet und bis zur Genehmigung Seiner Durchlaucht abgesc,1.
+15,4784,break,high,rubric,0.98,72,74,"Maas, die Hufe zu Dreyßig Morgen und den Morgen zu 180 Ruthe",2.
+15,4787,break,high,rubric,1.06,78,74,an Seiner Durchlaucht 300 Rthl sage drey hundert Reichs Thal,3.
+15,4792,break,high,rubric,0.99,73,74,Raten auf Johanni und Weinachten jedesmahl sieben vor Zwölf ,4.
+15,4796,break,high,rubric,0.76,56,74,Annehmern zu ihrem Vorteil so gut sie können zu einigen.,5.
+15,4803,break,high,rubric+short_line,0.64,47,74,und als gar nicht geschloßen betrachtet werden.,6.
+15,4813,break,high,rubric+short_line,0.61,38,62,zugemeßen und in besiz tradirt werden.,8.
+15,4822,break,high,rubric,0.81,50,62,an die Herrschaftliche Casse bezahlt werden müßen.,9.
+15,4827,break,high,rubric,1.03,64,62,sollen solche auf den Hufen gelegt und gehörig repartirt wer,10.
+15,4833,break,high,rubric+short_line,0.11,7,62,suchen.,11.
+15,4838,break,high,rubric+short_line,0.53,33,62,schaft etwas bezahlt werden darf.,12.
+15,4848,break,high,rubric+short_line,0.66,35,53,Kosten dieser Zutheilung zu tragen.,13.
+15,4858,break,high,rubric+short_line,0.64,34,53,bis das Laudemium berichtiget ist.,14.
+15,4863,run,review,short_line,0.04,2,53,15,Erbpächter ihre Nachkäufer und Nachbommen bleiben
+15,4873,break,high,rubric,0.98,51,52,zu etablirenden Gemeinden ein für allemahl und zwar,1. für den Schulehrer 6 Morgen
+15,4874,break,high,rubric,0.58,30,52,1. für den Schulehrer 6 Morgen,2. für den Schulzen 6 Morgen
+15,4875,break,high,rubric,0.54,28,52,2. für den Schulzen 6 Morgen,3. zum Kirch-Hust 1 Morgen
+15,4879,break,high,rubric+short_line,0.46,24,52,und Zinsfrey zugetheilt.,17.
+15,4882,break,high,rubric,0.94,49,52,in zwey gleichen Lienien anzulegen und aufzubauen,18.
+15,4889,break,high,rubric,0.87,45,52,Thaler Strafe an die Grundherrschaft erlegen.,19.
+15,4894,break,high,rubric,1.15,60,52,in eine Bonification oder Erlas von Erbzins zu statt kommen.,20.
+15,4908,break,high,rubric,0.77,41,53,rede einzuziehen und anderweit auszuthun.,22.
+15,4913,break,high,short_line,0.64,34,53,alle für einen mithin Solidarisch.,Beide Theile versprechen den vorstehenden Erbpachts Contract
+15,4919,break,high,short_line,0.53,28,53,Trąbczyn d 6ten Aprill 1805.,v Triebenfeld
+15,4920,break,high,short_line+column,0.25,13,53,v Triebenfeld,Carl Titz
+15,4921,break,high,short_line+column,0.17,9,53,Carl Titz,Lorenz Goll[?]
+15,4922,break,high,short_line+column,0.26,14,53,Lorenz Goll[?],Jozef Exte[q?]s.
+15,4923,break,high,short_line,0.3,16,53,Jozef Exte[q?]s.,Paweł [in?]kobowski
+15,4924,break,high,short_line+column,0.36,19,53,Paweł [in?]kobowski,Antoni Białkowski
+15,4925,break,high,short_line+column,0.32,17,53,Antoni Białkowski,Konstanty Oczykoski mpp.
+15,4926,break,high,short_line,0.45,24,53,Konstanty Oczykoski mpp.,Elisabetta di Simony 3 Hufen.
+15,4927,break,high,short_line,0.55,29,53,Elisabetta di Simony 3 Hufen.,xxx Andreas Berlinsky
+15,4928,break,high,short_line+column,0.4,21,53,xxx Andreas Berlinsky,xxx Daniel Poill
+15,4929,break,high,short_line+column,0.3,16,53,xxx Daniel Poill,xxx Johan Friedrich Melzer 2 Huffen
+15,4937,break,high,short_line+column,0.68,19,28,Johann Hoffmann xxx,Martin Bloch xxx
+15,4938,break,high,short_line+column,0.57,16,28,Martin Bloch xxx,P[ro] M[emoria]
+15,4939,run,review,short_line,0.54,15,28,P[ro] M[emoria],Von denen verliehenen: 270 Hufen
+15,4943,break,high,rubric,1.32,37,28,"gelt und dismembriret haben, nehmlich",1. an Kuh[n?]t et Consorten: 42 Hufen
+15,4944,break,high,rubric,1.32,37,28,1. an Kuh[n?]t et Consorten: 42 Hufen,2. Henrichs: 6.
+15,4945,break,high,rubric,0.54,15,28,2. Henrichs: 6.,3. Christoph Schönfisch 1 Hufe 5 Morg 9 R
+15,4946,break,high,rubric,1.46,41,28,3. Christoph Schönfisch 1 Hufe 5 Morg 9 R,4. Kienast et Consorten: 40
+15,4947,break,high,rubric,0.96,27,28,4. Kienast et Consorten: 40,5. Kienast et Consorten: 4
+15,4948,break,high,rubric,0.93,26,28,5. Kienast et Consorten: 4,6. Tschachmann: 20
+15,4949,break,high,rubric,0.64,18,28,6. Tschachmann: 20,7. Seymert: 3
+15,4950,break,high,rubric,0.46,13,28,7. Seymert: 3,8. Hemmerling et Schiritz: 18
+15,4951,break,high,rubric,1.04,29,28,8. Hemmerling et Schiritz: 18,9. Stephyn et Consorten: 10
+15,4952,break,high,rubric,0.96,27,28,9. Stephyn et Consorten: 10,10. v. Leski: 6
+15,4953,break,high,rubric,0.54,15,28,10. v. Leski: 6,11. Kommer: 6 Hufe 20 Morg
+16,4975,break,high,salutation+short_line,0.52,17,33,verlautbaret ist:,Actum Trąbczyn den zwanzigsten December
+16,4978,break,high,short_line+column,0.61,20,33,Vor unterschriebenem,Patrimonial Gerichte
+16,4979,break,high,short_line+column,0.61,20,33,Patrimonial Gerichte,"erschienen persöhnlich,"
+16,4980,break,high,rubric+short_line,0.7,23,33,"erschienen persöhnlich,","1., der Herr Krieges und Forst"
+16,4984,run,review,short_line,0.67,22,33,laucht des regierenden,Herrn Fürsten zu Hohenlohe
+16,4988,break,high,short_line+column,0.33,11,33,einer Seite,und
+16,4989,break,high,rubric+short_line,0.09,3,33,und,"2., Die Einsaaßen"
+16,4990,break,high,rubric,0.52,17,33,"2., Die Einsaaßen",1. Martin
+16,4996,run,review,short_line,0.59,13,22,Michel Dümmel,"Gottfried Dams, und"
+16,5000,break,high,short_line,0.55,12,22,derer Seits.,Comparenten sind denen
+16,5007,break,high,short_line,0.5,11,22,zweifel ob.,dieselben declariren Frey¬
+16,5011,break,high,rubric,1.05,23,22,Contract zum Protocoll.,§. I.
+16,5039,run,review,short_line,0.67,14,21,Martin Giering,Wilhelm Daniel Schulz
+16,5042,run,review,short_line,0.62,13,21,Michel Dämmel,Gottfried Damt und
+16,5047,break,high,short_line,0.29,6,21,Pacht.,Jede Hufe enthält drey¬
+16,5052,break,high,rubric+short_line,0.52,11,21,deburgisch.,§. II.
+16,5073,break,high,short_line,0.57,13,23,abzubezahlen.,An jährlichen Erb. Canon
+16,5103,break,high,rubric,0.88,21,24,ten gänzlich befreyt.,§. IV.
+16,5132,break,high,rubric+short_line,0.51,11,22,stattfinden,§. V.
+16,5146,break,high,rubric+short_line,0.19,4,22,fen.,§. VI.
+16,5160,break,high,rubric,0.78,16,20,bezahlen dürfen.,§. VII.
+16,5170,break,high,rubric+short_line,0.54,11,20,zu einigen.,§. VIII.
+16,5193,break,high,rubric,1.05,20,19,eigenthümlich gehört,§. IX.
+16,5210,break,high,rubric+short_line,0.38,8,21,beträgt.,§. X.
+16,5222,break,high,rubric+short_line,0.48,10,21,schritten.,§. XI.
+16,5248,run,review,short_line,0.71,15,21,bei Vererbungen,oder Abstand an Kinder
+16,5256,break,high,rubric+short_line,0.38,8,21,befreyt.,§. XII.
+16,5288,run,review,short_line,0.68,15,22,währende Zeiten,unablöslich stehen
+16,5290,break,high,rubric+short_line,0.36,8,22,bleiben.,§. XIII.
+16,5299,break,high,rubric+short_line,0.45,10,22,terworfen.,§. XIV.
+16,5317,break,high,rubric+short_line,0.41,9,22,bezahlen.,§. XV.
+16,5338,break,high,rubric+short_line,0.3,7,23,kommen.,§. XVI.
+16,5343,break,high,rubric+short_line,0.65,15,23,zu berichtigen.,§. XVII.
+16,5371,break,high,rubric+short_line,0.6,14,24,werden dürfen.,§. XVIII.
+16,5416,break,high,short_line,0.48,11,23,ßen können.,Noch wird von Seiten
+16,5460,break,high,short_line,0.23,5,22,soll.,Mehr hatten Contra¬
+16,5482,break,high,short_line,0.55,12,22,terzeichnet.,Selbst gelesen und ge¬
+16,5484,break,high,short_line,0.36,8,22,nehmigt.,Friedrich Ludwig Fürst
+16,5486,break,high,rubric+short_line,0.55,12,22,zu Hohenlohe,v. Triebenfeld
+16,5488,run,review,short_line,0.64,14,22,Martin Giering,xxx Wilhelm Daniel Schulz
+16,5502,run,review,short_line,0.43,9,21,Heinrichs,Königl. Kammer Commis¬
+16,5504,run,review,short_line,0.67,14,21,sions Rath und,Oconomie Commissarius
+16,5505,break,high,rubric,1.0,21,21,Oconomie Commissarius,a. u. s.
+16,5507,break,high,short_line+column,0.33,7,21,Schenck,Brauer
+16,5508,run,review,short_line,0.29,6,21,Brauer,Es wird nun dieser Contract unter Beidrü¬
+16,5512,run,review,short_line,0.24,5,21,tiget,Marianton den 13ten May 1806
+16,5515,break,high,short_line+column,0.33,7,21,Schenck,Ausfertigung
+16,5516,run,review,short_line,0.57,12,21,Ausfertigung,des Erbpachts Contracts
+16,5524,break,high,short_line+column,0.33,7,21,No 1308,Taxe br: 8
+16,5525,break,high,short_line+column,0.48,10,21,Taxe br: 8,Stempel: 6
+16,5526,break,high,short_line+column,0.48,10,21,Stempel: 6,Mund: 12
+17,5537,break,high,rubric+short_line,0.15,7,47,nemlich,1. dem Holländer Martin Giering aus Racotten
+17,5538,break,high,rubric,0.94,44,47,1. dem Holländer Martin Giering aus Racotten,2. dem Holländer Wilhelm Daniel Schulz aus Krolikower Holländ
+17,5539,break,high,rubric,1.3,61,47,2. dem Holländer Wilhelm Daniel Schulz aus Krolikower Hollän,3. dem Holländer Gottfried Dumel aus Razoten
+17,5540,break,high,rubric,0.94,44,47,3. dem Holländer Gottfried Dumel aus Razoten,4. dem Holländer Michael Dumel daselbst
+17,5541,break,high,rubric,0.83,39,47,4. dem Holländer Michael Dumel daselbst,3. dem Holländer Gottfried Damt daselbst.
+17,5544,break,high,short_line,0.49,23,47,aus Trąbczyner Holländ.,als Käufer und Annehmer anderer Seits folgender Contract
+17,5546,break,high,rubric,1.0,47,47,wohlbedächtig verabredet und geschloßen werden.,§. 1.
+17,5553,run,review,short_line,0.32,18,56,Alte Hütte genandt,"Zehn Hufen und Zehn Morgen magdeburgisch, sowohl"
+17,5573,break,high,short_line,0.2,9,45,2500 rtr.,schreibe zweitausend fünfhundert Reichs thaler in preußl.
+17,5576,break,high,rubric+short_line,0.38,17,45,sagt zu bewürken.,a. Als ein Angeld zahlen Kräfer bei Unterschrift des
+17,5578,run,review,short_line,0.38,17,45,Contracts 450 rtr,schreibe Vierhundert Fünfzig Reichsthaler
+17,5579,break,high,rubric,0.91,41,45,schreibe Vierhundert Fünfzig Reichsthaler,b. Johanni 1804. werden berichtiget 550 rtr sage
+17,5581,break,high,rubric,0.73,33,45,Fünfhundert Fünfzig Reichs thaler,c. der Ueberrest mit 1500 rtr
+17,5595,break,high,rubric,0.79,41,52,haltung geschiehet auf Kosten der Käufer.,§. 3.
+17,5605,break,high,rubric,0.96,50,52,Erstraßen eine Zinsfreiheit von 3 Jahre sage drei.,§. 4.
+17,5616,break,high,rubric+short_line,0.38,22,58,alle für einen haften.,§. 5.
+17,5627,break,high,rubric+short_line,0.58,34,58,Vorschuße ausdrücklich verkhalten.,§. 6.
+17,5631,run,review,short_line,0.7,37,53,Hütte die aus der Trąbczyner Forst in,geseglichen Holz-Tagen zu holen hiermit erlaubt sein; Jeder In¬
+17,5643,break,high,rubric+short_line,0.28,15,53,schont bleiben.,§. 7.
+17,5648,break,high,rubric+short_line,0.72,38,53,mit Horn und Schaaf- Vieh Recht haben.,§. 8.
+17,5656,break,high,rubric,0.76,40,52,der fort nicht verschränkt werden könne.,§. 9.
+17,5662,break,high,short_line,0.23,12,52,berichtiget.,Die in diesem Contrakt genandten Käufer bleibe bei verkennen¬
+17,5665,break,high,rubric+short_line,0.4,21,52,Jahres 1803 befreiet.,§. 10.
+17,5670,break,high,rubric+short_line,0.23,12,52,legt werden.,§. 11.
+17,5677,break,high,rubric+short_line,0.64,34,53,zu nehmen hiermit verstattet wird.,§. 12.
+17,5688,break,high,rubric+short_line,0.68,36,53,zu den nötigen Aussaater vorzugehen.,§. 13.
+17,5699,break,high,rubric+short_line,0.19,10,52,get werde.,§. 15.
+17,5701,break,high,rubric,1.19,62,52,"Käuferischen Seits, wird darin ausdruklich gewilliget, daß d",§ 3. stipulirte Erbzins in den Hipotheken buhe einer ieden
+17,5703,break,high,rubric,0.73,38,52,einzelnen Besizzung eingetragen werde.,§. 16.
+17,5707,break,high,rubric,1.19,62,52,Brandtwein Brennin oder Schank Stellen zu nehmen vergeklähre,§. 17.
+17,5712,break,high,short_line,0.67,35,52,derselben beizubieten verpflichtet.,Die Stempel Gebüren dieses Contracts werden von beiden
+17,5721,run,review,short_line,0.4,14,35,unterschrieben,gleich nach erfolgter Ratihabition dieses Contracts
+17,5724,break,high,salutation,0.86,30,35,rechtlich verlautbaret werden.,So geschehen Zagorowo den 26 May Eintausend
+17,5726,break,high,short_line+column,0.57,20,35,Achthundert und Vier,Kunkel
+17,5727,run,review,short_line,0.17,6,35,Kunkel,Special-Bevollmächtigter: Sr. Hoch¬
+17,5730,break,high,short_line,0.2,7,35,fingen.,mört in Göring
+17,5731,run,review,short_line,0.4,14,35,mört in Göring,Signa xxx des Michael Dümel
+18,5741,break,high,short_line+column,0.12,5,40,Copia,No. 92.
+18,5742,break,high,short_line,0.17,7,40,No. 92.,Wir das Fürstlich Hohenloh-Ingelfingensche
+18,5747,break,high,rubric+short_line,0.28,11,40,erschienen:,"1, der Fürstlich Hohenlohe-Ingelfingensche Güter"
+18,5750,break,high,rubric,0.75,30,40,"Johann Wilhelm Glenk an einem,","2, desgleichen die Bevollmächtigten der Stadt¬"
+18,5754,break,high,rubric+short_line,0.5,20,40,"Lowin und Kulligowo,","a, der Bürger und Stadt-Representant Ma¬"
+18,5756,break,high,rubric+short_line,0.42,17,40,theus Młynkiewicz,b) der Freyschulze Johann Chmara
+18,5764,run,review,short_line,0.57,25,44,"ren besaget, also lautend",Actum Betsche den 28ten Juli 1804.
+18,5766,break,high,rubric+short_line,0.23,10,44,Erschienen,"1, der Fürstlich Hohenlohe-Ingelfingensche Gene¬"
+18,5772,break,high,rubric,0.85,37,44,Freund und Beystand zugeordnet haben.,"2, der Bürger und Stadtrepresentant Matheus Młynkie¬"
+18,5775,break,high,rubric+short_line,0.23,10,44,"gerschaft,","3, der Freyschulze Johann Chmara aus Stalluhn"
+18,5779,break,high,short_line+column,0.32,14,44,"chodzyn, Lowin",mit
+18,5795,break,high,short_line,0.33,15,46,genommen wurde.,Gleichergestalt überreicht auch der Młynkiewicz
+18,5805,break,high,short_line,0.3,13,44,zu schließen.,Ebenfalls überreicht der Chmara eine gerichtliche
+18,5808,run,review,short_line,0.3,13,44,den Gemeinden,"Stalluhn, Kulligowo, Schartzig, Stoki, Schwie¬"
+18,5810,run,review,short_line,0.34,15,44,"choczyn, Lowin,",gleichergestellt wie der Młynkiewicz authorisirt
+18,5818,break,high,rubric,1.07,47,44,"so wurde der Contract, wie folget, aufgenommen.",§ 1.
+18,5857,break,high,rubric,0.76,33,44,"können, mögen und sollen für ein.",§ 2.
+18,5866,break,high,rubric+short_line,0.57,24,42,nach gleichem Müntzfuße.,§ 3.
+18,5869,break,high,short_line,0.67,28,42,wird es in der Art gehalten:,Es übernehmen die Stadt- und übrigen Dorf Ge¬
+18,5874,break,high,rubric,0.76,32,42,belirte Hypothequen-Schulden als,"1, 48,000 rt"
+18,5877,break,high,rubric+short_line,0.64,27,42,"getragen, von welcher Summe","36,000 rtt an den Banquieur Salomon"
+18,5883,break,high,rubric,0.94,29,31,zu Frankfurth a/o cedirt sind,"2, 2000 rt."
+18,5887,break,high,rubric+short_line,0.42,13,31,getragen sind,"3, 5000 rt."
+18,5892,break,high,rubric,0.84,26,31,Frankfurth a/o cedirt sind,"4, 5000 rthl."
+18,5897,break,high,rubric+short_line,0.13,4,31,sind,"5, 5000 rt."
+18,5911,break,high,rubric,1.09,38,35,bis zum 26ten Juli c. berichtigt sind.,"6, 72,000 Rthl."
+18,5923,break,high,rubric,0.36,12,33,"137,000 Rthl","7, stipuliren die Deputirten von dem"
+18,5934,run,review,short_line,0.67,22,33,"den in der Art bezalt,",Morgen des Tages den 29ten Julii
+18,5943,run,review,short_line,0.25,9,36,137000 rt,Wenn unter den zu zalenden Gel¬
+18,5954,break,high,rubric+short_line,0.19,7,36,zurück.,§. 4.
+18,5980,break,high,rubric+short_line,0.28,12,43,Ingelfingen.,§. 5.
+18,5990,run,review,short_line,0.16,7,44,auf die,Benutzung ihrer Gärten. Auch behalten sich
+18,6012,break,high,rubric,0.76,34,44,zu verabreichen und heranzufahren.,§. 6.
+18,6019,break,high,rubric+short_line,0.11,5,44,sten.,§. 7.
+18,6032,break,high,rubric+short_line,0.53,23,43,gleichfalls entrichtet.,§. 8.
+18,6035,run,review,short_line,0.09,4,43,"vor,",daß wenn sie höchstselbst oder deren Nach¬
+18,6041,break,high,rubric+short_line,0.26,11,43,zu leisten.,§. 9.
+18,6052,break,high,rubric,1.23,53,43,laucht dem bischöflichen Consistorio zu praesentiren.,§. 10.
+18,6054,break,high,short_line,0.28,12,43,versprechen.,Die Prozeße zwischen der Gemeinde zu Stocki¬
+18,6073,break,high,rubric+short_line,0.14,6,42,haben.,§. 11.
+18,6090,break,high,short_line+column,0.25,11,44,den den von,Sr. Hochfürstlichen Durch¬
+18,6093,break,high,rubric,1.02,45,44,zu leisten versprochenen Beytrag von 50 rthl.,§ 12.
+18,6103,break,high,rubric+short_line,0.57,25,44,und seite ertheilt werde.,§. 13.
+18,6113,break,high,rubric+short_line,0.57,27,47,der Uebergabe erhalten hat.,§. 14.
+18,6127,break,high,rubric+short_line,0.29,12,42,co gesendet.,§. 15.
+18,6137,break,high,rubric+short_line,0.12,5,42,laßen,§. 16.
+18,6148,break,high,rubric,0.8,35,44,sche und Zubehör eingetragen werde.,§. 17.
+18,6159,break,high,rubric+short_line,0.61,27,44,Contracte freystehen würde.,§. 18.
+18,6168,break,high,short_line,0.68,30,44,dieserhalb mit ihm zu einigen.,"Somit wurde, da ein mehrers nicht anzuführen"
+18,6181,break,high,short_line+column,0.55,24,44,"Vogelesen, genehmigt und",unterschrieben
+18,6184,run,review,short_line,0.44,14,32,unterschrieben,Selbst gelesen und genehmigt.
+18,6188,run,review,short_line,0.09,3,32,ter,Peter Friedrich August v Triebenfeld
+18,6193,break,high,short_line+column,0.19,6,32,Metzig,Justitarius
+18,6194,break,high,short_line+column,0.34,11,32,Justitarius,Neumann Actuarius
+18,6195,run,review,short_line,0.53,17,32,Neumann Actuarius,Actum Betsche den 29ten Juli 1804.
+18,6197,break,high,rubric+short_line,0.41,13,32,Heute erschei,"1, der Fürstlich Hohenlohe Ingelfingensche Gene¬"
+18,6207,break,high,rubric+short_line,0.59,26,44,Contract nachfolgendes bey,§. 1.
+18,6213,break,high,rubric+short_line,0.11,5,44,wird.,§. 2.
+18,6229,break,high,short_line,0.5,21,42,Johann Wilhelm Glenk.,J. Chmara mpp
+18,6230,break,high,short_line+column,0.31,13,42,J. Chmara mpp,M. Młynkiewicz
+18,6231,break,high,short_line+column,0.33,14,42,M. Młynkiewicz,Metzig
+18,6232,break,high,short_line+column,0.14,6,42,Metzig,Neumann
+18,6233,run,review,short_line,0.17,7,42,Neumann,"Da nun eine beglaubte Ausfertigung von nöthen,"
+18,6237,break,high,salutation,1.0,42,42,Unserm Insiegel und Unterschrift ertheilt.,So geschehen Betrche den 7ten December 1804
+18,6240,break,high,short_line,0.1,4,42,Amt.,Metzig
+18,6241,break,high,short_line+column,0.14,6,42,Metzig,Neumann
+18,6242,run,review,short_line,0.17,7,42,Neumann,(Abscrift) Friedrich Wilhelm König von Preußen p. p.
+18,6263,break,high,rubric+short_line,0.3,13,43,"Anträgen, daß","1, ihre Societät stets als ein Kreisstand, welcher durch"
+18,6269,break,high,rubric,0.86,38,44,"durch sie ausgeübt worden, betrachtet.","2, dem Herrn Fürsten die Aufsicht auf die dasi¬"
+18,6273,break,high,rubric+short_line,0.07,3,44,ein,"3, ihnen in ihrem Verhältniße zum platten Lande"
+18,6295,break,high,short_line+column,0.33,8,24,Mielęcki,Hedel[?]
+18,6296,break,high,short_line+column,0.33,8,24,Hedel[?],An
+18,6297,break,high,short_line+column,0.08,2,24,An,der Landrath
+18,6298,break,high,short_line+column,0.5,12,24,der Landrath,v Mielęcki
+18,6299,run,review,short_line,0.42,10,24,v Mielęcki,Die UeberEinstimmung vorstehender
+18,6302,break,high,short_line+column,0.58,14,24,Acten heimiget,Frost
+18,6303,run,review,short_line,0.21,5,24,Frost,Trybunals Archiven
+19,6307,break,high,short_line,0.18,7,40,No. 93.,Wir das Fürstliche Hohenloh-Ingelfingensche
+19,6312,break,high,rubric+short_line,0.48,19,40,vor Uns erschienen.,"1. der Förstlich Hohenlohe-Ingelfingen, ihn Güther¬"
+19,6315,break,high,rubric,0.73,29,40,Johann Wilhelm Glenk an einem,2. Desgleichen die Bevollmächtigten der Stadt
+19,6319,break,high,rubric+short_line,0.71,28,40,"Stocki, Lowin und Kulligowo,",a) der Bürger und Stadt Repraesentant
+19,6321,break,high,rubric+short_line,0.48,19,40,Matheus Młynkiewicz,b) der Freyscholze Johann Chmara
+19,6329,break,high,rubric+short_line,0.25,10,40,Erscheinen,"1., der fürstlichen Hohenlohe = Ingelfingensche"
+19,6338,break,high,rubric+short_line,0.36,16,45,"Zügen, mit haben",2. Der Bürger und Stadt Repræsentant Matheus
+19,6341,break,high,rubric+short_line,0.29,13,45,"Bürgerschaft,",3. Der frey Scholze Johann Chmara aus Stalluhn
+19,6345,run,review,short_line,0.2,9,45,und Lowin,"mit dem Antrage, einen Contract zwischen Sr"
+19,6358,break,high,short_line,0.47,21,45,Acten genohmen wurde.,Gleichergestalt überreicht auf der Młynkiewicz
+19,6366,break,high,short_line,0.2,9,45,schlüßen.,Ebenfals überreicht der Chmara eine gerichtliche
+19,6371,run,review,short_line,0.3,13,43,den Gemeinden,"Stalluhn Kulligowo, Schartzig, Stocki,"
+19,6373,break,high,short_line,0.56,24,43,"Swiechodezin, und Lowin.","gleichergestalt wie der Młynkiewicz authorisirt ist,"
+19,6375,break,high,short_line,0.65,28,43,einen Contract abzuschlißen.,"Noch wechselseitiger gepflogenen Unterhandlungen,"
+19,6381,break,high,rubric,0.84,36,43,der Contract wie folget aufgenohmen.,§. 1.
+19,6390,run,review,short_line,0.65,28,43,und die Einwohner der Dörfer,"Kulligowo, Stalluhn, Schartzig, Stocki,"
+19,6420,break,high,rubric,1.04,41,40,"schenken können mögen und sollen, für ein",§ 2.
+19,6423,run,review,short_line,0.08,3,40,von,Einmahlhundert und Achtzigtausend
+19,6429,run,review,short_line,0.29,8,28,zins von,Eintausend Reichsthaler
+19,6431,break,high,rubric,1.21,34,28,in Courant nach gleichem Münzfuße.,3.
+19,6440,break,high,rubric,1.25,35,28,intabulirte Hipotheyen Schulden als,"1, 48000 rtlr"
+19,6447,run,review,short_line,0.64,18,28,den Banquier Meyer,Bernhard zu Frankfurth
+19,6449,break,high,short_line,0.57,16,28,a/o cedirt sind.,48000 Rthl
+19,6452,break,high,rubric+short_line,0.37,10,27,48000 Rthl,"2, 2000 rtl."
+19,6456,break,high,rubric,0.93,25,27,Breslau eingetragen sind.,"3, 5000 rttllr"
+19,6462,break,high,rubric+short_line,0.59,16,27,a/o cedirt sind.,"4, 5000 rthl"
+19,6467,break,high,rubric,0.93,25,27,Eichborn intabulirt sind.,"5, 5000 rthl"
+19,6477,break,high,short_line,0.33,9,27,bar sind.,"Wobey bemirkt wird, daß die"
+19,6485,break,high,rubric+short_line,0.34,10,29,65000 Rthl,"6., 72000 rthl"
+19,6490,break,high,rubric,1.03,30,29,a 5 procent bis zum 26ten July,d. J. so wie bei den übrigen
+19,6496,break,high,rubric,0.72,21,29,mit ihnen zu einigen.,"7, 137,000 Rthl."
+19,6505,break,high,short_line,0.55,16,29,gekündiget wird.,Die vorstehend erwähnten 35000 rthlr werden in
+19,6507,run,review,short_line,0.52,15,29,der Art bezahlt,Morgenden Tages den 29ten July 7000 rthlr
+19,6516,run,review,short_line,0.33,16,48,pro # angenohmen,Sollten die Gemeinden morgen über 8 Tage als den
+19,6522,break,high,rubric+short_line,0.44,21,48,Zinsen wieder zurück.,§. 4.
+19,6538,break,high,short_line,0.31,15,48,gegeben werden.,"Was hingegen die Forſten anbetrift, ſo ſollen"
+19,6546,break,high,rubric,0.74,32,43,das Herrn Fursten von Hohenlohe.,§. 5.
+19,6577,break,high,rubric,0.88,36,41,zu verabreichen und heran zu fahren.,§. 6.
+19,6584,break,high,rubric+short_line,0.39,16,41,beitrag leisten.,§ 7.
+19,6598,break,high,rubric+short_line,0.24,11,46,entrichtet.,§. 8.
+19,6601,break,high,short_line,0.09,4,46,vor.,"Daß, wenn Sie Höchst selbst, oder deren Nachfolge"
+19,6606,break,high,rubric,0.76,35,46,Meilen Hin und Rück Weg zu leisten.,§. 9.
+19,6615,break,high,rubric+short_line,0.39,18,46,tiren versprechen.,§. 10.
+19,6634,break,high,rubric,0.83,35,42,daran den mindesten Anspruch haben.,§. 11.
+19,6654,break,high,rubric+short_line,0.61,25,41,von fünfzig Reichsthaler.,§. 12.
+19,6664,break,high,rubric,0.85,35,41,laßenen Grundstücke ertheilt werde.,§. 13.
+19,6674,break,high,rubric+short_line,0.32,13,41,erhalten hat.,§. 14.
+19,6688,break,high,rubric+short_line,0.67,29,43,nach Breslau Franco gesendet.,§. 15.
+19,6708,break,high,rubric,0.88,36,41,sche und Zubehöre eingetragen werde.,§. 17.
+19,6715,break,high,short_line,0.15,6,41,würde.,daß wenn das verabredete Kauf= und
+19,6723,break,high,rubric+short_line,0.14,6,42,wurde.,§ 18.
+19,6753,break,high,short_line,0.15,5,34,tent.,Josef Echaust als Dollmetscher
+19,6755,break,high,short_line+column,0.18,6,34,Metzig,Justitiarius
+19,6756,break,high,short_line+column,0.36,12,34,Justitiarius,Neumann
+19,6757,break,high,short_line+column,0.21,7,34,Neumann,Actuarius
+19,6758,run,review,short_line,0.27,9,34,Actuarius,Actum Betsche den 29ten July 1804
+19,6760,break,high,rubric+short_line,0.42,14,34,Heute erschien,"1, der Fürstl. Hohenloh-Ingelfingensche"
+19,6771,break,high,rubric+short_line,0.46,18,39,nachfolgendes bey.,§. 1.
+19,6777,break,high,rubric,0.74,29,39,keines gekündigt werden wird.,§. 2.
+19,6785,break,high,short_line,0.41,16,39,immer zu tragen.,Somit
+19,6794,break,high,short_line,0.54,19,35,und unterschrieben.,Johann Wilhelm Glenk
+19,6795,break,high,rubric+short_line,0.57,20,35,Johann Wilhelm Glenk,H. Chmara mpp M. Młynkiewicz
+19,6797,break,high,short_line,0.23,8,35,Echaust.,Metzig
+19,6798,break,high,short_line+column,0.17,6,35,Metzig,Neumann.
+19,6799,break,high,short_line,0.23,8,35,Neumann.,Da nun eine beglaubte ausfertigung von nöthen
+19,6806,break,high,short_line+column,0.2,7,35,"Metzig,",Justitiarius
+19,6807,break,high,short_line+column,0.34,12,35,Justitiarius,(L. S.)
+19,6808,break,high,short_line+column,0.2,7,35,(L. S.),Neumann
+19,6809,break,high,short_line+column,0.2,7,35,Neumann,Actuarius
+20,6828,break,high,short_line,0.34,18,53,gut brauchen kann.,Breslau den 8ten Aprill 1803.
+20,6829,break,high,short_line,0.55,29,53,Breslau den 8ten Aprill 1803.,Friedrich Ludwig Fürst zu Hohenlohe
+21,6838,break,high,rubric+short_line,0.69,34,49,verabredet und auf gesetzt worden.,§. 1.
+21,6853,break,high,rubric+short_line,0.2,10,49,macht ist.,§. 2.
+21,6859,break,high,rubric+short_line,0.2,10,49,geleistet.,§. 3.
+21,6865,break,high,rubric,1.12,55,49,auf künftigen Johanny a c. Zwölf- Tausend Reichs-Thaler,§. 4.
+21,6871,break,high,rubric,1.18,58,49,ewigen Zeiten einen Canon von Fünfhundert Rttl in Courant.,§. 5.
+21,6874,run,review,short_line,0.69,34,49,post Numerando an den Herrn Käufer,bei Vermeidung derer im Land Recht festgesetzten
+21,6876,break,high,rubric+short_line,0.43,21,49,zwangsmittel bezahlt.,§. 6.
+21,6889,break,high,rubric,1.1,57,52,Rthl ablösen will eine halbjährige Kündigung vorhergehen.,§. 7.
+21,6899,break,high,rubric,1.92,100,52,Fünfhundert - Thalern nachstehen und der Frau Obristen v. Sc,§. 8.
+21,6904,break,high,rubric+short_line,0.25,13,52,verpflichtet.,§. 9.
+21,6915,break,high,rubric+short_line,0.19,8,43,dürften.,§. 10.
+21,6924,break,high,rubric,0.81,35,43,der Concession trägt Käufer allein.,§. 11.
+21,6928,break,high,rubric,0.72,31,43,tragen beide Theile zur Hälfte.,§. 12.
+21,6932,break,high,salutation+short_line,0.49,21,43,wie sie Nahmen haben.,Geschehen Kalisch den 9ten Merz 1805.
+21,6935,run,review,short_line,0.37,16,43,Franz Maierowitz,Friedrich Willhelm Eger als Zeuge
+22,6952,break,high,short_line+column,0.44,16,36,[?]raudchreig[?],An
+22,6953,break,high,short_line+column,0.06,2,36,An,den regierenden Herrn
+22,6954,break,high,short_line+column,0.58,21,36,den regierenden Herrn,Fürsten zu Hohenlohe
+22,6955,break,high,short_line+column,0.56,20,36,Fürsten zu Hohenlohe,Ingelfingen Liebden.
+22,6956,break,high,short_line,0.56,20,36,Ingelfingen Liebden.,Taxe 1 rt 2 g
+22,6957,break,high,short_line+column,0.36,13,36,Taxe 1 rt 2 g,Stempel 6 g
+22,6958,break,high,short_line+column,0.31,11,36,Stempel 6 g,Mund: 2 g
+22,6959,break,high,short_line+column,0.25,9,36,Mund: 2 g,Ins: 3 g
+23,6967,break,high,short_line,0.67,24,36,König von Preussen p. p.,Thun kund und fügen hiermit jedermän¬
+23,6984,run,review,short_line,0.47,17,36,"Kolno und Kaemen,",sich ausdrüklich bekannt und gebeten
+23,7000,break,high,rubric+short_line,0.47,17,36,schlossen worden.,§. 1.
+23,7022,break,high,rubric+short_line,0.45,14,31,Fuße von 1764.,§. 2.
+23,7030,break,high,short_line,0.42,13,31,Käufer haben.,"Historisch wird hierbei bemerkt,"
+23,7033,break,high,rubric,0.97,30,31,folgend ermaßen geschehen ist.,"a, 53,139 rt. 13 gg. 8 1/5 d. hat Herr Käufer an den"
+23,7044,break,high,rubric+short_line,0.45,15,33,"laucht, bezalt.","b, 88,860 rt. 10 gg. 3 1/5. d. sind von dem Herrn Kau¬"
+23,7048,break,high,rubric,0.82,27,33,"sungen, baar bepalt worden.","i. e. 142,000 rttl."
+23,7049,break,high,rubric,0.58,19,33,"i. e. 142,000 rttl.",§. 3.
+23,7054,break,high,rubric,0.73,24,33,men eingetragene Posten:,"a, ein Capital von 100. Florin Einhundert"
+23,7059,break,high,rubric+short_line,0.15,5,33,sind.,"b, für eben dieselbe Kirche ein Capi¬"
+23,7069,break,high,rubric+short_line,0.16,5,32,1804.,§. 4.
+23,7074,break,high,rubric+short_line,0.53,17,32,die Gewehr dafür:,"a, daß der in den Vermessungs-Re¬"
+23,7086,break,high,short_line,0.59,19,32,stükke bekannt sei.,Die Verbindlichkeit Sr. Hochfürstl.
+23,7092,break,high,rubric,0.83,25,30,drei Jahre eingeschränkt.,"b, daß an öffentlichen Abgaben"
+23,7097,run,review,short_line,0.6,18,30,und an geistlichen,Abgaben für Kaemen 16 - 16 gg.
+23,7099,break,high,rubric,0.83,25,30,auf diesen Gütern haften.,§. 5.
+23,7106,break,high,short_line,0.47,14,30,sein Bewenden.,Es sind in Absicht der Gewöhr¬
+23,7110,break,high,rubric+short_line,0.23,7,30,worden:,"a, daß dem Herrn Käufer die"
+23,7121,break,high,rubric,0.76,22,29,chalis vorigen Jahres.,"b, daß die Güter dem Herrn Käu¬"
+23,7125,break,high,rubric,0.97,28,29,gestanden und gelegen haben.,"c, daß jedoch Herr Käufer nur"
+23,7134,run,review,short_line,0.52,15,29,"händigten Acta,","erhalten hat, und zurück zu gewäh¬"
+23,7136,break,high,rubric,0.86,25,29,von verpflichtet gewesen.,§. 6.
+23,7166,break,high,rubric+short_line,0.71,22,31,Herrn Käufer getragen.,§. 7.
+23,7175,break,high,rubric+short_line,0.13,4,31,gen.,§. 8.
+23,7181,break,high,short_line,0.35,11,31,Wäldern zu.,In einem Possessorien Prozeße
+23,7191,break,high,rubric+short_line,0.22,7,32,langen.,§. 9.
+23,7212,break,high,short_line,0.19,6,32,§: 10.,Die Herren Contrahenten verbinden sich zu
+23,7222,break,high,short_line,0.72,23,32,fügte Siegel vollzogen.,Breslau den 16ten Januar 1805.
+23,7225,run,review,short_line,0.22,7,32,(L. S.),Friedrich Ludwig Fürst zu Hohenlohe
+23,7228,break,high,short_line,0.44,14,32,und genehmigt.,(L. S.)
+23,7229,run,review,short_line,0.22,7,32,(L. S.),"Meÿer Bernhard, im Namen und"
+23,7232,break,high,short_line,0.72,23,32,Banco Director Leixner.,"daß dieser Kauf u Contract, wischen"
+23,7272,run,review,short_line,0.21,7,34,(L. S.),Daß der persönlich mir bekannte disposi¬
+23,7305,break,high,short_line,0.59,17,29,hundert und fünf.,(L. S.)
+23,7306,run,review,short_line,0.24,7,29,(L. S.),Dr. Ernst Gottlob Born
+23,7311,break,high,short_line+column,0.69,20,29,Juristen Fakultät zu,Franckfurth a/O.
+23,7312,break,high,salutation+short_line,0.55,16,29,Franckfurth a/O.,Actum Posen den 6ten Februar 1805.
+23,7326,break,high,rubric,0.94,29,31,an. In diesem Termin erschien,"1, von Seiten des Herrn Verkäufers"
+23,7327,break,high,rubric,1.1,34,31,"1, von Seiten des Herrn Verkäufers","a, als dessen Mandatarius der Justiz¬"
+23,7332,break,high,rubric,1.03,32,31,"Special - Vollmacht, legitimirt;","b, der General-Mandatarius des"
+23,7333,break,high,rubric,0.97,30,31,"b, der General-Mandatarius des","H. Fürsten, der Bau-Rath Glenk,"
+23,7336,break,high,rubric+short_line,0.61,19,31,persönlich bekannt;,"2, von Seiten des Käufers, der Crimi¬"
+23,7345,break,high,short_line,0.28,8,29,bezieht.,Beiderseitige Interessenten
+23,7363,break,high,short_line,0.42,13,31,risirt wären.,Es erklärte darauf ins besondere
+23,7380,break,high,short_line,0.65,20,31,transfundiren wolle.,Gleichergestalt bekannt sich der
+23,7401,run,review,short_line,0.13,4,32,tels,"für den Käufer, zu consentiren,"
+23,7403,run,review,short_line,0.1,3,32,und,denselben über völlig bezalte¬
+23,7413,break,high,short_line,0.19,6,31,mögen.,Breslau den 5ten Septbr. 1804.
+23,7416,run,review,short_line,0.23,7,31,(L. S.),Friedrich Ludwig Fürst zu Hohenlohe
+23,7435,break,high,short_line+column,0.23,7,31,(L. S.),Ebersbach
+23,7436,break,high,short_line+column,0.29,9,31,Ebersbach,Justitiarius
+23,7437,break,high,short_line+column,0.39,12,31,Justitiarius,Stade
+23,7438,break,high,short_line+column,0.16,5,31,Stade,Actuarius.
+23,7441,run,review,short_line,0.45,17,38,Special-Vollmacht,Ich Endes unterschriebener thun kund und bekenne
+23,7496,break,high,salutation,0.94,31,33,lichen Pettschafts bekräftiget.,So geschehen Franckfurth a/O. am 21ten
+23,7498,break,high,short_line,0.39,13,33,Septbr. 1804.,gelesen und richtig befunden
+23,7509,run,review,short_line,0.45,15,33,"macht, worin er",den Herrn Criminal Rath Guderian zu
+23,7514,break,high,rubric,0.76,25,33,schlossenen Kauf Contract,d. d. Franckfurth a/O. den 15ten Junii
+23,7520,run,review,short_line,0.29,13,45,"authorisiert,","selbst durchgelesen, genehmiget und wie oben stehet,"
+23,7527,break,high,short_line,0.29,13,45,Septbr. 1804.,Dr. Ernst Gottlob Born
+23,7528,run,review,short_line,0.49,22,45,Dr. Ernst Gottlob Born,"(L. S.) Königl. Justiz, Beamter und Uni¬"
+23,7530,break,high,short_line+column,0.71,32,45,"versitäts Syndikus, auf Assessor",der Juristen Fakultät.
+23,7531,break,high,short_line,0.49,22,45,der Juristen Fakultät.,Ich habe zwar schon unterm 21ten Sept. 1804 dem Criminal¬
+23,7575,break,high,short_line,0.25,10,40,zu nehmen.,Zur Urkund dessen habe ich diese resp.
+23,7582,break,high,short_line+column,0.17,7,40,(L. S.),George Conrad Leixner
+23,7583,run,review,short_line,0.52,21,40,George Conrad Leixner,Daß der hiesige Banco-Rendant Herr
+23,7599,break,high,short_line+column,0.18,7,39,(L. S.),Dr. Ernst Gottlob Born.
+23,7600,break,high,short_line,0.59,23,39,Dr. Ernst Gottlob Born.,qua Justiz-Beamter des Justiz¬
+23,7602,break,high,short_line,0.38,15,39,Amts hieselbst.,Da Wir nun praevia de super partium
+23,7624,run,review,short_line,0.35,11,32,Confirmatio,des zwischen dem regierenden Herrn
+23,7633,break,high,short_line,0.54,17,32,Taxe: 2 rt. 2 gg.,Stempel: 6 gg.
+23,7634,break,high,short_line,0.44,14,32,Stempel: 6 gg.,Mund: 22 gg.
+23,7635,break,high,short_line,0.38,12,32,Mund: 22 gg.,Seide: 1 gg.
+23,7636,break,high,short_line,0.38,12,32,Seide: 1 gg.,No: 2244.
+24,7656,run,review,short_line,0.08,4,53,denn,"1tens würden, wenn Ewr. Liebden dieser Consens nicht ver¬"
+24,7667,run,review,short_line,0.42,19,45,"werden können, weil",2tens die zweckmäßige Bewirthschaftung der Betscher
+24,7688,break,high,short_line,0.62,28,45,"gutem Willen, wohlbeygethan.",Posen den 18ten May 1805
+24,7689,run,review,short_line,0.53,24,45,Posen den 18ten May 1805,Königl. SüdPreuß. Krieges und Domainen Cammer
+24,7691,break,high,short_line+column,0.29,13,45,[G?] v Köller,An
+24,7692,break,high,short_line+column,0.04,2,45,An,Den Regierenden Fürsten
+24,7693,break,high,short_line+column,0.51,23,45,Den Regierenden Fürsten,zu Hohenlohe Ingelfingen
+24,7694,break,high,short_line+column,0.53,24,45,zu Hohenlohe Ingelfingen,"Liebden, General Lieutenant"
+24,7695,break,high,short_line+column,0.6,27,45,"Liebden, General Lieutenant",der Infanterie und Gouverneur
+24,7696,break,high,short_line+column,0.64,29,45,der Infanterie und Gouverneur,der Residenz Breslau Chef eines
+24,7697,run,review,short_line,0.69,31,45,der Residenz Breslau Chef eines,Regiments zu Fuß auch des schwarzen
+24,7700,break,high,short_line+column,0.24,11,45,434 R. Anno,Raeder[?]
+25,7711,break,high,short_line,0.12,7,59,worden.,Es verkauffet
+25,7712,break,high,rubric+short_line,0.22,13,59,Es verkauffet,"1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek"
+25,7717,break,high,short_line+column,0.47,28,59,"Register vorhanden ist, als,",459 Morgen Ackerfeld in 3 Flure
+25,7718,break,high,short_line+column,0.53,31,59,459 Morgen Ackerfeld in 3 Flure,109 do - Wiesen
+25,7719,break,high,short_line+column,0.25,15,59,109 do - Wiesen,19 5/8 do — Gärten
+25,7720,break,high,short_line+column,0.31,18,59,19 5/8 do — Gärten,380 do zu rödende Felder.
+25,7721,break,high,short_line,0.42,25,59,380 do zu rödende Felder.,32 3/8 do bestandenen Wald.
+25,7722,break,high,short_line,0.46,27,59,32 3/8 do bestandenen Wald.,= 1000 Morgen Magdeb. in Summa.
+25,7723,break,high,short_line,0.53,31,59,= 1000 Morgen Magdeb. in Summa.,nebst
+25,7724,break,high,rubric+short_line,0.08,5,59,nebst,"§ 2, sämmtlichen Vorwerbsgebäuden, welche bestehen in 1 Herrschafft¬"
+25,7729,break,high,short_line,0.27,16,59,digen Eigenthum.,wofür
+25,7730,break,high,rubric+short_line,0.08,5,59,wofür,"§ 3, der Käufer eine baare Summe von 12333 rthlr zu bezahlen"
+25,7740,run,review,short_line,0.03,2,61,da,4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz
+25,7744,run,review,short_line,0.2,12,61,Bau Holz als,"60 Rud Säge blöde von mittler Art a 10 Rtlr[?], mit dem Abholz"
+25,7746,break,high,short_line+column,0.56,34,61,80 Tannen stark Bauholz zu Baltzer,200 do mittel Riegel[?]
+25,7747,break,high,short_line+column,0.38,23,61,200 do mittel Riegel[?],450 do schwaches Parrer
+25,7748,run,review,short_line,0.38,23,61,450 do schwaches Parrer,"160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken"
+25,7750,break,high,rubric+short_line,0.08,5,61,nebst,"§5, freien, Kaff und Lager Holz in Trąbczyner Wald nach Königlicher"
+25,7752,break,high,short_line,0.21,13,61,ForstOrdnung.,"Rubrique II,"
+25,7753,run,review,short_line,0.2,12,61,"Rubrique II,","die zu diesem Vorwertz und dorff gehörige Propination, das vor"
+25,7758,run,review,short_line,0.21,13,61,"Rubrique III,","Ausgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an"
+25,7762,break,high,rubric,0.87,53,61,"der Dienstbaren zu begegnen, sich bereit erklärt hat.","§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin"
+25,7764,break,high,rubric,0.89,54,61,unter der Gerichtsbarkeit des Hochfürstlichen Dominii.,"§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im"
+25,7772,break,high,salutation,0.92,36,39,gesiegelt und unterschrieben worden.,So geschehen Zagorowo den 1ten Octbr 1798.
+25,7776,break,high,short_line,0.44,17,39,Bevollmächtigter.,Samuel Luke Mahl Müller
+25,7777,break,high,short_line+column,0.59,23,39,Samuel Luke Mahl Müller,als zeige Johan Lindner.
+26,7784,break,high,rubric,1.04,24,23,sigem Polizei Magistrat.,1. Der Polizei Bürgermeister
+26,7785,break,high,rubric,1.22,28,23,1. Der Polizei Bürgermeister,H. Nüchler aus Peisern
+26,7786,break,high,rubric,0.96,22,23,H. Nüchler aus Peisern,2. der Müller Luka aus
+26,7788,break,high,rubric+short_line,0.61,14,23,Białobrzeg und,3. Der Schütze Reise aus
+26,7790,run,review,short_line,0.43,10,23,Wrąbczynek,"und trugen an, folgendes"
+26,7798,break,high,short_line,0.61,14,23,Herrn Glencke.,Wegen Vertheilung des
+26,7814,break,high,short_line,0.5,11,22,zu erlegen.,Diesem allen würden Sie
+26,7851,break,high,short_line,0.7,14,20,halten möchte.,Dem Hochfürstl. Hohenlohe¬
+26,7864,break,high,short_line,0.24,5,21,ließ.,Ob zwar es eine
+26,7865,run,review,short_line,0.71,15,21,Ob zwar es eine,scheinbare hohe Schadlos
+26,7872,run,review,short_line,0.71,15,21,Approbation von,So Hochfürstl. Durch¬
+26,7875,break,high,short_line,0.62,13,21,werden könne.,Wo mit den geschloßen
+27,7885,run,review,short_line,0.63,18,28,Wohlgebohrner Herr,Insonders höchst zuverehrender Herr
+27,7887,run,review,short_line,0.7,20,28,Bau und Oeconom Rath,Der Müller Luka hat sich der
+27,7895,break,high,short_line,0.32,9,28,genommen.,Bey dieser Gelegenheit brachte
+27,7924,break,high,short_line,0.4,13,32,werden müßen.,Im übrigen bitten wir gantz gehor¬
+27,7938,break,high,short_line,0.46,11,24,dabey thun.,Die wir übrigens die Ehre
+27,7941,break,high,short_line,0.38,9,24,beharren.,Ew. Wohlgebohren
+27,7942,break,high,short_line+column,0.67,16,24,Ew. Wohlgebohren,P. S.
+27,7943,break,high,short_line,0.21,5,24,P. S.,der Tischler welcher ebenfals
+27,7951,break,high,rubric+short_line,0.33,8,24,Zagorowo,d. 16. Aprill 1799.
+27,7954,break,high,short_line+column,0.17,4,24,Titz,Bancke
+28,7963,break,high,short_line,0.63,31,49,zwischen uns beyden aufgehoben.,Hierauf habe ich mich bemühet die 3 Contrahenten
+28,7981,run,review,short_line,0.61,30,49,wobey ich bitte daß Sie solche,den v. Radozimski zurechnen möchten.
+28,7993,break,high,short_line,0.13,7,53,mußten.,Zugleich nehme ich mir die Ehre 5 Stück Enten mitzusenden.
+28,7998,break,high,short_line,0.62,33,53,Karte zu beschicken. Ich bin p.p.,Glenk
+28,7999,break,high,short_line+column,0.09,5,53,Glenk,Zagorowo den 27ten May 1799
+29,8003,break,high,short_line+column,0.62,23,37,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
+29,8004,break,high,short_line,0.7,26,37,Gnädigster Fürst und Herr!,Aus dem in Abschrift beygehenden Kauf Contrac¬
+29,8014,run,review,short_line,0.24,9,37,dieselben,(Der Contract ist unter Vorbehalt
+29,8022,break,high,short_line,0.65,24,37,für diesen Fall begeben.,Sie Wir mit tiefster Ehrfurcht beharren
+29,8024,break,high,short_line+column,0.43,16,37,Ew Durchlauchten,unterthänigste
+29,8025,break,high,short_line+column,0.38,14,37,unterthänigste,Das Gerichts Amt hieselbst
+29,8026,break,high,short_line+column,0.7,26,37,Das Gerichts Amt hieselbst,Metzig
+29,8027,break,high,short_line+column,0.16,6,37,Metzig,Neumann
+29,8028,break,high,short_line+column,0.19,7,37,Neumann,Betsche
+29,8029,break,high,short_line+column,0.19,7,37,Betsche,d 10ten Aprill 1805
+30,8033,break,high,short_line+column,0.67,31,46,Capitulum Ecclesiae Cathedralis,Posnaniensis.
+30,8034,break,high,short_line,0.28,13,46,Posnaniensis.,Wir machen durch gegenwärtiges allen und jeden
+30,8099,break,high,short_line+column,0.62,29,47,Capituli (L. S. Capitularis.),(L. S.)
+30,8100,break,high,short_line+column,0.15,7,47,(L. S.),Aus dem Buche der Privilegien
+30,8101,break,high,short_line+column,0.62,29,47,Aus dem Buche der Privilegien,"der Posner Cathedral Kirche,"
+30,8102,break,high,short_line+column,0.6,28,47,"der Posner Cathedral Kirche,",unter dem Siegel des Hochwür¬
+31,8158,break,high,short_line,0.45,22,49,(L. + S.) Capitularis.,Ex libro Privilegium Ecclesiae Cathedralis
+31,8161,run,review,short_line,0.69,34,49,Cathedralis Poznaniensis Extractus,Melchior Janowski Natarius Apostolskiey Ejusdem
+32,8166,break,high,short_line+column,0.71,29,41,"extrahiret, Melchior Janowski",Notarius Apostolicus Ejusdem
+32,8167,run,review,short_line,0.68,28,41,Notarius Apostolicus Ejusdem,Reverendissimi Capituli Cathedralis
+32,8169,break,high,short_line,0.61,25,41,Posnaniensis Secretarius.,daß vorstehende Uebersetzung mit dem Polnischen
