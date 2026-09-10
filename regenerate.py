@@ -104,6 +104,11 @@ def main():
         raise SystemExit('no transcribed unit to build')
 
     print('Regenerating: ' + ', '.join(u.slug for u in ready))
+    # The pipeline's own checks run first: both mistakes they look for are
+    # invisible until the output is wrong, and by then a build has already
+    # written the wrong thing everywhere.
+    run('pipeline/check_pipeline.py', 'pipeline self-check',
+        'no holding named in code, no record keyed by the archive number')
     for u in ready:
         for script, label, detail in PER_UNIT:
             run(script, label, detail, unit=u.slug)

@@ -41,7 +41,7 @@ import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
-import io, sys, os, re, csv, json, difflib, argparse
+import io, sys, os, re, csv, json, difflib, hashlib, argparse
 from collections import defaultdict, Counter
 
 import unitlib
@@ -57,6 +57,79 @@ SOURCES = [('transcription_candidates.csv', ('transcription-note',)),
 ORDER = {'line': 0, 'lines': 1, 'repeated': 2, 'hedged': 3, 'unlocated': 4}
 WORD = re.compile(r'[^\W\d_]+', re.UNICODE)
 STRIP = """.,;:()[]"'¬"""
+
+
+def row_key(pad, page, transcribed, proposed):
+    """A short stable name for a row, from what the row says.
+
+    The sheet is re-derived and re-sorted whenever the corpus or the translation
+    changes, so a row's position is not an address - three rulings were once
+    written against a sheet that had re-sorted underneath them and landed on the
+    wrong rows. This is what a row is called, and it does not move.
+    """
+    h = hashlib.sha1('|'.join((pad, str(page), transcribed, proposed))
+                     .encode('utf-8'))
+    return h.hexdigest()[:8]
+
+
+def decisions_path(slug):
+    """Where the rulings live: beside the corpus, not in review/.
+
+    review/ is generated and git-ignores itself, and this sheet is rebuilt from
+    the translator's CSVs - which are themselves rewritten by the next run of
+    check_translations.py. Rulings kept there survive exactly as long as nobody
+    re-runs anything upstream, which is not long enough for work that took a day
+    and can be re-derived from nothing.
+
+    So they sit in units/<slug>/, tracked, beside linebreak_decisions.csv and
+    paragraph_decisions.csv - the same kind of thing, a human decision that a
+    tool proposed.
+    """
+    return os.path.join(unitlib.one_unit(slug).dir, 'transcription_decisions.csv')
+
+
+def load_decisions(slug):
+    """Rulings already given, keyed on what the row says rather than where it
+    sits: the sheet is re-derived whenever the corpus or the translation
+    changes, and re-deriving it must never throw a ruling away."""
+    p = decisions_path(slug)
+    out = {}
+    if os.path.isfile(p):
+        for r in csv.DictReader(io.open(p, encoding='utf-8-sig')):
+            if (r.get('decision') or '').strip():
+                out[(r['pad'], r['page'], r['transcribed'], r['proposed'])] =                     r['decision'].strip()
+    return out
+
+
+def save_decisions(slug, rows):
+    """Merge this run's rulings into the authored file.
+
+    Merge, never replace. A run whose sources are incomplete - the translation
+    cache half archived, check_translations.py not yet re-run - produces a short
+    sheet, and writing that sheet over the decisions file would delete rulings
+    that are simply not in front of it. This deleted 445 of them once, in the
+    same breath as moving them somewhere safe.
+
+    A ruling is withdrawn by clearing it in the decisions file itself, which is
+    the authored copy, not by a row falling out of a generated sheet.
+    """
+    cols = ['key', 'pad', 'page', 'transcribed', 'proposed', 'decision', 'why']
+    keep = {}
+    p = decisions_path(slug)
+    if os.path.isfile(p):
+        for r in csv.DictReader(io.open(p, encoding='utf-8-sig')):
+            if (r.get('decision') or '').strip():
+                keep[(r['pad'], str(r['page']), r['transcribed'],
+                      r['proposed'])] = {k: r.get(k, '') for k in cols}
+    for r in rows:
+        if (r.get('decision') or '').strip():
+            keep[(r['pad'], str(r['page']), r['transcribed'], r['proposed'])] =                 {k: r.get(k, '') for k in cols}
+    with io.open(p, 'w', encoding='utf-8-sig', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for row in keep.values():
+            w.writerow(row)
+    return len(keep)
 
 
 def hedged(proposed):
@@ -180,10 +253,7 @@ def main():
     slug = unitlib.resolve_unit(a.unit)
     rev = unitlib.review_dir(slug)
 
-    recs = [r for r in json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'),
-                                      encoding='utf-8'))
-            if r['unit'] == slug]
-    by_pad = {r['pad']: r for r in recs}
+    by_pad = unitlib.records_by_pad(ROOT, slug)
 
     rows, seen = [], set()
     for fn, kinds in SOURCES:
@@ -199,16 +269,8 @@ def main():
             seen.add(key)
             rows.append(r)
 
-    # Decisions already given are carried across a rebuild, keyed on what the
-    # row says rather than on where it sits: the sheet is re-derived whenever
-    # the corpus changes, and re-deriving it must not throw away rulings.
     dest = os.path.join(rev, 'transcription_fixes.csv')
-    prior = {}
-    if os.path.isfile(dest):
-        for r in csv.DictReader(io.open(dest, encoding='utf-8-sig')):
-            if (r.get('decision') or '').strip():
-                prior[(r['pad'], r['page'], r['transcribed'], r['proposed'])] = \
-                    r['decision'].strip()
+    prior = load_decisions(slug)
 
     freq, names = corpus_frequency(slug), authority_names()
     out, stats = [], defaultdict(int)
@@ -241,6 +303,7 @@ def main():
             conf = 'hedged'
         stats[conf] += 1
         row = {
+            'key': row_key(r['pad'], r['page'], de, prop),
             'decision': prior.get((r['pad'], str(r['page']), de, prop), ''),
             'confidence': conf,
             'letter': r['letter'], 'page': r['page'], 'page_id': page_id,
@@ -261,8 +324,9 @@ def main():
                             int(d['letter']) if d['letter'].isdigit() else 0,
                             int(d['page']) if str(d['page']).isdigit() else 0))
 
-    cols = ['decision', 'needs', 'confidence', 'letter', 'page', 'page_id',
-            'line', 'transcribed', 'proposed', 'context', 'why', 'kind', 'pad']
+    cols = ['key', 'decision', 'needs', 'confidence', 'letter', 'page',
+            'page_id', 'line', 'transcribed', 'proposed', 'context', 'why',
+            'kind', 'pad']
     with io.open(dest, 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
@@ -278,7 +342,9 @@ def main():
         w.writeheader()
         w.writerows(open_rows)
 
+    n_saved = save_decisions(slug, out)
     print(f'{len(out)} proposed fix(es) from {len(rows)} row(s)')
+    print(f'{n_saved} ruling(s) held in {decisions_path(slug)}')
     for k in sorted(stats, key=lambda k: ORDER.get(k, 9)):
         print(f'  {k:10s} {stats[k]:4d}')
     print(f'\n{sum(1 for d in out if d["decision"])} already ruled on, '

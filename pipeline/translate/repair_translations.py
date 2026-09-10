@@ -218,7 +218,7 @@ def main():
     globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
 
     ABBREV_RUN[0] = a.abbrev
-    recs = {str(r['letter_id']): r for r in T.load_letters()}
+    recs = {str(r['letter_id']): r for r in T.load_letters()}  # pipeline-check: load_letters() is already scoped to one unit, and --letters takes the archive's own number
     g = T.load_glossary()
     system = build_system(g)
 

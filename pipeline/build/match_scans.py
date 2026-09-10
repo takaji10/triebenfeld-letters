@@ -18,6 +18,11 @@ Outputs
 
 Nothing here modifies the corpus, the database, or the images.
 """
+# pipeline-check-file: known debt. The signature and place cues below were
+# learned from 9454 and are used only to score a guessed page-to-scan
+# pairing. A holding whose pages are declared - as 14526's are - never
+# reaches them. They belong in the unit when a second guessing holding
+# arrives.
 import os as _os, sys as _sys
 # pipeline scripts are run directly from two levels down; make the project
 # root importable so `import unitlib` and the sibling modules resolve

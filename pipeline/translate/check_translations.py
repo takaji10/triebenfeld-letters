@@ -340,10 +340,8 @@ def main():
         sys.exit(f'no translations at {src} - run translate.py first')
 
     # Keyed by pad, not by letter_id: the archive's own number is unique only
-    # inside its holding, and both units have a document 2. Keying on the bare
-    # number checked every deed against the letter of the same number.
-    recs = {r['pad']: r for r in
-            json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))}
+    # inside its holding, and both units have a document 2.
+    recs = unitlib.records_by_pad(ROOT)
     glossary = yaml.safe_load(open(os.path.join(ROOT, 'reference', 'translation_glossary.yml'),
                                    encoding='utf-8'))
     canon = known_names()

@@ -22,6 +22,10 @@ Output:
     correspondents.json         letter_id -> {sender, recipient, basis, confidence}
     correspondents_review.csv   the residue, for your ruling
 """
+# pipeline-check-file: known debt. Sender and recipient are derived from
+# 9454's salutation and signature conventions, which a deed does not have.
+# This should read its patterns from the unit, as the translator's preamble
+# now does; until then it simply finds nothing in a holding of deeds.
 import os as _os, sys as _sys
 # pipeline scripts are run directly from two levels down; make the project
 # root importable so `import unitlib` and the sibling modules resolve

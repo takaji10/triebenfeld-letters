@@ -248,6 +248,29 @@ def load_documents(root=None):
     return out
 
 
+def records_by_pad(root=None, unit=None):
+    """Every document, keyed by pad - the one address that carries its holding.
+
+    The archive's own number is unique only inside its holding, and both units
+    have a document 2. Keying on it made check_translations.py check every deed
+    against the letter of the same number, and summarise.py pair one holding's
+    English with another's record. Both bugs were written independently, in the
+    same shape, because each script built its own dictionary.
+
+    So there is one dictionary and this is it. `pad` is what the cache files,
+    the published translations and the summaries are named by, so a file's own
+    name is enough to find its record:
+
+        recs = unitlib.records_by_pad()
+        rec = recs.get(os.path.splitext(filename)[0])
+    """
+    root = root or ROOT
+    with open(os.path.join(root, 'corpus', 'letters.json'), encoding='utf-8') as f:
+        recs = json.load(f)
+    return {r['pad']: r for r in recs
+            if unit is None or r.get('unit') == unit}
+
+
 PAD_RE = re.compile(r'^([a-z0-9]+)-\d+[a-z]*(?:\.|$)')
 
 

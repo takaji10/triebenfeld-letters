@@ -547,7 +547,7 @@ def run_collect(client, recs_by_id, tag=None):
         print('no batches in flight')
         return
     st = json.load(open(state, encoding='utf-8'))
-    pending, got = [], 0
+    pending, got, bad = [], 0, []
     cost_in = cost_out = 0
     for bid in st['batches']:
         b = client.messages.batches.retrieve(bid)
@@ -576,8 +576,16 @@ def run_collect(client, recs_by_id, tag=None):
                 continue
             got = len(payload.get('pages') or [])
             if got != len(rec['pages']):
+                # Not saved. A record with the wrong number of segments fails
+                # the one invariant everything downstream assumes, and cached it
+                # looks exactly like a finished translation - the three that
+                # truncated at the output ceiling were found four stages later,
+                # by a crash.
                 print(f"  !! {res.custom_id}: {got} segment(s) for "
-                      f"{len(rec['pages'])} manuscript page(s)")
+                      f"{len(rec['pages'])} manuscript page(s) - not saved, "
+                      f"re-run this one")
+                bad.append(res.custom_id)
+                continue
             usage = usage_of(msg)
             save(rec, payload, usage, tag,
                  {'model': st.get('model', MODEL), 'batch_id': bid})
@@ -586,6 +594,9 @@ def run_collect(client, recs_by_id, tag=None):
             got += 1
         print(f'  {bid}: collected')
     report_cost(got, cost_in, cost_out, st.get('model'), 0.0)
+    if bad:
+        print(f'{len(bad)} result(s) were refused and not cached: '
+              + ', '.join(bad))
     if pending:
         st['batches'] = pending
         json.dump(st, open(state, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
@@ -653,7 +664,7 @@ def main():
     a = ap.parse_args()
 
     recs = load_letters()
-    by_id = {str(r['letter_id']): r for r in recs}
+    by_id = {str(r['letter_id']): r for r in recs}  # pipeline-check: load_letters() is already scoped to one unit, and --letters takes the archive's own number
     corr = load_correspondents()
     system = build_system(load_glossary(), UNIT)
 
