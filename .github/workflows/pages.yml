@@ -52,7 +52,15 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
 
       # Character-exact text, resolving links, no external requests.
-      # verify_site.py is stdlib-only, so there is nothing to install.
+      #
+      # verify_site.py was stdlib-only and this step installed nothing. It now
+      # reads the units through unitlib, which parses unit.yml, so PyYAML is a
+      # real dependency of the gate. The first push after that change failed
+      # here - which is the gate working: an unverifiable build does not
+      # publish.
+      - name: Install verification dependencies
+        run: python -m pip install --disable-pip-version-check pyyaml
+
       - name: Verify built site
         env:
           SITE_BASEURL: ${{ steps.pages.outputs.base_path }}
