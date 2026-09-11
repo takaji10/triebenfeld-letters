@@ -2,7 +2,7 @@
  {
   "entity": "triebenfeld",
   "display": "v. Triebenfeld",
-  "count": 380,
+  "count": 381,
   "documents": [
    "oe1bu14526-10",
    "oe1bu14526-11",
@@ -305,6 +305,13 @@
     "page": 2,
     "page_id": "",
     "line": 6407
+   },
+   {
+    "uid": "oe1bu9454-78",
+    "surface": "Triebenfeld",
+    "page": 2,
+    "page_id": "",
+    "line": 6409
    },
    {
     "uid": "oe1bu9454-78",
@@ -2540,13 +2547,6 @@
     "line": 327
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Triebenfeld",
-    "page": 2,
-    "page_id": "",
-    "line": 635
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Triebenfeld",
     "page": 2,
@@ -2727,6 +2727,13 @@
     "page": 2,
     "page_id": "",
     "line": 19648
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Triebenfeld",
+    "page": 2,
+    "page_id": "",
+    "line": 635
    },
    {
     "uid": "oe1bu9454-277",
@@ -3974,13 +3981,6 @@
     "line": 18382
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Hohenlohe",
-    "page": 1,
-    "page_id": "",
-    "line": 583
-   },
-   {
     "uid": "oe1bu9454-264",
     "surface": "Hohenlohe",
     "page": 3,
@@ -4014,6 +4014,13 @@
     "page": 1,
     "page_id": "",
     "line": 19558
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Hohenlohe",
+    "page": 1,
+    "page_id": "",
+    "line": 583
    },
    {
     "uid": "oe1bu9454-277",
@@ -4083,7 +4090,7 @@
  {
   "entity": "glenck",
   "display": "Glenck",
-  "count": 147,
+  "count": 148,
   "documents": [
    "oe1bu14526-18",
    "oe1bu14526-19",
@@ -5089,6 +5096,13 @@
     "page": 5,
     "page_id": "",
     "line": 12712
+   },
+   {
+    "uid": "oe1bu9454-179",
+    "surface": "Glenck",
+    "page": 5,
+    "page_id": "",
+    "line": 12735
    },
    {
     "uid": "oe1bu9454-179",
@@ -6453,13 +6467,6 @@
     "line": 18628
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Cosmar",
-    "page": 2,
-    "page_id": "",
-    "line": 607
-   },
-   {
     "uid": "oe1bu9454-265a",
     "surface": "Cosmar",
     "page": 1,
@@ -6682,6 +6689,13 @@
     "page": 1,
     "page_id": "",
     "line": 653
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Cosmar",
+    "page": 2,
+    "page_id": "",
+    "line": 607
    },
    {
     "uid": "oe1bu9454-277",
@@ -8161,13 +8175,6 @@
     "line": 17979
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "August",
-    "page": 2,
-    "page_id": "",
-    "line": 607
-   },
-   {
     "uid": "oe1bu9454-265a",
     "surface": "August",
     "page": 1,
@@ -8271,6 +8278,13 @@
     "page": 1,
     "page_id": "",
     "line": 652
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "August",
+    "page": 2,
+    "page_id": "",
+    "line": 607
    },
    {
     "uid": "oe1bu9454-277",
@@ -9734,414 +9748,6 @@
   ]
  },
  {
-  "entity": "lahr",
-  "display": "von der Lahr",
-  "count": 54,
-  "documents": [
-   "oe1bu9454-196",
-   "oe1bu9454-197",
-   "oe1bu9454-20",
-   "oe1bu9454-223",
-   "oe1bu9454-23",
-   "oe1bu9454-40",
-   "oe1bu9454-42",
-   "oe1bu9454-43",
-   "oe1bu9454-44",
-   "oe1bu9454-45",
-   "oe1bu9454-48",
-   "oe1bu9454-49",
-   "oe1bu9454-50",
-   "oe1bu9454-54",
-   "oe1bu9454-55",
-   "oe1bu9454-56",
-   "oe1bu9454-57",
-   "oe1bu9454-59",
-   "oe1bu9454-60",
-   "oe1bu9454-61",
-   "oe1bu9454-65"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 2937
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 3086
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 3108
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 4,
-    "page_id": "",
-    "line": 3147
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3239
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3244
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 3263
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3285
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3287
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3301
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3353
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3362
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1155
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1161
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1164
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1165
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1168
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 1182
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 1184
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 1215
-   },
-   {
-    "uid": "oe1bu9454-48",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 3651
-   },
-   {
-    "uid": "oe1bu9454-49",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3684
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3951
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 3978
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 4001
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3725
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3733
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 3735
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 3747
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 3751
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4028
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 4103
-   },
-   {
-    "uid": "oe1bu9454-56",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 4196
-   },
-   {
-    "uid": "oe1bu9454-57",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4222
-   },
-   {
-    "uid": "oe1bu9454-57",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4225
-   },
-   {
-    "uid": "oe1bu9454-59",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4422
-   },
-   {
-    "uid": "oe1bu9454-59",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4424
-   },
-   {
-    "uid": "oe1bu9454-60",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4540
-   },
-   {
-    "uid": "oe1bu9454-60",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 4590
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4647
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4655
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 4672
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 4997
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 5035
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 5046
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 5050
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1404
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 1413
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 1464
-   },
-   {
-    "uid": "oe1bu9454-196",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 14102
-   },
-   {
-    "uid": "oe1bu9454-196",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "",
-    "line": 14117
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "",
-    "line": 14170
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "",
-    "line": 14201
-   },
-   {
-    "uid": "oe1bu9454-223",
-    "surface": "Lahr",
-    "page": 7,
-    "page_id": "",
-    "line": 16290
-   }
-  ]
- },
- {
   "entity": "brzechsta",
   "display": "Brzechsta",
   "count": 54,
@@ -10542,6 +10148,406 @@
     "page": 3,
     "page_id": "",
     "line": 16929
+   }
+  ]
+ },
+ {
+  "entity": "lahr",
+  "display": "von der Lahr",
+  "count": 53,
+  "documents": [
+   "oe1bu9454-196",
+   "oe1bu9454-197",
+   "oe1bu9454-20",
+   "oe1bu9454-223",
+   "oe1bu9454-23",
+   "oe1bu9454-40",
+   "oe1bu9454-42",
+   "oe1bu9454-43",
+   "oe1bu9454-44",
+   "oe1bu9454-45",
+   "oe1bu9454-48",
+   "oe1bu9454-50",
+   "oe1bu9454-54",
+   "oe1bu9454-55",
+   "oe1bu9454-56",
+   "oe1bu9454-57",
+   "oe1bu9454-59",
+   "oe1bu9454-60",
+   "oe1bu9454-61",
+   "oe1bu9454-65"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 2937
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 3086
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 3108
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 4,
+    "page_id": "",
+    "line": 3147
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3239
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3244
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 3263
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3285
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3287
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3301
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3353
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3362
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1155
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1161
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1164
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1165
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1168
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 1182
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 1184
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 1215
+   },
+   {
+    "uid": "oe1bu9454-48",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 3651
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3951
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 3978
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 4001
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3725
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3733
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 3735
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 3747
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 3751
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4028
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 4103
+   },
+   {
+    "uid": "oe1bu9454-56",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 4196
+   },
+   {
+    "uid": "oe1bu9454-57",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4222
+   },
+   {
+    "uid": "oe1bu9454-57",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4225
+   },
+   {
+    "uid": "oe1bu9454-59",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4422
+   },
+   {
+    "uid": "oe1bu9454-59",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4424
+   },
+   {
+    "uid": "oe1bu9454-60",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4540
+   },
+   {
+    "uid": "oe1bu9454-60",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 4590
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4647
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4655
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 4672
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 4997
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 5035
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 5046
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 5050
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1404
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 1413
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 1464
+   },
+   {
+    "uid": "oe1bu9454-196",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 14102
+   },
+   {
+    "uid": "oe1bu9454-196",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "",
+    "line": 14117
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "",
+    "line": 14170
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "",
+    "line": 14201
+   },
+   {
+    "uid": "oe1bu9454-223",
+    "surface": "Lahr",
+    "page": 7,
+    "page_id": "",
+    "line": 16290
    }
   ]
  },
@@ -11144,13 +11150,6 @@
     "line": 18608
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Hardenberg",
-    "page": 2,
-    "page_id": "",
-    "line": 617
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Hardenberg",
     "page": 1,
@@ -11212,6 +11211,13 @@
     "page": 1,
     "page_id": "",
     "line": 19593
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Hardenberg",
+    "page": 2,
+    "page_id": "",
+    "line": 617
    },
    {
     "uid": "oe1bu9454-284",
@@ -13040,20 +13046,6 @@
     "line": 326
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Eberhard",
-    "page": 1,
-    "page_id": "",
-    "line": 588
-   },
-   {
-    "uid": "oe1bu9454-11",
-    "surface": "Eberhard",
-    "page": 2,
-    "page_id": "",
-    "line": 622
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Eberhard",
     "page": 2,
@@ -13143,6 +13135,20 @@
     "page": 2,
     "page_id": "",
     "line": 19643
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Eberhard",
+    "page": 1,
+    "page_id": "",
+    "line": 588
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Eberhard",
+    "page": 2,
+    "page_id": "",
+    "line": 622
    },
    {
     "uid": "oe1bu9454-277",
@@ -13571,7 +13577,7 @@
  {
   "entity": "hecker",
   "display": "Hecker",
-  "count": 37,
+  "count": 38,
   "documents": [
    "oe1bu9454-17",
    "oe1bu9454-193",
@@ -13839,6 +13845,13 @@
     "page": 4,
     "page_id": "",
     "line": 5298
+   },
+   {
+    "uid": "oe1bu9454-67",
+    "surface": "Hecker",
+    "page": 4,
+    "page_id": "",
+    "line": 5300
    },
    {
     "uid": "oe1bu9454-72b",
@@ -14410,6 +14423,259 @@
   ]
  },
  {
+  "entity": "staegemann",
+  "display": "Stägemann",
+  "count": 32,
+  "documents": [
+   "oe1bu9454-15",
+   "oe1bu9454-2",
+   "oe1bu9454-228",
+   "oe1bu9454-256",
+   "oe1bu9454-258",
+   "oe1bu9454-268",
+   "oe1bu9454-269",
+   "oe1bu9454-270",
+   "oe1bu9454-271",
+   "oe1bu9454-273",
+   "oe1bu9454-275",
+   "oe1bu9454-276",
+   "oe1bu9454-277",
+   "oe1bu9454-280",
+   "oe1bu9454-281",
+   "oe1bu9454-286",
+   "oe1bu9454-288",
+   "oe1bu9454-290",
+   "oe1bu9454-292",
+   "oe1bu9454-6"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-228",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 16667
+   },
+   {
+    "uid": "oe1bu9454-256",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 18317
+   },
+   {
+    "uid": "oe1bu9454-256",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 18335
+   },
+   {
+    "uid": "oe1bu9454-258",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 18374
+   },
+   {
+    "uid": "oe1bu9454-281",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19922
+   },
+   {
+    "uid": "oe1bu9454-268",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 18994
+   },
+   {
+    "uid": "oe1bu9454-269",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19076
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 19180
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 104
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 142
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 145
+   },
+   {
+    "uid": "oe1bu9454-271",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19239
+   },
+   {
+    "uid": "oe1bu9454-273",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 19377
+   },
+   {
+    "uid": "oe1bu9454-15",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 763
+   },
+   {
+    "uid": "oe1bu9454-15",
+    "surface": "Stägemann",
+    "page": 3,
+    "page_id": "",
+    "line": 810
+   },
+   {
+    "uid": "oe1bu9454-275",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19551
+   },
+   {
+    "uid": "oe1bu9454-276",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19591
+   },
+   {
+    "uid": "oe1bu9454-277",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19664
+   },
+   {
+    "uid": "oe1bu9454-280",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19833
+   },
+   {
+    "uid": "oe1bu9454-280",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 19842
+   },
+   {
+    "uid": "oe1bu9454-286",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20261
+   },
+   {
+    "uid": "oe1bu9454-288",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20537
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 391
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 398
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 401
+   },
+   {
+    "uid": "oe1bu9454-290",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20692
+   },
+   {
+    "uid": "oe1bu9454-290",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20704
+   },
+   {
+    "uid": "oe1bu9454-292",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20792
+   },
+   {
+    "uid": "oe1bu9454-292",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20797
+   },
+   {
+    "uid": "oe1bu9454-292",
+    "surface": "Stägemann",
+    "page": 1,
+    "page_id": "",
+    "line": 20800
+   },
+   {
+    "uid": "oe1bu9454-292",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 20826
+   },
+   {
+    "uid": "oe1bu9454-292",
+    "surface": "Stägemann",
+    "page": 2,
+    "page_id": "",
+    "line": 20835
+   }
+  ]
+ },
+ {
   "entity": "barbe",
   "display": "Barbe",
   "count": 32,
@@ -14655,252 +14921,6 @@
     "page": 1,
     "page_id": "",
     "line": 21179
-   }
-  ]
- },
- {
-  "entity": "staegemann",
-  "display": "Stägemann",
-  "count": 31,
-  "documents": [
-   "oe1bu9454-15",
-   "oe1bu9454-2",
-   "oe1bu9454-228",
-   "oe1bu9454-256",
-   "oe1bu9454-258",
-   "oe1bu9454-268",
-   "oe1bu9454-269",
-   "oe1bu9454-270",
-   "oe1bu9454-271",
-   "oe1bu9454-273",
-   "oe1bu9454-275",
-   "oe1bu9454-276",
-   "oe1bu9454-277",
-   "oe1bu9454-280",
-   "oe1bu9454-281",
-   "oe1bu9454-286",
-   "oe1bu9454-288",
-   "oe1bu9454-290",
-   "oe1bu9454-292",
-   "oe1bu9454-6"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-228",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 16667
-   },
-   {
-    "uid": "oe1bu9454-256",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 18317
-   },
-   {
-    "uid": "oe1bu9454-256",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 18335
-   },
-   {
-    "uid": "oe1bu9454-258",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 18374
-   },
-   {
-    "uid": "oe1bu9454-281",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19922
-   },
-   {
-    "uid": "oe1bu9454-268",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 18994
-   },
-   {
-    "uid": "oe1bu9454-269",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19076
-   },
-   {
-    "uid": "oe1bu9454-270",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 19180
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 142
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 145
-   },
-   {
-    "uid": "oe1bu9454-271",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19239
-   },
-   {
-    "uid": "oe1bu9454-273",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 19377
-   },
-   {
-    "uid": "oe1bu9454-15",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 763
-   },
-   {
-    "uid": "oe1bu9454-15",
-    "surface": "Stägemann",
-    "page": 3,
-    "page_id": "",
-    "line": 810
-   },
-   {
-    "uid": "oe1bu9454-275",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19551
-   },
-   {
-    "uid": "oe1bu9454-276",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19591
-   },
-   {
-    "uid": "oe1bu9454-277",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19664
-   },
-   {
-    "uid": "oe1bu9454-280",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19833
-   },
-   {
-    "uid": "oe1bu9454-280",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 19842
-   },
-   {
-    "uid": "oe1bu9454-286",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20261
-   },
-   {
-    "uid": "oe1bu9454-288",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20537
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 391
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 398
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 401
-   },
-   {
-    "uid": "oe1bu9454-290",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20692
-   },
-   {
-    "uid": "oe1bu9454-290",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20704
-   },
-   {
-    "uid": "oe1bu9454-292",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20792
-   },
-   {
-    "uid": "oe1bu9454-292",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20797
-   },
-   {
-    "uid": "oe1bu9454-292",
-    "surface": "Stägemann",
-    "page": 1,
-    "page_id": "",
-    "line": 20800
-   },
-   {
-    "uid": "oe1bu9454-292",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 20826
-   },
-   {
-    "uid": "oe1bu9454-292",
-    "surface": "Stägemann",
-    "page": 2,
-    "page_id": "",
-    "line": 20835
    }
   ]
  },
@@ -15765,13 +15785,6 @@
     "line": 330
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Napoleon",
-    "page": 3,
-    "page_id": "",
-    "line": 640
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Napoleon",
     "page": 2,
@@ -15791,6 +15804,13 @@
     "page": 1,
     "page_id": "",
     "line": 544
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Napoleon",
+    "page": 3,
+    "page_id": "",
+    "line": 640
    },
    {
     "uid": "oe1bu9454-277",
@@ -19064,6 +19084,129 @@
   ]
  },
  {
+  "entity": "meierowitz",
+  "display": "Franz Meierowitz",
+  "count": 15,
+  "documents": [
+   "oe1bu14526-21",
+   "oe1bu9454-163",
+   "oe1bu9454-164",
+   "oe1bu9454-169",
+   "oe1bu9454-213",
+   "oe1bu9454-215",
+   "oe1bu9454-22",
+   "oe1bu9454-233",
+   "oe1bu9454-237"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-169",
+    "surface": "Meierowitz",
+    "page": 1,
+    "page_id": "",
+    "line": 11935
+   },
+   {
+    "uid": "oe1bu9454-163",
+    "surface": "Meierowitz",
+    "page": 2,
+    "page_id": "",
+    "line": 11483
+   },
+   {
+    "uid": "oe1bu9454-164",
+    "surface": "Meierowitz",
+    "page": 2,
+    "page_id": "",
+    "line": 11566
+   },
+   {
+    "uid": "oe1bu14526-21",
+    "surface": "Meierowicz",
+    "page": 1,
+    "page_id": "0136_b",
+    "line": 6836
+   },
+   {
+    "uid": "oe1bu14526-21",
+    "surface": "Meierowitz",
+    "page": 1,
+    "page_id": "0136_b",
+    "line": 6847
+   },
+   {
+    "uid": "oe1bu14526-21",
+    "surface": "Meierowitz",
+    "page": 2,
+    "page_id": "0137_a1",
+    "line": 6860
+   },
+   {
+    "uid": "oe1bu14526-21",
+    "surface": "Meierowitz",
+    "page": 2,
+    "page_id": "0137_a1",
+    "line": 6867
+   },
+   {
+    "uid": "oe1bu14526-21",
+    "surface": "Meierowitz",
+    "page": 3,
+    "page_id": "0137_a2",
+    "line": 6890
+   },
+   {
+    "uid": "oe1bu9454-22",
+    "surface": "Meierowitz",
+    "page": 2,
+    "page_id": "",
+    "line": 1308
+   },
+   {
+    "uid": "oe1bu9454-213",
+    "surface": "Meierowitz",
+    "page": 4,
+    "page_id": "",
+    "line": 15152
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Meierowitz",
+    "page": 5,
+    "page_id": "",
+    "line": 15441
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Meierowitz",
+    "page": 5,
+    "page_id": "",
+    "line": 15444
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Meierowitz",
+    "page": 5,
+    "page_id": "",
+    "line": 15446
+   },
+   {
+    "uid": "oe1bu9454-233",
+    "surface": "Meierowitz",
+    "page": 4,
+    "page_id": "",
+    "line": 17056
+   },
+   {
+    "uid": "oe1bu9454-237",
+    "surface": "Meierowitz",
+    "page": 1,
+    "page_id": "",
+    "line": 17272
+   }
+  ]
+ },
+ {
   "entity": "schulze",
   "display": "Schulze",
   "count": 14,
@@ -19287,122 +19430,6 @@
     "page": 1,
     "page_id": "0002_b",
     "line": 27
-   }
-  ]
- },
- {
-  "entity": "meierowitz",
-  "display": "Franz Meierowitz",
-  "count": 14,
-  "documents": [
-   "oe1bu14526-21",
-   "oe1bu9454-163",
-   "oe1bu9454-164",
-   "oe1bu9454-169",
-   "oe1bu9454-213",
-   "oe1bu9454-215",
-   "oe1bu9454-22",
-   "oe1bu9454-233",
-   "oe1bu9454-237"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-169",
-    "surface": "Meierowitz",
-    "page": 1,
-    "page_id": "",
-    "line": 11935
-   },
-   {
-    "uid": "oe1bu9454-163",
-    "surface": "Meierowitz",
-    "page": 2,
-    "page_id": "",
-    "line": 11483
-   },
-   {
-    "uid": "oe1bu9454-164",
-    "surface": "Meierowitz",
-    "page": 2,
-    "page_id": "",
-    "line": 11566
-   },
-   {
-    "uid": "oe1bu14526-21",
-    "surface": "Meierowicz",
-    "page": 1,
-    "page_id": "0136_b",
-    "line": 6836
-   },
-   {
-    "uid": "oe1bu14526-21",
-    "surface": "Meierowitz",
-    "page": 1,
-    "page_id": "0136_b",
-    "line": 6847
-   },
-   {
-    "uid": "oe1bu14526-21",
-    "surface": "Meierowitz",
-    "page": 2,
-    "page_id": "0137_a1",
-    "line": 6860
-   },
-   {
-    "uid": "oe1bu14526-21",
-    "surface": "Meierowitz",
-    "page": 2,
-    "page_id": "0137_a1",
-    "line": 6867
-   },
-   {
-    "uid": "oe1bu14526-21",
-    "surface": "Meierowitz",
-    "page": 3,
-    "page_id": "0137_a2",
-    "line": 6890
-   },
-   {
-    "uid": "oe1bu9454-22",
-    "surface": "Meierowitz",
-    "page": 2,
-    "page_id": "",
-    "line": 1308
-   },
-   {
-    "uid": "oe1bu9454-213",
-    "surface": "Meierowitz",
-    "page": 4,
-    "page_id": "",
-    "line": 15152
-   },
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Meierowitz",
-    "page": 5,
-    "page_id": "",
-    "line": 15441
-   },
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Meierowitz",
-    "page": 5,
-    "page_id": "",
-    "line": 15444
-   },
-   {
-    "uid": "oe1bu9454-233",
-    "surface": "Meierowitz",
-    "page": 4,
-    "page_id": "",
-    "line": 17056
-   },
-   {
-    "uid": "oe1bu9454-237",
-    "surface": "Meierowitz",
-    "page": 1,
-    "page_id": "",
-    "line": 17272
    }
   ]
  },
@@ -20391,13 +20418,6 @@
     "line": 308
    },
    {
-    "uid": "oe1bu9454-11",
-    "surface": "Eberhardt",
-    "page": 1,
-    "page_id": "",
-    "line": 588
-   },
-   {
     "uid": "oe1bu9454-268",
     "surface": "Eberhardt",
     "page": 1,
@@ -20410,6 +20430,13 @@
     "page": 1,
     "page_id": "",
     "line": 19607
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Eberhardt",
+    "page": 1,
+    "page_id": "",
+    "line": 588
    },
    {
     "uid": "oe1bu9454-279",

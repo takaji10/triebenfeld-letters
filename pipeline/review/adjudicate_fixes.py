@@ -221,9 +221,40 @@ def client():
 
 
 def harvest(msg):
+    """The rulings out of a tool call, however deeply the JSON was serialised.
+
+    Tool input occasionally arrives with the array as a *string* - the same quirk
+    translate.py has handled since the first batch, and it crashed this collector
+    on `'str' object has no attribute 'get'`. Recovered rather than discarded:
+    the results cost money and the batch is not re-runnable for free.
+    """
     for b in msg.content:
-        if b.type == 'tool_use' and b.name == 'submit_rulings':
-            return (b.input or {}).get('rulings') or []
+        if b.type != 'tool_use' or b.name != 'submit_rulings':
+            continue
+        got = (b.input or {}).get('rulings')
+        if isinstance(got, str):
+            for attempt in (got, got.replace('\\"', '"')):
+                try:
+                    parsed = json.loads(attempt)
+                except Exception:
+                    continue
+                if isinstance(parsed, list):
+                    got = parsed
+                    break
+        if not isinstance(got, list):
+            print(f'  !! rulings came back as {type(got).__name__} and will not '
+                  f'parse - skipped')
+            return []
+        out = []
+        for r in got:
+            if isinstance(r, str):
+                try:
+                    r = json.loads(r)
+                except Exception:
+                    continue
+            if isinstance(r, dict) and r.get('key'):
+                out.append(r)
+        return out
     return []
 
 
@@ -234,6 +265,8 @@ def main():
     ap.add_argument('--collect', action='store_true')
     ap.add_argument('--score', action='store_true',
                     help='rule on rows already ruled by hand, and compare')
+    ap.add_argument('--write', action='store_true',
+                    help='write the collected rulings into the sheet')
     ap.add_argument('--limit', type=int, default=0)
     ap.add_argument('--dry-run', action='store_true')
     ap.add_argument('--model', default=None)
@@ -281,6 +314,28 @@ def main():
             json.dump(st, io.open(state, 'w', encoding='utf-8'), indent=1)
         elif os.path.isfile(state):
             os.remove(state)
+        return
+
+    if a.write:
+        dest = os.path.join(out_dir(slug), 'rulings.json')
+        got = {r['key']: r for r in json.load(io.open(dest, encoding='utf-8'))}
+        rows = list(csv.DictReader(io.open(sheet, encoding='utf-8-sig')))
+        n = skipped = 0
+        for r in rows:
+            g = got.get(r['key'])
+            if not g or (r.get('decision') or '').strip():
+                continue
+            d = (g.get('decision') or '').strip()
+            if not d or d == '?':
+                skipped += 1        # left open, as the model asked
+                continue
+            r['decision'] = d
+            n += 1
+        with io.open(sheet, 'w', encoding='utf-8-sig', newline='') as f:
+            w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+            w.writeheader()
+            w.writerows(rows)
+        print(f'wrote {n} ruling(s) into the sheet; {skipped} left for the editor')
         return
 
     rows, todo = open_rows(sheet, only_ruled=a.score)
