@@ -115,6 +115,19 @@ than where it sits.
 - Some German documents carry a few lines of **Polish**, and they are source
   text: translate them, do not treat them as corrupt German.
 - `Tromczin` is **Trąbczyn**.
+- **Kurrent minims: `nw` reads as `mr` or `mw`.** `n` is two minims and `w`
+  adds two more, so the run in `Anweisung` resolves as readily to `Amreisung`
+  or `Amweisung` - neither of which is a German word. Where a reading of that
+  shape appears, the test is whether any German word fits it at all; twice now
+  the answer has settled the page. Same class as the r/n ambiguity that gives
+  `Trieberfeld` for `Triebenfeld`.
+- **`Anweisung` has two senses and only one of them is the rare pair.** The
+  financial sense - an order to pay, as in `eine sichere Anweisung` on 100,000
+  Rthl - is what `Abweisung` could be confused with. `Anweisung des Försters`
+  is direction or instruction, cannot take `Abweisung` in the genitive, and is
+  not ambiguous. The rare-pair gate flags every occurrence of either sense by
+  design: it is catching the translator's silence, not an error, and the
+  editor rules.
 - Standardise `Głazewo`; standardise the Trąbczyn spellings; leave Wrąbczyn and
   Wrąbczynek alone.
 - **Everything goes into English** in the translation. A German word may stand

@@ -7,9 +7,11 @@
   "the transcription changes, the reading was never settled against this text."
  ],
  "notes": {
-  "oe1bu9454-269a|1|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: the page reads Anweisung. Scan Oe_1_Bu_9454_0490_a2-L269a_01.jpg. \"eine sichere Anweisung\" on 100,000 Rthl is an order to pay; Abweisung, a refusal, cannot take sichere. The model was right not to flag it as ambiguous, and the English - \"a secure instruction to pay\" - stands."
+  "oe1bu9454-269a|1|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: the page reads Anweisung. Scan Oe_1_Bu_9454_0490_a2-L269a_01.jpg. \"eine sichere Anweisung\" on 100,000 Rthl is an order to pay; Abweisung, a refusal, cannot take sichere. The model was right not to flag it as ambiguous, and the English - \"a secure instruction to pay\" - stands.",
+  "oe1bu14526-017|6|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: both occurrences on the page read Anweisung. Scan Oe_1_Bu_14526_0106_a1-L17_06.jpg, document lines 97-117. The editor read the page as Am[r/w?]eisung, which is not a German word - and that shape is exactly what Anweisung makes in Kurrent, where the `nw` is a four-minim run that resolves as readily to `mr` or `mw`. The clause settles the sense: `unter Aufsicht und Anweisung des Foersters` is the standard chancery pairing, under the supervision and direction of the forester. This is the DIRECTION sense, not the financial one; Abweisung, a refusal, cannot govern that genitive and makes no sense of Aufsicht und -. The English reads 'under the supervision and direction of the forester' and stands."
  },
  "cleared": [
-  "oe1bu9454-269a|1|rare-pair|Anweisung"
+  "oe1bu9454-269a|1|rare-pair|Anweisung",
+  "oe1bu14526-017|6|rare-pair|Anweisung"
  ]
 }
