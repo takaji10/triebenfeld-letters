@@ -31123,6 +31123,292 @@
   ]
  },
  {
+  "entity": "humboldt",
+  "display": "Wilhelm von Humboldt",
+  "count": 29,
+  "documents": [
+   "oe1bu9454-2",
+   "oe1bu9454-247",
+   "oe1bu9454-248",
+   "oe1bu9454-249",
+   "oe1bu9454-250",
+   "oe1bu9454-255",
+   "oe1bu9454-260",
+   "oe1bu9454-262",
+   "oe1bu9454-269",
+   "oe1bu9454-270",
+   "oe1bu9454-273",
+   "oe1bu9454-276",
+   "oe1bu9454-290",
+   "oe1bu9454-291",
+   "oe1bu9454-298",
+   "oe1bu9454-299"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-247",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0457_a2-L247_01.jpg",
+    "line": 17833,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-248",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0460_a1-L248_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-248",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0459_b-L248_01.jpg",
+    "line": 17928,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-248",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0460_a1-L248_02.jpg",
+    "line": 17954,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu9454-250",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-250",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
+    "line": 18045,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-249",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0461_b-L249_01.jpg",
+    "line": 18001,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-255",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-255",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
+    "line": 18277,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-260",
+    "surface": "Humboldt",
+    "page": 3,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0475_a2-L260_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-260",
+    "surface": "Humboldt",
+    "page": 3,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0475_a2-L260_03.jpg",
+    "line": 18533,
+    "doc_line": 68
+   },
+   {
+    "uid": "oe1bu9454-262",
+    "surface": "Humboldt",
+    "page": 3,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0479_a2-L262_03.jpg",
+    "line": 18677,
+    "doc_line": 70
+   },
+   {
+    "uid": "oe1bu9454-262",
+    "surface": "Humboldt",
+    "page": 3,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0479_a2-L262_03.jpg",
+    "line": 18679,
+    "doc_line": 72
+   },
+   {
+    "uid": "oe1bu9454-269",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-269",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+    "line": 19087,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
+    "line": 19177,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0003_a1-L2_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0003_a1-L2_02.jpg",
+    "line": 144,
+    "doc_line": 50
+   },
+   {
+    "uid": "oe1bu9454-273",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0497_b-L273_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-273",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0497_b-L273_01.jpg",
+    "line": 19360,
+    "doc_line": 11
+   },
+   {
+    "uid": "oe1bu9454-276",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0502_b-L276_01.jpg",
+    "line": 19586,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu9454-276",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0503_a1-L276_02.jpg",
+    "line": 19618,
+    "doc_line": 34
+   },
+   {
+    "uid": "oe1bu9454-290",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0524_a1-L290_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-290",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0524_a1-L290_02.jpg",
+    "line": 20718,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu9454-291",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-291",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
+    "line": 20742,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-298",
+    "surface": "Humboldt",
+    "page": 1,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0534_b-L298_01.jpg",
+    "line": 21182,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-299",
+    "surface": "Humboldt",
+    "page": 2,
+    "page_id": "",
+    "scan": "Oe_1_Bu_9454_0536_a1-L299_02.jpg",
+    "line": 21290,
+    "doc_line": 75
+   }
+  ]
+ },
+ {
   "entity": "knobelsdorff",
   "display": "Knobelsdorff",
   "count": 29,
@@ -31663,282 +31949,6 @@
     "scan": "Oe_1_Bu_14526_0064_a2-L10_15.jpg",
     "line": 3346,
     "doc_line": 429
-   }
-  ]
- },
- {
-  "entity": "humboldt",
-  "display": "Wilhelm von Humboldt",
-  "count": 28,
-  "documents": [
-   "oe1bu9454-2",
-   "oe1bu9454-248",
-   "oe1bu9454-249",
-   "oe1bu9454-250",
-   "oe1bu9454-255",
-   "oe1bu9454-260",
-   "oe1bu9454-262",
-   "oe1bu9454-269",
-   "oe1bu9454-270",
-   "oe1bu9454-273",
-   "oe1bu9454-276",
-   "oe1bu9454-290",
-   "oe1bu9454-291",
-   "oe1bu9454-298",
-   "oe1bu9454-299"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-248",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0460_a1-L248_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-248",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0459_b-L248_01.jpg",
-    "line": 17928,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-248",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0460_a1-L248_02.jpg",
-    "line": 17954,
-    "doc_line": 30
-   },
-   {
-    "uid": "oe1bu9454-250",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-250",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
-    "line": 18045,
-    "doc_line": 14
-   },
-   {
-    "uid": "oe1bu9454-249",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0461_b-L249_01.jpg",
-    "line": 18001,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-255",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-255",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
-    "line": 18277,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-260",
-    "surface": "Humboldt",
-    "page": 3,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0475_a2-L260_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-260",
-    "surface": "Humboldt",
-    "page": 3,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0475_a2-L260_03.jpg",
-    "line": 18533,
-    "doc_line": 68
-   },
-   {
-    "uid": "oe1bu9454-262",
-    "surface": "Humboldt",
-    "page": 3,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0479_a2-L262_03.jpg",
-    "line": 18677,
-    "doc_line": 70
-   },
-   {
-    "uid": "oe1bu9454-262",
-    "surface": "Humboldt",
-    "page": 3,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0479_a2-L262_03.jpg",
-    "line": 18679,
-    "doc_line": 72
-   },
-   {
-    "uid": "oe1bu9454-269",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-269",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
-    "line": 19087,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-270",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-270",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
-    "line": 19177,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0003_a1-L2_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0003_a1-L2_02.jpg",
-    "line": 144,
-    "doc_line": 50
-   },
-   {
-    "uid": "oe1bu9454-273",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0497_b-L273_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-273",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0497_b-L273_01.jpg",
-    "line": 19360,
-    "doc_line": 11
-   },
-   {
-    "uid": "oe1bu9454-276",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0502_b-L276_01.jpg",
-    "line": 19586,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu9454-276",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0503_a1-L276_02.jpg",
-    "line": 19618,
-    "doc_line": 34
-   },
-   {
-    "uid": "oe1bu9454-290",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0524_a1-L290_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-290",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0524_a1-L290_02.jpg",
-    "line": 20718,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu9454-291",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-291",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-    "line": 20742,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-298",
-    "surface": "Humboldt",
-    "page": 1,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0534_b-L298_01.jpg",
-    "line": 21182,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-299",
-    "surface": "Humboldt",
-    "page": 2,
-    "page_id": "",
-    "scan": "Oe_1_Bu_9454_0536_a1-L299_02.jpg",
-    "line": 21290,
-    "doc_line": 75
    }
   ]
  },

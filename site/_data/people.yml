@@ -141,8 +141,8 @@
   letters: [{id: "75", url: "/documents/oe1bu9454/75/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "80", url: "/documents/oe1bu9454/80/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "86", url: "/documents/oe1bu9454/86/"}, {id: "87", url: "/documents/oe1bu9454/87/"}, {id: "98", url: "/documents/oe1bu9454/98/"}, {id: "102", url: "/documents/oe1bu9454/102/"}, {id: "107", url: "/documents/oe1bu9454/107/"}, {id: "101", url: "/documents/oe1bu9454/101/"}, {id: "23", url: "/documents/oe1bu9454/23/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "humboldt"
   name: "Wilhelm von Humboldt"
-  count: 15
-  letters: [{id: "248", url: "/documents/oe1bu9454/248/"}, {id: "250", url: "/documents/oe1bu9454/250/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "260", url: "/documents/oe1bu9454/260/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "299", url: "/documents/oe1bu9454/299/"}]
+  count: 16
+  letters: [{id: "247", url: "/documents/oe1bu9454/247/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "250", url: "/documents/oe1bu9454/250/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "260", url: "/documents/oe1bu9454/260/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "299", url: "/documents/oe1bu9454/299/"}]
 - slug: "jankowski"
   name: "Jankowski"
   count: 1

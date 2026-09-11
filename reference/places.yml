@@ -466,11 +466,15 @@ places:
       - {form: "Olesnicern", canon: false}
       - {form: "Olesnices", canon: false}
       - {form: "Olesniser"}
+      - "Olisnie"                              # editor, 2026-09-11
+      - {form: "Oleschwitzer", canon: false}   # adjectival, like Olesnicer
     open_questions:
-      - "The corpus also has Olisnie once and Oleschwitzer once. Neither is
-         folded in: Consistency_Register.md lists Olisnice separately among the
-         Hohenlohe-era settlements, and Oleschwitz is a different name. Both
-         want a ruling before they are merged."
+      - "Consistency_Register.md lists Olisnice among the Hohenlohe-era
+         settlements as though it were its own place. The editor has ruled that
+         the corpus's Olisnie is this village, so the register entry is either
+         the same place under another spelling or a separate settlement that
+         happens to look like it. Worth reconciling when the register is next
+         revised."
 
   orzeszkowo:
     display: "Orzeszkowo"
