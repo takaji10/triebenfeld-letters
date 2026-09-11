@@ -61,7 +61,7 @@ people:
   bernhard:
     display: "Meyer Bernhard"
     match: "Bernhard(?!i)"
-    tier: "Role unclear — treat as multiple people sharing a common surname, not one entity"
+    tier: "Role unclear; treat as multiple people sharing a common surname, not one entity"
     variants: []
   bernhardi:
     display: "Bergrath Bernhardi"

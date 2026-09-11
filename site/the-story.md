@@ -14,7 +14,7 @@ earth mounds attested by a court, a tenancy was a privilege with a seal on it, a
 owner who could not produce his papers did not own much.
 
 This archive is being built era by era. Each has its own account below. Only the middle one
-has documents on the site so far — the other two exist in the research and in archives in
+has documents on the site so far. The other two exist in the research and in archives in
 Poznań, Warsaw and Berlin, and are named here rather than left out, so that what is absent
 is at least visible.
 
@@ -24,9 +24,9 @@ the Hohenlohes had lost the estate, because losing it took another nine years of
 
 ---
 
-## The Trąbczyn–Łukom boundary dispute
+## The Trąbczyn and Łukom boundary dispute
 
-**Prusimski and Chełmski, c. 1589–1788. Not yet published.**
+**Prusimski and Chełmski, c. 1589 to 1788. Not yet published.**
 
 Two hundred years of argument between neighbouring estates about where one ended and the
 other began. It runs through courts at Konin, Pyzdry and Kalisz, and the evidence is
@@ -41,8 +41,8 @@ The documents are in the municipal and land court books at the State Archive in 
 
 ## The Hohenlohe-Ingelfingen years
 
-**Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, 1796–1807.
-[348 documents, 1798–1816]({{ '/hohenlohe/' | relative_url }}).**
+**Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, 1796 to 1807.
+[348 documents, 1798 to 1816]({{ '/hohenlohe/' | relative_url }}).**
 
 Poland was partitioned out of existence between 1772 and 1795, and Trąbczyn ended up in the
 Prussian share. In 1796 the King gave the estate to a general who already had debts, and

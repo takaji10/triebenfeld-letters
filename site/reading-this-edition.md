@@ -17,8 +17,7 @@ citation and part of its address here.
 
 The text was transcribed from the original handwriting, which is *Kurrentschrift*, the
 German cursive hand of the period, difficult to read and easy to misread. Some of the
-deeds carry passages in Polish and Latin, and those are source text too — translated, not
-treated as corrupt German.
+deeds carry passages in Polish and Latin, and those are source text too, translated rather than treated as corrupt German.
 
 **The transcription was produced by an AI system, not by a human palaeographer.** This
 matters, and the edition does not hide it. Machine transcription of Kurrentschrift makes a
@@ -158,8 +157,7 @@ Eight documents remain undated and are collected at the end of chronological ord
 Note that an archive's numbering is not necessarily chronological. In the correspondence,
 letters 1 to 74 are a jumbled block spanning 1806 to 1815; 75 to 301 run in order from
 1798, and numbers 302 and 303 sit outside that sequence. Both orders are navigable, and the
-archival number is the stable citation key — unique within its holding, which is why the
-holding is part of every document's address.
+archival number is the stable citation key. It is unique only within its holding, which is why the holding is part of every document's address.
 
 ## Money
 
@@ -179,7 +177,7 @@ a link back to its parent. Nothing was removed in the process.
 Some documents survive in two copies. In the correspondence, letters **48 and 302** are the
 same letter of 7 March 1809 transcribed twice, as are 72d/72e (German and Polish) and
 118b/118c. In the deeds, the Betsche hereditary-lease contract is here as **18 and 19**,
-copied into the volume twice over — one of them without the royal consent and the archival
+copied into the volume twice over, one of them without the royal consent and the archival
 attestation that follow the other. The duplicate pairs are unusually valuable, because
 comparing two independent transcriptions of one page reveals exactly where transcription
 goes wrong, and both copies are presented unaltered.

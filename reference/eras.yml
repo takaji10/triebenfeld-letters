@@ -24,13 +24,13 @@ eras:
   prusimski-boundary:
     order: 1
     status: unpopulated
-    label_en: "The Trąbczyn–Łukom boundary dispute"
+    label_en: "The Trąbczyn and Łukom boundary dispute"
     label_de: "Der Grenzstreit zwischen Trąbczyn und Łukom"
-    ownership_en: "Prusimski and Chełmski, c. 1589–1788"
-    ownership_de: "Prusimski und Chełmski, ca. 1589–1788"
+    ownership_en: "Prusimski and Chełmski, c. 1589 to 1788"
+    ownership_de: "Prusimski und Chełmski, ca. 1589 bis 1788"
     blurb_en: >-
       Two hundred years of argument between neighbouring estates over where one
-      ended and the other began — mounds, blazed trees, a disputed pond-ground,
+      ended and the other began: mounds, blazed trees, a disputed pond-ground,
       and the Olęder settlement that was annexed along with the land it stood
       on. The documents are in the municipal and land court books at Poznań and
       have not yet been added here.
@@ -44,8 +44,8 @@ eras:
     status: populated
     label_en: "The Hohenlohe-Ingelfingen years"
     label_de: "Die Hohenlohe-Ingelfingener Jahre"
-    ownership_en: "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, 1796–1807"
-    ownership_de: "Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796–1807"
+    ownership_en: "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, 1796 to 1807"
+    ownership_de: "Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796 to 1807"
     blurb_en: >-
       Prussia took the estate in the Third Partition and the King gave it away.
       What followed was eleven years of a Prussian general trying to turn Polish

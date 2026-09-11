@@ -19,14 +19,13 @@ hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehl
 
 Zur Einordnung: Epoche meint hier ein editorisches Urteil darüber, zu welcher Geschichte
 ein Dokument gehört, nicht einen Datumsbereich. Die meisten Dokumente der
-Hohenlohe-Epoche sind datiert, nachdem die Hohenlohes das Gut bereits verloren hatten —
-der Verlust zog sich über weitere neun Jahre Streit hin.
+Hohenlohe-Epoche sind datiert, nachdem die Hohenlohes das Gut bereits verloren hatten. Der Verlust zog sich über weitere neun Jahre Streit hin.
 
 ---
 
 ## Der Grenzstreit zwischen Trąbczyn und Łukom
 
-**Prusimski und Chełmski, ca. 1589–1788. Noch nicht veröffentlicht.**
+**Prusimski und Chełmski, ca. 1589 bis 1788. Noch nicht veröffentlicht.**
 
 Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das
 andere begann. Er läuft durch die Gerichte in Konin, Pyzdry und Kalisch, und die Beweise
@@ -42,8 +41,8 @@ Die Akten liegen in den Grod- und Landgerichtsbüchern im Staatsarchiv Posen.
 
 ## Die Hohenlohe-Ingelfingener Jahre
 
-**Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796–1807.
-[348 Dokumente, 1798–1816]({{ '/de/hohenlohe/' | relative_url }}).**
+**Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796 bis 1807.
+[348 Dokumente, 1798 bis 1816]({{ '/de/hohenlohe/' | relative_url }}).**
 
 Polen wurde zwischen 1772 und 1795 aufgeteilt, und Trąbczyn fiel an Preußen. 1796
 verschenkte der König das Gut an einen General, der bereits Schulden hatte. Es folgten elf

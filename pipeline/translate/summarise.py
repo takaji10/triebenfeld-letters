@@ -108,6 +108,7 @@ Groschen, Hufe and Morgen stay as they are.
 so and give its subject, its parties and its totals.
   * If the text is too damaged or fragmentary to summarise, say briefly what \
 survives rather than inventing continuity.
+  * No em dashes. Use a comma, a colon, a semicolon or a full stop instead. A dash between two FIGURES is a range and is correct: 8,000-9,000 Rthl.
   * Neutral register. Do not editorialise, and do not repeat the date or the \
 place of writing - the page already displays those."""
 

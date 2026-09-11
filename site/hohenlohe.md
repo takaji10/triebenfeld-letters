@@ -15,8 +15,7 @@ This era holds 348 documents, written between 1798 and 1816. They come from two 
 files and they read very differently. One is eighteen years of letters from an estate agent
 to his employer: hard going on their own, since they open in the middle of business and
 assume you know everyone, but in order they turn out to be a single continuous story about
-a man trying to save another man's fortune and failing. The other is a volume of title
-deeds — the contracts by which the estate was sold off and let out, with the settlers named
+a man trying to save another man's fortune and failing. The other is a volume of title deeds: the contracts by which the estate was sold off and let out, with the settlers named
 in them. The letters say what was intended. The deeds say what was signed.
 
 Every claim below links to the letter it comes from, so you can leave this page at any
@@ -89,23 +88,20 @@ word itself: ["die Hauländer oder Collonisten"]({{ '/documents/oe1bu9454/216/' 
 
 What that meant on paper is in the deeds. In April 1805 Triebenfeld signed a
 [punctation]({{ '/documents/oe1bu14526/15/' | relative_url }}) making over 270 *Hufen* out
-of Trąbczyn, Łazy, Osiny, Neudorff and Przybysław — by the contract's own reckoning thirty
-*Morgen* to the *Hufe*, so something near two thousand hectares — at 300 Reichsthaler the
-*Hufe*, and fifteen more every year in rent that could never be bought out. New villages were to be laid out in two straight lines, with thirteen free
+of Trąbczyn, Łazy, Osiny, Neudorff and Przybysław. The contract does its own reckoning: thirty *Morgen* to the *Hufe*, which puts it near two thousand hectares. The price was 300 Reichsthaler the *Hufe*, and fifteen more every year in rent that could never be bought out. New villages were to be laid out in two straight lines, with thirteen free
 *Morgen* set aside in each for the schoolmaster, the village head and the churchyard. The
 Crown had licensed the breaking-up the year before, and that licence is filed with
 [another of the contracts]({{ '/documents/oe1bu14526/8/' | relative_url }}).
 
 Seventeen men signed that punctation. Ten of them signed with a cross. German and Polish
-names stand side by side in the list, and one of the holdings — three *Hufen* — is taken by
-a woman, Elisabetta di Simony, in her own name.
+names stand side by side in the list, and one of the holdings, three *Hufen*, is taken by a woman, Elisabetta di Simony, in her own name.
 
 The terms repeat almost word for word across thirteen of these contracts, and they are
 worth reading once in full, because they explain what happens later. A settler paid to
 enter. He owed a fixed rent for ever, and the lord took a tenth of the price every time the
 holding changed hands. He ground his corn at the lord's mill and drank at the lord's tavern.
 Two years in arrears and he forfeited. And he gave up, in advance and in writing, any claim
-to relief if things went wrong — fire, flood, war, bad harvests, all of it his own risk.
+to relief if things went wrong. Fire, flood, war, bad harvests: all of it his own risk.
 
 It worked for a while. By 1806 the formal revenue survey certified by the Kalisch Chamber
 put the two lordships at [40,260 Reichsthaler a
@@ -175,8 +171,7 @@ never gets him anywhere, because her connections are better than his.
 
 The deeds add a detail the letters do not mention. On 28 January 1808, three months after
 the seizure, the estate's own court was still issuing settlers their papers. Two
-hereditary-lease contracts carry engrossments made out that day — one
-[at Alexandrien]({{ '/documents/oe1bu14526/6/' | relative_url }}) under the seal of the
+hereditary-lease contracts carry engrossments made out that day. One [at Alexandrien]({{ '/documents/oe1bu14526/6/' | relative_url }}) under the seal of the
 "Hohenlohesches Patrimonial Gericht amt Zagorow", the other
 [at Pyzdry]({{ '/documents/oe1bu14526/7/' | relative_url }}) and in Polish, signing itself *Sąd
 Patrimonialny Maiętnosći Zagurowskiey*, the patrimonial court of the Zagorowo property. The
@@ -222,8 +217,7 @@ colonists ["for the most part driven out by judicial
 decrees"]({{ '/documents/oe1bu9454/216/' | relative_url }}) and the land turned back into demesne farms.
 
 It is worth turning back to the contracts at this point. The colonists who could not pay
-had already signed away any claim to relief — the clause is in every one of these leases,
-and it covers precisely this. They are not anonymous in the archive either. The
+had already signed away any claim to relief. The clause is in every one of these leases and it covers precisely this. They are not anonymous in the archive either. The
 [Althütte contract]({{ '/documents/oe1bu14526/17/' | relative_url }}) names six of them with the
 villages they came from: Martin Giering from Racotten, Wilhelm Daniel Schulz from
 Krolikower Holländ, Gottfried and Michael Dumel from Razoten, Gottfried Damt, and Christoph
@@ -328,8 +322,7 @@ correspondence, with the evidence for each identification and how far it can be 
 ## What to read first
 
 For the story in fifteen documents, read them in this order. Four are deeds; the rest are
-letters, and the difference is the point — the letters argue, the deeds record what was
-actually agreed.
+letters. The letters argue; the deeds record what was actually agreed.
 
 1. [Letter 77]({{ '/documents/oe1bu9454/77/' | relative_url }}), the exchange scheme in full flow
 2. [Letter 85]({{ '/documents/oe1bu9454/85/' | relative_url }}), the King says no
