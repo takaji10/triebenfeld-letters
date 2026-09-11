@@ -22,6 +22,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
+import schema
 import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -82,6 +83,20 @@ def main():
                 h = next(rd, None)
                 if h is None:
                     continue
+                # Asserted, not adopted. This used to be `header = header or h`,
+                # which writes every unit's rows under whichever unit was read
+                # first - so a field added to one holding and not rebuilt in the
+                # other silently shifts one holding's columns by one.
+                want = schema.FIELDS_BY_TABLE.get(name)
+                if want is not None and h != want:
+                    missing = [c for c in want if c not in h]
+                    extra = [c for c in h if c not in want]
+                    sys.exit('\n'.join([
+                        f'{u.slug}/{name} does not match the current schema.',
+                        f'  missing:    {missing or "none"}',
+                        f'  unexpected: {extra or "none"}',
+                        'A schema change needs a full `python regenerate.py`, not',
+                        '--unit: the other holdings still carry the old columns.']))
                 header = header or h
                 rows.extend(rd)
         if header:

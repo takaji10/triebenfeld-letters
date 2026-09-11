@@ -13,6 +13,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from corpus_pages import build_pages, load_decisions, PAGE_TAG
 import unitlib
+import schema
 import sys
 
 OUT = ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -396,10 +397,7 @@ print("still undated:", undated)
 
 # ---------------- write outputs ----------------
 # CSV carries the flat fields (pages are nested, so JSON only).
-cols = ['unit','uid','pad','permalink','letter_id','seq_archival','parent_letter','doc_type','date_iso','date_precision','date_source','date_display',
-        'date_inferred_from','year','month','day','place','sender','recipient',
-        'line_start','line_end','uncertainty_count','has_damage','duplicate_of',
-        'is_missing','n_lines','n_pages','text','text_reading']
+cols = schema.DOCUMENT_FLAT_FIELDS
 with open(os.path.join(UNIT_OUT, 'letters.csv'),'w',encoding='utf-8-sig',newline='') as f:
     w = csv.DictWriter(f, fieldnames=cols, extrasaction='ignore'); w.writeheader()
     for r in records: w.writerow(r)
@@ -409,7 +407,7 @@ with open(os.path.join(UNIT_OUT, 'letters.json'),'w',encoding='utf-8') as f:
 # Page-level table: one row per manuscript page, for scan matching later.
 with open(os.path.join(UNIT_OUT, 'pages.csv'),'w',encoding='utf-8-sig',newline='') as f:
     w = csv.writer(f)
-    w.writerow(['letter_id','page','line_start','line_end','n_lines','scan','reading'])
+    w.writerow(schema.PAGE_FLAT_FIELDS)
     for r in records:
         for p in r['pages']:
             w.writerow([r['letter_id'], p['page'], p['line_start'], p['line_end'],
