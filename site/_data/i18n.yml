@@ -199,9 +199,7 @@ en:
   sort_fewest_docs: Fewest documents
   sources_h1: Sources
   sources_lede: >-
-    The archival holdings this edition draws on. Documents from all of them are
-    read together as one correspondence; the holding a document comes from is
-    part of its citation, and part of its web address.
+    The archival files this edition draws on, and what each one holds.
   sources_documents: Documents
   sources_pages: Manuscript pages
   sources_span: Span
@@ -432,9 +430,7 @@ de:
   sort_fewest_docs: Wenigste Dokumente
   sources_h1: Quellen
   sources_lede: >-
-    Die Archivbestände, auf denen diese Edition beruht. Die Dokumente aller
-    Bestände werden als eine Korrespondenz gelesen; der Bestand, aus dem ein
-    Dokument stammt, gehört zu seinem Zitat und zu seiner Webadresse.
+    Die Archivbestände, auf denen diese Edition beruht, und was jeder enthält.
   sources_documents: Dokumente
   sources_pages: Handschriftenseiten
   sources_span: Zeitraum

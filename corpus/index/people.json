@@ -3739,7 +3739,7 @@
  {
   "entity": "glenck",
   "display": "Glenck",
-  "count": 227,
+  "count": 228,
   "documents": [
    "oe1bu14526-18",
    "oe1bu14526-19",
@@ -4749,6 +4749,14 @@
    {
     "uid": "oe1bu14526-19",
     "surface": "Glenck",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Glenck",
     "page": 5,
     "page_id": "",
     "line": 0,
@@ -5615,7 +5623,7 @@
  {
   "entity": "honrichs",
   "display": "Honrichs",
-  "count": 187,
+  "count": 188,
   "documents": [
    "oe1bu14526-2",
    "oe1bu14526-21",
@@ -5662,6 +5670,14 @@
    "oe1bu9454-72f"
   ],
   "mentions": [
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Honrichs",
+    "page": 7,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
    {
     "uid": "oe1bu14526-2",
     "surface": "Hon",
@@ -12928,7 +12944,7 @@
  {
   "entity": "leixner",
   "display": "George Conrad Leixner",
-  "count": 82,
+  "count": 83,
   "documents": [
    "oe1bu14526-22",
    "oe1bu14526-23",
@@ -13068,6 +13084,14 @@
     "page_id": "",
     "line": 10264,
     "doc_line": 58
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Leixner",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
    },
    {
     "uid": "oe1bu14526-5",
@@ -27569,6 +27593,260 @@
   ]
  },
  {
+  "entity": "bernhardi",
+  "display": "Bergrath Bernhardi",
+  "count": 29,
+  "documents": [
+   "oe1bu14526-5",
+   "oe1bu9454-117",
+   "oe1bu9454-129",
+   "oe1bu9454-136",
+   "oe1bu9454-137",
+   "oe1bu9454-152",
+   "oe1bu9454-156",
+   "oe1bu9454-165",
+   "oe1bu9454-189",
+   "oe1bu9454-200",
+   "oe1bu9454-303",
+   "oe1bu9454-32",
+   "oe1bu9454-96"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-96",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-96",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 7493,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-117",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-117",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 8849,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-129",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-129",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 9285,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 9796,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 9810,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-137",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-137",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 10043,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Bernhardi",
+    "page": 6,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Bernhardi",
+    "page": 6,
+    "page_id": "0022_a1",
+    "line": 1065,
+    "doc_line": 184
+   },
+   {
+    "uid": "oe1bu9454-165",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-165",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 11662,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-152",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-152",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 10897,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu9454-152",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 10899,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-156",
+    "surface": "Bernhardi",
+    "page": 4,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-156",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 11062,
+    "doc_line": 28
+   },
+   {
+    "uid": "oe1bu9454-156",
+    "surface": "Bernhardi",
+    "page": 4,
+    "page_id": "",
+    "line": 11106,
+    "doc_line": 70
+   },
+   {
+    "uid": "oe1bu9454-189",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-189",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 13402,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 2183,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-200",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-200",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "",
+    "line": 14356,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-303",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-303",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "",
+    "line": 21514,
+    "doc_line": 20
+   }
+  ]
+ },
+ {
   "entity": "knobelsdorff",
   "display": "Knobelsdorff",
   "count": 29,
@@ -27815,252 +28093,6 @@
     "page_id": "",
     "line": 14935,
     "doc_line": 15
-   }
-  ]
- },
- {
-  "entity": "bernhardi",
-  "display": "Bergrath Bernhardi",
-  "count": 28,
-  "documents": [
-   "oe1bu14526-5",
-   "oe1bu9454-117",
-   "oe1bu9454-129",
-   "oe1bu9454-136",
-   "oe1bu9454-137",
-   "oe1bu9454-152",
-   "oe1bu9454-156",
-   "oe1bu9454-165",
-   "oe1bu9454-189",
-   "oe1bu9454-200",
-   "oe1bu9454-303",
-   "oe1bu9454-32",
-   "oe1bu9454-96"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-96",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-96",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 7493,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-117",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-117",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 8849,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-129",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-129",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 9285,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 9796,
-    "doc_line": 14
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 9810,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-137",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-137",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 10043,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Bernhardi",
-    "page": 6,
-    "page_id": "0022_a1",
-    "line": 1065,
-    "doc_line": 184
-   },
-   {
-    "uid": "oe1bu9454-165",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-165",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 11662,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-152",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-152",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 10897,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu9454-152",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 10899,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-156",
-    "surface": "Bernhardi",
-    "page": 4,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-156",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 11062,
-    "doc_line": 28
-   },
-   {
-    "uid": "oe1bu9454-156",
-    "surface": "Bernhardi",
-    "page": 4,
-    "page_id": "",
-    "line": 11106,
-    "doc_line": 70
-   },
-   {
-    "uid": "oe1bu9454-189",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-189",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 13402,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu9454-32",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-32",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 2183,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-200",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-200",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "",
-    "line": 14356,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-303",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-303",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "",
-    "line": 21514,
-    "doc_line": 20
    }
   ]
  },
@@ -30295,6 +30327,185 @@
   ]
  },
  {
+  "entity": "mlynkiewicz",
+  "display": "Matheus Młynkiewicz",
+  "count": 21,
+  "documents": [
+   "oe1bu14526-18",
+   "oe1bu14526-19"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Matheus Młynkiewicz",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Matheus Młynkiewicz",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 3,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 4,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 1,
+    "page_id": "0109_b",
+    "line": 5755,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 3,
+    "page_id": "0110_a2",
+    "line": 5795,
+    "doc_line": 54
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 4,
+    "page_id": "0111_a1",
+    "line": 5810,
+    "doc_line": 68
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Młynkiewicz",
+    "page": 25,
+    "page_id": "0121_a2",
+    "line": 6230,
+    "doc_line": 467
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Matheus Młynkiewicz",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Matheus Młynkiewicz",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 3,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Matheus Młynkiewicz",
+    "page": 17,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Matheus Młynkiewicz",
+    "page": 18,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 1,
+    "page_id": "0123_b",
+    "line": 6320,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6339,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6358,
+    "doc_line": 52
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 3,
+    "page_id": "0124_a2",
+    "line": 6373,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 17,
+    "page_id": "0131_a2",
+    "line": 6751,
+    "doc_line": 430
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 18,
+    "page_id": "0132_a1",
+    "line": 6766,
+    "doc_line": 444
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Młynkiewicz",
+    "page": 19,
+    "page_id": "0132_a2",
+    "line": 6795,
+    "doc_line": 472
+   }
+  ]
+ },
+ {
   "entity": "eberhardt",
   "display": "Eberhardt",
   "count": 21,
@@ -30480,177 +30691,6 @@
     "page_id": "",
     "line": 20291,
     "doc_line": 49
-   }
-  ]
- },
- {
-  "entity": "mlynkiewicz",
-  "display": "Matheus Młynkiewicz",
-  "count": 20,
-  "documents": [
-   "oe1bu14526-18",
-   "oe1bu14526-19"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Matheus Młynkiewicz",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Matheus Młynkiewicz",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 3,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 4,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 1,
-    "page_id": "0109_b",
-    "line": 5755,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 3,
-    "page_id": "0110_a2",
-    "line": 5795,
-    "doc_line": 54
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 4,
-    "page_id": "0111_a1",
-    "line": 5810,
-    "doc_line": 68
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Młynkiewicz",
-    "page": 25,
-    "page_id": "0121_a2",
-    "line": 6230,
-    "doc_line": 467
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Matheus Młynkiewicz",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Matheus Młynkiewicz",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 3,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Matheus Młynkiewicz",
-    "page": 17,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Matheus Młynkiewicz",
-    "page": 18,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 1,
-    "page_id": "0123_b",
-    "line": 6320,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6339,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6358,
-    "doc_line": 52
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 3,
-    "page_id": "0124_a2",
-    "line": 6373,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 17,
-    "page_id": "0131_a2",
-    "line": 6751,
-    "doc_line": 430
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 18,
-    "page_id": "0132_a1",
-    "line": 6766,
-    "doc_line": 444
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Młynkiewicz",
-    "page": 19,
-    "page_id": "0132_a2",
-    "line": 6795,
-    "doc_line": 472
    }
   ]
  },
@@ -31345,6 +31385,169 @@
     "page_id": "",
     "line": 12130,
     "doc_line": 35
+   }
+  ]
+ },
+ {
+  "entity": "chmara",
+  "display": "Johann Chmara",
+  "count": 19,
+  "documents": [
+   "oe1bu14526-18",
+   "oe1bu14526-19"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Johann Chmara",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Johann Chmara",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 4,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 24,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 1,
+    "page_id": "0109_b",
+    "line": 5756,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "0110_a1",
+    "line": 5775,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 4,
+    "page_id": "0111_a1",
+    "line": 5805,
+    "doc_line": 63
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 23,
+    "page_id": "0120_a2",
+    "line": 6189,
+    "doc_line": 428
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Chmara",
+    "page": 25,
+    "page_id": "0121_a2",
+    "line": 6229,
+    "doc_line": 466
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Johann Chmara",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Johann Chmara",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 18,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 1,
+    "page_id": "0123_b",
+    "line": 6321,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6341,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 2,
+    "page_id": "0124_a1",
+    "line": 6366,
+    "doc_line": 60
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 17,
+    "page_id": "0131_a2",
+    "line": 6750,
+    "doc_line": 429
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 18,
+    "page_id": "0132_a1",
+    "line": 6766,
+    "doc_line": 444
+   },
+   {
+    "uid": "oe1bu14526-19",
+    "surface": "Chmara",
+    "page": 19,
+    "page_id": "0132_a2",
+    "line": 6795,
+    "doc_line": 472
    }
   ]
  },
@@ -32344,6 +32547,163 @@
   ]
  },
  {
+  "entity": "rochlitz",
+  "display": "Forst-Inspector Rochlitz",
+  "count": 18,
+  "documents": [
+   "oe1bu14526-2",
+   "oe1bu9454-140",
+   "oe1bu9454-173",
+   "oe1bu9454-71"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "0003_b",
+    "line": 47,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "0003_b",
+    "line": 60,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Rochlitz",
+    "page": 8,
+    "page_id": "0007_a1",
+    "line": 277,
+    "doc_line": 229
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 4,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 5,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 6,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 10226,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 4,
+    "page_id": "",
+    "line": 10288,
+    "doc_line": 81
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 5,
+    "page_id": "",
+    "line": 10318,
+    "doc_line": 110
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Rochlitz",
+    "page": 6,
+    "page_id": "",
+    "line": 10330,
+    "doc_line": 121
+   },
+   {
+    "uid": "oe1bu9454-173",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-173",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 12156,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu9454-173",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 12165,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-71",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-71",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 5509,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-71",
+    "surface": "Rochlitz",
+    "page": 1,
+    "page_id": "",
+    "line": 5515,
+    "doc_line": 19
+   }
+  ]
+ },
+ {
   "entity": "otocki",
   "display": "Otocki",
   "count": 18,
@@ -32501,161 +32861,6 @@
     "page_id": "",
     "line": 5507,
     "doc_line": 11
-   }
-  ]
- },
- {
-  "entity": "chmara",
-  "display": "Johann Chmara",
-  "count": 18,
-  "documents": [
-   "oe1bu14526-18",
-   "oe1bu14526-19"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Johann Chmara",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Johann Chmara",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 4,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 24,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 1,
-    "page_id": "0109_b",
-    "line": 5756,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 2,
-    "page_id": "0110_a1",
-    "line": 5775,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 4,
-    "page_id": "0111_a1",
-    "line": 5805,
-    "doc_line": 63
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 23,
-    "page_id": "0120_a2",
-    "line": 6189,
-    "doc_line": 428
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Chmara",
-    "page": 25,
-    "page_id": "0121_a2",
-    "line": 6229,
-    "doc_line": 466
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Johann Chmara",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Johann Chmara",
-    "page": 2,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 18,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 1,
-    "page_id": "0123_b",
-    "line": 6321,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6341,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 2,
-    "page_id": "0124_a1",
-    "line": 6366,
-    "doc_line": 60
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 17,
-    "page_id": "0131_a2",
-    "line": 6750,
-    "doc_line": 429
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 18,
-    "page_id": "0132_a1",
-    "line": 6766,
-    "doc_line": 444
-   },
-   {
-    "uid": "oe1bu14526-19",
-    "surface": "Chmara",
-    "page": 19,
-    "page_id": "0132_a2",
-    "line": 6795,
-    "doc_line": 472
    }
   ]
  },
@@ -33292,155 +33497,6 @@
     "page_id": "",
     "line": 21497,
     "doc_line": 4
-   }
-  ]
- },
- {
-  "entity": "rochlitz",
-  "display": "Forst-Inspector Rochlitz",
-  "count": 17,
-  "documents": [
-   "oe1bu14526-2",
-   "oe1bu9454-140",
-   "oe1bu9454-173",
-   "oe1bu9454-71"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-2",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "0003_b",
-    "line": 47,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu14526-2",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "0003_b",
-    "line": 60,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu14526-2",
-    "surface": "Rochlitz",
-    "page": 8,
-    "page_id": "0007_a1",
-    "line": 277,
-    "doc_line": 229
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 4,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 5,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 6,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 10226,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 4,
-    "page_id": "",
-    "line": 10288,
-    "doc_line": 81
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 5,
-    "page_id": "",
-    "line": 10318,
-    "doc_line": 110
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Rochlitz",
-    "page": 6,
-    "page_id": "",
-    "line": 10330,
-    "doc_line": 121
-   },
-   {
-    "uid": "oe1bu9454-173",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-173",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 12156,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu9454-173",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 12165,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-71",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-71",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 5509,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-71",
-    "surface": "Rochlitz",
-    "page": 1,
-    "page_id": "",
-    "line": 5515,
-    "doc_line": 19
    }
   ]
  },
@@ -37334,6 +37390,58 @@
   ]
  },
  {
+  "entity": "simon",
+  "display": "Simon",
+  "count": 5,
+  "documents": [
+   "oe1bu14526-15",
+   "oe1bu14526-5",
+   "oe1bu9454-141"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-141",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-141",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "",
+    "line": 10394,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Simon",
+    "page": 2,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Simon",
+    "page": 2,
+    "page_id": "0020_a1",
+    "line": 935,
+    "doc_line": 58
+   },
+   {
+    "uid": "oe1bu14526-15",
+    "surface": "Simon",
+    "page": 5,
+    "page_id": "0090_a2",
+    "line": 4926,
+    "doc_line": 149
+   }
+  ]
+ },
+ {
   "entity": "massenbach",
   "display": "Massenbach",
   "count": 5,
@@ -37920,50 +38028,6 @@
   ]
  },
  {
-  "entity": "simon",
-  "display": "Simon",
-  "count": 4,
-  "documents": [
-   "oe1bu14526-15",
-   "oe1bu14526-5",
-   "oe1bu9454-141"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-141",
-    "surface": "Simon",
-    "page": 1,
-    "page_id": "",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-141",
-    "surface": "Simon",
-    "page": 1,
-    "page_id": "",
-    "line": 10394,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Simon",
-    "page": 2,
-    "page_id": "0020_a1",
-    "line": 935,
-    "doc_line": 58
-   },
-   {
-    "uid": "oe1bu14526-15",
-    "surface": "Simon",
-    "page": 5,
-    "page_id": "0090_a2",
-    "line": 4926,
-    "doc_line": 149
-   }
-  ]
- },
- {
   "entity": "szczucki",
   "display": "Szczucki",
   "count": 4,
@@ -38421,6 +38485,40 @@
   ]
  },
  {
+  "entity": "knoblauch",
+  "display": "Knoblauch",
+  "count": 3,
+  "documents": [
+   "oe1bu14526-2"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Knoblauch",
+    "page": 4,
+    "page_id": "",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Knob",
+    "page": 4,
+    "page_id": "0005_a1",
+    "line": 143,
+    "doc_line": 99
+   },
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Knoblauch",
+    "page": 4,
+    "page_id": "0005_a1",
+    "line": 146,
+    "doc_line": 102
+   }
+  ]
+ },
+ {
   "entity": "magnuski",
   "display": "Magnuski",
   "count": 3,
@@ -38608,32 +38706,6 @@
     "page_id": "0164_a1",
     "line": 7985,
     "doc_line": 28
-   }
-  ]
- },
- {
-  "entity": "knoblauch",
-  "display": "Knoblauch",
-  "count": 2,
-  "documents": [
-   "oe1bu14526-2"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-2",
-    "surface": "Knob",
-    "page": 4,
-    "page_id": "0005_a1",
-    "line": 143,
-    "doc_line": 99
-   },
-   {
-    "uid": "oe1bu14526-2",
-    "surface": "Knoblauch",
-    "page": 4,
-    "page_id": "0005_a1",
-    "line": 146,
-    "doc_line": 102
    }
   ]
  },

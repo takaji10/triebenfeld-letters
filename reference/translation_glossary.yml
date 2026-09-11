@@ -690,6 +690,18 @@ terms:
       times over. The adjectival Hohenlohesche is excluded, being the Princely
       Hohenlohe court rather than a person of anywhere.
 
+  - term: vidimirt                          # 8 in corpus
+    pattern: '\bvidim\w*'
+    policy: translate
+    render: 'certified'
+    gloss: >-
+      A vidimated copy is one an authority has compared against the original and
+      certified as agreeing with it. "Vidimated" is not English and tells a
+      reader nothing; a vidimirte Abschrift is a certified copy, and the volume's
+      own title, Originalia et Copiae vidimatae, is originals and certified
+      copies. Where the certifying matters to the sense, say who certified it,
+      which the document always states.
+
   # --- quarter days ------------------------------------------------------
   # Rents, leases and instalments in these documents fall due on feast days,
   # not on calendar dates, so these are load-bearing terms and not colour: a
@@ -1044,6 +1056,10 @@ latin_terms:
 # with the Court Summoner. A rule with no `when` is unconditional, and should
 # only be written for a string that could not arise any other way.
 forbidden_renders:
+  - render: 'vidimated'
+    note: >-
+      not an English word. A vidimirte Abschrift is a certified copy: a copy an
+      authority has compared against the original and attested as agreeing.
   - render: 'zu Hohenlohe'
     note: >-
       territorial particle, so it is translated: of Hohenlohe-Ingelfingen,

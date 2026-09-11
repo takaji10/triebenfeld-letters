@@ -5,7 +5,7 @@ slug: oe1bu14526
 ref: Oe 1 Bü 14526
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
 title: >-
-  Originals and vidimated copies of the deeds of sale and hereditary lease over
+  Originals and certified copies of the deeds of sale and hereditary lease over
   the South Prussian estates donated to Friedrich Ludwig, Prince of
   Hohenlohe-Ingelfingen
 # The datelines run 1798-10-01 to 1806-07-18. The volume reaches further at both
@@ -66,9 +66,8 @@ description: >-
   together with everything filed with it, so a single document here can run to
   twenty-eight manuscript pages. Several of the leases name the settlers who
   took the land and the terms they took it on.
-  The volume's own title page calls it Originalia et Copiae vidimatae, and much
-  of it is exactly that: several instruments survive here in two copies, which
-  is what lets one settle the other's damaged readings.
+  Some instruments are here twice, in an original and in a copy certified
+  against it, so where one is damaged the other can often be read.
 
 # The convention-setting sample for translate.py --pilot. Chosen for what can
 # go wrong here rather than for what is typical:

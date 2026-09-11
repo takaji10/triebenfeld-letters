@@ -438,52 +438,603 @@
    "doc_line": 274
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "E. W. v. Rösch",
+   "kind": "person",
+   "surface_de": "E. W. v. Rösch",
+   "surface_en": "E. W. v. Rösch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "place",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Martin Honrichs",
+   "kind": "person",
+   "surface_de": "Martin Honrichs",
+   "surface_en": "Martin Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Valentin v. Kwasieborski",
+   "kind": "person",
+   "surface_de": "Valentin v. Kwasieborski",
+   "surface_en": "Valentin v. Kwasieborski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Witow",
+   "surface_en": "Witów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreysch.",
+   "surface_en": "South Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalschen",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warta district",
+   "kind": "place",
+   "surface_de": "Wartaschen Creise",
+   "surface_en": "Warta district",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm the Second",
+   "kind": "person",
+   "surface_de": "Friedrichs Willhelms des Zweyten",
+   "surface_en": "Friedrich Wilhelm the Second",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Colonel von Schlieben",
+   "kind": "person",
+   "surface_de": "Obristen v Schlieben",
+   "surface_en": "Colonel von Schlieben",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Martin Honrichs",
+   "kind": "person",
+   "surface_de": "Martin Honrichs",
+   "surface_en": "Martin Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Valentin v. Kwasieborski",
+   "kind": "person",
+   "surface_de": "Valentin v Kwasieborski",
+   "surface_en": "Valentin v. Kwasieborski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warta",
+   "kind": "place",
+   "surface_de": "Warta",
+   "surface_en": "Warta",
+   "page": 3
+  },
+  {
+   "entity": "knoblauch",
+   "display": "Knoblauch",
+   "kind": "person",
+   "surface_de": "Knoblauch",
+   "surface_en": "Knoblauch",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Bloch of Blotniz",
+   "kind": "person",
+   "surface_de": "v Bloch auf Blotniz",
+   "surface_en": "von Bloch of Blotniz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "St John's Day",
+   "kind": "other",
+   "surface_de": "St. Johanni",
+   "surface_en": "St John's Day",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Witow",
+   "surface_en": "Witów",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "v. Kwasiborski",
+   "kind": "person",
+   "surface_de": "v Kwasiborski",
+   "surface_en": "v. Kwasiborski",
+   "page": 7
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedrich Rochlitz",
+   "kind": "person",
+   "surface_de": "Christian Friedrich Rochlitz",
+   "surface_en": "Christian Friedrich Rochlitz",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Martin Honrichs",
+   "kind": "person",
+   "surface_de": "Martin Honrichs",
+   "surface_en": "Martin Honrichs",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Walęty v. Kwasiborski",
+   "kind": "person",
+   "surface_de": "Walęty v Kwasiborski",
+   "surface_en": "Walęty v. Kwasiborski",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Carl Anton Grimm",
+   "kind": "person",
+   "surface_de": "Carl Anton Grimm",
+   "surface_en": "Carl Anton Grimm",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Stanisław Szymanowski",
+   "kind": "person",
+   "surface_de": "Stanisław Szymanowski",
+   "surface_en": "Stanisław Szymanowski",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Carl Ferdinand Weigel",
+   "kind": "person",
+   "surface_de": "Carl Ferdinand Weigel",
+   "surface_en": "Carl Ferdinand Weigel",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Carl Gottlieb Weigel",
+   "kind": "person",
+   "surface_de": "Carl Gottlieb Weigel",
+   "surface_en": "Carl Gottlieb Weigel",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludewig regierenden Fürsten zu Hohenlohe-Ingelfingen",
+   "surface_en": "Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Carl Gottlieb Weigel",
+   "kind": "person",
+   "surface_de": "Carl Gottlieb Weigel",
+   "surface_en": "Carl Gottlieb Weigel",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Carl Ferdinand Weigel",
+   "kind": "person",
+   "surface_de": "Carl Ferdinand Weigel",
+   "surface_en": "Carl Ferdinand Weigel",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "St Vincent",
+   "kind": "place",
+   "surface_de": "S. Vincenz",
+   "surface_en": "St Vincent",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Büchler",
+   "kind": "person",
+   "surface_de": "Büchler",
+   "surface_en": "Büchler",
+   "page": 10
+  }
+ ],
  "place_canonical": "Kalisch",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "E. W. von Rösch. Between the special authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the forest inspector Rochlitz, as seller on the one part, and Martin Honrichs and Valentin von Kwasieborski, as purchasers on the other part, there has, for the purpose of a formal judicial contract of purchase and sale to be concluded hereafter concerning the noble estate of Witów, been well-advisedly agreed and concluded under today's date the following heads of agreement.\n\nThe said forest inspector Rochlitz sells, in the name of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the aforesaid his principal, the noble estate situated in the Royal South Prussian Kalisz Government Department and in its Warta district, namely the village and the village mayor's holding of Witów with all appurtenant rights and privileges, nothing excepted therefrom, as the same was, pursuant to the Most High deed of donation of the most blessed King Frie-"
+   "en": "E. W. v. Rösch — between the special authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Forest Inspector Rochlitz, as seller on the one part, and Martin Honrichs and Valentin v. Kwasieborski, as purchasers on the other part, there has, with due deliberation, been agreed and concluded under today's date the following points of contract, for the purpose of a formal judicial contract of purchase and sale to be concluded hereafter concerning the noble estate of Witów.\n\nThe said Forest Inspector Rochlitz sells, in the name of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the aforesaid his Lord and principal, the noble estate lying in the Royal South Prussian Kalisz Government Department and in its Warta district, namely the village and village mayor's holding of Witów with all appurtenant rights and privileges, nothing thereof excepted, just as the same was, pursuant to the Most High deed of donation of the most blessed King Frie-",
+   "names": [
+    {
+     "de": "E. W. v. Rösch",
+     "en": "E. W. v. Rösch",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Honrichs",
+     "en": "Martin Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Valentin v. Kwasieborski",
+     "en": "Valentin v. Kwasieborski",
+     "kind": "person"
+    },
+    {
+     "de": "Witow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreysch.",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Kalschen",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Wartaschen Creise",
+     "en": "Warta district",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "drich Wilhelm the Second, conferred upon Colonel von Schlieben, and was conveyed by his widow and heirs, pursuant to the judicial contract of sale of 22 October 1799, to His Most Serene Highness; to the said Martin Honrichs and Valentin von Kwasieborski, and that for a purchase price well-advisedly agreed and determined between the contracting parties of 16000 rt, written out sixteen thousand Reichsthaler Prussian Courant. 2: This purchase price the purchasers bind themselves to pay in solidum, that is to say, the one for both and both for the one, to His Most Serene Highness in the following instalments, namely at St John the Baptist of the current year 4000 Rt, say four thousand Reichsthaler, at Christmas of the current year 6000 rtl., say six thousand Reichsthaler, and at Midsummer 1804 the remainder with 6000 rt., say six thousand Reichsthaler, but until the full payment of the arrears to pay interest on the same at 5 per cent.\n\n3. His Most Serene Highness grants the purchasers warranty of title only for those parcels actually held in possession and to be handed over to them at the"
+   "en": "-drich Wilhelm the Second, conferred upon Colonel von Schlieben, and by his widow and heirs, pursuant to the judicial contract of purchase of 22 October 1799, conveyed to His Most Serene Highness — to the said Martin Honrichs and Valentin v. Kwasieborski, and this for a purchase price deliberately agreed and fixed between the contracting parties of 16000 rt, in words sixteen thousand Reichsthaler Prussian Courant. 2: this purchase price the purchasers bind themselves to pay in solidum, that is to say, one for both and both for one, to His Most Serene Highness in the following instalments, namely at St John the Baptist of this year 4000 Rt, say four thousand Reichsthaler; at Christmas of this year 6000 rtl., say six thousand Reichsthaler; and at Midsummer 1804 the remainder with 6000 rt., say six thousand Reichsthaler; and until the arrears are fully paid, to pay interest on the same at 5 per cent.\n\n3. His Most Serene Highness affords the purchasers warranty of title only for those parcels of land actually held in possession and to be handed over to them at the",
+   "names": [
+    {
+     "de": "Friedrichs Willhelms des Zweyten",
+     "en": "Friedrich Wilhelm the Second",
+     "kind": "person"
+    },
+    {
+     "de": "Obristen v Schlieben",
+     "en": "Colonel von Schlieben",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Honrichs",
+     "en": "Martin Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Valentin v Kwasieborski",
+     "en": "Valentin v. Kwasieborski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "22",
+    "1799",
+    "2",
+    "16000",
+    "4000",
+    "6000",
+    "1804",
+    "6000",
+    "5",
+    "3"
+   ]
   },
   {
    "page": 3,
-   "en": "delivery of possession; with regard to those 1016 składy of arable land which may be recovered at law by the burgesses of Warta and which are not in the possession of His Most Serene Highness, no warranty of title is granted, but it remains the purchasers' business alone to vindicate the arable land in question wholly at their own risk and cost, against which, however, His Most Serene Highness thereupon relinquishes all claims against the purchasers, if they should actually win these składy of arable land from the burgesses of Warta either wholly or in part.\n\n4. The handing over of this sold estate to the purchasers shall take place 14 days after Midsummer of the current year, at which time also, simultaneously and reciprocally, the first instalment of the 4000 rtll. must be paid, because before this is done the handing over cannot take place.\n\n5. At this handing over there shall likewise be handed over the [uncertain: ground to be lost] and the cattle and implements which are found on the estate"
+   "en": "delivery of possession. In respect of those 1016 składy of arable which may be evicted at the suit of the burgesses of Warta, and which are not in the possession of His Most Serene Highness, no warranty of title is afforded; rather it remains the purchasers' affair alone to vindicate the said fields at their own entire risk and cost, against which, however, His Most Serene Highness relinquishes all claims as against the purchasers, should they in fact recover these składy of arable against the burgesses of Warta, whether in whole or in part.\n\n4. The handing over of this sold estate to the purchasers shall take place 14 days after Midsummer of this year, at which time, concurrently and against each other, the first instalment of the 4000 rtll. must be paid, since until this is done the handing over cannot take place.\n\n5. At this handing over there shall be handed over as well such ground [text as transcribed: \"Grund zuverloren\"] and livestock and implements as are found upon the estate",
+   "names": [
+    {
+     "de": "Warta",
+     "en": "Warta",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1016",
+    "4",
+    "14",
+    "4000",
+    "5"
+   ]
   },
   {
    "page": 4,
-   "en": "and are specified in the judicial recess of transfer on the part of the tenant Knoblauch to von Bloch of Blotniz of the 10th and 11th of July of the past year, exclusive of the surplus inventory in horses and oxen taken away at that time by Knoblauch pursuant to the recess of 11 July, which for that very reason are no longer to be found on the estate, and for that very reason cannot be handed over as well.\n\n6. The seller promises to procure the consent to the purchasers' acquisition of this estate if possible at the latest by St John of the current year; should it, however, not be forthcoming, then the sale in question falls through.\n\n7. Should the final resolution concerning the said consent be delayed longer than 14 days beyond St John of the current year, in such wise that the handing over should already have taken place and the first instalment of the purchase price should already have been paid, but the resolution in question should then turn out"
+   "en": "and is specified in the judicial deed of transfer on the part of the tenant Knoblauch to von Bloch of Blotniz of 10 and 11 July of last year, excluding the surplus inventory in horses and oxen taken away at that time by Knoblauch pursuant to the deed of 11 July, which for that very reason are no longer to be found upon the estate and for that very reason cannot be handed over with it.\n\n6. The seller promises to procure the consent to the purchasers' acquisition of this estate if possible at the latest by St John's of this year; should the same however not be forthcoming, then the present purchase falls away.\n\n7. Should the final resolution regarding the said consent be delayed longer than 14 days after St John's of this year, in such wise that the handing over has already taken place and the first instalment of the purchase price has already been paid, but the resolution in the matter should then turn out",
+   "names": [
+    {
+     "de": "Knoblauch",
+     "en": "Knoblauch",
+     "kind": "person"
+    },
+    {
+     "de": "v Bloch auf Blotniz",
+     "en": "von Bloch of Blotniz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "11",
+    "6",
+    "11",
+    "7",
+    "14"
+   ]
   },
   {
    "page": 5,
-   "en": "in the negative, then the contracting parties have agreed, to avoid all [uncertain: disputes] concerning the revenues raised, that the purchasers shall retain this estate in possession for one year, namely until 14 days after St John's Day 1804, by way of lease, but shall on the other hand pay for this year a lease sum of 800 rtl., say eight hundred Reichsthaler, to the seller, and shall also discharge all public dues concerning this estate, by whatever name they may be called, upon their own responsibility, without being permitted to bring anything to account against the seller for them; and in this last case the purchasers renounce each and every other remission and other demands, by whatever name they may be called, but bind themselves, under the readiest execution, to vacate the estate of Witów 14 days after St John 1804 in good husbandry condition, and submit themselves in this"
+   "en": "negative, then the contracting parties, to avoid all disputes concerning the revenues drawn, have agreed that the purchasers shall retain possession of this estate for one year, namely until 14 days after St John's Day 1804, by way of lease, but shall for that year pay to the seller a rent of 800 rtl., say eight hundred Reichsthaler, and shall likewise discharge all public dues concerning this estate, by whatever name they may be called, upon the assessment ex Propriet, without being permitted to bring anything thereof into account against the seller; and the purchasers, in this last event, renounce any and all remissions and other demands whatsoever, by whatever name they may be called, but bind themselves, subject to the most summary execution, to vacate the estate of Witów 14 days after St John's 1804 in good husbandry condition, and submit themselves in this",
+   "names": [
+    {
+     "de": "St. Johanni",
+     "en": "St John's Day",
+     "kind": "other"
+    },
+    {
+     "de": "Witow",
+     "en": "Witów",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "14",
+    "1804",
+    "800",
+    "14",
+    "1804"
+   ]
   },
   {
    "page": 6,
-   "en": "regard to the process of execution with all its legal consequences; yet it is of course understood that in this case, upon the vacating of the estate, the 4000 rtl. paid must be repaid to them by the seller, after deduction of the stipulated lease rent of 800 rt and of such public dues and costs as they could not show to have been paid at their departure.\n\n8. The estate shall be handed over to the purchasers with the winter and summer sowing fully put in, and the purchasers herewith declare that they accept the winter sowing as duly put in, and only await the like with regard to the summer crop.\n\n9. The documents concerning this estate shall be handed out to the purchasers immediately upon the arrival of the consent to their acquisition [uncertain: Frühige].\n\n10."
+   "en": "regard to the process of execution with all its legal consequences; it being however of course understood that in such event, upon their vacating the estate, the 4000 rtl. paid must be repaid to them by the seller, after deduction of the stipulated lease rent of 800 rt and of such public dues and costs as they could not show to have been paid at their departure.\n\n8. The estate shall be handed over to the purchasers with the winter and summer sowing fully carried out, and the purchasers hereby declare that they accept the winter sowing as duly sown, and expect only the like in respect of the summer sowing.\n\n9. The documents concerning this estate shall be delivered over to the purchasers immediately upon the arrival of the consent to their acquisition [uncertain: Frühige].\n\n10.",
+   "numbers": [
+    "4000",
+    "800",
+    "8",
+    "9",
+    "10"
+   ]
   },
   {
    "page": 7,
-   "en": "10. Finally, the contracting parties renounce all objections and evasions running counter to these heads of purchase, by whatever name they may be called, in particular the purchasers renounce the objection of injury in and beyond the half, and in the event of non-performance or [uncertain: non-fulfilment] of this contract they set a vadium or conventional penalty of 1000 rtll, say one thousand Reichsthaler, which the contravening party shall be bound to pay to the other, and nevertheless to perform the contract.\n\n11. The costs of this contract both parties assume by halves; those of the settlement of the titulus possessionis in the purchasers' names, the latter alone.\n\nBoth parties have, after they themselves had read through these heads of purchase, which were explained to the co-purchaser von Kwasiborski by his partner Honrichs in the Polish tongue, upon prior"
+   "en": "10. Finally, the contracting parties renounce all objections and evasions running counter to these points of purchase, by whatever name they may be called, and in particular the purchasers renounce the plea of injury in and beyond the half; and they set, for the case of non-performance or non-fulfilment of this contract, a vadium or conventional penalty of 1000 rtll, say one thousand Reichsthaler, which the contravening party shall be bound to pay to the other, and nonetheless to perform the contract.\n\n11. The costs of this contract both parties assume by halves; those of the rectification of the titulus possessionis in the purchasers' names, the latter alone.\n\nBoth parties have, this instrument of purchase points having been read by them themselves — which was explained to the co-purchaser v. Kwasiborski by his socius Honrichs in the Polish tongue — after prior",
+   "names": [
+    {
+     "de": "v Kwasiborski",
+     "en": "v. Kwasiborski",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "1000",
+    "11"
+   ]
   },
   {
    "page": 8,
-   "en": "approval executed them with\n\ntheir own hand-written\n\nname-signatures.\n\nKalisz, the 21st of April 1803. At the signing both parties observed to me that with regard to the buildings standing on the village mayor's holding, which the tenants there claim to have built themselves, no warranty of title is granted to the purchasers by the seller, but that in case the tenants' statement should be correct, the purchasers will have to come to a separate settlement with them on that account.\n\nDone as above. Christian Friedrich Rochlitz. Martin Honrichs.\n\nWalęty von Kwasiborski\n\nCarl Anton Grimm\n\nStanisław Szymanowski\n\nas witness. The 6000 rl., six thousand Reichsthaler of purchase money payable to me at the term of Christmas of this year in accordance with the foregoing heads of purchase, likewise, out of the 6000 rt payable at the term of Midsummer 1804, a sum of two thousand Reichsthaler, with priority before the residue, also with all rights"
+   "en": "approval, executed the same with their own signatures manual.\n\nKalisz, 21 April 1803. At the signing, both parties observed to me that, in respect of the buildings standing upon the village mayor's holding, which the tenants there claim to have built themselves, no warranty of title is afforded to the purchasers by the seller; but that, in case the tenants' statement should prove correct, the purchasers must come to a separate settlement with them on that account.\n\nDone as above. Christian Friedrich Rochlitz. Martin Honrichs.\n\nWalęty v. Kwasiborski\n\nCarl Anton Grimm\n\nStanisław Szymanowski\n\nas witness. The 6000 rl., six thousand Reichsthaler of purchase money payable to me at the Christmas term of this year according to the foregoing points of purchase, and likewise, out of the 6000 rt payable at the Midsummer term of 1804, a sum of two thousand Reichsthaler, with priority before the residue, also with all rights",
+   "names": [
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Christian Friedrich Rochlitz",
+     "en": "Christian Friedrich Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Honrichs",
+     "en": "Martin Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Walęty v Kwasiborski",
+     "en": "Walęty v. Kwasiborski",
+     "kind": "person"
+    },
+    {
+     "de": "Carl Anton Grimm",
+     "en": "Carl Anton Grimm",
+     "kind": "person"
+    },
+    {
+     "de": "Stanisław Szymanowski",
+     "en": "Stanisław Szymanowski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "21",
+    "1803",
+    "6000",
+    "6000",
+    "1804"
+   ]
   },
   {
    "page": 9,
-   "en": "and without novation, and with the lien to be stipulated in the instrument of sale to be drawn up hereafter and to be intabulated upon the entry of the title of possession, and with interest at 5 per cent from St John of the current year onward, I hereby cede to the banker here, Carl Ferdinand Weigel. I acknowledge to have received the value of this cession from him in cash and duly.\n\nI also promise to procure for the banker Weigel the debtors' consent to this cession as soon as possible. Breslau, the 26th of April 1803. Friedrich Ludwig, Prince of Hohenlohe, read and approved by myself. The foregoing cession, receipt for the value, and the promise to procure the consent of the debtors I accept in the name and as partner of my father Carl Ferdinand Weigel. Breslau, the 26th of April 1803. I have read and approved this. Carl Gottlieb Weigel, in the name and as partner of his father Carl Ferdinand Weigel. That the foregoing cession and receipt for the"
+   "en": "and without novation, and with the right of pledge to be stipulated in the instrument of purchase hereafter to be drawn up and to be intabulated upon registration of the title of possession, and with interest at 5 per cent from Midsummer of this year, I hereby cede to the banker here, Carl Ferdinand Weigel. I acknowledge to have received the consideration for this cession from him in cash and duly.\n\nI likewise promise to procure for the banker Weigel the debtors' assent to this cession as soon as possible. Breslau, 26 April 1803. Friedrich Ludwig, Prince of Hohenlohe. Read and approved by myself. The foregoing cession, receipt for the consideration, and the promise to procure the debtors' assent, I accept in the name and as partner of my father Carl Ferdinand Weigel. Breslau, 26 April 1803. I have read and approved this. Carl Gottlieb Weigel, in the name and as partner of his father Carl Ferdinand Weigel. That the foregoing cession and receipt for the",
+   "names": [
+    {
+     "de": "Carl Ferdinand Weigel",
+     "en": "Carl Ferdinand Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Carl Gottlieb Weigel",
+     "en": "Carl Gottlieb Weigel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "26",
+    "1803",
+    "26",
+    "1803"
+   ]
   },
   {
    "page": 10,
-   "en": "value by His Most Serene Highness Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen, and the acceptance declared by the merchant Carl Gottlieb Weigel, in the name and as partner of his father Carl Ferdinand Weigel, were executed under today's date before the Justice Office of the Princely Ladies' Foundation of St Vincent, to which office they are personally well known, after the reading through had taken place and approval had been declared, by their own hand-written name-signatures and appended seals, both upon this original punctation and upon the vidimated copy of the same issued to the cessionary, is hereby attested on the ground of the protocol [illegible] taken up thereon. Breslau, the 26th of April 1803. The Justice Office of the Princely Ladies' Foundation of St Vincent\n\n[L. S.]\n\nBüchler"
+   "en": "consideration, on the part of His Most Serene Highness Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen, and the acceptance declared by the merchant Carl Gottlieb Weigel in the name and as partner of his father Carl Ferdinand Weigel, were executed under today's date before the Justice Office of the Princely Ladies' Foundation of St Vincent, to which office the same are well known in person, after the reading through had taken place and approval had been declared, by their own signatures manual and appended seals, both upon this original points of contract and upon the certified copy of the same issued to the cessionary — is hereby attested on the ground of the [illegible] protocol taken up thereon. Breslau, 26 April 1803. The Justice Office of the Princely Ladies' Foundation of St Vincent\n\n[L. S.]\n\nBüchler",
+   "names": [
+    {
+     "de": "Friedrich Ludewig regierenden Fürsten zu Hohenlohe-Ingelfingen",
+     "en": "Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Carl Gottlieb Weigel",
+     "en": "Carl Gottlieb Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Carl Ferdinand Weigel",
+     "en": "Carl Ferdinand Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "S. Vincenz",
+     "en": "St Vincent",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Büchler",
+     "en": "Büchler",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "26",
+    "1803"
+   ]
   }
  ],
- "text_english": "E. W. von Rösch. Between the special authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the forest inspector Rochlitz, as seller on the one part, and Martin Honrichs and Valentin von Kwasieborski, as purchasers on the other part, there has, for the purpose of a formal judicial contract of purchase and sale to be concluded hereafter concerning the noble estate of Witów, been well-advisedly agreed and concluded under today's date the following heads of agreement.\n\nThe said forest inspector Rochlitz sells, in the name of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the aforesaid his principal, the noble estate situated in the Royal South Prussian Kalisz Government Department and in its Warta district, namely the village and the village mayor's holding of Witów with all appurtenant rights and privileges, nothing excepted therefrom, as the same was, pursuant to the Most High deed of donation of the most blessed King Frie-\n\ndrich Wilhelm the Second, conferred upon Colonel von Schlieben, and was conveyed by his widow and heirs, pursuant to the judicial contract of sale of 22 October 1799, to His Most Serene Highness; to the said Martin Honrichs and Valentin von Kwasieborski, and that for a purchase price well-advisedly agreed and determined between the contracting parties of 16000 rt, written out sixteen thousand Reichsthaler Prussian Courant. 2: This purchase price the purchasers bind themselves to pay in solidum, that is to say, the one for both and both for the one, to His Most Serene Highness in the following instalments, namely at St John the Baptist of the current year 4000 Rt, say four thousand Reichsthaler, at Christmas of the current year 6000 rtl., say six thousand Reichsthaler, and at Midsummer 1804 the remainder with 6000 rt., say six thousand Reichsthaler, but until the full payment of the arrears to pay interest on the same at 5 per cent.\n\n3. His Most Serene Highness grants the purchasers warranty of title only for those parcels actually held in possession and to be handed over to them at the\n\ndelivery of possession; with regard to those 1016 składy of arable land which may be recovered at law by the burgesses of Warta and which are not in the possession of His Most Serene Highness, no warranty of title is granted, but it remains the purchasers' business alone to vindicate the arable land in question wholly at their own risk and cost, against which, however, His Most Serene Highness thereupon relinquishes all claims against the purchasers, if they should actually win these składy of arable land from the burgesses of Warta either wholly or in part.\n\n4. The handing over of this sold estate to the purchasers shall take place 14 days after Midsummer of the current year, at which time also, simultaneously and reciprocally, the first instalment of the 4000 rtll. must be paid, because before this is done the handing over cannot take place.\n\n5. At this handing over there shall likewise be handed over the [uncertain: ground to be lost] and the cattle and implements which are found on the estate\n\nand are specified in the judicial recess of transfer on the part of the tenant Knoblauch to von Bloch of Blotniz of the 10th and 11th of July of the past year, exclusive of the surplus inventory in horses and oxen taken away at that time by Knoblauch pursuant to the recess of 11 July, which for that very reason are no longer to be found on the estate, and for that very reason cannot be handed over as well.\n\n6. The seller promises to procure the consent to the purchasers' acquisition of this estate if possible at the latest by St John of the current year; should it, however, not be forthcoming, then the sale in question falls through.\n\n7. Should the final resolution concerning the said consent be delayed longer than 14 days beyond St John of the current year, in such wise that the handing over should already have taken place and the first instalment of the purchase price should already have been paid, but the resolution in question should then turn out\n\nin the negative, then the contracting parties have agreed, to avoid all [uncertain: disputes] concerning the revenues raised, that the purchasers shall retain this estate in possession for one year, namely until 14 days after St John's Day 1804, by way of lease, but shall on the other hand pay for this year a lease sum of 800 rtl., say eight hundred Reichsthaler, to the seller, and shall also discharge all public dues concerning this estate, by whatever name they may be called, upon their own responsibility, without being permitted to bring anything to account against the seller for them; and in this last case the purchasers renounce each and every other remission and other demands, by whatever name they may be called, but bind themselves, under the readiest execution, to vacate the estate of Witów 14 days after St John 1804 in good husbandry condition, and submit themselves in this\n\nregard to the process of execution with all its legal consequences; yet it is of course understood that in this case, upon the vacating of the estate, the 4000 rtl. paid must be repaid to them by the seller, after deduction of the stipulated lease rent of 800 rt and of such public dues and costs as they could not show to have been paid at their departure.\n\n8. The estate shall be handed over to the purchasers with the winter and summer sowing fully put in, and the purchasers herewith declare that they accept the winter sowing as duly put in, and only await the like with regard to the summer crop.\n\n9. The documents concerning this estate shall be handed out to the purchasers immediately upon the arrival of the consent to their acquisition [uncertain: Frühige].\n\n10.\n\n10. Finally, the contracting parties renounce all objections and evasions running counter to these heads of purchase, by whatever name they may be called, in particular the purchasers renounce the objection of injury in and beyond the half, and in the event of non-performance or [uncertain: non-fulfilment] of this contract they set a vadium or conventional penalty of 1000 rtll, say one thousand Reichsthaler, which the contravening party shall be bound to pay to the other, and nevertheless to perform the contract.\n\n11. The costs of this contract both parties assume by halves; those of the settlement of the titulus possessionis in the purchasers' names, the latter alone.\n\nBoth parties have, after they themselves had read through these heads of purchase, which were explained to the co-purchaser von Kwasiborski by his partner Honrichs in the Polish tongue, upon prior\n\napproval executed them with\n\ntheir own hand-written\n\nname-signatures.\n\nKalisz, the 21st of April 1803. At the signing both parties observed to me that with regard to the buildings standing on the village mayor's holding, which the tenants there claim to have built themselves, no warranty of title is granted to the purchasers by the seller, but that in case the tenants' statement should be correct, the purchasers will have to come to a separate settlement with them on that account.\n\nDone as above. Christian Friedrich Rochlitz. Martin Honrichs.\n\nWalęty von Kwasiborski\n\nCarl Anton Grimm\n\nStanisław Szymanowski\n\nas witness. The 6000 rl., six thousand Reichsthaler of purchase money payable to me at the term of Christmas of this year in accordance with the foregoing heads of purchase, likewise, out of the 6000 rt payable at the term of Midsummer 1804, a sum of two thousand Reichsthaler, with priority before the residue, also with all rights\n\nand without novation, and with the lien to be stipulated in the instrument of sale to be drawn up hereafter and to be intabulated upon the entry of the title of possession, and with interest at 5 per cent from St John of the current year onward, I hereby cede to the banker here, Carl Ferdinand Weigel. I acknowledge to have received the value of this cession from him in cash and duly.\n\nI also promise to procure for the banker Weigel the debtors' consent to this cession as soon as possible. Breslau, the 26th of April 1803. Friedrich Ludwig, Prince of Hohenlohe, read and approved by myself. The foregoing cession, receipt for the value, and the promise to procure the consent of the debtors I accept in the name and as partner of my father Carl Ferdinand Weigel. Breslau, the 26th of April 1803. I have read and approved this. Carl Gottlieb Weigel, in the name and as partner of his father Carl Ferdinand Weigel. That the foregoing cession and receipt for the\n\nvalue by His Most Serene Highness Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen, and the acceptance declared by the merchant Carl Gottlieb Weigel, in the name and as partner of his father Carl Ferdinand Weigel, were executed under today's date before the Justice Office of the Princely Ladies' Foundation of St Vincent, to which office they are personally well known, after the reading through had taken place and approval had been declared, by their own hand-written name-signatures and appended seals, both upon this original punctation and upon the vidimated copy of the same issued to the cessionary, is hereby attested on the ground of the protocol [illegible] taken up thereon. Breslau, the 26th of April 1803. The Justice Office of the Princely Ladies' Foundation of St Vincent\n\n[L. S.]\n\nBüchler",
+ "text_english": "E. W. v. Rösch — between the special authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Forest Inspector Rochlitz, as seller on the one part, and Martin Honrichs and Valentin v. Kwasieborski, as purchasers on the other part, there has, with due deliberation, been agreed and concluded under today's date the following points of contract, for the purpose of a formal judicial contract of purchase and sale to be concluded hereafter concerning the noble estate of Witów.\n\nThe said Forest Inspector Rochlitz sells, in the name of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the aforesaid his Lord and principal, the noble estate lying in the Royal South Prussian Kalisz Government Department and in its Warta district, namely the village and village mayor's holding of Witów with all appurtenant rights and privileges, nothing thereof excepted, just as the same was, pursuant to the Most High deed of donation of the most blessed King Frie-\n\n-drich Wilhelm the Second, conferred upon Colonel von Schlieben, and by his widow and heirs, pursuant to the judicial contract of purchase of 22 October 1799, conveyed to His Most Serene Highness — to the said Martin Honrichs and Valentin v. Kwasieborski, and this for a purchase price deliberately agreed and fixed between the contracting parties of 16000 rt, in words sixteen thousand Reichsthaler Prussian Courant. 2: this purchase price the purchasers bind themselves to pay in solidum, that is to say, one for both and both for one, to His Most Serene Highness in the following instalments, namely at St John the Baptist of this year 4000 Rt, say four thousand Reichsthaler; at Christmas of this year 6000 rtl., say six thousand Reichsthaler; and at Midsummer 1804 the remainder with 6000 rt., say six thousand Reichsthaler; and until the arrears are fully paid, to pay interest on the same at 5 per cent.\n\n3. His Most Serene Highness affords the purchasers warranty of title only for those parcels of land actually held in possession and to be handed over to them at the\n\ndelivery of possession. In respect of those 1016 składy of arable which may be evicted at the suit of the burgesses of Warta, and which are not in the possession of His Most Serene Highness, no warranty of title is afforded; rather it remains the purchasers' affair alone to vindicate the said fields at their own entire risk and cost, against which, however, His Most Serene Highness relinquishes all claims as against the purchasers, should they in fact recover these składy of arable against the burgesses of Warta, whether in whole or in part.\n\n4. The handing over of this sold estate to the purchasers shall take place 14 days after Midsummer of this year, at which time, concurrently and against each other, the first instalment of the 4000 rtll. must be paid, since until this is done the handing over cannot take place.\n\n5. At this handing over there shall be handed over as well such ground [text as transcribed: \"Grund zuverloren\"] and livestock and implements as are found upon the estate\n\nand is specified in the judicial deed of transfer on the part of the tenant Knoblauch to von Bloch of Blotniz of 10 and 11 July of last year, excluding the surplus inventory in horses and oxen taken away at that time by Knoblauch pursuant to the deed of 11 July, which for that very reason are no longer to be found upon the estate and for that very reason cannot be handed over with it.\n\n6. The seller promises to procure the consent to the purchasers' acquisition of this estate if possible at the latest by St John's of this year; should the same however not be forthcoming, then the present purchase falls away.\n\n7. Should the final resolution regarding the said consent be delayed longer than 14 days after St John's of this year, in such wise that the handing over has already taken place and the first instalment of the purchase price has already been paid, but the resolution in the matter should then turn out\n\nnegative, then the contracting parties, to avoid all disputes concerning the revenues drawn, have agreed that the purchasers shall retain possession of this estate for one year, namely until 14 days after St John's Day 1804, by way of lease, but shall for that year pay to the seller a rent of 800 rtl., say eight hundred Reichsthaler, and shall likewise discharge all public dues concerning this estate, by whatever name they may be called, upon the assessment ex Propriet, without being permitted to bring anything thereof into account against the seller; and the purchasers, in this last event, renounce any and all remissions and other demands whatsoever, by whatever name they may be called, but bind themselves, subject to the most summary execution, to vacate the estate of Witów 14 days after St John's 1804 in good husbandry condition, and submit themselves in this\n\nregard to the process of execution with all its legal consequences; it being however of course understood that in such event, upon their vacating the estate, the 4000 rtl. paid must be repaid to them by the seller, after deduction of the stipulated lease rent of 800 rt and of such public dues and costs as they could not show to have been paid at their departure.\n\n8. The estate shall be handed over to the purchasers with the winter and summer sowing fully carried out, and the purchasers hereby declare that they accept the winter sowing as duly sown, and expect only the like in respect of the summer sowing.\n\n9. The documents concerning this estate shall be delivered over to the purchasers immediately upon the arrival of the consent to their acquisition [uncertain: Frühige].\n\n10.\n\n10. Finally, the contracting parties renounce all objections and evasions running counter to these points of purchase, by whatever name they may be called, and in particular the purchasers renounce the plea of injury in and beyond the half; and they set, for the case of non-performance or non-fulfilment of this contract, a vadium or conventional penalty of 1000 rtll, say one thousand Reichsthaler, which the contravening party shall be bound to pay to the other, and nonetheless to perform the contract.\n\n11. The costs of this contract both parties assume by halves; those of the rectification of the titulus possessionis in the purchasers' names, the latter alone.\n\nBoth parties have, this instrument of purchase points having been read by them themselves — which was explained to the co-purchaser v. Kwasiborski by his socius Honrichs in the Polish tongue — after prior\n\napproval, executed the same with their own signatures manual.\n\nKalisz, 21 April 1803. At the signing, both parties observed to me that, in respect of the buildings standing upon the village mayor's holding, which the tenants there claim to have built themselves, no warranty of title is afforded to the purchasers by the seller; but that, in case the tenants' statement should prove correct, the purchasers must come to a separate settlement with them on that account.\n\nDone as above. Christian Friedrich Rochlitz. Martin Honrichs.\n\nWalęty v. Kwasiborski\n\nCarl Anton Grimm\n\nStanisław Szymanowski\n\nas witness. The 6000 rl., six thousand Reichsthaler of purchase money payable to me at the Christmas term of this year according to the foregoing points of purchase, and likewise, out of the 6000 rt payable at the Midsummer term of 1804, a sum of two thousand Reichsthaler, with priority before the residue, also with all rights\n\nand without novation, and with the right of pledge to be stipulated in the instrument of purchase hereafter to be drawn up and to be intabulated upon registration of the title of possession, and with interest at 5 per cent from Midsummer of this year, I hereby cede to the banker here, Carl Ferdinand Weigel. I acknowledge to have received the consideration for this cession from him in cash and duly.\n\nI likewise promise to procure for the banker Weigel the debtors' assent to this cession as soon as possible. Breslau, 26 April 1803. Friedrich Ludwig, Prince of Hohenlohe. Read and approved by myself. The foregoing cession, receipt for the consideration, and the promise to procure the debtors' assent, I accept in the name and as partner of my father Carl Ferdinand Weigel. Breslau, 26 April 1803. I have read and approved this. Carl Gottlieb Weigel, in the name and as partner of his father Carl Ferdinand Weigel. That the foregoing cession and receipt for the\n\nconsideration, on the part of His Most Serene Highness Friedrich Ludewig, reigning Prince of Hohenlohe-Ingelfingen, and the acceptance declared by the merchant Carl Gottlieb Weigel in the name and as partner of his father Carl Ferdinand Weigel, were executed under today's date before the Justice Office of the Princely Ladies' Foundation of St Vincent, to which office the same are well known in person, after the reading through had taken place and approval had been declared, by their own signatures manual and appended seals, both upon this original points of contract and upon the certified copy of the same issued to the cessionary — is hereby attested on the ground of the [illegible] protocol taken up thereon. Breslau, 26 April 1803. The Justice Office of the Princely Ladies' Foundation of St Vincent\n\n[L. S.]\n\nBüchler",
  "summary_en": "Heads of purchase for the noble estate of Witów in the Warta district of the Kalisz department, sold by forest inspector Christian Friedrich Rochlitz for the Prince of Hohenlohe-Ingelfingen to Martin Honrichs and Walęty von Kwasiborski for 16,000 Rthl in three instalments at 5 per cent, with no warranty for 1016 składy claimed by the burgesses of Warta, a fallback one-year lease at 800 Rthl, and a 1000 Rthl penalty; appended is the Prince's cession of 8,000 Rthl to the Breslau banker Carl Ferdinand Weigel, attested by the St Vincent foundation justice office.",
  "summary_de": "Kaufpunktation über das adelige Gut Witów (Departement Kalisch, Kreis Warta): Forstinspektor Christian Friedrich Rochlitz verkauft namens des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen Dorf und Schulzerei an Martin Honrichs und Walęty von Kwasiborski für 16000 Rthl in Raten (4000, 6000, 6000), 5 Prozent Zinsen, ohne Währschaft für die von den Bürgern zu Warta beanspruchten 1016 Składy Acker, mit Ersatz-Pachtabrede zu 800 Rthl, Vadium 1000 Rthl. Angefügt Zession von 8000 Rthl an den Banquier Carl Ferdinand Weigel, beglaubigt vom Justizamt St. Vincenz."
 }
