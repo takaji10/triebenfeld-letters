@@ -9,9 +9,16 @@ alt_url: /de/ueber-diese-edition/
 
 ## The source
 
-The documents are held in the **Hohenloher Zentralarchiv Neuenstein (HZAN)**. The text
-presented here was transcribed from the original handwriting, which is *Kurrentschrift*,
-the German cursive hand of the period, difficult to read and easy to misread.
+The documents published so far are held in the **Hohenloher Zentralarchiv Neuenstein
+(HZAN)**, in two files: `Oe 1 Bü 9454`, eighteen years of correspondence, and
+`Oe 1 Bü 14526`, a volume of title deeds. Later eras of the archive will draw on
+repositories in Poznań, Warsaw and Berlin; the holding a document comes from is part of its
+citation and part of its address here.
+
+The text was transcribed from the original handwriting, which is *Kurrentschrift*, the
+German cursive hand of the period, difficult to read and easy to misread. Some of the
+deeds carry passages in Polish and Latin, and those are source text too — translated, not
+treated as corrupt German.
 
 **The transcription was produced by an AI system, not by a human palaeographer.** This
 matters, and the edition does not hide it. Machine transcription of Kurrentschrift makes a
@@ -27,7 +34,8 @@ shown as its own block, labelled with the range of lines it occupies in the arch
 Nothing flows across a page break. You still read a letter as a whole; the pages are
 structure within it, and they are what the scanned images sit beside.
 
-There are **869 manuscript pages** across the 318 documents.
+There are **1,156 manuscript pages** across the 348 documents: 869 pages in the
+correspondence, 287 in the volume of deeds.
 
 ## Four views of every document
 
@@ -50,10 +58,11 @@ faithfully would preserve nothing of the manuscript and mislead the reader.
 
 Three kinds of change have been made, each on evidence rather than impression:
 
-- **Line-break marks.** Of 1,317 marks at line ends, only 826 turned out to join a real
-  word. 483 were spurious, 5 were catchwords, and 3 had nothing to continue into. Each was
-  decided against this corpus and against historical German usage, and every decision is
-  recorded with its evidence.
+- **Line-break marks.** In the correspondence, of 1,317 marks at line ends, only 826
+  turned out to join a real word. 483 were spurious, 5 were catchwords, and 3 had nothing
+  to continue into. Each was decided against this corpus and against historical German
+  usage, and every decision is recorded with its evidence. The deeds were checked the same
+  way; the figures below are the correspondence's, which is where the marks were densest.
 - **Recurring names.** People and places transcribed several ways were standardised to one
   spelling, root only, so German and Polish grammatical endings survive. Where a variant
   turned out to be a *different* person, it was deliberately left alone.
@@ -63,18 +72,18 @@ Three kinds of change have been made, each on evidence rather than impression:
 Period spelling is not corrected. Forms like *laßen*, *seyn*, *nöthig*, *Ewr* and *dero*
 are how the writers wrote, and they stand. So do the transcriber's own marks of doubt.
 
-The unedited text still exists. The archival file
-(`von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt`) holds the transcription exactly as
-produced, and every editorial layer is checked against it: a change that no recorded
-decision accounts for fails the build.
+The unedited text still exists. Each holding keeps its transcription exactly as produced,
+in `units/<holding>/corpus.txt`, and every editorial layer is checked against it: a change
+that no recorded decision accounts for fails the build.
 
 **English** carries the translation, added page by page. Where none exists yet, the view
 says so rather than showing nothing.
 
 **Manuscript** shows the page itself. Every image was matched to its page by eye, one at a
-time; click it to open full size. Of the 872 images photographed, 865 sit beside a
-transcribed page. The remaining seven are the series title page, five sheets that are not
-manuscript pages, and one page of calculation figures deliberately left untranscribed.
+time; click it to open full size. In the correspondence, of the 872 images photographed,
+865 sit beside a transcribed page: the remaining seven are the series title page, five
+sheets that are not manuscript pages, and one page of calculation figures deliberately left
+untranscribed.
 
 The images published here are downscaled to 1100 pixels wide, which is enough to read the
 hand. The full-resolution originals, about 1 GB, are held offline as the archival masters.
@@ -83,7 +92,7 @@ hand. The full-resolution originals, about 1 GB, are held offline as the archiva
 
 The transcription marks a broken word with `¬`, but that mark cannot be taken at face
 value, because the transcriber inserted it wrongly a great deal of the time. Of the 1,317
-line-end marks in the corpus, **483 (37%) do not join anything**:
+line-end marks in the correspondence, **483 (37%) do not join anything**:
 
 | | |
 |---|---|
@@ -144,12 +153,13 @@ of four ways, and every document says which applies to it:
   reasoning recorded on the document
 - **taken from its duplicate**, where one document survives in two copies
 
-Six documents remain undated and are collected at the end of chronological order.
+Eight documents remain undated and are collected at the end of chronological order.
 
-Note that the archive's numbering is not chronological. Letters 1 to 74 are a jumbled block
-spanning 1806 to 1815; 75 to 301 run in order from 1798. Numbers 302 and 303 sit outside
-that sequence. Both orders are navigable, and the archival number is the stable citation
-key.
+Note that an archive's numbering is not necessarily chronological. In the correspondence,
+letters 1 to 74 are a jumbled block spanning 1806 to 1815; 75 to 301 run in order from
+1798, and numbers 302 and 303 sit outside that sequence. Both orders are navigable, and the
+archival number is the stable citation key — unique within its holding, which is why the
+holding is part of every document's address.
 
 ## Money
 
@@ -166,18 +176,21 @@ Several archival numbers turned out to hold more than one document. These were s
 sub-records, letter 72 into 72a to 72f, letter 74 into 74a to 74e, and so on, each keeping
 a link back to its parent. Nothing was removed in the process.
 
-Three documents survive in two copies: letters **48 and 302** are the same letter of
-7 March 1809 transcribed twice, as are 72d/72e (German and Polish) and 118b/118c. The
-duplicate pairs are unusually valuable, because comparing two independent transcriptions of
-one page reveals exactly where transcription goes wrong, and both copies are presented
-unaltered.
+Some documents survive in two copies. In the correspondence, letters **48 and 302** are the
+same letter of 7 March 1809 transcribed twice, as are 72d/72e (German and Polish) and
+118b/118c. In the deeds, the Betsche hereditary-lease contract is here as **18 and 19**,
+copied into the volume twice over — one of them without the royal consent and the archival
+attestation that follow the other. The duplicate pairs are unusually valuable, because
+comparing two independent transcriptions of one page reveals exactly where transcription
+goes wrong, and both copies are presented unaltered.
 
 ## What is still unresolved
 
 - One financial figure differs between the two copies of the 7 March 1809 letter (23,000
   against 32,000 Rthl). Both transcriptions are faithful to their own page, so the
   discrepancy belongs to the original copyist, not to this edition.
-- 150 uncertain readings and five damaged passages await checking against the originals.
+- Uncertain readings and damaged passages await checking against the originals; the count
+  for each document is shown on its own page.
 - Some identifications rest on context alone. The people pages state the evidence for each.
 
 ## English translations
