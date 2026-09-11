@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 49
+   "doc_line_start": 23,
+   "doc_line_end": 48
   },
   {
    "page": 3,
@@ -91,8 +91,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 51,
-   "doc_line_end": 66
+   "doc_line_start": 49,
+   "doc_line_end": 64
   }
  ],
  "mentions": [
@@ -103,7 +103,8 @@
    "surface": "Prusimska",
    "page": 1,
    "page_id": "",
-   "line": 19163
+   "line": 19163,
+   "doc_line": 11
   },
   {
    "entity": "humboldt",
@@ -112,7 +113,8 @@
    "surface": "Humboldt",
    "page": 2,
    "page_id": "",
-   "line": 19177
+   "line": 19177,
+   "doc_line": 24
   },
   {
    "entity": "staegemann",
@@ -121,7 +123,8 @@
    "surface": "Stägemann",
    "page": 2,
    "page_id": "",
-   "line": 19180
+   "line": 19180,
+   "doc_line": 27
   },
   {
    "entity": "cosmar",
@@ -130,7 +133,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19184
+   "line": 19184,
+   "doc_line": 31
   },
   {
    "entity": "cosmar",
@@ -139,7 +143,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19186
+   "line": 19186,
+   "doc_line": 33
   },
   {
    "entity": "august",
@@ -148,7 +153,8 @@
    "surface": "August",
    "page": 3,
    "page_id": "",
-   "line": 19203
+   "line": 19203,
+   "doc_line": 49
   },
   {
    "entity": "triebenfeld",
@@ -157,7 +163,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 19218
+   "line": 19218,
+   "doc_line": 64
   }
  ],
  "mentions_english": [],

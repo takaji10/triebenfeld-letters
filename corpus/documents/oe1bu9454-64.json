@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 33,
-   "doc_line_end": 73
+   "doc_line_start": 32,
+   "doc_line_end": 72
   },
   {
    "page": 3,
@@ -99,8 +99,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 75,
-   "doc_line_end": 127
+   "doc_line_start": 73,
+   "doc_line_end": 125
   },
   {
    "page": 4,
@@ -119,8 +119,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 129,
-   "doc_line_end": 154
+   "doc_line_start": 126,
+   "doc_line_end": 151
   },
   {
    "page": 5,
@@ -137,8 +137,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 156,
-   "doc_line_end": 165
+   "doc_line_start": 152,
+   "doc_line_end": 161
   },
   {
    "page": 6,
@@ -156,8 +156,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 167,
-   "doc_line_end": 185
+   "doc_line_start": 162,
+   "doc_line_end": 180
   }
  ],
  "mentions": [
@@ -168,7 +168,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 4816
+   "line": 4816,
+   "doc_line": 9
   },
   {
    "entity": "triebenfeld",
@@ -177,7 +178,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 4838
+   "line": 4838,
+   "doc_line": 31
   },
   {
    "entity": "knobelsdorff",
@@ -186,7 +188,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 4843
+   "line": 4843,
+   "doc_line": 35
   },
   {
    "entity": "stoessel",
@@ -195,7 +198,8 @@
    "surface": "Stössel",
    "page": 2,
    "page_id": "",
-   "line": 4847
+   "line": 4847,
+   "doc_line": 39
   },
   {
    "entity": "stoessel",
@@ -204,7 +208,8 @@
    "surface": "Stössel",
    "page": 2,
    "page_id": "",
-   "line": 4865
+   "line": 4865,
+   "doc_line": 57
   },
   {
    "entity": "weigel",
@@ -213,7 +218,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 4867
+   "line": 4867,
+   "doc_line": 59
   },
   {
    "entity": "triebenfeld",
@@ -222,7 +228,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 4879
+   "line": 4879,
+   "doc_line": 71
   },
   {
    "entity": "knobelsdorff",
@@ -231,7 +238,8 @@
    "surface": "Knobelsdorff",
    "page": 3,
    "page_id": "",
-   "line": 4887
+   "line": 4887,
+   "doc_line": 78
   },
   {
    "entity": "knobelsdorff",
@@ -240,7 +248,8 @@
    "surface": "Knobelsdorff",
    "page": 3,
    "page_id": "",
-   "line": 4890
+   "line": 4890,
+   "doc_line": 81
   },
   {
    "entity": "weigel",
@@ -249,7 +258,8 @@
    "surface": "Weigel",
    "page": 3,
    "page_id": "",
-   "line": 4894
+   "line": 4894,
+   "doc_line": 85
   },
   {
    "entity": "knobelsdorff",
@@ -258,7 +268,8 @@
    "surface": "Knobelsdorff",
    "page": 3,
    "page_id": "",
-   "line": 4899
+   "line": 4899,
+   "doc_line": 90
   },
   {
    "entity": "weigel",
@@ -267,7 +278,8 @@
    "surface": "Weigel",
    "page": 3,
    "page_id": "",
-   "line": 4923
+   "line": 4923,
+   "doc_line": 114
   },
   {
    "entity": "stoessel",
@@ -276,7 +288,8 @@
    "surface": "Stössel",
    "page": 3,
    "page_id": "",
-   "line": 4924
+   "line": 4924,
+   "doc_line": 115
   },
   {
    "entity": "stoessel",
@@ -285,7 +298,8 @@
    "surface": "Stössel",
    "page": 3,
    "page_id": "",
-   "line": 4931
+   "line": 4931,
+   "doc_line": 122
   },
   {
    "entity": "weigel",
@@ -294,7 +308,8 @@
    "surface": "Weigel",
    "page": 3,
    "page_id": "",
-   "line": 4931
+   "line": 4931,
+   "doc_line": 122
   },
   {
    "entity": "triebenfeld",
@@ -303,7 +318,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 4934
+   "line": 4934,
+   "doc_line": 125
   },
   {
    "entity": "hardenberg",
@@ -312,7 +328,8 @@
    "surface": "Hardenberg",
    "page": 5,
    "page_id": "",
-   "line": 4967
+   "line": 4967,
+   "doc_line": 156
   },
   {
    "entity": "gneust",
@@ -321,7 +338,8 @@
    "surface": "Wohlgeb",
    "page": 5,
    "page_id": "",
-   "line": 4970
+   "line": 4970,
+   "doc_line": 159
   }
  ],
  "mentions_english": [],

@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 46,
-   "doc_line_end": 83
+   "doc_line_start": 45,
+   "doc_line_end": 82
   },
   {
    "page": 3,
@@ -116,8 +116,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 85,
-   "doc_line_end": 99
+   "doc_line_start": 83,
+   "doc_line_end": 97
   }
  ],
  "mentions": [
@@ -128,7 +128,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 2159
+   "line": 2159,
+   "doc_line": 15
   },
   {
    "entity": "emilie",
@@ -137,7 +138,8 @@
    "surface": "Emilien",
    "page": 1,
    "page_id": "",
-   "line": 2159
+   "line": 2159,
+   "doc_line": 15
   },
   {
    "entity": "oppenheimer",
@@ -146,7 +148,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 2176
+   "line": 2176,
+   "doc_line": 32
   },
   {
    "entity": "lichnowski",
@@ -155,7 +158,8 @@
    "surface": "Lichnowsky",
    "page": 1,
    "page_id": "",
-   "line": 2177
+   "line": 2177,
+   "doc_line": 33
   },
   {
    "entity": "oppenheimer",
@@ -164,7 +168,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 2177
+   "line": 2177,
+   "doc_line": 33
   },
   {
    "entity": "bernhard",
@@ -173,7 +178,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 2178
+   "line": 2178,
+   "doc_line": 34
   },
   {
    "entity": "meyer",
@@ -182,7 +188,8 @@
    "surface": "Meyer",
    "page": 1,
    "page_id": "",
-   "line": 2178
+   "line": 2178,
+   "doc_line": 34
   },
   {
    "entity": "glenck",
@@ -191,7 +198,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 2179
+   "line": 2179,
+   "doc_line": 35
   },
   {
    "entity": "oppenheimer",
@@ -200,7 +208,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 2180
+   "line": 2180,
+   "doc_line": 36
   },
   {
    "entity": "bernhardi",
@@ -209,7 +218,8 @@
    "surface": "Bernhardi",
    "page": 1,
    "page_id": "",
-   "line": 2183
+   "line": 2183,
+   "doc_line": 39
   },
   {
    "entity": "oppenheimer",
@@ -218,7 +228,8 @@
    "surface": "Oppenheimer",
    "page": 2,
    "page_id": "",
-   "line": 2190
+   "line": 2190,
+   "doc_line": 45
   },
   {
    "entity": "rhode",
@@ -227,7 +238,8 @@
    "surface": "Rhode",
    "page": 2,
    "page_id": "",
-   "line": 2219
+   "line": 2219,
+   "doc_line": 74
   },
   {
    "entity": "triebenfeld",
@@ -236,7 +248,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 2243
+   "line": 2243,
+   "doc_line": 97
   }
  ],
  "mentions_english": [],

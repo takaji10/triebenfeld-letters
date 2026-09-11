@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 47
+   "doc_line_start": 24,
+   "doc_line_end": 46
   }
  ],
  "mentions": [
@@ -80,7 +80,8 @@
    "surface": "Uminski",
    "page": 1,
    "page_id": "",
-   "line": 8974
+   "line": 8974,
+   "doc_line": 1
   },
   {
    "entity": "uminski",
@@ -89,7 +90,8 @@
    "surface": "Uminski",
    "page": 1,
    "page_id": "",
-   "line": 8977
+   "line": 8977,
+   "doc_line": 4
   },
   {
    "entity": "uminski",
@@ -98,7 +100,8 @@
    "surface": "Uminski",
    "page": 1,
    "page_id": "",
-   "line": 8978
+   "line": 8978,
+   "doc_line": 5
   },
   {
    "entity": "broniewski",
@@ -107,7 +110,8 @@
    "surface": "Bronisz",
    "page": 1,
    "page_id": "",
-   "line": 8979
+   "line": 8979,
+   "doc_line": 6
   },
   {
    "entity": "uminski",
@@ -116,7 +120,8 @@
    "surface": "Uminski",
    "page": 1,
    "page_id": "",
-   "line": 8981
+   "line": 8981,
+   "doc_line": 8
   },
   {
    "entity": "glenck",
@@ -125,7 +130,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 8986
+   "line": 8986,
+   "doc_line": 13
   },
   {
    "entity": "rapacki",
@@ -134,7 +140,8 @@
    "surface": "Rapacki",
    "page": 2,
    "page_id": "",
-   "line": 9007
+   "line": 9007,
+   "doc_line": 33
   },
   {
    "entity": "triebenfeld",
@@ -143,7 +150,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 9020
+   "line": 9020,
+   "doc_line": 46
   }
  ],
  "mentions_english": [],

@@ -68,7 +68,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 6205
+   "line": 6205,
+   "doc_line": 2
   },
   {
    "entity": "triebenfeld",
@@ -77,7 +78,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6205
+   "line": 6205,
+   "doc_line": 2
   },
   {
    "entity": "sacken",
@@ -86,7 +88,8 @@
    "surface": "Sacken",
    "page": 1,
    "page_id": "",
-   "line": 6206
+   "line": 6206,
+   "doc_line": 3
   },
   {
    "entity": "august",
@@ -95,7 +98,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 6211
+   "line": 6211,
+   "doc_line": 8
   },
   {
    "entity": "triebenfeld",
@@ -104,7 +108,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6213
+   "line": 6213,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -113,7 +118,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6219
+   "line": 6219,
+   "doc_line": 16
   },
   {
    "entity": "triebenfeld",
@@ -122,7 +128,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6223
+   "line": 6223,
+   "doc_line": 20
   },
   {
    "entity": "august",
@@ -131,7 +138,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 6228
+   "line": 6228,
+   "doc_line": 25
   },
   {
    "entity": "triebenfeld",
@@ -140,7 +148,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6232
+   "line": 6232,
+   "doc_line": 29
   }
  ],
  "mentions_english": [],

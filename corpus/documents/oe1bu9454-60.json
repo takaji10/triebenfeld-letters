@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 54
+   "doc_line_start": 25,
+   "doc_line_end": 53
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 83
+   "doc_line_start": 54,
+   "doc_line_end": 81
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 85,
-   "doc_line_end": 101
+   "doc_line_start": 82,
+   "doc_line_end": 98
   }
  ],
  "mentions": [
@@ -124,7 +124,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4540
+   "line": 4540,
+   "doc_line": 6
   },
   {
    "entity": "honrichs",
@@ -133,7 +134,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 4578
+   "line": 4578,
+   "doc_line": 43
   },
   {
    "entity": "honrichs",
@@ -142,7 +144,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 4579
+   "line": 4579,
+   "doc_line": 44
   },
   {
    "entity": "graevenitz",
@@ -151,7 +154,8 @@
    "surface": "Grävenitz",
    "page": 3,
    "page_id": "",
-   "line": 4590
+   "line": 4590,
+   "doc_line": 54
   },
   {
    "entity": "lahr",
@@ -160,7 +164,8 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
-   "line": 4590
+   "line": 4590,
+   "doc_line": 54
   },
   {
    "entity": "lombardini",
@@ -169,7 +174,8 @@
    "surface": "Lombardin",
    "page": 3,
    "page_id": "",
-   "line": 4615
+   "line": 4615,
+   "doc_line": 79
   },
   {
    "entity": "triebenfeld",
@@ -178,7 +184,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 4632
+   "line": 4632,
+   "doc_line": 95
   },
   {
    "entity": "august",
@@ -187,7 +194,8 @@
    "surface": "August",
    "page": 4,
    "page_id": "",
-   "line": 4634
+   "line": 4634,
+   "doc_line": 97
   }
  ],
  "mentions_english": [],

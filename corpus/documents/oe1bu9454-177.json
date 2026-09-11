@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 47
+   "doc_line_start": 23,
+   "doc_line_end": 46
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 49,
-   "doc_line_end": 63
+   "doc_line_start": 47,
+   "doc_line_end": 61
   },
   {
    "page": 4,
@@ -132,8 +132,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 65,
-   "doc_line_end": 105
+   "doc_line_start": 62,
+   "doc_line_end": 102
   },
   {
    "page": 5,
@@ -154,8 +154,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 107,
-   "doc_line_end": 129
+   "doc_line_start": 103,
+   "doc_line_end": 125
   },
   {
    "page": 6,
@@ -172,8 +172,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 131,
-   "doc_line_end": 137
+   "doc_line_start": 126,
+   "doc_line_end": 132
   },
   {
    "page": 7,
@@ -193,8 +193,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 139,
-   "doc_line_end": 165
+   "doc_line_start": 133,
+   "doc_line_end": 159
   }
  ],
  "mentions": [
@@ -205,7 +205,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 12422
+   "line": 12422,
+   "doc_line": 5
   },
   {
    "entity": "voss",
@@ -214,7 +215,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 12425
+   "line": 12425,
+   "doc_line": 8
   },
   {
    "entity": "amelang",
@@ -223,7 +225,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 12432
+   "line": 12432,
+   "doc_line": 15
   },
   {
    "entity": "voss",
@@ -232,7 +235,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 12436
+   "line": 12436,
+   "doc_line": 19
   },
   {
    "entity": "amelang",
@@ -241,7 +245,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 12439
+   "line": 12439,
+   "doc_line": 22
   },
   {
    "entity": "koeckritz",
@@ -250,7 +255,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 12461
+   "line": 12461,
+   "doc_line": 43
   },
   {
    "entity": "august",
@@ -259,7 +265,8 @@
    "surface": "August",
    "page": 3,
    "page_id": "",
-   "line": 12475
+   "line": 12475,
+   "doc_line": 56
   },
   {
    "entity": "emilie",
@@ -268,7 +275,8 @@
    "surface": "Emilien",
    "page": 3,
    "page_id": "",
-   "line": 12476
+   "line": 12476,
+   "doc_line": 57
   },
   {
    "entity": "august",
@@ -277,7 +285,8 @@
    "surface": "August",
    "page": 4,
    "page_id": "",
-   "line": 12490
+   "line": 12490,
+   "doc_line": 70
   },
   {
    "entity": "emilie",
@@ -286,7 +295,8 @@
    "surface": "Emilien",
    "page": 4,
    "page_id": "",
-   "line": 12491
+   "line": 12491,
+   "doc_line": 71
   },
   {
    "entity": "marianton",
@@ -295,7 +305,8 @@
    "surface": "Marianton",
    "page": 4,
    "page_id": "",
-   "line": 12512
+   "line": 12512,
+   "doc_line": 92
   },
   {
    "entity": "radzinski",
@@ -304,7 +315,8 @@
    "surface": "Radzinski",
    "page": 5,
    "page_id": "",
-   "line": 12526
+   "line": 12526,
+   "doc_line": 105
   },
   {
    "entity": "voss",
@@ -313,7 +325,8 @@
    "surface": "Voss",
    "page": 5,
    "page_id": "",
-   "line": 12533
+   "line": 12533,
+   "doc_line": 112
   },
   {
    "entity": "prusimska",
@@ -322,7 +335,8 @@
    "surface": "Prusimska",
    "page": 5,
    "page_id": "",
-   "line": 12537
+   "line": 12537,
+   "doc_line": 116
   },
   {
    "entity": "weigel",
@@ -331,7 +345,8 @@
    "surface": "Weigel",
    "page": 5,
    "page_id": "",
-   "line": 12538
+   "line": 12538,
+   "doc_line": 117
   },
   {
    "entity": "schlabrendorff",
@@ -340,7 +355,8 @@
    "surface": "Schlabrendorff",
    "page": 5,
    "page_id": "",
-   "line": 12539
+   "line": 12539,
+   "doc_line": 118
   },
   {
    "entity": "triebenfeld",
@@ -349,7 +365,8 @@
    "surface": "Triebenfeld",
    "page": 6,
    "page_id": "",
-   "line": 12554
+   "line": 12554,
+   "doc_line": 132
   },
   {
    "entity": "hardenberg",
@@ -358,7 +375,8 @@
    "surface": "Hardenberg",
    "page": 7,
    "page_id": "",
-   "line": 12572
+   "line": 12572,
+   "doc_line": 149
   },
   {
    "entity": "triebenfeld",
@@ -367,7 +385,8 @@
    "surface": "Triebenfeld",
    "page": 7,
    "page_id": "",
-   "line": 12582
+   "line": 12582,
+   "doc_line": 159
   }
  ],
  "mentions_english": [],

@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 45
+   "doc_line_start": 20,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -95,8 +95,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 78
+   "doc_line_start": 45,
+   "doc_line_end": 76
   },
   {
    "page": 4,
@@ -115,8 +115,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 80,
-   "doc_line_end": 102
+   "doc_line_start": 77,
+   "doc_line_end": 99
   }
  ],
  "mentions": [
@@ -127,7 +127,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 5218
+   "line": 5218,
+   "doc_line": 16
   },
   {
    "entity": "honrichs",
@@ -136,7 +137,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 5219
+   "line": 5219,
+   "doc_line": 17
   },
   {
    "entity": "hawich",
@@ -145,7 +147,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 5221
+   "line": 5221,
+   "doc_line": 19
   },
   {
    "entity": "honrichs",
@@ -154,7 +157,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 5221
+   "line": 5221,
+   "doc_line": 19
   },
   {
    "entity": "honrichs",
@@ -163,7 +167,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5226
+   "line": 5226,
+   "doc_line": 23
   },
   {
    "entity": "honrichs",
@@ -172,7 +177,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5227
+   "line": 5227,
+   "doc_line": 24
   },
   {
    "entity": "honrichs",
@@ -181,7 +187,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5232
+   "line": 5232,
+   "doc_line": 29
   },
   {
    "entity": "hawich",
@@ -190,7 +197,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 5246
+   "line": 5246,
+   "doc_line": 43
   },
   {
    "entity": "hecker",
@@ -199,7 +207,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 5247
+   "line": 5247,
+   "doc_line": 44
   },
   {
    "entity": "honrichs",
@@ -208,7 +217,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5247
+   "line": 5247,
+   "doc_line": 44
   },
   {
    "entity": "koeckritz",
@@ -217,7 +227,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 5256
+   "line": 5256,
+   "doc_line": 52
   },
   {
    "entity": "koeckritz",
@@ -226,7 +237,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 5261
+   "line": 5261,
+   "doc_line": 57
   },
   {
    "entity": "kleist",
@@ -235,7 +247,8 @@
    "surface": "Kleist",
    "page": 3,
    "page_id": "",
-   "line": 5262
+   "line": 5262,
+   "doc_line": 58
   },
   {
    "entity": "meyer",
@@ -244,7 +257,8 @@
    "surface": "Meyer",
    "page": 3,
    "page_id": "",
-   "line": 5271
+   "line": 5271,
+   "doc_line": 67
   },
   {
    "entity": "triebenfeld",
@@ -253,7 +267,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 5280
+   "line": 5280,
+   "doc_line": 76
   },
   {
    "entity": "honrichs",
@@ -262,7 +277,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 5283
+   "line": 5283,
+   "doc_line": 78
   },
   {
    "entity": "hawich",
@@ -271,7 +287,8 @@
    "surface": "Hawich",
    "page": 4,
    "page_id": "",
-   "line": 5285
+   "line": 5285,
+   "doc_line": 80
   },
   {
    "entity": "hecker",
@@ -280,7 +297,8 @@
    "surface": "Hecker",
    "page": 4,
    "page_id": "",
-   "line": 5286
+   "line": 5286,
+   "doc_line": 81
   },
   {
    "entity": "hawich",
@@ -289,7 +307,8 @@
    "surface": "Hawich",
    "page": 4,
    "page_id": "",
-   "line": 5289
+   "line": 5289,
+   "doc_line": 84
   },
   {
    "entity": "hecker",
@@ -298,7 +317,8 @@
    "surface": "Hecker",
    "page": 4,
    "page_id": "",
-   "line": 5289
+   "line": 5289,
+   "doc_line": 84
   },
   {
    "entity": "honrichs",
@@ -307,7 +327,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 5291
+   "line": 5291,
+   "doc_line": 86
   },
   {
    "entity": "honrichs",
@@ -316,7 +337,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 5292
+   "line": 5292,
+   "doc_line": 87
   },
   {
    "entity": "honrichs",
@@ -325,7 +347,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 5294
+   "line": 5294,
+   "doc_line": 89
   },
   {
    "entity": "brzechsta",
@@ -334,7 +357,8 @@
    "surface": "Brzechsta",
    "page": 4,
    "page_id": "",
-   "line": 5298
+   "line": 5298,
+   "doc_line": 93
   },
   {
    "entity": "garczynski",
@@ -343,7 +367,8 @@
    "surface": "Garczynski",
    "page": 4,
    "page_id": "",
-   "line": 5298
+   "line": 5298,
+   "doc_line": 93
   },
   {
    "entity": "hecker",
@@ -352,7 +377,8 @@
    "surface": "Hecker",
    "page": 4,
    "page_id": "",
-   "line": 5298
+   "line": 5298,
+   "doc_line": 93
   },
   {
    "entity": "hawich",
@@ -361,7 +387,8 @@
    "surface": "Hawich",
    "page": 4,
    "page_id": "",
-   "line": 5299
+   "line": 5299,
+   "doc_line": 94
   },
   {
    "entity": "hecker",
@@ -370,7 +397,8 @@
    "surface": "Hecker",
    "page": 4,
    "page_id": "",
-   "line": 5300
+   "line": 5300,
+   "doc_line": 95
   }
  ],
  "mentions_english": [],

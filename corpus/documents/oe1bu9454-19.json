@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 42
+   "doc_line_start": 22,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -85,8 +85,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 62
+   "doc_line_start": 42,
+   "doc_line_end": 60
   },
   {
    "page": 4,
@@ -103,8 +103,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 64,
-   "doc_line_end": 85
+   "doc_line_start": 61,
+   "doc_line_end": 82
   }
  ],
  "mentions": [
@@ -115,7 +115,8 @@
    "surface": "Sobottendorff",
    "page": 1,
    "page_id": "",
-   "line": 1065
+   "line": 1065,
+   "doc_line": 3
   },
   {
    "entity": "tschachmann",
@@ -124,7 +125,8 @@
    "surface": "Tschachmann",
    "page": 1,
    "page_id": "",
-   "line": 1076
+   "line": 1076,
+   "doc_line": 14
   },
   {
    "entity": "sobottendorff",
@@ -133,7 +135,8 @@
    "surface": "Sobottendorff",
    "page": 1,
    "page_id": "",
-   "line": 1081
+   "line": 1081,
+   "doc_line": 19
   },
   {
    "entity": "sobottendorff",
@@ -142,7 +145,8 @@
    "surface": "Sobottendorff",
    "page": 2,
    "page_id": "",
-   "line": 1087
+   "line": 1087,
+   "doc_line": 24
   },
   {
    "entity": "sommer",
@@ -151,7 +155,8 @@
    "surface": "Sommer",
    "page": 4,
    "page_id": "",
-   "line": 1141
+   "line": 1141,
+   "doc_line": 76
   }
  ],
  "mentions_english": [],

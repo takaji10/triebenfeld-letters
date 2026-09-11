@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 57
+   "doc_line_start": 26,
+   "doc_line_end": 56
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 70
+   "doc_line_start": 57,
+   "doc_line_end": 68
   }
  ],
  "mentions": [
@@ -104,7 +104,8 @@
    "surface": "Napoleon",
    "page": 1,
    "page_id": "",
-   "line": 273
+   "line": 273,
+   "doc_line": 3
   },
   {
    "entity": "napoleon",
@@ -113,7 +114,8 @@
    "surface": "Napoleon",
    "page": 1,
    "page_id": "",
-   "line": 281
+   "line": 281,
+   "doc_line": 11
   },
   {
    "entity": "barbe",
@@ -122,7 +124,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 286
+   "line": 286,
+   "doc_line": 16
   },
   {
    "entity": "barbe",
@@ -131,7 +134,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 302
+   "line": 302,
+   "doc_line": 31
   },
   {
    "entity": "eberhard",
@@ -140,7 +144,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 306
+   "line": 306,
+   "doc_line": 35
   },
   {
    "entity": "eberhard",
@@ -149,7 +154,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 308
+   "line": 308,
+   "doc_line": 37
   },
   {
    "entity": "eberhardt",
@@ -158,7 +164,8 @@
    "surface": "Eberhardt",
    "page": 2,
    "page_id": "",
-   "line": 308
+   "line": 308,
+   "doc_line": 37
   },
   {
    "entity": "eberhard",
@@ -167,7 +174,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 312
+   "line": 312,
+   "doc_line": 41
   },
   {
    "entity": "eberhard",
@@ -176,7 +184,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 326
+   "line": 326,
+   "doc_line": 55
   },
   {
    "entity": "triebenfeld",
@@ -185,7 +194,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 327
+   "line": 327,
+   "doc_line": 56
   },
   {
    "entity": "napoleon",
@@ -194,7 +204,8 @@
    "surface": "Napoleon",
    "page": 3,
    "page_id": "",
-   "line": 330
+   "line": 330,
+   "doc_line": 58
   }
  ],
  "mentions_english": [],

@@ -187,9 +187,15 @@ def main():
                     'page_id': '', 'line': 0, 'language': 'en',
                 })
         for m in ms:
+            # Both numbers. `line` is the unit-absolute one every tool and every
+            # transcription decision is keyed to; `doc_line` is what the site
+            # shows, numbered from 1 in each document. The published page
+            # carries only the second, so this index is where a citation in one
+            # scheme is turned into the other.
             people_idx[m['entity']].append({
                 'uid': uid, 'surface': m['surface'], 'page': m['page'],
                 'page_id': m['page_id'], 'line': m['line'],
+                'doc_line': m.get('doc_line'),
             })
         place_idx[place].append(uid)
         if r.get('date_iso'):
@@ -208,6 +214,7 @@ def main():
                     unc_idx.append({
                         'uid': uid, 'marker': mk, 'page': p['page'],
                         'page_id': p.get('page_id', ''), 'line': p['line_start'] + i,
+                        'doc_line': p['doc_line_start'] + i,
                         'context': line.strip()[:120],
                     })
 

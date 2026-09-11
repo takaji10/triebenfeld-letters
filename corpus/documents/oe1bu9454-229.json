@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 46
+   "doc_line_start": 23,
+   "doc_line_end": 45
   }
  ],
  "mentions": [
@@ -87,7 +87,8 @@
    "surface": "Lipski",
    "page": 1,
    "page_id": "",
-   "line": 16703
+   "line": 16703,
+   "doc_line": 15
   },
   {
    "entity": "brzechsta",
@@ -96,7 +97,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 16707
+   "line": 16707,
+   "doc_line": 19
   },
   {
    "entity": "brzechsta",
@@ -105,7 +107,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 16713
+   "line": 16713,
+   "doc_line": 24
   },
   {
    "entity": "brzechsta",
@@ -114,7 +117,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 16724
+   "line": 16724,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -123,7 +127,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 16734
+   "line": 16734,
+   "doc_line": 45
   }
  ],
  "mentions_english": [],

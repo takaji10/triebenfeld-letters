@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 53
+   "doc_line_start": 26,
+   "doc_line_end": 52
   },
   {
    "page": 3,
@@ -87,8 +87,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 55,
-   "doc_line_end": 81
+   "doc_line_start": 53,
+   "doc_line_end": 79
   },
   {
    "page": 4,
@@ -113,8 +113,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 83,
-   "doc_line_end": 115
+   "doc_line_start": 80,
+   "doc_line_end": 112
   }
  ],
  "mentions": [
@@ -125,7 +125,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4222
+   "line": 4222,
+   "doc_line": 12
   },
   {
    "entity": "michaelis",
@@ -134,7 +135,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 4224
+   "line": 4224,
+   "doc_line": 14
   },
   {
    "entity": "lahr",
@@ -143,7 +145,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4225
+   "line": 4225,
+   "doc_line": 15
   },
   {
    "entity": "scharnhorst",
@@ -152,7 +155,8 @@
    "surface": "Scharnhorst",
    "page": 2,
    "page_id": "",
-   "line": 4248
+   "line": 4248,
+   "doc_line": 37
   },
   {
    "entity": "massenbach",
@@ -161,7 +165,8 @@
    "surface": "Massenbach",
    "page": 2,
    "page_id": "",
-   "line": 4249
+   "line": 4249,
+   "doc_line": 38
   },
   {
    "entity": "pirch",
@@ -170,7 +175,8 @@
    "surface": "Pirch",
    "page": 2,
    "page_id": "",
-   "line": 4252
+   "line": 4252,
+   "doc_line": 41
   },
   {
    "entity": "scharnhorst",
@@ -179,7 +185,8 @@
    "surface": "Scharnhorst",
    "page": 2,
    "page_id": "",
-   "line": 4255
+   "line": 4255,
+   "doc_line": 44
   },
   {
    "entity": "koeckritz",
@@ -188,7 +195,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 4260
+   "line": 4260,
+   "doc_line": 49
   },
   {
    "entity": "falkenhausen",
@@ -197,7 +205,8 @@
    "surface": "Falkenhausen",
    "page": 3,
    "page_id": "",
-   "line": 4276
+   "line": 4276,
+   "doc_line": 64
   },
   {
    "entity": "triebenfeld",
@@ -206,7 +215,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 4325
+   "line": 4325,
+   "doc_line": 112
   }
  ],
  "mentions_english": [],

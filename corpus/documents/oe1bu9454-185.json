@@ -68,7 +68,8 @@
    "surface": "Pochammer",
    "page": 1,
    "page_id": "",
-   "line": 13222
+   "line": 13222,
+   "doc_line": 9
   },
   {
    "entity": "triebenfeld",
@@ -77,7 +78,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 13246
+   "line": 13246,
+   "doc_line": 33
   }
  ],
  "mentions_english": [],

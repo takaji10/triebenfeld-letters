@@ -335,8 +335,7 @@ def main():
         for p in pages:
             body.append(f'<section class="ms-page" id="p{p["page"]}" '
                         f'data-page="{p["page"]}" '
-                        f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}" '
-                        f'data-archival-lines="{p["line_start"]}-{p["line_end"]}">')
+                        f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}">')
             if len(pages) > 1:
                 body.append(
                     f'<div class="page-rule"><span class="page-no">Page {p["page"]}</span>'
@@ -365,9 +364,9 @@ def main():
             # marks resolved per the recorded decisions. Numbered to the
             # archival line so it can still be cited line by line.
             body.append('<div class="text-view" data-view="diplomatic">')
-            # Numbered from 1 in each document. The unit-absolute line stays on
-            # the section as data-archival-lines, so a citation keyed to
-            # corpus.txt can still be resolved from the page.
+            # Numbered from 1 in each document, contiguously. The unit-absolute
+            # line is internal and is not published; corpus/index/ carries the
+            # mapping for anyone who needs to resolve a citation.
             body.append('<ol class="dip" start="' + str(p['doc_line_start']) + '">')
             for ln in p.get('transcription', p['diplomatic']).split('\n'):
                 body.append('<li>' + html.escape(ln) + '</li>')

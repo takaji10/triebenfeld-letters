@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 54
+   "doc_line_start": 25,
+   "doc_line_end": 53
   }
  ],
  "mentions": [
@@ -87,7 +87,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 18412
+   "line": 18412,
+   "doc_line": 5
   },
   {
    "entity": "cosmar",
@@ -96,7 +97,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18427
+   "line": 18427,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -105,7 +107,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18427
+   "line": 18427,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -114,7 +117,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 18433
+   "line": 18433,
+   "doc_line": 25
   },
   {
    "entity": "gaertner",
@@ -123,7 +127,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 18453
+   "line": 18453,
+   "doc_line": 45
   },
   {
    "entity": "goeschel",
@@ -132,7 +137,8 @@
    "surface": "Göschel",
    "page": 2,
    "page_id": "",
-   "line": 18453
+   "line": 18453,
+   "doc_line": 45
   },
   {
    "entity": "hardenberg",
@@ -141,7 +147,8 @@
    "surface": "Hard:",
    "page": 2,
    "page_id": "",
-   "line": 18453
+   "line": 18453,
+   "doc_line": 45
   },
   {
    "entity": "triebenfeld",
@@ -150,7 +157,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18461
+   "line": 18461,
+   "doc_line": 53
   }
  ],
  "mentions_english": [],

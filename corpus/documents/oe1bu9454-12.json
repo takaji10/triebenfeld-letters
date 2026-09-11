@@ -61,7 +61,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 652
+   "line": 652,
+   "doc_line": 9
   },
   {
    "entity": "cosmar",
@@ -70,7 +71,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 653
+   "line": 653,
+   "doc_line": 10
   }
  ],
  "mentions_english": [],

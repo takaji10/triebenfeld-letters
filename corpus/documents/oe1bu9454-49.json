@@ -67,7 +67,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 3683
+   "line": 3683,
+   "doc_line": 15
   },
   {
    "entity": "neumann",
@@ -76,7 +77,8 @@
    "surface": "Neumann",
    "page": 1,
    "page_id": "",
-   "line": 3686
+   "line": 3686,
+   "doc_line": 18
   },
   {
    "entity": "triebenfeld",
@@ -85,7 +87,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 3698
+   "line": 3698,
+   "doc_line": 30
   }
  ],
  "mentions_english": [],

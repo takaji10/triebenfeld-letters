@@ -64,7 +64,8 @@
    "surface": "Prussiemski",
    "page": 1,
    "page_id": "",
-   "line": 18858
+   "line": 18858,
+   "doc_line": 4
   },
   {
    "entity": "prusimska",
@@ -73,7 +74,8 @@
    "surface": "Miączyńska",
    "page": 1,
    "page_id": "",
-   "line": 18862
+   "line": 18862,
+   "doc_line": 8
   },
   {
    "entity": "prusimski",
@@ -82,7 +84,8 @@
    "surface": "Prussiemski",
    "page": 1,
    "page_id": "",
-   "line": 18862
+   "line": 18862,
+   "doc_line": 8
   },
   {
    "entity": "napoleon",
@@ -91,7 +94,8 @@
    "surface": "Napoleon",
    "page": 1,
    "page_id": "",
-   "line": 18865
+   "line": 18865,
+   "doc_line": 11
   },
   {
    "entity": "prusimska",
@@ -100,7 +104,8 @@
    "surface": "Moscinska",
    "page": 1,
    "page_id": "",
-   "line": 18866
+   "line": 18866,
+   "doc_line": 12
   },
   {
    "entity": "hardenberg",
@@ -109,7 +114,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 18868
+   "line": 18868,
+   "doc_line": 14
   },
   {
    "entity": "triebenfeld",
@@ -118,7 +124,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18868
+   "line": 18868,
+   "doc_line": 14
   },
   {
    "entity": "prusimska",
@@ -127,7 +134,8 @@
    "surface": "Moscinska",
    "page": 1,
    "page_id": "",
-   "line": 18873
+   "line": 18873,
+   "doc_line": 19
   },
   {
    "entity": "triebenfeld",
@@ -136,7 +144,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18878
+   "line": 18878,
+   "doc_line": 24
   }
  ],
  "mentions_english": [],

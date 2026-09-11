@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 31
+   "doc_line_start": 22,
+   "doc_line_end": 30
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 33,
-   "doc_line_end": 46
+   "doc_line_start": 31,
+   "doc_line_end": 44
   }
  ],
  "mentions": [
@@ -100,7 +100,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 14170
+   "line": 14170,
+   "doc_line": 4
   },
   {
    "entity": "lahr",
@@ -109,7 +110,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 14170
+   "line": 14170,
+   "doc_line": 4
   },
   {
    "entity": "flesch",
@@ -118,7 +120,8 @@
    "surface": "Flesch",
    "page": 1,
    "page_id": "",
-   "line": 14176
+   "line": 14176,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -127,7 +130,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 14197
+   "line": 14197,
+   "doc_line": 30
   },
   {
    "entity": "koeckritz",
@@ -136,7 +140,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 14200
+   "line": 14200,
+   "doc_line": 32
   },
   {
    "entity": "lahr",
@@ -145,7 +150,8 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
-   "line": 14201
+   "line": 14201,
+   "doc_line": 33
   },
   {
    "entity": "flesch",
@@ -154,7 +160,8 @@
    "surface": "Flesch",
    "page": 3,
    "page_id": "",
-   "line": 14209
+   "line": 14209,
+   "doc_line": 41
   },
   {
    "entity": "koeckritz",
@@ -163,7 +170,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 14211
+   "line": 14211,
+   "doc_line": 43
   }
  ],
  "mentions_english": [],

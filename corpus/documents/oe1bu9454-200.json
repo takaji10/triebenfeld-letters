@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 52
+   "doc_line_start": 23,
+   "doc_line_end": 51
   }
  ],
  "mentions": [
@@ -87,7 +87,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 14342
+   "line": 14342,
+   "doc_line": 5
   },
   {
    "entity": "stoessel",
@@ -96,7 +97,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14355
+   "line": 14355,
+   "doc_line": 18
   },
   {
    "entity": "weigel",
@@ -105,7 +107,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14355
+   "line": 14355,
+   "doc_line": 18
   },
   {
    "entity": "bernhardi",
@@ -114,7 +117,8 @@
    "surface": "Bernhardi",
    "page": 1,
    "page_id": "",
-   "line": 14356
+   "line": 14356,
+   "doc_line": 19
   },
   {
    "entity": "weigel",
@@ -123,7 +127,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14356
+   "line": 14356,
+   "doc_line": 19
   },
   {
    "entity": "stoessel",
@@ -132,7 +137,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14357
+   "line": 14357,
+   "doc_line": 20
   },
   {
    "entity": "stoessel",
@@ -141,7 +147,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14359
+   "line": 14359,
+   "doc_line": 22
   },
   {
    "entity": "stoessel",
@@ -150,7 +157,8 @@
    "surface": "Stössel",
    "page": 2,
    "page_id": "",
-   "line": 14361
+   "line": 14361,
+   "doc_line": 23
   },
   {
    "entity": "weigel",
@@ -159,7 +167,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 14362
+   "line": 14362,
+   "doc_line": 24
   },
   {
    "entity": "emilie",
@@ -168,7 +177,8 @@
    "surface": "Emilie",
    "page": 2,
    "page_id": "",
-   "line": 14383
+   "line": 14383,
+   "doc_line": 45
   },
   {
    "entity": "triebenfeld",
@@ -177,7 +187,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 14389
+   "line": 14389,
+   "doc_line": 51
   }
  ],
  "mentions_english": [],

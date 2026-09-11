@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 68
+   "doc_line_start": 34,
+   "doc_line_end": 67
   },
   {
    "page": 3,
@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 70,
-   "doc_line_end": 102
+   "doc_line_start": 68,
+   "doc_line_end": 100
   },
   {
    "page": 4,
@@ -116,8 +116,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 104,
-   "doc_line_end": 134
+   "doc_line_start": 101,
+   "doc_line_end": 131
   },
   {
    "page": 5,
@@ -137,8 +137,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 136,
-   "doc_line_end": 166
+   "doc_line_start": 132,
+   "doc_line_end": 162
   },
   {
    "page": 6,
@@ -158,8 +158,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 168,
-   "doc_line_end": 184
+   "doc_line_start": 163,
+   "doc_line_end": 179
   }
  ],
  "mentions": [
@@ -170,7 +170,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0078_b",
-   "line": 4181
+   "line": 4181,
+   "doc_line": 2
   },
   {
    "entity": "hohenlohe",
@@ -179,7 +180,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0078_b",
-   "line": 4183
+   "line": 4183,
+   "doc_line": 4
   },
   {
    "entity": "tschachmann",
@@ -188,7 +190,8 @@
    "surface": "Tschachmann",
    "page": 1,
    "page_id": "0078_b",
-   "line": 4186
+   "line": 4186,
+   "doc_line": 7
   },
   {
    "entity": "tschachmann",
@@ -197,7 +200,8 @@
    "surface": "Tschachmann",
    "page": 1,
    "page_id": "0078_b",
-   "line": 4191
+   "line": 4191,
+   "doc_line": 12
   },
   {
    "entity": "titz",
@@ -206,7 +210,8 @@
    "surface": "Titz",
    "page": 1,
    "page_id": "0078_b",
-   "line": 4198
+   "line": 4198,
+   "doc_line": 19
   },
   {
    "entity": "tschachmann",
@@ -215,7 +220,8 @@
    "surface": "Tschachmann",
    "page": 1,
    "page_id": "0078_b",
-   "line": 4201
+   "line": 4201,
+   "doc_line": 22
   },
   {
    "entity": "tschachmann",
@@ -224,7 +230,8 @@
    "surface": "Tschachmann",
    "page": 4,
    "page_id": "0080_a1",
-   "line": 4305
+   "line": 4305,
+   "doc_line": 123
   },
   {
    "entity": "august",
@@ -233,7 +240,8 @@
    "surface": "August",
    "page": 6,
    "page_id": "0081_a1",
-   "line": 4355
+   "line": 4355,
+   "doc_line": 171
   },
   {
    "entity": "triebenfeld",
@@ -242,7 +250,8 @@
    "surface": "Triebenfeld",
    "page": 6,
    "page_id": "0081_a1",
-   "line": 4355
+   "line": 4355,
+   "doc_line": 171
   },
   {
    "entity": "hohenlohe",
@@ -251,7 +260,8 @@
    "surface": "Hohenlohe",
    "page": 6,
    "page_id": "0081_a1",
-   "line": 4358
+   "line": 4358,
+   "doc_line": 174
   },
   {
    "entity": "tschachmann",
@@ -260,7 +270,8 @@
    "surface": "Tschachmann",
    "page": 6,
    "page_id": "0081_a1",
-   "line": 4360
+   "line": 4360,
+   "doc_line": 176
   }
  ],
  "mentions_english": [],

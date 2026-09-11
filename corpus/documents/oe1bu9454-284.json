@@ -82,8 +82,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 43,
-   "doc_line_end": 73
+   "doc_line_start": 42,
+   "doc_line_end": 72
   },
   {
    "page": 3,
@@ -104,8 +104,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 75,
-   "doc_line_end": 106
+   "doc_line_start": 73,
+   "doc_line_end": 104
   },
   {
    "page": 4,
@@ -123,8 +123,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 108,
-   "doc_line_end": 119
+   "doc_line_start": 105,
+   "doc_line_end": 116
   }
  ],
  "mentions": [
@@ -135,7 +135,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 20068
+   "line": 20068,
+   "doc_line": 12
   },
   {
    "entity": "bernhard",
@@ -144,7 +145,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 20072
+   "line": 20072,
+   "doc_line": 16
   },
   {
    "entity": "meyer",
@@ -153,7 +155,8 @@
    "surface": "Meyer",
    "page": 1,
    "page_id": "",
-   "line": 20072
+   "line": 20072,
+   "doc_line": 16
   },
   {
    "entity": "bernhard",
@@ -162,7 +165,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 20075
+   "line": 20075,
+   "doc_line": 19
   },
   {
    "entity": "otto",
@@ -171,7 +175,8 @@
    "surface": "Otto",
    "page": 1,
    "page_id": "",
-   "line": 20077
+   "line": 20077,
+   "doc_line": 21
   },
   {
    "entity": "lichnowski",
@@ -180,7 +185,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 20088
+   "line": 20088,
+   "doc_line": 32
   },
   {
    "entity": "grotowski",
@@ -189,7 +195,8 @@
    "surface": "Grotowski",
    "page": 1,
    "page_id": "",
-   "line": 20090
+   "line": 20090,
+   "doc_line": 34
   },
   {
    "entity": "lichnowski",
@@ -198,7 +205,8 @@
    "surface": "Lichnowski",
    "page": 2,
    "page_id": "",
-   "line": 20101
+   "line": 20101,
+   "doc_line": 44
   },
   {
    "entity": "weigel",
@@ -207,7 +215,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 20103
+   "line": 20103,
+   "doc_line": 46
   },
   {
    "entity": "pourtales",
@@ -216,7 +225,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 20111
+   "line": 20111,
+   "doc_line": 54
   },
   {
    "entity": "napoleon",
@@ -225,7 +235,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 20114
+   "line": 20114,
+   "doc_line": 57
   },
   {
    "entity": "metternich",
@@ -234,7 +245,8 @@
    "surface": "Metternich",
    "page": 3,
    "page_id": "",
-   "line": 20144
+   "line": 20144,
+   "doc_line": 86
   },
   {
    "entity": "honrichs",
@@ -243,7 +255,8 @@
    "surface": "Honrichs",
    "page": 3,
    "page_id": "",
-   "line": 20150
+   "line": 20150,
+   "doc_line": 92
   },
   {
    "entity": "eberhard",
@@ -252,7 +265,8 @@
    "surface": "Eberhard",
    "page": 3,
    "page_id": "",
-   "line": 20161
+   "line": 20161,
+   "doc_line": 103
   },
   {
    "entity": "triebenfeld",
@@ -261,7 +275,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 20162
+   "line": 20162,
+   "doc_line": 104
   },
   {
    "entity": "hardenberg",
@@ -270,7 +285,8 @@
    "surface": "Hardenberg",
    "page": 4,
    "page_id": "",
-   "line": 20175
+   "line": 20175,
+   "doc_line": 116
   }
  ],
  "mentions_english": [],

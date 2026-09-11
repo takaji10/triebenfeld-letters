@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 18,
-   "doc_line_end": 36
+   "doc_line_start": 17,
+   "doc_line_end": 35
   },
   {
    "page": 3,
@@ -85,8 +85,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 38,
-   "doc_line_end": 52
+   "doc_line_start": 36,
+   "doc_line_end": 50
   }
  ],
  "mentions": [
@@ -97,7 +97,8 @@
    "surface": "Reinhardt",
    "page": 1,
    "page_id": "",
-   "line": 6253
+   "line": 6253,
+   "doc_line": 16
   },
   {
    "entity": "goldbeck",
@@ -106,7 +107,8 @@
    "surface": "Goldbeck",
    "page": 2,
    "page_id": "",
-   "line": 6259
+   "line": 6259,
+   "doc_line": 21
   },
   {
    "entity": "hoym",
@@ -115,7 +117,8 @@
    "surface": "Hoym",
    "page": 2,
    "page_id": "",
-   "line": 6265
+   "line": 6265,
+   "doc_line": 27
   },
   {
    "entity": "haugwitz",
@@ -124,7 +127,8 @@
    "surface": "Haugwitz",
    "page": 2,
    "page_id": "",
-   "line": 6272
+   "line": 6272,
+   "doc_line": 34
   },
   {
    "entity": "haugwitz",
@@ -133,7 +137,8 @@
    "surface": "Haugwitz",
    "page": 3,
    "page_id": "",
-   "line": 6275
+   "line": 6275,
+   "doc_line": 36
   },
   {
    "entity": "chemski",
@@ -142,7 +147,8 @@
    "surface": "Chełmski",
    "page": 3,
    "page_id": "",
-   "line": 6277
+   "line": 6277,
+   "doc_line": 38
   },
   {
    "entity": "graevenitz",
@@ -151,7 +157,8 @@
    "surface": "Grävenitz",
    "page": 3,
    "page_id": "",
-   "line": 6281
+   "line": 6281,
+   "doc_line": 42
   },
   {
    "entity": "triebenfeld",
@@ -160,7 +167,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 6289
+   "line": 6289,
+   "doc_line": 50
   }
  ],
  "mentions_english": [],

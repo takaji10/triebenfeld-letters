@@ -64,7 +64,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "",
-   "line": 18816
+   "line": 18816,
+   "doc_line": 1
   },
   {
    "entity": "triebenfeld",
@@ -73,7 +74,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18818
+   "line": 18818,
+   "doc_line": 3
   },
   {
    "entity": "cosmar",
@@ -82,7 +84,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18820
+   "line": 18820,
+   "doc_line": 5
   },
   {
    "entity": "triebenfeld",
@@ -91,7 +94,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18823
+   "line": 18823,
+   "doc_line": 8
   },
   {
    "entity": "triebenfeld",
@@ -100,7 +104,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18824
+   "line": 18824,
+   "doc_line": 9
   },
   {
    "entity": "cosmar",
@@ -109,7 +114,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18830
+   "line": 18830,
+   "doc_line": 15
   },
   {
    "entity": "triebenfeld",
@@ -118,7 +124,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18833
+   "line": 18833,
+   "doc_line": 18
   },
   {
    "entity": "cosmar",
@@ -127,7 +134,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18837
+   "line": 18837,
+   "doc_line": 22
   },
   {
    "entity": "august",
@@ -136,7 +144,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 18838
+   "line": 18838,
+   "doc_line": 23
   },
   {
    "entity": "cosmar",
@@ -145,7 +154,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18841
+   "line": 18841,
+   "doc_line": 26
   },
   {
    "entity": "triebenfeld",
@@ -154,7 +164,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18847
+   "line": 18847,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

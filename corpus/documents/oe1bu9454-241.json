@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 30
+   "doc_line_start": 20,
+   "doc_line_end": 29
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Gneizenau",
    "page": 1,
    "page_id": "",
-   "line": 17480
+   "line": 17480,
+   "doc_line": 1
   },
   {
    "entity": "zastrow",
@@ -91,7 +92,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 17487
+   "line": 17487,
+   "doc_line": 8
   },
   {
    "entity": "gneizenau",
@@ -100,7 +102,8 @@
    "surface": "Gneizenau",
    "page": 1,
    "page_id": "",
-   "line": 17488
+   "line": 17488,
+   "doc_line": 9
   },
   {
    "entity": "hardenberg",
@@ -109,7 +112,8 @@
    "surface": "Hard:",
    "page": 1,
    "page_id": "",
-   "line": 17494
+   "line": 17494,
+   "doc_line": 15
   },
   {
    "entity": "triebenfeld",
@@ -118,7 +122,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17507
+   "line": 17507,
+   "doc_line": 27
   }
  ],
  "mentions_english": [],

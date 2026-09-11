@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 48
+   "doc_line_start": 21,
+   "doc_line_end": 47
   }
  ],
  "mentions": [
@@ -86,7 +86,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 7561
+   "line": 7561,
+   "doc_line": 5
   },
   {
    "entity": "zastrow",
@@ -95,7 +96,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 7576
+   "line": 7576,
+   "doc_line": 20
   },
   {
    "entity": "voss",
@@ -104,7 +106,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 7583
+   "line": 7583,
+   "doc_line": 26
   },
   {
    "entity": "glenck",
@@ -113,7 +116,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 7593
+   "line": 7593,
+   "doc_line": 36
   },
   {
    "entity": "triebenfeld",
@@ -122,7 +126,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 7604
+   "line": 7604,
+   "doc_line": 47
   }
  ],
  "mentions_english": [],

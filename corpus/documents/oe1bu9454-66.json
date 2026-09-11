@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 45
+   "doc_line_start": 24,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 75
+   "doc_line_start": 45,
+   "doc_line_end": 73
   },
   {
    "page": 4,
@@ -107,8 +107,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 77,
-   "doc_line_end": 105
+   "doc_line_start": 74,
+   "doc_line_end": 102
   },
   {
    "page": 5,
@@ -126,8 +126,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 107,
-   "doc_line_end": 119
+   "doc_line_start": 103,
+   "doc_line_end": 115
   }
  ],
  "mentions": [
@@ -138,7 +138,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 5087
+   "line": 5087,
+   "doc_line": 6
   },
   {
    "entity": "honrichs",
@@ -147,7 +148,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 5092
+   "line": 5092,
+   "doc_line": 11
   },
   {
    "entity": "honrichs",
@@ -156,7 +158,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5106
+   "line": 5106,
+   "doc_line": 24
   },
   {
    "entity": "honrichs",
@@ -165,7 +168,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5111
+   "line": 5111,
+   "doc_line": 29
   },
   {
    "entity": "napoleon",
@@ -174,7 +178,8 @@
    "surface": "Napoleon",
    "page": 3,
    "page_id": "",
-   "line": 5135
+   "line": 5135,
+   "doc_line": 52
   },
   {
    "entity": "emilie",
@@ -183,7 +188,8 @@
    "surface": "Emilie",
    "page": 3,
    "page_id": "",
-   "line": 5149
+   "line": 5149,
+   "doc_line": 66
   },
   {
    "entity": "triebenfeld",
@@ -192,7 +198,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 5156
+   "line": 5156,
+   "doc_line": 73
   },
   {
    "entity": "neumann",
@@ -201,7 +208,8 @@
    "surface": "Neumann",
    "page": 4,
    "page_id": "",
-   "line": 5159
+   "line": 5159,
+   "doc_line": 75
   },
   {
    "entity": "neumann",
@@ -210,7 +218,8 @@
    "surface": "Neumann",
    "page": 4,
    "page_id": "",
-   "line": 5160
+   "line": 5160,
+   "doc_line": 76
   },
   {
    "entity": "neumann",
@@ -219,7 +228,8 @@
    "surface": "Neumann",
    "page": 4,
    "page_id": "",
-   "line": 5165
+   "line": 5165,
+   "doc_line": 81
   },
   {
    "entity": "neumann",
@@ -228,7 +238,8 @@
    "surface": "Neumann",
    "page": 4,
    "page_id": "",
-   "line": 5171
+   "line": 5171,
+   "doc_line": 87
   },
   {
    "entity": "triebenfeld",
@@ -237,7 +248,8 @@
    "surface": "Triebenfeld",
    "page": 5,
    "page_id": "",
-   "line": 5199
+   "line": 5199,
+   "doc_line": 114
   }
  ],
  "mentions_english": [],

@@ -79,8 +79,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 30,
-   "doc_line_end": 57
+   "doc_line_start": 29,
+   "doc_line_end": 56
   }
  ],
  "mentions": [
@@ -91,7 +91,8 @@
    "surface": "Dąbska",
    "page": 1,
    "page_id": "",
-   "line": 18904
+   "line": 18904,
+   "doc_line": 17
   },
   {
    "entity": "prusimska",
@@ -100,7 +101,8 @@
    "surface": "Moscinska",
    "page": 1,
    "page_id": "",
-   "line": 18904
+   "line": 18904,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -109,7 +111,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18912
+   "line": 18912,
+   "doc_line": 25
   },
   {
    "entity": "barbe",
@@ -118,7 +121,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 18913
+   "line": 18913,
+   "doc_line": 26
   },
   {
    "entity": "barbe",
@@ -127,7 +131,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 18913
+   "line": 18913,
+   "doc_line": 26
   },
   {
    "entity": "barbe",
@@ -136,7 +141,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 18920
+   "line": 18920,
+   "doc_line": 32
   },
   {
    "entity": "pourtales",
@@ -145,7 +151,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 18920
+   "line": 18920,
+   "doc_line": 32
   },
   {
    "entity": "pourtales",
@@ -154,7 +161,8 @@
    "surface": "Portalis",
    "page": 2,
    "page_id": "",
-   "line": 18920
+   "line": 18920,
+   "doc_line": 32
   },
   {
    "entity": "triebenfeld",
@@ -163,7 +171,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18944
+   "line": 18944,
+   "doc_line": 56
   }
  ],
  "mentions_english": [],

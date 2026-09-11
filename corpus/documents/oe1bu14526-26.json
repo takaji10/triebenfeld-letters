@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 52
+   "doc_line_start": 27,
+   "doc_line_end": 51
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 54,
-   "doc_line_end": 80
+   "doc_line_start": 52,
+   "doc_line_end": 78
   },
   {
    "page": 4,
@@ -109,8 +109,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 82,
-   "doc_line_end": 102
+   "doc_line_start": 79,
+   "doc_line_end": 99
   }
  ],
  "mentions": [
@@ -121,7 +121,8 @@
    "surface": "Luka",
    "page": 1,
    "page_id": "0159_a2",
-   "line": 7786
+   "line": 7786,
+   "doc_line": 7
   },
   {
    "entity": "hohenlohe",
@@ -130,7 +131,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0159_a2",
-   "line": 7794
+   "line": 7794,
+   "doc_line": 15
   },
   {
    "entity": "glenck",
@@ -139,7 +141,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "0159_a2",
-   "line": 7797
+   "line": 7797,
+   "doc_line": 18
   },
   {
    "entity": "hohenlohe",
@@ -148,7 +151,8 @@
    "surface": "Hohenlohe",
    "page": 3,
    "page_id": "0160_a2",
-   "line": 7851
+   "line": 7851,
+   "doc_line": 70
   },
   {
    "entity": "glenck",
@@ -157,7 +161,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "0160_a2",
-   "line": 7853
+   "line": 7853,
+   "doc_line": 72
   }
  ],
  "mentions_english": [],

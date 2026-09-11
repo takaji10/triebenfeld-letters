@@ -65,7 +65,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 6176
+   "line": 6176,
+   "doc_line": 1
   },
   {
    "entity": "sacken",
@@ -74,7 +75,8 @@
    "surface": "Sacken",
    "page": 1,
    "page_id": "",
-   "line": 6177
+   "line": 6177,
+   "doc_line": 2
   },
   {
    "entity": "hohenlohe",
@@ -83,7 +85,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 6179
+   "line": 6179,
+   "doc_line": 4
   },
   {
    "entity": "sacken",
@@ -92,7 +95,8 @@
    "surface": "Sacken",
    "page": 1,
    "page_id": "",
-   "line": 6179
+   "line": 6179,
+   "doc_line": 4
   },
   {
    "entity": "triebenfeld",
@@ -101,7 +105,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6181
+   "line": 6181,
+   "doc_line": 6
   },
   {
    "entity": "triebenfeld",
@@ -110,7 +115,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6183
+   "line": 6183,
+   "doc_line": 8
   },
   {
    "entity": "august",
@@ -119,7 +125,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 6185
+   "line": 6185,
+   "doc_line": 10
   },
   {
    "entity": "kircheisen",
@@ -128,7 +135,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 6188
+   "line": 6188,
+   "doc_line": 13
   },
   {
    "entity": "cosmar",
@@ -137,7 +145,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 6191
+   "line": 6191,
+   "doc_line": 16
   },
   {
    "entity": "triebenfeld",
@@ -146,7 +155,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6192
+   "line": 6192,
+   "doc_line": 17
   }
  ],
  "mentions_english": [],

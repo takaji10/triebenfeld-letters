@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 45
+   "doc_line_start": 26,
+   "doc_line_end": 44
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19239
+   "line": 19239,
+   "doc_line": 19
   },
   {
    "entity": "cosmar",
@@ -93,7 +94,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19243
+   "line": 19243,
+   "doc_line": 23
   },
   {
    "entity": "august",
@@ -102,7 +104,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 19248
+   "line": 19248,
+   "doc_line": 27
   },
   {
    "entity": "cosmar",
@@ -111,7 +114,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19248
+   "line": 19248,
+   "doc_line": 27
   },
   {
    "entity": "cosmar",
@@ -120,7 +124,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19250
+   "line": 19250,
+   "doc_line": 29
   },
   {
    "entity": "cosmar",
@@ -129,7 +134,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19252
+   "line": 19252,
+   "doc_line": 31
   },
   {
    "entity": "pourtales",
@@ -138,7 +144,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 19256
+   "line": 19256,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -147,7 +154,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19265
+   "line": 19265,
+   "doc_line": 44
   }
  ],
  "mentions_english": [],

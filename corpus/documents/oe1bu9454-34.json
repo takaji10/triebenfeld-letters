@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 52
+   "doc_line_start": 26,
+   "doc_line_end": 51
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 2339
+   "line": 2339,
+   "doc_line": 4
   },
   {
    "entity": "honrichs",
@@ -91,7 +92,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 2344
+   "line": 2344,
+   "doc_line": 9
   },
   {
    "entity": "tietz",
@@ -100,7 +102,8 @@
    "surface": "Tietz",
    "page": 1,
    "page_id": "",
-   "line": 2350
+   "line": 2350,
+   "doc_line": 15
   },
   {
    "entity": "honrichs",
@@ -109,7 +112,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 2354
+   "line": 2354,
+   "doc_line": 19
   },
   {
    "entity": "zastrow",
@@ -118,7 +122,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 2363
+   "line": 2363,
+   "doc_line": 27
   },
   {
    "entity": "amelang",
@@ -127,7 +132,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 2366
+   "line": 2366,
+   "doc_line": 30
   },
   {
    "entity": "triebenfeld",
@@ -136,7 +142,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 2387
+   "line": 2387,
+   "doc_line": 51
   }
  ],
  "mentions_english": [],

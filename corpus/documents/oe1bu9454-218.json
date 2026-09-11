@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 45
+   "doc_line_start": 24,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 69
+   "doc_line_start": 45,
+   "doc_line_end": 67
   },
   {
    "page": 4,
@@ -114,8 +114,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 71,
-   "doc_line_end": 95
+   "doc_line_start": 68,
+   "doc_line_end": 92
   }
  ],
  "mentions": [
@@ -126,7 +126,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15736
+   "line": 15736,
+   "doc_line": 12
   },
   {
    "entity": "wartensleben",
@@ -135,7 +136,8 @@
    "surface": "Wartensleben",
    "page": 1,
    "page_id": "",
-   "line": 15738
+   "line": 15738,
+   "doc_line": 14
   },
   {
    "entity": "stoessel",
@@ -144,7 +146,8 @@
    "surface": "Stössel",
    "page": 2,
    "page_id": "",
-   "line": 15749
+   "line": 15749,
+   "doc_line": 24
   },
   {
    "entity": "weigel",
@@ -153,7 +156,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15749
+   "line": 15749,
+   "doc_line": 24
   },
   {
    "entity": "weigel",
@@ -162,7 +166,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15751
+   "line": 15751,
+   "doc_line": 26
   },
   {
    "entity": "wartensleben",
@@ -171,7 +176,8 @@
    "surface": "Wartensleben",
    "page": 2,
    "page_id": "",
-   "line": 15752
+   "line": 15752,
+   "doc_line": 27
   },
   {
    "entity": "weigel",
@@ -180,7 +186,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15754
+   "line": 15754,
+   "doc_line": 29
   },
   {
    "entity": "sacken",
@@ -189,7 +196,8 @@
    "surface": "Sacken",
    "page": 2,
    "page_id": "",
-   "line": 15760
+   "line": 15760,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -198,7 +206,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 15819
+   "line": 15819,
+   "doc_line": 92
   }
  ],
  "mentions_english": [],

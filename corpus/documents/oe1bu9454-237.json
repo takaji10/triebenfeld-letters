@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 20,
-   "doc_line_end": 31
+   "doc_line_start": 19,
+   "doc_line_end": 30
   }
  ],
  "mentions": [
@@ -78,7 +78,8 @@
    "surface": "Meierowitz",
    "page": 1,
    "page_id": "",
-   "line": 17272
+   "line": 17272,
+   "doc_line": 18
   },
   {
    "entity": "trzcinski",
@@ -87,7 +88,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 17272
+   "line": 17272,
+   "doc_line": 18
   },
   {
    "entity": "zerboni",
@@ -96,7 +98,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 17272
+   "line": 17272,
+   "doc_line": 18
   },
   {
    "entity": "meierowitz",
@@ -105,7 +108,8 @@
    "surface": "Meierowitz",
    "page": 2,
    "page_id": "",
-   "line": 17275
+   "line": 17275,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -114,7 +118,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17285
+   "line": 17285,
+   "doc_line": 30
   }
  ],
  "mentions_english": [],

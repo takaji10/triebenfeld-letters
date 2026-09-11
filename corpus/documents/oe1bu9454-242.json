@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 55
+   "doc_line_start": 24,
+   "doc_line_end": 54
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 17528
+   "line": 17528,
+   "doc_line": 17
   },
   {
    "entity": "gaertner",
@@ -91,7 +92,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 17540
+   "line": 17540,
+   "doc_line": 28
   },
   {
    "entity": "gaertner",
@@ -100,7 +102,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 17544
+   "line": 17544,
+   "doc_line": 32
   },
   {
    "entity": "hardenberg",
@@ -109,7 +112,8 @@
    "surface": "Hardenberg",
    "page": 2,
    "page_id": "",
-   "line": 17549
+   "line": 17549,
+   "doc_line": 37
   },
   {
    "entity": "prusimska",
@@ -118,7 +122,8 @@
    "surface": "Moscinska",
    "page": 2,
    "page_id": "",
-   "line": 17556
+   "line": 17556,
+   "doc_line": 44
   },
   {
    "entity": "prusimska",
@@ -127,7 +132,8 @@
    "surface": "Prusimska",
    "page": 2,
    "page_id": "",
-   "line": 17556
+   "line": 17556,
+   "doc_line": 44
   },
   {
    "entity": "triebenfeld",
@@ -136,7 +142,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17566
+   "line": 17566,
+   "doc_line": 54
   }
  ],
  "mentions_english": [],

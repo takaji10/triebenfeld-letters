@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 45
+   "doc_line_start": 21,
+   "doc_line_end": 44
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 18001
+   "line": 18001,
+   "doc_line": 17
   },
   {
    "entity": "gaertner",
@@ -93,7 +94,8 @@
    "surface": "Gärtner",
    "page": 1,
    "page_id": "",
-   "line": 18004
+   "line": 18004,
+   "doc_line": 20
   },
   {
    "entity": "metternich",
@@ -102,7 +104,8 @@
    "surface": "Metternich",
    "page": 2,
    "page_id": "",
-   "line": 18011
+   "line": 18011,
+   "doc_line": 26
   },
   {
    "entity": "goeschel",
@@ -111,7 +114,8 @@
    "surface": "Göschel",
    "page": 2,
    "page_id": "",
-   "line": 18021
+   "line": 18021,
+   "doc_line": 36
   },
   {
    "entity": "gaertner",
@@ -120,7 +124,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 18023
+   "line": 18023,
+   "doc_line": 38
   },
   {
    "entity": "triebenfeld",
@@ -129,7 +134,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18029
+   "line": 18029,
+   "doc_line": 44
   }
  ],
  "mentions_english": [],

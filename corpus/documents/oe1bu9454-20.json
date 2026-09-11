@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 33,
-   "doc_line_end": 62
+   "doc_line_start": 32,
+   "doc_line_end": 61
   },
   {
    "page": 3,
@@ -98,8 +98,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 64,
-   "doc_line_end": 90
+   "doc_line_start": 62,
+   "doc_line_end": 88
   }
  ],
  "mentions": [
@@ -110,7 +110,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 1151
+   "line": 1151,
+   "doc_line": 2
   },
   {
    "entity": "lahr",
@@ -119,7 +120,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1155
+   "line": 1155,
+   "doc_line": 6
   },
   {
    "entity": "lahr",
@@ -128,7 +130,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1161
+   "line": 1161,
+   "doc_line": 12
   },
   {
    "entity": "amelang",
@@ -137,7 +140,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 1162
+   "line": 1162,
+   "doc_line": 13
   },
   {
    "entity": "lahr",
@@ -146,7 +150,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1164
+   "line": 1164,
+   "doc_line": 15
   },
   {
    "entity": "lahr",
@@ -155,7 +160,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1165
+   "line": 1165,
+   "doc_line": 16
   },
   {
    "entity": "lahr",
@@ -164,7 +170,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1168
+   "line": 1168,
+   "doc_line": 19
   },
   {
    "entity": "michaelis",
@@ -173,7 +180,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 1172
+   "line": 1172,
+   "doc_line": 23
   },
   {
    "entity": "hawich",
@@ -182,7 +190,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 1175
+   "line": 1175,
+   "doc_line": 26
   },
   {
    "entity": "hecker",
@@ -191,7 +200,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 1175
+   "line": 1175,
+   "doc_line": 26
   },
   {
    "entity": "lahr",
@@ -200,7 +210,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 1182
+   "line": 1182,
+   "doc_line": 32
   },
   {
    "entity": "michaelis",
@@ -209,7 +220,8 @@
    "surface": "Michaelis",
    "page": 2,
    "page_id": "",
-   "line": 1182
+   "line": 1182,
+   "doc_line": 32
   },
   {
    "entity": "lahr",
@@ -218,7 +230,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 1184
+   "line": 1184,
+   "doc_line": 34
   },
   {
    "entity": "zastrow",
@@ -227,7 +240,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 1199
+   "line": 1199,
+   "doc_line": 49
   },
   {
    "entity": "triebenfeld",
@@ -236,7 +250,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 1211
+   "line": 1211,
+   "doc_line": 61
   },
   {
    "entity": "lahr",
@@ -245,7 +260,8 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
-   "line": 1215
+   "line": 1215,
+   "doc_line": 64
   },
   {
    "entity": "triebenfeld",
@@ -254,7 +270,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1219
+   "line": 1219,
+   "doc_line": 68
   },
   {
    "entity": "zastrow",
@@ -263,7 +280,8 @@
    "surface": "Zastrow",
    "page": 3,
    "page_id": "",
-   "line": 1220
+   "line": 1220,
+   "doc_line": 69
   },
   {
    "entity": "triebenfeld",
@@ -272,7 +290,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1221
+   "line": 1221,
+   "doc_line": 70
   },
   {
    "entity": "triebenfeld",
@@ -281,7 +300,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1225
+   "line": 1225,
+   "doc_line": 74
   },
   {
    "entity": "amelang",
@@ -290,7 +310,8 @@
    "surface": "Amelang",
    "page": 3,
    "page_id": "",
-   "line": 1231
+   "line": 1231,
+   "doc_line": 80
   }
  ],
  "mentions_english": [],

@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 41
+   "doc_line_start": 30,
+   "doc_line_end": 40
   }
  ],
  "mentions": [
@@ -81,7 +81,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20687
+   "line": 20687,
+   "doc_line": 3
   },
   {
    "entity": "staegemann",
@@ -90,7 +91,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 20692
+   "line": 20692,
+   "doc_line": 8
   },
   {
    "entity": "cosmar",
@@ -99,7 +101,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20693
+   "line": 20693,
+   "doc_line": 9
   },
   {
    "entity": "stein",
@@ -108,7 +111,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 20696
+   "line": 20696,
+   "doc_line": 12
   },
   {
    "entity": "staegemann",
@@ -117,7 +121,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 20704
+   "line": 20704,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -126,7 +131,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 20713
+   "line": 20713,
+   "doc_line": 29
   },
   {
    "entity": "barbe",
@@ -135,7 +141,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 20715
+   "line": 20715,
+   "doc_line": 30
   },
   {
    "entity": "beugelin",
@@ -144,7 +151,8 @@
    "surface": "Beugelin",
    "page": 2,
    "page_id": "",
-   "line": 20715
+   "line": 20715,
+   "doc_line": 30
   },
   {
    "entity": "humboldt",
@@ -153,7 +161,8 @@
    "surface": "Humboldt",
    "page": 2,
    "page_id": "",
-   "line": 20718
+   "line": 20718,
+   "doc_line": 33
   },
   {
    "entity": "nesselrode",
@@ -162,7 +171,8 @@
    "surface": "Nesselrode",
    "page": 2,
    "page_id": "",
-   "line": 20718
+   "line": 20718,
+   "doc_line": 33
   }
  ],
  "mentions_english": [],

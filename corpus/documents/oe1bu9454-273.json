@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 56
+   "doc_line_start": 27,
+   "doc_line_end": 55
   },
   {
    "page": 3,
@@ -84,8 +84,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 58,
-   "doc_line_end": 85
+   "doc_line_start": 56,
+   "doc_line_end": 83
   },
   {
    "page": 4,
@@ -106,8 +106,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 87,
-   "doc_line_end": 117
+   "doc_line_start": 84,
+   "doc_line_end": 114
   }
  ],
  "mentions": [
@@ -118,7 +118,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 19360
+   "line": 19360,
+   "doc_line": 11
   },
   {
    "entity": "barbe",
@@ -127,7 +128,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 19362
+   "line": 19362,
+   "doc_line": 13
   },
   {
    "entity": "staegemann",
@@ -136,7 +138,8 @@
    "surface": "Stägemann",
    "page": 2,
    "page_id": "",
-   "line": 19377
+   "line": 19377,
+   "doc_line": 27
   },
   {
    "entity": "barbe",
@@ -145,7 +148,8 @@
    "surface": "Barbe",
    "page": 3,
    "page_id": "",
-   "line": 19421
+   "line": 19421,
+   "doc_line": 70
   },
   {
    "entity": "august",
@@ -154,7 +158,8 @@
    "surface": "Augusts",
    "page": 3,
    "page_id": "",
-   "line": 19430
+   "line": 19430,
+   "doc_line": 79
   },
   {
    "entity": "cosmar",
@@ -163,7 +168,8 @@
    "surface": "Cosmar",
    "page": 4,
    "page_id": "",
-   "line": 19438
+   "line": 19438,
+   "doc_line": 86
   },
   {
    "entity": "triebenfeld",
@@ -172,7 +178,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 19466
+   "line": 19466,
+   "doc_line": 114
   }
  ],
  "mentions_english": [],

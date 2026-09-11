@@ -80,8 +80,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 86
+   "doc_line_start": 34,
+   "doc_line_end": 85
   }
  ],
  "mentions": [
@@ -92,7 +92,8 @@
    "surface": "Stosseln",
    "page": 1,
    "page_id": "",
-   "line": 15926
+   "line": 15926,
+   "doc_line": 10
   },
   {
    "entity": "stoessel",
@@ -101,7 +102,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 15927
+   "line": 15927,
+   "doc_line": 11
   },
   {
    "entity": "wartensleben",
@@ -110,7 +112,8 @@
    "surface": "Wartensleben",
    "page": 1,
    "page_id": "",
-   "line": 15927
+   "line": 15927,
+   "doc_line": 11
   },
   {
    "entity": "stoessel",
@@ -119,7 +122,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 15928
+   "line": 15928,
+   "doc_line": 12
   },
   {
    "entity": "wartensleben",
@@ -128,7 +132,8 @@
    "surface": "Wartensleben",
    "page": 1,
    "page_id": "",
-   "line": 15928
+   "line": 15928,
+   "doc_line": 12
   },
   {
    "entity": "stoessel",
@@ -137,7 +142,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 15929
+   "line": 15929,
+   "doc_line": 13
   },
   {
    "entity": "wartensleben",
@@ -146,7 +152,8 @@
    "surface": "Wartenslebens",
    "page": 1,
    "page_id": "",
-   "line": 15931
+   "line": 15931,
+   "doc_line": 15
   },
   {
    "entity": "weigel",
@@ -155,7 +162,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15936
+   "line": 15936,
+   "doc_line": 20
   },
   {
    "entity": "weigel",
@@ -164,7 +172,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15937
+   "line": 15937,
+   "doc_line": 21
   },
   {
    "entity": "stoessel",
@@ -173,7 +182,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 15938
+   "line": 15938,
+   "doc_line": 22
   },
   {
    "entity": "weigel",
@@ -182,7 +192,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15954
+   "line": 15954,
+   "doc_line": 37
   },
   {
    "entity": "weigel",
@@ -191,7 +202,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15956
+   "line": 15956,
+   "doc_line": 39
   },
   {
    "entity": "stossel",
@@ -200,7 +212,8 @@
    "surface": "Stossel",
    "page": 2,
    "page_id": "",
-   "line": 15959
+   "line": 15959,
+   "doc_line": 42
   },
   {
    "entity": "weigel",
@@ -209,7 +222,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15961
+   "line": 15961,
+   "doc_line": 44
   },
   {
    "entity": "stoessel",
@@ -218,7 +232,8 @@
    "surface": "Stössel",
    "page": 2,
    "page_id": "",
-   "line": 15964
+   "line": 15964,
+   "doc_line": 47
   },
   {
    "entity": "wartensleben",
@@ -227,7 +242,8 @@
    "surface": "Wartensleben",
    "page": 2,
    "page_id": "",
-   "line": 15966
+   "line": 15966,
+   "doc_line": 49
   },
   {
    "entity": "stoessel",
@@ -236,7 +252,8 @@
    "surface": "Stössel",
    "page": 2,
    "page_id": "",
-   "line": 15969
+   "line": 15969,
+   "doc_line": 52
   },
   {
    "entity": "weigel",
@@ -245,7 +262,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 15977
+   "line": 15977,
+   "doc_line": 60
   },
   {
    "entity": "august",
@@ -254,7 +272,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 15990
+   "line": 15990,
+   "doc_line": 73
   },
   {
    "entity": "triebenfeld",
@@ -263,7 +282,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 16002
+   "line": 16002,
+   "doc_line": 85
   }
  ],
  "mentions_english": [],

@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 58
+   "doc_line_start": 27,
+   "doc_line_end": 57
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 60,
-   "doc_line_end": 79
+   "doc_line_start": 58,
+   "doc_line_end": 77
   }
  ],
  "mentions": [
@@ -101,7 +101,8 @@
    "surface": "Schöler",
    "page": 1,
    "page_id": "",
-   "line": 18993
+   "line": 18993,
+   "doc_line": 6
   },
   {
    "entity": "staegemann",
@@ -110,7 +111,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 18994
+   "line": 18994,
+   "doc_line": 7
   },
   {
    "entity": "eberhard",
@@ -119,7 +121,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 18996
+   "line": 18996,
+   "doc_line": 9
   },
   {
    "entity": "eberhardt",
@@ -128,7 +131,8 @@
    "surface": "Eberhardt",
    "page": 1,
    "page_id": "",
-   "line": 18996
+   "line": 18996,
+   "doc_line": 9
   },
   {
    "entity": "pourtales",
@@ -137,7 +141,8 @@
    "surface": "Pourtal",
    "page": 1,
    "page_id": "",
-   "line": 18996
+   "line": 18996,
+   "doc_line": 9
   },
   {
    "entity": "cosmar",
@@ -146,7 +151,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18998
+   "line": 18998,
+   "doc_line": 11
   },
   {
    "entity": "scholer",
@@ -155,7 +161,8 @@
    "surface": "Schöler",
    "page": 1,
    "page_id": "",
-   "line": 19002
+   "line": 19002,
+   "doc_line": 15
   },
   {
    "entity": "koeckritz",
@@ -164,7 +171,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 19019
+   "line": 19019,
+   "doc_line": 31
   },
   {
    "entity": "august",
@@ -173,7 +181,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 19030
+   "line": 19030,
+   "doc_line": 42
   },
   {
    "entity": "cosmar",
@@ -182,7 +191,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19035
+   "line": 19035,
+   "doc_line": 47
   },
   {
    "entity": "triebenfeld",
@@ -191,7 +201,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19045
+   "line": 19045,
+   "doc_line": 57
   },
   {
    "entity": "hardenberg",
@@ -200,7 +211,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 19059
+   "line": 19059,
+   "doc_line": 70
   },
   {
    "entity": "triebenfeld",
@@ -209,7 +221,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 19066
+   "line": 19066,
+   "doc_line": 77
   }
  ],
  "mentions_english": [],

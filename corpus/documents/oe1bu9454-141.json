@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 49
+   "doc_line_start": 25,
+   "doc_line_end": 48
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Guderian",
    "page": 1,
    "page_id": "",
-   "line": 10389
+   "line": 10389,
+   "doc_line": 15
   },
   {
    "entity": "glenck",
@@ -93,7 +94,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 10391
+   "line": 10391,
+   "doc_line": 17
   },
   {
    "entity": "glenck",
@@ -102,7 +104,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 10393
+   "line": 10393,
+   "doc_line": 19
   },
   {
    "entity": "bernhard",
@@ -111,7 +114,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 10394
+   "line": 10394,
+   "doc_line": 20
   },
   {
    "entity": "simon",
@@ -120,7 +124,8 @@
    "surface": "Simon",
    "page": 1,
    "page_id": "",
-   "line": 10394
+   "line": 10394,
+   "doc_line": 20
   },
   {
    "entity": "glenck",
@@ -129,7 +134,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 10402
+   "line": 10402,
+   "doc_line": 27
   },
   {
    "entity": "glenck",
@@ -138,7 +144,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 10414
+   "line": 10414,
+   "doc_line": 39
   },
   {
    "entity": "triebenfeld",
@@ -147,7 +154,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 10423
+   "line": 10423,
+   "doc_line": 48
   }
  ],
  "mentions_english": [],

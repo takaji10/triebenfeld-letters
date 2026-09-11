@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 38
+   "doc_line_start": 20,
+   "doc_line_end": 37
   },
   {
    "page": 3,
@@ -86,8 +86,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 40,
-   "doc_line_end": 59
+   "doc_line_start": 38,
+   "doc_line_end": 57
   },
   {
    "page": 4,
@@ -104,8 +104,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 61,
-   "doc_line_end": 80
+   "doc_line_start": 58,
+   "doc_line_end": 77
   },
   {
    "page": 5,
@@ -124,8 +124,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 82,
-   "doc_line_end": 102
+   "doc_line_start": 78,
+   "doc_line_end": 98
   },
   {
    "page": 6,
@@ -144,8 +144,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 104,
-   "doc_line_end": 125
+   "doc_line_start": 99,
+   "doc_line_end": 120
   },
   {
    "page": 7,
@@ -163,8 +163,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 127,
-   "doc_line_end": 147
+   "doc_line_start": 121,
+   "doc_line_end": 141
   },
   {
    "page": 8,
@@ -185,8 +185,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 149,
-   "doc_line_end": 159
+   "doc_line_start": 142,
+   "doc_line_end": 152
   }
  ],
  "mentions": [
@@ -197,7 +197,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9546
+   "line": 9546,
+   "doc_line": 3
   },
   {
    "entity": "otto",
@@ -206,7 +207,8 @@
    "surface": "Ottos",
    "page": 1,
    "page_id": "",
-   "line": 9548
+   "line": 9548,
+   "doc_line": 5
   },
   {
    "entity": "glenck",
@@ -215,7 +217,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9549
+   "line": 9549,
+   "doc_line": 6
   },
   {
    "entity": "glenck",
@@ -224,7 +227,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9553
+   "line": 9553,
+   "doc_line": 10
   },
   {
    "entity": "leixner",
@@ -233,7 +237,8 @@
    "surface": "Leixner",
    "page": 2,
    "page_id": "",
-   "line": 9564
+   "line": 9564,
+   "doc_line": 20
   },
   {
    "entity": "werner",
@@ -242,7 +247,8 @@
    "surface": "Werner",
    "page": 2,
    "page_id": "",
-   "line": 9576
+   "line": 9576,
+   "doc_line": 32
   },
   {
    "entity": "glenck",
@@ -251,7 +257,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 9578
+   "line": 9578,
+   "doc_line": 34
   },
   {
    "entity": "glenck",
@@ -260,7 +267,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 9580
+   "line": 9580,
+   "doc_line": 36
   },
   {
    "entity": "amelang",
@@ -269,7 +277,8 @@
    "surface": "Am:",
    "page": 3,
    "page_id": "",
-   "line": 9587
+   "line": 9587,
+   "doc_line": 42
   },
   {
    "entity": "amelang",
@@ -278,7 +287,8 @@
    "surface": "Amelang",
    "page": 4,
    "page_id": "",
-   "line": 9604
+   "line": 9604,
+   "doc_line": 58
   },
   {
    "entity": "amelang",
@@ -287,7 +297,8 @@
    "surface": "Amelang",
    "page": 4,
    "page_id": "",
-   "line": 9605
+   "line": 9605,
+   "doc_line": 59
   },
   {
    "entity": "amelang",
@@ -296,7 +307,8 @@
    "surface": "Amelang",
    "page": 4,
    "page_id": "",
-   "line": 9614
+   "line": 9614,
+   "doc_line": 68
   },
   {
    "entity": "schlabrendorff",
@@ -305,7 +317,8 @@
    "surface": "Schlabrendorff",
    "page": 4,
    "page_id": "",
-   "line": 9615
+   "line": 9615,
+   "doc_line": 69
   },
   {
    "entity": "amelang",
@@ -314,7 +327,8 @@
    "surface": "Amelang",
    "page": 4,
    "page_id": "",
-   "line": 9622
+   "line": 9622,
+   "doc_line": 76
   },
   {
    "entity": "amelang",
@@ -323,7 +337,8 @@
    "surface": "Am:",
    "page": 5,
    "page_id": "",
-   "line": 9626
+   "line": 9626,
+   "doc_line": 79
   },
   {
    "entity": "amelang",
@@ -332,7 +347,8 @@
    "surface": "Am:",
    "page": 5,
    "page_id": "",
-   "line": 9634
+   "line": 9634,
+   "doc_line": 87
   },
   {
    "entity": "hardenberg",
@@ -341,7 +357,8 @@
    "surface": "Hard:",
    "page": 5,
    "page_id": "",
-   "line": 9640
+   "line": 9640,
+   "doc_line": 93
   },
   {
    "entity": "glenck",
@@ -350,7 +367,8 @@
    "surface": "Glenck",
    "page": 6,
    "page_id": "",
-   "line": 9647
+   "line": 9647,
+   "doc_line": 99
   },
   {
    "entity": "amelang",
@@ -359,7 +377,8 @@
    "surface": "Amelang",
    "page": 7,
    "page_id": "",
-   "line": 9672
+   "line": 9672,
+   "doc_line": 123
   },
   {
    "entity": "otto",
@@ -368,7 +387,8 @@
    "surface": "Ottoischen",
    "page": 7,
    "page_id": "",
-   "line": 9676
+   "line": 9676,
+   "doc_line": 127
   },
   {
    "entity": "triebenfeld",
@@ -377,7 +397,8 @@
    "surface": "Triebenfeld",
    "page": 8,
    "page_id": "",
-   "line": 9702
+   "line": 9702,
+   "doc_line": 152
   }
  ],
  "mentions_english": [],

@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 63
+   "doc_line_start": 34,
+   "doc_line_end": 62
   },
   {
    "page": 3,
@@ -93,8 +93,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 65,
-   "doc_line_end": 93
+   "doc_line_start": 63,
+   "doc_line_end": 91
   },
   {
    "page": 4,
@@ -116,8 +116,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 95,
-   "doc_line_end": 136
+   "doc_line_start": 92,
+   "doc_line_end": 133
   }
  ],
  "mentions": [
@@ -128,7 +128,8 @@
    "surface": "Lombardin",
    "page": 2,
    "page_id": "",
-   "line": 20426
+   "line": 20426,
+   "doc_line": 37
   },
   {
    "entity": "beugelin",
@@ -137,7 +138,8 @@
    "surface": "Beugelin",
    "page": 2,
    "page_id": "",
-   "line": 20427
+   "line": 20427,
+   "doc_line": 38
   },
   {
    "entity": "hardenberg",
@@ -146,7 +148,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 20468
+   "line": 20468,
+   "doc_line": 78
   },
   {
    "entity": "pourtales",
@@ -155,7 +158,8 @@
    "surface": "Pourtal",
    "page": 4,
    "page_id": "",
-   "line": 20506
+   "line": 20506,
+   "doc_line": 115
   },
   {
    "entity": "zerboni",
@@ -164,7 +168,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 20509
+   "line": 20509,
+   "doc_line": 118
   },
   {
    "entity": "triebenfeld",
@@ -173,7 +178,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 20524
+   "line": 20524,
+   "doc_line": 133
   }
  ],
  "mentions_english": [],

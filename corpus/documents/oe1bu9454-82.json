@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 31
+   "doc_line_start": 22,
+   "doc_line_end": 30
   }
  ],
  "mentions": [
@@ -81,7 +81,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6622
+   "line": 6622,
+   "doc_line": 3
   },
   {
    "entity": "triebenfeld",
@@ -90,7 +91,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6636
+   "line": 6636,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -99,7 +101,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6640
+   "line": 6640,
+   "doc_line": 21
   },
   {
    "entity": "eysenhardt",
@@ -108,7 +111,8 @@
    "surface": "Eysenhardt",
    "page": 2,
    "page_id": "",
-   "line": 6650
+   "line": 6650,
+   "doc_line": 30
   }
  ],
  "mentions_english": [],

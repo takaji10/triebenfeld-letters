@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 54
+   "doc_line_start": 25,
+   "doc_line_end": 53
   },
   {
    "page": 3,
@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 85
+   "doc_line_start": 54,
+   "doc_line_end": 83
   }
  ],
  "mentions": [
@@ -106,7 +106,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4997
+   "line": 4997,
+   "doc_line": 3
   },
   {
    "entity": "lombardini",
@@ -115,7 +116,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 5006
+   "line": 5006,
+   "doc_line": 12
   },
   {
    "entity": "lahr",
@@ -124,7 +126,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 5035
+   "line": 5035,
+   "doc_line": 40
   },
   {
    "entity": "zastrow",
@@ -133,7 +136,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 5040
+   "line": 5040,
+   "doc_line": 45
   },
   {
    "entity": "lahr",
@@ -142,7 +146,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 5046
+   "line": 5046,
+   "doc_line": 51
   },
   {
    "entity": "lahr",
@@ -151,7 +156,8 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
-   "line": 5050
+   "line": 5050,
+   "doc_line": 54
   },
   {
    "entity": "sacken",
@@ -160,7 +166,8 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
-   "line": 5076
+   "line": 5076,
+   "doc_line": 80
   },
   {
    "entity": "triebenfeld",
@@ -169,7 +176,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 5078
+   "line": 5078,
+   "doc_line": 82
   }
  ],
  "mentions_english": [],

@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 65
+   "doc_line_start": 27,
+   "doc_line_end": 64
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 3604
+   "line": 3604,
+   "doc_line": 3
   },
   {
    "entity": "hawich",
@@ -97,7 +98,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 3614
+   "line": 3614,
+   "doc_line": 13
   },
   {
    "entity": "oppenheimer",
@@ -106,7 +108,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 3617
+   "line": 3617,
+   "doc_line": 16
   },
   {
    "entity": "honrichs",
@@ -115,7 +118,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 3620
+   "line": 3620,
+   "doc_line": 19
   },
   {
    "entity": "hawich",
@@ -124,7 +128,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 3622
+   "line": 3622,
+   "doc_line": 21
   },
   {
    "entity": "niedzewiecki",
@@ -133,7 +138,8 @@
    "surface": "Niedzew",
    "page": 1,
    "page_id": "",
-   "line": 3625
+   "line": 3625,
+   "doc_line": 24
   },
   {
    "entity": "honrichs",
@@ -142,7 +148,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 3629
+   "line": 3629,
+   "doc_line": 27
   },
   {
    "entity": "honrichs",
@@ -151,7 +158,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 3630
+   "line": 3630,
+   "doc_line": 28
   },
   {
    "entity": "hawich",
@@ -160,7 +168,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 3642
+   "line": 3642,
+   "doc_line": 40
   },
   {
    "entity": "hawich",
@@ -169,7 +178,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 3647
+   "line": 3647,
+   "doc_line": 45
   },
   {
    "entity": "lahr",
@@ -178,7 +188,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 3651
+   "line": 3651,
+   "doc_line": 49
   },
   {
    "entity": "hawich",
@@ -187,7 +198,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 3652
+   "line": 3652,
+   "doc_line": 50
   },
   {
    "entity": "triebenfeld",
@@ -196,7 +208,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 3666
+   "line": 3666,
+   "doc_line": 64
   }
  ],
  "mentions_english": [],

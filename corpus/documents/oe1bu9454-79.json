@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 48
+   "doc_line_start": 26,
+   "doc_line_end": 47
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 50,
-   "doc_line_end": 74
+   "doc_line_start": 48,
+   "doc_line_end": 72
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 76,
-   "doc_line_end": 107
+   "doc_line_start": 73,
+   "doc_line_end": 104
   }
  ],
  "mentions": [
@@ -124,7 +124,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6455
+   "line": 6455,
+   "doc_line": 4
   },
   {
    "entity": "schulenburg",
@@ -133,7 +134,8 @@
    "surface": "Schulemburg",
    "page": 1,
    "page_id": "",
-   "line": 6459
+   "line": 6459,
+   "doc_line": 8
   },
   {
    "entity": "schulenburg",
@@ -142,7 +144,8 @@
    "surface": "Schulemburg",
    "page": 1,
    "page_id": "",
-   "line": 6464
+   "line": 6464,
+   "doc_line": 13
   },
   {
    "entity": "hoym",
@@ -151,7 +154,8 @@
    "surface": "Hoym",
    "page": 1,
    "page_id": "",
-   "line": 6465
+   "line": 6465,
+   "doc_line": 14
   },
   {
    "entity": "struensee",
@@ -160,7 +164,8 @@
    "surface": "Struensee",
    "page": 2,
    "page_id": "",
-   "line": 6483
+   "line": 6483,
+   "doc_line": 31
   },
   {
    "entity": "beyhm",
@@ -169,7 +174,8 @@
    "surface": "Beyhm",
    "page": 2,
    "page_id": "",
-   "line": 6485
+   "line": 6485,
+   "doc_line": 33
   },
   {
    "entity": "michaelis",
@@ -178,7 +184,8 @@
    "surface": "Michaelis",
    "page": 2,
    "page_id": "",
-   "line": 6497
+   "line": 6497,
+   "doc_line": 45
   },
   {
    "entity": "michaelis",
@@ -187,7 +194,8 @@
    "surface": "Michaelis",
    "page": 2,
    "page_id": "",
-   "line": 6498
+   "line": 6498,
+   "doc_line": 46
   },
   {
    "entity": "beyhm",
@@ -196,7 +204,8 @@
    "surface": "Beyhm",
    "page": 3,
    "page_id": "",
-   "line": 6504
+   "line": 6504,
+   "doc_line": 51
   },
   {
    "entity": "koeckritz",
@@ -205,7 +214,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 6511
+   "line": 6511,
+   "doc_line": 58
   },
   {
    "entity": "zastrow",
@@ -214,7 +224,8 @@
    "surface": "Zastrow",
    "page": 3,
    "page_id": "",
-   "line": 6511
+   "line": 6511,
+   "doc_line": 58
   },
   {
    "entity": "struensee",
@@ -223,7 +234,8 @@
    "surface": "Struensee",
    "page": 3,
    "page_id": "",
-   "line": 6512
+   "line": 6512,
+   "doc_line": 59
   },
   {
    "entity": "haugwitz",
@@ -232,7 +244,8 @@
    "surface": "Haugwitz",
    "page": 3,
    "page_id": "",
-   "line": 6513
+   "line": 6513,
+   "doc_line": 60
   },
   {
    "entity": "schulenburg",
@@ -241,7 +254,8 @@
    "surface": "Schulemburg",
    "page": 3,
    "page_id": "",
-   "line": 6517
+   "line": 6517,
+   "doc_line": 64
   },
   {
    "entity": "hoym",
@@ -250,7 +264,8 @@
    "surface": "Hoym",
    "page": 3,
    "page_id": "",
-   "line": 6518
+   "line": 6518,
+   "doc_line": 65
   },
   {
    "entity": "schulenburg",
@@ -259,7 +274,8 @@
    "surface": "Schulemburg",
    "page": 3,
    "page_id": "",
-   "line": 6521
+   "line": 6521,
+   "doc_line": 68
   },
   {
    "entity": "goldbeck",
@@ -268,7 +284,8 @@
    "surface": "Goldbeck",
    "page": 3,
    "page_id": "",
-   "line": 6524
+   "line": 6524,
+   "doc_line": 71
   },
   {
    "entity": "schulenburg",
@@ -277,7 +294,8 @@
    "surface": "Schulemburg",
    "page": 3,
    "page_id": "",
-   "line": 6525
+   "line": 6525,
+   "doc_line": 72
   },
   {
    "entity": "schulenburg",
@@ -286,7 +304,8 @@
    "surface": "Schulemburg",
    "page": 4,
    "page_id": "",
-   "line": 6530
+   "line": 6530,
+   "doc_line": 76
   },
   {
    "entity": "hoym",
@@ -295,7 +314,8 @@
    "surface": "Hoym",
    "page": 4,
    "page_id": "",
-   "line": 6535
+   "line": 6535,
+   "doc_line": 81
   },
   {
    "entity": "struensee",
@@ -304,7 +324,8 @@
    "surface": "Struensee",
    "page": 4,
    "page_id": "",
-   "line": 6536
+   "line": 6536,
+   "doc_line": 82
   },
   {
    "entity": "koeckritz",
@@ -313,7 +334,8 @@
    "surface": "Köckritz",
    "page": 4,
    "page_id": "",
-   "line": 6540
+   "line": 6540,
+   "doc_line": 86
   },
   {
    "entity": "hoym",
@@ -322,7 +344,8 @@
    "surface": "Hoym",
    "page": 4,
    "page_id": "",
-   "line": 6541
+   "line": 6541,
+   "doc_line": 87
   },
   {
    "entity": "michaelis",
@@ -331,7 +354,8 @@
    "surface": "Michaelis",
    "page": 4,
    "page_id": "",
-   "line": 6549
+   "line": 6549,
+   "doc_line": 95
   },
   {
    "entity": "triebenfeld",
@@ -340,7 +364,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 6558
+   "line": 6558,
+   "doc_line": 104
   }
  ],
  "mentions_english": [],

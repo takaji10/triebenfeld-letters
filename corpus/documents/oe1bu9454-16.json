@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 50
+   "doc_line_start": 26,
+   "doc_line_end": 49
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 848
+   "line": 848,
+   "doc_line": 22
   },
   {
    "entity": "triebenfeld",
@@ -94,7 +95,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 876
+   "line": 876,
+   "doc_line": 49
   }
  ],
  "mentions_english": [],

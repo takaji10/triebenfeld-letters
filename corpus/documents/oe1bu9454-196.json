@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 20,
-   "doc_line_end": 39
+   "doc_line_start": 19,
+   "doc_line_end": 38
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 41,
-   "doc_line_end": 67
+   "doc_line_start": 39,
+   "doc_line_end": 65
   }
  ],
  "mentions": [
@@ -101,7 +101,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 14102
+   "line": 14102,
+   "doc_line": 5
   },
   {
    "entity": "michaelis",
@@ -110,7 +111,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 14104
+   "line": 14104,
+   "doc_line": 7
   },
   {
    "entity": "flesch",
@@ -119,7 +121,8 @@
    "surface": "Flesch",
    "page": 1,
    "page_id": "",
-   "line": 14112
+   "line": 14112,
+   "doc_line": 15
   },
   {
    "entity": "lahr",
@@ -128,7 +131,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 14117
+   "line": 14117,
+   "doc_line": 19
   },
   {
    "entity": "napoleon",
@@ -137,7 +141,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 14131
+   "line": 14131,
+   "doc_line": 33
   },
   {
    "entity": "hardenberg",
@@ -146,7 +151,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 14140
+   "line": 14140,
+   "doc_line": 41
   },
   {
    "entity": "napoleon",
@@ -155,7 +161,8 @@
    "surface": "Napoleon",
    "page": 3,
    "page_id": "",
-   "line": 14143
+   "line": 14143,
+   "doc_line": 44
   },
   {
    "entity": "napoleon",
@@ -164,7 +171,8 @@
    "surface": "Napoleon",
    "page": 3,
    "page_id": "",
-   "line": 14146
+   "line": 14146,
+   "doc_line": 47
   },
   {
    "entity": "flesch",
@@ -173,7 +181,8 @@
    "surface": "Flesch",
    "page": 3,
    "page_id": "",
-   "line": 14157
+   "line": 14157,
+   "doc_line": 58
   },
   {
    "entity": "triebenfeld",
@@ -182,7 +191,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 14164
+   "line": 14164,
+   "doc_line": 65
   }
  ],
  "mentions_english": [],

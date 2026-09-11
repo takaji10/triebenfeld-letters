@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 33
+   "doc_line_start": 22,
+   "doc_line_end": 32
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 3429
+   "line": 3429,
+   "doc_line": 2
   },
   {
    "entity": "amelang",
@@ -91,7 +92,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 3460
+   "line": 3460,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

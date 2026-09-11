@@ -74,7 +74,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 20179
+   "line": 20179,
+   "doc_line": 2
   },
   {
    "entity": "prusimski",
@@ -83,7 +84,8 @@
    "surface": "Prussiemski",
    "page": 1,
    "page_id": "",
-   "line": 20180
+   "line": 20180,
+   "doc_line": 3
   },
   {
    "entity": "prusimski",
@@ -92,7 +94,8 @@
    "surface": "Prussiemski",
    "page": 1,
    "page_id": "",
-   "line": 20181
+   "line": 20181,
+   "doc_line": 4
   },
   {
    "entity": "broniewski",
@@ -101,7 +104,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 20182
+   "line": 20182,
+   "doc_line": 5
   },
   {
    "entity": "broniewski",
@@ -110,7 +114,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 20186
+   "line": 20186,
+   "doc_line": 9
   },
   {
    "entity": "broniewski",
@@ -119,7 +124,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 20188
+   "line": 20188,
+   "doc_line": 11
   },
   {
    "entity": "bernhard",
@@ -128,7 +134,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 20196
+   "line": 20196,
+   "doc_line": 19
   },
   {
    "entity": "leixner",
@@ -137,7 +144,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 20196
+   "line": 20196,
+   "doc_line": 19
   },
   {
    "entity": "prusimska",
@@ -146,7 +154,8 @@
    "surface": "Prusimska",
    "page": 1,
    "page_id": "",
-   "line": 20204
+   "line": 20204,
+   "doc_line": 27
   },
   {
    "entity": "lichnowski",
@@ -155,7 +164,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 20222
+   "line": 20222,
+   "doc_line": 45
   },
   {
    "entity": "weigel",
@@ -164,7 +174,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 20223
+   "line": 20223,
+   "doc_line": 46
   },
   {
    "entity": "grotowski",
@@ -173,7 +184,8 @@
    "surface": "Grotowski",
    "page": 1,
    "page_id": "",
-   "line": 20224
+   "line": 20224,
+   "doc_line": 47
   },
   {
    "entity": "zerboni",
@@ -182,7 +194,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 20226
+   "line": 20226,
+   "doc_line": 49
   },
   {
    "entity": "lichnowski",
@@ -191,7 +204,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 20229
+   "line": 20229,
+   "doc_line": 52
   },
   {
    "entity": "weigel",
@@ -200,7 +214,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 20230
+   "line": 20230,
+   "doc_line": 53
   },
   {
    "entity": "prusimska",
@@ -209,7 +224,8 @@
    "surface": "Prusimska",
    "page": 1,
    "page_id": "",
-   "line": 20235
+   "line": 20235,
+   "doc_line": 58
   }
  ],
  "mentions_english": [],

@@ -62,7 +62,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 720
+   "line": 720,
+   "doc_line": 2
   },
   {
    "entity": "cosmar",
@@ -71,7 +72,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 725
+   "line": 725,
+   "doc_line": 7
   },
   {
    "entity": "eberhard",
@@ -80,7 +82,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 745
+   "line": 745,
+   "doc_line": 27
   },
   {
    "entity": "eberhard",
@@ -89,7 +92,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 748
+   "line": 748,
+   "doc_line": 30
   }
  ],
  "mentions_english": [],

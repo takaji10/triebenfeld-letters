@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 48
+   "doc_line_start": 24,
+   "doc_line_end": 47
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Winzingerode",
    "page": 1,
    "page_id": "",
-   "line": 18695
+   "line": 18695,
+   "doc_line": 11
   },
   {
    "entity": "goeschel",
@@ -93,7 +94,8 @@
    "surface": "Göschel",
    "page": 1,
    "page_id": "",
-   "line": 18697
+   "line": 18697,
+   "doc_line": 13
   },
   {
    "entity": "lombardini",
@@ -102,7 +104,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 18700
+   "line": 18700,
+   "doc_line": 16
   },
   {
    "entity": "eberhard",
@@ -111,7 +114,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 18702
+   "line": 18702,
+   "doc_line": 18
   },
   {
    "entity": "eberhardt",
@@ -120,7 +124,8 @@
    "surface": "Eberhardt",
    "page": 1,
    "page_id": "",
-   "line": 18702
+   "line": 18702,
+   "doc_line": 18
   },
   {
    "entity": "triebenfeld",
@@ -129,7 +134,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18732
+   "line": 18732,
+   "doc_line": 47
   }
  ],
  "mentions_english": [],

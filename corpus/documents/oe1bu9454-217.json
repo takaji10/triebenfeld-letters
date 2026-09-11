@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 45
+   "doc_line_start": 23,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -87,8 +87,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 67
+   "doc_line_start": 45,
+   "doc_line_end": 65
   },
   {
    "page": 4,
@@ -109,8 +109,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 69,
-   "doc_line_end": 86
+   "doc_line_start": 66,
+   "doc_line_end": 83
   }
  ],
  "mentions": [
@@ -121,7 +121,8 @@
    "surface": "Dąbska",
    "page": 2,
    "page_id": "",
-   "line": 15674
+   "line": 15674,
+   "doc_line": 37
   },
   {
    "entity": "prusimska",
@@ -130,7 +131,8 @@
    "surface": "Dąbska",
    "page": 2,
    "page_id": "",
-   "line": 15679
+   "line": 15679,
+   "doc_line": 42
   },
   {
    "entity": "august",
@@ -139,7 +141,8 @@
    "surface": "August",
    "page": 4,
    "page_id": "",
-   "line": 15717
+   "line": 15717,
+   "doc_line": 78
   }
  ],
  "mentions_english": [],

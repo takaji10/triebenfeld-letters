@@ -61,7 +61,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14793
+   "line": 14793,
+   "doc_line": 5
   },
   {
    "entity": "triebenfeld",
@@ -70,7 +71,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14798
+   "line": 14798,
+   "doc_line": 10
   }
  ],
  "mentions_english": [],

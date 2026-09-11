@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 48
+   "doc_line_start": 21,
+   "doc_line_end": 47
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "Wollenhaupt",
    "page": 1,
    "page_id": "",
-   "line": 10952
+   "line": 10952,
+   "doc_line": 8
   },
   {
    "entity": "lichnowski",
@@ -94,7 +95,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 10953
+   "line": 10953,
+   "doc_line": 9
   },
   {
    "entity": "grimm",
@@ -103,7 +105,8 @@
    "surface": "Grimm",
    "page": 1,
    "page_id": "",
-   "line": 10955
+   "line": 10955,
+   "doc_line": 11
   },
   {
    "entity": "magnuski",
@@ -112,7 +115,8 @@
    "surface": "Magnuski",
    "page": 1,
    "page_id": "",
-   "line": 10955
+   "line": 10955,
+   "doc_line": 11
   },
   {
    "entity": "przespolewski",
@@ -121,7 +125,8 @@
    "surface": "Przespolewski",
    "page": 1,
    "page_id": "",
-   "line": 10958
+   "line": 10958,
+   "doc_line": 14
   },
   {
    "entity": "magnuski",
@@ -130,7 +135,8 @@
    "surface": "Magnuski",
    "page": 1,
    "page_id": "",
-   "line": 10959
+   "line": 10959,
+   "doc_line": 15
   },
   {
    "entity": "blomberg",
@@ -139,7 +145,8 @@
    "surface": "Blomberg",
    "page": 1,
    "page_id": "",
-   "line": 10963
+   "line": 10963,
+   "doc_line": 19
   },
   {
    "entity": "blomberg",
@@ -148,7 +155,8 @@
    "surface": "Blomberg",
    "page": 2,
    "page_id": "",
-   "line": 10968
+   "line": 10968,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -157,7 +165,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 10992
+   "line": 10992,
+   "doc_line": 47
   }
  ],
  "mentions_english": [],

@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 20,
-   "doc_line_end": 42
+   "doc_line_start": 19,
+   "doc_line_end": 41
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 17389
+   "line": 17389,
+   "doc_line": 5
   },
   {
    "entity": "bulow",
@@ -91,7 +92,8 @@
    "surface": "Bülow",
    "page": 1,
    "page_id": "",
-   "line": 17402
+   "line": 17402,
+   "doc_line": 18
   },
   {
    "entity": "napoleon",
@@ -100,7 +102,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 17407
+   "line": 17407,
+   "doc_line": 22
   },
   {
    "entity": "gneizenau",
@@ -109,7 +112,8 @@
    "surface": "Gneizenau",
    "page": 2,
    "page_id": "",
-   "line": 17414
+   "line": 17414,
+   "doc_line": 29
   },
   {
    "entity": "hardenberg",
@@ -118,7 +122,8 @@
    "surface": "Hard:",
    "page": 2,
    "page_id": "",
-   "line": 17417
+   "line": 17417,
+   "doc_line": 32
   },
   {
    "entity": "kleist",
@@ -127,7 +132,8 @@
    "surface": "Kleist",
    "page": 2,
    "page_id": "",
-   "line": 17420
+   "line": 17420,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -136,7 +142,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17426
+   "line": 17426,
+   "doc_line": 41
   }
  ],
  "mentions_english": [],

@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 62
+   "doc_line_start": 30,
+   "doc_line_end": 61
   },
   {
    "page": 3,
@@ -95,8 +95,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 64,
-   "doc_line_end": 91
+   "doc_line_start": 62,
+   "doc_line_end": 89
   },
   {
    "page": 4,
@@ -114,8 +114,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 93,
-   "doc_line_end": 119
+   "doc_line_start": 90,
+   "doc_line_end": 116
   },
   {
    "page": 5,
@@ -134,8 +134,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 121,
-   "doc_line_end": 144
+   "doc_line_start": 117,
+   "doc_line_end": 140
   },
   {
    "page": 6,
@@ -157,8 +157,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 146,
-   "doc_line_end": 177
+   "doc_line_start": 141,
+   "doc_line_end": 172
   },
   {
    "page": 7,
@@ -179,8 +179,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 179,
-   "doc_line_end": 206
+   "doc_line_start": 173,
+   "doc_line_end": 200
   },
   {
    "page": 8,
@@ -199,8 +199,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 208,
-   "doc_line_end": 235
+   "doc_line_start": 201,
+   "doc_line_end": 228
   },
   {
    "page": 9,
@@ -218,8 +218,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 237,
-   "doc_line_end": 262
+   "doc_line_start": 229,
+   "doc_line_end": 254
   },
   {
    "page": 10,
@@ -238,8 +238,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 264,
-   "doc_line_end": 287
+   "doc_line_start": 255,
+   "doc_line_end": 278
   },
   {
    "page": 11,
@@ -260,8 +260,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 289,
-   "doc_line_end": 314
+   "doc_line_start": 279,
+   "doc_line_end": 304
   },
   {
    "page": 12,
@@ -279,8 +279,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 316,
-   "doc_line_end": 342
+   "doc_line_start": 305,
+   "doc_line_end": 331
   },
   {
    "page": 13,
@@ -300,8 +300,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 344,
-   "doc_line_end": 369
+   "doc_line_start": 332,
+   "doc_line_end": 357
   },
   {
    "page": 14,
@@ -319,8 +319,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 371,
-   "doc_line_end": 392
+   "doc_line_start": 358,
+   "doc_line_end": 379
   },
   {
    "page": 15,
@@ -339,8 +339,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 394,
-   "doc_line_end": 414
+   "doc_line_start": 380,
+   "doc_line_end": 400
   },
   {
    "page": 16,
@@ -358,8 +358,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 416,
-   "doc_line_end": 436
+   "doc_line_start": 401,
+   "doc_line_end": 421
   },
   {
    "page": 17,
@@ -381,8 +381,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 438,
-   "doc_line_end": 458
+   "doc_line_start": 422,
+   "doc_line_end": 442
   },
   {
    "page": 18,
@@ -401,8 +401,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 460,
-   "doc_line_end": 480
+   "doc_line_start": 443,
+   "doc_line_end": 463
   },
   {
    "page": 19,
@@ -428,8 +428,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 482,
-   "doc_line_end": 504
+   "doc_line_start": 464,
+   "doc_line_end": 486
   }
  ],
  "mentions": [
@@ -440,7 +440,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6312
+   "line": 6312,
+   "doc_line": 7
   },
   {
    "entity": "glenck",
@@ -449,7 +450,8 @@
    "surface": "Glenk",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6314
+   "line": 6314,
+   "doc_line": 9
   },
   {
    "entity": "mlynkiewicz",
@@ -458,7 +460,8 @@
    "surface": "Młynkiewicz",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6320
+   "line": 6320,
+   "doc_line": 15
   },
   {
    "entity": "chmara",
@@ -467,7 +470,8 @@
    "surface": "Chmara",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6321
+   "line": 6321,
+   "doc_line": 16
   },
   {
    "entity": "hohenlohe",
@@ -476,7 +480,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6329
+   "line": 6329,
+   "doc_line": 24
   },
   {
    "entity": "glenck",
@@ -485,7 +490,8 @@
    "surface": "Glenk",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6330
+   "line": 6330,
+   "doc_line": 25
   },
   {
    "entity": "triebenfeld",
@@ -494,7 +500,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0123_b",
-   "line": 6333
+   "line": 6333,
+   "doc_line": 28
   },
   {
    "entity": "mlynkiewicz",
@@ -503,7 +510,8 @@
    "surface": "Młynkiewicz",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6339
+   "line": 6339,
+   "doc_line": 33
   },
   {
    "entity": "chmara",
@@ -512,7 +520,8 @@
    "surface": "Chmara",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6341
+   "line": 6341,
+   "doc_line": 35
   },
   {
    "entity": "hohenlohe",
@@ -521,7 +530,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6347
+   "line": 6347,
+   "doc_line": 41
   },
   {
    "entity": "hohenlohe",
@@ -530,7 +540,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6351
+   "line": 6351,
+   "doc_line": 45
   },
   {
    "entity": "glenck",
@@ -539,7 +550,8 @@
    "surface": "Glenk",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6352
+   "line": 6352,
+   "doc_line": 46
   },
   {
    "entity": "hohenlohe",
@@ -548,7 +560,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6353
+   "line": 6353,
+   "doc_line": 47
   },
   {
    "entity": "mlynkiewicz",
@@ -557,7 +570,8 @@
    "surface": "Młynkiewicz",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6358
+   "line": 6358,
+   "doc_line": 52
   },
   {
    "entity": "hohenlohe",
@@ -566,7 +580,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6362
+   "line": 6362,
+   "doc_line": 56
   },
   {
    "entity": "chmara",
@@ -575,7 +590,8 @@
    "surface": "Chmara",
    "page": 2,
    "page_id": "0124_a1",
-   "line": 6366
+   "line": 6366,
+   "doc_line": 60
   },
   {
    "entity": "mlynkiewicz",
@@ -584,7 +600,8 @@
    "surface": "Młynkiewicz",
    "page": 3,
    "page_id": "0124_a2",
-   "line": 6373
+   "line": 6373,
+   "doc_line": 66
   },
   {
    "entity": "hohenlohe",
@@ -593,7 +610,8 @@
    "surface": "Hohenlohe",
    "page": 3,
    "page_id": "0124_a2",
-   "line": 6384
+   "line": 6384,
+   "doc_line": 77
   },
   {
    "entity": "hohenlohe",
@@ -602,7 +620,8 @@
    "surface": "Hohenlohe",
    "page": 4,
    "page_id": "0125_a1",
-   "line": 6402
+   "line": 6402,
+   "doc_line": 94
   },
   {
    "entity": "glenck",
@@ -611,7 +630,8 @@
    "surface": "Glenk",
    "page": 5,
    "page_id": "0125_a2",
-   "line": 6441
+   "line": 6441,
+   "doc_line": 132
   },
   {
    "entity": "nathan",
@@ -620,7 +640,8 @@
    "surface": "Nathan",
    "page": 5,
    "page_id": "0125_a2",
-   "line": 6444
+   "line": 6444,
+   "doc_line": 135
   },
   {
    "entity": "meyer",
@@ -629,7 +650,8 @@
    "surface": "Meyer",
    "page": 5,
    "page_id": "0125_a2",
-   "line": 6446
+   "line": 6446,
+   "doc_line": 137
   },
   {
    "entity": "bernhard",
@@ -638,7 +660,8 @@
    "surface": "Bernhard",
    "page": 5,
    "page_id": "0125_a2",
-   "line": 6447
+   "line": 6447,
+   "doc_line": 138
   },
   {
    "entity": "hirschel",
@@ -647,7 +670,8 @@
    "surface": "Hirschel",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6454
+   "line": 6454,
+   "doc_line": 144
   },
   {
    "entity": "bernhard",
@@ -656,7 +680,8 @@
    "surface": "Bernhard",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6460
+   "line": 6460,
+   "doc_line": 150
   },
   {
    "entity": "meyer",
@@ -665,7 +690,8 @@
    "surface": "Meyer",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6460
+   "line": 6460,
+   "doc_line": 150
   },
   {
    "entity": "michaelis",
@@ -674,7 +700,8 @@
    "surface": "Michaelis",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6465
+   "line": 6465,
+   "doc_line": 155
   },
   {
    "entity": "glenck",
@@ -683,7 +710,8 @@
    "surface": "Glenk",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6469
+   "line": 6469,
+   "doc_line": 159
   },
   {
    "entity": "bernhard",
@@ -692,7 +720,8 @@
    "surface": "Bernhard",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6471
+   "line": 6471,
+   "doc_line": 161
   },
   {
    "entity": "meyer",
@@ -701,7 +730,8 @@
    "surface": "Meyer",
    "page": 6,
    "page_id": "0126_a1",
-   "line": 6471
+   "line": 6471,
+   "doc_line": 161
   },
   {
    "entity": "meyer",
@@ -710,7 +740,8 @@
    "surface": "Meyer",
    "page": 7,
    "page_id": "0126_a2",
-   "line": 6486
+   "line": 6486,
+   "doc_line": 175
   },
   {
    "entity": "bernhard",
@@ -719,7 +750,8 @@
    "surface": "Bernhard",
    "page": 7,
    "page_id": "0126_a2",
-   "line": 6487
+   "line": 6487,
+   "doc_line": 176
   },
   {
    "entity": "august",
@@ -728,7 +760,8 @@
    "surface": "August",
    "page": 8,
    "page_id": "0127_a1",
-   "line": 6517
+   "line": 6517,
+   "doc_line": 205
   },
   {
    "entity": "august",
@@ -737,7 +770,8 @@
    "surface": "August",
    "page": 8,
    "page_id": "0127_a1",
-   "line": 6524
+   "line": 6524,
+   "doc_line": 212
   },
   {
    "entity": "born",
@@ -746,7 +780,8 @@
    "surface": "Born",
    "page": 8,
    "page_id": "0127_a1",
-   "line": 6525
+   "line": 6525,
+   "doc_line": 213
   },
   {
    "entity": "hohenlohe",
@@ -755,7 +790,8 @@
    "surface": "Hohenlohe",
    "page": 9,
    "page_id": "0127_a2",
-   "line": 6545
+   "line": 6545,
+   "doc_line": 232
   },
   {
    "entity": "hohenlohe",
@@ -764,7 +800,8 @@
    "surface": "Hohenlohe",
    "page": 9,
    "page_id": "0127_a2",
-   "line": 6561
+   "line": 6561,
+   "doc_line": 248
   },
   {
    "entity": "hohenlohe",
@@ -773,7 +810,8 @@
    "surface": "Hohenlohe",
    "page": 11,
    "page_id": "0128_a2",
-   "line": 6617
+   "line": 6617,
+   "doc_line": 302
   },
   {
    "entity": "hohenlohe",
@@ -782,7 +820,8 @@
    "surface": "Hohenlohe",
    "page": 12,
    "page_id": "0129_a1",
-   "line": 6621
+   "line": 6621,
+   "doc_line": 305
   },
   {
    "entity": "schmaling",
@@ -791,7 +830,8 @@
    "surface": "Schmaling",
    "page": 12,
    "page_id": "0129_a1",
-   "line": 6623
+   "line": 6623,
+   "doc_line": 307
   },
   {
    "entity": "hohenlohe",
@@ -800,7 +840,8 @@
    "surface": "Hohenlohe",
    "page": 12,
    "page_id": "0129_a1",
-   "line": 6625
+   "line": 6625,
+   "doc_line": 309
   },
   {
    "entity": "hohenlohe",
@@ -809,7 +850,8 @@
    "surface": "Hohenlohe",
    "page": 12,
    "page_id": "0129_a1",
-   "line": 6627
+   "line": 6627,
+   "doc_line": 311
   },
   {
    "entity": "hohenlohe",
@@ -818,7 +860,8 @@
    "surface": "Hohenlohe",
    "page": 13,
    "page_id": "0129_a2",
-   "line": 6649
+   "line": 6649,
+   "doc_line": 332
   },
   {
    "entity": "born",
@@ -827,7 +870,8 @@
    "surface": "Born",
    "page": 13,
    "page_id": "0129_a2",
-   "line": 6671
+   "line": 6671,
+   "doc_line": 354
   },
   {
    "entity": "bornstaedt",
@@ -836,7 +880,8 @@
    "surface": "Bornstaet",
    "page": 13,
    "page_id": "0129_a2",
-   "line": 6671
+   "line": 6671,
+   "doc_line": 354
   },
   {
    "entity": "feller",
@@ -845,7 +890,8 @@
    "surface": "Feller",
    "page": 16,
    "page_id": "0131_a1",
-   "line": 6726
+   "line": 6726,
+   "doc_line": 406
   },
   {
    "entity": "echaust",
@@ -854,7 +900,8 @@
    "surface": "Echaust",
    "page": 16,
    "page_id": "0131_a1",
-   "line": 6737
+   "line": 6737,
+   "doc_line": 417
   },
   {
    "entity": "glenck",
@@ -863,7 +910,8 @@
    "surface": "Glenk",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6747
+   "line": 6747,
+   "doc_line": 426
   },
   {
    "entity": "hohenlohe",
@@ -872,7 +920,8 @@
    "surface": "Hohenlohe",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6748
+   "line": 6748,
+   "doc_line": 427
   },
   {
    "entity": "august",
@@ -881,7 +930,8 @@
    "surface": "August",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6749
+   "line": 6749,
+   "doc_line": 428
   },
   {
    "entity": "triebenfeld",
@@ -890,7 +940,8 @@
    "surface": "Triebenfeld",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6749
+   "line": 6749,
+   "doc_line": 428
   },
   {
    "entity": "chmara",
@@ -899,7 +950,8 @@
    "surface": "Chmara",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6750
+   "line": 6750,
+   "doc_line": 429
   },
   {
    "entity": "mlynkiewicz",
@@ -908,7 +960,8 @@
    "surface": "Młynkiewicz",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6751
+   "line": 6751,
+   "doc_line": 430
   },
   {
    "entity": "echaust",
@@ -917,7 +970,8 @@
    "surface": "Echaust",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6753
+   "line": 6753,
+   "doc_line": 432
   },
   {
    "entity": "metzig",
@@ -926,7 +980,8 @@
    "surface": "Metzig",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6754
+   "line": 6754,
+   "doc_line": 433
   },
   {
    "entity": "neumann",
@@ -935,7 +990,8 @@
    "surface": "Neumann",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6756
+   "line": 6756,
+   "doc_line": 435
   },
   {
    "entity": "glenck",
@@ -944,7 +1000,8 @@
    "surface": "Glenk",
    "page": 17,
    "page_id": "0131_a2",
-   "line": 6762
+   "line": 6762,
+   "doc_line": 441
   },
   {
    "entity": "chmara",
@@ -953,7 +1010,8 @@
    "surface": "Chmara",
    "page": 18,
    "page_id": "0132_a1",
-   "line": 6766
+   "line": 6766,
+   "doc_line": 444
   },
   {
    "entity": "mlynkiewicz",
@@ -962,7 +1020,8 @@
    "surface": "Młynkiewicz",
    "page": 18,
    "page_id": "0132_a1",
-   "line": 6766
+   "line": 6766,
+   "doc_line": 444
   },
   {
    "entity": "hohenlohe",
@@ -971,7 +1030,8 @@
    "surface": "Hohenlohe",
    "page": 18,
    "page_id": "0132_a1",
-   "line": 6772
+   "line": 6772,
+   "doc_line": 450
   },
   {
    "entity": "echaust",
@@ -980,7 +1040,8 @@
    "surface": "Echaust",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6792
+   "line": 6792,
+   "doc_line": 469
   },
   {
    "entity": "glenck",
@@ -989,7 +1050,8 @@
    "surface": "Glenk",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6794
+   "line": 6794,
+   "doc_line": 471
   },
   {
    "entity": "chmara",
@@ -998,7 +1060,8 @@
    "surface": "Chmara",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6795
+   "line": 6795,
+   "doc_line": 472
   },
   {
    "entity": "mlynkiewicz",
@@ -1007,7 +1070,8 @@
    "surface": "Młynkiewicz",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6795
+   "line": 6795,
+   "doc_line": 472
   },
   {
    "entity": "echaust",
@@ -1016,7 +1080,8 @@
    "surface": "Echaust",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6796
+   "line": 6796,
+   "doc_line": 473
   },
   {
    "entity": "metzig",
@@ -1025,7 +1090,8 @@
    "surface": "Metzig",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6797
+   "line": 6797,
+   "doc_line": 474
   },
   {
    "entity": "neumann",
@@ -1034,7 +1100,8 @@
    "surface": "Neumann",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6798
+   "line": 6798,
+   "doc_line": 475
   },
   {
    "entity": "hohenlohe",
@@ -1043,7 +1110,8 @@
    "surface": "Hohenlohe",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6804
+   "line": 6804,
+   "doc_line": 481
   },
   {
    "entity": "metzig",
@@ -1052,7 +1120,8 @@
    "surface": "Metzig",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6805
+   "line": 6805,
+   "doc_line": 482
   },
   {
    "entity": "neumann",
@@ -1061,7 +1130,8 @@
    "surface": "Neumann",
    "page": 19,
    "page_id": "0132_a2",
-   "line": 6808
+   "line": 6808,
+   "doc_line": 485
   }
  ],
  "mentions_english": [],

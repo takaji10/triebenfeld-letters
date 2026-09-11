@@ -61,7 +61,8 @@
    "surface": "Kunckel",
    "page": 1,
    "page_id": "",
-   "line": 9082
+   "line": 9082,
+   "doc_line": 2
   },
   {
    "entity": "otocki",
@@ -70,7 +71,8 @@
    "surface": "Otocki",
    "page": 1,
    "page_id": "",
-   "line": 9084
+   "line": 9084,
+   "doc_line": 4
   },
   {
    "entity": "otocki",
@@ -79,7 +81,8 @@
    "surface": "Otocki",
    "page": 1,
    "page_id": "",
-   "line": 9086
+   "line": 9086,
+   "doc_line": 6
   },
   {
    "entity": "kunckel",
@@ -88,7 +91,8 @@
    "surface": "Kunckel",
    "page": 1,
    "page_id": "",
-   "line": 9088
+   "line": 9088,
+   "doc_line": 8
   },
   {
    "entity": "kunckel",
@@ -97,7 +101,8 @@
    "surface": "Kunckel",
    "page": 1,
    "page_id": "",
-   "line": 9090
+   "line": 9090,
+   "doc_line": 10
   },
   {
    "entity": "kunckel",
@@ -106,7 +111,8 @@
    "surface": "Kunckel",
    "page": 1,
    "page_id": "",
-   "line": 9091
+   "line": 9091,
+   "doc_line": 11
   },
   {
    "entity": "glenck",
@@ -115,7 +121,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9096
+   "line": 9096,
+   "doc_line": 16
   },
   {
    "entity": "triebenfeld",
@@ -124,7 +131,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 9099
+   "line": 9099,
+   "doc_line": 19
   }
  ],
  "mentions_english": [],

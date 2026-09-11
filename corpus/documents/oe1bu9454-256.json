@@ -66,7 +66,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 18317
+   "line": 18317,
+   "doc_line": 11
   },
   {
    "entity": "kircheisen",
@@ -75,7 +76,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 18319
+   "line": 18319,
+   "doc_line": 13
   },
   {
    "entity": "staegemann",
@@ -84,7 +86,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 18335
+   "line": 18335,
+   "doc_line": 29
   },
   {
    "entity": "cosmar",
@@ -93,7 +96,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18336
+   "line": 18336,
+   "doc_line": 30
   },
   {
    "entity": "zerboni",
@@ -102,7 +106,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 18336
+   "line": 18336,
+   "doc_line": 30
   },
   {
    "entity": "triebenfeld",
@@ -111,7 +116,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18350
+   "line": 18350,
+   "doc_line": 44
   }
  ],
  "mentions_english": [],

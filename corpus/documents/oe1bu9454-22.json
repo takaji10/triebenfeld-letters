@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 47
+   "doc_line_start": 22,
+   "doc_line_end": 46
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 49,
-   "doc_line_end": 73
+   "doc_line_start": 47,
+   "doc_line_end": 71
   },
   {
    "page": 4,
@@ -114,8 +114,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 75,
-   "doc_line_end": 106
+   "doc_line_start": 72,
+   "doc_line_end": 103
   }
  ],
  "mentions": [
@@ -126,7 +126,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 1286
+   "line": 1286,
+   "doc_line": 4
   },
   {
    "entity": "oppenheimer",
@@ -135,7 +136,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 1295
+   "line": 1295,
+   "doc_line": 13
   },
   {
    "entity": "meierowitz",
@@ -144,7 +146,8 @@
    "surface": "Meierowitz",
    "page": 2,
    "page_id": "",
-   "line": 1308
+   "line": 1308,
+   "doc_line": 25
   },
   {
    "entity": "meierowitz",
@@ -153,7 +156,8 @@
    "surface": "Meierowitz",
    "page": 2,
    "page_id": "",
-   "line": 1314
+   "line": 1314,
+   "doc_line": 31
   },
   {
    "entity": "lombardini",
@@ -162,7 +166,8 @@
    "surface": "Lombardin",
    "page": 3,
    "page_id": "",
-   "line": 1339
+   "line": 1339,
+   "doc_line": 55
   },
   {
    "entity": "honrichs",
@@ -171,7 +176,8 @@
    "surface": "Honrichs",
    "page": 3,
    "page_id": "",
-   "line": 1347
+   "line": 1347,
+   "doc_line": 63
   },
   {
    "entity": "honrichs",
@@ -180,7 +186,8 @@
    "surface": "Honrichs",
    "page": 3,
    "page_id": "",
-   "line": 1347
+   "line": 1347,
+   "doc_line": 63
   },
   {
    "entity": "hawich",
@@ -189,7 +196,8 @@
    "surface": "Hawich",
    "page": 3,
    "page_id": "",
-   "line": 1349
+   "line": 1349,
+   "doc_line": 65
   },
   {
    "entity": "honrichs",
@@ -198,7 +206,8 @@
    "surface": "Honrichs",
    "page": 3,
    "page_id": "",
-   "line": 1349
+   "line": 1349,
+   "doc_line": 65
   },
   {
    "entity": "lombardini",
@@ -207,7 +216,8 @@
    "surface": "Lombardin",
    "page": 3,
    "page_id": "",
-   "line": 1354
+   "line": 1354,
+   "doc_line": 70
   },
   {
    "entity": "lombardini",
@@ -216,7 +226,8 @@
    "surface": "Lombardin",
    "page": 4,
    "page_id": "",
-   "line": 1359
+   "line": 1359,
+   "doc_line": 74
   },
   {
    "entity": "lombardini",
@@ -225,7 +236,8 @@
    "surface": "Lombardin",
    "page": 4,
    "page_id": "",
-   "line": 1367
+   "line": 1367,
+   "doc_line": 82
   },
   {
    "entity": "triebenfeld",
@@ -234,7 +246,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 1388
+   "line": 1388,
+   "doc_line": 103
   }
  ],
  "mentions_english": [],

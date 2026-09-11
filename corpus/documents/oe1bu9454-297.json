@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 59
+   "doc_line_start": 30,
+   "doc_line_end": 58
   },
   {
    "page": 3,
@@ -91,8 +91,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 61,
-   "doc_line_end": 88
+   "doc_line_start": 59,
+   "doc_line_end": 86
   },
   {
    "page": 4,
@@ -116,8 +116,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 90,
-   "doc_line_end": 126
+   "doc_line_start": 87,
+   "doc_line_end": 123
   }
  ],
  "mentions": [
@@ -128,7 +128,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 21044
+   "line": 21044,
+   "doc_line": 13
   },
   {
    "entity": "barbe",
@@ -137,7 +138,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 21045
+   "line": 21045,
+   "doc_line": 14
   },
   {
    "entity": "trzcinski",
@@ -146,7 +148,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 21047
+   "line": 21047,
+   "doc_line": 16
   },
   {
    "entity": "zerboni",
@@ -155,7 +158,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 21051
+   "line": 21051,
+   "doc_line": 20
   },
   {
    "entity": "schenck",
@@ -164,7 +168,8 @@
    "surface": "Schenck",
    "page": 2,
    "page_id": "",
-   "line": 21067
+   "line": 21067,
+   "doc_line": 35
   },
   {
    "entity": "trzcinski",
@@ -173,7 +178,8 @@
    "surface": "Trzcinski",
    "page": 2,
    "page_id": "",
-   "line": 21070
+   "line": 21070,
+   "doc_line": 38
   },
   {
    "entity": "lombardini",
@@ -182,7 +188,8 @@
    "surface": "Lombardin",
    "page": 2,
    "page_id": "",
-   "line": 21074
+   "line": 21074,
+   "doc_line": 42
   },
   {
    "entity": "zerboni",
@@ -191,7 +198,8 @@
    "surface": "Zerboni",
    "page": 2,
    "page_id": "",
-   "line": 21077
+   "line": 21077,
+   "doc_line": 45
   },
   {
    "entity": "zerboni",
@@ -200,7 +208,8 @@
    "surface": "Zerboni",
    "page": 2,
    "page_id": "",
-   "line": 21080
+   "line": 21080,
+   "doc_line": 48
   },
   {
    "entity": "leixner",
@@ -209,7 +218,8 @@
    "surface": "Leixner",
    "page": 2,
    "page_id": "",
-   "line": 21082
+   "line": 21082,
+   "doc_line": 50
   },
   {
    "entity": "echaust",
@@ -218,7 +228,8 @@
    "surface": "Eichaust",
    "page": 2,
    "page_id": "",
-   "line": 21084
+   "line": 21084,
+   "doc_line": 52
   },
   {
    "entity": "kurnatowski",
@@ -227,7 +238,8 @@
    "surface": "Kurnatowski",
    "page": 2,
    "page_id": "",
-   "line": 21084
+   "line": 21084,
+   "doc_line": 52
   },
   {
    "entity": "schenck",
@@ -236,7 +248,8 @@
    "surface": "Schenck",
    "page": 2,
    "page_id": "",
-   "line": 21085
+   "line": 21085,
+   "doc_line": 53
   },
   {
    "entity": "echaust",
@@ -245,7 +258,8 @@
    "surface": "Eichaust",
    "page": 2,
    "page_id": "",
-   "line": 21089
+   "line": 21089,
+   "doc_line": 57
   },
   {
    "entity": "zerboni",
@@ -254,7 +268,8 @@
    "surface": "Zerboni",
    "page": 2,
    "page_id": "",
-   "line": 21090
+   "line": 21090,
+   "doc_line": 58
   },
   {
    "entity": "schenck",
@@ -263,7 +278,8 @@
    "surface": "Schenck",
    "page": 3,
    "page_id": "",
-   "line": 21092
+   "line": 21092,
+   "doc_line": 59
   },
   {
    "entity": "echaust",
@@ -272,7 +288,8 @@
    "surface": "Eichaust",
    "page": 3,
    "page_id": "",
-   "line": 21102
+   "line": 21102,
+   "doc_line": 69
   },
   {
    "entity": "zerboni",
@@ -281,7 +298,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 21124
+   "line": 21124,
+   "doc_line": 90
   },
   {
    "entity": "schenck",
@@ -290,7 +308,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 21131
+   "line": 21131,
+   "doc_line": 97
   },
   {
    "entity": "schenck",
@@ -299,7 +318,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 21132
+   "line": 21132,
+   "doc_line": 98
   },
   {
    "entity": "schenck",
@@ -308,7 +328,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 21136
+   "line": 21136,
+   "doc_line": 102
   },
   {
    "entity": "leixner",
@@ -317,7 +338,8 @@
    "surface": "Leixner",
    "page": 4,
    "page_id": "",
-   "line": 21141
+   "line": 21141,
+   "doc_line": 107
   },
   {
    "entity": "zerboni",
@@ -326,7 +348,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 21142
+   "line": 21142,
+   "doc_line": 108
   },
   {
    "entity": "prusimski",
@@ -335,7 +358,8 @@
    "surface": "Prussiemski",
    "page": 4,
    "page_id": "",
-   "line": 21145
+   "line": 21145,
+   "doc_line": 111
   },
   {
    "entity": "cosmar",
@@ -344,7 +368,8 @@
    "surface": "Cosmar",
    "page": 4,
    "page_id": "",
-   "line": 21149
+   "line": 21149,
+   "doc_line": 115
   },
   {
    "entity": "triebenfeld",
@@ -353,7 +378,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 21157
+   "line": 21157,
+   "doc_line": 123
   }
  ],
  "mentions_english": [],

@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 37,
-   "doc_line_end": 68
+   "doc_line_start": 36,
+   "doc_line_end": 67
   },
   {
    "page": 3,
@@ -95,8 +95,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 70,
-   "doc_line_end": 95
+   "doc_line_start": 68,
+   "doc_line_end": 93
   },
   {
    "page": 4,
@@ -120,8 +120,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 97,
-   "doc_line_end": 123
+   "doc_line_start": 94,
+   "doc_line_end": 120
   },
   {
    "page": 5,
@@ -151,8 +151,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 125,
-   "doc_line_end": 156
+   "doc_line_start": 121,
+   "doc_line_end": 152
   },
   {
    "page": 6,
@@ -182,8 +182,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 158,
-   "doc_line_end": 183
+   "doc_line_start": 153,
+   "doc_line_end": 178
   }
  ],
  "mentions": [
@@ -194,7 +194,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0088_b",
-   "line": 4774
+   "line": 4774,
+   "doc_line": 1
   },
   {
    "entity": "hohenlohe",
@@ -203,7 +204,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0088_b",
-   "line": 4775
+   "line": 4775,
+   "doc_line": 2
   },
   {
    "entity": "schulze",
@@ -212,7 +214,8 @@
    "surface": "Schulzen",
    "page": 4,
    "page_id": "0090_a1",
-   "line": 4874
+   "line": 4874,
+   "doc_line": 98
   },
   {
    "entity": "schulze",
@@ -221,7 +224,8 @@
    "surface": "Schulzen",
    "page": 4,
    "page_id": "0090_a1",
-   "line": 4876
+   "line": 4876,
+   "doc_line": 100
   },
   {
    "entity": "triebenfeld",
@@ -230,7 +234,8 @@
    "surface": "Triebenfeld",
    "page": 5,
    "page_id": "0090_a2",
-   "line": 4919
+   "line": 4919,
+   "doc_line": 142
   },
   {
    "entity": "titz",
@@ -239,7 +244,8 @@
    "surface": "Titz",
    "page": 5,
    "page_id": "0090_a2",
-   "line": 4920
+   "line": 4920,
+   "doc_line": 143
   },
   {
    "entity": "simon",
@@ -248,7 +254,8 @@
    "surface": "Simon",
    "page": 5,
    "page_id": "0090_a2",
-   "line": 4926
+   "line": 4926,
+   "doc_line": 149
   },
   {
    "entity": "melzer",
@@ -257,7 +264,8 @@
    "surface": "Melzer",
    "page": 5,
    "page_id": "0090_a2",
-   "line": 4929
+   "line": 4929,
+   "doc_line": 152
   },
   {
    "entity": "tschachmann",
@@ -266,7 +274,8 @@
    "surface": "Tschachmann",
    "page": 6,
    "page_id": "0091_a1",
-   "line": 4948
+   "line": 4948,
+   "doc_line": 170
   },
   {
    "entity": "schenck",
@@ -275,7 +284,8 @@
    "surface": "Schenck",
    "page": 6,
    "page_id": "0091_a1",
-   "line": 4956
+   "line": 4956,
+   "doc_line": 178
   }
  ],
  "mentions_english": [],

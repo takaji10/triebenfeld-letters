@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 43
+   "doc_line_start": 20,
+   "doc_line_end": 42
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 45,
-   "doc_line_end": 67
+   "doc_line_start": 43,
+   "doc_line_end": 65
   },
   {
    "page": 4,
@@ -118,8 +118,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 69,
-   "doc_line_end": 99
+   "doc_line_start": 66,
+   "doc_line_end": 96
   }
  ],
  "mentions": [
@@ -130,7 +130,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 11684
+   "line": 11684,
+   "doc_line": 5
   },
   {
    "entity": "schenck",
@@ -139,7 +140,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 11767
+   "line": 11767,
+   "doc_line": 85
   },
   {
    "entity": "triebenfeld",
@@ -148,7 +150,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 11778
+   "line": 11778,
+   "doc_line": 96
   }
  ],
  "mentions_english": [],

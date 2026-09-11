@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 48
+   "doc_line_start": 23,
+   "doc_line_end": 47
   },
   {
    "page": 3,
@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 50,
-   "doc_line_end": 79
+   "doc_line_start": 48,
+   "doc_line_end": 77
   }
  ],
  "mentions": [
@@ -106,7 +106,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 3353
+   "line": 3353,
+   "doc_line": 7
   },
   {
    "entity": "michaelis",
@@ -115,7 +116,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 3360
+   "line": 3360,
+   "doc_line": 14
   },
   {
    "entity": "amelang",
@@ -124,7 +126,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 3362
+   "line": 3362,
+   "doc_line": 16
   },
   {
    "entity": "lahr",
@@ -133,7 +136,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 3362
+   "line": 3362,
+   "doc_line": 16
   },
   {
    "entity": "amelang",
@@ -142,7 +146,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 3367
+   "line": 3367,
+   "doc_line": 21
   },
   {
    "entity": "amelang",
@@ -151,7 +156,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 3370
+   "line": 3370,
+   "doc_line": 23
   },
   {
    "entity": "michaelis",
@@ -160,7 +166,8 @@
    "surface": "Michaelis",
    "page": 2,
    "page_id": "",
-   "line": 3380
+   "line": 3380,
+   "doc_line": 33
   },
   {
    "entity": "amelang",
@@ -169,7 +176,8 @@
    "surface": "Amelang",
    "page": 3,
    "page_id": "",
-   "line": 3399
+   "line": 3399,
+   "doc_line": 51
   },
   {
    "entity": "cosmar",
@@ -178,7 +186,8 @@
    "surface": "Cosmar",
    "page": 3,
    "page_id": "",
-   "line": 3400
+   "line": 3400,
+   "doc_line": 52
   },
   {
    "entity": "sacken",
@@ -187,7 +196,8 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
-   "line": 3402
+   "line": 3402,
+   "doc_line": 54
   },
   {
    "entity": "amelang",
@@ -196,7 +206,8 @@
    "surface": "Amelang",
    "page": 3,
    "page_id": "",
-   "line": 3405
+   "line": 3405,
+   "doc_line": 57
   },
   {
    "entity": "hawich",
@@ -205,7 +216,8 @@
    "surface": "Hawich",
    "page": 3,
    "page_id": "",
-   "line": 3416
+   "line": 3416,
+   "doc_line": 68
   },
   {
    "entity": "hecker",
@@ -214,7 +226,8 @@
    "surface": "Hecker",
    "page": 3,
    "page_id": "",
-   "line": 3416
+   "line": 3416,
+   "doc_line": 68
   },
   {
    "entity": "triebenfeld",
@@ -223,7 +236,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 3422
+   "line": 3422,
+   "doc_line": 74
   }
  ],
  "mentions_english": [],

@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 11,
-   "doc_line_end": 27
+   "doc_line_start": 10,
+   "doc_line_end": 26
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 5398
+   "line": 5398,
+   "doc_line": 4
   },
   {
    "entity": "honrichs",
@@ -91,7 +92,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 5403
+   "line": 5403,
+   "doc_line": 9
   },
   {
    "entity": "honrichs",
@@ -100,7 +102,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 5405
+   "line": 5405,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -109,7 +112,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 5408
+   "line": 5408,
+   "doc_line": 13
   }
  ],
  "mentions_english": [],

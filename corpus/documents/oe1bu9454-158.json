@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 41
+   "doc_line_start": 20,
+   "doc_line_end": 40
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 43,
-   "doc_line_end": 64
+   "doc_line_start": 41,
+   "doc_line_end": 62
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 66,
-   "doc_line_end": 90
+   "doc_line_start": 63,
+   "doc_line_end": 87
   }
  ],
  "mentions": [
@@ -124,7 +124,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 11173
+   "line": 11173,
+   "doc_line": 4
   },
   {
    "entity": "meyer",
@@ -133,7 +134,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 11192
+   "line": 11192,
+   "doc_line": 22
   },
   {
    "entity": "schlabrendorff",
@@ -142,7 +144,8 @@
    "surface": "Schlabrendorff",
    "page": 3,
    "page_id": "",
-   "line": 11213
+   "line": 11213,
+   "doc_line": 42
   },
   {
    "entity": "triebenfeld",
@@ -151,7 +154,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 11259
+   "line": 11259,
+   "doc_line": 87
   }
  ],
  "mentions_english": [],

@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 32,
-   "doc_line_end": 61
+   "doc_line_start": 31,
+   "doc_line_end": 60
   }
  ],
  "mentions": [
@@ -86,7 +86,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20536
+   "line": 20536,
+   "doc_line": 10
   },
   {
    "entity": "staegemann",
@@ -95,7 +96,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 20537
+   "line": 20537,
+   "doc_line": 11
   },
   {
    "entity": "cosmar",
@@ -104,7 +106,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20540
+   "line": 20540,
+   "doc_line": 14
   },
   {
    "entity": "stein",
@@ -113,7 +116,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 20548
+   "line": 20548,
+   "doc_line": 22
   },
   {
    "entity": "stein",
@@ -122,7 +126,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 20548
+   "line": 20548,
+   "doc_line": 22
   },
   {
    "entity": "otto",
@@ -131,7 +136,8 @@
    "surface": "Otto",
    "page": 1,
    "page_id": "",
-   "line": 20555
+   "line": 20555,
+   "doc_line": 29
   },
   {
    "entity": "otto",
@@ -140,7 +146,8 @@
    "surface": "Otto",
    "page": 1,
    "page_id": "",
-   "line": 20556
+   "line": 20556,
+   "doc_line": 30
   },
   {
    "entity": "otto",
@@ -149,7 +156,8 @@
    "surface": "Otto",
    "page": 2,
    "page_id": "",
-   "line": 20560
+   "line": 20560,
+   "doc_line": 33
   },
   {
    "entity": "blomberg",
@@ -158,7 +166,8 @@
    "surface": "Blomberg",
    "page": 2,
    "page_id": "",
-   "line": 20561
+   "line": 20561,
+   "doc_line": 34
   },
   {
    "entity": "zerboni",
@@ -167,7 +176,8 @@
    "surface": "Zerboni",
    "page": 2,
    "page_id": "",
-   "line": 20566
+   "line": 20566,
+   "doc_line": 39
   },
   {
    "entity": "eberhard",
@@ -176,7 +186,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 20577
+   "line": 20577,
+   "doc_line": 50
   },
   {
    "entity": "titz",
@@ -185,7 +196,8 @@
    "surface": "Titz",
    "page": 2,
    "page_id": "",
-   "line": 20579
+   "line": 20579,
+   "doc_line": 52
   },
   {
    "entity": "triebenfeld",
@@ -194,7 +206,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 20587
+   "line": 20587,
+   "doc_line": 60
   }
  ],
  "mentions_english": [],

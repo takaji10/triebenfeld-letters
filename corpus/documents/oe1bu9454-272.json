@@ -64,8 +64,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 42
+   "doc_line_start": 21,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -82,8 +82,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 64
+   "doc_line_start": 42,
+   "doc_line_end": 62
   },
   {
    "page": 4,
@@ -102,8 +102,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 66,
-   "doc_line_end": 80
+   "doc_line_start": 63,
+   "doc_line_end": 77
   }
  ],
  "mentions": [
@@ -114,7 +114,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19270
+   "line": 19270,
+   "doc_line": 3
   },
   {
    "entity": "cosmar",
@@ -123,7 +124,8 @@
    "surface": "Cosmar",
    "page": 3,
    "page_id": "",
-   "line": 19312
+   "line": 19312,
+   "doc_line": 43
   },
   {
    "entity": "emilie",
@@ -132,7 +134,8 @@
    "surface": "Emilie",
    "page": 3,
    "page_id": "",
-   "line": 19315
+   "line": 19315,
+   "doc_line": 46
   }
  ],
  "mentions_english": [],

@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 49
+   "doc_line_start": 22,
+   "doc_line_end": 48
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 51,
-   "doc_line_end": 71
+   "doc_line_start": 49,
+   "doc_line_end": 69
   }
  ],
  "mentions": [
@@ -102,7 +102,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "0161_a2",
-   "line": 7884
+   "line": 7884,
+   "doc_line": 1
   },
   {
    "entity": "luka",
@@ -111,7 +112,8 @@
    "surface": "Luka",
    "page": 1,
    "page_id": "0161_a2",
-   "line": 7887
+   "line": 7887,
+   "doc_line": 4
   },
   {
    "entity": "gneust",
@@ -120,7 +122,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "0161_a2",
-   "line": 7891
+   "line": 7891,
+   "doc_line": 8
   },
   {
    "entity": "gneust",
@@ -129,7 +132,8 @@
    "surface": "Wohlgeb",
    "page": 2,
    "page_id": "0162_a1",
-   "line": 7909
+   "line": 7909,
+   "doc_line": 25
   },
   {
    "entity": "gneust",
@@ -138,7 +142,8 @@
    "surface": "Wohlgeb",
    "page": 3,
    "page_id": "0162_a2",
-   "line": 7941
+   "line": 7941,
+   "doc_line": 56
   },
   {
    "entity": "titz",
@@ -147,7 +152,8 @@
    "surface": "Titz",
    "page": 3,
    "page_id": "0162_a2",
-   "line": 7953
+   "line": 7953,
+   "doc_line": 68
   }
  ],
  "mentions_english": [],

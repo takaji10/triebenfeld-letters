@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 47
+   "doc_line_start": 23,
+   "doc_line_end": 46
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 8676
+   "line": 8676,
+   "doc_line": 16
   },
   {
    "entity": "asch",
@@ -91,7 +92,8 @@
    "surface": "Asch",
    "page": 1,
    "page_id": "",
-   "line": 8681
+   "line": 8681,
+   "doc_line": 21
   }
  ],
  "mentions_english": [],

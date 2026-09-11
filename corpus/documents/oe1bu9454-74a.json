@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 53,
-   "doc_line_end": 88
+   "doc_line_start": 52,
+   "doc_line_end": 87
   }
  ],
  "mentions": [
@@ -87,7 +87,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6073
+   "line": 6073,
+   "doc_line": 4
   },
   {
    "entity": "hohenlohe",
@@ -96,7 +97,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 6079
+   "line": 6079,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -105,7 +107,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6080
+   "line": 6080,
+   "doc_line": 11
   },
   {
    "entity": "triebenfeld",
@@ -114,7 +117,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6083
+   "line": 6083,
+   "doc_line": 14
   },
   {
    "entity": "hohenlohe",
@@ -123,7 +127,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 6086
+   "line": 6086,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -132,7 +137,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6086
+   "line": 6086,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -141,7 +147,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6093
+   "line": 6093,
+   "doc_line": 24
   },
   {
    "entity": "triebenfeld",
@@ -150,7 +157,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6099
+   "line": 6099,
+   "doc_line": 30
   },
   {
    "entity": "triebenfeld",
@@ -159,7 +167,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6101
+   "line": 6101,
+   "doc_line": 32
   },
   {
    "entity": "hohenlohe",
@@ -168,7 +177,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 6105
+   "line": 6105,
+   "doc_line": 36
   },
   {
    "entity": "triebenfeld",
@@ -177,7 +187,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 6106
+   "line": 6106,
+   "doc_line": 37
   },
   {
    "entity": "triebenfeld",
@@ -186,7 +197,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6124
+   "line": 6124,
+   "doc_line": 54
   },
   {
    "entity": "triebenfeld",
@@ -195,7 +207,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6128
+   "line": 6128,
+   "doc_line": 58
   },
   {
    "entity": "triebenfeld",
@@ -204,7 +217,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6133
+   "line": 6133,
+   "doc_line": 63
   },
   {
    "entity": "triebenfeld",
@@ -213,7 +227,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6136
+   "line": 6136,
+   "doc_line": 66
   },
   {
    "entity": "hohenlohe",
@@ -222,7 +237,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "",
-   "line": 6138
+   "line": 6138,
+   "doc_line": 68
   },
   {
    "entity": "triebenfeld",
@@ -231,7 +247,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6139
+   "line": 6139,
+   "doc_line": 69
   },
   {
    "entity": "triebenfeld",
@@ -240,7 +257,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6140
+   "line": 6140,
+   "doc_line": 70
   },
   {
    "entity": "triebenfeld",
@@ -249,7 +267,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6141
+   "line": 6141,
+   "doc_line": 71
   },
   {
    "entity": "triebenfeld",
@@ -258,7 +277,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6143
+   "line": 6143,
+   "doc_line": 73
   },
   {
    "entity": "triebenfeld",
@@ -267,7 +287,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6144
+   "line": 6144,
+   "doc_line": 74
   },
   {
    "entity": "triebenfeld",
@@ -276,7 +297,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6145
+   "line": 6145,
+   "doc_line": 75
   },
   {
    "entity": "kircheisen",
@@ -285,7 +307,8 @@
    "surface": "Kircheisen",
    "page": 2,
    "page_id": "",
-   "line": 6150
+   "line": 6150,
+   "doc_line": 80
   },
   {
    "entity": "sacken",
@@ -294,7 +317,8 @@
    "surface": "Sacken",
    "page": 2,
    "page_id": "",
-   "line": 6151
+   "line": 6151,
+   "doc_line": 81
   }
  ],
  "mentions_english": [],

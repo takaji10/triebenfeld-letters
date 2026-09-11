@@ -170,7 +170,13 @@ def _mentions(rec, authority, kind):
                         'surface': m.group(0),
                         'page': p['page'],
                         'page_id': p.get('page_id', ''),
+                        # `line` is the unit-absolute line, the key the tooling
+                        # and the transcription decisions use. `doc_line` is
+                        # what the site shows - numbered from 1 in each
+                        # document - and the two are given together because the
+                        # published page no longer carries the archival number.
                         'line': base + i,
+                        'doc_line': p.get('doc_line_start', 1) + i,
                     })
     out.sort(key=lambda x: (x['line'], x['entity']))
     return out

@@ -64,8 +64,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 54
+   "doc_line_start": 28,
+   "doc_line_end": 53
   },
   {
    "page": 3,
@@ -82,8 +82,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 84
+   "doc_line_start": 54,
+   "doc_line_end": 82
   },
   {
    "page": 4,
@@ -100,8 +100,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 86,
-   "doc_line_end": 113
+   "doc_line_start": 83,
+   "doc_line_end": 110
   },
   {
    "page": 5,
@@ -119,8 +119,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 115,
-   "doc_line_end": 119
+   "doc_line_start": 111,
+   "doc_line_end": 115
   }
  ],
  "mentions": [
@@ -131,7 +131,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 16741
+   "line": 16741,
+   "doc_line": 5
   },
   {
    "entity": "schimmelpfennig",
@@ -140,7 +141,8 @@
    "surface": "Schimmelpfennig",
    "page": 1,
    "page_id": "",
-   "line": 16756
+   "line": 16756,
+   "doc_line": 20
   },
   {
    "entity": "sommer",
@@ -149,7 +151,8 @@
    "surface": "Sommer",
    "page": 3,
    "page_id": "",
-   "line": 16808
+   "line": 16808,
+   "doc_line": 70
   }
  ],
  "mentions_english": [],

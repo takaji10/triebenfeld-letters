@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 18,
-   "doc_line_end": 41
+   "doc_line_start": 17,
+   "doc_line_end": 40
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 8719
+   "line": 8719,
+   "doc_line": 10
   },
   {
    "entity": "schlabrendorff",
@@ -97,7 +98,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 8725
+   "line": 8725,
+   "doc_line": 16
   },
   {
    "entity": "asch",
@@ -106,7 +108,8 @@
    "surface": "Asch",
    "page": 2,
    "page_id": "",
-   "line": 8740
+   "line": 8740,
+   "doc_line": 30
   },
   {
    "entity": "schlabrendorff",
@@ -115,7 +118,8 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
-   "line": 8741
+   "line": 8741,
+   "doc_line": 31
   },
   {
    "entity": "triebenfeld",
@@ -124,7 +128,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 8750
+   "line": 8750,
+   "doc_line": 40
   }
  ],
  "mentions_english": [],

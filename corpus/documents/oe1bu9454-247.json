@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 53
+   "doc_line_start": 24,
+   "doc_line_end": 52
   },
   {
    "page": 3,
@@ -97,8 +97,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 55,
-   "doc_line_end": 95
+   "doc_line_start": 53,
+   "doc_line_end": 93
   }
  ],
  "mentions": [
@@ -109,7 +109,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 17832
+   "line": 17832,
+   "doc_line": 6
   },
   {
    "entity": "cosmar",
@@ -118,7 +119,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 17843
+   "line": 17843,
+   "doc_line": 17
   },
   {
    "entity": "cosmar",
@@ -127,7 +129,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 17846
+   "line": 17846,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -136,7 +139,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 17853
+   "line": 17853,
+   "doc_line": 26
   },
   {
    "entity": "sacken",
@@ -145,7 +149,8 @@
    "surface": "Sacken",
    "page": 2,
    "page_id": "",
-   "line": 17855
+   "line": 17855,
+   "doc_line": 28
   },
   {
    "entity": "cosmar",
@@ -154,7 +159,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 17856
+   "line": 17856,
+   "doc_line": 29
   },
   {
    "entity": "cosmar",
@@ -163,7 +169,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 17861
+   "line": 17861,
+   "doc_line": 34
   },
   {
    "entity": "triebenfeld",
@@ -172,7 +179,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17879
+   "line": 17879,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

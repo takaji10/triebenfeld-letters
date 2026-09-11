@@ -65,7 +65,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 31
+   "line": 31,
+   "doc_line": 12
   },
   {
    "entity": "cosmar",
@@ -74,7 +75,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 40
+   "line": 40,
+   "doc_line": 21
   },
   {
    "entity": "cosmar",
@@ -83,7 +85,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 46
+   "line": 46,
+   "doc_line": 27
   },
   {
    "entity": "cosmar",
@@ -92,7 +95,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 54
+   "line": 54,
+   "doc_line": 35
   },
   {
    "entity": "prusimska",
@@ -101,7 +105,8 @@
    "surface": "Moszynska",
    "page": 1,
    "page_id": "",
-   "line": 60
+   "line": 60,
+   "doc_line": 41
   }
  ],
  "mentions_english": [],

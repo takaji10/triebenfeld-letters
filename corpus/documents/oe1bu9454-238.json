@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 49
+   "doc_line_start": 25,
+   "doc_line_end": 48
   },
   {
    "page": 3,
@@ -84,8 +84,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 51,
-   "doc_line_end": 73
+   "doc_line_start": 49,
+   "doc_line_end": 71
   },
   {
    "page": 4,
@@ -107,8 +107,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 75,
-   "doc_line_end": 95
+   "doc_line_start": 72,
+   "doc_line_end": 92
   }
  ],
  "mentions": [
@@ -119,7 +119,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 17294
+   "line": 17294,
+   "doc_line": 7
   },
   {
    "entity": "zerboni",
@@ -128,7 +129,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 17294
+   "line": 17294,
+   "doc_line": 7
   },
   {
    "entity": "weigel",
@@ -137,7 +139,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 17296
+   "line": 17296,
+   "doc_line": 9
   },
   {
    "entity": "trzcinski",
@@ -146,7 +149,8 @@
    "surface": "Trzcinskischen",
    "page": 1,
    "page_id": "",
-   "line": 17297
+   "line": 17297,
+   "doc_line": 10
   },
   {
    "entity": "schenck",
@@ -155,7 +159,8 @@
    "surface": "Schenck",
    "page": 1,
    "page_id": "",
-   "line": 17303
+   "line": 17303,
+   "doc_line": 16
   },
   {
    "entity": "hardenberg",
@@ -164,7 +169,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 17344
+   "line": 17344,
+   "doc_line": 55
   },
   {
    "entity": "stein",
@@ -173,7 +179,8 @@
    "surface": "Stein",
    "page": 3,
    "page_id": "",
-   "line": 17350
+   "line": 17350,
+   "doc_line": 61
   },
   {
    "entity": "hohenlohe",
@@ -182,7 +189,8 @@
    "surface": "Hohenlohe",
    "page": 4,
    "page_id": "",
-   "line": 17382
+   "line": 17382,
+   "doc_line": 92
   }
  ],
  "mentions_english": [],

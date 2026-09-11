@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 18,
-   "doc_line_end": 26
+   "doc_line_start": 17,
+   "doc_line_end": 25
   }
  ],
  "mentions": [
@@ -80,7 +80,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 10092
+   "line": 10092,
+   "doc_line": 3
   },
   {
    "entity": "triebenfeld",
@@ -89,7 +90,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 10098
+   "line": 10098,
+   "doc_line": 9
   },
   {
    "entity": "amelang",
@@ -98,7 +100,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 10115
+   "line": 10115,
+   "doc_line": 25
   }
  ],
  "mentions_english": [],

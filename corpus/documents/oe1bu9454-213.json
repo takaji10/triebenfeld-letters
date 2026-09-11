@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 57
+   "doc_line_start": 21,
+   "doc_line_end": 56
   },
   {
    "page": 3,
@@ -96,8 +96,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 98
+   "doc_line_start": 57,
+   "doc_line_end": 96
   },
   {
    "page": 4,
@@ -115,8 +115,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 100,
-   "doc_line_end": 130
+   "doc_line_start": 97,
+   "doc_line_end": 127
   }
  ],
  "mentions": [
@@ -127,7 +127,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15062
+   "line": 15062,
+   "doc_line": 15
   },
   {
    "entity": "niedzewiecki",
@@ -136,7 +137,8 @@
    "surface": "Niedzew",
    "page": 2,
    "page_id": "",
-   "line": 15079
+   "line": 15079,
+   "doc_line": 31
   },
   {
    "entity": "napoleon",
@@ -145,7 +147,8 @@
    "surface": "Napoleon",
    "page": 4,
    "page_id": "",
-   "line": 15149
+   "line": 15149,
+   "doc_line": 99
   },
   {
    "entity": "meierowitz",
@@ -154,7 +157,8 @@
    "surface": "Meierowitz",
    "page": 4,
    "page_id": "",
-   "line": 15152
+   "line": 15152,
+   "doc_line": 102
   },
   {
    "entity": "garczynski",
@@ -163,7 +167,8 @@
    "surface": "Garczynski",
    "page": 4,
    "page_id": "",
-   "line": 15156
+   "line": 15156,
+   "doc_line": 106
   },
   {
    "entity": "zerboni",
@@ -172,7 +177,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 15172
+   "line": 15172,
+   "doc_line": 122
   },
   {
    "entity": "hardenberg",
@@ -181,7 +187,8 @@
    "surface": "Hard:",
    "page": 4,
    "page_id": "",
-   "line": 15174
+   "line": 15174,
+   "doc_line": 124
   },
   {
    "entity": "triebenfeld",
@@ -190,7 +197,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 15177
+   "line": 15177,
+   "doc_line": 127
   }
  ],
  "mentions_english": [],

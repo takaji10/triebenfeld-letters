@@ -61,7 +61,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 18085
+   "line": 18085,
+   "doc_line": 2
   },
   {
    "entity": "hardenberg",
@@ -70,7 +71,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 18090
+   "line": 18090,
+   "doc_line": 7
   },
   {
    "entity": "triebenfeld",
@@ -79,7 +81,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18092
+   "line": 18092,
+   "doc_line": 9
   }
  ],
  "mentions_english": [],

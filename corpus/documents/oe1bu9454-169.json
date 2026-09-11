@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 42
+   "doc_line_start": 20,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 67
+   "doc_line_start": 42,
+   "doc_line_end": 65
   },
   {
    "page": 4,
@@ -110,8 +110,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 69,
-   "doc_line_end": 96
+   "doc_line_start": 66,
+   "doc_line_end": 93
   }
  ],
  "mentions": [
@@ -122,7 +122,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 11923
+   "line": 11923,
+   "doc_line": 3
   },
   {
    "entity": "amelang",
@@ -131,7 +132,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 11926
+   "line": 11926,
+   "doc_line": 6
   },
   {
    "entity": "meierowitz",
@@ -140,7 +142,8 @@
    "surface": "Meierowitz",
    "page": 1,
    "page_id": "",
-   "line": 11935
+   "line": 11935,
+   "doc_line": 15
   },
   {
    "entity": "honrichs",
@@ -149,7 +152,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 11936
+   "line": 11936,
+   "doc_line": 16
   },
   {
    "entity": "weigel",
@@ -158,7 +162,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 11939
+   "line": 11939,
+   "doc_line": 19
   },
   {
    "entity": "honrichs",
@@ -167,7 +172,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 11941
+   "line": 11941,
+   "doc_line": 20
   },
   {
    "entity": "radzinski",
@@ -176,7 +182,8 @@
    "surface": "Radzinski",
    "page": 2,
    "page_id": "",
-   "line": 11943
+   "line": 11943,
+   "doc_line": 22
   },
   {
    "entity": "radzinski",
@@ -185,7 +192,8 @@
    "surface": "Radzinskis",
    "page": 2,
    "page_id": "",
-   "line": 11954
+   "line": 11954,
+   "doc_line": 33
   },
   {
    "entity": "amelang",
@@ -194,7 +202,8 @@
    "surface": "Amelang",
    "page": 3,
    "page_id": "",
-   "line": 11987
+   "line": 11987,
+   "doc_line": 65
   },
   {
    "entity": "glenck",
@@ -203,7 +212,8 @@
    "surface": "Glenck",
    "page": 4,
    "page_id": "",
-   "line": 11993
+   "line": 11993,
+   "doc_line": 70
   },
   {
    "entity": "oppenheimer",
@@ -212,7 +222,8 @@
    "surface": "Oppenheimer",
    "page": 4,
    "page_id": "",
-   "line": 11994
+   "line": 11994,
+   "doc_line": 71
   },
   {
    "entity": "oppenheimer",
@@ -221,7 +232,8 @@
    "surface": "Oppenheimer",
    "page": 4,
    "page_id": "",
-   "line": 12000
+   "line": 12000,
+   "doc_line": 77
   },
   {
    "entity": "oppenheimer",
@@ -230,7 +242,8 @@
    "surface": "Oppenheimer",
    "page": 4,
    "page_id": "",
-   "line": 12001
+   "line": 12001,
+   "doc_line": 78
   },
   {
    "entity": "przespolewski",
@@ -239,7 +252,8 @@
    "surface": "Przespolewski",
    "page": 4,
    "page_id": "",
-   "line": 12005
+   "line": 12005,
+   "doc_line": 82
   },
   {
    "entity": "glenck",
@@ -248,7 +262,8 @@
    "surface": "Glenck",
    "page": 4,
    "page_id": "",
-   "line": 12006
+   "line": 12006,
+   "doc_line": 83
   },
   {
    "entity": "sprengel",
@@ -257,7 +272,8 @@
    "surface": "Sprengel",
    "page": 4,
    "page_id": "",
-   "line": 12008
+   "line": 12008,
+   "doc_line": 85
   },
   {
    "entity": "chwalowski",
@@ -266,7 +282,8 @@
    "surface": "Chwalowski",
    "page": 4,
    "page_id": "",
-   "line": 12011
+   "line": 12011,
+   "doc_line": 88
   },
   {
    "entity": "triebenfeld",
@@ -275,7 +292,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 12016
+   "line": 12016,
+   "doc_line": 93
   }
  ],
  "mentions_english": [],

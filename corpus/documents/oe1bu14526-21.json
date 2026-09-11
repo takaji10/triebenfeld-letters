@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 53
+   "doc_line_start": 26,
+   "doc_line_end": 52
   },
   {
    "page": 3,
@@ -97,8 +97,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 55,
-   "doc_line_end": 80
+   "doc_line_start": 53,
+   "doc_line_end": 78
   },
   {
    "page": 4,
@@ -119,8 +119,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 82,
-   "doc_line_end": 105
+   "doc_line_start": 79,
+   "doc_line_end": 102
   }
  ],
  "mentions": [
@@ -131,7 +131,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6834
+   "line": 6834,
+   "doc_line": 3
   },
   {
    "entity": "august",
@@ -140,7 +141,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6835
+   "line": 6835,
+   "doc_line": 4
   },
   {
    "entity": "triebenfeld",
@@ -149,7 +151,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6835
+   "line": 6835,
+   "doc_line": 4
   },
   {
    "entity": "meierowitz",
@@ -158,7 +161,8 @@
    "surface": "Meierowicz",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6836
+   "line": 6836,
+   "doc_line": 5
   },
   {
    "entity": "triebenfeld",
@@ -167,7 +171,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6839
+   "line": 6839,
+   "doc_line": 8
   },
   {
    "entity": "hohenlohe",
@@ -176,7 +181,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6840
+   "line": 6840,
+   "doc_line": 9
   },
   {
    "entity": "meierowitz",
@@ -185,7 +191,8 @@
    "surface": "Meierowitz",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6847
+   "line": 6847,
+   "doc_line": 16
   },
   {
    "entity": "honrichs",
@@ -194,7 +201,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "0136_b",
-   "line": 6849
+   "line": 6849,
+   "doc_line": 18
   },
   {
    "entity": "meierowitz",
@@ -203,7 +211,8 @@
    "surface": "Meierowitz",
    "page": 2,
    "page_id": "0137_a1",
-   "line": 6860
+   "line": 6860,
+   "doc_line": 28
   },
   {
    "entity": "meierowitz",
@@ -212,7 +221,8 @@
    "surface": "Meierowitz",
    "page": 2,
    "page_id": "0137_a1",
-   "line": 6867
+   "line": 6867,
+   "doc_line": 35
   },
   {
    "entity": "meierowitz",
@@ -221,7 +231,8 @@
    "surface": "Meierowitz",
    "page": 3,
    "page_id": "0137_a2",
-   "line": 6890
+   "line": 6890,
+   "doc_line": 57
   },
   {
    "entity": "honrichs",
@@ -230,7 +241,8 @@
    "surface": "Honrichs",
    "page": 3,
    "page_id": "0137_a2",
-   "line": 6907
+   "line": 6907,
+   "doc_line": 74
   },
   {
    "entity": "honrichs",
@@ -239,7 +251,8 @@
    "surface": "Honrichs",
    "page": 3,
    "page_id": "0137_a2",
-   "line": 6908
+   "line": 6908,
+   "doc_line": 75
   },
   {
    "entity": "honrichs",
@@ -248,7 +261,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "0138_a",
-   "line": 6920
+   "line": 6920,
+   "doc_line": 86
   },
   {
    "entity": "august",
@@ -257,7 +271,8 @@
    "surface": "August",
    "page": 4,
    "page_id": "0138_a",
-   "line": 6933
+   "line": 6933,
+   "doc_line": 99
   },
   {
    "entity": "triebenfeld",
@@ -266,7 +281,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "0138_a",
-   "line": 6933
+   "line": 6933,
+   "doc_line": 99
   }
  ],
  "mentions_english": [],

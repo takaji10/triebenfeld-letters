@@ -79,8 +79,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 34,
-   "doc_line_end": 65
+   "doc_line_start": 33,
+   "doc_line_end": 64
   },
   {
    "page": 3,
@@ -99,8 +99,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 67,
-   "doc_line_end": 96
+   "doc_line_start": 65,
+   "doc_line_end": 94
   },
   {
    "page": 4,
@@ -118,8 +118,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 98,
-   "doc_line_end": 127
+   "doc_line_start": 95,
+   "doc_line_end": 124
   },
   {
    "page": 5,
@@ -137,8 +137,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 129,
-   "doc_line_end": 158
+   "doc_line_start": 125,
+   "doc_line_end": 154
   },
   {
    "page": 6,
@@ -157,8 +157,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 160,
-   "doc_line_end": 190
+   "doc_line_start": 155,
+   "doc_line_end": 185
   },
   {
    "page": 7,
@@ -177,8 +177,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 192,
-   "doc_line_end": 220
+   "doc_line_start": 186,
+   "doc_line_end": 214
   },
   {
    "page": 8,
@@ -196,8 +196,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 222,
-   "doc_line_end": 248
+   "doc_line_start": 215,
+   "doc_line_end": 241
   },
   {
    "page": 9,
@@ -216,8 +216,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 250,
-   "doc_line_end": 279
+   "doc_line_start": 242,
+   "doc_line_end": 271
   },
   {
    "page": 10,
@@ -235,8 +235,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 281,
-   "doc_line_end": 311
+   "doc_line_start": 272,
+   "doc_line_end": 302
   },
   {
    "page": 11,
@@ -255,8 +255,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 313,
-   "doc_line_end": 343
+   "doc_line_start": 303,
+   "doc_line_end": 333
   },
   {
    "page": 12,
@@ -274,8 +274,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 345,
-   "doc_line_end": 374
+   "doc_line_start": 334,
+   "doc_line_end": 363
   },
   {
    "page": 13,
@@ -294,8 +294,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 376,
-   "doc_line_end": 407
+   "doc_line_start": 364,
+   "doc_line_end": 395
   },
   {
    "page": 14,
@@ -313,8 +313,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 409,
-   "doc_line_end": 439
+   "doc_line_start": 396,
+   "doc_line_end": 426
   },
   {
    "page": 15,
@@ -332,8 +332,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 441,
-   "doc_line_end": 471
+   "doc_line_start": 427,
+   "doc_line_end": 457
   },
   {
    "page": 16,
@@ -351,8 +351,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 473,
-   "doc_line_end": 505
+   "doc_line_start": 458,
+   "doc_line_end": 490
   },
   {
    "page": 17,
@@ -372,8 +372,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 507,
-   "doc_line_end": 536
+   "doc_line_start": 491,
+   "doc_line_end": 520
   },
   {
    "page": 18,
@@ -396,8 +396,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 538,
-   "doc_line_end": 568
+   "doc_line_start": 521,
+   "doc_line_end": 551
   }
  ],
  "mentions": [
@@ -408,7 +408,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0092_b",
-   "line": 4960
+   "line": 4960,
+   "doc_line": 2
   },
   {
    "entity": "hohenlohe",
@@ -417,7 +418,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0092_b",
-   "line": 4963
+   "line": 4963,
+   "doc_line": 5
   },
   {
    "entity": "triebenfeld",
@@ -426,7 +428,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0092_b",
-   "line": 4981
+   "line": 4981,
+   "doc_line": 23
   },
   {
    "entity": "hohenlohe",
@@ -435,7 +438,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0092_b",
-   "line": 4984
+   "line": 4984,
+   "doc_line": 26
   },
   {
    "entity": "hohenlohe",
@@ -444,7 +448,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "0093_a1",
-   "line": 5014
+   "line": 5014,
+   "doc_line": 55
   },
   {
    "entity": "triebenfeld",
@@ -453,7 +458,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "0093_a1",
-   "line": 5018
+   "line": 5018,
+   "doc_line": 59
   },
   {
    "entity": "hohenlohe",
@@ -462,7 +468,8 @@
    "surface": "Hohenlohe",
    "page": 17,
    "page_id": "0100_a2",
-   "line": 5485
+   "line": 5485,
+   "doc_line": 511
   },
   {
    "entity": "triebenfeld",
@@ -471,7 +478,8 @@
    "surface": "Triebenfeld",
    "page": 17,
    "page_id": "0100_a2",
-   "line": 5486
+   "line": 5486,
+   "doc_line": 512
   },
   {
    "entity": "schenck",
@@ -480,7 +488,8 @@
    "surface": "Schenck",
    "page": 18,
    "page_id": "0101_a1",
-   "line": 5506
+   "line": 5506,
+   "doc_line": 531
   },
   {
    "entity": "marianton",
@@ -489,7 +498,8 @@
    "surface": "Marianton",
    "page": 18,
    "page_id": "0101_a1",
-   "line": 5512
+   "line": 5512,
+   "doc_line": 537
   },
   {
    "entity": "hohenlohe",
@@ -498,7 +508,8 @@
    "surface": "Hohenlohe",
    "page": 18,
    "page_id": "0101_a1",
-   "line": 5513
+   "line": 5513,
+   "doc_line": 538
   },
   {
    "entity": "schenck",
@@ -507,7 +518,8 @@
    "surface": "Schenck",
    "page": 18,
    "page_id": "0101_a1",
-   "line": 5514
+   "line": 5514,
+   "doc_line": 539
   },
   {
    "entity": "hohenlohe",
@@ -516,7 +528,8 @@
    "surface": "Hohenlohe",
    "page": 18,
    "page_id": "0101_a1",
-   "line": 5520
+   "line": 5520,
+   "doc_line": 545
   }
  ],
  "mentions_english": [],

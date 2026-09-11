@@ -63,7 +63,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 16866
+   "line": 16866,
+   "doc_line": 9
   },
   {
    "entity": "weigel",
@@ -72,7 +73,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 16877
+   "line": 16877,
+   "doc_line": 20
   }
  ],
  "mentions_english": [],

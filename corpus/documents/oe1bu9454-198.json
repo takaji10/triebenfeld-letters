@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 51
+   "doc_line_start": 23,
+   "doc_line_end": 50
   },
   {
    "page": 3,
@@ -98,8 +98,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 53,
-   "doc_line_end": 88
+   "doc_line_start": 51,
+   "doc_line_end": 86
   }
  ],
  "mentions": [
@@ -110,7 +110,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 14221
+   "line": 14221,
+   "doc_line": 7
   },
   {
    "entity": "brzechsta",
@@ -119,7 +120,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 14222
+   "line": 14222,
+   "doc_line": 8
   },
   {
    "entity": "hawich",
@@ -128,7 +130,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 14224
+   "line": 14224,
+   "doc_line": 10
   },
   {
    "entity": "hecker",
@@ -137,7 +140,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 14224
+   "line": 14224,
+   "doc_line": 10
   },
   {
    "entity": "honrichs",
@@ -146,7 +150,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 14225
+   "line": 14225,
+   "doc_line": 11
   },
   {
    "entity": "brzechsta",
@@ -155,7 +160,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 14226
+   "line": 14226,
+   "doc_line": 12
   },
   {
    "entity": "brzechsta",
@@ -164,7 +170,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 14227
+   "line": 14227,
+   "doc_line": 13
   },
   {
    "entity": "hecker",
@@ -173,7 +180,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 14229
+   "line": 14229,
+   "doc_line": 15
   },
   {
    "entity": "weigel",
@@ -182,7 +190,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14231
+   "line": 14231,
+   "doc_line": 17
   },
   {
    "entity": "hecker",
@@ -191,7 +200,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 14233
+   "line": 14233,
+   "doc_line": 19
   },
   {
    "entity": "weigel",
@@ -200,7 +210,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14233
+   "line": 14233,
+   "doc_line": 19
   },
   {
    "entity": "smidkowski",
@@ -209,7 +220,8 @@
    "surface": "Smidkowski",
    "page": 1,
    "page_id": "",
-   "line": 14235
+   "line": 14235,
+   "doc_line": 21
   },
   {
    "entity": "smidkowski",
@@ -218,7 +230,8 @@
    "surface": "Smidkowski",
    "page": 2,
    "page_id": "",
-   "line": 14238
+   "line": 14238,
+   "doc_line": 23
   },
   {
    "entity": "prusimska",
@@ -227,7 +240,8 @@
    "surface": "Dąbska",
    "page": 2,
    "page_id": "",
-   "line": 14239
+   "line": 14239,
+   "doc_line": 24
   },
   {
    "entity": "koeckritz",
@@ -236,7 +250,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 14249
+   "line": 14249,
+   "doc_line": 34
   },
   {
    "entity": "triebenfeld",
@@ -245,7 +260,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 14268
+   "line": 14268,
+   "doc_line": 52
   },
   {
    "entity": "koeckritz",
@@ -254,7 +270,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 14269
+   "line": 14269,
+   "doc_line": 53
   },
   {
    "entity": "koeckritz",
@@ -263,7 +280,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 14279
+   "line": 14279,
+   "doc_line": 63
   },
   {
    "entity": "hardenberg",
@@ -272,7 +290,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 14283
+   "line": 14283,
+   "doc_line": 67
   },
   {
    "entity": "koeckritz",
@@ -281,7 +300,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 14283
+   "line": 14283,
+   "doc_line": 67
   },
   {
    "entity": "hardenberg",
@@ -290,7 +310,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 14287
+   "line": 14287,
+   "doc_line": 71
   },
   {
    "entity": "zastrow",
@@ -299,7 +320,8 @@
    "surface": "Zastrow",
    "page": 3,
    "page_id": "",
-   "line": 14287
+   "line": 14287,
+   "doc_line": 71
   },
   {
    "entity": "dohna",
@@ -308,7 +330,8 @@
    "surface": "Dohna",
    "page": 3,
    "page_id": "",
-   "line": 14288
+   "line": 14288,
+   "doc_line": 72
   },
   {
    "entity": "massow",
@@ -317,7 +340,8 @@
    "surface": "Massow",
    "page": 3,
    "page_id": "",
-   "line": 14288
+   "line": 14288,
+   "doc_line": 72
   },
   {
    "entity": "prusimska",
@@ -326,7 +350,8 @@
    "surface": "Dąmbska",
    "page": 3,
    "page_id": "",
-   "line": 14288
+   "line": 14288,
+   "doc_line": 72
   },
   {
    "entity": "rhode",
@@ -335,7 +360,8 @@
    "surface": "Rhoden",
    "page": 3,
    "page_id": "",
-   "line": 14290
+   "line": 14290,
+   "doc_line": 74
   },
   {
    "entity": "koeckritz",
@@ -344,7 +370,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 14294
+   "line": 14294,
+   "doc_line": 78
   },
   {
    "entity": "triebenfeld",
@@ -353,7 +380,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 14302
+   "line": 14302,
+   "doc_line": 86
   }
  ],
  "mentions_english": [],

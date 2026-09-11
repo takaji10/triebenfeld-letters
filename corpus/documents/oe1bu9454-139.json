@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 41
+   "doc_line_start": 21,
+   "doc_line_end": 40
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 43,
-   "doc_line_end": 62
+   "doc_line_start": 41,
+   "doc_line_end": 60
   },
   {
    "page": 4,
@@ -114,8 +114,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 64,
-   "doc_line_end": 85
+   "doc_line_start": 61,
+   "doc_line_end": 82
   }
  ],
  "mentions": [
@@ -126,7 +126,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 10126
+   "line": 10126,
+   "doc_line": 9
   },
   {
    "entity": "glenck",
@@ -135,7 +136,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 10139
+   "line": 10139,
+   "doc_line": 21
   },
   {
    "entity": "glenck",
@@ -144,7 +146,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 10146
+   "line": 10146,
+   "doc_line": 28
   },
   {
    "entity": "glenck",
@@ -153,7 +156,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 10150
+   "line": 10150,
+   "doc_line": 32
   },
   {
    "entity": "glenck",
@@ -162,7 +166,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 10150
+   "line": 10150,
+   "doc_line": 32
   },
   {
    "entity": "broniewski",
@@ -171,7 +176,8 @@
    "surface": "Broniew",
    "page": 2,
    "page_id": "",
-   "line": 10154
+   "line": 10154,
+   "doc_line": 36
   },
   {
    "entity": "glenck",
@@ -180,7 +186,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10161
+   "line": 10161,
+   "doc_line": 42
   },
   {
    "entity": "born",
@@ -189,7 +196,8 @@
    "surface": "Born",
    "page": 3,
    "page_id": "",
-   "line": 10163
+   "line": 10163,
+   "doc_line": 44
   },
   {
    "entity": "bornstaedt",
@@ -198,7 +206,8 @@
    "surface": "Bornstädt",
    "page": 3,
    "page_id": "",
-   "line": 10163
+   "line": 10163,
+   "doc_line": 44
   },
   {
    "entity": "born",
@@ -207,7 +216,8 @@
    "surface": "Born",
    "page": 3,
    "page_id": "",
-   "line": 10169
+   "line": 10169,
+   "doc_line": 50
   },
   {
    "entity": "bornstaedt",
@@ -216,7 +226,8 @@
    "surface": "Bornstädt",
    "page": 3,
    "page_id": "",
-   "line": 10169
+   "line": 10169,
+   "doc_line": 50
   },
   {
    "entity": "glenck",
@@ -225,7 +236,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10172
+   "line": 10172,
+   "doc_line": 53
   },
   {
    "entity": "glenck",
@@ -234,7 +246,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10178
+   "line": 10178,
+   "doc_line": 59
   },
   {
    "entity": "broniewski",
@@ -243,7 +256,8 @@
    "surface": "Broniew",
    "page": 4,
    "page_id": "",
-   "line": 10187
+   "line": 10187,
+   "doc_line": 67
   },
   {
    "entity": "triebenfeld",
@@ -252,7 +266,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 10202
+   "line": 10202,
+   "doc_line": 82
   }
  ],
  "mentions_english": [],

@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 65
+   "doc_line_start": 30,
+   "doc_line_end": 64
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 19586
+   "line": 19586,
+   "doc_line": 3
   },
   {
    "entity": "eberhard",
@@ -94,7 +95,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19587
+   "line": 19587,
+   "doc_line": 4
   },
   {
    "entity": "staegemann",
@@ -103,7 +105,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19591
+   "line": 19591,
+   "doc_line": 8
   },
   {
    "entity": "hardenberg",
@@ -112,7 +115,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 19593
+   "line": 19593,
+   "doc_line": 10
   },
   {
    "entity": "eberhard",
@@ -121,7 +125,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19596
+   "line": 19596,
+   "doc_line": 13
   },
   {
    "entity": "eberhard",
@@ -130,7 +135,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19601
+   "line": 19601,
+   "doc_line": 18
   },
   {
    "entity": "eberhard",
@@ -139,7 +145,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19607
+   "line": 19607,
+   "doc_line": 24
   },
   {
    "entity": "eberhardt",
@@ -148,7 +155,8 @@
    "surface": "Eberhardt",
    "page": 1,
    "page_id": "",
-   "line": 19607
+   "line": 19607,
+   "doc_line": 24
   },
   {
    "entity": "humboldt",
@@ -157,7 +165,8 @@
    "surface": "Humboldt",
    "page": 2,
    "page_id": "",
-   "line": 19618
+   "line": 19618,
+   "doc_line": 34
   },
   {
    "entity": "metternich",
@@ -166,7 +175,8 @@
    "surface": "Metternich",
    "page": 2,
    "page_id": "",
-   "line": 19619
+   "line": 19619,
+   "doc_line": 35
   },
   {
    "entity": "talleyrand",
@@ -175,7 +185,8 @@
    "surface": "Talleyrand",
    "page": 2,
    "page_id": "",
-   "line": 19619
+   "line": 19619,
+   "doc_line": 35
   },
   {
    "entity": "eberhard",
@@ -184,7 +195,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 19624
+   "line": 19624,
+   "doc_line": 40
   },
   {
    "entity": "eberhard",
@@ -193,7 +205,8 @@
    "surface": "Eberhards",
    "page": 2,
    "page_id": "",
-   "line": 19643
+   "line": 19643,
+   "doc_line": 59
   },
   {
    "entity": "triebenfeld",
@@ -202,7 +215,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19648
+   "line": 19648,
+   "doc_line": 64
   }
  ],
  "mentions_english": [],

@@ -63,7 +63,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 19119
+   "line": 19119,
+   "doc_line": 3
   },
   {
    "entity": "kircheisen",
@@ -72,7 +73,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 19120
+   "line": 19120,
+   "doc_line": 4
   },
   {
    "entity": "cosmar",
@@ -81,7 +83,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19131
+   "line": 19131,
+   "doc_line": 15
   },
   {
    "entity": "cosmar",
@@ -90,7 +93,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19137
+   "line": 19137,
+   "doc_line": 21
   },
   {
    "entity": "august",
@@ -99,7 +103,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19138
+   "line": 19138,
+   "doc_line": 22
   },
   {
    "entity": "august",
@@ -108,7 +113,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19141
+   "line": 19141,
+   "doc_line": 25
   },
   {
    "entity": "triebenfeld",
@@ -117,7 +123,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 19148
+   "line": 19148,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

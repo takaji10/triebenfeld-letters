@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 46
+   "doc_line_start": 27,
+   "doc_line_end": 45
   }
  ],
  "mentions": [
@@ -83,7 +83,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 19072
+   "line": 19072,
+   "doc_line": 4
   },
   {
    "entity": "staegemann",
@@ -92,7 +93,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19076
+   "line": 19076,
+   "doc_line": 8
   },
   {
    "entity": "cosmar",
@@ -101,7 +103,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19077
+   "line": 19077,
+   "doc_line": 9
   },
   {
    "entity": "hardenberg",
@@ -110,7 +113,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 19083
+   "line": 19083,
+   "doc_line": 15
   },
   {
    "entity": "beugelin",
@@ -119,7 +123,8 @@
    "surface": "Beugelin",
    "page": 1,
    "page_id": "",
-   "line": 19087
+   "line": 19087,
+   "doc_line": 19
   },
   {
    "entity": "humboldt",
@@ -128,7 +133,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 19087
+   "line": 19087,
+   "doc_line": 19
   },
   {
    "entity": "cosmar",
@@ -137,7 +143,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19103
+   "line": 19103,
+   "doc_line": 34
   },
   {
    "entity": "pourtales",
@@ -146,7 +153,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 19105
+   "line": 19105,
+   "doc_line": 36
   },
   {
    "entity": "metternich",
@@ -155,7 +163,8 @@
    "surface": "Metternich",
    "page": 2,
    "page_id": "",
-   "line": 19107
+   "line": 19107,
+   "doc_line": 38
   },
   {
    "entity": "talleyrand",
@@ -164,7 +173,8 @@
    "surface": "Talleyrand",
    "page": 2,
    "page_id": "",
-   "line": 19107
+   "line": 19107,
+   "doc_line": 38
   },
   {
    "entity": "triebenfeld",
@@ -173,7 +183,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19114
+   "line": 19114,
+   "doc_line": 45
   }
  ],
  "mentions_english": [],

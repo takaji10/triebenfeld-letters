@@ -62,7 +62,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 18036
+   "line": 18036,
+   "doc_line": 5
   },
   {
    "entity": "humboldt",
@@ -71,7 +72,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 18045
+   "line": 18045,
+   "doc_line": 14
   },
   {
    "entity": "triebenfeld",
@@ -80,7 +82,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18047
+   "line": 18047,
+   "doc_line": 16
   }
  ],
  "mentions_english": [],

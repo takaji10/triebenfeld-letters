@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 32,
-   "doc_line_end": 58
+   "doc_line_start": 31,
+   "doc_line_end": 57
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 60,
-   "doc_line_end": 69
+   "doc_line_start": 58,
+   "doc_line_end": 67
   }
  ],
  "mentions": [
@@ -101,7 +101,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19831
+   "line": 19831,
+   "doc_line": 4
   },
   {
    "entity": "cosmar",
@@ -110,7 +111,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19833
+   "line": 19833,
+   "doc_line": 6
   },
   {
    "entity": "staegemann",
@@ -119,7 +121,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19833
+   "line": 19833,
+   "doc_line": 6
   },
   {
    "entity": "eberhard",
@@ -128,7 +131,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19835
+   "line": 19835,
+   "doc_line": 8
   },
   {
    "entity": "eberhard",
@@ -137,7 +141,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19840
+   "line": 19840,
+   "doc_line": 13
   },
   {
    "entity": "eberhard",
@@ -146,7 +151,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19841
+   "line": 19841,
+   "doc_line": 14
   },
   {
    "entity": "eberhardt",
@@ -155,7 +161,8 @@
    "surface": "Eberhardt",
    "page": 1,
    "page_id": "",
-   "line": 19841
+   "line": 19841,
+   "doc_line": 14
   },
   {
    "entity": "staegemann",
@@ -164,7 +171,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19842
+   "line": 19842,
+   "doc_line": 15
   },
   {
    "entity": "eberhard",
@@ -173,7 +181,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19845
+   "line": 19845,
+   "doc_line": 18
   },
   {
    "entity": "cosmar",
@@ -182,7 +191,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19850
+   "line": 19850,
+   "doc_line": 23
   },
   {
    "entity": "august",
@@ -191,7 +201,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19852
+   "line": 19852,
+   "doc_line": 25
   },
   {
    "entity": "cosmar",
@@ -200,7 +211,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19855
+   "line": 19855,
+   "doc_line": 28
   },
   {
    "entity": "cosmar",
@@ -209,7 +221,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 19860
+   "line": 19860,
+   "doc_line": 32
   },
   {
    "entity": "talleyrand",
@@ -218,7 +231,8 @@
    "surface": "Talleyrand",
    "page": 2,
    "page_id": "",
-   "line": 19873
+   "line": 19873,
+   "doc_line": 45
   },
   {
    "entity": "talleyrand",
@@ -227,7 +241,8 @@
    "surface": "Talleyrand",
    "page": 2,
    "page_id": "",
-   "line": 19873
+   "line": 19873,
+   "doc_line": 45
   },
   {
    "entity": "talleyrand",
@@ -236,7 +251,8 @@
    "surface": "Talleyrand",
    "page": 2,
    "page_id": "",
-   "line": 19874
+   "line": 19874,
+   "doc_line": 46
   },
   {
    "entity": "eberhard",
@@ -245,7 +261,8 @@
    "surface": "Eberhard",
    "page": 3,
    "page_id": "",
-   "line": 19893
+   "line": 19893,
+   "doc_line": 64
   },
   {
    "entity": "triebenfeld",
@@ -254,7 +271,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 19896
+   "line": 19896,
+   "doc_line": 67
   }
  ],
  "mentions_english": [],

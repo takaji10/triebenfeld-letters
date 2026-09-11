@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 33
+   "doc_line_start": 22,
+   "doc_line_end": 32
   }
  ],
  "mentions": [
@@ -80,7 +80,8 @@
    "surface": "Born",
    "page": 1,
    "page_id": "",
-   "line": 10432
+   "line": 10432,
+   "doc_line": 7
   },
   {
    "entity": "glenck",
@@ -89,7 +90,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 10433
+   "line": 10433,
+   "doc_line": 8
   },
   {
    "entity": "born",
@@ -98,7 +100,8 @@
    "surface": "Born",
    "page": 1,
    "page_id": "",
-   "line": 10435
+   "line": 10435,
+   "doc_line": 10
   },
   {
    "entity": "bornstaedt",
@@ -107,7 +110,8 @@
    "surface": "Bornstädt",
    "page": 1,
    "page_id": "",
-   "line": 10435
+   "line": 10435,
+   "doc_line": 10
   },
   {
    "entity": "glenck",
@@ -116,7 +120,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 10441
+   "line": 10441,
+   "doc_line": 16
   },
   {
    "entity": "born",
@@ -125,7 +130,8 @@
    "surface": "Born",
    "page": 1,
    "page_id": "",
-   "line": 10443
+   "line": 10443,
+   "doc_line": 18
   },
   {
    "entity": "born",
@@ -134,7 +140,8 @@
    "surface": "Born",
    "page": 1,
    "page_id": "",
-   "line": 10446
+   "line": 10446,
+   "doc_line": 21
   },
   {
    "entity": "triebenfeld",
@@ -143,7 +150,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 10458
+   "line": 10458,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

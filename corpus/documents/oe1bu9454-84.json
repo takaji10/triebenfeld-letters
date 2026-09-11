@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 38
+   "doc_line_start": 18,
+   "doc_line_end": 37
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 40,
-   "doc_line_end": 52
+   "doc_line_start": 38,
+   "doc_line_end": 50
   }
  ],
  "mentions": [
@@ -100,7 +100,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6727
+   "line": 6727,
+   "doc_line": 3
   },
   {
    "entity": "koeckritz",
@@ -109,7 +110,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 6751
+   "line": 6751,
+   "doc_line": 26
   },
   {
    "entity": "voss",
@@ -118,7 +120,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 6753
+   "line": 6753,
+   "doc_line": 28
   },
   {
    "entity": "noldichen",
@@ -127,7 +130,8 @@
    "surface": "Nöldichen",
    "page": 2,
    "page_id": "",
-   "line": 6754
+   "line": 6754,
+   "doc_line": 29
   },
   {
    "entity": "voss",
@@ -136,7 +140,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 6754
+   "line": 6754,
+   "doc_line": 29
   },
   {
    "entity": "triebenfeld",
@@ -145,7 +150,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 6776
+   "line": 6776,
+   "doc_line": 50
   }
  ],
  "mentions_english": [],

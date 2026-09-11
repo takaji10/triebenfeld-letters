@@ -63,7 +63,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14425
+   "line": 14425,
+   "doc_line": 2
   },
   {
    "entity": "eysenhardt",
@@ -72,7 +73,8 @@
    "surface": "Eysenhardt",
    "page": 1,
    "page_id": "",
-   "line": 14440
+   "line": 14440,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -81,7 +83,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14457
+   "line": 14457,
+   "doc_line": 34
   }
  ],
  "mentions_english": [],

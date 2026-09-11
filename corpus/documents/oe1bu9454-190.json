@@ -64,8 +64,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 35
+   "doc_line_start": 18,
+   "doc_line_end": 34
   },
   {
    "page": 3,
@@ -84,8 +84,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 37,
-   "doc_line_end": 59
+   "doc_line_start": 35,
+   "doc_line_end": 57
   },
   {
    "page": 4,
@@ -102,8 +102,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 61,
-   "doc_line_end": 68
+   "doc_line_start": 58,
+   "doc_line_end": 65
   },
   {
    "page": 5,
@@ -124,8 +124,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 70,
-   "doc_line_end": 86
+   "doc_line_start": 66,
+   "doc_line_end": 82
   }
  ],
  "mentions": [
@@ -136,7 +136,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 13453
+   "line": 13453,
+   "doc_line": 7
   },
   {
    "entity": "glenck",
@@ -145,7 +146,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 13475
+   "line": 13475,
+   "doc_line": 28
   },
   {
    "entity": "glenck",
@@ -154,7 +156,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 13480
+   "line": 13480,
+   "doc_line": 33
   },
   {
    "entity": "glenck",
@@ -163,7 +166,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 13483
+   "line": 13483,
+   "doc_line": 35
   }
  ],
  "mentions_english": [],

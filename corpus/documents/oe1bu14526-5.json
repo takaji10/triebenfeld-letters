@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 60
+   "doc_line_start": 30,
+   "doc_line_end": 59
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 62,
-   "doc_line_end": 92
+   "doc_line_start": 60,
+   "doc_line_end": 90
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 94,
-   "doc_line_end": 123
+   "doc_line_start": 91,
+   "doc_line_end": 120
   },
   {
    "page": 5,
@@ -133,8 +133,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 125,
-   "doc_line_end": 156
+   "doc_line_start": 121,
+   "doc_line_end": 152
   },
   {
    "page": 6,
@@ -161,8 +161,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 158,
-   "doc_line_end": 193
+   "doc_line_start": 153,
+   "doc_line_end": 188
   },
   {
    "page": 7,
@@ -184,8 +184,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 195,
-   "doc_line_end": 230
+   "doc_line_start": 189,
+   "doc_line_end": 224
   },
   {
    "page": 8,
@@ -202,8 +202,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 232,
-   "doc_line_end": 237
+   "doc_line_start": 225,
+   "doc_line_end": 230
   }
  ],
  "mentions": [
@@ -214,7 +214,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0019_b",
-   "line": 878
+   "line": 878,
+   "doc_line": 2
   },
   {
    "entity": "leixner",
@@ -223,7 +224,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "0019_b",
-   "line": 880
+   "line": 880,
+   "doc_line": 4
   },
   {
    "entity": "hohenlohe",
@@ -232,7 +234,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0019_b",
-   "line": 886
+   "line": 886,
+   "doc_line": 10
   },
   {
    "entity": "gneust",
@@ -241,7 +244,8 @@
    "surface": "Wohlgeb",
    "page": 2,
    "page_id": "0020_a1",
-   "line": 910
+   "line": 910,
+   "doc_line": 33
   },
   {
    "entity": "leixner",
@@ -250,7 +254,8 @@
    "surface": "Leixner",
    "page": 2,
    "page_id": "0020_a1",
-   "line": 911
+   "line": 911,
+   "doc_line": 34
   },
   {
    "entity": "broniewski",
@@ -259,7 +264,8 @@
    "surface": "Broniew",
    "page": 2,
    "page_id": "0020_a1",
-   "line": 929
+   "line": 929,
+   "doc_line": 52
   },
   {
    "entity": "simon",
@@ -268,7 +274,8 @@
    "surface": "Simon",
    "page": 2,
    "page_id": "0020_a1",
-   "line": 935
+   "line": 935,
+   "doc_line": 58
   },
   {
    "entity": "leixner",
@@ -277,7 +284,8 @@
    "surface": "Leixner",
    "page": 2,
    "page_id": "0020_a1",
-   "line": 936
+   "line": 936,
+   "doc_line": 59
   },
   {
    "entity": "broniewski",
@@ -286,7 +294,8 @@
    "surface": "Broniew",
    "page": 3,
    "page_id": "0020_a2",
-   "line": 938
+   "line": 938,
+   "doc_line": 60
   },
   {
    "entity": "broniewski",
@@ -295,7 +304,8 @@
    "surface": "Broniew",
    "page": 3,
    "page_id": "0020_a2",
-   "line": 960
+   "line": 960,
+   "doc_line": 82
   },
   {
    "entity": "broniewski",
@@ -304,7 +314,8 @@
    "surface": "Broniew",
    "page": 3,
    "page_id": "0020_a2",
-   "line": 967
+   "line": 967,
+   "doc_line": 89
   },
   {
    "entity": "kwilecki",
@@ -313,7 +324,8 @@
    "surface": "Kwileck",
    "page": 4,
    "page_id": "0021_a1",
-   "line": 987
+   "line": 987,
+   "doc_line": 108
   },
   {
    "entity": "metzig",
@@ -322,7 +334,8 @@
    "surface": "Metzig",
    "page": 5,
    "page_id": "0021_a2",
-   "line": 1001
+   "line": 1001,
+   "doc_line": 121
   },
   {
    "entity": "metzig",
@@ -331,7 +344,8 @@
    "surface": "Metzig",
    "page": 5,
    "page_id": "0021_a2",
-   "line": 1007
+   "line": 1007,
+   "doc_line": 127
   },
   {
    "entity": "michaelis",
@@ -340,7 +354,8 @@
    "surface": "Michaelis",
    "page": 5,
    "page_id": "0021_a2",
-   "line": 1008
+   "line": 1008,
+   "doc_line": 128
   },
   {
    "entity": "bernhardi",
@@ -349,7 +364,8 @@
    "surface": "Bernhardi",
    "page": 6,
    "page_id": "0022_a1",
-   "line": 1065
+   "line": 1065,
+   "doc_line": 184
   },
   {
    "entity": "triebenfeld",
@@ -358,7 +374,8 @@
    "surface": "Triebenfeld",
    "page": 7,
    "page_id": "0022_a2",
-   "line": 1072
+   "line": 1072,
+   "doc_line": 190
   },
   {
    "entity": "broniewski",
@@ -367,7 +384,8 @@
    "surface": "Broniew",
    "page": 7,
    "page_id": "0022_a2",
-   "line": 1080
+   "line": 1080,
+   "doc_line": 198
   },
   {
    "entity": "hohenlohe",
@@ -376,7 +394,8 @@
    "surface": "Hohenlohe",
    "page": 8,
    "page_id": "0023_a",
-   "line": 1112
+   "line": 1112,
+   "doc_line": 229
   }
  ],
  "mentions_english": [],

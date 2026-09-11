@@ -81,8 +81,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 52
+   "doc_line_start": 24,
+   "doc_line_end": 51
   }
  ],
  "mentions": [
@@ -93,7 +93,8 @@
    "surface": "Flesch",
    "page": 1,
    "page_id": "",
-   "line": 14048
+   "line": 14048,
+   "doc_line": 5
   },
   {
    "entity": "stein",
@@ -102,7 +103,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 14058
+   "line": 14058,
+   "doc_line": 15
   },
   {
    "entity": "massow",
@@ -111,7 +113,8 @@
    "surface": "Massow",
    "page": 1,
    "page_id": "",
-   "line": 14060
+   "line": 14060,
+   "doc_line": 17
   },
   {
    "entity": "massow",
@@ -120,7 +123,8 @@
    "surface": "Massow",
    "page": 1,
    "page_id": "",
-   "line": 14061
+   "line": 14061,
+   "doc_line": 18
   },
   {
    "entity": "napoleon",
@@ -129,7 +133,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 14071
+   "line": 14071,
+   "doc_line": 27
   },
   {
    "entity": "hardenberg",
@@ -138,7 +143,8 @@
    "surface": "Hardenberg",
    "page": 2,
    "page_id": "",
-   "line": 14074
+   "line": 14074,
+   "doc_line": 30
   },
   {
    "entity": "dohna",
@@ -147,7 +153,8 @@
    "surface": "Dohna",
    "page": 2,
    "page_id": "",
-   "line": 14075
+   "line": 14075,
+   "doc_line": 31
   },
   {
    "entity": "prusimska",
@@ -156,7 +163,8 @@
    "surface": "Dąmbska",
    "page": 2,
    "page_id": "",
-   "line": 14075
+   "line": 14075,
+   "doc_line": 31
   },
   {
    "entity": "triebenfeld",
@@ -165,7 +173,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 14095
+   "line": 14095,
+   "doc_line": 51
   }
  ],
  "mentions_english": [],

@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 42
+   "doc_line_start": 21,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 71
+   "doc_line_start": 42,
+   "doc_line_end": 69
   }
  ],
  "mentions": [
@@ -104,7 +104,8 @@
    "surface": "Goldbeck",
    "page": 2,
    "page_id": "",
-   "line": 11400
+   "line": 11400,
+   "doc_line": 26
   },
   {
    "entity": "amelang",
@@ -113,7 +114,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 11403
+   "line": 11403,
+   "doc_line": 29
   },
   {
    "entity": "voss",
@@ -122,7 +124,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 11406
+   "line": 11406,
+   "doc_line": 32
   },
   {
    "entity": "goldbeck",
@@ -131,7 +134,8 @@
    "surface": "Goldbeck",
    "page": 2,
    "page_id": "",
-   "line": 11411
+   "line": 11411,
+   "doc_line": 37
   },
   {
    "entity": "lichnowski",
@@ -140,7 +144,8 @@
    "surface": "Lichnowski",
    "page": 3,
    "page_id": "",
-   "line": 11431
+   "line": 11431,
+   "doc_line": 56
   },
   {
    "entity": "triebenfeld",
@@ -149,7 +154,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 11444
+   "line": 11444,
+   "doc_line": 69
   }
  ],
  "mentions_english": [],

@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 45
+   "doc_line_start": 22,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -87,8 +87,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 57
+   "doc_line_start": 45,
+   "doc_line_end": 55
   }
  ],
  "mentions": [
@@ -99,7 +99,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15586
+   "line": 15586,
+   "doc_line": 9
   },
   {
    "entity": "hecker",
@@ -108,7 +109,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 15612
+   "line": 15612,
+   "doc_line": 34
   },
   {
    "entity": "hawich",
@@ -117,7 +119,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 15613
+   "line": 15613,
+   "doc_line": 35
   },
   {
    "entity": "hecker",
@@ -126,7 +129,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 15613
+   "line": 15613,
+   "doc_line": 35
   },
   {
    "entity": "honrichs",
@@ -135,7 +139,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 15619
+   "line": 15619,
+   "doc_line": 41
   },
   {
    "entity": "hecker",
@@ -144,7 +149,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 15620
+   "line": 15620,
+   "doc_line": 42
   },
   {
    "entity": "hecker",
@@ -153,7 +159,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 15621
+   "line": 15621,
+   "doc_line": 43
   },
   {
    "entity": "triebenfeld",
@@ -162,7 +169,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 15634
+   "line": 15634,
+   "doc_line": 55
   }
  ],
  "mentions_english": [],

@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 36,
-   "doc_line_end": 51
+   "doc_line_start": 35,
+   "doc_line_end": 50
   }
  ],
  "mentions": [
@@ -79,7 +79,8 @@
    "surface": "Pourtal",
    "page": 1,
    "page_id": "",
-   "line": 679
+   "line": 679,
+   "doc_line": 14
   },
   {
    "entity": "barbe",
@@ -88,7 +89,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 689
+   "line": 689,
+   "doc_line": 24
   },
   {
    "entity": "barbe",
@@ -97,7 +99,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 705
+   "line": 705,
+   "doc_line": 39
   },
   {
    "entity": "eberhard",
@@ -106,7 +109,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 707
+   "line": 707,
+   "doc_line": 41
   },
   {
    "entity": "barbe",
@@ -115,7 +119,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 714
+   "line": 714,
+   "doc_line": 48
   },
   {
    "entity": "pourtales",
@@ -124,7 +129,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 716
+   "line": 716,
+   "doc_line": 50
   }
  ],
  "mentions_english": [],

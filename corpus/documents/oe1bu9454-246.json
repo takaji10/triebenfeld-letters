@@ -77,8 +77,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 56
+   "doc_line_start": 23,
+   "doc_line_end": 55
   }
  ],
  "mentions": [
@@ -89,7 +89,8 @@
    "surface": "Talleyrand",
    "page": 1,
    "page_id": "",
-   "line": 17780
+   "line": 17780,
+   "doc_line": 12
   },
   {
    "entity": "gaertner",
@@ -98,7 +99,8 @@
    "surface": "Gärtner",
    "page": 1,
    "page_id": "",
-   "line": 17788
+   "line": 17788,
+   "doc_line": 20
   },
   {
    "entity": "zerboni",
@@ -107,7 +109,8 @@
    "surface": "Zerboni",
    "page": 2,
    "page_id": "",
-   "line": 17802
+   "line": 17802,
+   "doc_line": 33
   },
   {
    "entity": "gaertner",
@@ -116,7 +119,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 17811
+   "line": 17811,
+   "doc_line": 42
   },
   {
    "entity": "triebenfeld",
@@ -125,7 +129,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17824
+   "line": 17824,
+   "doc_line": 55
   }
  ],
  "mentions_english": [],

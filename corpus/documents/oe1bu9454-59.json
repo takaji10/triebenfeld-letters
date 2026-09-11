@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 52
+   "doc_line_start": 24,
+   "doc_line_end": 51
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 54,
-   "doc_line_end": 83
+   "doc_line_start": 52,
+   "doc_line_end": 81
   },
   {
    "page": 4,
@@ -114,8 +114,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 85,
-   "doc_line_end": 120
+   "doc_line_start": 82,
+   "doc_line_end": 117
   }
  ],
  "mentions": [
@@ -126,7 +126,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4422
+   "line": 4422,
+   "doc_line": 10
   },
   {
    "entity": "lahr",
@@ -135,7 +136,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4424
+   "line": 4424,
+   "doc_line": 12
   },
   {
    "entity": "stein",
@@ -144,7 +146,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 4440
+   "line": 4440,
+   "doc_line": 27
   },
   {
    "entity": "pirch",
@@ -153,7 +156,8 @@
    "surface": "Pirch",
    "page": 3,
    "page_id": "",
-   "line": 4487
+   "line": 4487,
+   "doc_line": 73
   },
   {
    "entity": "hache",
@@ -162,7 +166,8 @@
    "surface": "Hache",
    "page": 3,
    "page_id": "",
-   "line": 4489
+   "line": 4489,
+   "doc_line": 75
   },
   {
    "entity": "pirch",
@@ -171,7 +176,8 @@
    "surface": "Pirch",
    "page": 3,
    "page_id": "",
-   "line": 4489
+   "line": 4489,
+   "doc_line": 75
   },
   {
    "entity": "honrichs",
@@ -180,7 +186,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 4511
+   "line": 4511,
+   "doc_line": 96
   },
   {
    "entity": "honrichs",
@@ -189,7 +196,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 4519
+   "line": 4519,
+   "doc_line": 104
   },
   {
    "entity": "lombardini",
@@ -198,7 +206,8 @@
    "surface": "Lombardin",
    "page": 4,
    "page_id": "",
-   "line": 4524
+   "line": 4524,
+   "doc_line": 109
   },
   {
    "entity": "triebenfeld",
@@ -207,7 +216,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 4532
+   "line": 4532,
+   "doc_line": 117
   }
  ],
  "mentions_english": [],

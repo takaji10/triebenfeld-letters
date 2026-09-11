@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 39
+   "doc_line_start": 20,
+   "doc_line_end": 38
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 41,
-   "doc_line_end": 61
+   "doc_line_start": 39,
+   "doc_line_end": 59
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 63,
-   "doc_line_end": 84
+   "doc_line_start": 60,
+   "doc_line_end": 81
   },
   {
    "page": 5,
@@ -131,8 +131,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 86,
-   "doc_line_end": 97
+   "doc_line_start": 82,
+   "doc_line_end": 93
   }
  ],
  "mentions": [
@@ -143,7 +143,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9450
+   "line": 9450,
+   "doc_line": 6
   },
   {
    "entity": "leixner",
@@ -152,7 +153,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 9452
+   "line": 9452,
+   "doc_line": 8
   },
   {
    "entity": "glenck",
@@ -161,7 +163,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9463
+   "line": 9463,
+   "doc_line": 19
   },
   {
    "entity": "glenck",
@@ -170,7 +173,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 9465
+   "line": 9465,
+   "doc_line": 20
   },
   {
    "entity": "brandenstein",
@@ -179,7 +183,8 @@
    "surface": "Brandenstein",
    "page": 2,
    "page_id": "",
-   "line": 9467
+   "line": 9467,
+   "doc_line": 22
   },
   {
    "entity": "glenck",
@@ -188,7 +193,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 9478
+   "line": 9478,
+   "doc_line": 33
   },
   {
    "entity": "amelang",
@@ -197,7 +203,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 9480
+   "line": 9480,
+   "doc_line": 35
   },
   {
    "entity": "koeckritz",
@@ -206,7 +213,8 @@
    "surface": "Köckritz",
    "page": 4,
    "page_id": "",
-   "line": 9509
+   "line": 9509,
+   "doc_line": 62
   },
   {
    "entity": "koeckritz",
@@ -215,7 +223,8 @@
    "surface": "Köckritz",
    "page": 4,
    "page_id": "",
-   "line": 9512
+   "line": 9512,
+   "doc_line": 65
   },
   {
    "entity": "amelang",
@@ -224,7 +233,8 @@
    "surface": "Amelang",
    "page": 4,
    "page_id": "",
-   "line": 9513
+   "line": 9513,
+   "doc_line": 66
   },
   {
    "entity": "koeckritz",
@@ -233,7 +243,8 @@
    "surface": "Köckritz",
    "page": 4,
    "page_id": "",
-   "line": 9516
+   "line": 9516,
+   "doc_line": 69
   },
   {
    "entity": "amelang",
@@ -242,7 +253,8 @@
    "surface": "Amelang",
    "page": 4,
    "page_id": "",
-   "line": 9520
+   "line": 9520,
+   "doc_line": 73
   },
   {
    "entity": "koeckritz",
@@ -251,7 +263,8 @@
    "surface": "Köckritz",
    "page": 4,
    "page_id": "",
-   "line": 9528
+   "line": 9528,
+   "doc_line": 81
   },
   {
    "entity": "haugwitz",
@@ -260,7 +273,8 @@
    "surface": "Haugwitz",
    "page": 5,
    "page_id": "",
-   "line": 9532
+   "line": 9532,
+   "doc_line": 84
   },
   {
    "entity": "triebenfeld",
@@ -269,7 +283,8 @@
    "surface": "Triebenfeld",
    "page": 5,
    "page_id": "",
-   "line": 9541
+   "line": 9541,
+   "doc_line": 93
   }
  ],
  "mentions_english": [],

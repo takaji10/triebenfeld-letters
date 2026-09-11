@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 17,
-   "doc_line_end": 33
+   "doc_line_start": 16,
+   "doc_line_end": 32
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 53
+   "doc_line_start": 33,
+   "doc_line_end": 51
   }
  ],
  "mentions": [
@@ -101,7 +101,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 7432
+   "line": 7432,
+   "doc_line": 3
   },
   {
    "entity": "triebenfeld",
@@ -110,7 +111,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 7482
+   "line": 7482,
+   "doc_line": 51
   }
  ],
  "mentions_english": [],

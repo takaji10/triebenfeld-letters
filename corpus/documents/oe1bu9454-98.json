@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 34
+   "doc_line_start": 18,
+   "doc_line_end": 33
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 36,
-   "doc_line_end": 53
+   "doc_line_start": 34,
+   "doc_line_end": 51
   },
   {
    "page": 4,
@@ -114,8 +114,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 55,
-   "doc_line_end": 78
+   "doc_line_start": 52,
+   "doc_line_end": 75
   }
  ],
  "mentions": [
@@ -126,7 +126,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 7612
+   "line": 7612,
+   "doc_line": 6
   },
   {
    "entity": "glenck",
@@ -135,7 +136,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 7616
+   "line": 7616,
+   "doc_line": 10
   },
   {
    "entity": "koeckritz",
@@ -144,7 +146,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 7619
+   "line": 7619,
+   "doc_line": 13
   },
   {
    "entity": "zastrow",
@@ -153,7 +156,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 7619
+   "line": 7619,
+   "doc_line": 13
   },
   {
    "entity": "hoym",
@@ -162,7 +166,8 @@
    "surface": "Hoym",
    "page": 3,
    "page_id": "",
-   "line": 7650
+   "line": 7650,
+   "doc_line": 42
   },
   {
    "entity": "koeckritz",
@@ -171,7 +176,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 7651
+   "line": 7651,
+   "doc_line": 43
   },
   {
    "entity": "voss",
@@ -180,7 +186,8 @@
    "surface": "Voss",
    "page": 3,
    "page_id": "",
-   "line": 7654
+   "line": 7654,
+   "doc_line": 46
   },
   {
    "entity": "sacken",
@@ -189,7 +196,8 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
-   "line": 7659
+   "line": 7659,
+   "doc_line": 51
   },
   {
    "entity": "hoym",
@@ -198,7 +206,8 @@
    "surface": "Hoym",
    "page": 4,
    "page_id": "",
-   "line": 7662
+   "line": 7662,
+   "doc_line": 53
   },
   {
    "entity": "wedel",
@@ -207,7 +216,8 @@
    "surface": "Wedel",
    "page": 4,
    "page_id": "",
-   "line": 7662
+   "line": 7662,
+   "doc_line": 53
   },
   {
    "entity": "haugwitz",
@@ -216,7 +226,8 @@
    "surface": "Haugwitzen",
    "page": 4,
    "page_id": "",
-   "line": 7677
+   "line": 7677,
+   "doc_line": 68
   },
   {
    "entity": "schulenburg",
@@ -225,7 +236,8 @@
    "surface": "Schulemburg",
    "page": 4,
    "page_id": "",
-   "line": 7677
+   "line": 7677,
+   "doc_line": 68
   },
   {
    "entity": "triebenfeld",
@@ -234,7 +246,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 7684
+   "line": 7684,
+   "doc_line": 75
   }
  ],
  "mentions_english": [],

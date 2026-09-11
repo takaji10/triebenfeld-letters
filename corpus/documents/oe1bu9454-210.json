@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 48
+   "doc_line_start": 22,
+   "doc_line_end": 47
   },
   {
    "page": 3,
@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 50,
-   "doc_line_end": 72
+   "doc_line_start": 48,
+   "doc_line_end": 70
   },
   {
    "page": 4,
@@ -121,8 +121,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 74,
-   "doc_line_end": 115
+   "doc_line_start": 71,
+   "doc_line_end": 112
   }
  ],
  "mentions": [
@@ -133,7 +133,8 @@
    "surface": "Sommers",
    "page": 2,
    "page_id": "",
-   "line": 14832
+   "line": 14832,
+   "doc_line": 28
   },
   {
    "entity": "prusimska",
@@ -142,7 +143,8 @@
    "surface": "Dąbska",
    "page": 2,
    "page_id": "",
-   "line": 14837
+   "line": 14837,
+   "doc_line": 33
   },
   {
    "entity": "niedzewiecki",
@@ -151,7 +153,8 @@
    "surface": "Niedzew",
    "page": 3,
    "page_id": "",
-   "line": 14860
+   "line": 14860,
+   "doc_line": 55
   },
   {
    "entity": "hawich",
@@ -160,7 +163,8 @@
    "surface": "Hawich",
    "page": 3,
    "page_id": "",
-   "line": 14864
+   "line": 14864,
+   "doc_line": 59
   },
   {
    "entity": "hawich",
@@ -169,7 +173,8 @@
    "surface": "Hawich",
    "page": 3,
    "page_id": "",
-   "line": 14868
+   "line": 14868,
+   "doc_line": 63
   },
   {
    "entity": "napoleon",
@@ -178,7 +183,8 @@
    "surface": "Napoleon",
    "page": 4,
    "page_id": "",
-   "line": 14882
+   "line": 14882,
+   "doc_line": 76
   },
   {
    "entity": "niedzewiecki",
@@ -187,7 +193,8 @@
    "surface": "Niedzew",
    "page": 4,
    "page_id": "",
-   "line": 14895
+   "line": 14895,
+   "doc_line": 89
   },
   {
    "entity": "radzinski",
@@ -196,7 +203,8 @@
    "surface": "Radzinski",
    "page": 4,
    "page_id": "",
-   "line": 14901
+   "line": 14901,
+   "doc_line": 95
   },
   {
    "entity": "sommer",
@@ -205,7 +213,8 @@
    "surface": "Sommer",
    "page": 4,
    "page_id": "",
-   "line": 14908
+   "line": 14908,
+   "doc_line": 102
   },
   {
    "entity": "sommer",
@@ -214,7 +223,8 @@
    "surface": "Sommer",
    "page": 4,
    "page_id": "",
-   "line": 14910
+   "line": 14910,
+   "doc_line": 104
   },
   {
    "entity": "triebenfeld",
@@ -223,7 +233,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 14918
+   "line": 14918,
+   "doc_line": 112
   }
  ],
  "mentions_english": [],

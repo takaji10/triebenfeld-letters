@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 44
+   "doc_line_start": 23,
+   "doc_line_end": 43
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 46,
-   "doc_line_end": 66
+   "doc_line_start": 44,
+   "doc_line_end": 64
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 68,
-   "doc_line_end": 95
+   "doc_line_start": 65,
+   "doc_line_end": 92
   }
  ],
  "mentions": [
@@ -124,7 +124,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 13073
+   "line": 13073,
+   "doc_line": 6
   },
   {
    "entity": "haugwitz",
@@ -133,7 +134,8 @@
    "surface": "Haugwitz",
    "page": 1,
    "page_id": "",
-   "line": 13073
+   "line": 13073,
+   "doc_line": 6
   },
   {
    "entity": "pochammer",
@@ -142,7 +144,8 @@
    "surface": "Pochammer",
    "page": 1,
    "page_id": "",
-   "line": 13075
+   "line": 13075,
+   "doc_line": 8
   },
   {
    "entity": "pochammer",
@@ -151,7 +154,8 @@
    "surface": "Pochammer",
    "page": 1,
    "page_id": "",
-   "line": 13083
+   "line": 13083,
+   "doc_line": 16
   },
   {
    "entity": "voss",
@@ -160,7 +164,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 13087
+   "line": 13087,
+   "doc_line": 20
   },
   {
    "entity": "pochammer",
@@ -169,7 +174,8 @@
    "surface": "Pochammer",
    "page": 1,
    "page_id": "",
-   "line": 13088
+   "line": 13088,
+   "doc_line": 21
   },
   {
    "entity": "haugwitz",
@@ -178,7 +184,8 @@
    "surface": "Haugwitz",
    "page": 2,
    "page_id": "",
-   "line": 13097
+   "line": 13097,
+   "doc_line": 29
   },
   {
    "entity": "hardenberg",
@@ -187,7 +194,8 @@
    "surface": "Hardenberg",
    "page": 2,
    "page_id": "",
-   "line": 13100
+   "line": 13100,
+   "doc_line": 32
   },
   {
    "entity": "haugwitz",
@@ -196,7 +204,8 @@
    "surface": "Haugwitz",
    "page": 2,
    "page_id": "",
-   "line": 13100
+   "line": 13100,
+   "doc_line": 32
   },
   {
    "entity": "pochammer",
@@ -205,7 +214,8 @@
    "surface": "Pochammer",
    "page": 2,
    "page_id": "",
-   "line": 13104
+   "line": 13104,
+   "doc_line": 36
   },
   {
    "entity": "pochammer",
@@ -214,7 +224,8 @@
    "surface": "Pochammer",
    "page": 2,
    "page_id": "",
-   "line": 13107
+   "line": 13107,
+   "doc_line": 39
   },
   {
    "entity": "amelang",
@@ -223,7 +234,8 @@
    "surface": "Amel:",
    "page": 3,
    "page_id": "",
-   "line": 13120
+   "line": 13120,
+   "doc_line": 51
   },
   {
    "entity": "hohenlohe",
@@ -232,7 +244,8 @@
    "surface": "Hohenlohe",
    "page": 3,
    "page_id": "",
-   "line": 13126
+   "line": 13126,
+   "doc_line": 57
   },
   {
    "entity": "triebenfeld",
@@ -241,7 +254,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 13143
+   "line": 13143,
+   "doc_line": 73
   },
   {
    "entity": "triebenfeld",
@@ -250,7 +264,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 13162
+   "line": 13162,
+   "doc_line": 92
   }
  ],
  "mentions_english": [],

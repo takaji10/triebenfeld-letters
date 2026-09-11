@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 30,
-   "doc_line_end": 57
+   "doc_line_start": 29,
+   "doc_line_end": 56
   },
   {
    "page": 3,
@@ -97,8 +97,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 78
+   "doc_line_start": 57,
+   "doc_line_end": 76
   }
  ],
  "mentions": [
@@ -109,7 +109,8 @@
    "surface": "Metternich",
    "page": 1,
    "page_id": "",
-   "line": 19482
+   "line": 19482,
+   "doc_line": 14
   },
   {
    "entity": "goeschel",
@@ -118,7 +119,8 @@
    "surface": "Göschel",
    "page": 1,
    "page_id": "",
-   "line": 19490
+   "line": 19490,
+   "doc_line": 22
   },
   {
    "entity": "august",
@@ -127,7 +129,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19491
+   "line": 19491,
+   "doc_line": 23
   },
   {
    "entity": "gaertner",
@@ -136,7 +139,8 @@
    "surface": "Gärtner",
    "page": 1,
    "page_id": "",
-   "line": 19496
+   "line": 19496,
+   "doc_line": 28
   },
   {
    "entity": "amstetten",
@@ -145,7 +149,8 @@
    "surface": "Amstetten",
    "page": 2,
    "page_id": "",
-   "line": 19525
+   "line": 19525,
+   "doc_line": 56
   },
   {
    "entity": "bulow",
@@ -154,7 +159,8 @@
    "surface": "Bülow",
    "page": 3,
    "page_id": "",
-   "line": 19538
+   "line": 19538,
+   "doc_line": 68
   },
   {
    "entity": "triebenfeld",
@@ -163,7 +169,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 19546
+   "line": 19546,
+   "doc_line": 76
   }
  ],
  "mentions_english": [],

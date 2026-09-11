@@ -59,7 +59,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 13169
+   "line": 13169,
+   "doc_line": 5
   },
   {
    "entity": "massenbach",
@@ -68,7 +69,8 @@
    "surface": "Massenbach",
    "page": 1,
    "page_id": "",
-   "line": 13175
+   "line": 13175,
+   "doc_line": 11
   },
   {
    "entity": "massenbach",
@@ -77,7 +79,8 @@
    "surface": "Massenbach",
    "page": 1,
    "page_id": "",
-   "line": 13176
+   "line": 13176,
+   "doc_line": 12
   }
  ],
  "mentions_english": [],

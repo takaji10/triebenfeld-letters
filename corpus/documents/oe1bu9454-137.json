@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 35
+   "doc_line_start": 18,
+   "doc_line_end": 34
   },
   {
    "page": 3,
@@ -93,8 +93,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 37,
-   "doc_line_end": 52
+   "doc_line_start": 35,
+   "doc_line_end": 50
   }
  ],
  "mentions": [
@@ -105,7 +105,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 10038
+   "line": 10038,
+   "doc_line": 3
   },
   {
    "entity": "meyer",
@@ -114,7 +115,8 @@
    "surface": "Meyer",
    "page": 1,
    "page_id": "",
-   "line": 10038
+   "line": 10038,
+   "doc_line": 3
   },
   {
    "entity": "bernhardi",
@@ -123,7 +125,8 @@
    "surface": "Bernhardi",
    "page": 1,
    "page_id": "",
-   "line": 10043
+   "line": 10043,
+   "doc_line": 8
   },
   {
    "entity": "bernhard",
@@ -132,7 +135,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 10048
+   "line": 10048,
+   "doc_line": 13
   },
   {
    "entity": "meyer",
@@ -141,7 +145,8 @@
    "surface": "Meyer",
    "page": 1,
    "page_id": "",
-   "line": 10048
+   "line": 10048,
+   "doc_line": 13
   },
   {
    "entity": "koeckritz",
@@ -150,7 +155,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 10058
+   "line": 10058,
+   "doc_line": 22
   },
   {
    "entity": "schlabrendorff",
@@ -159,7 +165,8 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
-   "line": 10070
+   "line": 10070,
+   "doc_line": 34
   },
   {
    "entity": "sacken",
@@ -168,7 +175,8 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
-   "line": 10073
+   "line": 10073,
+   "doc_line": 36
   },
   {
    "entity": "cosmar",
@@ -177,7 +185,8 @@
    "surface": "Cosmar",
    "page": 3,
    "page_id": "",
-   "line": 10076
+   "line": 10076,
+   "doc_line": 39
   },
   {
    "entity": "triebenfeld",
@@ -186,7 +195,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 10087
+   "line": 10087,
+   "doc_line": 50
   }
  ],
  "mentions_english": [],

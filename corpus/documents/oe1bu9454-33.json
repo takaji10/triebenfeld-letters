@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 51
+   "doc_line_start": 25,
+   "doc_line_end": 50
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 53,
-   "doc_line_end": 88
+   "doc_line_start": 51,
+   "doc_line_end": 86
   }
  ],
  "mentions": [
@@ -102,7 +102,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 2251
+   "line": 2251,
+   "doc_line": 6
   },
   {
    "entity": "eysenhardt",
@@ -111,7 +112,8 @@
    "surface": "Eysenhardt",
    "page": 1,
    "page_id": "",
-   "line": 2255
+   "line": 2255,
+   "doc_line": 10
   },
   {
    "entity": "oppenheimer",
@@ -120,7 +122,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 2261
+   "line": 2261,
+   "doc_line": 16
   },
   {
    "entity": "eysenhardt",
@@ -129,7 +132,8 @@
    "surface": "Eysenhardt",
    "page": 1,
    "page_id": "",
-   "line": 2262
+   "line": 2262,
+   "doc_line": 17
   },
   {
    "entity": "schlabrendorff",
@@ -138,7 +142,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 2265
+   "line": 2265,
+   "doc_line": 20
   },
   {
    "entity": "hecker",
@@ -147,7 +152,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 2278
+   "line": 2278,
+   "doc_line": 32
   },
   {
    "entity": "honrichs",
@@ -156,7 +162,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 2278
+   "line": 2278,
+   "doc_line": 32
   },
   {
    "entity": "stein",
@@ -165,7 +172,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 2294
+   "line": 2294,
+   "doc_line": 48
   },
   {
    "entity": "triebenfeld",
@@ -174,7 +182,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 2332
+   "line": 2332,
+   "doc_line": 85
   }
  ],
  "mentions_english": [],

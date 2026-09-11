@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 57
+   "doc_line_start": 25,
+   "doc_line_end": 56
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 19909
+   "line": 19909,
+   "doc_line": 11
   },
   {
    "entity": "hardenberg",
@@ -93,7 +94,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 19909
+   "line": 19909,
+   "doc_line": 11
   },
   {
    "entity": "staegemann",
@@ -102,7 +104,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19922
+   "line": 19922,
+   "doc_line": 24
   },
   {
    "entity": "eberhard",
@@ -111,7 +114,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 19928
+   "line": 19928,
+   "doc_line": 29
   },
   {
    "entity": "pourtales",
@@ -120,7 +124,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 19937
+   "line": 19937,
+   "doc_line": 38
   },
   {
    "entity": "eberhard",
@@ -129,7 +134,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 19942
+   "line": 19942,
+   "doc_line": 43
   },
   {
    "entity": "napoleon",
@@ -138,7 +144,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 19947
+   "line": 19947,
+   "doc_line": 48
   },
   {
    "entity": "triebenfeld",
@@ -147,7 +154,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19955
+   "line": 19955,
+   "doc_line": 56
   }
  ],
  "mentions_english": [],

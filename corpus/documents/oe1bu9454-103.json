@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 43
+   "doc_line_start": 22,
+   "doc_line_end": 42
   },
   {
    "page": 3,
@@ -95,8 +95,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 45,
-   "doc_line_end": 78
+   "doc_line_start": 43,
+   "doc_line_end": 76
   },
   {
    "page": 4,
@@ -117,8 +117,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 80,
-   "doc_line_end": 109
+   "doc_line_start": 77,
+   "doc_line_end": 106
   }
  ],
  "mentions": [
@@ -129,7 +129,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 8053
+   "line": 8053,
+   "doc_line": 3
   },
   {
    "entity": "rapacki",
@@ -138,7 +139,8 @@
    "surface": "Rapacki",
    "page": 1,
    "page_id": "",
-   "line": 8057
+   "line": 8057,
+   "doc_line": 7
   },
   {
    "entity": "schlabrendorff",
@@ -147,7 +149,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 8065
+   "line": 8065,
+   "doc_line": 15
   },
   {
    "entity": "rapacki",
@@ -156,7 +159,8 @@
    "surface": "Rapacki",
    "page": 1,
    "page_id": "",
-   "line": 8070
+   "line": 8070,
+   "doc_line": 20
   },
   {
    "entity": "broniewski",
@@ -165,7 +169,8 @@
    "surface": "Broniew",
    "page": 2,
    "page_id": "",
-   "line": 8076
+   "line": 8076,
+   "doc_line": 25
   },
   {
    "entity": "winzingerode",
@@ -174,7 +179,8 @@
    "surface": "Winzingerode",
    "page": 2,
    "page_id": "",
-   "line": 8077
+   "line": 8077,
+   "doc_line": 26
   },
   {
    "entity": "prusimski",
@@ -183,7 +189,8 @@
    "surface": "Prusimskische",
    "page": 2,
    "page_id": "",
-   "line": 8091
+   "line": 8091,
+   "doc_line": 40
   },
   {
    "entity": "prusimski",
@@ -192,7 +199,8 @@
    "surface": "Prussimskischen",
    "page": 3,
    "page_id": "",
-   "line": 8102
+   "line": 8102,
+   "doc_line": 50
   },
   {
    "entity": "zastrow",
@@ -201,7 +209,8 @@
    "surface": "Zastrow",
    "page": 4,
    "page_id": "",
-   "line": 8137
+   "line": 8137,
+   "doc_line": 84
   },
   {
    "entity": "glenck",
@@ -210,7 +219,8 @@
    "surface": "Glenck",
    "page": 4,
    "page_id": "",
-   "line": 8148
+   "line": 8148,
+   "doc_line": 95
   },
   {
    "entity": "triebenfeld",
@@ -219,7 +229,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 8159
+   "line": 8159,
+   "doc_line": 106
   }
  ],
  "mentions_english": [],

@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 37
+   "doc_line_start": 18,
+   "doc_line_end": 36
   }
  ],
  "mentions": [
@@ -81,7 +81,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9310
+   "line": 9310,
+   "doc_line": 4
   },
   {
    "entity": "leixner",
@@ -90,7 +91,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 9311
+   "line": 9311,
+   "doc_line": 5
   },
   {
    "entity": "bernhard",
@@ -99,7 +101,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 9314
+   "line": 9314,
+   "doc_line": 8
   },
   {
    "entity": "leixner",
@@ -108,7 +111,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 9317
+   "line": 9317,
+   "doc_line": 11
   },
   {
    "entity": "leixner",
@@ -117,7 +121,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 9320
+   "line": 9320,
+   "doc_line": 14
   },
   {
    "entity": "schulenburg",
@@ -126,7 +131,8 @@
    "surface": "Schulemburg",
    "page": 1,
    "page_id": "",
-   "line": 9322
+   "line": 9322,
+   "doc_line": 16
   },
   {
    "entity": "glenck",
@@ -135,7 +141,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 9334
+   "line": 9334,
+   "doc_line": 27
   },
   {
    "entity": "triebenfeld",
@@ -144,7 +151,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 9343
+   "line": 9343,
+   "doc_line": 36
   }
  ],
  "mentions_english": [],

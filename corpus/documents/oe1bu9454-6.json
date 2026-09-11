@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 47
+   "doc_line_start": 23,
+   "doc_line_end": 46
   },
   {
    "page": 3,
@@ -93,8 +93,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 49,
-   "doc_line_end": 80
+   "doc_line_start": 47,
+   "doc_line_end": 78
   }
  ],
  "mentions": [
@@ -105,7 +105,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 382
+   "line": 382,
+   "doc_line": 9
   },
   {
    "entity": "stein",
@@ -114,7 +115,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 385
+   "line": 385,
+   "doc_line": 12
   },
   {
    "entity": "nesselrode",
@@ -123,7 +125,8 @@
    "surface": "Nesselrode",
    "page": 1,
    "page_id": "",
-   "line": 386
+   "line": 386,
+   "doc_line": 13
   },
   {
    "entity": "allbrecht",
@@ -132,7 +135,8 @@
    "surface": "Allbrecht",
    "page": 1,
    "page_id": "",
-   "line": 389
+   "line": 389,
+   "doc_line": 16
   },
   {
    "entity": "staegemann",
@@ -141,7 +145,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 391
+   "line": 391,
+   "doc_line": 18
   },
   {
    "entity": "hardenberg",
@@ -150,7 +155,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 395
+   "line": 395,
+   "doc_line": 22
   },
   {
    "entity": "staegemann",
@@ -159,7 +165,8 @@
    "surface": "Stägemann",
    "page": 2,
    "page_id": "",
-   "line": 398
+   "line": 398,
+   "doc_line": 24
   },
   {
    "entity": "cosmar",
@@ -168,7 +175,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 399
+   "line": 399,
+   "doc_line": 25
   },
   {
    "entity": "cosmar",
@@ -177,7 +185,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 401
+   "line": 401,
+   "doc_line": 27
   },
   {
    "entity": "staegemann",
@@ -186,7 +195,8 @@
    "surface": "Stägemann",
    "page": 2,
    "page_id": "",
-   "line": 401
+   "line": 401,
+   "doc_line": 27
   },
   {
    "entity": "barbe",
@@ -195,7 +205,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 404
+   "line": 404,
+   "doc_line": 30
   },
   {
    "entity": "cosmar",
@@ -204,7 +215,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 413
+   "line": 413,
+   "doc_line": 39
   },
   {
    "entity": "pourtales",
@@ -213,7 +225,8 @@
    "surface": "Pourtal",
    "page": 3,
    "page_id": "",
-   "line": 426
+   "line": 426,
+   "doc_line": 51
   },
   {
    "entity": "august",
@@ -222,7 +235,8 @@
    "surface": "August",
    "page": 3,
    "page_id": "",
-   "line": 436
+   "line": 436,
+   "doc_line": 61
   },
   {
    "entity": "winzingerode",
@@ -231,7 +245,8 @@
    "surface": "Winzingerode",
    "page": 3,
    "page_id": "",
-   "line": 437
+   "line": 437,
+   "doc_line": 62
   },
   {
    "entity": "beugelin",
@@ -240,7 +255,8 @@
    "surface": "Beugelin",
    "page": 3,
    "page_id": "",
-   "line": 445
+   "line": 445,
+   "doc_line": 70
   },
   {
    "entity": "barbe",
@@ -249,7 +265,8 @@
    "surface": "Barbe",
    "page": 3,
    "page_id": "",
-   "line": 446
+   "line": 446,
+   "doc_line": 71
   },
   {
    "entity": "triebenfeld",
@@ -258,7 +275,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 451
+   "line": 451,
+   "doc_line": 76
   }
  ],
  "mentions_english": [],

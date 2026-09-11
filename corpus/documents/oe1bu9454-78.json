@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 15,
-   "doc_line_end": 33
+   "doc_line_start": 14,
+   "doc_line_end": 32
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 54
+   "doc_line_start": 33,
+   "doc_line_end": 52
   },
   {
    "page": 4,
@@ -108,8 +108,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 65
+   "doc_line_start": 53,
+   "doc_line_end": 62
   }
  ],
  "mentions": [
@@ -120,7 +120,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6391
+   "line": 6391,
+   "doc_line": 7
   },
   {
    "entity": "triebenfeld",
@@ -129,7 +130,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6407
+   "line": 6407,
+   "doc_line": 22
   },
   {
    "entity": "schulze",
@@ -138,7 +140,8 @@
    "surface": "Schulze",
    "page": 2,
    "page_id": "",
-   "line": 6408
+   "line": 6408,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -147,7 +150,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6409
+   "line": 6409,
+   "doc_line": 24
   },
   {
    "entity": "grotowski",
@@ -156,7 +160,8 @@
    "surface": "Grotowskis",
    "page": 3,
    "page_id": "",
-   "line": 6434
+   "line": 6434,
+   "doc_line": 48
   },
   {
    "entity": "triebenfeld",
@@ -165,7 +170,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 6436
+   "line": 6436,
+   "doc_line": 50
   },
   {
    "entity": "michaelis",
@@ -174,7 +180,8 @@
    "surface": "Michaelis",
    "page": 4,
    "page_id": "",
-   "line": 6446
+   "line": 6446,
+   "doc_line": 59
   }
  ],
  "mentions_english": [],

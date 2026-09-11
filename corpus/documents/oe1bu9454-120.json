@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 37
+   "doc_line_start": 21,
+   "doc_line_end": 36
   }
  ],
  "mentions": [
@@ -80,7 +80,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 9037
+   "line": 9037,
+   "doc_line": 15
   },
   {
    "entity": "kunckel",
@@ -89,7 +90,8 @@
    "surface": "Kunckel",
    "page": 2,
    "page_id": "",
-   "line": 9047
+   "line": 9047,
+   "doc_line": 24
   },
   {
    "entity": "kunckel",
@@ -98,7 +100,8 @@
    "surface": "Kunckel",
    "page": 2,
    "page_id": "",
-   "line": 9051
+   "line": 9051,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -107,7 +110,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 9059
+   "line": 9059,
+   "doc_line": 36
   }
  ],
  "mentions_english": [],

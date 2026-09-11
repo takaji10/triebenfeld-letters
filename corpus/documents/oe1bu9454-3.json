@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 61
+   "doc_line_start": 30,
+   "doc_line_end": 60
   }
  ],
  "mentions": [
@@ -79,7 +79,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 214
+   "line": 214,
+   "doc_line": 7
   },
   {
    "entity": "nesselrode",
@@ -88,7 +89,8 @@
    "surface": "Nesselrode",
    "page": 1,
    "page_id": "",
-   "line": 218
+   "line": 218,
+   "doc_line": 11
   },
   {
    "entity": "cosmar",
@@ -97,7 +99,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 238
+   "line": 238,
+   "doc_line": 30
   }
  ],
  "mentions_english": [],

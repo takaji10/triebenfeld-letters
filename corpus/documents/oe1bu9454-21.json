@@ -70,7 +70,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 1244
+   "line": 1244,
+   "doc_line": 3
   },
   {
    "entity": "lombardini",
@@ -79,7 +80,8 @@
    "surface": "Lomb:",
    "page": 1,
    "page_id": "",
-   "line": 1244
+   "line": 1244,
+   "doc_line": 3
   },
   {
    "entity": "talleyrand",
@@ -88,7 +90,8 @@
    "surface": "Talleyrand",
    "page": 1,
    "page_id": "",
-   "line": 1254
+   "line": 1254,
+   "doc_line": 13
   },
   {
    "entity": "august",
@@ -97,7 +100,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 1255
+   "line": 1255,
+   "doc_line": 14
   },
   {
    "entity": "lombardini",
@@ -106,7 +110,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 1273
+   "line": 1273,
+   "doc_line": 32
   },
   {
    "entity": "triebenfeld",
@@ -115,7 +120,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 1280
+   "line": 1280,
+   "doc_line": 39
   }
  ],
  "mentions_english": [],

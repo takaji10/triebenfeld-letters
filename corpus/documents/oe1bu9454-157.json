@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 46
+   "doc_line_start": 20,
+   "doc_line_end": 45
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 11124
+   "line": 11124,
+   "doc_line": 3
   },
   {
    "entity": "pochammer",
@@ -93,7 +94,8 @@
    "surface": "Pochammer",
    "page": 1,
    "page_id": "",
-   "line": 11136
+   "line": 11136,
+   "doc_line": 15
   },
   {
    "entity": "pochammer",
@@ -102,7 +104,8 @@
    "surface": "Pochammer",
    "page": 1,
    "page_id": "",
-   "line": 11139
+   "line": 11139,
+   "doc_line": 18
   },
   {
    "entity": "schlabrendorff",
@@ -111,7 +114,8 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
-   "line": 11152
+   "line": 11152,
+   "doc_line": 30
   },
   {
    "entity": "koeckritz",
@@ -120,7 +124,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 11158
+   "line": 11158,
+   "doc_line": 36
   },
   {
    "entity": "triebenfeld",
@@ -129,7 +134,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 11167
+   "line": 11167,
+   "doc_line": 45
   }
  ],
  "mentions_english": [],

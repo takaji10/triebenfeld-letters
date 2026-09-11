@@ -77,8 +77,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 59
+   "doc_line_start": 34,
+   "doc_line_end": 58
   },
   {
    "page": 3,
@@ -110,8 +110,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 61,
-   "doc_line_end": 97
+   "doc_line_start": 59,
+   "doc_line_end": 95
   },
   {
    "page": 4,
@@ -129,8 +129,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 99,
-   "doc_line_end": 132
+   "doc_line_start": 96,
+   "doc_line_end": 129
   }
  ],
  "mentions": [
@@ -141,7 +141,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1404
+   "line": 1404,
+   "doc_line": 14
   },
   {
    "entity": "lahr",
@@ -150,7 +151,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 1413
+   "line": 1413,
+   "doc_line": 23
   },
   {
    "entity": "koeckritz",
@@ -159,7 +161,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 1436
+   "line": 1436,
+   "doc_line": 45
   },
   {
    "entity": "leixner",
@@ -168,7 +171,8 @@
    "surface": "Leixner",
    "page": 3,
    "page_id": "",
-   "line": 1451
+   "line": 1451,
+   "doc_line": 59
   },
   {
    "entity": "hoym",
@@ -177,7 +181,8 @@
    "surface": "Hoym",
    "page": 3,
    "page_id": "",
-   "line": 1462
+   "line": 1462,
+   "doc_line": 70
   },
   {
    "entity": "lahr",
@@ -186,7 +191,8 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
-   "line": 1464
+   "line": 1464,
+   "doc_line": 72
   },
   {
    "entity": "triebenfeld",
@@ -195,7 +201,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1487
+   "line": 1487,
+   "doc_line": 95
   },
   {
    "entity": "honrichs",
@@ -204,7 +211,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 1500
+   "line": 1500,
+   "doc_line": 107
   },
   {
    "entity": "honrichs",
@@ -213,7 +221,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 1502
+   "line": 1502,
+   "doc_line": 109
   },
   {
    "entity": "lombardini",
@@ -222,7 +231,8 @@
    "surface": "Lombardin",
    "page": 4,
    "page_id": "",
-   "line": 1519
+   "line": 1519,
+   "doc_line": 126
   }
  ],
  "mentions_english": [],

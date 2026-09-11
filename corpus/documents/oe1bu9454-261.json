@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 45
+   "doc_line_start": 27,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 59
+   "doc_line_start": 45,
+   "doc_line_end": 57
   }
  ],
  "mentions": [
@@ -100,7 +100,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 18551
+   "line": 18551,
+   "doc_line": 7
   },
   {
    "entity": "cosmar",
@@ -109,7 +110,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18564
+   "line": 18564,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -118,7 +120,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 18574
+   "line": 18574,
+   "doc_line": 29
   },
   {
    "entity": "eberhard",
@@ -127,7 +130,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 18576
+   "line": 18576,
+   "doc_line": 31
   },
   {
    "entity": "eberhardt",
@@ -136,7 +140,8 @@
    "surface": "Eberhardts",
    "page": 2,
    "page_id": "",
-   "line": 18576
+   "line": 18576,
+   "doc_line": 31
   },
   {
    "entity": "goeschel",
@@ -145,7 +150,8 @@
    "surface": "Göschel",
    "page": 2,
    "page_id": "",
-   "line": 18579
+   "line": 18579,
+   "doc_line": 34
   },
   {
    "entity": "gaertner",
@@ -154,7 +160,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 18582
+   "line": 18582,
+   "doc_line": 37
   },
   {
    "entity": "triebenfeld",
@@ -163,7 +170,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18589
+   "line": 18589,
+   "doc_line": 44
   },
   {
    "entity": "gaertner",
@@ -172,7 +180,8 @@
    "surface": "Gärtner",
    "page": 3,
    "page_id": "",
-   "line": 18599
+   "line": 18599,
+   "doc_line": 53
   }
  ],
  "mentions_english": [],

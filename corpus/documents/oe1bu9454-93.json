@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 20,
-   "doc_line_end": 40
+   "doc_line_start": 19,
+   "doc_line_end": 39
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 42,
-   "doc_line_end": 66
+   "doc_line_start": 40,
+   "doc_line_end": 64
   }
  ],
  "mentions": [
@@ -104,7 +104,8 @@
    "surface": "Köch:",
    "page": 2,
    "page_id": "",
-   "line": 7346
+   "line": 7346,
+   "doc_line": 21
   },
   {
    "entity": "koeckritz",
@@ -113,7 +114,8 @@
    "surface": "Köckritz",
    "page": 3,
    "page_id": "",
-   "line": 7381
+   "line": 7381,
+   "doc_line": 55
   },
   {
    "entity": "triebenfeld",
@@ -122,7 +124,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 7390
+   "line": 7390,
+   "doc_line": 64
   }
  ],
  "mentions_english": [],

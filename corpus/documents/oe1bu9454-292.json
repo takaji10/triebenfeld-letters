@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 32,
-   "doc_line_end": 62
+   "doc_line_start": 31,
+   "doc_line_end": 61
   },
   {
    "page": 3,
@@ -100,8 +100,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 64,
-   "doc_line_end": 92
+   "doc_line_start": 62,
+   "doc_line_end": 90
   }
  ],
  "mentions": [
@@ -112,7 +112,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 20786
+   "line": 20786,
+   "doc_line": 4
   },
   {
    "entity": "hardenberg",
@@ -121,7 +122,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 20787
+   "line": 20787,
+   "doc_line": 5
   },
   {
    "entity": "staegemann",
@@ -130,7 +132,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 20792
+   "line": 20792,
+   "doc_line": 10
   },
   {
    "entity": "cosmar",
@@ -139,7 +142,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20794
+   "line": 20794,
+   "doc_line": 12
   },
   {
    "entity": "sobottendorff",
@@ -148,7 +152,8 @@
    "surface": "Sobottendorff",
    "page": 1,
    "page_id": "",
-   "line": 20796
+   "line": 20796,
+   "doc_line": 14
   },
   {
    "entity": "staegemann",
@@ -157,7 +162,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 20797
+   "line": 20797,
+   "doc_line": 15
   },
   {
    "entity": "cosmar",
@@ -166,7 +172,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20800
+   "line": 20800,
+   "doc_line": 18
   },
   {
    "entity": "staegemann",
@@ -175,7 +182,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 20800
+   "line": 20800,
+   "doc_line": 18
   },
   {
    "entity": "august",
@@ -184,7 +192,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 20808
+   "line": 20808,
+   "doc_line": 26
   },
   {
    "entity": "cosmar",
@@ -193,7 +202,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20808
+   "line": 20808,
+   "doc_line": 26
   },
   {
    "entity": "triebenfeld",
@@ -202,7 +212,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 20809
+   "line": 20809,
+   "doc_line": 27
   },
   {
    "entity": "cosmar",
@@ -211,7 +222,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20815
+   "line": 20815,
+   "doc_line": 32
   },
   {
    "entity": "cosmar",
@@ -220,7 +232,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20818
+   "line": 20818,
+   "doc_line": 35
   },
   {
    "entity": "cosmar",
@@ -229,7 +242,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20821
+   "line": 20821,
+   "doc_line": 38
   },
   {
    "entity": "staegemann",
@@ -238,7 +252,8 @@
    "surface": "Stägemann",
    "page": 2,
    "page_id": "",
-   "line": 20826
+   "line": 20826,
+   "doc_line": 43
   },
   {
    "entity": "cosmar",
@@ -247,7 +262,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20828
+   "line": 20828,
+   "doc_line": 45
   },
   {
    "entity": "cosmar",
@@ -256,7 +272,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20831
+   "line": 20831,
+   "doc_line": 48
   },
   {
    "entity": "staegemann",
@@ -265,7 +282,8 @@
    "surface": "Stägemann",
    "page": 2,
    "page_id": "",
-   "line": 20835
+   "line": 20835,
+   "doc_line": 52
   },
   {
    "entity": "august",
@@ -274,7 +292,8 @@
    "surface": "Augusts",
    "page": 2,
    "page_id": "",
-   "line": 20837
+   "line": 20837,
+   "doc_line": 54
   },
   {
    "entity": "cosmar",
@@ -283,7 +302,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20840
+   "line": 20840,
+   "doc_line": 57
   },
   {
    "entity": "august",
@@ -292,7 +312,8 @@
    "surface": "August",
    "page": 3,
    "page_id": "",
-   "line": 20853
+   "line": 20853,
+   "doc_line": 69
   },
   {
    "entity": "hardenberg",
@@ -301,7 +322,8 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
-   "line": 20853
+   "line": 20853,
+   "doc_line": 69
   },
   {
    "entity": "cosmar",
@@ -310,7 +332,8 @@
    "surface": "Cosmar",
    "page": 3,
    "page_id": "",
-   "line": 20855
+   "line": 20855,
+   "doc_line": 71
   },
   {
    "entity": "cosmar",
@@ -319,7 +342,8 @@
    "surface": "Cosmar",
    "page": 3,
    "page_id": "",
-   "line": 20858
+   "line": 20858,
+   "doc_line": 74
   },
   {
    "entity": "triebenfeld",
@@ -328,7 +352,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 20874
+   "line": 20874,
+   "doc_line": 90
   }
  ],
  "mentions_english": [],

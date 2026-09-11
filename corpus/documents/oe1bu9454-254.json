@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 54
+   "doc_line_start": 25,
+   "doc_line_end": 53
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 59
+   "doc_line_start": 54,
+   "doc_line_end": 57
   },
   {
    "page": 4,
@@ -106,8 +106,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 61,
-   "doc_line_end": 68
+   "doc_line_start": 58,
+   "doc_line_end": 65
   },
   {
    "page": 5,
@@ -125,8 +125,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 70,
-   "doc_line_end": 95
+   "doc_line_start": 66,
+   "doc_line_end": 91
   },
   {
    "page": 6,
@@ -144,8 +144,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 97,
-   "doc_line_end": 123
+   "doc_line_start": 92,
+   "doc_line_end": 118
   }
  ],
  "mentions": [
@@ -156,7 +156,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 18155
+   "line": 18155,
+   "doc_line": 15
   },
   {
    "entity": "barbe",
@@ -165,7 +166,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 18156
+   "line": 18156,
+   "doc_line": 16
   },
   {
    "entity": "bernhard",
@@ -174,7 +176,8 @@
    "surface": "Bernhard",
    "page": 2,
    "page_id": "",
-   "line": 18168
+   "line": 18168,
+   "doc_line": 27
   },
   {
    "entity": "leixner",
@@ -183,7 +186,8 @@
    "surface": "Leixner",
    "page": 2,
    "page_id": "",
-   "line": 18168
+   "line": 18168,
+   "doc_line": 27
   },
   {
    "entity": "meyer",
@@ -192,7 +196,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 18168
+   "line": 18168,
+   "doc_line": 27
   },
   {
    "entity": "cosmar",
@@ -201,7 +206,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 18171
+   "line": 18171,
+   "doc_line": 30
   },
   {
    "entity": "barbe",
@@ -210,7 +216,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 18183
+   "line": 18183,
+   "doc_line": 42
   },
   {
    "entity": "triebenfeld",
@@ -219,7 +226,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 18199
+   "line": 18199,
+   "doc_line": 57
   },
   {
    "entity": "triebenfeld",
@@ -228,7 +236,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 18208
+   "line": 18208,
+   "doc_line": 65
   },
   {
    "entity": "triebenfeld",
@@ -237,7 +246,8 @@
    "surface": "Triebenfeld",
    "page": 5,
    "page_id": "",
-   "line": 18235
+   "line": 18235,
+   "doc_line": 91
   },
   {
    "entity": "pourtales",
@@ -246,7 +256,8 @@
    "surface": "Pourtal",
    "page": 6,
    "page_id": "",
-   "line": 18260
+   "line": 18260,
+   "doc_line": 115
   },
   {
    "entity": "triebenfeld",
@@ -255,7 +266,8 @@
    "surface": "Triebenfeld",
    "page": 6,
    "page_id": "",
-   "line": 18263
+   "line": 18263,
+   "doc_line": 118
   }
  ],
  "mentions_english": [],

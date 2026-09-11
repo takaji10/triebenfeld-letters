@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 42
+   "doc_line_start": 28,
+   "doc_line_end": 41
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 18105
+   "line": 18105,
+   "doc_line": 9
   },
   {
    "entity": "triebenfeld",
@@ -94,7 +95,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18138
+   "line": 18138,
+   "doc_line": 41
   }
  ],
  "mentions_english": [],

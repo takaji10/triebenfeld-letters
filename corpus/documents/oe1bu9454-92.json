@@ -65,7 +65,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 7307
+   "line": 7307,
+   "doc_line": 5
   },
   {
    "entity": "triebenfeld",
@@ -74,7 +75,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 7312
+   "line": 7312,
+   "doc_line": 10
   },
   {
    "entity": "michaelis",
@@ -83,7 +85,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 7322
+   "line": 7322,
+   "doc_line": 20
   }
  ],
  "mentions_english": [],

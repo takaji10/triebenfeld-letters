@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 16,
-   "doc_line_end": 31
+   "doc_line_start": 15,
+   "doc_line_end": 30
   },
   {
    "page": 3,
@@ -83,8 +83,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 33,
-   "doc_line_end": 48
+   "doc_line_start": 31,
+   "doc_line_end": 46
   },
   {
    "page": 4,
@@ -104,8 +104,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 50,
-   "doc_line_end": 57
+   "doc_line_start": 47,
+   "doc_line_end": 54
   }
  ],
  "mentions": [
@@ -116,7 +116,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 12364
+   "line": 12364,
+   "doc_line": 6
   },
   {
    "entity": "august",
@@ -125,7 +126,8 @@
    "surface": "August",
    "page": 4,
    "page_id": "",
-   "line": 12413
+   "line": 12413,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 30,
-   "doc_line_end": 57
+   "doc_line_start": 29,
+   "doc_line_end": 56
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19661
+   "line": 19661,
+   "doc_line": 11
   },
   {
    "entity": "staegemann",
@@ -91,7 +92,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19664
+   "line": 19664,
+   "doc_line": 14
   },
   {
    "entity": "beugelin",
@@ -100,7 +102,8 @@
    "surface": "Beugelin",
    "page": 1,
    "page_id": "",
-   "line": 19666
+   "line": 19666,
+   "doc_line": 16
   },
   {
    "entity": "zerboni",
@@ -109,7 +112,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 19666
+   "line": 19666,
+   "doc_line": 16
   },
   {
    "entity": "cosmar",
@@ -118,7 +122,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19671
+   "line": 19671,
+   "doc_line": 21
   },
   {
    "entity": "august",
@@ -127,7 +132,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19674
+   "line": 19674,
+   "doc_line": 24
   },
   {
    "entity": "goeschel",
@@ -136,7 +142,8 @@
    "surface": "Göschel",
    "page": 1,
    "page_id": "",
-   "line": 19677
+   "line": 19677,
+   "doc_line": 27
   },
   {
    "entity": "august",
@@ -145,7 +152,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19678
+   "line": 19678,
+   "doc_line": 28
   },
   {
    "entity": "winzingerode",
@@ -154,7 +162,8 @@
    "surface": "Winzingerode",
    "page": 2,
    "page_id": "",
-   "line": 19683
+   "line": 19683,
+   "doc_line": 32
   },
   {
    "entity": "napoleon",
@@ -163,7 +172,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 19691
+   "line": 19691,
+   "doc_line": 40
   },
   {
    "entity": "napoleon",
@@ -172,7 +182,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 19694
+   "line": 19694,
+   "doc_line": 43
   },
   {
    "entity": "talleyrand",
@@ -181,7 +192,8 @@
    "surface": "Talleyrand",
    "page": 2,
    "page_id": "",
-   "line": 19698
+   "line": 19698,
+   "doc_line": 47
   },
   {
    "entity": "hohenlohe",
@@ -190,7 +202,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "",
-   "line": 19700
+   "line": 19700,
+   "doc_line": 49
   },
   {
    "entity": "triebenfeld",
@@ -199,7 +212,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19707
+   "line": 19707,
+   "doc_line": 56
   }
  ],
  "mentions_english": [],

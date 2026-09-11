@@ -66,7 +66,8 @@
    "surface": "Hardenberg",
    "page": 1,
    "page_id": "",
-   "line": 14314
+   "line": 14314,
+   "doc_line": 10
   },
   {
    "entity": "hardenberg",
@@ -75,7 +76,8 @@
    "surface": "Hard:",
    "page": 1,
    "page_id": "",
-   "line": 14318
+   "line": 14318,
+   "doc_line": 14
   },
   {
    "entity": "emilie",
@@ -84,7 +86,8 @@
    "surface": "Emilie",
    "page": 1,
    "page_id": "",
-   "line": 14329
+   "line": 14329,
+   "doc_line": 25
   },
   {
    "entity": "august",
@@ -93,7 +96,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 14332
+   "line": 14332,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -102,7 +106,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14335
+   "line": 14335,
+   "doc_line": 31
   }
  ],
  "mentions_english": [],

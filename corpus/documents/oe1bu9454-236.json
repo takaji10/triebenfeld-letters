@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 45
+   "doc_line_start": 20,
+   "doc_line_end": 44
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 17210
+   "line": 17210,
+   "doc_line": 3
   },
   {
    "entity": "sobottendorff",
@@ -93,7 +94,8 @@
    "surface": "Sobottendorff",
    "page": 1,
    "page_id": "",
-   "line": 17217
+   "line": 17217,
+   "doc_line": 10
   },
   {
    "entity": "honrichs",
@@ -102,7 +104,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 17223
+   "line": 17223,
+   "doc_line": 16
   },
   {
    "entity": "cosmar",
@@ -111,7 +114,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 17226
+   "line": 17226,
+   "doc_line": 19
   },
   {
    "entity": "cosmar",
@@ -120,7 +124,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 17235
+   "line": 17235,
+   "doc_line": 27
   },
   {
    "entity": "weigel",
@@ -129,7 +134,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 17240
+   "line": 17240,
+   "doc_line": 32
   },
   {
    "entity": "triebenfeld",
@@ -138,7 +144,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17252
+   "line": 17252,
+   "doc_line": 44
   }
  ],
  "mentions_english": [],

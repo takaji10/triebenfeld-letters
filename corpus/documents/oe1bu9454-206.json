@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 45
+   "doc_line_start": 22,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 59
+   "doc_line_start": 45,
+   "doc_line_end": 57
   }
  ],
  "mentions": [
@@ -101,7 +101,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 14640
+   "line": 14640,
+   "doc_line": 3
   },
   {
    "entity": "knobelsdorff",
@@ -110,7 +111,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14649
+   "line": 14649,
+   "doc_line": 12
   },
   {
    "entity": "scharnhorst",
@@ -119,7 +121,8 @@
    "surface": "Scharnhorst",
    "page": 1,
    "page_id": "",
-   "line": 14655
+   "line": 14655,
+   "doc_line": 18
   },
   {
    "entity": "eberhard",
@@ -128,7 +131,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 14661
+   "line": 14661,
+   "doc_line": 23
   },
   {
    "entity": "eberhardt",
@@ -137,7 +141,8 @@
    "surface": "Eberhardt",
    "page": 2,
    "page_id": "",
-   "line": 14661
+   "line": 14661,
+   "doc_line": 23
   },
   {
    "entity": "knobelsdorff",
@@ -146,7 +151,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 14669
+   "line": 14669,
+   "doc_line": 31
   },
   {
    "entity": "knobelsdorff",
@@ -155,7 +161,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 14675
+   "line": 14675,
+   "doc_line": 37
   },
   {
    "entity": "honrichs",
@@ -164,7 +171,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 14678
+   "line": 14678,
+   "doc_line": 40
   },
   {
    "entity": "knobelsdorff",
@@ -173,7 +181,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 14678
+   "line": 14678,
+   "doc_line": 40
   },
   {
    "entity": "sommer",
@@ -182,7 +191,8 @@
    "surface": "Sommer",
    "page": 2,
    "page_id": "",
-   "line": 14681
+   "line": 14681,
+   "doc_line": 43
   },
   {
    "entity": "triebenfeld",
@@ -191,7 +201,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 14696
+   "line": 14696,
+   "doc_line": 57
   }
  ],
  "mentions_english": [],

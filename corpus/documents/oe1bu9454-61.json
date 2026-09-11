@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 54
+   "doc_line_start": 25,
+   "doc_line_end": 53
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "",
-   "line": 4638
+   "line": 4638,
+   "doc_line": 1
   },
   {
    "entity": "gneust",
@@ -93,7 +94,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "",
-   "line": 4640
+   "line": 4640,
+   "doc_line": 3
   },
   {
    "entity": "lahr",
@@ -102,7 +104,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4647
+   "line": 4647,
+   "doc_line": 10
   },
   {
    "entity": "lahr",
@@ -111,7 +114,8 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
-   "line": 4655
+   "line": 4655,
+   "doc_line": 18
   },
   {
    "entity": "lahr",
@@ -120,7 +124,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 4672
+   "line": 4672,
+   "doc_line": 34
   },
   {
    "entity": "gneust",
@@ -129,7 +134,8 @@
    "surface": "Wohlgeb",
    "page": 2,
    "page_id": "",
-   "line": 4681
+   "line": 4681,
+   "doc_line": 43
   },
   {
    "entity": "gneust",
@@ -138,7 +144,8 @@
    "surface": "Wohlgeb",
    "page": 2,
    "page_id": "",
-   "line": 4687
+   "line": 4687,
+   "doc_line": 49
   },
   {
    "entity": "august",
@@ -147,7 +154,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 4688
+   "line": 4688,
+   "doc_line": 50
   },
   {
    "entity": "triebenfeld",
@@ -156,7 +164,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 4691
+   "line": 4691,
+   "doc_line": 53
   }
  ],
  "mentions_english": [],

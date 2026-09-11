@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 47
+   "doc_line_start": 24,
+   "doc_line_end": 46
   },
   {
    "page": 3,
@@ -84,8 +84,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 49,
-   "doc_line_end": 69
+   "doc_line_start": 47,
+   "doc_line_end": 67
   },
   {
    "page": 4,
@@ -108,8 +108,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 71,
-   "doc_line_end": 96
+   "doc_line_start": 68,
+   "doc_line_end": 93
   }
  ],
  "mentions": [
@@ -120,7 +120,8 @@
    "surface": "Brzechsta",
    "page": 3,
    "page_id": "",
-   "line": 5909
+   "line": 5909,
+   "doc_line": 49
   },
   {
    "entity": "brzechsta",
@@ -129,7 +130,8 @@
    "surface": "Brzechsta",
    "page": 3,
    "page_id": "",
-   "line": 5925
+   "line": 5925,
+   "doc_line": 65
   },
   {
    "entity": "honrichs",
@@ -138,7 +140,8 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
-   "line": 5945
+   "line": 5945,
+   "doc_line": 84
   },
   {
    "entity": "triebenfeld",
@@ -147,7 +150,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 5954
+   "line": 5954,
+   "doc_line": 93
   }
  ],
  "mentions_english": [],

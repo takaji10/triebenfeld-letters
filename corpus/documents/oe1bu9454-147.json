@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 42
+   "doc_line_start": 23,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 64
+   "doc_line_start": 42,
+   "doc_line_end": 62
   }
  ],
  "mentions": [
@@ -104,7 +104,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 10682
+   "line": 10682,
+   "doc_line": 41
   },
   {
    "entity": "glenck",
@@ -113,7 +114,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10684
+   "line": 10684,
+   "doc_line": 42
   },
   {
    "entity": "glenck",
@@ -122,7 +124,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10687
+   "line": 10687,
+   "doc_line": 45
   },
   {
    "entity": "glenck",
@@ -131,7 +134,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10693
+   "line": 10693,
+   "doc_line": 51
   },
   {
    "entity": "glenck",
@@ -140,7 +144,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10694
+   "line": 10694,
+   "doc_line": 52
   },
   {
    "entity": "glenck",
@@ -149,7 +154,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 10703
+   "line": 10703,
+   "doc_line": 61
   }
  ],
  "mentions_english": [],

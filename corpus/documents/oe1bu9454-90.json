@@ -65,7 +65,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 7248
+   "line": 7248,
+   "doc_line": 6
   },
   {
    "entity": "sacken",
@@ -74,7 +75,8 @@
    "surface": "Sacken",
    "page": 1,
    "page_id": "",
-   "line": 7258
+   "line": 7258,
+   "doc_line": 16
   },
   {
    "entity": "triebenfeld",
@@ -83,7 +85,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 7268
+   "line": 7268,
+   "doc_line": 26
   }
  ],
  "mentions_english": [],

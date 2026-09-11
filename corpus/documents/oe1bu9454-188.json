@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 40
+   "doc_line_start": 20,
+   "doc_line_end": 39
   },
   {
    "page": 3,
@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 42,
-   "doc_line_end": 57
+   "doc_line_start": 40,
+   "doc_line_end": 55
   }
  ],
  "mentions": [
@@ -106,7 +106,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 13345
+   "line": 13345,
+   "doc_line": 6
   },
   {
    "entity": "oppenheimer",
@@ -115,7 +116,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 13346
+   "line": 13346,
+   "doc_line": 7
   },
   {
    "entity": "schlabrendorff",
@@ -124,7 +126,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 13348
+   "line": 13348,
+   "doc_line": 9
   },
   {
    "entity": "echaust",
@@ -133,7 +136,8 @@
    "surface": "Eichaust",
    "page": 2,
    "page_id": "",
-   "line": 13365
+   "line": 13365,
+   "doc_line": 25
   },
   {
    "entity": "schenck",
@@ -142,7 +146,8 @@
    "surface": "Schenck",
    "page": 2,
    "page_id": "",
-   "line": 13375
+   "line": 13375,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -151,7 +156,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 13396
+   "line": 13396,
+   "doc_line": 55
   }
  ],
  "mentions_english": [],

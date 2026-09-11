@@ -64,7 +64,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 71
+   "line": 71,
+   "doc_line": 5
   },
   {
    "entity": "cosmar",
@@ -73,7 +74,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 76
+   "line": 76,
+   "doc_line": 10
   },
   {
    "entity": "cosmar",
@@ -82,7 +84,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 77
+   "line": 77,
+   "doc_line": 11
   }
  ],
  "mentions_english": [],

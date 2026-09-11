@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 53
+   "doc_line_start": 27,
+   "doc_line_end": 52
   }
  ],
  "mentions": [
@@ -81,7 +81,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 20733
+   "line": 20733,
+   "doc_line": 6
   },
   {
    "entity": "kircheisen",
@@ -90,7 +91,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 20734
+   "line": 20734,
+   "doc_line": 7
   },
   {
    "entity": "august",
@@ -99,7 +101,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 20735
+   "line": 20735,
+   "doc_line": 8
   },
   {
    "entity": "august",
@@ -108,7 +111,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 20739
+   "line": 20739,
+   "doc_line": 12
   },
   {
    "entity": "humboldt",
@@ -117,7 +121,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 20742
+   "line": 20742,
+   "doc_line": 15
   },
   {
    "entity": "stein",
@@ -126,7 +131,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 20744
+   "line": 20744,
+   "doc_line": 17
   },
   {
    "entity": "nesselrode",
@@ -135,7 +141,8 @@
    "surface": "Nesselrode",
    "page": 1,
    "page_id": "",
-   "line": 20745
+   "line": 20745,
+   "doc_line": 18
   },
   {
    "entity": "stein",
@@ -144,7 +151,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 20747
+   "line": 20747,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -153,7 +161,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20750
+   "line": 20750,
+   "doc_line": 23
   },
   {
    "entity": "stein",
@@ -162,7 +171,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 20772
+   "line": 20772,
+   "doc_line": 44
   },
   {
    "entity": "hardenberg",
@@ -171,7 +181,8 @@
    "surface": "Hardenberg",
    "page": 2,
    "page_id": "",
-   "line": 20773
+   "line": 20773,
+   "doc_line": 45
   },
   {
    "entity": "stein",
@@ -180,7 +191,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 20774
+   "line": 20774,
+   "doc_line": 46
   },
   {
    "entity": "triebenfeld",
@@ -189,7 +201,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 20780
+   "line": 20780,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

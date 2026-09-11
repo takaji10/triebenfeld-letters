@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 34
+   "doc_line_start": 22,
+   "doc_line_end": 33
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 36,
-   "doc_line_end": 57
+   "doc_line_start": 34,
+   "doc_line_end": 55
   },
   {
    "page": 4,
@@ -111,8 +111,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 75
+   "doc_line_start": 56,
+   "doc_line_end": 72
   }
  ],
  "mentions": [
@@ -123,7 +123,8 @@
    "surface": "Stossel",
    "page": 1,
    "page_id": "",
-   "line": 16007
+   "line": 16007,
+   "doc_line": 3
   },
   {
    "entity": "weigel",
@@ -132,7 +133,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 16011
+   "line": 16011,
+   "doc_line": 7
   },
   {
    "entity": "stoessel",
@@ -141,7 +143,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 16020
+   "line": 16020,
+   "doc_line": 16
   },
   {
    "entity": "weigel",
@@ -150,7 +153,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 16020
+   "line": 16020,
+   "doc_line": 16
   },
   {
    "entity": "stossel",
@@ -159,7 +163,8 @@
    "surface": "Stossel",
    "page": 1,
    "page_id": "",
-   "line": 16025
+   "line": 16025,
+   "doc_line": 21
   },
   {
    "entity": "weigel",
@@ -168,7 +173,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 16025
+   "line": 16025,
+   "doc_line": 21
   },
   {
    "entity": "sacken",
@@ -177,7 +183,8 @@
    "surface": "Sacken",
    "page": 2,
    "page_id": "",
-   "line": 16027
+   "line": 16027,
+   "doc_line": 22
   },
   {
    "entity": "triebenfeld",
@@ -186,7 +193,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 16038
+   "line": 16038,
+   "doc_line": 33
   },
   {
    "entity": "wartensleben",
@@ -195,7 +203,8 @@
    "surface": "Wartensleben",
    "page": 3,
    "page_id": "",
-   "line": 16042
+   "line": 16042,
+   "doc_line": 36
   },
   {
    "entity": "stoessel",
@@ -204,7 +213,8 @@
    "surface": "Stössel",
    "page": 3,
    "page_id": "",
-   "line": 16043
+   "line": 16043,
+   "doc_line": 37
   },
   {
    "entity": "weigel",
@@ -213,7 +223,8 @@
    "surface": "Weigel",
    "page": 3,
    "page_id": "",
-   "line": 16043
+   "line": 16043,
+   "doc_line": 37
   },
   {
    "entity": "stossel",
@@ -222,7 +233,8 @@
    "surface": "Stossels",
    "page": 3,
    "page_id": "",
-   "line": 16053
+   "line": 16053,
+   "doc_line": 47
   },
   {
    "entity": "weigel",
@@ -231,7 +243,8 @@
    "surface": "Weigel",
    "page": 3,
    "page_id": "",
-   "line": 16053
+   "line": 16053,
+   "doc_line": 47
   },
   {
    "entity": "triebenfeld",
@@ -240,7 +253,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 16054
+   "line": 16054,
+   "doc_line": 48
   },
   {
    "entity": "triebenfeld",
@@ -249,7 +263,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 16057
+   "line": 16057,
+   "doc_line": 51
   },
   {
    "entity": "stoessel",
@@ -258,7 +273,8 @@
    "surface": "Stössel",
    "page": 4,
    "page_id": "",
-   "line": 16066
+   "line": 16066,
+   "doc_line": 59
   },
   {
    "entity": "koeckritz",
@@ -267,7 +283,8 @@
    "surface": "Koch:",
    "page": 4,
    "page_id": "",
-   "line": 16070
+   "line": 16070,
+   "doc_line": 63
   },
   {
    "entity": "koeckritz",
@@ -276,7 +293,8 @@
    "surface": "Köckritz",
    "page": 4,
    "page_id": "",
-   "line": 16076
+   "line": 16076,
+   "doc_line": 69
   },
   {
    "entity": "triebenfeld",
@@ -285,7 +303,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 16079
+   "line": 16079,
+   "doc_line": 72
   }
  ],
  "mentions_english": [],

@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 30,
-   "doc_line_end": 54
+   "doc_line_start": 29,
+   "doc_line_end": 53
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 81
+   "doc_line_start": 54,
+   "doc_line_end": 79
   }
  ],
  "mentions": [
@@ -100,7 +100,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 1947
+   "line": 1947,
+   "doc_line": 15
   },
   {
    "entity": "napoleon",
@@ -109,7 +110,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 1965
+   "line": 1965,
+   "doc_line": 32
   },
   {
    "entity": "zastrow",
@@ -118,7 +120,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 1970
+   "line": 1970,
+   "doc_line": 37
   },
   {
    "entity": "zastrow",
@@ -127,7 +130,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 1982
+   "line": 1982,
+   "doc_line": 49
   },
   {
    "entity": "eysenhardt",
@@ -136,7 +140,8 @@
    "surface": "Eysenhardt",
    "page": 2,
    "page_id": "",
-   "line": 1986
+   "line": 1986,
+   "doc_line": 53
   },
   {
    "entity": "zastrow",
@@ -145,7 +150,8 @@
    "surface": "Zastrow",
    "page": 3,
    "page_id": "",
-   "line": 1999
+   "line": 1999,
+   "doc_line": 65
   },
   {
    "entity": "triebenfeld",
@@ -154,7 +160,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 2010
+   "line": 2010,
+   "doc_line": 76
   }
  ],
  "mentions_english": [],

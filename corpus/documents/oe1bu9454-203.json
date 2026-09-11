@@ -82,8 +82,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 63
+   "doc_line_start": 26,
+   "doc_line_end": 62
   },
   {
    "page": 3,
@@ -100,8 +100,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 65,
-   "doc_line_end": 75
+   "doc_line_start": 63,
+   "doc_line_end": 73
   }
  ],
  "mentions": [
@@ -112,7 +112,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14463
+   "line": 14463,
+   "doc_line": 4
   },
   {
    "entity": "knobelsdorff",
@@ -121,7 +122,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14464
+   "line": 14464,
+   "doc_line": 5
   },
   {
    "entity": "weigel",
@@ -130,7 +132,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14467
+   "line": 14467,
+   "doc_line": 8
   },
   {
    "entity": "stein",
@@ -139,7 +142,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 14468
+   "line": 14468,
+   "doc_line": 9
   },
   {
    "entity": "august",
@@ -148,7 +152,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 14481
+   "line": 14481,
+   "doc_line": 22
   },
   {
    "entity": "triebenfeld",
@@ -157,7 +162,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14484
+   "line": 14484,
+   "doc_line": 25
   },
   {
    "entity": "eberhard",
@@ -166,7 +172,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 14486
+   "line": 14486,
+   "doc_line": 26
   },
   {
    "entity": "eberhardt",
@@ -175,7 +182,8 @@
    "surface": "Eberhardt",
    "page": 2,
    "page_id": "",
-   "line": 14486
+   "line": 14486,
+   "doc_line": 26
   },
   {
    "entity": "knobelsdorff",
@@ -184,7 +192,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 14490
+   "line": 14490,
+   "doc_line": 30
   },
   {
    "entity": "knobelsdorff",
@@ -193,7 +202,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 14494
+   "line": 14494,
+   "doc_line": 34
   },
   {
    "entity": "oppenheimer",
@@ -202,7 +212,8 @@
    "surface": "Oppenheimer",
    "page": 2,
    "page_id": "",
-   "line": 14506
+   "line": 14506,
+   "doc_line": 46
   },
   {
    "entity": "weigel",
@@ -211,7 +222,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 14507
+   "line": 14507,
+   "doc_line": 47
   },
   {
    "entity": "knobelsdorff",
@@ -220,7 +232,8 @@
    "surface": "Knobelsdorff",
    "page": 2,
    "page_id": "",
-   "line": 14515
+   "line": 14515,
+   "doc_line": 55
   },
   {
    "entity": "triebenfeld",
@@ -229,7 +242,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 14521
+   "line": 14521,
+   "doc_line": 61
   },
   {
    "entity": "knobelsdorff",
@@ -238,7 +252,8 @@
    "surface": "Knobelsdorff",
    "page": 3,
    "page_id": "",
-   "line": 14524
+   "line": 14524,
+   "doc_line": 63
   },
   {
    "entity": "knobelsdorff",
@@ -247,7 +262,8 @@
    "surface": "Knobelsdorff",
    "page": 3,
    "page_id": "",
-   "line": 14528
+   "line": 14528,
+   "doc_line": 67
   }
  ],
  "mentions_english": [],

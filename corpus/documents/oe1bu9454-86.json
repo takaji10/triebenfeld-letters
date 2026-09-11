@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 57
+   "doc_line_start": 30,
+   "doc_line_end": 56
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 85
+   "doc_line_start": 57,
+   "doc_line_end": 83
   }
  ],
  "mentions": [
@@ -104,7 +104,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6842
+   "line": 6842,
+   "doc_line": 6
   },
   {
    "entity": "voss",
@@ -113,7 +114,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6852
+   "line": 6852,
+   "doc_line": 16
   },
   {
    "entity": "voss",
@@ -122,7 +124,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 6858
+   "line": 6858,
+   "doc_line": 22
   },
   {
    "entity": "noldichen",
@@ -131,7 +134,8 @@
    "surface": "Nöldichen",
    "page": 1,
    "page_id": "",
-   "line": 6865
+   "line": 6865,
+   "doc_line": 29
   },
   {
    "entity": "voss",
@@ -140,7 +144,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 6868
+   "line": 6868,
+   "doc_line": 31
   },
   {
    "entity": "struensee",
@@ -149,7 +154,8 @@
    "surface": "Struensee",
    "page": 2,
    "page_id": "",
-   "line": 6869
+   "line": 6869,
+   "doc_line": 32
   },
   {
    "entity": "voss",
@@ -158,7 +164,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 6885
+   "line": 6885,
+   "doc_line": 48
   },
   {
    "entity": "hoym",
@@ -167,7 +174,8 @@
    "surface": "Höym",
    "page": 3,
    "page_id": "",
-   "line": 6901
+   "line": 6901,
+   "doc_line": 63
   }
  ],
  "mentions_english": [],

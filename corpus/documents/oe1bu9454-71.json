@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 33
+   "doc_line_start": 22,
+   "doc_line_end": 32
   }
  ],
  "mentions": [
@@ -81,7 +81,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 5504
+   "line": 5504,
+   "doc_line": 8
   },
   {
    "entity": "otocki",
@@ -90,7 +91,8 @@
    "surface": "Otocki",
    "page": 1,
    "page_id": "",
-   "line": 5507
+   "line": 5507,
+   "doc_line": 11
   },
   {
    "entity": "rochlitz",
@@ -99,7 +101,8 @@
    "surface": "Rochlitz",
    "page": 1,
    "page_id": "",
-   "line": 5509
+   "line": 5509,
+   "doc_line": 13
   },
   {
    "entity": "rochlitz",
@@ -108,7 +111,8 @@
    "surface": "Rochlitz",
    "page": 1,
    "page_id": "",
-   "line": 5515
+   "line": 5515,
+   "doc_line": 19
   },
   {
    "entity": "honrichs",
@@ -117,7 +121,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 5517
+   "line": 5517,
+   "doc_line": 21
   },
   {
    "entity": "triebenfeld",
@@ -126,7 +131,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 5529
+   "line": 5529,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 43
+   "doc_line_start": 27,
+   "doc_line_end": 42
   }
  ],
  "mentions": [
@@ -80,7 +80,8 @@
    "surface": "Grimm",
    "page": 1,
    "page_id": "0163_a2",
-   "line": 7957
+   "line": 7957,
+   "doc_line": 1
   },
   {
    "entity": "gunter",
@@ -89,7 +90,8 @@
    "surface": "Gunter",
    "page": 2,
    "page_id": "0164_a1",
-   "line": 7985
+   "line": 7985,
+   "doc_line": 28
   },
   {
    "entity": "sprengel",
@@ -98,7 +100,8 @@
    "surface": "Sprengel",
    "page": 2,
    "page_id": "0164_a1",
-   "line": 7996
+   "line": 7996,
+   "doc_line": 39
   },
   {
    "entity": "glenck",
@@ -107,7 +110,8 @@
    "surface": "Glenk",
    "page": 2,
    "page_id": "0164_a1",
-   "line": 7998
+   "line": 7998,
+   "doc_line": 41
   }
  ],
  "mentions_english": [],

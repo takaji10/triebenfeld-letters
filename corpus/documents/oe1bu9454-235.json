@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 41
+   "doc_line_start": 18,
+   "doc_line_end": 40
   }
  ],
  "mentions": [
@@ -83,7 +83,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 17170
+   "line": 17170,
+   "doc_line": 6
   },
   {
    "entity": "stoessel",
@@ -92,7 +93,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 17181
+   "line": 17181,
+   "doc_line": 17
   },
   {
    "entity": "august",
@@ -101,7 +103,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 17191
+   "line": 17191,
+   "doc_line": 26
   },
   {
    "entity": "triebenfeld",
@@ -110,7 +113,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17205
+   "line": 17205,
+   "doc_line": 40
   }
  ],
  "mentions_english": [],

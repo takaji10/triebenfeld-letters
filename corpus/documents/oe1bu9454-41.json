@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 45
+   "doc_line_start": 21,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -84,8 +84,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 71
+   "doc_line_start": 45,
+   "doc_line_end": 69
   },
   {
    "page": 4,
@@ -107,8 +107,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 73,
-   "doc_line_end": 102
+   "doc_line_start": 70,
+   "doc_line_end": 99
   }
  ],
  "mentions": [
@@ -119,7 +119,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 2991
+   "line": 2991,
+   "doc_line": 35
   },
   {
    "entity": "lichnowski",
@@ -128,7 +129,8 @@
    "surface": "Lichnowski",
    "page": 4,
    "page_id": "",
-   "line": 3040
+   "line": 3040,
+   "doc_line": 82
   },
   {
    "entity": "metzig",
@@ -137,7 +139,8 @@
    "surface": "Metzig",
    "page": 4,
    "page_id": "",
-   "line": 3040
+   "line": 3040,
+   "doc_line": 82
   },
   {
    "entity": "metzig",
@@ -146,7 +149,8 @@
    "surface": "Metzig",
    "page": 4,
    "page_id": "",
-   "line": 3043
+   "line": 3043,
+   "doc_line": 85
   }
  ],
  "mentions_english": [],

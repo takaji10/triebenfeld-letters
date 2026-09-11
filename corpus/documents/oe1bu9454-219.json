@@ -65,7 +65,8 @@
    "surface": "Wartensleben",
    "page": 1,
    "page_id": "",
-   "line": 15826
+   "line": 15826,
+   "doc_line": 5
   },
   {
    "entity": "stoessel",
@@ -74,7 +75,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 15827
+   "line": 15827,
+   "doc_line": 6
   },
   {
    "entity": "weigel",
@@ -83,7 +85,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15827
+   "line": 15827,
+   "doc_line": 6
   },
   {
    "entity": "wartensleben",
@@ -92,7 +95,8 @@
    "surface": "Wartensleben",
    "page": 1,
    "page_id": "",
-   "line": 15830
+   "line": 15830,
+   "doc_line": 9
   },
   {
    "entity": "triebenfeld",
@@ -101,7 +105,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 15849
+   "line": 15849,
+   "doc_line": 28
   }
  ],
  "mentions_english": [],

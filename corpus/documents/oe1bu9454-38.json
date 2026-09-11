@@ -68,7 +68,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 2820
+   "line": 2820,
+   "doc_line": 4
   },
   {
    "entity": "zastrow",
@@ -77,7 +78,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 2823
+   "line": 2823,
+   "doc_line": 7
   },
   {
    "entity": "zastrow",
@@ -86,7 +88,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 2833
+   "line": 2833,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -95,7 +98,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 2850
+   "line": 2850,
+   "doc_line": 34
   }
  ],
  "mentions_english": [],

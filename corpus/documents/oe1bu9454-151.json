@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 44
+   "doc_line_start": 21,
+   "doc_line_end": 43
   },
   {
    "page": 3,
@@ -96,8 +96,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 46,
-   "doc_line_end": 66
+   "doc_line_start": 44,
+   "doc_line_end": 64
   }
  ],
  "mentions": [
@@ -108,7 +108,8 @@
    "surface": "Nöldichen",
    "page": 1,
    "page_id": "",
-   "line": 10821
+   "line": 10821,
+   "doc_line": 8
   },
   {
    "entity": "voss",
@@ -117,7 +118,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 10823
+   "line": 10823,
+   "doc_line": 10
   },
   {
    "entity": "lichnowski",
@@ -126,7 +128,8 @@
    "surface": "Lichnowski",
    "page": 2,
    "page_id": "",
-   "line": 10848
+   "line": 10848,
+   "doc_line": 34
   },
   {
    "entity": "lichnowski",
@@ -135,7 +138,8 @@
    "surface": "Lichnowski",
    "page": 3,
    "page_id": "",
-   "line": 10868
+   "line": 10868,
+   "doc_line": 53
   },
   {
    "entity": "schlabrendorff",
@@ -144,7 +148,8 @@
    "surface": "Schlabrendorff",
    "page": 3,
    "page_id": "",
-   "line": 10868
+   "line": 10868,
+   "doc_line": 53
   },
   {
    "entity": "triebenfeld",
@@ -153,7 +158,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 10878
+   "line": 10878,
+   "doc_line": 63
   }
  ],
  "mentions_english": [],

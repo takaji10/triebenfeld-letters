@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 18,
-   "doc_line_end": 36
+   "doc_line_start": 17,
+   "doc_line_end": 35
   },
   {
    "page": 3,
@@ -86,8 +86,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 38,
-   "doc_line_end": 57
+   "doc_line_start": 36,
+   "doc_line_end": 55
   },
   {
    "page": 4,
@@ -109,8 +109,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 75
+   "doc_line_start": 56,
+   "doc_line_end": 72
   }
  ],
  "mentions": [
@@ -121,7 +121,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 7976
+   "line": 7976,
+   "doc_line": 3
   },
   {
    "entity": "broniewski",
@@ -130,7 +131,8 @@
    "surface": "Broniew",
    "page": 1,
    "page_id": "",
-   "line": 7985
+   "line": 7985,
+   "doc_line": 12
   },
   {
    "entity": "broniewski",
@@ -139,7 +141,8 @@
    "surface": "Broniew",
    "page": 2,
    "page_id": "",
-   "line": 7993
+   "line": 7993,
+   "doc_line": 19
   },
   {
    "entity": "glenck",
@@ -148,7 +151,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 7995
+   "line": 7995,
+   "doc_line": 21
   },
   {
    "entity": "prusimski",
@@ -157,7 +161,8 @@
    "surface": "Prusimskischen",
    "page": 2,
    "page_id": "",
-   "line": 7999
+   "line": 7999,
+   "doc_line": 25
   },
   {
    "entity": "hoym",
@@ -166,7 +171,8 @@
    "surface": "Hoym",
    "page": 2,
    "page_id": "",
-   "line": 8006
+   "line": 8006,
+   "doc_line": 32
   },
   {
    "entity": "prusimski",
@@ -175,7 +181,8 @@
    "surface": "Prussiemski",
    "page": 2,
    "page_id": "",
-   "line": 8007
+   "line": 8007,
+   "doc_line": 33
   },
   {
    "entity": "voss",
@@ -184,7 +191,8 @@
    "surface": "Voss",
    "page": 3,
    "page_id": "",
-   "line": 8023
+   "line": 8023,
+   "doc_line": 48
   },
   {
    "entity": "schlabrendorff",
@@ -193,7 +201,8 @@
    "surface": "Schlabrendorff",
    "page": 3,
    "page_id": "",
-   "line": 8028
+   "line": 8028,
+   "doc_line": 53
   },
   {
    "entity": "weigel",
@@ -202,7 +211,8 @@
    "surface": "Weigel",
    "page": 3,
    "page_id": "",
-   "line": 8028
+   "line": 8028,
+   "doc_line": 53
   },
   {
    "entity": "triebenfeld",
@@ -211,7 +221,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 8048
+   "line": 8048,
+   "doc_line": 72
   }
  ],
  "mentions_english": [],

@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 30,
-   "doc_line_end": 51
+   "doc_line_start": 29,
+   "doc_line_end": 50
   }
  ],
  "mentions": [
@@ -87,7 +87,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 1647
+   "line": 1647,
+   "doc_line": 12
   },
   {
    "entity": "weigel",
@@ -96,7 +97,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 1647
+   "line": 1647,
+   "doc_line": 12
   },
   {
    "entity": "stein",
@@ -105,7 +107,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 1651
+   "line": 1651,
+   "doc_line": 16
   },
   {
    "entity": "grotowski",
@@ -114,7 +117,8 @@
    "surface": "Grotowskis",
    "page": 1,
    "page_id": "",
-   "line": 1656
+   "line": 1656,
+   "doc_line": 21
   },
   {
    "entity": "weigel",
@@ -123,7 +127,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 1656
+   "line": 1656,
+   "doc_line": 21
   },
   {
    "entity": "schlabrendorff",
@@ -132,7 +137,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 1658
+   "line": 1658,
+   "doc_line": 23
   },
   {
    "entity": "weigel",
@@ -141,7 +147,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 1659
+   "line": 1659,
+   "doc_line": 24
   },
   {
    "entity": "oppenheimer",
@@ -150,7 +157,8 @@
    "surface": "Oppenheimer",
    "page": 2,
    "page_id": "",
-   "line": 1670
+   "line": 1670,
+   "doc_line": 34
   },
   {
    "entity": "honrichs",
@@ -159,7 +167,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 1675
+   "line": 1675,
+   "doc_line": 39
   },
   {
    "entity": "triebenfeld",
@@ -168,7 +177,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 1686
+   "line": 1686,
+   "doc_line": 50
   }
  ],
  "mentions_english": [],

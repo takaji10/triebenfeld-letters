@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 49
+   "doc_line_start": 23,
+   "doc_line_end": 48
   },
   {
    "page": 3,
@@ -93,8 +93,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 51,
-   "doc_line_end": 72
+   "doc_line_start": 49,
+   "doc_line_end": 70
   },
   {
    "page": 4,
@@ -111,8 +111,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 74,
-   "doc_line_end": 97
+   "doc_line_start": 71,
+   "doc_line_end": 94
   },
   {
    "page": 5,
@@ -131,8 +131,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 99,
-   "doc_line_end": 125
+   "doc_line_start": 95,
+   "doc_line_end": 121
   },
   {
    "page": 6,
@@ -149,8 +149,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 127,
-   "doc_line_end": 152
+   "doc_line_start": 122,
+   "doc_line_end": 147
   },
   {
    "page": 7,
@@ -168,8 +168,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 154,
-   "doc_line_end": 181
+   "doc_line_start": 148,
+   "doc_line_end": 175
   },
   {
    "page": 8,
@@ -195,8 +195,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 183,
-   "doc_line_end": 216
+   "doc_line_start": 176,
+   "doc_line_end": 209
   }
  ],
  "mentions": [
@@ -207,7 +207,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 12627
+   "line": 12627,
+   "doc_line": 15
   },
   {
    "entity": "stein",
@@ -216,7 +217,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 12646
+   "line": 12646,
+   "doc_line": 33
   },
   {
    "entity": "voss",
@@ -225,7 +227,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 12648
+   "line": 12648,
+   "doc_line": 35
   },
   {
    "entity": "schulenburg",
@@ -234,7 +237,8 @@
    "surface": "Schulenburg",
    "page": 2,
    "page_id": "",
-   "line": 12649
+   "line": 12649,
+   "doc_line": 36
   },
   {
    "entity": "pochammer",
@@ -243,7 +247,8 @@
    "surface": "Pochammer",
    "page": 3,
    "page_id": "",
-   "line": 12669
+   "line": 12669,
+   "doc_line": 55
   },
   {
    "entity": "pochammer",
@@ -252,7 +257,8 @@
    "surface": "Pochammer",
    "page": 4,
    "page_id": "",
-   "line": 12686
+   "line": 12686,
+   "doc_line": 71
   },
   {
    "entity": "pochammer",
@@ -261,7 +267,8 @@
    "surface": "Pochammer",
    "page": 4,
    "page_id": "",
-   "line": 12688
+   "line": 12688,
+   "doc_line": 73
   },
   {
    "entity": "pochammer",
@@ -270,7 +277,8 @@
    "surface": "Pochammer",
    "page": 4,
    "page_id": "",
-   "line": 12701
+   "line": 12701,
+   "doc_line": 86
   },
   {
    "entity": "voss",
@@ -279,7 +287,8 @@
    "surface": "Voss",
    "page": 4,
    "page_id": "",
-   "line": 12708
+   "line": 12708,
+   "doc_line": 93
   },
   {
    "entity": "glenck",
@@ -288,7 +297,8 @@
    "surface": "Glenck",
    "page": 5,
    "page_id": "",
-   "line": 12711
+   "line": 12711,
+   "doc_line": 95
   },
   {
    "entity": "glenck",
@@ -297,7 +307,8 @@
    "surface": "Glenck",
    "page": 5,
    "page_id": "",
-   "line": 12712
+   "line": 12712,
+   "doc_line": 96
   },
   {
    "entity": "prusimski",
@@ -306,7 +317,8 @@
    "surface": "Prusimskischen",
    "page": 5,
    "page_id": "",
-   "line": 12722
+   "line": 12722,
+   "doc_line": 106
   },
   {
    "entity": "glenck",
@@ -315,7 +327,8 @@
    "surface": "Glenck",
    "page": 5,
    "page_id": "",
-   "line": 12735
+   "line": 12735,
+   "doc_line": 119
   },
   {
    "entity": "glenck",
@@ -324,7 +337,8 @@
    "surface": "Glenck",
    "page": 6,
    "page_id": "",
-   "line": 12744
+   "line": 12744,
+   "doc_line": 127
   },
   {
    "entity": "schenck",
@@ -333,7 +347,8 @@
    "surface": "Schenck",
    "page": 8,
    "page_id": "",
-   "line": 12805
+   "line": 12805,
+   "doc_line": 186
   },
   {
    "entity": "grimm",
@@ -342,7 +357,8 @@
    "surface": "Grimm",
    "page": 8,
    "page_id": "",
-   "line": 12806
+   "line": 12806,
+   "doc_line": 187
   },
   {
    "entity": "triebenfeld",
@@ -351,7 +367,8 @@
    "surface": "Triebenfeld",
    "page": 8,
    "page_id": "",
-   "line": 12828
+   "line": 12828,
+   "doc_line": 209
   }
  ],
  "mentions_english": [],

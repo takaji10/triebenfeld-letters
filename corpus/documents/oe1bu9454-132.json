@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 44
+   "doc_line_start": 22,
+   "doc_line_end": 43
   },
   {
    "page": 3,
@@ -91,8 +91,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 46,
-   "doc_line_end": 61
+   "doc_line_start": 44,
+   "doc_line_end": 59
   }
  ],
  "mentions": [
@@ -103,7 +103,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 9385
+   "line": 9385,
+   "doc_line": 4
   },
   {
    "entity": "triebenfeld",
@@ -112,7 +113,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 9442
+   "line": 9442,
+   "doc_line": 59
   }
  ],
  "mentions_english": [],

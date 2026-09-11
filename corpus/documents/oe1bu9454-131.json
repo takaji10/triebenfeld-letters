@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 34
+   "doc_line_start": 20,
+   "doc_line_end": 33
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "",
-   "line": 9357
+   "line": 9357,
+   "doc_line": 12
   },
   {
    "entity": "broniewski",
@@ -93,7 +94,8 @@
    "surface": "Broniew",
    "page": 2,
    "page_id": "",
-   "line": 9366
+   "line": 9366,
+   "doc_line": 20
   },
   {
    "entity": "glenck",
@@ -102,7 +104,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 9371
+   "line": 9371,
+   "doc_line": 25
   },
   {
    "entity": "triebenfeld",
@@ -111,7 +114,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 9379
+   "line": 9379,
+   "doc_line": 33
   }
  ],
  "mentions_english": [],

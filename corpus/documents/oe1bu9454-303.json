@@ -64,8 +64,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 37
+   "doc_line_start": 18,
+   "doc_line_end": 36
   },
   {
    "page": 3,
@@ -82,8 +82,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 39,
-   "doc_line_end": 57
+   "doc_line_start": 37,
+   "doc_line_end": 55
   },
   {
    "page": 4,
@@ -100,8 +100,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 59,
-   "doc_line_end": 75
+   "doc_line_start": 56,
+   "doc_line_end": 72
   },
   {
    "page": 5,
@@ -118,8 +118,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 77,
-   "doc_line_end": 93
+   "doc_line_start": 73,
+   "doc_line_end": 89
   },
   {
    "page": 6,
@@ -136,8 +136,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 95,
-   "doc_line_end": 109
+   "doc_line_start": 90,
+   "doc_line_end": 104
   },
   {
    "page": 7,
@@ -154,8 +154,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 111,
-   "doc_line_end": 125
+   "doc_line_start": 105,
+   "doc_line_end": 119
   },
   {
    "page": 8,
@@ -172,8 +172,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 127,
-   "doc_line_end": 138
+   "doc_line_start": 120,
+   "doc_line_end": 131
   },
   {
    "page": 9,
@@ -190,8 +190,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 140,
-   "doc_line_end": 152
+   "doc_line_start": 132,
+   "doc_line_end": 144
   }
  ],
  "mentions": [
@@ -202,7 +202,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 21494
+   "line": 21494,
+   "doc_line": 1
   },
   {
    "entity": "sobottendorff",
@@ -211,7 +212,8 @@
    "surface": "Sobottendorff",
    "page": 1,
    "page_id": "",
-   "line": 21497
+   "line": 21497,
+   "doc_line": 4
   },
   {
    "entity": "hoym",
@@ -220,7 +222,8 @@
    "surface": "Höym",
    "page": 1,
    "page_id": "",
-   "line": 21498
+   "line": 21498,
+   "doc_line": 5
   },
   {
    "entity": "born",
@@ -229,7 +232,8 @@
    "surface": "Born",
    "page": 1,
    "page_id": "",
-   "line": 21502
+   "line": 21502,
+   "doc_line": 9
   },
   {
    "entity": "bornstaedt",
@@ -238,7 +242,8 @@
    "surface": "Bornstädt",
    "page": 1,
    "page_id": "",
-   "line": 21502
+   "line": 21502,
+   "doc_line": 9
   },
   {
    "entity": "lombardini",
@@ -247,7 +252,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 21510
+   "line": 21510,
+   "doc_line": 17
   },
   {
    "entity": "bernhardi",
@@ -256,7 +262,8 @@
    "surface": "Bernhardi",
    "page": 2,
    "page_id": "",
-   "line": 21514
+   "line": 21514,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -265,7 +272,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 21517
+   "line": 21517,
+   "doc_line": 23
   },
   {
    "entity": "werner",
@@ -274,7 +282,8 @@
    "surface": "Werner",
    "page": 3,
    "page_id": "",
-   "line": 21545
+   "line": 21545,
+   "doc_line": 50
   },
   {
    "entity": "stoessel",
@@ -283,7 +292,8 @@
    "surface": "Stössel",
    "page": 3,
    "page_id": "",
-   "line": 21550
+   "line": 21550,
+   "doc_line": 55
   },
   {
    "entity": "stoessel",
@@ -292,7 +302,8 @@
    "surface": "Stössel",
    "page": 4,
    "page_id": "",
-   "line": 21552
+   "line": 21552,
+   "doc_line": 56
   },
   {
    "entity": "zerboni",
@@ -301,7 +312,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 21555
+   "line": 21555,
+   "doc_line": 59
   },
   {
    "entity": "meyer",
@@ -310,7 +322,8 @@
    "surface": "Meyer",
    "page": 4,
    "page_id": "",
-   "line": 21557
+   "line": 21557,
+   "doc_line": 61
   },
   {
    "entity": "gaertner",
@@ -319,7 +332,8 @@
    "surface": "Gärtner",
    "page": 4,
    "page_id": "",
-   "line": 21564
+   "line": 21564,
+   "doc_line": 68
   },
   {
    "entity": "stoessel",
@@ -328,7 +342,8 @@
    "surface": "Stössel",
    "page": 4,
    "page_id": "",
-   "line": 21567
+   "line": 21567,
+   "doc_line": 71
   },
   {
    "entity": "zerboni",
@@ -337,7 +352,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 21568
+   "line": 21568,
+   "doc_line": 72
   },
   {
    "entity": "hirschel",
@@ -346,7 +362,8 @@
    "surface": "Hirschel",
    "page": 5,
    "page_id": "",
-   "line": 21572
+   "line": 21572,
+   "doc_line": 75
   },
   {
    "entity": "koeckritz",
@@ -355,7 +372,8 @@
    "surface": "Köckritz",
    "page": 5,
    "page_id": "",
-   "line": 21575
+   "line": 21575,
+   "doc_line": 78
   },
   {
    "entity": "meyer",
@@ -364,7 +382,8 @@
    "surface": "Meyer",
    "page": 5,
    "page_id": "",
-   "line": 21577
+   "line": 21577,
+   "doc_line": 80
   },
   {
    "entity": "bernhard",
@@ -373,7 +392,8 @@
    "surface": "Bernhard",
    "page": 7,
    "page_id": "",
-   "line": 21604
+   "line": 21604,
+   "doc_line": 105
   },
   {
    "entity": "meyer",
@@ -382,7 +402,8 @@
    "surface": "Meyer",
    "page": 7,
    "page_id": "",
-   "line": 21604
+   "line": 21604,
+   "doc_line": 105
   },
   {
    "entity": "schlabrendorff",
@@ -391,7 +412,8 @@
    "surface": "Schlabrendorff",
    "page": 7,
    "page_id": "",
-   "line": 21607
+   "line": 21607,
+   "doc_line": 108
   },
   {
    "entity": "michaelis",
@@ -400,7 +422,8 @@
    "surface": "Michaelis",
    "page": 7,
    "page_id": "",
-   "line": 21612
+   "line": 21612,
+   "doc_line": 113
   },
   {
    "entity": "weigel",
@@ -409,7 +432,8 @@
    "surface": "Weigel",
    "page": 8,
    "page_id": "",
-   "line": 21625
+   "line": 21625,
+   "doc_line": 125
   }
  ],
  "mentions_english": [],

@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 44
+   "doc_line_start": 21,
+   "doc_line_end": 43
   },
   {
    "page": 3,
@@ -92,8 +92,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 46,
-   "doc_line_end": 72
+   "doc_line_start": 44,
+   "doc_line_end": 70
   }
  ],
  "mentions": [
@@ -104,7 +104,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 1698
+   "line": 1698,
+   "doc_line": 10
   },
   {
    "entity": "stein",
@@ -113,7 +114,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 1716
+   "line": 1716,
+   "doc_line": 27
   },
   {
    "entity": "stein",
@@ -122,7 +124,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 1724
+   "line": 1724,
+   "doc_line": 35
   },
   {
    "entity": "stein",
@@ -131,7 +134,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 1730
+   "line": 1730,
+   "doc_line": 41
   },
   {
    "entity": "triebenfeld",
@@ -140,7 +144,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 1731
+   "line": 1731,
+   "doc_line": 42
   },
   {
    "entity": "triebenfeld",
@@ -149,7 +154,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1760
+   "line": 1760,
+   "doc_line": 70
   }
  ],
  "mentions_english": [],

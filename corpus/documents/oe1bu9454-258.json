@@ -68,7 +68,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 18371
+   "line": 18371,
+   "doc_line": 1
   },
   {
    "entity": "staegemann",
@@ -77,7 +78,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 18374
+   "line": 18374,
+   "doc_line": 4
   },
   {
    "entity": "hohenlohe",
@@ -86,7 +88,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 18382
+   "line": 18382,
+   "doc_line": 12
   },
   {
    "entity": "triebenfeld",
@@ -95,7 +98,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18405
+   "line": 18405,
+   "doc_line": 35
   }
  ],
  "mentions_english": [],

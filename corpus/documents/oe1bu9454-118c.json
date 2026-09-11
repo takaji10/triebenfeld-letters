@@ -61,7 +61,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 8948
+   "line": 8948,
+   "doc_line": 2
   },
   {
    "entity": "triebenfeld",
@@ -70,7 +71,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 8970
+   "line": 8970,
+   "doc_line": 24
   }
  ],
  "mentions_english": [],

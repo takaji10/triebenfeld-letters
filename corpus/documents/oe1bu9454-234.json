@@ -64,8 +64,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 23,
-   "doc_line_end": 42
+   "doc_line_start": 22,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -83,8 +83,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 63
+   "doc_line_start": 42,
+   "doc_line_end": 61
   },
   {
    "page": 4,
@@ -105,8 +105,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 65,
-   "doc_line_end": 90
+   "doc_line_start": 62,
+   "doc_line_end": 87
   }
  ],
  "mentions": [
@@ -117,7 +117,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 17074
+   "line": 17074,
+   "doc_line": 2
   },
   {
    "entity": "weigel",
@@ -126,7 +127,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 17089
+   "line": 17089,
+   "doc_line": 17
   },
   {
    "entity": "stein",
@@ -135,7 +137,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 17096
+   "line": 17096,
+   "doc_line": 23
   },
   {
    "entity": "sacken",
@@ -144,7 +147,8 @@
    "surface": "Sacken",
    "page": 2,
    "page_id": "",
-   "line": 17100
+   "line": 17100,
+   "doc_line": 27
   },
   {
    "entity": "august",
@@ -153,7 +157,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 17107
+   "line": 17107,
+   "doc_line": 34
   },
   {
    "entity": "august",
@@ -162,7 +167,8 @@
    "surface": "August",
    "page": 3,
    "page_id": "",
-   "line": 17119
+   "line": 17119,
+   "doc_line": 45
   },
   {
    "entity": "hohenlohe",
@@ -171,7 +177,8 @@
    "surface": "Hohenlohe",
    "page": 3,
    "page_id": "",
-   "line": 17131
+   "line": 17131,
+   "doc_line": 57
   },
   {
    "entity": "sacken",
@@ -180,7 +187,8 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
-   "line": 17134
+   "line": 17134,
+   "doc_line": 60
   },
   {
    "entity": "sacken",
@@ -189,7 +197,8 @@
    "surface": "Sacken",
    "page": 4,
    "page_id": "",
-   "line": 17139
+   "line": 17139,
+   "doc_line": 64
   },
   {
    "entity": "triebenfeld",
@@ -198,7 +207,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 17162
+   "line": 17162,
+   "doc_line": 87
   }
  ],
  "mentions_english": [],

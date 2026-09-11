@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 49
+   "doc_line_start": 26,
+   "doc_line_end": 48
   },
   {
    "page": 3,
@@ -96,8 +96,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 51,
-   "doc_line_end": 75
+   "doc_line_start": 49,
+   "doc_line_end": 73
   },
   {
    "page": 4,
@@ -117,8 +117,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 77,
-   "doc_line_end": 100
+   "doc_line_start": 74,
+   "doc_line_end": 97
   },
   {
    "page": 5,
@@ -136,8 +136,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 102,
-   "doc_line_end": 124
+   "doc_line_start": 98,
+   "doc_line_end": 120
   },
   {
    "page": 6,
@@ -156,8 +156,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 126,
-   "doc_line_end": 148
+   "doc_line_start": 121,
+   "doc_line_end": 143
   },
   {
    "page": 7,
@@ -176,8 +176,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 150,
-   "doc_line_end": 171
+   "doc_line_start": 144,
+   "doc_line_end": 165
   },
   {
    "page": 8,
@@ -203,8 +203,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 173,
-   "doc_line_end": 200
+   "doc_line_start": 166,
+   "doc_line_end": 193
   },
   {
    "page": 9,
@@ -223,8 +223,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 202,
-   "doc_line_end": 225
+   "doc_line_start": 194,
+   "doc_line_end": 217
   },
   {
    "page": 10,
@@ -250,8 +250,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 227,
-   "doc_line_end": 252
+   "doc_line_start": 218,
+   "doc_line_end": 243
   },
   {
    "page": 11,
@@ -268,8 +268,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 254,
-   "doc_line_end": 258
+   "doc_line_start": 244,
+   "doc_line_end": 248
   }
  ],
  "mentions": [
@@ -280,7 +280,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0009_b",
-   "line": 347
+   "line": 347,
+   "doc_line": 4
   },
   {
    "entity": "jankowski",
@@ -289,7 +290,8 @@
    "surface": "Jankowski",
    "page": 1,
    "page_id": "0009_b",
-   "line": 349
+   "line": 349,
+   "doc_line": 6
   },
   {
    "entity": "gneust",
@@ -298,7 +300,8 @@
    "surface": "Gneust",
    "page": 1,
    "page_id": "0009_b",
-   "line": 350
+   "line": 350,
+   "doc_line": 7
   },
   {
    "entity": "jankowski",
@@ -307,7 +310,8 @@
    "surface": "Jankowski",
    "page": 1,
    "page_id": "0009_b",
-   "line": 357
+   "line": 357,
+   "doc_line": 14
   },
   {
    "entity": "gneust",
@@ -316,7 +320,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "0009_b",
-   "line": 359
+   "line": 359,
+   "doc_line": 16
   },
   {
    "entity": "gneust",
@@ -325,7 +330,8 @@
    "surface": "Gneust",
    "page": 1,
    "page_id": "0009_b",
-   "line": 360
+   "line": 360,
+   "doc_line": 17
   },
   {
    "entity": "schulze",
@@ -334,7 +340,8 @@
    "surface": "Schulzen",
    "page": 1,
    "page_id": "0009_b",
-   "line": 363
+   "line": 363,
+   "doc_line": 20
   },
   {
    "entity": "jankowski",
@@ -343,7 +350,8 @@
    "surface": "Jankowski",
    "page": 2,
    "page_id": "0010_a1",
-   "line": 373
+   "line": 373,
+   "doc_line": 29
   },
   {
    "entity": "schulze",
@@ -352,7 +360,8 @@
    "surface": "Schulzen",
    "page": 2,
    "page_id": "0010_a1",
-   "line": 387
+   "line": 387,
+   "doc_line": 43
   },
   {
    "entity": "gelanski",
@@ -361,7 +370,8 @@
    "surface": "Florian",
    "page": 2,
    "page_id": "0010_a1",
-   "line": 388
+   "line": 388,
+   "doc_line": 44
   },
   {
    "entity": "gelanski",
@@ -370,7 +380,8 @@
    "surface": "Gelanski",
    "page": 2,
    "page_id": "0010_a1",
-   "line": 389
+   "line": 389,
+   "doc_line": 45
   },
   {
    "entity": "gneust",
@@ -379,7 +390,8 @@
    "surface": "Gneust",
    "page": 3,
    "page_id": "0010_a2",
-   "line": 394
+   "line": 394,
+   "doc_line": 49
   },
   {
    "entity": "schulze",
@@ -388,7 +400,8 @@
    "surface": "Schulzen",
    "page": 4,
    "page_id": "0011_a1",
-   "line": 442
+   "line": 442,
+   "doc_line": 96
   },
   {
    "entity": "hertzog",
@@ -397,7 +410,8 @@
    "surface": "Hertzog",
    "page": 5,
    "page_id": "0011_a2",
-   "line": 451
+   "line": 451,
+   "doc_line": 104
   },
   {
    "entity": "schulze",
@@ -406,7 +420,8 @@
    "surface": "Schulzen",
    "page": 5,
    "page_id": "0011_a2",
-   "line": 456
+   "line": 456,
+   "doc_line": 109
   },
   {
    "entity": "jankowski",
@@ -415,7 +430,8 @@
    "surface": "Jankowski",
    "page": 7,
    "page_id": "0012_a2",
-   "line": 498
+   "line": 498,
+   "doc_line": 149
   },
   {
    "entity": "gneust",
@@ -424,7 +440,8 @@
    "surface": "Gneust",
    "page": 7,
    "page_id": "0012_a2",
-   "line": 499
+   "line": 499,
+   "doc_line": 150
   },
   {
    "entity": "jankowski",
@@ -433,7 +450,8 @@
    "surface": "Jankowski",
    "page": 7,
    "page_id": "0012_a2",
-   "line": 501
+   "line": 501,
+   "doc_line": 152
   },
   {
    "entity": "gneust",
@@ -442,7 +460,8 @@
    "surface": "Gneust",
    "page": 7,
    "page_id": "0012_a2",
-   "line": 503
+   "line": 503,
+   "doc_line": 154
   },
   {
    "entity": "gneust",
@@ -451,7 +470,8 @@
    "surface": "Wohlgeb",
    "page": 7,
    "page_id": "0012_a2",
-   "line": 503
+   "line": 503,
+   "doc_line": 154
   },
   {
    "entity": "schulze",
@@ -460,7 +480,8 @@
    "surface": "Schulzen",
    "page": 7,
    "page_id": "0012_a2",
-   "line": 506
+   "line": 506,
+   "doc_line": 157
   },
   {
    "entity": "jankowski",
@@ -469,7 +490,8 @@
    "surface": "Jankowski",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 526
+   "line": 526,
+   "doc_line": 176
   },
   {
    "entity": "gneust",
@@ -478,7 +500,8 @@
    "surface": "Gneust",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 528
+   "line": 528,
+   "doc_line": 178
   },
   {
    "entity": "schulze",
@@ -487,7 +510,8 @@
    "surface": "Schulzen",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 529
+   "line": 529,
+   "doc_line": 179
   },
   {
    "entity": "jankowski",
@@ -496,7 +520,8 @@
    "surface": "Jankowski",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 534
+   "line": 534,
+   "doc_line": 184
   },
   {
    "entity": "gneust",
@@ -505,7 +530,8 @@
    "surface": "Gneust",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 535
+   "line": 535,
+   "doc_line": 185
   },
   {
    "entity": "echaust",
@@ -514,7 +540,8 @@
    "surface": "Eichaust",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 537
+   "line": 537,
+   "doc_line": 187
   },
   {
    "entity": "jankowski",
@@ -523,7 +550,8 @@
    "surface": "Jankowski",
    "page": 8,
    "page_id": "0013_a1",
-   "line": 540
+   "line": 540,
+   "doc_line": 190
   },
   {
    "entity": "jankowski",
@@ -532,7 +560,8 @@
    "surface": "Jankowski",
    "page": 9,
    "page_id": "0013_a2",
-   "line": 554
+   "line": 554,
+   "doc_line": 203
   },
   {
    "entity": "gneust",
@@ -541,7 +570,8 @@
    "surface": "Gneust",
    "page": 9,
    "page_id": "0013_a2",
-   "line": 556
+   "line": 556,
+   "doc_line": 205
   },
   {
    "entity": "jankowski",
@@ -550,7 +580,8 @@
    "surface": "Jankowski",
    "page": 10,
    "page_id": "0014_a1",
-   "line": 574
+   "line": 574,
+   "doc_line": 222
   },
   {
    "entity": "gneust",
@@ -559,7 +590,8 @@
    "surface": "Gneust",
    "page": 10,
    "page_id": "0014_a1",
-   "line": 575
+   "line": 575,
+   "doc_line": 223
   },
   {
    "entity": "echaust",
@@ -568,7 +600,8 @@
    "surface": "Eichaust",
    "page": 10,
    "page_id": "0014_a1",
-   "line": 576
+   "line": 576,
+   "doc_line": 224
   },
   {
    "entity": "schenck",
@@ -577,7 +610,8 @@
    "surface": "Schenck",
    "page": 10,
    "page_id": "0014_a1",
-   "line": 590
+   "line": 590,
+   "doc_line": 238
   },
   {
    "entity": "jankowski",
@@ -586,7 +620,8 @@
    "surface": "Jankowski",
    "page": 10,
    "page_id": "0014_a1",
-   "line": 594
+   "line": 594,
+   "doc_line": 242
   },
   {
    "entity": "gneust",
@@ -595,7 +630,8 @@
    "surface": "Gneust",
    "page": 10,
    "page_id": "0014_a1",
-   "line": 595
+   "line": 595,
+   "doc_line": 243
   },
   {
    "entity": "hohenlohe",
@@ -604,7 +640,8 @@
    "surface": "Hohenlohe",
    "page": 11,
    "page_id": "0014_a2",
-   "line": 601
+   "line": 601,
+   "doc_line": 248
   }
  ],
  "mentions_english": [],

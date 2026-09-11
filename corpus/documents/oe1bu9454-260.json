@@ -77,8 +77,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 33,
-   "doc_line_end": 65
+   "doc_line_start": 32,
+   "doc_line_end": 64
   },
   {
    "page": 3,
@@ -95,8 +95,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 67,
-   "doc_line_end": 79
+   "doc_line_start": 65,
+   "doc_line_end": 77
   }
  ],
  "mentions": [
@@ -107,7 +107,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18481
+   "line": 18481,
+   "doc_line": 18
   },
   {
    "entity": "cosmar",
@@ -116,7 +117,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18483
+   "line": 18483,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -125,7 +127,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18486
+   "line": 18486,
+   "doc_line": 23
   },
   {
    "entity": "cosmar",
@@ -134,7 +137,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18491
+   "line": 18491,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -143,7 +147,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18501
+   "line": 18501,
+   "doc_line": 37
   },
   {
    "entity": "cosmar",
@@ -152,7 +157,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 18503
+   "line": 18503,
+   "doc_line": 39
   },
   {
    "entity": "gaertner",
@@ -161,7 +167,8 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
-   "line": 18510
+   "line": 18510,
+   "doc_line": 46
   },
   {
    "entity": "hardenberg",
@@ -170,7 +177,8 @@
    "surface": "Hard:",
    "page": 2,
    "page_id": "",
-   "line": 18514
+   "line": 18514,
+   "doc_line": 50
   },
   {
    "entity": "hardenberg",
@@ -179,7 +187,8 @@
    "surface": "Hardenberg",
    "page": 2,
    "page_id": "",
-   "line": 18520
+   "line": 18520,
+   "doc_line": 56
   },
   {
    "entity": "triebenfeld",
@@ -188,7 +197,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18528
+   "line": 18528,
+   "doc_line": 64
   },
   {
    "entity": "humboldt",
@@ -197,7 +207,8 @@
    "surface": "Humboldt",
    "page": 3,
    "page_id": "",
-   "line": 18533
+   "line": 18533,
+   "doc_line": 68
   }
  ],
  "mentions_english": [],

@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 69
+   "doc_line_start": 30,
+   "doc_line_end": 68
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 2902
+   "line": 2902,
+   "doc_line": 18
   },
   {
    "entity": "bernhard",
@@ -97,7 +98,8 @@
    "surface": "Bernhard",
    "page": 1,
    "page_id": "",
-   "line": 2904
+   "line": 2904,
+   "doc_line": 20
   },
   {
    "entity": "meyer",
@@ -106,7 +108,8 @@
    "surface": "Meyer",
    "page": 1,
    "page_id": "",
-   "line": 2904
+   "line": 2904,
+   "doc_line": 20
   },
   {
    "entity": "august",
@@ -115,7 +118,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 2918
+   "line": 2918,
+   "doc_line": 33
   },
   {
    "entity": "august",
@@ -124,7 +128,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 2925
+   "line": 2925,
+   "doc_line": 40
   },
   {
    "entity": "lahr",
@@ -133,7 +138,8 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
-   "line": 2937
+   "line": 2937,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

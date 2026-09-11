@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 53
+   "doc_line_start": 26,
+   "doc_line_end": 52
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14740
+   "line": 14740,
+   "doc_line": 7
   },
   {
    "entity": "koeckritz",
@@ -97,7 +98,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 14746
+   "line": 14746,
+   "doc_line": 13
   },
   {
    "entity": "lombardini",
@@ -106,7 +108,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 14750
+   "line": 14750,
+   "doc_line": 17
   },
   {
    "entity": "lombardini",
@@ -115,7 +118,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 14754
+   "line": 14754,
+   "doc_line": 21
   },
   {
    "entity": "lombardini",
@@ -124,7 +128,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 14756
+   "line": 14756,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -133,7 +138,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 14783
+   "line": 14783,
+   "doc_line": 49
   }
  ],
  "mentions_english": [],

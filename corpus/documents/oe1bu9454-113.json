@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 36
+   "doc_line_start": 21,
+   "doc_line_end": 35
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Asch",
    "page": 1,
    "page_id": "",
-   "line": 8626
+   "line": 8626,
+   "doc_line": 4
   },
   {
    "entity": "asch",
@@ -93,7 +94,8 @@
    "surface": "Asch",
    "page": 2,
    "page_id": "",
-   "line": 8646
+   "line": 8646,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -102,7 +104,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 8658
+   "line": 8658,
+   "doc_line": 35
   }
  ],
  "mentions_english": [],

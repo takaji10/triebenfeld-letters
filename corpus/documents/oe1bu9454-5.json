@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 29
+   "doc_line_start": 21,
+   "doc_line_end": 28
   }
  ],
  "mentions": [
@@ -80,7 +80,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 345
+   "line": 345,
+   "doc_line": 3
   },
   {
    "entity": "trzcinski",
@@ -89,7 +90,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 345
+   "line": 345,
+   "doc_line": 3
   },
   {
    "entity": "zerboni",
@@ -98,7 +100,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 345
+   "line": 345,
+   "doc_line": 3
   },
   {
    "entity": "zerboni",
@@ -107,7 +110,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 347
+   "line": 347,
+   "doc_line": 5
   },
   {
    "entity": "trzcinski",
@@ -116,7 +120,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 348
+   "line": 348,
+   "doc_line": 6
   },
   {
    "entity": "zerboni",
@@ -125,7 +130,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 349
+   "line": 349,
+   "doc_line": 7
   },
   {
    "entity": "trzcinski",
@@ -134,7 +140,8 @@
    "surface": "Trzcinski",
    "page": 1,
    "page_id": "",
-   "line": 353
+   "line": 353,
+   "doc_line": 11
   },
   {
    "entity": "zerboni",
@@ -143,7 +150,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 354
+   "line": 354,
+   "doc_line": 12
   },
   {
    "entity": "zerboni",
@@ -152,7 +160,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 358
+   "line": 358,
+   "doc_line": 16
   },
   {
    "entity": "smiedecki",
@@ -161,7 +170,8 @@
    "surface": "Smiedecki",
    "page": 1,
    "page_id": "",
-   "line": 360
+   "line": 360,
+   "doc_line": 18
   },
   {
    "entity": "triebenfeld",
@@ -170,7 +180,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 368
+   "line": 368,
+   "doc_line": 25
   },
   {
    "entity": "triebenfeld",
@@ -179,7 +190,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 371
+   "line": 371,
+   "doc_line": 28
   }
  ],
  "mentions_english": [],

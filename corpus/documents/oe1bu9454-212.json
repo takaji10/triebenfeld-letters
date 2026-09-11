@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 50
+   "doc_line_start": 28,
+   "doc_line_end": 49
   },
   {
    "page": 3,
@@ -97,8 +97,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 52,
-   "doc_line_end": 80
+   "doc_line_start": 50,
+   "doc_line_end": 78
   },
   {
    "page": 4,
@@ -122,8 +122,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 82,
-   "doc_line_end": 99
+   "doc_line_start": 79,
+   "doc_line_end": 96
   }
  ],
  "mentions": [
@@ -134,7 +134,8 @@
    "surface": "Niedzew",
    "page": 1,
    "page_id": "",
-   "line": 14957
+   "line": 14957,
+   "doc_line": 11
   },
   {
    "entity": "hawich",
@@ -143,7 +144,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 14958
+   "line": 14958,
+   "doc_line": 12
   },
   {
    "entity": "napoleon",
@@ -152,7 +154,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 14982
+   "line": 14982,
+   "doc_line": 35
   },
   {
    "entity": "prusimska",
@@ -161,7 +164,8 @@
    "surface": "Dąbska",
    "page": 2,
    "page_id": "",
-   "line": 14992
+   "line": 14992,
+   "doc_line": 45
   },
   {
    "entity": "napoleon",
@@ -170,7 +174,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 14996
+   "line": 14996,
+   "doc_line": 49
   },
   {
    "entity": "triebenfeld",
@@ -179,7 +184,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 15045
+   "line": 15045,
+   "doc_line": 96
   }
  ],
  "mentions_english": [],

@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 14,
-   "doc_line_end": 23
+   "doc_line_start": 13,
+   "doc_line_end": 22
   }
  ],
  "mentions": [
@@ -77,7 +77,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 20043
+   "line": 20043,
+   "doc_line": 12
   },
   {
    "entity": "beugelin",
@@ -86,7 +87,8 @@
    "surface": "Beugelin",
    "page": 2,
    "page_id": "",
-   "line": 20053
+   "line": 20053,
+   "doc_line": 21
   }
  ],
  "mentions_english": [],

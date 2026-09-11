@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 14,
-   "doc_line_end": 26
+   "doc_line_start": 13,
+   "doc_line_end": 25
   }
  ],
  "mentions": [
@@ -79,7 +79,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 12601
+   "line": 12601,
+   "doc_line": 16
   }
  ],
  "mentions_english": [],

@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 34,
-   "doc_line_end": 66
+   "doc_line_start": 33,
+   "doc_line_end": 65
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 21428
+   "line": 21428,
+   "doc_line": 3
   },
   {
    "entity": "hecker",
@@ -94,7 +95,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 21429
+   "line": 21429,
+   "doc_line": 4
   },
   {
    "entity": "hawich",
@@ -103,7 +105,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 21438
+   "line": 21438,
+   "doc_line": 13
   },
   {
    "entity": "oppenheimer",
@@ -112,7 +115,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 21441
+   "line": 21441,
+   "doc_line": 16
   },
   {
    "entity": "honrichs",
@@ -121,7 +125,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 21444
+   "line": 21444,
+   "doc_line": 19
   },
   {
    "entity": "hawich",
@@ -130,7 +135,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 21446
+   "line": 21446,
+   "doc_line": 21
   },
   {
    "entity": "niedzewiecki",
@@ -139,7 +145,8 @@
    "surface": "Niedzew",
    "page": 1,
    "page_id": "",
-   "line": 21449
+   "line": 21449,
+   "doc_line": 24
   },
   {
    "entity": "honrichs",
@@ -148,7 +155,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 21452
+   "line": 21452,
+   "doc_line": 27
   },
   {
    "entity": "honrichs",
@@ -157,7 +165,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 21453
+   "line": 21453,
+   "doc_line": 28
   },
   {
    "entity": "hawich",
@@ -166,7 +175,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 21465
+   "line": 21465,
+   "doc_line": 39
   },
   {
    "entity": "hawich",
@@ -175,7 +185,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 21467
+   "line": 21467,
+   "doc_line": 41
   },
   {
    "entity": "hawich",
@@ -184,7 +195,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 21472
+   "line": 21472,
+   "doc_line": 46
   },
   {
    "entity": "hawich",
@@ -193,7 +205,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 21477
+   "line": 21477,
+   "doc_line": 51
   },
   {
    "entity": "niedzewiecki",
@@ -202,7 +215,8 @@
    "surface": "Niedzew",
    "page": 2,
    "page_id": "",
-   "line": 21478
+   "line": 21478,
+   "doc_line": 52
   },
   {
    "entity": "triebenfeld",
@@ -211,7 +225,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 21491
+   "line": 21491,
+   "doc_line": 65
   }
  ],
  "mentions_english": [],

@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 50
+   "doc_line_start": 25,
+   "doc_line_end": 49
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 52,
-   "doc_line_end": 83
+   "doc_line_start": 50,
+   "doc_line_end": 81
   }
  ],
  "mentions": [
@@ -102,7 +102,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 4335
+   "line": 4335,
+   "doc_line": 8
   },
   {
    "entity": "hecker",
@@ -111,7 +112,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 4336
+   "line": 4336,
+   "doc_line": 9
   },
   {
    "entity": "garczynski",
@@ -120,7 +122,8 @@
    "surface": "Garczynski",
    "page": 2,
    "page_id": "",
-   "line": 4356
+   "line": 4356,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -129,7 +132,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 4410
+   "line": 4410,
+   "doc_line": 81
   }
  ],
  "mentions_english": [],

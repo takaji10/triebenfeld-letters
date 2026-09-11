@@ -60,7 +60,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 14725
+   "line": 14725,
+   "doc_line": 27
   },
   {
    "entity": "honrichs",
@@ -69,7 +70,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 14725
+   "line": 14725,
+   "doc_line": 27
   },
   {
    "entity": "kwilecki",
@@ -78,7 +80,8 @@
    "surface": "Kwileck",
    "page": 1,
    "page_id": "",
-   "line": 14726
+   "line": 14726,
+   "doc_line": 28
   },
   {
    "entity": "knobelsdorff",
@@ -87,7 +90,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14729
+   "line": 14729,
+   "doc_line": 31
   },
   {
    "entity": "triebenfeld",
@@ -96,7 +100,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14731
+   "line": 14731,
+   "doc_line": 33
   }
  ],
  "mentions_english": [],

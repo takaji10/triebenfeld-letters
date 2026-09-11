@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 46
+   "doc_line_start": 24,
+   "doc_line_end": 45
   },
   {
    "page": 3,
@@ -99,8 +99,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 48,
-   "doc_line_end": 77
+   "doc_line_start": 46,
+   "doc_line_end": 75
   }
  ],
  "mentions": [
@@ -111,7 +111,8 @@
    "surface": "Amelang",
    "page": 2,
    "page_id": "",
-   "line": 12295
+   "line": 12295,
+   "doc_line": 38
   },
   {
    "entity": "triebenfeld",
@@ -120,7 +121,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 12299
+   "line": 12299,
+   "doc_line": 42
   },
   {
    "entity": "triebenfeld",
@@ -129,7 +131,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 12333
+   "line": 12333,
+   "doc_line": 75
   }
  ],
  "mentions_english": [],

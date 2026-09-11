@@ -85,8 +85,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 34,
-   "doc_line_end": 69
+   "doc_line_start": 33,
+   "doc_line_end": 68
   },
   {
    "page": 3,
@@ -109,8 +109,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 71,
-   "doc_line_end": 92
+   "doc_line_start": 69,
+   "doc_line_end": 90
   },
   {
    "page": 4,
@@ -127,8 +127,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 94,
-   "doc_line_end": 109
+   "doc_line_start": 91,
+   "doc_line_end": 106
   }
  ],
  "mentions": [
@@ -139,7 +139,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 1554
+   "line": 1554,
+   "doc_line": 30
   },
   {
    "entity": "hohenlohe",
@@ -148,7 +149,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "",
-   "line": 1558
+   "line": 1558,
+   "doc_line": 33
   },
   {
    "entity": "august",
@@ -157,7 +159,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 1574
+   "line": 1574,
+   "doc_line": 49
   },
   {
    "entity": "emilie",
@@ -166,7 +169,8 @@
    "surface": "Emilien",
    "page": 2,
    "page_id": "",
-   "line": 1575
+   "line": 1575,
+   "doc_line": 50
   },
   {
    "entity": "marianton",
@@ -175,7 +179,8 @@
    "surface": "Marianton",
    "page": 2,
    "page_id": "",
-   "line": 1585
+   "line": 1585,
+   "doc_line": 60
   },
   {
    "entity": "blomberg",
@@ -184,7 +189,8 @@
    "surface": "Blomberg",
    "page": 2,
    "page_id": "",
-   "line": 1593
+   "line": 1593,
+   "doc_line": 68
   },
   {
    "entity": "triebenfeld",
@@ -193,7 +199,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1616
+   "line": 1616,
+   "doc_line": 90
   },
   {
    "entity": "schlabrendorff",
@@ -202,7 +209,8 @@
    "surface": "Schlabrendorff",
    "page": 4,
    "page_id": "",
-   "line": 1619
+   "line": 1619,
+   "doc_line": 92
   },
   {
    "entity": "weigel",
@@ -211,7 +219,8 @@
    "surface": "Weigel",
    "page": 4,
    "page_id": "",
-   "line": 1620
+   "line": 1620,
+   "doc_line": 93
   },
   {
    "entity": "zerboni",
@@ -220,7 +229,8 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
-   "line": 1622
+   "line": 1622,
+   "doc_line": 95
   },
   {
    "entity": "eysenhardt",
@@ -229,7 +239,8 @@
    "surface": "Eysenhardt",
    "page": 4,
    "page_id": "",
-   "line": 1623
+   "line": 1623,
+   "doc_line": 96
   },
   {
    "entity": "lichnowski",
@@ -238,7 +249,8 @@
    "surface": "Lichnowski",
    "page": 4,
    "page_id": "",
-   "line": 1624
+   "line": 1624,
+   "doc_line": 97
   },
   {
    "entity": "grotowski",
@@ -247,7 +259,8 @@
    "surface": "Grotowski",
    "page": 4,
    "page_id": "",
-   "line": 1625
+   "line": 1625,
+   "doc_line": 98
   },
   {
    "entity": "prusimska",
@@ -256,7 +269,8 @@
    "surface": "Prusimska",
    "page": 4,
    "page_id": "",
-   "line": 1628
+   "line": 1628,
+   "doc_line": 101
   },
   {
    "entity": "oppenheimer",
@@ -265,7 +279,8 @@
    "surface": "Oppenheimer",
    "page": 4,
    "page_id": "",
-   "line": 1630
+   "line": 1630,
+   "doc_line": 103
   },
   {
    "entity": "born",
@@ -274,7 +289,8 @@
    "surface": "Born",
    "page": 4,
    "page_id": "",
-   "line": 1631
+   "line": 1631,
+   "doc_line": 104
   },
   {
    "entity": "bornstaedt",
@@ -283,7 +299,8 @@
    "surface": "Bornstädt",
    "page": 4,
    "page_id": "",
-   "line": 1631
+   "line": 1631,
+   "doc_line": 104
   }
  ],
  "mentions_english": [],

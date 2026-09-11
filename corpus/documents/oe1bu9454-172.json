@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 44
+   "doc_line_start": 21,
+   "doc_line_end": 43
   },
   {
    "page": 3,
@@ -90,8 +90,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 46,
-   "doc_line_end": 56
+   "doc_line_start": 44,
+   "doc_line_end": 54
   }
  ],
  "mentions": [
@@ -102,7 +102,8 @@
    "surface": "Goldbeck",
    "page": 1,
    "page_id": "",
-   "line": 12102
+   "line": 12102,
+   "doc_line": 8
   },
   {
    "entity": "voss",
@@ -111,7 +112,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 12103
+   "line": 12103,
+   "doc_line": 9
   },
   {
    "entity": "hohenlohe",
@@ -120,7 +122,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 12107
+   "line": 12107,
+   "doc_line": 13
   },
   {
    "entity": "blomberg",
@@ -129,7 +132,8 @@
    "surface": "Blomberg",
    "page": 1,
    "page_id": "",
-   "line": 12111
+   "line": 12111,
+   "doc_line": 17
   },
   {
    "entity": "voss",
@@ -138,7 +142,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 12126
+   "line": 12126,
+   "doc_line": 31
   },
   {
    "entity": "kunckel",
@@ -147,7 +152,8 @@
    "surface": "Kunckel",
    "page": 2,
    "page_id": "",
-   "line": 12130
+   "line": 12130,
+   "doc_line": 35
   },
   {
    "entity": "amelang",
@@ -156,7 +162,8 @@
    "surface": "Amelang",
    "page": 3,
    "page_id": "",
-   "line": 12143
+   "line": 12143,
+   "doc_line": 47
   },
   {
    "entity": "triebenfeld",
@@ -165,7 +172,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 12150
+   "line": 12150,
+   "doc_line": 54
   }
  ],
  "mentions_english": [],

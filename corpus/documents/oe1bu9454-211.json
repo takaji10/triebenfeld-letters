@@ -65,7 +65,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14923
+   "line": 14923,
+   "doc_line": 3
   },
   {
    "entity": "hawich",
@@ -74,7 +75,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 14928
+   "line": 14928,
+   "doc_line": 8
   },
   {
    "entity": "knobelsdorff",
@@ -83,7 +85,8 @@
    "surface": "Knobelsdorff",
    "page": 1,
    "page_id": "",
-   "line": 14935
+   "line": 14935,
+   "doc_line": 15
   },
   {
    "entity": "triebenfeld",
@@ -92,7 +95,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14944
+   "line": 14944,
+   "doc_line": 24
   }
  ],
  "mentions_english": [],

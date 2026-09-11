@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 32,
-   "doc_line_end": 53
+   "doc_line_start": 31,
+   "doc_line_end": 52
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19777
+   "line": 19777,
+   "doc_line": 5
   },
   {
    "entity": "eberhardt",
@@ -97,7 +98,8 @@
    "surface": "Eberhardt",
    "page": 1,
    "page_id": "",
-   "line": 19777
+   "line": 19777,
+   "doc_line": 5
   },
   {
    "entity": "winzingerode",
@@ -106,7 +108,8 @@
    "surface": "Winzingerode",
    "page": 1,
    "page_id": "",
-   "line": 19778
+   "line": 19778,
+   "doc_line": 6
   },
   {
    "entity": "goeschel",
@@ -115,7 +118,8 @@
    "surface": "Göschel",
    "page": 1,
    "page_id": "",
-   "line": 19779
+   "line": 19779,
+   "doc_line": 7
   },
   {
    "entity": "august",
@@ -124,7 +128,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 19780
+   "line": 19780,
+   "doc_line": 8
   },
   {
    "entity": "cosmar",
@@ -133,7 +138,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19781
+   "line": 19781,
+   "doc_line": 9
   },
   {
    "entity": "pourtales",
@@ -142,7 +148,8 @@
    "surface": "Pourtal",
    "page": 1,
    "page_id": "",
-   "line": 19784
+   "line": 19784,
+   "doc_line": 12
   },
   {
    "entity": "amstetten",
@@ -151,7 +158,8 @@
    "surface": "Amstetten",
    "page": 1,
    "page_id": "",
-   "line": 19787
+   "line": 19787,
+   "doc_line": 15
   },
   {
    "entity": "zerboni",
@@ -160,7 +168,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 19788
+   "line": 19788,
+   "doc_line": 16
   },
   {
    "entity": "napoleon",
@@ -169,7 +178,8 @@
    "surface": "Napoleon",
    "page": 1,
    "page_id": "",
-   "line": 19790
+   "line": 19790,
+   "doc_line": 18
   },
   {
    "entity": "napoleon",
@@ -178,7 +188,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 19807
+   "line": 19807,
+   "doc_line": 34
   },
   {
    "entity": "eberhard",
@@ -187,7 +198,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 19816
+   "line": 19816,
+   "doc_line": 43
   },
   {
    "entity": "triebenfeld",
@@ -196,7 +208,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 19825
+   "line": 19825,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

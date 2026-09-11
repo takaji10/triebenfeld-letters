@@ -66,8 +66,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 35,
-   "doc_line_end": 66
+   "doc_line_start": 34,
+   "doc_line_end": 65
   },
   {
    "page": 3,
@@ -86,8 +86,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 68,
-   "doc_line_end": 99
+   "doc_line_start": 66,
+   "doc_line_end": 97
   },
   {
    "page": 4,
@@ -106,8 +106,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 101,
-   "doc_line_end": 129
+   "doc_line_start": 98,
+   "doc_line_end": 126
   },
   {
    "page": 5,
@@ -124,8 +124,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 131,
-   "doc_line_end": 161
+   "doc_line_start": 127,
+   "doc_line_end": 157
   },
   {
    "page": 6,
@@ -145,8 +145,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 163,
-   "doc_line_end": 189
+   "doc_line_start": 158,
+   "doc_line_end": 184
   },
   {
    "page": 7,
@@ -165,8 +165,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 191,
-   "doc_line_end": 220
+   "doc_line_start": 185,
+   "doc_line_end": 214
   },
   {
    "page": 8,
@@ -191,8 +191,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 222,
-   "doc_line_end": 247
+   "doc_line_start": 215,
+   "doc_line_end": 240
   },
   {
    "page": 9,
@@ -210,8 +210,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 249,
-   "doc_line_end": 276
+   "doc_line_start": 241,
+   "doc_line_end": 268
   },
   {
    "page": 10,
@@ -230,8 +230,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 278,
-   "doc_line_end": 300
+   "doc_line_start": 269,
+   "doc_line_end": 291
   }
  ],
  "mentions": [
@@ -242,7 +242,8 @@
    "surface": "Rochlitz",
    "page": 1,
    "page_id": "0003_b",
-   "line": 47
+   "line": 47,
+   "doc_line": 6
   },
   {
    "entity": "honrichs",
@@ -251,7 +252,8 @@
    "surface": "Hon",
    "page": 1,
    "page_id": "0003_b",
-   "line": 48
+   "line": 48,
+   "doc_line": 7
   },
   {
    "entity": "rochlitz",
@@ -260,7 +262,8 @@
    "surface": "Rochlitz",
    "page": 1,
    "page_id": "0003_b",
-   "line": 60
+   "line": 60,
+   "doc_line": 19
   },
   {
    "entity": "hohenlohe",
@@ -269,7 +272,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0003_b",
-   "line": 63
+   "line": 63,
+   "doc_line": 22
   },
   {
    "entity": "honrichs",
@@ -278,7 +282,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "0004_a1",
-   "line": 82
+   "line": 82,
+   "doc_line": 40
   },
   {
    "entity": "knoblauch",
@@ -287,7 +292,8 @@
    "surface": "Knob",
    "page": 4,
    "page_id": "0005_a1",
-   "line": 143
+   "line": 143,
+   "doc_line": 99
   },
   {
    "entity": "knoblauch",
@@ -296,7 +302,8 @@
    "surface": "Knoblauch",
    "page": 4,
    "page_id": "0005_a1",
-   "line": 146
+   "line": 146,
+   "doc_line": 102
   },
   {
    "entity": "honrichs",
@@ -305,7 +312,8 @@
    "surface": "Honrichs",
    "page": 7,
    "page_id": "0006_a2",
-   "line": 259
+   "line": 259,
+   "doc_line": 212
   },
   {
    "entity": "rochlitz",
@@ -314,7 +322,8 @@
    "surface": "Rochlitz",
    "page": 8,
    "page_id": "0007_a1",
-   "line": 277
+   "line": 277,
+   "doc_line": 229
   },
   {
    "entity": "honrichs",
@@ -323,7 +332,8 @@
    "surface": "Honrichs",
    "page": 8,
    "page_id": "0007_a1",
-   "line": 278
+   "line": 278,
+   "doc_line": 230
   },
   {
    "entity": "grimm",
@@ -332,7 +342,8 @@
    "surface": "Grimm",
    "page": 8,
    "page_id": "0007_a1",
-   "line": 280
+   "line": 280,
+   "doc_line": 232
   },
   {
    "entity": "weigel",
@@ -341,7 +352,8 @@
    "surface": "Weigel",
    "page": 9,
    "page_id": "0007_a2",
-   "line": 297
+   "line": 297,
+   "doc_line": 248
   },
   {
    "entity": "weigel",
@@ -350,7 +362,8 @@
    "surface": "Weigel",
    "page": 9,
    "page_id": "0007_a2",
-   "line": 301
+   "line": 301,
+   "doc_line": 252
   },
   {
    "entity": "hohenlohe",
@@ -359,7 +372,8 @@
    "surface": "Hohenlohe",
    "page": 9,
    "page_id": "0007_a2",
-   "line": 305
+   "line": 305,
+   "doc_line": 256
   },
   {
    "entity": "weigel",
@@ -368,7 +382,8 @@
    "surface": "Weigel",
    "page": 9,
    "page_id": "0007_a2",
-   "line": 311
+   "line": 311,
+   "doc_line": 262
   },
   {
    "entity": "weigel",
@@ -377,7 +392,8 @@
    "surface": "Weigel",
    "page": 9,
    "page_id": "0007_a2",
-   "line": 314
+   "line": 314,
+   "doc_line": 265
   },
   {
    "entity": "weigel",
@@ -386,7 +402,8 @@
    "surface": "Weigel",
    "page": 9,
    "page_id": "0007_a2",
-   "line": 316
+   "line": 316,
+   "doc_line": 267
   },
   {
    "entity": "hohenlohe",
@@ -395,7 +412,8 @@
    "surface": "Hohenlohe",
    "page": 10,
    "page_id": "0008_a1",
-   "line": 320
+   "line": 320,
+   "doc_line": 270
   },
   {
    "entity": "weigel",
@@ -404,7 +422,8 @@
    "surface": "Weigel",
    "page": 10,
    "page_id": "0008_a1",
-   "line": 323
+   "line": 323,
+   "doc_line": 273
   },
   {
    "entity": "weigel",
@@ -413,7 +432,8 @@
    "surface": "Weigel",
    "page": 10,
    "page_id": "0008_a1",
-   "line": 324
+   "line": 324,
+   "doc_line": 274
   }
  ],
  "mentions_english": [],

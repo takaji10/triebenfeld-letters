@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 39
+   "doc_line_start": 26,
+   "doc_line_end": 38
   }
  ],
  "mentions": [
@@ -83,7 +83,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 18277
+   "line": 18277,
+   "doc_line": 12
   },
   {
    "entity": "hardenberg",
@@ -92,7 +93,8 @@
    "surface": "Hard:",
    "page": 1,
    "page_id": "",
-   "line": 18281
+   "line": 18281,
+   "doc_line": 16
   },
   {
    "entity": "cosmar",
@@ -101,7 +103,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18287
+   "line": 18287,
+   "doc_line": 22
   },
   {
    "entity": "triebenfeld",
@@ -110,7 +113,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18304
+   "line": 18304,
+   "doc_line": 38
   }
  ],
  "mentions_english": [],

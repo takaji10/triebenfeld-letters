@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 20,
-   "doc_line_end": 41
+   "doc_line_start": 19,
+   "doc_line_end": 40
   },
   {
    "page": 3,
@@ -87,8 +87,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 43,
-   "doc_line_end": 65
+   "doc_line_start": 41,
+   "doc_line_end": 63
   },
   {
    "page": 4,
@@ -110,8 +110,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 67,
-   "doc_line_end": 91
+   "doc_line_start": 64,
+   "doc_line_end": 88
   }
  ],
  "mentions": [
@@ -122,7 +122,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 9242
+   "line": 9242,
+   "doc_line": 60
   },
   {
    "entity": "kunckel",
@@ -131,7 +132,8 @@
    "surface": "Kunckel",
    "page": 4,
    "page_id": "",
-   "line": 9250
+   "line": 9250,
+   "doc_line": 67
   },
   {
    "entity": "triebenfeld",
@@ -140,7 +142,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 9271
+   "line": 9271,
+   "doc_line": 88
   }
  ],
  "mentions_english": [],

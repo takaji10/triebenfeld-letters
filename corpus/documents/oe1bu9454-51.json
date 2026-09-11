@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 58
+   "doc_line_start": 23,
+   "doc_line_end": 57
   }
  ],
  "mentions": [
@@ -86,7 +86,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 3784
+   "line": 3784,
+   "doc_line": 9
   },
   {
    "entity": "hawich",
@@ -95,7 +96,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 3793
+   "line": 3793,
+   "doc_line": 18
   },
   {
    "entity": "honrichs",
@@ -104,7 +106,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 3795
+   "line": 3795,
+   "doc_line": 20
   },
   {
    "entity": "honrichs",
@@ -113,7 +116,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 3825
+   "line": 3825,
+   "doc_line": 49
   },
   {
    "entity": "triebenfeld",
@@ -122,7 +126,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 3830
+   "line": 3830,
+   "doc_line": 54
   }
  ],
  "mentions_english": [],

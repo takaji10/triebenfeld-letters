@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 53
+   "doc_line_start": 25,
+   "doc_line_end": 52
   }
  ],
  "mentions": [
@@ -79,7 +79,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 8593
+   "line": 8593,
+   "doc_line": 25
   },
   {
    "entity": "schlabrendorff",
@@ -88,7 +89,8 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
-   "line": 8612
+   "line": 8612,
+   "doc_line": 44
   },
   {
    "entity": "schlabrendorff",
@@ -97,7 +99,8 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
-   "line": 8614
+   "line": 8614,
+   "doc_line": 46
   },
   {
    "entity": "schlabrendorff",
@@ -106,7 +109,8 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
-   "line": 8616
+   "line": 8616,
+   "doc_line": 48
   }
  ],
  "mentions_english": [],

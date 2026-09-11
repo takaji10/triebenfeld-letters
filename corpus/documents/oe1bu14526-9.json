@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 56
+   "doc_line_start": 28,
+   "doc_line_end": 55
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 58,
-   "doc_line_end": 84
+   "doc_line_start": 56,
+   "doc_line_end": 82
   },
   {
    "page": 4,
@@ -110,8 +110,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 86,
-   "doc_line_end": 115
+   "doc_line_start": 83,
+   "doc_line_end": 112
   },
   {
    "page": 5,
@@ -131,8 +131,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 117,
-   "doc_line_end": 146
+   "doc_line_start": 113,
+   "doc_line_end": 142
   },
   {
    "page": 6,
@@ -151,8 +151,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 148,
-   "doc_line_end": 176
+   "doc_line_start": 143,
+   "doc_line_end": 171
   },
   {
    "page": 7,
@@ -171,8 +171,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 178,
-   "doc_line_end": 207
+   "doc_line_start": 172,
+   "doc_line_end": 201
   },
   {
    "page": 8,
@@ -191,8 +191,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 209,
-   "doc_line_end": 236
+   "doc_line_start": 202,
+   "doc_line_end": 229
   },
   {
    "page": 9,
@@ -212,8 +212,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 238,
-   "doc_line_end": 266
+   "doc_line_start": 230,
+   "doc_line_end": 258
   },
   {
    "page": 10,
@@ -236,8 +236,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 268,
-   "doc_line_end": 295
+   "doc_line_start": 259,
+   "doc_line_end": 286
   },
   {
    "page": 11,
@@ -257,8 +257,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 297,
-   "doc_line_end": 322
+   "doc_line_start": 287,
+   "doc_line_end": 312
   },
   {
    "page": 12,
@@ -276,8 +276,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 324,
-   "doc_line_end": 350
+   "doc_line_start": 313,
+   "doc_line_end": 339
   },
   {
    "page": 13,
@@ -301,8 +301,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 352,
-   "doc_line_end": 377
+   "doc_line_start": 340,
+   "doc_line_end": 365
   }
  ],
  "mentions": [
@@ -313,7 +313,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2527
+   "line": 2527,
+   "doc_line": 3
   },
   {
    "entity": "hohenlohe",
@@ -322,7 +323,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2530
+   "line": 2530,
+   "doc_line": 6
   },
   {
    "entity": "triebenfeld",
@@ -331,7 +333,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2532
+   "line": 2532,
+   "doc_line": 8
   },
   {
    "entity": "niedzwiedzki",
@@ -340,7 +343,8 @@
    "surface": "Niedzwiedzki",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2534
+   "line": 2534,
+   "doc_line": 10
   },
   {
    "entity": "august",
@@ -349,7 +353,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2539
+   "line": 2539,
+   "doc_line": 15
   },
   {
    "entity": "triebenfeld",
@@ -358,7 +363,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2543
+   "line": 2543,
+   "doc_line": 19
   },
   {
    "entity": "hohenlohe",
@@ -367,7 +373,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2546
+   "line": 2546,
+   "doc_line": 22
   },
   {
    "entity": "niedzwiedzki",
@@ -376,7 +383,8 @@
    "surface": "Niedzwiedzki",
    "page": 1,
    "page_id": "0049_b",
-   "line": 2550
+   "line": 2550,
+   "doc_line": 26
   },
   {
    "entity": "sommer",
@@ -385,7 +393,8 @@
    "surface": "Sommer",
    "page": 2,
    "page_id": "0050_a1",
-   "line": 2570
+   "line": 2570,
+   "doc_line": 45
   },
   {
    "entity": "niedzwiedzki",
@@ -394,7 +403,8 @@
    "surface": "Niedzwidzki",
    "page": 2,
    "page_id": "0050_a1",
-   "line": 2579
+   "line": 2579,
+   "doc_line": 54
   },
   {
    "entity": "sommer",
@@ -403,7 +413,8 @@
    "surface": "Sommern",
    "page": 6,
    "page_id": "0052_a1",
-   "line": 2682
+   "line": 2682,
+   "doc_line": 153
   },
   {
    "entity": "niedzwiedzki",
@@ -412,7 +423,8 @@
    "surface": "Niedzwied",
    "page": 10,
    "page_id": "0054_a1",
-   "line": 2804
+   "line": 2804,
+   "doc_line": 271
   },
   {
    "entity": "august",
@@ -421,7 +433,8 @@
    "surface": "August",
    "page": 10,
    "page_id": "0054_a1",
-   "line": 2809
+   "line": 2809,
+   "doc_line": 276
   },
   {
    "entity": "niedzwiedzki",
@@ -430,7 +443,8 @@
    "surface": "Niedzwiecki",
    "page": 10,
    "page_id": "0054_a1",
-   "line": 2814
+   "line": 2814,
+   "doc_line": 281
   },
   {
    "entity": "rapacki",
@@ -439,7 +453,8 @@
    "surface": "Rapacki",
    "page": 10,
    "page_id": "0054_a1",
-   "line": 2815
+   "line": 2815,
+   "doc_line": 282
   },
   {
    "entity": "august",
@@ -448,7 +463,8 @@
    "surface": "August",
    "page": 11,
    "page_id": "0054_a2",
-   "line": 2821
+   "line": 2821,
+   "doc_line": 287
   },
   {
    "entity": "triebenfeld",
@@ -457,7 +473,8 @@
    "surface": "Triebenfeld",
    "page": 11,
    "page_id": "0054_a2",
-   "line": 2827
+   "line": 2827,
+   "doc_line": 293
   },
   {
    "entity": "niedzwiedzki",
@@ -466,7 +483,8 @@
    "surface": "Niedzwiecki",
    "page": 11,
    "page_id": "0054_a2",
-   "line": 2832
+   "line": 2832,
+   "doc_line": 298
   },
   {
    "entity": "triebenfeld",
@@ -475,7 +493,8 @@
    "surface": "Triebenfeld",
    "page": 12,
    "page_id": "0055_a1",
-   "line": 2853
+   "line": 2853,
+   "doc_line": 318
   },
   {
    "entity": "sommer",
@@ -484,7 +503,8 @@
    "surface": "Sommer",
    "page": 12,
    "page_id": "0055_a1",
-   "line": 2865
+   "line": 2865,
+   "doc_line": 330
   },
   {
    "entity": "august",
@@ -493,7 +513,8 @@
    "surface": "August",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2880
+   "line": 2880,
+   "doc_line": 344
   },
   {
    "entity": "triebenfeld",
@@ -502,7 +523,8 @@
    "surface": "Triebenfeld",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2880
+   "line": 2880,
+   "doc_line": 344
   },
   {
    "entity": "niedzwiedzki",
@@ -511,7 +533,8 @@
    "surface": "Niedzwiecki",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2884
+   "line": 2884,
+   "doc_line": 348
   },
   {
    "entity": "rapacki",
@@ -520,7 +543,8 @@
    "surface": "Rapacki",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2885
+   "line": 2885,
+   "doc_line": 349
   },
   {
    "entity": "august",
@@ -529,7 +553,8 @@
    "surface": "August",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2892
+   "line": 2892,
+   "doc_line": 356
   },
   {
    "entity": "hohenlohe",
@@ -538,7 +563,8 @@
    "surface": "Hohenlohe",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2893
+   "line": 2893,
+   "doc_line": 357
   },
   {
    "entity": "schenck",
@@ -547,7 +573,8 @@
    "surface": "Schenck",
    "page": 13,
    "page_id": "0055_a2",
-   "line": 2894
+   "line": 2894,
+   "doc_line": 358
   }
  ],
  "mentions_english": [],

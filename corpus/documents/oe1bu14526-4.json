@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 36,
-   "doc_line_end": 68
+   "doc_line_start": 35,
+   "doc_line_end": 67
   },
   {
    "page": 3,
@@ -106,8 +106,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 70,
-   "doc_line_end": 104
+   "doc_line_start": 68,
+   "doc_line_end": 102
   },
   {
    "page": 4,
@@ -131,8 +131,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 106,
-   "doc_line_end": 138
+   "doc_line_start": 103,
+   "doc_line_end": 135
   },
   {
    "page": 5,
@@ -153,8 +153,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 140,
-   "doc_line_end": 175
+   "doc_line_start": 136,
+   "doc_line_end": 171
   },
   {
    "page": 6,
@@ -176,8 +176,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 177,
-   "doc_line_end": 209
+   "doc_line_start": 172,
+   "doc_line_end": 204
   },
   {
    "page": 7,
@@ -202,8 +202,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 211,
-   "doc_line_end": 241
+   "doc_line_start": 205,
+   "doc_line_end": 235
   },
   {
    "page": 8,
@@ -227,8 +227,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 243,
-   "doc_line_end": 271
+   "doc_line_start": 236,
+   "doc_line_end": 264
   }
  ],
  "mentions": [
@@ -239,7 +239,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0015_b",
-   "line": 606
+   "line": 606,
+   "doc_line": 3
   },
   {
    "entity": "leixner",
@@ -248,7 +249,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "0015_b",
-   "line": 609
+   "line": 609,
+   "doc_line": 6
   },
   {
    "entity": "leixner",
@@ -257,7 +259,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "0015_b",
-   "line": 614
+   "line": 614,
+   "doc_line": 11
   },
   {
    "entity": "august",
@@ -266,7 +269,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "0015_b",
-   "line": 618
+   "line": 618,
+   "doc_line": 15
   },
   {
    "entity": "michaelis",
@@ -275,7 +279,8 @@
    "surface": "Michaelis",
    "page": 4,
    "page_id": "0017_a1",
-   "line": 719
+   "line": 719,
+   "doc_line": 113
   },
   {
    "entity": "broniewski",
@@ -284,7 +289,8 @@
    "surface": "Broniew",
    "page": 4,
    "page_id": "0017_a1",
-   "line": 726
+   "line": 726,
+   "doc_line": 120
   },
   {
    "entity": "triebenfeld",
@@ -293,7 +299,8 @@
    "surface": "Triebenfeld",
    "page": 5,
    "page_id": "0017_a2",
-   "line": 746
+   "line": 746,
+   "doc_line": 139
   },
   {
    "entity": "kwilecki",
@@ -302,7 +309,8 @@
    "surface": "Kwileck",
    "page": 5,
    "page_id": "0017_a2",
-   "line": 768
+   "line": 768,
+   "doc_line": 161
   },
   {
    "entity": "broniewski",
@@ -311,7 +319,8 @@
    "surface": "Broniew",
    "page": 6,
    "page_id": "0018_a1",
-   "line": 783
+   "line": 783,
+   "doc_line": 175
   },
   {
    "entity": "hohenlohe",
@@ -320,7 +329,8 @@
    "surface": "Hohenlohe",
    "page": 6,
    "page_id": "0018_a1",
-   "line": 803
+   "line": 803,
+   "doc_line": 195
   },
   {
    "entity": "bernhard",
@@ -329,7 +339,8 @@
    "surface": "Bernhard",
    "page": 6,
    "page_id": "0018_a1",
-   "line": 806
+   "line": 806,
+   "doc_line": 198
   },
   {
    "entity": "meyer",
@@ -338,7 +349,8 @@
    "surface": "Meyer",
    "page": 6,
    "page_id": "0018_a1",
-   "line": 806
+   "line": 806,
+   "doc_line": 198
   },
   {
    "entity": "leixner",
@@ -347,7 +359,8 @@
    "surface": "Leixner",
    "page": 6,
    "page_id": "0018_a1",
-   "line": 807
+   "line": 807,
+   "doc_line": 199
   },
   {
    "entity": "hohenlohe",
@@ -356,7 +369,8 @@
    "surface": "Hohenlohe",
    "page": 6,
    "page_id": "0018_a1",
-   "line": 812
+   "line": 812,
+   "doc_line": 204
   },
   {
    "entity": "bernhard",
@@ -365,7 +379,8 @@
    "surface": "Bernhard",
    "page": 7,
    "page_id": "0018_a2",
-   "line": 819
+   "line": 819,
+   "doc_line": 210
   },
   {
    "entity": "meyer",
@@ -374,7 +389,8 @@
    "surface": "Meyer",
    "page": 7,
    "page_id": "0018_a2",
-   "line": 819
+   "line": 819,
+   "doc_line": 210
   },
   {
    "entity": "leixner",
@@ -383,7 +399,8 @@
    "surface": "Leixner",
    "page": 7,
    "page_id": "0018_a2",
-   "line": 821
+   "line": 821,
+   "doc_line": 212
   },
   {
    "entity": "leixner",
@@ -392,7 +409,8 @@
    "surface": "Leixner",
    "page": 7,
    "page_id": "0018_a2",
-   "line": 841
+   "line": 841,
+   "doc_line": 232
   },
   {
    "entity": "leixner",
@@ -401,7 +419,8 @@
    "surface": "Leixner",
    "page": 8,
    "page_id": "0019_a",
-   "line": 847
+   "line": 847,
+   "doc_line": 237
   },
   {
    "entity": "august",
@@ -410,7 +429,8 @@
    "surface": "August",
    "page": 8,
    "page_id": "0019_a",
-   "line": 853
+   "line": 853,
+   "doc_line": 243
   },
   {
    "entity": "leixner",
@@ -419,7 +439,8 @@
    "surface": "Leixner",
    "page": 8,
    "page_id": "0019_a",
-   "line": 857
+   "line": 857,
+   "doc_line": 247
   },
   {
    "entity": "born",
@@ -428,7 +449,8 @@
    "surface": "Born",
    "page": 8,
    "page_id": "0019_a",
-   "line": 870
+   "line": 870,
+   "doc_line": 260
   }
  ],
  "mentions_english": [],

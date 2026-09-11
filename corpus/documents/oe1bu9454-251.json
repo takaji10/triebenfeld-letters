@@ -66,7 +66,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 18071
+   "line": 18071,
+   "doc_line": 22
   },
   {
    "entity": "triebenfeld",
@@ -75,7 +76,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 18081
+   "line": 18081,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

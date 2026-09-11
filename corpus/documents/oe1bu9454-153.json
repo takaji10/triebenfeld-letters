@@ -61,7 +61,8 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
-   "line": 10924
+   "line": 10924,
+   "doc_line": 4
   },
   {
    "entity": "amelang",
@@ -70,7 +71,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 10929
+   "line": 10929,
+   "doc_line": 9
   }
  ],
  "mentions_english": [],

@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 17,
-   "doc_line_end": 33
+   "doc_line_start": 16,
+   "doc_line_end": 32
   }
  ],
  "mentions": [
@@ -81,7 +81,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 11648
+   "line": 11648,
+   "doc_line": 4
   },
   {
    "entity": "bernhardi",
@@ -90,7 +91,8 @@
    "surface": "Bernhardi",
    "page": 2,
    "page_id": "",
-   "line": 11662
+   "line": 11662,
+   "doc_line": 17
   }
  ],
  "mentions_english": [],

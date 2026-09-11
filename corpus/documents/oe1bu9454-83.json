@@ -75,8 +75,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 49
+   "doc_line_start": 23,
+   "doc_line_end": 48
   },
   {
    "page": 3,
@@ -95,8 +95,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 51,
-   "doc_line_end": 70
+   "doc_line_start": 49,
+   "doc_line_end": 68
   }
  ],
  "mentions": [
@@ -107,7 +107,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 6657
+   "line": 6657,
+   "doc_line": 5
   },
   {
    "entity": "schulze",
@@ -116,7 +117,8 @@
    "surface": "Schulze",
    "page": 1,
    "page_id": "",
-   "line": 6663
+   "line": 6663,
+   "doc_line": 11
   },
   {
    "entity": "hoym",
@@ -125,7 +127,8 @@
    "surface": "Hoym",
    "page": 2,
    "page_id": "",
-   "line": 6686
+   "line": 6686,
+   "doc_line": 33
   },
   {
    "entity": "voss",
@@ -134,7 +137,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 6688
+   "line": 6688,
+   "doc_line": 35
   },
   {
    "entity": "schulze",
@@ -143,7 +147,8 @@
    "surface": "Schulze",
    "page": 2,
    "page_id": "",
-   "line": 6691
+   "line": 6691,
+   "doc_line": 38
   },
   {
    "entity": "triebenfeld",
@@ -152,7 +157,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 6701
+   "line": 6701,
+   "doc_line": 48
   },
   {
    "entity": "sacken",
@@ -161,7 +167,8 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
-   "line": 6715
+   "line": 6715,
+   "doc_line": 61
   },
   {
    "entity": "hoym",
@@ -170,7 +177,8 @@
    "surface": "Höym",
    "page": 3,
    "page_id": "",
-   "line": 6716
+   "line": 6716,
+   "doc_line": 62
   }
  ],
  "mentions_english": [],

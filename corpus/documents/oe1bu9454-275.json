@@ -65,7 +65,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 19551
+   "line": 19551,
+   "doc_line": 3
   },
   {
    "entity": "cosmar",
@@ -74,7 +75,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19555
+   "line": 19555,
+   "doc_line": 7
   },
   {
    "entity": "hohenlohe",
@@ -83,7 +85,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 19558
+   "line": 19558,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -92,7 +95,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 19581
+   "line": 19581,
+   "doc_line": 33
   }
  ],
  "mentions_english": [],

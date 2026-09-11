@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 38
+   "doc_line_start": 20,
+   "doc_line_end": 37
   }
  ],
  "mentions": [
@@ -83,7 +83,8 @@
    "surface": "Schimmelpfennig",
    "page": 1,
    "page_id": "",
-   "line": 16651
+   "line": 16651,
+   "doc_line": 3
   },
   {
    "entity": "staegemann",
@@ -92,7 +93,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 16667
+   "line": 16667,
+   "doc_line": 19
   },
   {
    "entity": "schimmelpfennig",
@@ -101,7 +103,8 @@
    "surface": "Schimmelpfennig",
    "page": 2,
    "page_id": "",
-   "line": 16670
+   "line": 16670,
+   "doc_line": 21
   },
   {
    "entity": "sommer",
@@ -110,7 +113,8 @@
    "surface": "Sommer",
    "page": 2,
    "page_id": "",
-   "line": 16686
+   "line": 16686,
+   "doc_line": 37
   }
  ],
  "mentions_english": [],

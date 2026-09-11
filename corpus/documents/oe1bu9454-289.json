@@ -83,8 +83,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 93
+   "doc_line_start": 55,
+   "doc_line_end": 92
   }
  ],
  "mentions": [
@@ -95,7 +95,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 20593
+   "line": 20593,
+   "doc_line": 4
   },
   {
    "entity": "eberhard",
@@ -104,7 +105,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 20612
+   "line": 20612,
+   "doc_line": 23
   },
   {
    "entity": "cosmar",
@@ -113,7 +115,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20623
+   "line": 20623,
+   "doc_line": 34
   },
   {
    "entity": "cosmar",
@@ -122,7 +125,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 20642
+   "line": 20642,
+   "doc_line": 53
   },
   {
    "entity": "cosmar",
@@ -131,7 +135,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20670
+   "line": 20670,
+   "doc_line": 80
   },
   {
    "entity": "triebenfeld",
@@ -140,7 +145,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 20681
+   "line": 20681,
+   "doc_line": 91
   }
  ],
  "mentions_english": [],

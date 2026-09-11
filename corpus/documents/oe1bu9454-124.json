@@ -62,7 +62,8 @@
    "surface": "Kunckel",
    "page": 1,
    "page_id": "",
-   "line": 9105
+   "line": 9105,
+   "doc_line": 3
   },
   {
    "entity": "triebenfeld",
@@ -71,7 +72,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 9115
+   "line": 9115,
+   "doc_line": 13
   }
  ],
  "mentions_english": [],

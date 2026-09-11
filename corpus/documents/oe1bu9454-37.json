@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 25,
-   "doc_line_end": 37
+   "doc_line_start": 24,
+   "doc_line_end": 36
   }
  ],
  "mentions": [
@@ -82,7 +82,8 @@
    "surface": "Eysenhardt",
    "page": 1,
    "page_id": "",
-   "line": 2783
+   "line": 2783,
+   "doc_line": 6
   },
   {
    "entity": "amelang",
@@ -91,7 +92,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 2789
+   "line": 2789,
+   "doc_line": 12
   },
   {
    "entity": "eysenhardt",
@@ -100,7 +102,8 @@
    "surface": "Eysenhardt",
    "page": 1,
    "page_id": "",
-   "line": 2790
+   "line": 2790,
+   "doc_line": 13
   },
   {
    "entity": "amelang",
@@ -109,7 +112,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 2796
+   "line": 2796,
+   "doc_line": 19
   },
   {
    "entity": "zastrow",
@@ -118,7 +122,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 2802
+   "line": 2802,
+   "doc_line": 24
   },
   {
    "entity": "schenck",
@@ -127,7 +132,8 @@
    "surface": "Schenck",
    "page": 2,
    "page_id": "",
-   "line": 2810
+   "line": 2810,
+   "doc_line": 32
   },
   {
    "entity": "triebenfeld",
@@ -136,7 +142,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 2814
+   "line": 2814,
+   "doc_line": 36
   }
  ],
  "mentions_english": [],

@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 56
+   "doc_line_start": 28,
+   "doc_line_end": 55
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 58,
-   "doc_line_end": 86
+   "doc_line_start": 56,
+   "doc_line_end": 84
   },
   {
    "page": 4,
@@ -108,8 +108,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 88,
-   "doc_line_end": 114
+   "doc_line_start": 85,
+   "doc_line_end": 111
   },
   {
    "page": 5,
@@ -130,8 +130,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 116,
-   "doc_line_end": 137
+   "doc_line_start": 112,
+   "doc_line_end": 133
   }
  ],
  "mentions": [
@@ -142,7 +142,8 @@
    "surface": "Wohlgeb",
    "page": 1,
    "page_id": "",
-   "line": 3463
+   "line": 3463,
+   "doc_line": 1
   },
   {
    "entity": "hawich",
@@ -151,7 +152,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 3465
+   "line": 3465,
+   "doc_line": 3
   },
   {
    "entity": "hecker",
@@ -160,7 +162,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 3466
+   "line": 3466,
+   "doc_line": 4
   },
   {
    "entity": "hawich",
@@ -169,7 +172,8 @@
    "surface": "Hawich",
    "page": 1,
    "page_id": "",
-   "line": 3475
+   "line": 3475,
+   "doc_line": 13
   },
   {
    "entity": "oppenheimer",
@@ -178,7 +182,8 @@
    "surface": "Oppenheimer",
    "page": 2,
    "page_id": "",
-   "line": 3505
+   "line": 3505,
+   "doc_line": 42
   },
   {
    "entity": "meyer",
@@ -187,7 +192,8 @@
    "surface": "Meyers",
    "page": 2,
    "page_id": "",
-   "line": 3509
+   "line": 3509,
+   "doc_line": 46
   },
   {
    "entity": "meyer",
@@ -196,7 +202,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 3511
+   "line": 3511,
+   "doc_line": 48
   },
   {
    "entity": "glenck",
@@ -205,7 +212,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 3514
+   "line": 3514,
+   "doc_line": 51
   },
   {
    "entity": "meyer",
@@ -214,7 +222,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 3515
+   "line": 3515,
+   "doc_line": 52
   },
   {
    "entity": "hawich",
@@ -223,7 +232,8 @@
    "surface": "Hawich",
    "page": 3,
    "page_id": "",
-   "line": 3537
+   "line": 3537,
+   "doc_line": 73
   },
   {
    "entity": "meyer",
@@ -232,7 +242,8 @@
    "surface": "Meyer",
    "page": 3,
    "page_id": "",
-   "line": 3543
+   "line": 3543,
+   "doc_line": 79
   },
   {
    "entity": "meyer",
@@ -241,7 +252,8 @@
    "surface": "Meyer",
    "page": 3,
    "page_id": "",
-   "line": 3544
+   "line": 3544,
+   "doc_line": 80
   },
   {
    "entity": "triebenfeld",
@@ -250,7 +262,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 3544
+   "line": 3544,
+   "doc_line": 80
   },
   {
    "entity": "august",
@@ -259,7 +272,8 @@
    "surface": "August",
    "page": 4,
    "page_id": "",
-   "line": 3552
+   "line": 3552,
+   "doc_line": 87
   },
   {
    "entity": "gneust",
@@ -268,7 +282,8 @@
    "surface": "Wohlgeb",
    "page": 5,
    "page_id": "",
-   "line": 3597
+   "line": 3597,
+   "doc_line": 131
   },
   {
    "entity": "triebenfeld",
@@ -277,7 +292,8 @@
    "surface": "Triebenfeld",
    "page": 5,
    "page_id": "",
-   "line": 3599
+   "line": 3599,
+   "doc_line": 133
   }
  ],
  "mentions_english": [],

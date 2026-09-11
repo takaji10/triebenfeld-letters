@@ -65,7 +65,8 @@
    "surface": "Allbrecht",
    "page": 1,
    "page_id": "",
-   "line": 3842
+   "line": 3842,
+   "doc_line": 7
   },
   {
    "entity": "allbrecht",
@@ -74,7 +75,8 @@
    "surface": "Allbrecht",
    "page": 1,
    "page_id": "",
-   "line": 3846
+   "line": 3846,
+   "doc_line": 11
   },
   {
    "entity": "triebenfeld",
@@ -83,7 +85,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 3867
+   "line": 3867,
+   "doc_line": 32
   }
  ],
  "mentions_english": [],

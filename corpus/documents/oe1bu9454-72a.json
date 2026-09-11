@@ -68,8 +68,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 17,
-   "doc_line_end": 34
+   "doc_line_start": 16,
+   "doc_line_end": 33
   },
   {
    "page": 3,
@@ -87,8 +87,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 36,
-   "doc_line_end": 54
+   "doc_line_start": 34,
+   "doc_line_end": 52
   },
   {
    "page": 4,
@@ -110,8 +110,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 80
+   "doc_line_start": 53,
+   "doc_line_end": 77
   }
  ],
  "mentions": [
@@ -122,7 +122,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 5645
+   "line": 5645,
+   "doc_line": 6
   },
   {
    "entity": "garczynski",
@@ -131,7 +132,8 @@
    "surface": "Garczynski",
    "page": 1,
    "page_id": "",
-   "line": 5646
+   "line": 5646,
+   "doc_line": 7
   },
   {
    "entity": "brzechsta",
@@ -140,7 +142,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 5647
+   "line": 5647,
+   "doc_line": 8
   },
   {
    "entity": "brzechsta",
@@ -149,7 +152,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 5653
+   "line": 5653,
+   "doc_line": 14
   },
   {
    "entity": "brzechsta",
@@ -158,7 +162,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 5657
+   "line": 5657,
+   "doc_line": 17
   },
   {
    "entity": "napoleon",
@@ -167,7 +172,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 5669
+   "line": 5669,
+   "doc_line": 29
   },
   {
    "entity": "brzechsta",
@@ -176,7 +182,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 5673
+   "line": 5673,
+   "doc_line": 33
   },
   {
    "entity": "brzechsta",
@@ -185,7 +192,8 @@
    "surface": "Brzechsta",
    "page": 3,
    "page_id": "",
-   "line": 5679
+   "line": 5679,
+   "doc_line": 38
   },
   {
    "entity": "garczynski",
@@ -194,7 +202,8 @@
    "surface": "Garczynski",
    "page": 3,
    "page_id": "",
-   "line": 5680
+   "line": 5680,
+   "doc_line": 39
   },
   {
    "entity": "napoleon",
@@ -203,7 +212,8 @@
    "surface": "Napoleon",
    "page": 3,
    "page_id": "",
-   "line": 5689
+   "line": 5689,
+   "doc_line": 48
   },
   {
    "entity": "prusimska",
@@ -212,7 +222,8 @@
    "surface": "Dąbska",
    "page": 4,
    "page_id": "",
-   "line": 5695
+   "line": 5695,
+   "doc_line": 53
   },
   {
    "entity": "brzechsta",
@@ -221,7 +232,8 @@
    "surface": "Brzechsta",
    "page": 4,
    "page_id": "",
-   "line": 5699
+   "line": 5699,
+   "doc_line": 57
   },
   {
    "entity": "triebenfeld",
@@ -230,7 +242,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 5719
+   "line": 5719,
+   "doc_line": 77
   }
  ],
  "mentions_english": [],

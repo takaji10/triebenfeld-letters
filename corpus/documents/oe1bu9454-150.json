@@ -62,7 +62,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 10795
+   "line": 10795,
+   "doc_line": 1
   },
   {
    "entity": "triebenfeld",
@@ -71,7 +72,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 10810
+   "line": 10810,
+   "doc_line": 16
   }
  ],
  "mentions_english": [],

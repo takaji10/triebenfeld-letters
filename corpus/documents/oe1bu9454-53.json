@@ -78,8 +78,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 62
+   "doc_line_start": 27,
+   "doc_line_end": 61
   }
  ],
  "mentions": [
@@ -90,7 +90,8 @@
    "surface": "Pirch",
    "page": 1,
    "page_id": "",
-   "line": 3887
+   "line": 3887,
+   "doc_line": 18
   },
   {
    "entity": "koeckritz",
@@ -99,7 +100,8 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
-   "line": 3890
+   "line": 3890,
+   "doc_line": 21
   },
   {
    "entity": "pirch",
@@ -108,7 +110,8 @@
    "surface": "Pirch",
    "page": 1,
    "page_id": "",
-   "line": 3893
+   "line": 3893,
+   "doc_line": 24
   },
   {
    "entity": "massenbach",
@@ -117,7 +120,8 @@
    "surface": "Massenbach",
    "page": 1,
    "page_id": "",
-   "line": 3894
+   "line": 3894,
+   "doc_line": 25
   },
   {
    "entity": "scharnhorst",
@@ -126,7 +130,8 @@
    "surface": "Scharnhorst",
    "page": 1,
    "page_id": "",
-   "line": 3895
+   "line": 3895,
+   "doc_line": 26
   }
  ],
  "mentions_english": [],

@@ -69,8 +69,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 42
+   "doc_line_start": 21,
+   "doc_line_end": 41
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 44,
-   "doc_line_end": 64
+   "doc_line_start": 42,
+   "doc_line_end": 62
   },
   {
    "page": 4,
@@ -116,8 +116,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 66,
-   "doc_line_end": 88
+   "doc_line_start": 63,
+   "doc_line_end": 85
   }
  ],
  "mentions": [
@@ -128,7 +128,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 1012
+   "line": 1012,
+   "doc_line": 39
   },
   {
    "entity": "triebenfeld",
@@ -137,7 +138,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1017
+   "line": 1017,
+   "doc_line": 43
   },
   {
    "entity": "triebenfeld",
@@ -146,7 +148,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1020
+   "line": 1020,
+   "doc_line": 46
   },
   {
    "entity": "triebenfeld",
@@ -155,7 +158,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1025
+   "line": 1025,
+   "doc_line": 51
   },
   {
    "entity": "triebenfeld",
@@ -164,7 +168,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 1035
+   "line": 1035,
+   "doc_line": 61
   },
   {
    "entity": "triebenfeld",
@@ -173,7 +178,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 1060
+   "line": 1060,
+   "doc_line": 85
   }
  ],
  "mentions_english": [],

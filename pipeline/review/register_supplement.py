@@ -96,14 +96,15 @@ def cite(m, dates, bases=None):
     sends the reader to a page whose lines run 1 to 34. Both are given: the
     document line is what the page shows, the archival line is what the
     tooling, the transcription decisions and the scan pairing are keyed to.
+    The archival number appears nowhere on the published page, so this file and
+    corpus/index/ are where the two can be reconciled.
     """
     uid = m.get('uid') or '?'
     d = dates.get(uid, ('', '', 0))[0]
     when = f", {d[:4]}" if d and not d.startswith('9999') else ''
-    ln = m.get('line')
-    base = (bases or {}).get(uid)
-    shown = f"line {ln - base}" if base is not None and isinstance(ln, int) else f"line {ln}"
-    arch = f", archival line {ln}" if base is not None else ''
+    ln, dl = m.get('line'), m.get('doc_line')
+    shown = f"line {dl}" if dl is not None else f"line {ln}"
+    arch = f", archival line {ln}" if dl is not None and ln is not None else ''
     return f"{uid}{when}, p. {m.get('page')} ({shown}{arch})"
 
 
@@ -120,7 +121,7 @@ def known_to_register():
     return io.open(REGISTER, encoding='utf-8').read()
 
 
-def section(title, entries, order, dates, register, kind, bases=None):
+def section(title, entries, order, dates, register, kind):
     out = [f'## {kind}', '']
     for e in entries:
         rows = trail(e, order)
@@ -135,7 +136,7 @@ def section(title, entries, order, dates, register, kind, bases=None):
         first = rows[0]['first']
         best = min(rows, key=lambda r: order.get(r['first'].get('uid'),
                                                  ('9999', '', 0)))
-        out.append(f"- **First appearance:** {cite(best['first'], dates, bases)}, "
+        out.append(f"- **First appearance:** {cite(best['first'], dates)}, "
                    f"as *{best['surface']}*.")
         if len(rows) == 1:
             out.append(f"- **Spellings encountered:** one only, *{rows[0]['surface']}* "
@@ -144,7 +145,7 @@ def section(title, entries, order, dates, register, kind, bases=None):
             out.append('- **Spellings encountered:**')
             for r in rows:
                 out.append(f"    - *{r['surface']}* — {r['count']}x, first at "
-                           f"{cite(r['first'], dates, bases)}")
+                           f"{cite(r['first'], dates)}")
         out.append('')
     return out
 
@@ -158,13 +159,6 @@ def main():
 
     holdings = ', '.join(u.get('ref') or u.slug for u in unitlib.load_units()
                          if (u.get('status') or '') != 'draft')
-    # uid -> the line before the document's first, so an archival line can be
-    # turned into the number the site actually shows.
-    bases = {}
-    for pad, rec in unitlib.records_by_pad().items():
-        pgs = rec.get('pages') or []
-        if pgs and 'doc_line_start' in pgs[0]:
-            bases[rec.get('uid') or pad] = pgs[0]['line_start'] - pgs[0]['doc_line_start']
     order = doc_order()
     register = known_to_register()
     people = [e for e in index('people.json')
@@ -187,7 +181,7 @@ def main():
             'be checked against the manuscript rather than taken on trust.', '',
             f'Holdings covered: {holdings}.',
             '', '---', '']
-    body += section('Persons', people, order, order, register, 'Persons', bases)
+    body += section('Persons', people, order, order, register, 'Persons')
     if not places:
         body += [
             '---', '',
@@ -200,7 +194,7 @@ def main():
             'those mentions into the index is the remaining step, after which this',
             'section fills itself the way Persons above does.', '']
     if places:
-        body += ['---', ''] + section('Places', places, order, order, register, 'Places', bases)
+        body += ['---', ''] + section('Places', places, order, order, register, 'Places')
 
     text = '\n'.join(body).rstrip() + '\n'
     named = sum(1 for e in people if len(e.get('documents') or []) >= a.min_documents)

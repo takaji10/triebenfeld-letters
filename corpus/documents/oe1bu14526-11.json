@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 40,
-   "doc_line_end": 78
+   "doc_line_start": 39,
+   "doc_line_end": 77
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 80,
-   "doc_line_end": 116
+   "doc_line_start": 78,
+   "doc_line_end": 114
   },
   {
    "page": 4,
@@ -109,8 +109,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 118,
-   "doc_line_end": 154
+   "doc_line_start": 115,
+   "doc_line_end": 151
   },
   {
    "page": 5,
@@ -129,8 +129,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 156,
-   "doc_line_end": 195
+   "doc_line_start": 152,
+   "doc_line_end": 191
   },
   {
    "page": 6,
@@ -148,8 +148,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 197,
-   "doc_line_end": 233
+   "doc_line_start": 192,
+   "doc_line_end": 228
   },
   {
    "page": 7,
@@ -168,8 +168,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 235,
-   "doc_line_end": 271
+   "doc_line_start": 229,
+   "doc_line_end": 265
   },
   {
    "page": 8,
@@ -188,8 +188,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 273,
-   "doc_line_end": 306
+   "doc_line_start": 266,
+   "doc_line_end": 299
   },
   {
    "page": 9,
@@ -207,8 +207,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 308,
-   "doc_line_end": 342
+   "doc_line_start": 300,
+   "doc_line_end": 334
   },
   {
    "page": 10,
@@ -226,8 +226,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 344,
-   "doc_line_end": 376
+   "doc_line_start": 335,
+   "doc_line_end": 367
   },
   {
    "page": 11,
@@ -247,8 +247,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 378,
-   "doc_line_end": 398
+   "doc_line_start": 368,
+   "doc_line_end": 388
   }
  ],
  "mentions": [
@@ -259,7 +259,8 @@
    "surface": "August",
    "page": 11,
    "page_id": "0071_a2",
-   "line": 3743
+   "line": 3743,
+   "doc_line": 384
   },
   {
    "entity": "triebenfeld",
@@ -268,7 +269,8 @@
    "surface": "Triebenfeld",
    "page": 11,
    "page_id": "0071_a2",
-   "line": 3743
+   "line": 3743,
+   "doc_line": 384
   },
   {
    "entity": "schenck",
@@ -277,7 +279,8 @@
    "surface": "Schenck",
    "page": 11,
    "page_id": "0071_a2",
-   "line": 3746
+   "line": 3746,
+   "doc_line": 387
   }
  ],
  "mentions_english": [],

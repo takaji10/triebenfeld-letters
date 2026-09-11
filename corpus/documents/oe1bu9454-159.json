@@ -60,7 +60,8 @@
    "surface": "Eysenhardt",
    "page": 1,
    "page_id": "",
-   "line": 11272
+   "line": 11272,
+   "doc_line": 11
   },
   {
    "entity": "triebenfeld",
@@ -69,7 +70,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 11284
+   "line": 11284,
+   "doc_line": 23
   }
  ],
  "mentions_english": [],

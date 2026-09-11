@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 49
+   "doc_line_start": 28,
+   "doc_line_end": 48
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Hard:",
    "page": 1,
    "page_id": "",
-   "line": 17438
+   "line": 17438,
+   "doc_line": 10
   },
   {
    "entity": "koeckritz",
@@ -97,7 +98,8 @@
    "surface": "Koch:",
    "page": 1,
    "page_id": "",
-   "line": 17438
+   "line": 17438,
+   "doc_line": 10
   },
   {
    "entity": "hohenlohe",
@@ -106,7 +108,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "",
-   "line": 17457
+   "line": 17457,
+   "doc_line": 28
   },
   {
    "entity": "zastrow",
@@ -115,7 +118,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 17464
+   "line": 17464,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -124,7 +128,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 17477
+   "line": 17477,
+   "doc_line": 48
   }
  ],
  "mentions_english": [],

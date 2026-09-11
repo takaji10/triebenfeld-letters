@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 40
+   "doc_line_start": 21,
+   "doc_line_end": 39
   },
   {
    "page": 3,
@@ -86,8 +86,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 42,
-   "doc_line_end": 62
+   "doc_line_start": 40,
+   "doc_line_end": 60
   },
   {
    "page": 4,
@@ -104,8 +104,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 64,
-   "doc_line_end": 83
+   "doc_line_start": 61,
+   "doc_line_end": 80
   },
   {
    "page": 5,
@@ -123,8 +123,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 85,
-   "doc_line_end": 104
+   "doc_line_start": 81,
+   "doc_line_end": 100
   },
   {
    "page": 6,
@@ -144,8 +144,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 106,
-   "doc_line_end": 124
+   "doc_line_start": 101,
+   "doc_line_end": 119
   },
   {
    "page": 7,
@@ -162,8 +162,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 126,
-   "doc_line_end": 147
+   "doc_line_start": 120,
+   "doc_line_end": 141
   },
   {
    "page": 8,
@@ -186,8 +186,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 149,
-   "doc_line_end": 173
+   "doc_line_start": 142,
+   "doc_line_end": 166
   }
  ],
  "mentions": [
@@ -198,7 +198,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 7073
+   "line": 7073,
+   "doc_line": 6
   },
   {
    "entity": "struensee",
@@ -207,7 +208,8 @@
    "surface": "Struensee",
    "page": 1,
    "page_id": "",
-   "line": 7078
+   "line": 7078,
+   "doc_line": 11
   },
   {
    "entity": "voss",
@@ -216,7 +218,8 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
-   "line": 7082
+   "line": 7082,
+   "doc_line": 15
   },
   {
    "entity": "voss",
@@ -225,7 +228,8 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
-   "line": 7098
+   "line": 7098,
+   "doc_line": 30
   },
   {
    "entity": "noldichen",
@@ -234,7 +238,8 @@
    "surface": "Nöldichens",
    "page": 2,
    "page_id": "",
-   "line": 7101
+   "line": 7101,
+   "doc_line": 33
   },
   {
    "entity": "glenck",
@@ -243,7 +248,8 @@
    "surface": "Glenck",
    "page": 3,
    "page_id": "",
-   "line": 7111
+   "line": 7111,
+   "doc_line": 42
   },
   {
    "entity": "broniewski",
@@ -252,7 +258,8 @@
    "surface": "Broniew",
    "page": 3,
    "page_id": "",
-   "line": 7127
+   "line": 7127,
+   "doc_line": 58
   },
   {
    "entity": "voss",
@@ -261,7 +268,8 @@
    "surface": "Voss",
    "page": 4,
    "page_id": "",
-   "line": 7137
+   "line": 7137,
+   "doc_line": 67
   },
   {
    "entity": "struensee",
@@ -270,7 +278,8 @@
    "surface": "Struensee",
    "page": 4,
    "page_id": "",
-   "line": 7143
+   "line": 7143,
+   "doc_line": 73
   },
   {
    "entity": "voss",
@@ -279,7 +288,8 @@
    "surface": "Voss",
    "page": 4,
    "page_id": "",
-   "line": 7144
+   "line": 7144,
+   "doc_line": 74
   },
   {
    "entity": "triebenfeld",
@@ -288,7 +298,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 7148
+   "line": 7148,
+   "doc_line": 78
   },
   {
    "entity": "noldichen",
@@ -297,7 +308,8 @@
    "surface": "Nöldichen",
    "page": 7,
    "page_id": "",
-   "line": 7199
+   "line": 7199,
+   "doc_line": 126
   },
   {
    "entity": "sacken",
@@ -306,7 +318,8 @@
    "surface": "Fürstin Sa:",
    "page": 7,
    "page_id": "",
-   "line": 7213
+   "line": 7213,
+   "doc_line": 140
   },
   {
    "entity": "schulenburg",
@@ -315,7 +328,8 @@
    "surface": "Schulenburg",
    "page": 7,
    "page_id": "",
-   "line": 7213
+   "line": 7213,
+   "doc_line": 140
   },
   {
    "entity": "triebenfeld",
@@ -324,7 +338,8 @@
    "surface": "Triebenfeld",
    "page": 8,
    "page_id": "",
-   "line": 7240
+   "line": 7240,
+   "doc_line": 166
   }
  ],
  "mentions_english": [],

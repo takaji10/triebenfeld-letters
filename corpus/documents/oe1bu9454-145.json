@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 19,
-   "doc_line_end": 34
+   "doc_line_start": 18,
+   "doc_line_end": 33
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "Grimm",
    "page": 1,
    "page_id": "",
-   "line": 10509
+   "line": 10509,
+   "doc_line": 7
   },
   {
    "entity": "radzinski",
@@ -94,7 +95,8 @@
    "surface": "Radzinski",
    "page": 1,
    "page_id": "",
-   "line": 10510
+   "line": 10510,
+   "doc_line": 8
   },
   {
    "entity": "honrichs",
@@ -103,7 +105,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 10512
+   "line": 10512,
+   "doc_line": 10
   },
   {
    "entity": "grimm",
@@ -112,7 +115,8 @@
    "surface": "Grimm",
    "page": 1,
    "page_id": "",
-   "line": 10516
+   "line": 10516,
+   "doc_line": 14
   },
   {
    "entity": "koeckritz",
@@ -121,7 +125,8 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
-   "line": 10522
+   "line": 10522,
+   "doc_line": 19
   },
   {
    "entity": "grimm",
@@ -130,7 +135,8 @@
    "surface": "Grimm",
    "page": 2,
    "page_id": "",
-   "line": 10523
+   "line": 10523,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -139,7 +145,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 10536
+   "line": 10536,
+   "doc_line": 33
   }
  ],
  "mentions_english": [],

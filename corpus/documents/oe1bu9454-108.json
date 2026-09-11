@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 22,
-   "doc_line_end": 47
+   "doc_line_start": 21,
+   "doc_line_end": 46
   }
  ],
  "mentions": [
@@ -85,7 +85,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 8450
+   "line": 8450,
+   "doc_line": 31
   },
   {
    "entity": "triebenfeld",
@@ -94,7 +95,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 8464
+   "line": 8464,
+   "doc_line": 45
   }
  ],
  "mentions_english": [],

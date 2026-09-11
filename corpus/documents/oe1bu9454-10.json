@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 55
+   "doc_line_start": 30,
+   "doc_line_end": 54
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Napoleon",
    "page": 1,
    "page_id": "",
-   "line": 544
+   "line": 544,
+   "doc_line": 28
   },
   {
    "entity": "august",
@@ -97,7 +98,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 556
+   "line": 556,
+   "doc_line": 39
   },
   {
    "entity": "eberhard",
@@ -106,7 +108,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 558
+   "line": 558,
+   "doc_line": 41
   },
   {
    "entity": "triebenfeld",
@@ -115,7 +118,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 571
+   "line": 571,
+   "doc_line": 54
   }
  ],
  "mentions_english": [],

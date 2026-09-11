@@ -64,7 +64,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 13250
+   "line": 13250,
+   "doc_line": 2
   },
   {
    "entity": "triebenfeld",
@@ -73,7 +74,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 13264
+   "line": 13264,
+   "doc_line": 16
   }
  ],
  "mentions_english": [],

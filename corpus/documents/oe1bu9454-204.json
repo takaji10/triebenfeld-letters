@@ -66,7 +66,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14539
+   "line": 14539,
+   "doc_line": 3
   },
   {
    "entity": "stoessel",
@@ -75,7 +76,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14540
+   "line": 14540,
+   "doc_line": 4
   },
   {
    "entity": "weigel",
@@ -84,7 +86,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14541
+   "line": 14541,
+   "doc_line": 5
   },
   {
    "entity": "stoessel",
@@ -93,7 +96,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14542
+   "line": 14542,
+   "doc_line": 6
   },
   {
    "entity": "stoessel",
@@ -102,7 +106,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14545
+   "line": 14545,
+   "doc_line": 9
   },
   {
    "entity": "stoessel",
@@ -111,7 +116,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 14553
+   "line": 14553,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -120,7 +126,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 14564
+   "line": 14564,
+   "doc_line": 28
   }
  ],
  "mentions_english": [],

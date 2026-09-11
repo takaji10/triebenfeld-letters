@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 43
+   "doc_line_start": 20,
+   "doc_line_end": 42
   },
   {
    "page": 3,
@@ -89,8 +89,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 45,
-   "doc_line_end": 59
+   "doc_line_start": 43,
+   "doc_line_end": 57
   }
  ],
  "mentions": [
@@ -101,7 +101,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 20928
+   "line": 20928,
+   "doc_line": 10
   },
   {
    "entity": "barbe",
@@ -110,7 +111,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 20930
+   "line": 20930,
+   "doc_line": 12
   },
   {
    "entity": "hardenberg",
@@ -119,7 +121,8 @@
    "surface": "Hard:",
    "page": 1,
    "page_id": "",
-   "line": 20931
+   "line": 20931,
+   "doc_line": 13
   },
   {
    "entity": "zerboni",
@@ -128,7 +131,8 @@
    "surface": "Zerboni",
    "page": 2,
    "page_id": "",
-   "line": 20942
+   "line": 20942,
+   "doc_line": 23
   },
   {
    "entity": "schenck",
@@ -137,7 +141,8 @@
    "surface": "Schenck",
    "page": 2,
    "page_id": "",
-   "line": 20945
+   "line": 20945,
+   "doc_line": 26
   },
   {
    "entity": "schenck",
@@ -146,7 +151,8 @@
    "surface": "Schenck",
    "page": 2,
    "page_id": "",
-   "line": 20949
+   "line": 20949,
+   "doc_line": 30
   },
   {
    "entity": "stein",
@@ -155,7 +161,8 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
-   "line": 20958
+   "line": 20958,
+   "doc_line": 39
   },
   {
    "entity": "triebenfeld",
@@ -164,7 +171,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 20977
+   "line": 20977,
+   "doc_line": 57
   }
  ],
  "mentions_english": [],

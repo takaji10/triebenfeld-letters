@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 14,
-   "doc_line_end": 29
+   "doc_line_start": 13,
+   "doc_line_end": 28
   },
   {
    "page": 3,
@@ -86,8 +86,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 31,
-   "doc_line_end": 46
+   "doc_line_start": 29,
+   "doc_line_end": 44
   }
  ],
  "mentions": [
@@ -98,7 +98,8 @@
    "surface": "Bernhardi",
    "page": 1,
    "page_id": "",
-   "line": 13402
+   "line": 13402,
+   "doc_line": 4
   }
  ],
  "mentions_english": [],

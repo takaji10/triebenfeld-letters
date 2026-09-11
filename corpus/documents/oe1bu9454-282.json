@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 33,
-   "doc_line_end": 72
+   "doc_line_start": 32,
+   "doc_line_end": 71
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19960
+   "line": 19960,
+   "doc_line": 3
   },
   {
    "entity": "eberhardt",
@@ -93,7 +94,8 @@
    "surface": "Eberhardt",
    "page": 1,
    "page_id": "",
-   "line": 19960
+   "line": 19960,
+   "doc_line": 3
   },
   {
    "entity": "eberhard",
@@ -102,7 +104,8 @@
    "surface": "Eberhard",
    "page": 1,
    "page_id": "",
-   "line": 19967
+   "line": 19967,
+   "doc_line": 10
   },
   {
    "entity": "cosmar",
@@ -111,7 +114,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 19974
+   "line": 19974,
+   "doc_line": 17
   },
   {
    "entity": "lombardini",
@@ -120,7 +124,8 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
-   "line": 19984
+   "line": 19984,
+   "doc_line": 27
   },
   {
    "entity": "august",
@@ -129,7 +134,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 19993
+   "line": 19993,
+   "doc_line": 35
   },
   {
    "entity": "august",
@@ -138,7 +144,8 @@
    "surface": "August",
    "page": 2,
    "page_id": "",
-   "line": 20004
+   "line": 20004,
+   "doc_line": 46
   },
   {
    "entity": "cosmar",
@@ -147,7 +154,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 20005
+   "line": 20005,
+   "doc_line": 47
   },
   {
    "entity": "barbe",
@@ -156,7 +164,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 20009
+   "line": 20009,
+   "doc_line": 51
   },
   {
    "entity": "napoleon",
@@ -165,7 +174,8 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
-   "line": 20014
+   "line": 20014,
+   "doc_line": 56
   },
   {
    "entity": "eberhard",
@@ -174,7 +184,8 @@
    "surface": "Eberhard",
    "page": 2,
    "page_id": "",
-   "line": 20022
+   "line": 20022,
+   "doc_line": 64
   },
   {
    "entity": "glenck",
@@ -183,7 +194,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 20026
+   "line": 20026,
+   "doc_line": 68
   },
   {
    "entity": "triebenfeld",
@@ -192,7 +204,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 20029
+   "line": 20029,
+   "doc_line": 71
   }
  ],
  "mentions_english": [],

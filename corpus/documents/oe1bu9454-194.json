@@ -78,8 +78,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 45
+   "doc_line_start": 25,
+   "doc_line_end": 44
   }
  ],
  "mentions": [
@@ -90,7 +90,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 14016
+   "line": 14016,
+   "doc_line": 20
   },
   {
    "entity": "weigel",
@@ -99,7 +100,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 14019
+   "line": 14019,
+   "doc_line": 23
   },
   {
    "entity": "honrichs",
@@ -108,7 +110,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 14022
+   "line": 14022,
+   "doc_line": 25
   },
   {
    "entity": "hecker",
@@ -117,7 +120,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 14024
+   "line": 14024,
+   "doc_line": 27
   },
   {
    "entity": "brzechsta",
@@ -126,7 +130,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 14026
+   "line": 14026,
+   "doc_line": 29
   },
   {
    "entity": "honrichs",
@@ -135,7 +140,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 14027
+   "line": 14027,
+   "doc_line": 30
   },
   {
    "entity": "honrichs",
@@ -144,7 +150,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 14029
+   "line": 14029,
+   "doc_line": 32
   },
   {
    "entity": "brzechsta",
@@ -153,7 +160,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 14032
+   "line": 14032,
+   "doc_line": 35
   },
   {
    "entity": "honrichs",
@@ -162,7 +170,8 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
-   "line": 14032
+   "line": 14032,
+   "doc_line": 35
   },
   {
    "entity": "triebenfeld",
@@ -171,7 +180,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 14041
+   "line": 14041,
+   "doc_line": 44
   }
  ],
  "mentions_english": [],

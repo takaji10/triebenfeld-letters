@@ -73,8 +73,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 20,
-   "doc_line_end": 43
+   "doc_line_start": 19,
+   "doc_line_end": 42
   },
   {
    "page": 3,
@@ -99,8 +99,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 45,
-   "doc_line_end": 71
+   "doc_line_start": 43,
+   "doc_line_end": 69
   }
  ],
  "mentions": [
@@ -111,7 +111,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 13274
+   "line": 13274,
+   "doc_line": 8
   },
   {
    "entity": "schlabrendorff",
@@ -120,7 +121,8 @@
    "surface": "Schlabrendorff",
    "page": 1,
    "page_id": "",
-   "line": 13274
+   "line": 13274,
+   "doc_line": 8
   },
   {
    "entity": "weigel",
@@ -129,7 +131,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 13274
+   "line": 13274,
+   "doc_line": 8
   },
   {
    "entity": "oppenheimer",
@@ -138,7 +141,8 @@
    "surface": "Oppenheimer",
    "page": 1,
    "page_id": "",
-   "line": 13283
+   "line": 13283,
+   "doc_line": 17
   },
   {
    "entity": "amelang",
@@ -147,7 +151,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 13284
+   "line": 13284,
+   "doc_line": 18
   },
   {
    "entity": "lichnowski",
@@ -156,7 +161,8 @@
    "surface": "Lichnowski",
    "page": 2,
    "page_id": "",
-   "line": 13291
+   "line": 13291,
+   "doc_line": 24
   },
   {
    "entity": "bernhard",
@@ -165,7 +171,8 @@
    "surface": "Bernhard",
    "page": 2,
    "page_id": "",
-   "line": 13293
+   "line": 13293,
+   "doc_line": 26
   },
   {
    "entity": "meyer",
@@ -174,7 +181,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 13293
+   "line": 13293,
+   "doc_line": 26
   },
   {
    "entity": "weigel",
@@ -183,7 +191,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 13300
+   "line": 13300,
+   "doc_line": 33
   },
   {
    "entity": "bernhard",
@@ -192,7 +201,8 @@
    "surface": "Bernhard",
    "page": 2,
    "page_id": "",
-   "line": 13307
+   "line": 13307,
+   "doc_line": 40
   },
   {
    "entity": "meyer",
@@ -201,7 +211,8 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
-   "line": 13307
+   "line": 13307,
+   "doc_line": 40
   },
   {
    "entity": "triebenfeld",
@@ -210,7 +221,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 13337
+   "line": 13337,
+   "doc_line": 69
   }
  ],
  "mentions_english": [],

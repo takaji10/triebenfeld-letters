@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 47
+   "doc_line_start": 23,
+   "doc_line_end": 46
   },
   {
    "page": 3,
@@ -88,8 +88,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 49,
-   "doc_line_end": 74
+   "doc_line_start": 47,
+   "doc_line_end": 72
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 76,
-   "doc_line_end": 95
+   "doc_line_start": 73,
+   "doc_line_end": 92
   }
  ],
  "mentions": [
@@ -124,7 +124,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 15197
+   "line": 15197,
+   "doc_line": 18
   },
   {
    "entity": "hawich",
@@ -133,7 +134,8 @@
    "surface": "Hawich",
    "page": 2,
    "page_id": "",
-   "line": 15220
+   "line": 15220,
+   "doc_line": 40
   },
   {
    "entity": "hecker",
@@ -142,7 +144,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 15220
+   "line": 15220,
+   "doc_line": 40
   },
   {
    "entity": "hecker",
@@ -151,7 +154,8 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
-   "line": 15221
+   "line": 15221,
+   "doc_line": 41
   },
   {
    "entity": "hawich",
@@ -160,7 +164,8 @@
    "surface": "Hawich",
    "page": 3,
    "page_id": "",
-   "line": 15234
+   "line": 15234,
+   "doc_line": 53
   },
   {
    "entity": "hecker",
@@ -169,7 +174,8 @@
    "surface": "Hecker",
    "page": 3,
    "page_id": "",
-   "line": 15234
+   "line": 15234,
+   "doc_line": 53
   },
   {
    "entity": "hardenberg",
@@ -178,7 +184,8 @@
    "surface": "Hard:",
    "page": 4,
    "page_id": "",
-   "line": 15265
+   "line": 15265,
+   "doc_line": 83
   },
   {
    "entity": "triebenfeld",
@@ -187,7 +194,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 15274
+   "line": 15274,
+   "doc_line": 92
   }
  ],
  "mentions_english": [],

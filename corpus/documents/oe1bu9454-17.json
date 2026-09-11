@@ -65,8 +65,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 26,
-   "doc_line_end": 45
+   "doc_line_start": 25,
+   "doc_line_end": 44
   },
   {
    "page": 3,
@@ -83,8 +83,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 47,
-   "doc_line_end": 66
+   "doc_line_start": 45,
+   "doc_line_end": 64
   },
   {
    "page": 4,
@@ -103,8 +103,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 68,
-   "doc_line_end": 92
+   "doc_line_start": 65,
+   "doc_line_end": 89
   }
  ],
  "mentions": [
@@ -115,7 +115,8 @@
    "surface": "Kleist",
    "page": 1,
    "page_id": "",
-   "line": 881
+   "line": 881,
+   "doc_line": 3
   },
   {
    "entity": "garczynski",
@@ -124,7 +125,8 @@
    "surface": "Garczynski",
    "page": 1,
    "page_id": "",
-   "line": 882
+   "line": 882,
+   "doc_line": 4
   },
   {
    "entity": "kleist",
@@ -133,7 +135,8 @@
    "surface": "Kleist",
    "page": 1,
    "page_id": "",
-   "line": 888
+   "line": 888,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -142,7 +145,8 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "",
-   "line": 891
+   "line": 891,
+   "doc_line": 13
   },
   {
    "entity": "hecker",
@@ -151,7 +155,8 @@
    "surface": "Hecker",
    "page": 1,
    "page_id": "",
-   "line": 894
+   "line": 894,
+   "doc_line": 16
   },
   {
    "entity": "honrichs",
@@ -160,7 +165,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 894
+   "line": 894,
+   "doc_line": 16
   },
   {
    "entity": "schenck",
@@ -169,7 +175,8 @@
    "surface": "Schenck",
    "page": 1,
    "page_id": "",
-   "line": 896
+   "line": 896,
+   "doc_line": 18
   },
   {
    "entity": "chomanowski",
@@ -178,7 +185,8 @@
    "surface": "Chomanowski",
    "page": 1,
    "page_id": "",
-   "line": 902
+   "line": 902,
+   "doc_line": 24
   },
   {
    "entity": "weigel",
@@ -187,7 +195,8 @@
    "surface": "Weigel",
    "page": 2,
    "page_id": "",
-   "line": 917
+   "line": 917,
+   "doc_line": 38
   },
   {
    "entity": "sommer",
@@ -196,7 +205,8 @@
    "surface": "Sommer",
    "page": 3,
    "page_id": "",
-   "line": 936
+   "line": 936,
+   "doc_line": 56
   },
   {
    "entity": "sommer",
@@ -205,7 +215,8 @@
    "surface": "Sommer",
    "page": 4,
    "page_id": "",
-   "line": 951
+   "line": 951,
+   "doc_line": 70
   },
   {
    "entity": "weigel",
@@ -214,7 +225,8 @@
    "surface": "Weigel",
    "page": 4,
    "page_id": "",
-   "line": 954
+   "line": 954,
+   "doc_line": 73
   },
   {
    "entity": "sobottendorff",
@@ -223,7 +235,8 @@
    "surface": "Sobottendorff",
    "page": 4,
    "page_id": "",
-   "line": 960
+   "line": 960,
+   "doc_line": 79
   },
   {
    "entity": "weigel",
@@ -232,7 +245,8 @@
    "surface": "Weigel",
    "page": 4,
    "page_id": "",
-   "line": 960
+   "line": 960,
+   "doc_line": 79
   },
   {
    "entity": "sobottendorff",
@@ -241,7 +255,8 @@
    "surface": "Sobottendorff",
    "page": 4,
    "page_id": "",
-   "line": 961
+   "line": 961,
+   "doc_line": 80
   },
   {
    "entity": "triebenfeld",
@@ -250,7 +265,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 970
+   "line": 970,
+   "doc_line": 89
   }
  ],
  "mentions_english": [],

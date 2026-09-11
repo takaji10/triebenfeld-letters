@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 28,
-   "doc_line_end": 53
+   "doc_line_start": 27,
+   "doc_line_end": 52
   }
  ],
  "mentions": [
@@ -84,7 +84,8 @@
    "surface": "Schenck",
    "page": 1,
    "page_id": "",
-   "line": 21161
+   "line": 21161,
+   "doc_line": 2
   },
   {
    "entity": "zerboni",
@@ -93,7 +94,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 21164
+   "line": 21164,
+   "doc_line": 5
   },
   {
    "entity": "zerboni",
@@ -102,7 +104,8 @@
    "surface": "Zerboni",
    "page": 1,
    "page_id": "",
-   "line": 21173
+   "line": 21173,
+   "doc_line": 14
   },
   {
    "entity": "barbe",
@@ -111,7 +114,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 21178
+   "line": 21178,
+   "doc_line": 19
   },
   {
    "entity": "barbe",
@@ -120,7 +124,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 21179
+   "line": 21179,
+   "doc_line": 20
   },
   {
    "entity": "humboldt",
@@ -129,7 +134,8 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
-   "line": 21182
+   "line": 21182,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -138,7 +144,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 21212
+   "line": 21212,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

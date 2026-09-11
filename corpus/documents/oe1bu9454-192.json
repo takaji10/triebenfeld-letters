@@ -70,8 +70,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 54
+   "doc_line_start": 23,
+   "doc_line_end": 53
   },
   {
    "page": 3,
@@ -91,8 +91,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 56,
-   "doc_line_end": 68
+   "doc_line_start": 54,
+   "doc_line_end": 66
   }
  ],
  "mentions": [
@@ -103,7 +103,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 13894
+   "line": 13894,
+   "doc_line": 9
   },
   {
    "entity": "weigel",
@@ -112,7 +113,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 13902
+   "line": 13902,
+   "doc_line": 17
   },
   {
    "entity": "lichnowski",
@@ -121,7 +123,8 @@
    "surface": "Lichnowski",
    "page": 1,
    "page_id": "",
-   "line": 13903
+   "line": 13903,
+   "doc_line": 18
   },
   {
    "entity": "weigel",
@@ -130,7 +133,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 13903
+   "line": 13903,
+   "doc_line": 18
   },
   {
    "entity": "weigel",
@@ -139,7 +143,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 13905
+   "line": 13905,
+   "doc_line": 20
   },
   {
    "entity": "michaelis",
@@ -148,7 +153,8 @@
    "surface": "Michaelis",
    "page": 2,
    "page_id": "",
-   "line": 13909
+   "line": 13909,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -157,7 +163,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 13923
+   "line": 13923,
+   "doc_line": 37
   },
   {
    "entity": "glenck",
@@ -166,7 +173,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 13935
+   "line": 13935,
+   "doc_line": 49
   },
   {
    "entity": "glenck",
@@ -175,7 +183,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 13938
+   "line": 13938,
+   "doc_line": 52
   }
  ],
  "mentions_english": [],

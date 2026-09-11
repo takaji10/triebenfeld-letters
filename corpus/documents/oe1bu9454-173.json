@@ -72,8 +72,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 43
+   "doc_line_start": 20,
+   "doc_line_end": 42
   },
   {
    "page": 3,
@@ -94,8 +94,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 45,
-   "doc_line_end": 67
+   "doc_line_start": 43,
+   "doc_line_end": 65
   },
   {
    "page": 4,
@@ -122,8 +122,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 69,
-   "doc_line_end": 102
+   "doc_line_start": 66,
+   "doc_line_end": 99
   }
  ],
  "mentions": [
@@ -134,7 +134,8 @@
    "surface": "Grimm",
    "page": 1,
    "page_id": "",
-   "line": 12155
+   "line": 12155,
+   "doc_line": 3
   },
   {
    "entity": "honrichs",
@@ -143,7 +144,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 12156
+   "line": 12156,
+   "doc_line": 4
   },
   {
    "entity": "rochlitz",
@@ -152,7 +154,8 @@
    "surface": "Rochlitz",
    "page": 1,
    "page_id": "",
-   "line": 12156
+   "line": 12156,
+   "doc_line": 4
   },
   {
    "entity": "schenck",
@@ -161,7 +164,8 @@
    "surface": "Schenck",
    "page": 1,
    "page_id": "",
-   "line": 12159
+   "line": 12159,
+   "doc_line": 7
   },
   {
    "entity": "glenck",
@@ -170,7 +174,8 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
-   "line": 12164
+   "line": 12164,
+   "doc_line": 12
   },
   {
    "entity": "rochlitz",
@@ -179,7 +184,8 @@
    "surface": "Rochlitz",
    "page": 1,
    "page_id": "",
-   "line": 12165
+   "line": 12165,
+   "doc_line": 13
   },
   {
    "entity": "honrichs",
@@ -188,7 +194,8 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
-   "line": 12168
+   "line": 12168,
+   "doc_line": 16
   },
   {
    "entity": "weigel",
@@ -197,7 +204,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 12168
+   "line": 12168,
+   "doc_line": 16
   },
   {
    "entity": "amelang",
@@ -206,7 +214,8 @@
    "surface": "Amelang",
    "page": 1,
    "page_id": "",
-   "line": 12170
+   "line": 12170,
+   "doc_line": 18
   },
   {
    "entity": "blomberg",
@@ -215,7 +224,8 @@
    "surface": "Blomberg",
    "page": 2,
    "page_id": "",
-   "line": 12178
+   "line": 12178,
+   "doc_line": 25
   },
   {
    "entity": "stein",
@@ -224,7 +234,8 @@
    "surface": "Stein",
    "page": 3,
    "page_id": "",
-   "line": 12202
+   "line": 12202,
+   "doc_line": 48
   },
   {
    "entity": "schenck",
@@ -233,7 +244,8 @@
    "surface": "Schenck",
    "page": 3,
    "page_id": "",
-   "line": 12213
+   "line": 12213,
+   "doc_line": 59
   },
   {
    "entity": "grimm",
@@ -242,7 +254,8 @@
    "surface": "Grimm",
    "page": 4,
    "page_id": "",
-   "line": 12232
+   "line": 12232,
+   "doc_line": 77
   },
   {
    "entity": "schenck",
@@ -251,7 +264,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 12232
+   "line": 12232,
+   "doc_line": 77
   },
   {
    "entity": "schenck",
@@ -260,7 +274,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 12234
+   "line": 12234,
+   "doc_line": 79
   },
   {
    "entity": "grimm",
@@ -269,7 +284,8 @@
    "surface": "Grimm",
    "page": 4,
    "page_id": "",
-   "line": 12236
+   "line": 12236,
+   "doc_line": 81
   },
   {
    "entity": "schenck",
@@ -278,7 +294,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 12241
+   "line": 12241,
+   "doc_line": 86
   },
   {
    "entity": "schenck",
@@ -287,7 +304,8 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
-   "line": 12244
+   "line": 12244,
+   "doc_line": 89
   }
  ],
  "mentions_english": [],

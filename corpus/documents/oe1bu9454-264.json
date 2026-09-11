@@ -71,8 +71,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 29,
-   "doc_line_end": 55
+   "doc_line_start": 28,
+   "doc_line_end": 54
   },
   {
    "page": 3,
@@ -93,8 +93,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 57,
-   "doc_line_end": 79
+   "doc_line_start": 55,
+   "doc_line_end": 77
   }
  ],
  "mentions": [
@@ -105,7 +105,8 @@
    "surface": "Barbe",
    "page": 1,
    "page_id": "",
-   "line": 18749
+   "line": 18749,
+   "doc_line": 15
   },
   {
    "entity": "hardenberg",
@@ -114,7 +115,8 @@
    "surface": "Hard:",
    "page": 1,
    "page_id": "",
-   "line": 18752
+   "line": 18752,
+   "doc_line": 18
   },
   {
    "entity": "stoessel",
@@ -123,7 +125,8 @@
    "surface": "Stössel",
    "page": 1,
    "page_id": "",
-   "line": 18754
+   "line": 18754,
+   "doc_line": 20
   },
   {
    "entity": "weigel",
@@ -132,7 +135,8 @@
    "surface": "Weigel",
    "page": 1,
    "page_id": "",
-   "line": 18754
+   "line": 18754,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -141,7 +145,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 18763
+   "line": 18763,
+   "doc_line": 28
   },
   {
    "entity": "barbe",
@@ -150,7 +155,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 18779
+   "line": 18779,
+   "doc_line": 44
   },
   {
    "entity": "pourtales",
@@ -159,7 +165,8 @@
    "surface": "Pourtal",
    "page": 2,
    "page_id": "",
-   "line": 18779
+   "line": 18779,
+   "doc_line": 44
   },
   {
    "entity": "barbe",
@@ -168,7 +175,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 18784
+   "line": 18784,
+   "doc_line": 49
   },
   {
    "entity": "pourtales",
@@ -177,7 +185,8 @@
    "surface": "Pourtal",
    "page": 3,
    "page_id": "",
-   "line": 18797
+   "line": 18797,
+   "doc_line": 61
   },
   {
    "entity": "pourtales",
@@ -186,7 +195,8 @@
    "surface": "Pourtal",
    "page": 3,
    "page_id": "",
-   "line": 18801
+   "line": 18801,
+   "doc_line": 65
   },
   {
    "entity": "pourtales",
@@ -195,7 +205,8 @@
    "surface": "Pourtal",
    "page": 3,
    "page_id": "",
-   "line": 18804
+   "line": 18804,
+   "doc_line": 68
   },
   {
    "entity": "pourtales",
@@ -204,7 +215,8 @@
    "surface": "Pourtal",
    "page": 3,
    "page_id": "",
-   "line": 18809
+   "line": 18809,
+   "doc_line": 73
   },
   {
    "entity": "hohenlohe",
@@ -213,7 +225,8 @@
    "surface": "Hohenlohe",
    "page": 3,
    "page_id": "",
-   "line": 18813
+   "line": 18813,
+   "doc_line": 77
   }
  ],
  "mentions_english": [],

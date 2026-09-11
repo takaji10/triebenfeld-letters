@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 16,
-   "doc_line_end": 30
+   "doc_line_start": 15,
+   "doc_line_end": 29
   },
   {
    "page": 3,
@@ -87,8 +87,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 32,
-   "doc_line_end": 51
+   "doc_line_start": 30,
+   "doc_line_end": 49
   },
   {
    "page": 4,
@@ -111,8 +111,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 53,
-   "doc_line_end": 70
+   "doc_line_start": 50,
+   "doc_line_end": 67
   }
  ],
  "mentions": [
@@ -123,7 +123,8 @@
    "surface": "Zastrow",
    "page": 1,
    "page_id": "",
-   "line": 8349
+   "line": 8349,
+   "doc_line": 3
   },
   {
    "entity": "sacken",
@@ -132,7 +133,8 @@
    "surface": "Sacken",
    "page": 1,
    "page_id": "",
-   "line": 8357
+   "line": 8357,
+   "doc_line": 11
   },
   {
    "entity": "zastrow",
@@ -141,7 +143,8 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
-   "line": 8363
+   "line": 8363,
+   "doc_line": 16
   },
   {
    "entity": "sacken",
@@ -150,7 +153,8 @@
    "surface": "Fürsten Sa:",
    "page": 2,
    "page_id": "",
-   "line": 8370
+   "line": 8370,
+   "doc_line": 23
   },
   {
    "entity": "cosmar",
@@ -159,7 +163,8 @@
    "surface": "Cosmar",
    "page": 2,
    "page_id": "",
-   "line": 8375
+   "line": 8375,
+   "doc_line": 28
   },
   {
    "entity": "hoym",
@@ -168,7 +173,8 @@
    "surface": "Hoym",
    "page": 2,
    "page_id": "",
-   "line": 8376
+   "line": 8376,
+   "doc_line": 29
   },
   {
    "entity": "sacken",
@@ -177,7 +183,8 @@
    "surface": "Sacken",
    "page": 4,
    "page_id": "",
-   "line": 8401
+   "line": 8401,
+   "doc_line": 52
   },
   {
    "entity": "triebenfeld",
@@ -186,7 +193,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 8416
+   "line": 8416,
+   "doc_line": 67
   }
  ],
  "mentions_english": [],

@@ -76,8 +76,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 24,
-   "doc_line_end": 52
+   "doc_line_start": 23,
+   "doc_line_end": 51
   }
  ],
  "mentions": [
@@ -88,7 +88,8 @@
    "surface": "Nathan",
    "page": 1,
    "page_id": "",
-   "line": 13015
+   "line": 13015,
+   "doc_line": 5
   },
   {
    "entity": "echaust",
@@ -97,7 +98,8 @@
    "surface": "Eichaust",
    "page": 1,
    "page_id": "",
-   "line": 13025
+   "line": 13025,
+   "doc_line": 15
   },
   {
    "entity": "michaelis",
@@ -106,7 +108,8 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
-   "line": 13031
+   "line": 13031,
+   "doc_line": 21
   },
   {
    "entity": "glenck",
@@ -115,7 +118,8 @@
    "surface": "Glenck",
    "page": 2,
    "page_id": "",
-   "line": 13045
+   "line": 13045,
+   "doc_line": 34
   },
   {
    "entity": "pochammer",
@@ -124,7 +128,8 @@
    "surface": "Pochammer",
    "page": 2,
    "page_id": "",
-   "line": 13047
+   "line": 13047,
+   "doc_line": 36
   },
   {
    "entity": "triebenfeld",
@@ -133,7 +138,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 13062
+   "line": 13062,
+   "doc_line": 51
   }
  ],
  "mentions_english": [],

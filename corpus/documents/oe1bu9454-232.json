@@ -67,8 +67,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 21,
-   "doc_line_end": 43
+   "doc_line_start": 20,
+   "doc_line_end": 42
   },
   {
    "page": 3,
@@ -86,8 +86,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 45,
-   "doc_line_end": 68
+   "doc_line_start": 43,
+   "doc_line_end": 66
   },
   {
    "page": 4,
@@ -112,8 +112,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 70,
-   "doc_line_end": 96
+   "doc_line_start": 67,
+   "doc_line_end": 93
   }
  ],
  "mentions": [
@@ -124,7 +124,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
-   "line": 16888
+   "line": 16888,
+   "doc_line": 9
   },
   {
    "entity": "brzechsta",
@@ -133,7 +134,8 @@
    "surface": "Brzechsta",
    "page": 1,
    "page_id": "",
-   "line": 16893
+   "line": 16893,
+   "doc_line": 14
   },
   {
    "entity": "lipski",
@@ -142,7 +144,8 @@
    "surface": "Lipski",
    "page": 1,
    "page_id": "",
-   "line": 16898
+   "line": 16898,
+   "doc_line": 19
   },
   {
    "entity": "kwilecki",
@@ -151,7 +154,8 @@
    "surface": "Kwileck",
    "page": 2,
    "page_id": "",
-   "line": 16902
+   "line": 16902,
+   "doc_line": 22
   },
   {
    "entity": "brzechsta",
@@ -160,7 +164,8 @@
    "surface": "Brzechsta",
    "page": 2,
    "page_id": "",
-   "line": 16916
+   "line": 16916,
+   "doc_line": 36
   },
   {
    "entity": "brzechsta",
@@ -169,7 +174,8 @@
    "surface": "Brzechstas",
    "page": 2,
    "page_id": "",
-   "line": 16917
+   "line": 16917,
+   "doc_line": 37
   },
   {
    "entity": "hohenlohe",
@@ -178,7 +184,8 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "",
-   "line": 16922
+   "line": 16922,
+   "doc_line": 42
   },
   {
    "entity": "sommer",
@@ -187,7 +194,8 @@
    "surface": "Sommer",
    "page": 3,
    "page_id": "",
-   "line": 16928
+   "line": 16928,
+   "doc_line": 47
   },
   {
    "entity": "brzechsta",
@@ -196,7 +204,8 @@
    "surface": "Brzechsta",
    "page": 3,
    "page_id": "",
-   "line": 16929
+   "line": 16929,
+   "doc_line": 48
   },
   {
    "entity": "sommer",
@@ -205,7 +214,8 @@
    "surface": "Sommer",
    "page": 3,
    "page_id": "",
-   "line": 16931
+   "line": 16931,
+   "doc_line": 50
   },
   {
    "entity": "chomanowski",
@@ -214,7 +224,8 @@
    "surface": "Chomanowski",
    "page": 3,
    "page_id": "",
-   "line": 16935
+   "line": 16935,
+   "doc_line": 54
   },
   {
    "entity": "triebenfeld",
@@ -223,7 +234,8 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
-   "line": 16943
+   "line": 16943,
+   "doc_line": 62
   },
   {
    "entity": "triebenfeld",
@@ -232,7 +244,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 16953
+   "line": 16953,
+   "doc_line": 71
   },
   {
    "entity": "triebenfeld",
@@ -241,7 +254,8 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
-   "line": 16975
+   "line": 16975,
+   "doc_line": 93
   }
  ],
  "mentions_english": [],

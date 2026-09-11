@@ -74,8 +74,8 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "",
-   "doc_line_start": 27,
-   "doc_line_end": 46
+   "doc_line_start": 26,
+   "doc_line_end": 45
   },
   {
    "page": 3,
@@ -93,8 +93,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "",
-   "doc_line_start": 48,
-   "doc_line_end": 72
+   "doc_line_start": 46,
+   "doc_line_end": 70
   }
  ],
  "mentions": [
@@ -105,7 +105,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 756
+   "line": 756,
+   "doc_line": 4
   },
   {
    "entity": "august",
@@ -114,7 +115,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 757
+   "line": 757,
+   "doc_line": 5
   },
   {
    "entity": "august",
@@ -123,7 +125,8 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
-   "line": 759
+   "line": 759,
+   "doc_line": 7
   },
   {
    "entity": "kircheisen",
@@ -132,7 +135,8 @@
    "surface": "Kircheisen",
    "page": 1,
    "page_id": "",
-   "line": 760
+   "line": 760,
+   "doc_line": 8
   },
   {
    "entity": "staegemann",
@@ -141,7 +145,8 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "",
-   "line": 763
+   "line": 763,
+   "doc_line": 11
   },
   {
    "entity": "cosmar",
@@ -150,7 +155,8 @@
    "surface": "Cosmar",
    "page": 1,
    "page_id": "",
-   "line": 767
+   "line": 767,
+   "doc_line": 15
   },
   {
    "entity": "barbe",
@@ -159,7 +165,8 @@
    "surface": "Barbe",
    "page": 2,
    "page_id": "",
-   "line": 781
+   "line": 781,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -168,7 +175,8 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
-   "line": 798
+   "line": 798,
+   "doc_line": 45
   },
   {
    "entity": "barbe",
@@ -177,7 +185,8 @@
    "surface": "Barbe",
    "page": 3,
    "page_id": "",
-   "line": 803
+   "line": 803,
+   "doc_line": 49
   },
   {
    "entity": "beugelin",
@@ -186,7 +195,8 @@
    "surface": "Beugelin",
    "page": 3,
    "page_id": "",
-   "line": 808
+   "line": 808,
+   "doc_line": 54
   },
   {
    "entity": "staegemann",
@@ -195,7 +205,8 @@
    "surface": "Stägemann",
    "page": 3,
    "page_id": "",
-   "line": 810
+   "line": 810,
+   "doc_line": 56
   },
   {
    "entity": "barbe",
@@ -204,7 +215,8 @@
    "surface": "Barbe",
    "page": 3,
    "page_id": "",
-   "line": 813
+   "line": 813,
+   "doc_line": 59
   },
   {
    "entity": "barbe",
@@ -213,7 +225,8 @@
    "surface": "Barbe",
    "page": 3,
    "page_id": "",
-   "line": 820
+   "line": 820,
+   "doc_line": 66
   }
  ],
  "mentions_english": [],

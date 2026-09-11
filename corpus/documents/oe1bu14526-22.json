@@ -72,7 +72,8 @@
    "surface": "Leixner",
    "page": 1,
    "page_id": "0138_b",
-   "line": 6944
+   "line": 6944,
+   "doc_line": 6
   },
   {
    "entity": "hohenlohe",
@@ -81,7 +82,8 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0138_b",
-   "line": 6954
+   "line": 6954,
+   "doc_line": 16
   }
  ],
  "mentions_english": [],
