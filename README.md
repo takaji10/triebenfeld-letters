@@ -1,8 +1,10 @@
-# The Triebenfeld Letters
+# Traces in the Sand — the Trąbczyn Archive
 
-A digital edition of the correspondence of Peter Friedrich von Triebenfeld and
-Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, built from archival holdings at the
-Hohenloher Zentralarchiv Neuenstein. Each document is shown four ways: the page scan, a
+A digital edition of the documents of the Trąbczyn estate in central Poland, built from
+archival holdings at the Hohenloher Zentralarchiv Neuenstein. The archive is organised by
+era; the Hohenlohe-Ingelfingen era (1796-1816) is the first to be published, and holds
+both the correspondence of Peter Friedrich von Triebenfeld with Friedrich Ludwig, Prince of
+Hohenlohe-Ingelfingen, and the deeds by which the estate was let out and sold. Each document is shown four ways: the page scan, a
 diplomatic transcription, a reading text, and an English translation that marks its own
 uncertainty. The site is bilingual.
 

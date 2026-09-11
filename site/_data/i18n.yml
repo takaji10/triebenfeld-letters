@@ -16,7 +16,7 @@ en:
   name: English
   other_name: Deutsch
   switch_title: Diese Seite auf Deutsch
-  brand: The Triebenfeld Letters
+  brand: Traces in the Sand
   skip: Skip to content
   nav:
     story: The story
@@ -143,10 +143,11 @@ en:
 
   # page prose
   home_lede: >-
-    Eighteen years of correspondence between <strong>Peter Friedrich von Triebenfeld</strong>,
-    estate manager, and <strong>Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen</strong>,
-    Prussian general. The letters run across the collapse of the Prince's fortune, the defeat of
-    Prussia at Jena and Auerstädt, the loss of his Polish estates, and the Congress of Vienna.
+    Trąbczyn is a village and estate in central Poland, in the country between
+    Konin and Kalisz. This is its archive: the papers of the people who owned it,
+    sold it, settled it and went to law over it, in the original German and in
+    English translation. What is published so far covers the eleven years a
+    Prussian prince held the place and the nine he spent trying to get it back.
   fig_documents: documents
   fig_span: span
   fig_people: people identified
@@ -154,27 +155,30 @@ en:
   card_browse_p: >-
     All %d documents, searchable in full and filterable by year, person, place and condition.
   card_timeline_p: >-
-    The correspondence set against the events that shaped it, from Jena to the Congress of Vienna.
+    The documents set against the events that shaped them, from the partition of Poland
+    to the Congress of Vienna.
   card_people_p: >-
     Who appears in these documents, how firmly each is identified, and where to find them.
   card_about: About this edition
   card_about_p: >-
     How the text was established, what the editorial marks mean, and what remains uncertain.
-  home_h2: What the letters are about
+  home_h2: What is here
   home_p1: >-
-    The correspondence opens in 1798 with Triebenfeld lobbying in Berlin to exchange the Prince's
-    Polish estates, granted after the Third Partition, for Prussian crown domains, in order to
-    clear his debts. The exchange fails, and what follows is a long unravelling: loans against the
-    estates, colonisation schemes to raise revenue, and an ever-lengthening list of creditors.
+    Poland was partitioned out of existence between 1772 and 1795. Trąbczyn ended
+    up in the Prussian share, and in 1796 the King gave it away — to Friedrich
+    Ludwig, Prince of Hohenlohe-Ingelfingen, a general who ran it from Silesia and
+    needed it to pay his debts. He sent the councillor of war Peter Friedrich von
+    Triebenfeld to turn land into money.
   home_p2: >-
-    After the Prussian defeat of 1806 the estates fall under the Duchy of Warsaw and are
-    sequestered. Triebenfeld is arrested in Berlin by French gendarmerie; by 1811 he is
-    running thirty-one lawsuits at once. In 1814 he is sent to the Congress of Vienna to
-    petition for restitution, and writes home destitute, itemising the cost of coffee
-    while tracking Metternich and Talleyrand through the negotiations.
+    The way to do that was to break the estate up. Demesne land was divided into
+    holdings and let out in perpetuity — to farmers, and to Hollanders, settlers
+    who held on a Dutch-derived tenure and had been clearing and draining land in
+    this part of Poland for generations. The contracts survive: what each man
+    paid, what he owed every year, and what he gave up to get it.
   home_p3_pre: >-
-    The letters end in personal ruin on both sides. A liquidation register drawn up at the
-    close lists debts of
+    Prussia lost the war of 1806 and the estate went with it. The letters run on
+    for nine more years — an arrest, thirty-one lawsuits at once, a winter at the
+    Congress of Vienna — and end with a liquidation register listing debts of
   home_p3_sum: 1,414,377 Reichsthaler
   people_h1: People in the documents
   people_lede: >-
@@ -244,7 +248,7 @@ de:
   name: Deutsch
   other_name: English
   switch_title: This page in English
-  brand: Die Triebenfeld-Briefe
+  brand: Spuren im Sand
   skip: Zum Inhalt springen
   nav:
     story: Die Geschichte
@@ -370,42 +374,45 @@ de:
   summary_label: Regest
   # page prose
   home_lede: >-
-    Achtzehn Jahre Korrespondenz zwischen <strong>Peter Friedrich von Triebenfeld</strong>,
-    Gutsverwalter, und <strong>Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen</strong>,
-    preußischem General. Die Briefe laufen über den Zusammenbruch des fürstlichen Vermögens
-    hinweg, die Niederlage Preußens bei Jena und Auerstedt, den Verlust der polnischen Güter und
-    den Wiener Kongress.
+    Trąbczyn ist ein Dorf und Gut in Mittelpolen, im Land zwischen Konin und
+    Kalisch. Dies ist sein Archiv: die Akten derer, die es besaßen, verkauften,
+    besiedelten und beklagten, im deutschen Original und in englischer
+    Übersetzung. Veröffentlicht sind bisher die elf Jahre, in denen ein
+    preußischer Fürst das Gut hielt, und die neun, die er darauf verwandte, es
+    zurückzugewinnen.
   fig_documents: Dokumente
   fig_span: Zeitraum
-  fig_people: Personen identifiziert
+  fig_people: Personen bestimmt
   fig_places: Ausstellungsorte
   card_browse_p: >-
-    Alle %d Dokumente, im Volltext durchsuchbar und filterbar nach Jahr, Person, Ort und Zustand.
+    Alle %d Dokumente, im Volltext durchsuchbar und filterbar nach Jahr, Person,
+    Ort und Zustand.
   card_timeline_p: >-
-    Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten, von Jena bis zum Wiener
-    Kongress.
+    Die Dokumente vor dem Hintergrund der Ereignisse, die sie prägten, von der
+    Teilung Polens bis zum Wiener Kongress.
   card_people_p: >-
-    Wer in den Dokumenten vorkommt, wie sicher die Identifizierung jeweils ist und wo die
-    Belege stehen.
-  card_about: Über diese Edition
+    Wer in den Dokumenten vorkommt, wie sicher die Identifizierung jeweils ist und wo die Belege stehen.
+  card_about: Über die Edition
   card_about_p: >-
-    Wie der Text erstellt wurde, was die editorischen Zeichen bedeuten und was ungeklärt bleibt.
-  home_h2: Wovon die Briefe handeln
+    Wie der Text erstellt wurde, was die editorischen Zeichen bedeuten und was offen bleibt.
+  home_h2: Was hier zu finden ist
   home_p1: >-
-    Die Korrespondenz beginnt 1798, als Triebenfeld in Berlin dafür wirbt, die nach der
-    Dritten Teilung verliehenen polnischen Güter des Fürsten gegen preußische Domänen zu
-    tauschen, um dessen Schulden zu tilgen. Der Tausch scheitert, und was folgt, ist ein
-    langes Auseinanderfallen: Anleihen auf die Güter, Kolonisationspläne zur Steigerung der
-    Einkünfte und eine immer längere Reihe von Gläubigern.
+    Polen wurde zwischen 1772 und 1795 aufgeteilt und hörte auf zu bestehen.
+    Trąbczyn fiel an Preußen, und 1796 verschenkte der König es — an Friedrich
+    Ludwig, Fürst zu Hohenlohe-Ingelfingen, einen General, der es von Schlesien
+    aus verwaltete und zur Tilgung seiner Schulden brauchte. Er schickte den
+    Kriegsrat Peter Friedrich von Triebenfeld, um Land in Geld zu verwandeln.
   home_p2: >-
-    Nach der preußischen Niederlage von 1806 fallen die Güter an das Herzogtum Warschau und werden
-    sequestriert. Triebenfeld wird in Berlin von französischer Gendarmerie verhaftet; 1811 führt
-    er einunddreißig Prozesse zugleich. 1814 wird er zum Wiener Kongress entsandt, um Rückgabe zu
-    erwirken, und schreibt mittellos nach Hause. Er rechnet die Kosten des Kaffees auf, während er
-    Metternich und Talleyrand durch die Verhandlungen verfolgt.
+    Dazu musste das Gut zerschlagen werden. Vorwerksland wurde in Stellen geteilt
+    und auf ewig ausgetan — an Bauern und an Holländer, Siedler, die nach
+    holländischem Recht saßen und in dieser Gegend seit Generationen Land urbar
+    machten und entwässerten. Die Verträge sind erhalten: was jeder zahlte, was er
+    jährlich schuldete und was er dafür aufgab.
   home_p3_pre: >-
-    Die Briefe enden im persönlichen Ruin auf beiden Seiten. Ein am Schluss aufgestelltes
-    Liquidationsregister verzeichnet Schulden von
+    Preußen verlor den Krieg von 1806, und mit ihm ging das Gut. Die Briefe laufen
+    noch neun Jahre weiter — eine Verhaftung, einunddreißig Prozesse zugleich, ein
+    Winter auf dem Wiener Kongress — und enden mit einem Liquidationsregister über
+    Schulden von
   home_p3_sum: 1.414.377 Reichsthalern
   people_h1: Personen in den Dokumenten
   people_lede: >-

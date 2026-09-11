@@ -1,7 +1,8 @@
-# The Triebenfeld Letters — site
+# Traces in the Sand — site
 
-A Jekyll site presenting the von Triebenfeld / Hohenlohe-Ingelfingen correspondence
-(1798–1816). Built to run on GitHub Pages without any custom plugins.
+A Jekyll site presenting the Trąbczyn estate archive, era by era. The Hohenlohe-Ingelfingen
+era (1798–1816) is published: correspondence and title deeds, from two archival holdings.
+Built to run on GitHub Pages without any custom plugins.
 
 ## Regenerating and previewing
 
