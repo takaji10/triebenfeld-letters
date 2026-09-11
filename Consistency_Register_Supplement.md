@@ -12,894 +12,935 @@ Holdings covered: Oe 1 Bü 14526, Oe 1 Bü 9454.
 
 ### v. Triebenfeld  <!-- triebenfeld -->
 
-- **272 document(s)**, 381 mention(s).
-- **First appearance:** oe1bu9454-75, 1798, p. 3 (line 50, archival line 6289), as *Triebenfeld*.
-- **Spellings encountered:** one only, *Triebenfeld* (381x).
+- **272 document(s)**, 432 mention(s).
+- **First appearance:** oe1bu9454-75, 1798, p. 3 (line 50, archival line 6289) [Oe_1_Bu_9454_0160_a2-L75_03.jpg], as *Triebenfeld*.
+- **Spellings encountered:**
+    - *Triebenfeld* — 397x, first at oe1bu9454-75, 1798, p. 3 (line 50, archival line 6289) [Oe_1_Bu_9454_0160_a2-L75_03.jpg]
+    - *von Triebenfeld* — 23x, first at oe1bu9454-92, 1798, p. 1 (line 0) [Oe_1_Bu_9454_0192_a-L92_01.jpg]
+    - *v. Triebenfeld* — 12x, first at oe1bu9454-79, 1798, p. 4 (line 0) [Oe_1_Bu_9454_0168_a-L79_04.jpg]
 
 ### Glenck  <!-- glenck -->
 
-- **51 document(s)**, 154 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-25, 1798, p. 1 (line 3, archival line 7705), as *Glenck*.
+- **51 document(s)**, 228 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-25, 1798, p. 1 (line 3, archival line 7705) [Oe_1_Bu_14526_0156_a2-L25_01.jpg], as *Glenck*.
 - **Spellings encountered:**
-    - *Glenck* — 136x, first at oe1bu14526-25, 1798, p. 1 (line 3, archival line 7705)
-    - *Glenk* — 18x, first at oe1bu14526-28, 1799, p. 2 (line 41, archival line 7998)
-
-### Hohenlohe  <!-- hohenlohe -->
-
-- **60 document(s)**, 153 mention(s).
-- **First appearance:** oe1bu14526-25, 1798, p. 1 (line 2, archival line 7704), as *Hohenlohe*.
-- **Spellings encountered:** one only, *Hohenlohe* (153x).
+    - *Glenck* — 210x, first at oe1bu14526-25, 1798, p. 1 (line 3, archival line 7705) [Oe_1_Bu_14526_0156_a2-L25_01.jpg]
+    - *Glenk* — 18x, first at oe1bu14526-28, 1799, p. 2 (line 41, archival line 7998) [Oe_1_Bu_14526_0164_a1-L28_02.jpg]
 
 ### Honrichs  <!-- honrichs -->
 
-- **43 document(s)**, 124 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-2, 1803, p. 2 (line 40, archival line 82), as *Honrichs*.
+- **43 document(s)**, 188 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-2, 1803, p. 7 (line 0) [Oe_1_Bu_14526_0006_a2-L2_07.jpg], as *Honrichs*.
 - **Spellings encountered:**
-    - *Honrichs* — 121x, first at oe1bu14526-2, 1803, p. 2 (line 40, archival line 82)
-    - *Hon* — 3x, first at oe1bu14526-2, 1803, p. 1 (line 7, archival line 48)
+    - *Honrichs* — 183x, first at oe1bu14526-2, 1803, p. 7 (line 0) [Oe_1_Bu_14526_0006_a2-L2_07.jpg]
+    - *Hon* — 3x, first at oe1bu14526-2, 1803, p. 1 (line 7, archival line 48) [Oe_1_Bu_14526_0003_b-L2_01.jpg]
+    - *Honrich* — 1x, first at oe1bu9454-34, 1808, p. 1 (line 0) [Oe_1_Bu_9454_0061_b-L34_01.jpg]
+    - *Honrich's* — 1x, first at oe1bu9454-71, 1810, p. 1 (line 0) [Oe_1_Bu_9454_0138_a-L71_01.jpg]
+
+### Hohenlohe  <!-- hohenlohe -->
+
+- **60 document(s)**, 178 mention(s).
+- **First appearance:** oe1bu14526-25, 1798, p. 1 (line 2, archival line 7704) [Oe_1_Bu_14526_0156_a2-L25_01.jpg], as *Hohenlohe*.
+- **Spellings encountered:**
+    - *Hohenlohe* — 177x, first at oe1bu14526-25, 1798, p. 1 (line 2, archival line 7704) [Oe_1_Bu_14526_0156_a2-L25_01.jpg]
+    - *Hohenlohes* — 1x, first at oe1bu9454-277, 1815, p. 2 (line 0) [Oe_1_Bu_9454_0504_a1-L277_02.jpg]
 
 ### Cosmar  <!-- cosmar -->
 
-- **48 document(s)**, 113 mention(s).
-- **First appearance:** oe1bu9454-247, 1799, p. 1 (line 17, archival line 17843), as *Cosmar*.
-- **Spellings encountered:** one only, *Cosmar* (113x).
+- **48 document(s)**, 162 mention(s).
+- **First appearance:** oe1bu9454-247, 1799, p. 1 (line 0) [Oe_1_Bu_9454_0457_a2-L247_01.jpg], as *Cosmar*.
+- **Spellings encountered:** one only, *Cosmar* (162x).
 
 ### Weigel  <!-- weigel -->
 
-- **50 document(s)**, 105 mention(s).
-- **First appearance:** oe1bu9454-102, 1799, p. 3 (line 53, archival line 8028), as *Weigel*.
-- **Spellings encountered:** one only, *Weigel* (105x).
+- **50 document(s)**, 156 mention(s).
+- **First appearance:** oe1bu9454-102, 1799, p. 3 (line 0) [Oe_1_Bu_9454_0212_a2-L102_03.jpg], as *Weigel*.
+- **Spellings encountered:**
+    - *Weigel* — 155x, first at oe1bu9454-102, 1799, p. 3 (line 0) [Oe_1_Bu_9454_0212_a2-L102_03.jpg]
+    - *[uncertain: Weigel]* — 1x, first at oe1bu9454-191, 1806, p. 8 (line 0) [Oe_1_Bu_9454_0365_a-L191_08.jpg]
 
 ### August  <!-- august -->
 
-- **58 document(s)**, 87 mention(s).
-- **First appearance:** oe1bu9454-108, 1800, p. 2 (line 31, archival line 8450), as *August*.
+- **58 document(s)**, 96 mention(s).
+- **First appearance:** oe1bu9454-108, 1800, p. 2 (line 31, archival line 8450) [Oe_1_Bu_9454_0224_a1-L108_02.jpg], as *August*.
 - **Spellings encountered:**
-    - *August* — 85x, first at oe1bu9454-108, 1800, p. 2 (line 31, archival line 8450)
-    - *Augusts* — 2x, first at oe1bu9454-273, 1815, p. 3 (line 79, archival line 19430)
+    - *August* — 94x, first at oe1bu9454-108, 1800, p. 2 (line 31, archival line 8450) [Oe_1_Bu_9454_0224_a1-L108_02.jpg]
+    - *Augusts* — 2x, first at oe1bu9454-273, 1815, p. 3 (line 79, archival line 19430) [Oe_1_Bu_9454_0498_a2-L273_03.jpg]
 
 ### Amelang  <!-- amelang -->
 
-- **32 document(s)**, 61 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-129, 1804, p. 1 (line 5, archival line 9278), as *Amelang*.
+- **32 document(s)**, 92 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-129, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0248_b-L129_01.jpg], as *Amelang*.
 - **Spellings encountered:**
-    - *Amelang* — 57x, first at oe1bu9454-129, 1804, p. 1 (line 5, archival line 9278)
-    - *Am:* — 3x, first at oe1bu9454-134, 1804, p. 3 (line 42, archival line 9587)
-    - *Amel:* — 1x, first at oe1bu9454-182, 1806, p. 3 (line 51, archival line 13120)
-
-### Meyer  <!-- meyer -->
-
-- **28 document(s)**, 59 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-112, 1801, p. 2 (line 25, archival line 8593), as *Meyer*.
-- **Spellings encountered:**
-    - *Meyer* — 56x, first at oe1bu9454-112, 1801, p. 2 (line 25, archival line 8593)
-    - *Meyers* — 2x, first at oe1bu9454-47, 1809, p. 2 (line 46, archival line 3509)
-    - *Meyern* — 1x, first at oe1bu9454-262, 1814, p. 3 (line 67, archival line 18674)
-
-### Voss  <!-- voss -->
-
-- **28 document(s)**, 58 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-78, 1798, p. 1 (line 7, archival line 6391), as *Voss*.
-- **Spellings encountered:** one only, *Voss* (58x).
-
-### von der Lahr  <!-- lahr -->
-
-- **20 document(s)**, 56 mention(s).
-- **First appearance:** oe1bu9454-40, 1808, p. 2 (line 52, archival line 2937), as *Lahr*.
-- **Spellings encountered:** one only, *Lahr* (56x).
-
-### Brzechsta  <!-- brzechsta -->
-
-- **17 document(s)**, 56 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-68, 1810, p. 2 (line 41, archival line 5348), as *Brzechsta*.
-- **Spellings encountered:**
-    - *Brzechsta* — 54x, first at oe1bu9454-68, 1810, p. 2 (line 41, archival line 5348)
-    - *Brzechstas* — 2x, first at oe1bu9454-215, 1811, p. 8 (line 276, archival line 15559)
-
-### Köckritz  <!-- koeckritz -->
-
-- **34 document(s)**, 51 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-79, 1798, p. 3 (line 58, archival line 6511), as *Köckritz*.
-- **Spellings encountered:**
-    - *Köckritz* — 46x, first at oe1bu9454-79, 1798, p. 3 (line 58, archival line 6511)
-    - *Köch:* — 3x, first at oe1bu9454-93, 1798, p. 2 (line 21, archival line 7346)
-    - *Koch:* — 2x, first at oe1bu9454-222, 1811, p. 4 (line 63, archival line 16070)
+    - *Amelang* — 87x, first at oe1bu9454-129, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0248_b-L129_01.jpg]
+    - *Am:* — 3x, first at oe1bu9454-134, 1804, p. 3 (line 42, archival line 9587) [Oe_1_Bu_9454_0257_a2-L134_03.jpg]
+    - *Am[elang]* — 1x, first at oe1bu9454-134, 1804, p. 5 (line 0) [Oe_1_Bu_9454_0258_b-L134_05.jpg]
+    - *Amel:* — 1x, first at oe1bu9454-182, 1806, p. 3 (line 51, archival line 13120) [Oe_1_Bu_9454_0348_a2-L182_03.jpg]
 
 ### George Conrad Leixner  <!-- leixner -->
 
-- **17 document(s)**, 50 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-130, 1804, p. 1 (line 5, archival line 9311), as *Leixner*.
-- **Spellings encountered:** one only, *Leixner* (50x).
-
-### Hardenberg  <!-- hardenberg -->
-
-- **41 document(s)**, 48 mention(s).
-- **First appearance:** oe1bu9454-134, 1804, p. 5 (line 93, archival line 9640), as *Hard:*.
+- **17 document(s)**, 83 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-130, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0249_a2-L130_01.jpg], as *Leixner*.
 - **Spellings encountered:**
-    - *Hardenberg* — 36x, first at oe1bu9454-177, 1805, p. 7 (line 149, archival line 12572)
-    - *Hard:* — 12x, first at oe1bu9454-134, 1804, p. 5 (line 93, archival line 9640)
+    - *Leixner* — 73x, first at oe1bu9454-130, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0249_a2-L130_01.jpg]
+    - *George Conrad Leixner* — 10x, first at oe1bu14526-5, 1804, p. 2 (line 0) [Oe_1_Bu_14526_0020_a1-L5_02.jpg]
+
+### Brzechsta  <!-- brzechsta -->
+
+- **17 document(s)**, 79 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-68, 1810, p. 2 (line 0) [Oe_1_Bu_9454_0133_a1-L68_02.jpg], as *Brzechsta*.
+- **Spellings encountered:**
+    - *Brzechsta* — 77x, first at oe1bu9454-68, 1810, p. 2 (line 0) [Oe_1_Bu_9454_0133_a1-L68_02.jpg]
+    - *Brzechstas* — 2x, first at oe1bu9454-215, 1811, p. 8 (line 276, archival line 15559) [Oe_1_Bu_9454_0405_a-L215_08.jpg]
 
 ### Hawich  <!-- hawich -->
 
-- **23 document(s)**, 47 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-8, 1806, p. 22 (line 704, archival line 2506), as *Hawich*.
-- **Spellings encountered:** one only, *Hawich* (47x).
+- **23 document(s)**, 76 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-8, 1806, p. 22 (line 0) [Oe_1_Bu_14526_0048_a1-L8_22.jpg], as *Hawich*.
+- **Spellings encountered:** one only, *Hawich* (76x).
 
 ### Schenck  <!-- schenck -->
 
-- **27 document(s)**, 45 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-3, 1799, p. 10 (line 238, archival line 590), as *Schenck*.
-- **Spellings encountered:** one only, *Schenck* (45x).
+- **27 document(s)**, 75 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-3, 1799, p. 10 (line 0) [Oe_1_Bu_14526_0014_a1-L3_10.jpg], as *Schenck*.
+- **Spellings encountered:** one only, *Schenck* (75x).
 
-### Stössel  <!-- stoessel -->
+### Köckritz  <!-- koeckritz -->
 
-- **18 document(s)**, 44 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-117, 1804, p. 2 (line 40, archival line 8850), as *Stössel*.
-- **Spellings encountered:** one only, *Stössel* (44x).
+- **34 document(s)**, 72 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-79, 1798, p. 3 (line 58, archival line 6511) [Oe_1_Bu_9454_0167_a2-L79_03.jpg], as *Köckritz*.
+- **Spellings encountered:**
+    - *Köckritz* — 66x, first at oe1bu9454-79, 1798, p. 3 (line 58, archival line 6511) [Oe_1_Bu_9454_0167_a2-L79_03.jpg]
+    - *Koch:* — 3x, first at oe1bu9454-222, 1811, p. 4 (line 63, archival line 16070) [Oe_1_Bu_9454_0418_a-L222_04.jpg]
+    - *Köch:* — 3x, first at oe1bu9454-93, 1798, p. 2 (line 21, archival line 7346) [Oe_1_Bu_9454_0194_a1-L93_02.jpg]
+
+### Hardenberg  <!-- hardenberg -->
+
+- **41 document(s)**, 72 mention(s).
+- **First appearance:** oe1bu9454-134, 1804, p. 5 (line 93, archival line 9640) [Oe_1_Bu_9454_0258_b-L134_05.jpg], as *Hard:*.
+- **Spellings encountered:**
+    - *Hardenberg* — 53x, first at oe1bu9454-177, 1805, p. 7 (line 0) [Oe_1_Bu_9454_0334_a2-L177_07.jpg]
+    - *Hard:* — 18x, first at oe1bu9454-134, 1804, p. 5 (line 93, archival line 9640) [Oe_1_Bu_9454_0258_b-L134_05.jpg]
+    - *Hard* — 1x, first at oe1bu9454-213, 1811, p. 4 (line 0) [Oe_1_Bu_9454_0399_a-L213_04.jpg]
+
+### Meyer  <!-- meyer -->
+
+- **28 document(s)**, 71 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-112, 1801, p. 2 (line 0) [Oe_1_Bu_9454_0229_a-L112_02.jpg], as *Meyer*.
+- **Spellings encountered:**
+    - *Meyer* — 68x, first at oe1bu9454-112, 1801, p. 2 (line 0) [Oe_1_Bu_9454_0229_a-L112_02.jpg]
+    - *Meyers* — 2x, first at oe1bu9454-47, 1809, p. 2 (line 46, archival line 3509) [Oe_1_Bu_9454_0090_a1-L47_02.jpg]
+    - *Meyern* — 1x, first at oe1bu9454-262, 1814, p. 3 (line 67, archival line 18674) [Oe_1_Bu_9454_0479_a2-L262_03.jpg]
+
+### von der Lahr  <!-- lahr -->
+
+- **20 document(s)**, 70 mention(s).
+- **First appearance:** oe1bu9454-40, 1808, p. 2 (line 52, archival line 2937) [Oe_1_Bu_9454_0074_a1-L40_02.jpg], as *Lahr*.
+- **Spellings encountered:**
+    - *Lahr* — 65x, first at oe1bu9454-40, 1808, p. 2 (line 52, archival line 2937) [Oe_1_Bu_9454_0074_a1-L40_02.jpg]
+    - *von der Lahr* — 4x, first at oe1bu9454-40, 1808, p. 2 (line 0) [Oe_1_Bu_9454_0074_a1-L40_02.jpg]
+    - *van der Lahr* — 1x, first at oe1bu9454-50, 1809, p. 2 (line 0) [Oe_1_Bu_9454_0096_a1-L50_02.jpg]
+
+### Voss  <!-- voss -->
+
+- **28 document(s)**, 69 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-78, 1798, p. 1 (line 7, archival line 6391) [Oe_1_Bu_9454_0164_a-L78_01.jpg], as *Voss*.
+- **Spellings encountered:** one only, *Voss* (69x).
 
 ### Zerboni  <!-- zerboni -->
 
-- **25 document(s)**, 41 mention(s).
-- **First appearance:** oe1bu9454-163, 1805, p. 4 (line 70, archival line 11519), as *Zerboni*.
-- **Spellings encountered:** one only, *Zerboni* (41x).
+- **25 document(s)**, 66 mention(s).
+- **First appearance:** oe1bu9454-163, 1805, p. 4 (line 0) [Oe_1_Bu_9454_0309_a-L163_04.jpg], as *Zerboni*.
+- **Spellings encountered:** one only, *Zerboni* (66x).
 
-### Eberhard  <!-- eberhard -->
+### Stössel  <!-- stoessel -->
 
-- **21 document(s)**, 41 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486), as *Eberhard*.
-- **Spellings encountered:**
-    - *Eberhard* — 40x, first at oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486)
-    - *Eberhards* — 1x, first at oe1bu9454-276, 1815, p. 2 (line 59, archival line 19643)
-
-### Hecker  <!-- hecker -->
-
-- **20 document(s)**, 40 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-31, 1808, p. 2 (line 36, archival line 2052), as *Hecker*.
-- **Spellings encountered:** one only, *Hecker* (40x).
+- **18 document(s)**, 65 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-117, 1804, p. 2 (line 40, archival line 8850) [Oe_1_Bu_9454_0235_a1-L117_02.jpg], as *Stössel*.
+- **Spellings encountered:** one only, *Stössel* (65x).
 
 ### Meyer Bernhard  <!-- bernhard -->
 
-- **21 document(s)**, 39 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-130, 1804, p. 1 (line 8, archival line 9314), as *Bernhard*.
-- **Spellings encountered:** one only, *Bernhard* (39x).
+- **21 document(s)**, 64 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-130, 1804, p. 1 (line 8, archival line 9314) [Oe_1_Bu_9454_0249_a2-L130_01.jpg], as *Bernhard*.
+- **Spellings encountered:**
+    - *Bernhard* — 40x, first at oe1bu9454-130, 1804, p. 1 (line 8, archival line 9314) [Oe_1_Bu_9454_0249_a2-L130_01.jpg]
+    - *Meyer Bernhard* — 24x, first at oe1bu9454-136, 1804, p. 2 (line 0) [Oe_1_Bu_9454_0263_a1-L136_02.jpg]
+
+### Hecker  <!-- hecker -->
+
+- **20 document(s)**, 61 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-31, 1808, p. 2 (line 0) [Oe_1_Bu_9454_0056_a1-L31_02.jpg], as *Hecker*.
+- **Spellings encountered:** one only, *Hecker* (61x).
+
+### Eberhard  <!-- eberhard -->
+
+- **21 document(s)**, 58 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486) [Oe_1_Bu_9454_0382_a2-L203_02.jpg], as *Eberhard*.
+- **Spellings encountered:**
+    - *Eberhard* — 57x, first at oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486) [Oe_1_Bu_9454_0382_a2-L203_02.jpg]
+    - *Eberhards* — 1x, first at oe1bu9454-276, 1815, p. 2 (line 59, archival line 19643) [Oe_1_Bu_9454_0503_a1-L276_02.jpg]
 
 ### Michaelis  <!-- michaelis -->
 
-- **25 document(s)**, 36 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-77, 1798, p. 2 (line 21, archival line 6333), as *Michaelis*.
-- **Spellings encountered:** one only, *Michaelis* (36x).
+- **25 document(s)**, 54 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-77, 1798, p. 2 (line 0) [Oe_1_Bu_9454_0163_a1-L77_02.jpg], as *Michaelis*.
+- **Spellings encountered:**
+    - *Michaelis* — 51x, first at oe1bu9454-77, 1798, p. 2 (line 0) [Oe_1_Bu_9454_0163_a1-L77_02.jpg]
+    - *Michaelmas* — 3x, first at oe1bu9454-192, 1806, p. 2 (line 0) [Oe_1_Bu_9454_0368_a1-L192_02.jpg]
 
 ### Schlabrendorff  <!-- schlabrendorff -->
 
-- **28 document(s)**, 36 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-102, 1799, p. 3 (line 53, archival line 8028), as *Schlabrendorff*.
-- **Spellings encountered:** one only, *Schlabrendorff* (36x).
+- **28 document(s)**, 54 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-102, 1799, p. 3 (line 0) [Oe_1_Bu_9454_0212_a2-L102_03.jpg], as *Schlabrendorff*.
+- **Spellings encountered:** one only, *Schlabrendorff* (54x).
 
 ### Napoleon  <!-- napoleon -->
 
-- **21 document(s)**, 34 mention(s).
-- **First appearance:** oe1bu9454-27, 1807, p. 1 (line 20, archival line 1782), as *Napoleon*.
-- **Spellings encountered:** one only, *Napoleon* (34x).
-
-### Barbe  <!-- barbe -->
-
-- **16 document(s)**, 33 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-254, 1814, p. 1 (line 15, archival line 18155), as *Barbe*.
-- **Spellings encountered:** one only, *Barbe* (33x).
-
-### Stägemann  <!-- staegemann -->
-
-- **20 document(s)**, 32 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-228, 1812, p. 1 (line 19, archival line 16667), as *Stägemann*.
-- **Spellings encountered:** one only, *Stägemann* (32x).
-
-### Sacken (Sakken)  <!-- sacken -->
-
-- **20 document(s)**, 31 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-77, 1798, p. 3 (line 57, archival line 6370), as *Sacken*.
-- **Spellings encountered:**
-    - *Sacken* — 29x, first at oe1bu9454-77, 1798, p. 3 (line 57, archival line 6370)
-    - *Fürsten Sa:* — 1x, first at oe1bu9454-107, 1799, p. 2 (line 23, archival line 8370)
-    - *Fürstin Sa:* — 1x, first at oe1bu9454-89, 1798, p. 7 (line 140, archival line 7213)
-
-### Broniewski  <!-- broniewski -->
-
-- **16 document(s)**, 30 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-89, 1798, p. 3 (line 58, archival line 7127), as *Broniew*.
-- **Spellings encountered:**
-    - *Broniew* — 28x, first at oe1bu9454-89, 1798, p. 3 (line 58, archival line 7127)
-    - *Bronisz* — 2x, first at oe1bu9454-119, 1804, p. 1 (line 6, archival line 8979)
-
-### Stein  <!-- stein -->
-
-- **22 document(s)**, 30 mention(s).
-- **First appearance:** oe1bu9454-153, 1805, p. 1 (line 4, archival line 10924), as *Stein*.
-- **Spellings encountered:** one only, *Stein* (30x).
+- **21 document(s)**, 53 mention(s).
+- **First appearance:** oe1bu9454-27, 1807, p. 1 (line 0) [Oe_1_Bu_9454_0047_b-L27_01.jpg], as *Napoleon*.
+- **Spellings encountered:** one only, *Napoleon* (53x).
 
 ### Michalina z Prusimskich Dąbska, later Miączyńska  <!-- prusimska -->
 
-- **20 document(s)**, 30 mention(s).
-- **First appearance:** oe1bu9454-177, 1805, p. 5 (line 116, archival line 12537), as *Prusimska*.
+- **20 document(s)**, 52 mention(s).
+- **First appearance:** oe1bu9454-177, 1805, p. 5 (line 0) [Oe_1_Bu_9454_0333_a1-L177_05.jpg], as *Prusimska*.
 - **Spellings encountered:**
-    - *Prusimska* — 11x, first at oe1bu9454-177, 1805, p. 5 (line 116, archival line 12537)
-    - *Dąbska* — 10x, first at oe1bu9454-28, 1807, p. 1 (line 10, archival line 1829)
-    - *Moscinska* — 4x, first at oe1bu9454-242, 1814, p. 2 (line 44, archival line 17556)
-    - *Dąmbska* — 3x, first at oe1bu9454-55, 1809, p. 4 (line 94, archival line 4120)
-    - *Miączyńska* — 1x, first at oe1bu9454-265b, 1815, p. 1 (line 8, archival line 18862)
-    - *Moszynska* — 1x, first at oe1bu9454-1, 1815, p. 1 (line 41, archival line 60)
+    - *Prusimska* — 19x, first at oe1bu9454-177, 1805, p. 5 (line 0) [Oe_1_Bu_9454_0333_a1-L177_05.jpg]
+    - *Dąbska* — 17x, first at oe1bu9454-28, 1807, p. 1 (line 10, archival line 1829) [Oe_1_Bu_9454_0049_b-L28_01.jpg]
+    - *Dąmbska* — 6x, first at oe1bu9454-55, 1809, p. 4 (line 0) [Oe_1_Bu_9454_0106_a-L55_04.jpg]
+    - *Moscinska* — 6x, first at oe1bu9454-242, 1814, p. 2 (line 44, archival line 17556) [Oe_1_Bu_9454_0451_a1-L242_02.jpg]
+    - *Miączyńska* — 2x, first at oe1bu9454-265b, 1815, p. 1 (line 0) [Oe_1_Bu_9454_0484_a2-L265b_01.jpg]
+    - *Moszynska* — 2x, first at oe1bu9454-1, 1815, p. 1 (line 0) [Oe_1_Bu_9454_0001_b-L1_01.jpg]
 
-### Zastrow  <!-- zastrow -->
+### Barbe  <!-- barbe -->
 
-- **20 document(s)**, 28 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-79, 1798, p. 3 (line 58, archival line 6511), as *Zastrow*.
-- **Spellings encountered:** one only, *Zastrow* (28x).
-
-### Gneust  <!-- gneust -->
-
-- **9 document(s)**, 28 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-27, 1799, p. 1 (line 1, archival line 7884), as *Wohlgeb*.
-- **Spellings encountered:**
-    - *Wohlgeb* — 18x, first at oe1bu14526-27, 1799, p. 1 (line 1, archival line 7884)
-    - *Gneust* — 10x, first at oe1bu14526-3, 1799, p. 1 (line 7, archival line 350)
+- **16 document(s)**, 51 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-254, 1814, p. 2 (line 0) [Oe_1_Bu_9454_0466_a1-L254_02.jpg], as *Barbe*.
+- **Spellings encountered:** one only, *Barbe* (51x).
 
 ### Lombardini  <!-- lombardini -->
 
-- **18 document(s)**, 28 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-59, 1809, p. 4 (line 109, archival line 4524), as *Lombardin*.
+- **18 document(s)**, 49 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-59, 1809, p. 4 (line 109, archival line 4524) [Oe_1_Bu_9454_0114_a-L59_04.jpg], as *Lombardin*.
 - **Spellings encountered:**
-    - *Lombardin* — 27x, first at oe1bu9454-59, 1809, p. 4 (line 109, archival line 4524)
-    - *Lomb:* — 1x, first at oe1bu9454-21, 1810, p. 1 (line 3, archival line 1244)
+    - *Lombardin* — 28x, first at oe1bu9454-59, 1809, p. 4 (line 109, archival line 4524) [Oe_1_Bu_9454_0114_a-L59_04.jpg]
+    - *Lombardini* — 19x, first at oe1bu9454-59, 1809, p. 4 (line 0) [Oe_1_Bu_9454_0114_a-L59_04.jpg]
+    - *Lomb:* — 2x, first at oe1bu9454-21, 1810, p. 1 (line 0) [Oe_1_Bu_9454_0034_b-L21_01.jpg]
+
+### Stägemann  <!-- staegemann -->
+
+- **20 document(s)**, 48 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-228, 1812, p. 1 (line 0) [Oe_1_Bu_9454_0429_b-L228_01.jpg], as *Stägemann*.
+- **Spellings encountered:** one only, *Stägemann* (48x).
+
+### Lichnowski  <!-- lichnowski -->
+
+- **19 document(s)**, 45 mention(s).
+- **First appearance:** oe1bu9454-136, 1804, p. 3 (line 0) [Oe_1_Bu_9454_0263_a2-L136_03.jpg], as *Lichnowski*.
+- **Spellings encountered:**
+    - *Lichnowski* — 43x, first at oe1bu9454-136, 1804, p. 3 (line 0) [Oe_1_Bu_9454_0263_a2-L136_03.jpg]
+    - *Lichnowsky* — 2x, first at oe1bu9454-32, 1808, p. 1 (line 0) [Oe_1_Bu_9454_0057_b-L32_01.jpg]
+
+### Oppenheimer  <!-- oppenheimer -->
+
+- **19 document(s)**, 43 mention(s).
+- **First appearance:** oe1bu9454-169, 1805, p. 4 (line 0) [Oe_1_Bu_9454_0319_a-L169_04.jpg], as *Oppenheimer*.
+- **Spellings encountered:** one only, *Oppenheimer* (43x).
+
+### Sommer  <!-- sommer -->
+
+- **16 document(s)**, 41 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-12, 1805, p. 5 (line 167, archival line 3920) [Oe_1_Bu_14526_0074_a2-L12_05.jpg], as *Sommer*.
+- **Spellings encountered:**
+    - *Sommer* — 39x, first at oe1bu14526-12, 1805, p. 5 (line 167, archival line 3920) [Oe_1_Bu_14526_0074_a2-L12_05.jpg]
+    - *Sommern* — 1x, first at oe1bu14526-9, 1805, p. 6 (line 153, archival line 2682) [Oe_1_Bu_14526_0052_a1-L9_06.jpg]
+    - *Sommers* — 1x, first at oe1bu9454-210, 1810, p. 2 (line 28, archival line 14832) [Oe_1_Bu_9454_0393_a1-L210_02.jpg]
+
+### Broniewski  <!-- broniewski -->
+
+- **16 document(s)**, 39 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-89, 1798, p. 3 (line 58, archival line 7127) [Oe_1_Bu_9454_0186_a2-L89_03.jpg], as *Broniew*.
+- **Spellings encountered:**
+    - *Broniew* — 28x, first at oe1bu9454-89, 1798, p. 3 (line 58, archival line 7127) [Oe_1_Bu_9454_0186_a2-L89_03.jpg]
+    - *Broniewski* — 9x, first at oe1bu9454-89, 1798, p. 3 (line 0) [Oe_1_Bu_9454_0186_a2-L89_03.jpg]
+    - *Bronisz* — 2x, first at oe1bu9454-119, 1804, p. 1 (line 6, archival line 8979) [Oe_1_Bu_9454_0239_a-L119_01.jpg]
+
+### Sacken (Sakken)  <!-- sacken -->
+
+- **20 document(s)**, 37 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-77, 1798, p. 3 (line 57, archival line 6370) [Oe_1_Bu_9454_0163_a2-L77_03.jpg], as *Sacken*.
+- **Spellings encountered:**
+    - *Sacken* — 35x, first at oe1bu9454-77, 1798, p. 3 (line 57, archival line 6370) [Oe_1_Bu_9454_0163_a2-L77_03.jpg]
+    - *Fürsten Sa:* — 1x, first at oe1bu9454-107, 1799, p. 2 (line 23, archival line 8370) [Oe_1_Bu_9454_0222_a1-L107_02.jpg]
+    - *Fürstin Sa:* — 1x, first at oe1bu9454-89, 1798, p. 7 (line 140, archival line 7213) [Oe_1_Bu_9454_0188_a2-L89_07.jpg]
+
+### Stein  <!-- stein -->
+
+- **22 document(s)**, 37 mention(s).
+- **First appearance:** oe1bu9454-153, 1805, p. 1 (line 4, archival line 10924) [Oe_1_Bu_9454_0293_a2-L153_01.jpg], as *Stein*.
+- **Spellings encountered:** one only, *Stein* (37x).
+
+### Zastrow  <!-- zastrow -->
+
+- **20 document(s)**, 36 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-79, 1798, p. 3 (line 58, archival line 6511) [Oe_1_Bu_9454_0167_a2-L79_03.jpg], as *Zastrow*.
+- **Spellings encountered:** one only, *Zastrow* (36x).
+
+### Prusimski family (Trąbczyn estates)  <!-- prusimski -->
+
+- **12 document(s)**, 34 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-102, 1799, p. 2 (line 0) [Oe_1_Bu_9454_0212_a1-L102_02.jpg], as *Prussiemski*.
+- **Spellings encountered:**
+    - *Prussiemski* — 21x, first at oe1bu9454-102, 1799, p. 2 (line 0) [Oe_1_Bu_9454_0212_a1-L102_02.jpg]
+    - *Prusimski* — 6x, first at oe1bu9454-102, 1799, p. 2 (line 0) [Oe_1_Bu_9454_0212_a1-L102_02.jpg]
+    - *Prusimskischen* — 4x, first at oe1bu9454-102, 1799, p. 2 (line 25, archival line 7999) [Oe_1_Bu_9454_0212_a1-L102_02.jpg]
+    - *Prusimskische* — 2x, first at oe1bu9454-103, 1799, p. 2 (line 40, archival line 8091) [Oe_1_Bu_9454_0214_a1-L103_02.jpg]
+    - *Prussimskischen* — 1x, first at oe1bu9454-103, 1799, p. 3 (line 50, archival line 8102) [Oe_1_Bu_9454_0214_a2-L103_03.jpg]
+
+### Gneust  <!-- gneust -->
+
+- **9 document(s)**, 31 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-27, 1799, p. 1 (line 1, archival line 7884) [Oe_1_Bu_14526_0161_a2-L27_01.jpg], as *Wohlgeb*.
+- **Spellings encountered:**
+    - *Wohlgeb* — 18x, first at oe1bu14526-27, 1799, p. 1 (line 1, archival line 7884) [Oe_1_Bu_14526_0161_a2-L27_01.jpg]
+    - *Gneust* — 13x, first at oe1bu14526-3, 1799, p. 8 (line 0) [Oe_1_Bu_14526_0013_a1-L3_08.jpg]
+
+### Grotowski  <!-- grotowski -->
+
+- **11 document(s)**, 30 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-78, 1798, p. 3 (line 48, archival line 6434) [Oe_1_Bu_9454_0165_a2-L78_03.jpg], as *Grotowskis*.
+- **Spellings encountered:**
+    - *Grotowski* — 28x, first at oe1bu9454-117, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0234_a-L117_01.jpg]
+    - *Grotowskis* — 2x, first at oe1bu9454-78, 1798, p. 3 (line 48, archival line 6434) [Oe_1_Bu_9454_0165_a2-L78_03.jpg]
+
+### Bergrath Bernhardi  <!-- bernhardi -->
+
+- **13 document(s)**, 29 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-96, 1799, p. 1 (line 0) [Oe_1_Bu_9454_0199_a-L96_01.jpg], as *Bernhardi*.
+- **Spellings encountered:** one only, *Bernhardi* (29x).
+
+### Knobelsdorff  <!-- knobelsdorff -->
+
+- **9 document(s)**, 29 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-64, 1809, p. 2 (line 35, archival line 4843) [Oe_1_Bu_9454_0121_a2-L64_02.jpg], as *Knobelsdorff*.
+- **Spellings encountered:** one only, *Knobelsdorff* (29x).
+
+### Wollenhaupt  <!-- wollenhaupt -->
+
+- **4 document(s)**, 28 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-146, 1804, p. 3 (line 0) [Oe_1_Bu_9454_0284_a2-L146_03.jpg], as *Wollenhaupt*.
+- **Spellings encountered:** one only, *Wollenhaupt* (28x).
+
+### Wilhelm von Humboldt  <!-- humboldt -->
+
+- **15 document(s)**, 28 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-248, 1814, p. 2 (line 0) [Oe_1_Bu_9454_0460_a1-L248_02.jpg], as *Humboldt*.
+- **Spellings encountered:** one only, *Humboldt* (28x).
+
+### Eysenhardt  <!-- eysenhardt -->
+
+- **14 document(s)**, 27 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-81, 1798, p. 1 (line 0) [Oe_1_Bu_9454_0169_a-L81_01.jpg], as *Eysenhardt*.
+- **Spellings encountered:** one only, *Eysenhardt* (27x).
+
+### Franz Meierowitz  <!-- meierowitz -->
+
+- **9 document(s)**, 27 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-169, 1805, p. 1 (line 0) [Oe_1_Bu_9454_0317_b-L169_01.jpg], as *Meierowitz*.
+- **Spellings encountered:**
+    - *Meierowitz* — 26x, first at oe1bu9454-169, 1805, p. 1 (line 0) [Oe_1_Bu_9454_0317_b-L169_01.jpg]
+    - *Meierowicz* — 1x, first at oe1bu14526-21, 1805, p. 1 (line 5, archival line 6836) [Oe_1_Bu_14526_0136_b-L21_01.jpg]
 
 ### Born  <!-- born -->
 
 - **10 document(s)**, 26 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-139, 1804, p. 3 (line 44, archival line 10163), as *Born*.
+- **First appearance:** oe1bu9454-139, 1804, p. 3 (line 44, archival line 10163) [Oe_1_Bu_9454_0273_a2-L139_03.jpg], as *Born*.
 - **Spellings encountered:** one only, *Born* (26x).
-
-### Oppenheimer  <!-- oppenheimer -->
-
-- **19 document(s)**, 25 mention(s).
-- **First appearance:** oe1bu9454-169, 1805, p. 4 (line 71, archival line 11994), as *Oppenheimer*.
-- **Spellings encountered:** one only, *Oppenheimer* (25x).
-
-### Sommer  <!-- sommer -->
-
-- **16 document(s)**, 25 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-12, 1805, p. 5 (line 167, archival line 3920), as *Sommer*.
-- **Spellings encountered:**
-    - *Sommer* — 23x, first at oe1bu14526-12, 1805, p. 5 (line 167, archival line 3920)
-    - *Sommern* — 1x, first at oe1bu14526-9, 1805, p. 6 (line 153, archival line 2682)
-    - *Sommers* — 1x, first at oe1bu9454-210, 1810, p. 2 (line 28, archival line 14832)
-
-### Lichnowski  <!-- lichnowski -->
-
-- **19 document(s)**, 24 mention(s).
-- **First appearance:** oe1bu9454-136, 1804, p. 3 (line 49, archival line 9833), as *Lichnowski*.
-- **Spellings encountered:**
-    - *Lichnowski* — 23x, first at oe1bu9454-136, 1804, p. 3 (line 49, archival line 9833)
-    - *Lichnowsky* — 1x, first at oe1bu9454-32, 1808, p. 1 (line 33, archival line 2177)
-
-### Knobelsdorff  <!-- knobelsdorff -->
-
-- **9 document(s)**, 21 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-64, 1809, p. 2 (line 35, archival line 4843), as *Knobelsdorff*.
-- **Spellings encountered:** one only, *Knobelsdorff* (21x).
-
-### Grotowski  <!-- grotowski -->
-
-- **11 document(s)**, 20 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-78, 1798, p. 3 (line 48, archival line 6434), as *Grotowskis*.
-- **Spellings encountered:**
-    - *Grotowski* — 18x, first at oe1bu9454-117, 1804, p. 1 (line 4, archival line 8813)
-    - *Grotowskis* — 2x, first at oe1bu9454-78, 1798, p. 3 (line 48, archival line 6434)
-
-### Prusimski family (Trąbczyn estates)  <!-- prusimski -->
-
-- **12 document(s)**, 20 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-102, 1799, p. 2 (line 33, archival line 8007), as *Prussiemski*.
-- **Spellings encountered:**
-    - *Prussiemski* — 13x, first at oe1bu9454-102, 1799, p. 2 (line 33, archival line 8007)
-    - *Prusimskischen* — 4x, first at oe1bu9454-102, 1799, p. 2 (line 25, archival line 7999)
-    - *Prusimskische* — 2x, first at oe1bu9454-103, 1799, p. 2 (line 40, archival line 8091)
-    - *Prussimskischen* — 1x, first at oe1bu9454-103, 1799, p. 3 (line 50, archival line 8102)
 
 ### Hoym  <!-- hoym -->
 
-- **12 document(s)**, 19 mention(s).
-- **First appearance:** oe1bu9454-75, 1798, p. 2 (line 27, archival line 6265), as *Hoym*.
+- **12 document(s)**, 25 mention(s).
+- **First appearance:** oe1bu9454-75, 1798, p. 2 (line 27, archival line 6265) [Oe_1_Bu_9454_0160_a1-L75_02.jpg], as *Hoym*.
 - **Spellings encountered:**
-    - *Hoym* — 12x, first at oe1bu9454-75, 1798, p. 2 (line 27, archival line 6265)
-    - *Höym* — 7x, first at oe1bu9454-83, 1798, p. 3 (line 62, archival line 6716)
-
-### Wollenhaupt  <!-- wollenhaupt -->
-
-- **4 document(s)**, 19 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-146, 1804, p. 3 (line 62, archival line 10602), as *Wollenhaupt*.
-- **Spellings encountered:** one only, *Wollenhaupt* (19x).
-
-### Pourtalès (Pourtales)  <!-- pourtales -->
-
-- **13 document(s)**, 19 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-254, 1814, p. 6 (line 115, archival line 18260), as *Pourtal*.
-- **Spellings encountered:**
-    - *Pourtal* — 17x, first at oe1bu9454-254, 1814, p. 6 (line 115, archival line 18260)
-    - *Portalis* — 1x, first at oe1bu9454-266, 1815, p. 2 (line 32, archival line 18920)
-    - *Pourt:* — 1x, first at oe1bu9454-2, 1815, p. 3 (line 55, archival line 150)
-
-### Eysenhardt  <!-- eysenhardt -->
-
-- **14 document(s)**, 18 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-81, 1798, p. 1 (line 3, archival line 6591), as *Eysenhardt*.
-- **Spellings encountered:** one only, *Eysenhardt* (18x).
-
-### Wilhelm von Humboldt  <!-- humboldt -->
-
-- **15 document(s)**, 18 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-248, 1814, p. 1 (line 5, archival line 17928), as *Humboldt*.
-- **Spellings encountered:** one only, *Humboldt* (18x).
-
-### Franz Meierowitz  <!-- meierowitz -->
-
-- **9 document(s)**, 17 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-169, 1805, p. 1 (line 15, archival line 11935), as *Meierowitz*.
-- **Spellings encountered:**
-    - *Meierowitz* — 16x, first at oe1bu9454-169, 1805, p. 1 (line 15, archival line 11935)
-    - *Meierowicz* — 1x, first at oe1bu14526-21, 1805, p. 1 (line 5, archival line 6836)
-
-### Bergrath Bernhardi  <!-- bernhardi -->
-
-- **13 document(s)**, 16 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-96, 1799, p. 1 (line 9, archival line 7493), as *Bernhardi*.
-- **Spellings encountered:** one only, *Bernhardi* (16x).
-
-### Blomberg  <!-- blomberg -->
-
-- **8 document(s)**, 16 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-136, 1804, p. 7 (line 133, archival line 9921), as *Blomberg*.
-- **Spellings encountered:** one only, *Blomberg* (16x).
+    - *Hoym* — 17x, first at oe1bu9454-75, 1798, p. 2 (line 27, archival line 6265) [Oe_1_Bu_9454_0160_a1-L75_02.jpg]
+    - *Höym* — 8x, first at oe1bu9454-83, 1798, p. 3 (line 62, archival line 6716) [Oe_1_Bu_9454_0174_a2-L83_03.jpg]
 
 ### Echaust  <!-- echaust -->
 
-- **7 document(s)**, 15 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-3, 1799, p. 8 (line 187, archival line 537), as *Eichaust*.
+- **7 document(s)**, 25 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-3, 1799, p. 8 (line 0) [Oe_1_Bu_14526_0013_a1-L3_08.jpg], as *Echaust*.
 - **Spellings encountered:**
-    - *Eichaust* — 9x, first at oe1bu14526-3, 1799, p. 8 (line 187, archival line 537)
-    - *Echaust* — 6x, first at oe1bu14526-18, 1804, p. 23 (line 430, archival line 6191)
+    - *Echaust* — 16x, first at oe1bu14526-3, 1799, p. 8 (line 0) [Oe_1_Bu_14526_0013_a1-L3_08.jpg]
+    - *Eichaust* — 9x, first at oe1bu14526-3, 1799, p. 8 (line 187, archival line 537) [Oe_1_Bu_14526_0013_a1-L3_08.jpg]
+
+### Blomberg  <!-- blomberg -->
+
+- **8 document(s)**, 24 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-136, 1804, p. 7 (line 0) [Oe_1_Bu_9454_0265_a2-L136_07.jpg], as *Blomberg*.
+- **Spellings encountered:** one only, *Blomberg* (24x).
 
 ### Metzig  <!-- metzig -->
 
-- **6 document(s)**, 15 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-140, 1804, p. 2 (line 26, archival line 10231), as *Metzig*.
-- **Spellings encountered:** one only, *Metzig* (15x).
-
-### Wartensleben  <!-- wartensleben -->
-
-- **6 document(s)**, 15 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-218, 1811, p. 1 (line 14, archival line 15738), as *Wartensleben*.
-- **Spellings encountered:**
-    - *Wartensleben* — 12x, first at oe1bu9454-218, 1811, p. 1 (line 14, archival line 15738)
-    - *Wartenslebens* — 3x, first at oe1bu9454-221, 1811, p. 1 (line 15, archival line 15931)
-
-### Schulze  <!-- schulze -->
-
-- **5 document(s)**, 14 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-78, 1798, p. 2 (line 23, archival line 6408), as *Schulze*.
-- **Spellings encountered:**
-    - *Schulzen* — 8x, first at oe1bu14526-3, 1799, p. 1 (line 20, archival line 363)
-    - *Schulze* — 6x, first at oe1bu9454-78, 1798, p. 2 (line 23, archival line 6408)
-
-### Grimm  <!-- grimm -->
-
-- **8 document(s)**, 14 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-28, 1799, p. 1 (line 1, archival line 7957), as *Grimm*.
-- **Spellings encountered:** one only, *Grimm* (14x).
+- **6 document(s)**, 24 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-140, 1804, p. 2 (line 0) [Oe_1_Bu_9454_0275_a1-L140_02.jpg], as *Metzig*.
+- **Spellings encountered:** one only, *Metzig* (24x).
 
 ### Bornstädt  <!-- bornstaedt -->
 
-- **7 document(s)**, 14 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-139, 1804, p. 3 (line 44, archival line 10163), as *Bornstädt*.
+- **7 document(s)**, 22 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-139, 1804, p. 3 (line 0) [Oe_1_Bu_9454_0273_a2-L139_03.jpg], as *Bornstädt*.
 - **Spellings encountered:**
-    - *Bornstädt* — 11x, first at oe1bu9454-139, 1804, p. 3 (line 44, archival line 10163)
-    - *Bornstaedt* — 2x, first at oe1bu14526-18, 1804, p. 11 (line 209, archival line 5958)
-    - *Bornstaet* — 1x, first at oe1bu14526-19, 1804, p. 13 (line 354, archival line 6671)
-
-### Gärtner (Geh. Rath)  <!-- gaertner -->
-
-- **10 document(s)**, 14 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-242, 1814, p. 2 (line 28, archival line 17540), as *Gärtner*.
-- **Spellings encountered:** one only, *Gärtner* (14x).
-
-### Kunckel  <!-- kunckel -->
-
-- **6 document(s)**, 13 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-118a, 1804, p. 1 (line 3, archival line 8883), as *Kunckel*.
-- **Spellings encountered:** one only, *Kunckel* (13x).
-
-### Kwilecki  <!-- kwilecki -->
-
-- **7 document(s)**, 13 mention(s).
-- **First appearance:** oe1bu14526-5, 1804, p. 4 (line 108, archival line 987), as *Kwileck*.
-- **Spellings encountered:** one only, *Kwileck* (13x).
-
-### Pochammer  <!-- pochammer -->
-
-- **5 document(s)**, 13 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-157, 1805, p. 1 (line 15, archival line 11136), as *Pochammer*.
-- **Spellings encountered:** one only, *Pochammer* (13x).
-
-### Sobottendorff  <!-- sobottendorff -->
-
-- **6 document(s)**, 13 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-17, 1812, p. 4 (line 79, archival line 960), as *Sobottendorff*.
-- **Spellings encountered:** one only, *Sobottendorff* (13x).
-
-### Otocki  <!-- otocki -->
-
-- **8 document(s)**, 12 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-123, 1804, p. 1 (line 4, archival line 9084), as *Otocki*.
-- **Spellings encountered:** one only, *Otocki* (12x).
-
-### Neumann  <!-- neumann -->
-
-- **5 document(s)**, 12 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-18, 1804, p. 23 (line 433, archival line 6194), as *Neumann*.
-- **Spellings encountered:** one only, *Neumann* (12x).
-
-### von Trzciński  <!-- trzcinski -->
-
-- **6 document(s)**, 12 mention(s).
-- **First appearance:** oe1bu9454-193, 1810, p. 2 (line 27, archival line 13983), as *Trzcinski*.
-- **Spellings encountered:**
-    - *Trzcinski* — 11x, first at oe1bu9454-193, 1810, p. 2 (line 27, archival line 13983)
-    - *Trzcinskischen* — 1x, first at oe1bu9454-238, 1813, p. 1 (line 10, archival line 17297)
-
-### Eberhardt  <!-- eberhardt -->
-
-- **12 document(s)**, 12 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486), as *Eberhardt*.
-- **Spellings encountered:**
-    - *Eberhardt* — 11x, first at oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486)
-    - *Eberhardts* — 1x, first at oe1bu9454-261, 1814, p. 2 (line 31, archival line 18576)
-
-### Schulenburg  <!-- schulenburg -->
-
-- **6 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-79, 1798, p. 1 (line 8, archival line 6459), as *Schulemburg*.
-- **Spellings encountered:**
-    - *Schulemburg* — 8x, first at oe1bu9454-79, 1798, p. 1 (line 8, archival line 6459)
-    - *Schulenburg* — 3x, first at oe1bu9454-89, 1798, p. 7 (line 140, archival line 7213)
-
-### Forst-Inspector Rochlitz  <!-- rochlitz -->
-
-- **4 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-2, 1803, p. 1 (line 6, archival line 47), as *Rochlitz*.
-- **Spellings encountered:** one only, *Rochlitz* (11x).
+    - *Bornstädt* — 19x, first at oe1bu9454-139, 1804, p. 3 (line 0) [Oe_1_Bu_9454_0273_a2-L139_03.jpg]
+    - *Bornstaedt* — 2x, first at oe1bu14526-18, 1804, p. 11 (line 209, archival line 5958) [Oe_1_Bu_14526_0114_a2-L18_11.jpg]
+    - *Bornstaet* — 1x, first at oe1bu14526-19, 1804, p. 13 (line 354, archival line 6671) [Oe_1_Bu_14526_0129_a2-L19_13.jpg]
 
 ### Matheus Młynkiewicz  <!-- mlynkiewicz -->
 
-- **2 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-18, 1804, p. 1 (line 16, archival line 5755), as *Młynkiewicz*.
-- **Spellings encountered:** one only, *Młynkiewicz* (11x).
+- **2 document(s)**, 21 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-18, 1804, p. 3 (line 0) [Oe_1_Bu_14526_0110_a2-L18_03.jpg], as *Młynkiewicz*.
+- **Spellings encountered:**
+    - *Młynkiewicz* — 15x, first at oe1bu14526-18, 1804, p. 3 (line 0) [Oe_1_Bu_14526_0110_a2-L18_03.jpg]
+    - *Matheus Młynkiewicz* — 6x, first at oe1bu14526-18, 1804, p. 1 (line 0) [Oe_1_Bu_14526_0109_b-L18_01.jpg]
 
-### Johann Chmara  <!-- chmara -->
+### Eberhardt  <!-- eberhardt -->
 
-- **2 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-18, 1804, p. 1 (line 17, archival line 5756), as *Chmara*.
-- **Spellings encountered:** one only, *Chmara* (11x).
-
-### Niedzewiecki  <!-- niedzewiecki -->
-
-- **8 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-179a, 1806, p. 1 (line 23, archival line 12853), as *Niedzew*.
-- **Spellings encountered:** one only, *Niedzew* (11x).
+- **12 document(s)**, 21 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486) [Oe_1_Bu_9454_0382_a2-L203_02.jpg], as *Eberhardt*.
+- **Spellings encountered:**
+    - *Eberhardt* — 20x, first at oe1bu9454-203, 1810, p. 2 (line 26, archival line 14486) [Oe_1_Bu_9454_0382_a2-L203_02.jpg]
+    - *Eberhardts* — 1x, first at oe1bu9454-261, 1814, p. 2 (line 31, archival line 18576) [Oe_1_Bu_9454_0477_a1-L261_02.jpg]
 
 ### Garczynski  <!-- garczynski -->
 
-- **7 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-58, 1809, p. 2 (line 28, archival line 4356), as *Garczynski*.
-- **Spellings encountered:** one only, *Garczynski* (11x).
+- **7 document(s)**, 20 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-58, 1809, p. 2 (line 0) [Oe_1_Bu_9454_0111_a1-L58_02.jpg], as *Garczynski*.
+- **Spellings encountered:** one only, *Garczynski* (20x).
 
-### Schimmelpfennig  <!-- schimmelpfennig -->
+### Pourtalès (Pourtales)  <!-- pourtales -->
 
-- **6 document(s)**, 11 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-224, 1811, p. 1 (line 6, archival line 16357), as *Schimmelpfennig*.
+- **13 document(s)**, 20 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-254, 1814, p. 6 (line 115, archival line 18260) [Oe_1_Bu_9454_0469_a2-L254_06.jpg], as *Pourtal*.
 - **Spellings encountered:**
-    - *Schimmelpfennig* — 10x, first at oe1bu9454-224, 1811, p. 1 (line 6, archival line 16357)
-    - *Schimmelpfennigs* — 1x, first at oe1bu9454-223, 1811, p. 4 (line 106, archival line 16190)
+    - *Pourtal* — 17x, first at oe1bu9454-254, 1814, p. 6 (line 115, archival line 18260) [Oe_1_Bu_9454_0469_a2-L254_06.jpg]
+    - *Portalis* — 2x, first at oe1bu9454-266, 1815, p. 2 (line 0) [Oe_1_Bu_9454_0486_a1-L266_02.jpg]
+    - *Pourt:* — 1x, first at oe1bu9454-2, 1815, p. 3 (line 55, archival line 150) [Oe_1_Bu_9454_0003_a2-L2_03.jpg]
+
+### Grimm  <!-- grimm -->
+
+- **8 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-28, 1799, p. 1 (line 1, archival line 7957) [Oe_1_Bu_14526_0163_a2-L28_01.jpg], as *Grimm*.
+- **Spellings encountered:** one only, *Grimm* (19x).
+
+### Kunckel  <!-- kunckel -->
+
+- **6 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-118a, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0236_a-L118a_01.jpg], as *Kunckel*.
+- **Spellings encountered:** one only, *Kunckel* (19x).
+
+### Johann Chmara  <!-- chmara -->
+
+- **2 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-18, 1804, p. 4 (line 0) [Oe_1_Bu_14526_0111_a1-L18_04.jpg], as *Chmara*.
+- **Spellings encountered:**
+    - *Chmara* — 15x, first at oe1bu14526-18, 1804, p. 4 (line 0) [Oe_1_Bu_14526_0111_a1-L18_04.jpg]
+    - *Johann Chmara* — 4x, first at oe1bu14526-18, 1804, p. 1 (line 0) [Oe_1_Bu_14526_0109_b-L18_01.jpg]
+
+### Neumann  <!-- neumann -->
+
+- **5 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-18, 1804, p. 23 (line 0) [Oe_1_Bu_14526_0120_a2-L18_23.jpg], as *Neumann*.
+- **Spellings encountered:** one only, *Neumann* (19x).
 
 ### Guderian  <!-- guderian -->
 
-- **2 document(s)**, 10 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-141, 1804, p. 1 (line 15, archival line 10389), as *Guderian*.
-- **Spellings encountered:** one only, *Guderian* (10x).
+- **2 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-141, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0278_b-L141_01.jpg], as *Guderian*.
+- **Spellings encountered:** one only, *Guderian* (19x).
 
-### Kircheisen  <!-- kircheisen -->
+### Kwilecki  <!-- kwilecki -->
 
-- **9 document(s)**, 10 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-74a, 1811, p. 2 (line 80, archival line 6150), as *Kircheisen*.
-- **Spellings encountered:** one only, *Kircheisen* (10x).
+- **7 document(s)**, 19 mention(s).
+- **First appearance:** oe1bu14526-5, 1804, p. 4 (line 108, archival line 987) [Oe_1_Bu_14526_0021_a1-L5_04.jpg], as *Kwileck*.
+- **Spellings encountered:**
+    - *Kwileck* — 13x, first at oe1bu14526-5, 1804, p. 4 (line 108, archival line 987) [Oe_1_Bu_14526_0021_a1-L5_04.jpg]
+    - *Kwilecki* — 6x, first at oe1bu9454-68, 1810, p. 1 (line 0) [Oe_1_Bu_9454_0132_b-L68_01.jpg]
 
-### Carl Titz  <!-- titz -->
+### Niedzewiecki  <!-- niedzewiecki -->
 
-- **5 document(s)**, 9 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-27, 1799, p. 3 (line 68, archival line 7953), as *Titz*.
-- **Spellings encountered:** one only, *Titz* (9x).
+- **8 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-179a, 1806, p. 1 (line 23, archival line 12853) [Oe_1_Bu_9454_0340_b-L179a_01.jpg], as *Niedzew*.
+- **Spellings encountered:**
+    - *Niedzew* — 11x, first at oe1bu9454-179a, 1806, p. 1 (line 23, archival line 12853) [Oe_1_Bu_9454_0340_b-L179a_01.jpg]
+    - *Niedzwiedzki* — 7x, first at oe1bu9454-191, 1806, p. 6 (line 0) [Oe_1_Bu_9454_0364_a1-L191_06.jpg]
+    - *Niedzewiecki* — 1x, first at oe1bu9454-179a, 1806, p. 1 (line 0) [Oe_1_Bu_9454_0340_b-L179a_01.jpg]
+
+### Gärtner (Geh. Rath)  <!-- gaertner -->
+
+- **10 document(s)**, 19 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-242, 1814, p. 2 (line 28, archival line 17540) [Oe_1_Bu_9454_0451_a1-L242_02.jpg], as *Gärtner*.
+- **Spellings encountered:** one only, *Gärtner* (19x).
+
+### Schulze  <!-- schulze -->
+
+- **5 document(s)**, 18 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-78, 1798, p. 2 (line 23, archival line 6408) [Oe_1_Bu_9454_0165_a1-L78_02.jpg], as *Schulze*.
+- **Spellings encountered:**
+    - *Schulze* — 10x, first at oe1bu9454-78, 1798, p. 2 (line 23, archival line 6408) [Oe_1_Bu_9454_0165_a1-L78_02.jpg]
+    - *Schulzen* — 8x, first at oe1bu14526-3, 1799, p. 1 (line 20, archival line 363) [Oe_1_Bu_14526_0009_b-L3_01.jpg]
+
+### Forst-Inspector Rochlitz  <!-- rochlitz -->
+
+- **4 document(s)**, 18 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-2, 1803, p. 1 (line 0) [Oe_1_Bu_14526_0003_b-L2_01.jpg], as *Rochlitz*.
+- **Spellings encountered:** one only, *Rochlitz* (18x).
+
+### Otocki  <!-- otocki -->
+
+- **8 document(s)**, 18 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-123, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0242_a-L123_01.jpg], as *Otocki*.
+- **Spellings encountered:** one only, *Otocki* (18x).
+
+### von Trzciński  <!-- trzcinski -->
+
+- **6 document(s)**, 18 mention(s).
+- **First appearance:** oe1bu9454-193, 1810, p. 2 (line 27, archival line 13983) [Oe_1_Bu_9454_0370_a1-L193_02.jpg], as *Trzcinski*.
+- **Spellings encountered:**
+    - *Trzcinski* — 11x, first at oe1bu9454-193, 1810, p. 2 (line 27, archival line 13983) [Oe_1_Bu_9454_0370_a1-L193_02.jpg]
+    - *Trzciński* — 6x, first at oe1bu9454-237, 1813, p. 1 (line 0) [Oe_1_Bu_9454_0444_a2-L237_01.jpg]
+    - *Trzcinskischen* — 1x, first at oe1bu9454-238, 1813, p. 1 (line 10, archival line 17297) [Oe_1_Bu_9454_0445_a2-L238_01.jpg]
+
+### Wartensleben  <!-- wartensleben -->
+
+- **6 document(s)**, 18 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-218, 1811, p. 1 (line 14, archival line 15738) [Oe_1_Bu_9454_0409_b-L218_01.jpg], as *Wartensleben*.
+- **Spellings encountered:**
+    - *Wartensleben* — 15x, first at oe1bu9454-218, 1811, p. 1 (line 14, archival line 15738) [Oe_1_Bu_9454_0409_b-L218_01.jpg]
+    - *Wartenslebens* — 3x, first at oe1bu9454-221, 1811, p. 1 (line 15, archival line 15931) [Oe_1_Bu_9454_0414_b-L221_01.jpg]
+
+### Schimmelpfennig  <!-- schimmelpfennig -->
+
+- **6 document(s)**, 18 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-224, 1811, p. 1 (line 0) [Oe_1_Bu_9454_0423_a2-L224_01.jpg], as *Schimmelpfennig*.
+- **Spellings encountered:**
+    - *Schimmelpfennig* — 17x, first at oe1bu9454-224, 1811, p. 1 (line 0) [Oe_1_Bu_9454_0423_a2-L224_01.jpg]
+    - *Schimmelpfennigs* — 1x, first at oe1bu9454-223, 1811, p. 4 (line 106, archival line 16190) [Oe_1_Bu_9454_0420_a1-L223_04.jpg]
+
+### Sobottendorff  <!-- sobottendorff -->
+
+- **6 document(s)**, 18 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-17, 1812, p. 4 (line 0) [Oe_1_Bu_9454_0028_a-L17_04.jpg], as *Sobottendorff*.
+- **Spellings encountered:** one only, *Sobottendorff* (18x).
 
 ### Marianton  <!-- marianton -->
 
-- **8 document(s)**, 9 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-136, 1804, p. 7 (line 149, archival line 9937), as *Marianton*.
-- **Spellings encountered:** one only, *Marianton* (9x).
+- **8 document(s)**, 17 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-136, 1804, p. 7 (line 0) [Oe_1_Bu_9454_0265_a2-L136_07.jpg], as *Marianton*.
+- **Spellings encountered:**
+    - *Marianton* — 16x, first at oe1bu9454-136, 1804, p. 7 (line 0) [Oe_1_Bu_9454_0265_a2-L136_07.jpg]
+    - *[uncertain: Marianton]* — 1x, first at oe1bu14526-16, 1804, p. 18 (line 0) [Oe_1_Bu_14526_0101_a1-L16_18.jpg]
+
+### Pochammer  <!-- pochammer -->
+
+- **5 document(s)**, 17 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-157, 1805, p. 1 (line 0) [Oe_1_Bu_9454_0299_b-L157_01.jpg], as *Pochammer*.
+- **Spellings encountered:** one only, *Pochammer* (17x).
+
+### Carl Titz  <!-- titz -->
+
+- **5 document(s)**, 16 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-27, 1799, p. 3 (line 0) [Oe_1_Bu_14526_0162_a2-L27_03.jpg], as *Titz*.
+- **Spellings encountered:**
+    - *Titz* — 13x, first at oe1bu14526-27, 1799, p. 3 (line 0) [Oe_1_Bu_14526_0162_a2-L27_03.jpg]
+    - *Carl Titz* — 3x, first at oe1bu14526-14, 1805, p. 1 (line 0) [Oe_1_Bu_14526_0082_b-L14_01.jpg]
+
+### Kircheisen  <!-- kircheisen -->
+
+- **9 document(s)**, 15 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-74a, 1811, p. 2 (line 80, archival line 6150) [Oe_1_Bu_9454_0156_a1-L74a_02.jpg], as *Kircheisen*.
+- **Spellings encountered:** one only, *Kircheisen* (15x).
 
 ### Radzinski  <!-- radzinski -->
 
-- **8 document(s)**, 9 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-145, 1804, p. 1 (line 8, archival line 10510), as *Radzinski*.
+- **8 document(s)**, 14 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-145, 1804, p. 1 (line 8, archival line 10510) [Oe_1_Bu_9454_0282_a-L145_01.jpg], as *Radzinski*.
 - **Spellings encountered:**
-    - *Radzinski* — 8x, first at oe1bu9454-145, 1804, p. 1 (line 8, archival line 10510)
-    - *Radzinskis* — 1x, first at oe1bu9454-169, 1805, p. 2 (line 33, archival line 11954)
-
-### Emilie  <!-- emilie -->
-
-- **8 document(s)**, 9 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-177, 1805, p. 3 (line 57, archival line 12476), as *Emilien*.
-- **Spellings encountered:**
-    - *Emilie* — 5x, first at oe1bu9454-66, 1809, p. 3 (line 66, archival line 5149)
-    - *Emilien* — 4x, first at oe1bu9454-177, 1805, p. 3 (line 57, archival line 12476)
+    - *Radzinski* — 13x, first at oe1bu9454-145, 1804, p. 1 (line 8, archival line 10510) [Oe_1_Bu_9454_0282_a-L145_01.jpg]
+    - *Radzinskis* — 1x, first at oe1bu9454-169, 1805, p. 2 (line 33, archival line 11954) [Oe_1_Bu_9454_0318_a1-L169_02.jpg]
 
 ### Talleyrand  <!-- talleyrand -->
 
-- **7 document(s)**, 9 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-21, 1810, p. 1 (line 13, archival line 1254), as *Talleyrand*.
-- **Spellings encountered:** one only, *Talleyrand* (9x).
-
-### Haugwitz  <!-- haugwitz -->
-
-- **5 document(s)**, 8 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-75, 1798, p. 2 (line 34, archival line 6272), as *Haugwitz*.
-- **Spellings encountered:**
-    - *Haugwitz* — 7x, first at oe1bu9454-75, 1798, p. 2 (line 34, archival line 6272)
-    - *Haugwitzen* — 1x, first at oe1bu9454-98, 1799, p. 4 (line 68, archival line 7677)
-
-### Beugelin  <!-- beugelin -->
-
-- **8 document(s)**, 8 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-283, 1815, p. 2 (line 21, archival line 20053), as *Beugelin*.
-- **Spellings encountered:** one only, *Beugelin* (8x).
-
-### Goldbeck  <!-- goldbeck -->
-
-- **6 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-75, 1798, p. 2 (line 21, archival line 6259), as *Goldbeck*.
-- **Spellings encountered:** one only, *Goldbeck* (7x).
-
-### Struensee  <!-- struensee -->
-
-- **4 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-79, 1798, p. 2 (line 31, archival line 6483), as *Struensee*.
-- **Spellings encountered:** one only, *Struensee* (7x).
+- **7 document(s)**, 14 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-21, 1810, p. 1 (line 0) [Oe_1_Bu_9454_0034_b-L21_01.jpg], as *Talleyrand*.
+- **Spellings encountered:** one only, *Talleyrand* (14x).
 
 ### Nöldichen  <!-- noldichen -->
 
-- **6 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-84, 1798, p. 2 (line 29, archival line 6754), as *Nöldichen*.
+- **6 document(s)**, 13 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-84, 1798, p. 2 (line 0) [Oe_1_Bu_9454_0176_a1-L84_02.jpg], as *Nöldichen*.
 - **Spellings encountered:**
-    - *Nöldichen* — 6x, first at oe1bu9454-84, 1798, p. 2 (line 29, archival line 6754)
-    - *Nöldichens* — 1x, first at oe1bu9454-89, 1798, p. 2 (line 33, archival line 7101)
+    - *Nöldichen* — 12x, first at oe1bu9454-84, 1798, p. 2 (line 0) [Oe_1_Bu_9454_0176_a1-L84_02.jpg]
+    - *Nöldichens* — 1x, first at oe1bu9454-89, 1798, p. 2 (line 33, archival line 7101) [Oe_1_Bu_9454_0186_a1-L89_02.jpg]
 
-### Otto  <!-- otto -->
+### Beugelin  <!-- beugelin -->
 
-- **4 document(s)**, 7 mention(s).
-- **First appearance:** oe1bu9454-134, 1804, p. 1 (line 5, archival line 9548), as *Ottos*.
+- **8 document(s)**, 13 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-283, 1815, p. 2 (line 0) [Oe_1_Bu_9454_0513_a1-L283_02.jpg], as *Beugelin*.
+- **Spellings encountered:** one only, *Beugelin* (13x).
+
+### Schulenburg  <!-- schulenburg -->
+
+- **6 document(s)**, 12 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-79, 1798, p. 1 (line 8, archival line 6459) [Oe_1_Bu_9454_0166_b-L79_01.jpg], as *Schulemburg*.
 - **Spellings encountered:**
-    - *Otto* — 4x, first at oe1bu9454-284, 1815, p. 1 (line 21, archival line 20077)
-    - *Ottos* — 2x, first at oe1bu9454-134, 1804, p. 1 (line 5, archival line 9548)
-    - *Ottoischen* — 1x, first at oe1bu9454-134, 1804, p. 7 (line 127, archival line 9676)
-
-### Johann Gottlieb Tschachmann  <!-- tschachmann -->
-
-- **3 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-15, 1805, p. 6 (line 170, archival line 4948), as *Tschachmann*.
-- **Spellings encountered:** one only, *Tschachmann* (7x).
+    - *Schulemburg* — 9x, first at oe1bu9454-79, 1798, p. 1 (line 8, archival line 6459) [Oe_1_Bu_9454_0166_b-L79_01.jpg]
+    - *Schulenburg* — 3x, first at oe1bu9454-89, 1798, p. 7 (line 140, archival line 7213) [Oe_1_Bu_9454_0188_a2-L89_07.jpg]
 
 ### Stossel  <!-- stossel -->
 
-- **4 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-201, 1810, p. 1 (line 4, archival line 14395), as *Stossels*.
+- **4 document(s)**, 12 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-201, 1810, p. 1 (line 0) [Oe_1_Bu_9454_0380_a2-L201_01.jpg], as *Stossel*.
 - **Spellings encountered:**
-    - *Stossel* — 3x, first at oe1bu9454-221, 1811, p. 2 (line 42, archival line 15959)
-    - *Stosseln* — 2x, first at oe1bu9454-221, 1811, p. 1 (line 10, archival line 15926)
-    - *Stossels* — 2x, first at oe1bu9454-201, 1810, p. 1 (line 4, archival line 14395)
-
-### Metternich  <!-- metternich -->
-
-- **6 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-244, 1814, p. 2 (line 27, archival line 17628), as *Metternich*.
-- **Spellings encountered:** one only, *Metternich* (7x).
-
-### Göschel  <!-- goeschel -->
-
-- **7 document(s)**, 7 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-249, 1814, p. 2 (line 36, archival line 18021), as *Göschel*.
-- **Spellings encountered:** one only, *Göschel* (7x).
-
-### Rapacki  <!-- rapacki -->
-
-- **4 document(s)**, 6 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-103, 1799, p. 1 (line 7, archival line 8057), as *Rapacki*.
-- **Spellings encountered:** one only, *Rapacki* (6x).
+    - *Stossel* — 7x, first at oe1bu9454-201, 1810, p. 1 (line 0) [Oe_1_Bu_9454_0380_a2-L201_01.jpg]
+    - *Stosseln* — 2x, first at oe1bu9454-221, 1811, p. 1 (line 10, archival line 15926) [Oe_1_Bu_9454_0414_b-L221_01.jpg]
+    - *Stossels* — 2x, first at oe1bu9454-201, 1810, p. 1 (line 4, archival line 14395) [Oe_1_Bu_9454_0380_a2-L201_01.jpg]
+    - *Stössel* — 1x, first at oe1bu9454-226, 1811, p. 2 (line 0) [Oe_1_Bu_9454_0426_a1-L226_02.jpg]
 
 ### Winzingerode  <!-- winzingerode -->
 
-- **6 document(s)**, 6 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-103, 1799, p. 2 (line 26, archival line 8077), as *Winzingerode*.
-- **Spellings encountered:** one only, *Winzingerode* (6x).
+- **6 document(s)**, 11 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-103, 1799, p. 2 (line 0) [Oe_1_Bu_9454_0214_a1-L103_02.jpg], as *Winzingerode*.
+- **Spellings encountered:** one only, *Winzingerode* (11x).
 
-### Werner  <!-- werner -->
+### Johann Gottlieb Tschachmann  <!-- tschachmann -->
 
-- **3 document(s)**, 6 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-135, 1804, p. 1 (line 34, archival line 9738), as *Werner*.
-- **Spellings encountered:** one only, *Werner* (6x).
+- **3 document(s)**, 11 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-15, 1805, p. 6 (line 170, archival line 4948) [Oe_1_Bu_14526_0091_a1-L15_06.jpg], as *Tschachmann*.
+- **Spellings encountered:**
+    - *Tschachmann* — 9x, first at oe1bu14526-15, 1805, p. 6 (line 170, archival line 4948) [Oe_1_Bu_14526_0091_a1-L15_06.jpg]
+    - *Johann Gottlieb Tschachmann* — 2x, first at oe1bu14526-13, 1805, p. 1 (line 0) [Oe_1_Bu_14526_0078_b-L13_01.jpg]
 
-### Brandenstein  <!-- brandenstein -->
+### Emilie  <!-- emilie -->
 
-- **2 document(s)**, 6 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-133, 1804, p. 2 (line 22, archival line 9467), as *Brandenstein*.
-- **Spellings encountered:** one only, *Brandenstein* (6x).
+- **8 document(s)**, 11 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-177, 1805, p. 3 (line 57, archival line 12476) [Oe_1_Bu_9454_0331_a2-L177_03.jpg], as *Emilien*.
+- **Spellings encountered:**
+    - *Emilie* — 7x, first at oe1bu9454-66, 1809, p. 3 (line 66, archival line 5149) [Oe_1_Bu_9454_0128_a2-L66_03.jpg]
+    - *Emilien* — 4x, first at oe1bu9454-177, 1805, p. 3 (line 57, archival line 12476) [Oe_1_Bu_9454_0331_a2-L177_03.jpg]
 
-### Przespolewski  <!-- przespolewski -->
+### Göschel  <!-- goeschel -->
 
-- **5 document(s)**, 6 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-146, 1804, p. 4 (line 78, archival line 10619), as *Przespolewski*.
-- **Spellings encountered:** one only, *Przespolewski* (6x).
+- **7 document(s)**, 11 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-249, 1814, p. 2 (line 36, archival line 18021) [Oe_1_Bu_9454_0462_a1-L249_02.jpg], as *Göschel*.
+- **Spellings encountered:** one only, *Göschel* (11x).
+
+### Haugwitz  <!-- haugwitz -->
+
+- **5 document(s)**, 10 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-75, 1798, p. 2 (line 34, archival line 6272) [Oe_1_Bu_9454_0160_a1-L75_02.jpg], as *Haugwitz*.
+- **Spellings encountered:**
+    - *Haugwitz* — 9x, first at oe1bu9454-75, 1798, p. 2 (line 34, archival line 6272) [Oe_1_Bu_9454_0160_a1-L75_02.jpg]
+    - *Haugwitzen* — 1x, first at oe1bu9454-98, 1799, p. 4 (line 68, archival line 7677) [Oe_1_Bu_9454_0204_a-L98_04.jpg]
 
 ### Asch  <!-- asch -->
 
-- **4 document(s)**, 5 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-109, 1801, p. 2 (line 36, archival line 8504), as *Asch*.
-- **Spellings encountered:** one only, *Asch* (5x).
+- **4 document(s)**, 10 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-109, 1801, p. 2 (line 0) [Oe_1_Bu_9454_0226_a1-L109_02.jpg], as *Asch*.
+- **Spellings encountered:** one only, *Asch* (10x).
+
+### Werner  <!-- werner -->
+
+- **3 document(s)**, 10 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-135, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0260_b-L135_01.jpg], as *Werner*.
+- **Spellings encountered:** one only, *Werner* (10x).
+
+### Otto  <!-- otto -->
+
+- **4 document(s)**, 10 mention(s).
+- **First appearance:** oe1bu9454-134, 1804, p. 1 (line 5, archival line 9548) [Oe_1_Bu_9454_0256_a-L134_01.jpg], as *Ottos*.
+- **Spellings encountered:**
+    - *Otto* — 7x, first at oe1bu9454-284, 1815, p. 1 (line 0) [Oe_1_Bu_9454_0513_a2-L284_01.jpg]
+    - *Ottos* — 2x, first at oe1bu9454-134, 1804, p. 1 (line 5, archival line 9548) [Oe_1_Bu_9454_0256_a-L134_01.jpg]
+    - *Ottoischen* — 1x, first at oe1bu9454-134, 1804, p. 7 (line 127, archival line 9676) [Oe_1_Bu_9454_0259_a2-L134_07.jpg]
+
+### Brandenstein  <!-- brandenstein -->
+
+- **2 document(s)**, 9 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-133, 1804, p. 2 (line 22, archival line 9467) [Oe_1_Bu_9454_0254_a1-L133_02.jpg], as *Brandenstein*.
+- **Spellings encountered:** one only, *Brandenstein* (9x).
 
 ### Melzer  <!-- melzer -->
 
-- **3 document(s)**, 5 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-140, 1804, p. 1 (line 12, archival line 10216), as *Melzer*.
-- **Spellings encountered:** one only, *Melzer* (5x).
+- **3 document(s)**, 9 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-140, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0274_b-L140_01.jpg], as *Melzer*.
+- **Spellings encountered:** one only, *Melzer* (9x).
 
 ### Tietz  <!-- tietz -->
 
-- **4 document(s)**, 5 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-10, 1805, p. 14 (line 388, archival line 3304), as *Tietz*.
-- **Spellings encountered:** one only, *Tietz* (5x).
+- **4 document(s)**, 9 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-10, 1805, p. 14 (line 0) [Oe_1_Bu_14526_0064_a1-L10_14.jpg], as *Tietz*.
+- **Spellings encountered:** one only, *Tietz* (9x).
+
+### Flesch  <!-- flesch -->
+
+- **3 document(s)**, 9 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-195, 1810, p. 1 (line 5, archival line 14048) [Oe_1_Bu_9454_0371_a2-L195_01.jpg], as *Flesch*.
+- **Spellings encountered:** one only, *Flesch* (9x).
+
+### Metternich  <!-- metternich -->
+
+- **6 document(s)**, 9 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-244, 1814, p. 2 (line 0) [Oe_1_Bu_9454_0453_a1-L244_02.jpg], as *Metternich*.
+- **Spellings encountered:** one only, *Metternich* (9x).
+
+### Goldbeck  <!-- goldbeck -->
+
+- **6 document(s)**, 8 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-75, 1798, p. 2 (line 21, archival line 6259) [Oe_1_Bu_9454_0160_a1-L75_02.jpg], as *Goldbeck*.
+- **Spellings encountered:** one only, *Goldbeck* (8x).
+
+### Struensee  <!-- struensee -->
+
+- **4 document(s)**, 8 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-79, 1798, p. 4 (line 0) [Oe_1_Bu_9454_0168_a-L79_04.jpg], as *Struensee*.
+- **Spellings encountered:** one only, *Struensee* (8x).
+
+### Rapacki  <!-- rapacki -->
+
+- **4 document(s)**, 8 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-103, 1799, p. 1 (line 0) [Oe_1_Bu_9454_0213_b-L103_01.jpg], as *Rapacki*.
+- **Spellings encountered:** one only, *Rapacki* (8x).
+
+### Przespolewski  <!-- przespolewski -->
+
+- **5 document(s)**, 8 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-146, 1804, p. 4 (line 0) [Oe_1_Bu_9454_0285_a-L146_04.jpg], as *Przespolewski*.
+- **Spellings encountered:** one only, *Przespolewski* (8x).
+
+### Rhode  <!-- rhode -->
+
+- **4 document(s)**, 8 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-156, 1805, p. 4 (line 0) [Oe_1_Bu_9454_0298_a2-L156_04.jpg], as *Rhode*.
+- **Spellings encountered:**
+    - *Rhode* — 6x, first at oe1bu9454-156, 1805, p. 4 (line 0) [Oe_1_Bu_9454_0298_a2-L156_04.jpg]
+    - *Rhoden* — 2x, first at oe1bu9454-198, 1810, p. 3 (line 0) [Oe_1_Bu_9454_0377_a2-L198_03.jpg]
+
+### Beyhm  <!-- beyhm -->
+
+- **3 document(s)**, 7 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-77, 1798, p. 1 (line 0) [Oe_1_Bu_9454_0162_a-L77_01.jpg], as *Beyhm*.
+- **Spellings encountered:** one only, *Beyhm* (7x).
+
+### Feller  <!-- feller -->
+
+- **2 document(s)**, 7 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-18, 1804, p. 21 (line 0) [Oe_1_Bu_14526_0119_a2-L18_21.jpg], as *Feller*.
+- **Spellings encountered:** one only, *Feller* (7x).
 
 ### Massow  <!-- massow -->
 
+- **3 document(s)**, 7 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-55, 1809, p. 4 (line 0) [Oe_1_Bu_9454_0106_a-L55_04.jpg], as *Massow*.
+- **Spellings encountered:** one only, *Massow* (7x).
+
+### Nesselrode  <!-- nesselrode -->
+
+- **4 document(s)**, 7 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-3, 1815, p. 1 (line 0) [Oe_1_Bu_9454_0004_b-L3_01.jpg], as *Nesselrode*.
+- **Spellings encountered:** one only, *Nesselrode* (7x).
+
+### Grävenitz  <!-- graevenitz -->
+
+- **3 document(s)**, 6 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-75, 1798, p. 3 (line 0) [Oe_1_Bu_9454_0160_a2-L75_03.jpg], as *Grävenitz*.
+- **Spellings encountered:**
+    - *Grävenitz* — 4x, first at oe1bu9454-75, 1798, p. 3 (line 0) [Oe_1_Bu_9454_0160_a2-L75_03.jpg]
+    - *Grev:* — 2x, first at oe1bu9454-2, 1815, p. 4 (line 0) [Oe_1_Bu_9454_0004_a-L2_04.jpg]
+
+### Sprengel  <!-- sprengel -->
+
+- **3 document(s)**, 6 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-28, 1799, p. 2 (line 0) [Oe_1_Bu_14526_0164_a1-L28_02.jpg], as *Sprengel*.
+- **Spellings encountered:** one only, *Sprengel* (6x).
+
+### Ogrodowicz  <!-- ogrodowicz -->
+
+- **3 document(s)**, 6 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-8, 1806, p. 12 (line 0) [Oe_1_Bu_14526_0043_a1-L8_12.jpg], as *Ogrodowicz*.
+- **Spellings encountered:** one only, *Ogrodowicz* (6x).
+
+### Dohna  <!-- dohna -->
+
+- **3 document(s)**, 6 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-55, 1809, p. 4 (line 0) [Oe_1_Bu_9454_0106_a-L55_04.jpg], as *Dohna*.
+- **Spellings encountered:** one only, *Dohna* (6x).
+
+### Wedel  <!-- wedel -->
+
 - **3 document(s)**, 5 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-55, 1809, p. 4 (line 93, archival line 4119), as *Massow*.
-- **Spellings encountered:** one only, *Massow* (5x).
+- **First appearance:** oe1bu9454-77, 1798, p. 3 (line 0) [Oe_1_Bu_9454_0163_a2-L77_03.jpg], as *Wedel*.
+- **Spellings encountered:** one only, *Wedel* (5x).
+
+### Goerne  <!-- goerne -->
+
+- **2 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-87, 1798, p. 2 (line 0) [Oe_1_Bu_9454_0182_a1-L87_02.jpg], as *Goerne*.
+- **Spellings encountered:** one only, *Goerne* (5x).
+
+### Dąbrowski  <!-- dabrowski -->
+
+- **2 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-136, 1804, p. 11 (line 0) [Oe_1_Bu_9454_0267_a2-L136_11.jpg], as *Dąbrowski*.
+- **Spellings encountered:** one only, *Dąbrowski* (5x).
+
+### Simon  <!-- simon -->
+
+- **3 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-141, 1804, p. 1 (line 0) [Oe_1_Bu_9454_0278_b-L141_01.jpg], as *Simon*.
+- **Spellings encountered:** one only, *Simon* (5x).
+
+### Massenbach  <!-- massenbach -->
+
+- **3 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-183, 1806, p. 1 (line 0) [Oe_1_Bu_9454_0349_b-L183_01.jpg], as *Massenbach*.
+- **Spellings encountered:** one only, *Massenbach* (5x).
+
+### Scharnhorst  <!-- scharnhorst -->
+
+- **3 document(s)**, 5 mention(s).
+- **First appearance:** oe1bu9454-57, 1809, p. 2 (line 37, archival line 4248) [Oe_1_Bu_9454_0109_a1-L57_02.jpg], as *Scharnhorst*.
+- **Spellings encountered:** one only, *Scharnhorst* (5x).
 
 ### Pirch  <!-- pirch -->
 
 - **3 document(s)**, 5 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-57, 1809, p. 2 (line 41, archival line 4252), as *Pirch*.
+- **First appearance:** oe1bu9454-57, 1809, p. 2 (line 41, archival line 4252) [Oe_1_Bu_9454_0109_a1-L57_02.jpg], as *Pirch*.
 - **Spellings encountered:** one only, *Pirch* (5x).
 
-### Flesch  <!-- flesch -->
+### Kleist  <!-- kleist -->
 
 - **3 document(s)**, 5 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-195, 1810, p. 1 (line 5, archival line 14048), as *Flesch*.
-- **Spellings encountered:** one only, *Flesch* (5x).
+- **First appearance:** oe1bu9454-67, 1812, p. 3 (line 58, archival line 5262) [Oe_1_Bu_9454_0131_a2-L67_03.jpg], as *Kleist*.
+- **Spellings encountered:** one only, *Kleist* (5x).
 
-### Beyhm  <!-- beyhm -->
+### Gneizenau  <!-- gneizenau -->
 
-- **3 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-77, 1798, p. 1 (line 5, archival line 6316), as *Beyhm*.
-- **Spellings encountered:** one only, *Beyhm* (4x).
+- **2 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-239, 1813, p. 2 (line 0) [Oe_1_Bu_9454_0448_a1-L239_02.jpg], as *Gneizenau*.
+- **Spellings encountered:** one only, *Gneizenau* (5x).
 
-### Goerne  <!-- goerne -->
+### Schöler  <!-- scholer -->
+
+- **2 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-268, 1815, p. 1 (line 0) [Oe_1_Bu_9454_0487_a2-L268_01.jpg], as *Schöler*.
+- **Spellings encountered:** one only, *Schöler* (5x).
+
+### Amstetten  <!-- amstetten -->
+
+- **3 document(s)**, 5 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-274, 1815, p. 2 (line 0) [Oe_1_Bu_9454_0500_a1-L274_02.jpg], as *Amstetten*.
+- **Spellings encountered:** one only, *Amstetten* (5x).
+
+### Reinhardt  <!-- reinhardt -->
 
 - **2 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-87, 1798, p. 2 (line 51, archival line 6975), as *Goerne*.
-- **Spellings encountered:** one only, *Goerne* (4x).
+- **First appearance:** oe1bu9454-75, 1798, p. 1 (line 0) [Oe_1_Bu_9454_0159_b-L75_01.jpg], as *Reinhardt*.
+- **Spellings encountered:** one only, *Reinhardt* (4x).
 
-### Sprengel  <!-- sprengel -->
+### Samuel Lucke (Luka)  <!-- luka -->
 
-- **3 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-28, 1799, p. 2 (line 39, archival line 7996), as *Sprengel*.
-- **Spellings encountered:** one only, *Sprengel* (4x).
+- **2 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-27, 1799, p. 1 (line 0) [Oe_1_Bu_14526_0161_a2-L27_01.jpg], as *Luka*.
+- **Spellings encountered:** one only, *Luka* (4x).
 
 ### Salomon Nathan  <!-- nathan -->
 
 - **3 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-18, 1804, p. 8 (line 134, archival line 5880), as *Nathan*.
+- **First appearance:** oe1bu14526-18, 1804, p. 8 (line 134, archival line 5880) [Oe_1_Bu_14526_0113_a1-L18_08.jpg], as *Nathan*.
 - **Spellings encountered:**
-    - *Nathan* — 3x, first at oe1bu14526-18, 1804, p. 8 (line 134, archival line 5880)
-    - *Natan* — 1x, first at oe1bu14526-18, 1804, p. 7 (line 133, archival line 5878)
-
-### Feller  <!-- feller -->
-
-- **2 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-18, 1804, p. 21 (line 403, archival line 6162), as *Feller*.
-- **Spellings encountered:** one only, *Feller* (4x).
-
-### Rhode  <!-- rhode -->
-
-- **4 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-156, 1805, p. 4 (line 74, archival line 11110), as *Rhode*.
-- **Spellings encountered:**
-    - *Rhode* — 3x, first at oe1bu9454-156, 1805, p. 4 (line 74, archival line 11110)
-    - *Rhoden* — 1x, first at oe1bu9454-198, 1810, p. 3 (line 74, archival line 14290)
-
-### Massenbach  <!-- massenbach -->
-
-- **3 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-183, 1806, p. 1 (line 11, archival line 13175), as *Massenbach*.
-- **Spellings encountered:** one only, *Massenbach* (4x).
-
-### Scharnhorst  <!-- scharnhorst -->
-
-- **3 document(s)**, 4 mention(s).
-- **First appearance:** oe1bu9454-57, 1809, p. 2 (line 37, archival line 4248), as *Scharnhorst*.
-- **Spellings encountered:** one only, *Scharnhorst* (4x).
-
-### Kleist  <!-- kleist -->
-
-- **3 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-67, 1812, p. 3 (line 58, archival line 5262), as *Kleist*.
-- **Spellings encountered:** one only, *Kleist* (4x).
-
-### Nesselrode  <!-- nesselrode -->
-
-- **4 document(s)**, 4 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-3, 1815, p. 1 (line 11, archival line 218), as *Nesselrode*.
-- **Spellings encountered:** one only, *Nesselrode* (4x).
-
-### Grävenitz  <!-- graevenitz -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-75, 1798, p. 3 (line 42, archival line 6281), as *Grävenitz*.
-- **Spellings encountered:**
-    - *Grävenitz* — 2x, first at oe1bu9454-75, 1798, p. 3 (line 42, archival line 6281)
-    - *Grev:* — 1x, first at oe1bu9454-2, 1815, p. 4 (line 95, archival line 191)
-
-### Wedel  <!-- wedel -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-77, 1798, p. 3 (line 63, archival line 6376), as *Wedel*.
-- **Spellings encountered:** one only, *Wedel* (3x).
-
-### Dąbrowski  <!-- dabrowski -->
-
-- **2 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-136, 1804, p. 11 (line 219, archival line 10011), as *Dąbrowski*.
-- **Spellings encountered:** one only, *Dąbrowski* (3x).
+    - *Nathan* — 3x, first at oe1bu14526-18, 1804, p. 8 (line 134, archival line 5880) [Oe_1_Bu_14526_0113_a1-L18_08.jpg]
+    - *Natan* — 1x, first at oe1bu14526-18, 1804, p. 7 (line 133, archival line 5878) [Oe_1_Bu_14526_0112_a2-L18_07.jpg]
 
 ### Abraham Moses Hirschel  <!-- hirschel -->
 
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-18, 1804, p. 8 (line 139, archival line 5885), as *Hirchel*.
+- **3 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu14526-18, 1804, p. 8 (line 139, archival line 5885) [Oe_1_Bu_14526_0113_a1-L18_08.jpg], as *Hirchel*.
 - **Spellings encountered:**
-    - *Hirschel* — 2x, first at oe1bu14526-19, 1804, p. 6 (line 144, archival line 6454)
-    - *Hirchel* — 1x, first at oe1bu14526-18, 1804, p. 8 (line 139, archival line 5885)
-
-### Simon  <!-- simon -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-141, 1804, p. 1 (line 20, archival line 10394), as *Simon*.
-- **Spellings encountered:** one only, *Simon* (3x).
-
-### Chwalowski  <!-- chwalowski -->
-
-- **2 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-169, 1805, p. 4 (line 88, archival line 12011), as *Chwalowski*.
-- **Spellings encountered:** one only, *Chwalowski* (3x).
-
-### Ogrodowicz  <!-- ogrodowicz -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-8, 1806, p. 12 (line 389, archival line 2181), as *Ogrodowicz*.
-- **Spellings encountered:** one only, *Ogrodowicz* (3x).
-
-### Lipski  <!-- lipski -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-28, 1807, p. 1 (line 8, archival line 1827), as *Lipski*.
-- **Spellings encountered:** one only, *Lipski* (3x).
-
-### Dohna  <!-- dohna -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-55, 1809, p. 4 (line 94, archival line 4120), as *Dohna*.
-- **Spellings encountered:** one only, *Dohna* (3x).
-
-### Allbrecht  <!-- allbrecht -->
-
-- **2 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-52, 1809, p. 1 (line 7, archival line 3842), as *Allbrecht*.
-- **Spellings encountered:** one only, *Allbrecht* (3x).
-
-### Chomanowski  <!-- chomanowski -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-232, 1812, p. 3 (line 54, archival line 16935), as *Chomanowski*.
-- **Spellings encountered:** one only, *Chomanowski* (3x).
-
-### Gneizenau  <!-- gneizenau -->
-
-- **2 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-239, 1813, p. 2 (line 29, archival line 17414), as *Gneizenau*.
-- **Spellings encountered:** one only, *Gneizenau* (3x).
-
-### Schöler  <!-- scholer -->
-
-- **2 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-268, 1815, p. 1 (line 6, archival line 18993), as *Schöler*.
-- **Spellings encountered:** one only, *Schöler* (3x).
-
-### Amstetten  <!-- amstetten -->
-
-- **3 document(s)**, 3 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-274, 1815, p. 2 (line 56, archival line 19525), as *Amstetten*.
-- **Spellings encountered:** one only, *Amstetten* (3x).
-
-### Reinhardt  <!-- reinhardt -->
-
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-75, 1798, p. 1 (line 16, archival line 6253), as *Reinhardt*.
-- **Spellings encountered:** one only, *Reinhardt* (2x).
-
-### Chełmski  <!-- chemski -->
-
-- **2 document(s)**, 2 mention(s).
-- **First appearance:** oe1bu9454-75, 1798, p. 3 (line 38, archival line 6277), as *Chełmski*.
-- **Spellings encountered:** one only, *Chełmski* (2x).
-
-### Samuel Lucke (Luka)  <!-- luka -->
-
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu14526-27, 1799, p. 1 (line 4, archival line 7887), as *Luka*.
-- **Spellings encountered:** one only, *Luka* (2x).
+    - *Hirschel* — 2x, first at oe1bu14526-19, 1804, p. 6 (line 144, archival line 6454) [Oe_1_Bu_14526_0126_a1-L19_06.jpg]
+    - *Abraham Moses Hirschel* — 1x, first at oe1bu14526-19, 1804, p. 6 (line 0) [Oe_1_Bu_14526_0126_a1-L19_06.jpg]
+    - *Hirchel* — 1x, first at oe1bu14526-18, 1804, p. 8 (line 139, archival line 5885) [Oe_1_Bu_14526_0113_a1-L18_08.jpg]
 
 ### Szczucki  <!-- szczucki -->
 
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-146, 1804, p. 4 (line 83, archival line 10624), as *Szczucki*.
-- **Spellings encountered:** one only, *Szczucki* (2x).
+- **2 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-146, 1804, p. 4 (line 0) [Oe_1_Bu_9454_0285_a-L146_04.jpg], as *Szczucki*.
+- **Spellings encountered:** one only, *Szczucki* (4x).
+
+### Chwalowski  <!-- chwalowski -->
+
+- **2 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-169, 1805, p. 4 (line 0) [Oe_1_Bu_9454_0319_a-L169_04.jpg], as *Chwalowski*.
+- **Spellings encountered:** one only, *Chwalowski* (4x).
 
 ### Koeppen  <!-- koeppen -->
 
-- **2 document(s)**, 2 mention(s).
-- **First appearance:** oe1bu14526-8, 1806, p. 16 (line 523, archival line 2319), as *Koeppen*.
-- **Spellings encountered:** one only, *Koeppen* (2x).
+- **2 document(s)**, 4 mention(s).
+- **First appearance:** oe1bu14526-8, 1806, p. 16 (line 0) [Oe_1_Bu_14526_0045_a1-L8_16.jpg], as *Koeppen*.
+- **Spellings encountered:** one only, *Koeppen* (4x).
 
 ### Kaleschke  <!-- kaleschke -->
 
-- **2 document(s)**, 2 mention(s).
-- **First appearance:** oe1bu14526-8, 1806, p. 16 (line 525, archival line 2321), as *Kaleschke*.
-- **Spellings encountered:** one only, *Kaleschke* (2x).
+- **2 document(s)**, 4 mention(s).
+- **First appearance:** oe1bu14526-8, 1806, p. 16 (line 0) [Oe_1_Bu_14526_0045_a1-L8_16.jpg], as *Kaleschke*.
+- **Spellings encountered:** one only, *Kaleschke* (4x).
 
-### Falkenhausen  <!-- falkenhausen -->
+### Lipski  <!-- lipski -->
 
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-57, 1809, p. 3 (line 64, archival line 4276), as *Falkenhausen*.
-- **Spellings encountered:** one only, *Falkenhausen* (2x).
+- **3 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-28, 1807, p. 1 (line 8, archival line 1827) [Oe_1_Bu_9454_0049_b-L28_01.jpg], as *Lipski*.
+- **Spellings encountered:** one only, *Lipski* (4x).
+
+### Allbrecht  <!-- allbrecht -->
+
+- **2 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-52, 1809, p. 1 (line 0) [Oe_1_Bu_9454_0099_b-L52_01.jpg], as *Allbrecht*.
+- **Spellings encountered:** one only, *Allbrecht* (4x).
+
+### Chomanowski  <!-- chomanowski -->
+
+- **3 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-232, 1812, p. 3 (line 54, archival line 16935) [Oe_1_Bu_9454_0437_a2-L232_03.jpg], as *Chomanowski*.
+- **Spellings encountered:** one only, *Chomanowski* (4x).
 
 ### Bülow  <!-- bulow -->
 
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-239, 1813, p. 1 (line 18, archival line 17402), as *Bülow*.
-- **Spellings encountered:** one only, *Bülow* (2x).
+- **2 document(s)**, 4 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-239, 1813, p. 1 (line 0) [Oe_1_Bu_9454_0447_b-L239_01.jpg], as *Bülow*.
+- **Spellings encountered:** one only, *Bülow* (4x).
+
+### Chełmski  <!-- chemski -->
+
+- **2 document(s)**, 3 mention(s).
+- **First appearance:** oe1bu9454-75, 1798, p. 3 (line 0) [Oe_1_Bu_9454_0160_a2-L75_03.jpg], as *Chełmski*.
+- **Spellings encountered:** one only, *Chełmski* (3x).
+
+### Falkenhausen  <!-- falkenhausen -->
+
+- **2 document(s)**, 3 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-57, 1809, p. 3 (line 64, archival line 4276) [Oe_1_Bu_9454_0109_a2-L57_03.jpg], as *Falkenhausen*.
+- **Spellings encountered:** one only, *Falkenhausen* (3x).
 
 ### Kurnatowski  <!-- kurnatowski -->
 
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-297, 1815, p. 2 (line 52, archival line 21084), as *Kurnatowski*.
-- **Spellings encountered:** one only, *Kurnatowski* (2x).
+- **2 document(s)**, 3 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-297, 1815, p. 2 (line 0) [Oe_1_Bu_9454_0533_a1-L297_02.jpg], as *Kurnatowski*.
+- **Spellings encountered:** one only, *Kurnatowski* (3x).
 
 ### Smiedecki  <!-- smiedecki -->
 
-- **2 document(s)**, 2 mention(s).  **NEW to the register.**
-- **First appearance:** oe1bu9454-5, 1816, p. 1 (line 18, archival line 360), as *Smiedecki*.
-- **Spellings encountered:** one only, *Smiedecki* (2x).
+- **2 document(s)**, 3 mention(s).  **NEW to the register.**
+- **First appearance:** oe1bu9454-5, 1816, p. 1 (line 18, archival line 360) [Oe_1_Bu_9454_0008_b-L5_01.jpg], as *Smiedecki*.
+- **Spellings encountered:** one only, *Smiedecki* (3x).
 
 ---
 

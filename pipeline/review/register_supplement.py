@@ -105,7 +105,10 @@ def cite(m, dates, bases=None):
     ln, dl = m.get('line'), m.get('doc_line')
     shown = f"line {dl}" if dl is not None else f"line {ln}"
     arch = f", archival line {ln}" if dl is not None and ln is not None else ''
-    return f"{uid}{when}, p. {m.get('page')} ({shown}{arch})"
+    # The image, so the citation ends at the manuscript rather than at a line
+    # number and a separate file to look it up in.
+    img = f" [{m['scan']}]" if m.get('scan') else ''
+    return f"{uid}{when}, p. {m.get('page')} ({shown}{arch}){img}"
 
 
 def known_to_register():
