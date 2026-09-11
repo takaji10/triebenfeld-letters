@@ -27,6 +27,7 @@ DOCUMENT_FLAT_FIELDS = [
     'date_display', 'date_inferred_from', 'year', 'month', 'day', 'place',
     'sender', 'recipient', 'line_start', 'line_end', 'uncertainty_count',
     'has_damage', 'duplicate_of', 'is_missing', 'n_lines', 'n_pages',
+    'era',
     'text', 'text_reading',
 ]
 

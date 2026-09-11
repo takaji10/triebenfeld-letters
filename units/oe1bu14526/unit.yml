@@ -14,6 +14,16 @@ title: >-
 date_span: 1766-1808
 status: translated         # draft | transcribed | translated | published
 
+# Which era this holding belongs to - reference/eras.yml. An editorial
+# assignment, not a date range: most of these documents postdate the
+# ownership they are evidence for. A document that belongs elsewhere
+# overrides it in rulings.yml under documents: era:.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml. `archive:` above is
+# the citation string; this is the slug that groups holdings.
+repository: hzan-neuenstein
+
 # Raw scans live outside the project. crop_scans.py reads from raw_dir and
 # writes single pages into raw_dir/processed/.
 scans:

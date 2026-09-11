@@ -12,6 +12,16 @@ title: >-
 date_span: 1798-1816
 status: published          # draft | transcribed | translated | published
 
+# Which era this holding belongs to - reference/eras.yml. An editorial
+# assignment, not a date range: most of these documents postdate the
+# ownership they are evidence for. A document that belongs elsewhere
+# overrides it in rulings.yml under documents: era:.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml. `archive:` above is
+# the citation string; this is the slug that groups holdings.
+repository: hzan-neuenstein
+
 # This unit was published before URLs carried the archival unit, so stubs are
 # generated at the old /letters/<n>/ addresses forwarding to the new ones.
 # A newly added unit does not need this.

@@ -105,6 +105,26 @@ TWIN            = _R['TWIN']
 NO_DATE         = _R['NO_DATE']
 DOC_TYPE        = _R['DOC_TYPE']
 DOC_LANGUAGE    = _R['DOC_LANGUAGE']
+DOC_ERA         = _R['DOC_ERA']
+DOC_THEMES      = _R['DOC_THEMES']
+
+# Era and theme are editorial assignments, validated against the controlled
+# vocabularies. A typo'd slug is otherwise silent: it raises no error and simply
+# makes the document absent from the facet it belongs to, which is the kind of
+# gap nobody finds by looking.
+_ERAS, _THEMES = unitlib.load_eras(), unitlib.load_themes()
+_UNIT_ERA = (UNIT.get('era') or '').strip()
+if _UNIT_ERA and _UNIT_ERA not in _ERAS:
+    sys.exit(f'{UNIT.slug}/unit.yml: era {_UNIT_ERA!r} is not in reference/eras.yml '
+             f'(have: {", ".join(sorted(_ERAS))})')
+for _lid, _e in DOC_ERA.items():
+    if _e not in _ERAS:
+        sys.exit(f'{UNIT.slug} document {_lid}: era {_e!r} is not in reference/eras.yml')
+for _lid, _ts in DOC_THEMES.items():
+    for _t in (_ts or []):
+        if _t not in _THEMES:
+            sys.exit(f'{UNIT.slug} document {_lid}: theme {_t!r} is not in '
+                     f'reference/themes.yml')
 INFERRED        = _R['INFERRED']
 DUP_OF          = _R['DUP_OF']
 SPLIT_NOTE      = _R['SPLIT_NOTE']
@@ -364,6 +384,9 @@ for L in nums:
         unit=UNIT.slug, uid=UNIT.uid(L), pad=UNIT.pad(L),
         permalink=UNIT.permalink(L),
         doc_type=DOC_TYPE.get(L, 'letter'),
+        # Never derived from date_iso: see reference/eras.yml.
+        era=DOC_ERA.get(L) or _UNIT_ERA,
+        themes=DOC_THEMES.get(L) or [],
         date_iso=iso(y,m,d), date_precision=prec, date_source=srcv,
         # Brackets mean "not read from the document". A `dateline` date WAS
         # read from it - the parser simply could not reach it - so it shows

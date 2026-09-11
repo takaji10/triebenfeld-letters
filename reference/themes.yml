@@ -1,0 +1,79 @@
+# Themes - the cross-cutting axis, where era is the chronological one.
+#
+# A theme is what a document is ABOUT, and it cuts across eras by design: a
+# boundary dispute runs from 1589 to 1788 and is argued about again in 1805; the
+# settlement of the estate is the subject of the 1766 chapter privilege and of
+# the 1805 hereditary-lease contracts alike. That is the point of having the
+# axis at all, and it is why themes are assigned per document in
+# units/<slug>/rulings.yml rather than per holding.
+#
+# `status: draft` means the theme is named and not yet assigned to anything. A
+# theme with no members is not a mistake - it is a slot the archive expects to
+# fill, and saying so is more honest than inventing assignments to justify it.
+#
+# Assignments are the editor's. Nothing here is inferred from a document's text.
+
+themes:
+  settlement:
+    order: 1
+    status: draft
+    label_en: "Settlement and hereditary tenure"
+    label_de: "Siedlung und Erbpacht"
+    blurb_en: >-
+      How people came to hold land on this estate, and on what terms: the
+      privileges, the hereditary-lease contracts, and the parcelling of demesne
+      into holdings that could be let in perpetuity.
+    blurb_de: >-
+      Wie Menschen auf diesem Gut Land erhielten und zu welchen Bedingungen:
+      Privilegien, Erbpachtverträge und die Zerstückelung des Vorwerkslandes.
+
+  boundary-dispute:
+    order: 2
+    status: draft
+    label_en: "Boundaries and their disputes"
+    label_de: "Grenzen und Grenzstreitigkeiten"
+    blurb_en: >-
+      Where one estate ended and the next began, and what was done about
+      disagreement: mounds and blazed trees, judicial site inspections,
+      commissions, and the seizures that followed them.
+    blurb_de: >-
+      Wo ein Gut endete und das nächste begann, und was bei Uneinigkeit geschah:
+      Grenzhügel, Visionen, Kommissionen und die darauf folgenden Pfändungen.
+
+  dismemberment:
+    order: 3
+    status: draft
+    label_en: "Dismemberment and sale"
+    label_de: "Dismembration und Verkauf"
+    blurb_en: >-
+      The breaking up of estates — by licence, by contract, and sometimes by
+      debt. Includes the sales of whole lordships and the royal consents that
+      permitted or refused them.
+    blurb_de: >-
+      Die Zerschlagung von Gütern durch Konsens, Vertrag und mitunter durch
+      Schulden, samt den königlichen Genehmigungen und Ablehnungen.
+
+  debt-and-credit:
+    order: 4
+    status: draft
+    label_en: "Debt and credit"
+    label_de: "Schulden und Kredit"
+    blurb_en: >-
+      Mortgages, intabulations, sequestration and the creditors who drove them.
+      The financial machinery that decided what happened to the land.
+    blurb_de: >-
+      Hypotheken, Intabulationen, Sequestration und die Gläubiger, die sie
+      betrieben.
+
+  litigation:
+    order: 5
+    status: draft
+    label_en: "Courts and litigation"
+    label_de: "Gerichte und Prozesse"
+    blurb_en: >-
+      What went before a court, and which court: municipal, land, patrimonial,
+      tribunal, and the governing commissions that replaced them when the state
+      changed.
+    blurb_de: >-
+      Was vor Gericht kam und vor welches: Grod-, Land- und Patrimonialgerichte,
+      Tribunale und die Regierungskommissionen, die sie ablösten.

@@ -97,6 +97,7 @@ def main():
     manifest, people_idx, place_idx = [], defaultdict(list), defaultdict(list)
     date_idx, rel_idx, unc_idx = defaultdict(list), [], []
     n_mentions = 0
+    _REPO_OF = {u.slug: (u.get('repository') or '') for u in unitlib.load_units()}
 
     for r in recs:
         uid = r['uid']
@@ -169,6 +170,11 @@ def main():
         manifest.append({
             'uid': uid, 'unit': r['unit'], 'letter_id': r['letter_id'],
             'doc_type': r.get('doc_type') or '', 'language': r.get('language') or 'de',
+            # era and themes travel with the document; repository is a property
+            # of the holding, joined from the unit record rather than repeated
+            # on every row of build_db's flat table.
+            'era': r.get('era') or '', 'themes': r.get('themes') or [],
+            'repository': _REPO_OF.get(r['unit'], ''),
             'date_iso': r.get('date_iso') or '', 'date_precision': r.get('date_precision') or '',
             'date_source': r.get('date_source') or '', 'place': place,
             'n_pages': len(r.get('pages') or []), 'n_lines': r.get('n_lines') or 0,

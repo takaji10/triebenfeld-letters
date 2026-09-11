@@ -253,6 +253,13 @@ def load_rulings(unit):
         'INFERRED':       tuples(dates.get('inferred')),
         'NO_DATE':        set(dates.get('no_date') or []),
         'DOC_TYPE':       docs.get('doc_type') or {},
+        # Era and themes. Both are EDITORIAL ASSIGNMENTS and neither is derived
+        # from a date: 196 of 348 documents fall outside their era's nominal
+        # ownership years, because the dispute outlived the possession. The era
+        # default lives in unit.yml, so a holding assigns itself in one line and
+        # this table carries only the exceptions.
+        'DOC_ERA':        docs.get('era') or {},
+        'DOC_THEMES':     docs.get('themes') or {},
         # Language, where the document is not in the German of the rest of the
         # holding. Recorded per document because it is a property of the
         # document, and a queryable one: this volume holds a Polish protocol
@@ -377,3 +384,30 @@ def review_dir(slug):
     p = os.path.join(ROOT, 'review', slug)
     os.makedirs(p, exist_ok=True)
     return p
+
+
+def load_vocabulary(name, key):
+    """A controlled vocabulary from reference/<name>.yml, as {slug: record}.
+
+    eras, themes and repositories are all the same shape and all read the same
+    way. Kept here rather than in a build script because the rulings loader
+    validates against them, and a typo'd slug is otherwise invisible: it does
+    not error, it just makes a document absent from the facet it belongs to.
+    """
+    path = os.path.join(ROOT, 'reference', name + '.yml')
+    if not os.path.isfile(path):
+        return {}
+    with open(path, encoding='utf-8') as f:
+        return (yaml.safe_load(f) or {}).get(key) or {}
+
+
+def load_eras():
+    return load_vocabulary('eras', 'eras')
+
+
+def load_themes():
+    return load_vocabulary('themes', 'themes')
+
+
+def load_repositories():
+    return load_vocabulary('repositories', 'repositories')

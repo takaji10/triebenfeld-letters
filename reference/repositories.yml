@@ -1,0 +1,49 @@
+# The archives the documents are held in.
+#
+# A holding's `archive:` in unit.yml is the citation string and stays as it is.
+# `repository:` is the slug that groups holdings, so that a reader can ask what
+# came from Poznań and what from Neuenstein - a question the citation string
+# cannot answer, because it is prose.
+#
+# Unit-constant by nature, so it never enters build_db.py: it joins at manifest
+# and front-matter time from the unit record.
+#
+# The four here are the repositories the project expects to draw on, named in
+# Trabczyn_Website_Context_Brief.md. Only one of them holds anything yet.
+
+repositories:
+  hzan-neuenstein:
+    name_en: "Hohenlohe Central Archive, Neuenstein"
+    name_de: "Hohenloher Zentralarchiv Neuenstein"
+    short: "HZAN"
+    city: "Neuenstein"
+    country_en: "Germany"
+    country_de: "Deutschland"
+    url: "https://www.landesarchiv-bw.de/"
+
+  app-poznan:
+    name_en: "State Archive in Poznań"
+    name_de: "Staatsarchiv Posen"
+    short: "APP"
+    city: "Poznań"
+    country_en: "Poland"
+    country_de: "Polen"
+    url: "https://poznan.ap.gov.pl/"
+
+  gstapk-berlin:
+    name_en: "Secret State Archives, Prussian Cultural Heritage Foundation"
+    name_de: "Geheimes Staatsarchiv Preußischer Kulturbesitz"
+    short: "GStA PK"
+    city: "Berlin"
+    country_en: "Germany"
+    country_de: "Deutschland"
+    url: "https://gsta.preussischer-kulturbesitz.de/"
+
+  agad-warszawa:
+    name_en: "Central Archives of Historical Records"
+    name_de: "Hauptarchiv Alter Akten"
+    short: "AGAD"
+    city: "Warsaw"
+    country_en: "Poland"
+    country_de: "Polen"
+    url: "https://agad.gov.pl/"

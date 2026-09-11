@@ -1,0 +1,77 @@
+# The eras this archive is organised by.
+#
+# An era is an EDITORIAL ASSIGNMENT, never derived from a document's date. A
+# document belongs to the era whose story it is evidence for, and the two part
+# company constantly: 196 of the 348 documents published so far are dated 1808
+# or later, after the Hohenlohe ownership had ended, because the dispute
+# outlived the possession. Sorting those by date would scatter them across eras
+# they have nothing to do with.
+#
+# So no date appears in this file. Each era's span is COMPUTED from the
+# documents assigned to it and written into site/_data/eras.yml at build time,
+# which means it corrects itself when a holding is added. `ownership` below is
+# prose about the estate, not a filter: it says when the owners held the place,
+# which is a different question from when the papers were written.
+#
+# `order` is the reading order, and it is what the timeline and the story index
+# sort by - not the dates, for the same reason.
+#
+# `status: unpopulated` renders the era as named and not yet written rather than
+# hiding it. The archive says it covers three centuries; a reader is owed a
+# straight answer about which part of that is here.
+
+eras:
+  prusimski-boundary:
+    order: 1
+    status: unpopulated
+    label_en: "The Trąbczyn–Łukom boundary dispute"
+    label_de: "Der Grenzstreit zwischen Trąbczyn und Łukom"
+    ownership_en: "Prusimski and Chełmski, c. 1589–1788"
+    ownership_de: "Prusimski und Chełmski, ca. 1589–1788"
+    blurb_en: >-
+      Two hundred years of argument between neighbouring estates over where one
+      ended and the other began — mounds, blazed trees, a disputed pond-ground,
+      and the Olęder settlement that was annexed along with the land it stood
+      on. The documents are in the municipal and land court books at Poznań and
+      have not yet been added here.
+    blurb_de: >-
+      Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine
+      endete und das andere begann. Die Akten liegen in den Grod- und
+      Landgerichtsbüchern in Posen und sind hier noch nicht erfasst.
+
+  hohenlohe:
+    order: 2
+    status: populated
+    label_en: "The Hohenlohe-Ingelfingen years"
+    label_de: "Die Hohenlohe-Ingelfingener Jahre"
+    ownership_en: "Prince Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796–1807"
+    ownership_de: "Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796–1807"
+    blurb_en: >-
+      Prussia took the estate in the Third Partition and the King gave it away.
+      What followed was eleven years of a Prussian general trying to turn Polish
+      land into money he could spend, and nine more of arguing about it after he
+      had lost it. The estate was broken into hereditary holdings and let out to
+      settlers; the papers of that are here, alongside the letters of the agent
+      who did it.
+    blurb_de: >-
+      Preußen nahm das Gut in der Dritten Teilung, und der König verschenkte es.
+      Es folgten elf Jahre, in denen ein preußischer General polnisches Land in
+      ausgebbares Geld zu verwandeln suchte, und neun weitere Jahre Streit
+      darum, nachdem er es verloren hatte.
+
+  restitution:
+    order: 3
+    status: unpopulated
+    label_en: "The Miączyńska restitution"
+    label_de: "Die Restitution der Miączyńska"
+    ownership_en: "Michalina z Prusimskich Dąbska, later Miączyńska, 1807 onward"
+    ownership_de: "Michalina z Prusimskich Dąbska, später Miączyńska, ab 1807"
+    blurb_en: >-
+      The daughter of the last Polish owner recovered the estates in 1807
+      through the governing commission of the Duchy of Warsaw, and spent the
+      next thirty years in court over what was left of them. The documents are
+      in Warsaw and Berlin and have not yet been added here.
+    blurb_de: >-
+      Die Tochter des letzten polnischen Besitzers erhielt die Güter 1807 durch
+      die Regierungskommission des Herzogtums Warschau zurück. Die Akten liegen
+      in Warschau und Berlin und sind hier noch nicht erfasst.
