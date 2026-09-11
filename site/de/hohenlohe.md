@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die Hohenlohe-Ingelfingener Jahre
-standfirst: 1796 bis 1816. Ein preußischer Fürst erhält ein polnisches Gut, das er nie gesehen hat, und scheitert zwanzig Jahre lang daran, es zu Geld zu machen. Die erste veröffentlichte Epoche des Archivs.
+standfirst: 1798 bis 1816. Preußen nimmt Trąbczyn in der Teilung, der König verschenkt es, und das Gut wird in Stellen zerlegt und an die ausgetan, die es bewirtschaften. Die erste veröffentlichte Epoche des Archivs.
 permalink: /de/hohenlohe/
 lang: de
 alt_url: /hohenlohe/

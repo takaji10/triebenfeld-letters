@@ -141,6 +141,16 @@ at all, and 52 offered as guesses. They stay visible in the text of every docume
 them rather than being smoothed over. Five damaged passages await checking against the
 originals.
 
+## Eras
+
+The archive is organised into three eras, one per owner of the estate. An era is an
+editorial assignment: a document belongs to the era whose story it is evidence for, and
+that is not the same as its date. Most documents in the Hohenlohe era are dated after the
+Hohenlohes had lost the estate, because the dispute over it ran for another nine years.
+
+The dates shown for an era are therefore the dates of the documents assigned to it, not
+the years the owner held the place. Both are given on the era's own page.
+
 ## Dates
 
 Roughly seven in eight documents carry a date in the letter itself. The rest are dated one

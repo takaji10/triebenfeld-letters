@@ -17,10 +17,6 @@ Dieses Archiv entsteht Epoche für Epoche. Bisher hat nur die mittlere Dokumente
 Website; die beiden anderen liegen in Archiven in Posen, Warschau und Berlin. Sie werden
 hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehlt.
 
-Zur Einordnung: Epoche meint hier ein editorisches Urteil darüber, zu welcher Geschichte
-ein Dokument gehört, nicht einen Datumsbereich. Die meisten Dokumente der
-Hohenlohe-Epoche sind datiert, nachdem die Hohenlohes das Gut bereits verloren hatten. Der Verlust zog sich über weitere neun Jahre Streit hin.
-
 ---
 
 ## Der Grenzstreit zwischen Trąbczyn und Łukom

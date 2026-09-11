@@ -18,10 +18,6 @@ has documents on the site so far. The other two exist in the research and in arc
 Poznań, Warsaw and Berlin, and are named here rather than left out, so that what is absent
 is at least visible.
 
-A note on what an era means here. It is an editorial judgement about which story a document
-belongs to, not a date range. Most of the documents in the Hohenlohe era are dated after
-the Hohenlohes had lost the estate, because losing it took another nine years of argument.
-
 ---
 
 ## The Trąbczyn and Łukom boundary dispute

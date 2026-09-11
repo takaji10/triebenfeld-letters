@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Hohenlohe-Ingelfingen years
-standfirst: 1796 to 1816. A Prussian prince is given a Polish estate he has never seen, and spends twenty years failing to turn it into money. The first era of the archive to be published.
+standfirst: 1798 to 1816. Prussia takes Trąbczyn in the partition, the King gives it away, and the estate is broken into holdings and let out to the people who work it. The first era of the archive to be published.
 permalink: /hohenlohe/
 lang: en
 alt_url: /de/hohenlohe/
@@ -11,36 +11,39 @@ era: hohenlohe
 *This is one of three eras. See [the story]({{ '/the-story/' | relative_url }}) for the
 other two, which are not yet published.*
 
-This era holds 348 documents, written between 1798 and 1816. They come from two archival
-files and they read very differently. One is eighteen years of letters from an estate agent
-to his employer: hard going on their own, since they open in the middle of business and
-assume you know everyone, but in order they turn out to be a single continuous story about
-a man trying to save another man's fortune and failing. The other is a volume of title deeds: the contracts by which the estate was sold off and let out, with the settlers named
-in them. The letters say what was intended. The deeds say what was signed.
+This era holds 348 documents, dated between 1798 and 1816, from two archival files.
+
+One is a volume of title deeds: the contracts by which the estate was divided, let out and
+sold, naming the settlers who took the holdings and the terms they took them on. The other
+is eighteen years of letters from the agent who ran the place for an absent owner, and they
+are hard going on their own, since they open in the middle of business and assume you know
+everyone. Read together, the two answer different questions. The deeds record what was
+agreed. The letters record what the agent wanted, what he feared, and what he told his
+employer had gone wrong.
 
 Every claim below links to the letter it comes from, so you can leave this page at any
 point and go to the evidence.
 
-## The two men
+## Who ran the estate
 
 Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen (1746 to 1818) was a Prussian general
 and a prince of the Holy Roman Empire. After the Third Partition of Poland in 1795 the
 Prussian crown granted him estates in the newly annexed province of South Prussia:
 Zagorowo, Trąbczyn, Kaemen and others, lying around Konin and Kalisz in what is now
-central Poland. On paper he was a very rich man. In practice the grant was the beginning
-of his ruin.
+central Poland. The grant was large and it was encumbered, and he spent the rest of his
+life trying to get money out of it.
 
 Peter Friedrich von Triebenfeld, Kriegs- und Forstrath, or Councillor of War and Forests,
-was the man who had to make the grant pay. He wrote most of what you will read here. His
-position is more uncomfortable than either servant or friend: a professional who becomes
-personally liable for his employer's debts and then cannot get free of them. He signs
-himself *unterthänigster Diener*, most humble servant, in letter after letter, while
-telling the Prince with steadily less ceremony that he is being ruined on his behalf.
+was the man who had to make the grant pay, and he wrote most of the letters here. He
+signed for his employer's debts himself, which is why the correspondence runs on so long
+after the estate was gone: he could not get free of them. He signs himself *unterthänigster
+Diener*, most humble servant, while telling the Prince with steadily less ceremony that he
+is being ruined on his behalf.
 
 Almost everything below is Triebenfeld writing to the Prince. Where the direction reverses,
 or a third party writes, the page says so.
 
-## I. A gift that could not be spent, 1798 to 1800
+## I. The grant, and the attempt to trade it away, 1798 to 1800
 
 The correspondence opens with a scheme. The Polish estates were scattered, encumbered and
 hard to manage from Silesia, so the Prince wanted to trade them to the crown for two
@@ -71,10 +74,9 @@ Everything after this follows from that failure. The Prince keeps estates he can
 afford, and the correspondence stops being about acquiring land and becomes about
 extracting money from it.
 
-## II. Selling the land to save it, 1800 to 1806
+## II. The estate is broken up, 1800 to 1806
 
-The next six years are estate triage, and more interesting than that sounds, because
-Triebenfeld's solution was colonisation. Break the demesne into parcels, settle farmers on
+Triebenfeld's answer to the debts was colonisation. Break the demesne into parcels, settle farmers on
 them under hereditary lease, and turn land into a permanent stream of rent.
 
 He recruited hard and widely. Moravian Brethren from Bohemia, whom the letters call
@@ -88,7 +90,7 @@ word itself: ["die Hauländer oder Collonisten"]({{ '/documents/oe1bu9454/216/' 
 
 What that meant on paper is in the deeds. In April 1805 Triebenfeld signed a
 [punctation]({{ '/documents/oe1bu14526/15/' | relative_url }}) making over 270 *Hufen* out
-of Trąbczyn, Łazy, Osiny, Neudorff and Przybysław. The contract does its own reckoning: thirty *Morgen* to the *Hufe*, which puts it near two thousand hectares. The price was 300 Reichsthaler the *Hufe*, and fifteen more every year in rent that could never be bought out. New villages were to be laid out in two straight lines, with thirteen free
+of Trąbczyn, Łazy, Osiny, Neudorff and Przybysław, at 300 Reichsthaler the *Hufe*, and fifteen more every year in rent that could never be bought out. New villages were to be laid out in two straight lines, with thirteen free
 *Morgen* set aside in each for the schoolmaster, the village head and the churchyard. The
 Crown had licensed the breaking-up the year before, and that licence is filed with
 [another of the contracts]({{ '/documents/oe1bu14526/8/' | relative_url }}).
@@ -122,9 +124,8 @@ having signed.
 > <cite>[Letter 158]({{ '/documents/oe1bu9454/158/' | relative_url }})</cite>
 {: .pull}
 
-In the middle of this, in April 1804, the correspondence shows you what the work cost him.
-Triebenfeld sends the Prince a draft reply for approval and asks that someone else make
-the fair copies:
+In April 1804 Triebenfeld sends the Prince a draft reply for approval and asks that
+someone else make the fair copies:
 
 > I am as though crushed, and, since my good wife is being laid to rest today, I have
 > withdrawn with the children to my brother-in-law's.
@@ -132,7 +133,7 @@ the fair copies:
 
 He then finishes the business of the letter.
 
-## III. The year everything broke, 1806 to 1807
+## III. War, and the estate changes hands, 1806 to 1807
 
 In the autumn of 1806 Prussia was destroyed as a military power in a week. The Prince
 commanded at Jena and capitulated at Prenzlau, and his career ended there.
@@ -179,7 +180,7 @@ same official, Hawich, signs both. The lord had lost the estate and the state ab
 changed hands, and the court went on perfecting the title of a man named Gottlieb Sarre to
 a Hufe and a half of cleared forest.
 
-## IV. Thirty-one lawsuits, 1808 to 1812
+## IV. Litigation, and the settlers in arrears, 1808 to 1812
 
 By 1808 the creditors had reached Triebenfeld personally. He was
 [arrested in Berlin by two French gendarmes]({{ '/documents/oe1bu9454/30/' | relative_url }}) as the
@@ -223,7 +224,7 @@ villages they came from: Martin Giering from Racotten, Wilhelm Daniel Schulz fro
 Krolikower Holländ, Gottfried and Michael Dumel from Razoten, Gottfried Damt, and Christoph
 Schoenfisch from Trąbczyner Holländ. It is signed by marks.
 
-## V. Vienna, 1814 to 1815
+## V. The claim at the Congress of Vienna, 1814 to 1815
 
 In the autumn of 1814 Triebenfeld was sent to the Congress of Vienna to petition for the
 restitution of the Polish estates.
@@ -261,7 +262,7 @@ francs on Bonaparte's head, and then with the news that he
 [stands almost at the Rhine with 200,000 men]({{ '/documents/oe1bu9454/286/' | relative_url }}). The
 Congress, and the Prince's case with it, was simply suspended.
 
-## VI. Endings, 1815 to 1816
+## VI. The last of it, 1815 to 1816
 
 The relationship curdles. The Prince's letters turn cold, and Triebenfeld
 [answers three of them point by point]({{ '/documents/oe1bu9454/273/' | relative_url }}), defending his
