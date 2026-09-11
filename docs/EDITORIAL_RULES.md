@@ -45,7 +45,10 @@ sentence, which is an editorial act.
   is Königsberg. Where the proposed form is a place the canon already knows,
   correct it. The one exception is the exception that matters: a change that
   moves a reading between **Trąbczyn, Wrąbczyn and Wrąbczynek** alters which
-  village is meant, and only the editor makes it.
+  village is meant, and only the editor makes it. Note what is NOT evidence for
+  such a change: the three are neighbours, so a letter written at Trąbczyn may
+  perfectly well discuss Wrąbczyn, and two of them named in one letter is
+  ordinary rather than suspicious.
 
 - **Names.** Of people and of places. `Wittowes`, `Breschlau`, `Marianton`,
   `Rzadkowski` stay as written. A name silently improved destroys the evidence
