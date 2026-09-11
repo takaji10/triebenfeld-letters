@@ -1,107 +1,193 @@
 status: draft
 segments:
 - page: 1
-  en: 'Actum Trąbczyn, the 10 May 1805. Before the undersigned Patrimonial Court there appeared
+  en: 'Actum Trąbczyn, the 10th of May 1805. Before the undersigned patrimonial court there appeared:
 
 
-    1., Herr Councillor of War and Forests v. Triebenfeld, as the known General Plenipotentiary of His
-    Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary lord and lord of the court
-    of the estates here, on the one part
+    1., the Councillor of War and Forests von Triebenfeld, as is known the general attorney of His Serene
+    Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary lord and lord of the court of the
+    estates here, on the one part,
 
 
     and
 
 
-    2., the forester H. George Friedrich Kammer of Pietrzykowo, on the other part. The parties are personally
-    known to the Subscripti, and their capacities for the execution of [uncertain: valid] transactions
-    are subject to no doubt.
+    2., the forester Mr. George Friedrich Kammer of Pietrzykowo on the other part. The parties are personally
+    known to the undersigned, and their capacity to execute [uncertain: valid] transactions is subject
+    to no doubt.
 
 
-    The same declare, freely and after due deliberation, for the protocol the following hereditary quit-rent
-    contract concluded between them, irrevocable and in nothing to be altered'
+    The same do voluntarily and after mature deliberation declare into the protocol the following hereditary
+    quit-rent contract concluded between them, irrevocable and in nothing to be altered'
+  names:
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Hohen lohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: other
+  - de: H. George Friedrich Kammer
+    en: George Friedrich Kammer
+    kind: person
+  - de: Pietrzykowo
+    en: Pietrzykowo
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  numbers:
+  - '10'
+  - '1805'
+  - '1.'
+  - '2.'
 - page: 2
-  en: '-able hereditary quit-rent contract, to the protocol.
+  en: 'hereditary quit-rent contract, into the protocol.
 
 
-    §. I. His Most Serene Highness namely grants in hereditary quit-rent, out of the demesne farm Przybysław
-    belonging to the Trąbczyn estates, 6 Hufen of clear arable land and in meadows within the boundaries
-    of the Trąbczyn estates 20 Morgen, together therefore 6 Hufen 20 Morgen, in words six Hufen twenty
-    Morgen Magdeburg [measure], to George Friedrich Kammer from now on and for perpetual times, together
-    with all the farm buildings situated at Przybisław, nothing at all excepted, as also the building
-    timber lying there upon the demesne farm.
+    §. I. His Most Serene Highness does, namely, grant out of the demesne farm Przybysław belonging to
+    the Trąbczyn estates 6 Hufen of clean arable land, and in meadow within the bounds of the Trąbczyn
+    estates 20 Morgen, thus together 6 Hufen 20 Morgen, written out: six Hufen twenty Morgen Magdeburg
+    measure, to George Friedrich Kammer from now on and for perpetual times in hereditary quit-rent, together
+    with all the farm buildings standing at Przybisław, nothing at all excepted therefrom, as likewise
+    the building timber lying there on the demesne farm.
 
 
-    §. II. The said Kammer pays as purchase-money for the [uncertain: rightful holdings] granted to him,
-    twenty Morgen'
+    §. II. Kammer pays as purchase money for the [uncertain: holdings] granted to him, twenty Morgen'
+  names:
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Przy bysław
+    en: Przybysław
+    kind: place
+  - de: Przybisław
+    en: Przybisław
+    kind: place
+  - de: George Friedrich Kammer
+    en: George Friedrich Kammer
+    kind: person
+  - de: Magdeburg.
+    en: Magdeburg
+    kind: place
+  numbers:
+  - I.
+  - '6'
+  - '20'
+  - '6'
+  - '20'
+  - II.
+  - '20'
 - page: 3
-  en: 'Magdeburg, together 2000 rt, in words two thousand Rthaler, and for the buildings 100 rt, in words
-    one hundred Rthaler, altogether therefore 2100 rthl., in words two thousand one hundred Rthaler; and
-    this, at Johanni of this year with 800 rt, in words eight hundred Rthaler, and at Christmas of this
-    year with 1300 rt, in words one thousand three hundred Rthaler, in cash and in good Prussian Courant
-    of the Treasury standard.
+  en: 'Magdeburg measure, together 2000 rt, written out: two thousand Rthl, and for the buildings 100
+    rt, written out: one hundred Rthl, hence in all 2100 Rthl, written out: two thousand one hundred Rthl,
+    and that at Midsummer of this year with 800 rt, written out: eight hundred Rthl, and at Christmas
+    of this year with 1300 rt, written out: one thousand three hundred Rthl, in cash and in good Prussian
+    Courant of full treasury weight.
 
 
-    §. III. The hereditary lessee binds himself for these acquired 6 Hufen 20 Morgen, from Johanni of
-    this year onward, to a perpetual hereditary quit-rent, which may never be raised or diminished, per
-    Hufe Magdeburg at 15 rt, in words fifteen Rthaler, hence for 6 Hufen 20 Morgen 100 rthl., in words
-    one hundred Rthaler, in'
+    §. III. The hereditary lessee binds himself for these acquired 6 Hufen 20 Morgen, from Midsummer of
+    this year onward, to a perpetual hereditary quit-rent, which may never be raised or diminished, of
+    15 rt per Hufe Magdeburg measure, written out: fifteen Rthl, hence for 6 Hufen 20 Morgen 100 Rthl,
+    written out: one hundred Rthl, in'
+  names:
+  - de: Magdeburg.
+    en: Magdeburg
+    kind: place
+  numbers:
+  - '2000'
+  - '100'
+  - '2100'
+  - '800'
+  - '1300'
+  - III.
+  - '6'
+  - '20'
+  - '15'
+  - '6'
+  - '20'
+  - '100'
 - page: 4
-  en: 'in Courant, in cash, and indeed yearly in two instalments, at Christmas and at Johanni, each time
-    with 50 rt, in words fifty Rthaler, yet not in advance, but to be paid after the expiry of each half
-    year, consequently at Christmas for the first time.
+  en: 'in Courant cash, and that annually in two instalments, at Christmas and at Midsummer, each time
+    with 50 rt, written out: fifty Rthl, yet not in advance but after the expiry of each half year, consequently
+    to be paid for the first time at Christmas.
 
 
-    §. IV. His establishment [uncertain: he] must effect himself at his own cost, and without his receiving
-    either now or in future timber or other building assistance; he likewise receives neither pasturage
-    nor timber rights upon the remaining manorial territory.
+    §. IV. He must effect his establishment himself, at his own cost and without receiving either now
+    or for the future timber or any other building assistance; he likewise receives neither right of pasturage
+    nor right of wood-taking on the remaining manorial territory.
 
 
-    §. V. The acquired [uncertain: six Hufen] 20 Morgen Magdeburg are to be measured out to the said Kammer
+    §. V. The 20 Morgen Magdeburg measure acquired [uncertain: by purchase] shall be measured out to Kammer
     as soon as possible'
+  names:
+  - de: komme
+    en: Kammer
+    kind: person
+  numbers:
+  - '50'
+  - IV.
+  - V.
+  - '20'
 - page: 5
-  en: 'and the same receives the winter and summer field unsown; however, for the cultivation of the present
-    summer field, for the carting out of the [uncertain: manure], the requisite team-service shall be
-    furnished by the ground-lordship, and indeed for two Hufen, this once, free of charge.
+  en: 'and the same receives winter and summer field unsown; yet for the working of the present summer
+    field, for the carting out of the dung, the requisite team-service shall be furnished him by the manorial
+    lordship, and that upon two Hufen for this once without charge.
 
 
-    §. VI. Besides the cash hereditary quit-rent, the hereditary lessee binds himself, for himself and
-    his successors in possession of these six Hufen 20 Morgen, to discharge all and every Royal taxes,
-    as also the dues to the Kloster Ląd and the levies to the clergy, chimney-money, forage deliveries,
-    and whatever else may occur, without any exception whatever,'
+    §. VI. Besides the cash hereditary quit-rent, the hereditary lessee obliges himself, for himself and
+    his successors in possession of these six Hufen 20 Morgen, to discharge all and every royal tax, as
+    likewise the quota due to the monastery of Ląd and the dues to the clergy, chimney money, forage delivery,
+    and whatever else may occur, without any exception whatsoever,'
+  names:
+  - de: Kloster Ląd
+    en: the monastery of Ląd
+    kind: place
+  numbers:
+  - VI.
+  - '20'
 - page: 6
-  en: 'without making or receiving on this account any remission of the hereditary quit-rent.
+  en: 'without making or obtaining on that account any remission of the hereditary quit-rent.
 
 
-    §. VII. The hereditary lessee shall take his drink of beer and brandy from the manorial tavern or
-    from the brew- and brandy-house, and in case of contravention shall pay to the ground-lordship as
-    penalty, for every Garniec of foreign brandy brought in, one Rthaler, and for every barrel of foreign
-    beer five Rthaler.
+    §. VII. The hereditary lessee must take his drink, in beer and brandy, from the manorial tavern or
+    the brew- and distilling-house, and in case of contravention must pay to the manorial lordship a fine
+    of one Rthl for every garniec of foreign brandy brought in and five Rthl for every barrel of foreign
+    beer.
 
 
     §. VIII. The hereditary lessee and his successors in possession are subject to the jurisdiction of
-    the Dominium here, yet are wholly and for all perpetual'
+    the manorial lordship (Dominium) here, yet are wholly and for ever'
+  numbers:
+  - VII.
+  - VIII.
 - page: 7
-  en: 'times exempted from all and every deliveries in kind and Hufe-services.
+  en: 'and perpetual times exempted from all and every delivery in kind and Hufe-service.
 
 
-    §. IX.
+    S. IX.
 
 
-    It stands free to the hereditary lessee and his successors in possession to [uncertain: alienate]
-    this acquired holding to another by sale or exchange; yet such must take place with the consent of
-    the ground-lordship, and upon every such change of possession there shall be paid to the ground-lordship,
-    out of the purchase-money or the amount of the exchange, the [uncertain: Groschen accustomed] as a
-    Laudemium. Upon inheritances to [uncertain: descendants] and collateral relations, no Laudemium is
-    paid.
+    The hereditary lessee and his successors in possession are at liberty to [uncertain: alienate] this
+    acquired holding to another by sale or by exchange; yet such must take place with the consent of the
+    manorial lordship, and upon every such change of possession there shall be paid to the manorial lordship,
+    out of the purchase money or the sum given in exchange, the [uncertain: Groschen received] as a transfer
+    fee (Laudemium). Upon inheritance by [uncertain: direct] and collateral relations, no transfer fee
+    is paid.
 
 
     §. X. The hereditary lessee renounces, for himself and his successors in possession, all and every
     remission'
+  numbers:
+  - IX.
+  - X.
 - page: 8
-  en: 'in cases of misfortune, whether arising through fire from heaven, through the malice of wicked
-    people, crop failure, [uncertain: hail-stroke], inundation, cattle plague, war and pestilence, or
-    in any other manner whatsoever, entirely; and on this account no indemnification from the ground-lordship,
-    nor any remission of the hereditary quit-rent, shall ever accrue to them.
+  en: 'in cases of misfortune arising through fire from heaven, through arson by evil persons, crop failure,
+    hail, flood, cattle plague, war and pestilence, or in any other manner whatsoever, and on that account
+    there shall never accrue to them any indemnification from the manorial lordship or remission of the
+    hereditary quit-rent.
 
 
     §. XI. The costs of this contract and of its engrossment are paid by the hereditary lessee.
@@ -109,41 +195,51 @@ segments:
 
     §. XII. So long as the hereditary lessee and his successors in possession of this holding shall fulfil
     all the above obligations,'
+  numbers:
+  - XI.
+  - XII.
 - page: 9
-  en: 'the ground-lordship promises to protect them everywhere in their rights and to defend them against
+  en: 'the manorial lordship promises to protect them everywhere in their rights and to defend them against
     every man''s real claims.
 
 
-    But should the hereditary lessee and his successors lay this holding waste, or remain in arrears with
-    the yearly hereditary quit-rent for longer than two years, then this hereditary-lease contract ceases,
-    and the ground-lordship shall be entitled to dispose of this holding otherwise.
+    Should, however, the hereditary lessee and his successors lay this holding waste, or remain in arrears
+    with the yearly hereditary quit-rent for longer than two years, then this hereditary lease contract
+    shall cease and the manorial lordship shall be entitled to let out this holding otherwise.
 
 
-    Both parties promise to keep the foregoing hereditary quit-rent contract firmly and inviolably, and
-    renounce all'
+    Both parties promise to hold the foregoing hereditary quit-rent contract firmly and inviolably, and
+    renounce all legal'
+  numbers:
+  - zwey
 - page: 10
-  en: 'legal evasions available against it, in particular the objection of cunning persuasion, of precipitancy,
-    of an injury occurring above or below the half, of matters otherwise agreed than written down; and
-    they have been duly instructed by the court as to the consequences of this renunciation.
+  en: 'evasions available against it, particularly the objection of cunning persuasion, of precipitancy,
+    of an injury suffered above or below the half, and of matters otherwise agreed than written down;
+    and they have been duly instructed by the court as to the consequences of this renunciation.
 
 
-    His Most Serene Highness expressly consents that the hereditary lessee may, on the ground of this
-    contract, have the title of possession of this acquired holding entered in his own name.'
+    His Most Serene Highness expressly consents that the hereditary lessee may, upon the ground of this
+    contract, have the title of possession of this acquired holding [uncertain: registered] in his name.'
 - page: 11
   en: 'Further the contracting parties had nothing to bring forward; after this protocol had been read
-    over to them word for word, they approved the same throughout and subscribed it below with their own
-    hands.
-
-
-    Peter Friedrich August v. Triebenfeld
-
-
-    I have read and approve this contract
-
-    George Friedrich Kammer
+    over to them word for word, they approved the same throughout and have signed below in their own hands.
+    Peter Friedrich August von Triebenfeld. I have read and approve this contract. George Friedrich Kammer
 
 
     a. u. s. Schenck
 
 
     Brauer'
+  names:
+  - de: Peter Friedrich August v. Triebenfeld
+    en: Peter Friedrich August von Triebenfeld
+    kind: person
+  - de: George Friedrich Kammer
+    en: George Friedrich Kammer
+    kind: person
+  - de: Schenck
+    en: Schenck
+    kind: person
+  - de: Brauer
+    en: Brauer
+    kind: person

@@ -230,24 +230,430 @@
    "doc_line": 72
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince H. of Bartenstein",
+   "kind": "person",
+   "surface_de": "Prinzen H. von Bartenstein",
+   "surface_en": "Prince H. of Bartenstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Curl",
+   "kind": "person",
+   "surface_de": "Curl",
+   "surface_en": "Curl",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "ß",
+   "kind": "person",
+   "surface_de": "ß",
+   "surface_en": "ß",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Connus",
+   "kind": "person",
+   "surface_de": "Connus",
+   "surface_en": "Connus",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohischen",
+   "surface_en": "Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oels",
+   "kind": "place",
+   "surface_de": "Ols",
+   "surface_en": "Oels",
+   "page": 2
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wüstemberge",
+   "kind": "place",
+   "surface_de": "Wüstemberge",
+   "surface_en": "Wüstemberge",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Württemberg",
+   "kind": "person",
+   "surface_de": "K. von Würt",
+   "surface_en": "King of Württemberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Casperl Theatre",
+   "kind": "other",
+   "surface_de": "Casperln Theater",
+   "surface_en": "Casperl Theatre",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Vienna newspapers",
+   "kind": "other",
+   "surface_de": "Wiener Zeitungen",
+   "surface_en": "Vienna newspapers",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "King of Baum",
+   "kind": "person",
+   "surface_de": "König von Baum",
+   "surface_en": "King of Baum",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 3
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 3
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Brandreich",
+   "kind": "place",
+   "surface_de": "Brandreich",
+   "surface_en": "Brandreich",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Coblenz",
+   "kind": "place",
+   "surface_de": "Coblen",
+   "surface_en": "Coblenz",
+   "page": 3
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyern",
+   "surface_en": "Meyer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince Artois",
+   "kind": "person",
+   "surface_de": "Pr. Artois",
+   "surface_en": "Prince Artois",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Münst von Humboldt",
+   "kind": "person",
+   "surface_de": "Münst von Humboldt",
+   "surface_en": "Münst von Humboldt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Peace of Paris",
+   "kind": "other",
+   "surface_de": "Pariser Friedens",
+   "surface_en": "Peace of Paris",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! That His Serene Highness the Lord Prince Hardenberg now truly means well by Your Serene Highness is proved by the Prince's utterance to the Prince H. of Bartenstein. The discourse came round to the point that Your Serene Highness were named, whereupon the Prince at once replied: Yes, this honest man is the one who has suffered most, he has been frightfully treated, I am now taking up his cause in the most active manner — I wish above all to see him helped. — Everything now depends upon Your Serene Highness's declaration and upon the confirmation of my Memoirs by His Serene Highness — here indeed no contradiction must occur, for otherwise I am compromised with Hahn and the affair [takes] a tragic turn — whereas if everything is carried into effect according to our two Memoirs, the Prince will at once have the money given out to satisfy the Curl heirs, the King will annul the settlements, and Cosmar will be cast out and called to the heaviest account — everything else then follows of itself. — Friend ß moreover wishes, united with me, that we might obtain the most expeditious knowledge, by good Copies, of the result of the Commission and of the report of the High Court of Appeal [Ober Landes Gericht], and indeed, wherever at all possible, one post-day earlier than the report comes in to His Serene Highness the Prince State Chancellor — so that here everything may be forestalled. The blank forms [Blanquits] I await longingly, but above all the autograph letter of thanks to the Prince State Chancellor. — Tell that noble man, quite briefly, that you render him the [uncertain: youngest/most recent] thanks already for what has been done, etc., that thereby you may look with confidence and hope to the end of your sufferings, which the wicked Cosmar prepared for you; mention quite briefly / that Connus in the last 3 [text uncertain] gave you, instead of 72000 Rthl, only 2500 Rthl in all, that to cover this he made use even of your son's weakness, and that in this time you live so wretchedly and must even struggle with hunger, that Triebenfeld has not yet laid the matter out as it is in and of itself, etc. You laid, however, both your domestic and your military affairs in his hands, etc. etc."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThat His Serene Highness the Prince Hardenberg now truly means well by Your Serene Highness is proved by the Prince's remark to Prince H. of Bartenstein. The discourse turned upon Your Serene Highness being named, whereupon the Prince at once replied: Yes, this honest man is the one who has suffered most, he has been shockingly treated, I am now taking up his cause in the most active manner — I want him helped before all others — Everything now depends upon Your Serene Highness's declaration and upon the confirmation of my memorials by His Serene Highness — here there must be no contradiction whatever, for otherwise I am compromised with Hahn and the affair [takes] a tragic turn — whereas if everything is substantiated in accordance with both our memorials — the Prince will at once have the money paid out in order to satisfy the Curl heirs, the King will annul the settlement, and Cosmar will be cast out and called to the heaviest account — everything else will then follow of itself — Friend ß moreover wishes, together with me, that we might obtain the very speediest knowledge, by good copies, of the outcome of the Commission and of the report of the High Court of Appeal, and indeed, wherever possible, one post-day earlier than the report comes in to His Serene Highness the State Chancellor — so that one may forestall everything here.\n\nI look forward longingly to the blank forms, but above all to the thanksgiving letter in your own hand to the Prince State Chancellor — Tell this noble man, quite briefly, that you render him your [uncertain: youngest] thanks already for what has been done, etc., that you may thereby look with confidence to the end of your sufferings, which the wicked Cosmar has prepared for you; mention quite briefly / that Connus in the last 3 [years?] therefore gave you, instead of 72000 Rthl, only 2500 Rthl altogether, that he made use of your own son's weakness to cover this up, and that in this time you live so wretchedly and must even struggle with hunger, that Triebenfeld has not yet presented the matter as it is in and of itself, etc.; you have laid, however, both your domestic and your military affairs in his hands, etc. etc.",
+   "names": [
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen H. von Bartenstein",
+     "en": "Prince H. of Bartenstein",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Curl",
+     "en": "Curl",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "ß",
+     "en": "ß",
+     "kind": "person"
+    },
+    {
+     "de": "Connus",
+     "en": "Connus",
+     "kind": "person"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "72000",
+    "2500"
+   ]
   },
   {
    "page": 2,
-   "en": "I wish this because the Prince reads Your Serene Highness's letters — but whole files and protocols he has no time to read himself, and can only hear reports drawn from them. In the Hohenlohe affair work is going forward in the most active manner — a check has already been put upon the tyranny of the King, his power against the mediatised Princes is being greatly restricted, presumably Ols etc. will be taken as the norm. — The note concerning your expulsion, and the otherwise frightful treatment, and that concerning the [illegible] withdrawal of the 2000 mk. apanage of your Lord Brother, I cannot send today, because on account of the [uncertain: street mud / Gaßen Loth] I cannot go out of the house, and for driving I have no money; and Gärtner, since I can promise him nothing, has not been with me these 8 days. A time full of torment I pass here — I am to act in so odiously distorted a business — to fight a hydra of more than 9 heads, and I have nothing in my hands and nothing on my body. For shame I could often perish. Urgently I beg you, most gracious Lord, send but 100 ducats, otherwise I must go hungry — thus he has lent me 50 ducats, and these will be quite gone within a few days — if meanwhile this true friend is not to grow weary, and is to go on trusting, then I must hand him back the money, for he has his own people in Berlin to provide for, and therefore he himself has particular need of it toward the New Year. Let Your Serene Highness then by all means send the 100 ducats, likewise the papers noted overleaf, and support my children according to my request in Breslau. From the accompanying book a great part is borrowed as to how it is to be kept for the future in [uncertain: Württemberg / Wüstemberge]. In truest attachment and highest reverence I remain, until death, Your Serene Highness's\n\nVienna, the 20th December 1814.\n\nfaithful and most obedient servant\nv Triebenfeld"
+   "en": "I wish this because the Prince reads Your Serene Highness's letters — but has no time to read whole files and records himself, and can only hear reports drawn from them. In the Hohenlohe affair work is going forward in the most active manner — a stop has already been put to the King's tyranny, his power against the mediatised princes is being greatly restricted, presumably Oels etc. will be taken as the norm — the note concerning your expulsion, and the otherwise shocking treatment, that concerning\n\nthe [illegible] withdrawal of the 2000 mk. appanage of your lord brother I cannot send today, because on account of the [uncertain: street mud] I cannot leave the house, but have no money to ride, while Gärtner, since I can promise him nothing, has not been with me for 8 days.\n\nA time full of torment I pass here — I am to act in so odiously twisted a business — to fight a hydra of more than 9 heads, and I have nothing in my hands and nothing on my body. I could often perish for shame; I beg urgently, most gracious Lord, send only 100 ducats, otherwise I must go hungry — thus he has lent me 50 ducats, and these will be quite gone within a few days — if meanwhile this true friend is not to grow weary, and is to go on trusting, then I must hand the money over to him, for he has his own people to provide for in Berlin, and therefore he himself is in need of it, especially at the New Year. So do send, Your Serene Highness, the 100 ducats without fail, likewise the papers noted overleaf, and support my children in accordance with my request in Breslau. From the accompanying book a great part is borrowed, as to how it is to be conducted in future in the Wüstemberge.\n\nIn truest attachment and highest reverence I remain, until death, Your Serene Highness's\n\nVienna, the 20th of December\n\n1814.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Hohenlohischen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Ols",
+     "en": "Oels",
+     "kind": "place"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Wüstemberge",
+     "en": "Wüstemberge",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2000",
+    "8",
+    "9",
+    "100",
+    "50",
+    "100",
+    "20",
+    "1814"
+   ]
   },
   {
    "page": 3,
-   "en": "The K[ing] of Würt[temberg] departs in a couple of days; his appearance betokens the foulest humour. Only between the wings at the Casperl Theatre does the All-Highest countenance sometimes show itself in a transfigured radiance. — For the rest, it stands in today's Vienna newspapers that the King of Bavaria calls upon his subjects to report themselves if any of them have claims in France, be it against the King or the State — whoever is too weak to do this before the French Commission is to bring it forward before a Commission to be appointed by him — the nation has undertaken to pay the King's debts. — Would it not be advisable that Meyer, or Your Serene Highness yourself, should bring to Prince Hardenberg's remembrance the 100000 [uncertain: Er dör] advanced to the King of France and sent to Coblenz by Meyer? — Meyer did in fact deliver the money there to the King and to Pr. Artois, and received 1000 Rthl for it. — Meyer's written undertaking from Pr. Artois for 240000 Livres could be made good in that connexion. — His Excellency Herr Minister von Humboldt will certainly do everything, and help vigorously. — But the reminder would have to be made quickly, since through His Excellency H. v. Humboldt the matter could still be best set on foot. — In the 19th § of the Peace of Paris all claims are fixed to be paid, and the State has ex post bound itself to pay the Royal debts which it contracted in its period of misfortune, with about 22 millions."
+   "en": "The King of Württemberg departs in a couple of days; his appearance betokens the foulest humour. Only between the wings at the Casperl Theatre does the All-Highest countenance sometimes show itself in transfigured radiance. For the rest, it stands in today's Vienna newspapers that the King of Baum calls upon his subjects to report themselves if anyone has claims in France, be it against the King or the State — whoever is too weak to do this before the French Commission shall bring it before a commission to be appointed by him — the nation is said to have undertaken to pay the King's debts — would it not be advisable that Meyer, or Your Serene Highness yourself, should bring to the Prince Hardenberg's remembrance the 100000 [uncertain: Er dör] advanced to the King of [uncertain: Brandreich] and sent to Coblenz by Meyer — Meyer did in fact deliver the money there to the King and Prince Artois, and received 1000 Rthl for it — Meyer's written undertaking from Prince Artois for 240000 livres could be made good in this connection — His Excellency [uncertain: Münst] von Humboldt will certainly do everything and help vigorously — but the reminder would have to be given quickly, because then the matter could still be set best afoot with His Excellency von Humboldt — in the 19th paragraph of the Peace of Paris all claims are fixed to be paid, and the State has bound itself ex post to pay the royal debts which it contracted in its period of misfortune, to about 22 millions.",
+   "names": [
+    {
+     "de": "K. von Würt",
+     "en": "King of Württemberg",
+     "kind": "person"
+    },
+    {
+     "de": "Casperln Theater",
+     "en": "Casperl Theatre",
+     "kind": "other"
+    },
+    {
+     "de": "Wiener Zeitungen",
+     "en": "Vienna newspapers",
+     "kind": "other"
+    },
+    {
+     "de": "König von Baum",
+     "en": "King of Baum",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Brandreich",
+     "en": "Brandreich",
+     "kind": "place"
+    },
+    {
+     "de": "Coblen",
+     "en": "Coblenz",
+     "kind": "place"
+    },
+    {
+     "de": "Meyern",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Pr. Artois",
+     "en": "Prince Artois",
+     "kind": "person"
+    },
+    {
+     "de": "Münst von Humboldt",
+     "en": "Münst von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Pariser Friedens",
+     "en": "Peace of Paris",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "100000",
+    "1000",
+    "240000",
+    "19",
+    "22"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! That His Serene Highness the Lord Prince Hardenberg now truly means well by Your Serene Highness is proved by the Prince's utterance to the Prince H. of Bartenstein. The discourse came round to the point that Your Serene Highness were named, whereupon the Prince at once replied: Yes, this honest man is the one who has suffered most, he has been frightfully treated, I am now taking up his cause in the most active manner — I wish above all to see him helped. — Everything now depends upon Your Serene Highness's declaration and upon the confirmation of my Memoirs by His Serene Highness — here indeed no contradiction must occur, for otherwise I am compromised with Hahn and the affair [takes] a tragic turn — whereas if everything is carried into effect according to our two Memoirs, the Prince will at once have the money given out to satisfy the Curl heirs, the King will annul the settlements, and Cosmar will be cast out and called to the heaviest account — everything else then follows of itself. — Friend ß moreover wishes, united with me, that we might obtain the most expeditious knowledge, by good Copies, of the result of the Commission and of the report of the High Court of Appeal [Ober Landes Gericht], and indeed, wherever at all possible, one post-day earlier than the report comes in to His Serene Highness the Prince State Chancellor — so that here everything may be forestalled. The blank forms [Blanquits] I await longingly, but above all the autograph letter of thanks to the Prince State Chancellor. — Tell that noble man, quite briefly, that you render him the [uncertain: youngest/most recent] thanks already for what has been done, etc., that thereby you may look with confidence and hope to the end of your sufferings, which the wicked Cosmar prepared for you; mention quite briefly / that Connus in the last 3 [text uncertain] gave you, instead of 72000 Rthl, only 2500 Rthl in all, that to cover this he made use even of your son's weakness, and that in this time you live so wretchedly and must even struggle with hunger, that Triebenfeld has not yet laid the matter out as it is in and of itself, etc. You laid, however, both your domestic and your military affairs in his hands, etc. etc.\n\nI wish this because the Prince reads Your Serene Highness's letters — but whole files and protocols he has no time to read himself, and can only hear reports drawn from them. In the Hohenlohe affair work is going forward in the most active manner — a check has already been put upon the tyranny of the King, his power against the mediatised Princes is being greatly restricted, presumably Ols etc. will be taken as the norm. — The note concerning your expulsion, and the otherwise frightful treatment, and that concerning the [illegible] withdrawal of the 2000 mk. apanage of your Lord Brother, I cannot send today, because on account of the [uncertain: street mud / Gaßen Loth] I cannot go out of the house, and for driving I have no money; and Gärtner, since I can promise him nothing, has not been with me these 8 days. A time full of torment I pass here — I am to act in so odiously distorted a business — to fight a hydra of more than 9 heads, and I have nothing in my hands and nothing on my body. For shame I could often perish. Urgently I beg you, most gracious Lord, send but 100 ducats, otherwise I must go hungry — thus he has lent me 50 ducats, and these will be quite gone within a few days — if meanwhile this true friend is not to grow weary, and is to go on trusting, then I must hand him back the money, for he has his own people in Berlin to provide for, and therefore he himself has particular need of it toward the New Year. Let Your Serene Highness then by all means send the 100 ducats, likewise the papers noted overleaf, and support my children according to my request in Breslau. From the accompanying book a great part is borrowed as to how it is to be kept for the future in [uncertain: Württemberg / Wüstemberge]. In truest attachment and highest reverence I remain, until death, Your Serene Highness's\n\nVienna, the 20th December 1814.\n\nfaithful and most obedient servant\nv Triebenfeld\n\nThe K[ing] of Würt[temberg] departs in a couple of days; his appearance betokens the foulest humour. Only between the wings at the Casperl Theatre does the All-Highest countenance sometimes show itself in a transfigured radiance. — For the rest, it stands in today's Vienna newspapers that the King of Bavaria calls upon his subjects to report themselves if any of them have claims in France, be it against the King or the State — whoever is too weak to do this before the French Commission is to bring it forward before a Commission to be appointed by him — the nation has undertaken to pay the King's debts. — Would it not be advisable that Meyer, or Your Serene Highness yourself, should bring to Prince Hardenberg's remembrance the 100000 [uncertain: Er dör] advanced to the King of France and sent to Coblenz by Meyer? — Meyer did in fact deliver the money there to the King and to Pr. Artois, and received 1000 Rthl for it. — Meyer's written undertaking from Pr. Artois for 240000 Livres could be made good in that connexion. — His Excellency Herr Minister von Humboldt will certainly do everything, and help vigorously. — But the reminder would have to be made quickly, since through His Excellency H. v. Humboldt the matter could still be best set on foot. — In the 19th § of the Peace of Paris all claims are fixed to be paid, and the State has ex post bound itself to pay the Royal debts which it contracted in its period of misfortune, with about 22 millions.",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThat His Serene Highness the Prince Hardenberg now truly means well by Your Serene Highness is proved by the Prince's remark to Prince H. of Bartenstein. The discourse turned upon Your Serene Highness being named, whereupon the Prince at once replied: Yes, this honest man is the one who has suffered most, he has been shockingly treated, I am now taking up his cause in the most active manner — I want him helped before all others — Everything now depends upon Your Serene Highness's declaration and upon the confirmation of my memorials by His Serene Highness — here there must be no contradiction whatever, for otherwise I am compromised with Hahn and the affair [takes] a tragic turn — whereas if everything is substantiated in accordance with both our memorials — the Prince will at once have the money paid out in order to satisfy the Curl heirs, the King will annul the settlement, and Cosmar will be cast out and called to the heaviest account — everything else will then follow of itself — Friend ß moreover wishes, together with me, that we might obtain the very speediest knowledge, by good copies, of the outcome of the Commission and of the report of the High Court of Appeal, and indeed, wherever possible, one post-day earlier than the report comes in to His Serene Highness the State Chancellor — so that one may forestall everything here.\n\nI look forward longingly to the blank forms, but above all to the thanksgiving letter in your own hand to the Prince State Chancellor — Tell this noble man, quite briefly, that you render him your [uncertain: youngest] thanks already for what has been done, etc., that you may thereby look with confidence to the end of your sufferings, which the wicked Cosmar has prepared for you; mention quite briefly / that Connus in the last 3 [years?] therefore gave you, instead of 72000 Rthl, only 2500 Rthl altogether, that he made use of your own son's weakness to cover this up, and that in this time you live so wretchedly and must even struggle with hunger, that Triebenfeld has not yet presented the matter as it is in and of itself, etc.; you have laid, however, both your domestic and your military affairs in his hands, etc. etc.\n\nI wish this because the Prince reads Your Serene Highness's letters — but has no time to read whole files and records himself, and can only hear reports drawn from them. In the Hohenlohe affair work is going forward in the most active manner — a stop has already been put to the King's tyranny, his power against the mediatised princes is being greatly restricted, presumably Oels etc. will be taken as the norm — the note concerning your expulsion, and the otherwise shocking treatment, that concerning\n\nthe [illegible] withdrawal of the 2000 mk. appanage of your lord brother I cannot send today, because on account of the [uncertain: street mud] I cannot leave the house, but have no money to ride, while Gärtner, since I can promise him nothing, has not been with me for 8 days.\n\nA time full of torment I pass here — I am to act in so odiously twisted a business — to fight a hydra of more than 9 heads, and I have nothing in my hands and nothing on my body. I could often perish for shame; I beg urgently, most gracious Lord, send only 100 ducats, otherwise I must go hungry — thus he has lent me 50 ducats, and these will be quite gone within a few days — if meanwhile this true friend is not to grow weary, and is to go on trusting, then I must hand the money over to him, for he has his own people to provide for in Berlin, and therefore he himself is in need of it, especially at the New Year. So do send, Your Serene Highness, the 100 ducats without fail, likewise the papers noted overleaf, and support my children in accordance with my request in Breslau. From the accompanying book a great part is borrowed, as to how it is to be conducted in future in the Wüstemberge.\n\nIn truest attachment and highest reverence I remain, until death, Your Serene Highness's\n\nVienna, the 20th of December\n\n1814.\n\nfaithful and most obedient servant\n\nv. Triebenfeld\n\nThe King of Württemberg departs in a couple of days; his appearance betokens the foulest humour. Only between the wings at the Casperl Theatre does the All-Highest countenance sometimes show itself in transfigured radiance. For the rest, it stands in today's Vienna newspapers that the King of Baum calls upon his subjects to report themselves if anyone has claims in France, be it against the King or the State — whoever is too weak to do this before the French Commission shall bring it before a commission to be appointed by him — the nation is said to have undertaken to pay the King's debts — would it not be advisable that Meyer, or Your Serene Highness yourself, should bring to the Prince Hardenberg's remembrance the 100000 [uncertain: Er dör] advanced to the King of [uncertain: Brandreich] and sent to Coblenz by Meyer — Meyer did in fact deliver the money there to the King and Prince Artois, and received 1000 Rthl for it — Meyer's written undertaking from Prince Artois for 240000 livres could be made good in this connection — His Excellency [uncertain: Münst] von Humboldt will certainly do everything and help vigorously — but the reminder would have to be given quickly, because then the matter could still be set best afoot with His Excellency von Humboldt — in the 19th paragraph of the Peace of Paris all claims are fixed to be paid, and the State has bound itself ex post to pay the royal debts which it contracted in its period of misfortune, to about 22 millions.",
  "summary_en": "Reports Hardenberg's remark to Prince H. of Bartenstein that Hohenlohe is the worst-treated of men and that he now champions his cause; urges an autograph letter of thanks and a declaration confirming Triebenfeld's Memoirs, lest he be compromised with Hahn, so the Curl heirs may be paid, the settlements annulled and Cosmar cast out. Asks for advance copies of the Commission and Ober Landes Gericht reports, blank forms, and 100 ducats, pleading hunger and 50 ducats borrowed. Suggests Meyer's French claims (240000 Livres from Pr. Artois) be pressed via Humboldt under §19 of the Peace of Paris.",
  "summary_de": "Bericht über Staatskanzler Hardenbergs wohlwollende Äußerung gegenüber dem Prinzen H. von Bartenstein; alles hänge nun an der Erklärung des Fürsten und der Bestätigung der Memoiren, damit die Curl'schen Erben befriedigt, die Vergleiche kassiert und Cosmar zur Rechenschaft gezogen würden. Erbeten werden Blanquits, ein eigenhändiges Dankschreiben an Hardenberg sowie schnelle Copien des Commissions- und Ober-Landes-Gerichts-Berichts. Klage über Not: dringende Bitte um 100 Ducaten, da 50 geliehene bald verbraucht seien; Hinweis auf Connus' 2500 statt 72000 Rthl, die Apanage von 2000 mk und Meyers Forderung von 240000 Livres an Artois."
 }

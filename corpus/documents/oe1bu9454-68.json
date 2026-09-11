@@ -250,24 +250,412 @@
    "doc_line": 84
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trapponin",
+   "kind": "place",
+   "surface_de": "Trapponin",
+   "surface_en": "Trapponin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konen",
+   "kind": "place",
+   "surface_de": "Konen",
+   "surface_en": "Konen",
+   "page": 1
+  },
+  {
+   "entity": "kwilecki",
+   "display": "Kwilecki",
+   "kind": "person",
+   "surface_de": "Kwilecki",
+   "surface_en": "Kwilecki",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "König",
+   "kind": "place",
+   "surface_de": "König",
+   "surface_en": "König",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kähmener",
+   "kind": "other",
+   "surface_de": "Kähmener",
+   "surface_en": "Kähmener",
+   "page": 2
+  },
+  {
+   "entity": "kwilecki",
+   "display": "Kwilecki",
+   "kind": "person",
+   "surface_de": "Kwilecki",
+   "surface_en": "Kwilecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lipschi",
+   "kind": "person",
+   "surface_de": "Lipschi",
+   "surface_en": "Lipschi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Traepisier",
+   "kind": "place",
+   "surface_de": "Traepisier",
+   "surface_en": "Traepisier",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dabilia",
+   "kind": "person",
+   "surface_de": "Dabilia",
+   "surface_en": "Dabilia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dqbsha",
+   "kind": "person",
+   "surface_de": "Dqbsha",
+   "surface_en": "Dqbsha",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lipilii",
+   "kind": "person",
+   "surface_de": "Lipilii",
+   "surface_en": "Lipilii",
+   "page": 2
+  },
+  {
+   "entity": "brzechsta",
+   "display": "Brzechsta",
+   "kind": "person",
+   "surface_de": "Brzechsta",
+   "surface_en": "Brzechsta",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stenger",
+   "kind": "person",
+   "surface_de": "Stenger",
+   "surface_en": "Stenger",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawen schitz",
+   "surface_en": "Schlawenschitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Korien",
+   "kind": "place",
+   "surface_de": "Korien",
+   "surface_en": "Korien",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "König",
+   "kind": "place",
+   "surface_de": "König",
+   "surface_en": "König",
+   "page": 3
+  },
+  {
+   "entity": "kwilecki",
+   "display": "Kwilecki",
+   "kind": "person",
+   "surface_de": "Kwilecki",
+   "surface_en": "Kwilecki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zielonacti",
+   "kind": "person",
+   "surface_de": "Zielonacti",
+   "surface_en": "Zielonacti",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Constantin",
+   "kind": "person",
+   "surface_de": "Constantin",
+   "surface_en": "Constantin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Kontop",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Honrichs arrived here this night; he has proved that all the statements of Hawich and consorts are false and untrue. The requisitions in money and grain, always levied by him under threat of military execution and rendered by him, which amount to 22000 Rthl, the colonists must, according to their contracts, hand over to Your Serene Highness when calm and peace come in. Honrichs, according to the proofs laid down, has not failed constantly to press for the imposition of execution upon the colonists; but this they never would concede, on political grounds; rather, everything has been demanded of Your Serene Highness alone, and it has been left to you to look to the subjects and colonists for it - at present he comes to fetch the original deed of donation concerning Trapponin. This must be produced in the original; on the 28th of this month the hearing stands at [uncertain: Konen] before the justice of the peace Kwilecki. I am therefore sending a messenger to Lombardini; he must send a mounted express to Your Serene Highness to fetch the original deed [uncertain: wertende] and send it to me at once by a messenger. Honrichs waits here for it. The matter is of the highest importance; may Your Serene Highness deign to enjoin the very greatest expedition, and if need be send the deed by express courier. I trust that you will then get the estates back speedily. This is a great object. [uncertain: Vervilechi] is justice of the peace this quarter, and much must be"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nHonrichs arrived here this night; he has furnished proof that all the statements of Hawich and his associates are false and untrue. The requisitions in money and grain which he always exacted by military execution, and which were given by him, amounting to 22000 Rthl, must, according to their contracts, be delivered up to Your Serene Highness by the colonists when calm and peace return. Honrichs, according to the proofs laid before [illegible], did not fail to press continually for execution to be laid upon the colonists, but this was never conceded on political grounds; instead, everything was demanded from Your Serene Highness alone, and it was left to you to look to the subjects and colonists for it - at present he comes to fetch the original deed of donation concerning Trapponin. This must be produced in the original; on the 28th of this month there is a hearing still at Konen before the justice of the peace Kwilecki. I am therefore sending a messenger to Lombardini; he must [send] a mounted express to Your Serene Highness [uncertain: sondern] to fetch the original deed [uncertain: wertende] and send it to me at once by a messenger. Honrichs was to wait here for it. The matter is of the highest importance; may Your Serene Highness deign to command the very greatest haste, and if need be send the deed by express courier. I hope thereby that you will then swiftly get the estates back. This is a great object. Kwilecki is justice of the peace this quarter, and much must then be",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Trapponin",
+     "en": "Trapponin",
+     "kind": "place"
+    },
+    {
+     "de": "Konen",
+     "en": "Konen",
+     "kind": "place"
+    },
+    {
+     "de": "Kwilecki",
+     "en": "Kwilecki",
+     "kind": "person"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "22000",
+    "28",
+    "28"
+   ]
   },
   {
    "page": 2,
-   "en": "done. The time is short: to the 28th there are only 10 days, and by then the deed must be here and Honrichs with it in König. He has 3 days' travel. The favourable moment must not be let slip, else the matter is lost - upon the original deed there is insistence after the [uncertain: Polish] manner. Honrichs must produce it. The court takes a Copy, and Your Serene Highness receives the same back. Only do not delay, gracious Lord - I beg you urgently for it - upon this matter the Kähmener too depend at the same time. So do rather send me the deed by express courier, and lose not a moment. Kwilecki sends me word that I should at once bring suit against Lipski, who took the [uncertain: Traepisier] estates from Your Serene Highness by force and handed them over to the Dąbska; for the Dąbska, who at once drew 15000 Rthl in ducats out of the estates, went off with it to Warsaw and has made away with the money, so that nothing is to be got from her - but Lipski, who as a judge acted infamously and is said to be a rich fellow, must and can make it good - I shall do the like. The [uncertain: Tod] Prefect Brzechsta writes: the Prince must have his estates back forthwith. Meanwhile I believe he will get them sooner than the decree is issued, for everything here will shortly be otherwise. Honrichs says the Russians were quite certainly advancing into the province of Warsaw, [uncertain: in part trembled], but the great mass was already wholly Russian in sentiment, and rejoiced. Oh, were this but to happen, then you, good Prince, should not only get your estates quickly, but more besides, and receive 3 [uncertain: Jachm] compensation for the damages suffered. But now send an instruction or ready money - I have, as God shall be merciful to me in the hour of death, not a [illegible] coin in the house; I"
+   "en": "done. The time is short - to the 28th there are only 10 days, and by then the deed must be here and Honrichs in König with it. He has 3 days' travel. The favourable moment must not be let pass, or the matter is lost - the original deed is insisted upon in the Polish manner. Honrichs must produce it. The court takes a copy, and Your Serene Highness will receive the same back. Only do not delay, Most gracious Lord - I beg you urgently for this - upon this matter the Kähmener also depend at the same time. So send me the deed by express courier rather than otherwise, and lose not a moment. Kwilecki sends me word that I am at once to bring suit against Lipschi, who took the Traepisier estates from Your Serene Highness by force and handed them over to the Dabilia; for the Dqbsha, who at once drew 15000 Rthl in ducats out of the estates, went with it to Warsaw and has made away with the money, so that nothing is to be got from her - but Lipilii, who acted infamously as a judge and is said to be a rich fellow, must and can make it good - I shall do the same.\n\nThe late prefect Brzechsta writes: the Prince must have his estates back forthwith. Meanwhile I believe he will get them sooner than the decree is issued, for everything here will shortly alter. Honrichs says the Russians were quite certainly advancing into the province of Warsaw, [uncertain: in the part] trembled, but the great mass was already wholly Russian in sentiment and rejoiced. Oh, if only this came to pass - then you, good Prince, should have not only your estates quickly but more besides, and receive 3 [uncertain: Jachm] in compensation for the damages suffered.\n\nBut now send an order to pay or ready money - as God shall be gracious to me in my dying hour, I have not a [illegible] coin in the house, I",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "König",
+     "kind": "place"
+    },
+    {
+     "de": "Kähmener",
+     "en": "Kähmener",
+     "kind": "other"
+    },
+    {
+     "de": "Kwilecki",
+     "en": "Kwilecki",
+     "kind": "person"
+    },
+    {
+     "de": "Lipschi",
+     "en": "Lipschi",
+     "kind": "person"
+    },
+    {
+     "de": "Traepisier",
+     "en": "Traepisier",
+     "kind": "place"
+    },
+    {
+     "de": "Dabilia",
+     "en": "Dabilia",
+     "kind": "person"
+    },
+    {
+     "de": "Dqbsha",
+     "en": "Dqbsha",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Lipilii",
+     "en": "Lipilii",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechsta",
+     "en": "Brzechsta",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "28",
+    "10",
+    "3",
+    "15000",
+    "3"
+   ]
   },
   {
    "page": 3,
-   "en": "am nevertheless to feed the people, [uncertain: give money in wise], and make advances for costs - where am I to take anything from? My credit is stone dead - today my judge pawned his watch and borrowed 8 Rthl [uncertain: in coin] upon it, merely to be able to feed Stenger, Honrichs and consorts. 59 Rthl 18 g. I have already borrowed for this purpose and paid out; 185 Rthl remain still to be paid. - So send an instruction or ready gulden, at least 1000 Rthl, but Courant - then I shall work on and save everything for you. But if you send no money and not the deed, then, as truly as there is a God, I cannot work a straw further, and must commit everything to God, who may then help you and me. The gout is troubling me frightfully, so that the writing is only bitter blood [text lost] I remain, until death, as Your Serene Highness's [text lost]. The term is short until the 28th; deed and money must be in König early on the 28th - I am therefore sending this letter by express courier, which the [uncertain: most humble] Prince may deign to pay. In 48 hours you will have the express courier at Schlawenschitz. Send someone at once with the deed and money hither by [uncertain: express], who can then be here in at most 60 hours, and then all care is lifted and the business done. Henrichs has still 3 days' time; I am giving him money, so that he may travel on by post [uncertain: swoll] if his horses should [uncertain: give out] - and in that way he can still be in [uncertain: Korien] before the 28th. Deign, most gracious Prince, to take this well to heart. The dice lie at present upon the table - Kwilecki is judge for only 4 weeks more; then the coarse Zielonacki takes office again. There are 4 of them, who rotate every 3 months - if it moves you to see your property saved, then hasten to procure me what I have here said. For even if Constantin himself should come forward, it is well if one can already show judicial proofs of the Polish knaveries; one can then demand with double right. Kontop, the 18th of February 1810. faithful and obedient servant v Triebenfeld"
+   "en": "am nevertheless to feed the people, give [uncertain: Weise] money, and advance costs - where am I to take anything from? My credit is quite dead - today my judge pledged his watch and raised 8 Rthl in coin upon it, merely to be able to feed Stenger, Honrichs and their associates. 59 Rthl 18 Groschen I have already borrowed for this purpose and paid out; 185 Rthl remain to be paid. - So send an order to pay, or ready gulden, at least 1000 Rthl, but Courant - then I shall work on and save everything for you. But if you send no money and not the deed, then, as truly as there is a God, I cannot work a straw further, and must commit all to God, who may then help you and me.\n\nThe [uncertain: gout] afflicts me dreadfully, the writing costs me only bitter blood; with that I remain, until death,\n\nYour Serene Highness's - Sir, the term is short to the 28th; deed and money must be in König on the morning of the 28th - I am therefore sending this letter by express courier, which the Most Serene Prince will deign to pay for. Within 48 hours you will have the express courier at Schlawenschitz. You will at once send someone here with the deed and the money by express courier, who can be here in at most 60 hours, and then all care is removed and the thing is done. Honrichs then still has 3 days' time; I am giving him money so that he may travel on further by post [uncertain: schwoll] if his horses give out - and in that way he can still be in Korien before the 28th. Deign, most gracious Prince, to take this well to heart. The dice lie upon the table at present - Kwilecki is judge for only 4 weeks more, and then the coarse Zielonacti comes on again. There are 4 of them who change every 3 months. - If it moves you to see your property saved, then make haste to attend to what I have said here. For even if Constantin himself were to come forward, it is well if one can already show judicial proofs of the Polish knaveries; one can then demand with double right.\n\nKontop, the 18th of February\n\n1810.\n\nfaithful and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Stenger",
+     "en": "Stenger",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawen schitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Korien",
+     "en": "Korien",
+     "kind": "place"
+    },
+    {
+     "de": "König",
+     "en": "König",
+     "kind": "place"
+    },
+    {
+     "de": "Kwilecki",
+     "en": "Kwilecki",
+     "kind": "person"
+    },
+    {
+     "de": "Zielonacti",
+     "en": "Zielonacti",
+     "kind": "person"
+    },
+    {
+     "de": "Constantin",
+     "en": "Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "59",
+    "18",
+    "185",
+    "1000",
+    "28",
+    "28",
+    "48",
+    "60",
+    "3",
+    "28",
+    "4",
+    "4",
+    "3",
+    "18",
+    "1810"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Honrichs arrived here this night; he has proved that all the statements of Hawich and consorts are false and untrue. The requisitions in money and grain, always levied by him under threat of military execution and rendered by him, which amount to 22000 Rthl, the colonists must, according to their contracts, hand over to Your Serene Highness when calm and peace come in. Honrichs, according to the proofs laid down, has not failed constantly to press for the imposition of execution upon the colonists; but this they never would concede, on political grounds; rather, everything has been demanded of Your Serene Highness alone, and it has been left to you to look to the subjects and colonists for it - at present he comes to fetch the original deed of donation concerning Trapponin. This must be produced in the original; on the 28th of this month the hearing stands at [uncertain: Konen] before the justice of the peace Kwilecki. I am therefore sending a messenger to Lombardini; he must send a mounted express to Your Serene Highness to fetch the original deed [uncertain: wertende] and send it to me at once by a messenger. Honrichs waits here for it. The matter is of the highest importance; may Your Serene Highness deign to enjoin the very greatest expedition, and if need be send the deed by express courier. I trust that you will then get the estates back speedily. This is a great object. [uncertain: Vervilechi] is justice of the peace this quarter, and much must be\n\ndone. The time is short: to the 28th there are only 10 days, and by then the deed must be here and Honrichs with it in König. He has 3 days' travel. The favourable moment must not be let slip, else the matter is lost - upon the original deed there is insistence after the [uncertain: Polish] manner. Honrichs must produce it. The court takes a Copy, and Your Serene Highness receives the same back. Only do not delay, gracious Lord - I beg you urgently for it - upon this matter the Kähmener too depend at the same time. So do rather send me the deed by express courier, and lose not a moment. Kwilecki sends me word that I should at once bring suit against Lipski, who took the [uncertain: Traepisier] estates from Your Serene Highness by force and handed them over to the Dąbska; for the Dąbska, who at once drew 15000 Rthl in ducats out of the estates, went off with it to Warsaw and has made away with the money, so that nothing is to be got from her - but Lipski, who as a judge acted infamously and is said to be a rich fellow, must and can make it good - I shall do the like. The [uncertain: Tod] Prefect Brzechsta writes: the Prince must have his estates back forthwith. Meanwhile I believe he will get them sooner than the decree is issued, for everything here will shortly be otherwise. Honrichs says the Russians were quite certainly advancing into the province of Warsaw, [uncertain: in part trembled], but the great mass was already wholly Russian in sentiment, and rejoiced. Oh, were this but to happen, then you, good Prince, should not only get your estates quickly, but more besides, and receive 3 [uncertain: Jachm] compensation for the damages suffered. But now send an instruction or ready money - I have, as God shall be merciful to me in the hour of death, not a [illegible] coin in the house; I\n\nam nevertheless to feed the people, [uncertain: give money in wise], and make advances for costs - where am I to take anything from? My credit is stone dead - today my judge pawned his watch and borrowed 8 Rthl [uncertain: in coin] upon it, merely to be able to feed Stenger, Honrichs and consorts. 59 Rthl 18 g. I have already borrowed for this purpose and paid out; 185 Rthl remain still to be paid. - So send an instruction or ready gulden, at least 1000 Rthl, but Courant - then I shall work on and save everything for you. But if you send no money and not the deed, then, as truly as there is a God, I cannot work a straw further, and must commit everything to God, who may then help you and me. The gout is troubling me frightfully, so that the writing is only bitter blood [text lost] I remain, until death, as Your Serene Highness's [text lost]. The term is short until the 28th; deed and money must be in König early on the 28th - I am therefore sending this letter by express courier, which the [uncertain: most humble] Prince may deign to pay. In 48 hours you will have the express courier at Schlawenschitz. Send someone at once with the deed and money hither by [uncertain: express], who can then be here in at most 60 hours, and then all care is lifted and the business done. Henrichs has still 3 days' time; I am giving him money, so that he may travel on by post [uncertain: swoll] if his horses should [uncertain: give out] - and in that way he can still be in [uncertain: Korien] before the 28th. Deign, most gracious Prince, to take this well to heart. The dice lie at present upon the table - Kwilecki is judge for only 4 weeks more; then the coarse Zielonacki takes office again. There are 4 of them, who rotate every 3 months - if it moves you to see your property saved, then hasten to procure me what I have here said. For even if Constantin himself should come forward, it is well if one can already show judicial proofs of the Polish knaveries; one can then demand with double right. Kontop, the 18th of February 1810. faithful and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nHonrichs arrived here this night; he has furnished proof that all the statements of Hawich and his associates are false and untrue. The requisitions in money and grain which he always exacted by military execution, and which were given by him, amounting to 22000 Rthl, must, according to their contracts, be delivered up to Your Serene Highness by the colonists when calm and peace return. Honrichs, according to the proofs laid before [illegible], did not fail to press continually for execution to be laid upon the colonists, but this was never conceded on political grounds; instead, everything was demanded from Your Serene Highness alone, and it was left to you to look to the subjects and colonists for it - at present he comes to fetch the original deed of donation concerning Trapponin. This must be produced in the original; on the 28th of this month there is a hearing still at Konen before the justice of the peace Kwilecki. I am therefore sending a messenger to Lombardini; he must [send] a mounted express to Your Serene Highness [uncertain: sondern] to fetch the original deed [uncertain: wertende] and send it to me at once by a messenger. Honrichs was to wait here for it. The matter is of the highest importance; may Your Serene Highness deign to command the very greatest haste, and if need be send the deed by express courier. I hope thereby that you will then swiftly get the estates back. This is a great object. Kwilecki is justice of the peace this quarter, and much must then be\n\ndone. The time is short - to the 28th there are only 10 days, and by then the deed must be here and Honrichs in König with it. He has 3 days' travel. The favourable moment must not be let pass, or the matter is lost - the original deed is insisted upon in the Polish manner. Honrichs must produce it. The court takes a copy, and Your Serene Highness will receive the same back. Only do not delay, Most gracious Lord - I beg you urgently for this - upon this matter the Kähmener also depend at the same time. So send me the deed by express courier rather than otherwise, and lose not a moment. Kwilecki sends me word that I am at once to bring suit against Lipschi, who took the Traepisier estates from Your Serene Highness by force and handed them over to the Dabilia; for the Dqbsha, who at once drew 15000 Rthl in ducats out of the estates, went with it to Warsaw and has made away with the money, so that nothing is to be got from her - but Lipilii, who acted infamously as a judge and is said to be a rich fellow, must and can make it good - I shall do the same.\n\nThe late prefect Brzechsta writes: the Prince must have his estates back forthwith. Meanwhile I believe he will get them sooner than the decree is issued, for everything here will shortly alter. Honrichs says the Russians were quite certainly advancing into the province of Warsaw, [uncertain: in the part] trembled, but the great mass was already wholly Russian in sentiment and rejoiced. Oh, if only this came to pass - then you, good Prince, should have not only your estates quickly but more besides, and receive 3 [uncertain: Jachm] in compensation for the damages suffered.\n\nBut now send an order to pay or ready money - as God shall be gracious to me in my dying hour, I have not a [illegible] coin in the house, I\n\nam nevertheless to feed the people, give [uncertain: Weise] money, and advance costs - where am I to take anything from? My credit is quite dead - today my judge pledged his watch and raised 8 Rthl in coin upon it, merely to be able to feed Stenger, Honrichs and their associates. 59 Rthl 18 Groschen I have already borrowed for this purpose and paid out; 185 Rthl remain to be paid. - So send an order to pay, or ready gulden, at least 1000 Rthl, but Courant - then I shall work on and save everything for you. But if you send no money and not the deed, then, as truly as there is a God, I cannot work a straw further, and must commit all to God, who may then help you and me.\n\nThe [uncertain: gout] afflicts me dreadfully, the writing costs me only bitter blood; with that I remain, until death,\n\nYour Serene Highness's - Sir, the term is short to the 28th; deed and money must be in König on the morning of the 28th - I am therefore sending this letter by express courier, which the Most Serene Prince will deign to pay for. Within 48 hours you will have the express courier at Schlawenschitz. You will at once send someone here with the deed and the money by express courier, who can be here in at most 60 hours, and then all care is removed and the thing is done. Honrichs then still has 3 days' time; I am giving him money so that he may travel on further by post [uncertain: schwoll] if his horses give out - and in that way he can still be in Korien before the 28th. Deign, most gracious Prince, to take this well to heart. The dice lie upon the table at present - Kwilecki is judge for only 4 weeks more, and then the coarse Zielonacti comes on again. There are 4 of them who change every 3 months. - If it moves you to see your property saved, then make haste to attend to what I have said here. For even if Constantin himself were to come forward, it is well if one can already show judicial proofs of the Polish knaveries; one can then demand with double right.\n\nKontop, the 18th of February\n\n1810.\n\nfaithful and obedient servant\n\nv Triebenfeld",
  "summary_en": "Honrichs has arrived and disproved the claims of Hawich and consorts, showing the 22000 Rthl of money and grain requisitions must be repaid by the colonists under their contracts. Triebenfeld urgently demands the original deed of donation for Trapponin for the hearing before the justice of the peace Kwilecki on the 28th, to be sent by express courier to König, together with at least 1000 Rthl Courant; he is penniless, has borrowed 59 Rthl 18 g and owes 185 Rthl, and proposes suing Lipski, who gave the estates to the Dąbska.",
  "summary_de": "Honrichs ist eingetroffen und hat die Angaben von Hawich und Consorten widerlegt; die von ihm unter Androhung militärischer Execution erhobenen Requisitionen von 22000 Rthl seien von den Colonisten zu ersetzen. Dringend erbeten wird die Original-Schenkungsurkunde über Trapponin für den Termin am 28. vor dem Friedensrichter Kwilecki in König, dazu wenigstens 1000 Rthl Courant, da 59 Rthl 18 g geborgt und 185 Rthl offen sind. Klage gegen Lipski wegen der an die Dąbska (15000 Rthl in Ducaten) gebrachten Güter; Nachricht vom russischen Vormarsch."
 }

@@ -1,59 +1,217 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Prince and Lord! Herr v. Sommer lately told me that a certain
-    v. Sobottendorff, with his 2 sons, was staying with Your Serene Highness, to whom you owed 40000 Rthl,
-    and who was in the highest degree very burdensome to him on that account. Despite my illness I have
-    considered how one might set this man at ease and at once discharge him with respect to his whole
-    claim. My advice is to lease Drzewce to v. Sobottendorff for 18 years; the rent is taken at 2000 Rthl
-    yearly, which comes for 18 years to 36000 Rthl. In Swixce 4 colonists' holdings are vacant, since
-    the holders declared themselves insolvent, and before the Court of Peace the matter was settled thus,
-    that if the two of them were given 200 Rthl and the one 100 Rthl, they would vacate the holdings at
-    once. The one with 100 Rthl has already been settled with, and the 200 Rthl have still to be procured.
-    These 4 holdings one gives, each reckoned at 1000 Rthl, to the two young Sobottendorffs; that would
-    amount to 40000 d_, and thus the debt would be extinguished. Sobottendorff gives back to His Serene
-    Highness our debt instrument, receipted, and Your Serene Highness gives him a receipt for the 18 years'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    Mr. p. Sommer told me lately that a certain von Sobottendorff, with his 2 sons, was staying with Your
+    Serene Highness, to whom You owed 40000 Rthl, and who was on that account most exceedingly troublesome
+    to You. Despite my illness I have given thought to how this man might be quieted and at once settled
+    with in respect of his whole claim.
+
+
+    My counsel is to lease Drzewce to von Sobottendorff for 18 years; the rent is reckoned yearly at 2000
+    Rthl, which amounts over 18 years to 36000 Rthl. In Swixce 4 colonists'' holdings are vacant, for
+    the possessors declared themselves insolvent, and before the court of conciliation the matter was
+    arranged, that if the 2 from Berlin were given 200 Rthl and the one 100 Rthl, they would vacate the
+    holdings at once. The one with 100 Rthl has already been settled with, and the 200 Rthl have still
+    to be found. These 4 holdings, each reckoned at 1000 Rthl, one gives to the two young Sobottendorffs;
+    that would amount to 40000 d_, and the debt would be discharged. Sobottendorff returns to Your Serene
+    Highness the bond of debt receipted, and Your Serene Highness gives him a receipt for the 18 years'''
+  names:
+  - de: Sommer
+    en: Sommer
+    kind: person
+  - de: v. Sobottendorff
+    en: von Sobottendorff
+    kind: person
+  - de: Sobottendorff
+    en: Sobottendorff
+    kind: person
+  - de: Drzewce
+    en: Drzewce
+    kind: place
+  - de: Swixce
+    en: Swixce
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  numbers:
+  - '2'
+  - '40000'
+  - '18'
+  - '2000'
+  - '18'
+  - '36000'
+  - '4'
+  - '2'
+  - '200'
+  - '100'
+  - '100'
+  - '200'
+  - '4'
+  - '1000'
+  - '40000'
+  - '18'
 - page: 2
-  en: 'rent. The interest from the commuted services, from the old peasants and from the [uncertain: Nybbel]
-    nevertheless remains Your Serene Highness''s, and no creditor can oppose himself on that account.
-    — Should Sobottendorff object that he loses the interest on the rent paid in advance, he may be told
-    that he must make this good for himself by good husbandry, and that by any other route he will still
-    have long to wait for his satisfaction. In case Your Serene Highness approves this proposal and Herr
-    v. Sobottendorff will enter into it, he must come to me at Blizanow with the utmost dispatch, where
-    I shall then, when I am able to travel, go with him to Drzewce, conclude the matter and send it in
-    to Your Serene Highness for execution. Next to this, Weigel has written a very [uncertain: kriegenden]
-    letter to me and asks my advice as to how he might come at the 50000 M and his interest. Were it Your
-    Serene Highness''s pleasure, I had here a corresponding plan. I should write to Weigel and advise
-    him to lease the demesne farm Kopoyno together with the propination rights for 9 years at 6000 Rthl
-    annually; this amounts for 9 years to 54000 Rthl. — Of the 4000 he must at once hand over 2000 Rthl
-    in cash to the treasury, which are said to be still outstanding from 1805 through the sequestrator
-    Badynski; as for the interest on the rent advanced, Herr Weigel may see how he brings it out by good
-    management — I shall tell him'
+  en: 'rent. The interest from the [uncertain: recherten] services, from the old peasants and from the
+    Nybbel nevertheless remains to Your Serene Highness, and no creditor can oppose himself on that account.
+    — Should Sobottendorff object that he would lose the interest on the rent paid in advance, it may
+    be said to him that he must recover the same by good husbandry, and that by any other way he would
+    still have long to wait for his satisfaction.
+
+
+    In case Your Serene Highness approves this proposal and Mr. von Sobottendorff will enter upon it,
+    he must come to me at Blizanow with all possible speed, where I then, when I shall be able to travel,
+    will go with him to Drzewce, conclude, and send the matter to Your Serene Highness for execution.
+    Next to this, Weigel has written me a very [uncertain: pressing] letter and asks my counsel how he
+    might come at the 50000 M and his interest. Were it that Your Serene Highness should be pleased, I
+    had here a like plan.
+
+
+    I would write to Weigel and advise him to lease the demesne farm Kopojno together with the propination
+    rights for 9 years at 6000 Rthl yearly; this amounts for 9 years to 54000 Rthl. — Of the 4000 he must
+    at once pay over 2000 Rthl in cash to the treasury, which are said to have remained outstanding from
+    1805 through the sequestrator Badynski; as to the interest on the rent advanced, Mr. Weigel may see
+    how he brings the same out by good management — I shall tell him'
+  names:
+  - de: Sobottendorff
+    en: Sobottendorff
+    kind: person
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: Drzewce
+    en: Drzewce
+    kind: place
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Kopoyno
+    en: Kopojno
+    kind: place
+  - de: Badynski
+    en: Badynski
+    kind: person
+  - de: Nybbel
+    en: Nybbel
+    kind: other
+  numbers:
+  - '50000'
+  - '9'
+  - '6000'
+  - '9'
+  - '54000'
+  - '4000'
+  - '2000'
+  - '1805'
 - page: 3
-  en: 'that he said that, standing as he does behind the Bayonne sum, he would probably never have anything
-    to reckon upon. Should this succeed for me, then Your Serene Highness would again be rid of 50000
-    Rthl, [uncertain: without] altering the substance of the estates. My 3rd plan would then be that Prince
-    August should pay off the 50000 Rthl coming to me at the Invalids'' Fund; the Invalids'' Fund would
-    in return have to cede it to me, and by this means all danger and execution would be removed for now
-    and for ever. I should never seek execution, and the Bayonne interest is covered 3-fold by the remaining
-    revenues. They amount yearly to 6000 Rthl, for the interest still outstanding must be extinguished
-    by the arrears of interest as now [uncertain: shown]; just so the matter now stands, that all interest-payers
-    must pro futuro pay the canon and the dues according to their contracts. Of the interest there would
-    remain, at the highest, after deduction of the Bayonne interest, over 4000 Rthl in cash to Your Serene
-    Highness. As soon as the Olesnice affair is concluded, these 2000 Rthl come in addition; from Wrąbczyn
-    a further 1000 Rthl a year might also fall due. Then you might count on 7000 Rthl, and would have
-    extinguished 90000 Rthl of debts'
+  en: 'that he said that, standing behind the Bayonne sum, he would likely never have anything to reckon
+    on. Should this succeed for me, Your Serene Highness would again be quit of 50000 Rthl without impairing
+    the substance of the estates. My 3rd plan would then be that Prince August should pay off the 50000
+    Rthl coming to me at the Invalids'' Fund; the Invalids'' Fund would have to cede to me in return,
+    and hereby every danger and execution would be removed for now and always. I would never seek execution,
+    and the Bayonne interest is in 3 respects covered by the remaining revenues. They amount yearly to
+    6000 Rthl, for the remaining interest must be discharged by the interest arrears now still [uncertain:
+    assigned]; thus the matter now stands, that all interest-payers must for the future pay the canon
+    and dues according to their contracts.
+
+
+    Of the interest there would then at most remain to Your Serene Highness, after deduction of the Bayonne
+    interest, over 4000 Rthl in cash. As soon as the Oleśnica matter is concluded these 2000 Rthl come
+    in addition; from Wrąbczyn too some 1000 Rthl yearly might further accrue. Then You could count on
+    7000 Rthl, would have 90000 Rthl of debts'
+  names:
+  - de: Bayonner
+    en: Bayonne
+    kind: other
+  - de: Fürst August
+    en: Prince August
+    kind: person
+  - de: Bayormes
+    en: Bayonne
+    kind: other
+  - de: Olesnicer
+    en: Oleśnica
+    kind: place
+  - de: Wrąbczyn
+    en: Wrąbczyn
+    kind: place
+  numbers:
+  - '50000'
+  - '3'
+  - '50000'
+  - '3'
+  - '6000'
+  - '4000'
+  - '2000'
+  - '1000'
+  - '7000'
+  - '90000'
 - page: 4
-  en: 'and after 9 years the revenues of Kopojno and the propination rights come in addition, whereby
-    you would draw an eternally secure revenue of circa 14 to 15000 Rthl. What may be obtainable in cash
-    at Olesnice and Wrąbczyn, when both suits shall have been won, I cannot determine exactly in these
-    times — meanwhile I count on at least 20000 Rthl in cash — that is, without the revenues [uncertain:
-    standing over]. It is sad that everything must be [uncertain: vindicated] by lawsuits, and these are
-    always dragged out beyond half an eternity — thus the Meierowitz affair stands in the Vocanda No.
-    6, that is, that 5 suits still stand before it, on which account I have already lain 4 weeks [uncertain:
-    waiting]. — Nothing can be forced. For the rest, Cabanis is now rendering account of everything that
-    has been received, what has been paid out in advance, and what stands outstanding in arrears, in the
-    presence of the Burgrave or komornik v. Chomanowski; I insist upon it, and Cabanis will bring the
-    accounts to you himself at Schlawenschitz, so that you may convince yourself before all the world
-    of what has been done and left undone here. — I remain, until death, Your Serene Highness''s Blizanow,
-    the 26th of June 1812, most obedient servant v Triebenfeld'
+  en: 'discharged, and after 9 years the incomes from Kopojno and the [uncertain: propriation] fall in,
+    whereby one would draw a perpetually secure revenue of circa 14 to 15000 Rthl. What may be obtainable
+    in cash at Oleśnica and Wrąbczyn, when both suits shall have been won, I cannot determine exactly
+    in these times — meanwhile I count at least on 20000 Rthl in cash — that is, apart from the revenues
+    set out overleaf. It is a sad thing that everything must be vindicated by lawsuits, and these are
+    forever dragged out beyond half an eternity — thus the Meierowitz suit stands in the [uncertain: Vocande]
+    No. 6, that is, there are still 5 suits standing before it, and I have already been lying in wait
+    for that for 4 weeks. Nothing can be forced. For the rest, Cabanis is now rendering account of everything
+    that has been taken in, what has been paid out in advance, and what stands outstanding in arrears,
+    in the presence of the burgrave or of the komornik von Chomanowski; I insist upon it. Cabanis will
+    bring the accounts himself to Schlawenschitz, so that You may be convinced before all the world of
+    what has here been done and left undone. — I remain, until death, Your Serene Highness''s
+
+
+    Blizanow, the 26th of June
+
+
+    1812
+
+
+    most obedient servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Kopojno
+    en: Kopojno
+    kind: place
+  - de: Olisnie
+    en: Oleśnica
+    kind: place
+  - de: Wrąbczyn
+    en: Wrąbczyn
+    kind: place
+  - de: Meierowitzsche
+    en: Meierowitz
+    kind: person
+  - de: Cabanis
+    en: Cabanis
+    kind: person
+  - de: Chomanowski
+    en: Chomanowski
+    kind: person
+  - de: Schlawenschitz
+    en: Schlawenschitz
+    kind: place
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '9'
+  - '14'
+  - '15000'
+  - '20000'
+  - '6'
+  - '5'
+  - '4'
+  - '26'
+  - '1812'

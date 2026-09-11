@@ -391,40 +391,1223 @@
    "doc_line": 159
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Klewiz",
+   "kind": "person",
+   "surface_de": "Klewiz",
+   "surface_en": "Klewiz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Havelberg",
+   "kind": "place",
+   "surface_de": "Havelberg",
+   "surface_en": "Havelberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Reinbeck",
+   "kind": "person",
+   "surface_de": "Reinbeck",
+   "surface_en": "Reinbeck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tropizin",
+   "kind": "place",
+   "surface_de": "Tropizin",
+   "surface_en": "Tropizin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Reinbech",
+   "kind": "person",
+   "surface_de": "Reinbech",
+   "surface_en": "Reinbech",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Reinb.",
+   "kind": "person",
+   "surface_de": "Reinb.",
+   "surface_en": "Reinb.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ruchel",
+   "kind": "person",
+   "surface_de": "Ruchel",
+   "surface_en": "Ruchel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "East Prussia",
+   "kind": "place",
+   "surface_de": "Ost Preußen",
+   "surface_en": "East Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Relitirente",
+   "kind": "person",
+   "surface_de": "Relitirente",
+   "surface_en": "Relitirente",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pomerania",
+   "kind": "place",
+   "surface_de": "Pommern",
+   "surface_en": "Pomerania",
+   "page": 2
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "SüdPreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dolfs",
+   "kind": "person",
+   "surface_de": "Dolfs",
+   "surface_en": "Dolfs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mollendorf",
+   "kind": "person",
+   "surface_de": "Mollendorf",
+   "surface_en": "Mollendorf",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "other",
+   "surface_de": "Kayser",
+   "surface_en": "Emperor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbzyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Grądzyn",
+   "kind": "place",
+   "surface_de": "Grądzyn",
+   "surface_en": "Grądzyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Friedrichsfeld",
+   "kind": "place",
+   "surface_de": "Friedrichsfeld",
+   "surface_en": "Friedrichsfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ludwigslust",
+   "kind": "place",
+   "surface_de": "Ludwigslust",
+   "surface_en": "Ludwigslust",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sophienberg",
+   "kind": "place",
+   "surface_de": "Sophienberg",
+   "surface_en": "Sophienberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Adelow",
+   "kind": "place",
+   "surface_de": "Adelow",
+   "surface_en": "Adelow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "old hut",
+   "kind": "place",
+   "surface_de": "alte hütte",
+   "surface_en": "old hut",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Augustinow",
+   "kind": "place",
+   "surface_de": "Augustinow",
+   "surface_en": "Augustinow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Emilienhein",
+   "kind": "place",
+   "surface_de": "Emilienhein",
+   "surface_en": "Emilienhein",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojno",
+   "surface_en": "Kopojno",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wildenbruch",
+   "kind": "place",
+   "surface_de": "Wildenbruch",
+   "surface_en": "Wildenbruch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schönau",
+   "kind": "place",
+   "surface_de": "Schönau",
+   "surface_en": "Schönau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Klein Ingelfingen",
+   "kind": "place",
+   "surface_de": "Klein Ingelfingen",
+   "surface_en": "Klein Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowe",
+   "surface_en": "Zagorowo",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Grądzyn",
+   "kind": "place",
+   "surface_de": "Grądzyn",
+   "surface_en": "Grądzyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Klein Ingelfingen",
+   "kind": "place",
+   "surface_de": "Klein Ingelfingen",
+   "surface_en": "Klein Ingelfingen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Alexandrow",
+   "kind": "place",
+   "surface_de": "Alexandrow",
+   "surface_en": "Alexandrow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Augustinow",
+   "kind": "place",
+   "surface_de": "Augustinow",
+   "surface_en": "Augustinow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Emilienhain",
+   "kind": "place",
+   "surface_de": "Emilienhain",
+   "surface_en": "Emilienhain",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Adolphsberg",
+   "kind": "place",
+   "surface_de": "Adolphsberg",
+   "surface_en": "Adolphsberg",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojno",
+   "surface_en": "Kopojno",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Friedrichsfelde",
+   "kind": "place",
+   "surface_de": "Friedrichsfelde",
+   "surface_en": "Friedrichsfelde",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ludwigslust",
+   "kind": "place",
+   "surface_de": "Ludwigslust",
+   "surface_en": "Ludwigslust",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sophienthal",
+   "kind": "place",
+   "surface_de": "Sophienthal",
+   "surface_en": "Sophienthal",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Adelowo",
+   "kind": "place",
+   "surface_de": "Adelowo",
+   "surface_en": "Adelowo",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Alte Pohlen",
+   "kind": "place",
+   "surface_de": "Alte Pohlen",
+   "surface_en": "Alte Pohlen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Skokum",
+   "kind": "place",
+   "surface_de": "Skokum",
+   "surface_en": "Skokum",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Justinsau",
+   "kind": "place",
+   "surface_de": "Justinsau",
+   "surface_en": "Justinsau",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kaschubowe",
+   "kind": "place",
+   "surface_de": "Kaschubowe",
+   "surface_en": "Kaschubowe",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Furstenfelde",
+   "kind": "place",
+   "surface_de": "Furstenfelde",
+   "surface_en": "Furstenfelde",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface_de": "Przybysław",
+   "surface_en": "Przybysław",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Klein Schrotzberg",
+   "kind": "place",
+   "surface_de": "Klein Schrotzberg",
+   "surface_en": "Klein Schrotzberg",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hellendorff",
+   "kind": "place",
+   "surface_de": "Hellendorff",
+   "surface_en": "Hellendorff",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Stetten[uncertain: i]feld",
+   "kind": "place",
+   "surface_de": "Stetten[i?]feld",
+   "surface_en": "Stetten[uncertain: i]feld",
+   "page": 4
+  },
+  {
+   "entity": "marianton",
+   "display": "Marianton",
+   "kind": "person",
+   "surface_de": "Marianton",
+   "surface_en": "Marianton",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyn",
+   "surface_en": "Wrąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 5
+  },
+  {
+   "entity": "radzinski",
+   "display": "Radzinski",
+   "kind": "person",
+   "surface_de": "Radzinski",
+   "surface_en": "Radzinski",
+   "page": 5
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 5
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Prusimska",
+   "surface_en": "Prusimska",
+   "page": 5
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 5
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Appenhumer",
+   "kind": "person",
+   "surface_de": "Appenhumer",
+   "surface_en": "Appenhumer",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Duke of Braunschweig",
+   "kind": "person",
+   "surface_de": "Herzog von Braunschweig",
+   "surface_en": "Duke of Braunschweig",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Chlebowski",
+   "kind": "person",
+   "surface_de": "Chlebowski",
+   "surface_en": "Chlebowski",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Vöhler",
+   "kind": "person",
+   "surface_de": "Vöhler",
+   "surface_en": "Vöhler",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Vielen",
+   "kind": "place",
+   "surface_de": "Vielen",
+   "surface_en": "Vielen",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Lenschitz",
+   "kind": "place",
+   "surface_de": "Lenschitz",
+   "surface_en": "Lenschitz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Colonel von Schlieben",
+   "kind": "person",
+   "surface_de": "Obrist v Schlieben",
+   "surface_en": "Colonel von Schlieben",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Mucrowis",
+   "kind": "person",
+   "surface_de": "Mucrowis",
+   "surface_en": "Mucrowis",
+   "page": 7
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Paretz",
+   "kind": "place",
+   "surface_de": "Paretz",
+   "surface_en": "Paretz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Ferdinand",
+   "kind": "person",
+   "surface_de": "Ferdinandschen",
+   "surface_en": "Ferdinand",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 7
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord,\n\nHere there is at present little to be settled, for everything is now in confusion on account of the mobilisation of the army. Klewiz had to hurry off to South Prussia yesterday, and to drive together the grain of the [uncertain: reading unclear]; Minister Voss sits in Havelberg and sings psalms, and therefore there is, in this [uncertain: Eachschlagt], nothing to be done for the moment. The approbation is being pressed forward by Privy Councillor Reinbeck, who intends to see to it at once, as soon as Voss returns, and to have it executed. Upon the approbation of the dismemberment the money business depends; as soon as I have this, the revenues stand free, and then I hope to obtain from the Invalids' Fund and from the Wards' Collegium the sum of the money needed for the payment of all debts. All this is set in train; meanwhile I cannot wait upon the thing, but must hurry back to Tropizin to work there. With Betsche the matter will and must likewise go forward. Reinbeck is Amelang's bosom and boyhood friend; through him everything will be capable of being pressed on. Should anyone be in any degree refractory, I have the promise of the most powerful protection from the Court. To Herr M[inister] v. Voss there went out yesterday from Potsdam an order that he should suspend the psalm-singing until another time and come home, inasmuch as there were more important affairs to be despatched here. He is to arrive this evening. Reinbeck has just now given Amelang the assurance"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord, There is at present little to be settled here, for everything is now in confusion on account of the mobilisation of the army. Klewiz had to hasten yesterday to South Prussia and [uncertain: to] drive the grain together, Minister Voss sits in Havelberg and sings psalms, and therefore there is, in this [illegible: Eachschlagt], nothing to be done for the time being. The approbation is being pressed forward by Privy Councillor Reinbeck, who intends to see to it and have it executed as soon as Voss returns. Upon the approbation of the dismemberment the money business depends; as soon as I have this, the revenues stand [uncertain: reiste], and then I hope to obtain from the Invalids' Fund and from the Wards' Collegium the sum of money required for the payment of all debts. All this has been set in train; meanwhile I cannot wait upon the thing, but must hasten again to Tropizin in order to work there. With Betsche the matter must and will also go forward. Reinbeck is Amelang's bosom and boyhood friend; through him everything will be capable of being pressed forward. Should anyone be at all refractory, I have the promise of the most powerful protection from the Court.\n\nTo Mr. Minister von Voss there went out yesterday from Potsdam an order that he should suspend the psalm-singing until another time and come home, inasmuch as there were more important affairs to be dispatched here. He is to arrive this evening. Reinbech has just now given Amelang the [uncertain: Verführung / instruction]",
+   "names": [
+    {
+     "de": "Klewiz",
+     "en": "Klewiz",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Havelberg",
+     "en": "Havelberg",
+     "kind": "place"
+    },
+    {
+     "de": "Reinbeck",
+     "en": "Reinbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Tropizin",
+     "en": "Tropizin",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "Reinbech",
+     "en": "Reinbech",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "to the effect that tomorrow the dismemberment matter will be laid before the Minister, and the day after tomorrow the report will go off to the King and the highest approbation be procured. According to the state of the files he would vouch for it that the same cannot be delayed but must absolutely be granted. As regards Betsche, on Reinb[eck]'s advice I am to submit nothing before I have that approbation — and then I am to submit the matter to the Minister myself, so that he may turn the same to the best advantage for all.\n\nWith respect to the war business, it remains settled that the whole army is to be mobilised. The Emperor has now proposed an entrevue with our King. The King has answered him par Concir that he would be content with that; but from his resolve to mobilise his whole army he would not depart — for through his own land he would not let the Russians pass; that would be worse than if he lost a whole campaign. In general he wishes now to meddle no further in anything; whoever, however, means to compel him to anything, him he will meet with his whole force, and he would sooner be buried with his last man beneath the ruins than depart from this resolve. General Ruchel goes off tomorrow to East Prussia; likewise General Relitirente (who is very discontented and means to demand his discharge) is to go off these next days to Pomerania. As General Köckritz says, it is wished that Your Serene Highness might also soon be in South Prussia. Seven generals are being placed on the retired list, among whom General Dolfs was [uncertain: auf war] when I heard them named. Field Marshal Mollendorf is said to [uncertain: Haus]"
+   "en": "that tomorrow the dismemberment matter will be laid before the Minister and the day after tomorrow the report will go off to the King and the highest approbation be obtained. According to the state of the files he would answer for it that the same could not [uncertain: entstehen / be refused] but must absolutely be granted. As regards Betsche, on Reinb.'s advice I am to submit nothing until I have that approbation — then I am to submit the matter to the Minister myself, so that he may turn it all to the best advantage. In respect of the war business it remains the case that the whole army is being mobilised.\n\nThe Emperor has now proposed an interview with our King. The King has answered him par Concir that he would be content with that. From his resolve to mobilise his whole army, however, he would not depart — for he would not let the [uncertain: Buße / penance] be drawn through his land; that would be worse than if he lost a whole campaign — In general he would now meddle no further in anything; whoever, however, should seek to compel him to anything, him he would meet with his whole force, and he would sooner be buried with his last man beneath the ruins than depart from this resolve.\n\nGeneral Ruchel departs tomorrow for East Prussia; likewise General Relitirente /who is very dissatisfied and wishes to demand his discharge/ is to depart these days for Pomerania. As General Köckritz says, it is wished that Your Serene Highness might also soon be in South Prussia. Seven generals are being placed in the retired state, among whom General Dolfs was included when I heard them named. Field Marshal Mollendorf is to [text lost] house",
+   "names": [
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Reinb.",
+     "en": "Reinb.",
+     "kind": "person"
+    },
+    {
+     "de": "Ruchel",
+     "en": "Ruchel",
+     "kind": "person"
+    },
+    {
+     "de": "Ost Preußen",
+     "en": "East Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Relitirente",
+     "en": "Relitirente",
+     "kind": "person"
+    },
+    {
+     "de": "Pommern",
+     "en": "Pomerania",
+     "kind": "place"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "SüdPreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Dolfs",
+     "en": "Dolfs",
+     "kind": "person"
+    },
+    {
+     "de": "Mollendorf",
+     "en": "Mollendorf",
+     "kind": "person"
+    },
+    {
+     "de": "Kayser",
+     "en": "Emperor",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "7"
+   ]
   },
   {
    "page": 3,
-   "en": "Naming of the new villages which arise through the dismemberment at Zagorowo and Trąbzyn.\n\nGrądzyn. Friedrichsfeld, Ludwigslust. Drzewce. Sophienberg Adelow. Old Hut [alte hütte]. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Klein Ingelfingen."
+   "en": "naming of the new villages which arise through the dismemberment at Zagorowo and Trąbczyn. Grądzyn.\n\nFriedrichsfeld, Ludwigslust. Drzewce.\n\nSophienberg Adelow.\n\nold hut. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Klein Ingelfingen.",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbzyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Grądzyn",
+     "en": "Grądzyn",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrichsfeld",
+     "en": "Friedrichsfeld",
+     "kind": "place"
+    },
+    {
+     "de": "Ludwigslust",
+     "en": "Ludwigslust",
+     "kind": "place"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Sophienberg",
+     "en": "Sophienberg",
+     "kind": "place"
+    },
+    {
+     "de": "Adelow",
+     "en": "Adelow",
+     "kind": "place"
+    },
+    {
+     "de": "alte hütte",
+     "en": "old hut",
+     "kind": "place"
+    },
+    {
+     "de": "Augustinow",
+     "en": "Augustinow",
+     "kind": "place"
+    },
+    {
+     "de": "Emilienhein",
+     "en": "Emilienhein",
+     "kind": "place"
+    },
+    {
+     "de": "Kopojno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Wildenbruch",
+     "en": "Wildenbruch",
+     "kind": "place"
+    },
+    {
+     "de": "Schönau",
+     "en": "Schönau",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Ingelfingen",
+     "en": "Klein Ingelfingen",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "B. Register of the established new villages and of the lands remaining to the Dominium.\n\n1. In the Zagorowe lordship there have been dismembered:\na) at Grądzyn 1 colony of 1650 Morgen, settled with 39 householders, called Klein Ingelfingen\nb) upon Drzewce Alexandrow\n2. Col[ony]: ... 960 ... 18 ... Alexandrow\n3. 1200 ... 40 ... Augustinow\n4. 1221 ... 40 ... Emilienhain\n5. 600 ... 20 ... Adolphsberg\nc) at Kopojno\n6. 1830 ... 31 ... Friedrichsfelde\n7. 1590 ... 40 ... Ludwigslust\n8. 720 ... 24 ... Sophienthal\n9. 1530 ... 35 ... Adelowo\nTo old Poles singly 1230 ... 20 ... at Kopojno village and Skokum\nat Trąbczyn\n10. 1524 ... 40 ... Justinsau\n11. 1274 ... 34 ... Kaschubowe\n12. 1866 ... 60 ... Furstenfelde\n538 ... 8 ... the former Przybysław\n13. 1266 ... 42 ... Klein Schrotzberg\n300 ... 8 ... the Old Hut [die alte Hütte]\n14. 1632 ... 54 ... Hellendorff\n15. 476 ... 25 ... Stetten[uncertain: i]feld.\nSum total Mm. 21407, 578 householders.\n\nAt Trąbczyn there remains: 1. a demesne farm of 724 Morgen; 2. at Marianton 60 Morgen (=784).\nWoodland: there remains at Trąbczyn 1500, at Kopojno 832, at Grądzyn 1126, at Trąbczyn 333 = 3791 = 4575 Morgen.\nBesides this, the old subjects have had their pasture and timber-cuts determined according to contract. Monies"
+   "en": "B. List of the newly established villages and of the grounds remaining to the manorial lordship (Dominium). 1. In the Zagorowo lordship there have been dismembered: a. at Grądzyn 1 colony of 1650 Morgen settled with 39 farmers, called Klein Ingelfingen\n\nb. on Drzewce Alexandrow\n\n2. Col: ... 960 ... 18 ... Alexandrow\n\n3. 1200 ... 40 ... Augustinow\n\n4. 1221 ... 40 ... Emilienhain\n\n5. 600 ... 20 ... Adolphsberg c. at Kopojno\n\n6. 1830 ... 31 ... Friedrichsfelde\n\n7. 1590 ... 40 ... Ludwigslust\n\n8. 720 ... 24 ... Sophienthal\n\n9. 1530 ... 35 ... Adelowo To Alte Pohlen individually 1230 ... 20 ... at Kopojno village and Skokum at Trąbczyn\n\n10. 1524 ... 40 ... Justinsau\n\n11. 1274 ... 34 ... Kaschubowe\n\n12. 1866 ... 60 ... Furstenfelde\n\n538 ... 8 ... the former Przybysław\n\n13. 1266 ... 42 ... Klein Schrotzberg\n\n300 ... 8 ... the old hut\n\n14. 1632 ... 54 ... Hellendorff\n\n15. 476 ... 25 ... Stetten[uncertain: i]feld. Sum total of Morgen 21407\n\n578 farmers\n\nAt Trąbczyn there remains\n\n1. demesne farm of 724 Morgen\n\n2. at Marianton 60 Morgen (=784) Woodland. There remains at Trąbczyn 1500, at Kopojno 832\n\nat Grądzyn 1126\n\nat Wrąbczyn 333\n\n= 3791\n\n= 4575 Morgen. Besides this, the old subjects have had their pasture and wood allotments determined by contract.",
+   "names": [
+    {
+     "de": "Zagorowe",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Grądzyn",
+     "en": "Grądzyn",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Ingelfingen",
+     "en": "Klein Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Alexandrow",
+     "en": "Alexandrow",
+     "kind": "place"
+    },
+    {
+     "de": "Augustinow",
+     "en": "Augustinow",
+     "kind": "place"
+    },
+    {
+     "de": "Emilienhain",
+     "en": "Emilienhain",
+     "kind": "place"
+    },
+    {
+     "de": "Adolphsberg",
+     "en": "Adolphsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Kopojno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrichsfelde",
+     "en": "Friedrichsfelde",
+     "kind": "place"
+    },
+    {
+     "de": "Ludwigslust",
+     "en": "Ludwigslust",
+     "kind": "place"
+    },
+    {
+     "de": "Sophienthal",
+     "en": "Sophienthal",
+     "kind": "place"
+    },
+    {
+     "de": "Adelowo",
+     "en": "Adelowo",
+     "kind": "place"
+    },
+    {
+     "de": "Alte Pohlen",
+     "en": "Alte Pohlen",
+     "kind": "place"
+    },
+    {
+     "de": "Skokum",
+     "en": "Skokum",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Justinsau",
+     "en": "Justinsau",
+     "kind": "place"
+    },
+    {
+     "de": "Kaschubowe",
+     "en": "Kaschubowe",
+     "kind": "place"
+    },
+    {
+     "de": "Furstenfelde",
+     "en": "Furstenfelde",
+     "kind": "place"
+    },
+    {
+     "de": "Przybysław",
+     "en": "Przybysław",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Schrotzberg",
+     "en": "Klein Schrotzberg",
+     "kind": "place"
+    },
+    {
+     "de": "Hellendorff",
+     "en": "Hellendorff",
+     "kind": "place"
+    },
+    {
+     "de": "Stetten[i?]feld",
+     "en": "Stetten[uncertain: i]feld",
+     "kind": "place"
+    },
+    {
+     "de": "Marianton",
+     "en": "Marianton",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyn",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1",
+    "1650",
+    "39",
+    "2",
+    "960",
+    "18",
+    "3",
+    "1200",
+    "40",
+    "4",
+    "1221",
+    "40",
+    "5",
+    "600",
+    "20",
+    "6",
+    "1830",
+    "31",
+    "7",
+    "1590",
+    "40",
+    "8",
+    "720",
+    "24",
+    "9",
+    "1530",
+    "35",
+    "1230",
+    "20",
+    "10",
+    "1524",
+    "40",
+    "11",
+    "1274",
+    "34",
+    "12",
+    "1866",
+    "60",
+    "538",
+    "8",
+    "13",
+    "1266",
+    "42",
+    "300",
+    "8",
+    "14",
+    "1632",
+    "54",
+    "15",
+    "476",
+    "25",
+    "21407",
+    "578",
+    "724",
+    "60",
+    "784",
+    "1500",
+    "832",
+    "1126",
+    "333",
+    "3791",
+    "4575"
+   ]
   },
   {
    "page": 5,
-   "en": "Monies have so far come in only to the amount of 7130 Rthl; of this the interest has been paid and the remainder sent to [uncertain: Breiten]! Radzinski is to and must pay in 6000 Rthl these next days, otherwise he will have execution levied upon him — he is truly the [uncertain: böfeste — worst?] man I have ever come across. On Thursday some of the colonists who were driven asunder mean to present themselves again. God knows whether they will keep their word; they promised to pay in several thousand rt in cash. On Monday a man who wishes to lease the little demesne farm and buy lands has likewise promised to bring 5000 Rthl. Had Herr v. Voss begun the racket after the harvest, I should have laughed at his follies; as it is, however, he scared the people away from me at an unseasonable time — now the people will hardly come together again before after the harvest. Here too it is again ordered that the Prusimska be paid her 20000 Rthl; H[err] Weigel is to and must have the 23000 Rthl still coming to him; then the Schlabrendorff woman is to be satisfied with 25000 Rthl. That is yet a sum of 68000 Rthl. These and more than a hundred thousand [uncertain: uf] more are supposed to come in; only God knows when this will happen — If I only had back very soon the approved contracts (for I have had to submit them all as evidence) together with the concession of all revenues, then I believe it will surely be"
+   "en": "Of moneys there have so far come in only 7130 Rthl; of these the interest has been paid and the remainder sent to Breslau!\n\nRadzinski shall and must pay down 6000 Rthl these days, otherwise he will have execution levied upon him — he is truly the most malicious man I have ever come across. On Thursday some of the colonists who were driven apart from one another intend to present themselves again. God knows whether they will keep their word. They promised to pay down several thousand Rthl in cash. On Monday a man who wishes to lease the little demesne farm and to buy grounds likewise promised to bring 5000 Rthl. Had Mr. von Voss begun the [uncertain: Lern / racket] after the harvest, I should have laughed at his follies; as it is, however, he [uncertain: verschruchte / scared off] the people for me at the wrong time — now the people will hardly come together again before after the harvest.\n\nHere too it has again been ordered that the Prusimska's 20000 Rthl be paid.\n\nMr. Weigel shall and must have the 23000 Rthl still coming to him; then the Schlabrendorff woman is to be satisfied with 25000 Rthl. That is a further sum of\n\n68000 Rthl. These and above a hundred thousand more are to come in; only God knows when this will happen — If I could but very soon get back the approbated contracts /for I have had to submit them all in evidence/ together with the concession of all revenues, then I believe it will surely be",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Radzinski",
+     "en": "Radzinski",
+     "kind": "person"
+    },
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimska",
+     "en": "Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "7130",
+    "6000",
+    "5000",
+    "20000",
+    "23000",
+    "25000",
+    "68000"
+   ]
   },
   {
    "page": 6,
-   "en": "the best course, that one should take a further 150000 Rthl, together 30000 Rthl, from the Invalids' Fund, pay off Appenhumer and everything here, clear everything, and discharge this item of debt little by little out of the revenues of the estates. As soon as I have leased out the demesne farm here and have a [uncertain: Klampz — a lump?] of money together, I shall hasten at once to Kalisz, to direct everything there, and shall come to Breslau to learn Your Serene Highness's further high opinion.\n\nv Triebenfeld"
+   "en": "the best course that one take a further 150000 Rthl, together 30000 Rthl, from the Invalids' Fund, pay off Appenhumer and everything here, clear everything, and gradually extinguish this debt item out of the revenues of the estates. As soon as I have let out the demesne farm here and have a lump of money together, I shall hasten at once to Kalisz, to direct everything there, and shall come to Breslau to learn Your Serene Highness's further high opinion. von Triebenfeld",
+   "names": [
+    {
+     "de": "Appenhumer",
+     "en": "Appenhumer",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "150000",
+    "30000"
+   ]
   },
   {
    "page": 7,
-   "en": "[text lost] and is to command this army, if it comes to anything. The Duke of Brunswick, however, the whole direction.\n\nThe reports which I wrote already 8 weeks ago, and which at that time were held to be of very little consequence, are now found confirmed; and only 3 days ago Chlebowski and Vöhler wrote the same as important news — the King has [uncertain: gewißert] a good deal about many things. I am, as I wrote last time, to go along — but I shall take care of myself. Your Serene Highness can [uncertain: soll] go by way of Vielen to Lenschitz; there you are not far from your estates.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's\n\nTo Colonel v. Schlieben I gave 2000 Rthl yesterday, for [uncertain: Mucrowis] had sent no money, and one must quash the suit — also I have here paid a further 100 fr. d'or to the helpers — Everything truly goes well. Herr v. Hardenberg has hitherto been too rare a bird; I have not yet been able to speak with him. Today he has gone for a few days to his estates, and the King is at Paretz, where he means to remain until the torch dance of the Ferdinandian jubilee wedding, which is on the 27th.\n\nBerlin, the 24th September 1805\n\nmost humble and obedient servant\nv Triebenfeld"
+   "en": "[text lost], and to command this army if it should come to anything. The Duke of Braunschweig, however, the whole direction. The reports which I wrote already 8 weeks ago, and which at that time were regarded as very insignificant, are now found confirmed, and only 3 days ago Chlebowski and Vöhler wrote the same as important news — the King has been much [uncertain: gewißert] about many things — I am, as I wrote last time, to go along — but I shall take care of myself — [uncertain: Your Serene Highness can/should go by way of Vielen to Lenschitz], there you are not far from your estates. In deepest reverence I remain, until death, Your Most Serene Highness's. To Colonel von Schlieben I gave 2000 Rthl yesterday, for Mucrowis had sent no money, and [uncertain: he/you] must have the suit dropped — also I have here further paid 100 fr. d'or to the helpers — Everything is truly going well; Hardenberg has hitherto been too rare, I have not yet been able to speak with him. Today he has gone for a couple of days to his estates, and the King is at Paretz, where he means to stay until the [uncertain: Fadel-Tanz / torch dance] of the Ferdinand jubilee wedding, which is on the 27th. Berlin, the 24th of September.\n\n1805\n\nmost humble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Herzog von Braunschweig",
+     "en": "Duke of Braunschweig",
+     "kind": "person"
+    },
+    {
+     "de": "Chlebowski",
+     "en": "Chlebowski",
+     "kind": "person"
+    },
+    {
+     "de": "Vöhler",
+     "en": "Vöhler",
+     "kind": "person"
+    },
+    {
+     "de": "Vielen",
+     "en": "Vielen",
+     "kind": "place"
+    },
+    {
+     "de": "Lenschitz",
+     "en": "Lenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Obrist v Schlieben",
+     "en": "Colonel von Schlieben",
+     "kind": "person"
+    },
+    {
+     "de": "Mucrowis",
+     "en": "Mucrowis",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Paretz",
+     "en": "Paretz",
+     "kind": "place"
+    },
+    {
+     "de": "Ferdinandschen",
+     "en": "Ferdinand",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "3",
+    "2000",
+    "100",
+    "27",
+    "24",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord,\n\nHere there is at present little to be settled, for everything is now in confusion on account of the mobilisation of the army. Klewiz had to hurry off to South Prussia yesterday, and to drive together the grain of the [uncertain: reading unclear]; Minister Voss sits in Havelberg and sings psalms, and therefore there is, in this [uncertain: Eachschlagt], nothing to be done for the moment. The approbation is being pressed forward by Privy Councillor Reinbeck, who intends to see to it at once, as soon as Voss returns, and to have it executed. Upon the approbation of the dismemberment the money business depends; as soon as I have this, the revenues stand free, and then I hope to obtain from the Invalids' Fund and from the Wards' Collegium the sum of the money needed for the payment of all debts. All this is set in train; meanwhile I cannot wait upon the thing, but must hurry back to Tropizin to work there. With Betsche the matter will and must likewise go forward. Reinbeck is Amelang's bosom and boyhood friend; through him everything will be capable of being pressed on. Should anyone be in any degree refractory, I have the promise of the most powerful protection from the Court. To Herr M[inister] v. Voss there went out yesterday from Potsdam an order that he should suspend the psalm-singing until another time and come home, inasmuch as there were more important affairs to be despatched here. He is to arrive this evening. Reinbeck has just now given Amelang the assurance\n\nto the effect that tomorrow the dismemberment matter will be laid before the Minister, and the day after tomorrow the report will go off to the King and the highest approbation be procured. According to the state of the files he would vouch for it that the same cannot be delayed but must absolutely be granted. As regards Betsche, on Reinb[eck]'s advice I am to submit nothing before I have that approbation — and then I am to submit the matter to the Minister myself, so that he may turn the same to the best advantage for all.\n\nWith respect to the war business, it remains settled that the whole army is to be mobilised. The Emperor has now proposed an entrevue with our King. The King has answered him par Concir that he would be content with that; but from his resolve to mobilise his whole army he would not depart — for through his own land he would not let the Russians pass; that would be worse than if he lost a whole campaign. In general he wishes now to meddle no further in anything; whoever, however, means to compel him to anything, him he will meet with his whole force, and he would sooner be buried with his last man beneath the ruins than depart from this resolve. General Ruchel goes off tomorrow to East Prussia; likewise General Relitirente (who is very discontented and means to demand his discharge) is to go off these next days to Pomerania. As General Köckritz says, it is wished that Your Serene Highness might also soon be in South Prussia. Seven generals are being placed on the retired list, among whom General Dolfs was [uncertain: auf war] when I heard them named. Field Marshal Mollendorf is said to [uncertain: Haus]\n\nNaming of the new villages which arise through the dismemberment at Zagorowo and Trąbzyn.\n\nGrądzyn. Friedrichsfeld, Ludwigslust. Drzewce. Sophienberg Adelow. Old Hut [alte hütte]. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Klein Ingelfingen.\n\nB. Register of the established new villages and of the lands remaining to the Dominium.\n\n1. In the Zagorowe lordship there have been dismembered:\na) at Grądzyn 1 colony of 1650 Morgen, settled with 39 householders, called Klein Ingelfingen\nb) upon Drzewce Alexandrow\n2. Col[ony]: ... 960 ... 18 ... Alexandrow\n3. 1200 ... 40 ... Augustinow\n4. 1221 ... 40 ... Emilienhain\n5. 600 ... 20 ... Adolphsberg\nc) at Kopojno\n6. 1830 ... 31 ... Friedrichsfelde\n7. 1590 ... 40 ... Ludwigslust\n8. 720 ... 24 ... Sophienthal\n9. 1530 ... 35 ... Adelowo\nTo old Poles singly 1230 ... 20 ... at Kopojno village and Skokum\nat Trąbczyn\n10. 1524 ... 40 ... Justinsau\n11. 1274 ... 34 ... Kaschubowe\n12. 1866 ... 60 ... Furstenfelde\n538 ... 8 ... the former Przybysław\n13. 1266 ... 42 ... Klein Schrotzberg\n300 ... 8 ... the Old Hut [die alte Hütte]\n14. 1632 ... 54 ... Hellendorff\n15. 476 ... 25 ... Stetten[uncertain: i]feld.\nSum total Mm. 21407, 578 householders.\n\nAt Trąbczyn there remains: 1. a demesne farm of 724 Morgen; 2. at Marianton 60 Morgen (=784).\nWoodland: there remains at Trąbczyn 1500, at Kopojno 832, at Grądzyn 1126, at Trąbczyn 333 = 3791 = 4575 Morgen.\nBesides this, the old subjects have had their pasture and timber-cuts determined according to contract. Monies\n\nMonies have so far come in only to the amount of 7130 Rthl; of this the interest has been paid and the remainder sent to [uncertain: Breiten]! Radzinski is to and must pay in 6000 Rthl these next days, otherwise he will have execution levied upon him — he is truly the [uncertain: böfeste — worst?] man I have ever come across. On Thursday some of the colonists who were driven asunder mean to present themselves again. God knows whether they will keep their word; they promised to pay in several thousand rt in cash. On Monday a man who wishes to lease the little demesne farm and buy lands has likewise promised to bring 5000 Rthl. Had Herr v. Voss begun the racket after the harvest, I should have laughed at his follies; as it is, however, he scared the people away from me at an unseasonable time — now the people will hardly come together again before after the harvest. Here too it is again ordered that the Prusimska be paid her 20000 Rthl; H[err] Weigel is to and must have the 23000 Rthl still coming to him; then the Schlabrendorff woman is to be satisfied with 25000 Rthl. That is yet a sum of 68000 Rthl. These and more than a hundred thousand [uncertain: uf] more are supposed to come in; only God knows when this will happen — If I only had back very soon the approved contracts (for I have had to submit them all as evidence) together with the concession of all revenues, then I believe it will surely be\n\nthe best course, that one should take a further 150000 Rthl, together 30000 Rthl, from the Invalids' Fund, pay off Appenhumer and everything here, clear everything, and discharge this item of debt little by little out of the revenues of the estates. As soon as I have leased out the demesne farm here and have a [uncertain: Klampz — a lump?] of money together, I shall hasten at once to Kalisz, to direct everything there, and shall come to Breslau to learn Your Serene Highness's further high opinion.\n\nv Triebenfeld\n\n[text lost] and is to command this army, if it comes to anything. The Duke of Brunswick, however, the whole direction.\n\nThe reports which I wrote already 8 weeks ago, and which at that time were held to be of very little consequence, are now found confirmed; and only 3 days ago Chlebowski and Vöhler wrote the same as important news — the King has [uncertain: gewißert] a good deal about many things. I am, as I wrote last time, to go along — but I shall take care of myself. Your Serene Highness can [uncertain: soll] go by way of Vielen to Lenschitz; there you are not far from your estates.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's\n\nTo Colonel v. Schlieben I gave 2000 Rthl yesterday, for [uncertain: Mucrowis] had sent no money, and one must quash the suit — also I have here paid a further 100 fr. d'or to the helpers — Everything truly goes well. Herr v. Hardenberg has hitherto been too rare a bird; I have not yet been able to speak with him. Today he has gone for a few days to his estates, and the King is at Paretz, where he means to remain until the torch dance of the Ferdinandian jubilee wedding, which is on the 27th.\n\nBerlin, the 24th September 1805\n\nmost humble and obedient servant\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, There is at present little to be settled here, for everything is now in confusion on account of the mobilisation of the army. Klewiz had to hasten yesterday to South Prussia and [uncertain: to] drive the grain together, Minister Voss sits in Havelberg and sings psalms, and therefore there is, in this [illegible: Eachschlagt], nothing to be done for the time being. The approbation is being pressed forward by Privy Councillor Reinbeck, who intends to see to it and have it executed as soon as Voss returns. Upon the approbation of the dismemberment the money business depends; as soon as I have this, the revenues stand [uncertain: reiste], and then I hope to obtain from the Invalids' Fund and from the Wards' Collegium the sum of money required for the payment of all debts. All this has been set in train; meanwhile I cannot wait upon the thing, but must hasten again to Tropizin in order to work there. With Betsche the matter must and will also go forward. Reinbeck is Amelang's bosom and boyhood friend; through him everything will be capable of being pressed forward. Should anyone be at all refractory, I have the promise of the most powerful protection from the Court.\n\nTo Mr. Minister von Voss there went out yesterday from Potsdam an order that he should suspend the psalm-singing until another time and come home, inasmuch as there were more important affairs to be dispatched here. He is to arrive this evening. Reinbech has just now given Amelang the [uncertain: Verführung / instruction]\n\nthat tomorrow the dismemberment matter will be laid before the Minister and the day after tomorrow the report will go off to the King and the highest approbation be obtained. According to the state of the files he would answer for it that the same could not [uncertain: entstehen / be refused] but must absolutely be granted. As regards Betsche, on Reinb.'s advice I am to submit nothing until I have that approbation — then I am to submit the matter to the Minister myself, so that he may turn it all to the best advantage. In respect of the war business it remains the case that the whole army is being mobilised.\n\nThe Emperor has now proposed an interview with our King. The King has answered him par Concir that he would be content with that. From his resolve to mobilise his whole army, however, he would not depart — for he would not let the [uncertain: Buße / penance] be drawn through his land; that would be worse than if he lost a whole campaign — In general he would now meddle no further in anything; whoever, however, should seek to compel him to anything, him he would meet with his whole force, and he would sooner be buried with his last man beneath the ruins than depart from this resolve.\n\nGeneral Ruchel departs tomorrow for East Prussia; likewise General Relitirente /who is very dissatisfied and wishes to demand his discharge/ is to depart these days for Pomerania. As General Köckritz says, it is wished that Your Serene Highness might also soon be in South Prussia. Seven generals are being placed in the retired state, among whom General Dolfs was included when I heard them named. Field Marshal Mollendorf is to [text lost] house\n\nnaming of the new villages which arise through the dismemberment at Zagorowo and Trąbczyn. Grądzyn.\n\nFriedrichsfeld, Ludwigslust. Drzewce.\n\nSophienberg Adelow.\n\nold hut. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Klein Ingelfingen.\n\nB. List of the newly established villages and of the grounds remaining to the manorial lordship (Dominium). 1. In the Zagorowo lordship there have been dismembered: a. at Grądzyn 1 colony of 1650 Morgen settled with 39 farmers, called Klein Ingelfingen\n\nb. on Drzewce Alexandrow\n\n2. Col: ... 960 ... 18 ... Alexandrow\n\n3. 1200 ... 40 ... Augustinow\n\n4. 1221 ... 40 ... Emilienhain\n\n5. 600 ... 20 ... Adolphsberg c. at Kopojno\n\n6. 1830 ... 31 ... Friedrichsfelde\n\n7. 1590 ... 40 ... Ludwigslust\n\n8. 720 ... 24 ... Sophienthal\n\n9. 1530 ... 35 ... Adelowo To Alte Pohlen individually 1230 ... 20 ... at Kopojno village and Skokum at Trąbczyn\n\n10. 1524 ... 40 ... Justinsau\n\n11. 1274 ... 34 ... Kaschubowe\n\n12. 1866 ... 60 ... Furstenfelde\n\n538 ... 8 ... the former Przybysław\n\n13. 1266 ... 42 ... Klein Schrotzberg\n\n300 ... 8 ... the old hut\n\n14. 1632 ... 54 ... Hellendorff\n\n15. 476 ... 25 ... Stetten[uncertain: i]feld. Sum total of Morgen 21407\n\n578 farmers\n\nAt Trąbczyn there remains\n\n1. demesne farm of 724 Morgen\n\n2. at Marianton 60 Morgen (=784) Woodland. There remains at Trąbczyn 1500, at Kopojno 832\n\nat Grądzyn 1126\n\nat Wrąbczyn 333\n\n= 3791\n\n= 4575 Morgen. Besides this, the old subjects have had their pasture and wood allotments determined by contract.\n\nOf moneys there have so far come in only 7130 Rthl; of these the interest has been paid and the remainder sent to Breslau!\n\nRadzinski shall and must pay down 6000 Rthl these days, otherwise he will have execution levied upon him — he is truly the most malicious man I have ever come across. On Thursday some of the colonists who were driven apart from one another intend to present themselves again. God knows whether they will keep their word. They promised to pay down several thousand Rthl in cash. On Monday a man who wishes to lease the little demesne farm and to buy grounds likewise promised to bring 5000 Rthl. Had Mr. von Voss begun the [uncertain: Lern / racket] after the harvest, I should have laughed at his follies; as it is, however, he [uncertain: verschruchte / scared off] the people for me at the wrong time — now the people will hardly come together again before after the harvest.\n\nHere too it has again been ordered that the Prusimska's 20000 Rthl be paid.\n\nMr. Weigel shall and must have the 23000 Rthl still coming to him; then the Schlabrendorff woman is to be satisfied with 25000 Rthl. That is a further sum of\n\n68000 Rthl. These and above a hundred thousand more are to come in; only God knows when this will happen — If I could but very soon get back the approbated contracts /for I have had to submit them all in evidence/ together with the concession of all revenues, then I believe it will surely be\n\nthe best course that one take a further 150000 Rthl, together 30000 Rthl, from the Invalids' Fund, pay off Appenhumer and everything here, clear everything, and gradually extinguish this debt item out of the revenues of the estates. As soon as I have let out the demesne farm here and have a lump of money together, I shall hasten at once to Kalisz, to direct everything there, and shall come to Breslau to learn Your Serene Highness's further high opinion. von Triebenfeld\n\n[text lost], and to command this army if it should come to anything. The Duke of Braunschweig, however, the whole direction. The reports which I wrote already 8 weeks ago, and which at that time were regarded as very insignificant, are now found confirmed, and only 3 days ago Chlebowski and Vöhler wrote the same as important news — the King has been much [uncertain: gewißert] about many things — I am, as I wrote last time, to go along — but I shall take care of myself — [uncertain: Your Serene Highness can/should go by way of Vielen to Lenschitz], there you are not far from your estates. In deepest reverence I remain, until death, Your Most Serene Highness's. To Colonel von Schlieben I gave 2000 Rthl yesterday, for Mucrowis had sent no money, and [uncertain: he/you] must have the suit dropped — also I have here further paid 100 fr. d'or to the helpers — Everything is truly going well; Hardenberg has hitherto been too rare, I have not yet been able to speak with him. Today he has gone for a couple of days to his estates, and the King is at Paretz, where he means to stay until the [uncertain: Fadel-Tanz / torch dance] of the Ferdinand jubilee wedding, which is on the 27th. Berlin, the 24th of September.\n\n1805\n\nmost humble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "Business in Berlin is stalled by the army's mobilisation: Klewiz has left for South Prussia and Minister v. Voss, summoned home from psalm-singing at Havelberg, is expected back, whereupon Privy Councillor Reinbeck promises to lay the Zagorowo/Trąbczyn dismemberment before the King for approbation, on which all borrowing from the Invalids' Fund and Wards' Collegium depends. Includes a schedule of fifteen new colonies (21,407 Morgen, 578 householders) and demesne and woodland remainders; only 7,130 Rthl received, with 68,000 Rthl owed to the Prusimska, Weigel and the Schlabrendorff woman; 2,000 Rthl paid to Colonel v. Schlieben; war news of mobilisation, generals' postings and retirements.",
  "summary_de": "Wegen der Mobilmachung der Armee stockt alles: Klewiz mußte nach Südpreußen, Minister v. Voss ist in Havelberg, wird aber zurückbeordert; Geheimrath Reinbeck, Amelangs Jugendfreund, will die königliche Approbation der Dismembration binnen Tagen erwirken, wovon das Geldgeschäft abhängt. Beigefügt Verzeichnis der neuen Colonien zu Zagorowo, Drzewce, Kopojno und Trąbczyn (Klein Ingelfingen, Ludwigslust, Fürstenfelde u.a.), 21407 Morgen, 578 Wirthe. Eingegangen erst 7130 Rthl; Radzinski soll 6000 Rthl zahlen; fällig sind der Prusimska 20000, Weigel 23000, der Schlabrendorff 25000 Rthl; Anleihe beim Invalidenfonds erwogen; an Oberst v. Schlieben 2000 Rthl gezahlt. Dazu Nachrichten über Ruchel, Köckritz, Hardenberg und die Kriegslage."
 }

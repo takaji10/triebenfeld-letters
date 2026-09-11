@@ -1,42 +1,113 @@
 status: draft
 segments:
 - page: 1
-  en: 'Supplementarily, I am, by command of the Prince''s Serene Highness, to send Your Right Honourable
-    the enclosed carte blanche for the reply to Herr von Rewek[uncertain: Rewek]; may the same have the
-    kindness to have it drawn up according to your own view. I likewise enclose herewith the extract from
-    a letter of B. R. Glenck, as His Serene Highness commanded me. The folly of this man, his ever-active
+  en: Subsequently I am, by command of His Serene Highness the Prince, to send Your Right Honourable the
+    enclosed carte blanche for a reply to Mr. von Rewek[illegible]; may you have the kindness to have
+    it drawn up according to your own view. I also enclose herewith the extract from a letter of the mining
+    councillor Glenck, as His Serene Highness has commanded me. The folly of this man, his ever-active
     but all the more senseless spirit of speculation, his frivolity and his lady wife have brought him
-    to the brink of the abyss, on which he indeed stands. It now remains reserved both to the magnanimity
-    of the Prince and to that of Your Right Honourable, whether you will once again extend to him the
-    hand of rescue.'
+    to the edge of the abyss, on which he in truth stands. It remains reserved both to the magnanimity
+    of the Prince and to that of Your Right Honourable whether you will once more extend to him the hand
+    of rescue.
+  names:
+  - de: Euer Hochwohlgebohren
+    en: Your Right Honourable
+    kind: other
+  - de: H. von Rewek[?]
+    en: Mr. von Rewek[illegible]
+    kind: person
+  - de: B. R. Glenck
+    en: the mining councillor Glenck
+    kind: person
 - page: 2
-  en: His Serene Highness is ready for this, and hereby calls upon the same to act in like manner; and
-    I should have to be ignorant of your magnanimous and readily giving heart, were you not willing to
-    comply with the Prince's wish in this respect, if it is in any way possible. In order to bring this
-    about, it is left to Your Right Honourable to bring the aforesaid Glenck at last to silence by the
-    transmission of the schema for the consent to His Serene Highness. His Serene Highness wishes it also,
-    and for the sake of this man's perpetual lamentations, which arrive with every post-day. Should Glenck
-    once again decline the conditions perhaps necessary
+  en: His Serene Highness is ready for this, and hereby calls upon you to act in the same manner; and
+    I should not know your magnanimous, freely giving heart if you were not willing to meet the Prince's
+    wish in this respect, if it is at all possible. In order to bring this about, it is left to Your Right
+    Honourable, by the transmission of the draft form of the consent to His Serene Highness, to bring
+    the said Glenck at last to silence. His Serene Highness wishes it also for the sake of this man's
+    never-ceasing songs of lamentation, which arrive with every post-day. Should Glenck once again decline
+    the conditions which may be necessary
+  names:
+  - de: Sr. Durchlaucht
+    en: His Serene Highness
+    kind: other
+  - de: Euer Hochwohlgebohren
+    en: Your Right Honourable
+    kind: other
+  - de: p Glenck
+    en: the said Glenck
+    kind: person
 - page: 3
-  en: 'Extract from the letter of Glenck, dated the 22nd of March[uncertain: Mrz] 1806. In the straits
-    in which the Wrąbczyn estate matter and the evasion of payment place me, I have had to take refuge
-    in pawning my belongings, in selling clothes, and in borrowing small sums of a few thalers. My dismissed
-    household servants have cried the noise about still further, and since the public was moreover brought
-    to the opinion that I stood without consequence with Your Serene Highness, a complete [uncertain:
-    Wlisd] credit followed upon me; my numerous creditors grew loud, and I had daily to be shifting about
-    only to borrow now and to avert the judicial suits, and to seek to borrow the most necessary household
-    requirements, since I had to give up my salary for payments of debts, properly speaking as brokerage.
-    Thus I have saved [uncertain: nach] Wilhelmsruhe against the sub-attestation and a low sale, so that
-    out of duty for the [uncertain: Menngen] I must delay the sale until such time as it will fetch a
-    higher'
+  en: 'Extract from the letter of Glenck
+
+
+    dated the 22nd of March[illegible] 1806.
+
+
+    In the straits into which the little Wrąbczyn estate and the evasion of payment have put me, I have
+    had to take refuge in pawning my belongings, in selling clothes, and in borrowing a few thalers at
+    a time. My dismissed servants have cried the noise about still further, and since the public too was
+    brought to the opinion that I stood without consequence with Your Serene Highness, there followed
+    a total [uncertain: Wlisd] credit upon me; my numerous creditors grew loud, and day by day I had to
+    do nothing but scrape about to borrow, to avert the suits at law, and to seek to borrow the most necessary
+    household requirements, since I had to give up my salary for payment of debts, properly speaking as
+    brokerage. Thus I have saved Wilhelmsruhe from the attestation and from a low sale, so that out of
+    duty toward [uncertain: the Menngen] I must delay the sale until such time as it will fetch a higher'
+  names:
+  - de: Glencks
+    en: Glenck
+    kind: person
+  - de: Wrąbczyner
+    en: Wrąbczyn
+    kind: place
+  - de: Euer Durchl.
+    en: Your Serene Highness
+    kind: other
+  - de: Wilhelmsruhe
+    en: Wilhelmsruhe
+    kind: place
+  numbers:
+  - '22'
+  - '1806'
 - page: 4
-  en: value, inasmuch as I foresee a piece of good fortune here if I can maintain it a while longer; and
-    to that end it belongs that, by producing the consent, I get Ribbek out of the purchase of Wrąbczyn
-    and can leave this estate to a better man. My family needs this protection
+  en: value, since I foresee a piece of good fortune here if I can hold it for a while longer; and to
+    that end it belongs that, by producing the consent, I get Ribbek out of the purchase of Wrąbczyn and
+    can leave this estate to a better man. My family needs this protection
+  names:
+  - de: Ribbek
+    en: Ribbek
+    kind: person
+  - de: Wrąbczyn
+    en: Wrąbczyn
+    kind: place
 - page: 5
-  en: for an arrangement, as has already happened, then there is of course nothing left but to let him
-    go fully into the ruin which his swindling spirit has prepared for him. My boundless confidence in
-    Your Right Honourable, and, I may say, the kindness which the same have always shown me, and which
-    has always animated me with true pride and confidence in myself, have brought forth these utterances,
-    and I may hope of the same that you will not construe them ill. With boundless veneration, Öhringen,
-    the 10th of April 1806. A Hahn
+  en: 'for an arrangement, as has already happened, then of course nothing remains but to let him fall
+    into the ruin which his swindling spirit has prepared for him. My boundless confidence in Your Right
+    Honourable, and, I may say, the kindness which you have always shown me, and which has always inspired
+    me with true pride and assurance in myself, brought forth these expressions, and I may hope of you
+    that you will not take them ill. With boundless veneration
+
+
+    Öhringen
+
+
+    the 10th of April
+
+
+    1806.
+
+
+    A Hahn'
+  names:
+  - de: Euer Hochwohlgebohren
+    en: Your Right Honourable
+    kind: other
+  - de: Öhringen
+    en: Öhringen
+    kind: place
+  - de: A Hahn
+    en: A Hahn
+    kind: person
+  numbers:
+  - '10'
+  - '1806'

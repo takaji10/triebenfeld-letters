@@ -101,16 +101,219 @@
    "doc_line": 33
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmars",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieger",
+   "surface_en": "Brieg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bar:",
+   "kind": "other",
+   "surface_de": "Bar:",
+   "surface_en": "Bar:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Beng:",
+   "kind": "other",
+   "surface_de": "Beng:",
+   "surface_en": "Beng:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohesche",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberg",
+   "surface_en": "Württemberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulm",
+   "surface_en": "Kulm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rüßland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "England",
+   "kind": "place",
+   "surface_de": "Engeland",
+   "surface_en": "England",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Saxon",
+   "kind": "other",
+   "surface_de": "Süchser",
+   "surface_en": "Saxon",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! Still the learned Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours that hindered it. — By now I take it for ill will — and one would decide in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — one also fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince means well by Your Serene Highness, as by all the Hohenlohe houses, I was assured again yesterday, and this very day something further goes off in favour of the said houses to the King of Würtemberg — the enclosure will also show Your Serene Highness what has been done. [uncertain: Hunting] is my greatest care, to submit the files and documents to the Commission on account of Trąbczyn, Kulm and Kaemen — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. It is necessary that this, as also the offered blank forms, be sent here quickly. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me quite away. Of general news there is much of various kinds that does not admit of being written; the weather is clouding over again, and the barometer points to storm; the [uncertain: Saxon] wants all at once to become an 8-Groschen piece again. How Russia and England mean it — O woe, I can write no more today than that in deep respect I remain Your Serene Highness's — send, Your Serene Highness, even if only a little money in advance, for otherwise everything comes to a standstill — most obedient servant. Vienna, the 28th of February 1815. v Triebenfeld"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nStill the Privy Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours which have hindered it. — I am gradually taking it for ill will — and the decision would be given in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — also one fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince is well disposed towards Your Serene Highness, as towards all the Hohenlohe houses, I was assured again only yesterday, and even today something further goes off in favour of the said houses to the King of Württemberg — the enclosure will also show Your Serene Highness what has been done.\n\n[uncertain: Jagt] my greatest concern is to submit the files and documents to the Commission concerning Trąbczyn, Kulm and Kaemen — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. — It is necessary that this be sent here quickly, as also the blank forms that were offered. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me out entirely. Of general news there is much of various kinds which cannot be written; the weather is clouding over again, and the barometer points to storm; the Saxon wants all at once to become an 8-Groschen piece again. How Russia and England are minded — O woe, I can write no more today than that in deepest respect I remain Your Serene Highness's\n\nsend on ahead, Your Serene Highness, if only a little money, for otherwise everything remains at a standstill, most obedient servant\n\nVienna, the 28th of February\n\n1815\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmars",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Brieger",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Bar:",
+     "en": "Bar:",
+     "kind": "other"
+    },
+    {
+     "de": "Beng:",
+     "en": "Beng:",
+     "kind": "other"
+    },
+    {
+     "de": "Hohenlohesche",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Würtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kulm",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Rüßland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Engeland",
+     "en": "England",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Süchser",
+     "en": "Saxon",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "8",
+    "28",
+    "1815"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! Still the learned Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours that hindered it. — By now I take it for ill will — and one would decide in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — one also fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince means well by Your Serene Highness, as by all the Hohenlohe houses, I was assured again yesterday, and this very day something further goes off in favour of the said houses to the King of Würtemberg — the enclosure will also show Your Serene Highness what has been done. [uncertain: Hunting] is my greatest care, to submit the files and documents to the Commission on account of Trąbczyn, Kulm and Kaemen — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. It is necessary that this, as also the offered blank forms, be sent here quickly. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me quite away. Of general news there is much of various kinds that does not admit of being written; the weather is clouding over again, and the barometer points to storm; the [uncertain: Saxon] wants all at once to become an 8-Groschen piece again. How Russia and England mean it — O woe, I can write no more today than that in deep respect I remain Your Serene Highness's — send, Your Serene Highness, even if only a little money in advance, for otherwise everything comes to a standstill — most obedient servant. Vienna, the 28th of February 1815. v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nStill the Privy Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours which have hindered it. — I am gradually taking it for ill will — and the decision would be given in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — also one fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince is well disposed towards Your Serene Highness, as towards all the Hohenlohe houses, I was assured again only yesterday, and even today something further goes off in favour of the said houses to the King of Württemberg — the enclosure will also show Your Serene Highness what has been done.\n\n[uncertain: Jagt] my greatest concern is to submit the files and documents to the Commission concerning Trąbczyn, Kulm and Kaemen — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. — It is necessary that this be sent here quickly, as also the blank forms that were offered. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me out entirely. Of general news there is much of various kinds which cannot be written; the weather is clouding over again, and the barometer points to storm; the Saxon wants all at once to become an 8-Groschen piece again. How Russia and England are minded — O woe, I can write no more today than that in deepest respect I remain Your Serene Highness's\n\nsend on ahead, Your Serene Highness, if only a little money, for otherwise everything remains at a standstill, most obedient servant\n\nVienna, the 28th of February\n\n1815\n\nv. Triebenfeld",
  "summary_en": "Reports from Vienna that Councillor of State Stägemann has still drafted no contract for the Prince State Chancellor, despite repeated reminders, which Triebenfeld now ascribes to ill will; the Brieg report nonetheless favours the Prince, though Cosmar and fears of Bar: and Beng: complicate matters. Assurances of the Chancellor's goodwill towards all Hohenlohe houses, with a further step taken towards the King of Würtemberg. Confined to bed, he cannot recover the Trąbczyn, Kulm and Kaemen files from the unpaid translator, and begs for money and the blank forms.",
  "summary_de": "Klage, daß Staatsrath Stägemann für den Fürsten Staatskanzler noch immer keinen Vertrag entworfen hat; trotz Mahnungen werde stets auf die Überlast an Arbeiten verwiesen, was Triebenfeld nun als Übelwollen deutet – man neige zu Cosmars Gunsten, wäre der Brieger Bericht nicht zu günstig; auch Bar: und Beng: würden gefürchtet. Zugunsten der Hohenlohischen Häuser gehe eine Eingabe an den König von Würtemberg ab. Akten und Übersetzung zu Trąbczyn, Kulm und Kaemen bleiben beim Translator liegen, da Geld fehlt; Bitte um Vorschuß und Blanquette. Andauernde Krankheit."
 }

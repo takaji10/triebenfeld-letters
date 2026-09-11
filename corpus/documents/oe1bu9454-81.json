@@ -139,20 +139,133 @@
    "doc_line": 25
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Roth",
+   "kind": "person",
+   "surface_de": "v. Roth",
+   "surface_en": "von Roth",
+   "page": 1
+  },
+  {
+   "entity": "schulze",
+   "display": "Schulze",
+   "kind": "person",
+   "surface_de": "Schulze",
+   "surface_en": "Schulze",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South [uncertain: Greustisch]",
+   "kind": "place",
+   "surface_de": "Südgreustischen",
+   "surface_en": "South [uncertain: Greustisch]",
+   "page": 1
+  },
+  {
+   "entity": "schulze",
+   "display": "Schulze",
+   "kind": "person",
+   "surface_de": "Schulze",
+   "surface_en": "Schulze",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord. However much Herr von Triebenfeld and Eysenhardt press me to procure them definite intelligence of the present state of the exchange of estates, I am nevertheless not in a position to report anything definite to Your Most Serene Highness today. In the South Prussian Registry and Expedition office, from which I am just now returning, nothing has yet arrived; this is a sign that the matter must still be lodged in the correspondence between the Minister v. Roth and the Privy [uncertain: Einweg] Councillor Schulze, and that nothing has yet been decreed. I do not think it expedient to trouble the said Schulze so often with my visits, since I have already told him the previous time what he must know for the present; I shall therefore, until"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord.\n\nHowever much Herr von Triebenfeld and Eysenhardt press me to procure them definite news of the present state of the exchange of estates, I am nevertheless not in a position to report anything definite to Your Most Serene Highness today. In the South [uncertain: Greustisch] registry with the dispatch office, from which I have this moment returned, nothing has yet come in; this is a sign that the matter must still be stuck in the correspondence between the Minister\n\nvon Roth and the Privy [uncertain: Einweg] Councillor Schulze, and that nothing has yet been decreed. I do not think it expedient to trouble the said Schulze so often with my visits, since what he needs to know for the present I have already told him the time before; I shall therefore, until",
+   "names": [
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "v. Roth",
+     "en": "von Roth",
+     "kind": "person"
+    },
+    {
+     "de": "Schulze",
+     "en": "Schulze",
+     "kind": "person"
+    },
+    {
+     "de": "Südgreustischen",
+     "en": "South [uncertain: Greustisch]",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "until the arrival of Your Serene Highness's power of attorney, [text lost] further, and since I look for the same next Tuesday, I shall then take pains without delay to legitimate myself therewith and to obtain a reliable enquiry from Herr Schulze. I remain, until death, Your Most Serene Highness's most humble, faithful and most obedient Michaelis Berlin, the 13th of October 1798"
+   "en": "until the arrival of Your Serene Highness's power of attorney, and since I look forward to the same next Tuesday, I shall then endeavour without delay to authenticate myself therewith and to obtain a reliable enquiry from Herr Schulze. I remain, until death, Your Most Serene Highness's most humble, faithful and most obedient\n\nMichaelis\n\nBerlin\n\nthe 13th of October\n\n1798",
+   "names": [
+    {
+     "de": "Schulze",
+     "en": "Schulze",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "13",
+    "1798"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord. However much Herr von Triebenfeld and Eysenhardt press me to procure them definite intelligence of the present state of the exchange of estates, I am nevertheless not in a position to report anything definite to Your Most Serene Highness today. In the South Prussian Registry and Expedition office, from which I am just now returning, nothing has yet arrived; this is a sign that the matter must still be lodged in the correspondence between the Minister v. Roth and the Privy [uncertain: Einweg] Councillor Schulze, and that nothing has yet been decreed. I do not think it expedient to trouble the said Schulze so often with my visits, since I have already told him the previous time what he must know for the present; I shall therefore, until\n\nuntil the arrival of Your Serene Highness's power of attorney, [text lost] further, and since I look for the same next Tuesday, I shall then take pains without delay to legitimate myself therewith and to obtain a reliable enquiry from Herr Schulze. I remain, until death, Your Most Serene Highness's most humble, faithful and most obedient Michaelis Berlin, the 13th of October 1798",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord.\n\nHowever much Herr von Triebenfeld and Eysenhardt press me to procure them definite news of the present state of the exchange of estates, I am nevertheless not in a position to report anything definite to Your Most Serene Highness today. In the South [uncertain: Greustisch] registry with the dispatch office, from which I have this moment returned, nothing has yet come in; this is a sign that the matter must still be stuck in the correspondence between the Minister\n\nvon Roth and the Privy [uncertain: Einweg] Councillor Schulze, and that nothing has yet been decreed. I do not think it expedient to trouble the said Schulze so often with my visits, since what he needs to know for the present I have already told him the time before; I shall therefore, until\n\nuntil the arrival of Your Serene Highness's power of attorney, and since I look forward to the same next Tuesday, I shall then endeavour without delay to authenticate myself therewith and to obtain a reliable enquiry from Herr Schulze. I remain, until death, Your Most Serene Highness's most humble, faithful and most obedient\n\nMichaelis\n\nBerlin\n\nthe 13th of October\n\n1798",
  "summary_en": "Michaelis reports from Berlin that, despite pressure from Herr von Triebenfeld and Eysenhardt for definite news, nothing has yet come in at the South Prussian Registry and Expedition office concerning the proposed exchange of estates; the business evidently still rests in correspondence between Minister v. Roth and Privy Councillor Schulze, with nothing decreed. He declines to call on Schulze again so soon and will wait for the Prince's power of attorney, expected Tuesday, to legitimate himself and press for a reliable answer.",
  "summary_de": "Trotz des Drängens von Triebenfeld und Eysenhardt kann über den Stand des Gütertausches noch nichts Bestimmtes berichtet werden: bei der südpreußischen Registratur und Expedition, von wo Michaelis eben zurückkommt, ist nichts eingegangen, woraus zu schließen ist, daß die Sache noch im Schriftwechsel zwischen Minister v. Roth und Geheimrath Schulze liege und nichts verfügt sei. Weitere Besuche bei Schulze hält er vorerst für unzweckmäßig; er erwartet die fürstliche Vollmacht am kommenden Dienstag, um sich damit zu legitimieren und verläßliche Auskunft zu erlangen."
 }

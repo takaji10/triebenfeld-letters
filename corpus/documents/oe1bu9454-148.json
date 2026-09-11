@@ -79,16 +79,110 @@
    "doc_line": 20
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Suvicia",
+   "kind": "place",
+   "surface_de": "Suvicia",
+   "surface_en": "Suvicia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Olesnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "P. M. In the tableaux which Glenck has just given Your Most Serene Highness of all the revenues of the S. P. estates, Swięcia stands at 1800 Rthl annual interest and 10000 Rthl capital. Upon the revision of the assessors concluded today, Swięcia yields only 918 Rthl interest yearly – the error is [uncertain: to be reckoned for the future] and the fine estate has, by heaven, been squandered away. It has 3792 Morgen and must have brought in just as many thousand rt. [uncertain: Mannen]. But it has been given away for 10000 Rthl capital and 918 Rthl interest, and consequently for 28360 Rthl, whereby a manifest loss of 47340 Rthl accrues to Your Serene Highness. If to this the Olesnicer loss of 48000 Rthl be taken against the present sale, then Your Serene Highness loses on these 95340 Rthl — and precisely both, estates net such a shortfall arises now upon the assessment. Trąbczyn, the 2nd of December 1804. v Triebenfeld"
+   "en": "P. M.\n\nIn the table which Glenck has just given Your Most Serene Highness of all the revenues of the S. P. estates, Swięcia stands at 1800 Rthl annual interest and 10000 Rthl capital. Upon the revision of the assessors concluded today, Suvicia yields only 918 Rthl interest yearly – the error is [uncertain: to be reckoned in future] and the fine estate has, by heaven, been squandered. It has 3792 Morgen and ought to have brought in just as many thousand Rthl in [uncertain: men/rents]. It has, however, been given away for 10000 Rthl capital and 918 Rthl interest, and consequently for 28360 Rthl, whereby a manifest loss of 47340 Rthl accrues to Your Serene Highness.\n\nIf to this the Olesnica loss of 48000 Rthl be reckoned against the present sale, then Your Serene Highness loses on these 95340 Rthl — and just\n\nboth, estates net such a shortfall arises now upon the assessment. Trąbczyn\n\nthe 2nd December 1804.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Suvicia",
+     "en": "Suvicia",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1800",
+    "10000",
+    "918",
+    "3792",
+    "10000",
+    "918",
+    "28360",
+    "47340",
+    "48000",
+    "95340",
+    "2ten"
+   ]
   }
  ],
- "text_english": "P. M. In the tableaux which Glenck has just given Your Most Serene Highness of all the revenues of the S. P. estates, Swięcia stands at 1800 Rthl annual interest and 10000 Rthl capital. Upon the revision of the assessors concluded today, Swięcia yields only 918 Rthl interest yearly – the error is [uncertain: to be reckoned for the future] and the fine estate has, by heaven, been squandered away. It has 3792 Morgen and must have brought in just as many thousand rt. [uncertain: Mannen]. But it has been given away for 10000 Rthl capital and 918 Rthl interest, and consequently for 28360 Rthl, whereby a manifest loss of 47340 Rthl accrues to Your Serene Highness. If to this the Olesnicer loss of 48000 Rthl be taken against the present sale, then Your Serene Highness loses on these 95340 Rthl — and precisely both, estates net such a shortfall arises now upon the assessment. Trąbczyn, the 2nd of December 1804. v Triebenfeld",
+ "text_english": "P. M.\n\nIn the table which Glenck has just given Your Most Serene Highness of all the revenues of the S. P. estates, Swięcia stands at 1800 Rthl annual interest and 10000 Rthl capital. Upon the revision of the assessors concluded today, Suvicia yields only 918 Rthl interest yearly – the error is [uncertain: to be reckoned in future] and the fine estate has, by heaven, been squandered. It has 3792 Morgen and ought to have brought in just as many thousand Rthl in [uncertain: men/rents]. It has, however, been given away for 10000 Rthl capital and 918 Rthl interest, and consequently for 28360 Rthl, whereby a manifest loss of 47340 Rthl accrues to Your Serene Highness.\n\nIf to this the Olesnica loss of 48000 Rthl be reckoned against the present sale, then Your Serene Highness loses on these 95340 Rthl — and just\n\nboth, estates net such a shortfall arises now upon the assessment. Trąbczyn\n\nthe 2nd December 1804.\n\nv Triebenfeld",
  "summary_en": "Challenges Glenck's newly submitted revenue table for the S. P. estates, which put Swięcia at 1,800 Rthl annual interest and 10,000 Rthl capital: the assessors' revision completed that day yields only 918 Rthl interest, so the 3,792-Morgen estate has been let go for the equivalent of 28,360 Rthl, a loss of 47,340 Rthl. Added to the Olesnica loss of 48,000 Rthl against the present sale, the Prince stands to lose 95,340 Rthl.",
  "summary_de": "Widerspruch zwischen Glencks Ertragstabelle der S. P. Güter und der heute abgeschlossenen Revision der Taxatoren: Swięcia (Suvicia) sei dort mit 1800 Rthl Zinsen und 10000 Rthl Capital angesetzt, bringe tatsächlich aber nur 918 Rthl jährlich. Das 3792 Morgen große Gut sei für zusammen 28360 Rthl verschleudert, woraus ein Verlust von 47340 Rthl erwachse; mit dem Olesnica-Verlust von 48000 Rthl beliefe sich der Schaden des Fürsten auf 95340 Rthl."
 }

@@ -2,14 +2,44 @@ status: draft
 segments:
 - page: 1
   en: 'Send Your Serene Highness the 200 ducats with all haste, or I must shoot myself dead; I could not
-    bear the disgrace that the Prince himself should think ill [uncertain: wähnte — "imagine"], and in
-    the end grow angry, for then, as well as matters now stand, all would nevertheless be lost. It is
-    hard here to get through and to get at people, and now to have any effect. But the devil may do that
-    — only, one can accomplish nothing here when one has no money. For the rest, do take care that Prince
-    August demands the power of attorney back from Cosmar quickly. People here have no very good opinion
-    of the young gentleman — although he now wears a moustache — as regards the written undertaking given
-    by him, be well on your guard — As I hear, you have indeed left the written undertaking behind in
-    Öhringen. It could be that you might have great need of it — the King of Würtemberg has, it is true,
-    already recognised the mediatised princes as Estates and has sent here a project for a constitution
-    drafted by himself — but has paid no heed to it. Besides, the Estates have already protested against
-    it. As to the 200 Th. I now beg urgently — otherwise things go badly. This 4th of March 1815'
+    bear the disgrace that the Prince himself should also be deluded, and in the end grow angry, for then,
+    as good as matters now stand, all would nevertheless be lost. It is hard here to get through and to
+    get at the people so as now to have any effect. But the devil may do that; only, one can accomplish
+    nothing here.
+
+
+    when one has no money.
+
+
+    For the rest, do see to it that Prince August demands the power of attorney back quickly from Cosmar.
+    People here have no very good opinion of the young gentleman — although he now wears a moustache —
+    with respect to the written undertaking given by him, be well on your guard — As I hear, you have
+    indeed left the written undertaking behind in Öhringen. It could be that you might be in great need
+    of it — the King of Württemberg has, to be sure, already recognised the mediatised as Estates and
+    has sent here a project for a constitution drafted by himself — but no notice was taken of it; besides,
+    the Estates have already protested against it. For the 200 Th. I now beg urgently — Otherwise things
+    go badly, the
+
+
+    4 March 1815'
+  names:
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: f. August
+    en: Prince August
+    kind: person
+  - de: Ohrin gen
+    en: Öhringen
+    kind: place
+  - de: Würtemberg
+    en: Württemberg
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  numbers:
+  - '200'
+  - '200'
+  - '4'
+  - '1815'

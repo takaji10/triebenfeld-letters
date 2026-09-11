@@ -1,72 +1,211 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! In the death of the Princess Sanken I take the
-    liveliest part; my [uncertain: dearest] condolence I lay at Your Serene Highness''s feet. May Heaven
-    preserve Your Serene Highness in return, let both of them become strangers to you, and [uncertain:
-    grant] you rest and the most durable health, so that you may yet for a long series of years remain
-    the support of your House and the benefactor of good people. The news of the most blessed Princess''s
-    death was already in my hands on the 11th. Gladly would I have hastened to Your Serene Highness, had
-    not just now 4 principal matters been due to be decided by the Departmental Minister, on which the
-    preservation of the Pat. estates depended. Only yesterday did I receive the confirmation and the approved
-    settlement, that the Bank and Invalids'' debts, together with the [uncertain: overdue arrears], are
-    to be paid off over 41 3/4 years at 6 per cent. The copies follow herewith; according to these the
-    estates are 2. 41 3/4 quite clear. According to the hint given me by the Minister in confidence, an
-    equally proportioned moratorium will follow with respect to the private debts, whereupon Herr Weigel
-    will be settled with in the same manner. I shall thank God on my knees in [uncertain: places] that
-    those usurers, who often did Your Serene Highness very [uncertain: true/grievous] harm, must be content
-    with this wise and general ordinance. Now there remains only the business of working out and fixing
-    the revenues definitely,'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    In the decease of the Princess Sanken I take the liveliest part; my [uncertain: dearest] condolence
+    I lay at Your Serene Highness''s feet. May Heaven in return preserve Your Serene Highness alone, let
+    both of them become strangers to you, and [uncertain: grant] you rest and the most durable health,
+    so that you may yet for a long series of years remain the support of your House and the benefactor
+    of good men. The news of the death of the Princess, now most blessed, was already in my hands on the
+    11th. I should gladly have hastened to Your Serene Highness, had not just now 4 principal matters
+    been due to be decided by the Departmental Minister, upon which the preservation of the patrimonial
+    estates depended. Only yesterday did I receive the confirmation and the approved settlement, namely
+    that the Bank and Invalids'' debts, together with the arrears of interest [uncertain: Zutrahm], are
+    to be paid off over 41 ¾ years at 6 per cent. The copies follow herewith; according to these the estates
+    are, in 2. 41 3/4, entirely clear. According to the hint given me by the Minister in confidence, a
+    like moratorium will follow in respect of the private debts, whereupon Mr. Weigel will be settled
+    with in the same manner.
+
+
+    God will I thank on my knees in [uncertain: Stellen] that those usurers, who often did Your Serene
+    Highness very [uncertain: true] harm, must now be content with this wise general disposition.
+
+
+    Now there remains only the business of working out and fixing the revenues definitely'
+  names:
+  - de: Frau Fürstin Sanken
+    en: the Princess Sanken
+    kind: person
+  - de: HErn Weigel
+    en: Mr. Weigel
+    kind: person
+  numbers:
+  - '11'
+  - '4'
+  - 41 ¾
+  - '6'
+  - 2. 41 3/4
 - page: 2
-  en: 'so that a well-founded budget may be formed. The hereditary lessees pay absolutely nothing – the
-    suits concerning this are pending; the outcome will be that all contracts are annulled and the [uncertain:
-    stipulation] must be thrown out, against which one must lay out demesne farms on the [uncertain: cleared]
-    lands. Beer and brandy [uncertain: cultivation] is already being administered for Your Serene Highness
-    from the 1st of July – this branch will yield most highly at [illegible], instead of the barely 1500
-    Rthl got out of the lessees by wicked lawsuits. The Olemizur and Werbizier suit is pending; it may
-    yet be 6 weeks before the matters are decided at the Tribunal – this much, however, I know for certain,
-    that the contracts will be [uncertain: annulled/caused], and then Your Serene Highness will receive
-    40000 Rthl on each of them there, the annual interest of 2000 Rthl. With Swiecia it comes out exactly
-    the same, for the present holders pay not a Groschen at all; they must go, and be announced to the
-    Poles – these are now the only ones who pay; the Germans absolutely nothing. The revenues, when everything
-    has been won through lawsuits, will come to stand at 22 to 24000 Rthl. At present not a devil pays
-    anything; even all the executions bear no fruit. Hecker and Hawich set the people on to this, and
-    this makes the [uncertain: last ones] still more obstinate – Meanwhile Hecker was yesterday entirely
-    [uncertain: refused/dismissed] in the Tribunal; as soon as the [uncertain: Prefect] returns from the
-    baths the rogue will be arrested. The thief demands wages notwithstanding that, so far as I have learnt
-    the matters, he already has more than 5000 Rthl behind him. He was engaged in February 1808, gave
-    himself notice on the 25th of 9br of the same year, and he could demand of me'
+  en: 'so that a sound budget may be formed.
+
+
+    The hereditary leaseholders pay nothing whatever – the suits on that account are pending; the result
+    will be that all contracts are annulled and the [uncertain: Bestimung] thrown out, against which one
+    must lay out demesne farms on the [uncertain: geradeten] lands.
+
+
+    The beer and brandy rent-roll is already being administered for Your Serene Highness from the 1st
+    of July – this branch will yield the utmost [uncertain: an Büro d], instead of the 1500 Rthl scarcely
+    got out of the lessees by way of bitter lawsuits. The Olemizur and Werbizier suit is pending; it may
+    yet be 6 weeks before the matters are decided at the Tribunal – so much, however, I know for certain,
+    that the contracts will be annulled, and then Your Serene Highness will receive 40000 Rthl upon each,
+    there the annual interest of 2000 Rthl; with Swiecia it comes out exactly so, for the present possessors
+    pay not a Groschen whatever, they must go, and be given notice to the Poles; those are now the only
+    ones who pay, the Germans absolutely nothing. The revenues, once everything has been won through litigation,
+    will come to stand at from 22 to 24000 Rthl. At present not a devil pays anything; even all the executions
+    bear no fruit. Hecker and Hawich set the people up to it, and this makes the [uncertain: leester]
+    still more obstinate – meanwhile Hecker was yesterday wholly [uncertain: dismissed] in the Tribunal;
+    as soon as the [uncertain: Prifat] returns from the baths the rogue will be arrested. The thief demands
+    wages notwithstanding that, so far as I have unlearnt the matters, he has already more than 5000 Rthl
+    behind him. He was engaged in February 1808, released himself of his own accord on the 25th of November
+    of the same year, and he could only'
+  names:
+  - de: Olemizur
+    en: Olemizur
+    kind: place
+  - de: Werbizier
+    en: Werbizier
+    kind: place
+  - de: Swiecia
+    en: Swiecia
+    kind: place
+  - de: Hecker
+    en: Hecker
+    kind: person
+  - de: Hawich
+    en: Hawich
+    kind: person
+  - de: Prifat
+    en: Prifat
+    kind: person
+  numbers:
+  - '1500'
+  - '6'
+  - '40000'
+  - '2000'
+  - '22'
+  - '24000'
+  - '5000'
+  - '1808'
+  - '25'
+  - 9br
 - page: 3
-  en: 'only 8 months'' salary – that amounted to 400 Rthl – But according to the audit he has taken some
-    5000 Rthl – his paper security amounts at most to 2100 d at the current rate, so he must still pay
-    out 2500 Rthl; his interference from 10 April 1810 to 8 January 1811 is not valid and is rejected
-    — that I have moreover not written to Your Serene Highness since the month of February, I dispute,
-    and shall prove the contrary – I only [uncertain: gathered], since I have been a landed proprietor
-    here, that Hecker, Hawich and these rogues represented me as a dangerous [uncertain: perjurer] who
-    held with the enemies of Poland, on which account my letters have been intercepted – But as soon as
-    the General Fiscal returns, [uncertain: he/I] shall frame a criminal process against S. – For the
-    rest I have [illegible], for whose honesty I have always stood surety, instructed to send in to Your
-    Serene Highness the most punctual accounts of every Groschen taken in and paid out. I have wretchedly
-    struggled through, often gone hungry and lain in a hole, against which Your Serene Highness''s dogs
-    may be called a lesser [uncertain: kennel]. My fine Kontopper estates the devil has carried off over
-    this; I was, from that cursed Berlin affair, as also to Blockadg and Stolzapfel, still some 6500 Rthl
-    in debt; more than 2000 Rthl I had brought here and travelled [uncertain: myself and after]; the usurers
-    pursued me as far as here into Poland; I had to enter, from their mal gré, into the barter deal so
-    that I saved myself and was not once again arrested as in Berlin. Meanwhile I have been received here
-    with love and kindness; I believe I shall find here a quiet [uncertain: physician] — For the rest
-    I have reduced the personnel, engaged cheap men for Your Serene Highness – the Commissary of Husbandry,
-    the [uncertain: Word] (which every hereditary lord should himself be), the [uncertain: Rentmeister],
-    the Chief Forester, 2 under-foresters, one steward over the propination rights, cost 1000 Rthl yearly;
-    I think Your Serene Highness can be content with that.'
+  en: 'demand his salary for 8 months – that amounted to 400 Rthl – but after the audit he has some 5000
+    Rthl gone – his paper security amounts at most to 2100 d at the rate of exchange, so he must still
+    pay out 2500 Rthl; his interference from 10 April 1810 to 8 January 1811 does not hold good and is
+    rejected — that I have, for the rest, not written to Your Serene Highness since the month of February,
+    I do contest, and shall prove the contrary – I only know [uncertain: erthegt], since I have been an
+    estate proprietor here, that Hecker, Hawich and these rogues gave me out for a dangerous [uncertain:
+    perjurer] who sided with the enemies of Poland, on which account my letters have been intercepted
+    – But as soon as the Attorney-General returns, a criminal prosecution will be framed against them,
+    S. – For the rest I have [uncertain: habenis], for whose honesty I have always been surety, charged
+    to send in to Your Serene Highness the most punctual accounts of every Groschen taken in and paid
+    out. I have wound my way through in wretchedness, often gone hungry and lain in a hole against which
+    Your Serene Highness''s dog-kennel could be called the lesser [uncertain: ein fallest]. My fine Kontop
+    estates the devil has taken over it; I was, from that [illegible] Berlin affair, as well as to the
+    [uncertain: Blockadg] and Stolz[uncertain: apfel], still some 6500 Rthl in debt; over 2000 Rthl I
+    had brought here and [uncertain: travelled away with myself and after]; the usurers pursued me here
+    into Poland, I had to enter into the barter-bargain with them malgré, so that I saved myself and was
+    not once again arrested as in Berlin. Meanwhile I have been received here with love and kindness;
+    I believe I shall find here a quiet [uncertain: physician] — Otherwise I have reduced the personnel
+    and engaged cheap men for Your Serene Highness – the economy commissary, the [uncertain: Wort] (which
+    every hereditary lord should be himself), the rent-master, the head forester, 2 under-foresters, a
+    bailiff over the propination rights, cost 1000 Rthl yearly; I think Your Serene Highness can be content
+    with that.'
+  names:
+  - de: Hecker
+    en: Hecker
+    kind: person
+  - de: Hawich
+    en: Hawich
+    kind: person
+  - de: Kontopper
+    en: Kontop
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Berliner
+    en: Berlin
+    kind: place
+  - de: Stolz apfel
+    en: Stolz apfel
+    kind: person
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: habenis
+    en: habenis
+    kind: person
+  numbers:
+  - '8'
+  - '400'
+  - '5000'
+  - '2100'
+  - '2500'
+  - '10'
+  - '1810'
+  - '8'
+  - '1811'
+  - '6500'
+  - '2000'
+  - '2'
+  - '1000'
 - page: 4
-  en: 'The lawsuits alone cost a furious deal of money, and before everything is put in order the Devil
-    may yet fetch [uncertain: a few thousand] – For this once, however, nothing shall be thrown away for
-    nothing, for if I now lose a suit in Your Serene Highness''s affairs, then I will suffer boxes on
-    the ear from the [uncertain: Professor]. On the 25th I go to Berlin and on the 12th of Aug. I am back
-    here again; they wish to speak there too — The Minister, General Prefect Count Gacczynali, also desires
-    that I should attend to a matter for him. Gladly would [uncertain: I speak]; the times are pregnant
-    with great things. [uncertain: to speak with] Your Serene Highness even but one little hour — M[inister]
-    Hardenberg is my [uncertain: greener/friend] and Konstan: means well – the vacations now set in here,
-    when the judges rest; if I knew where Your Serene Highness now is, I would lay myself at your [uncertain:
-    feet] in person. In deepest reverence I remain, until death, Your Serene Highness''s Kalisz, the 21st
-    of July 1811. humble and obedient faithful servant v Triebenfeld'
+  en: 'The lawsuits alone cost a furious deal of money, and before everything is set in order Satan may
+    yet [uncertain: fetch] a couple of thousand more – for this time, however, nothing shall be thrown
+    away for nothing, for if I now lose a suit in Your Serene Highness''s affairs, I will suffer boxes
+    on the ear from the Professor.
+
+
+    On the 25th I go to Berlin and on the 12th of August I am back here again; they wish to speak there
+    as well — The Minister and Prefect-General Count Gacczynali also desires that I should attend to a
+    matter for him. Gladly — the times are pregnant with great things. I [would speak with] Your Serene
+    Highness even but a little hour — M. Hard: is my [uncertain: Grüner] and Konstan: means well – the
+    vacation now sets in here, when the judges rest; if I knew where Your Serene Highness now is, I should
+    surely lay myself at your feet in person. In deepest reverence I remain, until death,
+
+
+    Your Serene Highness''s
+
+
+    Kalisz, the 21st of July
+
+
+    1811.
+
+
+    humble and faithful servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Graf Gacczynali
+    en: Count Gacczynali
+    kind: person
+  - de: 'M Hard:'
+    en: 'M. Hard:'
+    kind: person
+  - de: 'Konstan:'
+    en: 'Konstan:'
+    kind: person
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '25'
+  - '12'
+  - '21'
+  - '1811'
+  - '1'

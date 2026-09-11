@@ -353,7 +353,7 @@ terms:
     policy: translate
     render: 'claim'
   - term: Hauländer                         # 4 in corpus
-    pattern: 'Haus?l(ä|ae|a)nder\w*|\bOl(ę|e)nder\w*|\bOl(ę|e)der\w*|\bHol+[ae]nder\w*|\bHol+[ae]ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bOl(ę|e)ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bHoll(ä|ae)nder\w*(?=\s+(?-i:[A-ZÄÖÜ][a-zä-ÿ]+\s+[A-ZÄÖÜ]))|\bHoll(ä|ae)nder\w*\s+(?:Hufe|Gemeine)|(?:Bauren|Bauern|Bauen)\s+und\s+Holl(ä|ae)nder\w*'
+    pattern: 'Ha[un]s?l(ä|ae|a)nder\w*|\bOl(ę|e)nder\w*|\bOl(ę|e)der\w*|\bHol+[ae]nder\w*|\bHol+[ae]ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bOl(ę|e)ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bHoll(ä|ae)nder\w*(?=\s+(?-i:[A-ZÄÖÜ][a-zä-ÿ]+\s+[A-ZÄÖÜ]))|\bHoll(ä|ae)nder\w*\s+(?:Hufe|Gemeine)|(?:Bauren|Bauern|Bauen)\s+und\s+Holl(ä|ae)nder\w*'
     policy: translate
     render: 'Hollander'
     gloss: >-
@@ -371,6 +371,8 @@ terms:
       pattern therefore admits Holl- only where the settler sense is plain -
       before a forename AND surname, before Hufe or Gemeine, or after
       "Bauern und".
+      `Hanlaender` is admitted too: one occurrence, a u/n minim slip of the kind
+      Kurrent produces constantly, and the same word.
       The Polish forms are the same man: document 7 opens in Polish with
       "i Hollendrem Bogumiłem Sarre" and its German body has "der
       Hausländer Wirth Gottlieb Sarre" - one settler, two languages, and

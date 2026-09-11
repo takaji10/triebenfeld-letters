@@ -114,20 +114,279 @@
    "doc_line": 16
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Gosztiszyn",
+   "kind": "place",
+   "surface_de": "Gosztiszyn",
+   "surface_en": "Gosztiszyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schmidt",
+   "kind": "person",
+   "surface_de": "Schmidt",
+   "surface_en": "Schmidt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radziwill",
+   "kind": "person",
+   "surface_de": "Radiwill",
+   "surface_en": "Radziwill",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radziwill",
+   "kind": "person",
+   "surface_de": "Radziwill",
+   "surface_en": "Radziwill",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Radziwill",
+   "kind": "person",
+   "surface_de": "E. Rad:",
+   "surface_en": "Prince Radziwill",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radziwill",
+   "kind": "person",
+   "surface_de": "Radziwill",
+   "surface_en": "Radziwill",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stettin",
+   "kind": "place",
+   "surface_de": "Stettin",
+   "surface_en": "Stettin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Klew[text lost]",
+   "kind": "other",
+   "surface_de": "Klew[...]",
+   "surface_en": "Klew[text lost]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Cziszewska",
+   "kind": "person",
+   "surface_de": "Cziszewska",
+   "surface_en": "Cziszewska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Constantin",
+   "kind": "person",
+   "surface_de": "Constantin",
+   "surface_en": "Constantin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawaatschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sterbui",
+   "kind": "place",
+   "surface_de": "Sterbui",
+   "surface_en": "Sterbui",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! [text lost] I have the news that at Gosztiszyn a [text lost]valuation has been delivered — but no letter has [text lost] I shall have it fetched tomorrow and then make the [text lost] use of it [text lost] could be back at Posen on the 22nd — He was [text lost] to Berlin in order to be dismissed or at least to be soundly [uncertain: taken to task] — the matter was this: an opinion was to be submitted by both on the organisation of the Grand Duchy of Posen — Zerboni threw this together with his secretary Schmidt and sent it at the end to Prince Radziwill for co-signature; Radziwill refused the latter, because it was the opposite of what the King himself had said to the Prince and had ordered him to do. His [Serene Highness?] Rad: accordingly sent Zerboni back the [uncertain: petition] with the proper remarks — Zerboni, incensed at this, said: It concerns the devil as much as the said Prince — his signature is not required. I am the governing lord here."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\n[text lost] I have the news that at Gosztiszyn a [text lost]valuation has been delivered - but no letter is [text lost] I shall have it fetched tomorrow and then make the [text lost] use of it [text lost] could be back at Posen on the 22nd - He was [text lost] to Berlin in order to be dismissed, or at least to be soundly [uncertain: brought to judgement] — the matter was this — An opinion was to be submitted by both of them concerning the organisation of the Grand Duchy of Posen — Zerboni threw this together with his secretary Schmidt and in the end sent it to Prince Radziwill for his counter-signature; the latter refused, because it was the opposite of what the King himself had said to the Prince and had ordered of him.\n\nPrince Radziwill accordingly sent the papers back to Zerboni with the appropriate remarks - Zerboni, indignant at this, said: The devil is as much concerned in it as the aforesaid Prince - His signature is not required.\n\nI am the governing lord here.",
+   "names": [
+    {
+     "de": "Gosztiszyn",
+     "en": "Gosztiszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Schmidt",
+     "en": "Schmidt",
+     "kind": "person"
+    },
+    {
+     "de": "Radiwill",
+     "en": "Radziwill",
+     "kind": "person"
+    },
+    {
+     "de": "Radziwill",
+     "en": "Radziwill",
+     "kind": "person"
+    },
+    {
+     "de": "E. Rad:",
+     "en": "Prince Radziwill",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "22"
+   ]
   },
   {
    "page": 2,
-   "en": "This was at once [reported] to Prince Radziwill [text lost] aggrieved in the highest degree, he went immediately with [text lost] his consort followed him, and both [text lost] the King had the Prince [text lost] indeed effected that the [text lost] the said [person] is a new [text lost] Z. was immediately [sent] to Stettin, [destination] unknown — It is said Klew[text lost] but the money-men as [text lost] I go cautiously with my affairs — [text lost] at Petersburg it is said to look [uncertain: favourable]. [text lost] the Senate is said to have wholly rejected the Polish constitution which the [text lost] fair Cziszewska has signed. It is said that the Poles thereupon declared themselves to the Emperor through a secret deputation, that they stand at his service forthwith with several hundred thousand men and would sacrifice everything to uphold the constitution. This is said to have become known there, and now Satan's mischief is loose. His [Excellency?] Ernst Constantin has gone to Petersburg as if on the wings of the wind. When my messenger sent to Schlawaatschitz can return, then I go to Betsche, and when I am finished there, to Sterbui, in order to pursue the indemnification business. In the principal matter I refer myself to my last letter, wherewith I remain, until death, in deepest reverence Your Serene Highness's wholly humble and obedient servant\nBlizanow, 2[9?] January 1816"
+   "en": "This was at once [text lost] to Prince Radziwill; irritated in the highest degree, he went at once with [text lost] his wife followed him, and both [text lost] the King had the Prince [text lost] indeed worked that the [text lost]\n\nthe aforesaid is a new [text lost]\n\nZ. was at once sent to Stettin\n\nunknown — It is said Klew[...] but the money-men as [text lost] I proceed cautiously with my affairs -[text lost] at Petersburg it is said to look wholly [uncertain: favourable].[text lost] the Senate is said to have entirely rejected the Polish constitution, which the [text lost] fair Cziszewska has signed. It is said that the Poles thereupon declared themselves to the Emperor through a secret deputation, that they stood ready to serve him at once with several hundred thousand men and would sacrifice everything in order to uphold the constitution. This is said to have become known there, and now the [uncertain: Satan's brood] is loose. His Grace Constantin has gone to Petersburg as if on the wings of the wind. As soon as my messenger sent to Schlawenschitz can return, I shall then go to Betsche, and when I am finished there, to [uncertain: Sterbui] to press the indemnification business. In the main matter I refer myself to my last letter, and\n\nI remain, until death, in deepest reverence\n\nYour Serene Highness's\n\nwholly humble and obedient servant\n\nBlizanow\n\n2[9?] January 1816",
+   "names": [
+    {
+     "de": "Radziwill",
+     "en": "Radziwill",
+     "kind": "person"
+    },
+    {
+     "de": "Stettin",
+     "en": "Stettin",
+     "kind": "place"
+    },
+    {
+     "de": "Klew[...]",
+     "en": "Klew[text lost]",
+     "kind": "other"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Cziszewska",
+     "en": "Cziszewska",
+     "kind": "person"
+    },
+    {
+     "de": "Constantin",
+     "en": "Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawaatschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Sterbui",
+     "en": "Sterbui",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2[9?]",
+    "1816"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! [text lost] I have the news that at Gosztiszyn a [text lost]valuation has been delivered — but no letter has [text lost] I shall have it fetched tomorrow and then make the [text lost] use of it [text lost] could be back at Posen on the 22nd — He was [text lost] to Berlin in order to be dismissed or at least to be soundly [uncertain: taken to task] — the matter was this: an opinion was to be submitted by both on the organisation of the Grand Duchy of Posen — Zerboni threw this together with his secretary Schmidt and sent it at the end to Prince Radziwill for co-signature; Radziwill refused the latter, because it was the opposite of what the King himself had said to the Prince and had ordered him to do. His [Serene Highness?] Rad: accordingly sent Zerboni back the [uncertain: petition] with the proper remarks — Zerboni, incensed at this, said: It concerns the devil as much as the said Prince — his signature is not required. I am the governing lord here.\n\nThis was at once [reported] to Prince Radziwill [text lost] aggrieved in the highest degree, he went immediately with [text lost] his consort followed him, and both [text lost] the King had the Prince [text lost] indeed effected that the [text lost] the said [person] is a new [text lost] Z. was immediately [sent] to Stettin, [destination] unknown — It is said Klew[text lost] but the money-men as [text lost] I go cautiously with my affairs — [text lost] at Petersburg it is said to look [uncertain: favourable]. [text lost] the Senate is said to have wholly rejected the Polish constitution which the [text lost] fair Cziszewska has signed. It is said that the Poles thereupon declared themselves to the Emperor through a secret deputation, that they stand at his service forthwith with several hundred thousand men and would sacrifice everything to uphold the constitution. This is said to have become known there, and now Satan's mischief is loose. His [Excellency?] Ernst Constantin has gone to Petersburg as if on the wings of the wind. When my messenger sent to Schlawaatschitz can return, then I go to Betsche, and when I am finished there, to Sterbui, in order to pursue the indemnification business. In the principal matter I refer myself to my last letter, wherewith I remain, until death, in deepest reverence Your Serene Highness's wholly humble and obedient servant\nBlizanow, 2[9?] January 1816",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\n[text lost] I have the news that at Gosztiszyn a [text lost]valuation has been delivered - but no letter is [text lost] I shall have it fetched tomorrow and then make the [text lost] use of it [text lost] could be back at Posen on the 22nd - He was [text lost] to Berlin in order to be dismissed, or at least to be soundly [uncertain: brought to judgement] — the matter was this — An opinion was to be submitted by both of them concerning the organisation of the Grand Duchy of Posen — Zerboni threw this together with his secretary Schmidt and in the end sent it to Prince Radziwill for his counter-signature; the latter refused, because it was the opposite of what the King himself had said to the Prince and had ordered of him.\n\nPrince Radziwill accordingly sent the papers back to Zerboni with the appropriate remarks - Zerboni, indignant at this, said: The devil is as much concerned in it as the aforesaid Prince - His signature is not required.\n\nI am the governing lord here.\n\nThis was at once [text lost] to Prince Radziwill; irritated in the highest degree, he went at once with [text lost] his wife followed him, and both [text lost] the King had the Prince [text lost] indeed worked that the [text lost]\n\nthe aforesaid is a new [text lost]\n\nZ. was at once sent to Stettin\n\nunknown — It is said Klew[...] but the money-men as [text lost] I proceed cautiously with my affairs -[text lost] at Petersburg it is said to look wholly [uncertain: favourable].[text lost] the Senate is said to have entirely rejected the Polish constitution, which the [text lost] fair Cziszewska has signed. It is said that the Poles thereupon declared themselves to the Emperor through a secret deputation, that they stood ready to serve him at once with several hundred thousand men and would sacrifice everything in order to uphold the constitution. This is said to have become known there, and now the [uncertain: Satan's brood] is loose. His Grace Constantin has gone to Petersburg as if on the wings of the wind. As soon as my messenger sent to Schlawenschitz can return, I shall then go to Betsche, and when I am finished there, to [uncertain: Sterbui] to press the indemnification business. In the main matter I refer myself to my last letter, and\n\nI remain, until death, in deepest reverence\n\nYour Serene Highness's\n\nwholly humble and obedient servant\n\nBlizanow\n\n2[9?] January 1816",
  "summary_en": "Damaged and lacunose report noting that a valuation has been delivered at Gosztiszyn, to be fetched and used. At length recounts the quarrel over the opinion on the organisation of the Grand Duchy of Posen: Zerboni, drafting it with his secretary Schmidt, was refused co-signature by Prince Radziwill and disparaged him, whereupon Radziwill complained to the King and Zerboni was sent to Stettin. Adds rumours from Petersburg of the Senate rejecting the Polish constitution, and plans travel to Betsche and Sterbui for the indemnification business.",
  "summary_de": "Nachricht von einer in Gosztiszyn eingelieferten Taxe, die abgeholt werden soll; ausführlich der Streit zwischen Zerboni und Fürst Radziwill über das gemeinsam zu erstattende Gutachten zur Organisation des Großherzogthums Posen, das Radziwill nicht mitunterzeichnete, samt Zerbonis Äußerungen, der Beschwerde beim König und Zerbonis Abgang nach Stettin. Ferner Gerüchte aus Petersburg über die Verwerfung der polnischen Constitution durch den Senat. Geplante Reisen nach Betsche und Sterbui wegen des Indemnisationsgeschäfts; im Hauptpunkt Verweis auf den letzten Brief. Textverluste."
 }

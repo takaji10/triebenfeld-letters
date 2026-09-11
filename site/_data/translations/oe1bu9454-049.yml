@@ -1,21 +1,78 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! How glad I was when it was reported to me that
-    a messenger had arrived from Your Serene Highness''s house; but how cast down I stood when I saw not
-    a line from Your Serene Highness, and still less an answer to the letter I had sent to Your Serene
-    Highness. I am still under arrest here without cease, and may not get away any sooner than when I
-    have despatched from here the 600 Centner of iron, in accordance with the word of honour given by
-    me, and have the release from the justice-burgomaster Scheu of Neufall. I also yearn so heartily to
-    lay myself personally at Your Most Serene Highness''s feet. But I dare not stir from the spot. If
-    it be in any way possible for Your Serene Highness in this world, then [uncertain: schulm — reading
-    doubtful] me the iron as soon as it can be; and if the old ones would have my sorrow, then send the
-    thousand Centner in full: with that, Michaelis Lahr and all the Berlin costs are satisfied. But I
-    beg most heartily that the iron be sent directly here to Bogadel, to my administrator Neumann, for
-    I dare not leave until the iron has been handed over here to the justice-burgomaster [uncertain: Schenck
-    — elsewhere on this page the same office is named Scheu]; and who else would arrange the transport
-    hither for me? Let me by no means make a vain petition this time, Your Serene Highness, and rescue
-    me speedily; then I am, to my last breath, wholly at Your Highest commands, and by God I shall do
-    it well. In deepest reverence I remain, until death, faithful humble and obedient servant. It is said
-    that a Russian corps is to be able to stand on the Po[lish] and Silesian frontier — would to God this
-    were so! Your Most Serene Highness''s v Triebenfeld. Kontop, the 20th of March 1809.'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    How glad I was when I was told that a messenger had arrived from Your Serene Highness''s house, but
+    how cast down I stood when I saw not a line from Your Serene Highness and still less an answer to
+    the letter I had sent to Your Serene Highness. I am here continually under arrest and may not get
+    away any sooner than until I have dispatched from here the 600 hundredweight of iron, according to
+    the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall.
+
+
+    I likewise long so heartily to lay myself personally at the feet of Your Most Serene Highness. But
+    I may not stir from the spot. If it is in any way in the world possible for Your Serene Highness,
+    then [uncertain: send] me the iron as soon as it can be, and should you wish to have the old [uncertain:
+    reading] of my distress, then send the thousand hundredweight in full; that is the Michaelmas year,
+    and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent straight here
+    to Bogadel to my administrator Neumann, for I may not depart until the iron has been handed over here
+    to the justice-burgomaster Scheu, and who would see to the transport here for me. Let me indeed not
+    make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am to the last
+    breath wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain,
+    until death,
+
+
+    faithful, humble and obedient servant
+
+
+    It is said that a [uncertain: Russian] corps is said to be able to stand on the Po[lish] and Silesian
+    frontier - Would to God this were so! Your Most Serene Highness
+
+
+    v Triebenfeld
+
+
+    Kontop
+
+
+    the 20th of March
+
+
+    1809.'
+  names:
+  - de: Scheu
+    en: Scheu
+    kind: person
+  - de: Neufall
+    en: Neufall
+    kind: place
+  - de: Bogadel
+    en: Bogadel
+    kind: place
+  - de: Neumann
+    en: Neumann
+    kind: person
+  - de: Michaelis
+    en: Michaelmas
+    kind: other
+  - de: Berliner
+    en: Berlin
+    kind: place
+  - de: Schlesischen
+    en: Silesian
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  - de: Kontop
+    en: Kontop
+    kind: place
+  numbers:
+  - '600'
+  - 1000 ("tausend")
+  - '20'
+  - '1809'

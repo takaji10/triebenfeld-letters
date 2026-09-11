@@ -67,16 +67,65 @@
    "doc_line": 3
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Herr Fürst u Hohenlohe",
+   "surface_en": "the Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curländischen",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gruemann[uncertain]",
+   "kind": "person",
+   "surface_de": "Gruemann[??]",
+   "surface_en": "Gruemann[uncertain]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Your Right Honourable have, in your representation of the 23rd of [uncertain: Ors.] of this year, observed: that the Prince of Hohenlohe did, in the Settlement of 1811, undertake to pay himself the capital owed to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Lady Countess of her joint obligation for — I therefore most respectfully request you, since I cannot find the passage in the enclosed Settlement, to be so obliging as to mark it with red chalk or otherwise, and thereupon most kindly to send it back to me by the bearer. Commending myself most respectfully, Gruemann[uncertain] herein, the 7th of Oct. 1814"
+   "en": "Your Right Honourable have observed in your representation of the 23rd of the [uncertain: present] month of this year:\n\nthat the Prince of Hohenlohe, in the settlement of 1811, undertook to pay himself the capital sum owing to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Countess of the joint obligation. I therefore most respectfully request that you be so kind as to mark the passage in the enclosed settlement with red chalk or otherwise, since I cannot find it, and then graciously send it back to me by the bearer. Commending myself most respectfully,\n\nGruemann[uncertain]\n\ntherein, the 7th of October 1814",
+   "names": [
+    {
+     "de": "Herr Fürst u Hohenlohe",
+     "en": "the Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Curländischen",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Gruemann[??]",
+     "en": "Gruemann[uncertain]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "23",
+    "1811",
+    "500000",
+    "7",
+    "1814"
+   ]
   }
  ],
- "text_english": "Your Right Honourable have, in your representation of the 23rd of [uncertain: Ors.] of this year, observed: that the Prince of Hohenlohe did, in the Settlement of 1811, undertake to pay himself the capital owed to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Lady Countess of her joint obligation for — I therefore most respectfully request you, since I cannot find the passage in the enclosed Settlement, to be so obliging as to mark it with red chalk or otherwise, and thereupon most kindly to send it back to me by the bearer. Commending myself most respectfully, Gruemann[uncertain] herein, the 7th of Oct. 1814",
+ "text_english": "Your Right Honourable have observed in your representation of the 23rd of the [uncertain: present] month of this year:\n\nthat the Prince of Hohenlohe, in the settlement of 1811, undertook to pay himself the capital sum owing to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Countess of the joint obligation. I therefore most respectfully request that you be so kind as to mark the passage in the enclosed settlement with red chalk or otherwise, since I cannot find it, and then graciously send it back to me by the bearer. Commending myself most respectfully,\n\nGruemann[uncertain]\n\ntherein, the 7th of October 1814",
  "summary_en": "A short note from Gruemann, replying to a representation of the 23rd, which had asserted that the Prince of Hohenlohe undertook in the Settlement of 1811 to pay the capital of some 500,000 owed to the Courland heirs himself and to release the Lady Countess from her joint liability. Unable to locate the passage in the enclosed Settlement, he asks that it be marked in red chalk and returned by the bearer.",
  "summary_de": "Rückfrage zu einer Vorstellung vom 23. des Monats, in der behauptet worden sei, der Fürst zu Hohenlohe habe im Vergleich von 1811 die Zahlung des den kurländischen Erben geschuldeten Capitals von 500000 (Betrag unsicher) selbst übernommen und die Frau Gräfin von ihrer Mitverpflichtung befreit. Da die betreffende Stelle im beigefügten Vergleich nicht auffindbar sei, wird gebeten, sie mit Rothstein zu bezeichnen und die Schrift durch den Überbringer zurückzusenden. Unterzeichnet Gruemann (unsicher)."
 }

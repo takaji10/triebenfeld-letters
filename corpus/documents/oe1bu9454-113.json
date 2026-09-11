@@ -110,20 +110,138 @@
    "doc_line": 35
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "asch",
+   "display": "Asch",
+   "kind": "person",
+   "surface_de": "Asch",
+   "surface_en": "Asch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gad",
+   "kind": "person",
+   "surface_de": "Gad",
+   "surface_en": "Gad",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinz George",
+   "surface_en": "Prince George",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wildegensch",
+   "kind": "person",
+   "surface_de": "Wildegensch",
+   "surface_en": "Wildegensch",
+   "page": 2
+  },
+  {
+   "entity": "asch",
+   "display": "Asch",
+   "kind": "person",
+   "surface_de": "Asch",
+   "surface_en": "Asch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "John",
+   "kind": "other",
+   "surface_de": "Johann",
+   "surface_en": "John",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord!\n\nYour Most Serene Highness has had the grace only to assure me that with the Asch and Gad, in respect of the 11000 Rthl, everything is settled, and that I should have no vexation from it. Your Most Serene Highness — for then I [do] most humbly for this gracious assurance. Meanwhile I only observe that the arrest in this matter still lies against me here, and that here they have given out the [uncertain: places] that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested at once. For fear I do not know what I am to do. I am still scraping along in misery — Prince George declares himself on nothing and drags my case along the long road. Here I still risk honour, liberty, and the losing of my life. Have, Your Most Serene Highness, but this one single grace and settle the matter there, so that —"
+   "en": "Most Serene Prince\n\nMost gracious Lord, Your Most Serene Highness has had the grace to assure me only that everything with Asch and Gad concerning the 11000 Rthl has been settled, and that I should have no vexation from it.\n\nYour Most Serene Highness, then, I [do] most humbly for this gracious assurance.\n\nMeanwhile I observe only that the arrest in this matter still lies against me here, and that people here have given out the [uncertain: places] to the effect that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested at once.\n\nFor fear I do not know what I am to do. In wretchedness I still drag on – Prince George declares himself on nothing and drags my affair out along the long road. I here still risk honour, liberty, and the losing of my life.\n\nYour Most Serene Highness, grant but this one grace and direct the matter there, so that",
+   "names": [
+    {
+     "de": "Asch",
+     "en": "Asch",
+     "kind": "person"
+    },
+    {
+     "de": "Gad",
+     "en": "Gad",
+     "kind": "person"
+    },
+    {
+     "de": "Prinz George",
+     "en": "Prince George",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "11000",
+    "4000"
+   ]
   },
   {
    "page": 2,
-   "en": "that the [uncertain: building/peasant] does not lay hands upon me, [nor] have me arrested here. I should have death upon the spot. Wildegensch has me told that the Asch and Geld would wait until Johann — but that would be no rescue for me. — I beg Your Serene Highness, by all that is holy, do let the matter be brought clear by means of the 4000 Rthl. If only God helps, and I have creditors again, then I will gladly give fortune and salvation.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 23rd of May 1801\n\nfaithful, most humble and obedient servant\n\nv Triebenfeld"
+   "en": "that the [uncertain: building] does not lay hold of me and have me arrested here. I should have had death on the spot. Wildegensch sends word to me that Asch and the money would wait until John's day – but that would be no rescue for me. – I beg Your Serene Highness, by all that is holy, do let the matter be brought clear by means of the 4000 Rthl. If only God helps, and if I have creditors again, then I will gladly give fortune and salvation. In deepest reverence I remain, until death, Your Most Serene Highness's. Berlin, the 23rd of May\n\n1801\n\nfaithful, most humble and obedient servant.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Wildegensch",
+     "en": "Wildegensch",
+     "kind": "person"
+    },
+    {
+     "de": "Asch",
+     "en": "Asch",
+     "kind": "person"
+    },
+    {
+     "de": "Johann",
+     "en": "John",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4000",
+    "23ten",
+    "1801"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord!\n\nYour Most Serene Highness has had the grace only to assure me that with the Asch and Gad, in respect of the 11000 Rthl, everything is settled, and that I should have no vexation from it. Your Most Serene Highness — for then I [do] most humbly for this gracious assurance. Meanwhile I only observe that the arrest in this matter still lies against me here, and that here they have given out the [uncertain: places] that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested at once. For fear I do not know what I am to do. I am still scraping along in misery — Prince George declares himself on nothing and drags my case along the long road. Here I still risk honour, liberty, and the losing of my life. Have, Your Most Serene Highness, but this one single grace and settle the matter there, so that —\n\nthat the [uncertain: building/peasant] does not lay hands upon me, [nor] have me arrested here. I should have death upon the spot. Wildegensch has me told that the Asch and Geld would wait until Johann — but that would be no rescue for me. — I beg Your Serene Highness, by all that is holy, do let the matter be brought clear by means of the 4000 Rthl. If only God helps, and I have creditors again, then I will gladly give fortune and salvation.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 23rd of May 1801\n\nfaithful, most humble and obedient servant\n\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord, Your Most Serene Highness has had the grace to assure me only that everything with Asch and Gad concerning the 11000 Rthl has been settled, and that I should have no vexation from it.\n\nYour Most Serene Highness, then, I [do] most humbly for this gracious assurance.\n\nMeanwhile I observe only that the arrest in this matter still lies against me here, and that people here have given out the [uncertain: places] to the effect that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested at once.\n\nFor fear I do not know what I am to do. In wretchedness I still drag on – Prince George declares himself on nothing and drags my affair out along the long road. I here still risk honour, liberty, and the losing of my life.\n\nYour Most Serene Highness, grant but this one grace and direct the matter there, so that\n\nthat the [uncertain: building] does not lay hold of me and have me arrested here. I should have had death on the spot. Wildegensch sends word to me that Asch and the money would wait until John's day – but that would be no rescue for me. – I beg Your Serene Highness, by all that is holy, do let the matter be brought clear by means of the 4000 Rthl. If only God helps, and if I have creditors again, then I will gladly give fortune and salvation. In deepest reverence I remain, until death, Your Most Serene Highness's. Berlin, the 23rd of May\n\n1801\n\nfaithful, most humble and obedient servant.\n\nv Triebenfeld",
  "summary_en": "A desperate personal appeal: despite the Prince's assurance that the affair of the 11000 Rthl with Asch and Gad is settled, the arrest against Triebenfeld still stands in Berlin, and he is threatened with immediate imprisonment if the promised 4000 Rthl are not paid. Prince George gives no answer and delays his case; Wildegensch reports the creditors would wait until Johanni, which he considers no rescue. He begs that the 4000 Rthl clear the matter, fearing for honour, liberty and life.",
  "summary_de": "Dringende Bitte, die Angelegenheit der 11000 Rthl mit Asch und Gad endlich zu bereinigen: trotz fürstlicher Versicherung liegt der Arrest weiter gegen Triebenfeld, und man droht, ihn sogleich verhaften zu lassen, falls die zugesagten 4000 Rthl nicht gezahlt werden. Prinz George erklärt sich zu nichts und verschleppt die Sache; Wildegensch lasse Aufschub bis Johanni anbieten, was keine Rettung sei. Triebenfeld sieht Ehre, Freiheit und Leben bedroht."
 }

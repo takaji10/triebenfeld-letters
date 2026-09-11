@@ -1,12 +1,37 @@
 status: draft
 segments:
 - page: 1
-  en: 'P. M. It is necessary that at Zagorowo a Chief Forester be appointed – I had designated the old
-    Richter''s son, and at the brew[text lost] my distillery the Nogeln''s nephew as propination official;
-    but the Richter must now administer the latter, because the Nageln has recalled her nephew – So, as
-    said above, a Chief Forester is necessary – if Your Serene Highness wishes to help the poor Radzowski,
-    then deign to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further.
-    If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your
-    opinion concerning the baptism of the estates, with
+  en: 'P. M.
+
+
+    It is necessary that a head forester be appointed in Zagorowo – I had designated the old judge''s
+    son, and at the brew[text lost] my distillery the Nogeln''s nephew as officer of the propination rights;
+    but the judge must now administer the latter, because the Nageln has recalled her nephew – So, as
+    said above, a head forester is necessary – if Your Serene Highness wishes to help poor Radzowski,
+    then be pleased to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps
+    further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at
+    once your opinion concerning the baptism of the estates as well
+
 
     v Triebenfeld'
+  names:
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Nogeln
+    en: Nogeln
+    kind: person
+  - de: Nageln
+    en: Nageln
+    kind: person
+  - de: Radzowski
+    en: Radzowski
+    kind: person
+  - de: Radzewski
+    en: Radzewski
+    kind: person
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '300'

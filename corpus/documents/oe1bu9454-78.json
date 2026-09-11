@@ -186,28 +186,197 @@
    "doc_line": 59
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Privy [uncertain: Ewang] Councillor Schultz",
+   "kind": "person",
+   "surface_de": "Geh. Ewang Rath Schultz",
+   "surface_en": "Privy [uncertain: Ewang] Councillor Schultz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister von Voss",
+   "kind": "person",
+   "surface_de": "Minister v. Voss",
+   "surface_en": "Minister von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. Councillor of War von Triebenfeld",
+   "kind": "person",
+   "surface_de": "dHl. Kr. Rath v. Triebenfeld",
+   "surface_en": "Mr. Councillor of War von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr. Schulze",
+   "kind": "person",
+   "surface_de": "dH Schulze",
+   "surface_en": "Mr. Schulze",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Minister von Rath",
+   "kind": "person",
+   "surface_de": "Minister v. Rath",
+   "surface_en": "Minister von Rath",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Lebritz]",
+   "kind": "other",
+   "surface_de": "Lebritz",
+   "surface_en": "[uncertain: Lebritz]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussian Department",
+   "kind": "other",
+   "surface_de": "Südpräufische Departement",
+   "surface_en": "South Prussian Department",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowskischen",
+   "surface_en": "Grotowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Ch. v. Triebenfeld",
+   "surface_en": "Mr. von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 4
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! I have complied with Your Most Serene Highness's gracious command and have been with the Privy [uncertain: Ewang] Councillor Schultz, whom I met the day before yesterday. He knew as yet nothing more particular of the matter than that he had read Your Serene Highness's letter to Minister v. Voss. Upon the matter itself he expressed himself neither for nor against the same, and he said he did not yet know it. I therefore held it advisable not to expand further upon it, since it was the first time, beyond requesting him in general terms that, should he find obstacles, he should not decide at once, but hear me first, and"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nI have complied with Your Most Serene Highness's gracious command and have been with the Privy [uncertain: Ewang] Councillor Schultz, whom I met the day before yesterday. He knew nothing more particular of the matter as yet than that he had read Your Serene Highness's letter to the Minister von Voss. Upon the matter itself it expressed itself neither for nor against the same, and he said he did not yet know it. I therefore held it advisable not to go further into it, this being the first time, than that I requested him in general terms, should he find obstacles, not to decide at once, but to hear me beforehand, and",
+   "names": [
+    {
+     "de": "Geh. Ewang Rath Schultz",
+     "en": "Privy [uncertain: Ewang] Councillor Schultz",
+     "kind": "person"
+    },
+    {
+     "de": "Minister v. Voss",
+     "en": "Minister von Voss",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "and to have information given him by me upon everything that might raise doubts in him. Upon my desire to be informed of everything that goes forward in the matter, he expressed himself thus: that I might have a power of attorney sent to me from Your Serene Highness, and lodge the same in the Registratur, whereupon everything should be delivered to me, if it issues from Your Serene Highness. It has been agreeable to me to be informed, by the Councillor of War v. Triebenfeld, whom I spoke with only today, that Mr. Schulze has not deceived me in this, that it should give out that it knows nothing, because — as Mr. v. Triebenfeld will have the grace to report more particularly to Your Serene Highness — the dispositions from the Cabinet only go off today or on account, to the Minister v. [uncertain: Rath], and the Lebritz therefore cannot receive the Royal order otherwise than as next Wednesday or Thursday. Since I convey to Your Honour nothing but truths, and shall never depart from them, I can render to Your Most Exalted Self only the most humble assur-"
+   "en": "and to allow himself to be given information by me upon everything that might raise doubts in him. Upon my desire to be informed of everything that goes forward in the matter, he expressed himself thus: that I might have a power of attorney sent me from Your Serene Highness, and deposit the same in the registry, whereupon everything should be delivered to me, when it issues from Your Serene Highness.\n\nIt has been agreeable to me to have been informed by Mr. Councillor of War\n\nvon Triebenfeld, whom I spoke with only today, that Mr. Schulze has not deceived me in this, that he pretended to know nothing, because — as Mr. von Triebenfeld will have the grace to report more particularly to Your Serene Highness — the dispositions from the Cabinet go off to the Minister von Rath only today or [illegible], and the [uncertain: Lebritz] therefore cannot receive the Royal order otherwise than as next Wednesday or Thursday. Since I bear to Your Honour nothing but truths, and shall never depart therefrom, I can only give to the same most high person the most humble as-",
+   "names": [
+    {
+     "de": "dHl. Kr. Rath v. Triebenfeld",
+     "en": "Mr. Councillor of War von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "dH Schulze",
+     "en": "Mr. Schulze",
+     "kind": "person"
+    },
+    {
+     "de": "Minister v. Rath",
+     "en": "Minister von Rath",
+     "kind": "person"
+    },
+    {
+     "de": "Lebritz",
+     "en": "[uncertain: Lebritz]",
+     "kind": "other"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "-ance, that I shall not fail to contribute all that lies within my powers toward the [uncertain: putting-in-order]; also, by the power of attorney to be transmitted, I shall be placed in a position to reconnoitre more exactly. I would propose that the power of attorney be filled out to this effect: that I be empowered, before the Imperial and Most Laudable South Prussian Department, to press forward the proposed exchange of the estates conferred upon Your Most Serene Highness by His Most Princely Royal Majesty — against the lordship — and, for the acquisition of the — estates, to make proposals and to enter into negotiations. Furthermore, I would most humbly beg for the intelligence concerning the Grotowski matter, which Your Most Serene Highness most graciously promised me, and the receipt of the [uncertain: tailor]. I must do justice to Mr. v. Triebenfeld's zeal for Your Honour's interest. It will be most gratifying to me"
+   "en": "-surance that I shall not fail to contribute everything in my power towards [uncertain: putting the matter in order], and I shall also, by means of the power of attorney to be sent me, be put in a position to reconnoitre more exactly. I would propose that the power of attorney be drawn up to this effect,\n\nthat I be empowered, with the Royal Highly Laudable South Prussian Department, to prosecute the proposed exchange of the estates conferred upon Your Most Serene Highness by His Royal Majesty — against the lordship — and to make proposals for the acquisition of the — estates, and to enter into negotiations.\n\nThe reports upon the Grotowski affair most graciously promised me by Your Most Serene Highness, and the tailor's receipt, I would most humbly beg for. I must do justice to Mr. von Triebenfeld's zeal for Your Honour's interest. It will be most gratifying to me",
+   "names": [
+    {
+     "de": "Südpräufische Departement",
+     "en": "South Prussian Department",
+     "kind": "other"
+    },
+    {
+     "de": "Grotowskischen",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Ch. v. Triebenfeld",
+     "en": "Mr. von Triebenfeld",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "to learn of Your Serene Highness's happy arrival at Breslau. With these sentiments I [uncertain: remain, until death,] Your Most Serene Highness's most humble, faithful and most obedient. Michaelis Berlin, the 6th October 1798"
+   "en": "to learn of Your Serene Highness's happy arrival at Breslau. With these sentiments I remain, until death, Your Most Serene Highness's\n\nmost humble, faithful and most obedient.\n\nMichaelis Berlin, the 6th October 1798",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6",
+    "1798"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! I have complied with Your Most Serene Highness's gracious command and have been with the Privy [uncertain: Ewang] Councillor Schultz, whom I met the day before yesterday. He knew as yet nothing more particular of the matter than that he had read Your Serene Highness's letter to Minister v. Voss. Upon the matter itself he expressed himself neither for nor against the same, and he said he did not yet know it. I therefore held it advisable not to expand further upon it, since it was the first time, beyond requesting him in general terms that, should he find obstacles, he should not decide at once, but hear me first, and\n\nand to have information given him by me upon everything that might raise doubts in him. Upon my desire to be informed of everything that goes forward in the matter, he expressed himself thus: that I might have a power of attorney sent to me from Your Serene Highness, and lodge the same in the Registratur, whereupon everything should be delivered to me, if it issues from Your Serene Highness. It has been agreeable to me to be informed, by the Councillor of War v. Triebenfeld, whom I spoke with only today, that Mr. Schulze has not deceived me in this, that it should give out that it knows nothing, because — as Mr. v. Triebenfeld will have the grace to report more particularly to Your Serene Highness — the dispositions from the Cabinet only go off today or on account, to the Minister v. [uncertain: Rath], and the Lebritz therefore cannot receive the Royal order otherwise than as next Wednesday or Thursday. Since I convey to Your Honour nothing but truths, and shall never depart from them, I can render to Your Most Exalted Self only the most humble assur-\n\n-ance, that I shall not fail to contribute all that lies within my powers toward the [uncertain: putting-in-order]; also, by the power of attorney to be transmitted, I shall be placed in a position to reconnoitre more exactly. I would propose that the power of attorney be filled out to this effect: that I be empowered, before the Imperial and Most Laudable South Prussian Department, to press forward the proposed exchange of the estates conferred upon Your Most Serene Highness by His Most Princely Royal Majesty — against the lordship — and, for the acquisition of the — estates, to make proposals and to enter into negotiations. Furthermore, I would most humbly beg for the intelligence concerning the Grotowski matter, which Your Most Serene Highness most graciously promised me, and the receipt of the [uncertain: tailor]. I must do justice to Mr. v. Triebenfeld's zeal for Your Honour's interest. It will be most gratifying to me\n\nto learn of Your Serene Highness's happy arrival at Breslau. With these sentiments I [uncertain: remain, until death,] Your Most Serene Highness's most humble, faithful and most obedient. Michaelis Berlin, the 6th October 1798",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nI have complied with Your Most Serene Highness's gracious command and have been with the Privy [uncertain: Ewang] Councillor Schultz, whom I met the day before yesterday. He knew nothing more particular of the matter as yet than that he had read Your Serene Highness's letter to the Minister von Voss. Upon the matter itself it expressed itself neither for nor against the same, and he said he did not yet know it. I therefore held it advisable not to go further into it, this being the first time, than that I requested him in general terms, should he find obstacles, not to decide at once, but to hear me beforehand, and\n\nand to allow himself to be given information by me upon everything that might raise doubts in him. Upon my desire to be informed of everything that goes forward in the matter, he expressed himself thus: that I might have a power of attorney sent me from Your Serene Highness, and deposit the same in the registry, whereupon everything should be delivered to me, when it issues from Your Serene Highness.\n\nIt has been agreeable to me to have been informed by Mr. Councillor of War\n\nvon Triebenfeld, whom I spoke with only today, that Mr. Schulze has not deceived me in this, that he pretended to know nothing, because — as Mr. von Triebenfeld will have the grace to report more particularly to Your Serene Highness — the dispositions from the Cabinet go off to the Minister von Rath only today or [illegible], and the [uncertain: Lebritz] therefore cannot receive the Royal order otherwise than as next Wednesday or Thursday. Since I bear to Your Honour nothing but truths, and shall never depart therefrom, I can only give to the same most high person the most humble as-\n\n-surance that I shall not fail to contribute everything in my power towards [uncertain: putting the matter in order], and I shall also, by means of the power of attorney to be sent me, be put in a position to reconnoitre more exactly. I would propose that the power of attorney be drawn up to this effect,\n\nthat I be empowered, with the Royal Highly Laudable South Prussian Department, to prosecute the proposed exchange of the estates conferred upon Your Most Serene Highness by His Royal Majesty — against the lordship — and to make proposals for the acquisition of the — estates, and to enter into negotiations.\n\nThe reports upon the Grotowski affair most graciously promised me by Your Most Serene Highness, and the tailor's receipt, I would most humbly beg for. I must do justice to Mr. von Triebenfeld's zeal for Your Honour's interest. It will be most gratifying to me\n\nto learn of Your Serene Highness's happy arrival at Breslau. With these sentiments I remain, until death, Your Most Serene Highness's\n\nmost humble, faithful and most obedient.\n\nMichaelis Berlin, the 6th October 1798",
  "summary_en": "Michaelis reports on his approach to Privy Councillor Schultz, who had only read the Prince's letter to Minister v. Voss and would commit himself neither way; Schultz advised that a power of attorney lodged in the Registratur would secure Michaelis access to the papers. He drafts wording empowering him to press the proposed exchange of estates before the South Prussian Department, notes from v. Triebenfeld that the Cabinet dispositions go off only now, and requests the promised intelligence on the Grotowski matter.",
  "summary_de": "Bericht über die Unterredung mit dem Geheimen Rath Schultz, der von der Sache bisher nur aus dem Schreiben des Fürsten an Minister v. Voss wisse und sich weder dafür noch dagegen erklärte; er empfahl, eine Vollmacht des Fürsten in der Registratur niederzulegen, um Akteneinsicht zu erhalten. Vorschlag zur Fassung der Vollmacht: Betreibung des Gütertausches beim Südpreußischen Departement und Verhandlungen zum Erwerb der Güter. Bitte um die versprochene Nachricht zur Grotowski-Sache; Lob des Eifers des Kriegsraths v. Triebenfeld."
 }

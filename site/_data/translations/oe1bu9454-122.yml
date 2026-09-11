@@ -1,9 +1,45 @@
 status: draft
 segments:
 - page: 1
-  en: The enclosed note I received this morning early — It had been left lying, by an oversight, in my
-    old lodging - Herr Homuth has on that account just now sent to me again, and begs most earnestly that
-    this item be settled soon, so that he may at once notify the messenger of the receipt of the 166 Rthl
-    16 g. Cabanis is departing this very moment by the post for Hussinietz - I promise myself from this
-    quarter the swiftest and happiest success. From Berlin or Franckfurth I have received not a syllable
-    today. Breslau, the 6th of April 1804. v Triebenfeld
+  en: 'The enclosed note I received early this morning — it had by oversight been left lying in my old
+    lodgings. Herr Homuth has on that account just now sent to me again and begs most earnestly that this
+    item be settled soon, so that he may at once notify the messenger of the receipt of the 166 Rthl 16
+    g. as well. Cabanis is this very moment departing by the post for Hus sinietz — I promise myself from
+    that quarter the swiftest and happiest success. From Berlin or Frankfurt an der Oder I have not received
+    a syllable today.
+
+
+    Breslau, the 6th of April
+
+
+    1804.
+
+
+    v. Triebenfeld'
+  names:
+  - de: Homuth
+    en: Homuth
+    kind: person
+  - de: Cabanis
+    en: Cabanis
+    kind: person
+  - de: Hus sinietz
+    en: Hus sinietz
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Franckfurth
+    en: Frankfurt an der Oder
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '166'
+  - '16'
+  - 6ten
+  - '1804'

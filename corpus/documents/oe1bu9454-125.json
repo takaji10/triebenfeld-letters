@@ -65,16 +65,63 @@
    "doc_line": 8
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "The people from Olesnica have arrived with the monies – they [uncertain: wish] to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon – I believe it will not be displeasing to Your Serene Highness. v Triebenfeld. Breslau, the 28th April 1804. To His Most Serene Highness."
+   "en": "The people from Olesnica have arrived with the monies – they wish to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon – I believe it will not be displeasing to Your Serene Highness. v. Triebenfeld. Breslau, the 28th of April 1804. To His Most Serene\n\nHighness",
+   "names": [
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4",
+    "28",
+    "1804"
+   ]
   }
  ],
- "text_english": "The people from Olesnica have arrived with the monies – they [uncertain: wish] to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon – I believe it will not be displeasing to Your Serene Highness. v Triebenfeld. Breslau, the 28th April 1804. To His Most Serene Highness.",
+ "text_english": "The people from Olesnica have arrived with the monies – they wish to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon – I believe it will not be displeasing to Your Serene Highness. v. Triebenfeld. Breslau, the 28th of April 1804. To His Most Serene\n\nHighness",
  "summary_en": "A brief note announcing that the people from Olesnica have arrived with the monies and wish to attend the Prince at four o'clock; Triebenfeld reports having already negotiated something with them and promises a fuller account that afternoon, expressing confidence that the terms agreed will not displease His Serene Highness. No sums or names of the Olesnica party are given.",
  "summary_de": "Meldung, daß die Leute aus Olesnica mit den Geldern eingetroffen sind und um 4 Uhr bei dem Fürsten erscheinen wollen. Triebenfeld hat mit ihnen bereits etwas verhandelt und will darüber am Nachmittag mündlich Bericht erstatten; er hofft, das Ergebnis werde dem Fürsten nicht mißfallen. Kurzes Billett ohne Angabe von Summen oder näheren Bedingungen der Abrede."
 }

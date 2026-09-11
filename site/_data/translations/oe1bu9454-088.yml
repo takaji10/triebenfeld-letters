@@ -1,37 +1,60 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. To the Herr Minister v. Voss, Right Honourable Sir.
+  en: 'Copy
 
 
-    From Your Excellency''s kind letter of the 1st of this month I have perceived the grounds by which
-    Your Excellency has been moved not to concur, in the manner desired, in the exchange of my South Prussian
-    estates against the Amt Krotoszyn, which I laid before His Majesty the King, and in which, according
-    to the declaration I have already submitted, I have by no means reckoned Polajewo. Were I not persuaded
-    that those grounds rested solely upon the reports and results submitted to Your Excellency in this
-    matter by the Commissioners, and not upon Your Excellency''s own conviction of the [uncertain: true]
-    condition of the Amt Krotoszyn: then I should not so greatly revere the patriotic zeal with which
-    Your Excellency so conscientiously [uncertain: attended to] the Royal interest herein, as I in fact
-    do; since, according to the renseignements I have obtained, and according to the declarations Your
-    Excellency himself made in former times, I am assured that the Commissioners have in the present case
-    assumed and reckoned more in respect of Krotoszyn than will come to light upon an impartial investigation
-    by men expert in such matters. Given the manifold assurances which His Majesty the King has deigned
-    to give me of His Most High gracious benevolence, and to make good which He has only awaited an opportunity,
-    I should therefore not hold it consistent with my duty were I to rest content with the grounds set
-    against my petition; rather'
+    To Minister von Voss
+
+
+    Right Honourable Sir, From Your Excellency''s obliging letter of the 1st of this month I have perceived
+    the grounds which have moved Your Excellency not to assent in the desired manner to the exchange of
+    my South Prussian estates against the district of Krotoszyn which I laid before His Majesty the King
+    in my application, and in which, according to the declaration I have already submitted, I have by
+    no means included Polajewo.
+
+
+    Were I not convinced that those grounds rest solely upon the reports and findings submitted to Your
+    Excellency in this matter by the commissioners, and not upon Your Excellency''s own conviction of
+    the true condition of the district of Krotoszyn: then I should not so greatly revere, as in truth
+    I do, the patriotic zeal with which Your Excellency has so conscientiously attended to the Royal interest
+    herein; for according to the intelligence I have obtained, and according to Your Excellency''s own
+    utterances in former times, I am assured that the commissioners have in the present case assumed and
+    reckoned more for Krotoszyn than will come to light upon an impartial investigation by expert men.
+    Given the manifold assurances which His Majesty the King has deigned to give me of His Most High gracious
+    benevolence, and to make good which He has only awaited an opportunity, I should therefore not hold
+    it consonant with my duty were I to rest content with the grounds set against my petition; rather'
+  names:
+  - de: Voss
+    en: Voss
+    kind: person
+  - de: SüdPreußischen
+    en: South Prussian
+    kind: place
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Polajewo
+    en: Polajewo
+    kind: place
+  numbers:
+  - 1ten
 - page: 2
-  en: 'I am, in the purity of my intention and in the unfalsified presentation of my proofs drawn from
-    the records, almost resolved to convince His Majesty that the exchange I have proposed did not rest
-    upon those self-interested designs which would indeed be the case if one were to judge the matter
-    according to the report submitted by Your Excellency and communicated to me by His Majesty the King.
-    Of Your Excellency''s magnanimous sentiments I therefore hold myself assured, that Your Excellency
-    will as readily approve those further démarches which I am obliged to undertake for the sake of my
-    [uncertain: wounded] sense of honour and of my Monarch''s love of justice, as — and so far as it depends
-    upon Your Excellency''s own conviction — Your Excellency will support them; wherewith I sincerely
-    assure Your Excellency that I am, with the [uncertain: sentiments] of the most perfect esteem.
+  en: 'I am, in the purity of my intention and in the unfalsified presentation of my documentary proofs,
+    all but resolved to convince His Majesty that the exchange I have proposed did not rest upon those
+    self-interested designs which would indeed be the case were one to judge the matter according to the
+    report submitted by Your Excellency and communicated to me by His Majesty the King. Of Your Excellency''s
+    magnanimous sentiments I therefore hold myself assured, that Your Excellency will as fully approve,
+    and, so far as it depends upon your own conviction, support, those further steps which I am obliged
+    to undertake for the sake of my [uncertain: aggrieved] sense of honour and of my Monarch''s love of
+    justice; whereby I sincerely assure you that I am, with sentiments of the most perfect esteem, Your
 
 
-    Your —
-
-
-    Breslau, the 8th of December 1798'
+    Breslau, the 8th December 1798'
+  names:
+  - de: Breslau
+    en: Breslau
+    kind: place
+  numbers:
+  - 8ten
+  - '1798'

@@ -160,24 +160,413 @@
    "doc_line": 70
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Koppe",
+   "kind": "person",
+   "surface_de": "Koppe",
+   "surface_en": "Koppe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontopper",
+   "surface_en": "Kontop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Stein",
+   "kind": "person",
+   "surface_de": "v. Stein",
+   "surface_en": "von Stein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Dorville",
+   "kind": "person",
+   "surface_de": "v Dorville",
+   "surface_en": "von Dorville",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Secqebarth",
+   "kind": "person",
+   "surface_de": "v. Secqebarth",
+   "surface_en": "von Secqebarth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sagan",
+   "kind": "place",
+   "surface_de": "Sagan",
+   "surface_en": "Sagan",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koppe",
+   "kind": "person",
+   "surface_de": "Koppe",
+   "surface_en": "Koppe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stettin",
+   "kind": "place",
+   "surface_de": "Stettin",
+   "surface_en": "Stettin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Stein",
+   "kind": "person",
+   "surface_de": "v. Stein",
+   "surface_en": "von Stein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontopper",
+   "surface_en": "Kontop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schweiner",
+   "kind": "other",
+   "surface_de": "Schweinersche",
+   "surface_en": "Schweiner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russians",
+   "kind": "other",
+   "surface_de": "Rußen",
+   "surface_en": "Russians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kantschumeiner",
+   "kind": "other",
+   "surface_de": "Kantschumeiner",
+   "surface_en": "Kantschumeiner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Triebenfeld",
+   "kind": "person",
+   "surface_de": "p.r Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontopper",
+   "surface_en": "Kontop",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Leipzig",
+   "kind": "place",
+   "surface_de": "Leipzig",
+   "surface_en": "Leipzig",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslauer",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koppe",
+   "kind": "person",
+   "surface_de": "Koppe",
+   "surface_en": "Koppe",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kolzig",
+   "kind": "place",
+   "surface_de": "Kolzige",
+   "surface_en": "Kolzig",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! That Your Most Serene Highness has escaped with life and out of the most dreadful danger I learn from a letter of Secretary Koppe. My distress on that account was boundless, the more so as so many malicious rumours were spread abroad, which gave the matter a million times worse a colour than it in fact now is. I lived in the hope that all must go happily. I was on the point of travelling to Your Serene Highness, and to that end had begged 8000 Rthl of His Excellency the Minister von Stein upon a Kontopp mortgage, since at present it is hard to obtain even 10 Rthl out of South Prussia. When all at once the news of the defeat of our army [uncertain: einigung]. My sole endeavour now was to learn whither Your Serene Highness had turned. The Rittmeister v Dorville assured me that Your Serene Highness had gone to Silesia. The very same was averred by the President of the General Post Office, v. Secqebarth, with the addition that Your Serene Highness had gone with few people towards Sagan. I therefore had an order to pay of 6000 Rthl made out upon Breslau and took 2000 Rthl in Treasury notes, and hastened with them to that corner of the country, where I then saw myself wholly deceived – full of distress I went"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nThat Your Most Serene Highness's life has escaped the most dreadful danger I learn from a letter of Secretary Koppe. My distress on that account was boundless, the more so as so many malicious rumours were spread abroad, which gave the matter an aspect a million times worse than it in fact now is. I lived in the hope that all must go happily. I was on the point of travelling to Your Serene Highness, and to that end had requested 8000 Rthl from His Excellency the Minister von Stein upon a Kontop mortgage, because at present it is hard to obtain even 10 Rthl out of South Prussia. When all at once the news of the defeat of our army [uncertain: einigung]. My sole endeavour now was to learn whither Your Serene Highness had turned. The cavalry captain von Dorville assured me that Your Serene Highness had gone to Silesia. The very same was affirmed by the President of the General Post Office von Secqebarth, with the addition that Your Serene Highness had gone off toward Sagan with few people. I therefore had an instruction for 6000 Rthl made out on Breslau and took 2000 Rthl in treasury notes, and hastened with them to that corner where I then found myself wholly deceived – full of distress I went",
+   "names": [
+    {
+     "de": "Koppe",
+     "en": "Koppe",
+     "kind": "person"
+    },
+    {
+     "de": "Kontopper",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "v. Stein",
+     "en": "von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "v Dorville",
+     "en": "von Dorville",
+     "kind": "person"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "v. Secqebarth",
+     "en": "von Secqebarth",
+     "kind": "person"
+    },
+    {
+     "de": "Sagan",
+     "en": "Sagan",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "8000",
+    "10",
+    "6000",
+    "2000"
+   ]
   },
   {
    "page": 2,
-   "en": "to Breslau and was just deliberating with Hahn what was to be done, when I received the express courier from Secretary Koppe out of Stettin. My joy was now greater than my distress had been before, and I only thank God that you are alive. In the meantime I can do nothing further in this haste than to transmit to Your Serene Highness the order to pay for the 6000 Rthl, which His Excellency the Minister v. Stein, who is assuredly your true friend, will no doubt cause to be paid out there at once in cash. As soon as then I have news where Your Serene Highness is certainly to be found, I shall bring you a further 4000 Rthl. These, however, are not monies out of South Prussia, but sums borrowed upon the pledged Kontopp mortgage. Neither do I know whether we shall so soon have money out of South Prussia, where the devil has got into all their heads. I shall therefore have to approach the upright Minister v Stein once more, that he give me money upon a Schweiner mortgage of 20000 Rthl. Enough — whatever I can raise I shall bring to Your Serene Highness. If the Russians come afterwards, then there is no want in Poland; there I shall take the [uncertain: Kantschumeiner] countrymen to my aid, and there I shall get money again — To the Minister v Stein I had written a letter upon a blank sheet — that Your Serene Highness requested him to be obliging to the said Triebenfeld whenever he should seek anything on Your Highness's behalf"
+   "en": "to Breslau and was just taking counsel with Hahn as to what was to be done, when I received the express courier from Secretary Koppe out of Stettin. My joy was now greater than my distress had been before, and I thank God only that you live.\n\nIn the meantime I can do nothing further in this haste than to make over to Your Serene Highness the instruction for the 6000 Rthl, which His Excellency the Minister von Stein, who is assuredly your true friend, will no doubt have paid out there at once in cash. As soon as I then have news where Your Serene Highness is certainly to be found, I shall bring you a further 4000 Rthl. These, however, are not monies out of South Prussia, but sums borrowed upon the pledged Kontop mortgage. Nor do I know whether we shall soon have money out of South Prussia, where the devil has got into everybody's heads. I shall therefore have to approach the honest Minister von Stein once more, that he may give me money upon a Schweiner mortgage of 20000 Rthl. Enough: whatever I can raise I shall bring to Your Serene Highness.\n\nIf the Russians come afterwards, then there is no want in Poland; there I shall take the [uncertain: Kantschumeiner] countrymen to my aid, and there I shall surely get money again. — To the Minister von Stein I had written a letter on a blank sheet — that Your Serene Highness requested him to be obliging to the said Triebenfeld whenever he should apply for anything on Your Highness's behalf.",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Koppe",
+     "en": "Koppe",
+     "kind": "person"
+    },
+    {
+     "de": "Stettin",
+     "en": "Stettin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Stein",
+     "en": "von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kontopper",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Schweinersche",
+     "en": "Schweiner",
+     "kind": "other"
+    },
+    {
+     "de": "Rußen",
+     "en": "Russians",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Kantschumeiner",
+     "en": "Kantschumeiner",
+     "kind": "other"
+    },
+    {
+     "de": "p.r Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6000",
+    "4000",
+    "20000"
+   ]
   },
   {
    "page": 3,
-   "en": "This letter I delivered, was at once called in and asked what I desired – I handed over the petition, to lend me 8000 thereof upon the Mondopp mortgage of 10000 Rthl. This the upright man granted straightway, and glad at heart I would have hastened with this little sum to Your Serene Highness, when the sorrowful tidings came in. I had had the order to pay made out only upon Leipzig for Your Serene Highness; this until I then have it written over and give the order to pay upon myself to the Breslau Bank – Now I send this order to pay by express courier to Koppe, that he may quickly obtain these monies and convey them to Your Serene Highness. As soon as I now learn whither Your Highness betakes himself, I shall bring more, as said before. Just now I receive news out of the Cabinet, from someone, that Your Serene Highness's conduct and valour is praised above everything; how great a share I take in this I need not first describe to Your Serene Highness at length. At the same time I have thence gained great hope that the Kolzig estates will be given to Your Serene Highness. If this succeeds for me, then I shall soon raise 100000 Rthl, which you may employ wholly wherever you will; then we should have no need to seek foreign credit. God grant Your Serene Highness further victory and preserve Your Highness in health, and so then I remain, until death, as Your Serene Highness's Breslau, the 28th of October, faithful and most humble and obedient servant 1806. v Triebenfeld"
+   "en": "This letter I delivered, was at once called in and asked what I desired – I presented the petition that 8000 thereof be lent me upon the Kontop mortgage of 10000 Rthl. This the honest man granted immediately, and glad at heart I was minded to hasten with this little sum to Your Serene Highness, when the sad tidings came in. I had had an instruction made out only upon Leipzig for Your Serene Highness; this until I rewrite it and give the instruction upon myself to the Breslau bank. — Now I send this instruction by express courier to Koppe thereof, so that he may quickly receive these monies and convey them to Your Serene Highness. As soon as I now learn whither Your Highness is turning, I shall bring more, as said before. Just now I receive news from the Cabinet, from someone, that Your Serene Highness's conduct and valour are praised above everything; how great a share I take in this I need not describe to Your Serene Highness at any length. At the same time I have thence gained great hope that they will give Your Serene Highness the Kolzig estates. If this succeeds for me, then I shall soon procure 100000 Rthl which you may apply entirely as you please; then we should have no need to seek any foreign credit.\n\nMay God grant Your Serene Highness further victory and preserve Your Highness in health and well-being, wherewith I remain, until death,\n\nYour Serene Highness's\n\nBreslau, the 28th of October\n\nfaithful and most humble and obedient servant\n\n1806.\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Kontopper",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Leipzig",
+     "en": "Leipzig",
+     "kind": "place"
+    },
+    {
+     "de": "Breslauer",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Koppe",
+     "en": "Koppe",
+     "kind": "person"
+    },
+    {
+     "de": "Kolzige",
+     "en": "Kolzig",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10000",
+    "8000",
+    "100000",
+    "28",
+    "1806"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! That Your Most Serene Highness has escaped with life and out of the most dreadful danger I learn from a letter of Secretary Koppe. My distress on that account was boundless, the more so as so many malicious rumours were spread abroad, which gave the matter a million times worse a colour than it in fact now is. I lived in the hope that all must go happily. I was on the point of travelling to Your Serene Highness, and to that end had begged 8000 Rthl of His Excellency the Minister von Stein upon a Kontopp mortgage, since at present it is hard to obtain even 10 Rthl out of South Prussia. When all at once the news of the defeat of our army [uncertain: einigung]. My sole endeavour now was to learn whither Your Serene Highness had turned. The Rittmeister v Dorville assured me that Your Serene Highness had gone to Silesia. The very same was averred by the President of the General Post Office, v. Secqebarth, with the addition that Your Serene Highness had gone with few people towards Sagan. I therefore had an order to pay of 6000 Rthl made out upon Breslau and took 2000 Rthl in Treasury notes, and hastened with them to that corner of the country, where I then saw myself wholly deceived – full of distress I went\n\nto Breslau and was just deliberating with Hahn what was to be done, when I received the express courier from Secretary Koppe out of Stettin. My joy was now greater than my distress had been before, and I only thank God that you are alive. In the meantime I can do nothing further in this haste than to transmit to Your Serene Highness the order to pay for the 6000 Rthl, which His Excellency the Minister v. Stein, who is assuredly your true friend, will no doubt cause to be paid out there at once in cash. As soon as then I have news where Your Serene Highness is certainly to be found, I shall bring you a further 4000 Rthl. These, however, are not monies out of South Prussia, but sums borrowed upon the pledged Kontopp mortgage. Neither do I know whether we shall so soon have money out of South Prussia, where the devil has got into all their heads. I shall therefore have to approach the upright Minister v Stein once more, that he give me money upon a Schweiner mortgage of 20000 Rthl. Enough — whatever I can raise I shall bring to Your Serene Highness. If the Russians come afterwards, then there is no want in Poland; there I shall take the [uncertain: Kantschumeiner] countrymen to my aid, and there I shall get money again — To the Minister v Stein I had written a letter upon a blank sheet — that Your Serene Highness requested him to be obliging to the said Triebenfeld whenever he should seek anything on Your Highness's behalf\n\nThis letter I delivered, was at once called in and asked what I desired – I handed over the petition, to lend me 8000 thereof upon the Mondopp mortgage of 10000 Rthl. This the upright man granted straightway, and glad at heart I would have hastened with this little sum to Your Serene Highness, when the sorrowful tidings came in. I had had the order to pay made out only upon Leipzig for Your Serene Highness; this until I then have it written over and give the order to pay upon myself to the Breslau Bank – Now I send this order to pay by express courier to Koppe, that he may quickly obtain these monies and convey them to Your Serene Highness. As soon as I now learn whither Your Highness betakes himself, I shall bring more, as said before. Just now I receive news out of the Cabinet, from someone, that Your Serene Highness's conduct and valour is praised above everything; how great a share I take in this I need not first describe to Your Serene Highness at length. At the same time I have thence gained great hope that the Kolzig estates will be given to Your Serene Highness. If this succeeds for me, then I shall soon raise 100000 Rthl, which you may employ wholly wherever you will; then we should have no need to seek foreign credit. God grant Your Serene Highness further victory and preserve Your Highness in health, and so then I remain, until death, as Your Serene Highness's Breslau, the 28th of October, faithful and most humble and obedient servant 1806. v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nThat Your Most Serene Highness's life has escaped the most dreadful danger I learn from a letter of Secretary Koppe. My distress on that account was boundless, the more so as so many malicious rumours were spread abroad, which gave the matter an aspect a million times worse than it in fact now is. I lived in the hope that all must go happily. I was on the point of travelling to Your Serene Highness, and to that end had requested 8000 Rthl from His Excellency the Minister von Stein upon a Kontop mortgage, because at present it is hard to obtain even 10 Rthl out of South Prussia. When all at once the news of the defeat of our army [uncertain: einigung]. My sole endeavour now was to learn whither Your Serene Highness had turned. The cavalry captain von Dorville assured me that Your Serene Highness had gone to Silesia. The very same was affirmed by the President of the General Post Office von Secqebarth, with the addition that Your Serene Highness had gone off toward Sagan with few people. I therefore had an instruction for 6000 Rthl made out on Breslau and took 2000 Rthl in treasury notes, and hastened with them to that corner where I then found myself wholly deceived – full of distress I went\n\nto Breslau and was just taking counsel with Hahn as to what was to be done, when I received the express courier from Secretary Koppe out of Stettin. My joy was now greater than my distress had been before, and I thank God only that you live.\n\nIn the meantime I can do nothing further in this haste than to make over to Your Serene Highness the instruction for the 6000 Rthl, which His Excellency the Minister von Stein, who is assuredly your true friend, will no doubt have paid out there at once in cash. As soon as I then have news where Your Serene Highness is certainly to be found, I shall bring you a further 4000 Rthl. These, however, are not monies out of South Prussia, but sums borrowed upon the pledged Kontop mortgage. Nor do I know whether we shall soon have money out of South Prussia, where the devil has got into everybody's heads. I shall therefore have to approach the honest Minister von Stein once more, that he may give me money upon a Schweiner mortgage of 20000 Rthl. Enough: whatever I can raise I shall bring to Your Serene Highness.\n\nIf the Russians come afterwards, then there is no want in Poland; there I shall take the [uncertain: Kantschumeiner] countrymen to my aid, and there I shall surely get money again. — To the Minister von Stein I had written a letter on a blank sheet — that Your Serene Highness requested him to be obliging to the said Triebenfeld whenever he should apply for anything on Your Highness's behalf.\n\nThis letter I delivered, was at once called in and asked what I desired – I presented the petition that 8000 thereof be lent me upon the Kontop mortgage of 10000 Rthl. This the honest man granted immediately, and glad at heart I was minded to hasten with this little sum to Your Serene Highness, when the sad tidings came in. I had had an instruction made out only upon Leipzig for Your Serene Highness; this until I rewrite it and give the instruction upon myself to the Breslau bank. — Now I send this instruction by express courier to Koppe thereof, so that he may quickly receive these monies and convey them to Your Serene Highness. As soon as I now learn whither Your Highness is turning, I shall bring more, as said before. Just now I receive news from the Cabinet, from someone, that Your Serene Highness's conduct and valour are praised above everything; how great a share I take in this I need not describe to Your Serene Highness at any length. At the same time I have thence gained great hope that they will give Your Serene Highness the Kolzig estates. If this succeeds for me, then I shall soon procure 100000 Rthl which you may apply entirely as you please; then we should have no need to seek any foreign credit.\n\nMay God grant Your Serene Highness further victory and preserve Your Highness in health and well-being, wherewith I remain, until death,\n\nYour Serene Highness's\n\nBreslau, the 28th of October\n\nfaithful and most humble and obedient servant\n\n1806.\n\nvon Triebenfeld",
  "summary_en": "Relief at learning through Secretary Koppe that the Prince has survived; malicious rumours had made matters seem far worse. Reports borrowing 8000 Rthl from Minister von Stein on a Kontopp mortgage, false reports from Rittmeister v. Dorville and Postmaster v. Secqebarth that the Prince had gone to Silesia or Sagan, and a fruitless journey with a 6000 Rthl order of payment and 2000 Rthl in Treasury notes. Promises a further 4000 Rthl, hopes for a 20000 Rthl Schweiner mortgage, notes South Prussia yields nothing, and expects the Kolzig estates to raise 100000 Rthl.",
  "summary_de": "Erleichterung über die durch Secretair Koppes Brief bestätigte Rettung des Fürsten nach der Niederlage der Armee; nach falschen Nachrichten von Rittmeister v. Dorville und Postpräsident v. Secqebarth über einen Aufenthalt in Schlesien vergebliche Reise Richtung Sagan. Von Minister v. Stein wurden auf eine Kontopper Hypothek 8000 Rthl erlangt; eine Anweisung über 6000 Rthl geht durch Estafette an Koppe, 2000 Rthl in Tresorscheinen und weitere 4000 Rthl sollen folgen. Aus Südpreußen ist kein Geld zu erhalten; geplant ist eine Anleihe von 20000 Rthl auf eine Schweiner Hypothek sowie Hoffnung auf die Kolzigschen Güter und 100000 Rthl."
 }

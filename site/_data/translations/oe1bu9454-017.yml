@@ -1,60 +1,166 @@
 status: draft
 segments:
 - page: 1
-  en: 'P[ro]. M[emoria]. 26 June 1812
+  en: 'P[ro]. M[emoria].
 
 
-    General Kleist, during his stay in Kalisz, asked the Prefect Count Garczynski how matters stood here
-    with the Hohenlohe estates, and whether they were estates of consequence – the Prefect answered him
-    that the estates were considerable, but that during the period of the war, and through the ruin of
-    the rent-paying people, they were in great confusion, so that even dues were still in arrears – whereupon
-    Herr v. Kleist said: The Prince''s sons told me in Berlin, Our father has never yet drawn a single
-    Groschen out of the estates – the Councillor of War v. Triebenfeld sits in the estates, stuffs all
-    the revenues into his own pocket and lets his favourites devour the rest. I am not to be held back
-    [uncertain: I am not letting it rest], but Cabanis, Hecker, Honrichs and the sequestrators, it was
-    so before – the latter Schenck works up, there everything must come to light, and Cabanis is now,
-    in the presence of the komornik v. Chomanowski, laying out his accounts, which he is himself to bring
-    to you, my Prince? Neither I nor my sons could pass the matter over in silence; it has here been brought
-    to publicity, and therefore I am having it investigated by the komornik v. Chomanowski.'
+    26 June 1812. General Kleist, during his stay in Kalisz, asked the prefect Count Garczynski how matters
+    stood here with the Hohenlohe estates, and whether they were estates of consequence – the prefect
+    answered him that the estates were considerable but that during the war period, and through the ruin
+    of the rent-paying people, they were in great disorder, so that even dues were still in arrears –
+    whereupon Mr. von Kleist said: The Prince''s sons told me in Berlin, Our father has never yet drawn
+    a Groschen out of the estates – the councillor of war von Triebenfeld sits in the estates, puts all
+    the revenues in his own pocket and lets his favourites devour the rest. I am not [uncertain: lassen
+    halten] but Cabanis, Hecker, Honrichs and the sequestrators, it was so before – the latter [uncertain:
+    works up] Schenck, there everything must come to light, and Cabanis is now, in the presence of the
+    komornik von Chomanowski, laying out his account, which he is to bring to you himself, my Prince?
+    Neither I nor my sons could pass the matter over in silence; it has here been brought into public
+    notice, and therefore I am having it investigated by the komornik von Chomanowski.'
+  names:
+  - de: Kleist
+    en: Kleist
+    kind: person
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Garczynski
+    en: Garczynski
+    kind: person
+  - de: Hohenlohische
+    en: Hohenlohe
+    kind: other
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Cabanis
+    en: Cabanis
+    kind: person
+  - de: Hecker
+    en: Hecker
+    kind: person
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Schenck
+    en: Schenck
+    kind: person
+  - de: v. Choma nowski
+    en: von Chomanowski
+    kind: person
+  - de: v Chomanowski
+    en: von Chomanowski
+    kind: person
+  numbers:
+  - '26'
+  - '1812'
 - page: 2
-  en: 'I never counted on thanks and profit, but I will not, as God is true, let myself be branded an
-    incendiary for all the cares and sufferings I have endured; nor is it the case that you, my Prince,
-    hunt [uncertain] – that for 6 years now you have drawn nothing out of the estates is true, but one
-    must look here to where the trouble lies: the people are in part stiff-necked and pay little, but
-    are also already impoverished, and the houses stand empty. The arrears of rent altogether amount,
-    apart from the Ollernizer, Wrgbitzer and peasant estates, to some 30000 Rthl, all in all certainly
-    80 to 90 [text lost] – and are then the capitals, such as the Invalids'' [Fund], Weigel and the Bayonne
-    ones, together with what stands upon Träpiren, and what Your Serene Highness has drawn, to be reckoned
-    as nothing? – If after all this there still remains to you a revenue of 14 to 1500 Rthl a year, and
-    the Bayonne sum amortises itself, then truly you and your descendants cannot complain. That I should
-    be reckoned against – that is truly an accursed'
+  en: 'I never counted on thanks and gain, but as God lives I will not let myself be branded as an incendiary
+    for all the cares and sufferings I have endured, nor that you, my Prince, [uncertain: hunt]; and that
+    for 6 years now you have drawn nothing out of the estates is true, but one must look here to where
+    it pinches: the people are in part stiff-necked and do not pay much, but they are also already impoverished,
+    and the houses stand empty; the rent arrears altogether amount, without the Oller nizer, Wrgbitzer
+    and peasant holdings, to some 30000 Rthl, all in all certainly to 80 or 90; and are then the capitals,
+    such as the Invalids'', Weigel''s and the Bayonne ones, together with what stands upon Träpiren and
+    what Your Serene Highness have drawn, to be reckoned as nothing? – If after all this there still remains
+    to you a revenue of 14 to 1500 Rthl a year, and the Bayonne sum amortises itself, then you and your
+    descendants can truly not complain. That I enrich myself – that is truly a cursed thought,'
+  names:
+  - de: Oller nizer
+    en: Oller nizer
+    kind: place
+  - de: Wrgbitzer
+    en: Wrgbitzer
+    kind: place
+  - de: Inwalden
+    en: Invalids'
+    kind: other
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Bayorner
+    en: Bayonne
+    kind: other
+  - de: Träpiren
+    en: Träpiren
+    kind: place
+  - de: Bayonner
+    en: Bayonne
+    kind: other
+  numbers:
+  - '6'
+  - '30000'
+  - '80'
+  - '90'
+  - '14'
+  - '1500'
 - page: 3
-  en: 'thought. I have, God knows [uncertain: I have myself, God, what is hidden anywhere], been tormented
-    with lawsuits for it, suffer want together with my children, am worn down by sickness in misery –
-    and such young gentlemen say in Berlin that I enrich myself here and put the money ad Sakham [uncertain:
-    ad Saccum]. Above all, from Schlawenschitz and out of that quarter there must come some nasty gossip.
-    – I seek to preserve everything and strive to save; I often beg that Your Serene Highness should not
-    give yourself over to these people and trust them too far, but I am not heeded. Thus Sommer has now
-    again trumpeted it about here, that you no longer have anything at all and God knows what courses
-    you are taking to obtain money; in particular, that upon the Princes'' [uncertain] they had all in
-    the citizen period contracted debts of 1,700000 Rthl, that you were thereby excluded from the whole
-    inheritance, and that only 25000 Rthl a year had been settled on him for maintenance, but that these
-    too had all already been laid under arrest for the debts here, which likewise amounted to several
-    hundred thousand.'
+  en: 'I have [uncertain: myself before God], what is [uncertain: concealed] there, been tormented for
+    it with lawsuits, I suffer want with my children, am worn down by sickness in misery – and such young
+    gentlemen say in Berlin that I enrich myself here and put the money ad Sakham. In general, a nasty
+    gossip must be coming from Schlawenschitz and out of that quarter – I seek to preserve everything
+    and strive to save, I often beg that Your Serene Highness should not give way to these people and
+    should not trust them too much, but I am not heard. So now Sommer has again trumpeted it about here,
+    that you now have nothing at all left and God knows what courses you take to obtain money; in particular,
+    that upon the Prince''s [uncertain: theuer] in the burgher period they had contracted debts of 1,700000
+    Rthl, that you were thereby excluded from all inheritance, and that only 25000 Rthl a year were set
+    aside for his maintenance, but that these, on account of the debts here, which likewise amounted to
+    several hundred thousand, had all already been placed under arrest.'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Schlawenschitz
+    en: Schlawenschitz
+    kind: place
+  - de: Sommer
+    en: Sommer
+    kind: person
+  numbers:
+  - 1,700000
+  - '25000'
 - page: 4
-  en: 'Should it be true, it is base to spread it here among the people; I seek not [uncertain] always
-    to guard your honour, and also to defend and preserve your property. God will give me my health again;
-    but may Heaven also [uncertain: grant some mercy]. Here you will not restore Sommer to me again; the
-    matter will otherwise end tragically. Now I beg a speedy answer concerning Sobottendorff, concerning
-    Weigel, and concerning the Invalids'' sum – if these are so, then out of all embarras one may thereafter
-    count with confidence upon a secure revenue; on the contrary, however, if with the Invalids'' Fund
-    this cannot be effected, all may be said to be lost. With Weigel and Sobottendorff it will, if you
-    so wish and if Sobottendorff only comes here soon, be seen to through me: to procure the 50000 Rthl
-    for the Invalids'' Fund and get it out of the way [uncertain]. – For that is a great and weighty business.
-    As to the order of payment upon the decree of the French [uncertain: Grünval] Department, and above
-    all the decree itself and the original receipt annexed thereto, I beg that Your Serene Highness will
-    send the same, as well as the answer in this matter, as speedily as possible. [illegible] as to writing,
-    I remain
+  en: 'Should it be true, then it is ill done to spread this abroad among people here; I seek not one
+    thing only [uncertain: constantly to guard] your honour, but also to defend and preserve your property.
+    God will give me back my health; but may Heaven also grant many a mercy. Here you will not do me the
+    harm of bringing Sommer back again, for otherwise the whole thing ends tragically.
 
 
-    v. Triebenfeld'
+    Now I beg of you a swift answer concerning Sobottendorff, concerning Weigel and concerning the Invalids''
+    sum; if these are so, then they are out of all embarrassment, and one can thereafter count with confidence
+    upon a secure revenue; on the contrary, however, if with the Invalids'' Fund this cannot be effected,
+    all may be said to be lost.
+
+
+    With Weigel and Sobottendorff it will be arranged through me, if you so wish and if Sobottendorff
+    only comes here soon, to get the 50000 Rthl for the Invalids'' Fund out of the [uncertain: Wahl] there
+    – for it is a matter of great worth. As to the instruction upon the decree of the French [uncertain:
+    Grünval] Department, and especially the decree itself and the original receipt enclosed, I beg that
+    Your Serene Highness will send the same, as well as the answer in this matter, as speedily as possible
+    [uncertain: Unzucht] then on account of writing, I lie, truly, [uncertain: Landdauer] von Triebenfeld'
+  names:
+  - de: Sommer
+    en: Sommer
+    kind: person
+  - de: Sobotten dorff
+    en: Sobottendorff
+    kind: person
+  - de: Sobottendorff
+    en: Sobottendorff
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Jnvaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: Grünval
+    en: Grünval
+    kind: other
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '50000'

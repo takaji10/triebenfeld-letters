@@ -1,40 +1,198 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! What now still matters is that a genuine settlement
-    be made with the Curian heiresses. If it does indeed come about, the Prince State Chancellor will
-    see to it that the advance is given and the administration set in train. I therefore await the arrival
-    of Herr J. C. Eberhardt with the greatest longing — five Hohneldte, Bartenstein, Ge Winzingerode and
-    the good Privy Councillor v. Göschel have written to Langenburg and Kirchberg etc. — I think that
-    Prince August will surely have demanded the power of attorney back. — [uncertain: If] this breastwork
-    of Cosmar''s be destroyed, then he stands quite bare, and his ruin is decided, even if in that crossed-through
-    codicil he, God knows, may have secured what measures of safety for himself. From von Pourtales an
-    answer has still come in, and therefore B. hopes with the greatest confidence that he will soon come
-    himself. The kohl affair will yet cause me great grief, for the v. Kayser is my [uncertain: pull/train],
-    and Landskoy is selling everything, and has from that quarter mightily — Amstetten and Zerboni follow
-    good examples. Of the end of the Congress nothing is yet to be heard; rather the labours on account
-    of the Napoleonic business are piling up greatly, and hinder the taking up of all other affairs. It
-    is indeed said that the jest will not last long, yet 60000 Frenchmen and 30000 Austrians must march
-    thither — the robber is said now to be lurking with his band in the mountains and to be lying quite
-    quiet there. He had pressed forward [uncertain: with difficulty] as far as Gap on the road towards
-    Grenoble to Lyon, but since Count Stuben threatened him at Mükken he withdrew in all haste as far
-    as Castellane — and plays at hide-and-seek in the mountains. For the rest, he is now declared outlaw,
-    and since his officers or adherents, if they do not return within 8 days, are to share the same fate
-    with him, it is believed that his own people will seize him and deliver him up. At bottom some cunning
-    head must have led the poor fool onto the ice — for he received on Elba the most certain intelligence
-    that the Congress had broken up and that all the sovereigns had parted on the 13th of February in
-    the greatest bitterness, and that one had at once declared war upon the other. — The good'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord!
+
+
+    What now still matters is that a real settlement be made with the Curish heiresses. If that indeed
+    comes about, the Prince State Chancellor will see to it that the advance is given and the administration
+    set in train. I therefore await the arrival of Mr J. C. Eberhardt with the greatest longing — five
+    Hohneldte Bartenstein Ge Winzingerode and the good Ghl Rath von Göschel have written to Langenburg
+    and Kirchberg etc. — I think that Prince August will probably have demanded the power of attorney
+    back. If Cosmar''s breastwork is destroyed, then he stands quite bare, and his ruin is decided, even
+    though in that crossed-out codicil God knows what measures of security he may have hedged in for himself.
+
+
+    from Pourtales an answer has still come in, and therefore B. hopes with the greatest confidence that
+    he will soon come himself. The coal matter will yet cause me great sorrow, for the von Kayser is my
+    move, and Landskoy is selling everything, and has from there mightily — Amstetten and Zerboni follow
+    good examples.
+
+
+    Of the end of the Congress there is still nothing to be heard; rather the labours on account of the
+    Napoleonic affair are piling up greatly, and prevent all other business being taken up. People do
+    say the joke will not last long; nevertheless 60000 Frenchmen and 30000 Austrians must march thither
+    — the robber is said now to be lurking with his band in the mountains and to be keeping quite still
+    there. He had [uncertain: with difficulty] pushed forward as far as Gap on the road to Grenoble towards
+    Lyon, but since Count Stuben threatened him in Mükken he withdrew in all haste as far as Castellane
+    — and plays at hiding in the mountains. For the rest, he is now declared an outlaw, and since his
+    officers or adherents, if they do not return within 8 days, are to share the same fate with him, it
+    is believed that his own people will seize him and hand him over.
+
+
+    At bottom some cunning head must after all have led the poor fool onto the ice — for he received on
+    Elba the most certain intelligence that the Congress had broken up and that all the Sovereigns had
+    parted on the 13th of February in the greatest bitterness, and that one had at once declared war on
+    the other. — The good'
+  names:
+  - de: Curischen
+    en: Curish
+    kind: other
+  - de: J. C. Eberhardt
+    en: J. C. Eberhardt
+    kind: person
+  - de: Hohneldte
+    en: Hohneldte
+    kind: person
+  - de: Bartenstein
+    en: Bartenstein
+    kind: person
+  - de: Winzingerode
+    en: Winzingerode
+    kind: person
+  - de: v Göschel
+    en: von Göschel
+    kind: person
+  - de: Langenburg
+    en: Langenburg
+    kind: place
+  - de: Kirchberg
+    en: Kirchberg
+    kind: place
+  - de: Fürst August
+    en: Prince August
+    kind: person
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Pourtales
+    en: Pourtales
+    kind: person
+  - de: v Kayser
+    en: von Kayser
+    kind: person
+  - de: Landskoy
+    en: Landskoy
+    kind: person
+  - de: Amstetten
+    en: Amstetten
+    kind: other
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: Napoleonschen
+    en: Napoleonic
+    kind: person
+  - de: FranZosen
+    en: Frenchmen
+    kind: other
+  - de: Osterreicher
+    en: Austrians
+    kind: other
+  - de: Gap
+    en: Gap
+    kind: place
+  - de: Grenoble
+    en: Grenoble
+    kind: place
+  - de: Lion
+    en: Lyon
+    kind: place
+  - de: Gruf Stuben
+    en: Count Stuben
+    kind: person
+  - de: Mükken
+    en: Mükken
+    kind: place
+  - de: Castellane
+    en: Castellane
+    kind: place
+  - de: Elba
+    en: Elba
+    kind: place
+  numbers:
+  - '60000'
+  - '30000'
+  - '8'
+  - 13ten
 - page: 2
-  en: 'Empress Mar[ie] Louise is said to be greatly distressed, and truly the poor woman is now to be
-    pitied. Her household, which still consisted of pure Frenchmen, has at once been dismissed, and pure
-    German people given her — the cause is not stated. — Just now it is said here that Napoleon has after
-    all pressed forward as far as Grenoble and that a whole regiment of Frenchmen has already gone over
-    to him. Likewise also a regiment of Piedmontese — Strange it would be indeed if a man wholly [uncertain:
-    esteemed/despised] should still find such a following. At the moment a resolution concerning the Polish
-    estates is again in preparation for me — the State Chancellor says one must have patience until it
-    be decided what is to be determined concerning the estates which the Poles took from the donataries
-    after the Peace of Tilsit. It is dreadful how all this drags on. Oh, if only [uncertain: 1/2] p. Eberhard
-    could come here, so that we might settle the matter with the Con- heirs, then at least the most essential
-    thing would have been done. In 14 days the sovereigns mean to depart from here. In deepest reverence
-    I remain, until death, Your Serene Highness''s — I lie sick today in [uncertain: Eichen]. Vienna,
-    the 18th of March 1815, most humble and obedient servant v. Triebenfeld'
+  en: 'Empress Mar: Lein is said to be very distressed, and truly the poor woman is now to be pitied.
+    Her court household, which still consisted of pure Frenchmen, has been dismissed at once, and pure
+    German persons given to her — the reason is not stated. — Just now they say here that Napoleon has
+    after all pushed forward as far as Grenoble and that a whole regiment of Frenchmen has already gone
+    over to him. Likewise also a regiment of Pumonteſer — It would nevertheless be singular if a man totally
+    [uncertain: despised] should still find such a following.
+
+
+    At this moment a resolution concerning the Polish estates is again in the works for me — the State
+    Chancellor says one must have patience until it has been decided what is to be determined regarding
+    those estates which the Poles took from the donatories after the Peace of Tilsit. It is dreadful how
+    all this drags on. Oh, if only 1/2 p Eberhard could come here, so that we might settle the matter
+    with the Con- heirs, then at least the most essential thing would have been done. In 14 days the Sovereigns
+    intend to depart from here. In deepest reverence I remain, until death,
+
+
+    Your Serene Highness''s
+
+
+    I lie sick today in Eichen.
+
+
+    Vienna, the 18th of March
+
+
+    1815
+
+
+    most humble and obedient servant
+
+
+    von Triebenfeld'
+  names:
+  - de: 'Kayserin Mar: Lein'
+    en: 'Empress Mar: Lein'
+    kind: person
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Grenoble
+    en: Grenoble
+    kind: place
+  - de: Franzosen
+    en: Frenchmen
+    kind: other
+  - de: Teutſchen
+    en: German
+    kind: other
+  - de: Pumonteſer
+    en: Pumonteſer
+    kind: other
+  - de: Pohln
+    en: Polish
+    kind: other
+  - de: Pohlen
+    en: Poles
+    kind: other
+  - de: Tilſitter
+    en: Tilsit
+    kind: place
+  - de: Eberhard
+    en: Eberhard
+    kind: person
+  - de: Eichen
+    en: Eichen
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - 1/2
+  - '14'
+  - 18ten
+  - '1815'

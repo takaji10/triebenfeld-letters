@@ -1,35 +1,63 @@
 status: draft
 segments:
 - page: 1
-  en: 'Right Honourable Sir, Most highly revered Herr Councillor of War and Forests! In accordance with
-    the command of His Serene Highness the Prince, I rode last Saturday to Your Right Honourable''s ErtheSchweiner,
-    in order to speak there with the Amtmann Käufer and with the forester Bezold. The former I did not
-    find, for he had ridden early to Breslau and was not yet back from there. To the latter I explained
-    the commission I had regarding him entirely in the manner in which it had been written to me by [text
-    lost: source of the writing not named]; he did not appear dismayed at it, but rather enquired who
-    might have placed him in a bad light with His Serene Highness, whereupon I told him that I did not
-    know this myself, that I could only admonish him to the strictest uprightness and attentiveness in
-    his service, since he saw that with a contrary manner of acting one was never secure, and that such
-    a thing would once be severely punished. He assured me in [breaks off]'
+  en: Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! In accordance with the
+    command of His Serene Highness the Prince, I rode last Saturday to Your Right Honourable's ErtheSchweiner,
+    in order to speak there with the district steward Käufer and the forester bezold. The former I did
+    not find, for he had ridden early to Breslau, and had not yet returned from there. To the latter I
+    set forth the charge I had against him entirely in the manner in which it had been written to me;
+    he did not appear dismayed at it, but rather enquired who might have placed him in an ill light with
+    His Serene Highness, whereupon I told him that I did not know this myself, that I could only admonish
+    him to the strictest uprightness and attentiveness in his service, since he saw that with a contrary
+    manner of conduct one was never safe, and that such would one day be severely punished. He assured
+    me
+  names:
+  - de: Kriegs und Forst Rath
+    en: Councillor of War and Forests
+    kind: other
+  - de: ErtheSchweiner
+    en: ErtheSchweiner
+    kind: place
+  - de: Käufer
+    en: Käufer
+    kind: person
+  - de: bezold
+    en: bezold
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
 - page: 2
-  en: 'that he exerted all his powers for the manorial interest, and was not in a position to do more.
-    I then rode back, and sought out the Amtmann here, whom I did indeed find, and who answered me [uncertain:
-    ehegefahr] the same, only with the addition that he had the best testimonials from the most creditable
-    men, and that his good name was worth much to him, which in his present situation he assuredly did
-    not deserve to lose. Of this he would give proofs, and could calmly face an investigation of his actions.
-    To Your Right Honourable I report all this likewise at the command of His Serene Highness, and permit
-    myself only to report further that today the [uncertain: Wüsten] go off by the carrying post.
-
-
-    In most perfect reverence:
+  en: 'that he exerted all his powers for the interest of the lordship, and was not in a position to do
+    more. I then rode back, and sought out the district steward here, whom I did indeed find, and who
+    answered me roughly the same, only with the addition that he had the best testimonials from the most
+    creditable men, and that his good name was worth much to him, which in his present situation he certainly
+    did not deserve to lose. Of this he would give proofs, and could calmly face an investigation of his
+    actions. Your Right Honourable, I report all this likewise by command of His Serene Highness, and
+    permit myself only to add further that today the Wüsten depart by the carrying post. In most perfect
+    reverence:
 
 
     Your Right Honourable''s
 
 
-    Breslau, the 19th of March 1805
+    Breslau, the 19th of March
+
+
+    1805
 
 
     humble and obedient servant
 
+
     A. Hahn'
+  names:
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: A. Hahn
+    en: A. Hahn
+    kind: person
+  numbers:
+  - '19'
+  - '1805'

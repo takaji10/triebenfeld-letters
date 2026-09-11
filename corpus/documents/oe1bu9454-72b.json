@@ -276,28 +276,396 @@
    "doc_line": 76
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "sub-prefect von Brzechsta",
+   "kind": "person",
+   "surface_de": "Podprefecten v Brzechsta",
+   "surface_en": "sub-prefect von Brzechsta",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "district councillor Thiele",
+   "kind": "person",
+   "surface_de": "Kreis Rath Thiele",
+   "surface_en": "district councillor Thiele",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konin",
+   "kind": "place",
+   "surface_de": "Koniner",
+   "surface_en": "Konin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zaborowski",
+   "kind": "person",
+   "surface_de": "Zaborowski",
+   "surface_en": "Zaborowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szimanowski",
+   "kind": "person",
+   "surface_de": "Szimanowski",
+   "surface_en": "Szimanowski",
+   "page": 2
+  },
+  {
+   "entity": "brzechsta",
+   "display": "Brzechsta",
+   "kind": "person",
+   "surface_de": "Brzechsta",
+   "surface_en": "Brzechsta",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wegbezirn",
+   "kind": "place",
+   "surface_de": "Wegbezirns",
+   "surface_en": "Wegbezirn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olerniger",
+   "kind": "place",
+   "surface_de": "Olerniger",
+   "surface_en": "Olerniger",
+   "page": 2
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Heiller",
+   "kind": "person",
+   "surface_de": "Heiller",
+   "surface_en": "Heiller",
+   "page": 2
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbcziner",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Rybbeck",
+   "kind": "person",
+   "surface_de": "Rybbeck",
+   "surface_en": "Rybbeck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 3
+  },
+  {
+   "entity": "niedzewiecki",
+   "display": "Niedzewiecki",
+   "kind": "person",
+   "surface_de": "Niedzewiecki",
+   "surface_en": "Niedzwiedzki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Brzechsta",
+   "kind": "person",
+   "surface_de": "v. Brzechsta",
+   "surface_en": "Brzechsta",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Piekowski",
+   "kind": "person",
+   "surface_de": "Piekowski",
+   "surface_en": "Piekowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! From the enclosed letters of Herr Sub-prefect v. Brzechsta and of Kreis-Rath Thiele, Your Most Serene Highness will deign to gather that Herr v. Brzechsta cannot depart from Warsaw before the 15th of this month. Everything is, as I know for certain from his household, made ready for the swiftest journey to Schlawenschitz upon his return. As much money as he shall be able to drive together, he will bring with him. One thing, however, I fear: that Herr von Brzechsta will, over and above his journey, have to spend several days upon the taking over of the Konin prefecture. Meanwhile this will be of the most beneficial consequences for Your Serene Highness. [uncertain: Mann] has, at the new classification, laid § 897 Rthl upon the Zagorow estates. Herr von Brzechsta has given me his word of honour that he would set this to rights and would guide the matter so that no more should be given than hitherto. His power of effect is then great, and in this matter everything hangs"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nFrom the enclosed letters of the sub-prefect von Brzechsta and of the district councillor Thiele, Your Most Serene Highness will be pleased to gather that Herr von Brzechsta cannot depart from Warsaw before the 15th of this month. Everything is, as I know for certain from his household, prepared for the swiftest journey to Schlawenschitz upon his return. As much money as he shall be able to drive together, he will bring with him. One thing, however, I fear, namely that Herr von Brzechsta will have to expend some days' time, over and above his journey, upon taking over the prefecture of Konin. Meanwhile this will be of the most beneficial consequences for Your Serene Highness. The man has, in the new classification, cast § 897 Rthl upon the Zagorowo estates. Herr von Brzechsta has given me his word of honour that he would redress this and would guide the matter so that no more should be given than hitherto. His proof of effectiveness is then great, and in this matter everything hangs",
+   "names": [
+    {
+     "de": "Podprefecten v Brzechsta",
+     "en": "sub-prefect von Brzechsta",
+     "kind": "person"
+    },
+    {
+     "de": "Kreis Rath Thiele",
+     "en": "district councillor Thiele",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Koniner",
+     "en": "Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "15",
+    "897",
+    "1200"
+   ]
   },
   {
    "page": 2,
-   "en": "upon him. — Zaborowski and Szimanowski have set this afoot in so knavish a fashion; through a third party 500 Th were demanded for those clean-handed men of business — whence was I to take them? Meanwhile I now hope, through the power and friendship of Herr v. Brzechsta, [uncertain: ihm ergandt] to gain more than a loss, rather than through those cut-purses. The peasants of the Wegbezirn have as yet entered no appeal — but they threaten it. Meanwhile this does no harm; the Tribunal's decree will certainly be confirmed in Warsaw. It is a loss of some few weeks' time — the profit will then be all the more abundant for Your Serene Highness. The Olerniger affair is ripe for decision and will be taken up as soon as Herr von Brzechsta has returned. With Hawich all is settled — he receives the salary formerly promised him by Your Serene Highness (yet only for one and a half years) at 1200 Rthl, which Herr v. Brzechsta has promised to pay out to him. He must however give back the 9 Hufen of land together with all the buildings which Heiller, without being empowered to do so, had sold to him, without any compensation whatsoever. He has on that account already come to terms with Herr v. Brzechsta and appeals no further."
+   "en": "upon him. — Zaborowski and Szimanowski contrived this so roguishly; through a third party 500 Th were demanded for those tidy men of business — where was I to have got them from? Meanwhile I now hope, through the power and friendship of Herr von Brzechsta, [uncertain: to gain for him] one loss more than through those cut-purses. The peasants of Wegbezirn have as yet given notice of no appeal — they do, however, threaten it — meanwhile this does no harm; the decree of the tribunal will certainly be confirmed in Warsaw. It is a matter of some few weeks' loss of time — the profit will then be all the more abundant for Your Serene Highness.\n\nThe Olerniger affair is [uncertain: matter of established law] and will be taken up as soon as Herr von Brzechsta has returned.\n\nWith Hawich everything is settled — He receives the salary promised him at that time by His Serene Highness (yet only for a year and a half) amounting to 1200 Rthl, which Herr von Brzechsta has promised to pay out to him. He must, however, give back the 9 Hufen of land together with all the buildings which Heiller, without being empowered to do so, had sold to him, without any compensation whatsoever — On that account he has already come to terms with Herr von Brzechsta and appeals no further",
+   "names": [
+    {
+     "de": "Zaborowski",
+     "en": "Zaborowski",
+     "kind": "person"
+    },
+    {
+     "de": "Szimanowski",
+     "en": "Szimanowski",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechsta",
+     "en": "Brzechsta",
+     "kind": "person"
+    },
+    {
+     "de": "Wegbezirns",
+     "en": "Wegbezirn",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Olerniger",
+     "en": "Olerniger",
+     "kind": "place"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Heiller",
+     "en": "Heiller",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "500",
+    "1200",
+    "9"
+   ]
   },
   {
    "page": 3,
-   "en": "[uncertain: Jedes] he now rages against Hecker, Honrichs and the former Trąbczin tenant Rybbeck, who holds the 8 Hufen in Drzewce. He promises not only to dislodge the latter, but also to uncover the hidden knaveries of the two others. Niedzewiecki, instead of paying Your Serene Highness the 6000 Rthl he owes, made a demand for 8000 Rthl — the knave has lost the suit; he is now wholly dismissed with his claim, and, since he has sworn that he has proved 4000 Rthl of war costs, is to give out a further 2000 Rthl to Your Serene Highness. He threatens to appeal to Warsaw and to drag the matter out. Herr v. Brzechsta will perhaps show him the way. Nothing, however, is to be got from the villain, for he has nothing. At present our chief endeavour is to drive in the arrears of interest — Herr v. Brzechsta will have to be very effective in this, the more so as the old wicked Land-Unterrichter Piekowski, who was Your Serene Highness's greatest enemy, has been suspended. This is the chief ringleader in the Traperin affair, in which Herr v. Brzechsta promises so much good. Up to this hour the wicked man has forbidden us all collection of interest and has protected the colonists and seduced them into complaints, whereby everything was dragged out and many thousands may well become irrecoverable."
+   "en": "At present he rages against Hecker, Honrichs and the former tenant of Trąbczyn, Rybbeck, who holds the 8 Hufen in Drzewce — He promises not only to dislodge the latter, but also to uncover the hidden roguery of the two others. Niedzwiedzki, instead of paying Your Serene Highness 6000 Rthl, made a demand for 8000 Rthl — the rogue has lost the suit, he is now wholly dismissed with his claim, and, since he has proved and sworn to some 4000 Rthl of war costs, he is to hand over a further 2000 Rthl to Your Serene Highness — He threatens to appeal to Warsaw and to drag the matter out. Herr von Brzechsta will perhaps show him the door — nothing, however, is to be got from the villain, for he has nothing. At present our foremost endeavour is to collect the arrears of interest — Herr von Brzechsta will have to be very effective in this, the more so as the old wicked assistant land judge Piekowski, who was Your Serene Highness's greatest enemy, has been suspended. This is the chief ringleader in the Trąbczyn affair, in which Herr von Brzechsta promises so much good. Up to this hour the wicked man has forbidden us all collection of interest and has protected the colonists and seduced them into complaints, whereby everything was dragged out and many thousands may well become irrecoverable.",
+   "names": [
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbcziner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Rybbeck",
+     "en": "Rybbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Niedzewiecki",
+     "en": "Niedzwiedzki",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "v. Brzechsta",
+     "en": "Brzechsta",
+     "kind": "person"
+    },
+    {
+     "de": "Piekowski",
+     "en": "Piekowski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "6000",
+    "8000",
+    "4000",
+    "2000"
+   ]
   },
   {
    "page": 4,
-   "en": "The news of the young Princess has grieved me; I wish that she may soon be entirely restored, and that Your Serene Highness may at the earliest see your Most Serene Lords the sons about you. What lies within my powers I shall now, hastening [text lost] to come to Schlawenschitz, in order to see the worthy father together with his good and exalted sons, and then to render Your Serene Highness the dearest reverence, in which I remain, until death, as Your Serene Highness's — may Your Serene Highness deign to send the enclosed letter with all speed by the far post. There will be no war. Our quarter of the world now resembles a madhouse. Blizanow, 12th March 1872. faithful humble and obedient servant v. Triebenfeld"
+   "en": "The news of the young Princess has grieved me; I wish that she may soon be entirely restored and that Your Serene Highness might now at the earliest see your Most Serene Highness's Lord Sons about you. What lies within my powers I shall now [text lost] hastening to come to Schlawenschitz, to see the honest father together with his good and exalted sons, and then to show Your Serene Highness the dearest reverence, in which I remain, until death, as Your Serene Highness's [uncertain: called] — Your Serene Highness, to send the accompanying letter with all speed by the [uncertain: distant] post. War will not be.\n\nOur quarter of the world now resembles a madhouse.\n\nBlizanow\n\n12th March 1872.\n\nfaithful humble and obedient servant\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "12",
+    "1872"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! From the enclosed letters of Herr Sub-prefect v. Brzechsta and of Kreis-Rath Thiele, Your Most Serene Highness will deign to gather that Herr v. Brzechsta cannot depart from Warsaw before the 15th of this month. Everything is, as I know for certain from his household, made ready for the swiftest journey to Schlawenschitz upon his return. As much money as he shall be able to drive together, he will bring with him. One thing, however, I fear: that Herr von Brzechsta will, over and above his journey, have to spend several days upon the taking over of the Konin prefecture. Meanwhile this will be of the most beneficial consequences for Your Serene Highness. [uncertain: Mann] has, at the new classification, laid § 897 Rthl upon the Zagorow estates. Herr von Brzechsta has given me his word of honour that he would set this to rights and would guide the matter so that no more should be given than hitherto. His power of effect is then great, and in this matter everything hangs\n\nupon him. — Zaborowski and Szimanowski have set this afoot in so knavish a fashion; through a third party 500 Th were demanded for those clean-handed men of business — whence was I to take them? Meanwhile I now hope, through the power and friendship of Herr v. Brzechsta, [uncertain: ihm ergandt] to gain more than a loss, rather than through those cut-purses. The peasants of the Wegbezirn have as yet entered no appeal — but they threaten it. Meanwhile this does no harm; the Tribunal's decree will certainly be confirmed in Warsaw. It is a loss of some few weeks' time — the profit will then be all the more abundant for Your Serene Highness. The Olerniger affair is ripe for decision and will be taken up as soon as Herr von Brzechsta has returned. With Hawich all is settled — he receives the salary formerly promised him by Your Serene Highness (yet only for one and a half years) at 1200 Rthl, which Herr v. Brzechsta has promised to pay out to him. He must however give back the 9 Hufen of land together with all the buildings which Heiller, without being empowered to do so, had sold to him, without any compensation whatsoever. He has on that account already come to terms with Herr v. Brzechsta and appeals no further.\n\n[uncertain: Jedes] he now rages against Hecker, Honrichs and the former Trąbczin tenant Rybbeck, who holds the 8 Hufen in Drzewce. He promises not only to dislodge the latter, but also to uncover the hidden knaveries of the two others. Niedzewiecki, instead of paying Your Serene Highness the 6000 Rthl he owes, made a demand for 8000 Rthl — the knave has lost the suit; he is now wholly dismissed with his claim, and, since he has sworn that he has proved 4000 Rthl of war costs, is to give out a further 2000 Rthl to Your Serene Highness. He threatens to appeal to Warsaw and to drag the matter out. Herr v. Brzechsta will perhaps show him the way. Nothing, however, is to be got from the villain, for he has nothing. At present our chief endeavour is to drive in the arrears of interest — Herr v. Brzechsta will have to be very effective in this, the more so as the old wicked Land-Unterrichter Piekowski, who was Your Serene Highness's greatest enemy, has been suspended. This is the chief ringleader in the Traperin affair, in which Herr v. Brzechsta promises so much good. Up to this hour the wicked man has forbidden us all collection of interest and has protected the colonists and seduced them into complaints, whereby everything was dragged out and many thousands may well become irrecoverable.\n\nThe news of the young Princess has grieved me; I wish that she may soon be entirely restored, and that Your Serene Highness may at the earliest see your Most Serene Lords the sons about you. What lies within my powers I shall now, hastening [text lost] to come to Schlawenschitz, in order to see the worthy father together with his good and exalted sons, and then to render Your Serene Highness the dearest reverence, in which I remain, until death, as Your Serene Highness's — may Your Serene Highness deign to send the enclosed letter with all speed by the far post. There will be no war. Our quarter of the world now resembles a madhouse. Blizanow, 12th March 1872. faithful humble and obedient servant v. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nFrom the enclosed letters of the sub-prefect von Brzechsta and of the district councillor Thiele, Your Most Serene Highness will be pleased to gather that Herr von Brzechsta cannot depart from Warsaw before the 15th of this month. Everything is, as I know for certain from his household, prepared for the swiftest journey to Schlawenschitz upon his return. As much money as he shall be able to drive together, he will bring with him. One thing, however, I fear, namely that Herr von Brzechsta will have to expend some days' time, over and above his journey, upon taking over the prefecture of Konin. Meanwhile this will be of the most beneficial consequences for Your Serene Highness. The man has, in the new classification, cast § 897 Rthl upon the Zagorowo estates. Herr von Brzechsta has given me his word of honour that he would redress this and would guide the matter so that no more should be given than hitherto. His proof of effectiveness is then great, and in this matter everything hangs\n\nupon him. — Zaborowski and Szimanowski contrived this so roguishly; through a third party 500 Th were demanded for those tidy men of business — where was I to have got them from? Meanwhile I now hope, through the power and friendship of Herr von Brzechsta, [uncertain: to gain for him] one loss more than through those cut-purses. The peasants of Wegbezirn have as yet given notice of no appeal — they do, however, threaten it — meanwhile this does no harm; the decree of the tribunal will certainly be confirmed in Warsaw. It is a matter of some few weeks' loss of time — the profit will then be all the more abundant for Your Serene Highness.\n\nThe Olerniger affair is [uncertain: matter of established law] and will be taken up as soon as Herr von Brzechsta has returned.\n\nWith Hawich everything is settled — He receives the salary promised him at that time by His Serene Highness (yet only for a year and a half) amounting to 1200 Rthl, which Herr von Brzechsta has promised to pay out to him. He must, however, give back the 9 Hufen of land together with all the buildings which Heiller, without being empowered to do so, had sold to him, without any compensation whatsoever — On that account he has already come to terms with Herr von Brzechsta and appeals no further\n\nAt present he rages against Hecker, Honrichs and the former tenant of Trąbczyn, Rybbeck, who holds the 8 Hufen in Drzewce — He promises not only to dislodge the latter, but also to uncover the hidden roguery of the two others. Niedzwiedzki, instead of paying Your Serene Highness 6000 Rthl, made a demand for 8000 Rthl — the rogue has lost the suit, he is now wholly dismissed with his claim, and, since he has proved and sworn to some 4000 Rthl of war costs, he is to hand over a further 2000 Rthl to Your Serene Highness — He threatens to appeal to Warsaw and to drag the matter out. Herr von Brzechsta will perhaps show him the door — nothing, however, is to be got from the villain, for he has nothing. At present our foremost endeavour is to collect the arrears of interest — Herr von Brzechsta will have to be very effective in this, the more so as the old wicked assistant land judge Piekowski, who was Your Serene Highness's greatest enemy, has been suspended. This is the chief ringleader in the Trąbczyn affair, in which Herr von Brzechsta promises so much good. Up to this hour the wicked man has forbidden us all collection of interest and has protected the colonists and seduced them into complaints, whereby everything was dragged out and many thousands may well become irrecoverable.\n\nThe news of the young Princess has grieved me; I wish that she may soon be entirely restored and that Your Serene Highness might now at the earliest see your Most Serene Highness's Lord Sons about you. What lies within my powers I shall now [text lost] hastening to come to Schlawenschitz, to see the honest father together with his good and exalted sons, and then to show Your Serene Highness the dearest reverence, in which I remain, until death, as Your Serene Highness's [uncertain: called] — Your Serene Highness, to send the accompanying letter with all speed by the [uncertain: distant] post. War will not be.\n\nOur quarter of the world now resembles a madhouse.\n\nBlizanow\n\n12th March 1872.\n\nfaithful humble and obedient servant\nvon Triebenfeld",
  "summary_en": "Encloses letters from Sub-prefect v. Brzechsta and Kreis-Rath Thiele: Brzechsta cannot leave Warsaw before the 15th, but will travel to Schlawenschitz with what money he can collect, though taking over the Konin prefecture may delay him. Reports a new assessment of 897 Rthl on the Zagorow estates, which Brzechsta has pledged to reverse; the extortion of 500 Th by Zaborowski and Szimanowski; threatened appeals by the Wegbezirn peasants; the Olerniger case; Hawich's settlement at 1200 Rthl and surrender of 9 Hufen; Niedzewiecki's lost suit and 2000 Rthl; and the suspension of Land-Unterrichter Piekowski, who had blocked interest collection.",
  "summary_de": "Berichtet nach beiliegenden Schreiben des Sub-Präfekten v. Brzechsta und des Kreis-Raths Thiele, daß Brzechsta Warschau erst nach dem 15. verlassen und dann samt eingetriebenem Geld nach Schlawenschitz reisen könne, zuvor aber die Präfektur Konin übernehmen müsse; er wolle die bei der neuen Klassifikation auf die Zagorower Güter gelegten 897 Rthl abwenden. Zaborowski und Szimanowski forderten 500 Th. Mit Hawich verglichen: 1200 Rthl Gehalt für anderthalb Jahre gegen Rückgabe der 9 Hufen. Niedzewiecki, statt 6000 Rthl zu zahlen, unterlag im Prozeß und soll 2000 Rthl herausgeben. Der feindliche Land-Unterrichter Piekowski ist suspendiert; Krieg werde es nicht geben."
 }

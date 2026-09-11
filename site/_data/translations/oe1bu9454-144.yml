@@ -1,9 +1,30 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince! Most gracious Prince and Lord! Your Most Serene Highness's command of the 31st
-    of last month I received today. Tomorrow morning I shall go to the Count von Schulenburg, deliver
-    to him the letter addressed to him and await his further declaration. By the next post I shall not
-    fail to submit in most humble [submission] the result of my conference. In deepest reverence I remain,
-    until death, Your Most Serene Highness's Berlin, the 3rd Nov. 1834. most humble and obedient servant
-    Amelang
+  en: 'Most Serene Prince!
+
+
+    Most gracious Prince and Lord! I received today Your Most Serene Highness''s command of the 31st of
+    last month. Tomorrow morning I shall go to the Greiff von Schulenburg, deliver to him the letter addressed
+    to him, and await his more particular declaration. By the next post I shall not fail to submit most
+    humbly the result of my conference. [uncertain: cke ich erſtrete] .
+
+
+    Your Most Serene [uncertain: Sächleicht]. Berlin, the 3rd of November 1834. most humble the
+
+
+    Amelang'
+  names:
+  - de: Greiff von Schulenburg
+    en: Greiff von Schulenburg
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Amelang
+    en: Amelang
+    kind: person
+  numbers:
+  - '31.'
+  - '3.'
+  - '1834'

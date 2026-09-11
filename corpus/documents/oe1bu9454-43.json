@@ -215,20 +215,222 @@
    "doc_line": 57
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitz",
+   "surface_en": "Grevenitz",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hausvogtey",
+   "kind": "place",
+   "surface_de": "Hausvogtey",
+   "surface_en": "Hausvogtey",
+   "page": 2
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 2
+  },
+  {
+   "entity": "rhode",
+   "display": "Rhode",
+   "kind": "person",
+   "surface_de": "Rhode",
+   "surface_en": "Rhode",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! According to a judgment just now received from Privy Councillor Amelang in Berlin, Lahr has been awarded, entirely contrary to the Landrecht, cash money instead of papers such as he had given, and the 3000 Rthl still owing to him are to be paid in hard coin. In the event that I cannot pay or deposit the same, I am to be arrested, since it is a bill-of-exchange suit. Amelang has indeed appealed, but where do I save myself in the meantime? I am truly most wretched through this affair, and if bounds are not soon set to this trouble I must yet be utterly ruined. I have laboured through a whole year, and lost health, means and credit in it. Several advantages have I also already won thereby for Your Serene Highness. But what is my reward? Hatred, persecution, and at the end imprisonment. My inmost being revolts and my heart bursts in me when I only think this thought. I beg and implore Your Serene Highness pay, what is holy, to take the matter to heart and to procure counsel quickly, so that the monies be deposited in cash or in state papers. According to Grevenitz's and Amelang's assurance, the suit will certainly be won in the Senate of Appeals. Lahr must take papers, whereby some 1500 Rthl circa will be saved. Your Serene Highness will in the end lose nothing in this matter but the costs, which through this year have indeed been much bought, but have in the meanwhile paved the way whereby everything can be brought to the desired goal. The money for Lahr you will receive back by order of the French General Government, and the sequestration will be lifted at once as soon as of this sum, circa 10000 Rthl, the interest is paid. To that end I have summoned the Justitiarius Honrichs hither to me, and shall arrange the necessary with him."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAccording to a judgment just now received from Privy Councillor Amelang in Berlin, Lahr has been awarded, quite contrary to the territorial law, cash money instead of the papers as he gave them, and the 3000 Rthl still coming to him are to be paid in hard coin. In the event that I cannot pay or deposit the same, I am to be arrested, since it is a bill-of-exchange suit. Amelang has indeed appealed, but where do I find rescue in the meantime? I am truly most unhappy through this affair, and if bounds are not soon set to this distress I must go utterly to ruin. I have laboured a whole year through, and lost health, means and credit in it. I have also already won several advantages for Your Serene Highness thereby. But what is my reward? Hatred, persecution, and prison at the end. My inward parts revolt and my heart bursts in me when I do but think this thought. I beg and implore Your Serene Highness to pay, as is sacred, to take the matter to heart and to provide counsel swiftly, so that the monies may be deposited in cash or in state papers. According to Grevenitz's and Amelang's assurance, the\n\nbe deposited.\n\nsuit will certainly be won in the Senate of Appeals. Lahr must take papers, whereby some 1500 Rthl circa will be saved.\n\nYour Serene Highness in the end loses nothing in this matter but the costs, which have indeed mounted up very much through this year, but have meanwhile paved the way by which everything can be brought to the desired end.\n\nThe money for Lahr you will receive back by order of the French General Government, and the sequestration will be lifted forthwith once the interest on this sum, circa 10000 Rthl, has been paid. To that end I have summoned the justiciary Honrichs to come to me, and shall arrange the necessary with him",
+   "names": [
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitz",
+     "en": "Grevenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3000",
+    "1500",
+    "10000"
+   ]
   },
   {
    "page": 2,
-   "en": "The suit with Oppenheimer is on the best course, and there one can get off with papers and certainly save half. Let Your Serene Highness only now have mercy on me too, and procure speedy counsel for the deposit of the 3000 Rthl, either in cash money or in as much state paper at the current rate. It is only a great good fortune that I am away from Berlin; and had I not concluded a contract with the merchant Michaelis for 600 hundredweight of iron and received 2000 Rthl from him, so as to buy myself off to some degree, I should now already be sitting in Berlin in the Hausvogtey. In this regard I most fervently beg Your Serene Highness only to give the 600 hundredweight of iron, so that I may keep my word to this man and not come to harm here as well. If Michaelis receives the iron, 300 hundredweight by the end of April and 300 hundredweight by about St. John's Day, then thereafter this man may be greatly relied upon [uncertain: paid]. The grief and the anxiety that I may be sought out by Lahr here too — press me to the ground; I can now say nothing further than: save me speedily, Your Serene Highness, and do not let me, for my faithful attachment, be utterly ruined for the sake of Your cause and branded before the world. I remain, until death, as Your Most Serene Highness's — Do send Your Serene Highness's letters, pray, by express messenger to Professor Rhode at Breslau; he alone forwards such again by express hither. — Only save me. Kontop, 30th January 1809, most faithful servant v Triebenfeld"
+   "en": "The suit with Oppenheimer is going in the best train, and there one can get off with papers and certainly save the half. Have mercy now also on me, Your Serene Highness, and provide swift counsel for the depositing of the 3000 Rthl, either in cash money or in so much state paper at the rate of exchange.\n\nIt is only a great good fortune that I am away from Berlin, and had I not concluded a contract with the merchant Michaelis for 600 hundredweight of iron and received 2000 Rthl from him, so as to buy myself free to some degree, I should now already be sitting in the Hausvogtey in Berlin. In this regard I beseech Your Serene Highness most imploringly to give the 600 hundredweight of iron without fail, so that I may keep my word to this man and not come to harm here as well. If Michaelis receives 300 hundredweight of the iron by the end of April and 300 hundredweight by about Midsummer Day, then great reliance may thereafter be placed on this man. The distress and the dread that I may be sought out here too by Lahr — presses me to the ground; I can say nothing further now than: rescue me speedily, Your Serene Highness, and do not let me be utterly ruined and branded before the world for my faithful devotion, for the sake of Your cause. I remain, until death,\n\nYour Most Serene Highness — Do send Your letters, Your Serene Highness, by all means by express messenger to Professor Rhode at Breslau; he then sends them on here again by express — Only rescue me.\n\nKontop\n\n30th January\n\n1809\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Hausvogtey",
+     "en": "Hausvogtey",
+     "kind": "place"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Rhode",
+     "en": "Rhode",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3000",
+    "600",
+    "2000",
+    "600",
+    "300",
+    "300",
+    "30",
+    "1809"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! According to a judgment just now received from Privy Councillor Amelang in Berlin, Lahr has been awarded, entirely contrary to the Landrecht, cash money instead of papers such as he had given, and the 3000 Rthl still owing to him are to be paid in hard coin. In the event that I cannot pay or deposit the same, I am to be arrested, since it is a bill-of-exchange suit. Amelang has indeed appealed, but where do I save myself in the meantime? I am truly most wretched through this affair, and if bounds are not soon set to this trouble I must yet be utterly ruined. I have laboured through a whole year, and lost health, means and credit in it. Several advantages have I also already won thereby for Your Serene Highness. But what is my reward? Hatred, persecution, and at the end imprisonment. My inmost being revolts and my heart bursts in me when I only think this thought. I beg and implore Your Serene Highness pay, what is holy, to take the matter to heart and to procure counsel quickly, so that the monies be deposited in cash or in state papers. According to Grevenitz's and Amelang's assurance, the suit will certainly be won in the Senate of Appeals. Lahr must take papers, whereby some 1500 Rthl circa will be saved. Your Serene Highness will in the end lose nothing in this matter but the costs, which through this year have indeed been much bought, but have in the meanwhile paved the way whereby everything can be brought to the desired goal. The money for Lahr you will receive back by order of the French General Government, and the sequestration will be lifted at once as soon as of this sum, circa 10000 Rthl, the interest is paid. To that end I have summoned the Justitiarius Honrichs hither to me, and shall arrange the necessary with him.\n\nThe suit with Oppenheimer is on the best course, and there one can get off with papers and certainly save half. Let Your Serene Highness only now have mercy on me too, and procure speedy counsel for the deposit of the 3000 Rthl, either in cash money or in as much state paper at the current rate. It is only a great good fortune that I am away from Berlin; and had I not concluded a contract with the merchant Michaelis for 600 hundredweight of iron and received 2000 Rthl from him, so as to buy myself off to some degree, I should now already be sitting in Berlin in the Hausvogtey. In this regard I most fervently beg Your Serene Highness only to give the 600 hundredweight of iron, so that I may keep my word to this man and not come to harm here as well. If Michaelis receives the iron, 300 hundredweight by the end of April and 300 hundredweight by about St. John's Day, then thereafter this man may be greatly relied upon [uncertain: paid]. The grief and the anxiety that I may be sought out by Lahr here too — press me to the ground; I can now say nothing further than: save me speedily, Your Serene Highness, and do not let me, for my faithful attachment, be utterly ruined for the sake of Your cause and branded before the world. I remain, until death, as Your Most Serene Highness's — Do send Your Serene Highness's letters, pray, by express messenger to Professor Rhode at Breslau; he alone forwards such again by express hither. — Only save me. Kontop, 30th January 1809, most faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAccording to a judgment just now received from Privy Councillor Amelang in Berlin, Lahr has been awarded, quite contrary to the territorial law, cash money instead of the papers as he gave them, and the 3000 Rthl still coming to him are to be paid in hard coin. In the event that I cannot pay or deposit the same, I am to be arrested, since it is a bill-of-exchange suit. Amelang has indeed appealed, but where do I find rescue in the meantime? I am truly most unhappy through this affair, and if bounds are not soon set to this distress I must go utterly to ruin. I have laboured a whole year through, and lost health, means and credit in it. I have also already won several advantages for Your Serene Highness thereby. But what is my reward? Hatred, persecution, and prison at the end. My inward parts revolt and my heart bursts in me when I do but think this thought. I beg and implore Your Serene Highness to pay, as is sacred, to take the matter to heart and to provide counsel swiftly, so that the monies may be deposited in cash or in state papers. According to Grevenitz's and Amelang's assurance, the\n\nbe deposited.\n\nsuit will certainly be won in the Senate of Appeals. Lahr must take papers, whereby some 1500 Rthl circa will be saved.\n\nYour Serene Highness in the end loses nothing in this matter but the costs, which have indeed mounted up very much through this year, but have meanwhile paved the way by which everything can be brought to the desired end.\n\nThe money for Lahr you will receive back by order of the French General Government, and the sequestration will be lifted forthwith once the interest on this sum, circa 10000 Rthl, has been paid. To that end I have summoned the justiciary Honrichs to come to me, and shall arrange the necessary with him\n\nThe suit with Oppenheimer is going in the best train, and there one can get off with papers and certainly save the half. Have mercy now also on me, Your Serene Highness, and provide swift counsel for the depositing of the 3000 Rthl, either in cash money or in so much state paper at the rate of exchange.\n\nIt is only a great good fortune that I am away from Berlin, and had I not concluded a contract with the merchant Michaelis for 600 hundredweight of iron and received 2000 Rthl from him, so as to buy myself free to some degree, I should now already be sitting in the Hausvogtey in Berlin. In this regard I beseech Your Serene Highness most imploringly to give the 600 hundredweight of iron without fail, so that I may keep my word to this man and not come to harm here as well. If Michaelis receives 300 hundredweight of the iron by the end of April and 300 hundredweight by about Midsummer Day, then great reliance may thereafter be placed on this man. The distress and the dread that I may be sought out here too by Lahr — presses me to the ground; I can say nothing further now than: rescue me speedily, Your Serene Highness, and do not let me be utterly ruined and branded before the world for my faithful devotion, for the sake of Your cause. I remain, until death,\n\nYour Most Serene Highness — Do send Your letters, Your Serene Highness, by all means by express messenger to Professor Rhode at Breslau; he then sends them on here again by express — Only rescue me.\n\nKontop\n\n30th January\n\n1809\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports Amelang's news that Lahr has won judgment for 3000 Rthl in hard coin rather than papers, exposing Triebenfeld to arrest under bill-of-exchange law; begs the Prince to provide cash or state papers for the deposit, since appeal to the Senate of Appeals should save some 1500 Rthl. Notes the Oppenheimer suit going well, the French General Government's repayment and lifting of the sequestration once interest on circa 10000 Rthl is paid, Honrichs summoned, and pleads for 600 hundredweight of iron promised to Michaelis.",
  "summary_de": "Meldet ein von Geheimrath Amelang aus Berlin übersandtes Urtheil: Lahr sei entgegen dem Landrecht Barzahlung statt Papieren zugesprochen, die restlichen 3000 Rthl seien in harter Münze zu zahlen, andernfalls drohe wegen der Wechselklage Arrest (Hausvogtey). Bittet inständig um schnelle Anweisung zur Deposition in Bargeld oder Staatspapieren; Amelang und Grevenitz erwarten Sieg beim Appellationssenat und Ersparnis von etwa 1500 Rthl. Die Sequestration werde aufgehoben, sobald von circa 10000 Rthl die Zinsen gezahlt seien; dazu sei Justitiarius Honrichs herbeigerufen. Der Prozeß mit Oppenheimer stehe günstig. Erbittet die 600 Zentner Eisen für den Kaufmann Michaelis (2000 Rthl Vorschuß), Lieferung je 300 Zentner bis Ende April und Johannis; Briefe über Professor Rhode in Breslau."
 }

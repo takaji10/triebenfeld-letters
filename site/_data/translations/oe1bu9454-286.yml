@@ -1,133 +1,390 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! The present epoch will surely remain the most remarkable
-    in the annals of the world, and whatever also also comes to pass will only ever be a consequence of
-    it. My fear is that the sovereigns will everywhere come too late. Napoleon today stands almost at
-    the Rhine, and the Austrians, Huße etc. are only just beginning to negotiate travelling monies — Wellington
-    departed only yesterday, and will draw together the Eng[lish] or Hanoverian troops — Only our troops
-    are being pushed forward, and were these to be beaten, & then God stand by us: the parvenu has already
-    more than 200000 men gathered together. It is shameful that such a thing could happen before the eyes
-    of all the sovereigns, and it is grievous that one still rates one''s enemy so lightly. On the 7th
-    of April the Russian troops pass through Prague — thither the monarchs will go and then return hither
-    — but when would they come to the Rhine? The war is thus as good as fully declared. — Napoléon is
-    away from Paris and hastens toward the Rhine; Ney has gone with a strong corps toward Switzerland,
-    and at present one corps after another is being formed by Napoleon, so that one will not know whither
-    to turn first. That amid all these confusions little can be effected here, Your Serene Highness may
-    readily judge. Prince Hardenberg promises henceforth to do everything. H[err] p. Stägemann, however,
-    thinks and acts as it pleases him. Something will nevertheless happen before one departs hence and
-    goes to the army. And since the two [uncertain: Ihren] of the Prusimska have given back the Polish
-    estates, I have submitted the accompanying P[ro] M[emoria] (which is meanwhile well worked out) —
-    upon which I await the decision — Your Serene Highness could not be refused therewith. General Amstetten
-    is the only one who has good will — and he assures that you must be indemnified by estates. For the
-    rest, everything seems to wish to take on another shape, for nothing is more changeable than the fortune
-    of war — the snail-like course of all business through 7 months, and the butter-soft yielding and
-    most improperly applied'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Lord!
+
+
+    The present epoch will no doubt remain the most remarkable in the annals of the world, and whatever
+    also also comes to pass will only ever be a consequence of it. I am bound to fear that the sovereigns
+    will everywhere come too late. For Napoleon stands today almost at the Rhine, and the Austrians, [uncertain:
+    Huße] etc. are only beginning to negotiate travel monies — Wellington departed only yesterday, and
+    will draw together the English or Hanoverian troops — Only our troops are being pushed forward, and
+    were these to be beaten, then God help us, the parvenu has already more than 200000 men assembled.
+    Shameful it is that such a thing could come to pass before the eyes of all the sovereigns, and grievous
+    it is that one still holds one''s peace so cheaply. On the 7th of April the Russian troops pass through
+    Prague — thither the monarchs will go and then return here — but when would they come to the Rhine?
+    The war is thus as good as fully declared. — Napoleon is away from Paris, hastening toward the Rhine;
+    Ney has gone with a strong corps toward Switzerland, and at present one corps after another is being
+    formed by Napoleon, so that one will not know whither to turn first.
+
+
+    That amid all these confusions little can be effected here, Your Serene Highness may readily judge.
+    Prince Hardenberg promises henceforth to do everything. Herr von Stägemann, however, thinks and acts
+    as it pleases him.
+
+
+    Something will nevertheless happen before one departs hence and goes to the army. And since the two
+    [illegible] of the Prusimska have given back the Polish estates, I have submitted the accompanying
+    Pro Memoria (which is meanwhile well worked out) — upon which I await the decision — Your Serene Highness
+    could not be dismissed with it. General Amstetten is the only one who has good will — and he assures
+    that you must be compensated by means of estates.
+
+
+    For the rest, everything seems to want to take on another shape, for nothing is more changeable than
+    the fortune of war — the snail-like course of all business through 7 months, and the butter-soft yielding
+    and most wrongly applied'
+  names:
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Rhein
+    en: Rhine
+    kind: place
+  - de: Osterreicher
+    en: Austrians
+    kind: other
+  - de: Huße
+    en: Huße
+    kind: person
+  - de: Wellington
+    en: Wellington
+    kind: person
+  - de: Eng
+    en: English
+    kind: other
+  - de: Hannörrischen
+    en: Hanoverian
+    kind: other
+  - de: Prag
+    en: Prague
+    kind: place
+  - de: rusz
+    en: Russian
+    kind: other
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Ney
+    en: Ney
+    kind: person
+  - de: Schweiz
+    en: Switzerland
+    kind: place
+  - de: Fürst Hardenberg
+    en: Prince Hardenberg
+    kind: person
+  - de: H. p. Stägemann
+    en: Herr von Stägemann
+    kind: person
+  - de: Prusimska
+    en: Prusimska
+    kind: person
+  - de: General Amstetten
+    en: General Amstetten
+    kind: person
+  - de: Pohl Güter
+    en: Polish estates
+    kind: other
+  numbers:
+  - '200000'
+  - 7ten
+  - '7'
 - page: 2
   en: 'generosity has made everything thick-skinned and has spoiled much — one also doubts whether men,
-    after the previous treatment, will set to work again with such glad courage. In Poland things already
-    look motley: the beasts are already letting their joy at Napoleon''s reappearance be heard aloud,
-    and are already dancing not on their legs but on their heads — Meanwhile let everything go as it ever
-    will; my sole wish is only that Your Serene Highness should read the Cosmar and be styled Lord of
-    the entire entailed estates; the rest will find itself. For the rest, I should know very well now,
-    were I in Your Serene Highness''s place, what I would do. I would take simply the 98714 Rthl and say
-    to the King and Emperor: you have disposed of my property. — This must be made good to me. It amounts
-    to 367164 Rthl. [uncertain: gestett] the foregoing court, let the Lord Emperor and King keep these,
-    and let me be given a receipt for the Curland debt as well as for the 35000 Rthl, and let my property
-    be made clear and open to me forthwith. My son may content himself meanwhile with the Hohenlohe estates.
-    The Canz princesses stand in very high favour with both Lords. I fall silent in reverence, and I remain,
-    until death, Your Serene Highness''s
+    after the previous treatment, will set to it again with such glad courage. In Poland things already
+    look motley; the beasts are already letting their joy over Napoleon''s reappearance be heard aloud,
+    and are already dancing on their heads instead of on their legs — [uncertain: Maxalles] meanwhile
+    may go as it will; my only wish is only that Your Serene Highness read the Cosmar and [illegible]
+    the whole of the entailed estates; the rest will find itself. For the rest, if I were in Your Serene
+    Highness''s place, I should just now know very well what I would do. I would take merely the 98714
+    Rthl and say to the King and Emperor, they have disposed of my property. — This must be made good
+    to me. It amounts to 367164 Rthl, [uncertain: gestett] the foregoing court; let the Lord Emperor and
+    King keep these, and let me be given a receipt for the Courland debt as also for the 35000 Rthl, and
+    let my property at once be made clean and clear to me. My son may be content in the meantime with
+    the Hohenlohe estates. The [uncertain: Canz] princesses stand in very high favour with both lords.
+    I fall silent in reverence, and I remain, until death,
 
 
-    N. B. Is it not possible that Eberhardt could come here? I beg for the most expeditious answer and
-    for several blank forms. The upright [uncertain: Geheime] Councillor of State Beugelin wished to have
-    a letter from Your Serene Highness, so that he might be effective in the one affair. I asked for [uncertain:
-    Er:] blank forms; this was written, and here is his answer; this is a [uncertain: brown] man who now
-    will not let go.
+    Your Serene Highness''s — N. B. Is it not possible that Eberhardt could come here? I beg for the most
+    expeditious answer of all and for several
 
 
-    Vienna, the 31st of March 1815.
+    blank forms. The upright privy councillor of state Beugelin wished to have a letter from Your Serene
+    Highness, so that he might be effective in the one matter. I asked for [uncertain: Er: Blan:]; this
+    was written, and here is his answer; this is a [uncertain: brown] man who now does not let go. Vienna,
+    the 31st of March
+
+
+    1815.
+
 
     faithful and obedient servant
 
-    v Triebenfeld'
+
+    v. Triebenfeld'
+  names:
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: Napoleons
+    en: Napoleon's
+    kind: person
+  - de: Maxalles
+    en: Maxalles
+    kind: other
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Canz
+    en: Canz
+    kind: other
+  - de: Curische
+    en: Courland
+    kind: place
+  - de: Hohenlohſchen Güter
+    en: Hohenlohe estates
+    kind: place
+  - de: Eberhardt
+    en: Eberhardt
+    kind: person
+  - de: Beugelin
+    en: Beugelin
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '98714'
+  - '367164'
+  - '35000'
+  - 31ten
+  - '1815'
 - page: 3
   en: '286 a)
 
-    P[ro] M[emoria]
+
+    Pro Memoria. The most highly blessed King in 1796 conferred upon the Prince of Hohenlohe the Kaemener
+    and Trąbczyn estates, which had fallen to the treasury after the absconded Starosta Prussiemski, on
+    [illegible] terms. The said Prussiemski had, however, pledged the Kaemener estates to a certain von
+    Broniewski for 80000 Rthl and the Trąbczyn ones to von Chełmski for 36000 ducats. A taking of possession
+    of these estates on the Prince''s part was now as little conceivable as the drawing of a revenue —
+    by course of law everything had first to be sued for and decided — the suit on that head was not concluded
+    by 1804; the Prince found himself compelled, in order to be able once to call the estates his own,
+    to conclude a compromise with Broniewski and to pay him 55000 Rthl to stand off. The costs of the
+    suit amounted to 6000. This amounts to — 61000 Rthl. From Midsummer 1805 until Midsummer 1807 the
+    Prince therefore possessed the estates only, during which time he sold the same to the bank director
+    Leixner. In 1807, however, the Polish treasury, and indeed 14 weeks after the Peace of Tilsit, took
+    the estates from him by force. During these 8 years, while the daughter of Prussiemski possessed the
+    estates, there are due to the Prince the interest on the foregoing 61000 Rthl, and this amounts to
+    24400 Rthl. The Prince''s cash claim upon the Kaemener estates accordingly amounts to 85400 Rthl.
+    During the period of the Prince''s possession he had the estates judicially assessed; the assessment
+    came out at —
 
 
-    The late King most highly conferred in 1796 upon the Prince Hohenlohe the Kaemen and Trąbczyn estates,
-    which had fallen to the Fiscus after the escaped Starost Prussiemski in a certain fashion. But the
-    Prussiemski had pledged the Kaemen estates to a certain v. Broniewski for 80000 Rthl and the Trąbczyn
-    estates to v. Chełmski for 36000 ducats. A taking of possession of these estates on the Prince''s
-    part was thus as little conceivable as the drawing of a revenue — by way of law everything had first
-    to be sought out and decided. The suit thereon was not concluded in 1804; the Prince therefore saw
-    himself compelled, in order to be able for once to call the estates his own, to conclude a settlement
-    with the Broniewski and to pay him 55000 Rthl as a quitting-sum. The costs of the suit amounted to
-    6000. This amounts to — 61000 Rthl.
+    180000 Rthl. From this, deducting the 55000 Rthl brought into account above,
 
 
-    From John''s [day] 1805 to St. John''s 1807, then, the Prince possessed the estates only, during which
-    time he sold the same to the Bank Director Leixner. In 1807, however, the Polish Fiscus took the estates
-    from him by force, and that fourteen weeks after the Peace of Tilsit. During these 8 years, when the
-    daughter of the Prussiemski possessed the estates, there are due to the Prince the interest on the
-    foregoing 61000 Rthl, and these amount to 24400 Rthl. The Prince''s cash claim upon the Kaemen estates
-    accordingly amounts to 85400 Rthl.
+    there remains a surplus value of
 
 
-    During the Prince''s time of possession he had the estates judicially valued; the valuation came out
-    at — 180000 Rthl. Deducting herefrom the 55000 Rthl brought into account above, there remains a surplus
-    value of 125000 Rthl. This surplus value, however, belongs, together with the 8 years'' yield of the
-    estates, to the Bank Director Leixner as purchaser of the same. The 85400 Rthl of so-called pledge-money
-    belong to the Prince alone and solely — the Jew Meyer Bernhard [uncertain: bei] him the [uncertain:
-    Guld.]; the Prince gave for it a mortgage upon Winniec etc., which estates the said Meyer Bernhard
-    has to this day held in pledge.
+    125000 Rthl. This surplus value, however, now belongs, together with the 8 years'' yield of the estates,
+    to the bank director Leixner as purchaser of the same. The 85400 Rthl of so-called pledge-money belong
+    to the Prince solely and alone — the Jew Meyer Bernhard [uncertain: had with him the money]; the Prince
+    gave for it a mortgage upon Winniec etc., which estates the said Meyer Bernhard has to this day held
+    in pledge. As concerns the Trąbczyn estates, these too were assessed at — 316000 Rthl — upon which
+    the Prince contracted debts
 
-
-    As concerns the Trąbczyn estates, these too were valued at — 316000 Rthl. Upon them the Prince contracted
-    debts:
 
     1. from Lichnowski 70000
 
+
     2. from Weigel 30000
+
 
     3. from Grotowski 20000
 
+
     4. from Zerboni 10000
 
-    5. [uncertain: Mann Ge Seher Thos] 8000
 
-    On these the Prince paid to Lichnowski 32000, to Weigel 30000. There remains therefore to be brought
-    into deduction as owing 76000 Rthl. The clear true value of these estates accordingly amounts to 240000
-    Rthl.
+    5. [uncertain: Mann Ge Seher Thos] 8000. On these the Prince paid to Lichnowski 32000
 
 
-    The Prince had to [uncertain: gehören] these estates at 12100 Rthl; this did from 1806 to 1815 — 108900
-    Rthl. Hereafter, whether the interest on 76000 Rthl at 34200 amount so much, the revenues of 9 years
-    withheld from the Prince come to 74700 Rthl.
+    to Weigel
 
-    Sum 390100 Rthl,
 
-    which are now to be made good to the Prince of Hohenlohe either in cash or by estates.
+    30000. There therefore remains owing, to be brought into deduction, 76000 Rthl. The net true value
+    of these estates accordingly amounts to 240000 Rthl. The Prince had to [uncertain: let] these estates
+    [uncertain: belong] at 12100 Rthl; this made, from 1806 to 1815 — 108900 Rthl. Hereafter, whether
+    the interest on 76000 Rthl at 34200 be so reckoned, the revenues withheld from the Prince for 9 years
+    amount to 74700 Rthl
 
-    v Triebenfeld'
+
+    Sum 390100 Rthl, which are now to be made good to the Prince of Hohenlohe either in cash or by means
+    of estates.
+
+
+    v. Triebenfeld'
+  names:
+  - de: Fürſten Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: Kaemener
+    en: Kaemener
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Prussiemski
+    en: Prussiemski
+    kind: person
+  - de: v. Broniewski
+    en: Broniewski
+    kind: person
+  - de: v. Chełmski
+    en: Chełmski
+    kind: person
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: Tilsetter Frieden
+    en: Peace of Tilsit
+    kind: other
+  - de: Meyer Bernhard
+    en: Meyer Bernhard
+    kind: person
+  - de: Winniec
+    en: Winniec
+    kind: place
+  - de: Lichnowski
+    en: Lichnowski
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Grotowski
+    en: Grotowski
+    kind: person
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Pohl Fiscus
+    en: Polish treasury
+    kind: other
+  numbers:
+  - '286'
+  - '1796'
+  - '80000'
+  - '36000'
+  - '1804'
+  - '55000'
+  - '6000'
+  - '61000'
+  - '1805'
+  - '1807'
+  - '1807'
+  - '14'
+  - '8'
+  - '61000'
+  - '24400'
+  - '85400'
+  - '180000'
+  - '55000'
+  - '125000'
+  - '8'
+  - '85400'
+  - '316000'
+  - '70000'
+  - '30000'
+  - '20000'
+  - '10000'
+  - '8000'
+  - '32000'
+  - '30000'
+  - '76000'
+  - '240000'
+  - '12100'
+  - '1806'
+  - '1815'
+  - '108900'
+  - '76000'
+  - '34200'
+  - '9'
+  - '74700'
+  - '390100'
 - page: 4
-  en: 'the 14th of April
+  en: 'The 14th of April. Now the French history begins already to grow very [uncertain: guilty]. Napoleon
+    has been proclaimed Emperor by the whole country and people; the English declare that they will not
+    meddle in the internal affairs of France — so Napoleon will no doubt remain Emperor — the Russians
+    are indeed drawing nearer, but — they are made to march criss-cross to no purpose — they are only
+    to eat their fill in Germany and lay everything waste. It goes the same way with the [uncertain: O—n]
+    troops; these move very ponderously, for there everything is wanting — the English seem to have set
+    the whole affair in motion and remain standing quite at a distance — Saxony is as little to be trusted
+    as [uncertain: Poland] — in the end the Prussians, with the Dutch, the Hessians, the small states
+    etc., are left standing quite alone, and the two Emperors will demand that these should first fetch
+    the chestnuts out of the fire so that they may eat them. Napoleon will put himself into communication
+    with Murat or Italy and, if possible, take the combined forces in the flank and in the rear; these
+    must now face him, while he sends his confederates in haste with several bands toward the Netherlands
+    — and where are men to be got in haste, to ward off disasters —?
 
 
-    Now the French affair begins already to become very grave. Napoleon has been proclaimed Emperor by
-    the whole country, indeed by the people; the English declare that they will not meddle in the internal
-    French affairs — so Napoleon will probably remain Emperor. The Russians do indeed draw nearer, but
-    — cross-wise marches are being made for me — let them only gorge themselves in Germany and lay everything
-    waste. So it goes with the O—[?]n troops likewise; these move very ponderously, for there everything
-    is wanting — the English appear to have set the whole business on foot and remain standing quite at
-    a distance — Saxony is as little to be trusted as Poland — in the end the Prussians, with the Dutch,
-    the Hessians, the etc. and the small [powers], stand quite alone, and both Emperors will demand that
-    these should first fetch the chestnuts out of the fire so that they may feed themselves. Napoleon
-    will put himself into communication with Murat or Italy and if possible take the combined [armies]
-    in the flank and in the rear; these must now [move] against him. His confederates he sends off in
-    haste with several bands toward the Netherlands, and whence are men to come in haste there, to ward
-    off disasters —? A madder piece has not occurred since the founding of the world. Here indeed there
-    appear, in secret, already quite accursed lampoons; I fear that H[is] H[ighness] will vex himself
-    to death, or in one way or another will succumb.'
+    A madder piece has not occurred since the founding of the world. Here indeed there appear, in secret,
+    quite execrable lampoons; I fear that His Highness will vex himself to death, or will one way or another
+    go under.'
+  names:
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Engeländern
+    en: English
+    kind: other
+  - de: französischen
+    en: France
+    kind: place
+  - de: Rußen
+    en: Russians
+    kind: other
+  - de: Teutschland
+    en: Germany
+    kind: place
+  - de: O-schen
+    en: O—n
+    kind: other
+  - de: Sachßen
+    en: Saxony
+    kind: place
+  - de: Pohn
+    en: Poland
+    kind: place
+  - de: Preußen
+    en: Prussians
+    kind: other
+  - de: Holländern
+    en: Dutch
+    kind: other
+  - de: Haßen
+    en: Hessians
+    kind: other
+  - de: Murat
+    en: Murat
+    kind: person
+  - de: Italien
+    en: Italy
+    kind: place
+  - de: Niederlande
+    en: Netherlands
+    kind: place
+  - de: E. H.
+    en: His Highness
+    kind: person
+  numbers:
+  - '14'

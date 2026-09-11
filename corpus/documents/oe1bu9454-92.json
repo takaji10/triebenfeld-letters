@@ -91,16 +91,114 @@
    "doc_line": 20
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gleissenbergs",
+   "kind": "person",
+   "surface_de": "Gleisſenbergen",
+   "surface_en": "Gleissenbergs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schneider",
+   "kind": "person",
+   "surface_de": "Schneider",
+   "surface_en": "Schneider",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyner",
+   "surface_en": "Krotoszyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord, The information which Your Most Serene Highness requested of me by last post-day I have obtained in this wise, that Herr Baurath Glenck delivered to me on [uncertain: Donntag — Sunday/Monday?] the receipts of the Gleissenbergen and of Schneider, whereby I feel myself fully put in a position to answer the General Auditoriat upon the dispositions communicated to Your Most Serene Highness. I do not doubt that Herr Kriegsrath v. Triebenfeld will this day give Your Most Serene Highness intelligence of the present posture of the Krotoszyn tausp. affair, and in deepest reverence I remain, until death, Your Most Serene Highness's Berlin, the 18th December 1798. most humbly, faithfully obed. samſtes Michaelis"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord, The information which Your Most Serene Highness requested of me on the last post-day I have obtained in this way, that the Sir Councillor of Works Glenck delivered to me on Sunday the receipts of the Gleissenbergs and of Schneider, whereby I feel myself fully placed in a position to answer the General Auditoriate upon its dispositions communicated to Your Most Serene Highness.\n\nI do not doubt that the Sir councillor of war von Triebenfeld will give Your Most Serene Highness news today of the present situation of the Krotoszyn [uncertain: tausp.] affair, and in deepest reverence I remain, until death, Your Most Serene Highness's Berlin\n\nthe 18th of December\n\n1798.\n\nmost humbly, faithfully [illegible]\n\nmost obedient\n\nMichaelis",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Gleisſenbergen",
+     "en": "Gleissenbergs",
+     "kind": "person"
+    },
+    {
+     "de": "Schneider",
+     "en": "Schneider",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Krotoszyner",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "18",
+    "1798"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord, The information which Your Most Serene Highness requested of me by last post-day I have obtained in this wise, that Herr Baurath Glenck delivered to me on [uncertain: Donntag — Sunday/Monday?] the receipts of the Gleissenbergen and of Schneider, whereby I feel myself fully put in a position to answer the General Auditoriat upon the dispositions communicated to Your Most Serene Highness. I do not doubt that Herr Kriegsrath v. Triebenfeld will this day give Your Most Serene Highness intelligence of the present posture of the Krotoszyn tausp. affair, and in deepest reverence I remain, until death, Your Most Serene Highness's Berlin, the 18th December 1798. most humbly, faithfully obed. samſtes Michaelis",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord, The information which Your Most Serene Highness requested of me on the last post-day I have obtained in this way, that the Sir Councillor of Works Glenck delivered to me on Sunday the receipts of the Gleissenbergs and of Schneider, whereby I feel myself fully placed in a position to answer the General Auditoriate upon its dispositions communicated to Your Most Serene Highness.\n\nI do not doubt that the Sir councillor of war von Triebenfeld will give Your Most Serene Highness news today of the present situation of the Krotoszyn [uncertain: tausp.] affair, and in deepest reverence I remain, until death, Your Most Serene Highness's Berlin\n\nthe 18th of December\n\n1798.\n\nmost humbly, faithfully [illegible]\n\nmost obedient\n\nMichaelis",
  "summary_en": "Michaelis reports from Berlin that the information the Prince of Hohenlohe-Ingelfingen had requested on the last post-day has been secured: Councillor of Works Glenck handed over on Sunday the receipts of the Gleissenbergs and of Schneider, leaving the writer fully able to answer the General Auditoriate on the dispositions communicated to the Prince. He expects Councillor of War von Triebenfeld to report separately that same day on the current state of the Krotoszyn affair.",
  "summary_de": "Michaelis meldet, die vom Fürsten am letzten Posttag erbetenen Auskünfte beschafft zu haben: Baurath Glenck habe ihm am Sonntag die Quittungen der Gleissenbergs und Schneiders übergeben, so daß er nun dem General-Auditoriat auf dessen dem Fürsten mitgeteilte Verfügungen antworten könne. Über den Stand der Krotoszyner Angelegenheit werde, wie er nicht zweifle, der Kriegsrath von Triebenfeld noch am selben Tage berichten."
 }

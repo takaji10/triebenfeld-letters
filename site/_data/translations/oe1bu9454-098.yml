@@ -1,42 +1,161 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! However full of torment my stay here becomes by degrees,
-    I will nevertheless hold out until I see the Quat: matter brought into the clear — Glenck, however,
-    I dispatch with all haste, so that Your Most Serene Highness may have someone there to whom Your Highness
-    can give all commands. How hard the struggle has been here, Glenck will describe to Your Serene Highness;
-    good things will be the fruits of the victory, all the more delightful and proven. That the King,
-    Köckritz and Zastrow are well disposed toward Your Serene Highness is proved by the invitation — it
-    makes the journey a little laborious for Your Highness, but the honour is all the greater, and if
-    Your Serene Highness departs from there on the 14th or at the latest the 15th, then Your Highness
-    could'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    However full of torment my stay here gradually becomes, I shall nevertheless hold out until I see
+    the matter of the quarters [uncertain: Quat:] set straight — Glenck, however, I am dispatching with
+    all haste, so that Your Most Serene Highness may have someone there to whom Your Highness can give
+    all commands.
+
+
+    How hard the struggle here has been Glenck will depict to Your Serene Highness; good will be the fruits
+    of the [uncertain: victory] all the more [uncertain: full of blessing] and
+
+
+    proved.
+
+
+    That the King, Köckritz and Zastrow are well disposed toward Your Serene Highness is proved by the
+    invitation — it makes the journey a little toilsome for Your Highness, but the honour is all the greater,
+    and if Your Serene Highness departs from there on the 14th or at the latest the 15th, then'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Köckritz
+    en: Köckritz
+    kind: person
+  - de: Zastrow
+    en: Zastrow
+    kind: person
+  numbers:
+  - 14ten
+  - 15ten
 - page: 2
   en: 'Your Highness might very conveniently remain here 3 to 4 days — The Monarch must have no good reasons
     for wishing Your Serene Highness''s route to be laid here by way of Berlin. Thoroughly I know nothing
-    — every [uncertain: Bees] probably has to do with Prince Solms — He married the widowed Princess Louis
-    in secret five months ago. The King is greatly incensed at it, and this contributes much to his indisposition;
-    the Queen, however, keeps moving from one chamber to another. Yesterday evening the Princess was stripped
-    of her dignity as Royal Highness, the household was withdrawn, other arrangements made concerning
-    the children, and now she is to depart in haste with her husband, who is being transferred as Major
-    with the Hussars to Ansbach — that this causes a mighty terreur at Court, Your Serene Highness can'
+    — every [uncertain: evil] probably has to do with Prince Solms. He has already, five months ago, married
+    the widowed Princess Louis in secret. The King is greatly incensed at this, and it contributes much
+    to his indisposition; the Queen, however, still passes from one chamber into the other. Yesterday
+    evening the Princess was stripped of the dignity of Royal Highness, her court household withdrawn,
+    other dispositions made regarding the children, and now she is to depart in haste with her husband,
+    who is being transferred as Major with the Hussars to Ansbach — that this creates a mighty terror
+    at Court, Your Serene Highness can'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Prinzen Solms
+    en: Prince Solms
+    kind: person
+  - de: Princes Louis
+    en: Princess Louis
+    kind: person
+  - de: Ansbach
+    en: Ansbach
+    kind: place
+  numbers:
+  - '3'
+  - '4'
+  - '5'
 - page: 3
-  en: 'easily imagine. And I believe it will be a relief to the Monarch if he can have Your Highness here
-    for a couple of days. The pregnancy of the Princess, [uncertain: verwerten] by the [uncertain: Armez],
-    at first gave the public much occasion for unspeakable speculation, and still no one knows the least
-    of this matter now actually settled upon. Deign to say nothing of it there either. Concerning Minister
-    Hoym''s conduct, more by word of mouth. On one occasion he spoke very well before the King in Köckritz''s
-    presence — but in secret, with his Wedell, he gave a base opinion, upon which the said v. Voss constantly
-    relies. For that very reason I was glad that the King invited Your Serene Highness here so flatteringly
-    — then the B— will tremble again — because their conscience will torture them. Tell the Princess Sacken,
-    Serene Highness — Your Serene Highness'
+  en: 'easily imagine. And I believe it will be an alleviation to the Monarch if he can have Your Highness
+    here for a couple of days.
+
+
+    The pregnancy of the poor [uncertain: widowed] Princess at first gave the public much occasion for
+    unspeakable [uncertain: gossip], and still no one knows the least thing about this matter, actually
+    settled beforehand. Be pleased to say nothing about it there either.
+
+
+    Of Minister Hoym''s conduct more by word of mouth. On one occasion he spoke very well before the King
+    in Köckritz''s presence — but in secret, with his Wedde, he delivered a contemptible opinion, on which
+    the very same Herr von Voss keeps relying. For that very reason I was glad to see that the King invited
+    Your Serene Highness here so flatteringly — for now the B— will tremble again — because it will torture
+    their conscience. To Her Serene Highness the Princess of Sacken, Your Serene Highness'
+  names:
+  - de: Hoyms
+    en: Hoym
+    kind: person
+  - de: Köckritz
+    en: Köckritz
+    kind: person
+  - de: Wedde
+    en: Wedde
+    kind: person
+  - de: d. v. Voss
+    en: Herr von Voss
+    kind: person
+  - de: Fürstin Sacken
+    en: Princess of Sacken
+    kind: person
 - page: 4
-  en: say nothing here of my having disclosed to Your Highness the wicked tricks of Hoym and Wedell. Let
-    nothing be noticed of it there either. As for the secularisation business, let Your Serene Highness
-    by all means say nothing — this is a mere farce; Prince George strongly advises against it — should
-    something ever be able to be done in the matter, then we will do it in Vienna — I promise Your Serene
-    Highness to work with Prince George there in due time as here — for on our side nothing is done —
-    and if you can obtain something and enlarge your realms, it is all one whether you obtain it from
-    that quarter or through action here — settled it remains — if you have much upon it, the more compliments
-    will be paid you. Haugwitz now plays a great part, but Schulemburg is being removed, because the latter
-    always wants war. In deepest submission I remain, until death, Your Most Serene Highness's Berlin,
-    the 9th of January 1799. most humble and faithful servant v. Triebenfeld.
+  en: 'say nothing of it here, that I have disclosed to Your Highness the base tricks of Hoym and Wedell.
+    Also let
+
+
+    nothing be noticed there. As to the secularisation business, Your Serene Highness should by all means
+    say nothing — this is a mere farce; Prince George strongly advises against it — should anything ever
+    be able to be done in the matter, then we will do it in Vienna — I promise Your Serene Highness to
+    work with Prince George [uncertain: Borten] in due season as well as here — for from our side nothing
+    is being done — and if you can obtain something and enlarge your realms, then it is all one whether
+    you obtain it from thence or through action here — settled it remains — if you have much of it, all
+    the more compliments will be paid you.
+
+
+    Haugwitz is now [uncertain: squinting at] a great role, but Schulemburg they are removing, because
+    the latter always wants war. In deepest submission I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    Berlin, the 9th of January
+
+
+    1799.
+
+
+    most humble and faithful servant
+
+
+    v. Triebenfeld.'
+  names:
+  - de: Hoyms
+    en: Hoym
+    kind: person
+  - de: Wedells
+    en: Wedell
+    kind: person
+  - de: Prinz George
+    en: Prince George
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: Prinzen George
+    en: Prince George
+    kind: person
+  - de: Borten
+    en: Borten
+    kind: other
+  - de: Haugwitzen
+    en: Haugwitz
+    kind: person
+  - de: Schulemburg
+    en: Schulemburg
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v. Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - 9ten
+  - '1799'

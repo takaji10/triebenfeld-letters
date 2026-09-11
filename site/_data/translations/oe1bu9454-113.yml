@@ -1,36 +1,74 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord!
+  en: 'Most Serene Prince
 
 
-    Your Most Serene Highness has had the grace only to assure me that with the Asch and Gad, in respect
-    of the 11000 Rthl, everything is settled, and that I should have no vexation from it. Your Most Serene
-    Highness — for then I [do] most humbly for this gracious assurance. Meanwhile I only observe that
-    the arrest in this matter still lies against me here, and that here they have given out the [uncertain:
-    places] that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested
-    at once. For fear I do not know what I am to do. I am still scraping along in misery — Prince George
-    declares himself on nothing and drags my case along the long road. Here I still risk honour, liberty,
-    and the losing of my life. Have, Your Most Serene Highness, but this one single grace and settle the
-    matter there, so that —'
+    Most gracious Lord, Your Most Serene Highness has had the grace to assure me only that everything
+    with Asch and Gad concerning the 11000 Rthl has been settled, and that I should have no vexation from
+    it.
+
+
+    Your Most Serene Highness, then, I [do] most humbly for this gracious assurance.
+
+
+    Meanwhile I observe only that the arrest in this matter still lies against me here, and that people
+    here have given out the [uncertain: places] to the effect that, should Your Most Serene Highness not
+    pay the promised 4000 Rthl, I am to be arrested at once.
+
+
+    For fear I do not know what I am to do. In wretchedness I still drag on – Prince George declares himself
+    on nothing and drags my affair out along the long road. I here still risk honour, liberty, and the
+    losing of my life.
+
+
+    Your Most Serene Highness, grant but this one grace and direct the matter there, so that'
+  names:
+  - de: Asch
+    en: Asch
+    kind: person
+  - de: Gad
+    en: Gad
+    kind: person
+  - de: Prinz George
+    en: Prince George
+    kind: person
+  numbers:
+  - '11000'
+  - '4000'
 - page: 2
-  en: 'that the [uncertain: building/peasant] does not lay hands upon me, [nor] have me arrested here.
-    I should have death upon the spot. Wildegensch has me told that the Asch and Geld would wait until
-    Johann — but that would be no rescue for me. — I beg Your Serene Highness, by all that is holy, do
-    let the matter be brought clear by means of the 4000 Rthl. If only God helps, and I have creditors
-    again, then I will gladly give fortune and salvation.
+  en: 'that the [uncertain: building] does not lay hold of me and have me arrested here. I should have
+    had death on the spot. Wildegensch sends word to me that Asch and the money would wait until John''s
+    day – but that would be no rescue for me. – I beg Your Serene Highness, by all that is holy, do let
+    the matter be brought clear by means of the 4000 Rthl. If only God helps, and if I have creditors
+    again, then I will gladly give fortune and salvation. In deepest reverence I remain, until death,
+    Your Most Serene Highness''s. Berlin, the 23rd of May
 
 
-    In deepest reverence I remain, until death,
+    1801
 
 
-    Your Most Serene Highness''s
-
-
-    Berlin, the 23rd of May 1801
-
-
-    faithful, most humble and obedient servant
+    faithful, most humble and obedient servant.
 
 
     v Triebenfeld'
+  names:
+  - de: Wildegensch
+    en: Wildegensch
+    kind: person
+  - de: Asch
+    en: Asch
+    kind: person
+  - de: Johann
+    en: John
+    kind: other
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '4000'
+  - 23ten
+  - '1801'

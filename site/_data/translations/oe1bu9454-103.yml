@@ -1,80 +1,262 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! In the Broniewski matter I have as yet done
-    nothing further, because the Instructionis Termin is set for the 14th of this month. The patron is
-    now very willing indeed to compound, and I believe that he would for the present be content with some
-    20000 Rthl. But the real proofs lately furnished by Rapachi show clearly that not a Groschen belongs
-    to him – this is the reason why I still defer the settlement. If the Government accepts these grounds,
-    then no settlement takes place – unless it be that the Krotoszyn exchange should require it, on which
-    account I would if need be sacrifice a few thousand, and this in order to come into possession at
-    once. His alarm is already very great, for he offers even to accept an obligation which I hold from
-    the Minister upon Kempen. From Herr Schlabrendorff I shall have word today whether he is satisfied
-    with my bill of exchange at one year. In any case I shall seek to quiet him. The Chelmski suit has
-    been won in the second instance — it now remains to be seen whether he will go further – through Rapacki
-    and [uncertain: Kordaszewski] I shall probably obtain real intelligence concerning the Brzyze estates;
-    arrangements have also been'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    In the Broniewski matter I have as yet done nothing further, because the term for the taking of instruction
+    is set for the 14th of this month. The patron is now very willing indeed to come to a compromise,
+    and I believe that he would for the present be content with some 20000 Rthl. But the real proofs lately
+    furnished by Rapacki testify clearly that not a Groschen belongs to him – this is the reason why I
+    am still deferring the compromise. If the Government accepts these grounds, then no compromise will
+    take place – unless the Krotoszyn exchange should require it, for the sake of which I would at need
+    sacrifice a few thousand, and in order to come at once into possession. His anxiety is already very
+    great, for he is already offering to accept a bond which I hold from the Minister on Kempen. From
+    Mr Schlabrendorff I shall have news today, whether he is satisfied with my bill of exchange at one
+    year. In any event I shall seek to set him at ease.
+
+
+    The Chelmski suit has been won in the second instance — it now remains to be seen whether he will
+    go further – through Rapacki and Kordaszeweben I shall probably obtain real information about the
+    Brzyza estates; arrangement has also been'
+  names:
+  - de: Broniewskischen
+    en: Broniewski
+    kind: person
+  - de: Rapackis
+    en: Rapacki
+    kind: person
+  - de: Krotoszyner
+    en: Krotoszyn
+    kind: place
+  - de: Kempen
+    en: Kempen
+    kind: place
+  - de: Hr Schlabrendorff
+    en: Mr Schlabrendorff
+    kind: person
+  - de: Chelmskische
+    en: Chelmski
+    kind: person
+  - de: Rapacki
+    en: Rapacki
+    kind: person
+  - de: Kordaszeweben
+    en: Kordaszeweben
+    kind: person
+  - de: Brzyzer
+    en: Brzyza
+    kind: place
+  numbers:
+  - '14'
+  - '20000'
+  - 1799 (not on this page)
 - page: 2
-  en: 'made for me to get into my hands the documents concerning the Winiges forest; these will no doubt
-    at once refute from the ground up the foolish babble of the witnesses – the Chelmski and Broniewski
-    matters will be brought to a good end; only the Brzyze and Winzingerode ones require every attention
-    – because behind them lies the worst web of malice. In general I am now sitting over a description
-    of those estates presented to Your Most Serene Highness. A quarrel [uncertain: Zänderey] between Prittwiz
-    and Plench, as also the constant raisonnement of the Herr Minister – as though Your Serene Highness
-    had, quite contrary to the [uncertain: intention] of the King, received too many estates, in which
-    Prittwitz seems to concur, give me occasion for it. Out of the one envy roars, and out of the other
-    clumsy ignorance. For if one takes it that the King commanded that estates be given to Your Most Serene
-    Highness yielding 7 to 8000 Rthl in revenue, then this has been fulfilled only to the letter. The
-    confiscated Prusimski estates, which were given first, were to answer the King''s will; but the valuations
-    of the Kammerath Beukert, chosen by the Minister himself,'
+  en: 'made that I shall get into my hands the documents concerning the Winiges forest; these will no
+    doubt at once refute from the ground up the ragged rubbish of the witnesses – the Chelmski and Broniewski
+    matters will be brought to a good end, only the Brzyza and Winzingerode ones require every attention
+    – because behind them lies propped the worst web of malice. Altogether I am now sitting over a description
+    of those estates bestowed upon Your Most Serene Highness. A wrangle between Prittwiz and Plench, as
+    also the constant reasoning of the Minister – as though Your Serene Highness had received far too
+    many estates, quite contrary to the intention of the King, which Pribwitz appears to concur in, give
+    me occasion for it.
+
+
+    Out of the one, envy roars; out of the other, coarse ignorance. For if one takes it that the King
+    commanded that estates be given to Your Most Serene Highness yielding 7 to 8000 Rthl in revenue, then
+    this has only been punctually fulfilled in all points. The confiscated Prusimski estates, which were
+    given first, were to answer the will of the King. But the valuations of the chamber councillor chosen
+    by the Minister himself,'
+  names:
+  - de: Winiges Forſte
+    en: Winiges forest
+    kind: place
+  - de: Chelmskische
+    en: Chelmski
+    kind: person
+  - de: Broniewskischen
+    en: Broniewski
+    kind: person
+  - de: Brzyzer
+    en: Brzyza
+    kind: place
+  - de: Winzingerode
+    en: Winzingerode
+    kind: person
+  - de: Prittwiz
+    en: Prittwiz
+    kind: person
+  - de: Plench
+    en: Plench
+    kind: person
+  - de: Pribwitz
+    en: Pribwitz
+    kind: person
+  - de: Prusimskische
+    en: Prusimski
+    kind: person
+  numbers:
+  - '7'
+  - '8000'
 - page: 3
-  en: 'the Kammerath Beukert, proved that twice as much debt still lay charged upon those estates as the
-    value of the same was ascertained to be, according to the yield established by Herr Beukert. Now,
-    in order to cloak the evil intention previously entertained, and to comply with the [uncertain: intention]
-    of the Monarch, the Minister then proposed the several ecclesiastical estates, which were to bring
-    in 8640 Rthl of revenue. The Prusimski estates are now to be regarded as purchased, since one must
-    first vindicate them at law and fight for them step by step, and must moreover still pay in considerable
-    sums. They are therefore no gift at all, and stand upon the same footing as purchased allodial estates,
-    with which one often fares more happily than with these. Meanwhile the yield from them turns out afterwards
-    in the following manner:
+  en: 'Beukert, proved that twice as much debt again was charged upon those estates as the value of the
+    same was ascertained to be according to the yield determined by said Beukert.
+
+
+    In order now to cloak the evil intention that had gone before, and to comply with the intention of
+    the monarchy, the Minister then proposed the various ecclesiastical estates, which were to bring in
+    8640 Rthl of revenue.
+
+
+    The Prusimski estates are now to be regarded as purchased, because one must first vindicate them in
+    court and fight for them step by step, and must also still pay in considerable sums. They are therefore
+    no gift at all, and stand on the same footing as purchased allodial estates, with which one often
+    fares more happily than with these. Meanwhile the yield thereof afterwards works out in the following
+    manner:
+
 
     1. from Kaemen and Kulm 6000 Rthl
 
+
     2. from Trąbczyn 8400 Rthl
+
 
     3. from Szetlewek 1600
 
-    4. from Brzyze 4000
 
-    the sum is 20000 Rthl
+    4. from Brzyza 4000
 
-    The estates now really given, in which the will of the King has been exceeded, are how many times
-    over assessed, and were to yield 8640 Rthl; through sums paid since then and three years'' revenues
-    applied thereto, a surplus of about 14000 Rthl has been brought out; this makes together 22640 Rthl,
-    in all 42640 Rthl.
 
+    is in sum
+
+
+    20000 Rthl. The estates now actually bestowed, in respect of which the will of the King is held to
+    have been exceeded, have been valued how many times over, and were to yield
+
+
+    8640 Rthl; through sums paid out [uncertain: for them] and revenues applied therein over three years,
+    a surplus of about 14000 Rthl has been brought out; this makes together 22640 Rthl, in all 42640 Rthl.
     NB to the 8640 Rthl there come also about 1400 Rthl of building moneys, which may be reckoned off
-    against the 14000; so they are improved only by about 12000 Rthl of yield.'
+    from the 14000, so they are improved by only about 12000 Rthl of yield.'
+  names:
+  - de: Kammerath Beukerts
+    en: chamber councillor Beukert
+    kind: person
+  - de: p Beukert
+    en: said Beukert
+    kind: person
+  - de: Prussimskischen
+    en: Prusimski
+    kind: person
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Kulm
+    en: Kulm
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Brzyze
+    en: Brzyza
+    kind: place
+  numbers:
+  - '8640'
+  - '1.'
+  - '6000'
+  - '2.'
+  - '8400'
+  - '3.'
+  - '1600'
+  - '4.'
+  - '4000'
+  - '20000'
+  - '8640'
+  - '14000'
+  - '22640'
+  - '42640'
+  - '8640'
+  - '1400'
+  - '14000'
+  - '12000'
 - page: 4
-  en: 'The yield of the estates given is therefore now raised by somewhat more than the duplum, through
-    diligence, expense and industry. This, however, is no wonder to the clear-sighted man; still less
-    does the least offence lie here, but merely spiteful envy, grounded in the daily prattle of men. For
-    take the Bischofswerder estates: these were to yield at most, by 4 valuations, 1500 Rthl – I have
-    sold them for 207000 Rthl. The Zastrow ones were to yield, the [illegible] about 2000 Rthl; they bring
-    in indisputably some twenty thousand. The Dolfi ones were to yield about 500 Rthl; Treskow is now
-    selling them for 360000 Rthl. General Ruchil''s were to yield 940 yearly; they have been sold for
-    140000 Rthl. Of all these not a word is spoken; only with Your Serene Highness''s estates does one
-    indulge the vice of envy, and cannonade without knowing at what. Sad enough for the State, that men
-    are constantly kept in pay who act from passion, who dwell upon trifles and upon the everyday chronique
-    scandaleuse, but never [uncertain: pursue] the whole. Glenck shall meanwhile lay this presentation
-    of the matter before Prittwitz under his own name, and after that we shall indeed see what sheep''s
-    faces the one or the other will show. God grant that Your Serene Highness may soon return to me in
-    health; if not, then I shall come, I suppose, from Berlin to Öhringen, Ansbach, or wherever I may
-    find the same. So the wretched war has truly broken out after all – rather is this, however, a salutary
-    poison – I remain, until death, Your Most Serene Highness''s
+  en: 'The yield of the bestowed estates has therefore now been raised by somewhat more than double, through
+    diligence, expense and industry. To the clear-sighted man this is however no wonder, still less does
+    the least offence lie here, but merely spiteful envy, at the bottom of the daily bleating of men.
+    For take the Bischofswerder estates: these were at the highest to yield 1500 Rthl according to 4 valuations
+    – I have sold them for 207000 Rthl. The Zastrow estates were to yield, the [illegible] about 2000
+    Rthl; they bring in indisputably some twenty thousand. The Dolfi ones were to yield about 500 Rthl;
+    Treskow is now selling them for 360000 Rthl. General Ruchel''s were to yield 940 yearly; they have
+    been sold for 140000 Rthl. Of all these not a word is spoken; only with Your Serene Highness''s estates
+    does one indulge the vice of envy, and cannonade without knowing at what. Sad enough for the State
+    that men are constantly kept in pay who act toward me out of passion, who linger over trifles and
+    the everyday chronique scandaleuse, but never persevere with the whole.
 
-    Breslau, the 13th of March 1799.
 
-    most faithful servant
+    Glenck is meanwhile to lay this presentation of the matter before Prittwitz under his own name, and
+    after that we shall indeed see what sheepish faces the one or the other will show. God grant that
+    Your Serene Highness may soon return to me in health; if not, then I shall probably come from Berlin
+    to Öhringen, Ansbach, or wherever I may find the same. The tiresome war has then truly broken out
+    after all – rather is this however a salutary poison – I remain, until death, Your Most Serene Highness''s
 
-    v Triebenfeld'
+
+    Breslau, the 13th of March
+
+
+    1799.
+
+
+    faithful servant v. Triebenfeld'
+  names:
+  - de: Bischofswerderschen
+    en: Bischofswerder
+    kind: person
+  - de: Zastrowschen
+    en: Zastrow
+    kind: person
+  - de: Dolfischen
+    en: Dolfi
+    kind: person
+  - de: Treskow
+    en: Treskow
+    kind: person
+  - de: Gen. Ruchils
+    en: General Ruchel
+    kind: person
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Prittwitzen
+    en: Prittwitz
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Öhringen
+    en: Öhringen
+    kind: place
+  - de: Ansbach
+    en: Ansbach
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '1500'
+  - '4'
+  - '207000'
+  - '2000'
+  - '500'
+  - '360000'
+  - '940'
+  - '140000'
+  - '13'

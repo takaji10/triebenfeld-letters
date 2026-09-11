@@ -1,24 +1,86 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! This very moment I return from IV., where I
-    have settled everything as desired. But scarcely had I arrived when I am welcomed again at once with
-    execution on account of the 3000 Rthl that have fallen due; for if in February I saved myself from
-    arrest by the French by surrendering the same toward payment of the [uncertain: Zewalden] fund, then
-    I was obliged to take up other monies here in order to pay the inn for the time, to settle the costs,
-    and to have travelling money. It was 6125 Rthl that had to be settled; 3000 Rthl Your Serene Highness
-    has ordered to be paid. There remains, then, a residue of 3125 Rthl. — Whence am I to take this here?
-    From Zagorowo nothing whatever comes in as yet. More effectual measures will doubtless have to be
-    seized upon, and the strictest execution applied for with the French authority. Within the space of
-    7 days I shall receive the definite instruction as to where I am now to go; presumably I must first
-    of all make a journey to §:, and when I return to König: Morgen I shall look here for a couple of
-    sureties who will stand good for me for 14 days or 3 weeks, so that I may not be hindered in the commissions
-    laid upon me. In the meantime let Your Serene Highness have compassion and find means yonder, and
-    send hither still 3000, or at the least 2000 Rthl, so that I may travel free and unhindered to Königl.
-    To raise money here is a thing of impossibility, and means must be found; for otherwise they will
-    not let me depart. I beseech Your Serene Highness imploringly, rescue me and send here an order to
-    pay, if not for 3125 Rthl, then at least for 2000 Rthl. Since in the meanwhile I may be engaged upon
-    the journey to [text lost], be pleased to address your letters still to the Justice Commissary here,
-    Herr Empuch. The great loan Your Serene Highness will not forget. — I am taking care from another
-    side — By the next post, more — In deepest reverence I remain, until death, Your Serene Highness''s
-    faithful and most humble and obedient servant Berlin, the 2nd of July 1808 v Triebenfeld'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    This very moment I return from IV., where I have settled everything as desired. But scarcely had I
+    arrived than I am welcomed again at once with execution on account of the 3000 Rthl that have fallen
+    due; for when in February I saved myself from arrest by the French by surrendering the same toward
+    payment of the [uncertain: Zewalden] fund, I was obliged to take up other monies here in order to
+    pay the inn over that period, to settle the costs, and to have travelling money.
+
+
+    It was 6125 Rthl that had to be settled; 3000 Rthl Your Serene Highness has ordered paid. There remains
+    therefore a balance of 3125 Rthl — Where am I to find this here? From Zagorowo nothing yet comes in.
+    More effectual means will surely have to be taken up and the strictest execution sought from the French
+    authority. Within the space of 7 days I shall receive the definite instruction as to where I am now
+    to go; presumably I must first make a journey to §:, and when I return to Königs: tomorrow I shall
+    look here for a couple of sureties who will stand good for me for 14 days or 3 weeks, so that I am
+    not hindered in the commissions laid upon me. In the meantime may Your Serene Highness have mercy
+    and find means there and send here another 3000, or at least 2000 Rthl, so that I may travel to Königl.
+    free and unhindered. To raise money here is a thing of impossibility, and means must be found, for
+    otherwise they will not let me depart. I beseech Your Serene Highness imploringly, rescue me and send
+    here an instruction to pay, if not for 3125 Rthl, then at least for 2000 Rthl. Since in the meantime
+    I may be engaged upon the journey to [text lost], be pleased to address your letters still to the
+    justice commissioner here, Herr Empuch.
+
+
+    The great loan Your Serene Highness will not forget. — I am making provision from another quarter
+    — More by the next post — In deepest reverence I remain, until death, Your Serene Highness''s
+
+
+    faithful, most humble and obedient servant
+
+
+    Berlin, the 2nd of July 1808
+
+
+    v. Triebenfeld'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Empuch
+    en: Empuch
+    kind: person
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: franzosen
+    en: the French
+    kind: other
+  - de: 'Franz: Behörde'
+    en: French authority
+    kind: other
+  - de: 'König:'
+    en: 'Königs:'
+    kind: place
+  - de: Königl.
+    en: Königl.
+    kind: place
+  - de: IV.
+    en: IV.
+    kind: place
+  numbers:
+  - '39'
+  - 2ten
+  - '1808'
+  - '3000'
+  - '6125'
+  - '3000'
+  - '3125'
+  - '7'
+  - '14'
+  - '3'
+  - '3000'
+  - '2000'
+  - '3125'
+  - '2000'
+  - 2ten

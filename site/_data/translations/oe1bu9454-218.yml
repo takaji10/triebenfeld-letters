@@ -1,68 +1,272 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! What has been done here on Your Serene Highness''s
-    estates, and what is to be expected hereafter — of that Herr von Heuthausen will be able to lay before
-    Your Serene Highness the reports and results. I have drawn up a valuation and had him [uncertain:
-    habnnis] draw it out fair — the exteriors of it are brilliant and serve to conclude an advantageous
-    [uncertain: baptism/exchange] transaction, so that I may be regarded as the 128000 Rthl as a life-annuitant.
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    As to what has been done here on Your Serene Highness''s estates, and what is to be expected hereafter,
+    Herr von Heuthausen will be able to lay the reports and results before Your Serene Highness.
+
+
+    I have drafted a valuation and had it drawn up for him [uncertain: habnnis] — the externals of it
+    are brilliant and serve to conclude an advantageous baptismal transaction, so that the 128000 Rthl
+    might be regarded by me as a life-annuity-people.
+
+
     In the event that Your Serene Highness should deign to approve a plan drawn up to that end with Herr
-    v. Heuthausen and with the Master of the Horse Bally, it would depend upon Herr Weigel and Herr v.
-    Stöck entering into the matter according to our wishes. The plan is properly to exchange Schurgart
-    with Gen. Count Wartensleben. Schurgart has been bought for 207000 Rthl; there were 92000 Rthl of
-    debts upon it, and there remained clear 115000. If, on the other hand, the Zagorow estates were taken
-    at a value of 560000 Rthl / for something must be brought into deduction for the [uncertain: putting-up/expenditure]
-    of the demesne farms /, then, after deduction of what stood upon Zagorowo, 237375 tℓ. owing, there
-    would remain clear 322,625 Rthl, from which the 115000 Rthl which remain upon Schurgart would have
-    to be brought into deduction, and Your Serene Highness would retain a clear mortgage of 207625 Rthl
-    upon the Zagorow estates. According to our plan there should'
+    von Heuthausen and Herr Bally, the Master of the Horse, it would depend upon Herr Weigel and Herr
+    von Stöck entering into the matter according to our wishes.
+
+
+    The plan is properly to be made with General Count von Wartensleben regarding Schurgart; Schurgent
+    was bought for 207000 Rthl; there were 92000 Rthl of debts upon it, and there remained clear 115000.
+    If, on the other hand, the Zagorowo estates were to be taken at a value of 560000 Rthl / for something
+    must be deducted on account of the setting-up expenses of the demesne farms / then, after deduction
+    of the 237375 tℓ. owing that stood upon Zagorowo, there would remain none
+
+
+    322,625 Rthl, from which the 115000 Rthl which remain on Schurgard would have to be deducted, and
+    Your Serene Highness would retain a clear mortgage of 207625 Rthl upon the Zagorowo estates. According
+    to our plan,'
+  names:
+  - de: Heuthausen
+    en: Heuthausen
+    kind: person
+  - de: Bally
+    en: Bally
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Stöck
+    en: Stöck
+    kind: person
+  - de: 'Gen. Gr: Wartensleben'
+    en: General Count von Wartensleben
+    kind: person
+  - de: Schurgart
+    en: Schurgart
+    kind: place
+  - de: Schurgent
+    en: Schurgent
+    kind: place
+  - de: Schurgard
+    en: Schurgard
+    kind: place
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  numbers:
+  - '128000'
+  - '207000'
+  - '92000'
+  - '115000'
+  - '560000'
+  - '237375'
+  - 322,625
+  - '115000'
+  - '207625'
 - page: 2
-  en: 'now Stössel and Herr Weigel take over Schurgast and the mortgage here, whereby Your Serene Highness
-    would be freed of a burden of debt of 322625 Rthl; to dispose Stöckel and Weigel so that they take
-    Schurgart and the mortgage is the main thing. With Count Wartensleben I would settle the matter. But
-    with [uncertain: Stöchte] I will have nothing to do — should meanwhile the mass of debts of Stockel
-    and Weigel be much higher still than 322625 Rthl, then I would [uncertain: undertake] to treat with
-    the eldest son of Count Wastenleben over my Blizanow, and would gladly and willingly make over to
-    Your Serene Highness this estate, which I [illegible] there, together with a mortgage of 30000 upon
-    Kontop, so that all might be cleared away and Koschenten made clear of the half. Your Serene Highness
-    can then, with full right, demand back that out of the estate of the Princes Sacken which is destined
-    for the purchase of an entailed estate, arrange with it your whole business of debts, and keep money
-    in hand besides, but also appear with full right as lord of an entailed estate. If the plan pleases
-    Your Serene Highness, then may you most graciously deign only to let your high opinion be known by
-    a [uncertain: returning] messenger; [uncertain: Schlaconein] then at once to Schlacornechitz, and
-    I go immediately to old [uncertain: Wackung haben] to conclude the matter. Only this I remark, that
-    at present no one is to learn a word of this plan, and also that the matter must be pursued very quickly,
-    because Wartenleben has for some time now been in negotiation with the'
+  en: 'then Stössel and Herr Weigel should take over Schurgast and the mortgage here, whereby Your Serene
+    Highness would be freed of a burden of debt to the amount of 322625 Rthl. To dispose Stöckel and Weigel
+    so that they take Schurgart and the mortgage is the principal matter. With Count von Wartensleben
+    I would settle the business. But with Stöchte I will have nothing to do — should, however, the mass
+    of debts of Stöchel and Weigel be still very much higher than 322625 Rthl, then I should undertake
+    to deal with the eldest son of Count von Wastenleben concerning my Blizanow, and gladly and willingly
+    make over to Your Serene Highness this estate, which I acquired there, together with a mortgage of
+    30000 upon Kontop, so that all might be set aside and Koschenten be cleared of the half. Your Serene
+    Highness may then, with every right, demand back the Bewer from the estate of the Prince von Sacken,
+    that portion destined for the purchase of an entailed estate, and with this arrange your whole affair
+    of debts and keep money in hand [uncertain: Witwecke], and moreover come forward with every right
+    as lord of an entailed estate. If the plan pleases Your Serene Highness, then deign, most gracious
+    service, only to let me know your most high opinion by a returning messenger [uncertain: Schlaconein],
+    and then at once to Schlawenschitz, and I shall go immediately to the old [uncertain: Wackung] to
+    conclude the matter. Only this I remark, that for the present no one is to learn a word of this plan,
+    and the matter must also be pressed forward very quickly, because Wartenleben has for some time already
+    been in negotiation with the'
+  names:
+  - de: Stössel
+    en: Stössel
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Stöckeln
+    en: Stöckel
+    kind: person
+  - de: Stöchte
+    en: Stöchte
+    kind: person
+  - de: Stocheln
+    en: Stöchel
+    kind: person
+  - de: Weigeln
+    en: Weigel
+    kind: person
+  - de: Gr Wartensleben
+    en: Count von Wartensleben
+    kind: person
+  - de: Gr. Wastenleben
+    en: Count von Wastenleben
+    kind: person
+  - de: Wartenleben
+    en: Wartenleben
+    kind: person
+  - de: Fürsten Sacken
+    en: Prince von Sacken
+    kind: person
+  - de: Schurgast
+    en: Schurgast
+    kind: place
+  - de: Schurgart
+    en: Schurgart
+    kind: place
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Koschenten
+    en: Koschenten
+    kind: other
+  - de: Schlacornechitz
+    en: Schlawenschitz
+    kind: place
+  numbers:
+  - '322625'
+  - '322625'
+  - '30000'
 - page: 3
-  en: 'Medical Councillor Gumperts. For the rest, I would strive with burning zeal to win the two lawsuits
-    with Olemia and Weyberin before the handing over of the Zagorow estates, so that Your Serene Highness
-    might yet draw some 20 to 30000 Rthl from these. What may come out of the accounts of the several
-    officials and sequestrators, time will teach; that in the meantime this business is executed irreproachably,
-    Herr von Heuthausen can [text lost] Your Serene Highness in closer detail. The sum of the arrears
-    will, as I can assure with certainty, be more than considerable, but a great many items will have
-    to be regarded as [uncertain: inexigible], as for example is the story with Olesnica: the three Keels,
-    against whom I then so honestly warned Your Serene Highness, owe 35000 fl. — from these 3 creatures
-    you will never receive, most gracious Lord, a single [uncertain: Groschen], for what can a smith,
-    a journeyman linen-weaver and a village innkeeper have? With Wrąbczyn it is the same case; fortunately
-    the contract has now already been quashed in one instance — Prince, that was a recollection of the
-    conversation which nearly drove me to madness — O my poor children! I have, after your manner, counted
-    the window-panes — now back to business. In Betschen too there is much to do; there stand there some
-    20000 Rthl in arrears which are due to Your Serene Highness — I cannot go there further, for I have
-    chiefly been with the Councillor of Justice Künsel in Posen, and have [uncertain: enlightened] the
-    matters. Now a man of head and heart must pursue the affair in loco himself'
+  en: 'Medical Councillor Gumperts.
+
+
+    For the rest, I should strive with glowing zeal to win the two lawsuits with Olemia and Weyberin before
+    the handing over of the Zagorowo estates, so that Your Serene Highness might yet draw some 20 to 30000
+    Rthl from them. What will come out of the accounts of the various officials and sequestrators time
+    will teach; that meanwhile this matter is being prepared irreproachably, Herr von Heuthausen can detail
+    to Your Serene Highness more exactly. The sum of the arrears will, as I can assure with certainty,
+    be more than considerable, but very many items will have to be regarded as uncollectable; such, for
+    example, is the story with Olesnica — the three [uncertain: Keels], against whom I then so honestly
+    warned Your Serene Highness, owe 35000 fl. — of these 3 creatures you, most gracious Lord, will never
+    get a Groschen, for what can a smith, a journeyman linen-weaver and a village tavern-keeper have.
+    With Wrąbczyn it is the same case; fortunately the contract has now already been quashed in one instance
+    — Prince, that was a reminder of the conversation which nearly drove me to madness — O my poor children.
+    I have counted the windows in the manner of your writing — now back to the matter. In Betsche too
+    there is much to be done; there some 20000 Rthl stand in arrears which are due to Your Serene Highness
+    — I cannot go there any further, for I have chiefly been with Councillor of Justice Künsel in Posen,
+    and have enlightened the affairs. Now a man of head and heart must pursue the business himself on
+    the spot'
+  names:
+  - de: Mediginal Rath Gumperts
+    en: Medical Councillor Gumperts
+    kind: person
+  - de: Olemia
+    en: Olemia
+    kind: other
+  - de: Weyberin
+    en: Weyberin
+    kind: other
+  - de: Zagorow
+    en: Zagorowo
+    kind: place
+  - de: Heuthausen
+    en: Heuthausen
+    kind: person
+  - de: Olesnica
+    en: Olesnica
+    kind: place
+  - de: Keels
+    en: Keels
+    kind: person
+  - de: Wrąbczyn
+    en: Wrąbczyn
+    kind: place
+  - de: Betſchen
+    en: Betsche
+    kind: place
+  - de: Justiz Rath Künsel
+    en: Künsel, Councillor of Justice
+    kind: person
+  - de: Posen
+    en: Posen
+    kind: place
+  numbers:
+  - '20'
+  - '30000'
+  - '35000'
+  - '3'
+  - '20000'
 - page: 4
-  en: '— Heuthausen is, as I have come to know him, a man of head and heart, possesses the knowledge of
-    the language required here, has the proper savoir-vivre to get on among the Poles; give him, most
-    gracious Prince, travelling money for his expenses and for his living, and let him take charge of
-    the matter, for as yet nothing is to be had here. Often I [uncertain: conceal] what I suffer; I show
-    you, Serene Highness, [uncertain: figura] — [uncertain: Schwimmern] is on account of the Invalids''
-    interest, with 9700 on account of 27000 Rthl of bank interest, on account of 4000 Rthl of the Epstein
-    claims, when 3500 of old costs which I have here paid and stood surety for — on account of 4000 Rthl
-    which the Schliefen still have to demand — laid under tenfold arrest. Nothing comes in here, I cannot
-    save myself, my children [uncertain: suffer] with me; in short, I suffer and [uncertain: perish] —
-    For what pains me most keenly is that my beautiful Kontop has gone to the devil — I have no one who
-    [illegible]; whatever I engage that is to work turns rascal, because people will not believe that
-    a prince should not spend and live at the devil''s own rate — everyone wants at once to live so along
-    with him — In spite of all this I remain, with the deepest reverence, of the most faithful [uncertain:
-    attachment] and the deepest esteem, Your Most Serene Highness''s — the star out of the north shines;
-    more of it by word of mouth. Blizanow, the 21st 7br 1811. Faithful humble and obedient servant v Triebenfeld'
+  en: '— Heuthausen, as I have come to know him, is a man of head and heart, possesses the knowledge of
+    the language required here, has the proper savoir-vivre [uncertain: Lavoir Vivri] to get through among
+    the Poles; give him, most gracious Prince, travelling money for expenses and for his living, and let
+    him attend to the business, for nothing is to be got here as yet. How often I suffer, I show you,
+    Serene Highness, [uncertain: figura-] — Schwimmern is, on account of the Invalids'' interest, laid
+    under tenfold arrest, with 9700 on account of 27000 Rthl bank interest, on account of 4000 Rthl Epstien
+    claims, on account of 3500 old costs which I have paid and guaranteed here — on account of 4000 Rthl
+    which the Schliefen still has to demand — nothing comes in here, I cannot save myself, my children
+    suffer with me; in short, I suffer and [uncertain: Felde] — For what grieves me most is that my fine
+    Kontop is gone to the devil — I have no one who takes any interest; whatever I engage, that is to
+    do the work, turns rogue, because people do not believe that a prince should not spend and live at
+    the devil''s own rate — everyone wants to live as well at once — In spite of all this I remain, with
+    the deepest reverence, the most faithful attachment and the deepest esteem,
+
+
+    Your Most Serene Highness''s
+
+
+    the star out of the North is shining
+
+
+    the rest by word of mouth
+
+
+    Blizanow
+
+
+    the 21st of September 1811
+
+
+    faithful, humble and obedient servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Heuthausen
+    en: Heuthausen
+    kind: person
+  - de: Schwimmern
+    en: Schwimmern
+    kind: place
+  - de: Epstiensche
+    en: Epstien
+    kind: person
+  - de: Schliefen
+    en: Schliefen
+    kind: person
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '9700'
+  - '27000'
+  - '4000'
+  - '3500'
+  - '4000'
+  - '10'
+  - '21'
+  - '7'
+  - '1811'

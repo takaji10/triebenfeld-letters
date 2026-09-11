@@ -438,48 +438,2599 @@
    "doc_line": 125
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kuch",
+   "kind": "person",
+   "surface_de": "Kuch",
+   "surface_en": "Kuch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strahlen",
+   "kind": "person",
+   "surface_de": "Strahlen",
+   "surface_en": "Strahlen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wallerstein",
+   "kind": "place",
+   "surface_de": "Wallerstein",
+   "surface_en": "Wallerstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Sobottendorff",
+   "kind": "person",
+   "surface_de": "v Sobottendorffischen",
+   "surface_en": "von Sobottendorff",
+   "page": 1
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Höym",
+   "surface_en": "Höym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Tauenzien",
+   "kind": "person",
+   "surface_de": "v Tauenzien",
+   "surface_en": "von Tauenzien",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Feannert",
+   "kind": "person",
+   "surface_de": "v. Feannert",
+   "surface_en": "von Feannert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Czarnetzki",
+   "kind": "person",
+   "surface_de": "v. Czarnetzki",
+   "surface_en": "von Czarnetzki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gleisberger",
+   "kind": "person",
+   "surface_de": "Gleisberger",
+   "surface_en": "Gleisberger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Bornstädt",
+   "kind": "person",
+   "surface_de": "v. Bornstädt",
+   "surface_en": "von Bornstädt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rass",
+   "kind": "person",
+   "surface_de": "Rass",
+   "surface_en": "Rass",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schick",
+   "kind": "person",
+   "surface_de": "Schick",
+   "surface_en": "Schick",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Kluge",
+   "kind": "person",
+   "surface_de": "v. Kluge",
+   "surface_en": "von Kluge",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Franz Apfelfeld",
+   "kind": "person",
+   "surface_de": "Franz Apfelfeld",
+   "surface_en": "Franz Apfelfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ujest",
+   "kind": "place",
+   "surface_de": "Ujest",
+   "surface_en": "Ujest",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Deuser",
+   "kind": "person",
+   "surface_de": "Deuser",
+   "surface_en": "Deuser",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krippendorff",
+   "kind": "person",
+   "surface_de": "Krippendorff",
+   "surface_en": "Krippendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Jung",
+   "kind": "person",
+   "surface_de": "Jung",
+   "surface_en": "Jung",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brenzhausen",
+   "kind": "place",
+   "surface_de": "Brenzhausen",
+   "surface_en": "Brenzhausen",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenloheschen",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Golde",
+   "kind": "person",
+   "surface_de": "Golde",
+   "surface_en": "Golde",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Köber",
+   "kind": "person",
+   "surface_de": "Köber",
+   "surface_en": "Köber",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ansbach",
+   "kind": "place",
+   "surface_de": "Ansbach",
+   "surface_en": "Ansbach",
+   "page": 2
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Label Joseph Levin",
+   "kind": "person",
+   "surface_de": "Label Joseph Levin",
+   "surface_en": "Label Joseph Levin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Lichtenau",
+   "kind": "person",
+   "surface_de": "von Lichtenau",
+   "surface_en": "von Lichtenau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Charlotte von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Charlotte von Triebenfeld",
+   "surface_en": "Charlotte von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hoffmann",
+   "kind": "person",
+   "surface_de": "Hoffmann",
+   "surface_en": "Hoffmann",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Fraube & Schlesinger",
+   "kind": "other",
+   "surface_de": "Fraube & Schlesinger",
+   "surface_en": "Fraube & Schlesinger",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ujest",
+   "kind": "place",
+   "surface_de": "Ujest",
+   "surface_en": "Ujest",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Goldstücker",
+   "kind": "person",
+   "surface_de": "Goldstücker",
+   "surface_en": "Goldstücker",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schweizhoffer",
+   "kind": "person",
+   "surface_de": "Schweizhoffers",
+   "surface_en": "Schweizhoffer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Joh. Eleon: Pedell",
+   "kind": "person",
+   "surface_de": "Joh. Eleon: Pedell",
+   "surface_en": "Joh. Eleon: Pedell",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Carlsruhe",
+   "kind": "place",
+   "surface_de": "Carlsruhe",
+   "surface_en": "Carlsruhe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Pückler",
+   "kind": "person",
+   "surface_de": "v. Pückler",
+   "surface_en": "von Pückler",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rilitzer",
+   "kind": "person",
+   "surface_de": "Rilitzer",
+   "surface_en": "Rilitzer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschütz",
+   "surface_en": "Schlawenschitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Delitz",
+   "kind": "person",
+   "surface_de": "von Delitz",
+   "surface_en": "von Delitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mendel",
+   "kind": "person",
+   "surface_de": "Mendels",
+   "surface_en": "Mendel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt a.M.",
+   "kind": "place",
+   "surface_de": "Frankfurt a.m.",
+   "surface_en": "Frankfurt a.M.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Burghard",
+   "kind": "person",
+   "surface_de": "Burghards",
+   "surface_en": "Burghard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Erfurt",
+   "kind": "place",
+   "surface_de": "Erfurt",
+   "surface_en": "Erfurt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sternitzky",
+   "kind": "person",
+   "surface_de": "Sternitzky",
+   "surface_en": "Sternitzky",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dorr",
+   "kind": "person",
+   "surface_de": "Dorrs",
+   "surface_en": "Dorr",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Griesbach",
+   "kind": "place",
+   "surface_de": "Griesbach",
+   "surface_en": "Griesbach",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Günther",
+   "kind": "person",
+   "surface_de": "Günther",
+   "surface_en": "Günther",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenzitz",
+   "surface_en": "Schlawenschitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schoen",
+   "kind": "person",
+   "surface_de": "Schoen",
+   "surface_en": "Schoen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Jacobswalde",
+   "kind": "place",
+   "surface_de": "Jacobswalde",
+   "surface_en": "Jacobswalde",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ludwig",
+   "kind": "person",
+   "surface_de": "Ludwig",
+   "surface_en": "Ludwig",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Palemba",
+   "kind": "person",
+   "surface_de": "Palemba",
+   "surface_en": "Palemba",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Maxiliano von Holly",
+   "kind": "person",
+   "surface_de": "Maxiliano von Holly",
+   "surface_en": "Maxiliano von Holly",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Munster",
+   "kind": "place",
+   "surface_de": "Munster",
+   "surface_en": "Munster",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Giesche",
+   "kind": "person",
+   "surface_de": "Giesche",
+   "surface_en": "Giesche",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Focke",
+   "kind": "person",
+   "surface_de": "Focke",
+   "surface_en": "Focke",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Abraham Hirsch Schweizer",
+   "kind": "person",
+   "surface_de": "Abraham Hirsch Schweizer",
+   "surface_en": "Abraham Hirsch Schweizer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Krause",
+   "kind": "person",
+   "surface_de": "Krause",
+   "surface_en": "Krause",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Scheitnich",
+   "kind": "place",
+   "surface_de": "Scheitnich",
+   "surface_en": "Scheitnich",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koenig",
+   "kind": "person",
+   "surface_de": "Koenig",
+   "surface_en": "Koenig",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Gluttmann",
+   "kind": "person",
+   "surface_de": "Gluttmann",
+   "surface_en": "Gluttmann",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schumann",
+   "kind": "person",
+   "surface_de": "Schumann",
+   "surface_en": "Schumann",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Werner & Comp",
+   "kind": "other",
+   "surface_de": "Werner & Comp",
+   "surface_en": "Werner & Comp",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Loebel Fraenkel",
+   "kind": "person",
+   "surface_de": "Loebel Fraenkel",
+   "surface_en": "Loebel Fraenkel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koehler",
+   "kind": "person",
+   "surface_de": "Koehler",
+   "surface_en": "Koehler",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Freihaber",
+   "kind": "person",
+   "surface_de": "Freihabers",
+   "surface_en": "Freihaber",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "E Heimann",
+   "kind": "person",
+   "surface_de": "E Heimann",
+   "surface_en": "E Heimann",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Carl von Stössel",
+   "kind": "person",
+   "surface_de": "Carl v Stössel",
+   "surface_en": "Carl von Stössel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sigismund von Stössel",
+   "kind": "person",
+   "surface_de": "Sigismund v Stössel",
+   "surface_en": "Sigismund von Stössel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "K. S. Mützel",
+   "kind": "person",
+   "surface_de": "K. S. Mützel",
+   "surface_en": "K. S. Mützel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Sak",
+   "kind": "person",
+   "surface_de": "v. Sak",
+   "surface_en": "von Sak",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Zerboni",
+   "kind": "person",
+   "surface_de": "v. Zerboni",
+   "surface_en": "von Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Gas",
+   "kind": "person",
+   "surface_de": "Gas",
+   "surface_en": "Gas",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Franz. Meyer",
+   "kind": "person",
+   "surface_de": "Franz. Meyer",
+   "surface_en": "Franz. Meyer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Brosemann",
+   "kind": "person",
+   "surface_de": "Brosemann",
+   "surface_en": "Brosemann",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "J. K[?]. R. Brasfert",
+   "kind": "person",
+   "surface_de": "J. K[?]. R. Brasfert",
+   "surface_en": "J. K[?]. R. Brasfert",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schmidt",
+   "kind": "person",
+   "surface_de": "Schmidts",
+   "surface_en": "Schmidt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Über",
+   "kind": "person",
+   "surface_de": "Über",
+   "surface_en": "Über",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Münchow",
+   "kind": "person",
+   "surface_de": "von Münchow",
+   "surface_en": "von Münchow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Brehmer",
+   "kind": "person",
+   "surface_de": "Brehmer",
+   "surface_en": "Brehmer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Nickel",
+   "kind": "person",
+   "surface_de": "Nickel",
+   "surface_en": "Nickel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Elsner",
+   "kind": "person",
+   "surface_de": "Elsnerschen",
+   "surface_en": "Elsner",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hennig",
+   "kind": "person",
+   "surface_de": "Hennig",
+   "surface_en": "Hennig",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sigism. von Stössel",
+   "kind": "person",
+   "surface_de": "Sigesm. p. Stösselschen",
+   "surface_en": "Sigism. von Stössel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "J. C. Panz",
+   "kind": "person",
+   "surface_de": "J. C. Panz",
+   "surface_en": "J. C. Panz",
+   "page": 4
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schlipalius",
+   "kind": "person",
+   "surface_de": "Schlipalius",
+   "surface_en": "Schlipalius",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Frank",
+   "kind": "person",
+   "surface_de": "Frank",
+   "surface_en": "Frank",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Abraham Hirschel",
+   "kind": "person",
+   "surface_de": "Abraham Hirschel",
+   "surface_en": "Abraham Hirschel",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Zinger",
+   "kind": "person",
+   "surface_de": "Zingerschen",
+   "surface_en": "Zinger",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Bettner",
+   "kind": "person",
+   "surface_de": "Bettner",
+   "surface_en": "Bettner",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v Köckritzschen",
+   "surface_en": "von Köckritz",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Gottheimer",
+   "kind": "person",
+   "surface_de": "Gottheimer",
+   "surface_en": "Gottheimer",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Meyer Herz Cohn",
+   "kind": "person",
+   "surface_de": "Meyer Herz Cohn",
+   "surface_en": "Meyer Herz Cohn",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Valentin Jung",
+   "kind": "person",
+   "surface_de": "Valentin Jung",
+   "surface_en": "Valentin Jung",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Brenzhausen",
+   "kind": "place",
+   "surface_de": "Brenzhausen",
+   "surface_en": "Brenzhausen",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Lampe",
+   "kind": "person",
+   "surface_de": "Lampe",
+   "surface_en": "Lampe",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Barnheim",
+   "kind": "person",
+   "surface_de": "Barnheim",
+   "surface_en": "Barnheim",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Eichter",
+   "kind": "person",
+   "surface_de": "Eichterschen",
+   "surface_en": "Eichter",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "J. C. Müller",
+   "kind": "person",
+   "surface_de": "J. C. Müller",
+   "surface_en": "J. C. Müller",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "J. Com. Münezer",
+   "kind": "person",
+   "surface_de": "J. Com. Münezer",
+   "surface_en": "J. Com. Münezer",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Weinhold",
+   "kind": "person",
+   "surface_de": "Weinhold",
+   "surface_en": "Weinhold",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "J. C. Dzeieba",
+   "kind": "person",
+   "surface_de": "J. C. Dzeieba",
+   "surface_en": "J. C. Dzeieba",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Mendel Oettinger",
+   "kind": "person",
+   "surface_de": "Mendel Oettingerschen",
+   "surface_en": "Mendel Oettinger",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Homuth",
+   "kind": "person",
+   "surface_de": "Homuth",
+   "surface_en": "Homuth",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Fauk",
+   "kind": "person",
+   "surface_de": "Fauk",
+   "surface_en": "Fauk",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Strahlen",
+   "kind": "person",
+   "surface_de": "Strahlen",
+   "surface_en": "Strahlen",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Seidlitz",
+   "kind": "person",
+   "surface_de": "Seidlitzschen",
+   "surface_en": "Seidlitz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Lazarus Schlesinger",
+   "kind": "person",
+   "surface_de": "Lazarus Schlesinger",
+   "surface_en": "Lazarus Schlesinger",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt a/M.",
+   "kind": "place",
+   "surface_de": "Frankfurt a/M.",
+   "surface_en": "Frankfurt a/M.",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Witinsky",
+   "kind": "person",
+   "surface_de": "Witinsky",
+   "surface_en": "Witinsky",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Mattersdorff",
+   "kind": "person",
+   "surface_de": "Mattersdorff",
+   "surface_en": "Mattersdorff",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "von der Breling",
+   "kind": "person",
+   "surface_de": "v d Brelingschen",
+   "surface_en": "von der Breling",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "W. G. Korn",
+   "kind": "other",
+   "surface_de": "W. G. Korn",
+   "surface_en": "W. G. Korn",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Bauditz",
+   "kind": "person",
+   "surface_de": "Bauditz",
+   "surface_en": "Bauditz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth a/O.",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Zadik",
+   "kind": "person",
+   "surface_de": "Zadik",
+   "surface_en": "Zadik",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Mr. R. Prubrecht",
+   "kind": "person",
+   "surface_de": "Mr. R. Prubrechtischen",
+   "surface_en": "Mr. R. Prubrecht",
+   "page": 6
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurt a/od.",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Rothkirch",
+   "kind": "person",
+   "surface_de": "v Rothkirch",
+   "surface_en": "von Rothkirch",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Hein",
+   "kind": "person",
+   "surface_de": "Hein",
+   "surface_en": "Hein",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorffschen",
+   "surface_en": "Schlabrendorff",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Diet",
+   "kind": "person",
+   "surface_de": "Diet",
+   "surface_en": "Diet",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brieg",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Binek",
+   "kind": "person",
+   "surface_de": "Binek",
+   "surface_en": "Binek",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Zimetzky",
+   "kind": "person",
+   "surface_de": "v. Zimetzkyschen",
+   "surface_en": "von Zimetzky",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schindler",
+   "kind": "person",
+   "surface_de": "Schindlerschen",
+   "surface_en": "Schindler",
+   "page": 7
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Ottensoser",
+   "kind": "person",
+   "surface_de": "Ottenſoser",
+   "surface_en": "Ottensoser",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Johann Hoffmann",
+   "kind": "person",
+   "surface_de": "Johann Hoffmann",
+   "surface_en": "Johann Hoffmann",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Hénneberg",
+   "kind": "person",
+   "surface_de": "v Hénneberg",
+   "surface_en": "von Hénneberg",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Koppan",
+   "kind": "person",
+   "surface_de": "Koppan",
+   "surface_en": "Koppan",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schindler",
+   "kind": "person",
+   "surface_de": "Schindler",
+   "surface_en": "Schindler",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Maper and Scholtz",
+   "kind": "other",
+   "surface_de": "Maper und Scholtz",
+   "surface_en": "Maper and Scholtz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Friedr: von Koopf",
+   "kind": "person",
+   "surface_de": "Friedr: v. Koopf",
+   "surface_en": "Friedr: von Koopf",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Krause",
+   "kind": "person",
+   "surface_de": "Krause",
+   "surface_en": "Krause",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Kohn",
+   "kind": "person",
+   "surface_de": "Kohn",
+   "surface_en": "Kohn",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Fehr von Lan",
+   "kind": "person",
+   "surface_de": "Fehr v. Lanschen",
+   "surface_en": "Fehr von Lan",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Benthan",
+   "kind": "person",
+   "surface_de": "Benthan",
+   "surface_en": "Benthan",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Weigel and Son",
+   "kind": "other",
+   "surface_de": "Weigel und Sohn",
+   "surface_en": "Weigel and Son",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Mendel Panofska",
+   "kind": "person",
+   "surface_de": "Mendel Panofskaschen",
+   "surface_en": "Mendel Panofska",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "von Rechthoff",
+   "kind": "person",
+   "surface_de": "v. Rechthoffschen",
+   "surface_en": "von Rechthoff",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Molinari",
+   "kind": "person",
+   "surface_de": "Molinari",
+   "surface_en": "Molinari",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Nerlech",
+   "kind": "person",
+   "surface_de": "Nerlech",
+   "surface_en": "Nerlech",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Friedrich",
+   "kind": "person",
+   "surface_de": "Friedrich",
+   "surface_en": "Friedrich",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Siebert",
+   "kind": "person",
+   "surface_de": "Siebert",
+   "surface_en": "Siebert",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Gümmler",
+   "kind": "person",
+   "surface_de": "Gümmler",
+   "surface_en": "Gümmler",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Linne",
+   "kind": "person",
+   "surface_de": "Linneschen",
+   "surface_en": "Linne",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Fürst",
+   "kind": "person",
+   "surface_de": "Fürst",
+   "surface_en": "Fürst",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "von Eichendorff",
+   "kind": "person",
+   "surface_de": "von Eichendorff",
+   "surface_en": "von Eichendorff",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Bawitscher",
+   "kind": "person",
+   "surface_de": "Bawitscher",
+   "surface_en": "Bawitscher",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Moses Bawitscher",
+   "kind": "person",
+   "surface_de": "Moses Bawitscher",
+   "surface_en": "Moses Bawitscher",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Müller",
+   "kind": "person",
+   "surface_de": "Müller",
+   "surface_en": "Müller",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Scheffler",
+   "kind": "person",
+   "surface_de": "Scheffler",
+   "surface_en": "Scheffler",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Lordemann",
+   "kind": "person",
+   "surface_de": "Lordemann",
+   "surface_en": "Lordemann",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Herzog",
+   "kind": "person",
+   "surface_de": "Herzog",
+   "surface_en": "Herzog",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Stark",
+   "kind": "person",
+   "surface_de": "Stark",
+   "surface_en": "Stark",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Ziepult & Son",
+   "kind": "other",
+   "surface_de": "Ziepult & Sohn",
+   "surface_en": "Ziepult & Son",
+   "page": 9
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Extract from the Princely Hohenlohe Liquidation Protocols\n1. The former Master of the Kitchen Kuch — Gold 100 Rthl; Courant 5050 Rthl\n2. Privy Councillor Strehlen at Wallerstein — Courant 2666 Rthl 16 g\n3. the von Sobottendorff heirs. — Courant 44200 Rthl\n4. the Lady Countess Höym née v. Tauenzien — Courant 5000 Rthl\n5. Herr v. [uncertain: Feannert] — Courant 200 Rthl\n6. Herr v. Czarnetzki — Courant 400 Rthl\n7. The saddler Gleisberger at Potsdam — Courant 64 Rthl\n8. Herr v. Bornstädt — Courant 5000 Rthl\n9. The locksmith Rass — Courant 2370 Rthl\n10. The joiner Schick — Courant 3400 Rthl\n11. Herr v. Kluge — Courant 3000 Rthl\n12. Franz Apfelfeld in Ujest — Courant 310 Rthl\n13. The former table-layer Deuser — Courant 200 Rthl\n14. The head forester Krippendorff — Courant 3700 Rthl\n15. The said Jung at [uncertain: Benshausen] — Gold 3635 Rthl\n16. The said Lombardini +"
+   "en": "Extract from the Princely Hohenlohe Liquidation Registers\n1. The former master of the kitchen Kuch — Gold 100 Rthl; Courant 5050 Rthl\n2. Privy Councillor Strahlen at Wallerstein — Courant 2666 Rthl 16 g\n3. the heirs of von Sobottendorff. — Courant 44200 Rthl\n4. the Countess Höym née von Tauenzien — Courant 5000 Rthl\n5. Mr. von Feannert[?] — Courant 200 Rthl\n6. Mr. von Czarnetzki — Courant 400 Rthl\n7. The saddler Gleisberger at Potsdam — Courant 64 Rthl\n8. Mr. von Bornstädt — Courant 5000 Rthl\n9. [uncertain: Der schlossen Rass] — Courant 2370 Rthl\n10. The joiner Schick — Courant 3400 Rthl\n11. Mr. von Kluge — Courant 3000 Rthl\n12. Franz Apfelfeld in Ujest — Courant 310 Rthl\n13. The former table-setter Deuser — Courant 200 Rthl\n14. The head forester Krippendorff — Courant 3700 Rthl\n15. Mr. Jung at Brenzhausen — Gold 3635 Rthl\n16. Mr. Lombardini +",
+   "names": [
+    {
+     "de": "Kuch",
+     "en": "Kuch",
+     "kind": "person"
+    },
+    {
+     "de": "Strahlen",
+     "en": "Strahlen",
+     "kind": "person"
+    },
+    {
+     "de": "Wallerstein",
+     "en": "Wallerstein",
+     "kind": "place"
+    },
+    {
+     "de": "v Sobottendorffischen",
+     "en": "von Sobottendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Höym",
+     "en": "Höym",
+     "kind": "person"
+    },
+    {
+     "de": "v Tauenzien",
+     "en": "von Tauenzien",
+     "kind": "person"
+    },
+    {
+     "de": "v. Feannert",
+     "en": "von Feannert",
+     "kind": "person"
+    },
+    {
+     "de": "v. Czarnetzki",
+     "en": "von Czarnetzki",
+     "kind": "person"
+    },
+    {
+     "de": "Gleisberger",
+     "en": "Gleisberger",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "v. Bornstädt",
+     "en": "von Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Rass",
+     "en": "Rass",
+     "kind": "person"
+    },
+    {
+     "de": "Schick",
+     "en": "Schick",
+     "kind": "person"
+    },
+    {
+     "de": "v. Kluge",
+     "en": "von Kluge",
+     "kind": "person"
+    },
+    {
+     "de": "Franz Apfelfeld",
+     "en": "Franz Apfelfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ujest",
+     "en": "Ujest",
+     "kind": "place"
+    },
+    {
+     "de": "Deuser",
+     "en": "Deuser",
+     "kind": "person"
+    },
+    {
+     "de": "Krippendorff",
+     "en": "Krippendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Jung",
+     "en": "Jung",
+     "kind": "person"
+    },
+    {
+     "de": "Brenzhausen",
+     "en": "Brenzhausen",
+     "kind": "place"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenloheschen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1",
+    "100",
+    "5050",
+    "2",
+    "2666",
+    "16",
+    "3",
+    "44200",
+    "4",
+    "5000",
+    "5",
+    "200",
+    "6",
+    "400",
+    "7",
+    "64",
+    "8",
+    "5000",
+    "9",
+    "2370",
+    "10",
+    "3400",
+    "11",
+    "3000",
+    "12",
+    "310",
+    "13",
+    "200",
+    "14",
+    "3700",
+    "15",
+    "3635",
+    "16"
+   ]
   },
   {
    "page": 2,
-   "en": "17. The Jewess Golde in Breslau — Courant 6000 Rthl\n18. the innkeeper Köber in Ansbach — Courant 319 Rthl 12 g\n19. Frau Bergräthin Bernhardi in Breslau\n20. Heirs of Label Joseph Levin — Courant 13275 Rthl\n21. [uncertain: Count / Countess] von Lichtenau — Gold 250 Rthl\n22. Frau Charlotte von Triebenfeld — Courant 112000 Rthl\n23. Court Councillor Hahn\n24. Housekeeper Hoffmann\n25. Fraube & Schlesinger in Ujest. — Courant 2978 Rthl 18 g\n26. Goldstücker — Courant 170000 Rthl\n27. The tinsmith Schweizhoffer's widow — Courant 90 Rthl\n28. Joh. Eleon: Pedell in Carlsruhe — Courant 4000 Rthl\n29. Herr Count v. Pückler\n30. Butcher Rilitzer in Schlawenschütz — Courant 1188 Rthl 13 g\n31. Herr von Delitz — Courant 300 Rthl\n32. Mendel's widow in Frankfurt a.m. — Courant 483 Rthl 12 g\n33. Burghard's widow in Erfurt\n34. Surgeon Sternitzky — Courant 222 Rthl 21 g 6 d\n35. Dorr's widow in Griesbach. — Courant 342 Rthl 20 g"
+   "en": "17. The Jewess Golde in Breslau — Courant 6000 Rthl\n18. the innkeeper Köber in Ansbach — Courant 319 Rthl 12 g\n19. Mining Councillor's wife Bernhardi in Breslau\n20. Heirs of Label Joseph Levin — Courant 13275 Rthl\n21. Count von Lichtenau — Gold 250 Rthl\n22. Mrs. Charlotte von Triebenfeld — Courant 112000 Rthl\n23. Court Councillor Hahn\n24. The housekeeper Hoffmann\n25. Fraube & Schlesinger in Ujest. — Courant 2978 Rthl 18 g\n26. Goldstücker — Courant 170000 Rthl\n27. The tinsmith Schweizhoffer's widow — Courant 90 Rthl\n28. Joh. Eleon: Pedell in Carlsruhe — Courant 4000 Rthl\n29. Mr. Count von Pückler\n30. The butcher Rilitzer in Schlawenschitz — Courant 1188 Rthl 13 g\n31. Mr. von Delitz — Courant 300 Rthl\n32. Mendel's widow in Frankfurt a.M. — Courant 483 Rthl 12 g\n33. Burghard's widow in Erfurt\n34. The surgeon Sternitzky — Courant 222 Rthl 21 g 6 d\n35. Dorr's widow in Griesbach. — Courant 342 Rthl 20 g",
+   "names": [
+    {
+     "de": "Golde",
+     "en": "Golde",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Köber",
+     "en": "Köber",
+     "kind": "person"
+    },
+    {
+     "de": "Ansbach",
+     "en": "Ansbach",
+     "kind": "place"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Label Joseph Levin",
+     "en": "Label Joseph Levin",
+     "kind": "person"
+    },
+    {
+     "de": "von Lichtenau",
+     "en": "von Lichtenau",
+     "kind": "person"
+    },
+    {
+     "de": "Charlotte von Triebenfeld",
+     "en": "Charlotte von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Hoffmann",
+     "en": "Hoffmann",
+     "kind": "person"
+    },
+    {
+     "de": "Fraube & Schlesinger",
+     "en": "Fraube & Schlesinger",
+     "kind": "other"
+    },
+    {
+     "de": "Ujest",
+     "en": "Ujest",
+     "kind": "place"
+    },
+    {
+     "de": "Goldstücker",
+     "en": "Goldstücker",
+     "kind": "person"
+    },
+    {
+     "de": "Schweizhoffers",
+     "en": "Schweizhoffer",
+     "kind": "person"
+    },
+    {
+     "de": "Joh. Eleon: Pedell",
+     "en": "Joh. Eleon: Pedell",
+     "kind": "person"
+    },
+    {
+     "de": "Carlsruhe",
+     "en": "Carlsruhe",
+     "kind": "place"
+    },
+    {
+     "de": "v. Pückler",
+     "en": "von Pückler",
+     "kind": "person"
+    },
+    {
+     "de": "Rilitzer",
+     "en": "Rilitzer",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschütz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "von Delitz",
+     "en": "von Delitz",
+     "kind": "person"
+    },
+    {
+     "de": "Mendels",
+     "en": "Mendel",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurt a.m.",
+     "en": "Frankfurt a.M.",
+     "kind": "place"
+    },
+    {
+     "de": "Burghards",
+     "en": "Burghard",
+     "kind": "person"
+    },
+    {
+     "de": "Erfurt",
+     "en": "Erfurt",
+     "kind": "place"
+    },
+    {
+     "de": "Sternitzky",
+     "en": "Sternitzky",
+     "kind": "person"
+    },
+    {
+     "de": "Dorrs",
+     "en": "Dorr",
+     "kind": "person"
+    },
+    {
+     "de": "Griesbach",
+     "en": "Griesbach",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "17",
+    "6000",
+    "18",
+    "319",
+    "12",
+    "19",
+    "20",
+    "13275",
+    "21",
+    "250",
+    "22",
+    "112000",
+    "23",
+    "24",
+    "25",
+    "2978",
+    "18",
+    "26",
+    "170000",
+    "27",
+    "90",
+    "28",
+    "4000",
+    "29",
+    "30",
+    "1188",
+    "13",
+    "31",
+    "300",
+    "32",
+    "483",
+    "12",
+    "33",
+    "34",
+    "222",
+    "21",
+    "6",
+    "35",
+    "342",
+    "20"
+   ]
   },
   {
    "page": 3,
-   "en": "36. The former valet Günther — Courant 1342 Rthl\n37. Parson in Schlawenzitz — Courant 300 Rthl\n38. Schoen in Jacobswalde — Courant 800 Rthl\n39. Lieutenant Ludwig in Breslau — Courant 11200 Rthl\n40. Forester Palemba's widow — Courant 1114 Rthl 6 g 10 d\n41. Maxiliano von Holly in Munster — Courant 300 Rthl\n42. Merchant Giesche in Breslau — Courant 850 Rthl\n43. Merchant Focke — Gold 10000 Rthl\n44. Abraham Hirsch Schweizer — Courant 400 Rthl\n45. [uncertain: Coffetur] Krause in Scheitnich — Courant 142 Rthl 18 g 11 d\n46. Chief Bailiff [Oberamtmann] Koenig — Courant 3000 Rthl\n47. Barter Gluttmann — Courant 2103 Rthl 13 g 9 d\n48. Butcher Schumann — Courant 8966 Rthl 4 g 11 d\n49. Werner & Comp — Courant 1983 Rthl\n50. Loebel Fraenkel — Courant 4000 Rthl\n51. Chief Bailiff [Oberamtmann] Koehler — Courant 1327 Rthl 2 g\n52. Freihaber's minor children — Courant 1222 Rthl 20 g 11 d\n53. Court agent E Heimann — Courant 8000 Rthl\n54. Herr Carl v Stössel — Courant 191000 Rthl"
+   "en": "36. The former valet Günther — Courant 1342 Rthl\n37. Parish priest in Schlawenschitz — Courant 300 Rthl\n38. Schoen in Jacobswalde — Courant 800 Rthl\n39. Lieutenant Ludwig in Breslau — Courant 11200 Rthl\n40. Forester Palemba's widow — Courant 1114 Rthl 6 g 10 d\n41. Maxiliano von Holly in Munster — Courant 300 Rthl\n42. The merchant Giesche in Breslau — Courant 850 Rthl\n43. The merchant Focke — Gold 10000 Rthl\n44. Abraham Hirsch Schweizer — Courant 400 Rthl\n45. [uncertain: Coffetur] Krause in Scheitnich — Courant 142 Rthl 18 g 11 d\n46. Chief district steward Koenig — Courant 3000 Rthl\n47. [uncertain: Barter] Gluttmann — Courant 2103 Rthl 13 g 9 d\n48. The butcher Schumann — Courant 8966 Rthl 4 g 11 d\n49. Werner & Comp — Courant 1983 Rthl\n50. Loebel Fraenkel — Courant 4000 Rthl\n51. Chief district steward Koehler — Courant 1327 Rthl 2 g\n52. Freihaber's minor children — Courant 1222 Rthl 20 g 11 d\n53. Court agent E Heimann — Courant 8000 Rthl\n54. Mr. Carl von Stössel — Courant 191000 Rthl",
+   "names": [
+    {
+     "de": "Günther",
+     "en": "Günther",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenzitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Schoen",
+     "en": "Schoen",
+     "kind": "person"
+    },
+    {
+     "de": "Jacobswalde",
+     "en": "Jacobswalde",
+     "kind": "place"
+    },
+    {
+     "de": "Ludwig",
+     "en": "Ludwig",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Palemba",
+     "en": "Palemba",
+     "kind": "person"
+    },
+    {
+     "de": "Maxiliano von Holly",
+     "en": "Maxiliano von Holly",
+     "kind": "person"
+    },
+    {
+     "de": "Munster",
+     "en": "Munster",
+     "kind": "place"
+    },
+    {
+     "de": "Giesche",
+     "en": "Giesche",
+     "kind": "person"
+    },
+    {
+     "de": "Focke",
+     "en": "Focke",
+     "kind": "person"
+    },
+    {
+     "de": "Abraham Hirsch Schweizer",
+     "en": "Abraham Hirsch Schweizer",
+     "kind": "person"
+    },
+    {
+     "de": "Krause",
+     "en": "Krause",
+     "kind": "person"
+    },
+    {
+     "de": "Scheitnich",
+     "en": "Scheitnich",
+     "kind": "place"
+    },
+    {
+     "de": "Koenig",
+     "en": "Koenig",
+     "kind": "person"
+    },
+    {
+     "de": "Gluttmann",
+     "en": "Gluttmann",
+     "kind": "person"
+    },
+    {
+     "de": "Schumann",
+     "en": "Schumann",
+     "kind": "person"
+    },
+    {
+     "de": "Werner & Comp",
+     "en": "Werner & Comp",
+     "kind": "other"
+    },
+    {
+     "de": "Loebel Fraenkel",
+     "en": "Loebel Fraenkel",
+     "kind": "person"
+    },
+    {
+     "de": "Koehler",
+     "en": "Koehler",
+     "kind": "person"
+    },
+    {
+     "de": "Freihabers",
+     "en": "Freihaber",
+     "kind": "person"
+    },
+    {
+     "de": "E Heimann",
+     "en": "E Heimann",
+     "kind": "person"
+    },
+    {
+     "de": "Carl v Stössel",
+     "en": "Carl von Stössel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "36",
+    "1342",
+    "37",
+    "300",
+    "38",
+    "800",
+    "39",
+    "11200",
+    "40",
+    "1114",
+    "6",
+    "10",
+    "41",
+    "300",
+    "42",
+    "850",
+    "43",
+    "10000",
+    "44",
+    "400",
+    "45",
+    "142",
+    "18",
+    "11",
+    "46",
+    "3000",
+    "47",
+    "2103",
+    "13",
+    "9",
+    "48",
+    "8966",
+    "4",
+    "11",
+    "49",
+    "1983",
+    "50",
+    "4000",
+    "51",
+    "1327",
+    "2",
+    "52",
+    "1222",
+    "20",
+    "11",
+    "53",
+    "8000",
+    "54",
+    "191000"
+   ]
   },
   {
    "page": 4,
-   "en": "55. Herr Sigismund v Stössel — Courant 100 Rthl\n56. K. S. Mützel — Courant 650 Rthl\n57. Major v. Sak — Courant 500 Rthl\n58. v. Zerboni — Courant 1000 Rthl\n59. Lieutenant Gas — Courant 500 Rthl\n60. [uncertain: Infiz.] Franz. Meyer\n61. the widow Brosemann — Courant 300 Rthl\n62. to the J. K[illegible]. R. Brasfert\n63. the merchant Schmidt's heirs. — Courant 15500 Rthl\n64. the said Über — Courant 449 Rthl\n65. Major von Münchow — Courant 600 Rthl\n66. The widowed Frau Colonel Brehmer. — Courant 5000 Rthl\n67. the gardener Nickel — Courant 341 Rthl 19 g\n68. the day-labourer Elsner's heirs — Courant 834 Rthl 10 g\n69. the saddler Hennig — Courant 671 Rthl 20 g 6 d\n70. to the curator of Sigesm. said Stössel — Courant 169400 Rthl\n71. J. C. Panz for Zerboni — Courant 4974 Rthl"
+   "en": "55. Mr. Sigismund von Stössel — Courant 100 Rthl\n56. K. S. Mützel — Courant 650 Rthl\n57. Major von Sak — Courant 500 Rthl\n58. von Zerboni — Courant 1000 Rthl\n59. Lieutenant Gas — Courant 500 Rthl\n60. [uncertain: Infiz.] Franz. Meyer\n61. the widow Brosemann — Courant 300 Rthl\n62. to J. K[?]. R. Brasfert\n63. the heirs of the merchant Schmidt. — Courant 15500 Rthl\n64. Mr. Über — Courant 449 Rthl\n65. Major von Münchow — Courant 600 Rthl\n66. The widowed Mrs. Colonel Brehmer. — Courant 5000 Rthl\n67. the gardener Nickel — Courant 341 Rthl 19 g\n68. the heirs of the day-labourer Elsner — Courant 834 Rthl 10 g\n69. the saddler Hennig — Courant 671 Rthl 20 g 6 d\n70. to the guardian of Sigism. von Stössel — Courant 169400 Rthl\n71. J. C. Panz for Zerboni — Courant 4974 Rthl",
+   "names": [
+    {
+     "de": "Sigismund v Stössel",
+     "en": "Sigismund von Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "K. S. Mützel",
+     "en": "K. S. Mützel",
+     "kind": "person"
+    },
+    {
+     "de": "v. Sak",
+     "en": "von Sak",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zerboni",
+     "en": "von Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Gas",
+     "en": "Gas",
+     "kind": "person"
+    },
+    {
+     "de": "Franz. Meyer",
+     "en": "Franz. Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Brosemann",
+     "en": "Brosemann",
+     "kind": "person"
+    },
+    {
+     "de": "J. K[?]. R. Brasfert",
+     "en": "J. K[?]. R. Brasfert",
+     "kind": "person"
+    },
+    {
+     "de": "Schmidts",
+     "en": "Schmidt",
+     "kind": "person"
+    },
+    {
+     "de": "Über",
+     "en": "Über",
+     "kind": "person"
+    },
+    {
+     "de": "von Münchow",
+     "en": "von Münchow",
+     "kind": "person"
+    },
+    {
+     "de": "Brehmer",
+     "en": "Brehmer",
+     "kind": "person"
+    },
+    {
+     "de": "Nickel",
+     "en": "Nickel",
+     "kind": "person"
+    },
+    {
+     "de": "Elsnerschen",
+     "en": "Elsner",
+     "kind": "person"
+    },
+    {
+     "de": "Hennig",
+     "en": "Hennig",
+     "kind": "person"
+    },
+    {
+     "de": "Sigesm. p. Stösselschen",
+     "en": "Sigism. von Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "J. C. Panz",
+     "en": "J. C. Panz",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "55",
+    "100",
+    "56",
+    "650",
+    "57",
+    "500",
+    "58",
+    "1000",
+    "59",
+    "500",
+    "60",
+    "61",
+    "300",
+    "62",
+    "63",
+    "15500",
+    "64",
+    "449",
+    "65",
+    "600",
+    "66",
+    "5000",
+    "67",
+    "341",
+    "19",
+    "68",
+    "834",
+    "10",
+    "69",
+    "671",
+    "20",
+    "6",
+    "70",
+    "169400",
+    "71",
+    "4974"
+   ]
   },
   {
    "page": 5,
-   "en": "72. To the merchant Schlipalius — Courant 22808 Rthl\n73. Banker Frank — Courant 4079 Rthl 11 g\n74. Abraham Hirschel — Courant 5079 Rthl 16 g\n75. the Zinger heirs. — Courant 4000 Rthl\n76. to the [uncertain: stöpfen] Bettner — Courant 342 Rthl 5 g 7 d\n77. To the von Köckritz heirs — Courant 50000 Rthl\n78. the brothers Gottheimer — Courant 16237 Rthl 2 g 6 d\n79. Meyer Herz Cohn — Courant 1200 Rthl\n80. Valentin Jung in Brenzhausen.\n81. Merchant Lampe's bankruptcy estate — Courant 7066 Rthl 10 g 6 d\n82. the Fiscus — Courant 35000 Rthl\n83. Merchant Barnheim in Berlin — Courant 76791 Rthl\n84. the Eichter minor children — Courant 864 Rthl 16 g\n85. the J. C. Müller — Courant 10 Rthl 16 g 2 d\n86. J. Com. Münezer — Gold 75 Rthl; Courant 50 Rthl\n87. Merchant Weinhold — Courant 291 Rthl 8 g\n88. the widowed merchant's wife Adolph — Courant 333 Rthl 8 g"
+   "en": "72. To the merchant Schlipalius — Courant 22808 Rthl\n73. Banker Frank — Courant 4079 Rthl 11 g\n74. Abraham Hirschel — Courant 5079 Rthl 16 g\n75. the heirs of Zinger. — Courant 4000 Rthl\n76. to the [uncertain: stöpfen] Bettner — Courant 342 Rthl 5 g 7 d\n77. To the heirs of von Köckritz — Courant 50000 Rthl\n78. the brothers Gottheimer — Courant 16237 Rthl 2 g 6 d\n79. Meyer Herz Cohn — Courant 1200 Rthl\n80. Valentin Jung in Brenzhausen.\n81. The merchant Lampe's bankruptcy estate — Courant 7066 Rthl 10 g 6 d\n82. the Treasury — Courant 35000 Rthl\n83. The merchant Barnheim in Berlin — Courant 76791 Rthl\n84. the minor children of Eichter — Courant 864 Rthl 16 g\n85. to J. C. Müller — Courant 10 Rthl 16 g 2 d\n86. J. Com. Münezer — Gold 75 Rthl; Courant 50 Rthl\n87. The merchant Weinhold — Courant 291 Rthl 8 g\n88. the widowed merchant's wife Adolph — Courant 333 Rthl 8 g",
+   "names": [
+    {
+     "de": "Schlipalius",
+     "en": "Schlipalius",
+     "kind": "person"
+    },
+    {
+     "de": "Frank",
+     "en": "Frank",
+     "kind": "person"
+    },
+    {
+     "de": "Abraham Hirschel",
+     "en": "Abraham Hirschel",
+     "kind": "person"
+    },
+    {
+     "de": "Zingerschen",
+     "en": "Zinger",
+     "kind": "person"
+    },
+    {
+     "de": "Bettner",
+     "en": "Bettner",
+     "kind": "person"
+    },
+    {
+     "de": "v Köckritzschen",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Gottheimer",
+     "en": "Gottheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Herz Cohn",
+     "en": "Meyer Herz Cohn",
+     "kind": "person"
+    },
+    {
+     "de": "Valentin Jung",
+     "en": "Valentin Jung",
+     "kind": "person"
+    },
+    {
+     "de": "Brenzhausen",
+     "en": "Brenzhausen",
+     "kind": "place"
+    },
+    {
+     "de": "Lampe",
+     "en": "Lampe",
+     "kind": "person"
+    },
+    {
+     "de": "Barnheim",
+     "en": "Barnheim",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Eichterschen",
+     "en": "Eichter",
+     "kind": "person"
+    },
+    {
+     "de": "J. C. Müller",
+     "en": "J. C. Müller",
+     "kind": "person"
+    },
+    {
+     "de": "J. Com. Münezer",
+     "en": "J. Com. Münezer",
+     "kind": "person"
+    },
+    {
+     "de": "Weinhold",
+     "en": "Weinhold",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "72",
+    "22808",
+    "73",
+    "4079",
+    "11",
+    "74",
+    "5079",
+    "16",
+    "75",
+    "4000",
+    "76",
+    "342",
+    "5",
+    "7",
+    "77",
+    "50000",
+    "78",
+    "16237",
+    "2",
+    "6",
+    "79",
+    "1200",
+    "80",
+    "81",
+    "7066",
+    "10",
+    "6",
+    "82",
+    "35000",
+    "83",
+    "76791",
+    "84",
+    "864",
+    "16",
+    "85",
+    "10",
+    "16",
+    "2",
+    "86",
+    "75",
+    "50",
+    "87",
+    "291",
+    "8",
+    "88",
+    "333",
+    "8"
+   ]
   },
   {
    "page": 6,
-   "en": "89. the merchants' Gold and Silver Manufactory in Breslau — Courant 1188 Rthl 7 g\n90. To the J. C. Dzeieba — Courant 593 Rthl\n91. the Mendel Oettinger estate — Courant 1800 Rthl\n92. widowed Chapter-Chancellor Homuth — Courant 1000 Rthl\n93. The [uncertain: Fraußmann] Fauk — Courant 1794 Rthl 17 g 8 d\n94. Privy Councillor Strahlen — Courant 2666 Rthl 16 g\n95. the President Seidlitz's heirs — Courant 30000 Rthl\n96. to the [uncertain: Frankner] Lazarus Schlesinger in Frankfurt a/M. — Courant 2000 Rthl\n97. Justitiarius Witinsky — Courant 764 Rthl\n98. The Jew Mattersdorff — Courant 600 Rthl\n99. The v d Breling trading house in Dresden — Courant 19000 Rthl\n100. Bookselling house W. G. Korn — Courant 1071 Rthl 21 g 3 d\n101. Merchant Bauditz in Frankfurth a/O. — Courant 6000 Rthl\n102. Négociant Zadik — Courant 8250 Rthl\n103. to the Mr. R. Prubrecht heirs. — Courant 9400 Rthl"
+   "en": "89. the merchant Gold and Silver Manufactory in Breslau — Courant 1188 Rthl 7 g\n90. To J. C. Dzeieba — Courant 593 Rthl\n91. the bankruptcy estate of Mendel Oettinger — Courant 1800 Rthl\n92. the widowed chancellor of the foundation Homuth — Courant 1000 Rthl\n93. [uncertain: Der Fraußmann] Fauk — Courant 1794 Rthl 17 g 8 d\n94. Privy Councillor Strahlen — Courant 2666 Rthl 16 g\n95. the heirs of President Seidlitz — Courant 30000 Rthl\n96. to the [uncertain: Frankner] Lazarus Schlesinger in Frankfurt a/M. — Courant 2000 Rthl\n97. Justiciary Witinsky — Courant 764 Rthl\n98. The Jew Mattersdorff — Courant 600 Rthl\n99. The von der Breling trading house in Dresden — Courant 19000 Rthl\n100. The bookshop W. G. Korn — Courant 1071 Rthl 21 g 3 d\n101. The merchant Bauditz in Frankfurt an der Oder — Courant 6000 Rthl\n102. The trader Zadik — Courant 8250 Rthl\n103. to the heirs of Mr. R. Prubrecht. — Courant 9400 Rthl",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "J. C. Dzeieba",
+     "en": "J. C. Dzeieba",
+     "kind": "person"
+    },
+    {
+     "de": "Mendel Oettingerschen",
+     "en": "Mendel Oettinger",
+     "kind": "person"
+    },
+    {
+     "de": "Homuth",
+     "en": "Homuth",
+     "kind": "person"
+    },
+    {
+     "de": "Fauk",
+     "en": "Fauk",
+     "kind": "person"
+    },
+    {
+     "de": "Strahlen",
+     "en": "Strahlen",
+     "kind": "person"
+    },
+    {
+     "de": "Seidlitzschen",
+     "en": "Seidlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Lazarus Schlesinger",
+     "en": "Lazarus Schlesinger",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurt a/M.",
+     "en": "Frankfurt a/M.",
+     "kind": "place"
+    },
+    {
+     "de": "Witinsky",
+     "en": "Witinsky",
+     "kind": "person"
+    },
+    {
+     "de": "Mattersdorff",
+     "en": "Mattersdorff",
+     "kind": "person"
+    },
+    {
+     "de": "v d Brelingschen",
+     "en": "von der Breling",
+     "kind": "person"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "W. G. Korn",
+     "en": "W. G. Korn",
+     "kind": "other"
+    },
+    {
+     "de": "Bauditz",
+     "en": "Bauditz",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth a/O.",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Zadik",
+     "en": "Zadik",
+     "kind": "person"
+    },
+    {
+     "de": "Mr. R. Prubrechtischen",
+     "en": "Mr. R. Prubrecht",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "89",
+    "1188",
+    "7",
+    "90",
+    "593",
+    "91",
+    "1800",
+    "92",
+    "1000",
+    "93",
+    "1794",
+    "17",
+    "8",
+    "94",
+    "2666",
+    "16",
+    "95",
+    "30000",
+    "96",
+    "2000",
+    "97",
+    "764",
+    "98",
+    "600",
+    "99",
+    "19000",
+    "100",
+    "1071",
+    "21",
+    "3",
+    "101",
+    "6000",
+    "102",
+    "8250",
+    "103",
+    "9400"
+   ]
   },
   {
    "page": 7,
-   "en": "104. to the Banker Meyer Bernhard Frankfurt a/od. — Courant 12000 Rthl\n105. Herr v Rothkirch — Courant 10000 Rthl\n106. [uncertain: Hertschmer] Hein in Breslau — Courant 165000 Rthl\n107. the Ges. Schlabrendorff heirs — Courant 35000 Rthl\n108. to the [uncertain: stehender] Diet in Brieg — Courant 1000 Rthl\n109. to the [uncertain: stehender] Binek — Courant 4500 Rthl\n110. To the v. Zimetzky heirs. — Courant 12000 Rthl\n111. the Doct. Schindler testamentary executors [Testarius Executorié] — Courant 693 Rthl 8 g\n112. Doct. Michaelis in Breslau — Courant 5000 Rthl\n113. Banker Ottenſoser — Courant 601 Rthl 9 g\n114. Johann Hoffmann. — Courant 2000 Rthl\n115. Baron v Hénneberg — Courant 1354 Rthl\n116. Merchant Koppan in Breslau — Courant 80000 Rthl\n117. Estate owner Schindler. — Courant 1000 Rthl\n118. the trading house Maper und Scholtz — Gold 3464 Rthl"
+   "en": "104. to the [uncertain: Baugnur] Meyer Bernhard, Frankfurt an der Oder — Courant 12000 Rthl\n105. Mr. von Rothkirch — Courant 10000 Rthl\n106. [uncertain: Hertschmer] Hein in Breslau — Courant 165000 Rthl\n107. the heirs of the late Schlabrendorff — Courant 35000 Rthl\n108. to the [uncertain: stehender] Diet in Brieg — Courant 1000 Rthl\n109. to the [uncertain: stehender] Binek — Courant 4500 Rthl\n110. To the heirs of von Zimetzky. — Courant 12000 Rthl\n111. the testamentary executors of Dr. Schindler — Courant 693 Rthl 8 g\n112. Dr. Michaelis in Breslau — Courant 5000 Rthl\n113. Banker Ottensoser — Courant 601 Rthl 9 g\n114. Johann Hoffmann. — Courant 2000 Rthl\n115. Baron von Hénneberg — Courant 1354 Rthl\n116. The merchant Koppan in Breslau — Courant 80000 Rthl\n117. The estate owner Schindler. — Courant 1000 Rthl\n118. the trading house Maper and Scholtz — Gold 3464 Rthl",
+   "names": [
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurt a/od.",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "v Rothkirch",
+     "en": "von Rothkirch",
+     "kind": "person"
+    },
+    {
+     "de": "Hein",
+     "en": "Hein",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Schlabrendorffschen",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Diet",
+     "en": "Diet",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Binek",
+     "en": "Binek",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zimetzkyschen",
+     "en": "von Zimetzky",
+     "kind": "person"
+    },
+    {
+     "de": "Schindlerschen",
+     "en": "Schindler",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Ottenſoser",
+     "en": "Ottensoser",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Hoffmann",
+     "en": "Johann Hoffmann",
+     "kind": "person"
+    },
+    {
+     "de": "v Hénneberg",
+     "en": "von Hénneberg",
+     "kind": "person"
+    },
+    {
+     "de": "Koppan",
+     "en": "Koppan",
+     "kind": "person"
+    },
+    {
+     "de": "Schindler",
+     "en": "Schindler",
+     "kind": "person"
+    },
+    {
+     "de": "Maper und Scholtz",
+     "en": "Maper and Scholtz",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "104",
+    "12000",
+    "105",
+    "10000",
+    "106",
+    "165000",
+    "107",
+    "35000",
+    "108",
+    "1000",
+    "109",
+    "4500",
+    "110",
+    "12000",
+    "111",
+    "693",
+    "8",
+    "112",
+    "5000",
+    "113",
+    "601",
+    "9",
+    "114",
+    "2000",
+    "115",
+    "1354",
+    "116",
+    "80000",
+    "117",
+    "1000",
+    "118",
+    "3464"
+   ]
   },
   {
    "page": 8,
-   "en": "119. To Major Friedr: v. Koopf — Courant 15000 Rthl\n120. Master carpenter Krause — Courant 629 Rthl 21 g 9 d\n121. Banker Kohn — Courant 2000 Rthl\n122. to the Freiherr v. Lansch heirs\n123. to the merchant Benthan — Gold 350 Rthl\n124. Weigel and Son — Courant 2510 Rthl\n125. Mendel Panofska guardianship [Curatel] — Courant 1000 Rthl\n126. v. Rechthoff heirs\n127. Merchant Molinari — Courant 5199 Rthl 10 g\n128. Forester Nerlech — Courant 335 Rthl\n129. Glazier Friedrich — Courant 119 Rthl 2 g\n130. Tailor Siebert — Courant 155 Rthl 18 g"
+   "en": "119. To Major Friedr: von Koopf — Courant 15000 Rthl\n120. Master carpenter Krause — Courant 629 Rthl 21 g 9 d\n121. [uncertain: Baugerin] Kohn — Courant 2000 Rthl\n122. to the heirs of Fehr von Lan\n123. to the merchant Benthan — Gold 350 Rthl\n124. Weigel and Son — Courant 2510 Rthl\n125. the guardianship of Mendel Panofska — Courant 1000 Rthl\n126. heirs of von Rechthoff\n127. The merchant Molinari — Courant 5199 Rthl 10 g\n128. Forester Nerlech — Courant 335 Rthl\n129. [uncertain: Glester] Friedrich — Courant 119 Rthl 2 g\n130. The tailor Siebert — Courant 155 Rthl 18 g",
+   "names": [
+    {
+     "de": "Friedr: v. Koopf",
+     "en": "Friedr: von Koopf",
+     "kind": "person"
+    },
+    {
+     "de": "Krause",
+     "en": "Krause",
+     "kind": "person"
+    },
+    {
+     "de": "Kohn",
+     "en": "Kohn",
+     "kind": "person"
+    },
+    {
+     "de": "Fehr v. Lanschen",
+     "en": "Fehr von Lan",
+     "kind": "person"
+    },
+    {
+     "de": "Benthan",
+     "en": "Benthan",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel und Sohn",
+     "en": "Weigel and Son",
+     "kind": "other"
+    },
+    {
+     "de": "Mendel Panofskaschen",
+     "en": "Mendel Panofska",
+     "kind": "person"
+    },
+    {
+     "de": "v. Rechthoffschen",
+     "en": "von Rechthoff",
+     "kind": "person"
+    },
+    {
+     "de": "Molinari",
+     "en": "Molinari",
+     "kind": "person"
+    },
+    {
+     "de": "Nerlech",
+     "en": "Nerlech",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich",
+     "en": "Friedrich",
+     "kind": "person"
+    },
+    {
+     "de": "Siebert",
+     "en": "Siebert",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "119",
+    "15000",
+    "120",
+    "629",
+    "21",
+    "9",
+    "121",
+    "2000",
+    "122",
+    "123",
+    "350",
+    "124",
+    "2510",
+    "125",
+    "1000",
+    "126",
+    "127",
+    "5199",
+    "10",
+    "128",
+    "335",
+    "129",
+    "119",
+    "2",
+    "130",
+    "155",
+    "18"
+   ]
   },
   {
    "page": 9,
-   "en": "131. To the smith Gümmler — Courant 1108 Rthl\n132. to the master carpenter Linne's heirs — Courant 1625 Rthl 2 g 4 d\n133. to the tinsmith Fürst — Courant 339 Rthl 22 g\n134. to the Freiherr von Eichendorff — Courant 3333 Rthl\n135. to the Superior Provincial Court fee-office [Sportel-Casse] — Courant 1140 Rthl 2 g\n136. to Moses Bawitscher — Courant 1200 Rthl\n137. to the widow Müller — Courant 97 Rthl\n138. to the Chief Post Director Scheffler — Courant 1526 Rthl 7 g 10 d\n139. To the widow Lordemann\n140. the married woman Herzog\n141. The glazier Stark\n142. the trading house Ziepult & Son\nTotal — Gold 17874 Rthl; Courant 1414377 Rthl 7 g 11 d"
+   "en": "131. To the smith Gümmler — Courant 1108 Rthl\n132. to the heirs of the master carpenter Linne — Courant 1625 Rthl 2 g 4 d\n133. to the tinsmith Fürst — Courant 339 Rthl 22 g\n134. to the Baron von Eichendorff — Courant 3333 Rthl\n135. to the Higher Regional Court's fees office — Courant 1140 Rthl 2 g\n136. to Moses Bawitscher — Courant 1200 Rthl\n137. to the widow Müller — Courant 97 Rthl\n138. the Chief Postal Director Scheffler — Courant 1526 Rthl 7 g 10 d\n139. To the widow Lordemann\n140. married name Herzog\n141. The glazier Stark\n142. the trading house Ziepult & Son\nTotal — Gold 17874 Rthl; Courant 1414377 Rthl 7 g 11 d",
+   "names": [
+    {
+     "de": "Gümmler",
+     "en": "Gümmler",
+     "kind": "person"
+    },
+    {
+     "de": "Linneschen",
+     "en": "Linne",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst",
+     "en": "Fürst",
+     "kind": "person"
+    },
+    {
+     "de": "von Eichendorff",
+     "en": "von Eichendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Bawitscher",
+     "en": "Bawitscher",
+     "kind": "person"
+    },
+    {
+     "de": "Moses Bawitscher",
+     "en": "Moses Bawitscher",
+     "kind": "person"
+    },
+    {
+     "de": "Müller",
+     "en": "Müller",
+     "kind": "person"
+    },
+    {
+     "de": "Scheffler",
+     "en": "Scheffler",
+     "kind": "person"
+    },
+    {
+     "de": "Lordemann",
+     "en": "Lordemann",
+     "kind": "person"
+    },
+    {
+     "de": "Herzog",
+     "en": "Herzog",
+     "kind": "person"
+    },
+    {
+     "de": "Stark",
+     "en": "Stark",
+     "kind": "person"
+    },
+    {
+     "de": "Ziepult & Sohn",
+     "en": "Ziepult & Son",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "131",
+    "1108",
+    "132",
+    "1625",
+    "2",
+    "4",
+    "133",
+    "339",
+    "22",
+    "134",
+    "3333",
+    "135",
+    "1140",
+    "2",
+    "136",
+    "1200",
+    "137",
+    "97",
+    "138",
+    "1526",
+    "7",
+    "10",
+    "139",
+    "140",
+    "141",
+    "142",
+    "17874",
+    "1414377",
+    "7",
+    "11"
+   ]
   }
  ],
- "text_english": "Extract from the Princely Hohenlohe Liquidation Protocols\n1. The former Master of the Kitchen Kuch — Gold 100 Rthl; Courant 5050 Rthl\n2. Privy Councillor Strehlen at Wallerstein — Courant 2666 Rthl 16 g\n3. the von Sobottendorff heirs. — Courant 44200 Rthl\n4. the Lady Countess Höym née v. Tauenzien — Courant 5000 Rthl\n5. Herr v. [uncertain: Feannert] — Courant 200 Rthl\n6. Herr v. Czarnetzki — Courant 400 Rthl\n7. The saddler Gleisberger at Potsdam — Courant 64 Rthl\n8. Herr v. Bornstädt — Courant 5000 Rthl\n9. The locksmith Rass — Courant 2370 Rthl\n10. The joiner Schick — Courant 3400 Rthl\n11. Herr v. Kluge — Courant 3000 Rthl\n12. Franz Apfelfeld in Ujest — Courant 310 Rthl\n13. The former table-layer Deuser — Courant 200 Rthl\n14. The head forester Krippendorff — Courant 3700 Rthl\n15. The said Jung at [uncertain: Benshausen] — Gold 3635 Rthl\n16. The said Lombardini +\n\n17. The Jewess Golde in Breslau — Courant 6000 Rthl\n18. the innkeeper Köber in Ansbach — Courant 319 Rthl 12 g\n19. Frau Bergräthin Bernhardi in Breslau\n20. Heirs of Label Joseph Levin — Courant 13275 Rthl\n21. [uncertain: Count / Countess] von Lichtenau — Gold 250 Rthl\n22. Frau Charlotte von Triebenfeld — Courant 112000 Rthl\n23. Court Councillor Hahn\n24. Housekeeper Hoffmann\n25. Fraube & Schlesinger in Ujest. — Courant 2978 Rthl 18 g\n26. Goldstücker — Courant 170000 Rthl\n27. The tinsmith Schweizhoffer's widow — Courant 90 Rthl\n28. Joh. Eleon: Pedell in Carlsruhe — Courant 4000 Rthl\n29. Herr Count v. Pückler\n30. Butcher Rilitzer in Schlawenschütz — Courant 1188 Rthl 13 g\n31. Herr von Delitz — Courant 300 Rthl\n32. Mendel's widow in Frankfurt a.m. — Courant 483 Rthl 12 g\n33. Burghard's widow in Erfurt\n34. Surgeon Sternitzky — Courant 222 Rthl 21 g 6 d\n35. Dorr's widow in Griesbach. — Courant 342 Rthl 20 g\n\n36. The former valet Günther — Courant 1342 Rthl\n37. Parson in Schlawenzitz — Courant 300 Rthl\n38. Schoen in Jacobswalde — Courant 800 Rthl\n39. Lieutenant Ludwig in Breslau — Courant 11200 Rthl\n40. Forester Palemba's widow — Courant 1114 Rthl 6 g 10 d\n41. Maxiliano von Holly in Munster — Courant 300 Rthl\n42. Merchant Giesche in Breslau — Courant 850 Rthl\n43. Merchant Focke — Gold 10000 Rthl\n44. Abraham Hirsch Schweizer — Courant 400 Rthl\n45. [uncertain: Coffetur] Krause in Scheitnich — Courant 142 Rthl 18 g 11 d\n46. Chief Bailiff [Oberamtmann] Koenig — Courant 3000 Rthl\n47. Barter Gluttmann — Courant 2103 Rthl 13 g 9 d\n48. Butcher Schumann — Courant 8966 Rthl 4 g 11 d\n49. Werner & Comp — Courant 1983 Rthl\n50. Loebel Fraenkel — Courant 4000 Rthl\n51. Chief Bailiff [Oberamtmann] Koehler — Courant 1327 Rthl 2 g\n52. Freihaber's minor children — Courant 1222 Rthl 20 g 11 d\n53. Court agent E Heimann — Courant 8000 Rthl\n54. Herr Carl v Stössel — Courant 191000 Rthl\n\n55. Herr Sigismund v Stössel — Courant 100 Rthl\n56. K. S. Mützel — Courant 650 Rthl\n57. Major v. Sak — Courant 500 Rthl\n58. v. Zerboni — Courant 1000 Rthl\n59. Lieutenant Gas — Courant 500 Rthl\n60. [uncertain: Infiz.] Franz. Meyer\n61. the widow Brosemann — Courant 300 Rthl\n62. to the J. K[illegible]. R. Brasfert\n63. the merchant Schmidt's heirs. — Courant 15500 Rthl\n64. the said Über — Courant 449 Rthl\n65. Major von Münchow — Courant 600 Rthl\n66. The widowed Frau Colonel Brehmer. — Courant 5000 Rthl\n67. the gardener Nickel — Courant 341 Rthl 19 g\n68. the day-labourer Elsner's heirs — Courant 834 Rthl 10 g\n69. the saddler Hennig — Courant 671 Rthl 20 g 6 d\n70. to the curator of Sigesm. said Stössel — Courant 169400 Rthl\n71. J. C. Panz for Zerboni — Courant 4974 Rthl\n\n72. To the merchant Schlipalius — Courant 22808 Rthl\n73. Banker Frank — Courant 4079 Rthl 11 g\n74. Abraham Hirschel — Courant 5079 Rthl 16 g\n75. the Zinger heirs. — Courant 4000 Rthl\n76. to the [uncertain: stöpfen] Bettner — Courant 342 Rthl 5 g 7 d\n77. To the von Köckritz heirs — Courant 50000 Rthl\n78. the brothers Gottheimer — Courant 16237 Rthl 2 g 6 d\n79. Meyer Herz Cohn — Courant 1200 Rthl\n80. Valentin Jung in Brenzhausen.\n81. Merchant Lampe's bankruptcy estate — Courant 7066 Rthl 10 g 6 d\n82. the Fiscus — Courant 35000 Rthl\n83. Merchant Barnheim in Berlin — Courant 76791 Rthl\n84. the Eichter minor children — Courant 864 Rthl 16 g\n85. the J. C. Müller — Courant 10 Rthl 16 g 2 d\n86. J. Com. Münezer — Gold 75 Rthl; Courant 50 Rthl\n87. Merchant Weinhold — Courant 291 Rthl 8 g\n88. the widowed merchant's wife Adolph — Courant 333 Rthl 8 g\n\n89. the merchants' Gold and Silver Manufactory in Breslau — Courant 1188 Rthl 7 g\n90. To the J. C. Dzeieba — Courant 593 Rthl\n91. the Mendel Oettinger estate — Courant 1800 Rthl\n92. widowed Chapter-Chancellor Homuth — Courant 1000 Rthl\n93. The [uncertain: Fraußmann] Fauk — Courant 1794 Rthl 17 g 8 d\n94. Privy Councillor Strahlen — Courant 2666 Rthl 16 g\n95. the President Seidlitz's heirs — Courant 30000 Rthl\n96. to the [uncertain: Frankner] Lazarus Schlesinger in Frankfurt a/M. — Courant 2000 Rthl\n97. Justitiarius Witinsky — Courant 764 Rthl\n98. The Jew Mattersdorff — Courant 600 Rthl\n99. The v d Breling trading house in Dresden — Courant 19000 Rthl\n100. Bookselling house W. G. Korn — Courant 1071 Rthl 21 g 3 d\n101. Merchant Bauditz in Frankfurth a/O. — Courant 6000 Rthl\n102. Négociant Zadik — Courant 8250 Rthl\n103. to the Mr. R. Prubrecht heirs. — Courant 9400 Rthl\n\n104. to the Banker Meyer Bernhard Frankfurt a/od. — Courant 12000 Rthl\n105. Herr v Rothkirch — Courant 10000 Rthl\n106. [uncertain: Hertschmer] Hein in Breslau — Courant 165000 Rthl\n107. the Ges. Schlabrendorff heirs — Courant 35000 Rthl\n108. to the [uncertain: stehender] Diet in Brieg — Courant 1000 Rthl\n109. to the [uncertain: stehender] Binek — Courant 4500 Rthl\n110. To the v. Zimetzky heirs. — Courant 12000 Rthl\n111. the Doct. Schindler testamentary executors [Testarius Executorié] — Courant 693 Rthl 8 g\n112. Doct. Michaelis in Breslau — Courant 5000 Rthl\n113. Banker Ottenſoser — Courant 601 Rthl 9 g\n114. Johann Hoffmann. — Courant 2000 Rthl\n115. Baron v Hénneberg — Courant 1354 Rthl\n116. Merchant Koppan in Breslau — Courant 80000 Rthl\n117. Estate owner Schindler. — Courant 1000 Rthl\n118. the trading house Maper und Scholtz — Gold 3464 Rthl\n\n119. To Major Friedr: v. Koopf — Courant 15000 Rthl\n120. Master carpenter Krause — Courant 629 Rthl 21 g 9 d\n121. Banker Kohn — Courant 2000 Rthl\n122. to the Freiherr v. Lansch heirs\n123. to the merchant Benthan — Gold 350 Rthl\n124. Weigel and Son — Courant 2510 Rthl\n125. Mendel Panofska guardianship [Curatel] — Courant 1000 Rthl\n126. v. Rechthoff heirs\n127. Merchant Molinari — Courant 5199 Rthl 10 g\n128. Forester Nerlech — Courant 335 Rthl\n129. Glazier Friedrich — Courant 119 Rthl 2 g\n130. Tailor Siebert — Courant 155 Rthl 18 g\n\n131. To the smith Gümmler — Courant 1108 Rthl\n132. to the master carpenter Linne's heirs — Courant 1625 Rthl 2 g 4 d\n133. to the tinsmith Fürst — Courant 339 Rthl 22 g\n134. to the Freiherr von Eichendorff — Courant 3333 Rthl\n135. to the Superior Provincial Court fee-office [Sportel-Casse] — Courant 1140 Rthl 2 g\n136. to Moses Bawitscher — Courant 1200 Rthl\n137. to the widow Müller — Courant 97 Rthl\n138. to the Chief Post Director Scheffler — Courant 1526 Rthl 7 g 10 d\n139. To the widow Lordemann\n140. the married woman Herzog\n141. The glazier Stark\n142. the trading house Ziepult & Son\nTotal — Gold 17874 Rthl; Courant 1414377 Rthl 7 g 11 d",
+ "text_english": "Extract from the Princely Hohenlohe Liquidation Registers\n1. The former master of the kitchen Kuch — Gold 100 Rthl; Courant 5050 Rthl\n2. Privy Councillor Strahlen at Wallerstein — Courant 2666 Rthl 16 g\n3. the heirs of von Sobottendorff. — Courant 44200 Rthl\n4. the Countess Höym née von Tauenzien — Courant 5000 Rthl\n5. Mr. von Feannert[?] — Courant 200 Rthl\n6. Mr. von Czarnetzki — Courant 400 Rthl\n7. The saddler Gleisberger at Potsdam — Courant 64 Rthl\n8. Mr. von Bornstädt — Courant 5000 Rthl\n9. [uncertain: Der schlossen Rass] — Courant 2370 Rthl\n10. The joiner Schick — Courant 3400 Rthl\n11. Mr. von Kluge — Courant 3000 Rthl\n12. Franz Apfelfeld in Ujest — Courant 310 Rthl\n13. The former table-setter Deuser — Courant 200 Rthl\n14. The head forester Krippendorff — Courant 3700 Rthl\n15. Mr. Jung at Brenzhausen — Gold 3635 Rthl\n16. Mr. Lombardini +\n\n17. The Jewess Golde in Breslau — Courant 6000 Rthl\n18. the innkeeper Köber in Ansbach — Courant 319 Rthl 12 g\n19. Mining Councillor's wife Bernhardi in Breslau\n20. Heirs of Label Joseph Levin — Courant 13275 Rthl\n21. Count von Lichtenau — Gold 250 Rthl\n22. Mrs. Charlotte von Triebenfeld — Courant 112000 Rthl\n23. Court Councillor Hahn\n24. The housekeeper Hoffmann\n25. Fraube & Schlesinger in Ujest. — Courant 2978 Rthl 18 g\n26. Goldstücker — Courant 170000 Rthl\n27. The tinsmith Schweizhoffer's widow — Courant 90 Rthl\n28. Joh. Eleon: Pedell in Carlsruhe — Courant 4000 Rthl\n29. Mr. Count von Pückler\n30. The butcher Rilitzer in Schlawenschitz — Courant 1188 Rthl 13 g\n31. Mr. von Delitz — Courant 300 Rthl\n32. Mendel's widow in Frankfurt a.M. — Courant 483 Rthl 12 g\n33. Burghard's widow in Erfurt\n34. The surgeon Sternitzky — Courant 222 Rthl 21 g 6 d\n35. Dorr's widow in Griesbach. — Courant 342 Rthl 20 g\n\n36. The former valet Günther — Courant 1342 Rthl\n37. Parish priest in Schlawenschitz — Courant 300 Rthl\n38. Schoen in Jacobswalde — Courant 800 Rthl\n39. Lieutenant Ludwig in Breslau — Courant 11200 Rthl\n40. Forester Palemba's widow — Courant 1114 Rthl 6 g 10 d\n41. Maxiliano von Holly in Munster — Courant 300 Rthl\n42. The merchant Giesche in Breslau — Courant 850 Rthl\n43. The merchant Focke — Gold 10000 Rthl\n44. Abraham Hirsch Schweizer — Courant 400 Rthl\n45. [uncertain: Coffetur] Krause in Scheitnich — Courant 142 Rthl 18 g 11 d\n46. Chief district steward Koenig — Courant 3000 Rthl\n47. [uncertain: Barter] Gluttmann — Courant 2103 Rthl 13 g 9 d\n48. The butcher Schumann — Courant 8966 Rthl 4 g 11 d\n49. Werner & Comp — Courant 1983 Rthl\n50. Loebel Fraenkel — Courant 4000 Rthl\n51. Chief district steward Koehler — Courant 1327 Rthl 2 g\n52. Freihaber's minor children — Courant 1222 Rthl 20 g 11 d\n53. Court agent E Heimann — Courant 8000 Rthl\n54. Mr. Carl von Stössel — Courant 191000 Rthl\n\n55. Mr. Sigismund von Stössel — Courant 100 Rthl\n56. K. S. Mützel — Courant 650 Rthl\n57. Major von Sak — Courant 500 Rthl\n58. von Zerboni — Courant 1000 Rthl\n59. Lieutenant Gas — Courant 500 Rthl\n60. [uncertain: Infiz.] Franz. Meyer\n61. the widow Brosemann — Courant 300 Rthl\n62. to J. K[?]. R. Brasfert\n63. the heirs of the merchant Schmidt. — Courant 15500 Rthl\n64. Mr. Über — Courant 449 Rthl\n65. Major von Münchow — Courant 600 Rthl\n66. The widowed Mrs. Colonel Brehmer. — Courant 5000 Rthl\n67. the gardener Nickel — Courant 341 Rthl 19 g\n68. the heirs of the day-labourer Elsner — Courant 834 Rthl 10 g\n69. the saddler Hennig — Courant 671 Rthl 20 g 6 d\n70. to the guardian of Sigism. von Stössel — Courant 169400 Rthl\n71. J. C. Panz for Zerboni — Courant 4974 Rthl\n\n72. To the merchant Schlipalius — Courant 22808 Rthl\n73. Banker Frank — Courant 4079 Rthl 11 g\n74. Abraham Hirschel — Courant 5079 Rthl 16 g\n75. the heirs of Zinger. — Courant 4000 Rthl\n76. to the [uncertain: stöpfen] Bettner — Courant 342 Rthl 5 g 7 d\n77. To the heirs of von Köckritz — Courant 50000 Rthl\n78. the brothers Gottheimer — Courant 16237 Rthl 2 g 6 d\n79. Meyer Herz Cohn — Courant 1200 Rthl\n80. Valentin Jung in Brenzhausen.\n81. The merchant Lampe's bankruptcy estate — Courant 7066 Rthl 10 g 6 d\n82. the Treasury — Courant 35000 Rthl\n83. The merchant Barnheim in Berlin — Courant 76791 Rthl\n84. the minor children of Eichter — Courant 864 Rthl 16 g\n85. to J. C. Müller — Courant 10 Rthl 16 g 2 d\n86. J. Com. Münezer — Gold 75 Rthl; Courant 50 Rthl\n87. The merchant Weinhold — Courant 291 Rthl 8 g\n88. the widowed merchant's wife Adolph — Courant 333 Rthl 8 g\n\n89. the merchant Gold and Silver Manufactory in Breslau — Courant 1188 Rthl 7 g\n90. To J. C. Dzeieba — Courant 593 Rthl\n91. the bankruptcy estate of Mendel Oettinger — Courant 1800 Rthl\n92. the widowed chancellor of the foundation Homuth — Courant 1000 Rthl\n93. [uncertain: Der Fraußmann] Fauk — Courant 1794 Rthl 17 g 8 d\n94. Privy Councillor Strahlen — Courant 2666 Rthl 16 g\n95. the heirs of President Seidlitz — Courant 30000 Rthl\n96. to the [uncertain: Frankner] Lazarus Schlesinger in Frankfurt a/M. — Courant 2000 Rthl\n97. Justiciary Witinsky — Courant 764 Rthl\n98. The Jew Mattersdorff — Courant 600 Rthl\n99. The von der Breling trading house in Dresden — Courant 19000 Rthl\n100. The bookshop W. G. Korn — Courant 1071 Rthl 21 g 3 d\n101. The merchant Bauditz in Frankfurt an der Oder — Courant 6000 Rthl\n102. The trader Zadik — Courant 8250 Rthl\n103. to the heirs of Mr. R. Prubrecht. — Courant 9400 Rthl\n\n104. to the [uncertain: Baugnur] Meyer Bernhard, Frankfurt an der Oder — Courant 12000 Rthl\n105. Mr. von Rothkirch — Courant 10000 Rthl\n106. [uncertain: Hertschmer] Hein in Breslau — Courant 165000 Rthl\n107. the heirs of the late Schlabrendorff — Courant 35000 Rthl\n108. to the [uncertain: stehender] Diet in Brieg — Courant 1000 Rthl\n109. to the [uncertain: stehender] Binek — Courant 4500 Rthl\n110. To the heirs of von Zimetzky. — Courant 12000 Rthl\n111. the testamentary executors of Dr. Schindler — Courant 693 Rthl 8 g\n112. Dr. Michaelis in Breslau — Courant 5000 Rthl\n113. Banker Ottensoser — Courant 601 Rthl 9 g\n114. Johann Hoffmann. — Courant 2000 Rthl\n115. Baron von Hénneberg — Courant 1354 Rthl\n116. The merchant Koppan in Breslau — Courant 80000 Rthl\n117. The estate owner Schindler. — Courant 1000 Rthl\n118. the trading house Maper and Scholtz — Gold 3464 Rthl\n\n119. To Major Friedr: von Koopf — Courant 15000 Rthl\n120. Master carpenter Krause — Courant 629 Rthl 21 g 9 d\n121. [uncertain: Baugerin] Kohn — Courant 2000 Rthl\n122. to the heirs of Fehr von Lan\n123. to the merchant Benthan — Gold 350 Rthl\n124. Weigel and Son — Courant 2510 Rthl\n125. the guardianship of Mendel Panofska — Courant 1000 Rthl\n126. heirs of von Rechthoff\n127. The merchant Molinari — Courant 5199 Rthl 10 g\n128. Forester Nerlech — Courant 335 Rthl\n129. [uncertain: Glester] Friedrich — Courant 119 Rthl 2 g\n130. The tailor Siebert — Courant 155 Rthl 18 g\n\n131. To the smith Gümmler — Courant 1108 Rthl\n132. to the heirs of the master carpenter Linne — Courant 1625 Rthl 2 g 4 d\n133. to the tinsmith Fürst — Courant 339 Rthl 22 g\n134. to the Baron von Eichendorff — Courant 3333 Rthl\n135. to the Higher Regional Court's fees office — Courant 1140 Rthl 2 g\n136. to Moses Bawitscher — Courant 1200 Rthl\n137. to the widow Müller — Courant 97 Rthl\n138. the Chief Postal Director Scheffler — Courant 1526 Rthl 7 g 10 d\n139. To the widow Lordemann\n140. married name Herzog\n141. The glazier Stark\n142. the trading house Ziepult & Son\nTotal — Gold 17874 Rthl; Courant 1414377 Rthl 7 g 11 d",
  "summary_en": "An extract from the Princely Hohenlohe liquidation registers: a numbered schedule of 142 creditors and their claims, in Gold and Courant Rthl, running from small tradesmen's bills to the largest debts, including Mrs. Charlotte von Triebenfeld 112,000 Rthl, Carl von Stössel 191,000 Rthl, Goldstücker 170,000 Rthl, Hein in Breslau 165,000 Rthl, the guardian of Sigismund von Stössel 169,400 Rthl, Barnheim in Berlin 76,791 Rthl, Koppan in Breslau 80,000 Rthl and the Treasury 35,000 Rthl. Totals: Gold 17,874 Rthl, Courant 1,414,377 Rthl 7 g 11 d.",
  "summary_de": "Auszug aus den fürstlich Hohenloheschen Liquidationsprotokollen: Verzeichnis von 142 Gläubigerposten mit Forderungen in Gold und Courant, darunter Frau Charlotte von Triebenfeld (112000 Rthl), Carl v. Stössel (191000 Rthl) und der Curator des Sigism. v. Stössel (169400 Rthl), Goldstücker (170000 Rthl), Hein in Breslau (165000 Rthl), Barnheim in Berlin (76791 Rthl), Koppan in Breslau (80000 Rthl), die v. Sobottendorff-Erben (44200 Rthl), der Fiscus (35000 Rthl), daneben zahlreiche Handwerker, Kaufleute, Bankiers und Bedienstete; Summe 17874 Rthl Gold und 1414377 Rthl 7 g 11 d Courant."
 }

@@ -235,28 +235,318 @@
    "doc_line": 74
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Schimmelpfenning",
+   "kind": "person",
+   "surface_de": "Schimmel-pfenning",
+   "surface_en": "Schimmelpfenning",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schimmelpfennig",
+   "kind": "person",
+   "surface_de": "Schimmel pfennig",
+   "surface_en": "Schimmelpfennig",
+   "page": 1
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommer",
+   "surface_en": "Sommer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sch.",
+   "kind": "person",
+   "surface_de": "Sch:",
+   "surface_en": "Sch.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von S.",
+   "kind": "person",
+   "surface_de": "v. S.",
+   "surface_en": "von S.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count von Wartensleben",
+   "kind": "person",
+   "surface_de": "Graf v. Wartensleben",
+   "surface_en": "Count von Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössels",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartenslebensche",
+   "surface_en": "Wartensleben",
+   "page": 2
+  },
+  {
+   "entity": "stossel",
+   "display": "Stossel",
+   "kind": "person",
+   "surface_de": "Stosseln",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Duchy of Warsaw",
+   "kind": "place",
+   "surface_de": "Herzogthum Warschau",
+   "surface_en": "Duchy of Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartenslebensche",
+   "surface_en": "Wartensleben",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betsche",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's most highly esteemed letter I have received, together with the several enclosures, by the returning foot-messenger. Since neither my first messenger — who was to depart from there on the 9th and to arrive here on the 12th — nor Sommer, still less General Schimmelpfenning, has presented himself here, I must believe that the plan concerning an exchange-bargain with General Schimmelpfennig has come to nothing, or that obstacles have [uncertain: stood/come] in the way which must first be cleared away. In the meantime I have, in accordance with Your Most Serene Highness's commands, instructed every individual how he is to play his [uncertain: part] upon the arrival of General v. S. Whether, for the rest, the plan with Sch. is truly of use to Your Serene Highness and fully consistent with Your sense of honour — upon that I have no further judgement to pass, but fall silent in reverence, and follow, so far as it lies in my power, Your most enlightened instructions. Precisely this is the motive of the present express dispatch of a letter from Count v. Wartensleben, who is the most intimate friend of old Stössel, and for whom I first set the matter in train."
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most highly esteemed letter I have received, together with the various enclosures, by the returning foot-messenger. Since neither my first messenger, who was to have set out from there on the 9th and to arrive here on the 12th, nor Sommer, and still less General Schimmelpfenning, has presented himself here, I must believe that the plan concerning an exchange transaction with General Schimmelpfennig has come to nothing, or that obstacles have arisen which must first be cleared out of the way. In the meantime I have, in accordance with Your Most Serene Highness's commands, instructed every individual how he is to play his part upon the arrival of General von S. Whether, for the rest, the plan with Sch. is truly advantageous for Your Serene Highness and fully consistent with your sense of honour — upon that I have no further judgement to offer, but fall silent in reverence, and follow, so far as it lies within my power, your most highly enlightened instructions. This very thing is the motive for the present express dispatch of a letter from Count von Wartensleben, who is the most intimate friend of old Stössel, and for whom I first set the matter in train.",
+   "names": [
+    {
+     "de": "Schimmel-pfenning",
+     "en": "Schimmelpfenning",
+     "kind": "person"
+    },
+    {
+     "de": "Schimmel pfennig",
+     "en": "Schimmelpfennig",
+     "kind": "person"
+    },
+    {
+     "de": "Sommer",
+     "en": "Sommer",
+     "kind": "person"
+    },
+    {
+     "de": "Sch:",
+     "en": "Sch.",
+     "kind": "person"
+    },
+    {
+     "de": "v. S.",
+     "en": "von S.",
+     "kind": "person"
+    },
+    {
+     "de": "Graf v. Wartensleben",
+     "en": "Count von Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Stössels",
+     "en": "Stössel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "9",
+    "12"
+   ]
   },
   {
    "page": 2,
-   "en": "Your Highness is pleased to command that I should not let the business with Stössel and Weigel drop, and for this reason I send the Wartensleben letter — from which Your Serene Highness will be pleased to gather that everything depends solely upon a letter to Stössel from Your Highness's own hand, and = that Your Serene Highness would have no other expedient for satisfying him = and Weigel than by means of the estates in = the Duchy of Warsaw = If this were agreeable to him /Stössel/, he would be requested to enter into negotiations on that head with Triebenfeld and = to inspect the estates. Whether, and what, Your Serene Highness may be minded to do, I leave entirely to Your most enlightened discretion; I only beg to be most graciously instructed thereupon. That, for the rest, no monies are now to be drawn from the estates is not my fault. It is the general distress, which presses even the most propertied and most well-to-do to the ground; that furthermore the lawsuit is [uncertain: buried] or won is just as little of my doing. — Through a whole year I have laboured for Your Serene Highness's welfare and [uncertain: misfortune] with the most glowing zeal, worked without measure, and for it have suffered, with my own family, the most boundless distress — the registrations of the lawsuits are"
+   "en": "Your Highness is pleased to command that I should not let the business with Stössel and Weigel drop, and for this reason I send the Wartensleben letter — from which Your Serene Highness will be pleased to gather that everything depends solely upon a letter to Stössel from Your Highness, and = that Your Serene Highness would have no other expedient for satisfying him = and Weigel than by means of the estates in = the Duchy of Warsaw. = Should this be agreeable to him /Stössel/, he would be requested to enter into negotiation on that head with Triebenfeld and = to view the estates. Whether and what Your Serene Highness is minded to do I leave entirely to your most highly enlightened discretion; I only beg to be most graciously instructed on the point.\n\nThat, for the rest, no moneys are at present to be drawn from the estates is no fault of mine. It is the general distress, which afflicts even the most propertied and most well-to-do and presses them to the ground. That the lawsuit is further buried or won [uncertain: is] just as little my fault. — Through a whole year I have laboured for Your Serene Highness's welfare and [illegible] with the most glowing zeal, worked without measure, and for that suffered, together with my own family, the most boundless distress. — The registrations of the lawsuits are",
+   "names": [
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Wartenslebensche",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Stosseln",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Herzogthum Warschau",
+     "en": "Duchy of Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "made; I have moved heaven and hell to bring the matters onto the court table — presents and gifts avail nothing; what am I to do further? — Already many big talkers have [uncertain: turned to knights] in these affairs and have wished to win everything and bring about the end — at the first onset every one of them still ran his nose against the rock; the consequence was that each made a [uncertain: Prussian] retreat and always left me standing alone. — If, however, Your Serene Highness has anyone who understands it better than I, send him hither for the conduct of the business; with the most faithful heart I will gladly point out everything to him and lay down my pen. The reproach which Your Serene Highness is pleased to make me on account of the lawsuits strikes my heart too deeply; it is a dagger-thrust to me, and from You all too unexpected. — Accustomed to unjust censure, I would watch any prattler yonder spew his venom behind my back unmoved. From Your Serene Highness alone does a reproach of that kind wound too mortally, and You compel me to be that which I have hitherto been to You with the heart most [uncertain: humbly] faithful to me. The Wartensleben letter I beg back by this messenger only. For the rest, the Prefecture demands the original title-deeds of the Zagorow estates (as the one concerning Trąbczyn [uncertain: Betschen] is here); according to the accompanying rescript, should these not be produced, the estates will be confiscated!"
+   "en": "made; I have called upon heaven and hell to bring the matters onto the court table — gifts and presents avail nothing; what am I to do further? — Already many great talkers have [uncertain: taken themselves for knights] in these affairs, meaning to win everything and to bring about the end. — At the first onset every one of them still ran his nose against the rock; the consequence was that each made [uncertain: a Prussian lament] and always left me standing alone. — If, however, Your Serene Highness has anyone who understands it better than I, send him here to conduct the business; with the most faithful heart I will gladly still point out everything to him, and lay down my pen. The reproach which Your Serene Highness is pleased to make me on account of the lawsuits touches my heart too nearly; it is a dagger-thrust to me, and from you all too unexpected. — Accustomed to unjust censure, I should look on unmoved while any babbler there spat his venom behind my back. Only from Your Serene Highness does a reproach of that kind still wound too mortally, and you compel me to be what I have hitherto been to you with the heart most faithful to me [uncertain: to you].\n\nThe Wartensleben letter I beg to have returned by this same messenger. For the rest, the Prefecture demands the original instrument concerning the Zagorowo estates (as the one concerning Trąbczyn and Betsche is here); according to the accompanying rescript, should these not be produced, the estates will be confiscated!",
+   "names": [
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Wartenslebensche",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Betschen",
+     "en": "Betsche",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "Your Serene Highness I beg most graciously to send these along by this express. In conclusion I most obediently enquire whether the lawsuit concerning the Trąbczyn estates is to be prosecuted further, or whether one should have regard to the events of the times and await the matter? The cause is not to be lost. In deepest reverence [uncertain: humility] there remains Your Serene Highness's Blizanow, the 20th December 1811 most humble and obedient v Triebenfeld"
+   "en": "Your Serene Highness I beg most graciously to send the same along by this express.\n\nIn conclusion I enquire most obediently whether the lawsuit concerning the Trąbczyn estates is to be carried on, or whether one should look to the events of the times and await the matter? The case is not to be lost. In deep abasement there remain, Your Serene Highness's\n\nBlizanow\n\nthe 20th of December 1811\n\nmost humble and obedient\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20",
+    "1811"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's most highly esteemed letter I have received, together with the several enclosures, by the returning foot-messenger. Since neither my first messenger — who was to depart from there on the 9th and to arrive here on the 12th — nor Sommer, still less General Schimmelpfenning, has presented himself here, I must believe that the plan concerning an exchange-bargain with General Schimmelpfennig has come to nothing, or that obstacles have [uncertain: stood/come] in the way which must first be cleared away. In the meantime I have, in accordance with Your Most Serene Highness's commands, instructed every individual how he is to play his [uncertain: part] upon the arrival of General v. S. Whether, for the rest, the plan with Sch. is truly of use to Your Serene Highness and fully consistent with Your sense of honour — upon that I have no further judgement to pass, but fall silent in reverence, and follow, so far as it lies in my power, Your most enlightened instructions. Precisely this is the motive of the present express dispatch of a letter from Count v. Wartensleben, who is the most intimate friend of old Stössel, and for whom I first set the matter in train.\n\nYour Highness is pleased to command that I should not let the business with Stössel and Weigel drop, and for this reason I send the Wartensleben letter — from which Your Serene Highness will be pleased to gather that everything depends solely upon a letter to Stössel from Your Highness's own hand, and = that Your Serene Highness would have no other expedient for satisfying him = and Weigel than by means of the estates in = the Duchy of Warsaw = If this were agreeable to him /Stössel/, he would be requested to enter into negotiations on that head with Triebenfeld and = to inspect the estates. Whether, and what, Your Serene Highness may be minded to do, I leave entirely to Your most enlightened discretion; I only beg to be most graciously instructed thereupon. That, for the rest, no monies are now to be drawn from the estates is not my fault. It is the general distress, which presses even the most propertied and most well-to-do to the ground; that furthermore the lawsuit is [uncertain: buried] or won is just as little of my doing. — Through a whole year I have laboured for Your Serene Highness's welfare and [uncertain: misfortune] with the most glowing zeal, worked without measure, and for it have suffered, with my own family, the most boundless distress — the registrations of the lawsuits are\n\nmade; I have moved heaven and hell to bring the matters onto the court table — presents and gifts avail nothing; what am I to do further? — Already many big talkers have [uncertain: turned to knights] in these affairs and have wished to win everything and bring about the end — at the first onset every one of them still ran his nose against the rock; the consequence was that each made a [uncertain: Prussian] retreat and always left me standing alone. — If, however, Your Serene Highness has anyone who understands it better than I, send him hither for the conduct of the business; with the most faithful heart I will gladly point out everything to him and lay down my pen. The reproach which Your Serene Highness is pleased to make me on account of the lawsuits strikes my heart too deeply; it is a dagger-thrust to me, and from You all too unexpected. — Accustomed to unjust censure, I would watch any prattler yonder spew his venom behind my back unmoved. From Your Serene Highness alone does a reproach of that kind wound too mortally, and You compel me to be that which I have hitherto been to You with the heart most [uncertain: humbly] faithful to me. The Wartensleben letter I beg back by this messenger only. For the rest, the Prefecture demands the original title-deeds of the Zagorow estates (as the one concerning Trąbczyn [uncertain: Betschen] is here); according to the accompanying rescript, should these not be produced, the estates will be confiscated!\n\nYour Serene Highness I beg most graciously to send these along by this express. In conclusion I most obediently enquire whether the lawsuit concerning the Trąbczyn estates is to be prosecuted further, or whether one should have regard to the events of the times and await the matter? The cause is not to be lost. In deepest reverence [uncertain: humility] there remains Your Serene Highness's Blizanow, the 20th December 1811 most humble and obedient v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most highly esteemed letter I have received, together with the various enclosures, by the returning foot-messenger. Since neither my first messenger, who was to have set out from there on the 9th and to arrive here on the 12th, nor Sommer, and still less General Schimmelpfenning, has presented himself here, I must believe that the plan concerning an exchange transaction with General Schimmelpfennig has come to nothing, or that obstacles have arisen which must first be cleared out of the way. In the meantime I have, in accordance with Your Most Serene Highness's commands, instructed every individual how he is to play his part upon the arrival of General von S. Whether, for the rest, the plan with Sch. is truly advantageous for Your Serene Highness and fully consistent with your sense of honour — upon that I have no further judgement to offer, but fall silent in reverence, and follow, so far as it lies within my power, your most highly enlightened instructions. This very thing is the motive for the present express dispatch of a letter from Count von Wartensleben, who is the most intimate friend of old Stössel, and for whom I first set the matter in train.\n\nYour Highness is pleased to command that I should not let the business with Stössel and Weigel drop, and for this reason I send the Wartensleben letter — from which Your Serene Highness will be pleased to gather that everything depends solely upon a letter to Stössel from Your Highness, and = that Your Serene Highness would have no other expedient for satisfying him = and Weigel than by means of the estates in = the Duchy of Warsaw. = Should this be agreeable to him /Stössel/, he would be requested to enter into negotiation on that head with Triebenfeld and = to view the estates. Whether and what Your Serene Highness is minded to do I leave entirely to your most highly enlightened discretion; I only beg to be most graciously instructed on the point.\n\nThat, for the rest, no moneys are at present to be drawn from the estates is no fault of mine. It is the general distress, which afflicts even the most propertied and most well-to-do and presses them to the ground. That the lawsuit is further buried or won [uncertain: is] just as little my fault. — Through a whole year I have laboured for Your Serene Highness's welfare and [illegible] with the most glowing zeal, worked without measure, and for that suffered, together with my own family, the most boundless distress. — The registrations of the lawsuits are\n\nmade; I have called upon heaven and hell to bring the matters onto the court table — gifts and presents avail nothing; what am I to do further? — Already many great talkers have [uncertain: taken themselves for knights] in these affairs, meaning to win everything and to bring about the end. — At the first onset every one of them still ran his nose against the rock; the consequence was that each made [uncertain: a Prussian lament] and always left me standing alone. — If, however, Your Serene Highness has anyone who understands it better than I, send him here to conduct the business; with the most faithful heart I will gladly still point out everything to him, and lay down my pen. The reproach which Your Serene Highness is pleased to make me on account of the lawsuits touches my heart too nearly; it is a dagger-thrust to me, and from you all too unexpected. — Accustomed to unjust censure, I should look on unmoved while any babbler there spat his venom behind my back. Only from Your Serene Highness does a reproach of that kind still wound too mortally, and you compel me to be what I have hitherto been to you with the heart most faithful to me [uncertain: to you].\n\nThe Wartensleben letter I beg to have returned by this same messenger. For the rest, the Prefecture demands the original instrument concerning the Zagorowo estates (as the one concerning Trąbczyn and Betsche is here); according to the accompanying rescript, should these not be produced, the estates will be confiscated!\n\nYour Serene Highness I beg most graciously to send the same along by this express.\n\nIn conclusion I enquire most obediently whether the lawsuit concerning the Trąbczyn estates is to be carried on, or whether one should look to the events of the times and await the matter? The case is not to be lost. In deep abasement there remain, Your Serene Highness's\n\nBlizanow\n\nthe 20th of December 1811\n\nmost humble and obedient\n\nv. Triebenfeld",
  "summary_en": "Reports that the projected exchange-bargain with General Schimmelpfennig appears to have collapsed, no messenger, Sommer or the General having appeared, though all parties have been coached as instructed. Forwards, for return by the same messenger, a letter from Count v. Wartensleben, intimate friend of old Stössel, urging that only a letter in the Prince's own hand will bring Stössel and Weigel to accept satisfaction out of the Duchy of Warsaw estates. Resents the reproach over the lawsuits, recounting a year of unrewarded labour and personal distress. The Prefecture demands the original title-deeds of the Zagorow estates on pain of confiscation, and asks whether the Trąbczyn suit should proceed.",
  "summary_de": "Weder der erste Bote noch Sommer oder General v. Schimmelpfennig sind eingetroffen; Triebenfeld hält den geplanten Tauschhandel für gescheitert, hat aber alle Beteiligten instruiert. Beigelegt wird ein zurückerbetener Brief des Grafen v. Wartensleben, wonach alles von einem eigenhändigen Schreiben des Fürsten an Stössel abhänge, der samt Weigel nur durch die Güter im Herzogtum Warschau zu befriedigen sei und diese besichtigen möge. Er verwahrt sich heftig gegen den Vorwurf wegen der Prozesse, verweist auf allgemeine Not und ausbleibende Einkünfte. Die Präfektur fordert die Originalurkunden der Zagorower Güter, sonst drohe Konfiskation; Anfrage wegen Fortführung des Trąbczyner Prozesses."
 }

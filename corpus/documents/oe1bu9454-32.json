@@ -254,24 +254,508 @@
    "doc_line": 97
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbcziner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczin",
+   "kind": "place",
+   "surface_de": "Wrąbczin",
+   "surface_en": "Wrąbczin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emilien[hain]",
+   "kind": "place",
+   "surface_de": "Emilien[hain]",
+   "surface_en": "Emilien[hain]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Augustinow",
+   "kind": "place",
+   "surface_de": "Augustinow",
+   "surface_en": "Augustinow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Allexandrow",
+   "kind": "place",
+   "surface_de": "Allexandrow",
+   "surface_en": "Allexandrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Adolphsberg",
+   "kind": "place",
+   "surface_de": "Adolphsberg",
+   "surface_en": "Adolphsberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Klein Ingelfingen",
+   "kind": "place",
+   "surface_de": "Klein Ingelfingen",
+   "surface_en": "Klein Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Grądzin",
+   "kind": "place",
+   "surface_de": "Grądzin",
+   "surface_en": "Grądzin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Alt Drewie",
+   "kind": "place",
+   "surface_de": "Alt Drewie",
+   "surface_en": "Alt Drewie",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiętnik",
+   "surface_en": "Swiątniki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sophienthal",
+   "kind": "place",
+   "surface_de": "Sophienthal",
+   "surface_en": "Sophienthal",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Klein Schrazberg",
+   "kind": "place",
+   "surface_de": "Klein Schrazberg",
+   "surface_en": "Klein Schrazberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrichsfelde",
+   "kind": "place",
+   "surface_de": "Friedrichsfelde",
+   "surface_en": "Friedrichsfelde",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fürstenfelde",
+   "kind": "place",
+   "surface_de": "Fürstenfelde",
+   "surface_en": "Fürstenfelde",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojer",
+   "surface_en": "Kopojno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Adelow",
+   "kind": "place",
+   "surface_de": "Adelow",
+   "surface_en": "Adelow",
+   "page": 1
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowsky",
+   "surface_en": "Lichnowsky",
+   "page": 1
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 1
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 1
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "rhode",
+   "display": "Rhode",
+   "kind": "person",
+   "surface_de": "Rhode",
+   "surface_en": "Rhode",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Prępiziner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kaemener",
+   "kind": "other",
+   "surface_de": "Kaemener",
+   "surface_en": "Kaemener",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Holland",
+   "kind": "place",
+   "surface_de": "Holland",
+   "surface_en": "Holland",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Müller",
+   "kind": "person",
+   "surface_de": "Müller",
+   "surface_en": "Müller",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord. Upon Your Most Serene Highness's most highly honoured [uncertain: ben] of the 23rd of last month I reply most obediently that it is as soon as possible for me to convey from here in haste to the same another statement than that which Your Princely Highness has already had these 2 years past; only the Trąbcziner revenues are to be brought into deduction, whereupon the sum of yield of the Zagorower estates now comes out thus. So far as remains with me, however, the lordship of Zagorowo will amount to [uncertain: restiren]: 1.) the propination rights 5000 Rthl yearly; 2.) interest from the old subjects according to the [uncertain: Ges-]contract 2000; 3.) Olesnica, where there are now some 19,000 Rthl first [text as written], according to the hereditary-lease contract 2000; 4) Wrąbczin interest according to the hereditary-lease contract 1000; 5. Emilien[hain], Augustinow, Allexandrow, Adolphsberg, contract 3000 (interest [text lost] likewise); 6.) Klein Ingelfingen and Grądzin interest according to the hereditary-lease contract 2000; 7.) Swięcia already yields interest according to the hereditary-lease contract 1800; 8. Alt Drewie, which is not yet built up, but nevertheless interest 1800; 9.) Swiętnik the same 1800; 10.) Sophienthal yields interest according to the hereditary-lease contract 1000; 11.) Klein Schrazberg, Friedrichsfelde, Fürstenfelde etc. the same 2000; 12.) Kopojer and Adelow according to the lease and hereditary-lease contract 2000; 13.) Zagorow according to deed 300; 14.) jurisdictional dues, Laudemien, hunting and small usages, on average 2000 = 27700. All taxes and costs are borne, according to the hereditary-lease contracts, by the hereditary lessees, and therefore nothing may be brought into deduction from the revenues. Debts encumber the considerable estates, according to the mortgage certificate and the judicial instrument between only [uncertain: nur] and the Oppenheimer, only effectively: 1.) Lichnowsky, which has been transferred to Oppenheimer, 32300 Rthl; 2.) Meyer Bernhard 5600; 3.) for Glenck the same 20000; 4.) the Invalids' Fund, which the Jew Oppenheimer took over and has not paid, 50000; 5.) costs which the Jew paid, 1400; 6.) to Bernhardi likewise 4500; 7. to [uncertain: Eis] Serene Highness by the Fürther bond, that 15000; 8. to sundry items, as costs to Your Serene Highness through [illegible] the 20000. Sum 148,800 Rthl. This amounts, in yearly interest reckoned at 5 per cent, to 7440. Accordingly Your Serene Highness's treasury must yearly retain 20260."
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord.\n\nIn reply to Your Most Serene Highness's most honoured letter of the 23rd of last month I most obediently answer that it is as soon as possible for me from here to transmit to the same in haste another statement of account than the one which Your Princely Highness has already had these 2 years; only the Trąbczyn revenues are to be deducted, and thus the sum of yield of the Zagorowo estates comes out thus. So far as I recall, meanwhile, the lordship of Zagorowo will remain owing[?]\n\n1.) the propination rights 5000 Rthl annually\n\n2.) Interest from the old subjects according to the contract of dues 2000\n\n3.) Olesnica, where there are now some 19,000 Rthl first, according to hereditary lease contract 2000\n\n4) Wrąbczin interest according to hereditary lease contract 1000\n\n5. Emilien[hain] Augustinow Allexandrow Adolphsberg contract 3000 (interest [text lost] likewise)\n\n6.) Klein Ingelfingen and Grądzin interest according to hereditary lease contract 2000\n\n7.) Swięcia already pays interest according to hereditary lease contract 1800\n\n8. Alt Drewie, which is not yet built up, but interest 1800\n\n9.) Swiątniki the same 1800\n\n10.) Sophienthal pays interest according to hereditary lease contract 1000\n\n11.) Klein Schrazberg, Friedrichsfelde, Fürstenfelde etc. the same 2000\n\n12.) Kopojno and Adelow according to lease and hereditary lease contract 2000\n\n13.) Zagorowo according to deed 300\n\n14.) Jurisdictional dues, transfer fees (Laudemia), hunting and small usages, on average 2000\n\n= 27700 All taxes and costs are borne, under the hereditary lease contracts, by the hereditary lessees, and therefore nothing may be deducted from the revenues.\n\nDebts encumber the considerable estates according to the mortgage certificate and the judicial instrument between only and the Oppenheimer only effectively\n\n1.) Lichnowsky, which has been transferred to Oppenheimer 32300 Rthl\n\n2.) Meyer Bernhard 5600\n\n3.) for Glenck the same 20000\n\n4.) The Invalids' Fund, which the Jew Oppenheimer took over and has not paid. 50000\n\n5.) Costs which the Jew; paid 1400\n\n6.) To Bernhardi likewise 4500\n\n7. To His Serene Highness by further bond, that 15000\n\n8. To sundry items, as costs to Your Serene Highness through me the 20000 Sum 148,800. Rthl this amounts, annual interest reckoned at 5 per cent, to 7440. Accordingly there must remain to Your Serene Highness's treasury annually 20260",
+   "names": [
+    {
+     "de": "Trąbcziner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczin",
+     "en": "Wrąbczin",
+     "kind": "place"
+    },
+    {
+     "de": "Emilien[hain]",
+     "en": "Emilien[hain]",
+     "kind": "place"
+    },
+    {
+     "de": "Augustinow",
+     "en": "Augustinow",
+     "kind": "place"
+    },
+    {
+     "de": "Allexandrow",
+     "en": "Allexandrow",
+     "kind": "place"
+    },
+    {
+     "de": "Adolphsberg",
+     "en": "Adolphsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Ingelfingen",
+     "en": "Klein Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Grądzin",
+     "en": "Grądzin",
+     "kind": "place"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Alt Drewie",
+     "en": "Alt Drewie",
+     "kind": "place"
+    },
+    {
+     "de": "Swiętnik",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "Sophienthal",
+     "en": "Sophienthal",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Schrazberg",
+     "en": "Klein Schrazberg",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrichsfelde",
+     "en": "Friedrichsfelde",
+     "kind": "place"
+    },
+    {
+     "de": "Fürstenfelde",
+     "en": "Fürstenfelde",
+     "kind": "place"
+    },
+    {
+     "de": "Kopojer",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Adelow",
+     "en": "Adelow",
+     "kind": "place"
+    },
+    {
+     "de": "Lichnowsky",
+     "en": "Lichnowsky",
+     "kind": "person"
+    },
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "23",
+    "2",
+    "5000",
+    "2000",
+    "19,000",
+    "2000",
+    "1000",
+    "3000",
+    "2000",
+    "1800",
+    "1800",
+    "1800",
+    "1000",
+    "2000",
+    "2000",
+    "300",
+    "2000",
+    "27700",
+    "32300",
+    "5600",
+    "20000",
+    "50000",
+    "1400",
+    "4500",
+    "15000",
+    "20000",
+    "148,800",
+    "5",
+    "7440",
+    "20260"
+   ]
   },
   {
    "page": 2,
-   "en": "[uncertain: Wir] moreover, a mortgage of 250,000 has been [uncertain: gewöhnet/granted] to the Jew Oppenheimer according to the judicial instrument annexed herewith, which sum, with the 50 [uncertain: xr] against the Invalids' Fund, would come to 160000 Rthl [illegible]; but since the Jew has paid neither the 50000 [illegible] against the Invalids' Fund nor a jot of the interest, and then they stand upon the 7th [illegible] I do not demand, the 11,200 fall away and to Your Serene Highness's benefit. I have now sued the said Jew on this account, and I hope to finalise the matter while I am still here. It is therefore, as [Your] Serene Highness will be pleased to satisfy yourself here, the true sum of 148,800 rl. that would have to be discharged. Thereupon the mortgage now registered [uncertain: verkämmerte] for 250000 m. is entirely, wholly and altogether free, and all the [uncertain: unschende] debts fully followed. The judicially attested mortgage certificates, annexed in copy, do indeed still mention at the outset the canons and competences; but these, as said above, the hereditary lessees have entirely taken over, and they will never again fall as a burden upon Your Serene Highness. Finally I note further that considerable sums must still be paid to Your [uncertain: dem Flauche Eröhn], namely marriage-money and hereditary-lease monies which have remained in arrears since the war — unless indeed the various plenipotentiaries have already appropriated a part of them to themselves. I for my part have levied nothing from thence these 2 years, have seen no man from there, and, for all the many messengers sent [uncertain: von die Haaren], have not been able to obtain the least intelligence — because she had now entered into correspondence with Your Serene Highness herself, I have, without [illegible] words, paid express-courier monies, small capital sums and lawsuit costs, and also considerable interest, out of my own pocket, and have had them paid through Professor Rhode; at present, however, I am [text lost]. As for the rest, as concerns the Prępiziner estates, these are, according to my first conviction, not lost). That I should go to the estates myself I cannot for the present, for reasons; but I shall be heard with the French authorities and in all quarters more than Your Serene Highness may think. As regards the Kaemener affair, Your Serene Highness has answered just as I did; meanwhile it appears to me that"
+   "en": "We upon is to the Jew Oppenheimer a mortgage of\n\n250,000 accustomed according to the enclosed judicial instrument, which of the sum, with the 50 kreuzer on the Invalids' Fund of 160000 Rthl would be asked; but since the Jew has paid neither the 50000 etc. on the Invalids' Fund nor still less the interest, then they upon the\n\n7. does not stand claim, and the 11,200 fall away and to Your Serene Highness's benefit.\n\nI have now sued his Jew on that account and I hope to finalise the matter yet during my being here.\n\nIt is therefore, as Your Serene Highness may be pleased to satisfy yourself here, the actual sum of 148,800 Rthl - which would have to be discharged. Thereupon the mortgage now encumbered to the amount of 250000 is entirely and altogether free everywhere and all the [uncertain: encumbering] debts wholly followed. The judicially attested mortgage certificates enclosed in copy do indeed at the beginning still state the canons and competences; but these, as said before, the hereditary lessees have entirely taken over and they will never again fall as a burden upon Your Serene Highness. Finally I note further that there must still be paid to [illegible] considerable sums, as marriage-settlement and hereditary-lease monies which remained in arrears after the war, unless it be that the several general plenipotentiaries have already appropriated a part of them to themselves. I for my part have levied nothing from there in 2 years, have seen no person from there, and despite many a messenger sent have not been able to obtain the least intelligence from [uncertain: the hair] - because they had now placed themselves in correspondence with Your Serene Highness yourself; I have, without [illegible] words, paid express-courier monies, small sums of capital and legal costs, and also considerable interest, out of my own pocket, and have had them paid through Professor Rhode; but at present I am I should like. As for the rest, as concerns the Trąbczyn estates, they are, according to my first conviction, not lost) to go upon the estates myself I cannot for reasons for the present, but I shall with the French authorities and in all places be more heard than Your Serene Highness may think. As concerns the Kaemener affair, Your Serene Highness has answered just as I did; however it seems to me that",
+   "names": [
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Rhode",
+     "en": "Rhode",
+     "kind": "person"
+    },
+    {
+     "de": "Prępiziner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kaemener",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "250,000",
+    "50",
+    "160000",
+    "50000",
+    "7",
+    "11,200",
+    "148,800",
+    "250000",
+    "2"
+   ]
   },
   {
    "page": 3,
-   "en": "the period for [uncertain: Edictions] fixed in the contract had also plainly expired. In closing I must further adduce here that I was on the point of obtaining a capital of 200000 Rthl upon the mortgage out of Holland, through a couple of [uncertain: Müller] now staying here. But if Your Serene Highness now has closer prospects and certainty of drawing such a capital there, then be pleased to write to us at the very earliest, so that I do not put myself to needless costs and vexation here. With unbounded veneration and the deepest respect I remain Your Serene Highness's Berlin, the 3rd April 1808 faithful most humble and obedient servant v Triebenfeld"
+   "en": "the period for issuing the edict fixed in the contract had also already expired. In closing I must here further adduce that I was on the point of obtaining a capital of 200000 Rthl upon the mortgage from Holland, through a couple of Müllers now staying here. But if Your Serene Highness now has nearer prospects and certainty there of drawing such a capital, then be pleased to write to us at the very earliest, so that I do not put myself here to needless costs and vexation. With unbounded veneration and the deepest respect I remain Your Serene Highness's\n\nBerlin\n\nthe 3rd of April 1808\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Holland",
+     "en": "Holland",
+     "kind": "place"
+    },
+    {
+     "de": "Müller",
+     "en": "Müller",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "200000",
+    "3",
+    "1808"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord. Upon Your Most Serene Highness's most highly honoured [uncertain: ben] of the 23rd of last month I reply most obediently that it is as soon as possible for me to convey from here in haste to the same another statement than that which Your Princely Highness has already had these 2 years past; only the Trąbcziner revenues are to be brought into deduction, whereupon the sum of yield of the Zagorower estates now comes out thus. So far as remains with me, however, the lordship of Zagorowo will amount to [uncertain: restiren]: 1.) the propination rights 5000 Rthl yearly; 2.) interest from the old subjects according to the [uncertain: Ges-]contract 2000; 3.) Olesnica, where there are now some 19,000 Rthl first [text as written], according to the hereditary-lease contract 2000; 4) Wrąbczin interest according to the hereditary-lease contract 1000; 5. Emilien[hain], Augustinow, Allexandrow, Adolphsberg, contract 3000 (interest [text lost] likewise); 6.) Klein Ingelfingen and Grądzin interest according to the hereditary-lease contract 2000; 7.) Swięcia already yields interest according to the hereditary-lease contract 1800; 8. Alt Drewie, which is not yet built up, but nevertheless interest 1800; 9.) Swiętnik the same 1800; 10.) Sophienthal yields interest according to the hereditary-lease contract 1000; 11.) Klein Schrazberg, Friedrichsfelde, Fürstenfelde etc. the same 2000; 12.) Kopojer and Adelow according to the lease and hereditary-lease contract 2000; 13.) Zagorow according to deed 300; 14.) jurisdictional dues, Laudemien, hunting and small usages, on average 2000 = 27700. All taxes and costs are borne, according to the hereditary-lease contracts, by the hereditary lessees, and therefore nothing may be brought into deduction from the revenues. Debts encumber the considerable estates, according to the mortgage certificate and the judicial instrument between only [uncertain: nur] and the Oppenheimer, only effectively: 1.) Lichnowsky, which has been transferred to Oppenheimer, 32300 Rthl; 2.) Meyer Bernhard 5600; 3.) for Glenck the same 20000; 4.) the Invalids' Fund, which the Jew Oppenheimer took over and has not paid, 50000; 5.) costs which the Jew paid, 1400; 6.) to Bernhardi likewise 4500; 7. to [uncertain: Eis] Serene Highness by the Fürther bond, that 15000; 8. to sundry items, as costs to Your Serene Highness through [illegible] the 20000. Sum 148,800 Rthl. This amounts, in yearly interest reckoned at 5 per cent, to 7440. Accordingly Your Serene Highness's treasury must yearly retain 20260.\n\n[uncertain: Wir] moreover, a mortgage of 250,000 has been [uncertain: gewöhnet/granted] to the Jew Oppenheimer according to the judicial instrument annexed herewith, which sum, with the 50 [uncertain: xr] against the Invalids' Fund, would come to 160000 Rthl [illegible]; but since the Jew has paid neither the 50000 [illegible] against the Invalids' Fund nor a jot of the interest, and then they stand upon the 7th [illegible] I do not demand, the 11,200 fall away and to Your Serene Highness's benefit. I have now sued the said Jew on this account, and I hope to finalise the matter while I am still here. It is therefore, as [Your] Serene Highness will be pleased to satisfy yourself here, the true sum of 148,800 rl. that would have to be discharged. Thereupon the mortgage now registered [uncertain: verkämmerte] for 250000 m. is entirely, wholly and altogether free, and all the [uncertain: unschende] debts fully followed. The judicially attested mortgage certificates, annexed in copy, do indeed still mention at the outset the canons and competences; but these, as said above, the hereditary lessees have entirely taken over, and they will never again fall as a burden upon Your Serene Highness. Finally I note further that considerable sums must still be paid to Your [uncertain: dem Flauche Eröhn], namely marriage-money and hereditary-lease monies which have remained in arrears since the war — unless indeed the various plenipotentiaries have already appropriated a part of them to themselves. I for my part have levied nothing from thence these 2 years, have seen no man from there, and, for all the many messengers sent [uncertain: von die Haaren], have not been able to obtain the least intelligence — because she had now entered into correspondence with Your Serene Highness herself, I have, without [illegible] words, paid express-courier monies, small capital sums and lawsuit costs, and also considerable interest, out of my own pocket, and have had them paid through Professor Rhode; at present, however, I am [text lost]. As for the rest, as concerns the Prępiziner estates, these are, according to my first conviction, not lost). That I should go to the estates myself I cannot for the present, for reasons; but I shall be heard with the French authorities and in all quarters more than Your Serene Highness may think. As regards the Kaemener affair, Your Serene Highness has answered just as I did; meanwhile it appears to me that\n\nthe period for [uncertain: Edictions] fixed in the contract had also plainly expired. In closing I must further adduce here that I was on the point of obtaining a capital of 200000 Rthl upon the mortgage out of Holland, through a couple of [uncertain: Müller] now staying here. But if Your Serene Highness now has closer prospects and certainty of drawing such a capital there, then be pleased to write to us at the very earliest, so that I do not put myself to needless costs and vexation here. With unbounded veneration and the deepest respect I remain Your Serene Highness's Berlin, the 3rd April 1808 faithful most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord.\n\nIn reply to Your Most Serene Highness's most honoured letter of the 23rd of last month I most obediently answer that it is as soon as possible for me from here to transmit to the same in haste another statement of account than the one which Your Princely Highness has already had these 2 years; only the Trąbczyn revenues are to be deducted, and thus the sum of yield of the Zagorowo estates comes out thus. So far as I recall, meanwhile, the lordship of Zagorowo will remain owing[?]\n\n1.) the propination rights 5000 Rthl annually\n\n2.) Interest from the old subjects according to the contract of dues 2000\n\n3.) Olesnica, where there are now some 19,000 Rthl first, according to hereditary lease contract 2000\n\n4) Wrąbczin interest according to hereditary lease contract 1000\n\n5. Emilien[hain] Augustinow Allexandrow Adolphsberg contract 3000 (interest [text lost] likewise)\n\n6.) Klein Ingelfingen and Grądzin interest according to hereditary lease contract 2000\n\n7.) Swięcia already pays interest according to hereditary lease contract 1800\n\n8. Alt Drewie, which is not yet built up, but interest 1800\n\n9.) Swiątniki the same 1800\n\n10.) Sophienthal pays interest according to hereditary lease contract 1000\n\n11.) Klein Schrazberg, Friedrichsfelde, Fürstenfelde etc. the same 2000\n\n12.) Kopojno and Adelow according to lease and hereditary lease contract 2000\n\n13.) Zagorowo according to deed 300\n\n14.) Jurisdictional dues, transfer fees (Laudemia), hunting and small usages, on average 2000\n\n= 27700 All taxes and costs are borne, under the hereditary lease contracts, by the hereditary lessees, and therefore nothing may be deducted from the revenues.\n\nDebts encumber the considerable estates according to the mortgage certificate and the judicial instrument between only and the Oppenheimer only effectively\n\n1.) Lichnowsky, which has been transferred to Oppenheimer 32300 Rthl\n\n2.) Meyer Bernhard 5600\n\n3.) for Glenck the same 20000\n\n4.) The Invalids' Fund, which the Jew Oppenheimer took over and has not paid. 50000\n\n5.) Costs which the Jew; paid 1400\n\n6.) To Bernhardi likewise 4500\n\n7. To His Serene Highness by further bond, that 15000\n\n8. To sundry items, as costs to Your Serene Highness through me the 20000 Sum 148,800. Rthl this amounts, annual interest reckoned at 5 per cent, to 7440. Accordingly there must remain to Your Serene Highness's treasury annually 20260\n\nWe upon is to the Jew Oppenheimer a mortgage of\n\n250,000 accustomed according to the enclosed judicial instrument, which of the sum, with the 50 kreuzer on the Invalids' Fund of 160000 Rthl would be asked; but since the Jew has paid neither the 50000 etc. on the Invalids' Fund nor still less the interest, then they upon the\n\n7. does not stand claim, and the 11,200 fall away and to Your Serene Highness's benefit.\n\nI have now sued his Jew on that account and I hope to finalise the matter yet during my being here.\n\nIt is therefore, as Your Serene Highness may be pleased to satisfy yourself here, the actual sum of 148,800 Rthl - which would have to be discharged. Thereupon the mortgage now encumbered to the amount of 250000 is entirely and altogether free everywhere and all the [uncertain: encumbering] debts wholly followed. The judicially attested mortgage certificates enclosed in copy do indeed at the beginning still state the canons and competences; but these, as said before, the hereditary lessees have entirely taken over and they will never again fall as a burden upon Your Serene Highness. Finally I note further that there must still be paid to [illegible] considerable sums, as marriage-settlement and hereditary-lease monies which remained in arrears after the war, unless it be that the several general plenipotentiaries have already appropriated a part of them to themselves. I for my part have levied nothing from there in 2 years, have seen no person from there, and despite many a messenger sent have not been able to obtain the least intelligence from [uncertain: the hair] - because they had now placed themselves in correspondence with Your Serene Highness yourself; I have, without [illegible] words, paid express-courier monies, small sums of capital and legal costs, and also considerable interest, out of my own pocket, and have had them paid through Professor Rhode; but at present I am I should like. As for the rest, as concerns the Trąbczyn estates, they are, according to my first conviction, not lost) to go upon the estates myself I cannot for reasons for the present, but I shall with the French authorities and in all places be more heard than Your Serene Highness may think. As concerns the Kaemener affair, Your Serene Highness has answered just as I did; however it seems to me that\n\nthe period for issuing the edict fixed in the contract had also already expired. In closing I must here further adduce that I was on the point of obtaining a capital of 200000 Rthl upon the mortgage from Holland, through a couple of Müllers now staying here. But if Your Serene Highness now has nearer prospects and certainty there of drawing such a capital, then be pleased to write to us at the very earliest, so that I do not put myself here to needless costs and vexation. With unbounded veneration and the deepest respect I remain Your Serene Highness's\n\nBerlin\n\nthe 3rd of April 1808\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Answering an enquiry of the 23rd, Triebenfeld sets out a fresh revenue statement for the Zagorowo lordship, itemising propination rights, hereditary-lease interest from Olesnica, Wrąbczin, Emilienhain, Klein Ingelfingen, Swięcia, Sophienthal, Kopojer and others, and jurisdictional dues, totalling 27,700 Rthl, against effective debts of 148,800 Rthl (Lichnowsky, Glenck, the Invalids' Fund, Bernhardi), leaving 20,260. He reports suing the Jew Oppenheimer over the unpaid 250,000 mortgage, arrears of marriage and hereditary-lease monies, expenses met from his own pocket, the Prępiziner estates, and a possible 200,000 Rthl loan from Holland.",
  "summary_de": "Antwort auf die fürstliche Anfrage vom 23. v. M. mit einer neuen Ertragsaufstellung der Herrschaft Zagorowo (ohne die Trąbcziner Einkünfte): Propinationsrecht 5000 Rthl, Zinsen der Erbpachtcontracte für Olesnica, Wrąbczin, Emilienhain, Augustinow, Allexandrow, Adolphsberg, Klein Ingelfingen, Grądzin, Swięcia, Alt Drewie, Swiętnik, Sophienthal, Klein Schrazberg, Kopojer u. a., Gerichtsgebühren und Laudemien, zusammen 27700 Rthl; Lasten tragen die Erbpächter. Schulden von 148800 Rthl (Lichnowsky, Meyer Bernhard, Glenck, Invalidenfonds, Bernhardi, Fürther Obligation) mit 7440 Rthl Zinsen; Klage gegen den Juden Oppenheimer wegen der Hypothek von 250000 Rthl; Aussicht auf 200000 Rthl Capital aus Holland."
 }

@@ -1,15 +1,53 @@
 status: draft
 segments:
 - page: 1
-  en: 'Late yesterday evening I received by express courier the enclosed letter from the said Kunckel,
-    which I herewith [uncertain: at last] submit to Your Most Serene Highness, and I beg for Your High
-    instructions as to my conduct. It is indeed necessary to come to an arrangement with von Otocki, and
-    if this could be brought about by an amicable settlement, such that Otocki would be content with 1500
-    or 2000 ℔, it would be an advantageous and desirable thing. I leave it to Your Most Serene Highness''s
-    highest [uncertain: consideration] — whether Kunckel is to be given the full right to settle. That,
-    moreover, Kunckel and Jentsch appear to be acting so much at cross purposes with one another arouses
-    my great apprehension — I fear that Kunckel, through his vehement conduct, will do foolish things,
-    and Jentsch, out of malice, will make intrigues, which may prove prejudicial. My humble counsel, which
-    is not to be misapprehended, is to instruct these people well and to keep them within their bounds.
-    Glenck did not come to me again yesterday, and has even left the Kontopp accounts here, which would
-    have given information upon everything in this matter. v Triebenfeld, Breslau, the 23rd of April 1804'
+  en: 'Late yesterday evening I received by express courier the enclosed letter from the aforesaid Kunckel,
+    which I herewith [uncertain: at last] submit to Your Most Serene Highness, requesting Your high instructions
+    as to my conduct. It is indeed necessary to reach an arrangement with von Otocki, and if this could
+    be effected by amicable settlement, so that Otocki would be content with 1500 or 2000 ℔, it would
+    be an advantageous and desirable thing. I leave it to Your Most Serene Highness''s highest discretion
+    whether the power of attorney to settle should be given to Kunckel. That Kunckel and Jentsch moreover
+    appear to be acting so much against one another causes me great concern – I fear that Kunckel, through
+    his vehement bearing, will do foolish things, and Jentsch out of malice will make intrigues, which
+    may prove prejudicial. My unpresumptuous counsel is to instruct these men well and to keep them within
+    their bounds.
+
+
+    Glenck did not come to me again yesterday, and has even left the Kontop accounts here, which would
+    have given information upon everything in this matter.
+
+
+    von Triebenfeld
+
+
+    Breslau, 23rd April 1804'
+  names:
+  - de: Kunckel
+    en: Kunckel
+    kind: person
+  - de: v. Otocki
+    en: von Otocki
+    kind: person
+  - de: Otocki
+    en: Otocki
+    kind: person
+  - de: Jentsch
+    en: Jentsch
+    kind: person
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Kontopper
+    en: Kontop
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  numbers:
+  - '1500'
+  - '2000'
+  - 23ten
+  - '1804'

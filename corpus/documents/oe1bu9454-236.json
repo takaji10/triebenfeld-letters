@@ -150,20 +150,133 @@
    "doc_line": 44
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sir von Sobottendorff",
+   "kind": "person",
+   "surface_de": "Herr v. Sobottendorff",
+   "surface_en": "Sir von Sobottendorff",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr Weigel",
+   "kind": "person",
+   "surface_de": "Hrn Weigel",
+   "surface_en": "Mr Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! The good old Weigel has been here. He has handed over to me his whole business, which he has with Your Serene Highness. In accordance with our agreement I am to travel with him to Your Serene Highness as soon as I recover — the more quickly God now helps me, the sooner I shall be with the old house at Your Serene Highness's. His offers are good and certainly advantageous for Your Serene Highness. Herr v. Sobottendorff may set his mind at rest; his affair too can be settled, were I to come there. The papers in question I await full of longing, in order to keep the machine in motion. May Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the Prefect. Honrichs is a wretched villain. For the rest, I have just this moment heard a sad piece of news: my son, who has often been together with Cosmar,"
+   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nGood old Weigel has been here. He has handed over to me all his affairs which he has with Your Serene Highness. According to our agreement I am to travel with him to Your Serene Highness as soon as I recover — the sooner God now helps me, the earlier I shall be with the old house at Your Serene Highness's. His offers are good and certainly advantageous for Your Serene Highness.\n\nSir von Sobottendorff may be easy; his affair too can be settled once I get there. I look forward most longingly to the papers in question, so as to keep the machine in motion. Let Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the prefect. Honrichs is a wretched scoundrel.\n\nFor the rest, I have just now heard a sad piece of news. My son, who has often been together with Cosmar,",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Herr v. Sobottendorff",
+     "en": "Sir von Sobottendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "has received from him the splendid assurance that not a single soul to whom Your Serene Highness is indebted will ever receive one Groschen. He added that your father too would get [it] — not by a heller. For all men who have ever served and helped the Prince are utterly ruined and lose what is theirs. God grant this may be averted and make a liar of [uncertain: Hoimar / Cosmar]. Only the documents; and I beg most deeply and obediently for the letter to the Prefect. I remain, until death, Your Serene Highness's [servant]. Herr Weigel wishes to buy; therefore I have deferred the lease contract. He follows my advice — I must first learn Your Serene Highness's sentiments and the circumstances, particularly how you stand with your children. The payment will then be found. Blizanow, the 41st of July 1812, humble and obedient servant v Triebenfeld"
+   "en": "has received from him the splendid assurance that not a single person to whom Your Serene Highness is indebted will ever receive one Groschen. He added that your father too will get not a heller. For all persons who have ever served and helped the Prince are utterly ruined and lose what is theirs. May God prevent this and make a liar of Cosmar.\n\nOnly the documents, and the letter to the prefect, I most deeply and obediently beg for. I remain, until death, Your Serene Highness's. Mr Weigel wishes to buy; therefore I have deferred the lease contract. He follows my advice — I must first learn Your Serene Highness's sentiments and the circumstances, particularly how you stand with your children. The payment will then be found.\n\nBlizanow, the 41st of July 1812\n\nhumble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Hrn Weigel",
+     "en": "Mr Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "41",
+    "1812"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! The good old Weigel has been here. He has handed over to me his whole business, which he has with Your Serene Highness. In accordance with our agreement I am to travel with him to Your Serene Highness as soon as I recover — the more quickly God now helps me, the sooner I shall be with the old house at Your Serene Highness's. His offers are good and certainly advantageous for Your Serene Highness. Herr v. Sobottendorff may set his mind at rest; his affair too can be settled, were I to come there. The papers in question I await full of longing, in order to keep the machine in motion. May Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the Prefect. Honrichs is a wretched villain. For the rest, I have just this moment heard a sad piece of news: my son, who has often been together with Cosmar,\n\nhas received from him the splendid assurance that not a single soul to whom Your Serene Highness is indebted will ever receive one Groschen. He added that your father too would get [it] — not by a heller. For all men who have ever served and helped the Prince are utterly ruined and lose what is theirs. God grant this may be averted and make a liar of [uncertain: Hoimar / Cosmar]. Only the documents; and I beg most deeply and obediently for the letter to the Prefect. I remain, until death, Your Serene Highness's [servant]. Herr Weigel wishes to buy; therefore I have deferred the lease contract. He follows my advice — I must first learn Your Serene Highness's sentiments and the circumstances, particularly how you stand with your children. The payment will then be found. Blizanow, the 41st of July 1812, humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nGood old Weigel has been here. He has handed over to me all his affairs which he has with Your Serene Highness. According to our agreement I am to travel with him to Your Serene Highness as soon as I recover — the sooner God now helps me, the earlier I shall be with the old house at Your Serene Highness's. His offers are good and certainly advantageous for Your Serene Highness.\n\nSir von Sobottendorff may be easy; his affair too can be settled once I get there. I look forward most longingly to the papers in question, so as to keep the machine in motion. Let Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the prefect. Honrichs is a wretched scoundrel.\n\nFor the rest, I have just now heard a sad piece of news. My son, who has often been together with Cosmar,\n\nhas received from him the splendid assurance that not a single person to whom Your Serene Highness is indebted will ever receive one Groschen. He added that your father too will get not a heller. For all persons who have ever served and helped the Prince are utterly ruined and lose what is theirs. May God prevent this and make a liar of Cosmar.\n\nOnly the documents, and the letter to the prefect, I most deeply and obediently beg for. I remain, until death, Your Serene Highness's. Mr Weigel wishes to buy; therefore I have deferred the lease contract. He follows my advice — I must first learn Your Serene Highness's sentiments and the circumstances, particularly how you stand with your children. The payment will then be found.\n\nBlizanow, the 41st of July 1812\n\nhumble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports that old Weigel has been at Blizanow and made over his whole business with the Prince, with offers judged advantageous; Weigel now wishes to buy rather than lease, so the lease contract has been deferred pending the Prince's sentiments and his standing with his children. Triebenfeld promises to travel to the Prince with Weigel once his health allows, reassures Herr v. Sobottendorff, presses urgently for the awaited papers and for the enclosed letter to the Prefect to be signed and returned by express, calls Honrichs a villain, and relays Cosmar's reported boast that no creditor of the Prince will ever be paid a Groschen.",
  "summary_de": "Bericht über den Besuch des alten Weigel, der Triebenfeld sein ganzes Geschäft mit dem Fürsten übertragen hat; dessen Angebote seien vorteilhaft, da Weigel kaufen wolle, weshalb der Pachtvertrag zurückgestellt wurde – erst seien die Absichten des Fürsten und dessen Verhältnis zu den Kindern zu erfahren. Auch die Sache des Herrn v. Sobottendorff lasse sich bei einer Reise regeln. Dringende Bitte um die erwarteten Papiere und um Unterzeichnung des beiliegenden Schreibens an den Präfekten per Estafette. Klage über Honrichs; Cosmar habe geäußert, kein Gläubiger des Fürsten erhalte je einen Groschen."
 }

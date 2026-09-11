@@ -1,29 +1,38 @@
 status: draft
 segments:
 - page: 1
-  en: 'Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests,
-
-
-    Since I know that Your Right Honourable takes an interest in news of my most gracious Lord, I permit
-    myself to convey to the same the assurance that His Serene Highness is almost entirely healed of the
-    affliction on his foot, and is otherwise in perfectly good health; the foot is only very little more
-    swollen, and causes no pain. His Serene Highness wishes to be most kindly commended [to you]; the
-    Order of St Andrew has given pleasure, yet the obliging conduct of His Majesty the Emperor has produced
-    still more gratification.'
+  en: 'Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. Since I know that news
+    of my most gracious Lord is of interest to Your Right Honourable, I take the liberty of conveying
+    to you the assurance that His Serene Highness is almost entirely healed of the [uncertain: Bibel]
+    on his foot, and in all else perfectly well; the foot is only a little more swollen, and causes no
+    pain. His Serene Highness wishes to be most kindly commended to you; the Order of St Andrew has given
+    pleasure, yet the gracious conduct of His Majesty the Emperor has afforded still more gratification.'
+  names:
+  - de: Kriegs und Forst Rath
+    en: Councillor of War and Forests
+    kind: other
+  - de: Andreas Orden
+    en: Order of St Andrew
+    kind: other
 - page: 2
-  en: 'The Prince is quite enchanted by this young and obliging monarch. In Breslau too the Emperor is
-    said to have spoken of His Serene Highness in the most flattering terms. Today the Regiment Hohenlohe
-    marched through here; the Prince had ridden out to meet it. Tomorrow the Duke of Weimar is expected
-    here. I commend myself to Your Right Honourable''s favour, and have the honour to remain, in the most
-    unbounded esteem,
-
-
-    Your Right Honourable''s
-
-
-    Erfurt, 24 Nov. 1805
-
-
-    humble and obedient servant
-
-    A. Hahn'
+  en: The Prince is quite enchanted by this young and gracious monarch. In Breslau too the Emperor is
+    said to have spoken of His Serene Highness in the most flattering terms.
+  names:
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: HehenLohn
+    en: HehenLohn
+    kind: other
+  - de: Wennar
+    en: Wennar
+    kind: place
+  - de: Erfurt
+    en: Erfurt
+    kind: place
+  - de: A. Hahn
+    en: A. Hahn
+    kind: person
+  numbers:
+  - '24'
+  - '1805'

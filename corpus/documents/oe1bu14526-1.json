@@ -67,16 +67,97 @@
    "doc_line": 3
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the criminal-court councillor in Grimm",
+   "kind": "person",
+   "surface_de": "H. Criminal in Grimm",
+   "surface_en": "the criminal-court councillor in Grimm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Wittowes",
+   "surface_en": "Witów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breſslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wilhelmsruh",
+   "kind": "place",
+   "surface_de": "Wilhelmsruh",
+   "surface_en": "Wilhelmsruh",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breschlau",
+   "surface_en": "Breslau",
+   "page": 1
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "I take the liberty of adding a pressing request to the enclosed [uncertain: deeds], upon their delivery to Herr Criminal[-Rath] in Grimm, namely that you might yourself speak with him concerning the following circumstance.\n\nThese Wittowes files have long been sought in the Trąbczyn registry, where I myself supposed and maintained [them to be]. But they were, upon my moving out\n\nthat they would be lying there.\n\nfrom my lodging at Breſslau to Wilhelmsruh, found among my wife's papers, because these deeds were received by my wife at a time when I was absent from Breschlau, and were laid among her things for safe keeping, where the papers are never read, and so it was forgotten to deliver them to me afterwards."
+   "en": "I permit myself an urgent request, together with the enclosed files, upon their delivery to the criminal-court councillor in Grimm, that you yourself might speak with him concerning the following circumstance.\n\nThese Witów files have long been sought in the registry at Trąbczyn, where I myself supposed and maintained [that they would be lying]. They were, however, upon my moving out\n\nthat they would be lying.\n\nfrom my lodgings at Breslau to Wilhelmsruh, found among the papers of my wife, because these files were received by my wife at a time when I was absent from Breslau, and were laid for safe keeping among her belongings, where the papers are never read, and thus it was forgotten to hand them over to me afterwards.",
+   "names": [
+    {
+     "de": "H. Criminal in Grimm",
+     "en": "the criminal-court councillor in Grimm",
+     "kind": "person"
+    },
+    {
+     "de": "Wittowes",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breſslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Wilhelmsruh",
+     "en": "Wilhelmsruh",
+     "kind": "place"
+    },
+    {
+     "de": "Breschlau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ]
   }
  ],
- "text_english": "I take the liberty of adding a pressing request to the enclosed [uncertain: deeds], upon their delivery to Herr Criminal[-Rath] in Grimm, namely that you might yourself speak with him concerning the following circumstance.\n\nThese Wittowes files have long been sought in the Trąbczyn registry, where I myself supposed and maintained [them to be]. But they were, upon my moving out\n\nthat they would be lying there.\n\nfrom my lodging at Breſslau to Wilhelmsruh, found among my wife's papers, because these deeds were received by my wife at a time when I was absent from Breschlau, and were laid among her things for safe keeping, where the papers are never read, and so it was forgotten to deliver them to me afterwards.",
+ "text_english": "I permit myself an urgent request, together with the enclosed files, upon their delivery to the criminal-court councillor in Grimm, that you yourself might speak with him concerning the following circumstance.\n\nThese Witów files have long been sought in the registry at Trąbczyn, where I myself supposed and maintained [that they would be lying]. They were, however, upon my moving out\n\nthat they would be lying.\n\nfrom my lodgings at Breslau to Wilhelmsruh, found among the papers of my wife, because these files were received by my wife at a time when I was absent from Breslau, and were laid for safe keeping among her belongings, where the papers are never read, and thus it was forgotten to hand them over to me afterwards.",
  "summary_en": "A covering note forwarding the enclosed Wittowes deeds to Herr Criminal-Rath in Grimm, with the urgent request that the recipient speak to him in person about the circumstance. The writer explains that the files had long been searched for in the Trąbczyn registry, where he himself believed them to be, but that they turned up among his wife's papers when he moved from his Breslau lodging to Wilhelmsruh, she having received them during his absence and set them aside for safekeeping.",
  "summary_de": "Begleitnotiz zu beigelegten Urkunden, mit der dringenden Bitte, bei deren Übergabe an den Criminal-Rath in Grimm persönlich folgenden Umstand vorzutragen: Die Wittowes-Akten seien lange in der Registratur zu Trąbczyn gesucht und auch vom Schreiber selbst dort vermutet worden. Tatsächlich hätten sie sich beim Umzug aus der Breslauer Wohnung nach Wilhelmsruh unter den Papieren seiner Frau gefunden, die sie in seiner Abwesenheit empfangen und verwahrt, die Weitergabe aber vergessen habe."
 }

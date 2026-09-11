@@ -281,28 +281,537 @@
    "doc_line": 94
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Pankrat",
+   "kind": "person",
+   "surface_de": "Pankrat",
+   "surface_en": "Pankrat",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pankratz",
+   "kind": "person",
+   "surface_de": "Pankratz",
+   "surface_en": "Pankratz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mennonites",
+   "kind": "other",
+   "surface_de": "Mennonisten",
+   "surface_en": "Mennonites",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lunau",
+   "kind": "place",
+   "surface_de": "Lunau",
+   "surface_en": "Lunau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mannauſten",
+   "kind": "other",
+   "surface_de": "Mannauſten",
+   "surface_en": "Mannauſten",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbcziner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "suntitz",
+   "kind": "place",
+   "surface_de": "suntitz",
+   "surface_en": "suntitz",
+   "page": 1
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gleich",
+   "kind": "person",
+   "surface_de": "Gleich",
+   "surface_en": "Gleich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tappert",
+   "kind": "person",
+   "surface_de": "Tappert",
+   "surface_en": "Tappert",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Suppert",
+   "kind": "person",
+   "surface_de": "Suppert",
+   "surface_en": "Suppert",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Glenck's",
+   "kind": "person",
+   "surface_de": "Gienckschen",
+   "surface_en": "Glenck's",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczin",
+   "kind": "place",
+   "surface_de": "Wrąbczin",
+   "surface_en": "Wrąbczin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Małachowski",
+   "kind": "person",
+   "surface_de": "v Małachowski",
+   "surface_en": "von Małachowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swięcier",
+   "kind": "place",
+   "surface_de": "Swięcier",
+   "surface_en": "Swięcier",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mennonites",
+   "kind": "other",
+   "surface_de": "Memonisten",
+   "surface_en": "Mennonites",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mennonites",
+   "kind": "other",
+   "surface_de": "Mennonisten",
+   "surface_en": "Mennonites",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Otocki",
+   "kind": "person",
+   "surface_de": "v. Otocki",
+   "surface_en": "von Otocki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojno",
+   "surface_en": "Kopojno",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Leopold",
+   "kind": "person",
+   "surface_de": "Leopold",
+   "surface_en": "Leopold",
+   "page": 3
+  },
+  {
+   "entity": "wollenhaupt",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface_de": "Wollenhaupt",
+   "surface_en": "Wollenhaupt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Blomberg",
+   "kind": "person",
+   "surface_de": "v Blomberg",
+   "surface_en": "von Blomberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Polen",
+   "surface_en": "Poland",
+   "page": 3
+  },
+  {
+   "entity": "przespolewski",
+   "display": "Przespolewski",
+   "kind": "person",
+   "surface_de": "Przespolewski",
+   "surface_en": "Przespolewski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Magnuski",
+   "kind": "person",
+   "surface_de": "Magnuski",
+   "surface_en": "Magnuski",
+   "page": 4
+  },
+  {
+   "entity": "szczucki",
+   "display": "Szczucki",
+   "kind": "person",
+   "surface_de": "Szczucki",
+   "surface_en": "Szczucki",
+   "page": 4
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 4
+  },
+  {
+   "entity": "radzinski",
+   "display": "Radzinski",
+   "kind": "person",
+   "surface_de": "Radzinski",
+   "surface_en": "Radzinski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sentachen",
+   "kind": "other",
+   "surface_de": "Sentachen",
+   "surface_en": "Sentachen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! From the enclosed letter of Pankrat Your Most Serene Highness will graciously deign to be convinced that the Mennonites will buy. The said Pankratz is one of their principal elders, and whatever he promises every member of this sect is bound to hold to. I shall therefore set out tomorrow for Lunau and try my fortune. The verbal assurance given by Pankratz, still to the old district messenger, is that the Mennonites wish to buy the Zagorow and Trąbczyn estates altogether and to divide them among themselves according to the price fixed for them by Your Serene Highness. May God now grant it further prosperity. For the rest, I greatly fear that I should return with a second bilious fever. The only honest man who is here is the justice-burgomaster Schenck. His assessment will turn out well, and one can at any time, in case of need, raise money upon it. Only he lacks the contract with the miller because in Trąbczin — that one Mr. Glenck has — And then there stands against them the contract concluded on the 5th of September with the Building Councillor Mr. Glenck, in which 300 Morgen of domanial land and the settlement of all dues from the Vogtey are promised to him. Gleich has sent this contract here"
+   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nFrom the enclosed letter of Pankrat Your Most Serene Highness will graciously be pleased to satisfy yourself that the Mennonites will buy. Pankratz is one of their principal elders, and what he promises every member of that sect is bound to keep. I shall therefore travel tomorrow to Lunau and try my fortune. The verbal assurance given by Pankratz to the old district messenger is that the Mannauſten intend to buy the Zagorowo and Trąbczyn estates altogether and to divide them among themselves at the price fixed for them by Your Serene Highness. God grant now its further prospering. For the rest, I greatly fear that I shall return with a second bilious fever. The only honest man who is here is the [uncertain: suntitz] burgomaster Schenck. His assessment will turn out well, and in case of need money can at any time be raised upon it. Only he lacks the contract with the miller's [text: \"das Müller weil\"] in Trąbczyn - Mr. Glenck has that - and then the contract concluded on the 5th of September with Mr. Building Councillor Glenck stands against them, in which 300 Morgen of manorial land and the settlement of all dues from the bailiwick are promised to him. [uncertain: Gleich] has sent this contract here",
+   "names": [
+    {
+     "de": "Pankrat",
+     "en": "Pankrat",
+     "kind": "person"
+    },
+    {
+     "de": "Pankratz",
+     "en": "Pankratz",
+     "kind": "person"
+    },
+    {
+     "de": "Mennonisten",
+     "en": "Mennonites",
+     "kind": "other"
+    },
+    {
+     "de": "Lunau",
+     "en": "Lunau",
+     "kind": "place"
+    },
+    {
+     "de": "Mannauſten",
+     "en": "Mannauſten",
+     "kind": "other"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbcziner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "suntitz",
+     "en": "suntitz",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Gleich",
+     "en": "Gleich",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "300"
+   ]
   },
   {
    "page": 2,
-   "en": "here to Tappert, so that he should make it publicly known. Tappert at once handed the contract over to the Taxation Commission and protested that they should not there bring the said lands into the valuation. The commune has become suspicious of this and protests against the taking away of these lands, of which a part belongs to it as pasture — and this now hinders the Commission, so that it cannot work further, the more so as Suppert has also produced a Gienck contract of sale, according to which Glenck has sold along with it the komorniks in the whole of Wrąbczin to a certain v. Małachowski. It would be necessary that Glenck issue a written undertaking in which he says that he has given the 300 Morgen back to Your Serene Highness, and also that he declare that he could not sell the komorniks and that this was an error. Then all the negotiations with the Swięcia people are wanting here — perhaps Glenck has something of them there; there would then be the contract of the miller's wife of Wrąbczin, as also the contract with the Swięcier Hauländer there; and should Glenck be willing to issue the written undertakings, may Your Serene Highness deign most graciously to transmit them to me by this express, so that the matter may be brought clear."
+   "en": "to Tappert, so that he should give it out publicly. Tappert at once handed the contract over to the assessment commission and protested that they ought not to bring those lands into the valuation there. The commune has grown suspicious at this and protests against the taking away of these lands, a part of which belongs to it as pasture - this now hinders the commission, so that it cannot work further, the more so as [uncertain: Suppert] has also produced a sale contract of Glenck's, according to which Glenck has sold along with it the komornik holdings in the whole of Wrąbczin to a certain von Małachowski. It would be necessary that Glenck issue a written undertaking in which he says that he has given back the 300 Morgen to Your Serene Highness, and also that he declare that he could not sell the komornik holdings and that this was an error. Then all the negotiations with the Swięcia people are missing here - perhaps Glenck has something of them there; so too the contract of the miller's wife from Wrąbczin would be there, as also the contract with the Swięcier Hollanders; and if Glenck were willing to issue the written undertakings, may Your Serene Highness graciously be pleased to transmit them to me by this express messenger, so that the matter might be put in order.",
+   "names": [
+    {
+     "de": "Tappert",
+     "en": "Tappert",
+     "kind": "person"
+    },
+    {
+     "de": "Suppert",
+     "en": "Suppert",
+     "kind": "person"
+    },
+    {
+     "de": "Gienckschen",
+     "en": "Glenck's",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Wrąbczin",
+     "en": "Wrąbczin",
+     "kind": "place"
+    },
+    {
+     "de": "v Małachowski",
+     "en": "von Małachowski",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Swięcier",
+     "en": "Swięcier",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "300"
+   ]
   },
   {
    "page": 3,
-   "en": "The dismemberment will in any case be happily brought to a conclusion, for very many people, who have been noted down here as ready to buy at any [uncertain: price], have presented themselves here besides the Mennonites, so that one has a choice. Meanwhile I wish to conclude with the Mennonites, because from them I obtain the most money and go most securely. Otherwise they have merely played their tricks and yet sown the fields — v. Otocki has followed this example at [uncertain: Copoina / Kopojno], and there will not be much left over for sale. These are more than wicked men — I believed I should bring a great deal out of it; what will now become of it? It is a strange thing that when a German comes into Poland he is at once corrupted to the very blood; thus, for example, the surveyors have not yet finished the map, and yet the laziest of them, Leopold, has not failed to have 368 Rthl paid out to him already — which was also given to the wretch — Wollenhaupt is a crafty rogue; meanwhile I shall dispatch this scoundrel so finely that he shall not know how he gets out of Trąbczin. The Landrath v. Blomberg is the worst [uncertain: scoundrel] that ever was on earth — did one not need the miserable"
+   "en": "The dismemberment will in any event be brought to a happy conclusion, for a great many people, who have been noted down here as ready to buy at any [uncertain: Wird], have come forward here besides the Mennonites, so that one has a choice. Meanwhile I wish to conclude with the Mennonites, because from them I receive the most money and go the most securely.\n\nOtherwise they have only played the fool and yet sown the fields - von Otocki has followed this example at Kopojno, and there will not be much left to sell. These are indeed worse than wicked men – I believed a great deal was to be got out of it there; what will now become of it?\n\nIt is singular that when a German comes to Poland he is at once corrupted to the very blood: thus for example the surveyors have not yet finished the map, and nevertheless the laziest of them, Leopold, has already had 368 Rthl paid out to him – which has also been given to the wretch – Wollenhaupt is a crafty rogue; meanwhile I shall dispatch this scoundrel so neatly that he shall not know how he got out of Trąbczyn.\n\nThe district administrator von Blomberg is the worst [uncertain: Nabuliet] that ever was on earth - if one did not need the miserable",
+   "names": [
+    {
+     "de": "Memonisten",
+     "en": "Mennonites",
+     "kind": "other"
+    },
+    {
+     "de": "Mennonisten",
+     "en": "Mennonites",
+     "kind": "other"
+    },
+    {
+     "de": "v. Otocki",
+     "en": "von Otocki",
+     "kind": "person"
+    },
+    {
+     "de": "Kopojno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Leopold",
+     "en": "Leopold",
+     "kind": "person"
+    },
+    {
+     "de": "Wollenhaupt",
+     "en": "Wollenhaupt",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Blomberg",
+     "en": "von Blomberg",
+     "kind": "person"
+    },
+    {
+     "de": "Polen",
+     "en": "Poland",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "368"
+   ]
   },
   {
    "page": 4,
-   "en": "scoundrel so exceedingly much in the dismemberment, I would spit the fellow in the face — In the meantime I shall treat him with coldness and such [uncertain: liberty] as is possible until I need him no longer — Your Serene Highness may however be assured that he shall do you no harm, for I have taken care of that in every way. To set down his knaveries here, and by what base cunning he has once again gone about to learn the state of the cash here, would be too lengthy; I shall relate them to Your Serene Highness by word of mouth; enough that he is a bad fellow, who would suit better at the head of a band of robbers than for a Landrath — I must gather up all my patience so as not to betray myself. On account of Przespolewski the Government has sent execution hither, that Your Serene Highness should at once pay 6500 Rthl. I have had the necessary objections lodged against it forthwith. 1. Przespolewski has ceded the claim to a certain Magnuski. 2. Szczucki has laid an arrest upon it. 3. The document has been lost; nothing can be cancelled and consequently nothing paid either, for Heinrichs likewise would pay nothing sooner than when all was cancelled. This here the Government [uncertain: knows] well; how can it proceed here so infamously? In deepest reverence I remain, until death, Your Most Serene Highness's — On account of Radzinski all is provided for, but the registry is in a devilish disorder; thus I found today the accompanying piece among the Sentach papers, whereas it belongs altogether here, before the town [illegible]uft — most humble and obedient servant v Triebenfeld. Trąbczin, the 17th of 9br 1804"
+   "en": "scoundrel so exceedingly for the dismemberment, I would spit in the fellow's face – In the meantime I shall treat him with coldness and such freedom as is possible until I no longer need him - Your Serene Highness may meanwhile be assured that he shall do you no harm, for I have taken care of that in every way. To set down his knaveries here, and what base cunning he has again employed in order to learn the state of the funds here, would be too lengthy; I shall relate them to Your Serene Highness by word of mouth; enough that he is a bad fellow, who is better suited to the head of a band of robbers than to be district administrator - I must gather all my patience, so as not to betray myself.\n\nIn the matter of Przespolewski the government has sent execution here, that Your Serene Highness should at once pay 6500 Rthl. I have immediately had what is necessary submitted against it.\n\n1. Przespolewski has ceded the claim to a certain Magnuski\n\n2. Szczucki has laid an attachment upon it\n\n3. The document has been lost; nothing can be cancelled and consequently nothing paid either, for Honrichs too would pay nothing sooner than when all had been cancelled. This here the government [uncertain: gut]; how can it proceed here so infamously? In deepest reverence I remain, until death,\n\nYour Most Serene Highness's — In the matter of Radzinski everything is provided for, but the registry is in a devilish disorder; thus I found today the enclosed piece among the [uncertain: Sentachen] papers, and this belongs here altogether, one before the town [illegible][uncertain: uft] here — most humble and obedient servant, von Triebenfeld\n\nTrąbczyn\n\nthe 17th of November\n\n1804",
+   "names": [
+    {
+     "de": "Przespolewski",
+     "en": "Przespolewski",
+     "kind": "person"
+    },
+    {
+     "de": "Magnuski",
+     "en": "Magnuski",
+     "kind": "person"
+    },
+    {
+     "de": "Szczucki",
+     "en": "Szczucki",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Radzinski",
+     "en": "Radzinski",
+     "kind": "person"
+    },
+    {
+     "de": "Sentachen",
+     "en": "Sentachen",
+     "kind": "other"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6500",
+    "1",
+    "2",
+    "3",
+    "17",
+    "9br",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! From the enclosed letter of Pankrat Your Most Serene Highness will graciously deign to be convinced that the Mennonites will buy. The said Pankratz is one of their principal elders, and whatever he promises every member of this sect is bound to hold to. I shall therefore set out tomorrow for Lunau and try my fortune. The verbal assurance given by Pankratz, still to the old district messenger, is that the Mennonites wish to buy the Zagorow and Trąbczyn estates altogether and to divide them among themselves according to the price fixed for them by Your Serene Highness. May God now grant it further prosperity. For the rest, I greatly fear that I should return with a second bilious fever. The only honest man who is here is the justice-burgomaster Schenck. His assessment will turn out well, and one can at any time, in case of need, raise money upon it. Only he lacks the contract with the miller because in Trąbczin — that one Mr. Glenck has — And then there stands against them the contract concluded on the 5th of September with the Building Councillor Mr. Glenck, in which 300 Morgen of domanial land and the settlement of all dues from the Vogtey are promised to him. Gleich has sent this contract here\n\nhere to Tappert, so that he should make it publicly known. Tappert at once handed the contract over to the Taxation Commission and protested that they should not there bring the said lands into the valuation. The commune has become suspicious of this and protests against the taking away of these lands, of which a part belongs to it as pasture — and this now hinders the Commission, so that it cannot work further, the more so as Suppert has also produced a Gienck contract of sale, according to which Glenck has sold along with it the komorniks in the whole of Wrąbczin to a certain v. Małachowski. It would be necessary that Glenck issue a written undertaking in which he says that he has given the 300 Morgen back to Your Serene Highness, and also that he declare that he could not sell the komorniks and that this was an error. Then all the negotiations with the Swięcia people are wanting here — perhaps Glenck has something of them there; there would then be the contract of the miller's wife of Wrąbczin, as also the contract with the Swięcier Hauländer there; and should Glenck be willing to issue the written undertakings, may Your Serene Highness deign most graciously to transmit them to me by this express, so that the matter may be brought clear.\n\nThe dismemberment will in any case be happily brought to a conclusion, for very many people, who have been noted down here as ready to buy at any [uncertain: price], have presented themselves here besides the Mennonites, so that one has a choice. Meanwhile I wish to conclude with the Mennonites, because from them I obtain the most money and go most securely. Otherwise they have merely played their tricks and yet sown the fields — v. Otocki has followed this example at [uncertain: Copoina / Kopojno], and there will not be much left over for sale. These are more than wicked men — I believed I should bring a great deal out of it; what will now become of it? It is a strange thing that when a German comes into Poland he is at once corrupted to the very blood; thus, for example, the surveyors have not yet finished the map, and yet the laziest of them, Leopold, has not failed to have 368 Rthl paid out to him already — which was also given to the wretch — Wollenhaupt is a crafty rogue; meanwhile I shall dispatch this scoundrel so finely that he shall not know how he gets out of Trąbczin. The Landrath v. Blomberg is the worst [uncertain: scoundrel] that ever was on earth — did one not need the miserable\n\nscoundrel so exceedingly much in the dismemberment, I would spit the fellow in the face — In the meantime I shall treat him with coldness and such [uncertain: liberty] as is possible until I need him no longer — Your Serene Highness may however be assured that he shall do you no harm, for I have taken care of that in every way. To set down his knaveries here, and by what base cunning he has once again gone about to learn the state of the cash here, would be too lengthy; I shall relate them to Your Serene Highness by word of mouth; enough that he is a bad fellow, who would suit better at the head of a band of robbers than for a Landrath — I must gather up all my patience so as not to betray myself. On account of Przespolewski the Government has sent execution hither, that Your Serene Highness should at once pay 6500 Rthl. I have had the necessary objections lodged against it forthwith. 1. Przespolewski has ceded the claim to a certain Magnuski. 2. Szczucki has laid an arrest upon it. 3. The document has been lost; nothing can be cancelled and consequently nothing paid either, for Heinrichs likewise would pay nothing sooner than when all was cancelled. This here the Government [uncertain: knows] well; how can it proceed here so infamously? In deepest reverence I remain, until death, Your Most Serene Highness's — On account of Radzinski all is provided for, but the registry is in a devilish disorder; thus I found today the accompanying piece among the Sentach papers, whereas it belongs altogether here, before the town [illegible]uft — most humble and obedient servant v Triebenfeld. Trąbczin, the 17th of 9br 1804",
+ "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nFrom the enclosed letter of Pankrat Your Most Serene Highness will graciously be pleased to satisfy yourself that the Mennonites will buy. Pankratz is one of their principal elders, and what he promises every member of that sect is bound to keep. I shall therefore travel tomorrow to Lunau and try my fortune. The verbal assurance given by Pankratz to the old district messenger is that the Mannauſten intend to buy the Zagorowo and Trąbczyn estates altogether and to divide them among themselves at the price fixed for them by Your Serene Highness. God grant now its further prospering. For the rest, I greatly fear that I shall return with a second bilious fever. The only honest man who is here is the [uncertain: suntitz] burgomaster Schenck. His assessment will turn out well, and in case of need money can at any time be raised upon it. Only he lacks the contract with the miller's [text: \"das Müller weil\"] in Trąbczyn - Mr. Glenck has that - and then the contract concluded on the 5th of September with Mr. Building Councillor Glenck stands against them, in which 300 Morgen of manorial land and the settlement of all dues from the bailiwick are promised to him. [uncertain: Gleich] has sent this contract here\n\nto Tappert, so that he should give it out publicly. Tappert at once handed the contract over to the assessment commission and protested that they ought not to bring those lands into the valuation there. The commune has grown suspicious at this and protests against the taking away of these lands, a part of which belongs to it as pasture - this now hinders the commission, so that it cannot work further, the more so as [uncertain: Suppert] has also produced a sale contract of Glenck's, according to which Glenck has sold along with it the komornik holdings in the whole of Wrąbczin to a certain von Małachowski. It would be necessary that Glenck issue a written undertaking in which he says that he has given back the 300 Morgen to Your Serene Highness, and also that he declare that he could not sell the komornik holdings and that this was an error. Then all the negotiations with the Swięcia people are missing here - perhaps Glenck has something of them there; so too the contract of the miller's wife from Wrąbczin would be there, as also the contract with the Swięcier Hollanders; and if Glenck were willing to issue the written undertakings, may Your Serene Highness graciously be pleased to transmit them to me by this express messenger, so that the matter might be put in order.\n\nThe dismemberment will in any event be brought to a happy conclusion, for a great many people, who have been noted down here as ready to buy at any [uncertain: Wird], have come forward here besides the Mennonites, so that one has a choice. Meanwhile I wish to conclude with the Mennonites, because from them I receive the most money and go the most securely.\n\nOtherwise they have only played the fool and yet sown the fields - von Otocki has followed this example at Kopojno, and there will not be much left to sell. These are indeed worse than wicked men – I believed a great deal was to be got out of it there; what will now become of it?\n\nIt is singular that when a German comes to Poland he is at once corrupted to the very blood: thus for example the surveyors have not yet finished the map, and nevertheless the laziest of them, Leopold, has already had 368 Rthl paid out to him – which has also been given to the wretch – Wollenhaupt is a crafty rogue; meanwhile I shall dispatch this scoundrel so neatly that he shall not know how he got out of Trąbczyn.\n\nThe district administrator von Blomberg is the worst [uncertain: Nabuliet] that ever was on earth - if one did not need the miserable\n\nscoundrel so exceedingly for the dismemberment, I would spit in the fellow's face – In the meantime I shall treat him with coldness and such freedom as is possible until I no longer need him - Your Serene Highness may meanwhile be assured that he shall do you no harm, for I have taken care of that in every way. To set down his knaveries here, and what base cunning he has again employed in order to learn the state of the funds here, would be too lengthy; I shall relate them to Your Serene Highness by word of mouth; enough that he is a bad fellow, who is better suited to the head of a band of robbers than to be district administrator - I must gather all my patience, so as not to betray myself.\n\nIn the matter of Przespolewski the government has sent execution here, that Your Serene Highness should at once pay 6500 Rthl. I have immediately had what is necessary submitted against it.\n\n1. Przespolewski has ceded the claim to a certain Magnuski\n\n2. Szczucki has laid an attachment upon it\n\n3. The document has been lost; nothing can be cancelled and consequently nothing paid either, for Honrichs too would pay nothing sooner than when all had been cancelled. This here the government [uncertain: gut]; how can it proceed here so infamously? In deepest reverence I remain, until death,\n\nYour Most Serene Highness's — In the matter of Radzinski everything is provided for, but the registry is in a devilish disorder; thus I found today the enclosed piece among the [uncertain: Sentachen] papers, and this belongs here altogether, one before the town [illegible][uncertain: uft] here — most humble and obedient servant, von Triebenfeld\n\nTrąbczyn\n\nthe 17th of November\n\n1804",
  "summary_en": "Encloses Pankratz's letter as proof that the Mennonites, whose elder he is, will buy Zagorow and Trąbczyn entire and divide the estates among themselves at the Prince's price; Triebenfeld leaves for Lunau to conclude. Glenck's contract of 5 September over 300 Morgen and the komorniks, protested by Tappert and the commune, has stalled the Taxation Commission, and written retractions are requested by express. Denounces Leopold's 368 Rthl, Wollenhaupt and Landrath v. Blomberg, and objects to execution for Przespolewski's 6500 Rthl.",
  "summary_de": "Nach beiliegendem Schreiben des Mennoniten-Ältesten Pankratz wollen die Mennoniten Zagorow und Trąbczyn insgesamt kaufen und unter sich teilen; Triebenfeld reist deshalb nach Lunau. Für die Dismembration fehlen Contracte (Müller, Swięcier Hauländer); der mit Baurath Glenck am 5. September geschlossene Contract über 300 Morgen und der Verkauf der Komorniks an v. Małachowski behindern die Taxationscommission – Glenck soll schriftliche Reverse ausstellen. Klagen über Leopold (368 Rthl), Wollenhaupt und Landrath v. Blomberg. Gegen die Execution von 6500 Rthl wegen Przespolewski wurden Einwendungen erhoben."
 }

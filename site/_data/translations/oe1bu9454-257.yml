@@ -1,10 +1,34 @@
 status: draft
 segments:
 - page: 1
-  en: 'Your Right Honourable have, in your representation of the 23rd of [uncertain: Ors.] of this year,
-    observed: that the Prince of Hohenlohe did, in the Settlement of 1811, undertake to pay himself the
-    capital owed to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the
-    Lady Countess of her joint obligation for — I therefore most respectfully request you, since I cannot
-    find the passage in the enclosed Settlement, to be so obliging as to mark it with red chalk or otherwise,
-    and thereupon most kindly to send it back to me by the bearer. Commending myself most respectfully,
-    Gruemann[uncertain] herein, the 7th of Oct. 1814'
+  en: 'Your Right Honourable have observed in your representation of the 23rd of the [uncertain: present]
+    month of this year:
+
+
+    that the Prince of Hohenlohe, in the settlement of 1811, undertook to pay himself the capital sum
+    owing to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Countess
+    of the joint obligation. I therefore most respectfully request that you be so kind as to mark the
+    passage in the enclosed settlement with red chalk or otherwise, since I cannot find it, and then graciously
+    send it back to me by the bearer. Commending myself most respectfully,
+
+
+    Gruemann[uncertain]
+
+
+    therein, the 7th of October 1814'
+  names:
+  - de: Herr Fürst u Hohenlohe
+    en: the Prince of Hohenlohe
+    kind: person
+  - de: Curländischen
+    en: Courland
+    kind: place
+  - de: Gruemann[??]
+    en: Gruemann[uncertain]
+    kind: person
+  numbers:
+  - '23'
+  - '1811'
+  - '500000'
+  - '7'
+  - '1814'

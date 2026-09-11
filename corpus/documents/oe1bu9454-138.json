@@ -106,20 +106,124 @@
    "doc_line": 25
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "v. Broniewski",
+   "kind": "person",
+   "surface_de": "v. Broniewskisch",
+   "surface_en": "v. Broniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "H v Triebenfeld",
+   "surface_en": "Mr. v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolno",
+   "kind": "place",
+   "surface_de": "Kolno",
+   "surface_en": "Kolno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ber[lin?]",
+   "kind": "place",
+   "surface_de": "Ber[lin?]",
+   "surface_en": "Ber[lin?]",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! In the v. Broniewski matter the renewed first attempt at the deposition has run out fruitlessly, as Your Most Serene Highness will deign to see from the enclosed resolution of 25 June. I did not delay in [uncertain: raising once again all the outcry] in order to [uncertain: recession / to obtain a rescission]. Herr v. Triebenfeld had told me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to obtain possession of the estates. This I therefore offered; it stands at 10000 Rthl [uncertain: detes Mieciat], and thereupon, in accordance with the appointed [uncertain: disposition], consideration has been given, and the deposition, as also the clearing of Kolno and Kaemen, has been ordered to the Government"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly], as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the 25th of June.\n\nI did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to come into possession of the estates. This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon that the appointed disposition has been taken into account, and the deposition as well as the vacating of Kolno and Kaemen has been enjoined upon the Government",
+   "names": [
+    {
+     "de": "v. Broniewskisch",
+     "en": "v. Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "H v Triebenfeld",
+     "en": "Mr. v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kolno",
+     "en": "Kolno",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "25",
+    "10000"
+   ]
   },
   {
    "page": 2,
-   "en": "at Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and in this presumption, [text lost] I [remain] with reverence and devotion, Your Most Serene Highness's — Ber[lin?] the 3rd of July 1804 — humble and obedient servant, Amelang"
+   "en": "at Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and in this presumption [uncertain: I remain] with reverence and devotion\n\nYour Most Serene Highness's Ber[lin?] the 3rd of July 1804 humble and obedient servant Amelang",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Ber[lin?]",
+     "en": "Ber[lin?]",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! In the v. Broniewski matter the renewed first attempt at the deposition has run out fruitlessly, as Your Most Serene Highness will deign to see from the enclosed resolution of 25 June. I did not delay in [uncertain: raising once again all the outcry] in order to [uncertain: recession / to obtain a rescission]. Herr v. Triebenfeld had told me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to obtain possession of the estates. This I therefore offered; it stands at 10000 Rthl [uncertain: detes Mieciat], and thereupon, in accordance with the appointed [uncertain: disposition], consideration has been given, and the deposition, as also the clearing of Kolno and Kaemen, has been ordered to the Government\n\nat Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and in this presumption, [text lost] I [remain] with reverence and devotion, Your Most Serene Highness's — Ber[lin?] the 3rd of July 1804 — humble and obedient servant, Amelang",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly], as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the 25th of June.\n\nI did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to come into possession of the estates. This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon that the appointed disposition has been taken into account, and the deposition as well as the vacating of Kolno and Kaemen has been enjoined upon the Government\n\nat Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and in this presumption [uncertain: I remain] with reverence and devotion\n\nYour Most Serene Highness's Ber[lin?] the 3rd of July 1804 humble and obedient servant Amelang",
  "summary_en": "Amelang reports that the renewed first attempt at deposition in the v. Broniewski matter failed, as shown by the enclosed resolution of 25 June, and that he pressed for a rescission. Acting on v. Triebenfeld's assurance that the Prince would lodge security to gain possession of the estates, he offered 10000 Rthl; the deposition and the clearing of Kolno and Kaemen have accordingly been ordered to the Government at Posen.",
  "summary_de": "Bericht in der Sache v. Broniewski: der erneute erste Versuch der Deposition blieb fruchtlos, wie die beigefügte Resolution vom 25. Juni zeigt. Nach Vorstellungen um Rescission und gemäß der Mitteilung des Herrn v. Triebenfeld, der Fürst werde nötigenfalls eine Sicherheit hinterlegen, um die Güter in Besitz zu nehmen, wurde eine solche von 10000 Rthl angeboten. Daraufhin sind Deposition sowie die Räumung von Kolno und Kaemen der Regierung zu Posen aufgetragen worden. Verfasser: Amelang."
 }

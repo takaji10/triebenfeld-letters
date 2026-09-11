@@ -148,28 +148,218 @@
    "doc_line": 88
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Otcibi",
+   "kind": "person",
+   "surface_de": "Otcibi",
+   "surface_en": "Otcibi",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Flörten",
+   "kind": "person",
+   "surface_de": "Flörten",
+   "surface_en": "Flörten",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rybbel",
+   "kind": "person",
+   "surface_de": "Rybbel",
+   "surface_en": "Rybbel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rudnicki, von",
+   "kind": "person",
+   "surface_de": "v. Rudnicki",
+   "surface_en": "Rudnicki, von",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Jetzinger",
+   "kind": "person",
+   "surface_de": "Jetzinger",
+   "surface_en": "Jetzinger",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Olesnices",
+   "kind": "other",
+   "surface_de": "Olesnices",
+   "surface_en": "Olesnices",
+   "page": 3
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mennonites",
+   "kind": "other",
+   "surface_de": "Mennovisten",
+   "surface_en": "Mennonites",
+   "page": 3
+  },
+  {
+   "entity": "kunckel",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckel",
+   "surface_en": "Kunckel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Even though my faithful attachment to Your Most Serene Highness [and] my zeal were exemplary, I am nevertheless not capable of [remedying] all the confusions here [uncertain: eingekäuschte — \"insinuated\"/\"whispered in\"?] as I at first believed I might. 1. There are lawsuits, 11 in number, in which hearings have just now [been adjourned] upon several objections — I have petitioned for prorogation, have obtained it, and hope to bring several of them, which amount in part to 6 and 15 Rthl yearly, to the best possible conclusion by compromise. 2. The tenants have been stirred up to the utmost pitch, and not one will yield without an enormous quantum of withdrawal-money; to arrange this and to bring it into order according to Your Serene Highness's wishes, I must exercise every possible patience, so as to press the people to the goal by forbearance and kindness; but it will not be got through without sacrifices. With Otcibi I have this moment come to terms; he receives 3000 Rthl withdrawal-money, 2000 Rthl surety,"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nEven though my faithful attachment to Your Most Serene Highness and my zeal were exemplary, I am nevertheless not able to remedy all the confusions here brought in, as I at first believed. 1. There are lawsuits, 11 in number, where hearings have just now been [uncertain: adjourned] by some parties — I have requested a prorogation, have obtained it, and hope to bring several of them, which in part amount to 6 and 15 Rthl yearly, to the best possible end by composition.\n\n2. The tenants are stirred up to the utmost, and none will yield without an enormous sum for withdrawal. To arrange this and to bring it into order according to Your Serene Highness's wishes, I must exercise every possible patience, so as to press the people toward the goal by forbearance and kindness; but it will not be done without sacrifices. With Otcibi I have just now come to terms; he receives 3000 Rthl for withdrawal, 2000 Rthl as security,",
+   "names": [
+    {
+     "de": "Otcibi",
+     "en": "Otcibi",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "11",
+    "6",
+    "15",
+    "2",
+    "3000",
+    "2000"
+   ]
   },
   {
    "page": 2,
-   "en": "and 1000 Rthl for additional seed-corn and housing costs, which two latter items will be recovered again. 3. With Flörten and Rybbel I have got so far that they are willing to compound. The people show that they have paid 12600 in cash; next to this they liquidate for buildings etc. some 8000 Rthl. Now although the liquidum of 6901 sl. has been provisionally admitted, yet in a lawsuit, which might run some 3 years, the sum of 8000 Rthl will certainly be awarded to him. By this calculation Your Serene Highness would already have 2000 Rthl to pay; the withdrawal-sum stipulated in the contract is 500 Rthl per year, this also amounts to 7000 Rthl; the surplus inventory may come to 2000 Rthl, according to which the people would then have 11600 Rthl [uncertain: abheilet — \"cleared\"?], if judgment be given according to the letter [of the contract]. The contract is badly drawn, serves only the tenants, and is in every point prejudicial to Serene Highness. Ill as this matter looks, I nevertheless hope to settle it in the best way, namely that the people quit and renounce all their demands. To attain this end I have petitioned for execution, and have caused the sequestration to be effected for the tenants' account. Under this pressure I think they will quit. 4. I shall conclude with the von Rudnicki, [and] shall so direct the matter that he is to depart at Midsummer. The contract with him too has been concluded in a singular manner. 5. As soon as I am done with these people I shall proceed to the letting out"
+   "en": "and 1000 Rthl for additional seed-corn and housing costs, which last two items will be recovered again.\n\n3. With Flörten and Rybbel I have got so far that they are willing to compound. The people show that they have paid 12600 in cash; next to this they liquidate for buildings etc. some 8000 Rthl. Now even though the liquid sum of 6901 sl. has for the present been accepted, in a lawsuit which may run some 3 years he will certainly be awarded the sum of 8000 Rthl. By this calculation Your Serene Highness would already have 2000 Rthl to pay; the withdrawal sum stipulated in the contract is 500 Rthl for the year, and this too amounts to 7000 Rthl; the surplus inventory may make up 2000 Rthl, after which then the people, if judgment is given according to the letter, must have 11600 Rthl [uncertain: apportioned]. The contract is badly drawn, serves only the tenants, and is in all points disadvantageous to Your Serene Highness. Ill as this matter looks, I yet hope to settle it as best may be, in such a way that the people quit and renounce all claims. To attain this end I have petitioned for execution, and have caused a sequestration to be laid on for the tenants' account. Under this pressure I think they must quit. 4. I shall conclude with von Rudnicki, and shall so direct the matter beforehand that he is to depart at Midsummer. The contract with him too has been strangely concluded.\n\n5. As soon as I have finished with these people I shall proceed to the leasing out",
+   "names": [
+    {
+     "de": "Flörten",
+     "en": "Flörten",
+     "kind": "person"
+    },
+    {
+     "de": "Rybbel",
+     "en": "Rybbel",
+     "kind": "person"
+    },
+    {
+     "de": "v. Rudnicki",
+     "en": "Rudnicki, von",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "3",
+    "12600",
+    "8000",
+    "6901",
+    "3",
+    "8000",
+    "2000",
+    "500",
+    "7000",
+    "2000",
+    "11600",
+    "4",
+    "5"
+   ]
   },
   {
    "page": 3,
-   "en": "[of the estates]. Jetzinger and consorts are here [uncertain: ert, Ca:]; with the help of the Landrath, who is more than active, I think to be quickly done with these too. The old subjects are throughout giving 1 Rthl per Hufe in ground-rent — the Landrath himself concludes with them, so that the Chamber must be silenced. By this an astonishing deal has been gained, and it makes the newer colonists [uncertain: stuppen]. Just now the 3 B. offered to annul the Olesnices contract and to see to the general dismemberment. There are 6 persons for it. They demand 3 Rthl per Hufe as proxeneticum, and 9 Hufen free altogether. This I shall in the end concede, for now everything can be happily brought to an end. The Landrath is entirely my man and helps to overcome the most difficult matters. He deserves a great reward. Through his help I shall get done with the tenants here; — through his exertions I have today obtained purchasers for 87 Hufen, and were Midsummer not at the door, or were there not some straits about the money, he would procure me Mennonites who would at once buy everything up dear and pay in cash — he has even obtained the Chamber's permission for it. — Glenck has written to the Landrath and mocks me; in particular he says that one could never have made a stupider stroke than the Olesnices contract. He says further that it is true he did indeed make a preliminary agreement with the people, but that this was"
+   "en": "of them. Jetzinger and consorts are here [uncertain: first], and by the help of the district administrator, who is more than active, I think to be quickly done with these too. The old subjects are throughout giving 1 Rthl ground-rent per Hufe — the district administrator himself concludes with them, so that the Chamber must fall silent. By this an astonishing deal has been gained, and it makes the newer colonists [uncertain: stop short]. Just now the three B. offered to annul the Olesnices contract and to see to the general dismemberment. There are 6 men for it. They demand 3 Rthl per Hufe as brokerage, and 9 Hufen free altogether. This I shall in the end grant, for now everything may be happily brought to a close. The district administrator is wholly my man and helps to overcome the most difficult matters. He deserves a great reward. Through his help I shall get through with the tenants here; through his exertions I have today obtained purchasers for 87 Hufen; and were Midsummer not at the door, or were there not some want of money, he would procure me Mennonites who would at once buy everything up dear and pay in cash — he has even obtained the Chamber's permission for it. Glenck has written to the district administrator and mocks me, and says in particular that one could never have made a stupider stroke than the Olesnices contract. He says further that it is true he did make a preliminary agreement with the people, but that this was",
+   "names": [
+    {
+     "de": "Jetzinger",
+     "en": "Jetzinger",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnices",
+     "en": "Olesnices",
+     "kind": "other"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Mennovisten",
+     "en": "Mennonites",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1",
+    "3",
+    "3",
+    "6",
+    "9",
+    "87"
+   ]
   },
   {
    "page": 4,
-   "en": "only in jest; at that time he had just then needed 1000 Rthl, and the fellows ought to have sacrificed this; but how could he have been minded to give away the estates in hereditary lease like that? — He calls upon the Landrath now only to see to it that Kunckel be got rid of; he has another man whom he would send here, who would comply with all the Landrath's orders. In general he requests the Landrath to come to an understanding with him, in order to do business with him. He is now [uncertain: häste — \"sits\"/\"has\"?] at the gold-spring, where Gold is to be had and Gold is to be earned. He begged that the Landrath should enquire in his own and the adjoining districts whether the nobles have need of money — he could obtain as much as he wished — the Landrath should only have strong proxenetica stipulated, and he would then, after deduction of costs, share faithfully with him. It is a sad thing to hear so much wicked stuff, whereby Your Serene Highness would in the end be compromised. I shall redress what I can, and thus I should certainly compound several lawsuits at once and preserve to Your Serene Highness what is already lost. — As for money, I hope a strong quantum will come together by Midsummer; how much, however, I cannot yet determine. In deepest reverence I remain, until death, Your Most Serene Highness's Trąbczin, the 8th of May 1804 most faithful servant v Triebenfeld"
+   "en": "only a jest; he had at the time just then needed 1000 Rthl, and the fellows were to have sacrificed these; but how could he have meant to give away the estates in hereditary lease? — He calls upon the district administrator now to see only to this, that Kunckel be got rid of; he has another man whom he would send here, who should comply with all the district administrator's orders. In general he requests the district administrator to come to an understanding with him, so as to do business with him. He is now at the gold spring, where gold is to be had and gold to be [uncertain: put out]. He begs the district administrator to enquire in his own and the adjoining districts whether the nobles are in need of money — he can obtain as much as he pleases — the district administrator need only have stout brokerage fees stipulated, and he will then, after deduction of costs, faithfully share with him. It is sad to hear so much [uncertain: cunning] testimony, whereby Your Serene Highness is in the end compromised. I shall redress what I can; thus I should certainly compound several lawsuits at once and obtain for Your Serene Highness that which is already lost. As to money, I hope a strong sum shall come together by Midsummer; but how much, I cannot yet determine. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nTrąbczyn, the 8th of May\n\n1804\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Kunckel",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "8",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Even though my faithful attachment to Your Most Serene Highness [and] my zeal were exemplary, I am nevertheless not capable of [remedying] all the confusions here [uncertain: eingekäuschte — \"insinuated\"/\"whispered in\"?] as I at first believed I might. 1. There are lawsuits, 11 in number, in which hearings have just now [been adjourned] upon several objections — I have petitioned for prorogation, have obtained it, and hope to bring several of them, which amount in part to 6 and 15 Rthl yearly, to the best possible conclusion by compromise. 2. The tenants have been stirred up to the utmost pitch, and not one will yield without an enormous quantum of withdrawal-money; to arrange this and to bring it into order according to Your Serene Highness's wishes, I must exercise every possible patience, so as to press the people to the goal by forbearance and kindness; but it will not be got through without sacrifices. With Otcibi I have this moment come to terms; he receives 3000 Rthl withdrawal-money, 2000 Rthl surety,\n\nand 1000 Rthl for additional seed-corn and housing costs, which two latter items will be recovered again. 3. With Flörten and Rybbel I have got so far that they are willing to compound. The people show that they have paid 12600 in cash; next to this they liquidate for buildings etc. some 8000 Rthl. Now although the liquidum of 6901 sl. has been provisionally admitted, yet in a lawsuit, which might run some 3 years, the sum of 8000 Rthl will certainly be awarded to him. By this calculation Your Serene Highness would already have 2000 Rthl to pay; the withdrawal-sum stipulated in the contract is 500 Rthl per year, this also amounts to 7000 Rthl; the surplus inventory may come to 2000 Rthl, according to which the people would then have 11600 Rthl [uncertain: abheilet — \"cleared\"?], if judgment be given according to the letter [of the contract]. The contract is badly drawn, serves only the tenants, and is in every point prejudicial to Serene Highness. Ill as this matter looks, I nevertheless hope to settle it in the best way, namely that the people quit and renounce all their demands. To attain this end I have petitioned for execution, and have caused the sequestration to be effected for the tenants' account. Under this pressure I think they will quit. 4. I shall conclude with the von Rudnicki, [and] shall so direct the matter that he is to depart at Midsummer. The contract with him too has been concluded in a singular manner. 5. As soon as I am done with these people I shall proceed to the letting out\n\n[of the estates]. Jetzinger and consorts are here [uncertain: ert, Ca:]; with the help of the Landrath, who is more than active, I think to be quickly done with these too. The old subjects are throughout giving 1 Rthl per Hufe in ground-rent — the Landrath himself concludes with them, so that the Chamber must be silenced. By this an astonishing deal has been gained, and it makes the newer colonists [uncertain: stuppen]. Just now the 3 B. offered to annul the Olesnices contract and to see to the general dismemberment. There are 6 persons for it. They demand 3 Rthl per Hufe as proxeneticum, and 9 Hufen free altogether. This I shall in the end concede, for now everything can be happily brought to an end. The Landrath is entirely my man and helps to overcome the most difficult matters. He deserves a great reward. Through his help I shall get done with the tenants here; — through his exertions I have today obtained purchasers for 87 Hufen, and were Midsummer not at the door, or were there not some straits about the money, he would procure me Mennonites who would at once buy everything up dear and pay in cash — he has even obtained the Chamber's permission for it. — Glenck has written to the Landrath and mocks me; in particular he says that one could never have made a stupider stroke than the Olesnices contract. He says further that it is true he did indeed make a preliminary agreement with the people, but that this was\n\nonly in jest; at that time he had just then needed 1000 Rthl, and the fellows ought to have sacrificed this; but how could he have been minded to give away the estates in hereditary lease like that? — He calls upon the Landrath now only to see to it that Kunckel be got rid of; he has another man whom he would send here, who would comply with all the Landrath's orders. In general he requests the Landrath to come to an understanding with him, in order to do business with him. He is now [uncertain: häste — \"sits\"/\"has\"?] at the gold-spring, where Gold is to be had and Gold is to be earned. He begged that the Landrath should enquire in his own and the adjoining districts whether the nobles have need of money — he could obtain as much as he wished — the Landrath should only have strong proxenetica stipulated, and he would then, after deduction of costs, share faithfully with him. It is a sad thing to hear so much wicked stuff, whereby Your Serene Highness would in the end be compromised. I shall redress what I can, and thus I should certainly compound several lawsuits at once and preserve to Your Serene Highness what is already lost. — As for money, I hope a strong quantum will come together by Midsummer; how much, however, I cannot yet determine. In deepest reverence I remain, until death, Your Most Serene Highness's Trąbczin, the 8th of May 1804 most faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nEven though my faithful attachment to Your Most Serene Highness and my zeal were exemplary, I am nevertheless not able to remedy all the confusions here brought in, as I at first believed. 1. There are lawsuits, 11 in number, where hearings have just now been [uncertain: adjourned] by some parties — I have requested a prorogation, have obtained it, and hope to bring several of them, which in part amount to 6 and 15 Rthl yearly, to the best possible end by composition.\n\n2. The tenants are stirred up to the utmost, and none will yield without an enormous sum for withdrawal. To arrange this and to bring it into order according to Your Serene Highness's wishes, I must exercise every possible patience, so as to press the people toward the goal by forbearance and kindness; but it will not be done without sacrifices. With Otcibi I have just now come to terms; he receives 3000 Rthl for withdrawal, 2000 Rthl as security,\n\nand 1000 Rthl for additional seed-corn and housing costs, which last two items will be recovered again.\n\n3. With Flörten and Rybbel I have got so far that they are willing to compound. The people show that they have paid 12600 in cash; next to this they liquidate for buildings etc. some 8000 Rthl. Now even though the liquid sum of 6901 sl. has for the present been accepted, in a lawsuit which may run some 3 years he will certainly be awarded the sum of 8000 Rthl. By this calculation Your Serene Highness would already have 2000 Rthl to pay; the withdrawal sum stipulated in the contract is 500 Rthl for the year, and this too amounts to 7000 Rthl; the surplus inventory may make up 2000 Rthl, after which then the people, if judgment is given according to the letter, must have 11600 Rthl [uncertain: apportioned]. The contract is badly drawn, serves only the tenants, and is in all points disadvantageous to Your Serene Highness. Ill as this matter looks, I yet hope to settle it as best may be, in such a way that the people quit and renounce all claims. To attain this end I have petitioned for execution, and have caused a sequestration to be laid on for the tenants' account. Under this pressure I think they must quit. 4. I shall conclude with von Rudnicki, and shall so direct the matter beforehand that he is to depart at Midsummer. The contract with him too has been strangely concluded.\n\n5. As soon as I have finished with these people I shall proceed to the leasing out\n\nof them. Jetzinger and consorts are here [uncertain: first], and by the help of the district administrator, who is more than active, I think to be quickly done with these too. The old subjects are throughout giving 1 Rthl ground-rent per Hufe — the district administrator himself concludes with them, so that the Chamber must fall silent. By this an astonishing deal has been gained, and it makes the newer colonists [uncertain: stop short]. Just now the three B. offered to annul the Olesnices contract and to see to the general dismemberment. There are 6 men for it. They demand 3 Rthl per Hufe as brokerage, and 9 Hufen free altogether. This I shall in the end grant, for now everything may be happily brought to a close. The district administrator is wholly my man and helps to overcome the most difficult matters. He deserves a great reward. Through his help I shall get through with the tenants here; through his exertions I have today obtained purchasers for 87 Hufen; and were Midsummer not at the door, or were there not some want of money, he would procure me Mennonites who would at once buy everything up dear and pay in cash — he has even obtained the Chamber's permission for it. Glenck has written to the district administrator and mocks me, and says in particular that one could never have made a stupider stroke than the Olesnices contract. He says further that it is true he did make a preliminary agreement with the people, but that this was\n\nonly a jest; he had at the time just then needed 1000 Rthl, and the fellows were to have sacrificed these; but how could he have meant to give away the estates in hereditary lease? — He calls upon the district administrator now to see only to this, that Kunckel be got rid of; he has another man whom he would send here, who should comply with all the district administrator's orders. In general he requests the district administrator to come to an understanding with him, so as to do business with him. He is now at the gold spring, where gold is to be had and gold to be [uncertain: put out]. He begs the district administrator to enquire in his own and the adjoining districts whether the nobles are in need of money — he can obtain as much as he pleases — the district administrator need only have stout brokerage fees stipulated, and he will then, after deduction of costs, faithfully share with him. It is sad to hear so much [uncertain: cunning] testimony, whereby Your Serene Highness is in the end compromised. I shall redress what I can; thus I should certainly compound several lawsuits at once and obtain for Your Serene Highness that which is already lost. As to money, I hope a strong sum shall come together by Midsummer; but how much, I cannot yet determine. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nTrąbczyn, the 8th of May\n\n1804\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports on untangling the tenancies: eleven lawsuits postponed and to be compounded; Otcibi bought out for 3000 Rthl withdrawal, 2000 Rthl security and 1000 Rthl for seed-corn and housing; Flörten and Rybbel, whose badly drawn contract could cost 11600 Rthl, pressed by execution and sequestration; Rudnicki to leave at Midsummer. The district administrator has secured purchasers for 87 Hufen and 1 Rthl ground-rent per Hufe; reports Glenck's mockery of the Olesnices contract and his money-broking schemes.",
  "summary_de": "Bericht über die Ordnung der Güterverhältnisse: elf anhängige Prozesse, für die eine Prorogation erlangt wurde; Abfindung mit Otcibi über 3000 Rthl Abzugsgeld, 2000 Rthl Sicherheit und 1000 Rthl für Saatkorn und Wohnungskosten; Vergleichsverhandlungen mit Flörten und Rybbel, die 12600 nebst 8000 Rthl für Gebäude liquidieren, weshalb Execution und Sequestration erwirkt wurden; Abgang von Rudnicki zu Johanni; Verkauf von 87 Hufen, 1 Rthl Grundzins der alten Untertanen, 3 Rthl Maklergebühr; Klagen über Glenck und den Olesnices-Contract."
 }

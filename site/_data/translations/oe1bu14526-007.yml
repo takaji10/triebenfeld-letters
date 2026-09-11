@@ -1,128 +1,181 @@
 status: draft
 segments:
 - page: 1
-  en: '[Polish:] The undersigned Court makes known to whomsoever it may concern, that between the Plenipotentiary
-    of His Serene Highness the Prince Hohenlohe Ingelfingen, the Worshipful Councillor of War and Forests
-    Triebenfeld, and the Hollander Bogumił Sarre, the following Contract has been concluded.
+  en: 'The undersigned Court makes known to whom it may concern, that between the authorised representative
+    of His Serene Highness the Prince of Hohenlohe-Ingelfingen, the Honourable Councillor of War and Forests
+    Triebenfeld, and the Hollander Bogumił Sarre, the following contract has been concluded.
 
 
-    Actum Trąbczyn, the eighth of July, one thousand eight hundred and six. There appeared the person
-    well known to the undersigned Justitiarius, to wit:
+    Actum Trąbczyn, the eighth of July, one thousand eight hundred and six. There appeared the persons
+    well known to the undersigned justiciary, namely as
 
 
-    1. the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter (authorised representative)
-    of His Serene Highness the reigning Prince of Hohenlohe Ingelfingen, hereditary lord and lord of the
-    court of this place, legitimated by the power of attorney here annexed, on his part.
+    1. the Councillor of War and Forests von Triebenfeld, as general authorised representative of His
+    Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary lord and lord of the court
+    of this place, legitimated by the power of attorney here appended, on his part.
 
 
     and
 
 
-    2. the Hausländer farmer Gottlieb Sarre from the Peyser Hauland on the other part. The Comparenten
-    find themselves in a condition to execute judicial acts validly, and declare freely and after due
-    deliberation the following hereditary-lease contract to the protocol:'
+    2. the Hollander farmer Gottlieb Sarre from the Peyserschen Hauland on the other part. The appearing
+    parties are found to be in a condition validly to execute judicial acts, and declare freely and after
+    due deliberation the following hereditary-lease contract to the protocol'
+  names:
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: person
+  - de: Triebenfeld
+    en: Triebenfeld
+    kind: person
+  - de: Bogumiłem Sarre
+    en: Bogumił Sarre
+    kind: person
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Gottlieb Sarre
+    en: Gottlieb Sarre
+    kind: person
+  - de: Peyserschen Hauland
+    en: Peyserschen Hauland
+    kind: place
+  numbers:
+  - '1'
+  - '2'
 - page: 2
-  en: '§ I. His Most Serene Highness grants in hereditary lease to Gottlieb Sarre, in the forest situated
-    near Trąbczyn, 1 1/2 Hufen — written out, one and a half Hufen Magdeburg measure, the Hufe reckoned
-    at thirty Morgen and each Morgen at one hundred and eighty square rods — of waste land, from Midsummer
-    (Johanni) of this present year onward, for everlasting time.
+  en: '§ I. His Most Serene Highness grants to Gottlieb Sarre, in the forest situated near Trąbczyn, 1
+    1/2 Hufen, in words one and a half Hufen Magdeburg measure, the Hufe reckoned at thirty Morgen and
+    each Morgen at one hundred and eighty square rods, of waste land, from Midsummer of this present year
+    onward, in hereditary lease for all perpetual time.
 
 
-    § II. Gottlieb Sarre pays for the Hufe Magdeburg measure 100 rt., written out one hundred Reichsthaler,
-    hence for one and a half Hufen 150 r., written out one hundred and fifty Reichsthaler, as purchase
-    money; and since this purchase money has already been paid in full, Gottlieb Sarre is hereby receipted
-    without further reservation.
+    § II. Gottlieb Sarre pays for the Hufe Magdeburg measure 100 rt., in words one hundred Reichsthaler,
+    hence for one and a half Hufen 150 r., in words one hundred and fifty Reichsthaler as entry money;
+    and since this purchase money has already been paid in full, Gottlieb Sarre is hereby receipted without
+    further reservation.
 
 
     § III. Gottlieb Sarre hereby binds himself, for himself and his successors in the possession of this
-    holding, to pay from each Hufe as annual hereditary canon 30 rtl., written out thirty Reichsthaler,
+    holding, to pay from each Hufe an annual hereditary canon of 30 rtl., in words thirty Reichsthaler,
     hence for one and a half Hufen 45 rtll.'
+  names:
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Gottlieb Sarre
+    en: Gottlieb Sarre
+    kind: person
+  numbers:
+  - 1 1/2
+  - '100'
+  - '150'
+  - '30'
+  - '45'
 - page: 3
-  en: '45 rt., written out forty-five Reichsthaler, to the Dominium of this place; and this hereditary
-    rent is to be settled annually in two instalments, namely with the one half at Christmas and with
-    the other half at Midsummer (Johannis), each time in cash and in Courant, to the manorial treasury.
+  en: '45 rt., in words forty-five Reichsthaler, to the manorial lordship (Dominium) of this place; and
+    this hereditary rent shall be settled annually in two instalments, namely with the one half at Christmas
+    and with the other half at Midsummer, each time in cash and in Courant, into the lordship''s treasury.
 
 
-    § IV. Of the wholly unbroken arable the hereditary lessee receives three free years, which begin from
-    Midsummer of the present year and end at Midsummer 1809, so that the first half-yearly hereditary
-    rent must be paid at Midsummer 1809 in the sum of 22 rt 12 gg, written out twenty-two Reichsthaler,
-    twelve good Groschen.
+    § IV. Of the wholly uncultivated arable the hereditary lessee receives three free years, which begin
+    at Midsummer of the present year and end at Midsummer 1809, so that the first half-yearly hereditary
+    rent must be rendered at Midsummer 1809 with 22 rt. 12 gg., in words twenty-two Reichsthaler, twelve
+    good Groschen.
 
 
-    That land which at the measuring-out was handed over to Gottlieb Sarre as already broken'
+    That land which at the time of the measuring out was already handed over to Gottlieb Sarre as arable'
+  names:
+  - de: Gottlieb Sarre
+    en: Gottlieb Sarre
+    kind: person
+  numbers:
+  - '45'
+  - '1809'
+  - '22'
+  - '12'
 - page: 4
-  en: '— be the same much or little — is subject to rent from Midsummer of this year, inasmuch as the
-    free years extend only to that part which has first to be brought under cultivation; and since the
-    handing over of these one and a half Hufen Magdeburg measure has already been made to the hereditary
-    lessee, he relinquishes all claims that might be raised on that account.
+  en: 'be it much or little, bears interest from Midsummer of this year onward, inasmuch as the free years
+    extend only to that part which has first to be brought under cultivation; and since the handing over
+    of these one and a half Hufen Magdeburg measure has already taken place to the hereditary lessee,
+    he renounces all claims that might be made on that account.
 
 
     § V. The hereditary lessee is at liberty to redeem the fixed hereditary rent of thirty Reichsthaler
-    per Hufe down to the half; that is, he may, according to his means, pay off to the ground lordship
+    per Hufe up to one half, that is to say, he may according to his means pay off to the ground lordship
     one, two, up to three hundred Reichsthaler of capital, whereupon for every hundred Reichsthaler five
-    Reichsthaler shall be struck off the hereditary rent annually.'
+    Reichsthaler shall be struck off the hereditary rent annually'
+  numbers:
+  - 1 1/2
 - page: 5
   en: 'The capital so paid off remains the property of the ground lordship, and this redemption of the
-    hereditary rent takes place only in respect of the first half; the second half, at fifteen Reichsthaler
-    per Hufe, on the contrary remains irredeemable, and can never be increased or diminished.
+    hereditary rent takes place only in respect of the first half; the second half, of fifteen Reichsthaler
+    per Hufe, on the other hand remains irredeemable and can never be raised or lessened.
 
 
-    § VI. Besides the hereditary rent in cash, the hereditary lessee undertakes, for now and for future
-    times in perpetuity, to settle and to render the royal and other public dues falling upon these one
-    and a half Hufen, of whatever kind they may be, without any exception and without deduction from the
-    hereditary rent or any other reimbursement.
+    § VI. Besides the hereditary rent in cash, the hereditary lessee undertakes, for the present and for
+    future times in perpetuity, to settle and to render the royal and other public dues falling upon these
+    one and a half Hufen, in whatsoever they may consist, without any exception and without deduction
+    from the hereditary rent or any other reimbursement.
 
 
-    § VII. The hereditary lessee must build upon it at his own cost, without'
+    § VII. The hereditary lessee must build upon it at his own cost, without his'
+  numbers:
+  - 1 1/2
 - page: 6
-  en: 'receiving for this purpose, neither now nor in the future, timber or any other building assistance.
-    However, the whole of the timber standing upon his one and a half Hufen belongs to him in property,
-    without exception.
+  en: 'receiving for this purpose, either now or in the future, timber or any other building assistance.
+    However, all the timber standing upon his one and a half Hufen belongs to him in property, without
+    exception.
 
 
     Likewise the hereditary lessee and his successors in the possession of this holding must effect all
     future repairs and new buildings out of their own means, without subsidy or assistance.
 
 
-    § VIII. Outside his own holding the hereditary lessee has no right to firewood or to pasturage in
-    the manorial forests and fields.
+    § VIII. Outside his own holding the hereditary lessee has no right to firewood or pasturage in the
+    lordship''s woods and fields.
 
 
-    § IX. His drink the hereditary lessee must always take from the manorial brewery and distillery, or
-    from the tavern.'
+    § IX. His drink the hereditary lessee must always take from the lordship''s brewery and distillery,
+    or from the tavern.'
+  numbers:
+  - 1 1/2
 - page: 7
-  en: 'If foreign drink be brought in by him or by his people, the hereditary lessee incurs each time
+  en: 'If by him or by his people foreign drink is brought in, the hereditary lessee incurs each time
     a penalty of five Reichsthaler for every barrel of beer and one Reichsthaler for every garniec of
-    brandy, which penalty is to be paid to the manorial lordship.
+    brandy, which penalty shall be rendered to the estate lordship.
 
 
-    § X. The hereditary lessee is subject to the milling constraint (Mühlenzwang), and may grind his grain
-    only where the manorial lordship directs him.
+    § X. To the milling compulsion the hereditary lessee is subject, and may grind his grain only where
+    the estate lordship directs him.
 
 
     § XI. From each and every manorial service and delivery in kind, without distinction, the hereditary
-    lessee is wholly and forever exempt; he nevertheless remains subject to the jurisdiction of the Dominium
-    of this place.
+    lessee is entirely and for ever exempted; he remains, however, subject to the jurisdiction of the
+    manorial lordship of this place.
 
 
     § XII. The hereditary lessee and his successors in possession'
 - page: 8
-  en: 'possession is entitled to alienate his holding to another in any manner he pleases; but at every
-    sale or exchange [a portion] of the money must be paid to the ground lordship as a laudemium, and
-    the consent of the same must be obtained for every alienation, inasmuch as the ground lordship hereby
-    reserves to itself, once and for all, the right of pre-emption.
+  en: 'possession is entitled to alienate his holding to another in any manner he pleases; but at each
+    sale or exchange a sum of money must be rendered to the ground lordship as a transfer fee (Laudemium),
+    and the consent of the same must be obtained for every alienation, inasmuch as the ground lordship
+    hereby reserves to itself once and for all the right of pre-emption.
 
 
-    § XIII. The hereditary lessee renounces, for himself and his successors in possession, wholly and
-    for now and the future, each and every remission in cases of misfortune — be the same occasioned by
-    fire from heaven, arson by evil persons, hail-stroke, crop failure, cattle plague, inundation, war
-    and pestilence, or in whatever manner it may be — and in cases occurring there shall be neither a
-    bonification nor a re[mission]'
+    § XIII. The hereditary lessee, for himself and his successors in possession, renounces entirely, for
+    the present and for the future, each and every remission in cases of misfortune, whether these arise
+    through fire from heaven, arson by evil persons, hailstorm, crop failure, cattle plague, inundation,
+    war and pestilence, or in whatsoever manner it may be; and in the event of such cases neither any
+    compensation nor remis-'
 - page: 9
-  en: '[re]mission of the hereditary rent take place.
+  en: 'sion of the hereditary rent shall take place.
 
 
-    § XIV. The hereditary lessee undertakes to settle the whole of the costs attending this contract.
+    § XIV. All the costs pertaining to this contract the hereditary lessee undertakes to settle.
 
 
     § XV. His Most Serene Highness consents that the hereditary lessee may, on the ground of this contract,
@@ -132,40 +185,62 @@ segments:
     § XVI. So long as the hereditary lessee and his successors in possession shall fulfil all the obligations
     contained in this contract, His Most Serene Highness promises to maintain them in their rights'
 - page: 10
-  en: 'and to defend them against any man''s real claim. Should, however, the hereditary lessee or his
-    successors remain in arrears with the annual hereditary rent for longer than two years, or should
-    they lay waste this holding and thereby diminish the revenues of the ground lordship, then the ground
-    lordship shall be entitled to let out this holding otherwise, and the hereditary lessee forfeits his
-    whole right and the purchase money he has paid in.
-
-
-    Both parties promise to keep this hereditary-lease contract firmly and inviolably; having been judicially
-    instructed as to the consequences, they renounce all'
+  en: and to defend them against any man's real claim. Should, however, the hereditary lessee or his successor
+    remain in arrears with the annual hereditary rent for longer than two years, or else lay this holding
+    waste and thereby diminish the revenues of the ground lordship, then the ground lordship shall be
+    entitled to dispose of this holding otherwise, and the hereditary lessee forfeits his whole right
+    and the entry money he has paid in. Both parties promise to keep this hereditary-lease contract firmly
+    and inviolably; having been instructed by the court as to the consequences, they renounce all
 - page: 11
-  en: 'subterfuges available against it, in particular the objection of an injury suffered above or below
-    the half (laesio enormis), of cunning persuasion, fear, coercion, of matters agreed otherwise than
-    as written down, or not rightly understood; they [ask? bear?] this contract to be judicially executed,
-    and, after it had first been read aloud word for word, have subscribed below in their own hands as
-    a token of approval.
+  en: 'evasions available against it, in particular the objection of an injury suffered above or below
+    the half, of cunning persuasion, fear, compulsion, of matters otherwise agreed than written down,
+    or not rightly understood; they apply for this contract to be issued in judicial form, and, after
+    it had first been read aloud to them word for word, have in token of their approval subscribed it
+    below with their own hands.
 
 
-    v. Triebenfeld       Gottlieb Sarre
+    von Triebenfeld    Gottlieb Sarre
 
 
     Schenk
+
 
     Justitiarius
 
 
     Ogrodowicz
 
-    Keeper of the Protocol
 
-
-    [Polish:] Which, for public faith, under'
+    Keeper of the Protocol. Which, for public faith, under'
+  names:
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Gottlieb Sarre
+    en: Gottlieb Sarre
+    kind: person
+  - de: Schenk
+    en: Schenk
+    kind: person
+  - de: Ogrodowicz
+    en: Ogrodowicz
+    kind: person
 - page: 12
-  en: '[Polish, continued:] the impression of the Court Seal we attest. Given at Pyzdry, the 28th day
-    of January 1808. Patrimonial Court of the Estate of Zagurowo.
+  en: 'the impression of the court seal we attest. Given at Pyzdry, the 28th day of January 1808. Patrimonial
+    Court of the Zagorowo Estate
 
 
     Hawich'
+  names:
+  - de: Pyzdrach
+    en: Pyzdry
+    kind: place
+  - de: Zagurowskiey
+    en: Zagorowo
+    kind: place
+  - de: Hawich
+    en: Hawich
+    kind: person
+  numbers:
+  - '28'
+  - '1808'

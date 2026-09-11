@@ -237,28 +237,319 @@
    "doc_line": 83
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Rthl",
+   "kind": "other",
+   "surface_de": "Rthl",
+   "surface_en": "Rthl",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Eyſenhardt",
+   "kind": "person",
+   "surface_de": "Eyſenhardt",
+   "surface_en": "Eyſenhardt",
+   "page": 2
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Janvelen",
+   "kind": "other",
+   "surface_de": "Janvelen",
+   "surface_en": "Janvelen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ziemecki",
+   "kind": "person",
+   "surface_de": "Ziemeckischen",
+   "surface_en": "Ziemecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardis",
+   "surface_en": "Bernhardi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorffen",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hemuth",
+   "kind": "person",
+   "surface_de": "Hemuth",
+   "surface_en": "Hemuth",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Countess von Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Granfin von Schlabrendorff",
+   "surface_en": "Countess von Schlabrendorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 4
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 4
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 4
+  },
+  {
+   "entity": "rhode",
+   "display": "Rhode",
+   "kind": "person",
+   "surface_de": "Rhode",
+   "surface_en": "Rhode",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Liep Meyer",
+   "kind": "person",
+   "surface_de": "Liep Meyer",
+   "surface_en": "Liep Meyer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! If I could obtain the 25000 Rthl in any manner whatever, without making the great transaction, I should long since have effected it with the most ardent zeal. But if I take the lesser sum, then it costs, and my hands are tied, because I must pledge the heavy papers for the small loan just as much as for the great one. As yet I have no first assurance where I am to obtain the capital sums. The papers are found good, and the security [uncertain: Lafficiat], but they delay, God knows why. I certainly do everything that human powers are capable of, and neither rest nor repose until the goal of all wishes is reached. Only here nothing can be forced. Twice already we believed we had the money for certain, but an evil man has thwarted it; as I think"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nIf I could have obtained the 25000 Rthl in any manner whatever, without making the great transaction, I should long since have effected it with the most burning zeal.\n\nBut if I take the lesser [sum], it costs, and my hands are bound, because I must pledge the heavy papers for the small loan just as much as for the great one. As yet I have no first assurance [uncertain: from which] I am to obtain the capital sums. The papers are found good, and the security [uncertain: Lafficiat], but there is delay, God knows why.\n\nI am certainly doing everything that human powers are capable of, and take neither rest nor repose until the goal of all wishes be attained. Only, nothing here can be forced. Twice already we believed we had the money for certain, but an evil man has thwarted it; as I think",
+   "names": [
+    {
+     "de": "Rthl",
+     "en": "Rthl",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "25000",
+    "2"
+   ]
   },
   {
    "page": 2,
-   "en": "it is the young Eyſenhardt — who claims to have 18000 Rthl to demand of Your Serene Highness as well; for these the Court Councillor Meyer will assign him the 20000 Rthl and take over the debt — I have for the present refused this — because the suit concerning the Janvelen is not yet decided, and because the 9000 Rthl are entered upon Szetlewek, wherefore he must be content with the interest, which I have myself given an assurance to pay him. In the same way shall I proceed with the Ziemecki affair. Of Bernhardi's conduct I say nothing — for he wished to treat me worse than the greatest usurer in the state, and by an eleven-day delay put me in the very greatest embarrassment — God be praised, I have buried the matter as happily as I could have thought, and let the peasant go his way. Should the Schlabrendorff woman be unmannerly, provision has here been made for everything, and she above all would have a foolish conduct to repent of."
+   "en": "it is young Eyſenhardt — who also claims to have 18000 Rthl to demand of Your Serene Highness; for these the Court Councillor Meyer will assign him the 20000 Rthl and assume the debt — I have for the present refused this, because the lawsuit concerning the Janvelen is not yet decided, and because the 9000 Rthl are registered upon Szetlewek, so that he must be content with the interest, which I have myself given an assurance to pay him. I shall do just the same with the Ziemecki affair. Of Bernhardi's conduct I say nothing — for he wished to treat me worse than the greatest usurer in the state, and by an eleven-day delay put me into the very greatest embarrassment — God be praised, I have buried the matter as happily as I could have thought, and let the peasant run.\n\nShould the Schlabrendorff woman be uncivil, provision has here been made for everything, and she and all of them would have a foolish conduct to repent of.",
+   "names": [
+    {
+     "de": "Eyſenhardt",
+     "en": "Eyſenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Janvelen",
+     "en": "Janvelen",
+     "kind": "other"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Ziemeckischen",
+     "en": "Ziemecki",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardis",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorffen",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "18000",
+    "20000",
+    "9000",
+    "11"
+   ]
   },
   {
    "page": 3,
-   "en": "156 a) Copy. Your Serene Highness caused me to be assured, through the Councillor of War von Triebenfeld to the Chancellor Hemuth, in the most binding terms, that at the past Christmas I should quite infallibly receive the arrears of the settlement moneys for my children. In full confidence in the word given me by Your Serene Highness, I have already disposed of this sum, payable these two years past, and I now find myself in the embarrassment of not being able to keep my own word. I should make myself answerable to my own children by any further indulgence, and there remains to me therefore nothing else but to have the suit in Berlin carried forward, if payment should not follow by the next post-day. This I hereby most submissively report to Your Serene Highness, and have the honour Breslau, 16th Jan: 1805. Countess von Schlabrendorff"
+   "en": "156 a)\n\nCopy.\n\nYour Serene Highness caused me to be assured, through the councillor of war von Triebenfeld [uncertain: Feld] to the Chancellor Hemuth, in the most binding terms, that at the Christmas just past I should quite infallibly receive the arrears of the settlement moneys for my children.\n\nIn full confidence upon the word given me by Your [Serene Highness] I have disposed over this sum, payable already these two years, and now find myself in the embarrassment of not being able to keep my own word.\n\nBy any further forbearance I should make myself answerable to my own children, and there remains to me therefore nothing further than to have the suit in Berlin continued, should payment not follow by the next post-day.\n\nOf this I most respectfully give Your [Serene Highness] notice herewith, and have the honour\n\nBreslau, 16th January\n\n1805.\n\nCountess von Schlabrendorff",
+   "names": [
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Hemuth",
+     "en": "Hemuth",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Granfin von Schlabrendorff",
+     "en": "Countess von Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "156",
+    "16",
+    "1805"
+   ]
   },
   {
    "page": 4,
-   "en": "Of General von Köckritz's assistance I have not yet wished to make any use, because Amelang thinks to come through without it. The General commends himself most reverently to Your Serene Highness. The free pass for 120 Eimer of wine Your Serene Highness will doubtless already have there. In deepest reverence I remain, Your Serene Highness's [text lost]\n\nI have just this moment heard that Bernhardi has played another knavish trick. He was to hand over the 3200 Rthl paid to him, together with 1200 Rthl prox. March, to my Professor Rhode; but this he has, in order to keep the moneys by him, assigned to the [illegible] Liep Meyer; and now this fellow does not pay the money, and I am in embarrassment anew. Berlin, the 19th January 1805. humble and obedient servant v Triebenfeld"
+   "en": "I have not yet wished to make use of General von Köckritz's assistance, because Amelang thinks to get through without it.\n\nThe General commends himself to Your Serene Highness in the most respectful manner.\n\nThe free pass for 120 [uncertain: Eignier] of wine Your Serene Highness will doubtless already have there. In deepest submission I remain Your Serene Highness's. Just now I hear that Bernhardi has played another knavish trick. He was to hand over the 3200 Rthl paid to him, together with 1200 Rthl next March, to my Professor Rhode. But this he has, in order to keep the moneys with himself, directed to the [uncertain: zu den] Liep Meyer; and this fellow now does not pay the money, and I am anew in embarrassment.\n\nBerlin, the 19th January\n\n1805.\n\nhumble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Rhode",
+     "en": "Rhode",
+     "kind": "person"
+    },
+    {
+     "de": "Liep Meyer",
+     "en": "Liep Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "120",
+    "3200",
+    "1200",
+    "19",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! If I could obtain the 25000 Rthl in any manner whatever, without making the great transaction, I should long since have effected it with the most ardent zeal. But if I take the lesser sum, then it costs, and my hands are tied, because I must pledge the heavy papers for the small loan just as much as for the great one. As yet I have no first assurance where I am to obtain the capital sums. The papers are found good, and the security [uncertain: Lafficiat], but they delay, God knows why. I certainly do everything that human powers are capable of, and neither rest nor repose until the goal of all wishes is reached. Only here nothing can be forced. Twice already we believed we had the money for certain, but an evil man has thwarted it; as I think\n\nit is the young Eyſenhardt — who claims to have 18000 Rthl to demand of Your Serene Highness as well; for these the Court Councillor Meyer will assign him the 20000 Rthl and take over the debt — I have for the present refused this — because the suit concerning the Janvelen is not yet decided, and because the 9000 Rthl are entered upon Szetlewek, wherefore he must be content with the interest, which I have myself given an assurance to pay him. In the same way shall I proceed with the Ziemecki affair. Of Bernhardi's conduct I say nothing — for he wished to treat me worse than the greatest usurer in the state, and by an eleven-day delay put me in the very greatest embarrassment — God be praised, I have buried the matter as happily as I could have thought, and let the peasant go his way. Should the Schlabrendorff woman be unmannerly, provision has here been made for everything, and she above all would have a foolish conduct to repent of.\n\n156 a) Copy. Your Serene Highness caused me to be assured, through the Councillor of War von Triebenfeld to the Chancellor Hemuth, in the most binding terms, that at the past Christmas I should quite infallibly receive the arrears of the settlement moneys for my children. In full confidence in the word given me by Your Serene Highness, I have already disposed of this sum, payable these two years past, and I now find myself in the embarrassment of not being able to keep my own word. I should make myself answerable to my own children by any further indulgence, and there remains to me therefore nothing else but to have the suit in Berlin carried forward, if payment should not follow by the next post-day. This I hereby most submissively report to Your Serene Highness, and have the honour Breslau, 16th Jan: 1805. Countess von Schlabrendorff\n\nOf General von Köckritz's assistance I have not yet wished to make any use, because Amelang thinks to come through without it. The General commends himself most reverently to Your Serene Highness. The free pass for 120 Eimer of wine Your Serene Highness will doubtless already have there. In deepest reverence I remain, Your Serene Highness's [text lost]\n\nI have just this moment heard that Bernhardi has played another knavish trick. He was to hand over the 3200 Rthl paid to him, together with 1200 Rthl prox. March, to my Professor Rhode; but this he has, in order to keep the moneys by him, assigned to the [illegible] Liep Meyer; and now this fellow does not pay the money, and I am in embarrassment anew. Berlin, the 19th January 1805. humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nIf I could have obtained the 25000 Rthl in any manner whatever, without making the great transaction, I should long since have effected it with the most burning zeal.\n\nBut if I take the lesser [sum], it costs, and my hands are bound, because I must pledge the heavy papers for the small loan just as much as for the great one. As yet I have no first assurance [uncertain: from which] I am to obtain the capital sums. The papers are found good, and the security [uncertain: Lafficiat], but there is delay, God knows why.\n\nI am certainly doing everything that human powers are capable of, and take neither rest nor repose until the goal of all wishes be attained. Only, nothing here can be forced. Twice already we believed we had the money for certain, but an evil man has thwarted it; as I think\n\nit is young Eyſenhardt — who also claims to have 18000 Rthl to demand of Your Serene Highness; for these the Court Councillor Meyer will assign him the 20000 Rthl and assume the debt — I have for the present refused this, because the lawsuit concerning the Janvelen is not yet decided, and because the 9000 Rthl are registered upon Szetlewek, so that he must be content with the interest, which I have myself given an assurance to pay him. I shall do just the same with the Ziemecki affair. Of Bernhardi's conduct I say nothing — for he wished to treat me worse than the greatest usurer in the state, and by an eleven-day delay put me into the very greatest embarrassment — God be praised, I have buried the matter as happily as I could have thought, and let the peasant run.\n\nShould the Schlabrendorff woman be uncivil, provision has here been made for everything, and she and all of them would have a foolish conduct to repent of.\n\n156 a)\n\nCopy.\n\nYour Serene Highness caused me to be assured, through the councillor of war von Triebenfeld [uncertain: Feld] to the Chancellor Hemuth, in the most binding terms, that at the Christmas just past I should quite infallibly receive the arrears of the settlement moneys for my children.\n\nIn full confidence upon the word given me by Your [Serene Highness] I have disposed over this sum, payable already these two years, and now find myself in the embarrassment of not being able to keep my own word.\n\nBy any further forbearance I should make myself answerable to my own children, and there remains to me therefore nothing further than to have the suit in Berlin continued, should payment not follow by the next post-day.\n\nOf this I most respectfully give Your [Serene Highness] notice herewith, and have the honour\n\nBreslau, 16th January\n\n1805.\n\nCountess von Schlabrendorff\n\nI have not yet wished to make use of General von Köckritz's assistance, because Amelang thinks to get through without it.\n\nThe General commends himself to Your Serene Highness in the most respectful manner.\n\nThe free pass for 120 [uncertain: Eignier] of wine Your Serene Highness will doubtless already have there. In deepest submission I remain Your Serene Highness's. Just now I hear that Bernhardi has played another knavish trick. He was to hand over the 3200 Rthl paid to him, together with 1200 Rthl next March, to my Professor Rhode. But this he has, in order to keep the moneys with himself, directed to the [uncertain: zu den] Liep Meyer; and this fellow now does not pay the money, and I am anew in embarrassment.\n\nBerlin, the 19th January\n\n1805.\n\nhumble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "Reports on the stalled effort to raise 25000 Rthl in Berlin: the papers are approved but lenders delay, and two near-certain arrangements were thwarted, probably by young Eyſenhardt, who claims 18000 Rthl and whom Court Councillor Meyer would satisfy by assigning 20000 Rthl; Triebenfeld refused, citing the undecided Janvelen suit and 9000 Rthl charged on Szetlewek, offering interest only, and similarly over Ziemecki. Complains of Bernhardi's eleven-day delay and his diversion of 3200 Rthl due to Professor Rhode to Liep Meyer. Encloses a copy of Countess von Schlabrendorff's threat to press her Berlin suit for her children's arrears of settlement money; mentions General von Köckritz, Amelang, and a free pass for 120 Eimer of wine.",
  "summary_de": "Bericht über die stockende Beschaffung der 25000 Rthl: die Papiere gelten als gut, doch verzögere sich die Zusage; eine kleinere Summe binde die Papiere ebenso. Zweimal habe der junge Eyſenhardt das Geschäft durchkreuzt, der 18000 Rthl fordere und dem Hofrath Meyer 20000 Rthl anweisen wolle; Triebenfeld verweigert dies wegen des unentschiedenen Janvelen-Prozesses und der auf Szetlewek eingetragenen 9000 Rthl, ebenso in der Sache Ziemecki. Klage über Bernhardi, der 3200 und 1200 Rthl statt an Professor Rhode an Liep Meyer angewiesen habe. Beigefügt Copie der Mahnung der Gräfin von Schlabrendorff wegen der Abfindungsgelder ihrer Kinder samt Prozessdrohung in Berlin; ferner General von Köckritz, Amelang und Freipass für 120 Eimer Wein."
 }

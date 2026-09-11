@@ -1,30 +1,84 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord!
+  en: 'Most Serene Prince
 
 
-    About 2 hours ago I arrived here and heard, to my vexation, that Glenck had travelled off after many,
-    also that Leixner was absent and is only expected today. In all things, however, unfortunately nothing
-    has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with
-    M Bernhard by the agreement: "that I am to bring the matter in question to a conclusion, that the
-    estates are to remain in Your Serene Highness''s names — that then Leixner wishes to take Kaemen,
-    and that this shall stand either in Your Serene Highness''s name or in mine"; for, as I have said,
-    so it has been done. — [uncertain: Leine] is in straits. He is therefore not to apply further for
-    the Incolat. Count Schulemburg has got onto his roof. — Meanwhile'
+    Most gracious Prince and Lord, some 2 hours ago I arrived here and heard to my vexation that Glenck
+    had travelled after many, also that Leixner was absent and is not expected until today. In all things,
+    however, unfortunately nothing has yet been done, and as I see, the one does not trust the other.
+    Each thing I have arranged with M[r] Bernhard by the agreement "that I am to bring the [uncertain:
+    reckoned] matter to a conclusion, that the estates shall remain in Your Serene Highness''s name -
+    that thereupon Leixner will take [uncertain: Kaemen], and that this shall stand either in Your Serene
+    Highness''s name or in mine; for as I have said, so has it been done. - Leixner is hard pressed. He
+    is thereupon not to apply any further for the right of residence (Incolat). Count Schulemburg has
+    got upon his roof - Meanwhile'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: M Bernhard
+    en: M[r] Bernhard
+    kind: person
+  - de: Kaemen
+    en: Kaemen
+    kind: other
+  - de: Gr Schulemburg
+    en: Count Schulemburg
+    kind: person
+  - de: Ewr Durch
+    en: Your Serene Highness
+    kind: person
+  numbers:
+  - '2'
 - page: 2
-  en: 'he is content if I lend him my name. I have therefore sent an express courier after Gleich, so
-    that he may be here again on Saturday; today I go to Berlin, to sound out everything there, and when
-    I return on Saturday I shall settle everything here, go from here to Bersch, with Heaven''s help conclude
-    everything there as well, and then hasten to Your Serene Highness; for to live longer in uncertainty
-    would be the torment of hell. — I do not know what Glenck thinks; Johann is indeed all too near. The
-    post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene
-    Highness''s
+  en: 'he is content that I lend him my name. I have therefore sent an express courier after Gleich, so
+    that he may be back here by Saturday; I go today to Berlin, to sound out everything there - and when
+    I come back on Saturday I shall settle everything here, go from here to Bersch, and with Heaven''s
+    help conclude everything there too, and then hasten to Your Serene Highness; for to live longer in
+    uncertainty would be the torment of hell - I do not know what Glenck thinks. Johann is indeed far
+    too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death,
+    Your Most Serene Highness''s Frankfurt an der Oder
 
 
-    Fr a. d. Oder, the 17th of May 1804.
+    the 17th of May
+
+
+    1804.
 
 
     faithful and most obedient servant
 
-    v Triebenfeld'
+
+    v. Triebenfeld'
+  names:
+  - de: Gleich
+    en: Gleich
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Bersch
+    en: Bersch
+    kind: place
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Johann
+    en: Johann
+    kind: person
+  - de: Fr a. d. Oder
+    en: Frankfurt an der Oder
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Ewr Hochfürstliche Durchlaucht
+    en: Your Most Serene Highness
+    kind: person
+  numbers:
+  - '17'
+  - '1804'

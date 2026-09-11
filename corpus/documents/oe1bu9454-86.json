@@ -180,24 +180,244 @@
    "doc_line": 63
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "von Voss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polajewo",
+   "kind": "place",
+   "surface_de": "Polajewo",
+   "surface_en": "Polajewo",
+   "page": 1
+  },
+  {
+   "entity": "noldichen",
+   "display": "Nöldichen",
+   "kind": "person",
+   "surface_de": "Nöldichen",
+   "surface_en": "Nöldichen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "SüdPreußischen",
+   "surface_en": "South Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kro-toszyn",
+   "kind": "place",
+   "surface_de": "Kro-teszyn",
+   "surface_en": "Kro-toszyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "von Voss",
+   "surface_en": "von Voss",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Struensee",
+   "kind": "person",
+   "surface_de": "von Struensee",
+   "surface_en": "von Struensee",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Chamber of Posen",
+   "kind": "other",
+   "surface_de": "Posensche Kammer",
+   "surface_en": "Chamber of Posen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Count von Höym",
+   "kind": "person",
+   "surface_de": "Grafen von Höym",
+   "surface_en": "Count von Höym",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Majesty's",
+   "kind": "other",
+   "surface_de": "E. M.",
+   "surface_en": "Your Majesty's",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene of all etc. etc. To Your Majesty I [would] render my most humble and most reverent thanks for the gracious sentiments expressed towards me in Your Majesty's most high letter of the 4th of Dec. Only this one thing distresses me, that according to the report submitted by the Minister of State von Voss I appear in a light as though I had made to Your Majesty proposals prejudicial to the interest of the State in the exchange of my South Prussian estates against the lordship of Krotoszyn which I most humbly solicited; and therefore I may expect pardon from Your Majesty's grace towards me if I permit myself to make the following observations against that report. First, I must most humbly state that, when it was disclosed to me by various persons that the additional payment of 30000 Rthl in cash, towards the exchange offered for Krotoszyn and Polajewo, would meet with difficulties, because a domain estate may indeed be exchanged but not alienated, I of my own accord notified the Minister von Voss that I wished to restrict my application solely to the exchange of my estates for Krotoszyn, whereby the alienation of Polajewo would fall away. It would betray little goodwill towards me if the Minister should not have reported this modification of my petition to Your Majesty, as appears to be evident from his letter sent to me and from Your Majesty's order. II. When Your Majesty, upon my most humble petition, charged the said Minister v. Voss to examine whether the proposed exchange could take place, it was surely the first thing I might expect, that he would obtain exact information concerning both of the objects to be exchanged herein. But so little is this thought of, that it was not even held worth the trouble to set a single pen to it for that purpose; rather the report has been submitted upon the one-sided statement of the Councillor of War Nöldichen, and of Kro-"
+   "en": "Most Serene of All\n\np. p.\n\nTo Your Majesty I would render my most humble and most reverential thanks for the gracious sentiments expressed towards me in Your Most High letter of the 4th of December. Only this one thing troubles me, that according to the report rendered by the Minister of State von Voss I appear in such a light as though I had made to Your Majesty proposals prejudicial to the interest of the State in the exchange, most humbly solicited by me, of my South Prussian estates against the lordship of Krotoszyn; and therefore I may expect pardon from Your Majesty's grace towards me if I permit myself to make the following observations against that report. Firstly, I must most humbly state that when it was disclosed to me by various persons that the supplementary payment of 30000 Rthl in cash, added to the exchange offered for Krotoszyn and Polajewo, would meet with difficulties, because a domain estate may indeed be exchanged but not alienated, I voluntarily notified the Minister von Voss that I wished to restrict my petition merely to the exchange of my estates for Krotoszyn, whereby the alienation of Polajewo would fall away. It would betray little good will towards me if the Minister should not have reported this modification of my request to Your Majesty, as appears to follow from his letter sent to me and from Your Majesty's order.\n\nII. When Your Majesty, upon my most humble petition, charged the said Minister von Voss with examining whether the proposed exchange could take place, it was surely the first thing I might have expected that he would obtain exact intelligence of both objects to be exchanged herein. But so little was this thought of that it was not even held worth the trouble to set so much as a pen to it; rather the report was rendered upon the one-sided statement of the councillor of war Nöldichen, and of Kro-",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "von Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Polajewo",
+     "en": "Polajewo",
+     "kind": "place"
+    },
+    {
+     "de": "Nöldichen",
+     "en": "Nöldichen",
+     "kind": "person"
+    },
+    {
+     "de": "SüdPreußischen",
+     "en": "South Prussian",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4ten",
+    "30000",
+    "17400"
+   ]
   },
   {
    "page": 2,
-   "en": "-teszyn that high yield has been assumed without foundation, which yield, as is known to me, was forthwith reduced, by the Minister von Voss's own reports to the Majesty of the late blessed King and in many letters to the Minister von Struensee at the time of the transfer of the estates from the Seehandlung to the Chamber of Posen, [uncertain: circulated], after several local investigations made at that time to himself, down to about 28000 Rthl. It therefore remains striking to me how he now speaks of a yield of 49043 r., and thus means to demonstrate a loss to the State of 17400 Rthl as against my estates. It is grounded in truth that Krotoszyn at present pays 30100 Rthl of rent, and it would be much if, given the prevailing prerogatives of the town, which rob the Dominium of all prospects of melioration, the yield could ever be really brought up to 36000 Rthl. My estates yield, after the old debts paid in by me and still to be discharged, which I have had to guarantee merely in order to come into possession, 41500 Rthl, for which I can furnish Your Majesty eviction-warranty. From this it follows, then, that the advantage is on the side of the State, inasmuch as a net revenue of 11000 Rthl accrues to it. If the Minister v. Voss will reckon the stated yield upon the meliorations still first to be undertaken, then I believe I may freely maintain against this that meliorations might take place with my estates far sooner than with Krotoszyn, inasmuch as the number of villages and also the extent of area are far more considerable than with those. Were, however, the data adduced concerning the value of Krotoszyn founded throughout in truth, then I should have importuned Your Majesty with prejudicial proposals in the offered exchange. But I owe it to myself to avoid even the suspicion that I"
+   "en": "toszyn that high yield was assumed without foundation, a yield which, as is known to me, was forthwith reduced to about 28000 Rthl by the Minister von Voss's own reports to His Majesty the late King of most blessed memory, and in many letters to the Minister von Struensee at the time of the transfer of the estates from the Maritime Trading Company to the Chamber of Posen, after several local investigations made at that time to himself.\n\nIt therefore remains striking to me how he now speaks of a yield of 49043 r., and thus means to demonstrate a loss to the State of 17400 Rthl as against my estates.\n\nIt is grounded in truth that Krotoszyn at present pays 30100 Rthl in rent, and it would be much if, given the prevailing prerogatives of the town, which rob the manorial lordship (Dominium) of every prospect of improvement, the yield could ever really be brought up to 36000 Rthl. My estates yield, after deduction of the old debts paid in by me and still to be discharged, which I have had to guarantee merely in order to come into possession, 41500 Rthl, for which I can furnish Your Majesty with warranty of title. From this it does after all follow that the advantage is on the State's side, inasmuch as a clear revenue of 11000 Rthl accrues to it. If the Minister von Voss will reckon the yield he has stated upon improvements yet to be undertaken, then I believe I can freely maintain against this that improvements might take place much sooner in my estates than at Krotoszyn, inasmuch as the number of villages and also the extent of the area are much more considerable than in the case of the latter.\n\nWere, however, the data adduced concerning the value of Krotoszyn throughout grounded in truth, then I should have troubled Your Majesty with prejudicial proposals in the exchange offered. But I owe it to myself to avoid even the suspicion that I",
+   "names": [
+    {
+     "de": "Kro-teszyn",
+     "en": "Kro-toszyn",
+     "kind": "place"
+    },
+    {
+     "de": "von Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "von Struensee",
+     "en": "von Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "Posensche Kammer",
+     "en": "Chamber of Posen",
+     "kind": "other"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "28000",
+    "49043",
+    "17400",
+    "30100",
+    "36000",
+    "41500",
+    "11000"
+   ]
   },
   {
    "page": 3,
-   "en": "were capable of it; and this therefore makes it my duty most humbly to beg that my petition not be left unheard: to charge an impartial Commissarius to investigate the value of my estates and of the Krotoszyn estates, to draw up a balance of the yield of both, and to report the result to Your Majesty. I should presume most reverently to propose for this the Minister of State Count von Hoym, who knows the circumstances most exactly, were it not that it might have the appearance as though he, in justification of his own administration, were speaking in support of my assertions. I leave it to Your Majesty to give this commission to a Commissarius whom Your Majesty may most highly find good, and I beg Your Majesty imploringly and urgently not to refuse me the requested investigation and reports, for the saving of my honour, and most graciously to require the same. My intention was chiefly and solely to negotiate a capital upon the Krotoszyn estates, in order to pay my debts as soon as possible according to Your Majesty's will. It would also have given me pleasure, since they are not at [uncertain: any] time distant from my Government, to see to their husbandry myself, and in this regard I would even take a loss as against my own [estates], whereas it can be indifferent to the State where it has its domains lying, provided only that they afford the yield according to the establishment. I remain, until death, Your Majesty's Breslau, the 7th of Decbr: 1798."
+   "en": "were capable of such a thing, and this therefore makes it my duty most humbly to beg that my request not be left unheard: to charge an impartial commissioner with investigating the value of my estates and of the Krotoszyn estates, to draw a balance of the yield of both, and to report the result to Your Majesty.\n\nI should presume most reverentially to propose for this purpose the Minister of State Count von Höym, who knows the circumstances most exactly, were it not that it might bear the appearance as though he, in justification of his own administration, were speaking in favour of my assertions.\n\nI leave it to Your Majesty to give this commission to a commissioner whom Your Most High self shall think good, and I beg Your Majesty most imploringly and urgently not to deny me the investigation and reports I have requested for the rescue of my honour, and most graciously to require the same. My intention was chiefly and solely to negotiate a capital upon the Krotoszyn estates, in order to pay my debts as soon as possible according to Your Majesty's will. It would also have given me pleasure, since they are not at present distant from my government, to look to their husbandry myself, and in this regard I would myself take on a loss as against my own estates, whereas it can be indifferent to the State where it has its domains lying, provided only they afford the yield laid down in the budget.\n\nI remain, until death,\n\nYour Majesty's. Breslau, the 7th of December 1798.",
+   "names": [
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Grafen von Höym",
+     "en": "Count von Höym",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "E. M.",
+     "en": "Your Majesty's",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "7ten",
+    "1798"
+   ]
   }
  ],
- "text_english": "Most Serene of all etc. etc. To Your Majesty I [would] render my most humble and most reverent thanks for the gracious sentiments expressed towards me in Your Majesty's most high letter of the 4th of Dec. Only this one thing distresses me, that according to the report submitted by the Minister of State von Voss I appear in a light as though I had made to Your Majesty proposals prejudicial to the interest of the State in the exchange of my South Prussian estates against the lordship of Krotoszyn which I most humbly solicited; and therefore I may expect pardon from Your Majesty's grace towards me if I permit myself to make the following observations against that report. First, I must most humbly state that, when it was disclosed to me by various persons that the additional payment of 30000 Rthl in cash, towards the exchange offered for Krotoszyn and Polajewo, would meet with difficulties, because a domain estate may indeed be exchanged but not alienated, I of my own accord notified the Minister von Voss that I wished to restrict my application solely to the exchange of my estates for Krotoszyn, whereby the alienation of Polajewo would fall away. It would betray little goodwill towards me if the Minister should not have reported this modification of my petition to Your Majesty, as appears to be evident from his letter sent to me and from Your Majesty's order. II. When Your Majesty, upon my most humble petition, charged the said Minister v. Voss to examine whether the proposed exchange could take place, it was surely the first thing I might expect, that he would obtain exact information concerning both of the objects to be exchanged herein. But so little is this thought of, that it was not even held worth the trouble to set a single pen to it for that purpose; rather the report has been submitted upon the one-sided statement of the Councillor of War Nöldichen, and of Kro-\n\n-teszyn that high yield has been assumed without foundation, which yield, as is known to me, was forthwith reduced, by the Minister von Voss's own reports to the Majesty of the late blessed King and in many letters to the Minister von Struensee at the time of the transfer of the estates from the Seehandlung to the Chamber of Posen, [uncertain: circulated], after several local investigations made at that time to himself, down to about 28000 Rthl. It therefore remains striking to me how he now speaks of a yield of 49043 r., and thus means to demonstrate a loss to the State of 17400 Rthl as against my estates. It is grounded in truth that Krotoszyn at present pays 30100 Rthl of rent, and it would be much if, given the prevailing prerogatives of the town, which rob the Dominium of all prospects of melioration, the yield could ever be really brought up to 36000 Rthl. My estates yield, after the old debts paid in by me and still to be discharged, which I have had to guarantee merely in order to come into possession, 41500 Rthl, for which I can furnish Your Majesty eviction-warranty. From this it follows, then, that the advantage is on the side of the State, inasmuch as a net revenue of 11000 Rthl accrues to it. If the Minister v. Voss will reckon the stated yield upon the meliorations still first to be undertaken, then I believe I may freely maintain against this that meliorations might take place with my estates far sooner than with Krotoszyn, inasmuch as the number of villages and also the extent of area are far more considerable than with those. Were, however, the data adduced concerning the value of Krotoszyn founded throughout in truth, then I should have importuned Your Majesty with prejudicial proposals in the offered exchange. But I owe it to myself to avoid even the suspicion that I\n\nwere capable of it; and this therefore makes it my duty most humbly to beg that my petition not be left unheard: to charge an impartial Commissarius to investigate the value of my estates and of the Krotoszyn estates, to draw up a balance of the yield of both, and to report the result to Your Majesty. I should presume most reverently to propose for this the Minister of State Count von Hoym, who knows the circumstances most exactly, were it not that it might have the appearance as though he, in justification of his own administration, were speaking in support of my assertions. I leave it to Your Majesty to give this commission to a Commissarius whom Your Majesty may most highly find good, and I beg Your Majesty imploringly and urgently not to refuse me the requested investigation and reports, for the saving of my honour, and most graciously to require the same. My intention was chiefly and solely to negotiate a capital upon the Krotoszyn estates, in order to pay my debts as soon as possible according to Your Majesty's will. It would also have given me pleasure, since they are not at [uncertain: any] time distant from my Government, to see to their husbandry myself, and in this regard I would even take a loss as against my own [estates], whereas it can be indifferent to the State where it has its domains lying, provided only that they afford the yield according to the establishment. I remain, until death, Your Majesty's Breslau, the 7th of Decbr: 1798.",
+ "text_english": "Most Serene of All\n\np. p.\n\nTo Your Majesty I would render my most humble and most reverential thanks for the gracious sentiments expressed towards me in Your Most High letter of the 4th of December. Only this one thing troubles me, that according to the report rendered by the Minister of State von Voss I appear in such a light as though I had made to Your Majesty proposals prejudicial to the interest of the State in the exchange, most humbly solicited by me, of my South Prussian estates against the lordship of Krotoszyn; and therefore I may expect pardon from Your Majesty's grace towards me if I permit myself to make the following observations against that report. Firstly, I must most humbly state that when it was disclosed to me by various persons that the supplementary payment of 30000 Rthl in cash, added to the exchange offered for Krotoszyn and Polajewo, would meet with difficulties, because a domain estate may indeed be exchanged but not alienated, I voluntarily notified the Minister von Voss that I wished to restrict my petition merely to the exchange of my estates for Krotoszyn, whereby the alienation of Polajewo would fall away. It would betray little good will towards me if the Minister should not have reported this modification of my request to Your Majesty, as appears to follow from his letter sent to me and from Your Majesty's order.\n\nII. When Your Majesty, upon my most humble petition, charged the said Minister von Voss with examining whether the proposed exchange could take place, it was surely the first thing I might have expected that he would obtain exact intelligence of both objects to be exchanged herein. But so little was this thought of that it was not even held worth the trouble to set so much as a pen to it; rather the report was rendered upon the one-sided statement of the councillor of war Nöldichen, and of Kro-\n\ntoszyn that high yield was assumed without foundation, a yield which, as is known to me, was forthwith reduced to about 28000 Rthl by the Minister von Voss's own reports to His Majesty the late King of most blessed memory, and in many letters to the Minister von Struensee at the time of the transfer of the estates from the Maritime Trading Company to the Chamber of Posen, after several local investigations made at that time to himself.\n\nIt therefore remains striking to me how he now speaks of a yield of 49043 r., and thus means to demonstrate a loss to the State of 17400 Rthl as against my estates.\n\nIt is grounded in truth that Krotoszyn at present pays 30100 Rthl in rent, and it would be much if, given the prevailing prerogatives of the town, which rob the manorial lordship (Dominium) of every prospect of improvement, the yield could ever really be brought up to 36000 Rthl. My estates yield, after deduction of the old debts paid in by me and still to be discharged, which I have had to guarantee merely in order to come into possession, 41500 Rthl, for which I can furnish Your Majesty with warranty of title. From this it does after all follow that the advantage is on the State's side, inasmuch as a clear revenue of 11000 Rthl accrues to it. If the Minister von Voss will reckon the yield he has stated upon improvements yet to be undertaken, then I believe I can freely maintain against this that improvements might take place much sooner in my estates than at Krotoszyn, inasmuch as the number of villages and also the extent of the area are much more considerable than in the case of the latter.\n\nWere, however, the data adduced concerning the value of Krotoszyn throughout grounded in truth, then I should have troubled Your Majesty with prejudicial proposals in the exchange offered. But I owe it to myself to avoid even the suspicion that I\n\nwere capable of such a thing, and this therefore makes it my duty most humbly to beg that my request not be left unheard: to charge an impartial commissioner with investigating the value of my estates and of the Krotoszyn estates, to draw a balance of the yield of both, and to report the result to Your Majesty.\n\nI should presume most reverentially to propose for this purpose the Minister of State Count von Höym, who knows the circumstances most exactly, were it not that it might bear the appearance as though he, in justification of his own administration, were speaking in favour of my assertions.\n\nI leave it to Your Majesty to give this commission to a commissioner whom Your Most High self shall think good, and I beg Your Majesty most imploringly and urgently not to deny me the investigation and reports I have requested for the rescue of my honour, and most graciously to require the same. My intention was chiefly and solely to negotiate a capital upon the Krotoszyn estates, in order to pay my debts as soon as possible according to Your Majesty's will. It would also have given me pleasure, since they are not at present distant from my government, to look to their husbandry myself, and in this regard I would myself take on a loss as against my own estates, whereas it can be indifferent to the State where it has its domains lying, provided only they afford the yield laid down in the budget.\n\nI remain, until death,\n\nYour Majesty's. Breslau, the 7th of December 1798.",
  "summary_en": "Draft petition to the King rebutting Minister of State von Voss's report on the proposed exchange of the writer's South Prussian estates for the lordship of Krotoszyn: the offer of 30000 Rthl in cash and of Polajewo had already been withdrawn; von Voss's figure of 49043 Rthl yield rests on Councillor of War Nöldichen's one-sided statement, whereas Krotoszyn pays 30100 Rthl rent against the writer's estates' 41500 Rthl. Asks for an impartial Commissarius, mentioning Count von Hoym, and explains the aim of raising capital to pay debts.",
  "summary_de": "Rechtfertigungsschreiben an den König gegen den Bericht des Staatsministers von Voss zum erbetenen Tausch der südpreußischen Güter gegen die Herrschaft Krotoszyn: die Zuzahlung von 30000 Rthl und die Veräußerung von Polajewo seien bereits zurückgenommen worden; der auf Angaben des Kriegsraths Nöldichen gestützte Ertrag von 49043 Rthl sei überhöht (tatsächlich 30100 Rthl Pacht, höchstens 36000 Rthl), die eigenen Güter trügen 41500 Rthl. Erbeten wird ein unparteiischer Commissarius zur Wertermittlung; Graf von Hoym wird erwogen. Zweck sei die Aufnahme eines Capitals zur Schuldentilgung."
 }

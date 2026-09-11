@@ -185,20 +185,283 @@
    "doc_line": 62
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Coste",
+   "kind": "person",
+   "surface_de": "Coste",
+   "surface_en": "Coste",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "v. d. Lahr",
+   "surface_en": "von der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitzschen",
+   "surface_en": "Grevenitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oldekopp",
+   "kind": "person",
+   "surface_de": "Oldekopp",
+   "surface_en": "Oldekopp",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mathein",
+   "kind": "person",
+   "surface_de": "Mathein",
+   "surface_en": "Mathein",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oppeln",
+   "kind": "place",
+   "surface_de": "Oppeln",
+   "surface_en": "Oppeln",
+   "page": 2
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr. Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "My longing to be able to lay myself at Your Most Serene Highness's feet in person as soon as possible is boundless - I could rage with impatience. The Lahr lawsuit still holds me back for now, and I must see how the matter is to be managed. Lahr is still to receive 3000 Rthl according to the judgment just now made known to me by Amelang, together with the interest. He must take papers, and these would amount, at the present rate of exchange, together with the interest, to about 2000 Rthl. Now there lie deposited from me 2 obligations of 1000 each, pledged for 800 Rthl, 2 of 300 for 360, 1 of 400 Rthl for 340 - these are 3000 Rthl in papers for Lahr; but the costs now, 1500 Rthl, I must have in order to be able to redeem them at once. As soon as I have these, I am at least free. To Coste I yesterday happily [returned] the 9000 Rthl which at that time had to be deposited to cover the 5000 Rthl which v. d. Lahr gave upon Zastrow, mine, and the Grevenitz bill of exchange; I repaid it yesterday, and paid him 450 Rthl in interest. I also gave his book-keeper and the [uncertain: Constier] Oldekopp 118 Rthl. These are - 2068 Rthl. As soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is cleared out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these monies to be reimbursed out of the Zagorow estates; also 1500 Rthl in Courant are saved. One's most excellent Chamber is, as I this"
+   "en": "My longing to be able to lay myself at Your Most Serene Highness's feet in person as soon as possible is without bounds — I could rage with impatience.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr is still to receive 3000 Rthl according to the judgement just now made known to me by Amelang, together with the interest. He must take paper securities, and these would, at the present rate of exchange, amount with the interest to about 2000 Rthl. Now there lie pledged, belonging to me, 2 bonds of 1000 each against 800 Rthl\n\n2 of 300 for 360\n\n1 of 400 Rthl\n\nfor 340; these are 3000 Rthl in paper for Lahr, but the costs now amount to 1500 Rthl, which I must have in order to be able to redeem them at once. As soon as I have this, I am at least free. With Coste I yesterday happily [dealt with] the 9000 Rthl which at that time had to be deposited to cover the 5000 Rthl which von der Lahr gave upon Zastrow, mine and the Grevenitz bill of exchange; these I repaid yesterday, and paid him 450 Rthl in interest. Also gave his bookkeeper and the [uncertain: Constier] Oldekopp 118 Rthl\n\nIs — 2068 Rthl. As soon as I receive this, this dreadful affair, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these monies to be reimbursed out of the Zagorowo estates.\n\nalso there will be\n\n1500 Rthl in Courant\n\nis saved. Most excellent Chamber, as I this [text breaks off]",
+   "names": [
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Coste",
+     "en": "Coste",
+     "kind": "person"
+    },
+    {
+     "de": "v. d. Lahr",
+     "en": "von der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitzschen",
+     "en": "Grevenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Oldekopp",
+     "en": "Oldekopp",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "3000",
+    "2000",
+    "2",
+    "1000",
+    "800",
+    "2",
+    "300",
+    "360",
+    "1",
+    "400",
+    "340",
+    "3000",
+    "1500",
+    "9000",
+    "5000",
+    "450",
+    "118",
+    "2068",
+    "1500"
+   ]
   },
   {
    "page": 2,
-   "en": "receive these 2068 Rthl quickly, and also how I may satisfy Mathein, who in the end means to hold me fast for 1000 Rthl Courant or 1500 Rthl in coin, so as to be able to travel. The merchant Michaelis yesterday made me the offer that, if Your Serene Highness would let him have 600 Centner of iron at 4 Rthl until the month of May, he would thereupon at once settle the 2068 Rthl together with interest and costs. The iron would, however, have to be delivered to him free of charge as far as Oppeln. Reckoning upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract - to give him 600 Centner of bar and hoop iron must surely be a trifle, and with free [text lost]. The lawsuit with Oppenheimer and the many messengers and other costs to South Prussia, which I have here laid out in cash, amount to 52 Rthl. These I beg to have repaid to me in cash as [uncertain: quickly] as possible. Likewise I beg for the execution and other costs which the French gendarmerie, whom I had to feed and pay here, have caused - these amount to 411 Rthl. These are 932 Rthl Courant, for until I receive these I am as good as under arrest and may not stir from the spot. For the very speediest disposal of this matter, and in particular for the 932 Rthl in cash and for the promise of the 600 Centner of iron, I beg Your Serene Highness as urgently as most heartily, and I protest that I shall continue therein with the most glowing zeal to help bring all Your Most High affairs into the best course.\n\nanswered as desired.\n\nthe 3rd of February 1809. to Berlin.\n\nv Triebenfeld"
+   "en": "2068 Rthl quickly, and likewise how I am to satisfy Mathein, who in the end means to hold me fast for 1000 Rthl Courant or 1500 Rthl in coin, so as to be able to travel.\n\nThe merchant Michaelis yesterday made me the offer that, if Your Serene Highness would let him have 600 hundredweight of iron at 4 Rthl by the month of May, he would then at once settle the 2068 Rthl together with the interest and costs. The iron, however, would have to be delivered to him carriage-free as far as Oppeln.\n\nCounting upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract — for 600 [uncertain: Leute] of bar and hoop iron must surely be a trifle to give him, and with free [text lost] The lawsuit with Oppenheimer, and the many messengers and other costs to South Prussia, which I have here laid out in cash, amount to 52 Rthl. These I beg to have repaid to me in cash as [uncertain: swiftly] as possible. Likewise I beg for the costs of execution and the others which the French gendarmerie — whom I have had to feed and pay here — have caused; these amount to 411 Rthl. These are 932 Rthl Courant, and until I receive them I am as good as under arrest and may not stir from the spot. For the very swiftest disposition of this matter, and particularly for the 932 Rthl in cash, and for the assurance of the 600 hundredweight of iron, I beg Your Serene Highness as urgently as most heartily, and I protest that I shall continue with the most glowing zeal to help bring all Your Highness's affairs into the best course.\n\nanswered according to wish.\n\nThe 3rd of February 1809. to Berlin. von Triebenfeld",
+   "names": [
+    {
+     "de": "Mathein",
+     "en": "Mathein",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Oppeln",
+     "en": "Oppeln",
+     "kind": "place"
+    },
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr. Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2068",
+    "1000",
+    "1500",
+    "600",
+    "4",
+    "2068",
+    "600",
+    "52",
+    "411",
+    "932",
+    "932",
+    "600",
+    "3",
+    "1809"
+   ]
   }
  ],
- "text_english": "My longing to be able to lay myself at Your Most Serene Highness's feet in person as soon as possible is boundless - I could rage with impatience. The Lahr lawsuit still holds me back for now, and I must see how the matter is to be managed. Lahr is still to receive 3000 Rthl according to the judgment just now made known to me by Amelang, together with the interest. He must take papers, and these would amount, at the present rate of exchange, together with the interest, to about 2000 Rthl. Now there lie deposited from me 2 obligations of 1000 each, pledged for 800 Rthl, 2 of 300 for 360, 1 of 400 Rthl for 340 - these are 3000 Rthl in papers for Lahr; but the costs now, 1500 Rthl, I must have in order to be able to redeem them at once. As soon as I have these, I am at least free. To Coste I yesterday happily [returned] the 9000 Rthl which at that time had to be deposited to cover the 5000 Rthl which v. d. Lahr gave upon Zastrow, mine, and the Grevenitz bill of exchange; I repaid it yesterday, and paid him 450 Rthl in interest. I also gave his book-keeper and the [uncertain: Constier] Oldekopp 118 Rthl. These are - 2068 Rthl. As soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is cleared out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these monies to be reimbursed out of the Zagorow estates; also 1500 Rthl in Courant are saved. One's most excellent Chamber is, as I this\n\nreceive these 2068 Rthl quickly, and also how I may satisfy Mathein, who in the end means to hold me fast for 1000 Rthl Courant or 1500 Rthl in coin, so as to be able to travel. The merchant Michaelis yesterday made me the offer that, if Your Serene Highness would let him have 600 Centner of iron at 4 Rthl until the month of May, he would thereupon at once settle the 2068 Rthl together with interest and costs. The iron would, however, have to be delivered to him free of charge as far as Oppeln. Reckoning upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract - to give him 600 Centner of bar and hoop iron must surely be a trifle, and with free [text lost]. The lawsuit with Oppenheimer and the many messengers and other costs to South Prussia, which I have here laid out in cash, amount to 52 Rthl. These I beg to have repaid to me in cash as [uncertain: quickly] as possible. Likewise I beg for the execution and other costs which the French gendarmerie, whom I had to feed and pay here, have caused - these amount to 411 Rthl. These are 932 Rthl Courant, for until I receive these I am as good as under arrest and may not stir from the spot. For the very speediest disposal of this matter, and in particular for the 932 Rthl in cash and for the promise of the 600 Centner of iron, I beg Your Serene Highness as urgently as most heartily, and I protest that I shall continue therein with the most glowing zeal to help bring all Your Most High affairs into the best course.\n\nanswered as desired.\n\nthe 3rd of February 1809. to Berlin.\n\nv Triebenfeld",
+ "text_english": "My longing to be able to lay myself at Your Most Serene Highness's feet in person as soon as possible is without bounds — I could rage with impatience.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr is still to receive 3000 Rthl according to the judgement just now made known to me by Amelang, together with the interest. He must take paper securities, and these would, at the present rate of exchange, amount with the interest to about 2000 Rthl. Now there lie pledged, belonging to me, 2 bonds of 1000 each against 800 Rthl\n\n2 of 300 for 360\n\n1 of 400 Rthl\n\nfor 340; these are 3000 Rthl in paper for Lahr, but the costs now amount to 1500 Rthl, which I must have in order to be able to redeem them at once. As soon as I have this, I am at least free. With Coste I yesterday happily [dealt with] the 9000 Rthl which at that time had to be deposited to cover the 5000 Rthl which von der Lahr gave upon Zastrow, mine and the Grevenitz bill of exchange; these I repaid yesterday, and paid him 450 Rthl in interest. Also gave his bookkeeper and the [uncertain: Constier] Oldekopp 118 Rthl\n\nIs — 2068 Rthl. As soon as I receive this, this dreadful affair, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these monies to be reimbursed out of the Zagorowo estates.\n\nalso there will be\n\n1500 Rthl in Courant\n\nis saved. Most excellent Chamber, as I this [text breaks off]\n\n2068 Rthl quickly, and likewise how I am to satisfy Mathein, who in the end means to hold me fast for 1000 Rthl Courant or 1500 Rthl in coin, so as to be able to travel.\n\nThe merchant Michaelis yesterday made me the offer that, if Your Serene Highness would let him have 600 hundredweight of iron at 4 Rthl by the month of May, he would then at once settle the 2068 Rthl together with the interest and costs. The iron, however, would have to be delivered to him carriage-free as far as Oppeln.\n\nCounting upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract — for 600 [uncertain: Leute] of bar and hoop iron must surely be a trifle to give him, and with free [text lost] The lawsuit with Oppenheimer, and the many messengers and other costs to South Prussia, which I have here laid out in cash, amount to 52 Rthl. These I beg to have repaid to me in cash as [uncertain: swiftly] as possible. Likewise I beg for the costs of execution and the others which the French gendarmerie — whom I have had to feed and pay here — have caused; these amount to 411 Rthl. These are 932 Rthl Courant, and until I receive them I am as good as under arrest and may not stir from the spot. For the very swiftest disposition of this matter, and particularly for the 932 Rthl in cash, and for the assurance of the 600 hundredweight of iron, I beg Your Serene Highness as urgently as most heartily, and I protest that I shall continue with the most glowing zeal to help bring all Your Highness's affairs into the best course.\n\nanswered according to wish.\n\nThe 3rd of February 1809. to Berlin. von Triebenfeld",
  "summary_en": "Detained in Berlin by the Lahr lawsuit, Triebenfeld reports the judgment awarding Lahr 3000 Rthl, met by deposited obligations pledged at 800, 360 and 340 Rthl, and needing 1500 Rthl in costs to redeem them. He has repaid Coste the 9000 Rthl covering the Zastrow, own and Grevenitz bills, plus 450 Rthl interest and 118 Rthl to Oldekopp, leaving 2068 Rthl outstanding, recoverable from the Zagorow estates. Michaelis offers settlement against 600 Centner of iron at 4 Rthl delivered free to Oppeln; he further requests 932 Rthl cash for Oppenheimer costs and French gendarmerie expenses.",
  "summary_de": "Bericht über den Prozeß mit Lahr: nach dem von Amelang mitgeteilten Urteil stehen Lahr 3000 Rthl nebst Zinsen zu, die durch deponierte Obligationen gedeckt sind; zur Einlösung fehlen 1500 Rthl. Coste sind die zur Deckung der 5000 Rthl (Wechsel Zastrow, Triebenfeld, Grevenitz) deponierten 9000 Rthl samt 450 Rthl Zinsen zurückgezahlt, dem Buchhalter und Oldekopp 118 Rthl gegeben; erbeten werden 2068 Rthl, ferner 52 Rthl Prozeßkosten (Oppenheimer) und 411 Rthl für die französische Gendarmerie, zusammen 932 Rthl Courant. Der Kaufmann Michaelis biete, gegen 600 Centner Eisen zu 4 Rthl frei Oppeln, die Bereinigung der 2068 Rthl an; Ersatz aus den Zagorower Gütern sei angeordnet. Auch Mathein fordert 1000 Rthl Courant."
 }

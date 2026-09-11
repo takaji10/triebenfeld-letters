@@ -1,18 +1,79 @@
 status: draft
 segments:
 - page: 1
-  en: 'The Royal Minister of State and of Justice, Herr von Kircheisen, is hereby called upon, as executor
-    of the testament of the deceased Frau Fürstin von Sacken, in the event that the assertion advanced
-    by the General Invalids'' Fund in its suit lodged on the 30th of last month before the Royal Chamber
-    Court — namely that the Herr Fürst von Hohenlohe Ingelfingen would receive from the estate of the
-    Fürstin von Sacken a legacy of 50000 Rthl, and that she had assigned this to the Councillor of War
-    and Forests von Triebenfeld at Kontop near Grüneberg in satisfaction of the latter''s claims against
-    him — should prove to be founded, to pay out nothing to the said von Triebenfeld from this sum, upon
-    his own liability. Berlin, the 1st of August 1811. Royal Prussian Chamber Court. [To] the Royal Minister
-    of State and of Justice, Herr von Kircheisen. in simili: To the Royal Upper Medical Councillor Herr
-    Cosmar, here. To the Councillor of War and Forests Herr von Triebenfeld at Kontop. No 1103. We transmit
-    to you herewith a summons of the Royal Chamber Court at Berlin of the 1st of the current month in
-    the matter of the General Invalids'' Fund against you, with the command to render in every respect
-    the obedience due to its contents, and to certify in full the due receipt thereof upon the Copy to
-    be laid before you of the same. Glogau, the 6th of Aug. 1811. Royal Prussian Superior Provincial Court
-    of Silesia. Fülleborn'
+  en: 'The Royal Minister of State and of Justice, Mr. von Kircheisen, is hereby called upon, in the event
+    that the assertion advanced by the General Invalids'' Fund in its suit lodged on the 30th of last
+    month with the Royal Superior Court of Appeal — namely, that the Prince of Hohenlohe-Ingelfingen was
+    to receive from the estate of the Princess von Sacken a legacy of 50000 Rthl, and that he had directed
+    the Councillor of War and Forests von Triebenfeld at Kontop near Grüneberg to that sum for the settlement
+    of the latter''s claims against him — should prove to be well founded, to pay out nothing of this
+    sum to the aforesaid von Triebenfeld, upon his own liability.
+
+
+    Berlin, the 1st of August 1811.
+
+
+    Royal Prussian Superior Court of Appeal.
+
+
+    [to] the Royal Minister of State and of Justice, Mr. von Kircheisen.
+
+
+    in like manner
+
+
+    To the Royal Chief Medical Councillor Mr. Cosmar here. To the Councillor of War and Forests Mr. von
+    Triebenfeld at Kontop.
+
+
+    No. 1103.
+
+
+    We cause to be transmitted to you herewith a summons of the Royal Superior Court of Appeal at Berlin
+    of the 1st of the current month, in the matter of the General Invalids'' Fund against you, with the
+    command to render in every respect the obedience due to its contents, and to certify in full the correct
+    receipt thereof upon the Copy to be laid before you of the same. Glogau, the 6th of Aug. 1811. Royal
+    Prussian Superior Provincial Court of Silesia. Fülleborn'
+  names:
+  - de: von Kircheisen
+    en: von Kircheisen
+    kind: person
+  - de: von Sacken
+    en: von Sacken
+    kind: person
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: other
+  - de: von Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Grüneberg
+    en: Grüneberg
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Glogau
+    en: Glogau
+    kind: place
+  - de: Schlesien
+    en: Silesia
+    kind: place
+  - de: Fülleborn
+    en: Fülleborn
+    kind: person
+  numbers:
+  - 30ten
+  - '50000'
+  - 1 ten
+  - '1811'
+  - '1103'
+  - 1ten
+  - 6ten
+  - '1811'

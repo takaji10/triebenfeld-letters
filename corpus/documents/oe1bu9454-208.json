@@ -144,20 +144,391 @@
    "doc_line": 49
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Pehlen",
+   "kind": "place",
+   "surface_de": "Pehlen",
+   "surface_en": "Pehlen",
+   "page": 1
+  },
+  {
+   "entity": "knobelsdorff",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorff",
+   "surface_en": "Knobelsdorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strachwitz",
+   "kind": "person",
+   "surface_de": "Strachwitz",
+   "surface_en": "Strachwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlieben",
+   "kind": "person",
+   "surface_de": "Schlieben",
+   "surface_en": "Schlieben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schwänner",
+   "kind": "other",
+   "surface_de": "Schwännersche",
+   "surface_en": "Schwänner",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schock",
+   "kind": "person",
+   "surface_de": "Schock",
+   "surface_en": "Schock",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schoch",
+   "kind": "person",
+   "surface_de": "Schoch",
+   "surface_en": "Schoch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Köpnick",
+   "kind": "place",
+   "surface_de": "Köpnick",
+   "surface_en": "Köpnick",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Charlottenbourg",
+   "kind": "place",
+   "surface_de": "Charlottenbourg",
+   "surface_en": "Charlottenbourg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kuralien",
+   "kind": "person",
+   "surface_de": "Kuralien",
+   "surface_en": "Kuralien",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Labaye",
+   "kind": "person",
+   "surface_de": "Labaye",
+   "surface_en": "Labaye",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dessau",
+   "kind": "place",
+   "surface_de": "Dessau",
+   "surface_en": "Dessau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface_de": "Magdeburg",
+   "surface_en": "Magdeburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hamburg",
+   "kind": "place",
+   "surface_de": "Hamburg",
+   "surface_en": "Hamburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslauer",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stärme",
+   "kind": "place",
+   "surface_de": "Stärme",
+   "surface_en": "Stärme",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalckreuth",
+   "kind": "person",
+   "surface_de": "Kalckreuth",
+   "surface_en": "Kalckreuth",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! I have still not been able to set out on the journey to Pehlen; the want of money still lays before me at present the only obstacle in my path. I hope to remove this shortly, costly though it be, and then I shall travel at once. The prospects [uncertain: reckonings] are not bad; indeed I hope the affair will end more brilliantly than it appeared at first. A third party, besides Knobelsdorff and Strachwitz, in a man whom Your Serene Highness knows very well indeed, and upon whom you would never guess, also means to deceive. Should Heaven let this come to pass, then the good fortune would be exceedingly great — For the rest, in Your Serene Highness's affairs I must often drain the cup of sorrows down to the dregs [literally: down to the hooves]. Thus these days I was to be distrained on account of the Schlieben matter. I had to suffer that an arrest was laid upon my Schwänner lease-monies, which remain to me after the interest, until the matter is reopened from Potsdam, according to the promise of General v. Köckritz — in the meanwhile I cannot draw a single [illegible] from my estates; notwithstanding this, an execution was sent only for 48 Rthl 6 g. of costs and they wished to have me distrained; I had scarcely a d of coin in the house; in my distress I directed the executor Schoch to the p Lombardini, who drove the man off with the declaration that he had not the least thing to pay, either on his own account or on mine, still less upon my order, and would never hand over so much as a heller, and — notwithstanding that I begged Lombardini in writing to appease Schoch with a mere 3 Rthl. — showed the man the door and back to me. This has caused me great [uncertain: pain], and I beg Your Serene Highness to instruct Lombardini that he now absolutely pay over the 48 Rthl 6 g to the executor without any demur — I want and wish for nothing, only this one thing, that they not brand me"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nI have still not been able to set out on the journey to Pehlen; the want of money lays before me at present the sole remaining obstacle in the way. I hope, costly as it is, nevertheless to remove this shortly, and then I shall travel at once. The [uncertain: reckonings] are not bad; indeed I hope the matter will end more brilliantly than it seemed at first. A third party, besides Knobelsdorff and Strachwitz, a man whom Your Serene Highness knows very well, and upon whom you would never guess, also wishes to [uncertain: deceive / take part]. Were Heaven to let this come to pass, then the good fortune would be over-great. — For the rest, in Your Serene Highness's affairs I must often drain the cup of suffering down to the dregs. Thus these days I was to be distrained upon on account of the Schlieben business. I had to submit to their laying an attachment upon my Schwänner lease monies, which remain to me after the interest, until the matter is reopened from Potsdam, according to the promise of General von Köckritz — meanwhile I cannot draw a single [uncertain: penny] from my estates, and notwithstanding this they sent execution only for 48 Rthl 6 g of costs and wished to have me distrained upon; I had scarcely a d of coin in the house, and in my distress I directed the bailiff Schock to Mr Lombardini, who drove the man off with the declaration:\n\nthat he had not the least thing to pay, either on his own account or on mine, still less upon my order, and would never hand over a heller; and, notwithstanding that I had asked Lombardini in writing to appease Schoch with but 3 Rthl., he showed the man the door and back to me.\n\nThis has pained me very much, and I beg Your Serene Highness to instruct Lombardini that he now absolutely pay over the 48 Rthl 6 g to the bailiff without any delay — I want and wish for nothing, only this one thing, that I not be branded.",
+   "names": [
+    {
+     "de": "Pehlen",
+     "en": "Pehlen",
+     "kind": "place"
+    },
+    {
+     "de": "Knobelsdorff",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Strachwitz",
+     "en": "Strachwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Schlieben",
+     "en": "Schlieben",
+     "kind": "person"
+    },
+    {
+     "de": "Schwännersche",
+     "en": "Schwänner",
+     "kind": "other"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "Schock",
+     "en": "Schock",
+     "kind": "person"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Schoch",
+     "en": "Schoch",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "48",
+    "6",
+    "3",
+    "48",
+    "6"
+   ]
   },
   {
    "page": 2,
-   "en": "I endure more than I am able to bear; only treatment of this kind I cannot suffer. News here is of various sorts, but weighty scenes lie lurking in a very near distance. The King is now manoeuvring in and about Potsdam; often it is in the town itself, [uncertain: manoeuvre] accompanied by a mighty cannonade, whereby the glaziers are put in good livelihood. From Tuesday until the 6th the manoeuvres continue between Berlin and Köpnick — then the King [uncertain: goes] again to Charlottenbourg, where he will stay some time and will daily visit the [text lost] the King in [text lost]. Kuralien has been staying in Berlin since his return from Paris and gives great [uncertain: banquets] — this is not without ground. Labaye, who in Paris offered linen and iron for the contribution still to be paid, has not advanced a single step further with it — whether he will negotiate anything good remains to be seen. From Dessau onward the Elbe is lined with jägers, likewise from Magdeburg to Hamburg, where all ships are stopped and all colonial goods confiscated. According to Breslau gossip, 60000 men of the French are to pass in haste through Berlin; whither is still unknown — Some 30 persons have been arrested in [uncertain: Stärme] at the requisition of the French envoy, because they had spread the report that it would come to a breach between France and Russia. For the rest, matters are beginning to limp with the E. M Kalckreuth. One will be lukewarm — one believes that much will shortly be altered again. In deepest reverence I remain, until death, Your Most Serene Highness's most humble and faithful servant v Triebenfeld Breslau, the 5th 8br 1810"
+   "en": "I endure more than I am able to bear; only treatment of this kind I cannot endure. There is news here of various kinds, but weighty events are lurking in the very near distance. The King is now manoeuvring in and about Potsdam; often the manoeuvre is in the town itself, accompanied by a tremendous cannonade, whereby the glaziers are put in good sustenance. From Tuesday until the 6th the manoeuvres continue between Berlin and Köpnick — then the King [uncertain: builds/goes] again to Charlottenbourg, where he will stay some time and will daily visit the [uncertain: manoeuvre] which the King [illegible]. Kuralien has been staying in Berlin since his return from Paris and gives great [uncertain: entertainments] — not without reason. Labaye, who in Paris offered linen and iron for the contribution still to be paid, has not advanced a single step with it — whether he will negotiate anything good remains to be seen.\n\nFrom Dessau onward the Elbe is occupied by riflemen, likewise from Magdeburg to Hamburg, where all ships are stopped and all colonial goods confiscated. According to Breslau gossip, 60000 French troops are to pass hurriedly through Berlin; whither is still unknown. — Some 30 persons have been arrested in [uncertain: Stärme] at the requisition of the French envoy, because they had spread the [uncertain: report] that it would come to a breach between France and Russia.\n\nFor the rest, matters are beginning to limp with Field Marshal Kalckreuth. One is growing lukewarm. It is believed that much will again change shortly. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nmost humble and faithful servant\n\nvon Triebenfeld\n\nBreslau\n\nthe 5th of October\n\n1810",
+   "names": [
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Köpnick",
+     "en": "Köpnick",
+     "kind": "place"
+    },
+    {
+     "de": "Charlottenbourg",
+     "en": "Charlottenbourg",
+     "kind": "place"
+    },
+    {
+     "de": "Kuralien",
+     "en": "Kuralien",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Labaye",
+     "en": "Labaye",
+     "kind": "person"
+    },
+    {
+     "de": "Dessau",
+     "en": "Dessau",
+     "kind": "place"
+    },
+    {
+     "de": "Magdeburg",
+     "en": "Magdeburg",
+     "kind": "place"
+    },
+    {
+     "de": "Hamburg",
+     "en": "Hamburg",
+     "kind": "place"
+    },
+    {
+     "de": "Breslauer",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Stärme",
+     "en": "Stärme",
+     "kind": "place"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Kalckreuth",
+     "en": "Kalckreuth",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6",
+    "60000",
+    "30",
+    "5",
+    "8",
+    "1810"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! I have still not been able to set out on the journey to Pehlen; the want of money still lays before me at present the only obstacle in my path. I hope to remove this shortly, costly though it be, and then I shall travel at once. The prospects [uncertain: reckonings] are not bad; indeed I hope the affair will end more brilliantly than it appeared at first. A third party, besides Knobelsdorff and Strachwitz, in a man whom Your Serene Highness knows very well indeed, and upon whom you would never guess, also means to deceive. Should Heaven let this come to pass, then the good fortune would be exceedingly great — For the rest, in Your Serene Highness's affairs I must often drain the cup of sorrows down to the dregs [literally: down to the hooves]. Thus these days I was to be distrained on account of the Schlieben matter. I had to suffer that an arrest was laid upon my Schwänner lease-monies, which remain to me after the interest, until the matter is reopened from Potsdam, according to the promise of General v. Köckritz — in the meanwhile I cannot draw a single [illegible] from my estates; notwithstanding this, an execution was sent only for 48 Rthl 6 g. of costs and they wished to have me distrained; I had scarcely a d of coin in the house; in my distress I directed the executor Schoch to the p Lombardini, who drove the man off with the declaration that he had not the least thing to pay, either on his own account or on mine, still less upon my order, and would never hand over so much as a heller, and — notwithstanding that I begged Lombardini in writing to appease Schoch with a mere 3 Rthl. — showed the man the door and back to me. This has caused me great [uncertain: pain], and I beg Your Serene Highness to instruct Lombardini that he now absolutely pay over the 48 Rthl 6 g to the executor without any demur — I want and wish for nothing, only this one thing, that they not brand me\n\nI endure more than I am able to bear; only treatment of this kind I cannot suffer. News here is of various sorts, but weighty scenes lie lurking in a very near distance. The King is now manoeuvring in and about Potsdam; often it is in the town itself, [uncertain: manoeuvre] accompanied by a mighty cannonade, whereby the glaziers are put in good livelihood. From Tuesday until the 6th the manoeuvres continue between Berlin and Köpnick — then the King [uncertain: goes] again to Charlottenbourg, where he will stay some time and will daily visit the [text lost] the King in [text lost]. Kuralien has been staying in Berlin since his return from Paris and gives great [uncertain: banquets] — this is not without ground. Labaye, who in Paris offered linen and iron for the contribution still to be paid, has not advanced a single step further with it — whether he will negotiate anything good remains to be seen. From Dessau onward the Elbe is lined with jägers, likewise from Magdeburg to Hamburg, where all ships are stopped and all colonial goods confiscated. According to Breslau gossip, 60000 men of the French are to pass in haste through Berlin; whither is still unknown — Some 30 persons have been arrested in [uncertain: Stärme] at the requisition of the French envoy, because they had spread the report that it would come to a breach between France and Russia. For the rest, matters are beginning to limp with the E. M Kalckreuth. One will be lukewarm — one believes that much will shortly be altered again. In deepest reverence I remain, until death, Your Most Serene Highness's most humble and faithful servant v Triebenfeld Breslau, the 5th 8br 1810",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nI have still not been able to set out on the journey to Pehlen; the want of money lays before me at present the sole remaining obstacle in the way. I hope, costly as it is, nevertheless to remove this shortly, and then I shall travel at once. The [uncertain: reckonings] are not bad; indeed I hope the matter will end more brilliantly than it seemed at first. A third party, besides Knobelsdorff and Strachwitz, a man whom Your Serene Highness knows very well, and upon whom you would never guess, also wishes to [uncertain: deceive / take part]. Were Heaven to let this come to pass, then the good fortune would be over-great. — For the rest, in Your Serene Highness's affairs I must often drain the cup of suffering down to the dregs. Thus these days I was to be distrained upon on account of the Schlieben business. I had to submit to their laying an attachment upon my Schwänner lease monies, which remain to me after the interest, until the matter is reopened from Potsdam, according to the promise of General von Köckritz — meanwhile I cannot draw a single [uncertain: penny] from my estates, and notwithstanding this they sent execution only for 48 Rthl 6 g of costs and wished to have me distrained upon; I had scarcely a d of coin in the house, and in my distress I directed the bailiff Schock to Mr Lombardini, who drove the man off with the declaration:\n\nthat he had not the least thing to pay, either on his own account or on mine, still less upon my order, and would never hand over a heller; and, notwithstanding that I had asked Lombardini in writing to appease Schoch with but 3 Rthl., he showed the man the door and back to me.\n\nThis has pained me very much, and I beg Your Serene Highness to instruct Lombardini that he now absolutely pay over the 48 Rthl 6 g to the bailiff without any delay — I want and wish for nothing, only this one thing, that I not be branded.\n\nI endure more than I am able to bear; only treatment of this kind I cannot endure. There is news here of various kinds, but weighty events are lurking in the very near distance. The King is now manoeuvring in and about Potsdam; often the manoeuvre is in the town itself, accompanied by a tremendous cannonade, whereby the glaziers are put in good sustenance. From Tuesday until the 6th the manoeuvres continue between Berlin and Köpnick — then the King [uncertain: builds/goes] again to Charlottenbourg, where he will stay some time and will daily visit the [uncertain: manoeuvre] which the King [illegible]. Kuralien has been staying in Berlin since his return from Paris and gives great [uncertain: entertainments] — not without reason. Labaye, who in Paris offered linen and iron for the contribution still to be paid, has not advanced a single step with it — whether he will negotiate anything good remains to be seen.\n\nFrom Dessau onward the Elbe is occupied by riflemen, likewise from Magdeburg to Hamburg, where all ships are stopped and all colonial goods confiscated. According to Breslau gossip, 60000 French troops are to pass hurriedly through Berlin; whither is still unknown. — Some 30 persons have been arrested in [uncertain: Stärme] at the requisition of the French envoy, because they had spread the [uncertain: report] that it would come to a breach between France and Russia.\n\nFor the rest, matters are beginning to limp with Field Marshal Kalckreuth. One is growing lukewarm. It is believed that much will again change shortly. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nmost humble and faithful servant\n\nvon Triebenfeld\n\nBreslau\n\nthe 5th of October\n\n1810",
  "summary_en": "Lack of money still prevents the journey to Pehlen, though prospects in the affair look better than expected, with a third deceiver besides Knobelsdorff and Strachwitz. Reports distraint over the Schlieben matter, arrest of his Schwänner lease-monies pending reopening from Potsdam on General v. Köckritz's promise, and Lombardini's refusal to pay the executor Schoch 48 Rthl 6 g; begs the Prince to order payment. Adds news of royal manoeuvres near Potsdam and Köpnick, Kuralien, Labaye's Paris contribution offer, jägers along the Elbe, confiscations at Hamburg, arrests, and Kalckreuth's declining standing.",
  "summary_de": "Geldmangel verhindert weiterhin die Reise nach Pehlen; die Aussichten seien gut, da neben Knobelsdorff und Strachwitz ein dritter, dem Fürsten wohlbekannter Mann mitwirke. In der Schlieben-Sache droht Pfändung: Arrest auf die Schwänner Pachtgelder bis zur Wiederaufnahme aus Potsdam nach Zusage des General v. Köckritz; Lombardini verweigerte dem Executor Schoch die 48 Rthl 6 g Kosten, deren Zahlung Triebenfeld anzuweisen bittet. Ferner Nachrichten von Manövern des Königs bei Potsdam, Köpnick und Charlottenbourg, Labayes Kontributionsverhandlungen in Paris, Jägerposten an der Elbe, Beschlagnahme von Colonialwaren, Gerüchten über 60000 Franzosen, Verhaftungen und E. M. Kalckreuth."
 }

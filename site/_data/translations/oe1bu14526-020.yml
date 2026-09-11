@@ -1,18 +1,58 @@
 status: draft
 segments:
 - page: 1
-  en: 'Whereas I have this day made over by way of hereditary lease the demesne-farm and husbandry buildings
-    at Swięcia, together with the arable, meadows, woodlands etc. belonging thereto, to Johann Christian
+  en: 'Whereas I have this day made over by way of hereditary lease the demesne-farm working buildings
+    at Swięcia, together with the fields, meadows, woodlands etc. belonging thereto, to Johann Christian
     Birlack of Zilenzig, Johan Götzinger of Brennenhofs Fleis, Joh. Siebert of Zamaika near Sonnenburg,
-    and to Friedrich Götzinger, innkeeper at Posen, but have thereby excepted from it the proper manorial
-    dwelling-house at Swięcia: I therefore herewith make over and give this manorial dwelling-house at
-    Swięcia to Friedrich Götzinger, innkeeper at Posen, as a mark of acknowledgement for the trouble taken
-    and the journeys made by him in this hereditary-lease business, to him and his heirs as his own property,
-    so that he may deal, dispose and do therewith at his pleasure, and because he can make particularly
-    good use of this house for the tap in connexion with the brewery hereditary lease he has taken over.
+    and to Friedrich Götzinger, innkeeper at Posen, but have excepted therefrom the actual manorial dwelling
+    house at Swięcia: I hereby make over and give this manorial dwelling house at Swięcia to Friedrich
+    Götzinger, innkeeper at Posen, as a token of acknowledgement for the pains and journeys he has had
+    in this hereditary-lease business, heritably and in full ownership, so that he may deal, dispose and
+    act with it at his pleasure, and because he can put this house to particularly good use as a tap-house
+    under the brewery hereditary lease he has taken over.
 
 
     Breslau, the 8th of April 1803.
 
 
-    Friedrich Ludwig Fürst zu Hohenlohe'
+    Friedrich Ludwig, Prince of Hohenlohe'
+  names:
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Johann Christian Birlack
+    en: Johann Christian Birlack
+    kind: person
+  - de: Zilenzig
+    en: Zilenzig
+    kind: place
+  - de: Johan Götzinger
+    en: Johan Götzinger
+    kind: person
+  - de: Brennenhofs Fleis
+    en: Brennenhofs Fleis
+    kind: place
+  - de: Joh. Siebert
+    en: Joh. Siebert
+    kind: person
+  - de: Zamaika
+    en: Zamaika
+    kind: place
+  - de: Sonnenburg
+    en: Sonnenburg
+    kind: place
+  - de: Friedrich Götzinger
+    en: Friedrich Götzinger
+    kind: person
+  - de: Posen
+    en: Posen
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Friedrich Ludwig Fürst zu Hohenlohe
+    en: Friedrich Ludwig, Prince of Hohenlohe
+    kind: person
+  numbers:
+  - 8ten
+  - '1803'

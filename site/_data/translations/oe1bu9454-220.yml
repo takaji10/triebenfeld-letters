@@ -1,45 +1,182 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness''s most safely-kept
-    letter was sent to Schweinere, so that it might be forwarded to me as occasion offered. There the
-    tenant let it lie for a considerable time, and for this reason I received it 3 weeks [uncertain: still/after]
-    its dispatch. Immediately upon receiving it I went to Oxtrow, sold my wool in order to have travelling
-    money, and then hastened to Count Wartensleben at Neisse. Unhappily, however, I came too late, for
-    Wartenleben had already concluded with a bankrupt merchant from Kulins, wherein he takes on estates
-    for Schurguet for 135000 Rthl, for which I would not give 40000 Rthl; only, the matter is past. Meanwhile
-    the young Wartensleben, who is now in Austrian service, has the Constadt estates — He has given circa
-    150000 Rthl for them. He has sunk into them his wife''s fortune — she being a born Reuhenbauernst
-    — and has made very many improvements. He now demands 200000 Rthl for these estates. Upon the estates
-    there stand 120000 Rthl of debts. There would thus remain a further 80000 Rthl. Upon these one is
-    willing to bargain. Should Your Serene Highness wish to negotiate here, then write to me in all haste
-    by an express to Blizanow, and also come, then at once to Schlawenseins to arrange everything, and
-    thereafter to Wartensleben at Neisse to conclude. Everything, however, depends upon Weigel and Stössel
-    taking back the Constadt estates, as also the mortgage upon the Zagorow estates, and granting Your
-    Serene Highness a receipt against them. Am I to negotiate with Weigel to that end, or has Your Serene
-    Highness someone for it who understands it better than I?'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord!
+
+
+    Your Most Serene Highness''s most carefully secured letter was sent to Schweinere, so that it might
+    be forwarded to me as occasion offered. There the tenant let it lie for some considerable time, and
+    for this reason I received it 3 weeks after it had been dispatched. Immediately upon receiving it
+    I went to Oxtrow, sold my wool in order to have travelling money, and then hurried to Count Wasserleben
+    at Neisse. Unhappily, however, I came too late, for Wartenleben had already concluded with a bankrupt
+    merchant from Kulins, whereby for Schurguet he accepts estates at 135000 Rthl for which I would not
+    give 40000 Rthl; only, the matter is past. — Meanwhile the younger Wartensleben, who is now in Austrian
+    service, holds the Constadt estates. — He gave for them about 150000 Rthl. He has sunk into them his
+    wife''s fortune, she being a born Reuhenbauernst, and has made very many improvements. He now demands
+    200000 Rthl for these estates. On the estates there stand 120000 Rthl of debts. There would thus remain
+    a further 80000 Rthl. On this sum one is willing to bargain. Should Your Serene Highness wish to treat
+    here, then write to me in all haste by an express courier to Blizanow, and come as well, then at once
+    to Schlawenseins to arrange everything, and from there on to Wartensleben at Neisse in order to conclude.
+    Everything, however, depends upon Weigel and Stössel taking over the Constadt estates again, as also
+    the mortgage upon the Zagorowo estates, and giving Your Serene Highness a receipt in return. Am I
+    to negotiate with Weigel on this account, or has Your Serene Highness someone for it who understands
+    it better than I?'
+  names:
+  - de: Schweinere
+    en: Schweinere
+    kind: place
+  - de: Oxtrow
+    en: Oxtrow
+    kind: place
+  - de: GrafenWasserleben
+    en: Count Wasserleben
+    kind: person
+  - de: Neisse
+    en: Neisse
+    kind: place
+  - de: Wartenleben
+    en: Wartenleben
+    kind: person
+  - de: Kulins
+    en: Kulins
+    kind: place
+  - de: Schurguet
+    en: Schurguet
+    kind: place
+  - de: Wartensleben
+    en: Wartensleben
+    kind: person
+  - de: Constadter
+    en: Constadt
+    kind: place
+  - de: Reuhenbauernst
+    en: Reuhenbauernst
+    kind: person
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: Schlawenseins
+    en: Schlawenseins
+    kind: place
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Stössel
+    en: Stössel
+    kind: person
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  numbers:
+  - '3'
+  - '135000'
+  - '40000'
+  - '150000'
+  - '200000'
+  - '120000'
+  - '80000'
 - page: 2
-  en: 'The matter would then stand as follows — at Zagorow there would remain, according to the valuation,
-    apart from the arrears, 35000 Rthl; at Konstad there would remain 80000. Consequently there would
-    remain upon the Zagorow estates a mortgage of 270000 Rthl; this Weigel and Stössel would have to take
-    on together with Constadt, and grant Your Serene Highness a receipt for 350000 Rthl. So also, if meanwhile
-    Weigel and Stössel were willing, without Constadt, to take on the Zagorow estates outright for 350000
-    Rthl and to grant Your Serene Highness a receipt, so that you might get Koschentin back, then it would
-    be, according to the said [text lost] Koschenten could then be taken as an entailed estate for Prince
-    Alexander. Prince August cannot act against his father and [illegible] — He would have to press for
-    this, that Your Serene Highness be given out this sum together with the 200000 Rthl already paid upon
-    Koschentin, which amounts to 550000 Rthl without those arrears, and so Your Serene Highness could
-    defy hell itself. — Let Your Serene Highness consider this, and only write your opinion by a swift
-    messenger to Blizanow. — I should very gladly have come at once now to Schlawenschütz, but I must
-    absolutely go [uncertain: to] — too much besides, since the most important court terms are also waiting.
-    The valuation, together with the schedule of arrears, I beg to have back only in the original; it
-    will be required in aplicii at the term. Of the arrears I should still gladly [text lost] something
-    [uncertain: Baurrretten] neediness gives when by way of encouragement in the [uncertain: t]exchange
-    dealing along with on the'
+  en: 'The matter would then stand as follows: — with Zagorowo there would remain, according to the valuation,
+    apart from the arrears, 35000 Rthl
+
+
+    with Konstad there would remain
+
+
+    80000. Consequently there would remain upon the Zagorowo estates a mortgage of 270000 Rthl; this Weigel
+    and Stössel would have to take over together with Constadt, and give Your Serene Highness a receipt
+    for 350000 Rthl; so also, if Weigel and Stössel would meanwhile, without Constad, take over the Zagorowo
+    estates outright for 350000 Rthl and give Your Serene Highness a receipt, so that you get Koschentin
+    back, then it would be according to the said Koschentin could then be taken as an entailed estate
+    for Prince Alexander. Prince August cannot act against his father and are payable — He would have
+    to press upon it that this sum, together with the 200000 Rthl already paid upon Koschentin, be handed
+    over to Your Serene Highness, which comes to some 550000 Rthl without those arrears, and so Your Serene
+    Highness could defy hell itself. — Let Your Serene Highness weigh this and write your opinion to Blizanow,
+    only by a swift messenger. — I would very gladly have come to Schlawenschitz at once, just now, but
+    I must absolutely go [uncertain: elsewhere], there being too much besides, and the most important
+    court terms are waiting. The valuation, together with the designation of the arrears, I request back
+    only in the original. It will be required in copy at the term. Out of the arrears I should still gladly
+    [illegible] something for the peasants, necessity being what it is, by way of encouragement in
+
+
+    [uncertain: t]ausch exchange-dealing with upon the'
+  names:
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Konstad
+    en: Konstad
+    kind: place
+  - de: Constadt
+    en: Constadt
+    kind: place
+  - de: Constad
+    en: Constad
+    kind: place
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Stössel
+    en: Stössel
+    kind: person
+  - de: Koschentin
+    en: Koschentin
+    kind: place
+  - de: Koschenten
+    en: Koschentin
+    kind: place
+  - de: Prinz Alexander
+    en: Prince Alexander
+    kind: person
+  - de: Fürst August
+    en: Prince August
+    kind: person
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: Schlawenschütz
+    en: Schlawenschitz
+    kind: place
+  numbers:
+  - '35000'
+  - '80000'
+  - '270000'
+  - '350000'
+  - '350000'
+  - '200000'
+  - '550000'
 - page: 3
-  en: For the rest, my Wartensleben as yet knows not a word as to what sort of estates those are which
-    I offered him in the exchange dealing — he guessed at the Bavarian ones, after Prince George — I bade
-    him leave off the game of questions, since he could learn nothing now until I myself am first instructed.
-    At bottom the old greybeard moves me to pity — His fate is a sad one. In deepest reverence I remain,
-    until death, Your Most Serene Highness's faithful, humble and obedient servant v Triebenfeld Brieg,
-    the 31st of 8br 1811.
+  en: 'For the rest, my Wartensleben [says] not a word as yet as to what sort of estates those are which
+    I offered him in the exchange-dealing — he guessed at the Bavarian ones, after Prince George — I bade
+    him leave off the game of questioning, since he could now learn nothing until I myself had first been
+    informed. At bottom the old greybeard moves me to pity — his fate is a sad one. In deepest reverence
+    I remain, until death, Your Most Serene Highness''s faithful, humble and obedient servant, v. Triebenfeld
+
+
+    Brieg
+
+
+    the 31st of 8br
+
+
+    1811.'
+  names:
+  - de: Wartensleben
+    en: Wartensleben
+    kind: person
+  - de: Prinzen George
+    en: Prince George
+    kind: person
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Brieg
+    en: Brieg
+    kind: place
+  numbers:
+  - '31'
+  - '8'
+  - '1811'

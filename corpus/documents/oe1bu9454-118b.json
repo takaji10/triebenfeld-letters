@@ -78,16 +78,98 @@
    "doc_line": 23
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Countess Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Gräfin Schlabrendorff",
+   "surface_en": "Countess Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Homuth",
+   "kind": "person",
+   "surface_de": "Homuth",
+   "surface_en": "Homuth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "The Countess Schlabrendorff will wait for the 50000 Rthl until Christmas, or properly speaking until the 1st of January 1805; to a longer term Homuth was not able to move her. She made a most piteous show of how much she would have to lose, and since she received no interest on this capital, the loss would be greater still if she were to wait longer than until the 1st of January 1805. — If it be so that Your Serene Highness need pay no interest until then, I believe it will be an easy matter to be content with this term. — There are, after all, 2500 Rthl gained thereby — and by that time money enough will come in. — Homuth asks for the agreement, so that he may draw up what is needful and send it to the Countess for execution. — He will try whether on that occasion he can get the old bills of exchange out. The Conducteur Cabanis has departed; he will hire himself a peasant's conveyance out there, which he believes he can obtain for 4 or 5 Rthl. Here the hired coachmen wanted to have 20 Rthl, and demanded besides an allowance for [uncertain: fodder] and God knows what else. — v Triebenfeld Breslau the 29th of March 1804."
+   "en": "Countess Schlabrendorff will wait for the 50000 Rthl until Christmas, or properly speaking until the 1st of January 1805; Homuth has not been able to move her to a longer term. She made a most piteous business of it, that she must lose so much, and since she received no interest on this capital the loss would be greater still were she to wait longer than until the 1st of January 1805. — If it be so that Your Serene Highness need pay no interest until then, I believe it will be an easy matter to rest content with this term. — There are, after all, 2500 Rthl gained thereby — and by that time money enough will come in. — Homuth asks for the settlement, so that he may draw up what is needful and send it to the Countess for execution. — He will try whether he can, on that occasion, get the old bills of exchange out of her hands.\n\nThe surveyor Cabanis has departed. Out there he will hire a peasant's conveyance, which he believes he can obtain for 4 or 5 Rthl. Here the hired coachmen wanted to have 20 Rthl and demanded besides an allowance for [uncertain: Entter] and God knows what\n\nby way of assistance —\n\nv Triebenfeld\n\nBreslau, the 29th of March 1804.",
+   "names": [
+    {
+     "de": "Gräfin Schlabrendorff",
+     "en": "Countess Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Homuth",
+     "en": "Homuth",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "50000",
+    "1ten",
+    "1805",
+    "1 ten",
+    "1805",
+    "2500",
+    "2",
+    "4",
+    "5",
+    "20",
+    "29ten",
+    "1804"
+   ]
   }
  ],
- "text_english": "The Countess Schlabrendorff will wait for the 50000 Rthl until Christmas, or properly speaking until the 1st of January 1805; to a longer term Homuth was not able to move her. She made a most piteous show of how much she would have to lose, and since she received no interest on this capital, the loss would be greater still if she were to wait longer than until the 1st of January 1805. — If it be so that Your Serene Highness need pay no interest until then, I believe it will be an easy matter to be content with this term. — There are, after all, 2500 Rthl gained thereby — and by that time money enough will come in. — Homuth asks for the agreement, so that he may draw up what is needful and send it to the Countess for execution. — He will try whether on that occasion he can get the old bills of exchange out. The Conducteur Cabanis has departed; he will hire himself a peasant's conveyance out there, which he believes he can obtain for 4 or 5 Rthl. Here the hired coachmen wanted to have 20 Rthl, and demanded besides an allowance for [uncertain: fodder] and God knows what else. — v Triebenfeld Breslau the 29th of March 1804.",
+ "text_english": "Countess Schlabrendorff will wait for the 50000 Rthl until Christmas, or properly speaking until the 1st of January 1805; Homuth has not been able to move her to a longer term. She made a most piteous business of it, that she must lose so much, and since she received no interest on this capital the loss would be greater still were she to wait longer than until the 1st of January 1805. — If it be so that Your Serene Highness need pay no interest until then, I believe it will be an easy matter to rest content with this term. — There are, after all, 2500 Rthl gained thereby — and by that time money enough will come in. — Homuth asks for the settlement, so that he may draw up what is needful and send it to the Countess for execution. — He will try whether he can, on that occasion, get the old bills of exchange out of her hands.\n\nThe surveyor Cabanis has departed. Out there he will hire a peasant's conveyance, which he believes he can obtain for 4 or 5 Rthl. Here the hired coachmen wanted to have 20 Rthl and demanded besides an allowance for [uncertain: Entter] and God knows what\n\nby way of assistance —\n\nv Triebenfeld\n\nBreslau, the 29th of March 1804.",
  "summary_en": "Reports that Countess Schlabrendorff, despite Homuth's efforts, will grant no delay on the 50000 Rthl beyond Christmas, properly 1 January 1805, pleading her losses since she receives no interest on the capital; if no interest is due until then the term seems acceptable, saving 2500 Rthl. Homuth requests the agreement so as to draft the papers for the Countess to execute, and will attempt to recover the old bills of exchange. The Conducteur Cabanis has left, intending to hire a peasant's cart for 4 or 5 Rthl rather than the 20 Rthl demanded by Breslau coachmen.",
  "summary_de": "Bericht über die Verhandlungen Homuths mit der Gräfin Schlabrendorff: Sie räumt für die 50000 Rthl Frist bis Weihnachten, genauer bis zum 1. Januar 1805, ein; eine längere Stundung sei nicht zu erlangen, da sie keine Zinsen erhalte. Da bis dahin keine Zinsen zu zahlen seien, empfiehlt Triebenfeld Annahme – ein Gewinn von 2500 Rthl. Homuth erbittet die Übereinkunft zur Ausfertigung für die Gräfin und will dabei die alten Wechsel herausbekommen. Der Conducteur Cabanis ist abgereist und nimmt eine Bauernfuhre für 4 bis 5 Rthl, da hiesige Kutscher 20 Rthl forderten."
 }

@@ -646,56 +646,766 @@
    "doc_line": 248
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Joseph von Jankowski",
+   "kind": "person",
+   "surface_de": "Joseph von Jankowski",
+   "surface_en": "Joseph von Jankowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Andreas Ernst Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Ernst Gneust",
+   "surface_en": "Andreas Ernst Gneust",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Birnbaum",
+   "kind": "place",
+   "surface_de": "Birnbaum",
+   "surface_en": "Birnbaum",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Andreas Erenst Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Erenst Gneust",
+   "surface_en": "Andreas Erenst Gneust",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dormowe",
+   "kind": "place",
+   "surface_de": "Dormowe",
+   "surface_en": "Dormowe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingensche",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "[illegible]inino",
+   "kind": "place",
+   "surface_de": "[?]inino",
+   "surface_en": "[illegible]inino",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Joseph von Jankowski",
+   "kind": "person",
+   "surface_de": "Joseph von Jankowski",
+   "surface_en": "Joseph von Jankowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dormowe",
+   "kind": "place",
+   "surface_de": "Dormowe",
+   "surface_en": "Dormowe",
+   "page": 2
+  },
+  {
+   "entity": "gelanski",
+   "display": "Florian Gelanski",
+   "kind": "person",
+   "surface_de": "Florian Gelanski",
+   "surface_en": "Florian Gelanski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Jadwiga Galanska",
+   "kind": "person",
+   "surface_de": "Jadwiga Galanska",
+   "surface_en": "Jadwiga Galanska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Andreas Ernst Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Ernst Gneust",
+   "surface_en": "Andreas Ernst Gneust",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche manor",
+   "kind": "place",
+   "surface_de": "Betscher Hof",
+   "surface_en": "Betsche manor",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Dormowe",
+   "kind": "place",
+   "surface_de": "Dormower",
+   "surface_en": "Dormowe",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Betsche manor",
+   "kind": "place",
+   "surface_de": "Betscher Hof",
+   "surface_en": "Betsche manor",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Betsche forest",
+   "kind": "place",
+   "surface_de": "Betscher Forst",
+   "surface_en": "Betsche forest",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Betsche district",
+   "kind": "place",
+   "surface_de": "Betscher Schlüßels",
+   "surface_en": "Betsche district",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Silesian",
+   "kind": "other",
+   "surface_de": "Schlesischer",
+   "surface_en": "Silesian",
+   "page": 4
+  },
+  {
+   "entity": "hertzog",
+   "display": "Hertzog",
+   "kind": "person",
+   "surface_de": "Hertzog",
+   "surface_en": "Hertzog",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Birnbaum",
+   "kind": "place",
+   "surface_de": "Birnbaum",
+   "surface_en": "Birnbaum",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Joseph von Jankowski",
+   "kind": "person",
+   "surface_de": "Joseph von Jankowski",
+   "surface_en": "Joseph von Jankowski",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Andreas Ernst Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Ernst Gneust",
+   "surface_en": "Andreas Ernst Gneust",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Ninino",
+   "kind": "place",
+   "surface_de": "Ninino",
+   "surface_en": "Ninino",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Andreas Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Gneust",
+   "surface_en": "Andreas Gneust",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Dormowe",
+   "kind": "place",
+   "surface_de": "Dormowe",
+   "surface_en": "Dormowe",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Birnbaum",
+   "kind": "place",
+   "surface_de": "Birnbaum",
+   "surface_en": "Birnbaum",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Goeker",
+   "kind": "person",
+   "surface_de": "Goeker",
+   "surface_en": "Goeker",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Bauer",
+   "kind": "person",
+   "surface_de": "Bauer",
+   "surface_en": "Bauer",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Joseph von Jankowski",
+   "kind": "person",
+   "surface_de": "Joseph von Jankowski",
+   "surface_en": "Joseph von Jankowski",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Ninino]",
+   "kind": "place",
+   "surface_de": "Ninino[?]",
+   "surface_en": "[uncertain: Ninino]",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Andreas Ernst Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Ernst Gneust",
+   "surface_en": "Andreas Ernst Gneust",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Dormowe",
+   "kind": "place",
+   "surface_de": "Dormowe",
+   "surface_en": "Dormowe",
+   "page": 8
+  },
+  {
+   "entity": "gneust",
+   "display": "Gneust",
+   "kind": "person",
+   "surface_de": "Gneust",
+   "surface_en": "Gneust",
+   "page": 8
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichaust",
+   "surface_en": "Echaust",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Hintsch",
+   "kind": "person",
+   "surface_de": "Hintsch",
+   "surface_en": "Hintsch",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "von Jankowski",
+   "kind": "person",
+   "surface_de": "von Jankowski",
+   "surface_en": "von Jankowski",
+   "page": 9
+  },
+  {
+   "entity": "gneust",
+   "display": "Gneust",
+   "kind": "person",
+   "surface_de": "Gneust",
+   "surface_en": "Gneust",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Joseph Jankowski",
+   "kind": "person",
+   "surface_de": "Joseph Jankowski",
+   "surface_en": "Joseph Jankowski",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Andreas Ernst Gneust",
+   "kind": "person",
+   "surface_de": "Andreas Ernst Gneust",
+   "surface_en": "Andreas Ernst Gneust",
+   "page": 10
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichaust",
+   "surface_en": "Echaust",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Schleich",
+   "kind": "person",
+   "surface_de": "Schleich",
+   "surface_en": "Schleich",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Hintsch",
+   "kind": "person",
+   "surface_de": "Hintsch",
+   "surface_en": "Hintsch",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Princely Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Fürstl. Hohenloh Ingelfingensches",
+   "surface_en": "Princely Hohenlohe-Ingelfingen",
+   "page": 10
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 10
+  },
+  {
+   "entity": "jankowski",
+   "display": "Jankowski",
+   "kind": "person",
+   "surface_de": "Jankowski",
+   "surface_en": "Jankowski",
+   "page": 10
+  },
+  {
+   "entity": "gneust",
+   "display": "Gneust",
+   "kind": "person",
+   "surface_de": "Gneust",
+   "surface_en": "Gneust",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 11
+  }
+ ],
  "place_canonical": "Betsche",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "The copy of the deed of sale found among the Acta is written upon a stamp of 8 rt. [uncertain: S. Melich] We, the Princely Hohenlohe-Ingelfingen Court Office at Betsche, do hereby attest and testify that between Mr Joseph von Jankowski as seller of the one part and Mr Captain and District Tax Receiver Andreas Ernst Gneust as purchaser of the other part, the following deed of sale, recognised before the Magistracy at Birnbaum on the 24th of June 1797, was solemnly published before Us on the 6th of May last, and the whole of the proceedings run word for word thus:\n\nBetween the Right Honourable Mr Joseph von Jankowski of [illegible]inino, seller,\n\nand the Honourable Mr Captain and District Tax Receiver Andreas Erenst Gneust, purchaser, there has been, subject to higher confirmation, agreed and concluded the following house contract concerning the free schulz-holding belonging to the former and situated in Dormowe not far from Birnbaum, together with appurtenances, after negotiations previously conducted thereupon; the nearer determinations whereof are confirmed by the present deed of sale drawn up thereon and executed by both\n\nof the participating Gentlemen by their own-hand signatures and seals"
+   "en": "The copy of the deed of sale found among the records is written on a [uncertain: S. Melich] of 8 rt. St. [illegible]. We, the Princely Hohenlohe-Ingelfingen Court Office at Betsche, do hereby record and attest that between Mr. Joseph von Jankowski as seller on the one part and the Captain and district tax collector Andreas Ernst Gneust as purchaser on the other part, the following deed of sale, acknowledged before the Magistrate at Birnbaum on the 24th of June 1797, was solemnly published before Us on the 6th of May last, and that the whole of the proceedings run word for word as follows:\n\nBetween the Right Honourable Mr. Joseph von Jankowski of [illegible]inino, seller,\n\nand the Honourable Captain and district tax collector Andreas Erenst Gneust, purchaser, there has been, subject to higher confirmation, negotiated and concluded the following deed of sale concerning the free village mayor's holding belonging to the former and situated in Dormowe not far from Birnbaum, together with its appurtenances, after negotiations previously conducted thereupon, the closer particulars whereof are confirmed by the present deed of sale drawn up thereupon and executed by both\n\nparticipating gentlemen by their own hands' signatures and seals",
+   "names": [
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Joseph von Jankowski",
+     "en": "Joseph von Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Andreas Ernst Gneust",
+     "en": "Andreas Ernst Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Birnbaum",
+     "en": "Birnbaum",
+     "kind": "place"
+    },
+    {
+     "de": "Andreas Erenst Gneust",
+     "en": "Andreas Erenst Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Dormowe",
+     "en": "Dormowe",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe Ingelfingensche",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "[?]inino",
+     "en": "[illegible]inino",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "8",
+    "24",
+    "1797",
+    "6"
+   ]
   },
   {
    "page": 2,
-   "en": "seals, executed. Namely, there sells, for himself and his heirs and heirs-at-law,\n\nI. the Mr Joseph von Jankowski named at the outset, his free schulz-holding situated in Dormowe and hitherto possessed by him in property, together with all dwelling and [uncertain: work] buildings belonging thereto, fields, [uncertain: furrows] meadows, [uncertain: ponds] and pond-sites, fisheries, cattle pastures, pleasure and fruit gardens, waters, watercourses, marshes, all as the same lie within their bounds and boundary-stones, together with the farming and ploughing implements belonging to the holding, all according to the fuller content of the house-valuation appended to these house-grounds, together with all that is therein and [unparseable] fixed by nail, wall, [uncertain: church] and root, no less all rights and privileges, also usages, burdens and encumbrances, nothing whatsoever excepted therefrom, and entirely in the measure in which the Mr Seller purchased the said free schulz-holding, by privilege of the 19th of June 1787, from Mr Florian Gelanski and his sister Jadwiga Galanska, in heritable property,\n\nII. to the last-mentioned Mr Captain and District Tax"
+   "en": "seals executed, the deed of sale confirms. Namely, there sells, for himself and his heirs and successors in inheritance,\n\nI. the aforementioned Mr. Joseph von Jankowski his free village mayor's holding situated in Dormowe and hitherto held by him in property, together with all dwelling and farm buildings belonging thereto, fields, [uncertain: furrow] meadows, ponds and pond sites, fisheries, cattle pastures, pleasure and fruit gardens, waters, watercourses, marshes, all as the same lies within its bounds and boundary stones, together with the farming and ploughing implements belonging to the holding, all according to the fuller content of the house valuation appended to these house grounds, together with all that is therein and [illegible] Brd. fire, fire, wall, church maid and root-fast, no less all rights and privileges, also uses, burdens and encumbrances everywhere, nothing thereof excepted, and entirely in the measure in which Mr. Seller purchased the said free village mayor's holding in heritable property, according to the privilege of the 19th of June 1787, from Mr. Florian Gelanski and his sister Jadwiga Galanska\n\nII. to the last-named Captain and district tax",
+   "names": [
+    {
+     "de": "Joseph von Jankowski",
+     "en": "Joseph von Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Dormowe",
+     "en": "Dormowe",
+     "kind": "place"
+    },
+    {
+     "de": "Florian Gelanski",
+     "en": "Florian Gelanski",
+     "kind": "person"
+    },
+    {
+     "de": "Jadwiga Galanska",
+     "en": "Jadwiga Galanska",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1787"
+   ]
   },
   {
    "page": 3,
-   "en": "Receiver Andreas Ernst Gneust, in heritable property, for 2000 rt., in words two thousand Reichsthaler Prussian Courant, as a whole, fixed and this day cash-paid purchase sum, for the due receipt whereof the Mr Seller does also acquit the Mr Purchaser in the best and most legally binding form.\n\nIII. All costs of this transaction of sale, among which belong also the 10 per cent, or withdrawal-monies, customary in former times, the Mr Purchaser bears alone, and on this account he shall render the Mr Seller no accounting.\n\nIV. The yearly onera consist, according to the aforementioned privilege,\n\na., in 25 Tynphe travelling-money to the Betsche manor\n\nb., in 5 Szostaki ground-rent\n\nc., in 5 quarters of oats\n\nd., in 1 Tynph fox-money\n\ne., in 2 [uncertain: Rappamten] and\n\nf., the customary church dues, which the Mr Purchaser assumes like his predecessor and has vowed to render.\n\nIn return there is granted to him."
+   "en": "collector Andreas Ernst Gneust, in heritable property, for 2000 rt., written out two thousand Reichsthaler Prussian Courant, an entire, settled purchase sum paid in cash this day, for the due receipt whereof Mr. Seller does also give Mr. [uncertain: Purchaser] the fullest and most legally binding receipt.\n\nIII. All costs on account of this transaction of sale, among which belong also the 10 per cent, or deduction monies, such as were customary in earlier times, Mr. Purchaser bears alone, and on this account he will [uncertain: not] have to render any accountings to Mr. Seller.\n\nIV. The annual charges (onera) consist, according to the aforementioned privilege,\n\na., in 25 Tynphe, travel money to the Betsche manor;\n\nb., in 5 Szostaki of ground rent;\n\nc., in 5 quarters of oats;\n\nd., in 1 Tynph of fox money;\n\ne., in 2 [uncertain: Rappamten]; and\n\nf., the customary church dues, which Mr. Purchaser takes over like his predecessor in the holding and has undertaken to render.\n\nIn return there is granted to him",
+   "names": [
+    {
+     "de": "Andreas Ernst Gneust",
+     "en": "Andreas Ernst Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Betscher Hof",
+     "en": "Betsche manor",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2000",
+    "10",
+    "25",
+    "5",
+    "5",
+    "1",
+    "2"
+   ]
   },
   {
    "page": 4,
-   "en": "V. in this same privilege he is permitted to keep 250 head of the manorial sheep, and as wages for the shepherd's rights\n\n50 head with free pasturage upon the Dormowe ground. Should he however wish to keep more, then for each head kept above this number a [uncertain: Büttchen] of the Silesian [uncertain: Heinige], one Silbergroschen, shall be paid to the Betsche manor.\n\nVI. He may brew beer freely for his household use, but sell or give away nothing thereof. Failing which he will have to pay the penalty imposed upon him by the Betsche manor.\n\nVII. The Mr Purchaser has firewood free from the Betsche forest for his whole household, servants and livestock, also for brewing; likewise the needful building timber, yet not otherwise than upon the instruction of the Commissarius or forester appointed thereover. Just as those oaks outside his tree-gardens which stand upon the fields or grounds of this free holding are to be used by the Mr Purchaser in the same manner as by the other free schulzen of the Betsche key-district."
+   "en": "V. In this same privilege he is permitted to keep 250 head of the lordship's sheep, and as wages for the shepherd's rights\n\n50 head with free pasturage on the Dormowe ground. Should he, however, wish to keep more, then for every head kept over and above this number a [uncertain: Büttchen], which according to Silesian [uncertain: Heinige] is one silver Groschen, is to be paid to the Betsche manor.\n\nVI. He may brew beer freely for his household use, but sell or give away nothing thereof. Failing which, he will have to pay the penalty imposed upon him by the Betsche manor.\n\nVII. The purchaser has firewood free from the Betsche forest for his whole household, servants and livestock, also for brewing; likewise the timber needed for building, yet not otherwise than upon the instruction of the commissary or of the Prince set over the same. Just as those oaks outside his tree gardens which stand upon the fields or grounds of this free holding are to be used by Mr. Purchaser in the same manner as by the other free village mayors of the Betsche district (Schlüssel).",
+   "names": [
+    {
+     "de": "Dormower",
+     "en": "Dormowe",
+     "kind": "place"
+    },
+    {
+     "de": "Betscher Hof",
+     "en": "Betsche manor",
+     "kind": "place"
+    },
+    {
+     "de": "Betscher Forst",
+     "en": "Betsche forest",
+     "kind": "place"
+    },
+    {
+     "de": "Betscher Schlüßels",
+     "en": "Betsche district",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesischer",
+     "en": "Silesian",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "250",
+    "50"
+   ]
   },
   {
    "page": 5,
-   "en": "VIII. The holding cannot as yet be given quite definitely as to the fields, in respect of the number of Hufen. It is however sold as it lies within its [uncertain: bounds] and borders, in buildings, fields, gardens and meadows etc., also with everything that the present lessee Mr Hertzog received pro Inventario in cattle and ploughing implements, and which is moreover to be separately [uncertain: appended], also with complete winter and summer sowing.\n\nIX. The handing over of the sold free schulz-holding and its appurtenances is made to the Mr Purchaser and [uncertain: is henceforth undisturbed], and the Mr Seller submits himself to the delivery of all documents concerning the holding and of all information bearing thereupon; he also affords the Mr Purchaser the customary warranty of the land against every man's claims and pretensions, and assures him that upon this sold free schulz-holding there attach neither real nor other debts, by whatever name they may be called,"
+   "en": "VIII. As regards the arable, the holding cannot yet be stated quite definitely in the number of Hufen. It is, however, sold as it lies within its balks and boundaries, in buildings, fields, gardens and meadows etc., also with everything which the present lessee Mr. Hertzog has received by inventory in livestock and ploughing implements, and which is furthermore to be specially appended, also with the complete winter and summer sowing.\n\nIX. The delivery of the sold free village mayor's holding and its appurtenances to Mr. Purchaser takes place [uncertain: forthwith], and Mr. Seller submits himself to the handing over of all documents concerning the holding and of all information bearing thereupon, also gives Mr. Purchaser warranty according to the custom of the country against any man's claims and demands, and assures him that upon this sold free village mayor's holding there rest neither real nor other debts, by whatsoever name they may be called,",
+   "names": [
+    {
+     "de": "Hertzog",
+     "en": "Hertzog",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 6,
-   "en": "X. The Mr Seller now consents to the corresponding rectification of the Titulus possessionis in the name of the Mr Purchaser in the mortgage book to be there kept for the purpose. Finally, and\n\nXI. the participating Gentlemen named at the outset mutually assure one another of the maintenance of the concluded contract, according to all the conditions and reservations therein agreed and fixed, and at the same time renounce, deliberately and expressly, any and every evasion and legal remedy to be raised against this contract of sale, in particular the plea of error, of misunderstanding and non-understanding, of overhaste, of circumvention, of collusive dealing, of a matter agreed otherwise than as written down, of injury above or below the half, and by whatever other name they may be called.\n\nIn witness whereof the present [uncertain: instrument of sale] has been drawn up in two identically worded exemplars and, upon prior reading aloud, by the participating Gentlemen"
+   "en": "X. Mr. Seller now consents to the corresponding entry of the titulus possessionis in the name of Mr. Purchaser in the mortgage book to be kept there for that purpose. Finally, and\n\nXI. The participating gentlemen named at the outset mutually assure one another of the maintenance of the concluded contract according to all the conditions and reservations agreed and settled therein, and at the same time renounce, deliberately and expressly, any and every subterfuge and legal remedy to be raised against this contract of sale, in particular the plea of error, of misunderstanding and of failure to understand, of overhastiness, of being outwitted, of a sham transaction, of the matter having been agreed otherwise than as written down, of injury above or below the half, and by whatsoever other name they may be called.\n\nIn witness whereof the present deed of sale has been drawn up in two copies of identical wording, and upon prior reading aloud by the participating gentlemen"
   },
   {
    "page": 7,
-   "en": "by the participating Gentlemen approved in every part, also confirmed by their respective own-hand signatures and seals and exchanged one against the other. Thus done, Birnbaum, the 24th of June 1797. (L. S.) Joseph von Jankowski\n\n(L. S.) Andreas Ernst Gneust.\n\nThat Mr Joseph von Jankowski, Right Honourable, of Ninino, and the Captain and District Tax Receiver Mr Andreas Gneust, Honourable, both well known in person to the undersigned court personnel, appeared coram judicio in person and not only, after the reading had taken place, acknowledged throughout the content of the above contract of sale concluded for 2000 Rthr. over the free schulz-holding situated in Dormowe, but also recognised the signatures and seals thereunder as their own: this is credibly attested, upon the ground of a protocol taken thereupon this day, under the customary signature and impression of the [uncertain: judicial] court seal. Thus done,"
+   "en": "approved in every part by the participating gentlemen, also confirmed by their signatures in their own hands on both sides and their seals, and exchanged one against the other. Done at Birnbaum, the 24th of June 1797. (L. S.) Joseph von Jankowski\n\n(L. S.) Andreas Ernst Gneust.\n\nThat Mr. Joseph von Jankowski, Right Honourable, of Ninino, and the Captain and district tax collector Mr. Andreas Gneust, Your Honour, both well known in person to the court personnel signing at the end, appeared in person coram judicio and not only acknowledged throughout, after it had been read aloud, the content of the above contract of sale concluded for 2000 Rthr. over the free village mayor's holding situated in Dormowe, but also recognised the signatures and seals appearing thereunder as their own: this is credibly attested on the basis of a protocol taken thereupon this day, under the customary signature and the impression of the judicial court seal. Done at",
+   "names": [
+    {
+     "de": "Birnbaum",
+     "en": "Birnbaum",
+     "kind": "place"
+    },
+    {
+     "de": "Joseph von Jankowski",
+     "en": "Joseph von Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Andreas Ernst Gneust",
+     "en": "Andreas Ernst Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Ninino",
+     "en": "Ninino",
+     "kind": "place"
+    },
+    {
+     "de": "Andreas Gneust",
+     "en": "Andreas Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Dormowe",
+     "en": "Dormowe",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "24",
+    "1797",
+    "2000"
+   ]
   },
   {
    "page": 8,
-   "en": "Birnbaum, the 24th of June 1797.\n\nGoeker\n\nJustice-Burgomaster\n\nand Justitiarius here\n\n(L. S.)\n\nBauer\n\nTown and Court [uncertain: Seon]\n\nhere. Actum Betsche, the 6th of May 1799. At today's term for the publication of the deed of sale concluded extrajudicially on the 24th of June 1797 between Joseph von Jankowski, lessee at Ninino[uncertain], and the District Tax Receiver Andreas Ernst Gneust at Birnbaum, concerning the free schulz-holding situated under No. 1 at Dormowe, and recognised sub eodem dato before the Justice Magistracy at Birnbaum, there appeared:\n\n1, the seller Joseph von Jankowski\n\n2. the purchaser District Tax Receiver Gneust; and since the former was not known to the court, he was identified by the leaseholder Eichaust as the person for whom he gave himself out. To the seller von Jankowski, not being master of the German tongue, the aforesaid deed of sale of the 24th of June 1797 was thereupon read by the sworn interpreter Senator"
+   "en": "Birnbaum, the 24th of June 1797.\n\nGoeker\n\njustice-burgomaster\n\nand justiciary here\n\n(L. S.)\n\nBauer\n\ntown and judicial [uncertain: Seon]\n\nhere Actum Betsche, the 6th of May 1799. At today's appointed hearing for the publication of the deed of sale concluded out of court on the 24th of June 1797 between Joseph von Jankowski, lessee at [uncertain: Ninino], and the district tax collector Andreas Ernst Gneust of Birnbaum, over the free village mayor's holding situated under No. 1 at Dormowe, and acknowledged sub eodem dato before the judicial Magistrate at Birnbaum, there appeared\n\n1, the seller Joseph von Jankowski\n\n2. the purchaser, the district tax collector Gneust; and since the former was not known to the court, he was identified by the leaseholder Echaust as the person for whom he gave himself out. Thereupon the aforesaid deed of sale of the 24th of June 1797 was, for the seller von Jankowski, who has no command of the German language, read out by the sworn interpreter, Senator",
+   "names": [
+    {
+     "de": "Birnbaum",
+     "en": "Birnbaum",
+     "kind": "place"
+    },
+    {
+     "de": "Goeker",
+     "en": "Goeker",
+     "kind": "person"
+    },
+    {
+     "de": "Bauer",
+     "en": "Bauer",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Joseph von Jankowski",
+     "en": "Joseph von Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Ninino[?]",
+     "en": "[uncertain: Ninino]",
+     "kind": "place"
+    },
+    {
+     "de": "Andreas Ernst Gneust",
+     "en": "Andreas Ernst Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Dormowe",
+     "en": "Dormowe",
+     "kind": "place"
+    },
+    {
+     "de": "Gneust",
+     "en": "Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Eichaust",
+     "en": "Echaust",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "24",
+    "1797",
+    "6",
+    "1799",
+    "1"
+   ]
   },
   {
    "page": 9,
-   "en": "Hintsch, slowly and distinctly in the Polish tongue, but to the purchaser in the German tongue, and both declared once more deliberately before the court\n\nhow they hereby once again approve this deed of sale in all its points and will faithfully hold to it for ever. In particular the seller von Jankowski declared that he hereby resigns the sold parcel to the purchaser District Tax Receiver Gneust for himself and his heirs, and renounces all further claims for ever; likewise that he acknowledges himself fully satisfied in respect of the purchase price, and therefore approves that the Titulus possessionis be rectified for the purchaser at the mortgage book upon the ground of the deed of sale.\n\nWherewith this protocol of publication was"
+   "en": "Hintsch, slowly and distinctly in the Polish language, but to the purchaser in the German language, and both declared once more, deliberately, before the court,\n\nhow they hereby once again approve this deed of sale in all its points and will faithfully abide by it for ever. In particular the seller von Jankowski declared how he wished hereby, for himself and his heirs, to resign the sold parcel of land to the purchaser, the district tax collector Gneust, and to renounce all further claims for ever; just as he also acknowledged that he was fully satisfied with respect to the purchase price, and therefore approved that the titulus possessionis be entered for the purchaser at the mortgage book on the basis of the deed of sale.\n\nWherewith this protocol of publication was [text lost]",
+   "names": [
+    {
+     "de": "Hintsch",
+     "en": "Hintsch",
+     "kind": "person"
+    },
+    {
+     "de": "von Jankowski",
+     "en": "von Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Gneust",
+     "en": "Gneust",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 10,
-   "en": "closed, and after the reading aloud and the interpretation had taken place was approved throughout by the comparents and, in evidence thereof, signed by their own hand in Actis: Joseph Jankowski\n\nAndreas Ernst Gneust\n\nEichaust\n\nSchleich\n\nHintsch. We are now pleased, upon the request of the contracting parties, hereby to confirm this deed of sale by virtue of Our office, and to protect the possessor in his acquired right, yet without prejudice to Our own and every man's right; and We have also, for the greater credit thereof, caused this deed of sale to be issued in due form under Our seal and signature. Thus done, Betsche, the 6th of May 1799. Princely Hohenlohe-Ingelfingen Court Office here. Schenck\n\np.t. Justitiarius\n\nDeed of sale, issued,\n\nbetween Mr von\n\nJankowski and District Tax\n\nReceiver Gneust"
+   "en": "closed and, after it had been read aloud and interpreted, approved in every part by the parties appearing, and in evidence thereof signed by their own hands in the records. Joseph Jankowski\n\nAndreas Ernst Gneust\n\nEchaust\n\nSchleich\n\nHintsch. We now, upon the request of the contracting parties, will hereby confirm this deed of sale on the part of the court and protect the possessor in the right he has acquired, yet without prejudice to Us and to any man in his right; and for the greater credibility we have also caused this deed of sale to be issued in documentary form under Our seal and signature. Done at Betsche, the 6th of May 1799. Princely Hohenlohe-Ingelfingen Court Office here. Schenck\n\np.t. justiciary\n\nDeed of sale issued\n\nbetween Mr. von\n\nJankowski and the district tax\n\ncollector Gneust",
+   "names": [
+    {
+     "de": "Joseph Jankowski",
+     "en": "Joseph Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Andreas Ernst Gneust",
+     "en": "Andreas Ernst Gneust",
+     "kind": "person"
+    },
+    {
+     "de": "Eichaust",
+     "en": "Echaust",
+     "kind": "person"
+    },
+    {
+     "de": "Schleich",
+     "en": "Schleich",
+     "kind": "person"
+    },
+    {
+     "de": "Hintsch",
+     "en": "Hintsch",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Fürstl. Hohenloh Ingelfingensches",
+     "en": "Princely Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Jankowski",
+     "en": "Jankowski",
+     "kind": "person"
+    },
+    {
+     "de": "Gneust",
+     "en": "Gneust",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6",
+    "1799"
+   ]
   },
   {
    "page": 11,
-   "en": "The foregoing contract I confirm, yet without prejudice to all my rights, and in particular with the reservation of having my entitlements more closely examined according to the old land registers. Friedrich Ludwig Fürst zu Hohenlohe"
+   "en": "The foregoing contract I confirm, yet without prejudice to all my rights, and in particular with the reservation of having my entitlements examined more closely according to the old land registers. Friedrich Ludwig, Prince of Hohenlohe",
+   "names": [
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    }
+   ]
   }
  ],
- "text_english": "The copy of the deed of sale found among the Acta is written upon a stamp of 8 rt. [uncertain: S. Melich] We, the Princely Hohenlohe-Ingelfingen Court Office at Betsche, do hereby attest and testify that between Mr Joseph von Jankowski as seller of the one part and Mr Captain and District Tax Receiver Andreas Ernst Gneust as purchaser of the other part, the following deed of sale, recognised before the Magistracy at Birnbaum on the 24th of June 1797, was solemnly published before Us on the 6th of May last, and the whole of the proceedings run word for word thus:\n\nBetween the Right Honourable Mr Joseph von Jankowski of [illegible]inino, seller,\n\nand the Honourable Mr Captain and District Tax Receiver Andreas Erenst Gneust, purchaser, there has been, subject to higher confirmation, agreed and concluded the following house contract concerning the free schulz-holding belonging to the former and situated in Dormowe not far from Birnbaum, together with appurtenances, after negotiations previously conducted thereupon; the nearer determinations whereof are confirmed by the present deed of sale drawn up thereon and executed by both\n\nof the participating Gentlemen by their own-hand signatures and seals\n\nseals, executed. Namely, there sells, for himself and his heirs and heirs-at-law,\n\nI. the Mr Joseph von Jankowski named at the outset, his free schulz-holding situated in Dormowe and hitherto possessed by him in property, together with all dwelling and [uncertain: work] buildings belonging thereto, fields, [uncertain: furrows] meadows, [uncertain: ponds] and pond-sites, fisheries, cattle pastures, pleasure and fruit gardens, waters, watercourses, marshes, all as the same lie within their bounds and boundary-stones, together with the farming and ploughing implements belonging to the holding, all according to the fuller content of the house-valuation appended to these house-grounds, together with all that is therein and [unparseable] fixed by nail, wall, [uncertain: church] and root, no less all rights and privileges, also usages, burdens and encumbrances, nothing whatsoever excepted therefrom, and entirely in the measure in which the Mr Seller purchased the said free schulz-holding, by privilege of the 19th of June 1787, from Mr Florian Gelanski and his sister Jadwiga Galanska, in heritable property,\n\nII. to the last-mentioned Mr Captain and District Tax\n\nReceiver Andreas Ernst Gneust, in heritable property, for 2000 rt., in words two thousand Reichsthaler Prussian Courant, as a whole, fixed and this day cash-paid purchase sum, for the due receipt whereof the Mr Seller does also acquit the Mr Purchaser in the best and most legally binding form.\n\nIII. All costs of this transaction of sale, among which belong also the 10 per cent, or withdrawal-monies, customary in former times, the Mr Purchaser bears alone, and on this account he shall render the Mr Seller no accounting.\n\nIV. The yearly onera consist, according to the aforementioned privilege,\n\na., in 25 Tynphe travelling-money to the Betsche manor\n\nb., in 5 Szostaki ground-rent\n\nc., in 5 quarters of oats\n\nd., in 1 Tynph fox-money\n\ne., in 2 [uncertain: Rappamten] and\n\nf., the customary church dues, which the Mr Purchaser assumes like his predecessor and has vowed to render.\n\nIn return there is granted to him.\n\nV. in this same privilege he is permitted to keep 250 head of the manorial sheep, and as wages for the shepherd's rights\n\n50 head with free pasturage upon the Dormowe ground. Should he however wish to keep more, then for each head kept above this number a [uncertain: Büttchen] of the Silesian [uncertain: Heinige], one Silbergroschen, shall be paid to the Betsche manor.\n\nVI. He may brew beer freely for his household use, but sell or give away nothing thereof. Failing which he will have to pay the penalty imposed upon him by the Betsche manor.\n\nVII. The Mr Purchaser has firewood free from the Betsche forest for his whole household, servants and livestock, also for brewing; likewise the needful building timber, yet not otherwise than upon the instruction of the Commissarius or forester appointed thereover. Just as those oaks outside his tree-gardens which stand upon the fields or grounds of this free holding are to be used by the Mr Purchaser in the same manner as by the other free schulzen of the Betsche key-district.\n\nVIII. The holding cannot as yet be given quite definitely as to the fields, in respect of the number of Hufen. It is however sold as it lies within its [uncertain: bounds] and borders, in buildings, fields, gardens and meadows etc., also with everything that the present lessee Mr Hertzog received pro Inventario in cattle and ploughing implements, and which is moreover to be separately [uncertain: appended], also with complete winter and summer sowing.\n\nIX. The handing over of the sold free schulz-holding and its appurtenances is made to the Mr Purchaser and [uncertain: is henceforth undisturbed], and the Mr Seller submits himself to the delivery of all documents concerning the holding and of all information bearing thereupon; he also affords the Mr Purchaser the customary warranty of the land against every man's claims and pretensions, and assures him that upon this sold free schulz-holding there attach neither real nor other debts, by whatever name they may be called,\n\nX. The Mr Seller now consents to the corresponding rectification of the Titulus possessionis in the name of the Mr Purchaser in the mortgage book to be there kept for the purpose. Finally, and\n\nXI. the participating Gentlemen named at the outset mutually assure one another of the maintenance of the concluded contract, according to all the conditions and reservations therein agreed and fixed, and at the same time renounce, deliberately and expressly, any and every evasion and legal remedy to be raised against this contract of sale, in particular the plea of error, of misunderstanding and non-understanding, of overhaste, of circumvention, of collusive dealing, of a matter agreed otherwise than as written down, of injury above or below the half, and by whatever other name they may be called.\n\nIn witness whereof the present [uncertain: instrument of sale] has been drawn up in two identically worded exemplars and, upon prior reading aloud, by the participating Gentlemen\n\nby the participating Gentlemen approved in every part, also confirmed by their respective own-hand signatures and seals and exchanged one against the other. Thus done, Birnbaum, the 24th of June 1797. (L. S.) Joseph von Jankowski\n\n(L. S.) Andreas Ernst Gneust.\n\nThat Mr Joseph von Jankowski, Right Honourable, of Ninino, and the Captain and District Tax Receiver Mr Andreas Gneust, Honourable, both well known in person to the undersigned court personnel, appeared coram judicio in person and not only, after the reading had taken place, acknowledged throughout the content of the above contract of sale concluded for 2000 Rthr. over the free schulz-holding situated in Dormowe, but also recognised the signatures and seals thereunder as their own: this is credibly attested, upon the ground of a protocol taken thereupon this day, under the customary signature and impression of the [uncertain: judicial] court seal. Thus done,\n\nBirnbaum, the 24th of June 1797.\n\nGoeker\n\nJustice-Burgomaster\n\nand Justitiarius here\n\n(L. S.)\n\nBauer\n\nTown and Court [uncertain: Seon]\n\nhere. Actum Betsche, the 6th of May 1799. At today's term for the publication of the deed of sale concluded extrajudicially on the 24th of June 1797 between Joseph von Jankowski, lessee at Ninino[uncertain], and the District Tax Receiver Andreas Ernst Gneust at Birnbaum, concerning the free schulz-holding situated under No. 1 at Dormowe, and recognised sub eodem dato before the Justice Magistracy at Birnbaum, there appeared:\n\n1, the seller Joseph von Jankowski\n\n2. the purchaser District Tax Receiver Gneust; and since the former was not known to the court, he was identified by the leaseholder Eichaust as the person for whom he gave himself out. To the seller von Jankowski, not being master of the German tongue, the aforesaid deed of sale of the 24th of June 1797 was thereupon read by the sworn interpreter Senator\n\nHintsch, slowly and distinctly in the Polish tongue, but to the purchaser in the German tongue, and both declared once more deliberately before the court\n\nhow they hereby once again approve this deed of sale in all its points and will faithfully hold to it for ever. In particular the seller von Jankowski declared that he hereby resigns the sold parcel to the purchaser District Tax Receiver Gneust for himself and his heirs, and renounces all further claims for ever; likewise that he acknowledges himself fully satisfied in respect of the purchase price, and therefore approves that the Titulus possessionis be rectified for the purchaser at the mortgage book upon the ground of the deed of sale.\n\nWherewith this protocol of publication was\n\nclosed, and after the reading aloud and the interpretation had taken place was approved throughout by the comparents and, in evidence thereof, signed by their own hand in Actis: Joseph Jankowski\n\nAndreas Ernst Gneust\n\nEichaust\n\nSchleich\n\nHintsch. We are now pleased, upon the request of the contracting parties, hereby to confirm this deed of sale by virtue of Our office, and to protect the possessor in his acquired right, yet without prejudice to Our own and every man's right; and We have also, for the greater credit thereof, caused this deed of sale to be issued in due form under Our seal and signature. Thus done, Betsche, the 6th of May 1799. Princely Hohenlohe-Ingelfingen Court Office here. Schenck\n\np.t. Justitiarius\n\nDeed of sale, issued,\n\nbetween Mr von\n\nJankowski and District Tax\n\nReceiver Gneust\n\nThe foregoing contract I confirm, yet without prejudice to all my rights, and in particular with the reservation of having my entitlements more closely examined according to the old land registers. Friedrich Ludwig Fürst zu Hohenlohe",
+ "text_english": "The copy of the deed of sale found among the records is written on a [uncertain: S. Melich] of 8 rt. St. [illegible]. We, the Princely Hohenlohe-Ingelfingen Court Office at Betsche, do hereby record and attest that between Mr. Joseph von Jankowski as seller on the one part and the Captain and district tax collector Andreas Ernst Gneust as purchaser on the other part, the following deed of sale, acknowledged before the Magistrate at Birnbaum on the 24th of June 1797, was solemnly published before Us on the 6th of May last, and that the whole of the proceedings run word for word as follows:\n\nBetween the Right Honourable Mr. Joseph von Jankowski of [illegible]inino, seller,\n\nand the Honourable Captain and district tax collector Andreas Erenst Gneust, purchaser, there has been, subject to higher confirmation, negotiated and concluded the following deed of sale concerning the free village mayor's holding belonging to the former and situated in Dormowe not far from Birnbaum, together with its appurtenances, after negotiations previously conducted thereupon, the closer particulars whereof are confirmed by the present deed of sale drawn up thereupon and executed by both\n\nparticipating gentlemen by their own hands' signatures and seals\n\nseals executed, the deed of sale confirms. Namely, there sells, for himself and his heirs and successors in inheritance,\n\nI. the aforementioned Mr. Joseph von Jankowski his free village mayor's holding situated in Dormowe and hitherto held by him in property, together with all dwelling and farm buildings belonging thereto, fields, [uncertain: furrow] meadows, ponds and pond sites, fisheries, cattle pastures, pleasure and fruit gardens, waters, watercourses, marshes, all as the same lies within its bounds and boundary stones, together with the farming and ploughing implements belonging to the holding, all according to the fuller content of the house valuation appended to these house grounds, together with all that is therein and [illegible] Brd. fire, fire, wall, church maid and root-fast, no less all rights and privileges, also uses, burdens and encumbrances everywhere, nothing thereof excepted, and entirely in the measure in which Mr. Seller purchased the said free village mayor's holding in heritable property, according to the privilege of the 19th of June 1787, from Mr. Florian Gelanski and his sister Jadwiga Galanska\n\nII. to the last-named Captain and district tax\n\ncollector Andreas Ernst Gneust, in heritable property, for 2000 rt., written out two thousand Reichsthaler Prussian Courant, an entire, settled purchase sum paid in cash this day, for the due receipt whereof Mr. Seller does also give Mr. [uncertain: Purchaser] the fullest and most legally binding receipt.\n\nIII. All costs on account of this transaction of sale, among which belong also the 10 per cent, or deduction monies, such as were customary in earlier times, Mr. Purchaser bears alone, and on this account he will [uncertain: not] have to render any accountings to Mr. Seller.\n\nIV. The annual charges (onera) consist, according to the aforementioned privilege,\n\na., in 25 Tynphe, travel money to the Betsche manor;\n\nb., in 5 Szostaki of ground rent;\n\nc., in 5 quarters of oats;\n\nd., in 1 Tynph of fox money;\n\ne., in 2 [uncertain: Rappamten]; and\n\nf., the customary church dues, which Mr. Purchaser takes over like his predecessor in the holding and has undertaken to render.\n\nIn return there is granted to him\n\nV. In this same privilege he is permitted to keep 250 head of the lordship's sheep, and as wages for the shepherd's rights\n\n50 head with free pasturage on the Dormowe ground. Should he, however, wish to keep more, then for every head kept over and above this number a [uncertain: Büttchen], which according to Silesian [uncertain: Heinige] is one silver Groschen, is to be paid to the Betsche manor.\n\nVI. He may brew beer freely for his household use, but sell or give away nothing thereof. Failing which, he will have to pay the penalty imposed upon him by the Betsche manor.\n\nVII. The purchaser has firewood free from the Betsche forest for his whole household, servants and livestock, also for brewing; likewise the timber needed for building, yet not otherwise than upon the instruction of the commissary or of the Prince set over the same. Just as those oaks outside his tree gardens which stand upon the fields or grounds of this free holding are to be used by Mr. Purchaser in the same manner as by the other free village mayors of the Betsche district (Schlüssel).\n\nVIII. As regards the arable, the holding cannot yet be stated quite definitely in the number of Hufen. It is, however, sold as it lies within its balks and boundaries, in buildings, fields, gardens and meadows etc., also with everything which the present lessee Mr. Hertzog has received by inventory in livestock and ploughing implements, and which is furthermore to be specially appended, also with the complete winter and summer sowing.\n\nIX. The delivery of the sold free village mayor's holding and its appurtenances to Mr. Purchaser takes place [uncertain: forthwith], and Mr. Seller submits himself to the handing over of all documents concerning the holding and of all information bearing thereupon, also gives Mr. Purchaser warranty according to the custom of the country against any man's claims and demands, and assures him that upon this sold free village mayor's holding there rest neither real nor other debts, by whatsoever name they may be called,\n\nX. Mr. Seller now consents to the corresponding entry of the titulus possessionis in the name of Mr. Purchaser in the mortgage book to be kept there for that purpose. Finally, and\n\nXI. The participating gentlemen named at the outset mutually assure one another of the maintenance of the concluded contract according to all the conditions and reservations agreed and settled therein, and at the same time renounce, deliberately and expressly, any and every subterfuge and legal remedy to be raised against this contract of sale, in particular the plea of error, of misunderstanding and of failure to understand, of overhastiness, of being outwitted, of a sham transaction, of the matter having been agreed otherwise than as written down, of injury above or below the half, and by whatsoever other name they may be called.\n\nIn witness whereof the present deed of sale has been drawn up in two copies of identical wording, and upon prior reading aloud by the participating gentlemen\n\napproved in every part by the participating gentlemen, also confirmed by their signatures in their own hands on both sides and their seals, and exchanged one against the other. Done at Birnbaum, the 24th of June 1797. (L. S.) Joseph von Jankowski\n\n(L. S.) Andreas Ernst Gneust.\n\nThat Mr. Joseph von Jankowski, Right Honourable, of Ninino, and the Captain and district tax collector Mr. Andreas Gneust, Your Honour, both well known in person to the court personnel signing at the end, appeared in person coram judicio and not only acknowledged throughout, after it had been read aloud, the content of the above contract of sale concluded for 2000 Rthr. over the free village mayor's holding situated in Dormowe, but also recognised the signatures and seals appearing thereunder as their own: this is credibly attested on the basis of a protocol taken thereupon this day, under the customary signature and the impression of the judicial court seal. Done at\n\nBirnbaum, the 24th of June 1797.\n\nGoeker\n\njustice-burgomaster\n\nand justiciary here\n\n(L. S.)\n\nBauer\n\ntown and judicial [uncertain: Seon]\n\nhere Actum Betsche, the 6th of May 1799. At today's appointed hearing for the publication of the deed of sale concluded out of court on the 24th of June 1797 between Joseph von Jankowski, lessee at [uncertain: Ninino], and the district tax collector Andreas Ernst Gneust of Birnbaum, over the free village mayor's holding situated under No. 1 at Dormowe, and acknowledged sub eodem dato before the judicial Magistrate at Birnbaum, there appeared\n\n1, the seller Joseph von Jankowski\n\n2. the purchaser, the district tax collector Gneust; and since the former was not known to the court, he was identified by the leaseholder Echaust as the person for whom he gave himself out. Thereupon the aforesaid deed of sale of the 24th of June 1797 was, for the seller von Jankowski, who has no command of the German language, read out by the sworn interpreter, Senator\n\nHintsch, slowly and distinctly in the Polish language, but to the purchaser in the German language, and both declared once more, deliberately, before the court,\n\nhow they hereby once again approve this deed of sale in all its points and will faithfully abide by it for ever. In particular the seller von Jankowski declared how he wished hereby, for himself and his heirs, to resign the sold parcel of land to the purchaser, the district tax collector Gneust, and to renounce all further claims for ever; just as he also acknowledged that he was fully satisfied with respect to the purchase price, and therefore approved that the titulus possessionis be entered for the purchaser at the mortgage book on the basis of the deed of sale.\n\nWherewith this protocol of publication was [text lost]\n\nclosed and, after it had been read aloud and interpreted, approved in every part by the parties appearing, and in evidence thereof signed by their own hands in the records. Joseph Jankowski\n\nAndreas Ernst Gneust\n\nEchaust\n\nSchleich\n\nHintsch. We now, upon the request of the contracting parties, will hereby confirm this deed of sale on the part of the court and protect the possessor in the right he has acquired, yet without prejudice to Us and to any man in his right; and for the greater credibility we have also caused this deed of sale to be issued in documentary form under Our seal and signature. Done at Betsche, the 6th of May 1799. Princely Hohenlohe-Ingelfingen Court Office here. Schenck\n\np.t. justiciary\n\nDeed of sale issued\n\nbetween Mr. von\n\nJankowski and the district tax\n\ncollector Gneust\n\nThe foregoing contract I confirm, yet without prejudice to all my rights, and in particular with the reservation of having my entitlements examined more closely according to the old land registers. Friedrich Ludwig, Prince of Hohenlohe",
  "summary_en": "Confirmation by the Princely Hohenlohe-Ingelfingen Court Office at Betsche of the sale by Joseph von Jankowski of Ninino to Captain and district tax collector Andreas Ernst Gneust of Birnbaum of the free village mayor's holding No. 1 at Dormowe, with buildings, fields, meadows, ponds and implements, for 2000 Rthr. paid in cash. Dues, sheep-keeping, brewing and free wood rights from the Betsche forest are set out; the Polish-speaking seller had the contract read to him by sworn interpreter Senator Hintsch, and Prince Friedrich Ludwig confirms, reserving examination of his entitlements against the old land registers.",
  "summary_de": "Bestätigte Abschrift des Kaufvertrags vom 24. Juni 1797, mit dem Joseph von Jankowski zu Ninino seine freie Schulzerei zu Dormowe bei Birnbaum mit Gebäuden, Äckern, Wiesen, Teichen und Inventar für 2000 Rthl Preußisch Courant erblich an den Kapitän und Kreissteuereinnehmer Andreas Ernst Gneust verkauft; beigefügt sind die Anerkennung vor dem Magistrat Birnbaum, die Onera (25 Tynphe Reisegeld, 5 Szostaki Grundzins, 5 Viertel Hafer, Fuchsgeld), Schafhaltungs-, Brau- und Holzrechte, das Publikationsprotokoll des Hofgerichts Betsche mit polnischer Verdolmetschung durch Senator Hintsch sowie die Konfirmation Friedrich Ludwigs, Fürst zu Hohenlohe."
 }

@@ -305,28 +305,893 @@
    "doc_line": 104
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trombschen",
+   "kind": "place",
+   "surface_de": "Trombschen",
+   "surface_en": "Trombschen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalischen",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "F. L. P. of Hohenlohe",
+   "kind": "person",
+   "surface_de": "F. L. f. z. Hohenlohe",
+   "surface_en": "F. L. P. of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Freyberg",
+   "kind": "place",
+   "surface_de": "Freyberg",
+   "surface_en": "Freyberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreußischen",
+   "surface_en": "South Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pexen",
+   "kind": "place",
+   "surface_de": "Pexen",
+   "surface_en": "Pexen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warthe",
+   "kind": "place",
+   "surface_de": "Warthe",
+   "surface_en": "Warthe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopoyno",
+   "surface_en": "Kopojno",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiątniki",
+   "surface_en": "Swiątniki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Skokum",
+   "kind": "place",
+   "surface_de": "Skokum",
+   "surface_en": "Skokum",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Grądzin",
+   "kind": "place",
+   "surface_de": "Grądzin",
+   "surface_en": "Grądzin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczin",
+   "kind": "place",
+   "surface_de": "Wrąbczin",
+   "surface_en": "Wrąbczin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Old Swięcia",
+   "kind": "place",
+   "surface_de": "Alt Swięcia",
+   "surface_en": "Old Swięcia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "New Swięcia",
+   "kind": "place",
+   "surface_de": "Neu Swięcia",
+   "surface_en": "New Swięcia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sophienthal",
+   "kind": "place",
+   "surface_de": "Sophienthal",
+   "surface_en": "Sophienthal",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ludwigslust",
+   "kind": "place",
+   "surface_de": "Ludwigslust",
+   "surface_en": "Ludwigslust",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Adelow",
+   "kind": "place",
+   "surface_de": "Adelow",
+   "surface_en": "Adelow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Friedrichsfelde",
+   "kind": "place",
+   "surface_de": "Friedrichsfelde",
+   "surface_en": "Friedrichsfelde",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Augustinow",
+   "kind": "place",
+   "surface_de": "Augustinow",
+   "surface_en": "Augustinow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emilienhayn",
+   "kind": "place",
+   "surface_de": "Emilienhayn",
+   "surface_en": "Emilienhayn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Adolphsberg",
+   "kind": "place",
+   "surface_de": "Adolphsberg",
+   "surface_en": "Adolphsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Alexandrow",
+   "kind": "place",
+   "surface_de": "Alexandrow",
+   "surface_en": "Alexandrow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Little Ingelfingen",
+   "kind": "place",
+   "surface_de": "Klein Ingelfingen",
+   "surface_en": "Little Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Little Öhringen",
+   "kind": "place",
+   "surface_de": "Klein Öhringen",
+   "surface_en": "Little Öhringen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Little Neuenstein",
+   "kind": "place",
+   "surface_de": "Klein Neuenstein",
+   "surface_en": "Little Neuenstein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface_de": "Nowawies",
+   "surface_en": "Nowawies",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Przybislaw",
+   "kind": "place",
+   "surface_de": "Przybislaw",
+   "surface_en": "Przybislaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stara Huta",
+   "kind": "place",
+   "surface_de": "Stara Huta",
+   "surface_en": "Stara Huta",
+   "page": 2
+  },
+  {
+   "entity": "marianton",
+   "display": "Marianton",
+   "kind": "person",
+   "surface_de": "Marianton",
+   "surface_en": "Marianton",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Furstenfelde",
+   "kind": "place",
+   "surface_de": "Furstenfelde",
+   "surface_en": "Furstenfelde",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohendorf",
+   "kind": "place",
+   "surface_de": "Hohendorf",
+   "surface_en": "Hohendorf",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Justinsau[illegible]",
+   "kind": "place",
+   "surface_de": "Justinsau[?]",
+   "surface_en": "Justinsau[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kaszubow",
+   "kind": "place",
+   "surface_de": "Kaszubow",
+   "surface_en": "Kaszubow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Little Schro[uncertain: l]berg",
+   "kind": "place",
+   "surface_de": "Klein Schro[l?]berg",
+   "surface_en": "Little Schro[uncertain: l]berg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Great Holland",
+   "kind": "place",
+   "surface_de": "Gros Holland",
+   "surface_en": "Great Holland",
+   "page": 2
+  },
+  {
+   "entity": "blomberg",
+   "display": "Blomberg",
+   "kind": "person",
+   "surface_de": "Blomberg",
+   "surface_en": "Blomberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalischen",
+   "surface_en": "Kalisz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 4
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Eward",
+   "kind": "person",
+   "surface_de": "Eward",
+   "surface_en": "Eward",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Haupt",
+   "kind": "person",
+   "surface_de": "Haupt",
+   "surface_en": "Haupt",
+   "page": 4
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Eysenhardt heirs",
+   "kind": "person",
+   "surface_de": "Eysenhardtsche Erben",
+   "surface_en": "Eysenhardt heirs",
+   "page": 4
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 4
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowski",
+   "surface_en": "Grotowski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Seehausen",
+   "kind": "person",
+   "surface_de": "Seehausen",
+   "surface_en": "Seehausen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Seher Toth heirs",
+   "kind": "person",
+   "surface_de": "Seher Tothschen Erben",
+   "surface_en": "Seher Toth heirs",
+   "page": 4
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Prusimska",
+   "surface_en": "Prusimska",
+   "page": 4
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Wolff",
+   "kind": "person",
+   "surface_de": "Wolff",
+   "surface_en": "Wolff",
+   "page": 4
+  },
+  {
+   "entity": "bornstaedt",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstädt",
+   "surface_en": "Bornstädt",
+   "page": 4
+  }
+ ],
  "place_canonical": "Freyberg",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Privy Councillor! Through the colonisation of my South Prussian lordships Zagorowo and Trombschen, effected with Royal approbation, a net yield of the same of 40 Rthl has been ascertained, and, after exact examination, confirmed by the Kalisch Chamber of War and Domains. This should put me in a position to bring my so long asked-for wish to fulfilment, and to arrange my whole affair of debts entirely. It depends, however, upon whether it is possible to obtain a sum of 100000 Rthl, namely as much as my collective debts without exception amount to, in one single lot, against which I should then pledge the two aforenamed lordships, constitute complete security thereupon with a first and sole mortgage, and likewise determine a yearly sum for the payment of the interest and the amortisation of the capital, whereby this debt might be extinguished in few years. Your Right Honourable I most submissively request to undertake this business and, with your great acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the first post in any form you please. I have also instructed my General Plenipotentiary to deliver over to the same at once all documents needful for the prosecution of this business, and, for the men of business co-operating in these affairs, to pay out without delay a D[illegible]ongratie of 5 pt. as soon as the matter is understood. With the most perfect esteem I am Your Right Honourable's F. L. f. z. Hohenlohe Freyberg, the 25th of September 1806."
+   "en": "Right Honourable Sir,\n\nHighly Honoured Privy Councillor!\n\nBy the colonisation of my South Prussian lordships Zagorowo and Trombschen, carried out with Royal approval, a net yield from the same of 40 Rthl has been ascertained, and after exact examination has been confirmed by the Kalisz Chamber of War and Domains.\n\nThis should put me in a position to bring my so long entertained wish to fulfilment, and to arrange my debt affairs entirely. It depends, however, upon whether it is possible to obtain a sum of 100000 Rthl, namely as much as all my debts without exception amount to, in a single lot, against which I would then pledge the two aforenamed lordships, establish complete security upon them with a first and sole mortgage, and would also appoint a yearly sum for the payment of the interest and the amortisation of the capital, whereby this debt could be discharged in a few years.\n\nI most respectfully request Your Right Honourable to undertake this business and, with your wide acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the first post in any form you please. I have likewise instructed my general attorney to deliver to you at once all documents needed for the prosecution of this business, and, for the men of affairs cooperating in these matters, to pay out without delay a d[illegible]ongratie of 5 per cent as soon as the matter is [uncertain: understood]. With the most complete esteem I am Your Right Honourable's\n\nF. L. P. of Hohenlohe. Freyberg, the 25th of September\n\n1806.",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trombschen",
+     "en": "Trombschen",
+     "kind": "place"
+    },
+    {
+     "de": "Kalischen",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "F. L. f. z. Hohenlohe",
+     "en": "F. L. P. of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Freyberg",
+     "en": "Freyberg",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreußischen",
+     "en": "South Prussian",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "40",
+    "100000",
+    "5",
+    "25",
+    "1806"
+   ]
   },
   {
    "page": 2,
-   "en": "The lordships Zagorowo and Trąbczin belonging to Prince Hohenlohe in South Prussia, beyond Posen on the Warthe, consist: 1. Of the little town of Zagorowo. 2. Of the village and demesne farm Kopoyno. 3. Of the quit-rent village Swiątniki. 4. ditto Skokum. 5. Of the quit-rent village and demesne farm Olesnica. 6. Of the quit-rent village Drzewce. 7. ditto Grądzin. 8. ditto Wrąbczin. 9. Alt Swięcia. 10. Neu Swięcia. 11. Sophienthal. 12. Ludwigslust. 13. Adelow. 14. Friedrichsfelde. 15. Augustinow. 16. Emilienhayn. 17. Adolphsberg. 18. Alexandrow. 19. Klein Ingelfingen. 20. Klein Öhringen. 21. Klein Neuenstein. 12. Of the village and demesne farm Trąbczin. 23. Of ditto Nowawies. 24. Of the village and demesne farm Przybislaw. 25. Of the quit-rent village Stara Huta. 26. Of the village and demesne farm Marianton. 27. Of the village and demesne farm Szetlewek. 28. Of the quit-rent village Furstenfelde. 29. Of ditto Hohendorf. 30. Of ditto Justinsau[uncertain: Justinsau]. 31. Of ditto Kaszubow. 32. Of Klein Schro[uncertain: l]berg. 33. Of ditto Gros Holland. 34. Of ditto Blomberg."
+   "en": "The lordships Zagorowo and Trąbczyn belonging to the Prince of Hohenlohe in South Prussia, beyond Pexen on the Warthe, consist:\n\n1. Of the little town of Zagorowo\n\n2. Of the village and [uncertain: Vormuck] Kopojno 3. Of the rent-village Swiątniki\n\n4. ditto Skokum 5. Of the rent-village and demesne farm Olesnica. 6. Of the rent-village Drzewce.\n\n7. ditto Grądzin\n\n8. ditto Wrąbczin 9. Old Swięcia\n\n10. New Swięcia\n\n11. Sophienthal\n\n12. Ludwigslust\n\n13. Adelow 14. Friedrichsfelde 15. Augustinow\n\n16. Emilienhayn\n\n17. Adolphsberg\n\n18. Alexandrow 19. Little Ingelfingen 20. Little Öhringen 21. Little Neuenstein 22. Of the village and demesne farm Trąbczyn 23. Of ditto Nowawies 24. Of the village or demesne farm Przybislaw 25. Of the rent-village Stara Huta 26. Of the village and demesne farm Marianton\n\n27. Of the village and demesne farm Szetlewek\n\n28. Of the rent-village Furstenfelde\n\n29. Of ditto Hohendorf 30. Of ditto Justinsau[illegible] 31. Of ditto Kaszubow 32. Of Little Schro[uncertain: l]berg 33. Of ditto Great Holland 34. Of ditto Blomberg",
+   "names": [
+    {
+     "de": "Fürsten Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Pexen",
+     "en": "Pexen",
+     "kind": "place"
+    },
+    {
+     "de": "Warthe",
+     "en": "Warthe",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kopoyno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Swiątniki",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "Skokum",
+     "en": "Skokum",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Grądzin",
+     "en": "Grądzin",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczin",
+     "en": "Wrąbczin",
+     "kind": "place"
+    },
+    {
+     "de": "Alt Swięcia",
+     "en": "Old Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Neu Swięcia",
+     "en": "New Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Sophienthal",
+     "en": "Sophienthal",
+     "kind": "place"
+    },
+    {
+     "de": "Ludwigslust",
+     "en": "Ludwigslust",
+     "kind": "place"
+    },
+    {
+     "de": "Adelow",
+     "en": "Adelow",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrichsfelde",
+     "en": "Friedrichsfelde",
+     "kind": "place"
+    },
+    {
+     "de": "Augustinow",
+     "en": "Augustinow",
+     "kind": "place"
+    },
+    {
+     "de": "Emilienhayn",
+     "en": "Emilienhayn",
+     "kind": "place"
+    },
+    {
+     "de": "Adolphsberg",
+     "en": "Adolphsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Alexandrow",
+     "en": "Alexandrow",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Ingelfingen",
+     "en": "Little Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Öhringen",
+     "en": "Little Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Neuenstein",
+     "en": "Little Neuenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Nowawies",
+     "en": "Nowawies",
+     "kind": "place"
+    },
+    {
+     "de": "Przybislaw",
+     "en": "Przybislaw",
+     "kind": "place"
+    },
+    {
+     "de": "Stara Huta",
+     "en": "Stara Huta",
+     "kind": "place"
+    },
+    {
+     "de": "Marianton",
+     "en": "Marianton",
+     "kind": "place"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Furstenfelde",
+     "en": "Furstenfelde",
+     "kind": "place"
+    },
+    {
+     "de": "Hohendorf",
+     "en": "Hohendorf",
+     "kind": "place"
+    },
+    {
+     "de": "Justinsau[?]",
+     "en": "Justinsau[illegible]",
+     "kind": "place"
+    },
+    {
+     "de": "Kaszubow",
+     "en": "Kaszubow",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Schro[l?]berg",
+     "en": "Little Schro[uncertain: l]berg",
+     "kind": "place"
+    },
+    {
+     "de": "Gros Holland",
+     "en": "Great Holland",
+     "kind": "place"
+    },
+    {
+     "de": "Blomberg",
+     "en": "Blomberg",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34"
+   ]
   },
   {
    "page": 3,
-   "en": "The yearly net yield of the two lordships has been examined by a Commission appointed by the Royal Kalisch Chamber of War and Domains and ascertained in the following manner. Tit. I. In fixed dues from the old subjects in both lordships, according to the Praestations-Tabelle, 5752 Rthl 14 g. 11 d. 2. In hereditary quit-rents from the colonies, 16781. Tit. II. In hereditary-lease canon, 3500. Tit. III. In leasehold parcels, 13357. Tit. IV. From 3 brickworks, according to the Chamber's valuation, 857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may go, are taken over as well by the hereditary lessees, colonists, term-peasants and term-tenants. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands firm as a clear yearly revenue. v. Triebenfeld"
+   "en": "The yearly net yield of the two lordships has been examined by a commission set up by the Royal Kalisz Chamber of War and Domains and ascertained as follows.\n\nTitle I. In standing dues from the old subjects in both lordships, according to the table of prestations 5752 Rthl 14 g. 11 d. 2. In hereditary rents from the colonies 16781 Title II\n\nIn hereditary-lease canon 3500\n\nTitle III\n\nIn leased parcels 13357\n\nTitle IV From 3 brickworks according to the Chamber's valuation 857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may be called, have been assumed by the hereditary tenants, colonists, term-peasants and term-lessees. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands fast as a net yearly revenue.\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Kalischen",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5752",
+    "14",
+    "11",
+    "16781",
+    "3500",
+    "13357",
+    "3",
+    "857",
+    "40247",
+    "14",
+    "11",
+    "40247",
+    "14",
+    "11"
+   ]
   },
   {
    "page": 4,
-   "en": "Debts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Ewald and Haupt 18000. Zerboni 10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt 5000. Sundry debts circa 20000. Total 366000."
+   "en": "Debts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Eward and Haupt 18000. Zerboni 10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt 5000. Sundry debts circa 20000. Total 366000.",
+   "names": [
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Eward",
+     "en": "Eward",
+     "kind": "person"
+    },
+    {
+     "de": "Haupt",
+     "en": "Haupt",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhardtsche Erben",
+     "en": "Eysenhardt heirs",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Grotowski",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Seehausen",
+     "en": "Seehausen",
+     "kind": "person"
+    },
+    {
+     "de": "Seher Tothschen Erben",
+     "en": "Seher Toth heirs",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimska",
+     "en": "Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Wolff",
+     "en": "Wolff",
+     "kind": "person"
+    },
+    {
+     "de": "Bornstädt",
+     "en": "Bornstädt",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "25000",
+    "27000",
+    "18000",
+    "10000",
+    "10000",
+    "42000",
+    "20000",
+    "5000",
+    "8000",
+    "16000",
+    "50000",
+    "110000",
+    "5000",
+    "20000",
+    "366000"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Privy Councillor! Through the colonisation of my South Prussian lordships Zagorowo and Trombschen, effected with Royal approbation, a net yield of the same of 40 Rthl has been ascertained, and, after exact examination, confirmed by the Kalisch Chamber of War and Domains. This should put me in a position to bring my so long asked-for wish to fulfilment, and to arrange my whole affair of debts entirely. It depends, however, upon whether it is possible to obtain a sum of 100000 Rthl, namely as much as my collective debts without exception amount to, in one single lot, against which I should then pledge the two aforenamed lordships, constitute complete security thereupon with a first and sole mortgage, and likewise determine a yearly sum for the payment of the interest and the amortisation of the capital, whereby this debt might be extinguished in few years. Your Right Honourable I most submissively request to undertake this business and, with your great acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the first post in any form you please. I have also instructed my General Plenipotentiary to deliver over to the same at once all documents needful for the prosecution of this business, and, for the men of business co-operating in these affairs, to pay out without delay a D[illegible]ongratie of 5 pt. as soon as the matter is understood. With the most perfect esteem I am Your Right Honourable's F. L. f. z. Hohenlohe Freyberg, the 25th of September 1806.\n\nThe lordships Zagorowo and Trąbczin belonging to Prince Hohenlohe in South Prussia, beyond Posen on the Warthe, consist: 1. Of the little town of Zagorowo. 2. Of the village and demesne farm Kopoyno. 3. Of the quit-rent village Swiątniki. 4. ditto Skokum. 5. Of the quit-rent village and demesne farm Olesnica. 6. Of the quit-rent village Drzewce. 7. ditto Grądzin. 8. ditto Wrąbczin. 9. Alt Swięcia. 10. Neu Swięcia. 11. Sophienthal. 12. Ludwigslust. 13. Adelow. 14. Friedrichsfelde. 15. Augustinow. 16. Emilienhayn. 17. Adolphsberg. 18. Alexandrow. 19. Klein Ingelfingen. 20. Klein Öhringen. 21. Klein Neuenstein. 12. Of the village and demesne farm Trąbczin. 23. Of ditto Nowawies. 24. Of the village and demesne farm Przybislaw. 25. Of the quit-rent village Stara Huta. 26. Of the village and demesne farm Marianton. 27. Of the village and demesne farm Szetlewek. 28. Of the quit-rent village Furstenfelde. 29. Of ditto Hohendorf. 30. Of ditto Justinsau[uncertain: Justinsau]. 31. Of ditto Kaszubow. 32. Of Klein Schro[uncertain: l]berg. 33. Of ditto Gros Holland. 34. Of ditto Blomberg.\n\nThe yearly net yield of the two lordships has been examined by a Commission appointed by the Royal Kalisch Chamber of War and Domains and ascertained in the following manner. Tit. I. In fixed dues from the old subjects in both lordships, according to the Praestations-Tabelle, 5752 Rthl 14 g. 11 d. 2. In hereditary quit-rents from the colonies, 16781. Tit. II. In hereditary-lease canon, 3500. Tit. III. In leasehold parcels, 13357. Tit. IV. From 3 brickworks, according to the Chamber's valuation, 857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may go, are taken over as well by the hereditary lessees, colonists, term-peasants and term-tenants. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands firm as a clear yearly revenue. v. Triebenfeld\n\nDebts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Ewald and Haupt 18000. Zerboni 10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt 5000. Sundry debts circa 20000. Total 366000.",
+ "text_english": "Right Honourable Sir,\n\nHighly Honoured Privy Councillor!\n\nBy the colonisation of my South Prussian lordships Zagorowo and Trombschen, carried out with Royal approval, a net yield from the same of 40 Rthl has been ascertained, and after exact examination has been confirmed by the Kalisz Chamber of War and Domains.\n\nThis should put me in a position to bring my so long entertained wish to fulfilment, and to arrange my debt affairs entirely. It depends, however, upon whether it is possible to obtain a sum of 100000 Rthl, namely as much as all my debts without exception amount to, in a single lot, against which I would then pledge the two aforenamed lordships, establish complete security upon them with a first and sole mortgage, and would also appoint a yearly sum for the payment of the interest and the amortisation of the capital, whereby this debt could be discharged in a few years.\n\nI most respectfully request Your Right Honourable to undertake this business and, with your wide acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the first post in any form you please. I have likewise instructed my general attorney to deliver to you at once all documents needed for the prosecution of this business, and, for the men of affairs cooperating in these matters, to pay out without delay a d[illegible]ongratie of 5 per cent as soon as the matter is [uncertain: understood]. With the most complete esteem I am Your Right Honourable's\n\nF. L. P. of Hohenlohe. Freyberg, the 25th of September\n\n1806.\n\nThe lordships Zagorowo and Trąbczyn belonging to the Prince of Hohenlohe in South Prussia, beyond Pexen on the Warthe, consist:\n\n1. Of the little town of Zagorowo\n\n2. Of the village and [uncertain: Vormuck] Kopojno 3. Of the rent-village Swiątniki\n\n4. ditto Skokum 5. Of the rent-village and demesne farm Olesnica. 6. Of the rent-village Drzewce.\n\n7. ditto Grądzin\n\n8. ditto Wrąbczin 9. Old Swięcia\n\n10. New Swięcia\n\n11. Sophienthal\n\n12. Ludwigslust\n\n13. Adelow 14. Friedrichsfelde 15. Augustinow\n\n16. Emilienhayn\n\n17. Adolphsberg\n\n18. Alexandrow 19. Little Ingelfingen 20. Little Öhringen 21. Little Neuenstein 22. Of the village and demesne farm Trąbczyn 23. Of ditto Nowawies 24. Of the village or demesne farm Przybislaw 25. Of the rent-village Stara Huta 26. Of the village and demesne farm Marianton\n\n27. Of the village and demesne farm Szetlewek\n\n28. Of the rent-village Furstenfelde\n\n29. Of ditto Hohendorf 30. Of ditto Justinsau[illegible] 31. Of ditto Kaszubow 32. Of Little Schro[uncertain: l]berg 33. Of ditto Great Holland 34. Of ditto Blomberg\n\nThe yearly net yield of the two lordships has been examined by a commission set up by the Royal Kalisz Chamber of War and Domains and ascertained as follows.\n\nTitle I. In standing dues from the old subjects in both lordships, according to the table of prestations 5752 Rthl 14 g. 11 d. 2. In hereditary rents from the colonies 16781 Title II\n\nIn hereditary-lease canon 3500\n\nTitle III\n\nIn leased parcels 13357\n\nTitle IV From 3 brickworks according to the Chamber's valuation 857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may be called, have been assumed by the hereditary tenants, colonists, term-peasants and term-lessees. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands fast as a net yearly revenue.\n\nv. Triebenfeld\n\nDebts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Eward and Haupt 18000. Zerboni 10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt 5000. Sundry debts circa 20000. Total 366000.",
  "summary_en": "Prince Hohenlohe's own appeal to a Privy Councillor to negotiate a single loan of 100,000 Rthl, secured by a first and sole mortgage on the colonised South Prussian lordships Zagorowo and Trombschen, with interest and amortisation payable yearly and a 5 pt. gratuity for the agents; power of attorney and documents promised. Appended are Triebenfeld's schedule of the 34 constituent places and a net yearly yield of 40247 Rthl 14 g 11 d certified by the Kalisch Chamber, and a list of debts (Schlabrendorff, Lichnowski, Oppenheimer and Wolff, the Invalids' Fund and others) totalling 366000.",
  "summary_de": "Fürst Hohenlohe bittet den Geheimen Rath, mit seinen weitreichenden Verbindungen ein Darlehen von 100000 Rthl in einer Summe zu vermitteln, gesichert durch erste und alleinige Hypothek auf die südpreußischen Herrschaften Zagorowo und Trombschen; Vollmacht und Unterlagen folgen, den mitwirkenden Geschäftsleuten sind 5 pt. zugesagt. Beigefügt v. Triebenfelds Verzeichnis der 34 Ortschaften sowie die von der Kalischer Kriegs- und Domänenkammer geprüfte Reinertragsberechnung von 40247 Rthl 14 g 11 d aus Zinsen, Erbpachtcanon und Ziegeleien, dazu eine Schuldenliste (Schlabrendorff, Lichnowski, Oppenheimer und Wolff, Invalidenfonds u. a.) über 366000 Rthl."
 }

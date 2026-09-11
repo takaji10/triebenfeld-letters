@@ -400,44 +400,630 @@
    "doc_line": 229
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Sr. Durchlauch dem regierenden Herrn Fürsten zu Hohenlohe Ingelfin gen",
+   "surface_en": "His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. Leixner",
+   "kind": "person",
+   "surface_de": "Herrn Leixner",
+   "surface_en": "Mr. Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth an der Oder",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionne",
+   "kind": "place",
+   "surface_de": "Kamionne",
+   "surface_en": "Kamionne",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "George Conrad Leixner",
+   "surface_en": "George Conrad Leixner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth an der Oder",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kamionne",
+   "kind": "place",
+   "surface_de": "Kamionne",
+   "surface_en": "Kamionne",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "cavalry captain von Broniewsky",
+   "kind": "person",
+   "surface_de": "Herr Rittmeister von Broniewsky",
+   "surface_en": "cavalry captain von Broniewsky",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr. Simon",
+   "kind": "person",
+   "surface_de": "Herrn Simon",
+   "surface_en": "Mr. Simon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr. Leixner",
+   "kind": "person",
+   "surface_de": "Herrn Leixner",
+   "surface_en": "Mr. Leixner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Broniewsky",
+   "kind": "person",
+   "surface_de": "von Broniewsky",
+   "surface_en": "von Broniewsky",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kamionne",
+   "kind": "place",
+   "surface_de": "Kamionne",
+   "surface_en": "Kamionne",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kamionne",
+   "kind": "place",
+   "surface_de": "Kamionne",
+   "surface_en": "Kamionne",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Gory",
+   "kind": "place",
+   "surface_de": "Gory",
+   "surface_en": "Gory",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Krobilaw",
+   "kind": "place",
+   "surface_de": "Krobilaw",
+   "surface_en": "Krobilaw",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Kwilecki",
+   "kind": "person",
+   "surface_de": "von Kwilecki",
+   "surface_en": "von Kwilecki",
+   "page": 4
+  },
+  {
+   "entity": "metzig",
+   "display": "Metzig",
+   "kind": "person",
+   "surface_de": "Metzig",
+   "surface_en": "Metzig",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Schwerin",
+   "kind": "place",
+   "surface_de": "Schwerin",
+   "surface_en": "Schwerin",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsch",
+   "surface_en": "Betsche",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Kamionne",
+   "kind": "place",
+   "surface_de": "Kamionne",
+   "surface_en": "Kamionne",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Kamionne",
+   "kind": "place",
+   "surface_de": "Kamionne",
+   "surface_en": "Kamionne",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "the mining councillor Bernhardi",
+   "kind": "person",
+   "surface_de": "Herrn Berg-Rath Bernhardi",
+   "surface_en": "the mining councillor Bernhardi",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "the Councillor of War and Forests von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Herr Kriegs und Forst Rath von Triebenfeld",
+   "surface_en": "the Councillor of War and Forests von Triebenfeld",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Broniewski",
+   "kind": "person",
+   "surface_de": "von Broniewski",
+   "surface_en": "von Broniewski",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Kollno",
+   "kind": "place",
+   "surface_de": "Kollno",
+   "surface_en": "Kollno",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kamionna",
+   "surface_en": "Kamionna",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 8
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Be it known and understood that between His Serene Highness the reigning Prince zu Hohenlohe-Ingelfingen, Governor of Breslau etc., on the one part, and the Building-Bank Rendant Herr Leixner of Frankfurth an der Oder, the following contract of sale and purchase has been, after due deliberation, freely and irrevocably agreed, concluded and executed.\n\n§. 1. Namely, His Most Serene Highness the reigning Prince zu Hohenlohe-Ingelfingen, Governor of Breslau etc., sells His own estates situated under the Department of the Government at Posen in the [text lost] District,\n\nKollno and Kamionne, with all appurtenances and mills belonging thereto, rights and privileges, with all inhabitants, fields, forests, lakes and waters, with the rents and the propination rights, the services, the hunt and the jurisdiction, also all remaining rights and appurtenances, just as His Serene Highness received the said estates and their appurtenances delivered over from the Royal Commission by virtue of the instrument of donation, of which a vidimated Copy is to be handed to the Herr Purchaser, and for whose correctness and truth His Serene Highness furnishes eviction-warranty in respect of the estates Kollno and Kamionne, and has possessed and enjoyed them, and can also use and enjoy them, with everything as it stands and lies, and finally also with all rights and privileges that may pertain to His Serene Highness against the"
+   "en": "Be it known and made manifest that between His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Governor at Breslau etc., of the one part, and the building bank cashier Mr. Leixner at Frankfurt an der Oder, the following contract of sale and purchase has been deliberately, freely and irrevocably agreed, concluded and executed.\n\n§ 1. Namely, His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Governor at Breslau etc., sells his estates situated under the Department of the Government at Posen in the\n\ndistrict of\n\nKollno and Kamionne, with all appurtenances and mills belonging thereto, rights and privileges, with all residents, fields, forests, lakes and waters, with the rents and the propination rights, the services, the hunt and the jurisdiction, and likewise all other rights and appurtenances, just as His Serene Highness received the said estates and their appurtenances delivered over by the Royal Commission pursuant to the deed of donation, of which a vidimated copy is to be handed to the purchaser, and for whose correctness and truth His Serene Highness gives warranty of title (Eviction) in respect of the estates Kollno and Kamionne, and has possessed and enjoyed them, and can also use and enjoy them, with everything as it stands and lies, and finally also with all rights and privileges which His Serene Highness may have against the",
+   "names": [
+    {
+     "de": "Sr. Durchlauch dem regierenden Herrn Fürsten zu Hohenlohe Ingelfin gen",
+     "en": "His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Herrn Leixner",
+     "en": "Mr. Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth an der Oder",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionne",
+     "en": "Kamionne",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1"
+   ]
   },
   {
    "page": 2,
-   "en": "residents and subjects of these estates, which [rights] they have arrogated to themselves and believe themselves entitled to claim, — to His Honour the Royal Banco-Rendant Herr George Conrad Leixner in Frankfurth an der Oder, for a fixed purchase sum of One Hundred and Forty-Two Thousand Reichsthaler Royal Prussian 64-piece Courant, as his complete property.\n\n§. 2. This day's purchase of the estates Kollno and Kamionne is made without valuation, in Pausch und Bogen; for that reason His Most Serene Highness furnishes eviction-warranty solely in respect of the survey register taken up by the Royal Commission and of the real assets listed in the [uncertain: Tan], which are to be handed over at the delivery. All revenues and farming yields the Herr Purchaser must take over as they exist, and according as they may hereafter increase or diminish, with which the Herr Purchaser likewise declares himself content.\n\nHis Most Serene Highness has caused a settlement to be concluded with Herr Rittmeister von Broniewsky on the 3rd of July of the current year, according to the content of which the same is willing, upon receipt of a sum of 53139 Rthl. 13 Ggl. 8 4/5 Pfl., to give back the estates Kollno and Kamionne forthwith and to restore the [estates] to His Highness. Now since the merchant Herr Simon, as authorised representative of Herr Leixner, has with Herr"
+   "en": "inhabitants and subjects of these estates, which they have arrogated to themselves and believe they may claim, to His Honour the Royal bank cashier Mr. George Conrad Leixner at Frankfurt an der Oder, for a fixed purchase sum of one hundred and forty-two thousand Reichsthaler Royal Prussian 64-piece Courant, as his full property.\n\n§ 2. The present purchase of the estates Kollno and Kamionne takes place without valuation, in Pausch und Bogen; for that reason His Most Serene Highness gives warranty of title (Eviction) solely in respect of the survey register drawn up by the Royal Commission and of the real assets listed in the [uncertain: Tan], which are to be handed over at the delivery of possession. All revenues and economic yields the purchaser must take over as they exist, and according as they may hereafter increase or diminish, with which the purchaser likewise declares himself content.\n\nHis Most Serene Highness has caused a settlement to be concluded with the cavalry captain von Broniewsky on 3 July of this year, according to the content of which the same will forthwith give back the estates Kollno and Kamionne upon receipt of a sum of 53139 Rthl. 13 Groschen 8 4/5 Pfennig, and will restore the [text lost] to His Highness. Now since the merchant Mr. Simon, as authorised representative of Mr. Leixner, has with Mr.",
+   "names": [
+    {
+     "de": "George Conrad Leixner",
+     "en": "George Conrad Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth an der Oder",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionne",
+     "en": "Kamionne",
+     "kind": "place"
+    },
+    {
+     "de": "Herr Rittmeister von Broniewsky",
+     "en": "cavalry captain von Broniewsky",
+     "kind": "person"
+    },
+    {
+     "de": "Herrn Simon",
+     "en": "Mr. Simon",
+     "kind": "person"
+    },
+    {
+     "de": "Herrn Leixner",
+     "en": "Mr. Leixner",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "142000 (Einmahlshundert zwey und Vierzig Tausend)",
+    "64",
+    "3",
+    "53139",
+    "13",
+    "8 4/5"
+   ]
   },
   {
    "page": 3,
-   "en": "von Broniewsky agreed at Posen on the 6th of this month that payment of the 53139 Rthl. 13 Gg. 8 4/5 Pf. shall be made on the 8th of September at Posen, but the natural delivery of the estates shall take place on the 10th of September at Kollno and Kamionne, His Serene Highness accordingly promises to send an authorised representative to Posen and to Kollno and Kamionne at the said time, in order to be present at these Actibus; and since a Government Commissary from Posen will carry out the natural handing-over, His Serene Highness stipulates that the estates Kollno and Kamionne be delivered directly to the Herr Purchaser on the 10th of September.\n\n§. 4. Both in the settlement of the 3rd of July and also in a later declaration Herr von Broniewsky has bound himself to redeem entirely all his Intabulata upon Kollno and Kamionne, and thereby to have these estates cleared of all Nexibus charged upon them on his account. The Herr Purchaser therefore receives these estates wholly free of debt.\n\n§. 5. Herr von Broniewsky retains all usufructs of the estates until the 24th of June of the current year. From that day onward all usufructs and burdens pass over to the Herr Purchaser, and Herr von Broniewsky will render the account thereof at the natural handing-over, just as he will at the same time restore the Beilass in field, cattle and farming inventory which the said von Broniewsky received in the year 1786 upon taking over the estates as manorial"
+   "en": "von Broniewsky agreed at Posen on the 6th of this month that the payment of the 53139 Rthl. 13 Groschen 8 4/5 Pfennig shall be made on 8 September at Posen, but the delivery of actual possession of the estates on 10 September at Kollno and Kamionne, His Serene Highness accordingly promises to send an authorised representative to Posen and to Kollno and Kamionne at the said time, in order to be present at these acts; and since a government commissioner from Posen will carry out the delivery of actual possession, His Serene Highness stipulates that the estates Kollno and Kamionne shall be delivered over to the purchaser directly on the 10th of September.\n\n§ 4. Both in the settlement of 3 July and in a later declaration Mr. von Broniewsky has bound himself to redeem entirely all his intabulations upon Kollno and Kamionne, and thereby to have these estates purged of all encumbrances (Nexus) charged thereon on his account. The purchaser therefore receives these estates wholly free of debt.\n\n§ 5. Mr. von Broniewsky retains all the profits of the estates up to 24 June of this year. From that day forward all profits and burdens pass to the purchaser, and Mr. von Broniewsky will render the account thereof at the delivery of actual possession, as he will at the same time also restore the stock of field, cattle and farm inventory which von Broniewsky received on taking over the estates in the year 1786 as the lordship's",
+   "names": [
+    {
+     "de": "von Broniewsky",
+     "en": "von Broniewsky",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionne",
+     "en": "Kamionne",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6",
+    "53139",
+    "13",
+    "8 4/5",
+    "8",
+    "10",
+    "10",
+    "4",
+    "3",
+    "5",
+    "24",
+    "1786"
+   ]
   },
   {
    "page": 4,
-   "en": "Beilass, as the deed of delivery of that time states. The Herr Purchaser has all the less to receive anything further, inasmuch as His Most Serene Highness has hitherto not yet been in natural possession of the estates, and therefore also cannot hand over more than what is only now being delivered to His Highness.\n\n§. 6. To the Herr Seller's Serene Highness no servitudes are known which burden the estates Kollno and Kamionne passively. On the other hand, there belongs to these estates the free right of felling, as a right due to the same, in the forests at Gory and Krobilaw, which right of felling has also been established by a recent judgment in Possessorium. The\n\n5) Herr Purchaser is therefore likewise entitled to this right, and he is to carry on the further process concerning it, in so far as von Kwilecki should pursue the same further. The judgment in Possessorium has also already been handed to the Herr [uncertain: Schufer], and he declares himself content with the declaration of His Serene Highness.\n\n§. 7. All documents and writings which concern these estates, and which the Herr Seller's Serene Highness or His authorised representatives may still have in hand, shall be faithfully extradited to the Herr Purchaser.\n\n§. 8. His Serene Highness has engaged the justice-burgomaster"
+   "en": "stock, as the delivery deed of that time states. The purchaser has the less to receive anything further, inasmuch as His Most Serene Highness has to this day not yet been in actual possession of the estates, and therefore cannot deliver over more than what is only now being delivered over to His Highness.\n\n§ 6. His Serene Highness the vendor knows of no servitudes burdening the estates Kollno and Kamionne. On the other hand these estates are entitled to free timber-cutting, as a right due to them, in the forests at Gory and Krobilaw, which right of cutting has also been established by a recent judgment in possessorium. The\n\n5) purchaser is therefore likewise entitled to this right, and has to carry on the further litigation over it insofar as von Kwilecki should pursue the same further. The possessorium judgment has also already been handed to the purchaser, and he declares himself content with His Serene Highness's declaration.\n\n§ 7. All documents and writings concerning these estates, and which His Serene Highness the vendor or his authorised representatives may still have in hand, shall be faithfully delivered over to the purchaser.\n\n§ 8. His Serene Highness has engaged the justice-burgomaster",
+   "names": [
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionne",
+     "en": "Kamionne",
+     "kind": "place"
+    },
+    {
+     "de": "Gory",
+     "en": "Gory",
+     "kind": "place"
+    },
+    {
+     "de": "Krobilaw",
+     "en": "Krobilaw",
+     "kind": "place"
+    },
+    {
+     "de": "von Kwilecki",
+     "en": "von Kwilecki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
   },
   {
    "page": 5,
-   "en": "Metzig at Schwerin as Justitiarius in Betsch, Kollno and Kamionne. He will give information on all that concerns the administration of justice and its records, just as he also has the deposit business under his charge. It rests with the Herr Purchaser to retain him or to engage another. His Serene Highness pays the said Metzig his salary until Michaelmas of the current year, with which the Herr Purchaser is likewise content.\n\n§. 9. His Majesty the King has already in the month of July of the current year granted the Herr Purchaser the All-Highest concession to purchase these estates, so that there is nothing to be objected against his capacity to possess; and since this point goes at the Herr Purchaser's expense, the matter rests thereupon.\n\n§. 10. The Herr Purchaser's intention is to dismember the estates Kollno and Kamionne. His Serene Highness will lay no obstacles in the way of this business, but rather approves it and will also further it, that it be carried out on the Herr Purchaser's account; as His Highness has also already caused the consent thereto to be applied for at the Cameral Department. To do anything further lies beyond the powers of His Serene Highness, and it is therefore solely the Herr Purchaser's affair to pursue this matter and bring it to a conclusion.\n\n§. 11. As regards now the payment of the stipulated purchase moneys, the following has been determined and settled among the contracting parties."
+   "en": "Metzig at Schwerin as justiciary in Betsche, Kollno and Kamionne. He will give information on everything concerning the administration of justice and its records, as he also has the deposit business under him. It rests with the purchaser to retain him or to engage another. His Serene Highness pays the said Metzig his salary up to Michaelmas of this year, with which the purchaser is likewise satisfied.\n\n§ 9. His Majesty the King has already in the month of July of this year granted the purchaser the All-Highest concession to purchase these estates, so that nothing is to be objected against his capacity to possess; and since this point goes at the purchaser's cost, it shall rest thereby.\n\n§ 10. The purchaser's intention is to dismember the estates Kollno and Kamionne. His Serene Highness will place no obstacles in the way of this business, but rather approves it and will also further it, so that it may be carried out at the purchaser's cost; as His Highness has likewise already caused the consent thereto to be applied for at the Chamber Department. To do anything beyond this lies outside His Serene Highness's powers, and it is therefore solely the purchaser's affair to pursue this matter and bring it to a conclusion.\n\n§ 11. As concerns now the payment of the stipulated purchase moneys, the following has been determined and settled between the contracting parties.",
+   "names": [
+    {
+     "de": "Metzig",
+     "en": "Metzig",
+     "kind": "person"
+    },
+    {
+     "de": "Schwerin",
+     "en": "Schwerin",
+     "kind": "place"
+    },
+    {
+     "de": "Betsch",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionne",
+     "en": "Kamionne",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "9",
+    "10",
+    "11"
+   ]
   },
   {
    "page": 6,
-   "en": "The Herr Purchaser takes over the following standing Onera perpetua:\n\na., an annual rent of Four Polish Marks from the estate Kamionne to the church there, from a capital of One Hundred Polish Gulden;\n\nb., a capital of 250 Rthl, or One Thousand Five Hundred Polish Gulden, which is radicated as a capital intabulated at 3 1/2 per cent interest and charged upon the market-town of Kollno for the benefit of the church at Kamionne; the latter, however, with the addition that if the arrears of interest, demanded ad ulterum tantum, should be established by judgment and law, the Herr Seller's Serene Highness will settle this interest together with costs up to St. John's Day of the current year.\n\nc., in public taxes for Kamionne annually\n\n153 Rth. 22 ggl. 8 Pf.\n\nlikewise for Kollno annually\n\n125 Rthl. 21 ggl. 2 Pf.; further, in ecclesiastical dues in\n\nKamionne\n\n16 Rthl. 16 ggl., which the Herr Purchaser promises to pay and discharge annually.\n\nFurther, the Herr Purchaser has paid upon the stipulated purchase price of the 142000 Rthl:\n\nd., at the term of St. John's Day of the current year, a sum of Seventy-Six Thousand Reichsthaler Courant into the hands of Herr Berg-Rath Bernhardi, to whom His Serene Highness was pleased to make the order to pay. His Serene Highness acknowledges receipt of this sum, and is content that this receipt may be produced for the purpose of cancelling the capital of One Hundred Thousand"
+   "en": "The purchaser takes over the following standing perpetual charges (onera perpetua):\n\na. an annual rent of four Polish marks from the estate Kamionne to the church there, upon a capital of one hundred Polish gulden;\n\nb. a capital of 250 Rthl, or one thousand five hundred Polish gulden, which as a capital intabulated at 3 1/2 per cent interest and charged for the church at Kamionne upon the market-town of Kollno is thereby grounded - the latter, however, with the addition that if the arrears of interest, claimed ad alterum tantum, should be established by judgment and law, His Serene Highness the vendor shall settle this interest together with costs up to St. John's Day of this year;\n\nc. in public dues for Kamionne annually\n\n153 Rth. 22 Groschen 8 Pfennig\n\nlikewise for Kollno annually\n\n125 Rthl. 21 Groschen 2 Pfennig, further in ecclesiastical dues at\n\nKamionne\n\n16 Rthl. 16 Groschen, which the purchaser promises to pay and discharge annually.\n\nFurther the purchaser has paid upon the stipulated purchase price of the 142000 Rthl:\n\nd. at the term of St. John's Day of this year a sum of seventy-six thousand Reichsthaler Courant into the hands of the mining councillor Bernhardi, to whom His Serene Highness has been pleased to direct it by order to pay. His Serene Highness acknowledges receipt of this sum, and is content that this receipt may be produced for the purpose of cancelling the capital of one hundred thousand",
+   "names": [
+    {
+     "de": "Kamionne",
+     "en": "Kamionne",
+     "kind": "place"
+    },
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Herrn Berg-Rath Bernhardi",
+     "en": "the mining councillor Bernhardi",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "250",
+    "100 (Einhundert Gulden Pohlnisch)",
+    "1500 (Ein tausend fünf hundert Gulden Pohlnisch)",
+    "3 1/2",
+    "153",
+    "22",
+    "8",
+    "125",
+    "21",
+    "2",
+    "16",
+    "16",
+    "142000",
+    "76000 (Sechs und Siebenzig Tausend)"
+   ]
   },
   {
    "page": 7,
-   "en": "Reichsthaler which Herr Councillor of War and Forests von Triebenfeld ceded to the Herr Purchaser coram notario on the 15th of June; with which declaration the Herr Purchaser is content.\n\ne., upon the remainder of the purchase money, per 66000 Rthl, the Herr Purchaser pays, as noted above ad §. 3, on the 8th of September of the current year, into the hands of Herr Rittmeister von Broniewski the settlement sum of 53139 Rthl. 13 Gg. 8 4/5 Pf. at Posen, against his receipt.\n\nf., the last remainder of the 12860 Rthl. 10 Ggl. 3 1/5 Pf. the Herr Purchaser [pays] on the 10th of September of the current year at the handing-over of Kollno and Kamionna into the hands of the Most Princely authorised representative; and as soon as payment of the whole 66000 Rthl has been made, His Serene Highness will give the Herr Purchaser a receipt for the entire purchase money of the 142000 Rthl, with which declaration the Herr Purchaser is content.\n\n§. 12. All costs concerning the drawing-up and execution of this contract of purchase, likewise the natural and civil delivery costs, as also the cancellation fees for the intabulated hundred thousand Thaler, both contracting parties bear in equal shares.\n\n§. 13. The Herr Seller's Serene Highness as well as the Herr Purchaser renounce each and every legal objection and evasion standing against this agreement, in particular the objection of injury below or above the half; that no general renunciation is valid unless a particular one has preceded it; and that this agreement was set down in writing otherwise than it was agreed."
+   "en": "Reichsthaler, which the Councillor of War and Forests von Triebenfeld ceded to the purchaser coram notario on 15 June, with which declaration the purchaser is content.\n\ne. upon the remainder of the purchase money of 66000 Rthl the purchaser pays, as noted above at § 3, on 8 September of this year into the hands of the cavalry captain von Broniewski the settlement sum of 53139 Rthl. 13 Groschen 8 4/5 Pfennig at Posen against his receipt.\n\nf. the last remainder of the 12860 Rthl. 10 Groschen 3 1/5 Pfennig the purchaser [uncertain: pays] on 10 September of this year at the handing over of Kollno and Kamionna into the hands of the princely authorised representative; and as soon as payment of the whole 66000 Rthl has been made, His Serene Highness will give the purchaser a receipt for the entire purchase money of the 142000 Rthl, with which declaration the purchaser is content.\n\n§ 12. All costs concerning the drawing up and execution of this contract of purchase, likewise the costs of the delivery of actual and civil possession, as also the cancellation fees for the intabulated hundred thousand Thaler, both contracting parties shall bear in equal parts.\n\n§ 13. His Serene Highness the vendor, as also the purchaser, renounce each and every legal objection and evasion opposed to this agreement, in particular the objection of injury beyond or below the half, that no general renunciation is valid where no special one has preceded it, and that this agreement was written down otherwise than it was agreed.",
+   "names": [
+    {
+     "de": "Herr Kriegs und Forst Rath von Triebenfeld",
+     "en": "the Councillor of War and Forests von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "von Broniewski",
+     "en": "von Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Kollno",
+     "en": "Kollno",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionna",
+     "en": "Kamionna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "100000 (Einhundert Tausend, carried from p.6)",
+    "15",
+    "66000",
+    "3",
+    "8",
+    "53139",
+    "13",
+    "8 4/5",
+    "12860",
+    "10",
+    "3 1/5",
+    "10",
+    "66000",
+    "142000",
+    "12",
+    "13"
+   ]
   },
   {
    "page": 8,
-   "en": "In witness whereof the foregoing instrument of sale and purchase has been executed by His Most Serene Highness in His own most high hand and by the Herr Purchaser in his own hand. Done at Breslau, the 30th of August 1804. Friedrich Ludwig, Fürst zu Hohenlohe. Read and approved by myself."
+   "en": "In witness whereof the foregoing instrument of sale and purchase has been executed by His Most Serene Highness and by the purchaser in their own hands. Thus done at Breslau, the 30th of August 1804. Friedrich Ludwig, Prince of Hohenlohe. Read and approved by myself.",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30",
+    "1804"
+   ]
   }
  ],
- "text_english": "Be it known and understood that between His Serene Highness the reigning Prince zu Hohenlohe-Ingelfingen, Governor of Breslau etc., on the one part, and the Building-Bank Rendant Herr Leixner of Frankfurth an der Oder, the following contract of sale and purchase has been, after due deliberation, freely and irrevocably agreed, concluded and executed.\n\n§. 1. Namely, His Most Serene Highness the reigning Prince zu Hohenlohe-Ingelfingen, Governor of Breslau etc., sells His own estates situated under the Department of the Government at Posen in the [text lost] District,\n\nKollno and Kamionne, with all appurtenances and mills belonging thereto, rights and privileges, with all inhabitants, fields, forests, lakes and waters, with the rents and the propination rights, the services, the hunt and the jurisdiction, also all remaining rights and appurtenances, just as His Serene Highness received the said estates and their appurtenances delivered over from the Royal Commission by virtue of the instrument of donation, of which a vidimated Copy is to be handed to the Herr Purchaser, and for whose correctness and truth His Serene Highness furnishes eviction-warranty in respect of the estates Kollno and Kamionne, and has possessed and enjoyed them, and can also use and enjoy them, with everything as it stands and lies, and finally also with all rights and privileges that may pertain to His Serene Highness against the\n\nresidents and subjects of these estates, which [rights] they have arrogated to themselves and believe themselves entitled to claim, — to His Honour the Royal Banco-Rendant Herr George Conrad Leixner in Frankfurth an der Oder, for a fixed purchase sum of One Hundred and Forty-Two Thousand Reichsthaler Royal Prussian 64-piece Courant, as his complete property.\n\n§. 2. This day's purchase of the estates Kollno and Kamionne is made without valuation, in Pausch und Bogen; for that reason His Most Serene Highness furnishes eviction-warranty solely in respect of the survey register taken up by the Royal Commission and of the real assets listed in the [uncertain: Tan], which are to be handed over at the delivery. All revenues and farming yields the Herr Purchaser must take over as they exist, and according as they may hereafter increase or diminish, with which the Herr Purchaser likewise declares himself content.\n\nHis Most Serene Highness has caused a settlement to be concluded with Herr Rittmeister von Broniewsky on the 3rd of July of the current year, according to the content of which the same is willing, upon receipt of a sum of 53139 Rthl. 13 Ggl. 8 4/5 Pfl., to give back the estates Kollno and Kamionne forthwith and to restore the [estates] to His Highness. Now since the merchant Herr Simon, as authorised representative of Herr Leixner, has with Herr\n\nvon Broniewsky agreed at Posen on the 6th of this month that payment of the 53139 Rthl. 13 Gg. 8 4/5 Pf. shall be made on the 8th of September at Posen, but the natural delivery of the estates shall take place on the 10th of September at Kollno and Kamionne, His Serene Highness accordingly promises to send an authorised representative to Posen and to Kollno and Kamionne at the said time, in order to be present at these Actibus; and since a Government Commissary from Posen will carry out the natural handing-over, His Serene Highness stipulates that the estates Kollno and Kamionne be delivered directly to the Herr Purchaser on the 10th of September.\n\n§. 4. Both in the settlement of the 3rd of July and also in a later declaration Herr von Broniewsky has bound himself to redeem entirely all his Intabulata upon Kollno and Kamionne, and thereby to have these estates cleared of all Nexibus charged upon them on his account. The Herr Purchaser therefore receives these estates wholly free of debt.\n\n§. 5. Herr von Broniewsky retains all usufructs of the estates until the 24th of June of the current year. From that day onward all usufructs and burdens pass over to the Herr Purchaser, and Herr von Broniewsky will render the account thereof at the natural handing-over, just as he will at the same time restore the Beilass in field, cattle and farming inventory which the said von Broniewsky received in the year 1786 upon taking over the estates as manorial\n\nBeilass, as the deed of delivery of that time states. The Herr Purchaser has all the less to receive anything further, inasmuch as His Most Serene Highness has hitherto not yet been in natural possession of the estates, and therefore also cannot hand over more than what is only now being delivered to His Highness.\n\n§. 6. To the Herr Seller's Serene Highness no servitudes are known which burden the estates Kollno and Kamionne passively. On the other hand, there belongs to these estates the free right of felling, as a right due to the same, in the forests at Gory and Krobilaw, which right of felling has also been established by a recent judgment in Possessorium. The\n\n5) Herr Purchaser is therefore likewise entitled to this right, and he is to carry on the further process concerning it, in so far as von Kwilecki should pursue the same further. The judgment in Possessorium has also already been handed to the Herr [uncertain: Schufer], and he declares himself content with the declaration of His Serene Highness.\n\n§. 7. All documents and writings which concern these estates, and which the Herr Seller's Serene Highness or His authorised representatives may still have in hand, shall be faithfully extradited to the Herr Purchaser.\n\n§. 8. His Serene Highness has engaged the justice-burgomaster\n\nMetzig at Schwerin as Justitiarius in Betsch, Kollno and Kamionne. He will give information on all that concerns the administration of justice and its records, just as he also has the deposit business under his charge. It rests with the Herr Purchaser to retain him or to engage another. His Serene Highness pays the said Metzig his salary until Michaelmas of the current year, with which the Herr Purchaser is likewise content.\n\n§. 9. His Majesty the King has already in the month of July of the current year granted the Herr Purchaser the All-Highest concession to purchase these estates, so that there is nothing to be objected against his capacity to possess; and since this point goes at the Herr Purchaser's expense, the matter rests thereupon.\n\n§. 10. The Herr Purchaser's intention is to dismember the estates Kollno and Kamionne. His Serene Highness will lay no obstacles in the way of this business, but rather approves it and will also further it, that it be carried out on the Herr Purchaser's account; as His Highness has also already caused the consent thereto to be applied for at the Cameral Department. To do anything further lies beyond the powers of His Serene Highness, and it is therefore solely the Herr Purchaser's affair to pursue this matter and bring it to a conclusion.\n\n§. 11. As regards now the payment of the stipulated purchase moneys, the following has been determined and settled among the contracting parties.\n\nThe Herr Purchaser takes over the following standing Onera perpetua:\n\na., an annual rent of Four Polish Marks from the estate Kamionne to the church there, from a capital of One Hundred Polish Gulden;\n\nb., a capital of 250 Rthl, or One Thousand Five Hundred Polish Gulden, which is radicated as a capital intabulated at 3 1/2 per cent interest and charged upon the market-town of Kollno for the benefit of the church at Kamionne; the latter, however, with the addition that if the arrears of interest, demanded ad ulterum tantum, should be established by judgment and law, the Herr Seller's Serene Highness will settle this interest together with costs up to St. John's Day of the current year.\n\nc., in public taxes for Kamionne annually\n\n153 Rth. 22 ggl. 8 Pf.\n\nlikewise for Kollno annually\n\n125 Rthl. 21 ggl. 2 Pf.; further, in ecclesiastical dues in\n\nKamionne\n\n16 Rthl. 16 ggl., which the Herr Purchaser promises to pay and discharge annually.\n\nFurther, the Herr Purchaser has paid upon the stipulated purchase price of the 142000 Rthl:\n\nd., at the term of St. John's Day of the current year, a sum of Seventy-Six Thousand Reichsthaler Courant into the hands of Herr Berg-Rath Bernhardi, to whom His Serene Highness was pleased to make the order to pay. His Serene Highness acknowledges receipt of this sum, and is content that this receipt may be produced for the purpose of cancelling the capital of One Hundred Thousand\n\nReichsthaler which Herr Councillor of War and Forests von Triebenfeld ceded to the Herr Purchaser coram notario on the 15th of June; with which declaration the Herr Purchaser is content.\n\ne., upon the remainder of the purchase money, per 66000 Rthl, the Herr Purchaser pays, as noted above ad §. 3, on the 8th of September of the current year, into the hands of Herr Rittmeister von Broniewski the settlement sum of 53139 Rthl. 13 Gg. 8 4/5 Pf. at Posen, against his receipt.\n\nf., the last remainder of the 12860 Rthl. 10 Ggl. 3 1/5 Pf. the Herr Purchaser [pays] on the 10th of September of the current year at the handing-over of Kollno and Kamionna into the hands of the Most Princely authorised representative; and as soon as payment of the whole 66000 Rthl has been made, His Serene Highness will give the Herr Purchaser a receipt for the entire purchase money of the 142000 Rthl, with which declaration the Herr Purchaser is content.\n\n§. 12. All costs concerning the drawing-up and execution of this contract of purchase, likewise the natural and civil delivery costs, as also the cancellation fees for the intabulated hundred thousand Thaler, both contracting parties bear in equal shares.\n\n§. 13. The Herr Seller's Serene Highness as well as the Herr Purchaser renounce each and every legal objection and evasion standing against this agreement, in particular the objection of injury below or above the half; that no general renunciation is valid unless a particular one has preceded it; and that this agreement was set down in writing otherwise than it was agreed.\n\nIn witness whereof the foregoing instrument of sale and purchase has been executed by His Most Serene Highness in His own most high hand and by the Herr Purchaser in his own hand. Done at Breslau, the 30th of August 1804. Friedrich Ludwig, Fürst zu Hohenlohe. Read and approved by myself.",
+ "text_english": "Be it known and made manifest that between His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Governor at Breslau etc., of the one part, and the building bank cashier Mr. Leixner at Frankfurt an der Oder, the following contract of sale and purchase has been deliberately, freely and irrevocably agreed, concluded and executed.\n\n§ 1. Namely, His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Governor at Breslau etc., sells his estates situated under the Department of the Government at Posen in the\n\ndistrict of\n\nKollno and Kamionne, with all appurtenances and mills belonging thereto, rights and privileges, with all residents, fields, forests, lakes and waters, with the rents and the propination rights, the services, the hunt and the jurisdiction, and likewise all other rights and appurtenances, just as His Serene Highness received the said estates and their appurtenances delivered over by the Royal Commission pursuant to the deed of donation, of which a vidimated copy is to be handed to the purchaser, and for whose correctness and truth His Serene Highness gives warranty of title (Eviction) in respect of the estates Kollno and Kamionne, and has possessed and enjoyed them, and can also use and enjoy them, with everything as it stands and lies, and finally also with all rights and privileges which His Serene Highness may have against the\n\ninhabitants and subjects of these estates, which they have arrogated to themselves and believe they may claim, to His Honour the Royal bank cashier Mr. George Conrad Leixner at Frankfurt an der Oder, for a fixed purchase sum of one hundred and forty-two thousand Reichsthaler Royal Prussian 64-piece Courant, as his full property.\n\n§ 2. The present purchase of the estates Kollno and Kamionne takes place without valuation, in Pausch und Bogen; for that reason His Most Serene Highness gives warranty of title (Eviction) solely in respect of the survey register drawn up by the Royal Commission and of the real assets listed in the [uncertain: Tan], which are to be handed over at the delivery of possession. All revenues and economic yields the purchaser must take over as they exist, and according as they may hereafter increase or diminish, with which the purchaser likewise declares himself content.\n\nHis Most Serene Highness has caused a settlement to be concluded with the cavalry captain von Broniewsky on 3 July of this year, according to the content of which the same will forthwith give back the estates Kollno and Kamionne upon receipt of a sum of 53139 Rthl. 13 Groschen 8 4/5 Pfennig, and will restore the [text lost] to His Highness. Now since the merchant Mr. Simon, as authorised representative of Mr. Leixner, has with Mr.\n\nvon Broniewsky agreed at Posen on the 6th of this month that the payment of the 53139 Rthl. 13 Groschen 8 4/5 Pfennig shall be made on 8 September at Posen, but the delivery of actual possession of the estates on 10 September at Kollno and Kamionne, His Serene Highness accordingly promises to send an authorised representative to Posen and to Kollno and Kamionne at the said time, in order to be present at these acts; and since a government commissioner from Posen will carry out the delivery of actual possession, His Serene Highness stipulates that the estates Kollno and Kamionne shall be delivered over to the purchaser directly on the 10th of September.\n\n§ 4. Both in the settlement of 3 July and in a later declaration Mr. von Broniewsky has bound himself to redeem entirely all his intabulations upon Kollno and Kamionne, and thereby to have these estates purged of all encumbrances (Nexus) charged thereon on his account. The purchaser therefore receives these estates wholly free of debt.\n\n§ 5. Mr. von Broniewsky retains all the profits of the estates up to 24 June of this year. From that day forward all profits and burdens pass to the purchaser, and Mr. von Broniewsky will render the account thereof at the delivery of actual possession, as he will at the same time also restore the stock of field, cattle and farm inventory which von Broniewsky received on taking over the estates in the year 1786 as the lordship's\n\nstock, as the delivery deed of that time states. The purchaser has the less to receive anything further, inasmuch as His Most Serene Highness has to this day not yet been in actual possession of the estates, and therefore cannot deliver over more than what is only now being delivered over to His Highness.\n\n§ 6. His Serene Highness the vendor knows of no servitudes burdening the estates Kollno and Kamionne. On the other hand these estates are entitled to free timber-cutting, as a right due to them, in the forests at Gory and Krobilaw, which right of cutting has also been established by a recent judgment in possessorium. The\n\n5) purchaser is therefore likewise entitled to this right, and has to carry on the further litigation over it insofar as von Kwilecki should pursue the same further. The possessorium judgment has also already been handed to the purchaser, and he declares himself content with His Serene Highness's declaration.\n\n§ 7. All documents and writings concerning these estates, and which His Serene Highness the vendor or his authorised representatives may still have in hand, shall be faithfully delivered over to the purchaser.\n\n§ 8. His Serene Highness has engaged the justice-burgomaster\n\nMetzig at Schwerin as justiciary in Betsche, Kollno and Kamionne. He will give information on everything concerning the administration of justice and its records, as he also has the deposit business under him. It rests with the purchaser to retain him or to engage another. His Serene Highness pays the said Metzig his salary up to Michaelmas of this year, with which the purchaser is likewise satisfied.\n\n§ 9. His Majesty the King has already in the month of July of this year granted the purchaser the All-Highest concession to purchase these estates, so that nothing is to be objected against his capacity to possess; and since this point goes at the purchaser's cost, it shall rest thereby.\n\n§ 10. The purchaser's intention is to dismember the estates Kollno and Kamionne. His Serene Highness will place no obstacles in the way of this business, but rather approves it and will also further it, so that it may be carried out at the purchaser's cost; as His Highness has likewise already caused the consent thereto to be applied for at the Chamber Department. To do anything beyond this lies outside His Serene Highness's powers, and it is therefore solely the purchaser's affair to pursue this matter and bring it to a conclusion.\n\n§ 11. As concerns now the payment of the stipulated purchase moneys, the following has been determined and settled between the contracting parties.\n\nThe purchaser takes over the following standing perpetual charges (onera perpetua):\n\na. an annual rent of four Polish marks from the estate Kamionne to the church there, upon a capital of one hundred Polish gulden;\n\nb. a capital of 250 Rthl, or one thousand five hundred Polish gulden, which as a capital intabulated at 3 1/2 per cent interest and charged for the church at Kamionne upon the market-town of Kollno is thereby grounded - the latter, however, with the addition that if the arrears of interest, claimed ad alterum tantum, should be established by judgment and law, His Serene Highness the vendor shall settle this interest together with costs up to St. John's Day of this year;\n\nc. in public dues for Kamionne annually\n\n153 Rth. 22 Groschen 8 Pfennig\n\nlikewise for Kollno annually\n\n125 Rthl. 21 Groschen 2 Pfennig, further in ecclesiastical dues at\n\nKamionne\n\n16 Rthl. 16 Groschen, which the purchaser promises to pay and discharge annually.\n\nFurther the purchaser has paid upon the stipulated purchase price of the 142000 Rthl:\n\nd. at the term of St. John's Day of this year a sum of seventy-six thousand Reichsthaler Courant into the hands of the mining councillor Bernhardi, to whom His Serene Highness has been pleased to direct it by order to pay. His Serene Highness acknowledges receipt of this sum, and is content that this receipt may be produced for the purpose of cancelling the capital of one hundred thousand\n\nReichsthaler, which the Councillor of War and Forests von Triebenfeld ceded to the purchaser coram notario on 15 June, with which declaration the purchaser is content.\n\ne. upon the remainder of the purchase money of 66000 Rthl the purchaser pays, as noted above at § 3, on 8 September of this year into the hands of the cavalry captain von Broniewski the settlement sum of 53139 Rthl. 13 Groschen 8 4/5 Pfennig at Posen against his receipt.\n\nf. the last remainder of the 12860 Rthl. 10 Groschen 3 1/5 Pfennig the purchaser [uncertain: pays] on 10 September of this year at the handing over of Kollno and Kamionna into the hands of the princely authorised representative; and as soon as payment of the whole 66000 Rthl has been made, His Serene Highness will give the purchaser a receipt for the entire purchase money of the 142000 Rthl, with which declaration the purchaser is content.\n\n§ 12. All costs concerning the drawing up and execution of this contract of purchase, likewise the costs of the delivery of actual and civil possession, as also the cancellation fees for the intabulated hundred thousand Thaler, both contracting parties shall bear in equal parts.\n\n§ 13. His Serene Highness the vendor, as also the purchaser, renounce each and every legal objection and evasion opposed to this agreement, in particular the objection of injury beyond or below the half, that no general renunciation is valid where no special one has preceded it, and that this agreement was written down otherwise than it was agreed.\n\nIn witness whereof the foregoing instrument of sale and purchase has been executed by His Most Serene Highness and by the purchaser in their own hands. Thus done at Breslau, the 30th of August 1804. Friedrich Ludwig, Prince of Hohenlohe. Read and approved by myself.",
  "summary_en": "Sale of the estates Kollno and Kamionne, in the Posen government district, by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen to the bank cashier George Conrad Leixner of Frankfurt an der Oder for 142,000 Rthl in Pausch und Bogen, with mills, propination and jurisdiction. Payment runs 76,000 Rthl to mining councillor Bernhardi, 53,139 Rthl 13 Groschen 8 4/5 Pfennig to cavalry captain von Broniewsky on settlement, the rest at the handover; the purchaser assumes church rents, dues and the timber-cutting suit against von Kwilecki.",
  "summary_de": "Kaufvertrag, mit dem Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, seine im Departement der Regierung zu Posen gelegenen Güter Kollno und Kamionne mit Mühlen, Propinations-, Jagd- und Gerichtsrechten in Pausch und Bogen für 142000 Rthl Courant an den Bankkassierer George Conrad Leixner in Frankfurt an der Oder verkauft: 76000 Rthl an Bergrat Bernhardi gezahlt, 53139 Rthl 13 Gr 8 4/5 Pf am 8. September an Rittmeister von Broniewsky laut Vergleich vom 3. Juli, Rest 12860 Rthl bei der Übergabe am 10. September; nebst Übernahme der onera perpetua, Holzungsrecht in Gory und Krobilaw, Justitiar Metzig und königlicher Konzession."
 }

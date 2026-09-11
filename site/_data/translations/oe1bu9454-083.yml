@@ -1,38 +1,150 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! The letter graciously issued to me by Your Most Serene
-    Highness I have duly received, together with all the enclosures, through Herr Michaelis. As to the
-    business itself, I can say with the most joyful heart that everything is going as we wish — Krotoszyn
-    they are already giving Your Most Serene Highness quite certainly for the Suprenstis possessions.
-    Only on account of Polajewo do they still seem to voice some misgivings — but according to the assurance
-    of the Privy Finance Councillor Schulze, Your Most Serene Highness may obtain this one as well. The
-    chief aim of my most ardent wish and of my honest zeal for Your Serene Highness''s peace and contentment
-    is as good as attained already, for Krotoszyn is and remains an inestimable [uncertain: Begrat] —
-    with Polajewo too there are some 100000 Rthl to be gained; only the obstruction from the Chambers
-    will cost me many a struggle — yet this too should be surmountable. My only sorrow is that His Serene
-    Highness Prince George may not arrive there sooner than I am in Breslau — for I do not wish to depart
-    from here sooner'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Lord!
+
+
+    The letter which Your Most Serene Highness was most graciously pleased to address to me I have duly
+    received, together with all the enclosures, through Mr. Michaelis.
+
+
+    As to the matter itself, I can say with the most joyful heart that everything is going as we should
+    wish — Krotoszyn is now quite certainly to be given to Your Most Serene Highness for the Suprenstis
+    possessions. Only with regard to Polajewo does there seem still to be some hesitation expressed —
+    but according to the assurance of Privy Councillor of Finances Schulze, Your Most Serene Highness
+    may obtain this one also. The chief aim of my most ardent wish and of my honest zeal for Your Serene
+    Highness''s peace and contentment is as good as attained already, for Krotoszyn is and remains an
+    inestimable endowment — with Polajewo too there are some 100000 Rthl to be gained; only the obstruction
+    from the Chambers will cost me many a struggle — yet this too should be possible to overcome.
+
+
+    My one and only worry is that His Serene Highness Prince George should not arrive there sooner than
+    I am in Breslau — for here I would rather not depart'
+  names:
+  - de: Michaelis
+    en: Michaelis
+    kind: person
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Polajewo
+    en: Polajewo
+    kind: place
+  - de: Schulze
+    en: Schulze
+    kind: person
+  - de: Prinzen George
+    en: Prince George
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  numbers:
+  - '100000'
 - page: 2
-  en: to depart than I am sure of the matter. Should the Prince arrive in the Forte before I do, then
-    let Your Serene Highness by all means detain him until I come, for otherwise I shall be made a liar
-    and the good Prince will be led astray. It is, by God, no boasting — but I can assuredly affirm that
-    none of all our officials knows the province, still less the interior of the affair, save he alone;
-    and in Prince George's business it is required that a man who has knowledge of the matter and understands
-    the language should come forward, and then much may be gained. Minister Hoym departed today for Pomerania
-    for 10 days — the Monarch received him very graciously. On Thursday Minister von Voss returns, and
-    then the matter will soon be brought into the clear — I sent him yesterday again an obliging letter,
-    one likewise to Schulze, one to H. C. W. Beym, and one to the Colonel — the effect has throughout
-    been very good, for I referred myself in every instance to the Cabinet letter as well as to that of
-    the Herr Cabinet Councillor. In deepest reverence I remain, until death, Your Most Serene Highness's
-    Berlin, the 15th of October 1798. faithful most humble and obedient servant v Triebenfeld
+  en: 'depart before I am certain of the matter.
+
+
+    Should the Prince arrive in the Forte before I do, then let Your Serene Highness by all means detain
+    him until I come, for otherwise I shall be made out a liar and the good Prince will be led astray.
+    It is, by God, no Präflorey — but I can assure it for certain that not one of all our officials knows
+    the province, still less the interior of the matter, otherwise than superficially; and in Prince George''s
+    affair it is required that a man who has knowledge of the business and understands the language should
+    come forward, and then much may be gained. Minister Hoym set out today for Pomerania for 10 days —
+    the Monarch received him very graciously. On Thursday Minister von Voss returns, and then the matter
+    will soon be brought clear — yesterday I sent another obliging letter to him, one likewise to Schulze,
+    one to Mr. C. W. Beym, and one to the Colonel — the effect has throughout been very good, for I referred
+    in every instance both to the Cabinet letter and to that of the Cabinet Councillor.
+
+
+    In deepest reverence I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    Berlin, the 15th of October
+
+
+    1798.
+
+
+    most faithful and humble servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Prinz
+    en: Prince
+    kind: person
+  - de: Prinzen George
+    en: Prince George
+    kind: person
+  - de: Hoym
+    en: Hoym
+    kind: person
+  - de: Pommern
+    en: Pomerania
+    kind: place
+  - de: von Voss
+    en: von Voss
+    kind: person
+  - de: Schulze
+    en: Schulze
+    kind: person
+  - de: H. C. W. Beym
+    en: Mr. C. W. Beym
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '10'
+  - '15'
+  - '1798'
 - page: 3
-  en: The good Monarch is said not to be at all in good spirits. That truly grieves me — Prince Reppnin
-    is said, so it is reported, to have received an ukase on his way not to show himself in Petersburg
-    again — who knows whether this is not perhaps a masque? The good Privy Cabinet Councillor Mencke is
-    said to be in activity again, since his health has notably improved. Between certain men, it is said,
-    discord is supposed to reign; it would be a pity, for they are a pair of honest people. Her Serene
-    Highness the Princess Sacken is in good health. That Count Hoym has now gone to Pomerania I much censure.
-    The X Spinne was just here and says he knows for certain that the French mean to take Hannover; that
-    this is why the King is so out of humour. But I do not believe a word of what he says; he has lied
-    too much already.
+  en: 'The good Monarch is said not to be in good spirits at all. That truly grieves me — Prince Reppnin
+    is said, so they say, to have received an ukase while on the road not to show himself in Petersburg
+    again — who knows whether this may not perhaps be a mask?
+
+
+    The good Privy Cabinet Councillor Mencke is said to be back in activity, because his health has noticeably
+    improved.
+
+
+    Among certain men, it is said, discord prevails; that would be a pity, for they are a pair of honest
+    people. Her Serene Highness the Princess Sacken is in good health. That Count Höym has now gone to
+    Pomerania I very much censure. The X Spinne was just here and says he knows it for certain that the
+    French mean to take Hanover; that this is why the King is so out of humour. But I do not believe a
+    word of what he says; he has lied too much already.'
+  names:
+  - de: Fürst Reppnin
+    en: Prince Reppnin
+    kind: person
+  - de: Petersburg
+    en: Petersburg
+    kind: place
+  - de: Mencke
+    en: Mencke
+    kind: person
+  - de: Fürſtin Sacken
+    en: Princess Sacken
+    kind: person
+  - de: Graf Höym
+    en: Count Höym
+    kind: person
+  - de: Pommern
+    en: Pomerania
+    kind: place
+  - de: X Spinne
+    en: X Spinne
+    kind: person
+  - de: Hannover
+    en: Hanover
+    kind: place

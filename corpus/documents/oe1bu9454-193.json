@@ -160,20 +160,244 @@
    "doc_line": 38
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Parchwitz",
+   "kind": "place",
+   "surface_de": "Parchwitz",
+   "surface_en": "Parchwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Scharffenberg",
+   "kind": "person",
+   "surface_de": "Scharffenbergs",
+   "surface_en": "Scharffenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Peterburg",
+   "surface_en": "Petersburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dabsha",
+   "kind": "person",
+   "surface_de": "Dabsha",
+   "surface_en": "Dabsha",
+   "page": 1
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sarzechscha",
+   "kind": "person",
+   "surface_de": "Sarzechscha",
+   "surface_en": "Sarzechscha",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Trzciński",
+   "kind": "person",
+   "surface_de": "Graf Trzcinski",
+   "surface_en": "Count Trzciński",
+   "page": 2
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Heckern",
+   "kind": "person",
+   "surface_de": "Heckern",
+   "surface_en": "Heckern",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Radecki",
+   "kind": "person",
+   "surface_de": "Radecki",
+   "surface_en": "Radecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's gracious letter I receive only this moment (it is the 10th, 5 o'clock in the afternoon /, so it has been 10 days on the road. The plan concerning the journey is thereby wrecked; besides, I would also most humbly beg Your Serene Highness not to make the journey as far as Parchwitz. It attracts notice, and one cannot there act, nor even speak, so undisturbed. I shall come yet this month, and before I go to Berlin — as surely as there is a God above — myself to Schlawenschitz. For cases are now arising upon which I must know Your Serene Highness's high will and opinion, in order to be able to speak in Berlin. By all probability the whole theatre is changing. — According to Colonel Scharffenberg's assurance, things are fermenting in Petersburg to the point of an uprising. I direct my attention very much thither — The Polish estate affairs will end well; the Dabsha has already twice [uncertain: let the term pass] and pays all the costs in order to gain time from me; the Prefect Garczyński is now having Honrichs arrested [illegible]. I have myself begged him to have everything strictly investigated. Honrichs is, notwithstanding the attestations of the Sub-prefect Sarzechscha, nevertheless, as the Prefect has decreed, a rogue — He owes over 10000 Rthl. — One has always let him go on, because by hints he led people astray, as though he were bringing the money to Your"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's gracious letter I receive only this moment (it is the 10th, 5 o'clock in the afternoon /, so it has been ten days on the road. The plan concerning the journey is thereby wrecked; moreover I would also most humbly beg Your Serene Highness not to make the journey as far as Parchwitz. It attracts notice, and one cannot there act, let alone speak, so undisturbed. I shall come this very month, and before I go to Berlin — as sure as there is a God above us — myself to Schlawenschitz. For cases are now arising upon which I must know Your Serene Highness's high will and opinion, in order to be able to speak in Berlin. By all likelihood the whole theatre is changing — According to Colonel Scharffenberg's assurance, matters in Petersburg are fermenting to the point of an outbreak. I direct my attention very much thither — The Polish estate affairs will end well; the Dabsha woman has already twice let the term pass by and pays all the costs in order to gain time from me; the prefect Garczynski is now having Honrichs arrested [uncertain: aufs unun]. I myself begged him to have everything strictly investigated. Honrichs is, despite the attestations of the sub-prefect Sarzechscha, nevertheless, as the prefect has decreed, a rogue — He owes over 10000 Rthl. — He has always been let go on, because by hints he misled people, as though he were bringing the money to Your",
+   "names": [
+    {
+     "de": "Parchwitz",
+     "en": "Parchwitz",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Scharffenbergs",
+     "en": "Scharffenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Peterburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Dabsha",
+     "en": "Dabsha",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Sarzechscha",
+     "en": "Sarzechscha",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10te",
+    "5",
+    "10",
+    "10000"
+   ]
   },
   {
    "page": 2,
-   "en": "Serene Highness, or merely — since the Prefect has convinced himself of the contrary, that he has not given a single Groschen hither, they are now laying hold of him — the Sub-prefect has furnished security for the Patron — It is believed that he too drew the greater part out of the estates through Honrichs. A piece of good fortune that I got the 600 Rthl back from the fellow, in order to let him know nothing of the connexion with Count Trzcinski — Garczynski is having Heckern, with the assistance of the court-appointed Administrator Radecki, search everything out, so that the arrears may be quickly paid and the estates delivered up to Your Serene Highness free again. In deepest reverence I remain, until death, Your Most Serene Highness's — Kontopp, the 10th of April 1810. — most faithful and most obedient servant v Triebenfeld"
+   "en": "Serene Highness, or merely — since the prefect has convinced himself of the contrary, namely that he has not given a single Groschen over to this place, they are now laying hands upon him — the sub-prefect has furnished security for the patron — It is believed that he too drew the greater part out of the estates through Honrichs. A piece of good fortune that I got the 600 Rthl back from the fellow, in order to let him know nothing of the connexion with Count Trzciński — Garczynski is having Heckern, with the assistance of the administrator Radecki appointed by the court, search everything out, so that the arrears may be quickly paid and the estates handed back to Your Serene Highness free of encumbrance.\n\nIn deepest respect I remain, until death,\n\nYour Most Serene Highness's\n\nKontop, the 10th of April\n\n1810.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Graf Trzcinski",
+     "en": "Count Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Heckern",
+     "en": "Heckern",
+     "kind": "person"
+    },
+    {
+     "de": "Radecki",
+     "en": "Radecki",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "600",
+    "10ten",
+    "1810"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's gracious letter I receive only this moment (it is the 10th, 5 o'clock in the afternoon /, so it has been 10 days on the road. The plan concerning the journey is thereby wrecked; besides, I would also most humbly beg Your Serene Highness not to make the journey as far as Parchwitz. It attracts notice, and one cannot there act, nor even speak, so undisturbed. I shall come yet this month, and before I go to Berlin — as surely as there is a God above — myself to Schlawenschitz. For cases are now arising upon which I must know Your Serene Highness's high will and opinion, in order to be able to speak in Berlin. By all probability the whole theatre is changing. — According to Colonel Scharffenberg's assurance, things are fermenting in Petersburg to the point of an uprising. I direct my attention very much thither — The Polish estate affairs will end well; the Dabsha has already twice [uncertain: let the term pass] and pays all the costs in order to gain time from me; the Prefect Garczyński is now having Honrichs arrested [illegible]. I have myself begged him to have everything strictly investigated. Honrichs is, notwithstanding the attestations of the Sub-prefect Sarzechscha, nevertheless, as the Prefect has decreed, a rogue — He owes over 10000 Rthl. — One has always let him go on, because by hints he led people astray, as though he were bringing the money to Your\n\nSerene Highness, or merely — since the Prefect has convinced himself of the contrary, that he has not given a single Groschen hither, they are now laying hold of him — the Sub-prefect has furnished security for the Patron — It is believed that he too drew the greater part out of the estates through Honrichs. A piece of good fortune that I got the 600 Rthl back from the fellow, in order to let him know nothing of the connexion with Count Trzcinski — Garczynski is having Heckern, with the assistance of the court-appointed Administrator Radecki, search everything out, so that the arrears may be quickly paid and the estates delivered up to Your Serene Highness free again. In deepest reverence I remain, until death, Your Most Serene Highness's — Kontopp, the 10th of April 1810. — most faithful and most obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's gracious letter I receive only this moment (it is the 10th, 5 o'clock in the afternoon /, so it has been ten days on the road. The plan concerning the journey is thereby wrecked; moreover I would also most humbly beg Your Serene Highness not to make the journey as far as Parchwitz. It attracts notice, and one cannot there act, let alone speak, so undisturbed. I shall come this very month, and before I go to Berlin — as sure as there is a God above us — myself to Schlawenschitz. For cases are now arising upon which I must know Your Serene Highness's high will and opinion, in order to be able to speak in Berlin. By all likelihood the whole theatre is changing — According to Colonel Scharffenberg's assurance, matters in Petersburg are fermenting to the point of an outbreak. I direct my attention very much thither — The Polish estate affairs will end well; the Dabsha woman has already twice let the term pass by and pays all the costs in order to gain time from me; the prefect Garczynski is now having Honrichs arrested [uncertain: aufs unun]. I myself begged him to have everything strictly investigated. Honrichs is, despite the attestations of the sub-prefect Sarzechscha, nevertheless, as the prefect has decreed, a rogue — He owes over 10000 Rthl. — He has always been let go on, because by hints he misled people, as though he were bringing the money to Your\n\nSerene Highness, or merely — since the prefect has convinced himself of the contrary, namely that he has not given a single Groschen over to this place, they are now laying hands upon him — the sub-prefect has furnished security for the patron — It is believed that he too drew the greater part out of the estates through Honrichs. A piece of good fortune that I got the 600 Rthl back from the fellow, in order to let him know nothing of the connexion with Count Trzciński — Garczynski is having Heckern, with the assistance of the administrator Radecki appointed by the court, search everything out, so that the arrears may be quickly paid and the estates handed back to Your Serene Highness free of encumbrance.\n\nIn deepest respect I remain, until death,\n\nYour Most Serene Highness's\n\nKontop, the 10th of April\n\n1810.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports the prince's letter took ten days to arrive, wrecking the travel plan, and urges him not to come as far as Parchwitz, being too conspicuous; Triebenfeld will instead visit Schlawenschitz before going to Berlin. Relays Colonel Scharffenberg's word that Petersburg is close to an uprising. On the Polish estates, the Dabsha delays and pays costs; Prefect Garczyński has Honrichs, a debtor of over 10000 Rthl, arrested, with Heckern and Administrator Radecki investigating so arrears may be paid and the estates returned; notes 600 Rthl recovered and Count Trzcinski's involvement concealed.",
  "summary_de": "Das fürstliche Schreiben traf erst nach zehn Tagen ein, wodurch der Reiseplan hinfällig wird; von einer Reise bis Parchwitz wird abgeraten, da sie Aufsehen erregt, stattdessen kündigt Triebenfeld noch im Monat einen Besuch in Schlawenschitz vor der Berliner Reise an. Nach Oberst Scharffenbergs Versicherung gäre es in Petersburg. Die polnischen Gütersachen ständen gut: Präfekt Garczyński lasse Honrichs, der über 10000 Rthl schulde, verhaften und durch Heckern und Administrator Radecki alles untersuchen; 600 Rthl wurden zurückerlangt, der Sub-Präfekt Sarzechscha habe Sicherheit geleistet."
 }

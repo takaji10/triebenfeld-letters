@@ -131,20 +131,179 @@
    "doc_line": 38
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Wildegansch",
+   "kind": "person",
+   "surface_de": "Wildegansch",
+   "surface_en": "Wildegansch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "An",
+   "kind": "person",
+   "surface_de": "An",
+   "surface_en": "An",
+   "page": 1
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Undrehnen",
+   "kind": "person",
+   "surface_de": "Undrehnen",
+   "surface_en": "Undrehnen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Bukowiecki",
+   "kind": "person",
+   "surface_de": "H v Bukowiecki",
+   "surface_en": "Mr. von Bukowiecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "asch",
+   "display": "Asch",
+   "kind": "person",
+   "surface_de": "Asch",
+   "surface_en": "Asch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Gad",
+   "kind": "person",
+   "surface_de": "Gad",
+   "surface_en": "Gad",
+   "page": 2
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Dear Friend! In my opinion, let the fellow be called what and as he will, and be what he will — one must hunt him out and [uncertain: flatter] him wherever one thinks he can give any disclosure about those [uncertain: Spez] villainies. That is indeed the course I always proposed — and just so there is still a second one, which will probably in the end be the best. Yet this one must by no means be left [uncertain: unattended] — Terrible it is, all that the good, worthy Prince must endure; will it not be [taken as] what one thinks, that one comes too close upon the gentleman? The world is so full of villains and [uncertain: ungrateful] people that at every step one takes [uncertain: unawares] one always knocks against some malicious rogue — who makes it his especial duty to shove every man of honour aside. The vicious fellow, the Wildegansch, is here — He tells everybody that the Prince sent him hither — Several good men have on that account been [uncertain: taken in] — the scoundrel has merely led the Prince by the nose; for the rogue with his following merely invented this project concerning a money-negotiation, which he then set on foot with An and Schlabrendorff so [uncertain: cunningly], and meant to cheat the good Prince out of the costs. But as I hear, nothing will be decided in this matter within 2 months, and after that it will still be God knows how? / and so long will the Prince be — deceived, [while] the gang here [uncertain: sip]. To the very end I am your [uncertain: Undrehnen]\n\nBerlin, the 31st January 1805.\n\nFriend and yours\nv Triebenfeld"
+   "en": "Dear Friend!\n\nIn my opinion, let the fellow be called what he will and be what he will, one must seek him out and [uncertain: flatter] him wherever one thinks that he can give some disclosure of those [uncertain: particular] knaveries. It is after all the way I always proposed - and just so there is still a second one which will probably in the end be the best. Only this one must indeed not be left [uncertain: unmoved] – Dreadful it is, what all the good, worthy Prince must endure; will one not, if one thinks so, tread far too near upon the Lord?\n\nThe world is so full of villains and ungrateful people that at every step one takes [uncertain: forwards] one always knocks against some malicious rogue – who makes it his particular duty to push every honest man aside. The vicious fellow Wildegansch is here - He tells everyone that the Prince sent him here — Several good men have on that account been [uncertain: assigned] - the scoundrel has merely led the Prince by the nose; for the rogue with his following merely invented this project concerning a money negotiation, which he then set on foot so [uncertain: clumsily] with An and Schlabrendorff, and meant to cheat the good Prince over the costs. But as I hear, nothing will be decided in this matter within 2 months, after which it will still always be, God knows how? / and for so long the Prince will be and is - deceived.\n\nthe gang here [uncertain: sip].\n\nUntil the end I am\n\nYour\n\n[uncertain: Undrehnen]\n\nBerlin, the 31st of January 1805.\n\nFriend for thy\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Wildegansch",
+     "en": "Wildegansch",
+     "kind": "person"
+    },
+    {
+     "de": "An",
+     "en": "An",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Undrehnen",
+     "en": "Undrehnen",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "2",
+    "11000",
+    "31",
+    "1805"
+   ]
   },
   {
    "page": 2,
-   "en": "Herr v Bukowiecki writes to me and will give no more than 2400 Rthl yearly rent for Betsche; the man must be mad. A pity about the postage I have had to pay for his scrawl. Here too I hear that the Jew Asch and Gad, name-bearer of Schlabrendorff, are nevertheless going to sue me henceforth on account of the bill of exchange of 11000 v. given to Schlabrendorff for [uncertain: the Pärzten] by His Serene Highness, and to obtain an execution decree against me — I beg you for God's sake, do tell His Serene Highness that the gentleman should have a care to this, and that the coward who has so lied to the gentleman may have the affair thwarted — It would indeed be an everlasting disgrace if the court distrainer were sent into the house to my wife in my absence — O God, what must one not suffer in this world."
+   "en": "Mr. von Bukowiecki writes to me and will give no more than 2400 Rthl yearly rent for Betsche; the man must be mad. A pity about the postage I had to pay for his scribble. Here I also hear that the Jew Asch, and Gad, by name a bearer for Schlabrendorff, will nevertheless proceed to sue me over the bill of exchange of 11000 given to Schlabrendorff for the [uncertain: Pärzten] by His Serene Highness, and take out a decree of execution against me – I beg you for God's sake, do tell His Serene Highness that the Lord should have a care to this, and that the coward who so lied to the Lord should be counteracted in the matter – It would be an everlasting disgrace if the official distrainer were sent into the house to my wife in my absence – O God, what must one not suffer in this world.",
+   "names": [
+    {
+     "de": "H v Bukowiecki",
+     "en": "Mr. von Bukowiecki",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Asch",
+     "en": "Asch",
+     "kind": "person"
+    },
+    {
+     "de": "Gad",
+     "en": "Gad",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2400",
+    "11000"
+   ]
   }
  ],
- "text_english": "Dear Friend! In my opinion, let the fellow be called what and as he will, and be what he will — one must hunt him out and [uncertain: flatter] him wherever one thinks he can give any disclosure about those [uncertain: Spez] villainies. That is indeed the course I always proposed — and just so there is still a second one, which will probably in the end be the best. Yet this one must by no means be left [uncertain: unattended] — Terrible it is, all that the good, worthy Prince must endure; will it not be [taken as] what one thinks, that one comes too close upon the gentleman? The world is so full of villains and [uncertain: ungrateful] people that at every step one takes [uncertain: unawares] one always knocks against some malicious rogue — who makes it his especial duty to shove every man of honour aside. The vicious fellow, the Wildegansch, is here — He tells everybody that the Prince sent him hither — Several good men have on that account been [uncertain: taken in] — the scoundrel has merely led the Prince by the nose; for the rogue with his following merely invented this project concerning a money-negotiation, which he then set on foot with An and Schlabrendorff so [uncertain: cunningly], and meant to cheat the good Prince out of the costs. But as I hear, nothing will be decided in this matter within 2 months, and after that it will still be God knows how? / and so long will the Prince be — deceived, [while] the gang here [uncertain: sip]. To the very end I am your [uncertain: Undrehnen]\n\nBerlin, the 31st January 1805.\n\nFriend and yours\nv Triebenfeld\n\nHerr v Bukowiecki writes to me and will give no more than 2400 Rthl yearly rent for Betsche; the man must be mad. A pity about the postage I have had to pay for his scrawl. Here too I hear that the Jew Asch and Gad, name-bearer of Schlabrendorff, are nevertheless going to sue me henceforth on account of the bill of exchange of 11000 v. given to Schlabrendorff for [uncertain: the Pärzten] by His Serene Highness, and to obtain an execution decree against me — I beg you for God's sake, do tell His Serene Highness that the gentleman should have a care to this, and that the coward who has so lied to the gentleman may have the affair thwarted — It would indeed be an everlasting disgrace if the court distrainer were sent into the house to my wife in my absence — O God, what must one not suffer in this world.",
+ "text_english": "Dear Friend!\n\nIn my opinion, let the fellow be called what he will and be what he will, one must seek him out and [uncertain: flatter] him wherever one thinks that he can give some disclosure of those [uncertain: particular] knaveries. It is after all the way I always proposed - and just so there is still a second one which will probably in the end be the best. Only this one must indeed not be left [uncertain: unmoved] – Dreadful it is, what all the good, worthy Prince must endure; will one not, if one thinks so, tread far too near upon the Lord?\n\nThe world is so full of villains and ungrateful people that at every step one takes [uncertain: forwards] one always knocks against some malicious rogue – who makes it his particular duty to push every honest man aside. The vicious fellow Wildegansch is here - He tells everyone that the Prince sent him here — Several good men have on that account been [uncertain: assigned] - the scoundrel has merely led the Prince by the nose; for the rogue with his following merely invented this project concerning a money negotiation, which he then set on foot so [uncertain: clumsily] with An and Schlabrendorff, and meant to cheat the good Prince over the costs. But as I hear, nothing will be decided in this matter within 2 months, after which it will still always be, God knows how? / and for so long the Prince will be and is - deceived.\n\nthe gang here [uncertain: sip].\n\nUntil the end I am\n\nYour\n\n[uncertain: Undrehnen]\n\nBerlin, the 31st of January 1805.\n\nFriend for thy\n\nv. Triebenfeld\n\nMr. von Bukowiecki writes to me and will give no more than 2400 Rthl yearly rent for Betsche; the man must be mad. A pity about the postage I had to pay for his scribble. Here I also hear that the Jew Asch, and Gad, by name a bearer for Schlabrendorff, will nevertheless proceed to sue me over the bill of exchange of 11000 given to Schlabrendorff for the [uncertain: Pärzten] by His Serene Highness, and take out a decree of execution against me – I beg you for God's sake, do tell His Serene Highness that the Lord should have a care to this, and that the coward who so lied to the Lord should be counteracted in the matter – It would be an everlasting disgrace if the official distrainer were sent into the house to my wife in my absence – O God, what must one not suffer in this world.",
  "summary_en": "Urges that the man be tracked down and coaxed into disclosing the villainies, arguing this course must not be dropped. Denounces Wildegansch, who claims in Berlin to have been sent by the Prince and who, with An and Schlabrendorff, contrived the money-negotiation project to cheat the Prince of the costs; nothing will be settled for two months. Bukowiecki offers only 2400 Rthl yearly rent for Betsche. Fears the Jew Asch and Gad will sue on the 11000 bill of exchange and send a distrainer to his wife.",
  "summary_de": "Dringende Warnung vor dem \"Wildegansch\", der sich in Berlin als Beauftragter des Fürsten ausgibt und die angebliche Geldnegoziation mit An und Schlabrendorff nur zum eigenen Vorteil erfunden habe; eine Entscheidung sei vor zwei Monaten nicht zu erwarten. Ferner: v. Bukowiecki biete für Betsche nur 2400 Rthl Jahrespacht. Der Jude Asch und Gad wollen wegen des dem Schlabrendorff ausgestellten Wechsels über 11000 gegen Triebenfeld Exekution erwirken; er bittet, den Fürsten zu unterrichten, ehe der Gerichtsvollzieher zu seiner Frau komme."
 }

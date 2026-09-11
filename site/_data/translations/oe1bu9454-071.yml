@@ -1,22 +1,74 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Prince and Lord! The Rochliz affair has now, as the enclosure
-    shows, been set in motion, and Your Most Serene Highness will, as I confidently hope, have nothing
-    to pay. This is a knavish swindle; the thief has pushed it through thus in secret in order to defraud
-    Your Most Serene Highness. Nothing of it had ever come before my eyes. That I dismissed the fellow
-    in the year 1804 Glenck knows very well. He must bear witness to it as well. I gave him notice at
-    that time as General Plenipotentiary, and dismissed him. Whether Your Serene Highness may perhaps
-    afterwards, without my knowledge, have promised him anything is simply unknown; nor do I credit Building
-    Councillor Otocki with having secretly assured the rogue of anything afterwards. I can swear it with
-    a true heart, that I then removed the said Rochlitz from his service and demanded of him the accounts,
-    which however he refused to render to me. May Your Serene Highness deign to send me at the very earliest
-    two or three blank forms for powers of attorney for legal proceedings, that is to say only three printed
-    powers of attorney for legal proceedings, signed and sealed, so that Melzig may prosecute the Rochlitz
-    affair, and may also collect the outstanding arrears for Your Serene Highness. They certainly amount
-    to some 18000 Rthl and are quite liquid. Tomorrow or the day after I expect Honrich's
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord!
+
+
+    The Rochlitz affair has now been set in motion, as the enclosure shows, and Your Most Serene Highness
+    will, as I confidently hope, have nothing to pay. This is a knavish swindle; the thief has pushed
+    it through in secret in order to defraud Your Most Serene Highness. Nothing of it had ever come before
+    my eyes. That I dismissed the fellow in the year 1804 Glenck knows very well. He must bear witness
+    to it as well. I gave him notice at that time in my capacity as general attorney, and dismissed him.
+    Whether Your Serene Highness may perhaps afterwards, without my knowledge, have promised him anything,
+    is simply unknown to me; nor do I credit it of the building councillor Otocki that he should have
+    secretly assured the rogue of anything afterwards. I can swear it with a true heart, that I at that
+    time removed Rochlitz from his service and demanded of him the accounts, which, however, he refused
+    to render to me.
+
+
+    May Your Serene Highness deign to send me, at the very earliest, two or three blank forms for litigation
+    powers of attorney - that is to say, only three printed litigation powers of attorney, signed and
+    sealed - so that Melzig may prosecute the Rochlitz affair, and may also collect the outstanding arrears
+    for Your Serene Highness. They amount certainly to some 18000 Rthl and are entirely liquid. Tomorrow
+    or the day after I expect Honrich''s'
+  names:
+  - de: Rochlizsche
+    en: Rochlitz
+    kind: person
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Otocki
+    en: Otocki
+    kind: person
+  - de: Rochlitz
+    en: Rochlitz
+    kind: person
+  - de: Melzig
+    en: Melzig
+    kind: person
+  - de: Honrichs
+    en: Honrich's
+    kind: person
+  numbers:
+  - '1804'
+  - '18000'
 - page: 2
-  en: this matter is now of the utmost importance; once it is in the proper and secure track, I shall
-    come at once to Schlawenschitz. In deepest reverence I remain, until death, Your Most Serene Highness's
-    — The Polish affairs will become very [text lost] still I count particularly — Kontop, the 30th of
-    March 1810 — faithful and most obedient servant v Triebenfeld
+  en: 'this matter is now extremely important; once it is in its proper and secure course, I shall come
+    at once to Schlawenschitz. In deepest reverence I remain, until death, Your Most Serene Highness''s
+    - The Polish affairs are becoming very [text lost] I still count particularly upon Kontop
+
+
+    the 30th of March
+
+
+    1810 faithful and most obedient servant v. Triebenfeld'
+  names:
+  - de: Schlawenschitz
+    en: Schlawenschitz
+    kind: place
+  - de: Pohlinische
+    en: Polish
+    kind: other
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '30'
+  - '1810'

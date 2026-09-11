@@ -230,16 +230,301 @@
    "doc_line": 58
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen estates",
+   "kind": "place",
+   "surface_de": "Kaemener Güter",
+   "surface_en": "Kaemen estates",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Anton von Prussiemski",
+   "kind": "person",
+   "surface_de": "Anton v. Prussiemski",
+   "surface_en": "Anton von Prussiemski",
+   "page": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prussiemski",
+   "surface_en": "Prussiemski",
+   "page": 1
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Z[illegible]erbowski",
+   "kind": "person",
+   "surface_de": "Z[?]erbowski",
+   "surface_en": "Z[illegible]erbowski",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M. Bernhard",
+   "kind": "person",
+   "surface_de": "M. Bernhard",
+   "surface_en": "M. Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsch",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Latmian estates",
+   "kind": "place",
+   "surface_de": "latmschen Gütern",
+   "surface_en": "Latmian estates",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Culm[?]ian estates",
+   "kind": "place",
+   "surface_de": "Culm[?]ische Güter",
+   "surface_en": "Culm[?]ian estates",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Prusimska",
+   "surface_en": "Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowski",
+   "surface_en": "Grotowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Seeher Thoch",
+   "kind": "person",
+   "surface_de": "Seeher Thoch",
+   "surface_en": "Seeher Thoch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Zerboni",
+   "kind": "person",
+   "surface_de": "v. Zerboni",
+   "surface_en": "von Zerboni",
+   "page": 1
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Pro Memoria. In 1796 the King conferred the Kaemen estates upon Prince Hohenlohe after a certain Anton v. Prussiemski. The same Prussiemski just mentioned had pledged these estates to a certain Broniewski for more than 100000 Rthl, so that the Prince could never come into possession of them — the lawsuit pending on that account has cost the Prince over 6000 Rthl. In the first and 2nd instance the Prince lost and was condemned to pay the pledge-money. Broniewski at last offered a compromise, and the Prince paid 55000 Rthl in cash to Broniewski in 1804 — makes 61000 Rthl. Hereupon now, from 1804 to 1815, the interest is 33550 Rthl. Outlays upon the estates [uncertain: bewogen / \"induced\"] he has thereupon at most to claim: 94550 Rthl. The house has paid to the [uncertain: Kost] Senate treasury for the instrument 4164 Rthl, which must be [made good?] to Prince Z[illegible]erbowski, 4164 Rthl. [uncertain: Sinnen] of the [uncertain: Beweisendung] 98714. NB Leixner with M. Bernhard have given exactly the monies as 55000 Rthl. But the capitals have been registered to them upon Betsch and the [uncertain: latmschen] estates; also M. B. has the Culm[illegible]ish estates entirely in possession for his claims, consequently the 94550 Rthl belong to the Prince alone. And so the née Prusimska, so greatly favoured, must therefore return to the Prince the pledge-money paid together with interest; but it stands to the Prince to retain the estates in pledge-possession until his satisfaction — Now the estates have meanwhile been judicially assessed and at 180000 in value; if then the 55000 Rthl be brought into deduction, there remains in our value 125000 Rthl, makes 223714 Rthl / 125000, which must be made good to the Prince in cash or by estates. 2. Trąbczyn was judicially assessed at 316000. Thereupon the Prince contracted debts: 1. from Lichnowski 70000 Rthl, 2. Weigel 30000, 3. Grotowski — 20000, 4. Seeher Thoch 8000, 5. v. Zerboni 10000 = 138000. Thereupon the Prince has paid: to Lichnowski 30000, to Weigel 30000, makes 60000, there remain 78000. There remains here as a surplus 238000 Rthl / 238000; consequently together, hence, 467114 Rthl. Of this the née Prusimska must pay in cash 94550 Rthl; the Sovereigns have to compensate the Prince either in estates or in cash 367164 Rthl, that is 461714 Rthl. The 27th of March 1815."
+   "en": "P[ro]. M[emoria].\n\nIn 1796 the King conferred upon the Prince of Hohenlohe the Kaemen estates, after a certain Anton von Prussiemski. The said Prussiemski had pledged these estates to a certain Broniewski for more than 100000 Rthl, so that the Prince could never come into possession of them - the lawsuit pending on that account has cost the Prince over 6000 Rthl. In the first and second instance the Prince lost and was condemned to pay the pledge sum. Broniewski at last offered a settlement, and the Prince paid 55000 Rthl in cash to Broniewski in 1804. - makes 61000 Rthl. On this, then, from 1804 to 1815, the interest is 33550 Rthl, [uncertain: outlays] upon the estates; he has therefore at the most to demand thereon 94550 Rthl.\n\nThe house has paid to the [uncertain: Senate Court] treasury for the instrument 4164 Rthl, which must be [made good] to the Prince Z[illegible]erbowski 4164 Rthl. [uncertain: Sinnen] of the adducing of proof 98714. NB Leixner together with M. Bernhard have given precisely the moneys as 55000 Rthl. But the capitals have been registered to them upon Betsche and the Latmian estates, and M. B. also has the Culm[?]ian estates entirely in possession for his claims; consequently the 94550 Rthl belong to the Prince alone, and the born Prusimska, so greatly favoured, must therefore return to the Prince the pledge sum paid together with interest; but the Prince is entitled to retain the estates in pledge-possession until his satisfaction — Now the estates have meanwhile been judicially assessed at 180000 in value; if then the\n\n55000 Rthl be brought into deduction, there remains in our valuation 125000 Rthl\n\nmakes 223714 Rthl\n\n125000, which must be made good to the Prince in cash or by estates.\n\n2. Trąbczyn was judicially assessed at 316000.\n\nUpon it the Prince contracted debts: 1 from Lichnowski 70000 Rthl\n\n2. Weigel 30000\n\n3. Grotowski - 20000\n\n4. Seeher Thoch 8000\n\n5. von Zerboni 10000 = 138000. Upon this the Prince has paid: to Lichnowski 30000\n\nTo Weigel 30000\n\nmakes 60000\n\nthere remain 78000. There remains here then a surplus [uncertain: Heil.] 238000 Rthl 238000; consequently together with [the foregoing] 467114 Rthl; of which the born Prusimska must pay in cash 94550 Rthl; the Sovereigns have to indemnify the Prince either in estates or in cash 367164 Rthl; that is 461714 Rthl.\n\nthe 27th of March\n\n1815.",
+   "names": [
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemener Güter",
+     "en": "Kaemen estates",
+     "kind": "place"
+    },
+    {
+     "de": "Anton v. Prussiemski",
+     "en": "Anton von Prussiemski",
+     "kind": "person"
+    },
+    {
+     "de": "Prussiemski",
+     "en": "Prussiemski",
+     "kind": "person"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Z[?]erbowski",
+     "en": "Z[illegible]erbowski",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "M. Bernhard",
+     "en": "M. Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Betsch",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "latmschen Gütern",
+     "en": "Latmian estates",
+     "kind": "place"
+    },
+    {
+     "de": "Culm[?]ische Güter",
+     "en": "Culm[?]ian estates",
+     "kind": "place"
+    },
+    {
+     "de": "Prusimska",
+     "en": "Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Grotowski",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Seeher Thoch",
+     "en": "Seeher Thoch",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zerboni",
+     "en": "von Zerboni",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1796",
+    "100000",
+    "6000",
+    "2ter",
+    "55000",
+    "1804",
+    "61000",
+    "1804",
+    "1815",
+    "33550",
+    "94550",
+    "4164",
+    "4164",
+    "98714",
+    "55000",
+    "94550",
+    "180000",
+    "55000",
+    "125000",
+    "223714",
+    "125000",
+    "2",
+    "316000",
+    "1",
+    "70000",
+    "2",
+    "30000",
+    "3",
+    "20000",
+    "4",
+    "8000",
+    "5",
+    "10000",
+    "138000",
+    "30000",
+    "30000",
+    "60000",
+    "78000",
+    "238000",
+    "238000",
+    "467114",
+    "94550",
+    "367164",
+    "461714",
+    "27ten",
+    "1815"
+   ]
   }
  ],
- "text_english": "Pro Memoria. In 1796 the King conferred the Kaemen estates upon Prince Hohenlohe after a certain Anton v. Prussiemski. The same Prussiemski just mentioned had pledged these estates to a certain Broniewski for more than 100000 Rthl, so that the Prince could never come into possession of them — the lawsuit pending on that account has cost the Prince over 6000 Rthl. In the first and 2nd instance the Prince lost and was condemned to pay the pledge-money. Broniewski at last offered a compromise, and the Prince paid 55000 Rthl in cash to Broniewski in 1804 — makes 61000 Rthl. Hereupon now, from 1804 to 1815, the interest is 33550 Rthl. Outlays upon the estates [uncertain: bewogen / \"induced\"] he has thereupon at most to claim: 94550 Rthl. The house has paid to the [uncertain: Kost] Senate treasury for the instrument 4164 Rthl, which must be [made good?] to Prince Z[illegible]erbowski, 4164 Rthl. [uncertain: Sinnen] of the [uncertain: Beweisendung] 98714. NB Leixner with M. Bernhard have given exactly the monies as 55000 Rthl. But the capitals have been registered to them upon Betsch and the [uncertain: latmschen] estates; also M. B. has the Culm[illegible]ish estates entirely in possession for his claims, consequently the 94550 Rthl belong to the Prince alone. And so the née Prusimska, so greatly favoured, must therefore return to the Prince the pledge-money paid together with interest; but it stands to the Prince to retain the estates in pledge-possession until his satisfaction — Now the estates have meanwhile been judicially assessed and at 180000 in value; if then the 55000 Rthl be brought into deduction, there remains in our value 125000 Rthl, makes 223714 Rthl / 125000, which must be made good to the Prince in cash or by estates. 2. Trąbczyn was judicially assessed at 316000. Thereupon the Prince contracted debts: 1. from Lichnowski 70000 Rthl, 2. Weigel 30000, 3. Grotowski — 20000, 4. Seeher Thoch 8000, 5. v. Zerboni 10000 = 138000. Thereupon the Prince has paid: to Lichnowski 30000, to Weigel 30000, makes 60000, there remain 78000. There remains here as a surplus 238000 Rthl / 238000; consequently together, hence, 467114 Rthl. Of this the née Prusimska must pay in cash 94550 Rthl; the Sovereigns have to compensate the Prince either in estates or in cash 367164 Rthl, that is 461714 Rthl. The 27th of March 1815.",
+ "text_english": "P[ro]. M[emoria].\n\nIn 1796 the King conferred upon the Prince of Hohenlohe the Kaemen estates, after a certain Anton von Prussiemski. The said Prussiemski had pledged these estates to a certain Broniewski for more than 100000 Rthl, so that the Prince could never come into possession of them - the lawsuit pending on that account has cost the Prince over 6000 Rthl. In the first and second instance the Prince lost and was condemned to pay the pledge sum. Broniewski at last offered a settlement, and the Prince paid 55000 Rthl in cash to Broniewski in 1804. - makes 61000 Rthl. On this, then, from 1804 to 1815, the interest is 33550 Rthl, [uncertain: outlays] upon the estates; he has therefore at the most to demand thereon 94550 Rthl.\n\nThe house has paid to the [uncertain: Senate Court] treasury for the instrument 4164 Rthl, which must be [made good] to the Prince Z[illegible]erbowski 4164 Rthl. [uncertain: Sinnen] of the adducing of proof 98714. NB Leixner together with M. Bernhard have given precisely the moneys as 55000 Rthl. But the capitals have been registered to them upon Betsche and the Latmian estates, and M. B. also has the Culm[?]ian estates entirely in possession for his claims; consequently the 94550 Rthl belong to the Prince alone, and the born Prusimska, so greatly favoured, must therefore return to the Prince the pledge sum paid together with interest; but the Prince is entitled to retain the estates in pledge-possession until his satisfaction — Now the estates have meanwhile been judicially assessed at 180000 in value; if then the\n\n55000 Rthl be brought into deduction, there remains in our valuation 125000 Rthl\n\nmakes 223714 Rthl\n\n125000, which must be made good to the Prince in cash or by estates.\n\n2. Trąbczyn was judicially assessed at 316000.\n\nUpon it the Prince contracted debts: 1 from Lichnowski 70000 Rthl\n\n2. Weigel 30000\n\n3. Grotowski - 20000\n\n4. Seeher Thoch 8000\n\n5. von Zerboni 10000 = 138000. Upon this the Prince has paid: to Lichnowski 30000\n\nTo Weigel 30000\n\nmakes 60000\n\nthere remain 78000. There remains here then a surplus [uncertain: Heil.] 238000 Rthl 238000; consequently together with [the foregoing] 467114 Rthl; of which the born Prusimska must pay in cash 94550 Rthl; the Sovereigns have to indemnify the Prince either in estates or in cash 367164 Rthl; that is 461714 Rthl.\n\nthe 27th of March\n\n1815.",
  "summary_en": "Pro Memoria tallying the Prince's claims: the Kaemen estates, granted him in 1796 after Anton v. Prussiemski but pledged to Broniewski for over 100000 Rthl, cost more than 6000 Rthl in a lawsuit lost in two instances and 55000 Rthl paid in compromise in 1804, with interest to 1815 of 33550 Rthl and 4164 Rthl in Senate treasury fees; against a judicial valuation of 180000 Rthl. Trąbczyn, assessed at 316000, carries debts to Lichnowski, Weigel, Grotowski, Seeher Thoch and v. Zerboni of 138000, of which 60000 is repaid. Totals: 94550 Rthl due from the née Prusimska and 367164 Rthl from the Sovereigns.",
  "summary_de": "Pro Memoria zur Berechnung der fürstlichen Ansprüche: die 1796 nach Anton v. Prussiemski verliehenen Güter Kaemen waren an Broniewski für über 100000 Rthl verpfändet; der Prozess kostete über 6000 Rthl, 1804 zahlte der Fürst 55000 Rthl Vergleichsgeld, mit Zinsen 1804–1815 (33550 Rthl) und 4164 Rthl Instrumentskosten zusammen 98714 Rthl. Bei gerichtlicher Taxe der Güter von 180000 Rthl verbleiben 125000 Rthl. Trąbczyn ist auf 316000 taxiert, Schulden bei Lichnowski, Weigel, Grotowski, Seeher und v. Zerboni 138000, davon 60000 gezahlt. Forderung insgesamt: 94550 Rthl von der geborenen Prusimska, 367164 Rthl von den Souveränen."
 }

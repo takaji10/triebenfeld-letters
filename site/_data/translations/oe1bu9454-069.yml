@@ -1,17 +1,67 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Prince and Lord! for Most Serene Highness will already have learned
-    through Mr. Lombardini that I was not able to receive the money at once in Breslau, and, even apart
-    from the great impediments of the indescribable roads and weather, was detained. Notwithstanding this,
-    however, I so hastened my journey from Breslau that on the 25th at midday I was here, and still found
-    Honrichs and Cabanis
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord!
+
+
+    Your Most Serene Highness will already have learnt through Mr.
+
+
+    Mr. Lombardini that I was not able to receive the money at once in Breslau, and that I was moreover
+    detained even without the great hindrances of the indescribable roads and weather. Notwithstanding
+    this, however, I so hastened my journey from Breslau that on the 25th at noon I was here and found
+    Honrichs and Cabanis'
+  names:
+  - de: Lombardini
+    en: Lombardini
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Cabanis
+    en: Cabanis
+    kind: person
+  numbers:
+  - '25'
 - page: 2
-  en: still found here, who then also, after Honrichs [had received?] 6000 f. and the deeds of donation
-    in the original, departed that same day with the most joyful prospects. The Herr Councillor of War
-    and Forests von Triebenfeld finds himself suffering severely in the right[?]/legal arm, yet he has
-    promised me that as soon as he shall have concluded his own affairs here, he will come at once for
-    some weeks to Schlawentz. I answer After all the most graciously received instructions concerning
-    this shall have been received, I shall hasten to return. In deepest reverence I remain, until death,
-    as Your Most Serene Highness's Kontop, the 26th of February 1810. most humble, faithful and most obedient
-    Bally
+  en: 'still there, who then also, after Honrichs [had received] 6000 f. and the deeds of donation in
+    the original, with the most joyful prospects, departed that same day. Mr. Councillor of War von Triebenfeld
+    is suffering greatly in the right arm; yet he has promised me that as soon as he shall have concluded
+    his own business here, he will come at once for some weeks to Schlawentz. reply After all the most
+    graciously given instructions concerning this shall have been received, I shall hasten to return.
+    In deepest submission I remain, until death, Your Most Serene Highness''s Kontop
+
+
+    the 26th of February 1810.
+
+
+    most humbly, faithfully and obediently
+
+
+    Bally'
+  names:
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: von Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Schlawentz
+    en: Schlawentz
+    kind: place
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Bally
+    en: Bally
+    kind: person
+  numbers:
+  - '6000'
+  - '26'
+  - '1810'

@@ -191,24 +191,372 @@
    "doc_line": 54
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Baron von Humboldt",
+   "kind": "person",
+   "surface_de": "Baron v Humboldt",
+   "surface_en": "Baron von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curischen",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "winzingerode",
+   "display": "Winzingerode",
+   "kind": "person",
+   "surface_de": "Winzingerode",
+   "surface_en": "Winzingerode",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürsten August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "Princess Sacken",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lasswitz",
+   "kind": "place",
+   "surface_de": "Lasswitz",
+   "surface_en": "Lasswitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Quldt",
+   "kind": "place",
+   "surface_de": "Quldt",
+   "surface_en": "Quldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürstin Sacken",
+   "surface_en": "Princess Sacken",
+   "page": 1
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humboldt",
+   "surface_en": "Humboldt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trzwismer",
+   "kind": "other",
+   "surface_de": "Trzwismer",
+   "surface_en": "Trzwismer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Remeure",
+   "kind": "other",
+   "surface_de": "Remeure",
+   "surface_en": "Remeure",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "F. H.",
+   "kind": "person",
+   "surface_de": "F. H.",
+   "surface_en": "F. H.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachßen",
+   "surface_en": "Saxony",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rhine",
+   "kind": "place",
+   "surface_de": "Rhein",
+   "surface_en": "Rhine",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Baden",
+   "kind": "place",
+   "surface_de": "Badensche",
+   "surface_en": "Baden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtembergischen",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürstin Sacken",
+   "surface_en": "Princess Sacken",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürsten August",
+   "surface_en": "Prince August",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! If Your Most Serene Highness's wishes do not succeed now, then it may never come to pass. The upright Prince Chancellor has the best will, and His Excellency the Herr Minister Baron v Humboldt is exceedingly active. The day before yesterday the latter told me that the Curish heirs have approached the King and petitioned for their satisfaction. His Excellency has required of me copies of everything which I have submitted to His Serene Highness the Prince State Chancellor, so that the reply might be suited to Your Serene Highness's wishes. — The King has now caused it to be answered that he would not settle the matter after any retour [uncertain: nach keiner retour]. His Excellency is very glad of this and holds the whole game to be won. The Monarch perceives that he must pay — and gladly will one also annul the settlement, gain 314000 Rthl and advance the 112000 Rthl. The Prince will, as I know for certain, also bring into discussion the salary due to Your Serene Highness from 9 years, and in this too God will help. Just now I come from Count Winzingerode; he showed me a letter to His Majesty just begun, in which he petitions in the name of Prince August that His Majesty might be pleased to command that there be paid to him with the utmost speed 10000 Rthl, in accordance with a testament of his deceased grandmother the Princess Sacken, out of the revenues of the entailed estates Schlawenschitz and Lasswitz. I did not dissuade the Count from submitting the matter; meanwhile I told him that His Majesty had firmly resolved to have Your Serene Highness's affairs brought to a conclusion first of all, and that the King would perhaps himself have the estates Quldt taken into sequestration for years. — For the rest, it would be striking that the Princess Sacken should wish to dispose of the entailed estates even after her"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nIf Your Most Serene Highness's wishes do not succeed now, then it can never happen. The honest Prince Chancellor has the best will, and His Excellency the Minister Baron von Humboldt is extremely active. The day before yesterday the latter told me that the Courland heirs have applied to the King and have petitioned for their satisfaction.\n\nHis Excellency has required of me copies of everything which I have submitted to His Serene Highness the Prince State Chancellor, so that the reply might be conformable to the wishes of Your Serene Highness. — The King has now had it answered that he would settle the matter after no return. His Excellency is very glad of it and holds the whole game to be won. The Monarch perceives that he must pay — and the settlement too will gladly be annulled\n\nto gain 314000 Rthl and to advance the 112000 Rthl. The Prince will, as I know for certain, also bring into discussion the salary due to Your Serene Highness from 9 years, and in this too God will help. I have just this moment come from Count Winzingerode; he showed me a [uncertain: justi-] begun letter to His Majesty, in which he asks in the name of Prince August that His Majesty might be pleased to command that there be paid to him with the greatest speed 10000 Rthl, in accordance with a testament of his deceased grandmother the Princess Sacken, out of the revenues of the entailed estates of Schlawenschitz and Lasswitz. I did not advise the Count against submitting the matter; meanwhile I told him that His Majesty had firmly determined to have Your Serene Highness's affairs brought to a conclusion first of all, and that the King would perhaps himself have the estates of Quldt placed under sequestration for years. — For the rest, it was striking that the Princess Sacken should wish to dispose of the entailed estates even after her",
+   "names": [
+    {
+     "de": "Baron v Humboldt",
+     "en": "Baron von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Curischen",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Winzingerode",
+     "en": "Winzingerode",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Sacken",
+     "en": "Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Lasswitz",
+     "en": "Lasswitz",
+     "kind": "place"
+    },
+    {
+     "de": "Quldt",
+     "en": "Quldt",
+     "kind": "place"
+    },
+    {
+     "de": "Fürstin Sacken",
+     "en": "Princess Sacken",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "314000",
+    "112000",
+    "9",
+    "10000",
+    "1799"
+   ]
   },
   {
    "page": 2,
-   "en": "death, of which she was only the possessor by advitalitium. — Here the greeting faltered greatly, and said, is that possible —? Oh, what things people do say! I hope that the decision given through Minister Humboldt will also be favourable to Your Serene Highness, and will fall out to this effect, that Your affairs are to be put in order first. Concerning the P. Warschau nothing has yet come to publicity, although the [uncertain: Pohlenlaas] has fallen; in the meantime the Trzwismer and Remeure matter rests on that account — the affair will not be so easily settled as was believed at Schlawenschitz — from that side everything is being brought to bear and much is being sacrificed — added to which is that our King is all too good. — The F. H. is very full of care on that account. The affairs of the Empire will end very well; I have heard various things about it in confidence, and have communicated what was necessary to the persons concerned. Yesterday there was a great Brink here. It was said that France had declared that as soon as Prussia occupied Saxony, France would let 200000 men march across the Rhine. Today, however, I heard from one of my patrons that this is a rumour without any foundation. In the Baden and Württemberg lands it is beginning to grow very restless; by the next post I shall write more about it. The departure of the Monarchs takes place 18 days from today. Most reverently I remain Your Most Serene Highness's Vienna, the 5th of November 1814. v Triebenfeld most faithful and obedient servant"
+   "en": "death, of which she was only the life-tenant possessor. — Here the [uncertain: greeting] faltered greatly, and said, is that possible —? Oh, what things people do say. I hope that the decision given through Minister Humboldt will likewise be favourable to Your Serene Highness, and will turn out to the effect that Your affairs are to be set right first.\n\nConcerning the P. Warsaw nothing has yet come to publicity, although the Polish [uncertain: Pohlenlaas] has fallen; in the meantime the Trzwismer and Remeure matter rests on that account. — The business will not be so easily brought to an end as has been believed in Schlawenschitz. — From that side everything is being mustered and much sacrificed — and to this is added that our King is all too good. — The F. H. is on that account much troubled. The affairs of the Empire will end very well; I have heard various things about it in confidence, and have communicated what was necessary to the men concerned. Yesterday there was a great [uncertain: Brink] here. It was said that France had declared that as soon as Prussia occupied Saxony, France would let 200000 men march across the Rhine. Today, however, I heard from one of my patrons that this is a report without any foundation. In the Baden and Württemberg territories things are beginning to grow very restless; by the next post I shall write more about it. The departure of the monarchs takes place 18 days from today. Full of reverence I remain\n\nYour Most Serene Highness's\n\nVienna,\n\nthe 5th of November\n\n1814.\n\nvon Triebenfeld\n\nfaithful and most obedient servant",
+   "names": [
+    {
+     "de": "Humboldt",
+     "en": "Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Trzwismer",
+     "en": "Trzwismer",
+     "kind": "other"
+    },
+    {
+     "de": "Remeure",
+     "en": "Remeure",
+     "kind": "other"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "F. H.",
+     "en": "F. H.",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Sachßen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Rhein",
+     "en": "Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "Badensche",
+     "en": "Baden",
+     "kind": "place"
+    },
+    {
+     "de": "Würtembergischen",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "200000",
+    "18",
+    "5",
+    "1814"
+   ]
   },
   {
    "page": 3,
-   "en": "It has constantly been said that all the estates had belonged to the old Princess Sacken, and that she had made her testament only in favour of Prince August and had excluded the old Prince entirely from everything, with a slender appanage. — I answered briefly: the deed of 1799, sanctioned by His Majesty, proves the contrary of all this. — According to it the Old Prince is the actual lord; he will now re-enter into all his rights and remain lord of all his goods until his end. —"
+   "en": "It has always been said that all these estates had belonged to the old Princess Sacken, and that she had made her testament solely in favour of Prince August and had shut out the old Prince entirely from everything, with a slender appanage. — I answered briefly: the deed of 1799 sanctioned by His Majesty proves the contrary of all this. — According to it the old Prince is the actual lord; he will now re-enter into all his rights and remain lord of all his property until his end. —",
+   "names": [
+    {
+     "de": "Fürstin Sacken",
+     "en": "Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten August",
+     "en": "Prince August",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1799"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! If Your Most Serene Highness's wishes do not succeed now, then it may never come to pass. The upright Prince Chancellor has the best will, and His Excellency the Herr Minister Baron v Humboldt is exceedingly active. The day before yesterday the latter told me that the Curish heirs have approached the King and petitioned for their satisfaction. His Excellency has required of me copies of everything which I have submitted to His Serene Highness the Prince State Chancellor, so that the reply might be suited to Your Serene Highness's wishes. — The King has now caused it to be answered that he would not settle the matter after any retour [uncertain: nach keiner retour]. His Excellency is very glad of this and holds the whole game to be won. The Monarch perceives that he must pay — and gladly will one also annul the settlement, gain 314000 Rthl and advance the 112000 Rthl. The Prince will, as I know for certain, also bring into discussion the salary due to Your Serene Highness from 9 years, and in this too God will help. Just now I come from Count Winzingerode; he showed me a letter to His Majesty just begun, in which he petitions in the name of Prince August that His Majesty might be pleased to command that there be paid to him with the utmost speed 10000 Rthl, in accordance with a testament of his deceased grandmother the Princess Sacken, out of the revenues of the entailed estates Schlawenschitz and Lasswitz. I did not dissuade the Count from submitting the matter; meanwhile I told him that His Majesty had firmly resolved to have Your Serene Highness's affairs brought to a conclusion first of all, and that the King would perhaps himself have the estates Quldt taken into sequestration for years. — For the rest, it would be striking that the Princess Sacken should wish to dispose of the entailed estates even after her\n\ndeath, of which she was only the possessor by advitalitium. — Here the greeting faltered greatly, and said, is that possible —? Oh, what things people do say! I hope that the decision given through Minister Humboldt will also be favourable to Your Serene Highness, and will fall out to this effect, that Your affairs are to be put in order first. Concerning the P. Warschau nothing has yet come to publicity, although the [uncertain: Pohlenlaas] has fallen; in the meantime the Trzwismer and Remeure matter rests on that account — the affair will not be so easily settled as was believed at Schlawenschitz — from that side everything is being brought to bear and much is being sacrificed — added to which is that our King is all too good. — The F. H. is very full of care on that account. The affairs of the Empire will end very well; I have heard various things about it in confidence, and have communicated what was necessary to the persons concerned. Yesterday there was a great Brink here. It was said that France had declared that as soon as Prussia occupied Saxony, France would let 200000 men march across the Rhine. Today, however, I heard from one of my patrons that this is a rumour without any foundation. In the Baden and Württemberg lands it is beginning to grow very restless; by the next post I shall write more about it. The departure of the Monarchs takes place 18 days from today. Most reverently I remain Your Most Serene Highness's Vienna, the 5th of November 1814. v Triebenfeld most faithful and obedient servant\n\nIt has constantly been said that all the estates had belonged to the old Princess Sacken, and that she had made her testament only in favour of Prince August and had excluded the old Prince entirely from everything, with a slender appanage. — I answered briefly: the deed of 1799, sanctioned by His Majesty, proves the contrary of all this. — According to it the Old Prince is the actual lord; he will now re-enter into all his rights and remain lord of all his goods until his end. —",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nIf Your Most Serene Highness's wishes do not succeed now, then it can never happen. The honest Prince Chancellor has the best will, and His Excellency the Minister Baron von Humboldt is extremely active. The day before yesterday the latter told me that the Courland heirs have applied to the King and have petitioned for their satisfaction.\n\nHis Excellency has required of me copies of everything which I have submitted to His Serene Highness the Prince State Chancellor, so that the reply might be conformable to the wishes of Your Serene Highness. — The King has now had it answered that he would settle the matter after no return. His Excellency is very glad of it and holds the whole game to be won. The Monarch perceives that he must pay — and the settlement too will gladly be annulled\n\nto gain 314000 Rthl and to advance the 112000 Rthl. The Prince will, as I know for certain, also bring into discussion the salary due to Your Serene Highness from 9 years, and in this too God will help. I have just this moment come from Count Winzingerode; he showed me a [uncertain: justi-] begun letter to His Majesty, in which he asks in the name of Prince August that His Majesty might be pleased to command that there be paid to him with the greatest speed 10000 Rthl, in accordance with a testament of his deceased grandmother the Princess Sacken, out of the revenues of the entailed estates of Schlawenschitz and Lasswitz. I did not advise the Count against submitting the matter; meanwhile I told him that His Majesty had firmly determined to have Your Serene Highness's affairs brought to a conclusion first of all, and that the King would perhaps himself have the estates of Quldt placed under sequestration for years. — For the rest, it was striking that the Princess Sacken should wish to dispose of the entailed estates even after her\n\ndeath, of which she was only the life-tenant possessor. — Here the [uncertain: greeting] faltered greatly, and said, is that possible —? Oh, what things people do say. I hope that the decision given through Minister Humboldt will likewise be favourable to Your Serene Highness, and will turn out to the effect that Your affairs are to be set right first.\n\nConcerning the P. Warsaw nothing has yet come to publicity, although the Polish [uncertain: Pohlenlaas] has fallen; in the meantime the Trzwismer and Remeure matter rests on that account. — The business will not be so easily brought to an end as has been believed in Schlawenschitz. — From that side everything is being mustered and much sacrificed — and to this is added that our King is all too good. — The F. H. is on that account much troubled. The affairs of the Empire will end very well; I have heard various things about it in confidence, and have communicated what was necessary to the men concerned. Yesterday there was a great [uncertain: Brink] here. It was said that France had declared that as soon as Prussia occupied Saxony, France would let 200000 men march across the Rhine. Today, however, I heard from one of my patrons that this is a report without any foundation. In the Baden and Württemberg territories things are beginning to grow very restless; by the next post I shall write more about it. The departure of the monarchs takes place 18 days from today. Full of reverence I remain\n\nYour Most Serene Highness's\n\nVienna,\n\nthe 5th of November\n\n1814.\n\nvon Triebenfeld\n\nfaithful and most obedient servant\n\nIt has always been said that all these estates had belonged to the old Princess Sacken, and that she had made her testament solely in favour of Prince August and had shut out the old Prince entirely from everything, with a slender appanage. — I answered briefly: the deed of 1799 sanctioned by His Majesty proves the contrary of all this. — According to it the old Prince is the actual lord; he will now re-enter into all his rights and remain lord of all his property until his end. —",
  "summary_en": "Reports from Vienna that the Prince State Chancellor and Minister Baron v Humboldt are pressing the Prince's claims, Humboldt having demanded copies of all submissions; the King refuses to settle \"nach keiner retour\", raising hopes of annulling the settlement, gaining 314000 Rthl, advancing 112000 Rthl and recovering nine years' salary. Count Winzingerode's petition for Prince August's 10000 Rthl from Schlawenschitz and Lasswitz is countered by the 1799 deed. Adds rumours of French troops and the Monarchs' departure.",
  "summary_de": "Berichtet aus Wien über gute Aussichten der Sache beim Staatskanzler und beim Minister Baron v Humboldt, der Abschriften aller Eingaben verlangt; der König wolle die Angelegenheit nicht \"nach retour\" abtun, so daß Aufhebung des Vergleichs, 314000 Rthl und Vorschuß von 112000 Rthl sowie das rückständige Gehalt aus 9 Jahren zu erwarten seien. Graf Winzingerode fordere für Prinz August 10000 Rthl aus Schlawenschitz und Lasswitz nach dem Testament der Fürstin Sacken; dem hält Triebenfeld die Urkunde von 1799 und deren bloßes Advitalitium entgegen, ferner Sequestration von Quldt. Dazu Gerüchte über Sachsen, Frankreich und Unruhen in Baden und Württemberg."
 }

@@ -101,20 +101,228 @@
    "doc_line": 41
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Duchess of Sagan",
+   "kind": "person",
+   "surface_de": "Herzogin von Sagan",
+   "surface_en": "Duchess of Sagan",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sagan",
+   "kind": "place",
+   "surface_de": "Sagan",
+   "surface_en": "Sagan",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürst Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B:",
+   "kind": "person",
+   "surface_de": "B:",
+   "surface_en": "B:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curischen",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberg",
+   "surface_en": "Württemberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtembergschen",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Baden",
+   "kind": "place",
+   "surface_de": "Baadenschen",
+   "surface_en": "Baden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swiss",
+   "kind": "other",
+   "surface_de": "Schweizern",
+   "surface_en": "Swiss",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! The latter opinion of Court Councillor Hahn as well I have delivered, together with the letter enclosed here in Copy, to His Serene Highness the Prince State Chancellor. The answer was: \"Well! here too there is nothing further than what was said in the first submission — meanwhile \"it is good that the judgement from that side is of one mind. \"The Duchess of Sagan is seeking the King's permission to raise moneys upon Sagan, \"and assigns what the King owes her as security. \"She [uncertain: knows/points to] precisely the sum guaranteed for Prince Hohenlohe. \"The King has once again deferred the matter until his return home. \"As soon as it can be done I shall certainly press the matter.\" Just now I am working day and night to obtain the assurance in writing for myself, that I may be permitted to conclude with the Courland mandatories. The Duchess is here; she needs money most urgently — I wished to go to the Duchess myself, but B:, who pursues the matter with genuine zeal, would by no means have it. I can therefore only observe the lady from a distance. Upon a verbal enquiry concerning Trąbczyn and Kaemen I have received the enclosed answer. I begged urgently to be able to send Your Serene Highness something consoling; been I received a [uncertain: Wirscher], and thereupon yesterday evening this short reply; so I am now [aware] that the matter is at present being roasted along on the great hearth. For the rest, little has yet been settled here; not before the 15th of next month is it to become known what has been resolved in the council of the gods. The King of Würtemberg is ready to burst with vexation that they will not communicate to him the plans of the things that are in hand. He has now declared that, if they do not [set him a time] for everything, he would leave Vienna at once and protest against everything."
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nThe latter opinion of the Court Councillor Hahn also I have delivered, together with the letter appended here in copy, to His Serene Highness the Prince State Chancellor. The answer was: \"Well! here too there is nothing further than what was said in the first submission – meanwhile \"it is good that the judgement from that side agrees. \"The Duchess of Sagan is seeking the King's permission to raise monies upon Sagan, \"and assigns what the King owes her as security. \"She [uncertain: assigns] precisely the sum guaranteed for the Prince of Hohenlohe. \"The King has once again deferred the matter until his return home. \"As soon as it can be done I shall certainly press the matter. At present I am working day and night to obtain the assurance for myself in writing, so as to be permitted to conclude with the Courland mandatories. The Duchess is here, she has the most pressing need of money – I wished to go to the Duchess myself, but B:, who pursues the matter with genuine zeal, would by no means have it. I can therefore only observe the lady from a distance. Upon an oral enquiry concerning Trąbczyn and Kaemen I have received the answer appended herewith. I begged urgently to be able to send Your Serene Highness something consoling; as it was, I got a [illegible: Wirscher], and thereupon yesterday evening this brief reply, so that I am now [uncertain: of the view] that the matter is now being roasted along with the rest on the great hearth. For the rest, little has yet been settled here; not until about the 15th of next month is it to become known what has been resolved in the council of the gods.\n\nThe King of Württemberg is ready to burst with vexation that they will not communicate to him the plans of the things in hand. He has now declared that if they do not [text lost] him of everything in time, he would leave Vienna at once and protest against everything.",
+   "names": [
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Herzogin von Sagan",
+     "en": "Duchess of Sagan",
+     "kind": "person"
+    },
+    {
+     "de": "Sagan",
+     "en": "Sagan",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "B:",
+     "en": "B:",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Curischen",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Würtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "15"
+   ]
   },
   {
    "page": 2,
-   "en": "One is in great anxiety on that account, especially as to who should advise and guide the high [affairs] here should this shrewd, discerning, humane man withdraw. He is surely in earnest with his zeal, for he is said already to have drawn together an army of 4000 men. Meanwhile things are said to be beginning to grow very unquiet in Würtemberg, and likewise in Baden; joined with the restless Swiss, the spark might well become a [uncertain: demanding] flame, and will it not then be said, what does not burn me I need not put out. More by the next post. Reverently I remain, until death, Your Most Serene Highness's Vienna, the 26th of November 1814 faithful and most obedient servant v Triebenfeld"
+   "en": "On that account there is great anxiety, especially as to who is to counsel and to guide the high affairs here if this shrewd, discerning, humane man withdraws. He must surely be in earnest with his zeal, for he is said already to have drawn together an army of 4000 men.\n\nMeanwhile things are said to be beginning to grow very restless in the Württemberg lands, and likewise in the Baden lands; joined with the restless Swiss, the spark might well become a demanding flame, and will it not then be said: what does not burn me I need not put out. More by the next post. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nVienna, the 26th of November\n\n1814\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Würtembergschen",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Baadenschen",
+     "en": "Baden",
+     "kind": "place"
+    },
+    {
+     "de": "Schweizern",
+     "en": "Swiss",
+     "kind": "other"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4000",
+    "26",
+    "1814"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! The latter opinion of Court Councillor Hahn as well I have delivered, together with the letter enclosed here in Copy, to His Serene Highness the Prince State Chancellor. The answer was: \"Well! here too there is nothing further than what was said in the first submission — meanwhile \"it is good that the judgement from that side is of one mind. \"The Duchess of Sagan is seeking the King's permission to raise moneys upon Sagan, \"and assigns what the King owes her as security. \"She [uncertain: knows/points to] precisely the sum guaranteed for Prince Hohenlohe. \"The King has once again deferred the matter until his return home. \"As soon as it can be done I shall certainly press the matter.\" Just now I am working day and night to obtain the assurance in writing for myself, that I may be permitted to conclude with the Courland mandatories. The Duchess is here; she needs money most urgently — I wished to go to the Duchess myself, but B:, who pursues the matter with genuine zeal, would by no means have it. I can therefore only observe the lady from a distance. Upon a verbal enquiry concerning Trąbczyn and Kaemen I have received the enclosed answer. I begged urgently to be able to send Your Serene Highness something consoling; been I received a [uncertain: Wirscher], and thereupon yesterday evening this short reply; so I am now [aware] that the matter is at present being roasted along on the great hearth. For the rest, little has yet been settled here; not before the 15th of next month is it to become known what has been resolved in the council of the gods. The King of Würtemberg is ready to burst with vexation that they will not communicate to him the plans of the things that are in hand. He has now declared that, if they do not [set him a time] for everything, he would leave Vienna at once and protest against everything.\n\nOne is in great anxiety on that account, especially as to who should advise and guide the high [affairs] here should this shrewd, discerning, humane man withdraw. He is surely in earnest with his zeal, for he is said already to have drawn together an army of 4000 men. Meanwhile things are said to be beginning to grow very unquiet in Würtemberg, and likewise in Baden; joined with the restless Swiss, the spark might well become a [uncertain: demanding] flame, and will it not then be said, what does not burn me I need not put out. More by the next post. Reverently I remain, until death, Your Most Serene Highness's Vienna, the 26th of November 1814 faithful and most obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nThe latter opinion of the Court Councillor Hahn also I have delivered, together with the letter appended here in copy, to His Serene Highness the Prince State Chancellor. The answer was: \"Well! here too there is nothing further than what was said in the first submission – meanwhile \"it is good that the judgement from that side agrees. \"The Duchess of Sagan is seeking the King's permission to raise monies upon Sagan, \"and assigns what the King owes her as security. \"She [uncertain: assigns] precisely the sum guaranteed for the Prince of Hohenlohe. \"The King has once again deferred the matter until his return home. \"As soon as it can be done I shall certainly press the matter. At present I am working day and night to obtain the assurance for myself in writing, so as to be permitted to conclude with the Courland mandatories. The Duchess is here, she has the most pressing need of money – I wished to go to the Duchess myself, but B:, who pursues the matter with genuine zeal, would by no means have it. I can therefore only observe the lady from a distance. Upon an oral enquiry concerning Trąbczyn and Kaemen I have received the answer appended herewith. I begged urgently to be able to send Your Serene Highness something consoling; as it was, I got a [illegible: Wirscher], and thereupon yesterday evening this brief reply, so that I am now [uncertain: of the view] that the matter is now being roasted along with the rest on the great hearth. For the rest, little has yet been settled here; not until about the 15th of next month is it to become known what has been resolved in the council of the gods.\n\nThe King of Württemberg is ready to burst with vexation that they will not communicate to him the plans of the things in hand. He has now declared that if they do not [text lost] him of everything in time, he would leave Vienna at once and protest against everything.\n\nOn that account there is great anxiety, especially as to who is to counsel and to guide the high affairs here if this shrewd, discerning, humane man withdraws. He must surely be in earnest with his zeal, for he is said already to have drawn together an army of 4000 men.\n\nMeanwhile things are said to be beginning to grow very restless in the Württemberg lands, and likewise in the Baden lands; joined with the restless Swiss, the spark might well become a demanding flame, and will it not then be said: what does not burn me I need not put out. More by the next post. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nVienna, the 26th of November\n\n1814\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports from Vienna that Court Councillor Hahn's second opinion was passed to the Prince State Chancellor, who found nothing new in it but welcomed the agreement of views; the Duchess of Sagan, urgently short of money, seeks the King's leave to borrow on Sagan, assigning the very sum guaranteed to the Prince, and the King has again deferred until his return. An oral enquiry on Trąbczyn and Kaemen brought only a curt reply. Notes the King of Württemberg's anger at not being informed, his 4,000 men, and unrest in Württemberg, Baden and Switzerland.",
  "summary_de": "Auch das zweite Gutachten des Hofraths Hahn ist samt beiliegender Copie dem Fürsten Staatskanzler übergeben worden; dieser bestätigt die Übereinstimmung der Rechtsansichten, meldet aber, daß die Herzogin von Sagan beim König um Erlaubnis nachsucht, Gelder auf Sagan aufzunehmen, und die königliche Schuld – eben die für den Fürsten Hohenlohe garantierte Summe – als Sicherheit anweist; der König hat die Sache bis zur Rückkehr verschoben. Triebenfeld bemüht sich um schriftliche Zusicherung zum Abschluß mit den kurländischen Mandataren; auf Anfrage wegen Trąbczyn und Kaemen liegt Antwort bei. Dazu Nachrichten vom Congreß und über den König von Würtemberg."
 }

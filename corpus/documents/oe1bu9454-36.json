@@ -258,44 +258,388 @@
    "doc_line": 221
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Reichts",
+   "kind": "person",
+   "surface_de": "Reichts",
+   "surface_en": "Reichts",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Eysach",
+   "kind": "person",
+   "surface_de": "Eysach",
+   "surface_en": "Eysach",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Major",
+   "kind": "person",
+   "surface_de": "Major",
+   "surface_en": "Major",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stettinius",
+   "kind": "person",
+   "surface_de": "Stettinius[?]",
+   "surface_en": "Stettinius",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "privy councillor Meyer",
+   "kind": "person",
+   "surface_de": "Geh. Meyer",
+   "surface_en": "privy councillor Meyer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "councillor of justice Eys.",
+   "kind": "person",
+   "surface_de": "J. Eys.",
+   "surface_en": "councillor of justice Eys.",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Eys.",
+   "kind": "person",
+   "surface_de": "Eys.",
+   "surface_en": "Eys.",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "councillor of justice Eys.",
+   "kind": "person",
+   "surface_de": "J. Eys.",
+   "surface_en": "councillor of justice Eys.",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "assessor Koeppe",
+   "kind": "person",
+   "surface_de": "Ulli. Koppe",
+   "surface_en": "assessor Koeppe",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "assessor Koeppe",
+   "kind": "person",
+   "surface_de": "H. Ass. Koppe",
+   "surface_en": "assessor Koeppe",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Heidelburg",
+   "kind": "place",
+   "surface_de": "Heidelburg",
+   "surface_en": "Heidelburg",
+   "page": 5
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Stein",
+   "kind": "person",
+   "surface_de": "Er. v. Stein",
+   "surface_en": "Mr. von Stein",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "assessor Koeppe",
+   "kind": "person",
+   "surface_de": "Hl. Assessor Koppe",
+   "surface_en": "assessor Koeppe",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Öh",
+   "kind": "place",
+   "surface_de": "[Öh?]",
+   "surface_en": "Öh",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "the councillor of war von Fr.",
+   "kind": "person",
+   "surface_de": "d. H. K. R. v. Fr.",
+   "surface_en": "the councillor of war von Fr.",
+   "page": 8
+  }
+ ],
  "place_canonical": "Öhringen[?]",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "[uncertain: Cococe]t of the letter to the wife of the Councillor of War Mr. v. Triebenfeld, née Reichts, has for a long time pained me as much as Your otherwise esteemed communication of the 20th of last month, which I received yesterday; for from it I was to perceive that it were impossible for the same to cast a suspicion upon the manner of conduct I have observed toward you, which nevertheless man be nothing other than good and befitting our friendly relations, and never at any time has been otherwise. May this sincere expression of my feeling serve Your etc. as a convincing proof, should such still be needed toward you, how how firmly grounded my high respect and friendship toward you are, and how much I wish that the same might regard from the single correct side that which I shall have the honour of promising you in what follows. I perceive very plainly from Your etc. communication that the same do not regard at all the measures I have taken concerning the Aslips of Your Rthlr"
+   "en": "[uncertain: Cococe]t of the letter to the wife, née Reichts, of the councillor of war von Triebenfeld has for a long time pained me as much as Your otherwise esteemed missive of the\n\n20th of last month, which I received yesterday. Since, that is, I was to gather from it that it was impossible for you to cast a suspicion upon the manner of conduct I have observed towards you, which yet cannot be otherwise than good and befitting our friendly relations, and never has been otherwise at any time: May this sincere expression of my feeling serve Your etc. as a convincing proof, if any such were still needed towards you, how firmly founded my high regard and friendship towards you are, and how greatly I wish that you might view from the one correct side that which I shall have the honour to relate to you in what follows.\n\nI perceive very clearly from Your etc. missive that you do not at all regard the measures I took concerning the [uncertain: Aslips] of your Rthlr",
+   "names": [
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Reichts",
+     "en": "Reichts",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20."
+   ]
   },
   {
    "page": 2,
-   "en": "so as I wished and desired this for your reassurance, on which account I find it necessary to set out the particulars to you most clearly. It was, namely, in the past January of the year 1807 that the Justes Eysach from Berlin arrived here, and [came] to arrange with me a debt outstanding from earlier times. As much as this incommoded me, I nevertheless had grounds which determined me to employ every possible means in order to satisfy this man as to his demand. This took place through the mediation of the Privy Councillor Major, whose old acquaintance Eysenhardt is, and with sacrifices on my part which pained me infinitely. It happened several weeks later that I had received from Your the known instruction for 6000 Rthl from [uncertain: Stettinius], and since the said Eysenhardt entered into the above-noted arrangement under"
+   "en": "in the way I would have wished, for your reassurance, that you should, wherefore I find it necessary to set out the particulars to you most plainly.\n\nIt was, namely, in the past January of 1807 that the [uncertain: Justes] Eysach from Berlin arrived here and set about arranging with me a debt outstanding from earlier times. However much this incommoded me, I nevertheless had grounds which determined me to apply everything possible in order to satisfy this man as to his demand. This was done through the mediation of the privy councillor Major, who is an old acquaintance of Eysenhardt's, and with sacrifices on my part which pained me beyond measure.\n\nSeveral weeks passed after I had received from You the known order to pay of 6000 Rthl from [uncertain: Stettinius], and since the said Eysenhardt entered into the aforementioned arrangement under",
+   "names": [
+    {
+     "de": "Eysach",
+     "en": "Eysach",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Eysenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Major",
+     "en": "Major",
+     "kind": "person"
+    },
+    {
+     "de": "Stettinius[?]",
+     "en": "Stettinius",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1807",
+    "6000"
+   ]
   },
   {
    "page": 3,
-   "en": "no other condition than that, if I urgently needed the money from him, I should pay him the [uncertain: Kienier] of 1500 Rthl in cash against his demand; I therefore seized without further ado the expedient of ceding to him the cession from me, and indeed even from Privy Councillor Meyer, the Alligl. held by Your, upon the condition that he pay out to me the remainder of 3,500 Rthl, that is: after the collection of the whole 6000 Rthl, in cash. This I did all the less scrupulously since, as Your can easily satisfy yourself, at that time I could not know the least thing of the suspension of payment arranged by the same. I therefore [expected] quite calmly to receive my money from Mr. Eys. in due course, when from him I first received the most highly"
+   "en": "no other condition than that, if I urgently needed the money for it, I should pay him the [uncertain: Kienier] of 1500 Rthl in cash against his demand; I therefore seized, without further ado, upon the expedient of letting him have the [uncertain: Alligl.] held by You, by cession from me and indeed [uncertain: Gar] from privy councillor Meyer, on condition that he should hand out to me the remainder of 3,500 Rthl, that is to say, after collection of the whole 6000 Rthl in cash. I did this the more unhesitatingly in that, as You may easily convince yourself, at that time I could not have known the least thing about the suspension of payment arranged by you. I therefore quite calmly [expected] to receive my money from the councillor of justice Eys., when from him I first received the most highly",
+   "names": [
+    {
+     "de": "Geh. Meyer",
+     "en": "privy councillor Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "J. Eys.",
+     "en": "councillor of justice Eys.",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1500",
+    "3,500",
+    "6000"
+   ]
   },
   {
    "page": 4,
-   "en": "unexpected news that they had suspended the payment that was to be made. My embarrassment was thereby - I confess it to Your - increased in more than one respect, inasmuch as I partly stood in most urgent need of the expected 3,500 Rthl, but partly also had to foresee that sooner or later I should have to pay the 2,500 Rthl [owing] to Eys. by some other means. Nevertheless I also took the requisite steps at Breslau, in order, according to Your p wish, likewise to suspend the disbursement of the 6,000 Rthl. This is the true course of this affair up to the present point in time, and I have, and He [has] to justify me most fully, now only to add this further, namely what I have done in this matter with regard to your wishes. When, namely, I received your communication of the ——, in which the same desired the [uncertain: Zweck Gabe] of the oft-mentioned Alligl., I resolved at once - since I have no more eager [wish] than to show Your p in everything how much I [strive] to answer to your wishes - also"
+   "en": "unwelcome news that [uncertain: Empfätten] the payments to be made were suspended.\n\nMy embarrassment was thereby, I confess it to You, in several respects great, since partly I very urgently needed the expected 3,500 Rthl, and partly I also had to foresee that sooner or later I should have to pay the 2,500 Rthl [uncertain: aſtigl.] to Eys. in some other way. Nevertheless I also took the requisite steps in Breslau in order, in accordance with Your will, to suspend the payment of the\n\n6,000 Rthl as well. This now is the true course of this affair up to the present point in time, and I have, and He [uncertain: begeEr] me most fully to justify, now only to add that which I have further done in this matter with reference to your wishes.\n\nWhen, namely, I received your free missive of the [text lost], in which you wished the [uncertain: Zweck Gabe] of the oft-mentioned [uncertain: Alligl.], I at once,\n\nsince I can have no more eager desire than to show You in all things how greatly I [uncertain: beinahe] to comply with your wish, also",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Eys.",
+     "en": "Eys.",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3,500",
+    "2,500",
+    "6,000"
+   ]
   },
   {
    "page": 5,
-   "en": "to resolve to send such back into their hands forthwith, be it even at the greatest sacrifice. And since I still had to draw from the moneys deposited for the war-treasury roughly as much as the sum instructed to Mr. Eys. amounted to, I have accordingly, upon receipt of the letter from you, requested Mr. [uncertain: Ulli.] Koppe in writing to pay Mr. Eys. without delay the sum owing, the 2500 Rthl, and in return to take back the Alligl. from Your (which Herr 9. M. A. holds in safekeeping), and to deliver the same to the same. Now since Mr. Assessor Koppe is back again - as letters from Heidelburg, where he passed through, inform me - I therefore consider my commission to him as executed and Your wish in this matter as fulfilled. From the foregoing more exact narration of the history you will only deign to satisfy yourself that I have absolutely done nothing in this affair which does not bear the stamp of the greatest high respect and friendship for the same, [continued]"
+   "en": "resolved to restore the same to you, be it even with the greatest sacrifice, without delay. And since I still had about as much to draw from the monies that had been deposited for the war-account as the sum ordered to be paid to the councillor of justice Eys. amounted to, I have accordingly, upon receipt of the letter from [uncertain: fir], requested assessor Koeppe\n\nin writing to pay the councillor of justice Eys. the sum due, the 2500 Rthl, without delay, to take back in exchange the [uncertain: Äſtigl.] from him (which [illegible] 9. M. A. in safekeeping) and to deliver the same to you. Since assessor Koeppe is now back, as letters from Heidelburg, where he passed through, inform me, I therefore regard my commission to him as executed and Your wish in this matter as fulfilled. You will only deign to convince yourself from the foregoing more exact narrative of events that I have absolutely done nothing in this affair which did not bear the stamp of the greatest high regard and friendship towards you",
+   "names": [
+    {
+     "de": "J. Eys.",
+     "en": "councillor of justice Eys.",
+     "kind": "person"
+    },
+    {
+     "de": "Ulli. Koppe",
+     "en": "assessor Koeppe",
+     "kind": "person"
+    },
+    {
+     "de": "H. Ass. Koppe",
+     "en": "assessor Koeppe",
+     "kind": "person"
+    },
+    {
+     "de": "Heidelburg",
+     "en": "Heidelburg",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2500",
+    "9."
+   ]
   },
   {
    "page": 6,
-   "en": "bears, and that therefore the expressions contained, as the same say, in the [uncertain: Mayndl.] letter do not proceed from me, nor was it in any way my intention to represent the matter from the side apprehended by Your p, since I shall rather always be most highly grateful to you for that which the same have done for me (as in friendship). To this assurance you will now be unable to withhold the fullest credence, when I have the honour to report to you here that I am sending you the amount of 3000 Rthl Courant demanded in your last letter of the 25th of last month. Your etc. may believe that I thereby deprive myself almost of my last moneys, in order to answer to your wishes, and truly it required nothing less than the strength of my attachment to you to resolve upon this step also. I now beg the same to bring the whole affair to a complete conclusion, and to convey to me the earliest report upon it. The"
+   "en": "bear, and that therefore the expressions contained, as you say, in the [uncertain: Mayndl.] letter do not proceed from me, nor was it in any way my intention to wish to present the matter from the side apprehended by You, since I shall rather always be most highly grateful to you for that which you have done for me (as in friendship.\n\nTo this assurance, then, you will not be able to deny the fullest credence when I have the honour to report to you here that I am sending you the amount of 3000 Rthl Courant demanded in your last letter of the 25th of last month; Your etc. may believe that I thereby deprive myself of almost my last monies in order to comply with your wishes, and that truly nothing but the strength of my attachment to you could bring me to resolve upon this step as well. You I now beg to bring the whole affair fully to a conclusion and to send me the speediest report upon it. The",
+   "numbers": [
+    "3000",
+    "25t"
+   ]
   },
   {
    "page": 7,
-   "en": "The enclosed Rthlr to - Amelang, deign to have forwarded to the authority, even though I may indeed expect that the retradition of the Alligl. will already have taken place by then. From Your last esteemed letter I should almost conjecture that the same do not stand on the best terms with Minister Mr. v. Stein. I must confess frankly to the same that this would pain me greatly, since I believe that this gentleman is one of those who must in any event be spared. I much wished that on your journey to Vienna you might give me the pleasure of visiting me here in person. This would be quite extraordinarily welcome to me, inasmuch as it is not possible to settle in writing everything upon which I should very gladly hear your counsel and upon which I should like to have information from you. Gladly would I have resolved to send a confidant to you for that purpose, but I am held back solely by"
+   "en": "The enclosed Rthlr to - Amelang, deign to have forwarded to the authority, even though I may already expect that the return of the [uncertain: Alligl.] will by now have taken place.\n\nFrom Your [uncertain: nichten] esteemed letter I could almost surmise that you do not stand on the best terms with the minister Mr. von Stein; I must confess to you frankly that this would pain me greatly, since I believe this gentleman to be one of those who must in every case be spared.\n\nI should very much wish that you might give me the pleasure, on your journey to Vienna, of visiting me here in person; this would be quite extraordinarily welcome to me, since it is not possible to settle in writing everything upon which I should very gladly hear your advice and upon which I should wish to have information from you. Gladly would I have resolved to send a confidant to you for that purpose, but I am held back solely by",
+   "names": [
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Er. v. Stein",
+     "en": "Mr. von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 8,
-   "en": "the thought that Your p might perhaps not gladly say to anyone else than to myself all that would be worth my knowing. I know therefore of no other means than an [uncertain: expubesucht] from [uncertain: Emp.] here as far as -, which would cause no too great a detour, since you are travelling by way of Dresden in any case; and I therefore most urgently request the same, wherever at all possible, to give me this pleasure. Should you think it advisable to say something of it to Mr. Assessor Koppe, then I beg for it. In respect of the money business I am not idle here, only that before the lapse of 8-14 days I [can] say nothing further upon it, because various papers are still wanting to that end, which I [expect] daily. I beg only for this, that care be taken that the cession of the mortgage take place at once, should such be required, so that the business find no [impediment] thereby. My court factor here I have ordered to report himself in [illegible]; on which account I the more wish that the same might await his arrival at Berlin, since I believe he would be of use for a money business very much to be wished by me, [uncertain: quarterly]. What I received yesterday in respect of the Wildegans, I send Your here in copy, with the request that you instruct me what may be to be done in the matter, and also, in order to give the occasion, so that Your might in this initiate the step that seems serviceable to you. With the same request you receive one here, which was a proposal made by [uncertain: Jeg.] concerning a [uncertain: Takt], and I very much request the same to let me have your opinion and counsel upon it with all speed. Your Right Honourable's [uncertain: Öh] 13 March 1808 To Your Right Honourable the Councillor of War and Forests v. Fr."
+   "en": "the thought that You might perhaps not gladly say to anyone other than myself all that would be worth my knowing. I know therefore no other means than an [uncertain: expubesucht] from You here [uncertain: biß nur], which would cause no too great a detour, since you are in any case travelling by way of Dresden, and I therefore most urgently request you, wherever it is at all possible,\n\nto give me this pleasure.\n\nShould you think it advisable to say something of it to assessor Koeppe, I beg for that. In respect of the money business I am not idle here, only that before the lapse of 8-14 days I can say nothing further upon it, because various papers are still wanting for it, which I expect [uncertain: tags]. You I only beg to see to it that the cession of the mortgage may take place at once, when such shall be required, so that the business may find no [uncertain: befindenen] therein. My [uncertain: Hoffacte] here I have ordered to report [uncertain: bz furch] in [uncertain: Bedi], wherefore I the more wish that you might await his arrival at Berlin, since I believe he would be of use to me [uncertain: viertl.] in a money business very much to be wished for by me.\n\nWhat I received yesterday concerning the [uncertain: Wildeganes] I send You here in copy, with the request that you instruct me what may be to be done in the matter, also, in order to give the occasion, that You might initiate therein the [uncertain: Schütt] that seems serviceable to you. With the same request you receive one here, in which a proposal was made [uncertain: beten] of a [uncertain: Takts] by [uncertain: Jeg.], and I very much request you to let me have your opinion and advice upon it as soon as possible.\n\nYour Right Honourable's\n\n[uncertain: Öh] 13 March 1808 To His Right Honourable the councillor of war von Fr.",
+   "names": [
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Hl. Assessor Koppe",
+     "en": "assessor Koeppe",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "[Öh?]",
+     "en": "Öh",
+     "kind": "place"
+    },
+    {
+     "de": "d. H. K. R. v. Fr.",
+     "en": "the councillor of war von Fr.",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8-14",
+    "13",
+    "1808"
+   ]
   }
  ],
- "text_english": "[uncertain: Cococe]t of the letter to the wife of the Councillor of War Mr. v. Triebenfeld, née Reichts, has for a long time pained me as much as Your otherwise esteemed communication of the 20th of last month, which I received yesterday; for from it I was to perceive that it were impossible for the same to cast a suspicion upon the manner of conduct I have observed toward you, which nevertheless man be nothing other than good and befitting our friendly relations, and never at any time has been otherwise. May this sincere expression of my feeling serve Your etc. as a convincing proof, should such still be needed toward you, how how firmly grounded my high respect and friendship toward you are, and how much I wish that the same might regard from the single correct side that which I shall have the honour of promising you in what follows. I perceive very plainly from Your etc. communication that the same do not regard at all the measures I have taken concerning the Aslips of Your Rthlr\n\nso as I wished and desired this for your reassurance, on which account I find it necessary to set out the particulars to you most clearly. It was, namely, in the past January of the year 1807 that the Justes Eysach from Berlin arrived here, and [came] to arrange with me a debt outstanding from earlier times. As much as this incommoded me, I nevertheless had grounds which determined me to employ every possible means in order to satisfy this man as to his demand. This took place through the mediation of the Privy Councillor Major, whose old acquaintance Eysenhardt is, and with sacrifices on my part which pained me infinitely. It happened several weeks later that I had received from Your the known instruction for 6000 Rthl from [uncertain: Stettinius], and since the said Eysenhardt entered into the above-noted arrangement under\n\nno other condition than that, if I urgently needed the money from him, I should pay him the [uncertain: Kienier] of 1500 Rthl in cash against his demand; I therefore seized without further ado the expedient of ceding to him the cession from me, and indeed even from Privy Councillor Meyer, the Alligl. held by Your, upon the condition that he pay out to me the remainder of 3,500 Rthl, that is: after the collection of the whole 6000 Rthl, in cash. This I did all the less scrupulously since, as Your can easily satisfy yourself, at that time I could not know the least thing of the suspension of payment arranged by the same. I therefore [expected] quite calmly to receive my money from Mr. Eys. in due course, when from him I first received the most highly\n\nunexpected news that they had suspended the payment that was to be made. My embarrassment was thereby - I confess it to Your - increased in more than one respect, inasmuch as I partly stood in most urgent need of the expected 3,500 Rthl, but partly also had to foresee that sooner or later I should have to pay the 2,500 Rthl [owing] to Eys. by some other means. Nevertheless I also took the requisite steps at Breslau, in order, according to Your p wish, likewise to suspend the disbursement of the 6,000 Rthl. This is the true course of this affair up to the present point in time, and I have, and He [has] to justify me most fully, now only to add this further, namely what I have done in this matter with regard to your wishes. When, namely, I received your communication of the ——, in which the same desired the [uncertain: Zweck Gabe] of the oft-mentioned Alligl., I resolved at once - since I have no more eager [wish] than to show Your p in everything how much I [strive] to answer to your wishes - also\n\nto resolve to send such back into their hands forthwith, be it even at the greatest sacrifice. And since I still had to draw from the moneys deposited for the war-treasury roughly as much as the sum instructed to Mr. Eys. amounted to, I have accordingly, upon receipt of the letter from you, requested Mr. [uncertain: Ulli.] Koppe in writing to pay Mr. Eys. without delay the sum owing, the 2500 Rthl, and in return to take back the Alligl. from Your (which Herr 9. M. A. holds in safekeeping), and to deliver the same to the same. Now since Mr. Assessor Koppe is back again - as letters from Heidelburg, where he passed through, inform me - I therefore consider my commission to him as executed and Your wish in this matter as fulfilled. From the foregoing more exact narration of the history you will only deign to satisfy yourself that I have absolutely done nothing in this affair which does not bear the stamp of the greatest high respect and friendship for the same, [continued]\n\nbears, and that therefore the expressions contained, as the same say, in the [uncertain: Mayndl.] letter do not proceed from me, nor was it in any way my intention to represent the matter from the side apprehended by Your p, since I shall rather always be most highly grateful to you for that which the same have done for me (as in friendship). To this assurance you will now be unable to withhold the fullest credence, when I have the honour to report to you here that I am sending you the amount of 3000 Rthl Courant demanded in your last letter of the 25th of last month. Your etc. may believe that I thereby deprive myself almost of my last moneys, in order to answer to your wishes, and truly it required nothing less than the strength of my attachment to you to resolve upon this step also. I now beg the same to bring the whole affair to a complete conclusion, and to convey to me the earliest report upon it. The\n\nThe enclosed Rthlr to - Amelang, deign to have forwarded to the authority, even though I may indeed expect that the retradition of the Alligl. will already have taken place by then. From Your last esteemed letter I should almost conjecture that the same do not stand on the best terms with Minister Mr. v. Stein. I must confess frankly to the same that this would pain me greatly, since I believe that this gentleman is one of those who must in any event be spared. I much wished that on your journey to Vienna you might give me the pleasure of visiting me here in person. This would be quite extraordinarily welcome to me, inasmuch as it is not possible to settle in writing everything upon which I should very gladly hear your counsel and upon which I should like to have information from you. Gladly would I have resolved to send a confidant to you for that purpose, but I am held back solely by\n\nthe thought that Your p might perhaps not gladly say to anyone else than to myself all that would be worth my knowing. I know therefore of no other means than an [uncertain: expubesucht] from [uncertain: Emp.] here as far as -, which would cause no too great a detour, since you are travelling by way of Dresden in any case; and I therefore most urgently request the same, wherever at all possible, to give me this pleasure. Should you think it advisable to say something of it to Mr. Assessor Koppe, then I beg for it. In respect of the money business I am not idle here, only that before the lapse of 8-14 days I [can] say nothing further upon it, because various papers are still wanting to that end, which I [expect] daily. I beg only for this, that care be taken that the cession of the mortgage take place at once, should such be required, so that the business find no [impediment] thereby. My court factor here I have ordered to report himself in [illegible]; on which account I the more wish that the same might await his arrival at Berlin, since I believe he would be of use for a money business very much to be wished by me, [uncertain: quarterly]. What I received yesterday in respect of the Wildegans, I send Your here in copy, with the request that you instruct me what may be to be done in the matter, and also, in order to give the occasion, so that Your might in this initiate the step that seems serviceable to you. With the same request you receive one here, which was a proposal made by [uncertain: Jeg.] concerning a [uncertain: Takt], and I very much request the same to let me have your opinion and counsel upon it with all speed. Your Right Honourable's [uncertain: Öh] 13 March 1808 To Your Right Honourable the Councillor of War and Forests v. Fr.",
+ "text_english": "[uncertain: Cococe]t of the letter to the wife, née Reichts, of the councillor of war von Triebenfeld has for a long time pained me as much as Your otherwise esteemed missive of the\n\n20th of last month, which I received yesterday. Since, that is, I was to gather from it that it was impossible for you to cast a suspicion upon the manner of conduct I have observed towards you, which yet cannot be otherwise than good and befitting our friendly relations, and never has been otherwise at any time: May this sincere expression of my feeling serve Your etc. as a convincing proof, if any such were still needed towards you, how firmly founded my high regard and friendship towards you are, and how greatly I wish that you might view from the one correct side that which I shall have the honour to relate to you in what follows.\n\nI perceive very clearly from Your etc. missive that you do not at all regard the measures I took concerning the [uncertain: Aslips] of your Rthlr\n\nin the way I would have wished, for your reassurance, that you should, wherefore I find it necessary to set out the particulars to you most plainly.\n\nIt was, namely, in the past January of 1807 that the [uncertain: Justes] Eysach from Berlin arrived here and set about arranging with me a debt outstanding from earlier times. However much this incommoded me, I nevertheless had grounds which determined me to apply everything possible in order to satisfy this man as to his demand. This was done through the mediation of the privy councillor Major, who is an old acquaintance of Eysenhardt's, and with sacrifices on my part which pained me beyond measure.\n\nSeveral weeks passed after I had received from You the known order to pay of 6000 Rthl from [uncertain: Stettinius], and since the said Eysenhardt entered into the aforementioned arrangement under\n\nno other condition than that, if I urgently needed the money for it, I should pay him the [uncertain: Kienier] of 1500 Rthl in cash against his demand; I therefore seized, without further ado, upon the expedient of letting him have the [uncertain: Alligl.] held by You, by cession from me and indeed [uncertain: Gar] from privy councillor Meyer, on condition that he should hand out to me the remainder of 3,500 Rthl, that is to say, after collection of the whole 6000 Rthl in cash. I did this the more unhesitatingly in that, as You may easily convince yourself, at that time I could not have known the least thing about the suspension of payment arranged by you. I therefore quite calmly [expected] to receive my money from the councillor of justice Eys., when from him I first received the most highly\n\nunwelcome news that [uncertain: Empfätten] the payments to be made were suspended.\n\nMy embarrassment was thereby, I confess it to You, in several respects great, since partly I very urgently needed the expected 3,500 Rthl, and partly I also had to foresee that sooner or later I should have to pay the 2,500 Rthl [uncertain: aſtigl.] to Eys. in some other way. Nevertheless I also took the requisite steps in Breslau in order, in accordance with Your will, to suspend the payment of the\n\n6,000 Rthl as well. This now is the true course of this affair up to the present point in time, and I have, and He [uncertain: begeEr] me most fully to justify, now only to add that which I have further done in this matter with reference to your wishes.\n\nWhen, namely, I received your free missive of the [text lost], in which you wished the [uncertain: Zweck Gabe] of the oft-mentioned [uncertain: Alligl.], I at once,\n\nsince I can have no more eager desire than to show You in all things how greatly I [uncertain: beinahe] to comply with your wish, also\n\nresolved to restore the same to you, be it even with the greatest sacrifice, without delay. And since I still had about as much to draw from the monies that had been deposited for the war-account as the sum ordered to be paid to the councillor of justice Eys. amounted to, I have accordingly, upon receipt of the letter from [uncertain: fir], requested assessor Koeppe\n\nin writing to pay the councillor of justice Eys. the sum due, the 2500 Rthl, without delay, to take back in exchange the [uncertain: Äſtigl.] from him (which [illegible] 9. M. A. in safekeeping) and to deliver the same to you. Since assessor Koeppe is now back, as letters from Heidelburg, where he passed through, inform me, I therefore regard my commission to him as executed and Your wish in this matter as fulfilled. You will only deign to convince yourself from the foregoing more exact narrative of events that I have absolutely done nothing in this affair which did not bear the stamp of the greatest high regard and friendship towards you\n\nbear, and that therefore the expressions contained, as you say, in the [uncertain: Mayndl.] letter do not proceed from me, nor was it in any way my intention to wish to present the matter from the side apprehended by You, since I shall rather always be most highly grateful to you for that which you have done for me (as in friendship.\n\nTo this assurance, then, you will not be able to deny the fullest credence when I have the honour to report to you here that I am sending you the amount of 3000 Rthl Courant demanded in your last letter of the 25th of last month; Your etc. may believe that I thereby deprive myself of almost my last monies in order to comply with your wishes, and that truly nothing but the strength of my attachment to you could bring me to resolve upon this step as well. You I now beg to bring the whole affair fully to a conclusion and to send me the speediest report upon it. The\n\nThe enclosed Rthlr to - Amelang, deign to have forwarded to the authority, even though I may already expect that the return of the [uncertain: Alligl.] will by now have taken place.\n\nFrom Your [uncertain: nichten] esteemed letter I could almost surmise that you do not stand on the best terms with the minister Mr. von Stein; I must confess to you frankly that this would pain me greatly, since I believe this gentleman to be one of those who must in every case be spared.\n\nI should very much wish that you might give me the pleasure, on your journey to Vienna, of visiting me here in person; this would be quite extraordinarily welcome to me, since it is not possible to settle in writing everything upon which I should very gladly hear your advice and upon which I should wish to have information from you. Gladly would I have resolved to send a confidant to you for that purpose, but I am held back solely by\n\nthe thought that You might perhaps not gladly say to anyone other than myself all that would be worth my knowing. I know therefore no other means than an [uncertain: expubesucht] from You here [uncertain: biß nur], which would cause no too great a detour, since you are in any case travelling by way of Dresden, and I therefore most urgently request you, wherever it is at all possible,\n\nto give me this pleasure.\n\nShould you think it advisable to say something of it to assessor Koeppe, I beg for that. In respect of the money business I am not idle here, only that before the lapse of 8-14 days I can say nothing further upon it, because various papers are still wanting for it, which I expect [uncertain: tags]. You I only beg to see to it that the cession of the mortgage may take place at once, when such shall be required, so that the business may find no [uncertain: befindenen] therein. My [uncertain: Hoffacte] here I have ordered to report [uncertain: bz furch] in [uncertain: Bedi], wherefore I the more wish that you might await his arrival at Berlin, since I believe he would be of use to me [uncertain: viertl.] in a money business very much to be wished for by me.\n\nWhat I received yesterday concerning the [uncertain: Wildeganes] I send You here in copy, with the request that you instruct me what may be to be done in the matter, also, in order to give the occasion, that You might initiate therein the [uncertain: Schütt] that seems serviceable to you. With the same request you receive one here, in which a proposal was made [uncertain: beten] of a [uncertain: Takts] by [uncertain: Jeg.], and I very much request you to let me have your opinion and advice upon it as soon as possible.\n\nYour Right Honourable's\n\n[uncertain: Öh] 13 March 1808 To His Right Honourable the councillor of war von Fr.",
  "summary_en": "Defends himself at length against the suspicion, raised in Triebenfeld's letter of the 20th, of unfriendly conduct, and narrates the history of the Berlin creditor Eysenhardt (Eysach), settled in January 1807 through the Privy Councillor Major: the 6000 Rthlr instruction from Stettinius was ceded to him against 2500 Rthlr, the remaining 3500 Rthlr being lost when payment was suspended; Assessor Koppe has been instructed to pay Eysenhardt and retrieve the Alligl. Encloses 3000 Rthlr Courant, remarks on relations with Minister v. Stein, presses for a personal visit en route to Vienna via Dresden, and asks advice on the Wildegans matter.",
  "summary_de": "Rechtfertigung gegen den Verdacht unfreundlichen Verhaltens: Ausführliche Darstellung der Anweisung über 6000 Rthl von Stettinius, die im Januar 1807 zur Abfindung des Berliner Gläubigers Eysenhardt (1500 bzw. 2500 Rthl) unter Vermittlung des Geheimen Raths Meyer cedirt wurde, sowie der in Breslau veranlassten Zahlungssperre; Assessor Koppe ist angewiesen, Eysenhardt die 2500 Rthl zu zahlen und das Alligl. zurückzunehmen. Übersendung von 3000 Rthl Courant; Beilage für Amelang; Bemerkung zum Verhältnis zu Minister v. Stein; Bitte um persönlichen Besuch auf der Reise nach Wien über Dresden; Anfragen zur Sache Wildegans."
 }

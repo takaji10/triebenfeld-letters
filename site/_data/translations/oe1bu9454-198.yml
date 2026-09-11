@@ -1,56 +1,261 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Prince and Lord! Your Serene Highness's affairs in Poland, whence
-    I returned the day before yesterday, are ordered in the best way. 1. Trąbczyn Your Serene Highness
-    will have back by Michaelmas at the latest. 2. The sequestration is entirely lifted. 3. The accounts
-    of Honrichs and of Frankiewitz, for both of whom the pod prefect Brzechsta has stood guarantor, are
-    now being audited by the Calculator Schneider appointed by the Prefecture. Hecker must prove his statements
-    together with Hawich concerning the 11700 Rthl embezzled, and when Honrichs, Frankiewicz / this is
-    an official of Brzechsta whom I have never seen / together with Badinski are convicted, then Brzechsta
-    must pay, if the property of those men does not suffice. — Meanwhile I have 4. conceded that Hecker
-    may be appointed as administrator. — He is liable for everything — and will also furnish that guarantee
-    to Weigel. The commission of inquiry takes its beginning on the 12th of this month and will likely
-    last several days, so that Hecker, when he is required for the Weigel matter, can appear at once.
-    Trąbczyn offers glad prospects, for the tenant Smidkowski is paying several thousand at once, merely
-    in order to remain in the estates.
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    Your Serene Highness''s affairs in Poland, whence I returned the day before yesterday, are ordered
+    in the best way.
+
+
+    1. Your Serene Highness will get Trąbczyn back by Michaelmas at the latest
+
+
+    2. The sequestration is entirely lifted
+
+
+    3. The accounts of Honrichs and of Frankiewitz, for both of whom the sub-prefect Brzechsta has stood
+    guarantor, are now being audited by the calculator Schneider appointed by the Prefecture. Hecker must
+    prove his statements together with Hawich regarding the 11700 Rthl defrauded, and if Honrichs, Frankiewicz
+    / this is an official of Brzechsta whom I have never seen / together with Badinski are convicted,
+    then Brzechsta must pay, should the property of those men not suffice — Meanwhile I have
+
+
+    4. Conceded that Hecker may be appointed as administrator — He is liable for everything — will also
+    furnish that guarantee to Weigel — the commission of inquiry takes its beginning on the 12th of this
+    month and will probably last several days, for Hecker can appear at once when he is required for the
+    Weigel matter.
+
+
+    Trąbczyn offers glad prospects, for the tenant Smidkowski is paying several thousand at once merely
+    in order to remain in the estates.'
+  names:
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Frankiewitz
+    en: Frankiewitz
+    kind: person
+  - de: Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Schneider
+    en: Schneider
+    kind: person
+  - de: Hecker
+    en: Hecker
+    kind: person
+  - de: Hawich
+    en: Hawich
+    kind: person
+  - de: Frankiewicz
+    en: Frankiewicz
+    kind: person
+  - de: Badinski
+    en: Badinski
+    kind: person
+  - de: Weigeln
+    en: Weigel
+    kind: person
+  - de: Smidkowski
+    en: Smidkowski
+    kind: person
+  - de: Pohlen
+    en: Poland
+    kind: place
+  numbers:
+  - '1'
+  - '2'
+  - '3'
+  - '11700'
+  - '4'
+  - '12'
 - page: 2
   en: 'Smidkowski was in Warsaw with Kramplitz — the Dąbska threw herself at the feet of the King, who
-    was there at the time, on account of Tropiren; but she was refused in her petition. The arrow, then,
-    has likewise been shot without reaching its mark. Kramplitz, who returned 4 days ago, goes about very
-    sorrowfully with this tenant Smid. — The King''s resolution is in a threatening style. I hope my two
-    spirits Lubinski and Woyda have brought this about. 6. My own affairs are arranged — Richter arrived
-    here from Berlin only the day before yesterday. Kösteritz has conducted himself exceedingly worthily
-    and obligingly, likewise Tismar and everyone — I am wholly content. — Köckritz writes that he would
-    himself forward all the Colonna papers to Your Serene Highness — he wishes heartily that something
-    at least might be effected. Concerning Your Serene Highness''s own affairs he is entirely silent.
-    Only to Richter, with whom he chatted a full 2 hours, notwithstanding that some 20 officers and other
-    persons were waiting upon him — to him he said: if only the devil would carry off the old business
-    — then things would go doubly well with the Prince. To the [uncertain: Guhl] Rath Sanen[?] he wrote
-    at once that he should be easy concerning the Invalids'' interest — he promises to report the effect
-    to me at the earliest. He said to Richter in these words: Your master has many an honest joy and much
-    envy, but the King knows that he is a man. — Tismar writes / a certain man also wished to have something
-    in hand [uncertain], the King answered nothing — I suspect Reibnitz'
+    was there at the time, on account of Tropiren, but she was dismissed with her petition. So that arrow
+    too has been loosed without reaching its mark. Kramplitz, who came back 4 days ago, goes about very
+    sorrowfully with this tenant Smid — The King''s resolution is in a threatening style. I hope my two
+    spirits Lubinski and Woyda have brought this about.
+
+
+    6. My own affairs are arranged — Richter arrived here from Berlin only the day before yesterday. Kösteritz
+    has conducted himself exceedingly well and courteously, so too Tismar and everyone — I am entirely
+    satisfied — Köckritz writes that he would himself forward all the Colonna papers to Your Serene Highness
+    — He heartily wishes that something at least might be effected.
+
+
+    Concerning Your Serene Highness''s own affairs he keeps entirely silent. Only to Richter, with whom
+    he chatted a full 2 hours, notwithstanding that some 20 officers and other people were waiting on
+    him — to him he said: if only the devil would carry off the old business — with the Prince it would
+    then be doubly well. He wrote at once to the councillor Sanen[?] that he should be easy concerning
+    the Invalids'' interest — he promises to report the effect to me shortly. He said to Richter in these
+    words — Your master has much honest joy and many enviers on good ground, but the King knows what a
+    man he is — Tismar writes / that a certain man also wanted one for himself alone, the King answered
+    nothing — I suspect Reibnitz'
+  names:
+  - de: Smidkowski
+    en: Smidkowski
+    kind: person
+  - de: Kramplitz
+    en: Kramplitz
+    kind: person
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Dąbska
+    en: Dąbska
+    kind: person
+  - de: Smid
+    en: Smid
+    kind: person
+  - de: Lubinski
+    en: Lubinski
+    kind: person
+  - de: Woyda
+    en: Woyda
+    kind: person
+  - de: Richter
+    en: Richter
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Kösteritz
+    en: Kösteritz
+    kind: person
+  - de: Tismar
+    en: Tismar
+    kind: person
+  - de: Köckritz
+    en: Köckritz
+    kind: person
+  - de: Colon nasche
+    en: Colonna
+    kind: other
+  - de: Sanen[?]
+    en: Sanen
+    kind: person
+  - de: Reibnitz
+    en: Reibnitz
+    kind: person
+  numbers:
+  - '4'
+  - '6'
+  - '2'
+  - '20'
 - page: 3
-  en: 'or Nüchel, Reibnitz''s protector. — Thereupon the King said: people are always pecking at Triebenfeld,
-    he is surely an honest fellow. Köckritz answered: of that I am convinced; I believe that if the man
-    were satisfied and set in the right place, he would fetch us the devil out of hell. — This the Baron
-    v. Rhaden writes to me also — likewise a man of the old stamp and grain. — In the so-called wind-butchery
-    there must after all be not so much truth [uncertain: sentence lacks a verb]. Be it, however, as it
-    may, and let each man permit himself to say, for his amusement, what he will; I am content, and wish
-    nothing further than once to make the acquaintance of such a wind-hound, whom my pistols shall rouse
-    most terribly indeed. — For on account of the Colonna business I must pass through hellish stirrup-leathers.
-    Köckritz himself writes to Tismar: I pity the honest soul and wish heartily that something at least
-    may come of it, for the daredevil has poked into a hornets'' nest and provoked the B. against himself
-    — God grant him fortune. Hardenberg is coming, as Köckritz writes, into full activity, and will arrange
-    the business of the debts. Tismar writes this likewise and names him as Prime Minister in the same
-    quality as he was in Bartenstein; this is said to be with Bonaparte''s approval / O God /. Of Zastrow
-    nothing will now come; to Hardenberg his death is peace. Friedr. Massow would already be called Minister,
-    only Dohna [Dąmbska?] has hitherto prevented it. From von Rhoden Your Serene Highness will doubtless
-    already have full news concerning the 35000 Rthl, and be reassured. Grevenitz must have written to
-    Your Serene Highness also. He will surely be vigilant and mindful of Your Highness''s advantage. The
-    old lady was, as Kochry writes to me, very ill, but has recovered again; yet her length of life is
-    doubted. — In deepest reverence I remain, until death, Your Most Serene Highness''s Kantwicz[?] 8th
-    June 1810. Two divisions are marching from us against the Turks — who will command them? Tomorrow
-    I hasten to Kontop; on the 12th I go on to Streiten and from there to Pohl[?] — most faithful servant
-    v. Triebenfeld'
+  en: 'or Rüchel, Reibnitz''s protector — Upon this the King said: people are forever pecking at Triebenfeld,
+    he is surely an honest fellow. Köckritz answered — of that I am convinced; I believe that if a man
+    were satisfied and set in the right place, he would carry the devil out of hell for us — this the
+    Baron von Rhaden writes to me also — likewise a man of the old stamp and grain — So in the so-called
+    wind-butchery there must after all not be anything true. Be it however as it may, and let each man
+    allow himself to say whatever he pleases in the way of amusement, I am content and wish nothing further
+    than to make the acquaintance of such a windbag one day; my pistols shall wake him truly frightfully
+    — for on account of the Colonna matter I must pass through hellish stirrup-leathers. Köckritz himself
+    writes to Tismar: I pity the honest soul and heartily wish that something at least may come of it,
+    for the daredevil has poked into a hornets'' nest and provoked the B against himself — God grant him
+    good fortune. Hardenberg is coming, as Köckritz writes, into full activity and will arrange the business
+    of the debts. Tismar writes this too and names him as prime minister in the same quality as he was
+    at Bartenstein; this is said to be with Bonaparte''s approval /O God/. Of Zastrow nothing will now
+    come, for Hardenberg is his death. Fried Massow would already be called minister, only Dohna [Dąmbska?]
+    has hitherto prevented it. From Rhoden Your Serene Highness will doubtless already have full news
+    regarding the 35000 Rthl, and be set at ease.
+
+
+    Grevenitz must have written to Your Serene Highness as well. He will surely be vigilant and mindful
+    of Your Most High advantage. The old lady was, as Köckritz writes to me, very ill, but has recovered
+    again; yet her length of life is doubted — In deepest reverence I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    Kantwicz[?]
+
+
+    8th June 1810.
+
+
+    Two divisions are marching from us against the
+
+
+    Turks — who will command them?
+
+
+    Tomorrow I hasten to Kontop; on the 12th I go on to Streiten and from there to Pohl[?] — most faithful
+    servant v Triebenfeld'
+  names:
+  - de: Rüchel
+    en: Rüchel
+    kind: person
+  - de: Reibnises
+    en: Reibnitz
+    kind: person
+  - de: Triebenfeld
+    en: Triebenfeld
+    kind: person
+  - de: Köckritz
+    en: Köckritz
+    kind: person
+  - de: Baro v Rhaden
+    en: von Rhaden, Baron
+    kind: person
+  - de: Colonnaschen
+    en: Colonna
+    kind: other
+  - de: Tismar
+    en: Tismar
+    kind: person
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Bartenstein
+    en: Bartenstein
+    kind: place
+  - de: Bonaparte
+    en: Bonaparte
+    kind: person
+  - de: Zastrow
+    en: Zastrow
+    kind: person
+  - de: Fried Massow
+    en: Fried Massow
+    kind: person
+  - de: Dohna
+    en: Dohna
+    kind: person
+  - de: Dąmbska
+    en: Dąmbska
+    kind: person
+  - de: Rhoden
+    en: Rhoden
+    kind: person
+  - de: Grevenitz
+    en: Grevenitz
+    kind: person
+  - de: Kantwicz[?]
+    en: Kantwicz
+    kind: place
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Streiten
+    en: Streiten
+    kind: place
+  - de: Pohl[?]
+    en: Pohl
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '35000'
+  - '8'
+  - '1810'
+  - '12'

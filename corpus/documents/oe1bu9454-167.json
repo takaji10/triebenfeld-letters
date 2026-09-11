@@ -73,20 +73,82 @@
   }
  ],
  "mentions": [],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A: Hahn",
+   "kind": "person",
+   "surface_de": "A: Hahn",
+   "surface_en": "A: Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  }
+ ],
  "place_canonical": "Öhringen",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! At the very moment when His Serene Highness the Prince, together with the old gentleman, is pleased to drive to church, he commands me to send to Your Right Honourable, with His Highest compliments, the letter here enclosed. His Highest Self would gladly have written in person, had not the ordonnance been departing within the hour already. The old Prince is, for his age, very well, and shows exceedingly much attachment for my most gracious Lord. I wish from the heart that Your"
+   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! At the very moment when His Serene Highness the Prince is driving to church with the old gentleman, he commands me to send to Your Right Honourable, with his most high compliments, the enclosed letter. He would gladly have written himself, had not the ordonnance been departing within the hour.\n\nThe old Prince finds himself, for his age, very well, and shows exceedingly much [uncertain: attachment] for my most gracious Lord. I wish from the heart that Your",
+   "names": [
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "Right Honourable may find yourself in right good health; I commend myself to your continued favour and have the honour to persist in the most perfect veneration: Your Right Honourable's, Öhringen, the 7th of July 1805. humble and obedient servant A: Hahn The return to Breslau is fixed without fail for the 25th!"
+   "en": "Right Honourable may find yourself in right good health; I commend myself to your continued favour and have the honour to persist in most perfect veneration: Your Right Honourable's, Öhringen, the 7th of July 1805.\n\nhumble and obedient servant A: Hahn — the return to Breslau is fixed, without fail, for the 25th!",
+   "names": [
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "A: Hahn",
+     "en": "A: Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "7ten",
+    "1805",
+    "25ten"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! At the very moment when His Serene Highness the Prince, together with the old gentleman, is pleased to drive to church, he commands me to send to Your Right Honourable, with His Highest compliments, the letter here enclosed. His Highest Self would gladly have written in person, had not the ordonnance been departing within the hour already. The old Prince is, for his age, very well, and shows exceedingly much attachment for my most gracious Lord. I wish from the heart that Your\n\nRight Honourable may find yourself in right good health; I commend myself to your continued favour and have the honour to persist in the most perfect veneration: Your Right Honourable's, Öhringen, the 7th of July 1805. humble and obedient servant A: Hahn The return to Breslau is fixed without fail for the 25th!",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! At the very moment when His Serene Highness the Prince is driving to church with the old gentleman, he commands me to send to Your Right Honourable, with his most high compliments, the enclosed letter. He would gladly have written himself, had not the ordonnance been departing within the hour.\n\nThe old Prince finds himself, for his age, very well, and shows exceedingly much [uncertain: attachment] for my most gracious Lord. I wish from the heart that Your\n\nRight Honourable may find yourself in right good health; I commend myself to your continued favour and have the honour to persist in most perfect veneration: Your Right Honourable's, Öhringen, the 7th of July 1805.\n\nhumble and obedient servant A: Hahn — the return to Breslau is fixed, without fail, for the 25th!",
  "summary_en": "Hahn, writing on the Prince's behalf as His Serene Highness sets off to church with the old gentleman, forwards an enclosed letter with the Prince's compliments, explaining that he would have written himself had the ordonnance not been leaving within the hour. Reports that the old Prince is very well for his age and much attached to his most gracious Lord, and notes that the return to Breslau is fixed for the 25th.",
  "summary_de": "Im Auftrag des Fürsten, der eben mit dem alten Herrn zur Kirche fährt, übersendet Hahn ein beigeschlossenes Schreiben nebst Komplimenten; der Fürst hätte selbst geschrieben, wäre die Ordonnanz nicht binnen einer Stunde abgegangen. Der alte Fürst befinde sich für sein Alter sehr wohl und zeige seinem gnädigsten Herrn ausnehmend viel Anhänglichkeit. Höflichkeitswünsche für Triebenfelds Gesundheit; die Rückkehr nach Breslau ist unfehlbar auf den 25. festgesetzt."
 }

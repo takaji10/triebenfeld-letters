@@ -140,24 +140,151 @@
    "doc_line": 59
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Curian heirs",
+   "kind": "other",
+   "surface_de": "Curischen Erben",
+   "surface_en": "Curian heirs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Korb",
+   "kind": "person",
+   "surface_de": "Korb",
+   "surface_en": "Korb",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brieg",
+   "page": 3
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 3
+  }
+ ],
  "place_canonical": "Brieg",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Copia. Most Serene Prince, etc. etc. etc. I too received by the last post a letter from Herr Triebenfeld, in which he urgently presses upon my heart that I should come to Vienna. According to a plan thought through by me, which is built upon the dilatory resolutions hitherto granted on the part of the Ministry, it seems to me also to be possible to move the Curian heirs, who are just now in person in Vienna, to the acceptance of a settlement, and I myself might perhaps be able to work towards it if I were there; but, in the first place, in view of the instruction given me on the part of the general mandatories of the Cuheian heirs to abstain from every interference in this matter, I cannot act contrary thereto, nor appear ex abrupto in Vienna without any occasion on the part of the heirs; secondly, I am wholly wanting in money, and I am in no condition to advance these travelling costs, nor to borrow them anywhere; thirdly, I cannot travel abroad without a [uncertain: Pöse] from the Minister of Justice and the State Chancellor, which I should first have to apply for besides."
+   "en": "Copy\n\nMost Serene Prince etc. etc. etc.\n\nI too received by the last post a letter from Mr. Triebenfeld, in which he urgently presses upon my heart that I should come to Vienna.\n\nAccording to a plan I have thought through, which is built upon the negative resolutions hitherto issued on the part of the Ministry, it seems to me also to be possible to move the Curian heirs, who are just now in person in Vienna, to the acceptance of a settlement, and I myself might perhaps be able to work towards it, if I were there; but, in the first place, in view of the direction issued to me on the part of the general mandatories of the Curian heirs, to abstain from any interference in this matter, I cannot act contrary to it, and cannot appear in Vienna abruptly and without any occasion on the part of the heirs; second, I am wholly wanting in money, and I am in no condition to advance these travelling costs, nor to borrow them anywhere; third, I cannot travel abroad without [uncertain: passes] from the Minister of Justice and the Chancellor of State, which I should first have to apply for.",
+   "names": [
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Curischen Erben",
+     "en": "Curian heirs",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1",
+    "2",
+    "3"
+   ]
   },
   {
    "page": 2,
-   "en": "The second obstacle is now assuredly the most important; if Your Serene Highness should not be able to find counsel, then the misfortune is great and not to be surveyed, for only now, in Vienna, during the personal presence of the 3 Princesses, is a settlement to be had with thanks — or never. Is then no means whatever at Your Serene Highness's command, to raise at least 5 to 600 Rthl? Never yet would a capital have yielded such increase as this one. The return is certainly just as incalculable as is the damage, if Your Highness does not raise these travelling costs; I, by God, am not able to. The King's departure on the 26th, which I do not believe, since according to other reports the King is said to have prolonged the lodgings until the end of April, would do no harm, since the Prince State Chancellor remains there, and he alone can accomplish everything. I am writing today to Herr von Triebenfeld, and lay my plan before him for his judgment, in which 2 ways are indicated by which, for me at least, an occasion might be taken to give a motive for my journey to Vienna. Herr von Triebenfeld"
+   "en": "The second obstacle is now no doubt the most important; if Your Serene Highness is not able to find means, then the misfortune is great, and not to be overlooked, for only now, in Vienna, with the personal presence of the 3 princesses, is a settlement to be had with thanks, or never. Is there then no means whatever at Your Serene Highness's command to raise at least 5 to 600 Rthl? Never yet would a capital have yielded such interest as this one. The return is certainly as incalculable as the damage will be, if Your Highness does not raise these travelling costs; I, by God, am not able to.\n\nThe King's departure on the 26th, which I do not believe, since according to other reports the King is said to have extended the rents until the end of April, would do no harm, since the Prince Chancellor of State remains there, and he alone can accomplish everything. I am writing today to Mr. von Triebenfeld, and lay my plan before him for his judgement, in which 2 ways are indicated by which, for me at least, an occasion might be taken to give a motive for my journey to Vienna. Mr. von Triebenfeld",
+   "names": [
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "3",
+    "5",
+    "600",
+    "26"
+   ]
   },
   {
    "page": 3,
-   "en": "will at once find his bearings, since he knows the terrain exactly, and will know what is to be done, and will also act quickly, so that his answer, soon to be expected, will decide everything. I meanwhile importune Your Serene Highness to procure the money for the hour. [uncertain: Korb] can and assuredly will find a way. In deepest reverence I sign myself. Your Serene Highness's Brieg, the 12th of March 1815 wholly most humble and obedient Eberhard"
+   "en": "will at once find his bearings, since he knows the terrain exactly, and will know what is to be done, and will also act quickly, so that his answer, shortly to be expected, will decide everything. In the meantime I implore Your Serene Highness to procure the [uncertain: hour-money]. Korb can and certainly will find means.\n\nIn deepest reverence I sign myself,\n\nYour Serene Highness's\n\nBrieg\n\nthe 12th of March 1815\n\nwholly most humble and obedient\n\nEberhard",
+   "names": [
+    {
+     "de": "Korb",
+     "en": "Korb",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "12",
+    "1815"
+   ]
   }
  ],
- "text_english": "Copia. Most Serene Prince, etc. etc. etc. I too received by the last post a letter from Herr Triebenfeld, in which he urgently presses upon my heart that I should come to Vienna. According to a plan thought through by me, which is built upon the dilatory resolutions hitherto granted on the part of the Ministry, it seems to me also to be possible to move the Curian heirs, who are just now in person in Vienna, to the acceptance of a settlement, and I myself might perhaps be able to work towards it if I were there; but, in the first place, in view of the instruction given me on the part of the general mandatories of the Cuheian heirs to abstain from every interference in this matter, I cannot act contrary thereto, nor appear ex abrupto in Vienna without any occasion on the part of the heirs; secondly, I am wholly wanting in money, and I am in no condition to advance these travelling costs, nor to borrow them anywhere; thirdly, I cannot travel abroad without a [uncertain: Pöse] from the Minister of Justice and the State Chancellor, which I should first have to apply for besides.\n\nThe second obstacle is now assuredly the most important; if Your Serene Highness should not be able to find counsel, then the misfortune is great and not to be surveyed, for only now, in Vienna, during the personal presence of the 3 Princesses, is a settlement to be had with thanks — or never. Is then no means whatever at Your Serene Highness's command, to raise at least 5 to 600 Rthl? Never yet would a capital have yielded such increase as this one. The return is certainly just as incalculable as is the damage, if Your Highness does not raise these travelling costs; I, by God, am not able to. The King's departure on the 26th, which I do not believe, since according to other reports the King is said to have prolonged the lodgings until the end of April, would do no harm, since the Prince State Chancellor remains there, and he alone can accomplish everything. I am writing today to Herr von Triebenfeld, and lay my plan before him for his judgment, in which 2 ways are indicated by which, for me at least, an occasion might be taken to give a motive for my journey to Vienna. Herr von Triebenfeld\n\nwill at once find his bearings, since he knows the terrain exactly, and will know what is to be done, and will also act quickly, so that his answer, soon to be expected, will decide everything. I meanwhile importune Your Serene Highness to procure the money for the hour. [uncertain: Korb] can and assuredly will find a way. In deepest reverence I sign myself. Your Serene Highness's Brieg, the 12th of March 1815 wholly most humble and obedient Eberhard",
+ "text_english": "Copy\n\nMost Serene Prince etc. etc. etc.\n\nI too received by the last post a letter from Mr. Triebenfeld, in which he urgently presses upon my heart that I should come to Vienna.\n\nAccording to a plan I have thought through, which is built upon the negative resolutions hitherto issued on the part of the Ministry, it seems to me also to be possible to move the Curian heirs, who are just now in person in Vienna, to the acceptance of a settlement, and I myself might perhaps be able to work towards it, if I were there; but, in the first place, in view of the direction issued to me on the part of the general mandatories of the Curian heirs, to abstain from any interference in this matter, I cannot act contrary to it, and cannot appear in Vienna abruptly and without any occasion on the part of the heirs; second, I am wholly wanting in money, and I am in no condition to advance these travelling costs, nor to borrow them anywhere; third, I cannot travel abroad without [uncertain: passes] from the Minister of Justice and the Chancellor of State, which I should first have to apply for.\n\nThe second obstacle is now no doubt the most important; if Your Serene Highness is not able to find means, then the misfortune is great, and not to be overlooked, for only now, in Vienna, with the personal presence of the 3 princesses, is a settlement to be had with thanks, or never. Is there then no means whatever at Your Serene Highness's command to raise at least 5 to 600 Rthl? Never yet would a capital have yielded such interest as this one. The return is certainly as incalculable as the damage will be, if Your Highness does not raise these travelling costs; I, by God, am not able to.\n\nThe King's departure on the 26th, which I do not believe, since according to other reports the King is said to have extended the rents until the end of April, would do no harm, since the Prince Chancellor of State remains there, and he alone can accomplish everything. I am writing today to Mr. von Triebenfeld, and lay my plan before him for his judgement, in which 2 ways are indicated by which, for me at least, an occasion might be taken to give a motive for my journey to Vienna. Mr. von Triebenfeld\n\nwill at once find his bearings, since he knows the terrain exactly, and will know what is to be done, and will also act quickly, so that his answer, shortly to be expected, will decide everything. In the meantime I implore Your Serene Highness to procure the [uncertain: hour-money]. Korb can and certainly will find means.\n\nIn deepest reverence I sign myself,\n\nYour Serene Highness's\n\nBrieg\n\nthe 12th of March 1815\n\nwholly most humble and obedient\n\nEberhard",
  "summary_en": "Copy of a letter from Eberhard at Brieg, reporting that Triebenfeld urges him to come to Vienna, where the presence of the Curian (Cuheian) heirs and the three Princesses offers the only chance of a settlement, given the Ministry's dilatory resolutions. He cites three obstacles: the general mandatories' instruction not to interfere, want of money, and the need of a pass from the Minister of Justice and State Chancellor. He begs the Prince to raise 500–600 Rthl for travel costs, stressing the incalculable damage otherwise, and awaits Triebenfeld's decisive answer.",
  "summary_de": "Copia eines Schreibens Eberhards an den Fürsten: Triebenfeld dringe brieflich auf seine Reise nach Wien, wo während der persönlichen Anwesenheit der drei Prinzessinnen (Curian'sche Erben) ein Vergleich erreichbar sei. Dem stünden entgegen die Weisung der Generalmandatare, sich jeder Einmischung zu enthalten, der fehlende Pass von Justizminister und Staatskanzler und vor allem Geldmangel: er bittet um Beschaffung von mindestens 5 bis 600 Rthl Reisekosten. Triebenfeld sei sein Plan zur Beurteilung vorgelegt; dessen Antwort entscheide alles."
 }

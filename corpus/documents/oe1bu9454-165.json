@@ -97,20 +97,81 @@
    "doc_line": 17
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A. Hahn",
+   "kind": "person",
+   "surface_de": "A. Hahn",
+   "surface_en": "A. Hahn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have the honour of communicating to Your Right Honourable a few further matters which have come in with today's mounted post from the [uncertain: e. H.] Glenck. I had already put the princely letter into the post when I received the command of His Serene Highness the Prince to add by way of postscript that which I here append in an extract, in copy. His Serene Highness believes that it might be of use to the same. His Highest Self finds himself better today than yesterday, in that the attack had drawn from the right hand into the left foot, and yesterday pained him severely there; yet this pain ceased during the night and was not even, upon the stretching of the tendons,"
+   "en": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests!\n\nI have the honour of communicating to Your Right Honourable some further matters which came in with today's riding post from Mr. Glenck. I had already given the princely letter to the post when I received from His Serene Highness the Prince the command to add in a postscript what I here enclose in copy by way of extract. His Serene Highness believes that it may be of use to the same. His Most Serene Self finds himself better today than yesterday, inasmuch as the attack had withdrawn from the right hand into the left foot, and yesterday gave severe pain there; however this pain ceased during the night and was indeed, upon the stretching of the tendons,",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "any longer perceptible. We all hope for the best. Herr Bergrath Bernhardi has arrived here; yet, as I myself saw yesterday, not quite in health. His Serene Highness sent me to set him at ease on that account, since on account of his continuing indisposition he was not yet able to pay his respects. Your Right Honourable will permit me, finally, to append the most heartfelt wish for your recovery and for the most perfect and continuing health, and at the same time to commend myself to your further and inestimable favour. Ever in the most perfect veneration, Your Right Honourable's, Breslau, the 8th of March 1805, humble and obedient servant A. Hahn"
+   "en": "no longer perceptible; we all hope for the best. Mr. Bernhardi, mining councillor, has arrived here, though as I myself saw yesterday — not altogether well — His Serene Highness sent me to set him at ease on that account, since He, on account of his continuing indisposition, had not yet been able to pay his respects. Your Right Honourable will permit me finally to append the most heartfelt wish for your recovery and for the most perfect and lasting health, and at the same time to be permitted to commend myself to your further and invaluable favour, ever in the most perfect veneration. Your Right Honourable's,\n\nBreslau, the 8th of March\n\n1805.\n\nhumble and obedient servant\n\nA. Hahn",
+   "names": [
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "A. Hahn",
+     "en": "A. Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "1805"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have the honour of communicating to Your Right Honourable a few further matters which have come in with today's mounted post from the [uncertain: e. H.] Glenck. I had already put the princely letter into the post when I received the command of His Serene Highness the Prince to add by way of postscript that which I here append in an extract, in copy. His Serene Highness believes that it might be of use to the same. His Highest Self finds himself better today than yesterday, in that the attack had drawn from the right hand into the left foot, and yesterday pained him severely there; yet this pain ceased during the night and was not even, upon the stretching of the tendons,\n\nany longer perceptible. We all hope for the best. Herr Bergrath Bernhardi has arrived here; yet, as I myself saw yesterday, not quite in health. His Serene Highness sent me to set him at ease on that account, since on account of his continuing indisposition he was not yet able to pay his respects. Your Right Honourable will permit me, finally, to append the most heartfelt wish for your recovery and for the most perfect and continuing health, and at the same time to commend myself to your further and inestimable favour. Ever in the most perfect veneration, Your Right Honourable's, Breslau, the 8th of March 1805, humble and obedient servant A. Hahn",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests!\n\nI have the honour of communicating to Your Right Honourable some further matters which came in with today's riding post from Mr. Glenck. I had already given the princely letter to the post when I received from His Serene Highness the Prince the command to add in a postscript what I here enclose in copy by way of extract. His Serene Highness believes that it may be of use to the same. His Most Serene Self finds himself better today than yesterday, inasmuch as the attack had withdrawn from the right hand into the left foot, and yesterday gave severe pain there; however this pain ceased during the night and was indeed, upon the stretching of the tendons,\n\nno longer perceptible; we all hope for the best. Mr. Bernhardi, mining councillor, has arrived here, though as I myself saw yesterday — not altogether well — His Serene Highness sent me to set him at ease on that account, since He, on account of his continuing indisposition, had not yet been able to pay his respects. Your Right Honourable will permit me finally to append the most heartfelt wish for your recovery and for the most perfect and lasting health, and at the same time to be permitted to commend myself to your further and invaluable favour, ever in the most perfect veneration. Your Right Honourable's,\n\nBreslau, the 8th of March\n\n1805.\n\nhumble and obedient servant\n\nA. Hahn",
  "summary_en": "Forwards further items arrived by that day's mounted post from Glenck, together with an extract in copy of a postscript ordered by His Serene Highness the Prince after the princely letter had already been posted, thought to be of use. Reports on the Prince's health: the attack has moved from the right hand to the left foot, painful the previous day but eased overnight. Notes Bergrath Bernhardi's arrival at Breslau in poor health, and wishes Triebenfeld recovery.",
  "summary_de": "Übersendet weitere mit der reitenden Post von Glenck eingegangene Nachrichten sowie einen vom Fürsten nachträglich befohlenen Auszug in Abschrift, den der fürstliche Brief nicht mehr aufnehmen konnte und der Triebenfeld nützlich sein dürfte. Berichtet über das Befinden Seiner Durchlaucht: der Anfall sei aus der rechten Hand in den linken Fuß gezogen, der Schmerz aber über Nacht gewichen. Bergrath Bernhardi sei in Breslau eingetroffen, jedoch unpäßlich und daher noch nicht zur Aufwartung fähig. Wünsche für Triebenfelds Genesung."
 }

@@ -1,25 +1,88 @@
 status: draft
 segments:
 - page: 1
-  en: 'Cabanis came back yesterday with the good news that the Hussites wish to buy. In Hussenich, Rentsch
-    and thereabouts there are already a considerable number who have at once shown the best will; since
-    however the number of Hufen is too great for these, they have immediately sent an express to their
-    Moravian brethren in the faith. The price of 300 Rthl per Hufe and 15 Rthl yearly interest they have
-    found reasonable, and they believe that, notwithstanding that the oppression in Bohemia has ceased,
-    they will soon, on account of the acceptable price, have the required number of farmers together.
-    Within a fortnight at the latest they mean to appear in corpore — God grant His blessing — Cabanis
-    is meanwhile to go out again [uncertain: hinweitem] in order to encourage the people, through the
-    clergyman at Hussinitz, to the speediest prosecution of the matter. The messenger from the Countess
-    Schlabrendorff is also back. Here is the answer, not corresponding to Your Most Serene Highness''s
-    wishes — She refuses flatly to give out the Instru[uncertain: Quiſt:] sooner, until she has received
-    the other 50 ℔ v. The extension until the 1st of January 1805 Hornuth effects. But he will draw up
-    the receipt in'
+  en: 'Cabanis came back yesterday with the good news that the Hussites wish to buy.
+
+
+    In Hussenich, Rentsch and in that neighbourhood there are already a fair number who have at once shown
+    the best will; since, however, the number of Hufen is too great for these, they have immediately sent
+    an express to their Moravian brethren in the faith. The price of 300 Rthl per Hufe and 15 Rthl annual
+    rent they have found fair, and they believe that, notwithstanding that the oppression in Bohemia has
+    ceased, on account of the acceptable price they will soon have the number of required farmers together.
+    At the latest within 14 days they wish to appear as a body – God grant His blessing – Cabanis is nevertheless
+    to go out again [uncertain: hinweitem] in order to encourage the people, through the clergyman at
+    Hussinitz, to the speediest pressing forward of the matter. The messenger from the Countess Schlabrendorff
+    is also back. Here is the answer; it does not correspond to Your Most Serene Highness''s wishes –
+    She refuses [illegible] to hand over the instrument [uncertain: InstruQuist] any sooner, until she
+    has not received the other 50 ℔ [uncertain: v.]. The term until the 1st of January 1805 is effected
+    by Hornuth. He will, however, draw up the receipt in'
+  names:
+  - de: Cabanis
+    en: Cabanis
+    kind: person
+  - de: Hüsseten
+    en: Hussites
+    kind: other
+  - de: Hussenich
+    en: Hussenich
+    kind: place
+  - de: Rentsch
+    en: Rentsch
+    kind: place
+  - de: Mähriſche
+    en: Moravian
+    kind: other
+  - de: Böhmen
+    en: Bohemia
+    kind: place
+  - de: Hussinitz
+    en: Hussinitz
+    kind: place
+  - de: Gräfin Schlabrendorff
+    en: Countess Schlabrendorff
+    kind: person
+  - de: Hornuth
+    en: Hornuth
+    kind: person
+  numbers:
+  - '300'
+  - '15'
+  - '14'
+  - '50'
+  - '1'
+  - '1805'
 - page: 2
-  en: 'such a form that Your Serene Highness may use it separately — The acceptance for the second term
-    is likewise to be so drawn up that no mishap can occur any more. I look forward with longing to [uncertain:
-    Wunchel/Kunckel] — He writes indeed to his mother that he will arrive here these days with several
-    people; meanwhile the time does drag somewhat too long — I wish he were here already — The mother
-    of the Kunckel lives here in the greatest destitution; should Your Serene Highness be minded to do
-    a work of mercy on this day, then send me a couple of Thaler for this poor woman, who lies sick and
-    wretched — I do give her a little, to be sure, but this does not go far enough for her to subsist
-    in these dear times. Breslau, the 2nd of April 1804. v. Triebenfeld'
+  en: 'such a form that Your Serene Highness may use it separately – The acceptance for the second instalment
+    too is to be so drawn up that no misfortune can occur any more. I await Kunckel with longing – He
+    does indeed write to his mother that he will arrive here these next days with several people; in the
+    meantime, however, the time is dragging somewhat too long – I wish he were here already – Kunckel''s
+    mother lives here in the greatest destitution; if Your Serene Highness should wish to perform a work
+    of mercy on this day, then send me a couple of Thaler for this poor woman, who lies sick and wretched
+    – I do indeed give her some little, but this does not go far towards keeping oneself alive in these
+    dear times.
+
+
+    Breslau, the 2nd of April
+
+
+    1804
+
+
+    v. Triebenfeld'
+  names:
+  - de: Kunckel
+    en: Kunckel
+    kind: person
+  - de: Kunckels
+    en: Kunckel
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: v. Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '2'
+  - '2'
+  - '1804'

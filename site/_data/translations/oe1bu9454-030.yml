@@ -2,41 +2,134 @@ status: draft
 segments:
 - page: 1
   en: 'Copy. Your Most Serene Highness''s most gracious letter I received here in Berlin; I should long
-    since have answered it, had I not been held under arrest under strict French [uncertain: guard/surveillance].
-    A fate I never deserved, and which has given my civil existence a very crooked turn. At the end of
-    December I was sent hither from Memel with important commissions, and I was already near the goal
-    of my wishes, so as to be able to depart again soon, when, without my suspecting it, two French gendarmes
-    were sent into my lodging with the order that they were to keep me under strict watch and arrest until
-    I, as General Plenipotentiary of the Prince of Hohenlohe, should have paid all the arrears of interest
-    upon the 50000 Rthl borrowed from the Invalids'' Fund. Terror and shame at this occurrence nearly
-    brought me to the most desperate resolution; the interest in arrears amounted, for 2 years, to 5000
-    rtt — whence was I to take these, amid the dreadful want of money, [uncertain: um seinehe] since there
-    are no Royal treasuries here and all revenues are in the hands of the French authorities. I [proved?]
-    with all the jurists that I was not the debtor. I produced the judicial instrument showing that the
-    banker Apenheimer had, already 3 years ago, undertaken to pay this sum to the Invalids'' Fund against
-    a discount of 7 [uncertain: sl:], that he had it entered in his own'
+    since have answered the same, had I not been held under arrest under strict French guard. A fate I
+    have never deserved, and one which has given my civil existence a very crooked direction.
+
+
+    At the end of December I was sent hither from Memel with important [uncertain: commissions], and I
+    was already near the goal of my wishes, so as to be able soon to depart again, when, without my suspecting
+    it, two French gendarmes were sent into my lodging with the order that they were to hold me under
+    strict supervision and arrest until I, as general attorney of the Prince of Hohenlohe, should have
+    paid all the arrears of interest upon the 50000 Rthl borrowed from the Invalids'' Fund. Terror and
+    shame at this occurrence almost brought me to the most desperate resolution; the arrears of interest
+    for 2 years amounted to 5000 rtt — whence was I to take these amid the dreadful want of money, [uncertain:
+    for indeed] there are no Royal treasuries here, and all revenues are in the hands of the French authorities.
+    I proved with all the jurists that I am not the debtor. I produced the judicial instrument showing
+    that the banker Apenheimer had already 3 years ago undertaken to pay this sum to the Invalids'' Fund
+    against a discount of 7 [uncertain: sl:], that he had it entered in his own'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Franz-strenger
+    en: French
+    kind: other
+  - de: Memel
+    en: Memel
+    kind: place
+  - de: Franz.
+    en: French
+    kind: other
+  - de: Fürsten zu Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: Invaliden Casse
+    en: Invalids' Fund
+    kind: other
+  - de: Apenheimer
+    en: Apenheimer
+    kind: person
+  numbers:
+  - '50000'
+  - '2'
+  - '5000'
+  - '3'
+  - '7'
 - page: 2
-  en: '[uncertain: name/register], and that he must pay. I proved further that Your Serene Highness had
-    yourself for 2 years drawn not a denier from the estates, and that the Poles concealed themselves
-    behind the order given by Napoleon to pay nothing hither. But all this availed nothing: the Jew bought
-    himself free into liberty, and I had to sit until means could be contrived. I had 2000 Rthl with me;
-    the upright Lieutenant-General and Minister v. Zastrow stood surety for 5000 Rthl in paper money,
-    which we then converted into Courant and received 2875 Rthl for it, but for which we must repay 5000
-    Rthl Courant on the 1st of June. Not until the last farthing was paid was I released from the execution
-    and discharged from my arrest. Meanwhile, through this affair my honour, standing and credit are not
-    only impaired, but the highest interest has been so far neglected that it can never be redressed.
-    I cannot now, for honour''s sake, remove from here until I have contrived means for the 5000 M together
-    with interest and costs, for I could not let any unpleasantness arise for the honest Minister v. Zastrow.
-    Meanwhile I know of no other counsel than that Your Serene Highness send me back, as soon as possible,
-    the bank order to pay for 6000 Rthl which Your Most Serene Highness has ceded to Eysenhardt,'
+  en: 'name, and that he must pay. I proved further that Your Serene Highness Yourself had for 2 years
+    drawn not a [uncertain: denier] from the estates, and that the Poles sheltered behind the order given
+    by Napoleon to pay nothing hither. But all this availed nothing: the Jew bought himself free into
+    liberty, and I had to sit until means were found. I had 2000 Rthl with me; the honest Lieutenant-General
+    and Minister
+
+
+    von Zastrow stood surety for 5000 Rthl in paper money, which we then converted into Courant and for
+    which we received 2875 Rthl, but for which we must repay 5000 Rthl Courant on the 1st of June. Not
+    until the last farthing was paid was I released from the execution and discharged from my arrest.
+    Meanwhile, through this affair my honour, standing and credit have not only been diminished, but the
+    highest interest has been so far neglected that it can never be redressed. I cannot now, for honour''s
+    sake, remove myself from here until I have found means as regards the 5000 M together with interest
+    and costs, for I could not let any unpleasantness arise for the upright Minister von Zastrow. Meanwhile
+    I know of no other counsel than that Your Serene Highness send me back, at the very earliest, the
+    bank instruction for 6000 Rthl which You most highly ceded to Eysenhardt,'
+  names:
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: v. Zastrow
+    en: von Zastrow
+    kind: person
+  - de: Eysenhardt
+    en: Eysenhardt
+    kind: person
+  numbers:
+  - '2'
+  - '2000'
+  - '5000'
+  - '2875'
+  - '5000'
+  - '1'
+  - '5000'
+  - '6000'
 - page: 3
   en: 'so that I may take back from the holder the [uncertain: Kontazen] mortgage of 10000 pledged for
-    it, and thereby help myself. But may Your Serene Highness deign to remit the order to pay to me, or
-    to note upon it yourself that you have drawn no money upon it and returned the same. I shall then
-    at once press for the restitution of my mortgage, and hope in return to obtain the money here from
-    a certain Generalin von Blücher, in order to satisfy the banker, or in cash. The noble Minister v.
-    Zastrow is working with me at the French authority to have the Trabezyner estates restored to Your
-    Serene Highness; and had this shameful occurrence not befallen me, I should already have been in Petersburg
-    since that time, and might there have effected much through the Grand Duke. In the confident hope
-    of a very speedy granting of my exceedingly urgent request, I remain, until death, Your Serene Highness''s
-    humble and obedient servant v. Triebenfeld. Berlin, the 14th of March, 1808.'
+    it, and thereby help myself. But may Your Serene Highness deign to make the instruction over to me,
+    or Yourself
+
+
+    to note upon it that You have drawn no money upon it, and that You returned the same. I shall then
+    at once press for the return of my mortgage, and hope in exchange to obtain the money here from a
+    certain General''s lady von Blücher, in order to satisfy the banker, or in cash. The noble Minister
+    von Zastrow is working with me at the French authority to have the Trąbczyn estates restored to Your
+    Serene Highness; and had this shameful occurrence not befallen me, I should by this time already have
+    been in Petersburg, and could there have effected much through the Grand Duke. In the confident hope
+    of a very speedy granting of my exceedingly urgent request, I remain, until death,
+
+
+    Your Serene Highness''s humble and obedient servant
+
+
+    von Triebenfeld. Berlin
+
+
+    the 14th of March, 1808.'
+  names:
+  - de: Generalin von Blücher
+    en: von Blücher, General's lady
+    kind: person
+  - de: v. Zastrow
+    en: von Zastrow
+    kind: person
+  - de: 'Franz: Behörde'
+    en: French authority
+    kind: other
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Petersburg
+    en: Petersburg
+    kind: place
+  - de: Grosfügten
+    en: Grand Duke
+    kind: person
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  numbers:
+  - '10000'
+  - '6000'
+  - '14'
+  - '1808'

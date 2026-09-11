@@ -274,28 +274,579 @@
    "doc_line": 83
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kon tap",
+   "surface_en": "Kontop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Carte",
+   "kind": "person",
+   "surface_de": "Carte",
+   "surface_en": "Carte",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stettin",
+   "kind": "place",
+   "surface_de": "Stettin",
+   "surface_en": "Stettin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschühme",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Henrichs",
+   "kind": "person",
+   "surface_de": "Henrichs",
+   "surface_en": "Henrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trapirier",
+   "kind": "place",
+   "surface_de": "Trapirier",
+   "surface_en": "Trapirier",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hainrich",
+   "kind": "person",
+   "surface_de": "Hainrich",
+   "surface_en": "Hainrich",
+   "page": 3
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Nucziwichi",
+   "kind": "person",
+   "surface_de": "Nucziwichi",
+   "surface_en": "Nucziwichi",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Niederinrech",
+   "kind": "person",
+   "surface_de": "Niederinrech",
+   "surface_en": "Niederinrech",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Lenshi",
+   "kind": "person",
+   "surface_de": "Lenshi",
+   "surface_en": "Lenshi",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Octarsowchi",
+   "kind": "person",
+   "surface_de": "Octarsowchi",
+   "surface_en": "Octarsowchi",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Bonaparte",
+   "surface_en": "Bonaparte",
+   "page": 3
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Cabanic",
+   "kind": "person",
+   "surface_de": "Cabanic",
+   "surface_en": "Cabanic",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Częstochowa",
+   "kind": "place",
+   "surface_de": "Constirchen",
+   "surface_en": "Częstochowa",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wybichi",
+   "kind": "person",
+   "surface_de": "Wybichi",
+   "surface_en": "Wybichi",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zychhochi",
+   "kind": "person",
+   "surface_de": "Zychhochi",
+   "surface_en": "Zychhochi",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wode",
+   "kind": "person",
+   "surface_de": "Wode",
+   "surface_en": "Wode",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Carcynalii",
+   "kind": "person",
+   "surface_de": "Carcynalii",
+   "surface_en": "Carcynalii",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pensrats",
+   "kind": "other",
+   "surface_de": "Pensrats",
+   "surface_en": "Pensrats",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Stonaparten",
+   "surface_en": "Bonaparte",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Stona parte",
+   "surface_en": "Bonaparte",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ostarszenski",
+   "kind": "person",
+   "surface_de": "Ostarszenski",
+   "surface_en": "Ostarszenski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Niederweichen",
+   "kind": "person",
+   "surface_de": "Niederweichen",
+   "surface_en": "Niederweichen",
+   "page": 4
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Heiler",
+   "kind": "person",
+   "surface_de": "Heiler",
+   "surface_en": "Heiler",
+   "page": 4
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussian",
+   "kind": "other",
+   "surface_de": "Prusten",
+   "surface_en": "Prussian",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschauer",
+   "surface_en": "Warsaw",
+   "page": 4
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord!\n\nI was just on the point of writing to Your Most Serene Highness by express when I received Your Highness's most gracious letter of the 9th, which has taken 6 days in transit. I thank Your Most Serene Highness most heartily for the goodwill therein expressed, which I most devotedly beg to retain. I have lain ill for some 7 weeks, during half of which time I lived quite happily, for I was robbed of my senses and felt nothing of my sorrows. For about 8 days now I have been a thinking man again and am working at the removal of my afflictions. — Whether I shall succeed in it I cannot exactly determine — I do indeed have a tenant for Kon tap, but I must first pay 8000 Rthl of arrears of interest and debts. The Carte from Stettin, grown rich by French deliveries, who has raised himself from a beggar-boy or a barber's journeyman to the wealthiest private man and has acquired 1,600000 through the short war, wishes to buy timber from me and to pay everything in advance; I expect him daily. If he does so, then only shall I have a free hand to lease out and to bring everything into its track. Within the space of 8 days all this must be settled, or I am lost with respect to my possessions. If it goes well, then I shall be at Schlawenschühme by the New Year, to lay myself at Your Most Serene Highness's feet."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord, I was just on the point of writing to Your Most Serene Highness by express when I received Your Highness's letter of the 9th, which took 6 days in transit. I thank Your Most Serene Highness most heartily for the goodwill expressed therein, which I most devotedly beg to retain. I have lain ill for some 7 weeks, during half of which time I lived quite happily, for I was deprived of my senses and felt nothing of my sorrows. For about 8 days now I have again been a thinking man and am working at the removal of my afflictions – Whether I shall succeed in this I cannot exactly determine – I do indeed have a tenant at Kontop, but I must first pay 8000 Rthl of arrears of interest and debts. The [uncertain: Carte] from Stettin, grown rich through French supply contracts, who has risen from a beggar-boy or barber's journeyman up to the wealthiest private man and has acquired 1,600000 through the short war, wishes to buy timber from me and to pay everything in advance; I expect him daily, and if he does so then I shall at last have a free hand to lease out and to bring everything into its proper track. Within a period of 8 days all this must be settled, or I am lost as regards my property. If it goes well, then at the New Year I shall be at Schlawenschitz to lay myself at Your Most Serene Highness's feet.",
+   "names": [
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Kon tap",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Carte",
+     "en": "Carte",
+     "kind": "person"
+    },
+    {
+     "de": "Stettin",
+     "en": "Stettin",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschühme",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "9",
+    "6",
+    "7",
+    "8",
+    "8000",
+    "1,600000",
+    "8"
+   ]
   },
   {
    "page": 2,
-   "en": "Now with respect to Your Serene Highness's affairs. — In Königsberg these are said to stand very well, the more so as the [man] is gone from there. In Poland things go confusedly; my endeavour to raise money from thence was in vain, as the enclosed decree proves. To that end I [had] Honrichs come here, who arrived here this very day. The enclosed Pro Memoria proves his plans — may Your Serene Highness deign to give it your attention, and give me the very speediest answer before I depart from here. I believe that the sub-prefect who wishes to buy the estates is not to be turned away, and that one must enter into dealings with him, because he can be very helpful towards the recovery of the [uncertain: Trapirier] estates. 2. I believe that all resorts should now at once be set in motion, in order to wrest away these estates so violently appropriated. 3. To insist with all force that the monies, now that the sequestration is lifted, must absolutely flow to Your Serene Highness and not into the coffer of the improperly appointed administrator; and likewise that this man, who has not yet admitted Honrichs into the estates, be at once turned back. Provisionally I gave Henrichs the power of attorney for this, but for this too I must very quickly have Your Serene Highness's authorisation. If it succeed that the Russians, or we, move in there, then the rest will find itself out, and we shall need no foreign help; the Russian [uncertain: Batete] will be sufficient for us in every way."
+   "en": "Now as regards Your Serene Highness's affairs – At Königsberg these are said to stand very well, the more so since that is away from there.\n\nIn Poland matters go strangely; my endeavour to procure money from thence was in vain, as the enclosed [uncertain: decree] proves. To that end I had Honrichs come here, who arrived here only today. The enclosed Pro Memoria proves his plans – may Your Serene Highness deign to grant it your attention and give me, before I depart from here, the very speediest answer.\n\nI believe that the sub-prefect who wishes to buy the estates is not to be turned away, and that one must enter into dealings with him, because he can be very helpful towards the recovery of the [uncertain: Trapirier] estates. 2. I believe that all departments must now be set in motion at once, in order to wrest away these estates so violently appropriated.\n\n3. To insist with all force that, since the sequestration is lifted, the monies must flow absolutely to Your Serene Highness and not into the cash-box of the improperly appointed administrator; also that this man, who has not yet admitted Honrichs into the estates, be at once turned away.\n\nProvisionally I gave Honrichs the power of attorney for this, but for this too I must very speedily have Your Serene Highness's authorisation. Should it succeed that the Russians or we move in there, then the rest will find itself, and we shall need no foreign help; the Russian [uncertain: Batete] will always be enough for us.",
+   "names": [
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Henrichs",
+     "en": "Henrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Trapirier",
+     "en": "Trapirier",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2",
+    "3"
+   ]
   },
   {
    "page": 3,
-   "en": "As for what else may be written to Your Serene Highness from Schlawenschitz, there is nothing in it to be entered into. — Hainrich and Hecker are rogues who deserve chastisement. I engaged the latter because I believed I had found in him a faithful man; he furnished a paper security of 5000 Rthl — but he gave up the service, took land for himself, would be called his own master, and attached himself to a Polish hag, namely to the sister of the Nucziwichi. Honrichs was obliged to sue [uncertain: Niederinrech] for 7000 Rthl of arrears of rent, and likewise the Lenshi and Octarsowchi, of whom the last-named also owe some 5000 Rthl in ready money. — With these Hecker made common cause, and denounced Honrichs for having railed against Bonaparte; indeed, that he, together with Schenck and Cabanic, had carried Bonaparte's portrait (namely a woodcut such as the Poles venerate like the Black Mary at Czenstochau) in procession across the courtyard to the — salva venia — privy, and had it buried there. Also that Honrichs was constantly attempting to smuggle travelling monies out of the country, indeed was even endeavouring to stir up a [uncertain: reconfecleration]. Hecker had this denunciation brought to Wybichi; Honrichs was at once arrested and was to be shot. — The pod praefect Zychhochi of Kalisz informed me of it by night; I wrote at once to Wybichi, to Wode at Warsaw, to Carcynalii and to all the devils and holy [uncertain: Pensrats]."
+   "en": "As to what has otherwise been written to Your Serene Highness from Schlawenschitz, there is no entering into that – Hainrich and Hecker are rogues who deserve chastisement. I engaged the latter because I believed I had found in him a faithful man; he furnished a paper security of 5000 Rthl – but he gave up the service, took land for himself, wished to be called his own master, and attached himself to a Polish hag, namely to the sister of Nucziwichi. Honrichs had to sue Niederinrech for 7000 Rthl of arrears of rent, likewise Lenshi and Octarsowchi, the latter of whom also owe some 5000 Rthl in cash – with these Hecker made common cause and informed against Honrichs, that he had reviled Bonaparte; indeed that he, together with Schenck and Cabanic, had carried Bonaparte's portrait (namely a woodcut which the Poles venerate like the Black Maria at Częstochowa) in procession across the yard to the – with respect – privy, and had it buried there – also that Honrichs was always only trying to smuggle travelling money out of the country, indeed that he was even at pains to stir up a [uncertain: reconfederation]. Hecker had this denunciation brought to Wybichi; Honrichs was immediately arrested and was to be shot – the sub-prefect Zychhochi of Kalisz gave me notice of it; I wrote at once to Wybichi, to Wode at Warsaw, to Carcynalii, and to all the devils and saints [uncertain: Pensrats]",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Hainrich",
+     "en": "Hainrich",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Nucziwichi",
+     "en": "Nucziwichi",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Niederinrech",
+     "en": "Niederinrech",
+     "kind": "person"
+    },
+    {
+     "de": "Lenshi",
+     "en": "Lenshi",
+     "kind": "person"
+    },
+    {
+     "de": "Octarsowchi",
+     "en": "Octarsowchi",
+     "kind": "person"
+    },
+    {
+     "de": "Bonaparte",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanic",
+     "en": "Cabanic",
+     "kind": "person"
+    },
+    {
+     "de": "Constirchen",
+     "en": "Częstochowa",
+     "kind": "place"
+    },
+    {
+     "de": "Wybichi",
+     "en": "Wybichi",
+     "kind": "person"
+    },
+    {
+     "de": "Zychhochi",
+     "en": "Zychhochi",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Wode",
+     "en": "Wode",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Carcynalii",
+     "en": "Carcynalii",
+     "kind": "person"
+    },
+    {
+     "de": "Pensrats",
+     "en": "Pensrats",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "5000",
+    "7000",
+    "5000"
+   ]
   },
   {
    "page": 4,
-   "en": "I succeeded in saving Honrichs so far, that he was released from his arrest, and now the matter is being worked through in the ordinary process. — That they had buried Bonaparte in the privy was quashed, because it had happened at the beginning of the war. Over and above this, the process is still pending on the count that Honrichs, shortly before his arrest, called Bonaparte a robber. But now Ostarszenski the 1st and the 2nd, and also Niederweichen and consorts, have given a written confession of themselves, that they were incited by Hecker and Honrichs; that they had everything only from hearsay; that out of vexation, because Honrichs had always thought pro Prussia, they had informed against him out of [uncertain: Woche] — wherefore they withdraw their denunciation, and must willingly submit themselves to the penalty of the false denunciant, since they could neither prove the charge against Honrichs, still less swear to it. This judicial written acknowledgement of the denunciants suborned by Heiler and Hawich has now been submitted to the Presidium of the Criminal Court, as also to the Warsaw Ministry and the Chief Prefect, upon which I may expect the end, with all right, speedily."
+   "en": "I succeeded in saving Honrichs so far that he was released from his arrest, and the matter is now being worked out in the ordinary course of law – the charge that he had buried Bonaparte in a privy was quashed, because it had occurred at the beginning of the war. Over and above this, the suit is still pending that Honrichs, shortly before his arrest, called Bonaparte a robber. But now Ostarszenski, the first and the second, and also Niederweichen and associates, have given a written acknowledgement of themselves that they had been incited by Hecker and Honrichs, that they had everything only by hearsay, that out of spite, because Honrichs had always thought pro-Prussian, they had informed against him out of [uncertain: Woche] – wherefore they withdraw their denunciation and must willingly submit to the penalty of the false denouncer, since they could neither prove nor still less swear to the charge against Honrichs.\n\nThis judicially written acknowledgement of the denouncers suborned by Heiler and Hawich is now lodged with the presiding bench of the criminal court, as also with the Warsaw ministry and the Chief Prefect, whereupon I may with all right speedily expect the end of the matter.",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Stonaparten",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Stona parte",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Ostarszenski",
+     "en": "Ostarszenski",
+     "kind": "person"
+    },
+    {
+     "de": "Niederweichen",
+     "en": "Niederweichen",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Heiler",
+     "en": "Heiler",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Prusten",
+     "en": "Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "Warschauer",
+     "en": "Warsaw",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1ten",
+    "2ten"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord!\n\nI was just on the point of writing to Your Most Serene Highness by express when I received Your Highness's most gracious letter of the 9th, which has taken 6 days in transit. I thank Your Most Serene Highness most heartily for the goodwill therein expressed, which I most devotedly beg to retain. I have lain ill for some 7 weeks, during half of which time I lived quite happily, for I was robbed of my senses and felt nothing of my sorrows. For about 8 days now I have been a thinking man again and am working at the removal of my afflictions. — Whether I shall succeed in it I cannot exactly determine — I do indeed have a tenant for Kon tap, but I must first pay 8000 Rthl of arrears of interest and debts. The Carte from Stettin, grown rich by French deliveries, who has raised himself from a beggar-boy or a barber's journeyman to the wealthiest private man and has acquired 1,600000 through the short war, wishes to buy timber from me and to pay everything in advance; I expect him daily. If he does so, then only shall I have a free hand to lease out and to bring everything into its track. Within the space of 8 days all this must be settled, or I am lost with respect to my possessions. If it goes well, then I shall be at Schlawenschühme by the New Year, to lay myself at Your Most Serene Highness's feet.\n\nNow with respect to Your Serene Highness's affairs. — In Königsberg these are said to stand very well, the more so as the [man] is gone from there. In Poland things go confusedly; my endeavour to raise money from thence was in vain, as the enclosed decree proves. To that end I [had] Honrichs come here, who arrived here this very day. The enclosed Pro Memoria proves his plans — may Your Serene Highness deign to give it your attention, and give me the very speediest answer before I depart from here. I believe that the sub-prefect who wishes to buy the estates is not to be turned away, and that one must enter into dealings with him, because he can be very helpful towards the recovery of the [uncertain: Trapirier] estates. 2. I believe that all resorts should now at once be set in motion, in order to wrest away these estates so violently appropriated. 3. To insist with all force that the monies, now that the sequestration is lifted, must absolutely flow to Your Serene Highness and not into the coffer of the improperly appointed administrator; and likewise that this man, who has not yet admitted Honrichs into the estates, be at once turned back. Provisionally I gave Henrichs the power of attorney for this, but for this too I must very quickly have Your Serene Highness's authorisation. If it succeed that the Russians, or we, move in there, then the rest will find itself out, and we shall need no foreign help; the Russian [uncertain: Batete] will be sufficient for us in every way.\n\nAs for what else may be written to Your Serene Highness from Schlawenschitz, there is nothing in it to be entered into. — Hainrich and Hecker are rogues who deserve chastisement. I engaged the latter because I believed I had found in him a faithful man; he furnished a paper security of 5000 Rthl — but he gave up the service, took land for himself, would be called his own master, and attached himself to a Polish hag, namely to the sister of the Nucziwichi. Honrichs was obliged to sue [uncertain: Niederinrech] for 7000 Rthl of arrears of rent, and likewise the Lenshi and Octarsowchi, of whom the last-named also owe some 5000 Rthl in ready money. — With these Hecker made common cause, and denounced Honrichs for having railed against Bonaparte; indeed, that he, together with Schenck and Cabanic, had carried Bonaparte's portrait (namely a woodcut such as the Poles venerate like the Black Mary at Czenstochau) in procession across the courtyard to the — salva venia — privy, and had it buried there. Also that Honrichs was constantly attempting to smuggle travelling monies out of the country, indeed was even endeavouring to stir up a [uncertain: reconfecleration]. Hecker had this denunciation brought to Wybichi; Honrichs was at once arrested and was to be shot. — The pod praefect Zychhochi of Kalisz informed me of it by night; I wrote at once to Wybichi, to Wode at Warsaw, to Carcynalii and to all the devils and holy [uncertain: Pensrats].\n\nI succeeded in saving Honrichs so far, that he was released from his arrest, and now the matter is being worked through in the ordinary process. — That they had buried Bonaparte in the privy was quashed, because it had happened at the beginning of the war. Over and above this, the process is still pending on the count that Honrichs, shortly before his arrest, called Bonaparte a robber. But now Ostarszenski the 1st and the 2nd, and also Niederweichen and consorts, have given a written confession of themselves, that they were incited by Hecker and Honrichs; that they had everything only from hearsay; that out of vexation, because Honrichs had always thought pro Prussia, they had informed against him out of [uncertain: Woche] — wherefore they withdraw their denunciation, and must willingly submit themselves to the penalty of the false denunciant, since they could neither prove the charge against Honrichs, still less swear to it. This judicial written acknowledgement of the denunciants suborned by Heiler and Hawich has now been submitted to the Presidium of the Criminal Court, as also to the Warsaw Ministry and the Chief Prefect, upon which I may expect the end, with all right, speedily.",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, I was just on the point of writing to Your Most Serene Highness by express when I received Your Highness's letter of the 9th, which took 6 days in transit. I thank Your Most Serene Highness most heartily for the goodwill expressed therein, which I most devotedly beg to retain. I have lain ill for some 7 weeks, during half of which time I lived quite happily, for I was deprived of my senses and felt nothing of my sorrows. For about 8 days now I have again been a thinking man and am working at the removal of my afflictions – Whether I shall succeed in this I cannot exactly determine – I do indeed have a tenant at Kontop, but I must first pay 8000 Rthl of arrears of interest and debts. The [uncertain: Carte] from Stettin, grown rich through French supply contracts, who has risen from a beggar-boy or barber's journeyman up to the wealthiest private man and has acquired 1,600000 through the short war, wishes to buy timber from me and to pay everything in advance; I expect him daily, and if he does so then I shall at last have a free hand to lease out and to bring everything into its proper track. Within a period of 8 days all this must be settled, or I am lost as regards my property. If it goes well, then at the New Year I shall be at Schlawenschitz to lay myself at Your Most Serene Highness's feet.\n\nNow as regards Your Serene Highness's affairs – At Königsberg these are said to stand very well, the more so since that is away from there.\n\nIn Poland matters go strangely; my endeavour to procure money from thence was in vain, as the enclosed [uncertain: decree] proves. To that end I had Honrichs come here, who arrived here only today. The enclosed Pro Memoria proves his plans – may Your Serene Highness deign to grant it your attention and give me, before I depart from here, the very speediest answer.\n\nI believe that the sub-prefect who wishes to buy the estates is not to be turned away, and that one must enter into dealings with him, because he can be very helpful towards the recovery of the [uncertain: Trapirier] estates. 2. I believe that all departments must now be set in motion at once, in order to wrest away these estates so violently appropriated.\n\n3. To insist with all force that, since the sequestration is lifted, the monies must flow absolutely to Your Serene Highness and not into the cash-box of the improperly appointed administrator; also that this man, who has not yet admitted Honrichs into the estates, be at once turned away.\n\nProvisionally I gave Honrichs the power of attorney for this, but for this too I must very speedily have Your Serene Highness's authorisation. Should it succeed that the Russians or we move in there, then the rest will find itself, and we shall need no foreign help; the Russian [uncertain: Batete] will always be enough for us.\n\nAs to what has otherwise been written to Your Serene Highness from Schlawenschitz, there is no entering into that – Hainrich and Hecker are rogues who deserve chastisement. I engaged the latter because I believed I had found in him a faithful man; he furnished a paper security of 5000 Rthl – but he gave up the service, took land for himself, wished to be called his own master, and attached himself to a Polish hag, namely to the sister of Nucziwichi. Honrichs had to sue Niederinrech for 7000 Rthl of arrears of rent, likewise Lenshi and Octarsowchi, the latter of whom also owe some 5000 Rthl in cash – with these Hecker made common cause and informed against Honrichs, that he had reviled Bonaparte; indeed that he, together with Schenck and Cabanic, had carried Bonaparte's portrait (namely a woodcut which the Poles venerate like the Black Maria at Częstochowa) in procession across the yard to the – with respect – privy, and had it buried there – also that Honrichs was always only trying to smuggle travelling money out of the country, indeed that he was even at pains to stir up a [uncertain: reconfederation]. Hecker had this denunciation brought to Wybichi; Honrichs was immediately arrested and was to be shot – the sub-prefect Zychhochi of Kalisz gave me notice of it; I wrote at once to Wybichi, to Wode at Warsaw, to Carcynalii, and to all the devils and saints [uncertain: Pensrats]\n\nI succeeded in saving Honrichs so far that he was released from his arrest, and the matter is now being worked out in the ordinary course of law – the charge that he had buried Bonaparte in a privy was quashed, because it had occurred at the beginning of the war. Over and above this, the suit is still pending that Honrichs, shortly before his arrest, called Bonaparte a robber. But now Ostarszenski, the first and the second, and also Niederweichen and associates, have given a written acknowledgement of themselves that they had been incited by Hecker and Honrichs, that they had everything only by hearsay, that out of spite, because Honrichs had always thought pro-Prussian, they had informed against him out of [uncertain: Woche] – wherefore they withdraw their denunciation and must willingly submit to the penalty of the false denouncer, since they could neither prove nor still less swear to the charge against Honrichs.\n\nThis judicially written acknowledgement of the denouncers suborned by Heiler and Hawich is now lodged with the presiding bench of the criminal court, as also with the Warsaw ministry and the Chief Prefect, whereupon I may with all right speedily expect the end of the matter.",
  "summary_en": "Reports recovering after seven weeks' illness, half of it delirious, and his own precarious affairs: a tenant found for Kon tap but 8000 Rthl of arrears must first be paid, with hopes of a timber sale to the newly enriched Carte of Stettin. Encloses a decree and Honrichs's Pro Memoria, urging authorisation to treat with the sub-prefect, recover the appropriated Polish estates and divert monies from the improperly appointed administrator. Recounts Hecker's denunciation of Honrichs for insulting Bonaparte, his arrest, release, and the denunciants' retraction.",
  "summary_de": "Bericht nach siebenwöchiger Krankheit über die eigene Lage: für Kon tap sei ein Pächter gefunden, doch müßten zuvor 8000 Rthl rückständige Zinsen und Schulden gezahlt werden; der durch französische Lieferungen reich gewordene Carte aus Stettin wolle Holz vorauszahlen. Zu den fürstlichen Angelegenheiten: Königsberg stehe gut, in Polen sei die Geldbeschaffung gescheitert (beiliegendes Decret und Pro Memoria Honrichs'); nach Aufhebung der Sequestration müßten die Gelder dem Fürsten zufließen, der Administrator abgewiesen werden; Vollmacht und Autorisation erbeten. Ausführlich über Heckers Denunciation Honrichs' wegen Äußerungen gegen Bonaparte, dessen Arrest, Befreiung und den laufenden Proceß sowie Pachtrückstände von 7000 und 5000 Rthl."
 }

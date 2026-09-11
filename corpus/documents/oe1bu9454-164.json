@@ -286,28 +286,466 @@
    "doc_line": 97
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelangs",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinzen George",
+   "surface_en": "Prince George",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Kalckreuth",
+   "kind": "person",
+   "surface_de": "General Kalckreuthern",
+   "surface_en": "General Kalckreuth",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister von Voss",
+   "kind": "person",
+   "surface_de": "Minister vom Voss",
+   "surface_en": "Minister von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Kalckreuth",
+   "kind": "person",
+   "surface_de": "Gr. Kalckreuth",
+   "surface_en": "Count Kalckreuth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Otochten",
+   "kind": "person",
+   "surface_de": "Otochten",
+   "surface_en": "Otochten",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nerlich",
+   "kind": "person",
+   "surface_de": "Nerlich",
+   "surface_en": "Nerlich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "President v. G.",
+   "kind": "person",
+   "surface_de": "President v G.",
+   "surface_en": "President v. G.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oleśnicki",
+   "kind": "other",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnicki",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Blomberg",
+   "kind": "person",
+   "surface_de": "v. Blomberg",
+   "surface_en": "von Blomberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Oleśnicki",
+   "kind": "other",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnicki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Oleśnicki",
+   "kind": "other",
+   "surface_de": "Olesnicern",
+   "surface_en": "Oleśnicki",
+   "page": 4
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schencks",
+   "surface_en": "Schenck",
+   "page": 4
+  },
+  {
+   "entity": "dabrowski",
+   "display": "Dąbrowski",
+   "kind": "person",
+   "surface_de": "Dąbrowski",
+   "surface_en": "Dąbrowski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussiemski",
+   "kind": "person",
+   "surface_de": "Prussiemskiſche",
+   "surface_en": "Prussiemski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kowal",
+   "kind": "place",
+   "surface_de": "Kowaler",
+   "surface_en": "Kowal",
+   "page": 4
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prussiemski",
+   "surface_en": "Prussiemski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Brzyze",
+   "kind": "place",
+   "surface_de": "Brzyze",
+   "surface_en": "Brzyze",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ritlach",
+   "kind": "person",
+   "surface_de": "Ritlach",
+   "surface_en": "Ritlach",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Floriche",
+   "kind": "person",
+   "surface_de": "Floriche",
+   "surface_en": "Floriche",
+   "page": 4
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Kalisz",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! From Berlin no resolution has yet come; I do not know what to think of Amelang's diligence. People are all cut to the same last — only do not always stand behind them, or clear the way oneself, or so fill the rapacious claws, [and] then they let everything go on at its snail's pace. If the revision is made difficult for me by the Finance Department, then I shall have the Landrath revise, attest and guarantee the assessments; that is then still more than is demanded. It therefore comes only to this, that I be given a decision from Berlin. The chicaneries over the revision of the assessments are entirely new and arise solely from Prince George and General Kalckreuth's lady's [i.e. the General Kalckreuthern's] impetuous conduct — neither Amelang nor still less I knew anything of it in Berlin; the wrangling was solely with the Minister von Voss, from all of whom the orders were quickly given, and since the matter was not transacted collegially, no one could know of it either. This tidy ordinance was first brought up [uncertain: Unfuhr] in Breslau by the young Count Kalckreuth. Meanwhile, so much having already been cleared away, a way out must be found here too. Here everything goes thus far according to wish, and I hope to bring together a heavy lump of money. With Otochten I think to be finished today. Who likewise promises 10000 Rthl within a short time, as well as 2000 Rthl as the"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nFrom Berlin no resolution has yet come; I do not know what I am to think of Amelang's diligence; men are all cut on one last — only do not stand always behind them, or clear the way oneself, or so fill the rapacious claws, and they let everything go at its snail's pace. If the revision is made difficult for me by the Finance Department, then I shall have the district administrator revise, attest and guarantee the assessments; that is then more than is required. So it comes only to this, that word be sent me from Berlin.\n\nThe chicaneries over the revision of the assessments are quite new and arise solely from Prince George and General Kalckreuth's wife's [uncertain: General Kalckreuth's] impetuous conduct — neither Amelang nor still less I knew anything of it in Berlin; the wrangling was solely with Minister von Voss, by whom all the orders were swiftly given, and since the matter was not transacted in collegial form, no one could know of it either. This fine ordinance first came out [uncertain: was carried] in Breslau by the young Count Kalckreuth. Meanwhile, since so much has already been set aside, a way out must be found here too.\n\nHere everything goes so far according to wish, and I hope to bring together a heavy lump of money. With Otochten I think to be finished today. The like, 10000 Rthl in a short time, as also 2000 Rthl as the",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Amelangs",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen George",
+     "en": "Prince George",
+     "kind": "person"
+    },
+    {
+     "de": "General Kalckreuthern",
+     "en": "General Kalckreuth",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Minister vom Voss",
+     "en": "Minister von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Gr. Kalckreuth",
+     "en": "Count Kalckreuth",
+     "kind": "person"
+    },
+    {
+     "de": "Otochten",
+     "en": "Otochten",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10000",
+    "2000"
+   ]
   },
   {
    "page": 2,
-   "en": "half-yearly propination-rent, to be paid anticipando. If I am rid of Honrichs, as I firmly hope, then Meierowitz pays 20000 Rthl in cash 8 days before Midsummer, and lays down an annual canon of 500 Rthl in perpetuity. What has happened with Swięcia, and whether my plan will succeed, I shall learn today from Nerlich. For the purchase of the lands which are [illegible] to be dismembered altogether, many people have already come forward, and in particular several noblemen, who wish to buy many Hufen and to pay cash at once. Meanwhile I press only for the issuing of the consent, so that no obstacle of any kind can be laid in my way. The Chamber had committed the investigation to the Landrath and prescribed the norm according to which Your Serene Highness may dismember; this has been strictly complied with, everything cleared away, and everything submitted to the Chamber, so that all chicaneries have been met and the ways to the throne have been made level, [in case] a new barrier were to be pulled over our nose; for I would lay before the King those dispositions once given, as well as all contracts and protocols concluded pursuant to them, and would then demand the concession there with full right, without having to beg. The President v. G. is entirely in agreement with me on this. By the next post I shall send Your Serene Highness a Copy of all these proceedings. With the Olesnice fellows everything will be settled very gradually."
+   "en": "half-yearly propination-rights rent, promises to pay in anticipation. If I am rid of Honrichs, as I firmly hope, then Meierowitz pays 20000 Rthl in cash 8 days before Midsummer, and lays down an annual canon of 500 Rthl in perpetuity.\n\nWhat has happened with Swięcia, and whether my plan will succeed, I shall learn today from Nerlich.\n\nFor the purchase of the lands which are to be dismembered generally, many persons have already come forward, and among them several noblemen, who wish to buy many Hufen and to pay at once in cash. Meanwhile I press only for the issue of the consent, so that no obstacle of any kind can be laid in my way.\n\nThe Chamber had entrusted the investigation to the district administrator and prescribed the norm according to which Your Serene Highness may dismember; this has been strictly complied with, everything set aside, and everything submitted to the Chamber, so that all chicaneries have been met and the ways to the throne levelled, were one to try to draw a new barrier before our nose; for I should lay before the King those dispositions given, as also all contracts concluded thereafter, together with the protocols, and then demand there the concession with full right, without needing to beg. President v. G. is entirely of one mind with me on this. By the next post I shall send Your Serene Highness a copy of all these transactions. With the Oleśnicki fellows everything will be remedied very gradually.",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Nerlich",
+     "en": "Nerlich",
+     "kind": "person"
+    },
+    {
+     "de": "President v G.",
+     "en": "President v. G.",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnicki",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "8",
+    "20000",
+    "500"
+   ]
   },
   {
    "page": 3,
-   "en": "For a long time already there has existed at the Chambers here (of which, however, as God lives, I knew not one jot) an edict, according to which 1. no peasant or non-noble may be granted a noble estate in hereditary lease without special Royal consent; 2. even to noble hereditary lessees there may not be handed over or made over together with it a. the jurisdiction, b. not the [uncertain: Zad], c. not the beer and brandy Urbar, and d. not the power to drive out the old subjects or to displace them in their livelihoods. Already under the 23rd of December 1803 the Chamber here made this known to Herr Bau-Rath Glenck and to the Landrath v. Blomberg. More than culpable is it on the part of the former, that he withheld such from Your Serene Highness and permitted that a contract was nevertheless concluded with the Olesnice fellows; but base is it on the part of the latter, that he nevertheless wished to conclude a compromise between the 3 Olesnice rogues and the old subjects, and to have Your Serene Highness guarantee it. God, what sort of people are these, and in whose hands have Your Serene Highness been until now? — By high disposition the entire Chamber files have been given to me; I am having all the fine pieces extracted, so that Your Serene Highness may for once be convinced."
+   "en": "For a long time already there has existed at the Chamber here (of which, however, as God lives, I knew not one jot) an edict, according to which\n\n1. no peasant or non-noble may be granted a noble estate in hereditary lease without special Royal consent\n\n2. even to noble hereditary lessees there may not be handed over or made over\n\na. not the jurisdiction\n\nb. not the [uncertain: Zad]\n\nc. not the beer and brandy dues, and\n\nd. not the power to drive out the old subjects, or to displace them in their livelihoods. Already under 23rd December 1803 the Chamber here made this known to the building councillor Glenck and to the district administrator von Blomberg. More than punishable is it of the former, that he concealed such from Your Serene Highness and allowed that a contract should nevertheless be concluded with the Oleśnicki fellows. But base is it of the latter, that he nevertheless wished to conclude a settlement between the 3 Oleśnicki rogues and the old subjects, and to have Your Serene Highness guarantee the same. God, what manner of men are these, and in whose hands has Your Serene Highness been hitherto! — The whole Chamber files have been given me on high disposition; I am having all the fine pieces extracted, so that Your Serene Highness may at last be convinced",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "v. Blomberg",
+     "en": "von Blomberg",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnicki",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1.",
+    "2.",
+    "23 ten",
+    "1803",
+    "3"
+   ]
   },
   {
    "page": 4,
-   "en": "Now I must hold firmly and purely to the performance of the contract not now kept by the Olesnice people, so that these knaves do not get through with a possible counter-claim; otherwise we should have to fear a lawsuit of years' duration. More than devilish is it that Glenck said not a word of the two Chamber dispositions or resolutions of the 23rd of December 1803 and the 24th of January 1804, and allowed a contract to be concluded under the 22nd of February 1804 which runs point-blank against the edicts and rescripts of the Chamber that had been made known to Glenck. I now count upon Schenck's good will and adroitness, which I had already called upon beforehand. From Dąbrowski I learn just now that the Prussiemski compromise lies in the Kowal archive, and that the receipts too are lodged there [uncertain: inquisirt], that Prussiemski has paid. The proceedings run to some seventy sheets; I have asked Dąbrowski to have them extracted with all speed; then indeed one will get on the track of the matter, for [if] the recesses and actual resignations of Brzyze had also been stolen out of the archives, then those parties could nevertheless demand nothing further, but would rather have still, since we do not have Brzyze, to pay out. Concerning Ritlach and Floriche let Your Serene Highness not trouble yourself, for these dogs I shall chastise in concert with Lichnowski. Were only my health not so shattered that I could go about in all places, then everything should go more briskly; as it is, however, I must too often keep to my room in bed, where all nursing is wanting to me, and the constant vexation wears me quite away. — Meanwhile I remain, until death, Your Serene Highness's\n\nKalisz, the 4th of March 1805.\n\nmost faithful servant\nv Triebenfeld"
+   "en": "Now I must hold firm and purely to the performance of the contract not kept by the Oleśnicki people, so that these rascals may not get through with a possible counter-claim; otherwise we should have a suit of years to fear. More than devilish is it that Glenck said not a word of the two Chamber dispositions or resolutions of 23rd December 1803 and 24th January 1804, and allowed a contract to be concluded under 22 February 1804 which runs point-blank against the edicts and rescripts of the Chamber made known to Glenck. I now count upon Schenck's good will and adroitness, which I had already called upon beforehand.\n\nFrom Dąbrowski I learn just now that the Prussiemski compromise lies [uncertain: stands] in the Kowal archive, and that the receipts are also inquired into there, that Prussiemski has paid. The transaction runs to some seventy sheets; I have asked Dąbrowski to have it extracted with haste; there indeed one will get on the track of the matter, for if the recesses and actual resignations of Brzyze had also been stolen from the archives, that party would still be able to demand nothing more, but would have to pay out further, since we do not have Brzyze. About Ritlach and Floriche let Your Serene Highness not trouble yourself, for these dogs I shall chastise in concert with Lichnowski. If only my health were not so shattered that I could go about in all places, then everything should go more briskly; as it is, I must too often keep the room, keep to my bed, where all nursing is wanting to me, and the constant vexation quite wears me out — Meanwhile I remain, until death,\n\nYour Serene Highness's\n\nKalisz, 4th March 1805.\n\nfaithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Olesnicern",
+     "en": "Oleśnicki",
+     "kind": "other"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Schencks",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Dąbrowski",
+     "en": "Dąbrowski",
+     "kind": "person"
+    },
+    {
+     "de": "Prussiemskiſche",
+     "en": "Prussiemski",
+     "kind": "person"
+    },
+    {
+     "de": "Kowaler",
+     "en": "Kowal",
+     "kind": "place"
+    },
+    {
+     "de": "Prussiemski",
+     "en": "Prussiemski",
+     "kind": "person"
+    },
+    {
+     "de": "Brzyze",
+     "en": "Brzyze",
+     "kind": "place"
+    },
+    {
+     "de": "Ritlach",
+     "en": "Ritlach",
+     "kind": "person"
+    },
+    {
+     "de": "Floriche",
+     "en": "Floriche",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "23ten",
+    "1803",
+    "24ten",
+    "1804",
+    "22",
+    "1804",
+    "4ten",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! From Berlin no resolution has yet come; I do not know what to think of Amelang's diligence. People are all cut to the same last — only do not always stand behind them, or clear the way oneself, or so fill the rapacious claws, [and] then they let everything go on at its snail's pace. If the revision is made difficult for me by the Finance Department, then I shall have the Landrath revise, attest and guarantee the assessments; that is then still more than is demanded. It therefore comes only to this, that I be given a decision from Berlin. The chicaneries over the revision of the assessments are entirely new and arise solely from Prince George and General Kalckreuth's lady's [i.e. the General Kalckreuthern's] impetuous conduct — neither Amelang nor still less I knew anything of it in Berlin; the wrangling was solely with the Minister von Voss, from all of whom the orders were quickly given, and since the matter was not transacted collegially, no one could know of it either. This tidy ordinance was first brought up [uncertain: Unfuhr] in Breslau by the young Count Kalckreuth. Meanwhile, so much having already been cleared away, a way out must be found here too. Here everything goes thus far according to wish, and I hope to bring together a heavy lump of money. With Otochten I think to be finished today. Who likewise promises 10000 Rthl within a short time, as well as 2000 Rthl as the\n\nhalf-yearly propination-rent, to be paid anticipando. If I am rid of Honrichs, as I firmly hope, then Meierowitz pays 20000 Rthl in cash 8 days before Midsummer, and lays down an annual canon of 500 Rthl in perpetuity. What has happened with Swięcia, and whether my plan will succeed, I shall learn today from Nerlich. For the purchase of the lands which are [illegible] to be dismembered altogether, many people have already come forward, and in particular several noblemen, who wish to buy many Hufen and to pay cash at once. Meanwhile I press only for the issuing of the consent, so that no obstacle of any kind can be laid in my way. The Chamber had committed the investigation to the Landrath and prescribed the norm according to which Your Serene Highness may dismember; this has been strictly complied with, everything cleared away, and everything submitted to the Chamber, so that all chicaneries have been met and the ways to the throne have been made level, [in case] a new barrier were to be pulled over our nose; for I would lay before the King those dispositions once given, as well as all contracts and protocols concluded pursuant to them, and would then demand the concession there with full right, without having to beg. The President v. G. is entirely in agreement with me on this. By the next post I shall send Your Serene Highness a Copy of all these proceedings. With the Olesnice fellows everything will be settled very gradually.\n\nFor a long time already there has existed at the Chambers here (of which, however, as God lives, I knew not one jot) an edict, according to which 1. no peasant or non-noble may be granted a noble estate in hereditary lease without special Royal consent; 2. even to noble hereditary lessees there may not be handed over or made over together with it a. the jurisdiction, b. not the [uncertain: Zad], c. not the beer and brandy Urbar, and d. not the power to drive out the old subjects or to displace them in their livelihoods. Already under the 23rd of December 1803 the Chamber here made this known to Herr Bau-Rath Glenck and to the Landrath v. Blomberg. More than culpable is it on the part of the former, that he withheld such from Your Serene Highness and permitted that a contract was nevertheless concluded with the Olesnice fellows; but base is it on the part of the latter, that he nevertheless wished to conclude a compromise between the 3 Olesnice rogues and the old subjects, and to have Your Serene Highness guarantee it. God, what sort of people are these, and in whose hands have Your Serene Highness been until now? — By high disposition the entire Chamber files have been given to me; I am having all the fine pieces extracted, so that Your Serene Highness may for once be convinced.\n\nNow I must hold firmly and purely to the performance of the contract not now kept by the Olesnice people, so that these knaves do not get through with a possible counter-claim; otherwise we should have to fear a lawsuit of years' duration. More than devilish is it that Glenck said not a word of the two Chamber dispositions or resolutions of the 23rd of December 1803 and the 24th of January 1804, and allowed a contract to be concluded under the 22nd of February 1804 which runs point-blank against the edicts and rescripts of the Chamber that had been made known to Glenck. I now count upon Schenck's good will and adroitness, which I had already called upon beforehand. From Dąbrowski I learn just now that the Prussiemski compromise lies in the Kowal archive, and that the receipts too are lodged there [uncertain: inquisirt], that Prussiemski has paid. The proceedings run to some seventy sheets; I have asked Dąbrowski to have them extracted with all speed; then indeed one will get on the track of the matter, for [if] the recesses and actual resignations of Brzyze had also been stolen out of the archives, then those parties could nevertheless demand nothing further, but would rather have still, since we do not have Brzyze, to pay out. Concerning Ritlach and Floriche let Your Serene Highness not trouble yourself, for these dogs I shall chastise in concert with Lichnowski. Were only my health not so shattered that I could go about in all places, then everything should go more briskly; as it is, however, I must too often keep to my room in bed, where all nursing is wanting to me, and the constant vexation wears me quite away. — Meanwhile I remain, until death, Your Serene Highness's\n\nKalisz, the 4th of March 1805.\n\nmost faithful servant\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nFrom Berlin no resolution has yet come; I do not know what I am to think of Amelang's diligence; men are all cut on one last — only do not stand always behind them, or clear the way oneself, or so fill the rapacious claws, and they let everything go at its snail's pace. If the revision is made difficult for me by the Finance Department, then I shall have the district administrator revise, attest and guarantee the assessments; that is then more than is required. So it comes only to this, that word be sent me from Berlin.\n\nThe chicaneries over the revision of the assessments are quite new and arise solely from Prince George and General Kalckreuth's wife's [uncertain: General Kalckreuth's] impetuous conduct — neither Amelang nor still less I knew anything of it in Berlin; the wrangling was solely with Minister von Voss, by whom all the orders were swiftly given, and since the matter was not transacted in collegial form, no one could know of it either. This fine ordinance first came out [uncertain: was carried] in Breslau by the young Count Kalckreuth. Meanwhile, since so much has already been set aside, a way out must be found here too.\n\nHere everything goes so far according to wish, and I hope to bring together a heavy lump of money. With Otochten I think to be finished today. The like, 10000 Rthl in a short time, as also 2000 Rthl as the\n\nhalf-yearly propination-rights rent, promises to pay in anticipation. If I am rid of Honrichs, as I firmly hope, then Meierowitz pays 20000 Rthl in cash 8 days before Midsummer, and lays down an annual canon of 500 Rthl in perpetuity.\n\nWhat has happened with Swięcia, and whether my plan will succeed, I shall learn today from Nerlich.\n\nFor the purchase of the lands which are to be dismembered generally, many persons have already come forward, and among them several noblemen, who wish to buy many Hufen and to pay at once in cash. Meanwhile I press only for the issue of the consent, so that no obstacle of any kind can be laid in my way.\n\nThe Chamber had entrusted the investigation to the district administrator and prescribed the norm according to which Your Serene Highness may dismember; this has been strictly complied with, everything set aside, and everything submitted to the Chamber, so that all chicaneries have been met and the ways to the throne levelled, were one to try to draw a new barrier before our nose; for I should lay before the King those dispositions given, as also all contracts concluded thereafter, together with the protocols, and then demand there the concession with full right, without needing to beg. President v. G. is entirely of one mind with me on this. By the next post I shall send Your Serene Highness a copy of all these transactions. With the Oleśnicki fellows everything will be remedied very gradually.\n\nFor a long time already there has existed at the Chamber here (of which, however, as God lives, I knew not one jot) an edict, according to which\n\n1. no peasant or non-noble may be granted a noble estate in hereditary lease without special Royal consent\n\n2. even to noble hereditary lessees there may not be handed over or made over\n\na. not the jurisdiction\n\nb. not the [uncertain: Zad]\n\nc. not the beer and brandy dues, and\n\nd. not the power to drive out the old subjects, or to displace them in their livelihoods. Already under 23rd December 1803 the Chamber here made this known to the building councillor Glenck and to the district administrator von Blomberg. More than punishable is it of the former, that he concealed such from Your Serene Highness and allowed that a contract should nevertheless be concluded with the Oleśnicki fellows. But base is it of the latter, that he nevertheless wished to conclude a settlement between the 3 Oleśnicki rogues and the old subjects, and to have Your Serene Highness guarantee the same. God, what manner of men are these, and in whose hands has Your Serene Highness been hitherto! — The whole Chamber files have been given me on high disposition; I am having all the fine pieces extracted, so that Your Serene Highness may at last be convinced\n\nNow I must hold firm and purely to the performance of the contract not kept by the Oleśnicki people, so that these rascals may not get through with a possible counter-claim; otherwise we should have a suit of years to fear. More than devilish is it that Glenck said not a word of the two Chamber dispositions or resolutions of 23rd December 1803 and 24th January 1804, and allowed a contract to be concluded under 22 February 1804 which runs point-blank against the edicts and rescripts of the Chamber made known to Glenck. I now count upon Schenck's good will and adroitness, which I had already called upon beforehand.\n\nFrom Dąbrowski I learn just now that the Prussiemski compromise lies [uncertain: stands] in the Kowal archive, and that the receipts are also inquired into there, that Prussiemski has paid. The transaction runs to some seventy sheets; I have asked Dąbrowski to have it extracted with haste; there indeed one will get on the track of the matter, for if the recesses and actual resignations of Brzyze had also been stolen from the archives, that party would still be able to demand nothing more, but would have to pay out further, since we do not have Brzyze. About Ritlach and Floriche let Your Serene Highness not trouble yourself, for these dogs I shall chastise in concert with Lichnowski. If only my health were not so shattered that I could go about in all places, then everything should go more briskly; as it is, I must too often keep the room, keep to my bed, where all nursing is wanting to me, and the constant vexation quite wears me out — Meanwhile I remain, until death,\n\nYour Serene Highness's\n\nKalisz, 4th March 1805.\n\nfaithful servant\n\nv. Triebenfeld",
  "summary_en": "Still no resolution from Berlin, and Amelang's slowness is blamed; if the Finance Department obstructs the revision of the assessments, the district administrator will attest and guarantee them. The new chicaneries are traced to Prince George and the Kalckreuths. Otochten is near settlement: 10,000 Rthl expected shortly, 2,000 Rthl half-yearly propination rent, and, once Honrichs is gone, 20,000 Rthl cash from Meierowitz plus a perpetual canon of 500 Rthl. Chamber edicts of 23 December 1803 and 24 January 1804 forbid the Oleśnicki hereditary lease; Glenck concealed them. Notes on Swięcia, the Prussiemski compromise at Kowal, Brzyze, and the writer's broken health.",
  "summary_de": "Klage über das Ausbleiben einer Resolution aus Berlin und über Amelangs Säumigkeit; die Chicanen bei der Revision der Taxen führt Triebenfeld auf Prinz George und die General Kalckreuthern zurück, notfalls will er den Landrath revidieren und attestiren lassen. Otochten verspricht 10000 Rthl nebst 2000 Rthl halbjähriger Propinationspacht anticipando, Meierowitz nach Abfindung Honrichs 20000 Rthl bar vor Johanni und 500 Rthl jährlichen Canon; Nachrichten zu Swięcia, Dismembration und Consens. Zum Oelsnicer Contract vom 22. Februar 1804 belastet er Glenck und Landrath v. Blomberg wegen verschwiegener Kammer-Verfügungen vom 23. Dezember 1803 und 24. Januar 1804; ferner Prussiemski-Vergleich im Kowaler Archiv, Brzyze, Ritlach und Floriche sowie eigene Krankheit."
 }

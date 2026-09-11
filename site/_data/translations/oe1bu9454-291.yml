@@ -1,32 +1,117 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince etc.: just now I have again had in my hands the Cabinet Order of the 27th of
-    April, according to which the King has commanded the promptest payment of the 100000 Rthl to Prince
-    August with the utmost dispatch, and has sent it to Kircheisen; on the 6th of May this was made known
-    to Prince August, which he absolutely must have had long since; to this matter [uncertain: nothing
-    whatever stands in the way any longer], and hereby everything is won, unless it be that God had created
-    the good Prince August as a scourge to his father and had struck him with blindness. The compensation
-    matter concerning the affairs of the Polish estates is now decided through the mediation of Minister
-    Humboldt; the how, the when and the where now depends upon the Emperor. Minister Stein has already
-    taken all imaginable pains, and Woronzow and Nesselrode too have knocked at the door, but as yet the
-    Emperor has determined nothing. Stein says: if it does not succeed here, then I shall manage it at
-    Heilbronn. The matter is too important and cannot be let go; 300000 Rthl is no child''s play. With
-    regard to your affair with Cosmar it is commanded that he shall absolutely and at once deposit your
-    monies, failing which he is at once threatened with arrest, and a Chief Superintendent is to be appointed;
-    the matter lies only with the Chancellor,'
+  en: 'Most Serene Prince
+
+
+    p.p.
+
+
+    Just now I have again had in my hands the cabinet order of the 27th of April, according to which the
+    King has commanded the promptest payment of the 100000 Rthl to Prince August with the utmost dispatch,
+    and has sent it to Kircheisen; on the 6th of May this was made known to [uncertain: Prince] August,
+    which he Probsolut must have had long since; nothing whatever stands in the way of this matter any
+    longer, and hereby all is won, unless God had created the good Prince August as a hostage to his father
+    and struck him with blindness. The matter of compensation concerning the affairs of the Polish estates
+    has now been decided through the mediation of Minister Humboldt; the how, the whether and the where
+    now depend upon the Emperor. Minister Stein has already given himself every conceivable trouble, and
+    Worowzow and Nesselrode have also knocked at the door, but the Emperor has as yet determined nothing.
+    Stein says: if it does not go here, then I shall succeed with it at Heilbronn. The matter is too important
+    and cannot be let go of; 300000 Rthl is no child''s play. With regard to your affair with Cosmar it
+    is ordered that he shall Absolutely and at once deposit your monies, failing which he is at once threatened
+    with arrest and a chief overseer is to be appointed; the matter lies only with the Chancellor'
+  names:
+  - de: Kircheisen
+    en: Kircheisen
+    kind: person
+  - de: fürst August
+    en: Prince August
+    kind: person
+  - de: Fürst August
+    en: Prince August
+    kind: person
+  - de: Humboldt
+    en: Humboldt
+    kind: person
+  - de: Stein
+    en: Stein
+    kind: person
+  - de: Worowzow
+    en: Worowzow
+    kind: person
+  - de: Nesselrode
+    en: Nesselrode
+    kind: person
+  - de: Heilbroe
+    en: Heilbronn
+    kind: place
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  numbers:
+  - 27ten
+  - '100000'
+  - '6.'
+  - '300000'
 - page: 2
-  en: 'for signature. As to the further question whether you or the King are to pay the 30000 Rthl, that
-    will be found out in time, if only they no longer sniff out the Hlr. from us — pardon me. Concerning
-    your military affair nothing whatever has yet been said. The Prince Chancellor reserves that whole
-    journal to himself, and therefore nothing is to be learnt or to be [uncertain: divulged/betrayed].
-    The King departs in the night from the 25th to the 26th; he goes still to Berlin and thence directly
-    to Heilbronn; the Prince Chancellor follows him soon. I [uncertain: will] then come to you to see
-    to what remains. Saved you are and will be. The King of Würtemberg plays a great part; the mediatised
-    are laid down in salt — be it then that the times change, for the Crown Prince of Würtemberg is marrying
-    the Princess of Oldenburg; these are singular times. Koppe has been placed in the Hanoverian service;
-    I shall learn from Minister Stein where. Write for Your Serene Highness, so as not to [uncertain:
-    burden] me further, for I depart when Hardenberg and Stein depart; but it would be a sad thing if
-    you sent me no money, as [uncertain: I did] through Adolph Both, for I should not know how I am to
-    get on here. Forever I remain Your Serene Highness''s, Wien, the 24th of May 1815, [uncertain: when]
-    obedient servant v Triebenfeld'
+  en: 'for signature. As for the rest, whether you or the King are to pay the 30000 Rthl will come to
+    light in due course, if they do not scent out the [illegible] from us any more — pardon me.
+
+
+    Concerning your military affair nothing at all has yet been said. The Prince Chancellor ascribes all
+    of that Journal to himself, and therefore nothing is to be learnt or betrayed. The King departs in
+    the night from the 25th to the 26th; he is going still to Berlin and from there straight to Heilbronn;
+    the Prince Chancellor will soon follow him. I shall then [uncertain: come] to you in order to see
+    to the rest; you are saved and will be saved. The King of Württemberg plays a great part; the mediatised
+    are laid in the stocks, unless the times should change, for the Crown Prince of Württemberg is marrying
+    the Princess of Oldenburg — these are peculiar times. Koppe has been appointed in the Hanoverian service;
+    I shall learn from Minister Stein where. Write for Your Serene Highness''s sake, so as not to [uncertain:
+    increase] me, for I depart when Hardenberg and Stein depart. But it would be a sad thing if you sent
+    me no money, as I do through Adolph Both, for I should not know how I am to get away from here. I
+    remain forever Your Serene Highness''s, Vienna, the 24th of May 1815
+
+
+    when obedient servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Heilbronn
+    en: Heilbronn
+    kind: place
+  - de: Würtemberg
+    en: Würtemberg
+    kind: place
+  - de: Oldenburg
+    en: Oldenburg
+    kind: place
+  - de: Koppe
+    en: Koppe
+    kind: person
+  - de: Hanöreischen
+    en: Hanoverian
+    kind: place
+  - de: Stein
+    en: Stein
+    kind: person
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Adolph Both
+    en: Adolph Both
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '30000'
+  - 25t
+  - 26t
+  - 24ten
+  - '1815'

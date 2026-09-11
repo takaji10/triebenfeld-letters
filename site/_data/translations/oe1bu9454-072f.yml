@@ -1,57 +1,144 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most gracious Prince and Lord! Several weeks ago, when I was on the point of travelling to Schlawenschitz
-    with Herr D. Bræckl., word was sent [uncertain: we] to Blizanow that an exorbitant delivery of grain
-    [text lost: "zum" stands without a noun] and straw had been announced upon the Zagorow estates under
-    dreadful threats. I [uncertain: as/how] against this at the Ober-Prefecture at Kalisch received a
-    refusal in answer; I begged that execution should be laid upon the peasants etc. and that a portion
-    of the arrears of interest be brought in, so as to pay for the delivery as well as the dues; this
-    was again refused, with the observation that the inhabitants must be spared, since they likewise had
-    much to deliver, much team-service (Vorspann) to render, and must feed the foreign troops passing
-    through. Scarcely had I received this resolution when I received by express the news that the estates
-    had again been taken under sequestration. I hastened here at once to rescue the estates from the claws
-    of the sequestrator, for the fellow would have reckoned ten times as much again for the victualling
-    of the troops - here many a day 30, 40 and more officers, not counting their men, must be fed gratis
-    by the lordship - and would have carried off no delivery at all. The Siedern sub-prefect had 2000
-    Rthl lying by, which he [uncertain: one] through'
+  en: 'Most gracious Prince and Lord!
+
+
+    Several weeks ago, when I was on the point of travelling to Schlawenschitz with Mr. D. Bræckl., word
+    was sent to us at Blizanow that an exorbitant delivery of grain and straw had been announced upon
+    the Zagorowo estates, under frightful threats. I [uncertain: applied] against this to the Upper Prefecture
+    at Kalisz and received a refusal in answer; I begged that execution be laid upon the peasants etc.
+    and that a part of the arrears of rent be collected in, in order to pay for the delivery as well as
+    the dues; this was again refused with the observation that the inhabitants must be spared, because
+    they likewise have to deliver much, to furnish much carting-service, and to feed the foreign troops
+    passing through. Scarcely had I received this resolution when I received by express the news that
+    the estates had again been taken under sequestration. I hastened here at once to save the estates
+    out of the claws of the sequestrator, for the fellow would have reckoned ten times as much again for
+    the victualling of the troops, where here on many a day
+
+
+    30, 40, or more officers, not counting their men, have to be fed by the lordship for nothing, and
+    would have delivered up no supply at all. The [uncertain: Siedern] sub-prefect had 2000 Rthl lying
+    by, which he wished to [text lost] bring along through'
+  names:
+  - de: Schlawenschitz
+    en: Schlawenschitz
+    kind: place
+  - de: D. Bræckl.
+    en: D. Bræckl.
+    kind: person
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  numbers:
+  - '30'
+  - '40'
+  - '2000'
 - page: 2
-  en: 'wished to bring with him to Schlawenschitz. I begged him therewith to settle the deliveries and
-    to hand over the receipts for them as rent, so that we might only get the sequestration off our necks
-    and save the estates; the noble Brzechsta was at once ready to do so. The sequestrator was recalled
-    some days since and, on account of various proceedings, has been placed under observation. But I had
-    so dreadfully vexed myself over all these adverse events that I fell into a bilious fever; lying wretched
-    with this, I was seized fourteen days ago with the worst podagra in both feet, and now for many weeks
-    I have lain like a [uncertain: Erquilett] under the most raging pains. Daily since [uncertain: Mahn]
-    there is quartering here; often there are 20 officers with their servants to be fed - the day before
-    yesterday, poorly enough, 62 persons to be victualled. The people are coarse; if one does not give,
-    they take everything away by force. The subjects have run off, because they themselves have nothing;
-    the houses stand empty, and if the proprietor will not expose himself to the most frightful maltreatment,
-    and let his cattle, horses and sheep be taken from him, then he must himself provide richly. Some
-    noblemen have been murdered, others regulated with a hundred [illegible] cudgel-blows, one [uncertain:
-    Vod] concealed [uncertain: on the spot] beaten dead'
+  en: 'to Schlawenschitz with him. I begged of him to settle the deliveries out of it and to hand over
+    the receipts for them as rent, so that we might only get the sequestration off our necks and save
+    the estates; the noble Brzechsta was at once ready for this — the sequestrator has these few days
+    been recalled and placed under observation on account of various [uncertain: proceedings]. I, however,
+    had vexed myself so frightfully over all these adverse events that I fell into a bilious fever, and
+    lying wretchedly with it I got, a fortnight ago, the worst gout in both feet, and now lie already
+    many weeks like a [uncertain: Erquilett] under the most raging pains. Daily since [uncertain: March]
+    there is quartering here, often there are 20 officers with their servants to be fed; the day before
+    yesterday, [uncertain: poor me], 62 persons to be fed. The people are coarse; if one does not give,
+    they take everything away by force. The subjects have run off, because they themselves have nothing,
+    the houses stand empty, and if the estate owner will not be exposed to the most terrible maltreatment,
+    and have his cattle, horses and sheep taken from him, then he must provide richly himself. One nobleman
+    they have murdered, others they have regulated with a hundred [uncertain: and more] strokes of the
+    cudgel, one [uncertain: Vod] they hid [text lost] struck dead on the spot'
+  names:
+  - de: Schlawenschitz
+    en: Schlawenschitz
+    kind: place
+  - de: Brzechſta
+    en: Brzechsta
+    kind: person
+  - de: Brzechsta
+    en: Brzechsta
+    kind: person
+  numbers:
+  - '14'
+  - '20'
+  - '62'
 - page: 3
-  en: 'God knows what will come of it and how long this dreadful plague will yet last. - Here all would
-    have been lost, had not the honest Brzechsta helped. I lie wretched, have not a Groschen of money,
-    nowhere to take any from; the subjects even on my own estates have fled and are [uncertain: sipping/creeping]
-    about in the woods, living on herbs and roots. No revenue can be had, since they take everything -
-    drink and horses - away from nobleman and peasant alike; [uncertain: bin] and brandy is not sold,
-    no one has any longer a Groschen to drink away, and what can be brewed and distilled scarcely suffices
-    for the troops. In short, the distress has reached its highest pitch. Until the first of June this
-    scourge of the land is to endure - then I shall treat with the sub-prefect. Nor can anything be given
-    until then, since all the courts of justice are at rest. The Werbizer peasants have gone to Warsaw
-    to the Court of Cassation; I must await the decree. Likewise I am awaiting the decision concerning
-    Olleinue. Once this is decided, [uncertain: Sorrechsta] receives his money against Johann, which is
-    to be paid out to him with 10000 Rthl, and then I shall come at Johanni with him to Your Serene Highness'
+  en: 'God knows what will come of it and how long this frightful plague will yet last — Here all would
+    be lost were it not for the honest Brzechsta. I lie wretched, have not a Groschen of money, nowhere
+    to get any from; the subjects even on my own estates have fled and live in the woods on herbs and
+    roots. Nothing can be brought in, since from nobleman and peasant alike they take away all drink and
+    horses; no brandy is sold, no one has a Groschen more to drink away, and what can be distilled and
+    brewed scarcely suffices for the troops — in short, the distress has reached its highest pitch. This
+    plague of the land is to last until the first of June — then I shall treat with the sub-prefect. Nor
+    can anything be [uncertain: done] until then, for all the courts of justice are at a standstill. The
+    Werbizer peasants have gone to [uncertain: Warenham] to the court of cassation; I must await the decree.
+    Likewise I am awaiting the decision concerning [uncertain: Olleinue]. Once this is decided, Brzechsta
+    will receive his money against Johann, which is to be paid out to him with 10000 Rthl, and then at
+    Midsummer I shall come with him to Your Serene Highness'
+  names:
+  - de: Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Werbizer
+    en: Werbizer
+    kind: place
+  - de: Warenham
+    en: Warenham
+    kind: place
+  - de: Olleinue
+    en: Olleinue
+    kind: other
+  - de: Johann
+    en: Johann
+    kind: person
+  numbers:
+  - '10000'
 - page: 4
-  en: 'we shall bring what ready money is possible with us; concerning the [uncertain: c] matter Your
-    Serene Highness will learn nothing further. More [uncertain: herinaden] I am loath [uncertain: to
-    write] - the distress is boundless. I suffer the greatest of it with my children. I have had to employ
-    every means to save the estates for myself, for they would have been lost for good had the worthy
-    sequestrator kept his hold in them. As soon as this [uncertain: house] plague of the land ceases and
-    I am restored to health I shall [uncertain: act], and I hope to God that, however frightful everything
-    looks, I shall nevertheless preserve all and remove the distress. It is in the deepest reverence that
-    I, Respective, remain, until death, Your Serene Highness''s - Honrichs will probably be arrested one
-    of these days. He was patented, as far as over the estates here - but has embezzled dues and committed
-    other frauds. Your Serene [text lost] will forgive my scrawl; I have had to spend some 4 hours over
-    it. Kopoyno, the 22nd of May 1812, most humble and obedient servant v Triebenfeld'
+  en: 'we shall bring what ready money is possible; concerning the matter Your Serene Highness will learn
+    nothing further. More to write of I am very [uncertain: loth] — the distress is boundless. I suffer
+    the greatest of it with my children. I have had to employ every means to save the estates for myself,
+    for they would have been lost for ever had the worthy sequestrator maintained himself in them. As
+    soon as this plague of the land ceases and I am restored to health I shall [uncertain: act], and I
+    hope to God that, however dreadful everything looks, I shall nevertheless preserve all and remove
+    the distress. It is in the deepest reverence that I, respectfully, remain, until death,
+
+
+    Your Serene Highness''s — Honrichs will most likely be arrested one of these days. He was patented
+    far beyond the estates here — but has embezzled dues and committed other frauds. Forgive, Your Serene
+    Highness,
+
+
+    my scrawl
+
+
+    I have had to spend some 4 hours
+
+
+    in getting it down.
+
+
+    Kopojno
+
+
+    22nd May 1812  most humble and obedient servant v. Triebenfeld'
+  names:
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Kopojno
+    en: Kopojno
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '4'
+  - '22'
+  - '1812'

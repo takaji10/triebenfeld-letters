@@ -78,16 +78,114 @@
    "doc_line": 13
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "kunckel",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckel",
+   "surface_en": "Kunckel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kunkel",
+   "kind": "person",
+   "surface_de": "Kunkel",
+   "surface_en": "Kunkel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopoyno",
+   "surface_en": "Kopojno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Skokum",
+   "kind": "place",
+   "surface_de": "Skokum",
+   "surface_en": "Skokum",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiątniki",
+   "surface_en": "Swiątniki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Your Most Serene Highness, I herewith submit the reply to the aforesaid Kunckel; may Your Highness be pleased to look it over, whether it accords with Your Highness's will and intention. At the same time I beg that someone be permitted to make fair copies of the two letters, for I am as though crushed, and, since my good wife is being laid to rest today, I have withdrawn with the children to my brother-in-law's. In my letter which I send along with Kunkel's, I shall set everything out thoroughly still — I must first try to collect myself somewhat. A map of Kopoyno Skokum and Swiątniki I have here. v Triebenfeld. Breslau, the 24th of April 1804. To His Most Serene Highness."
+   "en": "To Your Most Serene Highness I herewith submit the reply to the aforesaid Kunckel; may Your Highness be pleased to look it over as to whether it accords with Your Highness's will and meaning. At the same time I beg that someone be permitted to make fair copies of the two letters, for I am as though crushed, and, since my good wife is being laid to rest today, I have withdrawn with the children to my brother-in-law's.\n\nIn my letter, which I am sending along with Kunkel's, I shall set out everything thoroughly once more — I must first seek to collect myself somewhat. A map of Kopojno, Skokum and Swiątniki I have here. v Triebenfeld\n\nBreslau, 24th April 1804\n\nTo His Most Serene\n\nHighness",
+   "names": [
+    {
+     "de": "Kunckel",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Kunkel",
+     "en": "Kunkel",
+     "kind": "person"
+    },
+    {
+     "de": "Kopoyno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Skokum",
+     "en": "Skokum",
+     "kind": "place"
+    },
+    {
+     "de": "Swiątniki",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "24ten",
+    "1804"
+   ]
   }
  ],
- "text_english": "Your Most Serene Highness, I herewith submit the reply to the aforesaid Kunckel; may Your Highness be pleased to look it over, whether it accords with Your Highness's will and intention. At the same time I beg that someone be permitted to make fair copies of the two letters, for I am as though crushed, and, since my good wife is being laid to rest today, I have withdrawn with the children to my brother-in-law's. In my letter which I send along with Kunkel's, I shall set everything out thoroughly still — I must first try to collect myself somewhat. A map of Kopoyno Skokum and Swiątniki I have here. v Triebenfeld. Breslau, the 24th of April 1804. To His Most Serene Highness.",
+ "text_english": "To Your Most Serene Highness I herewith submit the reply to the aforesaid Kunckel; may Your Highness be pleased to look it over as to whether it accords with Your Highness's will and meaning. At the same time I beg that someone be permitted to make fair copies of the two letters, for I am as though crushed, and, since my good wife is being laid to rest today, I have withdrawn with the children to my brother-in-law's.\n\nIn my letter, which I am sending along with Kunkel's, I shall set out everything thoroughly once more — I must first seek to collect myself somewhat. A map of Kopojno, Skokum and Swiątniki I have here. v Triebenfeld\n\nBreslau, 24th April 1804\n\nTo His Most Serene\n\nHighness",
  "summary_en": "Encloses a draft reply to Kunckel for the Prince's approval, asking that fair copies of the two letters be made by someone else: the writer is crushed by grief, his wife being buried that day, and he has withdrawn with the children to his brother-in-law's house. He promises to set out the whole matter thoroughly in his own accompanying letter once he has collected himself, and notes that he holds a map of Kopojno, Skokum and Swiątniki.",
  "summary_de": "Übersandt wird der Entwurf einer Antwort an Kunckel mit der Bitte um fürstliche Prüfung, ob er dem Willen des Fürsten entspreche, sowie um Anfertigung von Reinschriften der beiden Schreiben durch einen Dritten. Triebenfeld entschuldigt seine Verfassung: seine Frau wird an diesem Tage beerdigt, er hat sich mit den Kindern zu seinem Schwager zurückgezogen. Ausführlichere Darlegung wird in einem beiliegenden Schreiben angekündigt; eine Karte von Kopojno, Skokum und Swiątniki liege ihm vor."
 }

@@ -136,20 +136,191 @@
    "doc_line": 37
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "kunckel",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckel",
+   "surface_en": "Kunckel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nerlich",
+   "kind": "person",
+   "surface_de": "Nerlich",
+   "surface_en": "Nerlich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorow",
+   "kind": "place",
+   "surface_de": "Zagorow",
+   "surface_en": "Zagorow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nerlich",
+   "kind": "person",
+   "surface_de": "Nerlich",
+   "surface_en": "Nerlich",
+   "page": 2
+  },
+  {
+   "entity": "kunckel",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckel",
+   "surface_en": "Kunckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Walichnowski",
+   "kind": "person",
+   "surface_de": "Walichnowski",
+   "surface_en": "Walichnowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Urbanowski",
+   "kind": "person",
+   "surface_de": "Urbanowski",
+   "surface_en": "Urbanowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbcziner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! This very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica. The people are willing to pay 1500 Rthl, but in return wish to have a contract executed. I have sounded out the men and sought to examine whence they mean to take the monies for payment of the 17000 Rthl at Martinmas and Midsummer. They are, so far as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will be landed in endless lawsuits. Should Your Most Serene Highness nevertheless command that a contract be entered into with these people, notwithstanding these gloomy prospects, then I shall have the contract drawn up and hold them off until Your Highness's most exalted return. For the rest, I have already brought Kunckel to such a disposition that he will let the matter be turned in whatever way shall be most conformable to Your Most Serene Highness's interest. Kunckel has a commission from a certain Head Bailiff Nerlich, that he is to procure for him Trąbczin or Zagorow in hereditary lease."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAt this very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica.\n\nThe people are willing to pay 1500 Rthl, but on condition that a contract be executed.\n\nI have [uncertain: sounded out] these persons and sought to examine where they mean to take the monies for the payment of the 17000 Rthl at Martinmas and Midsummer. They are, as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.\n\nShould Your Most Serene Highness nevertheless command that, despite these gloomy prospects, a contract is to be concluded with these people, I shall have the contract drawn up and shall hold them until Your Highness's most exalted return. For the rest, I have already disposed Kunckel so that he will let the matter be turned as will be most suitable to Your Most Serene Highness's interest.\n\nKunckel has a commission from a certain chief district steward Nerlich, that he is to procure for him Trąbczyn or Zagorow on hereditary lease.",
+   "names": [
+    {
+     "de": "Kunckel",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Nerlich",
+     "en": "Nerlich",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorow",
+     "en": "Zagorow",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2",
+    "1500",
+    "17000"
+   ]
   },
   {
    "page": 2,
-   "en": "This Nerlich has for this purchase 80000 Rthl in cash, which he can pay out in full within one year. Kunckel is willing to effect this, in order thereby to earn more than with the colonists. May Your Most Serene Highness only be pleased most graciously to instruct me how I am to handle the matter. Walichnowski has written just now, and wishes to know in detail what he is to give, so that he may incur no unnecessary travelling expenses. Otherwise, however, a certain Urbanowski has sent by express for the Trąbczin valuation. He promises certainly to come and to bring a good deal of money with him at once — should he come sooner than Walichnowski, I shall conclude with him according to the instruction given me. In deepest respect I remain, until death, Your Most Serene Highness's Breslau, the 10th February 1804. most faithful servant v Triebenfeld"
+   "en": "This Nerlich has for this purchase 80000 Rthl in cash, which he can pay out in full within one year.\n\nKunckel is willing to bring this about, in order to earn more thereby than with the colonists.\n\nMay Your Most Serene Highness only most graciously instruct me how I am to handle the matter.\n\nWalichnowski has just now written; he wishes to know in detail what he is to give, so that he may not incur unnecessary travel expenses. But apart from that, a certain Urbanowski has sent by express for the Trąbczyn valuation. He promises certainly to come and to bring a good deal of money with him at once — should he come sooner than Walichnowski, I shall conclude with him according to the instruction given me.\n\nIn [uncertain: dearest] respect I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 10th of February 1804.\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Nerlich",
+     "en": "Nerlich",
+     "kind": "person"
+    },
+    {
+     "de": "Kunckel",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Walichnowski",
+     "en": "Walichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Urbanowski",
+     "en": "Urbanowski",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbcziner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "80000",
+    "10ten",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! This very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica. The people are willing to pay 1500 Rthl, but in return wish to have a contract executed. I have sounded out the men and sought to examine whence they mean to take the monies for payment of the 17000 Rthl at Martinmas and Midsummer. They are, so far as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will be landed in endless lawsuits. Should Your Most Serene Highness nevertheless command that a contract be entered into with these people, notwithstanding these gloomy prospects, then I shall have the contract drawn up and hold them off until Your Highness's most exalted return. For the rest, I have already brought Kunckel to such a disposition that he will let the matter be turned in whatever way shall be most conformable to Your Most Serene Highness's interest. Kunckel has a commission from a certain Head Bailiff Nerlich, that he is to procure for him Trąbczin or Zagorow in hereditary lease.\n\nThis Nerlich has for this purchase 80000 Rthl in cash, which he can pay out in full within one year. Kunckel is willing to effect this, in order thereby to earn more than with the colonists. May Your Most Serene Highness only be pleased most graciously to instruct me how I am to handle the matter. Walichnowski has written just now, and wishes to know in detail what he is to give, so that he may incur no unnecessary travelling expenses. Otherwise, however, a certain Urbanowski has sent by express for the Trąbczin valuation. He promises certainly to come and to bring a good deal of money with him at once — should he come sooner than Walichnowski, I shall conclude with him according to the instruction given me. In deepest respect I remain, until death, Your Most Serene Highness's Breslau, the 10th February 1804. most faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAt this very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica.\n\nThe people are willing to pay 1500 Rthl, but on condition that a contract be executed.\n\nI have [uncertain: sounded out] these persons and sought to examine where they mean to take the monies for the payment of the 17000 Rthl at Martinmas and Midsummer. They are, as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.\n\nShould Your Most Serene Highness nevertheless command that, despite these gloomy prospects, a contract is to be concluded with these people, I shall have the contract drawn up and shall hold them until Your Highness's most exalted return. For the rest, I have already disposed Kunckel so that he will let the matter be turned as will be most suitable to Your Most Serene Highness's interest.\n\nKunckel has a commission from a certain chief district steward Nerlich, that he is to procure for him Trąbczyn or Zagorow on hereditary lease.\n\nThis Nerlich has for this purchase 80000 Rthl in cash, which he can pay out in full within one year.\n\nKunckel is willing to bring this about, in order to earn more thereby than with the colonists.\n\nMay Your Most Serene Highness only most graciously instruct me how I am to handle the matter.\n\nWalichnowski has just now written; he wishes to know in detail what he is to give, so that he may not incur unnecessary travel expenses. But apart from that, a certain Urbanowski has sent by express for the Trąbczyn valuation. He promises certainly to come and to bring a good deal of money with him at once — should he come sooner than Walichnowski, I shall conclude with him according to the instruction given me.\n\nIn [uncertain: dearest] respect I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 10th of February 1804.\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports that a certain Kunckel has appeared with two colonists from Olesnica offering 1500 Rthl against a contract, but judges them soldiers of fortune unlikely to raise the 17000 Rthl due at Martinmas and Midsummer and sure to bring lawsuits; awaits the Prince's orders before drawing up any contract. Kunckel is also commissioned by chief district steward Nerlich, who has 80000 Rthl in cash, to obtain Trąbczyn or Zagorow on hereditary lease. Walichnowski seeks terms, while Urbanowski has requested the Trąbczyn valuation.",
  "summary_de": "Bericht über Kaufinteressenten: Ein gewisser Kunckel erschien mit 2 Colonisten aus Oels, die 1500 Rthl zu zahlen bereit sind, sofern ein Contract errichtet wird; Triebenfeld hält sie für Glücksritter ohne Mittel für die 17000 Rthl auf Martini und Johanni und erwartet Prozesse. Kunckel habe zudem Auftrag des Oberamtmanns Nerlich, ihm Trąbczyn oder Zagorow in Erbpacht zu verschaffen, wofür 80000 Rthl bar binnen Jahresfrist bereitstünden. Walichnowski erbittet nähere Bedingungen, Urbanowski verlangt per Estafette die Trąbczyner Taxe; Bitte um Instruction."
 }

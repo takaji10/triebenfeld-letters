@@ -92,16 +92,114 @@
    "doc_line": 26
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Hoym",
+   "surface_en": "Hoym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mo-",
+   "kind": "person",
+   "surface_de": "Mo-",
+   "surface_en": "Mo-",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! Presumably Your Most Serene Highness will already have received my letter, which I yesterday gave to Herr Captain and Hahn to carry. – Besides this, in which I have said everything, I only add further that Minister Hoym has returned from Potsdam quite content, where, according to the assurance of another man, various things were spoken of concerning Your Serene Highness. It is hereby confirmed that the good Mo- truly esteems you, and in this respect I hope, indeed it must be, that everything will go according to wish. Today there is a great deal of talk here of marches or war – I do not yet believe in it, for the monarch holds too firmly to his principles, and maintains his honestly good intentions. From His Excellency Herr von Voss nothing has yet come back. May Heaven govern his heart, that he may not act against the King's interest and against Your Serene Highness's peace of mind. In deepest reverence I remain, until death, Your Most Serene Highness's Berlin, the 9th of October 1798. most faithful servant v. Triebenfeld"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nPresumably Your Most Serene Highness will already have received my letter, which I gave yesterday to Captain and Hahn. – Besides that letter, in which I said everything, I add only this further, that Minister Hoym has returned from Potsdam quite well pleased, where, according to the assurance of another man, various matters concerning Your Serene Highness were spoken of. It is herewith confirmed that the good Mo- truly esteems you, and in this regard I hope, indeed everything must go as one would wish. Today there is a great deal of talk here of marches or of war – I do not yet believe in it, for the Monarch holds too firmly to his principles, and maintains his honest good intentions. From His Excellency Herr von Voss nothing has yet come back. May Heaven govern his heart, that he may not act against the King's interest and against Your Serene Highness's peace of mind.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 9th of October\n\n1798.\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Hoym",
+     "en": "Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Mo-",
+     "en": "Mo-",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "9ten",
+    "1798"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! Presumably Your Most Serene Highness will already have received my letter, which I yesterday gave to Herr Captain and Hahn to carry. – Besides this, in which I have said everything, I only add further that Minister Hoym has returned from Potsdam quite content, where, according to the assurance of another man, various things were spoken of concerning Your Serene Highness. It is hereby confirmed that the good Mo- truly esteems you, and in this respect I hope, indeed it must be, that everything will go according to wish. Today there is a great deal of talk here of marches or war – I do not yet believe in it, for the monarch holds too firmly to his principles, and maintains his honestly good intentions. From His Excellency Herr von Voss nothing has yet come back. May Heaven govern his heart, that he may not act against the King's interest and against Your Serene Highness's peace of mind. In deepest reverence I remain, until death, Your Most Serene Highness's Berlin, the 9th of October 1798. most faithful servant v. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nPresumably Your Most Serene Highness will already have received my letter, which I gave yesterday to Captain and Hahn. – Besides that letter, in which I said everything, I add only this further, that Minister Hoym has returned from Potsdam quite well pleased, where, according to the assurance of another man, various matters concerning Your Serene Highness were spoken of. It is herewith confirmed that the good Mo- truly esteems you, and in this regard I hope, indeed everything must go as one would wish. Today there is a great deal of talk here of marches or of war – I do not yet believe in it, for the Monarch holds too firmly to his principles, and maintains his honest good intentions. From His Excellency Herr von Voss nothing has yet come back. May Heaven govern his heart, that he may not act against the King's interest and against Your Serene Highness's peace of mind.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 9th of October\n\n1798.\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Follows up a letter sent the previous day by Herr Captain and Hahn, reporting that Minister Hoym has returned from Potsdam well satisfied, where matters touching the Prince were discussed, and that the monarch genuinely esteems him, so that all should go as wished. Discounts the current Berlin talk of marches or war, the King holding firmly to his principles. Nothing yet received back from His Excellency Herr von Voss.",
  "summary_de": "Nachtrag zu dem tags zuvor durch Herrn Capitain und Hahn übersandten Schreiben: Minister Hoym sei zufrieden aus Potsdam zurückgekehrt, wo nach Versicherung eines Dritten mehrfach von den Angelegenheiten des Fürsten die Rede gewesen sei; der Monarch schätze ihn wahrhaft, so daß alles nach Wunsch gehen werde. Vom Gerede über Märsche oder Krieg hält Triebenfeld nichts, da der König an seinen Grundsätzen festhalte. Von der Excellenz Herrn von Voss steht eine Antwort noch aus."
 }

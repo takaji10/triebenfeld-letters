@@ -1,36 +1,64 @@
 status: draft
 segments:
 - page: 1
-  en: 'Your Honour, most particularly highly to be revered Sir, Councillor of Building and Economy,
+  en: 'Your Honour, most particularly highly honoured Sir, Councillor of Building and Economy. The miller
+    Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes, to this
+    end, to settle the particulars with Your Honour in Kalisz. He has also duly received the aforesaid
+    25 Rthl.
 
 
-    The miller Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes,
-    to this end, to settle the particulars with Your Honour at Kalisch. He has also duly received the
-    aforesaid 25. Rthl.
-
-
-    On this occasion he further brought along with him to the spot 2 men for the taking-up of some land;
-    these were for now put off until further on, and assured that as soon as an end should have been made
-    with Trąbczyn and with Herr v. Szucki they too should be put in possession of all the land [text lost]'
+    On this occasion he also brought along with him 2 more men to take up some land; these have now been
+    put off with hopes until a later time, and assured that as soon as an end should have been made with
+    Trąbczyn and Mr. von Szucki, they too would obtain possession of all the land in'
+  names:
+  - de: Luka
+    en: Luka
+    kind: person
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: H. v. Szucki
+    en: Mr. von Szucki
+    kind: person
+  numbers:
+  - '25'
+  - '2'
 - page: 2
-  en: 'possession; but until then they must yet have patience. Concerning the withdrawal-payment of the
-    said v. Szucki, may Your Honour have the goodness to report this to the Royal Government, and, if
-    in addition to the 1000. Rthl which the community is willing to give, something might be furnished
-    thereto by His Serene Highness, inasmuch as the same would be made good again within 10. days, and
+  en: 'possession, but until then they would have to be patient a while longer. Concerning the withdrawal-payment
+    of Mr. von Szucki, may Your Honour have the kindness to report this to the Royal Government, and also,
+    if something over and above the 1000 Rthl which the community is willing to give might be contributed
+    toward it by His Serene Highness, inasmuch as the same would be made good again within 10 days, and
     thereafter there would be quiet and peace within the community. Your Honour can yourself perceive
-    how by now the piquancy of v. Szucki towards the subjects is ever increasing through the offer of
-    the 1000. Rthl withdrawal-payment; for which the poor people will have to suffer.
+    how the pointed provocation of von Szucki upon the subjects is now increasing ever more through the
+    offer of the 1000 Rthl withdrawal-payment; so that the poor people will have to suffer for it.
 
 
-    For the rest we most obediently beg that Your Honour be most graciously pleased to let further orders
-    of conduct come to us by the said Luke: as to what we are to do and to leave undone, both in respect
-    of such further people as may yet come who might come to possession of land with money, and also concerning
-    v. Szucki''s mind as to'
+    For the rest we beg most obediently that Your Honour be graciously pleased to let us have, through
+    the said Luke, closer instructions as to our conduct: what we are to do and to leave undone, both
+    with regard to such further men as may yet come, who might come into possession of land with money,
+    and also with regard to von Szucki''s mind as to'
+  names:
+  - de: p. v. Szucki
+    en: Mr. von Szucki
+    kind: person
+  - de: v. Szucki
+    en: von Szucki
+    kind: person
+  - de: p. Luke
+    en: Luke
+    kind: person
+  numbers:
+  - '1000'
+  - '10'
+  - '1000'
 - page: 3
-  en: 'his withdrawal-payment. We shall assuredly do our best therein.
+  en: 'his withdrawal. We shall assuredly do our best in the matter.
 
 
-    We who for the rest have the honour to remain, with high esteem,
+    We who otherwise have the honour to remain, with high respect,
 
 
     Your Honour''s
@@ -39,16 +67,27 @@ segments:
     P. S.
 
 
-    The joiner, who likewise wished to dwell in Szetlewek, out of desperation — finding himself wholly
-    consternated — has straightway bought a house in Zagorowo and means to remain living here also.
+    The joiner who likewise wished to dwell in Szetlewek has, out of desperation, being wholly consternated,
+    at once bought a house in Zagorowo and intends also to remain living here. Zagorowo,
 
 
-    Zagorowo, the 16th April 1799.
-
-
-    most obedient servants
-
-    Titz
+    the 16th of April 1799. Most obedient servants Titz
 
 
     Bancke'
+  names:
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Titz
+    en: Titz
+    kind: person
+  - de: Bancke
+    en: Bancke
+    kind: person
+  numbers:
+  - '16'
+  - '1799'

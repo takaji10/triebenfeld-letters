@@ -183,20 +183,333 @@
    "doc_line": 50
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Countess Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Gräfin Schlabrendorff",
+   "surface_en": "Countess Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "councillor of justice Bucholz",
+   "kind": "person",
+   "surface_de": "Justiz Rath Bucholz",
+   "surface_en": "councillor of justice Bucholz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Bredow",
+   "kind": "person",
+   "surface_de": "von Bredow",
+   "surface_en": "von Bredow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister von Stein",
+   "kind": "person",
+   "surface_de": "Minister v Stein",
+   "surface_en": "Minister von Stein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schwammern",
+   "kind": "place",
+   "surface_de": "Schwammern",
+   "surface_en": "Schwammern",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowskische",
+   "surface_en": "Grotowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koschentin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koschentin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wulffs",
+   "kind": "person",
+   "surface_de": "Wulffen",
+   "surface_en": "Wulffs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Tismar, privy councillor",
+   "kind": "person",
+   "surface_de": "Geheime Rath v Tismar",
+   "surface_en": "von Tismar, privy councillor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nathusius",
+   "kind": "person",
+   "surface_de": "Nathusius",
+   "surface_en": "Nathusius",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface_de": "Magdeburg",
+   "surface_en": "Magdeburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreußische",
+   "surface_en": "South Prussian",
+   "page": 2
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! An unforeseen occurrence made it necessary that, after Your Serene Highness's departure from Berlin, I had to hasten very quickly to Zagorowo, because the peasants had once again raised an insurrection and would not permit the separation of the lands in the interior. This matter is now indeed settled and entirely [uncertain: arranged]; meanwhile the King, however much I hastened back hither, had departed before I returned, and since my patron was, as is natural, gone away with him, he/I could no longer reckon upon this fund. I had therefore to strike out upon other paths in order to obtain the money for Weigel, for the Countess Schlabrendorff, and for Your Serene Highness. This has now only today been assured through the Justice Councillor Bucholz. This man manages the affairs of a certain von Bredow, who has 80000 Rthl lying with the Seehandlung here, which he has ordered to be placed elsewhere (since the Minister v Stein, His Excellency, would now give only 3 pl.). Herr Bucholz has arranged the matter thus: Upon Kontop there are given, against cession of 2 mortgages, 30000 Rthl; upon Schwammern 20000; upon Trąbczin, for the Grotowski mortgage which Weigel holds, 30000. Of this there are to be paid — being 80000 Rthl: To the Countess Schlabrendorff the 25000 still coming to her; to Weigel the 25000 still due to him; to Hahn, as assistance in Koschentin, 5000; to Your Serene Highness in cash 5000. I take for myself, for payment of the Wulffs, 30000 — 80000 Rthl. In return,"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nAn unforeseen occurrence made it necessary that, after Your Serene Highness's departure from Berlin, I had to hasten very swiftly to Zagorowo, because the peasants had once again stirred up a revolt and would not allow the separation of the grounds in the interior. This matter has now indeed been settled and entirely arranged; meanwhile, however much I hastened back here again, the King had departed before I returned, and since my patron, as was natural, had gone off with him, he could not count any longer upon that fund. I therefore had to take other courses in order to obtain the money for Weigel, for the Countess Schlabrendorff, and for Your Serene Highness. This has only now, today, been assured through the councillor of justice Bucholz. This man conducts the affairs of a certain von Bredow who has 80000 Rthl lying with the maritime trading company here, which he has ordered to be placed elsewhere / since the Minister von Stein, His Excellency, now wishes to give only 3 per cent /.\n\nHerr Bucholz has [uncertain: arranged] the matter thus: upon Kontop, against cession of two mortgages, there are to be given 30000 Rthl; upon Schwammern 20000; upon Trąbczyn, for the Grotowski mortgage which Weigel holds, 30000. Of this there are to be paid, being 80000 Rthl: to the Countess Schlabrendorff the 25000 still coming to her; to Weigel the 25000 still due to him.\n\nTo Hahn, as assistance in Koschentin, 5000.\n\nTo Your Serene Highness in cash, 5000.\n\nI take for myself, for the payment of the Wulffs, 30000 — 80000 Rthl — whereas",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Gräfin Schlabrendorff",
+     "en": "Countess Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Justiz Rath Bucholz",
+     "en": "councillor of justice Bucholz",
+     "kind": "person"
+    },
+    {
+     "de": "von Bredow",
+     "en": "von Bredow",
+     "kind": "person"
+    },
+    {
+     "de": "Minister v Stein",
+     "en": "Minister von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Schwammern",
+     "en": "Schwammern",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Grotowskische",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koschentin",
+     "kind": "place"
+    },
+    {
+     "de": "Wulffen",
+     "en": "Wulffs",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "80000",
+    "3",
+    "30000",
+    "20000",
+    "30000",
+    "80000",
+    "25000",
+    "25000",
+    "5000",
+    "5000",
+    "30000",
+    "80000"
+   ]
   },
   {
    "page": 2,
-   "en": "in return Your Serene Highness will then give me a note or mortgage for 30000 Rthl, being as much as I raise upon my own estates for Your Highness's behalf! Next to this, the Privy Councillor v Tismar is pursuing with the wealthy house of Nathusius at Magdeburg a negotiation, in which he thinks first of a capital of 360000 Rthl upon the whole of the South Prussian estates. With this all debts are then to be paid, and the mortgage of 250000 Rthl refused with Oppenheimer at 90000 fl is in particular to be redeemed and [uncertain: cancelled]. When all this has been seen to and brought into order, then I myself [text lost] to Your Serene Highness and bring you the moneys or good orders to pay. With the sale of the lands it goes somewhat slowly, on account of the warlike events; meanwhile Honrichs writes to me yesterday that once again several purchasers had come forward who would buy at the newer fixed prices. Once this matter is properly under way at the new higher prices, then — since all hindrances are now removed — much money will be brought together, and an end will be made of all cares. May God grant Your Serene Highness the most lasting health, and bestow upon you (when it comes to blows) victory. This is the one most heartfelt wish of Your Most Serene Highness's\nBerlin, the 28th of Septbr.  faithful and most obedient servant\n1806.  v Triebenfeld"
+   "en": "whereas Your Serene Highness will then give me a certificate or mortgage for 30000 Rthl, as being the amount which I am raising on my own estates on Her/His Highness's behalf! Next to this, the privy councillor von Tismar is pursuing, together with the wealthy house of Nathusius at Magdeburg, a negotiation in which he intends, in the first place, a capital of 360000 Rthl upon the whole of the South Prussian estates. With this all the debts are to be paid, and the mortgage of 250000 Rthl refused with Oppenheimer at 90000 fl is to be redeemed and cancelled in particular; and when all this has been attended to and brought to a clear footing, then I myself [will come] to Your Serene Highness and bring you the monies or good orders to pay. With the sale of the grounds matters go somewhat slowly amid the warlike events; in the meantime Honrichs writes to me yesterday that once again several purchasers had come forward who would buy at the newly fixed prices. Once this business is properly under way on account of the new higher prices, then, since all obstacles are now removed, much money will be brought together and all cares will be brought to an end.\n\nMay God grant Your Serene Highness the most lasting health and give you (when it comes to blows) victory. This is the one most heartfelt wish of Your Most Serene Highness's\n\nBerlin, the 28th of September\n\nmost faithful and obedient servant\n\n1806.\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Geheime Rath v Tismar",
+     "en": "von Tismar, privy councillor",
+     "kind": "person"
+    },
+    {
+     "de": "Nathusius",
+     "en": "Nathusius",
+     "kind": "person"
+    },
+    {
+     "de": "Magdeburg",
+     "en": "Magdeburg",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreußische",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30000",
+    "360000",
+    "250000",
+    "90000",
+    "28",
+    "1806"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! An unforeseen occurrence made it necessary that, after Your Serene Highness's departure from Berlin, I had to hasten very quickly to Zagorowo, because the peasants had once again raised an insurrection and would not permit the separation of the lands in the interior. This matter is now indeed settled and entirely [uncertain: arranged]; meanwhile the King, however much I hastened back hither, had departed before I returned, and since my patron was, as is natural, gone away with him, he/I could no longer reckon upon this fund. I had therefore to strike out upon other paths in order to obtain the money for Weigel, for the Countess Schlabrendorff, and for Your Serene Highness. This has now only today been assured through the Justice Councillor Bucholz. This man manages the affairs of a certain von Bredow, who has 80000 Rthl lying with the Seehandlung here, which he has ordered to be placed elsewhere (since the Minister v Stein, His Excellency, would now give only 3 pl.). Herr Bucholz has arranged the matter thus: Upon Kontop there are given, against cession of 2 mortgages, 30000 Rthl; upon Schwammern 20000; upon Trąbczin, for the Grotowski mortgage which Weigel holds, 30000. Of this there are to be paid — being 80000 Rthl: To the Countess Schlabrendorff the 25000 still coming to her; to Weigel the 25000 still due to him; to Hahn, as assistance in Koschentin, 5000; to Your Serene Highness in cash 5000. I take for myself, for payment of the Wulffs, 30000 — 80000 Rthl. In return,\n\nin return Your Serene Highness will then give me a note or mortgage for 30000 Rthl, being as much as I raise upon my own estates for Your Highness's behalf! Next to this, the Privy Councillor v Tismar is pursuing with the wealthy house of Nathusius at Magdeburg a negotiation, in which he thinks first of a capital of 360000 Rthl upon the whole of the South Prussian estates. With this all debts are then to be paid, and the mortgage of 250000 Rthl refused with Oppenheimer at 90000 fl is in particular to be redeemed and [uncertain: cancelled]. When all this has been seen to and brought into order, then I myself [text lost] to Your Serene Highness and bring you the moneys or good orders to pay. With the sale of the lands it goes somewhat slowly, on account of the warlike events; meanwhile Honrichs writes to me yesterday that once again several purchasers had come forward who would buy at the newer fixed prices. Once this matter is properly under way at the new higher prices, then — since all hindrances are now removed — much money will be brought together, and an end will be made of all cares. May God grant Your Serene Highness the most lasting health, and bestow upon you (when it comes to blows) victory. This is the one most heartfelt wish of Your Most Serene Highness's\nBerlin, the 28th of Septbr.  faithful and most obedient servant\n1806.  v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nAn unforeseen occurrence made it necessary that, after Your Serene Highness's departure from Berlin, I had to hasten very swiftly to Zagorowo, because the peasants had once again stirred up a revolt and would not allow the separation of the grounds in the interior. This matter has now indeed been settled and entirely arranged; meanwhile, however much I hastened back here again, the King had departed before I returned, and since my patron, as was natural, had gone off with him, he could not count any longer upon that fund. I therefore had to take other courses in order to obtain the money for Weigel, for the Countess Schlabrendorff, and for Your Serene Highness. This has only now, today, been assured through the councillor of justice Bucholz. This man conducts the affairs of a certain von Bredow who has 80000 Rthl lying with the maritime trading company here, which he has ordered to be placed elsewhere / since the Minister von Stein, His Excellency, now wishes to give only 3 per cent /.\n\nHerr Bucholz has [uncertain: arranged] the matter thus: upon Kontop, against cession of two mortgages, there are to be given 30000 Rthl; upon Schwammern 20000; upon Trąbczyn, for the Grotowski mortgage which Weigel holds, 30000. Of this there are to be paid, being 80000 Rthl: to the Countess Schlabrendorff the 25000 still coming to her; to Weigel the 25000 still due to him.\n\nTo Hahn, as assistance in Koschentin, 5000.\n\nTo Your Serene Highness in cash, 5000.\n\nI take for myself, for the payment of the Wulffs, 30000 — 80000 Rthl — whereas\n\nwhereas Your Serene Highness will then give me a certificate or mortgage for 30000 Rthl, as being the amount which I am raising on my own estates on Her/His Highness's behalf! Next to this, the privy councillor von Tismar is pursuing, together with the wealthy house of Nathusius at Magdeburg, a negotiation in which he intends, in the first place, a capital of 360000 Rthl upon the whole of the South Prussian estates. With this all the debts are to be paid, and the mortgage of 250000 Rthl refused with Oppenheimer at 90000 fl is to be redeemed and cancelled in particular; and when all this has been attended to and brought to a clear footing, then I myself [will come] to Your Serene Highness and bring you the monies or good orders to pay. With the sale of the grounds matters go somewhat slowly amid the warlike events; in the meantime Honrichs writes to me yesterday that once again several purchasers had come forward who would buy at the newly fixed prices. Once this business is properly under way on account of the new higher prices, then, since all obstacles are now removed, much money will be brought together and all cares will be brought to an end.\n\nMay God grant Your Serene Highness the most lasting health and give you (when it comes to blows) victory. This is the one most heartfelt wish of Your Most Serene Highness's\n\nBerlin, the 28th of September\n\nmost faithful and obedient servant\n\n1806.\n\nvon Triebenfeld",
  "summary_en": "Reports a fresh revolt of the Zagorowo peasants against the separation of the interior grounds, now settled, though the resulting absence from Berlin lost the hoped-for fund when the King and Triebenfeld's patron departed. Councillor of justice Bucholz has instead arranged 80000 Rthl from von Bredow's capital, secured on Kontop (30000), Schwammern (20000) and Trąbczyn (30000), to pay Countess Schlabrendorff 25000, Weigel 25000, Hahn 5000 for Koschentin, the Prince 5000 cash and Triebenfeld 30000 for the Wulffs against a mortgage; von Tismar meanwhile negotiates 360000 Rthl with Nathusius of Magdeburg.",
  "summary_de": "Bericht über eine eilige Reise nach Zagorowo, wo die Bauern erneut aufbegehrten und die Separation der Grundstücke verhinderten; die Sache sei beigelegt. Da der König samt Triebenfelds Gönner abgereist war, vermittelte Justizrath Bucholz für den mit 80000 Rthl bei der Seehandlung stehenden von Bredow neue Hypotheken: 30000 auf Kontop, 20000 auf Schwammern, 30000 auf Trąbczyn (Grotowskische Post bei Weigel). Davon 25000 an die Gräfin Schlabrendorff, 25000 an Weigel, 5000 an Hahn nach Koschentin, 5000 bar an den Fürsten, 30000 für die Wulffs gegen Schuldschein. Geheimrath von Tismar verhandelt mit Nathusius in Magdeburg über 360000 Rthl."
 }

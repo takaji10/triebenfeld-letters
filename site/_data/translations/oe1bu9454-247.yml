@@ -1,55 +1,232 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! Palen''s fate too is decided, and for us a more
-    favourable lot has fallen than was believed. For Your Serene Highness there is now nothing that needs
-    to be begged for on the intervening side — [uncertain: Hunt/soon] the affairs of the Empire will doubtless
-    come up before long; what the Privy Councillor Goerch submitted on behalf of the whole House of Hohenlohe
-    follows here in Copy. — His Excellency the Herr Minister von Stumbolt has promised me to support Your
-    Serene Highness''s cause in particular. Upon the piece submitted before me through the Prince State
-    Chancellor''s office, of which I sent the Copy by the last post, His Serene Highness was pleased,
-    at the first report, to express himself most graciously in these words: The money is a trifle, that
-    shall be given, since so much can be gained thereby; but with the Justice department we shall doubtless
-    have much noise on account of the annulment of the Transact, all the more since the old Prince himself
-    approved it. Meanwhile it is remarkable that the deceased Princess Sacken disposed of the revenues
-    of the entailed estates and appointed an executor of the testament, whereas the estates never belonged
-    to her. I have once more set everything out properly, in particular that Cosmar, on account of the
-    old [uncertain: Kering] Princess, in the matter of the Courland loan which the former Princes of Hohenlohe
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    Palen''s fate too has been decided, and for us a more favourable lot has fallen than had been believed.
+    For Your Serene Highness there is now nothing that need be begged for on the intervening side — [uncertain:
+    Jagt] the imperial affairs will doubtless soon come up; of what the Privy Councillor Goerch submitted
+    on behalf of the whole House of Hohenlohe a Copy follows here – His Excellency the Minister von Stumbolt
+    has promised me to support Your Serene Highness''s cause in particular. Upon the piece submitted before
+    me through the Prince State Chancellor''s office, of which I sent the Copy by the last post, His Serene
+    Highness at the first report was graciously pleased to express himself in these words: The money is
+    a trifle, it should be given, since so much can be obtained thereby; but with the judiciary we shall
+    no doubt get much noise on account of the annulment of the settlement, all the more since the old
+    Prince himself approved it. Meanwhile it is remarkable that the deceased F. Sachen disposed of the
+    revenues of the entailed estates, and appointed an executor of the testament — the estates never belonged
+    to her at all. I have once more set the whole matter out properly, and in particular that Cosmar,
+    on account of the old [illegible] Princess, over the Courland loan which the former Princes of Hohenlohe
     co-signed, drove her to despair and brought her to the point that, on the brink of the grave, she
-    set her cross beneath the false Transact forged by Cosmar, and allowed it to happen that so many debts
-    were entered therein, whereby all the other creditors were to be pushed back. I maintain that the
-    old Princess, after her death, could not have had the least share in'
+    signed with a cross the false settlement forged by Cosmar, and allowed it to happen that so many debts
+    were entered therein, whereby all the other creditors were to be pushed back.
+
+
+    I maintain that the old Princess after her death could not have had the least share in'
+  names:
+  - de: Palens
+    en: Palen's
+    kind: person
+  - de: Goerch
+    en: Goerch
+    kind: person
+  - de: Hohenlohe
+    en: Hohenlohe
+    kind: other
+  - de: von Stumbolt
+    en: von Stumbolt
+    kind: person
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Kering[?]
+    en: '[illegible]'
+    kind: person
+  - de: F. Sachen
+    en: F. Sachen
+    kind: person
+  - de: Fürsten hohenlohn
+    en: Princes of Hohenlohe
+    kind: other
+  - de: Curische
+    en: Courland
+    kind: place
 - page: 2
-  en: 'the revenues of the entailed estate, still less after her death [text lost] because with her death
-    her Advitalität-right was to lapse, and [text lost] Cosmar pronounced as guardian of the minor female,
-    so this ceases when [text lost] the Princes Adolph and Alexander should come of age; and since the
-    former did not [text lost] receive estates, but was the sole heir of the estate left by the Prince
-    Sacken [text lost] Cosmar has nothing whatever to do with the entailed estates and would have to be
-    [text lost] dismissed here. — Meanwhile Prince Adolph would within a year and a day — all [text lost]
-    be of age in 2 to 3 years, whereupon his whole interference also ceases; the [text lost] would receive
-    merely, as [uncertain: höhe], an appanage of 1200 Rthl out of the entailed estates. All the apprehensions
-    of E. Sackin, which had induced her and even the Prince to sign the notorious Transact swindled up
-    by Cosmar in fraudem tertii, would cease the moment the Courland heirs had been satisfied. And that
-    can now be done with 112000 Rthl. Not only on this account had a settlement already been reached with
-    the mandatary of the [uncertain: Lage] heirs, as was said in the earlier submission, but also with
-    the other creditors it had been so arranged and satisfied that they would be content with 12000 Rthl
-    yearly for as long as the Prince lives. — Upon the question — but will the estates really yield so
-    much that the 112000 Rthl and everything the deed of foundation specifies, and also the 12000 Rthl
-    to the other creditors, can be paid? Answer: Certainly. — I have laid at His Serene Highness''s feet
-    the proof of the yield and of the sums to be paid. — Well! my friend, it comes then to their [illegible]
-    v. security. The two Emperors and the King, with [uncertain: Pfar] Wilhelm, returned to Hungary last
-    night. The King of Bavaria of Deresemberg meanwhile remained here with their hereditary prince, as
-    did the King of Denmark. Grand Duke Constantin had meanwhile been viewing places abroad. — Respectfully
-    I remain, until death, Your Serene Highness''s, Vienna, the 28th of October 1814, humble and obedient
-    servant v Triebenfeld'
+  en: 'the revenues of the entailed estate, still less after her death[text lost] because with her death
+    her right of life-tenure was to lapse, and[text lost] Cosmar as guardian of the minor pronounced,
+    so this would cease [text lost] the Princes Adolph and Alexander were of age for the entailed estate,
+    and since the former did not[text lost] received estates, but as the sole heir of the estate of the
+    Princes Sacken[text lost] Cosmar has absolutely nothing to do with the entailed estates and must here[text
+    lost] be dismissed — Meanwhile Prince Adolph would in a year and a day — all[text lost] in 2 to 3
+    years be of age for the entailed estate, whereupon his whole interference would also cease; the [text
+    lost] would receive merely, as higher, an appanage of 1200 Rthl out of the entailed estates. All the
+    apprehensions of the P. Sackin, which had induced her and even the Prince to sign the notorious settlement
+    wheedled in fraudem tertii by Cosmar, would cease the moment the Courland heirs had been satisfied.
+    And this could now be done with 112000 Rthl. Not only on this account, as was said in the earlier
+    submission, had a composition already been made with the agent of the heirs of the estate, but agreement
+    had also been reached with the other creditors to the effect that they would be content with 12000
+    Rthl yearly for as long as the Prince lives — To the question — but will the estates really yield
+    so much that the 112000 Rthl and everything the deed of foundation specifies, and also the 12000 Rthl
+    to the other creditors, can be paid? Answer: Certainly – I have laid at His Serene Highness''s feet
+    the demonstration of the yield and of the sums to be paid -
+
+
+    Well! my friend, it turns then upon their [uncertain: Oe] and security. The two Emperors and the King,
+    with [uncertain: Pfar] Wilhelm, returned to Hungary last night. The King of Bavaria of Deresemberg
+    remained here in the meantime with their hereditary prince, as did the King of Denmark. Grand Duke
+    Constantine had meanwhile been viewing places outside the city - Respectfully I remain, until death,
+
+
+    Your Serene Highness''s
+
+
+    Vienna, the 28th of October
+
+
+    1814.
+
+
+    humble and obedient servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Prinzen Adolph
+    en: Prince Adolph
+    kind: person
+  - de: Alexander
+    en: Alexander
+    kind: person
+  - de: Fürsten Sacken
+    en: Princes Sacken
+    kind: person
+  - de: P Adolph
+    en: Prince Adolph
+    kind: person
+  - de: E. Sackin
+    en: P. Sackin
+    kind: person
+  - de: Curischen
+    en: Courland
+    kind: place
+  - de: Willhelm
+    en: Wilhelm
+    kind: person
+  - de: Baier
+    en: Bavaria
+    kind: place
+  - de: Deresemberg
+    en: Deresemberg
+    kind: place
+  - de: Dannemord
+    en: Denmark
+    kind: place
+  - de: Gr E Constantin
+    en: Grand Duke Constantine
+    kind: person
+  - de: Ungarn
+    en: Hungary
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '1200'
+  - '112000'
+  - '12000'
+  - '112000'
+  - '12000'
+  - '2'
+  - '3'
+  - '28'
+  - '1814'
 - page: 3
-  en: '[text lost] I handed the same over, and as Your Serene Highness dictated such a one [text lost]
-    7000 Proposal, Economy 6500. [text lost]hamer 2000 [text lost]Lanso uren 6500 [text lost]Schlawenschitzer
-    manufactories 34000 [text lost]n Lassourter of the 12000 [text lost]fides Com[missum] capital 4000
-    [text lost]manufactories capital 1500 = 79500 Rthl [text lost] of which [text lost] to His Majesty
-    for the 112000 of the g for the dues. — 35000 = 147000 Rthl 25000 2. thereof the additions on average
-    3512 3. for the necessary maintenance of the old Lord''s forest 12000 4. Towards paying off the other
-    creditors according to the settlement 12000 5. to the E. Aug. according to the deed and settlement
-    of 1799 - 18000 6. the interest to the 3 daughters 3750 7. to the present Herr Sachen according to
-    the same deed 4000 8. to the youngest Prince et Alexander 1200 = 79462. There remains over 38 Rthl.
-    NB the 180000 Rthl can be of great help.'
+  en: '[text lost]I handed the same over and as one such Your Serene [text lost] dictated [text lost]
+
+
+    7000 proposal, economy 6500.
+
+
+    [text lost]hamer 2000 [text lost]Lanso uren 6500 [text lost]the Schlawenschitz manufactories 34000
+    [text lost]n Lassourter of 12000 [text lost]fideicommissary capital 4000 [text lost]manufactory capital.
+    1500 = 79500 Rthl [text lost]thereof [text lost]to His Majesty for the 112000 of the [illegible] for
+    the dues. — 35000 = 147000 Rthl 25000
+
+
+    2. thereof the [uncertain: Zutreche] on average 3512 3 for the necessary maintenance of the old Lord''s
+    forests 12000
+
+
+    4. For payment of the other creditors according to the composition 12000
+
+
+    5. to the E. Aug. according to the deed and composition of 1799 - 18000 6 the interest to the 3 daughters.
+    3750 7 to the present Lady Sachen according to the same deed 4000
+
+
+    8. to the youngest Prince and Alexander 1200 = 79462. remains over. 38 Rthl NB the 180000 Rthl can
+    be of great help.'
+  names:
+  - de: Schlawenschitzer
+    en: Schlawenschitz
+    kind: place
+  - de: Lassourter
+    en: Lassourter
+    kind: other
+  - de: hamer
+    en: hamer
+    kind: other
+  - de: Lanso uren
+    en: Lanso uren
+    kind: other
+  - de: E. Aug.
+    en: E. Aug.
+    kind: person
+  - de: Hr Sachen
+    en: Lady Sachen
+    kind: person
+  - de: Alexander
+    en: Alexander
+    kind: person
+  numbers:
+  - '7000'
+  - '6500'
+  - '2000'
+  - '6500'
+  - '34000'
+  - '12000'
+  - '4000'
+  - '1500'
+  - '79500'
+  - '112000'
+  - '35000'
+  - '147000'
+  - '25000'
+  - '2'
+  - '3512'
+  - '3'
+  - '12000'
+  - '4'
+  - '12000'
+  - '5'
+  - '1799'
+  - '18000'
+  - '6'
+  - '3'
+  - '3750'
+  - '7'
+  - '4000'
+  - '8'
+  - '1200'
+  - '79462'
+  - '38'
+  - '180000'

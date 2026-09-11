@@ -86,20 +86,107 @@
    "doc_line": 21
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ew. Hochfürstlichen Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Majesty the King",
+   "kind": "person",
+   "surface_de": "Sr. Mayestät als Königs",
+   "surface_en": "His Majesty the King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ew. Hochsturfftigen Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Er. Hochfürstlichen Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince! Most gracious Prince and Lord! Your Most Serene Highness has had the graciousness to inform me of the outcome of the compensation matter concerning Your Highness. Since Your Most Serene Highness most highly declares yourself satisfied with the manner in which this business has been concluded, there remains for me no further wish"
+   "en": "Most Serene Prince!\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness has had the graciousness to inform me of the outcome of the matter of indemnification concerning Your Most Serene Highness.\n\nSince Your Most Serene Highness is pleased most highly to declare Yourself satisfied with the manner in which this business has been concluded, there remains nothing further for me [uncertain: wish]",
+   "names": [
+    {
+     "de": "Ew. Hochfürstlichen Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "but this, that the continuing grace of His Majesty the King toward Your Most Serene Highness be as boundless as Your Highness's merits toward the State may perhaps be. It is with the most distinguished reverence and devotion that I have the honour to name myself, Your Most Serene Highness's most humble and obedient servant. Berlin, the 20th of October 1804. Amelang"
+   "en": "than this: that the continuing grace of His Majesty the King towards Your Most Serene Highness may be as [uncertain: boundless] as Your Most High merits towards the State may be. It is with the most distinguished reverence and devotion that I have the honour to name myself,\n\nYour Most Serene Highness's most humble and obedient servant. Berlin, the 20th of October 1804. Amelang",
+   "names": [
+    {
+     "de": "Sr. Mayestät als Königs",
+     "en": "His Majesty the King",
+     "kind": "person"
+    },
+    {
+     "de": "Ew. Hochsturfftigen Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Er. Hochfürstlichen Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince! Most gracious Prince and Lord! Your Most Serene Highness has had the graciousness to inform me of the outcome of the compensation matter concerning Your Highness. Since Your Most Serene Highness most highly declares yourself satisfied with the manner in which this business has been concluded, there remains for me no further wish\n\nbut this, that the continuing grace of His Majesty the King toward Your Most Serene Highness be as boundless as Your Highness's merits toward the State may perhaps be. It is with the most distinguished reverence and devotion that I have the honour to name myself, Your Most Serene Highness's most humble and obedient servant. Berlin, the 20th of October 1804. Amelang",
+ "text_english": "Most Serene Prince!\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness has had the graciousness to inform me of the outcome of the matter of indemnification concerning Your Most Serene Highness.\n\nSince Your Most Serene Highness is pleased most highly to declare Yourself satisfied with the manner in which this business has been concluded, there remains nothing further for me [uncertain: wish]\n\nthan this: that the continuing grace of His Majesty the King towards Your Most Serene Highness may be as [uncertain: boundless] as Your Most High merits towards the State may be. It is with the most distinguished reverence and devotion that I have the honour to name myself,\n\nYour Most Serene Highness's most humble and obedient servant. Berlin, the 20th of October 1804. Amelang",
  "summary_en": "Amelang, writing from Berlin, acknowledges the Prince's notification of the outcome of his compensation matter and expresses satisfaction that the Prince himself is content with the way the business has been settled, adding the wish that the King's continuing favour toward the Prince may match his services to the State. A short, purely complimentary reply containing no financial or administrative detail beyond the reference to the concluded compensation case.",
  "summary_de": "Amelang bestätigt den Empfang der fürstlichen Mitteilung über den Ausgang der Entschädigungssache und äußert seine Befriedigung darüber, dass Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, sich mit der Art der Erledigung des Geschäfts zufrieden erklärt; er wünscht, dass die Gnade Seiner Majestät des Königs gegenüber dem Fürsten dessen Verdiensten um den Staat entspreche. Keine Angaben zu Summen, Gütern oder Einzelheiten der Entschädigung; ein reines Höflichkeits- und Ergebenheitsschreiben."
 }

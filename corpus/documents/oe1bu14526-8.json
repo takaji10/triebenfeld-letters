@@ -716,100 +716,1255 @@
    "doc_line": 717
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Princely Hohenlohe Patrimonial Court",
+   "kind": "other",
+   "surface_de": "Fürstlich Hohenlohesche Patrimonial Gerichte",
+   "surface_en": "Princely Hohenlohe Patrimonial Court",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedenberger",
+   "kind": "person",
+   "surface_de": "Christian Friedenberger",
+   "surface_en": "Christian Friedenberger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn forest",
+   "kind": "place",
+   "surface_de": "Trąbczyner Walde",
+   "surface_en": "Trąbczyn forest",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szymanowicer Hauland",
+   "kind": "place",
+   "surface_de": "Szymanowicer hauland",
+   "surface_en": "Szymanowicer Hauland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedenberger",
+   "kind": "person",
+   "surface_de": "Christian Friedenberger",
+   "surface_en": "Christian Friedenberger",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedenberger",
+   "kind": "person",
+   "surface_de": "Christian Friedenber ger",
+   "surface_en": "Christian Friedenberger",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn forest",
+   "kind": "place",
+   "surface_de": "Trąbczyner Walde",
+   "surface_en": "Trąbczyn forest",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "manorial lordship (Dominium)",
+   "kind": "other",
+   "surface_de": "Dominium",
+   "surface_en": "manorial lordship (Dominium)",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedenberger",
+   "kind": "person",
+   "surface_de": "Christian Friedenberger",
+   "surface_en": "Christian Friedenberger",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "lordship",
+   "kind": "other",
+   "surface_de": "Dominus",
+   "surface_en": "lordship",
+   "page": 8
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedenberger",
+   "kind": "person",
+   "surface_de": "Christian Friedenberger",
+   "surface_en": "Christian Friedenberger",
+   "page": 12
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 12
+  },
+  {
+   "entity": "ogrodowicz",
+   "display": "Ogrodowicz",
+   "kind": "person",
+   "surface_de": "Ogrodowicz",
+   "surface_en": "Ogrodowicz",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Peter Friedrich August von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Peter Friedrich August v. Triebenfeld",
+   "surface_en": "Peter Friedrich August von Triebenfeld",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Schweinern",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Schweinern",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "SüdPreußen",
+   "surface_en": "South Prussia",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Kalisz department",
+   "kind": "place",
+   "surface_de": "Kalischen Departement",
+   "surface_en": "Kalisz department",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Wittow",
+   "surface_en": "Witów",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 13
+  },
+  {
+   "entity": "",
+   "display": "Guhrwitz Court of Justice",
+   "kind": "other",
+   "surface_de": "Guhewitzschen Justitz Amt",
+   "surface_en": "Guhrwitz Court of Justice",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslaw",
+   "surface_en": "Breslau",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig fürsten zu Hohenlohe Ingelfingen",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen",
+   "page": 15
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Guhrwitz Court of Justice",
+   "kind": "other",
+   "surface_de": "Guhrwitz schon Justitz Amte",
+   "surface_en": "Guhrwitz Court of Justice",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Baronial Stillfried Luhemitzer Court of Justice",
+   "kind": "other",
+   "surface_de": "freyherrlich stillfried Luhemitzer Justitz Amt",
+   "surface_en": "Baronial Stillfried Luhemitzer Court of Justice",
+   "page": 16
+  },
+  {
+   "entity": "koeppen",
+   "display": "Koeppen",
+   "kind": "person",
+   "surface_de": "Koeppen",
+   "surface_en": "Koeppen",
+   "page": 16
+  },
+  {
+   "entity": "kaleschke",
+   "display": "Kaleschke",
+   "kind": "person",
+   "surface_de": "Kaleschke",
+   "surface_en": "Kaleschke",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "SüdPreußen",
+   "surface_en": "South Prussia",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Kalisz Chamber department",
+   "kind": "place",
+   "surface_de": "Kalischen Cammer Deparfement",
+   "surface_en": "Kalisz Chamber department",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Konin district",
+   "kind": "place",
+   "surface_de": "Koninschen Kreise",
+   "surface_en": "Konin district",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 16
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 16
+  },
+  {
+   "entity": "marianton",
+   "display": "Marianton",
+   "kind": "person",
+   "surface_de": "Marianton",
+   "surface_en": "Marianton",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopoyno",
+   "surface_en": "Kopojno",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiątniki",
+   "surface_en": "Swiątniki",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Broniki",
+   "kind": "place",
+   "surface_de": "Broniki",
+   "surface_en": "Broniki",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface_de": "Nowawies",
+   "surface_en": "Nowawies",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Przybislaw",
+   "kind": "place",
+   "surface_de": "Przy bislaw",
+   "surface_en": "Przybislaw",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Stara Hutta",
+   "kind": "place",
+   "surface_de": "Stara Hutta",
+   "surface_en": "Stara Hutta",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Olesnice",
+   "kind": "place",
+   "surface_de": "Olesnice",
+   "surface_en": "Olesnice",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 17
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 18
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 18
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 19
+  },
+  {
+   "entity": "",
+   "display": "manorial lordship (Dominium)",
+   "kind": "other",
+   "surface_de": "Dominium",
+   "surface_en": "manorial lordship (Dominium)",
+   "page": 19
+  },
+  {
+   "entity": "",
+   "display": "the monastery and the provostry of Ląd",
+   "kind": "place",
+   "surface_de": "Kloster und der Probstey Ląd",
+   "surface_en": "the monastery and the provostry of Ląd",
+   "page": 20
+  },
+  {
+   "entity": "",
+   "display": "manorial lordship",
+   "kind": "other",
+   "surface_de": "Dominio",
+   "surface_en": "manorial lordship",
+   "page": 20
+  },
+  {
+   "entity": "",
+   "display": "domain office of Ratyn",
+   "kind": "place",
+   "surface_de": "Domainen Amts Ratyn",
+   "surface_en": "domain office of Ratyn",
+   "page": 20
+  },
+  {
+   "entity": "",
+   "display": "the Treasury",
+   "kind": "other",
+   "surface_de": "fisco",
+   "surface_en": "the Treasury",
+   "page": 20
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Menickel [uncertain: Menickel]",
+   "kind": "person",
+   "surface_de": "Menickel[?]",
+   "surface_en": "Menickel [uncertain: Menickel]",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Schmiedike",
+   "kind": "person",
+   "surface_de": "Schmiedike",
+   "surface_en": "Schmiedike",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Kann",
+   "kind": "person",
+   "surface_de": "Kann",
+   "surface_en": "Kann",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Koch",
+   "kind": "person",
+   "surface_de": "Koch",
+   "surface_en": "Koch",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Wayda",
+   "kind": "person",
+   "surface_de": "Wayda",
+   "surface_en": "Wayda",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 21
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 21
+  },
+  {
+   "entity": "marianton",
+   "display": "Marianton",
+   "kind": "person",
+   "surface_de": "Marianton",
+   "surface_en": "Marianton",
+   "page": 22
+  },
+  {
+   "entity": "",
+   "display": "Princely Hohenlohe Patrimonial Court at Trąbczyn",
+   "kind": "other",
+   "surface_de": "Fürstlich Hohenloheſches Patrimonial Gericht auf Trąbczyn",
+   "surface_en": "Princely Hohenlohe Patrimonial Court at Trąbczyn",
+   "page": 22
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 22
+  },
+  {
+   "entity": "",
+   "display": "Pyzdry",
+   "kind": "place",
+   "surface_de": "Peysern",
+   "surface_en": "Pyzdry",
+   "page": 22
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 22
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 22
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedenberger",
+   "kind": "person",
+   "surface_de": "Christian Friedenberger",
+   "surface_en": "Christian Friedenberger",
+   "page": 22
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "The Princely Hohenlohe Patrimonial Court hereby gives to be known that between the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter of His Serene Highness, as seller on the one part, and the resident Christian Friedenberger, as purchaser on the other part, the following hereditary-lease contract, concerning one Hufe Magdeburg measure of land situate in the Trąbczyn forest, has been concluded and judicially declared before us.\n\nActum Trąbczyn, the 25th of March 1806. There appeared the persons well known to the undersigned Justitiarius, namely\n\n1., the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary and jurisdictional lord of this place, legitimated by the power of attorney appended hereto, on the one part, and\n\n2., the resident Christian Friedenberger of Szymanowicer Hauland, on the other part.\n\nThe comparents are found to be in the [uncertain: condition] validly to execute judicial transactions, and declare freely and wil-"
+   "en": "The Princely Hohenlohe Patrimonial Court hereby gives to be known that between the Councillor of War and Forests von Triebenfeld as general attorney of His Serene Highness as seller of the one part, and the resident Christian Friedenberger as purchaser of the other part, the following hereditary-lease contract, over one Magdeburg Hufe of land situated in the Trąbczyn forest, has been concluded and judicially declared before us.\n\nActum Trąbczyn, the 25th of March 1806. There appeared the persons well known to the undersigned justiciary, namely\n\n1., the Councillor of War and Forests von Triebenfeld as general attorney of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary lord and lord of the court of this place, legitimated by the enclosed power of attorney, of the one part, and\n\n2., the resident Christian Friedenberger of Szymanowicer Hauland, of the other part.\n\nThe appearers find themselves in the condition to execute judicial acts validly, and declare freely and de-",
+   "names": [
+    {
+     "de": "Fürstlich Hohenlohesche Patrimonial Gerichte",
+     "en": "Princely Hohenlohe Patrimonial Court",
+     "kind": "other"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Christian Friedenberger",
+     "en": "Christian Friedenberger",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner Walde",
+     "en": "Trąbczyn forest",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Szymanowicer hauland",
+     "en": "Szymanowicer Hauland",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1806",
+    "25",
+    "1.",
+    "2."
+   ]
   },
   {
    "page": 2,
-   "en": "-lingly and with due deliberation the following hereditary-lease contract to the protocol.\n\n§. I. His Most Serene Highness namely grants in fee to Christian Friedenberger one Hufe, write One Hufe Magdeburg measure, reckoned at thirty Morgen to the Hufe and each Morgen at one hundred and eighty square rods, situate in the Trąbczyn forest, from now onward for all perpetual time\n\nin hereditary lease.\n\n§. II. The said Christian Friedenberger pays for the one Hufe Magdeburg measure 100 rt., write One hundred Rthaler, as entry-money; and since this entry-money is already fully paid, Christian Friedenberger is hereby receipted for the same without further reservation.\n\n§. III. Christian Friedenberger"
+   "en": "liberately and with due deliberation the following hereditary-lease contract to the protocol.\n\n§. I. His Most Serene Highness namely grants in fee to Christian Friedenberger one Hufe, in words One Magdeburg Hufe, reckoned at thirty Morgen to the Hufe and each Morgen at one hundred and eighty square rods, situated in the Trąbczyn forest, from now on for perpetual times\n\nin hereditary lease.\n\n§. II. Christian Friedenberger pays for the one Magdeburg Hufe 100 rt., in words One hundred Reichsthaler, as entry-money, and since this entry-money is already fully paid, Christian Friedenberger is hereby receipted for the same without further reservation.\n\n§. III. Christian Friedenberger",
+   "names": [
+    {
+     "de": "Christian Friedenberger",
+     "en": "Christian Friedenberger",
+     "kind": "person"
+    },
+    {
+     "de": "Christian Friedenber ger",
+     "en": "Christian Friedenberger",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner Walde",
+     "en": "Trąbczyn forest",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "I.",
+    "100",
+    "II.",
+    "III."
+   ]
   },
   {
    "page": 3,
-   "en": "binds himself hereby, for himself and his successors in possession of this holding, to pay from this one Hufe a yearly hereditary canon of thirty Rthaler, write thirty Rthaler, to the Dominium of this place; and this hereditary rent shall be discharged yearly in two instalments, namely one half at Christmas and the other half at St. John's, each time in cash and in Courant to the manorial treasury.\n\n§. IV. For the wholly uncultivated arable the hereditary lessee receives three free years, which begin from Martinmas of the past year and end at St. John's 1809, so that the first half-yearly hereditary rent must be paid at Christmas 1809 with 15 rt., write fifteen Rthaler"
+   "en": "hereby binds himself, for himself and his successors in possession of this holding, to pay from this one Hufe an annual hereditary canon of thirty Reichsthaler, in words thirty Reichsthaler, to the manorial lordship (Dominium) of this place; and this hereditary rent shall be discharged yearly in two instalments, namely one half at Christmas and the other half at Midsummer, each time in cash and in Courant, to the lordship's treasury.\n\n§. IV. For the wholly uncultivated arable the hereditary lessee receives three free years, which begin from Martinmas of the past year and end at Midsummer 1809, so that the first half-yearly hereditary rent must be paid at Christmas 1809 with 15 rt., in words fifteen Reichsthaler",
+   "names": [
+    {
+     "de": "Dominium",
+     "en": "manorial lordship (Dominium)",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "IV.",
+    "1809",
+    "15",
+    "1809"
+   ]
   },
   {
    "page": 4,
-   "en": "Rthaler.\n\nThat land which at the measuring-out is handed over to Christian Friedenberger as already cultivated, be it much or little, shall bear rent from Christmas of this year, since the free years extend only to that part which has first to be brought under cultivation.\n\n§. V. It stands free to the hereditary lessee to redeem the stipulated hereditary [uncertain: rent] of the thirty [illegible] up to one half, that is to say, according to his means, to pay off to the ground-lordship one, two, up to three hundred [uncertain: Thaler] of capital, whereupon for every hundred Rthaler five Rthaler shall be"
+   "en": "Reichsthaler must be paid.\n\nThat land which at the measuring-out is handed over to Christian Friedenberger as already under cultivation, be it much or little, shall bear rent from Christmas of this year, inasmuch as the free years extend only to that part which must first be brought under cultivation.\n\n§. V. It stands free to the hereditary lessee to redeem the fixed hereditary rent of the thirty [uncertain: Reichsthaler] up to one half, that is to say, to pay off to the ground lordship, according to his means, one, two, up to three hundred [illegible] of capital, whereupon for every hundred Reichsthaler five Reichsthaler shall be",
+   "names": [
+    {
+     "de": "Christian Friedenberger",
+     "en": "Christian Friedenberger",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "V."
+   ]
   },
   {
    "page": 5,
-   "en": "abated yearly from the hereditary rent; the capital so paid off remains the property of the ground-lordship, and this redemption of the hereditary rent takes place only in respect of the first half; the second half, at fifteen Rthaler per Hufe, on the other hand remains irredeemable and can never be raised or diminished.\n\n§. VI. Besides the [uncertain: aforesaid] hereditary rent, the hereditary lessee undertakes, for the present and for future times perpetually, to discharge and to render all the Royal and other public dues falling upon this one Hufe, in whatsoever they may consist, without any exception and without deduction from the hereditary rent or any other reimbursement, and to"
+   "en": "taken off the hereditary rent yearly; the capital so paid off remains the property of the ground lordship, and this redemption of the hereditary rent takes place only in respect of the first half; the second half, at fifteen Reichsthaler per Hufe, on the other hand remains irredeemable and can never be raised or diminished.\n\n§. VI. Besides the [uncertain: aforesaid] hereditary rent, the hereditary lessee takes upon himself, for the present and for future times perpetually, to discharge and render all royal and other public dues whatsoever falling upon this one Hufe, consist in what they may, without any exception and without deduction from the hereditary rent or other reimbursement, and to",
+   "numbers": [
+    "VI."
+   ]
   },
   {
    "page": 6,
-   "en": "to perform.\n\n§. VII. The hereditary lessee must [uncertain: build] at his own cost, without receiving for this either now or in future timber or other building assistance; however, all the timber standing on his Hufe belongs to him in property without exception.\n\nLikewise the hereditary lessee and his successors in possession of this holding must effect all future repairs and new buildings out of their own means, without subsidy or aid.\n\n§. VIII. Outside his own holding the hereditary lessee has no right to firewood or to [uncertain: pasture] in the manorial woods and fields.\n\n§. IX. His drink the hereditary lessee must always take from"
+   "en": "render.\n\n§. VII. The hereditary lessee must [uncertain: build] at his own cost, without receiving for this purpose, either now or in the future, timber or other building assistance; nevertheless all the timber standing upon his Hufe belongs to him in property, without exception.\n\nLikewise the hereditary lessee and his successors in possession of this holding must effect all future repairs and new buildings out of their own means, without subsidy or assistance.\n\n§. VIII. Outside his own possession the hereditary lessee has no right to firewood or to [uncertain: pasture] in the lordship's forests and fields.\n\n§. IX. His drink the hereditary lessee must always take from",
+   "numbers": [
+    "VII.",
+    "VIII.",
+    "IX."
+   ]
   },
   {
    "page": 7,
-   "en": "the manorial brewery and distillery or from the tavern; if foreign drink is brought in by him or over his people, the hereditary lessee shall each time incur a penalty of 5 rt. for every barrel of beer and one Rthaler for every garniec of brandy, which penalty is to be paid to the ground-lordship.\n\n§. X. To the milling compulsion the hereditary lessee is subject, and he may grind his grain only where the manorial lordship directs him.\n\n§. XI.\n\nFrom all and every manorial service and deliveries in kind without distinction the hereditary lessee is entirely exempted for [uncertain: ever],"
+   "en": "the lordship's brewery and distillery or from the tavern; if foreign drink be brought in by him or by his people, the hereditary lessee incurs each time a penalty of 5 rt. for every barrel of beer and one Reichsthaler for every garniec of brandy, which penalty is paid to the ground lordship.\n\n§. X. The hereditary lessee is subject to the milling compulsion and may grind his corn only where the estate lordship directs him. §. XI.\n\nFrom all and every manorial service and deliveries in kind, without distinction, the hereditary lessee is for ever wholly exempt;",
+   "numbers": [
+    "5",
+    "X.",
+    "XI."
+   ]
   },
   {
    "page": 8,
-   "en": "yet he remains subject to the jurisdiction of the Dominus of this place.\n\n§. XII.\n\nThe hereditary lessee and his successors in possession are entitled to alienate his holding to another in any manner he pleases; but at every sale or exchange the tenth Groschen of the [uncertain: purchase] or exchange money must be paid to the ground-lordship as a Laudemium, and the [uncertain: consent] of the same must be obtained for every alienation, inasmuch as the ground-lordship hereby reserves to itself once and for all the right of pre-emption.\n\n§. XIII. The hereditary lessee renounces, for himself and his successors in possession, all and every remission in cases of mis-"
+   "en": "he nevertheless remains subject to the jurisdiction of the lordship of this place.\n\n§. XII.\n\nThe hereditary lessee and his successors in possession are entitled to alienate his holding to another in any manner whatsoever; but on every sale or exchange the tenth Groschen of the purchase or exchange money must be paid to the ground lordship as a transfer fee (Laudemium), and its consent must be obtained to every alienation, inasmuch as the ground lordship hereby reserves to itself once and for all the right of pre-emption.\n\n§. XIII. The hereditary lessee renounces, for himself and his successors in possession, all and every remission upon mis-",
+   "names": [
+    {
+     "de": "Dominus",
+     "en": "lordship",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "XII.",
+    "XIII."
+   ]
   },
   {
    "page": 9,
-   "en": "-fortune, be the same arising through fire from heaven, or the incendiarism of evil people, hail-storm, crop failure, cattle plague, inundation, war and pestilence, or in whatever manner it may arise, wholly for the present and for the future; and in cases occurring neither a bonification nor a remission of the hereditary rent shall take place.\n\n§. XIV. All the costs attending this contract the hereditary lessee undertakes to discharge.\n\n§. XV. His Most Serene Highness consents that the hereditary lessee may, on the ground of this contract, have his title of possession registered for himself."
+   "en": "fortunes, whether these arise through fire from heaven or by the incendiarism of evil persons, hailstorm, crop failure, cattle plague, flood, war and pestilence, or in whatsoever manner it may be, for the present and for the future entirely, and upon such cases occurring neither compensation nor abatement of the hereditary rent shall take place.\n\n§. XIV. All the costs attending this contract the hereditary lessee takes upon himself to discharge.\n\n§. XV. His Most Serene Highness consents that the hereditary lessee may, upon the ground of this contract, have his title of possession settled for himself.",
+   "numbers": [
+    "XIV.",
+    "XV."
+   ]
   },
   {
    "page": 10,
-   "en": "§. XVI. So long as the hereditary lessee and his successors in possession fulfil all the obligations contained in this contract, His Most Serene Highness promises to maintain them in their rights and to defend them against every man's real claim.\n\nBut should the hereditary lessee or his successors remain in arrears with the yearly hereditary rents longer than two years, or else lay waste this holding and thereby diminish the revenues of the ground-lordship, then the ground-lordship shall be entitled to [uncertain: dispose of] this holding otherwise, and the hereditary lessee forfeits his whole"
+   "en": "§. XVI. So long as the hereditary lessee and his successors in possession shall fulfil all the obligations contained in this contract, His Most Serene Highness promises to maintain them in their rights and to defend them against any man's real claim.\n\nShould, however, the hereditary lessee or his successors remain in arrears with the annual hereditary rent for longer than two years, or else lay waste this holding and thereby diminish the revenues of the ground lordship, then the ground lordship shall be entitled to dispose of this holding otherwise, and the hereditary lessee forfeits his whole",
+   "numbers": [
+    "XVI."
+   ]
   },
   {
    "page": 11,
-   "en": "right and the entry-money paid in.\n\nBoth parties promise to keep this hereditary-lease contract firmly and inviolably; being judicially instructed as to the consequences, they renounce all subterfuges available against it, particularly the objection of an injury suffered above or below the half, of cunning persuasion, fear, compulsion, of matters otherwise agreed than written down, or not rightly understood; they moved that this contract be judicially engrossed, and, after previous verbatim reading out to them, in token of approval have"
+   "en": "right and the entry-money paid in.\n\nBoth parties promise to keep this hereditary-lease contract firmly and inviolably; being judicially instructed as to the consequences, they renounce all evasions available against it, in particular the objection of an alleged lesion above and below the half, of cunning persuasion, fear, compulsion, of matters otherwise agreed than written down or not rightly understood; they moved that this contract be judicially engrossed, and have, after previous reading aloud word for word, in token of their approval,"
   },
   {
    "page": 12,
-   "en": "hereunder subscribed and signed with their own hands.\n\nv. Triebenfeld    xxx own hand-mark of Christian Friedenberger\n\nSchenck\nJustitiarius\n\nOgrodowicz\nProtocollant\n\nGeneral Power of Attorney\n\nI, the undersigned, do hereby make known and confess that I hereby [uncertain: expressly] empower the Royal Councillor of War and Forests, Herr Peter Friedrich August v. Triebenfeld, Your Right Honourable, of Schweinern etc., to manage in my name all and every affair touching the estates of Zagorowo, Wittow and Trąbczyn belonging to me, situate in South Prussia in the Kalisch Department, whether they concern a dismemberment, or purchase and sale, leasing or pledging, or by whatever other name they may be called and whatever bearing and influence they may have, both judicially and extrajudicially, to ad-"
+   "en": "signed and subscribed the same below in their own hands.\n\nvon Triebenfeld xxx the personal mark of Christian Friedenberger Schenck\n\nJusticiary\n\nOgrodowicz\n\nKeeper of the protocol\n\nGeneral power of attorney. I, the undersigned, do hereby make known and declare that I hereby expressly empower the Royal Councillor of War and Forests Mr Peter Friedrich August\n\nvon Triebenfeld, Your Right Honourable, of Schweinern etc., to conduct in my name all and every affair touching the estates of Zagorowo, Witów and Trąbczyn belonging to me and situated in South Prussia in the Kalisz department, whether they concern a dismemberment, or purchase and sale, leasing or pledging, or by whatever name they may be called and whatever bearing and influence they may have, both judicially and extrajudicially to man-",
+   "names": [
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Christian Friedenberger",
+     "en": "Christian Friedenberger",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Ogrodowicz",
+     "en": "Ogrodowicz",
+     "kind": "person"
+    },
+    {
+     "de": "Peter Friedrich August v. Triebenfeld",
+     "en": "Peter Friedrich August von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Schweinern",
+     "kind": "place"
+    },
+    {
+     "de": "SüdPreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kalischen Departement",
+     "en": "Kalisz department",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Wittow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 13,
-   "en": "-minister; to petition, respectively to notify, all approbations or directives necessary in the matter, as well as all other requisites appearing to him necessary, both with the most laudable Chamber and with the most laudable Government at Kalisch and with all other requisite offices and authorities; and to manage all other requisite business for me; to settle accounts and conclude agreements with the tenants; to pay out moneys, to receive the like, and to give receipt for them; to issue to my officials and servants there the orders proper to them; to examine their conduct and service, and if he should not find such [uncertain: according] to his insight fitting and should find it prejudicial to me, to suspend them if need be; and in general un-"
+   "en": "age; to petition, respectively to notify, all approbations or instructions necessary in that regard, as well as all other requirements that may seem to him necessary, before the Most Laudable Chamber as also before the Most Laudable Government at Kalisz and before all other requisite offices and authorities, and to attend to all other necessary business for me; to settle accounts with the lessees and conclude agreements, to pay out moneys, to receive the like and give receipts for them; to issue to my officials and servants there such orders as are conducive to the purpose, to examine their conduct and performance of duty, and, should he not find such conformable to his insight and prejudicial to me, to suspend them if need be, and in general un-",
+   "names": [
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 14,
-   "en": "-restrictedly and freely to act in all authorities and affairs as he shall find good and most conformable to my interest.\n\nWhatsoever my said Bevollmächtigter shall do by virtue of this commission received, I hereby promise to approve and to hold thereby so inviolably as if I had done it myself. At the same time I also bind myself to indemnify my Herr Bevollmächtigter in every quarter on account of this commission, and to reimburse him all [uncertain: costs] and outlays, upon the pledging of my present and future property, so far as shall be required thereto. In witness whereof I have subscribed this General Power of Attorney with my own hand and"
+   "en": "restrictedly and freely to act in all matters and before all authorities as he shall find good and most conformable to my interest.\n\nWhatsoever my said attorney shall do by virtue of this commission received, I hereby promise to approve and to hold thereby as inviolably as if I had done it myself. At the same time I bind myself also to indemnify my attorney in every respect on account of this commission, and to reimburse him all [uncertain: costs] and outlays, upon the pledging of my present and future property, so much thereof as shall be required for this. In witness whereof I have signed this general power of attorney in my own\n\nhand and by"
   },
   {
    "page": 15,
-   "en": "confirmed it by the impression of my arms. Thus done at the Guhewitzsch Justice Office near Breslau, the 19th February 1805. (L. S.) read by myself and approved, Friedrich Ludwig Fürst zu Hohenlohe.\n\nThat His Serene Highness the reigning Prince and Lord, well known in person to the undersigned Justice Office and fully capable of disposition, General of Infantry, Chief of a Regiment, Governor of the city and fortress of Breslau and Knight of the Great Black and Red Eagle Orders, Herr Friedrich Ludwig Fürst zu Hohenlohe Ingelfingen, did draw up before us and with our participation, under this date, the foregoing General Power of Attorney directed to the Royal Councillor of War and Forests Herr v. Triebenfeld, acknowledged himself throughout to its verbatim contents, and thereupon, after His Highness had once more previously read the same through"
+   "en": "the impression of my arms confirmed it. Thus done at the Guhrwitz Court of Justice near Breslau, the 19th of February 1805. (L. S.) read by myself, and approved. Friedrich Ludwig, Prince of Hohenlohe. That His Serene Highness the reigning Prince and Lord, personally very well known to the undersigned Court of Justice and fully capable of disposition, General of Infantry, chief of a regiment, Governor of the town and fortress of Breslau and knight of the great Black and Red Eagle Order, Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, executed before us and with our attendance the above general power of attorney drawn in favour of the Royal Councillor of War and Forests Mr von Triebenfeld, under this date; that he acknowledged himself throughout to the verbatim contents of the same; and that thereupon, after His Highness had once more read the same through beforehand",
+   "names": [
+    {
+     "de": "Guhewitzschen Justitz Amt",
+     "en": "Guhrwitz Court of Justice",
+     "kind": "other"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Breslaw",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig fürsten zu Hohenlohe Ingelfingen",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1805"
+   ]
   },
   {
    "page": 16,
-   "en": "and approved it, subscribed and sealed it in our presence as his own — this is hereby attested testando Protocolli de hodicano in fidem puplicam. Thus done at the Guhrwitz Justice Office near Breslau, the 19 February 1805. Baronial Stillfried Luhemitz Justice Office\n\n(L. S.)\n\nKoeppen\nJustitiarius\n\nKaleschke\nActuarius\n\nWe Friedrich Wilhelm, by God's grace King of Prussia etc., make known and hereby give to be known that, whereas the possessor of the lordships of Zagorowo and Trąbczyn, situate in South Prussia in the Kalisch Chamber Department and in its Koninsch district, of the reigning Herr Fürst zu Hohenlohe Ingelfingen, has sought of us permission, reserving a part of the demesne farm Trąbczyn"
+   "en": "and approved it, he signed and sealed it in our presence as his own — this is hereby attested testando Protocolli de hodierno in fidem publicam. Thus done at the Guhrwitz Court of Justice near Breslau, the 19th of February 1805. Baronial Stillfried Luhemitzer Court of Justice\n\n(L. S.)\n\nKoeppen\n\nJusticiary\n\nKaleschke\n\nActuary. We Friedrich Wilhelm, by the Grace of God King of Prussia etc., make known and hereby give to be understood that, whereas the possessor of the lordships of Zagorowo and Trąbczyn situated in South Prussia, in the Kalisz Chamber department and its Konin district, the reigning Prince of Hohenlohe-Ingelfingen, has sought permission of us, with the reservation of one part of the demesne farm Trąbczyn",
+   "names": [
+    {
+     "de": "Guhrwitz schon Justitz Amte",
+     "en": "Guhrwitz Court of Justice",
+     "kind": "other"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "freyherrlich stillfried Luhemitzer Justitz Amt",
+     "en": "Baronial Stillfried Luhemitzer Court of Justice",
+     "kind": "other"
+    },
+    {
+     "de": "Koeppen",
+     "en": "Koeppen",
+     "kind": "person"
+    },
+    {
+     "de": "Kaleschke",
+     "en": "Kaleschke",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "SüdPreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kalischen Cammer Deparfement",
+     "en": "Kalisz Chamber department",
+     "kind": "place"
+    },
+    {
+     "de": "Koninschen Kreise",
+     "en": "Konin district",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1805"
+   ]
   },
   {
    "page": 17,
-   "en": "together with the manorial parcels at Marianton, amounting in all to Seven hundred and Eighty-one Morgen and 77 square rods, and likewise four [uncertain: thousand] Nine hundred and Forty-seven Morgen of forest, to dismember the said lordships together with the remaining and greater part of the forests, namely\n\nA.) the demesne farms belonging to the lordship of Zagorowo — Drzewce, Kopoyno, Swiątniki, Swięcia and Broniki — and likewise the demesne farms belonging to the lordship of Trąbczyn — Nowawies, Przybislaw, Stara Hutta — and a part of the demesne farm Trąbczyn;\n\nB. to let out in hereditary lease the demesne farm and village Olesnice and likewise the demesne farm and village Szetlewek; and\n\nC. to convert the services and prestations of all the subjects into a fixed money rent — we have therefore, in view of"
+   "en": "together with the lordship's plots at Marianton, amounting in all to seven hundred and eighty-one Morgen and 77 square rods, and likewise four [uncertain: thousand] nine hundred and forty-seven Morgen of forest, to dismember the said lordships together with the remaining and larger part of the forests, namely\n\nA.) the demesne farms belonging to the lordship of Zagorowo, Drzewce, Kopojno, Swiątniki, Swięcia and Broniki, and likewise the demesne farms belonging to the lordship of Trąbczyn, Nowawies, Przybislaw, Stara Hutta and one part of the demesne farm Trąbczyn;\n\nB. to grant in hereditary lease the demesne farm and village Olesnice, and likewise the demesne farm and village Szetlewek;\n\nand\n\nC. to be permitted to convert the services and prestations of all the subjects into a fixed money rent — so have we, in consideration of",
+   "names": [
+    {
+     "de": "Marianton",
+     "en": "Marianton",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Kopoyno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Swiątniki",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Broniki",
+     "en": "Broniki",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Nowawies",
+     "en": "Nowawies",
+     "kind": "place"
+    },
+    {
+     "de": "Przy bislaw",
+     "en": "Przybislaw",
+     "kind": "place"
+    },
+    {
+     "de": "Stara Hutta",
+     "en": "Stara Hutta",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnice",
+     "en": "Olesnice",
+     "kind": "place"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "77",
+    "A.)",
+    "B.",
+    "C."
+   ]
   },
   {
    "page": 18,
-   "en": "the usefulness of this undertaking and of the profitable services rendered and still to be rendered to Us and Our Royal House by His Liebden the reigning Herr Fürst zu Hohenlohe Ingelfingen, Our General of Infantry and Governor of Breslau, by Cabinet Orders of the 22 October and 7 December of last year, resolved to comply with this his petition in such wise and to approve the same, provided that the following modalities shall obtain, namely\n\n1., that the indemnification to be granted to the subjects for their hitherto pasturage and timber rights be more precisely determined, and that in the hereditary-rent instruments of each individual the extent of the area assigned to him rent-free in lieu thereof be"
+   "en": "the usefulness of this design and of the profitable services rendered, and still to be rendered, to Us and Our Royal House by Your Lordship the reigning Prince of Hohenlohe-Ingelfingen, Our General of Infantry and Governor of Breslau, by cabinet orders of the\n\n22nd of October and 7th of December of last year, resolved to accede to this his petition and to approve the same in such manner that the following conditions shall obtain, namely\n\n1., that the compensation to be granted to the subjects for their hitherto pasture and timber rights be more closely determined, and that in the hereditary-rent deeds of each individual the extent of the area assigned to him rent-free on that account be",
+   "names": [
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "22",
+    "7",
+    "1."
+   ]
   },
   {
    "page": 19,
-   "en": "exactly noted; as likewise here in general the provisions contained in §. 12. of the Edict issued for the Province of Silesia under the 1st May 1804 must be duly followed, on the ground of a special and rectified survey;\n\n2., that none of the present rustical holdings may lapse, but that if in case of a fire-damage or other misfortune no one is found who will re-establish such a holding out of his own means, the Dominium must restore the building at its own cost;\n\n3., that all the sovereign dues now charged upon the said estates, or in future still to be laid upon them, and other charges likewise, shall as heretofore be"
+   "en": "exactly noted, just as here in general the provisions contained in §. 12 of the Edict issued for the province of Silesia on the 1st of May 1804 must be duly observed upon the ground of a special and corrected survey;\n\n2., that none of the present peasant holdings may be suppressed, but that if, upon a loss by fire or other misfortune, no one is found who will re-establish such a holding out of his own means, the manorial lordship (Dominium) must restore the buildings at its own cost;\n\n3., that all the territorial-sovereign dues now charged upon the said estates or hereafter still to be laid upon them, and likewise other [text lost] as here-",
+   "names": [
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Dominium",
+     "en": "manorial lordship (Dominium)",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "12",
+    "1ten",
+    "1804",
+    "2.",
+    "3."
+   ]
   },
   {
    "page": 20,
-   "en": "-livered to Our treasuries appointed thereto, within the prescribed terms; and that for their security the needful be on that account entered in the mortgage book of the lands and forests reserved by the Dominium;\n\n4., that the timber rights belonging to the monastery and provostry of Ląd be likewise entered in the mortgage [book] upon the totality of the forests reserved from the dismemberment, and be in such manner secured; against which we consent that if hereafter the forests excepted from the dismemberment should be found insufficient for the timber rights belonging to the fisc in respect of the Domain Office of Ratyn,"
+   "en": "tofore be remitted to Our treasuries appointed for the purpose, within the prescribed terms, and that for their security what is needful in that regard be entered in the mortgage book of the lands and forests reserved by the manorial lordship;\n\n4., that the timber rights belonging to the monastery and the provostry of Ląd be likewise entered in the mortgage [book] upon the totality of the [uncertain: forests] reserved from the dismemberment, and be in such manner secured; against which we consent that, should in the sequel the [uncertain: forests] excepted from the dismemberment be found insufficient for the timber rights belonging to the Treasury in respect of the domain office of Ratyn,",
+   "names": [
+    {
+     "de": "Kloster und der Probstey Ląd",
+     "en": "the monastery and the provostry of Ląd",
+     "kind": "place"
+    },
+    {
+     "de": "Dominio",
+     "en": "manorial lordship",
+     "kind": "other"
+    },
+    {
+     "de": "Domainen Amts Ratyn",
+     "en": "domain office of Ratyn",
+     "kind": "place"
+    },
+    {
+     "de": "fisco",
+     "en": "the Treasury",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "4."
+   ]
   },
   {
    "page": 21,
-   "en": "an indemnification therefor shall be ascertained and secured by a yearly canon. In witness whereof we have caused the present Consens to be engrossed and executed under the usual signature and the greater seal of Our War and Domains Chamber. Thus done and given at Kalisch, the 28 January 1806. (L. S.) Royal South Prussian War and Domains Chamber\n\nMenickel[illegible]\nSchmiedike\nKann\nKoch\nWayda\n\nConsens for the dismemberment of the lordships of Zagorowo and Trąbczyn.\n\nThat the foregoing copies have been found, praevia Collatione, of like"
+   "en": "a compensation by way of an annual canon shall be ascertained and secured therefor. In witness whereof we have caused the present consent to be engrossed and executed under the usual signature and the greater seal of Our War and Domains Chamber. Thus done and given at Kalisz, the 28th of January 1806. (L. S.) Royal South Prussian War and Domains Chamber. Menickel[?]\n\nSchmiedike\n\nKann\n\nKoch\n\nWayda. Consent to the dismemberment of the lordships of Zagorowo and Trąbczyn. That the foregoing copies have been found, praevia Collatione, to agree",
+   "names": [
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Menickel[?]",
+     "en": "Menickel [uncertain: Menickel]",
+     "kind": "person"
+    },
+    {
+     "de": "Schmiedike",
+     "en": "Schmiedike",
+     "kind": "person"
+    },
+    {
+     "de": "Kann",
+     "en": "Kann",
+     "kind": "person"
+    },
+    {
+     "de": "Koch",
+     "en": "Koch",
+     "kind": "person"
+    },
+    {
+     "de": "Wayda",
+     "en": "Wayda",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "28",
+    "1806"
+   ]
   },
   {
    "page": 22,
-   "en": "tenor with their originals, is hereby credibly attested. Marianton, the 27th October 1806. (L. S.) Princely Hohenlohe Patrimonial Court at Trąbczyn\n\nHawich\n\nEngrossed in due form, with the impression of the court seal and the usual signature.\n\nPeysern, the 13th August 1807. Princely Hohenlohe Patrimonial Court\n\nHawich\n\nEngrossment of the hereditary-lease contract between the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter of His Serene Highness the reigning Fürst zu Hohenlohe Ingelfingen, and the resident Christian Friedenberger, concerning one Hufe Magdeburg measure of land."
+   "en": "word for word with their originals is hereby credibly attested. Marianton, the 27th of October 1806. (L. S.) Princely Hohenlohe Patrimonial Court at Trąbczyn. Hawich. Engrossed in due form and with the impression of the court seal and the usual signature.\n\nPyzdry, the 13th of August 1807. Princely Hohenlohe Patrimonial Court. Hawich.\n\nEngrossment of the hereditary-lease contract between the Councillor of War and Forests von Triebenfeld as general attorney of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, and the resident Christian Friedenberger, over one Magdeburg Hufe of land.",
+   "names": [
+    {
+     "de": "Marianton",
+     "en": "Marianton",
+     "kind": "place"
+    },
+    {
+     "de": "Fürstlich Hohenloheſches Patrimonial Gericht auf Trąbczyn",
+     "en": "Princely Hohenlohe Patrimonial Court at Trąbczyn",
+     "kind": "other"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Peysern",
+     "en": "Pyzdry",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Christian Friedenberger",
+     "en": "Christian Friedenberger",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "27",
+    "1806",
+    "13",
+    "1807"
+   ]
   }
  ],
- "text_english": "The Princely Hohenlohe Patrimonial Court hereby gives to be known that between the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter of His Serene Highness, as seller on the one part, and the resident Christian Friedenberger, as purchaser on the other part, the following hereditary-lease contract, concerning one Hufe Magdeburg measure of land situate in the Trąbczyn forest, has been concluded and judicially declared before us.\n\nActum Trąbczyn, the 25th of March 1806. There appeared the persons well known to the undersigned Justitiarius, namely\n\n1., the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary and jurisdictional lord of this place, legitimated by the power of attorney appended hereto, on the one part, and\n\n2., the resident Christian Friedenberger of Szymanowicer Hauland, on the other part.\n\nThe comparents are found to be in the [uncertain: condition] validly to execute judicial transactions, and declare freely and wil-\n\n-lingly and with due deliberation the following hereditary-lease contract to the protocol.\n\n§. I. His Most Serene Highness namely grants in fee to Christian Friedenberger one Hufe, write One Hufe Magdeburg measure, reckoned at thirty Morgen to the Hufe and each Morgen at one hundred and eighty square rods, situate in the Trąbczyn forest, from now onward for all perpetual time\n\nin hereditary lease.\n\n§. II. The said Christian Friedenberger pays for the one Hufe Magdeburg measure 100 rt., write One hundred Rthaler, as entry-money; and since this entry-money is already fully paid, Christian Friedenberger is hereby receipted for the same without further reservation.\n\n§. III. Christian Friedenberger\n\nbinds himself hereby, for himself and his successors in possession of this holding, to pay from this one Hufe a yearly hereditary canon of thirty Rthaler, write thirty Rthaler, to the Dominium of this place; and this hereditary rent shall be discharged yearly in two instalments, namely one half at Christmas and the other half at St. John's, each time in cash and in Courant to the manorial treasury.\n\n§. IV. For the wholly uncultivated arable the hereditary lessee receives three free years, which begin from Martinmas of the past year and end at St. John's 1809, so that the first half-yearly hereditary rent must be paid at Christmas 1809 with 15 rt., write fifteen Rthaler\n\nRthaler.\n\nThat land which at the measuring-out is handed over to Christian Friedenberger as already cultivated, be it much or little, shall bear rent from Christmas of this year, since the free years extend only to that part which has first to be brought under cultivation.\n\n§. V. It stands free to the hereditary lessee to redeem the stipulated hereditary [uncertain: rent] of the thirty [illegible] up to one half, that is to say, according to his means, to pay off to the ground-lordship one, two, up to three hundred [uncertain: Thaler] of capital, whereupon for every hundred Rthaler five Rthaler shall be\n\nabated yearly from the hereditary rent; the capital so paid off remains the property of the ground-lordship, and this redemption of the hereditary rent takes place only in respect of the first half; the second half, at fifteen Rthaler per Hufe, on the other hand remains irredeemable and can never be raised or diminished.\n\n§. VI. Besides the [uncertain: aforesaid] hereditary rent, the hereditary lessee undertakes, for the present and for future times perpetually, to discharge and to render all the Royal and other public dues falling upon this one Hufe, in whatsoever they may consist, without any exception and without deduction from the hereditary rent or any other reimbursement, and to\n\nto perform.\n\n§. VII. The hereditary lessee must [uncertain: build] at his own cost, without receiving for this either now or in future timber or other building assistance; however, all the timber standing on his Hufe belongs to him in property without exception.\n\nLikewise the hereditary lessee and his successors in possession of this holding must effect all future repairs and new buildings out of their own means, without subsidy or aid.\n\n§. VIII. Outside his own holding the hereditary lessee has no right to firewood or to [uncertain: pasture] in the manorial woods and fields.\n\n§. IX. His drink the hereditary lessee must always take from\n\nthe manorial brewery and distillery or from the tavern; if foreign drink is brought in by him or over his people, the hereditary lessee shall each time incur a penalty of 5 rt. for every barrel of beer and one Rthaler for every garniec of brandy, which penalty is to be paid to the ground-lordship.\n\n§. X. To the milling compulsion the hereditary lessee is subject, and he may grind his grain only where the manorial lordship directs him.\n\n§. XI.\n\nFrom all and every manorial service and deliveries in kind without distinction the hereditary lessee is entirely exempted for [uncertain: ever],\n\nyet he remains subject to the jurisdiction of the Dominus of this place.\n\n§. XII.\n\nThe hereditary lessee and his successors in possession are entitled to alienate his holding to another in any manner he pleases; but at every sale or exchange the tenth Groschen of the [uncertain: purchase] or exchange money must be paid to the ground-lordship as a Laudemium, and the [uncertain: consent] of the same must be obtained for every alienation, inasmuch as the ground-lordship hereby reserves to itself once and for all the right of pre-emption.\n\n§. XIII. The hereditary lessee renounces, for himself and his successors in possession, all and every remission in cases of mis-\n\n-fortune, be the same arising through fire from heaven, or the incendiarism of evil people, hail-storm, crop failure, cattle plague, inundation, war and pestilence, or in whatever manner it may arise, wholly for the present and for the future; and in cases occurring neither a bonification nor a remission of the hereditary rent shall take place.\n\n§. XIV. All the costs attending this contract the hereditary lessee undertakes to discharge.\n\n§. XV. His Most Serene Highness consents that the hereditary lessee may, on the ground of this contract, have his title of possession registered for himself.\n\n§. XVI. So long as the hereditary lessee and his successors in possession fulfil all the obligations contained in this contract, His Most Serene Highness promises to maintain them in their rights and to defend them against every man's real claim.\n\nBut should the hereditary lessee or his successors remain in arrears with the yearly hereditary rents longer than two years, or else lay waste this holding and thereby diminish the revenues of the ground-lordship, then the ground-lordship shall be entitled to [uncertain: dispose of] this holding otherwise, and the hereditary lessee forfeits his whole\n\nright and the entry-money paid in.\n\nBoth parties promise to keep this hereditary-lease contract firmly and inviolably; being judicially instructed as to the consequences, they renounce all subterfuges available against it, particularly the objection of an injury suffered above or below the half, of cunning persuasion, fear, compulsion, of matters otherwise agreed than written down, or not rightly understood; they moved that this contract be judicially engrossed, and, after previous verbatim reading out to them, in token of approval have\n\nhereunder subscribed and signed with their own hands.\n\nv. Triebenfeld    xxx own hand-mark of Christian Friedenberger\n\nSchenck\nJustitiarius\n\nOgrodowicz\nProtocollant\n\nGeneral Power of Attorney\n\nI, the undersigned, do hereby make known and confess that I hereby [uncertain: expressly] empower the Royal Councillor of War and Forests, Herr Peter Friedrich August v. Triebenfeld, Your Right Honourable, of Schweinern etc., to manage in my name all and every affair touching the estates of Zagorowo, Wittow and Trąbczyn belonging to me, situate in South Prussia in the Kalisch Department, whether they concern a dismemberment, or purchase and sale, leasing or pledging, or by whatever other name they may be called and whatever bearing and influence they may have, both judicially and extrajudicially, to ad-\n\n-minister; to petition, respectively to notify, all approbations or directives necessary in the matter, as well as all other requisites appearing to him necessary, both with the most laudable Chamber and with the most laudable Government at Kalisch and with all other requisite offices and authorities; and to manage all other requisite business for me; to settle accounts and conclude agreements with the tenants; to pay out moneys, to receive the like, and to give receipt for them; to issue to my officials and servants there the orders proper to them; to examine their conduct and service, and if he should not find such [uncertain: according] to his insight fitting and should find it prejudicial to me, to suspend them if need be; and in general un-\n\n-restrictedly and freely to act in all authorities and affairs as he shall find good and most conformable to my interest.\n\nWhatsoever my said Bevollmächtigter shall do by virtue of this commission received, I hereby promise to approve and to hold thereby so inviolably as if I had done it myself. At the same time I also bind myself to indemnify my Herr Bevollmächtigter in every quarter on account of this commission, and to reimburse him all [uncertain: costs] and outlays, upon the pledging of my present and future property, so far as shall be required thereto. In witness whereof I have subscribed this General Power of Attorney with my own hand and\n\nconfirmed it by the impression of my arms. Thus done at the Guhewitzsch Justice Office near Breslau, the 19th February 1805. (L. S.) read by myself and approved, Friedrich Ludwig Fürst zu Hohenlohe.\n\nThat His Serene Highness the reigning Prince and Lord, well known in person to the undersigned Justice Office and fully capable of disposition, General of Infantry, Chief of a Regiment, Governor of the city and fortress of Breslau and Knight of the Great Black and Red Eagle Orders, Herr Friedrich Ludwig Fürst zu Hohenlohe Ingelfingen, did draw up before us and with our participation, under this date, the foregoing General Power of Attorney directed to the Royal Councillor of War and Forests Herr v. Triebenfeld, acknowledged himself throughout to its verbatim contents, and thereupon, after His Highness had once more previously read the same through\n\nand approved it, subscribed and sealed it in our presence as his own — this is hereby attested testando Protocolli de hodicano in fidem puplicam. Thus done at the Guhrwitz Justice Office near Breslau, the 19 February 1805. Baronial Stillfried Luhemitz Justice Office\n\n(L. S.)\n\nKoeppen\nJustitiarius\n\nKaleschke\nActuarius\n\nWe Friedrich Wilhelm, by God's grace King of Prussia etc., make known and hereby give to be known that, whereas the possessor of the lordships of Zagorowo and Trąbczyn, situate in South Prussia in the Kalisch Chamber Department and in its Koninsch district, of the reigning Herr Fürst zu Hohenlohe Ingelfingen, has sought of us permission, reserving a part of the demesne farm Trąbczyn\n\ntogether with the manorial parcels at Marianton, amounting in all to Seven hundred and Eighty-one Morgen and 77 square rods, and likewise four [uncertain: thousand] Nine hundred and Forty-seven Morgen of forest, to dismember the said lordships together with the remaining and greater part of the forests, namely\n\nA.) the demesne farms belonging to the lordship of Zagorowo — Drzewce, Kopoyno, Swiątniki, Swięcia and Broniki — and likewise the demesne farms belonging to the lordship of Trąbczyn — Nowawies, Przybislaw, Stara Hutta — and a part of the demesne farm Trąbczyn;\n\nB. to let out in hereditary lease the demesne farm and village Olesnice and likewise the demesne farm and village Szetlewek; and\n\nC. to convert the services and prestations of all the subjects into a fixed money rent — we have therefore, in view of\n\nthe usefulness of this undertaking and of the profitable services rendered and still to be rendered to Us and Our Royal House by His Liebden the reigning Herr Fürst zu Hohenlohe Ingelfingen, Our General of Infantry and Governor of Breslau, by Cabinet Orders of the 22 October and 7 December of last year, resolved to comply with this his petition in such wise and to approve the same, provided that the following modalities shall obtain, namely\n\n1., that the indemnification to be granted to the subjects for their hitherto pasturage and timber rights be more precisely determined, and that in the hereditary-rent instruments of each individual the extent of the area assigned to him rent-free in lieu thereof be\n\nexactly noted; as likewise here in general the provisions contained in §. 12. of the Edict issued for the Province of Silesia under the 1st May 1804 must be duly followed, on the ground of a special and rectified survey;\n\n2., that none of the present rustical holdings may lapse, but that if in case of a fire-damage or other misfortune no one is found who will re-establish such a holding out of his own means, the Dominium must restore the building at its own cost;\n\n3., that all the sovereign dues now charged upon the said estates, or in future still to be laid upon them, and other charges likewise, shall as heretofore be\n\n-livered to Our treasuries appointed thereto, within the prescribed terms; and that for their security the needful be on that account entered in the mortgage book of the lands and forests reserved by the Dominium;\n\n4., that the timber rights belonging to the monastery and provostry of Ląd be likewise entered in the mortgage [book] upon the totality of the forests reserved from the dismemberment, and be in such manner secured; against which we consent that if hereafter the forests excepted from the dismemberment should be found insufficient for the timber rights belonging to the fisc in respect of the Domain Office of Ratyn,\n\nan indemnification therefor shall be ascertained and secured by a yearly canon. In witness whereof we have caused the present Consens to be engrossed and executed under the usual signature and the greater seal of Our War and Domains Chamber. Thus done and given at Kalisch, the 28 January 1806. (L. S.) Royal South Prussian War and Domains Chamber\n\nMenickel[illegible]\nSchmiedike\nKann\nKoch\nWayda\n\nConsens for the dismemberment of the lordships of Zagorowo and Trąbczyn.\n\nThat the foregoing copies have been found, praevia Collatione, of like\n\ntenor with their originals, is hereby credibly attested. Marianton, the 27th October 1806. (L. S.) Princely Hohenlohe Patrimonial Court at Trąbczyn\n\nHawich\n\nEngrossed in due form, with the impression of the court seal and the usual signature.\n\nPeysern, the 13th August 1807. Princely Hohenlohe Patrimonial Court\n\nHawich\n\nEngrossment of the hereditary-lease contract between the Councillor of War and Forests v. Triebenfeld, as General Bevollmächtigter of His Serene Highness the reigning Fürst zu Hohenlohe Ingelfingen, and the resident Christian Friedenberger, concerning one Hufe Magdeburg measure of land.",
+ "text_english": "The Princely Hohenlohe Patrimonial Court hereby gives to be known that between the Councillor of War and Forests von Triebenfeld as general attorney of His Serene Highness as seller of the one part, and the resident Christian Friedenberger as purchaser of the other part, the following hereditary-lease contract, over one Magdeburg Hufe of land situated in the Trąbczyn forest, has been concluded and judicially declared before us.\n\nActum Trąbczyn, the 25th of March 1806. There appeared the persons well known to the undersigned justiciary, namely\n\n1., the Councillor of War and Forests von Triebenfeld as general attorney of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, hereditary lord and lord of the court of this place, legitimated by the enclosed power of attorney, of the one part, and\n\n2., the resident Christian Friedenberger of Szymanowicer Hauland, of the other part.\n\nThe appearers find themselves in the condition to execute judicial acts validly, and declare freely and de-\n\nliberately and with due deliberation the following hereditary-lease contract to the protocol.\n\n§. I. His Most Serene Highness namely grants in fee to Christian Friedenberger one Hufe, in words One Magdeburg Hufe, reckoned at thirty Morgen to the Hufe and each Morgen at one hundred and eighty square rods, situated in the Trąbczyn forest, from now on for perpetual times\n\nin hereditary lease.\n\n§. II. Christian Friedenberger pays for the one Magdeburg Hufe 100 rt., in words One hundred Reichsthaler, as entry-money, and since this entry-money is already fully paid, Christian Friedenberger is hereby receipted for the same without further reservation.\n\n§. III. Christian Friedenberger\n\nhereby binds himself, for himself and his successors in possession of this holding, to pay from this one Hufe an annual hereditary canon of thirty Reichsthaler, in words thirty Reichsthaler, to the manorial lordship (Dominium) of this place; and this hereditary rent shall be discharged yearly in two instalments, namely one half at Christmas and the other half at Midsummer, each time in cash and in Courant, to the lordship's treasury.\n\n§. IV. For the wholly uncultivated arable the hereditary lessee receives three free years, which begin from Martinmas of the past year and end at Midsummer 1809, so that the first half-yearly hereditary rent must be paid at Christmas 1809 with 15 rt., in words fifteen Reichsthaler\n\nReichsthaler must be paid.\n\nThat land which at the measuring-out is handed over to Christian Friedenberger as already under cultivation, be it much or little, shall bear rent from Christmas of this year, inasmuch as the free years extend only to that part which must first be brought under cultivation.\n\n§. V. It stands free to the hereditary lessee to redeem the fixed hereditary rent of the thirty [uncertain: Reichsthaler] up to one half, that is to say, to pay off to the ground lordship, according to his means, one, two, up to three hundred [illegible] of capital, whereupon for every hundred Reichsthaler five Reichsthaler shall be\n\ntaken off the hereditary rent yearly; the capital so paid off remains the property of the ground lordship, and this redemption of the hereditary rent takes place only in respect of the first half; the second half, at fifteen Reichsthaler per Hufe, on the other hand remains irredeemable and can never be raised or diminished.\n\n§. VI. Besides the [uncertain: aforesaid] hereditary rent, the hereditary lessee takes upon himself, for the present and for future times perpetually, to discharge and render all royal and other public dues whatsoever falling upon this one Hufe, consist in what they may, without any exception and without deduction from the hereditary rent or other reimbursement, and to\n\nrender.\n\n§. VII. The hereditary lessee must [uncertain: build] at his own cost, without receiving for this purpose, either now or in the future, timber or other building assistance; nevertheless all the timber standing upon his Hufe belongs to him in property, without exception.\n\nLikewise the hereditary lessee and his successors in possession of this holding must effect all future repairs and new buildings out of their own means, without subsidy or assistance.\n\n§. VIII. Outside his own possession the hereditary lessee has no right to firewood or to [uncertain: pasture] in the lordship's forests and fields.\n\n§. IX. His drink the hereditary lessee must always take from\n\nthe lordship's brewery and distillery or from the tavern; if foreign drink be brought in by him or by his people, the hereditary lessee incurs each time a penalty of 5 rt. for every barrel of beer and one Reichsthaler for every garniec of brandy, which penalty is paid to the ground lordship.\n\n§. X. The hereditary lessee is subject to the milling compulsion and may grind his corn only where the estate lordship directs him. §. XI.\n\nFrom all and every manorial service and deliveries in kind, without distinction, the hereditary lessee is for ever wholly exempt;\n\nhe nevertheless remains subject to the jurisdiction of the lordship of this place.\n\n§. XII.\n\nThe hereditary lessee and his successors in possession are entitled to alienate his holding to another in any manner whatsoever; but on every sale or exchange the tenth Groschen of the purchase or exchange money must be paid to the ground lordship as a transfer fee (Laudemium), and its consent must be obtained to every alienation, inasmuch as the ground lordship hereby reserves to itself once and for all the right of pre-emption.\n\n§. XIII. The hereditary lessee renounces, for himself and his successors in possession, all and every remission upon mis-\n\nfortunes, whether these arise through fire from heaven or by the incendiarism of evil persons, hailstorm, crop failure, cattle plague, flood, war and pestilence, or in whatsoever manner it may be, for the present and for the future entirely, and upon such cases occurring neither compensation nor abatement of the hereditary rent shall take place.\n\n§. XIV. All the costs attending this contract the hereditary lessee takes upon himself to discharge.\n\n§. XV. His Most Serene Highness consents that the hereditary lessee may, upon the ground of this contract, have his title of possession settled for himself.\n\n§. XVI. So long as the hereditary lessee and his successors in possession shall fulfil all the obligations contained in this contract, His Most Serene Highness promises to maintain them in their rights and to defend them against any man's real claim.\n\nShould, however, the hereditary lessee or his successors remain in arrears with the annual hereditary rent for longer than two years, or else lay waste this holding and thereby diminish the revenues of the ground lordship, then the ground lordship shall be entitled to dispose of this holding otherwise, and the hereditary lessee forfeits his whole\n\nright and the entry-money paid in.\n\nBoth parties promise to keep this hereditary-lease contract firmly and inviolably; being judicially instructed as to the consequences, they renounce all evasions available against it, in particular the objection of an alleged lesion above and below the half, of cunning persuasion, fear, compulsion, of matters otherwise agreed than written down or not rightly understood; they moved that this contract be judicially engrossed, and have, after previous reading aloud word for word, in token of their approval,\n\nsigned and subscribed the same below in their own hands.\n\nvon Triebenfeld xxx the personal mark of Christian Friedenberger Schenck\n\nJusticiary\n\nOgrodowicz\n\nKeeper of the protocol\n\nGeneral power of attorney. I, the undersigned, do hereby make known and declare that I hereby expressly empower the Royal Councillor of War and Forests Mr Peter Friedrich August\n\nvon Triebenfeld, Your Right Honourable, of Schweinern etc., to conduct in my name all and every affair touching the estates of Zagorowo, Witów and Trąbczyn belonging to me and situated in South Prussia in the Kalisz department, whether they concern a dismemberment, or purchase and sale, leasing or pledging, or by whatever name they may be called and whatever bearing and influence they may have, both judicially and extrajudicially to man-\n\nage; to petition, respectively to notify, all approbations or instructions necessary in that regard, as well as all other requirements that may seem to him necessary, before the Most Laudable Chamber as also before the Most Laudable Government at Kalisz and before all other requisite offices and authorities, and to attend to all other necessary business for me; to settle accounts with the lessees and conclude agreements, to pay out moneys, to receive the like and give receipts for them; to issue to my officials and servants there such orders as are conducive to the purpose, to examine their conduct and performance of duty, and, should he not find such conformable to his insight and prejudicial to me, to suspend them if need be, and in general un-\n\nrestrictedly and freely to act in all matters and before all authorities as he shall find good and most conformable to my interest.\n\nWhatsoever my said attorney shall do by virtue of this commission received, I hereby promise to approve and to hold thereby as inviolably as if I had done it myself. At the same time I bind myself also to indemnify my attorney in every respect on account of this commission, and to reimburse him all [uncertain: costs] and outlays, upon the pledging of my present and future property, so much thereof as shall be required for this. In witness whereof I have signed this general power of attorney in my own\n\nhand and by\n\nthe impression of my arms confirmed it. Thus done at the Guhrwitz Court of Justice near Breslau, the 19th of February 1805. (L. S.) read by myself, and approved. Friedrich Ludwig, Prince of Hohenlohe. That His Serene Highness the reigning Prince and Lord, personally very well known to the undersigned Court of Justice and fully capable of disposition, General of Infantry, chief of a regiment, Governor of the town and fortress of Breslau and knight of the great Black and Red Eagle Order, Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, executed before us and with our attendance the above general power of attorney drawn in favour of the Royal Councillor of War and Forests Mr von Triebenfeld, under this date; that he acknowledged himself throughout to the verbatim contents of the same; and that thereupon, after His Highness had once more read the same through beforehand\n\nand approved it, he signed and sealed it in our presence as his own — this is hereby attested testando Protocolli de hodierno in fidem publicam. Thus done at the Guhrwitz Court of Justice near Breslau, the 19th of February 1805. Baronial Stillfried Luhemitzer Court of Justice\n\n(L. S.)\n\nKoeppen\n\nJusticiary\n\nKaleschke\n\nActuary. We Friedrich Wilhelm, by the Grace of God King of Prussia etc., make known and hereby give to be understood that, whereas the possessor of the lordships of Zagorowo and Trąbczyn situated in South Prussia, in the Kalisz Chamber department and its Konin district, the reigning Prince of Hohenlohe-Ingelfingen, has sought permission of us, with the reservation of one part of the demesne farm Trąbczyn\n\ntogether with the lordship's plots at Marianton, amounting in all to seven hundred and eighty-one Morgen and 77 square rods, and likewise four [uncertain: thousand] nine hundred and forty-seven Morgen of forest, to dismember the said lordships together with the remaining and larger part of the forests, namely\n\nA.) the demesne farms belonging to the lordship of Zagorowo, Drzewce, Kopojno, Swiątniki, Swięcia and Broniki, and likewise the demesne farms belonging to the lordship of Trąbczyn, Nowawies, Przybislaw, Stara Hutta and one part of the demesne farm Trąbczyn;\n\nB. to grant in hereditary lease the demesne farm and village Olesnice, and likewise the demesne farm and village Szetlewek;\n\nand\n\nC. to be permitted to convert the services and prestations of all the subjects into a fixed money rent — so have we, in consideration of\n\nthe usefulness of this design and of the profitable services rendered, and still to be rendered, to Us and Our Royal House by Your Lordship the reigning Prince of Hohenlohe-Ingelfingen, Our General of Infantry and Governor of Breslau, by cabinet orders of the\n\n22nd of October and 7th of December of last year, resolved to accede to this his petition and to approve the same in such manner that the following conditions shall obtain, namely\n\n1., that the compensation to be granted to the subjects for their hitherto pasture and timber rights be more closely determined, and that in the hereditary-rent deeds of each individual the extent of the area assigned to him rent-free on that account be\n\nexactly noted, just as here in general the provisions contained in §. 12 of the Edict issued for the province of Silesia on the 1st of May 1804 must be duly observed upon the ground of a special and corrected survey;\n\n2., that none of the present peasant holdings may be suppressed, but that if, upon a loss by fire or other misfortune, no one is found who will re-establish such a holding out of his own means, the manorial lordship (Dominium) must restore the buildings at its own cost;\n\n3., that all the territorial-sovereign dues now charged upon the said estates or hereafter still to be laid upon them, and likewise other [text lost] as here-\n\ntofore be remitted to Our treasuries appointed for the purpose, within the prescribed terms, and that for their security what is needful in that regard be entered in the mortgage book of the lands and forests reserved by the manorial lordship;\n\n4., that the timber rights belonging to the monastery and the provostry of Ląd be likewise entered in the mortgage [book] upon the totality of the [uncertain: forests] reserved from the dismemberment, and be in such manner secured; against which we consent that, should in the sequel the [uncertain: forests] excepted from the dismemberment be found insufficient for the timber rights belonging to the Treasury in respect of the domain office of Ratyn,\n\na compensation by way of an annual canon shall be ascertained and secured therefor. In witness whereof we have caused the present consent to be engrossed and executed under the usual signature and the greater seal of Our War and Domains Chamber. Thus done and given at Kalisz, the 28th of January 1806. (L. S.) Royal South Prussian War and Domains Chamber. Menickel[?]\n\nSchmiedike\n\nKann\n\nKoch\n\nWayda. Consent to the dismemberment of the lordships of Zagorowo and Trąbczyn. That the foregoing copies have been found, praevia Collatione, to agree\n\nword for word with their originals is hereby credibly attested. Marianton, the 27th of October 1806. (L. S.) Princely Hohenlohe Patrimonial Court at Trąbczyn. Hawich. Engrossed in due form and with the impression of the court seal and the usual signature.\n\nPyzdry, the 13th of August 1807. Princely Hohenlohe Patrimonial Court. Hawich.\n\nEngrossment of the hereditary-lease contract between the Councillor of War and Forests von Triebenfeld as general attorney of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, and the resident Christian Friedenberger, over one Magdeburg Hufe of land.",
  "summary_en": "Hereditary-lease contract by which Councillor of War and Forests von Triebenfeld, general attorney of the Prince of Hohenlohe-Ingelfingen, grants Christian Friedenberger of Szymanowicer Hauland one Magdeburg Hufe in the Trąbczyn forest for 100 Rthl entry-money and 30 Rthl annual rent, half redeemable, with three free years, tavern and milling compulsion, Laudemium of the tenth Groschen, and no remission for misfortune. Filed with it: Triebenfeld's general power of attorney of 1805 and the Kalisz Chamber's 1806 consent to dismembering Zagorowo and Trąbczyn.",
  "summary_de": "Erbpachtvertrag über eine Magdeburger Hufe (30 Morgen) im Trąbczyner Forst, den Kriegs- und Forstrat von Triebenfeld als Generalbevollmächtigter des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen mit dem Einwohner Christian Friedenberger von Szymanowicer Hauland schließt: 100 Rthl Einkaufsgeld, jährlicher Erbcanon von 30 Rthl in zwei Terminen, drei Freijahre bis Johanni 1809, Laudemium des zehnten Groschens, Bier- und Mahlzwang, Verzicht auf Nachlaß. Beigefügt sind die Generalvollmacht (Guhrwitz 1805) und der kammerliche Dismembrationskonsens für Zagorowo und Trąbczyn."
 }

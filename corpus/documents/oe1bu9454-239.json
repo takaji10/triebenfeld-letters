@@ -148,20 +148,345 @@
    "doc_line": 41
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Topliz",
+   "kind": "place",
+   "surface_de": "Topliz",
+   "surface_en": "Topliz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King Franz",
+   "kind": "person",
+   "surface_de": "K. Franz",
+   "surface_en": "King Franz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Osterreich",
+   "surface_en": "Austria",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austrian",
+   "kind": "place",
+   "surface_de": "Osterreichschen",
+   "surface_en": "Austrian",
+   "page": 1
+  },
+  {
+   "entity": "bulow",
+   "display": "Bülow",
+   "kind": "person",
+   "surface_de": "Bülow",
+   "surface_en": "Bülow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Czerniczeff",
+   "kind": "person",
+   "surface_de": "Czerniczeff",
+   "surface_en": "Czerniczeff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hanover",
+   "kind": "place",
+   "surface_de": "Hannover",
+   "surface_en": "Hanover",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Embden",
+   "kind": "place",
+   "surface_de": "Embden",
+   "surface_en": "Embden",
+   "page": 2
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Franckenstein",
+   "kind": "place",
+   "surface_de": "Franckenstein",
+   "surface_en": "Franckenstein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Merkel",
+   "kind": "person",
+   "surface_de": "Merkel",
+   "surface_en": "Merkel",
+   "page": 2
+  },
+  {
+   "entity": "gneizenau",
+   "display": "Gneizenau",
+   "kind": "person",
+   "surface_de": "Gneizenau",
+   "surface_en": "Gneizenau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Valentini",
+   "kind": "person",
+   "surface_de": "Valentini",
+   "surface_en": "Valentini",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neustad",
+   "kind": "place",
+   "surface_de": "Neustad",
+   "surface_en": "Neustad",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ortel",
+   "kind": "person",
+   "surface_de": "Ortel",
+   "surface_en": "Ortel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Min Hard:",
+   "kind": "person",
+   "surface_de": "Min Hard:",
+   "surface_en": "Min Hard:",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Madame von Hahn",
+   "kind": "person",
+   "surface_de": "Frau v. Hahn",
+   "surface_en": "Madame von Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Kleist",
+   "kind": "person",
+   "surface_de": "v Kleist",
+   "surface_en": "von Kleist",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Neisse",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! My podagra hindered me the day before yesterday from getting as far as Neisse; in the night I was obliged, because the road-bed was bottomless, to bivouac under the open sky behind stones, and as it rained so frightfully I exposed my foot entirely to the eaves-drip — the pain grew gradually less, so that today I have already forced the boot on — the King was here 3 days and drove off just as I arrived here, [uncertain: taking wood?] so as to go in that region towards Topliz, where the Russian Emperor is with His sister; it is said K. Franz would also arrive there, but thinking men doubt it – so far as one knows here, and [it] is ill assured to the highest eodem, Austria does not accede – Everything is beginning to grow lukewarm, yet it promises to remain entirely neutral, wherefore also in the Austrian [uncertain: states] the signs of neutrality have everywhere been publicly posted and made known - the Combined Powers have been frightfully duped by the armistice - Bülow and Czerniczeff"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy gout hindered me the day before yesterday from getting as far as Neisse; in the night I had to bivouac under the open sky behind stones, because the road-bed was bottomless, and as it was raining so frightfully I exposed my foot entirely to the drip — the pain grew gradually less, so that today I have already pressed on the boot — the King was here 3 days; just as I arrived here he drove [uncertain: wood] off, to go into the district towards Topliz, where the Russian Emperor is with his sister; it is said King Franz would also arrive there, but thinking men doubt it – so far as one knows here, and it is ill assured to the highest eodem, Austria is not acceding – Everything is beginning to grow lukewarm, yet it promises to remain entirely neutral, and therefore in the Austrian states the signs of neutrality have everywhere been publicly posted up and made known - the Combined Powers are frightfully duplicated by the armistice - Bülow and Czerniczeff",
+   "names": [
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "Topliz",
+     "en": "Topliz",
+     "kind": "place"
+    },
+    {
+     "de": "K. Franz",
+     "en": "King Franz",
+     "kind": "person"
+    },
+    {
+     "de": "Osterreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Osterreichschen",
+     "en": "Austrian",
+     "kind": "place"
+    },
+    {
+     "de": "Bülow",
+     "en": "Bülow",
+     "kind": "person"
+    },
+    {
+     "de": "Czerniczeff",
+     "en": "Czerniczeff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3"
+   ]
   },
   {
    "page": 2,
-   "en": "would not acknowledge [it] at all; meanwhile they have had to submit, and [he] now stands in Berlin - the corps which went to Hannover, in order to disembark at Embden, will now likewise remain ineffective, or even be worn down entirely, for Napoleon has hurried to Paris; the good old, and in part shrewd, men prophesy nothing much good. From here everything is off and to its post; tomorrow the government also departs for Franckenstein - Merkel was here - and sets out thither early on some [day] – the post, or the courier route, was re-established 8 days ago already - I therefore send this letter by the post. Gen. Gneizenau is at headquarters, likewise R. Valentini - I must go today to Neustad to Gen. Ortel / for my plan has met with approval / and as soon as I return from there I go to Franckenstein etc. Minister Hardenberg seeks, in the opinion of all, much good. May Your Serene Highness deign to tell Frau v. Hahn that her [uncertain: letter] to Breslau has been seen to - likewise I have delivered the one to the Chief Forest Master v Kleist, who however was away travelling, to his [uncertain: blockaded] son - It is in deepest reverence that I remain, until death, Your Serene Highness's Neisse 19 Juny 1813 humble and obedient servant v Triebenfeld"
+   "en": "would not acknowledge at all; meanwhile they have had to submit, and he now stands in Berlin - the corps that went to Hanover, to disembark itself at Emden, will now likewise remain ineffective, or even be worn down entirely, for Napoleon has hastened to Paris; the good old men, and in part clever men, prophesy little good. From here everything goes off and to its post; tomorrow the government too departs for Franckenstein - Merkel was here - and sets out thither early in a few [days] – the post, or the courier service, was re-established 8 days ago already - I therefore send this letter by the post. General Gneizenau is at headquarters, and R. Valentini also - today I must go to Neustad to General Ortel / for my plan has met with approval / and as soon as I return from there I go on to Franckenstein etc. Min Hard: seeks, in the opinion of all, much good. May Your Serene Highness deign to tell Madame von Hahn that her letter has been forwarded to Breslau - likewise I handed over the one to Chief Forest Master von Kleist, who however was away travelling, to his wounded son - It is in deepest reverence that I remain, until death, Your Serene Highness's\n\nNeisse\n\n19 June 1813\n\nhumble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Hannover",
+     "en": "Hanover",
+     "kind": "place"
+    },
+    {
+     "de": "Embden",
+     "en": "Embden",
+     "kind": "place"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Franckenstein",
+     "en": "Franckenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Merkel",
+     "en": "Merkel",
+     "kind": "person"
+    },
+    {
+     "de": "Gneizenau",
+     "en": "Gneizenau",
+     "kind": "person"
+    },
+    {
+     "de": "Valentini",
+     "en": "Valentini",
+     "kind": "person"
+    },
+    {
+     "de": "Neustad",
+     "en": "Neustad",
+     "kind": "place"
+    },
+    {
+     "de": "Ortel",
+     "en": "Ortel",
+     "kind": "person"
+    },
+    {
+     "de": "Min Hard:",
+     "en": "Min Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Frau v. Hahn",
+     "en": "Madame von Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Kleist",
+     "en": "von Kleist",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "19",
+    "1813"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! My podagra hindered me the day before yesterday from getting as far as Neisse; in the night I was obliged, because the road-bed was bottomless, to bivouac under the open sky behind stones, and as it rained so frightfully I exposed my foot entirely to the eaves-drip — the pain grew gradually less, so that today I have already forced the boot on — the King was here 3 days and drove off just as I arrived here, [uncertain: taking wood?] so as to go in that region towards Topliz, where the Russian Emperor is with His sister; it is said K. Franz would also arrive there, but thinking men doubt it – so far as one knows here, and [it] is ill assured to the highest eodem, Austria does not accede – Everything is beginning to grow lukewarm, yet it promises to remain entirely neutral, wherefore also in the Austrian [uncertain: states] the signs of neutrality have everywhere been publicly posted and made known - the Combined Powers have been frightfully duped by the armistice - Bülow and Czerniczeff\n\nwould not acknowledge [it] at all; meanwhile they have had to submit, and [he] now stands in Berlin - the corps which went to Hannover, in order to disembark at Embden, will now likewise remain ineffective, or even be worn down entirely, for Napoleon has hurried to Paris; the good old, and in part shrewd, men prophesy nothing much good. From here everything is off and to its post; tomorrow the government also departs for Franckenstein - Merkel was here - and sets out thither early on some [day] – the post, or the courier route, was re-established 8 days ago already - I therefore send this letter by the post. Gen. Gneizenau is at headquarters, likewise R. Valentini - I must go today to Neustad to Gen. Ortel / for my plan has met with approval / and as soon as I return from there I go to Franckenstein etc. Minister Hardenberg seeks, in the opinion of all, much good. May Your Serene Highness deign to tell Frau v. Hahn that her [uncertain: letter] to Breslau has been seen to - likewise I have delivered the one to the Chief Forest Master v Kleist, who however was away travelling, to his [uncertain: blockaded] son - It is in deepest reverence that I remain, until death, Your Serene Highness's Neisse 19 Juny 1813 humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy gout hindered me the day before yesterday from getting as far as Neisse; in the night I had to bivouac under the open sky behind stones, because the road-bed was bottomless, and as it was raining so frightfully I exposed my foot entirely to the drip — the pain grew gradually less, so that today I have already pressed on the boot — the King was here 3 days; just as I arrived here he drove [uncertain: wood] off, to go into the district towards Topliz, where the Russian Emperor is with his sister; it is said King Franz would also arrive there, but thinking men doubt it – so far as one knows here, and it is ill assured to the highest eodem, Austria is not acceding – Everything is beginning to grow lukewarm, yet it promises to remain entirely neutral, and therefore in the Austrian states the signs of neutrality have everywhere been publicly posted up and made known - the Combined Powers are frightfully duplicated by the armistice - Bülow and Czerniczeff\n\nwould not acknowledge at all; meanwhile they have had to submit, and he now stands in Berlin - the corps that went to Hanover, to disembark itself at Emden, will now likewise remain ineffective, or even be worn down entirely, for Napoleon has hastened to Paris; the good old men, and in part clever men, prophesy little good. From here everything goes off and to its post; tomorrow the government too departs for Franckenstein - Merkel was here - and sets out thither early in a few [days] – the post, or the courier service, was re-established 8 days ago already - I therefore send this letter by the post. General Gneizenau is at headquarters, and R. Valentini also - today I must go to Neustad to General Ortel / for my plan has met with approval / and as soon as I return from there I go on to Franckenstein etc. Min Hard: seeks, in the opinion of all, much good. May Your Serene Highness deign to tell Madame von Hahn that her letter has been forwarded to Breslau - likewise I handed over the one to Chief Forest Master von Kleist, who however was away travelling, to his wounded son - It is in deepest reverence that I remain, until death, Your Serene Highness's\n\nNeisse\n\n19 June 1813\n\nhumble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports his podagra delayed his journey to Neisse, forcing a night's bivouac in the rain, though the foot now bears a boot. Political news: the King has just left for the Topliz region, where the Russian Emperor is with his sister; Kaiser Franz's arrival is doubted and Austria is not acceding, neutrality being publicly posted. The armistice has duped the Combined Powers; Bülow and Czerniczeff objected but submitted. Napoleon has hurried to Paris. Mentions Gneizenau, Valentini, Ortel, Hardenberg, and letters delivered for Frau v. Hahn and v. Kleist.",
  "summary_de": "Bericht über die eigene Podagra, die Triebenfeld auf dem Weg nach Neisse zum Biwakieren im Regen zwang, und über die politisch-militärische Lage: Der König sei drei Tage hier gewesen und Richtung Topliz abgereist, wo der russische Kaiser weile; Österreichs Beitritt bleibe zweifelhaft, überall seien Neutralitätszeichen angeschlagen, der Waffenstillstand habe die verbündeten Mächte getäuscht, Bülow und Czerniczeff hätten sich fügen müssen. Erwähnt Gneizenau, Valentini, Ortel, Merkel und Hardenberg sowie erledigte Aufträge für Frau v. Hahn und v. Kleist."
 }

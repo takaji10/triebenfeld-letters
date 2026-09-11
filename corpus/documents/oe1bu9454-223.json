@@ -330,48 +330,624 @@
    "doc_line": 220
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolphs",
+   "surface_en": "Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koschentin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koschentin",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ruszynowią",
+   "kind": "place",
+   "surface_de": "Ruszynowią",
+   "surface_en": "Ruszynowią",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Wortens",
+   "kind": "person",
+   "surface_de": "Grafen Wortens",
+   "surface_en": "Count Wortens",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Nüsse",
+   "kind": "place",
+   "surface_de": "Nüsse",
+   "surface_en": "Nüsse",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schimmelpfennig",
+   "kind": "person",
+   "surface_de": "Schimmelpfennigschen",
+   "surface_en": "Schimmelpfennig",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Szelce",
+   "kind": "place",
+   "surface_de": "Szelce",
+   "surface_en": "Szelce",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Maderzewo",
+   "kind": "place",
+   "surface_de": "Maderzewo",
+   "surface_en": "Maderzewo",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Mysłowic",
+   "kind": "place",
+   "surface_de": "Mysłowic",
+   "surface_en": "Mysłowic",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Przemsa",
+   "kind": "place",
+   "surface_de": "Przemsa",
+   "surface_en": "Przemsa",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "cavalry captain",
+   "kind": "other",
+   "surface_de": "Pittmeister",
+   "surface_en": "cavalry captain",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Deschent",
+   "kind": "person",
+   "surface_de": "Deſchenten",
+   "surface_en": "Deschent",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Bally",
+   "kind": "other",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 5
+  },
+  {
+   "entity": "schimmelpfennig",
+   "display": "Schimmelpfennig",
+   "kind": "person",
+   "surface_de": "Schimmelpfennig",
+   "surface_en": "Schimmelpfennig",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Schimmelpfennig",
+   "kind": "person",
+   "surface_de": "Schimmisperings",
+   "surface_en": "Schimmelpfennig",
+   "page": 5
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommer",
+   "surface_en": "Sommer",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "somer",
+   "surface_en": "Sommer",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Lebanis",
+   "kind": "person",
+   "surface_de": "lebanis",
+   "surface_en": "Lebanis",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "von Schimmelpfennig",
+   "kind": "person",
+   "surface_de": "v Schimmelpfennig",
+   "surface_en": "von Schimmelpfennig",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Thaer",
+   "kind": "person",
+   "surface_de": "Thaer",
+   "surface_en": "Thaer",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Gollawia",
+   "kind": "place",
+   "surface_de": "Gollawia",
+   "surface_en": "Gollawia",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Lahr heirs",
+   "kind": "person",
+   "surface_de": "Lahrschen Erben",
+   "surface_en": "Lahr heirs",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Johnston",
+   "kind": "person",
+   "surface_de": "Johnston",
+   "surface_en": "Johnston",
+   "page": 7
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommer",
+   "surface_en": "Sommer",
+   "page": 7
+  },
+  {
+   "entity": "august",
+   "display": "August",
+   "kind": "person",
+   "surface_de": "August",
+   "surface_en": "August",
+   "page": 8
+  },
+  {
+   "entity": "emilie",
+   "display": "Emilie",
+   "kind": "person",
+   "surface_de": "Emilie",
+   "surface_en": "Emilie",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Hohenloh Kirchberg",
+   "kind": "place",
+   "surface_de": "Hohenloh Kirchberg",
+   "surface_en": "Hohenloh Kirchberg",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Adele",
+   "kind": "person",
+   "surface_de": "Adele",
+   "surface_en": "Adele",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 9
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! Your Right Honourable's letter of the 20th of Novb. I received on the 26th, but until today I have had to detain the messenger, who has been paid and whom I have also compensated for his stay, in order to acquaint Your Right Honourable exactly with certain occurrences which do indeed appear to me worth being turned to account, and which probably also, in your judgement, deserve preference over other plans. Once I have first answered your letter, I shall go into detail upon them as far as seems necessary, partly to depict for you the advantage of the newer prospect, partly also to set forth the necessity which alone makes it a law to lay hold, in order to procure for myself partly ready ringing means, partly such objects as are free of debt, and thereby, if only for the moment, to [uncertain: extricate] myself from a press that almost crushes me, so as to gain time and, following increasing consultation with my children, to make myself air by means of further reasonable plans to be adopted, so as to be able to subsist somewhat tolerably. That Your Right Honourable will faithfully act to this end as a proven friend I perceive with gratitude from your worthy communication, and were I only wholly secure, under the guardianship of my son Adolph, of the Koschentin estates being [text lost]"
+   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! Your Right Honourable's letter of the 20th of November I received on the 26th; but until today I have had to detain the messenger, who has been paid and whom I have also compensated for his stay, in order to acquaint Your Right Honourable exactly with several occurrences which do indeed seem to me worth being turned to account and which probably, in your judgement too, deserve preference over other plans. Once I have first answered your letter, I shall go into detail upon them so far as seems necessary, partly to portray to you the advantageousness of the newer prospect, partly also to set forth the necessity which alone makes it a law to seize the chance, so as to procure for me partly ready ringing means, partly such objects as are free of debt, and thereby, if only for the moment, to extricate myself from a press which almost crushes me, to gain time, and, after increasing consultation with my children, to create air for myself through further reasonable plans to be adopted, so as to be able to subsist in some tolerable fashion. That Your Right Honourable will faithfully work to this end as a proven friend I perceive with gratitude from your esteemed letter, and were I only quite secure in the guardianship of my son Adolph as regards the Koschentin estates [text lost]",
+   "names": [
+    {
+     "de": "Adolphs",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koschentin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "20.",
+    "26ten"
+   ]
   },
   {
    "page": 2,
-   "en": "then your plan would be excellent; I beg you also not to let it [uncertain: drop], since the welfare of the mortgage creditors who have their [uncertain: funds] standing there lies very zealously at my heart. I shall also exert myself most zealously to promote this, and hope my eldest son and my son-in-law will [uncertain: press forward] with zeal to the attainment of this intention. But since this wish can be attained even if we do not bring matters to a conclusion with Weigel and Stössel according to Your Right Honourable's wisely laid plan, I must seek my welfare particularly in this, namely to procure means by the alienation of the Zagorow estates to rid myself of my private debts, which press me most, which then, by the arrangement I have now made, may, as I dare hope, be soon and desirably accomplished, especially if you will in friendly wise make it your concern to unite your whole [uncertain: strength] and talent for negotiation with mine and to treat upon it with the same intention. I have carefully taken to heart the plan you have just laid before me for negotiation with Weigel and Stössel, and by no means contradict it. I do not, however, believe that there will be any getting on with Weigel, and if the bargain is not made with both gentlemen at once, then it can by no means be of use to us. The acceptance of Ruszynowią would only further increase the already too large objects of estates; I would not gladly enlarge the obligations which I have towards you by the taking on of Blizanow. Since I always cherish the intention above all not to be ungrateful towards you, nor to increase your embarrassments."
+   "en": "then your plan would be excellent; I beg you also not to let it [uncertain: fall], since the welfare of the mortgage creditors, who have their funds standing there, lies very earnestly at my heart. I shall also apply myself most zealously to further this, and I hope my eldest son and my son-in-law will press with zeal toward the attainment of this object. But since this wish can be attained if we do not come to terms with Weigel and Stössel even according to Your Right Honourable's wisely laid plan, I must seek my welfare particularly in this, that through the alienation of the Zagorowo estates alone I procure means to rid myself of my private debts, which press me most, which then, through the arrangement I have now made, shall, as I may hope, soon and desirably be achieved, especially if you will in friendly fashion make it your concern to unite your whole strength and negotiating talent with mine and to treat upon it with the same intent. I have carefully weighed the plan you have just laid before me for the negotiation with Weigel and Stössel, and by no means contradict it. But I do not believe that there will be any getting on with Weigel, and if the bargain is not made with both gentlemen at once, then it can in no way serve us. The taking on of Ruszynowią would only further increase the already too great objects of estates; not gladly would I enlarge the obligations I have toward you by the taking in of Blizanow, since I constantly harbour above all the intention never to be ungrateful toward you, nor to increase your embarrassments.",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Ruszynowią",
+     "en": "Ruszynowią",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "I meanwhile thank Your Right Honourable for your generous intention; I shall certainly hear your grounds upon this too with pleasure, and let every reasonable representation find its place with me. You will find here both the plans enclosed with your letter, your own and that of Count Wortensleben, [uncertain: appended]. I leave it further to you, with regard to my situation and the momentary absolute necessity of its relief, to take further cautious steps. I flattered myself until today that I should see my esteemed friend here with me, since I cannot conceive that, if you had had occasion to go to Nüsse again, you should not have found yourself moved to come to me. Upon all this I need, for my own [uncertain: guidance], speedy, exact and circumstantial news. That you will work for my welfare with all your power I am gratefully convinced by you; nevertheless the [uncertain: what?] When? Where? — and especially How soon? — is the greatest need for me to know, and I must tell you that my subsistence depends in great part upon it. How grateful will I be to you if I speedily obtain, through [illegible], reassuring news upon which I can reckon. A fair amount of ready money is as great a need at Christmas as food is for the preservation of life. Your Right Honourable has therefore mortally terrified me, since you report to me the sheer impossibility of supporting me soon with monies from there also; and the referring me to lawsuits still to be won can reassure me all the less, since unhappily up to now I have seen all those that were conducted in Poland on my behalf either [text lost]"
+   "en": "I thank Your Right Honourable meanwhile for your generous intention; I shall certainly be glad to hear your grounds upon this matter too, and shall let every reasonable representation find a place with me. You find here enclosed both the plans laid with your letter, your own and that of Count Wortens [illegible]. I leave it further to you, with regard to my situation and the momentary absolute necessity of its relief, to take further cautious steps. I flattered myself until today that I should see my esteemed friend here with me, since I cannot think that, if you had occasion to go again to Nüsse, you should not have found yourself moved to come to me. Upon all this, exact and circumstantial news is needed by me soon for my [uncertain: peace]; that you will work for my welfare according to your powers I am gratefully convinced of by you; meanwhile the who? when? where? – and especially how soon? – is the greatest need for me to know, and I must tell you that my subsistence depends in great part upon it. How grateful I will be to you if I speedily receive reassuring news, upon which I can reckon, through this [messenger]; a fairly large sum of ready money is as great a need at Christmas as food is for the preservation of life. Your Right Honourable has therefore mortally alarmed me, since you report to me the absolute impossibility of soon supporting me with moneys from there as well, and the referring me to lawsuits yet to be won can reassure me all the less, since unhappily I have to this day seen all of those conducted for me in Poland either [text lost]",
+   "names": [
+    {
+     "de": "Grafen Wortens",
+     "en": "Count Wortens",
+     "kind": "person"
+    },
+    {
+     "de": "Nüsse",
+     "en": "Nüsse",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "or abandoned; as to the one concerning Trąbczyn I have no wish to ask any further, and I confess that [uncertain: it shames the house] when I must merely say that the means for the continuation of these suits are lacking. All the disappointed hopes have made me as unhappy through the [uncertain: misleading] as you cannot conceive. Therefore [uncertain: help] to save me and what still remains to me in the Polish estates, and thereby preserve our honour and our mutual advantage, to which end I am ready, under your [uncertain: counsel], to make considerable sacrifices. I must confess to you that my situation is such that even any short postponement which defers this means of rescue inflicts mortal wounds upon me. I hope that an offer which has been made to me on the part of the Schimmelpfennig family, and which persons well disposed towards me have fostered, will lead to this. The old General and his sons, who were themselves with me, have an inclination towards the Zagorow estates; he would gladly in exchange sell to me his wholly debt-free estates Szelce and Maderzewo, which lie not [text lost] near Mysłowic on the Przemsa, and puts their yield at 8000 Rthl Courant. Others who know these estates exactly put it definitely at 6000 Rthl. He purchased them several years ago for 26000 ducats in Gold, and several thousand more is said to have been expended by him upon their improvement, and he now wishes to bring them above 100000 Rthl. Not long ago 85000 Rthl Courant were offered him for them, which however he refused. The General's lady possesses a capital of about 60000 Rthl in [uncertain: Opfernstisch] mortgage bonds, and as the eldest son, the"
+   "en": "or given up; as for the one concerning Trąbczyn I do not care to ask any more, and I confess that it only [uncertain: shames the house] when I must merely say that the means for the continuation of these suits are lacking; all the disappointed hopes have made me as unhappy through the misleading as you cannot imagine. Help me therefore to save what still remains to me in the Polish estates, and thereby preserve our honour and our mutual advantage, for which, under your guidance, I am ready to make considerable sacrifices. I must confess to you that the situation is such that even any short postponement which defers this means of rescue inflicts mortal wounds upon me. I hope that a proposal which has been made to me on the part of the Schimmelpfennig family, and which persons well disposed toward me have fostered, will lead to this end. The old General and his sons, who were themselves with me, have a liking for the Zagorowo estates; he would gladly in exchange sell to me his wholly debt-free estates Szelce and Maderzewo, which lie [uncertain: not] near Mysłowic on the Przemsa, and puts their yield at 8000 Rthl Courant.\n\nOthers who know these estates exactly put it definitely at 6000 Rthl. He purchased them several years ago for 26000 ducats in Gold; several thousand more he is said to have laid out upon their improvement, and now he means to bring them above 100000 Rthl. A short while ago 85000 Rthl Courant were offered him for them, which he however refused. The General's wife possesses a capital of about 60000 Rthl in [uncertain: Opfernstisch] mortgage bonds, and as the eldest son, the",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Schimmelpfennigschen",
+     "en": "Schimmelpfennig",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Szelce",
+     "en": "Szelce",
+     "kind": "place"
+    },
+    {
+     "de": "Maderzewo",
+     "en": "Maderzewo",
+     "kind": "place"
+    },
+    {
+     "de": "Mysłowic",
+     "en": "Mysłowic",
+     "kind": "place"
+    },
+    {
+     "de": "Przemsa",
+     "en": "Przemsa",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "8000",
+    "6000",
+    "26000",
+    "100000",
+    "85000",
+    "60000"
+   ]
   },
   {
    "page": 5,
-   "en": "cavalry captain, expressed to me, [uncertain: this sum, indeed some 100000 Rthl] in money and if need be somewhat more, could be brought together, if one would accept documents or allow him time to call in some capitals. He requested of me the maps and valuations of the Zagorow estates, which I sent over to him, and received them back already with the expressed wish to bring this business to a conclusion. Thus I had also sent him the rent-register, the statement of arrears and remainders, as well as the General Land-Register handed over to you only in Anno b; all this seemed to the old gentleman not yet clear enough, and, since one had already heard various things about the estates and relied upon my fairness, a reasoned and instructive statement was desired, such as would be confirmed on ocular inspection, upon which alone one would engage, and then would soon bring the matter to an end. [uncertain: Deschent's] clerk, who came hither to visit a [uncertain: Bally] and supposed he would find me in better circumstances, and therefore hoped to obtain from me the remuneration due to him as having been for a year Your Right Honourable's fellow-worker in the business there, was present, and I made use of him in a conference with the cavalry captain v Schimmelpfennig, in order to set forth everything to him exactly and thoroughly. He undertook this commission willingly and skilfully, and drew up for my use and my own instruction a reasoned and instructive valuation, which I also communicated confidentially to Schimmelpfennig. I must do Herr Lieut. Sommer the justice to say that, while he takes no [uncertain: notice] of our mutual grief and oppressive situation, but expresses himself only cautiously, he pities Your Right Honourable,"
+   "en": "cavalry captain, expressed to me, this sum could well be brought together to 100000 Rthl in money and at need something more, if one would accept documents or allow him time to call in some capitals. He requested of me the maps and valuations of the Zagorowo estates, which I sent over to him, and which I have already received back with the expressed wish to bring this business to a conclusion. Thus I had also sent him at the same time the rent register, the statement of arrears and remainders, as well as the general statement of buildings handed over only in the year b; all this seemed to the old gentleman still not clear enough, and it was wished, since various things had already been heard about the estates, relying upon my fairness, to have a reasoned and instructive statement which would be confirmed upon ocular inspection, upon which alone one would enter, and would then soon conclude the matter. [uncertain: Deschent's] clerk, who came hither to visit a [uncertain: Bally] and presumed to find me in better circumstances, and therefore hoped to obtain from me the remuneration due to him as having been for a year Your Right Honourable's co-worker in the business there, was present, and I made use of him at a conference with cavalry captain von Schimmelpfennig, in order to set everything forth to him exactly and thoroughly. He undertook this commission willingly and skilfully, and drew up for my use and my own instruction a reasoned and informative valuation, which I also communicated confidentially to Schimmelpfennig. I must do Lieutenant Sommer the justice to say that, while he takes our mutual distress and pressing situation nobly to heart, he expresses himself only cautiously, pities Your Right Honourable",
+   "names": [
+    {
+     "de": "Pittmeister",
+     "en": "cavalry captain",
+     "kind": "other"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Deſchenten",
+     "en": "Deschent",
+     "kind": "person"
+    },
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "other"
+    },
+    {
+     "de": "Schimmelpfennig",
+     "en": "Schimmelpfennig",
+     "kind": "person"
+    },
+    {
+     "de": "Schimmisperings",
+     "en": "Schimmelpfennig",
+     "kind": "person"
+    },
+    {
+     "de": "Sommer",
+     "en": "Sommer",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100000"
+   ]
   },
   {
    "page": 6,
-   "en": "but is withal much devoted to you, and looks forward to seeing you again soon. He will excuse his rapid departure, to which the pressure of circumstances compelled him. I believe he will be, and wishes to be, and can be, of especial use in this business; I may believe that by my conduct I have earned his attachment, and therefore I beg Your Right Honourable in the most friendly way to make use of him with confidence as a good instrument. I promised him that his faithfully rendered co-operation should not go unrewarded, and in any case I beg you, dear friend, to bring it about there soon, so far as is possible, that a payment be ordered to him for his provisional reassurance. The manner and way I leave to Your Right Honourable, and [uncertain: I think] Herr Lieutenant Sommer will, upon this, having taken counsel with [uncertain: Lebanis], be able to make you a proposal not injurious to me. I wish it, since by this we bind to ourselves a faithful and highly knowledgeable assistant. Since Herr General v Schimmelpfennig [uncertain: let fall to me] that he intends within these days to send his elder son the cavalry captain to Berlin on account of the raising of the monies needful thereto, but with his youngest son, who is a pupil of Thaer, intends to undertake the journey to Zagorowo soon, in order to view these estates before the ground is covered with snow, and beforehand however wishes to speak with Herr Lieut. for his own instruction, I shall, as soon as the day of his dispatch is only fixed —"
+   "en": "but is at the same time much devoted to you, and looks forward to the early reunion. He will excuse his rapid departure, to which the press of circumstances compelled him. I believe he will, wishes to, and can be of excellent use in this business; I may believe that by my conduct I have earned his attachment, and therefore I beg Your Right Honourable in the most friendly manner to make use of him with confidence as a good instrument. I promised him not to leave his faithfully rendered assistance unrewarded, and in any case I beg you, best of friends, to bring about there, as soon as may be, whatever can be made possible for his provisional reassurance, by a payment to be ordered to him. The manner and way I leave to Your Right Honourable, and with it to Lieutenant Sommer, that upon this he, having taken counsel with [uncertain: Lebanis], might well be able to make you a proposal not harmful to me. I wish it, since we thereby bind to ourselves a faithful and highly knowledgeable assistant. Since General von Schimmelpfennig let fall to me that he intends in these days to send his elder son, the cavalry captain, to Berlin on account of procuring the moneys needed for the purpose, but with his youngest son, who is a pupil of Thaer, intends soon to undertake the journey to Zagorowo, in order to view these estates before the ground is covered with snow, and beforehand wishes to speak with the Lieutenant to obtain instruction from him, I shall, as soon as the day for his dispatch is determined",
+   "names": [
+    {
+     "de": "somer",
+     "en": "Sommer",
+     "kind": "person"
+    },
+    {
+     "de": "lebanis",
+     "en": "Lebanis",
+     "kind": "person"
+    },
+    {
+     "de": "v Schimmelpfennig",
+     "en": "von Schimmelpfennig",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Thaer",
+     "en": "Thaer",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 7,
-   "en": "which I expect this very day, and on that account hold back your messenger — let the said gentleman depart thither, who has only to act there with all caution, and to secure that. He shall then, since he means to make the journey on horseback, hasten somewhat ahead, in order by his report to Your Right Honourable to bring it about that whatever may further be required for this interview is prepared, wherein much circumspection will have to be used, since the old General is known as cunning, mistrustful and avaricious. He is glad to gain, and this [uncertain: greed] makes him particularly covetous of the largest estates. Withal he is glad to withdraw the ready monies from his children, since he does not believe them safe in their hands hereafter, and is of the opinion that they would sooner preserve the estates than ready money. Since these last days he has further the will to draw his two sons-in-law also into the affair, and intends therefore to bring in the small estate Gollawia, which he recently purchased from the Lahr heirs for his son-in-law [uncertain: Johnston], into the bargain as well; since he paid in only 5000 Rthl for it, it is not to be regarded as any great object. You now know everything that I know upon this subject, and Sommer shall communicate to you, further, as his own elucidation, all that he has heard from me and shall learn in [uncertain: Selige]. Think the matter over ripely and prepare yourself for it as well as may be. I set [uncertain: great] hopes in your savoir faire and have more confidence in this business than I ever yet had in any other. Unhappily my children are not yet on the road, and an illness which befell my daughter-in-law"
+   "en": "which I expect this very day, and on which account I am holding back your messenger, let the said gentleman depart thither, who has only to conduct himself there with all circumspection, that being assured. He shall then, since he means to make the journey on horseback, hasten somewhat ahead, in order by his report to Your Right Honourable to bring it about that whatever else may be requisite for this interview be prepared, in which much caution will have to be employed, since the old General is known as sly, distrustful and avaricious. He is eager to gain, and this [uncertain: fruit] makes him particularly covetous of the largest estates. At the same time he is eager to withdraw the ready moneys from his children, since he does not believe them safe in their hands in the sequel, and is of the opinion that they would sooner conserve the estates than ready money. Since these last days he has further the will to draw both his sons-in-law in there as well, and therefore intends to employ in the bargain the small estate Gollawia, which he lately purchased from the Lahr heirs for his son-in-law [uncertain: Johnston]; since he has paid in only 5000 Rthl, it is not exactly to be regarded as a great object. You now know everything that I know upon this subject, and Sommer shall communicate to you by way of his explanation everything he has heard from me and will learn in [uncertain: selige]. Consider the matter maturely and prepare yourself for it in the best way. I place great hopes in your savoir faire, and have more confidence in this business than I ever yet had in any other. Unhappily my children are not yet on the journey, and an illness which befell my daughter-in-law has itself",
+   "names": [
+    {
+     "de": "Gollawia",
+     "en": "Gollawia",
+     "kind": "place"
+    },
+    {
+     "de": "Lahrschen Erben",
+     "en": "Lahr heirs",
+     "kind": "person"
+    },
+    {
+     "de": "Johnston",
+     "en": "Johnston",
+     "kind": "person"
+    },
+    {
+     "de": "Sommer",
+     "en": "Sommer",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5000"
+   ]
   },
   {
    "page": 8,
-   "en": "has wrung from August the wish to postpone his so necessary coming to a better season of the year. I have already written provisionally to Emilie [uncertain: at/through] my sister of the grounds why his early presence here is needful, and now repeat it urgently by an express courier. Since you take so friendly a part in everything that concerns me and my little family, I do not omit to report to Your Right Honourable that the Hereditary Prince of Hohenloh Kirchberg, who is 1 year older than my daughter Adele, sued for her hand with me these days. Since the mutual inclination, the necessary provision, and propriety in every respect are found together in this match, I have given my consent, and may hope that the contentment of my three eldest children in respect of their [uncertain: matrimonial] relations is now established. God grant that I may soon obtain rest; as soon as [uncertain: one ceases] to be unjust towards me, my limited wishes are [uncertain: quite] attained; one of the chief means to this is the attainment of the business here set out, or some other [uncertain: convenient] alienation of the Zagorow estates suited to my circumstances, soon. You have liberty to employ Trąbczyn in the bargain, on this or the other side, if it can be done with advantage, just as I will [uncertain: exclude] no useful way of attaining the end; everything else being left to your prudence and experience. Do not let me wait long for news, for every definite information may"
+   "en": "wrung from August the wish to postpone his so necessary coming to a better season of the year. I have already provisionally written to him and Emilie at my sister's the reasons why his early presence here becomes necessary, and I now repeat it urgently by an express courier. Since you take such friendly part in everything that concerns me and my little family, I do not omit to report to Your Right Honourable that the hereditary prince of Hohenloh Kirchberg, who is 1 year older than my daughter Adele, has in these days sued to me for her hand. Since the mutual inclination, the necessary provision and the propriety in every respect are found together in this match, I have given my consent, and may hope that now the contentment of my three eldest children in respect of their marital relations is established. God grant that I soon obtain rest, [uncertain: since] men begin to be unjust toward me; then my limited wishes are far attained; one of the foremost means to this is the attainment of the business here set forth, or some amicable and early alienation of the Zagorowo estates suited to my circumstances. You have liberty to employ Trąbczyn in the bargain, if it can be done with advantage, on this or the other side, just as I will not exclude any useful way of attaining the purpose, everything else being committed to your prudence and experience. Do not let me wait long for news, for every definite information can",
+   "names": [
+    {
+     "de": "August",
+     "en": "August",
+     "kind": "person"
+    },
+    {
+     "de": "Emilie",
+     "en": "Emilie",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenloh Kirchberg",
+     "en": "Hohenloh Kirchberg",
+     "kind": "place"
+    },
+    {
+     "de": "Adele",
+     "en": "Adele",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1"
+   ]
   },
   {
    "page": 9,
-   "en": "also lead to [uncertain: decisive] ends, just as to leave me in [uncertain: ignorance] is a cruelty. God keep you in health; I was ailing some days, but since yesterday it goes better, only my eyes still much torment me through their inflammation. Hence I make use of a foreign pen and dictate this. I believe I have overlooked nothing, nor sinned in the matter by any want of circumstantiality. The wish to make it also quite [uncertain: intelligible] has led me to abuse your patience, and I therefore beg you, my esteemed friend, to forgive the length of this epistle. It is with the most particular esteem that I remain Your Right Honourable's Schlawenschitz the 4th of Xbr 1811."
+   "en": "also lead to [uncertain: decisive] purposes, just as to leave me in [uncertain: ignorance] is a cruelty. God keep you in health; I was ailing for some days, but since yesterday it goes better; only my eyes still plague me greatly through their inflammation. Hence I make use of a stranger's pen and dictate this. I believe I have overlooked nothing, nor sinned in the matter through any want of circumstantiality. The wish to make it also quite [uncertain: clear] has led me to abuse your patience, and I therefore beg you, my esteemed friend, to forgive the length of this epistle. It is with the most particular esteem that I remain Your Right Honourable's\n\nSchlawenschitz, the 4th of December 1811.",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4."
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! Your Right Honourable's letter of the 20th of Novb. I received on the 26th, but until today I have had to detain the messenger, who has been paid and whom I have also compensated for his stay, in order to acquaint Your Right Honourable exactly with certain occurrences which do indeed appear to me worth being turned to account, and which probably also, in your judgement, deserve preference over other plans. Once I have first answered your letter, I shall go into detail upon them as far as seems necessary, partly to depict for you the advantage of the newer prospect, partly also to set forth the necessity which alone makes it a law to lay hold, in order to procure for myself partly ready ringing means, partly such objects as are free of debt, and thereby, if only for the moment, to [uncertain: extricate] myself from a press that almost crushes me, so as to gain time and, following increasing consultation with my children, to make myself air by means of further reasonable plans to be adopted, so as to be able to subsist somewhat tolerably. That Your Right Honourable will faithfully act to this end as a proven friend I perceive with gratitude from your worthy communication, and were I only wholly secure, under the guardianship of my son Adolph, of the Koschentin estates being [text lost]\n\nthen your plan would be excellent; I beg you also not to let it [uncertain: drop], since the welfare of the mortgage creditors who have their [uncertain: funds] standing there lies very zealously at my heart. I shall also exert myself most zealously to promote this, and hope my eldest son and my son-in-law will [uncertain: press forward] with zeal to the attainment of this intention. But since this wish can be attained even if we do not bring matters to a conclusion with Weigel and Stössel according to Your Right Honourable's wisely laid plan, I must seek my welfare particularly in this, namely to procure means by the alienation of the Zagorow estates to rid myself of my private debts, which press me most, which then, by the arrangement I have now made, may, as I dare hope, be soon and desirably accomplished, especially if you will in friendly wise make it your concern to unite your whole [uncertain: strength] and talent for negotiation with mine and to treat upon it with the same intention. I have carefully taken to heart the plan you have just laid before me for negotiation with Weigel and Stössel, and by no means contradict it. I do not, however, believe that there will be any getting on with Weigel, and if the bargain is not made with both gentlemen at once, then it can by no means be of use to us. The acceptance of Ruszynowią would only further increase the already too large objects of estates; I would not gladly enlarge the obligations which I have towards you by the taking on of Blizanow. Since I always cherish the intention above all not to be ungrateful towards you, nor to increase your embarrassments.\n\nI meanwhile thank Your Right Honourable for your generous intention; I shall certainly hear your grounds upon this too with pleasure, and let every reasonable representation find its place with me. You will find here both the plans enclosed with your letter, your own and that of Count Wortensleben, [uncertain: appended]. I leave it further to you, with regard to my situation and the momentary absolute necessity of its relief, to take further cautious steps. I flattered myself until today that I should see my esteemed friend here with me, since I cannot conceive that, if you had had occasion to go to Nüsse again, you should not have found yourself moved to come to me. Upon all this I need, for my own [uncertain: guidance], speedy, exact and circumstantial news. That you will work for my welfare with all your power I am gratefully convinced by you; nevertheless the [uncertain: what?] When? Where? — and especially How soon? — is the greatest need for me to know, and I must tell you that my subsistence depends in great part upon it. How grateful will I be to you if I speedily obtain, through [illegible], reassuring news upon which I can reckon. A fair amount of ready money is as great a need at Christmas as food is for the preservation of life. Your Right Honourable has therefore mortally terrified me, since you report to me the sheer impossibility of supporting me soon with monies from there also; and the referring me to lawsuits still to be won can reassure me all the less, since unhappily up to now I have seen all those that were conducted in Poland on my behalf either [text lost]\n\nor abandoned; as to the one concerning Trąbczyn I have no wish to ask any further, and I confess that [uncertain: it shames the house] when I must merely say that the means for the continuation of these suits are lacking. All the disappointed hopes have made me as unhappy through the [uncertain: misleading] as you cannot conceive. Therefore [uncertain: help] to save me and what still remains to me in the Polish estates, and thereby preserve our honour and our mutual advantage, to which end I am ready, under your [uncertain: counsel], to make considerable sacrifices. I must confess to you that my situation is such that even any short postponement which defers this means of rescue inflicts mortal wounds upon me. I hope that an offer which has been made to me on the part of the Schimmelpfennig family, and which persons well disposed towards me have fostered, will lead to this. The old General and his sons, who were themselves with me, have an inclination towards the Zagorow estates; he would gladly in exchange sell to me his wholly debt-free estates Szelce and Maderzewo, which lie not [text lost] near Mysłowic on the Przemsa, and puts their yield at 8000 Rthl Courant. Others who know these estates exactly put it definitely at 6000 Rthl. He purchased them several years ago for 26000 ducats in Gold, and several thousand more is said to have been expended by him upon their improvement, and he now wishes to bring them above 100000 Rthl. Not long ago 85000 Rthl Courant were offered him for them, which however he refused. The General's lady possesses a capital of about 60000 Rthl in [uncertain: Opfernstisch] mortgage bonds, and as the eldest son, the\n\ncavalry captain, expressed to me, [uncertain: this sum, indeed some 100000 Rthl] in money and if need be somewhat more, could be brought together, if one would accept documents or allow him time to call in some capitals. He requested of me the maps and valuations of the Zagorow estates, which I sent over to him, and received them back already with the expressed wish to bring this business to a conclusion. Thus I had also sent him the rent-register, the statement of arrears and remainders, as well as the General Land-Register handed over to you only in Anno b; all this seemed to the old gentleman not yet clear enough, and, since one had already heard various things about the estates and relied upon my fairness, a reasoned and instructive statement was desired, such as would be confirmed on ocular inspection, upon which alone one would engage, and then would soon bring the matter to an end. [uncertain: Deschent's] clerk, who came hither to visit a [uncertain: Bally] and supposed he would find me in better circumstances, and therefore hoped to obtain from me the remuneration due to him as having been for a year Your Right Honourable's fellow-worker in the business there, was present, and I made use of him in a conference with the cavalry captain v Schimmelpfennig, in order to set forth everything to him exactly and thoroughly. He undertook this commission willingly and skilfully, and drew up for my use and my own instruction a reasoned and instructive valuation, which I also communicated confidentially to Schimmelpfennig. I must do Herr Lieut. Sommer the justice to say that, while he takes no [uncertain: notice] of our mutual grief and oppressive situation, but expresses himself only cautiously, he pities Your Right Honourable,\n\nbut is withal much devoted to you, and looks forward to seeing you again soon. He will excuse his rapid departure, to which the pressure of circumstances compelled him. I believe he will be, and wishes to be, and can be, of especial use in this business; I may believe that by my conduct I have earned his attachment, and therefore I beg Your Right Honourable in the most friendly way to make use of him with confidence as a good instrument. I promised him that his faithfully rendered co-operation should not go unrewarded, and in any case I beg you, dear friend, to bring it about there soon, so far as is possible, that a payment be ordered to him for his provisional reassurance. The manner and way I leave to Your Right Honourable, and [uncertain: I think] Herr Lieutenant Sommer will, upon this, having taken counsel with [uncertain: Lebanis], be able to make you a proposal not injurious to me. I wish it, since by this we bind to ourselves a faithful and highly knowledgeable assistant. Since Herr General v Schimmelpfennig [uncertain: let fall to me] that he intends within these days to send his elder son the cavalry captain to Berlin on account of the raising of the monies needful thereto, but with his youngest son, who is a pupil of Thaer, intends to undertake the journey to Zagorowo soon, in order to view these estates before the ground is covered with snow, and beforehand however wishes to speak with Herr Lieut. for his own instruction, I shall, as soon as the day of his dispatch is only fixed —\n\nwhich I expect this very day, and on that account hold back your messenger — let the said gentleman depart thither, who has only to act there with all caution, and to secure that. He shall then, since he means to make the journey on horseback, hasten somewhat ahead, in order by his report to Your Right Honourable to bring it about that whatever may further be required for this interview is prepared, wherein much circumspection will have to be used, since the old General is known as cunning, mistrustful and avaricious. He is glad to gain, and this [uncertain: greed] makes him particularly covetous of the largest estates. Withal he is glad to withdraw the ready monies from his children, since he does not believe them safe in their hands hereafter, and is of the opinion that they would sooner preserve the estates than ready money. Since these last days he has further the will to draw his two sons-in-law also into the affair, and intends therefore to bring in the small estate Gollawia, which he recently purchased from the Lahr heirs for his son-in-law [uncertain: Johnston], into the bargain as well; since he paid in only 5000 Rthl for it, it is not to be regarded as any great object. You now know everything that I know upon this subject, and Sommer shall communicate to you, further, as his own elucidation, all that he has heard from me and shall learn in [uncertain: Selige]. Think the matter over ripely and prepare yourself for it as well as may be. I set [uncertain: great] hopes in your savoir faire and have more confidence in this business than I ever yet had in any other. Unhappily my children are not yet on the road, and an illness which befell my daughter-in-law\n\nhas wrung from August the wish to postpone his so necessary coming to a better season of the year. I have already written provisionally to Emilie [uncertain: at/through] my sister of the grounds why his early presence here is needful, and now repeat it urgently by an express courier. Since you take so friendly a part in everything that concerns me and my little family, I do not omit to report to Your Right Honourable that the Hereditary Prince of Hohenloh Kirchberg, who is 1 year older than my daughter Adele, sued for her hand with me these days. Since the mutual inclination, the necessary provision, and propriety in every respect are found together in this match, I have given my consent, and may hope that the contentment of my three eldest children in respect of their [uncertain: matrimonial] relations is now established. God grant that I may soon obtain rest; as soon as [uncertain: one ceases] to be unjust towards me, my limited wishes are [uncertain: quite] attained; one of the chief means to this is the attainment of the business here set out, or some other [uncertain: convenient] alienation of the Zagorow estates suited to my circumstances, soon. You have liberty to employ Trąbczyn in the bargain, on this or the other side, if it can be done with advantage, just as I will [uncertain: exclude] no useful way of attaining the end; everything else being left to your prudence and experience. Do not let me wait long for news, for every definite information may\n\nalso lead to [uncertain: decisive] ends, just as to leave me in [uncertain: ignorance] is a cruelty. God keep you in health; I was ailing some days, but since yesterday it goes better, only my eyes still much torment me through their inflammation. Hence I make use of a foreign pen and dictate this. I believe I have overlooked nothing, nor sinned in the matter by any want of circumstantiality. The wish to make it also quite [uncertain: intelligible] has led me to abuse your patience, and I therefore beg you, my esteemed friend, to forgive the length of this epistle. It is with the most particular esteem that I remain Your Right Honourable's Schlawenschitz the 4th of Xbr 1811.",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! Your Right Honourable's letter of the 20th of November I received on the 26th; but until today I have had to detain the messenger, who has been paid and whom I have also compensated for his stay, in order to acquaint Your Right Honourable exactly with several occurrences which do indeed seem to me worth being turned to account and which probably, in your judgement too, deserve preference over other plans. Once I have first answered your letter, I shall go into detail upon them so far as seems necessary, partly to portray to you the advantageousness of the newer prospect, partly also to set forth the necessity which alone makes it a law to seize the chance, so as to procure for me partly ready ringing means, partly such objects as are free of debt, and thereby, if only for the moment, to extricate myself from a press which almost crushes me, to gain time, and, after increasing consultation with my children, to create air for myself through further reasonable plans to be adopted, so as to be able to subsist in some tolerable fashion. That Your Right Honourable will faithfully work to this end as a proven friend I perceive with gratitude from your esteemed letter, and were I only quite secure in the guardianship of my son Adolph as regards the Koschentin estates [text lost]\n\nthen your plan would be excellent; I beg you also not to let it [uncertain: fall], since the welfare of the mortgage creditors, who have their funds standing there, lies very earnestly at my heart. I shall also apply myself most zealously to further this, and I hope my eldest son and my son-in-law will press with zeal toward the attainment of this object. But since this wish can be attained if we do not come to terms with Weigel and Stössel even according to Your Right Honourable's wisely laid plan, I must seek my welfare particularly in this, that through the alienation of the Zagorowo estates alone I procure means to rid myself of my private debts, which press me most, which then, through the arrangement I have now made, shall, as I may hope, soon and desirably be achieved, especially if you will in friendly fashion make it your concern to unite your whole strength and negotiating talent with mine and to treat upon it with the same intent. I have carefully weighed the plan you have just laid before me for the negotiation with Weigel and Stössel, and by no means contradict it. But I do not believe that there will be any getting on with Weigel, and if the bargain is not made with both gentlemen at once, then it can in no way serve us. The taking on of Ruszynowią would only further increase the already too great objects of estates; not gladly would I enlarge the obligations I have toward you by the taking in of Blizanow, since I constantly harbour above all the intention never to be ungrateful toward you, nor to increase your embarrassments.\n\nI thank Your Right Honourable meanwhile for your generous intention; I shall certainly be glad to hear your grounds upon this matter too, and shall let every reasonable representation find a place with me. You find here enclosed both the plans laid with your letter, your own and that of Count Wortens [illegible]. I leave it further to you, with regard to my situation and the momentary absolute necessity of its relief, to take further cautious steps. I flattered myself until today that I should see my esteemed friend here with me, since I cannot think that, if you had occasion to go again to Nüsse, you should not have found yourself moved to come to me. Upon all this, exact and circumstantial news is needed by me soon for my [uncertain: peace]; that you will work for my welfare according to your powers I am gratefully convinced of by you; meanwhile the who? when? where? – and especially how soon? – is the greatest need for me to know, and I must tell you that my subsistence depends in great part upon it. How grateful I will be to you if I speedily receive reassuring news, upon which I can reckon, through this [messenger]; a fairly large sum of ready money is as great a need at Christmas as food is for the preservation of life. Your Right Honourable has therefore mortally alarmed me, since you report to me the absolute impossibility of soon supporting me with moneys from there as well, and the referring me to lawsuits yet to be won can reassure me all the less, since unhappily I have to this day seen all of those conducted for me in Poland either [text lost]\n\nor given up; as for the one concerning Trąbczyn I do not care to ask any more, and I confess that it only [uncertain: shames the house] when I must merely say that the means for the continuation of these suits are lacking; all the disappointed hopes have made me as unhappy through the misleading as you cannot imagine. Help me therefore to save what still remains to me in the Polish estates, and thereby preserve our honour and our mutual advantage, for which, under your guidance, I am ready to make considerable sacrifices. I must confess to you that the situation is such that even any short postponement which defers this means of rescue inflicts mortal wounds upon me. I hope that a proposal which has been made to me on the part of the Schimmelpfennig family, and which persons well disposed toward me have fostered, will lead to this end. The old General and his sons, who were themselves with me, have a liking for the Zagorowo estates; he would gladly in exchange sell to me his wholly debt-free estates Szelce and Maderzewo, which lie [uncertain: not] near Mysłowic on the Przemsa, and puts their yield at 8000 Rthl Courant.\n\nOthers who know these estates exactly put it definitely at 6000 Rthl. He purchased them several years ago for 26000 ducats in Gold; several thousand more he is said to have laid out upon their improvement, and now he means to bring them above 100000 Rthl. A short while ago 85000 Rthl Courant were offered him for them, which he however refused. The General's wife possesses a capital of about 60000 Rthl in [uncertain: Opfernstisch] mortgage bonds, and as the eldest son, the\n\ncavalry captain, expressed to me, this sum could well be brought together to 100000 Rthl in money and at need something more, if one would accept documents or allow him time to call in some capitals. He requested of me the maps and valuations of the Zagorowo estates, which I sent over to him, and which I have already received back with the expressed wish to bring this business to a conclusion. Thus I had also sent him at the same time the rent register, the statement of arrears and remainders, as well as the general statement of buildings handed over only in the year b; all this seemed to the old gentleman still not clear enough, and it was wished, since various things had already been heard about the estates, relying upon my fairness, to have a reasoned and instructive statement which would be confirmed upon ocular inspection, upon which alone one would enter, and would then soon conclude the matter. [uncertain: Deschent's] clerk, who came hither to visit a [uncertain: Bally] and presumed to find me in better circumstances, and therefore hoped to obtain from me the remuneration due to him as having been for a year Your Right Honourable's co-worker in the business there, was present, and I made use of him at a conference with cavalry captain von Schimmelpfennig, in order to set everything forth to him exactly and thoroughly. He undertook this commission willingly and skilfully, and drew up for my use and my own instruction a reasoned and informative valuation, which I also communicated confidentially to Schimmelpfennig. I must do Lieutenant Sommer the justice to say that, while he takes our mutual distress and pressing situation nobly to heart, he expresses himself only cautiously, pities Your Right Honourable\n\nbut is at the same time much devoted to you, and looks forward to the early reunion. He will excuse his rapid departure, to which the press of circumstances compelled him. I believe he will, wishes to, and can be of excellent use in this business; I may believe that by my conduct I have earned his attachment, and therefore I beg Your Right Honourable in the most friendly manner to make use of him with confidence as a good instrument. I promised him not to leave his faithfully rendered assistance unrewarded, and in any case I beg you, best of friends, to bring about there, as soon as may be, whatever can be made possible for his provisional reassurance, by a payment to be ordered to him. The manner and way I leave to Your Right Honourable, and with it to Lieutenant Sommer, that upon this he, having taken counsel with [uncertain: Lebanis], might well be able to make you a proposal not harmful to me. I wish it, since we thereby bind to ourselves a faithful and highly knowledgeable assistant. Since General von Schimmelpfennig let fall to me that he intends in these days to send his elder son, the cavalry captain, to Berlin on account of procuring the moneys needed for the purpose, but with his youngest son, who is a pupil of Thaer, intends soon to undertake the journey to Zagorowo, in order to view these estates before the ground is covered with snow, and beforehand wishes to speak with the Lieutenant to obtain instruction from him, I shall, as soon as the day for his dispatch is determined\n\nwhich I expect this very day, and on which account I am holding back your messenger, let the said gentleman depart thither, who has only to conduct himself there with all circumspection, that being assured. He shall then, since he means to make the journey on horseback, hasten somewhat ahead, in order by his report to Your Right Honourable to bring it about that whatever else may be requisite for this interview be prepared, in which much caution will have to be employed, since the old General is known as sly, distrustful and avaricious. He is eager to gain, and this [uncertain: fruit] makes him particularly covetous of the largest estates. At the same time he is eager to withdraw the ready moneys from his children, since he does not believe them safe in their hands in the sequel, and is of the opinion that they would sooner conserve the estates than ready money. Since these last days he has further the will to draw both his sons-in-law in there as well, and therefore intends to employ in the bargain the small estate Gollawia, which he lately purchased from the Lahr heirs for his son-in-law [uncertain: Johnston]; since he has paid in only 5000 Rthl, it is not exactly to be regarded as a great object. You now know everything that I know upon this subject, and Sommer shall communicate to you by way of his explanation everything he has heard from me and will learn in [uncertain: selige]. Consider the matter maturely and prepare yourself for it in the best way. I place great hopes in your savoir faire, and have more confidence in this business than I ever yet had in any other. Unhappily my children are not yet on the journey, and an illness which befell my daughter-in-law has itself\n\nwrung from August the wish to postpone his so necessary coming to a better season of the year. I have already provisionally written to him and Emilie at my sister's the reasons why his early presence here becomes necessary, and I now repeat it urgently by an express courier. Since you take such friendly part in everything that concerns me and my little family, I do not omit to report to Your Right Honourable that the hereditary prince of Hohenloh Kirchberg, who is 1 year older than my daughter Adele, has in these days sued to me for her hand. Since the mutual inclination, the necessary provision and the propriety in every respect are found together in this match, I have given my consent, and may hope that now the contentment of my three eldest children in respect of their marital relations is established. God grant that I soon obtain rest, [uncertain: since] men begin to be unjust toward me; then my limited wishes are far attained; one of the foremost means to this is the attainment of the business here set forth, or some amicable and early alienation of the Zagorowo estates suited to my circumstances. You have liberty to employ Trąbczyn in the bargain, if it can be done with advantage, on this or the other side, just as I will not exclude any useful way of attaining the purpose, everything else being committed to your prudence and experience. Do not let me wait long for news, for every definite information can\n\nalso lead to [uncertain: decisive] purposes, just as to leave me in [uncertain: ignorance] is a cruelty. God keep you in health; I was ailing for some days, but since yesterday it goes better; only my eyes still plague me greatly through their inflammation. Hence I make use of a stranger's pen and dictate this. I believe I have overlooked nothing, nor sinned in the matter through any want of circumstantiality. The wish to make it also quite [uncertain: clear] has led me to abuse your patience, and I therefore beg you, my esteemed friend, to forgive the length of this epistle. It is with the most particular esteem that I remain Your Right Honourable's\n\nSchlawenschitz, the 4th of December 1811.",
  "summary_en": "Pressed by private debts and needing ready money by Christmas, the Prince urges Triebenfeld to hasten the sale of the Zagorowo estates, doubting any bargain with Weigel and Stössel and declining to take on Ruszynowią or Blizanow. He reports General von Schimmelpfennig's interest, offering the debt-free Szelce and Maderzewo (bought for 26000 ducats, valued near 100000 Rthl) in exchange, warns the General is sly and avaricious, commends Lieutenant Sommer's valuation and asks that he be paid, complains of abandoned Polish lawsuits including Trąbczyn, and announces his daughter Adele's betrothal to the hereditary prince of Hohenloh Kirchberg.",
  "summary_de": "Antwort auf Triebenfelds Schreiben vom 20. November: Der Plan einer Verhandlung mit Weigel und Stössel wird nicht verworfen, doch sei mit Weigel kaum auszukommen; die Übernahme von Ruszynowią und Blizanow wird abgelehnt. Vordringlich sei die Veräußerung der Zagorowoer Güter zur Tilgung der Privatschulden. General von Schimmelpfennig und seine Söhne bieten ihre schuldenfreien Güter Szelce und Maderzewo (1806 für 26000 Ducaten in Gold gekauft, zuletzt 85000 Rthl geboten) im Tausch an; Lieutenant Sommer soll als Sachkundiger vermitteln und entlohnt werden. Ferner Anzeige der Verlobung der Tochter Adele mit dem Erbprinzen von Hohenloh Kirchberg."
 }

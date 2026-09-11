@@ -814,40 +814,872 @@
    "doc_line": 162
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstadt",
+   "surface_en": "Bornstädt",
+   "page": 1
+  },
+  {
+   "entity": "bornstaedt",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstädt",
+   "surface_en": "Bornstädt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bomstadt",
+   "surface_en": "Bornstädt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Melzer",
+   "surface_en": "Melzer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Braunschuſung",
+   "kind": "person",
+   "surface_de": "Braunschuſung",
+   "surface_en": "Braunschuſung",
+   "page": 1
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Franckfurth",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 1
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Klein",
+   "kind": "person",
+   "surface_de": "Klein",
+   "surface_en": "Klein",
+   "page": 1
+  },
+  {
+   "entity": "metzig",
+   "display": "Metzig",
+   "kind": "person",
+   "surface_de": "Metzig",
+   "surface_en": "Metzig",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Henck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "bornstaedt",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstädt",
+   "surface_en": "Bornstädt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wunster",
+   "kind": "person",
+   "surface_de": "Wunsters",
+   "surface_en": "Wunster",
+   "page": 2
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 2
+  },
+  {
+   "entity": "brandenstein",
+   "display": "Brandenstein",
+   "kind": "person",
+   "surface_de": "Brandenstein",
+   "surface_en": "Brandenstein",
+   "page": 2
+  },
+  {
+   "entity": "bornstaedt",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstädt",
+   "surface_en": "Bornstädt",
+   "page": 3
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Klein",
+   "kind": "person",
+   "surface_de": "Klein",
+   "surface_en": "Klein",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Rochlitz",
+   "kind": "person",
+   "surface_de": "Röcklis",
+   "surface_en": "Rochlitz",
+   "page": 3
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt men",
+   "kind": "other",
+   "surface_de": "Franckfartler",
+   "surface_en": "Frankfurt men",
+   "page": 3
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 3
+  },
+  {
+   "entity": "brandenstein",
+   "display": "Brandenstein",
+   "kind": "person",
+   "surface_de": "Brandenstein",
+   "surface_en": "Brandenstein",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt",
+   "kind": "place",
+   "surface_de": "Franckfurther",
+   "surface_en": "Frankfurt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betecher",
+   "surface_en": "Betsche",
+   "page": 3
+  },
+  {
+   "entity": "brandenstein",
+   "display": "Brandenstein",
+   "kind": "person",
+   "surface_de": "Brandenstein",
+   "surface_en": "Brandenstein",
+   "page": 4
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bomstadt",
+   "surface_en": "Bornstädt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornſtädt",
+   "surface_en": "Bornstädt",
+   "page": 4
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Werleben",
+   "kind": "person",
+   "surface_de": "Werleben",
+   "surface_en": "Werleben",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstadt",
+   "surface_en": "Bornstädt",
+   "page": 4
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 5
+  },
+  {
+   "entity": "bornstaedt",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstädt",
+   "surface_en": "Bornstädt",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betsche",
+   "page": 5
+  },
+  {
+   "entity": "metzig",
+   "display": "Metzig",
+   "kind": "person",
+   "surface_de": "Metzig",
+   "surface_en": "Metzig",
+   "page": 5
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 5
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencks",
+   "surface_en": "Glenck",
+   "page": 6
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 6
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Wünster",
+   "kind": "person",
+   "surface_de": "Wünster",
+   "surface_en": "Wünster",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 6
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kaemener",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kaemener",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Kulmner",
+   "kind": "place",
+   "surface_de": "Kulmner",
+   "surface_en": "Kulmner",
+   "page": 7
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 7
+  },
+  {
+   "entity": "reinhardt",
+   "display": "Reinhardt",
+   "kind": "person",
+   "surface_de": "Reinhardt",
+   "surface_en": "Reinhardt",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsch",
+   "surface_en": "Betsche",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 7
+  }
+ ],
  "place_canonical": "Betsche",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! My first resolve was to report no further Odiosa whatever to Your Most Serene Highness, and to let things that could no longer be altered take their course. Compelled by necessity, however, I must abandon this resolve and [uncertain: recta mirn] Your Highness's own assistance — the matter is this. Before I went hither I received the letter of v. Bornstadt in Posen enclosed sub Lit. A. I had no good opinion of its author and sought to humble him by having a bare acknowledgement of receipt given him through Mr. Glenck, to the effect that a letter of Mr. Bomstadt had come in in His Serene Highness's affairs, upon which he, as General Mandatarius, would inform him. I then further sought to win over, in person, Melzer and the Pre: [uncertain: Braunschuſung], and to muster everything so that the Berlin disposition might be upheld and the monies deposited, but above all that Broniewski might be evicted at once. This was promised me, and I travelled off in the night hither to Betsche, at once sent a mounted messenger to Franckfurth, and summoned Meyer Bernhard and consorts hither. The enclosed Copy, sub B, states the rest. After this expedition I [uncertain: called] the deputies who were in Breslau; it was exceedingly strange to me that none of them would appear; at length I learned that the people had been stirred up to withdraw from the purchase. I sought to discover the reason, and heard to my horror that Rochlitz was confusing the people's heads and threatening them, to tear everything up, because for his brother-in-law Klein he had a contract in his hands by which they would take over the"
+   "en": "Most Serene Prince\n\nMost gracious Lord, My first resolve was to report no further odious matters to Your Most Serene Highness, and to let things which could no longer be altered take their course. But of necessity I must abandon this resolve and [uncertain: implore] Your Highness's help directly — the matter is this.\n\nBefore I came here I received the letter of von Bornstädt in Posen enclosed under Lit. A. I had no good opinion of the writer and sought to humble him by having a bare acknowledgement of receipt given through Glenck, since a letter from Bornstädt had come in concerning His Serene Highness's affairs, upon which he, as general mandatary, would advise him.\n\nI then sought further to win over in person Melzer and the [uncertain: Pre: Braunschuſung] and to bring everything to bear so that the Berlin decree might be upheld and the monies deposited, but above all that Broniewski might be evicted at once. This was promised me, and I travelled all through the night here to Betsche, at once despatched a mounted messenger to Frankfurt an der Oder and summoned Meyer Bernhard and associates here. The enclosed Copy Lit. B tells the rest.\n\nAfter this despatch I [uncertain: summoned] the deputies who were in Breslau; it was exceedingly strange to me that none of them would appear. At last I learned that the people had been incited to withdraw from the purchase. I sought to discover the ground of it, and heard to my horror that Rochlitz was confusing the people's heads and threatening them, that he would tear the whole thing apart, because through his brother-in-law Klein he had a contract in hand under which they would take away the",
+   "names": [
+    {
+     "de": "Bornstadt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Bornstädt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Bomstadt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Melzer",
+     "en": "Melzer",
+     "kind": "person"
+    },
+    {
+     "de": "Braunschuſung",
+     "en": "Braunschuſung",
+     "kind": "person"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Franckfurth",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Klein",
+     "en": "Klein",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "demesne farm [uncertain: Abre] and the greater part of the woodland. The justice-burgomaster Metzig, who is appointed as legal assistant to the commune, at length declared to me straight out that Mr. B. v. Glenck was concerned to arrange the whole negotiation in Breslau, that he had large claims which he would press, and that he, Glenck, would be very appreciative if he, Metzig, would side with him. He, Metzig, further declared that he indeed saw that Your Serene Highness was to be cheated, but that as legal assistant to the communes he must insist that, first, this matter be entirely settled, and secondly, that with Mr. v. Bornstädt everything must first be cleared away; sooner than that the communes can pay no money and can enter into nothing. After this sad experience I received the letter of v. Bornstädt enclosed as Lub c, and learned besides from several inhabitants that Mr. Glenck had requested them to withdraw from the contract and to annul it; he would make them all happy in return. Why Glenck does this remains a riddle. For the rest, I awaited his and Wunster's arrival — Glenck's took place the day before yesterday. I took pains to explore everything in the gentlest manner, but got nothing further out of him than that he knows nothing, since the papers were wanting to him; to the question where the contract concluded between him and Leixner might be, he answers that Lieut. v. Brandenstein has it in his keeping, and would press for his estate or the money for it."
+   "en": "demesne farm [uncertain: Abre] and the greater part of the woodland. The justice-burgomaster Metzig, who is appointed as counsel to the community, at last declared to me outright that Councillor von Glenck was concerned to direct the whole negotiation to Breslau, that he had large claims which he would enforce, and that he, Glenck, would be very grateful to him, Metzig, if he would side with him. Metzig further declared that he indeed saw that Your Serene Highness was to be cheated, but that as counsel to the communities he must insist upon it,\n\nfirst, that this matter be wholly cleared up, and secondly, that everything with Councillor von Bornstädt must first be settled; before that the communities can pay no money and enter into nothing. After this sad experience I received the letter of von Bornstädt enclosed under Lit. C, and learned further from several residents that\n\nCouncillor Glenck had requested them to withdraw from the contract and to annul it, saying he would make them all happy in return. Why Glenck does this remains a riddle.\n\nFor the rest I awaited his and Wunster's arrival — Glenck arrived the day before yesterday. I took pains to sound out everything in the gentlest manner, but got nothing further out of him than that he knew nothing, since he lacked the papers; to the question where the contract concluded between him and Leixner might be, he answers that Lieutenant von Brandenstein has it in his keeping, and would press for his estate or the money for it.",
+   "names": [
+    {
+     "de": "Metzig",
+     "en": "Metzig",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Henck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Bornstädt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Wunsters",
+     "en": "Wunster",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Brandenstein",
+     "en": "Brandenstein",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "The enclosed letter of v. Bornstädt sub d, however, proves that Glenck lied to me and that the contract has already been ceded to the merchant Klein, a cousin of Rochlitz. I still doubted, and sought to arrange everything with the people for the best, until I received the enclosed note sub C from Meyer Bernhard. This moves me to send this express courier in haste to Your Serene Highness. Both the communes and the Frankfurt men insist that this contract concluded between Leixner and Mr. v. Brandenstein be, before all else, brought forth and completely cancelled. Secondly, Bernhard and Leixner will pay not a Groschen further until Glenck surrenders the partnership contract concluded between them. Thirdly, the communes insist that everything be settled with Bornstädt; sooner than that they will agree to nothing further. My counsel and petition is this: that Your Most Serene Highness write to Glenck by express courier that he surrender all these papers at once, and that both he and Mr. v. Brandenstein enter judicial written undertakings as to the cancellation of both contracts, so that they can or may claim nothing further from the Frankfurt gentlemen — or from the Betsche lands. V. Brandenstein, who can hardly know anything of all Mr. Glenck's twistings, will certainly issue the written undertaking there at once, and I petition most humbly that Your Serene Highness not withdraw your grace from this young man, who may well be entirely innocent"
+   "en": "But the enclosed letter of von Bornstädt sub d proves that Glenck lied to me and that the contract has already been ceded to the merchant Klein, a cousin of Rochlitz. Still I doubted, and sought to arrange everything with the people for the best, until I received the enclosed note sub C from Meyer Bernhard. This moves me to send this express courier in haste to Your Serene Highness.\n\nBoth the communities and the Frankfurt men insist that this contract concluded between Leixner and Herr von Brandenstein be above all things produced, so that it may be wholly cancelled. Secondly, Bernhard and Leixner will pay not one Groschen further until Glenck hands over the partnership contract concluded between them.\n\nThirdly, the communities insist that everything be settled with Bornstädt; before that they will agree to nothing further. My counsel and request is this, that Your Most Serene Highness write to Glenck by express courier that he hand over all these papers at once, and that both he and Herr von Brandenstein give a judicial written undertaking as to the annulment of both contracts, that they can or may claim nothing further from the Frankfurt gentlemen — or from the Betsche lands. Von Brandenstein, who can hardly know anything of all Councillor Glenck's twistings, will certainly issue the written undertaking there at once, and I most humbly beg that Your Serene Highness may not withdraw your grace from this young man, who may well be entirely innocent",
+   "names": [
+    {
+     "de": "Bornstädt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Klein",
+     "en": "Klein",
+     "kind": "person"
+    },
+    {
+     "de": "Röcklis",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Franckfartler",
+     "en": "Frankfurt men",
+     "kind": "other"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Brandenstein",
+     "en": "Brandenstein",
+     "kind": "person"
+    },
+    {
+     "de": "Franckfurther",
+     "en": "Frankfurt",
+     "kind": "place"
+    },
+    {
+     "de": "Betecher",
+     "en": "Betsche",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2",
+    "3"
+   ]
   },
   {
    "page": 4,
-   "en": "in the matter. Nor shall I tire in my [uncertain: efforts] on his behalf. May Your Most Serene Highness be pleased to send me the written undertaking from Mr. v. Brandenstein hither with all speed by express courier. For otherwise I can settle nothing with the people. But let Your Highness command Glenck that he here at once fetch back the ceded contract and surrender the same together with the partnership contract, and judicially renounce all claims. I would gladly have spared Your Serene Highness this business. But I cannot get through otherwise, for the people insist upon it. With Bomstadt everything looks dreadfully tangled. Glenck, [uncertain: Kochlitz/Rochlitz], [uncertain: Werleben], Bornstädt, and whatever all the rabble are called, have constantly quarrelled like tinkers before Your Serene Highness's eyes, but at bottom they have all cheated in brotherly concord, so that anyone's hair would stand on end. It was always Your Serene Highness whom they would all gladly have plundered clean. The forest is entirely ruined, and had the thieves gone on [uncertain: cutting] here another year, the fine estates would no longer have been worth 50000 — Now I am at pains to outflank Bornstädt really soundly. He seemed to intend to make use of the sale to the subjects; but these I have brought so far that they leave him, against my guarantee, until the matter is concluded. Then I shall doubtless get the better of the hero — It is shameful to me that such infamies occur in the files; thus Bornstadt says, for example: at the"
+   "en": "in the matter. Nor shall I tire in my [uncertain: endeavour] on his behalf.\n\nMay Your Most Serene Highness be pleased to send me the written undertaking from Herr von Brandenstein here with all speed by the express courier. For otherwise I can settle nothing with the people.\n\nBut let Your Highness command Glenck to fetch back the ceded contract here at once, to return it together with the partnership contract, and to renounce all claims judicially.\n\nI would gladly have spared Your Serene Highness this business. But I cannot get through otherwise, for the people insist upon it.\n\nWith Bornstädt everything looks frightfully tangled. Glenck, Rochlitz, [uncertain: Werleben], Bornstädt, and whatever else the rabble are called, have constantly squabbled like tinkers before Your Serene Highness's eyes, but at bottom they have all cheated in brotherly concord, enough to make anyone's hair stand on end. It was always Your Serene Highness whom they would all gladly have plundered clean.\n\nThe wood is wholly ruined, and had the thieves gone on here another year, the fine estates would not have been worth 50000 any longer. — Now I am at pains to outflank Bornstädt really soundly. He seemed to be making use of the sale to the subjects; but these I have brought so far that, against my guarantee, they will let him be until the matter is concluded. Then I shall doubtless finish with the hero. — It is shameful to me that such infamies occur in the files; thus Bornstädt says for example: On",
+   "names": [
+    {
+     "de": "Brandenstein",
+     "en": "Brandenstein",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Bomstadt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Bornſtädt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Werleben",
+     "en": "Werleben",
+     "kind": "person"
+    },
+    {
+     "de": "Bornstadt",
+     "en": "Bornstädt",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "50000"
+   ]
   },
   {
    "page": 5,
-   "en": "commencement of my lease I had to lay out 500 Rthl to Glenck as proxenticium; another tenant promised him more after a year's term, and therefore he wished to drive me out, in order to extort another 600 Rthl. It must indeed be untrue, he goes on to say, that the Prince, as Glenck boasts, knows of such cheating, for the Prince has the repute of the most exalted, greatest of men and friend of mankind. I could go mad when such a thing comes before my eyes, and I can wish nothing further than to clear away all these grubby things and to be rid of them so utterly that Your Serene Highness may have no further [uncertain: vexation]. What torments me most at present is this — Your Serene Highness has promised Bornstädt 1000 pieces of Fried:d'or if he helps sell Betschen for 200000 Rthl. Glenck has confirmed this here before Metzig. What am I, a poor man, now to answer to that? The fellow tenders in this regard the oath to Your Serene Highness, to Glenck, and to Rochlitz. What am I to answer the fellow on this, and with what am I to satisfy him? Be pleased, most gracious Prince, to give me an instruction in this regard. The lease matter I would settle at law, and by God cut nothing short, but in this history I can do nothing further without Your Serene Highness's command. Generals, and God knows what people, all take an interest on behalf of the poor wretch and his wife, who seems to be a real Xantippe"
+   "en": "entering upon my lease I had to lay out 500 Rthl to Glenck as a broker's fee; another tenant promised him more after a year's term, and for that reason he wished to drive me out, so as to extort 600 Rthl again. It must surely be untrue, he says further, that the Prince, as Glenck boasts of himself, knows of such cheating, for the Prince has after all the reputation of the most exalted, greatest man and friend of mankind. I could go mad when such a thing comes before my eyes, and I can wish nothing further than to put aside all these squalid matters and so to clear them out of the world that Your Serene Highness may have no more [uncertain: vexation].\n\nWhat torments me most at present is this — Your Serene Highness promised Bornstädt 1000 pieces of Friedrichsd'or if he helps to sell Betsche for 200000 Rthl. Glenck has confirmed this here before Metzig. What am I, poor man, now to answer to that? The fellow tenders the oath on this point to Your Serene Highness, to Glenck and to Rochlitz. What am I to answer the fellow to this, and with what am I to settle with him? Be pleased, most gracious Prince, to give me an instruction in the matter.\n\nThe lease business I would settle lawfully, and by God give nothing away, but in this affair I can do nothing further without Your Serene Highness's command. Generals, and God knows what people, all take an interest on behalf of the wretched creature and his wife, who seems to be a true [uncertain: kantigen]",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Bornstädt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Betschen",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Metzig",
+     "en": "Metzig",
+     "kind": "person"
+    },
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "500",
+    "600",
+    "1000",
+    "200000"
+   ]
   },
   {
    "page": 6,
-   "en": "to be; therefore I wish to be rid of the wretched B. in a decent manner. As regards the timber contracts, matters look just as ugly — for so far as they exist, they belonged to Rochlitz under other names — and the name-bearers now all cry out that they want no money but the quantities of timber specified in the contracts. This is now to be another motive for annulling the purchase with the subjects. But here I shall speak loudly with the [uncertain: patrons]. For the whole commune will come forward and loudly prove the villains' infamies — Your Serene Highness will be astonished at all these knaveries. This very moment I learn of a new intrigue of Glenck's — I had, as said before, brought Meyer Bernhard so far that he meant to be in Posen on the evening of the 29th or early on the 30th with the 66000 Rthl. At this moment Wünster tells me that Glenck has talked Meyer Bernhard into not paying the money on the 29th but going to Breslau and asking Your Serene Highness what he should do — for it would not be necessary before the 2nd of August that the money be lodged with Broniewski. The Jew now twists again, says he would do it, since he has so many claims upon Your Serene Highness. We all sit here now like fools — It is more than too bad."
+   "en": "to be; therefore I wish to be rid of the wretched B. with good manners.\n\nAs to the timber contracts it looks just as [uncertain: dreadful] — for as many as there are, they belong to Rochlitz under other names. The name-bearers are now all crying out that they want no money but the sums of timber fixed in the contracts. This is now to be another motive for annulling the purchase with the subjects. But here I shall speak loudly with the rogues. For the whole communities will come forward and loudly prove the villains' infamies. — Your Serene Highness will be astonished at all the knaveries.\n\nThis very moment I learn of a new intrigue of Glenck's. I had, as said before, brought Meyer Bernhard so far that he meant to be in Posen on the 29th in the evening or the 30th early with the 66000 Rthl. At this moment Wünster tells me that Glenck has talked Meyer Bernhard into not paying the money on the 29th, but going to Breslau and asking Your Serene Highness what he should do — for it would not be necessary before the 2nd of August that the money be paid over to Broniewski.\n\nThe Jew now twists again, says he would do this, that he has so many claims upon Your Serene Highness. We all sit here now like fools. — It is more than too bad.",
+   "names": [
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Glencks",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Wünster",
+     "en": "Wünster",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "29",
+    "30",
+    "66000",
+    "29",
+    "2"
+   ]
   },
   {
    "page": 7,
-   "en": "what these people permit themselves — As regards the Kaemener and Kulmner dismemberment I can likewise do nothing for the present. For Glenck has already betrayed everything to him (of which the enclosed letter Lub f is the proof), everything, in order to earn something. O God! what shameful people are these? I shall see what the Jew will do; if he insists on the journey to Breslau, then I shall only see how I can get half-way finished with the subjects here, and shall come there too at that time; but then I petition Your Serene Highness also, most heartily, to work over all these B: really roughly, so that they may at last be brought to fear and may cease their damned menées. In deepest reverence I remain, until death, Your Most Serene Highness's [most humble servant]. May Your Most Serene Highness be pleased to send the express courier with all the papers to Posen, to old Reinhardt. If I can still turn everything, I shall be there — if not, then he must send them to me hither. Ah, it is now a true torment of hell to bring these people to reason. The letter to my daughter I most submissively beg to have delivered, and if anything has come in there from South Prussia etc., to let it go with the express courier to me. Betsch, the 26th of July 1804, faithful humble and obedient servant, v Triebenfeld"
+   "en": "what these people permit themselves. — As to the Kaemener and Kulmner dismemberment I can likewise do nothing for the present. For Glenck has already betrayed everything to him (of which the letter enclosed under Lit. F is proof), everything, so as to earn something. O God! what shameful people are these? I shall see what the Jew means to do; if he insists on the journey to Breslau, then I shall only see how I may get half-way finished with the subjects here, and shall come there too at that time; but then I beg Your Serene Highness also, most heartily, to work over all these B. really harshly, so that they may once come to be afraid and drop the damned machinations. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nMay Your Most Serene Highness be pleased to send the express courier with all the papers to Posen to old Reinhardt. If I can still turn everything about, I shall be there — if not, then he must send them to me here. Ah, it is true hellish torment to bring these people to reason. The letter to my daughter I most submissively beg to have delivered, and if anything has come in there from South Prussia etc., to let it go with me by the express courier. Betsche, the 26th of July\n\n1804\n\nfaithful, humble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Kaemener",
+     "en": "Kaemener",
+     "kind": "place"
+    },
+    {
+     "de": "Kulmner",
+     "en": "Kulmner",
+     "kind": "place"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Reinhardt",
+     "en": "Reinhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Betsch",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "26",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! My first resolve was to report no further Odiosa whatever to Your Most Serene Highness, and to let things that could no longer be altered take their course. Compelled by necessity, however, I must abandon this resolve and [uncertain: recta mirn] Your Highness's own assistance — the matter is this. Before I went hither I received the letter of v. Bornstadt in Posen enclosed sub Lit. A. I had no good opinion of its author and sought to humble him by having a bare acknowledgement of receipt given him through Mr. Glenck, to the effect that a letter of Mr. Bomstadt had come in in His Serene Highness's affairs, upon which he, as General Mandatarius, would inform him. I then further sought to win over, in person, Melzer and the Pre: [uncertain: Braunschuſung], and to muster everything so that the Berlin disposition might be upheld and the monies deposited, but above all that Broniewski might be evicted at once. This was promised me, and I travelled off in the night hither to Betsche, at once sent a mounted messenger to Franckfurth, and summoned Meyer Bernhard and consorts hither. The enclosed Copy, sub B, states the rest. After this expedition I [uncertain: called] the deputies who were in Breslau; it was exceedingly strange to me that none of them would appear; at length I learned that the people had been stirred up to withdraw from the purchase. I sought to discover the reason, and heard to my horror that Rochlitz was confusing the people's heads and threatening them, to tear everything up, because for his brother-in-law Klein he had a contract in his hands by which they would take over the\n\ndemesne farm [uncertain: Abre] and the greater part of the woodland. The justice-burgomaster Metzig, who is appointed as legal assistant to the commune, at length declared to me straight out that Mr. B. v. Glenck was concerned to arrange the whole negotiation in Breslau, that he had large claims which he would press, and that he, Glenck, would be very appreciative if he, Metzig, would side with him. He, Metzig, further declared that he indeed saw that Your Serene Highness was to be cheated, but that as legal assistant to the communes he must insist that, first, this matter be entirely settled, and secondly, that with Mr. v. Bornstädt everything must first be cleared away; sooner than that the communes can pay no money and can enter into nothing. After this sad experience I received the letter of v. Bornstädt enclosed as Lub c, and learned besides from several inhabitants that Mr. Glenck had requested them to withdraw from the contract and to annul it; he would make them all happy in return. Why Glenck does this remains a riddle. For the rest, I awaited his and Wunster's arrival — Glenck's took place the day before yesterday. I took pains to explore everything in the gentlest manner, but got nothing further out of him than that he knows nothing, since the papers were wanting to him; to the question where the contract concluded between him and Leixner might be, he answers that Lieut. v. Brandenstein has it in his keeping, and would press for his estate or the money for it.\n\nThe enclosed letter of v. Bornstädt sub d, however, proves that Glenck lied to me and that the contract has already been ceded to the merchant Klein, a cousin of Rochlitz. I still doubted, and sought to arrange everything with the people for the best, until I received the enclosed note sub C from Meyer Bernhard. This moves me to send this express courier in haste to Your Serene Highness. Both the communes and the Frankfurt men insist that this contract concluded between Leixner and Mr. v. Brandenstein be, before all else, brought forth and completely cancelled. Secondly, Bernhard and Leixner will pay not a Groschen further until Glenck surrenders the partnership contract concluded between them. Thirdly, the communes insist that everything be settled with Bornstädt; sooner than that they will agree to nothing further. My counsel and petition is this: that Your Most Serene Highness write to Glenck by express courier that he surrender all these papers at once, and that both he and Mr. v. Brandenstein enter judicial written undertakings as to the cancellation of both contracts, so that they can or may claim nothing further from the Frankfurt gentlemen — or from the Betsche lands. V. Brandenstein, who can hardly know anything of all Mr. Glenck's twistings, will certainly issue the written undertaking there at once, and I petition most humbly that Your Serene Highness not withdraw your grace from this young man, who may well be entirely innocent\n\nin the matter. Nor shall I tire in my [uncertain: efforts] on his behalf. May Your Most Serene Highness be pleased to send me the written undertaking from Mr. v. Brandenstein hither with all speed by express courier. For otherwise I can settle nothing with the people. But let Your Highness command Glenck that he here at once fetch back the ceded contract and surrender the same together with the partnership contract, and judicially renounce all claims. I would gladly have spared Your Serene Highness this business. But I cannot get through otherwise, for the people insist upon it. With Bomstadt everything looks dreadfully tangled. Glenck, [uncertain: Kochlitz/Rochlitz], [uncertain: Werleben], Bornstädt, and whatever all the rabble are called, have constantly quarrelled like tinkers before Your Serene Highness's eyes, but at bottom they have all cheated in brotherly concord, so that anyone's hair would stand on end. It was always Your Serene Highness whom they would all gladly have plundered clean. The forest is entirely ruined, and had the thieves gone on [uncertain: cutting] here another year, the fine estates would no longer have been worth 50000 — Now I am at pains to outflank Bornstädt really soundly. He seemed to intend to make use of the sale to the subjects; but these I have brought so far that they leave him, against my guarantee, until the matter is concluded. Then I shall doubtless get the better of the hero — It is shameful to me that such infamies occur in the files; thus Bornstadt says, for example: at the\n\ncommencement of my lease I had to lay out 500 Rthl to Glenck as proxenticium; another tenant promised him more after a year's term, and therefore he wished to drive me out, in order to extort another 600 Rthl. It must indeed be untrue, he goes on to say, that the Prince, as Glenck boasts, knows of such cheating, for the Prince has the repute of the most exalted, greatest of men and friend of mankind. I could go mad when such a thing comes before my eyes, and I can wish nothing further than to clear away all these grubby things and to be rid of them so utterly that Your Serene Highness may have no further [uncertain: vexation]. What torments me most at present is this — Your Serene Highness has promised Bornstädt 1000 pieces of Fried:d'or if he helps sell Betschen for 200000 Rthl. Glenck has confirmed this here before Metzig. What am I, a poor man, now to answer to that? The fellow tenders in this regard the oath to Your Serene Highness, to Glenck, and to Rochlitz. What am I to answer the fellow on this, and with what am I to satisfy him? Be pleased, most gracious Prince, to give me an instruction in this regard. The lease matter I would settle at law, and by God cut nothing short, but in this history I can do nothing further without Your Serene Highness's command. Generals, and God knows what people, all take an interest on behalf of the poor wretch and his wife, who seems to be a real Xantippe\n\nto be; therefore I wish to be rid of the wretched B. in a decent manner. As regards the timber contracts, matters look just as ugly — for so far as they exist, they belonged to Rochlitz under other names — and the name-bearers now all cry out that they want no money but the quantities of timber specified in the contracts. This is now to be another motive for annulling the purchase with the subjects. But here I shall speak loudly with the [uncertain: patrons]. For the whole commune will come forward and loudly prove the villains' infamies — Your Serene Highness will be astonished at all these knaveries. This very moment I learn of a new intrigue of Glenck's — I had, as said before, brought Meyer Bernhard so far that he meant to be in Posen on the evening of the 29th or early on the 30th with the 66000 Rthl. At this moment Wünster tells me that Glenck has talked Meyer Bernhard into not paying the money on the 29th but going to Breslau and asking Your Serene Highness what he should do — for it would not be necessary before the 2nd of August that the money be lodged with Broniewski. The Jew now twists again, says he would do it, since he has so many claims upon Your Serene Highness. We all sit here now like fools — It is more than too bad.\n\nwhat these people permit themselves — As regards the Kaemener and Kulmner dismemberment I can likewise do nothing for the present. For Glenck has already betrayed everything to him (of which the enclosed letter Lub f is the proof), everything, in order to earn something. O God! what shameful people are these? I shall see what the Jew will do; if he insists on the journey to Breslau, then I shall only see how I can get half-way finished with the subjects here, and shall come there too at that time; but then I petition Your Serene Highness also, most heartily, to work over all these B: really roughly, so that they may at last be brought to fear and may cease their damned menées. In deepest reverence I remain, until death, Your Most Serene Highness's [most humble servant]. May Your Most Serene Highness be pleased to send the express courier with all the papers to Posen, to old Reinhardt. If I can still turn everything, I shall be there — if not, then he must send them to me hither. Ah, it is now a true torment of hell to bring these people to reason. The letter to my daughter I most submissively beg to have delivered, and if anything has come in there from South Prussia etc., to let it go with the express courier to me. Betsch, the 26th of July 1804, faithful humble and obedient servant, v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord, My first resolve was to report no further odious matters to Your Most Serene Highness, and to let things which could no longer be altered take their course. But of necessity I must abandon this resolve and [uncertain: implore] Your Highness's help directly — the matter is this.\n\nBefore I came here I received the letter of von Bornstädt in Posen enclosed under Lit. A. I had no good opinion of the writer and sought to humble him by having a bare acknowledgement of receipt given through Glenck, since a letter from Bornstädt had come in concerning His Serene Highness's affairs, upon which he, as general mandatary, would advise him.\n\nI then sought further to win over in person Melzer and the [uncertain: Pre: Braunschuſung] and to bring everything to bear so that the Berlin decree might be upheld and the monies deposited, but above all that Broniewski might be evicted at once. This was promised me, and I travelled all through the night here to Betsche, at once despatched a mounted messenger to Frankfurt an der Oder and summoned Meyer Bernhard and associates here. The enclosed Copy Lit. B tells the rest.\n\nAfter this despatch I [uncertain: summoned] the deputies who were in Breslau; it was exceedingly strange to me that none of them would appear. At last I learned that the people had been incited to withdraw from the purchase. I sought to discover the ground of it, and heard to my horror that Rochlitz was confusing the people's heads and threatening them, that he would tear the whole thing apart, because through his brother-in-law Klein he had a contract in hand under which they would take away the\n\ndemesne farm [uncertain: Abre] and the greater part of the woodland. The justice-burgomaster Metzig, who is appointed as counsel to the community, at last declared to me outright that Councillor von Glenck was concerned to direct the whole negotiation to Breslau, that he had large claims which he would enforce, and that he, Glenck, would be very grateful to him, Metzig, if he would side with him. Metzig further declared that he indeed saw that Your Serene Highness was to be cheated, but that as counsel to the communities he must insist upon it,\n\nfirst, that this matter be wholly cleared up, and secondly, that everything with Councillor von Bornstädt must first be settled; before that the communities can pay no money and enter into nothing. After this sad experience I received the letter of von Bornstädt enclosed under Lit. C, and learned further from several residents that\n\nCouncillor Glenck had requested them to withdraw from the contract and to annul it, saying he would make them all happy in return. Why Glenck does this remains a riddle.\n\nFor the rest I awaited his and Wunster's arrival — Glenck arrived the day before yesterday. I took pains to sound out everything in the gentlest manner, but got nothing further out of him than that he knew nothing, since he lacked the papers; to the question where the contract concluded between him and Leixner might be, he answers that Lieutenant von Brandenstein has it in his keeping, and would press for his estate or the money for it.\n\nBut the enclosed letter of von Bornstädt sub d proves that Glenck lied to me and that the contract has already been ceded to the merchant Klein, a cousin of Rochlitz. Still I doubted, and sought to arrange everything with the people for the best, until I received the enclosed note sub C from Meyer Bernhard. This moves me to send this express courier in haste to Your Serene Highness.\n\nBoth the communities and the Frankfurt men insist that this contract concluded between Leixner and Herr von Brandenstein be above all things produced, so that it may be wholly cancelled. Secondly, Bernhard and Leixner will pay not one Groschen further until Glenck hands over the partnership contract concluded between them.\n\nThirdly, the communities insist that everything be settled with Bornstädt; before that they will agree to nothing further. My counsel and request is this, that Your Most Serene Highness write to Glenck by express courier that he hand over all these papers at once, and that both he and Herr von Brandenstein give a judicial written undertaking as to the annulment of both contracts, that they can or may claim nothing further from the Frankfurt gentlemen — or from the Betsche lands. Von Brandenstein, who can hardly know anything of all Councillor Glenck's twistings, will certainly issue the written undertaking there at once, and I most humbly beg that Your Serene Highness may not withdraw your grace from this young man, who may well be entirely innocent\n\nin the matter. Nor shall I tire in my [uncertain: endeavour] on his behalf.\n\nMay Your Most Serene Highness be pleased to send me the written undertaking from Herr von Brandenstein here with all speed by the express courier. For otherwise I can settle nothing with the people.\n\nBut let Your Highness command Glenck to fetch back the ceded contract here at once, to return it together with the partnership contract, and to renounce all claims judicially.\n\nI would gladly have spared Your Serene Highness this business. But I cannot get through otherwise, for the people insist upon it.\n\nWith Bornstädt everything looks frightfully tangled. Glenck, Rochlitz, [uncertain: Werleben], Bornstädt, and whatever else the rabble are called, have constantly squabbled like tinkers before Your Serene Highness's eyes, but at bottom they have all cheated in brotherly concord, enough to make anyone's hair stand on end. It was always Your Serene Highness whom they would all gladly have plundered clean.\n\nThe wood is wholly ruined, and had the thieves gone on here another year, the fine estates would not have been worth 50000 any longer. — Now I am at pains to outflank Bornstädt really soundly. He seemed to be making use of the sale to the subjects; but these I have brought so far that, against my guarantee, they will let him be until the matter is concluded. Then I shall doubtless finish with the hero. — It is shameful to me that such infamies occur in the files; thus Bornstädt says for example: On\n\nentering upon my lease I had to lay out 500 Rthl to Glenck as a broker's fee; another tenant promised him more after a year's term, and for that reason he wished to drive me out, so as to extort 600 Rthl again. It must surely be untrue, he says further, that the Prince, as Glenck boasts of himself, knows of such cheating, for the Prince has after all the reputation of the most exalted, greatest man and friend of mankind. I could go mad when such a thing comes before my eyes, and I can wish nothing further than to put aside all these squalid matters and so to clear them out of the world that Your Serene Highness may have no more [uncertain: vexation].\n\nWhat torments me most at present is this — Your Serene Highness promised Bornstädt 1000 pieces of Friedrichsd'or if he helps to sell Betsche for 200000 Rthl. Glenck has confirmed this here before Metzig. What am I, poor man, now to answer to that? The fellow tenders the oath on this point to Your Serene Highness, to Glenck and to Rochlitz. What am I to answer the fellow to this, and with what am I to settle with him? Be pleased, most gracious Prince, to give me an instruction in the matter.\n\nThe lease business I would settle lawfully, and by God give nothing away, but in this affair I can do nothing further without Your Serene Highness's command. Generals, and God knows what people, all take an interest on behalf of the wretched creature and his wife, who seems to be a true [uncertain: kantigen]\n\nto be; therefore I wish to be rid of the wretched B. with good manners.\n\nAs to the timber contracts it looks just as [uncertain: dreadful] — for as many as there are, they belong to Rochlitz under other names. The name-bearers are now all crying out that they want no money but the sums of timber fixed in the contracts. This is now to be another motive for annulling the purchase with the subjects. But here I shall speak loudly with the rogues. For the whole communities will come forward and loudly prove the villains' infamies. — Your Serene Highness will be astonished at all the knaveries.\n\nThis very moment I learn of a new intrigue of Glenck's. I had, as said before, brought Meyer Bernhard so far that he meant to be in Posen on the 29th in the evening or the 30th early with the 66000 Rthl. At this moment Wünster tells me that Glenck has talked Meyer Bernhard into not paying the money on the 29th, but going to Breslau and asking Your Serene Highness what he should do — for it would not be necessary before the 2nd of August that the money be paid over to Broniewski.\n\nThe Jew now twists again, says he would do this, that he has so many claims upon Your Serene Highness. We all sit here now like fools. — It is more than too bad.\n\nwhat these people permit themselves. — As to the Kaemener and Kulmner dismemberment I can likewise do nothing for the present. For Glenck has already betrayed everything to him (of which the letter enclosed under Lit. F is proof), everything, so as to earn something. O God! what shameful people are these? I shall see what the Jew means to do; if he insists on the journey to Breslau, then I shall only see how I may get half-way finished with the subjects here, and shall come there too at that time; but then I beg Your Serene Highness also, most heartily, to work over all these B. really harshly, so that they may once come to be afraid and drop the damned machinations. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nMay Your Most Serene Highness be pleased to send the express courier with all the papers to Posen to old Reinhardt. If I can still turn everything about, I shall be there — if not, then he must send them to me here. Ah, it is true hellish torment to bring these people to reason. The letter to my daughter I most submissively beg to have delivered, and if anything has come in there from South Prussia etc., to let it go with me by the express courier. Betsche, the 26th of July\n\n1804\n\nfaithful, humble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "Reports the collapse of the Betsche sale to the peasant communes: Glenck is accused of urging the villagers to withdraw, of lying about the contract with Leixner (in fact ceded to the merchant Klein, cousin of Rochlitz), and of persuading Meyer Bernhard to delay paying 66000 Rthl at Posen. Encloses letters from v. Bornstädt (who claims a promised 1000 Friedrichsd'or for selling Betschen at 200000 Rthl and alleges a 500 Rthl proxenticium to Glenck), asks for express orders compelling Glenck and Lieut. v. Brandenstein to surrender and judicially cancel both contracts, and complains of ruined woodland and fraudulent timber contracts.",
  "summary_de": "Bericht über die gefährdete Veräußerung von Betsche: Glenck habe die Gemeinden zum Rücktritt vom Kaufvertrag aufgestachelt, den mit Leixner geschlossenen Contract über Klein, einen Verwandten des Rochlitz, cediert und leugne dies; Justizbürgermeister Metzig und v. Bornstädt (Beilagen A–F) bestätigten die Umtriebe. Gefordert werden fürstliche Befehle per Estafette an Glenck und Lieut. v. Brandenstein zur Herausgabe und gerichtlichen Cassation beider Contracte sowie des Societätsvertrags. Meyer Bernhard verzögere die Zahlung der 66000 Rthl in Posen; Bornstädt berufe sich auf zugesagte 1000 Fried:d'or bei Verkauf für 200000 Rthl; der Wald sei ruiniert."
 }

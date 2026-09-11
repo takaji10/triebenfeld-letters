@@ -287,28 +287,364 @@
    "doc_line": 99
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Peter Friederich August von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Peter Friederich August v. Triebenfeld",
+   "surface_en": "Peter Friederich August von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Franz Meierowicz",
+   "surface_en": "Franz Meierowitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warta",
+   "kind": "place",
+   "surface_de": "Wartaschen",
+   "surface_en": "Warta",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Wittow",
+   "surface_en": "Witów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Schliesen",
+   "kind": "person",
+   "surface_de": "von Schliesen",
+   "surface_en": "von Schliesen",
+   "page": 1
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Wittow",
+   "surface_en": "Witów",
+   "page": 2
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "lady Colonel von Schliesen",
+   "kind": "person",
+   "surface_de": "Frau Obristen von Schliesen",
+   "surface_en": "lady Colonel von Schliesen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "lady Colonel von Schliefen",
+   "kind": "person",
+   "surface_de": "Frau Obristen v. Schliefen",
+   "surface_en": "lady Colonel von Schliefen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Witttow",
+   "surface_en": "Witów",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Witow",
+   "surface_en": "Witów",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichsen",
+   "surface_en": "Honrichs",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Peter Friedrich August von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Peter Friedrich August v. Triebenfeld",
+   "surface_en": "Peter Friedrich August von Triebenfeld",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Franz Maierowitz",
+   "kind": "person",
+   "surface_de": "Franz Maierowitz",
+   "surface_en": "Franz Maierowitz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Willhelm Eger",
+   "kind": "person",
+   "surface_de": "Friedrich Willhelm Eger",
+   "surface_en": "Friedrich Willhelm Eger",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bezuer[illegible]",
+   "kind": "person",
+   "surface_de": "Bezuer[?]",
+   "surface_en": "Bezuer[illegible]",
+   "page": 4
+  }
+ ],
  "place_canonical": "Kalisch",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Between the Royal Councillor of War and Forests, also General Plenipotentiary of His Most Serene Highness the reigning Prince and Lord of Hohenlohe, Herr Peter Friederich August v. Triebenfeld, and Herr Franz Meierowicz, the following Punctation has been agreed upon and drawn up.\n\n§ 1. Herr von Triebenfeld undertakes, as General Mandatarius of the Herr Fürst zu Hohenlohe, to convey the estate Wittow, situated in the Warta district, with all its inhabitants and all appurtenances, taverns, lands, Scholtzerey, waters, buildings and inventory, with all rights and usufructs, by whatever name they may be called, nothing thereof excepted, just as the same was purchased from the widowed Frau Obristen von Schliesen, to Herr Meierowitz as heritable and absolute property; as soon as the sale with the Honrichs — who is neither capable of possession nor, still less, solvent — shall have been annulled, for which purpose the requisite proceedings have already been instituted before the competent authority.\n\n§ 2. The sale is effected in Pausch und Bogen, and upon the conclusion of the contract no further warranty shall be"
+   "en": "Between the Royal Councillor of War and Forests and also General Plenipotentiary of His Most Serene Highness the reigning Prince and Lord of Hohenlohe, Mr Peter Friederich August von Triebenfeld, and Mr Franz Meierowitz, the following heads of agreement have been settled and drawn up.\n\n§ 1. Mr von Triebenfeld undertakes, as General Mandatary of the Prince of Hohenlohe, to convey the estate of Witów situated in the district of Warta, with all residents and all appurtenances, taverns, lands, the village mayor's holding, waters, buildings and inventory, with all rights and profits, by whatever name they may be called, nothing thereof excepted, just as the same was purchased from the widowed lady Colonel von Schliesen, to Mr Meierowitz as his hereditary property; as soon as the sale to the Honrichs — who is neither capable of possession, still less solvent — has been annulled, for which purpose the necessary steps have already been instituted before the competent authority.\n\n§ 2. The sale is made in Pausch und Bogen, and upon conclusion of the contract no further warranty is given by the seller",
+   "names": [
+    {
+     "de": "Peter Friederich August v. Triebenfeld",
+     "en": "Peter Friederich August von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Franz Meierowicz",
+     "en": "Franz Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Wartaschen",
+     "en": "Warta",
+     "kind": "place"
+    },
+    {
+     "de": "Wittow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "von Schliesen",
+     "en": "von Schliesen",
+     "kind": "person"
+    },
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "2"
+   ]
   },
   {
    "page": 2,
-   "en": "rendered by the seller.\n\n§ 3. Herr Meierowitz shall pay at George, that is on the 23rd of April of this year, for the abovenamed estate a cash purchase price of Twenty Thousand Reichsthaler in Courant, namely at George, that is on the 23rd of April of this year, Eight Thousand Reichsthaler, and at the coming Johanny of this year, Twelve Thousand Reichsthaler.\n\n§ 4. Besides this purchase money stipulated and fixed in § 3, the purchaser Herr Meierowitz shall pay to His Serene Highness the seller, or wherever the same shall most highly direct [Anweisung], yearly and indeed in perpetuity, a canon of Five Hundred Rthl in Courant.\n\n§ 5. This canon shall be paid in half-yearly instalments post numerando to the purchaser, under pain of the compulsory measures laid down in the provincial law.\n\n§ 6. Should, however, the purchaser be minded, and find it convenient to his interest, to pay Ten Thousand Rthl of capital in place of the canon of Five Hundred Rthl fixed in § 4, in order to discharge himself of this burden of debt — which, as a purchase residuum not subject to being called in, is to be entered upon this estate Wittow as a first mortgage — then this shall be conceded on"
+   "en": "given.\n\n§ 3. Mr Meierowitz shall pay on St George's Day, that is to say the 23rd of April of this year, for the above-named estate a cash purchase price of twenty thousand Reichsthaler in Courant, namely on St George's Day, that is to say the 23rd of April of this year, eight thousand Reichsthaler, and on the coming Midsummer of this year twelve thousand Reichsthaler.\n\n§ 4. Besides this purchase money stipulated and fixed in § 3, the purchaser, Mr Meierowitz, shall pay to His Serene Highness the seller, or wherever the same may most highly direct, annually and indeed in perpetuity a canon of five hundred Rthl in Courant.\n\n§ 5. This canon shall be paid in half-yearly instalments post numerando to the purchaser, on pain of the coercive measures laid down in the provincial law.\n\n§ 6. Should, however, the purchaser be minded, and find it convenient to his interest, to pay a capital of ten thousand Rthl in place of the canon of five hundred Rthl determined in § 4, in order to discharge himself of this burden of debt — which, as a purchase-residue that cannot be called in, is to be entered upon this estate of Witów as a first mortgage — then this shall be conceded on",
+   "names": [
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Wittow",
+     "en": "Witów",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "3",
+    "23ten",
+    "20000 (Zwantzig Tausend)",
+    "23ten",
+    "8000 (Acht-Tausend)",
+    "12000 (Zwölf-Tausend)",
+    "4",
+    "3",
+    "500",
+    "5",
+    "6",
+    "4",
+    "500",
+    "10000 (Zehn Tausend)"
+   ]
   },
   {
    "page": 3,
-   "en": "the part of the seller; only, if the purchaser wishes to redeem the canon by payment of the Ten Thousand Rthl, a half-yearly notice must first be given.\n\n§ 7. Although it is fixed in § 3 that Meierowitz will pay Eight Thousand Reichsthaler on the 23rd of April of this year and Twelve Thousand Reichsthaler at Johanni of this year, it is here further agreed that, in case the Frau Obristen von Schliesen should wish to let the Six Thousand Reichsthaler still due to her according to the mortgage book stand further outstanding, His Serene Highness will permit this to be done and, with the canon of Five Hundred Thaler to be rendered yearly, will stand behind and grant the Frau Obristen v. Schliefen the priority.\n\n§ 8. The Eight Thousand Thaler mentioned in § 3, however, must be promptly paid on the 23rd of April of this year, to which the purchaser binds himself in the most earnest manner.\n\n§ 9. The drawing up and execution of a judicial contract concerning the estate Witttow shall take place as soon as the purchase with the Honrichs has been annulled. The complete taking-over from Honrichs, however, and the delivery to the purchaser cannot, howsoever the matter may proceed, take place earlier than Johanny of this year, because otherwise, with"
+   "en": "the part of the seller; only, if the purchaser wishes to redeem the canon by payment of the ten thousand Rthl, a half-year's notice must precede.\n\n§ 7. Although it is indeed fixed in § 3 that Meierowitz will pay eight thousand Reichsthaler on the 23rd of April of this year and twelve thousand Reichsthaler at Midsummer of this year, it is here further agreed that, in case the lady Colonel von Schliesen should wish to leave standing the six thousand Reichsthaler still due to her according to the mortgage book, His Serene Highness will allow this to be done, and will stand behind with the canon of five hundred thalers to be paid annually, and grant priority to the lady Colonel von Schliefen.\n\n§ 8. The eight thousand thalers mentioned in § 3, however, must be paid promptly on the 23rd of April of this year, to which the purchaser binds himself in the most earnest manner.\n\n§ 9. The drawing up and execution of a judicial contract concerning the estate of Witów shall take place as soon as the purchase with the Honrichs has been annulled. The complete taking-over from Honrichs, however, and the delivery to the purchaser cannot, however the matter may go, take place earlier than Midsummer of this year, because otherwise, with",
+   "names": [
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Frau Obristen von Schliesen",
+     "en": "lady Colonel von Schliesen",
+     "kind": "person"
+    },
+    {
+     "de": "Frau Obristen v. Schliefen",
+     "en": "lady Colonel von Schliefen",
+     "kind": "person"
+    },
+    {
+     "de": "Witttow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10000 (Zehn-Tausend)",
+    "3",
+    "8000 (Acht Tausend)",
+    "23ten",
+    "12000 (Zwölf tausend)",
+    "7",
+    "6000 (Sechs-Tausend)",
+    "500",
+    "8",
+    "3",
+    "23ten",
+    "9"
+   ]
   },
   {
    "page": 4,
-   "en": "the payments of interest, many entanglements might arise.\n\n§ 10. Since the purchaser cannot at present demonstrate his capacity to possess noble estates, the seller undertakes to contribute everything toward obtaining the concession to possess the estate Wittow, as soon as the purchase with Honrichsen is annulled, and to intercede on that account himself with His Majesty the King. All costs, however, for the procuring of the concession the purchaser bears alone.\n\n§ 11. All the costs arising in purchases of this kind, by whatever name they may be called, both parties bear by halves.\n\n§ 12. Both parties bind themselves to the maintenance of this Punctation, renouncing all objections of whatever name.\n\nDone at Kalisch, the 9th of March 1805. Peter Friedrich August v. Triebenfeld. Franz Maierowitz. Friedrich Willhelm Eger as witness. [uncertain: Bezuer] qua Testis"
+   "en": "the payments of interest many entanglements might arise.\n\n§ 10. Since the purchaser cannot at present prove his capacity to possess noble estates, the seller undertakes to contribute everything toward obtaining the concession to possess the estate of Witów, as soon as the purchase with Honrichs is annulled, and to intercede on that account himself with His Majesty the King. All costs, however, of procuring the concession the purchaser bears alone.\n\n§ 11. All the costs arising in purchases of this kind, by whatever name they may be called, both parties bear by halves.\n\n§ 12. Both parties bind themselves to the holding fast of these heads of agreement, with renunciation of all objections, by whatever name they may be called.\n\nDone at Kalisz, the 9th of March 1805. Peter Friedrich August von Triebenfeld. Franz Maierowitz. Friedrich Willhelm Eger, as witness. Bezuer[illegible] qua Testis",
+   "names": [
+    {
+     "de": "Witow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichsen",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Peter Friedrich August v. Triebenfeld",
+     "en": "Peter Friedrich August von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Franz Maierowitz",
+     "en": "Franz Maierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich Willhelm Eger",
+     "en": "Friedrich Willhelm Eger",
+     "kind": "person"
+    },
+    {
+     "de": "Bezuer[?]",
+     "en": "Bezuer[illegible]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "11",
+    "12",
+    "9ten",
+    "1805"
+   ]
   }
  ],
- "text_english": "Between the Royal Councillor of War and Forests, also General Plenipotentiary of His Most Serene Highness the reigning Prince and Lord of Hohenlohe, Herr Peter Friederich August v. Triebenfeld, and Herr Franz Meierowicz, the following Punctation has been agreed upon and drawn up.\n\n§ 1. Herr von Triebenfeld undertakes, as General Mandatarius of the Herr Fürst zu Hohenlohe, to convey the estate Wittow, situated in the Warta district, with all its inhabitants and all appurtenances, taverns, lands, Scholtzerey, waters, buildings and inventory, with all rights and usufructs, by whatever name they may be called, nothing thereof excepted, just as the same was purchased from the widowed Frau Obristen von Schliesen, to Herr Meierowitz as heritable and absolute property; as soon as the sale with the Honrichs — who is neither capable of possession nor, still less, solvent — shall have been annulled, for which purpose the requisite proceedings have already been instituted before the competent authority.\n\n§ 2. The sale is effected in Pausch und Bogen, and upon the conclusion of the contract no further warranty shall be\n\nrendered by the seller.\n\n§ 3. Herr Meierowitz shall pay at George, that is on the 23rd of April of this year, for the abovenamed estate a cash purchase price of Twenty Thousand Reichsthaler in Courant, namely at George, that is on the 23rd of April of this year, Eight Thousand Reichsthaler, and at the coming Johanny of this year, Twelve Thousand Reichsthaler.\n\n§ 4. Besides this purchase money stipulated and fixed in § 3, the purchaser Herr Meierowitz shall pay to His Serene Highness the seller, or wherever the same shall most highly direct [Anweisung], yearly and indeed in perpetuity, a canon of Five Hundred Rthl in Courant.\n\n§ 5. This canon shall be paid in half-yearly instalments post numerando to the purchaser, under pain of the compulsory measures laid down in the provincial law.\n\n§ 6. Should, however, the purchaser be minded, and find it convenient to his interest, to pay Ten Thousand Rthl of capital in place of the canon of Five Hundred Rthl fixed in § 4, in order to discharge himself of this burden of debt — which, as a purchase residuum not subject to being called in, is to be entered upon this estate Wittow as a first mortgage — then this shall be conceded on\n\nthe part of the seller; only, if the purchaser wishes to redeem the canon by payment of the Ten Thousand Rthl, a half-yearly notice must first be given.\n\n§ 7. Although it is fixed in § 3 that Meierowitz will pay Eight Thousand Reichsthaler on the 23rd of April of this year and Twelve Thousand Reichsthaler at Johanni of this year, it is here further agreed that, in case the Frau Obristen von Schliesen should wish to let the Six Thousand Reichsthaler still due to her according to the mortgage book stand further outstanding, His Serene Highness will permit this to be done and, with the canon of Five Hundred Thaler to be rendered yearly, will stand behind and grant the Frau Obristen v. Schliefen the priority.\n\n§ 8. The Eight Thousand Thaler mentioned in § 3, however, must be promptly paid on the 23rd of April of this year, to which the purchaser binds himself in the most earnest manner.\n\n§ 9. The drawing up and execution of a judicial contract concerning the estate Witttow shall take place as soon as the purchase with the Honrichs has been annulled. The complete taking-over from Honrichs, however, and the delivery to the purchaser cannot, howsoever the matter may proceed, take place earlier than Johanny of this year, because otherwise, with\n\nthe payments of interest, many entanglements might arise.\n\n§ 10. Since the purchaser cannot at present demonstrate his capacity to possess noble estates, the seller undertakes to contribute everything toward obtaining the concession to possess the estate Wittow, as soon as the purchase with Honrichsen is annulled, and to intercede on that account himself with His Majesty the King. All costs, however, for the procuring of the concession the purchaser bears alone.\n\n§ 11. All the costs arising in purchases of this kind, by whatever name they may be called, both parties bear by halves.\n\n§ 12. Both parties bind themselves to the maintenance of this Punctation, renouncing all objections of whatever name.\n\nDone at Kalisch, the 9th of March 1805. Peter Friedrich August v. Triebenfeld. Franz Maierowitz. Friedrich Willhelm Eger as witness. [uncertain: Bezuer] qua Testis",
+ "text_english": "Between the Royal Councillor of War and Forests and also General Plenipotentiary of His Most Serene Highness the reigning Prince and Lord of Hohenlohe, Mr Peter Friederich August von Triebenfeld, and Mr Franz Meierowitz, the following heads of agreement have been settled and drawn up.\n\n§ 1. Mr von Triebenfeld undertakes, as General Mandatary of the Prince of Hohenlohe, to convey the estate of Witów situated in the district of Warta, with all residents and all appurtenances, taverns, lands, the village mayor's holding, waters, buildings and inventory, with all rights and profits, by whatever name they may be called, nothing thereof excepted, just as the same was purchased from the widowed lady Colonel von Schliesen, to Mr Meierowitz as his hereditary property; as soon as the sale to the Honrichs — who is neither capable of possession, still less solvent — has been annulled, for which purpose the necessary steps have already been instituted before the competent authority.\n\n§ 2. The sale is made in Pausch und Bogen, and upon conclusion of the contract no further warranty is given by the seller\n\ngiven.\n\n§ 3. Mr Meierowitz shall pay on St George's Day, that is to say the 23rd of April of this year, for the above-named estate a cash purchase price of twenty thousand Reichsthaler in Courant, namely on St George's Day, that is to say the 23rd of April of this year, eight thousand Reichsthaler, and on the coming Midsummer of this year twelve thousand Reichsthaler.\n\n§ 4. Besides this purchase money stipulated and fixed in § 3, the purchaser, Mr Meierowitz, shall pay to His Serene Highness the seller, or wherever the same may most highly direct, annually and indeed in perpetuity a canon of five hundred Rthl in Courant.\n\n§ 5. This canon shall be paid in half-yearly instalments post numerando to the purchaser, on pain of the coercive measures laid down in the provincial law.\n\n§ 6. Should, however, the purchaser be minded, and find it convenient to his interest, to pay a capital of ten thousand Rthl in place of the canon of five hundred Rthl determined in § 4, in order to discharge himself of this burden of debt — which, as a purchase-residue that cannot be called in, is to be entered upon this estate of Witów as a first mortgage — then this shall be conceded on\n\nthe part of the seller; only, if the purchaser wishes to redeem the canon by payment of the ten thousand Rthl, a half-year's notice must precede.\n\n§ 7. Although it is indeed fixed in § 3 that Meierowitz will pay eight thousand Reichsthaler on the 23rd of April of this year and twelve thousand Reichsthaler at Midsummer of this year, it is here further agreed that, in case the lady Colonel von Schliesen should wish to leave standing the six thousand Reichsthaler still due to her according to the mortgage book, His Serene Highness will allow this to be done, and will stand behind with the canon of five hundred thalers to be paid annually, and grant priority to the lady Colonel von Schliefen.\n\n§ 8. The eight thousand thalers mentioned in § 3, however, must be paid promptly on the 23rd of April of this year, to which the purchaser binds himself in the most earnest manner.\n\n§ 9. The drawing up and execution of a judicial contract concerning the estate of Witów shall take place as soon as the purchase with the Honrichs has been annulled. The complete taking-over from Honrichs, however, and the delivery to the purchaser cannot, however the matter may go, take place earlier than Midsummer of this year, because otherwise, with\n\nthe payments of interest many entanglements might arise.\n\n§ 10. Since the purchaser cannot at present prove his capacity to possess noble estates, the seller undertakes to contribute everything toward obtaining the concession to possess the estate of Witów, as soon as the purchase with Honrichs is annulled, and to intercede on that account himself with His Majesty the King. All costs, however, of procuring the concession the purchaser bears alone.\n\n§ 11. All the costs arising in purchases of this kind, by whatever name they may be called, both parties bear by halves.\n\n§ 12. Both parties bind themselves to the holding fast of these heads of agreement, with renunciation of all objections, by whatever name they may be called.\n\nDone at Kalisz, the 9th of March 1805. Peter Friedrich August von Triebenfeld. Franz Maierowitz. Friedrich Willhelm Eger, as witness. Bezuer[illegible] qua Testis",
  "summary_en": "Heads of agreement between Peter Friederich August von Triebenfeld, councillor of war and forests and general plenipotentiary of the Prince of Hohenlohe, and Franz Meierowitz for the sale of the estate of Witów in the Warta district, in Pausch und Bogen and without warranty: 20,000 Reichsthaler (8,000 at St George's Day, 12,000 at Midsummer) plus a perpetual canon of 500 Rthl, redeemable by 10,000 Rthl. Completion awaits annulment of the sale to the Honrichs, precedence for Colonel von Schliesen's widow's 6,000 Rthl, and a royal concession to hold noble estates; costs shared equally. Signed at Kalisz with witnesses.",
  "summary_de": "Punctation in zwölf Paragraphen über den Verkauf des im Kreis Warta gelegenen Gutes Witów, das Peter Friederich August von Triebenfeld als Generalbevollmächtigter des Fürsten von Hohenlohe an Franz Meierowitz in Pausch und Bogen erbeigentümlich überträgt, sobald der Kauf mit den Honrichs aufgehoben ist. Kaufpreis 20.000 Rthl Courant (8.000 auf Georgi, 12.000 auf Johanni), dazu ein ewiger Canon von 500 Rthl, ablösbar mit 10.000 Rthl; Rücksicht auf die 6.000 Rthl der Obristin von Schliesen; Zusage der Besitzfähigkeits-Concession. Unterschriften Triebenfeld, Maierowitz und Zeuge Eger."
 }

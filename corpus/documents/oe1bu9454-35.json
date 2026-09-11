@@ -248,24 +248,375 @@
    "doc_line": 90
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Stein",
+   "kind": "person",
+   "surface_de": "von Stein",
+   "surface_en": "von Stein",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontopper",
+   "surface_en": "Kontop",
+   "page": 1
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Arme lang",
+   "surface_en": "Amelang",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Marcul",
+   "kind": "person",
+   "surface_de": "Marcul",
+   "surface_en": "Marcul",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Z.",
+   "kind": "person",
+   "surface_de": "v. J.",
+   "surface_en": "von Z.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "van der Laar",
+   "kind": "person",
+   "surface_de": "von der Laar",
+   "surface_en": "van der Laar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "van der Laar",
+   "kind": "person",
+   "surface_de": "Van der Laar",
+   "surface_en": "van der Laar",
+   "page": 2
+  },
+  {
+   "entity": "stein",
+   "display": "Stein",
+   "kind": "person",
+   "surface_de": "Stein",
+   "surface_en": "Stein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 3
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 3
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 3
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 3
+  },
+  {
+   "entity": "stein",
+   "display": "Stein",
+   "kind": "person",
+   "surface_de": "Stein",
+   "surface_en": "Stein",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "van der Laar",
+   "kind": "person",
+   "surface_de": "von der Laar",
+   "surface_en": "van der Laar",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Gracious Lord! Your Serene Highness's dispositions, which you were most highly pleased to issue through Court Councillor Meyer to Privy Councillor [uncertain: Amelang], have shaken my [uncertain: innermost] and have so aggravated my bodily sufferings that I may well hope for my complete recovery only some 4 weeks later. How was it possible for you, gracious Prince and Lord, to take such resolutions as might have plunged me, in these times and given the disposition of Herr Bau von Stein, into the deepest misery — You order [uncertain: still] today sums upon that [uncertain: bank] instruction, which I already three quarters of a year ago [text unclear: declared] null and void, and Herr Meyer says that you do this out of mercy toward me, in that you were drawing upon your last penny of need. How painfully these expressions [uncertain: touch] my heart I am not able to depict — You wish, Most Serene Lord, out of mercy toward me, to assign 2600 Rthl of my own property — What is the meaning of this? I have suffered here for you unjustly and dreadfully, indeed I have even had to endure arrest (which I have never in my life undergone) — I had to procure and pay the money, unless I wished to have 2 gendarmes continually in my chamber, who cost me here some 20 Rthl daily — the worthy Minister von Zastrow helped in this, but I had to bind myself to him not to depart from here any sooner than until the 6000 Rthl were paid and he had his bill of exchange back. I reported this unheard-of occurrence to Your Serene Highness, and beg you to contribute so that the 6000 Rthl, which I have had to pay here for you, may be settled. I begged at the same time that that bank instruction, likewise for [illegible]000 Rthl, be sent back to me, inasmuch as it was declared invalid, and I have already several times been admonished by the [uncertain: bank] to return the same, so that my Kontopper mortgage together with my bill of exchange — which was drawn only for 3 months and had long since expired — might be restored to me."
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nYour Serene Highness's dispositions, which you most highly issued through Court Councillor Meyer to Privy Councillor Amelang, have shaken my [uncertain: innermost] and have so aggravated my bodily sufferings that I can hardly hope for my complete recovery until some 4 weeks later. How was it possible for you, most gracious Prince and Lord, to take such resolutions as could have plunged me, in these times and given the sentiments of Baron von Stein, into the deepest misery — You point again to that bank order to pay, which I already three-quarters of a year ago declared null and void [uncertain: acklärknoch] sums still today, and Mr. Meyer says that you do this out of mercy towards me, in that you draw upon your last penny of need. How painfully these expressions wound my heart I am not in a position to describe — You wish, Most Serene Lord, out of mercy towards me, to order the payment of 2600 Rthl out of my own property — What is this to mean? I have here suffered unjustly and dreadfully on your account, indeed I have even had to endure arrest (which I have never suffered in my life) — I had to procure and pay the money, if I did not wish to have 2 gendarmes permanently in my room, who here cost me some 20 Rthl daily — the worthy Minister von Zastrow helped in this, but I had to bind myself towards him not to depart from here any sooner than until the 6000 Rthl were paid and he had his bill of exchange back. I reported this unheard-of occurrence to Your Serene Highness, and beg you to contribute so that the 6000 Rthl, which I have had to pay here for you, may be settled. I begged at the same time that that bank order to pay, also for [illegible]000 Rthl, be sent back to me, inasmuch as it has been declared invalid, and I have already several times been admonished by the bank to return the same, so that my Kontop mortgage together with my bill of exchange, which was drawn for only 3 months and had long since expired, might be handed back to me.",
+   "names": [
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "von Stein",
+     "en": "von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Kontopper",
+     "en": "Kontop",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4",
+    "3/4",
+    "2600",
+    "20",
+    "2",
+    "6000",
+    "6000",
+    "[?]000",
+    "3"
+   ]
   },
   {
    "page": 2,
-   "en": "Your Serene Highness's replies to my letter [uncertain: express] the deepest sympathy for me, but mentioned nothing of the [uncertain: bank] instruction — on the contrary, Herr Meyer writes to Privy Councillor Amelang in a threatening style and, out of mercy toward me, assigns 1600 Rthl to the [text unclear] Privy Councillor, which he is to have paid out of my money through the Royal [uncertain: bank], for which I have pledged my property and given my bill of exchange. That is truly more than unheard-of — I am sent hither by Marcul on the most important affairs — I am, when I have concluded the business here, to go on to Vienna; here I am attacked, in a manner not to have been imagined, for 5000 Rthl of interest which Your Serene Highness is to pay, as your plenipotentiary; I prove that I am not bound to render this payment — all this avails nothing — they arrest me, place 2 gendarmes upon me who must guard me, and whom I must feed here at the inn daily — I am to pay [text unclear] — the business entrusted to me I neither might nor could pursue under such surveillance — the consequences thereof will yet have great influence upon the fate of many a man. Yes, in this [uncertain: extremity] the honest Minister von Zastrow advised that the money be raised and paid. The interest for 2 years amounted to 5000 Rthl and the costs 125. I had 2000 Rthl of travelling money by me; for 5000 Rthl the Minister v. Z. borrowed from a certain banker von der Laar in state paper, repayable in Courant on the 14th of May of this year — the 5000 Rthl were converted into Courant, and we scarcely brought the sum together to be able to settle the interest. The term is now again at the door for paying von der Laar the 5000 Rthl — I have already moved heaven and hell to raise the money. But in these hard times it is in vain. I have fallen ill over it and lie here wretched — I have run out of time, have no travelling money, and, what is worst of all, I cannot act in the business entrusted to me — To this is now further added that Minister Stein is not my patron, and that I am to give back the instruction on the bank for those 6000 Rthl lent 2 years ago, and in this way I am, for Your Serene Highness's cause's sake, in continual"
+   "en": "Your Serene Highness's replies to my letter express the deepest pity for me, but made no mention of the bank order to pay — on the other hand Mr. Meyer writes to Privy Councillor Amelang in a threatening style and orders the payment, out of mercy towards me, of 1600 Rthl to the [text lost] the Privy Councillor is to have paid out my own money through the Royal Bank, against which I have pledged my property and given my bill of exchange.\n\nThat is truly more than unheard of — I am sent hither by [uncertain: Marcul] on the weightiest affairs — I am, when I have concluded the business here, then to go to Vienna; I am here attacked, in a manner never conceivable, for 5000 Rthl of interest which Your Serene Highness is to pay, as your authorised representative; I prove that I am not bound to render this payment — all this avails nothing — they arrest me, place 2 gendarmes upon me who must guard me, and whom I must here feed daily at the inn — I am to pay [uncertain: vor yre mal gre] — the business entrusted to me I neither might nor could pursue under such surveillance — the consequences of this will yet have great influence on more than one man's fate. Indeed, in this extremity the honest Minister von Zastrow advised raising the money and paying it. The interest amounted for 2 years to 5000 Rthl and the costs to 125. I had 2000 Rthl of travel money with me; upon 5000 Rthl the Minister von Z. borrowed from a certain [uncertain: Baugmer] van der Laar in state papers, repayable in Courant on the 14th of May of this year — the 5000 Rthl were converted into Courant, and we barely brought the sum together in order to be able to settle the interest. The term is now again at the door for paying van der Laar the 5000 Rthl — I have already moved heaven and hell to raise the money. But in these hard times it is in vain. I have fallen ill over it and lie here in wretchedness — have been held fast here, have no travel money, and what is worst of all I cannot act in the business entrusted to me — To this there is now further added that Minister Stein is not my patron, and that I am to give back the order to pay upon the bank for those 6000 Rthl borrowed 2 years ago, and in this manner I am, for Your Serene Highness's cause, in continu-",
+   "names": [
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Arme lang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Marcul",
+     "en": "Marcul",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "v. J.",
+     "en": "von Z.",
+     "kind": "person"
+    },
+    {
+     "de": "von der Laar",
+     "en": "van der Laar",
+     "kind": "person"
+    },
+    {
+     "de": "Van der Laar",
+     "en": "van der Laar",
+     "kind": "person"
+    },
+    {
+     "de": "Stein",
+     "en": "Stein",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1600",
+    "5000",
+    "2",
+    "2",
+    "5000",
+    "125",
+    "2000",
+    "5000",
+    "14",
+    "5000",
+    "5000",
+    "6000",
+    "2"
+   ]
   },
   {
    "page": 3,
-   "en": "arrest — To Königsberg I cannot write the cause, for Your Serene Highness's honour's sake — I have had just cause hitherto to excuse myself on the ground of illness, but in the end the matter will nonetheless come to light, and it might prove prejudicial to Your Serene Highness yourself. With an honest heart I have striven to find a remedy, I hoped to obtain something through your help, and I have already 2000 Rthl; there are wanting only a further 3125 Rthl. Now I learn through Amelang, to my very greatest horror, that the 2000 r. which Herr Meyer, out of compassion for me, assigns — are to be taken from those 6000 Rthl which I two years ago instructed for Your Serene Highness. Had this not been disclosed to me by Amelang — the monies with 1600 Rthl to me and with 3400 Rthl paid to Eysenhardt — then the bank, or Minister Stein, since the bill of exchange given by me for the 6000 Rthl has long since expired, [text unclear] and would forthwith have proceeded according to bill-of-exchange law and formally arrested me anew. I now beg Your Serene Highness most urgently to have a remedy provided, so that at least the 3125 Rthl may be paid here. For with my 2000 Rthl and with the costs I have laid out I am willing to wait, and to procure myself money for the journey to Vienna. Thereupon I beg just as urgently that an order be sent at once to Privy Councillor Amelang, that he restore to me the bank instruction for 6000 Rthl, since Eysenhardt has deposited it with him in the original — This is the only means whereby these notorious matters may be set aside, Your Serene Highness's honour and my own saved, and I be made free again, so as to pursue the business most graciously entrusted to me — once my health, which has been quite [uncertain: shattered] by these accursed events, has been restored — and, if possible, to re-establish much. In all other matters I refer to my preceding letters, and leave it to Your Serene Highness's judgement what you may be pleased to do. Only for the payment of the 3125 Rthl provide the most speedy remedy, and write to Herr Amelang that he restore to me at once the bank instruction for the 6000 Rthl, to which he is willing and ready — for all too unwillingly would I let the matter become noised abroad in Königsberg, and make known the true cause of the delay of my journey. In the hope of the most speedy compliance with my request I remain Your Serene Highness's faithful and most obedient servant. Berlin, the 25th of April 1808. I observe that the term of payment to von der Laar falls due on the 14th of May, and that there are only 22 days net remaining — these I will yet await here; then let it go as God wills. v Triebenfeld"
+   "en": "ous arrest — To Königsberg I cannot write the cause, for the sake of Your Serene Highness's honour — I have had just cause to excuse myself hitherto on grounds of illness, but in the end the matter will come to light after all, and it might even prove prejudicial to Your Serene Highness.\n\nWith an honest heart I have striven to find means; I hoped to obtain something through your help, and already have 2000 Rthl; there are wanting only a further 3125 Rthl. Now I learn through Amelang, to my very greatest horror, that the 2000 r. which Mr. Meyer orders to be paid out of compassion for me — are to be taken from those 6000 Rthl which I ordered to Your Serene Highness 2 years ago. Had this not been disclosed to me by Amelang, the monies being paid out with 1600 Rthl to me and with 3400 Rthl to Eysenhardt, then the bank or Minister Stein would — since the bill of exchange given by me for the 6000 Rthl has long since expired — have proceeded forthwith according to the law of bills of exchange and had me formally arrested anew. Your Serene Highness I now beg in the most urgent manner to have means found.\n\nthat at least the 3125 Rthl may be paid here. For with my 2000 Rthl and with the costs I have laid out I am willing to wait, and to procure myself money for the journey to Vienna. Thereupon I beg just as urgently that an order be sent at once to Privy Councillor Amelang, that he hand back to me the bank order to pay for 6000 Rthl, since Eysenhardt has deposited it with him in the original — This is the only means by which these notorious matters may be set aside, Your Serene Highness's honour and mine saved, and I be made free again, in order to pursue the business most graciously entrusted to me — once my health, which has been quite [uncertain: erinnert] by these cursed events, has been restored — and if possible to re-establish much. In all other matters I refer myself to my preceding letters, and leave it to Your Serene Highness's discretion what you may be pleased to do. Only for the payment of the 3125 Rthl provide the speediest means, and write to Mr. Amelang that he hand back to me the bank order to pay for the 6000 Rthl at once, to which he is willing and ready — for I should be all too reluctant to let the matter become notorious in Königsberg, and to make known the true cause of the delay of my journey. In the hope of the most speedy compliance with my request I remain Your Serene Highness's\n\nmost faithful and obedient servant\n\nBerlin, the 25th of April 1808\n\nI observe that the term of payment to van der Laar falls due on the 14th of May, and that there are only 22 days net remaining — these I will still await here, and then let it go as God wills. von Triebenfeld",
+   "names": [
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Stein",
+     "en": "Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "von der Laar",
+     "en": "van der Laar",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2000",
+    "3125",
+    "2000",
+    "6000",
+    "2",
+    "1600",
+    "3400",
+    "6000",
+    "3125",
+    "2000",
+    "6000",
+    "3125",
+    "6000",
+    "25",
+    "1808",
+    "14",
+    "22"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Gracious Lord! Your Serene Highness's dispositions, which you were most highly pleased to issue through Court Councillor Meyer to Privy Councillor [uncertain: Amelang], have shaken my [uncertain: innermost] and have so aggravated my bodily sufferings that I may well hope for my complete recovery only some 4 weeks later. How was it possible for you, gracious Prince and Lord, to take such resolutions as might have plunged me, in these times and given the disposition of Herr Bau von Stein, into the deepest misery — You order [uncertain: still] today sums upon that [uncertain: bank] instruction, which I already three quarters of a year ago [text unclear: declared] null and void, and Herr Meyer says that you do this out of mercy toward me, in that you were drawing upon your last penny of need. How painfully these expressions [uncertain: touch] my heart I am not able to depict — You wish, Most Serene Lord, out of mercy toward me, to assign 2600 Rthl of my own property — What is the meaning of this? I have suffered here for you unjustly and dreadfully, indeed I have even had to endure arrest (which I have never in my life undergone) — I had to procure and pay the money, unless I wished to have 2 gendarmes continually in my chamber, who cost me here some 20 Rthl daily — the worthy Minister von Zastrow helped in this, but I had to bind myself to him not to depart from here any sooner than until the 6000 Rthl were paid and he had his bill of exchange back. I reported this unheard-of occurrence to Your Serene Highness, and beg you to contribute so that the 6000 Rthl, which I have had to pay here for you, may be settled. I begged at the same time that that bank instruction, likewise for [illegible]000 Rthl, be sent back to me, inasmuch as it was declared invalid, and I have already several times been admonished by the [uncertain: bank] to return the same, so that my Kontopper mortgage together with my bill of exchange — which was drawn only for 3 months and had long since expired — might be restored to me.\n\nYour Serene Highness's replies to my letter [uncertain: express] the deepest sympathy for me, but mentioned nothing of the [uncertain: bank] instruction — on the contrary, Herr Meyer writes to Privy Councillor Amelang in a threatening style and, out of mercy toward me, assigns 1600 Rthl to the [text unclear] Privy Councillor, which he is to have paid out of my money through the Royal [uncertain: bank], for which I have pledged my property and given my bill of exchange. That is truly more than unheard-of — I am sent hither by Marcul on the most important affairs — I am, when I have concluded the business here, to go on to Vienna; here I am attacked, in a manner not to have been imagined, for 5000 Rthl of interest which Your Serene Highness is to pay, as your plenipotentiary; I prove that I am not bound to render this payment — all this avails nothing — they arrest me, place 2 gendarmes upon me who must guard me, and whom I must feed here at the inn daily — I am to pay [text unclear] — the business entrusted to me I neither might nor could pursue under such surveillance — the consequences thereof will yet have great influence upon the fate of many a man. Yes, in this [uncertain: extremity] the honest Minister von Zastrow advised that the money be raised and paid. The interest for 2 years amounted to 5000 Rthl and the costs 125. I had 2000 Rthl of travelling money by me; for 5000 Rthl the Minister v. Z. borrowed from a certain banker von der Laar in state paper, repayable in Courant on the 14th of May of this year — the 5000 Rthl were converted into Courant, and we scarcely brought the sum together to be able to settle the interest. The term is now again at the door for paying von der Laar the 5000 Rthl — I have already moved heaven and hell to raise the money. But in these hard times it is in vain. I have fallen ill over it and lie here wretched — I have run out of time, have no travelling money, and, what is worst of all, I cannot act in the business entrusted to me — To this is now further added that Minister Stein is not my patron, and that I am to give back the instruction on the bank for those 6000 Rthl lent 2 years ago, and in this way I am, for Your Serene Highness's cause's sake, in continual\n\narrest — To Königsberg I cannot write the cause, for Your Serene Highness's honour's sake — I have had just cause hitherto to excuse myself on the ground of illness, but in the end the matter will nonetheless come to light, and it might prove prejudicial to Your Serene Highness yourself. With an honest heart I have striven to find a remedy, I hoped to obtain something through your help, and I have already 2000 Rthl; there are wanting only a further 3125 Rthl. Now I learn through Amelang, to my very greatest horror, that the 2000 r. which Herr Meyer, out of compassion for me, assigns — are to be taken from those 6000 Rthl which I two years ago instructed for Your Serene Highness. Had this not been disclosed to me by Amelang — the monies with 1600 Rthl to me and with 3400 Rthl paid to Eysenhardt — then the bank, or Minister Stein, since the bill of exchange given by me for the 6000 Rthl has long since expired, [text unclear] and would forthwith have proceeded according to bill-of-exchange law and formally arrested me anew. I now beg Your Serene Highness most urgently to have a remedy provided, so that at least the 3125 Rthl may be paid here. For with my 2000 Rthl and with the costs I have laid out I am willing to wait, and to procure myself money for the journey to Vienna. Thereupon I beg just as urgently that an order be sent at once to Privy Councillor Amelang, that he restore to me the bank instruction for 6000 Rthl, since Eysenhardt has deposited it with him in the original — This is the only means whereby these notorious matters may be set aside, Your Serene Highness's honour and my own saved, and I be made free again, so as to pursue the business most graciously entrusted to me — once my health, which has been quite [uncertain: shattered] by these accursed events, has been restored — and, if possible, to re-establish much. In all other matters I refer to my preceding letters, and leave it to Your Serene Highness's judgement what you may be pleased to do. Only for the payment of the 3125 Rthl provide the most speedy remedy, and write to Herr Amelang that he restore to me at once the bank instruction for the 6000 Rthl, to which he is willing and ready — for all too unwillingly would I let the matter become noised abroad in Königsberg, and make known the true cause of the delay of my journey. In the hope of the most speedy compliance with my request I remain Your Serene Highness's faithful and most obedient servant. Berlin, the 25th of April 1808. I observe that the term of payment to von der Laar falls due on the 14th of May, and that there are only 22 days net remaining — these I will yet await here; then let it go as God wills. v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nYour Serene Highness's dispositions, which you most highly issued through Court Councillor Meyer to Privy Councillor Amelang, have shaken my [uncertain: innermost] and have so aggravated my bodily sufferings that I can hardly hope for my complete recovery until some 4 weeks later. How was it possible for you, most gracious Prince and Lord, to take such resolutions as could have plunged me, in these times and given the sentiments of Baron von Stein, into the deepest misery — You point again to that bank order to pay, which I already three-quarters of a year ago declared null and void [uncertain: acklärknoch] sums still today, and Mr. Meyer says that you do this out of mercy towards me, in that you draw upon your last penny of need. How painfully these expressions wound my heart I am not in a position to describe — You wish, Most Serene Lord, out of mercy towards me, to order the payment of 2600 Rthl out of my own property — What is this to mean? I have here suffered unjustly and dreadfully on your account, indeed I have even had to endure arrest (which I have never suffered in my life) — I had to procure and pay the money, if I did not wish to have 2 gendarmes permanently in my room, who here cost me some 20 Rthl daily — the worthy Minister von Zastrow helped in this, but I had to bind myself towards him not to depart from here any sooner than until the 6000 Rthl were paid and he had his bill of exchange back. I reported this unheard-of occurrence to Your Serene Highness, and beg you to contribute so that the 6000 Rthl, which I have had to pay here for you, may be settled. I begged at the same time that that bank order to pay, also for [illegible]000 Rthl, be sent back to me, inasmuch as it has been declared invalid, and I have already several times been admonished by the bank to return the same, so that my Kontop mortgage together with my bill of exchange, which was drawn for only 3 months and had long since expired, might be handed back to me.\n\nYour Serene Highness's replies to my letter express the deepest pity for me, but made no mention of the bank order to pay — on the other hand Mr. Meyer writes to Privy Councillor Amelang in a threatening style and orders the payment, out of mercy towards me, of 1600 Rthl to the [text lost] the Privy Councillor is to have paid out my own money through the Royal Bank, against which I have pledged my property and given my bill of exchange.\n\nThat is truly more than unheard of — I am sent hither by [uncertain: Marcul] on the weightiest affairs — I am, when I have concluded the business here, then to go to Vienna; I am here attacked, in a manner never conceivable, for 5000 Rthl of interest which Your Serene Highness is to pay, as your authorised representative; I prove that I am not bound to render this payment — all this avails nothing — they arrest me, place 2 gendarmes upon me who must guard me, and whom I must here feed daily at the inn — I am to pay [uncertain: vor yre mal gre] — the business entrusted to me I neither might nor could pursue under such surveillance — the consequences of this will yet have great influence on more than one man's fate. Indeed, in this extremity the honest Minister von Zastrow advised raising the money and paying it. The interest amounted for 2 years to 5000 Rthl and the costs to 125. I had 2000 Rthl of travel money with me; upon 5000 Rthl the Minister von Z. borrowed from a certain [uncertain: Baugmer] van der Laar in state papers, repayable in Courant on the 14th of May of this year — the 5000 Rthl were converted into Courant, and we barely brought the sum together in order to be able to settle the interest. The term is now again at the door for paying van der Laar the 5000 Rthl — I have already moved heaven and hell to raise the money. But in these hard times it is in vain. I have fallen ill over it and lie here in wretchedness — have been held fast here, have no travel money, and what is worst of all I cannot act in the business entrusted to me — To this there is now further added that Minister Stein is not my patron, and that I am to give back the order to pay upon the bank for those 6000 Rthl borrowed 2 years ago, and in this manner I am, for Your Serene Highness's cause, in continu-\n\nous arrest — To Königsberg I cannot write the cause, for the sake of Your Serene Highness's honour — I have had just cause to excuse myself hitherto on grounds of illness, but in the end the matter will come to light after all, and it might even prove prejudicial to Your Serene Highness.\n\nWith an honest heart I have striven to find means; I hoped to obtain something through your help, and already have 2000 Rthl; there are wanting only a further 3125 Rthl. Now I learn through Amelang, to my very greatest horror, that the 2000 r. which Mr. Meyer orders to be paid out of compassion for me — are to be taken from those 6000 Rthl which I ordered to Your Serene Highness 2 years ago. Had this not been disclosed to me by Amelang, the monies being paid out with 1600 Rthl to me and with 3400 Rthl to Eysenhardt, then the bank or Minister Stein would — since the bill of exchange given by me for the 6000 Rthl has long since expired — have proceeded forthwith according to the law of bills of exchange and had me formally arrested anew. Your Serene Highness I now beg in the most urgent manner to have means found.\n\nthat at least the 3125 Rthl may be paid here. For with my 2000 Rthl and with the costs I have laid out I am willing to wait, and to procure myself money for the journey to Vienna. Thereupon I beg just as urgently that an order be sent at once to Privy Councillor Amelang, that he hand back to me the bank order to pay for 6000 Rthl, since Eysenhardt has deposited it with him in the original — This is the only means by which these notorious matters may be set aside, Your Serene Highness's honour and mine saved, and I be made free again, in order to pursue the business most graciously entrusted to me — once my health, which has been quite [uncertain: erinnert] by these cursed events, has been restored — and if possible to re-establish much. In all other matters I refer myself to my preceding letters, and leave it to Your Serene Highness's discretion what you may be pleased to do. Only for the payment of the 3125 Rthl provide the speediest means, and write to Mr. Amelang that he hand back to me the bank order to pay for the 6000 Rthl at once, to which he is willing and ready — for I should be all too reluctant to let the matter become notorious in Königsberg, and to make known the true cause of the delay of my journey. In the hope of the most speedy compliance with my request I remain Your Serene Highness's\n\nmost faithful and obedient servant\n\nBerlin, the 25th of April 1808\n\nI observe that the term of payment to van der Laar falls due on the 14th of May, and that there are only 22 days net remaining — these I will still await here, and then let it go as God wills. von Triebenfeld",
  "summary_en": "Bitter protest at dispositions issued through Court Councillor Meyer to Privy Councillor Amelang, which assign 1600 Rthl to Triebenfeld and 3400 to Eysenhardt out of the very 6000 Rthl bank instruction he had declared void. Reports his arrest in Berlin over 5000 Rthl of arrears of interest plus 125 costs, guarded by two gendarmes at his own cost, and the loan raised through Minister von Zastrow from the banker von der Laar, repayable 14 May. Begs 3125 Rthl and the return of the instruction, so he may travel on to Vienna.",
  "summary_de": "Heftige Klage über die durch Hofrath Meyer an Geheimrath Amelang ergangenen Anordnungen: Triebenfeld, als Bevollmächtigter wegen 5000 Rthl rückständiger Zinsen (nebst 125 Rthl Kosten) verhaftet und mit zwei Gendarmen bewacht, mußte mit Hilfe des Ministers von Zastrow bei dem Banquier von der Laar 5000 Rthl in Staatspapieren aufnehmen, rückzahlbar am 14. Mai; es fehlen noch 3125 Rthl. Er bittet um schleunige Abhilfe und um Rückgabe der für ungültig erklärten Bank-Instruction über 6000 Rthl, damit Hypothek und Wechsel frei werden und die Reise nach Wien erfolgen kann."
 }

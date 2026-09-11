@@ -330,28 +330,706 @@
    "doc_line": 124
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Holland",
+   "kind": "place",
+   "surface_de": "Holland",
+   "surface_en": "Holland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mitschke",
+   "kind": "person",
+   "surface_de": "Mitschke",
+   "surface_en": "Mitschke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Peision",
+   "kind": "place",
+   "surface_de": "Peision",
+   "surface_en": "Peision",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Henrichs",
+   "kind": "person",
+   "surface_de": "Henrichs",
+   "surface_en": "Henrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Niedrierechi",
+   "kind": "person",
+   "surface_de": "Niedrierechi",
+   "surface_en": "Niedrierechi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Heckers",
+   "surface_en": "Hecker",
+   "page": 2
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Witowes",
+   "surface_en": "Witów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Haberich",
+   "kind": "person",
+   "surface_de": "Haberich",
+   "surface_en": "Haberich",
+   "page": 2
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mitschke",
+   "kind": "person",
+   "surface_de": "Mitschke",
+   "surface_en": "Mitschke",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Haller",
+   "kind": "person",
+   "surface_de": "Haller",
+   "surface_en": "Haller",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schenk",
+   "kind": "person",
+   "surface_de": "Schenk",
+   "surface_en": "Schenk",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenckk",
+   "surface_en": "Schenck",
+   "page": 2
+  },
+  {
+   "entity": "tietz",
+   "display": "Tietz",
+   "kind": "person",
+   "surface_de": "Tietz",
+   "surface_en": "Tietz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trumm",
+   "kind": "person",
+   "surface_de": "Trumm",
+   "surface_en": "Trumm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Gr[uncertain: a]mm",
+   "kind": "person",
+   "surface_de": "Gr[a?]mm",
+   "surface_en": "Gr[uncertain: a]mm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Przespolewski",
+   "kind": "other",
+   "surface_de": "Przespolewskische",
+   "surface_en": "Przespolewski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Herrrichs",
+   "kind": "person",
+   "surface_de": "Herrrichs",
+   "surface_en": "Herrrichs",
+   "page": 3
+  },
+  {
+   "entity": "otocki",
+   "display": "Otocki",
+   "kind": "person",
+   "surface_de": "Otocki",
+   "surface_en": "Otocki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Exstädt",
+   "kind": "person",
+   "surface_de": "Exstädt",
+   "surface_en": "Exstädt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ignac Radzinski von",
+   "kind": "person",
+   "surface_de": "Ignac v. Radzinski",
+   "surface_en": "Ignac Radzinski von",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szettlewch",
+   "surface_en": "Szetlewek",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Iwanski",
+   "kind": "person",
+   "surface_de": "Iwanski",
+   "surface_en": "Iwanski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swiątniki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pzespolewski",
+   "kind": "other",
+   "surface_de": "Pzespolewskische",
+   "surface_en": "Pzespolewski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prusimskische",
+   "surface_en": "Prusimski",
+   "page": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prussiemski",
+   "surface_en": "Prussiemski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "[G?]lenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Harckt",
+   "kind": "person",
+   "surface_de": "Harckt[?]",
+   "surface_en": "Harckt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Pyzdry",
+   "kind": "place",
+   "surface_de": "Peisern",
+   "surface_en": "Pyzdry",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hennochs",
+   "kind": "person",
+   "surface_de": "Hennochs",
+   "surface_en": "Hennochs",
+   "page": 4
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ephraim",
+   "kind": "person",
+   "surface_de": "Ephraim",
+   "surface_en": "Ephraim",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussian",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussian",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Haucht",
+   "kind": "person",
+   "surface_de": "Haucht",
+   "surface_en": "Haucht",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ende",
+   "kind": "person",
+   "surface_de": "Ende",
+   "surface_en": "Ende",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord, Over the misfortune that has befallen me here, or rather over the arrest on account of the arrears of interest, I have vexed myself to such a degree that I contracted an inflammation of the abdomen and cramps; through the efforts of an honest physician I have indeed been put out of danger, but I should also have had to keep to my room and bed for a pair of [uncertain: weeks/true] as I was wholly [text incomplete]. The grief over all these adverse events wears me out still; from my estates I have or receive not a Groschen; from the State and the King I draw nothing; from no man do I take anything — on what am I to live? I have given everything away so as not to become the mockery of men — I was sent hither and was to go from here to Vienna, but instead I had to live through this disgrace, and my career, only just entered upon, was undone. Now I sit here and heap debts upon debts, for I cannot get away — I therefore repeat the request, only to send back the former instruction for the 6000 Rthl with all possible speed, so that I may help myself thereby, inasmuch as I shall recover the pledged mortgage of 10000 Rthl. As to the further proof demanded by Your Serene Highness, the same follows herewith together with the mortgage certificate. I was on the point of obtaining the money out of Holland; but if Your Serene Highness can obtain it there, so much the better for me; if they give You the full 250000 Rthl, then I need only cede the mortgage, and then You retain 102000 for Yourself, and also the outstanding arrears, which (when the times change) can quickly be brought in. For the rest, there will now be a wicked confusion upon the estates there, and I shall again have much vexation. I had engaged the Justice Commissioner Mitschke in Kalisz, that he should act as Justitiarius in the estates and at the same time attend to the conduct of all the lawsuits. For this I had promised him 300 Rthl salary and, when he travelled, 1 Rthl per diem."
+   "en": "Most Serene Prince\n\nMost gracious Lord. Over the misfortune that has befallen me here, or rather over the arrest on account of the outstanding interest, I have vexed myself to such a degree that I contracted an inflammation of the abdomen and cramps; through the efforts of an honest physician I have indeed been placed out of danger, but I should also have had to keep to my room and bed for a couple [uncertain: of weeks] had I been entirely [text lost]. The grief over all these adverse events wears me down still; from my estates I have or receive not a Groschen, from the State and the King I draw nothing, from no man do I take anything — on what am I to live? I have given up everything so as not to become the mockery of men — I was sent hither and was to go from here to Vienna, but instead I had to suffer this disgrace, and my career, just then embarked upon, was undone. Now I sit here and heap debt upon debt, for I cannot get away — I therefore repeat the entreaty that the former order to pay on the 6000 Rthl be sent back to me with all possible speed, so that I may help myself thereby, inasmuch as I shall get back the mortgage of 10000 Rthl that was given in pledge.\n\nAs to the further proof demanded by Your Serene Highness, the same follows herewith together with the mortgage certificate. I was on the point of obtaining the money from Holland; but if Your Serene Highness can obtain it there, so much the better for me. If they give you the full 250000 Rthl, then I need only cede the mortgage, and you will retain 102000 for yourself, and likewise the outstanding arrears, which (should the times change) can be swiftly recovered. For the rest, there will now be a sorry confusion upon the estates there, and I shall again have much vexation.\n\nI had engaged the judicial commissary Mitschke at Kalisz, that he should act as justiciary on the estates and at the same time attend to the conduct of all suits. For this I had promised him 300 Rthl salary and, when he travelled, 1 Rthl [uncertain: per day of service].",
+   "names": [
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Holland",
+     "en": "Holland",
+     "kind": "place"
+    },
+    {
+     "de": "Mitschke",
+     "en": "Mitschke",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6000",
+    "10000",
+    "250000",
+    "102000",
+    "300",
+    "1"
+   ]
   },
   {
    "page": 2,
-   "en": "Your Serene Highness has now, however, appointed a certain Hawich from Peisern as Justitiarius, without my having known a word of it; You have also sent Heinrichs a general power of attorney — how is that now to be [uncertain: rectified]? Heinrichs and Niedrierechi hold together; the result is that the fellows will now cheat Your Serene Highness in common, particularly since the one of them is authorised to do so. For two years the [uncertain: bösereichte] have not rendered up a heller, but have already pocketed everything; I had therefore taken on a [uncertain: Cassus] and just now sent him thither with extended powers of attorney. Today I receive from this man — he is the son of the Privy Upper Consistorial Councillor Hecker here — the news that His Serene Highness's general plenipotentiary, Herr Heinrichs Doct., will not tolerate him. What am I now to do with this man and with the [uncertain: Mitstelle]? Heinrichs has at once taken a lease from the Poles; he is a knave — I took him on at that time provisionally, in order to get the notorious Witowes affair out of the world; but never was I minded to grant him an authority in which he could do harm. Hecker furnishes a security of 4 to 5 [uncertain: thousand] in treasury notes; with that one could, although they are worth only half their value, nevertheless cover something — the matter has been settled here judicially — what am I now to begin? My advice is that Your Serene Highness write to Haberich that he is to apply to me in everything, and likewise to Heinrichs, and demand back from the latter the general power of attorney at once, with the remark that such a thing is of no use to him since he is no man of the law, but that You require men versed in justice; he could remain in the capacity in which Triebenfeld had appointed him. I then determine that Habeschal's justice [uncertain: Contenz] receives 200 Rthl, fees remain; Mitschke as General Advocate receives, instead of Trumm, 300 Rthl 5. [uncertain: A Serene Highness] Haller as Chief Inspector 600 Rthl; Cabanis as Chief Forester and [uncertain: the said] 300; Heinrichs as the said Commissioner without influence 400. Su[uncertain: m] 1800. d. Sansta[illegible] Schenk 800 Rthl had some [uncertain: Husten] land horses God knows what 400; the fraud Gr[uncertain: a]mm 300; Tietz 300; Cabanis 300; Heinrichs 400; fees which Schenckk [uncertain: drew] amounted to 1200 Rthl; sum 3.700 Rthl; there is thus saved as against formerly 1900 Rthl"
+   "en": "Your Serene Highness has now, however, appointed a certain Hawich from [uncertain: Peision] as justiciary, without my having known a word of it; you have also sent Honrichs a general power of attorney — how is this now to be [uncertain: rectified]? Henrichs and Niedrierechi hold together, and the result is that the fellows will now cheat Your Serene Highness in common, especially since the one of them is authorised to do so. For two years the [illegible] have not remitted a farthing, but have already pocketed everything; I had therefore taken on a [uncertain: Cassus] and have just now sent him thither with extensive powers. Today I receive from this man — he is the son of the Privy Chief Consistorial Councillor Hecker here — the news that the general authorised representative of His Serene Highness, Mr Honrichs, Doctor, will not tolerate them. What am I now to do with this man and with [uncertain: Mitschke]? Honrichs has at once taken a lease from the Poles; he is a knave — I took him on at the time provisionally, in order to get the notorious Witów affair out of the world, but never was I minded to grant him a power in which he could do harm. Hecker furnishes a security of 4 to 5 [uncertain: thousand] in treasury notes; with these one could, even though they are worth only half, at least cover something — the matter is settled here before the court — what am I now to undertake? My counsel is that Your Serene Highness write to Haberich that he is to apply to me in all things, and likewise to Honrichs, and that you demand back from the latter the general power of attorney forthwith, with the observation that such a thing does not [uncertain: suit] him since he is no man of law, but that you require men versed in justice; he might remain in the capacity in which Triebenfeld had appointed him. I then determine that [uncertain: Haberich's] judicial [uncertain: Contenz] receives 200 Rthl, fees remain; Mitschke as general advocate receives, in place of [uncertain: Trumm], 300 Rthl 5. [illegible] Haller as Chief Inspector 600 Rthl\n\nCabanis as [uncertain: forester] and [uncertain: named] 300\n\nHonrichs as the said commissary, without influence 400\n\nSu[uncertain: m] 1800. d.\n\n[uncertain: Sansta] Schenk 800 Rthl had some [uncertain: Husten] land horses [uncertain: God's] what 400 the fraud Gr[uncertain: a]mm 300\n\nTietz 300\n\nCabanis 300\n\nHonrichs 400\n\nFees, which Schenck's amounted to, some 1200 Rthl\n\nsum 3.700 Rthl\n\nthus there is saved, as against formerly, 1900 Rthl",
+   "names": [
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Peision",
+     "en": "Peision",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Henrichs",
+     "en": "Henrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Niedrierechi",
+     "en": "Niedrierechi",
+     "kind": "person"
+    },
+    {
+     "de": "Heckers",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Witowes",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Haberich",
+     "en": "Haberich",
+     "kind": "person"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Mitschke",
+     "en": "Mitschke",
+     "kind": "person"
+    },
+    {
+     "de": "Haller",
+     "en": "Haller",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Schenk",
+     "en": "Schenk",
+     "kind": "person"
+    },
+    {
+     "de": "Schenckk",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Tietz",
+     "en": "Tietz",
+     "kind": "person"
+    },
+    {
+     "de": "Trumm",
+     "en": "Trumm",
+     "kind": "person"
+    },
+    {
+     "de": "Gr[a?]mm",
+     "en": "Gr[uncertain: a]mm",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "4",
+    "5",
+    "200",
+    "300",
+    "5",
+    "600",
+    "300",
+    "400",
+    "1800",
+    "800",
+    "400",
+    "300",
+    "300",
+    "300",
+    "400",
+    "1200",
+    "3.700",
+    "1900"
+   ]
   },
   {
    "page": 3,
-   "en": "In this way alone does Your Serene Highness's disposition remain undamaged and standing, and I am also not compromised, and much will also be saved. With regard to the loan I must once again beg most earnestly that news be given me as speedily as is possible, so that I do not come into embarrassment. Your Serene Highness's letter is of the 23 March and I received it on the 3rd of April, so it was 11 days on the road; therefore I repeat once more that nothing is needed but the cession of the mortgage, and that it is very easy to deal in this matter. The rents then turn out as I have described them, or even higher — What Your Serene Highness writes to me concerning various lawsuits, of that I know not a word — All this must, apart from the Przespolewski matters, be new business, of which the knavish Heinrichs has not written a word either; I shall write what is necessary in this regard at once by tomorrow's post — for at bottom, as I see it, all is invented and fabricated rascally demand. Otocki and Exstädt have nothing to demand; the matters were settled long ago. Ignac v. Radzinski is hereditary lessee and is still much in arrears from Szettlewch; with the 6000 Rthl damages on account of the lease not being obtained, the [uncertain: Erl.] was indeed already dismissed, and the 1500 Rthl are surely reckoned to the knave's credit in the hereditary lease. The Provost Iwanski had indeed also lost the lawsuit and was dismissed; also this would have had to be the German congregation at Swięcia, in case he had obtained judgment, to give. The Przespolewski matter belongs purely to Trąbczin and to the Prusimski heirs — Meanwhile the receipt had at that time been found, that the fellow von Prussiemski was long since paid. Your Serene Highness will pardon my somewhat confused writing; I am so weak that I have had trouble bringing this to completion. In deepest reverence I remain, until death, Your Serene Highness's — Of Swięcia I have no mortgage certificate — as [illegible] to me, [uncertain: G]lenck has thereupon had the Harckt[uncertain: reading] and consorts entered — Berlin, the 3rd of April 1808 — let it be, for then the body of debts would [illegible] Most obedient serv[ant] v Triebenfeld"
+   "en": "In this way alone does Your Serene Highness's disposition remain standing unimpaired, and I too am not compromised, and much is saved besides. With regard to the loan I must once more most earnestly beg that news be given me as speedily as is possible, so that I do not fall into embarrassment. Your Serene Highness's letter is of the 23rd of March and I received it on the 3rd of April, thus 11 days in transit; so I repeat once again that nothing is required but the cession of the mortgage, and that it is very easy to deal in this matter. The revenues will then turn out as I have described them, or rather even higher. — As to what Your Serene Highness writes to me concerning various suits, of that I know not a word. — These must all be new stories, apart from the Przespolewski matters, of which that knavish Herrrichs has not written a word either; I shall write what is needful in that regard at once by tomorrow's post — for at bottom, as I see it, all of it is invented and fabricated, rascally claims. Otocki and Exstädt have nothing to claim, the matters were settled long ago. Ignac von Radzinski is hereditary lessee and is still much in arrears from Szetlewek; with the 6000 Rthl of damages on account of the lease not being received, the [uncertain: worthy gentleman] was indeed already dismissed, and the 1500 Rthl have surely been credited to the knave in the hereditary lease.\n\nThe provost Iwanski had likewise lost his suit and was dismissed; and moreover it would have to be the German congregation at Swiątniki to [uncertain: pay], had he prevailed. The Pzespolewski matter belongs purely to Trąbczyn and to the Prusimski heirs. — Meanwhile the receipt had at that time been found, showing that the fellow of Prussiemski had long since been paid. Your Serene Highness will pardon my somewhat confused writing; I am so weak that I have had trouble bringing this to completion.\n\nIn [uncertain: deepest] respect I remain, until death,\n\nYour Serene Highness's\n\nof Swiątniki I have no mortgage\n\ncertificate — as [uncertain: it seems] to me, Glenck has had the [uncertain: Harckt] and consorts entered upon it\n\nBerlin, the 3rd of April 1808.\n\n[had it] done, whereby the body of debts would\n\n[illegible] most obedient servant v. Triebenfeld",
+   "names": [
+    {
+     "de": "Przespolewskische",
+     "en": "Przespolewski",
+     "kind": "other"
+    },
+    {
+     "de": "Herrrichs",
+     "en": "Herrrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Otocki",
+     "en": "Otocki",
+     "kind": "person"
+    },
+    {
+     "de": "Exstädt",
+     "en": "Exstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Ignac v. Radzinski",
+     "en": "Ignac Radzinski von",
+     "kind": "person"
+    },
+    {
+     "de": "Szettlewch",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Iwanski",
+     "en": "Iwanski",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "Pzespolewskische",
+     "en": "Pzespolewski",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Prusimskische",
+     "en": "Prusimski",
+     "kind": "other"
+    },
+    {
+     "de": "Prussiemski",
+     "en": "Prussiemski",
+     "kind": "place"
+    },
+    {
+     "de": "[G?]lenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Harckt[?]",
+     "en": "Harckt",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "23",
+    "3",
+    "11",
+    "6000",
+    "1500",
+    "3ten",
+    "1808"
+   ]
   },
   {
    "page": 4,
-   "en": "a further 18000 [uncertain: would] accede. Meanwhile this is not upon my mortgage and could not be an impediment to the loan. Enough — [uncertain: it was] the — Most gracious Prince and Lord — if 150000 Rthl in Prussian Courant could be obtained, then one can with that pay off, at once here in Berlin, more than 200000 Rthl of debts. One buys treasury notes; these stand low, and one pays [text lost] these out at full value — [uncertain: names] must everyone who has claims and demands these back [text lost]; and [uncertain: der Ende] and Haucht et Consort would now qualify precisely for this, that they be paid with [uncertain: Behr-]notes. All this I beg may be well taken to heart, and that news be given me as speedily as possible, and also that You write to Trąbczin and Peisern, and in particular demand back the general power of attorney given to [uncertain: Hennochs]; for I cannot [uncertain: be answerable] that the many general plenipotentiaries do not play the rogue and in the end negotiate sums and keep them for themselves. Especially with a fellow [uncertain: wittwärlicher] is this much to be feared. Once again: if Your Serene Highness can now speedily obtain 200000 [uncertain: ₰] in cash there, then You can, with the greedy [uncertain: consumers] — where money is so [uncertain: scarce] and the papers stand so [uncertain: steep] — settle almost Your whole debt. One thing more: Eysenhardt demands of Your Serene Highness a considerable [text lost], because the Ephraim item is [uncertain: mixed in] — Ephraim demands the money here too and has already been with me several times on that account. Let Your Serene Highness not deceive me in this; pay Ephraim off here with treasury notes, which stand, as I [uncertain: see], only at 48 per cent, but which must nevertheless be taken at their nominal value. v Triebenfeld"
+   "en": "a further 18000 [uncertain: would accede]. In the meantime this is not upon my mortgage and could not be an impediment to the loan. It is enough, Most gracious Prince and Lord, that if [you] could obtain 150000 Rthl in Prussian Courant, then more than 200000 Rthl of debts could be paid therewith, at once here in Berlin. One buys treasury notes; these stand low, and one pays them out at full [value] — [uncertain: for] everyone who has a claim upon us and demands it back must take them; and [uncertain: the Ende] and the [uncertain: Haucht] and consorts would qualify precisely for being paid with such notes. All this I beg may be well weighed, and that news be given me as speedily as possible; also that you write to Trąbczyn and Pyzdry, and in particular that the general power of attorney given to Hennochs be demanded back, for I cannot [uncertain: vouch] that the many general attorneys will not play the rogue and in the end negotiate sums and keep them for themselves. This is especially much to be feared in the case of a fellow [uncertain: such as that one]. Once more: should Your Serene Highness now speedily obtain 200000 ₰ in ready money there, then, with the grasping [uncertain: consumers], where money is so [scarce] and the papers stand so [uncertain: steeply], you could settle nearly your whole debt. One thing more: Eysenhardt demands of Your Serene Highness a considerable [sum], because the Ephraim entry has been [uncertain: made]. — Ephraim demands the money here too, and has already been with me several times on that account; let Your Serene Highness not be deceived in this by me. Pay Ephraim off here with treasury notes; they stand, as I [see], at only 48 [uncertain: per cent], yet must be taken at their nominal value.\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Peisern",
+     "en": "Pyzdry",
+     "kind": "place"
+    },
+    {
+     "de": "Hennochs",
+     "en": "Hennochs",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Ephraim",
+     "en": "Ephraim",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Haucht",
+     "en": "Haucht",
+     "kind": "person"
+    },
+    {
+     "de": "Ende",
+     "en": "Ende",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "18000",
+    "150000",
+    "200000",
+    "200000",
+    "48"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord, Over the misfortune that has befallen me here, or rather over the arrest on account of the arrears of interest, I have vexed myself to such a degree that I contracted an inflammation of the abdomen and cramps; through the efforts of an honest physician I have indeed been put out of danger, but I should also have had to keep to my room and bed for a pair of [uncertain: weeks/true] as I was wholly [text incomplete]. The grief over all these adverse events wears me out still; from my estates I have or receive not a Groschen; from the State and the King I draw nothing; from no man do I take anything — on what am I to live? I have given everything away so as not to become the mockery of men — I was sent hither and was to go from here to Vienna, but instead I had to live through this disgrace, and my career, only just entered upon, was undone. Now I sit here and heap debts upon debts, for I cannot get away — I therefore repeat the request, only to send back the former instruction for the 6000 Rthl with all possible speed, so that I may help myself thereby, inasmuch as I shall recover the pledged mortgage of 10000 Rthl. As to the further proof demanded by Your Serene Highness, the same follows herewith together with the mortgage certificate. I was on the point of obtaining the money out of Holland; but if Your Serene Highness can obtain it there, so much the better for me; if they give You the full 250000 Rthl, then I need only cede the mortgage, and then You retain 102000 for Yourself, and also the outstanding arrears, which (when the times change) can quickly be brought in. For the rest, there will now be a wicked confusion upon the estates there, and I shall again have much vexation. I had engaged the Justice Commissioner Mitschke in Kalisz, that he should act as Justitiarius in the estates and at the same time attend to the conduct of all the lawsuits. For this I had promised him 300 Rthl salary and, when he travelled, 1 Rthl per diem.\n\nYour Serene Highness has now, however, appointed a certain Hawich from Peisern as Justitiarius, without my having known a word of it; You have also sent Heinrichs a general power of attorney — how is that now to be [uncertain: rectified]? Heinrichs and Niedrierechi hold together; the result is that the fellows will now cheat Your Serene Highness in common, particularly since the one of them is authorised to do so. For two years the [uncertain: bösereichte] have not rendered up a heller, but have already pocketed everything; I had therefore taken on a [uncertain: Cassus] and just now sent him thither with extended powers of attorney. Today I receive from this man — he is the son of the Privy Upper Consistorial Councillor Hecker here — the news that His Serene Highness's general plenipotentiary, Herr Heinrichs Doct., will not tolerate him. What am I now to do with this man and with the [uncertain: Mitstelle]? Heinrichs has at once taken a lease from the Poles; he is a knave — I took him on at that time provisionally, in order to get the notorious Witowes affair out of the world; but never was I minded to grant him an authority in which he could do harm. Hecker furnishes a security of 4 to 5 [uncertain: thousand] in treasury notes; with that one could, although they are worth only half their value, nevertheless cover something — the matter has been settled here judicially — what am I now to begin? My advice is that Your Serene Highness write to Haberich that he is to apply to me in everything, and likewise to Heinrichs, and demand back from the latter the general power of attorney at once, with the remark that such a thing is of no use to him since he is no man of the law, but that You require men versed in justice; he could remain in the capacity in which Triebenfeld had appointed him. I then determine that Habeschal's justice [uncertain: Contenz] receives 200 Rthl, fees remain; Mitschke as General Advocate receives, instead of Trumm, 300 Rthl 5. [uncertain: A Serene Highness] Haller as Chief Inspector 600 Rthl; Cabanis as Chief Forester and [uncertain: the said] 300; Heinrichs as the said Commissioner without influence 400. Su[uncertain: m] 1800. d. Sansta[illegible] Schenk 800 Rthl had some [uncertain: Husten] land horses God knows what 400; the fraud Gr[uncertain: a]mm 300; Tietz 300; Cabanis 300; Heinrichs 400; fees which Schenckk [uncertain: drew] amounted to 1200 Rthl; sum 3.700 Rthl; there is thus saved as against formerly 1900 Rthl\n\nIn this way alone does Your Serene Highness's disposition remain undamaged and standing, and I am also not compromised, and much will also be saved. With regard to the loan I must once again beg most earnestly that news be given me as speedily as is possible, so that I do not come into embarrassment. Your Serene Highness's letter is of the 23 March and I received it on the 3rd of April, so it was 11 days on the road; therefore I repeat once more that nothing is needed but the cession of the mortgage, and that it is very easy to deal in this matter. The rents then turn out as I have described them, or even higher — What Your Serene Highness writes to me concerning various lawsuits, of that I know not a word — All this must, apart from the Przespolewski matters, be new business, of which the knavish Heinrichs has not written a word either; I shall write what is necessary in this regard at once by tomorrow's post — for at bottom, as I see it, all is invented and fabricated rascally demand. Otocki and Exstädt have nothing to demand; the matters were settled long ago. Ignac v. Radzinski is hereditary lessee and is still much in arrears from Szettlewch; with the 6000 Rthl damages on account of the lease not being obtained, the [uncertain: Erl.] was indeed already dismissed, and the 1500 Rthl are surely reckoned to the knave's credit in the hereditary lease. The Provost Iwanski had indeed also lost the lawsuit and was dismissed; also this would have had to be the German congregation at Swięcia, in case he had obtained judgment, to give. The Przespolewski matter belongs purely to Trąbczin and to the Prusimski heirs — Meanwhile the receipt had at that time been found, that the fellow von Prussiemski was long since paid. Your Serene Highness will pardon my somewhat confused writing; I am so weak that I have had trouble bringing this to completion. In deepest reverence I remain, until death, Your Serene Highness's — Of Swięcia I have no mortgage certificate — as [illegible] to me, [uncertain: G]lenck has thereupon had the Harckt[uncertain: reading] and consorts entered — Berlin, the 3rd of April 1808 — let it be, for then the body of debts would [illegible] Most obedient serv[ant] v Triebenfeld\n\na further 18000 [uncertain: would] accede. Meanwhile this is not upon my mortgage and could not be an impediment to the loan. Enough — [uncertain: it was] the — Most gracious Prince and Lord — if 150000 Rthl in Prussian Courant could be obtained, then one can with that pay off, at once here in Berlin, more than 200000 Rthl of debts. One buys treasury notes; these stand low, and one pays [text lost] these out at full value — [uncertain: names] must everyone who has claims and demands these back [text lost]; and [uncertain: der Ende] and Haucht et Consort would now qualify precisely for this, that they be paid with [uncertain: Behr-]notes. All this I beg may be well taken to heart, and that news be given me as speedily as possible, and also that You write to Trąbczin and Peisern, and in particular demand back the general power of attorney given to [uncertain: Hennochs]; for I cannot [uncertain: be answerable] that the many general plenipotentiaries do not play the rogue and in the end negotiate sums and keep them for themselves. Especially with a fellow [uncertain: wittwärlicher] is this much to be feared. Once again: if Your Serene Highness can now speedily obtain 200000 [uncertain: ₰] in cash there, then You can, with the greedy [uncertain: consumers] — where money is so [uncertain: scarce] and the papers stand so [uncertain: steep] — settle almost Your whole debt. One thing more: Eysenhardt demands of Your Serene Highness a considerable [text lost], because the Ephraim item is [uncertain: mixed in] — Ephraim demands the money here too and has already been with me several times on that account. Let Your Serene Highness not deceive me in this; pay Ephraim off here with treasury notes, which stand, as I [uncertain: see], only at 48 per cent, but which must nevertheless be taken at their nominal value. v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord. Over the misfortune that has befallen me here, or rather over the arrest on account of the outstanding interest, I have vexed myself to such a degree that I contracted an inflammation of the abdomen and cramps; through the efforts of an honest physician I have indeed been placed out of danger, but I should also have had to keep to my room and bed for a couple [uncertain: of weeks] had I been entirely [text lost]. The grief over all these adverse events wears me down still; from my estates I have or receive not a Groschen, from the State and the King I draw nothing, from no man do I take anything — on what am I to live? I have given up everything so as not to become the mockery of men — I was sent hither and was to go from here to Vienna, but instead I had to suffer this disgrace, and my career, just then embarked upon, was undone. Now I sit here and heap debt upon debt, for I cannot get away — I therefore repeat the entreaty that the former order to pay on the 6000 Rthl be sent back to me with all possible speed, so that I may help myself thereby, inasmuch as I shall get back the mortgage of 10000 Rthl that was given in pledge.\n\nAs to the further proof demanded by Your Serene Highness, the same follows herewith together with the mortgage certificate. I was on the point of obtaining the money from Holland; but if Your Serene Highness can obtain it there, so much the better for me. If they give you the full 250000 Rthl, then I need only cede the mortgage, and you will retain 102000 for yourself, and likewise the outstanding arrears, which (should the times change) can be swiftly recovered. For the rest, there will now be a sorry confusion upon the estates there, and I shall again have much vexation.\n\nI had engaged the judicial commissary Mitschke at Kalisz, that he should act as justiciary on the estates and at the same time attend to the conduct of all suits. For this I had promised him 300 Rthl salary and, when he travelled, 1 Rthl [uncertain: per day of service].\n\nYour Serene Highness has now, however, appointed a certain Hawich from [uncertain: Peision] as justiciary, without my having known a word of it; you have also sent Honrichs a general power of attorney — how is this now to be [uncertain: rectified]? Henrichs and Niedrierechi hold together, and the result is that the fellows will now cheat Your Serene Highness in common, especially since the one of them is authorised to do so. For two years the [illegible] have not remitted a farthing, but have already pocketed everything; I had therefore taken on a [uncertain: Cassus] and have just now sent him thither with extensive powers. Today I receive from this man — he is the son of the Privy Chief Consistorial Councillor Hecker here — the news that the general authorised representative of His Serene Highness, Mr Honrichs, Doctor, will not tolerate them. What am I now to do with this man and with [uncertain: Mitschke]? Honrichs has at once taken a lease from the Poles; he is a knave — I took him on at the time provisionally, in order to get the notorious Witów affair out of the world, but never was I minded to grant him a power in which he could do harm. Hecker furnishes a security of 4 to 5 [uncertain: thousand] in treasury notes; with these one could, even though they are worth only half, at least cover something — the matter is settled here before the court — what am I now to undertake? My counsel is that Your Serene Highness write to Haberich that he is to apply to me in all things, and likewise to Honrichs, and that you demand back from the latter the general power of attorney forthwith, with the observation that such a thing does not [uncertain: suit] him since he is no man of law, but that you require men versed in justice; he might remain in the capacity in which Triebenfeld had appointed him. I then determine that [uncertain: Haberich's] judicial [uncertain: Contenz] receives 200 Rthl, fees remain; Mitschke as general advocate receives, in place of [uncertain: Trumm], 300 Rthl 5. [illegible] Haller as Chief Inspector 600 Rthl\n\nCabanis as [uncertain: forester] and [uncertain: named] 300\n\nHonrichs as the said commissary, without influence 400\n\nSu[uncertain: m] 1800. d.\n\n[uncertain: Sansta] Schenk 800 Rthl had some [uncertain: Husten] land horses [uncertain: God's] what 400 the fraud Gr[uncertain: a]mm 300\n\nTietz 300\n\nCabanis 300\n\nHonrichs 400\n\nFees, which Schenck's amounted to, some 1200 Rthl\n\nsum 3.700 Rthl\n\nthus there is saved, as against formerly, 1900 Rthl\n\nIn this way alone does Your Serene Highness's disposition remain standing unimpaired, and I too am not compromised, and much is saved besides. With regard to the loan I must once more most earnestly beg that news be given me as speedily as is possible, so that I do not fall into embarrassment. Your Serene Highness's letter is of the 23rd of March and I received it on the 3rd of April, thus 11 days in transit; so I repeat once again that nothing is required but the cession of the mortgage, and that it is very easy to deal in this matter. The revenues will then turn out as I have described them, or rather even higher. — As to what Your Serene Highness writes to me concerning various suits, of that I know not a word. — These must all be new stories, apart from the Przespolewski matters, of which that knavish Herrrichs has not written a word either; I shall write what is needful in that regard at once by tomorrow's post — for at bottom, as I see it, all of it is invented and fabricated, rascally claims. Otocki and Exstädt have nothing to claim, the matters were settled long ago. Ignac von Radzinski is hereditary lessee and is still much in arrears from Szetlewek; with the 6000 Rthl of damages on account of the lease not being received, the [uncertain: worthy gentleman] was indeed already dismissed, and the 1500 Rthl have surely been credited to the knave in the hereditary lease.\n\nThe provost Iwanski had likewise lost his suit and was dismissed; and moreover it would have to be the German congregation at Swiątniki to [uncertain: pay], had he prevailed. The Pzespolewski matter belongs purely to Trąbczyn and to the Prusimski heirs. — Meanwhile the receipt had at that time been found, showing that the fellow of Prussiemski had long since been paid. Your Serene Highness will pardon my somewhat confused writing; I am so weak that I have had trouble bringing this to completion.\n\nIn [uncertain: deepest] respect I remain, until death,\n\nYour Serene Highness's\n\nof Swiątniki I have no mortgage\n\ncertificate — as [uncertain: it seems] to me, Glenck has had the [uncertain: Harckt] and consorts entered upon it\n\nBerlin, the 3rd of April 1808.\n\n[had it] done, whereby the body of debts would\n\n[illegible] most obedient servant v. Triebenfeld\n\na further 18000 [uncertain: would accede]. In the meantime this is not upon my mortgage and could not be an impediment to the loan. It is enough, Most gracious Prince and Lord, that if [you] could obtain 150000 Rthl in Prussian Courant, then more than 200000 Rthl of debts could be paid therewith, at once here in Berlin. One buys treasury notes; these stand low, and one pays them out at full [value] — [uncertain: for] everyone who has a claim upon us and demands it back must take them; and [uncertain: the Ende] and the [uncertain: Haucht] and consorts would qualify precisely for being paid with such notes. All this I beg may be well weighed, and that news be given me as speedily as possible; also that you write to Trąbczyn and Pyzdry, and in particular that the general power of attorney given to Hennochs be demanded back, for I cannot [uncertain: vouch] that the many general attorneys will not play the rogue and in the end negotiate sums and keep them for themselves. This is especially much to be feared in the case of a fellow [uncertain: such as that one]. Once more: should Your Serene Highness now speedily obtain 200000 ₰ in ready money there, then, with the grasping [uncertain: consumers], where money is so [scarce] and the papers stand so [uncertain: steeply], you could settle nearly your whole debt. One thing more: Eysenhardt demands of Your Serene Highness a considerable [sum], because the Ephraim entry has been [uncertain: made]. — Ephraim demands the money here too, and has already been with me several times on that account; let Your Serene Highness not be deceived in this by me. Pay Ephraim off here with treasury notes; they stand, as I [see], at only 48 [uncertain: per cent], yet must be taken at their nominal value.\n\nv. Triebenfeld",
  "summary_en": "Writing from Berlin after arrest for unpaid interest and an ensuing abdominal inflammation, Triebenfeld begs urgent return of the order to pay on the 6000 Rthl and swift news of the loan, enclosing the mortgage certificate; he urges that cession of the mortgage would yield up to 250000 Rthl, leaving the Prince 102000. He objects to Honrichs's general power of attorney and Haberich's appointment as justiciary over his own man Mitschke of Kalisz, proposes salaries totalling 1800 Rthl against 3700 formerly, and dismisses claims by Otocki, Radzinski, Iwanski and the Prusimski heirs, advising payment of Ephraim in low-standing treasury notes.",
  "summary_de": "Bericht über Arrest wegen rückständiger Zinsen, daraus erlittene Unterleibsentzündung und völlige Mittellosigkeit; dringende Bitte um Rücksendung der Zahlungsanweisung auf die 6000 Rthl sowie um Nachricht wegen des Darlehens, wobei die Cession der Hypothek (10000 bzw. 250000 Rthl, 102000 verbleibend) genüge. Klage über die dem Doctor Honrichs erteilte General-Vollmacht, deren Rückforderung erbeten wird, neben Mitschke in Kalisz, Haller, Cabanis, Hecker; Besoldungsaufstellung von 1800 gegen 3700 Rthl. Ferner Prozesse Przespolewski, Radzinski, Iwanski; Rat, Ephraim und Eysenhardt mit Tresorscheinen zu 48 Prozent abzufinden."
 }

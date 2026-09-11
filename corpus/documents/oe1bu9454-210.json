@@ -239,28 +239,470 @@
    "doc_line": 112
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zürich",
+   "kind": "place",
+   "surface_de": "Zürich",
+   "surface_en": "Zürich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Falz",
+   "kind": "person",
+   "surface_de": "Falz",
+   "surface_en": "Falz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Smagorzewski",
+   "kind": "person",
+   "surface_de": "Smagorzewski",
+   "surface_en": "Smagorzewski",
+   "page": 2
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommers",
+   "surface_en": "Sommer",
+   "page": 2
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Dąbska",
+   "surface_en": "Dąbska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Olesnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 3
+  },
+  {
+   "entity": "niedzewiecki",
+   "display": "Niedzewiecki",
+   "kind": "person",
+   "surface_de": "Niedzewiecki",
+   "surface_en": "Niedzwiedzki",
+   "page": 3
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Olesnica",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohl",
+   "surface_en": "Polish",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Poladen",
+   "surface_en": "Poles",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "German",
+   "kind": "other",
+   "surface_de": "Teutschen",
+   "surface_en": "German",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnices",
+   "surface_en": "Olesnica",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Code Napoleon",
+   "kind": "other",
+   "surface_de": "Code Napoleon",
+   "surface_en": "Code Napoleon",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hollanders",
+   "kind": "other",
+   "surface_de": "Hauländer",
+   "surface_en": "Hollanders",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Olesnica",
+   "page": 4
+  },
+  {
+   "entity": "niedzewiecki",
+   "display": "Niedzewiecki",
+   "kind": "person",
+   "surface_de": "Niedzewiecki",
+   "surface_en": "Niedzwiedzki",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Nassalski",
+   "kind": "person",
+   "surface_de": "Nassalski",
+   "surface_en": "Nassalski",
+   "page": 4
+  },
+  {
+   "entity": "radzinski",
+   "display": "Radzinski",
+   "kind": "person",
+   "surface_de": "Radzinski",
+   "surface_en": "Radzinski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 4
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommer",
+   "surface_en": "Sommer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: B]anckelmann",
+   "kind": "person",
+   "surface_de": "[B?]anckelmann",
+   "surface_en": "[uncertain: B]anckelmann",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Kalisz",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! I have this moment received three letters from Your Serene Highness, against which Your Highness must likewise have received three from me. The business here is of such magnitude that it almost robs me of all my senses; I do not know where to turn first. The newer forms of procedure in the local Zürich and other bureaux were as strange to me when I came here as optics to a man born blind — now I know them and it goes better. Here one sets a hearing date in a matter, but then the matter is not taken up; rather the Ups, or the so-called entry in the registers, must first be made. Then, as it pleases the President, he takes up the register, and there one must wait from nine in the morning until midday to see whether the matters one has in hand come up. So I am still standing with the Trąbczyner matter — today it is still the 11th matter in the register; it may now come up at any hour, for many times a proceeding lasts only half an hour, and often too they go per non sunt? and then a new date must again be applied for and a new date appointed, which then, always according to the object at issue, as with Trąbczyn, costs 237 Rthl. Now since three such lawsuits are pending here, I must guard the nest."
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nJust this moment I receive three letters from Your Serene Highness, against which you must also most highly have received three from me.\n\nThe business here is of such importance that it almost robs me of all my senses; I do not know where to turn first. The newer courses of business in the Zürich and other bureaux here were as strange to me when I came here as optics to a man born blind — now I know them and it goes better.\n\nHere one appoints a term-day in a cause, but then the cause is not taken up; rather the Ups, or the so-called entry in the registers, must first be made. Then, as it pleases the President, he takes up the register, and so one must wait from 9 o'clock in the morning until midday to see whether the causes one has in hand come up. So I still stand with the Trąbczyn one — today it is still the 11th cause in the register; it may now come up at any hour, for often a suit lasts only half an hour, and often too they go per non sunt? and then a new term-day must again be petitioned for and a new term-day made, which each time, according to the object, as with Trąbczyn, costs 237 Rthl. Now, since three such suits lie here, I must guard the nest.",
+   "names": [
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Zürich",
+     "en": "Zürich",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "9",
+    "11",
+    "237",
+    "3"
+   ]
   },
   {
    "page": 2,
-   "en": "Meanwhile matters stand very well. Trąbczyn I hope quite certainly to vindicate. Falz is a cold man — he is here held to be the cleverest, and the judge attends to his word. He has now received 300 Rthl, and I have promised him a good deal more if we obtain judgment. The President of the Tribunal, a certain Smagorzewski, is an old acquaintance of mine — he has accepted 100 [uncertain: rt]. Two assessors who are old friends of the Referendarius Sommer have each received thirty; there are still two more, whom I am working upon in another manner, and the wine has already cost me some 160 Rthl. Very much is to be won through Trąbczyn — for besides the estates we at once save the 22000 Rthl of dower registered thereon, and the remaining costs which the Dąbska must make good are then indeed twice as high again — this is even the sentiment of the judges. She too gives out that she will force it through intercession and great failings — but God will help me. The 2nd matter is with the Olesnica lads. I must have the fellows out, for they already owe: 16000 Rthl canon; further, in dues laid out on their behalf, 8270; the remainder of the entry-money, 10000; to this the interest and costs at at least 5000 Rthl; Summa 39270 Rthl. They sat in enjoyment of it all; whatever they drew out of the village they gave to the jurists. The Prefect has now forbidden that any further interest be paid to the H., and now they are checkmated — but unhappily the fellows have nothing"
+   "en": "Meanwhile matters stand very well. Trąbczyn I hope quite certainly to vindicate. Falz is a cold man — he is held here to be the shrewdest, and the judge listens to his word. He has now received 300 Rthl, and I have promised him a great deal more if we obtain judgment. The President of the Tribunal, a certain Smagorzewski, is an old acquaintance of mine — he has accepted 100 [uncertain: rt].\n\nTwo assessors who are old friends of the referendary Sommer have each received thirty; and there are still 2 whom I am working upon in another manner, and the wine already costs me some 160 Rthl. By Trąbczyn a very great deal is to be gained — for besides the estates we at once rescue the registered 22000 Rthl marriage portion, and the remaining costs which the Dąbska must make good are then indeed twice as high again — this is the sentiment of the judges themselves. She too gives way, and would compel it through intercession and great failings — but God will help me. The 2nd cause is with the Olesnica lads.\n\nI must have the fellows out, for they already owe — 16000 Rthl canon, further in dues which have been laid out for them\n\n8270\n\nThe remainder of the entry money\n\n10000\n\nTo this the interest and costs with at least\n\n5000 Rthl\n\nSum 39270 Rthl. They sat in the enjoyment; all that they drew from the village they gave to the jurists. The prefecture has now forbidden that any further interest be given to the H., and now they are checkmated — but unluckily the fellows have nothing",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Falz",
+     "en": "Falz",
+     "kind": "person"
+    },
+    {
+     "de": "Smagorzewski",
+     "en": "Smagorzewski",
+     "kind": "person"
+    },
+    {
+     "de": "Sommers",
+     "en": "Sommer",
+     "kind": "person"
+    },
+    {
+     "de": "Dąbska",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Olesnica",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "300",
+    "100",
+    "2",
+    "160",
+    "22000",
+    "16000",
+    "8270",
+    "10000",
+    "5000",
+    "39270"
+   ]
   },
   {
    "page": 3,
-   "en": "and the money is lost. — Now it has been achieved that several Polish peasants from Olesnica have declared themselves willing to enter into the contract and to pay the 10000 Rthl of entry-money, and also to pay the 2000 Rthl of interest yearly in advance, and perhaps it will succeed that they also undertake to settle a part of the dues in arrear. The matter is in hand and, now that I have given the lower judge before whom it lies 30 ducats, is being briskly pressed; I also hope to obtain the decree of eviction here quickly. The 3rd matter is with the Niedzewiecki — he owes 6000 Rthl; he is to pay and to quit, but will likewise have nothing beyond 2000 Klafter of alder wood, which already stands at the water, and likewise 60 head of cattle and several horses, all of which I have had laid under arrest with the greatest haste. Hawich is the only rogue who stirs everything up, especially all the rent-paying peasants, for they have as yet paid nothing and will not pay either. Now the Prefect has granted me military execution, but that helps nothing: they cudgel the soldiers out, and so I stand bare and forsaken. Hawich must now be gone — then, I think, things will improve. Besides this I have the liberty to throw all the fellows out, provided only that I appoint other husbandmen, so that the conscription lists are not Adict. Now the Olesnica Polish peasants offer to bring forward as many Poles as will fill all the holdings, and who will gladly pay the rent. This last motive, I think, ought to work. For the German oxen have not believed this — the Poles find themselves honoured that"
+   "en": "and the money is lost — now it has been managed that several Polish peasants from Olesnica have declared themselves ready to enter into the contract and to pay the 10000 Rthl entry money, and also to pay the 2000 Rthl interest yearly in advance; and perhaps it will succeed that they also undertake to settle a part of the arrears of dues. The matter is in hand and, since I have given the lower judge before whom it lies 30 ducats, is being pressed briskly; and I hope here soon to obtain the decree of eviction. The 3rd cause is with Niedzwiedzki — he owes 6000 Rthl; he is to pay and to quit, but will have nothing further either than 2000 fathoms of alder wood, which already stands at the water, likewise 60 head of cattle and several horses, all of which I have had placed under arrest with all haste. Hawich is the one rogue who stirs up everything, and above all the rent-paying peasants, for these have as yet paid nothing and will not pay either. Now the prefecture has granted me military execution, but that helps nothing: they thrash the soldiers out, and so I stand bare and forsaken. Hawich must now go — then I think it will grow better. Besides this I have the liberty to throw out all the fellows, provided only that I install other farmers, so that the conscription lists be not [uncertain: Adict]. Now the Olesnica Polish peasants offer to bring up so many Poles that all the holdings may be occupied, and who will gladly pay the rent. This last motive, I think, must work. For that the German oxen have not believed — the Poles find themselves honoured that",
+   "names": [
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Niedzewiecki",
+     "en": "Niedzwiedzki",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Pohl",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Poladen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Teutschen",
+     "en": "German",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "10000",
+    "2000",
+    "30",
+    "6000",
+    "2000",
+    "60"
+   ]
   },
   {
    "page": 4,
-   "en": "one has shown them this confidence, and they will do their utmost to come into possession of the holdings. The Olesnica men offer to lay down 4 to 5000 Rthl in cash forthwith. — The 5th matter is with the propination-rights lessee; the fellow owes 3000 Rthl. He is bound to pay, but refuses, and wants an abatement, or else to give up the lease, because that is free to him under the Code Napoleon. I have another already in petto, who pays in advance, and therefore I brought suit against the scoundrel the day before yesterday and applied for harsh execution, which will follow within a few days. At present the distress is only so great because I am to effect too much with empty hands. But if only it first succeeds to vindicate Trąbczyn, then the lessee pays at once 7000 Rthl; the old Hauländer, on the contract into which they have entered with me, as they have solemnly assured me, 12000 Rthl; the Olesnica Poles can do 5000; for Niedzewiecki's wood and cattle there may come in 3000; the propination lease from Nassalski 3000; the new lessee pays in advance 3000; from the present Radzinski of Szetlewek 6000; from the outstanding rents at most 5000; Summa 44000 Rthl. This could, if everything went happily, come in by New Year. By the next post I can write more fully on this. The Referendarius Sommer renders me very good service; may Your Serene Highness deign to write with all haste to the President Count Danckelmann at Breslau, that he grant Sommer a further leave of four weeks; for had I not the man, I should have to succumb and return with the business unaccomplished — therefore let Your Serene Highness procure him the leave with the utmost haste. In deepest reverence I remain, until death, Lord Serene Highness, Kalisz, the 13th of November 1810, humble and obedient servant v Triebenfeld"
+   "en": "one has shown them the confidence, and will bid everything to come into possession of the holdings. The Olesnica men offer to lay down 4 to 5000 Rthl in cash at once. The 5th cause is with the propination-rights tenant; the fellow owes 3000 Rthl — he has to pay, but refuses and will have a remission, or else give up the lease, because that is free to him under the Code Napoleon. I have another in petto already, who pays in advance, and therefore I laid a complaint against the scoundrel the day before yesterday and applied for harsh execution, which will follow within a few days. Now the want only stands great, for I am to effect too much with empty hands. But if only it first succeeds to vindicate Trąbczyn, then the tenant pays at once\n\n7000 Rthl the old Hollanders upon the contract entered into with them, which they have solemnly assured me of. 12000 Rthl\n\nThe Olesnica Poles can\n\n5000 For Niedzwiedzki's wood and cattle there may come in. 3000 the propination lease from Nassalski 3000 the new tenant pays in advance. 3000 From the present Radzinski of Szetlewek 6000.\n\nFrom the outstanding rents at most 5000\n\nSum 44000 Rthl. This could, if all went happily, come in by New Year. By the next post I can write more about this; the referendary Sommer renders me very good service. May Your Serene Highness yet deign to write with all haste to the President Count [uncertain: B]anckelmann at Breslau, that he grant Sommer a further leave of 4 weeks; for had I not the man, I should have to succumb and return with the business unaccomplished — so let Your Serene Highness procure him the leave with the greatest haste. In deepest reverence I remain, until death, Lord Serene Highness\n\nKalisz, the 13th of November\n\n1810\n\nhumble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Olesnices",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Code Napoleon",
+     "en": "Code Napoleon",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Hauländer",
+     "en": "Hollanders",
+     "kind": "other"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Niedzewiecki",
+     "en": "Niedzwiedzki",
+     "kind": "person"
+    },
+    {
+     "de": "Nassalski",
+     "en": "Nassalski",
+     "kind": "person"
+    },
+    {
+     "de": "Radzinski",
+     "en": "Radzinski",
+     "kind": "person"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Sommer",
+     "en": "Sommer",
+     "kind": "person"
+    },
+    {
+     "de": "[B?]anckelmann",
+     "en": "[uncertain: B]anckelmann",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4",
+    "5000",
+    "3000",
+    "7000",
+    "12000",
+    "5000",
+    "3000",
+    "3000",
+    "3000",
+    "6000",
+    "5000",
+    "44000",
+    "4",
+    "13",
+    "1810"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! I have this moment received three letters from Your Serene Highness, against which Your Highness must likewise have received three from me. The business here is of such magnitude that it almost robs me of all my senses; I do not know where to turn first. The newer forms of procedure in the local Zürich and other bureaux were as strange to me when I came here as optics to a man born blind — now I know them and it goes better. Here one sets a hearing date in a matter, but then the matter is not taken up; rather the Ups, or the so-called entry in the registers, must first be made. Then, as it pleases the President, he takes up the register, and there one must wait from nine in the morning until midday to see whether the matters one has in hand come up. So I am still standing with the Trąbczyner matter — today it is still the 11th matter in the register; it may now come up at any hour, for many times a proceeding lasts only half an hour, and often too they go per non sunt? and then a new date must again be applied for and a new date appointed, which then, always according to the object at issue, as with Trąbczyn, costs 237 Rthl. Now since three such lawsuits are pending here, I must guard the nest.\n\nMeanwhile matters stand very well. Trąbczyn I hope quite certainly to vindicate. Falz is a cold man — he is here held to be the cleverest, and the judge attends to his word. He has now received 300 Rthl, and I have promised him a good deal more if we obtain judgment. The President of the Tribunal, a certain Smagorzewski, is an old acquaintance of mine — he has accepted 100 [uncertain: rt]. Two assessors who are old friends of the Referendarius Sommer have each received thirty; there are still two more, whom I am working upon in another manner, and the wine has already cost me some 160 Rthl. Very much is to be won through Trąbczyn — for besides the estates we at once save the 22000 Rthl of dower registered thereon, and the remaining costs which the Dąbska must make good are then indeed twice as high again — this is even the sentiment of the judges. She too gives out that she will force it through intercession and great failings — but God will help me. The 2nd matter is with the Olesnica lads. I must have the fellows out, for they already owe: 16000 Rthl canon; further, in dues laid out on their behalf, 8270; the remainder of the entry-money, 10000; to this the interest and costs at at least 5000 Rthl; Summa 39270 Rthl. They sat in enjoyment of it all; whatever they drew out of the village they gave to the jurists. The Prefect has now forbidden that any further interest be paid to the H., and now they are checkmated — but unhappily the fellows have nothing\n\nand the money is lost. — Now it has been achieved that several Polish peasants from Olesnica have declared themselves willing to enter into the contract and to pay the 10000 Rthl of entry-money, and also to pay the 2000 Rthl of interest yearly in advance, and perhaps it will succeed that they also undertake to settle a part of the dues in arrear. The matter is in hand and, now that I have given the lower judge before whom it lies 30 ducats, is being briskly pressed; I also hope to obtain the decree of eviction here quickly. The 3rd matter is with the Niedzewiecki — he owes 6000 Rthl; he is to pay and to quit, but will likewise have nothing beyond 2000 Klafter of alder wood, which already stands at the water, and likewise 60 head of cattle and several horses, all of which I have had laid under arrest with the greatest haste. Hawich is the only rogue who stirs everything up, especially all the rent-paying peasants, for they have as yet paid nothing and will not pay either. Now the Prefect has granted me military execution, but that helps nothing: they cudgel the soldiers out, and so I stand bare and forsaken. Hawich must now be gone — then, I think, things will improve. Besides this I have the liberty to throw all the fellows out, provided only that I appoint other husbandmen, so that the conscription lists are not Adict. Now the Olesnica Polish peasants offer to bring forward as many Poles as will fill all the holdings, and who will gladly pay the rent. This last motive, I think, ought to work. For the German oxen have not believed this — the Poles find themselves honoured that\n\none has shown them this confidence, and they will do their utmost to come into possession of the holdings. The Olesnica men offer to lay down 4 to 5000 Rthl in cash forthwith. — The 5th matter is with the propination-rights lessee; the fellow owes 3000 Rthl. He is bound to pay, but refuses, and wants an abatement, or else to give up the lease, because that is free to him under the Code Napoleon. I have another already in petto, who pays in advance, and therefore I brought suit against the scoundrel the day before yesterday and applied for harsh execution, which will follow within a few days. At present the distress is only so great because I am to effect too much with empty hands. But if only it first succeeds to vindicate Trąbczyn, then the lessee pays at once 7000 Rthl; the old Hauländer, on the contract into which they have entered with me, as they have solemnly assured me, 12000 Rthl; the Olesnica Poles can do 5000; for Niedzewiecki's wood and cattle there may come in 3000; the propination lease from Nassalski 3000; the new lessee pays in advance 3000; from the present Radzinski of Szetlewek 6000; from the outstanding rents at most 5000; Summa 44000 Rthl. This could, if everything went happily, come in by New Year. By the next post I can write more fully on this. The Referendarius Sommer renders me very good service; may Your Serene Highness deign to write with all haste to the President Count Danckelmann at Breslau, that he grant Sommer a further leave of four weeks; for had I not the man, I should have to succumb and return with the business unaccomplished — therefore let Your Serene Highness procure him the leave with the utmost haste. In deepest reverence I remain, until death, Lord Serene Highness, Kalisz, the 13th of November 1810, humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nJust this moment I receive three letters from Your Serene Highness, against which you must also most highly have received three from me.\n\nThe business here is of such importance that it almost robs me of all my senses; I do not know where to turn first. The newer courses of business in the Zürich and other bureaux here were as strange to me when I came here as optics to a man born blind — now I know them and it goes better.\n\nHere one appoints a term-day in a cause, but then the cause is not taken up; rather the Ups, or the so-called entry in the registers, must first be made. Then, as it pleases the President, he takes up the register, and so one must wait from 9 o'clock in the morning until midday to see whether the causes one has in hand come up. So I still stand with the Trąbczyn one — today it is still the 11th cause in the register; it may now come up at any hour, for often a suit lasts only half an hour, and often too they go per non sunt? and then a new term-day must again be petitioned for and a new term-day made, which each time, according to the object, as with Trąbczyn, costs 237 Rthl. Now, since three such suits lie here, I must guard the nest.\n\nMeanwhile matters stand very well. Trąbczyn I hope quite certainly to vindicate. Falz is a cold man — he is held here to be the shrewdest, and the judge listens to his word. He has now received 300 Rthl, and I have promised him a great deal more if we obtain judgment. The President of the Tribunal, a certain Smagorzewski, is an old acquaintance of mine — he has accepted 100 [uncertain: rt].\n\nTwo assessors who are old friends of the referendary Sommer have each received thirty; and there are still 2 whom I am working upon in another manner, and the wine already costs me some 160 Rthl. By Trąbczyn a very great deal is to be gained — for besides the estates we at once rescue the registered 22000 Rthl marriage portion, and the remaining costs which the Dąbska must make good are then indeed twice as high again — this is the sentiment of the judges themselves. She too gives way, and would compel it through intercession and great failings — but God will help me. The 2nd cause is with the Olesnica lads.\n\nI must have the fellows out, for they already owe — 16000 Rthl canon, further in dues which have been laid out for them\n\n8270\n\nThe remainder of the entry money\n\n10000\n\nTo this the interest and costs with at least\n\n5000 Rthl\n\nSum 39270 Rthl. They sat in the enjoyment; all that they drew from the village they gave to the jurists. The prefecture has now forbidden that any further interest be given to the H., and now they are checkmated — but unluckily the fellows have nothing\n\nand the money is lost — now it has been managed that several Polish peasants from Olesnica have declared themselves ready to enter into the contract and to pay the 10000 Rthl entry money, and also to pay the 2000 Rthl interest yearly in advance; and perhaps it will succeed that they also undertake to settle a part of the arrears of dues. The matter is in hand and, since I have given the lower judge before whom it lies 30 ducats, is being pressed briskly; and I hope here soon to obtain the decree of eviction. The 3rd cause is with Niedzwiedzki — he owes 6000 Rthl; he is to pay and to quit, but will have nothing further either than 2000 fathoms of alder wood, which already stands at the water, likewise 60 head of cattle and several horses, all of which I have had placed under arrest with all haste. Hawich is the one rogue who stirs up everything, and above all the rent-paying peasants, for these have as yet paid nothing and will not pay either. Now the prefecture has granted me military execution, but that helps nothing: they thrash the soldiers out, and so I stand bare and forsaken. Hawich must now go — then I think it will grow better. Besides this I have the liberty to throw out all the fellows, provided only that I install other farmers, so that the conscription lists be not [uncertain: Adict]. Now the Olesnica Polish peasants offer to bring up so many Poles that all the holdings may be occupied, and who will gladly pay the rent. This last motive, I think, must work. For that the German oxen have not believed — the Poles find themselves honoured that\n\none has shown them the confidence, and will bid everything to come into possession of the holdings. The Olesnica men offer to lay down 4 to 5000 Rthl in cash at once. The 5th cause is with the propination-rights tenant; the fellow owes 3000 Rthl — he has to pay, but refuses and will have a remission, or else give up the lease, because that is free to him under the Code Napoleon. I have another in petto already, who pays in advance, and therefore I laid a complaint against the scoundrel the day before yesterday and applied for harsh execution, which will follow within a few days. Now the want only stands great, for I am to effect too much with empty hands. But if only it first succeeds to vindicate Trąbczyn, then the tenant pays at once\n\n7000 Rthl the old Hollanders upon the contract entered into with them, which they have solemnly assured me of. 12000 Rthl\n\nThe Olesnica Poles can\n\n5000 For Niedzwiedzki's wood and cattle there may come in. 3000 the propination lease from Nassalski 3000 the new tenant pays in advance. 3000 From the present Radzinski of Szetlewek 6000.\n\nFrom the outstanding rents at most 5000\n\nSum 44000 Rthl. This could, if all went happily, come in by New Year. By the next post I can write more about this; the referendary Sommer renders me very good service. May Your Serene Highness yet deign to write with all haste to the President Count [uncertain: B]anckelmann at Breslau, that he grant Sommer a further leave of 4 weeks; for had I not the man, I should have to succumb and return with the business unaccomplished — so let Your Serene Highness procure him the leave with the greatest haste. In deepest reverence I remain, until death, Lord Serene Highness\n\nKalisz, the 13th of November\n\n1810\n\nhumble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports on three (numbered up to five) suits pressed at Kalisz: the Trąbczyn vindication against the Dąbska, which would also save 22000 Rthl of registered dower, with fees to the advocate Falz (300 Rthl), Tribunal President Smagorzewski (100), assessors and 160 Rthl of wine; eviction of the Olesnica lads, who owe 39270 Rthl, and the offer of Polish peasants to take the holdings; arrest of Niedzewiecki's wood and cattle; and action against the propination lessee Nassalski. Complains of Hawich, useless military execution, and empty hands; expects 44000 Rthl by New Year and begs four weeks' further leave for Referendarius Sommer from President Count Danckelmann at Breslau.",
  "summary_de": "Bericht über fünf gleichzeitig laufende Prozesse und die schleppende Registerpraxis der Gerichte: im Trąbczyner Verfahren, dessen Vindikation samt Ersparnis der eingetragenen 22000 Rthl Leibgedinge der Dąbska erhofft wird, sind an Falz 300 Rthl, an Tribunalspräsident Smagorzewski 100 und an Assessoren je 30 gezahlt, dazu 160 Rthl Wein; die Olesnicaer schulden 39270 Rthl, wofür polnische Bauern Kontrakt, 10000 Rthl Einkaufsgeld und Vorauszinsen anbieten; Niedzewiecki schuldet 6000 Rthl, der Propinationspächter 3000; Hawich hetzt die Zinsbauern auf. Erwartete Einnahmen 44000 Rthl. Bitte, bei Präsident Graf Danckelmann in Breslau Urlaubsverlängerung für Referendarius Sommer zu erwirken."
 }

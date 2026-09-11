@@ -1,29 +1,100 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Gracious Lord! After 7 months the order is now at last given that Cosmar shall
-    pay in, with the utmost dispatch, to the Brieg High Provincial Court the 3 years'' monies he has been
-    holding back, which Your Serene Highness is to draw annually, and of which You have assigned 12000
-    Rthl yearly in favour of Your creditors — He is at the same time instructed [uncertain: angewiesen]
-    to keep order and render prompt account. That Stägemann has the worst will shows itself at every turn;
-    he now plays the defender of Cosmar and the adviser of the Curian heiresses. The Prince Chancellor,
-    on the other hand, promises everything — but reads, sees and hears nothing further once he has promised
-    it. Minister Stein, by contrast, works honestly and is concerned to procure for Your Serene Highness
-    the proposed compensation by way of the office of Sokolnick. He has already drawn the Chancellor into
-    the business, so that the two may lay the matter before the Emperor together — Tomorrow I shall again
-    submit to the Prince a somewhat emphatic Pro Memoria concerning the kurz affair, as also concerning
-    Your military salary — I shall carry the matters through, though I should have to follow him as far
-    as the Rhine. It must once for all be brought to clarity. Tomorrow morning I have a conference with
-    Herr Stägemann, consequently more on Tuesday. This very moment I receive Your Serene Highness''s letter
-    of the 9th; upon that too I shall write by the first post. In reverence I remain Your Serene Highness''s.
-    As Herr Ob[er] v T tells me, Adolph conducted himself very awkwardly with the King; the King asked
-    him what his father was doing, how he fares; the answer was — I do not know, I have not seen him for
-    a long time. verte [text lost] Vienna, the 20th May 1815 — most obedient servant v Triebenfeld'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    After 7 months the order is now at last given that Cosmar shall pay in, with the very greatest despatch,
+    to the Brieg High Provincial Court the 3 years'' monies he has been holding back, which Your Serene
+    Highness is to draw annually, and out of which you have assigned 12000 Rthl yearly in favour of your
+    creditors — he is at the same time instructed to keep order and to render prompt account. That Stägemann
+    has the worst will shows itself at every turn; he now plays the defender of Cosmar and the counsellor
+    of the Curian heiresses. The Prince Chancellor, on the other hand, promises everything — but reads,
+    sees and hears nothing further once he has promised it. Minister Stein, by contrast, works honestly
+    and is at pains to procure for Your Serene Highness the proposed compensation by way of the office
+    of Sokolnick. He has already drawn the Chancellor into the game, so that the two of them may lay the
+    matter before the Emperor together. Tomorrow I shall submit to the Prince again a somewhat more emphatic
+    memorandum concerning the [uncertain: kurz] affair as well as concerning your military salary — I
+    shall carry the matters through, even were I obliged to follow him as far as the Rhine. It must once
+    for all be brought clear. Tomorrow morning I have a conference with Stägemann, and consequently more
+    on Tuesday. This very moment I receive Your Serene Highness''s letter of the 9th; upon that too I
+    shall write by the next post. In reverence I remain Your Serene Highness''s
+
+
+    As Colonel von T. tells me, Adolph conducted himself
+
+
+    very awkwardly indeed before the King. The King asked him what his father was doing, how he was; the
+    answer was — I do not know, I have not seen him for a long time. turn over [text lost] Vienna, the
+    20th of May 1815 — most obedient, the von Triebenfeld'
+  names:
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Brieger Ober Landes Gericht
+    en: Brieg High Provincial Court
+    kind: other
+  - de: Stägemann
+    en: Stägemann
+    kind: person
+  - de: Stein
+    en: Stein
+    kind: person
+  - de: Sokolnick
+    en: Sokolnick
+    kind: place
+  - de: H. Ob v T
+    en: Colonel von T.
+    kind: person
+  - de: Adolph
+    en: Adolph
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '7'
+  - '3'
+  - '12000'
+  - 20ten
+  - '1815'
+  - 9ten
 - page: 2
-  en: 'Both I and Barbe and Beugelin had instructed him what he should say — He could at that moment have
-    done much for his father. In short, Your Sons will act, never take after [their father]. Humboldt
-    and also Nesselrode wished to present him to their Monarch; to that he was not to be brought, and
-    hastened away. The Countess [uncertain: Fricis / Fries] and several others say, there is not a drop
-    of his father''s blood in him. Do send me, Your Serene Highness, the 100 ducats, for I do not know
-    whether in this business I must not go at once with the rest to Berlin — and here I still have much
-    to pay. I have begged that it be sent by express courier. It would be very bad if You did not do it.'
+  en: 'Both I and Barbe and Beugelin had instructed him what he should say — he could have done much for
+    his father at that moment. In short, your sons will act, [but] never take after [you]. Humboldt and
+    also Nesselrode wished to present him to their monarch; to that he could not be brought, and hastened
+    away from there. The Countess Fricis and several others say there is not a drop of his father''s blood
+    in him.
+
+
+    Do be sure, Your Serene Highness, to send me the 100 ducats, for I mostly do not know whether I shall
+    not have to go straight on to Berlin in the matter — and here too I still have much to pay. I have
+    asked that it be sent by express courier. It would be very [uncertain: schlagen] if you were not to
+    do so.'
+  names:
+  - de: Barbe
+    en: Barbe
+    kind: person
+  - de: Beugelin
+    en: Beugelin
+    kind: person
+  - de: Humboldt
+    en: Humboldt
+    kind: person
+  - de: Nesselrode
+    en: Nesselrode
+    kind: person
+  - de: Gräfin Fricis
+    en: Countess Fricis
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  numbers:
+  - '100'

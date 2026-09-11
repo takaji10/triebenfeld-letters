@@ -1,24 +1,77 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! With the most conceivable longing I await the
-    powers of attorney and blank forms requested of Your Most Serene Highness; without these I cannot
-    be effective in the least, and must spend my time here entirely to no purpose. – But I fear especially
-    that this great delay may yet arouse a mistrust among the persons treating with me, and that thereby
-    the good cause will be wholly spoilt. I therefore once again most obediently beg Your Most Serene
-    Highness to let the power of attorney required for the Court Fiscal Herr Pochammer, as well as 2 judicially
-    attested powers of attorney in blank, together with a few blank forms, reach me at the very earliest.
-    As concerns the encroachments of Württemberg hatred upon Your Most Serene Highness''s states, they
-    promise here to do everything against it; whether the assurances come from the heart, however, I do
-    not know. I would most devotedly advise that there too all official channels be set in motion, and
-    that one be active on that side as well. Experience, as they say, makes wise. A couple of hours ago
-    I had the honour of becoming acquainted with the Herr President v Höhneln. It was very sad for me
-    to hear from this man that Your Most Serene Highness still suffers from your gouty attacks, and that
-    the [uncertain: Bau — the affected part is not legibly named] is still much swollen. Do think more,
-    most gracious Lord, upon your preservation, and resolve to have a fontenelle laid. Every thinking
-    man holds this to be the sole means by which Your Most Serene Highness may soon be entirely restored,
-    and by which you may attain a great age. When I have the good fortune to settle everything according
-    to your wish, then I shall perhaps be so free as to lay myself personally at Your Most Serene Highness''s
-    feet at Öhringen; in the sweet hope of soon hearing gladdening news from the Same Most High, I remain,
-    until death, reverently, Your Most Serene Highness''s Berlin, the 20th May 1806, faithful and most
-    obedient servant v Triebenfeld'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord!
+
+
+    With the utmost longing conceivable I await the powers of attorney and blank forms requested of Your
+    Most Serene Highness; without these I cannot be effective in the least degree, and must pass the time
+    here entirely to no purpose. – But I fear above all that this great delay may yet arouse a mistrust
+    among the persons negotiating, and that thereby the good cause will be wholly spoilt. I therefore
+    beg Your Most Serene Highness once again most obediently to let the power of attorney required for
+    the Court Fiscal Pochammer, as also 2 judicially attested powers of attorney in blank, together with
+    some blank forms, reach me at the very earliest.
+
+
+    As concerns the encroachments of the Württemberg hatred upon Your Most Serene Highness''s states,
+    they promise on this side to do everything against it; whether the assurances come from the heart,
+    however, I do not know. I would most devotedly advise that all departments be set in motion there
+    also, and that one be active on that side as well. Experience, as they say, makes wise.
+
+
+    A couple of hours ago I had the honour of becoming acquainted with the President von Höhneln. It was
+    very sad for me to hear from this man that Your Most Serene Highness still suffers from your gouty
+    attacks, and that the [uncertain: Bau] is still very much swollen. Think, most gracious Lord, more
+    upon your preservation, and resolve to have a fontanelle laid. Every thinking man holds this to be
+    the sole means whereby Your Most Serene Highness may soon be entirely restored, and by which you may
+    attain a great age.
+
+
+    If I have the good fortune to settle everything according to wish, then I shall perhaps be so bold
+    as to lay myself personally at Your Most Serene Highness''s feet in Öhringen; in the sweet hope of
+    hearing soon gratifying news from that same most exalted person, I [uncertain: remain, until death,]
+    reverentially
+
+
+    Your Most Serene Highness''s
+
+
+    Berlin
+
+
+    the 20th of May 1806
+
+
+    faithful and most obedient servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Pochammer
+    en: Pochammer
+    kind: person
+  - de: Württembergschen
+    en: Württemberg
+    kind: place
+  - de: v Höhneln
+    en: von Höhneln
+    kind: person
+  - de: Öhringen
+    en: Öhringen
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Ewr Hochfürstliche Durchlaucht
+    en: Your Most Serene Highness
+    kind: other
+  numbers:
+  - '2'
+  - 20ten
+  - '1806'

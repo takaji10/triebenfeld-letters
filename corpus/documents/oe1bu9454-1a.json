@@ -90,16 +90,103 @@
    "doc_line": 11
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten von Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curlandische",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konin district",
+   "kind": "place",
+   "surface_de": "Koniner Kreise",
+   "surface_en": "Konin district",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! I beg Your Most Serene Highness's most gracious pardon that I [uncertain: bailiff/venture] a letter just now received from the so very hard-pressed Prince of Hohenlohe, to lay at the feet of the same, Most High, [uncertain: Lebensest] — of the boundless distress of this old [both/two] man no sketch can be made; he suffers unspeakably. — Have mercy, Your Most Serene Highness, and [alleviate?] the [Blad] of the poor Prince, by the advance of 112000 Rthl. By that means alone is the good Prince, languishing in the utmost need, saved. The Courlandish heirs (by whose will Cosmar forced himself alone into the entailed estates) are at once entirely satisfied, Cosmar's power is at an end, and even His Majesty comes ex nexu and, in view of the great funds of the entailed estates, will soon have the advance of 112000 Rthl returned; every creditor receives his own bit by bit, and the Prince need [hang/languish] no longer. As concerns the Trąbcziner estates in the Koniner district, of which the Prince makes mention in his letter, upon that I beg Your Serene Highness's most gracious instruction — whether whether I may now submit the deeds and other documents. Your Most Serene Highness's humble and obedient servant. Vienna, the 12th of Feb. 1815"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nI beseech Your Most Serene Highness's most gracious pardon that I [uncertain: vogt] to lay at the feet of the same, a letter just now received from the so grievously beset Prince of Hohenlohe, most highly [uncertain: Lebensest]; of the boundless distress of this old [uncertain: both/two] man no sketch can be drawn, he suffers unspeakably - Have mercy, Your Most Serene Highness, and soften the [uncertain: Blad] of the poor Prince, by the advance of 112000 Rthl. Only by this means is the good Prince, languishing in the utmost distress, saved. The Courland heirs (against whose will Cosmar has forced himself alone into the entailed estates) are thereby at once entirely satisfied; Cosmar's power is at an end; even His Majesty too comes out of the entanglement (ex nexu) and, given the great funds of the entailed estates, receives the advance of 112000 Rthl back before long; every creditor receives his own by degrees, and the Prince need no longer [uncertain: hängern]. As concerns the Trąbczyn estates in the Konin district, of which the Prince makes mention in his letter, upon that I beg Your Serene Highness's most gracious instruction - whether I may now submit the deeds and other documents.\n\nYour Most Serene Highness's\n\nhumble and obedient servant\n\nVienna, the 12th of February\n\n1815",
+   "names": [
+    {
+     "de": "Fürsten von Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Curlandische",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Koniner Kreise",
+     "en": "Konin district",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "112000",
+    "112000",
+    "12",
+    "1815"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! I beg Your Most Serene Highness's most gracious pardon that I [uncertain: bailiff/venture] a letter just now received from the so very hard-pressed Prince of Hohenlohe, to lay at the feet of the same, Most High, [uncertain: Lebensest] — of the boundless distress of this old [both/two] man no sketch can be made; he suffers unspeakably. — Have mercy, Your Most Serene Highness, and [alleviate?] the [Blad] of the poor Prince, by the advance of 112000 Rthl. By that means alone is the good Prince, languishing in the utmost need, saved. The Courlandish heirs (by whose will Cosmar forced himself alone into the entailed estates) are at once entirely satisfied, Cosmar's power is at an end, and even His Majesty comes ex nexu and, in view of the great funds of the entailed estates, will soon have the advance of 112000 Rthl returned; every creditor receives his own bit by bit, and the Prince need [hang/languish] no longer. As concerns the Trąbcziner estates in the Koniner district, of which the Prince makes mention in his letter, upon that I beg Your Serene Highness's most gracious instruction — whether whether I may now submit the deeds and other documents. Your Most Serene Highness's humble and obedient servant. Vienna, the 12th of Feb. 1815",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nI beseech Your Most Serene Highness's most gracious pardon that I [uncertain: vogt] to lay at the feet of the same, a letter just now received from the so grievously beset Prince of Hohenlohe, most highly [uncertain: Lebensest]; of the boundless distress of this old [uncertain: both/two] man no sketch can be drawn, he suffers unspeakably - Have mercy, Your Most Serene Highness, and soften the [uncertain: Blad] of the poor Prince, by the advance of 112000 Rthl. Only by this means is the good Prince, languishing in the utmost distress, saved. The Courland heirs (against whose will Cosmar has forced himself alone into the entailed estates) are thereby at once entirely satisfied; Cosmar's power is at an end; even His Majesty too comes out of the entanglement (ex nexu) and, given the great funds of the entailed estates, receives the advance of 112000 Rthl back before long; every creditor receives his own by degrees, and the Prince need no longer [uncertain: hängern]. As concerns the Trąbczyn estates in the Konin district, of which the Prince makes mention in his letter, upon that I beg Your Serene Highness's most gracious instruction - whether I may now submit the deeds and other documents.\n\nYour Most Serene Highness's\n\nhumble and obedient servant\n\nVienna, the 12th of February\n\n1815",
  "summary_en": "Forwards a just-received letter from the hard-pressed Prince of Hohenlohe, describing his unspeakable distress, and pleads for an advance of 112,000 Rthl as the only remedy: it would satisfy the Courland heirs at once, end Cosmar's power (he having forced himself alone into the entailed estates against their will), release His Majesty from the entanglement, repay the advance from the entail's ample funds and settle the creditors by degrees. Asks whether to submit the deeds for the Trąbczyn estates in the Konin district.",
  "summary_de": "Übersendung eines eben eingegangenen Schreibens des schwer bedrängten Fürsten von Hohenlohe nebst dringender Bitte, dessen Not durch einen Vorschuß von 112000 Rthl zu lindern: damit seien die kurländischen Erben, gegen deren Willen sich Cosmar allein in die Fideikommißgüter gedrängt habe, sogleich befriedigt, Cosmars Macht beendet, Seine Majestät aus dem nexu gelöst und der Vorschuß aus den großen Fonds bald zurückerstattet, die Gläubiger nach und nach bezahlt. Erbittet Weisung, ob die Dokumente zu den Gütern Trąbczyn im Kreis Konin vorgelegt werden dürfen."
 }

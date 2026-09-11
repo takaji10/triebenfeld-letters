@@ -1,15 +1,51 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord, With the most unspeakable toil the honest Amelang
-    has at last laid the affairs to rest so far that he has given, from the [uncertain: banking house
-    / Banquier], an instruction upon the brothers Kuh, before the monies from the Invalids'' Fund, which
-    properly consist in a negotiation-obligation, / to the amount of 36755 Rthl 7 gg. which he has received.
-    I [uncertain: wish] to convey the same, without the very least delay, most obediently to Your Most
-    Serene Highness. Tomorrow everything will be arranged, and the Hangsche affair as well as the Eysenhardtsche
-    one put in order, and when I have done with that I shall hasten back to go to Kalisz and to see to
-    what further is needed for the obtaining of the 100000 Rthl. In deepest reverence I remain, until
-    death, Your Most Serene Highness''s — may Your Serene Highness graciously cause the letter to the
-    Messieurs Kuh to be delivered at once — faithful and most obedient serv[ant]. How true it is: who
-    indeed is in a position to hinder the dismemberment? I defy anyone. Berlin, the 31st of January 1805.
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord, With the most unspeakable trouble the honest Ame lang has at last so
+    far buried the matters that he has given, from the Ban quis leve, an instruction to pay to the brothers
+    Kuh, before the monies from the Invalids'' Fund, which properly consist in a negotiating obligation
+    / to the amount of 36755 Rthl 7 gg., have been received. I wish, without the very least delay, most
+    obediently to transmit the same to Your Most Serene Highness. Tomorrow everything will be arranged,
+    and likewise the Hang matter as well as the Eysenhardt matter will be brought into order, and when
+    I am finished with that I shall hasten back to go to Kalisz and to see to the further steps for obtaining
+    the 100000 Rthl. In deepest reverence I remain, until death, Your Most Serene Highness — may Your
+    Serene Highness deign to have the letter to the gentlemen Kuh delivered at once — most faithfully
+    obedient Serv[ant] How true it is, indeed, that [someone] is in a position to hinder the dismemberment?
+    I defy anyone. Berlin, the 31st of January 1805.
+
+
     v Triebenfeld'
+  names:
+  - de: Ame lang
+    en: Ame lang
+    kind: person
+  - de: Kuh
+    en: Kuh
+    kind: person
+  - de: Hangsche
+    en: Hang
+    kind: person
+  - de: Eysenhardtsche
+    en: Eysenhardt
+    kind: person
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  - de: Ban quis leve
+    en: Ban quis leve
+    kind: other
+  numbers:
+  - '36755'
+  - '7'
+  - '100000'
+  - '31'
+  - '1805'

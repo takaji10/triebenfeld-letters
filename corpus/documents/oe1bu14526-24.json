@@ -96,20 +96,196 @@
    "doc_line": 54
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm, King of Prussia",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm König von Preußen",
+   "surface_en": "Friedrich Wilhelm, King of Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "SüdPreußl.",
+   "surface_en": "South Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche forest",
+   "kind": "place",
+   "surface_de": "Betscher Forst",
+   "surface_en": "Betsche forest",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "SüdPreuß.",
+   "surface_en": "South Prussian",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Köller",
+   "kind": "person",
+   "surface_de": "v Köller",
+   "surface_en": "v. Köller",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Raeder",
+   "kind": "person",
+   "surface_de": "Raeder[?]",
+   "surface_en": "Raeder",
+   "page": 2
+  }
+ ],
  "place_canonical": "Posen",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, Royal grace and good will first of all, High-born Prince, especially Dear Friend and Dear Faithful One! Further to the notification issued to Your Liebden on the 5th of February of this year upon the petition presented on the 31st of December of last year for permission to lease out the lordship of Betsche to the burghership there and to the remaining rural residents, We hereby give Your Liebden, with the return of the submitted hereditary-lease contract, upon the ground of the Rescript of Our South Prussian Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High Cabinet Resolution of the 11th of last month, the following decision: that the hereditary-leasing in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted to Your Liebden; for, firstly, if this consent had not been refused to Your Liebden, several landed lordships would venture similar applications, and thereby the possessions of the nobility so numerous in this province — upon whose conservation regard must be had — would be diminished, and the opportunities for the acquisition of estates would be taken from it. Even were, however, this considerable obstacle not already to stand in the way of Your Liebden's design, the aforementioned leasing-out could not be approved,"
+   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, royal grace and good will beforehand, High-born Prince, particularly dear Friend and dear Faithful Subject! In pursuance of the notification issued on the 5th of February of this year upon Your Lordship's petition submitted on the 31st of December of last year for permission to let out the lordship of Betsche on lease to the burgesses there and the remaining rural residents, We hereby give Your Lordship, with the return of the hereditary-lease contract submitted, upon the ground of the rescript of Our South Prussian Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High Cabinet Resolution of the 11th of last month, the following decision: that the hereditary letting in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted to Your Lordship; for, firstly, if this consent had not been refused Your Lordship, several landed lordships would venture similar applications, and thereby the possessions of the nobility, which is so numerous in this province and upon whose conservation regard must be had, would be diminished, and the opportunities for the acquisition of estates would be taken from it. Even if, however, this considerable obstacle did not already stand in the way of Your Lordship's design, the aforementioned letting could not be approved",
+   "names": [
+    {
+     "de": "Friedrich Wilhelm König von Preußen",
+     "en": "Friedrich Wilhelm, King of Prussia",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "SüdPreußl.",
+     "en": "South Prussian",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "31sten",
+    "5ten",
+    "11ten",
+    "15ten",
+    "1tens",
+    "2tens"
+   ]
   },
   {
    "page": 2,
-   "en": "because, secondly, the appropriate management of the Betsche forest — which, since this forest is the only considerable one in that region, deserves every regard — could not take place, inasmuch as, if the free use of it were left to the hereditary lessees, even the best supervision could not entirely prevent devastation; thirdly, there is here also still to be weighed the circumstance that, if Your Liebden's application were deferred to, the lands to be taken in hereditary lease by the residents could not even be managed in an orderly manner, since every resident, and likewise every burgher of the town of Betsche, possesses as much land as he needs for an orderly husbandry; and beyond that, in respect of the burghers, it is to be seen to that they apply themselves more to the [uncertain: pursuit of urban trades] than to that of agriculture, the greater part of the residents being moreover too [uncertain: without means] to be able to raise the sums of money required for the management. Are Your Liebden, with friendship, Royal grace and good will, well disposed toward.\n\nPosen, the 18th of May 1805. Royal South Prussian Chamber of War and Domains. [uncertain: G] v Köller\n\nTo\n\nThe Reigning Prince\n\nof Hohenlohe Ingelfingen\n\nLiebden, Lieutenant-General\n\nof Infantry and Governor\n\nof the Residence of Breslau, Chief of a Regiment of Foot, also Knight of the Order of the Black and of the Red Eagle, at Breslau 434 R. Anno\n\nRaeder [uncertain: Raeder]"
+   "en": "because, secondly, the appropriate management of the Betsche forest — which, since this forest is the only considerable one in that district, merits every regard — could not take place, inasmuch as, if free use of it were left to the hereditary lessees, even the best supervision could not wholly prevent its devastation; thirdly, there is also this circumstance to be weighed, that if Your Lordship's application were deferred to, the lands to be taken in hereditary lease by the residents could not even be managed in an orderly fashion, since every resident, and likewise every burgess of the town of Betsche, possesses as much land as he requires for a proper husbandry; and moreover, as regards the burgesses, care is to be taken that they apply themselves rather to the pursuit of urban trades than to that of agriculture, most of the residents being besides too lacking in means to be able to raise the sums of money required for the management. In which We remain well disposed toward Your Lordship with friendship, royal grace and good will.\n\nPosen, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller\n\nTo\n\nThe Reigning Prince\n\nof Hohenlohe-Ingelfingen,\n\nYour Lordship, Lieutenant-General\n\nof Infantry and Governor\n\nof the Residence of Breslau, Chief of a Regiment of Foot, also Knight of the Order of the Black and of the Red Eagle, at Breslau 434 R. Anno\n\nRaeder[uncertain: Raeder]",
+   "names": [
+    {
+     "de": "Betscher Forst",
+     "en": "Betsche forest",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "SüdPreuß.",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "v Köller",
+     "en": "v. Köller",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Raeder[?]",
+     "en": "Raeder",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2tens",
+    "3tens",
+    "18ten",
+    "1805",
+    "434"
+   ]
   }
  ],
- "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, Royal grace and good will first of all, High-born Prince, especially Dear Friend and Dear Faithful One! Further to the notification issued to Your Liebden on the 5th of February of this year upon the petition presented on the 31st of December of last year for permission to lease out the lordship of Betsche to the burghership there and to the remaining rural residents, We hereby give Your Liebden, with the return of the submitted hereditary-lease contract, upon the ground of the Rescript of Our South Prussian Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High Cabinet Resolution of the 11th of last month, the following decision: that the hereditary-leasing in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted to Your Liebden; for, firstly, if this consent had not been refused to Your Liebden, several landed lordships would venture similar applications, and thereby the possessions of the nobility so numerous in this province — upon whose conservation regard must be had — would be diminished, and the opportunities for the acquisition of estates would be taken from it. Even were, however, this considerable obstacle not already to stand in the way of Your Liebden's design, the aforementioned leasing-out could not be approved,\n\nbecause, secondly, the appropriate management of the Betsche forest — which, since this forest is the only considerable one in that region, deserves every regard — could not take place, inasmuch as, if the free use of it were left to the hereditary lessees, even the best supervision could not entirely prevent devastation; thirdly, there is here also still to be weighed the circumstance that, if Your Liebden's application were deferred to, the lands to be taken in hereditary lease by the residents could not even be managed in an orderly manner, since every resident, and likewise every burgher of the town of Betsche, possesses as much land as he needs for an orderly husbandry; and beyond that, in respect of the burghers, it is to be seen to that they apply themselves more to the [uncertain: pursuit of urban trades] than to that of agriculture, the greater part of the residents being moreover too [uncertain: without means] to be able to raise the sums of money required for the management. Are Your Liebden, with friendship, Royal grace and good will, well disposed toward.\n\nPosen, the 18th of May 1805. Royal South Prussian Chamber of War and Domains. [uncertain: G] v Köller\n\nTo\n\nThe Reigning Prince\n\nof Hohenlohe Ingelfingen\n\nLiebden, Lieutenant-General\n\nof Infantry and Governor\n\nof the Residence of Breslau, Chief of a Regiment of Foot, also Knight of the Order of the Black and of the Red Eagle, at Breslau 434 R. Anno\n\nRaeder [uncertain: Raeder]",
+ "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, royal grace and good will beforehand, High-born Prince, particularly dear Friend and dear Faithful Subject! In pursuance of the notification issued on the 5th of February of this year upon Your Lordship's petition submitted on the 31st of December of last year for permission to let out the lordship of Betsche on lease to the burgesses there and the remaining rural residents, We hereby give Your Lordship, with the return of the hereditary-lease contract submitted, upon the ground of the rescript of Our South Prussian Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High Cabinet Resolution of the 11th of last month, the following decision: that the hereditary letting in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted to Your Lordship; for, firstly, if this consent had not been refused Your Lordship, several landed lordships would venture similar applications, and thereby the possessions of the nobility, which is so numerous in this province and upon whose conservation regard must be had, would be diminished, and the opportunities for the acquisition of estates would be taken from it. Even if, however, this considerable obstacle did not already stand in the way of Your Lordship's design, the aforementioned letting could not be approved\n\nbecause, secondly, the appropriate management of the Betsche forest — which, since this forest is the only considerable one in that district, merits every regard — could not take place, inasmuch as, if free use of it were left to the hereditary lessees, even the best supervision could not wholly prevent its devastation; thirdly, there is also this circumstance to be weighed, that if Your Lordship's application were deferred to, the lands to be taken in hereditary lease by the residents could not even be managed in an orderly fashion, since every resident, and likewise every burgess of the town of Betsche, possesses as much land as he requires for a proper husbandry; and moreover, as regards the burgesses, care is to be taken that they apply themselves rather to the pursuit of urban trades than to that of agriculture, most of the residents being besides too lacking in means to be able to raise the sums of money required for the management. In which We remain well disposed toward Your Lordship with friendship, royal grace and good will.\n\nPosen, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller\n\nTo\n\nThe Reigning Prince\n\nof Hohenlohe-Ingelfingen,\n\nYour Lordship, Lieutenant-General\n\nof Infantry and Governor\n\nof the Residence of Breslau, Chief of a Regiment of Foot, also Knight of the Order of the Black and of the Red Eagle, at Breslau 434 R. Anno\n\nRaeder[uncertain: Raeder]",
  "summary_en": "Refusal, on the strength of a Cabinet Resolution of 11 April and a South Prussian Finance Department rescript of 15 April, of the Prince of Hohenlohe-Ingelfingen's petition of 31 December to let the lordship of Betsche in hereditary lease to the town's burgesses and rural residents; the returned hereditary-lease contract is declared wholly inadmissible, lest other lordships follow suit and diminish the nobility's holdings, lest the Betsche forest be devastated, and because residents already hold sufficient land, burgesses should pursue urban trades, and most lack means.",
  "summary_de": "Ablehnender Bescheid der Königlichen Südpreußischen Kriegs und Domänenkammer auf das Gesuch des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen vom 31. Dezember, die Herrschaft Betsche den dortigen Bürgern und übrigen Landeinwohnern in Erbpacht zu geben; der eingereichte Erbpachtcontract wird zurückgegeben. Gründe, gestützt auf Cabinetsresolution und Rescript des Finanzdepartements: Schmälerung des adligen Besitzes, gefährdete Bewirtschaftung der einzigen bedeutenden Betscher Forst, ausreichende Landausstattung der Einwohner sowie deren Mittellosigkeit; die Bürger sollen städtische Gewerbe treiben. Unterzeichnet v. Köller, Raeder."
 }

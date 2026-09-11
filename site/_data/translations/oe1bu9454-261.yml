@@ -1,50 +1,136 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! The firmest assurance has now now also been
-    given regarding the recovery of the Polish estates - If one now also orders the compensation of what
-    the estates are able to bear, then I may highly praise my good fortune. A calculation I have been
-    ordered to hold in readiness, and with this I can, at any moment it is required, make representation.
-    This, however, concerns only the Trąbczyner estates; the calculation of damages for Kaemen may Leixner
-    afterwards present alone with his red-eyed Jews, for there I wish Your Serene Highness to remain ex
-    nexu. The [uncertain: für zude] alone must remain answerable to you, gracious Lord, for the estates
-    arrogated to themselves in the Cujemsch district, all the more since I do not yet know far where that
-    corner falls; for if the worst comes to the worst, then that fine company will be so far as to take
-    the Kaemen estates away and let them settle in the Cujawsch ones. It all depends only on what is registered
-    upon the Kaemen estates, and thus in whose name. Meanwhile all this will come to light, once Your
-    Serene Highness has first been given the estates back again - The joyful and gratifying tidings will
-    now surely already be in Your Serene Highness''s hands as I write this. Everything now depends upon
-    Your Serene Highness''s declaration and upon the report of the Brieg Higher Regional Court. See to
-    it, most gracious Lord, that everything is identical in wording with my submission and so far in agreement
-    that I lose nothing here of the confidence bestowed upon me; for then I shall not only at once have
-    the 112000 Rthl to pay the Curisch parties, but Cosmar is immediately thrown out, all the feigned
-    settlements and codicils are fetched by the devil, and you, my Prince, are once again truly the Reigning
-    Lord. This, my princely patron, was always a plan and chief wish - If all this goes into narration
-    as I have set the matters in train, then honour, good fortune and a quiet, care-free life in old age
-    are assured to you. Only I beg you, most gracious Lord, let Hahn work there. In the declarations you
-    are to give, make no compliments, spare nobody, and confirm without concealment what I and the honest
-    Hahn have said'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    The firmest assurance has now now also been given concerning the recovery of the Polish estates -
+    if one should further order compensation for what the estates are able to yield, then I may greatly
+    praise my good fortune. A reckoning I have been ordered to hold in readiness, and with this I can
+    stand up for the matter at any moment, whenever it is required. This, however, concerns only the Trąbczyn
+    estates. The reckoning of damages for Kaemen Leixner may afterwards present on his own with his red-eyed
+    Jews, for there I wish Your Serene Highness to remain ex neve. The [uncertain: für zude] alone must
+    remain answerable to you, gracious Lord, for the estates he has arrogated to himself in the Kujawy
+    district, all the more so since I do not yet know far where that corner falls; for if the worst comes
+    to the worst, then that fine company will be so far as to take the Kaemen estates away and let them
+    settle themselves in the Kujawy lands. It all depends on what is registered against the Kaemen estates,
+    and thus in whose name. In the meantime all this will come out, once Your Serene Highness has only
+    first had the estates handed back - The joyful and gratifying news will by now surely already be in
+    Your Serene Highness''s hands as I write this. Everything now turns on Your Serene Highness''s declaration
+    and on the report of the Higher Land Court at Brieg. See to it, most gracious Lord, that everything
+    is identical with my submission and so far in agreement that I forfeit nothing here of the confidence
+    bestowed upon me; for then I have not only at once the 112000 Rthl with which to pay the Courland
+    parties, but Cosmar is immediately thrown down, all the fabricated settlements and codicils are carried
+    off by the devil, and you, my Prince, are once again truly the reigning Lord. This, my princely patron,
+    was from the first a plan and a chief wish - if all this comes to pass as I have set the matters in
+    train, then honour, fortune, and a quiet, care-free life in old age are assured to you. Only I beg
+    you, most gracious Lord, let Hahn work there. In the declarations you are to give, make no compliments,
+    spare no one, and confirm without reservation what I and the honest Hahn have said'
+  names:
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: Cujemschen
+    en: Kujawy
+    kind: place
+  - de: Cujawschen
+    en: Kujawy
+    kind: place
+  - de: Kaemener
+    en: Kaemen
+    kind: place
+  - de: Brieger
+    en: Brieg
+    kind: place
+  - de: Curischen
+    en: Courland
+    kind: place
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  numbers:
+  - '13'
+  - '1814'
+  - '112000'
 - page: 2
   en: 'and written. Honour, property and life are at stake here - We have to fight a many-headed hydra
     - the [uncertain: Zustel.] Minister will spit fire and Cosmar will call the whole host of hell to
-    his aid, and will not want to let the morsel once seized slip from his claws. Spare and husband nothing
-    there - Take Hahn''s, Eberhardt''s and every honest man''s counsel in this matter - each will now
-    draw near to you, when he sees your powerful support, and then people will gladly wish to become a
-    party to the affair as well - I should then already see to matters here - A formulary for the power
-    of attorney for the Privy Councillor v. Göschel I send herewith; let Your Serene Highness execute
-    it and send it here with the blank forms and the copies. I shall then [uncertain: think it over] regarding
-    the delivery of the power of attorney - for too early I did not wish to do it, so that Herr v. Gärtner
-    should take nothing amiss - The day after tomorrow I may perhaps be able to report something important
+    his aid and will not want to let the roast, once seized, slip from his claws. Spare and save nothing
+    there - Take the counsel of Hahn, of Eberhardt, and of every honest man in this matter — everyone
+    will now draw near to you when he sees your powerful support, and then people will gladly wish to
+    be [uncertain: Witter] in the affair - I would then already see to matters here - A form for the power
+    of attorney for the privy councillor von Göschel I send herewith; let Your Serene Highness execute
+    it and send it here with the blank forms and the copies. I shall [uncertain: reconsider] the matter
+    of handing over the power of attorney - for I did not wish to do it too early, so that Mr von Gärtner
+    should take no offence at it — The day after tomorrow I may perhaps be able to report something important
     to Your Serene Highness. It is in boundless veneration that I remain, until death, Your Serene Highness''s
-    Vienna, the 13th of December 1814. faithful and most obedient servant v Triebenfeld'
+
+
+    Vienna
+
+
+    the 13th of December 1814.
+
+
+    faithful and most obedient servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  - de: Eberhardts
+    en: Eberhardt
+    kind: person
+  - de: v. Göschel
+    en: von Göschel
+    kind: person
+  - de: H v Gärtner
+    en: Mr von Gärtner
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '13'
+  - '1814'
 - page: 3
-  en: 'we are doing badly - for since the affair goes well, the friends also want to eat and drink well
-    - Already I am 50 ducats in debt - By the way, as I gather from Your Serene Highness''s letter of
-    the 25th of November, the dissolute drummer will have made [uncertain: brave noises] there, in wanting
-    to go here with the horses - That was never my will - I only wanted the [uncertain: Bestim] from here;
-    but Your Serene Highness will surely have found this my letter, which I did not wish to give the fellow
-    to carry, well set out. The Prince Chancellor means most soulfully well by me; as Herr von [uncertain:
-    Grotner / Gärtner] has just told me, the Hohenlohe affair stands very well, it is being particularly
-    favoured above all the mediatised ones - I fear for the [uncertain: Jcken] gentleman that he may burst
-    with rage, for that would make a frightful explosion - I have brought upon him a cruel vexation in
-    a [uncertain: Minor], at which he is said almost to have choked with rage -'
+  en: 'we are doing badly - for since the matter is going well, the friends also want to eat and drink
+    well - Already I am 50 ducats in debt - By the way, as I gather from Your Serene Highness''s letter
+    of the 25th of November, that dissolute drummer will have told fine tales there, so as to want to
+    travel here with the horses - That was never my will - I wanted the [uncertain: Bestim] only from
+    here; yet this letter of mine, which I did not care to give the fellow to carry, will have made the
+    matter plain to Your Serene Highness. The Prince Chancellor means most soulfully well by me; as Mr
+    von Gärtner has just this moment told me, the Hohenlohe affair stands very well, it is to be particularly
+    favoured above all the mediatised houses - I fear for the [uncertain: Jcken] gentleman that he may
+    burst with rage, for that would make a frightful [uncertain: Explorien] - I have brought a cruel vexation
+    upon him in a [uncertain: Minor], at which he is said to have almost choked with rage -'
+  names:
+  - de: Gärtner
+    en: Gärtner
+    kind: person
+  - de: Hohenlohische
+    en: Hohenlohe
+    kind: other
+  numbers:
+  - '50'
+  - '25'

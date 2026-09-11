@@ -1,41 +1,142 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness''s most gracious letter
-    with the house-tenants [uncertain: die Hauses häuer] I have received this very hour; I regret that
-    it did not come in one post-day earlier, for then it could still have granted the Herr General v.
-    Köckritz a scruple of vital strength for the journey; as it is, however, the birds will now arrive
-    only on Sunday, when he will already have departed. I shall now no doubt be able to tell him here
-    that this morsel awaits him yonder — to Herr v Seegebarth nothing further can well be said than that
-    Your Serene Highness would take pains to have the remainder set right, all the sooner as you had some
-    hope of drawing money soon from your Polish possessions. — Are the express-courier monies which derive
-    from the campaign not perhaps sent in the King''s affairs? Were this so, you could refer Herr v Seegebarth
-    thither. My haste was in vain, the lazy Brufurt has not come; I must find other counsel in order to
-    be able to travel to Poland. Perhaps that will succeed in a couple of days, and then I shall go at
-    once to Jogorowo, so as to be back by the 7th. For the rest, I do not believe that Weigel will grant
-    that Stössel is to be his debtor-man — the young Bernhardi counts for much with the old Weigel, who
-    has had to [uncertain: ſondern] him. He has straightway declared that he wishes to have nothing to
-    do with Stössel. I already stand in correspondence with him, that he himself is to acquire the estates
-    which Your Serene Highness takes over in Silesia, and give you full receipt, and also satisfy Stössel.'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    A most gracious letter of Your Most Serene Highness with the house-hides [uncertain reading] I have
+    received this very hour; I regret that they did not come in one post-day earlier, for then they might
+    still have granted General von Köckritz a dram of vital strength for the journey; as it is, however,
+    the birds now arrive only on Sunday, when he will already have departed. I shall doubtless be able
+    to tell him here that this loaf awaits him yonder — to Herr von Seegebarth nothing further can well
+    be said than that Your Serene Highness would take pains to have the [uncertain: West] settled, as
+    soon as you had some hope of drawing monies shortly from your Polish possessions. — Are the express-courier
+    monies, which derive from the campaigns, not perhaps sent on the King''s business? Were this so, you
+    could refer Herr von Seegebarth thither.
+
+
+    My haste was in vain: the lazy Brufurt has not come; I must seek other counsel in order to be able
+    to travel to Poland. Perhaps that will succeed in a couple of days, and then I shall go at once to
+    Zagorowo so as to be back by the 7th. For the rest, I do not believe that Weigel will consent that
+    Stössel should be his debtor-man — young Bernhardi counts for much with old Weigel, who has had to
+    [uncertain: separate/spare] him. He has straightway declared that he wishes to have nothing to do
+    with Stössel. I already stand in correspondence with him, to the effect that he should himself acquire
+    the estates which Your Serene Highness takes over in Silesia, and give you a receipt in full, and
+    also satisfy Stössel.'
+  names:
+  - de: Köckritz
+    en: Köckritz
+    kind: person
+  - de: Seegebarth
+    en: Seegebarth
+    kind: person
+  - de: Brufurt
+    en: Brufurt
+    kind: person
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: Jogorowo
+    en: Zagorowo
+    kind: place
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Stössel
+    en: Stössel
+    kind: person
+  - de: Bernhardi
+    en: Bernhardi
+    kind: person
+  - de: Schlesien
+    en: Silesia
+    kind: place
+  - de: König
+    en: King
+    kind: other
+  numbers:
+  - '7'
 - page: 2
-  en: 'I have pointed out to him that Stössel, who is now hard pressed [uncertain: pauren], would let
-    himself be handled well; that he, Weigel, would recover my claim in a solid manner and even with great
-    advantage, without its being felt by him; and that with his wide acquaintance he could easily [uncertain:
-    gewesen] the estates again. I have told him straight out that in the other case, if he were hard-hearted
-    enough to reject this advantageous plan, he would have to attain the age of Methuselah along with
-    Your Serene Highness in order one day to be fully satisfied — for he could not lay hands upon Your
-    Serene Highness so directly; at bottom all your estates are held in fideicommiss, and there, in the
-    utmost case, an arrest could only be laid upon your [uncertain: deinen] share of the revenues — and
-    it would then be required that Your Serene Highness should live another 200 years; the Polish [text
-    lost] afforded him a prospect — since meanwhile a fortunate exchange might be effected thereby, this
-    would be the one desired moment. Meanwhile, however advantageous the exchange might be, Your Serene
-    Highness would not be minded to take estates here if you could not at once settle with your most preferred
-    creditors thereby. I await the answer eagerly. That the King is coming, Your Serene Highness has long
-    known; I only cannot comprehend how you did not also have my letter with the Tismarsch matters on
-    the 22nd — I believe that Your Serene Highness will see the Royal person, and I await a letter longingly
-    on Friday; I have enquired whether it would be taken ill were Your Serene Highness to show yourself
-    to the King at Cohel or wherever it be, in case it were not already resolved that he wishes to see
-    Your Serene Highness. What I learn I shall send you by express [uncertain: Exproche]. To the Princess
-    Emilie and to the illustrious, brave Albert I commend myself in the most deferential manner and I
-    remain, until death, Your Most Serene Highness''s Breslau, the 27th Aug. 1810 most humbly faithful
-    servant v Triebenfeld'
+  en: 'I have pointed out to him that Stössel, who is now [uncertain: a peasant/pressed], lets himself
+    be well handled, and that he, Weigel, would recover my claim in a solid manner and even with great
+    advantage, without its being felt by him — and that with his wide acquaintance he could easily [uncertain:
+    sell/dispose of] the estates again. I told him outright that in the other case, should he hard-heartedly
+    reject this advantageous plan, he would have to attain the age of Methuselah along with Your Serene
+    Highness in order to be fully satisfied one day — for he could not simply lay hands on Your Serene
+    Highness just like that; fundamentally all your estates are [uncertain: fide. Cörruch], and in the
+    utmost case an arrest could only be laid upon [uncertain: your/one] share of the revenues — and that
+    would require that Your Serene Highness should live another 200 years; the Polish [text lost] afforded
+    him a prospect — since meanwhile a fortunate exchange could be effected thereby, this would be the
+    one desired moment. Meanwhile, however advantageous the exchange might be, Your Serene Highness would
+    not be minded to take estates here unless you could at once discharge your foremost creditors therewith.
+
+
+    I await the answer eagerly.
+
+
+    That the King is coming Your Serene Highness has long known; I only cannot comprehend how you should
+    not have had my letter with the Tismarsch matters on the 22nd either — I believe that Your Serene
+    Highness will see His Majesty, and I await a letter on Friday with longing; I have enquired whether
+    it would be ill construed if Your Serene Highness were to show yourself to the King at Cohel or wherever
+    it may be. In case it be not already resolved that he wishes to see Your Serene Highness.
+
+
+    What I learn I send you express. To Princess Emilie and to the illustrious, worthy Albert I commend
+    myself in the most respectful manner, and I remain, until death, as
+
+
+    Your Most Serene Highness''s
+
+
+    Breslau, the 27th of August
+
+
+    1810
+
+
+    most humbly faithful servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Stössel
+    en: Stössel
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Methusalems
+    en: Methuselah
+    kind: person
+  - de: Pohl
+    en: Polish
+    kind: place
+  - de: König
+    en: King
+    kind: other
+  - de: Tismarschen
+    en: Tismarsch
+    kind: other
+  - de: Cohel
+    en: Cohel
+    kind: place
+  - de: Prinzeß Emilie
+    en: Princess Emilie
+    kind: person
+  - de: Albert
+    en: Albert
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '200'
+  - '22'
+  - '27'
+  - '1810'

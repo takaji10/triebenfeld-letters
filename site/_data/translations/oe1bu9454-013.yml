@@ -1,46 +1,128 @@
 status: draft
 segments:
 - page: 1
-  en: 'For Your Serene Highness quite alone. The matter has not been put on the record in the best way;
-    important things have been passed over and others have been given prominence which do not belong in
-    the history — such is the Adolph affair — [uncertain: shortened] H. Chamber and one department and
-    another, in which he has everywhere lost himself of his own accord. It was not necessary to make the
-    business so long-winded on that account — Only, as I perceive, the good Hahn wants Adolph to be wrested
-    from the hands of the villain, so that the King should afterwards declare Adolph an entailed estate,
-    and then Adolph is to buy Koschentin — Koschentin lies very close to H''s heart — he writes that it
-    yields 55000 Rthl yearly — never mind, let everyone play with his own doll; I shall act — But the
-    question does after all arise here: is Koschentin larger, better, and by so much now ahead of Schlawentzitz,
-    which with Oppurg is said scarcely to yield 40000 Rthl? It is very [uncertain: hasty] that people
-    change their opinions too often — Give and God, if Pourtales writes soon, then another side will be
-    brought up again. Now to my own affair. On the papers much has been lost; they stand dreadfully low
-    here and fall daily, one gets almost nothing for them any more; the ducat is already worth over 15
-    and our Thaler five fl. less 20 Kreuzer — There are nearly 400 fl., some 300 Rthl, lost. To Barbe
-    I owe 145 x in cash — I must absolutely have a coat and an overcoat made, for already the elbows are
-    coming out of the [uncertain: Bubken]; the ell of good middling cloth costs over 60 Rthl, the tailor
-    asks about 38 x, that is already 183 Rthl. If you now send another 200 M, then there remain to me
-    17 Rthl of ready money — for the lungs, or properly the 1100 fl. of paper money, will soon be eaten
-    up. Tomorrow the Prince is having 100 tt. advanced to me, with which I shall bring Barbe to some degree
-    of quiet. But I must give a written undertaking that I shall hand over the 100 Rthl advance here at
-    the treasury — and here one''s word must be kept. I therefore beg Your Serene Highness, for God''s
-    sake, to send me the 200 Rthl as soon as possible, for otherwise I lose all credit with the men who
-    alone can help and ought to help. Have mercy, Your Serene Highness, and do send the 200 tℓ. too, likewise
-    as soon as possible, and blank forms signed in French — I could well use the same. 21 Febr. 1815'
+  en: 'For Your Serene Highness quite alone.
+
+
+    The matter has not been given into the record in the best way; important things have been passed over
+    and others have been dragged in at length which do not belong in the account - such is the Adolph
+    affair - shortly Chamber and one department and another, there he is everywhere lost of himself. It
+    was not necessary to make the business long-winded on that account - only, as I perceive, the good
+    Hahn wishes that Adolph be wrested from the hands of the villain, that the King should thereafter
+    declare Adolph for [uncertain: Majoram], and then Adolph is to buy Koachenten - Korchentin lies very
+    much at H''s heart - he writes that it yields 55000 Rthl annually - very well, let each play with
+    his own doll, I shall act. — But the question does arise here: is Koschentin larger, better, and by
+    so much now ahead of Schlawenschitz, which together with Oppurg is said scarcely to yield 40000 Rthl?
+    It is very [uncertain: schleun] that people change their opinions too often — If God grant that Pourtales
+    writes soon, then another side will be put up again. Now to my own affair. On the papers much has
+    been lost; they stand dreadfully low here and fall daily, one gets almost nothing for them any more,
+    the ducat already stands at over 15 and our Thaler five fl. less 20 kreuzer - Nearly 400 fl., some
+    300 Rthl, are lost. To Bürben I owe 145 x in cash — I must absolutely have a coat and overcoat made
+    for me, since already the elbows are coming through [uncertain: Bubken]; the ell of good middling
+    cloth costs over 60 Rthl, the tailor demands some 38 x, that is already 183 Rthl; if you now send
+    a further 200 M, then 17 Rthl of white money remain to me - for the lungs, or properly the 1100 fl.
+    of paper money, will soon be eaten up. Tomorrow the Prince is having 100 tt. advanced to me, with
+    which I shall set Barben somewhat at ease. But I must give a written undertaking that I shall hand
+    over the 100 Rthl advance here at the treasury - and here one''s word must be kept. I therefore beg
+    Your Serene Highness for God''s sake, [uncertain: schaden] me the 200 Rthl as soon as possible, for
+    otherwise I lose all credit with the men who alone can help and ought to help. Have mercy, Your Serene
+    Highness, and do send the 200 tℓ. also as soon as possible, and blank forms signed in French - I could
+    well use the same.
+
+
+    21 February 1815'
+  names:
+  - de: Adolph
+    en: Adolph
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  - de: Koachenten
+    en: Koachenten
+    kind: place
+  - de: Korchentin
+    en: Korchentin
+    kind: place
+  - de: Koschentin
+    en: Koschentin
+    kind: place
+  - de: Schlawentzitz
+    en: Schlawenschitz
+    kind: place
+  - de: Oppurg
+    en: Oppurg
+    kind: place
+  - de: Pourtales
+    en: Pourtales
+    kind: person
+  - de: Bürben
+    en: Bürben
+    kind: person
+  - de: Barben
+    en: Barben
+    kind: person
+  numbers:
+  - '55000'
+  - '40000'
+  - '15'
+  - '20'
+  - '400'
+  - '300'
+  - '145'
+  - '60'
+  - '38'
+  - '183'
+  - '200'
+  - '17'
+  - '1100'
+  - '100'
+  - '100'
+  - '200'
+  - '200'
+  - '21'
+  - '1815'
 - page: 2
   en: 'Most gracious Lord, it is now 3 1/2 weeks that I have not seen a syllable from you, and for over
-    3 weeks I have been living like the hardest-used prisoner on water and bread, and daily 2 [uncertain:
-    cups] of a black brew without sugar or milk. May I never look upon God''s countenance if this is not
-    true. I already go about like a [uncertain: Gerize] — of my illness I have for the most part been
-    [text lost] but very weak, and now I am starving — God preserve me only from a relapse. Help me soon,
-    or I shall succumb to the two of them. Barbe commends himself to you most respectfully — He has promised
-    me to procure the money for the redemption of the papers — but I have great worry on that account:
-    if the Chancellor requires it, the papers must be submitted [uncertain: at school / at once], and
-    that will happen in a couple of days — as for what Eberhard supposes, that the King should take the
-    debt wholly upon himself, that will not happen — But what is needful will be given up, and against
-    that go off the 114000 Rthl which you have lost since 1800 — I have spoken with the E H about this
-    very nervously — the Prince is confident of obtaining for you upon this an annual 6000, indeed even
-    7 — and of saving half of it — that would be a pretty little capital sum — This is to remain secret,
-    so that no evil spirit sinks his claws into it — People talk wondrous stuff, and things still more
-    full go on here — had I opportunity I could write much. The good Barbe has found another translator,
-    who will translate the whole files for 15 ducats, and these he means to give tomorrow. But let Your
-    Serene Highness see to it that the man is satisfied. He certainly helps much, is [uncertain: reliable]
-    and good — from Pourtales there is as yet no further answer here; that is looked for such coming week.'
+    3 weeks I have been living like the harshest prisoner on water and bread and daily 2 pieces of toast,
+    a black draught without sugar or milk. May I never behold God''s countenance if this is not true.
+    I already go about like a [uncertain: Gerize] — of my illness I am for the most part [text lost] but
+    very weak, and now I am starving — May God only preserve me from a relapse. Help me soon, else I shall
+    succumb to the two of them. Barbe presents himself to you most respectfully — He has promised me to
+    procure the money for the redemption of the papers - on which account I have great worry; if the Chancellor
+    requires it so, the papers must be submitted with all speed, and that will happen within a couple
+    of days - as for what Eberhard thinks, that the King should take the debt wholly upon himself, that
+    will not happen - But what will be necessary will be given up, and against that go the 114000 Rthl
+    which you have lost since 1800 - that [illegible] spoke of it with the E H very nervously - the Prince
+    has undertaken on this account to procure you an annual 6000, indeed perhaps 7 - and of that to save
+    the half - that would be a pretty little capital - This is to remain secret, so that no evil spirit
+    sinks in its claws - People talk wondrous stuff, and still more [uncertain: Vollerns] goes on here
+    - had I the opportunity I could write much.
+
+
+    The good Barbe has found another translator, who will translate the whole files for 15 ducats, and
+    these he means to give tomorrow. But let Your Serene Highness see to it that the man is satisfied.
+    He certainly helps much, is again and good - from Pourtales there is as yet no further answer here;
+    this is looked for in the course of next week.'
+  names:
+  - de: Barbe
+    en: Barbe
+    kind: person
+  - de: Eberhard
+    en: Eberhard
+    kind: person
+  - de: E H
+    en: E H
+    kind: person
+  - de: Pourtales
+    en: Pourtales
+    kind: person
+  numbers:
+  - 3 1/2
+  - '3'
+  - '2'
+  - '114000'
+  - '1800'
+  - '6000'
+  - '7'
+  - '15'

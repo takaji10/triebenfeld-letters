@@ -85,20 +85,120 @@
    "doc_line": 16
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Kriegs- und ForstRath",
+   "surface_en": "Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Euer Hochwohlgebohren",
+   "surface_en": "Your Right Honourable",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Behringen",
+   "kind": "place",
+   "surface_de": "Behringen",
+   "surface_en": "Behringen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohischen",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dreßden",
+   "surface_en": "Dresden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A: Hahn",
+   "kind": "person",
+   "surface_de": "A: Hahn",
+   "surface_en": "A: Hahn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Dresden",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have just now found among my papers some chartes blanches signed by His Serene Highness, which I had packed up in the [uncertain: Eilrigbreslau] and which were intended for Your Right Honourable. The same will forgive me this oversight when I tell him that in the last nights before the departure I had no rest, since the Chamber Director Count from Behringen arrived there, and now everything that concerned the Hoheelohisch matters was to be [continued overleaf]"
+   "en": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! I have just now found a few blank signed sheets (chartes blanches), signed by His Serene Highness, among my papers, which I packed up in the haste [uncertain: at Breslau], and which were intended for Your Right Honourable. You will forgive me this oversight when I tell you that in the last nights before my departure I had no rest, inasmuch as the Chamber Director Count arrived there from Behringen, and now everything that concerned the Hohenlohe affairs was to be",
+   "names": [
+    {
+     "de": "Kriegs- und ForstRath",
+     "en": "Councillor of War and Forests",
+     "kind": "other"
+    },
+    {
+     "de": "Euer Hochwohlgebohren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    },
+    {
+     "de": "Behringen",
+     "en": "Behringen",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohischen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "done before the journey should be undertaken. The remaining Chartes blanches I have sent to the gracious young ladies von Triebenfeld. I have the honour to remain, with the most perfect veneration, Your Right Honourable's Dresden, the 8th of Nov: 1805. N.S. His Serene Highness appointed me, still before the departure, Expeditions-[uncertain: Kathern]!! humble and obedient servant A: Hahn"
+   "en": "attended to before the journey was undertaken. The remaining blank signed sheets (chartes blanches) I have sent to the gracious young ladies von Triebenfeld.\n\nI have the honour to remain, with the most perfect veneration,\n\nYour Right Honourable's. Dresden, 8th Nov: 1805.\n\nP.S. His Serene Highness, before the departure, further appointed me Councillor of Expeditions. Humble and obedient servant A: Hahn",
+   "names": [
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Dreßden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "A: Hahn",
+     "en": "A: Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "1805"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have just now found among my papers some chartes blanches signed by His Serene Highness, which I had packed up in the [uncertain: Eilrigbreslau] and which were intended for Your Right Honourable. The same will forgive me this oversight when I tell him that in the last nights before the departure I had no rest, since the Chamber Director Count from Behringen arrived there, and now everything that concerned the Hoheelohisch matters was to be [continued overleaf]\n\ndone before the journey should be undertaken. The remaining Chartes blanches I have sent to the gracious young ladies von Triebenfeld. I have the honour to remain, with the most perfect veneration, Your Right Honourable's Dresden, the 8th of Nov: 1805. N.S. His Serene Highness appointed me, still before the departure, Expeditions-[uncertain: Kathern]!! humble and obedient servant A: Hahn",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! I have just now found a few blank signed sheets (chartes blanches), signed by His Serene Highness, among my papers, which I packed up in the haste [uncertain: at Breslau], and which were intended for Your Right Honourable. You will forgive me this oversight when I tell you that in the last nights before my departure I had no rest, inasmuch as the Chamber Director Count arrived there from Behringen, and now everything that concerned the Hohenlohe affairs was to be\n\nattended to before the journey was undertaken. The remaining blank signed sheets (chartes blanches) I have sent to the gracious young ladies von Triebenfeld.\n\nI have the honour to remain, with the most perfect veneration,\n\nYour Right Honourable's. Dresden, 8th Nov: 1805.\n\nP.S. His Serene Highness, before the departure, further appointed me Councillor of Expeditions. Humble and obedient servant A: Hahn",
  "summary_en": "Hahn apologises for having mislaid, among his papers, chartes blanches signed by His Serene Highness that were meant for Triebenfeld, explaining that in the last nights before departure he had no rest, the Chamber Director Count from Behringen having arrived and all Hoheelohisch business needing settlement before the journey. The remaining chartes blanches he has sent to the young ladies von Triebenfeld. A postscript notes his appointment, before the departure, as Expeditions-Kathern.",
  "summary_de": "Hahn entschuldigt sich, erst jetzt unter seinen Papieren mehrere von Seiner Durchlaucht unterzeichnete Chartes blanches gefunden zu haben, die für Triebenfeld bestimmt waren; in den letzten Nächten vor der Abreise habe er wegen der Ankunft des Kammerdirektors Graf von Behringen keine Ruhe gehabt, da alle Hohenlohischen Angelegenheiten noch vor der Reise erledigt werden mussten. Die übrigen Chartes blanches habe er den Fräulein von Triebenfeld übersandt. Nachschrift: Er sei noch vor der Abreise zum Expeditions-Rath bestellt worden."
 }

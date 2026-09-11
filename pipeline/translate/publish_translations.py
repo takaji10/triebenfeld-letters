@@ -158,7 +158,19 @@ def main():
     if held and not a.force:
         print(f'{len(held)} page(s) held back by a blocking check - see '
               f'translation_review.csv, then re-run after ruling on them')
+    # Writing is not enough: a document that stops existing leaves its
+    # translation behind, and a stale file here is a page the site will publish
+    # for a record the corpus no longer has. Merging 30-32 into one left exactly
+    # that, twice, and nothing noticed until someone counted the files.
     if not a.list:
+        live = set(unitlib.records_by_pad(ROOT))
+        orphans = sorted(f for f in os.listdir(DEST)
+                         if f.endswith('.yml') and f[:-4] not in live)
+        for f in orphans:
+            os.remove(os.path.join(DEST, f))
+        if orphans:
+            print(f'removed {len(orphans)} translation(s) whose document no longer '
+                  f'exists: {", ".join(x[:-4] for x in orphans)}')
         print(f'wrote into {DEST}')
 
 

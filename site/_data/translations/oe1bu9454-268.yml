@@ -1,57 +1,191 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! Your Serene Highness''s most highly honoured
-    letter I received yesterday together with the enclosures and 1125 fl. of paper money — the two letters
-    to His Majesty and to the Prince State Chancellor I delivered at once — also, on 2 [uncertain: Menquets],
-    I have had the 2 accompanying letters written, namely one to the Herr General v. Schöler and the 2nd
-    to the Privy Councillor of State Stägemann. Likewise I have handed over the written undertaking to
-    B:. Now I await most longingly the report from Brieg, and likewise the answer of Count v. Pourtales.
-    Were the report drawn up as Eberhardt writes, then it is already favourable enough. The Prince Chancellor
-    will surely not spare the favourite of H[err] v. Kirch: Es — if Cosmar is dismissed, and if the 112000
-    Rthl are given up for the satisfaction of the Kur: heirs, then everything further will resolve itself
-    without difficulty — what now causes me grief is the Trąbczyner affair; most probably this corner
-    of the earth will fall to Russia after all, and there the aprons count for everything — I am therefore
-    beginning to have the Emperor worked upon through the Herr General v. Schöler. The General stands
-    in high favour with His Majesty. In general, whatever is to be done must all be done quickly, for
-    here there is very strong talk of war — in the cabinets an incredible activity prevails, but everything
-    is kept extremely secret — the Congress, it is said, may well last another couple of months, but should
-    the thing degenerate into discord it can likewise be broken off as quick as lightning; at Court one
-    is said no longer to see such cheerful faces as at the beginning. Our Most Gracious King and Lord
-    dines almost always alone, and likewise he always goes walking always alone and solitary. Why the
-    King of Würtemberg has left Vienna and the Congress one cannot decipher with certainty. He has meanwhile
-    already'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    I received yesterday a most highly honoured letter of Your Serene Highness together with the enclosures
+    and 1125 fl in paper money — the two letters to His Majesty and to the Prince State Chancellor I delivered
+    at once — also had written, upon 2 [uncertain: Menquets], the 2 letters herewith enclosed, namely
+    one to the Gentleman General von Schöler and the 2nd to the Privy Councillor of State Stägemann. Likewise
+    I have handed over the written undertaking to B:. Now I await longingly the report from Brieg, and
+    likewise the answer of Count von Pourtales. Were the report drawn up as Eberhardt writes, then it
+    is already favourable enough. The Prince Chancellor will surely not spare the favourite of Mr von
+    Kirch: Es — If Cosmar is removed from office, and the 112000 Rthl are given up for the satisfaction
+    of the Kur: heirs, then everything further will resolve itself without difficulty — what now gives
+    me sorrow is the Trąbczyn affair; most probably this corner of the earth will after all fall to Russia,
+    and there the [uncertain: aprons] are everything — I am therefore beginning to have the Emperor worked
+    upon through the Gentleman General von Schöler. The General stands in high favour with His Majesty.
+    In general, whatever is to be done must all be done quickly, for there is very strong talk here of
+    war — In the cabinets an unbelievable activity prevails, but everything is kept exceedingly secret
+    — the Congress, it is said, may well last a couple of months more, but if the thing degenerates into
+    discord it can just as well be broken off as quick as lightning; at court one is said no longer to
+    see such cheerful faces as at the beginning. Our Most Gracious King and Lord dines almost always alone,
+    and likewise he always goes walking alone and solitary. Why the King of Würtemberg has left Vienna
+    and the Congress one cannot make out with certainty. He has meanwhile already'
+  names:
+  - de: Schöler
+    en: Schöler
+    kind: person
+  - de: Stägemann
+    en: Stägemann
+    kind: person
+  - de: Brieg
+    en: Brieg
+    kind: place
+  - de: Pourtales
+    en: Pourtales
+    kind: person
+  - de: Eberhardt
+    en: Eberhardt
+    kind: person
+  - de: 'Kirch: Es'
+    en: 'Kirch: Es'
+    kind: person
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Rußland
+    en: Russia
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: Würtemberg
+    en: Würtemberg
+    kind: place
+  - de: 'B:'
+    en: 'B:'
+    kind: person
+  - de: 'Kur: Erben'
+    en: 'Kur: heirs'
+    kind: other
+  numbers:
+  - '1125'
+  - '2'
+  - '2'
+  - '2'
+  - '112000'
 - page: 2
-  en: 'let much be heard from him — one of his most important declarations is that he intends to reinstate
-    the Estates, to give them back their prerogatives, and to concede nothing to the King of Bavaria —
-    Gärtzer thinks he is afraid of insurrection, or else that his end is not far off. General v. Köckritz
-    has asked for his discharge, and has received the same. The King leaves him his entire salary until
-    his end; he also remains [uncertain: Chief] of the Jäger Corps. At this very moment I receive a letter
-    from your Court Councillor Hahn, which has truly cast me into the deepest sorrow. Herr Court Councillor
-    says that the officials are to give a statement of the revenues of the entailed estates, and that
-    in it there would come out barely half as much revenue as Your Serene Highness has indicated to me
-    — if that is not a well-considered trick of the officials, then it would be dreadful, for where and
-    whence should the advance of 112 Rthl then be covered? I am truly quite disheartened — It will indeed
-    not now be conceded that Prince August at Wartemberg receives the 100000 Rthl, still less the 18000
-    Rthl yearly, and that already affords a secure fund — but no mortal man has a contract upon the length
-    of his life. Meanwhile I will only see what the report from Brieg contains and what impression it
-    will make here — if only Cosmar''s poison-fangs are broken out, if he loses the executorial commission
-    and his influence upon the entailed estates, then the settlement of 1811 collapses of itself — and
-    if he must hand over the Adolphian revenues to the [uncertain: Papellen] Colleges, then Monsieur Satanus
-    will fetch him away forthwith — and as for the Herren officials, one will afterwards no doubt question
-    them out of their arts — It is in deepest reverence that I remain, until death, Your Serene Highness''s
-    Vienna, the 20th of January 1815, faithful, humble and obedient servant v Triebenfeld'
+  en: 'let much be heard of himself — One of his most important declarations is that he means to reinstate
+    the estates, to give them back their prerogatives, and to yield nothing to the King of Bavaria — Gärtzer
+    thinks he is afraid of insurrection, or that it is not far before his end. General von Köckritz has
+    asked for his discharge, and has received the same. The King leaves him his whole salary until his
+    end; he also remains [uncertain: chief] of the Jäger Corps. At this moment I receive a letter from
+    your Court Councillor Hahn which has truly cast me into the deepest sorrow.
+
+
+    Mr Court Councillor says that the officials are to give a statement of the revenues of the entailed
+    estates, and that in this there come out [uncertain: Baum] half as much in revenues as Your Serene
+    Highness has indicated to me — If this is not a well-considered trick of the officials, then that
+    would be dreadful, for how and whence should the advance of 112 Rthl then be met? I am truly quite
+    disheartened — It will admittedly not now be conceded that Prince August of Wartemberg should receive
+    the 100000 Rthl, still less the 18000 Rthl yearly, and that already affords a secure fund — but the
+    [uncertain: mortal] man has no contract as to the length of his life. Meanwhile I will only see what
+    the report from Brieg contains and what impression it will make here — if only Cosmar''s poison-fangs
+    are broken out, if he loses the writ of execution and his influence over the entailed estates, then
+    the settlement of 1811 collapses of itself — and if he must hand over the Adolphine revenues to the
+    [uncertain: Papellen] Colleges, then Monsieur Satanus will fetch him forthwith — and the gentlemen
+    officials too will afterwards be well questioned as to their arts — In deepest reverence I remain,
+    until death, Your Serene Highness''s
+
+
+    Vienna, the 20th of January
+
+
+    1815
+
+
+    faithful, humble and obedient servant
+
+
+    v Triebenfeld'
+  names:
+  - de: Baieren
+    en: Bavaria
+    kind: place
+  - de: Gärtzer
+    en: Gärtzer
+    kind: person
+  - de: Köckritz
+    en: Köckritz
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  - de: August
+    en: August
+    kind: person
+  - de: Wartemberg
+    en: Wartemberg
+    kind: place
+  - de: Brieg
+    en: Brieg
+    kind: place
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Adolphschen
+    en: Adolphine
+    kind: other
+  - de: Papellen
+    en: Papellen
+    kind: other
+  - de: Satanus
+    en: Satanus
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  numbers:
+  - '112'
+  - '100000'
+  - '18000'
+  - '1811'
+  - '20'
+  - '1815'
 - page: 3
-  en: '268 a) Metamorphosed I shall be tomorrow — a dress coat, a greatcoat, boots together with linen
-    I shall have, and shall at least be able to show myself again. The business costs 926 fl. — 1100 I
-    received, consequently all is gone; and no evening passes without a couple of friends from the Bureau
-    coming to me. I beg therefore, for all mercy''s sake, to send me the 200 ducats as speedily as it
-    is in the world possible, for otherwise I am given over to every shame and mockery — I lack everything;
-    nor have I here seen anyone of other people, let alone one of the reigning gentlemen, apart from the
-    King of Wartemberg — the friends from the Princely House, without whom I could not lure a dog out
-    of the East, I must always receive well, and that nevertheless costs much. The 100 ducats advanced
-    to me by Prince Hardenberg I must absolutely repay quickly and soon, for the Privy Legation Councillor
-    Jordan has already dunned me for it quite mockingly. I therefore beg Your Serene Highness, for God''s
-    mercy''s sake, send, and if it could be done by express courier, the 200 ducats; the affair is now
-    in full work and goes well — but I should have to grow weary if I do not [uncertain: write] receive
-    the 200 ducats to pay off the debts — Upon this the old gentleman looks very keenly. v Triebenfeld'
+  en: '268 a) Metamorphosed I shall be tomorrow — A [uncertain: Frade], a greatcoat, boots together with
+    linen I shall have, and shall at least be allowed to show myself again. The business costs 926 fl.
+    — 1100 I received, consequently all is spent, and no evening passes without a couple of friends from
+    the Bureau coming to me. I therefore beg, for all mercy''s sake, that you send me the 200 ducats as
+    speedily as it is in the world possible, for otherwise I am given up to every shame and mockery —
+    I lack everything; nor have I here seen anyone of other men, let alone one of the reigning lords,
+    except the King of Wartemberg — the friends from the princely House, without whom I could not lure
+    a dog from the stove, I must always receive well, and that nevertheless costs much. The 100 ducats
+    advanced to me by Prince Hardenberg I must absolutely pay back quickly and soon, for the Privy Legation
+    Councillor Jordan has already dunned me for it quite mockingly. I therefore beg Your Serene Highness,
+    for God''s mercy''s sake, send, and if it could be by express courier, the 200 ducats; the matter
+    is now in full work and goes well — but I should have to tire if I do not [uncertain: write] receive
+    the 200 ducats in order to pay off the debts — On this the old gentleman is looking very strongly.
+    v Triebenfeld'
+  names:
+  - de: Wartemberg
+    en: Wartemberg
+    kind: place
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Jordan
+    en: Jordan
+    kind: person
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  numbers:
+  - '268'
+  - '926'
+  - '1100'
+  - '200'
+  - '100'
+  - '200'
+  - '200'

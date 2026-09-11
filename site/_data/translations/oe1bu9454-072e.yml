@@ -1,8 +1,37 @@
 status: draft
 segments:
 - page: 1
-  en: 'In Warsaw, the 5th of March [18]12. Dear Brother! I hasten to report that, owing to various affairs,
-    I shall not be able to depart from Warsaw until the 15th of the present month. The matter concerning
-    Trąbczyn, according to certain intelligence I have received, stands in a good position, which I shall
-    explain more exactly upon my return. For shortness of time, since the opportunity [i.e. the post]
-    is departing, I cannot write more. Keeping well, [uncertain: k]ony Brother! your friend B. Brzechsta'
+  en: 'In Warsaw, the 5th day of March [18]12. Dear Brother!
+
+
+    I hasten to report that, on account of various matters of business, I shall not be able to depart
+    from Warsaw until the 15th of the current month. The affair concerning Trąbczyn, according to certain
+    intelligence I have received, stands in good posture, which upon my return I shall explain more fully.
+    For want of time, since the conveyance is departing, I cannot write more.
+
+
+    Be well
+
+
+    [uncertain: k]ony Brother!
+
+
+    friend
+
+
+    B. Brzechsta'
+  names:
+  - de: Warszawie
+    en: Warsaw
+    kind: place
+  - de: Trąbczyna
+    en: Trąbczyn
+    kind: place
+  - de: B. Brzechsta
+    en: B. Brzechsta
+    kind: person
+  numbers:
+  - '5'
+  - '18'
+  - '12'
+  - '15'

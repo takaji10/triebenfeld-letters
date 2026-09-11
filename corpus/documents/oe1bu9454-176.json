@@ -132,28 +132,256 @@
    "doc_line": 52
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Euer Hochwohlgebohren",
+   "surface_en": "Your Right Honourable",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Neuenstein",
+   "kind": "other",
+   "surface_de": "Hohenlohe Neuenstein",
+   "surface_en": "Hohenlohe-Neuenstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Oehringen",
+   "surface_en": "Öhringen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "hohenlehischen",
+   "surface_en": "Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Langenburg",
+   "kind": "place",
+   "surface_de": "Langenburg",
+   "surface_en": "Langenburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kirchberg",
+   "kind": "place",
+   "surface_de": "Kirchberg",
+   "surface_en": "Kirchberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface_de": "Ingelfinger",
+   "surface_en": "Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface_de": "Ingelfingischen",
+   "surface_en": "Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface_de": "Jugelfingische",
+   "surface_en": "Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Franconia",
+   "kind": "place",
+   "surface_de": "Frankens",
+   "surface_en": "Franconia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Silesian",
+   "kind": "other",
+   "surface_de": "schleßischen",
+   "surface_en": "Silesian",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "other",
+   "surface_de": "südpreußischen",
+   "surface_en": "South Prussian",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Euer Hochwohlgebohren",
+   "surface_en": "Your Right Honourable",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Euer Hochwohlgebohren",
+   "surface_en": "Your Right Honourable",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "A. Hahn",
+   "kind": "person",
+   "surface_de": "A. Hahn",
+   "surface_en": "A. Hahn",
+   "page": 4
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I hereby report most obediently that yesterday afternoon and at 6 o'clock, by express courier, the news arrived of the decease of the reigning Prince zu Hohenlohe Neuenstein, Serene Highness; the aged gentleman on the 20th of July still shot a piece of fir-wood in the game park, was seized on the 24th of the same month by the [uncertain: Rathlauf], which was an ordinary illness with him, and ended, through an apoplectic stroke that supervened, on the 27th early after 10 o'clock"
+   "en": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I most obediently report herewith that yesterday afternoon at 6 o'clock, by express courier, the news arrived of the decease of the reigning Prince of Hohenlohe-Neuenstein, His Serene Highness. The aged gentleman on the 20th of July still shot a piece of pine-wood [uncertain: Tanwald] in the deer park; on the 24th of the same month he was taken with the [uncertain: Rathlauf], which was a customary illness with him, and on the 27th, by a stroke of apoplexy which supervened, he ended\n\nearly, after 10 Rthl",
+   "names": [
+    {
+     "de": "Euer Hochwohlgebohren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    },
+    {
+     "de": "Hohenlohe Neuenstein",
+     "en": "Hohenlohe-Neuenstein",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "6",
+    "20ten",
+    "24ten",
+    "27",
+    "10"
+   ]
   },
   {
    "page": 2,
-   "en": "his pious and praiseworthy life. At Oehringen, as in all Hohenlohe places of this branch of the line, possession was at once taken, in accordance with the testament which has named my most gracious Prince sole heir of these fine lands — and town and country joyfully rendered the oath of fealty. Attempts were made on the part of the Princes zu Langenburg and Kirchberg to exercise [uncertain: geheliche] measures, grounded upon a certain misunderstood partition treaty; but manful resistance was offered by the [uncertain: Aufaenger] of the Ingelfingen side, the troops were turned back, and the Ingelfingen patents of taking possession"
+   "en": "his [uncertain: Fraues] and praiseworthy life. In Öhringen, as in all Hohenlohe places of this branch of the house, possession was at once taken, in accordance with the testament which has named my most gracious Prince sole heir of these fair lands, — and town and country joyfully rendered the oath of fealty. From the side of the Princes of Langenburg and Kirchberg an attempt was made to employ [uncertain: geheliche] measures, grounded upon a certain misunderstood partition treaty; but this was manfully resisted by the [uncertain: Aufaenger] of the Ingelfingen side, the troops were turned back, and the Ingelfingen patents of taking-possession",
+   "names": [
+    {
+     "de": "Oehringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "hohenlehischen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Langenburg",
+     "en": "Langenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Kirchberg",
+     "en": "Kirchberg",
+     "kind": "place"
+    },
+    {
+     "de": "Ingelfinger",
+     "en": "Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Ingelfingischen",
+     "en": "Ingelfingen",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "were posted up, and there too, where on the opposing side they permitted themselves — to post up theirs, these were taken down again and the Ingelfingen ones affixed in their place. Thus stands the whole affair at present — and the arrival of His Serene Highness is most ardently awaited there, as now lord of the most flourishing fields of Franconia. His Highness will also set out upon the journey thither in the month of September, once the Silesian [uncertain: Reonen] are concluded; how long the stay will last is still undecided; only that His Serene Highness now believes he must leave over all the South Prussian affairs the more to Your Right Honourable's wise discernment, since His Highness will again be away for a considerable while"
+   "en": "were posted up; and even where, on the opposing side, they had allowed themselves — to post up theirs, these were taken down again and Ingelfingen ones put up instead. Such is the state of the whole affair now — and there the arrival of His Serene Highness is most ardently awaited, as henceforth lord of the most flourishing fields of Franconia. His Highness will also set out upon the journey thither in the month of September, once the Silesian [uncertain: Reonen] are concluded; how long the stay will last is as yet undecided; only His Serene Highness now believes all the South Prussian affairs must the more be left to Your Right Honourable's wise discernment, since His Highness will once again be away for a considerable time.",
+   "names": [
+    {
+     "de": "Jugelfingische",
+     "en": "Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Frankens",
+     "en": "Franconia",
+     "kind": "place"
+    },
+    {
+     "de": "schleßischen",
+     "en": "Silesian",
+     "kind": "other"
+    },
+    {
+     "de": "südpreußischen",
+     "en": "South Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "Euer Hochwohlgebohren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "All this I have wished to report to the same as is my bounden duty, and permit myself only further to add the assurance of true veneration, in which I ever have the honour to be Your Right Honourable's\n\nBreslau, the 4th of August 1805\n\nhumble and obedient servant\nA. Hahn"
+   "en": "All this I have wished most dutifully to report to Your Honour, and permit myself only still to add the assurance of true veneration, in which I ever have the honour to be Your Right Honourable's\n\nBreslau, the 4th of August 1805\n\nhumble and obedient servant\n\nA. Hahn",
+   "names": [
+    {
+     "de": "Euer Hochwohlgebohren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "A. Hahn",
+     "en": "A. Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4ten",
+    "1805"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I hereby report most obediently that yesterday afternoon and at 6 o'clock, by express courier, the news arrived of the decease of the reigning Prince zu Hohenlohe Neuenstein, Serene Highness; the aged gentleman on the 20th of July still shot a piece of fir-wood in the game park, was seized on the 24th of the same month by the [uncertain: Rathlauf], which was an ordinary illness with him, and ended, through an apoplectic stroke that supervened, on the 27th early after 10 o'clock\n\nhis pious and praiseworthy life. At Oehringen, as in all Hohenlohe places of this branch of the line, possession was at once taken, in accordance with the testament which has named my most gracious Prince sole heir of these fine lands — and town and country joyfully rendered the oath of fealty. Attempts were made on the part of the Princes zu Langenburg and Kirchberg to exercise [uncertain: geheliche] measures, grounded upon a certain misunderstood partition treaty; but manful resistance was offered by the [uncertain: Aufaenger] of the Ingelfingen side, the troops were turned back, and the Ingelfingen patents of taking possession\n\nwere posted up, and there too, where on the opposing side they permitted themselves — to post up theirs, these were taken down again and the Ingelfingen ones affixed in their place. Thus stands the whole affair at present — and the arrival of His Serene Highness is most ardently awaited there, as now lord of the most flourishing fields of Franconia. His Highness will also set out upon the journey thither in the month of September, once the Silesian [uncertain: Reonen] are concluded; how long the stay will last is still undecided; only that His Serene Highness now believes he must leave over all the South Prussian affairs the more to Your Right Honourable's wise discernment, since His Highness will again be away for a considerable while\n\nAll this I have wished to report to the same as is my bounden duty, and permit myself only further to add the assurance of true veneration, in which I ever have the honour to be Your Right Honourable's\n\nBreslau, the 4th of August 1805\n\nhumble and obedient servant\nA. Hahn",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I most obediently report herewith that yesterday afternoon at 6 o'clock, by express courier, the news arrived of the decease of the reigning Prince of Hohenlohe-Neuenstein, His Serene Highness. The aged gentleman on the 20th of July still shot a piece of pine-wood [uncertain: Tanwald] in the deer park; on the 24th of the same month he was taken with the [uncertain: Rathlauf], which was a customary illness with him, and on the 27th, by a stroke of apoplexy which supervened, he ended\n\nearly, after 10 Rthl\n\nhis [uncertain: Fraues] and praiseworthy life. In Öhringen, as in all Hohenlohe places of this branch of the house, possession was at once taken, in accordance with the testament which has named my most gracious Prince sole heir of these fair lands, — and town and country joyfully rendered the oath of fealty. From the side of the Princes of Langenburg and Kirchberg an attempt was made to employ [uncertain: geheliche] measures, grounded upon a certain misunderstood partition treaty; but this was manfully resisted by the [uncertain: Aufaenger] of the Ingelfingen side, the troops were turned back, and the Ingelfingen patents of taking-possession\n\nwere posted up; and even where, on the opposing side, they had allowed themselves — to post up theirs, these were taken down again and Ingelfingen ones put up instead. Such is the state of the whole affair now — and there the arrival of His Serene Highness is most ardently awaited, as henceforth lord of the most flourishing fields of Franconia. His Highness will also set out upon the journey thither in the month of September, once the Silesian [uncertain: Reonen] are concluded; how long the stay will last is as yet undecided; only His Serene Highness now believes all the South Prussian affairs must the more be left to Your Right Honourable's wise discernment, since His Highness will once again be away for a considerable time.\n\nAll this I have wished most dutifully to report to Your Honour, and permit myself only still to add the assurance of true veneration, in which I ever have the honour to be Your Right Honourable's\n\nBreslau, the 4th of August 1805\n\nhumble and obedient servant\n\nA. Hahn",
  "summary_en": "News, received by express courier, of the death of the reigning Prince of Hohenlohe-Neuenstein, who shot in the deer park on 20 July, fell ill on the 24th and died of apoplexy on the 27th. Under his testament naming Hahn's Prince sole heir, possession was taken at Öhringen and elsewhere and oaths of fealty sworn; counter-measures by the Princes of Langenburg and Kirchberg were repulsed and their patents replaced. The Prince travels there in September, leaving the South Prussian affairs to Triebenfeld.",
  "summary_de": "Meldung vom Tod des regierenden Fürsten von Hohenlohe-Neuenstein: noch am 20. Juli habe der greise Herr im Tiergarten geschossen, am 24. sei er erkrankt, am 27. einem Schlagfluß erlegen. In Öhringen und allen Orten dieses Hauszweiges sei laut Testament, das den Fürsten zum Alleinerben einsetzt, sogleich Besitz ergriffen und der Huldigungseid geleistet worden; Gegenmaßnahmen der Fürsten von Langenburg und Kirchberg unter Berufung auf einen Theilungsvertrag seien abgewiesen, ihre Patente abgenommen und Ingelfinger angeschlagen worden. Die Reise nach Franken sei für September nach den schlesischen Terminen vorgesehen; die südpreußischen Geschäfte blieben Triebenfelds Einsicht überlassen."
 }

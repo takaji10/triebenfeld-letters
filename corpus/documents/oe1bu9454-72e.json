@@ -69,16 +69,64 @@
    "doc_line": 17
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warszawie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyna",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B. Brzechsta",
+   "kind": "person",
+   "surface_de": "B. Brzechsta",
+   "surface_en": "B. Brzechsta",
+   "page": 1
+  }
+ ],
  "place_canonical": "Warschau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "In Warsaw, the 5th of March [18]12. Dear Brother! I hasten to report that, owing to various affairs, I shall not be able to depart from Warsaw until the 15th of the present month. The matter concerning Trąbczyn, according to certain intelligence I have received, stands in a good position, which I shall explain more exactly upon my return. For shortness of time, since the opportunity [i.e. the post] is departing, I cannot write more. Keeping well, [uncertain: k]ony Brother! your friend B. Brzechsta"
+   "en": "In Warsaw, the 5th day of March [18]12. Dear Brother!\n\nI hasten to report that, on account of various matters of business, I shall not be able to depart from Warsaw until the 15th of the current month. The affair concerning Trąbczyn, according to certain intelligence I have received, stands in good posture, which upon my return I shall explain more fully. For want of time, since the conveyance is departing, I cannot write more.\n\nBe well\n\n[uncertain: k]ony Brother!\n\nfriend\n\nB. Brzechsta",
+   "names": [
+    {
+     "de": "Warszawie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyna",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "B. Brzechsta",
+     "en": "B. Brzechsta",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "18",
+    "12",
+    "15"
+   ]
   }
  ],
- "text_english": "In Warsaw, the 5th of March [18]12. Dear Brother! I hasten to report that, owing to various affairs, I shall not be able to depart from Warsaw until the 15th of the present month. The matter concerning Trąbczyn, according to certain intelligence I have received, stands in a good position, which I shall explain more exactly upon my return. For shortness of time, since the opportunity [i.e. the post] is departing, I cannot write more. Keeping well, [uncertain: k]ony Brother! your friend B. Brzechsta",
+ "text_english": "In Warsaw, the 5th day of March [18]12. Dear Brother!\n\nI hasten to report that, on account of various matters of business, I shall not be able to depart from Warsaw until the 15th of the current month. The affair concerning Trąbczyn, according to certain intelligence I have received, stands in good posture, which upon my return I shall explain more fully. For want of time, since the conveyance is departing, I cannot write more.\n\nBe well\n\n[uncertain: k]ony Brother!\n\nfriend\n\nB. Brzechsta",
  "summary_en": "A brief note from B. Brzechsta, written in haste as the post was leaving, announcing that various affairs will keep him in Warsaw until the 15th of the month. He reports, on the strength of reliable intelligence received, that the Trąbczyn matter stands well, and promises a fuller explanation in person on his return. Addressed to \"Dear Brother\"; the closing salutation is partly illegible.",
  "summary_de": "Kurze Mitteilung an den \"lieben Bruder\", dass verschiedene Geschäfte die Abreise aus Warschau bis zum 15. des Monats verzögern. Die Angelegenheit Trąbczyn stehe nach sicheren Nachrichten günstig; Näheres werde der Schreiber nach seiner Rückkehr mündlich erläutern. Wegen abgehender Gelegenheit (Post) und Zeitmangels bricht er ab. Unterzeichnet B. Brzechsta; die Grußformel vor der Anrede \"Bruder\" ist unsicher lesbar."
 }

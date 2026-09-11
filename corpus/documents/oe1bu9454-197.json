@@ -176,24 +176,360 @@
    "doc_line": 43
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Köckritz",
+   "kind": "person",
+   "surface_de": "General Köckritz",
+   "surface_en": "General Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von d. Lahr",
+   "kind": "person",
+   "surface_de": "v d Lahr",
+   "surface_en": "von d. Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "the Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Goldstuckes",
+   "kind": "person",
+   "surface_de": "Goldstuckes",
+   "surface_en": "Goldstuckes",
+   "page": 1
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strachwitz",
+   "kind": "person",
+   "surface_de": "Strachwitz",
+   "surface_en": "Strachwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hegener",
+   "kind": "person",
+   "surface_de": "Hegener",
+   "surface_en": "Hegener",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Olla bock",
+   "kind": "place",
+   "surface_de": "Olla bock",
+   "surface_en": "Olla bock",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konojader",
+   "kind": "place",
+   "surface_de": "Konojader[?]",
+   "surface_en": "Konojader",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Goldstücher",
+   "kind": "person",
+   "surface_de": "Gold stücher",
+   "surface_en": "Goldstücher",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ollaboch",
+   "kind": "place",
+   "surface_de": "Ollaboch",
+   "surface_en": "Ollaboch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Tismar",
+   "kind": "person",
+   "surface_de": "Tismar",
+   "surface_en": "Tismar",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritzens",
+   "surface_en": "Köckritz",
+   "page": 3
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 3
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sack",
+   "kind": "person",
+   "surface_de": "Sack",
+   "surface_en": "Sack",
+   "page": 3
+  }
+ ],
  "place_canonical": "Ollaboch",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! My judge is this very moment returned from Berlin with the glad news that the two General Köckritz have had von d. Lahr roundly ordered to be silent and has most humbly declared himself willing to wait that year. He will also speak with the Gl. Etats people, so that patience shall be exercised in the matter of the interest payments to the Invalids' Fund. Now, since I am once in Poland, I shall set the affairs at Kalisz in the best possible train and then return to Breslau. To Goldstuckes and Flesch I am writing this very moment to bring the barter transaction as far as possible into its track — For the rest, the want of money is greater here than with us, and I can promise nothing — Would to God the transaction came about. I have found here an old friend who knows how to paint hell to Strachwitz as the fairest paradise; he shall talk Strachwitz into everything — It is the Chief Bailiff Hegener from Ollaboch — He is also to revise everything at Zagorowo — He will do this without interest, for he is a noble Prussian and an admirer of Your Serene Highness. I would now press forward with the Trąbczyn affair furiore and likewise set the Konojader[?] business in train, so that the whole forms one piece and"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy judge has just returned from Berlin with the glad news that the two [of them], General Köckritz, has had von d. Lahr referred to rest [uncertain reading] and has most humbly declared himself willing to wait that year. He will also speak with the general treasury officials, so that patience shall be exercised regarding the interest payments to the Invalids' Fund. Now, since I am once in Poland, I shall set the affairs in Kalisz in the best train and then return to Breslau. To Goldstuckes and Flesch I am writing this very moment to bring the exchange transaction into the right track as far as possible — For the rest, the want of money is greater here than with us and I can promise nothing - Would to God the transaction came about. I have found an old friend here who knows how to paint hell to Strachwitz as the fairest paradise; he shall get everything ready for Strachwitz in advance — It is the senior district administrator Hegener from Olla bock - He is also to inspect everything in Zagorowo - He will do this without self-interest, for he is a noble Prussian and an admirer of Your Serene Highness. I would now proceed with the Trąbczyn matter with fury, and also set in train the Konojader[?] business, so that the whole forms one piece and",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "General Köckritz",
+     "en": "General Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "v d Lahr",
+     "en": "von d. Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "the Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Goldstuckes",
+     "en": "Goldstuckes",
+     "kind": "person"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Strachwitz",
+     "en": "Strachwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Hegener",
+     "en": "Hegener",
+     "kind": "person"
+    },
+    {
+     "de": "Olla bock",
+     "en": "Olla bock",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Konojader[?]",
+     "en": "Konojader",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "gains a good appearance — Only let Your Serene Highness press the Goldstücher, that he bring the barter transaction about. In deepest reverence I remain, until death, Your Serene Highness's\nOllaboch, the 31st of May 1810.\nfaithful humble and obedient servant\nv Triebenfeld"
+   "en": "a good appearance is [uncertain: won] — Only let Your Serene Highness press upon Goldstücher that he bring the exchange transaction about. In [uncertain: utmost] respect I remain, until death, Your Serene Highness's. Ollaboch\n\nthe 31st of May\n\n1810.\n\nfaithful, humble and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Gold stücher",
+     "en": "Goldstücher",
+     "kind": "person"
+    },
+    {
+     "de": "Ollaboch",
+     "en": "Ollaboch",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "1810"
+   ]
   },
   {
    "page": 3,
-   "en": "just now I read a letter of the Privy Councillor Tismar, who is at present the bosom friend of Köckritz — he says: What sort of hullabaloo are you making — Lahr swears high and dear that he knows nothing of it. He knows only too well that you are a well-to-do man — he has indeed satisfied himself of it in person on your estates, at a timber sale transacted on the demesne farm. It must be that his attorney, or some other hostile creature, has misused his name — He is very angry at the dressing-down received from the General — Do you [uncertain: Auf du ihm] set him at ease, etc. I am now convinced to the highest certainty that this was a piece of knavery by Flesch and consorts, in order to frighten [me] away from Breslau too. But I shall learn it for certain, and then woe to the knaves — It is only good that Köckritz speaks with Sack, and that I thereby gain quiet — The world sees after all that I still have good friends —"
+   "en": "just now I am reading a letter from the privy councillor Tismar, who is now the bosom friend of Köckritz - he says: What sort of hullabaloo are you making - Lahr swears high and dear that he knows nothing of it. He knows only too well that you are a well-to-do man - He has indeed convinced himself of it personally on your estates, in the case of a timber sale [uncertain: transacted] at a demesne farm. It must be that his attorney or some other hostile creature has misused his name - He is very angry at the dressing-down received from the General - So calm him down, etc.\n\nI am now convinced to the highest degree of certainty that this was a piece of knavery by Flesch and his confederates, in order also to frighten [me] away from Breslau. But I shall find it out for certain, and then woe to the rogues- It is only good that Köckritz speaks with Sack, and that I thereby gain peace - The world sees after all that I still have good friends -",
+   "names": [
+    {
+     "de": "Tismar",
+     "en": "Tismar",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritzens",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Sack",
+     "en": "Sack",
+     "kind": "person"
+    }
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! My judge is this very moment returned from Berlin with the glad news that the two General Köckritz have had von d. Lahr roundly ordered to be silent and has most humbly declared himself willing to wait that year. He will also speak with the Gl. Etats people, so that patience shall be exercised in the matter of the interest payments to the Invalids' Fund. Now, since I am once in Poland, I shall set the affairs at Kalisz in the best possible train and then return to Breslau. To Goldstuckes and Flesch I am writing this very moment to bring the barter transaction as far as possible into its track — For the rest, the want of money is greater here than with us, and I can promise nothing — Would to God the transaction came about. I have found here an old friend who knows how to paint hell to Strachwitz as the fairest paradise; he shall talk Strachwitz into everything — It is the Chief Bailiff Hegener from Ollaboch — He is also to revise everything at Zagorowo — He will do this without interest, for he is a noble Prussian and an admirer of Your Serene Highness. I would now press forward with the Trąbczyn affair furiore and likewise set the Konojader[?] business in train, so that the whole forms one piece and\n\ngains a good appearance — Only let Your Serene Highness press the Goldstücher, that he bring the barter transaction about. In deepest reverence I remain, until death, Your Serene Highness's\nOllaboch, the 31st of May 1810.\nfaithful humble and obedient servant\nv Triebenfeld\n\njust now I read a letter of the Privy Councillor Tismar, who is at present the bosom friend of Köckritz — he says: What sort of hullabaloo are you making — Lahr swears high and dear that he knows nothing of it. He knows only too well that you are a well-to-do man — he has indeed satisfied himself of it in person on your estates, at a timber sale transacted on the demesne farm. It must be that his attorney, or some other hostile creature, has misused his name — He is very angry at the dressing-down received from the General — Do you [uncertain: Auf du ihm] set him at ease, etc. I am now convinced to the highest certainty that this was a piece of knavery by Flesch and consorts, in order to frighten [me] away from Breslau too. But I shall learn it for certain, and then woe to the knaves — It is only good that Köckritz speaks with Sack, and that I thereby gain quiet — The world sees after all that I still have good friends —",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy judge has just returned from Berlin with the glad news that the two [of them], General Köckritz, has had von d. Lahr referred to rest [uncertain reading] and has most humbly declared himself willing to wait that year. He will also speak with the general treasury officials, so that patience shall be exercised regarding the interest payments to the Invalids' Fund. Now, since I am once in Poland, I shall set the affairs in Kalisz in the best train and then return to Breslau. To Goldstuckes and Flesch I am writing this very moment to bring the exchange transaction into the right track as far as possible — For the rest, the want of money is greater here than with us and I can promise nothing - Would to God the transaction came about. I have found an old friend here who knows how to paint hell to Strachwitz as the fairest paradise; he shall get everything ready for Strachwitz in advance — It is the senior district administrator Hegener from Olla bock - He is also to inspect everything in Zagorowo - He will do this without self-interest, for he is a noble Prussian and an admirer of Your Serene Highness. I would now proceed with the Trąbczyn matter with fury, and also set in train the Konojader[?] business, so that the whole forms one piece and\n\na good appearance is [uncertain: won] — Only let Your Serene Highness press upon Goldstücher that he bring the exchange transaction about. In [uncertain: utmost] respect I remain, until death, Your Serene Highness's. Ollaboch\n\nthe 31st of May\n\n1810.\n\nfaithful, humble and obedient servant v Triebenfeld\n\njust now I am reading a letter from the privy councillor Tismar, who is now the bosom friend of Köckritz - he says: What sort of hullabaloo are you making - Lahr swears high and dear that he knows nothing of it. He knows only too well that you are a well-to-do man - He has indeed convinced himself of it personally on your estates, in the case of a timber sale [uncertain: transacted] at a demesne farm. It must be that his attorney or some other hostile creature has misused his name - He is very angry at the dressing-down received from the General - So calm him down, etc.\n\nI am now convinced to the highest degree of certainty that this was a piece of knavery by Flesch and his confederates, in order also to frighten [me] away from Breslau. But I shall find it out for certain, and then woe to the rogues- It is only good that Köckritz speaks with Sack, and that I thereby gain peace - The world sees after all that I still have good friends -",
  "summary_en": "Reports that his judge has returned from Berlin with news that the two General Köckritz have silenced von d. Lahr, who will wait a year, and will speak to the Gl. Etats officials about forbearance over interest due to the Invalids' Fund. Triebenfeld will settle affairs at Kalisz before returning to Breslau, urges the Prince to press Goldstücher over the barter transaction, and reports engaging Chief Bailiff Hegener of Ollaboch to work on Strachwitz and to revise matters at Zagorowo, while pushing the Trąbczyn and Konojader business. A postscript quotes Privy Councillor Tismar's letter denying Lahr's involvement, which Triebenfeld ascribes to knavery by Flesch and consorts.",
  "summary_de": "Bericht über die Rückkehr seines Justitiars aus Berlin: die beiden General Köckritz hätten von d. Lahr Schweigen auferlegt und Aufschub um ein Jahr erlangt; auch bei den Gl. Etats-Leuten solle wegen der Zinsen an den Invalidenfonds Geduld erwirkt werden. Triebenfeld will die Geschäfte in Kalisch ordnen, dann nach Breslau zurückkehren, drängt Goldstücher und Flesch zum Tauschgeschäft und setzt auf Oberamtmann Hegener aus Ollaboch, der Strachwitz überreden und Zagorowo unentgeltlich revidieren soll; Trąbczyn und Konojader sollen nachdrücklich vorangetrieben werden. Nachschrift: nach einem Brief des Geheimrats Tismar leugnet Lahr alles; Triebenfeld vermutet eine Intrige von Flesch und Konsorten."
 }

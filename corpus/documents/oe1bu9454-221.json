@@ -288,20 +288,535 @@
    "doc_line": 85
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zago rower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "stossel",
+   "display": "Stossel",
+   "kind": "person",
+   "surface_de": "Stosseln",
+   "surface_en": "Stossel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stösseln",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössels",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Leopold von Wartensleben",
+   "kind": "person",
+   "surface_de": "Leopold v Wartensleben",
+   "surface_en": "Leopold von Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "wartensleben",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartensleben",
+   "surface_en": "Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartenslebensche",
+   "surface_en": "Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "König",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "König",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Heymen",
+   "kind": "person",
+   "surface_de": "Heymen",
+   "surface_en": "Heymen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sendralzki",
+   "kind": "person",
+   "surface_de": "Sendralzki",
+   "surface_en": "Sendralzki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pila",
+   "kind": "place",
+   "surface_de": "Pilaer",
+   "surface_en": "Pila",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pila",
+   "kind": "place",
+   "surface_de": "Pila",
+   "surface_en": "Pila",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koschentin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koschentin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curische",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Constadt",
+   "kind": "place",
+   "surface_de": "Constadt",
+   "surface_en": "Constadt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schurgast",
+   "kind": "place",
+   "surface_de": "Schurgast",
+   "surface_en": "Schurgast",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pila",
+   "kind": "place",
+   "surface_de": "Pilaer",
+   "surface_en": "Pila",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pila",
+   "kind": "place",
+   "surface_de": "Pila",
+   "surface_en": "Pila",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sandrelzki",
+   "kind": "person",
+   "surface_de": "Sandrelzki",
+   "surface_en": "Sandrelzki",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 2
+  },
+  {
+   "entity": "stossel",
+   "display": "Stossel",
+   "kind": "person",
+   "surface_de": "Stossel",
+   "surface_en": "Stossel",
+   "page": 2
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Leopold Wartensleben",
+   "kind": "person",
+   "surface_de": "Leopold Wartensleben",
+   "surface_en": "Leopold Wartensleben",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russinowitz",
+   "kind": "place",
+   "surface_de": "Russinowitz",
+   "surface_en": "Russinowitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlimmeraus",
+   "kind": "place",
+   "surface_de": "Schlimmeraus",
+   "surface_en": "Schlimmeraus",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Your Serene Highness [uncertain: commanded] that 18000 Rthl are to be sent to you from the Zagorow estates. It pains me more than sorely to have to tell Your Serene Highness that for the present this cannot be done. The prospect is there that 2 lawsuits will shortly be won, but until that happens nothing is to be got out of the estates. On my knees I shall thank God if only the Christmas interest is paid, so that the moratorium remains in force. For the rest, I have by the most direct route set in train the matter of the alienation of the Zagorow estates to Stossel. Count Leopold v Wartensleben has been with me together with young Stössel. They have viewed the estates, and Wartensleben, who has every influence over Stossel (for he is Stössel's son-in-law), has gone to Breslau to get the business onto the rails. My plan is the one Sub Litt A, and Wartensleben's the one Sub B. I await hourly the declaration of the two old fellows. A certain Chief Bailiff König I have sent to Breslau on that account, to bring Heymen round. König has at the same time travelled to [uncertain: Ge Sendralzki], who may perhaps exchange with me, Blizanow against the Pila estates - the business goes better, for Weigel will not take Blizanow so willingly as the estates over there, and Weigel must in my opinion be fetched away and at the same time be settled with along with Stossel. Then Koschentin is saved – you will then have 60000 Rthl on Koschentin; these must be given to you out of the monies designated for the entailed estate, and with them you pay all your debts and still keep a large sum over. Out of another matter perhaps so much will come to you that you can pay the Curische sum - the how, and the where, by word of mouth. If all succeeds, you will yet live quietly and happily. With Constadt it is nothing - I have viewed the nest, I shall have nothing further to do with it – even Schurgast is a watery hovel and too dear - With Pila it would be best. I hold my Blizanow at 127000 Rthl; 27000 Rthl stand upon it and consequently there remain 100000"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Serene Highness [uncertain: bestohlen] that 18000 Rthl are to be sent to you from the Zagorowo estates. It pains me more than grievously to have to tell Your Serene Highness that for the present this cannot be done. There is a prospect that 2 lawsuits will shortly be won, but until that happens nothing can be got out of the estates. On my knees I shall thank God if only the Christmas interest is paid, so that the moratorium remains in force. For the rest, I have by the most direct route set in train the matter of the alienation of the Zagorowo estates to Stossel.\n\nCount Leopold von Wartensleben has been with me together with young Stössel. They have viewed the estates, and Wartensleben, who has every influence over Stössel (for he is Stössel's son-in-law), has gone to Breslau to bring the business onto its tracks.\n\nMy plan is the one under Letter A, and Wartensleben's the one under B. I await at every hour the declaration of the two old fellows. A certain Chief District Administrator König I have sent to Breslau on this account, to put [uncertain: Heymen] in the right frame of mind.\n\nKönig has at the same time travelled to Count Sendralzki, who may perhaps exchange with me, Blizanow against the Pila estates — the business goes better, for Weigel will not take Blizanow so willingly as the estates there, and Weigel must in my opinion be [uncertain: abholen] settled with at the same time as Stössel. Then Koschentin is saved – you then have 60000 Rthl in Koschentin; these must be given to you out of the monies designated for the entailed estate, and with them you pay all your debts and still have a large sum left over. From another matter you will perhaps get so much that you can pay the Courland sum — the how and the where, by word of mouth. If all succeeds, you will yet live quietly and happily. With Constadt there is nothing to be done — I have viewed the nest, and I will have nothing further to do with it – even Schurgast is a waterlogged hovel and too dear — with Pila it would be best. I hold my Blizanow at 127000 Rthl; 27000 Rthl stand upon it, and consequently 100000 remain.",
+   "names": [
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Zago rower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Stosseln",
+     "en": "Stossel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Stösseln",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössels",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Leopold v Wartensleben",
+     "en": "Leopold von Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Wartensleben",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Wartenslebensche",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "König",
+     "en": "König",
+     "kind": "person"
+    },
+    {
+     "de": "Heymen",
+     "en": "Heymen",
+     "kind": "person"
+    },
+    {
+     "de": "Sendralzki",
+     "en": "Sendralzki",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Pilaer",
+     "en": "Pila",
+     "kind": "place"
+    },
+    {
+     "de": "Pila",
+     "en": "Pila",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koschentin",
+     "kind": "place"
+    },
+    {
+     "de": "Curische",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Constadt",
+     "en": "Constadt",
+     "kind": "place"
+    },
+    {
+     "de": "Schurgast",
+     "en": "Schurgast",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "18000",
+    "2",
+    "60000",
+    "127000",
+    "27000",
+    "100000"
+   ]
   },
   {
    "page": 2,
-   "en": "The Pila estates Sandrelzki holds at 250000 Rthl; upon them stand 125000 Rthl of debt, there remain clear 125000; consequently Sandrelzki receives (if the matter goes so) a further 25000 Rthl, and these he wants at once in cash, and these Weigel would have to give; also something could be added to it out of the Zagorow arrears, if the lawsuits are [uncertain: taken], to be taken. In any event Weigel receives by this route 100000 Rthl. Upon Zagorowo he has 52500 standing. Stossel remains owing, to be made good. 20000. Weigel would have still to receive 17500 Rthl. That is 190000 Rthl. Stössel must, as the plan sub A shows, take the Zagorow estates. But he demands, as Leopold Wartensleben says, that Russinowitz be taken along with them, because both families want to move out of [uncertain: Schlimmeraus] and into Poland. In this manner Stössel receives, if he really has so much to claim, 280000; that amounts to 470000 Rthl. These will be covered: 1. For Zagorowo 30000. 2. For Weigel entered there, 12500. 3. through Blizanow or [uncertain: Pielen] 10000. 4. through payment in addition of the 17500. That is 470000 Rthl. If all this goes happily and is brought to an end, then after this day's work I shall come to you, best of Princes, and live and die with you - the 100000 Rthl, as well as what I have already given on and for the [text lost], you will repay me afterwards in instalments, so that it [uncertain: falls burdensome] to you and to Prince August. With most faithful attachment and the deepest reverence I remain, until death, Your Serene Highness's — May Your Serene Highness deign to send the papers back to me; I have [uncertain: no] writing. This moment I am at the writing; I must again to Neisse. Blizanow, the 20th of 9br 1811. faithful most humble and obedient servant v Triebenfeld"
+   "en": "Sandrelzki holds the Pila estates at 250000 Rthl; 125000 Rthl of debts stand upon them, leaving 125000 clear; consequently Sandrelzki receives (if the matter goes thus) a further 25000 Rthl, which he wants at once in cash, and this Weigel would have to provide; something towards it could also be taken from the Zagorowo arrears once the lawsuits are [uncertain: taken]. In any event Weigel receives by this route 100000 Rthl. On Zagorowo he has 52500 standing. Stossel remains owing to be compensated. 20000. Weigel would still have to receive 17500 Rthl.\n\nMakes 190000 Rthl. Stössel must, as the plan under A shows, take the Zagorowo estates. But he demands, as Leopold Wartensleben says, that Russinowitz be taken along with them, because both families wish to move out of [uncertain: Schlimmeraus] and into Poland. In this way Stössel receives, if he really has so much to claim, 280000\n\nwhich amounts to\n\n470000 Rthl. These are covered: 1. For Zagorowo\n\n30000\n\n2. For Weigel, entered there, 12500. 3. Through Blizanow or Pila 10000. 4. By the additional payment of the 17500.\n\nMakes\n\n470000 Rthl. If all this goes happily and is brought to an end, then after these days' work I shall come to you, best of Princes, and live and die with you — the 100000 Rthl, as well as what I have already given on account and for [text lost] you will repay me thereafter in instalments, so that it falls burdensome to me, to you, and to Prince August. With most faithful attachment and the deepest reverence I remain, until death,\n\nYour Serene Highness's — May Your Serene Highness be pleased to send the papers back to me; I have [uncertain: kannen] letter. This moment I am at my writing; I must go to Neisse again.\n\nBlizanow\n\nthe 20th of November 1811.\n\nmost faithful and humble bondsman v Triebenfeld",
+   "names": [
+    {
+     "de": "Pilaer",
+     "en": "Pila",
+     "kind": "place"
+    },
+    {
+     "de": "Pila",
+     "en": "Pila",
+     "kind": "place"
+    },
+    {
+     "de": "Sandrelzki",
+     "en": "Sandrelzki",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Stossel",
+     "en": "Stossel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Leopold Wartensleben",
+     "en": "Leopold Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Russinowitz",
+     "en": "Russinowitz",
+     "kind": "place"
+    },
+    {
+     "de": "Schlimmeraus",
+     "en": "Schlimmeraus",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "250000",
+    "125000",
+    "125000",
+    "25000",
+    "100000",
+    "52500",
+    "20000",
+    "17500",
+    "190000",
+    "280000",
+    "470000",
+    "30000",
+    "12500",
+    "10000",
+    "17500",
+    "470000",
+    "100000",
+    "20ten",
+    "1811"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Your Serene Highness [uncertain: commanded] that 18000 Rthl are to be sent to you from the Zagorow estates. It pains me more than sorely to have to tell Your Serene Highness that for the present this cannot be done. The prospect is there that 2 lawsuits will shortly be won, but until that happens nothing is to be got out of the estates. On my knees I shall thank God if only the Christmas interest is paid, so that the moratorium remains in force. For the rest, I have by the most direct route set in train the matter of the alienation of the Zagorow estates to Stossel. Count Leopold v Wartensleben has been with me together with young Stössel. They have viewed the estates, and Wartensleben, who has every influence over Stossel (for he is Stössel's son-in-law), has gone to Breslau to get the business onto the rails. My plan is the one Sub Litt A, and Wartensleben's the one Sub B. I await hourly the declaration of the two old fellows. A certain Chief Bailiff König I have sent to Breslau on that account, to bring Heymen round. König has at the same time travelled to [uncertain: Ge Sendralzki], who may perhaps exchange with me, Blizanow against the Pila estates - the business goes better, for Weigel will not take Blizanow so willingly as the estates over there, and Weigel must in my opinion be fetched away and at the same time be settled with along with Stossel. Then Koschentin is saved – you will then have 60000 Rthl on Koschentin; these must be given to you out of the monies designated for the entailed estate, and with them you pay all your debts and still keep a large sum over. Out of another matter perhaps so much will come to you that you can pay the Curische sum - the how, and the where, by word of mouth. If all succeeds, you will yet live quietly and happily. With Constadt it is nothing - I have viewed the nest, I shall have nothing further to do with it – even Schurgast is a watery hovel and too dear - With Pila it would be best. I hold my Blizanow at 127000 Rthl; 27000 Rthl stand upon it and consequently there remain 100000\n\nThe Pila estates Sandrelzki holds at 250000 Rthl; upon them stand 125000 Rthl of debt, there remain clear 125000; consequently Sandrelzki receives (if the matter goes so) a further 25000 Rthl, and these he wants at once in cash, and these Weigel would have to give; also something could be added to it out of the Zagorow arrears, if the lawsuits are [uncertain: taken], to be taken. In any event Weigel receives by this route 100000 Rthl. Upon Zagorowo he has 52500 standing. Stossel remains owing, to be made good. 20000. Weigel would have still to receive 17500 Rthl. That is 190000 Rthl. Stössel must, as the plan sub A shows, take the Zagorow estates. But he demands, as Leopold Wartensleben says, that Russinowitz be taken along with them, because both families want to move out of [uncertain: Schlimmeraus] and into Poland. In this manner Stössel receives, if he really has so much to claim, 280000; that amounts to 470000 Rthl. These will be covered: 1. For Zagorowo 30000. 2. For Weigel entered there, 12500. 3. through Blizanow or [uncertain: Pielen] 10000. 4. through payment in addition of the 17500. That is 470000 Rthl. If all this goes happily and is brought to an end, then after this day's work I shall come to you, best of Princes, and live and die with you - the 100000 Rthl, as well as what I have already given on and for the [text lost], you will repay me afterwards in instalments, so that it [uncertain: falls burdensome] to you and to Prince August. With most faithful attachment and the deepest reverence I remain, until death, Your Serene Highness's — May Your Serene Highness deign to send the papers back to me; I have [uncertain: no] writing. This moment I am at the writing; I must again to Neisse. Blizanow, the 20th of 9br 1811. faithful most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Serene Highness [uncertain: bestohlen] that 18000 Rthl are to be sent to you from the Zagorowo estates. It pains me more than grievously to have to tell Your Serene Highness that for the present this cannot be done. There is a prospect that 2 lawsuits will shortly be won, but until that happens nothing can be got out of the estates. On my knees I shall thank God if only the Christmas interest is paid, so that the moratorium remains in force. For the rest, I have by the most direct route set in train the matter of the alienation of the Zagorowo estates to Stossel.\n\nCount Leopold von Wartensleben has been with me together with young Stössel. They have viewed the estates, and Wartensleben, who has every influence over Stössel (for he is Stössel's son-in-law), has gone to Breslau to bring the business onto its tracks.\n\nMy plan is the one under Letter A, and Wartensleben's the one under B. I await at every hour the declaration of the two old fellows. A certain Chief District Administrator König I have sent to Breslau on this account, to put [uncertain: Heymen] in the right frame of mind.\n\nKönig has at the same time travelled to Count Sendralzki, who may perhaps exchange with me, Blizanow against the Pila estates — the business goes better, for Weigel will not take Blizanow so willingly as the estates there, and Weigel must in my opinion be [uncertain: abholen] settled with at the same time as Stössel. Then Koschentin is saved – you then have 60000 Rthl in Koschentin; these must be given to you out of the monies designated for the entailed estate, and with them you pay all your debts and still have a large sum left over. From another matter you will perhaps get so much that you can pay the Courland sum — the how and the where, by word of mouth. If all succeeds, you will yet live quietly and happily. With Constadt there is nothing to be done — I have viewed the nest, and I will have nothing further to do with it – even Schurgast is a waterlogged hovel and too dear — with Pila it would be best. I hold my Blizanow at 127000 Rthl; 27000 Rthl stand upon it, and consequently 100000 remain.\n\nSandrelzki holds the Pila estates at 250000 Rthl; 125000 Rthl of debts stand upon them, leaving 125000 clear; consequently Sandrelzki receives (if the matter goes thus) a further 25000 Rthl, which he wants at once in cash, and this Weigel would have to provide; something towards it could also be taken from the Zagorowo arrears once the lawsuits are [uncertain: taken]. In any event Weigel receives by this route 100000 Rthl. On Zagorowo he has 52500 standing. Stossel remains owing to be compensated. 20000. Weigel would still have to receive 17500 Rthl.\n\nMakes 190000 Rthl. Stössel must, as the plan under A shows, take the Zagorowo estates. But he demands, as Leopold Wartensleben says, that Russinowitz be taken along with them, because both families wish to move out of [uncertain: Schlimmeraus] and into Poland. In this way Stössel receives, if he really has so much to claim, 280000\n\nwhich amounts to\n\n470000 Rthl. These are covered: 1. For Zagorowo\n\n30000\n\n2. For Weigel, entered there, 12500. 3. Through Blizanow or Pila 10000. 4. By the additional payment of the 17500.\n\nMakes\n\n470000 Rthl. If all this goes happily and is brought to an end, then after these days' work I shall come to you, best of Princes, and live and die with you — the 100000 Rthl, as well as what I have already given on account and for [text lost] you will repay me thereafter in instalments, so that it falls burdensome to me, to you, and to Prince August. With most faithful attachment and the deepest reverence I remain, until death,\n\nYour Serene Highness's — May Your Serene Highness be pleased to send the papers back to me; I have [uncertain: kannen] letter. This moment I am at my writing; I must go to Neisse again.\n\nBlizanow\n\nthe 20th of November 1811.\n\nmost faithful and humble bondsman v Triebenfeld",
  "summary_en": "Reports that the 18000 Rthl requested from the Zagorow estates cannot be raised; two pending lawsuits offer the only prospect, and he hopes merely that the Christmas interest is paid so the moratorium holds. Sets out rival plans (sub A and sub B) for alienating Zagorowo to Stössel, with Count Leopold v Wartensleben, Weigel, Sandrelzki and an exchange of Blizanow for the Pila estates, tabulating claims to 470000 Rthl; rejects Constadt and Schurgast, and asks for his papers back.",
  "summary_de": "Die verlangten 18000 Rthl aus den Zagorower Gütern können vorerst nicht übersandt werden; erhofft wird nur die Zahlung der Weihnachtszinsen zur Erhaltung des Moratoriums. Berichtet über die eingeleitete Veräußerung Zagorows an Stossel, die Vermittlung des Grafen Leopold v. Wartensleben und Oberamtmann Königs Reise nach Breslau zu Heymen, einen möglichen Tausch Blizanow (127000 Rthl) gegen die Pila-Güter Sandrelzkis (250000 Rthl), Ablösung Weigels und Rettung Koschentins mit 60000 Rthl; Constadt und Schurgast werden verworfen. Bittet um Rücksendung der Papiere."
 }

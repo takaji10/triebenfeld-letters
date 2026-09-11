@@ -1,12 +1,45 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince! Most gracious Prince and Lord! Your Most Serene Highness has had the graciousness
-    to inform me of the outcome of the compensation matter concerning Your Highness. Since Your Most Serene
-    Highness most highly declares yourself satisfied with the manner in which this business has been concluded,
-    there remains for me no further wish
+  en: 'Most Serene Prince!
+
+
+    Most gracious Prince and Lord!
+
+
+    Your Most Serene Highness has had the graciousness to inform me of the outcome of the matter of indemnification
+    concerning Your Most Serene Highness.
+
+
+    Since Your Most Serene Highness is pleased most highly to declare Yourself satisfied with the manner
+    in which this business has been concluded, there remains nothing further for me [uncertain: wish]'
+  names:
+  - de: Ew. Hochfürstlichen Durchlaucht
+    en: Your Most Serene Highness
+    kind: other
 - page: 2
-  en: but this, that the continuing grace of His Majesty the King toward Your Most Serene Highness be
-    as boundless as Your Highness's merits toward the State may perhaps be. It is with the most distinguished
-    reverence and devotion that I have the honour to name myself, Your Most Serene Highness's most humble
-    and obedient servant. Berlin, the 20th of October 1804. Amelang
+  en: 'than this: that the continuing grace of His Majesty the King towards Your Most Serene Highness
+    may be as [uncertain: boundless] as Your Most High merits towards the State may be. It is with the
+    most distinguished reverence and devotion that I have the honour to name myself,
+
+
+    Your Most Serene Highness''s most humble and obedient servant. Berlin, the 20th of October 1804. Amelang'
+  names:
+  - de: Sr. Mayestät als Königs
+    en: His Majesty the King
+    kind: person
+  - de: Ew. Hochsturfftigen Durchlaucht
+    en: Your Most Serene Highness
+    kind: other
+  - de: Er. Hochfürstlichen Durchlaucht
+    en: Your Most Serene Highness
+    kind: other
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Amelang
+    en: Amelang
+    kind: person
+  numbers:
+  - '20'
+  - '1804'

@@ -66,16 +66,100 @@
    "doc_line": 14
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nogeln",
+   "kind": "person",
+   "surface_de": "Nogeln",
+   "surface_en": "Nogeln",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nageln",
+   "kind": "person",
+   "surface_de": "Nageln",
+   "surface_en": "Nageln",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radzowski",
+   "kind": "person",
+   "surface_de": "Radzowski",
+   "surface_en": "Radzowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radzewski",
+   "kind": "person",
+   "surface_de": "Radzewski",
+   "surface_en": "Radzewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "P. M. It is necessary that at Zagorowo a Chief Forester be appointed – I had designated the old Richter's son, and at the brew[text lost] my distillery the Nogeln's nephew as propination official; but the Richter must now administer the latter, because the Nageln has recalled her nephew – So, as said above, a Chief Forester is necessary – if Your Serene Highness wishes to help the poor Radzowski, then deign to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your opinion concerning the baptism of the estates, with\nv Triebenfeld"
+   "en": "P. M.\n\nIt is necessary that a head forester be appointed in Zagorowo – I had designated the old judge's son, and at the brew[text lost] my distillery the Nogeln's nephew as officer of the propination rights; but the judge must now administer the latter, because the Nageln has recalled her nephew – So, as said above, a head forester is necessary – if Your Serene Highness wishes to help poor Radzowski, then be pleased to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your opinion concerning the baptism of the estates as well\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Nogeln",
+     "en": "Nogeln",
+     "kind": "person"
+    },
+    {
+     "de": "Nageln",
+     "en": "Nageln",
+     "kind": "person"
+    },
+    {
+     "de": "Radzowski",
+     "en": "Radzowski",
+     "kind": "person"
+    },
+    {
+     "de": "Radzewski",
+     "en": "Radzewski",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "300"
+   ]
   }
  ],
- "text_english": "P. M. It is necessary that at Zagorowo a Chief Forester be appointed – I had designated the old Richter's son, and at the brew[text lost] my distillery the Nogeln's nephew as propination official; but the Richter must now administer the latter, because the Nageln has recalled her nephew – So, as said above, a Chief Forester is necessary – if Your Serene Highness wishes to help the poor Radzowski, then deign to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your opinion concerning the baptism of the estates, with\nv Triebenfeld",
+ "text_english": "P. M.\n\nIt is necessary that a head forester be appointed in Zagorowo – I had designated the old judge's son, and at the brew[text lost] my distillery the Nogeln's nephew as officer of the propination rights; but the judge must now administer the latter, because the Nageln has recalled her nephew – So, as said above, a head forester is necessary – if Your Serene Highness wishes to help poor Radzowski, then be pleased to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your opinion concerning the baptism of the estates as well\n\nv Triebenfeld",
  "summary_en": "A postscript reporting that a Chief Forester must be appointed at Zagorowo: old Richter's son had been designated, and the Nogeln's nephew as propination official at the distillery, but since the Nageln has recalled her nephew, Richter must take that post instead. Proposes the impoverished Radzowski (Radzewski) for the forestry place at 300 Rthl yearly and urges that he be sent quickly, together with the Prince's opinion on the baptism of the estates.",
  "summary_de": "Für Zagorowo wird die Anstellung eines Oberförsters als notwendig dargestellt: vorgesehen war der Sohn des alten Richter, während der Neffe der Nogeln (Nageln) das Propinationsamt bei der Brauerei bzw. Brennerei übernehmen sollte; da die Nageln ihren Neffen zurückgerufen hat, muß nun Richter dieses Amt verwalten. Vorgeschlagen wird, dem armen Radzowski (Radzewski) mit 300 Rthl jährlich zu helfen und ihn eilends herzuschicken; zugleich wird die Meinung des Fürsten zur \"Taufe\" der Güter erbeten."
 }

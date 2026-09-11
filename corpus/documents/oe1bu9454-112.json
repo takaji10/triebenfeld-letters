@@ -115,20 +115,215 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wünster",
+   "kind": "person",
+   "surface_de": "Wünster",
+   "surface_en": "Wünster",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wildegansch",
+   "kind": "person",
+   "surface_de": "Wildegansch",
+   "surface_en": "Wildegansch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Heymann",
+   "kind": "person",
+   "surface_de": "Heymann",
+   "surface_en": "Heymann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wildegens",
+   "kind": "person",
+   "surface_de": "Wildegens",
+   "surface_en": "Wildegens",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rudolph",
+   "kind": "person",
+   "surface_de": "Rudolph",
+   "surface_en": "Rudolph",
+   "page": 1
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinzen George",
+   "surface_en": "Prince George",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wilde Ganß",
+   "kind": "person",
+   "surface_de": "Wilde Ganſ",
+   "surface_en": "Wilde Ganß",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Grafen Schlabrendorff",
+   "surface_en": "Count Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff's",
+   "kind": "person",
+   "surface_de": "Schlabrendorffs",
+   "surface_en": "Schlabrendorff's",
+   "page": 2
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Your Most Serene Highness will forgive this postscript. I had already sealed this letter when the Court Councillor Wünster came home, in order to tell me that the K. v. Wildegansch and the Jew Heymann have done nothing whatever here in Your Serene Highness's affair. — At the same time he disclosed to me that Wildegens had told him that, since judgment has already been given concerning the bill of exchange for 11000 Rthl subscribed by me on behalf of Your Most Serene Highness, I am to be placed under arrest as soon as I return, or indeed even while still here. That the matter is true I believe I see confirmed by this, that the office-attacher Rudolph has already been at my house several times, and has still enquired after me. I beseech Your Most Serene Highness, for God's sake, to take this matter to heart and to have such measures taken there with the utmost dispatch that I be not branded with disgrace and dragged into arrest. For God knows, had I the money, or knew of anywhere to raise it, I would procure it and pay everything at once. — And had the malicious Wildegansch not here ruined all my credit, I should have obtained the money — this is a true conduct. on 10 Febr. 1801."
+   "en": "Your Most Serene Highness will forgive this postscript; I had already sealed this letter when the Court Councillor Wünster came to the house just then, to tell me that the K. von Wildegansch and the Jew Heymann have done nothing whatever here in Your Serene Highness's affair. – At the same time he disclosed to me that Wildegens had told him that, since judgment has already been given respecting the bill of exchange for 11000 Rthl signed by me on behalf of Your Most Serene Highness, I am to be taken into custody as soon as I return, or indeed while still here.\n\nThat the matter is true I believe I see confirmed by this, that the office bailiff Rudolph has already been several times at my house and has [uncertain: still] made enquiries of me.\n\nI beg Your Most Serene Highness for God's sake to take this matter to heart and to have such measures taken there with the utmost dispatch that I may not be branded with disgrace and dragged into arrest. For God knows, if I had the money, or knew anywhere to raise it, I would procure it and pay everything at once – And had the [uncertain: hitherto spiteful] Wildegansch not here ruined all my credit, I should have obtained the money – this is a true conduct\n\nad 10 February 1801.",
+   "names": [
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Wünster",
+     "en": "Wünster",
+     "kind": "person"
+    },
+    {
+     "de": "Wildegansch",
+     "en": "Wildegansch",
+     "kind": "person"
+    },
+    {
+     "de": "Heymann",
+     "en": "Heymann",
+     "kind": "person"
+    },
+    {
+     "de": "Wildegens",
+     "en": "Wildegens",
+     "kind": "person"
+    },
+    {
+     "de": "Rudolph",
+     "en": "Rudolph",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "11000",
+    "10",
+    "1801"
+   ]
   },
   {
    "page": 2,
-   "en": "and he hinders me, as Meyer himself knows, in all [uncertain: plans], so that the fellow may make himself important and bring me to the point of absolutely taking him on again as a man of business. — In my own affairs I do not need the [illegible] with which I am done, and I have settled all my instalments; only with Prince George do I remain entangled — he has sold my estates for 750000 Rthl and has let other estates, in which everything is entangled, be foisted upon him. Wilde Ganß and the Jew sit with him day and night, fleecing the Prince of his money. — For me, however, the Prince is never at home, and therefore I do not see myself with him — that is indeed great ingratitude. — For the rest, I would gladly bear it — if I did not have to see that these people plunged the master into the deepest labyrinth and led him astray and made me unhappy. I can therefore procure no counsel, and therefore beg Your Serene Highness most urgently and imploringly to turn the matter so that I do not fall into disgrace and mockery and be arrested. In my anguish I have wondered / whether it would not be well if Your Serene Highness were to [uncertain: prevail upon] Count Schlabrendorff to take the bill of exchange back out of the hands of the Jews — for after all it is Schlabrendorff's affair alone — the Jews need only figure in the business; and therefore I believe that Schlabrendorff (if Your Most Serene Highness press him quite earnestly) will also be willing enough to take the bill back from the Jews, and to wait if it is prolonged."
+   "en": "and he hinders me, as Meyer himself knows, in all my plans, so that the fellow may make himself important and bring me to the point of absolutely taking him on again as my man of business. – In my own affairs I have no need of the [illegible]; I am free of them and have settled all my payment dates; now it is with Prince George that I remain entangled — he has sold my estates for 750000 Rthl and has let other estates be foisted upon him in which everything is entangled. Wilde Ganß and the Jew sit with him day and night cheating, [uncertain: swindling] the Prince out of money – But for me the Prince is never at home, and so I do not see him – that is surely great ingratitude – For the rest I would gladly bear it – if I did not have to see that these people are plunging the master into the deepest labyrinth and leading him astray and making me wretched. I can therefore find no counsel, and therefore beg Your Serene Highness most urgently and imploringly to turn the matter so that I do not fall into disgrace and mockery and be arrested. In my anxiety I have thought / whether it would not be well if Your Serene Highness were to prevail upon Count Schlabrendorff to take the bill of exchange back out of the Jews' hands – for it is after all Schlabrendorff's business alone – the Jews are only meant to figure in the story, and therefore I believe that Schlabrendorff (if Your Most Serene Highness press him right earnestly) will also be willing enough to take the bill of exchange back from the Jews, and, if it is prolonged, to wait.",
+   "names": [
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen George",
+     "en": "Prince George",
+     "kind": "person"
+    },
+    {
+     "de": "Wilde Ganſ",
+     "en": "Wilde Ganß",
+     "kind": "person"
+    },
+    {
+     "de": "Grafen Schlabrendorff",
+     "en": "Count Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorffs",
+     "en": "Schlabrendorff's",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "750000"
+   ]
   }
  ],
- "text_english": "Your Most Serene Highness will forgive this postscript. I had already sealed this letter when the Court Councillor Wünster came home, in order to tell me that the K. v. Wildegansch and the Jew Heymann have done nothing whatever here in Your Serene Highness's affair. — At the same time he disclosed to me that Wildegens had told him that, since judgment has already been given concerning the bill of exchange for 11000 Rthl subscribed by me on behalf of Your Most Serene Highness, I am to be placed under arrest as soon as I return, or indeed even while still here. That the matter is true I believe I see confirmed by this, that the office-attacher Rudolph has already been at my house several times, and has still enquired after me. I beseech Your Most Serene Highness, for God's sake, to take this matter to heart and to have such measures taken there with the utmost dispatch that I be not branded with disgrace and dragged into arrest. For God knows, had I the money, or knew of anywhere to raise it, I would procure it and pay everything at once. — And had the malicious Wildegansch not here ruined all my credit, I should have obtained the money — this is a true conduct. on 10 Febr. 1801.\n\nand he hinders me, as Meyer himself knows, in all [uncertain: plans], so that the fellow may make himself important and bring me to the point of absolutely taking him on again as a man of business. — In my own affairs I do not need the [illegible] with which I am done, and I have settled all my instalments; only with Prince George do I remain entangled — he has sold my estates for 750000 Rthl and has let other estates, in which everything is entangled, be foisted upon him. Wilde Ganß and the Jew sit with him day and night, fleecing the Prince of his money. — For me, however, the Prince is never at home, and therefore I do not see myself with him — that is indeed great ingratitude. — For the rest, I would gladly bear it — if I did not have to see that these people plunged the master into the deepest labyrinth and led him astray and made me unhappy. I can therefore procure no counsel, and therefore beg Your Serene Highness most urgently and imploringly to turn the matter so that I do not fall into disgrace and mockery and be arrested. In my anguish I have wondered / whether it would not be well if Your Serene Highness were to [uncertain: prevail upon] Count Schlabrendorff to take the bill of exchange back out of the hands of the Jews — for after all it is Schlabrendorff's affair alone — the Jews need only figure in the business; and therefore I believe that Schlabrendorff (if Your Most Serene Highness press him quite earnestly) will also be willing enough to take the bill back from the Jews, and to wait if it is prolonged.",
+ "text_english": "Your Most Serene Highness will forgive this postscript; I had already sealed this letter when the Court Councillor Wünster came to the house just then, to tell me that the K. von Wildegansch and the Jew Heymann have done nothing whatever here in Your Serene Highness's affair. – At the same time he disclosed to me that Wildegens had told him that, since judgment has already been given respecting the bill of exchange for 11000 Rthl signed by me on behalf of Your Most Serene Highness, I am to be taken into custody as soon as I return, or indeed while still here.\n\nThat the matter is true I believe I see confirmed by this, that the office bailiff Rudolph has already been several times at my house and has [uncertain: still] made enquiries of me.\n\nI beg Your Most Serene Highness for God's sake to take this matter to heart and to have such measures taken there with the utmost dispatch that I may not be branded with disgrace and dragged into arrest. For God knows, if I had the money, or knew anywhere to raise it, I would procure it and pay everything at once – And had the [uncertain: hitherto spiteful] Wildegansch not here ruined all my credit, I should have obtained the money – this is a true conduct\n\nad 10 February 1801.\n\nand he hinders me, as Meyer himself knows, in all my plans, so that the fellow may make himself important and bring me to the point of absolutely taking him on again as my man of business. – In my own affairs I have no need of the [illegible]; I am free of them and have settled all my payment dates; now it is with Prince George that I remain entangled — he has sold my estates for 750000 Rthl and has let other estates be foisted upon him in which everything is entangled. Wilde Ganß and the Jew sit with him day and night cheating, [uncertain: swindling] the Prince out of money – But for me the Prince is never at home, and so I do not see him – that is surely great ingratitude – For the rest I would gladly bear it – if I did not have to see that these people are plunging the master into the deepest labyrinth and leading him astray and making me wretched. I can therefore find no counsel, and therefore beg Your Serene Highness most urgently and imploringly to turn the matter so that I do not fall into disgrace and mockery and be arrested. In my anxiety I have thought / whether it would not be well if Your Serene Highness were to prevail upon Count Schlabrendorff to take the bill of exchange back out of the Jews' hands – for it is after all Schlabrendorff's business alone – the Jews are only meant to figure in the story, and therefore I believe that Schlabrendorff (if Your Most Serene Highness press him right earnestly) will also be willing enough to take the bill of exchange back from the Jews, and, if it is prolonged, to wait.",
  "summary_en": "Postscript reporting, on Court Councillor Wünster's news, that Wildegansch and the Jew Heymann have done nothing in the Prince's affair, and that judgment has been given on the 11,000 Rthl bill of exchange signed by Triebenfeld on the Prince's behalf, so that he faces arrest; the bailiff Rudolph has already called repeatedly. He pleads for urgent measures, blames Wildegansch for ruining his credit and for entangling Prince George, who has sold his estates for 750,000 Rthl, and proposes that Count Schlabrendorff be pressed to recover the bill from the Jews and allow prolongation.",
  "summary_de": "Nachschrift: Der Hofrath Wünster habe mitgeteilt, daß der K. v. Wildegansch und der Jude Heymann in der fürstlichen Sache nichts bewirkt hätten; wegen des von Triebenfeld für den Fürsten unterschriebenen Wechsels über 11000 Rthl sei bereits Urtheil ergangen, ihm drohe Arrest, der Amtsbüttel Rudolph habe schon mehrfach nach ihm gefragt. Bitte um schleunige Maßregeln zur Abwendung von Schande und Arrest; Vorschlag, Graf Schlabrendorff zur Rücknahme des Wechsels aus Judenhand und zur Prolongation zu bewegen. Klage über Prinz George, der Güter für 750000 Rthl verkauft habe."
 }

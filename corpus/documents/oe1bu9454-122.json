@@ -67,16 +67,116 @@
    "doc_line": 14
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Homuth",
+   "kind": "person",
+   "surface_de": "Homuth",
+   "surface_en": "Homuth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hus sinietz",
+   "kind": "place",
+   "surface_de": "Hus sinietz",
+   "surface_en": "Hus sinietz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Franckfurth",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau[?]",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "The enclosed note I received this morning early — It had been left lying, by an oversight, in my old lodging - Herr Homuth has on that account just now sent to me again, and begs most earnestly that this item be settled soon, so that he may at once notify the messenger of the receipt of the 166 Rthl 16 g. Cabanis is departing this very moment by the post for Hussinietz - I promise myself from this quarter the swiftest and happiest success. From Berlin or Franckfurth I have received not a syllable today. Breslau, the 6th of April 1804. v Triebenfeld"
+   "en": "The enclosed note I received early this morning — it had by oversight been left lying in my old lodgings. Herr Homuth has on that account just now sent to me again and begs most earnestly that this item be settled soon, so that he may at once notify the messenger of the receipt of the 166 Rthl 16 g. as well. Cabanis is this very moment departing by the post for Hus sinietz — I promise myself from that quarter the swiftest and happiest success. From Berlin or Frankfurt an der Oder I have not received a syllable today.\n\nBreslau, the 6th of April\n\n1804.\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Homuth",
+     "en": "Homuth",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Hus sinietz",
+     "en": "Hus sinietz",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Franckfurth",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "166",
+    "16",
+    "6ten",
+    "1804"
+   ]
   }
  ],
- "text_english": "The enclosed note I received this morning early — It had been left lying, by an oversight, in my old lodging - Herr Homuth has on that account just now sent to me again, and begs most earnestly that this item be settled soon, so that he may at once notify the messenger of the receipt of the 166 Rthl 16 g. Cabanis is departing this very moment by the post for Hussinietz - I promise myself from this quarter the swiftest and happiest success. From Berlin or Franckfurth I have received not a syllable today. Breslau, the 6th of April 1804. v Triebenfeld",
+ "text_english": "The enclosed note I received early this morning — it had by oversight been left lying in my old lodgings. Herr Homuth has on that account just now sent to me again and begs most earnestly that this item be settled soon, so that he may at once notify the messenger of the receipt of the 166 Rthl 16 g. as well. Cabanis is this very moment departing by the post for Hus sinietz — I promise myself from that quarter the swiftest and happiest success. From Berlin or Frankfurt an der Oder I have not received a syllable today.\n\nBreslau, the 6th of April\n\n1804.\n\nv. Triebenfeld",
  "summary_en": "Forwards a note received that morning, having been left by oversight at his former lodgings, and reports that Herr Homuth has sent to him again, pressing urgently for the matter to be settled so that he can notify the messenger of receipt of the 166 Rthl 16 Groschen. Cabanis is leaving by post for Hussinietz, from which Triebenfeld expects swift and happy success; nothing has come from Berlin or Frankfurt an der Oder.",
  "summary_de": "Übersendung einer erst am Morgen eingegangenen Beilage, die versehentlich in der alten Wohnung liegengeblieben war. Herr Homuth hat deshalb erneut nachgefragt und bittet dringend um baldige Erledigung der Sache, damit er dem Boten auch den Empfang der 166 Rthl 16 g. anzeigen könne. Cabanis reist eben mit der Post nach Hussinietz ab, wovon Triebenfeld schnellsten und glücklichsten Erfolg erwartet. Aus Berlin und Frankfurt an der Oder ist an diesem Tage keine Nachricht eingetroffen."
 }

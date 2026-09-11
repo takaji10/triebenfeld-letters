@@ -163,24 +163,328 @@
    "doc_line": 59
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 1
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 1
+  },
+  {
+   "entity": "noldichen",
+   "display": "Nöldichen",
+   "kind": "person",
+   "surface_de": "Nöldichen",
+   "surface_en": "Nöldichen",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Knobloch",
+   "kind": "person",
+   "surface_de": "Knobloch",
+   "surface_en": "Knobloch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prittwyl",
+   "kind": "person",
+   "surface_de": "Prittwyl",
+   "surface_en": "Prittwyl",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wildeganst",
+   "kind": "person",
+   "surface_de": "Wildeganst",
+   "surface_en": "Wildeganst",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prittwitz",
+   "kind": "person",
+   "surface_de": "Prittwitz",
+   "surface_en": "Prittwitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wildeganster",
+   "kind": "person",
+   "surface_de": "Wildeganster",
+   "surface_en": "Wildeganster",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mencke",
+   "kind": "person",
+   "surface_de": "Mencke",
+   "surface_en": "Mencke",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brand:",
+   "kind": "person",
+   "surface_de": "Brand:",
+   "surface_en": "Brand:",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Cöln",
+   "kind": "person",
+   "surface_de": "Cöln",
+   "surface_en": "Cöln",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 3
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Carl Theodor Fischbach",
+   "kind": "person",
+   "surface_de": "Carl Theodor Fischbach",
+   "surface_en": "Carl Theodor Fischbach",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betsche",
+   "page": 3
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! My most fervent wishes are still ever only these, that Your Most Serene Highness may have arrived at Öhringen right happily and content; the affairs which otherwise lie near my heart will certainly be [uncertain: brought to the best conclusion] and everything brought to the wished-for goal. Upon the writing submitted at last also [illegible] Zastrow, only the enclosed reply has indeed followed; yet I departed with the first assurance from everyone that Your Most Serene Highness shall obtain the Krotoszyn estates. Even Herr v. Voss is said to have pitched his tone very much lower, and the notorious Nöldichen is hard pressed. [uncertain: Colonel] v. Köckritz, who now conducts himself quite tolerably in this matter, says that the conclusion of the affair will be entrusted to the 9. f. v. Knobloch and Prittwitz. Here Wildegans can do everything; he is the intimate friend of both, and he sees more clearly than many — I have therefore"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy most fervent wishes are still only these, that Your Most Serene Highness may have arrived at Öhringen quite happily and content; the affairs which otherwise lie upon my heart will assuredly be brought to the best of conclusions and everything brought to the desired end. Upon the letter lastly also submitted to [uncertain: d. D. c.] Zastrow only the enclosed answer has indeed followed; each [time] I have departed from everyone with the first assurance that Your Most Serene Highness will obtain the Krotoszyn estates. Even Herr von Voss is said to have toned down his manner very much, and the notorious Nöldichen is in straits. His Serene Highness von Köckritz, who at present conducts himself quite tolerably in this matter, says that the conclusion of the affair will be entrusted to the 9th [uncertain: f. v.] Knobloch and Prittwyl. Here Wildeganst can do everything; he is the intimate friend of them both and he sees more clearly than many — I have therefore",
+   "names": [
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Nöldichen",
+     "en": "Nöldichen",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Knobloch",
+     "en": "Knobloch",
+     "kind": "person"
+    },
+    {
+     "de": "Prittwyl",
+     "en": "Prittwyl",
+     "kind": "person"
+    },
+    {
+     "de": "Wildeganst",
+     "en": "Wildeganst",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "9"
+   ]
   },
   {
    "page": 2,
-   "en": "already so prepared the matter in the writing to Herr Prittwitz that he will take Wildeganster as his assistant. On my departure from Berlin everything seemed full of anxious expectation on account of the war. Almost everyone held it to be unavoidable, and even the King is said to have shown an inclination to strike out with the whole army. The Cabinet Councillor Mencke would not permit Brand: to travel away for 10 days, because he believed that important things would shortly come to pass, and that even changes in the Ministry might occur. It was also said quite certainly that one or two more Cabinet Councillors were to be appointed, for which a couple had already been proposed — this is now indeed to be wished for, since then a Cabinet Secretary will no longer be allowed to instruct a reigning Prince and first commander-in-chief, nor Ministers and whole Dicasteria either,"
+   "en": "already so framed the matter in the letter to Herr Prittwitz that he will take Wildeganster as his assistant. On my departure from Berlin everything seemed to be full of anxious expectation on account of the war. Almost everyone held it to be unavoidable, and even the King is said to have shown an inclination to strike out with the whole army. The cabinet [councillor] Mencke would not permit Brand: to travel away for 10 days, because he believed that important things would shortly come to pass, and that even in the Ministry changes might occur. It was also said quite certainly that one or two more cabinet councillors were to be appointed, for which a couple had already been proposed — this is indeed to be wished for, since then a cabinet secretary will no longer be at liberty to instruct a reigning Prince and first commander, nor Ministers and whole judicial boards either,",
+   "names": [
+    {
+     "de": "Prittwitz",
+     "en": "Prittwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Wildeganster",
+     "en": "Wildeganster",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Mencke",
+     "en": "Mencke",
+     "kind": "person"
+    },
+    {
+     "de": "Brand:",
+     "en": "Brand:",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10"
+   ]
   },
   {
    "page": 3,
-   "en": "when they write to the Sovereign. The draft which the Councillor of War v. Cöln made concerning Krotoszyn, and which the King gave to the Cabinet [uncertain: Bey:] all, was handed over by the latter to Herr v. Voss — who, however, wrote too [uncertain: haughtily] to the King and moved for the dismissal of this man — the O. v. Ko. is greatly incensed at this and holds 13 to be false — He has at once so turned the matter that the [uncertain: Löte], as the most honest man, is to be [uncertain: refused] to Breslau — this has now turned out better already than anyone could have [text lost] it. For Carl Theodor Fischbach at Betschen may it please Your Serene Highness to have the patent as Commission Councillor made out. In deepest reverence I remain, until death, Your Most Serene Highness's — Broniewski will surely not be permitted to receive a heller, for now there are witnesses to hand that the fellow has already taken more out of the estates than is due to him — I shall now pursue the matter with zeal — also well if one here [uncertain: recovers a sum]. Breslau, the 1st of February 1799. faithful most humble and obedient servant v. Triebenfeld"
+   "en": "when they write to the Sovereign. The draft which the councillor of war von Cöln made concerning Krotoszyn, and which the King gave to the cabinet [uncertain: Bey:] for all, was handed over by the latter to Herr von Voss — who, however, wrote too haughtily to the King and moved for the dismissal of this man — the [uncertain: O v Ko.] is greatly incensed at this and holds 13 to be false — He at once turned the matter so that the [uncertain: Löte], as the most honest man, is to be denied to Breslau — this has now turned out better than anyone could have [expected]. For Carl Theodor Fischbach at Betsche may it please Your Serene Highness to have the patent as commission councillor made out. In deepest reverence I remain, until death, Your Most Serene Highness's. Broniewski will surely not be permitted to receive a single heller, for now I have witnesses at hand that the fellow has taken more out of the estates than is due to him — I shall now pursue the matter with zeal — also well if one [uncertain: rescues a sum here]. Breslau, the 1st of February 1799.\n\nfaithful most humble and obedient servant v. Triebenfeld",
+   "names": [
+    {
+     "de": "Cöln",
+     "en": "Cöln",
+     "kind": "person"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Carl Theodor Fischbach",
+     "en": "Carl Theodor Fischbach",
+     "kind": "person"
+    },
+    {
+     "de": "Betschen",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "13",
+    "1ten",
+    "1799"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! My most fervent wishes are still ever only these, that Your Most Serene Highness may have arrived at Öhringen right happily and content; the affairs which otherwise lie near my heart will certainly be [uncertain: brought to the best conclusion] and everything brought to the wished-for goal. Upon the writing submitted at last also [illegible] Zastrow, only the enclosed reply has indeed followed; yet I departed with the first assurance from everyone that Your Most Serene Highness shall obtain the Krotoszyn estates. Even Herr v. Voss is said to have pitched his tone very much lower, and the notorious Nöldichen is hard pressed. [uncertain: Colonel] v. Köckritz, who now conducts himself quite tolerably in this matter, says that the conclusion of the affair will be entrusted to the 9. f. v. Knobloch and Prittwitz. Here Wildegans can do everything; he is the intimate friend of both, and he sees more clearly than many — I have therefore\n\nalready so prepared the matter in the writing to Herr Prittwitz that he will take Wildeganster as his assistant. On my departure from Berlin everything seemed full of anxious expectation on account of the war. Almost everyone held it to be unavoidable, and even the King is said to have shown an inclination to strike out with the whole army. The Cabinet Councillor Mencke would not permit Brand: to travel away for 10 days, because he believed that important things would shortly come to pass, and that even changes in the Ministry might occur. It was also said quite certainly that one or two more Cabinet Councillors were to be appointed, for which a couple had already been proposed — this is now indeed to be wished for, since then a Cabinet Secretary will no longer be allowed to instruct a reigning Prince and first commander-in-chief, nor Ministers and whole Dicasteria either,\n\nwhen they write to the Sovereign. The draft which the Councillor of War v. Cöln made concerning Krotoszyn, and which the King gave to the Cabinet [uncertain: Bey:] all, was handed over by the latter to Herr v. Voss — who, however, wrote too [uncertain: haughtily] to the King and moved for the dismissal of this man — the O. v. Ko. is greatly incensed at this and holds 13 to be false — He has at once so turned the matter that the [uncertain: Löte], as the most honest man, is to be [uncertain: refused] to Breslau — this has now turned out better already than anyone could have [text lost] it. For Carl Theodor Fischbach at Betschen may it please Your Serene Highness to have the patent as Commission Councillor made out. In deepest reverence I remain, until death, Your Most Serene Highness's — Broniewski will surely not be permitted to receive a heller, for now there are witnesses to hand that the fellow has already taken more out of the estates than is due to him — I shall now pursue the matter with zeal — also well if one here [uncertain: recovers a sum]. Breslau, the 1st of February 1799. faithful most humble and obedient servant v. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy most fervent wishes are still only these, that Your Most Serene Highness may have arrived at Öhringen quite happily and content; the affairs which otherwise lie upon my heart will assuredly be brought to the best of conclusions and everything brought to the desired end. Upon the letter lastly also submitted to [uncertain: d. D. c.] Zastrow only the enclosed answer has indeed followed; each [time] I have departed from everyone with the first assurance that Your Most Serene Highness will obtain the Krotoszyn estates. Even Herr von Voss is said to have toned down his manner very much, and the notorious Nöldichen is in straits. His Serene Highness von Köckritz, who at present conducts himself quite tolerably in this matter, says that the conclusion of the affair will be entrusted to the 9th [uncertain: f. v.] Knobloch and Prittwyl. Here Wildeganst can do everything; he is the intimate friend of them both and he sees more clearly than many — I have therefore\n\nalready so framed the matter in the letter to Herr Prittwitz that he will take Wildeganster as his assistant. On my departure from Berlin everything seemed to be full of anxious expectation on account of the war. Almost everyone held it to be unavoidable, and even the King is said to have shown an inclination to strike out with the whole army. The cabinet [councillor] Mencke would not permit Brand: to travel away for 10 days, because he believed that important things would shortly come to pass, and that even in the Ministry changes might occur. It was also said quite certainly that one or two more cabinet councillors were to be appointed, for which a couple had already been proposed — this is indeed to be wished for, since then a cabinet secretary will no longer be at liberty to instruct a reigning Prince and first commander, nor Ministers and whole judicial boards either,\n\nwhen they write to the Sovereign. The draft which the councillor of war von Cöln made concerning Krotoszyn, and which the King gave to the cabinet [uncertain: Bey:] for all, was handed over by the latter to Herr von Voss — who, however, wrote too haughtily to the King and moved for the dismissal of this man — the [uncertain: O v Ko.] is greatly incensed at this and holds 13 to be false — He at once turned the matter so that the [uncertain: Löte], as the most honest man, is to be denied to Breslau — this has now turned out better than anyone could have [expected]. For Carl Theodor Fischbach at Betsche may it please Your Serene Highness to have the patent as commission councillor made out. In deepest reverence I remain, until death, Your Most Serene Highness's. Broniewski will surely not be permitted to receive a single heller, for now I have witnesses at hand that the fellow has taken more out of the estates than is due to him — I shall now pursue the matter with zeal — also well if one [uncertain: rescues a sum here]. Breslau, the 1st of February 1799.\n\nfaithful most humble and obedient servant v. Triebenfeld",
  "summary_en": "Reports from Berlin and Breslau on the Krotoszyn business: despite only a formal reply from Zastrow, all assurances are that the Prince will obtain the Krotoszyn estates; v. Voss has moderated his tone and Nöldichen is under pressure, while v. Köckritz says conclusion will fall to Knobloch and Prittwitz, whom Wildegans can influence. Notes war expectations, possible ministerial and Cabinet Councillor changes, Cöln's draft, requests a Commission Councillor's patent for Carl Theodor Fischbach at Betschen, and insists Broniewski receive nothing.",
  "summary_de": "Bericht über den Stand der Krotoszyn-Angelegenheit: nach dem Schreiben an Zastrow sei nur die beiliegende Antwort erfolgt, doch werde dem Fürsten allseits der Erwerb der Krotoschiner Güter zugesichert; v. Voss habe seinen Ton gemäßigt, Nöldichen sei bedrängt, v. Köckritz nenne Knobloch und Prittwitz als Entscheider, weshalb Wildegans als Beihilfe eingeschaltet werde. Ferner Nachrichten aus Berlin über drohenden Krieg, mögliche Ministerwechsel und neue Cabinetsräthe, der Entwurf des Kriegsrath v. Cöln, Bitte um ein Patent als Commissionsrath für Carl Theodor Fischbach zu Betschen sowie die Absicht, Broniewski jede Zahlung zu verweigern."
 }

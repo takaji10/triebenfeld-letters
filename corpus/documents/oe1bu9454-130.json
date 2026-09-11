@@ -157,20 +157,214 @@
    "doc_line": 36
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M[r] Bernhard",
+   "kind": "person",
+   "surface_de": "M Bernhard",
+   "surface_en": "M[r] Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "other",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Schulemburg",
+   "kind": "person",
+   "surface_de": "Gr Schulemburg",
+   "surface_en": "Count Schulemburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durch",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gleich",
+   "kind": "person",
+   "surface_de": "Gleich",
+   "surface_en": "Gleich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bersch",
+   "kind": "place",
+   "surface_de": "Bersch",
+   "surface_en": "Bersch",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Johann",
+   "kind": "person",
+   "surface_de": "Johann",
+   "surface_en": "Johann",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Fr a. d. Oder",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Frankfurt an der Oder",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord!\n\nAbout 2 hours ago I arrived here and heard, to my vexation, that Glenck had travelled off after many, also that Leixner was absent and is only expected today. In all things, however, unfortunately nothing has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with M Bernhard by the agreement: \"that I am to bring the matter in question to a conclusion, that the estates are to remain in Your Serene Highness's names — that then Leixner wishes to take Kaemen, and that this shall stand either in Your Serene Highness's name or in mine\"; for, as I have said, so it has been done. — [uncertain: Leine] is in straits. He is therefore not to apply further for the Incolat. Count Schulemburg has got onto his roof. — Meanwhile"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord, some 2 hours ago I arrived here and heard to my vexation that Glenck had travelled after many, also that Leixner was absent and is not expected until today. In all things, however, unfortunately nothing has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with M[r] Bernhard by the agreement \"that I am to bring the [uncertain: reckoned] matter to a conclusion, that the estates shall remain in Your Serene Highness's name - that thereupon Leixner will take [uncertain: Kaemen], and that this shall stand either in Your Serene Highness's name or in mine; for as I have said, so has it been done. - Leixner is hard pressed. He is thereupon not to apply any further for the right of residence (Incolat). Count Schulemburg has got upon his roof - Meanwhile",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "M Bernhard",
+     "en": "M[r] Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "other"
+    },
+    {
+     "de": "Gr Schulemburg",
+     "en": "Count Schulemburg",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durch",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2"
+   ]
   },
   {
    "page": 2,
-   "en": "he is content if I lend him my name. I have therefore sent an express courier after Gleich, so that he may be here again on Saturday; today I go to Berlin, to sound out everything there, and when I return on Saturday I shall settle everything here, go from here to Bersch, with Heaven's help conclude everything there as well, and then hasten to Your Serene Highness; for to live longer in uncertainty would be the torment of hell. — I do not know what Glenck thinks; Johann is indeed all too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nFr a. d. Oder, the 17th of May 1804.\n\nfaithful and most obedient servant\nv Triebenfeld"
+   "en": "he is content that I lend him my name. I have therefore sent an express courier after Gleich, so that he may be back here by Saturday; I go today to Berlin, to sound out everything there - and when I come back on Saturday I shall settle everything here, go from here to Bersch, and with Heaven's help conclude everything there too, and then hasten to Your Serene Highness; for to live longer in uncertainty would be the torment of hell - I do not know what Glenck thinks. Johann is indeed far too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's Frankfurt an der Oder\n\nthe 17th of May\n\n1804.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Gleich",
+     "en": "Gleich",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Bersch",
+     "en": "Bersch",
+     "kind": "place"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Johann",
+     "en": "Johann",
+     "kind": "person"
+    },
+    {
+     "de": "Fr a. d. Oder",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord!\n\nAbout 2 hours ago I arrived here and heard, to my vexation, that Glenck had travelled off after many, also that Leixner was absent and is only expected today. In all things, however, unfortunately nothing has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with M Bernhard by the agreement: \"that I am to bring the matter in question to a conclusion, that the estates are to remain in Your Serene Highness's names — that then Leixner wishes to take Kaemen, and that this shall stand either in Your Serene Highness's name or in mine\"; for, as I have said, so it has been done. — [uncertain: Leine] is in straits. He is therefore not to apply further for the Incolat. Count Schulemburg has got onto his roof. — Meanwhile\n\nhe is content if I lend him my name. I have therefore sent an express courier after Gleich, so that he may be here again on Saturday; today I go to Berlin, to sound out everything there, and when I return on Saturday I shall settle everything here, go from here to Bersch, with Heaven's help conclude everything there as well, and then hasten to Your Serene Highness; for to live longer in uncertainty would be the torment of hell. — I do not know what Glenck thinks; Johann is indeed all too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nFr a. d. Oder, the 17th of May 1804.\n\nfaithful and most obedient servant\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, some 2 hours ago I arrived here and heard to my vexation that Glenck had travelled after many, also that Leixner was absent and is not expected until today. In all things, however, unfortunately nothing has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with M[r] Bernhard by the agreement \"that I am to bring the [uncertain: reckoned] matter to a conclusion, that the estates shall remain in Your Serene Highness's name - that thereupon Leixner will take [uncertain: Kaemen], and that this shall stand either in Your Serene Highness's name or in mine; for as I have said, so has it been done. - Leixner is hard pressed. He is thereupon not to apply any further for the right of residence (Incolat). Count Schulemburg has got upon his roof - Meanwhile\n\nhe is content that I lend him my name. I have therefore sent an express courier after Gleich, so that he may be back here by Saturday; I go today to Berlin, to sound out everything there - and when I come back on Saturday I shall settle everything here, go from here to Bersch, and with Heaven's help conclude everything there too, and then hasten to Your Serene Highness; for to live longer in uncertainty would be the torment of hell - I do not know what Glenck thinks. Johann is indeed far too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's Frankfurt an der Oder\n\nthe 17th of May\n\n1804.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports arriving to find Glenck departed and Leixner absent, with nothing yet settled and the parties mistrusting one another; recalls the agreement made with M Bernhard that the estates remain in the Prince's name and that Leixner take Kaemen, held either in the Prince's name or Triebenfeld's. Notes Leine's straits, his abandoning the Incolat application, and Count Schulemburg's interference; an express courier has been sent after Gleich, and Triebenfeld goes to Berlin, then Bersch.",
  "summary_de": "Klage über den unverrichteten Stand der Geschäfte: Glenck ist abgereist, Leixner abwesend, keiner traut dem anderen. Mit M Bernhard ist verabredet, daß die Güter auf den Namen des Fürsten bleiben und Leixner Kaemen übernimmt, auf fürstlichen oder Triebenfelds Namen. Leixner, in Bedrängnis und von Graf Schulemburg bedrängt, verzichtet auf das Incolat und begnügt sich mit Triebenfelds Namensleihe. Ein Expreßbote ist Gleich nachgesandt; Triebenfeld reist nach Berlin, will Sonnabend hier und dann in Bersch abschließen."
 }

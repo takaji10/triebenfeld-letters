@@ -146,24 +146,183 @@
    "doc_line": 49
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prittwitz",
+   "kind": "person",
+   "surface_de": "Prittwitz",
+   "surface_en": "Prittwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pot:[Potsdam?]",
+   "kind": "place",
+   "surface_de": "Pot:[Potsdam?]",
+   "surface_en": "Pot:[Potsdam?]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "K. Z[astrow].",
+   "kind": "person",
+   "surface_de": "K. Z[astrow].",
+   "surface_en": "K. Z[astrow].",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "R.",
+   "kind": "person",
+   "surface_de": "R.",
+   "surface_en": "R.",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prusimskischen",
+   "surface_en": "Prusimski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! I have satisfied Count Schlabrendorff and have the receipt to hand — the sum of the interest came to 11085 Rthl, the receipt is made out directly to Your Most Serene Highness — I, however, have now not a syllable towards the covering of my 10. \"to hand; nor do I ask anything after it, for I am too certain that Heaven will help Your Most Serene Highness back quite sound and happy, and that everything — everything will go according to wish. I could not have the good fortune of speaking with Her Serene Highness the Princess when I travelled hither — I had myself announced 3 times but was not once received. It appears as though the writing of the [one] to Prittwitz — as though I were hated by the King and by the public — had caused a sensation in Breslau as well; this, however, signifies nothing, for I"
+   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nI have satisfied Count Schlabrendorff and have the receipt in hand - the sum of the interest amounted to 11085 Rthl; the receipt is made out directly to Your Most Serene Highness - I, however, now have not a syllable towards the covering of my\n\n10. \"in hand; nor do I ask after it, for I am too certain that the [uncertain: zimel] helps Your Most Serene Highness back quite healthy and happy, and that everything - everything will go according to wish.\n\nThe Princess's Serene Highness I could not have the good fortune of speaking with when I travelled hither - I had myself announced 3 times but was not once received. It appears as though the letter of von Prittwitz - to the effect that I am hated by the King and by the public - has also caused a sensation in Breslau - this, however, signifies nothing, for I",
+   "names": [
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Prittwitz",
+     "en": "Prittwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "11085",
+    "10.",
+    "3"
+   ]
   },
   {
    "page": 2,
-   "en": "find myself here in Berlin and Pot:[uncertain: Potsdam] so very well in soul. Our good Queen was truly quite ill, but is improving, to the joy of all upright vassals. The Monarch is well, and labours not only with boundless activity for the welfare of the State but also drills the troops in such a way that one's heart laughs in one's body. On Sunday I saw the old Guard, also in white gaiters and their grenadier caps — upon the faces of the whole battalion one saw so plainly the most memorable joy to me, and by God a tear trembled in my eye, for that is the old brave Köckritz's work — the officers now receive their place at table and feel themselves as happy as the others. The worthy men K. Z[astrow]. and R. are in good health and live in the greatest harmony. Of war there is no thought, and in this matter too the Monarch already shows before all the world his rock-firm steadfastness and whole manner of thinking."
+   "en": "find myself here in Berlin and Pot:[Potsdam?] so very well in my soul. Our good Queen was truly quite ill, but is recovering, to the joy of all upright vassals. The Monarch is well, and not only labours with boundless activity for the good of the State but also drills the troops in such a way that one's heart laughs in one's body. On Sunday I saw the old Guard, in white gaiters too, and their grenadier caps - upon the faces of the whole battalion one saw truly the most memorable joy to me, and by God a tear trembled in my eye, for that is the old brave [uncertain: Köch:] work - the officers now receive their place at table and feel themselves as happy as the others. The worthy men K. Z[astrow]. and R. are in good health and live in the greatest harmony.\n\nOf war there is no thought to be had, and the Monarch already shows in this matter, before the whole world, his rock-firm steadfastness and all his way of thinking",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Pot:[Potsdam?]",
+     "en": "Pot:[Potsdam?]",
+     "kind": "place"
+    },
+    {
+     "de": "K. Z[astrow].",
+     "en": "K. Z[astrow].",
+     "kind": "person"
+    },
+    {
+     "de": "R.",
+     "en": "R.",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "This very moment I receive from Glenck news in the Prusimski lawsuit matter which is precisely not good, for I [see] that the jurists mean to cheat us. Since I still have in my hands all the blank forms most graciously entrusted to me, I would at once submit a writing here to the Grand Chancellor and beg for a prolongation of the term. Time gained is all gained — In deepest reverence I remain, until death, Your Most Serene Highness's Berlin, the 30th April 1799. most faithful servant v. Triebenfeld"
+   "en": "This very moment I receive from Glenck news in the Prusimski lawsuit matter which is precisely not good, for I [see] that the jurists mean to cheat us. Since I still have all the blank signed forms most graciously entrusted to me in my hands, I would at once submit a letter here to the Grand Chancellor and beg for an extension of the term. Time gained is everything gained — In deepest reverence I remain, until death, Your Most Serene Highness's, Berlin, the 30th of April 1799, most faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimskischen",
+     "en": "Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30ten",
+    "1799"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! I have satisfied Count Schlabrendorff and have the receipt to hand — the sum of the interest came to 11085 Rthl, the receipt is made out directly to Your Most Serene Highness — I, however, have now not a syllable towards the covering of my 10. \"to hand; nor do I ask anything after it, for I am too certain that Heaven will help Your Most Serene Highness back quite sound and happy, and that everything — everything will go according to wish. I could not have the good fortune of speaking with Her Serene Highness the Princess when I travelled hither — I had myself announced 3 times but was not once received. It appears as though the writing of the [one] to Prittwitz — as though I were hated by the King and by the public — had caused a sensation in Breslau as well; this, however, signifies nothing, for I\n\nfind myself here in Berlin and Pot:[uncertain: Potsdam] so very well in soul. Our good Queen was truly quite ill, but is improving, to the joy of all upright vassals. The Monarch is well, and labours not only with boundless activity for the welfare of the State but also drills the troops in such a way that one's heart laughs in one's body. On Sunday I saw the old Guard, also in white gaiters and their grenadier caps — upon the faces of the whole battalion one saw so plainly the most memorable joy to me, and by God a tear trembled in my eye, for that is the old brave Köckritz's work — the officers now receive their place at table and feel themselves as happy as the others. The worthy men K. Z[astrow]. and R. are in good health and live in the greatest harmony. Of war there is no thought, and in this matter too the Monarch already shows before all the world his rock-firm steadfastness and whole manner of thinking.\n\nThis very moment I receive from Glenck news in the Prusimski lawsuit matter which is precisely not good, for I [see] that the jurists mean to cheat us. Since I still have in my hands all the blank forms most graciously entrusted to me, I would at once submit a writing here to the Grand Chancellor and beg for a prolongation of the term. Time gained is all gained — In deepest reverence I remain, until death, Your Most Serene Highness's Berlin, the 30th April 1799. most faithful servant v. Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nI have satisfied Count Schlabrendorff and have the receipt in hand - the sum of the interest amounted to 11085 Rthl; the receipt is made out directly to Your Most Serene Highness - I, however, now have not a syllable towards the covering of my\n\n10. \"in hand; nor do I ask after it, for I am too certain that the [uncertain: zimel] helps Your Most Serene Highness back quite healthy and happy, and that everything - everything will go according to wish.\n\nThe Princess's Serene Highness I could not have the good fortune of speaking with when I travelled hither - I had myself announced 3 times but was not once received. It appears as though the letter of von Prittwitz - to the effect that I am hated by the King and by the public - has also caused a sensation in Breslau - this, however, signifies nothing, for I\n\nfind myself here in Berlin and Pot:[Potsdam?] so very well in my soul. Our good Queen was truly quite ill, but is recovering, to the joy of all upright vassals. The Monarch is well, and not only labours with boundless activity for the good of the State but also drills the troops in such a way that one's heart laughs in one's body. On Sunday I saw the old Guard, in white gaiters too, and their grenadier caps - upon the faces of the whole battalion one saw truly the most memorable joy to me, and by God a tear trembled in my eye, for that is the old brave [uncertain: Köch:] work - the officers now receive their place at table and feel themselves as happy as the others. The worthy men K. Z[astrow]. and R. are in good health and live in the greatest harmony.\n\nOf war there is no thought to be had, and the Monarch already shows in this matter, before the whole world, his rock-firm steadfastness and all his way of thinking\n\nThis very moment I receive from Glenck news in the Prusimski lawsuit matter which is precisely not good, for I [see] that the jurists mean to cheat us. Since I still have all the blank signed forms most graciously entrusted to me in my hands, I would at once submit a letter here to the Grand Chancellor and beg for an extension of the term. Time gained is everything gained — In deepest reverence I remain, until death, Your Most Serene Highness's, Berlin, the 30th of April 1799, most faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports that Count Schlabrendorff has been satisfied, the interest amounting to 11085 Rthl, with the receipt made out to the Prince, while nothing has come towards covering Triebenfeld's own 10 [thousand]. Notes three failed attempts to be received by the Princess and the sensation caused in Breslau by the writing to Prittwitz; describes the Queen's illness and recovery, the King's activity and troop drills in Berlin, and the absence of any prospect of war. Bad news from Glenck in the Prusimski lawsuit prompts him to use the blank forms entrusted to him to petition the Grand Chancellor for an extension of the term.",
  "summary_de": "Meldung, Graf Schlabrendorff sei mit 11085 Rthl Zinsen befriedigt, die Quittung lautet unmittelbar auf den Fürsten; für die eigenen Forderungen von Triebenfelds sei nichts geblieben, worauf er nicht dringe. Die Fürstin habe ihn trotz dreimaliger Anmeldung nicht empfangen; das Schreiben an Prittwitz habe auch in Breslau Aufsehen gemacht. Nachrichten aus Berlin über Königin, Monarch, Garde, K. Zastrow und R.; kein Krieg zu erwarten. Nach schlechten Mitteilungen Glencks im Prusimski-Prozeß will er mittels der ihm überlassenen Blanquette beim Großkanzler Fristverlängerung erbitten."
 }

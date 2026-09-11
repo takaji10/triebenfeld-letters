@@ -1,143 +1,362 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's most gracious letters
-    of the 19th and 27th of March I received so late only because they lay a very long while in Słupca.
-    It is more than sad for me that I must live so far distant from Your Serene Highness and have news
-    so seldom; it is particularly hard for me to act when Your Serene Highness leaves me so long without
-    any answer. Meanwhile I give myself the honour of reporting most obediently to the same how all matters
-    have prospered. After I had put everything in order on the estates, I betook myself again hither to
-    Berlin, in order to work here and, if possible, to bring the matter to a finish. The dismemberment
-    has, as Your Serene Highness knows, been most honourably approved, and His Majesty the King himself
-    has vouchsafed me his high approbation. The Betscher matter too has been approved at the Chamber,
-    submitted by General Honrichs's Department to the King for approbation, and only today has it come
-    in here executed by the King. This matter, which threatened Your Serene Highness with great danger,
-    is now likewise entirely cleared up. The assessments of the Kalisch Chamber are likewise completed;
-    they have turned out A) as the Copy sub A shows, and lie just now before the General Finance Department,
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    Your Most Serene Highness''s most gracious letters of the 19th and 27th of March I received so late
+    only because they lay a very long while in Słupca. It is more than sorrowful for me that I must live
+    so far removed from Your Serene Highness and have news so seldom. It falls particularly hard upon
+    me to act when Your Serene Highness leaves me so long without any answer whatever. Meanwhile I give
+    myself the honour of reporting to Your Most Serene Highness most obediently how all matters have prospered.
+
+
+    After I had put everything in order on the estates, I betook myself hither again to Berlin, in order
+    to work here and if possible to bring the matter to a conclusion.
+
+
+    The dismemberment, as Your Serene Highness knows, has been approved most honourably, and His Majesty
+    the King himself has vouchsafed me his high approbation. The Betsche affair too has been approved
+    at the Chamber, laid before the King for approbation by General Honrichs''s department, and this very
+    day it came in here executed by the King. This affair, which threatened Your Serene Highness with
+    great danger, is now likewise quite cleared up. The assessments of the Kalisz Chamber are likewise
+    completed; they have
+
+
+    A) turned out as the copy under A shows, and lie at this moment before the General Finance Department,
     from which tomorrow I am to receive an authentic attestation concerning the permanently established
-    revenues of the estates
+    revenues of the estates'
+  names:
+  - de: Słupca
+    en: Słupca
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: General Honrichs
+    en: General Honrichs
+    kind: person
+  - de: Kalischen
+    en: Kalisz
+    kind: place
+  - de: Betscher
+    en: Betsche
+    kind: place
+  numbers:
+  - '19'
+  - '27'
 - page: 2
-  en: and in which the yield is fixed at 40260 Rthl after every possible examination. – However, neither
-    the forest nor the Laudemien and jurisdictional dues are here taken into account, but rather everything
-    has been left to Your Serene Highness's disposition. B) Great as the yield has now turned out to be,
-    the debts, according to the schedule annexed sub B, are no less great and weighty, and a series of
-    years will be needed until everything is clean paid off. It was a piece of luck that I arrived here
-    just at this time, for the matter concerning the Curische post and the interest payments was again
-    pending, all the more so as the Minister v. Stein is now clearing everything up and to that end has
-    petitioned for the appointment of a commission, consisting of Minister v. Voss, the Grand Chancellor,
-    and himself, vis-à-vis the Herr Minister v. Schulenburg, which is to investigate everything and have
-    everything secured, so that particularly with regard to the Bank and the Maritime Trading Company,
-    where great deficits are suspected, one may see clearly. I have conferred much upon this matter with
-    the Herr General v. R. and in the end have agreed with the same to request of His Majesty the King
-    as many Treasury notes as are required for the payment of Your Serene Highness's debts altogether.
-    The whole sum is, as the schedule states, however 698000 Rthl, exclusive of the items due to myself,
-    with which I shall wait until happier events. To that end I have wished to write under my own name,
-    as the enclosure
+  en: 'and in which the yield is fixed, after all possible examinations, at 40260 Rthl. – However, neither
+    the forest nor the transfer fees (Laudemium) nor the jurisdictional incidents have been taken into
+    account here, but have all been left to Your Serene Highness''s disposition.
+
+
+    B) Great as the yield has turned out to be, yet the debts, according to the schedule appended under
+    B, are not less great and weighty, and a series of years will be needed before all is cleanly paid
+    off.
+
+
+    It was a piece of good fortune that I arrived here at just this time, for the matter of the Courland
+    post and of the interest payments was again pending, the more so as Minister von Stein is now clearing
+    everything up and to that end has requested a commission to be set up, consisting of Minister von
+    Voss, the Grand Chancellor and himself, over against Herr [uncertain: Münsterbge] von Schulenburg,
+    which is to investigate everything and have everything secured, so that one may see clearly, especially
+    with regard to the Bank and the Maritime Trading Company, where great deficits are suspected.
+
+
+    I have conferred much on this matter with the Herr General von R., and in the end agreed with him
+    to petition His Majesty the King for as many treasury notes as are required for the payment of Your
+    Serene Highness''s debts altogether.
+
+
+    The whole sum, as the schedule states, is however 698000 Rthl, exclusive of the items due to myself,
+    with which I shall wait until happier events. I have accordingly wished to write under my own name,
+    as the enclosure'
+  names:
+  - de: Curischen
+    en: Courland
+    kind: place
+  - de: Minister v. Stein
+    en: Minister von Stein
+    kind: person
+  - de: Minister v. Voss
+    en: Minister von Voss
+    kind: person
+  - de: Herr Münsterbge v. Schulenburg
+    en: 'Herr [uncertain: Münsterbge] von Schulenburg'
+    kind: person
+  - de: General v. R.
+    en: General von R.
+    kind: person
+  numbers:
+  - '40260'
+  - '698000'
 - page: 3
-  en: 'C) sub Litt. C shows, and all the more so since the King is only now letting the justice due to
-    me be done to me. However, Herr Privy [uncertain: Lab.] Councillor B. has not yet given his fiat,
-    and the worthy General feared, with every right, that the matter might founder altogether. Therefore
-    the upright friend proposed that the bosom friend of Herr p. B. – the Court Fiscal Pochammer – should
-    conduct this matter. With him I have accordingly come to terms; he will attend to everything and demands
-    for his pains an honorarium of like measure to that which he has been promised by the Count v. Hesse[?].
-    D) Meanwhile he must have a special power of attorney, and to that end he has just now sent me the
-    form appended sub Litt. D, which I convey to Your Serene Highness with the most obedient request that
-    the same be drawn up there in forma probante – insofar as it all has Your Highest approbation – be
-    executed, and be sent hither with the utmost haste, so that I may work quickly and can bring everything
-    to a conclusion – all the more so as St. John''s Day is at the door – and in these so most straitened
-    times not a Groschen is to be had from any other quarter, since in particular all funds are blocked,
-    with which to pay the so pressing debts.'
+  en: 'C) under Letter C shows, and the more so since the King is only now letting the justice due to
+    me be done me. Yet the Privy [uncertain: Lab.] Councillor B. has not yet given his fiat, and the worthy
+    General feared, with every right, that the matter might founder entirely. Therefore the honest friend
+    proposed that the bosom friend of Herr B. – the Court Fiscal Pochammer – should push this matter forward.
+
+
+    With him I have now come to an agreement. He will attend to everything and demands for his trouble
+    an honorarium of the like measure as he has been promised by the [uncertain: questions] of von Hesse[?].
+
+
+    D) In the meantime he must have a special power of attorney, and to that end he has just now sent
+    me the form appended under Letter D, which I convey to Your Serene Highness with the most obedient
+    request to have the same drawn up there in proving form / in so far as it all has Your Highness''s
+    approbation / to execute it, and to send it hither with all speed, so that I may work quickly and
+    bring everything to completion – the more so since Midsummer Day is at the door – and since in these
+    most hard-pressed times not a Groschen is to be had from anywhere else, all the treasuries being closed
+    in particular, wherewith to pay the most pressing debts.'
+  names:
+  - de: Geh. Lab. Rath B.
+    en: 'Privy [uncertain: Lab.] Councillor B.'
+    kind: person
+  - de: Hoff Fiscal Pochammer
+    en: Court Fiscal Pochammer
+    kind: person
+  - de: H. p B.
+    en: Herr B.
+    kind: person
+  - de: v Hesse[?]
+    en: von Hesse[?]
+    kind: person
 - page: 4
-  en: 'Everything will depend on Herr P. Pochammer''s disposing the Herr Cabinet Councillor so that we
-    obtain the monies or Treasury notes at 3 per cent. The Prince of Oranien must indeed give 4 per cent;
-    meanwhile Herr Pochammer believes he will quite succeed and will prise the capital loose at 3 per
-    cent. Were this so, then Your Serene Highness might account yourself exceedingly fortunate. You would
-    at one stroke be rid of all your debts, would after some 30 years have the estates entirely clear,
-    and would in the meanwhile nevertheless draw yearly some 10000 Rthl from the two lordships, and would
-    be quit and free of all cares and sorrows and particularly of the vexation of the dishonouring lawsuits.
-    The amortisation plan I have drawn up to that end, and particularly for Your Serene Highness''s survey,
-    [uncertain: um begellige] E) sub Litt. E most obediently herewith. Be pleased, most gracious Prince
-    and Lord, to examine everything, and send me particularly the power of attorney for the Court Fiscal
-    Herr Pochammer – so that this so exceedingly important work, tending to Your Serene Highness''s welfare,
-    repose and honour, may be pursued most zealously and at last be happily brought to an end. It is most
-    rewarding for me that [uncertain: nur] the Monarch could not withhold his approbation, and that this
-    matter has excited the astonishment even of the Cabinet Councillor Beym; but what has pleased me above
-    all is that Minister v. Voss has held up my conduct to his Chambers as a model.'
+  en: Everything will depend on Herr Pochammer's disposing the Cabinet Councillor so that we obtain the
+    monies or treasury notes at 3 per cent. The Prince of Orange must indeed give 4 per cent; meanwhile
+    Herr Pochammer believes he will fully succeed and prise the capital loose at 3 per cent. Were this
+    so, then Your Serene Highness might esteem yourself exceedingly fortunate. You would be rid of all
+    your debts at one stroke, would after some 30 years have the estates entirely clear, and would in
+    the meantime nevertheless draw yearly some 10000 Rthl from the two lordships, and would be quit and
+    free of all cares and sorrows and especially of the vexation of the dishonouring lawsuits. The amortisation
+    plan I have drawn up to that end and especially for Your Serene Highness's survey, and append it E)
+    under Letter E most obediently herewith. Deign, most gracious Prince and Lord, to examine everything,
+    and send me above all the power of attorney for the Court Fiscal Herr Pochammer – so that this work,
+    so exceedingly important and tending to Your Serene Highness's welfare, peace and honour, may be pursued
+    most zealously and once happily brought to a close. It is most rewarding for me that the Monarch himself
+    could not withhold his approbation, and that this matter has excited the astonishment even of the
+    Cabinet Councillor Beyme; but what has pleased me above all is that Minister von Voss has held up
+    my conduct to his Chambers as a model.
+  names:
+  - de: H. P. Pochammer
+    en: Herr Pochammer
+    kind: person
+  - de: Prinz v Oranien
+    en: Prince of Orange
+    kind: person
+  - de: Kabinets Rathes Beym
+    en: Cabinet Councillor Beyme
+    kind: person
+  - de: Minister v. Voss
+    en: Minister von Voss
+    kind: person
+  numbers:
+  - '3'
+  - '4'
+  - '3'
+  - '30'
+  - '10000'
 - page: 5
-  en: As concerns now the Glenck letter of the 28th of February, I reply thereto most obediently that
-    the Prusimski matter is as foreign to Glenck as colour is to one born blind. Were it possible for
-    me to be everywhere at once, I would pursue this affair too with equal force. But since this cannot
-    happen without arrogating to oneself divine attributes like a madman, I must keep to the principal
-    matters and work upon these with honest zeal, in order to establish Your Serene Highness's repose.
-    For the rest, I console myself with this, that Herr Glenck has merely feigned this matter with his
-    year in order to have material for writing to Your Serene Highness and to recall his importunities
-    to the memory of the same. That purpose he has attained, that I must now see and speak with him. My
-    judgment was, however, correct, for of the Prusimski matter he knew nothing; only the consent for
-    the sale of his lands was the object on which he discoursed. He vaunted his many years of service,
-    and that he had made 42 journeys in Your Serene Highness's affairs – for which, in his opinion, he
-    believed he had deserved a far greater remuneration than this trifle. To make an end of the thing,
-    I asked him what in fact he wanted if he sold the lands back to Your Serene Highness. His answer was
-    that he could not let them go for less than 8000 Rthl. For he had already made Your Serene Highness
-    a gift of 330 Morgen of land, which the Highest had promised him besides the Voigtey and the 300 Morgen
-    of forest – this was surely already more than reasonable, and in case one should wish to refuse him
-    the consent, he would bring suit and demand these as well. – In order to make an end of all these
-    machinations of Glenck's, I have promised him the 8000 Rthl subject to ratification, and I submit
-    Your Serene Highness's commands herein. The consent
+  en: 'As concerns now the Glenck letter of the 28th of February, I reply thereto most obediently that
+    the Prussiemck affair is as foreign to Glenck as colour is to a man born blind. Were it possible for
+    me to be everywhere at once, I would pursue this business too with equal force. But since this cannot
+    happen without appropriating to oneself divine attributes like a madman, I must keep to the principal
+    matters and work upon these with honest zeal, in order to establish Your Serene Highness''s peace.
+    For the rest, I console myself with this, that Herr Glenck has merely feigned this affair with his
+    year in order to have material for writing to Your Serene Highness and to recall his beggarly importunities
+    to Your Highness''s memory.
+
+
+    He has attained his purpose, that I must now see and speak with him. My judgement was, however, correct,
+    for of the Prusimski affair he knew nothing; only the consent respecting the sale of his lands was
+    the subject upon which he reasoned. He boasted of his many years'' service and that he had made 42
+    journeys in Your Serene Highness''s affairs – for which, in his opinion, he believed he had deserved
+    a far greater remuneration than this trifle. To make an end of the thing, I asked him what he actually
+    wanted if he were to sell the lands back to Your Serene Highness. His answer was that he could not
+    let them go for less than 8000 Rthl. For he had already made a present to Your Serene Highness of
+    330 Morgen of land which Your Highness had promised him over and above the bailiwick and the 300 Morgen
+    of forest – this, surely, was already more than reasonable, and in case anyone should wish to refuse
+    him the consent, he would bring suit and demand this too. In order to make an end of all this haggling
+    of Glenck''s, I have promised him the 8000 Rthl under [uncertain: specrati], and submit myself herein
+    to Your Serene Highness''s commands.
+
+
+    the consent'
+  names:
+  - de: Glencksche
+    en: Glenck
+    kind: person
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Gleuch
+    en: Glenck
+    kind: person
+  - de: Prussiemckische
+    en: Prussiemck
+    kind: other
+  - de: Prusimskischen
+    en: Prusimski
+    kind: other
+  numbers:
+  - '28'
+  - '42'
+  - '8000'
+  - '330'
+  - '300'
+  - '8000'
 - page: 6
-  en: 'to his sale, however, Your Serene Highness cannot give him, unless you should prefer some 20 new
-    lawsuits – for every peasant and cottager who has land within the 700 Morgen would not be willing
-    to yield, and would protest against the dismemberment and against everything. [We shall] now see how
-    to make it possible to raise a part of the monies and to pay Glenck. As concerns the consent regarding
-    Santomist, I remit the piece received thereof, since the middle sheets are missing, with the most
-    humble request that it be cancelled at once. Scentonial is an appurtenance of the lordship of Betschen
-    which has been sold to the subjects – be it a demesne or a rustical parcel – enough that everything
-    has been sold to the people, and everything is now exactly [uncertain: wirt] what has been struck
-    to this or that matter. — Your Serene Highness has reserved to yourself no right over the parcels,
-    but only the right of overlordship, in such wise that you will approve everything which those people,
-    who are now called proprietary possessors, lay before you, and will receive for it your 10 per cent
-    Laudemium. The so-called hereditary tenants have also already taken the Landeberg heirs to task and
-    demand the estate back, since the contract of the [uncertain: Radte] is false. Were Your Serene Highness
-    now to approve matters contrary to this and to the contract, and to consent to sales without the hereditary
-    possessors'' knowledge, then these people would have a right to complain, and every single individual
-    could raise against you so costly a lawsuit as would consume all the advantages gained. Moreover it
-    is also again not lawful to grant a burgher now demesne'
+  en: 'but the consent to his sale Your Serene Highness cannot give him, unless you should prefer some
+    20 new lawsuits – for every peasant and [uncertain: Chalypner] who has land within the 700 Morgen
+    would refuse to give way and would protest against the dismemberment and against everything. Now it
+    must be seen how to make it possible to raise a part of the monies and to pay Glenck. As concerns
+    the consent respecting Santomist, I return the piece received thereof, for the middle sheets are wanting,
+    with the humble request to cancel it at once. [uncertain: Scentonial] is an appurtenance of the lordship
+    of Betsche which has been sold to the subjects – be it a demesne or a peasant holding – enough that
+    everything has been sold to the people, and everything is now precisely what has been assigned to
+    this or that matter. Your Serene Highness has reserved to yourself no right over the parcels, but
+    only the right of superior ownership, in this manner: that you will approve whatever those people,
+    who are now called proprietary possessors, lay before you, and will receive your 10 per cent transfer
+    fee (Laudemium) for it. The so-called hereditary tenants have already taken the Landsberg heirs to
+    task and demand the estate back, since the contract of Radte is false. If Your Serene Highness were
+    now to approve matters contrary to this and to the contract, and were to consent to sales without
+    the knowledge of the hereditary possessors, then these people would have a right to complain, and
+    every single individual could raise against you a lawsuit so costly as to drive away all the advantages
+    gained. Besides, it is once again [uncertain: amply] to grant to a commoner now manorial'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Santomist
+    en: Santomist
+    kind: place
+  - de: Scentonial
+    en: '[uncertain: Scentonial]'
+    kind: place
+  - de: Betschen
+    en: Betsche
+    kind: place
+  - de: Landebergschen Erben
+    en: Landsberg heirs
+    kind: person
+  - de: Radte
+    en: Radte
+    kind: person
+  numbers:
+  - '20'
+  - '700'
+  - '10'
 - page: 7
-  en: 'rights. That is altogether forbidden by a new Cabinet Order and entails the loss of the Incolat;
-    even alienations out of these estates to persons not qualified to possess are altogether prohibited,
-    and are on no account to be tolerated. For the economy hereditary lessees this Cabinet decree and
-    the edicts published in consequence of it are quite salutary, for by these alone must the [uncertain:
-    Lüben] clear out. But above all, besides all this, I must further make it observable to Your Serene
-    Highness that you yourself, even if you truly had the right to it, would lose frightfully, if for
-    the sake of the wretched 6000 Rthl you were to approve this shameful plan. Sartomiel will thereafter,
-    when the present hereditary possessors divide it up, be worth some 100000 Rthl. Every 20 years the
+  en: 'rights. That is absolutely forbidden by a new cabinet order and entails the loss of the right of
+    residence. Even alienations out of these estates to persons not qualified to possess are absolutely
+    prohibited and are on no account to be tolerated. For the hereditary leaseholders of the husbandry
+    this cabinet ordinance and the edicts published thereupon are very salutary, for by these alone must
+    the [uncertain: Lüben] clear out. Above all, however, beyond all this, I must further make it apparent
+    to Your Serene Highness that you yourself, even if you truly had the right to it, would lose frightfully
+    if for the sake of the wretched 6000 Rthl you approved this shameful plan. Sartomiel will thereafter,
+    when the present hereditary possessors parcel it out, be worth some 100000 Rthl. Every 20 years the
     holdings round about are sold, and then Your Serene Highness and your descendants have the property
-    paid for anew through the 10 per cent Laudemien. This is surely so essential a matter that no lord
-    of the soil signs it away for eternity. As concerns the 30000 Rthl, I still see no possibility how
-    I am to procure them so quickly. If I obtain the capital from the King, Your Serene Highness will
-    indeed receive much – but that goes entirely upon the payment of all the debts. The latter must be,
-    because the mortgage certificate must be clean. Whence then to take it? The only case would be if
-    I could get money upon one of my mortgages on Schwimmern and Kontop, or if the hereditary purchasers
-    in Zagorow and Trąbczyn came often and brought money to render; but that requires that I could be
-    at home or in those parts, which will not do, for I must absolutely work here. If, however, there
-    is a possibility, then let Your Serene Highness count upon my zeal to realise your wishes by every
-    means. By the first post I shall write to the same further upon this.'
+    paid for anew through the 10 per cent transfer fees. This is surely so essential a thing that no landed
+    lord gives it away for eternity. As concerns the 30000 Rthl, I see as yet no possibility how these
+    are to be procured so quickly. If I obtain the capital from the King, then Your Serene Highness indeed
+    obtains much – but that is all used up if all the debts are to be paid. The latter must be, because
+    the mortgage certificate must be clear. Whence then to take it? The only case would be if I could
+    obtain money on one of my mortgages on Schwimmern and Kontop, or that the hereditary purchasers in
+    Zagorowo and Trąbczyn should come in numbers and bring money to pay, but [uncertain: it would be needful]
+    that I could be at home or in those parts; that, however, will not do, for I must absolutely be at
+    work here. If there is nevertheless a possibility, then may Your Serene Highness count upon my zeal
+    to realise your wishes in every way.
+
+
+    By the next post I shall write to Your Highness further upon this.'
+  names:
+  - de: Sartomiel
+    en: Sartomiel
+    kind: place
+  - de: Schwimmern
+    en: Schwimmern
+    kind: place
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Zagorow
+    en: Zagorowo
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  numbers:
+  - '6000'
+  - '100000'
+  - '20'
+  - '10'
+  - '30000'
 - page: 8
-  en: 'Perhaps some means may somewhere be found to obtain something further behind the great loan. Perhaps
-    it will succeed, for everyone now wishes to help, since even the King has loudly praised my dealings
-    and let justice be done to me, in order to appease the creditors. The saddest thing for me is that
-    Your Serene Highness now lives so far from here, and that I must bear all these burdens so entirely
-    alone. Upon no man can I rely; I may arrange what I will at my departure, and nothing is done – [uncertain:
-    what] I must come again, I have only to thank God that I find it as I had left it. – Grattenauer is
-    now continually ill, can neither write nor still less travel – Schenck has transformed himself into
-    the laziest of hands – Grimm lets everything lie until he thinks I might climb on his roof again.
-    Malzern I ought not even to depict, for his brutality and idleness are known to Your Serene Highness
-    quite sufficiently. But if God now helps me to obtain the loan, to pay all the debts, and thereby
-    to be rid of the great part of all the lawsuits, then I shall also lay before Your Serene Highness
-    a plan according to which the useless [uncertain: bestimmen] may be put into [uncertain: Staat]. For
-    now I must still go cautiously, so that the rogues do not become traitors and harmful to the good
-    cause. If it is in the world possible, may Your Serene Highness be pleased to answer me with the utmost
-    speed and, if need be, by express courier; otherwise I must lie here too long in vain. – In deepest
-    reverence I remain, until death, Your Serene Highness''s — If I obtain the Treasury notes I shall
-    endeavour to [uncertain: abzureisen] this and that. – May His Serene Highness be pleased to send me
-    a few more Blanquets for letters, with / most devotedly the / wholly devoted The / Berlin, the 1st
-    of May 1806. faithful and most obedient servant v Triebenfeld'
+  en: 'perhaps some means may be found somewhere to obtain something further behind the great loan. Perhaps
+    it will succeed, for everyone now wishes to help, since even the King has loudly praised my proceedings
+    and let justice be done, so as to pacify the creditors. The saddest thing for me is that Your Serene
+    Highness now lives so far from here and that I must bear all these burdens quite alone. Upon no man
+    can I rely; I may order what I will upon my departure, and nothing is done – when I return I must
+    only thank God if I find things as I left them. Grattenauer is now continually ill, cannot write,
+    still less instruct anyone. Schenck has transformed himself into the idlest of hands. Grimm lets everything
+    lie until he thinks I might climb onto his roof again. Malzern I need not even describe, for his brutality
+    and idleness are fully enough known to Your Serene Highness.
+
+
+    But if God now helps me to obtain the loan, to pay all the debts, and thereby to be rid of the great
+    part of all the lawsuits, then I shall also lay before Your Serene Highness a plan by which the useless
+    [uncertain: appointments] may be put in [uncertain: order]. For now I must still go cautiously, so
+    that the rascals do not turn traitor and become harmful to the good cause. If it be in any way possible
+    in this world, may Your Serene Highness deign to answer me with all speed and in any case by express
+    courier, otherwise I must lie here too long in vain – in deepest respect I remain, until death,
+
+
+    Your Serene Highness''s
+
+
+    If I obtain the treasury notes, I
+
+
+    shall endeavour to pay off this and that.
+
+
+    Deign, Serene Highness,
+
+
+    to let me have a few more [uncertain: blue covers] for letters, with / most devotedly the / wholly
+    devoted The / Berlin, the 1st of May
+
+
+    1806.
+
+
+    faithful and most obedient servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Grattenauer
+    en: Grattenauer
+    kind: person
+  - de: Schenck
+    en: Schenck
+    kind: person
+  - de: Grimm
+    en: Grimm
+    kind: person
+  - de: Malzern
+    en: Malzern
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '1'
+  - '1806'

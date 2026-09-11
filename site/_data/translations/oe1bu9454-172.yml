@@ -1,37 +1,127 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! Since yesterday I have been here in Trąbczin,
-    to press forward the dismemberment business with Eyster. A great many people are already here, but
-    since many more were expected, I have postponed the principal term until next Monday, when I then
-    certainly intend to conclude the contracts for all the parcels. President v Goldbeck is now [uncertain:
-    minting/affecting] himself noble and worthy; he has written to Minister Voss for eight days'' leave,
-    in order to go to Breslau and be able to arrange his household affairs; on that occasion he says to
-    Herr v Vor: With regard to the Landrath protocols sent in to Your [uncertain: Epl.] concerning the
-    dismemberment business of the Prince Hohenlohe, I must still most humbly observe that the matter has
-    already advanced too far and could not be reversed. I have found, upon [uncertain: closer] examination,
-    that the Chamber has already consented to the dismemberment and has furnished the Landrath v. Blomberg
-    with the principles pertaining thereto under the 2nd of Septr. of the previous year. Both in these
-    and also in the latter report, the Departmental Councillor, Councillor of War zur Höllen, has'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    Since yesterday I have been here in Trąbczyn in order to press forward the dismemberment business
+    with Eyster. There are already a great many people here, but since many more were expected, I have
+    postponed the principal appointed day until next Monday, when I then certainly intend to conclude
+    the contracts over all the parcels of ground. President von Goldbeck is now making himself out noble
+    and gallant; he has written to Minister Voss for eight days'' leave in order to go to Breslau and
+    to be able to arrange his domestic affairs; on that occasion he says to Herr von Vor: In view of the
+    district councillor''s protocols submitted to Your [uncertain: Epl.] concerning the dismemberment
+    business of the Prince of Hohenlohe, I must still most humbly observe that the matter has already
+    progressed too far and could not be reversed. Upon closer examination I have found that the Chamber
+    has already consented to the dismemberment and has furnished to the district councillor von Blomberg
+    the principles pertaining thereto under the 2nd of September of the present year. Both in these and
+    also in the latter report the departmental councillor, councillor of war zur Höllen,'
+  names:
+  - de: Trąbczin
+    en: Trąbczyn
+    kind: place
+  - de: Eyster
+    en: Eyster
+    kind: person
+  - de: v Goldbeck
+    en: von Goldbeck
+    kind: person
+  - de: Voss
+    en: Voss
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: H v Vor
+    en: Herr von Vor
+    kind: person
+  - de: Fürsten Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: v. Blomberg
+    en: von Blomberg
+    kind: person
+  - de: zur Höllen
+    en: zur Höllen
+    kind: person
+  numbers:
+  - '8'
+  - '2'
+  - '1805'
 - page: 2
-  en: 'allowed unpardonable errors to be laid to his charge, and compromised the Collegium; against this
-    the Princely Dominium has conducted itself better and has done more than was at that time required
-    by the Chamber, so that only in few cases has there been action contrary to the norm. In the name
-    of the Collegium I beg Your [pardon], but at the same time I pledge that, if Your [Excellency] will
-    deign to grant the consent to the dismemberment of the Princely estates, the gross errors of the Departmental
-    Councillor shall be rectified so far as is possible, p. pp. — that, after all, is all that an honest
-    man can do; and with his approbation I am now to go briskly ahead and at once dismember everything,
-    for even if E. v. Voss should wish to make [uncertain: cross-difficulties], the Chamber must keep
-    its word and press for the consent. This part has been played masterfully through all the proceedings.
-    With the Olesnicer people I think I shall soon be finished, for today Mona Kunckel was fetched away
-    by the Landreuter and, through the mediation of the Schencis, placed in custody for several terms.
-    Now it will become easy play with the 3 knaves. On account of Szetlewek I shall have a warm day tomorrow;
-    God grant good fortune as in other cases. Today the Winnich heirs have again brought suit and demand
-    a further 1300 Rthl of arrears of survey costs. It is truly dreadful how things have gone on here:
-    the revenues are constantly consumed and not a soul has been paid.'
+  en: 'has incurred unpardonable errors and compromised the collegiate board; against this, the princely
+    manorial lordship (Dominium) has conducted itself better and has done more than was required by the
+    Chamber at that time, so that only in few cases has there been any acting contrary to the norm.
+
+
+    In the name of the collegiate board I beg Your pardon, but at the same time I pledge that, if You
+    should be pleased to grant the consent to the dismemberment of the princely estates, the gross errors
+    of the departmental councillor shall be rectified so far as possible, etc. etc.
+
+
+    That is after all everything an honest man can do, and with his approval I am now to proceed briskly
+    and dismember everything at once; for even if His Excellency von Voss should wish to make difficulties,
+    the Chamber must keep its word and press for the consent. This part has been played masterfully through
+    all the acts. With the people of Olesnica I think I shall soon be finished, for today Mona Kunckel
+    was fetched away by the mounted district officer and, through the mediation of Schencis, placed in
+    custody for a longer period. Now it will be easy play with the 3 knaves.
+
+
+    On account of Szetlewek I shall have a warm day tomorrow; God grant good fortune as in other cases.
+
+
+    Today the Winnich heirs have again brought suit and demand a further 1300 Rthl of arrears in surveying
+    costs. It is truly frightful how matters have gone on here: the revenues are constantly used up and
+    not a soul has been paid.'
+  names:
+  - de: Voss
+    en: Voss
+    kind: person
+  - de: Olesnicern
+    en: people of Olesnica
+    kind: place
+  - de: Mona Kunckel
+    en: Mona Kunckel
+    kind: person
+  - de: Schencis
+    en: Schencis
+    kind: person
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Winnichische
+    en: Winnich
+    kind: person
+  numbers:
+  - '3'
+  - '1300'
 - page: 3
-  en: By this carting Your Serene Highness may deign to have the 6 tables and 30 fruit trees driven over
-    to the President. I have instructed the man that he is indeed to say that it all comes from me. —
-    For the rest, may God the All-bountiful only grant that Amelang does good business, and then all wishes
-    are attained. In deepest reverence I remain, until death, Your Most Serene Highness's Trąbczin, the
-    28th of March 1805. faithful most humble and obedient servant v Triebenfeld
+  en: 'By this conveyance may Your Serene Highness be pleased to have the 6 tables and 30 fruit trees
+    carried to the President. I have instructed the man that he is indeed to say that he brings it all
+    from me. — For the rest, may God the All-Good only grant that Amelang does good business, for then
+    all wishes are attained. In deepest reverence I remain, until death, Your Most Serene Highness''s
+    Trąbczyn, the 28th of March
+
+
+    1805.
+
+
+    faithful and most humble and obedient servant von Triebenfeld'
+  names:
+  - de: Amelang
+    en: Amelang
+    kind: person
+  - de: Trąbczin
+    en: Trąbczyn
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '6'
+  - '30'
+  - '28'
+  - '1805'

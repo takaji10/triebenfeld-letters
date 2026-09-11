@@ -140,20 +140,275 @@
    "doc_line": 44
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Humboldt",
+   "kind": "person",
+   "surface_de": "von Humboldts",
+   "surface_en": "von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlens",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohische",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Gärtner",
+   "kind": "person",
+   "surface_de": "v. Gärtner",
+   "surface_en": "von Gärtner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Metternich, Prince",
+   "kind": "person",
+   "surface_de": "Fürst Metternich",
+   "surface_en": "Metternich, Prince",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrede",
+   "kind": "person",
+   "surface_de": "Wrede",
+   "surface_en": "Wrede",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wessling",
+   "kind": "person",
+   "surface_de": "Wessling",
+   "surface_en": "Wessling",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Gral[illegible]",
+   "kind": "place",
+   "surface_de": "Gral[?]",
+   "surface_en": "Gral[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trieste",
+   "kind": "place",
+   "surface_de": "Triest",
+   "surface_en": "Trieste",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Göschet",
+   "kind": "person",
+   "surface_de": "Göschet",
+   "surface_en": "Göschet",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Göschell",
+   "kind": "person",
+   "surface_de": "Göschell",
+   "surface_en": "Göschell",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Gärtner",
+   "kind": "person",
+   "surface_de": "G. H. v Gärtner",
+   "surface_en": "Mr. von Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's two letters of the 30th of last month and the 4th of this I received on the 15th of November, whereby then a great part of my sufferings was relieved. In the meantime there will be no lack of care, for a great part went upon bread already eaten up in advance — [uncertain: Gelung] here I shall have to help myself through, however miserably it may ever be. Now as concerns the paper of Herr Court Councillor Hahn, it is simply impossible to append it to that petition, since the same already lies at this time before His Majesty. His Majesty is at present very well disposed, and everything depends upon my receiving with the utmost speed the 12000 Rthl for those lately given full powers, in order to conclude with them; the 10000 Rthl will thereafter at once be assigned in Berlin. That His Serene Highness the Prince Chancellor is willing to help Your Serene Highness faithfully — of that you may hold yourself assured, most gracious Lord; and of Herr Baron von Humbolt's sentiments the enclosure will convince Your Serene Highness. The fate of Poland is indeed decided, but nothing has yet come to general knowledge. Regarding Your Serene Highness's Hohenlohe affairs, everything is indeed fairly well set in train; meanwhile Herr von Gärtner will [text lost]"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's two letters of the 30th of last month and the 4th of this one I received on the 15th of November, whereby then a great part of my sufferings was relieved. Meanwhile there will be no lack of care, for a great part of it went upon bread already eaten in advance. As for getting by here, I shall have to help myself through, however meagrely it may ever be. Now as concerns the composition of the Court Councillor Hahn, it is simply impossible to append it to that petition, because the latter now already lies before His Majesty. His Majesty is at present very well disposed, and everything depends upon my receiving, with the utmost speed, the 12000 Rthl for the short-term authorised representatives, in order to conclude with them; the 10000 Rthl will thereafter at once be ordered for payment in Berlin. That His Serene Highness the Prince Chancellor is willing to help Your Serene Highness faithfully - of that you may hold yourself assured, most gracious Lord, and of the sentiments of Baron von Humboldt the enclosure will convince Your Serene Highness. The fate of Poland is indeed decided, but nothing has yet come to general knowledge. With regard to Your Serene Highness's Hohenlohe affairs, everything is indeed tolerably set in train; meanwhile Mr. von Gärtner will [text lost] an un[text lost]",
+   "names": [
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "von Humboldts",
+     "en": "von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlens",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohische",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "v. Gärtner",
+     "en": "von Gärtner",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30",
+    "4",
+    "15",
+    "12000",
+    "10000",
+    "17",
+    "1814"
+   ]
   },
   {
    "page": 2,
-   "en": "[text lost] writing to the Congress concerning these abominable grievances at once and moreover separately; so much is certain, that the mediatised [princes] will throughout recover their old prerogatives, short of full sovereignty. A few days ago there seemed to prevail here a slight tension, which excited a considerable whispering — the matter arose from a conference held in the deepest secrecy between Prince Metternich, Wrede and [uncertain: Wessling / Wessenberg], to which our Minister was not called in — As yet one knows nothing of the subject, nor whether the jealousy is entirely removed — on the 20th the 3 monarchs go travelling again — they are making a tour to [uncertain: Gral / Grätz (Graz)] and Triest; one flatters oneself that after their return the Congress will then most speedily reach its conclusion. At this moment it is said that nothing will come of the journey, and that the Emperor of Russia will already return to Petersburg on the 2nd[uncertain: 2ten] of next month. Privy Councillor Göschet has issued to me the enclosed power of attorney, that Your Serene Highness might be pleased to draw up the same for him — Have Your Serene Highness the grace and draw it up — but leave out the name Göschell and [uncertain: dem Plazoffen] — I shall see who does more, whether he or His Excellency von Gärtner, who deserves it, whose name I write in here. Reverently I remain Your Serene Highness's Vienna, the 17th of November 1814. most faithful and obedient servant v Triebenfeld"
+   "en": "writing to the Congress concerning these abominable grievances, quite separately and at once; so much is certain, that the mediatised throughout are regaining their old prerogatives, short of complete sovereignty. A few days ago there seemed to prevail here a slight tension, which excited a considerable whispering - the matter arose from a conference held in the deepest secrecy between Prince Metternich, Wrede and Wessling, to which our Minister was not drawn in - As yet one knows nothing of the subject, nor whether the jealousy has been entirely removed - on the 20th the 3 monarchs go travelling again - They are making a tour to Gral[illegible] and Trieste; one flatters oneself that after their return the Congress will then soonest reach its conclusion.\n\nAt this moment it is said that nothing will come of the journey and that the Emperor of Russia will already return to Petersburg on the 2nd[uncertain] of next month. The Privy Councillor Göschet has issued to me the enclosed power of attorney, that Your Serene Highness might draw up such a one for him - Might Your Serene Highness have the grace to draw up such a one - but leave out the name Göschell and [uncertain: dem Plazoffen], - I shall see who does more, whether he or the Mr. von Gärtner who deserves it, whose name I write in here. Reverently I remain\n\nYour Serene Highness's\n\nVienna, the 17th of November\n\n1814.\n\nfaithful and most obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Fürst Metternich",
+     "en": "Metternich, Prince",
+     "kind": "person"
+    },
+    {
+     "de": "Wrede",
+     "en": "Wrede",
+     "kind": "person"
+    },
+    {
+     "de": "Wessling",
+     "en": "Wessling",
+     "kind": "person"
+    },
+    {
+     "de": "Gral[?]",
+     "en": "Gral[illegible]",
+     "kind": "place"
+    },
+    {
+     "de": "Triest",
+     "en": "Trieste",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Göschet",
+     "en": "Göschet",
+     "kind": "person"
+    },
+    {
+     "de": "Göschell",
+     "en": "Göschell",
+     "kind": "person"
+    },
+    {
+     "de": "G. H. v Gärtner",
+     "en": "Mr. von Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20",
+    "3",
+    "2",
+    "17",
+    "1814"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's two letters of the 30th of last month and the 4th of this I received on the 15th of November, whereby then a great part of my sufferings was relieved. In the meantime there will be no lack of care, for a great part went upon bread already eaten up in advance — [uncertain: Gelung] here I shall have to help myself through, however miserably it may ever be. Now as concerns the paper of Herr Court Councillor Hahn, it is simply impossible to append it to that petition, since the same already lies at this time before His Majesty. His Majesty is at present very well disposed, and everything depends upon my receiving with the utmost speed the 12000 Rthl for those lately given full powers, in order to conclude with them; the 10000 Rthl will thereafter at once be assigned in Berlin. That His Serene Highness the Prince Chancellor is willing to help Your Serene Highness faithfully — of that you may hold yourself assured, most gracious Lord; and of Herr Baron von Humbolt's sentiments the enclosure will convince Your Serene Highness. The fate of Poland is indeed decided, but nothing has yet come to general knowledge. Regarding Your Serene Highness's Hohenlohe affairs, everything is indeed fairly well set in train; meanwhile Herr von Gärtner will [text lost]\n\n[text lost] writing to the Congress concerning these abominable grievances at once and moreover separately; so much is certain, that the mediatised [princes] will throughout recover their old prerogatives, short of full sovereignty. A few days ago there seemed to prevail here a slight tension, which excited a considerable whispering — the matter arose from a conference held in the deepest secrecy between Prince Metternich, Wrede and [uncertain: Wessling / Wessenberg], to which our Minister was not called in — As yet one knows nothing of the subject, nor whether the jealousy is entirely removed — on the 20th the 3 monarchs go travelling again — they are making a tour to [uncertain: Gral / Grätz (Graz)] and Triest; one flatters oneself that after their return the Congress will then most speedily reach its conclusion. At this moment it is said that nothing will come of the journey, and that the Emperor of Russia will already return to Petersburg on the 2nd[uncertain: 2ten] of next month. Privy Councillor Göschet has issued to me the enclosed power of attorney, that Your Serene Highness might be pleased to draw up the same for him — Have Your Serene Highness the grace and draw it up — but leave out the name Göschell and [uncertain: dem Plazoffen] — I shall see who does more, whether he or His Excellency von Gärtner, who deserves it, whose name I write in here. Reverently I remain Your Serene Highness's Vienna, the 17th of November 1814. most faithful and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's two letters of the 30th of last month and the 4th of this one I received on the 15th of November, whereby then a great part of my sufferings was relieved. Meanwhile there will be no lack of care, for a great part of it went upon bread already eaten in advance. As for getting by here, I shall have to help myself through, however meagrely it may ever be. Now as concerns the composition of the Court Councillor Hahn, it is simply impossible to append it to that petition, because the latter now already lies before His Majesty. His Majesty is at present very well disposed, and everything depends upon my receiving, with the utmost speed, the 12000 Rthl for the short-term authorised representatives, in order to conclude with them; the 10000 Rthl will thereafter at once be ordered for payment in Berlin. That His Serene Highness the Prince Chancellor is willing to help Your Serene Highness faithfully - of that you may hold yourself assured, most gracious Lord, and of the sentiments of Baron von Humboldt the enclosure will convince Your Serene Highness. The fate of Poland is indeed decided, but nothing has yet come to general knowledge. With regard to Your Serene Highness's Hohenlohe affairs, everything is indeed tolerably set in train; meanwhile Mr. von Gärtner will [text lost] an un[text lost]\n\nwriting to the Congress concerning these abominable grievances, quite separately and at once; so much is certain, that the mediatised throughout are regaining their old prerogatives, short of complete sovereignty. A few days ago there seemed to prevail here a slight tension, which excited a considerable whispering - the matter arose from a conference held in the deepest secrecy between Prince Metternich, Wrede and Wessling, to which our Minister was not drawn in - As yet one knows nothing of the subject, nor whether the jealousy has been entirely removed - on the 20th the 3 monarchs go travelling again - They are making a tour to Gral[illegible] and Trieste; one flatters oneself that after their return the Congress will then soonest reach its conclusion.\n\nAt this moment it is said that nothing will come of the journey and that the Emperor of Russia will already return to Petersburg on the 2nd[uncertain] of next month. The Privy Councillor Göschet has issued to me the enclosed power of attorney, that Your Serene Highness might draw up such a one for him - Might Your Serene Highness have the grace to draw up such a one - but leave out the name Göschell and [uncertain: dem Plazoffen], - I shall see who does more, whether he or the Mr. von Gärtner who deserves it, whose name I write in here. Reverently I remain\n\nYour Serene Highness's\n\nVienna, the 17th of November\n\n1814.\n\nfaithful and most obedient servant\n\nvon Triebenfeld",
  "summary_en": "Acknowledges receipt of two princely letters and reports relief of his own straitened circumstances; Court Councillor Hahn's paper cannot be added to the petition, which already lies before His Majesty. Urges the swift remittance of 12000 Rthl to conclude with the recently empowered agents, the 10000 Rthl to follow at Berlin; cites the goodwill of the Prince Chancellor and Baron von Humbolt. Notes Poland's fate settled, the mediatised princes' prospects, a secret Metternich–Wrede–Wessenberg conference, the monarchs' projected journey to Grätz and Triest, and a power of attorney from Privy Councillor Göschet, to be drawn up naming von Gärtner instead.",
  "summary_de": "Bestätigt den Empfang zweier fürstlicher Schreiben vom 30. Oktober und 4. November; klagt über eigene Geldnot. Das Papier des Hofraths Hahn könne der bereits bei Seiner Majestät liegenden Bittschrift nicht beigefügt werden. Dringend erbittet er 12000 Rthl für die erteilten Vollmachten, die 10000 Rthl würden danach in Berlin angewiesen. Berichtet über Wohlwollen des Fürsten Staatskanzlers und des Baron von Humbolt, die entschiedene Sache Polens, die Aussicht der Mediatisierten auf alte Vorrechte, eine geheime Konferenz Metternichs mit Wrede und Wessenberg, die geplante Reise der drei Monarchen nach Grätz und Triest sowie eine von Geheimrath Göschell übergebene Vollmacht, in die statt dessen Namen der des von Gärtner zu setzen sei. Bruchstückhaft."
 }

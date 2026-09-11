@@ -314,24 +314,548 @@
    "doc_line": 114
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kohlen",
+   "kind": "place",
+   "surface_de": "Kohlen",
+   "surface_en": "Kohlen",
+   "page": 1
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Alexander",
+   "kind": "person",
+   "surface_de": "Alexander",
+   "surface_en": "Alexander",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Beidlung",
+   "kind": "person",
+   "surface_de": "Beidlung",
+   "surface_en": "Beidlung",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Miedzeritz",
+   "kind": "place",
+   "surface_de": "Miedzeritz",
+   "surface_en": "Miedzeritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betechen",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichauf",
+   "surface_en": "Echaust",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichauf",
+   "surface_en": "Echaust",
+   "page": 2
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulm",
+   "surface_en": "Kulm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 2
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bally",
+   "kind": "person",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 2
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Humboldt",
+   "kind": "person",
+   "surface_de": "v Humboldt",
+   "surface_en": "von Humboldt",
+   "page": 2
+  },
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzcinski",
+   "surface_en": "Trzciński",
+   "page": 2
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Kurnatowski",
+   "kind": "person",
+   "surface_de": "v Kurnatowski",
+   "surface_en": "von Kurnatowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kräger",
+   "kind": "person",
+   "surface_de": "Kräger",
+   "surface_en": "Kräger",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld-feld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betsche",
+   "page": 3
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr. Z.",
+   "kind": "person",
+   "surface_de": "H. Z.",
+   "surface_en": "Mr. Z.",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! My illness has ceased; only the great weakness does not permit me to undertake long journeys. The physician forbids exposing oneself to the weather at once, wherefore I must yet keep quarantine for some few days. In this regard I shall await the return of this messenger. My estate affairs in Kohlen I have arranged — there remain to us just 62000 Rthl over — Schenck has leased out the estates to a Jew in a [uncertain: reading; \"sendenhaft\"] and bad manner — yet I now obtain, by turning matters otherwise, so much that I shall be able to travel and to meet the manifold costs; 500 Rthl will [be paid?] to me now, and with that I go to Betsche and from there to Berlin. The Emperor Alexander does not come to Berlin until the end of April, concerning which, however, I still expect detailed information shortly from p. Beidlung. In Betsche my first business will be to come to an agreement with Leixner in Miedzeritz, and to see that I bring the receipt that has been found into validity — Should that succeed, then I shall have the debt struck out in the mortgage book, and seek out the profit which is to be drawn from Betechen. The burghers and peasants have declared themselves insolvent and press for the annulment of the contract — they prove the laesio, that they are injured beyond the half, since the estates were valued at only 64000 Rthl. I prove that even the highest provincial authority examined everything and approved Your Serene Highness's proposal; since, moreover, the O H Zerboni desires the annulment of the contract, I shall consent to it, yet reserving only quaevis competentia. That is to say: he — the burghers and peasants — forfeit the earnest-money they have given. 2. They must at once pay the arrears of canon and competence with about 2000, so that the sequestration ceases forthwith. 3. They must at once discharge to Your Serene Highness the arrears of canon with 11000 Rthl. 4. They must declare how they mean to pay off the arrears of interest. NB: this interest was formerly demanded by the State, but now that will fall into the breach, if it be proved that the sum of respectively 137000 Rthl entered upon Betsche has been improperly reckoned as Bayonne sums, but rather that it is the pure private property of Your Serene Highness. What is to be gained from this, I shall be attentive to. 5. The communities must themselves turn their weapons against Eichauf and his confederates."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy illness has ceased; only the great weakness does not permit me to undertake long journeys. The physician forbids exposing oneself at once to the weather, wherefore I must still keep quarantine for a few days. With this in view I shall await the return of this messenger. My estate affairs in Kohlen I have arranged - there remain to us exactly 62000 Rthl - Schenck has leased out the estates to a Jew [uncertain: ruinously] and badly - yet I now obtain, by other turns of business, so much that I shall be able to travel and to meet the manifold costs; 500 Rthl are now [text lost] to me, and with that I go to Betsche and from there to Berlin. The Emperor Alexander does not come to Berlin until the end of April, about which however I expect fuller information shortly from the aforesaid Beidlung.\n\nIn Betsche my first business will be to come to an agreement with Leixner in Miedzeritz and to see that I bring the receipt that has been found into validity - If that succeeds, then I shall have the debt struck out in the mortgage book, and seek out the [uncertain: Müzzen] which is to be drawn from Betsche: The burgesses and peasants have declared themselves insolvent and press for the annulment of the contract - They prove the [uncertain: Lation] that they are injured beyond the half, since the estates were valued at only 64000 Rthl. I prove that even the highest authority of the land examined everything and approved Your Serene Highness's offer; since moreover the Chief President Zerboni wishes the annulment of the contract, I shall consent to it, yet reserving only quaevis competentia. That is to say, the burgesses and peasants forfeit the earnest money they have given.\n\n2. They must at once pay the arrears of canon and competence with about 2000, so that the sequestration ceases at once.\n\n3. They must at once deliver over to Your Serene Highness the arrears of canon with 11000 Rthl. 4. They must declare how they mean to discharge the arrears of interest. NB these interest payments were formerly demanded by the State, but now that will fall to the ground, if it be proved that the sums of respectively 137000 Rthl entered upon Betsche have been improperly reckoned as [uncertain: Bayon] sums, but that it is the pure private property of Your Serene Highness.\n\nWhat is to be gained from this, I shall attend to.\n\n5. The communities must themselves turn their weapons against Echaust and his confederates.",
+   "names": [
+    {
+     "de": "Kohlen",
+     "en": "Kohlen",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Alexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Beidlung",
+     "en": "Beidlung",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Miedzeritz",
+     "en": "Miedzeritz",
+     "kind": "place"
+    },
+    {
+     "de": "Betechen",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Betschen",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Eichauf",
+     "en": "Echaust",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "62000",
+    "500",
+    "64000",
+    "2000",
+    "11000",
+    "137000"
+   ]
   },
   {
    "page": 2,
-   "en": "According to my reckoning there would then remain to Your Serene Highness: 1. the interest on about 68000 Rthl; 2. the arrears of canon of 11000; 3. the 28000 Rthl paid down by the peasants in 1805; 4. what can be wrested from [uncertain: Eichauf] and his confederates, with 20000 Rthl. Thus Your Serene Highness would have from Betschen in all 127000 Rthl. NB: the 28000 Rthl Your Serene Highness already has, so there would still remain to be received 99000 Rthl. Now it depends upon what Betsche is still worth; the forest is totally devastated. At 64000 Rthl it was valued — queritur, will it be worth 72000 Rthl. Also, how will it stand with the other 65000 Rthl entered upon it? They do indeed stand in the receipt as well, but I do not yet know whether I shall be able to move Leixner to accept these too. Were that to succeed, and Leixner to take this sum upon Kulm and Kaemen, then all would be helped — Your Serene Highness would have to receive, as said before, 99000 Rthl. Of the estates themselves I [uncertain: reckon] the 72000; out of the remainder, with about 20000, Lombardini, H H Hahn and the good Bally would be paid. Everything, however, depends upon my succeeding with Leixner. The man is now dirt-poor; I must support him and give him money for the outlay of costs of his business. The [uncertain: Ober-Präsident] Zerboni is charged from higher quarters to sustain him; Kaemen is to remain to him. — I insist meanwhile that the sum of 72 and 65000 Rthl entered upon Betsche belongs not upon Betsche but upon Kaemen, according to the receipt of Meyer Bernhard. God grant me further good fortune — but may Your Serene Highness deign to write to me whether this has Your entire approval. The indemnification business, which has come to a standstill through the [uncertain: méchante] delay, will nevertheless turn out very well. It is being worked diplomatically, and the Minister von Humboldt has great need of me now. Trzcinski is here again. It is not this one but the Major Trzcinski who has been suffocated — He was with me the day before yesterday and begged for forbearance until St. John's day, when he receives 25000 Rthl for an estate he has sold — Litigate I cannot, that costs money; I have granted him such, but assured him that I shall lay arrest not only upon the purchase moneys but upon all revenues. From Schenck I [uncertain: see] and hear nothing — He wants to have a general power of attorney all for himself — May Your Serene Highness deign to send me a letter"
+   "en": "According to my reckoning there would then remain to Your Serene Highness\n\n1. The interest on about 68000 Rthl\n\n2. the arrears of canon of 11000\n\n3. the 28000 Rthl paid down by the peasants in 1805\n\n4. what can be wrested from Echaust and his confederates, with 20000 Rthl. Thus Your Serene Highness would have from Betsche altogether 127000 Rthl. NB the 28000 Rthl Your Serene Highness already has, so there would still be to receive 99000 Rthl. Now it depends upon what Betsche is still worth; the forest is totally devastated. At 64000 Rthl it was valued - Queritur, will it be worth 72000 Rthl. And how will it stand with the other 65000 Rthl charged upon it? They do indeed stand in the receipt as well, but I do not yet know whether I shall be able to move Leixner to accept these too. If that should succeed and Leixner took this sum upon Kulm and Kaemen, then all would be helped - Your Serene Highness would have to receive, as said above, 99000 Rthl\n\nFrom the estates themselves I [uncertain: reckon] the\n\n72000\n\nfrom the remainder with about\n\n20000 Lombardini, Messrs. Hahn and the good Bally would be paid. Everything however depends upon my succeeding with Leixner. The man is now destitute; I must support him and give money for the outlay of costs of his business. The Chief President Zerboni is charged from higher quarters to sustain him; Kaemen is to remain his. - I insist meanwhile that the sums of 72 and 65000 Rthl entered upon Betsche belong not upon Betsche but upon Kaemen, according to the receipt of Meyer Bernhard. God grant me further good fortune - but may Your Serene Highness deign to write to me whether this altogether has your approval. The compensation business, which through the malicious delay has come to a standstill, will nevertheless turn out very well. It is being worked diplomatically, and the Minister von Humboldt has great need of me now. Trzciński is here again. It is not this one but the Major Trzciński who was suffocated - He was with me the day before yesterday and begged for indulgence until Midsummer, when he receives 25000 Rthl for an estate sold - Go to law I cannot, that costs money; I have granted him such, but assured him that I would lay arrest not only upon the purchase moneys but upon all revenues. Of Schenck I [uncertain: see] and hear nothing - He wants to have a general power of attorney to himself alone - May Your Serene Highness deign to send me a letter",
+   "names": [
+    {
+     "de": "Betschen",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Eichauf",
+     "en": "Echaust",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Kulm",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "v Humboldt",
+     "en": "von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Trzcinski",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "68000",
+    "11000",
+    "28000",
+    "1805",
+    "20000",
+    "127000",
+    "28000",
+    "99000",
+    "64000",
+    "72000",
+    "65000",
+    "99000",
+    "72000",
+    "20000",
+    "72",
+    "65000",
+    "25000"
+   ]
   },
   {
    "page": 3,
-   "en": "such as I requested in my last, so that I may be rid of him. With Zerboni he has fallen out, I know not for what reasons — The [uncertain: Üb P] also wrote lately to the Landrath v Kurnatowski, that he, together with the Chief Forester Kräger and with the Privy Councillor von Triebenfeld, should for the present investigate the forest devastations in Betschen, so that one may see clearly. Schenck is offended at this, that the Government merely answered him that his submission could not be understood. He wishes, if he receives a general power of attorney and 500 Rthl together with free [uncertain: defraying of expenses], to go to Posen and to work upon the matter — It will be hard for me to raise 10 Rthl; I have therefore given him no decision upon it, and at bottom I do not need him — My tenant's brother is house-factor and favourite of Zerboni, through whose hands pass all the offerings that are brought. Had Your Serene Highness been able to [uncertain: send] me a [uncertain: Frisling] for 7 [uncertain: bowls], it would have been of use. My tenant goes with me to Posen — He himself stands in very close liaison with H. Z. on account of deliveries — and will render [uncertain: only] services. As soon as I receive Your Serene Highness's answer I travel to [uncertain: Bonn] and Betsche. Full of reverence I remain, until death, Your Serene Highness's — The messenger receives 3 gg Courant per mile; 1 Rthl I have given him here; may Your Serene Highness deign to have the remainder paid out to him there. Blizanow, the 16th of January 1816. most humble and obedient servant v Triebenfeld"
+   "en": "such as I requested in my last, so that I may be rid of him. With Zerboni he has fallen out, I do not know on what grounds - The Chief President also wrote lately to the district administrator von Kurnatowski that he, together with the chief forester Kräger and with the privy councillor von Triebenfeld, should for the present investigate the forest devastations in Betsche, so that one may see clearly. Schenck is offended that the government merely answered him that his submission could not be understood. He wishes, if he receives a general power of attorney and 500 Rthl together with free defrayment, to go to Posen and work upon the matter - It will be hard for me to raise 10 Rthl; I have therefore given him no decision upon it, and at bottom do not need him - My tenant's brother is house factor and favourite of Zerboni, through whose hands pass all the offerings that are brought. Had Your Serene Highness been able to [uncertain: spare] me a [uncertain: Frisling] for 7 bowls, it would have been of use. My tenant goes with me to Posen - He himself stands in very close connexion with Mr. Z. on account of deliveries - and will render only services. As soon as I receive Your Serene Highness's answer I travel to Posen and Betsche. In deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nthe messenger receives per mile 3 gg Courant\n\n1 Rthl I have given him here. May it please\n\nYour Serene Highness to have the remainder paid\n\nout there\n\nBlizanow\n\nthe 16th of January 1816.\n\nmost humble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "v Kurnatowski",
+     "en": "von Kurnatowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kräger",
+     "en": "Kräger",
+     "kind": "person"
+    },
+    {
+     "de": "von Triebenfeld-feld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Betschen",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "H. Z.",
+     "en": "Mr. Z.",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "500",
+    "10",
+    "7",
+    "3",
+    "1",
+    "16",
+    "1816"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! My illness has ceased; only the great weakness does not permit me to undertake long journeys. The physician forbids exposing oneself to the weather at once, wherefore I must yet keep quarantine for some few days. In this regard I shall await the return of this messenger. My estate affairs in Kohlen I have arranged — there remain to us just 62000 Rthl over — Schenck has leased out the estates to a Jew in a [uncertain: reading; \"sendenhaft\"] and bad manner — yet I now obtain, by turning matters otherwise, so much that I shall be able to travel and to meet the manifold costs; 500 Rthl will [be paid?] to me now, and with that I go to Betsche and from there to Berlin. The Emperor Alexander does not come to Berlin until the end of April, concerning which, however, I still expect detailed information shortly from p. Beidlung. In Betsche my first business will be to come to an agreement with Leixner in Miedzeritz, and to see that I bring the receipt that has been found into validity — Should that succeed, then I shall have the debt struck out in the mortgage book, and seek out the profit which is to be drawn from Betechen. The burghers and peasants have declared themselves insolvent and press for the annulment of the contract — they prove the laesio, that they are injured beyond the half, since the estates were valued at only 64000 Rthl. I prove that even the highest provincial authority examined everything and approved Your Serene Highness's proposal; since, moreover, the O H Zerboni desires the annulment of the contract, I shall consent to it, yet reserving only quaevis competentia. That is to say: he — the burghers and peasants — forfeit the earnest-money they have given. 2. They must at once pay the arrears of canon and competence with about 2000, so that the sequestration ceases forthwith. 3. They must at once discharge to Your Serene Highness the arrears of canon with 11000 Rthl. 4. They must declare how they mean to pay off the arrears of interest. NB: this interest was formerly demanded by the State, but now that will fall into the breach, if it be proved that the sum of respectively 137000 Rthl entered upon Betsche has been improperly reckoned as Bayonne sums, but rather that it is the pure private property of Your Serene Highness. What is to be gained from this, I shall be attentive to. 5. The communities must themselves turn their weapons against Eichauf and his confederates.\n\nAccording to my reckoning there would then remain to Your Serene Highness: 1. the interest on about 68000 Rthl; 2. the arrears of canon of 11000; 3. the 28000 Rthl paid down by the peasants in 1805; 4. what can be wrested from [uncertain: Eichauf] and his confederates, with 20000 Rthl. Thus Your Serene Highness would have from Betschen in all 127000 Rthl. NB: the 28000 Rthl Your Serene Highness already has, so there would still remain to be received 99000 Rthl. Now it depends upon what Betsche is still worth; the forest is totally devastated. At 64000 Rthl it was valued — queritur, will it be worth 72000 Rthl. Also, how will it stand with the other 65000 Rthl entered upon it? They do indeed stand in the receipt as well, but I do not yet know whether I shall be able to move Leixner to accept these too. Were that to succeed, and Leixner to take this sum upon Kulm and Kaemen, then all would be helped — Your Serene Highness would have to receive, as said before, 99000 Rthl. Of the estates themselves I [uncertain: reckon] the 72000; out of the remainder, with about 20000, Lombardini, H H Hahn and the good Bally would be paid. Everything, however, depends upon my succeeding with Leixner. The man is now dirt-poor; I must support him and give him money for the outlay of costs of his business. The [uncertain: Ober-Präsident] Zerboni is charged from higher quarters to sustain him; Kaemen is to remain to him. — I insist meanwhile that the sum of 72 and 65000 Rthl entered upon Betsche belongs not upon Betsche but upon Kaemen, according to the receipt of Meyer Bernhard. God grant me further good fortune — but may Your Serene Highness deign to write to me whether this has Your entire approval. The indemnification business, which has come to a standstill through the [uncertain: méchante] delay, will nevertheless turn out very well. It is being worked diplomatically, and the Minister von Humboldt has great need of me now. Trzcinski is here again. It is not this one but the Major Trzcinski who has been suffocated — He was with me the day before yesterday and begged for forbearance until St. John's day, when he receives 25000 Rthl for an estate he has sold — Litigate I cannot, that costs money; I have granted him such, but assured him that I shall lay arrest not only upon the purchase moneys but upon all revenues. From Schenck I [uncertain: see] and hear nothing — He wants to have a general power of attorney all for himself — May Your Serene Highness deign to send me a letter\n\nsuch as I requested in my last, so that I may be rid of him. With Zerboni he has fallen out, I know not for what reasons — The [uncertain: Üb P] also wrote lately to the Landrath v Kurnatowski, that he, together with the Chief Forester Kräger and with the Privy Councillor von Triebenfeld, should for the present investigate the forest devastations in Betschen, so that one may see clearly. Schenck is offended at this, that the Government merely answered him that his submission could not be understood. He wishes, if he receives a general power of attorney and 500 Rthl together with free [uncertain: defraying of expenses], to go to Posen and to work upon the matter — It will be hard for me to raise 10 Rthl; I have therefore given him no decision upon it, and at bottom I do not need him — My tenant's brother is house-factor and favourite of Zerboni, through whose hands pass all the offerings that are brought. Had Your Serene Highness been able to [uncertain: send] me a [uncertain: Frisling] for 7 [uncertain: bowls], it would have been of use. My tenant goes with me to Posen — He himself stands in very close liaison with H. Z. on account of deliveries — and will render [uncertain: only] services. As soon as I receive Your Serene Highness's answer I travel to [uncertain: Bonn] and Betsche. Full of reverence I remain, until death, Your Serene Highness's — The messenger receives 3 gg Courant per mile; 1 Rthl I have given him here; may Your Serene Highness deign to have the remainder paid out to him there. Blizanow, the 16th of January 1816. most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy illness has ceased; only the great weakness does not permit me to undertake long journeys. The physician forbids exposing oneself at once to the weather, wherefore I must still keep quarantine for a few days. With this in view I shall await the return of this messenger. My estate affairs in Kohlen I have arranged - there remain to us exactly 62000 Rthl - Schenck has leased out the estates to a Jew [uncertain: ruinously] and badly - yet I now obtain, by other turns of business, so much that I shall be able to travel and to meet the manifold costs; 500 Rthl are now [text lost] to me, and with that I go to Betsche and from there to Berlin. The Emperor Alexander does not come to Berlin until the end of April, about which however I expect fuller information shortly from the aforesaid Beidlung.\n\nIn Betsche my first business will be to come to an agreement with Leixner in Miedzeritz and to see that I bring the receipt that has been found into validity - If that succeeds, then I shall have the debt struck out in the mortgage book, and seek out the [uncertain: Müzzen] which is to be drawn from Betsche: The burgesses and peasants have declared themselves insolvent and press for the annulment of the contract - They prove the [uncertain: Lation] that they are injured beyond the half, since the estates were valued at only 64000 Rthl. I prove that even the highest authority of the land examined everything and approved Your Serene Highness's offer; since moreover the Chief President Zerboni wishes the annulment of the contract, I shall consent to it, yet reserving only quaevis competentia. That is to say, the burgesses and peasants forfeit the earnest money they have given.\n\n2. They must at once pay the arrears of canon and competence with about 2000, so that the sequestration ceases at once.\n\n3. They must at once deliver over to Your Serene Highness the arrears of canon with 11000 Rthl. 4. They must declare how they mean to discharge the arrears of interest. NB these interest payments were formerly demanded by the State, but now that will fall to the ground, if it be proved that the sums of respectively 137000 Rthl entered upon Betsche have been improperly reckoned as [uncertain: Bayon] sums, but that it is the pure private property of Your Serene Highness.\n\nWhat is to be gained from this, I shall attend to.\n\n5. The communities must themselves turn their weapons against Echaust and his confederates.\n\nAccording to my reckoning there would then remain to Your Serene Highness\n\n1. The interest on about 68000 Rthl\n\n2. the arrears of canon of 11000\n\n3. the 28000 Rthl paid down by the peasants in 1805\n\n4. what can be wrested from Echaust and his confederates, with 20000 Rthl. Thus Your Serene Highness would have from Betsche altogether 127000 Rthl. NB the 28000 Rthl Your Serene Highness already has, so there would still be to receive 99000 Rthl. Now it depends upon what Betsche is still worth; the forest is totally devastated. At 64000 Rthl it was valued - Queritur, will it be worth 72000 Rthl. And how will it stand with the other 65000 Rthl charged upon it? They do indeed stand in the receipt as well, but I do not yet know whether I shall be able to move Leixner to accept these too. If that should succeed and Leixner took this sum upon Kulm and Kaemen, then all would be helped - Your Serene Highness would have to receive, as said above, 99000 Rthl\n\nFrom the estates themselves I [uncertain: reckon] the\n\n72000\n\nfrom the remainder with about\n\n20000 Lombardini, Messrs. Hahn and the good Bally would be paid. Everything however depends upon my succeeding with Leixner. The man is now destitute; I must support him and give money for the outlay of costs of his business. The Chief President Zerboni is charged from higher quarters to sustain him; Kaemen is to remain his. - I insist meanwhile that the sums of 72 and 65000 Rthl entered upon Betsche belong not upon Betsche but upon Kaemen, according to the receipt of Meyer Bernhard. God grant me further good fortune - but may Your Serene Highness deign to write to me whether this altogether has your approval. The compensation business, which through the malicious delay has come to a standstill, will nevertheless turn out very well. It is being worked diplomatically, and the Minister von Humboldt has great need of me now. Trzciński is here again. It is not this one but the Major Trzciński who was suffocated - He was with me the day before yesterday and begged for indulgence until Midsummer, when he receives 25000 Rthl for an estate sold - Go to law I cannot, that costs money; I have granted him such, but assured him that I would lay arrest not only upon the purchase moneys but upon all revenues. Of Schenck I [uncertain: see] and hear nothing - He wants to have a general power of attorney to himself alone - May Your Serene Highness deign to send me a letter\n\nsuch as I requested in my last, so that I may be rid of him. With Zerboni he has fallen out, I do not know on what grounds - The Chief President also wrote lately to the district administrator von Kurnatowski that he, together with the chief forester Kräger and with the privy councillor von Triebenfeld, should for the present investigate the forest devastations in Betsche, so that one may see clearly. Schenck is offended that the government merely answered him that his submission could not be understood. He wishes, if he receives a general power of attorney and 500 Rthl together with free defrayment, to go to Posen and work upon the matter - It will be hard for me to raise 10 Rthl; I have therefore given him no decision upon it, and at bottom do not need him - My tenant's brother is house factor and favourite of Zerboni, through whose hands pass all the offerings that are brought. Had Your Serene Highness been able to [uncertain: spare] me a [uncertain: Frisling] for 7 bowls, it would have been of use. My tenant goes with me to Posen - He himself stands in very close connexion with Mr. Z. on account of deliveries - and will render only services. As soon as I receive Your Serene Highness's answer I travel to Posen and Betsche. In deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nthe messenger receives per mile 3 gg Courant\n\n1 Rthl I have given him here. May it please\n\nYour Serene Highness to have the remainder paid\n\nout there\n\nBlizanow\n\nthe 16th of January 1816.\n\nmost humble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Recovered from illness but still weak, Triebenfeld reports his Kohlen affairs settled with 62000 Rthl remaining, criticises Schenck's leasing of the estates, and plans travel to Betsche, Posen and Berlin, Tsar Alexander not being expected until late April. He sets out terms for annulling the Betsche contract with the insolvent burgesses and peasants: forfeited earnest money, 2000 Rthl arrears to end the sequestration, 11000 Rthl canon arrears, totalling 127000 Rthl, hinging on Leixner accepting the 72000 and 65000 Rthl charges. Also notes Trzciński's respite until Midsummer, forest devastation inquiries, and the messenger's fee.",
  "summary_de": "Nach überstandener Krankheit noch reisebehindert; die Gutssachen in Kohlen geordnet, es verbleiben 62000 Rthl, 500 Rthl fließen ihm zu für die Reise über Betsche nach Berlin, wo Kaiser Alexander erst Ende April erwartet wird. Bürger und Bauern erklären sich insolvent und verlangen Aufhebung des Contracts wegen laesio (Taxe nur 64000 Rthl); Triebenfeld will zustimmen unter Vorbehalt, Verlust des Handgelds, Zahlung der Canonrückstände (2000 zur Beendigung der Sequestration, 11000 Rthl), zusammen 127000 Rthl Erwartung. Alles hängt von Leixner in Miedzeritz und der aufgefundenen Quittung ab; ferner Zerboni, Schenck (Generalvollmacht), Trzcinski und Waldverwüstungen."
 }

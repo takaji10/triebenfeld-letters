@@ -1,20 +1,57 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! Herr von Knobelsdorff was here and has satisfied
-    himself as to the locality. It [uncertain: pleased/took shape for] him; I am therefore endeavouring
-    now to bring everything into order, so as to arrange it all in such a way that one can survey the
-    matter at a glance. The confusion is meanwhile very great, the people obstinate, who are heard from
-    the Hawich; often I could go mad. With God I hope to settle everything. As to the lawsuit concerning
-    Trąbczyn, it will come to a good end; the term has already stood since the 24th, the matter is still
-    not concluded, and it may easily be another 14 days before the decree is read out by the Tribunal.
-    If I win here, then all distress shall have an end. H. v Knobelsdorff I hold to be an exceedingly
-    upright [text lost] man, who states his holdings only in accordance with the truth, and this shall
-    be done on this side as well (if Your Serene Highness leave the conduct of it to me alone) to fetch
-    — until the last breath I remain Your Serene Highness''s
+  en: 'Most Serene Prince
 
-    Klein Öhringen, the 29th of November 1810
 
-    most faithful servant
+    Most gracious Prince and Lord!
+
+
+    Herr von Knobelsdorff was here and has satisfied himself as to the place. It pleases him, and I am
+    therefore endeavouring now to bring everything into good order, so as to arrange it all in such a
+    way that the matter can be surveyed at a glance. The confusion is meanwhile very great, the people
+    stubborn, who are heard from the Hawich; often I could go out of my mind. With God I hope to set everything
+    to rights; the suit concerning Trąbczyn will come to a good end, the hearing date has already been
+    pending since the 24th, and still the matter is not concluded, and it may easily be another 14 days
+    before the decree is read out by the tribunal. If I win here, then all distress shall be at an end.
+
+
+    Herr von Knobelsdorff I hold to be an exceedingly upright man who states what he has only in accordance
+    with the truth, and this shall also be done from this side (if Your Serene Highness leaves the direction
+    to me alone [uncertain: to fetch]) - until my last breath I remain Your Serene Highness''s
+
+
+    Klein Öhringen, the 29th of November
+
+
+    1810
+
+
+    faithful servant
+
 
     v Triebenfeld'
+  names:
+  - de: Knobelsdorff
+    en: Knobelsdorff
+    kind: person
+  - de: Hawich
+    en: Hawich
+    kind: other
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Klein Öhringen
+    en: Klein Öhringen
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  - de: Gott
+    en: God
+    kind: other
+  numbers:
+  - '24'
+  - '14'
+  - '29'
+  - '1810'

@@ -1,83 +1,341 @@
 status: draft
 segments:
 - page: 1
-  en: 'The judgment will now, as I am written, turn out thus: that the false denouncers are to be punished
-    with six years'' fortress imprisonment — the agitators, however, [uncertain: flogged out] and banished
-    from the country. As regards Heiler I shall nevertheless do everything possible, for his father''s
-    sake, who is Upper Consistorial Councillor in Berlin; but Honrichs raises a claim against him which
-    exceeds his paper security threefold, and from Your Serene Highness''s side too he is being held to
-    account, for it was through him that the administration was introduced. If otherwise the colonists
-    there and the old peasants beg for a remission of the interest for the future (for at present nobody
-    pays anything, because Honrichs is not permitted to take anything, but neither does he let any other
-    take anything par forte), then one must not listen to it. If the fellows have nothing, one can for
-    the time being take nothing from them; but in the case of a sale one has the advantage that one can
-    nevertheless reckon in all the arrears. And a Prefect in Poland has an extensive power — if Briechfa
-    buys, he would soon torment the poor beasts — he can spare them again in respect of public taxes and
-    burdens; consequently Your Most Serene Highness need for the present pay no heed to the [uncertain:
-    daubings] and concede nothing to the fellows; they pay in any case — I let nothing go, and they have
-    long given nothing.'
+  en: 'The judgement will now, so I am told, come out to the effect that the false denouncers are to be
+    sentenced to six years'' fortress imprisonment, while the agitators are to be [uncertain: flogged
+    out] and banished from the country.
+
+
+    As regards Heiler I shall nevertheless do everything possible for his father''s sake, who is Upper
+    Consistorial Councillor in Berlin; but Honrichs is advancing a claim against him which exceeds his
+    paper security threefold, and he is also being held answerable on Your Serene Highness''s side, for
+    it was through him that the administration was brought in. If otherwise the colonists and old peasants
+    there come begging on account of a remission of the interest for the future (for at present nobody
+    pays anything, because Honrichs is not permitted to take anything, but neither does he allow anyone
+    else to take anything par force), then one must not listen to it. If the fellows have nothing, then
+    nothing can be taken from them for the time being. In the case of a sale, however, one has the advantage
+    that all arrears can nevertheless be reckoned in. And a prefect in Poland has extensive power — if
+    Briechfa buys, he would certainly torment the poor creatures — he can spare them again with respect
+    to public taxes and burdens; consequently Your Most Serene Highness need pay no heed for the present
+    to the [uncertain: trivialities], and should concede nothing to the fellows, for they pay nothing
+    anyway. I am having
+
+
+    nothing, and have long given nothing.'
+  names:
+  - de: Heiler
+    en: Heiler
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Briechfa
+    en: Briechfa
+    kind: person
+  - de: Ewr Durchlaucht
+    en: Your Serene Highness
+    kind: other
+  numbers:
+  - '6'
+  - '3'
+  - '1809'
 - page: 2
-  en: 'here shoot three roebucks, whereof Honrichs is to take one along to the Upper Prefect Parczyneli,
-    one for the President of the High Tribunal Zahrzewshe, and one for the [uncertain: sind] Prefect Arsechsa;
-    that, I think, will work more than money, for the fellows have everything in their hands and cut their
-    pipes at will. If it goes as wished, then Honrichs will get the lease-rent back at New Year, the administration
-    will be entirely lifted, and then we shall receive much money. — One has there at present complete
-    power over the subjects, and therefore this class of men all wish the Prussian government back; but
-    meanwhile one can [uncertain: pain] them. So much for the Polish affairs. Whether the King will really
-    come to Berlin is still doubted by many; if he really comes, then he will also go to Paris — for only
-    a few days ago somebody wrote to me: if it goes back to Berlin, then it goes to Paris as well, for
-    whence should Louise take the strength to refuse the invitation, not to see the place where the finest
-    fashions in the world beckon. — Meanwhile I believe nothing at all of the promises that are said to
-    have been made to our good King. They will likely leave us lying in the Skat, and our wretched'
+  en: 'here have three roebucks shot, of which Honrichs is to take one along to the chief prefect Parczyneli,
+    one for the president of the high tribunal Zahrzewshe, and one for the [uncertain: sind] prefect Arsechsa;
+    that, I think, will have more effect than money, for the fellows have everything in their hands and
+    cut their pipes at their own pleasure. If it goes as wished, then Honrichs gets the lease back at
+    New Year, the administration will be wholly lifted, and then we shall receive much money. — One now
+    has there complete power over the subjects, which is why this class of men all wish the Prussian government
+    back; but in the meantime one can [uncertain: grieve] them. So much for the Polish affairs. Whether
+    the King will really come to Berlin is still doubted by many; if he really comes, then he will also
+    go to Paris — for someone wrote to me only a few days ago: if it goes back to Berlin, then it goes
+    to Paris as well, for where should Louise find the strength to refuse the invitation and not see the
+    place where the finest fashions in the world beckon. — Meanwhile I believe nothing at all of the promises
+    which are said to have been made to our good King. They will probably leave us lying in the skat,
+    and our wretched'
+  names:
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Parczyneli
+    en: Parczyneli
+    kind: person
+  - de: Zahrzewshe
+    en: Zahrzewshe
+    kind: person
+  - de: Arsechsa
+    en: Arsechsa
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Louise
+    en: Louise
+    kind: person
+  - de: Preußische
+    en: Prussian
+    kind: other
+  - de: Pohlnische
+    en: Polish
+    kind: other
 - page: 3
-  en: '[uncertain: Existenz] overlooked as a mere point on the map of Europe, as at Tilsit and Schönbrunn.
-    — It was said a few days ago that we should get back Hannover, a piece of Hessen, Braunschweig, Magdeburg
-    and the Halberstadt territory; but for this a greater faith is required than that which Frederick
-    the Only ascribed to the [uncertain: prelate] of Scharnewand when he was to have the mountain by Cont
-    carried away. Here people will absolutely have it that Napoleon suffers from dropsy of the chest and
-    that his passport is already lying on the little table at Pluto''s for signature. Were that so, then
-    something might yet be hoped, especially if with us one no longer organised but acted with energy.
-    Something must indeed be afoot: the Poles were to be on the return march, to move on the 11th into
-    their winter quarters and their garrisons; they were already as far as [uncertain: konen] Kalisz and
-    those regions — but on the 8th came a counter-order, that they must go back the same instant as far
-    as Galicia, because the Russians were occupying Galicia and pressing back the Poles standing there.
-    Honrichs says that since then everything is full, the Russians can [text lost] in order to appropriate
-    to themselves the province of Warsaw. — As soon as I am finished here I shall come at once to Schlawenschich,
-    and then I shall stay there a long while. — I will lease everything out, only let Coste keep [illegible]
-    and let me first have a free hand again. That the Princess Emilie may be right happy I wish from the
-    bottom of my heart — she is the crown of the female sex, if [uncertain: all that I have seen]. For
-    the continuance of Your most gracious favour I beg, and I remain, until death, in deepest reverence,
-    Your Most Serene Highness''s Kontop, the 16th of December most faithful servant There lie here in
-    v Triebenfeld'
+  en: '[uncertain: Executent] overlooked as a mere point on the map of Europe, as at Tilsit and Schönbrunn.
+    — It was said a few days ago that we should get Hanover back, a piece of Hesse, Brunswick, Magdeburg
+    and the Halberstadt territory; but this requires a greater faith than that which Frederick the Only
+    ascribed to the prelate of Scharnewand when he was to move the hill near Cont for him.
+
+
+    Here people will absolutely have it that Napoleon suffers from dropsy of the chest and that his safe-conduct
+    lies already on the little table at Pluto''s for signature. Were that so, then something might still
+    be hoped for, especially if with us there were no more organising but action with energy. Something
+    must indeed be afoot: the Poles were to be on the march back, to move on the 11th into their winter
+    quarters and their garrisons; they were already as far as [uncertain: konen] Kalisz and those parts
+    — but on the 8th a counter-order came that they must go back at once as far as Galicia, because the
+    Russians were occupying Galicia and pressing back the Poles standing there. Honrichs says that since
+    then everything is full, the [uncertain: Müßen] can, in order to appropriate the province of Warsaw
+    to themselves. — As soon as I am finished here I shall come at once to Schlawenschitz, and then I
+    shall stay there a long while. — I mean to lease everything out, if only [uncertain: Coste] holds
+    and I first have a free hand again.
+
+
+    That Princess Emilie may be right happy I wish from the bottom of my heart. — She is the crown of
+    the female sex, if indeed what I am to see. Begging the continuance of your most high goodwill, I
+    remain, until death, in deepest reverence, Your Most Serene Highness''s
+
+
+    Kontop, the 16th of December
+
+
+    most faithful servant
+
+
+    There lie here, in v. Triebenfeld'
+  names:
+  - de: Tilsit
+    en: Tilsit
+    kind: place
+  - de: Schönbrunn
+    en: Schönbrunn
+    kind: place
+  - de: Hannover
+    en: Hanover
+    kind: place
+  - de: Hessen
+    en: Hesse
+    kind: place
+  - de: Braunschweig
+    en: Brunswick
+    kind: place
+  - de: Magdeburg
+    en: Magdeburg
+    kind: place
+  - de: Hallerstädtische
+    en: Halberstadt territory
+    kind: place
+  - de: Friedrich der Einzige
+    en: Frederick the Only
+    kind: person
+  - de: Scharnewand
+    en: Scharnewand
+    kind: place
+  - de: Cont
+    en: Cont
+    kind: place
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Pluto
+    en: Pluto
+    kind: person
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Gallizien
+    en: Galicia
+    kind: place
+  - de: Rußen
+    en: Russians
+    kind: other
+  - de: Pohlen
+    en: Poles
+    kind: other
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Schlawenschich
+    en: Schlawenschitz
+    kind: place
+  - de: Coste
+    en: Coste
+    kind: person
+  - de: Prinzeß Emilie
+    en: Princess Emilie
+    kind: person
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Ewr Hochfürstliche Durchlaucht
+    en: Your Most Serene Highness
+    kind: other
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Europa
+    en: Europe
+    kind: place
+  numbers:
+  - '11'
+  - '8'
+  - '16'
 - page: 4
-  en: 'Neuholz still some 70 Centner of iron, under arrest, which the skippers Kulany and Neumann have
-    had arrested at Neusalz for freight-money. The [uncertain: Kielung] and Neumann have as yet received
-    from the syndic Horne at Appeln 173 Rthl 6 s. g. in coin. The Centner is contracted as far as Stogadel
-    at 10 g. in coin, which comes for 1000 Centner to 416 Rthl 16 g. in coin; the men have therefore still
-    to receive in freight-money — 243 Rthl 14 s. in coin, and in addition the possible costs at Stralsund,
-    which they have however wrongfully incurred, for Kulawn and Neumann have [uncertain: given over] the
-    iron again to shoemakers from Mensal, by name Macholy, Christ Liebs Vogel, and these detain the iron
-    because they have not received their freight. [text lost] Your [text lost] promised to have the freight-money
-    settled; be therefore so gracious as to send with all haste the receipts, that the skippers Kulawy
-    and Neumann are altogether satisfied as regards the freight-money, for then I shall get the 74 Centner
-    of iron back and can help myself with it. — Money is too [uncertain: scarce] — I must weekly lay out
-    money for postage, messengers'' wages, process-advances, in Your Serene Highness''s affairs, and am
-    yet myself in want. There one obtains nothing [uncertain: therein] because everything is still under
-    arrest. — Lie idle I must let nothing, and therefore I contrive counsel where possible. — The arrangement
-    in Poland is now mad: for a process, for a power of attorney where the matter amounts to 1000 Rthl,
-    a stamped sheet of 10 Rthl must be [uncertain: taken]; likewise the advances must be paid in like
-    measure at once to the so-called [uncertain: Burggreßen]. The Trąbcziner process, the Niedrewiciliische,
-    the Octaviowshische etc. will still cost frightful money; the two last already now cost about 320
-    Rthl. For the Trąbcziner one''s heart simply trembles — but it must be done in order to save the estates.
-    The woman sits in Warsaw and whores; perhaps one will outflank the [uncertain: Curence] and there
-    comes [uncertain: swiftly aimed snow]. Do send the receipts, so that I get the iron afloat and the
-    costs determined by'
+  en: 'Neuholz some 70 hundredweight of iron still under arrest, which the skippers Kulany and Neumann
+    have had seized at Neusalz for freight charges. Kielung and Neumann have so far received only 173
+    Rthl 6 s. g. in coin from the syndic Horne at Appeln. — The hundredweight is contracted as far as
+    Stogadel at 10 g. in coin, which makes for 1000 hundredweight 416 Rthl 16 g. in coin; the men therefore
+    have still to receive in freight charges 243 Rthl 14 s. in coin, together with any costs at Stralsund,
+    which however they have incurred wrongfully, for Kulawn and Neumann [uncertain: pledged] the iron
+    again to Schuster of Mensal, by name Macholy, Christ Liebs Vogel, and these are holding back the iron
+    because they have not received their freight. Your Serene Highness promised to have the freight charges
+    settled; be therefore so gracious as to send the receipts with all speed, that the skippers Kulawy
+    and Neumann are entirely satisfied as regards the freight charges, for then I shall get the 74 hundredweight
+    of iron back and can help myself with it. — Money is too scarce — I must weekly lay out postage, messengers''
+    wages, advances for lawsuits, in Your Serene Highness''s affairs, and am myself in want. There one
+    gets nothing of it, because everything is still under arrest. — I may leave nothing lying idle, and
+    so I find means where I can. — The arrangements in Poland are now mad: for a lawsuit, for a power
+    of attorney where the matter comes to 1000 Rthl, a stamped sheet of 10 Rthl must be taken; and likewise
+    the advances must be paid in equal measure to the so-called [uncertain: Burggreßen]. The Trąbczyn
+    suit, the Niedzwiedzki one, the Octaviowshi one etc. will still cost frightful money; the two latter
+    already cost some 320 Rthl now. For the Trąbczyn one the heart merely trembles — but it must be done
+    in order to save the estates. — The woman sits in Warsaw and whores; perhaps one may outflank the
+    [uncertain: Curence] and rapid snow comes [illegible]. Do send the receipts, so that I may get the
+    iron afloat and the costs fixed, from'
+  names:
+  - de: Neuholz
+    en: Neuholz
+    kind: place
+  - de: Kulany
+    en: Kulany
+    kind: person
+  - de: Neumann
+    en: Neumann
+    kind: person
+  - de: Neusalz
+    en: Neusalz
+    kind: place
+  - de: Kielung
+    en: Kielung
+    kind: person
+  - de: Horne
+    en: Horne
+    kind: person
+  - de: Appeln
+    en: Appeln
+    kind: place
+  - de: Stogadel
+    en: Stogadel
+    kind: place
+  - de: Stralsund
+    en: Stralsund
+    kind: place
+  - de: Kulawn
+    en: Kulawn
+    kind: person
+  - de: Schuster
+    en: Schuster
+    kind: person
+  - de: Mensal
+    en: Mensal
+    kind: place
+  - de: Macholy
+    en: Macholy
+    kind: person
+  - de: Christ Liebs Vogel
+    en: Christ Liebs Vogel
+    kind: person
+  - de: Kulawy
+    en: Kulawy
+    kind: person
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: Trąbcziner
+    en: Trąbczyn
+    kind: place
+  - de: Niedrewiciliische
+    en: Niedzwiedzki
+    kind: person
+  - de: Octaviowshische
+    en: Octaviowshi
+    kind: person
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Ewr Durchlaucht
+    en: Your Serene Highness
+    kind: other
+  numbers:
+  - '70'
+  - '173'
+  - '6'
+  - '10'
+  - '1000'
+  - '416'
+  - '16'
+  - '243'
+  - '14'
+  - '74'
+  - '1000'
+  - '10'
+  - '320'
 - page: 5
-  en: Should it not be possible for Your Most Serene Highness to have 2000 Centner of bar iron delivered
-    here soon? For it 8000 Rthl in ringing Courant should be paid at once. The general contractor Cente
-    would order the moneys paid over immediately. I should think that if you gave the instruction for
-    the iron to be delivered here from the Breslau depot, and had as much brought back from there to Breslau,
-    then the matter could be settled, if we still had 14 days of good weather. — I expect Corten every
-    hour; he is to give an instruction which I mean to send off at once by express courier. — If it is
-    accepted, well and good; if not, then the instruction comes back. Coste with it, and in return cheap
-    grain from Poland. v Triebenfeld 16. Xbr. 1809
+  en: 'Might it not be possible for Your Most Serene Highness to have 2000 hundredweight of bar iron delivered
+    here soon? For it 8000 Rthl would be paid at once in ringing Courant. The general contractor Cente
+    would order the moneys paid out immediately. I should think that if you directed the iron from the
+    Breslau depot to be delivered hither, and had as much again brought from there to Breslau, that might
+    be settled, if we still had a fortnight of good weather. — I expect Corten at any hour; he is to give
+    an instruction, which I mean to send off at once by express courier. — If it is accepted, well and
+    good; if not, then the instruction comes back. Coste in return brings cheap grain out of Poland. v.
+    Triebenfeld
+
+
+    16 Xbr. 1809'
+  names:
+  - de: Ewr Hochfürstliche durchlaucht
+    en: Your Most Serene Highness
+    kind: other
+  - de: Cente
+    en: Cente
+    kind: person
+  - de: Breslauer
+    en: Breslau
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Corten
+    en: Corten
+    kind: person
+  - de: Coste
+    en: Coste
+    kind: person
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '2000'
+  - '8000'
+  - '14'
+  - '16'
+  - '1809'

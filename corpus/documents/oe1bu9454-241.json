@@ -128,20 +128,268 @@
    "doc_line": 27
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "gneizenau",
+   "display": "Gneizenau",
+   "kind": "person",
+   "surface_de": "Gneizenau",
+   "surface_en": "Gneizenau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesian militia",
+   "kind": "other",
+   "surface_de": "Schlesen Landwehr",
+   "surface_en": "Silesian militia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koch",
+   "kind": "person",
+   "surface_de": "Koch",
+   "surface_en": "Koch",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard:",
+   "surface_en": "Hard:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bohemia",
+   "kind": "place",
+   "surface_de": "Böhmen",
+   "surface_en": "Bohemia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gneiz.",
+   "kind": "person",
+   "surface_de": "Gneiz:",
+   "surface_en": "Gneiz.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russian",
+   "kind": "other",
+   "surface_de": "Rußischen",
+   "surface_en": "Russian",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Gniez.",
+   "kind": "person",
+   "surface_de": "Gniez:",
+   "surface_en": "Gniez.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oppendorff",
+   "kind": "place",
+   "surface_de": "Oppendorff",
+   "surface_en": "Oppendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Fall",
+   "kind": "place",
+   "surface_de": "Fall",
+   "surface_en": "Fall",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schwartz",
+   "kind": "place",
+   "surface_de": "Schwartz",
+   "surface_en": "Schwartz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 2
+  }
+ ],
  "place_canonical": "Neisse",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "General Gneisenau I found already here in Neisse upon my arrival yesterday. I spoke with him very soon and delivered to him Your Serene Highness's letter. He will reply, and as a true admirer of Your Serene Highness Most High Sen they should only be quite easy, it should and would become better become. than Your Serene Highness now believed. For the rest, matters here have altered again — General Zastrow has been appointed in Prussia as Governor-General. General Gneisenau now commands the Silesian Landwehr, which consists of 55000 men. He is besides this still Chief of the General Staff and Sch Military Governor. Gen. L. v. Koch has all at once brought the [uncertain: of this year] on so far — this gentleman now speaks with much warmth of Your Serene Highness and everything may be hoped for — Herr v. Hardenberg is with the R. Emperor in Bohemia from as the same returns in 5 days — A categorical declaration is demanded, and a pretext might easily be found to act actively again — As regards the provisioning of the poor out of Poland, everyone holds to my plan — H Your v. Gneis. said, I fear"
+   "en": "I found General Gneizenau here in Neisse upon my arrival yesterday. I spoke with him very soon after and handed over Your Serene Highness's letter. He will reply, and as a true admirer of Your Serene Highness Most High Sen [uncertain: Sen] should only be quite at ease; it should and would become better than Your Serene Highness now believed.\n\nFor the rest, matters here have changed again — General Zastrow has been appointed in Prussia as General Gewerner [uncertain: Gewerner]. General Gneizenau now commands the Silesian militia, which consists of 55000 men. He is besides this still Chief of the General Staff and Sch [uncertain: Sch] Military Governor.\n\nLieutenant General von Koch has all at once brought this so far along — this gentleman now speaks with much warmth of Your Serene Highness, and everything may be hoped for — M Hard: is with the R. Emperor in Bohemia, from which the same returns in 5 days. A categorical declaration is demanded, and a pretext might easily be found to act actively again — As regards the provisioning of the poor out of Poland, everyone holds to my plan — His [uncertain: Ewr] von Gneiz. said, I fear",
+   "names": [
+    {
+     "de": "Gneizenau",
+     "en": "Gneizenau",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesen Landwehr",
+     "en": "Silesian militia",
+     "kind": "other"
+    },
+    {
+     "de": "Koch",
+     "en": "Koch",
+     "kind": "person"
+    },
+    {
+     "de": "Hard:",
+     "en": "Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Böhmen",
+     "en": "Bohemia",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Gneiz:",
+     "en": "Gneiz.",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "55000",
+    "5"
+   ]
   },
   {
    "page": 2,
-   "en": "only the Russian [uncertain: appropriation] — yet so it must come about, for whence are we (as you have also rightly remarked) to take our subsistence, if we are to bring [ourselves] back to Saxony again. Herr v. Gneisenau holds a review today of over 15000 men of Landwehr near [uncertain: Oppendorff], so tomorrow and the day after over an equal number in Fall and Schwartz my gout torments me\n\nv Triebenfeld\n\nNeisse, the 22nd of June 1813"
+   "en": "only the Russian appropriation [uncertain: Eignung] — yet it must come to that, for whence are we (as you too have rightly observed) to take our subsistence, if we are to be brought back to Saxony again. His Excellency von Gniez. is today holding a review of over 15000 men of militia at Oppendorff, and so tomorrow and the day after over an equal number in Fall and Schwartz\n\nmy gout torments me\n\nvon Triebenfeld\n\nNeisse, the 22nd of June\n\n1813",
+   "names": [
+    {
+     "de": "Rußischen",
+     "en": "Russian",
+     "kind": "other"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Gniez:",
+     "en": "Gniez.",
+     "kind": "person"
+    },
+    {
+     "de": "Oppendorff",
+     "en": "Oppendorff",
+     "kind": "place"
+    },
+    {
+     "de": "Fall",
+     "en": "Fall",
+     "kind": "place"
+    },
+    {
+     "de": "Schwartz",
+     "en": "Schwartz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "15000",
+    "22ten",
+    "1813"
+   ]
   }
  ],
- "text_english": "General Gneisenau I found already here in Neisse upon my arrival yesterday. I spoke with him very soon and delivered to him Your Serene Highness's letter. He will reply, and as a true admirer of Your Serene Highness Most High Sen they should only be quite easy, it should and would become better become. than Your Serene Highness now believed. For the rest, matters here have altered again — General Zastrow has been appointed in Prussia as Governor-General. General Gneisenau now commands the Silesian Landwehr, which consists of 55000 men. He is besides this still Chief of the General Staff and Sch Military Governor. Gen. L. v. Koch has all at once brought the [uncertain: of this year] on so far — this gentleman now speaks with much warmth of Your Serene Highness and everything may be hoped for — Herr v. Hardenberg is with the R. Emperor in Bohemia from as the same returns in 5 days — A categorical declaration is demanded, and a pretext might easily be found to act actively again — As regards the provisioning of the poor out of Poland, everyone holds to my plan — H Your v. Gneis. said, I fear\n\nonly the Russian [uncertain: appropriation] — yet so it must come about, for whence are we (as you have also rightly remarked) to take our subsistence, if we are to bring [ourselves] back to Saxony again. Herr v. Gneisenau holds a review today of over 15000 men of Landwehr near [uncertain: Oppendorff], so tomorrow and the day after over an equal number in Fall and Schwartz my gout torments me\n\nv Triebenfeld\n\nNeisse, the 22nd of June 1813",
+ "text_english": "I found General Gneizenau here in Neisse upon my arrival yesterday. I spoke with him very soon after and handed over Your Serene Highness's letter. He will reply, and as a true admirer of Your Serene Highness Most High Sen [uncertain: Sen] should only be quite at ease; it should and would become better than Your Serene Highness now believed.\n\nFor the rest, matters here have changed again — General Zastrow has been appointed in Prussia as General Gewerner [uncertain: Gewerner]. General Gneizenau now commands the Silesian militia, which consists of 55000 men. He is besides this still Chief of the General Staff and Sch [uncertain: Sch] Military Governor.\n\nLieutenant General von Koch has all at once brought this so far along — this gentleman now speaks with much warmth of Your Serene Highness, and everything may be hoped for — M Hard: is with the R. Emperor in Bohemia, from which the same returns in 5 days. A categorical declaration is demanded, and a pretext might easily be found to act actively again — As regards the provisioning of the poor out of Poland, everyone holds to my plan — His [uncertain: Ewr] von Gneiz. said, I fear\n\nonly the Russian appropriation [uncertain: Eignung] — yet it must come to that, for whence are we (as you too have rightly observed) to take our subsistence, if we are to be brought back to Saxony again. His Excellency von Gniez. is today holding a review of over 15000 men of militia at Oppendorff, and so tomorrow and the day after over an equal number in Fall and Schwartz\n\nmy gout torments me\n\nvon Triebenfeld\n\nNeisse, the 22nd of June\n\n1813",
  "summary_en": "Reports meeting General Gneizenau at Neisse and delivering the Prince's letter, which Gneizenau will answer; he is said to admire the Prince and counsels calm. Notes command changes: General Zastrow posted to Prussia, Gneizenau now commanding the Silesian militia of 55,000 men while also Chief of the General Staff and military governor; Lieutenant General von Koch speaks warmly of the Prince. Hardenberg is with the Emperor in Bohemia. Gneizenau endorses his plan for provisioning from Poland but fears Russian appropriation; reviews of militia at Oppendorff. Complains of gout.",
  "summary_de": "Bericht über die Ankunft in Neisse, wo General Gneizenau angetroffen und ihm das Schreiben des Fürsten übergeben wurde; Gneizenau werde antworten und zeige sich als Verehrer des Fürsten. Nachrichten über Veränderungen: General Zastrow nach Preußen berufen, Gneizenau befehligt die schlesische Landwehr von 55000 Mann und ist zugleich Chef des Generalstabs sowie Militärgouverneur; Generallieutenant von Koch spricht mit Wärme vom Fürsten. M. Hard: beim Kaiser in Böhmen, Rückkehr in 5 Tagen, kategorische Erklärung gefordert. Zum Verpflegungsplan aus Polen bestehe nur Sorge vor russischer Aneignung. Musterungen von über 15000 Mann bei Oppendorff; Klage über Gichtbeschwerden."
 }

@@ -67,16 +67,102 @@
    "doc_line": 16
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Cabunis",
+   "kind": "person",
+   "surface_de": "Cabunis",
+   "surface_en": "Cabunis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hussites",
+   "kind": "other",
+   "surface_de": "Hussiten",
+   "surface_en": "Hussites",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Olesnicas",
+   "kind": "place",
+   "surface_de": "Olesnicas",
+   "surface_en": "Olesnicas",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau?",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Cabunis is back with the Hussites — The people liked it exceedingly, they now wish to hurry back, gather their brethren in the faith together and settle everything within 14 days. Cabanis has however brought back much news, about which I must speak with Your Serene Highness. It becomes most urgently necessary that someone go there at once to bring everything into the best track. I am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, then Your Highness could hear all the people yourself, and issue Your most high commands at once as to what is further to be done. v Triebenfeld [Breslau?] the 30th April 1804"
+   "en": "Cabunis is back with the Hussites — The people have taken an extraordinary liking to it; they now mean to hurry back, gather their brethren in the faith together and settle everything within 14 days. Cabanis has, however, brought many pieces of news with him, about which I must speak with Your Serene Highness. It is in the highest degree necessary that someone go there at once, to bring everything into the best course.\n\nI am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, then Your Highness could hear all these people yourself, and at once issue Your Highness's commands as to what is further to be done.\n\nv. Triebenfeld\n\n[uncertain: Breslau] the 30th April 1804",
+   "names": [
+    {
+     "de": "Cabunis",
+     "en": "Cabunis",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Hussiten",
+     "en": "Hussites",
+     "kind": "other"
+    },
+    {
+     "de": "Olesnicas",
+     "en": "Olesnicas",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "14",
+    "30",
+    "1804"
+   ]
   }
  ],
- "text_english": "Cabunis is back with the Hussites — The people liked it exceedingly, they now wish to hurry back, gather their brethren in the faith together and settle everything within 14 days. Cabanis has however brought back much news, about which I must speak with Your Serene Highness. It becomes most urgently necessary that someone go there at once to bring everything into the best track. I am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, then Your Highness could hear all the people yourself, and issue Your most high commands at once as to what is further to be done. v Triebenfeld [Breslau?] the 30th April 1804",
+ "text_english": "Cabunis is back with the Hussites — The people have taken an extraordinary liking to it; they now mean to hurry back, gather their brethren in the faith together and settle everything within 14 days. Cabanis has, however, brought many pieces of news with him, about which I must speak with Your Serene Highness. It is in the highest degree necessary that someone go there at once, to bring everything into the best course.\n\nI am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, then Your Highness could hear all these people yourself, and at once issue Your Highness's commands as to what is further to be done.\n\nv. Triebenfeld\n\n[uncertain: Breslau] the 30th April 1804",
  "summary_en": "Reports that Cabunis (Cabanis) has returned from the Hussites, who were exceedingly pleased and now wish to hurry back, assemble their co-religionists and settle everything within a fortnight; he has brought much news requiring discussion, and someone must go there at once to put matters on the best footing. Triebenfeld, meanwhile negotiating with the Olesnicas people, asks the Prince to call on him for a quarter of an hour after the parade to hear them himself and give orders.",
  "summary_de": "Cabanis ist von den Hussiten zurückgekehrt; die Leute seien höchst zufrieden, wollten eilends zurückkehren, ihre Glaubensbrüder versammeln und alles binnen 14 Tagen abschließen. Cabanis bringe viele Nachrichten mit, über die Triebenfeld mündlich berichten müsse; dringend nötig sei, daß sogleich jemand hinreise, um die Sache in den besten Gang zu bringen. Triebenfeld verhandelt zugleich mit den Leuten aus Olesnica und bittet den Fürsten, nach der Parade für eine Viertelstunde zu ihm zu kommen, um die Leute selbst zu hören und Befehle zu erteilen."
 }

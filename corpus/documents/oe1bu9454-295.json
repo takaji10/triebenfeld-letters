@@ -177,24 +177,416 @@
    "doc_line": 57
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Espagne",
+   "kind": "person",
+   "surface_de": "Espagne",
+   "surface_en": "Espagne",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard:",
+   "surface_en": "Hard:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cassel",
+   "kind": "place",
+   "surface_de": "Cassel",
+   "surface_en": "Cassel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt on the Main",
+   "kind": "place",
+   "surface_de": "freundt a/m",
+   "surface_en": "Frankfurt on the Main",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zerb.",
+   "kind": "person",
+   "surface_de": "Zerb.",
+   "surface_en": "Zerb.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sponten",
+   "kind": "other",
+   "surface_de": "Sponten",
+   "surface_en": "Sponten",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A. Schmid",
+   "kind": "person",
+   "surface_de": "A. Schmid",
+   "surface_en": "A. Schmid",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 2
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schack",
+   "kind": "person",
+   "surface_de": "Schack",
+   "surface_en": "Schack",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "stein",
+   "display": "Stein",
+   "kind": "person",
+   "surface_de": "Stein",
+   "surface_en": "Stein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "E.",
+   "kind": "person",
+   "surface_de": "E",
+   "surface_en": "E.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ch",
+   "kind": "person",
+   "surface_de": "Ch",
+   "surface_en": "Ch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt on the Main",
+   "kind": "place",
+   "surface_de": "Frankfurth a/m",
+   "surface_en": "Frankfurt on the Main",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Nadriwile",
+   "kind": "person",
+   "surface_de": "Nadriwile",
+   "surface_en": "Nadriwile",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Biron",
+   "kind": "person",
+   "surface_de": "Biron",
+   "surface_en": "Biron",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Posen",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! On my most recent arrival at Kalisz I learned, to my most deadly dismay, that the Russian Emperor had passed through this place the night before and had gone back into his own dominions – the principal plan of my journey was thus wrecked; nevertheless I continued on my way, in order to lay myself at the feet of the Prince Chancellor, upon whom alone everything now depends, and to implore his help. At Posen I met a certain Espagne, who is employed here as Chief Postal Director, who is much esteemed by the Prince Chancellor and is a bosom friend of Barbe. He gave me the sad news – that the Prince Chancellor is still in Paris, that he would depart on the 17th, that Barbe lay there in a nervous fever [uncertain: Brand] – that Prince Hardenberg was travelling by way of Cassel and [uncertain: freundt] on the Main, having much to settle there, and would not come to Berlin for over 3 weeks. These were all most crushing tidings, which almost paralysed my senses. I am now investigating the Betscher affair here, to see whether anything is to be gained by it – the more so as the subjects have already petitioned for the annulment of the contract. If I obtain light in the matter here soon, I shall go once more to Blizanow"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nUpon my most recent arrival in Kalisz I learned, to my most deadly dismay, that the Russian Emperor had passed through this place the night before and had returned into his own states – the chief plan of my journey was thus wrecked; nevertheless I continued on my way, in order to lay myself at the feet of the Prince Chancellor, upon whom alone everything now depends, and to implore his help. In Posen I met a certain Espagne who is employed here as Chief Postal Director, who is very highly esteemed by the Prince Chancellor and is a bosom friend of Barbe. He gave me the sad tidings – that the Prince Chancellor is still in Paris, that he would depart on the 17th, that Barbe lay there in a nervous fever [uncertain: Brand] – that Prince Hard: would travel by way of Cassel and Frankfurt on the Main, having much to settle there, and would come to Berlin only after 3 weeks. These were all most crushing pieces of news, which almost paralysed the senses. I am now here looking into the Betsche matter, to see whether anything is to be gained by it – the more so as the subjects have already petitioned for the annulment of the contract. If I soon obtain light in the matter here, I shall go once more to Blizanow",
+   "names": [
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Espagne",
+     "en": "Espagne",
+     "kind": "person"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Hard:",
+     "en": "Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Cassel",
+     "en": "Cassel",
+     "kind": "place"
+    },
+    {
+     "de": "freundt a/m",
+     "en": "Frankfurt on the Main",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Betscher",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "17ten",
+    "3"
+   ]
   },
   {
    "page": 2,
-   "en": "in order to extort some money from my tenant, and then hasten to Berlin. As for what sort of a fine answer the O. P. v. Zerb. [uncertain: die Sponten] gave to A. Schmid, Your Serene Highness may be pleased to satisfy yourself from the enclosure. According to the assurance of Herr O. Zerboni, he claims to have sent off his advisory report to the Prince Chancellor; how it reads I do not yet know, but I am to be given sight of it tomorrow. Meanwhile I doubt the existence of any such report, for how could the whole of the files have been remitted to Schenck, which yet absolutely had to be appended to the report – the more so as they contain the original vouchers within them. On the whole, not much good will shines out of the answer, but rather the pp. irony; for how could so shrewd and accomplished a man of business refer a Schenck to the person of the Russian Emperor, and hand over to him the original files for that purpose –? Meanwhile [uncertain: Schack] received the resolutions a couple of days after the Emperor's journey through Kalisz — by good fortune he could not present himself to the Emperor with them and perhaps spoil everything. Oh, how good it would have been had I gone to Paris and there canvassed without waiting for the report of the Herr Chief President. For the present there is nothing to be done but to await the Prince Chancellor's return to Berlin and to implore his help — Minister Stein has, as the worthy Chief Postal Director E. told me in confidence, been laid entirely on the shelf — no one may [text lost] him; the fate of this noble man is indeed most sad. He has after all"
+   "en": "in order to extort some money from my tenants, and shall then hasten to Berlin. As for what sort of a fine answer the Chief Postal [uncertain: Director] von Zerb. gave the Sponten to A. Schmid, Your Serene Highness will be pleased to satisfy yourself from the enclosure. According to the assurance of the Right Honourable Chief [Councillor] Zerboni, he claims to have sent off his report of opinion to the Prince Chancellor; how it reads I do not yet know, but I am to be given sight of it tomorrow. In the meantime I doubt the existence of any such report, for how could the whole of the records have been remitted to Schenck, when they absolutely had to be attached to the report – the more so as they contain the original vouchers within them. On the whole, not much good will shines out of the answer, but rather the aforesaid irony; for how could so shrewd and accomplished a man of business direct a Schenck to the person of the Russian Emperor, and hand over to him the original records for that purpose –? In the meantime Schack received the resolutions a couple of days after the Emperor's journey through Kalisz — by good fortune he was not able to approach the Emperor with them and perhaps spoil everything. Oh, how good it would have been had I gone to Paris and there canvassed without waiting for the report of the Right Honourable Chief President. For the present there is nothing to be done but to await the Prince Chancellor's return to Berlin and to implore his help — Minister Stein has, as the worthy Chief Postal Director E. told me in confidence, been laid entirely on the shelf — Let no one [illegible]; the fate of this noble man is indeed very sad. He has after all\n\ndone",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Zerb.",
+     "en": "Zerb.",
+     "kind": "person"
+    },
+    {
+     "de": "Sponten",
+     "en": "Sponten",
+     "kind": "other"
+    },
+    {
+     "de": "A. Schmid",
+     "en": "A. Schmid",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Schack",
+     "en": "Schack",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Stein",
+     "en": "Stein",
+     "kind": "person"
+    },
+    {
+     "de": "E",
+     "en": "E.",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "done much for General Ch — He has sacrificed everything, and now one lets him go. — I pity him greatly — the Prince Chancellor stays away so long only because he himself must now set everything in train and settle it alone at Frankfurth on the Main. — For the rest, many rumours are going about here which will probably never be confirmed. Prince Radziwill has been summoned by the Emperor to Warsaw, and [uncertain: kannz] Biron is coming here; from this people would infer a great deal. Whither I shall actually turn, I shall most humbly report to Your Serene Highness before my departure from here. In deepest reverence I remain, as Your Most Serene Highness's\nPosen, the 17th November 1815\nhumble and obedient servant, v Triebenfeld"
+   "en": "much for General Ch — He has sacrificed everything, and now they let him go — I pity him greatly — the Prince Chancellor stays away so long for this reason, that he himself must now initiate and settle everything alone in Frankfurt on the Main — For the rest, many rumours circulate here which will probably never be confirmed. Prince Nadriwile has been summoned by the Emperor to Warsaw, and [uncertain: kannz] Biron is coming here; from this people wish to draw many conclusions. Where I shall in fact turn, I shall report most humbly to Your Serene Highness before my departure from here; in deepest reverence I remain, as Your Most Serene Highness's\n\nPosen\n\nthe 17th of November\n\n1815\n\nhumble and obedient servant, v. Triebenfeld",
+   "names": [
+    {
+     "de": "Ch",
+     "en": "Ch",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth a/m",
+     "en": "Frankfurt on the Main",
+     "kind": "place"
+    },
+    {
+     "de": "Nadriwile",
+     "en": "Nadriwile",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Biron",
+     "en": "Biron",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17ten",
+    "1815"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! On my most recent arrival at Kalisz I learned, to my most deadly dismay, that the Russian Emperor had passed through this place the night before and had gone back into his own dominions – the principal plan of my journey was thus wrecked; nevertheless I continued on my way, in order to lay myself at the feet of the Prince Chancellor, upon whom alone everything now depends, and to implore his help. At Posen I met a certain Espagne, who is employed here as Chief Postal Director, who is much esteemed by the Prince Chancellor and is a bosom friend of Barbe. He gave me the sad news – that the Prince Chancellor is still in Paris, that he would depart on the 17th, that Barbe lay there in a nervous fever [uncertain: Brand] – that Prince Hardenberg was travelling by way of Cassel and [uncertain: freundt] on the Main, having much to settle there, and would not come to Berlin for over 3 weeks. These were all most crushing tidings, which almost paralysed my senses. I am now investigating the Betscher affair here, to see whether anything is to be gained by it – the more so as the subjects have already petitioned for the annulment of the contract. If I obtain light in the matter here soon, I shall go once more to Blizanow\n\nin order to extort some money from my tenant, and then hasten to Berlin. As for what sort of a fine answer the O. P. v. Zerb. [uncertain: die Sponten] gave to A. Schmid, Your Serene Highness may be pleased to satisfy yourself from the enclosure. According to the assurance of Herr O. Zerboni, he claims to have sent off his advisory report to the Prince Chancellor; how it reads I do not yet know, but I am to be given sight of it tomorrow. Meanwhile I doubt the existence of any such report, for how could the whole of the files have been remitted to Schenck, which yet absolutely had to be appended to the report – the more so as they contain the original vouchers within them. On the whole, not much good will shines out of the answer, but rather the pp. irony; for how could so shrewd and accomplished a man of business refer a Schenck to the person of the Russian Emperor, and hand over to him the original files for that purpose –? Meanwhile [uncertain: Schack] received the resolutions a couple of days after the Emperor's journey through Kalisz — by good fortune he could not present himself to the Emperor with them and perhaps spoil everything. Oh, how good it would have been had I gone to Paris and there canvassed without waiting for the report of the Herr Chief President. For the present there is nothing to be done but to await the Prince Chancellor's return to Berlin and to implore his help — Minister Stein has, as the worthy Chief Postal Director E. told me in confidence, been laid entirely on the shelf — no one may [text lost] him; the fate of this noble man is indeed most sad. He has after all\n\ndone much for General Ch — He has sacrificed everything, and now one lets him go. — I pity him greatly — the Prince Chancellor stays away so long only because he himself must now set everything in train and settle it alone at Frankfurth on the Main. — For the rest, many rumours are going about here which will probably never be confirmed. Prince Radziwill has been summoned by the Emperor to Warsaw, and [uncertain: kannz] Biron is coming here; from this people would infer a great deal. Whither I shall actually turn, I shall most humbly report to Your Serene Highness before my departure from here. In deepest reverence I remain, as Your Most Serene Highness's\nPosen, the 17th November 1815\nhumble and obedient servant, v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nUpon my most recent arrival in Kalisz I learned, to my most deadly dismay, that the Russian Emperor had passed through this place the night before and had returned into his own states – the chief plan of my journey was thus wrecked; nevertheless I continued on my way, in order to lay myself at the feet of the Prince Chancellor, upon whom alone everything now depends, and to implore his help. In Posen I met a certain Espagne who is employed here as Chief Postal Director, who is very highly esteemed by the Prince Chancellor and is a bosom friend of Barbe. He gave me the sad tidings – that the Prince Chancellor is still in Paris, that he would depart on the 17th, that Barbe lay there in a nervous fever [uncertain: Brand] – that Prince Hard: would travel by way of Cassel and Frankfurt on the Main, having much to settle there, and would come to Berlin only after 3 weeks. These were all most crushing pieces of news, which almost paralysed the senses. I am now here looking into the Betsche matter, to see whether anything is to be gained by it – the more so as the subjects have already petitioned for the annulment of the contract. If I soon obtain light in the matter here, I shall go once more to Blizanow\n\nin order to extort some money from my tenants, and shall then hasten to Berlin. As for what sort of a fine answer the Chief Postal [uncertain: Director] von Zerb. gave the Sponten to A. Schmid, Your Serene Highness will be pleased to satisfy yourself from the enclosure. According to the assurance of the Right Honourable Chief [Councillor] Zerboni, he claims to have sent off his report of opinion to the Prince Chancellor; how it reads I do not yet know, but I am to be given sight of it tomorrow. In the meantime I doubt the existence of any such report, for how could the whole of the records have been remitted to Schenck, when they absolutely had to be attached to the report – the more so as they contain the original vouchers within them. On the whole, not much good will shines out of the answer, but rather the aforesaid irony; for how could so shrewd and accomplished a man of business direct a Schenck to the person of the Russian Emperor, and hand over to him the original records for that purpose –? In the meantime Schack received the resolutions a couple of days after the Emperor's journey through Kalisz — by good fortune he was not able to approach the Emperor with them and perhaps spoil everything. Oh, how good it would have been had I gone to Paris and there canvassed without waiting for the report of the Right Honourable Chief President. For the present there is nothing to be done but to await the Prince Chancellor's return to Berlin and to implore his help — Minister Stein has, as the worthy Chief Postal Director E. told me in confidence, been laid entirely on the shelf — Let no one [illegible]; the fate of this noble man is indeed very sad. He has after all\n\ndone\n\nmuch for General Ch — He has sacrificed everything, and now they let him go — I pity him greatly — the Prince Chancellor stays away so long for this reason, that he himself must now initiate and settle everything alone in Frankfurt on the Main — For the rest, many rumours circulate here which will probably never be confirmed. Prince Nadriwile has been summoned by the Emperor to Warsaw, and [uncertain: kannz] Biron is coming here; from this people wish to draw many conclusions. Where I shall in fact turn, I shall report most humbly to Your Serene Highness before my departure from here; in deepest reverence I remain, as Your Most Serene Highness's\n\nPosen\n\nthe 17th of November\n\n1815\n\nhumble and obedient servant, v. Triebenfeld",
  "summary_en": "Reports the failure of his journey: the Russian Emperor had passed through Kalisz the night before his arrival and returned to his own dominions. From Espagne, Chief Postal Director at Posen, he learned the Prince Chancellor remains in Paris and will not reach Berlin for three weeks, and that Barbe lies ill of a nervous fever. He is investigating the Betscher affair, doubts Zerboni's promised report to the Chancellor since the files went to Schenck, plans to press his tenant at Blizanow for money before hastening to Berlin, and notes Minister Stein's disgrace and rumours about Prince Radziwill and Biron.",
  "summary_de": "Berichtet über die verfehlte Reise: der russische Kaiser sei in der Nacht zuvor durch Kalisch gereist und in sein Reich zurückgekehrt, womit der Hauptzweck der Reise vereitelt sei. Vom Oberpostdirector Espagne erfuhr er, der Fürst Staatskanzler weile noch in Paris, reise über Cassel und Frankfurth am Main und komme erst in drei Wochen nach Berlin; Barbe liege im Nervenfieber, Minister Stein sei kaltgestellt. Untersucht die Betscher-Sache, deren Contract die Unterthanen aufgehoben wünschen, zweifelt an Zerbonis angeblichem Gutachten und den an Schenck abgegebenen Acten, will nach Blizanow zum Pächter und dann nach Berlin."
 }

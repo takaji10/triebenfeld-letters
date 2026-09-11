@@ -1,52 +1,177 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! I was asked the day before yesterday what the case was
-    with the 100000 Rthl which Prince August demands; I answered that this is solely a bequest of the
-    late Princess Sahhin, with which Prince August is to pay the debts possibly outstanding in the Hohenwhic
-    [uncertain reading] estate. Today a letter goes out from the Prince State Chancellor to Öhringen,
-    in which it is made known to E. August that His Majesty would have no objection to the surrender of
-    the 100000 Rthl, and that the Ministry of Justice, Kircheisen, has been instructed to let this take
-    place, provided no lawful objections stand in the way of the matter, and to effect it with all speed.
-    A Serene Highness matter still lies with the Privy Councillor of State Stägemann. He has as yet had
-    no opportunity of being able to make a report upon it to His Serene Highness. Everything has been
-    set in train in the most blameless manner. — According to B. u. and other assurances, the matter of
-    the advance of 112000 Rthl is to be regarded as entirely successful. Cosmar''s removal is, next to
-    this, a principal object, and resolved upon here; only this must be made known from Berlin. As concerns
-    the Polish affairs, I am now to submit the documents and the files transacted in Kalisch — that which
-    falls or lies in the Grand Duchy of Posen will not be hard to obtain; on the other hand the Traperin
-    matter (which estates lie in the Prosnu) will be subject to great adversities. Fortunately I have
-    all the files here — but everything is transacted in Polish, and there everything must be [uncertain:
-    translated/said over] and attested by the sworn translator. The man demands 260 fl. for it — I do
-    not have this and cannot redeem them — the matter will thereby be delayed. — It is altogether very
-    difficult to work here without a Groschen; but with the Russians it is a work of impossibility.'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord. I was asked the day before yesterday what the circumstances were concerning the
+    100000 Rthl which Prince August is demanding; I answered that this is solely a bequest of the late
+    Princess Sahhin, with which Prince August is to pay the debts possibly outstanding in the Hohenwhisch
+    [uncertain: Hohenwhischen] holdings. Today a letter goes off from the Prince State Chancellor to Öhringen,
+    in which it is made known to E. August that His Majesty had no objection to the release of the 100000
+    Rthl, and that the Ministry of Justice Kircheisen has been instructed to let this be done, if no legal
+    objections stand in the way of the matter, and to effect it with all speed. A matter of Serene Highness
+    still lies with the Privy Councillor of State Stägemann. He has not yet had occasion to be able to
+    make a report on it to His Serene Highness. Everything has been set in train in the most irreproachable
+    manner. — According to B. u. and other assurances, the matter of the advance of 112000 Rthl is to
+    be regarded as entirely successful. Next to these, Cosmar''s removal is a principal object, and resolved
+    here; each thing must be made known from Berlin. As concerns the Polish affairs, I am now to submit
+    the instruments and the files transacted in Kalinte — that which falls or lies in the Grand Duchy
+    of Posen will not be hard to obtain; against that, the Traperin matter (which estates lie in the Prosnu)
+    will be subject to great adversities. Fortunately I have all the files here — but everything is transacted
+    in Polish, and there everything must be translated and attested by the sworn translator. The man demands
+    260 fl. for it — these I have not and cannot redeem them — on that account the matter will be delayed.
+    — It is in general very hard to accomplish anything here without a Groschen; but with the Russians
+    it is a work of impossibility.'
+  names:
+  - de: Fürst August
+    en: Prince August
+    kind: person
+  - de: Fürstin Sahhin
+    en: Princess Sahhin
+    kind: person
+  - de: Hohenwhiſchen
+    en: Hohenwhisch
+    kind: place
+  - de: Öhringen
+    en: Öhringen
+    kind: place
+  - de: E. August
+    en: E. August
+    kind: person
+  - de: Kircheisen
+    en: Kircheisen
+    kind: person
+  - de: Stägemann
+    en: Stägemann
+    kind: person
+  - de: B. u.
+    en: B. u.
+    kind: person
+  - de: Cosmars
+    en: Cosmar
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Kalinte
+    en: Kalinte
+    kind: place
+  - de: Groß Herzogthum Posen
+    en: Grand Duchy of Posen
+    kind: place
+  - de: Traperiner
+    en: Traperin
+    kind: place
+  - de: Proſnu
+    en: Prosnu
+    kind: place
+  - de: Pohl
+    en: Polish
+    kind: other
+  - de: Rußen
+    en: Russians
+    kind: other
+  numbers:
+  - '100000'
+  - '100000'
+  - '112000'
+  - '260'
 - page: 2
-  en: 'At bottom I now do not know how this is to end with me — up to the 24th of February I have paid
-    for lodging, board and heating, which here is always done in advance; only five days more for me,
-    and I run the risk of being thrown into the street. From Barbe I can borrow nothing further, he himself
-    has nothing left; he looks upon my distress with a sorrowful countenance but cannot help. — For six
-    days now I have kept to my room, and for four days I have been pressing [uncertain: my bed / the couch],
-    for I am truly ill — dry bread and water is my nourishment. It has truly come very far with me — hitherto
-    I have begged not to be let perish in shame and mockery — now I beg no longer. — May God also preserve
-    me from having to enact a sequel to Stößel. Since the letter of the 7th of February nothing has come
-    in here from Your Serene Highness. Respectfully I remain as Your Serene Highness''s — I lie today
-    very ill; if you do not rescue me, I must go under. And do support my daughter, I pray you — wholly
-    obedient servant, Vienna, the 19th of February 1815, v Triebenfeld'
+  en: 'At bottom I now do not know how this is to end with me. Up to the 24th of February I have paid
+    lodging, board and heating, which here must always be done in advance — only five days more for me
+    and I risk being thrown into the street. From Barbe I can borrow nothing further; he himself has nothing
+    left, he looks upon my distress with a sorrowful countenance but cannot help. — For six days I have
+    had the room and for four days I have been keeping to my bed [uncertain: wenn Lager], for I am truly
+    ill. Dry bread and water are my nourishment. It has truly come very far with me. — Hitherto I have
+    begged not to be let perish in shame and derision — now I beg no more. — May God also preserve me
+    from having to perform an after-piece of Stößel. Since the letter of the 7th of February nothing has
+    come in here from Your Serene Highness. Respectfully I remain as
+
+
+    Your Serene Highness''s
+
+
+    I lie very ill today;
+
+
+    if you do not rescue me, I must go under.
+
+
+    and do support my
+
+
+    daughter —
+
+
+    entirely obedient servant
+
+
+    Vienna, the 19th of February
+
+
+    1815
+
+
+    v. Triebenfeld'
+  names:
+  - de: Barbe
+    en: Barbe
+    kind: person
+  - de: Stößel
+    en: Stößel
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '24'
+  - '5'
+  - '6'
+  - '4'
+  - '7'
+  - '19'
+  - '1815'
 - page: 3
   en: 'Since the 7th of February I have received no letter from Your Serene Highness, and for eight days
-    I have been lying very ill with a [uncertain: slow/mucous] fever and a bad throat — I am without any
-    help whatever, I have neither money nor credit; may almighty God help me this one time. Barbe is the
-    only one who visits me daily, but support me further he cannot. — Next to him I have yet one true
-    friend, and that is the Privy Councillor of State v. Stengelin, who again today promised the Prince
-    Chancellor to press him so long until he fulfils his word according to his promise (which he, Herr
-    v Beugelin, only lately assured him of) to help Your Serene Highness entirely — and he will also this
-    very day approach the Herr Privy Councillor of State Stägemann to lay Your Serene Highness''s affairs
-    before the Herr Prince State Chancellor and bring the matter to an end. For the redemption of the
-    papers I do not know where I am to get the money. In the end I shall yet die here of shame. — To Barbe
-    I have long owed 70 H — could he help me he certainly would; what I now require in the way of medicine
-    (for eat I cannot at all) he buys, and it comes hard to him; when he sees me lamenting over my situation,
-    he [uncertain: is ashamed/burns] with rage, and then I must dissemble, so that this honest man does
-    not become altogether mistrustful. In short, I suffer unspeakably, and if you do not rescue me quickly,
-    my Prince, for whom I endure all this, your loss will be boundless — for Barbe avenges me — and should
-    Heaven [uncertain: dispose] of me, he will defend me afterwards as well. — Take counsel, therefore,
-    as speedily as possible — I beg it for God''s sake. ad 19 Febr. 1815'
+    I have lain very ill with a slow [uncertain: schleine] fever and a bad throat — I am without any help
+    whatever, I have neither money nor credit; may Almighty God help me this once only. Barbe is the only
+    one who visits me daily, but support me further he cannot. — Next to him I have yet one true friend,
+    and that is the Privy Councillor of State v. Stengelin, who again today promised the Prince Chancellor
+    to press him so long until, in accordance with his promise / which he, Mr v. Beugelin, only lately
+    assured / he fulfils his word to help Your Serene Highness entirely. — He will also, this very day,
+    approach the Privy Councillor of State Stägemann to lay Your Serene Highness''s affairs before the
+    Prince State Chancellor and bring the matter to an end. For the redemption of the papers I do not
+    know where I am to get the money. In the end I shall die here of shame. — To Barbe I have long owed
+    70 H — could he help me, he would certainly do it; what is now needful to me is medicine) for eat
+    I cannot (that he buys, and it comes hard to him; when he sees me lamenting over my situation, he
+    foams with rage, and then I must dissemble, so that this honest man does not become wholly mistrustful.
+    In short, I suffer unspeakably, and if you do not rescue me quickly, my Prince, for whom I suffer
+    all this, your loss will be boundless — for Barbe avenges me — and should Heaven [uncertain: Zimmel]
+    dispose over me, he will defend me afterwards as well. — Therefore procure relief as speedily as possible
+    — I beg it for God''s sake.
+
+
+    ad 19 Feb. 1815'
+  names:
+  - de: Barbe
+    en: Barbe
+    kind: person
+  - de: Stengelin
+    en: Stengelin
+    kind: person
+  - de: Beugelin
+    en: Beugelin
+    kind: person
+  - de: Stägemann
+    en: Stägemann
+    kind: person
+  numbers:
+  - '7'
+  - '8'
+  - '70'
+  - '19'
+  - '1815'

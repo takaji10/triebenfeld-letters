@@ -1,182 +1,456 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. A. Summary survey of the annual revenues of the two lordships of Zagorowo and Trąbczyn in
-    South Prussia, precisely [uncertain: expected] by the Royal Kalisch Chamber of War and Domains and
-    approved by the General Finance Department.
+  en: 'Copy.
 
 
-    Tit. I. In fixed dues.
-
-    1. From the old subjects in both lordships, according to the table of prestations: 5752 Rthl 14 g.
-    11 d.
-
-    2. In hereditary quit-rents from the dismembered parcels of land, according to the table of prestations:
-    16781.
+    A. Summary overview of the annual revenues of the two lordships of Zagorowo and Trąbczyn in South
+    Prussia, exactly [uncertain: expected] by the Royal Kalisz Chamber of War and Domains and approved
+    by the General Finance Department. Title I. Of standing dues. 1. From the old subjects in both lordships,
+    according to the table of prestations, 5752 Rthl 14 g. 11 d.
 
 
-    Tit. II. In hereditary-lease canon.
-
-    1. From Olesnica: 2000
-
-    2. From Ignaz v. Radzinski at Szetlewek: 1500
+    2. Of hereditary quit-rents from the dismembered parcels, according to the table of prestations, 16781.
 
 
-    Tit. III. From leased and rented parcels.
-
-    1. From Martin Honrichs for the demesne farm of Trąbczyn: 3000
-
-    2. From Tomas v. Glinicki for the demesne farm of Swiątniki: 1500
-
-    3. For Marianton: 150
-
-    4. From v. Niedzewiecki for the demesne farm of Kopojno: 2125.
-
-    5. From Forest Inspector Tiel[uncertain: tz] for the demesne farm of Drzewce: 1800
-
-    6. From Honrichs and Niedzewiecki for the propination rights: 4560
-
-    For mill-rents in Trąbczyn, Kopoyno, [uncertain: Wrąbczyn] and Swięcia: 222.
-
-    8. For 2 brickworks: 870.
-
-    Sum: 40260 Rthl 14 g. 11 d.
+    Title II. Of hereditary-lease canon. 1. From Olesnica
 
 
-    All outgoings, by whatever name they may go, have been taken over by the subjects and the occupiers;
-    they do not appear here at all, and there remains therefore an unalterable net revenue of 40260 Rthl
-    14 g. 11 d.
+    2000
 
 
-    Besides these, there are reserved to the demesne 4900 Morgen of forest, and next to that all dues
-    of jurisdiction and feudal fees, the amount of which can only be exactly ascertained after an average
-    over 6 years, and which has therefore for the present not been brought into the valuation at all.
+    2. From Ignaz von Radzinski at Szetlewek 1500. Title III. Of leased and rented parcels.
 
 
-    Kalisz, the 28th of March 1806. Mencke v. Hellen. Revised and correct in the calculation. Mündel.'
+    1. From Martin Honrichs for the demesne farm Trąbczyn 3000
+
+
+    2. From Tomas von Glinicki for the demesne farm Swiątniki 1500
+
+
+    3. For Marianton
+
+
+    150. 4. From von Niedzewiecki for the demesne farm Kopojno 2125.
+
+
+    5. From the Forest Inspector Tiel[uncertain: tz] for the demesne farm Drzewce 1800
+
+
+    6. From Honrichs and Niedzewiecki for the propination rights 4560. For mill rents in Trąbczyn, Kopojno,
+    Wrąbczyn and Swięcia
+
+
+    222. 8. For 2 brickworks
+
+
+    870. Total 40260 Rthl 14 g. 11 d. All outgoings, by whatever name they may be called, have been taken
+    over by the subjects and holders; they do not appear at all, and there therefore remains an unalterable
+    net revenue of 40260 Rthl 14 g. 11 d. Besides these there are reserved to the manorial lordship (Dominium)
+    4900 Morgen of forest, and next to that all dues of jurisdiction and feudal goods, the amount of which
+    can only be exactly ascertained after a six-year average, and which has therefore not been brought
+    into the valuation at all for the present. Kalisz, the 28th of March 1806. Mencke
+
+
+    von Hellen. Revised and correct in calculation. Mündel.'
+  names:
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Südpreußen
+    en: South Prussia
+    kind: place
+  - de: Kalischen
+    en: Kalisz
+    kind: place
+  - de: Olesnica
+    en: Olesnica
+    kind: place
+  - de: Ignaz v. Radzinski
+    en: Ignaz von Radzinski
+    kind: person
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Martin Honrichs
+    en: Martin Honrichs
+    kind: person
+  - de: Tomas v. Glinicki
+    en: Tomas von Glinicki
+    kind: person
+  - de: Swiątniki
+    en: Swiątniki
+    kind: place
+  - de: Marianton
+    en: Marianton
+    kind: other
+  - de: v Niedzewiecki
+    en: von Niedzewiecki
+    kind: person
+  - de: Kopojno
+    en: Kopojno
+    kind: place
+  - de: Tiel[tz?]
+    en: 'Tiel[uncertain: tz]'
+    kind: person
+  - de: Drzewce
+    en: Drzewce
+    kind: place
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Niedzewiecki
+    en: Niedzewiecki
+    kind: person
+  - de: Kopoyno
+    en: Kopojno
+    kind: place
+  - de: Wrąbczyn
+    en: Wrąbczyn
+    kind: place
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Mencke
+    en: Mencke
+    kind: person
+  - de: v Hellen
+    en: von Hellen
+    kind: person
+  - de: Mündel
+    en: Mündel
+    kind: person
+  numbers:
+  - '5752'
+  - '14'
+  - '11'
+  - '16781'
+  - '2000'
+  - '1500'
+  - '3000'
+  - '1500'
+  - '150'
+  - '2125'
+  - '1800'
+  - '4560'
+  - '222'
+  - '2'
+  - '870'
+  - '40260'
+  - '14'
+  - '11'
+  - '40260'
+  - '14'
+  - '11'
+  - '4900'
+  - '6'
+  - '28'
+  - '1806'
 - page: 2
-  en: 'B. All the liabilities of His Serene Highness the Prince of Hohenlohe.
+  en: 'B. All liabilities of His Serene Highness the Prince of Hohenlohe.
 
-    1. To the Countess Schlabrendorff, payable at St. John''s: 25000
 
-    2. To Weigel in Breslau, likewise: 27000
+    1. To the Countess Schlabrendorff, payable at Midsummer, 25000
 
-    3. To the Jew Meyer Bernhard on Drewes, for Glenck: 5600.
 
-    4. To Gerard and Haupt on Swięcia: 18000.
+    2. To Weigel in Breslau, the same, 27000
 
-    5. To Zerboni on Szetlewek: 10000.
 
-    6. To Eysenhard on Szetlewek: 10000.
+    3. To the Jew Meyer Bernhard on Drewes, for Glenck, 5600.
 
-    7. To the Jew, now Glenck, standing on Olesnica: 20000
 
-    8. To Glenck, to the very same Jew Meyer Bernhard, standing on Swięcia: 5000.
+    4. To Gerard and Haupt on Swięcia, 18000.
 
-    9. To Lichnowski, standing on Trąbczyn: 42000
 
-    10. For Grotowski, likewise: 20000
+    5. To Zerboni on Szetlewek, 10000.
 
-    11. For Seehausen, likewise: 5000.
 
-    12. For Secher Tos[uncertain: t], the same: 8000.
+    6. To Eysenhard, likewise Szetlewek, 10000.
 
-    13. A protestation for the Prusimska, ditto: 8333.
 
-    14. For the Invalids'' Fund, upon the Zagorow estates together: 50000.
+    7. To the Jew, now Glenck, stands upon Olesnica, 20000
 
-    15. For Oppenheimer, ditto: 110000.
 
-    Sum: 363933 Rthl.
+    8. To Glenck, the same Jew Meyer Bernhard, stands upon Swięcia, 5000.
 
-    To this the Courland debt with 300000, at 5 per cent, the negotiation charges 34851 = 698784.'
+
+    9. To Lichnowski, stands upon Trąbczyn, 42000
+
+
+    10. For Grotowski, the same, 20000
+
+
+    11. For Seehausen, the same, 5000.
+
+
+    12. For Secher Tos[uncertain: t], likewise, 8000.
+
+
+    13. A protestation for the Prusimska, ditto, 8333.
+
+
+    14. For the Invalids'' Fund, upon all the Zagorowo estates, 50000.
+
+
+    15. For Oppenheimer, the same, 110000. Total 363933 Rthl. To this the Courland debt at 300000, 5 per
+    cent, the negotiation charges 34851 = 698784.'
+  names:
+  - de: Hohenlohe
+    en: Hohenlohe
+    kind: person
+  - de: Gräfin Schlabrendorff
+    en: Schlabrendorff, Countess
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Meyer Bernhard
+    en: Meyer Bernhard
+    kind: person
+  - de: Drewes
+    en: Drewes
+    kind: place
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Gerard
+    en: Gerard
+    kind: person
+  - de: Haupt
+    en: Haupt
+    kind: person
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Eysenhard
+    en: Eysenhard
+    kind: person
+  - de: Olesnica
+    en: Olesnica
+    kind: place
+  - de: Lichnowski
+    en: Lichnowski
+    kind: person
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Grotowski
+    en: Grotowski
+    kind: person
+  - de: Seehausen
+    en: Seehausen
+    kind: person
+  - de: Secher Tos[t?]
+    en: 'Secher Tos[uncertain: t]'
+    kind: person
+  - de: Prusimska
+    en: Prusimska
+    kind: person
+  - de: Invaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Oppenheimer
+    en: Oppenheimer
+    kind: person
+  - de: Curländische
+    en: Courland
+    kind: place
+  numbers:
+  - '25000'
+  - '27000'
+  - '5600'
+  - '18000'
+  - '10000'
+  - '10000'
+  - '20000'
+  - '5000'
+  - '42000'
+  - '20000'
+  - '5000'
+  - '8000'
+  - '8333'
+  - '50000'
+  - '110000'
+  - '363933'
+  - '300000'
+  - '5'
+  - '34851'
+  - '698784'
 - page: 3
-  en: 'C. Draft of the memorial to His Majesty.
+  en: 'C. Draft of the memorial to His Majesty. Most Serene etc. etc.
 
 
-    Most Serene of All, etc. etc. Berlin, the 25th of April 1806.
+    Berlin, the 25th of April 1806.
 
 
     If Your Royal Majesty should deign to favour with Your Most High attention and support a plan which,
-    for a Princely House whose head has dedicated his whole life to Your Most High self, fulfils in a
-    blameless manner several equally important ends, and at the same time leaves no danger whatever to
-    be apprehended for the Most High interest: then I may most humbly take comfort that the following
-    representation will be deemed worthy of a Most Gracious consideration.
+    for a princely house whose head has consecrated his whole life to that same Most High service, fulfils
+    several equally important purposes in an unimpeachable manner, and at the same time leaves no danger
+    whatever to be apprehended for the Most High interest: then I may most humbly take comfort that the
+    following representation will be thought worthy of a Most Gracious consideration.
 
 
-    It is known to Your Most High self with what exertion the Prince of Hohenlohe has for some time been
-    at pains to bring the affairs of his House into order; the just hope of doing so, long entertained,
-    arising from the decease and the inheritance of his uncle, has for the moment been frustrated anew
-    by political events, for the loss which he suffered in [uncertain: Weich] amounts to 532 Rthl. [text
-    lost] One way out remains to him yet, founded upon the lordships of Zagorowo and Trąbczyn situated
-    in South Prussia, and to submit this to Your Most High gracious decision is the purpose of this petition.
-    Namely, it will be specifically and in the fullest detail documented and demonstrated from the mortgage
-    and Chamber assessment records:
+    It is known to Your Most High self with what exertion the Prince of Hohenlohe has been endeavouring
+    for some time past to bring the affairs of his house into order; the just hope of doing so, entertained
+    for many years and founded upon the decease of his uncle and the succession to him, has for the moment
+    been frustrated anew by political events, for the damage he has suffered in the Empire amounts to
+    532 Rthl. One way out still remains open to him, founded upon the lordships of Zagorowo and Trąbczyn
+    situated in South Prussia, and to submit this to Your Most High gracious decision is the purpose of
+    this petition. Namely, it will be shown and proved specifically and in the fullest detail, by the
+    mortgage and Chamber assessment records:
 
 
-    1. That the two lordships yield a net income of 40260 Rthl. It is to this yield that I have succeeded
-    in raising the said estates, under the direction of Your Most High [illegible] in the Domain Chamber
-    at Kalisz. 16 new villages, and 500 families, might well at the same time secure for the Prince, for
-    this exertion, Your Most High approbation and an honourable remembrance in the province.
+    1. That the two lordships afford a net yield of 40260 Rthl. It is to this yield that I have succeeded
+    in raising the said estates, under the direction of the Most High [uncertain: or] in the Domains Chamber
+    at Kalisz. 16 new villages, and 500 families, might at the same time secure for the Prince, for this
+    exertion, Your Most High approbation and an honourable remembrance in the province.
 
 
-    2. It will be specifically shown that the whole of the Prince''s liabilities without exception, and
-    including the intabulations upon these lordships, still amount to 698000 Rthl, and consequently the
-    interest at ... per cent .......  NB: at 4 pct. 27920 Rthl; ad at 3 pct. 20940 Rthl yearly.
+    2. It will be shown specifically that all the liabilities of the Prince, without exception and including
+    the intabulations upon these lordships, still amount to 698000 Rthl, and consequently that the interest
+    at ... per cent amounts to ......... N.B.: at 4 per cent, 27920 Rthl.
 
 
-    On the presupposition of this demonstration, the Prince desires to obtain upon these estates a capital
-    of 698000 Rthl in Treasury notes, and stipulates:
+    At 3 per cent, 20940 Rthl yearly.
 
-    1. The [uncertain: Depuration] of the estates therewith, in such wise that the capital shall stand
+
+    On the presumption of this proof, the Prince desires to obtain upon these estates a capital of 698000
+    Rthl in treasury notes, and stipulates:
+
+
+    1. The [uncertain: depuration] of the estates therewith, in such wise that the capital is secured
     as the first and sole mortgage;
 
-    2. The payment of interest at . . . . per cent. NB: this depends on what r[t] G.C.V.B.[illegible]
-    will say, whether 4 or 3 pct.
 
-    3. The establishment of an amortisation fund out of the revenues, namely for the payment of the interest
-    and the amortisation of the capital, 34000 Rthl yearly.'
+    2. The payment of interest at . . . . per cent.
+
+
+    N.B. It depends upon what [illegible]
+
+
+    G.C.V.B.[illegible] will say, whether 4 or 3 per cent.
+
+
+    3. The establishment of an amortisation fund out of the revenues, namely 34000 Rthl yearly for the
+    payment of the interest and the amortisation of the capital.'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Fürst zu Hohenlohe
+    en: Hohenlohe, Prince of
+    kind: person
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Südpreußen
+    en: South Prussia
+    kind: place
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: G.C.V.B.[?]
+    en: G.C.V.B.[illegible]
+    kind: other
+  numbers:
+  - '25'
+  - '1806'
+  - '532'
+  - '40260'
+  - '16'
+  - '500'
+  - '698000'
+  - '4'
+  - '27920'
+  - '3'
+  - '20940'
+  - '698000'
+  - '4'
+  - '3'
+  - '34000'
 - page: 4
   en: 'whereby the capital will be entirely discharged in . . . . years, and there will remain to his
-    descendant, as a perpetuation of the grace shown him by the conferring of these estates, a clear entailed
-    property. To all measures directed at the strict execution of this condition, even in the event of
-    his decease, the Prince submits himself without reserve; he is also willing, 4., to let the delivery
-    of the Treasury notes take place in successive instalments to be determined in the highest quarter.
-    Further, this amount of Treasury notes may yet be reduced, in so far as Your Royal Majesty should
-    be pleased to let the ingrossment of 50000 Rthl standing upon the estates for the Invalids'' Fund
-    remain thereon.
-
-
-    He desires the strict examination of this undertaking, which is as blameless and, in every respect,
-    wholly free of danger for the Most High interest as it is of the highest importance to that same interest;
-    but next to that he desires most ardently that the execution may be hastened, since upon it, as has
-    already been said, the entire regulation of the Prince''s affairs depends, inasmuch as he will thereby
-    be set free of all foreign credit-nexus and entirely put in the clear.
+    descendants, as a perpetuation of the grace shown him by the bestowal of these estates, a clear entailed
+    [uncertain: trust] property. To all measures directed to the strict execution of this condition, also
+    in the event of his decease, the Prince submits himself without reserve; he will also 4. allow the
+    delivery of the treasury notes to take place in successive instalments to be determined by the highest
+    authority. Moreover this amount of treasury notes may yet be diminished, in so far as Your Royal Majesty
+    may be pleased to let the registered charge of 50000 Rthl standing upon the estates for the Invalids''
+    Fund continue to rest thereon. He desires the strict examination of this undertaking, which is as
+    unimpeachable and in every respect entirely free of danger to the Most High interest as it is of the
+    highest importance to the same; and thereafter he desires most earnestly that the execution may be
+    hastened, since upon it, as has already been said, depends the entire regulation of the Prince''s
+    affairs, inasmuch as he is thereby set wholly clear of all foreign credit obligations and entirely
+    in the clear.
 
 
     I am ready to legitimate myself for this most humble representation by the judicial power of attorney
-    of the Prince which I have in hand, and also to furnish personal surety, with my own not inconsiderable
-    means, both for the punctual payment of interest and for the annual payment into the amortisation
-    fund; which obligation I take upon myself the more gladly, as it is known to me with the greatest
-    certainty that after the lapse of a few years the revenues of the Prince in his principalities and
-    entailed estates will guarantee a fixed income establishment of 400000 Rthl.
+    of the Prince which I have in hand, and also to furnish personal surety with my own not inconsiderable
+    fortune, both for the punctual payment of interest and for the yearly payment into the amortisation
+    fund; which obligation I undertake the more gladly as it is known to me with the greatest certainty
+    that, after the lapse of a few years, the revenues of the Prince from his principalities and entailed
+    estates will guarantee a fixed income budget of 400000 Rthl.
 
 
-    I remain, until death, in deepest [uncertain: submission], Your Royal Majesty''s most humble, etc.
-    etc.
+    I remain, until death, in deepest submission,
 
 
-    v. Triebenfeld'
+    Your Royal Majesty''s most humble etc. etc.
+
+
+    von Triebenfeld'
+  names:
+  - de: Invaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '4'
+  - '50000'
+  - '400000'
 - page: 5
-  en: 'D. Plan of amortisation of a capital of 690000 Rthl at 4 per interest, where 34000 Rthl yearly
-    are [FLAG: angewiesen — assigned/ordered] for the payment of the interest and the amortisation of
-    the capital. Accordingly all is discharged in 39 1/2 years. The table overleaf is reckoned at 3 pct.'
+  en: 'D. Amortisation plan for a capital of 690000 Rthl at 4 per cent interest, where 34000 Rthl are
+    assigned yearly for the payment of the interest and the amortisation of the capital. Thus everything
+    is discharged in 39 1/2 years.
+
+
+    The table overleaf is calculated at 3 per cent.'
+  numbers:
+  - '690000'
+  - '4'
+  - '34000'
+  - 39 1/2
+  - '3'
 - page: 6
-  en: to have [illegible] rendered to them, to negotiate all that is necessary with my creditors who are
-    to be satisfied, whether judicially or extrajudicially; in any judicial proceedings to represent me
-    in the place of plaintiff or of defendant; to compromise upon an arbitral award, to conclude and execute
-    settlements, to swear oaths upon my soul, also to remit oaths and to accept them as sworn, to grant
-    jura cela, to draw out again ex deposito any moneys judicially deposited, and in general to do everything
-    which shall be necessary and useful for the settlement of the loan business and for the complete arrangement
-    of my debt affairs, and for which by the laws a special mandate may be required, with the power to
-    substitute one or more persons of his own choosing, generally or specially.
+  en: 'to have [uncertain: performed] to them [uncertain: willingly]; to negotiate all things needful
+    with my creditors who are to be satisfied, whether judicially or extrajudicially; in any judicial
+    proceedings, to represent me in the place of plaintiff or of defendant; to compromise upon [uncertain:
+    an arbitral] judicial award, to conclude and execute settlements, to swear oaths upon my soul, also
+    to remit oaths and to accept them as sworn, to grant [uncertain: jura cela], to withdraw again out
+    of deposit any moneys judicially deposited, in general to do everything that shall be needful and
+    useful for the adjustment of the loan business and for the complete arrangement of my debt affairs,
+    and for which by the laws a special mandate might be required, with the power to substitute one or
+    more persons of his own choosing, generally or specially.'

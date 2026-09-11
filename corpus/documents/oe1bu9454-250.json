@@ -88,16 +88,78 @@
    "doc_line": 16
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humboldt",
+   "surface_en": "Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Enclosure to the letter of the 17th of 9br. I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and have through it gained knowledge of the memorial delivered to His Serene Highness the Prince von Hardenberg. I have the honour to return a copy of the same in the enclosure, and shall not fail to interest myself in its contents so far as it lies within my sphere of action. Receive herewith, Your Right Honourable, the assurances of my most perfect esteem. Vienna, the 5th of November 1814. Humboldt. To Herr von Triebenfeld"
+   "en": "Enclosure to the letter of the 17th of November. I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and through it have obtained knowledge of the memorial submitted to His Serene Highness the Prince von Hardenberg. I have the honour of returning a copy of the same in the enclosure, and shall not fail [uncertain: not have failed] to take an interest in its contents so far as it lies within my sphere of action. Receive herewith, Your Right Honourable, the assurances of my most perfect esteem.\n\nVienna, the 5th of November 1814.\n\nHumboldt.\n\nTo the Sir\n\nHerr von Triebenfeld",
+   "names": [
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Humboldt",
+     "en": "Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17",
+    "9",
+    "3",
+    "5",
+    "1814"
+   ]
   }
  ],
- "text_english": "Enclosure to the letter of the 17th of 9br. I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and have through it gained knowledge of the memorial delivered to His Serene Highness the Prince von Hardenberg. I have the honour to return a copy of the same in the enclosure, and shall not fail to interest myself in its contents so far as it lies within my sphere of action. Receive herewith, Your Right Honourable, the assurances of my most perfect esteem. Vienna, the 5th of November 1814. Humboldt. To Herr von Triebenfeld",
+ "text_english": "Enclosure to the letter of the 17th of November. I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and through it have obtained knowledge of the memorial submitted to His Serene Highness the Prince von Hardenberg. I have the honour of returning a copy of the same in the enclosure, and shall not fail [uncertain: not have failed] to take an interest in its contents so far as it lies within my sphere of action. Receive herewith, Your Right Honourable, the assurances of my most perfect esteem.\n\nVienna, the 5th of November 1814.\n\nHumboldt.\n\nTo the Sir\n\nHerr von Triebenfeld",
  "summary_en": "Humboldt, writing from Vienna and enclosed with Triebenfeld's letter of 17 November, acknowledges Triebenfeld's letter of the 3rd and confirms he has learned of the memorial submitted to Prince von Hardenberg. He returns a copy of the memorial and promises to take up its contents so far as his own sphere of action permits, closing with assurances of esteem.",
  "summary_de": "Beilage zum Brief vom 17. 9br.: Humboldt bestätigt den Empfang des Schreibens Triebenfelds vom 3. dieses Monats und die dadurch erhaltene Kenntnis der dem Fürsten von Hardenberg überreichten Denkschrift (Memorial). Eine Kopie derselben wird in der Anlage zurückgesandt; Humboldt sagt zu, sich für den Inhalt einzusetzen, soweit es in seinem Wirkungskreis liegt, und versichert Triebenfeld seiner vollkommenen Hochachtung."
 }

@@ -98,20 +98,128 @@
    "doc_line": 32
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cortapp",
+   "kind": "other",
+   "surface_de": "Cortapp",
+   "surface_en": "Cortapp",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berliner",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wilhelm von Lämer",
+   "kind": "person",
+   "surface_de": "Willhelm von Lämer",
+   "surface_en": "Wilhelm von Lämer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wildbach",
+   "kind": "other",
+   "surface_de": "Wildbach",
+   "surface_en": "Wildbach",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berl.",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mrs Amelang",
+   "kind": "person",
+   "surface_de": "Frau Amelang",
+   "surface_en": "Mrs Amelang",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "My dearest Friend! The letter of His Serene Highness the Prince of Hohenlohe, bill of exchange, which you would gladly have together with the money contained therewith, you will by now surely have received, if it has been drawn from here upon [uncertain: Cortapp] in you. So much the worse will it go with us in the matter of the [uncertain reading: adtatorten]; the files lie in the Court of Appeal awaiting judgment, only no favourable decision can come of it, because today there stands in the Berlin newspapers a Declaration [drawn up? executed?] by the King himself, that all bonds in [beinen] money — even if the [Saluta] has been paid in [Staatsslagius] — are to be [heit bliegen] accustomed to Courant, and that this [acht allten] concealment back to 1806 has [been]. Now, accordingly, all the Latin is at an end, and she must [make] provision for the long payment more. Under this law, interest too has been made harder, as one will and may, 10. 12. 16. 20. 50 per cent, as soon as they are deceased [verscheiden], apart from being so paid, without regard to the creditor, whether he be [zu den Christ]. Money help now everyone who suffers want of money; for him it will surely"
+   "en": "My dearest Friend!\n\nThe letter [uncertain: writing] of the Prince of Hohenlohe, Serene Highness, bill of exchange, which you would gladly wish to have together with the money that is with it, you will by now surely have received, if it was drawn from here upon Cortapp in you.\n\nAll the worse will it go with us as regards the [illegible], very much so; the files lie in the appellate court awaiting judgment, only no favourable decision can come, because today a declaration executed by the King himself stands in the Berlin newspapers, that all bonds in [uncertain: your] money, even when the [uncertain: sum] has been paid in state notes, are henceforth to be accustomed to remain Courant, and that this has taken back the eight old concealments in 1806. Now therefore all the Latin is at an end, and she must make provision for long payment any more.\n\nUnder this law it has likewise been aggravated with interest, as one will and may, 10, 12, 16, 20, 50 per cent, so soon as they are fallen due, to be paid otherwise thus; without regard to the creditor, whether he be of the Christ. Money help now everyone who suffers want of money; for him it will surely",
+   "names": [
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Cortapp",
+     "en": "Cortapp",
+     "kind": "other"
+    },
+    {
+     "de": "Berliner",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1806",
+    "10",
+    "12",
+    "16",
+    "20",
+    "50"
+   ]
   },
   {
    "page": 2,
-   "en": "a hundred per cent. I pity you most sincerely and most heartily in your [Vorillungen — presentations? afflictions?]. How he can now [extricate himself?] from the matter of the [Watten] out of [tricanten]. Have I forgotten my [Wildbach] for Wilhelm von Lämer? – Do not fare well, and [try/attempt] yourself, and with constant esteem it is due, as that yours,\n\nBerlin, the 2nd of March 1809\n\nMost devotedly serves, and Frau Amelang"
+   "en": "a hundred per cent.\n\nI pity you very much and most heartily in your [uncertain: representations]. How he may now [illegible] out of the [uncertain: cotton wool] matter.\n\nHave I forgotten my [uncertain: Wildbach] for Wilhelm von Lämer? – Do not fare well, and try yourself, and with constant esteem, as is due, I am yours\n\nBerlin, the 2nd of March 1809. Your most devoted servant and Mrs Amelang",
+   "names": [
+    {
+     "de": "Willhelm von Lämer",
+     "en": "Wilhelm von Lämer",
+     "kind": "person"
+    },
+    {
+     "de": "Wildbach",
+     "en": "Wildbach",
+     "kind": "other"
+    },
+    {
+     "de": "Berl.",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Frau Amelang",
+     "en": "Mrs Amelang",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "1809"
+   ]
   }
  ],
- "text_english": "My dearest Friend! The letter of His Serene Highness the Prince of Hohenlohe, bill of exchange, which you would gladly have together with the money contained therewith, you will by now surely have received, if it has been drawn from here upon [uncertain: Cortapp] in you. So much the worse will it go with us in the matter of the [uncertain reading: adtatorten]; the files lie in the Court of Appeal awaiting judgment, only no favourable decision can come of it, because today there stands in the Berlin newspapers a Declaration [drawn up? executed?] by the King himself, that all bonds in [beinen] money — even if the [Saluta] has been paid in [Staatsslagius] — are to be [heit bliegen] accustomed to Courant, and that this [acht allten] concealment back to 1806 has [been]. Now, accordingly, all the Latin is at an end, and she must [make] provision for the long payment more. Under this law, interest too has been made harder, as one will and may, 10. 12. 16. 20. 50 per cent, as soon as they are deceased [verscheiden], apart from being so paid, without regard to the creditor, whether he be [zu den Christ]. Money help now everyone who suffers want of money; for him it will surely\n\na hundred per cent. I pity you most sincerely and most heartily in your [Vorillungen — presentations? afflictions?]. How he can now [extricate himself?] from the matter of the [Watten] out of [tricanten]. Have I forgotten my [Wildbach] for Wilhelm von Lämer? – Do not fare well, and [try/attempt] yourself, and with constant esteem it is due, as that yours,\n\nBerlin, the 2nd of March 1809\n\nMost devotedly serves, and Frau Amelang",
+ "text_english": "My dearest Friend!\n\nThe letter [uncertain: writing] of the Prince of Hohenlohe, Serene Highness, bill of exchange, which you would gladly wish to have together with the money that is with it, you will by now surely have received, if it was drawn from here upon Cortapp in you.\n\nAll the worse will it go with us as regards the [illegible], very much so; the files lie in the appellate court awaiting judgment, only no favourable decision can come, because today a declaration executed by the King himself stands in the Berlin newspapers, that all bonds in [uncertain: your] money, even when the [uncertain: sum] has been paid in state notes, are henceforth to be accustomed to remain Courant, and that this has taken back the eight old concealments in 1806. Now therefore all the Latin is at an end, and she must make provision for long payment any more.\n\nUnder this law it has likewise been aggravated with interest, as one will and may, 10, 12, 16, 20, 50 per cent, so soon as they are fallen due, to be paid otherwise thus; without regard to the creditor, whether he be of the Christ. Money help now everyone who suffers want of money; for him it will surely\n\na hundred per cent.\n\nI pity you very much and most heartily in your [uncertain: representations]. How he may now [illegible] out of the [uncertain: cotton wool] matter.\n\nHave I forgotten my [uncertain: Wildbach] for Wilhelm von Lämer? – Do not fare well, and try yourself, and with constant esteem, as is due, I am yours\n\nBerlin, the 2nd of March 1809. Your most devoted servant and Mrs Amelang",
  "summary_en": "Reports that the Prince of Hohenlohe's letter and bill of exchange, with the money, should by now have arrived. Warns that the pending appeal case will fail: a royal Declaration in that day's Berlin newspapers rules that all bonds in money, even where paid in state paper, are to be reckoned in Courant, retroactive to 1806, so no legal argument remains. Notes harsher treatment of interest at rates of 10 to 50 per cent, and offers sympathy. Text partly corrupt and uncertain.",
  "summary_de": "Bestätigt die vermutlich schon eingetroffene Sendung des fürstlichen Schreibens samt Wechsel und Geld. Zur Prozeßsache liegen die Akten beim Appellationsgericht, doch sei kein günstiges Urteil zu erwarten: eine in den Berliner Zeitungen abgedruckte königliche Declaration bestimme, daß alle auf Geld lautenden Obligationen, rückwirkend bis 1806, in Courant zu berechnen seien; auch die Zinsregelung (10, 12, 16, 20, 50 Prozent) sei verschärft. Klagen über die Lage der Schuldner. Textstellen unsicher lesbar; Grüße, u. a. von Frau Amelang."
 }

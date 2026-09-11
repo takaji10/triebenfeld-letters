@@ -1,16 +1,65 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord. However much Herr von Triebenfeld and Eysenhardt
-    press me to procure them definite intelligence of the present state of the exchange of estates, I
-    am nevertheless not in a position to report anything definite to Your Most Serene Highness today.
-    In the South Prussian Registry and Expedition office, from which I am just now returning, nothing
-    has yet arrived; this is a sign that the matter must still be lodged in the correspondence between
-    the Minister v. Roth and the Privy [uncertain: Einweg] Councillor Schulze, and that nothing has yet
-    been decreed. I do not think it expedient to trouble the said Schulze so often with my visits, since
-    I have already told him the previous time what he must know for the present; I shall therefore, until'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord.
+
+
+    However much Herr von Triebenfeld and Eysenhardt press me to procure them definite news of the present
+    state of the exchange of estates, I am nevertheless not in a position to report anything definite
+    to Your Most Serene Highness today. In the South [uncertain: Greustisch] registry with the dispatch
+    office, from which I have this moment returned, nothing has yet come in; this is a sign that the matter
+    must still be stuck in the correspondence between the Minister
+
+
+    von Roth and the Privy [uncertain: Einweg] Councillor Schulze, and that nothing has yet been decreed.
+    I do not think it expedient to trouble the said Schulze so often with my visits, since what he needs
+    to know for the present I have already told him the time before; I shall therefore, until'
+  names:
+  - de: von Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Eysenhardt
+    en: Eysenhardt
+    kind: person
+  - de: v. Roth
+    en: von Roth
+    kind: person
+  - de: Schulze
+    en: Schulze
+    kind: person
+  - de: Südgreustischen
+    en: 'South [uncertain: Greustisch]'
+    kind: place
 - page: 2
-  en: until the arrival of Your Serene Highness's power of attorney, [text lost] further, and since I
-    look for the same next Tuesday, I shall then take pains without delay to legitimate myself therewith
-    and to obtain a reliable enquiry from Herr Schulze. I remain, until death, Your Most Serene Highness's
-    most humble, faithful and most obedient Michaelis Berlin, the 13th of October 1798
+  en: 'until the arrival of Your Serene Highness''s power of attorney, and since I look forward to the
+    same next Tuesday, I shall then endeavour without delay to authenticate myself therewith and to obtain
+    a reliable enquiry from Herr Schulze. I remain, until death, Your Most Serene Highness''s most humble,
+    faithful and most obedient
+
+
+    Michaelis
+
+
+    Berlin
+
+
+    the 13th of October
+
+
+    1798'
+  names:
+  - de: Schulze
+    en: Schulze
+    kind: person
+  - de: Michaelis
+    en: Michaelis
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  numbers:
+  - '13'
+  - '1798'

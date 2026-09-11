@@ -1,46 +1,175 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Lord! According to several reports, His Excellency the Minister
-    v Voss is to arrive in Krotoszyn in some 3 weeks, in order to examine the business in question. God
-    grant that the matter be concluded as we wish. If only Herr p. Prittwitz would then take the trouble
-    and go there himself, the matter would proceed very swiftly. Chelmshi has lost in the 2nd instance
-    as well, and now I only await what he will do further. The matter will soon be concluded. With Broniewski
-    I can come to a close at any hour; yet I shall not do so any sooner than until I see how things turn
-    out with Krotoszyn — I have now had everything dissected once more at Posen, and everyone now finds
-    that not a Groschen ought to come out of it for the Patri either. In the meantime, however, so as
-    to
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    According to several reports, His Excellency Minister von Voss is to arrive at Krotoszyn in about
+    3 weeks, in order to examine the business in question. God grant that the matter be concluded as we
+    wish. If only
+
+
+    Mr. von Prittwitz would then take the trouble and go there himself, the matter would proceed very
+    quickly. Chelmshi has lost in the second instance as well, and now I await only what he will do further.
+    The matter will soon be concluded.
+
+
+    With Broniewski I can conclude at any hour; only I shall not do so before I see how things turn out
+    with Krotoszyn — I have now had everything at Posen analysed once again, and everyone now finds that
+    not a Groschen is likely to come out of it for the Patri. Meanwhile, in order'
+  names:
+  - de: v Voss
+    en: von Voss
+    kind: person
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Prittwitz
+    en: Prittwitz
+    kind: person
+  - de: Chelmshi
+    en: Chelmshi
+    kind: person
+  - de: Broniewski
+    en: Broniewski
+    kind: person
+  - de: Posen
+    en: Posen
+    kind: place
+  - de: Patri
+    en: Patri
+    kind: person
+  numbers:
+  - '3'
+  - 2ten
+  - '6th (see numbers: 1799 not on page)'
 - page: 2
-  en: 'neglect nothing, the dismemberment there is being drafted complete and firm; to that end the exchange
-    is being effected, and so I shall compound with Broniewski for a few thousand [uncertain: Wir] and
-    shall order the dismemberment — After the survey of Kaemen and Kulm, Glenck is already bringing out
-    as much as 6000 Rthl in interest, and in this manner it will go a proportion for every estate — Only
-    on account of Brzyze have I had much clamour at Posen; this they wished to collect at once on behalf
-    of the Prusimski daughter, and with every trouble conceivable I have been able to obtain a term of
-    6 weeks — My humble counsel is that a letter now be written to the Grand Chancellor, and an extension
-    of the term of 5 months be sought. This I shall attend to, for I do indeed still have blank forms.
-    Thereafter the matter might turn out singularly — for the Treasury has applied to Minister Hoym to
-    have the confiscation decree published against the Prussiemski woman as well. The Minister, however,
-    has ordered the files to be secretly laid aside, so that something might be turned to the girl''s'
+  en: not to neglect anything, the dismemberment there will be drawn up complete and firm; to that end
+    the exchange takes place, and so I shall come to terms with Broniewski over some thousands of We[?],
+    and give the order for the dismemberment — After the survey of Kaemen and Kulm, Glenck is already
+    bringing out about 6000 Rthl in interest, and in that manner it will go proportionately with every
+    estate — Only on account of Brzyze have I had much clamour at Posen; they wished to collect this at
+    once for the Prusimski daughter, and with every conceivable effort I have been able to obtain a term
+    of 6 weeks — My humble counsel is that a letter now be written to the Grand Chancellor and an extension
+    of the term by 5 months be applied for. This I shall see to, for I still have blank forms. Thereafter
+    the matter may turn out oddly — for the fisc has approached Minister Hoym, to have the confiscation
+    decree published against the Prussiemski woman as well. The Minister has, however, ordered the files
+    to be secretly laid aside, so that something might be
+  names:
+  - de: Broniewski
+    en: Broniewski
+    kind: person
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Kulm
+    en: Kulm
+    kind: place
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Brzyze
+    en: Brzyze
+    kind: place
+  - de: Posen
+    en: Posen
+    kind: place
+  - de: Prusimskischen
+    en: Prusimski
+    kind: person
+  - de: Hoym
+    en: Hoym
+    kind: person
+  - de: Prussiemski
+    en: Prussiemski
+    kind: person
+  numbers:
+  - '6000'
+  - '6'
+  - '5'
 - page: 3
-  en: 'advantage — since Your Serene Highness would otherwise scarcely be able to agree to anything —
-    Peculiar in its kind is this stroke — for at first he did after all report these estates to the King
-    as confiscated, and proposed them for Your Serene Highness — by rights he must answer for this shortfall
-    — He is altogether a singular man. For the rest, it may be that yet other means of rescue will be
-    found; I shall assuredly leave nothing untried. On account of the Winieces forest the Chamber is making
-    much spectacle; I shall nevertheless shortly go there myself and sift the Poles — As soon as I am
-    finished with Prince George''s affairs, which should come to pass in 5 weeks, I shall hasten to Berlin
-    in order to prepare everything for the return of v. Voss. The letter to Herr [uncertain: Prittswig]
-    Wildeganst will deliver today; the one to Kuch shall likewise be handed over. Everything is also very
-    well said; nevertheless I do not believe that Weigel is to blame for it — With Schlabrendorff I shall
-    settle the matter in one way or another. In the end he shall himself lend me the money for the payment
-    of the'
+  en: 'turned to the girl''s advantage — since otherwise Your Serene Highness would hardly be willing
+    to agree to anything — Peculiar in its way is this move — for first he did after all report these
+    estates to the King as confiscated, and proposed them for Your Serene Highness — in law he must answer
+    for this shortfall — This is altogether a singular man. For the rest, it may be that still other means
+    of rescue will be found; I shall certainly leave nothing untried. On account of the Winieces forest
+    the Chamber is making much spectacle; I shall meanwhile shortly go there myself and sift out the Poles
+    — As soon as I am done with Prince George''s affairs, which should happen within 5 weeks, I shall
+    hasten to Berlin in order to prepare everything for von Voss''s return. The letter to Mr. [uncertain:
+    Pritswig] Wildeganst will deliver today; that to Kuch shall likewise be handed over. Everything is
+    also very well said; meanwhile I do not believe that Weigel is to blame for it — With Schlabrendorff
+    I shall settle the matter one way or the other. In the end he shall himself lend me the money for
+    the payment of the'
+  names:
+  - de: Winieces
+    en: Winieces
+    kind: place
+  - de: Prinzen Georgen
+    en: Prince George
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v. Voss
+    en: von Voss
+    kind: person
+  - de: '[P?]ritswig'
+    en: '[uncertain: Pritswig]'
+    kind: person
+  - de: Wildeganst
+    en: Wildeganst
+    kind: person
+  - de: Kuch
+    en: Kuch
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Schlabrendorff
+    en: Schlabrendorff
+    kind: person
+  numbers:
+  - '5'
 - page: 4
-  en: 'interest — Wildeganst is taking every trouble conceivable to conduct this in a delicate manner.
+  en: 'interest — Wildeganst is taking every conceivable trouble to direct this in a delicate manner.
     The news concerning the war is truly sad; yet I hope that matters will go better there than is believed.
-    With the Russians it looks ill, for there one [uncertain: schmarcht — perhaps "languishes"] very much,
-    and as I have observed all South Prussia will [text lost] thither — It is a true misfortune that no
-    one in South Prussia keeps watch over the people. Everything already looks quite like a horde of robbers.
+    With the Russians it looks bad, for there one languishes greatly, and as I have observed, all of South
+    Prussia is turning that way — It is a true misfortune that no one in South Prussia keeps watch over
+    the people. Everything already looks quite like a band of robbers.
+
+
     May God only preserve Your Serene Highness in health. In deepest submission I remain, until death,
-    Your Most Serene Highness''s Breslau, the 6th of March 1799. faithful, most humble and obedient servant
-    v Triebenfeld'
+
+
+    Your Most Serene Highness''s
+
+
+    Breslau, the 6th of March 1799.
+
+
+    most faithful and humble servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Wildeganst
+    en: Wildeganst
+    kind: person
+  - de: Rußen
+    en: Russians
+    kind: other
+  - de: Südpreußen
+    en: South Prussia
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - 6ten
+  - '1799'

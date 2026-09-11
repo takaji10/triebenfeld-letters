@@ -94,20 +94,157 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Livi",
+   "kind": "person",
+   "surface_de": "Livi",
+   "surface_en": "Livi",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gerard",
+   "kind": "person",
+   "surface_de": "Gerard",
+   "surface_en": "Gerard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Seebald",
+   "kind": "person",
+   "surface_de": "Seebald",
+   "surface_en": "Seebald",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Eysenhard",
+   "kind": "person",
+   "surface_de": "Eysenhard",
+   "surface_en": "Eysenhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Glogau",
+   "kind": "place",
+   "surface_de": "Glogau",
+   "surface_en": "Glogau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olesnice",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Olesnice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! It is boundlessly bad how every piece of business is now made difficult here. Only today does the Invalids' Fund release the Seehandlung obligations, after I first of all had to pawn my poor soul; and only then am I in a position to satisfy the Bang: Livi, who was so good as to give the instruction remitted to Your Serene Highness some days earlier than he had the papers from the Invalids' Fund. The hundred thousand [uncertain: Studen] are to follow as soon as the assessments have been revised by the Chamber. I have arranged with my friends that they are to keep watch on the monies, so that no other person snatches them away, and if indeed anyone should procure a Cabinet order, then one had rather risk the interest for a quarter of a year. The men of business take 6 per cent. It is much, yet in these hard-pressed times very little, the more so as the capital at 5 pC. can stand for half an eternity. With Gerard I am agreed; to him I have paid 900 Rthl interest and given him a written undertaking that I stand surety to him for the punctual payment of the interest. In return he must give me a written undertaking again"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIt is boundlessly bad how all business is now being made difficult here. Only today does the Invalids' Fund release the Maritime Trading Company bonds, after I first had to pledge my poor soul besides, and only then am I in a position to satisfy the bank: Livi, who was so good as to give the order to pay remitted to Your Serene Highness some days earlier than he had the papers from the Invalids' Fund. The hundred thousand pieces are to follow as soon as the valuations\n\nhave been revised by the Chamber. I have arranged with my friends that they are to keep watch on the monies so that no one else snatches them away, and if anyone should indeed procure a cabinet order, then one had better risk the interest for a quarter of a year.\n\nThe men of business take 6 per cent. It is much, yet in these hard-pressed times very little, all the more as the capital at 5 per cent can stand for half an eternity.\n\nWith Gerard I am agreed; I have paid him 900 Rthl in interest and given him a written undertaking that I am liable to him for the due payment of the interest. In return he must give me back a written undertaking",
+   "names": [
+    {
+     "de": "Livi",
+     "en": "Livi",
+     "kind": "person"
+    },
+    {
+     "de": "Gerard",
+     "en": "Gerard",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "900",
+    "6",
+    "5"
+   ]
   },
   {
    "page": 2,
-   "en": "that the capital may stand some years yet without being called in. With Seebald it came to nothing, for there 1800 Rthl Proxeneticum were at once to be given again; these are now saved. With Eysenhard I shall bring the matter to a clear footing tomorrow, and without the meddling of other people arrange everything in the best way. On the 5th I then think certainly to depart from here; I take my route by way of Kontop and Glogau, where, on account of my being pressed about hither and thither, I shall have lost much and find vexation enough. For I have missed 2 terms and shall doubtless be held in contumacy. The Olesnic fellows must be thrown out, for the fellows have had protestations entered against the estate and protest against the dismemberment of the woods, because they were to have free firewood. Although this is easily enough seen to, inasmuch as they are assigned only to a district of 330 Morgen, still they are a [uncertain: hätten] brood that one must get off one's neck, because one always had to fear new quarrels — the rogues themselves have given not a Heller, but rather the after-purchasers there have paid the 10000 Rthl, and these people bind themselves to pay the other 10000 Rthl forthwith, and to render the interest yearly. In deepest reverence I remain, until death, Your Most Serene Highness's Berlin, 2nd February 1805 faithful and obedient servant v Triebenfeld"
+   "en": "that the capital may stand a few years more without notice of call. With Seebald it came to nothing, for there 1800 Rthl of brokerage were to be given straight away again; these are now saved. With Eysenhard I shall put the matter straight tomorrow and, without the meddling of other persons, arrange everything for the best. On the 5th I then think certainly to depart from here; I take my route by way of Kontop and Glogau, where on account of my being pushed about from place to place I shall find much lost and vexation enough. For I have missed 2 appointed terms and shall no doubt be held in default.\n\nThe Olesnice fellows must be thrown out, for the fellows have had protests entered against the estate and protest against the dismemberment of the woods because they would have free firewood. Although this is easy enough to manage, inasmuch as they are assigned only to a district of 330 Morgen, they are nevertheless a [uncertain: hateful] brood that one must get off one's neck, because one had constantly to fear fresh quarrels – the lads themselves have not given a farthing, but rather the subsequent purchasers have paid the 10000 Rthl, and these people undertake to pay the other 10000 Rthl forthwith, and to render the interest yearly.\n\nIn deepest respect I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, 2nd February\n\n1805\n\nfaithful and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Seebald",
+     "en": "Seebald",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhard",
+     "en": "Eysenhard",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Glogau",
+     "en": "Glogau",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Olesnice",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1800",
+    "5",
+    "2",
+    "330",
+    "10000",
+    "10000",
+    "2",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! It is boundlessly bad how every piece of business is now made difficult here. Only today does the Invalids' Fund release the Seehandlung obligations, after I first of all had to pawn my poor soul; and only then am I in a position to satisfy the Bang: Livi, who was so good as to give the instruction remitted to Your Serene Highness some days earlier than he had the papers from the Invalids' Fund. The hundred thousand [uncertain: Studen] are to follow as soon as the assessments have been revised by the Chamber. I have arranged with my friends that they are to keep watch on the monies, so that no other person snatches them away, and if indeed anyone should procure a Cabinet order, then one had rather risk the interest for a quarter of a year. The men of business take 6 per cent. It is much, yet in these hard-pressed times very little, the more so as the capital at 5 pC. can stand for half an eternity. With Gerard I am agreed; to him I have paid 900 Rthl interest and given him a written undertaking that I stand surety to him for the punctual payment of the interest. In return he must give me a written undertaking again\n\nthat the capital may stand some years yet without being called in. With Seebald it came to nothing, for there 1800 Rthl Proxeneticum were at once to be given again; these are now saved. With Eysenhard I shall bring the matter to a clear footing tomorrow, and without the meddling of other people arrange everything in the best way. On the 5th I then think certainly to depart from here; I take my route by way of Kontop and Glogau, where, on account of my being pressed about hither and thither, I shall have lost much and find vexation enough. For I have missed 2 terms and shall doubtless be held in contumacy. The Olesnic fellows must be thrown out, for the fellows have had protestations entered against the estate and protest against the dismemberment of the woods, because they were to have free firewood. Although this is easily enough seen to, inasmuch as they are assigned only to a district of 330 Morgen, still they are a [uncertain: hätten] brood that one must get off one's neck, because one always had to fear new quarrels — the rogues themselves have given not a Heller, but rather the after-purchasers there have paid the 10000 Rthl, and these people bind themselves to pay the other 10000 Rthl forthwith, and to render the interest yearly. In deepest reverence I remain, until death, Your Most Serene Highness's Berlin, 2nd February 1805 faithful and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIt is boundlessly bad how all business is now being made difficult here. Only today does the Invalids' Fund release the Maritime Trading Company bonds, after I first had to pledge my poor soul besides, and only then am I in a position to satisfy the bank: Livi, who was so good as to give the order to pay remitted to Your Serene Highness some days earlier than he had the papers from the Invalids' Fund. The hundred thousand pieces are to follow as soon as the valuations\n\nhave been revised by the Chamber. I have arranged with my friends that they are to keep watch on the monies so that no one else snatches them away, and if anyone should indeed procure a cabinet order, then one had better risk the interest for a quarter of a year.\n\nThe men of business take 6 per cent. It is much, yet in these hard-pressed times very little, all the more as the capital at 5 per cent can stand for half an eternity.\n\nWith Gerard I am agreed; I have paid him 900 Rthl in interest and given him a written undertaking that I am liable to him for the due payment of the interest. In return he must give me back a written undertaking\n\nthat the capital may stand a few years more without notice of call. With Seebald it came to nothing, for there 1800 Rthl of brokerage were to be given straight away again; these are now saved. With Eysenhard I shall put the matter straight tomorrow and, without the meddling of other persons, arrange everything for the best. On the 5th I then think certainly to depart from here; I take my route by way of Kontop and Glogau, where on account of my being pushed about from place to place I shall find much lost and vexation enough. For I have missed 2 appointed terms and shall no doubt be held in default.\n\nThe Olesnice fellows must be thrown out, for the fellows have had protests entered against the estate and protest against the dismemberment of the woods because they would have free firewood. Although this is easy enough to manage, inasmuch as they are assigned only to a district of 330 Morgen, they are nevertheless a [uncertain: hateful] brood that one must get off one's neck, because one had constantly to fear fresh quarrels – the lads themselves have not given a farthing, but rather the subsequent purchasers have paid the 10000 Rthl, and these people undertake to pay the other 10000 Rthl forthwith, and to render the interest yearly.\n\nIn deepest respect I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, 2nd February\n\n1805\n\nfaithful and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Complains of obstruction in Berlin: the Invalids' Fund has only now released the Seehandlung obligations, enabling him to satisfy Bang: Livi, with a hundred thousand to follow once the Chamber has revised the assessments; friends are watching the monies, businessmen taking 6 per cent. Reports 900 Rthl interest paid to Gerard against a surety, the Seebald deal abandoned but 1800 Rthl Proxeneticum saved, and Eysenhard to be settled. Plans departure via Kontop and Glogau, having missed two terms, and urges expelling the Olesnic men, who protest the woods' dismemberment though after-purchasers paid 10000 Rthl with 10000 more promised.",
  "summary_de": "Klage über die Schwerfälligkeit der Berliner Geschäfte: erst jetzt gebe der Invalidenfonds die Seehandlungs-Obligationen frei, so daß das Bankhaus Livi, das die Anweisung vorschußweise gab, befriedigt werden könne; die weiteren Gelder folgen nach Revision der Taxen durch die Kammer. Die Geschäftsleute nehmen 6 pC. Mit Gerard Einigung: 900 Rthl Zinsen gezahlt und Bürgschaft für pünktliche Zinszahlung gegen Stehenlassen des Capitals; mit Seebald zerschlagen, wodurch 1800 Rthl Proxeneticum erspart; mit Eysenhard Regelung bevorstehend. Abreise am 5. über Kontop und Glogau, wo zwei versäumte Termine Contumaz drohen. Die Olesnicer, auf 330 Morgen angewiesen, protestieren gegen die Waldzertrennung; die Nachkäufer zahlten 10000 Rthl und verpflichten sich zu weiteren 10000 Rthl nebst Zinsen."
 }

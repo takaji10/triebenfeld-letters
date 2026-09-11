@@ -84,20 +84,81 @@
    "doc_line": 17
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Girard",
+   "kind": "person",
+   "surface_de": "Girard",
+   "surface_en": "Girard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Haupt",
+   "kind": "person",
+   "surface_de": "Haupt",
+   "surface_en": "Haupt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A. Huhn",
+   "kind": "person",
+   "surface_de": "A. Huhn",
+   "surface_en": "A. Huhn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Most Highly Revered Councillor of War and Forests! I have, by command of Your Right Honourable, to transmit the enclosed pieces, of which the one is an original and the second a Copy. His Serene Highness most humbly requests that you write your opinion upon these matters, and what is to be done in these affairs; the Girard and Haupt press particularly, and were His Serene Highness not somewhat short with his cash-box, which was much exhausted by the journey, His Highness would at once send the requisite sum in order to satisfy these gentlemen."
+   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have, by the command of Your Right Honourable, [uncertain: to transmit] the enclosed pieces, of which the one is an original and the second a copy. His Serene Highness most submissively requests that you write your opinion upon these, and what is to be done in these matters; the Girard and Haupt are pressing especially hard, and if His Serene Highness were not somewhat short in his cash-box, which was greatly exhausted by the journey, he would at once send the requisite sum in order to satisfy these gentlemen.",
+   "names": [
+    {
+     "de": "Girard",
+     "en": "Girard",
+     "kind": "person"
+    },
+    {
+     "de": "Haupt",
+     "en": "Haupt",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "I commend myself to your further favour and persist in faithful veneration, Your Right Honourable's — Breslau, the 2nd of August 1805. Humble and obedient servant, A. Huhn"
+   "en": "I commend myself to your further favour and persist in faithful reverence, Your Right Honourable's. Breslau, the 2nd of August 1805.\n\nhumble and obedient servant\n\nA. Huhn",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "A. Huhn",
+     "en": "A. Huhn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "1805"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Most Highly Revered Councillor of War and Forests! I have, by command of Your Right Honourable, to transmit the enclosed pieces, of which the one is an original and the second a Copy. His Serene Highness most humbly requests that you write your opinion upon these matters, and what is to be done in these affairs; the Girard and Haupt press particularly, and were His Serene Highness not somewhat short with his cash-box, which was much exhausted by the journey, His Highness would at once send the requisite sum in order to satisfy these gentlemen.\n\nI commend myself to your further favour and persist in faithful veneration, Your Right Honourable's — Breslau, the 2nd of August 1805. Humble and obedient servant, A. Huhn",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have, by the command of Your Right Honourable, [uncertain: to transmit] the enclosed pieces, of which the one is an original and the second a copy. His Serene Highness most submissively requests that you write your opinion upon these, and what is to be done in these matters; the Girard and Haupt are pressing especially hard, and if His Serene Highness were not somewhat short in his cash-box, which was greatly exhausted by the journey, he would at once send the requisite sum in order to satisfy these gentlemen.\n\nI commend myself to your further favour and persist in faithful reverence, Your Right Honourable's. Breslau, the 2nd of August 1805.\n\nhumble and obedient servant\n\nA. Huhn",
  "summary_en": "Writing on behalf of His Serene Highness, A. Huhn forwards two enclosures, one an original and one a copy, and asks Triebenfeld to set down his opinion on the matters and on what should be done. The creditors Girard and Haupt are pressing especially hard; the Prince would remit the sum needed to satisfy them at once, but his cash-box has been much depleted by his recent journey.",
  "summary_de": "Übersendung zweier beigefügter Schriftstücke – eines im Original, eines in Copie – im Auftrag des Fürsten, der um Triebenfelds gutachtliche Äußerung bittet, was in diesen Angelegenheiten zu veranlassen sei. Besonders drängen die Forderungen von Girard und Haupt; der Fürst würde die erforderliche Summe sogleich zu deren Befriedigung anweisen, wäre seine durch die Reise stark erschöpfte Casse nicht knapp. Schreiber ist A. Huhn."
 }

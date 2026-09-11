@@ -298,28 +298,456 @@
    "doc_line": 93
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "v Voss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelangs",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorow",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczin",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schliefen",
+   "kind": "person",
+   "surface_de": "Schliefen",
+   "surface_en": "Schliefen",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 2
+  },
+  {
+   "entity": "radzinski",
+   "display": "Radzinski",
+   "kind": "person",
+   "surface_de": "Radzinski",
+   "surface_en": "Radzinski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "of Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "of Olesnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the people of Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "the people of Olesnica",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Goldstücker",
+   "kind": "person",
+   "surface_de": "Goldstücker",
+   "surface_en": "Goldstücker",
+   "page": 4
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 4
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Goldstücher",
+   "kind": "person",
+   "surface_de": "Goldstücher",
+   "surface_en": "Goldstücher",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Arnden",
+   "kind": "person",
+   "surface_de": "Arnden",
+   "surface_en": "Arnden",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Przespolewski",
+   "kind": "other",
+   "surface_de": "Przespolewskische",
+   "surface_en": "Przespolewski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencks",
+   "surface_en": "Glenck",
+   "page": 4
+  },
+  {
+   "entity": "sprengel",
+   "display": "Sprengel",
+   "kind": "person",
+   "surface_de": "Sprengel",
+   "surface_en": "Sprengel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sprengel",
+   "kind": "person",
+   "surface_de": "Spreng",
+   "surface_en": "Sprengel",
+   "page": 4
+  },
+  {
+   "entity": "chwalowski",
+   "display": "Chwalowski",
+   "kind": "person",
+   "surface_de": "Chwalowski",
+   "surface_en": "Chwalowski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Kalisz",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Gracious Lord! The Minister v Voss has, in the most despotic expressions, forbidden any revision of the assessments; let them bear what names they will and belong to whom they will, the Chamber is to reject them. Now I await only Amelang's answer — whether one will be content with the Landrath's revision. If this too be refused, then I must think of other means — and set light against despotism. The dismemberment has now been submitted; the President is sending a Councillor to Zagorow for Trąbczin, who is to inspect everything, whereupon the consent will then be granted. The revision on account of the dismemberment I shall know how to make use of. With Herr Meierowitz I have concluded, as the figure shows, and am endeavouring to dislodge Honrichs — I think the affair will give Your Serene Highness pleasure: You receive Your 4000 Rthl back and profit yearly by 500 Rthl canon, or in lieu thereof 10000 Rthl in cash. Weigel receives out of the eight thousand, over and above his 4000 Rthl,"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nMinister von Voss has, in the most despotic terms, forbidden any revision of the assessments; whatever names they may bear and to whomever they may belong, the Chamber is to reject them. Now I await only Amelang's answer - whether one will be content with the revision by the district councillor. Should this too be refused, then I must think of other means - and set light against despotism. The dismemberment has been submitted; the President is sending a councillor to Zagorowo, for Trąbczyn, who is to examine everything, whereupon the consent will then be granted. The revision concerning the dismemberment I shall know how to make use of. With Meierowitz I have concluded matters as the figure shows, and I am endeavouring to dislodge Honrichs - I think the affair will give Your Serene Highness pleasure: you get your 4000 Rthl back and profit yearly by 500 Rthl of canon, or 10000 Rthl in cash for it. Weigel receives, out of the eight thousand, above his 4000 Rthl",
+   "names": [
+    {
+     "de": "v Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Amelangs",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorow",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczin",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4000",
+    "500",
+    "10000",
+    "4000"
+   ]
   },
   {
    "page": 2,
-   "en": "6000 Rthl the Schliefen and 6000 Rthl Honrichs, that makes 20000 Rthl purchase money. Szetlewek Radzinski will not let slip from him. He offers, first, 18000 Rthl entry money and the one (113[?] of the 18000; from these I reckon off his claims — 5 — he must lay down 10000 Rthl in cash), some hereditary term of years 1500 Rthl, which makes together 48000 Rthl; that is, God knows, a great deal for this wretched little place which has only 1700 Morgen of surface area, together with the peasant holdings and in part quite poor soil — We are still disputing only over the pasture, for he wants to have free grazing [uncertain: Epprech] with his cattle in the remaining woodland — here too I should in the end fix upon a middle course. Both parties in question, then, already in ready money 14000 Rthl, apart from the canon — and Radzinski's claim is extinguished and all lawsuits quashed. With the Olesnica people I shall soon be done — I now have important assistance — My opinion now is to have the fellows thrown out. To take from the newer subjects the 10000 Rthl and let them be seated, since they have already paid 10000 Rthl. Thereafter to come to terms with the old peasants, to bring together enough holdings that the demesne farm is restored, in order then to let Olesnica out afresh on hereditary lease according to the mind of the Chamber"
+   "en": "6000 Rthl, the Schliefen 6000 Rthl, and Honrichs — that makes 20000 Rthl of purchase money. Szetlewek Radzinski will not let slip. He offers, firstly, 18000 Rthl of entry money and the one ([uncertain: 113] of the 18000 I reckon off against his claims by 5; he must lay down 10000 Rthl in cash), some hereditary term of years 1500 Rthl, which together makes 48000 Rthl, and that is, God knows, a great deal for this wretched little place, which has only 1700 Morgen of surface area together with the peasant lands and in part quite poor soil - We are still disputing only over the pasture, for he wants to have free grazing with his cattle in the remaining woodland [uncertain: Epprech] - here too I would in the end fix upon a middle course.\n\nBoth [illegible] therefore already put the question of cash money at 14000 Rthl, without the canon - and Radzinski's claim is discharged and all the lawsuits lifted.\n\nWith the people of Olesnica I shall soon be finished — I now have important assistance - My opinion now is to have the fellows thrown out. To take the 10000 Rthl from the newer subjects and let them be settled, because they have already paid 10000 Rthl. Thereafter to come to terms with the old peasants, to bring together enough lands that the demesne farm is restored, in order then to grant Olesnica anew in hereditary lease after the mind of the Chamber",
+   "names": [
+    {
+     "de": "Schliefen",
+     "en": "Schliefen",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Radzinski",
+     "en": "Radzinski",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "of Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6000",
+    "6000",
+    "20000",
+    "18000",
+    "113",
+    "18000",
+    "5",
+    "10000",
+    "1500",
+    "48000",
+    "1700",
+    "14000",
+    "10000",
+    "10000"
+   ]
   },
   {
    "page": 3,
-   "en": "— to take again a further 8 to 10000 Rthl and there to fix the canon — these then already come together to 44000 Rthl. For the propination rights I obtain a lease, moreover a three-year lease contract, yearly 4000 Rthl. Arrears outstanding /Olesnica people and others/ 2000 Rthl. That is 50000 Rthl. Takers and people who fit into the dismemberment plan are here in superfluity, and hell would have to burst if I were not to have 80000 Rthl here by the 1st of July. This is a [uncertain: little estate] of 130000 Rthl, and with that all ways may be met until more comes in from the purchasers. Should one therefore in Berlin not accept the Landrath's attestation as sufficient, then I shall not hesitate; for once I have dismembered, all the administrative accounts in the assessments fall away accordingly — There remain pure clean interest payments; there no revision is needed, no principles — for the Chamber has after all approved everything, and I attain the purpose better than by a heated revision — and need no Amelang or"
+   "en": "to take again another 8 to 10000 Rthl and then to fix the canon there - these together already make 44000 Rthl. For the propination rights I am still obtaining a lease, a three-year lease contract at 4000 Rthl yearly. Arrears outstanding /the people of Olesnica and others/ 2000 Rthl\n\nThat is 50000 Rthl. Takers, and people who fit into the dismemberment plan, are there in abundance, and hell would have to burst if I should not have 80000 Rthl here by the 1st of July. This is a little sum of 130000 Rthl, and with it all ways can be met until more comes in from the purchasers.\n\nShould one in Berlin, then, not accept the certificate of the district councillor as sufficient, I shall not hesitate; for once I have dismembered, all the administration accounts in the assessments fall away accordingly - There remain pure [uncertain: rents] of interest; for that no revision is needed, no principles - for the Chamber has after all approved everything, and I attain the purpose better than by a heated revision - and need no Amelang or",
+   "names": [
+    {
+     "de": "Olesnicer",
+     "en": "the people of Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "10000",
+    "44000",
+    "3",
+    "4000",
+    "2000",
+    "50000",
+    "1",
+    "80000",
+    "130000"
+   ]
   },
   {
    "page": 4,
-   "en": "other firebrand — the fellow behaves as though he had devoured Solomon's wisdom, preaches morality in his letters, counsels the greatest circumspection, and so forth. He fears the world might learn that he and his games are arrant knaves — that Goldstücker has pledged the Glenck mortgage on Olesnica with Oppenheimer: over this the man learns and writes me four pages thick full. For it had been promised that, if the loan were granted by the Invalids' Fund, then the holder of that mortgage should concede priority; now the patron has learnt that Goldstücker has ceded the mortgage to Oppenheimer, whereupon the man asked Oppenheimer whether he would concede the priority; this the Jew refused, and thereupon [uncertain: Arnden] raises an outcry as if the weal and woe of the world depended upon it. The Przespolewski affair will be brought to a good conclusion. With Glenck's stories may Your Serene Highness deign to spare me altogether, for I lose my senses at such human conduct — because Sprengel claims to have found his 18 Morgen, You are to pay the fellow over again — Spreng and yet another such rascal have here again sued for 761 Rthl of old arrears; Chwalowski receives 800 Rthl — the dogs might indeed have squandered a principality. I remain, until death, Your Serene Highness's Kalisz, the 10th of March 1805. most faithful servant v Triebenfeld"
+   "en": "any other fire-brand - the fellow behaves as though he had devoured Solomon's wisdom, preaches morality in his letters, counsels the greatest circumspection, and were. he fears that the world might learn that he and his games are arch-rogues - that Goldstücker has pledged the Glenck mortgage on Olesnica with Oppenheimer, over that the man lectures and writes me four pages full. For it had been promised that, if the loan from the Invalids' Fund were granted, the holder of that mortgage should concede priority; now the fellow has learned that Goldstücher has ceded the mortgage to Oppenheimer, whereupon the man asked Oppenheimer whether he would concede the priority, and the Jew has refused this, and now [uncertain: Arnden] makes an uproar as though the weal and woe of the world depended upon it. The Przespolewski affair will be brought to a good conclusion. With Glenck's stories may it please Your Serene Highness to spare me altogether, for I lose my senses over the man's conduct — because Sprengel claims to have found his 18 Morgen, you are to pay the fellow again – Sprengel and yet another such rascal have here again sued for 761 Rthl of old arrears; Chwalowski receives 800 Rthl, why, the dogs could have surveyed a whole principality with that. I remain, until death, as Your Serene Highness's\n\nKalisz, the 10th of March 1805.\n\nfaithfully yours\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Goldstücker",
+     "en": "Goldstücker",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Goldstücher",
+     "en": "Goldstücher",
+     "kind": "person"
+    },
+    {
+     "de": "Arnden",
+     "en": "Arnden",
+     "kind": "person"
+    },
+    {
+     "de": "Przespolewskische",
+     "en": "Przespolewski",
+     "kind": "other"
+    },
+    {
+     "de": "Glencks",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Sprengel",
+     "en": "Sprengel",
+     "kind": "person"
+    },
+    {
+     "de": "Spreng",
+     "en": "Sprengel",
+     "kind": "person"
+    },
+    {
+     "de": "Chwalowski",
+     "en": "Chwalowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4",
+    "18",
+    "761",
+    "800",
+    "10",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Gracious Lord! The Minister v Voss has, in the most despotic expressions, forbidden any revision of the assessments; let them bear what names they will and belong to whom they will, the Chamber is to reject them. Now I await only Amelang's answer — whether one will be content with the Landrath's revision. If this too be refused, then I must think of other means — and set light against despotism. The dismemberment has now been submitted; the President is sending a Councillor to Zagorow for Trąbczin, who is to inspect everything, whereupon the consent will then be granted. The revision on account of the dismemberment I shall know how to make use of. With Herr Meierowitz I have concluded, as the figure shows, and am endeavouring to dislodge Honrichs — I think the affair will give Your Serene Highness pleasure: You receive Your 4000 Rthl back and profit yearly by 500 Rthl canon, or in lieu thereof 10000 Rthl in cash. Weigel receives out of the eight thousand, over and above his 4000 Rthl,\n\n6000 Rthl the Schliefen and 6000 Rthl Honrichs, that makes 20000 Rthl purchase money. Szetlewek Radzinski will not let slip from him. He offers, first, 18000 Rthl entry money and the one (113[?] of the 18000; from these I reckon off his claims — 5 — he must lay down 10000 Rthl in cash), some hereditary term of years 1500 Rthl, which makes together 48000 Rthl; that is, God knows, a great deal for this wretched little place which has only 1700 Morgen of surface area, together with the peasant holdings and in part quite poor soil — We are still disputing only over the pasture, for he wants to have free grazing [uncertain: Epprech] with his cattle in the remaining woodland — here too I should in the end fix upon a middle course. Both parties in question, then, already in ready money 14000 Rthl, apart from the canon — and Radzinski's claim is extinguished and all lawsuits quashed. With the Olesnica people I shall soon be done — I now have important assistance — My opinion now is to have the fellows thrown out. To take from the newer subjects the 10000 Rthl and let them be seated, since they have already paid 10000 Rthl. Thereafter to come to terms with the old peasants, to bring together enough holdings that the demesne farm is restored, in order then to let Olesnica out afresh on hereditary lease according to the mind of the Chamber\n\n— to take again a further 8 to 10000 Rthl and there to fix the canon — these then already come together to 44000 Rthl. For the propination rights I obtain a lease, moreover a three-year lease contract, yearly 4000 Rthl. Arrears outstanding /Olesnica people and others/ 2000 Rthl. That is 50000 Rthl. Takers and people who fit into the dismemberment plan are here in superfluity, and hell would have to burst if I were not to have 80000 Rthl here by the 1st of July. This is a [uncertain: little estate] of 130000 Rthl, and with that all ways may be met until more comes in from the purchasers. Should one therefore in Berlin not accept the Landrath's attestation as sufficient, then I shall not hesitate; for once I have dismembered, all the administrative accounts in the assessments fall away accordingly — There remain pure clean interest payments; there no revision is needed, no principles — for the Chamber has after all approved everything, and I attain the purpose better than by a heated revision — and need no Amelang or\n\nother firebrand — the fellow behaves as though he had devoured Solomon's wisdom, preaches morality in his letters, counsels the greatest circumspection, and so forth. He fears the world might learn that he and his games are arrant knaves — that Goldstücker has pledged the Glenck mortgage on Olesnica with Oppenheimer: over this the man learns and writes me four pages thick full. For it had been promised that, if the loan were granted by the Invalids' Fund, then the holder of that mortgage should concede priority; now the patron has learnt that Goldstücker has ceded the mortgage to Oppenheimer, whereupon the man asked Oppenheimer whether he would concede the priority; this the Jew refused, and thereupon [uncertain: Arnden] raises an outcry as if the weal and woe of the world depended upon it. The Przespolewski affair will be brought to a good conclusion. With Glenck's stories may Your Serene Highness deign to spare me altogether, for I lose my senses at such human conduct — because Sprengel claims to have found his 18 Morgen, You are to pay the fellow over again — Spreng and yet another such rascal have here again sued for 761 Rthl of old arrears; Chwalowski receives 800 Rthl — the dogs might indeed have squandered a principality. I remain, until death, Your Serene Highness's Kalisz, the 10th of March 1805. most faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nMinister von Voss has, in the most despotic terms, forbidden any revision of the assessments; whatever names they may bear and to whomever they may belong, the Chamber is to reject them. Now I await only Amelang's answer - whether one will be content with the revision by the district councillor. Should this too be refused, then I must think of other means - and set light against despotism. The dismemberment has been submitted; the President is sending a councillor to Zagorowo, for Trąbczyn, who is to examine everything, whereupon the consent will then be granted. The revision concerning the dismemberment I shall know how to make use of. With Meierowitz I have concluded matters as the figure shows, and I am endeavouring to dislodge Honrichs - I think the affair will give Your Serene Highness pleasure: you get your 4000 Rthl back and profit yearly by 500 Rthl of canon, or 10000 Rthl in cash for it. Weigel receives, out of the eight thousand, above his 4000 Rthl\n\n6000 Rthl, the Schliefen 6000 Rthl, and Honrichs — that makes 20000 Rthl of purchase money. Szetlewek Radzinski will not let slip. He offers, firstly, 18000 Rthl of entry money and the one ([uncertain: 113] of the 18000 I reckon off against his claims by 5; he must lay down 10000 Rthl in cash), some hereditary term of years 1500 Rthl, which together makes 48000 Rthl, and that is, God knows, a great deal for this wretched little place, which has only 1700 Morgen of surface area together with the peasant lands and in part quite poor soil - We are still disputing only over the pasture, for he wants to have free grazing with his cattle in the remaining woodland [uncertain: Epprech] - here too I would in the end fix upon a middle course.\n\nBoth [illegible] therefore already put the question of cash money at 14000 Rthl, without the canon - and Radzinski's claim is discharged and all the lawsuits lifted.\n\nWith the people of Olesnica I shall soon be finished — I now have important assistance - My opinion now is to have the fellows thrown out. To take the 10000 Rthl from the newer subjects and let them be settled, because they have already paid 10000 Rthl. Thereafter to come to terms with the old peasants, to bring together enough lands that the demesne farm is restored, in order then to grant Olesnica anew in hereditary lease after the mind of the Chamber\n\nto take again another 8 to 10000 Rthl and then to fix the canon there - these together already make 44000 Rthl. For the propination rights I am still obtaining a lease, a three-year lease contract at 4000 Rthl yearly. Arrears outstanding /the people of Olesnica and others/ 2000 Rthl\n\nThat is 50000 Rthl. Takers, and people who fit into the dismemberment plan, are there in abundance, and hell would have to burst if I should not have 80000 Rthl here by the 1st of July. This is a little sum of 130000 Rthl, and with it all ways can be met until more comes in from the purchasers.\n\nShould one in Berlin, then, not accept the certificate of the district councillor as sufficient, I shall not hesitate; for once I have dismembered, all the administration accounts in the assessments fall away accordingly - There remain pure [uncertain: rents] of interest; for that no revision is needed, no principles - for the Chamber has after all approved everything, and I attain the purpose better than by a heated revision - and need no Amelang or\n\nany other fire-brand - the fellow behaves as though he had devoured Solomon's wisdom, preaches morality in his letters, counsels the greatest circumspection, and were. he fears that the world might learn that he and his games are arch-rogues - that Goldstücker has pledged the Glenck mortgage on Olesnica with Oppenheimer, over that the man lectures and writes me four pages full. For it had been promised that, if the loan from the Invalids' Fund were granted, the holder of that mortgage should concede priority; now the fellow has learned that Goldstücher has ceded the mortgage to Oppenheimer, whereupon the man asked Oppenheimer whether he would concede the priority, and the Jew has refused this, and now [uncertain: Arnden] makes an uproar as though the weal and woe of the world depended upon it. The Przespolewski affair will be brought to a good conclusion. With Glenck's stories may it please Your Serene Highness to spare me altogether, for I lose my senses over the man's conduct — because Sprengel claims to have found his 18 Morgen, you are to pay the fellow again – Sprengel and yet another such rascal have here again sued for 761 Rthl of old arrears; Chwalowski receives 800 Rthl, why, the dogs could have surveyed a whole principality with that. I remain, until death, as Your Serene Highness's\n\nKalisz, the 10th of March 1805.\n\nfaithfully yours\n\nvon Triebenfeld",
  "summary_en": "Reports that Minister von Voss has forbidden any revision of the assessments, so Triebenfeld awaits Amelang's answer on accepting the district councillor's certificate and threatens other means; a councillor is to inspect Zagorowo for Trąbczyn before the dismemberment is consented to. Sets out prospective proceeds: Meierowitz and Honrichs 20,000 Rthl, Radzinski for Szetlewek 48,000 Rthl, Olesnica with propination lease and arrears 50,000 Rthl, promising 80,000 Rthl by 1 July. Complains of Amelang, the Goldstücker-Oppenheimer mortgage priority, Glenck, Sprengel and Chwalowski's charges.",
  "summary_de": "Minister von Voss habe jede Revision der Taxen untersagt; Triebenfeld wartet auf Amelangs Antwort und erwägt, sich statt dessen auf das Attest des Landraths zu stützen, da nach vollzogener Dismembration die Verwaltungsrechnungen ohnehin entfielen. Berichtet über Trąbczyn/Zagorowo, den Abschluß mit Meierowitz, Ablösung von Honrichs (4000 Rthl zurück, 500 Rthl Canon jährlich), Weigel, Schliefen, Radzinskis Angebot für Szetlewek (18000 Rthl Einstandsgeld, zusammen 48000 Rthl) samt Streit um die Hütung, sowie Pläne für Olesnica mit Erbpacht, Propinationspacht 4000 Rthl und Rückständen, im ganzen 130000 Rthl. Klagen über Goldstücker, Oppenheimer, Glenck, Sprengel und Chwalowski."
 }

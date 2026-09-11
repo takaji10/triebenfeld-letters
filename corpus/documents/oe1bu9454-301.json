@@ -129,20 +129,149 @@
    "doc_line": 39
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schweinern",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Schweinern",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "smiedecki",
+   "display": "Smiedecki",
+   "kind": "person",
+   "surface_de": "Smiedecki",
+   "surface_en": "Smiedecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "Prinzen Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Your [uncertain: One] Serene Highness's most highly esteemed letter of the 26th of this month I received through the [uncertain: Master of the Household] Lombardini, whose arrival here was also most surprising yet very much [uncertain: gladdened] at first. For already I had had some anxiety on account of the long absence of the messenger sent thither, and believed the man had met with misfortune. It is doubly agreeable to me now, through the other Lombardini, to be able to lay at Your Most Serene Highness's feet my deepest reverence and my most heartfelt congratulations upon this day so important. May you, Most gracious Prince and Lord, live to see yet a long series of like days, but free of gout and other mishaps, in the most lasting health, fortune, [uncertain: labours] and true contentment. — As concerns hereafter Your Serene Highness's affairs here, I have no other tidings to give the Same Most High than what my letters, now sent one after another most obediently to Your Serene Highness, declare, to which I refer. May it please the Most High to let me know your further wise resolutions and conduct. The honest Lombardini will truly [uncertain: render] to Your Serene Highness the most faithful report upon everything, one founded upon proofs. For the rest, I observe that in all matters I act with caution, founded upon experience, and endeavour to imitate the bee, which gathers its honey even from the poison-flower. — At present I await with longing my son and a tenant for Schweinern; as soon as I have arranged this matter I shall go"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Serene Highness's most highly esteemed letter of the 26th of this month I received through the house-steward Lombardini, whose arrival here was likewise most surprising, yet also very much [uncertain: gladdened]. For I had already been in some distress on account of the long absence of the messenger sent thither, and believed the man had come to harm.\n\nIt is doubly agreeable to me now to be able, through the other Lombardini, to lay at Your Most Serene Highness's feet my deepest veneration and my most heartfelt congratulations upon this important day. May you live to see, Most gracious Prince and Lord, yet a long succession of such days, free however of gout and other mishaps, in the most lasting health, good fortune, [uncertain: ease] and true contentment. — As concerns further Your Serene Highness's affairs here, I have no other intelligence to give to Your Most High Self than what my letters, most obediently sent to Your Serene Highness one after another, set forth, to which I here refer. May you now most graciously deign to let me know your further wise resolutions and conduct.\n\nThe honest Lombardini will truly render Your Serene Highness the most faithful report upon everything, grounded upon proofs. For the rest, I remark that in all matters I act with caution, grounded upon experience, and endeavour to imitate the bee, which gathers its honey even from the poison-flower. — At present I await with longing my son and a tenant for Schweinern; as soon as I have arranged this business I shall go",
+   "names": [
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Schweinern",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "26"
+   ]
   },
   {
    "page": 2,
-   "en": "to Posen and Betsche, in order to set in order the great work there also. In the indemnification matter I now hope for the happiest outcome, the more so as I have entirely won over the [uncertain: Chief Concealed] von Smiedecki in Kalisz, upon whose opinion everything at last depends. — A little game would also produce a very good effect here — as likewise in Posen with E:; what was received had, in the soft weather, spoiled almost entirely. In deepest reverence I remain, until death, Your Most Serene Highness's. To the good, upright Prince Adolph I commend myself for his favour. Blizanow, the 31st of January 1816. most obedient servant v Triebenfeld"
+   "en": "to Posen and Betsche, in order to set the great work in order there as well. In the compensation matter I now hope for the happiest outcome, all the more since I have wholly won over the [uncertain: Ober-Verdeckt] von Smiedecki in Kalisz, upon whose opinion everything in the end depends. — Some game would also produce a very good effect here — as likewise in Posen with E:; what was received there was almost entirely spoilt in the mild weather. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's —\n\nTo the good, upright Prince Adolph I commend myself for his favour.\n\nBlizanow,\n\nthe 31st of January\n\n1816.\n\nmost obedient servant\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Smiedecki",
+     "en": "Smiedecki",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Prinzen Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "1816"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Your [uncertain: One] Serene Highness's most highly esteemed letter of the 26th of this month I received through the [uncertain: Master of the Household] Lombardini, whose arrival here was also most surprising yet very much [uncertain: gladdened] at first. For already I had had some anxiety on account of the long absence of the messenger sent thither, and believed the man had met with misfortune. It is doubly agreeable to me now, through the other Lombardini, to be able to lay at Your Most Serene Highness's feet my deepest reverence and my most heartfelt congratulations upon this day so important. May you, Most gracious Prince and Lord, live to see yet a long series of like days, but free of gout and other mishaps, in the most lasting health, fortune, [uncertain: labours] and true contentment. — As concerns hereafter Your Serene Highness's affairs here, I have no other tidings to give the Same Most High than what my letters, now sent one after another most obediently to Your Serene Highness, declare, to which I refer. May it please the Most High to let me know your further wise resolutions and conduct. The honest Lombardini will truly [uncertain: render] to Your Serene Highness the most faithful report upon everything, one founded upon proofs. For the rest, I observe that in all matters I act with caution, founded upon experience, and endeavour to imitate the bee, which gathers its honey even from the poison-flower. — At present I await with longing my son and a tenant for Schweinern; as soon as I have arranged this matter I shall go\n\nto Posen and Betsche, in order to set in order the great work there also. In the indemnification matter I now hope for the happiest outcome, the more so as I have entirely won over the [uncertain: Chief Concealed] von Smiedecki in Kalisz, upon whose opinion everything at last depends. — A little game would also produce a very good effect here — as likewise in Posen with E:; what was received had, in the soft weather, spoiled almost entirely. In deepest reverence I remain, until death, Your Most Serene Highness's. To the good, upright Prince Adolph I commend myself for his favour. Blizanow, the 31st of January 1816. most obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Serene Highness's most highly esteemed letter of the 26th of this month I received through the house-steward Lombardini, whose arrival here was likewise most surprising, yet also very much [uncertain: gladdened]. For I had already been in some distress on account of the long absence of the messenger sent thither, and believed the man had come to harm.\n\nIt is doubly agreeable to me now to be able, through the other Lombardini, to lay at Your Most Serene Highness's feet my deepest veneration and my most heartfelt congratulations upon this important day. May you live to see, Most gracious Prince and Lord, yet a long succession of such days, free however of gout and other mishaps, in the most lasting health, good fortune, [uncertain: ease] and true contentment. — As concerns further Your Serene Highness's affairs here, I have no other intelligence to give to Your Most High Self than what my letters, most obediently sent to Your Serene Highness one after another, set forth, to which I here refer. May you now most graciously deign to let me know your further wise resolutions and conduct.\n\nThe honest Lombardini will truly render Your Serene Highness the most faithful report upon everything, grounded upon proofs. For the rest, I remark that in all matters I act with caution, grounded upon experience, and endeavour to imitate the bee, which gathers its honey even from the poison-flower. — At present I await with longing my son and a tenant for Schweinern; as soon as I have arranged this business I shall go\n\nto Posen and Betsche, in order to set the great work in order there as well. In the compensation matter I now hope for the happiest outcome, all the more since I have wholly won over the [uncertain: Ober-Verdeckt] von Smiedecki in Kalisz, upon whose opinion everything in the end depends. — Some game would also produce a very good effect here — as likewise in Posen with E:; what was received there was almost entirely spoilt in the mild weather. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's —\n\nTo the good, upright Prince Adolph I commend myself for his favour.\n\nBlizanow,\n\nthe 31st of January\n\n1816.\n\nmost obedient servant\nvon Triebenfeld",
  "summary_en": "Acknowledges the Prince's letter of the 26th, delivered by Lombardini, whose arrival relieved fears for the earlier messenger, and offers birthday congratulations and wishes for freedom from gout. Refers the Prince to his recent successive letters for news of affairs, promising Lombardini will report on proofs. Awaits his son and a tenant for Schweinern before travelling to Posen and Betsche; hopes for a favourable indemnification outcome having won over von Smiedecki at Kalisz; asks for game, the last consignment having spoiled.",
  "summary_de": "Bestätigt den Empfang des fürstlichen Schreibens vom 26., das ihm Lombardini überbrachte, dessen unerwartete Ankunft die Sorge um den lange ausgebliebenen Boten beendete; übermittelt Glückwünsche zum Festtag und Grüße an Prinz Adolph. Im übrigen verweist er auf seine fortlaufenden Berichte und auf den beweisgestützten mündlichen Bericht Lombardinis. Er erwartet seinen Sohn und einen Pächter für Schweinern und will dann nach Posen und Betsche reisen; in der Indemnisationssache hofft er auf günstigen Ausgang, da er von Smiedecki in Kalisch gewonnen habe. Bittet um Wildbret."
 }

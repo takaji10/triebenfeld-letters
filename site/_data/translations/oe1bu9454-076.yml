@@ -1,10 +1,31 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Lord! The certain exchange of estates is now in train, and perhaps
-    the matter will shortly be settled; I go to Berlin at the beginning of September, and shall be permitted
-    to remain until the end of the same month. The most excellent good fortune of which I hope to partake
-    in Berlin is to see Your Most Serene Highness again in health, and to be able to lay myself personally
-    at the feet of the same on high, whereupon I shall then render the most faithful report upon several
-    matters of business. In deepest reverence I remain, until death, Your Most Serene Highness's — Breslau,
-    the 23rd of August 1798 — faithful and most humble and obedient servant, v Triebenfeld
+  en: 'Most Serene Prince, Most gracious Lord!
+
+
+    The certain exchange of estates is now in train, and perhaps the matter will shortly be settled. I
+    go to Berlin at the beginning of September, and shall be permitted to remain until the end of the
+    same month.
+
+
+    The foremost good fortune of which I hope to partake in Berlin is to see Your Most Serene Highness
+    again in good health, and to be able to lay myself personally at your exalted feet, whereupon I shall
+    render the most faithful report upon several matters of business.
+
+
+    In deepest reverence I remain, until death, Your Most Serene Highness''s, Breslau, the 23rd of August
+    1798, most faithful and humble and obedient servant, v. Triebenfeld'
+  names:
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '23'
+  - '1798'

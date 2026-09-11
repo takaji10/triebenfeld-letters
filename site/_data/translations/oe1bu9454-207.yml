@@ -1,36 +1,76 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. Kalisz, the 30th September 1810. Pro Memoria.
+  en: 'Copy
 
 
-    To Your etc. we have the honour most humbly to report that we have now here in Kalisz fully attended
-    to the initiation of the Trąbczyner suit, and that the term appointed for it is now fixed for the
-    24th of 8br [October]. The reason why this matter has been delayed so long lies in this, that the
-    gentlemen at the Tribunal have had vacation these 8 weeks, which have only ended with the present
-    day. Herr Court Councillor Falz has now taken over this suit and has bestowed upon it his utmost diligence
-    and zeal; he has also already given us the sure assurance that the most favourable outcome of this
-    suit on our side would follow at the term, where the judgment is always published at once at the term.
-    As concerns the honorarium for [Herr] Falz, he will not demand any, but leaves this to His Serene
-    Highness''s own disposition. The 200 Rthl advance we have handed over to him, with which he was much
-    satisfied.
+    Kalisz, the 30th of September 1810.
 
 
-    With the administration /should doubtless read sequestration/ upon our estates there is now an entire
+    Pro Memoria. We have the honour most humbly to report to Your etc. that we have now here in Kalisz
+    entirely seen to the initiation of the Trąbczyn suit, and that the term appointed for it is now fixed
+    for the 24th of October. The reason why this matter has been delayed so long lies in this, that the
+    gentlemen at the tribunal have had vacation these 8 weeks, which only came to an end with the present
+    day. Councillor Falz has now taken over this suit and has applied to it his utmost diligence and zeal;
+    he has also already given us the sure assurance that the most favourable outcome of this suit on our
+    side would follow at the term, where the judgment is in any case published at once at the term. As
+    concerns the honorarium for Falz, he will not demand any, but rather leaves this to His Serene Highness''s
+    own disposition. The 200 Rthl advance we have handed over to him, with which he was very well satisfied.
+    With the administration /it should properly read sequestration/ upon our estates there is now an entire
     end, and the rumour goes very strongly here that the King of Prussia will take back to himself all
-    the moneys outstanding here. God grant only that this report may be well founded. With the hereditary
-    lessees of Olesnica it would be best if we might come to terms with them; they demand 12 Hufen of
-    land in hereditary lease at a moderate canon, and You are then again in full possession of Olesnica.
-    The complaining and lamenting of the Polish peasants and Hauländer is as before, since the grain prices
-    still remain always the same and will not rise – with the former we have a term on the 12th October
-    on the spot, and the latter are still not content with 3 fl. per Morgen, and suppose they can only
-    subsist at 2 fl. for two Morgen. We remain, Your etc. etc. Hecker, Honrichs.
-
-
-    NB. Herr Fried: Gr. Kwilecki begs earnestly for the promised live stag.
-
-
-    My own observation — to the peasants and Hauländer something might be remitted out of the arrears
-    — for the future nothing. One lets them travel, which can easily happen now in Poland, the more so
-    as Herr v. Knobelsdorff would rather have land than interest, and reckons it at the same prices. v.
-    Triebenfeld'
+    the monies outstanding here. God grant only that this report may be well founded. With the hereditary
+    leaseholders of Olesnica it would be best if we were permitted to come to terms; they demand 12 Hufe
+    of land in hereditary lease at a fair canon, and thereby you are then again in full possession of
+    Olesnica. The complaining and lamenting of the Polish peasants and Hollanders is as before, since
+    the grain prices still remain ever the same and will not rise – with the former we have a term on
+    the 12th of October on the spot, and the latter are still not satisfied with 3 gulden per Morgen,
+    and opine that they can only manage with 2 gulden for two Morgen. We remain, Your etc. etc. Hecker,
+    Honrichs. N.B. Chief Judge Count Kwilecki begs earnestly for the promised live stag. My own note —
+    to the peasants and Hollanders something might be remitted of their arrears — for the future nothing.
+    One lets them travel, which in Poland can easily happen now, the more so as von Knobelsdorff would
+    rather have land than interest and reckons it to himself at the same prices. von Triebenfeld'
+  names:
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Falz
+    en: Falz
+    kind: person
+  - de: Olesnica
+    en: Olesnica
+    kind: place
+  - de: Preußen
+    en: Prussia
+    kind: place
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: Hecker
+    en: Hecker
+    kind: person
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Kwilecki
+    en: Kwilecki
+    kind: person
+  - de: Knobelsdorff
+    en: Knobelsdorff
+    kind: person
+  - de: Triebenfeld
+    en: Triebenfeld
+    kind: person
+  numbers:
+  - '30'
+  - '1810'
+  - '24'
+  - '8'
+  - '8'
+  - '200'
+  - '12'
+  - '12'
+  - '3'
+  - '2'

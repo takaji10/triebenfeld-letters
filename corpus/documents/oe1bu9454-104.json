@@ -117,24 +117,181 @@
    "doc_line": 66
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Thorn",
+   "kind": "place",
+   "surface_de": "Thoren",
+   "surface_en": "Thorn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Princess",
+   "kind": "person",
+   "surface_de": "Fürstin",
+   "surface_en": "the Princess",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Grafen Schlabrendorff",
+   "surface_en": "Count Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prittwitz",
+   "kind": "person",
+   "surface_de": "Prittwitz",
+   "surface_en": "Prittwitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the King",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "the King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Monarch",
+   "kind": "person",
+   "surface_de": "Monarch",
+   "surface_en": "the Monarch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wildegans",
+   "kind": "person",
+   "surface_de": "Wildeganstes",
+   "surface_en": "Wildegans",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinzen George",
+   "surface_en": "Prince George",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! Gladly do I endure all the gossip of fools, if only I may see Your Most Serene Highness's affair brought to the wished-for end; and that this will come about within a couple of months I pledge to Your Serene Highness upon my honour and my property. That grass-speaker will meanwhile do the least of all towards it, for I believe, and regard, the matter as settled. A man wholly insignificant and unknown will be the one to decide the affair. This I cannot entrust to paper — Each thing I have had the grace [text lost] to the Princess's Serene Highness [text lost] to convince of the truth. The whole affair will resolve itself of its own accord, and will be brought to an end for Your Most Serene Highness as honourably as it is advantageous — that an assessment of Your Serene Highness's estates is being obstructed springs from the source most fully known to Your Serene Highness"
+   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nGladly do I endure all the talk behind my back from Thorn, if only I may see Your Most Serene Highness's affair brought to the desired end; and that this will happen within a couple of months I pledge to Your Serene Highness upon my honour and my property. That grass-speaker will meanwhile do the least of all in the matter, for I believe, and regard, the affair as settled. A person quite insignificant and unknown will decide the matter. To paper I cannot entrust this — Every [thing] I have had the grace to [?] to Her Serene Highness the Princess of the truth. The whole affair will resolve itself of its own accord and will be brought to a conclusion for Your Most Serene Highness as honourable as it is advantageous — that a valuation of Your Serene Highness's estates is to be prevented arises from the source most fully known to Your Highness",
+   "names": [
+    {
+     "de": "Thoren",
+     "en": "Thorn",
+     "kind": "place"
+    },
+    {
+     "de": "Fürstin",
+     "en": "the Princess",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "and it is precisely from that quarter that the whole thing is to be called a mere matter of grace — My sense of honour, however, always rebels against everything that carries so much as an appearance of begging, and in this regard I go quite quietly and steadfastly forward along the straight road marked out for me; and I am certain that, for all the prattle, I shall reach the goal of my wishes. The Monarch wishes Your Most Serene Highness well, and the exchange has the King's approval, provided the estates hold the balance one against the other — thus the balance is what decides it — and the King's friendship does no more here than that, for estates lying far off, nearer ones are given; and to thank the Monarch for that is no disgrace. As for the equality of the estates, provision has been made — and in this way everything will come about of itself. Count Schlabrendorff I have persuaded so far that he will take from me, for the interest payable to him, a bill of exchange payable in a year's time. I go to him on Sunday to conclude this business. Everything else I shall attend to in the best manner. For the rest, I still note humbly that Prittwitz"
+   "en": "known [to Your Highness], and it is precisely from that quarter that they wish it to be called a mere matter of grace. My sense of honour, however, always rebels against everything that carries even the appearance of begging, and in this regard I walk quite quietly and [uncertain: steadfastly] onward along the straight road marked out for me; and I am certain that, despite all the idle chatter, I shall reach the goal of my wishes. The Monarch wishes Your Most Serene Highness well, and the exchange has been approved by the King provided the estates hold the balance against one another — the balance therefore decides it; and the King's friendship does no more in this than that for estates lying far off, nearer ones are given — and there is no shame in thanking the Monarch for that. The equality of the estates is meanwhile provided for — and in this way everything will resolve itself of its own accord. Count Schlabrendorff I have [uncertain: persuaded] to accept from me, for the interest payable to him, a bill of exchange payable in a year's time. I shall go to him on Sunday to settle this business.\n\nEverything else I shall attend to in the best manner. For the rest, I note humbly for myself further that Prittwitz",
+   "names": [
+    {
+     "de": "Grafen Schlabrendorff",
+     "en": "Count Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Prittwitz",
+     "en": "Prittwitz",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "the King",
+     "kind": "person"
+    },
+    {
+     "de": "Monarch",
+     "en": "the Monarch",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "is a pitiable liar — the man said not a word further to me, and that in the presence of Wildegans — save: My God, Her Serene Highness torments me, I am to take the matter in hand — I have already told the gentleman that I cannot do this, and I shall write it once more to Her Serene Highness. Since I now knew everything better, I let the fool talk and sought to advance the matter for myself. My sense of honour would never permit speeches of this kind, and the discourse could not have ended so humiliatingly on my side as he wishes to boast. Behind my back, however, the man may say what he pleases; I shall bear it all in silence, gladly and willingly, until we are at the goal of our wishes — Let Your Serene Highness grant me only the continuance of Your most high good will, and so I remain, until death, Your Most Serene Highness's. About the 16th of April I go from here to Berlin, where I remain until the end of May. The estates which I sold to Prince George now come out, according to a valuation by a Justice and Chamber Councillor, at over 700000 Rthl, etc. As it was intended that the gentlemen [uncertain: should be brought down] through me by some 500000 Rthl, I am too good-natured a simpleton and often do harm to myself and to my children. Breslau, the 3rd of April 1799, most faithful and humble servant v. Triebenfeld"
+   "en": "is a pitiful liar — the man said not a word to me further, and that indeed in the presence of [uncertain: Wildegans] — but rather: My God, Your Serene Highness torments me, I am to take the matter upon myself. I have already told the gentleman that I cannot do this — and I shall also write it once more to Your Serene Highness. Since I now knew everything better, I let the fool talk and sought to advance the matter for myself.\n\nMy sense of honour would also never permit speeches of this kind, and the discourse could not have ended so humiliatingly on my part as he wished to boast. Behind my back, however, the man may say what he likes; I shall willingly and gladly bear it all in silence until we are at the goal of our wishes — If Your Serene Highness will but grant me the continuance of Your most gracious good will, then I remain, until death, as Your Most Serene Highness's\n\nAbout the 16th of April I go from here to Berlin, where I shall remain until the end of May. The estates which I sold to Prince George now come out, according to a valuation by a councillor of justice and a chamber councillor, at over 700000 Rthl etc. Since [uncertain: the gentlemen] meant, through me, to be ruined to the tune of 500000 Rthl, I am too good-natured a fool and often do harm to one and to children.\n\nBreslau, the 3rd of April 1799\n\nfaithful, most humble and obedient servant\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Wildeganstes",
+     "en": "Wildegans",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen George",
+     "en": "Prince George",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "16",
+    "700000",
+    "500000",
+    "3",
+    "1799"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! Gladly do I endure all the gossip of fools, if only I may see Your Most Serene Highness's affair brought to the wished-for end; and that this will come about within a couple of months I pledge to Your Serene Highness upon my honour and my property. That grass-speaker will meanwhile do the least of all towards it, for I believe, and regard, the matter as settled. A man wholly insignificant and unknown will be the one to decide the affair. This I cannot entrust to paper — Each thing I have had the grace [text lost] to the Princess's Serene Highness [text lost] to convince of the truth. The whole affair will resolve itself of its own accord, and will be brought to an end for Your Most Serene Highness as honourably as it is advantageous — that an assessment of Your Serene Highness's estates is being obstructed springs from the source most fully known to Your Serene Highness\n\nand it is precisely from that quarter that the whole thing is to be called a mere matter of grace — My sense of honour, however, always rebels against everything that carries so much as an appearance of begging, and in this regard I go quite quietly and steadfastly forward along the straight road marked out for me; and I am certain that, for all the prattle, I shall reach the goal of my wishes. The Monarch wishes Your Most Serene Highness well, and the exchange has the King's approval, provided the estates hold the balance one against the other — thus the balance is what decides it — and the King's friendship does no more here than that, for estates lying far off, nearer ones are given; and to thank the Monarch for that is no disgrace. As for the equality of the estates, provision has been made — and in this way everything will come about of itself. Count Schlabrendorff I have persuaded so far that he will take from me, for the interest payable to him, a bill of exchange payable in a year's time. I go to him on Sunday to conclude this business. Everything else I shall attend to in the best manner. For the rest, I still note humbly that Prittwitz\n\nis a pitiable liar — the man said not a word further to me, and that in the presence of Wildegans — save: My God, Her Serene Highness torments me, I am to take the matter in hand — I have already told the gentleman that I cannot do this, and I shall write it once more to Her Serene Highness. Since I now knew everything better, I let the fool talk and sought to advance the matter for myself. My sense of honour would never permit speeches of this kind, and the discourse could not have ended so humiliatingly on my side as he wishes to boast. Behind my back, however, the man may say what he pleases; I shall bear it all in silence, gladly and willingly, until we are at the goal of our wishes — Let Your Serene Highness grant me only the continuance of Your most high good will, and so I remain, until death, Your Most Serene Highness's. About the 16th of April I go from here to Berlin, where I remain until the end of May. The estates which I sold to Prince George now come out, according to a valuation by a Justice and Chamber Councillor, at over 700000 Rthl, etc. As it was intended that the gentlemen [uncertain: should be brought down] through me by some 500000 Rthl, I am too good-natured a simpleton and often do harm to myself and to my children. Breslau, the 3rd of April 1799, most faithful and humble servant v. Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nGladly do I endure all the talk behind my back from Thorn, if only I may see Your Most Serene Highness's affair brought to the desired end; and that this will happen within a couple of months I pledge to Your Serene Highness upon my honour and my property. That grass-speaker will meanwhile do the least of all in the matter, for I believe, and regard, the affair as settled. A person quite insignificant and unknown will decide the matter. To paper I cannot entrust this — Every [thing] I have had the grace to [?] to Her Serene Highness the Princess of the truth. The whole affair will resolve itself of its own accord and will be brought to a conclusion for Your Most Serene Highness as honourable as it is advantageous — that a valuation of Your Serene Highness's estates is to be prevented arises from the source most fully known to Your Highness\n\nknown [to Your Highness], and it is precisely from that quarter that they wish it to be called a mere matter of grace. My sense of honour, however, always rebels against everything that carries even the appearance of begging, and in this regard I walk quite quietly and [uncertain: steadfastly] onward along the straight road marked out for me; and I am certain that, despite all the idle chatter, I shall reach the goal of my wishes. The Monarch wishes Your Most Serene Highness well, and the exchange has been approved by the King provided the estates hold the balance against one another — the balance therefore decides it; and the King's friendship does no more in this than that for estates lying far off, nearer ones are given — and there is no shame in thanking the Monarch for that. The equality of the estates is meanwhile provided for — and in this way everything will resolve itself of its own accord. Count Schlabrendorff I have [uncertain: persuaded] to accept from me, for the interest payable to him, a bill of exchange payable in a year's time. I shall go to him on Sunday to settle this business.\n\nEverything else I shall attend to in the best manner. For the rest, I note humbly for myself further that Prittwitz\n\nis a pitiful liar — the man said not a word to me further, and that indeed in the presence of [uncertain: Wildegans] — but rather: My God, Your Serene Highness torments me, I am to take the matter upon myself. I have already told the gentleman that I cannot do this — and I shall also write it once more to Your Serene Highness. Since I now knew everything better, I let the fool talk and sought to advance the matter for myself.\n\nMy sense of honour would also never permit speeches of this kind, and the discourse could not have ended so humiliatingly on my part as he wished to boast. Behind my back, however, the man may say what he likes; I shall willingly and gladly bear it all in silence until we are at the goal of our wishes — If Your Serene Highness will but grant me the continuance of Your most gracious good will, then I remain, until death, as Your Most Serene Highness's\n\nAbout the 16th of April I go from here to Berlin, where I shall remain until the end of May. The estates which I sold to Prince George now come out, according to a valuation by a councillor of justice and a chamber councillor, at over 700000 Rthl etc. Since [uncertain: the gentlemen] meant, through me, to be ruined to the tune of 500000 Rthl, I am too good-natured a fool and often do harm to one and to children.\n\nBreslau, the 3rd of April 1799\n\nfaithful, most humble and obedient servant\nv. Triebenfeld",
  "summary_en": "Pledges on his honour and property that the Prince's affair will be concluded within a couple of months, hinting that an insignificant, unnamed man will decide it and that details cannot be committed to paper. Reports the Monarch's goodwill and the King's approval of the exchange provided the estates balance, blames obstruction of the valuation on a source known to the Prince, and resents any appearance of begging. Count Schlabrendorff will accept a twelve-month bill for his interest; dismisses Prittwitz as a liar. Estates sold to Prince George now valued above 700,000 Rthl.",
  "summary_de": "Versichert bei Ehre und Vermögen, die Angelegenheit des Fürsten binnen zweier Monate zum gewünschten Ende zu führen; ein unbedeutender Mann werde entscheiden, Näheres sei dem Papier nicht anzuvertrauen. Der Monarch billige den Gütertausch, sofern die Güter einander die Waage hielten; Bitten und Gnadensachen widerstreben seinem Ehrgefühl. Graf Schlabrendorff nehme für die Zinsen einen Wechsel auf ein Jahr, Abschluß am Sonntag. Prittwitz sei ein Lügner. Ab 16. April in Berlin. Die an Prinz George verkauften Güter seien auf über 700000 Rthl geschätzt."
 }

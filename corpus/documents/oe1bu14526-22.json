@@ -88,16 +88,131 @@
    "doc_line": 16
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preussen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolno",
+   "kind": "place",
+   "surface_de": "Kolno",
+   "surface_en": "Kolno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreuß.",
+   "surface_en": "South Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  }
+ ],
  "place_canonical": "Posen",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal Grace, Friendship and good Will beforehand! Most Serene Prince, dearest Friend and dear Faithful One. Your Liebden receives herewith enclosed an engrossed copy of the purchase contract concluded with the Banco-Rendant Leixner over the estates Kolno and Kaemen, confirmed under this date. We remain well disposed toward you with Royal Grace, Friendship and favourable Will. Given at Posen, the 18th of March 1805. Royal South Prussian Government [illegible]raudchreig[illegible]\n\nTo\n\nthe reigning Lord\n\nFürst zu Hohenlohe\n\nIngelfingen, Liebden.\n\nFee 1 rt 2 g\n\nStamp 6 g\n\nMund[ierung, fair-copying]: 2 g\n\nIns[inuation, service]: 3 g"
+   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal grace, friendship and good will be with you first! Most Serene Prince, dearest friend and dear faithful subject. Your Lordship receives herewith enclosed an engrossed copy of the purchase contract concluded with the bank cashier Leixner concerning the estates of Kolno and Kaemen, confirmed this day. We are well disposed towards you with Royal grace, friendship and favourable will. Given at Posen, the 18th of March 1805. Royal South Prussian Government [illegible]raudchreig[illegible]\n\nTo\n\nthe reigning Lord\n\nPrince of Hohenlohe-\n\nIngelfingen, Your Lordship.\n\nFee 1 rt 2 g\n\nStamp 6 g\n\nEngrossing: 2 g\n\nRegistration: 3 g",
+   "names": [
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Preussen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Kolno",
+     "en": "Kolno",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreuß.",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "18ten",
+    "1805",
+    "1 rt 2 g",
+    "6 g",
+    "2 g",
+    "3 g"
+   ]
   }
  ],
- "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal Grace, Friendship and good Will beforehand! Most Serene Prince, dearest Friend and dear Faithful One. Your Liebden receives herewith enclosed an engrossed copy of the purchase contract concluded with the Banco-Rendant Leixner over the estates Kolno and Kaemen, confirmed under this date. We remain well disposed toward you with Royal Grace, Friendship and favourable Will. Given at Posen, the 18th of March 1805. Royal South Prussian Government [illegible]raudchreig[illegible]\n\nTo\n\nthe reigning Lord\n\nFürst zu Hohenlohe\n\nIngelfingen, Liebden.\n\nFee 1 rt 2 g\n\nStamp 6 g\n\nMund[ierung, fair-copying]: 2 g\n\nIns[inuation, service]: 3 g",
+ "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal grace, friendship and good will be with you first! Most Serene Prince, dearest friend and dear faithful subject. Your Lordship receives herewith enclosed an engrossed copy of the purchase contract concluded with the bank cashier Leixner concerning the estates of Kolno and Kaemen, confirmed this day. We are well disposed towards you with Royal grace, friendship and favourable will. Given at Posen, the 18th of March 1805. Royal South Prussian Government [illegible]raudchreig[illegible]\n\nTo\n\nthe reigning Lord\n\nPrince of Hohenlohe-\n\nIngelfingen, Your Lordship.\n\nFee 1 rt 2 g\n\nStamp 6 g\n\nEngrossing: 2 g\n\nRegistration: 3 g",
  "summary_en": "Royal rescript from the South Prussian Government at Posen transmitting to the reigning Prince of Hohenlohe-Ingelfingen an engrossed copy of the purchase contract concluded with the bank cashier Leixner over the estates of Kolno and Kaemen, confirmed that same day. Couched in the usual formulae of royal grace and friendship, it closes with a schedule of charges: fee 1 Rthl 2 Groschen, stamp 6 Groschen, engrossing 2 Groschen, registration 3 Groschen. The signature of the issuing office is illegible.",
  "summary_de": "Übersendung einer mundierten Abschrift des mit dem Bankkassierer Leixner geschlossenen Kaufkontrakts über die Güter Kolno und Kaemen, den die Königlich Südpreußische Regierung am selben Tage konfirmiert hat, an den regierenden Fürsten von Hohenlohe-Ingelfingen, unter den üblichen Gnaden- und Freundschaftsversicherungen Friedrich Wilhelms. Am Schluß die Gebührenaufstellung: Gebühr 1 rt 2 g, Stempel 6 g, Mundierung 2 g, Registratur 3 g. Die Unterschrift der Regierung ist unleserlich."
 }

@@ -160,20 +160,298 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bruniewski",
+   "kind": "person",
+   "surface_de": "Bruniewskischen",
+   "surface_en": "Bruniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bruniewski",
+   "kind": "person",
+   "surface_de": "Bruniewski",
+   "surface_en": "Bruniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kollo",
+   "kind": "place",
+   "surface_de": "Kollo",
+   "surface_en": "Kollo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wanstern",
+   "kind": "person",
+   "surface_de": "Wanstern",
+   "surface_en": "Wanstern",
+   "page": 1
+  },
+  {
+   "entity": "guderian",
+   "display": "Guderian",
+   "kind": "person",
+   "surface_de": "Guderian",
+   "surface_en": "Guderian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencken",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M. Bernhard",
+   "kind": "person",
+   "surface_de": "M Bernhard",
+   "surface_en": "M. Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "simon",
+   "display": "Simon",
+   "kind": "person",
+   "surface_de": "Simon",
+   "surface_en": "Simon",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Metzer",
+   "kind": "person",
+   "surface_de": "Metzer",
+   "surface_en": "Metzer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bruniewski",
+   "kind": "person",
+   "surface_de": "Bruniewski",
+   "surface_en": "Bruniewski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Baragnieur",
+   "kind": "person",
+   "surface_de": "Baragnieur",
+   "surface_en": "Baragnieur",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsch",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wünster",
+   "kind": "person",
+   "surface_de": "Wünſter",
+   "surface_en": "Wünster",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Posen",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Through all this vexation I have contracted a bad bilious fever and must keep to my bed here in Posen. The affairs are all so tangled that at every turn one meets with so many objects as keep forcing one back from the goal. Thus I found the situation here in respect of the Bruniewski business — not enough that the accursed compromise has been concluded. No! It is so faulty that it afforded security not worth a Groschen; all of this is to be cleared away and altered, and for that the wife of Bruniewski is required, and she is God knows where — now it is said she is in Kollo, now she is in Warschau. In short, these people are out for nothing but to defraud Your Serene Highness. And to confess freely: I hold Wünster to be the worst rogue of all — he is forever in collusion with Bruniewski and Guderian, he certainly receives from the former a couple of thousand d, and has therefore forged the most disadvantageous compromise, thrust that same thing into Glencke's hands so that he was obliged to conclude it — while he himself very prudently made off out of the dust, so as to be able afterwards to lay it all upon the simple-minded Glenck. The Jew M Bernhard is here with Simon. These patrons will pay to Your Serene Highness only 6000 Rthl instead of 13000 Rthl — but that shall not succeed for these knaves. First Bruniewski alone is to furnish sufficient security; this is promised for tomorrow — then pressure is to be put at once upon Metzer for the deposit of the full 66000 Rthl, against which"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThrough all the vexation I have contracted a bad bilious fever and must keep to my bed here in Posen. The affairs are all so tangled that on every road one meets with so many matters as keep forcing one back from the goal. Thus I found the situation here in respect of the Bruniewski business — Not enough that the accursed compromise has been concluded. Nine! It is so defective that it afforded no security worth a Groschen; all this is to be cleared away and altered, and for that the wife of Bruniewski is required, and she is God knows where — now it is said she is in Kollo, now she is in Warsaw. In short, the people are out for nothing but to [uncertain: bear] Your Serene Highness.\n\nAnd frankly confessed, I hold Wanstern to be the worst rogue of all — He is forever thick with Bruniewski and Guderian, assuredly receives a couple of thousand d from the former, and has therefore forged the most disadvantageous compromise, slipped the same into Glenck's hands so that he had to conclude it — but he himself has full prudently made off out of the dust, so as to be able afterwards to lay everything upon the simple Glenck. The Jew M. Bernhard is here with Simon. These sharpers would pay Your Serene Highness only 6000 Rthl instead of 13000 Rthl — but this shall not succeed for these knaves — First Bruniewski alone shall furnish sufficient security, which is promised for tomorrow — then one shall press at once with Metzer for the deposit of the full 66000 Rthl, against which",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Bruniewskischen",
+     "en": "Bruniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Bruniewski",
+     "en": "Bruniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Kollo",
+     "en": "Kollo",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Wanstern",
+     "en": "Wanstern",
+     "kind": "person"
+    },
+    {
+     "de": "Guderian",
+     "en": "Guderian",
+     "kind": "person"
+    },
+    {
+     "de": "Glencken",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "M Bernhard",
+     "en": "M. Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Simon",
+     "en": "Simon",
+     "kind": "person"
+    },
+    {
+     "de": "Metzer",
+     "en": "Metzer",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "13000",
+    "6000",
+    "66000"
+   ]
   },
   {
    "page": 2,
-   "en": "Bruniewski shall at once judicially concede the tradition of the estates; then the Jew et consortes are satisfied in this matter. Thereafter [uncertain: Baragnieur] takes his 53000 Rthl and Glenck the 13000 for Your Serene Highness. At Betsche the Jew wished to undertake a like distraint and to confuse the people's heads — meanwhile it shall succeed for him there as little as here. My resolve is absolutely to bring Your Serene Highness the whole 30000 Rthl out of Betsch and the full 13000 Rthl from here. Thereafter Your Serene Highness may pay off each according to his desert. That base fellow, the Wünster, I hardly get to see at all. He has his woman here, has placed her at the theatre, and gives balls for the whole gang so that they may take up the buck's hide among themselves — that costs much, and therefore the knave must strike out on every road to snatch something. As regards Glenck, Your Serene Highness does me great hurt — I am no crawling sinner, but go gladly straight and openly; what I write to Your Serene Highness, I say to him — indeed, he read everything that I write. This, I believe, justifies my conduct. In deepest reverence I remain, until death, Your Most Serene Highness's Posen, the 4th of August 1804 humble and obedient servant v Triebenfeld"
+   "en": "Bruniewski shall at once judicially concede the delivery of possession of the estates; then the Jew and consorts are satisfied in this matter. Thereafter Baragnieur takes his 53000 Rthl and Glenck the 13000 for Your Serene Highness. In Betsche the Jew wished to undertake a like distraint and to confuse the people's heads — meanwhile he shall succeed there as little as here — My resolve is absolutely to carry through for Your Serene Highness the whole 30000 Rthl out of Betsche and the full 13000 Rthl from here. Thereafter the highest may pay off each according to his desert. That base fellow, the Wünster, I scarcely get to see at all. He has his woman here, has placed her at the theatre, and gives balls for the whole gang so that they may take the buck's hide up among themselves — that costs much, and therefore the knave must strike out on every road to snatch something. Concerning Glenck Your Serene Highness does me great [uncertain: wrong] — I am no cringing sinner, but go gladly straight and open — What I write to Your Serene Highness, I say to him — indeed, he read everything that I write. This, I believe, justifies my conduct. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nPosen, the 4th of August\n\n1804\n\nhumble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Bruniewski",
+     "en": "Bruniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Baragnieur",
+     "en": "Baragnieur",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Betsch",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Wünſter",
+     "en": "Wünster",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "53000",
+    "13000",
+    "30000",
+    "13000",
+    "4ten",
+    "1804"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Through all this vexation I have contracted a bad bilious fever and must keep to my bed here in Posen. The affairs are all so tangled that at every turn one meets with so many objects as keep forcing one back from the goal. Thus I found the situation here in respect of the Bruniewski business — not enough that the accursed compromise has been concluded. No! It is so faulty that it afforded security not worth a Groschen; all of this is to be cleared away and altered, and for that the wife of Bruniewski is required, and she is God knows where — now it is said she is in Kollo, now she is in Warschau. In short, these people are out for nothing but to defraud Your Serene Highness. And to confess freely: I hold Wünster to be the worst rogue of all — he is forever in collusion with Bruniewski and Guderian, he certainly receives from the former a couple of thousand d, and has therefore forged the most disadvantageous compromise, thrust that same thing into Glencke's hands so that he was obliged to conclude it — while he himself very prudently made off out of the dust, so as to be able afterwards to lay it all upon the simple-minded Glenck. The Jew M Bernhard is here with Simon. These patrons will pay to Your Serene Highness only 6000 Rthl instead of 13000 Rthl — but that shall not succeed for these knaves. First Bruniewski alone is to furnish sufficient security; this is promised for tomorrow — then pressure is to be put at once upon Metzer for the deposit of the full 66000 Rthl, against which\n\nBruniewski shall at once judicially concede the tradition of the estates; then the Jew et consortes are satisfied in this matter. Thereafter [uncertain: Baragnieur] takes his 53000 Rthl and Glenck the 13000 for Your Serene Highness. At Betsche the Jew wished to undertake a like distraint and to confuse the people's heads — meanwhile it shall succeed for him there as little as here. My resolve is absolutely to bring Your Serene Highness the whole 30000 Rthl out of Betsch and the full 13000 Rthl from here. Thereafter Your Serene Highness may pay off each according to his desert. That base fellow, the Wünster, I hardly get to see at all. He has his woman here, has placed her at the theatre, and gives balls for the whole gang so that they may take up the buck's hide among themselves — that costs much, and therefore the knave must strike out on every road to snatch something. As regards Glenck, Your Serene Highness does me great hurt — I am no crawling sinner, but go gladly straight and openly; what I write to Your Serene Highness, I say to him — indeed, he read everything that I write. This, I believe, justifies my conduct. In deepest reverence I remain, until death, Your Most Serene Highness's Posen, the 4th of August 1804 humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThrough all the vexation I have contracted a bad bilious fever and must keep to my bed here in Posen. The affairs are all so tangled that on every road one meets with so many matters as keep forcing one back from the goal. Thus I found the situation here in respect of the Bruniewski business — Not enough that the accursed compromise has been concluded. Nine! It is so defective that it afforded no security worth a Groschen; all this is to be cleared away and altered, and for that the wife of Bruniewski is required, and she is God knows where — now it is said she is in Kollo, now she is in Warsaw. In short, the people are out for nothing but to [uncertain: bear] Your Serene Highness.\n\nAnd frankly confessed, I hold Wanstern to be the worst rogue of all — He is forever thick with Bruniewski and Guderian, assuredly receives a couple of thousand d from the former, and has therefore forged the most disadvantageous compromise, slipped the same into Glenck's hands so that he had to conclude it — but he himself has full prudently made off out of the dust, so as to be able afterwards to lay everything upon the simple Glenck. The Jew M. Bernhard is here with Simon. These sharpers would pay Your Serene Highness only 6000 Rthl instead of 13000 Rthl — but this shall not succeed for these knaves — First Bruniewski alone shall furnish sufficient security, which is promised for tomorrow — then one shall press at once with Metzer for the deposit of the full 66000 Rthl, against which\n\nBruniewski shall at once judicially concede the delivery of possession of the estates; then the Jew and consorts are satisfied in this matter. Thereafter Baragnieur takes his 53000 Rthl and Glenck the 13000 for Your Serene Highness. In Betsche the Jew wished to undertake a like distraint and to confuse the people's heads — meanwhile he shall succeed there as little as here — My resolve is absolutely to carry through for Your Serene Highness the whole 30000 Rthl out of Betsche and the full 13000 Rthl from here. Thereafter the highest may pay off each according to his desert. That base fellow, the Wünster, I scarcely get to see at all. He has his woman here, has placed her at the theatre, and gives balls for the whole gang so that they may take the buck's hide up among themselves — that costs much, and therefore the knave must strike out on every road to snatch something. Concerning Glenck Your Serene Highness does me great [uncertain: wrong] — I am no cringing sinner, but go gladly straight and open — What I write to Your Serene Highness, I say to him — indeed, he read everything that I write. This, I believe, justifies my conduct. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nPosen, the 4th of August\n\n1804\n\nhumble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports falling ill with bilious fever in Posen and denounces the Bruniewski settlement as so faulty it gave security \"not worth a Groschen\"; it must be redrawn, but Bruniewski's wife is untraceable, said to be at Kollo or Warschau. Accuses Wünster of colluding with Bruniewski and Guderian and foisting the compromise on the simple Glenck. The Jew M Bernhard and Simon offer only 6000 instead of 13000 Rthl; pledges to press Metzer for the full 66000 Rthl deposit and bring 30000 Rthl from Betsche plus 13000 Rthl.",
  "summary_de": "Krankheitsmeldung wegen eines Gallenfiebers und Bericht über die verwickelte Bruniewski-Sache: der geschlossene Compromiß sei fehlerhaft und ohne Sicherheit, zu seiner Änderung fehle Bruniewskis Frau, die in Kollo oder Warschau vermutet wird. Wünster habe im Einverständnis mit Bruniewski und Guderian den nachteiligen Vergleich abgefaßt und Glenck aufgedrängt; der Jude M Bernhard und Simon wollten statt 13000 Rthl nur 6000 Rthl zahlen. Metzer soll zur Deposition der 66000 Rthl gedrängt, die Tradition der Güter zugestanden werden; angestrebt sind 30000 Rthl aus Betsche und 13000 Rthl von Posen."
 }

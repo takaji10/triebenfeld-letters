@@ -1,111 +1,373 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! The loan from the Invalids'' Fund, so confidently
-    assured by Building Councillor Glenck, has likewise failed, and for the following reasons. The Invalids''
-    Department demanded that the Otto valuation be revised once more and recast according to the principles
-    of the South Prussian [uncertain: price] Chamber. Glenck, who believed he was taking the shortest
-    road to this end, applied, on the advice of a certain Captain Lange, to Court Councillor Leugnich;
-    the latter promised to have the valuation recast quickly for 25 Fr. Glenck believed this, departed,
-    and merely requested Lengnich to have the new valuation delivered to Court Councillor Seelmann. The
-    latter has been done; but to my [uncertain: Swedes] I learned yesterday on my arrival that the newer
-    valuation has been reduced to 78000 Rthl and that it has been handed over in that form. Your Most
-    Serene Highness may judge the consequence — but the saddest thing of all is now that by this mutilated
-    valuation the estates have been utterly degraded in worth, and that their sale will be made very,
-    very much more difficult. Even in Frankfurth, since those people were counting upon a loan of 80 to
-    100000 Rthl,'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    The loan from the Invalids'' Fund, which building councillor Glenck assured so confidently, has likewise
+    come to grief, and for the following reasons. The Invalids'' Department required that the Otto valuation
+    be revised once more and recast according to the principles of the South-Prussian [uncertain: price]
+    Chamber. Glenck, who believed he was taking the shortest way to this end, applied, on the advice of
+    a certain Captain Lange, to Court Councillor Lengnich; the latter promised to have the valuation recast
+    quickly for 25 Fr. Glenck believed this, departed, and merely requested Lengnich to have the new valuation
+    delivered to Councillor of War Seelmann. The latter has been done, but to my horror I learned yesterday
+    on my arrival that the newer valuation had been reduced to 78000 Rthl, and that it has been handed
+    over in that form; Your Most Serene Highness may judge the consequence — the saddest thing of all,
+    however, is now that the estates have been utterly degraded in worth by this mutilated valuation,
+    and that the sale of them will be made very, very much harder. Even in Frankfurt an der Oder, since
+    these people were counting on a loan of 80 to 100000 Rthl,'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Invaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: Ottosche Taxe
+    en: Otto valuation
+    kind: person
+  - de: Südpreiſe
+    en: South-Prussian
+    kind: place
+  - de: Hauptman Lange
+    en: Captain Lange
+    kind: person
+  - de: Hofrath Lengnich
+    en: Court Councillor Lengnich
+    kind: person
+  - de: H. R Seelmann
+    en: Councillor of War Seelmann
+    kind: person
+  - de: Franckfurth
+    en: Frankfurt an der Oder
+    kind: place
+  numbers:
+  - '25'
+  - '78000'
+  - '80'
+  - '100000'
 - page: 2
-  en: 'everything now founders; for since Leixner must [do so] for the sake of the loan of Your Most Serene
-    Highness, he must also see the [uncertain: Jentramente], and in that way the lower valuation comes
-    before his eyes — which, had the loan not been necessary, one might have been able to show. Even if
-    I now obtain 60000 Rthl lent from somewhere upon the lower valuation, it will be extremely damaging
-    to the sale and perhaps prevent it altogether. My only hope is now cast upon Stubenrauch, to whom
-    I have promised eviction-guarantee and every conceivable security. This evening he means to give his
-    declaration. — If this plan is [uncertain: shattered], then all here is lost, for all the other projects
-    are not worth a Groschen either, and are drawn up merely by a certain Dietz, Werner, the Jew Borchart,
-    Captain Lange and such rabble, who have neither head nor credit, and who only needed written undertakings
-    from Glenck in order to be able to borrow something upon them, so as not to perish of hunger. It is
-    a sad thing that Glenck reckoned upon the swindles of this brood and so most culpably frittered away
-    the time.'
+  en: 'everything will now come to grief there too, for since Leixner must [have it] of Your Most Serene
+    Highness for the sake of the loan, he must also see the [uncertain: documents], and in that way the
+    lower valuation comes before his eyes, which, had the loan not been necessary, one need never have
+    produced. Even if I now obtain 60000 Rthl lent from somewhere on the lower valuation, it will be extremely
+    damaging to the sale and perhaps hinder it entirely. My sole hope is now cast upon Stubenrauch, to
+    whom I have promised to furnish warranty of title and every conceivable guarantee. This evening he
+    means to give his declaration — should this plan fail, then all is lost here, for all the other projects
+    are not worth a single Groschen either and are merely the designs of a certain Dietz, Werner, the
+    Jew Borchart,
+
+
+    Captain Lange and such rabble, who have neither head nor credit, and who needed written undertakings
+    from Glenck only so as to be able to borrow something upon them, that they might not perish of hunger.
+    It is a sad thing that Glenck reckoned upon the swindles of this brood and frittered away the time
+    in so highly culpable a manner.'
+  names:
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: Stubenrauch
+    en: Stubenrauch
+    kind: person
+  - de: Dietz
+    en: Dietz
+    kind: person
+  - de: Werner
+    en: Werner
+    kind: person
+  - de: Juden Borchart
+    en: the Jew Borchart
+    kind: person
+  - de: H. Lange
+    en: Captain Lange
+    kind: person
+  - de: Glenck
+    en: Glenck
+    kind: person
+  numbers:
+  - '60000'
 - page: 3
-  en: 'God is my witness that I cannot sleep for grief. My most heartfelt wish is that Heaven would but
-    govern Stubenrauch''s heart; for then all will go well — gladly will I pledge him my goods and my
-    poor beleaguered soul. [uncertain: Beyme] yesterday had Privy Councillor Am[elang] called to him,
-    and told him: that His Majesty could give Your Serene Highness neither South Prussian estates nor
-    money. But that Your Serene Highness owed the King, besides a loan from the Duke of Curland, upon
-    which the King had hitherto paid the interest, very considerable sums. Since His Majesty doubted of
-    ever recovering a single Groschen of the sums lent and of the interest paid in advance, His Majesty
-    was willing, out of especial grace, to make Your Serene Highness a gift of these sums, as also of
-    the interest hitherto paid to the Curlanders, as a dédommagement for the lost Brzyzer estates. In
-    return for which, however, Your Serene Highness should from now on satisfy the Curlanders both as
-    to capital and as to interest. This was not His Majesty''s own notion. With the best heart and the
-    love he bears Your Serene Highness he could not have brought about more than this. He ought also to
-    have given Your Serene Highness this resolution at once; but since he did not know whether it might
-    be agreeable to Your Serene Highness, he has'
+  en: 'God is my witness that I cannot sleep for grief. My most heartfelt wish is that Heaven might but
+    govern Stubenrauch''s heart, for then it will indeed go well — gladly would I pledge him my goods
+    and my poor afflicted soul.
+
+
+    Beyen yesterday had Councillor Am[elang] called to him, and told him that His Majesty could give Your
+    Serene Highness neither South Prussian estates nor money. Your Serene Highness, however, owed the
+    King very considerable sums, besides a loan from the Duke of Courland, on which the King had hitherto
+    paid the interest. Since His Majesty doubted of recovering a single Groschen of the sums lent and
+    of the interest paid by way of advance, His Majesty was willing, out of especial grace, to make Your
+    Serene Highness a gift of these sums, as also of the interest hitherto paid to the Courlanders, as
+    a compensation for the lost Brzyzer estates. In return, however, Your Serene Highness should from
+    now on satisfy the Courlanders both as to capital and as to interest. This was not His Majesty''s
+    own notion. With the best heart, and with the love he bore Your Serene Highness, he had not been able
+    to bring about more than this. He ought also to have given Your Serene Highness this resolution at
+    once, but as he did not know whether it might be agreeable to Your Serene Highness, he had'
+  names:
+  - de: Stubenrauch
+    en: Stubenrauch
+    kind: person
+  - de: Beyen
+    en: Beyen
+    kind: person
+  - de: 'Gg. R. Am:'
+    en: Councillor Am[elang]
+    kind: person
+  - de: Südpreußen
+    en: South Prussian
+    kind: place
+  - de: Herzog von Curland
+    en: the Duke of Courland
+    kind: person
+  - de: Curländern
+    en: the Courlanders
+    kind: person
+  - de: Brzyzer
+    en: Brzyzer
+    kind: place
 - page: 4
-  en: 'kept it back for the present, and wishes that Amelang might first sound out Your Serene Highness
-    on the matter. Amelang thereupon answered him: he knew that Your Serene Highness wished to have nothing
-    given as a gift by the King; that Your Serene Highness would faithfully pay His Majesty everything
-    you rightfully owed him; that Your Serene Highness demanded nothing but what you could claim by right,
-    and that you believed you had the first right, when you pressed, directly and indirectly, for a compensation
-    for the estates taken from you, for which Your Serene Highness had to pay the commission stamp duty
-    and other dues to the amount of many thousands, and upon which Your Serene Highness had moreover had
-    much money [uncertain: standing]. Amelang then proposed to him that Your Serene Highness might be
-    given the Kolziger estates confiscated from Count Schlabrendorff as a compensation. — To this he replied
-    that the estates had not yet been sequestered in; that the King would probably rather keep these estates
-    himself, because His Majesty had a claim for the [uncertain: frightening away] of the estates dating
-    from the former government; nevertheless there was still the first possibility in the matter of obliging
-    the Prince. — Amelang, however, knew everything, for it agreed word for word with what the honest
-    General had said. — It was particularly'
+  en: 'held it back for the present, and wished that Amelang might first sound out Your Serene Highness
+    on the matter. Amelang thereupon answered him: he knew that Your Serene Highness wished for no gift
+    from the King; that Your Highness would faithfully pay His Majesty everything that was lawfully owed
+    to him; that Your Serene Highness demanded nothing but what you could claim by right, and that you
+    believed you had the first right, when you pressed, directly and indirectly, for a compensation for
+    the estates taken from you, for which Your Serene Highness had to pay the [uncertain: charter] stamp
+    duty and other dues to the amount of many thousands, and where Your Highness had besides advanced
+    much money.
+
+
+    Amelang then proposed to him that Your Serene Highness be given, by way of compensation, the Kolziger
+    estates confiscated from Count Schlabrendorff — whereupon he replied that the estates had not yet
+    been taken in; that the King would probably prefer to keep these estates himself, because His Majesty
+    had a [uncertain: deposit] from the former government for the [uncertain: seizure] of the estates;
+    yet in the matter there was still the first possibility of obliging the Prince. — Amelang meanwhile
+    knew everything, for it agreed word for word with what the honest General had said. — It was particularly'
+  names:
+  - de: Amelang
+    en: Amelang
+    kind: person
+  - de: Gr Schlabrendorff
+    en: Count Schlabrendorff
+    kind: person
+  - de: Kolziger Güter
+    en: the Kolziger estates
+    kind: place
 - page: 5
-  en: evident that through his mediation the pretty answer had been held back. All this raised Am[elang]'s
-    courage, and, being prepared, he spoke more freely. A. lives even now in the first hope that they
-    will be civil and give no coarse resolution, but will withhold it altogether. — Also that they would
-    hasten to execute the confiscation, or the judgment thereupon, in order to be able to grant Your Serene
-    Highness the Kölziger estates. Braun will keep the General K. in play and guide the matter along this
-    road. — Am[elang] will do the like with B[eyme] in his own manner. — But neither knows anything of
-    the other, and by this very plan both must in the end, without having known it, meet at one point.
-    For the rest, A. will draw up a letter to B. and perhaps to the King, which Your Serene Highness is
-    to execute and dispatch. Herr Minister von Hard[enberg] I have not yet spoken with, but tomorrow it
-    shall certainly be done. The King will on no account let himself into any war; meanwhile Russia is
-    said not to be willing to let matters rest this time with empty remonstrances. His Majesty has departed
-    in a very ill humour to Pomerania for the review and will be home again on the 5th of next month.
+  en: 'evident that it was through his mediation that the fine answer had been held back. All this raised
+    Am[elang]''s courage, and, being prepared, he spoke more freely. A[melang] also now lives in the first
+    hope that they will be civil and will offer no gross insolence, but will hold it back altogether —
+    and also that they will make haste to execute the confiscation, or the judgment to that effect, so
+    as to be able to confer the Kölziger estates upon Your Serene Highness.
+
+
+    Braun will keep the General [uncertain: K.] in play and guide the matter along this road — Am[elang]
+    will do the same with B[eyen] in his own manner — but neither knows anything of the other, and even
+    on this plan both must in the end, without having known it, meet at one point.
+
+
+    For the rest, A[melang] will draw up a letter to B[eyen] and perhaps to the King, which Your Serene
+    Highness is to execute and send off. I have not yet spoken with Herr von Hard[enberg], but tomorrow
+    it shall certainly be done. The King is by no means willing to enter into any war; meanwhile Russia
+    is said not to be willing to let the matter rest this time with empty remonstrances. His Majesty set
+    out for Pomerania for the review in a very ill humour and will be home again on the 5th of next month.'
+  names:
+  - de: 'Am:'
+    en: Am[elang]
+    kind: person
+  - de: A.
+    en: A[melang]
+    kind: person
+  - de: Kölziger Güter
+    en: the Kölziger estates
+    kind: place
+  - de: Braun
+    en: Braun
+    kind: person
+  - de: Gen K.
+    en: 'General [uncertain: K.]'
+    kind: person
+  - de: 'B:'
+    en: B[eyen]
+    kind: person
+  - de: B
+    en: B[eyen]
+    kind: person
+  - de: 'H. M. v. Hard:'
+    en: Herr von Hard[enberg]
+    kind: person
+  - de: Rußl.
+    en: Russia
+    kind: place
+  - de: Pommern
+    en: Pomerania
+    kind: place
+  numbers:
+  - '5'
 - page: 6
   en: 'God have mercy! What a perverse creature this Glenck is — now all is over. Stubenrauch has been
-    exasperated by the running-in of worthless fellows and will have nothing to do with the business.
-    The Invalids'' Fund will give no money — likewise everything is spoiled with the Pupillen-Collegium
-    (Wards'' Board) — what am I now to begin? Sell Kontop? Why not Kolzig — O God, my fine plan! O had
-    Your Serene Highness but put the fool on a golden chain and had him fed with Strasburg pasties: his
-    keep would indeed have cost much, but he could neither have undermined your peace of mind, still less
-    have deprived you here of credit and good name. It is more than shameful that the man has here got
-    himself involved with all the low brutes of M[uncertain: ü]ller, has given every rascal written undertakings
-    for sums, and has entered into partnership contracts with them. It will in the end become necessary
-    to have all these slips declared null and void through the public papers, since otherwise Your Serene
-    Highness might yet be burdened with 50 lawsuits. My head swims when I think of the approaching term,
-    and when at once the last spark of hope is extinguished. It is now 1 o''clock in the night — I can
-    neither rest nor be still for anxiety, and the beast in human shape sleeps without a care — O righteous
-    God, what is a man without true feeling of honour?'
+    put off by the running-about of bad fellows and will have nothing to do with the business. The Invalids''
+    Fund will give no money — and just so everything is spoilt with the Wards'' Board; what am I now to
+    set about?
+
+
+    Sell Kontop? Why not Kolzig then — O God, my fine plan! O had Your Serene Highness but put the fool
+    on a golden chain and had him fed with Strasbourg pies, then his keeping would indeed have cost much,
+    but he could neither have undermined your peace nor, still less, have deprived you here of credit
+    and good name. It is more than shameful that the man has here got himself involved with all the base
+    brutes of M[uncertain: ü]ller and given every knave written undertakings for sums and entered into
+    partnership contracts with them. It will in the end become necessary to have all these slips declared
+    null and void through the public papers, since otherwise Your Serene Highness might yet be burdened
+    with 50 lawsuits.
+
+
+    My head swims when I think of the approaching term, and when all at once the last spark of hope too
+    is extinguished. It is now 1 o''clock in the night — for anxiety I can neither rest nor be still,
+    and the beast in human shape sleeps without a care — O righteous God, what is a man without true feeling
+    of honour?'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Stubenrauch
+    en: Stubenrauch
+    kind: person
+  - de: Invaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: Popillen Collegio
+    en: the Wards' Board
+    kind: other
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Kolzig
+    en: Kolzig
+    kind: place
+  - de: Strasburger
+    en: Strasbourg
+    kind: place
+  - de: M[ü?]ller
+    en: 'M[uncertain: ü]ller'
+    kind: person
+  numbers:
+  - '50'
+  - '1'
 - page: 7
-  en: 'O had but the unreasonable man not, to my very greatest misfortune, let the Otwische valuation
-    be so destroyed and mutilated, I should, with Amelang — who is proving himself active and who is now
-    gaining credit through Beym[e] — have found much [uncertain: more] counsel yet, and been able to raise
-    the monies upon my name or bill of exchange (because I am held to be rich). But this prospect too
-    has been robbed from me by the annihilation of the Otto valuation. I mean at any rate to make the
-    attempt, and shall ride within the hour to Potsdam to Pliehen; he told me some days ago that he had
-    300000 lying in Seehandlung obligations, and that he wished to make a trial for once whether he might
-    not gain something by the purchase of estates. — Perhaps God will give fortune by this road. — More
-    therefore when I return. — Money would be had. Rietz has money — Prince Ferdinand too is willing to
-    give it through Stubenrauch''s mediation. — But sure mortgage security is demanded. Whence am I to
-    take it? The valuations of the Zagorower estates are only [uncertain: 124 / 124000] Rthl, and these
-    are burdened with 56000 Rthl, thus indebted well over half; for that the estates are worth four times
-    as much I know — but the valuations argue against it, and consequently there is no reckoning upon
-    that. Kulm and Kaemen is bungled, for the present valuation is 110000 Rthl and 66000 Rthl are adjudged
-    to Bronicurln, so that here too no fund remains upon which to take or demand money with security,'
+  en: 'O had the unreasonable man only not, to my very greatest misfortune, allowed the Otto valuation
+    to be so destroyed and mutilated, then, with Amelang — who shows himself active and who is now gaining
+    credit through Beym[?] — I should have found much [uncertain: further] counsel, and should have been
+    able to raise the moneys on my own name or bill of exchange (because I am held to be rich). But this
+    prospect too has been robbed from me by the annihilation of the Otto valuation. I mean at any rate
+    to try, and in an hour I ride to Potsdam to Pliehen; he told me some days ago that he had 300000 lying
+    in Maritime Trading Company obligations, and that he wished to make a trial for once whether he could
+    not gain something by a purchase of estates — Perhaps God gives fortune along this road — More therefore
+    when I return. Money would now be to be had. Rietz has money — Prince Ferdinand too will give it through
+    Stubenrauch''s mediation — but sure mortgage security is demanded. Where am I to get this from?
+
+
+    The valuations of the Zagorowo estates are only 124 Rthl, and these are encumbered with 56000 Rthl,
+    thus [uncertain: indebted] above half; for that the estates are worth four times as much I know —
+    but the valuations argue against it, and consequently no reliance is to be placed on it. Kulm and
+    Kaemen are botched, for the present valuation is 110000 Rthl and 66000 Rthl have been awarded to Bronicurln,
+    so that here too no fund remains upon which money could be taken or demanded with security.'
+  names:
+  - de: Otwische Taxe
+    en: the Otto valuation
+    kind: person
+  - de: Amelang
+    en: Amelang
+    kind: person
+  - de: Beym
+    en: Beym
+    kind: person
+  - de: Ottoischen Taxa
+    en: the Otto valuation
+    kind: person
+  - de: Potsdum
+    en: Potsdam
+    kind: place
+  - de: Pliehen
+    en: Pliehen
+    kind: person
+  - de: Seehandlungs
+    en: Maritime Trading Company
+    kind: other
+  - de: Rietz
+    en: Rietz
+    kind: person
+  - de: Prinz Ferdinand
+    en: Prince Ferdinand
+    kind: person
+  - de: Stubenrauchs
+    en: Stubenrauch
+    kind: person
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Kulm
+    en: Kulm
+    kind: place
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Bronicurln
+    en: Bronicurln
+    kind: person
+  numbers:
+  - '300000'
+  - '124'
+  - '56000'
+  - '4'
+  - '110000'
+  - '66000'
 - page: 8
   en: 'I shall now try this further — I shall make trial whether anyone will lend 120000 Rthl upon Kontop
-    and Zagorow, for which I shall further offer a bill of exchange. If this went through, everything
-    might still be [uncertain: retrieved], for then one would have time to bring the Kaemen affair to
-    a solid conclusion and to procure a good sale, and also to dismember the Zagorower and Trąbcziner
-    estates at leisure. If I accomplish nothing, I shall hasten quickly to Frankfurth and there make trial
-    once more [text lost]. In deepest reverence I remain, until death, Your Most Serene Highness''s Berl.
-    26th May 1804 most faithful servant v Triebenfeld'
+    and Zagorowo, for which I shall offer a bill of exchange besides. If this succeeded, everything might
+    yet be retrieved, for then one would have time to bring the Kaemen affair soundly to a close and to
+    procure a good sale, and also to dismember the Zagorowo and Trąbczyn estates at leisure. If I accomplish
+    nothing, then I hasten quickly to Frankfurt an der Oder and try there once more [illegible]. In deepest
+    reverence I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    Berlin, 26th May 1804
+
+
+    most faithful servant
+
+
+    v. Triebenfeld'
+  names:
+  - de: Kontop
+    en: Kontop
+    kind: place
+  - de: Zagorow
+    en: Zagorowo
+    kind: place
+  - de: Kaemener
+    en: Kaemen
+    kind: place
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Trąbcziner
+    en: Trąbczyn
+    kind: place
+  - de: Frankfurth
+    en: Frankfurt an der Oder
+    kind: place
+  - de: Berl.
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '120000'
+  - '26'
+  - '1804'

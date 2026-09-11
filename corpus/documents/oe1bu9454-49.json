@@ -93,16 +93,142 @@
    "doc_line": 30
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Scheu",
+   "kind": "person",
+   "surface_de": "Scheu",
+   "surface_en": "Scheu",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Neufall",
+   "kind": "place",
+   "surface_de": "Neufall",
+   "surface_en": "Neufall",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bogadel",
+   "kind": "place",
+   "surface_de": "Bogadel",
+   "surface_en": "Bogadel",
+   "page": 1
+  },
+  {
+   "entity": "neumann",
+   "display": "Neumann",
+   "kind": "person",
+   "surface_de": "Neumann",
+   "surface_en": "Neumann",
+   "page": 1
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelmas",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berliner",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesian",
+   "kind": "place",
+   "surface_de": "Schlesischen",
+   "surface_en": "Silesian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 1
+  }
+ ],
  "place_canonical": "Kontop",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! How glad I was when it was reported to me that a messenger had arrived from Your Serene Highness's house; but how cast down I stood when I saw not a line from Your Serene Highness, and still less an answer to the letter I had sent to Your Serene Highness. I am still under arrest here without cease, and may not get away any sooner than when I have despatched from here the 600 Centner of iron, in accordance with the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall. I also yearn so heartily to lay myself personally at Your Most Serene Highness's feet. But I dare not stir from the spot. If it be in any way possible for Your Serene Highness in this world, then [uncertain: schulm — reading doubtful] me the iron as soon as it can be; and if the old ones would have my sorrow, then send the thousand Centner in full: with that, Michaelis Lahr and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent directly here to Bogadel, to my administrator Neumann, for I dare not leave until the iron has been handed over here to the justice-burgomaster [uncertain: Schenck — elsewhere on this page the same office is named Scheu]; and who else would arrange the transport hither for me? Let me by no means make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am, to my last breath, wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain, until death, faithful humble and obedient servant. It is said that a Russian corps is to be able to stand on the Po[lish] and Silesian frontier — would to God this were so! Your Most Serene Highness's v Triebenfeld. Kontop, the 20th of March 1809."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nHow glad I was when I was told that a messenger had arrived from Your Serene Highness's house, but how cast down I stood when I saw not a line from Your Serene Highness and still less an answer to the letter I had sent to Your Serene Highness. I am here continually under arrest and may not get away any sooner than until I have dispatched from here the 600 hundredweight of iron, according to the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall.\n\nI likewise long so heartily to lay myself personally at the feet of Your Most Serene Highness. But I may not stir from the spot. If it is in any way in the world possible for Your Serene Highness, then [uncertain: send] me the iron as soon as it can be, and should you wish to have the old [uncertain: reading] of my distress, then send the thousand hundredweight in full; that is the Michaelmas year, and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent straight here to Bogadel to my administrator Neumann, for I may not depart until the iron has been handed over here to the justice-burgomaster Scheu, and who would see to the transport here for me. Let me indeed not make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am to the last breath wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain, until death,\n\nfaithful, humble and obedient servant\n\nIt is said that a [uncertain: Russian] corps is said to be able to stand on the Po[lish] and Silesian frontier - Would to God this were so! Your Most Serene Highness\n\nv Triebenfeld\n\nKontop\n\nthe 20th of March\n\n1809.",
+   "names": [
+    {
+     "de": "Scheu",
+     "en": "Scheu",
+     "kind": "person"
+    },
+    {
+     "de": "Neufall",
+     "en": "Neufall",
+     "kind": "place"
+    },
+    {
+     "de": "Bogadel",
+     "en": "Bogadel",
+     "kind": "place"
+    },
+    {
+     "de": "Neumann",
+     "en": "Neumann",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelmas",
+     "kind": "other"
+    },
+    {
+     "de": "Berliner",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesischen",
+     "en": "Silesian",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "600",
+    "1000 (\"tausend\")",
+    "20",
+    "1809"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! How glad I was when it was reported to me that a messenger had arrived from Your Serene Highness's house; but how cast down I stood when I saw not a line from Your Serene Highness, and still less an answer to the letter I had sent to Your Serene Highness. I am still under arrest here without cease, and may not get away any sooner than when I have despatched from here the 600 Centner of iron, in accordance with the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall. I also yearn so heartily to lay myself personally at Your Most Serene Highness's feet. But I dare not stir from the spot. If it be in any way possible for Your Serene Highness in this world, then [uncertain: schulm — reading doubtful] me the iron as soon as it can be; and if the old ones would have my sorrow, then send the thousand Centner in full: with that, Michaelis Lahr and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent directly here to Bogadel, to my administrator Neumann, for I dare not leave until the iron has been handed over here to the justice-burgomaster [uncertain: Schenck — elsewhere on this page the same office is named Scheu]; and who else would arrange the transport hither for me? Let me by no means make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am, to my last breath, wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain, until death, faithful humble and obedient servant. It is said that a Russian corps is to be able to stand on the Po[lish] and Silesian frontier — would to God this were so! Your Most Serene Highness's v Triebenfeld. Kontop, the 20th of March 1809.",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nHow glad I was when I was told that a messenger had arrived from Your Serene Highness's house, but how cast down I stood when I saw not a line from Your Serene Highness and still less an answer to the letter I had sent to Your Serene Highness. I am here continually under arrest and may not get away any sooner than until I have dispatched from here the 600 hundredweight of iron, according to the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall.\n\nI likewise long so heartily to lay myself personally at the feet of Your Most Serene Highness. But I may not stir from the spot. If it is in any way in the world possible for Your Serene Highness, then [uncertain: send] me the iron as soon as it can be, and should you wish to have the old [uncertain: reading] of my distress, then send the thousand hundredweight in full; that is the Michaelmas year, and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent straight here to Bogadel to my administrator Neumann, for I may not depart until the iron has been handed over here to the justice-burgomaster Scheu, and who would see to the transport here for me. Let me indeed not make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am to the last breath wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain, until death,\n\nfaithful, humble and obedient servant\n\nIt is said that a [uncertain: Russian] corps is said to be able to stand on the Po[lish] and Silesian frontier - Would to God this were so! Your Most Serene Highness\n\nv Triebenfeld\n\nKontop\n\nthe 20th of March\n\n1809.",
  "summary_en": "Dismay that the Prince's messenger brought no letter and no answer to his last. Triebenfeld remains under arrest, bound by his word of honour until 600 Centner of iron have been despatched and he obtains release from justice-burgomaster Scheu of Neufall; he begs the iron be sent, if possible the full thousand Centner, which would satisfy Michaelis Lahr and the Berlin costs, and delivered directly to Bogadel to his administrator Neumann. Rumour of a Russian corps on the Polish and Silesian frontier.",
  "summary_de": "Enttäuschung darüber, daß der eingetroffene Bote weder Zeilen noch Antwort des Fürsten brachte. Triebenfeld befindet sich weiterhin in Arrest und darf sich nicht entfernen, ehe er die auf sein Ehrenwort zugesagten 600 Centner Eisen abgeliefert und die Quittung des Justizbürgermeisters Scheu in Neufall erhalten hat; besser noch wären die vollen tausend Centner, womit Michaelis Lahr und sämtliche Berliner Kosten gedeckt wären. Er bittet, das Eisen unmittelbar nach Bogadel an seinen Administrator Neumann zu senden. Gerücht über ein russisches Korps an der polnisch-schlesischen Grenze."
 }

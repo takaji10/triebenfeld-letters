@@ -70,16 +70,94 @@
    "doc_line": 25
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mathias",
+   "kind": "person",
+   "surface_de": "Mathias",
+   "surface_en": "Mathias",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! The business concerning the deeds relating to all the ecclesiastical estates I believe to have settled to Your Most Serene Highness's satisfaction, and should my stay here now drag on at length, I shall dispatch the same by the earliest post to Breslau. For the rest, I confess that the first entrée into this matter moved my heart greatly, for they demanded 2½ times as much again as for the first, because the value had been stated so in the first Ministerial report. Now, however, I pay only 240 Fr [uncertain: der] and about 200 Rthl; the money I have borrowed from the Privy Senior Auditing Councillor Mathias, who must have it back within 14 days. May Your Most Serene Highness be called upon indeed to issue an order for this money with all speed, so that I may still repay it during my presence here – I had hoped myself to receive much money here, but unfortunately shall not get a Groschen before the coming Johanni. Tomorrow morning I shall learn much in Your Serene Highness's other affair, and shall report it most humbly with the next post. In deepest reverence I remain, until death, Your Most Serene Highness's NB. instead of 14175 and 1500 Berlin, the 7th February 1801. faithful servant v Triebenfeld"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nThe business concerning the instruments touching all the ecclesiastical estates I believe to have settled to the satisfaction of Your Most Serene Highness, and should my stay here now be drawn out at length, I shall send the same off to Breslau by the earliest post. For the rest, I confess that the first entrée into this matter moved my heart greatly, for they were claiming a further 2½ times as much as for the first, because the value had been so stated in the first ministerial report. [uncertain: Jagt] however I pay only 240 Fr and some 200 Rthl; the money I have borrowed from the Privy Senior Auditing Councillor Mathias, who must have it back within 14 days. May Your Most Serene Highness be pleased to order payment of this money at the earliest, so that I may hand it over again while I am still here — I had hoped myself to receive much money here, but unhappily shall not get a Groschen before next Midsummer. Tomorrow morning I shall learn much in Your Serene Highness's other matter and shall most humbly report it by the next post. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nNB. instead of 14175 and 1500\n\nBerlin, the 7th of February 1801.\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Mathias",
+     "en": "Mathias",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2½",
+    "240",
+    "200",
+    "14",
+    "14175",
+    "1500",
+    "7ten",
+    "1801"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! The business concerning the deeds relating to all the ecclesiastical estates I believe to have settled to Your Most Serene Highness's satisfaction, and should my stay here now drag on at length, I shall dispatch the same by the earliest post to Breslau. For the rest, I confess that the first entrée into this matter moved my heart greatly, for they demanded 2½ times as much again as for the first, because the value had been stated so in the first Ministerial report. Now, however, I pay only 240 Fr [uncertain: der] and about 200 Rthl; the money I have borrowed from the Privy Senior Auditing Councillor Mathias, who must have it back within 14 days. May Your Most Serene Highness be called upon indeed to issue an order for this money with all speed, so that I may still repay it during my presence here – I had hoped myself to receive much money here, but unfortunately shall not get a Groschen before the coming Johanni. Tomorrow morning I shall learn much in Your Serene Highness's other affair, and shall report it most humbly with the next post. In deepest reverence I remain, until death, Your Most Serene Highness's NB. instead of 14175 and 1500 Berlin, the 7th February 1801. faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nThe business concerning the instruments touching all the ecclesiastical estates I believe to have settled to the satisfaction of Your Most Serene Highness, and should my stay here now be drawn out at length, I shall send the same off to Breslau by the earliest post. For the rest, I confess that the first entrée into this matter moved my heart greatly, for they were claiming a further 2½ times as much as for the first, because the value had been so stated in the first ministerial report. [uncertain: Jagt] however I pay only 240 Fr and some 200 Rthl; the money I have borrowed from the Privy Senior Auditing Councillor Mathias, who must have it back within 14 days. May Your Most Serene Highness be pleased to order payment of this money at the earliest, so that I may hand it over again while I am still here — I had hoped myself to receive much money here, but unhappily shall not get a Groschen before next Midsummer. Tomorrow morning I shall learn much in Your Serene Highness's other matter and shall most humbly report it by the next post. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nNB. instead of 14175 and 1500\n\nBerlin, the 7th of February 1801.\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports that the business of the deeds for all the ecclesiastical estates is settled to the Prince's satisfaction, the documents to be sent to Breslau by the earliest post. The initial demand was 2½ times the first sum, owing to the valuation given in the Ministerial report, but only 240 Fr and some 200 Rthl were paid, borrowed from Privy Senior Auditing Councillor Mathias and repayable within 14 days; Triebenfeld urges an immediate order for the money, expecting no receipts before Johanni, and promises news of the Prince's other affair by the next post.",
  "summary_de": "Bericht über die Erledigung der Urkundensache zu den geistlichen Gütern; die Dokumente sollen bei längerem Aufenthalt mit erster Post nach Breslau abgehen. Anfangs seien wegen der im ersten Ministerialbericht angegebenen Werte 2½fache Gebühren verlangt worden, nun aber nur 240 Fr und etwa 200 Rthl zu zahlen; das Geld habe Triebenfeld beim Geheimen Oberrevisionsrath Mathias geliehen, der es binnen 14 Tagen zurückfordert. Bitte um eiligen Zahlungsbefehl, da eigene Einnahmen erst zu Johanni erfolgen; über die andere Angelegenheit folge Nachricht mit nächster Post."
 }

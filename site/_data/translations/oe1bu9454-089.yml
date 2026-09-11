@@ -1,106 +1,300 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! The exchange transaction will, as I hold myself firmly
-    convinced, certainly be brought to a conclusion to Your Most Serene Highness''s satisfaction. The
-    enclosed letter of the honest Glenck contains the Copy of the writing to the King, and one to Noch:
-    To B and Z the same writings have been delivered, which comprise this whole matter in themselves,
-    but which, for the sake of the modality and of good order, are always put in other words. According
-    to the utterance of Mr. p B, the Minister v. Struensee might well now be called upon to give his candid
-    judgement upon the whole affair, and this comes out as follows: That Krotoszyn and Polajewo can never
-    yield more than 50 Rthl, that Mr. v Voss would be willing to grant this, and that the present tenants
-    cannot furnish so much either, but are in arrears by many thousands. From this declaration it will
-    not be [text continues]'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    The exchange transaction will, as I hold myself firmly convinced, certainly be brought to a conclusion
+    to Your Most Serene Highness''s satisfaction. The enclosed letter of the honest Glenck contains the
+    Copy of the letter to the King, and one to Noch: To B and Z like letters have been delivered which
+    comprise this whole matter, but for the sake of form and order are always put in other words. According
+    to the utterance of Mr. p B, the Minister von Struensee might well now be called upon to give his
+    candid judgement upon the whole affair, and this turns out thus: That Krotoszyn and Polajewo can never
+    bring more than 50 Rthl, that Mr. von Voss wished to grant this, and that the present tenants cannot
+    render such either, but are in arrears by many thousands. From this declaration it will not be'
+  names:
+  - de: Glencks
+    en: Glenck
+    kind: person
+  - de: König
+    en: King
+    kind: other
+  - de: Noch
+    en: Noch
+    kind: person
+  - de: B
+    en: B
+    kind: person
+  - de: Z
+    en: Z
+    kind: person
+  - de: H. p B
+    en: Mr. p B
+    kind: person
+  - de: Minister v. Struensee
+    en: Minister von Struensee
+    kind: person
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Polajewo
+    en: Polajewo
+    kind: place
+  - de: H v Voss
+    en: Mr. von Voss
+    kind: person
+  numbers:
+  - '50'
 - page: 2
-  en: not be difficult for Your Most Serene Highness to draw the conclusion. — I wish for myself that
-    the thread of guidance I have taken up in this affair may receive Your Most Serene Highness's approbation.
-    — My chief plan was to make the assault at once from the side of honour, so that the quill-heroes,
-    who have no proper conception of it, should fall into all the greater disorder. — Men of head and
-    heart approve it; Heaven grant that Your Serene Highness may also approve it. The error on the side
-    of Mr. p v. Voss is very great, and it should not be difficult, with the batteries laid, to shoot
-    his follies full of holes, so that one may press in upon him and set the ravings of his Nöldichen
-    in the light of day. In general my plan is that the King should absolutely appoint a Commissarius,
-    or else determine the matter decisively at once and assure Your Serene Highness of the estates in
-    such a manner that the affair be settled according to equal yield and value.
+  en: 'difficult for Your Most Serene Highness to draw the conclusion - I only wish that the thread of
+    argument I have taken up in this matter may meet with Your Most Serene Highness''s approval - My chief
+    plan was to make the attack at once from the side of honour, so that the quill-pen heroes, who have
+    no proper conception of it, should be thrown into all the greater disorder – Men of head and heart
+    approve it; Heaven grant that Your Serene Highness may approve it also. The error on the part of Mr.
+    p von Voss is very great, and it should not be difficult, given the batteries laid in place, to shoot
+    his follies full of holes, so that one may press into them and bring the ravings of his Nöldichen
+    to light.
+
+
+    In general my plan is that the King shall absolutely appoint a commissary, or else determine the matter
+    decisively at once and grant Your Serene Highness the estates in such manner that the affair be settled
+    according to equal yield and value.'
+  names:
+  - de: H. p v. Voss
+    en: Mr. p von Voss
+    kind: person
+  - de: Nöldichens
+    en: Nöldichen
+    kind: person
+  - de: König
+    en: King
+    kind: other
 - page: 3
-  en: 'The manner of handling and the execution of my idea is then, firstly, in respect of Your Serene
-    Highness''s estates. Of these Glenck is general tenant (for he must for the present remain in play
-    there, so that he may carry the matters through at the estates, since otherwise other spirits would
-    make botchery of it and could cause Your Serene Highness cost and vexation). Glenck has a 9-year lease
-    contract and pays annually, inclusive of the ascertained forest revenue, 44500 Rthl; all sub-tenancies
-    depend upon him, he has the liberty to speak, to dismember, and, as concerns the [uncertain: profit]
-    of the estates, to do and to leave undone freely as he will. To this end he has, with his associates,
-    made a security of 10000 Rthl. — Next to this, Your Serene Highness has paid him the first sums, for
-    the putting of the estates into condition and other things etc., with 64000 successively, and has
-    also assigned him funds for the settlement of what still lies upon the proprietors Broniewski and
-    Trąpczynski — of which Your Highness has his receipts, and need trouble Yourself no further as to
-    how'
+  en: 'The manner of handling and the execution of my idea is then, firstly, with respect to Your Serene
+    Highness''s estates. Of these Glenck is general lessee (for he must for the present remain in play
+    there, so that he may carry the business through at the estates, since otherwise other spirits would
+    make [uncertain: Bäbe bereien] and could cause Your Serene Highness cost and vexation.
+
+
+    Glenck has a 9-year lease contract and pays annually, inclusive of the forest revenue ascertained,
+    44500 Rthl; all sub-leases depend upon him, he has the liberty to [uncertain: reden] to dismember,
+    and as regards the [uncertain: Nuppen] of the estates, to do and to leave undone freely what he will.
+    To this end he has, with his associates, furnished a security of 10000 Rthl — next to this, Your Serene
+    Highness has paid him the former sums for the putting of the estates in order and other things etc.,
+    64000 successively, and has also assigned him funds for the settlement of what still lies upon the
+    possessors Broniewski and Trąpczynski - concerning which Your Highness holds his receipts, and need
+    trouble yourself no further as to how'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Gleich
+    en: Glenck
+    kind: person
+  - de: Broniewski
+    en: Broniewski
+    kind: person
+  - de: Trąpczynski
+    en: Trąpczynski
+    kind: person
+  numbers:
+  - '9'
+  - '44500'
+  - '10000'
+  - '64000'
 - page: 4
   en: 'he has applied and employed this or that. With this contract, with the receipts, Your Serene Highness
-    comes forward, hands these over, gives warranty of title for them, and has nothing further to do than
-    to look with pity upon the quill-heroes when they gnaw their nails for fear. As regards the Krotoszyn
-    estates: here Mr. v. Voss''s favourite says — for he himself does not appear at the end — Krotoszyn
-    is to yield 49000 Rthl; the lease contract indeed states only 30000 Rthl, and the valuations only
-    23–25 and 27000 Rthl; nevertheless one knows that it did yield 49000 Rthl. To this it is answered:
-    whereby is this to be proved? For the declaration of Minister v Struensee states only the highest
-    figure, which would be founded upon Mr. v. Voss''s manifold results, at 27 or 30 Rthl. Then the Nöldichen
-    answers: here I have the accounts of the rent-master Schmudels, who kept them in the time of the Triebenfeld
-    administration; these state so much or less, and the remainder one thinks to make up by way of improvements.'
+    comes forward, hands these over, furnishes the warranty of title thereupon, and has nothing further
+    to do than to look with pity upon the quill-pen heroes when for fear they gnaw at their nails. As
+    regards the Krotoszyn estates. Here Mr. von Voss''s favourite says / for he himself does not appear
+    at the end / Krotoszyn is to bring 49000 Rthl; the lease contract indeed states only 30000 Rthl, and
+    the valuations only 23–25 and 27000 Rthl, yet it is known that it did bring 49000 Rthl. To this it
+    is answered, whereby is this to be proved? For the declaration of Minister von Struensee states only
+    the highest figure, which would be founded upon Mr. von Voss''s manifold results, at 27 or 30 Rthl;
+    then the Nöldichen answers: Here I have the accounts of the rent-master Schmudel, who kept them at
+    the time of the Triebenfeld administration; these state so much or less, the remainder one thinks
+    to make up by improvements.'
+  names:
+  - de: H. v. Voss
+    en: Mr. von Voss
+    kind: person
+  - de: Krotoszyner
+    en: Krotoszyn
+    kind: place
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Minister v Struensee
+    en: Minister von Struensee
+    kind: person
+  - de: Nöldiche
+    en: Nöldichen
+    kind: person
+  - de: Rentmeister Schmudels
+    en: rent-master Schmudel
+    kind: person
+  - de: Triebenfeldschen
+    en: Triebenfeld
+    kind: person
+  numbers:
+  - '49000'
+  - '30000'
+  - '23'
+  - '25'
+  - '27000'
+  - '49000'
+  - '27'
+  - '30'
 - page: 5
-  en: 'Then Your Serene Highness''s plenipotentiary demands that T. too might be questioned. T. appears
-    and asks [uncertain: Zwonie] what is wished. The talk is then of the revenues received from Krotoszyn.
-    — They say these amounted to 40 or 50 Rthl. — He answers that it was quite possible; he had applied
-    himself to it with a glowing zeal, to contrive large and great receipts at his rent-treasury; in this
-    he had constantly expressed the ardent wish that such should be trumpeted abroad as far as possible,
-    in order to find someone who might thereafter covet the lease of Krotoszyn and take it off his hands.
-    — Many and great expenditures, on the other hand, he had defrayed in silence, letting his cashier
-    know nothing of it, so that the latter, without coming too near his already troubled conscience, might
-    be able to assure every curious person of a great revenue. — For at bottom he had never, as tenant,
-    had cause to give account or to answer to anyone concerning gain or loss. — In every respect his plan
-    had succeeded for him:'
-- page: 6
-  en: 'he had got someone who not only wished himself into his [uncertain: place], but who moreover gave
-    him a sum for withdrawal, and who, if the contract were prolonged for him, would in the last years
-    pay the King some 5000 and more annually. — This the King himself approved by cabinet order, likewise
-    accepted estates from the new tenant in lieu of payment, had the sum for withdrawal paid to T. in
-    advance and afterwards recovered from the estates. For the rest, however, he, T., if one called upon
-    him to speak upon his duty and honour, must assure them that it would be hard for anyone to render
-    up the lease raised by him to 35 m. This is proved too by the condition of the present tenant, for
-    he gives only 30000 in cash and yet remains constantly in arrear by large sums. The sub-tenants set
-    up by him could not maintain themselves either — for he, T., when he engaged them at the high rents,
-    had thereby constantly sought to lighten the discharge of the'
-- page: 7
-  en: 'lease, in that he took all their produce off their hands again in return for the rent they delivered
-    to the treasury, paying for grain, cattle etc. at prices twice as high as they really stood, without
-    letting it become known; and purely on that ground everyone had been content, and his business had
-    thereby received the most brilliant varnish. For the rest, the result remained: Nöldichen is a wretched
-    official who, upon the hearsay of wretched men, so conducted his [uncertain: cause] that he had to
-    tell the King lies. The result of the whole then follows of itself. I have wished to set this down
-    for Your Most Serene Highness''s high perusal and for Your Highness''s own reassurance, so that Your
-    Serene Highness may see quite through the matter; for as it seems to me Your Highness believes that
-    I might be got at on account of Krotoszyn, and that I had perhaps even laid that plan before Your
-    Highness with the intention of slipping through by it. Before God, this is never the case, and never
-    can be. — I have always dealt honestly toward every good man; consequently I could least of all do
-    otherwise toward my Princely patron. — It was the purest and most upright intention, and Heaven will
-    crown the end. Minister Ge Schulenburg has assured the Princess [uncertain: Sacken] that Your Serene
-    Highness could obtain the estates of both kinds,'
-- page: 8
-  en: 'only Your Highness would have to pay as much as should be brought out at the investigation of the
-    Krotoszyn and Polajewo estates and of Your Serene Highness''s estates. — Against that nothing can
-    be said, and it comes only to a proper conduct. Concerning the money negotiation, the Princess Durchl.
-    writes today to Mr. p Nising. — The Princess neither can nor will by any means give more than 30000
-    Rthl. — Nising is to draw up the instruments and to alter therein only some trifle according to the
-    form sent hither, and then the money is to lie ready here at once. — Now it turns still upon about
-    7000 Rthl. — I do not know whence these are to be taken. — I give myself every possible trouble. —
-    God knows whether I shall succeed in it. From the Princes I obtain nothing more at all; Her Serene
-    Highness assures me she would gladly do it, only she could not now, for shortness of time, find further
-    means. If tomorrow I sell my Schwinersche oaks, then I give [text lost]; but if this does not go forward,
-    it will be hard to find means here. — I shall indeed put forth everything; perhaps it will yet go.
-    — Meanwhile let Your Most Serene Highness also make provision there. In deepest reverence I remain,
-    until death, Your Most Serene Highness''s
+  en: 'Then Your Serene Highness''s authorised representative demands that T. might also be questioned.
 
-    Berlin[?] the 12th of Xbr 1798.
+
+    T. appears and asks [uncertain: wirt Zwonie] what is desired. The talk is then of the revenues received
+    from Krotoszyn - It is said that these amounted to 40 or 50 Rthl - He answers that it might well be
+    so. He had applied himself with a glowing zeal to arrange large and great receipts at his rent-office
+    - he had thereby always expressed the ardent wish that such might be trumpeted abroad as far as possible,
+    in order to find someone who should thereafter have an appetite for the lease of Krotoszyn and might
+    take it off his hands - many and great expenditures he had, on the other hand, met in silence, letting
+    his [uncertain: Cassini] know nothing of them, so that this man, without coming too near to his already
+    troubled conscience, might be able to assure every curious enquirer of a great receipt – for at bottom
+    he had, as lessee, never had cause to give anyone information, or to answer, concerning gain or loss
+    - [uncertain: Jedes] his plan had succeeded for him;'
+  names:
+  - de: T
+    en: T.
+    kind: person
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  numbers:
+  - '40'
+  - '50'
+- page: 6
+  en: 'he had obtained someone who not only wished himself into his [uncertain: Plappe], but moreover
+    gave him a sum for standing aside, and who, if the contract were prolonged, would in the latter years
+    pay the King some 5000
+
+
+    etc. more - this the King himself had approved by cabinet order, had likewise accepted estates in
+    place of payment from the new lessee, had the sum for standing aside paid out to T. in advance, and
+    afterwards had it drawn in again from the estates.
+
+
+    For the rest, however, he, T., must - if he were called upon to speak upon his duty and honour - assure
+    them that it must come hard to anyone to render the lease raised by him to as much as 35 thousand.
+    This was proved also by the condition of the present lessee, for he gave only 30000 etc. in cash,
+    yet he always remained behind by large sums.
+
+
+    The sub-lessees engaged by him, moreover, could not maintain themselves either - for he, T., when
+    he engaged them at the high rents, had thereby always sought to ease for them the discharge of the'
+  names:
+  - de: König
+    en: King
+    kind: other
+  - de: T
+    en: T.
+    kind: person
+  numbers:
+  - '5000'
+  - '35'
+  - '30000'
+- page: 7
+  en: 'lease, in that he took back from them all their produce in return for the lease they rendered at
+    the [uncertain: Caesen], paying for grain, cattle etc. at prices once again as high as those they
+    actually stood at, without letting it be noised abroad; and merely on this ground had every one of
+    them been satisfied, and his business had thereby acquired the most brilliant gloss. For the rest
+    the result would remain - that Nöldichen is a wretched official who, upon the hearsay of wretched
+    men, has so conducted his [uncertain: Chase] that he has had to tell the King lies. The result of
+    the whole then follows of itself. This I have wished to set down for Your Most Serene Highness''s
+    high insight and for Your Highness''s reassurance, so that Your Serene Highness may see quite through
+    the matter. For as it seems to me, Your Highness believes that I might be got at on account of Krotoszyn,
+    and that I had perhaps even laid that plan before Your Highness with the thought of slipping through
+    by means of it - By God, this is never the case, and can never be – I have always acted uprightly
+    toward every good man, consequently I could least of all do otherwise toward my princely patron –
+    It was the purest and most sincere intention, and Heaven will crown the end. The Minister Count Schulenburg
+    has assured the Princess, Her Serene Highness, that Your Serene Highness could obtain the estates
+    of both kinds,'
+  names:
+  - de: Nöldichen
+    en: Nöldichen
+    kind: person
+  - de: König
+    en: King
+    kind: other
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Minister Ge Schulenburg
+    en: Minister Count Schulenburg
+    kind: person
+  - de: Fürstin
+    en: Princess
+    kind: person
+- page: 8
+  en: 'only Your Highness would have to pay as much as should be brought out upon the investigation of
+    the Krotoszyn and Polajewo estates and of Your Serene Highness''s estates – against this nothing can
+    be said, and everything depends merely upon an orderly conduct.
+
+
+    Regarding the money negotiation, the Princess, Her Serene Highness, writes today to Mr. Nising - the
+    Princess neither can nor will by any means give more than 30000 Rthl - Nising is to draw up the instruments
+    and to alter in them only a very little according to the formulary sent in here, and then the money
+    shall lie ready here at once – Now it still stands at about 7000 Rthl – I do not know where these
+    are to be got - I am taking every possible pains - God knows where I shall have luck with it. From
+    the Prince I receive nothing more at all; Her Serene Highness assures me she would gladly do it, only
+    she could not now, in the shortness of the time, find further means. If I sell my Schwiner oaks tomorrow,
+    then I shall give; but if this does not go forward, it will be hard to find means here – I shall indeed
+    bid everything up; perhaps it will yet go – meanwhile let Your Most Serene Highness also make provision
+    there.
+
+
+    In deepest respect I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    Berlin[illegible] the 12th of December 1798.
+
 
     faithful, humble and obedient servant
 
-    v Triebenfeld'
+
+    von Triebenfeld'
+  names:
+  - de: Krotoszyner
+    en: Krotoszyn
+    kind: place
+  - de: Polajewer
+    en: Polajewo
+    kind: place
+  - de: Fürstin
+    en: Princess
+    kind: person
+  - de: p Nising
+    en: Mr. Nising
+    kind: person
+  - de: Nising
+    en: Nising
+    kind: person
+  - de: Fürsten
+    en: Prince
+    kind: person
+  - de: Schwinersche
+    en: Schwiner
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '30000'
+  - '7000'
+  - '12'
+  - '1798'

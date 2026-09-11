@@ -268,24 +268,429 @@
    "doc_line": 67
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorffsche",
+   "surface_en": "Knobelsdorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hainen",
+   "kind": "person",
+   "surface_de": "Hainen",
+   "surface_en": "Hainen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Knobelse",
+   "kind": "person",
+   "surface_de": "dH. v Knobelse",
+   "surface_en": "Mr. von Knobelse",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schweinern",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Schweinern",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wiener",
+   "kind": "person",
+   "surface_de": "Wiener",
+   "surface_en": "Wiener",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schiller",
+   "kind": "person",
+   "surface_de": "Schiller",
+   "surface_en": "Schiller",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tismar",
+   "kind": "person",
+   "surface_de": "Tismar",
+   "surface_en": "Tismar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Eberhardt",
+   "kind": "person",
+   "surface_de": "H. p Eberhardt",
+   "surface_en": "Mr. von Eberhardt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lausch",
+   "kind": "place",
+   "surface_de": "Lauſch",
+   "surface_en": "Lausch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Strachnitz",
+   "kind": "place",
+   "surface_de": "Strachnitz",
+   "surface_en": "Strachnitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Strachard",
+   "kind": "person",
+   "surface_de": "Strachard",
+   "surface_en": "Strachard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Fischbach",
+   "kind": "person",
+   "surface_de": "Fischbach",
+   "surface_en": "Fischbach",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Knobelsdorff",
+   "kind": "person",
+   "surface_de": "v Knobelsdorff",
+   "surface_en": "von Knobelsdorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohl",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimerscher",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Seher Thos",
+   "kind": "person",
+   "surface_de": "Seher Thos",
+   "surface_en": "Seher Thos",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorffschen",
+   "surface_en": "Knobelsdorff",
+   "page": 3
+  },
+  {
+   "entity": "knobelsdorff",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorff",
+   "surface_en": "Knobelsdorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawen Schul",
+   "surface_en": "Schlawenschitz",
+   "page": 3
+  }
+ ],
  "place_canonical": "Schweinern",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord!\n\nTo Your Most Serene Highness I transmit herewith enclosed the Exposée which I gave to Herr Weigel; he lives and breathes in this affair, and declares that he means the Knobelsdorff estates. I shall now further set matters in train with Hainen as well, so that he too may be brought into tune and give his fiat to everything - I believe, however, that Weigel will this time act without him; meanwhile it is well when every stone of stumbling is cleared out of the way. My endeavour is now directed only at scraping together 500 Rthl, so as to depart on the 11th of this month for Zagorowo and to order everything there in such a way as to be able to lay the matter open and blameless before Herr v Knobelsdorff there [uncertain: mitem]. Concerning Schweinern I am in negotiation with the merchant Wiener as also with the merchant Schiller - Tismar writes from Berlin very mystically - He says one would surely be satisfied - at bottom this is nothing but empty noise. May God only give blessing and prosperity to my plans, for then Your Serene Highness may laugh at all the fools along with me. My deepest reverence to Your children. Eternally, however, Your Most Serene Highness's\n\nSchweinern, the 2nd of August 1810\n\ntrue and most humble and obedient servant\nv Triebenfeld"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nTo Your Most Serene Highness I transmit herewith the exposé which I have given to Mr. Weigel; he lives and breathes in this affair, and declares that he means the Knobelsdorff estates. I shall now set the further steps in motion with Hainen as well, so that he too may be brought round to give his fiat to everything — I believe, however, that Weigel will this time act without him; in the meanwhile it is well if every stone of offence is cleared out of the way. My endeavour is now directed only to scraping together 500 Rthl, in order to set out on the 11th of this month for Zagorowo and there to arrange everything so that the affair may be laid open and blameless before [uncertain: mitem] at Mr. von Knobelse's place.\n\nConcerning Schweinern I am in negotiation with the merchant Wiener as also with the merchant Schiller — Tismar writes very mystically from Berlin – He says one would certainly be satisfied — at bottom this is nothing but empty noise. May God only grant blessing and prosperity to my plans, and then Your Serene Highness may laugh at all the fools along with me. My deepest reverence to your children. Ever, however, Your Most Serene Highness's\n\nSchweinern, the 2nd of August.\n\n1810\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Knobelsdorffsche",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Hainen",
+     "en": "Hainen",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "dH. v Knobelse",
+     "en": "Mr. von Knobelse",
+     "kind": "person"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Schweinern",
+     "kind": "place"
+    },
+    {
+     "de": "Wiener",
+     "en": "Wiener",
+     "kind": "person"
+    },
+    {
+     "de": "Schiller",
+     "en": "Schiller",
+     "kind": "person"
+    },
+    {
+     "de": "Tismar",
+     "en": "Tismar",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "500",
+    "11",
+    "2",
+    "1810"
+   ]
   },
   {
    "page": 2,
-   "en": "As Herr p Eberhardt assures me, there is likewise not one true little word in the matter of the Jewishly praised estates Lausch with Strachnitz. Strachard likewise does not know a syllable of it. Some time ago Fischbach gave me the accompanying assessments of estates which belong to a certain v Knobelsdorff, who wishes to exchange them against Polish estates. The thick assessments appear to be self-made, but the small ones to have been extracted by Fischbach from the Landschaft assessment. Fischbach says Knobelsdorff will let the estates stand for 70000 Rthl of debts, upon them\n\n255000 Rthl mortgage bonds\n135000 Rthl private debts\nthis amounts to 390000 Rthl\nremains to the good 310000 Rthl\n\nThe Zagorowo estates are said to yield circa 27000 Rthl, which would be at a value of 540000 f., upon which stand debts\n1. the Invalids' Fund 50000 Rthl\n2. the Oppenheimer debt together with arrears of interest 115000.\n3. Weigel 50000.\n4. Seher Thos 8000.\n5. Onera perpetua circa 1200 Rthl, good capital — 24000.\nmakes capital 247000 Rthl\nremains good in value 293000 Rthl\n\nThe Knobelsdorff estates would therefore [uncertain: show] a higher value of 17000 Rthl. Fischbach offers himself to bring about this exchange of estates, if it be conducive to Your Serene Highness's interest. For his trouble he demands 1 1/2 per cent.\n\nMay it please Your Serene Highness to issue commands by this express, whether Fischbach is to come with Knobelsdorff to Schlawenschitz.\n\nv Triebenfeld\n\nI note further overleaf"
+   "en": "As Mr. von Eberhardt assures me, there is likewise not one true little word in the Jewishly praised estates Lausch with Strachnitz. Strachard too does not know a syllable of it. Some time ago Fischbach gave me the enclosed valuations of estates belonging to a certain von Knobelsdorff, who wishes to exchange them against Polish estates. The large figures appear to have been made up by himself, the small ones however to have been extracted by Fischbach from the Landschaft valuation. Fischbach says Knobelsdorff is leaving the estates standing with 70000 Rthl of debts, upon them 255000 Rthl in mortgage bonds, 135000 Rthl in private debts; this amounts to 390000 Rthl\n\nthere remains to the good.\n\n310000 Rthl The Zagorowo estates are said to yield about 27000 Rthl, which would be at a value of\n\n540000 f.\n\nupon them stand debts\n\n1 the Invalids' Fund\n\n50000 Rthl\n\n2. the Oppenheimer debt together with arrears of interest 115000.\n\n3. Weigel 50000.\n\n4. Seher Thos 8000.\n\n5. Onera perpetua about 1200 Rthl, capitalised — 24000.\n\nmakes in capital 247000 Rthl, there remains good in value 293000 Rthl. The Knobelsdorff estates would thus show a higher value of 17000 Rthl. Fischbach offers to bring about this exchange of estates, if it is conducive to Your Serene Highness's interest. For his trouble he asks 1 1/2 per cent. May it please Your Serene Highness to issue by this express the commands whether Fischbach should come with Knobelsdorff to Schlawenschitz. v. Triebenfeld I further note overleaf",
+   "names": [
+    {
+     "de": "H. p Eberhardt",
+     "en": "Mr. von Eberhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Lauſch",
+     "en": "Lausch",
+     "kind": "place"
+    },
+    {
+     "de": "Strachnitz",
+     "en": "Strachnitz",
+     "kind": "place"
+    },
+    {
+     "de": "Strachard",
+     "en": "Strachard",
+     "kind": "person"
+    },
+    {
+     "de": "Fischbach",
+     "en": "Fischbach",
+     "kind": "person"
+    },
+    {
+     "de": "v Knobelsdorff",
+     "en": "von Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Pohl",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Oppenheimerscher",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Seher Thos",
+     "en": "Seher Thos",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "70000",
+    "255000",
+    "135000",
+    "390000",
+    "310000",
+    "27000",
+    "540000",
+    "1",
+    "50000",
+    "2.",
+    "115000",
+    "3.",
+    "50000",
+    "4.",
+    "8000",
+    "5.",
+    "1200",
+    "24000",
+    "247000",
+    "293000",
+    "17000",
+    "1 1/2"
+   ]
   },
   {
    "page": 3,
-   "en": "the 17000 Rthl by which the Knobelsdorff estates are worth more will be covered by the outstanding arrears, as also by the [uncertain: occasional] shortfalls in the 27000 Rthl of revenues which may be expected to occur in these bad times. Perhaps Knobelsdorff will then also take on the Trąbczyn estates with the debts standing upon them, as well as the other debts besides, and himself carry the lawsuit through to the end.\n\nBut may Your Serene Highness deign to state Your opinion thoroughly upon everything, so that I may [uncertain: calmly] give the people their answer and direct them to Schlawenschitz - Otherwise I might again be saddled by the most highly trusted one with a new [uncertain: former] title."
+   "en": "the 17000 Rthl by which the Knobelsdorff estates are worth more will be covered by the outstanding arrears, as also by the [uncertain: seasonal] shortfalls in the 27000 Rthl of revenues which in these bad times may be expected. Perhaps Knobelsdorff will then also take the Trąbczyn estates with the debts standing upon them, as also such others as there are, and carry the lawsuit through to its end himself. But may it please Your Serene Highness to state your opinion on everything thoroughly, so that I may [uncertain: calmly] instruct the people and direct them to Schlawenschitz — otherwise I might again be saddled by the most highly trusted with some new honorary title.",
+   "names": [
+    {
+     "de": "Knobelsdorffschen",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Knobelsdorff",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawen Schul",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "17000",
+    "27000"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord!\n\nTo Your Most Serene Highness I transmit herewith enclosed the Exposée which I gave to Herr Weigel; he lives and breathes in this affair, and declares that he means the Knobelsdorff estates. I shall now further set matters in train with Hainen as well, so that he too may be brought into tune and give his fiat to everything - I believe, however, that Weigel will this time act without him; meanwhile it is well when every stone of stumbling is cleared out of the way. My endeavour is now directed only at scraping together 500 Rthl, so as to depart on the 11th of this month for Zagorowo and to order everything there in such a way as to be able to lay the matter open and blameless before Herr v Knobelsdorff there [uncertain: mitem]. Concerning Schweinern I am in negotiation with the merchant Wiener as also with the merchant Schiller - Tismar writes from Berlin very mystically - He says one would surely be satisfied - at bottom this is nothing but empty noise. May God only give blessing and prosperity to my plans, for then Your Serene Highness may laugh at all the fools along with me. My deepest reverence to Your children. Eternally, however, Your Most Serene Highness's\n\nSchweinern, the 2nd of August 1810\n\ntrue and most humble and obedient servant\nv Triebenfeld\n\nAs Herr p Eberhardt assures me, there is likewise not one true little word in the matter of the Jewishly praised estates Lausch with Strachnitz. Strachard likewise does not know a syllable of it. Some time ago Fischbach gave me the accompanying assessments of estates which belong to a certain v Knobelsdorff, who wishes to exchange them against Polish estates. The thick assessments appear to be self-made, but the small ones to have been extracted by Fischbach from the Landschaft assessment. Fischbach says Knobelsdorff will let the estates stand for 70000 Rthl of debts, upon them\n\n255000 Rthl mortgage bonds\n135000 Rthl private debts\nthis amounts to 390000 Rthl\nremains to the good 310000 Rthl\n\nThe Zagorowo estates are said to yield circa 27000 Rthl, which would be at a value of 540000 f., upon which stand debts\n1. the Invalids' Fund 50000 Rthl\n2. the Oppenheimer debt together with arrears of interest 115000.\n3. Weigel 50000.\n4. Seher Thos 8000.\n5. Onera perpetua circa 1200 Rthl, good capital — 24000.\nmakes capital 247000 Rthl\nremains good in value 293000 Rthl\n\nThe Knobelsdorff estates would therefore [uncertain: show] a higher value of 17000 Rthl. Fischbach offers himself to bring about this exchange of estates, if it be conducive to Your Serene Highness's interest. For his trouble he demands 1 1/2 per cent.\n\nMay it please Your Serene Highness to issue commands by this express, whether Fischbach is to come with Knobelsdorff to Schlawenschitz.\n\nv Triebenfeld\n\nI note further overleaf\n\nthe 17000 Rthl by which the Knobelsdorff estates are worth more will be covered by the outstanding arrears, as also by the [uncertain: occasional] shortfalls in the 27000 Rthl of revenues which may be expected to occur in these bad times. Perhaps Knobelsdorff will then also take on the Trąbczyn estates with the debts standing upon them, as well as the other debts besides, and himself carry the lawsuit through to the end.\n\nBut may Your Serene Highness deign to state Your opinion thoroughly upon everything, so that I may [uncertain: calmly] give the people their answer and direct them to Schlawenschitz - Otherwise I might again be saddled by the most highly trusted one with a new [uncertain: former] title.",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nTo Your Most Serene Highness I transmit herewith the exposé which I have given to Mr. Weigel; he lives and breathes in this affair, and declares that he means the Knobelsdorff estates. I shall now set the further steps in motion with Hainen as well, so that he too may be brought round to give his fiat to everything — I believe, however, that Weigel will this time act without him; in the meanwhile it is well if every stone of offence is cleared out of the way. My endeavour is now directed only to scraping together 500 Rthl, in order to set out on the 11th of this month for Zagorowo and there to arrange everything so that the affair may be laid open and blameless before [uncertain: mitem] at Mr. von Knobelse's place.\n\nConcerning Schweinern I am in negotiation with the merchant Wiener as also with the merchant Schiller — Tismar writes very mystically from Berlin – He says one would certainly be satisfied — at bottom this is nothing but empty noise. May God only grant blessing and prosperity to my plans, and then Your Serene Highness may laugh at all the fools along with me. My deepest reverence to your children. Ever, however, Your Most Serene Highness's\n\nSchweinern, the 2nd of August.\n\n1810\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld\n\nAs Mr. von Eberhardt assures me, there is likewise not one true little word in the Jewishly praised estates Lausch with Strachnitz. Strachard too does not know a syllable of it. Some time ago Fischbach gave me the enclosed valuations of estates belonging to a certain von Knobelsdorff, who wishes to exchange them against Polish estates. The large figures appear to have been made up by himself, the small ones however to have been extracted by Fischbach from the Landschaft valuation. Fischbach says Knobelsdorff is leaving the estates standing with 70000 Rthl of debts, upon them 255000 Rthl in mortgage bonds, 135000 Rthl in private debts; this amounts to 390000 Rthl\n\nthere remains to the good.\n\n310000 Rthl The Zagorowo estates are said to yield about 27000 Rthl, which would be at a value of\n\n540000 f.\n\nupon them stand debts\n\n1 the Invalids' Fund\n\n50000 Rthl\n\n2. the Oppenheimer debt together with arrears of interest 115000.\n\n3. Weigel 50000.\n\n4. Seher Thos 8000.\n\n5. Onera perpetua about 1200 Rthl, capitalised — 24000.\n\nmakes in capital 247000 Rthl, there remains good in value 293000 Rthl. The Knobelsdorff estates would thus show a higher value of 17000 Rthl. Fischbach offers to bring about this exchange of estates, if it is conducive to Your Serene Highness's interest. For his trouble he asks 1 1/2 per cent. May it please Your Serene Highness to issue by this express the commands whether Fischbach should come with Knobelsdorff to Schlawenschitz. v. Triebenfeld I further note overleaf\n\nthe 17000 Rthl by which the Knobelsdorff estates are worth more will be covered by the outstanding arrears, as also by the [uncertain: seasonal] shortfalls in the 27000 Rthl of revenues which in these bad times may be expected. Perhaps Knobelsdorff will then also take the Trąbczyn estates with the debts standing upon them, as also such others as there are, and carry the lawsuit through to its end himself. But may it please Your Serene Highness to state your opinion on everything thoroughly, so that I may [uncertain: calmly] instruct the people and direct them to Schlawenschitz — otherwise I might again be saddled by the most highly trusted with some new honorary title.",
  "summary_en": "Encloses the Exposée given to Weigel, who is engrossed in the affair and means the Knobelsdorff estates; Hainen is to be brought round, though Weigel may act without him. Triebenfeld is scraping together 500 Rthl to leave on the 11th for Zagorowo, and negotiates over Schweinern with the merchants Wiener and Schiller; Tismar writes mystically from Berlin. Fischbach's figures compare Knobelsdorff's estates (390,000 Rthl debts, 310,000 clear) with Zagorowo (247,000 debts, 293,000 clear), proposing an exchange for 1½ per cent; asks whether Fischbach and Knobelsdorff should come to Schlawenschitz, Trąbczyn possibly included.",
  "summary_de": "Übersendung des Weigel überreichten Exposée; Weigel meine die Knobelsdorffschen Güter und werde diesmal wohl ohne Hainen handeln. Triebenfeld sucht 500 Rthl zusammenzubringen, um am 11. nach Zagorowo zu reisen; wegen Schweinern verhandelt er mit den Kaufleuten Wiener und Schiller, Tismar schreibe aus Berlin nur mystisch. Nach Eberhardt und Strachard sei an den Gütern Lausch mit Strachnitz nichts. Fischbach bietet gegen 1 1/2 Prozent einen Gütertausch: Knobelsdorffs Güter (390000 Rthl Schulden, 310000 Rthl Rest) gegen Zagorowo (247000 Rthl Schulden, 293000 Rthl Rest), eventuell samt Trąbczyn; Anfrage, ob Fischbach und Knobelsdorff nach Schlawenschitz kommen sollen."
 }

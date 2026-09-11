@@ -1,14 +1,46 @@
 status: draft
 segments:
 - page: 1
-  en: 'Right Honourable and highly revered Sir and Friend! Some weeks ago I was in Kalisch on account
-    of my own business, where I at the same time hoped to see and to speak with you, my esteemed friend,
-    in that place, which pleasure however I had to forgo; nor could I learn with certainty the place of
-    your present sojourn, otherwise I should have paid you my visit; but since I nevertheless very much
-    wished to confer and take counsel with you concerning the affairs between [uncertain: Johann] Prince
-    v. Hohenlohe and myself, I would herewith politely beg you only to be so good as to appoint a day
-    on which I might have the pleasure of finding you in Kalisz, or wherever else you may desire it. I
-    shall recognise this as a proof of the friendship you bear towards me, and shall always let myself
-    be found ready for every return of kindness. In expectation of a favourable and early reply I am,
-    unchangingly, Your Right Honourable''s — Breslau, the 9th of January 1812 — devoted friend and servant,
+  en: 'Right Honourable,
+
+
+    most highly revered Sir and Friend!
+
+
+    Some weeks ago I was at Kalisz on my own business, where I at the same time hoped to see and to speak
+    with you, my esteemed Friend, in that place, which pleasure however I had to forgo; nor could I learn
+    with certainty the place of your present residence, for otherwise I should have paid you my visit;
+    since however I greatly wished to confer and take counsel with you concerning the affairs between
+    Johann, Prince of Hohenlohe, and myself, I would herewith politely beg you only to be so kind as to
+    appoint a day on which I might have the pleasure of finding you at Kalisz, or wherever else you may
+    desire it; I shall acknowledge this as a proof of the friendship you bear towards me, and shall always
+    let myself be found ready for every return of favours. In expectation of an obliging and speedy reply
+    I am, unchangingly, Your Right Honourable''s
+
+
+    Breslau, the 9th of January 1812
+
+
+    devoted Friend and servant
+
+
     C. F. Weigel'
+  names:
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Johann Fürstens v. Hohenlohe
+    en: Johann, Prince of Hohenlohe
+    kind: person
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: C. F. Weigel
+    en: C. F. Weigel
+    kind: person
+  numbers:
+  - '9'
+  - '1812'

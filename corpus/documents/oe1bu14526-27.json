@@ -158,24 +158,187 @@
    "doc_line": 68
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "luka",
+   "display": "Samuel Lucke (Luka)",
+   "kind": "person",
+   "surface_de": "Luka",
+   "surface_en": "Luka",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Szucki",
+   "kind": "person",
+   "surface_de": "H. v. Szucki",
+   "surface_en": "Mr. von Szucki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Szucki",
+   "kind": "person",
+   "surface_de": "p. v. Szucki",
+   "surface_en": "Mr. von Szucki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Szucki",
+   "kind": "person",
+   "surface_de": "v. Szucki",
+   "surface_en": "von Szucki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Luke",
+   "kind": "person",
+   "surface_de": "p. Luke",
+   "surface_en": "Luke",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 3
+  },
+  {
+   "entity": "titz",
+   "display": "Carl Titz",
+   "kind": "person",
+   "surface_de": "Titz",
+   "surface_en": "Titz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bancke",
+   "kind": "person",
+   "surface_de": "Bancke",
+   "surface_en": "Bancke",
+   "page": 3
+  }
+ ],
  "place_canonical": "Zagorowo",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Your Honour, most particularly highly to be revered Sir, Councillor of Building and Economy,\n\nThe miller Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes, to this end, to settle the particulars with Your Honour at Kalisch. He has also duly received the aforesaid 25. Rthl.\n\nOn this occasion he further brought along with him to the spot 2 men for the taking-up of some land; these were for now put off until further on, and assured that as soon as an end should have been made with Trąbczyn and with Herr v. Szucki they too should be put in possession of all the land [text lost]"
+   "en": "Your Honour, most particularly highly honoured Sir, Councillor of Building and Economy. The miller Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes, to this end, to settle the particulars with Your Honour in Kalisz. He has also duly received the aforesaid 25 Rthl.\n\nOn this occasion he also brought along with him 2 more men to take up some land; these have now been put off with hopes until a later time, and assured that as soon as an end should have been made with Trąbczyn and Mr. von Szucki, they too would obtain possession of all the land in",
+   "names": [
+    {
+     "de": "Luka",
+     "en": "Luka",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "H. v. Szucki",
+     "en": "Mr. von Szucki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "25",
+    "2"
+   ]
   },
   {
    "page": 2,
-   "en": "possession; but until then they must yet have patience. Concerning the withdrawal-payment of the said v. Szucki, may Your Honour have the goodness to report this to the Royal Government, and, if in addition to the 1000. Rthl which the community is willing to give, something might be furnished thereto by His Serene Highness, inasmuch as the same would be made good again within 10. days, and thereafter there would be quiet and peace within the community. Your Honour can yourself perceive how by now the piquancy of v. Szucki towards the subjects is ever increasing through the offer of the 1000. Rthl withdrawal-payment; for which the poor people will have to suffer.\n\nFor the rest we most obediently beg that Your Honour be most graciously pleased to let further orders of conduct come to us by the said Luke: as to what we are to do and to leave undone, both in respect of such further people as may yet come who might come to possession of land with money, and also concerning v. Szucki's mind as to"
+   "en": "possession, but until then they would have to be patient a while longer. Concerning the withdrawal-payment of Mr. von Szucki, may Your Honour have the kindness to report this to the Royal Government, and also, if something over and above the 1000 Rthl which the community is willing to give might be contributed toward it by His Serene Highness, inasmuch as the same would be made good again within 10 days, and thereafter there would be quiet and peace within the community. Your Honour can yourself perceive how the pointed provocation of von Szucki upon the subjects is now increasing ever more through the offer of the 1000 Rthl withdrawal-payment; so that the poor people will have to suffer for it.\n\nFor the rest we beg most obediently that Your Honour be graciously pleased to let us have, through the said Luke, closer instructions as to our conduct: what we are to do and to leave undone, both with regard to such further men as may yet come, who might come into possession of land with money, and also with regard to von Szucki's mind as to",
+   "names": [
+    {
+     "de": "p. v. Szucki",
+     "en": "Mr. von Szucki",
+     "kind": "person"
+    },
+    {
+     "de": "v. Szucki",
+     "en": "von Szucki",
+     "kind": "person"
+    },
+    {
+     "de": "p. Luke",
+     "en": "Luke",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "10",
+    "1000"
+   ]
   },
   {
    "page": 3,
-   "en": "his withdrawal-payment. We shall assuredly do our best therein.\n\nWe who for the rest have the honour to remain, with high esteem,\n\nYour Honour's\n\nP. S.\n\nThe joiner, who likewise wished to dwell in Szetlewek, out of desperation — finding himself wholly consternated — has straightway bought a house in Zagorowo and means to remain living here also.\n\nZagorowo, the 16th April 1799.\n\nmost obedient servants\nTitz\n\nBancke"
+   "en": "his withdrawal. We shall assuredly do our best in the matter.\n\nWe who otherwise have the honour to remain, with high respect,\n\nYour Honour's\n\nP. S.\n\nThe joiner who likewise wished to dwell in Szetlewek has, out of desperation, being wholly consternated, at once bought a house in Zagorowo and intends also to remain living here. Zagorowo,\n\nthe 16th of April 1799. Most obedient servants Titz\n\nBancke",
+   "names": [
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Titz",
+     "en": "Titz",
+     "kind": "person"
+    },
+    {
+     "de": "Bancke",
+     "en": "Bancke",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "16",
+    "1799"
+   ]
   }
  ],
- "text_english": "Your Honour, most particularly highly to be revered Sir, Councillor of Building and Economy,\n\nThe miller Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes, to this end, to settle the particulars with Your Honour at Kalisch. He has also duly received the aforesaid 25. Rthl.\n\nOn this occasion he further brought along with him to the spot 2 men for the taking-up of some land; these were for now put off until further on, and assured that as soon as an end should have been made with Trąbczyn and with Herr v. Szucki they too should be put in possession of all the land [text lost]\n\npossession; but until then they must yet have patience. Concerning the withdrawal-payment of the said v. Szucki, may Your Honour have the goodness to report this to the Royal Government, and, if in addition to the 1000. Rthl which the community is willing to give, something might be furnished thereto by His Serene Highness, inasmuch as the same would be made good again within 10. days, and thereafter there would be quiet and peace within the community. Your Honour can yourself perceive how by now the piquancy of v. Szucki towards the subjects is ever increasing through the offer of the 1000. Rthl withdrawal-payment; for which the poor people will have to suffer.\n\nFor the rest we most obediently beg that Your Honour be most graciously pleased to let further orders of conduct come to us by the said Luke: as to what we are to do and to leave undone, both in respect of such further people as may yet come who might come to possession of land with money, and also concerning v. Szucki's mind as to\n\nhis withdrawal-payment. We shall assuredly do our best therein.\n\nWe who for the rest have the honour to remain, with high esteem,\n\nYour Honour's\n\nP. S.\n\nThe joiner, who likewise wished to dwell in Szetlewek, out of desperation — finding himself wholly consternated — has straightway bought a house in Zagorowo and means to remain living here also.\n\nZagorowo, the 16th April 1799.\n\nmost obedient servants\nTitz\n\nBancke",
+ "text_english": "Your Honour, most particularly highly honoured Sir, Councillor of Building and Economy. The miller Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes, to this end, to settle the particulars with Your Honour in Kalisz. He has also duly received the aforesaid 25 Rthl.\n\nOn this occasion he also brought along with him 2 more men to take up some land; these have now been put off with hopes until a later time, and assured that as soon as an end should have been made with Trąbczyn and Mr. von Szucki, they too would obtain possession of all the land in\n\npossession, but until then they would have to be patient a while longer. Concerning the withdrawal-payment of Mr. von Szucki, may Your Honour have the kindness to report this to the Royal Government, and also, if something over and above the 1000 Rthl which the community is willing to give might be contributed toward it by His Serene Highness, inasmuch as the same would be made good again within 10 days, and thereafter there would be quiet and peace within the community. Your Honour can yourself perceive how the pointed provocation of von Szucki upon the subjects is now increasing ever more through the offer of the 1000 Rthl withdrawal-payment; so that the poor people will have to suffer for it.\n\nFor the rest we beg most obediently that Your Honour be graciously pleased to let us have, through the said Luke, closer instructions as to our conduct: what we are to do and to leave undone, both with regard to such further men as may yet come, who might come into possession of land with money, and also with regard to von Szucki's mind as to\n\nhis withdrawal. We shall assuredly do our best in the matter.\n\nWe who otherwise have the honour to remain, with high respect,\n\nYour Honour's\n\nP. S.\n\nThe joiner who likewise wished to dwell in Szetlewek has, out of desperation, being wholly consternated, at once bought a house in Zagorowo and intends also to remain living here. Zagorowo,\n\nthe 16th of April 1799. Most obedient servants Titz\n\nBancke",
  "summary_en": "Titz and Bancke report to the Building and Economy Councillor that the miller Luka has renounced the contract and will settle the particulars at Kalisch, having received his 25 Rthl; two men seeking land were put off until matters with Trąbczyn and Herr v. Szucki are concluded. They ask that the Royal Government be informed of Szucki's withdrawal-payment, that His Serene Highness supplement the community's 1000 Rthl, and for further instructions; a postscript notes the joiner intended for Szetlewek has bought a house in Zagorowo.",
  "summary_de": "Bericht an einen Bau- und Wirtschaftsrat: Der Müller Luka hat den Rücktritt vom Kontrakt erklärt, will die Einzelheiten in Kalisch regeln und die 25 Rthl richtig empfangen. Zwei von ihm mitgebrachte Landbewerber wurden bis zum Abschluß mit Trąbczyn und Herrn v. Szucki vertröstet. Wegen des Abstandsgeldes für v. Szucki wird Anzeige bei der Königlichen Regierung erbeten und ein fürstlicher Zuschuß zu den 1000 Rthl der Gemeinde, binnen 10 Tagen zu erstatten; Verhaltensbefehle erbeten. Der Tischler kaufte statt Szetlewek ein Haus in Zagorowo. Titz, Bancke."
 }

@@ -1,26 +1,68 @@
 status: draft
 segments:
 - page: 1
-  en: 'My dearest Friend! The letter of His Serene Highness the Prince of Hohenlohe, bill of exchange,
-    which you would gladly have together with the money contained therewith, you will by now surely have
-    received, if it has been drawn from here upon [uncertain: Cortapp] in you. So much the worse will
-    it go with us in the matter of the [uncertain reading: adtatorten]; the files lie in the Court of
-    Appeal awaiting judgment, only no favourable decision can come of it, because today there stands in
-    the Berlin newspapers a Declaration [drawn up? executed?] by the King himself, that all bonds in [beinen]
-    money — even if the [Saluta] has been paid in [Staatsslagius] — are to be [heit bliegen] accustomed
-    to Courant, and that this [acht allten] concealment back to 1806 has [been]. Now, accordingly, all
-    the Latin is at an end, and she must [make] provision for the long payment more. Under this law, interest
-    too has been made harder, as one will and may, 10. 12. 16. 20. 50 per cent, as soon as they are deceased
-    [verscheiden], apart from being so paid, without regard to the creditor, whether he be [zu den Christ].
-    Money help now everyone who suffers want of money; for him it will surely'
+  en: 'My dearest Friend!
+
+
+    The letter [uncertain: writing] of the Prince of Hohenlohe, Serene Highness, bill of exchange, which
+    you would gladly wish to have together with the money that is with it, you will by now surely have
+    received, if it was drawn from here upon Cortapp in you.
+
+
+    All the worse will it go with us as regards the [illegible], very much so; the files lie in the appellate
+    court awaiting judgment, only no favourable decision can come, because today a declaration executed
+    by the King himself stands in the Berlin newspapers, that all bonds in [uncertain: your] money, even
+    when the [uncertain: sum] has been paid in state notes, are henceforth to be accustomed to remain
+    Courant, and that this has taken back the eight old concealments in 1806. Now therefore all the Latin
+    is at an end, and she must make provision for long payment any more.
+
+
+    Under this law it has likewise been aggravated with interest, as one will and may, 10, 12, 16, 20,
+    50 per cent, so soon as they are fallen due, to be paid otherwise thus; without regard to the creditor,
+    whether he be of the Christ. Money help now everyone who suffers want of money; for him it will surely'
+  names:
+  - de: Hohenlohe
+    en: Hohenlohe
+    kind: person
+  - de: Cortapp
+    en: Cortapp
+    kind: other
+  - de: Berliner
+    en: Berlin
+    kind: place
+  numbers:
+  - '1806'
+  - '10'
+  - '12'
+  - '16'
+  - '20'
+  - '50'
 - page: 2
-  en: 'a hundred per cent. I pity you most sincerely and most heartily in your [Vorillungen — presentations?
-    afflictions?]. How he can now [extricate himself?] from the matter of the [Watten] out of [tricanten].
-    Have I forgotten my [Wildbach] for Wilhelm von Lämer? – Do not fare well, and [try/attempt] yourself,
-    and with constant esteem it is due, as that yours,
+  en: 'a hundred per cent.
 
 
-    Berlin, the 2nd of March 1809
+    I pity you very much and most heartily in your [uncertain: representations]. How he may now [illegible]
+    out of the [uncertain: cotton wool] matter.
 
 
-    Most devotedly serves, and Frau Amelang'
+    Have I forgotten my [uncertain: Wildbach] for Wilhelm von Lämer? – Do not fare well, and try yourself,
+    and with constant esteem, as is due, I am yours
+
+
+    Berlin, the 2nd of March 1809. Your most devoted servant and Mrs Amelang'
+  names:
+  - de: Willhelm von Lämer
+    en: Wilhelm von Lämer
+    kind: person
+  - de: Wildbach
+    en: Wildbach
+    kind: other
+  - de: Berl.
+    en: Berlin
+    kind: place
+  - de: Frau Amelang
+    en: Mrs Amelang
+    kind: person
+  numbers:
+  - '2'
+  - '1809'

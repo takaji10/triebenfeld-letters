@@ -219,20 +219,248 @@
    "doc_line": 56
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Duchy of Warsaw",
+   "kind": "place",
+   "surface_de": "Herzugthum Warschau",
+   "surface_en": "Duchy of Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stecten",
+   "kind": "place",
+   "surface_de": "Stecten",
+   "surface_en": "Stecten",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Zastrow",
+   "kind": "person",
+   "surface_de": "v. Zastrow",
+   "surface_en": "von Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von der Lahn",
+   "kind": "person",
+   "surface_de": "von der Lahn",
+   "surface_en": "von der Lahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "vom Trübin feld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "von der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "p v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr's",
+   "kind": "person",
+   "surface_de": "von der Labeschen",
+   "surface_en": "van der Lahr's",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 2
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "In the year 1808, up to the 14th of February, I had become indebted to the Invalids' Fund for the interest on a capital of 50000 Rthl which His Majesty the King had had given to me out of the same upon my Zagorower estates, situated in the Duchy of Warsaw, in the amount of 3125 Rthl. My plenipotentiary, the Councillor of War von Triebenfeld, was at that time sent from Prussia to [uncertain: Stettin], and since the French Government had at that very time arrogated to itself the administration of the Invalids' Fund, the said Government extorted from von Triebenfeld, by arrest and military execution, the above-named 3125 Rthl together with costs. Von Triebenfeld did not have so much money with him and was obliged, against a [uncertain: solidary (jointly binding)] bill of exchange drawn by him and by the Lieutenant-General von Zastrow, to take up from the merchant van der Lahr 5140 Rthl, which the latter would not give otherwise than in paper and wished to have back in ringing Courant. The papers stood very low; meanwhile necessity compelled von Triebenfeld to comply with the will of von der Lahn. Subsequently I sent von Triebenfeld 1000 Rthl for the settling of this matter; but since van der Lahr now had to have 5140 Rthl back, there remains a residue of 3000 Rthl, for which von der Lahr has now sued him and has at present obtained a judgment favourable to himself on the ground of the more recent cabinet order, whereupon he now threatens von Triebenfeld with harsh execution."
+   "en": "In the year 1808, up to the 14th of February, I had fallen into debt to the Invalids' Fund for the interest on a capital of 50000 Rthl, which His Majesty the King had caused to be given me out of the same upon my Zagorowo estates, [uncertain: we] situated in a Duchy of Warsaw, in the amount of 3125 Rthl. My authorised representative, the councillor of war von Triebenfeld, was at that time sent out of Prussia to Stecten, and since the French government had at that very time taken upon itself the administration of the Invalids' houses, the said government extorted from von Triebenfeld, by arrest and military execution, the above-named 3125 Rthl together with costs; von Triebenfeld did not have so much money with him and was obliged, against a Lohderian bill of exchange drawn by himself and by Lieutenant General von Zastrow, to take up 5140 Rthl from the merchant van der Lahr, which the latter would give in no other form than in paper, and wished to have back in ringing Courant.\n\nThe papers stood very low; nevertheless, necessity compelled von Triebenfeld to comply with the will of von der Lahn.\n\nSubsequently, for the settlement of this matter, I sent von Triebenfeld 1000 Rthl; but since van der Lahr now had to have back 5140 Rthl, there remains a balance of 3000 Rthl, for which van der Lahr has now sued him and has for the present obtained a judgment favourable to himself on the ground of the more recent cabinet order, upon which he now threatens von Triebenfeld with harsh execution.",
+   "names": [
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Herzugthum Warschau",
+     "en": "Duchy of Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Stecten",
+     "en": "Stecten",
+     "kind": "place"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zastrow",
+     "en": "von Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "von der Lahn",
+     "en": "von der Lahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1808",
+    "14ten",
+    "50000",
+    "3125",
+    "5140",
+    "1000",
+    "5140",
+    "3000"
+   ]
   },
   {
    "page": 2,
-   "en": "Since I now cannot allow that the said von Triebenfeld should be pressed in this matter, which it is for me alone to answer for, I have charged my mandatary, the Privy Post Councillor Amelang at Berlin, to come to terms with von der Lahr in my name, to pay him 1000 Rthl, and to offer to deliver the remainder in finished bar- and hoop-iron by May. Von der Lahr has accepted this, according to his original letter enclosed herewith; only there still subsists a small difference in respect of the iron price, about which I have written once more, and as soon as I receive the [uncertain: definitive] answer from the said Amelang, the money shall be paid and the iron delivered. Your Royal Majesty I meanwhile beg most obediently to leave the said von Triebenfeld ex nexu, and not to compel him by execution or distraint to a sum for the discharge of which I am bound, and to which I have also, as Your Majesty will deign to gather from von der Lahr's writing, obligated myself. [uncertain: Pf] I remain, until death, Your Royal Majesty's\nSchlawenschitz, the 8th of April 1809.\nmost obedient"
+   "en": "Since I now cannot allow that the said von Triebenfeld should be pressed in this matter, which it is incumbent upon me alone to answer for, I have charged my mandatary, the privy postal councillor Amelang at Berlin, to come to terms with van der Lahr in my name, to pay him 1000 Rthl, and to offer to deliver the remainder in finished bar and [uncertain: ripe] first iron by May. Van der Lahr has accepted this, according to his original letter annexed hereto; only there still remains a small difference in respect of the iron price, concerning which I have written once more, and as soon as I receive the [uncertain: definite] answer from the said Amelang, the money shall be paid and the iron delivered. Your Royal Majesty I meanwhile most obediently beg to release the said von Triebenfeld from the obligation (ex nexu), and not to compel him by execution or distraint to a sum for the discharge of which I am bound, and to which I have also, as Your Majesty will graciously be pleased to gather from van der Lahr's writing, obliged myself.\n\n[uncertain: Pf] I remain, until death,\n\nYour Royal Majesty's\n\nSchlawenschitz,\n\nthe 8th of April 1809.\n\nmost obedient",
+   "names": [
+    {
+     "de": "vom Trübin feld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "von der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "p v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "von der Labeschen",
+     "en": "van der Lahr's",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "8.",
+    "1809"
+   ]
   }
  ],
- "text_english": "In the year 1808, up to the 14th of February, I had become indebted to the Invalids' Fund for the interest on a capital of 50000 Rthl which His Majesty the King had had given to me out of the same upon my Zagorower estates, situated in the Duchy of Warsaw, in the amount of 3125 Rthl. My plenipotentiary, the Councillor of War von Triebenfeld, was at that time sent from Prussia to [uncertain: Stettin], and since the French Government had at that very time arrogated to itself the administration of the Invalids' Fund, the said Government extorted from von Triebenfeld, by arrest and military execution, the above-named 3125 Rthl together with costs. Von Triebenfeld did not have so much money with him and was obliged, against a [uncertain: solidary (jointly binding)] bill of exchange drawn by him and by the Lieutenant-General von Zastrow, to take up from the merchant van der Lahr 5140 Rthl, which the latter would not give otherwise than in paper and wished to have back in ringing Courant. The papers stood very low; meanwhile necessity compelled von Triebenfeld to comply with the will of von der Lahn. Subsequently I sent von Triebenfeld 1000 Rthl for the settling of this matter; but since van der Lahr now had to have 5140 Rthl back, there remains a residue of 3000 Rthl, for which von der Lahr has now sued him and has at present obtained a judgment favourable to himself on the ground of the more recent cabinet order, whereupon he now threatens von Triebenfeld with harsh execution.\n\nSince I now cannot allow that the said von Triebenfeld should be pressed in this matter, which it is for me alone to answer for, I have charged my mandatary, the Privy Post Councillor Amelang at Berlin, to come to terms with von der Lahr in my name, to pay him 1000 Rthl, and to offer to deliver the remainder in finished bar- and hoop-iron by May. Von der Lahr has accepted this, according to his original letter enclosed herewith; only there still subsists a small difference in respect of the iron price, about which I have written once more, and as soon as I receive the [uncertain: definitive] answer from the said Amelang, the money shall be paid and the iron delivered. Your Royal Majesty I meanwhile beg most obediently to leave the said von Triebenfeld ex nexu, and not to compel him by execution or distraint to a sum for the discharge of which I am bound, and to which I have also, as Your Majesty will deign to gather from von der Lahr's writing, obligated myself. [uncertain: Pf] I remain, until death, Your Royal Majesty's\nSchlawenschitz, the 8th of April 1809.\nmost obedient",
+ "text_english": "In the year 1808, up to the 14th of February, I had fallen into debt to the Invalids' Fund for the interest on a capital of 50000 Rthl, which His Majesty the King had caused to be given me out of the same upon my Zagorowo estates, [uncertain: we] situated in a Duchy of Warsaw, in the amount of 3125 Rthl. My authorised representative, the councillor of war von Triebenfeld, was at that time sent out of Prussia to Stecten, and since the French government had at that very time taken upon itself the administration of the Invalids' houses, the said government extorted from von Triebenfeld, by arrest and military execution, the above-named 3125 Rthl together with costs; von Triebenfeld did not have so much money with him and was obliged, against a Lohderian bill of exchange drawn by himself and by Lieutenant General von Zastrow, to take up 5140 Rthl from the merchant van der Lahr, which the latter would give in no other form than in paper, and wished to have back in ringing Courant.\n\nThe papers stood very low; nevertheless, necessity compelled von Triebenfeld to comply with the will of von der Lahn.\n\nSubsequently, for the settlement of this matter, I sent von Triebenfeld 1000 Rthl; but since van der Lahr now had to have back 5140 Rthl, there remains a balance of 3000 Rthl, for which van der Lahr has now sued him and has for the present obtained a judgment favourable to himself on the ground of the more recent cabinet order, upon which he now threatens von Triebenfeld with harsh execution.\n\nSince I now cannot allow that the said von Triebenfeld should be pressed in this matter, which it is incumbent upon me alone to answer for, I have charged my mandatary, the privy postal councillor Amelang at Berlin, to come to terms with van der Lahr in my name, to pay him 1000 Rthl, and to offer to deliver the remainder in finished bar and [uncertain: ripe] first iron by May. Van der Lahr has accepted this, according to his original letter annexed hereto; only there still remains a small difference in respect of the iron price, concerning which I have written once more, and as soon as I receive the [uncertain: definite] answer from the said Amelang, the money shall be paid and the iron delivered. Your Royal Majesty I meanwhile most obediently beg to release the said von Triebenfeld from the obligation (ex nexu), and not to compel him by execution or distraint to a sum for the discharge of which I am bound, and to which I have also, as Your Majesty will graciously be pleased to gather from van der Lahr's writing, obliged myself.\n\n[uncertain: Pf] I remain, until death,\n\nYour Royal Majesty's\n\nSchlawenschitz,\n\nthe 8th of April 1809.\n\nmost obedient",
  "summary_en": "Petition to the King, in the Prince of Hohenlohe-Ingelfingen's name, over arrears of 3125 Rthl interest on the 50000 Rthl capital secured on the Zagorowo estates in the Duchy of Warsaw: the French administration of the Invalids' houses extorted the sum from von Triebenfeld by arrest and military execution, forcing him to borrow 5140 Rthl in paper from the merchant van der Lahr. With 1000 Rthl remitted and 3000 Rthl still sued for, the Prince asks that von Triebenfeld be released from liability, settlement in cash and bar iron being arranged through privy postal councillor Amelang.",
  "summary_de": "Immediatgesuch an den König wegen rückständiger Zinsen von 3125 Rthl aus dem Kapital von 50000 Rthl des Invalidenfonds auf die Güter Zagorowo im Herzogtum Warschau: die französische Verwaltung erzwang die Summe durch Arrest und militärische Execution von Triebenfeld, der gegen einen Wechsel mit Generallieutenant von Zastrow 5140 Rthl in Papier beim Kaufmann van der Lahr aufnehmen mußte. Nach 1000 Rthl Zahlung bleiben 3000 Rthl offen; Geheimer Postrath Amelang soll vergleichen, 1000 Rthl zahlen und Stabeisen liefern. Erbeten wird Triebenfelds Entlassung ex nexu."
 }

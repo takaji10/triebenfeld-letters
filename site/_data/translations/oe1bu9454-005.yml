@@ -1,22 +1,72 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! The said Trzcinski has been approached by the tall Zerboni,
-    [demanding] that Trzcinski, pursuant to a cession, should pay him 5000 Rthl out of that claim of 10000
-    Rthl due to Your Serene Highness, which you are said to have most highly ceded away to Zerboni — I
-    wished to compel Trzcinski to execute his declaration before the court, and thus Zerboni comes into
-    the difficulty of it. For the present I have contested this — Should it, however, be true, then may
-    Your Serene Highness deign to give me the speediest information, so that I do not make myself a laughing-stock.
-    One thousand, and Trzcinski alleges that he has already paid out of it, upon an instruction (Anweisung)
-    of Zerboni, to König for the Bischdorff business. I hold this, meanwhile, to be a rascally piece of
-    bluster — for nothing was ever promised to König for the Beschdorff affair, and it appears to me to
-    be a knavish thievery. One thing I fear — whether Your Serene Highness may not perhaps have given
-    Zerboni a blank [signed sheet], and the [uncertain: Bä] scoundrel has fabricated something of the
-    kind upon it. To the Prefect at Kalisz, Herr v Smiedecki, I have quite [text lost: verb missing];
-    he will, in the indemnification affair, upon which now everything turns on account of Sokolnik, give
-    the most conceivably favourable report.'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    The said Trzciński has been approached by the tall Zerboni, to the effect that Trzciński, pursuant
+    to a cession, is to pay him 5000 Rthl out of that claim of 10000 Rthl standing to Your Serene Highness,
+    which You are said to have made over to Zerboni to that extent — I wished to compel Trzciński to execute
+    his declaration before the court, and Zerboni thereby comes into question — For the present I have
+    contested this — Should it however be true, may Your Serene Highness be pleased to give me the speediest
+    information, so that I do not make myself a laughing-stock.
+
+
+    One thousand and Trzciński alleges to have already paid out of it, on the instruction of Zerboni,
+    to König for the Bischdorff business. I hold this, however, to be a rascally piece of bluster — for
+    nothing was ever promised to König for the Beschdorff matter, and it seems to me to be a knavish thievery.
+    One thing I fear — whether Your Serene Highness may not have given Zerboni some blank signed paper,
+    and the villain has fabricated something of the kind upon it.
+
+
+    To the prefect at Kalisz, Mr. von Smiedecki, I have quite [uncertain: gewann] he will, in the compensation
+    matter, upon which everything now turns on account of Sokolnik, give the most advantageous report
+    conceivable.'
+  names:
+  - de: Trzcinski
+    en: Trzciński
+    kind: person
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: König
+    en: König
+    kind: person
+  - de: Bischdorffer
+    en: Bischdorff
+    kind: place
+  - de: Beschdorffer
+    en: Beschdorff
+    kind: place
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: H v Smiedecki
+    en: Mr. von Smiedecki
+    kind: person
+  - de: Sokolnik
+    en: Sokolnik
+    kind: place
+  numbers:
+  - '10000'
+  - '5000'
 - page: 2
-  en: 'Concerning the Betscher and all other matters, I await answers to the letters sent in the course
-    of time to Your Serene Highness. In deepest reverence I remain, until death, Your Serene Highness''s
-    [uncertain: Bau] most humble and obedient servant v Triebenfeld. Blizanow, the 27th of January 1816.
-    v Triebenfeld'
+  en: 'Concerning the Betsche matter and all the others, I await answers to the letters sent to Your Serene
+    Highness in the course of time. In deepest reverence I remain, until death, Your Serene Highness''s
+    [uncertain: Bau] most humble and obedient servant v. Triebenfeld. Blizanow, the 27th of January 1816.
+    v. Triebenfeld'
+  names:
+  - de: Betscher
+    en: Betsche
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  numbers:
+  - '27'

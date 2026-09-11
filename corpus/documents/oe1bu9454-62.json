@@ -64,16 +64,128 @@
    "doc_line": 8
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Mann",
+   "kind": "person",
+   "surface_de": "Mann",
+   "surface_en": "Mann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kosch",
+   "kind": "other",
+   "surface_de": "Kosch",
+   "surface_en": "Kosch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curische",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Massakrop",
+   "kind": "place",
+   "surface_de": "Massakrop",
+   "surface_en": "Massakrop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Prussian",
+   "kind": "other",
+   "surface_de": "König Prensten",
+   "surface_en": "Royal Prussian",
+   "page": 1
+  }
+ ],
  "place_canonical": "Kontop[?]",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Now I no longer know what I am to think. Five letters have I sent off; to not one of them [uncertain: abd] have I been deemed worthy of an answer — this is the 6th letter — by way of the Chief Post [uncertain: dereckte] Mann I sent the last one, which Your Serene Highness must have collected. Through his kindness I send this one again today. My utmost distress I have described in every one of them — and Your Serene Highness does not answer even once. I take here the pains that are most conceivable to me. Everything appears to succeed and to promise the happiest outcome. Even the Kosch business has been set in train, though it has been referred back to Berlin until the return. The Curische debt will be discharged, the settlement annulled, Cosmar must withdraw, and Your Serene Highness comes into possession of the entailed estate, and may live in old age quietly and happily. The Polish estates too must be given back, however much everything is against it. For all these toilsome labours you let me suffer here the most oppressive want; that is, by Heaven, dreadful — what I have submitted, and everything is secured upon it, is no little pot-game [i.e. no trifling matter]. Your Serene Highness need make no secret of it, for all will succeed, and once the goal is reached you will indeed be truly fortunate — how can you let me all but perish of want for it? Send Gold, I beg it earnestly. Be graciously pleased to address your letters to the Royal Prussian Chief Post Director Mann residing in Vienna, in the Massakrop 1156. Should meanwhile the posts really be at fault, then may Your Serene Highness deign to send an express messenger with money; nowadays not so many difficulties are made any longer."
+   "en": "Now I no longer know what I am to think. Five letters have I sent off, and for not one of them [uncertain: abd] have I been thought worthy of an answer — this is the 6th letter — through the Chief Post Director Mann I sent the last one, which Your Serene Highness must have collected. Through his kindness I am sending this one again today. My utmost distress I have described in every one of them — and their Serene Highness does not even answer. I am taking here the greatest pains conceivable to me. Everything seems to be succeeding and to promise the happiest outcome. Even the Kosch affair has been set in motion, though it has been referred back to Berlin until the return. The Courland debt will be discharged, the settlement annulled, Cosmar must withdraw, and Your Serene Highness will come into possession of the entailed estate, and may live quietly and happily in your old age. The Polish estates must be given back, however much everything stands against it. For all these toilsome labours you let me suffer here the most oppressive want — by Heaven, that is dreadful — what I have submitted, and everything that is pledged upon it, is no little game of pots. Your Serene Highness need make no secret of it, for all will succeed, and once the goal is reached you will indeed be truly happy — how can you let me all but perish of want for it? Send money [uncertain: Guld], I beg it most earnestly — be so good as to address your letters to the Royal Prussian Chief Post Director Mann in Vienna, resident at Massakrop 1156. Should, however, the posts really be at fault, then may Your Serene Highness deign to send [uncertain: reuenen Exprechen] with money; nowadays not so many difficulties are made.",
+   "names": [
+    {
+     "de": "Mann",
+     "en": "Mann",
+     "kind": "person"
+    },
+    {
+     "de": "Kosch",
+     "en": "Kosch",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Curische",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Massakrop",
+     "en": "Massakrop",
+     "kind": "place"
+    },
+    {
+     "de": "König Prensten",
+     "en": "Royal Prussian",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "5",
+    "6",
+    "1156"
+   ]
   }
  ],
- "text_english": "Now I no longer know what I am to think. Five letters have I sent off; to not one of them [uncertain: abd] have I been deemed worthy of an answer — this is the 6th letter — by way of the Chief Post [uncertain: dereckte] Mann I sent the last one, which Your Serene Highness must have collected. Through his kindness I send this one again today. My utmost distress I have described in every one of them — and Your Serene Highness does not answer even once. I take here the pains that are most conceivable to me. Everything appears to succeed and to promise the happiest outcome. Even the Kosch business has been set in train, though it has been referred back to Berlin until the return. The Curische debt will be discharged, the settlement annulled, Cosmar must withdraw, and Your Serene Highness comes into possession of the entailed estate, and may live in old age quietly and happily. The Polish estates too must be given back, however much everything is against it. For all these toilsome labours you let me suffer here the most oppressive want; that is, by Heaven, dreadful — what I have submitted, and everything is secured upon it, is no little pot-game [i.e. no trifling matter]. Your Serene Highness need make no secret of it, for all will succeed, and once the goal is reached you will indeed be truly fortunate — how can you let me all but perish of want for it? Send Gold, I beg it earnestly. Be graciously pleased to address your letters to the Royal Prussian Chief Post Director Mann residing in Vienna, in the Massakrop 1156. Should meanwhile the posts really be at fault, then may Your Serene Highness deign to send an express messenger with money; nowadays not so many difficulties are made any longer.",
+ "text_english": "Now I no longer know what I am to think. Five letters have I sent off, and for not one of them [uncertain: abd] have I been thought worthy of an answer — this is the 6th letter — through the Chief Post Director Mann I sent the last one, which Your Serene Highness must have collected. Through his kindness I am sending this one again today. My utmost distress I have described in every one of them — and their Serene Highness does not even answer. I am taking here the greatest pains conceivable to me. Everything seems to be succeeding and to promise the happiest outcome. Even the Kosch affair has been set in motion, though it has been referred back to Berlin until the return. The Courland debt will be discharged, the settlement annulled, Cosmar must withdraw, and Your Serene Highness will come into possession of the entailed estate, and may live quietly and happily in your old age. The Polish estates must be given back, however much everything stands against it. For all these toilsome labours you let me suffer here the most oppressive want — by Heaven, that is dreadful — what I have submitted, and everything that is pledged upon it, is no little game of pots. Your Serene Highness need make no secret of it, for all will succeed, and once the goal is reached you will indeed be truly happy — how can you let me all but perish of want for it? Send money [uncertain: Guld], I beg it most earnestly — be so good as to address your letters to the Royal Prussian Chief Post Director Mann in Vienna, resident at Massakrop 1156. Should, however, the posts really be at fault, then may Your Serene Highness deign to send [uncertain: reuenen Exprechen] with money; nowadays not so many difficulties are made.",
  "summary_en": "A sixth appeal after five unanswered letters, sent via the Royal Prussian Chief Post Director Mann in Vienna (Massakrop 1156), to whom replies should be addressed. Reports progress on the Kosch business, referred back to Berlin pending the return, and expects the Curische debt discharged, the settlement annulled, Cosmar obliged to withdraw, the entailed estate recovered and the Polish estates restored. Complains bitterly of destitution and begs for gold, or an express messenger with money.",
  "summary_de": "Klage, daß fünf Briefe unbeantwortet blieben; dies sei der sechste, wieder über den Königlich Preußischen Oberpostdirektor Mann in Wien (Massakrop 1156), an den der Fürst seine Antworten richten möge. Bericht über die Geschäfte: die Kosch-Sache sei eingeleitet, jedoch bis zur Rückkehr nach Berlin verwiesen; die Curische Schuld werde getilgt, der Vergleich aufgehoben, Cosmar müsse zurücktreten, das Fideikommiß falle an den Fürsten, auch die polnischen Güter müßten zurückgegeben werden. Dringende Bitte um Geld, Gold oder Übersendung durch Estafette, wegen äußerster Not."
 }

@@ -213,24 +213,366 @@
    "doc_line": 68
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brieg Superior Provincial Court",
+   "kind": "place",
+   "surface_de": "Brieger Oberlandes Gericht",
+   "surface_en": "Brieg Superior Provincial Court",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brieg",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "other",
+   "surface_de": "Curische",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeldsche",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[illegible]",
+   "kind": "place",
+   "surface_de": "Mich",
+   "surface_en": "[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtembergsche",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Wüttembergschen",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Hard[enberg]",
+   "kind": "person",
+   "surface_de": "Fürst Hard:",
+   "surface_en": "Prince Hard[enberg]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brieg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Toni",
+   "kind": "person",
+   "surface_de": "Toni",
+   "surface_en": "Toni",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the princely house of Hohenlohe",
+   "kind": "other",
+   "surface_de": "f H Haus",
+   "surface_en": "the princely house of Hohenlohe",
+   "page": 3
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humboldt",
+   "surface_en": "Humboldt",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Yesterday I had the honour of transmitting to Your Most Serene Highness the Resolution obtained only from His Serene Highness the Prince State Chancellor, together with the order to the Brieg Superior Provincial Court, by an opportunity as far as Neisse and from there by express courier, for this reason: that Your Serene Highness should be quickly convinced of the fortunate turn of your affair, and at the same time be forewarned to be active there in your affairs. I count now [uncertain: sahr] upon the fairness and insight of the good Court Councillor Hahn, who must now in a letter give the matter such a turn that the report of the Superior Provincial Court and Your Serene Highness's declaration come out everywhere in conformity with my submissions. On this everything now depends — killing mockery and shame, or honour, fortune and peace of life. [text lost] be shown, that 5 with Your Serene Highness were everywhere induced to accede to those shameful settlements, codicils etc. in your period of suffering, when you were yourself deprived of your liberty; 2. that the sums stated in the settlement in favour of the elder Princes are for the greatest part fictitious, and are entered there in order to defraud the State and other creditors — that for this very reason 3rdly [they undertook] to pay the so-called Curian sum alone, and to set your former consort ex neom, in spite of her signature; 4. that all these matters were forged solely by Cosmar and the Princes in Berlin, and sent to you for accession under glittering promises or threats; 5. that Cosmar so conducted the matter that they wished to push you, gracious Lord, out of possession of the entailed estates and to put your son in their place, so that all creditors should be set back; 6. that Cosmar, once this had succeeded with him, contrived to obtain a power of attorney from the son by stealth, and brought this weak man to the point of himself rebelling against his father, curtailing him of every revenue and having arrest laid upon everything; 7. that when you perceived your error, you wished to address the matter and to come to terms with your creditors, or had agreed with them — but that Cosmar hindered this too; and then the proofs, as they lie there, and as the good Hahn knows all this better than I. The conclusion"
+   "en": "Yesterday I had the honour of forwarding to Your Most Serene Highness the resolution which has only now been obtained from His Serene Highness the Prince State Chancellor, together with the order to the Brieg Superior Provincial Court, by an opportunity as far as Neisse and from there on by express courier, for this reason: that Your Serene Highness should be swiftly convinced of the happy turn of your affair, and at the same time be forewarned, so as to be active there in your concerns. I count now entirely upon the [uncertain: fairness] and discernment of the good Court Councillor Hahn; he must now in Brieg give the affair such a turn that the report of the Superior Provincial Court and Your Serene Highness's declaration turn out in every respect conformable with my submissions. On this at present everything depends — deadly mockery and shame, or honour, fortune and peace of life. [text lost] be done, that 5 with Your Serene Highness were everywhere induced to accede to those shameful settlements, codicils etc. in your period of suffering, when you yourself were deprived of your liberty,\n\n2. that the sums stated in the settlement in favour of the older Princes are for the greater part fictitious, and are entered there in order to defraud the State and other creditors — that it is precisely for this reason, 3rdly, that the so-called Courland sum alone was undertaken to be paid, and your former consort ex neom, in spite of her signature, to be set down;\n\n4. that all these matters were forged solely by Cosmar and the Princes in Berlin, and were sent to you for accession under glittering promises or threats.\n\n5. that Cosmar so directed the matter that they wished to press you, most gracious Lord, out of the possession of the entailed estates and to put your son in their place, so that all creditors should be set back;\n\n6. that Cosmar, once this had succeeded with him, knew how to obtain a power of attorney from the son by stealth, and brought this weak person so far that he himself rose up against the father, curtailed him in every revenue, and had a distraint laid upon everything;\n\n7. that when you perceived your error, you wished to redress the matter and to come to terms with your creditors, or had agreed with them — but that Cosmar hindered this too, and then the proofs as they lie there, and as the good Hahn knows all this better than I do.\n\nThe conclusion",
+   "names": [
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Brieger Oberlandes Gericht",
+     "en": "Brieg Superior Provincial Court",
+     "kind": "place"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Curische",
+     "en": "Courland",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "5",
+    "2",
+    "3",
+    "1799",
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
   },
   {
    "page": 2,
-   "en": "must go to this, that the settlements and the codicil, which conflict with the Senate instrument of 1799, be immediately annulled; that the estates be left to them to manage as soon as possible; that they be permitted to come to terms with the creditors, or that the association already concluded may stand — and finally that, for the discharge of the principal debt, a capital of 112000 was only advanced, against which, according to the Triebenfeld plans, is to be discharged within the stated period etc. etc. Finally, let the good Hahn box Cosmar on every ground, on account of his omission of the rendering of accounts, on account of his [uncertain: instanien] administrations. You have, most gracious Prince, truth and the greatest right on your side; only make no compliments and spare nobody. Your son has not dealt honestly with you. Out of stupid [uncertain: Gritz] he has entered into a plot with your mortal enemies against you. It is an exceeding grace if the possessions in [uncertain: Mich] are left to him, all the more since much good may be hoped for there, of which, however, I unfortunately [have] a profiting [uncertain: Bau], because I have very much attacked the Württemberg Majesty — I may never with Gärtner set foot on Württemberg soil — it is a good fortune that we may not make too great [uncertain: bewegen]. For the rest, yesterday, in the highest fury, when I received the letter from my daughter, I took no Copy of the Prince Hard[enberg] Resolution before the same was delivered to me at the very moment. It is now advised that I should remain here so long, until the matter comes back from Brieg — also until things are clear regarding Poland — Let Your Serene Highness command that a Copy be sent here to me by the first post. Also send me a piece of 4 blank forms, so that I may give some letters of thanks to deserving persons. To the noble Prince Hardenberg write for the [uncertain: eeligsten] yourself and thank him meanwhile [uncertain: Toni] whereby to commend to him the further course of your affair — deign to send me this very soon [illegible], so that it may be delivered and everything further attended to. With the most perfect esteem I persist, [as] Your Serene Highness's\nVienna, the 10th of December 1814.\nwholly obedient servant\nv Triebenfeld"
+   "en": "must go to this, that the settlements and the codicil, which are at variance with the Senate instrument of 1799, be immediately annulled; that the estates be left to them to manage as soon as may be; that they be permitted to come to terms with the creditors, or that the association already concluded may stand — for finally, that for the extinguishing of the principal debt a capital of 112000 only was advanced, [uncertain: against] which, according to the Triebenfeld plans, it is to be extinguished within the said time etc. etc.\n\nFinally, let the good Hahn [have] the whole ground against Cosmar, on account of his omitted rendering of accounts, on account of his [uncertain: instanien] administrations — box them. You have, most gracious Prince, truth and the greatest right on your side; only make no compliments and spare nobody. Your son has not dealt honestly with you. Out of stupid [uncertain: Gritz] he has entered into a plot with your mortal enemies against you. It is an exceeding grace that he is left the possessions in [illegible], the more so as much good is to be hoped for there, from which, however, I unhappily [have] a profiting [illegible], because I have also greatly offended the Württemberg Majesty — I may never with Gärtner set foot on Württemberg soil — it is a good fortune that we are not permitted to make too great stirrings.\n\nFor the rest, yesterday, in the highest fury, when I received the letter from my daughter, I took no copy of the Prince Hard[enberg] resolution, [uncertain: since] it was delivered to me at that very moment. It is now advised that I should remain here so long until the matter comes back from Brieg — and also until things are clear with regard to Poland — Your Serene Highness will therefore order that a copy be sent here by the first post. Also send me a set of 4 blank forms, so that I may give some letters of thanks to deserving persons. To the noble Prince Hardenberg write for the [uncertain: most blessed] yourself and thank him meanwhile [uncertain: Toni], wherein commend to him the further course of your affair — this be pleased to send me very [uncertain: soon], so that it may be handed over and everything further attended to. With the most perfect respect I remain\n\nYour Serene Highness's\n\nVienna, the 10th of December\n\n1814.\n\nentirely obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Triebenfeldsche",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Mich",
+     "en": "[illegible]",
+     "kind": "place"
+    },
+    {
+     "de": "Würtembergsche",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wüttembergschen",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst Hard:",
+     "en": "Prince Hard[enberg]",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Toni",
+     "en": "Toni",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1799",
+    "112000",
+    "4",
+    "10"
+   ]
   },
   {
    "page": 3,
-   "en": "260a) One thousand — this I have already [uncertain: udirt] to the most active friend. A speaking proof that people wish, and will, help in the Princely House. Minister Humboldt too helps in both [uncertain: Sachezlichen] [uncertain: Schide]. Your Serene Highness, [send] indeed in haste the 300 Rthl, but converted into Gold. What I took with me is nearly all gone; the expenses are found to be far more than I [uncertain: was] reported. The vidimation of several papers, the drawing up of the cession, costs with the stamp duty over 190 fr, and so many a thing turns up. My whole remaining stock today is 118 f. What am I then to begin with, at this increased dearness here? — the friends indeed whom I had here, and who in case of need would have helped at all events, have died since 1807. I can take my refuge with nobody; [text lost] I cannot let go the matter I have begun, which now stands very well — So provide, Your Serene Highness, counsel; otherwise I should be here boundlessly but"
+   "en": "260a) One thousand — this I have already [uncertain: applied] to the most active friend. A speaking proof that there is a will to help in the princely house of Hohenlohe, and that it will be done. Minister Humboldt also helps in both matters [uncertain: Schide]. Your Serene Highness, do send in haste the 300 Rthl, but converted into Gold; what I brought with me is nearly all gone, the expenses turn out far greater than I reported. The attestation of several papers, the drawing up of the cession, costs with the stamp on account of over 190 fr, and so one thing and another turns up. My whole stock today is 118 f. What am I then to begin with, in the present dearness here? — indeed the friends I had here, and who would at need have helped in any case, have died since 1807. Nor can I take my refuge to anyone; yet I cannot let go the business begun, which now stands very well — therefore let Your Serene Highness provide counsel; otherwise I should be here boundlessly",
+   "names": [
+    {
+     "de": "f H Haus",
+     "en": "the princely house of Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Humboldt",
+     "en": "Humboldt",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "260",
+    "300",
+    "190",
+    "118",
+    "1807"
+   ]
   }
  ],
- "text_english": "Yesterday I had the honour of transmitting to Your Most Serene Highness the Resolution obtained only from His Serene Highness the Prince State Chancellor, together with the order to the Brieg Superior Provincial Court, by an opportunity as far as Neisse and from there by express courier, for this reason: that Your Serene Highness should be quickly convinced of the fortunate turn of your affair, and at the same time be forewarned to be active there in your affairs. I count now [uncertain: sahr] upon the fairness and insight of the good Court Councillor Hahn, who must now in a letter give the matter such a turn that the report of the Superior Provincial Court and Your Serene Highness's declaration come out everywhere in conformity with my submissions. On this everything now depends — killing mockery and shame, or honour, fortune and peace of life. [text lost] be shown, that 5 with Your Serene Highness were everywhere induced to accede to those shameful settlements, codicils etc. in your period of suffering, when you were yourself deprived of your liberty; 2. that the sums stated in the settlement in favour of the elder Princes are for the greatest part fictitious, and are entered there in order to defraud the State and other creditors — that for this very reason 3rdly [they undertook] to pay the so-called Curian sum alone, and to set your former consort ex neom, in spite of her signature; 4. that all these matters were forged solely by Cosmar and the Princes in Berlin, and sent to you for accession under glittering promises or threats; 5. that Cosmar so conducted the matter that they wished to push you, gracious Lord, out of possession of the entailed estates and to put your son in their place, so that all creditors should be set back; 6. that Cosmar, once this had succeeded with him, contrived to obtain a power of attorney from the son by stealth, and brought this weak man to the point of himself rebelling against his father, curtailing him of every revenue and having arrest laid upon everything; 7. that when you perceived your error, you wished to address the matter and to come to terms with your creditors, or had agreed with them — but that Cosmar hindered this too; and then the proofs, as they lie there, and as the good Hahn knows all this better than I. The conclusion\n\nmust go to this, that the settlements and the codicil, which conflict with the Senate instrument of 1799, be immediately annulled; that the estates be left to them to manage as soon as possible; that they be permitted to come to terms with the creditors, or that the association already concluded may stand — and finally that, for the discharge of the principal debt, a capital of 112000 was only advanced, against which, according to the Triebenfeld plans, is to be discharged within the stated period etc. etc. Finally, let the good Hahn box Cosmar on every ground, on account of his omission of the rendering of accounts, on account of his [uncertain: instanien] administrations. You have, most gracious Prince, truth and the greatest right on your side; only make no compliments and spare nobody. Your son has not dealt honestly with you. Out of stupid [uncertain: Gritz] he has entered into a plot with your mortal enemies against you. It is an exceeding grace if the possessions in [uncertain: Mich] are left to him, all the more since much good may be hoped for there, of which, however, I unfortunately [have] a profiting [uncertain: Bau], because I have very much attacked the Württemberg Majesty — I may never with Gärtner set foot on Württemberg soil — it is a good fortune that we may not make too great [uncertain: bewegen]. For the rest, yesterday, in the highest fury, when I received the letter from my daughter, I took no Copy of the Prince Hard[enberg] Resolution before the same was delivered to me at the very moment. It is now advised that I should remain here so long, until the matter comes back from Brieg — also until things are clear regarding Poland — Let Your Serene Highness command that a Copy be sent here to me by the first post. Also send me a piece of 4 blank forms, so that I may give some letters of thanks to deserving persons. To the noble Prince Hardenberg write for the [uncertain: eeligsten] yourself and thank him meanwhile [uncertain: Toni] whereby to commend to him the further course of your affair — deign to send me this very soon [illegible], so that it may be delivered and everything further attended to. With the most perfect esteem I persist, [as] Your Serene Highness's\nVienna, the 10th of December 1814.\nwholly obedient servant\nv Triebenfeld\n\n260a) One thousand — this I have already [uncertain: udirt] to the most active friend. A speaking proof that people wish, and will, help in the Princely House. Minister Humboldt too helps in both [uncertain: Sachezlichen] [uncertain: Schide]. Your Serene Highness, [send] indeed in haste the 300 Rthl, but converted into Gold. What I took with me is nearly all gone; the expenses are found to be far more than I [uncertain: was] reported. The vidimation of several papers, the drawing up of the cession, costs with the stamp duty over 190 fr, and so many a thing turns up. My whole remaining stock today is 118 f. What am I then to begin with, at this increased dearness here? — the friends indeed whom I had here, and who in case of need would have helped at all events, have died since 1807. I can take my refuge with nobody; [text lost] I cannot let go the matter I have begun, which now stands very well — So provide, Your Serene Highness, counsel; otherwise I should be here boundlessly but",
+ "text_english": "Yesterday I had the honour of forwarding to Your Most Serene Highness the resolution which has only now been obtained from His Serene Highness the Prince State Chancellor, together with the order to the Brieg Superior Provincial Court, by an opportunity as far as Neisse and from there on by express courier, for this reason: that Your Serene Highness should be swiftly convinced of the happy turn of your affair, and at the same time be forewarned, so as to be active there in your concerns. I count now entirely upon the [uncertain: fairness] and discernment of the good Court Councillor Hahn; he must now in Brieg give the affair such a turn that the report of the Superior Provincial Court and Your Serene Highness's declaration turn out in every respect conformable with my submissions. On this at present everything depends — deadly mockery and shame, or honour, fortune and peace of life. [text lost] be done, that 5 with Your Serene Highness were everywhere induced to accede to those shameful settlements, codicils etc. in your period of suffering, when you yourself were deprived of your liberty,\n\n2. that the sums stated in the settlement in favour of the older Princes are for the greater part fictitious, and are entered there in order to defraud the State and other creditors — that it is precisely for this reason, 3rdly, that the so-called Courland sum alone was undertaken to be paid, and your former consort ex neom, in spite of her signature, to be set down;\n\n4. that all these matters were forged solely by Cosmar and the Princes in Berlin, and were sent to you for accession under glittering promises or threats.\n\n5. that Cosmar so directed the matter that they wished to press you, most gracious Lord, out of the possession of the entailed estates and to put your son in their place, so that all creditors should be set back;\n\n6. that Cosmar, once this had succeeded with him, knew how to obtain a power of attorney from the son by stealth, and brought this weak person so far that he himself rose up against the father, curtailed him in every revenue, and had a distraint laid upon everything;\n\n7. that when you perceived your error, you wished to redress the matter and to come to terms with your creditors, or had agreed with them — but that Cosmar hindered this too, and then the proofs as they lie there, and as the good Hahn knows all this better than I do.\n\nThe conclusion\n\nmust go to this, that the settlements and the codicil, which are at variance with the Senate instrument of 1799, be immediately annulled; that the estates be left to them to manage as soon as may be; that they be permitted to come to terms with the creditors, or that the association already concluded may stand — for finally, that for the extinguishing of the principal debt a capital of 112000 only was advanced, [uncertain: against] which, according to the Triebenfeld plans, it is to be extinguished within the said time etc. etc.\n\nFinally, let the good Hahn [have] the whole ground against Cosmar, on account of his omitted rendering of accounts, on account of his [uncertain: instanien] administrations — box them. You have, most gracious Prince, truth and the greatest right on your side; only make no compliments and spare nobody. Your son has not dealt honestly with you. Out of stupid [uncertain: Gritz] he has entered into a plot with your mortal enemies against you. It is an exceeding grace that he is left the possessions in [illegible], the more so as much good is to be hoped for there, from which, however, I unhappily [have] a profiting [illegible], because I have also greatly offended the Württemberg Majesty — I may never with Gärtner set foot on Württemberg soil — it is a good fortune that we are not permitted to make too great stirrings.\n\nFor the rest, yesterday, in the highest fury, when I received the letter from my daughter, I took no copy of the Prince Hard[enberg] resolution, [uncertain: since] it was delivered to me at that very moment. It is now advised that I should remain here so long until the matter comes back from Brieg — and also until things are clear with regard to Poland — Your Serene Highness will therefore order that a copy be sent here by the first post. Also send me a set of 4 blank forms, so that I may give some letters of thanks to deserving persons. To the noble Prince Hardenberg write for the [uncertain: most blessed] yourself and thank him meanwhile [uncertain: Toni], wherein commend to him the further course of your affair — this be pleased to send me very [uncertain: soon], so that it may be handed over and everything further attended to. With the most perfect respect I remain\n\nYour Serene Highness's\n\nVienna, the 10th of December\n\n1814.\n\nentirely obedient servant\n\nv. Triebenfeld\n\n260a) One thousand — this I have already [uncertain: applied] to the most active friend. A speaking proof that there is a will to help in the princely house of Hohenlohe, and that it will be done. Minister Humboldt also helps in both matters [uncertain: Schide]. Your Serene Highness, do send in haste the 300 Rthl, but converted into Gold; what I brought with me is nearly all gone, the expenses turn out far greater than I reported. The attestation of several papers, the drawing up of the cession, costs with the stamp on account of over 190 fr, and so one thing and another turns up. My whole stock today is 118 f. What am I then to begin with, in the present dearness here? — indeed the friends I had here, and who would at need have helped in any case, have died since 1807. Nor can I take my refuge to anyone; yet I cannot let go the business begun, which now stands very well — therefore let Your Serene Highness provide counsel; otherwise I should be here boundlessly",
  "summary_en": "Reports that the resolution of Prince State Chancellor Hardenberg and the order to the Brieg Superior Provincial Court were forwarded via Neisse by express courier, and urges Court Councillor Hahn to steer the Brieg report to match Triebenfeld's submissions. Sets out seven points against Cosmar and the older Princes: fictitious settlement sums, the Courland sum, the forged codicil, the power of attorney obtained from the Prince's son, and demands annulment of the settlements, with a capital of 112000 noted. Requests a copy of the resolution, four blank forms, a letter of thanks to Hardenberg, and 300 Rthl in gold, his stock being 118 f.",
  "summary_de": "Nach Übersendung der von Staatskanzler Fürst Hardenberg erwirkten Resolution samt Ordre an das Oberlandesgericht Brieg drängt Triebenfeld den Fürsten, über Hofrath Hahn die Erklärung und den Bericht seinen Eingaben gemäß zu fassen: Aufhebung der mit dem Senatsinstrument von 1799 streitenden Transactionen und des Codicills, Rückgabe der Güterverwaltung, Vergleich mit den Creditoren, Capital von 112000 zur Schuldentilgung, dazu Vorwürfe gegen Cosmar (erschlichene Vollmacht des Sohnes, fingirte Summen, unterlassene Rechnungslegung). Erbittet Copie der Resolution, 4 Blanquette, Dankschreiben an Hardenberg sowie eilig 300 Rthl in Gold, da nur 118 fl verblieben."
 }

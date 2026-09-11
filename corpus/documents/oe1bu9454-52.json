@@ -91,16 +91,154 @@
    "doc_line": 32
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Her Majesty the Queen",
+   "kind": "person",
+   "surface_de": "Ihro MaJestät der Königin",
+   "surface_en": "Her Majesty the Queen",
+   "page": 1
+  },
+  {
+   "entity": "allbrecht",
+   "display": "Allbrecht",
+   "kind": "person",
+   "surface_de": "Allbrecht",
+   "surface_en": "Allbrecht",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "J. M. von Beym",
+   "kind": "person",
+   "surface_de": "J M v. Beym",
+   "surface_en": "J. M. von Beym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Franckreich",
+   "surface_en": "France",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austrians",
+   "kind": "other",
+   "surface_de": "Osterreicher",
+   "surface_en": "Austrians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "French",
+   "kind": "other",
+   "surface_de": "Franzosen",
+   "surface_en": "French",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Köchn.",
+   "kind": "person",
+   "surface_de": "v. Köchn.",
+   "surface_en": "von Köchn.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Konigsberg",
+   "surface_en": "Königsberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Königsberg",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's letter, together with the enclosures, I have presented to Her Majesty the Queen, which the same, most highly, has received with pleasure. For the rest, the matter was at once handed over by Her Majesty the Queen to His Excellency the Grand Chancellor, who immediately transferred it in turn to the Cabinet and Kammergericht Councillor Herr Allbrecht, with whom I am now working upon the business; His Excellency Herr J M v. Beym appears also to look very much to the form of it, and therefore I believe the matter will grow tedious. The Cabinet Councillor Herr Allbrecht is meanwhile the most upright and noblest man that I have known, and who will certainly [uncertain: undertake] everything, and to attain the goal. Of political news nothing whatever may be spoken here; the reports are so various that even the most clear-sighted head must fall silent as to the possible events in the future. It is a true ebb and flood. Every 24 hours the barometer sings differently: one day the French, the next day the Austrians have beaten everything; these so contradictory reports have moved His Majesty, at the giving out of the watchword, to issue the order along with it that in no manner shall there be any reasoning upon political subjects, particularly such as concern the war between France and Austria. The June- My stay here I cannot yet determine; the purposes are various, I must go daily to several places, many lack the time on account of their overburdened business, and therefore I often go in vain. — His Excellency the Lieutenant General v. Köchn. commends himself to Your Serene Highness's grace — I however remain, until death, reverently Your Most Serene Highness's Königsberg, the 3rd of May 1809. faithful and most obedient servant v Triebenfeld"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's letter I have, together with the enclosures, presented to Her Majesty the Queen, which the same, in the Highest degree, received with satisfaction. For the rest, the matter was at once handed over by the Queen's Majesty to His Excellency the Grand Chancellor, who forthwith passed it on again to the Cabinet and Supreme Court Councillor Allbrecht, with whom I am now working on the affair; His Excellency J. M. von Beym appears [uncertain: and] to look very much to the form of things, and therefore I believe the matter will become tedious. The Cabinet Councillor Allbrecht is meanwhile the most upright and noblest man whom I have ever known, and who will certainly [uncertain: employ] everything, and to reach the goal.\n\nOf political news nothing whatever may be spoken here; the reports are so various that even the most clear-sighted head must fall silent as to the possible events of the future. It is a veritable ebb and flood; every 24 hours the barometer sings differently: one day the French have beaten everything, the next day the Austrians; these so contradictory reports have moved His Majesty to issue along with the watchword the command that in no manner shall there be any reasoning upon political subjects, particularly such as concern the war between France and Austria. The June- I cannot yet determine my stay here; the purposes are various, I must go daily to several places, many lack the time on account of the overburdened business, and therefore I often go in vain – His Excellency the Lieutenant-General von Köchn. commends himself to Your Serene Highness's grace – but I, in deepest reverence, remain, until death, Your Most Serene Highness's\n\nKönigsberg\n\nthe 3rd of May 1809.\n\nfaithful and most obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Ihro MaJestät der Königin",
+     "en": "Her Majesty the Queen",
+     "kind": "person"
+    },
+    {
+     "de": "Allbrecht",
+     "en": "Allbrecht",
+     "kind": "person"
+    },
+    {
+     "de": "J M v. Beym",
+     "en": "J. M. von Beym",
+     "kind": "person"
+    },
+    {
+     "de": "Franckreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Osterreicher",
+     "en": "Austrians",
+     "kind": "other"
+    },
+    {
+     "de": "Franzosen",
+     "en": "French",
+     "kind": "other"
+    },
+    {
+     "de": "v. Köchn.",
+     "en": "von Köchn.",
+     "kind": "person"
+    },
+    {
+     "de": "Konigsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "24",
+    "3ten",
+    "1809"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Your Most Serene Highness's letter, together with the enclosures, I have presented to Her Majesty the Queen, which the same, most highly, has received with pleasure. For the rest, the matter was at once handed over by Her Majesty the Queen to His Excellency the Grand Chancellor, who immediately transferred it in turn to the Cabinet and Kammergericht Councillor Herr Allbrecht, with whom I am now working upon the business; His Excellency Herr J M v. Beym appears also to look very much to the form of it, and therefore I believe the matter will grow tedious. The Cabinet Councillor Herr Allbrecht is meanwhile the most upright and noblest man that I have known, and who will certainly [uncertain: undertake] everything, and to attain the goal. Of political news nothing whatever may be spoken here; the reports are so various that even the most clear-sighted head must fall silent as to the possible events in the future. It is a true ebb and flood. Every 24 hours the barometer sings differently: one day the French, the next day the Austrians have beaten everything; these so contradictory reports have moved His Majesty, at the giving out of the watchword, to issue the order along with it that in no manner shall there be any reasoning upon political subjects, particularly such as concern the war between France and Austria. The June- My stay here I cannot yet determine; the purposes are various, I must go daily to several places, many lack the time on account of their overburdened business, and therefore I often go in vain. — His Excellency the Lieutenant General v. Köchn. commends himself to Your Serene Highness's grace — I however remain, until death, reverently Your Most Serene Highness's Königsberg, the 3rd of May 1809. faithful and most obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's letter I have, together with the enclosures, presented to Her Majesty the Queen, which the same, in the Highest degree, received with satisfaction. For the rest, the matter was at once handed over by the Queen's Majesty to His Excellency the Grand Chancellor, who forthwith passed it on again to the Cabinet and Supreme Court Councillor Allbrecht, with whom I am now working on the affair; His Excellency J. M. von Beym appears [uncertain: and] to look very much to the form of things, and therefore I believe the matter will become tedious. The Cabinet Councillor Allbrecht is meanwhile the most upright and noblest man whom I have ever known, and who will certainly [uncertain: employ] everything, and to reach the goal.\n\nOf political news nothing whatever may be spoken here; the reports are so various that even the most clear-sighted head must fall silent as to the possible events of the future. It is a veritable ebb and flood; every 24 hours the barometer sings differently: one day the French have beaten everything, the next day the Austrians; these so contradictory reports have moved His Majesty to issue along with the watchword the command that in no manner shall there be any reasoning upon political subjects, particularly such as concern the war between France and Austria. The June- I cannot yet determine my stay here; the purposes are various, I must go daily to several places, many lack the time on account of the overburdened business, and therefore I often go in vain – His Excellency the Lieutenant-General von Köchn. commends himself to Your Serene Highness's grace – but I, in deepest reverence, remain, until death, Your Most Serene Highness's\n\nKönigsberg\n\nthe 3rd of May 1809.\n\nfaithful and most obedient servant\n\nvon Triebenfeld",
  "summary_en": "Reports delivering the Prince's letter and enclosures to Her Majesty the Queen, who received them with pleasure and passed the matter to the Grand Chancellor, thence to Cabinet and Kammergericht Councillor Allbrecht, with whom Triebenfeld is now working; Herr J M v. Beym's insistence on correct form threatens delay. Political news is unreportable, rumours of French and Austrian victories alternating daily, and the King has forbidden discussion of the Franco-Austrian war. Lieutenant General v. Köchn sends his respects; the length of the stay remains uncertain.",
  "summary_de": "Bericht über die Übergabe des fürstlichen Schreibens samt Anlagen an die Königin, die es mit Vergnügen aufnahm; die Sache wurde an den Großkanzler und von diesem an den Cabinets- und Kammergerichtsrath Allbrecht abgegeben, mit dem Triebenfeld nun arbeitet; da J M v. Beym auf die Form sehe, sei ein langwieriger Verlauf zu erwarten. Politische Nachrichten seien widersprüchlich; der König habe bei der Parole jedes Räsonnieren über den französisch-österreichischen Krieg verboten. Dauer des Aufenthalts unbestimmt; Empfehlung des Generallieutenants v. Köchn."
 }

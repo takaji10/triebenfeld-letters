@@ -170,16 +170,194 @@
    "doc_line": 32
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmars",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "brieger",
+   "surface_en": "Brieg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hater",
+   "kind": "person",
+   "surface_de": "Hater",
+   "surface_en": "Hater",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Burisch",
+   "kind": "person",
+   "surface_de": "Burischen",
+   "surface_en": "Burisch",
+   "page": 1
+  },
+  {
+   "entity": "august",
+   "display": "August",
+   "kind": "person",
+   "surface_de": "August",
+   "surface_en": "August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohischen",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sacke",
+   "kind": "person",
+   "surface_de": "Sacke",
+   "surface_en": "Sacke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Garisch",
+   "kind": "other",
+   "surface_de": "Garischer",
+   "surface_en": "Garisch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Most Highly Revered Privy Councillor of State! Your Right Honourable has, as the Councillor of War and Forests von Triebenfeld writes to me, guided my affairs so wisely that I may look forward with the greatest confidence to the happiest outcome of my wishes, and above all to the [uncertain: wager / rescue] out of the hands of the wicked p Cosmar. My eternal thanks I [uncertain: pay] to the same for it; through the report of the Brieg High Provincial Court everything will be confirmed which I have had represented through Herr von Triebenfeld and Court Councillor Hater. I have already sent to Triebenfeld an extract of the motion of the aforesaid collegium, which he can lay before Your Right Honourable. Everything (and that in return the whole of the entailed estate property be administered for the King's account) now depends only upon this, that the advance of 11213. Gü[uncertain: t] for the satisfaction of the Burisch heirs be granted; if this request of mine is allowed, then my foremost wish is attained: the King is at once wholly set ex nexu and immediately receives back the guaranteed instrument of debt for 300000 Rthl, all other creditors are satisfied, Cosmar's influence over the entailed estates thus soon has an end, and so His Majesty will now, in place of the old debt of 35000 Rthl, receive a sum of 461000 Rthl, and I am saved and need suffer want no longer. For the discharge of the advance of 112000 and reipit. 35000 Rthl, Herr von Triebenfeld has indeed assumed a period of 6 years, within which it should be repaid again into the fund out of which it might be given; but this period will not be necessary, as the Causa to reimburse the capital, for firstly Cosmar must have some 60000 Rthl behind him which my son August was to have received over 3 years, in return for which he now possesses the 3 Hohenlohe principalities — secondly he must account for the 100000 Rthl which were bequeathed to my eldest son for the discharge of the debts in the Hohenlohe lands by the late Princess Sacke out of her fortune. 3. thly Cosmar must have behind him, upon the moneys payable to me, more than 48000 Rthl. Out of these considerable funds, since the same may after all not be sent abroad, the advance from the fund can be discharged with all speed and afterwards be drawn in again upon the entailed estates for the appointed purpose. That moreover on the [uncertain: Garisch] side they are willing to be content with 112000 Rthl — of that Herr von Triebenfeld can lay the proof before Your Right Honourable. It is with the most distinguished high esteem and the greatest gratitude that I shall ever be Your Right Honourable's. Schlawenschitz, the 8th of January 1815."
+   "en": "Right Honourable Sir,\n\nMost highly revered Privy Councillor of State!\n\nYour Right Honourable has, as the Councillor of War von Triebenfeld writes to me, guided my affairs so wisely that I may look forward with the greatest confidence to the happiest outcome of my wishes, and above all to the [uncertain: wager] out of the hands of the wicked Cosmar and company. My eternal thanks I render to the same for it; through the report of the Brieg Higher Provincial Court everything will be confirmed that I have had represented through Mr. von Triebenfeld and Court Councillor Hater; I have already sent to Triebenfeld an extract from the motion of the aforesaid collegium, which he can lay before Your Right Honourable.\n\nEverything (and that, against this, the whole of the entailed estates be administered for the King's account) now depends only upon this, that the advance of 11213 [uncertain: gulden] for the satisfaction of the Burisch heirs be granted; if this request of mine is allowed, then my foremost wish is attained, the King is at once entirely released from the nexus and immediately receives back the guaranteed instrument of debt for 300000 Rthl, all other creditors are satisfied, Cosmar's influence upon the entailed estates thus soon comes to an end, so His Majesty will now receive, for the old debt of 35000 Rthl, a sum of 461000 Rthl, and I am saved and need suffer want no longer. For the extinction of the advance of 112000 and respectively 35000 Rthl Mr. von Triebenfeld has indeed assumed a period of 6 years, within which it should be repaid again into the treasury out of which it would have to be given; but this period will not be necessary, as the cause to reimburse the capital, for firstly Cosmar must have 60000 Rthl behind him, which my son August was to have received over 3 years, for which he now possesses the three Hohenlohe principalities - secondly he must account for the 100000 Rthl which were bequeathed to my eldest son out of her property by the late Princess Sacke for the extinction of the debts in the Hohenlohe lands. Thirdly, Cosmar must have behind him, of the moneys to be paid to me, more than 48000 Rthl. Out of these considerable funds, since the same may after all not be sent abroad, the treasury advance can be extinguished with all speed and thereafter be levied again upon the entailed estates for the appointed purpose. That moreover, on the [uncertain: Garisch] side, they are willing to be content with 112000 Rthl, of that Mr. von Triebenfeld can lay the proof before Your Right Honourable. It is with the most distinguished high esteem and greatest gratitude that I shall ever be,\n\nYour Right Honourable's\n\nSchlawenschitz\n\nthe 8th of January 1815.",
+   "names": [
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmars",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "brieger",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Hater",
+     "en": "Hater",
+     "kind": "person"
+    },
+    {
+     "de": "Burischen",
+     "en": "Burisch",
+     "kind": "person"
+    },
+    {
+     "de": "August",
+     "en": "August",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohischen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Sacke",
+     "en": "Sacke",
+     "kind": "person"
+    },
+    {
+     "de": "Garischer",
+     "en": "Garisch",
+     "kind": "other"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "11213",
+    "300000",
+    "35000",
+    "461000",
+    "112000",
+    "35000",
+    "6",
+    "1stens",
+    "60000",
+    "3",
+    "3",
+    "100000",
+    "3.",
+    "48000",
+    "112000",
+    "8ten",
+    "1815"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Most Highly Revered Privy Councillor of State! Your Right Honourable has, as the Councillor of War and Forests von Triebenfeld writes to me, guided my affairs so wisely that I may look forward with the greatest confidence to the happiest outcome of my wishes, and above all to the [uncertain: wager / rescue] out of the hands of the wicked p Cosmar. My eternal thanks I [uncertain: pay] to the same for it; through the report of the Brieg High Provincial Court everything will be confirmed which I have had represented through Herr von Triebenfeld and Court Councillor Hater. I have already sent to Triebenfeld an extract of the motion of the aforesaid collegium, which he can lay before Your Right Honourable. Everything (and that in return the whole of the entailed estate property be administered for the King's account) now depends only upon this, that the advance of 11213. Gü[uncertain: t] for the satisfaction of the Burisch heirs be granted; if this request of mine is allowed, then my foremost wish is attained: the King is at once wholly set ex nexu and immediately receives back the guaranteed instrument of debt for 300000 Rthl, all other creditors are satisfied, Cosmar's influence over the entailed estates thus soon has an end, and so His Majesty will now, in place of the old debt of 35000 Rthl, receive a sum of 461000 Rthl, and I am saved and need suffer want no longer. For the discharge of the advance of 112000 and reipit. 35000 Rthl, Herr von Triebenfeld has indeed assumed a period of 6 years, within which it should be repaid again into the fund out of which it might be given; but this period will not be necessary, as the Causa to reimburse the capital, for firstly Cosmar must have some 60000 Rthl behind him which my son August was to have received over 3 years, in return for which he now possesses the 3 Hohenlohe principalities — secondly he must account for the 100000 Rthl which were bequeathed to my eldest son for the discharge of the debts in the Hohenlohe lands by the late Princess Sacke out of her fortune. 3. thly Cosmar must have behind him, upon the moneys payable to me, more than 48000 Rthl. Out of these considerable funds, since the same may after all not be sent abroad, the advance from the fund can be discharged with all speed and afterwards be drawn in again upon the entailed estates for the appointed purpose. That moreover on the [uncertain: Garisch] side they are willing to be content with 112000 Rthl — of that Herr von Triebenfeld can lay the proof before Your Right Honourable. It is with the most distinguished high esteem and the greatest gratitude that I shall ever be Your Right Honourable's. Schlawenschitz, the 8th of January 1815.",
+ "text_english": "Right Honourable Sir,\n\nMost highly revered Privy Councillor of State!\n\nYour Right Honourable has, as the Councillor of War von Triebenfeld writes to me, guided my affairs so wisely that I may look forward with the greatest confidence to the happiest outcome of my wishes, and above all to the [uncertain: wager] out of the hands of the wicked Cosmar and company. My eternal thanks I render to the same for it; through the report of the Brieg Higher Provincial Court everything will be confirmed that I have had represented through Mr. von Triebenfeld and Court Councillor Hater; I have already sent to Triebenfeld an extract from the motion of the aforesaid collegium, which he can lay before Your Right Honourable.\n\nEverything (and that, against this, the whole of the entailed estates be administered for the King's account) now depends only upon this, that the advance of 11213 [uncertain: gulden] for the satisfaction of the Burisch heirs be granted; if this request of mine is allowed, then my foremost wish is attained, the King is at once entirely released from the nexus and immediately receives back the guaranteed instrument of debt for 300000 Rthl, all other creditors are satisfied, Cosmar's influence upon the entailed estates thus soon comes to an end, so His Majesty will now receive, for the old debt of 35000 Rthl, a sum of 461000 Rthl, and I am saved and need suffer want no longer. For the extinction of the advance of 112000 and respectively 35000 Rthl Mr. von Triebenfeld has indeed assumed a period of 6 years, within which it should be repaid again into the treasury out of which it would have to be given; but this period will not be necessary, as the cause to reimburse the capital, for firstly Cosmar must have 60000 Rthl behind him, which my son August was to have received over 3 years, for which he now possesses the three Hohenlohe principalities - secondly he must account for the 100000 Rthl which were bequeathed to my eldest son out of her property by the late Princess Sacke for the extinction of the debts in the Hohenlohe lands. Thirdly, Cosmar must have behind him, of the moneys to be paid to me, more than 48000 Rthl. Out of these considerable funds, since the same may after all not be sent abroad, the treasury advance can be extinguished with all speed and thereafter be levied again upon the entailed estates for the appointed purpose. That moreover, on the [uncertain: Garisch] side, they are willing to be content with 112000 Rthl, of that Mr. von Triebenfeld can lay the proof before Your Right Honourable. It is with the most distinguished high esteem and greatest gratitude that I shall ever be,\n\nYour Right Honourable's\n\nSchlawenschitz\n\nthe 8th of January 1815.",
  "summary_en": "Written from Schlawenschitz to a Privy Councillor of State, thanking him for steering the writer's affairs and for rescue from Cosmar's hands, and citing the Brieg High Provincial Court's report as confirming what von Triebenfeld and Court Councillor Hater have represented. Everything now hinges on an advance of some 112,000 Rthl to satisfy the Burisch heirs, which would free the King ex nexu, return the guaranteed 300,000 Rthl bond, and yield 461,000 Rthl in place of the old 35,000 Rthl debt; repayment, it is argued, needs no six-year term, since Cosmar holds sums of about 60,000, 100,000 and 48,000 Rthl.",
  "summary_de": "Dank an den Geheimen Staatsrath für die Förderung der Sache und die Aussicht auf Befreiung aus den Händen Cosmars; der Bericht des Brieger Oberlandesgerichts werde bestätigen, was durch von Triebenfeld und Hofrath Hater vorgetragen wurde. Alles hänge nun am Vorschuß von 112000 Rthl zur Befriedigung der Burischen Erben; dann werde der König ex nexu gesetzt, das garantierte Schuldinstrument über 300000 Rthl zurückerhalten und statt 35000 Rthl eine Summe von 461000 Rthl gewinnen. Zur Tilgung binnen sechs Jahren werden Cosmars Rückstände (60000, 100000 und 48000 Rthl) angeführt."
 }

@@ -1,16 +1,55 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! In the v. Broniewski matter the renewed first
-    attempt at the deposition has run out fruitlessly, as Your Most Serene Highness will deign to see
-    from the enclosed resolution of 25 June. I did not delay in [uncertain: raising once again all the
-    outcry] in order to [uncertain: recession / to obtain a rescission]. Herr v. Triebenfeld had told
-    me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order
-    to obtain possession of the estates. This I therefore offered; it stands at 10000 Rthl [uncertain:
-    detes Mieciat], and thereupon, in accordance with the appointed [uncertain: disposition], consideration
-    has been given, and the deposition, as also the clearing of Kolno and Kaemen, has been ordered to
-    the Government'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    In the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly],
+    as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the
+    25th of June.
+
+
+    I did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain
+    a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would,
+    if need be, deposit a security along with it, merely in order to come into possession of the estates.
+    This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon
+    that the appointed disposition has been taken into account, and the deposition as well as the vacating
+    of Kolno and Kaemen has been enjoined upon the Government'
+  names:
+  - de: v. Broniewskisch
+    en: v. Broniewski
+    kind: person
+  - de: H v Triebenfeld
+    en: Mr. v. Triebenfeld
+    kind: person
+  - de: Kolno
+    en: Kolno
+    kind: place
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  numbers:
+  - '25'
+  - '10000'
 - page: 2
-  en: at Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and
-    in this presumption, [text lost] I [remain] with reverence and devotion, Your Most Serene Highness's
-    — Ber[lin?] the 3rd of July 1804 — humble and obedient servant, Amelang
+  en: 'at Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness,
+    and in this presumption [uncertain: I remain] with reverence and devotion
+
+
+    Your Most Serene Highness''s Ber[lin?] the 3rd of July 1804 humble and obedient servant Amelang'
+  names:
+  - de: Posen
+    en: Posen
+    kind: place
+  - de: Ber[lin?]
+    en: Ber[lin?]
+    kind: place
+  - de: Amelang
+    en: Amelang
+    kind: person
+  numbers:
+  - '3'
+  - '1804'

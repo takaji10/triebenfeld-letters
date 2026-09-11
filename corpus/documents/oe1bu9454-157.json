@@ -140,20 +140,179 @@
    "doc_line": 45
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "pochammer",
+   "display": "Pochammer",
+   "kind": "person",
+   "surface_de": "Pochammer",
+   "surface_en": "Pochammer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General von K.",
+   "kind": "person",
+   "surface_de": "Gen. v. K:",
+   "surface_en": "General von K.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Giraud",
+   "kind": "person",
+   "surface_de": "Giraud",
+   "surface_en": "Giraud",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Haukt",
+   "kind": "person",
+   "surface_de": "Haukt",
+   "surface_en": "Haukt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Köchnen",
+   "kind": "person",
+   "surface_de": "v. Köchnen",
+   "surface_en": "von Köchnen",
+   "page": 2
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Homuth",
+   "kind": "person",
+   "surface_de": "Homuth",
+   "surface_en": "Homuth",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! Through the mediation of the brave General v. Köckritz I have the assurance of obtaining the loan from the Invalids' Fund; how quickly, however, I am not yet able to determine. The brave man ran about in person and took every pains. It is unbelievable what a shortage of money there is here; the bankers themselves give up to 10 and 12 [uncertain: Erleut — perhaps \"per cent\"] merely to save themselves for as long as the Bank and the Seehandlung do not discount. If it succeeds here now, then everything is done — Your Serene Highness surely laughs at the threats of the foolish Schlabrendorff woman — It is vexing, to be sure, that one cannot keep one's word at once; her mouth shall soon be stopped in each case, for Pochammer says — if only she receives money within this quarter-year, then it is well enough for a long while; he would not lodge any complaint, upon that Your Serene Highness might rely. — Pochammer is now very solid, since he knows that the Lord General v. K: is himself taking pains for the procuring of the loan"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nThrough the mediation of the worthy General von Köckritz I have the promise that the loan from the Invalids' Fund shall be obtained; how quickly, however, I am not yet able to say. The worthy man has himself run about everywhere and has taken all possible pains. It is incredible what a want of money there is here; the bankers themselves give up to 10 and 12 [uncertain: Erleut] merely to save themselves for so long as the Bank and the Maritime Trading Company do not discount. If it succeeds here now, then all is done - Your Serene Highness surely laughs at the threats of the foolish Schlabrendorff - It is indeed vexing that one cannot keep one's word at once; each of them is to have her mouth stopped presently, for Pochammer says - if only she receives money within this quarter-year it is well enough for a long while; he will not lodge any complaint, upon that Your Serene Highness may rely. - Pochammer is now very solid, since he knows that the General von K. is himself taking pains for the obtaining of the loan",
+   "names": [
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Pochammer",
+     "en": "Pochammer",
+     "kind": "person"
+    },
+    {
+     "de": "Gen. v. K:",
+     "en": "General von K.",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "12"
+   ]
   },
   {
    "page": 2,
-   "en": "To Giraud and Haupt I shall pay the interest, and have the mortgage ceded to someone who is willing to advance the 18000 Rthl for four years, without calling it in, if only the percentages are paid. Today the matter of the annual loan was to have come up for report; the brave General wrote on that account today, still before the session opened, to the [illegible] of the Military Department, the Lord Privy Councillor v. Köchnen. As soon as the request is granted I shall take 60000 Rthl in advance, pay here the ten thousand that were taken up, and send Your Serene Highness at once the full 50000 Rthl, so that you may settle the Schlabrendorff woman and her [uncertain: Frändische Siehe]. In deepest reverence I remain, until death, Your Most Serene Highness's — I have just now written to Homuth and assured him that Your Serene Highness will obtain the money from the Invalids' Fund through the help of the Lord General v. Köckritz; therewith I have begged him to set the Countess at ease, and to tell her that I stand surety to her that she shall have her money in a short time, and that my letter may serve as a document. Berlin, the 22nd of January 1805. most humble and obedient servant v Triebenfeld"
+   "en": "To Giraud and Haukt I shall pay the interest, and have the mortgage assigned to someone who is willing to advance the 18000 Rthl for four years, without calling it in, so long as the interest is paid.\n\nToday the matter of the annual loan was to have come up for report; the [uncertain: Bicke] General wrote on that account this very day, before the session opened, to the [uncertain: Incletiarius] of the Military Department.\n\nPrivy Councillor von Köchnen. As soon as the petition is granted I shall take 60000 Rthl in advance, pay here the ten thousand that were taken, and send Your Serene Highness at once the full 50000 Rthl, so that you may settle the Schlabrendorff woman and her [uncertain: Frändische] claim.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's. I have this moment written to Homuth and assured him that Your Serene Highness will obtain the money from the Invalids' Fund through the help of General von Köckritz; and therewith I have begged him to set the Countess at ease, and to tell her that I stand surety to her that she shall have her money within a short time; my letter may serve as a document. Berlin, the 22nd of January\n\n1805.\n\nmost humble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Giraud",
+     "en": "Giraud",
+     "kind": "person"
+    },
+    {
+     "de": "Haukt",
+     "en": "Haukt",
+     "kind": "person"
+    },
+    {
+     "de": "v. Köchnen",
+     "en": "von Köchnen",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Homuth",
+     "en": "Homuth",
+     "kind": "person"
+    },
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "18000",
+    "60000",
+    "50000",
+    "22",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! Through the mediation of the brave General v. Köckritz I have the assurance of obtaining the loan from the Invalids' Fund; how quickly, however, I am not yet able to determine. The brave man ran about in person and took every pains. It is unbelievable what a shortage of money there is here; the bankers themselves give up to 10 and 12 [uncertain: Erleut — perhaps \"per cent\"] merely to save themselves for as long as the Bank and the Seehandlung do not discount. If it succeeds here now, then everything is done — Your Serene Highness surely laughs at the threats of the foolish Schlabrendorff woman — It is vexing, to be sure, that one cannot keep one's word at once; her mouth shall soon be stopped in each case, for Pochammer says — if only she receives money within this quarter-year, then it is well enough for a long while; he would not lodge any complaint, upon that Your Serene Highness might rely. — Pochammer is now very solid, since he knows that the Lord General v. K: is himself taking pains for the procuring of the loan\n\nTo Giraud and Haupt I shall pay the interest, and have the mortgage ceded to someone who is willing to advance the 18000 Rthl for four years, without calling it in, if only the percentages are paid. Today the matter of the annual loan was to have come up for report; the brave General wrote on that account today, still before the session opened, to the [illegible] of the Military Department, the Lord Privy Councillor v. Köchnen. As soon as the request is granted I shall take 60000 Rthl in advance, pay here the ten thousand that were taken up, and send Your Serene Highness at once the full 50000 Rthl, so that you may settle the Schlabrendorff woman and her [uncertain: Frändische Siehe]. In deepest reverence I remain, until death, Your Most Serene Highness's — I have just now written to Homuth and assured him that Your Serene Highness will obtain the money from the Invalids' Fund through the help of the Lord General v. Köckritz; therewith I have begged him to set the Countess at ease, and to tell her that I stand surety to her that she shall have her money in a short time, and that my letter may serve as a document. Berlin, the 22nd of January 1805. most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nThrough the mediation of the worthy General von Köckritz I have the promise that the loan from the Invalids' Fund shall be obtained; how quickly, however, I am not yet able to say. The worthy man has himself run about everywhere and has taken all possible pains. It is incredible what a want of money there is here; the bankers themselves give up to 10 and 12 [uncertain: Erleut] merely to save themselves for so long as the Bank and the Maritime Trading Company do not discount. If it succeeds here now, then all is done - Your Serene Highness surely laughs at the threats of the foolish Schlabrendorff - It is indeed vexing that one cannot keep one's word at once; each of them is to have her mouth stopped presently, for Pochammer says - if only she receives money within this quarter-year it is well enough for a long while; he will not lodge any complaint, upon that Your Serene Highness may rely. - Pochammer is now very solid, since he knows that the General von K. is himself taking pains for the obtaining of the loan\n\nTo Giraud and Haukt I shall pay the interest, and have the mortgage assigned to someone who is willing to advance the 18000 Rthl for four years, without calling it in, so long as the interest is paid.\n\nToday the matter of the annual loan was to have come up for report; the [uncertain: Bicke] General wrote on that account this very day, before the session opened, to the [uncertain: Incletiarius] of the Military Department.\n\nPrivy Councillor von Köchnen. As soon as the petition is granted I shall take 60000 Rthl in advance, pay here the ten thousand that were taken, and send Your Serene Highness at once the full 50000 Rthl, so that you may settle the Schlabrendorff woman and her [uncertain: Frändische] claim.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's. I have this moment written to Homuth and assured him that Your Serene Highness will obtain the money from the Invalids' Fund through the help of General von Köckritz; and therewith I have begged him to set the Countess at ease, and to tell her that I stand surety to her that she shall have her money within a short time; my letter may serve as a document. Berlin, the 22nd of January\n\n1805.\n\nmost humble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "Reports that, through General v. Köckritz's personal exertions, the loan from the Invalids' Fund is assured, though its timing is uncertain; describes an acute shortage of money in Berlin, with bankers paying 10 to 12 per cent while the Bank and Seehandlung do not discount. Pochammer will lodge no complaint if the Schlabrendorff woman is paid within the quarter. Interest to Giraud and Haupt will be paid and the 18000 Rthl mortgage ceded; of 60000 Rthl to be drawn in advance, 50000 will be sent on. Homuth is asked to reassure the Countess.",
  "summary_de": "Bericht über die durch Vermittlung des Generals v. Köckritz zugesicherte Anleihe aus dem Invalidenfonds, deren Zeitpunkt jedoch offen bleibt; Klage über die große Geldknappheit in Berlin, da Bank und Seehandlung nicht diskontieren und Bankiers 10 bis 12 Prozent geben. Giraud und Haupt sollen Zinsen erhalten, die Hypothek von 18000 Rthl auf vier Jahre cediert werden. Nach Bewilligung will Triebenfeld 60000 Rthl vorweg nehmen, 10000 Rthl hier abtragen und 50000 Rthl übersenden; Pochammer und Homuth sollen die Gräfin Schlabrendorff beruhigen."
 }

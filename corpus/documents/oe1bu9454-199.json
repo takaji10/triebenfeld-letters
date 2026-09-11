@@ -112,16 +112,235 @@
    "doc_line": 31
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "T.",
+   "kind": "person",
+   "surface_de": "T.",
+   "surface_en": "T.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "K2",
+   "kind": "other",
+   "surface_de": "K2",
+   "surface_en": "K2",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von M.",
+   "kind": "person",
+   "surface_de": "H v M",
+   "surface_en": "Mr. von M.",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard:",
+   "surface_en": "Hard:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B",
+   "kind": "place",
+   "surface_de": "B",
+   "surface_en": "B",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowe",
+   "kind": "place",
+   "surface_de": "Zagorowe",
+   "surface_en": "Zagorowe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schweinere",
+   "kind": "place",
+   "surface_de": "Schweinere",
+   "surface_en": "Schweinere",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schweunen",
+   "kind": "place",
+   "surface_de": "Schweunen",
+   "surface_en": "Schweunen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "emilie",
+   "display": "Emilie",
+   "kind": "person",
+   "surface_de": "Emilie",
+   "surface_en": "Emilie",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bütern",
+   "kind": "place",
+   "surface_de": "Bütern",
+   "surface_en": "Bütern",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Albert",
+   "kind": "person",
+   "surface_de": "Albert",
+   "surface_en": "Albert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! About an hour ago I arrived here. The interest of my exalted Serene patron bids me for the present still to keep the conclusion from myself [uncertain reading: \"den Schluß von mich zu weisen\"] and to report to Your Most High self, my most gracious Prince, that which I have here to hand — The first is the enclosed letter from T. — According to this letter the King comes with K2 now quite certainly; in this regard I am not going to Berlin — but instead I shall work here, and tomorrow still send wine and fowl-game to B to T, so that a good deal may be discussed and set in train at the farewell banquet — According to a note of Herr v. M lying here, it is believed that Hardenberg too will come with the King; this, however, I think I must call into doubt, since T makes no mention of it. Be that as it may — Were both of them to come, it would please me doubly — From the mouth of 2 and 3 witnesses, according to the general laws, the truth is to be confirmed. Meanwhile I seek to play the part of forestalling; for I beg T so above [uncertain reading] that he absolutely take Hardenberg along as one of the party to the farewell banquet, and lead all the water onto our wheels. Since I am now not going to Berlin, I shall, if I am in any way in the world able to bring it about, ride off again to Zagorowe, in order there in haste to give the matter such a form that neither evil nor good beings shall be in a position to raise anything against the principal matter. The strength for the good will shall be granted me by God's assistance for this reason, because I truly hope to sell my mill in [uncertain reading: \"Schweinere\"] the day after tomorrow for 6000 Rthl in cash money, and also still to obtain a couple of thousand of the arrears of the time from my subjects — for with a common soul nothing counts nowadays but jingle-jangle — or the money-bag; whatever I shall find in the rush from Poland, that I shall lay at Your Serene Highness's feet by the next post. To Your Serene Highness's benevolence I commend myself; to the fairest of Princesses now living, Emilie, at [uncertain reading: \"Bütern\"], and to the Illustrious Hereditary Grand [uncertain reading: \"Erbgroßen\"] Albert I commend myself in the most respectful manner, and I remain, until death, in deepest esteem Your Serene Highness's — Breslau, the 19th of August, at 12 o'clock at night, 1810. Faithful most humble and obedient servant v Triebenfeld"
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAbout an hour ago I arrived here. The interest of my exalted Serene patron bids me for now still to put off the conclusion from myself and to report to you, my most gracious Prince, that which I have here in hand — The first is the enclosed letter from T. — According to these [uncertain: Brück] the King with K2 now quite certainly; in this regard I shall not go to Berlin – but instead I shall work here, and tomorrow yet send wine and wildfowl to B to T, so that a good deal may be discussed and set in train at the farewell banquet – According to a note of Mr. von M. lying here, it is believed that Hardenberg too will come with the King, but this I think I must call into doubt, because T makes no mention of it. So be it — Were both to come, it would be doubly welcome to me – From the mouths of 2 and 3 witnesses the truth is, by the general laws, to be established. Meanwhile I seek to play the part of forestalling; for I am just now asking T that he absolutely take Hard: along as a party to the farewell banquet, and lead all the water onto our wheels.\n\nSince I am now not going to Berlin, I shall, if I am in any way in the world able to bring it about, ride post-haste again to Zagorowe, in order there in all haste to give the matter such a form that neither evil nor good beings shall be in a position to raise anything against the main matter. The strength for good will shall be granted me by God's assistance for this reason, because I really hope to sell my mill in [uncertain: Schweinere] the day after tomorrow for 6000 Rthl in cash money, and also still to obtain a couple of thousand of arrears of the time from my subjects – for with a common soul, after all, nothing counts today but jingle-jangle – or the money-bag; whatever I shall find in [uncertain: Schweunen] out of Poland, I shall lay at Your Serene Highness's feet by the next post.\n\nI commend myself to Your Serene Highness's benevolence; to the fairest of Princesses now living, Emilie, [uncertain: auf dem Bütern] to the Illustrious Eldest Heir Albert I commend myself most deferentially and I remain, until death, in deepest reverence Your Serene Highness's\n\nBreslau, the 19th of August, at 12 o'clock at night\n\n1810.\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "T.",
+     "en": "T.",
+     "kind": "person"
+    },
+    {
+     "de": "K2",
+     "en": "K2",
+     "kind": "other"
+    },
+    {
+     "de": "H v M",
+     "en": "Mr. von M.",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Hard:",
+     "en": "Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "B",
+     "en": "B",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowe",
+     "en": "Zagorowe",
+     "kind": "place"
+    },
+    {
+     "de": "Schweinere",
+     "en": "Schweinere",
+     "kind": "place"
+    },
+    {
+     "de": "Schweunen",
+     "en": "Schweunen",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Emilie",
+     "en": "Emilie",
+     "kind": "person"
+    },
+    {
+     "de": "Bütern",
+     "en": "Bütern",
+     "kind": "place"
+    },
+    {
+     "de": "Albert",
+     "en": "Albert",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "3",
+    "6000",
+    "19",
+    "12",
+    "1810"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! About an hour ago I arrived here. The interest of my exalted Serene patron bids me for the present still to keep the conclusion from myself [uncertain reading: \"den Schluß von mich zu weisen\"] and to report to Your Most High self, my most gracious Prince, that which I have here to hand — The first is the enclosed letter from T. — According to this letter the King comes with K2 now quite certainly; in this regard I am not going to Berlin — but instead I shall work here, and tomorrow still send wine and fowl-game to B to T, so that a good deal may be discussed and set in train at the farewell banquet — According to a note of Herr v. M lying here, it is believed that Hardenberg too will come with the King; this, however, I think I must call into doubt, since T makes no mention of it. Be that as it may — Were both of them to come, it would please me doubly — From the mouth of 2 and 3 witnesses, according to the general laws, the truth is to be confirmed. Meanwhile I seek to play the part of forestalling; for I beg T so above [uncertain reading] that he absolutely take Hardenberg along as one of the party to the farewell banquet, and lead all the water onto our wheels. Since I am now not going to Berlin, I shall, if I am in any way in the world able to bring it about, ride off again to Zagorowe, in order there in haste to give the matter such a form that neither evil nor good beings shall be in a position to raise anything against the principal matter. The strength for the good will shall be granted me by God's assistance for this reason, because I truly hope to sell my mill in [uncertain reading: \"Schweinere\"] the day after tomorrow for 6000 Rthl in cash money, and also still to obtain a couple of thousand of the arrears of the time from my subjects — for with a common soul nothing counts nowadays but jingle-jangle — or the money-bag; whatever I shall find in the rush from Poland, that I shall lay at Your Serene Highness's feet by the next post. To Your Serene Highness's benevolence I commend myself; to the fairest of Princesses now living, Emilie, at [uncertain reading: \"Bütern\"], and to the Illustrious Hereditary Grand [uncertain reading: \"Erbgroßen\"] Albert I commend myself in the most respectful manner, and I remain, until death, in deepest esteem Your Serene Highness's — Breslau, the 19th of August, at 12 o'clock at night, 1810. Faithful most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAbout an hour ago I arrived here. The interest of my exalted Serene patron bids me for now still to put off the conclusion from myself and to report to you, my most gracious Prince, that which I have here in hand — The first is the enclosed letter from T. — According to these [uncertain: Brück] the King with K2 now quite certainly; in this regard I shall not go to Berlin – but instead I shall work here, and tomorrow yet send wine and wildfowl to B to T, so that a good deal may be discussed and set in train at the farewell banquet – According to a note of Mr. von M. lying here, it is believed that Hardenberg too will come with the King, but this I think I must call into doubt, because T makes no mention of it. So be it — Were both to come, it would be doubly welcome to me – From the mouths of 2 and 3 witnesses the truth is, by the general laws, to be established. Meanwhile I seek to play the part of forestalling; for I am just now asking T that he absolutely take Hard: along as a party to the farewell banquet, and lead all the water onto our wheels.\n\nSince I am now not going to Berlin, I shall, if I am in any way in the world able to bring it about, ride post-haste again to Zagorowe, in order there in all haste to give the matter such a form that neither evil nor good beings shall be in a position to raise anything against the main matter. The strength for good will shall be granted me by God's assistance for this reason, because I really hope to sell my mill in [uncertain: Schweinere] the day after tomorrow for 6000 Rthl in cash money, and also still to obtain a couple of thousand of arrears of the time from my subjects – for with a common soul, after all, nothing counts today but jingle-jangle – or the money-bag; whatever I shall find in [uncertain: Schweunen] out of Poland, I shall lay at Your Serene Highness's feet by the next post.\n\nI commend myself to Your Serene Highness's benevolence; to the fairest of Princesses now living, Emilie, [uncertain: auf dem Bütern] to the Illustrious Eldest Heir Albert I commend myself most deferentially and I remain, until death, in deepest reverence Your Serene Highness's\n\nBreslau, the 19th of August, at 12 o'clock at night\n\n1810.\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports his arrival and encloses a letter from T confirming that the King will certainly come with K2; he therefore abandons his journey to Berlin, working instead on the spot and sending wine and fowl-game to T for a farewell banquet at which much may be settled. A note from Herr v. M suggests Hardenberg will accompany the King, which he doubts but hopes for, urging T to bring Hard: to the banquet. He then intends to ride to Zagorowe, expecting 6000 Rthl cash from the sale of his mill and arrears from his subjects.",
  "summary_de": "Nach Ankunft meldet Triebenfeld den Inhalt eines beiliegenden Schreibens von T.: der König komme nun gewiß mit K2, weshalb er die Reise nach Berlin aufgibt und stattdessen an Ort und Stelle wirken, auch Wein und Federwild nach B an T senden will, damit beim Abschiedsmahl viel verhandelt werde; einer Notiz des Herrn v. M zufolge komme auch Hardenberg mit, was er bezweifelt, doch T solle ihn unbedingt zur Tafel ziehen. Er plant erneuten Ritt nach Zagorowe und hofft, seine Mühle übermorgen für 6000 Rthl bar sowie einige tausend Rthl Rückstände von seinen Untertanen zu erlangen; Grüße an Prinzessin Emilie und Albert."
 }

@@ -1,11 +1,11 @@
 status: draft
 segments:
 - page: 1
-  en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal Grace, Friendship and good Will
-    beforehand! Most Serene Prince, dearest Friend and dear Faithful One. Your Liebden receives herewith
-    enclosed an engrossed copy of the purchase contract concluded with the Banco-Rendant Leixner over
-    the estates Kolno and Kaemen, confirmed under this date. We remain well disposed toward you with Royal
-    Grace, Friendship and favourable Will. Given at Posen, the 18th of March 1805. Royal South Prussian
+  en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal grace, friendship and good will
+    be with you first! Most Serene Prince, dearest friend and dear faithful subject. Your Lordship receives
+    herewith enclosed an engrossed copy of the purchase contract concluded with the bank cashier Leixner
+    concerning the estates of Kolno and Kaemen, confirmed this day. We are well disposed towards you with
+    Royal grace, friendship and favourable will. Given at Posen, the 18th of March 1805. Royal South Prussian
     Government [illegible]raudchreig[illegible]
 
 
@@ -15,10 +15,10 @@ segments:
     the reigning Lord
 
 
-    Fürst zu Hohenlohe
+    Prince of Hohenlohe-
 
 
-    Ingelfingen, Liebden.
+    Ingelfingen, Your Lordship.
 
 
     Fee 1 rt 2 g
@@ -27,7 +27,39 @@ segments:
     Stamp 6 g
 
 
-    Mund[ierung, fair-copying]: 2 g
+    Engrossing: 2 g
 
 
-    Ins[inuation, service]: 3 g'
+    Registration: 3 g'
+  names:
+  - de: Friedrich Wilhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Preussen
+    en: Prussia
+    kind: place
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: Kolno
+    en: Kolno
+    kind: place
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Posen
+    en: Posen
+    kind: place
+  - de: Südpreuß.
+    en: South Prussian
+    kind: place
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: other
+  numbers:
+  - 18ten
+  - '1805'
+  - 1 rt 2 g
+  - 6 g
+  - 2 g
+  - 3 g

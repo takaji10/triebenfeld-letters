@@ -1,34 +1,82 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord,
+  en: 'Most Serene Prince
 
 
-    Your Most Serene Highness, I wrote of late by a messenger and sent the letter to the Amtman König,
-    and they could and he may and he can also forward the same to him by an express to Schlawenschi —
-    but the fellow did not do this, and instead put the letter into the post at Pol Wartemberg. For some
-    days now I have been hoping for a gracious reply from Your Serene Highness. Now I can wait no longer;
-    I must set out this night for Dresden, for my eldest son lies wounded at Naumburg on the Saale and
-    has been shot through both thighs. I therefore go, as said above, this day by way of Dresden thither,
-    and shall return to Dresden in twelve days at the most. May Your Most Serene Highness only deign to
-    send the letter now to Dresden, and most graciously have it noted upon the address that the [uncertain:
-    calling / office] should remain lying at the post until called for by myself in person. — As soon
-    as I have the letter from Your Serene Highness to His Majesty the Emperor, drawn up in the manner
-    of Fieder, I shall certainly get Trąbczyn and Kaemen back again. Neither Trzcinski nor König nor Zerboni
-    nor Meierowitz have I to this day set eyes upon with'
+    Most gracious Prince and Lord, Your Most Serene Highness, I wrote lately by a messenger, sent the
+    letter to the district administrator König and could and can and can also forward the same to him
+    by an express to Schlawenschi - but the fellow did not do this, and instead put the letter into the
+    post at Pol Wartemberg. For some days now I have been hoping for a gracious reply from Your Serene
+    Highness. Now I can wait no longer, I must set out tonight for Dresden, for my eldest son lies wounded
+    at Naumburg an der Saale and has been shot through both thighs. I am therefore going thither, as said
+    above, today by way of Dresden, and shall be back in Dresden within twelve days at the most. May Your
+    Most Serene Highness only be pleased to send the letter now to Dresden, and most graciously have it
+    noted upon the address that the letter should remain lying at the post office until I myself call
+    for it. – As soon as I have the letter from Your Serene Highness to His Majesty the Emperor, drafted
+    [uncertain: Fieder] in the manner set out, I shall certainly get Trąbczyn and Kaemen back. Neither
+    Trzciński nor König nor Zerboni nor Meierowitz have I to this day set'
+  names:
+  - de: König
+    en: König
+    kind: person
+  - de: Schlawenschi
+    en: Schlawenschi
+    kind: place
+  - de: Pol Wartemberg
+    en: Pol Wartemberg
+    kind: place
+  - de: Dresden
+    en: Dresden
+    kind: place
+  - de: Naumburg an der Saale
+    en: Naumburg an der Saale
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Trzcinski
+    en: Trzciński
+    kind: person
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: Meierowitz
+    en: Meierowitz
+    kind: person
+  numbers:
+  - '12'
 - page: 2
-  en: 'a single eye; even to all my letters I receive nothing but dizzying evasions. — With [uncertain:
-    Mecerowitz / Meierowitz] alone the execution has been laid on. — Radke cannot get away at present,
-    for in his neighbourhood there stand some 80000 Russians. Perhaps it will go better when I return
-    from Dresden.
+  en: 'eyes upon, and even to all my letters I receive nothing but dizzying evasions. – Against Meierowitz
+    alone execution has been laid. – Radke cannot get away at present, for in his neighbourhood there
+    stand some 80000 Russians. Perhaps matters will go better when I return from Dresden. In deepest reverence
+    I remain, until death, Your Most Serene Highness''s Kalisz
 
 
-    In deepest respect I remain, until death, Your Most Serene Highness''s
-
-
-    Kalisz, the 29th of April 1813
-
-
-    most humble and obedient servant
-
-    v Triebenfeld'
+    the 29th of April 1813 most humble and obedient servant v Triebenfeld'
+  names:
+  - de: Meierowitz
+    en: Meierowitz
+    kind: person
+  - de: Radke
+    en: Radke
+    kind: person
+  - de: Rußen
+    en: Russians
+    kind: other
+  - de: Dresden
+    en: Dresden
+    kind: place
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  numbers:
+  - '80000'
+  - '29'
+  - '1813'

@@ -1,12 +1,35 @@
 status: draft
 segments:
 - page: 1
-  en: Right Honourable Sir, Most Highly Revered Councillor of War and Forests! I have, by command of Your
-    Right Honourable, to transmit the enclosed pieces, of which the one is an original and the second
-    a Copy. His Serene Highness most humbly requests that you write your opinion upon these matters, and
-    what is to be done in these affairs; the Girard and Haupt press particularly, and were His Serene
-    Highness not somewhat short with his cash-box, which was much exhausted by the journey, His Highness
-    would at once send the requisite sum in order to satisfy these gentlemen.
+  en: 'Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! I have, by the command
+    of Your Right Honourable, [uncertain: to transmit] the enclosed pieces, of which the one is an original
+    and the second a copy. His Serene Highness most submissively requests that you write your opinion
+    upon these, and what is to be done in these matters; the Girard and Haupt are pressing especially
+    hard, and if His Serene Highness were not somewhat short in his cash-box, which was greatly exhausted
+    by the journey, he would at once send the requisite sum in order to satisfy these gentlemen.'
+  names:
+  - de: Girard
+    en: Girard
+    kind: person
+  - de: Haupt
+    en: Haupt
+    kind: person
 - page: 2
-  en: I commend myself to your further favour and persist in faithful veneration, Your Right Honourable's
-    — Breslau, the 2nd of August 1805. Humble and obedient servant, A. Huhn
+  en: 'I commend myself to your further favour and persist in faithful reverence, Your Right Honourable''s.
+    Breslau, the 2nd of August 1805.
+
+
+    humble and obedient servant
+
+
+    A. Huhn'
+  names:
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: A. Huhn
+    en: A. Huhn
+    kind: person
+  numbers:
+  - '2'
+  - '1805'

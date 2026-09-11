@@ -134,20 +134,254 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vistula",
+   "kind": "place",
+   "surface_de": "Weichsel",
+   "surface_en": "Vistula",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Koch:",
+   "surface_en": "Koch:",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard:",
+   "surface_en": "Hard:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nap:",
+   "kind": "person",
+   "surface_de": "Nap:",
+   "surface_en": "Nap:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oder",
+   "kind": "place",
+   "surface_de": "Oder",
+   "surface_en": "Oder",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "N",
+   "kind": "person",
+   "surface_de": "N",
+   "surface_en": "N",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "fürſt Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neiss",
+   "surface_en": "Neisse",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ortell",
+   "kind": "person",
+   "surface_de": "Ortell",
+   "surface_en": "Ortell",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neustadt",
+   "kind": "place",
+   "surface_de": "Neustadt",
+   "surface_en": "Neustadt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankenstein",
+   "kind": "place",
+   "surface_de": "Frau kenstein",
+   "surface_en": "Frankenstein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schwierin",
+   "kind": "place",
+   "surface_de": "Schwierin",
+   "surface_en": "Schwierin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Neustadt",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! It is quite certain, and proved to the highest degree of evidence, that Austria will not join in the fighting; she means to remain neutral and to act as mediator, that is to say, to fish in troubled waters and to do nothing further beyond that – to the people the advantages of this are painted in such glowing colours that they are already so wearied in their zeal by it. The saddest thing, and for us the most fraught with danger, is that the Russian troops are grumbling very much, and even the generals curse the armistice; one would rather fall back as far as the Vistula. Our situation is now very critical. The Lieutenant-General von [uncertain: Koch / Köckritz] has fallen out very severely with the Minister Hardenberg; the Minister asks His Excellency von K. in the presence of the Monarch. – Are you not glad that everything is going so well? K.: About what! Min.: Well now, everything stands very well, the proud Nap: has begged for the armistice, must – K.: Sir! I should have to have run out of the madhouse, if I were to rejoice at that – So much innocent blood has been shed in vain – we run as far as the Oder, we give up Saxony and our own lands piecemeal, [uncertain: Brönen] then the matter, we conclude an armistice for 6 weeks, we withdraw our troops, which held the most advantageous position, we give N. time to procure [uncertain: Sontien] for himself, and now we let ourselves [uncertain: be driven / hesitate] to behind the Vistula, and our lands be totally ruined. No, it is out of the madhouse that the man must have escaped who rejoices over all these events. – H.: Now then, do it better – K.: I cannot out-shout the clever gentlemen. H.: Ah, Your Excellency sees everything black – Everything stands very well nonetheless, and we shall certainly obtain a very advantageous peace."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIt is quite certain, and proved to the highest evidence, that Austria is not joining in the fighting; she wishes to remain neutral and to act as mediator, that is to say, to fish in troubled waters and to do nothing further beyond that – the advantages of this are painted for the people in such glowing colours that they are already so wearied in their zeal for it. The saddest thing, and for us the most full of danger, is that the Russian troops are grumbling greatly and even the generals curse the armistice; one would rather go back as far as the Vistula. Our situation is now very critical. Lieutenant General von Koch: has fallen out very badly with Minister Hard:; the Minister asked Lieutenant General von K in the presence of the monarch. – Well, are you not glad that everything is going so well?\n\nK: About what!\n\nWith that, now, everything stands very well, the proud Nap: has begged for the armistice, we must – K: Sir! I should have had to escape from the madhouse if I rejoiced over that – So much innocent blood has been shed in vain – we run as far as the Oder, we abandon Saxony and our own lands in part, [uncertain: Brönen] then the matter, we conclude an armistice for 6 weeks, we withdraw our troops, which had the most advantageous position, we give N time to procure [uncertain: Sontien] for himself, and now let ourselves be driven back behind the Vistula, and our lands totally ruined. No, he must have escaped from the madhouse who rejoices over all these events – H: Well then, do it better –\n\nK: I cannot shout down the clever gentlemen.\n\nH: Ah, Your Excellency sees everything black – Nevertheless everything stands very well and we shall certainly obtain a very advantageous peace.",
+   "names": [
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Weichsel",
+     "en": "Vistula",
+     "kind": "place"
+    },
+    {
+     "de": "Koch:",
+     "en": "Koch:",
+     "kind": "person"
+    },
+    {
+     "de": "Hard:",
+     "en": "Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Nap:",
+     "en": "Nap:",
+     "kind": "person"
+    },
+    {
+     "de": "Oder",
+     "en": "Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "N",
+     "en": "N",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6"
+   ]
   },
   {
    "page": 2,
-   "en": "I have indeed heard the former said again here. Would to God that Prince Hohenlohe stood at the head; then things would surely go better. – How matters will stand with the provisioning hereafter is a problem – the Russians will have nothing to do with it, and demand impetuously to be provisioned. Now there is not much grain left in the land – the roads are bottomless and already lie covered with dead horses, the green fodder brings the pestilence among them; God alone knows how this is to end. General Zastrow is again very well liked; he is to command the Landwehr, which is now being assembled at Neiss, and consists of 55000 men. Lieutenant-General Ortell lies here in Neustadt very ill of a nasty fever and meddles now in nothing; I therefore go from here tomorrow by way of Neisse to Frankenstein, from there to the head quarters, then to Schwierin, to see whether I can bring in the produce and procure money for myself — from that side I shall not write again until later. Reverently I remain, as Your Most Serene Highness's Neustadt, the 20th of June 1813. most humble and obedient servant v Triebenfeld"
+   "en": "Here I have indeed heard the first said again. Would to God the Prince of Hohenlohe stood at the head; then things would surely go better – How matters will stand with provisioning hereafter is a problem – the [uncertain: Hußen] will have nothing to do with it, and demand vehemently to be provisioned. Now there is not much grain left in the country – the roads are bottomless and already lie covered with dead horses, the green fodder brings the plague among them; God alone knows how this is to end. General Zastrow is again very well thought of; he will command the militia which is now being assembled at Neisse, and which consists of 55000 men. Lieutenant General Ortell lies here in Neustadt very ill with a foul fever and now meddles in nothing; I therefore leave here tomorrow by way of Neisse for Frankenstein, from there to the headquarters, then to Schwierin, to see whether I can bring the produce forward and procure money for myself — from that side I shall write again only later. Reverently I remain, as\n\nYour Most Serene Highness's\n\nNeustadt\n\nthe 20th of June\n\n1813.\n\nmost humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "fürſt Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Neiss",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "Ortell",
+     "en": "Ortell",
+     "kind": "person"
+    },
+    {
+     "de": "Neustadt",
+     "en": "Neustadt",
+     "kind": "place"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "Frau kenstein",
+     "en": "Frankenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Schwierin",
+     "en": "Schwierin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "55000",
+    "20ten",
+    "1813"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! It is quite certain, and proved to the highest degree of evidence, that Austria will not join in the fighting; she means to remain neutral and to act as mediator, that is to say, to fish in troubled waters and to do nothing further beyond that – to the people the advantages of this are painted in such glowing colours that they are already so wearied in their zeal by it. The saddest thing, and for us the most fraught with danger, is that the Russian troops are grumbling very much, and even the generals curse the armistice; one would rather fall back as far as the Vistula. Our situation is now very critical. The Lieutenant-General von [uncertain: Koch / Köckritz] has fallen out very severely with the Minister Hardenberg; the Minister asks His Excellency von K. in the presence of the Monarch. – Are you not glad that everything is going so well? K.: About what! Min.: Well now, everything stands very well, the proud Nap: has begged for the armistice, must – K.: Sir! I should have to have run out of the madhouse, if I were to rejoice at that – So much innocent blood has been shed in vain – we run as far as the Oder, we give up Saxony and our own lands piecemeal, [uncertain: Brönen] then the matter, we conclude an armistice for 6 weeks, we withdraw our troops, which held the most advantageous position, we give N. time to procure [uncertain: Sontien] for himself, and now we let ourselves [uncertain: be driven / hesitate] to behind the Vistula, and our lands be totally ruined. No, it is out of the madhouse that the man must have escaped who rejoices over all these events. – H.: Now then, do it better – K.: I cannot out-shout the clever gentlemen. H.: Ah, Your Excellency sees everything black – Everything stands very well nonetheless, and we shall certainly obtain a very advantageous peace.\n\nI have indeed heard the former said again here. Would to God that Prince Hohenlohe stood at the head; then things would surely go better. – How matters will stand with the provisioning hereafter is a problem – the Russians will have nothing to do with it, and demand impetuously to be provisioned. Now there is not much grain left in the land – the roads are bottomless and already lie covered with dead horses, the green fodder brings the pestilence among them; God alone knows how this is to end. General Zastrow is again very well liked; he is to command the Landwehr, which is now being assembled at Neiss, and consists of 55000 men. Lieutenant-General Ortell lies here in Neustadt very ill of a nasty fever and meddles now in nothing; I therefore go from here tomorrow by way of Neisse to Frankenstein, from there to the head quarters, then to Schwierin, to see whether I can bring in the produce and procure money for myself — from that side I shall not write again until later. Reverently I remain, as Your Most Serene Highness's Neustadt, the 20th of June 1813. most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIt is quite certain, and proved to the highest evidence, that Austria is not joining in the fighting; she wishes to remain neutral and to act as mediator, that is to say, to fish in troubled waters and to do nothing further beyond that – the advantages of this are painted for the people in such glowing colours that they are already so wearied in their zeal for it. The saddest thing, and for us the most full of danger, is that the Russian troops are grumbling greatly and even the generals curse the armistice; one would rather go back as far as the Vistula. Our situation is now very critical. Lieutenant General von Koch: has fallen out very badly with Minister Hard:; the Minister asked Lieutenant General von K in the presence of the monarch. – Well, are you not glad that everything is going so well?\n\nK: About what!\n\nWith that, now, everything stands very well, the proud Nap: has begged for the armistice, we must – K: Sir! I should have had to escape from the madhouse if I rejoiced over that – So much innocent blood has been shed in vain – we run as far as the Oder, we abandon Saxony and our own lands in part, [uncertain: Brönen] then the matter, we conclude an armistice for 6 weeks, we withdraw our troops, which had the most advantageous position, we give N time to procure [uncertain: Sontien] for himself, and now let ourselves be driven back behind the Vistula, and our lands totally ruined. No, he must have escaped from the madhouse who rejoices over all these events – H: Well then, do it better –\n\nK: I cannot shout down the clever gentlemen.\n\nH: Ah, Your Excellency sees everything black – Nevertheless everything stands very well and we shall certainly obtain a very advantageous peace.\n\nHere I have indeed heard the first said again. Would to God the Prince of Hohenlohe stood at the head; then things would surely go better – How matters will stand with provisioning hereafter is a problem – the [uncertain: Hußen] will have nothing to do with it, and demand vehemently to be provisioned. Now there is not much grain left in the country – the roads are bottomless and already lie covered with dead horses, the green fodder brings the plague among them; God alone knows how this is to end. General Zastrow is again very well thought of; he will command the militia which is now being assembled at Neisse, and which consists of 55000 men. Lieutenant General Ortell lies here in Neustadt very ill with a foul fever and now meddles in nothing; I therefore leave here tomorrow by way of Neisse for Frankenstein, from there to the headquarters, then to Schwierin, to see whether I can bring the produce forward and procure money for myself — from that side I shall write again only later. Reverently I remain, as\n\nYour Most Serene Highness's\n\nNeustadt\n\nthe 20th of June\n\n1813.\n\nmost humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "Political and military intelligence: Austria is certain to stay neutral and merely mediate; Russian troops and their generals curse the armistice and would fall back to the Vistula. Reports at length a quarrel before the Monarch between Lieutenant-General von Koch and Minister Hardenberg over rejoicing at the six-week armistice, the abandonment of Saxony and Prussian lands. Notes grain shortage, ruined roads and dead horses, Zastrow's command of 55,000 Landwehr at Neiss, Ortell's illness, and plans to travel via Neisse and Frankenstein to headquarters and Schwierin to raise produce and money.",
  "summary_de": "Politisch-militärischer Lagebericht: Österreich werde neutral bleiben und nur vermitteln; die russischen Truppen murrten, selbst die Generale verwünschten den Waffenstillstand und wollten sich hinter die Weichsel zurückziehen. Ausführlich wiedergegeben wird ein heftiger Wortwechsel des Generallieutenants von Koch mit Minister Hardenberg über die Aufgabe Sachsens und eigener Lande. Klagen über Verpflegung, Getreidemangel, grundlose Wege und Pferdeseuche; General Zastrow solle die 55000 Mann Landwehr bei Neiss befehligen; Generallieutenant Ortell liege in Neustadt krank. Reise über Neisse, Frankenstein und das Hauptquartier nach Schwierin, um Naturalien einzubringen und Geld zu beschaffen."
 }

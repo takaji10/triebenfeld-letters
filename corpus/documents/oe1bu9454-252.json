@@ -87,16 +87,128 @@
    "doc_line": 9
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Ewr Hochwohlgeboren",
+   "surface_en": "Your Right Honourable",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "C f v Hardenberg",
+   "kind": "person",
+   "surface_de": "C f v Hardenberg",
+   "surface_en": "C f v Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "In answer to Your Right Honourable's petition of the 25th of last month, I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kaemen will settle itself of its own accord as soon as the general partition and agreement now in progress concerning the Duchy of Warsaw shall come to be carried out. Vienna, the 25th of November 1814. C f v Hardenberg. To the Right Honourable the Councillor of War von Triebenfeld, Sir."
+   "en": "In response to Your Right Honourable's petition of the 25th of last month, I [uncertain: berechrichtige — inform] you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kaemen will settle itself of its own accord as soon as the general settlement and agreement now in progress concerning the Duchy of Warsaw comes to be carried into execution. Vienna, the 25th of November 1814.\n\nC f v Hardenberg\n\nTo the Right Honourable Councillor of War von Triebenfeld\n\nSir",
+   "names": [
+    {
+     "de": "Ewr Hochwohlgeboren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "C f v Hardenberg",
+     "en": "C f v Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "25ten",
+    "25ten",
+    "1814"
+   ]
   }
  ],
- "text_english": "In answer to Your Right Honourable's petition of the 25th of last month, I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kaemen will settle itself of its own accord as soon as the general partition and agreement now in progress concerning the Duchy of Warsaw shall come to be carried out. Vienna, the 25th of November 1814. C f v Hardenberg. To the Right Honourable the Councillor of War von Triebenfeld, Sir.",
+ "text_english": "In response to Your Right Honourable's petition of the 25th of last month, I [uncertain: berechrichtige — inform] you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kaemen will settle itself of its own accord as soon as the general settlement and agreement now in progress concerning the Duchy of Warsaw comes to be carried into execution. Vienna, the 25th of November 1814.\n\nC f v Hardenberg\n\nTo the Right Honourable Councillor of War von Triebenfeld\n\nSir",
  "summary_en": "Reply from Hardenberg in Vienna to the Councillor of War von Triebenfeld's petition of the 25th of the previous month: the Prince of Hohenlohe's affair concerning the claims upon Trąbczyn and Kaemen will resolve itself of its own accord once the general partition and agreement now under negotiation over the Duchy of Warsaw is carried into effect. A brief official note, offering no further action or undertaking in the meantime.",
  "summary_de": "Antwort auf Triebenfelds Gesuch vom 25. des Vormonats: Die Angelegenheit des Fürsten zu Hohenlohe hinsichtlich der Ansprüche auf Trąbczyn und Kaemen werde sich von selbst regeln, sobald die derzeit in Verhandlung stehende allgemeine Teilung und Übereinkunft über das Herzogtum Warschau zur Ausführung komme. Kurze Auskunft Hardenbergs an den Kriegsrath von Triebenfeld, ohne weitere Zusagen oder Angabe von Summen und Fristen."
 }

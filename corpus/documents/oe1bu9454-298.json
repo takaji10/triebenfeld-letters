@@ -150,20 +150,401 @@
    "doc_line": 52
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sansenberger",
+   "kind": "other",
+   "surface_de": "Sansenberger",
+   "surface_en": "Sansenberger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schank",
+   "kind": "person",
+   "surface_de": "Schank",
+   "surface_en": "Schank",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zerboni's",
+   "kind": "person",
+   "surface_de": "Zerbonischen",
+   "surface_en": "Zerboni's",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna treaty",
+   "kind": "other",
+   "surface_de": "Wiener Tractat",
+   "surface_en": "Vienna treaty",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bvidlang",
+   "kind": "person",
+   "surface_de": "Bvidlang",
+   "surface_en": "Bvidlang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Barbe's",
+   "kind": "person",
+   "surface_de": "Barbes",
+   "surface_en": "Barbe's",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr. von Humboldt",
+   "kind": "person",
+   "surface_de": "H. v. Humboldt",
+   "surface_en": "Mr. von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zerboni's",
+   "kind": "person",
+   "surface_de": "Zerbonis",
+   "surface_en": "Zerboni's",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschener",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brafurt",
+   "kind": "place",
+   "surface_de": "Brafurt",
+   "surface_en": "Brafurt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Strehlitz",
+   "kind": "place",
+   "surface_de": "Strehlitz",
+   "surface_en": "Strehlitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vierung",
+   "kind": "person",
+   "surface_de": "Vierung",
+   "surface_en": "Vierung",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sansenberg",
+   "kind": "place",
+   "surface_de": "Sansenberg",
+   "surface_en": "Sansenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Gostyszyn",
+   "kind": "place",
+   "surface_de": "Gostyszyn",
+   "surface_en": "Gostyszyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Faust",
+   "kind": "person",
+   "surface_de": "Faust",
+   "surface_en": "Faust",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kempen",
+   "kind": "place",
+   "surface_de": "Kempen",
+   "surface_en": "Kempen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Pro Memoria. Madame Schenck has detained my messenger, as well as the Sansenberger, for 3 days, because she was expecting her husband back from Warsaw — Just now the Schank brings me Your Serene Highness's letter to him, with the Copy of the Zerbonian letter together with several from Berlin and God knows whence, which must have been a very long time on the road, and for which I have had to pay some 7 Rthl [uncertain: in charges]. Since, moreover, my messenger was returning, I enclose this as well — On the whole I repeat what I already said on the 19th. My illness continues and I still cannot walk or stand. Sit up I already can, and I hope the illness will abate — My torn heart, however, will hardly be healed any more. Zerboni's superclever speeches are those which I already reported to Your Serene Highness from Vienna — Were the matter not taken up into the Vienna Treaty and the indemnification promised in the first place, he might be right — as it is, however, the truth spoken in its plain sense is surely the best. Bvidlang is now on the point of stepping into Barbe's place, and he is my friend as truly as ever Barbe could be — also he is at the same time an intimate friend, and to make him still more so, of Herr v. Humboldt — Enough: as regards the indemnification I fear nothing. It is also said that the Emperor returns at the end of March, and therefore a) there is no such great haste to Berlin; the matter will not escape us — First I must put my own affairs here in order"
+   "en": "P[ro]. M[emoria].\n\nMadame Schenck has detained my messenger, as well as the Sansenberger, for 3 days, because she was expecting her husband back from Warsaw — Just now Schank sends me Your Serene Highness's letter to him, with the copy of Zerboni's [uncertain: Brust] together with several from Berlin and God knows where else, which must have been a very long time on the road, and for which I have had to pay some 7 Rthl in [uncertain: charges]. Since my messenger was returning in any case, I enclose this as well - On the whole I repeat what I already said on the 19th. My illness continues and I still cannot walk or stand. I can already sit, and I hope the illness will abate - My torn heart, however, will hardly be healed any more. Zerboni's super-clever speeches are those which I already reported to Your Serene Highness from Vienna - Were the matter not taken up in the Vienna treaty and the compensation promised in the first place, he might be right - as it is, however, the truth spoken in the plain sense is surely the best. [uncertain: Bvidlang] now stands on the point of stepping into Barbe's place, and he is my friend as much as Barbe could be - also he is at the same time an intimate friend\n\nto make this still more of him, of Mr. von Humboldt - Enough: as regards the compensation I fear nothing. It is also said that the Emperor returns at the end of March, and therefore a) there is no such great haste to Berlin, the matter will not escape us - First I must settle my own affairs here",
+   "names": [
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Sansenberger",
+     "en": "Sansenberger",
+     "kind": "other"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Schank",
+     "en": "Schank",
+     "kind": "person"
+    },
+    {
+     "de": "Zerbonischen",
+     "en": "Zerboni's",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Wiener Tractat",
+     "en": "Vienna treaty",
+     "kind": "other"
+    },
+    {
+     "de": "Bvidlang",
+     "en": "Bvidlang",
+     "kind": "person"
+    },
+    {
+     "de": "Barbes",
+     "en": "Barbe's",
+     "kind": "person"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "H. v. Humboldt",
+     "en": "Mr. von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Zerbonis",
+     "en": "Zerboni's",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "7",
+    "19"
+   ]
   },
   {
    "page": 2,
-   "en": "then I shall bring the Betschener into the best track, and thereafter I hasten to Berlin. For the rest, I am in anxiety on account of several letters which [uncertain: are missing]; thus one has been sent from Brafurt to Schlawenschitz on which very much depends. May Your Serene Highness be pleased to have word given to the Post Office at Strehlitz that all letters addressed to Your Serene Highness be handed over, and send me such by express messenger hither, for before the 15th of January I shall certainly not depart from here, and in that time several messengers may yet come — Were it moreover possible that [uncertain: Vierung] from Sansenberg could send me hither some young wild boar and haunch of venison, that would be well, for the Italian has himself asked me for it — But this game would have to be delivered a mile from Kalisz at Gostyszyn to the general leaseholder Faust, or deposited there, so that it is not seized at the Polish border customs office. Yesterday at Kalisz the Prussian money was cried down; only [uncertain: Vert] and payment shall be valid — For the present the coarse Prussian Courant, the thaler, is to be taken at only 20 gg — the 2 gg. pieces, however, are not to be taken at all, but are to be banished from this realm. Next to this the Poles have declared outright that they would never furnish troops against the Turks — is that not [uncertain: better]. Gostyszyn lies on the great [uncertain: road] from Kempen to Kalisz.\nBlizanow, the 22nd of Xbr 1815\nv Triebenfeld"
+   "en": "then I shall bring the Betsche affairs into the best track, and thereafter I hasten to Berlin.\n\nFor the rest I am in anxiety on account of several letters which [illegible]; thus one was sent from [uncertain: Brafurt] to Schlawenschitz, on which a very great deal depends. May Your Serene Highness be pleased to have word given to the Post Office at Strehlitz that all letters addressed to Your Serene Highness be handed over, and to send me such by express messenger here, for before the 15th of January I shall certainly not depart from here, and in that time a few more messengers may yet come — were it moreover possible that [uncertain: Vierung] might send me from Sansenberg some young wild boar and saddle of venison, that would be good, for the Italian himself has asked me for it - But this game would have to be delivered, a mile from Kalisz at Gostyszyn, to the general leaseholder Faust, or deposited there, so that it is not taken away at the Polish frontier customs office.\n\nYesterday in Kalisz the Prussian money was cried down; only [uncertain: Vert] and coin of account is to pass - For the present the coarse Prussian Courant, the thaler, is to be taken at only 20 gg - the 2 gg pieces, however, are not to be taken at all, but to be banished from this kingdom. Next to this the Poles have declared outright that they would never furnish troops against the Turks — is that not [illegible].\n\nGostyszyn lies on the great\n\nroad[?] from Kempen to Kalisz\n\nBlizanow, the 22nd of Xbr 1815\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Betschener",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Brafurt",
+     "en": "Brafurt",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Strehlitz",
+     "en": "Strehlitz",
+     "kind": "place"
+    },
+    {
+     "de": "Vierung",
+     "en": "Vierung",
+     "kind": "person"
+    },
+    {
+     "de": "Sansenberg",
+     "en": "Sansenberg",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Gostyszyn",
+     "en": "Gostyszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Faust",
+     "en": "Faust",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Kempen",
+     "en": "Kempen",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15",
+    "20",
+    "2",
+    "22",
+    "1815"
+   ]
   }
  ],
- "text_english": "Pro Memoria. Madame Schenck has detained my messenger, as well as the Sansenberger, for 3 days, because she was expecting her husband back from Warsaw — Just now the Schank brings me Your Serene Highness's letter to him, with the Copy of the Zerbonian letter together with several from Berlin and God knows whence, which must have been a very long time on the road, and for which I have had to pay some 7 Rthl [uncertain: in charges]. Since, moreover, my messenger was returning, I enclose this as well — On the whole I repeat what I already said on the 19th. My illness continues and I still cannot walk or stand. Sit up I already can, and I hope the illness will abate — My torn heart, however, will hardly be healed any more. Zerboni's superclever speeches are those which I already reported to Your Serene Highness from Vienna — Were the matter not taken up into the Vienna Treaty and the indemnification promised in the first place, he might be right — as it is, however, the truth spoken in its plain sense is surely the best. Bvidlang is now on the point of stepping into Barbe's place, and he is my friend as truly as ever Barbe could be — also he is at the same time an intimate friend, and to make him still more so, of Herr v. Humboldt — Enough: as regards the indemnification I fear nothing. It is also said that the Emperor returns at the end of March, and therefore a) there is no such great haste to Berlin; the matter will not escape us — First I must put my own affairs here in order\n\nthen I shall bring the Betschener into the best track, and thereafter I hasten to Berlin. For the rest, I am in anxiety on account of several letters which [uncertain: are missing]; thus one has been sent from Brafurt to Schlawenschitz on which very much depends. May Your Serene Highness be pleased to have word given to the Post Office at Strehlitz that all letters addressed to Your Serene Highness be handed over, and send me such by express messenger hither, for before the 15th of January I shall certainly not depart from here, and in that time several messengers may yet come — Were it moreover possible that [uncertain: Vierung] from Sansenberg could send me hither some young wild boar and haunch of venison, that would be well, for the Italian has himself asked me for it — But this game would have to be delivered a mile from Kalisz at Gostyszyn to the general leaseholder Faust, or deposited there, so that it is not seized at the Polish border customs office. Yesterday at Kalisz the Prussian money was cried down; only [uncertain: Vert] and payment shall be valid — For the present the coarse Prussian Courant, the thaler, is to be taken at only 20 gg — the 2 gg. pieces, however, are not to be taken at all, but are to be banished from this realm. Next to this the Poles have declared outright that they would never furnish troops against the Turks — is that not [uncertain: better]. Gostyszyn lies on the great [uncertain: road] from Kempen to Kalisz.\nBlizanow, the 22nd of Xbr 1815\nv Triebenfeld",
+ "text_english": "P[ro]. M[emoria].\n\nMadame Schenck has detained my messenger, as well as the Sansenberger, for 3 days, because she was expecting her husband back from Warsaw — Just now Schank sends me Your Serene Highness's letter to him, with the copy of Zerboni's [uncertain: Brust] together with several from Berlin and God knows where else, which must have been a very long time on the road, and for which I have had to pay some 7 Rthl in [uncertain: charges]. Since my messenger was returning in any case, I enclose this as well - On the whole I repeat what I already said on the 19th. My illness continues and I still cannot walk or stand. I can already sit, and I hope the illness will abate - My torn heart, however, will hardly be healed any more. Zerboni's super-clever speeches are those which I already reported to Your Serene Highness from Vienna - Were the matter not taken up in the Vienna treaty and the compensation promised in the first place, he might be right - as it is, however, the truth spoken in the plain sense is surely the best. [uncertain: Bvidlang] now stands on the point of stepping into Barbe's place, and he is my friend as much as Barbe could be - also he is at the same time an intimate friend\n\nto make this still more of him, of Mr. von Humboldt - Enough: as regards the compensation I fear nothing. It is also said that the Emperor returns at the end of March, and therefore a) there is no such great haste to Berlin, the matter will not escape us - First I must settle my own affairs here\n\nthen I shall bring the Betsche affairs into the best track, and thereafter I hasten to Berlin.\n\nFor the rest I am in anxiety on account of several letters which [illegible]; thus one was sent from [uncertain: Brafurt] to Schlawenschitz, on which a very great deal depends. May Your Serene Highness be pleased to have word given to the Post Office at Strehlitz that all letters addressed to Your Serene Highness be handed over, and to send me such by express messenger here, for before the 15th of January I shall certainly not depart from here, and in that time a few more messengers may yet come — were it moreover possible that [uncertain: Vierung] might send me from Sansenberg some young wild boar and saddle of venison, that would be good, for the Italian himself has asked me for it - But this game would have to be delivered, a mile from Kalisz at Gostyszyn, to the general leaseholder Faust, or deposited there, so that it is not taken away at the Polish frontier customs office.\n\nYesterday in Kalisz the Prussian money was cried down; only [uncertain: Vert] and coin of account is to pass - For the present the coarse Prussian Courant, the thaler, is to be taken at only 20 gg - the 2 gg pieces, however, are not to be taken at all, but to be banished from this kingdom. Next to this the Poles have declared outright that they would never furnish troops against the Turks — is that not [illegible].\n\nGostyszyn lies on the great\n\nroad[?] from Kempen to Kalisz\n\nBlizanow, the 22nd of Xbr 1815\n\nv Triebenfeld",
  "summary_en": "Madame Schenck detained the messenger three days awaiting her husband's return from Warsaw; Schank has now forwarded the Prince's letter with a copy of Zerboni's paper and long-delayed mail from Berlin, costing some 7 Rthl in charges. Triebenfeld remains bedridden but confident of the compensation promised in the Vienna treaty, notes a successor to Barbe friendly with von Humboldt, asks that letters at the Strehlitz post office be sent by express before 15 January, requests wild boar and venison delivered to the leaseholder Faust at Gostyszyn, and reports Prussian money cried down at Kalisz, the thaler passing at only 20 Groschen.",
  "summary_de": "Meldung, daß Madame Schenck den Boten samt dem Sansenberger drei Tage aufgehalten habe; Schank übersende nun das fürstliche Schreiben mit der Copia Zerbonis sowie Briefe aus Berlin, für die 7 Rthl Gebühren zu zahlen waren. Fortdauernde Krankheit, Unfähigkeit zu gehen oder zu stehen. Zerbonis Reden seien schon aus Wien berichtet; wegen der Entschädigung, im Wiener Vertrag zugesagt, sei nichts zu befürchten. Bitte, das Postamt Strehlitz zur Aushändigung aller Briefe anzuweisen und Wildschwein und Rehrücken über den Generalpächter Faust in Gostyszyn zu liefern; in Kalisz sei das preußische Geld herabgesetzt, der Thaler nur zu 20 gg."
 }

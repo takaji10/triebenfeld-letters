@@ -69,16 +69,90 @@
    "doc_line": 22
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Wildegansch",
+   "kind": "person",
+   "surface_de": "Wildegansch",
+   "surface_en": "Wildegansch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Col. v. K.",
+   "kind": "person",
+   "surface_de": "Ob. v K.",
+   "surface_en": "Col. v. K.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Z.",
+   "kind": "person",
+   "surface_de": "v. Z.",
+   "surface_en": "v. Z.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! I have not been able to raise the money for the redemption of the deed, for Wildegansch is ruining all my credit here. Three hundred Rück I have given to the friend who arranged the matter, as earnest-money — more I cannot [uncertain: spare] out of my travelling money, or else I shall be left stuck here. If it is possible for Your Most Serene Highness, may the Same most graciously deign only to send an instruction upon the 240 f., that of some 200 Rthl Courant, so that I may redeem the deed. Otherwise an evil turn might come to pass. — The gentlemen Ob. v. K. and v. Z. are surely Your Serene Highness's true friends, and I am likewise certain that all will turn out very well. Each is the gossip here now so bad that for the present I only ever [uncertain: groan] thus from afar, and in particular, for one person's sake, I shall keep myself in the background and act as coldly as possible. In deepest submission I remain, until death, Your Most Serene Highness's Berlin, 10th Febr. 1801. most faithful servant v Triebenfeld"
+   "en": "Most Serene Prince\n\nMost gracious Lord, I have not been able to raise the money for the redemption of the deed, for Wildegansch is ruining all my credit here. Three hundred [uncertain: Rück] I have given to the friend who arranged the matter, as earnest-money — more than that I cannot spare out of my travelling money, otherwise I shall be left stranded here. If it be possible to Your Most Serene Highness, may the same most graciously deign only to send an order to pay upon the 240 f., that is for 200 Rthl Courant, so that I may redeem the deed. Otherwise an evil turn might come to pass. — The gentlemen Col. v. K. and v. Z. are assuredly Your Serene Highness's true friends, and I am likewise assured that all will turn out very well. Only the gossip here is now so bad that for the present I merely keep groaning at a distance, as it were, and in particular, for one person's sake, I shall hold myself in the background and act as coldly as possible. In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, 10 February 1801.\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Wildegansch",
+     "en": "Wildegansch",
+     "kind": "person"
+    },
+    {
+     "de": "Ob. v K.",
+     "en": "Col. v. K.",
+     "kind": "person"
+    },
+    {
+     "de": "v. Z.",
+     "en": "v. Z.",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "240",
+    "200",
+    "10",
+    "1801"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! I have not been able to raise the money for the redemption of the deed, for Wildegansch is ruining all my credit here. Three hundred Rück I have given to the friend who arranged the matter, as earnest-money — more I cannot [uncertain: spare] out of my travelling money, or else I shall be left stuck here. If it is possible for Your Most Serene Highness, may the Same most graciously deign only to send an instruction upon the 240 f., that of some 200 Rthl Courant, so that I may redeem the deed. Otherwise an evil turn might come to pass. — The gentlemen Ob. v. K. and v. Z. are surely Your Serene Highness's true friends, and I am likewise certain that all will turn out very well. Each is the gossip here now so bad that for the present I only ever [uncertain: groan] thus from afar, and in particular, for one person's sake, I shall keep myself in the background and act as coldly as possible. In deepest submission I remain, until death, Your Most Serene Highness's Berlin, 10th Febr. 1801. most faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord, I have not been able to raise the money for the redemption of the deed, for Wildegansch is ruining all my credit here. Three hundred [uncertain: Rück] I have given to the friend who arranged the matter, as earnest-money — more than that I cannot spare out of my travelling money, otherwise I shall be left stranded here. If it be possible to Your Most Serene Highness, may the same most graciously deign only to send an order to pay upon the 240 f., that is for 200 Rthl Courant, so that I may redeem the deed. Otherwise an evil turn might come to pass. — The gentlemen Col. v. K. and v. Z. are assuredly Your Serene Highness's true friends, and I am likewise assured that all will turn out very well. Only the gossip here is now so bad that for the present I merely keep groaning at a distance, as it were, and in particular, for one person's sake, I shall hold myself in the background and act as coldly as possible. In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, 10 February 1801.\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports failure to raise the money to redeem a deed, blaming Wildegansch for destroying his credit; he has paid 300 Rück as earnest-money to the friend who arranged the matter and cannot spare more from his travelling money without being stranded. Begs the Prince for an instruction on the 240 f., some 200 Rthl Courant, to secure the redemption. Vouches for Ob. v. K. and v. Z. as true friends, and, given the bad gossip, promises to keep in the background and act coldly.",
  "summary_de": "Klage, daß die Summe zur Einlösung des Documents nicht aufzubringen war, weil Wildegansch allen Credit in Berlin zerstöre; dem vermittelnden Freunde seien 300 Rück als Handgeld gegeben, mehr könne aus dem Reisegeld nicht entnommen werden, ohne liegenzubleiben. Bitte um gnädige Anweisung auf die 240 f., etwa 200 Rthl Courant, zur Einlösung des Documents, sonst drohe Übles. Ob. v. K. und v. Z. gelten als wahre Freunde; wegen des schlimmen Geredes wolle er sich zurückhalten und kalt zeigen."
 }

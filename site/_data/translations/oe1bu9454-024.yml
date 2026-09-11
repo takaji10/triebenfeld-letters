@@ -1,45 +1,371 @@
 status: draft
 segments:
 - page: 1
-  en: Right Honourable Sir, Highly Honoured Sir Privy Councillor! Through the colonisation of my South
-    Prussian lordships Zagorowo and Trombschen, effected with Royal approbation, a net yield of the same
-    of 40 Rthl has been ascertained, and, after exact examination, confirmed by the Kalisch Chamber of
-    War and Domains. This should put me in a position to bring my so long asked-for wish to fulfilment,
-    and to arrange my whole affair of debts entirely. It depends, however, upon whether it is possible
-    to obtain a sum of 100000 Rthl, namely as much as my collective debts without exception amount to,
-    in one single lot, against which I should then pledge the two aforenamed lordships, constitute complete
-    security thereupon with a first and sole mortgage, and likewise determine a yearly sum for the payment
-    of the interest and the amortisation of the capital, whereby this debt might be extinguished in few
-    years. Your Right Honourable I most submissively request to undertake this business and, with your
-    great acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall
-    transmit by the first post in any form you please. I have also instructed my General Plenipotentiary
-    to deliver over to the same at once all documents needful for the prosecution of this business, and,
-    for the men of business co-operating in these affairs, to pay out without delay a D[illegible]ongratie
-    of 5 pt. as soon as the matter is understood. With the most perfect esteem I am Your Right Honourable's
-    F. L. f. z. Hohenlohe Freyberg, the 25th of September 1806.
+  en: 'Right Honourable Sir,
+
+
+    Highly Honoured Privy Councillor!
+
+
+    By the colonisation of my South Prussian lordships Zagorowo and Trombschen, carried out with Royal
+    approval, a net yield from the same of 40 Rthl has been ascertained, and after exact examination has
+    been confirmed by the Kalisz Chamber of War and Domains.
+
+
+    This should put me in a position to bring my so long entertained wish to fulfilment, and to arrange
+    my debt affairs entirely. It depends, however, upon whether it is possible to obtain a sum of 100000
+    Rthl, namely as much as all my debts without exception amount to, in a single lot, against which I
+    would then pledge the two aforenamed lordships, establish complete security upon them with a first
+    and sole mortgage, and would also appoint a yearly sum for the payment of the interest and the amortisation
+    of the capital, whereby this debt could be discharged in a few years.
+
+
+    I most respectfully request Your Right Honourable to undertake this business and, with your wide acquaintance,
+    to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the
+    first post in any form you please. I have likewise instructed my general attorney to deliver to you
+    at once all documents needed for the prosecution of this business, and, for the men of affairs cooperating
+    in these matters, to pay out without delay a d[illegible]ongratie of 5 per cent as soon as the matter
+    is [uncertain: understood]. With the most complete esteem I am Your Right Honourable''s
+
+
+    F. L. P. of Hohenlohe. Freyberg, the 25th of September
+
+
+    1806.'
+  names:
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Trombschen
+    en: Trombschen
+    kind: place
+  - de: Kalischen
+    en: Kalisz
+    kind: place
+  - de: F. L. f. z. Hohenlohe
+    en: F. L. P. of Hohenlohe
+    kind: person
+  - de: Freyberg
+    en: Freyberg
+    kind: place
+  - de: Südpreußischen
+    en: South Prussian
+    kind: place
+  numbers:
+  - '40'
+  - '100000'
+  - '5'
+  - '25'
+  - '1806'
 - page: 2
-  en: 'The lordships Zagorowo and Trąbczin belonging to Prince Hohenlohe in South Prussia, beyond Posen
-    on the Warthe, consist: 1. Of the little town of Zagorowo. 2. Of the village and demesne farm Kopoyno.
-    3. Of the quit-rent village Swiątniki. 4. ditto Skokum. 5. Of the quit-rent village and demesne farm
-    Olesnica. 6. Of the quit-rent village Drzewce. 7. ditto Grądzin. 8. ditto Wrąbczin. 9. Alt Swięcia.
-    10. Neu Swięcia. 11. Sophienthal. 12. Ludwigslust. 13. Adelow. 14. Friedrichsfelde. 15. Augustinow.
-    16. Emilienhayn. 17. Adolphsberg. 18. Alexandrow. 19. Klein Ingelfingen. 20. Klein Öhringen. 21. Klein
-    Neuenstein. 12. Of the village and demesne farm Trąbczin. 23. Of ditto Nowawies. 24. Of the village
-    and demesne farm Przybislaw. 25. Of the quit-rent village Stara Huta. 26. Of the village and demesne
-    farm Marianton. 27. Of the village and demesne farm Szetlewek. 28. Of the quit-rent village Furstenfelde.
-    29. Of ditto Hohendorf. 30. Of ditto Justinsau[uncertain: Justinsau]. 31. Of ditto Kaszubow. 32. Of
-    Klein Schro[uncertain: l]berg. 33. Of ditto Gros Holland. 34. Of ditto Blomberg.'
+  en: 'The lordships Zagorowo and Trąbczyn belonging to the Prince of Hohenlohe in South Prussia, beyond
+    Pexen on the Warthe, consist:
+
+
+    1. Of the little town of Zagorowo
+
+
+    2. Of the village and [uncertain: Vormuck] Kopojno 3. Of the rent-village Swiątniki
+
+
+    4. ditto Skokum 5. Of the rent-village and demesne farm Olesnica. 6. Of the rent-village Drzewce.
+
+
+    7. ditto Grądzin
+
+
+    8. ditto Wrąbczin 9. Old Swięcia
+
+
+    10. New Swięcia
+
+
+    11. Sophienthal
+
+
+    12. Ludwigslust
+
+
+    13. Adelow 14. Friedrichsfelde 15. Augustinow
+
+
+    16. Emilienhayn
+
+
+    17. Adolphsberg
+
+
+    18. Alexandrow 19. Little Ingelfingen 20. Little Öhringen 21. Little Neuenstein 22. Of the village
+    and demesne farm Trąbczyn 23. Of ditto Nowawies 24. Of the village or demesne farm Przybislaw 25.
+    Of the rent-village Stara Huta 26. Of the village and demesne farm Marianton
+
+
+    27. Of the village and demesne farm Szetlewek
+
+
+    28. Of the rent-village Furstenfelde
+
+
+    29. Of ditto Hohendorf 30. Of ditto Justinsau[illegible] 31. Of ditto Kaszubow 32. Of Little Schro[uncertain:
+    l]berg 33. Of ditto Great Holland 34. Of ditto Blomberg'
+  names:
+  - de: Fürsten Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: Südpreußen
+    en: South Prussia
+    kind: place
+  - de: Pexen
+    en: Pexen
+    kind: place
+  - de: Warthe
+    en: Warthe
+    kind: place
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Trąbczin
+    en: Trąbczyn
+    kind: place
+  - de: Kopoyno
+    en: Kopojno
+    kind: place
+  - de: Swiątniki
+    en: Swiątniki
+    kind: place
+  - de: Skokum
+    en: Skokum
+    kind: place
+  - de: Olesnica
+    en: Olesnica
+    kind: place
+  - de: Drzewce
+    en: Drzewce
+    kind: place
+  - de: Grądzin
+    en: Grądzin
+    kind: place
+  - de: Wrąbczin
+    en: Wrąbczin
+    kind: place
+  - de: Alt Swięcia
+    en: Old Swięcia
+    kind: place
+  - de: Neu Swięcia
+    en: New Swięcia
+    kind: place
+  - de: Sophienthal
+    en: Sophienthal
+    kind: place
+  - de: Ludwigslust
+    en: Ludwigslust
+    kind: place
+  - de: Adelow
+    en: Adelow
+    kind: place
+  - de: Friedrichsfelde
+    en: Friedrichsfelde
+    kind: place
+  - de: Augustinow
+    en: Augustinow
+    kind: place
+  - de: Emilienhayn
+    en: Emilienhayn
+    kind: place
+  - de: Adolphsberg
+    en: Adolphsberg
+    kind: place
+  - de: Alexandrow
+    en: Alexandrow
+    kind: place
+  - de: Klein Ingelfingen
+    en: Little Ingelfingen
+    kind: place
+  - de: Klein Öhringen
+    en: Little Öhringen
+    kind: place
+  - de: Klein Neuenstein
+    en: Little Neuenstein
+    kind: place
+  - de: Nowawies
+    en: Nowawies
+    kind: place
+  - de: Przybislaw
+    en: Przybislaw
+    kind: place
+  - de: Stara Huta
+    en: Stara Huta
+    kind: place
+  - de: Marianton
+    en: Marianton
+    kind: place
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Furstenfelde
+    en: Furstenfelde
+    kind: place
+  - de: Hohendorf
+    en: Hohendorf
+    kind: place
+  - de: Justinsau[?]
+    en: Justinsau[illegible]
+    kind: place
+  - de: Kaszubow
+    en: Kaszubow
+    kind: place
+  - de: Klein Schro[l?]berg
+    en: 'Little Schro[uncertain: l]berg'
+    kind: place
+  - de: Gros Holland
+    en: Great Holland
+    kind: place
+  - de: Blomberg
+    en: Blomberg
+    kind: place
+  numbers:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  - '11'
+  - '12'
+  - '13'
+  - '14'
+  - '15'
+  - '16'
+  - '17'
+  - '18'
+  - '19'
+  - '20'
+  - '21'
+  - '22'
+  - '23'
+  - '24'
+  - '25'
+  - '26'
+  - '27'
+  - '28'
+  - '29'
+  - '30'
+  - '31'
+  - '32'
+  - '33'
+  - '34'
 - page: 3
-  en: The yearly net yield of the two lordships has been examined by a Commission appointed by the Royal
-    Kalisch Chamber of War and Domains and ascertained in the following manner. Tit. I. In fixed dues
-    from the old subjects in both lordships, according to the Praestations-Tabelle, 5752 Rthl 14 g. 11
-    d. 2. In hereditary quit-rents from the colonies, 16781. Tit. II. In hereditary-lease canon, 3500.
-    Tit. III. In leasehold parcels, 13357. Tit. IV. From 3 brickworks, according to the Chamber's valuation,
-    857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may go, are taken over
-    as well by the hereditary lessees, colonists, term-peasants and term-tenants. Therefore the aforenamed
-    sum of 40247 Rthl 14 g 11 d stands firm as a clear yearly revenue. v. Triebenfeld
+  en: 'The yearly net yield of the two lordships has been examined by a commission set up by the Royal
+    Kalisz Chamber of War and Domains and ascertained as follows.
+
+
+    Title I. In standing dues from the old subjects in both lordships, according to the table of prestations
+    5752 Rthl 14 g. 11 d. 2. In hereditary rents from the colonies 16781 Title II
+
+
+    In hereditary-lease canon 3500
+
+
+    Title III
+
+
+    In leased parcels 13357
+
+
+    Title IV From 3 brickworks according to the Chamber''s valuation 857. Total 40247 Rthl 14 g 11 d.
+    All taxes and burdens, by whatever name they may be called, have been assumed by the hereditary tenants,
+    colonists, term-peasants and term-lessees. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands
+    fast as a net yearly revenue.
+
+
+    v. Triebenfeld'
+  names:
+  - de: Kalischen
+    en: Kalisz
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '5752'
+  - '14'
+  - '11'
+  - '16781'
+  - '3500'
+  - '13357'
+  - '3'
+  - '857'
+  - '40247'
+  - '14'
+  - '11'
+  - '40247'
+  - '14'
+  - '11'
 - page: 4
-  en: Debts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Ewald and Haupt 18000. Zerboni
+  en: Debts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Eward and Haupt 18000. Zerboni
     10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher
     Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt
     5000. Sundry debts circa 20000. Total 366000.
+  names:
+  - de: Schlabrendorff
+    en: Schlabrendorff
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Eward
+    en: Eward
+    kind: person
+  - de: Haupt
+    en: Haupt
+    kind: person
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: Eysenhardtsche Erben
+    en: Eysenhardt heirs
+    kind: person
+  - de: Lichnowski
+    en: Lichnowski
+    kind: person
+  - de: Grotowski
+    en: Grotowski
+    kind: person
+  - de: Seehausen
+    en: Seehausen
+    kind: person
+  - de: Seher Tothschen Erben
+    en: Seher Toth heirs
+    kind: person
+  - de: Prusimska
+    en: Prusimska
+    kind: person
+  - de: Oppenheimer
+    en: Oppenheimer
+    kind: person
+  - de: Wolff
+    en: Wolff
+    kind: person
+  - de: Bornstädt
+    en: Bornstädt
+    kind: person
+  numbers:
+  - '25000'
+  - '27000'
+  - '18000'
+  - '10000'
+  - '10000'
+  - '42000'
+  - '20000'
+  - '5000'
+  - '8000'
+  - '16000'
+  - '50000'
+  - '110000'
+  - '5000'
+  - '20000'
+  - '366000'

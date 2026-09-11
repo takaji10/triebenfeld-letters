@@ -1,52 +1,222 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord. Your Serene Highness''s most gracious letter
-    of the 6th I received by express courier about an [text lost — "vor etwan einer": a noun is missing]
-    ago; as I had just begun a letter to Your Most High Self, I set that aside and begin this one. The
-    instruction to pay 200 M I received first of all; then there lay enclosed 3 French Blanquette, the
-    2 letters from Your Serene Highness, one from Herr [uncertain: H]trath Hahn, and 5 servants'' [letters],
-    to Russia, from Poland, to [uncertain: Breiten], and from Frankfurt on the Main. I think of it most
-    heartily. But I can write little today — for I am very weak and have a great headache, and it is also
-    scarcely 2 hours until the departure of the post — I have therefore not even been able to read everything,
-    and shall write the greater part by the next post. — My wish I only renew, that Herr Eberhard and
-    Herr Hahn might come here. Much would certainly be accomplished with the 3 [uncertain: Darnte]; I
-    also continue to believe that the business with P[rince] Adolph is going equally well. Stägemann has
-    still had no audience, and one might well perish of vexation over it. The high estates'' affair I
-    have handed over once more to the Prince H[?] Durch with all the documents in the case; I also brought
-    myself, on the advice of the Privy Councillor of State v. Beugelin, to write to Zerboni; the ["Anwert":
-    reading uncertain — answer? application?] I enclose herewith. By the next post I shall send the Copy
-    of all the poor ["Armen"] petitions — the Prince has taken it well, but it has also already passed
-    the Journal; but where it will again come to rest, I do not yet know. — The people are all here, save
-    the single Prince alone, as though they should only trouble themselves, and the sufferer comes ["komt
-    ſchien um": corrupt] — Meanwhile all stands well, for Cosmar is, as everyone says, quite as good as
-    annihilated by savage enemies on account of my candid letter — I have made myself some [enemies],
-    but what do I care for that, so long as You alone are saved. — August must only demand the power of
-    attorney in the prescribed manner; I have set him a spur in the side in that matter, whereby he will
-    be mightily assisted. Yesterday not only E. Bastenstein, who commends himself to Your Serene Highness,
-    but also Göschel wrote to the Prince of Langenburg that in the Hardz house they had heard him speak
-    very harshly of August, because he had joined himself with a most intriguing advocate against'
+  en: 'Most Serene Prince
+
+
+    Most gracious Prince and Lord, I received Your Serene Highness''s most gracious letter of the 6th
+    by express courier about one [text lost] ago; as I had just begun a letter to Your Most High Self,
+    I laid that aside and began this one. The order to pay 200 M I received first; then there lay in it
+    3 French blank forms, the 2nd letter from Your Serene Highness, one from Mr. [uncertain: Court] Councillor
+    Hahn, and 5 [uncertain: servants], to Russia, from Poland, to [uncertain: Breiten], and from Frankfurt
+    an der Oder and Main. I thank you most heartily for it. But I can write little today - for I am very
+    weary and have a great headache; also it is only some 2 hours yet until the post goes out - I have
+    therefore not even been able to read everything, and shall write the greater part by the next post
+    - I only renew my wish that Mr. Eberhard and Mr. Hahn might come here. Much would certainly be accomplished
+    with the 3 [uncertain: Darnte]; also I continue to believe that the business with Prince Adolph will
+    go forward at once. Stägemann has still had no audience for his report, and one might perish of vexation
+    over it. The high estates affair I have once more handed over to the Prince, His Serene Highness,
+    with all the documents in the file; also, on the advice of the Privy Councillor of State von Beugelin,
+    I brought myself to write to Zerboni; the answer I enclose herewith. By the next post I shall send
+    the copy of all the poor petitions - the Prince has received it well, and it has also already passed
+    the register, but where it will come to lie idle again I do not yet know - The people are all here
+    except for the single Prince, as though they would only trouble themselves, and the one who suffers
+    seems to be [illegible] - Meanwhile all stands well, for Cosmar is, as everyone says, as good as annihilated
+    - on account of my candid [uncertain: Switzerland] fierce enemies.
+
+
+    I have made a few [enemies] for myself, but what do I care for that, so long as you are only saved
+    - August must only demand the power of attorney in the prescribed form; I have set him a spur in the
+    side for that, in which he will be mightily assisted. Yesterday not only E. Bastenstein, who commends
+    himself to Your Serene Highness, but also Göschel wrote to the Prince of Langenburg, that in the Hardz
+    house they have heard him spoken of very harshly on August''s account, because he has joined himself
+    with a most intriguing advocate against</p>'
+  names:
+  - de: Ew. Durchlaucht
+    en: Your Serene Highness
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  - de: Rußland
+    en: Russia
+    kind: place
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: Breiten
+    en: Breiten
+    kind: place
+  - de: Franckfurten u Main
+    en: Frankfurt an der Oder and Main
+    kind: place
+  - de: Eberhard
+    en: Eberhard
+    kind: person
+  - de: P Adolph
+    en: Prince Adolph
+    kind: person
+  - de: Stägemann
+    en: Stägemann
+    kind: person
+  - de: v. Beugelin
+    en: von Beugelin
+    kind: person
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Schweitz
+    en: Switzerland
+    kind: place
+  - de: August
+    en: August
+    kind: person
+  - de: E. Bastenstein
+    en: E. Bastenstein
+    kind: person
+  - de: Göschel
+    en: Göschel
+    kind: person
+  - de: Fürst Langenburg
+    en: Prince of Langenburg
+    kind: person
+  - de: Hardz Hause
+    en: Hardz house
+    kind: other
+  numbers:
+  - '6'
+  - '200'
+  - '3'
+  - '2'
+  - '5'
+  - '2'
+  - '3'
+  - '11'
 - page: 2
-  en: 'his old good father, and had given the advocate an unlimited power of attorney, by virtue of which
-    he must lay everything of the old good Prince''s under arrest and diminish it — one does not know
-    whether this be from want of prudence or from malice and favourable times. Wintzingerode does the
-    same, and warns them to recall the power of attorney, not to ruin themselves, and to turn away from
-    themselves the judgement of the first men of Europe. I think this must work strongly; the poor gentleman
-    is held to be very weak. — Pourtalès has not yet answered. It is believed that he will arrive here
-    at the earliest. For the sureties and receivers of Neuchâtel have sent a deputation with grave complaints
-    against their Councillor of State to the King — the Councillor of State is now also to send a deputation
-    here on his side — and since Pourtalès is known both in this council and in Heylen [uncertain reading],
-    guests as a serving officer, he will probably appear in person as well. He so needs support. — Now
-    the great and important matter — that Napoleon has escaped, Your Serene Highness knows. — According
-    to today''s news he has landed at Antibes and is turning towards Toulon. — At Toulon stands Masséna,
-    who is very much displeased that he was not appointed a Pair — then there is also there the General
-    v. Bertherand and Gen. Molis, all adherents of Napoleon. — In Switzerland everything is in ferment;
-    that will make a favourable [uncertain: Märte] , and Murat is, I fear, blustering frightfully — in
-    order to press through from that side by way of Italy. — It is already said that N. has much future
-    there. — The King of Saxony still refuses to sign. — Wellington and Talleyrand are still with him
-    at Pressburg. — Meanwhile it is believed that God will accordingly prevent the war. — What the King
-    of Würtemberg has issued to the Hohenlohe, what has been answered him from all sides, what in that
-    case has been arranged here at the Congress, all lies here enclosed. From the Congress a strong Mercuriale
-    has been given to the King; that Your Serene Highness shall receive hereafter. — In deepest reverence
-    I remain, until death, Your Serene Highness''s Vienna, the 11th of March 1815, most faithful and most
-    obedient servant v Triebenfeld'
+  en: 'his old good father, and has given the advocate an unlimited power of attorney, by virtue of which
+    he must place everything belonging to the old good Prince under arrest and diminish it - one does
+    not know whether this comes from a want of prudence or from malice and favourable times. Winzingerode
+    does the like and warns them to withdraw the power of attorney, not to bring themselves to ruin and
+    not to set aside the judgement of the first men of Europe. I think that should work strongly; the
+    poor gentleman is held to be very weak. Poustales has not yet answered. It is credibly reported that
+    they will arrive here very shortly, for the burgesses and collectors of Neucheten have sent a deputation
+    with great complaints against their councillor of state to the King - the councillor of state is now
+    also to send a deputation here on his own part - and since Poartelles is known in this council and
+    [uncertain: Heylen], as a guest and as a serving officer, he too will probably appear in person. He
+    needs support so much.
+
+
+    Now the great and important matter - that Napoleon has escaped, Your Serene Highness knows - According
+    to today''s news he has landed at Antiber and is turning towards Toulon - In Toulon stands Massen,
+    who is much displeased that he was not made a peer — then there is also the General von Bertherand
+    and General Molis, all adherents of Napoleon - In Switzerland everything is in ferment, that will
+    become a favourable [uncertain: market], and Murat is said to be arming himself dreadfully – in order
+    to press through from that side by way of Italy - It is already said that N. has much future there
+    — the King of Saxony still refuses to sign - Wellington and Talleyrand are still with him in Preiberg
+    - Meanwhile it is believed that God will accordingly prevent the war - What the King of Württemberg
+    has issued to the Hohenlohes, what has been answered to him from all sides, what has in that case
+    been set up here at the Congress, all lies here; from the Congress a strong reprimand has been given
+    to the King, which Your Serene Highness shall receive in future — In deepest reverence I remain, until
+    death,
+
+
+    Your Serene Highness''s
+
+
+    Vienna, the 11th of March
+
+
+    1815
+
+
+    most faithful and most obedient servant
+
+    v. Triebenfeld'
+  names:
+  - de: Winzingerode
+    en: Winzingerode
+    kind: person
+  - de: Europrit
+    en: Europe
+    kind: place
+  - de: Poustales
+    en: Poustales
+    kind: person
+  - de: Neucheten
+    en: Neucheten
+    kind: place
+  - de: Poartelles
+    en: Poartelles
+    kind: person
+  - de: Heylen
+    en: Heylen
+    kind: other
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Antiber
+    en: Antiber
+    kind: place
+  - de: Toulon
+    en: Toulon
+    kind: place
+  - de: Toulore
+    en: Toulon
+    kind: place
+  - de: Massen
+    en: Massen
+    kind: person
+  - de: v. Bertherand
+    en: von Bertherand
+    kind: person
+  - de: Gen. Molis
+    en: General Molis
+    kind: person
+  - de: Schweiz
+    en: Switzerland
+    kind: place
+  - de: Murat
+    en: Murat
+    kind: person
+  - de: Italien
+    en: Italy
+    kind: place
+  - de: N
+    en: N.
+    kind: person
+  - de: Sachßen
+    en: Saxony
+    kind: place
+  - de: Wellington
+    en: Wellington
+    kind: person
+  - de: Talleyrand
+    en: Talleyrand
+    kind: person
+  - de: Preiberg
+    en: Preiberg
+    kind: place
+  - de: Würtemberg
+    en: Württemberg
+    kind: place
+  - de: Hohenlohe
+    en: Hohenlohes
+    kind: person
+  - de: Congräf
+    en: Congress
+    kind: other
+  - de: Congrech
+    en: Congress
+    kind: other
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '11'
+  - '1815'

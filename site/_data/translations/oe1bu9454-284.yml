@@ -1,79 +1,330 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Gracious Lord, I most certainly believed that with today''s post I should already
-    be reporting to Your Serene Highness something definite and good, but the outbreak of the war hinders
-    everything - yet something will happen - Trąbczyn, and even Kaemen and Kulm, are being received back
-    by One Serene Highness for more - Mr Allexander has even brought our Most Gracious Lord to the point
-    of signing the matter along with him, so that the Kohlen are to keep the estates which the S[equestration]-Commission
-    has given back to them - consequently no reckoning is any longer to be made upon that. Now I lay before
-    the Emperor and the King the just petition that Your Serene Highness be indemnified. My reckoning
-    shall not be an inconsiderable one: 1. Your Serene Highness has had to pay v. Broniewski his pledge-money
-    with about 60000 Rthl 180 3/5. To this the 15 years'' interest 33000 Rthl South - 93000 Rthl. Here
-    it is to be noted that Meyer Bernhard did indeed give the money at that time, but this capital, like
-    all the others, stands entered upon Betsche and the Cajowische estates, the latter of which the Jew
-    M. Bernhard still holds in pledge for it to this day, wherefore this claim belongs to One Serene Highness
-    in its entirety. 2. The Kaemener estates were at that time assessed by Otto''s courts at 180000 Rthl;
-    deducting therefrom the above 60000 there remains 120000. Your Serene Highness must accordingly receive
-    from Kaemen 213000 Rthl, namely 93000 Rthl in cash and 120000 Rthl in estates. 3. Of Trąbczyn, these
-    estates were, as [I learn] through [me], assessed at 316000 Rthl; upon them there still stand the
-    debts contracted by Your Serene Highness: 1. for Lichnowski 40000; 2. Grotowski 20000; 3. Seher Thos
-    8000; there remains in value, and if they come through to advantage, 246000; together 459000.'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord, I quite certainly believed I should be able this very post to report something
+    definite and good to Your Serene Highness, but the outbreak of the war hinders everything - yet something
+    will come to pass - Trąbczyn, and even Kaemen and Kulm, Your Serene Highness will receive back the
+    more [uncertain: the] Herr Alexander has even prevailed upon our Most Gracious Lord to sign the matter
+    along with him, namely that the Kohlen are to keep the estates which the S[equestration] Commission
+    has returned to them - consequently no reckoning is to be made upon that any longer. Now I am submitting
+    to the Emperor and King the just petition that Your Serene Highness be indemnified. My computation
+    shall be no trifling one. 1. Your Serene Highness had to pay von Broniewski his pledge-money at about
+    60000 Rthl 180 3/5. To this the 15 years'' interest 33000 Rthl
+
+
+    South - 93000 Rthl Here it is to be remarked that although Meyer Bernhard gave the money at that time,
+    this capital stands entered, like all the others, upon Betsche and the Cajowische estates, the latter
+    of which the Jew M. Bernhard still holds in pledge for it to this day, wherefore this claim belongs
+    to Your Serene Highness in all respects - 2. The Kaemen estates were at that time assessed by the
+    Otto courts at 180000 Rthl
+
+
+    Deduct therefrom the above
+
+
+    60000
+
+
+    there remain
+
+
+    120000 Your Serene Highness must accordingly receive from Kaemen 213000 Rthl, namely 93000 Rthl in
+    cash and 120000 Rthl in estates. 3. As to Trąbczyn, these estates were, as [reported] to me, assessed
+    at 316000 Rthl; upon them there still stand the debts contracted by Your Serene Highness. 1. for Lichnowski
+
+
+    40000
+
+
+    2. Grotowski
+
+
+    20000
+
+
+    3. Seher Thos
+
+
+    8000 there remains in value, and should they come through favourably, 246000
+
+
+    together
+
+
+    459000'
+  names:
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Kaemen
+    en: Kaemen
+    kind: place
+  - de: Kulm
+    en: Kulm
+    kind: place
+  - de: Allexander
+    en: Alexander
+    kind: person
+  - de: Kohlen
+    en: Kohlen
+    kind: person
+  - de: v. Broniewski
+    en: Broniewski
+    kind: person
+  - de: Meyer Bernhard
+    en: Meyer Bernhard
+    kind: person
+  - de: Betsche
+    en: Betsche
+    kind: place
+  - de: Cajowischen
+    en: Cajowische
+    kind: place
+  - de: M. Bernhard
+    en: M. Bernhard
+    kind: person
+  - de: Otto
+    en: Otto
+    kind: other
+  - de: Lichnowski
+    en: Lichnowski
+    kind: person
+  - de: Grotowski
+    en: Grotowski
+    kind: person
+  - de: Seher Thos
+    en: Seher Thos
+    kind: person
+  numbers:
+  - '1'
+  - '60000'
+  - 180 3/5
+  - '15'
+  - '33000'
+  - '93000'
+  - '2'
+  - '180000'
+  - '60000'
+  - '120000'
+  - '213000'
+  - '93000'
+  - '120000'
+  - '3'
+  - '316000'
+  - '1'
+  - '40000'
+  - '2'
+  - '20000'
+  - '3'
+  - '8000'
+  - '246000'
+  - '459000'
 - page: 2
-  en: 'The Emperor or the King must therefore give Your Serene Highness 366000 Rthl in debt-free estates,
-    and those 93000 Rthl Your Serene Highness must receive in cash. Upon Trotzige there stood a further
-    § 4000 for Lichnowski, but these are paid; still, one cannot demand them, because they were debts
-    which Your Serene Highness had contracted. Weigel''s 30000 Rthl are transferred onto Zagoran. The
-    [uncertain: Genorengen] gentlemen shall yet turn pale, and first I only want to know who is to compensate
-    One Serene Highness - then I shall pick out what is useful and good. Mr P. Alegemann does nothing,
-    beg as one will - now, on account of the outbreak of the war, he has the more excuses - by God''s
-    assistance something in each matter will yet succeed. I can say nothing further as yet. Pourtales
-    has not yet answered - he too must be watching the outbreak of the war. Meanwhile it says that he
-    will certainly come, for otherwise he would have written to cancel. He was in Paris to call in his
-    monies. That Napoleon is now said actually to be in Paris already; on the 18th, according to yesterday''s
-    courier reports, he was already at fontaine bleau. Monc Rey has now also turned rogue. Here Napo:
-    has written that his wife and his son are to be delivered up to him - and to be sent to him at Paris
-    with his escort. O what is going on now! The mob now rules in France, for the adventurer has called
-    them up and promised freedom and equality to the sans-culottes. It is a nation which at bottom one
-    must abhor - the rabble there is said to house worse than a herd of devils, and to inscribe their
-    march, wherever they go, with cruelty and atrocities which no man is able to describe. The King of
-    France is said to be in Lille, and what is most [uncertain: verdauerdigste] is that not a shot has
-    yet been fired by the King''s troops - the evil one does not go thither with his host unmolested;
-    everything gets out of his way as from a mad dog. In the newspapers, reasonings of boundless loyalty
-    and devotion to the King are'
+  en: 'The Emperor or the King must therefore give Your Serene Highness estates free of debt to the value
+    of 366000 Rthl, and those 93000 Rthl you must receive in cash. Upon [uncertain: Trotzige] there stand
+    a further 4000 Rthl for Lichnowski; these, however, are paid, and meanwhile one cannot demand them,
+    because they were debts which Your Serene Highness had made. Weigel''s 30000 Rthl are transferred
+    onto Zagoran. The [uncertain: Genorengen] gentlemen are to [illegible] already and
+
+
+    First I only wish to know who is to indemnify Your Serene Highness - then I shall pick out what is
+    of use and good -
+
+
+    Herr P. Alegemann does nothing, one may beg as one will - now, on account of the outbreak of the war,
+    he has the more excuses - with God''s assistance something will after all succeed in each case.
+
+
+    Say anything I still cannot. Pourtales has not yet answered - he too must be watching the outbreak
+    of the war -- Meanwhile it is said that he will certainly come, for otherwise he would have written
+    off. He was in Paris to call in his monies.
+
+
+    That is, Napoleon is now said really to be in Paris already; on the 18th, according to yesterday''s
+    courier reports, he was already at Fontainebleau. Marshal Ney has now likewise turned rogue - Napoleon
+    has written here that his wife and his son are to be handed over to him -- and sent to him at Paris
+    with his escort. Oh, what is going on now! The rabble now rules in France, for the adventurer has
+    called them up and promised freedom and equality to the sansculottes -- It is a nation which at bottom
+    one must abhor - the mob is said to be housing there worse than a herd of devils, and to mark their
+    march, wherever they go, with cruelty and
+
+
+    atrocities which no man is able to describe - the King of France is said to be in Lille, and what
+    is most lamentable is that not a shot has yet been fired by the King''s troops -- the villain marches
+    on thither with his rabble unhindered; everyone gets out of his way as from a mad dog. In the newspapers
+    there are declamations of boundless loyalty and devotion to the King'
+  names:
+  - de: Trotzige
+    en: Trotzige
+    kind: place
+  - de: Lichnowski
+    en: Lichnowski
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Zagoran
+    en: Zagoran
+    kind: place
+  - de: Genorengen
+    en: Genorengen
+    kind: other
+  - de: Hl. P. Alegemann
+    en: P. Alegemann
+    kind: person
+  - de: Pourtales
+    en: Pourtales
+    kind: person
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: fontaine bleau
+    en: Fontainebleau
+    kind: place
+  - de: Monc Rey
+    en: Ney
+    kind: person
+  - de: 'Napo:'
+    en: Napoleon
+    kind: person
+  - de: Frankreich
+    en: France
+    kind: place
+  - de: Lille
+    en: Lille
+    kind: place
+  numbers:
+  - '366000'
+  - '93000'
+  - '4000'
+  - '30000'
+  - '18'
 - page: 3
-  en: 'set forth; Bonaparte''s force is put down at 8 to 10 men, and nevertheless the E[mperor] is in
-    Paris and drives out the adored King. Here the gentlemen listen out for whether they will not be called
-    upon from France''s side for aid - they [uncertain: rouse themselves] and let [text lost] Heaven would.
-    Meanwhile the [uncertain: robber] and the [uncertain: Cancellie] go so far that hundreds of thousands
-    will have to be led to the shambles. O tempora o mores - King Murat too is said now already to be
-    raising his head, and before anyone is aware of it he will be running riot in Italy and pressing on
-    right up to the gates. Distress, or rather dearness, here now exceeds all bounds - for what are the
-    poor to be mobilised and war to be waged? One looks forward to the most unthinkable suns of terror.
-    The Wurtemberg affair has, according to the reports come in this night, [uncertain: turned out] scandalously
-    for the fat Majesty. Let Your Serene Highness read the enclosures and be astonished. Prince Stadt
-    and Mr Metternich also set this corpulent creature down very hard in [uncertain: Grünke], and now
-    the more than boundless disgrace - that his own brothers place him so [uncertain: early] in the pillory
-    - poor Duke Willhelm, who after all played the part of Minister of War with him, him the tenderly
-    thankful Majesty at once drove off; the son of Eugen too he has, out of Most Gracious clemency, ordered
-    to go straight to the devil; the [uncertain: Honrichs] and Loar he has threatened to have imprisoned
-    for ever - the affair causes much amusement here. What vexes me is that the wisdom of his Diet''s
-    President is so odiously persiflated. This Illustrious gentleman is now cruelly hauled over the coals
-    both here and by the mediatised. Perhaps I shall be in a position to send in more comforting reports
-    with the next post than hitherto. In deepest reverence I remain, until death, Your Serene Highness''s
-    [text lost]
+  en: 'adduced; Bonaparte''s force is put down as low as 8 to 10 men, and yet the Emperor is in Paris
+    and drives out the adored King. Here the gentlemen are listening to hear whether they will not be
+    called upon from France''s side for assistance - they [uncertain: arm themselves] and leave it; would
+    that Heaven willed. Meanwhile the robber and the [uncertain: Cancellie] get so far that hundreds of
+    thousands will have to be led to the shambles. O tempora, o mores - King Murat too is now said already
+    to be raising his head, and before anyone is aware of it he will be housing in Italy and pressing
+    on right up to the gates - The distress, or rather the dearness, here now exceeds all bounds - for
+    what are the poor to be [uncertain: mobilised] and war to be waged? One looks forward to nothing but
+    the most dreadful suns of terror. The Württemberg affair has, according to the reports come in this
+    night, [uncertain: scandalously graced itself] before the fat Majesty. Let Your Serene Highness read
+    the enclosures and be amazed. The Prince [uncertain: Stadt] and Herr Metternich also set this gross
+    creature very sorely in [uncertain: a corner], and now the more than boundless disgrace - that his
+    own brothers set him so [uncertain: early] in the pillory - the poor Duke Wilhelm, who after all played
+    the part of Minister of War with him, was at once driven off by the tenderly thankful Majesty; and
+    Eugen''s son too he has, out of Most Gracious clemency, commanded to go straightway to the devil;
+    Honrichs and Loar he has threatened to have imprisoned for ever - the business causes much amusement
+    here. What vexes me is that the wisdom of his Diet''s president is so odiously [uncertain: persiflaged].
+    This Illustrious Lord is now being cruelly dragged through the mire, both here and by the mediatised.
+    Perhaps I shall be in a position to send in more consoling news than hitherto with the next post.
+    In deepest reverence I remain, until death,
 
-    Wien, the 27th of March 1815
 
-    I beg very much for German and French Blanquettes - ah, and were it possible to see Eberhard here,
-    for hardly anyone will take the settlement in hand[?] - your most obedient servant v Triebenfeld'
+    turn over
+
+
+    Your Serene Highness''s
+
+
+    Vienna, the 27th of March 1815
+
+
+    I beg very much for German and French [uncertain: blank forms] - ah, and were it possible to see Eberhard
+    here, for hardly anyone will concern himself[?] with the compromise - meanwhile most obedient servant
+    v. Triebenfeld'
+  names:
+  - de: Bonapartis
+    en: Bonaparte
+    kind: person
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Franderichs
+    en: France
+    kind: place
+  - de: Murat
+    en: Murat
+    kind: person
+  - de: Italien
+    en: Italy
+    kind: place
+  - de: Wurtembergsche
+    en: Württemberg
+    kind: place
+  - de: Fürst Stadt
+    en: Prince Stadt
+    kind: person
+  - de: H. Metternich
+    en: Metternich
+    kind: person
+  - de: herzog Willhelm
+    en: Duke Wilhelm
+    kind: person
+  - de: Eugens
+    en: Eugen
+    kind: person
+  - de: Honrichs
+    en: Honrichs
+    kind: person
+  - de: Loar
+    en: Loar
+    kind: person
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: Eberhard
+    en: Eberhard
+    kind: person
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '8'
+  - '10'
+  - '27'
+  - '1815'
 - page: 4
   en: 'According to the courier just arrived, Bonaparte is in Paris and has already been proclaimed Emperor
     again - Davout is Minister of War and [uncertain: Seige] Minister of the Interior - the thick fat
-    King now sits with his kindred at Lille. Who then is to call the foreign troops into France, for which
-    the other gentlemen appear to be waiting. O, that is indeed a wretchedness without equal. This very
-    moment the news comes in that in Paris it has come to a great brawl between the Bonapartist rebels
-    and the Royalists - the end of this is not yet known. This would be a piece of good fortune, for then
-    the [uncertain: godfathers] would soon have to be called in. As to Berlin, everything that happens
-    and everything that [uncertain: is heard] is becoming very [uncertain: perhiseliers] - Prince Hardenberg
-    has lost all his cheerfulness.'
+    King sits with his kindred now in Lille -- Who is now to call the foreign troops into France, upon
+    which the other gentlemen appear to be waiting. Oh, that is indeed a wretchedness without equal. This
+    very moment the news comes in that in Paris it has come to a great brawl between the Bonapartist rebels
+    and the Royalists - the outcome of this is not yet known -- This would be a piece of luck, for then
+    the [uncertain: godfathers] would surely soon have to be called in.
+
+
+    As for Berlin, everything that happens and everything that is heard is said to become very [uncertain:
+    persiflaged] - Prince Hardenberg has lost all his cheerfulness -'
+  names:
+  - de: Bonaparte
+    en: Bonaparte
+    kind: person
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Davocis
+    en: Davout
+    kind: person
+  - de: Seige
+    en: Seige
+    kind: person
+  - de: Lille
+    en: Lille
+    kind: place
+  - de: Frankreich
+    en: France
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person

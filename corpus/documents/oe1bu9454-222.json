@@ -309,28 +309,465 @@
    "doc_line": 72
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Baron Stossel",
+   "kind": "person",
+   "surface_de": "Baron Stossel",
+   "surface_en": "Baron Stossel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Königs",
+   "kind": "person",
+   "surface_de": "Königs",
+   "surface_en": "Königs",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "Prince Sacken",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "Pr. Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Alexander",
+   "kind": "person",
+   "surface_de": "Allexander",
+   "surface_en": "Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count [uncertain: Cesur] Wartensleben",
+   "kind": "person",
+   "surface_de": "Gr. Cesur Wartensleben",
+   "surface_en": "Count [uncertain: Cesur] Wartensleben",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 3
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Ceher] Wartenleben",
+   "kind": "person",
+   "surface_de": "Ceher Wartenleben",
+   "surface_en": "[uncertain: Ceher] Wartenleben",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Stöckel]",
+   "kind": "person",
+   "surface_de": "Stöckel",
+   "surface_en": "[uncertain: Stöckel]",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koschentin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koschentin",
+   "page": 3
+  },
+  {
+   "entity": "stossel",
+   "display": "Stossel",
+   "kind": "person",
+   "surface_de": "Stossels",
+   "surface_en": "Stossel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanower",
+   "surface_en": "Blizanow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Triebenfeld",
+   "kind": "person",
+   "surface_de": "Trie benfeldten",
+   "surface_en": "Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stösseln",
+   "surface_en": "Stössel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Koch",
+   "kind": "person",
+   "surface_de": "Koch",
+   "surface_en": "Koch",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Garde du Corps",
+   "kind": "other",
+   "surface_de": "Garde du Corps",
+   "surface_en": "Garde du Corps",
+   "page": 4
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord,\n\nThat Baron Stossel is willing to take over the Zagorow estates for his claims according to my plan, Your Serene Highness will deign to gather from the accompanying letter of the Chief Court Official [uncertain: Königs]. Now everything depends on this, that the Baron is: he comes here soon, and then the matter is also settled with old Weigel himself — For a couple of days now I have been awaiting the arrival [lit. \"the future\"] of the messenger sent to Your Serene Highness in this matter. Every delay may prove harmful to the good cause; had I people on whom I could rely, and horses, then one rider ought now to be chasing the next, but ever since my old honest Richter went into winter quarters I have had no faithful person, no money either, for want of horses. Accordingly I am sending this messenger as well, and beg for a speedy answer: \"Whether Your Serene Highness wishes the business with Stossel and Weigel to be settled according to my plan, or whether Most High You have another plan? So far as I know Your Serene Highness's situation, and so much understanding as Mother Nature has hitherto given me, I see no more honourable, swifter and better rescue for Your Serene Highness than this: Stossel and Weigel are satisfied — You receive then from the"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord, that Baron Stossel is willing to accept the Zagorowo estates in satisfaction of his claims according to my plan, Your Serene Highness will deign to gather from the enclosed letter of the Chief Office [uncertain: Königs]. Now everything depends upon the Baron: [if he] comes here soon, then the matter is settled even with old Weigel himself — For a couple of days now I have been awaiting the return of the messenger I sent to Your Serene Highness on this account. Every delay may prove harmful to the good cause; had I people upon whom I could rely, and horses, then one rider should now be chasing the next, but ever since my old honest Richter took up winter quarters I have had no faithful man, and no money either, for want of horses.\n\nI accordingly dispatch this messenger also, and beg for a speedy answer: \"Whether Your Serene Highness wishes the matter with Stössel and Weigel to be concluded according to my plan, or whether Your Most High Self has another plan?\"\n\nSo far as I know Your Serene Highness's situation, and so much understanding as Mother Nature has hitherto given me, I see no more honourable, no swifter and no better deliverance for Your Serene Highness than this: Stossel and Weigel are satisfied — You receive then from the",
+   "names": [
+    {
+     "de": "Baron Stossel",
+     "en": "Baron Stossel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Königs",
+     "en": "Königs",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "the moneys left behind by the deceased Princess Sacken, which are to be applied to the purchase of two entailed estates for Princes Adolph and Allexander, some 670000 m. back in cash — with that they can defy hell itself in these present times — In Berlin, where nothing counts but the money-bag, this will raise an uproar that will go thundering up through the clouds.\n\nI beg for the speediest answer, and I remain, until death, Your Serene Highness's\n\nBlizanow, the 1st of Xbr 1811\n\nwholly most obedient faithful servant\nv Triebenfeld"
+   "en": "the moneys left behind by the deceased Prince Sacken, which are to be applied to the purchase of two entailed estates for Princes Adolph and Alexander, back in cash to the amount of 670000 m. — with that they can defy Hell itself in these present times — In Berlin, where only the money-bag counts, this will make such a noise as will thunder up through the clouds. I beg for the speediest answer, and I remain, until death, Your Serene Highness's\n\nBlizanow, the 1st of December\n\n1811\n\nwholly most obedient and faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Fürsten Sacken",
+     "en": "Prince Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Pr. Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Allexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "670000",
+    "1ten",
+    "1811"
+   ]
   },
   {
    "page": 3,
-   "en": "P[ro]. M[emoria].\n\nI had already sealed this letter and handed it to the messenger when Count Caesar Wartensleben, who comes directly from Breslau, has himself announced. Stössel, by his assurance, will enter into the matter with Weigel. He wishes, however, to have a writing from Your Serene Highness that You Yourself would consent to the plan drawn up by me. Count [uncertain: Ceher] Wartenleben advises that Your Serene Highness might write to him, old Stöckel, with the utmost haste, that You had always been minded to keep Koschentin, and that through the death of Your mother-in-law You had believed You would be put in the position of being able to pay for Koschentin — since, however, the Lady Princess had so made her testament that nothing was left to You to dispose of, You therefore wished, for the satisfaction of him, the said Stossel, and of Weigel, to give the Zagorow estates, to which Triebenfeld wishes to add the Blizanow estates as well. To that end You had charged Triebenfeld with settling everything, and requested him, if this were agreeable to him, to enter into negotiation with Triebenfeld concerning all these matters.\n\nI am now wholly, wholly firmly convinced that this affair will come about, if Your Serene Highness has no other plans. — To that end I am sending in all haste a [illegible] messenger — to whom 5 Rthl are still to be given there"
+   "en": "P[ro]. M[emoria].\n\nI had already sealed this letter and handed it to the messenger when Count [uncertain: Cesur] Wartensleben, who comes directly from Breslau, presents himself to report that Stössel, according to his assurance, will enter into terms with Weigel. But he wishes to have a writing from Your Serene Highness, that You Yourself would consent to the plan drawn up by me. [uncertain: Ceher] Wartenleben advises that Your Serene Highness might write to him, to old [uncertain: Stöckel], with the greatest haste, that You had all along been minded to keep Koschentin, and that through the death of Your mother-in-law You had believed You would be placed in the condition to be able to pay for Koschentin — but since meanwhile the Lady Princess had so made her will that nothing was left to You to dispose of, You therefore wished, for the satisfaction of him, the said Stossel, and of Weigel, to give up the Zagorowo estates, to which Triebenfeld wishes to add the Blizanow estates as well. To that end You had charged Triebenfeld to settle everything, and requested him, if this were agreeable to him, to enter into negotiation with Triebenfeld over all these matters. I am now wholly, wholly convinced that this business will come to pass, if Your Serene Highness has no other plans. — To that end I dispatch in all haste a [illegible] messenger — to whom 5 Rthl are still",
+   "names": [
+    {
+     "de": "Gr. Cesur Wartensleben",
+     "en": "Count [uncertain: Cesur] Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Ceher Wartenleben",
+     "en": "[uncertain: Ceher] Wartenleben",
+     "kind": "person"
+    },
+    {
+     "de": "Stöckel",
+     "en": "[uncertain: Stöckel]",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koschentin",
+     "kind": "place"
+    },
+    {
+     "de": "Stossels",
+     "en": "Stossel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanower",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Trie benfeldten",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5"
+   ]
   },
   {
    "page": 4,
-   "en": "— May Your Serene Highness deign to send me by this fellow the letter and all Your other commands with the very greatest speed, so that I may hasten thence with the writing to Breslau and fetch Stössel myself — the messenger has promised to be back here in 5 days — Deign to make haste — the matter is important, great and [uncertain: heen], and secures for You, gracious Prince, the most joyful future.\n\nFor the rest, Koch writes to me that I should come to Berlin soon, soon. Much was in train and all would yet come right.\n\nMy eldest son, who served in the 2nd Silesian Hussar Regiment, has been called to Berlin and will be appointed in the Garde du Corps as second lieutenant — the King spoke with him at length and enquired after this and that, especially [uncertain: Köckritz] perhaps. In the c. matter only by word of mouth.\n\nv Triebenfeld"
+   "en": "to be given — May Your Serene Highness deign to send me by this fellow the letter and all Your other commands with the utmost [uncertain: dispatch], so that I may thereupon hasten with the writing to Breslau and fetch Stössel myself — the messenger has promised to be back here in 5 days — Deign to make haste — the matter is important, great and [uncertain: pressing], and secures for You, gracious Prince, the happiest future.\n\nFor the rest, Koch writes to me that I am to come to Berlin soon, soon. Much was in train and everything would yet come right. My eldest son, who served in the 2nd [uncertain: Schluse] cuirassier regiment, has been called to Berlin and will be appointed in the Garde du Corps as second lieutenant — the King spoke with him at length and enquired after one thing and another, particularly Köckritz perhaps.\n\nIn the [illegible] matter only by word of mouth.\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Stösseln",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Koch",
+     "en": "Koch",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Garde du Corps",
+     "en": "Garde du Corps",
+     "kind": "other"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "2 ten"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord,\n\nThat Baron Stossel is willing to take over the Zagorow estates for his claims according to my plan, Your Serene Highness will deign to gather from the accompanying letter of the Chief Court Official [uncertain: Königs]. Now everything depends on this, that the Baron is: he comes here soon, and then the matter is also settled with old Weigel himself — For a couple of days now I have been awaiting the arrival [lit. \"the future\"] of the messenger sent to Your Serene Highness in this matter. Every delay may prove harmful to the good cause; had I people on whom I could rely, and horses, then one rider ought now to be chasing the next, but ever since my old honest Richter went into winter quarters I have had no faithful person, no money either, for want of horses. Accordingly I am sending this messenger as well, and beg for a speedy answer: \"Whether Your Serene Highness wishes the business with Stossel and Weigel to be settled according to my plan, or whether Most High You have another plan? So far as I know Your Serene Highness's situation, and so much understanding as Mother Nature has hitherto given me, I see no more honourable, swifter and better rescue for Your Serene Highness than this: Stossel and Weigel are satisfied — You receive then from the\n\nthe moneys left behind by the deceased Princess Sacken, which are to be applied to the purchase of two entailed estates for Princes Adolph and Allexander, some 670000 m. back in cash — with that they can defy hell itself in these present times — In Berlin, where nothing counts but the money-bag, this will raise an uproar that will go thundering up through the clouds.\n\nI beg for the speediest answer, and I remain, until death, Your Serene Highness's\n\nBlizanow, the 1st of Xbr 1811\n\nwholly most obedient faithful servant\nv Triebenfeld\n\nP[ro]. M[emoria].\n\nI had already sealed this letter and handed it to the messenger when Count Caesar Wartensleben, who comes directly from Breslau, has himself announced. Stössel, by his assurance, will enter into the matter with Weigel. He wishes, however, to have a writing from Your Serene Highness that You Yourself would consent to the plan drawn up by me. Count [uncertain: Ceher] Wartenleben advises that Your Serene Highness might write to him, old Stöckel, with the utmost haste, that You had always been minded to keep Koschentin, and that through the death of Your mother-in-law You had believed You would be put in the position of being able to pay for Koschentin — since, however, the Lady Princess had so made her testament that nothing was left to You to dispose of, You therefore wished, for the satisfaction of him, the said Stossel, and of Weigel, to give the Zagorow estates, to which Triebenfeld wishes to add the Blizanow estates as well. To that end You had charged Triebenfeld with settling everything, and requested him, if this were agreeable to him, to enter into negotiation with Triebenfeld concerning all these matters.\n\nI am now wholly, wholly firmly convinced that this affair will come about, if Your Serene Highness has no other plans. — To that end I am sending in all haste a [illegible] messenger — to whom 5 Rthl are still to be given there\n\n— May Your Serene Highness deign to send me by this fellow the letter and all Your other commands with the very greatest speed, so that I may hasten thence with the writing to Breslau and fetch Stössel myself — the messenger has promised to be back here in 5 days — Deign to make haste — the matter is important, great and [uncertain: heen], and secures for You, gracious Prince, the most joyful future.\n\nFor the rest, Koch writes to me that I should come to Berlin soon, soon. Much was in train and all would yet come right.\n\nMy eldest son, who served in the 2nd Silesian Hussar Regiment, has been called to Berlin and will be appointed in the Garde du Corps as second lieutenant — the King spoke with him at length and enquired after this and that, especially [uncertain: Köckritz] perhaps. In the c. matter only by word of mouth.\n\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, that Baron Stossel is willing to accept the Zagorowo estates in satisfaction of his claims according to my plan, Your Serene Highness will deign to gather from the enclosed letter of the Chief Office [uncertain: Königs]. Now everything depends upon the Baron: [if he] comes here soon, then the matter is settled even with old Weigel himself — For a couple of days now I have been awaiting the return of the messenger I sent to Your Serene Highness on this account. Every delay may prove harmful to the good cause; had I people upon whom I could rely, and horses, then one rider should now be chasing the next, but ever since my old honest Richter took up winter quarters I have had no faithful man, and no money either, for want of horses.\n\nI accordingly dispatch this messenger also, and beg for a speedy answer: \"Whether Your Serene Highness wishes the matter with Stössel and Weigel to be concluded according to my plan, or whether Your Most High Self has another plan?\"\n\nSo far as I know Your Serene Highness's situation, and so much understanding as Mother Nature has hitherto given me, I see no more honourable, no swifter and no better deliverance for Your Serene Highness than this: Stossel and Weigel are satisfied — You receive then from the\n\nthe moneys left behind by the deceased Prince Sacken, which are to be applied to the purchase of two entailed estates for Princes Adolph and Alexander, back in cash to the amount of 670000 m. — with that they can defy Hell itself in these present times — In Berlin, where only the money-bag counts, this will make such a noise as will thunder up through the clouds. I beg for the speediest answer, and I remain, until death, Your Serene Highness's\n\nBlizanow, the 1st of December\n\n1811\n\nwholly most obedient and faithful servant\n\nv. Triebenfeld\n\nP[ro]. M[emoria].\n\nI had already sealed this letter and handed it to the messenger when Count [uncertain: Cesur] Wartensleben, who comes directly from Breslau, presents himself to report that Stössel, according to his assurance, will enter into terms with Weigel. But he wishes to have a writing from Your Serene Highness, that You Yourself would consent to the plan drawn up by me. [uncertain: Ceher] Wartenleben advises that Your Serene Highness might write to him, to old [uncertain: Stöckel], with the greatest haste, that You had all along been minded to keep Koschentin, and that through the death of Your mother-in-law You had believed You would be placed in the condition to be able to pay for Koschentin — but since meanwhile the Lady Princess had so made her will that nothing was left to You to dispose of, You therefore wished, for the satisfaction of him, the said Stossel, and of Weigel, to give up the Zagorowo estates, to which Triebenfeld wishes to add the Blizanow estates as well. To that end You had charged Triebenfeld to settle everything, and requested him, if this were agreeable to him, to enter into negotiation with Triebenfeld over all these matters. I am now wholly, wholly convinced that this business will come to pass, if Your Serene Highness has no other plans. — To that end I dispatch in all haste a [illegible] messenger — to whom 5 Rthl are still\n\nto be given — May Your Serene Highness deign to send me by this fellow the letter and all Your other commands with the utmost [uncertain: dispatch], so that I may thereupon hasten with the writing to Breslau and fetch Stössel myself — the messenger has promised to be back here in 5 days — Deign to make haste — the matter is important, great and [uncertain: pressing], and secures for You, gracious Prince, the happiest future.\n\nFor the rest, Koch writes to me that I am to come to Berlin soon, soon. Much was in train and everything would yet come right. My eldest son, who served in the 2nd [uncertain: Schluse] cuirassier regiment, has been called to Berlin and will be appointed in the Garde du Corps as second lieutenant — the King spoke with him at length and enquired after one thing and another, particularly Köckritz perhaps.\n\nIn the [illegible] matter only by word of mouth.\n\nv. Triebenfeld",
  "summary_en": "Reports, on the Chief Court Official's authority, that Baron Stossel will accept the Zagorow estates in settlement of his claims under Triebenfeld's plan, which would also satisfy old Weigel and free some 670000 m. in cash from the late Princess Sacken's legacy, earmarked for entailed estates for Princes Adolph and Allexander. Presses urgently for written consent, noting Count Caesar Wartensleben's advice to plead Koschentin and offer Blizanow too; asks 5 Rthl for the messenger, and mentions Koch's summons to Berlin and his son's commission in the Garde du Corps.",
  "summary_de": "Baron Stossel sei bereit, die Zagorower Güter für seine Forderungen nach Triebenfelds Plan zu übernehmen; damit wäre auch die Sache mit dem alten Weigel erledigt. Triebenfeld drängt auf schnellste Antwort, ob der Fürst dem Plan zustimme, und erbittet ein Schreiben an Stossel, worin dieser auf Triebenfeld verwiesen wird; auch Blizanow soll hinzugegeben werden. Nach dem Testament der verstorbenen Fürstin Sacken bleibe Koschentin unbezahlbar; von deren für Fideikommisse der Prinzen Adolph und Allexander bestimmten Geldern seien etwa 670000 m. bar zu erwarten. Graf Caesar Wartensleben aus Breslau bestätigt Stossels Bereitschaft. Dem Boten sind 5 Rthl zu zahlen. Koch ruft nach Berlin; der älteste Sohn wird Secondelieutenant der Garde du Corps."
 }

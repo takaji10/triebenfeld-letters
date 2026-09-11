@@ -171,20 +171,180 @@
    "doc_line": 47
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "wollenhaupt",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface_de": "Wollenhaupt",
+   "surface_en": "Wollenhaupt",
+   "page": 1
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 1
+  },
+  {
+   "entity": "magnuski",
+   "display": "Magnuski",
+   "kind": "person",
+   "surface_de": "Magnuski",
+   "surface_en": "Magnuski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Grimm",
+   "kind": "person",
+   "surface_de": "Grimms",
+   "surface_en": "Grimm",
+   "page": 1
+  },
+  {
+   "entity": "przespolewski",
+   "display": "Przespolewski",
+   "kind": "person",
+   "surface_de": "Przespolewski",
+   "surface_en": "Przespolewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dębinska",
+   "kind": "person",
+   "surface_de": "Dębinska",
+   "surface_en": "Dębinska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Magnuske",
+   "kind": "person",
+   "surface_de": "Magnuske",
+   "surface_en": "Magnuske",
+   "page": 1
+  },
+  {
+   "entity": "blomberg",
+   "display": "Blomberg",
+   "kind": "person",
+   "surface_de": "Blomberg",
+   "surface_en": "Blomberg",
+   "page": 1
+  },
+  {
+   "entity": "blomberg",
+   "display": "Blomberg",
+   "kind": "person",
+   "surface_de": "Blomberg",
+   "surface_en": "Blomberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! The matter of the loan is in the best train; God grant that no new impediments arise. It lies for examination with an otherwise good man. Everything that Your Serene Highness was pleased to charge me with under the 13th I shall faithfully attend to. What, for the rest, Wollenhaupt has prattled about a sequestration is a pure lie; on the contrary, Lichnowski has lifted the attachment against the interest for 6 weeks. The attachment on account of Magnuski has, according to Grimm's assurance, likewise been lifted; with the next post I shall meanwhile write to him. In the meantime I do not rightly understand the whole business: Przespolewski has after all no 30000 Rthl to demand, and the attachment obtained by Magnuski is after all lifted. For the rest, the Dębinska has only laid on an attachment again, to the effect that nothing shall be paid out to Magnuske. – This will in any case not happen so. Blomberg has written a letter under the 25th of Decbr, consequently earlier than the one which was answered to him by express,"
+   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nThe matter of the loan is going forward in the best way; God grant that no new obstacles arise. It lies for examination with a man who is otherwise sound.\n\nEverything that Your Serene Highness may be pleased to charge me with under the 13th I shall faithfully attend to. As for what Wollenhaupt has prattled about a sequestration, that is pure [uncertain: Lage]; on the contrary, Lichnowski has lifted the attachment on account of the interest for 6 weeks. The attachment on account of Magnuski has, according to Grimm's assurance, likewise been lifted; with the next post I shall meanwhile write to him. In the meantime I do not properly understand the whole business: Przespolewski surely has no 30000 Rthl to demand, and the attachment obtained by Magnuski has surely been lifted. For the rest, the Dębinska woman has only laid an attachment again, to the effect that nothing is to be paid out to Magnuske. – This will not happen in any case. Blomberg has written a letter under the 25th of December, consequently earlier than the one which was answered to him by express,",
+   "names": [
+    {
+     "de": "Wollenhaupt",
+     "en": "Wollenhaupt",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Magnuski",
+     "en": "Magnuski",
+     "kind": "person"
+    },
+    {
+     "de": "Grimms",
+     "en": "Grimm",
+     "kind": "person"
+    },
+    {
+     "de": "Przespolewski",
+     "en": "Przespolewski",
+     "kind": "person"
+    },
+    {
+     "de": "Dębinska",
+     "en": "Dębinska",
+     "kind": "person"
+    },
+    {
+     "de": "Magnuske",
+     "en": "Magnuske",
+     "kind": "person"
+    },
+    {
+     "de": "Blomberg",
+     "en": "Blomberg",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "13ten",
+    "6",
+    "30000",
+    "25"
+   ]
   },
   {
    "page": 2,
-   "en": "written to me, which has followed me hither by the post; this writing is of such a tenor — that Blomberg has acted infamously and must sit at least 10 years in the fortress. No robber who throws to the ground the wanderer in the desert, stripped of all defence, can make such base demands so wholly unabashed as this man void of honour does. In dry words he says outright — that if all this were not punctually granted him, then nothing should come of the dismemberment — but if he obtained what he demands, then he would himself carry the business through. With me, moreover, he means to go on shooting about until the [uncertain: 7] fetches one of us. But here he meets his master, for today he already receives the full [uncertain: Laage — \"broadside/volley\"?] — I have given him notice that if he should so much as presume to speak another word, or to meddle in the affair without my foreknowledge, I should know how to chastise him — for with a villain, as he has himself stamped himself, I should have no pity, and woe to him if he now stirred — He will assuredly be very meek. In deepest submission I remain, until death, Your Serene Highness's Berlin, the 15th of January 1805 most faithful servant v Triebenfeld"
+   "en": "to me, which has followed me hither through the post. This letter is of such a content – that Blomberg infamously incriminates himself and must sit at least 10 years in the fortress. No robber who throws to the ground the wanderer in the wilderness, stripped of all means of defence, could make such base demands so entirely without shame as this honour-forgetting man does. In plain words he says today besides — that if all this were not punctually given to him, then nothing should come of the dismemberment; but if he obtained what he demands, then he would himself carry the matter through — Moreover, he means to go on shooting about with me until one of the 7 [illegible] fetches. Here, however, he meets his master, for today he already receives the full [uncertain: Laage] – I have given him notice that if he should let himself presume to speak so much as one more word, or to meddle in the matter without my knowledge, I should know how to chastise him – for with a villain, which he has stamped himself to be, I would have no pity, and woe to him if he now stirred himself — He will assuredly be very meek.\n\nin the [uncertain: leuteten] submission I remain, until death,\n\nYour Serene Highness's\n\nBerlin, the 15th of January\n\n1805\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Blomberg",
+     "en": "Blomberg",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "7",
+    "15ten",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! The matter of the loan is in the best train; God grant that no new impediments arise. It lies for examination with an otherwise good man. Everything that Your Serene Highness was pleased to charge me with under the 13th I shall faithfully attend to. What, for the rest, Wollenhaupt has prattled about a sequestration is a pure lie; on the contrary, Lichnowski has lifted the attachment against the interest for 6 weeks. The attachment on account of Magnuski has, according to Grimm's assurance, likewise been lifted; with the next post I shall meanwhile write to him. In the meantime I do not rightly understand the whole business: Przespolewski has after all no 30000 Rthl to demand, and the attachment obtained by Magnuski is after all lifted. For the rest, the Dębinska has only laid on an attachment again, to the effect that nothing shall be paid out to Magnuske. – This will in any case not happen so. Blomberg has written a letter under the 25th of Decbr, consequently earlier than the one which was answered to him by express,\n\nwritten to me, which has followed me hither by the post; this writing is of such a tenor — that Blomberg has acted infamously and must sit at least 10 years in the fortress. No robber who throws to the ground the wanderer in the desert, stripped of all defence, can make such base demands so wholly unabashed as this man void of honour does. In dry words he says outright — that if all this were not punctually granted him, then nothing should come of the dismemberment — but if he obtained what he demands, then he would himself carry the business through. With me, moreover, he means to go on shooting about until the [uncertain: 7] fetches one of us. But here he meets his master, for today he already receives the full [uncertain: Laage — \"broadside/volley\"?] — I have given him notice that if he should so much as presume to speak another word, or to meddle in the affair without my foreknowledge, I should know how to chastise him — for with a villain, as he has himself stamped himself, I should have no pity, and woe to him if he now stirred — He will assuredly be very meek. In deepest submission I remain, until death, Your Serene Highness's Berlin, the 15th of January 1805 most faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nThe matter of the loan is going forward in the best way; God grant that no new obstacles arise. It lies for examination with a man who is otherwise sound.\n\nEverything that Your Serene Highness may be pleased to charge me with under the 13th I shall faithfully attend to. As for what Wollenhaupt has prattled about a sequestration, that is pure [uncertain: Lage]; on the contrary, Lichnowski has lifted the attachment on account of the interest for 6 weeks. The attachment on account of Magnuski has, according to Grimm's assurance, likewise been lifted; with the next post I shall meanwhile write to him. In the meantime I do not properly understand the whole business: Przespolewski surely has no 30000 Rthl to demand, and the attachment obtained by Magnuski has surely been lifted. For the rest, the Dębinska woman has only laid an attachment again, to the effect that nothing is to be paid out to Magnuske. – This will not happen in any case. Blomberg has written a letter under the 25th of December, consequently earlier than the one which was answered to him by express,\n\nto me, which has followed me hither through the post. This letter is of such a content – that Blomberg infamously incriminates himself and must sit at least 10 years in the fortress. No robber who throws to the ground the wanderer in the wilderness, stripped of all means of defence, could make such base demands so entirely without shame as this honour-forgetting man does. In plain words he says today besides — that if all this were not punctually given to him, then nothing should come of the dismemberment; but if he obtained what he demands, then he would himself carry the matter through — Moreover, he means to go on shooting about with me until one of the 7 [illegible] fetches. Here, however, he meets his master, for today he already receives the full [uncertain: Laage] – I have given him notice that if he should let himself presume to speak so much as one more word, or to meddle in the matter without my knowledge, I should know how to chastise him – for with a villain, which he has stamped himself to be, I would have no pity, and woe to him if he now stirred himself — He will assuredly be very meek.\n\nin the [uncertain: leuteten] submission I remain, until death,\n\nYour Serene Highness's\n\nBerlin, the 15th of January\n\n1805\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports the loan negotiation proceeding well and under examination; denies Wollenhaupt's talk of a sequestration, noting that Lichnowski has lifted the attachment on the interest for six weeks and that Grimm assures him the attachment on Magnuski's account is also lifted, though Przespolewski has no claim to 30000 Rthl and the Dębinska has newly attached payments to Magnuske. Denounces Blomberg's letter of 25 December as extortionate threats over the dismemberment, and describes the sharp rebuke sent him.",
  "summary_de": "Die Anleihe steht in bester Aussicht und liegt einem gutwilligen Mann zur Prüfung vor; die Aufträge vom 13. werden befolgt. Wollenhaupts Rede von einer Sequestration sei erlogen: Lichnowski habe den Arrest auf die Zinsen für 6 Wochen aufgehoben, der von Magnuski erwirkte nach Grimms Versicherung ebenfalls; Przespolewski habe keine 30000 Rthl zu fordern, die Dębinska nur neuen Arrest gegen Auszahlung an Magnuske gelegt. Blombergs Schreiben vom 25. Dezember enthalte ehrlose Forderungen und Drohungen gegen die Dismembration; Triebenfeld hat ihm scharf jede weitere Einmischung untersagt."
 }

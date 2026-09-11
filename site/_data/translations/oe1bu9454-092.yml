@@ -1,11 +1,56 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord, The information which Your Most Serene Highness
-    requested of me by last post-day I have obtained in this wise, that Herr Baurath Glenck delivered
-    to me on [uncertain: Donntag — Sunday/Monday?] the receipts of the Gleissenbergen and of Schneider,
-    whereby I feel myself fully put in a position to answer the General Auditoriat upon the dispositions
-    communicated to Your Most Serene Highness. I do not doubt that Herr Kriegsrath v. Triebenfeld will
-    this day give Your Most Serene Highness intelligence of the present posture of the Krotoszyn tausp.
-    affair, and in deepest reverence I remain, until death, Your Most Serene Highness''s Berlin, the 18th
-    December 1798. most humbly, faithfully obed. samſtes Michaelis'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord, The information which Your Most Serene Highness requested of me on
+    the last post-day I have obtained in this way, that the Sir Councillor of Works Glenck delivered to
+    me on Sunday the receipts of the Gleissenbergs and of Schneider, whereby I feel myself fully placed
+    in a position to answer the General Auditoriate upon its dispositions communicated to Your Most Serene
+    Highness.
+
+
+    I do not doubt that the Sir councillor of war von Triebenfeld will give Your Most Serene Highness
+    news today of the present situation of the Krotoszyn [uncertain: tausp.] affair, and in deepest reverence
+    I remain, until death, Your Most Serene Highness''s Berlin
+
+
+    the 18th of December
+
+
+    1798.
+
+
+    most humbly, faithfully [illegible]
+
+
+    most obedient
+
+
+    Michaelis'
+  names:
+  - de: Glenck
+    en: Glenck
+    kind: person
+  - de: Gleisſenbergen
+    en: Gleissenbergs
+    kind: person
+  - de: Schneider
+    en: Schneider
+    kind: person
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Krotoszyner
+    en: Krotoszyn
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Michaelis
+    en: Michaelis
+    kind: person
+  numbers:
+  - '18'
+  - '1798'

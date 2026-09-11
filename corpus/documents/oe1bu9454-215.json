@@ -601,44 +601,1105 @@
    "doc_line": 292
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Bally",
+   "kind": "person",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "kwilecki",
+   "display": "Kwilecki",
+   "kind": "person",
+   "surface_de": "Kwilecki",
+   "surface_en": "Kwilecki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mendel Oppenheimer",
+   "kind": "person",
+   "surface_de": "Mendel Oppenheimer",
+   "surface_en": "Mendel Oppenheimer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimers",
+   "surface_en": "Oppenheimer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konin",
+   "kind": "place",
+   "surface_de": "Konin",
+   "surface_en": "Konin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stenger",
+   "kind": "person",
+   "surface_de": "Stenger",
+   "surface_en": "Stenger",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Raszkowski",
+   "kind": "person",
+   "surface_de": "Raszkowski",
+   "surface_en": "Raszkowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kwilecki, von",
+   "kind": "person",
+   "surface_de": "von Kwilecki",
+   "surface_en": "Kwilecki, von",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kietszewski",
+   "kind": "person",
+   "surface_de": "Kietszewski",
+   "surface_en": "Kietszewski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dąbska",
+   "kind": "person",
+   "surface_de": "Da balea / Dąbska",
+   "surface_en": "Dąbska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Scholrech",
+   "kind": "person",
+   "surface_de": "Scholrech",
+   "surface_en": "Scholrech",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lipelli",
+   "kind": "person",
+   "surface_de": "Lipelli",
+   "surface_en": "Lipelli",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kaemen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brzyzna",
+   "kind": "place",
+   "surface_de": "Brzyzer",
+   "surface_en": "Brzyzna",
+   "page": 2
+  },
+  {
+   "entity": "kwilecki",
+   "display": "Kwilecki",
+   "kind": "person",
+   "surface_de": "Kwilecki",
+   "surface_en": "Kwilecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Namener",
+   "surface_en": "Kaemen",
+   "page": 3
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowski",
+   "surface_en": "Grotowski",
+   "page": 3
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 3
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 3
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Smid",
+   "kind": "person",
+   "surface_de": "Smid",
+   "surface_en": "Smid",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Dąbska",
+   "kind": "person",
+   "surface_de": "Da bete",
+   "surface_en": "Dąbska",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 3
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 3
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Karzunki",
+   "kind": "person",
+   "surface_de": "Karzunki",
+   "surface_en": "Karzunki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Betschin",
+   "kind": "place",
+   "surface_de": "Betschin",
+   "surface_en": "Betschin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "place",
+   "surface_de": "Bornstædt",
+   "surface_en": "Bornstädt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 4
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 4
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Betschen",
+   "kind": "place",
+   "surface_de": "Betschen",
+   "surface_en": "Betschen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Wyttow",
+   "surface_en": "Witów",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Schiffen",
+   "kind": "person",
+   "surface_de": "der Schiffen",
+   "surface_en": "Schiffen",
+   "page": 5
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Schließen",
+   "kind": "person",
+   "surface_de": "der Schließen",
+   "surface_en": "Schließen",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Grattenau",
+   "kind": "person",
+   "surface_de": "Grattenausche",
+   "surface_en": "Grattenau",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Leiche Detessche",
+   "kind": "person",
+   "surface_de": "Leiche Detessche",
+   "surface_en": "Leiche Detessche",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Epstein",
+   "kind": "person",
+   "surface_de": "Epstensche",
+   "surface_en": "Epstein",
+   "page": 5
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Dąbska",
+   "surface_en": "Dąbska",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Kiełczewski, v.",
+   "kind": "person",
+   "surface_de": "v. Kiełczewski",
+   "surface_en": "Kiełczewski, v.",
+   "page": 5
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kaemen",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Köckritz, v.",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "Köckritz, v.",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Collonmasch",
+   "kind": "other",
+   "surface_de": "Collonmasche",
+   "surface_en": "Collonmasch",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "B —",
+   "kind": "person",
+   "surface_de": "B -",
+   "surface_en": "B —",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Reibniz",
+   "kind": "person",
+   "surface_de": "Reibniz",
+   "surface_en": "Reibniz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "B:",
+   "kind": "person",
+   "surface_de": "H. B:",
+   "surface_en": "B:",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "the Queen",
+   "kind": "person",
+   "surface_de": "die Königin",
+   "surface_en": "the Queen",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "B.",
+   "kind": "person",
+   "surface_de": "H. B.",
+   "surface_en": "B.",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreistischen",
+   "surface_en": "South Prussian",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Brzechsta, v.",
+   "kind": "person",
+   "surface_de": "v Brzechsta",
+   "surface_en": "Brzechsta, v.",
+   "page": 8
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 8
+  },
+  {
+   "entity": "brzechsta",
+   "display": "Brzechsta",
+   "kind": "person",
+   "surface_de": "Brzechsta",
+   "surface_en": "Brzechsta",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 8
+  }
+ ],
  "place_canonical": "Unknown",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "P. M. ad 1. the 1000 Rthl were duly delivered to me by the Master of the Horse Herr Bally against my receipt and that of Honrichs; of these 600 Rthl were sent in cash within the hour without fail, and out of the remainder various costs were satisfied, in the matter in which I had execution against me. ad 2. I express my most deeply moved thanks for the two hundred and fifty-five rt. in coin sent to my children, which I shall gratefully return or bring to account. Should the 245 Rthl which had been assigned to me for the redemption of the iron, but which are here charged again, still be received, I would most humbly bring this too into account with the iron delivery. ad 3. Honrichs, Hawich and Cabanis have been here. Honrichs's affair has been cleared up and he was not found to be a villain, whereas Hawich has been unmasked as the worst of fellows. Hecker will now be rewarded according to his dealings, his paper security returned to him, and he will be discharged. Cabanis remains, in my unassailable opinion, ever true to his generally known honesty, cash controller as soon as God helps and Your Serene Highness has all your estates back in possession. Hawich will be entirely dismissed, and Count Kwilecki has already thrown him out of the court-room himself as a slanderer and Nabulistic pettifogger and forbidden him all access; as to what concerns ad 4., the situation of the Zagorowo and Trąbczyn estates, the sequestration at Zagorowo must now absolutely be lifted; to that end I have had a register given me by Honrichs and Cabanis of what can be collected in cash at once. The sum stated by the Jew Mendel Oppenheimer would amount to 102000 Rthl (which, however, is again more than 20000 Rthl), and in which matter the suit is pending in Berlin. Meanwhile the interest thereon would come to about 5100 Rthl a year; these would have to be deposited at once with the protestation that the suit concerning the Jew Oppenheimer's claim and his false cession is pending in Berlin, so that the interest might not be handed over to him. The statement of Honrichs and Cabanis gives 13610 Rthl, the annual interest 5100; after these 8510 would remain. This matter now lies before the Justice of the Peace Count Kwilecki; I have ordered payment of the 5100 Rthl [Anweisung] and insist upon the immediate lifting of the sequestration, or of what is now called the administration, the more so as of late the general lifting of sequestration has been conceded, provided only that the running interest is settled."
+   "en": "P. M.\n\nad 1. The 1000 Rthl from the Master of the Horse Bally were duly delivered into my hands against my own and Honrichs's receipt, of which 600 Rthl were sent in cash within the hour [uncertain: for the shortfalls], and with the remainder various costs were satisfied, in which matter I had execution against me.\n\nad 2. I say the most deeply moved thanks for the two hundred and fifty-five rt. in coin sent to my children, which I shall gratefully return or account for. Should the 245 Rthl which had been assigned to me for the redemption of the iron, but which are here charged again, still be received, I would most humbly bring this too into the account upon the delivery of the iron.\n\nad 3. Thus Honrichs, Hawich and Cabanis have been here. Honrichs's affair has been cleared up and he was not found to be a scoundrel, whereas Hawich has been unmasked as the worst of fellows. Hecker will now be rewarded according to his dealings, his paper security returned to him, and he will be dismissed. Cabanis remains, in my unpresumptuous opinion, constant in his generally known honesty, and will be treasury controller as soon as God helps and Your Serene Highness has all the estates in possession again. Hawich will be entirely discharged, and Count Kwilecki has already thrown him out of the court chamber himself as a slanderer and a shyster pettifogging scribbler, and has forbidden him all access; as to what\n\nad 4. concerns the situation of the Zagorowo and Trąbczyn estates, the sequestration must now absolutely be lifted at Zagorowo. To that end I have had a schedule drawn up by Honrichs and Cabanis of what can at once be collected in cash. The sum stated by the Jew Mendel Oppenheimer would amount to 102000 Rthl (but which is more than 20000 Rthl again), in which matter the suit is pending in Berlin.\n\nMeanwhile the interest thereon would come to about 5100 Rthl a year; these would have to be deposited at once together with the protestation that the suit concerning the Jew Oppenheimer's claim and his false cession is pending in Berlin, so that the interest may not be handed over to him. The statement of Honrichs and Cabanis says 13610 Rthl, the annual interest\n\n5100\n\nAfter these, 8510 would remain. This matter now lies before the Justice of the Peace Count Kwilecki; I have given the instruction for the 5100 Rthl and insist upon the immediate lifting of the sequestration, or what is now called the administration, all the more since of late the general lifting of sequestration has been conceded, provided only that the current interest is settled.",
+   "names": [
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Kwilecki",
+     "en": "Kwilecki",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Mendel Oppenheimer",
+     "en": "Mendel Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Oppenheimers",
+     "en": "Oppenheimer",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "1000",
+    "600",
+    "2",
+    "245",
+    "3",
+    "4",
+    "102000",
+    "20000",
+    "5100",
+    "13610",
+    "5100",
+    "8510",
+    "5100"
+   ]
   },
   {
    "page": 2,
-   "en": "On the 28th of this month the hearing in the matter is set down; I hope for the best outcome, and note most obediently that the arrears, in so far as such come in little by little, will cover everything. For the rest, however, it will be necessary to cultivate the two judges, both at Konin and at Kalisz, as much as possible and to keep them in their good disposition, for which purpose I must come very close upon my own means. Stenger I have had to let go. He was too costly for me; before he would set a pen to paper he wanted 2000 Rthl in advance; I have now wholly abandoned him and engaged a certain Raszkowski who promises to work all of it for 300 Rthl - with the exceedingly good disposition of the Justice of the Peace and of the Tribunal Presidents von Kwilecki and Kiełczewski there is now simply no need of so damnably costly an advocate, who besides the advance of 2000 Rthl also wished to be bathed in Hungarian wine and champagne. The Dąbska has swung herself into possession of the estates without any decrees or judgments whatever, by the help of two wretched fellows, a certain Scholrech and Lipelli. The two aforenamed judges Kur[illegible] and [illegible]geti have [illegible] caused a summons to sue and promise the very promptest satisfaction - I am almost convinced of the most desirable outcome, as of my own [outcome] - I have seized with favour the opportunity offered to me by God in these men, in order not only to save my princely friend's property speedily amid these never before anticipated happy events, but if possible to increase it. Indeed, with the vindication of the Trąbczyn estates I join at once the Kaemen ones (which would have caused the worthy Prince much grief), as also thereafter the rescue of the Brzyz estates, which must in the end be regarded as an equivalent for the damage inflicted upon the Prince by the Dąbska, because otherwise there would be no [uncertain: fund] available to obtain an indemnification from the notorious lady. This is indeed the advice of Count Kwilecki, who has it said to me that as soon as the decree or judgment concerning"
+   "en": "On the 28th of this month the hearing in the matter is set down; I hope for the best outcome, and observe most obediently that the arrears, were such to come in little by little, would cover everything.\n\nFor the rest, however, it will be necessary to cultivate both judges, in Konin as well as in Kalisz, so far as is possible, and to keep them in their good disposition, on which account I must encroach very closely upon my own means. Stenger I have had to let go. He was too costly for me: before he would set pen to paper he wanted 2000 Rthl in advance. I have now entirely abandoned him and taken on a certain Raszkowski, who promises to work all of it up for 300 Rthl. Given the exceedingly good disposition of the Justice of the Peace and of the Tribunal Presidents von Kwilecki and Kietszewski, there is at present simply no need of such a damnably costly advocate, who besides the advance of 2000 Rthl also wished to be bathed in Hungarian wine and champagne. The Dąbska woman has, without any decrees or judgments whatever, swung herself into possession of the estates by the help of two wretched fellows, a certain Scholrech and Lipelli. The two aforementioned judges Kur[illegible] and [illegible]geti have [illegible] had her called upon to plead, and promise the very promptest satisfaction. I am almost convinced of the most desirable outcome, as of my own [text illegible in sense]. I have gratefully seized the opportunity offered by God through these men, in order not only speedily to rescue my princely friend's property amid these never before anticipated fortunate events, but if possible to increase it. Indeed, with the vindication of the Trąbczyn estates I join at once that of the Kaemen estates (which would have caused the worthy Prince much grief), as also thereafter the rescue of the Brzyzna estates, which must in the end be regarded as an equivalent for the damage inflicted upon the Prince by the Dąbska woman, since otherwise there would be no [uncertain: fund] at hand from which to obtain indemnification from that notorious lady.\n\nThis is likewise the advice of Count Kwilecki, who has it said to me that as soon as the decree or judgment concerning",
+   "names": [
+    {
+     "de": "Konin",
+     "en": "Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Stenger",
+     "en": "Stenger",
+     "kind": "person"
+    },
+    {
+     "de": "Raszkowski",
+     "en": "Raszkowski",
+     "kind": "person"
+    },
+    {
+     "de": "von Kwilecki",
+     "en": "Kwilecki, von",
+     "kind": "person"
+    },
+    {
+     "de": "Kietszewski",
+     "en": "Kietszewski",
+     "kind": "person"
+    },
+    {
+     "de": "Da balea / Dąbska",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Scholrech",
+     "en": "Scholrech",
+     "kind": "person"
+    },
+    {
+     "de": "Lipelli",
+     "en": "Lipelli",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Brzyzer",
+     "en": "Brzyzna",
+     "kind": "place"
+    },
+    {
+     "de": "Kwilecki",
+     "en": "Kwilecki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "28",
+    "2000",
+    "300",
+    "2000",
+    "2"
+   ]
   },
   {
    "page": 3,
-   "en": "Trąbczyn is there, I too should press so firmly for compensation for damages and should not be bashful in setting the costs - I think some 60000 Rthl will be neither too little nor yet so very much. So much on the subject, or on the vindication of the Trąbczyn and Kaemen estates. Concerning the lamentations of Grotowski, Lichnowski, Zerboni and Eysenhardt, who have [uncertain: moneys] upon Trąbczyn and Szetlewek [text lost], there is nothing to be said at present - the vindication of the estates also removes the worry for the future. I believe that if the Prince gets the estates back, 15000 Rthl are at once to be had from the tenant Smid, for he will not willingly go out and leave in the lurch the rent he has paid in advance to the Dąbska; with the aforesaid 15000 Rthl of rent one pays the four men their interest and they will gladly be quiet - Enough: everything depends upon the swiftest vindication of these estates; if this follows as desired and as it is now set in train, then the greatest worry is removed and the credit restored at the same time. For the rest, that tableau which I gave His Serene Highness three years ago remains always the basis of what the estates are, once Trąbczyn is regained, and what they will be in the end. The war will cause a shortfall, but meanwhile much interest that has not been raised has accrued, and this in the end covers the shortfall, so that the sum will always remain the same. The dismemberment stands as it is set out in that tableau - especially once Trąbczyn shall first have been rescued again, it must not suffer the least alteration. For neither Honrichs, Hawich, Hecker, nor the Karzunki had any right to appropriate to themselves a single Morgen of land, and not a single one shall remain in possession with my consent; rather, the lands must be given back and, according to the plan I once made and which was itself approved by the former Chamber for heavy money, be made known through colonists and those be established thereon. I grant that at present there is no influx of colonists, but let calm and peace return entirely, and then there will be people enough"
+   "en": "Trąbczyn is there, I should likewise press firmly for compensation of damages and not be bashful in setting the costs. I think some 60000 Rthl will be neither too little nor too much. So much on the subject, that is, on the vindication of the Trąbczyn and Kaemen estates. Concerning the lamentations of Grotowski, Lichnowski, Zerboni and Eysenhardt, who have [text lost] [uncertain: money] upon Trąbczyn and Szetlewek, there is nothing to be said at present. The vindication of the estates also removes the worry for the future. I believe that if the Prince gets the estates back, then 15000 Rthl are straightway to be had from the tenant Smid, for he will not willingly go out, and will not wish to abandon the rent he has paid in advance to the Dąbska woman; with the aforesaid 15000 Rthl of rent one pays the four men their interest, and they will gladly keep quiet. Enough: everything depends on the speediest vindication of these estates; if this follows as wished and as it is now set in train, then the greatest worry is lifted and the credit restored at the same time.\n\nFor the rest, that tableau given by me to His Serene Highness three years ago remains always the basis of what the estates are, once Trąbczyn is won back, and what they will be in the end. The war will cause a shortfall, but in the meantime much interest that has not been raised has accrued in addition, and this in the end covers the shortfall, so that the sum total will always remain the same.\n\nThe dismemberment remains as it is set out in that tableau; particularly once Trąbczyn shall first have been rescued again, it must not suffer the least alteration. For as little as Honrichs, Hawich, Hecker, or the Karzunki had any right to appropriate a Morgen of land to themselves, so also not a single one shall remain in possession with my consent; rather the lands must be given back and, according to the plan I once made and which was approved even by the former Chamber for heavy money, made known through colonists and settled for that purpose. I grant that at present there is no influx of colonists, but let quiet and peace return entirely and there will be people enough",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Namener",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Grotowski",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Smid",
+     "en": "Smid",
+     "kind": "person"
+    },
+    {
+     "de": "Da bete",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Karzunki",
+     "en": "Karzunki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "60000",
+    "15000",
+    "15000",
+    "4",
+    "3"
+   ]
   },
   {
    "page": 4,
-   "en": "- Meanwhile the one thing that will have to be done is that for this year one remit to all the colonists a third part of their interest, with the notice that His Serene Highness, upon the manifold pressing petitions or [uncertain: counsel] of the colonists, the inhabitants of the lordship of Zagorowo, out of especial grace bestows upon them for this year one third of the interest payable by them and remits it with the intimation that they in return should settle very promptly the remaining two thirds of the interest, as: instead of one rtum, sixteen good Groschen, or instead of a hundred round - thirty-three, sixty-six at the 16 gg, etc. But this is a necessary evil; it must be done, because otherwise the people out of obstinacy will give nothing at all. It causes a considerable shortfall for the year, but it awakens a great confidence and gives rise to, or draws after it, the profit that upon complete peace, or [uncertain: the calming] of the people in the land, [they] would come streaming to the Prince in droves, whereby the still unoccupied lands, or those now lying newest, which the people abandoned in the course of the unhappy war, can easily be alienated again and settled with [uncertain: Lohden] persons. At Betschin considerable arrears stand out, namely the annual canon of 1000 Rthl and many Laudemien. Bornstædt has, as I have heard, been settled with out of the remainder of the purchase price still outstanding - I have therefore no reliable information, but so far as I recall, all the arrears together, as purchase price, annual ground-rent and laudemia, must amount to over 14000 Rthl. At this moment nothing at all will be obtainable from the inhabitants. But as soon as complete calm sets in, the discharge of the arrears must be pressed for, especially once Kaemen shall have been rescued. For purely on that account I have been unwilling to say anything there at present, because Leixner with Meyer Bernhard of Betschen were minded to draw their interest on account of considerable loans, which I do not know exactly."
+   "en": "— Meanwhile the one thing will have to be done, namely that for this year one remit to all the colonists a third part of their interest, with the notice that Your Serene Highness, upon the many pressing petitions, or [uncertain: on the advice] of the colonists and the inhabitants of the lordship of Zagorowo, has out of particular grace made them a gift for this year of one third of the interest payable by them, and remitted it with the intimation that in return they should very promptly settle the remaining two thirds of the interest at sixteen good Groschen instead of one thaler, or instead of a hundred round — thirty-three, sixty-six at 16 gg, etc.\n\nBut this is a necessary evil; it must be done, because otherwise the people out of obstinacy will give nothing at all. It causes a considerable shortfall for the year, but it awakens great confidence and draws after it the further benefit that, upon complete peace or upon quiet among the people in the country, they will come streaming to the Prince in droves, whereby the lands still unoccupied, or now lying [uncertain: newest], which the people abandoned in the course of the unhappy war, can easily be disposed of again and settled with [uncertain: sound] people.\n\nAt Betschin considerable arrears stand out, namely the annual canon of 1000 Rthl and many transfer fees. Bornstädt has, as I have heard, been settled with out of the remainder of the purchase price still outstanding — I therefore have no reliable intelligence, but so far as I am aware all the arrears, as purchase price, annual hereditary quit-rent and transfer fees, must amount to more than 14000 Rthl. At this moment nothing at all is likely to be obtainable from the inhabitants. But as soon as complete quiet sets in, the delivery of the arrears must be pressed for, particularly once Kaemen shall first have been rescued. For purely on that account I did not wish to say anything there at present, because Leixner, with Meyer Bernhard of Betschen, on account of considerable loans of which I have no exact knowledge, were minded to draw their interest.",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Betschin",
+     "en": "Betschin",
+     "kind": "place"
+    },
+    {
+     "de": "Bornstædt",
+     "en": "Bornstädt",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Betschen",
+     "en": "Betschen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "3",
+    "16",
+    "1000",
+    "14000"
+   ]
   },
   {
    "page": 5,
-   "en": "Concerning Wyttow I have a lawsuit round my neck through the Schließen - she still has 6000 Rthl of purchase money to demand; at that time I did not wish to let her see the contract with Meierowitz, in order that Serene Highness should receive the 500 Rthl of ground-rent — I gave the lady a written undertaking that I would stand surety to her for the [uncertain: remainder] of the purchase price - In the course of the war Meierowitz has paid nothing, and now the woman has sued me. For the rest, Meierowitz owes the 6000 Rthl of purchase moneys to the Schließen, as also the annual interest for 5 years to the Prince at 2500 Rthl; the matter will be prosecuted at Kalisz, and a separate Tribunal advocate must be engaged for it. Meanwhile such stuff presses hard upon me; it makes much cost and diminishes my credit. Yet I shall bear these - the Grattenau affair, the Leiche Detessche and the Epstein affair - in patience for the sake of the worthy good Prince's Serene Highness, until God helps. It must one day be otherwise and also better. For the reassurance of the best of Princes I will note only this further here concerning the Trąbczyn affair: that the Dąbska, with the request to have the Trąbczyn estates entered in the mortgage book in her name, has been refused three times, and the last time in particular by the Tribunal President v. Kiełczewski with the words - that she could by no means be regarded as proprietress of the Trąbczyn estates, she possessed them against right, and until she had come to an arrangement with the Prince Hohenlohe and shown her capacity to possess, her Tit: post: could not be allowed her. This is surely the [uncertain: clearest] proof that the Trąbczyn estates must absolutely be rescued. The gain therein is not so insignificant as short-sighted people may perhaps believe. The revenues therefrom will in the sequel be over 16000 Rthl; the entry-moneys which have still to come in will be sufficient to pay off the debts charged upon them, and then the revenue is not to be despised. Moreover, when the Prince gets the estates back, it"
+   "en": "On account of Witów I have a lawsuit on my hands through [uncertain: the Schiffen woman] — she has still 6000 Rthl of purchase money to claim. At that time I did not wish to let her see the contract with Meierowitz, so that Your Serene Highness might obtain the 500 Rthl of hereditary quit-rent — I gave the lady a written undertaking that I would stand surety to her for the [uncertain: remainder] of the purchase price. In the course of the war Meierowitz has paid nothing, and now the woman has sued me. For the rest, Meierowitz owes the 6000 Rthl of purchase money to the Schließen woman, as also the annual interest for five years past to the Prince, amounting to 2500 Rthl. The matter will be prosecuted at Kalisz, and a separate Tribunal advocate must be engaged for it. Meanwhile such stuff presses very hard upon me; it causes much cost and diminishes my credit. Yet I shall bear this, and the Grattenau, Leiche Detessche and Epstein affairs, in patience for the sake of the worthy good Prince's Serene Highness until God helps. It must one day become otherwise and also better. For the reassurance of the best of Princes I will only observe this further here regarding the Trąbczyn matter: that the Dąbska woman, with her petition to have the Trąbczyn estates entered in the mortgage book in her own name, has been refused three times, and the last time in particular by the Tribunal President v. Kiełczewski with the words — that she could by no means be regarded as proprietress of the Trąbczyn estates, that she held them unlawfully, and that until she had come to terms with the Prince of Hohenlohe and proved her capacity to possess, her title could not be allowed her.\n\nThis surely is then the most telling proof that the Trąbczyn estates must absolutely be rescued. The gain therein is not so insignificant as short-sighted people perhaps believe. The revenues from it will in the sequel be over 16000 Rthl; the entry monies which have still to come in will be sufficient to discharge the debts encumbering it, and then the revenue is not to be despised. Moreover, when the Prince gets the estates back, it will",
+   "names": [
+    {
+     "de": "Wyttow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "der Schiffen",
+     "en": "Schiffen",
+     "kind": "person"
+    },
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "der Schließen",
+     "en": "Schließen",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Grattenausche",
+     "en": "Grattenau",
+     "kind": "person"
+    },
+    {
+     "de": "Leiche Detessche",
+     "en": "Leiche Detessche",
+     "kind": "person"
+    },
+    {
+     "de": "Epstensche",
+     "en": "Epstein",
+     "kind": "person"
+    },
+    {
+     "de": "Dąbska",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v. Kiełczewski",
+     "en": "Kiełczewski, v.",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6000",
+    "500",
+    "6000",
+    "5",
+    "2500",
+    "3",
+    "16000"
+   ]
   },
   {
    "page": 6,
-   "en": "will give a good complexion to his affairs and help restore his credit; the vindication of the lordship of Trąbczyn also has for its aim the recovery of the Kaemen estates, and thereby the Prince escapes a vexation which might yet draw upon him unspeakable annoyance and lawsuits for a series of years. As to my coming to Schlawenschitz, this will certainly follow as soon as I have handed over my estates; until now it was a pure impossibility. It was not want of money alone that held me back from it; it was the total loss of my estates, which I had to be at pains to set aside and to forestall all mischief. Now, through the friendly intercessions of His Excellency the worthy General v. Köckritz, I am so far advanced that the sequestration here must give way; to that end I have found 2 [uncertain: solid] tenants who will take over the estates at once; indeed I have settled everything, and, to win calm, to have a secure establishment, so as to be able to live free and not to have to want in future. As to the Collonmasche affair, this is only now [uncertain: an effort], a gnawing worm at the heart; I think on it day and night; it is once begun, and must now be brought honourably to an end. Gladly would I have flown from one pole to the other on that account, to discover the golden fleece, but the loss of my estates, the misery of my poor children, were an indescribable hindrance and a barrier which I was able to burst or remove by my own strength."
+   "en": "give his affairs a good complexion and help restore his credit; the vindication of the lordship of Trąbczyn also aims at the recovery of the Kaemen estates, whereby the Prince escapes a vexation that might yet have drawn upon him unspeakable annoyance and lawsuits for a series of years.\n\nAs concerns my coming to Schlawenschitz, this will certainly follow as soon as I have handed over my estates; until now it was a pure impossibility. Want of money was not all that held me back from it: it was the total loss of my estates, which I had to be at pains to clear out of the way and to forestall all mischief. Now, through the friendly intercessions of His Excellency the worthy General v. Köckritz, I am so far advanced that the sequestration here must give way. To that end I have found two [uncertain: sound] tenants who will take over the estates at once; indeed I have set everything aside, and in order to gain quiet, to have a secure income so as to be able to live freely, and not to have to suffer want in the future.\n\nAs concerns the Collonmasch affair, this is only now my endeavour, an ever-gnawing worm at my heart; I think of it day and night; it has once been begun and must now be honourably\n\nconcluded.\n\nGladly would I have flown on that account from one pole to the other to discover the golden fleece, but the loss of my estates, the misery of my poor children were an indescribable hindrance and a barrier which by my own strength I was [uncertain: unable] to burst or to remove.",
+   "names": [
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "v. Köckritz",
+     "en": "Köckritz, v.",
+     "kind": "person"
+    },
+    {
+     "de": "Collonmasche",
+     "en": "Collonmasch",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2"
+   ]
   },
   {
    "page": 7,
-   "en": "Now that God sends help from all sides, I shall soon be placed in a position to act again as a free man. My first business, or my first journey, will be to Schlawenschitz, in order then to pursue this affair. I foresee that here I shall have to fight again with a hundred-headed hydra, the more so as the Grand Chancellor B - appears to be prejudiced against it; but that shall not cripple my courage, rather the more inflame my zeal, so as to bring this business too to the desired [uncertain: end]. [uncertain: In this] the form counts for much in the matter, and if the Queen could obtain 100 times a hundred thousand, he would not consent to it if the form had been faulted. He also granted that Reibniz and the commissioners had proceeded somewhat too rashly in the matter, but that they had not violated the form; indeed that they had acted therein according to his will, because he was no friend of [uncertain: delay] - all the rest seemed to him mere gossip. These utterances alone prove how cautiously one will have to go, in order to shape the matter at once now in such a way that neither H. B: nor the devil will be able to object anything against it. The Queen wishes that the proofs be"
+   "en": "Now that God sends help from all sides, I shall soon be put in a position to act again as a free man. My first business, or my first road, will be to Schlawenschitz, in order then to pursue this matter. I foresee that here I shall have to struggle again with a hundred-headed hydra, all the more since the Grand Chancellor B — appears to be prejudiced against it; but that shall not paralyse my courage, rather it shall [uncertain: rouse] my zeal to bring this affair too to the desired [uncertain: end].\n\nAt the same time, he says, in such a matter it is the form that signifies, and if the Queen could obtain a hundred times a hundred thousand, he would not vote for it if the form had been wanting.\n\nHe also granted that Reibniz and the commissioners had proceeded somewhat very hastily in the matter, but that they had not violated the form; indeed that they had acted therein according to his will, because he was no friend of [uncertain: delay]. Everything else appears to him mere gossip. These utterances alone prove how cautiously one will have to go in order to shape the matter at once now in such a way that neither Herr B: nor the devil will be able to object anything against it. The Queen wishes that here the proof",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "B -",
+     "en": "B —",
+     "kind": "person"
+    },
+    {
+     "de": "Reibniz",
+     "en": "Reibniz",
+     "kind": "person"
+    },
+    {
+     "de": "H. B:",
+     "en": "B:",
+     "kind": "person"
+    },
+    {
+     "de": "die Königin",
+     "en": "the Queen",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "1"
+   ]
   },
   {
    "page": 8,
-   "en": "found here, and that the matter might then soon be so conducted that one could act without the participation of H. B. As to the sale of the South Prussian estates to the sub-prefect v Brzechsta, I have so ordered the matter that Honrichs [uncertain: promises] nothing away and nothing that binds. Brzechsta is now powerful; he can harm and he can help, and therefore I keep him in good faith; but since he himself said to Honrichs that affairs in Poland will soon be otherwise and that the Prince might have the estates back sooner than the Tribunal's judgment would be there, whereupon he too might no longer be standing in the place - I therefore let it be merely held in suspense; for since I know Brzechsta's circumstances from those earlier times, his fortune is not sufficient to buy the estates once they are together again. Unless he had gained so much in the course of the war, or unless one wished to [uncertain: squander] the estates from Your Serene Highness's side. In my opinion the purchase of these estates requires a man who can come forward at once with at least 3 to 400000 Rthl, and Brzechsta has not so much. To send anyone further to Poland now is not needed, for everything is now ordered. Your Serene Highness cannot, according to my feeling, go there in person; the good Prince would not be much respected there at present, nor is there any lodging in which one might be accommodated. As soon as Trąbczyn is won, I shall myself go there at once v Triebenfeld"
+   "en": "be found out, and that the matter might then soon be so directed that one could act without the concurrence of Herr B. As regards the sale of the South Prussian estates to the sub-prefect v. Brzechsta, I have so arranged the matter that Honrichs concedes nothing and says nothing binding. Brzechsta is now powerful; he can harm and he can help, and therefore I keep him in good faith. But since he himself said to Honrichs that matters in Poland would soon become otherwise, and that the Prince might have the estates back sooner than the Tribunal's judgment would be there, in which case he too might no longer be standing in the place — I therefore let the thing merely be strung along; for since I know Brzechsta's circumstances from those earlier times, his means do not suffice to buy the estates once they are brought together again. Unless it be that he had gained so much in the course of the war, or that one wished to squander the estates from [uncertain: Your] Serene Highness's side. In my opinion the purchase of these estates requires a man who can come forward at once with at least 3 to 400000 Rthl, and Brzechsta has not so much. To send anyone further to Poland at present is not needful, for everything is now arranged. Your Serene Highness cannot, according to my feeling, go there yourself: the good Prince would not be much respected there at present, and there is besides no dwelling in which to be lodged. As soon as Trąbczyn is won, I go there myself at once.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "H. B.",
+     "en": "B.",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreistischen",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "v Brzechsta",
+     "en": "Brzechsta, v.",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechsta",
+     "en": "Brzechsta",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "400000"
+   ]
   }
  ],
- "text_english": "P. M. ad 1. the 1000 Rthl were duly delivered to me by the Master of the Horse Herr Bally against my receipt and that of Honrichs; of these 600 Rthl were sent in cash within the hour without fail, and out of the remainder various costs were satisfied, in the matter in which I had execution against me. ad 2. I express my most deeply moved thanks for the two hundred and fifty-five rt. in coin sent to my children, which I shall gratefully return or bring to account. Should the 245 Rthl which had been assigned to me for the redemption of the iron, but which are here charged again, still be received, I would most humbly bring this too into account with the iron delivery. ad 3. Honrichs, Hawich and Cabanis have been here. Honrichs's affair has been cleared up and he was not found to be a villain, whereas Hawich has been unmasked as the worst of fellows. Hecker will now be rewarded according to his dealings, his paper security returned to him, and he will be discharged. Cabanis remains, in my unassailable opinion, ever true to his generally known honesty, cash controller as soon as God helps and Your Serene Highness has all your estates back in possession. Hawich will be entirely dismissed, and Count Kwilecki has already thrown him out of the court-room himself as a slanderer and Nabulistic pettifogger and forbidden him all access; as to what concerns ad 4., the situation of the Zagorowo and Trąbczyn estates, the sequestration at Zagorowo must now absolutely be lifted; to that end I have had a register given me by Honrichs and Cabanis of what can be collected in cash at once. The sum stated by the Jew Mendel Oppenheimer would amount to 102000 Rthl (which, however, is again more than 20000 Rthl), and in which matter the suit is pending in Berlin. Meanwhile the interest thereon would come to about 5100 Rthl a year; these would have to be deposited at once with the protestation that the suit concerning the Jew Oppenheimer's claim and his false cession is pending in Berlin, so that the interest might not be handed over to him. The statement of Honrichs and Cabanis gives 13610 Rthl, the annual interest 5100; after these 8510 would remain. This matter now lies before the Justice of the Peace Count Kwilecki; I have ordered payment of the 5100 Rthl [Anweisung] and insist upon the immediate lifting of the sequestration, or of what is now called the administration, the more so as of late the general lifting of sequestration has been conceded, provided only that the running interest is settled.\n\nOn the 28th of this month the hearing in the matter is set down; I hope for the best outcome, and note most obediently that the arrears, in so far as such come in little by little, will cover everything. For the rest, however, it will be necessary to cultivate the two judges, both at Konin and at Kalisz, as much as possible and to keep them in their good disposition, for which purpose I must come very close upon my own means. Stenger I have had to let go. He was too costly for me; before he would set a pen to paper he wanted 2000 Rthl in advance; I have now wholly abandoned him and engaged a certain Raszkowski who promises to work all of it for 300 Rthl - with the exceedingly good disposition of the Justice of the Peace and of the Tribunal Presidents von Kwilecki and Kiełczewski there is now simply no need of so damnably costly an advocate, who besides the advance of 2000 Rthl also wished to be bathed in Hungarian wine and champagne. The Dąbska has swung herself into possession of the estates without any decrees or judgments whatever, by the help of two wretched fellows, a certain Scholrech and Lipelli. The two aforenamed judges Kur[illegible] and [illegible]geti have [illegible] caused a summons to sue and promise the very promptest satisfaction - I am almost convinced of the most desirable outcome, as of my own [outcome] - I have seized with favour the opportunity offered to me by God in these men, in order not only to save my princely friend's property speedily amid these never before anticipated happy events, but if possible to increase it. Indeed, with the vindication of the Trąbczyn estates I join at once the Kaemen ones (which would have caused the worthy Prince much grief), as also thereafter the rescue of the Brzyz estates, which must in the end be regarded as an equivalent for the damage inflicted upon the Prince by the Dąbska, because otherwise there would be no [uncertain: fund] available to obtain an indemnification from the notorious lady. This is indeed the advice of Count Kwilecki, who has it said to me that as soon as the decree or judgment concerning\n\nTrąbczyn is there, I too should press so firmly for compensation for damages and should not be bashful in setting the costs - I think some 60000 Rthl will be neither too little nor yet so very much. So much on the subject, or on the vindication of the Trąbczyn and Kaemen estates. Concerning the lamentations of Grotowski, Lichnowski, Zerboni and Eysenhardt, who have [uncertain: moneys] upon Trąbczyn and Szetlewek [text lost], there is nothing to be said at present - the vindication of the estates also removes the worry for the future. I believe that if the Prince gets the estates back, 15000 Rthl are at once to be had from the tenant Smid, for he will not willingly go out and leave in the lurch the rent he has paid in advance to the Dąbska; with the aforesaid 15000 Rthl of rent one pays the four men their interest and they will gladly be quiet - Enough: everything depends upon the swiftest vindication of these estates; if this follows as desired and as it is now set in train, then the greatest worry is removed and the credit restored at the same time. For the rest, that tableau which I gave His Serene Highness three years ago remains always the basis of what the estates are, once Trąbczyn is regained, and what they will be in the end. The war will cause a shortfall, but meanwhile much interest that has not been raised has accrued, and this in the end covers the shortfall, so that the sum will always remain the same. The dismemberment stands as it is set out in that tableau - especially once Trąbczyn shall first have been rescued again, it must not suffer the least alteration. For neither Honrichs, Hawich, Hecker, nor the Karzunki had any right to appropriate to themselves a single Morgen of land, and not a single one shall remain in possession with my consent; rather, the lands must be given back and, according to the plan I once made and which was itself approved by the former Chamber for heavy money, be made known through colonists and those be established thereon. I grant that at present there is no influx of colonists, but let calm and peace return entirely, and then there will be people enough\n\n- Meanwhile the one thing that will have to be done is that for this year one remit to all the colonists a third part of their interest, with the notice that His Serene Highness, upon the manifold pressing petitions or [uncertain: counsel] of the colonists, the inhabitants of the lordship of Zagorowo, out of especial grace bestows upon them for this year one third of the interest payable by them and remits it with the intimation that they in return should settle very promptly the remaining two thirds of the interest, as: instead of one rtum, sixteen good Groschen, or instead of a hundred round - thirty-three, sixty-six at the 16 gg, etc. But this is a necessary evil; it must be done, because otherwise the people out of obstinacy will give nothing at all. It causes a considerable shortfall for the year, but it awakens a great confidence and gives rise to, or draws after it, the profit that upon complete peace, or [uncertain: the calming] of the people in the land, [they] would come streaming to the Prince in droves, whereby the still unoccupied lands, or those now lying newest, which the people abandoned in the course of the unhappy war, can easily be alienated again and settled with [uncertain: Lohden] persons. At Betschin considerable arrears stand out, namely the annual canon of 1000 Rthl and many Laudemien. Bornstædt has, as I have heard, been settled with out of the remainder of the purchase price still outstanding - I have therefore no reliable information, but so far as I recall, all the arrears together, as purchase price, annual ground-rent and laudemia, must amount to over 14000 Rthl. At this moment nothing at all will be obtainable from the inhabitants. But as soon as complete calm sets in, the discharge of the arrears must be pressed for, especially once Kaemen shall have been rescued. For purely on that account I have been unwilling to say anything there at present, because Leixner with Meyer Bernhard of Betschen were minded to draw their interest on account of considerable loans, which I do not know exactly.\n\nConcerning Wyttow I have a lawsuit round my neck through the Schließen - she still has 6000 Rthl of purchase money to demand; at that time I did not wish to let her see the contract with Meierowitz, in order that Serene Highness should receive the 500 Rthl of ground-rent — I gave the lady a written undertaking that I would stand surety to her for the [uncertain: remainder] of the purchase price - In the course of the war Meierowitz has paid nothing, and now the woman has sued me. For the rest, Meierowitz owes the 6000 Rthl of purchase moneys to the Schließen, as also the annual interest for 5 years to the Prince at 2500 Rthl; the matter will be prosecuted at Kalisz, and a separate Tribunal advocate must be engaged for it. Meanwhile such stuff presses hard upon me; it makes much cost and diminishes my credit. Yet I shall bear these - the Grattenau affair, the Leiche Detessche and the Epstein affair - in patience for the sake of the worthy good Prince's Serene Highness, until God helps. It must one day be otherwise and also better. For the reassurance of the best of Princes I will note only this further here concerning the Trąbczyn affair: that the Dąbska, with the request to have the Trąbczyn estates entered in the mortgage book in her name, has been refused three times, and the last time in particular by the Tribunal President v. Kiełczewski with the words - that she could by no means be regarded as proprietress of the Trąbczyn estates, she possessed them against right, and until she had come to an arrangement with the Prince Hohenlohe and shown her capacity to possess, her Tit: post: could not be allowed her. This is surely the [uncertain: clearest] proof that the Trąbczyn estates must absolutely be rescued. The gain therein is not so insignificant as short-sighted people may perhaps believe. The revenues therefrom will in the sequel be over 16000 Rthl; the entry-moneys which have still to come in will be sufficient to pay off the debts charged upon them, and then the revenue is not to be despised. Moreover, when the Prince gets the estates back, it\n\nwill give a good complexion to his affairs and help restore his credit; the vindication of the lordship of Trąbczyn also has for its aim the recovery of the Kaemen estates, and thereby the Prince escapes a vexation which might yet draw upon him unspeakable annoyance and lawsuits for a series of years. As to my coming to Schlawenschitz, this will certainly follow as soon as I have handed over my estates; until now it was a pure impossibility. It was not want of money alone that held me back from it; it was the total loss of my estates, which I had to be at pains to set aside and to forestall all mischief. Now, through the friendly intercessions of His Excellency the worthy General v. Köckritz, I am so far advanced that the sequestration here must give way; to that end I have found 2 [uncertain: solid] tenants who will take over the estates at once; indeed I have settled everything, and, to win calm, to have a secure establishment, so as to be able to live free and not to have to want in future. As to the Collonmasche affair, this is only now [uncertain: an effort], a gnawing worm at the heart; I think on it day and night; it is once begun, and must now be brought honourably to an end. Gladly would I have flown from one pole to the other on that account, to discover the golden fleece, but the loss of my estates, the misery of my poor children, were an indescribable hindrance and a barrier which I was able to burst or remove by my own strength.\n\nNow that God sends help from all sides, I shall soon be placed in a position to act again as a free man. My first business, or my first journey, will be to Schlawenschitz, in order then to pursue this affair. I foresee that here I shall have to fight again with a hundred-headed hydra, the more so as the Grand Chancellor B - appears to be prejudiced against it; but that shall not cripple my courage, rather the more inflame my zeal, so as to bring this business too to the desired [uncertain: end]. [uncertain: In this] the form counts for much in the matter, and if the Queen could obtain 100 times a hundred thousand, he would not consent to it if the form had been faulted. He also granted that Reibniz and the commissioners had proceeded somewhat too rashly in the matter, but that they had not violated the form; indeed that they had acted therein according to his will, because he was no friend of [uncertain: delay] - all the rest seemed to him mere gossip. These utterances alone prove how cautiously one will have to go, in order to shape the matter at once now in such a way that neither H. B: nor the devil will be able to object anything against it. The Queen wishes that the proofs be\n\nfound here, and that the matter might then soon be so conducted that one could act without the participation of H. B. As to the sale of the South Prussian estates to the sub-prefect v Brzechsta, I have so ordered the matter that Honrichs [uncertain: promises] nothing away and nothing that binds. Brzechsta is now powerful; he can harm and he can help, and therefore I keep him in good faith; but since he himself said to Honrichs that affairs in Poland will soon be otherwise and that the Prince might have the estates back sooner than the Tribunal's judgment would be there, whereupon he too might no longer be standing in the place - I therefore let it be merely held in suspense; for since I know Brzechsta's circumstances from those earlier times, his fortune is not sufficient to buy the estates once they are together again. Unless he had gained so much in the course of the war, or unless one wished to [uncertain: squander] the estates from Your Serene Highness's side. In my opinion the purchase of these estates requires a man who can come forward at once with at least 3 to 400000 Rthl, and Brzechsta has not so much. To send anyone further to Poland now is not needed, for everything is now ordered. Your Serene Highness cannot, according to my feeling, go there in person; the good Prince would not be much respected there at present, nor is there any lodging in which one might be accommodated. As soon as Trąbczyn is won, I shall myself go there at once v Triebenfeld",
+ "text_english": "P. M.\n\nad 1. The 1000 Rthl from the Master of the Horse Bally were duly delivered into my hands against my own and Honrichs's receipt, of which 600 Rthl were sent in cash within the hour [uncertain: for the shortfalls], and with the remainder various costs were satisfied, in which matter I had execution against me.\n\nad 2. I say the most deeply moved thanks for the two hundred and fifty-five rt. in coin sent to my children, which I shall gratefully return or account for. Should the 245 Rthl which had been assigned to me for the redemption of the iron, but which are here charged again, still be received, I would most humbly bring this too into the account upon the delivery of the iron.\n\nad 3. Thus Honrichs, Hawich and Cabanis have been here. Honrichs's affair has been cleared up and he was not found to be a scoundrel, whereas Hawich has been unmasked as the worst of fellows. Hecker will now be rewarded according to his dealings, his paper security returned to him, and he will be dismissed. Cabanis remains, in my unpresumptuous opinion, constant in his generally known honesty, and will be treasury controller as soon as God helps and Your Serene Highness has all the estates in possession again. Hawich will be entirely discharged, and Count Kwilecki has already thrown him out of the court chamber himself as a slanderer and a shyster pettifogging scribbler, and has forbidden him all access; as to what\n\nad 4. concerns the situation of the Zagorowo and Trąbczyn estates, the sequestration must now absolutely be lifted at Zagorowo. To that end I have had a schedule drawn up by Honrichs and Cabanis of what can at once be collected in cash. The sum stated by the Jew Mendel Oppenheimer would amount to 102000 Rthl (but which is more than 20000 Rthl again), in which matter the suit is pending in Berlin.\n\nMeanwhile the interest thereon would come to about 5100 Rthl a year; these would have to be deposited at once together with the protestation that the suit concerning the Jew Oppenheimer's claim and his false cession is pending in Berlin, so that the interest may not be handed over to him. The statement of Honrichs and Cabanis says 13610 Rthl, the annual interest\n\n5100\n\nAfter these, 8510 would remain. This matter now lies before the Justice of the Peace Count Kwilecki; I have given the instruction for the 5100 Rthl and insist upon the immediate lifting of the sequestration, or what is now called the administration, all the more since of late the general lifting of sequestration has been conceded, provided only that the current interest is settled.\n\nOn the 28th of this month the hearing in the matter is set down; I hope for the best outcome, and observe most obediently that the arrears, were such to come in little by little, would cover everything.\n\nFor the rest, however, it will be necessary to cultivate both judges, in Konin as well as in Kalisz, so far as is possible, and to keep them in their good disposition, on which account I must encroach very closely upon my own means. Stenger I have had to let go. He was too costly for me: before he would set pen to paper he wanted 2000 Rthl in advance. I have now entirely abandoned him and taken on a certain Raszkowski, who promises to work all of it up for 300 Rthl. Given the exceedingly good disposition of the Justice of the Peace and of the Tribunal Presidents von Kwilecki and Kietszewski, there is at present simply no need of such a damnably costly advocate, who besides the advance of 2000 Rthl also wished to be bathed in Hungarian wine and champagne. The Dąbska woman has, without any decrees or judgments whatever, swung herself into possession of the estates by the help of two wretched fellows, a certain Scholrech and Lipelli. The two aforementioned judges Kur[illegible] and [illegible]geti have [illegible] had her called upon to plead, and promise the very promptest satisfaction. I am almost convinced of the most desirable outcome, as of my own [text illegible in sense]. I have gratefully seized the opportunity offered by God through these men, in order not only speedily to rescue my princely friend's property amid these never before anticipated fortunate events, but if possible to increase it. Indeed, with the vindication of the Trąbczyn estates I join at once that of the Kaemen estates (which would have caused the worthy Prince much grief), as also thereafter the rescue of the Brzyzna estates, which must in the end be regarded as an equivalent for the damage inflicted upon the Prince by the Dąbska woman, since otherwise there would be no [uncertain: fund] at hand from which to obtain indemnification from that notorious lady.\n\nThis is likewise the advice of Count Kwilecki, who has it said to me that as soon as the decree or judgment concerning\n\nTrąbczyn is there, I should likewise press firmly for compensation of damages and not be bashful in setting the costs. I think some 60000 Rthl will be neither too little nor too much. So much on the subject, that is, on the vindication of the Trąbczyn and Kaemen estates. Concerning the lamentations of Grotowski, Lichnowski, Zerboni and Eysenhardt, who have [text lost] [uncertain: money] upon Trąbczyn and Szetlewek, there is nothing to be said at present. The vindication of the estates also removes the worry for the future. I believe that if the Prince gets the estates back, then 15000 Rthl are straightway to be had from the tenant Smid, for he will not willingly go out, and will not wish to abandon the rent he has paid in advance to the Dąbska woman; with the aforesaid 15000 Rthl of rent one pays the four men their interest, and they will gladly keep quiet. Enough: everything depends on the speediest vindication of these estates; if this follows as wished and as it is now set in train, then the greatest worry is lifted and the credit restored at the same time.\n\nFor the rest, that tableau given by me to His Serene Highness three years ago remains always the basis of what the estates are, once Trąbczyn is won back, and what they will be in the end. The war will cause a shortfall, but in the meantime much interest that has not been raised has accrued in addition, and this in the end covers the shortfall, so that the sum total will always remain the same.\n\nThe dismemberment remains as it is set out in that tableau; particularly once Trąbczyn shall first have been rescued again, it must not suffer the least alteration. For as little as Honrichs, Hawich, Hecker, or the Karzunki had any right to appropriate a Morgen of land to themselves, so also not a single one shall remain in possession with my consent; rather the lands must be given back and, according to the plan I once made and which was approved even by the former Chamber for heavy money, made known through colonists and settled for that purpose. I grant that at present there is no influx of colonists, but let quiet and peace return entirely and there will be people enough\n\n— Meanwhile the one thing will have to be done, namely that for this year one remit to all the colonists a third part of their interest, with the notice that Your Serene Highness, upon the many pressing petitions, or [uncertain: on the advice] of the colonists and the inhabitants of the lordship of Zagorowo, has out of particular grace made them a gift for this year of one third of the interest payable by them, and remitted it with the intimation that in return they should very promptly settle the remaining two thirds of the interest at sixteen good Groschen instead of one thaler, or instead of a hundred round — thirty-three, sixty-six at 16 gg, etc.\n\nBut this is a necessary evil; it must be done, because otherwise the people out of obstinacy will give nothing at all. It causes a considerable shortfall for the year, but it awakens great confidence and draws after it the further benefit that, upon complete peace or upon quiet among the people in the country, they will come streaming to the Prince in droves, whereby the lands still unoccupied, or now lying [uncertain: newest], which the people abandoned in the course of the unhappy war, can easily be disposed of again and settled with [uncertain: sound] people.\n\nAt Betschin considerable arrears stand out, namely the annual canon of 1000 Rthl and many transfer fees. Bornstädt has, as I have heard, been settled with out of the remainder of the purchase price still outstanding — I therefore have no reliable intelligence, but so far as I am aware all the arrears, as purchase price, annual hereditary quit-rent and transfer fees, must amount to more than 14000 Rthl. At this moment nothing at all is likely to be obtainable from the inhabitants. But as soon as complete quiet sets in, the delivery of the arrears must be pressed for, particularly once Kaemen shall first have been rescued. For purely on that account I did not wish to say anything there at present, because Leixner, with Meyer Bernhard of Betschen, on account of considerable loans of which I have no exact knowledge, were minded to draw their interest.\n\nOn account of Witów I have a lawsuit on my hands through [uncertain: the Schiffen woman] — she has still 6000 Rthl of purchase money to claim. At that time I did not wish to let her see the contract with Meierowitz, so that Your Serene Highness might obtain the 500 Rthl of hereditary quit-rent — I gave the lady a written undertaking that I would stand surety to her for the [uncertain: remainder] of the purchase price. In the course of the war Meierowitz has paid nothing, and now the woman has sued me. For the rest, Meierowitz owes the 6000 Rthl of purchase money to the Schließen woman, as also the annual interest for five years past to the Prince, amounting to 2500 Rthl. The matter will be prosecuted at Kalisz, and a separate Tribunal advocate must be engaged for it. Meanwhile such stuff presses very hard upon me; it causes much cost and diminishes my credit. Yet I shall bear this, and the Grattenau, Leiche Detessche and Epstein affairs, in patience for the sake of the worthy good Prince's Serene Highness until God helps. It must one day become otherwise and also better. For the reassurance of the best of Princes I will only observe this further here regarding the Trąbczyn matter: that the Dąbska woman, with her petition to have the Trąbczyn estates entered in the mortgage book in her own name, has been refused three times, and the last time in particular by the Tribunal President v. Kiełczewski with the words — that she could by no means be regarded as proprietress of the Trąbczyn estates, that she held them unlawfully, and that until she had come to terms with the Prince of Hohenlohe and proved her capacity to possess, her title could not be allowed her.\n\nThis surely is then the most telling proof that the Trąbczyn estates must absolutely be rescued. The gain therein is not so insignificant as short-sighted people perhaps believe. The revenues from it will in the sequel be over 16000 Rthl; the entry monies which have still to come in will be sufficient to discharge the debts encumbering it, and then the revenue is not to be despised. Moreover, when the Prince gets the estates back, it will\n\ngive his affairs a good complexion and help restore his credit; the vindication of the lordship of Trąbczyn also aims at the recovery of the Kaemen estates, whereby the Prince escapes a vexation that might yet have drawn upon him unspeakable annoyance and lawsuits for a series of years.\n\nAs concerns my coming to Schlawenschitz, this will certainly follow as soon as I have handed over my estates; until now it was a pure impossibility. Want of money was not all that held me back from it: it was the total loss of my estates, which I had to be at pains to clear out of the way and to forestall all mischief. Now, through the friendly intercessions of His Excellency the worthy General v. Köckritz, I am so far advanced that the sequestration here must give way. To that end I have found two [uncertain: sound] tenants who will take over the estates at once; indeed I have set everything aside, and in order to gain quiet, to have a secure income so as to be able to live freely, and not to have to suffer want in the future.\n\nAs concerns the Collonmasch affair, this is only now my endeavour, an ever-gnawing worm at my heart; I think of it day and night; it has once been begun and must now be honourably\n\nconcluded.\n\nGladly would I have flown on that account from one pole to the other to discover the golden fleece, but the loss of my estates, the misery of my poor children were an indescribable hindrance and a barrier which by my own strength I was [uncertain: unable] to burst or to remove.\n\nNow that God sends help from all sides, I shall soon be put in a position to act again as a free man. My first business, or my first road, will be to Schlawenschitz, in order then to pursue this matter. I foresee that here I shall have to struggle again with a hundred-headed hydra, all the more since the Grand Chancellor B — appears to be prejudiced against it; but that shall not paralyse my courage, rather it shall [uncertain: rouse] my zeal to bring this affair too to the desired [uncertain: end].\n\nAt the same time, he says, in such a matter it is the form that signifies, and if the Queen could obtain a hundred times a hundred thousand, he would not vote for it if the form had been wanting.\n\nHe also granted that Reibniz and the commissioners had proceeded somewhat very hastily in the matter, but that they had not violated the form; indeed that they had acted therein according to his will, because he was no friend of [uncertain: delay]. Everything else appears to him mere gossip. These utterances alone prove how cautiously one will have to go in order to shape the matter at once now in such a way that neither Herr B: nor the devil will be able to object anything against it. The Queen wishes that here the proof\n\nbe found out, and that the matter might then soon be so directed that one could act without the concurrence of Herr B. As regards the sale of the South Prussian estates to the sub-prefect v. Brzechsta, I have so arranged the matter that Honrichs concedes nothing and says nothing binding. Brzechsta is now powerful; he can harm and he can help, and therefore I keep him in good faith. But since he himself said to Honrichs that matters in Poland would soon become otherwise, and that the Prince might have the estates back sooner than the Tribunal's judgment would be there, in which case he too might no longer be standing in the place — I therefore let the thing merely be strung along; for since I know Brzechsta's circumstances from those earlier times, his means do not suffice to buy the estates once they are brought together again. Unless it be that he had gained so much in the course of the war, or that one wished to squander the estates from [uncertain: Your] Serene Highness's side. In my opinion the purchase of these estates requires a man who can come forward at once with at least 3 to 400000 Rthl, and Brzechsta has not so much. To send anyone further to Poland at present is not needful, for everything is now arranged. Your Serene Highness cannot, according to my feeling, go there yourself: the good Prince would not be much respected there at present, and there is besides no dwelling in which to be lodged. As soon as Trąbczyn is won, I go there myself at once.\n\nv Triebenfeld",
  "summary_en": "Point-by-point report: receipt of 1000 Rthl through Master of the Horse Bally, 255 rt sent for his children, and 245 Rthl for redeeming iron. Honrichs cleared, Hawich unmasked and expelled by Count Kwilecki, Hecker discharged, Cabanis defended. Presses for lifting the Zagorowo sequestration by depositing 5100 Rthl interest against Mendel Oppenheimer's disputed 102000 Rthl claim; Stenger dismissed for Raszkowski at 300 Rthl; vindication of Trąbczyn and Kaemen from the Dąbska, with 60000 Rthl damages, remission of a third of colonists' interest, Betschin and Wyttow arrears, the Collonmasche affair, and Brzechsta's inability to buy the South Prussian estates.",
  "summary_de": "Ausführlicher Punktbericht: Empfang von 1000 Rthl durch Stallmeister Bally sowie 255 rt für Triebenfelds Kinder; Untersuchung gegen Honrichs (entlastet), Hawich (von Graf Kwilecki als Verleumder verstoßen), Hecker und Cabanis. Zur Aufhebung der Sequestration in Zagorowo Deponierung von 5100 Rthl Zinsen wegen des Berliner Prozesses um Mendel Oppenheimers Forderung von 102000 Rthl; Termin am 28. Vindication von Trąbczyn und Kaemen gegen die Dąbska, Schadensersatz von 60000 Rthl erwogen, Stenger durch Raszkowski (300 Rthl) ersetzt; Erlass eines Zinsdrittels für die Kolonisten, Rückstände in Betschin über 14000 Rthl, Prozess der Schließen wegen Wyttow, Collonmasche Sache, Reise nach Schlawenschitz, Verkauf an v. Brzechsta hingehalten."
 }

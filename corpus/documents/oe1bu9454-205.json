@@ -168,24 +168,382 @@
    "doc_line": 67
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Köchlich",
+   "kind": "person",
+   "surface_de": "Köchlich",
+   "surface_en": "Köchlich",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "knobelsdorff",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorff",
+   "surface_en": "Knobelsdorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fischbach",
+   "kind": "person",
+   "surface_de": "Fischbach",
+   "surface_en": "Fischbach",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bischdorff",
+   "kind": "place",
+   "surface_de": "Bischdorffer",
+   "surface_en": "Bischdorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koschentin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koschentin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Korn",
+   "kind": "person",
+   "surface_de": "Korn",
+   "surface_en": "Korn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nochrich",
+   "kind": "person",
+   "surface_de": "Nochrich",
+   "surface_en": "Nochrich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Galicia",
+   "kind": "place",
+   "surface_de": "Galliziren",
+   "surface_en": "Galicia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "West Prussia",
+   "kind": "place",
+   "surface_de": "Westpreußen",
+   "surface_en": "West Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Turkey",
+   "kind": "place",
+   "surface_de": "Türkey",
+   "surface_en": "Turkey",
+   "page": 2
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Labage",
+   "kind": "person",
+   "surface_de": "Labage",
+   "surface_en": "Labage",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! This morning at 5 o'clock Köchlich departed; I accompanied him as far as into his carriage, and the King intended to follow an hour thereafter — Köckritz again commends himself to Your Serene Highness's favour. As concerns the exchange transaction, I pursue it with head and heart — I hope it shall succeed — Knobelsdorff wrote some days ago to Fischbach – He said he had a commission from the General Landschaft Director, and that discharging this commission would last until the 10th; from the 11th onward he would be at command to set out for Zagorowo any day. Meanwhile I wrote to him myself yesterday by the express which Lombardini sent off, and asked him when he meant to travel and where we wished to meet. I await his reply, in order to operate further accordingly. Weigel is again very well disposed – He says: should Stössel too be glad to have the Bischdorff estates, then I am content with it, provided I be entered [in the register] there; gladly will I then give the Prince a receipt and have everything struck off from Koschentin. We are thick friends; he visits me often with his children at the swimming, for the Korn — that is his daughter — attaches herself very much to my two daughters. In short, on that side I hope for every possible good, the more so as it is now settled that all monies outstanding in Poland must be paid and may be drawn out of the country. The widows' funds, the Bank, Seelandlung, wards' deposit offices and all private men are receiving their monies; the Poles are all at one stroke beggars, and it now stands close to this, that they will not [text lost] and all go over to the [uncertain: Küssen]. [uncertain: Nochrich] now fears everything and holds the war between France"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThis morning at 5 o'clock Köchlich departed; I accompanied him as far as his carriage; the King meant to follow an hour thereafter — Köckritz commends himself once more to Your Serene Highness's favour. As concerns the exchange transaction, I am pursuing it with head and heart — I hope it shall succeed — Knobelsdorff wrote some days ago to Fischbach – He said he had a commission from the General Director of the Landschaft, that the holding of this commission would last until the 10th; from the 11th onward he would stand at command to set out for Zagorowo any day. In the meantime I wrote yesterday to him myself by express, which Lombardini has dispatched, and asked him when he intended to travel and where we should meet. I await his answer, in order to proceed further accordingly. Weigel is again very well disposed – He says: if Stössel too would gladly have the Bischdorff estates, then I am content with it, provided I am entered [in the register] there; gladly will I then give the Prince a receipt and have everything struck out upon Koschentin. We are thick friends; he visits me often with his children at the swimming, for the Korn, that is his daughter, attaches herself very much to my two daughters. In short, on that side I hope for every possible kindness, the more so as it is now settled that all monies outstanding in Poland must be paid and may be drawn out of the country.\n\nThe widows' funds, [uncertain: bank], the sea-trading house, the wards' deposit offices and all private persons receive their monies; the Poles are all at once beggars, and it now stands close to this, that they cannot manage and all go over to the [uncertain: Küssen]. [uncertain: Nochrich] now fears everything and holds the war between France",
+   "names": [
+    {
+     "de": "Köchlich",
+     "en": "Köchlich",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Knobelsdorff",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Fischbach",
+     "en": "Fischbach",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Bischdorffer",
+     "en": "Bischdorff",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koschentin",
+     "kind": "place"
+    },
+    {
+     "de": "Korn",
+     "en": "Korn",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Nochrich",
+     "en": "Nochrich",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "5",
+    "10",
+    "11"
+   ]
   },
   {
    "page": 2,
-   "en": "and Russia to be unavoidable; likewise he believes that the Poles will make the [uncertain: tournure]; and if that happens, then Galicia and West Prussia will join in as well, and the Poles will throw themselves outright into Russia's arms, in order to save themselves, – for whence should the poor inhabitants of the little province of Warsaw, which after all makes up only the 10th part of the former Kingdom of Poland, take 27 millions? A fire smoulders here beneath the ashes, which could bring forth a fearful explosion. – Meanwhile a ray of hope dawns here, which of itself builds up prospects for Your Most Serene Highness, prospects which I look toward with a high-beating heart. Private [reports] from Vienna assure that the peace between Russia and Turkey is at this very moment already concluded – God grant that this be confirmed, for then a couple of gloomy clouds which still darken the brightness of our star of fortune would be [uncertain: dispelled], and we should see already a brighter dawn. Since — as God gives it, we pilgrims of earth take it from His hand — the upright man suffers only a short time, then the matter goes better. This very moment the honest Lombardini was with me; he will send to set in, and now I can write more freely — For the present still this: Labage has been sent to Paris, and is to offer linen and iron for the contributions to be paid – half and half this manner of payment has been accepted – should it succeed, then iron would be a new article of value – I learn of it first and will tell Your Serene Highness faithfully what profit is to be drawn from it. The Swedish war offers glad prospects, for the iron will be sold at ever higher prices. Now, heartily, and to you, noblest of men and of all princely children, alone a man practised — to you, upright Prince, dreadful pits — believe and trust nothing of whatever anyone may tell you. – Your goodness of heart is dreadfully abused by your enemies, and even those who so often enjoy your highest confidence are pure sham friends – therefore let them look to themselves – I beg you, better"
+   "en": "and Russia to be unavoidable; likewise he believes that the Poles will make the turn-about; and if that happens, then at Galicia West Prussia too will join in, and the Poles will throw themselves directly into Russia's arms, in order to save themselves – for from where should the poor inhabitants of the little province of Warsaw, which after all makes up only the tenth part of the former Kingdom of Poland, take 27 millions. There smoulders here a fire beneath the [uncertain: Hegel], which could bring forth a frightful explosion. – Meanwhile a ray of hope dawns here which of itself builds up prospects for Your Most Serene Highness, prospects which I await with a high-beating heart. Private [reports] from Vienna assure us that the peace between Russia and Turkey is at this moment already concluded – God grant that this be confirmed, for then a couple of gloomy clouds, which now still darken the brightness of our star of fortune, would be [uncertain: dispelled] and we should already see a brighter dawn. Since – as God gives it, we who wander the earth take it from His hand – the upright man suffers but a short time, and then the matter goes better. This very moment the honest Lombardini was with me; he will send to put in, so now I can write more freely — For the present this further matter: Labage has been sent to Paris and is to offer linen and iron for the contributions to be paid – half and half, this mode of payment has been accepted – should it succeed, iron would be a commodity of new value – I learn of it first and shall tell Your Serene Highness faithfully what profit is to be drawn from it; the Swedish war offers glad prospects, for the iron will be sold at ever higher prices.\n\nNow, from the heart, and to you, noblest of men and, alone among all princes' children, a man practised — to you, upright Prince, frightful [uncertain: Grüben] — believe and trust nothing of whatever anyone may tell you. – Your goodness of heart is frightfully abused by your enemies, and even those who so often enjoy your highest confidence are pure sham-friends – so let them look to themselves – I beg you better",
+   "names": [
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Galliziren",
+     "en": "Galicia",
+     "kind": "place"
+    },
+    {
+     "de": "Westpreußen",
+     "en": "West Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Türkey",
+     "en": "Turkey",
+     "kind": "place"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Labage",
+     "en": "Labage",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "27",
+    "10"
+   ]
   },
   {
    "page": 3,
-   "en": "Prince, most heartily for it — For me it is worse than poison, dagger and hell to have to tell you, noblest of men, what is going forward and what lurks in ambush. I have therefore taken a course by which you will learn everything; arrange all things accordingly, and show yourself a great man with the dignity that has always been your own. Count upon it that within a short time events will occur in which you will play the most brilliant part and will see your enemies humbled. I am a poor earthly miller, you know something of my unhappy fate, but perhaps I do more for your profit than all the great ones of the earth — With boundless veneration I remain, until death, Your Most Serene Highness's Breslau, the 11th of September 1810. faithful, humble and obedient servant v Triebenfeld"
+   "en": "Prince, most heartily for it — For me it is more than poison, dagger and hell itself, to tell you, noblest of men, what is going on and what lurks in ambush. I have therefore struck out upon a course by which you will learn everything; order all things accordingly, and show yourself a great man with the dignity that has always been your own. Count upon it that within a short time events will occur in which you will play the most brilliant part and will see your enemies humbled. I am a poor miller of the earth, you know something of my unhappy fate, but perhaps I do more for your advantage than all the great ones of the earth — With boundless veneration I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 11th of Sept.\n\n1810.\n\nfaithful humble and obedient servant\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "11",
+    "1810"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! This morning at 5 o'clock Köchlich departed; I accompanied him as far as into his carriage, and the King intended to follow an hour thereafter — Köckritz again commends himself to Your Serene Highness's favour. As concerns the exchange transaction, I pursue it with head and heart — I hope it shall succeed — Knobelsdorff wrote some days ago to Fischbach – He said he had a commission from the General Landschaft Director, and that discharging this commission would last until the 10th; from the 11th onward he would be at command to set out for Zagorowo any day. Meanwhile I wrote to him myself yesterday by the express which Lombardini sent off, and asked him when he meant to travel and where we wished to meet. I await his reply, in order to operate further accordingly. Weigel is again very well disposed – He says: should Stössel too be glad to have the Bischdorff estates, then I am content with it, provided I be entered [in the register] there; gladly will I then give the Prince a receipt and have everything struck off from Koschentin. We are thick friends; he visits me often with his children at the swimming, for the Korn — that is his daughter — attaches herself very much to my two daughters. In short, on that side I hope for every possible good, the more so as it is now settled that all monies outstanding in Poland must be paid and may be drawn out of the country. The widows' funds, the Bank, Seelandlung, wards' deposit offices and all private men are receiving their monies; the Poles are all at one stroke beggars, and it now stands close to this, that they will not [text lost] and all go over to the [uncertain: Küssen]. [uncertain: Nochrich] now fears everything and holds the war between France\n\nand Russia to be unavoidable; likewise he believes that the Poles will make the [uncertain: tournure]; and if that happens, then Galicia and West Prussia will join in as well, and the Poles will throw themselves outright into Russia's arms, in order to save themselves, – for whence should the poor inhabitants of the little province of Warsaw, which after all makes up only the 10th part of the former Kingdom of Poland, take 27 millions? A fire smoulders here beneath the ashes, which could bring forth a fearful explosion. – Meanwhile a ray of hope dawns here, which of itself builds up prospects for Your Most Serene Highness, prospects which I look toward with a high-beating heart. Private [reports] from Vienna assure that the peace between Russia and Turkey is at this very moment already concluded – God grant that this be confirmed, for then a couple of gloomy clouds which still darken the brightness of our star of fortune would be [uncertain: dispelled], and we should see already a brighter dawn. Since — as God gives it, we pilgrims of earth take it from His hand — the upright man suffers only a short time, then the matter goes better. This very moment the honest Lombardini was with me; he will send to set in, and now I can write more freely — For the present still this: Labage has been sent to Paris, and is to offer linen and iron for the contributions to be paid – half and half this manner of payment has been accepted – should it succeed, then iron would be a new article of value – I learn of it first and will tell Your Serene Highness faithfully what profit is to be drawn from it. The Swedish war offers glad prospects, for the iron will be sold at ever higher prices. Now, heartily, and to you, noblest of men and of all princely children, alone a man practised — to you, upright Prince, dreadful pits — believe and trust nothing of whatever anyone may tell you. – Your goodness of heart is dreadfully abused by your enemies, and even those who so often enjoy your highest confidence are pure sham friends – therefore let them look to themselves – I beg you, better\n\nPrince, most heartily for it — For me it is worse than poison, dagger and hell to have to tell you, noblest of men, what is going forward and what lurks in ambush. I have therefore taken a course by which you will learn everything; arrange all things accordingly, and show yourself a great man with the dignity that has always been your own. Count upon it that within a short time events will occur in which you will play the most brilliant part and will see your enemies humbled. I am a poor earthly miller, you know something of my unhappy fate, but perhaps I do more for your profit than all the great ones of the earth — With boundless veneration I remain, until death, Your Most Serene Highness's Breslau, the 11th of September 1810. faithful, humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThis morning at 5 o'clock Köchlich departed; I accompanied him as far as his carriage; the King meant to follow an hour thereafter — Köckritz commends himself once more to Your Serene Highness's favour. As concerns the exchange transaction, I am pursuing it with head and heart — I hope it shall succeed — Knobelsdorff wrote some days ago to Fischbach – He said he had a commission from the General Director of the Landschaft, that the holding of this commission would last until the 10th; from the 11th onward he would stand at command to set out for Zagorowo any day. In the meantime I wrote yesterday to him myself by express, which Lombardini has dispatched, and asked him when he intended to travel and where we should meet. I await his answer, in order to proceed further accordingly. Weigel is again very well disposed – He says: if Stössel too would gladly have the Bischdorff estates, then I am content with it, provided I am entered [in the register] there; gladly will I then give the Prince a receipt and have everything struck out upon Koschentin. We are thick friends; he visits me often with his children at the swimming, for the Korn, that is his daughter, attaches herself very much to my two daughters. In short, on that side I hope for every possible kindness, the more so as it is now settled that all monies outstanding in Poland must be paid and may be drawn out of the country.\n\nThe widows' funds, [uncertain: bank], the sea-trading house, the wards' deposit offices and all private persons receive their monies; the Poles are all at once beggars, and it now stands close to this, that they cannot manage and all go over to the [uncertain: Küssen]. [uncertain: Nochrich] now fears everything and holds the war between France\n\nand Russia to be unavoidable; likewise he believes that the Poles will make the turn-about; and if that happens, then at Galicia West Prussia too will join in, and the Poles will throw themselves directly into Russia's arms, in order to save themselves – for from where should the poor inhabitants of the little province of Warsaw, which after all makes up only the tenth part of the former Kingdom of Poland, take 27 millions. There smoulders here a fire beneath the [uncertain: Hegel], which could bring forth a frightful explosion. – Meanwhile a ray of hope dawns here which of itself builds up prospects for Your Most Serene Highness, prospects which I await with a high-beating heart. Private [reports] from Vienna assure us that the peace between Russia and Turkey is at this moment already concluded – God grant that this be confirmed, for then a couple of gloomy clouds, which now still darken the brightness of our star of fortune, would be [uncertain: dispelled] and we should already see a brighter dawn. Since – as God gives it, we who wander the earth take it from His hand – the upright man suffers but a short time, and then the matter goes better. This very moment the honest Lombardini was with me; he will send to put in, so now I can write more freely — For the present this further matter: Labage has been sent to Paris and is to offer linen and iron for the contributions to be paid – half and half, this mode of payment has been accepted – should it succeed, iron would be a commodity of new value – I learn of it first and shall tell Your Serene Highness faithfully what profit is to be drawn from it; the Swedish war offers glad prospects, for the iron will be sold at ever higher prices.\n\nNow, from the heart, and to you, noblest of men and, alone among all princes' children, a man practised — to you, upright Prince, frightful [uncertain: Grüben] — believe and trust nothing of whatever anyone may tell you. – Your goodness of heart is frightfully abused by your enemies, and even those who so often enjoy your highest confidence are pure sham-friends – so let them look to themselves – I beg you better\n\nPrince, most heartily for it — For me it is more than poison, dagger and hell itself, to tell you, noblest of men, what is going on and what lurks in ambush. I have therefore struck out upon a course by which you will learn everything; order all things accordingly, and show yourself a great man with the dignity that has always been your own. Count upon it that within a short time events will occur in which you will play the most brilliant part and will see your enemies humbled. I am a poor miller of the earth, you know something of my unhappy fate, but perhaps I do more for your advantage than all the great ones of the earth — With boundless veneration I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 11th of Sept.\n\n1810.\n\nfaithful humble and obedient servant\nv. Triebenfeld",
  "summary_en": "Reports Köchlich's departure at five, the King to follow an hour later, and Köckritz's compliments; pursues the exchange transaction, and relays that Knobelsdorff, engaged for the General Landschaft Director until the 10th, can travel to Zagorowo thereafter. Weigel would accept Stössel's taking the Bischdorff estates if registered there, giving a receipt and clearing Koschentin. Notes forced repayment of monies in Poland, expected war between France and Russia, rumoured Russo-Turkish peace, Labage's mission to Paris offering linen and iron for contributions, and warns the Prince against false friends.",
  "summary_de": "Bericht über die Abreise Köchlichs und des Königs, Grüße von Köckritz; das Tauschgeschäft werde eifrig verfolgt. Knobelsdorff habe an Fischbach geschrieben und sei ab dem 11. zur Reise nach Zagorowo bereit; Triebenfeld erwartet dessen Antwort. Weigel zeige sich willig, die Bischdorffer Güter Stössel zu überlassen, wenn er dort eingetragen werde, und wolle dann quittieren und alles von Koschentin abschreiben lassen. Klagen über die Zahlungsnot der Polen (27 Millionen), drohenden Krieg Frankreichs mit Rußland, angeblichen Frieden Rußlands mit der Türkei; Labage soll in Paris Leinwand und Eisen für Contributionen anbieten. Warnung vor Scheinfreunden des Fürsten."
 }

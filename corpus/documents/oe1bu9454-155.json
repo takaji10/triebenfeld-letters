@@ -77,20 +77,150 @@
   }
  ],
  "mentions": [],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hohmuth",
+   "kind": "person",
+   "surface_de": "Hohmuth",
+   "surface_en": "Hohmuth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlaberndorff",
+   "kind": "person",
+   "surface_de": "Schlaberndorffischen",
+   "surface_en": "Schlaberndorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berliner",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kreczinski",
+   "kind": "person",
+   "surface_de": "Kreczinski",
+   "surface_en": "Kreczinski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kaliſch",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A: Hahn",
+   "kind": "person",
+   "surface_de": "A: Hahn",
+   "surface_en": "A: Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nurlich",
+   "kind": "person",
+   "surface_de": "Nurlich",
+   "surface_en": "Nurlich",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! To Your Right Honourable I report, by command of His Serene Highness the Prince: that I have today been in person with the Chancellor Herr Hohmuth in the matter of the Schlaberndorff payment, and spoke with him concerning a longer term of grace. The result of this conversation was not very comforting. He told me that the Countess could be held back from renewing the suit only by a speedy payment, and one made before the next Berlin post-day, since she has been not a little provoked by the delay hitherto. Should this be done soon, with 25000 Thl., then he would prevail upon the Countess so that she would, with the"
+   "en": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I report, by command of His Serene Highness the Prince: that I was today in person with the Chancellor Hohmuth concerning the Schlaberndorff payment, and spoke with him about a longer term. The result of this conversation was not very consoling. He told me that the Countess could be held back from taking up the suit again only by a speedy payment, made before the next Berlin post-day, since she has been not a little provoked by the delay hitherto. Should this be done soon, with 25000\n\nThl., then he would prevail upon the Countess to wait some further time for the",
+   "names": [
+    {
+     "de": "Hohmuth",
+     "en": "Hohmuth",
+     "kind": "person"
+    },
+    {
+     "de": "Schlaberndorffischen",
+     "en": "Schlaberndorff",
+     "kind": "person"
+    },
+    {
+     "de": "Berliner",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "25000"
+   ]
   },
   {
    "page": 2,
-   "en": "remaining half of 25000 Rthl wait yet some time longer — of a bond for the latter payment he would hear absolutely nothing, and he did not venture to make any proposal to that effect, inasmuch as he will have it that he is quite certain the Countess would never enter into such a thing. Your Right Honourable will see from these utterances the pressure of circumstances, and it is therefore very well that you should be informed of them. Nurlich departed early today with the wild boar for the Government Councillor von Kreczinski, by way of Kalisch to Trąbczyn. I commend myself humbly to your continued favour, and have the honour to be, with the most perfect veneration, Your Right Honourable's Breslau, the 16th of January 1805. humble and obedient servant A: Hahn"
+   "en": "remaining half of 25000 Rthl – of a bond for the latter payment he would hear absolutely nothing, nor did he venture to make any proposal to that end, inasmuch as he professes to be positively convinced that the Countess would never enter into such a thing. Your Right Honourable will see from these utterances the pressure of circumstances, and it therefore remains very good that you should be informed of them. Nurlich departed early today with the wild boar for the government councillor von Kreczinski, by way of Kalisz to Trąbczyn. I commend myself humbly to your further favour, and have the honour to be, with the most perfect veneration,\n\nYour Right Honourable's\n\nBreslau, the 16th of January\n\n1805.\n\nhumble and obedient servant\n\nA: Hahn",
+   "names": [
+    {
+     "de": "Kreczinski",
+     "en": "Kreczinski",
+     "kind": "person"
+    },
+    {
+     "de": "Kaliſch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "A: Hahn",
+     "en": "A: Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Nurlich",
+     "en": "Nurlich",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "25000",
+    "16ten",
+    "1805"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests! To Your Right Honourable I report, by command of His Serene Highness the Prince: that I have today been in person with the Chancellor Herr Hohmuth in the matter of the Schlaberndorff payment, and spoke with him concerning a longer term of grace. The result of this conversation was not very comforting. He told me that the Countess could be held back from renewing the suit only by a speedy payment, and one made before the next Berlin post-day, since she has been not a little provoked by the delay hitherto. Should this be done soon, with 25000 Thl., then he would prevail upon the Countess so that she would, with the\n\nremaining half of 25000 Rthl wait yet some time longer — of a bond for the latter payment he would hear absolutely nothing, and he did not venture to make any proposal to that effect, inasmuch as he will have it that he is quite certain the Countess would never enter into such a thing. Your Right Honourable will see from these utterances the pressure of circumstances, and it is therefore very well that you should be informed of them. Nurlich departed early today with the wild boar for the Government Councillor von Kreczinski, by way of Kalisch to Trąbczyn. I commend myself humbly to your continued favour, and have the honour to be, with the most perfect veneration, Your Right Honourable's Breslau, the 16th of January 1805. humble and obedient servant A: Hahn",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I report, by command of His Serene Highness the Prince: that I was today in person with the Chancellor Hohmuth concerning the Schlaberndorff payment, and spoke with him about a longer term. The result of this conversation was not very consoling. He told me that the Countess could be held back from taking up the suit again only by a speedy payment, made before the next Berlin post-day, since she has been not a little provoked by the delay hitherto. Should this be done soon, with 25000\n\nThl., then he would prevail upon the Countess to wait some further time for the\n\nremaining half of 25000 Rthl – of a bond for the latter payment he would hear absolutely nothing, nor did he venture to make any proposal to that end, inasmuch as he professes to be positively convinced that the Countess would never enter into such a thing. Your Right Honourable will see from these utterances the pressure of circumstances, and it therefore remains very good that you should be informed of them. Nurlich departed early today with the wild boar for the government councillor von Kreczinski, by way of Kalisz to Trąbczyn. I commend myself humbly to your further favour, and have the honour to be, with the most perfect veneration,\n\nYour Right Honourable's\n\nBreslau, the 16th of January\n\n1805.\n\nhumble and obedient servant\n\nA: Hahn",
  "summary_en": "Reports, on the Prince's command, a personal interview with Chancellor Herr Hohmuth about the Schlaberndorff payment: the Countess can be kept from reviving her suit only by payment of 25000 Thl. before the next Berlin post-day, after which Hohmuth would persuade her to wait for the remaining 25000 Rthl.; he would not hear of a bond for that second half. Notes that Nurlich left with the wild boar for Government Councillor von Kreczinski, via Kalisch to Trąbczyn.",
  "summary_de": "Bericht im Auftrag des Fürsten über eine persönliche Unterredung mit Justizrath Hohmuth wegen der Schlaberndorffschen Zahlung: die Gräfin lasse sich von einer Erneuerung des Prozesses nur durch schleunige Zahlung von 25000 Thl. noch vor dem nächsten Berliner Posttag abhalten; für die zweite Hälfte von 25000 Rthl. wolle Hohmuth dann Aufschub erwirken, von einer Obligation hierfür jedoch nichts hören. Ferner: Nurlich sei früh mit dem Wildschwein für Regierungsrath von Kreczinski über Kalisch nach Trąbczyn abgereist."
 }

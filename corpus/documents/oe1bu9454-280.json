@@ -277,24 +277,463 @@
    "doc_line": 67
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Burisch",
+   "kind": "person",
+   "surface_de": "Burischen",
+   "surface_en": "Burisch",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "eberhardt",
+   "display": "Eberhardt",
+   "kind": "person",
+   "surface_de": "Eberhardt",
+   "surface_en": "Eberhardt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hennenberg",
+   "kind": "person",
+   "surface_de": "Hennenberg",
+   "surface_en": "Hennenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolphs",
+   "surface_en": "Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poustales",
+   "kind": "person",
+   "surface_de": "Poustales",
+   "surface_en": "Poustales",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "K. Adolph",
+   "kind": "person",
+   "surface_de": "K Adolph",
+   "surface_en": "K. Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Voschentin",
+   "kind": "place",
+   "surface_de": "Voschentin",
+   "surface_en": "Voschentin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Majorain",
+   "kind": "other",
+   "surface_de": "Majorain",
+   "surface_en": "Majorain",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zerbone",
+   "kind": "person",
+   "surface_de": "Zerbone",
+   "surface_en": "Zerbone",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "other",
+   "surface_de": "Kayser",
+   "surface_en": "Emperor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Næpolian",
+   "surface_en": "Napoleon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frandreichs",
+   "surface_en": "France",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Bonaparte",
+   "surface_en": "Bonaparte",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wellington",
+   "kind": "person",
+   "surface_de": "Wellington",
+   "surface_en": "Wellington",
+   "page": 2
+  },
+  {
+   "entity": "talleyrand",
+   "display": "Talleyrand",
+   "kind": "person",
+   "surface_de": "Talleyrand",
+   "surface_en": "Talleyrand",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor Alexander",
+   "kind": "person",
+   "surface_de": "H. K. Allex",
+   "surface_en": "Emperor Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rhine",
+   "kind": "place",
+   "surface_de": "Rhein",
+   "surface_en": "Rhine",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Rome",
+   "kind": "other",
+   "surface_de": "König von Rom",
+   "surface_en": "King of Rome",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Monsieur",
+   "kind": "person",
+   "surface_de": "Monneur",
+   "surface_en": "Monsieur",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Melun",
+   "kind": "place",
+   "surface_de": "Melun",
+   "surface_en": "Melun",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish estates",
+   "kind": "other",
+   "surface_de": "Pohl Güter",
+   "surface_en": "Polish estates",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Württemberg",
+   "kind": "other",
+   "surface_de": "König vom Würtemberg",
+   "surface_en": "King of Württemberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Congress",
+   "kind": "other",
+   "surface_de": "Congress",
+   "surface_en": "Congress",
+   "page": 3
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! This very hour I received Your Serene Highness's two esteemed letters of the 10th and 13th. With the most heartfelt affliction I gather from them that nothing will come of Mr. Eberhard's coming here [uncertain: from the provenance of]. Most sorrowful is the case that no genuine settlement has been brought about with the Burisch heiresses, and it is to be feared that Cosmar and Stägemann will simply invoke and lean upon this circumstance alone, and will now let the matter drag along the long road. Had Eberhard come here, he would have obtained the sure declaration of the Princesses, even if at 50 or 100 ℔ dearer, and one would certainly have obtained the approbation of the Royal and State Chancellor for the advance of the moneys, and nothing further would have happened than that the administration would have lasted some years longer; a newer writ [uncertain: Schreibschuß] that the King absolutely would not concern himself with the matter one would have procured here narrowly, and then Eberhard would certainly have had an easy and [illegible] game — for from Eberhardt's letter, according to which Hennenberg has forbidden all settlement, and from the words of Mr. p. Stägemann, I now indeed surmise that everything is founded upon the King having promised the heiresses [uncertain: Eur.] to settle the matter after his return — to bring that about would meanwhile, with the present warlike prospects, be an easy thing. It requires only Eberhard's presence, all the more so as the Electoral Princesses [uncertain: Kur: Prinzissionen] are in need of money — that in the testament of the old Prince such a Robulistic, knavish bolt has been shoved across on account of Adolph's coming of age hinders much — I thought as much at once — what can he do, even if he be called lord of the entailed estate, when he may dispose of nothing? — It would be the only thing, that he too might complain of Cosmar's administration and be helpful toward the complete overpowering of the fellow. That Prince August has not yet revoked the power of attorney is more than dreadful. If, however, he does not do so, then he shall taste nothing of his 18000 Rthl out of the entailed estates in the first 20 years — the 100000 Rthl he will unhappily indeed have to see — for Mr. Cosmar has rapiers indeed — meanwhile these now stand tolerably well. Only God knows how long. B., who most reverently commends himself, now looks daily for Poustales's arrival — With K. Adolph nothing is to be done regarding Voschentin —"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nThis very hour I received Your Serene Highness's two honoured letters of the 10th and the 13th. With the most heartfelt distress I gather from them that nothing will come of Mr. Eberhard's coming here. It is a very sad case that no real settlement with the Burisch heiresses has been brought about, and it is to be feared that Cosmar and Stägemann will rely and prop themselves solely upon this circumstance alone, and will now let the matter drag along the long road. Had Eberhard come here, he would have obtained the sure declaration of the Princesses, and even if at 50 or 100 ℔ dearer, one would certainly have obtained the approbation of the Royal and State Chancellor for the advance of the monies, and nothing further would have happened than that the administration would have lasted some years longer; a fresh [uncertain: writ of remittance] that the King absolutely did not wish to concern himself with the matter, one would have procured here [uncertain: narrowly], and then Eberhard would certainly have had an easy and [illegible] game of it - for from Eberhardt's letter, according to which Hennenberg has forbidden any settlement - and from the talk of Mr. p. Stägemann I now surmise well enough that everything is founded upon the King's having promised the heiresses to settle the matter by the time of his return - to get hold of that would meanwhile, given the present warlike prospects, be an easy thing. It requires only Eberhard's presence, the more so as the Electoral Princesses are in need of money - that in the old Prince's testament such a Robulistic, knavish bolt has been shot across on account of Adolph's coming of age - impedes much - I thought as much at once - what can he do even if he is called Majorain and may dispose of nothing – The one thing would be that he too might complain of Cosmar's administration and be of help toward the complete overpowering of the fellow; that Prince August has not yet revoked the power of attorney is more than dreadful. If, however, he does not do so, then he shall taste nothing of his 18000 Rthl out of the entailed estates in the first 20 years - the 100000 Rthl he will unhappily have to see. Rapiers indeed has Mr. Cosmar - meanwhile these now stand tolerably well. Only God knows for how long. B., who commends himself most respectfully, now looks daily for Poustales' arrival - With K. Adolph nothing is to be done in the matter of Voschentin -",
+   "names": [
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "Burischen",
+     "en": "Burisch",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Eberhardt",
+     "en": "Eberhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Hennenberg",
+     "en": "Hennenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Adolphs",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Poustales",
+     "en": "Poustales",
+     "kind": "person"
+    },
+    {
+     "de": "K Adolph",
+     "en": "K. Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Voschentin",
+     "en": "Voschentin",
+     "kind": "place"
+    },
+    {
+     "de": "Majorain",
+     "en": "Majorain",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "10",
+    "13",
+    "50",
+    "100",
+    "18000",
+    "20",
+    "100000"
+   ]
   },
   {
    "page": 2,
-   "en": "I do not in the least count upon it now — at present nothing can be done but to run down Cosmar by the direct road, and, as I hope, the means for that will let themselves be found. In the matter of the Polish estates the Prince Chancellor has answered me the same thing that Your Serene Highness lately wrote to Zerbone — and I am not to write to Kayser. The great ones take one another up, pay one another compliments, in order to sell off the men of business, God and the world. Napoleon is now rousing the all-powerful once more out of their slumber — it is only to be feared that he will bring them out of their coherence. With rapid strides the [uncertain: the respected one] hastens toward Paris — and although strong corps of ours and of others stand on France's frontiers, no one will stir before, over all the complimenting to and fro, Bonaparte shall be in Paris — O tempora, o mores! Wellington set off today for the army — and in a few days, it is said, Prince Talleyrand would also depart. Between Talleyrand and Mr. Emperor Alexander there was a violent conversation in the hotel of Prince Wellington — Prince Talleyrand told the Emperor straight out that he was to blame for everything, and that the blood which would now flow again would all come upon his head, and that he alone must one day answer to God for it. On all sides there is marching, and how could it look more warlike than now — Meanwhile people wager that there will be no general war. The little King of Rome they wanted to steal away from here; relays have been laid as far as the Rhine, in every place 8 horses have stood in readiness — Today it is even said here that Monsieur has been taken prisoner by Bonaparte; officially there is nothing about it, and consequently the thing is not believed either. The King went out to meet Bonaparte from Paris as far as Melun, but this too is doubted."
+   "en": "upon that I do not in the least reckon now – at present nothing can be done except to overrun Cosmar by the direct road, and, as I hope, the means for that will be found.\n\nIn the matter of the Polish estates the Prince Chancellor has answered me the same thing that Your Serene Highness lately wrote to Zerbone - and I am not to write to the Emperor; the great ones take it upon themselves, pay one another compliments in order to sell off the men of business, God and the world. Napoleon is now rousing the all-powerful out of their slumber again - it is only to be feared that he will throw them out of their coherence. With swift steps the esteemed one hastens toward Paris - and although strong corps of ours and of others stand on France's borders, no one will stir before, with all this complimenting to and fro, Bonaparte shall be in Paris - O tempora, o mores.\n\nWellington set off today for the army – and in a few days, it is said, Talleyrand too would depart. Between Talleyrand and the Emperor Alexander there was a violent conversation in Wellington's hotel - Talleyrand told the Emperor straight out that he was to blame for everything, and that the blood which would now flow again would all come upon his head, and that he alone must one day answer for it before God.\n\nOn all sides they are marching, and never did it look more warlike than now - Meanwhile people wager that there will be no general war.\n\nThey have tried to steal the little King of Rome away from here. Relays have been laid as far as the Rhine; in all places 8 horses have stood in readiness — Today it is even said here that Monsieur has been taken prisoner by Bonaparte; there is nothing official about it, and consequently the thing is not believed either. The King went out to meet Bonaparte from Paris as far as Melun, but this too is doubted.",
+   "names": [
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Zerbone",
+     "en": "Zerbone",
+     "kind": "person"
+    },
+    {
+     "de": "Kayser",
+     "en": "Emperor",
+     "kind": "other"
+    },
+    {
+     "de": "Næpolian",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Frandreichs",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Bonaparte",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Wellington",
+     "en": "Wellington",
+     "kind": "person"
+    },
+    {
+     "de": "Talleyrand",
+     "en": "Talleyrand",
+     "kind": "person"
+    },
+    {
+     "de": "H. K. Allex",
+     "en": "Emperor Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Rhein",
+     "en": "Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "König von Rom",
+     "en": "King of Rome",
+     "kind": "other"
+    },
+    {
+     "de": "Monneur",
+     "en": "Monsieur",
+     "kind": "person"
+    },
+    {
+     "de": "Melun",
+     "en": "Melun",
+     "kind": "place"
+    },
+    {
+     "de": "Pohl Güter",
+     "en": "Polish estates",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "8"
+   ]
   },
   {
    "page": 3,
-   "en": "Matters stand strangely. To the King of Würtemberg everything has been forbidden, and the Congress has protested against his dispositions concerning the Estates. The post is about to go — I remain, until death, Your Serene Highness's. If it be possible, let Your Serene Highness send Eberhard in haste. Vienna, the 21st of March 1815. Faithful and most obedient servant v. Triebenfeld"
+   "en": "Matters stand strangely. To the King of Württemberg everything has been forbidden, and the Congress has protested against his dispositions against the Estates. The post is about to go - I remain, until death,\n\nYour Serene Highness's. If it be possible, let Your Serene Highness send Eberhard in haste. Vienna, the 21st of March 1815. Faithful and most obedient servant v. Triebenfeld",
+   "names": [
+    {
+     "de": "König vom Würtemberg",
+     "en": "King of Württemberg",
+     "kind": "other"
+    },
+    {
+     "de": "Congress",
+     "en": "Congress",
+     "kind": "other"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "21",
+    "1815"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! This very hour I received Your Serene Highness's two esteemed letters of the 10th and 13th. With the most heartfelt affliction I gather from them that nothing will come of Mr. Eberhard's coming here [uncertain: from the provenance of]. Most sorrowful is the case that no genuine settlement has been brought about with the Burisch heiresses, and it is to be feared that Cosmar and Stägemann will simply invoke and lean upon this circumstance alone, and will now let the matter drag along the long road. Had Eberhard come here, he would have obtained the sure declaration of the Princesses, even if at 50 or 100 ℔ dearer, and one would certainly have obtained the approbation of the Royal and State Chancellor for the advance of the moneys, and nothing further would have happened than that the administration would have lasted some years longer; a newer writ [uncertain: Schreibschuß] that the King absolutely would not concern himself with the matter one would have procured here narrowly, and then Eberhard would certainly have had an easy and [illegible] game — for from Eberhardt's letter, according to which Hennenberg has forbidden all settlement, and from the words of Mr. p. Stägemann, I now indeed surmise that everything is founded upon the King having promised the heiresses [uncertain: Eur.] to settle the matter after his return — to bring that about would meanwhile, with the present warlike prospects, be an easy thing. It requires only Eberhard's presence, all the more so as the Electoral Princesses [uncertain: Kur: Prinzissionen] are in need of money — that in the testament of the old Prince such a Robulistic, knavish bolt has been shoved across on account of Adolph's coming of age hinders much — I thought as much at once — what can he do, even if he be called lord of the entailed estate, when he may dispose of nothing? — It would be the only thing, that he too might complain of Cosmar's administration and be helpful toward the complete overpowering of the fellow. That Prince August has not yet revoked the power of attorney is more than dreadful. If, however, he does not do so, then he shall taste nothing of his 18000 Rthl out of the entailed estates in the first 20 years — the 100000 Rthl he will unhappily indeed have to see — for Mr. Cosmar has rapiers indeed — meanwhile these now stand tolerably well. Only God knows how long. B., who most reverently commends himself, now looks daily for Poustales's arrival — With K. Adolph nothing is to be done regarding Voschentin —\n\nI do not in the least count upon it now — at present nothing can be done but to run down Cosmar by the direct road, and, as I hope, the means for that will let themselves be found. In the matter of the Polish estates the Prince Chancellor has answered me the same thing that Your Serene Highness lately wrote to Zerbone — and I am not to write to Kayser. The great ones take one another up, pay one another compliments, in order to sell off the men of business, God and the world. Napoleon is now rousing the all-powerful once more out of their slumber — it is only to be feared that he will bring them out of their coherence. With rapid strides the [uncertain: the respected one] hastens toward Paris — and although strong corps of ours and of others stand on France's frontiers, no one will stir before, over all the complimenting to and fro, Bonaparte shall be in Paris — O tempora, o mores! Wellington set off today for the army — and in a few days, it is said, Prince Talleyrand would also depart. Between Talleyrand and Mr. Emperor Alexander there was a violent conversation in the hotel of Prince Wellington — Prince Talleyrand told the Emperor straight out that he was to blame for everything, and that the blood which would now flow again would all come upon his head, and that he alone must one day answer to God for it. On all sides there is marching, and how could it look more warlike than now — Meanwhile people wager that there will be no general war. The little King of Rome they wanted to steal away from here; relays have been laid as far as the Rhine, in every place 8 horses have stood in readiness — Today it is even said here that Monsieur has been taken prisoner by Bonaparte; officially there is nothing about it, and consequently the thing is not believed either. The King went out to meet Bonaparte from Paris as far as Melun, but this too is doubted.\n\nMatters stand strangely. To the King of Würtemberg everything has been forbidden, and the Congress has protested against his dispositions concerning the Estates. The post is about to go — I remain, until death, Your Serene Highness's. If it be possible, let Your Serene Highness send Eberhard in haste. Vienna, the 21st of March 1815. Faithful and most obedient servant v. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nThis very hour I received Your Serene Highness's two honoured letters of the 10th and the 13th. With the most heartfelt distress I gather from them that nothing will come of Mr. Eberhard's coming here. It is a very sad case that no real settlement with the Burisch heiresses has been brought about, and it is to be feared that Cosmar and Stägemann will rely and prop themselves solely upon this circumstance alone, and will now let the matter drag along the long road. Had Eberhard come here, he would have obtained the sure declaration of the Princesses, and even if at 50 or 100 ℔ dearer, one would certainly have obtained the approbation of the Royal and State Chancellor for the advance of the monies, and nothing further would have happened than that the administration would have lasted some years longer; a fresh [uncertain: writ of remittance] that the King absolutely did not wish to concern himself with the matter, one would have procured here [uncertain: narrowly], and then Eberhard would certainly have had an easy and [illegible] game of it - for from Eberhardt's letter, according to which Hennenberg has forbidden any settlement - and from the talk of Mr. p. Stägemann I now surmise well enough that everything is founded upon the King's having promised the heiresses to settle the matter by the time of his return - to get hold of that would meanwhile, given the present warlike prospects, be an easy thing. It requires only Eberhard's presence, the more so as the Electoral Princesses are in need of money - that in the old Prince's testament such a Robulistic, knavish bolt has been shot across on account of Adolph's coming of age - impedes much - I thought as much at once - what can he do even if he is called Majorain and may dispose of nothing – The one thing would be that he too might complain of Cosmar's administration and be of help toward the complete overpowering of the fellow; that Prince August has not yet revoked the power of attorney is more than dreadful. If, however, he does not do so, then he shall taste nothing of his 18000 Rthl out of the entailed estates in the first 20 years - the 100000 Rthl he will unhappily have to see. Rapiers indeed has Mr. Cosmar - meanwhile these now stand tolerably well. Only God knows for how long. B., who commends himself most respectfully, now looks daily for Poustales' arrival - With K. Adolph nothing is to be done in the matter of Voschentin -\n\nupon that I do not in the least reckon now – at present nothing can be done except to overrun Cosmar by the direct road, and, as I hope, the means for that will be found.\n\nIn the matter of the Polish estates the Prince Chancellor has answered me the same thing that Your Serene Highness lately wrote to Zerbone - and I am not to write to the Emperor; the great ones take it upon themselves, pay one another compliments in order to sell off the men of business, God and the world. Napoleon is now rousing the all-powerful out of their slumber again - it is only to be feared that he will throw them out of their coherence. With swift steps the esteemed one hastens toward Paris - and although strong corps of ours and of others stand on France's borders, no one will stir before, with all this complimenting to and fro, Bonaparte shall be in Paris - O tempora, o mores.\n\nWellington set off today for the army – and in a few days, it is said, Talleyrand too would depart. Between Talleyrand and the Emperor Alexander there was a violent conversation in Wellington's hotel - Talleyrand told the Emperor straight out that he was to blame for everything, and that the blood which would now flow again would all come upon his head, and that he alone must one day answer for it before God.\n\nOn all sides they are marching, and never did it look more warlike than now - Meanwhile people wager that there will be no general war.\n\nThey have tried to steal the little King of Rome away from here. Relays have been laid as far as the Rhine; in all places 8 horses have stood in readiness — Today it is even said here that Monsieur has been taken prisoner by Bonaparte; there is nothing official about it, and consequently the thing is not believed either. The King went out to meet Bonaparte from Paris as far as Melun, but this too is doubted.\n\nMatters stand strangely. To the King of Württemberg everything has been forbidden, and the Congress has protested against his dispositions against the Estates. The post is about to go - I remain, until death,\n\nYour Serene Highness's. If it be possible, let Your Serene Highness send Eberhard in haste. Vienna, the 21st of March 1815. Faithful and most obedient servant v. Triebenfeld",
  "summary_en": "Regrets that Eberhard will not come to Vienna and that no settlement has been reached with the Burisch heiresses, fearing Cosmar and Stägemann will exploit this to delay; urges Eberhard's despatch to secure the Princesses' declaration and the State Chancellor's approval of an advance. Notes the entail clause on Adolph's majority, Prince August's unrevoked power of attorney, sums of 18000 and 100000 Rthl, the Prince Chancellor's unhelpful reply on the Polish estates, and Napoleon's advance on Paris, Wellington's departure and Talleyrand's clash with Emperor Alexander.",
  "summary_de": "Bedauern über das Ausbleiben Eberhards, dessen Anwesenheit zur Erklärung der Prinzessinnen und zur Genehmigung des Geldvorschusses durch den Staatskanzler nötig wäre; ohne Vergleich mit den Burisch-Erbinnen werden Cosmar und Stägemann die Sache verzögern. Klage über die im Testament wegen Adolphs Volljährigkeit eingeschobene Klausel und darüber, daß Prinz August die Vollmacht nicht widerrufen hat (18000 Rthl, 100000 Rthl). Zu den polnischen Gütern verweist der Fürst Staatskanzler ablehnend. Nachrichten vom Wiener Kongreß: Napoleons Marsch auf Paris, Wellingtons Abreise, Streit Talleyrands mit Kaiser Alexander, Verbote gegen den König von Württemberg."
 }

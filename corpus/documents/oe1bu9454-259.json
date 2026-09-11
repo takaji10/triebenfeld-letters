@@ -163,20 +163,281 @@
    "doc_line": 53
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenbergs",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieger",
+   "surface_en": "Brieg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brieg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brieg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmars",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Fahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neisse",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Neisse",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kagler",
+   "kind": "person",
+   "surface_de": "Kagler",
+   "surface_en": "Kagler",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "ß",
+   "kind": "person",
+   "surface_de": "ß",
+   "surface_en": "ß",
+   "page": 2
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "goeschel",
+   "display": "Göschel",
+   "kind": "person",
+   "surface_de": "Göschel",
+   "surface_en": "Göschel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "P[rince] Hard[enberg]",
+   "kind": "person",
+   "surface_de": "F. Hard:",
+   "surface_en": "P[rince] Hard[enberg]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohische",
+   "surface_en": "Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Now I can demonstrate to Your Most Serene Highness with the highest proofs that Your sufferings shall have an end. At every minute I await the resolution, good beyond all measure, of the elevated Burgher-Prince Hardenberg, to the effect that the Brieg O[uncertain: S]G is to investigate the whole matter with the utmost dispatch and submit the shortest possible report; had the affair gone to Berlin, it might well have fallen into the long volume. Now this worry too is removed. But how graciously and forbearingly my petitions remain behind with the Prince — yet this Your Serene Highness will indeed [uncertain: erhöhn — \"exalt\"/perhaps \"see\"] from the resolution and the disposition to the Superior Provincial Court, 2. The answer of the Brieg B. L. G. being conform with a petition, the Prince Chancellor thus has the 42000 rt. paid, and everything proceeds according to my proposal; [uncertain: Jagt — perhaps \"jetzt\", now] it is a matter for a Serene Highness to press there — You are now yourself to declare everything before the Commissarius, whether in Brieg or in Schlawenschitz. For God's sake I beg You, most gracious Prince, speak now freely and without any [uncertain: heil], say straight out to me [text as transcribed: \"mir man die induzirt hätt\"] — Prove then in brief that the settlements were drawn up to the detriment of the creditors, and that the debts entered therein are fictitious. Prove by [uncertain: Beymo Bruch] how You were enticed into believing Cosmar — Make the Commission attentive to the fact that Cosmar forged everything together with the old [one] in Berlin, and that everything was sent to You at Öhringen), where You were under arrest, and that You were carried away into acceding by a thousand delusive representations and also by threats. The declaration that You are to and will pay the 300000 Rthl — as also the codicil and all"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nNow I can demonstrate to Your Most Serene Highness with the highest proofs that your sufferings will have an end. At every minute I await the altogether excellent resolution of the elevated burgher-prince Hardenberg, to the effect that the Brieg O[uncertain: S]G is to investigate the whole matter with the utmost dispatch and to submit its report in the shortest possible [illegible]; had the business gone to Berlin, it might well have landed in the long volume. Now this worry too has been removed. But how graciously and forbearingly my submissions remain behind with the Prince - yet this Your Serene Highness will indeed [uncertain: gather] from the resolution and the order to the Supreme Provincial Court\n\n2. The answer of the Brieg B. L. G. being conformable with one of the submissions, the Prince Chancellor thus has the 42000\n\nrt. paid and everything then proceeds according to my proposal; [uncertain: it is now a matter for a Serene Highness to press the thing there] - You are now yourself to declare everything before the commissary, whether in Brieg or in Schlawenschitz. For God's sake I beg you, most gracious Prince, speak now freely and without any [illegible], say straight out to me how one had induced you - prove then in brief that the settlements were drawn up to the detriment of the creditors, and that the debts entered there are fictitious. Prove by [uncertain: Beymo Bruch] how you were enticed into believing Cosmar - Draw the commission's attention to the fact that Cosmar forged everything together with the old [one] in Berlin, and that everything was sent to you at Öhringen) where you were under arrest, and that you were carried away into acceding by a thousand false representations and also by threats. The declaration that you are to pay and will pay the 300000 Rthl - as also the codicil and all",
+   "names": [
+    {
+     "de": "Hardenbergs",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Brieger",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brieg",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2.",
+    "42000",
+    "300000"
+   ]
   },
   {
    "page": 2,
-   "en": "devilish fabrications of Cosmar, do lay these out [uncertain: reat] and without any fear; do in every case take the counsel of Court Councillor Hahn. He can perhaps be [uncertain: ausfallend — abrupt/offensive], but he goes straight and is faithfully attached to You. — Spare neither Your son nor anyone else; speak the truth in every instance, and that without [uncertain: Schmülle]. Your children will afterwards have to honour and love You for it. — At present I doubt both. The struggle has been happily withstood here, the most splendid path is opened; come forward there with head and heart, and crown the day — honour, repose and contentment then return again, and will accompany You to the very brink of the grave. But once more I beg You, do nothing without the honest Hahn. Towards the officials, or rather towards the worshipper of the false idol and the Herr Executor of the Testament, You could [text lost] with the dignity otherwise proper to You, and avoid all familiarity. Ah, far harder will the birds then pipe when the matter really comes to be spoken of. There is no time to be lost; I therefore [report] all this to You, better Prince, so that You may be forewarned, by a courier as far as Neisse — from Neisse they are to send You an express courier, in order to get the [uncertain: Ratismann] quickly into hand — You need now fear nothing more; the aforementioned [uncertain: Büdere] Prince Chancellor will and shall give real help — and my noble friend ß — works on as a thoroughly honest man, whom You can never thank enough, with glowing zeal. This in the greatest haste today; day after tomorrow more. From Gärtner and Göschel I hear that the divine man, Prince Hardenberg, takes up the Hohenlohe cause before all others — that too will turn out well. It is with the greatest reverence that I remain, until death, Your Most Serene Highness's — the end of the Congress is not yet to be foreseen, and perhaps still far distant. Wien, the 8th of Xbr 1814. faithful and obedient servant v Triebenfeld"
+   "en": "of Cosmar's devilish fabrications, lay them out plainly and without any fear; in every case do consult Court Councillor Hahn. He may perhaps be [uncertain: abrasive], but he goes straight and is faithfully attached to you. - Spare neither your son nor anyone else; speak the truth in every particular, and that without [illegible]. Your children will afterwards have to honour and love you for it. -- At present I doubt both. The struggle here has been happily sustained, the most splendid course is opened; step forward there with head and heart and crown the day - honour, peace and contentment will then return, and will attend you to the very edge of the grave. But once more I beg you, do nothing without the honest [uncertain: Hahn]. Towards the officials, or properly speaking towards the worshipper of the false idol and towards the executor of the testament, you could [illegible] with the dignity otherwise proper to you, and avoid all familiarity. Ah, far more heavily will the birds then whistle, when the matter truly comes to be spoken of.\n\nThere is no time to be lost; so I now [report] all this to you, better Prince, so that you may be forewarned, by a courier as far as Neisse - from Neisse an express courier is to be sent to you, in order to get the [uncertain: Ratismann] quickly into your hands -- You need fear nothing more now; the aforementioned [uncertain: burgher]-Prince Kagler will and shall give real help - and my noble friend ß -- works on as a thoroughly honest man, whom you can never thank enough, with glowing zeal. This much today in the greatest haste; the day after tomorrow more. From Gärtner and Göschel I hear that the divine man, P[rince] Hard[enberg], takes up the Hohenlohe affair before all others - This too will turn out well. It is with the greatest veneration that I remain, until death,\n\nYour Most Serene Highness's\n\nthe end of the Congress is still\n\nnot to be foreseen, and is perhaps still far distant\n\nVienna, 8 December 1814.\n\nfaithful and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Cosmars",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Fahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Neisse",
+     "kind": "place"
+    },
+    {
+     "de": "Kagler",
+     "en": "Kagler",
+     "kind": "person"
+    },
+    {
+     "de": "ß",
+     "en": "ß",
+     "kind": "person"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "Göschel",
+     "en": "Göschel",
+     "kind": "person"
+    },
+    {
+     "de": "F. Hard:",
+     "en": "P[rince] Hard[enberg]",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohische",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8tn.",
+    "1814"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Now I can demonstrate to Your Most Serene Highness with the highest proofs that Your sufferings shall have an end. At every minute I await the resolution, good beyond all measure, of the elevated Burgher-Prince Hardenberg, to the effect that the Brieg O[uncertain: S]G is to investigate the whole matter with the utmost dispatch and submit the shortest possible report; had the affair gone to Berlin, it might well have fallen into the long volume. Now this worry too is removed. But how graciously and forbearingly my petitions remain behind with the Prince — yet this Your Serene Highness will indeed [uncertain: erhöhn — \"exalt\"/perhaps \"see\"] from the resolution and the disposition to the Superior Provincial Court, 2. The answer of the Brieg B. L. G. being conform with a petition, the Prince Chancellor thus has the 42000 rt. paid, and everything proceeds according to my proposal; [uncertain: Jagt — perhaps \"jetzt\", now] it is a matter for a Serene Highness to press there — You are now yourself to declare everything before the Commissarius, whether in Brieg or in Schlawenschitz. For God's sake I beg You, most gracious Prince, speak now freely and without any [uncertain: heil], say straight out to me [text as transcribed: \"mir man die induzirt hätt\"] — Prove then in brief that the settlements were drawn up to the detriment of the creditors, and that the debts entered therein are fictitious. Prove by [uncertain: Beymo Bruch] how You were enticed into believing Cosmar — Make the Commission attentive to the fact that Cosmar forged everything together with the old [one] in Berlin, and that everything was sent to You at Öhringen), where You were under arrest, and that You were carried away into acceding by a thousand delusive representations and also by threats. The declaration that You are to and will pay the 300000 Rthl — as also the codicil and all\n\ndevilish fabrications of Cosmar, do lay these out [uncertain: reat] and without any fear; do in every case take the counsel of Court Councillor Hahn. He can perhaps be [uncertain: ausfallend — abrupt/offensive], but he goes straight and is faithfully attached to You. — Spare neither Your son nor anyone else; speak the truth in every instance, and that without [uncertain: Schmülle]. Your children will afterwards have to honour and love You for it. — At present I doubt both. The struggle has been happily withstood here, the most splendid path is opened; come forward there with head and heart, and crown the day — honour, repose and contentment then return again, and will accompany You to the very brink of the grave. But once more I beg You, do nothing without the honest Hahn. Towards the officials, or rather towards the worshipper of the false idol and the Herr Executor of the Testament, You could [text lost] with the dignity otherwise proper to You, and avoid all familiarity. Ah, far harder will the birds then pipe when the matter really comes to be spoken of. There is no time to be lost; I therefore [report] all this to You, better Prince, so that You may be forewarned, by a courier as far as Neisse — from Neisse they are to send You an express courier, in order to get the [uncertain: Ratismann] quickly into hand — You need now fear nothing more; the aforementioned [uncertain: Büdere] Prince Chancellor will and shall give real help — and my noble friend ß — works on as a thoroughly honest man, whom You can never thank enough, with glowing zeal. This in the greatest haste today; day after tomorrow more. From Gärtner and Göschel I hear that the divine man, Prince Hardenberg, takes up the Hohenlohe cause before all others — that too will turn out well. It is with the greatest reverence that I remain, until death, Your Most Serene Highness's — the end of the Congress is not yet to be foreseen, and perhaps still far distant. Wien, the 8th of Xbr 1814. faithful and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nNow I can demonstrate to Your Most Serene Highness with the highest proofs that your sufferings will have an end. At every minute I await the altogether excellent resolution of the elevated burgher-prince Hardenberg, to the effect that the Brieg O[uncertain: S]G is to investigate the whole matter with the utmost dispatch and to submit its report in the shortest possible [illegible]; had the business gone to Berlin, it might well have landed in the long volume. Now this worry too has been removed. But how graciously and forbearingly my submissions remain behind with the Prince - yet this Your Serene Highness will indeed [uncertain: gather] from the resolution and the order to the Supreme Provincial Court\n\n2. The answer of the Brieg B. L. G. being conformable with one of the submissions, the Prince Chancellor thus has the 42000\n\nrt. paid and everything then proceeds according to my proposal; [uncertain: it is now a matter for a Serene Highness to press the thing there] - You are now yourself to declare everything before the commissary, whether in Brieg or in Schlawenschitz. For God's sake I beg you, most gracious Prince, speak now freely and without any [illegible], say straight out to me how one had induced you - prove then in brief that the settlements were drawn up to the detriment of the creditors, and that the debts entered there are fictitious. Prove by [uncertain: Beymo Bruch] how you were enticed into believing Cosmar - Draw the commission's attention to the fact that Cosmar forged everything together with the old [one] in Berlin, and that everything was sent to you at Öhringen) where you were under arrest, and that you were carried away into acceding by a thousand false representations and also by threats. The declaration that you are to pay and will pay the 300000 Rthl - as also the codicil and all\n\nof Cosmar's devilish fabrications, lay them out plainly and without any fear; in every case do consult Court Councillor Hahn. He may perhaps be [uncertain: abrasive], but he goes straight and is faithfully attached to you. - Spare neither your son nor anyone else; speak the truth in every particular, and that without [illegible]. Your children will afterwards have to honour and love you for it. -- At present I doubt both. The struggle here has been happily sustained, the most splendid course is opened; step forward there with head and heart and crown the day - honour, peace and contentment will then return, and will attend you to the very edge of the grave. But once more I beg you, do nothing without the honest [uncertain: Hahn]. Towards the officials, or properly speaking towards the worshipper of the false idol and towards the executor of the testament, you could [illegible] with the dignity otherwise proper to you, and avoid all familiarity. Ah, far more heavily will the birds then whistle, when the matter truly comes to be spoken of.\n\nThere is no time to be lost; so I now [report] all this to you, better Prince, so that you may be forewarned, by a courier as far as Neisse - from Neisse an express courier is to be sent to you, in order to get the [uncertain: Ratismann] quickly into your hands -- You need fear nothing more now; the aforementioned [uncertain: burgher]-Prince Kagler will and shall give real help - and my noble friend ß -- works on as a thoroughly honest man, whom you can never thank enough, with glowing zeal. This much today in the greatest haste; the day after tomorrow more. From Gärtner and Göschel I hear that the divine man, P[rince] Hard[enberg], takes up the Hohenlohe affair before all others - This too will turn out well. It is with the greatest veneration that I remain, until death,\n\nYour Most Serene Highness's\n\nthe end of the Congress is still\n\nnot to be foreseen, and is perhaps still far distant\n\nVienna, 8 December 1814.\n\nfaithful and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Reports that Hardenberg has ordered the Brieg court to investigate the Prince's affair with the utmost dispatch and to report briefly, sparing it the delays of Berlin, and that the Chancellor is having the 42000 rt. paid. Urges the Prince to declare everything freely before the Commissarius at Brieg or Schlawenschitz, to prove the settlements fraudulent and the debts fictitious, to expose Cosmar's forgeries and the coerced acknowledgement of 300000 Rthl. extracted at Öhringen, and to act only on Court Councillor Hahn's advice.",
  "summary_de": "Meldet den bevorstehenden günstigen Bescheid des Fürsten Staatskanzlers Hardenberg: das Ober-Landesgericht Brieg soll die Sache beschleunigt untersuchen und kurz berichten, die 42000 rt werden gezahlt, alles nach Triebenfelds Vorschlag. Drängt den Fürsten, vor dem Commissarius in Brieg oder Schlawenschitz freimütig auszusagen, die zum Nachteil der Gläubiger errichteten Vergleiche und die fingierten Schulden, die Erklärung über 300000 Rthl und das Codicill als Machwerk Cosmars (unter Arrest in Öhringen erzwungen) darzulegen, niemanden zu schonen und stets den Rat des Hofrats Hahn zu nehmen. Das Ende des Congresses sei nicht abzusehen."
 }

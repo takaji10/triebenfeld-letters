@@ -1,27 +1,172 @@
 status: draft
 segments:
 - page: 1
-  en: 'Pro Memoria. In 1796 the King conferred the Kaemen estates upon Prince Hohenlohe after a certain
-    Anton v. Prussiemski. The same Prussiemski just mentioned had pledged these estates to a certain Broniewski
-    for more than 100000 Rthl, so that the Prince could never come into possession of them — the lawsuit
-    pending on that account has cost the Prince over 6000 Rthl. In the first and 2nd instance the Prince
-    lost and was condemned to pay the pledge-money. Broniewski at last offered a compromise, and the Prince
-    paid 55000 Rthl in cash to Broniewski in 1804 — makes 61000 Rthl. Hereupon now, from 1804 to 1815,
-    the interest is 33550 Rthl. Outlays upon the estates [uncertain: bewogen / "induced"] he has thereupon
-    at most to claim: 94550 Rthl. The house has paid to the [uncertain: Kost] Senate treasury for the
-    instrument 4164 Rthl, which must be [made good?] to Prince Z[illegible]erbowski, 4164 Rthl. [uncertain:
-    Sinnen] of the [uncertain: Beweisendung] 98714. NB Leixner with M. Bernhard have given exactly the
-    monies as 55000 Rthl. But the capitals have been registered to them upon Betsch and the [uncertain:
-    latmschen] estates; also M. B. has the Culm[illegible]ish estates entirely in possession for his claims,
-    consequently the 94550 Rthl belong to the Prince alone. And so the née Prusimska, so greatly favoured,
-    must therefore return to the Prince the pledge-money paid together with interest; but it stands to
-    the Prince to retain the estates in pledge-possession until his satisfaction — Now the estates have
-    meanwhile been judicially assessed and at 180000 in value; if then the 55000 Rthl be brought into
-    deduction, there remains in our value 125000 Rthl, makes 223714 Rthl / 125000, which must be made
-    good to the Prince in cash or by estates. 2. Trąbczyn was judicially assessed at 316000. Thereupon
-    the Prince contracted debts: 1. from Lichnowski 70000 Rthl, 2. Weigel 30000, 3. Grotowski — 20000,
-    4. Seeher Thoch 8000, 5. v. Zerboni 10000 = 138000. Thereupon the Prince has paid: to Lichnowski 30000,
-    to Weigel 30000, makes 60000, there remain 78000. There remains here as a surplus 238000 Rthl / 238000;
-    consequently together, hence, 467114 Rthl. Of this the née Prusimska must pay in cash 94550 Rthl;
-    the Sovereigns have to compensate the Prince either in estates or in cash 367164 Rthl, that is 461714
-    Rthl. The 27th of March 1815.'
+  en: 'P[ro]. M[emoria].
+
+
+    In 1796 the King conferred upon the Prince of Hohenlohe the Kaemen estates, after a certain Anton
+    von Prussiemski. The said Prussiemski had pledged these estates to a certain Broniewski for more than
+    100000 Rthl, so that the Prince could never come into possession of them - the lawsuit pending on
+    that account has cost the Prince over 6000 Rthl. In the first and second instance the Prince lost
+    and was condemned to pay the pledge sum. Broniewski at last offered a settlement, and the Prince paid
+    55000 Rthl in cash to Broniewski in 1804. - makes 61000 Rthl. On this, then, from 1804 to 1815, the
+    interest is 33550 Rthl, [uncertain: outlays] upon the estates; he has therefore at the most to demand
+    thereon 94550 Rthl.
+
+
+    The house has paid to the [uncertain: Senate Court] treasury for the instrument 4164 Rthl, which must
+    be [made good] to the Prince Z[illegible]erbowski 4164 Rthl. [uncertain: Sinnen] of the adducing of
+    proof 98714. NB Leixner together with M. Bernhard have given precisely the moneys as 55000 Rthl. But
+    the capitals have been registered to them upon Betsche and the Latmian estates, and M. B. also has
+    the Culm[?]ian estates entirely in possession for his claims; consequently the 94550 Rthl belong to
+    the Prince alone, and the born Prusimska, so greatly favoured, must therefore return to the Prince
+    the pledge sum paid together with interest; but the Prince is entitled to retain the estates in pledge-possession
+    until his satisfaction — Now the estates have meanwhile been judicially assessed at 180000 in value;
+    if then the
+
+
+    55000 Rthl be brought into deduction, there remains in our valuation 125000 Rthl
+
+
+    makes 223714 Rthl
+
+
+    125000, which must be made good to the Prince in cash or by estates.
+
+
+    2. Trąbczyn was judicially assessed at 316000.
+
+
+    Upon it the Prince contracted debts: 1 from Lichnowski 70000 Rthl
+
+
+    2. Weigel 30000
+
+
+    3. Grotowski - 20000
+
+
+    4. Seeher Thoch 8000
+
+
+    5. von Zerboni 10000 = 138000. Upon this the Prince has paid: to Lichnowski 30000
+
+
+    To Weigel 30000
+
+
+    makes 60000
+
+
+    there remain 78000. There remains here then a surplus [uncertain: Heil.] 238000 Rthl 238000; consequently
+    together with [the foregoing] 467114 Rthl; of which the born Prusimska must pay in cash 94550 Rthl;
+    the Sovereigns have to indemnify the Prince either in estates or in cash 367164 Rthl; that is 461714
+    Rthl.
+
+
+    the 27th of March
+
+
+    1815.'
+  names:
+  - de: Hohenlohe
+    en: Hohenlohe
+    kind: person
+  - de: Kaemener Güter
+    en: Kaemen estates
+    kind: place
+  - de: Anton v. Prussiemski
+    en: Anton von Prussiemski
+    kind: person
+  - de: Prussiemski
+    en: Prussiemski
+    kind: person
+  - de: Broniewski
+    en: Broniewski
+    kind: person
+  - de: Z[?]erbowski
+    en: Z[illegible]erbowski
+    kind: person
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: M. Bernhard
+    en: M. Bernhard
+    kind: person
+  - de: Betsch
+    en: Betsche
+    kind: place
+  - de: latmschen Gütern
+    en: Latmian estates
+    kind: place
+  - de: Culm[?]ische Güter
+    en: Culm[?]ian estates
+    kind: place
+  - de: Prusimska
+    en: Prusimska
+    kind: person
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Lichnowski
+    en: Lichnowski
+    kind: person
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Grotowski
+    en: Grotowski
+    kind: person
+  - de: Seeher Thoch
+    en: Seeher Thoch
+    kind: person
+  - de: v. Zerboni
+    en: von Zerboni
+    kind: person
+  numbers:
+  - '1796'
+  - '100000'
+  - '6000'
+  - 2ter
+  - '55000'
+  - '1804'
+  - '61000'
+  - '1804'
+  - '1815'
+  - '33550'
+  - '94550'
+  - '4164'
+  - '4164'
+  - '98714'
+  - '55000'
+  - '94550'
+  - '180000'
+  - '55000'
+  - '125000'
+  - '223714'
+  - '125000'
+  - '2'
+  - '316000'
+  - '1'
+  - '70000'
+  - '2'
+  - '30000'
+  - '3'
+  - '20000'
+  - '4'
+  - '8000'
+  - '5'
+  - '10000'
+  - '138000'
+  - '30000'
+  - '30000'
+  - '60000'
+  - '78000'
+  - '238000'
+  - '238000'
+  - '467114'
+  - '94550'
+  - '367164'
+  - '461714'
+  - 27ten
+  - '1815'

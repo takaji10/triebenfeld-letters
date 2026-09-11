@@ -67,16 +67,63 @@
    "doc_line": 13
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "brzechsta",
+   "display": "Brzechsta",
+   "kind": "person",
+   "surface_de": "Brzechsta",
+   "surface_en": "Brzechsta",
+   "page": 1
+  }
+ ],
  "place_canonical": "Warschau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Warsaw, the 5th of March 1812. Dear Brother, I hasten to inform thee that on account of various affairs I shall not be able to set out from Warsaw before the 15th of this month. The matter concerning Trąbczyn stands, according to reliable intelligence obtained, quite well, whereof I shall say more to thee by word of mouth. For shortness of time, since the conveyance is departing, I cannot write thee more. Farewell to the friend and both. Brzechsta"
+   "en": "Warsaw, the 5th of March 1812.\n\nDear Brother, I hasten to inform you that, on account of various pieces of business, I shall not be able to depart from Warsaw before the 15th of this month. The matter concerning Trąbczyn stands, according to reliable information obtained, quite well, about which I shall tell you more by word of mouth. For shortness of time, as the conveyance is leaving, I cannot write you more. Farewell\n\nto the friend and both.\n\nBrzechsta",
+   "names": [
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Brzechsta",
+     "en": "Brzechsta",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "1812",
+    "15"
+   ]
   }
  ],
- "text_english": "Warsaw, the 5th of March 1812. Dear Brother, I hasten to inform thee that on account of various affairs I shall not be able to set out from Warsaw before the 15th of this month. The matter concerning Trąbczyn stands, according to reliable intelligence obtained, quite well, whereof I shall say more to thee by word of mouth. For shortness of time, since the conveyance is departing, I cannot write thee more. Farewell to the friend and both. Brzechsta",
+ "text_english": "Warsaw, the 5th of March 1812.\n\nDear Brother, I hasten to inform you that, on account of various pieces of business, I shall not be able to depart from Warsaw before the 15th of this month. The matter concerning Trąbczyn stands, according to reliable information obtained, quite well, about which I shall tell you more by word of mouth. For shortness of time, as the conveyance is leaving, I cannot write you more. Farewell\n\nto the friend and both.\n\nBrzechsta",
  "summary_en": "A brief note from Brzechsta to a correspondent addressed as \"Dear Brother,\" reporting that various affairs will delay his departure from Warsaw until after the 15th of the month, and that reliable intelligence indicates the Trąbczyn matter stands quite well, details of which he will convey in person. The writer breaks off for want of time, the conveyance being about to leave, and sends greetings.",
  "summary_de": "Mitteilung an den \"lieben Bruder\", daß die Abreise aus Warschau wegen verschiedener Geschäfte nicht vor dem 15. des Monats erfolgen könne. Die Angelegenheit Trąbczyn stehe nach zuverlässig eingezogenen Nachrichten recht gut; Näheres wolle der Schreiber mündlich berichten. Wegen Kürze der Zeit – die Post gehe ab – bleibt der eigenhändige Brief kurz; Grüße an den Freund und beide. Unterzeichnet Brzechsta."
 }

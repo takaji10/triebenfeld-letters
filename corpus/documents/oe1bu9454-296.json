@@ -90,20 +90,164 @@
    "doc_line": 25
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bar. bey",
+   "kind": "person",
+   "surface_de": "Bar. bey",
+   "surface_en": "Bar. bey",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Philippischen",
+   "kind": "person",
+   "surface_de": "Philippischen",
+   "surface_en": "Philippischen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stachen",
+   "kind": "place",
+   "surface_de": "Stachen",
+   "surface_en": "Stachen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Greven[uncertain: z]",
+   "kind": "person",
+   "surface_de": "Greven[z?]",
+   "surface_en": "Greven[uncertain: z]",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Philippischen",
+   "kind": "person",
+   "surface_de": "Philippischen",
+   "surface_en": "Philippischen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kohler",
+   "kind": "person",
+   "surface_de": "Kohler",
+   "surface_en": "Kohler",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Grewen[uncertain: z]",
+   "kind": "person",
+   "surface_de": "Grewen[z?]",
+   "surface_en": "Grewen[uncertain: z]",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Berlin, the 8th Xbr. 1815. Most esteemed friend, with me. What has come in here I enclose herewith: the Court Councillor Bar. bey has died in Paris; I mean to enquire further of the widow as well. The Chancellor of State is expected this dwelling. Philippischen is said to have fallen very ill in Stachen, which touches me most inwardly. Be assured also of my sympathy on account of Thy illness. I yet await [it] very soon. Thy faithful servant Greven[uncertain: z]. Cosmar has in the first instance been held convicted of an honest [uncertain: dishonest] proceeding — but has appealed. If it stands, he [uncertain: forfeits / it lies before him] the guardianship."
+   "en": "Berlin, the 8th of Xbr. 1815, most esteemed friend with me What has come in here I enclose herewith: the Court Councillor Bar. bey has died in Paris, I mean also to enquire further of the widow, the State Chancellor is expected [to] this dwelling.\n\nPhilippischen is said to have fallen very ill in Stachen, which touches me most deeply. Be assured also of my sympathy on account of your illness. I do expect, indeed, very soon\n\nYour faithful servant Greven[uncertain: z]\n\nCosmar\n\nhas in the court of first instance\n\nbeen held convicted of a dishonest proceeding — but has appealed. If it stands so, he loses the guardianship",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Bar. bey",
+     "en": "Bar. bey",
+     "kind": "person"
+    },
+    {
+     "de": "Philippischen",
+     "en": "Philippischen",
+     "kind": "person"
+    },
+    {
+     "de": "Stachen",
+     "en": "Stachen",
+     "kind": "place"
+    },
+    {
+     "de": "Greven[z?]",
+     "en": "Greven[uncertain: z]",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "1815"
+   ]
   },
   {
    "page": 2,
-   "en": "Yesterday etc. the Chancellor of State did indeed arrive — this I report at once, with the enclosure of the 2 original enclosures. Philippischen is said now to be dangerously ill — my grief is as great as though it were my own [uncertain: Kohler]. Thy o. Int. Grewen[uncertain: z]. 8 Xbr. 1815."
+   "en": "Yesterday etc. the State Chancellor actually arrived — this I report at once, with the enclosure[uncertain: ] of the 2 original enclosures. Philippischen is said now to be dangerously ill — my grief is as great as though it were my own Kohler your\n\nto. Int.\n\nGrewen[uncertain: z]\n\n8 Xbr. 1815.",
+   "names": [
+    {
+     "de": "Philippischen",
+     "en": "Philippischen",
+     "kind": "person"
+    },
+    {
+     "de": "Kohler",
+     "en": "Kohler",
+     "kind": "person"
+    },
+    {
+     "de": "Grewen[z?]",
+     "en": "Grewen[uncertain: z]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "8",
+    "1815"
+   ]
   }
  ],
- "text_english": "Berlin, the 8th Xbr. 1815. Most esteemed friend, with me. What has come in here I enclose herewith: the Court Councillor Bar. bey has died in Paris; I mean to enquire further of the widow as well. The Chancellor of State is expected this dwelling. Philippischen is said to have fallen very ill in Stachen, which touches me most inwardly. Be assured also of my sympathy on account of Thy illness. I yet await [it] very soon. Thy faithful servant Greven[uncertain: z]. Cosmar has in the first instance been held convicted of an honest [uncertain: dishonest] proceeding — but has appealed. If it stands, he [uncertain: forfeits / it lies before him] the guardianship.\n\nYesterday etc. the Chancellor of State did indeed arrive — this I report at once, with the enclosure of the 2 original enclosures. Philippischen is said now to be dangerously ill — my grief is as great as though it were my own [uncertain: Kohler]. Thy o. Int. Grewen[uncertain: z]. 8 Xbr. 1815.",
+ "text_english": "Berlin, the 8th of Xbr. 1815, most esteemed friend with me What has come in here I enclose herewith: the Court Councillor Bar. bey has died in Paris, I mean also to enquire further of the widow, the State Chancellor is expected [to] this dwelling.\n\nPhilippischen is said to have fallen very ill in Stachen, which touches me most deeply. Be assured also of my sympathy on account of your illness. I do expect, indeed, very soon\n\nYour faithful servant Greven[uncertain: z]\n\nCosmar\n\nhas in the court of first instance\n\nbeen held convicted of a dishonest proceeding — but has appealed. If it stands so, he loses the guardianship\n\nYesterday etc. the State Chancellor actually arrived — this I report at once, with the enclosure[uncertain: ] of the 2 original enclosures. Philippischen is said now to be dangerously ill — my grief is as great as though it were my own Kohler your\n\nto. Int.\n\nGrewen[uncertain: z]\n\n8 Xbr. 1815.",
  "summary_en": "A short, damaged note from Grewen[z] in Berlin, forwarding papers and two original enclosures: reports the death in Paris of Court Councillor Bar[?]bey, whose widow he intends to question further; the awaited Chancellor of State has now arrived; Philippischen is said to be dangerously ill at Stachen, which the writer laments; and Cosmar has been found guilty at first instance of a dishonest proceeding but has appealed, with his guardianship at stake. Sympathy is offered for the recipient's own illness.",
  "summary_de": "Übersendung der eingegangenen Schreiben nebst zwei Originaleinlagen; Meldung vom Tod des Hofraths Bar. bey in Paris, dessen Witwe noch befragt werden soll. Der Staatskanzler wird erwartet und ist inzwischen eingetroffen. Cosmar sei in erster Instanz eines unredlichen Verfahrens für überwiesen erachtet worden, habe aber appelliert; bei Bestätigung verliere er die Vormundschaft. Klage über die schwere, nun lebensgefährliche Krankheit der Philippischen in Stachen sowie Teilnahme an der Erkrankung des Adressaten."
 }

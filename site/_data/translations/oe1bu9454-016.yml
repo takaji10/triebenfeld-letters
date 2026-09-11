@@ -1,42 +1,135 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord! The reports, or rather the rumours, concerning the departures
-    of the monarchs from this place change [uncertain: we] like ebb and flood. One hour it is said that
-    within ☽ 4 days everything will set off — in the second one says the departure is weeks off, so it
-    was said, for example, the day before yesterday — next Saturday the King of Prussia and the Russian
-    Emperor go from here by way of Berlin to the army — Today it is asserted that their journey is only
-    to take place at the beginning of May, since Germany''s affairs would first have to be absolutely
-    arranged. The enclosed note is a norm of what will happen. Not everyone is content with it; in particular
-    Harum is an object of contention. I was, meanwhile, only to learn precisely by report whether the
-    King too would still be here on the 20th, and consequently until Herr Adolph''s arrival; therefore
-    I went to the Lieutenant-Colonel v. Thiel. I made known to him Your Serene Highness''s and the Prince''s
-    resolution, and begged him to tell the King that Prince Adolph would be here on the 20th, and would
-    wish to be presented to His Majesty, whereupon he would beg to be placed in the army. I described
-    the Prince and his circumstances exactly, and wished to know whether he would still find the King
-    here. The Right Honourable Baron v. [uncertain: Thule / Thiel] charged me to commend him most reverently
-    to Your Serene Highness, and assured me that the King would certainly take great pleasure in it —
-    He added: he is of good race, and if the spirit of his brave father is not upon him, then the King
-    is now making an important purchase — for the rest, I can assure you that we shall not depart from
-    here before the 22nd — With Prince Hardenberg I have not yet spoken, nor been able to lay this before
-    him; but then this is not his affair either — the Military Department and the Civil are two heterogeneous
-    things. I held it my duty to report this to Your Serene Highness. Your affairs, despite the thousand
-    fine assurances, still lie in the mire, and share their fate with many'
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    The reports, or rather the rumours, about the departures of the monarchs from here change like ebb
+    and flood. One hour it is said that on ☽ [Monday] - in 4 days everything will depart - in the next
+    one speaks of the departure as weeks away; thus it was said, for example, day before yesterday - next
+    Saturday the King of Prussia and the [uncertain: Russian] Emperor go from here by way of Berlin to
+    the army - today one is assured that [uncertain: this] is only to take place at the beginning of May,
+    since the affairs of Germany must first be absolutely arranged. The enclosed note is a standard of
+    what will happen. Not everyone is content with it; Harum in particular is an object of dispute. I
+    was meanwhile [text uncertain] only to learn precisely whether the King too would still be here on
+    the 20th, that is, until the arrival of Prince Adolph; therefore I went to the Lieutenant Colonel
+    von Thiel. I made Your Serene Highness''s and the Prince''s resolution known to him, and begged him
+    to tell the King that Prince Adolph would be here on the 20th, and would wish to be presented to His
+    Majesty, whereupon he would ask to be placed in the army. I described the Prince and his circumstances
+    precisely, and wished to know whether he would still find the King here. Baron von Thule charged me
+    to commend him most reverentially to Your Serene Highness, and assured me that the King would certainly
+    take great pleasure in it. He added: He is of good race, and if his brave father''s spirit is not
+    upon him, then the King is now making an important purchase — for the rest I can assure you that we
+    shall not depart from here before the 22nd. With Prince Hardenberg I have not yet spoken, and could
+    not lay this before him; but then this is not his business either - the military department and the
+    civil are 2 heterogeneous things. I held it my duty to report this to Your Serene Highness. Your affairs,
+    for all the thousand fine assurances, still lie in the mire, and share their fate with many'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Harum
+    en: Harum
+    kind: other
+  - de: Hr Adolphs
+    en: Prince Adolph
+    kind: person
+  - de: Pr Adolph
+    en: Prince Adolph
+    kind: person
+  - de: Thiel
+    en: Thiel
+    kind: person
+  - de: Thule
+    en: Thule
+    kind: person
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Deutschlands
+    en: Germany
+    kind: place
+  numbers:
+  - '4'
+  - 2te
+  - 20ten
+  - '20'
+  - 20 ten
+  - 22ten
+  - '2'
 - page: 2
-  en: 'King Murat is making himself very broad in Italy, and has already pushed forward as far as Mantua
-    — The Austrians are still holding up very well, and many troops are hastening thither to combat this
-    monster — The Russians seem [uncertain: we/as] to be stirring too; they are said to march without
-    a rest-day, that is to say, they run for 3 days and on the 4th they are carried, which takes the place
-    of the rest day — In short, from all sides gentlemen are hastening hither. Bonaparte, for his part,
-    is likewise forming a fearsome army — he draws all his troops together in and about Paris, heaps up
-    great stores and magazines, [uncertain: draws] small [lines] of entrenchments which are hard to break
-    through. — Meanwhile, between the soldiers and the townspeople (the latter being much oppressed by
-    the military) considerable scenes are said already to have occurred, and this may yet become a motive
-    by which the bloodiest war can be greatly mitigated. The affair of the Kosten estates likewise causes
-    much anxiety; one does not know at all where one is now to take hold of the matter. — An equivalent
-    suited to the case must be given to Your Serene Highness — but who is to do it, and where is one to
-    seek it? Everything writes and hunts about frightfully great labours, and calls this a bagatelle —
-    [uncertain: Unfäng] I should like to become, that no creditor shall then strike his claws in; for
-    that I stand surety to you — You may issue a mortgage upon me at Zagorow; there everything remains
-    to him. Yes indeed. In deepest reverence I remain, until death, Your Serene Highness''s faithful and
-    obedient servant. Vienna, the 15th of April 1815. v Triebenfeld'
+  en: 'King Murat is making himself very loud in Italy, and has already pushed forward as far as Mantua
+    — the Austrians are still holding up very well, and many troops are hastening thither to fight this
+    monster – the [uncertain: Russians] seem to be stirring as well; they are obliged to march without
+    a rest day, that is to say, they march for 3 days and on the 4th they are carried by waggon, which
+    takes the place of the rest day - in short, from every side lords come hastening up. Bonaparte, for
+    his part, is likewise forming a fearsome army – he draws all his troops together in and about Paris,
+    heaps up great stores and magazines, and draws [uncertain: a chain] of entrenchments that would be
+    hard to break through. - Meanwhile considerable scenes are said already to have occurred between the
+    soldiers and the townspeople (the latter being much oppressed by the military), and this may yet become
+    a motive by which the bloodiest war may be much softened.
+
+
+    The business of the Kosten estates likewise causes much anxiety; one does not know at all where the
+    matter is now to be taken hold of. - An equivalent proportionate to the matter must be given to Your
+    Serene Highness — but who is to do it, and where is one to seek it? Everyone writes complaining of
+    frightfully great labours, and calls this a bagatelle — [uncertain: I could go mad] that no creditor
+    shall sink his claws into it; for that I vouch to you. You may in any case issue a mortgage upon me
+    at Zagorowo; there everything stays with him, yes indeed.
+
+
+    In deepest reverence I remain, until death,
+
+
+    Your Serene Highness''s
+
+
+    faithful and obedient servant
+
+
+    Vienna, the 15th of April
+
+
+    1815.
+
+
+    v. Triebenfeld'
+  names:
+  - de: K. Murat
+    en: King Murat
+    kind: person
+  - de: Italien
+    en: Italy
+    kind: place
+  - de: Mantua
+    en: Mantua
+    kind: place
+  - de: Osterreicher
+    en: Austrians
+    kind: other
+  - de: Bonaparte
+    en: Bonaparte
+    kind: person
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Kosten
+    en: Kosten
+    kind: place
+  - de: Zagorow
+    en: Zagorowo
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '3'
+  - 4 ten
+  - 15ten
+  - '1815'

@@ -160,28 +160,307 @@
    "doc_line": 87
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Braun",
+   "kind": "person",
+   "surface_de": "Braun",
+   "surface_en": "Braun",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Liep: Meyer Wolff",
+   "kind": "person",
+   "surface_de": "Liep: Meyer Wolff",
+   "surface_en": "Liep: Meyer Wolff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Tirard",
+   "kind": "person",
+   "surface_de": "Tirard",
+   "surface_en": "Tirard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hauk",
+   "kind": "person",
+   "surface_de": "Hauk",
+   "surface_en": "Hauk",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Seebald",
+   "kind": "person",
+   "surface_de": "Seebald",
+   "surface_en": "Seebald",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Biron",
+   "kind": "person",
+   "surface_de": "Biron",
+   "surface_en": "Biron",
+   "page": 3
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schläbe dorffsche",
+   "surface_en": "Schlabrendorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mennonites",
+   "kind": "other",
+   "surface_de": "Minnonisten",
+   "surface_en": "Mennonites",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wöllenhaupt",
+   "kind": "person",
+   "surface_de": "Wöllenhaupts",
+   "surface_en": "Wöllenhaupt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Rochtet",
+   "kind": "other",
+   "surface_de": "Rochtet",
+   "surface_en": "Rochtet",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Unruhstad",
+   "kind": "place",
+   "surface_de": "Unruhſtad",
+   "surface_en": "Unruhstad",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betschener",
+   "surface_en": "Betsche",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardſche",
+   "surface_en": "Eysenhardt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! At last, through the mediation of the venerable General v. Köckritz, it has been achieved that the Invalids' Department has now declared itself willing to furnish 150000 Rthl, without my having to seek permission for it from His Majesty the King, which is otherwise the course of business. The Department gives for the present, upon the mortgage and my bill of exchange, 50000 Rthl, since the Chamber must still revise the assessments, and after these the Department pays the 100000 Rthl, which, provided the interest is duly paid, may stand for 50 years. The [uncertain: populle] Depositorium, the Widows' Fund, still less the Bank or the Seehandlung, likewise pay not a farthing more into South Prussia, but are at pains to call everything in — this makes a fearful stoppage in all business and spreads such Oh! and Ah among the people that one's hair stands on end. I too should have obtained nothing, had not the worthy General taken up my cause in the most active manner. The 26 Jan 1805."
+   "en": "Most Serene Prince\n\nMost gracious Lord: At last, through the mediation of the venerable General von Köckritz, it has been brought about that the Invalids' Department has now declared itself willing to furnish 150000 Rthl, without my having to seek permission for it from His Majesty the King, which is otherwise the course of business. The Department gives, for the present, 50000 Rthl upon the mortgage and my bill of exchange; then the Chamber must still revise the assessments, and after these the Department pays the 100000 Rthl, which, provided the interest is duly paid, may stand for 50 years.\n\nThe [uncertain: populle] deposit fund, the Widows' Fund still less, nor the Bank or the Maritime Trading Company, pay a single heller more into South Prussia, but are rather at pains to call everything in — this causes a frightful stagnation in all business and spreads such lamentation and [uncertain: Ob.] among the people that one's hair stands on end. I too should have obtained nothing, had not the [uncertain: Braun] General taken up my cause in the most active manner. The\n\n26 Jan 1805.",
+   "names": [
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Braun",
+     "en": "Braun",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "150000",
+    "50000",
+    "100000",
+    "50",
+    "26",
+    "1805"
+   ]
   },
   {
    "page": 2,
-   "en": "The bankers here now themselves give, merely to keep themselves afloat, 10 to 12 per cent proximaticum for 5 to 6 per cent interest; and besides Liep: Meyer Wolff each sets his own terms — he alone still has money, and thinks of those seeking money whatever pleases him. Whoever now falls into the hands of men of this sort is irretrievably lost. God and the honest friend be heartily thanked that here He allotted a better and truly the most desirable lot of all. — As soon as I now receive the money I shall pay the urgently demanded 10000 Rthl, and send Your Serene Highness with all speed the sum remaining after deduction of costs. With the Tirard and Hauk affair I am finished; tomorrow I pay the arrears of interest out of my own money, and then someone will take over the debt, which can then rest quietly for 4 years. The suit on account of the proxenetica taken I do not find well advised — the thing damages Your Serene Highness's credit anew, and frightens off all those so-called men of business who are hand in glove with one another. This was even already cast up at me in the course of this very business, and they appealed to the fact that Seebald was to bring suit and demand back the proxenetica;"
+   "en": "bankers here now themselves give, merely to keep themselves afloat, 10 to 12 per cent brokerage on 5 to 6 per cent interest; and besides, Liep: Meyer Wolff each sets his own terms — he alone still has money, and thinks of those seeking money whatever is agreeable to him. Whoever now falls into the hands of men of this sort is irretrievably lost. God and that upright friend be heartily thanked that he here allotted a better and truly the most desirable lot of all. As soon as I now receive the money I shall pay the 10000 Rthl that have been demanded, and send Your Serene Highness in all haste the remaining sum after deduction of costs.\n\nWith the Tirard and Hauk affair I am finished; tomorrow I pay the arrears of interest out of my own money, and then someone takes over the debt, which can stand quietly for 4 years. The suit concerning the brokerage taken I do not find well advised — the thing damages Your Serene Highness's credit anew, and frightens off all those so-called men of business who are hand in glove with one another. This was indeed already cast up at me in the course of this very transaction, and appeal was made to it that Seebald should bring suit and demand the brokerage back;",
+   "names": [
+    {
+     "de": "Liep: Meyer Wolff",
+     "en": "Liep: Meyer Wolff",
+     "kind": "person"
+    },
+    {
+     "de": "Tirard",
+     "en": "Tirard",
+     "kind": "person"
+    },
+    {
+     "de": "Hauk",
+     "en": "Hauk",
+     "kind": "person"
+    },
+    {
+     "de": "Seebald",
+     "en": "Seebald",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "12",
+    "5",
+    "6",
+    "10000",
+    "4"
+   ]
   },
   {
    "page": 3,
-   "en": "The Biron affair has instilled fear and terror in all — the moral lecture which Your Serene Highness writes to me only on account of the Schlabrendorff affair I did not deserve. Any breach of word is foreign to my heart, and shall remain so to my last breath. I do not indeed know what I wrote in that agonising moment; in every point I must have expressed myself erroneously, in order to reply to Your Serene Highness's letter. — Honour remains in all my dealings the first spring of action; to it I sacrifice labour, means, and health. And the truth which I then spoke in the Pro Memoria upon the whole Schlabrendorff affair is, in my manner of it, no knavish trick. — I should curse all my dealings, and withdraw — as I am much inclined to do — into the last corner of the earth, far from all men, if in the end I were to be judged so. The Mennonites I shall answer definitely according to Your Serene Highness's command. Wöllenhaupt's judgement concerning the dismemberment of the estates is too insignificant for a further word to be said upon it. Let Your Serene Highness deign to give him the commission and promise him a few thousand, and he will undertake to dismember half the world. — I have the proofs"
+   "en": "The Biron affair has struck fear and terror into all — the moral lesson which Your Serene Highness writes to me solely on account of the Schlabrendorff affair I did not deserve. Every breach of faith is foreign to my heart, and so it shall remain to my last breath. I do not indeed know what I wrote in that agonising moment; in every case I must have expressed myself erroneously, in giving an account according to Your Serene Highness's letter. Honour remains in all my dealings the first spring of action; to it I sacrifice toil, means, and health. And the truth which I then stated in the Pro Memoria concerning the whole Schlabrendorff affair is, according to my [uncertain: demart], no knavery. I should curse all my dealings, and withdraw — a thing to which I am much inclined — into the last corner of the earth, far from all men, if in the end I were to be judged so.\n\nThe Mennonites I shall answer definitely according to Your Serene Highness's command. Wöllenhaupt's judgement concerning the dismemberment of the estates is too inconsiderable for a further word to be said about it. Let Your Serene Highness be pleased to give him the commission and promise him a few thousand, and he assures you he will dismember half the world — I have the samples",
+   "names": [
+    {
+     "de": "Biron",
+     "en": "Biron",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Schläbe dorffsche",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Minnonisten",
+     "en": "Mennonites",
+     "kind": "other"
+    },
+    {
+     "de": "Wöllenhaupts",
+     "en": "Wöllenhaupt",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "still before me. — [uncertain: Rochtet] matters I shall dispatch on my return to Unruhstad. The free pass for the wines must by now already be there. What the Betschen subjects want I do not understand — there must again be some store of mischief lurking in the background. Meanwhile the date of this letter is of the month of June, and indeed earlier than that of the contract. Next Wednesday I go back from here, in order to direct at [uncertain: Kalleg] the revision of the assessment, so as to obtain the 100000 Rthl the more quickly, and then to be able to dismember in peace. The Eysenhardt affair proceeds [uncertain: gradually] and well, so that Your Serene Highness will have no vexation on that account. In deepest reverence I remain, until death, Your Most Serene Highness's — Concerning the monies to be sent out to the Reich, about half of 30000 Rthl could now be got together — I thought Your Serene Highness might send these now, and promise to remit the other 15000 Rthl soon after. Berlin, the 26th of January 1805, humble and obedient servant v Triebenfeld"
+   "en": "still before me — [uncertain: Rochtet] matters I shall attend to on my return to Unruhstad. The free pass for the wines must by now already be there. What the subjects of Betsche want I do not understand — there must again be some store of trouble lurking in the background. Meanwhile the date of this letter is of the month of June, and indeed earlier than that of the contract.\n\nNext Wednesday I go back from here, in order to direct in Kalisz the revision of the assessment, so as to obtain the 100000 Rthl the sooner, and then to be able to dismember in peace. The Eysenhardt affair is proceeding [uncertain: et melang] wise and well, so that Your Serene Highness will have no vexation on that account. In deepest reverence I remain, until death, Your Most Serene Highness's — As to the moneys to be sent out into the Empire, about half of the 30000 Rthl could now be got together — I thought Your Serene Highness might send that sum now, and promise to remit the other 15000 Rthl soon after.\n\nBerlin\n\nthe 26th of January\n\n1805\n\nhumble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Rochtet",
+     "en": "Rochtet",
+     "kind": "other"
+    },
+    {
+     "de": "Unruhſtad",
+     "en": "Unruhstad",
+     "kind": "place"
+    },
+    {
+     "de": "Betschener",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Eysenhardſche",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100000",
+    "30000",
+    "15000",
+    "26",
+    "1805"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! At last, through the mediation of the venerable General v. Köckritz, it has been achieved that the Invalids' Department has now declared itself willing to furnish 150000 Rthl, without my having to seek permission for it from His Majesty the King, which is otherwise the course of business. The Department gives for the present, upon the mortgage and my bill of exchange, 50000 Rthl, since the Chamber must still revise the assessments, and after these the Department pays the 100000 Rthl, which, provided the interest is duly paid, may stand for 50 years. The [uncertain: populle] Depositorium, the Widows' Fund, still less the Bank or the Seehandlung, likewise pay not a farthing more into South Prussia, but are at pains to call everything in — this makes a fearful stoppage in all business and spreads such Oh! and Ah among the people that one's hair stands on end. I too should have obtained nothing, had not the worthy General taken up my cause in the most active manner. The 26 Jan 1805.\n\nThe bankers here now themselves give, merely to keep themselves afloat, 10 to 12 per cent proximaticum for 5 to 6 per cent interest; and besides Liep: Meyer Wolff each sets his own terms — he alone still has money, and thinks of those seeking money whatever pleases him. Whoever now falls into the hands of men of this sort is irretrievably lost. God and the honest friend be heartily thanked that here He allotted a better and truly the most desirable lot of all. — As soon as I now receive the money I shall pay the urgently demanded 10000 Rthl, and send Your Serene Highness with all speed the sum remaining after deduction of costs. With the Tirard and Hauk affair I am finished; tomorrow I pay the arrears of interest out of my own money, and then someone will take over the debt, which can then rest quietly for 4 years. The suit on account of the proxenetica taken I do not find well advised — the thing damages Your Serene Highness's credit anew, and frightens off all those so-called men of business who are hand in glove with one another. This was even already cast up at me in the course of this very business, and they appealed to the fact that Seebald was to bring suit and demand back the proxenetica;\n\nThe Biron affair has instilled fear and terror in all — the moral lecture which Your Serene Highness writes to me only on account of the Schlabrendorff affair I did not deserve. Any breach of word is foreign to my heart, and shall remain so to my last breath. I do not indeed know what I wrote in that agonising moment; in every point I must have expressed myself erroneously, in order to reply to Your Serene Highness's letter. — Honour remains in all my dealings the first spring of action; to it I sacrifice labour, means, and health. And the truth which I then spoke in the Pro Memoria upon the whole Schlabrendorff affair is, in my manner of it, no knavish trick. — I should curse all my dealings, and withdraw — as I am much inclined to do — into the last corner of the earth, far from all men, if in the end I were to be judged so. The Mennonites I shall answer definitely according to Your Serene Highness's command. Wöllenhaupt's judgement concerning the dismemberment of the estates is too insignificant for a further word to be said upon it. Let Your Serene Highness deign to give him the commission and promise him a few thousand, and he will undertake to dismember half the world. — I have the proofs\n\nstill before me. — [uncertain: Rochtet] matters I shall dispatch on my return to Unruhstad. The free pass for the wines must by now already be there. What the Betschen subjects want I do not understand — there must again be some store of mischief lurking in the background. Meanwhile the date of this letter is of the month of June, and indeed earlier than that of the contract. Next Wednesday I go back from here, in order to direct at [uncertain: Kalleg] the revision of the assessment, so as to obtain the 100000 Rthl the more quickly, and then to be able to dismember in peace. The Eysenhardt affair proceeds [uncertain: gradually] and well, so that Your Serene Highness will have no vexation on that account. In deepest reverence I remain, until death, Your Most Serene Highness's — Concerning the monies to be sent out to the Reich, about half of 30000 Rthl could now be got together — I thought Your Serene Highness might send these now, and promise to remit the other 15000 Rthl soon after. Berlin, the 26th of January 1805, humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord: At last, through the mediation of the venerable General von Köckritz, it has been brought about that the Invalids' Department has now declared itself willing to furnish 150000 Rthl, without my having to seek permission for it from His Majesty the King, which is otherwise the course of business. The Department gives, for the present, 50000 Rthl upon the mortgage and my bill of exchange; then the Chamber must still revise the assessments, and after these the Department pays the 100000 Rthl, which, provided the interest is duly paid, may stand for 50 years.\n\nThe [uncertain: populle] deposit fund, the Widows' Fund still less, nor the Bank or the Maritime Trading Company, pay a single heller more into South Prussia, but are rather at pains to call everything in — this causes a frightful stagnation in all business and spreads such lamentation and [uncertain: Ob.] among the people that one's hair stands on end. I too should have obtained nothing, had not the [uncertain: Braun] General taken up my cause in the most active manner. The\n\n26 Jan 1805.\n\nbankers here now themselves give, merely to keep themselves afloat, 10 to 12 per cent brokerage on 5 to 6 per cent interest; and besides, Liep: Meyer Wolff each sets his own terms — he alone still has money, and thinks of those seeking money whatever is agreeable to him. Whoever now falls into the hands of men of this sort is irretrievably lost. God and that upright friend be heartily thanked that he here allotted a better and truly the most desirable lot of all. As soon as I now receive the money I shall pay the 10000 Rthl that have been demanded, and send Your Serene Highness in all haste the remaining sum after deduction of costs.\n\nWith the Tirard and Hauk affair I am finished; tomorrow I pay the arrears of interest out of my own money, and then someone takes over the debt, which can stand quietly for 4 years. The suit concerning the brokerage taken I do not find well advised — the thing damages Your Serene Highness's credit anew, and frightens off all those so-called men of business who are hand in glove with one another. This was indeed already cast up at me in the course of this very transaction, and appeal was made to it that Seebald should bring suit and demand the brokerage back;\n\nThe Biron affair has struck fear and terror into all — the moral lesson which Your Serene Highness writes to me solely on account of the Schlabrendorff affair I did not deserve. Every breach of faith is foreign to my heart, and so it shall remain to my last breath. I do not indeed know what I wrote in that agonising moment; in every case I must have expressed myself erroneously, in giving an account according to Your Serene Highness's letter. Honour remains in all my dealings the first spring of action; to it I sacrifice toil, means, and health. And the truth which I then stated in the Pro Memoria concerning the whole Schlabrendorff affair is, according to my [uncertain: demart], no knavery. I should curse all my dealings, and withdraw — a thing to which I am much inclined — into the last corner of the earth, far from all men, if in the end I were to be judged so.\n\nThe Mennonites I shall answer definitely according to Your Serene Highness's command. Wöllenhaupt's judgement concerning the dismemberment of the estates is too inconsiderable for a further word to be said about it. Let Your Serene Highness be pleased to give him the commission and promise him a few thousand, and he assures you he will dismember half the world — I have the samples\n\nstill before me — [uncertain: Rochtet] matters I shall attend to on my return to Unruhstad. The free pass for the wines must by now already be there. What the subjects of Betsche want I do not understand — there must again be some store of trouble lurking in the background. Meanwhile the date of this letter is of the month of June, and indeed earlier than that of the contract.\n\nNext Wednesday I go back from here, in order to direct in Kalisz the revision of the assessment, so as to obtain the 100000 Rthl the sooner, and then to be able to dismember in peace. The Eysenhardt affair is proceeding [uncertain: et melang] wise and well, so that Your Serene Highness will have no vexation on that account. In deepest reverence I remain, until death, Your Most Serene Highness's — As to the moneys to be sent out into the Empire, about half of the 30000 Rthl could now be got together — I thought Your Serene Highness might send that sum now, and promise to remit the other 15000 Rthl soon after.\n\nBerlin\n\nthe 26th of January\n\n1805\n\nhumble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "Reports that through General v. Köckritz's mediation the Invalids' Department will advance 150000 Rthl without royal application: 50000 Rthl at once on mortgage and Triebenfeld's bill, the remaining 100000 Rthl after the Chamber revises the assessments, repayable over 50 years. Notes that the Depositorium, Widows' Fund, Bank and Seehandlung lend nothing into South Prussia, and bankers demand 10–12 per cent proxenetica. Promises the demanded 10000 Rthl, settles the Tirard and Hauk debt, advises against the proxenetica suit, defends himself over the Schlabrendorff affair, dismisses Wöllenhaupt on dismemberment, and proposes remitting 15000 Rthl to the Reich.",
  "summary_de": "Durch Vermittlung des Generals v. Köckritz hat sich das Invalidendepartement bereit erklärt, 150000 Rthl zu geben, davon zunächst 50000 Rthl gegen Hypothek und Wechsel, die übrigen 100000 Rthl nach Revision der Taxen, auf 50 Jahre bei pünktlicher Zinszahlung. Kreditsperre in Südpreußen, Wucher der Berliner Bankiers (Liep: Meyer Wolff). Zahlung der geforderten 10000 Rthl zugesagt; Sache Tirard und Hauk erledigt, vom Prozeß wegen der Proxenetica abgeraten. Rechtfertigung in der Schlabrendorff-Sache gegen den fürstlichen Vorwurf des Wortbruchs; Mennoniten, Wöllenhaupt, Dismembration, Betschener Untertanen, Eysenhardt; 15000 Rthl könnten ins Reich gesandt werden."
 }

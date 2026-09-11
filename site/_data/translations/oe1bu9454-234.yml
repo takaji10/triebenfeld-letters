@@ -1,52 +1,154 @@
 status: draft
 segments:
 - page: 1
-  en: 'Beginning 2. How I stand with Weigel Your Serene Highness will see from the enclosure. Since that
-    time he has already written twice more to the Jewish [uncertain: Bang eine Redlich] and enquired when,
-    where and how he might find me. I have already written to him and [uncertain: send/harm] today an
-    express messenger to Breslau still after him, that he is to come with all speed. — Should my plan
-    succeed, of which I have no doubt, then you are rid of a debt item of some 54000 Rthl, and after 9,
-    at most 10 years you will have the estates clear on that side. — It is much if some 90000-odd Rthl
-    of debts can be discharged without losing a Groschen of the substance of the estates. Now everything
-    in this matter depends on the most speedy arrival of Herr Weigel — if he presents himself, then the
-    business is surely agreeable to him, and the plan which I shall lay before him so plain to see, that
-    he will certainly enter into it and be satisfied.'
+  en: 'Beginning 2. How matters stand between me and Weigel, Your Serene Highness will see from the enclosure.
+    Since that time he has already written twice more to the Jewish [uncertain: Bang] a Redlich and enquired
+    when, where and how he might find me; I have already written to him and today am sending an express
+    messenger to Breslau to him again, that he is to come with all speed. — If my plan succeeds, of which
+    I have no doubt, then you are rid of a debt item of some 54000 Rthl, and after 9, at most 10 years
+    you will have the estates clear on that side. — It is much if some 90000 Rthl of debts are extinguished
+    without losing a Groschen of the substance of the estates. Now everything in this matter depends upon
+    the most speedy arrival of Herr Weigel — if he presents himself, then the matter is assuredly agreeable
+    to him, and the plan I shall lay before him so evident that he will certainly enter into it and be
+    satisfied.'
+  names:
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Bang
+    en: Bang
+    kind: person
+  - de: Redlich
+    en: Redlich
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Ew Durchlaucht
+    en: Your Serene Highness
+    kind: other
+  numbers:
+  - '2'
+  - '2'
+  - '54000'
+  - '9'
+  - '10'
+  - '90000'
 - page: 2
-  en: 'The Invalids'' Fund is and remains for me now the sole stone of offence — it has some 9000 Rthl
-    of arrears of interest to demand, and has therefore laid arrest upon everything, upon old as well
-    as new interest. Were it now possible that out of the Sacken estate or bequest the capital of 50 000
-    Rthl could be paid to the Invalids'' Fund, and that I could assign the 50000 Rthl to that purpose,
+  en: 'The Invalids'' Fund is and remains for me now the one stone of stumbling — it has some 9000 Rthl
+    of arrears of interest to demand, and has therefore laid an attachment upon everything, upon old as
+    well as new interest. Were it now possible that out of the Sacken estate or bequest the capital of
+    50 000 Rthl could be paid to the Invalids'' Fund, and that I could assign the 50000 Rthl to that purpose,
     then you would be master, for I should certainly not press. — This is the only means of obtaining
-    an entirely free hand. My counsel is that Prince August lend a hand to the work here, that he insist
-    upon it for his own person — [uncertain: ſchöffen] the spectacle. I am writing on that account to
-    the King, that he should command it, for he permitted at that time that the money should and must
-    be paid to me upon the mortgage. The King can also now press for it, that it be paid out of the great'
+    an entirely free hand. My counsel is that Prince August lend a hand here in the work, that he for
+    his own person insist upon it — [uncertain: ſchöffen] the spectacle. I am writing on that account
+    to the King, that he should command it, for he permitted at that time that the money should and must
+    be paid to me upon the mortgage. The King can also now press for it that it be paid out of the great'
+  names:
+  - de: Invaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: Sackenschen
+    en: Sacken
+    kind: person
+  - de: Fürst August
+    en: Prince August
+    kind: person
+  - de: König
+    en: the King
+    kind: other
+  numbers:
+  - '9000'
+  - 50 000
+  - '50000'
 - page: 3
-  en: 'bequest — the only thing would be that instead, to the Invalids'' Fund thereafter (when the old
-    woman has pasted everything over too devilishly and has even tied Prince August''s hands), interest
-    be paid yearly. — You would nevertheless be free of the accursed execution, and could, once everything
-    is arranged, draw yearly revenues of 6 to 8000 Rthl. The matter must go through by my hand. I am writing
-    to the King and say: I received the moneys at that time out of the Invalids'' Fund with Your Royal
-    Majesty''s consent. The [uncertain: Zwalden] presses me at the same time together with the Prince.
-    — The Prince owes me this or a [uncertain: könnigstiger] capital? I [uncertain: künfte] it in order
-    to satisfy the Invalids out of it — the Princes Hohenlohe, father and son, desire this too; but the
-    guardians (or whoever it now may be) resist it. Command, Your Royal Majesty, that the money which
-    I must absolutely receive be taken out of the Sacken bequest and the Invalids'' Fund be paid,'
-- page: 4
-  en: 'which must in return be bound to grant me [uncertain: Jura lehre]. — I concede at all events that
-    the Sacken estate shall for the present draw the interest from the estates of Zagorowo in my stead.
-    Only I wish thereby to be covered for the future, and to see the Prince freed from the most horrible
-    pressure. If we do it thus, then the matter is [uncertain: laid/settled] for certain; and when the
-    King himself commands it, one will not care to [uncertain: take it to heart]. Your Serene Highness,
-    consider everything well, and write to me about everything, without any foreign interference whatever,
-    with the very greatest speed. By God, everything will go very well. Only send the instrument; and
-    should it prove altogether impossible to have it [uncertain: authenticated] quickly before a court,
-    then write it out yourself and have it signed by 2 witnesses — but better it is done judicially. Very,
-    very urgent for me. This writing has cost me blood and sweat; God grant that they read it better than
-    I am able to write it. Lying in bed one does not write well. Eternally Your Serene Highness''s
+  en: 'bequest — the only thing would be that instead of to the Invalids'' Fund one should thereafter
+    (when the old woman has pasted everything over far too devilishly and has tied even Prince August''s
+    hands) pay interest yearly there. You would then be rid of the accursed execution, and could, once
+    everything is arranged, draw yearly revenues of 6 to 8000 Rthl.
 
-    Blizanow, the 6th of July 1812
+
+    The matter must go through by way of me. I write to the King and say that I received the monies at
+    that time with Your Majesty''s consent out of the Invalids'' Fund. The [uncertain: Zwalden] presses
+    me at the same time as the Prince. — Is the Prince owing me that, or a [uncertain: könnigstiger] capital?
+    I should call it in in order to satisfy the Invalids out of it — the Princes of Hohenlohe, father
+    and son, wish this too; the guardians (or whoever it now may be) forbid this. Command, Your Royal
+    Majesty, that the money which I absolutely must receive be taken out of the Sacken bequest, and the
+    Invalids'' Fund paid'
+  names:
+  - de: Invaliden Casse
+    en: the Invalids' Fund
+    kind: other
+  - de: Fürsten August
+    en: Prince August
+    kind: person
+  - de: König
+    en: the King
+    kind: other
+  - de: Ewr Majestät
+    en: Your Majesty
+    kind: other
+  - de: Zwalden
+    en: Zwalden
+    kind: other
+  - de: Fürſt
+    en: the Prince
+    kind: person
+  - de: Hohenlohe
+    en: Hohenlohe
+    kind: person
+  - de: Sackenschen
+    en: Sacken
+    kind: person
+  numbers:
+  - '6'
+  - '8000'
+- page: 4
+  en: 'which must in return be bound to give me [uncertain: Jura lehre] — I concede if need be that the
+    Sacken estate should for the present draw the interest out of the estates of Zagorowo in my stead.
+    Only I wish thereby to be covered for the future, and to see the Prince freed from the most hideous
+    pressure. If we do it so, the matter is assuredly settled, and if the King himself commands it, one
+    will not wish to [text lost]. Your Serene Highness, consider it all well, and write to me about everything
+    without any foreign interference whatever, with the utmost speed. By God, all will go very well. Only
+    send the instrument, and should it be quite impossible for it to be authenticated [uncertain: quickly
+    in court], then write it yourself and have it signed by 2 witnesses — but it is better done before
+    a court; very, very urgent for me. The writing has cost me blood and sweat. God grant that you can
+    read it better than I am able to write it. Lying in bed one does not write well. Ever
+
+
+    Your Serene Highness''s
+
+
+    Blizanow, the 6th July 1812
+
 
     faithful servant
 
-    v Triebenfeld'
+
+    v. Triebenfeld'
+  names:
+  - de: Sackensche
+    en: Sacken
+    kind: person
+  - de: Zagorowo
+    en: Zagorowo
+    kind: place
+  - de: Fürsten
+    en: the Prince
+    kind: person
+  - de: König
+    en: the King
+    kind: other
+  - de: Ewr Durchlaucht
+    en: Your Serene Highness
+    kind: other
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  numbers:
+  - '2'
+  - 6ten
+  - '1812'

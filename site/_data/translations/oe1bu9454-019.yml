@@ -1,50 +1,123 @@
 status: draft
 segments:
 - page: 1
-  en: 'Appendix. 2) 6 July 1812
+  en: 'Appendix.
 
 
-    The affair with the Herr von Sobottendorff is of the greatest importance for Your Serene Highness.
-    You put off a man to whom you owe 40000 Rthl, and you lose nothing of your present revenues, still
-    less do you diminish the substance of your estates; [uncertain: 18 years throughout the] lease — the
-    interest you keep free of encumbrance, and no creditor may [text lost] It is a great lease, but from
-    where is the man to be satisfied? Meanwhile this too can only succeed now, because I have come to
-    terms with Tschachmann or Cybalski and with Heinrich, to whom, however, on account of 1300 Rthl of
-    withdrawal-money, I must give a mortgage upon my Blizanow; all these grounds, together with buildings
-    and some remaining meadows, I lease to Herr v Sobottendorff for 18 years for 36000 Rthl; if [uncertain:
-    2t er] he is a good husbandman, he can make it come out; the soil is very good. — [uncertain: Mir]
-    observe'
+    2) 6 July 1812 The business with the gentlemen before Sobottendorff is of the greatest importance
+    to Your Serene Highness; you are putting off a man to whom you owe 40000 Rthl, and you lose nothing
+    of your present revenues, still less do you diminish the substance of your estates — 18 years [uncertain:
+    runs] the lease — the interest you keep free and no creditor may [text lost] It is a great lease,
+    but from whence is the man to be satisfied?
+
+
+    Meanwhile this too can only succeed now because I have come to an agreement with Tschachmann or Cybalski
+    and with Hainrich — to whom, however, on account of 1300 Rthl of relinquishment I must give a mortgage
+    upon my Blizanow. All these grounds, together with the buildings and some meadows still remaining,
+    I lease to Mr. von Sobottendorff for 18 years for 36000 Rthl; if he is a good husbandman he can bring
+    it out, the soil is very good. — I note to myself'
+  names:
+  - de: Sobottendorff
+    en: Sobottendorff
+    kind: person
+  - de: Tschachmann
+    en: Tschachmann
+    kind: person
+  - de: Cybalski
+    en: Cybalski
+    kind: person
+  - de: Hainrich
+    en: Hainrich
+    kind: person
+  - de: Blizanow
+    en: Blizanow
+    kind: place
+  numbers:
+  - 2)
+  - '6'
+  - '1812'
+  - '40000'
+  - '18'
+  - '1300'
+  - '18'
+  - '36000'
 - page: 2
-  en: 'that all this must happen very quickly. I await most longingly the arrival of the Herren v Sobottendorffs.
-    Let Your Serene Highness see to it that the people come here quickly, and send me as speedily as possible
-    the instrument as I have prescribed it to you, for Your Serene Highness can only authorise me to collect
-    moneys which are free — but here at present everything is laid under arrest, and I can only seek to
-    procure moneys in my capacity as creditor — the French [illegible] Decree entitles me before all others
-    — by the instrument you are to issue I mean only to choose the shortest road to obtaining money and
-    keeping the machinery in motion until I prevail. From nowhere can I take anything; daily there are
-    expenses, the messengers'' costs, without the carriage-hire, [uncertain: zahil] running over, so that
-    today already 2 [uncertain: Ortl.] have again been sent to Kalisz and to [uncertain: Kopojer] and
-    Ko; the accursed Lorenz eats up, altogether everything goes away with the judges, and when one has
-    won one over, then'
+  en: 'that all this must happen very quickly. I await most longingly the arrival of the gentlemen von
+    Sobottendorff. Let Your Serene Highness see to it that the people come here quickly, and [uncertain:
+    send] me as speedily as possible the instrument as I have prescribed it to you, for Your Serene Highness
+    can only authorise me to collect monies which are free — but here everything is at present laid under
+    arrest, and I can only seek to obtain monies as a creditor — the French G. decree entitles me before
+    all others — by the instrument you are to issue I wish only to choose the shortest road to getting
+    money and to keeping the machinery in motion until I prevail. From nowhere can I take anything; daily
+    there are outlays, the messengers cost, without the carriage-hire, [uncertain: an overrunning sum];
+    today already 2 [uncertain: places] have again been sent to Kalisz and to Kopojer and Ko; the cursed
+    Lorenz devours, makes away with everything along with the judges, and when one has won one over, then'
+  names:
+  - de: Sobottendorffs
+    en: Sobottendorff
+    kind: person
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Kopojer
+    en: Kopojer
+    kind: place
+  - de: Ko
+    en: Ko
+    kind: place
+  - de: Lorenz
+    en: Lorenz
+    kind: person
+  numbers:
+  - '2'
 - page: 3
-  en: 'death and the devil fetch him away again. For the lawsuit at Warsaw 300 Rthl are now suddenly required;
-    Almighty God knows where I am to take them from — but win the suit I must, for through it we obtain
-    not only air on every side, but also hard money to offer [uncertain: um hätze bieten]. Concerning
-    the Wytwiver suit I shall probably receive news today or tomorrow — that one must be won, and then
-    you will receive 4000 Rthl in ready interest; the matter has nothing whatever to do with the one here.
-    I am having it pursued through Salz, so that the creditors [uncertain: nothing further]. The coarse
-    [uncertain: Schliefen] will thereby have his mouth stopped too, and a disgrace will be taken from
-    me and from my [uncertain: Schweiner]. But do not, my Prince, let yourself be advised again by shifty
-    people, and [uncertain: send/do] any other instrument than the one I have prescribed — for otherwise
-    everything goes to the'
+  en: 'death and the devil fetch him away again. For the lawsuit at Warsaw 300 Rthl will now quickly be
+    required; almighty God knows where I am to take them from — but win the suit I must, for through it
+    we obtain not only air on every side but also hard money to [uncertain: offer for baiting].
+
+
+    Concerning the Wytwiver suit I shall probably receive news today or tomorrow — that one must be won,
+    and then you will get 4000 Rthl in cash interest; the matter has nothing whatever to do with the one
+    here; I am having it pursued through Salz so that the creditors [text lost] nothing further. Then
+    the coarse [uncertain: Schliefen] will also have his mouth stopped, and a disgrace will be taken from
+    me and from my [uncertain: Schweiner].
+
+
+    But do not, my Prince, let yourself be advised again by shifty people, and [uncertain: issue] an instrument
+    other than the one I have prescribed — for otherwise the whole goes to the'
+  names:
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Wytwiver
+    en: Wytwiver
+    kind: other
+  - de: Salz
+    en: Salz
+    kind: person
+  - de: Schliefen
+    en: Schliefen
+    kind: person
+  numbers:
+  - '300'
+  - '4000'
 - page: 4
-  en: 'devil — I mean it towards you heartily, honestly and well, both morally and physically; my children
-    often go hungry along with me, and that because I am too grievously entangled in your affairs; I suffer
-    and endure, with what is mine, everything possible — it must surely get better one day; we are once
-    for all interwoven with one another and, so to speak, married; we must now [uncertain: abhobet] hold
-    out and pull at the same rope together. We shall yet have many a struggle to sustain, but with God''s
-    assistance I hope still to obtain every advantage for us both. That [uncertain: Sommer] thus shot
-    past the mark alongside it, and that you say the pressure will not last long, gives me great pleasure
-    — Herr S. is a wicked man; he said he had not a Groschen for the return journey, and that his horse
-    was galled as well; I had 4 Rthl., these I gave him, and one after another; afterwards he had a great
-    deal of Gold about him, horse'
+  en: 'devil — I mean it toward you heartily, honestly and well; I [uncertain: suffer] both morally and
+    physically; my children often go hungry with me, and that because I am too grievously entangled in
+    your affairs; I suffer and endure with mine, but everything possible — it must after all one day become
+    better; we are once for all woven together and, so to speak, married; we must now [uncertain: after
+    all] hold out and pull at the same rope with one another. We shall yet have many a struggle to sustain,
+    but with God''s assistance I hope still to prevail in every way for us both. That [uncertain: Sommer]
+    thus shot past beside the mark, and that you say the [uncertain: pressure] will not last long, gives
+    me great joy — Mr. S. is a wicked man; he said he had not a Groschen for the return journey and that
+    his horse was galled; I had 4 Rthl., which I gave him, and afterwards, one after another, he had much
+    Gold about him. Horse'
+  names:
+  - de: Sommer
+    en: Sommer
+    kind: person
+  - de: Herr S.
+    en: Mr. S.
+    kind: person
+  numbers:
+  - '4'

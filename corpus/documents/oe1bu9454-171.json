@@ -77,20 +77,120 @@
   }
  ],
  "mentions": [],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Kriegs und Forst Rath",
+   "surface_en": "Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Order of St Andrew",
+   "kind": "other",
+   "surface_de": "Andreas Orden",
+   "surface_en": "Order of St Andrew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "HehenLohn",
+   "kind": "other",
+   "surface_de": "HehenLohn",
+   "surface_en": "HehenLohn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wennar",
+   "kind": "place",
+   "surface_de": "Wennar",
+   "surface_en": "Wennar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Erfurt",
+   "kind": "place",
+   "surface_de": "Erfurt",
+   "surface_en": "Erfurt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A. Hahn",
+   "kind": "person",
+   "surface_de": "A. Hahn",
+   "surface_en": "A. Hahn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Erfurt",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests,\n\nSince I know that Your Right Honourable takes an interest in news of my most gracious Lord, I permit myself to convey to the same the assurance that His Serene Highness is almost entirely healed of the affliction on his foot, and is otherwise in perfectly good health; the foot is only very little more swollen, and causes no pain. His Serene Highness wishes to be most kindly commended [to you]; the Order of St Andrew has given pleasure, yet the obliging conduct of His Majesty the Emperor has produced still more gratification."
+   "en": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. Since I know that news of my most gracious Lord is of interest to Your Right Honourable, I take the liberty of conveying to you the assurance that His Serene Highness is almost entirely healed of the [uncertain: Bibel] on his foot, and in all else perfectly well; the foot is only a little more swollen, and causes no pain. His Serene Highness wishes to be most kindly commended to you; the Order of St Andrew has given pleasure, yet the gracious conduct of His Majesty the Emperor has afforded still more gratification.",
+   "names": [
+    {
+     "de": "Kriegs und Forst Rath",
+     "en": "Councillor of War and Forests",
+     "kind": "other"
+    },
+    {
+     "de": "Andreas Orden",
+     "en": "Order of St Andrew",
+     "kind": "other"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "The Prince is quite enchanted by this young and obliging monarch. In Breslau too the Emperor is said to have spoken of His Serene Highness in the most flattering terms. Today the Regiment Hohenlohe marched through here; the Prince had ridden out to meet it. Tomorrow the Duke of Weimar is expected here. I commend myself to Your Right Honourable's favour, and have the honour to remain, in the most unbounded esteem,\n\nYour Right Honourable's\n\nErfurt, 24 Nov. 1805\n\nhumble and obedient servant\nA. Hahn"
+   "en": "The Prince is quite enchanted by this young and gracious monarch. In Breslau too the Emperor is said to have spoken of His Serene Highness in the most flattering terms.",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "HehenLohn",
+     "en": "HehenLohn",
+     "kind": "other"
+    },
+    {
+     "de": "Wennar",
+     "en": "Wennar",
+     "kind": "place"
+    },
+    {
+     "de": "Erfurt",
+     "en": "Erfurt",
+     "kind": "place"
+    },
+    {
+     "de": "A. Hahn",
+     "en": "A. Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "24",
+    "1805"
+   ]
   }
  ],
- "text_english": "Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests,\n\nSince I know that Your Right Honourable takes an interest in news of my most gracious Lord, I permit myself to convey to the same the assurance that His Serene Highness is almost entirely healed of the affliction on his foot, and is otherwise in perfectly good health; the foot is only very little more swollen, and causes no pain. His Serene Highness wishes to be most kindly commended [to you]; the Order of St Andrew has given pleasure, yet the obliging conduct of His Majesty the Emperor has produced still more gratification.\n\nThe Prince is quite enchanted by this young and obliging monarch. In Breslau too the Emperor is said to have spoken of His Serene Highness in the most flattering terms. Today the Regiment Hohenlohe marched through here; the Prince had ridden out to meet it. Tomorrow the Duke of Weimar is expected here. I commend myself to Your Right Honourable's favour, and have the honour to remain, in the most unbounded esteem,\n\nYour Right Honourable's\n\nErfurt, 24 Nov. 1805\n\nhumble and obedient servant\nA. Hahn",
+ "text_english": "Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. Since I know that news of my most gracious Lord is of interest to Your Right Honourable, I take the liberty of conveying to you the assurance that His Serene Highness is almost entirely healed of the [uncertain: Bibel] on his foot, and in all else perfectly well; the foot is only a little more swollen, and causes no pain. His Serene Highness wishes to be most kindly commended to you; the Order of St Andrew has given pleasure, yet the gracious conduct of His Majesty the Emperor has afforded still more gratification.\n\nThe Prince is quite enchanted by this young and gracious monarch. In Breslau too the Emperor is said to have spoken of His Serene Highness in the most flattering terms.",
  "summary_en": "Reports on the Prince's health: the affliction of his foot is almost entirely healed, only slightly swollen and painless, and he is otherwise well. The Order of St Andrew pleased him, but the obliging conduct of the Emperor gratified him still more, and he is enchanted by the young monarch, who reportedly spoke flatteringly of him in Breslau. The Regiment Hohenlohe marched through Erfurt, the Prince riding out to meet it; the Duke of Weimar is expected next day.",
  "summary_de": "Nachricht über den Gesundheitszustand des Fürsten: das Fußleiden sei nahezu geheilt, die Schwellung geringfügig und schmerzlos, im Übrigen sei Seine Durchlaucht ganz wohlauf. Der verliehene Andreas-Orden habe Freude gemacht, mehr noch das verbindliche Betragen des Kaisers, von dem der Fürst ganz entzückt sei; auch in Breslau habe der Kaiser sich höchst schmeichelhaft über ihn geäußert. Das Regiment Hohenlohe sei durchmarschiert, der Fürst ihm entgegengeritten; für den folgenden Tag werde der Herzog von Weimar erwartet."
 }

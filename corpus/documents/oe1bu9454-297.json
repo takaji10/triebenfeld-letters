@@ -384,28 +384,688 @@
    "doc_line": 123
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schläwenschick",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Boidelang",
+   "kind": "person",
+   "surface_de": "Boidelang",
+   "surface_en": "Boidelang",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Boide",
+   "kind": "person",
+   "surface_de": "Boide",
+   "surface_en": "Boide",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Baibet",
+   "kind": "person",
+   "surface_de": "Baibet",
+   "surface_en": "Baibet",
+   "page": 1
+  },
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzcinski",
+   "surface_en": "Trzciński",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Böhle",
+   "kind": "place",
+   "surface_de": "Böhle",
+   "surface_en": "Böhle",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 2
+  },
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzcinski",
+   "surface_en": "Trzciński",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pally",
+   "kind": "person",
+   "surface_de": "Pally",
+   "surface_en": "Pally",
+   "page": 2
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulm",
+   "surface_en": "Kulm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
+   "page": 2
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 2
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichaust",
+   "surface_en": "Echaust",
+   "page": 2
+  },
+  {
+   "entity": "kurnatowski",
+   "display": "Kurnatowski",
+   "kind": "person",
+   "surface_de": "Kurnatowski",
+   "surface_en": "Kurnatowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Miedzeritz",
+   "kind": "place",
+   "surface_de": "Miedzeritz",
+   "surface_en": "Miedzeritz",
+   "page": 2
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 3
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichaust",
+   "surface_en": "Echaust",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Scheack",
+   "surface_en": "Schenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Carl von Zerboni",
+   "kind": "person",
+   "surface_de": "Carl von zerboni",
+   "surface_en": "Carl von Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Zerboni, Chief President",
+   "kind": "person",
+   "surface_de": "Hl. O. P v. Zerboni",
+   "surface_en": "von Zerboni, Chief President",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zesboni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schenck's",
+   "kind": "person",
+   "surface_de": "Schencks",
+   "surface_en": "Schenck's",
+   "page": 4
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerobni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Collores",
+   "kind": "person",
+   "surface_de": "Collores",
+   "surface_en": "Collores",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Käufer",
+   "kind": "person",
+   "surface_de": "Käufer",
+   "surface_en": "Käufer",
+   "page": 4
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kehr",
+   "kind": "place",
+   "surface_de": "Kehr",
+   "surface_en": "Kehr",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Verena",
+   "kind": "place",
+   "surface_de": "Verena",
+   "surface_en": "Verena",
+   "page": 4
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prussiemski",
+   "surface_en": "Prussiemski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitz",
+   "surface_en": "Grevenitz",
+   "page": 4
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Blizanow",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, most gracious Prince and Lord! With a heart wholly given over to the bitterest grief and sorrow I write these few lines, so that Your Serene Highness may know that I am still alive and where I am. But with which [uncertain: zeremieden] I am to begin — each is the most raging pain, the loss — I do not yet know: that of my daughter, whom death carried off four days after her confinement, when from town, God preserve us, I still received word in [uncertain: Schläwenschick] — to each such heart-rending grief away from it. The second shock, for after which also [uncertain: Boidelang] announced the decease of the said Barbe. Boide does indeed write that he would compensate me for all that I have lost in Barbe — but is he already certain in [uncertain: Baibet]'s place? The third piece of news given me was that Trzcinski, having laid himself in bed very drunk, had suffocated in the night in an overheated room — how all this worked upon me, Your Serene Highness can hardly imagine. The infamous delayed decision of Zerboni, the swift departure of the Emperor, the failure of the fifth Chancellor to appear, all this struck me to the ground — the podagra seized me, I was in Betsche, a frightful haemorrhoidal colic overcame me, I saw myself compelled, in order to obtain help, to have myself brought also to Posen; I took a fresh chill and the podagra rose only into the body, and now I had little more upon the tally, all the more as the physician gave me up. Now I took my old method of cure to my aid, and continually dressed the body with Spanish-fly plaster, whereby the gout was made mobile and drew itself out of the [uncertain: Lüb], into the small of the back and into the hip — the greatest danger is indeed now lifted, but I can"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nWith a heart overcome by the bitterest grief and sorrow I write these few lines, that Your Serene Highness may know that I am still alive and where I am. But with which [uncertain: ceremony] I am to begin, each is the most raging pain, the loss\n\nI do not yet know — of my daughter; death carried her off four days after her lying-in, when — God preserve us from town — I still received news in Schlawenschitz, away from every such heart-cutting grief. The second shock for [uncertain: after] what, where also Boidelang announced the decease of the aforesaid Barbe. Boide indeed writes that he would [uncertain: make good to] me all that I have lost in Barbe — but is he already certainly in Baibet's place?\n\nThe third report brought me word that Trzciński in Warsaw, having gone to bed very drunk, suffocated in the night in an overheated room — how all this worked upon me Your Serene Highness can scarcely imagine.\n\nZerboni's infamous delayed decision, the Emperor's swift departure, the failure of the fifth Chancellor to appear, all this cast me to the ground — the gout seized me; I was in Betsche, a dreadful haemorrhoidal colic came over me, I found myself obliged, in order to obtain help, also to have myself brought to Posen; I caught cold anew and the gout mounted only into the body, and now I had little more on the tally, all the more as the physician gave me up. Now I took my old method of cure to my aid and constantly applied [uncertain: Spanish] fly-plasters to the body, whereby the humour was made mobile and drew out of the body, into the small of the back and into the hip — the greatest danger is indeed now lifted, but I can",
+   "names": [
+    {
+     "de": "Schläwenschick",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Boidelang",
+     "en": "Boidelang",
+     "kind": "person"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Boide",
+     "en": "Boide",
+     "kind": "person"
+    },
+    {
+     "de": "Baibet",
+     "en": "Baibet",
+     "kind": "person"
+    },
+    {
+     "de": "Trzcinski",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "as yet not walk; nevertheless I have had myself brought to Blizanow, risky and painful as this was for me, in order here, if possible, to recover the sooner under better care. I now lie here and suffer in body and soul — I can do little at present; but let me by God's grace become well, and I shall begin the work anew. Schenck too has left me and has gone off with a [uncertain: Bohlen] to Warsaw. He was already too costly a companion to me; the journey to [uncertain: Böhle] and Betsche cost, there and back, 247 Rthl; the physician and the medicines cost me altogether some 70 Rthl. From Trzcinski nothing is now to be hoped; one must wait and see how his wife will declare herself. In the Betsche affair I have effected something further in Posen: I have had many papers extracted, which indeed cost 22 ducats, but which will be of such use that I shall wrangle out satisfaction for Pally and Lombardini, and perhaps even something more. The tenants have applied for the annulment of the contract — but the contract is so binding, and Zerboni holds it for a masterpiece; let the tenants pay the arrears, then they may be heard as to the [uncertain: hächlirung] of the contract. From Kulm and Kaemen nothing is to be hoped, according to Zerboni's assurance, for the Bank swallows that. — When I am well, I shall make it my first business to come to terms with Leixner. May Heaven grant this. The forest devastation, and the ruin of the management, as well as other frauds of Eichaust and of the sub-prefect Kurnatowski, Schenck was to examine more closely after I fell ill — but he has only warmed up again what I deciphered a year and a half ago in Miedzeritz. So much has still happened before the onset of my severe illness: that the forest servants must give attestations that the forest has been ruined by Eichaust to the amount of 170000 Rthl. Zerboni wishes that full information on everything be procured for him."
+   "en": "stand for the present, nor walk; nevertheless I have had myself brought to Blizanow, however risky and painful this was for me, in order here, if possible, under better care, to recover the sooner.\n\nI now lie here and suffer in body and soul — I can do little at present, but if God grants me health again, I shall begin the work anew. Schenck too has left me and has gone off to Warsaw with a [uncertain: Pole]. He was for me only too costly a companion; the journey to [uncertain: Böhle] and Betsche cost, there and back, 247 Rthl; the physician and the medicines cost me in all about 70 Rthl. From Trzciński nothing is now to be hoped; it must be awaited how his wife will declare herself. In the Betsche affair I have effected somewhat more in Posen; I have had many papers extracted, which indeed cost 22 ducats, but which will be of such use that I shall wring out satisfaction for Pally and Lombardini, and perhaps even something more. The residents have applied for the annulment of the contract — but the contract is drawn so bindingly, and Zerboni holds it for a masterpiece; let the residents pay the arrears, and then they may be heard on the [uncertain: rescission] of the contract.\n\nFrom Kulm and Kaemen nothing is to be hoped, according to Zerboni's assurance, for the bank swallows that up. — When I am well, I shall make it my first business to come to terms with Leixner. May Heaven grant this. The devastation of the forest and the [uncertain: mismanagement] of the economy, and other frauds of Echaust and of the sub-prefect Kurnatowski, Schenck was to have examined more closely after I fell ill — but he has only warmed up again what I deciphered a year and a half ago in Miedzeritz. So much at least happened before the onset of my severe illness, that the forest servants must give attestations that the forest has been ruined by Echaust to the amount of 170000 Rthl.\n\nZerboni wishes that full information on everything be procured for him.",
+   "names": [
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Böhle",
+     "en": "Böhle",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Trzcinski",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Pally",
+     "en": "Pally",
+     "kind": "person"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Kulm",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Eichaust",
+     "en": "Echaust",
+     "kind": "person"
+    },
+    {
+     "de": "Kurnatowski",
+     "en": "Kurnatowski",
+     "kind": "person"
+    },
+    {
+     "de": "Miedzeritz",
+     "en": "Miedzeritz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "247",
+    "70",
+    "22",
+    "1½",
+    "170000"
+   ]
   },
   {
    "page": 3,
-   "en": "Schenck has promised this, but he knows well how it must be effected, and excuses himself on the ground that he has no general power of attorney for the prosecution of the Betsche business. I told him I would write to Your Serene Highness on that account. He appears not to understand this matter, because it is more a [uncertain: freiegelt Güntel] affair — what does he mean to [uncertain: erairnen], what monita does he mean to draw up, when he does not have the accounts rendered by those rascals? These I shall demand with every right, and they must absolutely be given me by law. Should I then find more timber sales and other things than are entered in the account, the fraud is thereby proved, and Eichaust's own known property must then serve me as compensation. — May Your Serene Highness therefore deign to answer me, and indeed in your own hand, and Your Right Honourable are too well convinced of my readiness in all the proposals you make me, without hesitation, to be able to regard it as a mark of mistrust if this time I do not approve the issuing of a general power of attorney in the Betsche matter for Assessor Schenck. The cause is not an aversion against any person — it is merely the upholding of my honour, and not to be mocked on account of the many powers of attorney to be given. Herr von Schenck already has a power of attorney from me, and Your Right Honourable have a general power of attorney cum facultate substituendi which points to my affairs; so, if a further power of attorney be necessary, let the same be granted, to which I herewith authorise you; such — you will surely, upon riper reflection, be of one"
+   "en": "Schenck has promised this, but he well knows how this must be brought about, and excuses himself on the ground that he has no general power of attorney for the prosecution of the Betsche business. I told him that I would write to Your Serene Highness on that head. He appears not to understand this matter, because it is more a [uncertain: freehold Güntel] matter — what does he mean to [uncertain: obtain], what objections does he mean to raise, if he does not have the accounts rendered by those rogues? These I shall demand with full right, and they must absolutely be given to me by law. Should I then find more timber sales and other things than stand entered in the account, then the fraud is proven, and Echaust's own known property must then serve me as compensation. — May Your Serene Highness therefore deign to answer me, but with your own hand, and Your Right Honourable is too well convinced of my readiness in all the proposals you make me, without hesitation and [uncertain: readily], to be able to regard it as a mistrust if this time I do not [uncertain: consent to] the issuing of a general power of attorney in the Betsche matter to Assessor Schenck. The cause is not aversion against any person — it is merely the upholding of my honour, and not to be mocked on account of the many powers of attorney to be given.\n\nAlready Mr von Schenck has a power of attorney from me, and Your Right Honourable has a general power of attorney with the faculty of substitution which points to my affairs; so if it is still necessary to give a power of attorney, let the same be granted, for which I hereby forthwith authorise you; such as you will certainly, upon riper consideration, be with me",
+   "names": [
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Eichaust",
+     "en": "Echaust",
+     "kind": "person"
+    },
+    {
+     "de": "Scheack",
+     "en": "Schenck",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 4,
-   "en": "opinion with me, if you consider that I see everything I could obtain from Betsche has been ceded to Carl von Zerboni and by him again to himself. That the rendering of the report by Herr O. P. v. Zerboni has been so greatly delayed is for me an unspeakable injury; I regret nothing more than that I did not then give them more hearing, and let you travel to Paris. Now I willingly grant that they prosecute the matters by the diplomatic route etc. etc. I myself spoke with Zerboni twice, indeed, in Posen; he promises to do everything, but wishes first to be instructed. He seemed somewhat dissatisfied with Schenck's presentation — He told me: Herr Schenck speaks much and in the end says nothing. — See to it that I am well [uncertain: anfält] set up in everything, then I shall gladly act. He promised solemnly to write to Your Serene Highness about everything. On the return journey I dictated the accompanying letter in Your Serene Highness's name to Zerboni, for I could no longer walk or stand — but Schenck has done nothing further than submitted a separate petition to the Government Director Collores, upon which nothing has yet been resolved. In short, as soon as I am certain I shall go to Posen and Betsche. I request all the accounts rendered, take the calculator Käufer to assist, and draw up the monita, from which alone it will appear. Thereafter I shall negotiate with Leixner and see what is to be [uncertain: welten] of Betsche. According to Zerboni's assurance, however, nothing is to be [uncertain: hoped] from Kehr and Verena; he says the moneys for the payment of the estates were taken out of the [uncertain: Brodgenomen], and that here nothing would be let slip — for more than was actually paid (as pledge-money) the daughter of Prussiemski would hardly be [uncertain: zu geringen], and the fiscus too would lay its hand upon whatever might remain over. [uncertain: Schend] to hold out through all these dealings — for that I have no funds, since the Gl. f. given me are almost all gone — he reckons that Posen journey high besides, for which he demands reimbursement. What Grevenitz writes concerning Cosmar, Your Serene Highness will see from the two letters of the 8th and 14th — it is well that the Minister has ordered this matter to be decided quickly, and does not let the formam fall. Reverently I remain, Your Serene Highness's Blizanow, the 19th of December 1815. most humble and obedient servant v Triebenfeld"
+   "en": "of one and the same opinion, if you consider that I have ceded everything I could obtain from Betsche to Carl von Zerboni, and he again to himself. That the rendering of the report by Chief President von Zerboni has been so greatly delayed is an unspeakable injury to me; I regret nothing more than that I did not then give you more hearing and let you travel to Paris. Now I gladly grant that you pursue matters by the diplomatic route, etc. etc.\n\nI myself spoke with Zerboni twice in Posen; he promises to do everything, but wishes first to be informed. He seemed somewhat dissatisfied with Schenck's presentation — He said to me, Mr Schenck speaks much and, for all that, says nothing. — See to it that I am well [uncertain: instructed] in everything, then I shall gladly act. He [uncertain: promised] solemnly to write to Your Serene Highness about everything. On the return journey I dictated the accompanying letter to Zerboni in the name of Your Serene Highness, for I could no longer walk or stand — but Schenck has done nothing further than submitted a separate petition to the Director of Government Collores, upon which nothing has yet been resolved.\n\nIn short, as soon as I am [uncertain: certain] I shall go to Posen and Betsche. I shall ask for all the accounts rendered, take the calculator Käufer to that work, and draw up the objections, from which alone it will appear. Thereafter I shall negotiate with Leixner and see what is to be [uncertain: gained] from Betsche. According to Zerboni's assurance, however, nothing is to be hoped from Kehr and Verena; he says the monies for the payment of the estates were taken out of the [uncertain: bread], and that nothing here could escape him — for more than was actually paid (as pledge-money) the daughter of Prussiemski would hardly be [uncertain: content], and the treasury too would lay its hand upon it if anything were left over. To hold out through all these trains of business — for that I have no funds, for the [illegible] given me are almost all gone — he moreover reckons that Posen journey high, for which he demands reimbursement. What Grevenitz writes concerning Cosmar, Your Serene Highness will see from the two letters of the 8th and 14th — it is good that the Minister has ordered this matter to be decided quickly, and lets the form [uncertain: drop]. Most reverently I remain\n\nYour Serene Highness's\n\nBlizanow, the 19th of December\n\n1815.\n\nmost humble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Carl von zerboni",
+     "en": "Carl von Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Hl. O. P v. Zerboni",
+     "en": "von Zerboni, Chief President",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Zesboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Schencks",
+     "en": "Schenck's",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Zerobni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Collores",
+     "en": "Collores",
+     "kind": "person"
+    },
+    {
+     "de": "Käufer",
+     "en": "Käufer",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Kehr",
+     "en": "Kehr",
+     "kind": "place"
+    },
+    {
+     "de": "Verena",
+     "en": "Verena",
+     "kind": "place"
+    },
+    {
+     "de": "Prussiemski",
+     "en": "Prussiemski",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitz",
+     "en": "Grevenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "8",
+    "14",
+    "19",
+    "1815"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, most gracious Prince and Lord! With a heart wholly given over to the bitterest grief and sorrow I write these few lines, so that Your Serene Highness may know that I am still alive and where I am. But with which [uncertain: zeremieden] I am to begin — each is the most raging pain, the loss — I do not yet know: that of my daughter, whom death carried off four days after her confinement, when from town, God preserve us, I still received word in [uncertain: Schläwenschick] — to each such heart-rending grief away from it. The second shock, for after which also [uncertain: Boidelang] announced the decease of the said Barbe. Boide does indeed write that he would compensate me for all that I have lost in Barbe — but is he already certain in [uncertain: Baibet]'s place? The third piece of news given me was that Trzcinski, having laid himself in bed very drunk, had suffocated in the night in an overheated room — how all this worked upon me, Your Serene Highness can hardly imagine. The infamous delayed decision of Zerboni, the swift departure of the Emperor, the failure of the fifth Chancellor to appear, all this struck me to the ground — the podagra seized me, I was in Betsche, a frightful haemorrhoidal colic overcame me, I saw myself compelled, in order to obtain help, to have myself brought also to Posen; I took a fresh chill and the podagra rose only into the body, and now I had little more upon the tally, all the more as the physician gave me up. Now I took my old method of cure to my aid, and continually dressed the body with Spanish-fly plaster, whereby the gout was made mobile and drew itself out of the [uncertain: Lüb], into the small of the back and into the hip — the greatest danger is indeed now lifted, but I can\n\nas yet not walk; nevertheless I have had myself brought to Blizanow, risky and painful as this was for me, in order here, if possible, to recover the sooner under better care. I now lie here and suffer in body and soul — I can do little at present; but let me by God's grace become well, and I shall begin the work anew. Schenck too has left me and has gone off with a [uncertain: Bohlen] to Warsaw. He was already too costly a companion to me; the journey to [uncertain: Böhle] and Betsche cost, there and back, 247 Rthl; the physician and the medicines cost me altogether some 70 Rthl. From Trzcinski nothing is now to be hoped; one must wait and see how his wife will declare herself. In the Betsche affair I have effected something further in Posen: I have had many papers extracted, which indeed cost 22 ducats, but which will be of such use that I shall wrangle out satisfaction for Pally and Lombardini, and perhaps even something more. The tenants have applied for the annulment of the contract — but the contract is so binding, and Zerboni holds it for a masterpiece; let the tenants pay the arrears, then they may be heard as to the [uncertain: hächlirung] of the contract. From Kulm and Kaemen nothing is to be hoped, according to Zerboni's assurance, for the Bank swallows that. — When I am well, I shall make it my first business to come to terms with Leixner. May Heaven grant this. The forest devastation, and the ruin of the management, as well as other frauds of Eichaust and of the sub-prefect Kurnatowski, Schenck was to examine more closely after I fell ill — but he has only warmed up again what I deciphered a year and a half ago in Miedzeritz. So much has still happened before the onset of my severe illness: that the forest servants must give attestations that the forest has been ruined by Eichaust to the amount of 170000 Rthl. Zerboni wishes that full information on everything be procured for him.\n\nSchenck has promised this, but he knows well how it must be effected, and excuses himself on the ground that he has no general power of attorney for the prosecution of the Betsche business. I told him I would write to Your Serene Highness on that account. He appears not to understand this matter, because it is more a [uncertain: freiegelt Güntel] affair — what does he mean to [uncertain: erairnen], what monita does he mean to draw up, when he does not have the accounts rendered by those rascals? These I shall demand with every right, and they must absolutely be given me by law. Should I then find more timber sales and other things than are entered in the account, the fraud is thereby proved, and Eichaust's own known property must then serve me as compensation. — May Your Serene Highness therefore deign to answer me, and indeed in your own hand, and Your Right Honourable are too well convinced of my readiness in all the proposals you make me, without hesitation, to be able to regard it as a mark of mistrust if this time I do not approve the issuing of a general power of attorney in the Betsche matter for Assessor Schenck. The cause is not an aversion against any person — it is merely the upholding of my honour, and not to be mocked on account of the many powers of attorney to be given. Herr von Schenck already has a power of attorney from me, and Your Right Honourable have a general power of attorney cum facultate substituendi which points to my affairs; so, if a further power of attorney be necessary, let the same be granted, to which I herewith authorise you; such — you will surely, upon riper reflection, be of one\n\nopinion with me, if you consider that I see everything I could obtain from Betsche has been ceded to Carl von Zerboni and by him again to himself. That the rendering of the report by Herr O. P. v. Zerboni has been so greatly delayed is for me an unspeakable injury; I regret nothing more than that I did not then give them more hearing, and let you travel to Paris. Now I willingly grant that they prosecute the matters by the diplomatic route etc. etc. I myself spoke with Zerboni twice, indeed, in Posen; he promises to do everything, but wishes first to be instructed. He seemed somewhat dissatisfied with Schenck's presentation — He told me: Herr Schenck speaks much and in the end says nothing. — See to it that I am well [uncertain: anfält] set up in everything, then I shall gladly act. He promised solemnly to write to Your Serene Highness about everything. On the return journey I dictated the accompanying letter in Your Serene Highness's name to Zerboni, for I could no longer walk or stand — but Schenck has done nothing further than submitted a separate petition to the Government Director Collores, upon which nothing has yet been resolved. In short, as soon as I am certain I shall go to Posen and Betsche. I request all the accounts rendered, take the calculator Käufer to assist, and draw up the monita, from which alone it will appear. Thereafter I shall negotiate with Leixner and see what is to be [uncertain: welten] of Betsche. According to Zerboni's assurance, however, nothing is to be [uncertain: hoped] from Kehr and Verena; he says the moneys for the payment of the estates were taken out of the [uncertain: Brodgenomen], and that here nothing would be let slip — for more than was actually paid (as pledge-money) the daughter of Prussiemski would hardly be [uncertain: zu geringen], and the fiscus too would lay its hand upon whatever might remain over. [uncertain: Schend] to hold out through all these dealings — for that I have no funds, since the Gl. f. given me are almost all gone — he reckons that Posen journey high besides, for which he demands reimbursement. What Grevenitz writes concerning Cosmar, Your Serene Highness will see from the two letters of the 8th and 14th — it is well that the Minister has ordered this matter to be decided quickly, and does not let the formam fall. Reverently I remain, Your Serene Highness's Blizanow, the 19th of December 1815. most humble and obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nWith a heart overcome by the bitterest grief and sorrow I write these few lines, that Your Serene Highness may know that I am still alive and where I am. But with which [uncertain: ceremony] I am to begin, each is the most raging pain, the loss\n\nI do not yet know — of my daughter; death carried her off four days after her lying-in, when — God preserve us from town — I still received news in Schlawenschitz, away from every such heart-cutting grief. The second shock for [uncertain: after] what, where also Boidelang announced the decease of the aforesaid Barbe. Boide indeed writes that he would [uncertain: make good to] me all that I have lost in Barbe — but is he already certainly in Baibet's place?\n\nThe third report brought me word that Trzciński in Warsaw, having gone to bed very drunk, suffocated in the night in an overheated room — how all this worked upon me Your Serene Highness can scarcely imagine.\n\nZerboni's infamous delayed decision, the Emperor's swift departure, the failure of the fifth Chancellor to appear, all this cast me to the ground — the gout seized me; I was in Betsche, a dreadful haemorrhoidal colic came over me, I found myself obliged, in order to obtain help, also to have myself brought to Posen; I caught cold anew and the gout mounted only into the body, and now I had little more on the tally, all the more as the physician gave me up. Now I took my old method of cure to my aid and constantly applied [uncertain: Spanish] fly-plasters to the body, whereby the humour was made mobile and drew out of the body, into the small of the back and into the hip — the greatest danger is indeed now lifted, but I can\n\nstand for the present, nor walk; nevertheless I have had myself brought to Blizanow, however risky and painful this was for me, in order here, if possible, under better care, to recover the sooner.\n\nI now lie here and suffer in body and soul — I can do little at present, but if God grants me health again, I shall begin the work anew. Schenck too has left me and has gone off to Warsaw with a [uncertain: Pole]. He was for me only too costly a companion; the journey to [uncertain: Böhle] and Betsche cost, there and back, 247 Rthl; the physician and the medicines cost me in all about 70 Rthl. From Trzciński nothing is now to be hoped; it must be awaited how his wife will declare herself. In the Betsche affair I have effected somewhat more in Posen; I have had many papers extracted, which indeed cost 22 ducats, but which will be of such use that I shall wring out satisfaction for Pally and Lombardini, and perhaps even something more. The residents have applied for the annulment of the contract — but the contract is drawn so bindingly, and Zerboni holds it for a masterpiece; let the residents pay the arrears, and then they may be heard on the [uncertain: rescission] of the contract.\n\nFrom Kulm and Kaemen nothing is to be hoped, according to Zerboni's assurance, for the bank swallows that up. — When I am well, I shall make it my first business to come to terms with Leixner. May Heaven grant this. The devastation of the forest and the [uncertain: mismanagement] of the economy, and other frauds of Echaust and of the sub-prefect Kurnatowski, Schenck was to have examined more closely after I fell ill — but he has only warmed up again what I deciphered a year and a half ago in Miedzeritz. So much at least happened before the onset of my severe illness, that the forest servants must give attestations that the forest has been ruined by Echaust to the amount of 170000 Rthl.\n\nZerboni wishes that full information on everything be procured for him.\n\nSchenck has promised this, but he well knows how this must be brought about, and excuses himself on the ground that he has no general power of attorney for the prosecution of the Betsche business. I told him that I would write to Your Serene Highness on that head. He appears not to understand this matter, because it is more a [uncertain: freehold Güntel] matter — what does he mean to [uncertain: obtain], what objections does he mean to raise, if he does not have the accounts rendered by those rogues? These I shall demand with full right, and they must absolutely be given to me by law. Should I then find more timber sales and other things than stand entered in the account, then the fraud is proven, and Echaust's own known property must then serve me as compensation. — May Your Serene Highness therefore deign to answer me, but with your own hand, and Your Right Honourable is too well convinced of my readiness in all the proposals you make me, without hesitation and [uncertain: readily], to be able to regard it as a mistrust if this time I do not [uncertain: consent to] the issuing of a general power of attorney in the Betsche matter to Assessor Schenck. The cause is not aversion against any person — it is merely the upholding of my honour, and not to be mocked on account of the many powers of attorney to be given.\n\nAlready Mr von Schenck has a power of attorney from me, and Your Right Honourable has a general power of attorney with the faculty of substitution which points to my affairs; so if it is still necessary to give a power of attorney, let the same be granted, for which I hereby forthwith authorise you; such as you will certainly, upon riper consideration, be with me\n\nof one and the same opinion, if you consider that I have ceded everything I could obtain from Betsche to Carl von Zerboni, and he again to himself. That the rendering of the report by Chief President von Zerboni has been so greatly delayed is an unspeakable injury to me; I regret nothing more than that I did not then give you more hearing and let you travel to Paris. Now I gladly grant that you pursue matters by the diplomatic route, etc. etc.\n\nI myself spoke with Zerboni twice in Posen; he promises to do everything, but wishes first to be informed. He seemed somewhat dissatisfied with Schenck's presentation — He said to me, Mr Schenck speaks much and, for all that, says nothing. — See to it that I am well [uncertain: instructed] in everything, then I shall gladly act. He [uncertain: promised] solemnly to write to Your Serene Highness about everything. On the return journey I dictated the accompanying letter to Zerboni in the name of Your Serene Highness, for I could no longer walk or stand — but Schenck has done nothing further than submitted a separate petition to the Director of Government Collores, upon which nothing has yet been resolved.\n\nIn short, as soon as I am [uncertain: certain] I shall go to Posen and Betsche. I shall ask for all the accounts rendered, take the calculator Käufer to that work, and draw up the objections, from which alone it will appear. Thereafter I shall negotiate with Leixner and see what is to be [uncertain: gained] from Betsche. According to Zerboni's assurance, however, nothing is to be hoped from Kehr and Verena; he says the monies for the payment of the estates were taken out of the [uncertain: bread], and that nothing here could escape him — for more than was actually paid (as pledge-money) the daughter of Prussiemski would hardly be [uncertain: content], and the treasury too would lay its hand upon it if anything were left over. To hold out through all these trains of business — for that I have no funds, for the [illegible] given me are almost all gone — he moreover reckons that Posen journey high, for which he demands reimbursement. What Grevenitz writes concerning Cosmar, Your Serene Highness will see from the two letters of the 8th and 14th — it is good that the Minister has ordered this matter to be decided quickly, and lets the form [uncertain: drop]. Most reverently I remain\n\nYour Serene Highness's\n\nBlizanow, the 19th of December\n\n1815.\n\nmost humble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Written from his sickbed at Blizanow after gout and haemorrhoidal colic nearly killed him, Triebenfeld reports the deaths of his daughter in childbed and of the drunken Trzcinski, Zerboni's delayed report, and costs of 247 Rthl for the Betsche journey, 70 Rthl for medicines and 22 ducats for extracted papers. He hopes to force satisfaction for Pally and Lombardini, presses Eichaust's and sub-prefect Kurnatowski's forest devastation of 170000 Rthl, expects nothing from Kulm and Kaemen, and refuses Assessor Schenck a general power of attorney.",
  "summary_de": "Klagt über schwere Krankheit (Podagra, hämorrhoidale Kolik) nach dem Tod seiner Tochter im Wochenbett und dem Ableben Barbes sowie Trzcinskis, weshalb er sich von Betsche über Posen nach Blizanow bringen ließ; Reisekosten 247 Rthl, Arzt und Arznei 70 Rthl, Aktenauszüge 22 Ducaten. Berichtet über Zerbonis verzögerten Bericht, den bindenden Pachtcontract, die von Eichaust und Unterpräfect Kurnatowski verursachte Forstverwüstung von 170000 Rthl und verweigert eine Generalvollmacht für Assessor Schenck; von Kulm, Kaemen, Kehr und Verena nichts zu hoffen, Vergleich mit Leixner geplant."
 }

@@ -1,11 +1,42 @@
 status: draft
 segments:
 - page: 1
-  en: Cabunis is back with the Hussites — The people liked it exceedingly, they now wish to hurry back,
-    gather their brethren in the faith together and settle everything within 14 days. Cabanis has however
-    brought back much news, about which I must speak with Your Serene Highness. It becomes most urgently
-    necessary that someone go there at once to bring everything into the best track. I am working here
-    with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter
-    of an hour from the parade, then Your Highness could hear all the people yourself, and issue Your
-    most high commands at once as to what is further to be done. v Triebenfeld [Breslau?] the 30th April
-    1804
+  en: 'Cabunis is back with the Hussites — The people have taken an extraordinary liking to it; they now
+    mean to hurry back, gather their brethren in the faith together and settle everything within 14 days.
+    Cabanis has, however, brought many pieces of news with him, about which I must speak with Your Serene
+    Highness. It is in the highest degree necessary that someone go there at once, to bring everything
+    into the best course.
+
+
+    I am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come
+    to me for a quarter of an hour from the parade, then Your Highness could hear all these people yourself,
+    and at once issue Your Highness''s commands as to what is further to be done.
+
+
+    v. Triebenfeld
+
+
+    [uncertain: Breslau] the 30th April 1804'
+  names:
+  - de: Cabunis
+    en: Cabunis
+    kind: person
+  - de: Cabanis
+    en: Cabanis
+    kind: person
+  - de: Hussiten
+    en: Hussites
+    kind: other
+  - de: Olesnicas
+    en: Olesnicas
+    kind: place
+  - de: v Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  numbers:
+  - '14'
+  - '30'
+  - '1804'

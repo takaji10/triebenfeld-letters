@@ -98,20 +98,81 @@
    "doc_line": 21
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Schlabrendorff",
+   "kind": "person",
+   "surface_de": "v. Schlabrendorff",
+   "surface_en": "von Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "asch",
+   "display": "Asch",
+   "kind": "person",
+   "surface_de": "Asch",
+   "surface_en": "Asch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin[illegible]",
+   "kind": "place",
+   "surface_de": "Berlin[?]",
+   "surface_en": "Berlin[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Frig]",
+   "kind": "person",
+   "surface_de": "Frig[?]",
+   "surface_en": "[uncertain: Frig]",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Your Right Honourable, Most gracious Lord Councillor of War! — he is indeed a rhymeless [uncertain: rascal]! — He has made His Serene Highness a great deal of difficulty in order now to arrive at the desired end, and now that he [unparseable: rihm mag] that there is nothing more to be squeezed out, now he wants to conclude the whole matter. — Would that Heaven granted but once a favourable moment, such as the present one is; the fellows should get the snow-distress, who now [unparseable: den geüdigete würde], so press. But if it were now soon settled, so that Your Right Honourable should not be aggrieved any longer, and then came into the [uncertain: Jusend], on account of the greeting of v. Schlabrendorff too the strings would be strung in the manner which Your Right Honourable has already often had the graciousness to express. With my own affair matters do not stand well, but neither do they stand ill. — The L. Asch [uncertain: jen] means to [unparseable: zullen],"
+   "en": "Your Right Honourable, Most gracious Lord Councillor of War! but he is a [uncertain: abgereimter] rascal! - To His Serene Highness he has made many difficulties, in order now to attain the desired end, and since he now [uncertain: rihm: may reckon] that there is nothing more to be squeezed out, he now wishes to close the whole matter. - [uncertain: Gute] heaven but once a favourable moment, such as the present one is, the fellows ought to get the snow-distress, which now would be [uncertain: geüdigete], thus press. But may it now soon be settled, so that Your Right Honourable be no longer aggrieved, and then in the [uncertain: Jusend] there might also come, on account of the greeting from von Schlabrendorff, the strings to be strung in the manner in which Your Right Honourable has already often had the graciousness to express.\n\nWith my affair, matters do not stand well, but neither ill. – The [uncertain: L.] Asch the elder means to [uncertain: zullen],",
+   "names": [
+    {
+     "de": "v. Schlabrendorff",
+     "en": "von Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Asch",
+     "en": "Asch",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "but it shall not succeed for him, and therefore I have given notice in [unparseable: bring], whence I still expect back this day the [uncertain: Bethe], together with the declaration. Within a few days it must be [unparseable: alleinl.] done, — upon that Your Right Honourable may certainly rely, and likewise that which you [uncertain: in großen Wechseln — in large bills of exchange], and that you will soon get the [uncertain: Jaunken] back; the [uncertain: Schöpfe] fetched again on Tuesday, at the latest Wednesday; — until then I most humbly beg that they may still be left standing. With my health it grows better hourly, — tomorrow I shall go out. For the gracious sympathy I give most humble thanks; I commend myself to your continuing grace, and have the honour to sign myself, with high esteem, as Your Right Honourable's Berlin[?], the 2nd of May 1802. humble and obedient servant Frig[?]"
+   "en": "but that shall not succeed for him, and therefore I have given notice in [uncertain: bring], whence I still today await the [uncertain: Bethe] back, together with the declaration.\n\nWithin a few days it must be [uncertain: alleinl.] done, — upon that Your Right Honourable may certainly rely, and so also that which you [have] in the great bill of exchange, and that you will soon get the [uncertain: Jaunken] back; the [uncertain: Schöpfe] again fetched on Tuesday, at the latest Wednesday; - until then I most humbly beg that they be let stand yet. With my health it grows better by the hour, — tomorrow I go out. For the gracious sympathy I give most humble thanks; I commend myself to your continuing grace, and have the honour to subscribe myself, with high esteem, as Your Right Honourable's\n\nBerlin[illegible]\n\nthe 2nd of May 1802.\n\nhumble and obedient bondsman\n\n[uncertain: Frig]",
+   "names": [
+    {
+     "de": "Berlin[?]",
+     "en": "Berlin[illegible]",
+     "kind": "place"
+    },
+    {
+     "de": "Frig[?]",
+     "en": "[uncertain: Frig]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "1802"
+   ]
   }
  ],
- "text_english": "Your Right Honourable, Most gracious Lord Councillor of War! — he is indeed a rhymeless [uncertain: rascal]! — He has made His Serene Highness a great deal of difficulty in order now to arrive at the desired end, and now that he [unparseable: rihm mag] that there is nothing more to be squeezed out, now he wants to conclude the whole matter. — Would that Heaven granted but once a favourable moment, such as the present one is; the fellows should get the snow-distress, who now [unparseable: den geüdigete würde], so press. But if it were now soon settled, so that Your Right Honourable should not be aggrieved any longer, and then came into the [uncertain: Jusend], on account of the greeting of v. Schlabrendorff too the strings would be strung in the manner which Your Right Honourable has already often had the graciousness to express. With my own affair matters do not stand well, but neither do they stand ill. — The L. Asch [uncertain: jen] means to [unparseable: zullen],\n\nbut it shall not succeed for him, and therefore I have given notice in [unparseable: bring], whence I still expect back this day the [uncertain: Bethe], together with the declaration. Within a few days it must be [unparseable: alleinl.] done, — upon that Your Right Honourable may certainly rely, and likewise that which you [uncertain: in großen Wechseln — in large bills of exchange], and that you will soon get the [uncertain: Jaunken] back; the [uncertain: Schöpfe] fetched again on Tuesday, at the latest Wednesday; — until then I most humbly beg that they may still be left standing. With my health it grows better hourly, — tomorrow I shall go out. For the gracious sympathy I give most humble thanks; I commend myself to your continuing grace, and have the honour to sign myself, with high esteem, as Your Right Honourable's Berlin[?], the 2nd of May 1802. humble and obedient servant Frig[?]",
+ "text_english": "Your Right Honourable, Most gracious Lord Councillor of War! but he is a [uncertain: abgereimter] rascal! - To His Serene Highness he has made many difficulties, in order now to attain the desired end, and since he now [uncertain: rihm: may reckon] that there is nothing more to be squeezed out, he now wishes to close the whole matter. - [uncertain: Gute] heaven but once a favourable moment, such as the present one is, the fellows ought to get the snow-distress, which now would be [uncertain: geüdigete], thus press. But may it now soon be settled, so that Your Right Honourable be no longer aggrieved, and then in the [uncertain: Jusend] there might also come, on account of the greeting from von Schlabrendorff, the strings to be strung in the manner in which Your Right Honourable has already often had the graciousness to express.\n\nWith my affair, matters do not stand well, but neither ill. – The [uncertain: L.] Asch the elder means to [uncertain: zullen],\n\nbut that shall not succeed for him, and therefore I have given notice in [uncertain: bring], whence I still today await the [uncertain: Bethe] back, together with the declaration.\n\nWithin a few days it must be [uncertain: alleinl.] done, — upon that Your Right Honourable may certainly rely, and so also that which you [have] in the great bill of exchange, and that you will soon get the [uncertain: Jaunken] back; the [uncertain: Schöpfe] again fetched on Tuesday, at the latest Wednesday; - until then I most humbly beg that they be let stand yet. With my health it grows better by the hour, — tomorrow I go out. For the gracious sympathy I give most humble thanks; I commend myself to your continuing grace, and have the honour to subscribe myself, with high esteem, as Your Right Honourable's\n\nBerlin[illegible]\n\nthe 2nd of May 1802.\n\nhumble and obedient bondsman\n\n[uncertain: Frig]",
  "summary_en": "A hurried, partly illegible note to the Councillor of War abusing an unnamed adversary as a rascal who has made endless difficulties for His Serene Highness and now, with nothing further to be squeezed out, wants the business closed; urges that the favourable moment be pressed and the matter settled so the recipient is no longer aggrieved, mentions a greeting from von Schlabrendorff, reports the writer's own affair neither well nor ill with notice given against Asch the elder, promises settlement within days including the large bill of exchange, and notes his recovering health.",
  "summary_de": "Erregte Schmähung eines Gegners, der Seiner Durchlaucht viele Schwierigkeiten gemacht habe und nun, da nichts mehr herauszupressen sei, die Sache abschließen wolle; Hoffnung auf baldige Beilegung, damit Triebenfeld nicht länger beschwert bleibe, mit Erwähnung eines Grußes von von Schlabrendorff. Zur eigenen Angelegenheit: der ältere Asch werde nicht durchkommen, eine Kündigung sei ergangen, Erklärung und Antwort noch heute erwartet; Zusicherung wegen des großen Wechsels sowie Bitte um weiteres Stehenlassen. Die Gesundheit des Schreibers bessere sich."
 }

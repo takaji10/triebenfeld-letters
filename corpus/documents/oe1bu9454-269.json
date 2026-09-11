@@ -189,20 +189,355 @@
    "doc_line": 45
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Kircheisen",
+   "kind": "person",
+   "surface_de": "v Kircheisenschen",
+   "surface_en": "von Kircheisen",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humboldt",
+   "surface_en": "Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "beugelin",
+   "display": "Beugelin",
+   "kind": "person",
+   "surface_de": "Beugelin",
+   "surface_en": "Beugelin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Constantine",
+   "kind": "person",
+   "surface_de": "Constantin",
+   "surface_en": "Constantine",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussian",
+   "kind": "other",
+   "surface_de": "Preuß",
+   "surface_en": "Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "ß",
+   "kind": "person",
+   "surface_de": "ß",
+   "surface_en": "ß",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B:",
+   "kind": "person",
+   "surface_de": "B:",
+   "surface_en": "B:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Baum",
+   "kind": "place",
+   "surface_de": "Baum",
+   "surface_en": "Baum",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Baden",
+   "kind": "place",
+   "surface_de": "Baden",
+   "surface_en": "Baden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bavaria",
+   "kind": "place",
+   "surface_de": "Baiern",
+   "surface_en": "Bavaria",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtales",
+   "kind": "person",
+   "surface_de": "Pourtales",
+   "surface_en": "Pourtales",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Metternich",
+   "kind": "person",
+   "surface_de": "Metternichs",
+   "surface_en": "Metternich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ben[illegible]rat",
+   "kind": "person",
+   "surface_de": "Ben[?]rat",
+   "surface_en": "Ben[illegible]rat",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Talleyrand",
+   "kind": "person",
+   "surface_de": "Talleyrands",
+   "surface_en": "Talleyrand",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "B:",
+   "kind": "person",
+   "surface_de": "B:",
+   "surface_en": "B:",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord!\n\nFrom the enclosure Your Serene Highness will graciously be pleased to gather what I have written to His Serene Highness the Prince State Chancellor, upon presenting the v. Kircheisen correspondence, and what I have brought to his remembrance. The Court Councillor ß has delivered it to the Prince (since for sad reasons I cannot go out); His Serene Highness received it graciously, and in the most benevolent tone conveyed every good assurance. Now it lies in the hands of the Privy Councillor of State Stägemann. B: holds Cosmar's fall, and, in the throw of the times, the granting of the loan, to be as good as settled. — On account of Trąbczyn I am beginning to grow very anxious; for if the district in which the estates lie should really fall to Russia, the matter looks bad, for there the aprons, which are already at work here, can do everything — the Emperor is said to have already expressed himself — the post & commission managed their business more shrewdly at that time than the Prussian governments did. — What is there to be expected in that case? Meanwhile one counts upon Prince Hardenberg — he does not let himself be disconcerted — he says, should they be unwilling to give the Prince the estates back, then he must be indemnified. — For the rest, I still have no permission from the Prince to apply to Russian authorities in the matter of Trąbczyn — yet the Prince surely sees further in this than all the swindlers. — Minister Humboldt and the Privy Councillor of State Beugelin would, as truly upright men, for me [text lost]\n\nFor the rest, Constantine is raging fearfully in Poland; the land is being sucked utterly dry, and every male creature that can but bear a weapon is put into rank and file. — To this may be added his proclamation that the Poles should hold together and assert their independence. — Into what mood this puts our King, Your Serene Highness can easily decipher. Everything here speaks of war — God avert it — I only wish that Your [text lost]"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nFrom the enclosure Your Serene Highness will be pleased to gather what I have written to His Serene Highness the Prince State Chancellor, upon presenting the von Kircheisen correspondence, and what I have called to his remembrance. The Court Councillor ß handed it to the Prince (since for sad reasons I cannot go out); His Serene Highness received it graciously, and in the most benevolent tone promised every good thing. Now it lies in the hands of the Privy Councillor of State Stägemann. B: holds Cosmar's fall, and for the time being the granting of the loan, to be as good as settled. — As to Trąbczyn I am beginning to grow very anxious; for if the district in which the estates lie really falls to Russia, then it looks bad, for there the petticoats, which are already at work here, are all-powerful — the Emperor is said to have expressed himself already — the post and commission at that time managed their business more cleverly than the Prussian governments. — What is one to expect there? Meanwhile one counts upon Prince Hardenberg — he does not let himself be disconcerted — he says, if they will not give the Prince his estates back, then he must be compensated. — For the rest I have as yet no permission from the Prince to apply to the Russian authorities concerning Trąbczyn — yet the Prince sees further than all the swindlers. — Minister Humboldt and the Privy Councillor of State Beugelin would, for me, as truly upright men. For the rest Constantine rages frightfully in Poland; the country is being sucked quite dry, and every male creature that can so much as bear a weapon is put into rank and file. — To this may be added his proclamation that the Poles should hold together and assert their independence. — In what humour this puts our King, Your Serene Highness can easily decipher. Everything here speaks of war — God avert it — I wish only that Your",
+   "names": [
+    {
+     "de": "v Kircheisenschen",
+     "en": "von Kircheisen",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Humboldt",
+     "en": "Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Beugelin",
+     "en": "Beugelin",
+     "kind": "person"
+    },
+    {
+     "de": "Constantin",
+     "en": "Constantine",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Preuß",
+     "en": "Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "ß",
+     "en": "ß",
+     "kind": "person"
+    },
+    {
+     "de": "B:",
+     "en": "B:",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "Your Serene Highness's affairs might first of all be brought to an end here, so that the matters do not again come to a standstill through a war perhaps swiftly breaking out. Already one after another is beginning to disperse. Tomorrow the Queen of Baum departs, and the Grand Duke of Baden, and in a few days the King of Bavaria follows; on the 17th of February the Russian Emperor also goes home (presumably by way of Warsaw), and then, if not sooner, the everlasting Congress will surely be at an end. As soon as I am put into another condition, I shall keep watch over the antechambers most carefully, so that I may but see Cosmar overthrown and the entailed estates placed under administration — the rest will then all fall into place — and that will most certainly come about. For Count Pourtales's answer I wait most longingly with B:; this too [text lost] before any alarm arises, brought into the clear and settled. The [uncertain: cabals] of Prince Metternich and of the Duke of Ben[illegible]rat (Talleyrand) are without limit, and it will be a miracle of God if all ends happily and quietly.\n\nWith unbounded veneration I am Your Most Serene Highness's\n\nVienna, the 30th of January 1815.\n\nmost faithful and obedient servant\nv Triebenfeld"
+   "en": "Your Serene Highness's affairs might first of all be brought to an end here, so that the business may not again be left lying through a war that may perhaps break out suddenly. Already one after another is beginning to disperse. Tomorrow the Queen of Baum and the Grand Duke of Baden depart, and in a few days the King of Bavaria follows. On the 17th of February the [uncertain: Russian] Emperor also goes home (presumably by way of Warsaw), and then, if not sooner, the eternal Congress will surely be at an end. I shall (as soon as I am put into another condition) keep watch very carefully in the antechambers, so that I may only see Cosmar overthrown and the entailed estates placed under administration. — The rest will then all sort itself out — and that will most certainly happen. I await the answer of Count Pourtales with B: most longingly. This too, before my uproar arises, brought into the clear and settled. The intrigues of Prince Metternich and of the Duke of Ben[illegible]rat (Talleyrand) are without bounds, and it will be a miracle of God if all ends happily and quietly.\n\nWith unbounded reverence I am\n\nYour Most Serene Highness's\n\nVienna, the 30th of January\n\n1815.\n\nfaithful and most obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Baum",
+     "en": "Baum",
+     "kind": "place"
+    },
+    {
+     "de": "Baden",
+     "en": "Baden",
+     "kind": "place"
+    },
+    {
+     "de": "Baiern",
+     "en": "Bavaria",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Pourtales",
+     "en": "Pourtales",
+     "kind": "person"
+    },
+    {
+     "de": "Metternichs",
+     "en": "Metternich",
+     "kind": "person"
+    },
+    {
+     "de": "Ben[?]rat",
+     "en": "Ben[illegible]rat",
+     "kind": "person"
+    },
+    {
+     "de": "Talleyrands",
+     "en": "Talleyrand",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "B:",
+     "en": "B:",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17ten",
+    "30ten",
+    "1815"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord!\n\nFrom the enclosure Your Serene Highness will graciously be pleased to gather what I have written to His Serene Highness the Prince State Chancellor, upon presenting the v. Kircheisen correspondence, and what I have brought to his remembrance. The Court Councillor ß has delivered it to the Prince (since for sad reasons I cannot go out); His Serene Highness received it graciously, and in the most benevolent tone conveyed every good assurance. Now it lies in the hands of the Privy Councillor of State Stägemann. B: holds Cosmar's fall, and, in the throw of the times, the granting of the loan, to be as good as settled. — On account of Trąbczyn I am beginning to grow very anxious; for if the district in which the estates lie should really fall to Russia, the matter looks bad, for there the aprons, which are already at work here, can do everything — the Emperor is said to have already expressed himself — the post & commission managed their business more shrewdly at that time than the Prussian governments did. — What is there to be expected in that case? Meanwhile one counts upon Prince Hardenberg — he does not let himself be disconcerted — he says, should they be unwilling to give the Prince the estates back, then he must be indemnified. — For the rest, I still have no permission from the Prince to apply to Russian authorities in the matter of Trąbczyn — yet the Prince surely sees further in this than all the swindlers. — Minister Humboldt and the Privy Councillor of State Beugelin would, as truly upright men, for me [text lost]\n\nFor the rest, Constantine is raging fearfully in Poland; the land is being sucked utterly dry, and every male creature that can but bear a weapon is put into rank and file. — To this may be added his proclamation that the Poles should hold together and assert their independence. — Into what mood this puts our King, Your Serene Highness can easily decipher. Everything here speaks of war — God avert it — I only wish that Your [text lost]\n\nYour Serene Highness's affairs might first of all be brought to an end here, so that the matters do not again come to a standstill through a war perhaps swiftly breaking out. Already one after another is beginning to disperse. Tomorrow the Queen of Baum departs, and the Grand Duke of Baden, and in a few days the King of Bavaria follows; on the 17th of February the Russian Emperor also goes home (presumably by way of Warsaw), and then, if not sooner, the everlasting Congress will surely be at an end. As soon as I am put into another condition, I shall keep watch over the antechambers most carefully, so that I may but see Cosmar overthrown and the entailed estates placed under administration — the rest will then all fall into place — and that will most certainly come about. For Count Pourtales's answer I wait most longingly with B:; this too [text lost] before any alarm arises, brought into the clear and settled. The [uncertain: cabals] of Prince Metternich and of the Duke of Ben[illegible]rat (Talleyrand) are without limit, and it will be a miracle of God if all ends happily and quietly.\n\nWith unbounded veneration I am Your Most Serene Highness's\n\nVienna, the 30th of January 1815.\n\nmost faithful and obedient servant\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nFrom the enclosure Your Serene Highness will be pleased to gather what I have written to His Serene Highness the Prince State Chancellor, upon presenting the von Kircheisen correspondence, and what I have called to his remembrance. The Court Councillor ß handed it to the Prince (since for sad reasons I cannot go out); His Serene Highness received it graciously, and in the most benevolent tone promised every good thing. Now it lies in the hands of the Privy Councillor of State Stägemann. B: holds Cosmar's fall, and for the time being the granting of the loan, to be as good as settled. — As to Trąbczyn I am beginning to grow very anxious; for if the district in which the estates lie really falls to Russia, then it looks bad, for there the petticoats, which are already at work here, are all-powerful — the Emperor is said to have expressed himself already — the post and commission at that time managed their business more cleverly than the Prussian governments. — What is one to expect there? Meanwhile one counts upon Prince Hardenberg — he does not let himself be disconcerted — he says, if they will not give the Prince his estates back, then he must be compensated. — For the rest I have as yet no permission from the Prince to apply to the Russian authorities concerning Trąbczyn — yet the Prince sees further than all the swindlers. — Minister Humboldt and the Privy Councillor of State Beugelin would, for me, as truly upright men. For the rest Constantine rages frightfully in Poland; the country is being sucked quite dry, and every male creature that can so much as bear a weapon is put into rank and file. — To this may be added his proclamation that the Poles should hold together and assert their independence. — In what humour this puts our King, Your Serene Highness can easily decipher. Everything here speaks of war — God avert it — I wish only that Your\n\nYour Serene Highness's affairs might first of all be brought to an end here, so that the business may not again be left lying through a war that may perhaps break out suddenly. Already one after another is beginning to disperse. Tomorrow the Queen of Baum and the Grand Duke of Baden depart, and in a few days the King of Bavaria follows. On the 17th of February the [uncertain: Russian] Emperor also goes home (presumably by way of Warsaw), and then, if not sooner, the eternal Congress will surely be at an end. I shall (as soon as I am put into another condition) keep watch very carefully in the antechambers, so that I may only see Cosmar overthrown and the entailed estates placed under administration. — The rest will then all sort itself out — and that will most certainly happen. I await the answer of Count Pourtales with B: most longingly. This too, before my uproar arises, brought into the clear and settled. The intrigues of Prince Metternich and of the Duke of Ben[illegible]rat (Talleyrand) are without bounds, and it will be a miracle of God if all ends happily and quietly.\n\nWith unbounded reverence I am\n\nYour Most Serene Highness's\n\nVienna, the 30th of January\n\n1815.\n\nfaithful and most obedient servant v Triebenfeld",
  "summary_en": "Reports that his memorandum with the v. Kircheisen correspondence, delivered to the State Chancellor Hardenberg by Court Councillor B[ß], was graciously received and now rests with Privy Councillor of State Stägemann; B. thinks Cosmar's fall and the loan as good as settled. Voices alarm over Trąbczyn should the district pass to Russia, lacking permission to approach Russian authorities, though Hardenberg promises indemnification. Notes Constantine's exactions in Poland, talk of war, sovereigns leaving Vienna, and awaits Count Pourtales's answer.",
  "summary_de": "Bericht über die dem Fürsten Staatskanzler Hardenberg durch Hofrath B: überreichte Eingabe samt v. Kircheisen'scher Correspondenz, die nun beim Geheimen Staatsrath Stägemann liegt; B: hält Cosmars Sturz und die Bewilligung des Darlehns für gesichert. Sorge um Trąbczyn, falls der Kreis an Russland fällt; Hardenberg verspricht notfalls Indemnisation, doch fehlt noch die Erlaubniß, sich an russische Behörden zu wenden. Erwähnt werden Humboldt und Beugelin, Constantins Aushebungen und Unabhängigkeitsproclamation in Polen, Kriegsfurcht, die Abreise der Congressteilnehmer, das erwartete Schreiben des Grafen Pourtales sowie die Cabalen Metternichs und Talleyrands."
 }

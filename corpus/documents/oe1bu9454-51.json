@@ -132,20 +132,283 @@
    "doc_line": 54
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wohlen",
+   "kind": "place",
+   "surface_de": "Wohlen",
+   "surface_en": "Wohlen",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Schlawenschitz",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bethney",
+   "kind": "person",
+   "surface_de": "Bethney",
+   "surface_en": "Bethney",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Malsdorff",
+   "kind": "place",
+   "surface_de": "Malsdorff",
+   "surface_en": "Malsdorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zillichau",
+   "kind": "place",
+   "surface_de": "Zillichauer",
+   "surface_en": "Zillichau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenzollern",
+   "kind": "person",
+   "surface_de": "Fürst Hohenzollern",
+   "surface_en": "Prince of Hohenzollern",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Leipzig",
+   "kind": "place",
+   "surface_de": "Leipzig",
+   "surface_en": "Leipzig",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bavaria",
+   "kind": "place",
+   "surface_de": "Baiern",
+   "surface_en": "Bavaria",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Austrians",
+   "kind": "other",
+   "surface_de": "Osterreicher",
+   "surface_en": "Austrians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Munich",
+   "kind": "place",
+   "surface_de": "München",
+   "surface_en": "Munich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Klogen",
+   "kind": "place",
+   "surface_de": "Klogen",
+   "surface_en": "Klogen",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Austrians",
+   "kind": "other",
+   "surface_de": "Osterreich",
+   "surface_en": "Austrians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! The iron is not here yet; since, however, the execution has been lifted, I set out tomorrow for Königsberg and leave Heaven to govern. Concerning the inheritance matter I suspend my judgements until I return - I think that much can be forestalled by a new law sent on ahead. The new decree concerning the new attachment at Wohlen I already had; I have therefore summoned Honrichs to me and expect him at any hour. The mounted messenger sent to him eight days ago has still not returned - he was here while I was at Schlawenschitz, but went back without waiting for my arrival. He wants to have only the French original [uncertain: Buren]; then he means to bring in several thousand more for Your Serene Highness and to make the Poles one and one 11. My advice is therefore by no means to make any brother into a brood there, otherwise the Poles will confiscate and the money after it - I fear this all the more since [uncertain: Hawich] seems to be a scoundrel, for the fellow is even now holding back the original [uncertain: Piegen] entrusted to him. Honrichs seems to be converted all at once; he vows to bring in several thousand more to Your Serene Highness, and if he scents the storm of war from afar he will surely keep his word."
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThe iron is still not here; since meanwhile the execution has been lifted, I shall set out tomorrow for Königsberg and let Heaven govern. As to the inheritance matter I suspend my judgements until I return - I think that much can be forestalled by sending ahead a new law.\n\nThe new decree concerning the new attachment at Wohlen I already had, and I have therefore summoned Honrichs to me and expect him at any hour. The mounted messenger sent to him 8 days ago has still not returned - he was here when I was at Schlawenschitz, but went back again without waiting for my arrival. He will only have the French original [uncertain: Buren]; then he means to bring Your Serene Highness several thousand more, and to make of the Poles one for one an 11. My advice is therefore on no account to make a brother into brood there, otherwise the Poles confiscate and the money after it - I fear this all the more since Hawich appears to be a scoundrel, for the fellow is even withholding the original documents entrusted to him. Honrichs seems all at once to have been converted; he vows to bring Your Serene Highness several thousand, and if he perceives the storm of war from afar he will certainly keep his word.",
+   "names": [
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wohlen",
+     "en": "Wohlen",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Schlawenschitz",
+     "kind": "place"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "11"
+   ]
   },
   {
    "page": 2,
-   "en": "Bethney lies very wretchedly ill at his own place in Malsdorff. He can do nothing at present. Should Your Serene Highness wish to send someone to him, he will certainly enter into it gladly, only I fear that a misfortune may occur. If matters stand thus, then let the affair rest, Most gracious Prince and Lord, until my return; the three weeks will pass like smoke in the wind. I think I shall have the leisure to travel and to be of use on that side. In news I am today as poor as a wandering pilgrim in coin. The only thing just now reported to me by the Zillichau bankers, who through their cloth trade have great connexions in Saxony, is: 1, that Prince Hohenzollern is said to be standing with his corps in or below Leipzig; 2, that in Bavaria there is said to have been a very serious engagement in favour of the former Austrians, after which these have occupied Munich. Here the French are carrying off their magazines from Klogen by water and by land; perhaps the [uncertain: Beſter] are departing. God grant Your Serene Highness only health and patience until my return - I shall hasten so far as possible in order to be able to lay myself again at the feet of the same Most High, and to render proof of my most faithful attachment and of the [uncertain: dearest] reverence, in which I remain, until death, Your Most Serene Highness's. I have just this moment received a letter: Honrichs is coming - as yet nothing is to be heard there of the Austrians. Money he is to bring Your Serene Highness; for that I stand surety with honour and life. Most faithful and most obedient servant v Triebenfeld Kontop, the 21st of April 1809"
+   "en": "Bethney lies very wretchedly ill at his place in Malsdorff. He can do nothing at present. If Your Serene Highness wishes to send someone to him he will certainly be glad to enter into the matter, only I fear that some misfortune may occur. If that is how it stands, then let the affair rest, Most gracious Prince and Lord, until my return; the 3 weeks will pass like smoke in the wind. I think I shall have the leisure to travel and shall be able to be of use on that side.\n\nIn news I am today as poor as a wandering pilgrim is in coin. The only thing just now reported to me by the Zillichau bankers, who on account of their cloth trade have great connexions in Saxony, is 1. that the Prince of Hohenzollern is said to be standing with his corps in or below Leipzig.\n\n2. that in Bavaria there is said to have been a very serious engagement in favour of the former Austrians, after which these have occupied Munich. Here the French are carrying off their magazines from Klogen by water and by land; perhaps the [uncertain: Beſter] are departing. God grant Your Serene Highness only health and patience until my return - I shall hasten as much as possible in order to be able to lay myself again at the feet of the same most exalted person\n\nand to render proof of my most faithful attachment and of the [uncertain: dearest] reverence, in which I remain, until death, Your Most Serene Highness's. I have just this moment received a letter: Honrichs is coming - as yet nothing is to be heard there of the Austrians. He is to bring Your Serene Highness money; for that I answer with my honour and my life, most faithful and obedient servant\n\nv. Triebenfeld\n\nKontop\n\nthe 21st of April\n\n1809",
+   "names": [
+    {
+     "de": "Bethney",
+     "en": "Bethney",
+     "kind": "person"
+    },
+    {
+     "de": "Malsdorff",
+     "en": "Malsdorff",
+     "kind": "place"
+    },
+    {
+     "de": "Zillichauer",
+     "en": "Zillichau",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst Hohenzollern",
+     "en": "Prince of Hohenzollern",
+     "kind": "person"
+    },
+    {
+     "de": "Leipzig",
+     "en": "Leipzig",
+     "kind": "place"
+    },
+    {
+     "de": "Baiern",
+     "en": "Bavaria",
+     "kind": "place"
+    },
+    {
+     "de": "Osterreicher",
+     "en": "Austrians",
+     "kind": "other"
+    },
+    {
+     "de": "München",
+     "en": "Munich",
+     "kind": "place"
+    },
+    {
+     "de": "Klogen",
+     "en": "Klogen",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Osterreich",
+     "en": "Austrians",
+     "kind": "other"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "3",
+    "1",
+    "2.",
+    "21",
+    "1809"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! The iron is not here yet; since, however, the execution has been lifted, I set out tomorrow for Königsberg and leave Heaven to govern. Concerning the inheritance matter I suspend my judgements until I return - I think that much can be forestalled by a new law sent on ahead. The new decree concerning the new attachment at Wohlen I already had; I have therefore summoned Honrichs to me and expect him at any hour. The mounted messenger sent to him eight days ago has still not returned - he was here while I was at Schlawenschitz, but went back without waiting for my arrival. He wants to have only the French original [uncertain: Buren]; then he means to bring in several thousand more for Your Serene Highness and to make the Poles one and one 11. My advice is therefore by no means to make any brother into a brood there, otherwise the Poles will confiscate and the money after it - I fear this all the more since [uncertain: Hawich] seems to be a scoundrel, for the fellow is even now holding back the original [uncertain: Piegen] entrusted to him. Honrichs seems to be converted all at once; he vows to bring in several thousand more to Your Serene Highness, and if he scents the storm of war from afar he will surely keep his word.\n\nBethney lies very wretchedly ill at his own place in Malsdorff. He can do nothing at present. Should Your Serene Highness wish to send someone to him, he will certainly enter into it gladly, only I fear that a misfortune may occur. If matters stand thus, then let the affair rest, Most gracious Prince and Lord, until my return; the three weeks will pass like smoke in the wind. I think I shall have the leisure to travel and to be of use on that side. In news I am today as poor as a wandering pilgrim in coin. The only thing just now reported to me by the Zillichau bankers, who through their cloth trade have great connexions in Saxony, is: 1, that Prince Hohenzollern is said to be standing with his corps in or below Leipzig; 2, that in Bavaria there is said to have been a very serious engagement in favour of the former Austrians, after which these have occupied Munich. Here the French are carrying off their magazines from Klogen by water and by land; perhaps the [uncertain: Beſter] are departing. God grant Your Serene Highness only health and patience until my return - I shall hasten so far as possible in order to be able to lay myself again at the feet of the same Most High, and to render proof of my most faithful attachment and of the [uncertain: dearest] reverence, in which I remain, until death, Your Most Serene Highness's. I have just this moment received a letter: Honrichs is coming - as yet nothing is to be heard there of the Austrians. Money he is to bring Your Serene Highness; for that I stand surety with honour and life. Most faithful and most obedient servant v Triebenfeld Kontop, the 21st of April 1809",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThe iron is still not here; since meanwhile the execution has been lifted, I shall set out tomorrow for Königsberg and let Heaven govern. As to the inheritance matter I suspend my judgements until I return - I think that much can be forestalled by sending ahead a new law.\n\nThe new decree concerning the new attachment at Wohlen I already had, and I have therefore summoned Honrichs to me and expect him at any hour. The mounted messenger sent to him 8 days ago has still not returned - he was here when I was at Schlawenschitz, but went back again without waiting for my arrival. He will only have the French original [uncertain: Buren]; then he means to bring Your Serene Highness several thousand more, and to make of the Poles one for one an 11. My advice is therefore on no account to make a brother into brood there, otherwise the Poles confiscate and the money after it - I fear this all the more since Hawich appears to be a scoundrel, for the fellow is even withholding the original documents entrusted to him. Honrichs seems all at once to have been converted; he vows to bring Your Serene Highness several thousand, and if he perceives the storm of war from afar he will certainly keep his word.\n\nBethney lies very wretchedly ill at his place in Malsdorff. He can do nothing at present. If Your Serene Highness wishes to send someone to him he will certainly be glad to enter into the matter, only I fear that some misfortune may occur. If that is how it stands, then let the affair rest, Most gracious Prince and Lord, until my return; the 3 weeks will pass like smoke in the wind. I think I shall have the leisure to travel and shall be able to be of use on that side.\n\nIn news I am today as poor as a wandering pilgrim is in coin. The only thing just now reported to me by the Zillichau bankers, who on account of their cloth trade have great connexions in Saxony, is 1. that the Prince of Hohenzollern is said to be standing with his corps in or below Leipzig.\n\n2. that in Bavaria there is said to have been a very serious engagement in favour of the former Austrians, after which these have occupied Munich. Here the French are carrying off their magazines from Klogen by water and by land; perhaps the [uncertain: Beſter] are departing. God grant Your Serene Highness only health and patience until my return - I shall hasten as much as possible in order to be able to lay myself again at the feet of the same most exalted person\n\nand to render proof of my most faithful attachment and of the [uncertain: dearest] reverence, in which I remain, until death, Your Most Serene Highness's. I have just this moment received a letter: Honrichs is coming - as yet nothing is to be heard there of the Austrians. He is to bring Your Serene Highness money; for that I answer with my honour and my life, most faithful and obedient servant\n\nv. Triebenfeld\n\nKontop\n\nthe 21st of April\n\n1809",
  "summary_en": "Reports the iron has still not arrived but the execution has been lifted, so he departs for Königsberg; the inheritance question and Bethney's affair are deferred until his return in three weeks, Bethney lying gravely ill at Malsdorff. Honrichs, summoned over the new attachment at Wohlen, is expected hourly and promises several thousand more, for which Triebenfeld pledges honour and life; warns against Polish confiscation and distrusts Hawich. Adds war rumours from Zillichau bankers of Prince Hohenzollern near Leipzig, fighting in Bavaria and Munich occupied, and French magazines removed from Klogen.",
  "summary_de": "Nach Aufhebung der Execution bricht Triebenfeld morgen nach Königsberg auf; über die Erbschaftssache will er erst nach der Rückkehr urtheilen, da ein vorausgeschicktes neues Gesetz vieles abwenden könne. Zum neuen Arrest in Wohlen hat er Honrichs zu sich beschieden, der mehrere Tausend einbringen und Geld überbringen will; vor Einlassung mit den Polen wird gewarnt, da diese sonst confiscieren. Bethney liegt in Malsdorff schwer krank. Nachrichten der Zillichauer Banquiers: Prinz Hohenzollern bei Leipzig, Treffen in Bayern, Besetzung Münchens; die Franzosen führen ihre Magazine ab."
 }

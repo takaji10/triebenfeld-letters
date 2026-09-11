@@ -222,28 +222,655 @@
    "doc_line": 117
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontoppwind",
+   "surface_en": "Kontop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schweiner",
+   "kind": "other",
+   "surface_de": "Schweinerschen",
+   "surface_en": "Schweiner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "v. d. Lahr",
+   "surface_en": "von der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahrsche",
+   "surface_en": "von der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberger",
+   "surface_en": "Königsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Konigsberg",
+   "surface_en": "Königsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Ruße land",
+   "surface_en": "Russia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Pirch",
+   "kind": "person",
+   "surface_de": "v Pirch",
+   "surface_en": "von Pirch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Künigsberg",
+   "surface_en": "Königsberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Pirch, Major",
+   "kind": "person",
+   "surface_de": "H. M. v. Pirch",
+   "surface_en": "von Pirch, Major",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Hache",
+   "kind": "person",
+   "surface_de": "p v Hache",
+   "surface_en": "von Hache",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Greischau",
+   "kind": "person",
+   "surface_de": "Greischau",
+   "surface_en": "Greischau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Knesebeck, Lieutenant-Colonel",
+   "kind": "person",
+   "surface_de": "O L v Knesebeck",
+   "surface_en": "von Knesebeck, Lieutenant-Colonel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Scharnhoritz",
+   "kind": "person",
+   "surface_de": "Scharnhoritz",
+   "surface_en": "Scharnhoritz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Friends of Virtue",
+   "kind": "other",
+   "surface_de": "Tugendfreunden",
+   "surface_en": "Friends of Virtue",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Waßlands",
+   "surface_en": "Russia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Carl, Archduke",
+   "kind": "person",
+   "surface_de": "E. H. Carl",
+   "surface_en": "Carl, Archduke",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Osterreich",
+   "surface_en": "Austria",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schloßen",
+   "surface_en": "Silesia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Constantine",
+   "kind": "person",
+   "surface_de": "Konstantin",
+   "surface_en": "Constantine",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Pomerania",
+   "kind": "place",
+   "surface_de": "Pommern",
+   "surface_en": "Pomerania",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Oder",
+   "kind": "place",
+   "surface_de": "Oder",
+   "surface_en": "Oder",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sarmatians",
+   "kind": "other",
+   "surface_de": "Sarmaten",
+   "surface_en": "Sarmatians",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Alexander",
+   "kind": "person",
+   "surface_de": "Alexander",
+   "surface_en": "Alexander",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "European Turkey",
+   "kind": "place",
+   "surface_de": "Europäische Türken",
+   "surface_en": "European Turkey",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pöhlen",
+   "surface_en": "Poles",
+   "page": 4
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Cabanic",
+   "kind": "person",
+   "surface_de": "Cabanic",
+   "surface_en": "Cabanic",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Gniesenau",
+   "kind": "person",
+   "surface_de": "Gniesenau[?]",
+   "surface_en": "Gniesenau",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Briechia",
+   "kind": "person",
+   "surface_de": "Briechia",
+   "surface_en": "Briechia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Brsechwa",
+   "kind": "person",
+   "surface_de": "Brsechwa",
+   "surface_en": "Brsechwa",
+   "page": 4
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kontop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Kontop",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Kontop",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! Since my return from Königsberg I have not yet had one quiet hour; sleep and [uncertain: rest] have become quite strange to me, the most gnawing sorrow accompanies me everywhere and the greatest distress drives me to the point of despair. Kontopp remains [uncertain: continually] sequestrated; I am short here of some 2000 Rthl, I cannot raise them and must suffer that strangers set themselves in my estates, draw my revenues, dispose of them at their arbitrary pleasure, and ruin them. In the Schweinersche estates there is continual execution on account of 2560 Rthl of interest, and on account of the von der Lahr debt. If I could raise the 2560 Rthl, then I should be free and my credit restored. To v. d. Lahr I have sent 300 [uncertain: Cantz] of iron and 14 Schock of boards, where the Schock must hold 1440 feet [uncertain: Rhenish] and each board must be 1 1/2 inches thick and 15 inches broad, at 60 Rthl. This makes together 2570 Rthl. This leech has therefore still 430 Rthl and the interest and costs, which may amount to 300, to receive; then this fellow is entirely satisfied. For this purpose I shall probably have to give a further 10 Schock of boards and send them to Berlin, in order to see myself rescued from the claws of this usurer. The boards are already lying at the water for this purpose, and this notorious business will be settled in a few days; meanwhile through the boards I again lose 1800 Rthl in ready money, with which I could have paid my interest, [have] had the accursed sequestration here lifted, and could have become master of my estates again. I must still endure a while yet and find other counsel; only God knows"
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nSince my return from Königsberg I have not yet had one quiet hour; sleep and [uncertain: rest] have become quite strangers to me, the most gnawing sorrow accompanies me at every turn, and the greatest distress drives me to the point of despair.\n\nKontop remains continuously under sequestration; I am short here by about 2000 Rthl, I cannot raise it, and I must suffer that strangers set themselves in my estates, draw my revenues, dispose over them at their own caprice, and ruin them. On the Schweiner estates there is continuous execution on account of 2560 Rthl in interest, and on account of the von der Lahr debt. If I could raise the 2560 Rthl, then I should be free and my credit would be restored. To von der Lahr I have sent 300 [uncertain: hundredweight] of iron and 14 score of boards, where the score must hold 1440 feet [uncertain: Behinländisch] measure and each board must be 1 1/2 inches thick and 15 inches broad, at 60 Rthl. This comes altogether to 2570 Rthl. This leech has thus still 430 Rthl to receive, together with the interest and costs, which may amount to 300, and then this fellow is entirely satisfied. For this purpose I shall probably have to give a further 10 score of boards and send them to Berlin, in order to see myself rescued from the clutches of this usurer. The boards are already lying at the water for this purpose, and this notorious business will be settled in a few days; meanwhile, through the boards, I again lose 1800 Rthl [uncertain: in ready money], by which I could have paid my interest, had the accursed sequestration here been lifted, and could have become master of my estates again. I must endure yet a while longer and find other counsel; only God knows",
+   "names": [
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Kontoppwind",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "Schweinerschen",
+     "en": "Schweiner",
+     "kind": "other"
+    },
+    {
+     "de": "v. d. Lahr",
+     "en": "von der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Lahrsche",
+     "en": "von der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2000",
+    "2560",
+    "2560",
+    "300",
+    "14",
+    "1440",
+    "1 1/2",
+    "15",
+    "60",
+    "2570",
+    "430",
+    "300",
+    "10",
+    "1800"
+   ]
   },
   {
    "page": 2,
-   "en": "how this is to be brought about quickly, for to sell produce by private contract is impossible; the shortage of money has reached its highest [uncertain: pitch] and increases daily through the exceedingly stupid conduct of the Königsberg people. I have 1000 Scheffel of grain to dispose of; in the vault there lie 105 stone of wool. In the forest there stand 2000 Klafter of wood. This would, at middling rates, amount to some 7000 Rthl. But not a soul will buy, because in Königsberg they are so [uncertain: Scheffel] stupid as to permit the Poles to bring all these products in among us. It is not reckoned that thereby our own money goes out of the country, that one thereby puts into the hands of the Poles the means to arm themselves continually and at last to become dangerous to us again. It is not perceived that thereby our estate-owners are wholly overthrown and ruined. I have described the danger which is nevertheless ours and all these evils in my reports to Königsberg, still from here, and have sought to lay this to the King's heart; but no heed is paid to it; the brood of vipers about the King even takes it ill that one speaks the truth, and therefore every honest man must fall silent and look upon his fate buried in dull pain. My only endeavour now is to obtain the 4560 Rthl, in order to make my estates free and to be rid of the executions that press upon me. I would gladly give up the above-mentioned produce for 2/3 of its value, but the sequestration does not permit me to dispose of it before I have paid the 4560 Rthl; also the want of money is so great that nobody can take and pay so large a lot at once. I must therefore bear this gnawing sorrow a while longer and wait upon God's help. These, however, Most Serene Prince and Lord, are the grounds which prevent me from being able to lay myself at your most exalted feet. That I should long since have hastened to Your Serene Highness, if I could have saved myself, Your most exalted self will surely"
+   "en": "God, how this is to be brought about so quickly, for to sell produce by private treaty is not possible, the shortage of money has reached its highest [uncertain: pitch] and increases daily through the exceedingly stupid conduct of the Königsberg people. I have 1000 bushels of grain to dispose of; in the vault there lie 105 stone of wool. In the forest there stand 2000 cords of wood. This would amount, at middling rates, to some 7000 Rthl. But nobody will buy, because in Königsberg they are so bushel-stupid as to permit the Poles to bring in all these products among us. It is not reckoned that our money thereby goes out of the country, that one thereby puts into the hands of the Poles the means to keep arming themselves continuously, and in the end to become dangerous to us again. It is not perceived that thereby our estate proprietors are utterly overthrown and ruined.\n\nI have, in my reports to Königsberg, described from here as well the danger to us and all these evils, and have sought to lay this to the King's heart; but no notice is taken of it, the brood of vipers about the King even takes it ill that one tells the truth, and therefore every honest man must fall silent and look upon his fate buried in dull pain.\n\nMy sole endeavour is now to obtain the 4560 Rthl, in order to make my estates free, in order to be rid of the executions that press upon me. I would gladly give away the produce noted above for two thirds of its value, but the sequestration does not permit me to dispose of it until I have paid the 4560 Rthl; the want of money, too, is so great that no one can take and pay so large a lot at once. I must therefore bear this gnawing sorrow yet a while longer and wait upon God's help. These, however, Most Serene Prince and Lord, are the reasons which hinder me from being able to lay myself at Your most high feet. That I should long since have hastened to Your Serene Highness, had I been able to save myself, Your most high self will surely",
+   "names": [
+    {
+     "de": "Königsberger",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Konigsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "105",
+    "2000",
+    "7000",
+    "4560",
+    "4560"
+   ]
   },
   {
    "page": 3,
-   "en": "believe of me without great protestations. Heaven is my witness that this alone is why I cannot leave the [uncertain: spot]; for if I go away, then it is believed that I seek to [illegible] and abscond, and the subhastation of all my estates is at once decreed without any mercy. Whither then should I turn in my old age with my children? To return to Russia — for that I am too old, and my children too stand in my way. Believe me, most gracious Lord, I live here more wretchedly than a day-labourer, for my credit is destroyed and, said to you all, many a day I have not a single Groschen, and have several times, so as not to give myself the lie, gone to bed [uncertain: hungry] — Were one not to allow me air and some forbearance, were one to permit me to dispose of my produce, then I should find counsel, pay everything, and remain a man worth at least 400000 Rthl. But they mean to destroy us; they mean by mad sequestrations to bring on the subhastation of the estates and so to overthrow every honest, straightforward fellow. Enough of that — the Lord — I fear I have already wearied Your Serene Highness with this. To no one else do I speak in this tone or let my complaints be heard aloud; I suffer here alone, in silence. In the matter of the inheritance we must take quite other paths; more of that by word of mouth. [text lost] In Your Serene Highness's own affairs there is and remains no other way than that Your most exalted self write directly to the King — For the rest, I believe it is well that Your Serene Highness has not yet done so, for if the honest Major v Pirch is not in Königsberg, then they will seek to turn your business as ill as possible. You have in this commission only 2 true friends, namely H. M. v. Pirch and p v Hache. Greischau I do not trust; he behaves very coldly and is said to have declared that Your Serene Highness had never been his friend, and that he now wished to have nothing to do with your affair. That the O L v Knesebeck is to be taken back into the ranks I do not find altogether becoming. This man is too great a hypochondriac; he demanded his discharge at that time with vehemence, and went off sulking. Whoever once goes off in that fashion ought never to come back to me; such capers should [illegible]."
+   "en": "believe me without great protestations. Heaven is my witness that it is only for this reason that I cannot leave the [uncertain: spot]; for if I go away, then it is believed that I am seeking to abscond, and the compulsory auction of all my estates is at once decreed without any mercy. Where should I then turn, in my old age, with my children? To return to Russia — for that I am too old — and my children too stand in my way. Believe me, most gracious Lord, I live here more wretchedly than a day-labourer, for my credit is annihilated and, said to you all, I have many a day not a single Groschen, and have already several times gone to bed hungry so as not to give myself the lie. Were one allowed air and some forbearance, were I permitted to dispose of my produce, then I should find counsel, pay everything, and remain a man of at least 400000 Rthl. But they mean to annihilate us; they mean, by mad sequestrations, to bring on the compulsory auction of the estates, and so to overthrow every honest, straightforward fellow.\n\nEnough of this, Sir — I fear I have already wearied Your Serene Highness herewith. To nobody do I speak in this tone or let my complaints be heard aloud; I suffer here alone and in silence. In the matter of the inheritance we must take quite other courses; more of that by word of mouth. In Your Serene Highness's own affairs there remains no other way than that Your most high self write directly to the King. — For the rest, I believe it is well that Your Serene Highness has not yet done so, for if the [uncertain: worthy] Major von Pirch is not in Königsberg, then they will try to turn your affair as badly as possible. You have in this commission only the 2 true friends, namely Major von Pirch and von Hache. Greischau I do not trust; he acts very coldly and is said to have said that Your Serene Highness had never been his friend, and that he now wished to have nothing to do with your affair. That Lieutenant-Colonel von Knesebeck is to be put back into the ranks I do not find at all seemly. This man is too great a hypochondriac; he demanded his discharge at that time with vehemence, and went off sulking. Whoever once goes off in that manner ought never, in my view, to come back; such capers ought [illegible].",
+   "names": [
+    {
+     "de": "Ruße land",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "v Pirch",
+     "en": "von Pirch",
+     "kind": "person"
+    },
+    {
+     "de": "Künigsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "H. M. v. Pirch",
+     "en": "von Pirch, Major",
+     "kind": "person"
+    },
+    {
+     "de": "p v Hache",
+     "en": "von Hache",
+     "kind": "person"
+    },
+    {
+     "de": "Greischau",
+     "en": "Greischau",
+     "kind": "person"
+    },
+    {
+     "de": "O L v Knesebeck",
+     "en": "von Knesebeck, Lieutenant-Colonel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "400000",
+    "2"
+   ]
   },
   {
    "page": 4,
-   "en": "Scharnhoritz I do not [uncertain: trust] at all; but his goal may be set near him. Of the Friends of Virtue all is now quiet — thinking, upright men, however, fear from that quarter a wicked explosion. Concerning Russia's conduct opinions are much divided; it is feared that Russia too is making a mark against us. God only grant the E. H. Carl good fortune. If this prince yet now strikes down the monster of the world, then all goes well and we come well out of the [text lost]; then it is to be feared that Austria [text lost] the peace [text lost] affair, but if [text lost] accepts, and appropriates Silesia and Saxony to itself. Constantine on the other hand receives the whole of Poland, Prussia, Pomerania and Silesia as far as the Oder, as Emperor of the Sarmatians, in return for which Alexander is to be guaranteed the European Turkey. The Poles will not yet lay themselves down to the mark — here they recruit and arm, still ever on. Honrichs was here yesterday with Cabanic; if he could export the money, then Your Serene Highness would be helped, and I too could quickly save myself — But they by no means give way, notwithstanding that I have handed over the orders of the French General Gniesenau[?] — He is threatened with being [uncertain: made insecure], and he must deliver all the money to Kalisz, to the [text lost] at the [uncertain: sub-]prefect Briechia, of which he himself has only produced the receipts. I have written to [uncertain: Brsechwa / Briechia] and enquired of him whether cattle and grain might not be exported for the money — if that be accepted, then Honrichs will find counsel enough, bring money instead of it, and know how to produce documents for cattle, grain and spirits purchased. As soon as it is at all possible in the world, and I only see myself somewhat rescued, I shall hasten to Your Serene Highness, to remain there some 4 weeks, to put much in order and, in case of need, then to go back to Prussia. The hundred [text lost] and I have accepted with a contrite heart from Lombardini, since I am still to pay the toll for iron and boards to my collector here, and thus I can carry off nearly the half of it today. In deepest reverence I remain, until death, Your Most Serene Highness's Kontop, the 11th July 1809. most faithfully obedient servant v Triebenfeld"
+   "en": "Scharnhoritz I do not [uncertain: trust] at all; but his goal may be set near him. Of the Friends of Virtue all is now quiet — thinking, upright men, however, fear a grievous explosion from that quarter.\n\nOpinions are much divided about [uncertain: Russia]'s conduct; it is feared that Russia too is making a move against us.\n\nGod grant only good fortune to Archduke Carl. If this Prince now still strikes down the monster of the world, then all goes well and we come well out of the [text lost], then it is to be feared that Austria the peace [text lost] affair, but if in\n\naccepts, but appropriates [uncertain: Silesia] and Saxony to itself. Constantine, on the other hand, receives all Poland, Prussia, Pomerania and Silesia as far as the Oder as Emperor of the Sarmatians, in return for which Alexander is to be guaranteed the European Turkey.\n\nThe Poles will not yet lay themselves to their end — here they recruit, and arm, and still continue to do so. Honrichs was here yesterday with Cabanic; if he might export the money, then Your Serene Highness would be helped, and I too could quickly save myself. — But they will on no account give way, notwithstanding that I handed over the orders of the French General Gniesenau[?]: — They threaten to [uncertain: proceed against] him, and he must deliver all the money to Kalisz to the King, to the sub-prefect Briechia, for which he has himself produced the receipts. I have written to Brsechwa and asked him whether cattle and grain might not be exported for the money — if that is accepted, then Honrichs will find counsel enough, bring money instead of it, and know how to produce documents for cattle, grain and spirits purchased. As soon as it is in any way possible in the world, and I see myself but somewhat rescued, I shall hasten to Your Serene Highness, to remain there for 4 weeks, to set much in order, and if need be then to go to Prussia again. The hundred, and I have accepted with a contrite heart from Lombardini; I am still to pay the duty for iron and boards to my collector here, and there I can carry off nearly the half today as well. In utmost reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKontop\n\nthe 11th of July 1809. most faithfully obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Scharnhoritz",
+     "en": "Scharnhoritz",
+     "kind": "person"
+    },
+    {
+     "de": "Tugendfreunden",
+     "en": "Friends of Virtue",
+     "kind": "other"
+    },
+    {
+     "de": "Waßlands",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "E. H. Carl",
+     "en": "Carl, Archduke",
+     "kind": "person"
+    },
+    {
+     "de": "Osterreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Schloßen",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Konstantin",
+     "en": "Constantine",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Pommern",
+     "en": "Pomerania",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Oder",
+     "en": "Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Sarmaten",
+     "en": "Sarmatians",
+     "kind": "other"
+    },
+    {
+     "de": "Alexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Europäische Türken",
+     "en": "European Turkey",
+     "kind": "place"
+    },
+    {
+     "de": "Pöhlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanic",
+     "en": "Cabanic",
+     "kind": "person"
+    },
+    {
+     "de": "Gniesenau[?]",
+     "en": "Gniesenau",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Briechia",
+     "en": "Briechia",
+     "kind": "person"
+    },
+    {
+     "de": "Brsechwa",
+     "en": "Brsechwa",
+     "kind": "person"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Kontop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4",
+    "11",
+    "1809"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! Since my return from Königsberg I have not yet had one quiet hour; sleep and [uncertain: rest] have become quite strange to me, the most gnawing sorrow accompanies me everywhere and the greatest distress drives me to the point of despair. Kontopp remains [uncertain: continually] sequestrated; I am short here of some 2000 Rthl, I cannot raise them and must suffer that strangers set themselves in my estates, draw my revenues, dispose of them at their arbitrary pleasure, and ruin them. In the Schweinersche estates there is continual execution on account of 2560 Rthl of interest, and on account of the von der Lahr debt. If I could raise the 2560 Rthl, then I should be free and my credit restored. To v. d. Lahr I have sent 300 [uncertain: Cantz] of iron and 14 Schock of boards, where the Schock must hold 1440 feet [uncertain: Rhenish] and each board must be 1 1/2 inches thick and 15 inches broad, at 60 Rthl. This makes together 2570 Rthl. This leech has therefore still 430 Rthl and the interest and costs, which may amount to 300, to receive; then this fellow is entirely satisfied. For this purpose I shall probably have to give a further 10 Schock of boards and send them to Berlin, in order to see myself rescued from the claws of this usurer. The boards are already lying at the water for this purpose, and this notorious business will be settled in a few days; meanwhile through the boards I again lose 1800 Rthl in ready money, with which I could have paid my interest, [have] had the accursed sequestration here lifted, and could have become master of my estates again. I must still endure a while yet and find other counsel; only God knows\n\nhow this is to be brought about quickly, for to sell produce by private contract is impossible; the shortage of money has reached its highest [uncertain: pitch] and increases daily through the exceedingly stupid conduct of the Königsberg people. I have 1000 Scheffel of grain to dispose of; in the vault there lie 105 stone of wool. In the forest there stand 2000 Klafter of wood. This would, at middling rates, amount to some 7000 Rthl. But not a soul will buy, because in Königsberg they are so [uncertain: Scheffel] stupid as to permit the Poles to bring all these products in among us. It is not reckoned that thereby our own money goes out of the country, that one thereby puts into the hands of the Poles the means to arm themselves continually and at last to become dangerous to us again. It is not perceived that thereby our estate-owners are wholly overthrown and ruined. I have described the danger which is nevertheless ours and all these evils in my reports to Königsberg, still from here, and have sought to lay this to the King's heart; but no heed is paid to it; the brood of vipers about the King even takes it ill that one speaks the truth, and therefore every honest man must fall silent and look upon his fate buried in dull pain. My only endeavour now is to obtain the 4560 Rthl, in order to make my estates free and to be rid of the executions that press upon me. I would gladly give up the above-mentioned produce for 2/3 of its value, but the sequestration does not permit me to dispose of it before I have paid the 4560 Rthl; also the want of money is so great that nobody can take and pay so large a lot at once. I must therefore bear this gnawing sorrow a while longer and wait upon God's help. These, however, Most Serene Prince and Lord, are the grounds which prevent me from being able to lay myself at your most exalted feet. That I should long since have hastened to Your Serene Highness, if I could have saved myself, Your most exalted self will surely\n\nbelieve of me without great protestations. Heaven is my witness that this alone is why I cannot leave the [uncertain: spot]; for if I go away, then it is believed that I seek to [illegible] and abscond, and the subhastation of all my estates is at once decreed without any mercy. Whither then should I turn in my old age with my children? To return to Russia — for that I am too old, and my children too stand in my way. Believe me, most gracious Lord, I live here more wretchedly than a day-labourer, for my credit is destroyed and, said to you all, many a day I have not a single Groschen, and have several times, so as not to give myself the lie, gone to bed [uncertain: hungry] — Were one not to allow me air and some forbearance, were one to permit me to dispose of my produce, then I should find counsel, pay everything, and remain a man worth at least 400000 Rthl. But they mean to destroy us; they mean by mad sequestrations to bring on the subhastation of the estates and so to overthrow every honest, straightforward fellow. Enough of that — the Lord — I fear I have already wearied Your Serene Highness with this. To no one else do I speak in this tone or let my complaints be heard aloud; I suffer here alone, in silence. In the matter of the inheritance we must take quite other paths; more of that by word of mouth. [text lost] In Your Serene Highness's own affairs there is and remains no other way than that Your most exalted self write directly to the King — For the rest, I believe it is well that Your Serene Highness has not yet done so, for if the honest Major v Pirch is not in Königsberg, then they will seek to turn your business as ill as possible. You have in this commission only 2 true friends, namely H. M. v. Pirch and p v Hache. Greischau I do not trust; he behaves very coldly and is said to have declared that Your Serene Highness had never been his friend, and that he now wished to have nothing to do with your affair. That the O L v Knesebeck is to be taken back into the ranks I do not find altogether becoming. This man is too great a hypochondriac; he demanded his discharge at that time with vehemence, and went off sulking. Whoever once goes off in that fashion ought never to come back to me; such capers should [illegible].\n\nScharnhoritz I do not [uncertain: trust] at all; but his goal may be set near him. Of the Friends of Virtue all is now quiet — thinking, upright men, however, fear from that quarter a wicked explosion. Concerning Russia's conduct opinions are much divided; it is feared that Russia too is making a mark against us. God only grant the E. H. Carl good fortune. If this prince yet now strikes down the monster of the world, then all goes well and we come well out of the [text lost]; then it is to be feared that Austria [text lost] the peace [text lost] affair, but if [text lost] accepts, and appropriates Silesia and Saxony to itself. Constantine on the other hand receives the whole of Poland, Prussia, Pomerania and Silesia as far as the Oder, as Emperor of the Sarmatians, in return for which Alexander is to be guaranteed the European Turkey. The Poles will not yet lay themselves down to the mark — here they recruit and arm, still ever on. Honrichs was here yesterday with Cabanic; if he could export the money, then Your Serene Highness would be helped, and I too could quickly save myself — But they by no means give way, notwithstanding that I have handed over the orders of the French General Gniesenau[?] — He is threatened with being [uncertain: made insecure], and he must deliver all the money to Kalisz, to the [text lost] at the [uncertain: sub-]prefect Briechia, of which he himself has only produced the receipts. I have written to [uncertain: Brsechwa / Briechia] and enquired of him whether cattle and grain might not be exported for the money — if that be accepted, then Honrichs will find counsel enough, bring money instead of it, and know how to produce documents for cattle, grain and spirits purchased. As soon as it is at all possible in the world, and I only see myself somewhat rescued, I shall hasten to Your Serene Highness, to remain there some 4 weeks, to put much in order and, in case of need, then to go back to Prussia. The hundred [text lost] and I have accepted with a contrite heart from Lombardini, since I am still to pay the toll for iron and boards to my collector here, and thus I can carry off nearly the half of it today. In deepest reverence I remain, until death, Your Most Serene Highness's Kontop, the 11th July 1809. most faithfully obedient servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nSince my return from Königsberg I have not yet had one quiet hour; sleep and [uncertain: rest] have become quite strangers to me, the most gnawing sorrow accompanies me at every turn, and the greatest distress drives me to the point of despair.\n\nKontop remains continuously under sequestration; I am short here by about 2000 Rthl, I cannot raise it, and I must suffer that strangers set themselves in my estates, draw my revenues, dispose over them at their own caprice, and ruin them. On the Schweiner estates there is continuous execution on account of 2560 Rthl in interest, and on account of the von der Lahr debt. If I could raise the 2560 Rthl, then I should be free and my credit would be restored. To von der Lahr I have sent 300 [uncertain: hundredweight] of iron and 14 score of boards, where the score must hold 1440 feet [uncertain: Behinländisch] measure and each board must be 1 1/2 inches thick and 15 inches broad, at 60 Rthl. This comes altogether to 2570 Rthl. This leech has thus still 430 Rthl to receive, together with the interest and costs, which may amount to 300, and then this fellow is entirely satisfied. For this purpose I shall probably have to give a further 10 score of boards and send them to Berlin, in order to see myself rescued from the clutches of this usurer. The boards are already lying at the water for this purpose, and this notorious business will be settled in a few days; meanwhile, through the boards, I again lose 1800 Rthl [uncertain: in ready money], by which I could have paid my interest, had the accursed sequestration here been lifted, and could have become master of my estates again. I must endure yet a while longer and find other counsel; only God knows\n\nGod, how this is to be brought about so quickly, for to sell produce by private treaty is not possible, the shortage of money has reached its highest [uncertain: pitch] and increases daily through the exceedingly stupid conduct of the Königsberg people. I have 1000 bushels of grain to dispose of; in the vault there lie 105 stone of wool. In the forest there stand 2000 cords of wood. This would amount, at middling rates, to some 7000 Rthl. But nobody will buy, because in Königsberg they are so bushel-stupid as to permit the Poles to bring in all these products among us. It is not reckoned that our money thereby goes out of the country, that one thereby puts into the hands of the Poles the means to keep arming themselves continuously, and in the end to become dangerous to us again. It is not perceived that thereby our estate proprietors are utterly overthrown and ruined.\n\nI have, in my reports to Königsberg, described from here as well the danger to us and all these evils, and have sought to lay this to the King's heart; but no notice is taken of it, the brood of vipers about the King even takes it ill that one tells the truth, and therefore every honest man must fall silent and look upon his fate buried in dull pain.\n\nMy sole endeavour is now to obtain the 4560 Rthl, in order to make my estates free, in order to be rid of the executions that press upon me. I would gladly give away the produce noted above for two thirds of its value, but the sequestration does not permit me to dispose of it until I have paid the 4560 Rthl; the want of money, too, is so great that no one can take and pay so large a lot at once. I must therefore bear this gnawing sorrow yet a while longer and wait upon God's help. These, however, Most Serene Prince and Lord, are the reasons which hinder me from being able to lay myself at Your most high feet. That I should long since have hastened to Your Serene Highness, had I been able to save myself, Your most high self will surely\n\nbelieve me without great protestations. Heaven is my witness that it is only for this reason that I cannot leave the [uncertain: spot]; for if I go away, then it is believed that I am seeking to abscond, and the compulsory auction of all my estates is at once decreed without any mercy. Where should I then turn, in my old age, with my children? To return to Russia — for that I am too old — and my children too stand in my way. Believe me, most gracious Lord, I live here more wretchedly than a day-labourer, for my credit is annihilated and, said to you all, I have many a day not a single Groschen, and have already several times gone to bed hungry so as not to give myself the lie. Were one allowed air and some forbearance, were I permitted to dispose of my produce, then I should find counsel, pay everything, and remain a man of at least 400000 Rthl. But they mean to annihilate us; they mean, by mad sequestrations, to bring on the compulsory auction of the estates, and so to overthrow every honest, straightforward fellow.\n\nEnough of this, Sir — I fear I have already wearied Your Serene Highness herewith. To nobody do I speak in this tone or let my complaints be heard aloud; I suffer here alone and in silence. In the matter of the inheritance we must take quite other courses; more of that by word of mouth. In Your Serene Highness's own affairs there remains no other way than that Your most high self write directly to the King. — For the rest, I believe it is well that Your Serene Highness has not yet done so, for if the [uncertain: worthy] Major von Pirch is not in Königsberg, then they will try to turn your affair as badly as possible. You have in this commission only the 2 true friends, namely Major von Pirch and von Hache. Greischau I do not trust; he acts very coldly and is said to have said that Your Serene Highness had never been his friend, and that he now wished to have nothing to do with your affair. That Lieutenant-Colonel von Knesebeck is to be put back into the ranks I do not find at all seemly. This man is too great a hypochondriac; he demanded his discharge at that time with vehemence, and went off sulking. Whoever once goes off in that manner ought never, in my view, to come back; such capers ought [illegible].\n\nScharnhoritz I do not [uncertain: trust] at all; but his goal may be set near him. Of the Friends of Virtue all is now quiet — thinking, upright men, however, fear a grievous explosion from that quarter.\n\nOpinions are much divided about [uncertain: Russia]'s conduct; it is feared that Russia too is making a move against us.\n\nGod grant only good fortune to Archduke Carl. If this Prince now still strikes down the monster of the world, then all goes well and we come well out of the [text lost], then it is to be feared that Austria the peace [text lost] affair, but if in\n\naccepts, but appropriates [uncertain: Silesia] and Saxony to itself. Constantine, on the other hand, receives all Poland, Prussia, Pomerania and Silesia as far as the Oder as Emperor of the Sarmatians, in return for which Alexander is to be guaranteed the European Turkey.\n\nThe Poles will not yet lay themselves to their end — here they recruit, and arm, and still continue to do so. Honrichs was here yesterday with Cabanic; if he might export the money, then Your Serene Highness would be helped, and I too could quickly save myself. — But they will on no account give way, notwithstanding that I handed over the orders of the French General Gniesenau[?]: — They threaten to [uncertain: proceed against] him, and he must deliver all the money to Kalisz to the King, to the sub-prefect Briechia, for which he has himself produced the receipts. I have written to Brsechwa and asked him whether cattle and grain might not be exported for the money — if that is accepted, then Honrichs will find counsel enough, bring money instead of it, and know how to produce documents for cattle, grain and spirits purchased. As soon as it is in any way possible in the world, and I see myself but somewhat rescued, I shall hasten to Your Serene Highness, to remain there for 4 weeks, to set much in order, and if need be then to go to Prussia again. The hundred, and I have accepted with a contrite heart from Lombardini; I am still to pay the duty for iron and boards to my collector here, and there I can carry off nearly the half today as well. In utmost reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKontop\n\nthe 11th of July 1809. most faithfully obedient servant\n\nvon Triebenfeld",
  "summary_en": "Triebenfeld pleads his own ruin: Kontopp remains sequestrated for want of some 2000 Rthl, the Schweinersche estates are under execution for 2560 Rthl interest and the von der Lahr debt, partly settled with iron and boards worth 2570 Rthl at a loss of 1800 Rthl in cash. Grain, 105 stone of wool and 2000 Klafter of wood are unsaleable because Königsberg admits Polish produce. He urges the Prince to write directly to the King, rating Pirch and Hache trustworthy but Greischau, Knesebeck and Scharnhoritz not, and reports Polish rearmament, rumoured partition schemes, and Honrichs's blocked money transfer via Kalisz.",
  "summary_de": "Klage über die fortdauernde Sequestration von Kontopp und laufende Execution in den Schweinerschen Gütern wegen 2560 Rthl Zinsen und der von der Lahrschen Schuld; an v. d. Lahr gingen Eisen und 14 Schock Bretter (2570 Rthl), weitere 10 Schock sollen nach Berlin folgen. Erst nach Zahlung von 4560 Rthl darf Triebenfeld über 1000 Scheffel Getreide, 105 Stein Wolle und 2000 Klafter Holz verfügen; Geldmangel und polnische Einfuhr verhindern jeden Verkauf. Der Fürst solle direkt an den König schreiben; verlässlich seien nur v. Pirch und v. Hache, nicht Greischau. Nachrichten über Honrichs, Cabanic und Kalisz, Rüstungen der Polen, Rußland und Erzherzog Carl."
 }

@@ -1,42 +1,151 @@
 status: draft
 segments:
 - page: 1
-  en: 'Right Honourable Sir, most especially Highly Honoured Sir Lieutenant! Handsomely must I indeed
-    [uncertain: reading], Your Right Honourable''s kind letter to have left so long thankfully unanswered;
-    did I not count upon your kind indulgence, it would not now be from anew of carriages to burden the
-    same with my present ones. That I have had to leave Silesia and Brau, wherein I lived for nearly 49
-    years, mostly happily and gladly, and chose [this place] for my residence, in order to press my most
-    urgent affairs, the loss of my fortune, better here, and if possible still to salvage something, is
-    perhaps not entirely unknown to you. Only the prospects in this are still not very clear, and even
-    my old former legal agent in Josen, Herr Weltzer, who is now also staying here, and who believes he
-    understands the Polish justice, has little hope. The Foreign Department has, on my behalf, [uncertain:
-    entrusted itself] to the Dresden court; but this one too, though he holds that the debts previously
-    paid'
+  en: 'Right Honourable Sir, Most particularly Highly Honoured Lieutenant! I must indeed be ashamed to
+    have left Your Right Honourable''s kind letter so long unanswered with my thanks; did I not count
+    upon your kind indulgence, I should not now venture anew to burden you with the present one.
+
+
+    That I have had to leave [uncertain: Silesia] and [uncertain: Brau], wherein I lived near 49 years
+    mostly happy and content, and chose [illegible] for my residence, in order the better to pursue here
+    my most pressing affairs, the loss of my fortune, and if possible still to salvage something, will
+    perhaps not be entirely unknown to you. Only, the prospects in this matter are not yet very clear,
+    and even my old former counsel in [uncertain: Josen], Mr Weltzer, who is now likewise staying here,
+    and who believes he knows the Polish justice, has little hope; the Foreign Department has [uncertain:
+    pledged] itself on my behalf to the [uncertain: Dresden Huffe], but this one too would have it that
+    the previously paid'
+  names:
+  - de: Ew. Hochwohlgebl.
+    en: Your Right Honourable
+    kind: other
+  - de: Schleßen
+    en: Silesia
+    kind: place
+  - de: Brau
+    en: Brau
+    kind: place
+  - de: Josen
+    en: Josen
+    kind: place
+  - de: Hl. Weltzer
+    en: Mr Weltzer
+    kind: person
+  - de: Dresden
+    en: Dresden
+    kind: place
+  - de: Huffe
+    en: Huffe
+    kind: other
+  numbers:
+  - '49'
 - page: 2
-  en: 'could be pursued, yet as concerns the estates themselves he seeks — apart from there being no official
-    command of the Emperor for this — to excuse the Polish judges of that time, and to render the articles
-    of the Peace of Tilsit, so far as they bear upon this matter, inapplicable to it. The French envoy
-    here, with whom [there was] much [dealing] during my earlier stay here, holds out hope to me in this
-    manner: that if no express Imperial command exists for this, and I could give him the official [documents],
-    he would take up my [cause]. Finally I have [word] himself from the Saxon court, who says that the
-    Dąbska woman petitioned the Emperor at Dresden for the restitution of the estates — that His Imperial
-    Majesty merely forwarded her petition to the then Pluish government. Upon this the Pluish commissioners
-    ordered that the estates be given back to the Dąbska woman. At present I am occupied [in having] this
-    [passed over / overlooked], and shall see how far'
+  en: 'debts might be recovered; but as concerns the estates themselves, he seeks — setting aside that
+    no official command of the Emperor exists for this — to excuse the then Polish judges and to render
+    the peace articles of Tilsit, so far as they are in favour of and herein, not applicable to the case.
+
+
+    The French envoy here, with whom [uncertain: formerly] there was much during my stay here, gives me
+    hope in this manner: that if no express Imperial command exists for it, and I could give him the official
+    [document], he would take my [cause] upon himself. At length I have it from the Saxon court itself,
+    which says that the lady Dąbska in Dresden petitioned the Emperor for the restitution of the estates
+    — that His Imperial Majesty merely forwarded her petition to the then [uncertain: Prussian] government.
+    Upon this the [uncertain: Prussian] commissioners ordered that the estates be given back to the lady
+    Dąbska. At present I am occupied in having this [uncertain: transcribed], and shall see how far'
+  names:
+  - de: Keisers
+    en: the Emperor
+    kind: other
+  - de: tilsitum
+    en: Tilsit
+    kind: place
+  - de: Franzosische Gesante
+    en: the French envoy
+    kind: other
+  - de: Sächsischen Hofe
+    en: the Saxon court
+    kind: other
+  - de: Dąbska
+    en: Dąbska
+    kind: person
+  - de: desden
+    en: Dresden
+    kind: place
+  - de: Pluischen Regierung
+    en: Prussian government
+    kind: other
+  - de: Pluische Commissarien
+    en: Prussian commissioners
+    kind: other
 - page: 3
-  en: 'the French envoy here will take up this matter, and I have also not failed to give Your Right Honourable
-    notice of it at once, so that His Most Serene Highness — to whose graces I beg to be commended — might
-    perhaps likewise make use of it. [How] shall I forget the benefactions which I received through this
-    Prince; my attachment can and will never die. Has then no sentence yet come out of the first tribunal
-    concerning the Prince''s Trombſchyner estates? Would Your Right Honourable have the goodness to let
-    me know, 1) if possible in copy — what the Peace [uncertain: Ruhte] has adjudged, and 2ndly what the
-    sentence with the tribunal has stated? News I would gladly [send] you in plenty, but what is given
-    out here as certain on one day is doubted the next, and on the third a second, often contradictory
-    [report] displaces'
+  en: 'the French envoy here will take up these matters, and I have also not failed to give Your Right
+    Honourable notice of it at once, so that His Most Serene Highness — to whose grace I beg to be commended
+    — might perhaps likewise make use of it.
+
+
+    I shall never forget the benefactions I received through this Prince; my attachment can and will never
+    die.
+
+
+    Is there then still no sentence out of the first tribunal concerning the Prince''s Trąbczyn estates?
+    Would Your Right Honourable have the goodness to let me know, 1) if possible in copy — what the peace
+    [uncertain: rod] adjudged, and 2nd, what the sentence with the tribunal has declared?
+
+
+    News I would gladly [give] you in plenty, only what is here given out for certain on one day is doubted
+    on the next, and on the third a second, often contradictory, one displaces'
+  names:
+  - de: Französische hiesige Gesente
+    en: the French envoy here
+    kind: other
+  - de: Fr. Hochwohlgebl.
+    en: Your Right Honourable
+    kind: other
+  - de: Fr. Hochfürstlich Durchlaucht
+    en: His Most Serene Highness
+    kind: other
+  - de: Fürsten
+    en: the Prince
+    kind: other
+  - de: Trombſchyner
+    en: Trąbczyn
+    kind: place
+  - de: triebonal
+    en: tribunal
+    kind: other
+  numbers:
+  - '1'
+  - '2'
 - page: 4
-  en: 'the first. So much, however, does seem to shine forth from it all, that an early outbreak of the
-    war in the North is presumed. Were it clear in the evening, then it would be burning in the North
-    — that, I believe, is the conductor. In expectation of a [uncertain: kindly] reply, and of pardon
-    for my negligence, I remain, in the most perfect esteem, lifelong, Your Right Honourable''s Berlin,
-    the 15th of August 1811 Stralauer Str: No 13 wholly obedient and faithful [uncertain: Euder] servant
-    v Sanitz'
+  en: 'the first. This much, however, does seem to shine forth from it all, that an early outbreak of
+    war in the north is surmised. Were it clear in the evening, then it would be burning in the north
+    — that, I believe, is the conductor. Awaiting a kindly answer and the pardon of my negligence, I remain
+    in the most perfect esteem, lifelong, Your Right Honourable''s
+
+
+    Berlin
+
+
+    the 15th of August 1811
+
+
+    Stalauer Street:
+
+
+    No. 13 wholly obedient and faithful [uncertain: Euder] servant, von Sanitz'
+  names:
+  - de: Norden
+    en: the north
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: 'Stalauer Str:'
+    en: Stalauer Street
+    kind: place
+  - de: v Sanitz
+    en: von Sanitz
+    kind: person
+  numbers:
+  - '15'
+  - '1811'
+  - '13'

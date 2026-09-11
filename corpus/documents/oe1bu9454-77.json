@@ -148,24 +148,204 @@
    "doc_line": 69
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "beyhm",
+   "display": "Beyhm",
+   "kind": "person",
+   "surface_de": "Beyhm",
+   "surface_en": "Beyhm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "vVoss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Glen",
+   "kind": "person",
+   "surface_de": "Glen",
+   "surface_en": "Glen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tieten",
+   "kind": "person",
+   "surface_de": "Tieten",
+   "surface_en": "Tieten",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "Prince Sacken",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Herr von Burensprung",
+   "kind": "person",
+   "surface_de": "H. v Burensprung",
+   "surface_en": "Herr von Burensprung",
+   "page": 3
+  },
+  {
+   "entity": "wedel",
+   "display": "Wedel",
+   "kind": "person",
+   "surface_de": "Wedel",
+   "surface_en": "Wedel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Lindenau",
+   "kind": "person",
+   "surface_de": "Lindenau",
+   "surface_en": "Lindenau",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Berlin",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Lord! That everything is going according to wish, Your Most Serene Highness will [uncertain: Fuh] deign to be convinced from the letter which you receive today from His Majesty in the Privy Councillor Beyhm. The matter goes off today to Minister v. Voss, that he is to report with the utmost dispatch – In this matter provision has now also been made that the business shall not be dragged along the long road. In the meantime it would now be very well if [uncertain: Glen] were to draw up the valuations quite thoroughly, so that they conform with the submitted Designation and with the contracts mentioned therein. The contracts I have all here; only those of Tieten must [illegible] I have there and keep in the best condition. Until everything is in the clear (that is to say, what is to be done here), I shall not depart from here. A man in Potsdam – I have engaged, who"
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nThat everything is going according to wish, Your Most Serene Highness will deign to be convinced [uncertain: Fuh] from the letter which you receive today from His Majesty in the Privy Councillor Beyhm. To Minister von Voss the matter goes off today, that he is to report with the utmost dispatch – In this matter provision has now also been made that the business shall not be dragged along the long road. In the meantime it would now be very good if Glen were to draw up the valuations quite thoroughly, so that they conform to the schedule submitted and to the contracts mentioned therein. The contracts I have all here, only those of Tieten must [uncertain: ölzte] have there and keep in the best condition. Not before everything is in the clear (that is to say, what is to be done here) do I depart from here. A man in Potsdam – I have engaged, who",
+   "names": [
+    {
+     "de": "Beyhm",
+     "en": "Beyhm",
+     "kind": "person"
+    },
+    {
+     "de": "vVoss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Glen",
+     "en": "Glen",
+     "kind": "person"
+    },
+    {
+     "de": "Tieten",
+     "en": "Tieten",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    }
+   ]
   },
   {
    "page": 2,
-   "en": "will be and remain active not only for now but also hereafter – but I must expend something upon it. Herr v. Michaelis will write today for a power of attorney; this Your Most Serene Highness may send through him, only so that various things may be settled here in loco without needing to become long-drawn-out. I hope to God that the matter will now be settled quite according to wish, and even better than I at first believed – I shall certainly attend to everything in the best manner with the most glowing zeal. — I am at the same time providing for a loan suited to the matter, so that one may not fall into embarrassment and may keep one's word to the good King. Only upon this shall I always be thinking, that the estates remain what they are, indeed that they shall become and remain always the first jewel of all the property belonging to Your Serene Highness — and in this regard I shall first show myself truly effective at the finalisation of the business. Only for now I still wish to remain in"
+   "en": "will be and remain active not only for now but also hereafter – but I must expend something upon it. Herr von Michaelis will write today for a power of attorney; this Your Most Serene [Highness] should send through him, only so that various things may be settled here on the spot without having to become long-drawn-out. I hope to God that the matter will now be settled quite according to wish, and even better than I at first believed – I shall assuredly attend to everything in the best manner with the most glowing zeal — I am at the same time also providing for a loan suited to the matter, so that one does not come into embarrassment and can keep one's word to the good King. Only this shall I always bear in mind, that the estates remain what they are, indeed that they shall ever become and remain the first jewel of all the property belonging to Your Serene Highness — and in this regard I shall only truly show myself effective at the finalisation of the business. Only for now I still wish to remain in",
+   "names": [
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    }
+   ]
   },
   {
    "page": 3,
-   "en": "the background, so that envy may not perhaps, on account of my humble self, play Your Serene Highness a trick – The Minister, who here is truly in every respect quite well, commends himself most cordially to Your Serene Highness. One further matter I find necessary: let Your Serene Highness send me a couple of blanks for letters, such as I might have to write to someone in haste; that is, on the other side with a signature and beneath it \"most devoted servant H.\" I shall use such only in the most urgent cases, and in such a manner [uncertain: mippen] that Your Serene Highness can never withhold from me your satisfaction, for one is already necessary for the man in Potsdam. Tomorrow I go to His Serene Highness the Prince Sacken, to bring him the glad news how far the matter has already advanced. In deepest reverence I remain, until death, Your Most Serene Highness's — Herr v. Burensprung, however, has become Land Forest Master, and Wedel remains for the present what he is – In general, however, one meets with various changes. Lindenau has received the title of Excellency. Berlin, the 6th of October 1798, most humble and faithful servant v Triebenfeld"
+   "en": "the background, so that envy may not, in consideration of my humble self, play Your Serene Highness a trick – The Minister, who here is truly in every respect quite well, commends himself most cordially to Your Serene Highness. One further matter I find necessary: let Your Serene Highness send me a couple of blank sheets for letters, such as I might have to write in haste to someone, that is, on the other side with a signature and above it\n\nmost devoted servant\n\nH. I shall use such only in the most urgent cases, and so [uncertain: mippen] that Your Serene Highness will never be able to deny me your satisfaction, for one such is already necessary for the man in Potsdam. Tomorrow I go to His Serene Highness the Prince Sacken, to bring to the same the glad news of how far the matter has already advanced.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's\n\nHerr von Burensprung, however, has become Land Master of Forests, and Wedel remains for the present what he is – In general, however, various changes are to be looked for. Lindenau has received the title of Excellency. Berlin, the 6th of October 1798\n\nmost humble and faithful servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten Sacken",
+     "en": "Prince Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "H. v Burensprung",
+     "en": "Herr von Burensprung",
+     "kind": "person"
+    },
+    {
+     "de": "Wedel",
+     "en": "Wedel",
+     "kind": "person"
+    },
+    {
+     "de": "Lindenau",
+     "en": "Lindenau",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6",
+    "1798"
+   ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Lord! That everything is going according to wish, Your Most Serene Highness will [uncertain: Fuh] deign to be convinced from the letter which you receive today from His Majesty in the Privy Councillor Beyhm. The matter goes off today to Minister v. Voss, that he is to report with the utmost dispatch – In this matter provision has now also been made that the business shall not be dragged along the long road. In the meantime it would now be very well if [uncertain: Glen] were to draw up the valuations quite thoroughly, so that they conform with the submitted Designation and with the contracts mentioned therein. The contracts I have all here; only those of Tieten must [illegible] I have there and keep in the best condition. Until everything is in the clear (that is to say, what is to be done here), I shall not depart from here. A man in Potsdam – I have engaged, who\n\nwill be and remain active not only for now but also hereafter – but I must expend something upon it. Herr v. Michaelis will write today for a power of attorney; this Your Most Serene Highness may send through him, only so that various things may be settled here in loco without needing to become long-drawn-out. I hope to God that the matter will now be settled quite according to wish, and even better than I at first believed – I shall certainly attend to everything in the best manner with the most glowing zeal. — I am at the same time providing for a loan suited to the matter, so that one may not fall into embarrassment and may keep one's word to the good King. Only upon this shall I always be thinking, that the estates remain what they are, indeed that they shall become and remain always the first jewel of all the property belonging to Your Serene Highness — and in this regard I shall first show myself truly effective at the finalisation of the business. Only for now I still wish to remain in\n\nthe background, so that envy may not perhaps, on account of my humble self, play Your Serene Highness a trick – The Minister, who here is truly in every respect quite well, commends himself most cordially to Your Serene Highness. One further matter I find necessary: let Your Serene Highness send me a couple of blanks for letters, such as I might have to write to someone in haste; that is, on the other side with a signature and beneath it \"most devoted servant H.\" I shall use such only in the most urgent cases, and in such a manner [uncertain: mippen] that Your Serene Highness can never withhold from me your satisfaction, for one is already necessary for the man in Potsdam. Tomorrow I go to His Serene Highness the Prince Sacken, to bring him the glad news how far the matter has already advanced. In deepest reverence I remain, until death, Your Most Serene Highness's — Herr v. Burensprung, however, has become Land Forest Master, and Wedel remains for the present what he is – In general, however, one meets with various changes. Lindenau has received the title of Excellency. Berlin, the 6th of October 1798, most humble and faithful servant v Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nThat everything is going according to wish, Your Most Serene Highness will deign to be convinced [uncertain: Fuh] from the letter which you receive today from His Majesty in the Privy Councillor Beyhm. To Minister von Voss the matter goes off today, that he is to report with the utmost dispatch – In this matter provision has now also been made that the business shall not be dragged along the long road. In the meantime it would now be very good if Glen were to draw up the valuations quite thoroughly, so that they conform to the schedule submitted and to the contracts mentioned therein. The contracts I have all here, only those of Tieten must [uncertain: ölzte] have there and keep in the best condition. Not before everything is in the clear (that is to say, what is to be done here) do I depart from here. A man in Potsdam – I have engaged, who\n\nwill be and remain active not only for now but also hereafter – but I must expend something upon it. Herr von Michaelis will write today for a power of attorney; this Your Most Serene [Highness] should send through him, only so that various things may be settled here on the spot without having to become long-drawn-out. I hope to God that the matter will now be settled quite according to wish, and even better than I at first believed – I shall assuredly attend to everything in the best manner with the most glowing zeal — I am at the same time also providing for a loan suited to the matter, so that one does not come into embarrassment and can keep one's word to the good King. Only this shall I always bear in mind, that the estates remain what they are, indeed that they shall ever become and remain the first jewel of all the property belonging to Your Serene Highness — and in this regard I shall only truly show myself effective at the finalisation of the business. Only for now I still wish to remain in\n\nthe background, so that envy may not, in consideration of my humble self, play Your Serene Highness a trick – The Minister, who here is truly in every respect quite well, commends himself most cordially to Your Serene Highness. One further matter I find necessary: let Your Serene Highness send me a couple of blank sheets for letters, such as I might have to write in haste to someone, that is, on the other side with a signature and above it\n\nmost devoted servant\n\nH. I shall use such only in the most urgent cases, and so [uncertain: mippen] that Your Serene Highness will never be able to deny me your satisfaction, for one such is already necessary for the man in Potsdam. Tomorrow I go to His Serene Highness the Prince Sacken, to bring to the same the glad news of how far the matter has already advanced.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's\n\nHerr von Burensprung, however, has become Land Master of Forests, and Wedel remains for the present what he is – In general, however, various changes are to be looked for. Lindenau has received the title of Excellency. Berlin, the 6th of October 1798\n\nmost humble and faithful servant\n\nvon Triebenfeld",
  "summary_en": "Reports progress on the affair in Berlin: a royal letter has come through Privy Councillor Beyhm and the matter goes to Minister v. Voss for speedy report. Urges thorough valuations conforming to the submitted Designation and the contracts, which Triebenfeld holds; notes an agent engaged at Potsdam, a power of attorney to be requested via Herr v. Michaelis, and a loan being arranged. Requests signed blank letter-sheets, and reports appointments: Burensprung as Land Forest Master, Lindenau's Excellency title.",
  "summary_de": "Meldet günstigen Fortgang der Angelegenheit: das Schreiben des Königs sei durch Geheimen Rath Beyhm ergangen, die Sache gehe noch heute an Minister v. Voss zur schleunigen Berichterstattung. Bittet, die Taxen mit der eingereichten Designation und den Contracten in Übereinstimmung bringen zu lassen; die Contracte habe er bei sich, nur die Tietener seien dort zu verwahren. Herr v. Michaelis werde um eine Vollmacht schreiben; ferner erbittet er unterschriebene Blanquette, auch für einen in Potsdam gewonnenen Mann. Kündigt Bemühungen um ein Darlehn und einen Besuch bei Fürst Sacken an; Personalnachrichten über v. Burensprung, Wedel und Lindenau."
 }

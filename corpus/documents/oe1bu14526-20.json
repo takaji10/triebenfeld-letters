@@ -66,16 +66,179 @@
    "doc_line": 18
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Christian Birlack",
+   "kind": "person",
+   "surface_de": "Johann Christian Birlack",
+   "surface_en": "Johann Christian Birlack",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zilenzig",
+   "kind": "place",
+   "surface_de": "Zilenzig",
+   "surface_en": "Zilenzig",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johan Götzinger",
+   "kind": "person",
+   "surface_de": "Johan Götzinger",
+   "surface_en": "Johan Götzinger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brennenhofs Fleis",
+   "kind": "place",
+   "surface_de": "Brennenhofs Fleis",
+   "surface_en": "Brennenhofs Fleis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Joh. Siebert",
+   "kind": "person",
+   "surface_de": "Joh. Siebert",
+   "surface_en": "Joh. Siebert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zamaika",
+   "kind": "place",
+   "surface_de": "Zamaika",
+   "surface_en": "Zamaika",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sonnenburg",
+   "kind": "place",
+   "surface_de": "Sonnenburg",
+   "surface_en": "Sonnenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Götzinger",
+   "kind": "person",
+   "surface_de": "Friedrich Götzinger",
+   "surface_en": "Friedrich Götzinger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Whereas I have this day made over by way of hereditary lease the demesne-farm and husbandry buildings at Swięcia, together with the arable, meadows, woodlands etc. belonging thereto, to Johann Christian Birlack of Zilenzig, Johan Götzinger of Brennenhofs Fleis, Joh. Siebert of Zamaika near Sonnenburg, and to Friedrich Götzinger, innkeeper at Posen, but have thereby excepted from it the proper manorial dwelling-house at Swięcia: I therefore herewith make over and give this manorial dwelling-house at Swięcia to Friedrich Götzinger, innkeeper at Posen, as a mark of acknowledgement for the trouble taken and the journeys made by him in this hereditary-lease business, to him and his heirs as his own property, so that he may deal, dispose and do therewith at his pleasure, and because he can make particularly good use of this house for the tap in connexion with the brewery hereditary lease he has taken over.\n\nBreslau, the 8th of April 1803.\n\nFriedrich Ludwig Fürst zu Hohenlohe"
+   "en": "Whereas I have this day made over by way of hereditary lease the demesne-farm working buildings at Swięcia, together with the fields, meadows, woodlands etc. belonging thereto, to Johann Christian Birlack of Zilenzig, Johan Götzinger of Brennenhofs Fleis, Joh. Siebert of Zamaika near Sonnenburg, and to Friedrich Götzinger, innkeeper at Posen, but have excepted therefrom the actual manorial dwelling house at Swięcia: I hereby make over and give this manorial dwelling house at Swięcia to Friedrich Götzinger, innkeeper at Posen, as a token of acknowledgement for the pains and journeys he has had in this hereditary-lease business, heritably and in full ownership, so that he may deal, dispose and act with it at his pleasure, and because he can put this house to particularly good use as a tap-house under the brewery hereditary lease he has taken over.\n\nBreslau, the 8th of April 1803.\n\nFriedrich Ludwig, Prince of Hohenlohe",
+   "names": [
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Johann Christian Birlack",
+     "en": "Johann Christian Birlack",
+     "kind": "person"
+    },
+    {
+     "de": "Zilenzig",
+     "en": "Zilenzig",
+     "kind": "place"
+    },
+    {
+     "de": "Johan Götzinger",
+     "en": "Johan Götzinger",
+     "kind": "person"
+    },
+    {
+     "de": "Brennenhofs Fleis",
+     "en": "Brennenhofs Fleis",
+     "kind": "place"
+    },
+    {
+     "de": "Joh. Siebert",
+     "en": "Joh. Siebert",
+     "kind": "person"
+    },
+    {
+     "de": "Zamaika",
+     "en": "Zamaika",
+     "kind": "place"
+    },
+    {
+     "de": "Sonnenburg",
+     "en": "Sonnenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Götzinger",
+     "en": "Friedrich Götzinger",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8ten",
+    "1803"
+   ]
   }
  ],
- "text_english": "Whereas I have this day made over by way of hereditary lease the demesne-farm and husbandry buildings at Swięcia, together with the arable, meadows, woodlands etc. belonging thereto, to Johann Christian Birlack of Zilenzig, Johan Götzinger of Brennenhofs Fleis, Joh. Siebert of Zamaika near Sonnenburg, and to Friedrich Götzinger, innkeeper at Posen, but have thereby excepted from it the proper manorial dwelling-house at Swięcia: I therefore herewith make over and give this manorial dwelling-house at Swięcia to Friedrich Götzinger, innkeeper at Posen, as a mark of acknowledgement for the trouble taken and the journeys made by him in this hereditary-lease business, to him and his heirs as his own property, so that he may deal, dispose and do therewith at his pleasure, and because he can make particularly good use of this house for the tap in connexion with the brewery hereditary lease he has taken over.\n\nBreslau, the 8th of April 1803.\n\nFriedrich Ludwig Fürst zu Hohenlohe",
+ "text_english": "Whereas I have this day made over by way of hereditary lease the demesne-farm working buildings at Swięcia, together with the fields, meadows, woodlands etc. belonging thereto, to Johann Christian Birlack of Zilenzig, Johan Götzinger of Brennenhofs Fleis, Joh. Siebert of Zamaika near Sonnenburg, and to Friedrich Götzinger, innkeeper at Posen, but have excepted therefrom the actual manorial dwelling house at Swięcia: I hereby make over and give this manorial dwelling house at Swięcia to Friedrich Götzinger, innkeeper at Posen, as a token of acknowledgement for the pains and journeys he has had in this hereditary-lease business, heritably and in full ownership, so that he may deal, dispose and act with it at his pleasure, and because he can put this house to particularly good use as a tap-house under the brewery hereditary lease he has taken over.\n\nBreslau, the 8th of April 1803.\n\nFriedrich Ludwig, Prince of Hohenlohe",
  "summary_en": "Deed of gift by which Friedrich Ludwig, Prince of Hohenlohe, having that same day let out on hereditary lease the demesne-farm working buildings at Swięcia with their fields, meadows and woodlands to Johann Christian Birlack of Zilenzig, Johan Götzinger of Brennenhofs Fleis, Joh. Siebert of Zamaika near Sonnenburg and Friedrich Götzinger, innkeeper at Posen, conveys the manorial dwelling house at Swięcia, excepted from that lease, to Friedrich Götzinger heritably and in full ownership, rewarding his trouble and journeys and enabling its use as a tap-house under his brewery hereditary lease.",
  "summary_de": "Schenkungsurkunde: Nachdem Friedrich Ludwig, Fürst zu Hohenlohe, die Vorwerksgebäude zu Swięcia samt Äckern, Wiesen und Hölzungen an Johann Christian Birlack aus Zilenzig, Johan Götzinger aus Brennenhofs Fleis, Joh. Siebert aus Zamaika bei Sonnenburg und Friedrich Götzinger, Gastwirt zu Posen, in Erbpacht gegeben, das herrschaftliche Wohnhaus daselbst jedoch ausgenommen hat, überlässt er dieses Haus dem Friedrich Götzinger erb- und eigentümlich als Anerkennung für Mühen und Reisen im Erbpachtgeschäft und zur Nutzung als Schankhaus bei der übernommenen Brauerei-Erbpacht."
 }

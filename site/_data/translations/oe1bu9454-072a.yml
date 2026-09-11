@@ -1,52 +1,192 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Prince and Lord! That a lease contract has been concluded with
-    the Herr sub-prefect concerning the Zagorow estates sub spe rati, I have most obediently reported
-    to Your Serene Highness; at the same time I informed the same, most highly, that I intended to arrive
-    with Herr von Brzechsta at Schlawenschitz on the 8th of this month. When, however, in the meantime
-    both the Prefect Garczynski and likewise the sub-prefect v. Brzechsta were summoned to Warsaw by express
-    courier, the plan of being at Schlawenschitz on the 8th came to grief. In the meantime the sub-prefect
-    will quite reliably be back here on the 11th or 12th [uncertain: Wurtz — probably "März", March],
-    and then the journey to Schlawinschitz will be set out upon at once. 2 to 3000 Rthl in money Herr
-    v. Brzechsta will bring with him immediately, and then it will depend upon Your Serene Highness whether
-    the same, most highly, will the contract'
+  en: 'Most Serene Prince,
+
+
+    Most gracious Prince and Lord!
+
+
+    That a lease contract has been concluded with the sub-prefect concerning the Zagorowo estates sub
+    spe rati, I have most obediently reported to Your Serene Highness; at the same time I notified the
+    same, most high, that I intended to arrive with Brzechsta at Schlawenschitz on the 8th of this month.
+    Since, however, the prefect Garczynski as well as the sub-prefect von Brzechsta were summoned to Warsaw
+    by express courier, the plan of being at Schlawenschitz on the 8th [uncertain: failed].
+
+
+    In the meantime the sub-prefect will quite certainly be here again on the 11th or 12th of March, and
+    then the journey to Schlawenschitz will be set out upon at once. Brzechsta will bring 2 to 3000 Rthl
+    in cash with him immediately, and then it will depend upon Your Serene Highness whether the same,
+    most high, will ratify the contract'
+  names:
+  - de: Zagorower
+    en: Zagorowo
+    kind: place
+  - de: Schlawenschitz
+    en: Schlawenschitz
+    kind: place
+  - de: Schlawinschitz
+    en: Schlawenschitz
+    kind: place
+  - de: von Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Garczynski
+    en: Garczynski
+    kind: person
+  - de: War schon
+    en: Warsaw
+    kind: place
+  numbers:
+  - 8ten
+  - 8ten
+  - 11ten
+  - 12ten
+  - '2'
+  - '3000'
 - page: 2
-  en: 'himself ratify or otherwise dispose of the estates. According to our plan, Herr v. Brzechsta means,
-    upon his return, at once to summon all the arrears-debtors at Kone before the Land Lower Court, and
-    to have himself compelled by this judge, who is his kinsman and bosom friend, to payment by the strictest
-    execution, which hitherto has always been forbidden. For the rest, a few days ago the suit with the
-    Wrobezin peasants was won by Your Serene Highness in the Tribunal Solenne. The contract is totally
-    annulled, the peasants are directed to pay the arrears and may be evicted, and their holdings sold
-    to others — the judgment was delivered to the peasants yesterday by the [uncertain: Burgruf] of Jarnowski.
-    I must now await the term laid down in the Code Napoleon after publication of the judgment, in order
-    then to proceed with the harshest execution. Perhaps it will succeed that in the meantime I may already
-    come to terms with a few of the fellows and obtain some thousand rt, which I should bring along with
-    Herr v. Brzechsta.'
+  en: 'themselves or dispose otherwise of the estates. According to our plan, Brzechsta intends, upon
+    his return, to summon all the arrears-debtors in [uncertain: Kone] at once before the lower land court,
+    and to have himself compelled by that judge — who is his kinsman and bosom friend — to proceed to
+    collection by the strictest execution, which hitherto has always been forbidden.
+
+
+    For the rest, the suit with the Wrobeziner peasants was won for Your Serene Highness a couple of days
+    ago in the Tribunal Solenne. The contract is wholly annulled, the peasants are ordered to pay the
+    arrears, and they can be evicted and the holdings sold to others — the judgment was handed to the
+    peasants yesterday by the [uncertain: town crier] of Jarnowski. I must now await the term laid down
+    in the Code Napoléon after publication of the judgment, in order then to proceed with the harshest
+    execution. Perhaps I shall succeed meanwhile in coming to terms with some of the fellows and obtaining
+    a few thousand Rthl, which I would bring along with Brzechsta.'
+  names:
+  - de: Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Kone
+    en: Kone
+    kind: place
+  - de: Wrobeziner
+    en: Wrobeziner
+    kind: place
+  - de: Tribunal Solenne
+    en: Tribunal Solenne
+    kind: other
+  - de: Jarnowski
+    en: Jarnowski
+    kind: person
+  - de: Code Napoleon
+    en: Code Napoléon
+    kind: other
 - page: 3
-  en: 'The Olernitz affair will be won in this instance just as [uncertain: weines] as the Wochenzin one,
-    and doubtless the 3 scoundrels, who are here set checkmate, will not press the matter further, but
-    will have to seek their salvation in flight. The Trąbczin affair Herr v. Brzechsta is now reconnoitring
-    with the Prefect Count Garczynski in Warsaw. It must be brought before the Rada Stanu, and since these
-    two friends of mine [uncertain: sondern] most of the members, [it must be considered] whether one
-    may lay this matter before them there and hope for a swift and good outcome. In the judgment of every
-    thinking man, Your Serene Highness must have the estates back. For the Commission Rządząca took them
-    from Your Serene Highness 4 months after the Peace of Tilsit, notwithstanding that everything the
-    King had done during the time of possession was to remain in its [uncertain: Schlähre — force?], which
-    was also guaranteed by Napoleon, the Russian Emperor and the King of Saxony. Upon the estates there
-    stand, so far as I recollect, 80000 Rthl of debts; but if the Alt-Hauländer, as soon as Your Serene
-    Highness has the estates again, would gladly give 40000 Rthl for the forest and would settle'
+  en: 'The Olernizer matter will be won in this instance just as [uncertain: readily] as the Wochenziner
+    one, and doubtless the 3 scoundrels, who are here set checkmate, will not press the matter further
+    but must seek their salvation in flight. The Trąbczyn matter Brzechsta is now looking into with the
+    prefect Count Garczynski in Warsaw. It must be brought before the Rada Stanu, and there these two
+    friends of mine will [uncertain: sound out] most of the members as to whether one may lay the matter
+    before that body and hope for a swift and good outcome. In the judgment of every thinking man, Your
+    Serene Highness must have the estates back. For the Commission Rządząca took them from Your Serene
+    Highness 4 months after the Peace of Tilsit, notwithstanding that everything the King had done during
+    the time of possession was to remain in its force, which was likewise guaranteed by Napoleon, the
+    Russian Emperor, and the King of Saxony.
+
+
+    Upon the estates there stand, as far as I recollect, 80000 Rthl of debts; but if the Altz-Hauländer
+    would gladly give 40000 Rthl for the forest as soon as Your Serene Highness has the estates again,
+    and would settle upon'
+  names:
+  - de: Olernizer
+    en: Olernizer
+    kind: place
+  - de: Wochenziner
+    en: Wochenziner
+    kind: place
+  - de: Trąbcziner
+    en: Trąbczyn
+    kind: place
+  - de: v. Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Gr Garczynski
+    en: Garczynski
+    kind: person
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Rada Stana
+    en: Rada Stanu
+    kind: other
+  - de: Commission Rrządząca
+    en: Commission Rządząca
+    kind: other
+  - de: Tilscher
+    en: Tilsit
+    kind: place
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Sachsen
+    en: Saxony
+    kind: place
+  - de: AltzHauländer
+    en: Altz-Hauländer
+    kind: other
+  numbers:
+  - '3'
+  - '4'
+  - '80000'
+  - '40000'
 - page: 4
-  en: themselves there, and if the Dąbska woman must make good the damage and give up the 6 years' revenue,
-    then the estates, which are always worth 300000 Rthl, are clear of debt — and it is then again a fine
-    whole. Upon my arrival, Herr v. Brzechsta will lay all this before Your Serene Highness himself. I
-    should long since have gone to Warsaw myself in this matter, had it ever been possible to raise the
-    costs, for all that could be taken in hitherto has barely sufficed to meet the frightfully heavy taxes.
-    Thus now all deliveries must go to Warsaw, because most of the troops have been drawn thither, rendered
-    at once in kind, and sums paid for their clothing besides. The distress is on that account universal
-    and has here already reached its highest pitch; so much only do I remark, that the demand of the people
-    in Warsaw on account of the Trąbczin affair will cost nothing, but that these two upright men would
-    set it in train and see to it out of true friendship, in silence — So much, however, is certain, and
-    everyone here will have to assure Your Serene Highness of it, that the estates are preserved and saved
-    for you; the how and the where will show itself in its own time. In deepest reverence I remain Your
-    Serene Highness's Kopoyno, the 23rd of February 1812. humble and obedient servant v Triebenfeld
+  en: 'settle upon it, and if the Dąbska woman must make good the damage and surrender the 6 years'' revenue,
+    then the estates — which are worth 300000 Rthl throughout — are clear of debts, and it is then once
+    again a fine whole. Upon my arrival Brzechsta will lay all this before Your Serene Highness himself.
+    I should long since have gone to Warsaw myself in this matter, had it ever been possible to raise
+    the costs; for all that could come in hitherto has barely sufficed to meet the frightfully heavy levies.
+    Thus now all deliveries to Warsaw, since most of the troops have been drawn thither, must be rendered
+    in kind at once, and sums paid for their clothing besides. The distress is on that account general
+    and has here already reached its utmost height; I remark only so much, that the demands of the people
+    in Warsaw on account of the Trąbczyn matter would cost nothing, but that these two honest men would
+    set it in train and see to it out of true friendship, in quiet. So much, however, is certain, and
+    everyone from here must assure Your Serene Highness of it, that the estates are preserved and saved
+    for you; the how and the where will show itself in its own time. In deepest reverence I remain
+
+
+    Your Serene Highness''s
+
+
+    Kopojno
+
+
+    the 23rd of February 1812.
+
+
+    humble and obedient servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Dąbska
+    en: Dąbska
+    kind: person
+  - de: v. Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Trąbcziner
+    en: Trąbczyn
+    kind: place
+  - de: Kopoyno
+    en: Kopojno
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - '6'
+  - '300000'
+  - 23ten
+  - '1812'

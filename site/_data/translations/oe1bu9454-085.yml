@@ -1,27 +1,112 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. High-born Prince! Kindly dear Cousin! From the report of the Minister of State von Voß, come
-    in this day upon Your Beloved''s obliging letter of the 29th of February of this year, wherein you
-    propose to me the exchange of your South-Prussian estates in exchange for the Domain Offices Krotoszyn
-    and Polajewo, I have seen that the Office of Krotoszyn alone, even now, if only the appurtenances
-    not brought into the valuation at the present leasing be added, yields a a revenue of 49043 Reichl.,
-    which moreover, upon a new and correct valuation, may still be considerably increased, because the
-    Councillor of War and Forests von Triebenfeld has received, merely for the cession of the lease effected
-    in the year 95, a [uncertain: benen] settlement of 26,000 Richt. I should therefore, without boasting
-    of this advantage, and without taking into consideration that the superfluous woodland admits of very
-    substantial and advantageous clearings, lose yearly, already according to the present state of things,
-    17400 Rich. against the stated yield of your estates and the capital sums to be advanced upon them.
-    In this length of the matter, which has certainly been as little known to Your Beloved as to me, but
-    which is confirmed by this, that even your estates, valued at only a yearly yield of §. 650 Rthl,'
+  en: 'Copy
+
+
+    High-born Prince!
+
+
+    Friendly dear [uncertain: Geim]!
+
+
+    From the report of the State Minister v. [uncertain: Miricht] v. Voß, come in this day upon Your Lordship''s
+    obliging letter of the 29th of February of this year, wherein you propose to me the exchange of your
+    South Prussian estates against the domain offices Krotoszyn and Polajewo, I have seen that the office
+    of Krotoszyn alone already now, if only those appurtenances are added which were not brought into
+    the valuation at the present leasing, yields a revenue of 49043 Rthl, which moreover, upon a new and
+    correct valuation, can still be considerably increased, because the Councillor of War v. Triebenfeld
+    received, merely for the surrender of the lease effected in the year 95, a compensation of 26,000
+    Rthl. I should therefore, without boasting of this advantage, and without taking into account that
+    the superfluous woodland permits very considerable and advantageous clearings, already in the present
+    state lose yearly 17400 Rthl against the stated yield of your estates and the capital sums to be paid
+    in upon them. Given this [uncertain: length] of the matter, which has certainly been as little known
+    to Your Lordship as to me, but which is confirmed by the fact that even your estates, valued at a
+    yearly yield of only 650 Rthl,'
+  names:
+  - de: v Voß
+    en: v. Voß
+    kind: person
+  - de: 'Eit: Miricht'
+    en: '[uncertain: Miricht]'
+    kind: person
+  - de: Krotoszyn
+    en: Krotoszyn
+    kind: place
+  - de: Polajewo
+    en: Polajewo
+    kind: place
+  - de: v. Triebenfeld
+    en: v. Triebenfeld
+    kind: person
+  - de: Geim
+    en: '[uncertain: Geim]'
+    kind: person
+  - de: Südßwürstl.
+    en: South Prussian
+    kind: other
+  numbers:
+  - '29'
+  - '49043'
+  - '95'
+  - 26,000
+  - '17400'
+  - '650'
 - page: 2
-  en: estates, after about 26,000 Rthl has been expended upon them in improvements, already now yield
-    40,500 Rthl of annual income, you will yourself perceive that the State cannot possibly enter upon
-    the proposed exchange. I had, [text lost] taught by [illegible] example, already under the 19th of
-    July of this year instructed the Etats-Minister von Voß to refuse all such proposals out of hand.
-    Accordingly, it is out of true high regard for Your Beloved that I have entered upon your later proposal,
-    and it is only the evident proof of the disadvantage arising therefrom for the interest of the State
-    that withholds me from approving it. I am therefore also assured that in this you will not mistake
-    the sentiments of the most sincere friendship and high regard with which I remain Your Beloved's well-disposed
-    friend Friedrich Wilhelm. Berlin, the 4th of December 1798. To My Cousin the Prince of Hohenlohe Ingelfingen
-    at Breslau
+  en: 'estates, after roughly 26,000 [text lost] were expended thereon for improvements, already now yield
+    40,500 Rthl of yearly income, you will yourself perceive that the State cannot enter at all upon the
+    proposed exchange. I had, [uncertain: instructed] by no example, already on the 19th of July of this
+    year charged the State Minister v. Voß to reject all proposals of this kind out of hand. Accordingly
+    it is out of [uncertain: sincere] high regard for Your Lordship that I have entered upon your later
+    proposal, and only the evident proof of the disadvantage arising therefrom for the interest of the
+    State restrains me from approving it. I am therefore also assured that you will not mistake herein
+    the sentiments of the most sincere friendship and high regard with which I remain
+
+
+    Your Lordship''s
+
+
+    well-disposed [uncertain: Grün]
+
+
+    Friedrich Wilhelm.
+
+
+    Berlin
+
+
+    the 4th of December
+
+
+    1798.
+
+
+    To My Cousin the Prince
+
+
+    of Hohenlohe Ingelfingen
+
+
+    at Breslau'
+  names:
+  - de: v Voß
+    en: v. Voß
+    kind: person
+  - de: Friedrich Wilhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Prince de Hohenlohe Ingelfingen
+    en: Prince of Hohenlohe Ingelfingen
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  numbers:
+  - 26,000
+  - 40,500
+  - '19'
+  - '4'
+  - '1798'

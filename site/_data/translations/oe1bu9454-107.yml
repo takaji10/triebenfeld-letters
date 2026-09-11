@@ -1,41 +1,127 @@
 status: draft
 segments:
 - page: 1
-  en: Most Serene Prince, Most gracious Lord! From the Colonel von Zastrow the enclosed letter has been
-    sent to me by a huntsman, so that I should most humbly transmit the same to Your Most Serene Highness.
-    The Royal Cabinet letter I shall not receive until today or tomorrow. Since Your Most Serene Highness
-    will no doubt be arriving here presently, I shall keep it by me until Your Highness's arrival. Upon
-    the Princess Sacken I did indeed wish to wait, but I was not received, and in this regard I have only
-    had Your Most Serene Highness's letter delivered into the Princess's hands
+  en: 'Most Serene Prince
+
+
+    Most gracious Lord!
+
+
+    The accompanying letter has been sent to me by Colonel von Zastrow by way of a huntsman, so that I
+    should most humbly transmit the same to Your Most Serene Highness. The Royal Cabinet letter I shall
+    not receive until today or tomorrow. Since Your Most Serene Highness will probably be arriving here
+    at once, I shall keep it by me until Your Highness''s most exalted arrival. Upon the Princess Sacken
+    I did indeed wish to wait, but I was not received, and in this regard I have only had Your Most Serene
+    Highness''s letter delivered into the Princess''s'
+  names:
+  - de: von Zastrow
+    en: von Zastrow
+    kind: person
+  - de: Sacken
+    en: Sacken
+    kind: person
+  - de: Ewr Hochfürstliche Durchlaucht
+    en: Your Most Serene Highness
+    kind: other
 - page: 2
-  en: 'Just now I am sending her a further letter received from Colonel von Zastrow to von K., from which
-    the Princess is to satisfy herself that Your Serene Highness may soon arrive. The good Monarch and
-    the whole court take the liveliest interest in the affair, and everything is on Your Serene Highness''s
-    side. The Princess [uncertain: Sa: — Sacken?] has probably had Professor Selle lay the matter out
-    in several quarters in such a way that she is only to be pitied by everyone. To the Princess there
-    come, so far as I can tell, the [uncertain: E] von Rietesel, the advocate Cosmar, the Minister [uncertain:
-    Heinel — Heinitz?], a certain Hoym, and Professor Selle.'
+  en: 'hands. Just now I am sending her yet a further letter received from Colonel von Zastrow to von
+    K., from which the Princess is to satisfy herself that Your Serene Highness may soon arrive.
+
+
+    The good Monarch and the whole [uncertain: court] take the liveliest interest in the affair, and all
+    are on Your Serene Highness''s side. The Princess Sa: has probably had Professor Selle lay the matter
+    out in certain quarters in such a fashion that she is to be pitied by everyone. Among the Princess''s
+    party there come to my notice the [illegible] von Rietesel, the advocate Cosmar, the Minister Heinel,
+    a certain Hoym, and Professor Selle.'
+  names:
+  - de: von Zastrow
+    en: von Zastrow
+    kind: person
+  - de: von K.
+    en: von K.
+    kind: person
+  - de: Selle
+    en: Selle
+    kind: person
+  - de: 'Sa:'
+    en: 'Sa:'
+    kind: person
+  - de: v Rietesel
+    en: von Rietesel
+    kind: person
+  - de: Cosmar
+    en: Cosmar
+    kind: person
+  - de: Heinel
+    en: Heinel
+    kind: person
+  - de: Hoym
+    en: Hoym
+    kind: person
 - page: 3
-  en: 'For the rest, in public almost everything is [uncertain: split into hairs / picked to pieces],
-    and here then the notes are appended. [text lost] what through Hein the Princess has declared: she
-    will never return to Your Serene Highness. She wishes to live free where it pleases her. She would
-    be content with 2000 Rthl of appanage. She, the Princess, was pure as an angel, had no connexion with
-    another, and had gone away from me on two accounts: 1. because her personal aversion to Your Serene
-    Highness was too great, and 2. because she would not help squander everything belonging to her children,
-    for she has already countersigned unspeakably many debts, but more she could not subscribe to; and
-    therefore she had chosen this step out of love for her children, preferring to be civilly dead than
-    to be party to squandering the whole estate. Such then is the prattle of other souls.'
+  en: 'For the rest, in public almost everything is [uncertain: split into hairs], and here the notes
+    are appended. What through Hein[?] the Princess has declared: she will never return to Your Serene
+    Highness. She wishes to live free wherever it may please her. She would be content with 2000 Rthl
+    of appanage. She, the Princess, would be pure as an angel, had no connexion with any other, and had
+    left me [uncertain: on account of],
+
+
+    1. because her personal aversion to Your Serene Highness is too great, and
+
+
+    2. because she does not wish to help squander everything belonging to her children, for she has already
+    countersigned unspeakably many debts, but more she cannot countersign; and therefore she had chosen
+    this step out of love for her children, rather to be civilly dead than to be willing to squander the
+    whole estate. This, then, must be the chatter of other souls.'
+  names:
+  - de: Hein
+    en: Hein
+    kind: person
+  numbers:
+  - '2000'
+  - '1.'
+  - '2.'
 - page: 4
-  en: 'Your Most Serene Highness''s friends now wish that Your Highness show yourself with firmness toward
-    the Princess Sacken, and in short determine everything; everything will readily be approved on all[illegible]
-    sides. Since the day before yesterday the news is current here, even at court, that Suvarow has now
-    likewise been beaten, and he himself taken prisoner; one is therefore full of expectation on account
-    of the various reports — but the worthy Colonel v. K. rejoices that he judged rightly, and even the
-    warlike parties now say: God, how good it is that our Monarch has meddled in nothing. In deepest submission
-    I remain, until death, Your Most Serene Highness''s
+  en: 'Your Most Serene Highness''s friends now wish only that Your Highness show himself with firmness
+    towards the Princess Sacken, and in short settle everything; everything will gladly be approved on
+    all[?] sides. Since the day before yesterday the news is here, even at court, that Suvarow has now
+    likewise been beaten and himself taken prisoner. One is therefore full of expectation over the various
+    reports — but the worthy Colonel
 
-    Berlin, the 21st October 1799
 
-    most faithful servant
+    von K. rejoices that he judged rightly, and even the warlike parties now say: God, how good it is
+    that our Monarch has meddled in nothing.
 
-    v Triebenfeld'
+
+    In deepest submission I remain, until death, Your Most Serene Highness''s
+
+
+    Berlin, the 21st of October
+
+
+    1799
+
+
+    faithful servant
+
+
+    von Triebenfeld'
+  names:
+  - de: Sacken
+    en: Sacken
+    kind: person
+  - de: Suvarow
+    en: Suvarow
+    kind: person
+  - de: v. K.
+    en: von K.
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  numbers:
+  - 21ten
+  - '1799'

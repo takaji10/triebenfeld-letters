@@ -2,20 +2,72 @@ status: draft
 segments:
 - page: 1
   en: Right Honourable Sir, Highly Honoured Sir Councillor of War and Forests. I hereby report to Your
-    Right Honourable that the death of the Mining Councillor Bernhardi has brought upon me the orders
-    to travel to Upper Silesia, and to regulate the affairs of this lordship in common with the Herr Inspector
-    Kreinig and the Master of Forests Reichmann. I may hope that under the direction of these men it will
-    go better, since both of them are known to me
+    Right Honourable that the death of the mining councillor Bernhardi has brought upon me the orders
+    to travel to Upper Silesia, and to regulate the affairs of this lordship in common with the inspector
+    Kreinig and the master of forests Reichmann. I may hope that matters will go better under the direction
+    of these men, since both of them are known to me,
+  names:
+  - de: Bernhardi
+    en: Bernhardi
+    kind: person
+  - de: Kreinig
+    en: Kreinig
+    kind: person
+  - de: Reichmann
+    en: Reichmann
+    kind: person
+  - de: Oberschlesien
+    en: Upper Silesia
+    kind: place
 - page: 2
-  en: as upright and judicious men of business; once I am finished in Koschentin I shall return to Breslau
-    and from there into the Reich. To leave Silesia without having paid my respects to Your Right Honourable
-    I could not forgive myself. I therefore beg the same most obediently for permission — to be allowed
-    to visit you in Trąbczyn and there to pay my attendance. On that account I have also already sought
-    the gracious permission of His Serene Highness, which I hope to obtain. Koschentin will give some
-    work to do,
+  en: 'as upright and judicious men of business. Once I have finished in Koschentin, I shall return to
+    Breslau and from there back into the Empire. To leave Silesia without having paid my respects to Your
+    Right Honourable is something I could not forgive myself. I therefore most obediently beg the same
+    and for permission — to visit you in Trąbczyn and there to pay my attendance. On that account I have
+    also already sought gracious permission from His Serene Highness, which I hope to obtain.
+
+
+    Koschentin will give something to do,'
+  names:
+  - de: Koschentin
+    en: Koschentin
+    kind: place
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Schlesien
+    en: Silesia
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
 - page: 3
-  en: 'for as one takes the matter, not everything there lies in the best order. Should Your High Self
-    be pleased to gladden me with a few lines to Koschentin, I should be very happy. Herlich, whom I have
-    with me, commends himself to your grace. I add only the assurance of the most perfect veneration in
-    [text lost] which I ever am: Your Right Honourable''s, Klein Althammer, the 19th of July 1806. most
-    humble and obedient servant A. Hahn'
+  en: 'for, as one takes the matter, everything there is not in the best order. Should Your Highly Honoured
+    Self be pleased to gladden me with a few lines at Koßhentin, I should be very happy. Herlich, whom
+    I have with me, commends himself to your grace. I add only the assurance of the most perfect veneration,
+    in which I remain always: Your Right Honourable''s, Klein Althammer
+
+
+    the 19th of July 1806.
+
+
+    most humble and obedient servant
+
+
+    A. Hahn'
+  names:
+  - de: Koßhentin
+    en: Koßhentin
+    kind: place
+  - de: Herlich
+    en: Herlich
+    kind: person
+  - de: Klein Althammer
+    en: Klein Althammer
+    kind: place
+  - de: A. Hahn
+    en: A. Hahn
+    kind: person
+  numbers:
+  - '19.'
+  - '1806'

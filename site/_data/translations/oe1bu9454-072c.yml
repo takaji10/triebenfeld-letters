@@ -1,11 +1,56 @@
 status: draft
 segments:
 - page: 1
-  en: Right Honourable Sir, most particularly highly revered Sir, Councillor of War and Forests, The letter
-    just now received from the Sub-prefect Herr v. Brzechsta by way of the advocate v Wieckowski I take
-    the honour of communicating most obediently to Your Right Honourable in the enclosure, and from it
-    Your Honour will be pleased to gather that Herr Brzechsta, on account of his business, does not intend
-    to depart from Warsaw until the 15th of this month, and also that there is good prospect with respect
-    to the Trąbczyner lordship; this I have wished to impart to Your Right Honourable, and at the same
-    time to assure you that I shall never cease to call myself Your Right Honourable's Kalisz, the 8th
-    of March 12. most obedient servant the District Councillor Thiel ad 12. March 1812.
+  en: 'Right Honourable Sir, most particularly to be revered Councillor of War and Forests! The letter
+    just now received from the sub-prefect o Brzechsta by way of the advocate von Wieckowski I take the
+    honour of communicating to Your Right Honourable, most obediently, in the enclosure, and from it you
+    will be pleased to gather [uncertain: to gather] that Mr Brzechsta, on account of his business, does
+    not intend to depart from Warsaw until the 15th of this month, and also that there is good prospect
+    with respect to the lordship of Trąbczyn; this I wished to impart to Your Right Honourable and at
+    the same time to assure you that I shall never cease to call myself Your Right Honourable''s
+
+
+    Kalisz
+
+
+    the 8th of March 12.
+
+
+    most obedient servant
+
+
+    the district councillor
+
+
+    Thiel
+
+
+    received 12 March 1812.'
+  names:
+  - de: Krieges und Forstrath
+    en: Councillor of War and Forests
+    kind: other
+  - de: Brzechsta
+    en: Brzechsta
+    kind: person
+  - de: v Wieckowski
+    en: von Wieckowski
+    kind: person
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Kalisz
+    en: Kalisz
+    kind: place
+  - de: Thiel
+    en: Thiel
+    kind: person
+  numbers:
+  - '15'
+  - '8'
+  - '12'
+  - '12'
+  - '1812'

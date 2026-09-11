@@ -141,24 +141,281 @@
    "doc_line": 69
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Wilhelm Glenck",
+   "kind": "person",
+   "surface_de": "Johann Wilhelm Glenck",
+   "surface_en": "Johann Wilhelm Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Samuel Lucke",
+   "kind": "person",
+   "surface_de": "Samuel Lucke",
+   "surface_en": "Samuel Lucke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Białobrzeg",
+   "kind": "place",
+   "surface_de": "Białobrzeg",
+   "surface_en": "Białobrzeg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczynek",
+   "kind": "place",
+   "surface_de": "Wrąbczynek",
+   "surface_en": "Wrąbczynek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface_de": "Magdeburgisch",
+   "surface_en": "Magdeburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Magdeb.",
+   "kind": "place",
+   "surface_de": "Magdeb.",
+   "surface_en": "Magdeb.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Radzinsky",
+   "kind": "person",
+   "surface_de": "von Radzinsky",
+   "surface_en": "von Radzinsky",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn forest",
+   "kind": "place",
+   "surface_de": "Trąbczyner Wald",
+   "surface_en": "Trąbczyn forest",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagorowo",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagorowo",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Johann Wilhelm Glenck",
+   "kind": "person",
+   "surface_de": "Johann Wilhelm Glenck",
+   "surface_en": "Johann Wilhelm Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingischer",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Samuel Lucke",
+   "kind": "person",
+   "surface_de": "Samuel Lucke",
+   "surface_en": "Samuel Lucke",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Johan Lindner",
+   "kind": "person",
+   "surface_de": "Johan Lindner",
+   "surface_en": "Johan Lindner",
+   "page": 3
+  }
+ ],
  "place_canonical": "Zagorowo",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Be it known and made manifest, that between the plenipotentiary of His Serene Highness the reigning Prince zu Hohenlohe Ingelfingen, the Councillor of Building and Economy Johann Wilhelm Glenck, of the one part - and the flour-miller Samuel Lucke, possessor of the flour mill Białobrzeg near Wrąbczynek, of the other part, subject to the reservation of most high Princely ratification, the following contract of sale has been deliberately agreed and concluded upon the conditions set out below.\n\nThere is sold:\n\n1mo, by the said plenipotentiary, the Most Princely estate Szetlewek near Trąbczyn together with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field, of the following extent and denomination, of which a map and survey register is on hand, namely,\n\n459 Morgen of arable field in 3 furlongs\n\n109 do - meadows\n\n19 5/8 do — gardens\n\n380 do fields to be cleared.\n\n32 3/8 do standing woodland.\n\n= 1000 Morgen Magdeb. in sum.\n\ntogether with\n\n§ 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables, 1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised under that in Rubrique II) in free and perpetual ownership.\n\nfor which\n\n§ 3, the purchaser promises to pay a cash sum of 12333 rthlr, which is to be paid with 8333 rthlr upon the vacating by the pledge-holding possessor von Radzinsky, to the same, and 4000 rthlr upon acceptance of this contract, out of the Most Princely Dominium; to which purchase price there is furthermore to be rendered a continuing canon of 1/2 rt per Morgen yearly, and consequently 500 rt. for the above-named parcels annually as canon to the Dominium."
+   "en": "Be it known and made known, that between the authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the councillor of building and economy Johann Wilhelm Glenck on the one part - and the grain miller Samuel Lucke, possessor of the grain mill Białobrzeg near Wrąbczynek on the other part, subject to reservation of the most high princely ratification, the following contract of sale has been deliberately agreed and concluded under the conditions set out below.\n\nThere is sold\n\n1mo, by the said authorised representative, the most princely estate of Szetlewek near Trąbczyn together with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field, in the following extent and designation, of which a map and survey register are on hand, namely,\n\n459 Morgen of arable field in 3 open fields\n\n109 do - meadows\n\n19 5/8 do — gardens\n\n380 do fields to be cleared.\n\n32 3/8 do standing woodland.\n\n= 1000 Morgen Magdeb. in sum.\n\ntogether with\n\n§ 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables, 1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised under Rubric II), as free and permanent property.\n\nfor which\n\n§ 3, the purchaser promises to pay a cash sum of 12333 rthlr, which are to be paid, with 8333 rthlr to the pledge-money possessor von Radzinsky upon his vacating the premises, and 4000 rthlr upon acceptance of this contract out of the most princely manorial lordship (Dominium); to which purchase price there is further to be rendered annually to the manorial lordship a continuing canon of 1/2 rt per Morgen yearly, and consequently 500 rt for the above-named parcels of land.",
+   "names": [
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Johann Wilhelm Glenck",
+     "en": "Johann Wilhelm Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Samuel Lucke",
+     "en": "Samuel Lucke",
+     "kind": "person"
+    },
+    {
+     "de": "Białobrzeg",
+     "en": "Białobrzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczynek",
+     "en": "Wrąbczynek",
+     "kind": "place"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Magdeburgisch",
+     "en": "Magdeburg",
+     "kind": "place"
+    },
+    {
+     "de": "Magdeb.",
+     "en": "Magdeb.",
+     "kind": "place"
+    },
+    {
+     "de": "von Radzinsky",
+     "en": "von Radzinsky",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "2",
+    "3",
+    "459",
+    "3",
+    "109",
+    "19 5/8",
+    "380",
+    "32 3/8",
+    "1000",
+    "1",
+    "4",
+    "4",
+    "1",
+    "12333",
+    "8333",
+    "4000",
+    "1/2",
+    "500"
+   ]
   },
   {
    "page": 2,
-   "en": "Whereas 4thly the purchasers do not obtain sufficient dwelling for their many [uncertain: possessions] to take up; he therefore further stipulates for himself, for the building of the several dwellings, the following pine building timber out of the Princely forests, namely 60 Rud[en] of saw-blocks of middling sort at 10 Rtlr[uncertain: 10 Rtlr], with the offcut wood, 80 firs of stout building timber for beams\n\n200 do middling [uncertain: cross-rails]\n\n450 do light rafters, 160 Klafter of wood for brick-burning, and for covering flat-work, together with\n\n§ 5, free deadfall and lying wood in the Trąbczyn forest according to the Royal Forest Ordinance.\n\nRubrique II, the propination rights belonging to this demesne farm and village, the existing brewhouse and distillery, the purchasers likewise receive as purchased property against a yearly rent of 400, in such manner as this appurtenance pertains to the Prince.\n\nRubrique III, Excepted are the services of the village subjects, which are not given into the sale; but rather the release of which from service remains reserved to the Dominium, as which has already declared itself ready to meet the wish of those liable to service.\n\n§ 6, The purchasers bear the Royal taxes and onera and remain henceforth under the jurisdiction of the Most Princely Dominium.\n\n§ 7, Since the purchaser is not in a position to sustain the estate for himself alone, but stands in association with several other persons desirous of purchasing, whose approval, that is, whose signatures, he wishes to collect; he therefore stipulates a time of 14 days to 4 weeks, before and until a judicial establishment of this contract can take place.\n\nThe foregoing contract has been drawn up in duplo, and by both parties"
+   "en": "Since 4thly the purchasers do not obtain sufficient dwelling-room for their many persons taking possession, he further stipulates for himself, for the building of the further dwellings, the following pine building timber out of the princely woodlands, namely 60 rods of saw-blocks of middling kind at 10 Rtlr[?], with the offcut timber 80 firs of strong building timber for beams\n\n200 do middling cross-pieces[?]\n\n450 do light rafters, 160 cords of wood for brick-burning, and for covering flat work, together with\n\n§5, free dead and fallen wood in the Trąbczyn forest according to the Royal Forest Ordinance.\n\nRubric II, the propination rights belonging to this demesne farm and village, the existing brewhouse and distillery, the purchasers likewise receive as purchased property against an annual rent of 400, in the same manner as this appurtenance belongs to the Prince. Rubric III, Excepted are the services of the village subjects, which are not given along in the sale; but rather the release of them from service remains reserved to the manorial lordship, as that which has already declared itself ready to meet the wish of those owing service.\n\n§6, The purchasers bear the Royal taxes and burdens and continue henceforth under the jurisdiction of the most princely manorial lordship.\n\n§7, Since the purchaser is not in a position to defray the estate for himself alone, but stands in association with several persons desirous of purchasing, whose approval, being their signatures, he wishes to collect; he therefore stipulates for himself 14 days to 4 weeks' time, before and until a judicial establishment of this contract can take place. The foregoing contract has been drawn up in duplo, and by both parties",
+   "names": [
+    {
+     "de": "Trąbczyner Wald",
+     "en": "Trąbczyn forest",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4",
+    "60",
+    "10",
+    "80",
+    "200",
+    "450",
+    "160",
+    "5",
+    "2",
+    "400",
+    "3",
+    "6",
+    "7",
+    "14",
+    "4"
+   ]
   },
   {
    "page": 3,
-   "en": "sealed and signed.\n\nThus done at Zagorowo, the 1st of October 1798.\n\nJohann Wilhelm Glenck, Most Princely Hohenlohe-Ingelfingen Councillor of Building and Economy and plenipotentiary.\n\nSamuel Lucke, flour-miller\n\nas witness, Johan Lindner."
+   "en": "sealed and signed.\n\nThus done at Zagorowo, the 1st October 1798. Johann Wilhelm Glenck, councillor of building and economy and authorised representative of the Most Serene Prince of Hohenlohe-Ingelfingen.\n\nSamuel Lucke, grain miller\n\nas witness Johan Lindner.",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagorowo",
+     "kind": "place"
+    },
+    {
+     "de": "Johann Wilhelm Glenck",
+     "en": "Johann Wilhelm Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingischer",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Samuel Lucke",
+     "en": "Samuel Lucke",
+     "kind": "person"
+    },
+    {
+     "de": "Johan Lindner",
+     "en": "Johan Lindner",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "1798"
+   ]
   }
  ],
- "text_english": "Be it known and made manifest, that between the plenipotentiary of His Serene Highness the reigning Prince zu Hohenlohe Ingelfingen, the Councillor of Building and Economy Johann Wilhelm Glenck, of the one part - and the flour-miller Samuel Lucke, possessor of the flour mill Białobrzeg near Wrąbczynek, of the other part, subject to the reservation of most high Princely ratification, the following contract of sale has been deliberately agreed and concluded upon the conditions set out below.\n\nThere is sold:\n\n1mo, by the said plenipotentiary, the Most Princely estate Szetlewek near Trąbczyn together with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field, of the following extent and denomination, of which a map and survey register is on hand, namely,\n\n459 Morgen of arable field in 3 furlongs\n\n109 do - meadows\n\n19 5/8 do — gardens\n\n380 do fields to be cleared.\n\n32 3/8 do standing woodland.\n\n= 1000 Morgen Magdeb. in sum.\n\ntogether with\n\n§ 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables, 1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised under that in Rubrique II) in free and perpetual ownership.\n\nfor which\n\n§ 3, the purchaser promises to pay a cash sum of 12333 rthlr, which is to be paid with 8333 rthlr upon the vacating by the pledge-holding possessor von Radzinsky, to the same, and 4000 rthlr upon acceptance of this contract, out of the Most Princely Dominium; to which purchase price there is furthermore to be rendered a continuing canon of 1/2 rt per Morgen yearly, and consequently 500 rt. for the above-named parcels annually as canon to the Dominium.\n\nWhereas 4thly the purchasers do not obtain sufficient dwelling for their many [uncertain: possessions] to take up; he therefore further stipulates for himself, for the building of the several dwellings, the following pine building timber out of the Princely forests, namely 60 Rud[en] of saw-blocks of middling sort at 10 Rtlr[uncertain: 10 Rtlr], with the offcut wood, 80 firs of stout building timber for beams\n\n200 do middling [uncertain: cross-rails]\n\n450 do light rafters, 160 Klafter of wood for brick-burning, and for covering flat-work, together with\n\n§ 5, free deadfall and lying wood in the Trąbczyn forest according to the Royal Forest Ordinance.\n\nRubrique II, the propination rights belonging to this demesne farm and village, the existing brewhouse and distillery, the purchasers likewise receive as purchased property against a yearly rent of 400, in such manner as this appurtenance pertains to the Prince.\n\nRubrique III, Excepted are the services of the village subjects, which are not given into the sale; but rather the release of which from service remains reserved to the Dominium, as which has already declared itself ready to meet the wish of those liable to service.\n\n§ 6, The purchasers bear the Royal taxes and onera and remain henceforth under the jurisdiction of the Most Princely Dominium.\n\n§ 7, Since the purchaser is not in a position to sustain the estate for himself alone, but stands in association with several other persons desirous of purchasing, whose approval, that is, whose signatures, he wishes to collect; he therefore stipulates a time of 14 days to 4 weeks, before and until a judicial establishment of this contract can take place.\n\nThe foregoing contract has been drawn up in duplo, and by both parties\n\nsealed and signed.\n\nThus done at Zagorowo, the 1st of October 1798.\n\nJohann Wilhelm Glenck, Most Princely Hohenlohe-Ingelfingen Councillor of Building and Economy and plenipotentiary.\n\nSamuel Lucke, flour-miller\n\nas witness, Johan Lindner.",
+ "text_english": "Be it known and made known, that between the authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the councillor of building and economy Johann Wilhelm Glenck on the one part - and the grain miller Samuel Lucke, possessor of the grain mill Białobrzeg near Wrąbczynek on the other part, subject to reservation of the most high princely ratification, the following contract of sale has been deliberately agreed and concluded under the conditions set out below.\n\nThere is sold\n\n1mo, by the said authorised representative, the most princely estate of Szetlewek near Trąbczyn together with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field, in the following extent and designation, of which a map and survey register are on hand, namely,\n\n459 Morgen of arable field in 3 open fields\n\n109 do - meadows\n\n19 5/8 do — gardens\n\n380 do fields to be cleared.\n\n32 3/8 do standing woodland.\n\n= 1000 Morgen Magdeb. in sum.\n\ntogether with\n\n§ 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables, 1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised under Rubric II), as free and permanent property.\n\nfor which\n\n§ 3, the purchaser promises to pay a cash sum of 12333 rthlr, which are to be paid, with 8333 rthlr to the pledge-money possessor von Radzinsky upon his vacating the premises, and 4000 rthlr upon acceptance of this contract out of the most princely manorial lordship (Dominium); to which purchase price there is further to be rendered annually to the manorial lordship a continuing canon of 1/2 rt per Morgen yearly, and consequently 500 rt for the above-named parcels of land.\n\nSince 4thly the purchasers do not obtain sufficient dwelling-room for their many persons taking possession, he further stipulates for himself, for the building of the further dwellings, the following pine building timber out of the princely woodlands, namely 60 rods of saw-blocks of middling kind at 10 Rtlr[?], with the offcut timber 80 firs of strong building timber for beams\n\n200 do middling cross-pieces[?]\n\n450 do light rafters, 160 cords of wood for brick-burning, and for covering flat work, together with\n\n§5, free dead and fallen wood in the Trąbczyn forest according to the Royal Forest Ordinance.\n\nRubric II, the propination rights belonging to this demesne farm and village, the existing brewhouse and distillery, the purchasers likewise receive as purchased property against an annual rent of 400, in the same manner as this appurtenance belongs to the Prince. Rubric III, Excepted are the services of the village subjects, which are not given along in the sale; but rather the release of them from service remains reserved to the manorial lordship, as that which has already declared itself ready to meet the wish of those owing service.\n\n§6, The purchasers bear the Royal taxes and burdens and continue henceforth under the jurisdiction of the most princely manorial lordship.\n\n§7, Since the purchaser is not in a position to defray the estate for himself alone, but stands in association with several persons desirous of purchasing, whose approval, being their signatures, he wishes to collect; he therefore stipulates for himself 14 days to 4 weeks' time, before and until a judicial establishment of this contract can take place. The foregoing contract has been drawn up in duplo, and by both parties\n\nsealed and signed.\n\nThus done at Zagorowo, the 1st October 1798. Johann Wilhelm Glenck, councillor of building and economy and authorised representative of the Most Serene Prince of Hohenlohe-Ingelfingen.\n\nSamuel Lucke, grain miller\n\nas witness Johan Lindner.",
  "summary_en": "Sale of the princely demesne of Szetlewek near Trąbczyn - 1000 Morgen Magdeburg measure (459 arable, 109 meadow, 19 5/8 gardens, 380 to be cleared, 32 3/8 woodland) with manor house, barns, stables and granary - by the Prince's authorised representative, building and economy councillor Johann Wilhelm Glenck, to the grain miller Samuel Lucke of Białobrzeg near Wrąbczynek for 12333 rthlr (8333 to the pledge-holder von Radzinsky, 4000 to the lordship) plus an annual canon of 500 rthlr, with building timber, brewing and distilling rights at 400 yearly; peasant services excepted, princely ratification reserved, and four weeks allowed for Lucke's fellow purchasers to sign.",
  "summary_de": "Kaufvertrag über das fürstliche Vorwerk Szetlewek bei Trąbczyn mit 1000 Morgen Magdeburgischen Maßes (459 Morgen Acker, 109 Wiesen, 19 5/8 Gärten, 380 zu rodende Felder, 32 3/8 Holzung) sowie allen Wirtschaftsgebäuden, geschlossen zwischen dem Bevollmächtigten Bau- und Ökonomierat Johann Wilhelm Glenck und dem Mahlmüller Samuel Lucke zu Białobrzeg bei Wrąbczynek. Kaufsumme 12333 Rthl (8333 an den Pfandbesitzer von Radzinsky, 4000 an das Dominium), jährlicher Canon 500 Rthl, Propinationsrecht mit Brauhaus und Brennerei gegen 400; Bauholzzuweisung, Untertanendienste ausgenommen, vorbehaltene fürstliche Ratifikation."
 }
