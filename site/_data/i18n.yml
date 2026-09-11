@@ -27,8 +27,8 @@ en:
     sources: Sources
     about: About the edition
   foot: >-
-    A digital edition of %d documents, 1798-1816. Transcribed from the originals in the Hohenloher
-    Zentralarchiv Neuenstein. See
+    A digital edition of %d documents from the Trąbczyn estate, transcribed from the
+    originals in the Hohenloher Zentralarchiv Neuenstein. See
   foot_link: About the edition
   foot_tail: for editorial method and known limitations.
 
@@ -169,8 +169,7 @@ en:
     needed it to pay his debts. He sent the councillor of war Peter Friedrich von
     Triebenfeld to turn land into money.
   home_p2: >-
-    The way to do that was to break the estate up. Demesne land was divided into
-    holdings and let out in perpetuity, to farmers and to Hollanders: settlers
+    The way to do that was to break the estate up. The land the lord farmed himself was divided into holdings and let out for good, to farmers and to Hollanders: settlers
     who held on a Dutch-derived tenure and had been clearing and draining land in
     this part of Poland for generations. The contracts survive: what each man
     paid, what he owed every year, and what he gave up to get it.
@@ -179,19 +178,13 @@ en:
   home_p3_sum: 1,414,377 Reichsthaler
   people_h1: People in the documents
   people_lede: >-
-    Everyone named often enough to trace through the correspondence. Occurrence counts come from
-    the text itself; identifications and their evidence are set out in full in the project's
-    who's-who. Names use the spellings established for this edition. See
+    Everyone named often enough to follow from one document to the next, with the number of documents each appears in. See
   places_h1: Places of writing
   places_lede: >-
-    Where the letters were written from, taken from each letter's own dateline. Grouped under
-    <em>Unknown</em> where no place is given. Enclosures, legal instruments and hurried notes
-    often carry none, and that absence is recorded rather than guessed at.
+    Where each document was written, from its own dateline. Many carry none, and those are grouped under <em>Unknown</em> rather than guessed at.
   timeline_h1: Timeline
   timeline_lede: >-
-    The correspondence set against the events that shaped it. The bars show how many letters
-    survive from each year. The near-silence of 1807 and the flood of 1815 are the story in
-    outline. Click any year to read the letters from it.
+    How many documents survive from each year, set against the events of the period. Click a year to read what it holds.
   sort: Sort
   sort_most_mentions: Most mentions
   sort_fewest_mentions: Fewest mentions
@@ -212,7 +205,7 @@ en:
   f_allunits: All holdings
   doc_one: document
   doc_many: documents
-  movements_h2: The six movements
+  movements_h2: What was happening
   movements:
     - lead: "1798-99 &middot; The land swap that fails."
       body: >-
@@ -254,8 +247,8 @@ de:
     sources: Quellen
     about: Über die Edition
   foot: >-
-    Eine digitale Edition von %d Dokumenten, 1798-1816. Transkribiert nach den Originalen im
-    Hohenloher Zentralarchiv Neuenstein. Siehe
+    Eine digitale Edition von %d Dokumenten zum Gut Trąbczyn, transkribiert nach den
+    Originalen im Hohenloher Zentralarchiv Neuenstein. Siehe
   foot_link: Über die Edition
   foot_tail: für die Editionsgrundsätze und die bekannten Grenzen.
 
@@ -397,8 +390,7 @@ de:
     aus verwaltete und zur Tilgung seiner Schulden brauchte. Er schickte den
     Kriegsrat Peter Friedrich von Triebenfeld, um Land in Geld zu verwandeln.
   home_p2: >-
-    Dazu musste das Gut zerschlagen werden. Vorwerksland wurde in Stellen geteilt
-    und auf ewig ausgetan, an Bauern und an Holländer: Siedler, die nach
+    Dazu musste das Gut zerschlagen werden. Das Land, das der Gutsherr selbst bewirtschaftete, wurde in Stellen geteilt und auf ewig ausgetan, an Bauern und an Holländer: Siedler, die nach
     holländischem Recht saßen und in dieser Gegend seit Generationen Land urbar
     machten und entwässerten. Die Verträge sind erhalten: was jeder zahlte, was er
     jährlich schuldete und was er dafür aufgab.
@@ -409,20 +401,13 @@ de:
   home_p3_sum: 1.414.377 Reichsthalern
   people_h1: Personen in den Dokumenten
   people_lede: >-
-    Alle, die oft genug genannt werden, um sie durch die Korrespondenz zu verfolgen. Die
-    Häufigkeiten stammen aus dem Text selbst; die Identifizierungen und ihre Belege sind
-    vollständig im Personenverzeichnis des Projekts dargelegt. Die Namen folgen den für diese
-    Edition festgelegten Schreibweisen. Siehe
+    Alle, die oft genug vorkommen, um sie von einem Dokument zum nächsten zu verfolgen, mit der Zahl der Dokumente, in denen sie genannt werden. Siehe
   places_h1: Ausstellungsorte
   places_lede: >-
-    Woher die Briefe geschrieben wurden, nach der Datumszeile des jeweiligen Briefes. Unter
-    <em>Unbekannt</em> zusammengefasst, wo kein Ort genannt ist. Beilagen, Rechtsurkunden und
-    eilige Notizen tragen häufig keinen, und dieses Fehlen wird verzeichnet statt erraten.
+    Wo jedes Dokument ausgestellt wurde, nach seiner eigenen Datumszeile. Viele tragen keinen Ort; diese stehen unter <em>Unbekannt</em>, statt erraten zu werden.
   timeline_h1: Zeitleiste
   timeline_lede: >-
-    Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten. Die Balken zeigen, wie
-    viele Briefe aus jedem Jahr überliefert sind. Das Fast-Verstummen von 1807 und die Flut von
-    1815 sind die Geschichte im Umriss. Klicken Sie ein Jahr an, um die Briefe daraus zu lesen.
+    Wie viele Dokumente aus jedem Jahr überliefert sind, vor dem Hintergrund der Ereignisse der Zeit. Klicken Sie ein Jahr an, um zu lesen, was es enthält.
   sort: Sortieren
   sort_most_mentions: Meiste Nennungen
   sort_fewest_mentions: Wenigste Nennungen
@@ -443,7 +428,7 @@ de:
   f_allunits: Alle Bestände
   doc_one: Dokument
   doc_many: Dokumente
-  movements_h2: Die sechs Abschnitte
+  movements_h2: Was geschah
   movements:
     - lead: "1798-99 &middot; Der gescheiterte Gütertausch."
       body: >-
