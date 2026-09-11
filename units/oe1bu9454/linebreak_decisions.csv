@@ -14,7 +14,7 @@
 6,1,377,378,¬,weis,In,weisIn,split,high,joined form unattested; both halves are real words,False,0,607,80,0,1855,0,"eht, so melde ich darauf das was ich weis¬ || In Würdembergsehen ist vor der Hand nichts"
 6,2,399,400,¬,schur,lische,schurlische,split,high,joined form unattested; both halves are real words,False,0,0,0,45715,1,4087,nde - Es blieb dan nichts abrig als schur¬ || lische Zögerung da man die Bestätigung von
 6,2,420,422,¬,defach,Nur,defachNur,split,review,crosses a page break - check by hand,True,0,0,0,0,697,106911014,teht gut auf jeden Falle bitte ich defach¬ || Nur zählen Sie nichts auf St. Rechnung der
-7,1,462,463,-,ge,wiß,gewiß,join,high,joined form occurs elsewhere in this corpus,False,84,,22,,1,,"eits mein deiller Brief, und ich würde ge- || wiß meine Dreißigkeit nicht so weit treibe"
+7,1,462,463,-,ge,wiß,gewiß,join,high,joined form occurs elsewhere in this corpus,False,85,,22,,1,,"eits mein dritter Brief, und ich würde ge- || wiß meine Dreißigkeit nicht so weit treibe"
 8,1,502,503,¬,geſandt,Hahn,geſandtHahn,split,high,joined form unattested; both halves are real words,False,0,0,32,0,46,850899,alles nach Becke geſandt¬ || Hahn wird sich sehr freuen ich werde ihm s
 11,2,620,621,¬,mälert,Behürzigen,mälertBehürzigen,join,high,head is not a word on its own,False,0,0,0,121,1,, schmelget und es schrecklich sich mälert¬ || Behürzigen Ewr Durchlaucht dieser treu gew
 12,1,654,655,¬,Schuru,bart,Schurubart,join,high,head is not a word on its own,False,0,0,0,5,1,,en Herren - obgleich er jezt einen Schuru¬ || bart trägt — wegen den von ihm gegebenen R
@@ -46,7 +46,7 @@
 22,2,1311,1312,¬,er,halten,erhalten,join,high,joined form occurs elsewhere in this corpus,False,298,,1274,,63,,"500 Rthl jährl. Erbzinse von Wittow zu er¬ || halten, die Mucerowitz nun schon durch 4 J"
 22,3,1338,1339,¬,sehr,das,sehrdas,split,high,joined form unattested; both halves are real words,False,0,0,422,50499648,1288,0," so schon das Herz, ich Liebe den zu sehr¬ || das Geld was Lombardini gegeben hat und je"
 22,4,1378,1379,¬,weh,O,wehO,split,high,joined form unattested; both halves are real words,False,0,32,4,0,65,890942,das thut zu weh¬ || O hatte ich nur bald 500 Rthl für meine ar
-23,2,1435,1436,¬,wieder,Köckritz,wiederKöckritz,split,high,joined form unattested; both halves are real words,False,0,0,318,58799421,38,6175,"er, den sieht mich nie hier zuwend wieder¬ || Köckritz hat einiges für mich gethan, ich "
+23,2,1435,1436,¬,wieder,Köckritz,wiederKöckritz,split,high,joined form unattested; both halves are real words,False,0,0,318,58799421,44,6175,"er, den sieht mich nie hier zuwend wieder¬ || Köckritz hat einiges für mich gethan, ich "
 23,2,1438,1439,-,Kinder,Ich,KinderIch,split,high,joined form unattested; both halves are real words,False,0,7,50,34135953,4451,255244905, habe nichts und hängere mit meine Kinder- || Ich habe zwar meine Güter verpachtet aber 
 23,3,1456,1457,¬,abgefü,Ich,abgefüIch,join,high,head is not a word on its own,False,0,0,0,18,4451,,"ilen Geld 25 Rthl Curraut betragen abgefü¬ || Ich habe bisher in stillen alles ertrage, "
 23,3,1470,1471,-,Durch,laucht,Durchlaucht,join,high,joined form occurs elsewhere in this corpus,False,1511,,519,,40,, Pohl Aufpaſſer zu befreien und Ewr Durch- || laucht wieder zu dem Revenuen und unsäglic
@@ -62,14 +62,14 @@
 25,1,1641,1642,¬,aran,delete,arandelete,split,high,joined form unattested; both halves are real words,False,0,0,1,6354,1,9450,he ist nun zwar abgemacht und völlig aran¬ || (delete)
 25,2,1670,1671,¬,einge,löset,eingelöset,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,ypotheque von 250000 Rthl besonders einge¬ || löset und Caesirt werden
 25,2,1674,1675,¬,et,was,etwas,join,high,joined form occurs elsewhere in this corpus,False,99,,11,,607,,"ht es bey dem Kriegerischen Ereignißen et¬ || was Langsam, inzwischen schreibt mir geste"
-26,2,1724,1725,¬,Schweiner,sche,Schweinersche,join,high,joined form occurs elsewhere in this corpus,False,3,,5,,5,,"ehen müßen, daß er mir auf eine Schweiner¬ || sche Hypotheque von 20000 Rthl Geld giebt."
+26,2,1724,1725,¬,Schweiner,sche,Schweinersche,join,high,joined form occurs elsewhere in this corpus,False,3,,4,,5,,"ehen müßen, daß er mir auf eine Schweiner¬ || sche Hypotheque von 20000 Rthl Geld giebt."
 27,2,1791,1792,¬,Auf,tragen,Auftragen,join,high,"joined form attested in DWDS (96,646 hits)",False,0,96646,1039,,33,,ch Memel und vieleicht von dorten mit Auf¬ || tragen nach Petersburg oder wo ich den Kay
 27,2,1804,1805,¬,ge,lingen,gelingen,join,high,joined form occurs elsewhere in this corpus,False,14,,22,,1,,"fen sollen, und ich glaube, daß es nur ge¬ || lingen wird Mittel aufzufinden, wodurch de"
 28,1,1825,1826,-,Appella,tions,Appellations,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"durch einen Commissarium des Appella- || tions Gerichts zu Kalisz, nehmlich den"
 28,1,1827,1828,¬,abge,nommen,abgenommen,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,4,,"Appellations Richter v Lipski abge¬ || nommen, und dem General Mandatario"
 28,1,1829,1830,¬,Pru,simska,Prusimska,join,high,joined form occurs elsewhere in this corpus,False,11,,0,,1,,der Frau v Dąbska gebohrnen v Pru¬ || simska Canonico v Jezierski über-
 28,1,1830,1831,-,über,geben,übergeben,join,high,joined form occurs elsewhere in this corpus,False,20,,301,,195,,simska Canonico v Jezierski über- || geben sind.
-28,1,1835,1836,-,kön,nen,können,join,high,joined form occurs elsewhere in this corpus,False,315,,1,,9,,"ich habe dabey nichts weiter thun kön- || nen, als daß ich gegen die Abnahme"
+28,1,1835,1836,-,kön,nen,können,join,high,joined form occurs elsewhere in this corpus,False,314,,1,,9,,"ich habe dabey nichts weiter thun kön- || nen, als daß ich gegen die Abnahme"
 28,1,1837,1838,¬,pro,testirte,protestirte,split,high,joined form unattested; both halves are real words,False,0,11,42,11507756,1,0,"durch ein eingereichtes Vorstellen pro¬ || testirte und auch darauf beriefe, daß"
 28,1,1839,1840,¬,Jnn,halt,Jnnhalt,join,high,head is not a word on its own,False,0,0,0,94,6,,diese Handlung gegen den klaren Jnn¬ || halt des Tilsiter Friedens laufe
 28,2,1842,1843,¬,Ma,jestät,Majestät,join,high,joined form occurs elsewhere in this corpus,False,81,,1,,3,,nach welchem alle Verpflichtungen Sr Ma¬ || jestät des Königs von Preußen auf recht
@@ -94,7 +94,7 @@
 30,1,1956,1957,-,Schuld,ner,Schuldner,join,high,joined form occurs elsewhere in this corpus,False,4,,69,,4,," allen Juristen, daß ich nicht der Schuld- || ner sey. Ich zeigte das gerichtliche Instr"
 31,1,2025,2026,¬,ge,ward,geward,split,high,joined form unattested; both halves are real words,False,0,12,22,215421,39,81164,zum Spott der Menschen zu werden - ich ge¬ || ward hierher gesandt und solte von hier na
 31,1,2030,2031,¬,vor,pfändete,vorpfändete,split,high,joined form unattested; both halves are real words,False,0,5,295,105411485,1,28296,"mir dadurch helfen kan, indem ich die vor¬ || pfändete Hypotheque von 10000 Rthl zurück "
-31,2,2062,2063,¬,Ge,neral,General,join,high,joined form occurs elsewhere in this corpus,False,110,,22,,3,, den Honrichs und fordern lezteren die Ge¬ || neral Vollmacht sogleich mit dem Bemerken 
+31,2,2062,2063,¬,Ge,neral,General,join,high,joined form occurs elsewhere in this corpus,False,111,,22,,3,, den Honrichs und fordern lezteren die Ge¬ || neral Vollmacht sogleich mit dem Bemerken 
 31,3,2087,2088,¬,be,durf,bedurf,split,high,joined form unattested; both halves are real words,False,0,35,3,105863,2,177,daß es nur der Cederung der Hypotheque be¬ || durf und daß es sehr leicht hierin zu hand
 31,3,2104,2105,¬,wer,Verzeihen,werVerzeihen,split,high,joined form unattested; both halves are real words,False,0,0,26,26528628,12,15956,r Kerl von Prussiemski längst bezahlt wer¬ || Verzeihen Ewr Durchlaucht mein etwas verwo
 31,3,2110,2111,¬,da,rauf,darauf,join,high,joined form occurs elsewhere in this corpus,False,134,,447,,5,,Schein - wie mir durcht hat [G?]lenck da¬ || rauf den Harckt[?] und Consorten eintragen
@@ -109,21 +109,21 @@
 32,3,2235,2236,-,allerbal,digste,allerbaldigste,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"ehen so geruhen, der wir auf das allerbal- || digste zu Schreiben, damit ich mich hier a"
 32,3,2237,2238,-,Ver,ehrung,Verehrung,join,high,joined form occurs elsewhere in this corpus,False,30,,3,,3,,rdru's mache. Mit der unbegränzsteter Ver- || ehrung und der tiefsten Hochachtung verhar
 33,1,2253,2254,¬,gera,des,gerades,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,740,,rwundet. Ich hoffe das Geld auf mein gera¬ || des Angesicht zu erhalten. Nur bitte ich E
-33,1,2254,2255,¬,so,gleich,sogleich,join,high,joined form occurs elsewhere in this corpus,False,111,,1515,,139,,"h Ewr Durchlaucht die Banko Acarnisung so¬ || gleich von Eysenhardt zurük zu fordern, ic"
+33,1,2254,2255,¬,so,gleich,sogleich,join,high,joined form occurs elsewhere in this corpus,False,111,,1515,,138,,"h Ewr Durchlaucht die Banko Acarnisung so¬ || gleich von Eysenhardt zurük zu fordern, ic"
 33,1,2261,2262,¬,Haupt,Epratum,HauptEpratum,split,high,joined form unattested; both halves are real words,False,0,0,36,311581,1,0,"n und wenn sogleich dem Oppenheimer Haupt¬ || Epratum Eysenhardt und Gott weis, wenn bez"
 33,1,2266,2267,¬,ge,saglich,gesaglich,split,high,joined form unattested; both halves are real words,False,0,0,22,215421,1,0,"n darüber einen Vorwurf machen, es ist ge¬ || saglich. Ich beziehe mich in allen auf wei"
 33,2,2271,2272,¬,ge,anders,geanders,split,high,joined form unattested; both halves are real words,False,0,0,22,215421,24,8428237,"ißen hat sich die Sache dort un nichts ge¬ || anders, es sey der daß Ihre neu creirten u"
 33,2,2272,2273,¬,bevoll,mächtigen,bevollmächtigen,join,high,"joined form attested in DWDS (20,353 hits)",False,0,20353,0,,2,,eu creirten und vielfachen General bevoll¬ || mächtigen Cancellaria gemacht - 8 Gott gnä
 33,2,2274,2275,¬,Schulten,Sie,SchultenSie,split,high,joined form unattested; both halves are real words,False,0,0,0,461440,1174,295670803,neral Vollmachten und Blanquette Schulten¬ || Sie hierüber nicht und bilden sich nicht a
 33,2,2284,2285,¬,ge,winnen,gewinnen,join,high,joined form occurs elsewhere in this corpus,False,32,,22,,1,, Gedanken gehabt dabey nicht denier zu ge¬ || winnen. Es war blos der Stolz sie aus alle
-33,2,2285,2286,¬,Tre,Klauen,TreKlauen,split,high,joined form unattested; both halves are real words,False,0,0,0,14414,7,54434,len trinigen Laagen und besonders aus Tre¬ || Klauen der Weihnrer gerettet zu haben. O. 
-33,3,2320,2321,¬,abman,Können,abmanKönnen,join,high,head is not a word on its own,False,0,0,0,8,315,,"chreiben, die Antwort will ich noch abman¬ || Können sie das Gold auf der Art dort erhal"
+33,2,2285,2286,¬,Tre,Klauen,TreKlauen,split,high,joined form unattested; both halves are real words,False,0,0,0,14414,8,54434,len trinigen Laagen und besonders aus Tre¬ || Klauen der Weihnrer gerettet zu haben. O. 
+33,3,2320,2321,¬,abman,Können,abmanKönnen,join,high,head is not a word on its own,False,0,0,0,8,314,,"chreiben, die Antwort will ich noch abman¬ || Können sie das Gold auf der Art dort erhal"
 34,1,2344,2345,¬,ir,gend,irgend,join,high,joined form occurs elsewhere in this corpus,False,35,,1,,1,," erhielt ich weder Geld, Nachweis oder ir¬ || gend eine Sylbe Rechnung – da Schmid todt "
-34,1,2351,2352,¬,jähr,Kosten,jährKosten,split,high,joined form unattested; both halves are real words,False,0,0,0,110267,129,8412310,"n solcher Bude sage, der Mensch wird jähr¬ || 10000 Kosten - der Bösmacht kostet sie bis"
+34,1,2351,2352,¬,jähr,Kosten,jährKosten,split,high,joined form unattested; both halves are real words,False,0,0,0,110267,128,8412310,"n solcher Bude sage, der Mensch wird jähr¬ || 10000 Kosten - der Bösmacht kostet sie bis"
 34,2,2369,2370,¬,Ge,sundung,Gesundung,join,high,"joined form attested in DWDS (41,487 hits)",False,0,41487,22,,1,, die Berichtigung deßen viel zu meiner Ge¬ || sundung beiträgt. – Noch mehr aber wenn ic
 34,2,2379,2380,¬,drey,dies,dreydies,split,high,joined form unattested; both halves are real words,False,0,0,17,3604,560,0,dimirte Peccen gesandt - ich habe in drey¬ || dies ist der Mädte Brief - alles wie es is
 34,2,2381,2382,¬,ge,schildert,geschildert,join,high,joined form occurs elsewhere in this corpus,False,6,,22,,2,," Ewr Durchlaucht Nutzen geschehen kan, ge¬ || schildert - auf allen diesen aber habe ich"
-35,1,2392,2393,¬,Ame,lang,Amelang,join,high,joined form occurs elsewhere in this corpus,False,48,,1,,10,,"H. Hofrath Meyer an den Hn. Geh. Rath Ame¬ || lang erlaßen haben, haben mein zumres ersc"
+35,1,2392,2393,¬,Ame,lang,Amelang,join,high,joined form occurs elsewhere in this corpus,False,49,,1,,10,,"H. Hofrath Meyer an den Hn. Geh. Rath Ame¬ || lang erlaßen haben, haben mein zumres ersc"
 35,1,2393,2394,¬,ver,wehrt,verwehrt,join,high,"joined form attested in DWDS (324,313 hits)",False,0,324313,3,,5,,"d meine Cörperliche Leiden dergestalt ver¬ || wehrt, daß ich meine völlige Herstellung w"
 35,1,2397,2398,¬,acklärk,noch,acklärknoch,join,high,head is not a word on its own,False,0,0,0,0,881,,"r 3/4 Jahren für Null und nichtig acklärk¬ || noch heute Summen an, und H. p. Meyer sagt"
 35,1,2407,2408,¬,zurückhal,würden,zurückhalwürden,join,high,head is not a word on its own,False,0,0,0,36,113,,l bezahlt und er seinen Wechsel zurückhal¬ || würden. Ich meldetere Durchlaucht diesen u
@@ -149,7 +149,7 @@
 36,7,2733,2735,,der,der,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"der || der Gedanke abhält, daß Ew. p vielleicht"
 36,8,2738,2739,¬,sage,möchten,sagemöchten,split,high,joined form unattested; both halves are real words,False,0,0,21,64354675,5,25146106,anders als mir selbst sage¬ || möchten. Ich kenne daher kein
 36,8,2740,2741,¬,expu,besucht,expubesucht,join,high,head is not a word on its own,False,0,0,0,0,3,,anderes Mittel als einer expu¬ || besucht v. Emp. hier biß nur
-37,2,2804,2805,-,Pohlen,Folglich,PohlenFolglich,split,high,joined form unattested; both halves are real words,False,0,0,82,4745,27,481180,er nicht einen Stürer auf Güter in Pohlen- || Folglich rathe Ewr Durchlaucht ich ganz ge
+37,2,2804,2805,-,Pohlen,Folglich,PohlenFolglich,split,high,joined form unattested; both halves are real words,False,0,0,84,4745,27,481180,er nicht einen Stürer auf Güter in Pohlen- || Folglich rathe Ewr Durchlaucht ich ganz ge
 39,1,2878,2879,¬,ersterbe,Ewr,ersterbeEwr,split,high,joined form unattested; both halves are real words,False,0,0,136,10324,1122,110,st ein mehreres - Ehrfurchtsvoll ersterbe¬ || Ewr Durchlaucht
 40,1,2887,2888,¬,ge,antwortet,geantwortet,join,high,joined form occurs elsewhere in this corpus,False,12,,22,,8,,"uf jedem höchst dero Schreiben prompte ge¬ || antwortet, sondern auch noch mehrere Brief"
 40,2,2944,2945,¬,Denar,Jezt,DenarJezt,split,high,joined form unattested; both halves are real words,False,0,0,0,4621,456,6300,diese Hülfe erhält man daher keinen Denar¬ || Jezt sind alle die Zinsen nach den abgelau
@@ -188,7 +188,7 @@
 49,1,3674,3675,¬,sah,Ich,sahIch,split,high,joined form unattested; both halves are real words,False,0,6,6,45491248,4451,255244905,n Ewr Durchlaucht gesandtes Schreiben sah¬ || Ich bin hier fortwährend arretirt und darf
 50,1,3715,3716,¬,Ver,waltung,Verwaltung,join,high,joined form occurs elsewhere in this corpus,False,1,,3,,1,,ouvernement sich zu eben der Zeit die Ver¬ || waltung der Invalidenheise angewaßt
 50,1,3723,3724,¬,ausge,stellten,ausgestellten,join,high,"joined form attested in DWDS (184,034 hits)",False,0,184034,0,,1,,dem General Lieut: v. Zastrow ausge¬ || stellten Lohderischen Wechsel von dem
-51,1,3794,3795,¬,zurück,Honrichs,zurückHonrichs,split,high,joined form unattested; both halves are real words,False,0,0,185,13566331,111,11,ie ihn anvertraute original Piegen zurück¬ || Honrichs scheint auf einmahl bekehrt zu se
+51,1,3794,3795,¬,zurück,Honrichs,zurückHonrichs,split,high,joined form unattested; both halves are real words,False,0,0,185,13566331,112,11,ie ihn anvertraute original Piegen zurück¬ || Honrichs scheint auf einmahl bekehrt zu se
 51,1,3797,3799,¬,Wort,Bethney,WortBethney,split,review,crosses a page break - check by hand,True,0,0,50,9660442,1,0,urm von ferne merkt so hält er gewis Wort¬ || Bethney liegt bey sich in Malsdorff sehr e
 51,2,3803,3804,¬,Winde,Ich,WindeIch,split,high,joined form unattested; both halves are real words,False,0,0,0,213305,4451,255244905,"3 Wochen vergehen, wie der Rauch in Winde¬ || Ich denke ich werde den Muße haben zu reis"
 52,1,3838,3839,¬,Ma,Jestät,MaJestät,join,high,joined form occurs elsewhere in this corpus,False,81,,1,,3,,eiben habe ich nebst den Beilagen Ihro Ma¬ || Jestät der Königin überricht was Allerhöch
@@ -213,7 +213,7 @@
 56,1,4168,4169,¬,ab,stempelung,abstempelung,join,high,"joined form attested in DWDS (2,267 hits)",False,0,2267,96,,1,,"arkeres Personale anstellen müßen, die ab¬ || stempelung zu befördern weil die Leute aus"
 56,2,4177,4178,¬,Ge,duld,Geduld,join,high,joined form occurs elsewhere in this corpus,False,14,,22,,2,,en und ihm nur noch auf kurze Zeit zur Ge¬ || duld verwiesen.
 57,1,4226,4227,¬,be,zahlen,bezahlen,join,high,joined form occurs elsewhere in this corpus,False,149,,3,,93,,ht hin ihm die 2000 Rthl und Kosten zu be¬ || zahlen umsomehr als kaum nach Abzug der Ko
-57,2,4245,4246,¬,Gene,ral,General,join,high,joined form occurs elsewhere in this corpus,False,110,,0,,1,, entschieden ist Ewr Durchlaucht als Gene¬ || ral Gouverneur von ganz Schlesien gleich a
+57,2,4245,4246,¬,Gene,ral,General,join,high,joined form occurs elsewhere in this corpus,False,111,,0,,1,, entschieden ist Ewr Durchlaucht als Gene¬ || ral Gouverneur von ganz Schlesien gleich a
 57,2,4250,4251,¬,ab,Ewr,abEwr,split,high,joined form unattested; both halves are real words,False,0,69,96,49097723,1122,110,hängt sehr vieles ab¬ || Ewr Durchlaucht wahrhaft biederer Freund d
 57,3,4266,4267,¬,Kriechen,Die,KriechenDie,split,high,joined form unattested; both halves are real words,False,0,0,0,5158,4570,0,"ßen überlittet sehen und zu Lahn Kriechen¬ || Die Nachrichten von 23 ten aus Wien, die d"
 57,4,4296,4297,¬,verwal,kelt,verwalkelt,join,high,head is not a word on its own,False,0,0,0,589,1,," daß mehrere große in den Complots verwal¬ || kelt sind, weil (dennoch, so gehen es auch"
@@ -234,7 +234,7 @@
 60,2,4560,4561,¬,verberge,aber,verbergeaber,split,high,joined form unattested; both halves are real words,False,0,0,0,1145106,753,125399229,ner Kinder für die ich mich zwar verberge¬ || aber die mich dennoch mit den größlichsten
 60,2,4563,4564,¬,ver,kaufe,verkaufe,join,high,joined form occurs elsewhere in this corpus,False,4,,3,,4,,beiten für Geld und laße es im Geheim ver¬ || kaufe um mich nicht zu kränken. Dies allei
 60,2,4569,4570,¬,abge,Mit,abgeMit,split,high,joined form unattested; both halves are real words,False,0,5,0,2893,1423,437384648,"und stumpft meine Gefühle ganz abge¬ || Mit 1860 Rthl könte ich gerettet werden, a"
-60,2,4587,4588,¬,Eigenthüm,nebst,Eigenthümnebst,join,high,head is not a word on its own,False,0,0,0,884,63,,estration aufheben und mir mein Eigenthüm¬ || nebst alle Produkte wieder frey geben. Von
+60,2,4587,4588,¬,Eigenthüm,nebst,Eigenthümnebst,join,high,head is not a word on its own,False,0,0,0,884,64,,estration aufheben und mir mein Eigenthüm¬ || nebst alle Produkte wieder frey geben. Von
 60,3,4596,4597,¬,auf,Meine,aufMeine,split,high,joined form unattested; both halves are real words,False,0,21,1039,334349961,350,0,Sequestration um doch nicht auf¬ || Meine schönen Fächste die unter Brüdern 10
 60,3,4613,4614,¬,Sequer,tration,Sequertration,join,high,head is not a word on its own,False,0,0,0,19,2,,sen bezahlte und auf Aufhebung der Sequer¬ || tration dränge - Ewig würde ich Ewr Durchl
 61,2,4670,4671,-,un,verschuldet,unverschuldet,join,high,"joined form attested in DWDS (59,881 hits)",False,0,59881,5,,6,,"sten, wenn ich mein Unglück was ich so un- || verschuldet leide überdenke."
@@ -242,7 +242,7 @@
 62,1,4706,4707,¬,Ge,Heimniß,GeHeimniß,join,high,"joined form attested in DWDS (2,183 hits)",False,0,2183,22,,1,," Euer Durchlaucht brauche, daraus kein Ge¬ || Heimniß zu machen, den gelingen wird alles"
 63,1,4727,4728,¬,Kon,tap,Kontap,split,high,joined form unattested; both halves are real words,False,0,0,1,21716,1,10355,mmen – ich habe zwar einen Pächter zu Kon¬ || tap aber ich muß erst 8000 Rthl rückständi
 63,2,4741,4742,¬,ver,Geblich,verGeblich,join,high,joined form occurs elsewhere in this corpus,False,9,,3,,2,,"emühen Geld von daher zu schaffen war ver¬ || Geblich, das beweiset das Beigehende Derre"
-63,2,4742,4743,¬,Hon,richs,Honrichs,join,high,joined form occurs elsewhere in this corpus,False,111,,0,,2,,eigehende Derret: Ich bis zu dem Ende Hon¬ || richs herkommen der eben heute hier einget
+63,2,4742,4743,¬,Hon,richs,Honrichs,join,high,joined form occurs elsewhere in this corpus,False,112,,0,,2,,eigehende Derret: Ich bis zu dem Ende Hon¬ || richs herkommen der eben heute hier einget
 63,2,4745,4746,¬,ver,hier,verhier,split,high,joined form unattested; both halves are real words,False,0,0,3,0,800,52795932,u würdigen und geben mir noch ehe ich ver¬ || hier abgehe die allerschleunigste Antwort.
 63,2,4748,4749,¬,Er,langung,Erlangung,join,high,"joined form attested in DWDS (65,712 hits)",False,0,65712,1274,,1,,"elben einlaßen muß, weil er zur wieder Er¬ || langung der Trapirier Güter sehr behülflic"
 63,3,4766,4767,¬,Dienst,auf,Dienstauf,split,high,joined form unattested; both halves are real words,False,0,24,8,4167528,1039,334349961,ution von 5000 Rthl - Aber gab den Dienst¬ || auf nahm sich land wolte eigener Herr heiß
@@ -256,10 +256,10 @@
 64,3,4907,4908,¬,Haupt,,,orphan,high,nothing to continue into - the next line holds no words,False,0,,0,,0,,auf Surzira für Haupt¬ || 18000
 64,4,4937,4938,¬,ge,ich,geich,join,high,"joined form attested in DWDS (1,973 hits)",False,0,1973,22,,4451,," gelaufen hatte ehe ich es erhielt, so ge¬ || ich der Poste Lauf sey schuld, daß ich von"
 64,5,4963,4964,¬,beßer,Jezt,beßerJezt,split,high,joined form unattested; both halves are real words,False,0,0,40,384,456,6300,ich sehe ich fahre beßer¬ || Jezt Gnädigster Herr bitte ich Sie nochmah
-64,5,4972,4974,¬,anbey,Erbarmen,anbeyErbarmen,split,review,crosses a page break - check by hand,True,0,0,2,61,11,38326,inzeßin am Heßen Rothenburg erfolgt anbey¬ || Erbarmen sich Erer Durchlaucht und schulen
+64,5,4972,4974,¬,anbey,Erbarmen,anbeyErbarmen,split,review,crosses a page break - check by hand,True,0,0,2,61,11,38326,inzeßin am Heßen Rothenburg erfolgt anbey¬ || Erbarmen sich Erer Durchlaucht und schicke
 64,6,4991,4992,¬,Leup,halten,Leuphalten,join,high,head is not a word on its own,False,0,0,0,18,63,,nicht fort - was wird aber mit einem Leup¬ || halten.
 65,1,4999,5000,-,Wester,Indes,WesterIndes,split,high,joined form unattested; both halves are real words,False,0,0,0,17548,196,113652,n Sohn von Erloffeln Brod Salz und Wester- || Indes bin ich froher als ein Gott den ich 
-65,1,5003,5004,¬,Güter,unverschuldeter,Güterunverschuldeter,split,high,joined form unattested; both halves are real words,False,0,0,528,3084531,2,59881,. Dann werde ich wieder Herr meiner Güter¬ || unverschuldeter weise mit dem Rücken anseh
+65,1,5003,5004,¬,Güter,unverschuldeter,Güterunverschuldeter,split,high,joined form unattested; both halves are real words,False,0,0,529,3084531,2,59881,. Dann werde ich wieder Herr meiner Güter¬ || unverschuldeter weise mit dem Rücken anseh
 65,1,5009,5010,¬,an,ders,anders,join,high,joined form occurs elsewhere in this corpus,False,24,,992,,4,, mich aber so wahr Gott ist jezt nicht an¬ || ders helfen – Aufs Neu Jahr wenn mein Päch
 65,2,5024,5025,¬,her,gesandt,hergesandt,join,high,joined form occurs elsewhere in this corpus,False,2,,64,,32,,das allerbaldigste Franco bis Boyadel her¬ || gesandt werden. Ich zahle dann laut den be
 65,2,5036,5037,¬,Cour,Mein,CourMein,split,high,joined form unattested; both halves are real words,False,0,0,13,6934,253,0,en ganzen Wust erhielt ich 2003 Rthl Cour¬ || Mein Haabe legte ich was ich in meinen Rei
@@ -277,8 +277,8 @@
 67,2,5245,5246,¬,ge,ſichert,geſichert,join,high,joined form occurs elsewhere in this corpus,False,5,,22,,6,, als wodurch Ewer durchlaucht Anrechte ge¬ || ſichert worden. Wie ich glaube haben die H
 67,3,5253,5254,¬,An,gelegenheiten,Angelegenheiten,join,high,joined form occurs elsewhere in this corpus,False,56,,992,,2,,"hier mit der Wittwen Casse wegen meine An¬ || gelegenheiten aufs Reine bin, den komme ic"
 67,3,5268,5269,¬,ver,längert,verlängert,join,high,joined form occurs elsewhere in this corpus,False,2,,3,,1,,"eral Moratorium wäre bis Johanni 1810 ver¬ || längert, und man sage es solle nach einem "
-67,4,5289,5290,¬,wie,können,wiekönnen,split,high,joined form unattested; both halves are real words,False,0,7,514,152403535,315,217791082,"ß Hawich und Hecker Canalle sind, den wie¬ || können die Liebe sagen das Geld aus den La"
-67,4,5299,5300,¬,wer,Hecker,werHecker,split,high,joined form unattested; both halves are real words,False,0,0,26,26528628,33,74480,igen gemacht so werde sie gezüchtiget wer¬ || Hecker soll von seine Papierne Caution nie
+67,4,5289,5290,¬,wie,können,wiekönnen,split,high,joined form unattested; both halves are real words,False,0,7,514,152403535,314,217791082,"ß Hawich und Hecker Canalle sind, den wie¬ || können die Liebe sagen das Geld aus den La"
+67,4,5299,5300,¬,wer,Hecker,werHecker,split,high,joined form unattested; both halves are real words,False,0,0,26,26528628,35,74480,igen gemacht so werde sie gezüchtiget wer¬ || Hecker soll von seine Papierne Caution nie
 68,1,5321,5322,¬,an,Ich,anIch,split,high,joined form unattested; both halves are real words,False,0,494,992,203629291,4451,255244905,y den Friedensrichter Kwilecki Termini an¬ || Ich schicke daher einen Bothen an Lombardi
 68,2,5337,5338,¬,zurück,Nur,zurückNur,split,high,joined form unattested; both halves are real words,False,0,0,185,13566331,697,106911014,d Ewr Durchlaucht erhalten selbige zurück¬ || Nur säumen Sie Gnädiger Herr nicht – ich b
 68,3,5362,5363,-,todt,heute,todtheute,split,high,joined form unattested; both halves are real words,False,0,0,23,45725,144,32746313,as hernehmen? Mein Credit ist reinen todt- || heute hat mein Richter ſeine Uhr verſagt d
@@ -331,7 +331,7 @@
 74a,1,6089,6090,¬,Compa,tenten,Compatenten,join,high,head is not a word on its own,False,0,0,0,322,1,,"llmächtiget, in ihrem Namen bey dem Compa¬ || tenten Herzog Warschau, Tribunal für jezt "
 74a,1,6092,6093,-,Übel,stand,Übelstand,join,high,"joined form attested in DWDS (1,849 hits)",False,0,1849,12,,19,,"erschuldet sind, tritt hier auch der Übel- || stand ein, das, besage des unter Bitte der"
 74a,1,6098,6099,-,er,giebt,ergiebt,join,high,joined form occurs elsewhere in this corpus,False,4,,1274,,61,,"tionis, anliegenden Hypothequen Schein er- || giebt, daß dem von Triebenfeld zugehörige "
-74a,1,6101,6102,¬,gleich,fals,gleichfals,join,high,joined form occurs elsewhere in this corpus,False,1,,139,,8,,"s Brech O Landes Gerichts gelegen, gleich¬ || fals mit beträchtlichen Schulden belästet "
+74a,1,6101,6102,¬,gleich,fals,gleichfals,join,high,joined form occurs elsewhere in this corpus,False,1,,138,,8,,"s Brech O Landes Gerichts gelegen, gleich¬ || fals mit beträchtlichen Schulden belästet "
 74a,2,6122,6123,-,Maas,gabe,Maasgabe,split,high,joined form unattested; both halves are real words,False,0,8,0,262894,5,362475,"en Caße, welche Jura Fisci hat, nach Maas- || gabe des § 33 Part. 1. Titel 29 der Gerich"
 74a,2,6124,6125,-,rück,ständigen,rückständigen,join,high,joined form occurs elsewhere in this corpus,False,17,,15,,2,,"feld von 50000 tl. Capital und davon rück- || ständigen Zinsen zur H. wird, wenn gleich "
 74a,2,6128,6129,¬,De,cret,Decret,join,high,joined form occurs elsewhere in this corpus,False,19,,19,,1,,"hrift mit diesem Schreiben eingesandte De¬ || cret der Kallischen Praefectur dargethan, "
@@ -413,7 +413,7 @@
 87,3,6998,6999,¬,Ge,währ,Gewähr,join,high,"joined form attested in DWDS (469,466 hits)",False,0,469466,22,,1,," an 41500 Rthl wofür ich dem König die Ge¬ || währ geleistet haben würde, biß seine Depa"
 87,3,7001,7002,¬,ver,bürge,verbürge,join,high,joined form occurs elsewhere in this corpus,False,1,,3,,4,,welches ich auf mein fürstliches Wort ver¬ || bürge. Mehr als hart und drückend ist für 
 87,3,7009,7010,¬,Stoll,ensée,Stollensée,split,high,joined form unattested; both halves are real words,False,0,0,0,137537,1,0,"rsuchen - und sich vom Minister von Stoll¬ || ensée die Acten, worinn die Correspondenz "
-87,3,7011,7012,¬,König,dem,Königdem,split,high,joined form unattested; both halves are real words,False,0,0,307,2723496,1098,0,"er Güter, zwischen dem Hochseeligen König¬ || dem Minißer v. Voss v. Struensee und Graf "
+87,3,7011,7012,¬,König,dem,Königdem,split,high,joined form unattested; both halves are real words,False,0,0,306,2723496,1098,0,"er Güter, zwischen dem Hochseeligen König¬ || dem Minißer v. Voss v. Struensee und Graf "
 87,3,7015,7017,¬,Ge,such,Gesuch,join,review,crosses a page break - check by hand,True,8,137057,22,215421,1,44256,"s dringendste dem guten Monarchen mein Ge¬ || such ans Herz zu legen, damit ich keine fe"
 87,4,7018,7019,¬,behar,ren,beharren,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,6,,haft und Ergebenheit mit der ich zu behar¬ || ren die Ehre habe.
 88,1,7027,7028,¬,Kö,nigs,Königs,join,high,joined form occurs elsewhere in this corpus,False,31,,1,,1,,"eranlasset worden, die von mir bey des Kö¬ || nigs Majestät in Antrag gebrachte Vertausc"
@@ -486,7 +486,7 @@
 101,2,7822,7823,¬,über,nommen,übernommen,join,high,joined form occurs elsewhere in this corpus,False,9,,301,,4,,"bst, daß ich jene Ausgaben zu tragen über¬ || nommen habe"
 101,2,7840,7842,¬,Vor,wert,Vorwert,join,review,crosses a page break - check by hand,True,2,1367,295,105411485,1,1540107," ganz andere Bewandung. Dies ist kein Vor¬ || wert, sondern 1 Holländer Hufe, welche der"
 101,3,7856,7857,¬,Sac,culum,Sacculum,split,high,joined form unattested; both halves are real words,False,0,0,0,2138,1,1208," zwar gros genug ist; so muß erst ein Sac¬ || culum vergehen, ehe solches wieder nutzbar"
-101,4,7885,7886,-,ge,rede,gerede,join,high,"joined form attested in DWDS (342,694 hits)",False,0,342694,22,,13,,"pruch nicht erklären kan, da die Sache ge- || rede noch heute so ist, wie damals."
+101,4,7885,7886,-,ge,rede,gerede,join,high,"joined form attested in DWDS (342,694 hits)",False,0,342694,22,,14,,"pruch nicht erklären kan, da die Sache ge- || rede noch heute so ist, wie damals."
 101,4,7892,7893,¬,der,durch,derdurch,split,high,joined form unattested; both halves are real words,False,0,41,3841,0,519,77747868,"privat Güter anzusehen, welches schon der¬ || durch hinreichend bewiesen wird, daß solch"
 101,6,7937,7938,¬,verhält,unßmäßig,verhältunßmäßig,split,high,joined form unattested; both halves are real words,False,0,0,1,1416004,1,0,"ungs Societaet, vordurch als denn verhält¬ || unßmäßig das jährliche Amortissations Quan"
 101,6,7939,7940,¬,ent,richtet,entrichtet,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,2,," und Polajewo mit 50000 Rthl jährlich ent¬ || richtet haben, und künfftig Polajewo und m"
@@ -514,12 +514,12 @@
 104,1,8173,8174,-,ver,der,verder,split,high,joined form unattested; both halves are real words,False,0,535,3,0,3841,0,edes habe ich der Fürstin durchlaucht ver- || der Wahrheit zu überzeugen die Gnade gehab
 104,2,8181,8182,¬,strä,sich,sträsich,join,high,head is not a word on its own,False,0,0,0,39,907,,n Sache heißen soll – Mein Ehrgefühl strä¬ || sich indes stets gegen alles was nur einen
 104,2,8185,8186,-,Wün,sche,Wünsche,join,high,joined form occurs elsewhere in this corpus,False,52,,0,,5,,h trotz allem Gewäsche am Ziel meiner Wün- || sche gelange
-104,2,8188,8189,-,Gleich,gewicht,Gleichgewicht,join,high,"joined form attested in DWDS (460,070 hits)",False,0,460070,139,,3,,"König, wann die Güter einander das Gleich- || gewicht halten, Apröbaret – das Gleich gew"
+104,2,8188,8189,-,Gleich,gewicht,Gleichgewicht,join,high,"joined form attested in DWDS (460,070 hits)",False,0,460070,138,,3,,"König, wann die Güter einander das Gleich- || gewicht halten, Apröbaret – das Gleich gew"
 104,2,8192,8193,¬,Schande,Für,SchandeFür,split,high,joined form unattested; both halves are real words,False,0,5,21,205369,610,378371132,dem Monarchen zu danken ist keine Schande¬ || Für die Gleichheit der Güter ist indes ges
 104,3,8206,8207,¬,ge,sagt,gesagt,join,high,joined form occurs elsewhere in this corpus,False,99,,22,,103,,"nehmen – ich habe es dem Herrn bereits ge¬ || sagt, daß ich dies nicht kan – und ich wer"
 105,1,8239,8240,¬,gewis,daß,gewisdaß,split,high,joined form unattested; both halves are real words,False,0,0,69,1221,1896,17145440, auch darnach nichts den ich bin zu gewis¬ || daß der zimel Ewr Hochfürstliche Durchlauc
 105,1,8240,8241,¬,Gesund,und,Gesundund,split,high,joined form unattested; both halves are real words,False,0,19,15,4091282,5259,1133103472,r Hochfürstliche Durchlaucht recht Gesund¬ || und glücklich zurück hilft und daß alles -
-105,2,8253,8254,¬,Vasallen,Der,VasallenDer,split,high,joined form unattested; both halves are real words,False,0,0,1,27522,3841,0,ich aber zur Freude aller bidern Vasallen¬ || Der Monarch ist wohl arbeitet nicht nur mi
+105,2,8253,8254,¬,Vasallen,Der,VasallenDer,split,high,joined form unattested; both halves are real words,False,0,0,2,27522,3841,0,ich aber zur Freude aller bidern Vasallen¬ || Der Monarch ist wohl arbeitet nicht nur mi
 105,2,8256,8257,¬,lacht,den,lachtden,split,high,joined form unattested; both halves are real words,False,0,0,1,1995001,2760,0,rt auch daß einen das Herz in Leibe lacht¬ || den Sontag sah ich die alte Garde auch in 
 105,2,8264,8265,¬,gesund,und,gesundund,split,high,joined form unattested; both halves are real words,False,0,19,15,4091282,5259,1133103472,n Männer K. Z[astrow]. und R. sind gesund¬ || und Leben in der grösten Harmann.
 105,3,8273,8274,¬,an,vertraute,anvertraute,join,high,joined form occurs elsewhere in this corpus,False,1,,992,,2,,"ürde da ich noch alle die mir gnädigst an¬ || vertraute Blanquets in Händen habe, hier s"
@@ -562,7 +562,7 @@
 120,1,9037,9038,¬,zurük,Hier,zurükHier,split,high,joined form unattested; both halves are real words,False,0,0,19,321,800,52795932, der Gräfin Schlabrendorff ist auch zurük¬ || Hier ist die Antwort Ewr Hochfürstl Durchl
 120,1,9039,9040,¬,Instru,Quiſt,InstruQuiſt,join,high,head is not a word on its own,False,0,0,0,351,2,,"hend – Sie ſchlägt es vnnd ab, das Instru¬ || Quiſt: ehender heraus zu geben, bis ſie di"
 120,2,9044,9045,¬,gebrau,chen,gebrauchen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,4,,daß Ewr Durchlaucht solche apparte gebrau¬ || chen können - Auch der Accept wegen des 2t
-120,2,9046,9047,¬,kan,Den,kanDen,split,high,joined form unattested; both halves are real words,False,0,59,455,38757,2760,0,"sein, daß kein Unglück mehr geschehen kan¬ || Den Wunchel sehe ich sehnsuchts voll entge"
+120,2,9046,9047,¬,kan,Den,kanDen,split,high,joined form unattested; both halves are real words,False,0,59,455,38757,2760,0,"sein, daß kein Unglück mehr geschehen kan¬ || Den Kunckel sehe ich sehnsuchts voll entge"
 122,1,9070,9071,¬,Kan,Cabanis,KanCabanis,split,high,joined form unattested; both halves are real words,False,0,0,455,38757,23,2070,ngang der 166 Rthl 16 g. mit anzeigen Kan¬ || Cabanis reiſet ſo eben mit der Poſt nach H
 123,1,9081,9082,¬,Schrei,ben,Schreiben,join,high,joined form occurs elsewhere in this corpus,False,325,,0,,9,,"ielt ich per Estaffette beigehende Schrei¬ || ben des p Kunckel, welches ich Ewr Hochfür"
 125,1,9122,9123,¬,Hoch,fürstliche,Hochfürstliche,join,high,joined form occurs elsewhere in this corpus,False,271,,21,,6,,kommen – Sie wollen im 4 Uhr bey Ewr Hoch¬ || fürstliche Durchlaucht sein
@@ -575,7 +575,7 @@
 128,3,9229,9230,¬,aufzuhe,ben,aufzuheben,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,9,,h die 3 B. den Olesnices Contract aufzuhe¬ || ben und die generelle dismembration zu bes
 128,3,9232,9233,¬,frey,Dies,freyDies,split,high,joined form unattested; both halves are real words,False,0,0,51,329964,560,0,neticum und überhaupt 9 Hufen frey¬ || Dies werde ich am Ende zu geben den nun ka
 128,3,9235,9236,¬,Be,lohnung,Belohnung,join,high,"joined form attested in DWDS (451,216 hits)",False,0,451216,3,,1,,hen überwinden. Er verdient eine große Be¬ || lohnung. Durch seine Hülfe werde ich mit d
-129,1,9278,9279,¬,antwor,tet,antwortet,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,3,,lzig hofte ich sehr - Aber A.elang antwor¬ || tet nicht. Wäre da ein Strahl von Hoffnung
+129,1,9278,9279,¬,antwor,tet,antwortet,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,3,,lzig hofte ich sehr - Aber Amelang antwor¬ || tet nicht. Wäre da ein Strahl von Hoffnung
 129,1,9286,9287,-,em,pfehlen,empfehlen,join,high,joined form occurs elsewhere in this corpus,False,11,,0,,1,,r die Güter jedem Kauflustigen bestens em- || pfehlen und anzeigen solle - den auf diese
 131,1,9359,9360,¬,Kol,tzig,Koltzig,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,lles so einleiten daß Ewr Durchlaucht Kol¬ || tzig oder das Darlehn erhalten. Mann giebt
 131,2,9369,9370,¬,preiset,Auf,preisetAuf,split,high,joined form unattested; both halves are real words,False,0,0,0,249366,1039,334349961,hnerachtet man dies dings so hoch preiset¬ || Auf die Causus Arresti kan es ohne 2000 Rt
@@ -594,9 +594,9 @@
 134,3,9595,9596,¬,Dedomi,Gement,DedomiGement,join,high,head is not a word on its own,False,0,0,0,0,2,,ändern bezahlten Intressen als ein Dedomi¬ || Gement für die verlohrenen Brzyzer Güter s
 134,4,9605,9606,¬,geant,wortet,geantwortet,join,high,joined form occurs elsewhere in this corpus,False,12,,2,,3,,sondiren mögte. Amelang hat ihm den geant¬ || wortet. Er wiße daß Ewr Durchlaucht von Kö
 134,5,9628,9629,¬,Inso,lenz,Insolenz,split,high,joined form unattested; both halves are real words,False,0,189,0,72873,2,3323,"g daß man artig sein und keine grobe Inso¬ || lenz geben, sondern solche gänzlich zurück"
-134,6,9649,9650,-,Inva,liden,Invaliden,join,high,joined form occurs elsewhere in this corpus,False,76,,0,,1,,t der Sach nichts zu thun haben. Die Inva- || liden Casse will kein Geld geben - eben so
+134,6,9649,9650,-,Inva,liden,Invaliden,join,high,joined form occurs elsewhere in this corpus,False,77,,0,,1,,t der Sach nichts zu thun haben. Die Inva- || liden Casse will kein Geld geben - eben so
 134,6,9659,9660,¬,Con,tracte,Contracte,join,high,joined form occurs elsewhere in this corpus,False,18,,1,,1,,egeben und sich mit sie in Societaets Con¬ || tracte eingelaßen hat. Es wird am Ende not
-134,7,9672,9673,¬,Beym,Jezt,BeymJezt,split,high,joined form unattested; both halves are real words,False,0,0,26,841,456,6300,"r sich thätig beweiset und der durch Beym¬ || Jezt Credit gewinnt, noch viel nicht Rath "
+134,7,9672,9673,¬,Beym,Jezt,BeymJezt,split,high,joined form unattested; both halves are real words,False,0,0,24,841,456,6300,"r sich thätig beweiset und der durch Beym¬ || Jezt Credit gewinnt, noch viel nicht Rath "
 135,1,9720,9721,¬,angewie,seine,angewieseine,join,high,head is not a word on its own,False,0,0,0,31,193,,"ne, und auf die ersten Kaufgelder angewie¬ || seine Provision von 2 pl. von denen erster"
 135,2,9744,9745,¬,bemü,lung,bemülung,join,high,head is not a word on its own,False,0,0,0,155,1,," mögte, für diese seine Nachweisung, bemü¬ || lung und den mir dadurch geleisteten Diens"
 135,2,9758,9759,¬,erfau,den,erfauden,join,high,head is not a word on its own,False,0,0,0,0,2760,,"dem Herrn Ordens komm. Rath Ludolff erfau¬ || den werden solte, daß solche einen rechten"
@@ -627,8 +627,8 @@
 139,1,10132,10133,¬,ein,Was,einWas,split,high,joined form unattested; both halves are real words,False,0,233,815,0,607,0," Vergleich, und schickte ihm bey Hofe ein¬ || Was ſoll ich nun thun? Dagegen klagen nach"
 139,2,10142,10143,-,ver,geblich,vergeblich,join,high,joined form occurs elsewhere in this corpus,False,9,,3,,2,,keine Sylbe. Hier nage ſizze ich hier ver- || geblich – Gott es ist schrecklich was sich
 139,2,10146,10147,¬,speirati,abgeschloßen,speiratiabgeschloßen,join,high,head is not a word on its own,False,0,0,0,0,15,,"is in Ewigkeit, daß er nicht sub speirati¬ || abgeschloßen hat - Er sagt er habe wollen "
-139,3,10162,10163,¬,ver,ſäumen,verſäumen,join,high,joined form occurs elsewhere in this corpus,False,5,,3,,2,,nd nach Betsch ab in dorten nichts zu ver¬ || ſäumen – den mit Bornstee wird es viel Lär
-139,4,10185,10186,¬,gestan,Weltzer,gestanWeltzer,join,high,head is not a word on its own,False,0,0,0,177,2,,an über dies Gewüsche werden - den gestan¬ || Weltzer doch ein hätte man auch nur auf 6 
+139,3,10162,10163,¬,ver,ſäumen,verſäumen,join,high,joined form occurs elsewhere in this corpus,False,5,,3,,2,,nd nach Betsch ab in dorten nichts zu ver¬ || ſäumen – den mit Bornstädt wird es viel Lä
+139,4,10185,10186,¬,gestan,Metzer,gestanMetzer,join,high,head is not a word on its own,False,0,0,0,177,9,,an über dies Gewüsche werden - den gestan¬ || Metzer doch ein hätte man auch nur auf 6 T
 139,4,10191,10192,-,dauer,würde,dauerwürde,split,high,joined form unattested; both halves are real words,False,0,0,1,4458479,334,466722429,ge wie lange der Liquidation Prozeß dauer- || würde meint Metzer sehr kalt blutig 6 bis 
 140,1,10228,10230,-,Vor,Vorwerk,VorVorwerk,catchword,high,fragment repeats the next page opening,True,0,,295,,8,, in Händen hätte nach welchen sie das Vor- || Vorwerk Abre und den grösten Theil der Wal
 140,2,10236,10237,¬,Durchlau,prellen,Durchlauprellen,join,high,head is not a word on its own,False,0,0,0,14,7,,"er, daß er zwar sehe daß man Ewr Durchlau¬ || prellen wolle, daß er aber als Beistand de"
@@ -638,7 +638,7 @@
 140,5,10308,10309,¬,Men,sehen,Mensehen,join,high,"joined form attested in DWDS (2,660 hits)",False,0,2660,2,,118,,uf des erhabensten grösten Mannes und Men¬ || sehen freundes
 140,5,10322,10323,¬,ver,ſchneben,verſchneben,split,high,joined form unattested; both halves are real words,False,0,0,3,0,2,19,"echtens abmachen, und bey Gott nichts ver¬ || ſchneben, aber in der Geſchichte kan ich o"
 140,6,10331,10332,¬,Con,tracten,Contracten,join,high,joined form occurs elsewhere in this corpus,False,4,,1,,1,,"n alle, daß sie kein Geld sondern die Con¬ || tracten beſtimmte Summen Holz haben wollen"
-140,6,10333,10334,-,zer,nichten,zernichten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,ie in den Kauf mit den Unterthanen zu zer- || nichten. Hier werde ich aber mit die Gänne
+140,6,10333,10334,-,zer,nichten,zernichten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,ie in den Kauf mit den Unterthanen zu zer- || nichten. Hier werde ich aber mit die Gaune
 140,6,10344,10345,-,ge,daß,gedaß,split,high,joined form unattested; both halves are real words,False,0,11,22,215421,1896,17145440,e nicht ehender als den 2ten Aug nötig ge- || daß das Geld an Broniewski erlegt würde.
 141,1,10392,10393,-,ge,zogen,gezogen,join,high,joined form occurs elsewhere in this corpus,False,27,,22,,6,," hat sich wohl weißlich aus dem Staube ge- || zogen, ein hernach alles auf den einfältig"
 141,2,10400,10401,¬,einräumt,den,einräumtden,split,high,joined form unattested; both halves are real words,False,0,0,0,722442,2760,0,ie Tradition der Güter gerichtl. einräumt¬ || den ist der Jude et Consorten in dieser Sa
@@ -672,25 +672,25 @@
 151,1,10823,10824,¬,rächt,Mir,rächtMir,split,high,joined form unattested; both halves are real words,False,0,0,1,186946,785,211262,"Voss, seinen favoriten nicht an ihm rächt¬ || Mir geht es hier ſehr ſchlecht – Es ſchein"
 151,1,10833,10835,,besonders,besonders,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,besonders || besonders da sich solche schreckliche Ausf
 152,1,10892,10893,¬,widerwar,tigkeiten,widerwartigkeiten,join,high,head is not a word on its own,False,0,0,0,0,1,,"ist, ist nicht gut - Solte indes widerwar¬ || tigkeiten eintreten, die die dismembration"
-152,1,10899,10900,¬,Bernhardi,einen,Bernhardieinen,split,high,joined form unattested; both halves are real words,False,0,0,12,3028,436,0," - Anstatt Geld erhielt ich von Bernhardi¬ || einen impertinenten Brief, den ich inzwisc"
+152,1,10899,10900,¬,Bernhardi,einen,Bernhardieinen,split,high,joined form unattested; both halves are real words,False,0,0,12,3028,437,0," - Anstatt Geld erhielt ich von Bernhardi¬ || einen impertinenten Brief, den ich inzwisc"
 154,2,10966,10967,¬,ge,folgt,gefolgt,join,high,joined form occurs elsewhere in this corpus,False,3,,22,,9,,"eben, der mir bis hierher auf der Post ge¬ || folgt ist, dies Schreiben ist von solchen "
 154,2,10977,10978,¬,über,dem,überdem,join,high,joined form occurs elsewhere in this corpus,False,11,,301,,1098,,hen - Mitt mir will er sich so lange über¬ || dem herum schießen bis einen der 7﻿-hohlt.
 154,2,10978,10979,¬,Hier,trift,Hiertrift,split,high,joined form unattested; both halves are real words,False,0,0,800,52795932,9,21675,"rum schießen bis einen der 7﻿-hohlt. Hier¬ || trift er aber auf seinen Meister, den heut"
 155,1,10998,10999,¬,Schla,berndorffischen,Schlaberndorffischen,join,high,head is not a word on its own,False,0,0,0,686,1,,befehl: daß ich heute in betref der Schla¬ || berndorffischen Zahlung bey dem Herrn Canz
 155,1,11001,11002,¬,Un,terredung,Unterredung,join,high,joined form occurs elsewhere in this corpus,False,4,,5,,1,,en Frist besprach. Das Resultat dieser Un¬ || terredung war nicht sehr tröstlich. Er sag
-155,1,11004,11005,¬,Post,Tag,PostTag,join,high,joined form occurs elsewhere in this corpus,False,2,,101,,41,,n und noch vor dem nächsten Berliner Post¬ || Tag geleisteten Zahlung von der Widerannah
+155,1,11004,11005,¬,Post,Tag,PostTag,join,high,joined form occurs elsewhere in this corpus,False,2,,100,,41,,n und noch vor dem nächsten Berliner Post¬ || Tag geleisteten Zahlung von der Widerannah
 155,2,11015,11016,¬,be,stimt,bestimt,join,high,joined form occurs elsewhere in this corpus,False,4,,3,,1,,"icht Antrage dahin zu machen, indem Er be¬ || stimt, überzeugt seyn will, daß die Graefi"
 155,2,11017,11018,¬,Hochwohlge,bohren,Hochwohlgebohren,join,high,joined form occurs elsewhere in this corpus,False,52,,0,,5,,"auf nie einlassen würden. Euer Hochwohlge¬ || bohren, sehen aus diesen Aeußerungen den d"
 155,2,11021,11022,¬,Schwein,für,Schweinfür,split,high,joined form unattested; both halves are real words,False,0,9,1,530324,610,378371132,ch ist heute frühe mit dem wilden Schwein¬ || für dem Regierungs-Rath von Kreczinski uib
-155,2,11022,11023,¬,uiber,Kaliſch,uiberKaliſch,join,high,head is not a word on its own,False,0,0,0,49,2,," dem Regierungs-Rath von Kreczinski uiber¬ || Kaliſch nach Trąbczyn abgereißt,"
+155,2,11022,11023,¬,uiber,Kaliſch,uiberKaliſch,join,high,head is not a word on its own,False,0,0,0,49,4,," dem Regierungs-Rath von Kreczinski uiber¬ || Kaliſch nach Trąbczyn abgereißt,"
 155,2,11024,11025,¬,unterthä,nig,unterthänig,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"hle mich zu fernerer Gewogenheit unterthä¬ || nig, und haben die Ehre mit vollkommenster"
 155,2,11025,11026,¬,Ver,ehrung,Verehrung,join,high,joined form occurs elsewhere in this corpus,False,30,,3,,3,,und haben die Ehre mit vollkommenster Ver¬ || ehrung zu seyn.
 156,3,11075,11076,¬,Ausdrü,ken,Ausdrüken,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"m Canzler Hemuth in den bündigsten Ausdrü¬ || ken versichere lassen, daß ich an verfloss"
 156,3,11086,11087,¬,verantwort,lich,verantwortlich,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,14,,"bey meinen eignen Kindern verantwort¬ || lich machen, und es bleibt mir dahero nich"
-157,1,11132,11133,¬,Schla,brendorff,Schlabrendorff,join,high,joined form occurs elsewhere in this corpus,False,31,,0,,1,, ist alles gemacht - der Thörichten Schla¬ || brendorff Ihre Drohungen verlachen Ewr Dur
+157,1,11132,11133,¬,Schla,brendorff,Schlabrendorff,join,high,joined form occurs elsewhere in this corpus,False,32,,0,,1,, ist alles gemacht - der Thörichten Schla¬ || brendorff Ihre Drohungen verlachen Ewr Dur
 157,1,11138,11139,¬,ver,laßen,verlaßen,join,high,joined form occurs elsewhere in this corpus,False,9,,3,,324,,"in darauf könten sich Ewr Durchlaucht ver¬ || laßen. - Pochammer ist jezt sehr solide, d"
 157,2,11160,11161,¬,beru,higen,beruhigen,join,high,joined form occurs elsewhere in this corpus,False,14,,0,,2,,"y habe ich ihm gebeten die Gräfin zu beru¬ || higen, und ihr zu sagen, daß ich Ihr dafür"
-158,1,11186,11187,¬,Ge,neral,General,join,high,joined form occurs elsewhere in this corpus,False,110,,22,,3,, nichts erhalten hätten sich der Braun Ge¬ || neral meiner nicht auf das thätigste angen
+158,1,11186,11187,¬,Ge,neral,General,join,high,joined form occurs elsewhere in this corpus,False,111,,22,,3,, nichts erhalten hätten sich der Braun Ge¬ || neral meiner nicht auf das thätigste angen
 158,2,11197,11198,-,beſchied,Sobald,beſchiedSobald,split,high,joined form unattested; both halves are real words,False,0,0,1,0,56,2152291,warteste Loos beſchied- || Sobald ich nun das Geld erhalte zahle ich 
 158,3,11217,11218,¬,er,theilen,ertheilen,join,high,joined form occurs elsewhere in this corpus,False,12,,1274,,7,,"rig, nach Ewr Durchlaucht Schreiben zu er¬ || theilen, ausgedruckt haben - Ehre bleibt i"
 158,3,11219,11220,¬,ver,möge,vermöge,join,high,joined form occurs elsewhere in this corpus,False,5,,3,,16,,"erste Triebfeder, ich opfere ihr Mühe ver¬ || möge, und Gesundheit auf. Und die Wahrheit"
@@ -741,7 +741,7 @@
 169,3,11983,11984,¬,puri,renen,purirenen,split,high,joined form unattested; both halves are real words,False,0,0,0,5773,1,890," bey den Taxen so wegen - Es bleiben puri¬ || renen Zinsen, da bedarf es keiner Revision"
 169,4,11994,11995,¬,ver,sezt,versezt,join,high,joined form occurs elsewhere in this corpus,False,5,,3,,7,,pothique von Olesnica bey Oppenheimer ver¬ || sezt hat darüber lernt der Mensch und schr
 169,4,12008,12009,¬,ge,funden,gefunden,join,high,joined form occurs elsewhere in this corpus,False,12,,22,,5,,"avor daß Sprengel seine 18 Morgen will ge¬ || funden haben, sollen Sie den Kerl wieder b"
-170,1,12022,12023,¬,Erthe,Schweiner,ErtheSchweiner,join,high,head is not a word on its own,False,0,0,0,0,5,,"Senabend nach Euer Hochwohlgebohren Erthe¬ || Schweiner, um dort mit dem Amtmann Käufer "
+170,1,12022,12023,¬,Erthe,Schweiner,ErtheSchweiner,join,high,head is not a word on its own,False,0,0,0,0,4,,"Senabend nach Euer Hochwohlgebohren Erthe¬ || Schweiner, um dort mit dem Amtmann Käufer "
 170,1,12026,12027,¬,Auf,trag,Auftrag,join,high,joined form occurs elsewhere in this corpus,False,11,,1039,,4,, zurück. Lezteren erklärte ich meinen Auf¬ || trag den ich an ihm hätte ganz in der Art 
 170,1,12028,12029,¬,son,dere,sondere,join,high,"joined form attested in DWDS (26,355,418 hits)",False,0,26355418,0,,1,,"r, er schien darüber nicht betroffen, son¬ || dere forschte darnach, wer ihm bey Sr Durc"
 170,1,12033,12034,¬,entge,gengesetzten,entgegengesetzten,join,high,"joined form attested in DWDS (97,942 hits)",False,0,97942,0,,1,,"hnen, da er sähe, daß man bey einer entge¬ || gengesetzten Handlungsweise, nie sicher wä"
@@ -751,12 +751,12 @@
 171,1,12069,12070,¬,Schmer,zen,Schmerzen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"schwollen, und verursacht keine Schmer¬ || zen. Er durchlaucht wollen sich bestens em"
 171,1,12072,12073,¬,Kay,sers,Kaysers,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,"artige Benehmen Sr Majestät, des Kay¬ || sers nach mehr Vergnügen hervorgebracht"
 171,2,12077,12078,¬,schmeichel,haftesten,schmeichelhaftesten,join,high,"joined form attested in DWDS (77,161 hits)",False,0,77161,0,,1,,reslau soll der Kayser mit den schmeichel¬ || haftesten Ausdrüken von Sr. Durchlaucht
-171,2,12080,12081,-,Hehen,Lohn,HehenLohn,join,high,head is not a word on its own,False,0,0,0,79,9,,"Heute marschirte das Regiment Hehen- || Lohn hier durch, der Fürst war ihm entge¬"
+171,2,12080,12081,-,Hehen,Lohn,HehenLohn,join,high,head is not a word on its own,False,0,0,0,79,8,,"Heute marschirte das Regiment Hehen- || Lohn hier durch, der Fürst war ihm entge¬"
 171,2,12081,12082,¬,entge,gengeritten,entgegengeritten,join,high,head is not a word on its own,False,0,594,0,259,1,,"Lohn hier durch, der Fürst war ihm entge¬ || gengeritten. Morgen wird der Herzog"
 171,2,12086,12087,¬,behar,ren,beharren,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,6,,unbegrenztesten Hochachtung zu behar¬ || ren.
 172,1,12112,12113,¬,ge,fertiget,gefertiget,join,high,joined form occurs elsewhere in this corpus,False,3,,22,,2,,n Principien unterm 2 Septr. a. pr. zu ge¬ || fertiget hat. So wohl bey diesen als auch 
 172,2,12116,12117,¬,compro,mittirt,compromittirt,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,2,,"en kommen laßen, und das Collegium compro¬ || mittirt, dagegen hat sich das Fürstl Domin"
-172,2,12129,12130,¬,Mona,Kunckel,MonaKunckel,split,high,joined form unattested; both halves are real words,False,0,0,0,197629,11,4952,"bald fertig zu werden, den heute ist Mona¬ || Kunckel durch den Landreuter abgehohlt, un"
+172,2,12129,12130,¬,Mona,Kunckel,MonaKunckel,split,high,joined form unattested; both halves are real words,False,0,0,0,197629,12,4952,"bald fertig zu werden, den heute ist Mona¬ || Kunckel durch den Landreuter abgehohlt, un"
 172,2,12135,12136,¬,ver,langen,verlangen,join,high,joined form occurs elsewhere in this corpus,False,12,,3,,11,,der die Winnichische Erbe geklagt und ver¬ || langen noch 1300 Rthl rückstänkige Vermest
 173,1,12159,12160,¬,Auf,trag,Auftrag,join,high,joined form occurs elsewhere in this corpus,False,11,,1039,,4,,"dem Justiz Bürgermeister Schenck, den Auf¬ || trag gemacht sämtlich dort vorhandene Papi"
 173,2,12180,12181,¬,Dismembrationi,Plan,DismembrationiPlan,join,high,head is not a word on its own,False,0,0,0,0,92,,r seine Protocolle bey den Dismembrationi¬ || Plan habe ich ihm ſchon 900 rtum baar zahl
@@ -770,7 +770,7 @@
 175,1,12342,12343,¬,die,sen,diesen,join,high,joined form occurs elsewhere in this corpus,False,224,,4570,,11,,"dern Meinung zuschreiben, und was in die¬ || sen Sachen zu thun ist, besonders draengen"
 175,1,12346,12347,¬,wür,den,würden,join,high,joined form occurs elsewhere in this corpus,False,113,,0,,2760,,"öpft wurde, nicht etwas im bloßen, so wür¬ || den Höchst Sie sogleich die erforderliche "
 176,1,12361,12362,¬,ge,horsamst,gehorsamst,join,high,joined form occurs elsewhere in this corpus,False,35,,22,,1,,"wohlgebohren, melde ich hierdurch ganz ge¬ || horsamst, daß gestern Nachmittag und"
-176,1,12363,12364,¬,Abla,ben,Ablaben,split,high,joined form unattested; both halves are real words,False,0,0,0,1333,9,704469,hr p Ehtafette die Nachricht von dem Abla¬ || ben des regierenden Fürsten zu Hohenlohe
+176,1,12363,12364,¬,Abla,ben,Ablaben,split,high,joined form unattested; both halves are real words,False,0,0,0,1333,9,704469,r p Estaffette die Nachricht von dem Abla¬ || ben des regierenden Fürsten zu Hohenlohe
 176,1,12368,12369,¬,Rathlauf,das,Rathlaufdas,join,high,head is not a word on its own,False,0,0,0,0,1288,,en 24ten selbigen Monats von dem Rathlauf¬ || das eine gewönliche Krankheit bey Ihm war¬
 176,1,12369,12370,¬,war,befallen,warbefallen,split,high,joined form unattested; both halves are real words,False,0,0,245,835493046,1,247859,"das eine gewönliche Krankheit bey Ihm war¬ || befallen, und endete durch einen hinzugetr"
 176,1,12370,12371,¬,hinzugetra,tenen,hinzugetratenen,join,high,head is not a word on its own,False,0,0,0,0,1,,"fallen, und endete durch einen hinzugetra¬ || tenen Schlagfluß, den 27."
@@ -796,7 +796,7 @@
 178,1,12590,12591,¬,Hochwohlge,bohren,Hochwohlgebohren,join,high,joined form occurs elsewhere in this corpus,False,52,,0,,5,,"ngepakt habe, und die für Euer Hochwohlge¬ || bohren bestimmt waren. Dieſelben werden"
 178,1,12592,12593,¬,denensel,ben,denenselben,join,high,joined form occurs elsewhere in this corpus,False,31,,0,,9,," dis Versehen verzeihen, wem ich denensel¬ || ben sage, daß ich die leztern Nächte vor d"
 178,1,12594,12595,¬,Cammer,Director,CammerDirector,split,high,joined form unattested; both halves are real words,False,0,0,30,2764,20,222025,"breiße keine Ruhe hatte, indem der Cammer¬ || Director Graf aus Behringen nach dort anka"
-178,1,12596,12598,¬,aus,gemacht,ausgemacht,join,review,crosses a page break - check by hand,True,3,1280254,543,171904164,119,67278827,"alles was das Heheelohischen angrenge aus¬ || gemacht werden sollte, ehe die Reiße ange¬"
+178,1,12596,12598,¬,aus,gemacht,ausgemacht,join,review,crosses a page break - check by hand,True,3,1280254,543,171904164,119,67278827,"alles was das Hohenlohischen angrenge aus¬ || gemacht werden sollte, ehe die Reiße ange¬"
 178,2,12598,12599,¬,ange,treten,angetreten,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,16,,"gemacht werden sollte, ehe die Reiße ange¬ || treten würde, die übrigen Chartes blanches"
 179,1,12617,12618,¬,ent,fernt,entfernt,join,high,joined form occurs elsewhere in this corpus,False,9,,1,,1,,", daß ich von Ewr Durchlaucht so weit ent¬ || fernt leben und ſo ſelte Nachricht haben ſ"
 179,2,12642,12643,¬,ab,gezahlt,abgezahlt,join,high,joined form occurs elsewhere in this corpus,False,1,,96,,23,,ne Reihe von Jahre dazu bis alles rein ab¬ || gezahlt werden wird.
@@ -822,7 +822,7 @@
 182,3,13131,13132,¬,Zeug,niße,Zeugniße,join,high,joined form occurs elsewhere in this corpus,False,1,,7,,1,,"Jahr voraus weg - Titel, und falsche Zeug¬ || niße aber werde ich ihm nie gewähren. Ich "
 182,4,13153,13154,¬,Un,terkommen,Unterkommen,join,high,"joined form attested in DWDS (3,181 hits)",False,0,3181,5,,1,,"en, sich in seinen wünsche angemeßenes Un¬ || terkommen zu suchen."
 183,1,13166,13167,¬,Wenig,keit,Wenigkeit,join,high,joined form occurs elsewhere in this corpus,False,1,,57,,10,," sehr angegriffen, und selbst meine Wenig¬ || keit komt in Ihrer Geschichte vor"
-184,1,13182,13183,¬,ver,gessen,vergessen,join,high,joined form occurs elsewhere in this corpus,False,1,,3,,1,,"neulich bey Abgang der Eßtaffette ver¬ || gessen worden; Euer Hochwohlgebohren,"
+184,1,13182,13183,¬,ver,gessen,vergessen,join,high,joined form occurs elsewhere in this corpus,False,1,,3,,1,,"neulich bey Abgang der Estaffette ver¬ || gessen worden; Euer Hochwohlgebohren,"
 184,1,13185,13186,¬,Gna,den,Gnaden,join,high,joined form occurs elsewhere in this corpus,False,20,,0,,2760,,"Ich empfehle mich Denenselben zu Gna¬ || den, und wünsche, daß dieselben ver¬"
 184,1,13186,13187,¬,ver,gnügter,vergnügter,join,high,"joined form attested in DWDS (33,627 hits)",False,0,33627,3,,1,,"den, und wünsche, daß dieselben ver¬ || gnügter als ich leben mögten; denn ich"
 184,1,13192,13193,¬,glük,lich,glüklich,split,high,joined form unattested; both halves are real words,False,0,173,4,215,14,61677,seyen noch so verdienstlos — dennoch glük¬ || lich gemacht werden. Mich ehrlichen Teufel
@@ -838,7 +838,7 @@
 188,3,13387,13388,¬,mehr,Nach,mehrNach,split,high,joined form unattested; both halves are real words,False,0,22,271,85557928,878,156778084,und da er dies hat so thut er nichts mehr¬ || Nach gerade gebe ich die Hoffnung auf mehr
 188,3,13388,13389,¬,Men,ſchen,Menſchen,join,high,joined form occurs elsewhere in this corpus,False,155,,2,,4,,die Hoffnung auf mehr einen ehrlichen Men¬ || ſchen aufzufinden.
 188,3,13390,13391,¬,geht,Ehrfurchts,gehtEhrfurchts,split,high,joined form unattested; both halves are real words,False,0,0,116,66053566,5,5, in Trąbczyn alles glücklich und gut geht¬ || Ehrfurchts ersterbe als
-189,1,13403,13404,¬,Ober,schlesien,Oberschlesien,join,high,"joined form attested in DWDS (7,637 hits)",False,0,7637,52,,21,,"mir die Befehle, zur Reiße nach Ober¬ || schlesien zuzog, und die Angelegenhei¬"
+189,1,13403,13404,¬,Ober,schlesien,Oberschlesien,join,high,"joined form attested in DWDS (7,637 hits)",False,0,7637,52,,22,,"mir die Befehle, zur Reiße nach Ober¬ || schlesien zuzog, und die Angelegenhei¬"
 189,1,13404,13405,¬,Angelegenhei,ten,Angelegenheiten,join,high,joined form occurs elsewhere in this corpus,False,56,,0,,468,,"schlesien zuzog, und die Angelegenhei¬ || ten dieser Herrschafft in Gemein¬"
 189,1,13405,13406,¬,Gemein,schafft,Gemeinschafft,split,high,joined form unattested; both halves are real words,False,0,109,3,426150,3,13710425,ten dieser Herrschafft in Gemein¬ || schafft mit denen Herrn Inspector
 189,2,13412,13413,¬,Ge,schäffts,Geschäffts,split,high,joined form unattested; both halves are real words,False,0,6,22,215421,1,1190,"als rechtschaffene und einsichtsvolle Ge¬ || schäffts-Männer bekannt sind, bin"
@@ -848,11 +848,11 @@
 190,1,13450,13451,¬,Gewogen,heit,Gewogenheit,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,11,,"zusenden; dieselben mögten die Gewogen¬ || heit haben, und sie nach dero Ansicht aus¬"
 190,1,13451,13452,¬,aus,fertigen,ausfertigen,join,high,joined form occurs elsewhere in this corpus,False,7,,543,,3,,"heit haben, und sie nach dero Ansicht aus¬ || fertigen laſsem. Auch den Auszüg aus"
 190,1,13456,13457,¬,Specu,lations,Speculations,join,high,head is not a word on its own,False,0,37,0,0,1,,"immer reger aber um so unsinniger Specu¬ || lations - Geist, sein Leichtsinn und seine"
-190,1,13460,13461,¬,Fürsten,als,Fürstenals,split,high,joined form unattested; both halves are real words,False,0,0,237,391074,802,194706499,steth. Sowohl der Großmuth des Fürsten¬ || als auch der Euer Hochwohlgebohren bleibt
+190,1,13460,13461,¬,Fürsten,als,Fürstenals,split,high,joined form unattested; both halves are real words,False,0,0,235,391074,802,194706499,steth. Sowohl der Großmuth des Fürsten¬ || als auch der Euer Hochwohlgebohren bleibt
 190,2,13466,13467,¬,Handlungs,weise,Handlungsweise,join,high,joined form occurs elsewhere in this corpus,False,3,,1,,32,,"fordern dieselben, zu gleicher Handlungs¬ || weise hierdurch auf; und ich müßte dero"
-190,2,13469,13470,¬,für,sten,fürsten,join,high,joined form occurs elsewhere in this corpus,False,237,,610,,10,,"kennen, wenn Sie dem Wunsche des für¬ || sten in dieser Hinsicht nicht entsprochen"
-190,2,13479,13480,¬,Post,Tage,PostTage,split,high,joined form unattested; both halves are real words,False,0,0,101,3879679,121,709139,Mannes willen; die mit jedem Post¬ || Tage anlangen. Schlägt der Glenck¬
-190,2,13480,13481,¬,Glenck,die,Glenckdie,split,high,joined form unattested; both halves are real words,False,0,0,113,583,4570,0,Tage anlangen. Schlägt der Glenck¬ || die vielleicht nöthigen Bedingungen
+190,2,13469,13470,¬,für,sten,fürsten,join,high,joined form occurs elsewhere in this corpus,False,235,,610,,10,,"kennen, wenn Sie dem Wunsche des für¬ || sten in dieser Hinsicht nicht entsprochen"
+190,2,13479,13480,¬,Post,Tage,PostTage,split,high,joined form unattested; both halves are real words,False,0,0,100,3879679,121,709139,Mannes willen; die mit jedem Post¬ || Tage anlangen. Schlägt der Glenck¬
+190,2,13480,13481,¬,Glenck,die,Glenckdie,split,high,joined form unattested; both halves are real words,False,0,0,118,583,4570,0,Tage anlangen. Schlägt der Glenck¬ || die vielleicht nöthigen Bedingungen
 190,3,13487,13488,¬,Ver,setzen,Versetzen,join,high,"joined form attested in DWDS (13,570 hits)",False,0,13570,3,,3,,"Zahlungs-Ausflucht sezt, habe ich zum Ver¬ || setzen, von Habseeligkeiten und zum Kleide"
 190,3,13488,13489,¬,Kleider,Verkaufen,KleiderVerkaufen,split,high,joined form unattested; both halves are real words,False,0,0,0,1336109,16,5819183,"tzen, von Habseeligkeiten und zum Kleider¬ || Verkaufen, zum Borgen mit wenigen Thalern"
 190,3,13490,13491,¬,abgedank,tes,abgedanktes,join,high,"joined form attested in DWDS (2,694 hits)",False,0,2694,0,,3,,"eine Zuflucht nehmen müßen. Mein abgedank¬ || tes Gesinde, hat den Lärmen noch mehr vers"
@@ -863,7 +863,7 @@
 190,3,13503,13504,¬,niedri,gen,niedrigen,join,high,"joined form attested in DWDS (3,296,640 hits)",False,0,3296640,0,,60,,"gegen die Subtestation und einen niedri¬ || gen Verkauf gerettet, das ich aus Pflicht "
 191,2,13580,13581,¬,Bürger,und,Bürgerund,split,high,joined form unattested; both halves are real words,False,0,88,14,6552819,5259,1133103472,Kosten und nach diesen blieben die Bürger¬ || und Einsassen Ewr Durchlaucht noch 4000 Rt
 191,2,13595,13596,¬,Rech,nungen,Rechnungen,join,high,joined form occurs elsewhere in this corpus,False,11,,1,,1,,"le als incolvendo an - machten große Rech¬ || nungen wegen den Exorbitanten Lieferungen,"
-191,3,13610,13611,¬,zie,Rede,zieRede,split,high,joined form unattested; both halves are real words,False,0,0,0,4929,13,3316066,"b sich vor todt Brand an, als ich ihm zie¬ || Rede stellen wolte. Ich frey diese Massett"
+191,3,13610,13611,¬,zie,Rede,zieRede,split,high,joined form unattested; both halves are real words,False,0,0,0,4929,14,3316066,"b sich vor todt Brand an, als ich ihm zie¬ || Rede stellen wolte. Ich frey diese Massett"
 191,3,13614,13615,¬,Pro,daß,Prodaß,split,high,joined form unattested; both halves are real words,False,0,0,42,11507756,1896,17145440,em Pächtern und die Unterthanen einen Pro¬ || daß am Hals zu werfen.
 191,4,13640,13641,¬,Warthe,durch,Warthedurch,split,high,joined form unattested; both halves are real words,False,0,0,2,6666,519,77747868,liegt er mit seinem Sache über der Warthe¬ || durch diesen ersten Ton ward der Kerl deco
 191,5,13671,13672,¬,ver,worren,verworren,join,high,joined form occurs elsewhere in this corpus,False,4,,3,,1,," und vereint mit dem Pächter alles so ver¬ || worren, daß mich selbst grauelte in dies L"
@@ -882,7 +882,7 @@
 191,10,13837,13838,¬,Schwedenstrei,doch,Schwedenstreidoch,join,high,head is not a word on its own,False,0,0,0,0,216,,ß Ewr Durchlaucht um diesen Schwedenstrei¬ || doch noch einen Kostspieligen Prozeß bekom
 191,11,13852,13853,¬,die,Ewr,dieEwr,split,high,joined form unattested; both halves are real words,False,0,0,4570,0,1122,110,ie Einkünfte und die Summen Anbetrift die¬ || Ewr Durchlaucht aus den hiesigen Gütern se
 192,1,13888,13889,-,geän,gert,geängert,join,high,head is not a word on its own,False,0,8,0,89,2,, ich habe mich hier ganz zu schanden geän- || gert. Indes habe ich nun hier alles in Ord
-192,1,13893,13894,¬,auf,Glenck,aufGlenck,split,high,joined form unattested; both halves are real words,False,0,0,1039,334349961,113,583,epiren muß den hört alle herrlichkeit auf¬ || Glenck seyt hier hatt sich mit die Olesnic
+192,1,13893,13894,¬,auf,Glenck,aufGlenck,split,high,joined form unattested; both halves are real words,False,0,0,1039,334349961,118,583,epiren muß den hört alle herrlichkeit auf¬ || Glenck seyt hier hatt sich mit die Olesnic
 192,2,13921,13922,¬,un,ausgesezt,unausgesezt,join,high,joined form occurs elsewhere in this corpus,False,1,,5,,7,,mir sehr sauer. Also noch dies daß ich un¬ || ausgesezt bin. Ihr
 192,2,13933,13934,¬,dien,richtung,dienrichtung,split,high,joined form unattested; both halves are real words,False,0,6,3,5096363,2,6735602,ichende Untergutrichtiger Freund und dien¬ || richtung.
 193,1,13966,13967,-,Theater,Nach,TheaterNach,split,high,joined form unattested; both halves are real words,False,0,5,4,3963846,878,156778084,chkeit nach ändert sich das ganze Theater- || Nach Obrist Scharffenbergs Versicherung gä
@@ -902,7 +902,7 @@
 197,1,14178,14179,¬,ver,sprechen,versprechen,join,high,joined form occurs elsewhere in this corpus,False,9,,3,,32,,größer als bei uns und ich kan nichts ver¬ || sprechen - Wolte nur Gott der Handel käme 
 197,1,14182,14183,¬,Olla,bock,Ollabock,split,high,joined form unattested; both halves are real words,False,0,0,0,1690,1,25257, Es ist der Ober Amtmann Hegener aus Olla¬ || bock - Er soll auch alles in Zagorowo revi
 197,3,14209,14210,¬,wegzu,ſcheuchen,wegzuſcheuchen,join,high,head is not a word on its own,False,0,0,0,215,2,,"sorten gewesen, um auch von Breslau wegzu¬ || ſcheuchen. Ich erfahre es aber ſicher, und"
-197,3,14210,14211,-,Buben,Es,BubenEs,split,high,joined form unattested; both halves are real words,False,0,0,27,243734,1323,0,"e es aber ſicher, und dann wehe den Buben- || Es ist nur gut daß Koihrits mit Sack spric"
+197,3,14210,14211,-,Buben,Es,BubenEs,split,high,joined form unattested; both halves are real words,False,0,0,27,243734,1323,0,"e es aber ſicher, und dann wehe den Buben- || Es ist nur gut daß Köckritz mit Sack spric"
 198,1,14219,14220,¬,zurück,Die,zurückDie,split,high,joined form unattested; both halves are real words,False,0,90,185,13566331,4570,0, Durchlaucht bis höchstens Micheli zurück¬ || 2. Die Sequestration ist gänzlich aufgehob
 198,1,14227,14228,¬,Ver,mögen,Vermögen,join,high,joined form occurs elsewhere in this corpus,False,28,,3,,16,,"den, so muß Brzechsta, wann jener ihr Ver¬ || mögen nicht hinreicht, bezahlen - Unterdes"
 198,2,14242,14243,¬,Smid,sehr,Smidsehr,split,high,joined form unattested; both halves are real words,False,0,0,1,7139,422,50499648,n zurück kam geht mit diesen Pächter Smid¬ || sehr traurig einher - Die Resolution des K
@@ -923,7 +923,7 @@
 205,3,14627,14628,-,glän,zendeste,glänzendeste,join,high,"joined form attested in DWDS (700,962 hits)",False,0,700962,0,,1,,"nements eintreten werden, wo Sie die glän- || zendeste Vollen spielen und Ihre Feinde ge"
 206,1,14642,14643,-,Un,hänger,Unhänger,split,high,joined form unattested; both halves are real words,False,0,0,5,594768,2,75154,"iche Durchlaucht einziger Verehrer und Un- || hänger nichts verheben zu dürfen, und dahe"
 206,1,14648,14649,¬,Ruhe,Knobelsdorff,RuheKnobelsdorff,split,high,joined form unattested; both halves are real words,False,0,0,31,2773033,16,5006,"ugthuung werden – Nur jezt Geduld an Ruhe¬ || Knobelsdorff, Tauscht wie die Beilage zeig"
-206,1,14654,14655,¬,Eber,hard,Eberhard,join,high,joined form occurs elsewhere in this corpus,False,27,,0,,14,," muß geschrieben werden, der windige Eber¬ || hard hat mir noch keine Sylbe geschickt - "
+206,1,14654,14655,¬,Eber,hard,Eberhard,join,high,joined form occurs elsewhere in this corpus,False,28,,0,,14,," muß geschrieben werden, der windige Eber¬ || hard hat mir noch keine Sylbe geschickt - "
 206,2,14669,14670,¬,Knobelsdorffen,Plane,KnobelsdorffenPlane,join,high,head is not a word on its own,False,0,0,0,0,9,,len um alles zu ebenen und Knobelsdorffen¬ || Plane alles voreiten zu können
 206,2,14678,14679,¬,Unter,kommen,Unterkommen,join,high,"joined form attested in DWDS (3,181 hits)",False,0,3181,132,,123,,ander sezzen damit Knobelsdorff ein Unter¬ || kommen findet
 207,1,14708,14709,¬,ge,macht,gemacht,join,high,joined form occurs elsewhere in this corpus,False,119,,22,,82,,"hat uns auch schon die sichere Haftung ge¬ || macht, daß der günstigte Ausgang dieses Pr"
@@ -953,7 +953,7 @@
 214,2,15208,15209,-,admi,nistriret,administriret,join,high,head is not a word on its own,False,0,8,0,191,1,, schon für Ewr Durchl. vom 1ten July admi- || nistriret - diese branche wird höchst an B
 214,3,15237,15238,-,Prozeß,Übrigens,ProzeßÜbrigens,split,high,joined form unattested; both halves are real words,False,0,0,68,4293409,123,4240319,mt formire ihren S. einen Criminal Prozeß- || Übrigens habe ich habenis für deßen Ehrlic
 214,3,15246,15247,-,ge,rettet,gerettet,join,high,joined form occurs elsewhere in this corpus,False,29,,22,,3,,"n Tausch Handel eingehen damit ich mir ge- || rettet, und nicht abermahls wie in Berlin "
-215,1,15289,15290,¬,Hon,richs,Honrichs,join,high,joined form occurs elsewhere in this corpus,False,111,,0,,2,, Hawich und Cabanis hier gewesen. des Hon¬ || richs Sache ist ausgewiesen und er nicht a
+215,1,15289,15290,¬,Hon,richs,Honrichs,join,high,joined form occurs elsewhere in this corpus,False,112,,0,,2,, Hawich und Cabanis hier gewesen. des Hon¬ || richs Sache ist ausgewiesen und er nicht a
 215,1,15319,15320,¬,Admi,nistration,Administration,join,high,joined form occurs elsewhere in this corpus,False,16,,0,,1,," Sequestration oder jezt sogenannten Admi¬ || nistration um so mehr, als Neuerdingt die "
 215,2,15328,15329,¬,Ge,sinnungen,Gesinnungen,join,high,joined form occurs elsewhere in this corpus,False,18,,22,,1,,"möglich zu casuliren und bey den guten Ge¬ || sinnungen zu erhalten, als wesfals ich mei"
 215,2,15337,15338,¬,Vor,schuß,Vorschuß,join,high,joined form occurs elsewhere in this corpus,False,27,,295,,2,,et Kostbaren Advocatens der neben den Vor¬ || schuß von 2000 Rthl auch noch in Ungar und
@@ -977,13 +977,13 @@
 217,3,15686,15687,¬,Durchlaucht,die,Durchlauchtdie,split,high,joined form unattested; both halves are real words,False,0,0,1511,6227,4570,0,"eben, damit Fr. Hochfürstlich Durchlaucht¬ || die ich mich zu Gnaden zu empfehlen bitte"
 218,2,15753,15754,-,ab,solte,absolte,split,high,joined form unattested; both halves are real words,False,0,52,96,49097723,108,3929,. Mit Stöchte aber gebe ich mich nicht ab- || solte indes die Schulden Maße von Stocheln
 218,2,15762,15763,¬,be,halten,behalten,join,high,joined form occurs elsewhere in this corpus,False,25,,3,,63,,"rangiren und nach Geld in der Witwecke be¬ || halten, mit allen Rechte aber auch als Maj"
-218,2,15767,15768,¬,Nie,mand,Niemand,join,high,joined form occurs elsewhere in this corpus,False,22,,85,,3,,"achen. Nur dies bemerke ich, daß jezt Nie¬ || mand von diesen Plan ein Werk erfährt, auc"
+218,2,15767,15768,¬,Nie,mand,Niemand,join,high,joined form occurs elsewhere in this corpus,False,23,,85,,3,,"achen. Nur dies bemerke ich, daß jezt Nie¬ || mand von diesen Plan ein Werk erfährt, auc"
 218,2,15768,15769,¬,be,trieben,betrieben,join,high,joined form occurs elsewhere in this corpus,False,6,,3,,1,,"k erfährt, auch die Sache sehr schnell be¬ || trieben werden muß, weil Wartenleben schon"
 218,4,15800,15801,-,figura,Schwimmern,figuraSchwimmern,split,high,joined form unattested; both halves are real words,False,0,0,2,5188,2,273562,"ide, zeige Ihnen Bestandurchlaucht figura- || Schwimmern iſt wegen die Invaliden Interes"
 219,1,15827,15828,¬,befrie,diget,befriediget,join,high,joined form occurs elsewhere in this corpus,False,21,,0,,2,,eigel und Stössel dadurch gänzlich befrie¬ || diget werden könten. Sobald ich Ewr Durchl
 219,1,15843,15844,-,Gerech,tigkeit,Gerechtigkeit,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,"so schiedig mann und ließ mich die Gerech- || tigkeit widerfahren, die mir gebührt —"
 220,1,15859,15860,-,abge,schloßen,abgeschloßen,join,high,joined form occurs elsewhere in this corpus,False,15,,0,,3,,"nem Banquirotten Kaufmann aus Kulins abge- || schloßen, wo er für Schurguet Güter für 13"
-221,1,15932,15933,¬,Kerls,Einen,KerlsEinen,split,high,joined form unattested; both halves are real words,False,0,0,30,425955,436,0,unde die Erklärung der beiden Alten Kerls¬ || Einen gewißen Ober Amtman König habe ich d
+221,1,15932,15933,¬,Kerls,Einen,KerlsEinen,split,high,joined form unattested; both halves are real words,False,0,0,30,425955,437,0,unde die Erklärung der beiden Alten Kerls¬ || Einen gewißen Ober Amtman König habe ich d
 222,1,16008,16009,¬,beige,henden,beigehenden,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,hmen wollen Ewr Durchlaucht aus den beige¬ || henden Brief des Ob Amt Königs zu entnehme
 222,2,16033,16034,¬,ersterbe,Ewr,ersterbeEwr,split,high,joined form unattested; both halves are real words,False,0,0,136,10324,1122,110,e um die schleunigste Antwort um ersterbe¬ || Ewr Durchlaucht
 222,3,16041,16042,¬,läst,sich,lästsich,split,high,joined form unattested; both halves are real words,False,0,0,29,3363,907,288114513,"esiegelt und den Bothen übergebenden läst¬ || sich der Gr. Cesur Wartensleben, welcher D"
@@ -1067,7 +1067,7 @@
 227,4,16630,16631,¬,vor,kommen,vorkommen,join,high,joined form occurs elsewhere in this corpus,False,7,,295,,123,,"ąbczyner, wird endlich künftige Woche vor¬ || kommen, ich hoffe fest, daß dieſe Geſchich"
 228,1,16650,16651,¬,Sen,dung,Sendung,join,high,joined form occurs elsewhere in this corpus,False,1,,11,,3,,"hle ich nicht, über den Erfolg meiner Sen¬ || dung zu dem Herrn General Schimmelpfennig "
 228,1,16657,16658,¬,Steger,mann,Stegermann,split,high,joined form unattested; both halves are real words,False,0,15,0,4288,268,176875,ndlungen seines Fohnes mit dem H v Steger¬ || mann in Berlin.
-228,1,16659,16660,-,Ge,neral,General,join,high,joined form occurs elsewhere in this corpus,False,110,,22,,3,,"n anbetrift, ſo befindet ſich der Herr Ge- || neral zwar in dem Zustande der Besserung, "
+228,1,16659,16660,-,Ge,neral,General,join,high,joined form occurs elsewhere in this corpus,False,111,,22,,3,,"n anbetrift, ſo befindet ſich der Herr Ge- || neral zwar in dem Zustande der Besserung, "
 228,1,16661,16662,¬,ge,wöhnlich,gewöhnlich,join,high,"joined form attested in DWDS (845,018 hits)",False,0,845018,22,,1,,"och nicht so weit gediehen, daß er wie ge¬ || wöhnlich das Zimmer verlassen und besonder"
 228,2,16669,16670,¬,Gesand,ten,Gesandten,join,high,joined form occurs elsewhere in this corpus,False,5,,2,,468,,"h die Vermittelung des Fächsischen Gesand¬ || ten, an welchen der Rittmeister v Schimmel"
 229,1,16695,16696,-,herzig,Gott,herzigGott,split,high,joined form unattested; both halves are real words,False,0,0,6,40018,215,4813459,"riftlich, aber es ſey doch eben ſo herzig- || Gott laße Ewr Hochfürstliche Durchlaucht n"
@@ -1119,13 +1119,13 @@
 238,2,17324,17325,-,Kay,sers,Kaysers,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,," hier ein Schreiben an des Rusſischen Kay- || sers Majestaet unter offenem Siegel an, um"
 238,3,17351,17352,-,Vor,ſichtigſten,Vorſichtigſten,split,high,joined form unattested; both halves are real words,False,0,0,295,105411485,1,0,itte aber nur von dieser Eröfnung den Vor- || ſichtigſten Gebrauch zu machen. Loſen mich
 238,4,17376,17377,-,Vor,züglicher,Vorzüglicher,join,high,joined form occurs elsewhere in this corpus,False,1,,295,,1,,"d glücklicher Reiſe, Verbleibe ich in Vor- || züglicher Hochschätzung"
-239,2,17413,17414,¬,Post,Gen,PostGen,split,high,joined form unattested; both halves are real words,False,0,14,101,3879679,60,381373,h sende daher diesen Brief durch der Post¬ || Gen Gneizenau ist im Hauptquartier auch R.
+239,2,17413,17414,¬,Post,Gen,PostGen,split,high,joined form unattested; both halves are real words,False,0,14,100,3879679,60,381373,h sende daher diesen Brief durch der Post¬ || Gen Gneizenau ist im Hauptquartier auch R.
 239,2,17416,17417,¬,Min,Hard,MinHard,split,high,joined form unattested; both halves are real words,False,0,457,8,1219273,14,148500,rnire gehe ich nach Franckenstein pp. Min¬ || Hard: sucht in der Meinung aller Güte sehr
 239,2,17420,17421,¬,abge,geben,abgegeben,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,195,,"ereist war, an seinen bloßirten Sohn abge¬ || geben - Die tiefste Ehefurcht ist es in de"
 240,1,17434,17435,-,ermüdet,das,ermüdetdas,split,high,joined form unattested; both halves are real words,False,0,0,2,72043,1288,0,daß dies in ſeinen Eyfer ſchon ſo ermüdet- || das traurigste und für uns das Gefahr voll
 240,1,17451,17452,-,freut,H,freutH,split,high,joined form unattested; both halves are real words,False,0,0,6,13577681,300,2078414, der sich über alle diese Ereigniße freut- || H: Nun machen Sie es beßer -
 240,1,17455,17457,¬,Frieden,Ich,FriedenIch,split,review,crosses a page break - check by hand,True,0,0,26,2459973,4451,255244905,gewiß einen sehr vorteilhaften Frieden¬ || Ich habe hier das erſte wohl wieder ſagen 
-240,2,17465,17466,¬,besteht,General,bestehtGeneral,split,high,joined form unattested; both halves are real words,False,0,0,13,11944186,110,880071," gezogen wird, und aus 55000 Mann besteht¬ || General Lieut. Ortell liegt hier in Neusta"
+240,2,17465,17466,¬,besteht,General,bestehtGeneral,split,high,joined form unattested; both halves are real words,False,0,0,13,11944186,111,880071," gezogen wird, und aus 55000 Mann besteht¬ || General Lieut. Ortell liegt hier in Neusta"
 241,1,17483,17484,¬,Sen,sollen,Sensollen,split,high,joined form unattested; both halves are real words,False,0,0,11,69429,133,87999785,"r Verehrer vom Ewr Durchlaucht Höchst Sen¬ || sollen nur ganz ruhig sein, es solle und w"
 241,2,17503,17504,¬,Revue,so,Revueso,split,high,joined form unattested; both halves are real words,False,0,0,1,290332,1515,141594268,r 15000 Man Landwehr bey Oppendorff Revue¬ || so morgen und übermorgen übern ein gleichm
 242,1,17514,17515,¬,in,Wien,inWien,split,high,joined form unattested; both halves are real words,False,0,151,1855,0,86,3340749,3 Tage und 2 Nächte zugebracht bin ich in¬ || Wien angelangt - die exorbitanteste Theuer
@@ -1162,7 +1162,7 @@
 250,1,18042,18043,¬,Hoch,achtung,Hochachtung,join,high,joined form occurs elsewhere in this corpus,False,42,,21,,6,,Versicherungen meiner vollkommensten Hoch¬ || achtung
 254,5,18224,18225,¬,Lin,der,Linder,join,high,"joined form attested in DWDS (36,877 hits)",False,0,36877,2,,3841,," ich schon erborgt, dort darben meine Lin¬ || der — Wie soll das enden, und wie soch ich"
 254,6,18242,18243,-,ver,sehen,versehen,join,high,joined form occurs elsewhere in this corpus,False,9,,3,,118,,"rd gehörig verſiegelt mit der Adresse ver- || sehen, und den ein Umschlag gemacht und di"
-254,6,18246,18247,¬,Prin,Post,PrinPost,split,high,joined form unattested; both halves are real words,False,0,0,0,1052,101,3879679,mahl schicken. Den von hier geht die Prin¬ || Post wöchentl. 2 mahl nach Breslau und köm
+254,6,18246,18247,¬,Prin,Post,PrinPost,split,high,joined form unattested; both halves are real words,False,0,0,0,1052,100,3879679,mahl schicken. Den von hier geht die Prin¬ || Post wöchentl. 2 mahl nach Breslau und köm
 255,1,18272,18273,¬,ge,holfen,geholfen,join,high,joined form occurs elsewhere in this corpus,False,6,,22,,1,,"gut – der Fürst H will Ewr Durchlaucht ge¬ || holfen wißen, da erhalte ihm ja Gott - die"
 255,1,18283,18284,¬,ge,legt,gelegt,join,high,joined form occurs elsewhere in this corpus,False,23,,22,,10,, sey bis Berlin auf bewahrt und zurück ge¬ || legt - Auch gut den dorten giebts der Helf
 255,1,18289,18290,-,selbst,So,selbstSo,split,high,joined form unattested; both halves are real words,False,0,11,302,30727056,1515,141594268,. Alles andere findet sich den von selbst- || So eben könte B- und bringt mir die Nachri
@@ -1219,7 +1219,7 @@
 272,3,19311,19312,¬,bißferi,gen,bißferigen,join,high,head is not a word on its own,False,0,0,0,0,60,," H: v. Braun ist die Murzel alles bißferi¬ || gen Übels, weil er dem Cosmar in nichts ge"
 272,3,19312,19313,¬,ge,wachsen,gewachsen,join,high,"joined form attested in DWDS (4,854,247 hits)",False,0,4854247,22,,1,,"en Übels, weil er dem Cosmar in nichts ge¬ || wachsen war, und sich in den Wirkungskreiß"
 272,3,19321,19322,¬,hoffen,den,hoffenden,join,high,"joined form attested in DWDS (5,345 hits)",False,0,5345,21,,2760,,öchstdieselben von ihrem wahren zu hoffen¬ || den Ertrag für das nächste Etatsfähr
-272,3,19328,19329,¬,kön,nen,können,join,high,joined form occurs elsewhere in this corpus,False,315,,1,,9,,"Verwendungen bestritten werden kön¬ || nen, ohne die wirklichen Revenuen zu"
+272,3,19328,19329,¬,kön,nen,können,join,high,joined form occurs elsewhere in this corpus,False,314,,1,,9,,"Verwendungen bestritten werden kön¬ || nen, ohne die wirklichen Revenuen zu"
 272,3,19331,19333,¬,be,obachtet,beobachtet,join,review,crosses a page break - check by hand,True,3,3114346,3,105863,1,87,"vieles von den Formen ab, die man be¬ || obachtet."
 272,4,19337,19338,¬,zukom,men,zukommen,join,high,joined form occurs elsewhere in this corpus,False,5,,1,,2,,"werden, sondern denjenigen zukom¬ || men, welchen sie gehören. Ist alles"
 272,4,19340,19341,¬,eigent,lich,eigentlich,join,high,joined form occurs elsewhere in this corpus,False,18,,0,,14,,"bewiesen zu haben, wer es eigent¬ || lich redlich mit Höchst Ihnen und der"
@@ -1253,14 +1253,14 @@
 282,1,19968,19969,-,hiewie,alles,hiewiealles,join,high,head is not a word on its own,False,0,0,0,5,729,,betteln - Kömt er aber her ſo soll hiewie- || alles für ihm ausgemacht und er außer jede
 282,1,19985,19986,-,Brod,für,Brodfür,split,high,joined form unattested; both halves are real words,False,0,0,5,19166,610,378371132,ahl ehender die Sonne als das morgen Brod- || für sich und ihre Kinder im Hause gehabt h
 282,2,20003,20004,¬,Vater,Nach,VaterNach,split,high,joined form unattested; both halves are real words,False,0,0,24,5922959,878,156778084,ehnte – O das ist ein Weiser Landes Vater¬ || Nach gestern ist ein Schreiben an f August
-282,2,20014,20015,-,König,ſtalt,Königſtalt,split,high,joined form unattested; both halves are real words,False,0,0,307,2723496,3,925,"leon immer mehr nach Paris zu - der König- || ſtalt bey Mevin eine Arme muß, die geschah"
+282,2,20014,20015,-,König,ſtalt,Königſtalt,split,high,joined form unattested; both halves are real words,False,0,0,306,2723496,3,925,"leon immer mehr nach Paris zu - der König- || ſtalt bey Mevin eine Arme muß, die geschah"
 282,2,20021,20022,-,Stockhobbers,Gott,StockhobbersGott,join,high,head is not a word on its own,False,0,0,0,0,215,,ich hier dabey beßer als die Stockhobbers- || Gott wäre es möglich nur den Eberhard her 
 284,1,20062,20063,¬,unter,Zeichnen,unterZeichnen,join,high,joined form occurs elsewhere in this corpus,False,1,,132,,1,,"ren dahin vermocht die Sache mit zu unter¬ || Zeichnen, daß die Kohlen die Güter die ihn"
-284,3,20132,20133,¬,König,Hier,KönigHier,split,high,joined form unattested; both halves are real words,False,0,0,307,2723496,800,52795932,"n Paris und verjägt den angebeteten König¬ || Hier horchen die Herrn, ob mann sie nicht "
+284,3,20132,20133,¬,König,Hier,KönigHier,split,high,joined form unattested; both halves are real words,False,0,0,306,2723496,800,52795932,"n Paris und verjägt den angebeteten König¬ || Hier horchen die Herrn, ob mann sie nicht "
 285,1,20185,20186,¬,verne,theilt,vernetheilt,split,high,joined form unattested; both halves are real words,False,0,0,0,44059,2,169, Instanz verlohr der Fürst und ward verne¬ || theilt den Pfandschilling zu bezahlen. Bro
 286,3,20336,20337,-,auf,Rthl,aufRthl,split,high,joined form unattested; both halves are real words,False,0,0,1039,334349961,1519,152,r Güter betrifft so würden auch diese auf- || 316000 Rthl
 286,4,20369,20370,¬,Angelegen,heiten,Angelegenheiten,join,high,joined form occurs elsewhere in this corpus,False,56,,2,,2,,ich in die innere französischen Angelegen¬ || heiten nicht mischen wollen - Also wird Na
-287,2,20429,20430,¬,Schreck,aber,Schreckaber,split,high,joined form unattested; both halves are real words,False,0,0,3,143872,753,125399229,nicht verfehlt - des beiden Hahns Schreck¬ || aber darf ich nach dem Urtheil beiderer Fr
+287,2,20429,20430,¬,Schreiben,aber,Schreibenaber,split,high,joined form unattested; both halves are real words,False,0,0,325,2335726,753,125399229,cht verfehlt - des beiden Hahns Schreiben¬ || aber darf ich nach dem Urtheil beiderer Fr
 287,3,20458,20459,¬,schreibt,Continuez,schreibtContinuez,split,high,joined form unattested; both halves are real words,False,0,0,41,16164217,1,8,wo diese an den Eugen schreibt¬ || Continuez d’amusez notre imbécille.
 287,3,20462,20463,¬,einträft,welche,einträftwelche,split,high,joined form unattested; both halves are real words,False,0,0,0,648385,187,19413583,uer hier her der vorgestern hier einträft¬ || welche Sensation diese Nachricht gewacht h
 287,3,20463,20464,¬,ver,schiedene,verschiedene,join,high,joined form occurs elsewhere in this corpus,False,6,,3,,1,,"wacht hat ist noch nicht bekannt. Die ver¬ || schiedene Amusemente dauran fort, ohnerach"
@@ -1279,7 +1279,7 @@
 291,1,20737,20738,¬,ge,wonnen,gewonnen,join,high,joined form occurs elsewhere in this corpus,False,40,,22,,4,,"mehr entgegen, und hierdurch ist alles ge¬ || wonnen, es sey denn daß Gott dem guten Für"
 291,1,20741,20742,¬,Angelegen,heiten,Angelegenheiten,join,high,joined form occurs elsewhere in this corpus,False,56,,2,,2,,che wegen der Pohlnischen Güter Angelegen¬ || heiten ist nun durch Vermittlung des Minis
 291,1,20744,20745,¬,erdenk,liche,erdenkliche,join,high,"joined form attested in DWDS (134,169 hits)",False,0,134169,0,,4,,"Minister Stein hat sich schon alle erdenk¬ || liche Mühe gegeben, auch Worowzow u Nessel"
-291,1,20752,20753,¬,an,gestellt,angestellt,join,high,joined form occurs elsewhere in this corpus,False,16,,992,,13,,"gleich Orest trohet u ein Oberaufseher an¬ || gestellt werden soll, die Sache liegt nur "
+291,1,20752,20753,¬,an,gestellt,angestellt,join,high,joined form occurs elsewhere in this corpus,False,16,,992,,13,,"leich Arrest trohet u ein Oberaufseher an¬ || gestellt werden soll, die Sache liegt nur "
 292,2,20822,20823,¬,der,einst,dereinst,join,high,joined form occurs elsewhere in this corpus,False,4,,3841,,3,, entstünde die Frage war diese Summen der¬ || einst ersezen solle.
 292,2,20840,20841,¬,alte,fürst,altefürst,split,high,joined form unattested; both halves are real words,False,0,0,54,28133233,628,391074,"zt mit der Ausflucht Retten, daß der alte¬ || fürst dem Landgrafen von Hessen eine Summe"
 292,3,20857,20858,¬,gemein,schaftliche,gemeinschaftliche,join,high,"joined form attested in DWDS (351,293 hits)",False,0,351293,3,,2,,ht zurück nehmen - mit Ein durchl. gemein¬ || schaftliche Sache machen u mir dann erst i
@@ -1305,7 +1305,7 @@
 299,1,21248,21249,¬,Eigen,thum,Eigenthum,join,high,joined form occurs elsewhere in this corpus,False,12,,4,,2,,"t hat, sondern daß es reines privat Eigen¬ || thum Ewr Durchlaucht ist."
 299,2,21271,21272,-,geholfen,Ewer,geholfenEwer,split,high,joined form unattested; both halves are real words,False,0,0,6,12186663,112,5040,den wäre allen geholfen- || Ewer Durchlaucht hätten wie vor geſagt zu 
 299,2,21289,21290,¬,be,arbeitet,bearbeitet,join,high,"joined form attested in DWDS (1,479,072 hits)",False,0,1479072,3,,6,,"ehr gut ausgehen. Es wird diplomatisch be¬ || arbeitet, und der H. Minister v Humboldt b"
-299,2,21297,21298,-,General,Vollmacht,GeneralVollmacht,join,high,"joined form attested in DWDS (8,569 hits)",False,0,8569,110,,89,, ich nichts — Er will allein eine General- || Vollmacht haben — Geruhen Ewr Durchlaucht 
+299,2,21297,21298,-,General,Vollmacht,GeneralVollmacht,join,high,"joined form attested in DWDS (8,569 hits)",False,0,8569,111,,89,, ich nichts — Er will allein eine General- || Vollmacht haben — Geruhen Ewr Durchlaucht 
 299,3,21303,21304,-,Triebenfeld,feld,Triebenfeldfeld,split,high,joined form unattested; both halves are real words,False,0,0,332,0,8,3092191,und mit dem Geheimen Rath von Triebenfeld- || feld vor der Hand die Forst Devastationen 
 299,3,21307,21308,¬,Voll,macht,Vollmacht,join,high,joined form occurs elsewhere in this corpus,False,89,,26,,82,," könte. Er will wann er eine General Voll¬ || macht, und 500 Rthl nebst freier defraheru"
 300,1,21339,21340,¬,ge,ten,geten,split,high,joined form unattested; both halves are real words,False,0,442,22,215421,468,295388,ach Posen zurück - Er ward nach Berlin ge¬ || [...]ten um verabschiedet oder wenigstens 
@@ -1314,4 +1314,4 @@
 300,2,21368,21369,¬,aufopfar,würden,aufopfarwürden,join,high,head is not a word on its own,False,0,0,0,0,113,,ann zu diensten stehen und alles aufopfar¬ || würden um die Constitution aufrecht zu erh
 301,1,21394,21395,-,Zufriedenheit,Was,ZufriedenheitWas,split,high,joined form unattested; both halves are real words,False,0,11,11,509901,607,0,dheit Glück Mühn und wahren Zufriedenheit- || Was hiernächst Ein Durchlaucht hiesige Ang
 302,1,21442,21443,-,einge,tragenen,eingetragenen,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,"ung der mehrern und über 72000 Rthl einge- || tragenen Summen, wißfalls auch ſchon ein P"
-302,1,21444,21445,-,ge,als,geals,split,high,joined form unattested; both halves are real words,False,0,13,22,215421,802,194706499,"lt, daß der Betrügl: Honrichs der ſich ge- || als Sequester anſtellen lassen, daſtort ab"
+302,1,21444,21445,-,ge,als,geals,split,high,joined form unattested; both halves are real words,False,0,13,22,215421,802,194706499,"lt, daß der Betrügl: Honrichs der ſich ge- || als Sequester anſtellen lassen, sofort abg"
