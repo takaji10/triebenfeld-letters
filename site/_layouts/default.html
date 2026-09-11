@@ -33,9 +33,9 @@
     <a data-i18n="nav_story" data-href-en="{{ '/the-story/' | relative_url }}"
        data-href-de="{{ '/de/die-geschichte/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/die-geschichte/' | relative_url }}{% else %}{{ '/the-story/' | relative_url }}{% endif %}">{{ t.nav.story }}</a>
-    <a data-i18n="nav_browse" data-href-en="{{ '/letters/' | relative_url }}"
-       data-href-de="{{ '/de/briefe/' | relative_url }}"
-       href="{% if lang == 'de' %}{{ '/de/briefe/' | relative_url }}{% else %}{{ '/letters/' | relative_url }}{% endif %}">{{ t.nav.browse }}</a>
+    <a data-i18n="nav_browse" data-href-en="{{ '/documents/' | relative_url }}"
+       data-href-de="{{ '/de/dokumente/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/dokumente/' | relative_url }}{% else %}{{ '/documents/' | relative_url }}{% endif %}">{{ t.nav.browse }}</a>
     <a data-i18n="nav_timeline" data-href-en="{{ '/timeline/' | relative_url }}"
        data-href-de="{{ '/de/zeitleiste/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/zeitleiste/' | relative_url }}{% else %}{{ '/timeline/' | relative_url }}{% endif %}">{{ t.nav.timeline }}</a>

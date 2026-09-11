@@ -32,7 +32,7 @@ en:
   foot_link: About the edition
   foot_tail: for editorial method and known limitations.
 
-  browse_title: Browse the letters
+  browse_title: Browse the documents
   browse_lede: >-
     All %d documents. Search the full German text, or narrow by year, person,
     place and condition. Everything filters instantly.
@@ -57,7 +57,7 @@ en:
   f_dup: Duplicates
   f_reset: Reset filters
   f_empty: Nothing matches those filters.
-  f_loading: Loading the letters…
+  f_loading: Loading the documents…
   f_load_error: Could not load the index
   f_showing_all: Showing all
   f_showing: Showing
@@ -155,7 +155,7 @@ en:
   card_timeline_p: >-
     The correspondence set against the events that shaped it, from Jena to the Congress of Vienna.
   card_people_p: >-
-    Who appears in the letters, how firmly each is identified, and where to find them.
+    Who appears in these documents, how firmly each is identified, and where to find them.
   card_about: About this edition
   card_about_p: >-
     How the text was established, what the editorial marks mean, and what remains uncertain.
@@ -175,7 +175,7 @@ en:
     The letters end in personal ruin on both sides. A liquidation register drawn up at the
     close lists debts of
   home_p3_sum: 1,414,377 Reichsthaler
-  people_h1: People in the letters
+  people_h1: People in the documents
   people_lede: >-
     Everyone named often enough to trace through the correspondence. Occurrence counts come from
     the text itself; identifications and their evidence are set out in full in the project's
@@ -255,7 +255,7 @@ de:
   foot_link: Über die Edition
   foot_tail: für die Editionsgrundsätze und die bekannten Grenzen.
 
-  browse_title: Briefe durchsuchen
+  browse_title: Dokumente durchsuchen
   browse_lede: >-
     Alle %d Dokumente. Durchsuchen Sie den vollständigen deutschen Text oder
     grenzen Sie nach Jahr, Person, Ort und Zustand ein. Alle Filter wirken sofort.
@@ -280,7 +280,7 @@ de:
   f_dup: Doppelstücke
   f_reset: Filter zurücksetzen
   f_empty: Nichts entspricht diesen Filtern.
-  f_loading: Briefe werden geladen …
+  f_loading: Dokumente werden geladen …
   f_load_error: Das Verzeichnis konnte nicht geladen werden
   f_showing_all: Alle
   f_showing: Angezeigt
@@ -379,7 +379,7 @@ de:
     Die Korrespondenz vor dem Hintergrund der Ereignisse, die sie prägten, von Jena bis zum Wiener
     Kongress.
   card_people_p: >-
-    Wer in den Briefen vorkommt, wie sicher die Identifizierung jeweils ist und wo die
+    Wer in den Dokumenten vorkommt, wie sicher die Identifizierung jeweils ist und wo die
     Belege stehen.
   card_about: Über diese Edition
   card_about_p: >-
@@ -401,7 +401,7 @@ de:
     Die Briefe enden im persönlichen Ruin auf beiden Seiten. Ein am Schluss aufgestelltes
     Liquidationsregister verzeichnet Schulden von
   home_p3_sum: 1.414.377 Reichsthalern
-  people_h1: Personen in den Briefen
+  people_h1: Personen in den Dokumenten
   people_lede: >-
     Alle, die oft genug genannt werden, um sie durch die Korrespondenz zu verfolgen. Die
     Häufigkeiten stammen aus dem Text selbst; die Identifizierungen und ihre Belege sind

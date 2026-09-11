@@ -402,34 +402,49 @@ def main():
 
     print(f'wrote {len(recs)} pages to site/_letters/')
 
-    # Documents published before the URLs carried their archival unit keep
-    # working: a unit flagged legacy_flat_urls gets a stub at the old address
-    # that forwards to the new one. Only the first unit needs this, and only
-    # while those links are still in circulation.
+    # Every address a document has ever had keeps working.
+    #
+    # There are two legacy shapes now, not one. `/letters/<n>/` predates the
+    # archival namespace and only the first unit ever had those. `/letters/
+    # <unit>/<n>/` is what every document was published at until the move to
+    # /documents/, so every unit needs that one.
+    #
+    # The stub FILENAMES carry the shape. They were keyed on the pad alone,
+    # which is fine for one shape and silently destroys half the redirects the
+    # moment there are two - same filename, second write wins, and the build
+    # reports a healthy count either way.
     redir_dir = os.path.join(SITE, 'redirects')
     for fn in os.listdir(redir_dir) if os.path.isdir(redir_dir) else []:
         os.remove(os.path.join(redir_dir, fn))
-    stubs = [r for r in recs
-             if units_by_slug.get(r['unit'], {}).get('legacy_flat_urls')
-             and r['permalink'] != '/letters/' + r['letter_id'] + '/']
+
+    def legacy_urls(r):
+        """Addresses this document used to live at, newest first."""
+        out = [('ns', '/letters/' + r['unit'] + '/' + r['letter_id'] + '/')]
+        if units_by_slug.get(r['unit'], {}).get('legacy_flat_urls'):
+            out.append(('flat', '/letters/' + r['letter_id'] + '/'))
+        return [(tag, u) for tag, u in out if u != r['permalink']]
+
+    stubs = [(r, tag, old) for r in recs for tag, old in legacy_urls(r)]
     if stubs:
         os.makedirs(redir_dir, exist_ok=True)
-        for r in stubs:
-            old_url = '/letters/' + r['letter_id'] + '/'
-            with open(os.path.join(redir_dir, r['pad'] + '.html'), 'w',
+        for r, tag, old_url in stubs:
+            name = r['pad'] + '-' + tag + '.html'
+            with open(os.path.join(redir_dir, name), 'w',
                       encoding='utf-8', newline='\n') as f:
                 f.write('---\n')
                 f.write('permalink: ' + yaml_str(old_url) + '\n')
                 f.write('sitemap: false\n')
                 f.write('---\n')
                 f.write('<link rel="canonical" href="{{ ' + repr(r['permalink'])
-                        + " | relative_url }}\">\n")
+                        + ' | relative_url }}">\n')
                 f.write('<meta http-equiv="refresh" content="0; url={{ '
                         + repr(r['permalink']) + ' | relative_url }}">\n')
                 f.write('<p>This document has moved to '
                         '<a href="{{ ' + repr(r['permalink']) + ' | relative_url }}">'
                         + r['permalink'] + '</a>.</p>\n')
-    print(f'wrote {len(stubs)} redirect stubs for pre-namespace URLs')
+    n_ns = sum(1 for _, t, _ in stubs if t == 'ns')
+    print(f'wrote {len(stubs)} redirect stubs '
+          f'({n_ns} namespaced, {len(stubs) - n_ns} pre-namespace)')
 
     # ---------- data files ----------
     # One row per archival unit, so the reader can see where a document came

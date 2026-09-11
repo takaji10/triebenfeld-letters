@@ -123,7 +123,7 @@ the slug carries the namespace:
 unit       oe1bu9454
 letter_id  48
 uid        oe1bu9454-48
-permalink  /letters/oe1bu9454/48/
+permalink  /documents/oe1bu9454/48/
 ```
 
 Documents published before the namespace existed keep working: `legacy_flat_urls: true`

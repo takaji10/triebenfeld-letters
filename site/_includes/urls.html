@@ -1,0 +1,30 @@
+{%- comment -%}
+The site's own URLs, in one place.
+
+This block was copied into six includes, which meant that renaming a section
+meant finding all six - and that the seventh include written next year would
+quietly keep the old address. `lang` and `t` are set here too, because every
+page that needs the URLs needs those as well and splitting them just moves the
+duplication.
+
+Include it as {% include urls.html %} at the top of a page include.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: 'en' -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- if lang == 'de' -%}
+  {%- assign u_browse = '/de/dokumente/' -%}
+  {%- assign u_time   = '/de/zeitleiste/' -%}
+  {%- assign u_people = '/de/personen/' -%}
+  {%- assign u_places = '/de/orte/' -%}
+  {%- assign u_sources = '/de/quellen/' -%}
+  {%- assign u_story  = '/de/die-geschichte/' -%}
+  {%- assign u_about  = '/de/ueber-diese-edition/' -%}
+{%- else -%}
+  {%- assign u_browse = '/documents/' -%}
+  {%- assign u_time   = '/timeline/' -%}
+  {%- assign u_people = '/people/' -%}
+  {%- assign u_places = '/places/' -%}
+  {%- assign u_sources = '/sources/' -%}
+  {%- assign u_story  = '/the-story/' -%}
+  {%- assign u_about  = '/reading-this-edition/' -%}
+{%- endif -%}

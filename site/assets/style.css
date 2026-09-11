@@ -381,11 +381,11 @@ img.scan {
 /* In-text references to a letter, in the narrative page. Deliberately quieter
    than an ordinary link: the prose should read as prose, with the citation
    available rather than insistent. */
-.prose a[href*="/letters/"] {
+.prose a[href*="/documents/"] {
   text-decoration-color: var(--rule);
   text-underline-offset: .18em;
 }
-.prose a[href*="/letters/"]:hover { text-decoration-color: currentColor; }
+.prose a[href*="/documents/"]:hover { text-decoration-color: currentColor; }
 .prose blockquote {
   margin: 1.2rem 0; padding: .1rem 0 .1rem 1.1rem;
   border-left: 2px solid var(--rule); color: var(--ink-soft);

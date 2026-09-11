@@ -130,7 +130,7 @@
         : '<p class="r-snip">' + snippet(it, f.q) + '</p>';
 
       return '<li class="result">' +
-        '<a class="r-head" href="' + window.LETTER_BASE + encodeURIComponent(it.unit) + '/' + encodeURIComponent(it.id) + '/">' +
+        '<a class="r-head" href="' + esc(window.SITE_BASE + it.url) + '">' +
           '<span class="r-id">' + esc(it.id) + '</span>' +
           '<span class="r-date">' + esc(it.label) + '</span>' +
           (it.place ? '<span class="r-place">' + esc(it.place) + '</span>' : '') +

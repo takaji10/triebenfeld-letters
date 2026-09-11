@@ -1,12 +1,4 @@
-{% assign lang = page.lang | default: 'en' %}
-{% assign t = site.data.i18n[lang] %}
-{% if lang == 'de' %}
-  {% assign u_browse = '/de/briefe/' %}{% assign u_time = '/de/zeitleiste/' %}
-  {% assign u_people = '/de/personen/' %}{% assign u_places = '/de/orte/' %}
-{% else %}
-  {% assign u_browse = '/letters/' %}{% assign u_time = '/timeline/' %}
-  {% assign u_people = '/people/' %}{% assign u_places = '/places/' %}
-{% endif %}
+{% include urls.html %}
 <div class="prose">
   <h1>{{ t.people_h1 }}</h1>
   <p class="standfirst">{{ t.people_lede }} <a href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>.</p>

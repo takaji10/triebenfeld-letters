@@ -1,5 +1,5 @@
 ﻿unit,uid,pad,permalink,letter_id,seq_archival,parent_letter,doc_type,date_iso,date_precision,date_source,date_display,date_inferred_from,year,month,day,place,sender,recipient,line_start,line_end,uncertainty_count,has_damage,duplicate_of,is_missing,n_lines,n_pages,era,text,text_reading
-oe1bu14526,oe1bu14526-1,oe1bu14526-001,/letters/oe1bu14526/1/,1,1,,note,,unknown,none,,letter missing/skipped in the archive,,,,,,,23,39,0,0,,0,15,1,hohenlohe,"Eine inständige Bitte erlaube ich mir mit den anliegenden
+oe1bu14526,oe1bu14526-1,oe1bu14526-001,/documents/oe1bu14526/1/,1,1,,note,,unknown,none,,letter missing/skipped in the archive,,,,,,,23,39,0,0,,0,15,1,hohenlohe,"Eine inständige Bitte erlaube ich mir mit den anliegenden
 Acten bey derselben Behändigung an den H. Criminal in
 Grimm, daß Sie selbst mit ihm über folgenden Umstand
 sprechen möchten.
@@ -20,7 +20,7 @@ Es werden diesen Wittowes Acten schon lange in der Trąbczyner Registratur gesuc
 daß sie liegen würden.
 
 von meinem Logis zu Breſslau nach Wilhelmsruh unter den Pappieren meiner Frau gefunden worden, weil diese Acten in einer Zeit wo ich von Breschlau abwesend gewesen bin von meiner Frau in Empfang genommen, und zur sichern Verwahrung unter ihre Sachen gelegt worden sind, wo die Pappiere nie gelesen werden, und somit mir nachher zuzustellen vergeßen worden sind"
-oe1bu14526,oe1bu14526-2,oe1bu14526-002,/letters/oe1bu14526/2/,2,2,,contract,1803-04-21,day,dateline,1803-04-21,read from the document's own dateline,1803,4,21,Kalisch,,,40,341,1,0,,0,291,10,hohenlohe,"E. W. v. Rösch
+oe1bu14526,oe1bu14526-2,oe1bu14526-002,/documents/oe1bu14526/2/,2,2,,contract,1803-04-21,day,dateline,1803-04-21,read from the document's own dateline,1803,4,21,Kalisch,,,40,341,1,0,,0,291,10,hohenlohe,"E. W. v. Rösch
 zwischen dem Special-Bevollmächtigten
 deiner hochfürstlichen Durchlaucht des re¬
 girenden Herrn Fürsten zu Hohenlo¬
@@ -373,7 +373,7 @@ Valuta von des Herrn Friedrich Ludewig regierenden Fürsten zu Hohenlohe-Ingelfi
 [L. S.]
 
 Büchler"
-oe1bu14526,oe1bu14526-3,oe1bu14526-003,/letters/oe1bu14526/3/,3,3,,confirmation,1799-05-06,day,dateline,1799-05-06,read from the document's own dateline,1799,5,6,Betsche,,,342,601,3,0,,0,248,11,hohenlohe,"Das bei den Acta befindliche Exemplar das
+oe1bu14526,oe1bu14526-3,oe1bu14526-003,/documents/oe1bu14526/3/,3,3,,confirmation,1799-05-06,day,dateline,1799-05-06,read from the document's own dateline,1799,5,6,Betsche,,,342,601,3,0,,0,248,11,hohenlohe,"Das bei den Acta befindliche Exemplar das
 Kauf Contracte ist auf einen sel. 8 rt. St. geschrieben
 [S. Melich?]
 Wir das Fürstlich Hohenlohe Ingelfingensche Gerichts
@@ -725,7 +725,7 @@ Jankowski und Kreis Steuer
 Einnehmer Gneust
 
 Vorstehenden Contract bestättige ich, jedoch allen meinen Rechten unbeschadet, und besonders mit dem Vorbehalte meine Gerechtsame nach den alten Grund Büchern noch näher prüfen zu lassen. Friedrich Ludwig Fürst zu Hohenlohe"
-oe1bu14526,oe1bu14526-4,oe1bu14526-004,/letters/oe1bu14526/4/,4,4,,contract,,unknown,none,,letter missing/skipped in the archive,,,,,,,602,874,1,0,,0,264,8,hohenlohe,"Zwischen dem Durchlauchtigsten Fürsten
+oe1bu14526,oe1bu14526-4,oe1bu14526-004,/documents/oe1bu14526/4/,4,4,,contract,,unknown,none,,letter missing/skipped in the archive,,,,,,,602,874,1,0,,0,264,8,hohenlohe,"Zwischen dem Durchlauchtigsten Fürsten
 und Herrn, Herrn Friedrich Ludewig, Re¬
 gierenden Fürsten zu Hohenlohe Ingelfingen
 Königl. General der Infanterie und Gouverneur zu
@@ -1113,7 +1113,7 @@ Universitäts Syndikus, auch
 Assessor der Juristen Fakultät
 
 zu Frankfurt pp."
-oe1bu14526,oe1bu14526-5,oe1bu14526-005,/letters/oe1bu14526/5/,5,5,,contract,1804-08-30,day,dateline,1804-08-30,read from the document's own dateline,1804,8,30,Breslau,,,875,1113,0,0,,0,230,8,hohenlohe,"Kund und zu wißen daß zwischen Sr. Durchlauch
+oe1bu14526,oe1bu14526-5,oe1bu14526-005,/documents/oe1bu14526/5/,5,5,,contract,1804-08-30,day,dateline,1804-08-30,read from the document's own dateline,1804,8,30,Breslau,,,875,1113,0,0,,0,230,8,hohenlohe,"Kund und zu wißen daß zwischen Sr. Durchlauch
 dem regierenden Herrn Fürsten zu Hohenlohe Ingelfin
 gen Gouverneur zu Breslau p. einerseits und dem Bau
 Banco Rendant Herrn Leixner zu Frankfurth an der
@@ -1417,7 +1417,7 @@ f., den letzten Rest der 12860. Rthl. 10. Ggl. 3 1/5 Pf. gehen Herr Käufer den 
 §. 13. Des Herr Verkäufers Durchlaucht so wie Herr Kaufer entſagen allen und jeden dieſem Vertrage entgegenstehenden rechtlichen Einwendungen und Ausflüchten ins besondere dem Einwände der Verletzung unter oder über der Hälfte, daß keine allgemeine Verzicht gelte wenn keine besondere vorhergegangen und daß dieser Vertrag anders als er verabredet niedergeschrieben worden.
 
 Urkundlich ist vorstehendes Verkauf- und Kauf-Instrument von Sr. Hochfürstl. Durchlaucht und dem Herrn Käufer Höchst und eigenhändig vollzogen worden. So geschehen Breslau den 30ten Aug. 1804. Friedrich Ludwig Fürst zu Hohenlohe. selbst gelesen und genehmiget."
-oe1bu14526,oe1bu14526-6,oe1bu14526-006,/letters/oe1bu14526/6/,6,6,,contract,1806-07-18,day,dateline,1806-07-18,read from the document's own dateline,1806,7,18,Trąbczyn,,,1114,1500,0,0,,0,372,14,hohenlohe,"Das Dürchlauch von Hohenlohesche Patrimoni¬
+oe1bu14526,oe1bu14526-6,oe1bu14526-006,/documents/oe1bu14526/6/,6,6,,contract,1806-07-18,day,dateline,1806-07-18,read from the document's own dateline,1806,7,18,Trąbczyn,,,1114,1500,0,0,,0,372,14,hohenlohe,"Das Dürchlauch von Hohenlohesche Patrimoni¬
 al Gericht fuget hierdurch zu wißen,
 daß zwischen dem Herrn Krieg es
 und Forst Rath von Triebenfeld als
@@ -1895,7 +1895,7 @@ Actuarius Urkundlich unter beidrückung des Gerichts siegels und gewöhnlichen U
 Aislich von Hohenlohesches Patrimonial Gericht amt Zagorow Hawich
 
 Ausfertigung Das zwischen dem Herrn Krieges und ForstRath von Triebenfeld als general Bevollmächtigter Sr. Duchlaucht des Herrn Fürsten v Hohenlohe Ingelfingen und dem Blazy Kukulski über für hufe Land Magdeburgisch Maast bey dem Gute Osiny belegen geschloßenen Verkauf und Kauf Contract"
-oe1bu14526,oe1bu14526-7,oe1bu14526-007,/letters/oe1bu14526/7/,7,7,,contract,1806-07-08,day,dateline,1806-07-08,read from the document's own dateline,1806,7,8,Trąbczyn,,,1501,1779,0,0,,0,266,12,hohenlohe,"Nizey podpisany Sąd czyni wiadomo
+oe1bu14526,oe1bu14526-7,oe1bu14526-007,/documents/oe1bu14526/7/,7,7,,contract,1806-07-08,day,dateline,1806-07-08,read from the document's own dateline,1806,7,8,Trąbczyn,,,1501,1779,0,0,,0,266,12,hohenlohe,"Nizey podpisany Sąd czyni wiadomo
 komu wiedzieć należy, iż między
 Pełnomocnikiem JO. Xcia Jmci Hohen¬
 lohe Ingelfingen, Wnym Wojennym
@@ -2237,7 +2237,7 @@ Protocoll Führer Co dla wiary publiczney pod
 przycisnieniem Sądowey Pieczęci Zaswiadczamy. Datt w Pyzdrach dnia 28 Januarii 1808 Sąd Patrimonialny Maiętnosći Zagurowskiey
 
 Hawich"
-oe1bu14526,oe1bu14526-8,oe1bu14526-008,/letters/oe1bu14526/8/,8,8,,contract,1806-03-25,day,dateline,1806-03-25,read from the document's own dateline,1806,3,25,Trąbczyn,,,1780,2522,1,0,,0,720,22,hohenlohe,"Das Fürstlich Hohenlohesche Patrimonial Gerichte
+oe1bu14526,oe1bu14526-8,oe1bu14526-008,/documents/oe1bu14526/8/,8,8,,contract,1806-03-25,day,dateline,1806-03-25,read from the document's own dateline,1806,3,25,Trąbczyn,,,1780,2522,1,0,,0,720,22,hohenlohe,"Das Fürstlich Hohenlohesche Patrimonial Gerichte
 füget hiemit zu wissen, daß gewischen dem
 Herrn Krieges und Forst Rath v. Triebenfeld
 als General Bevollmächtigten Sr Durchlaucht
@@ -3107,7 +3107,7 @@ lautend befunden worden, solches wird sie durch glaubhaft attestiret Marianton d
 Peysern den 13. August 1807. Fürstlich Hohenlohesches Patrimonial Gericht Hawich
 
 Ausfertigung des Erbflechts Contracts gwischen, den Herrn Kriegs und Forst Rath v Triebenfeld als General Bevollmächtigter Sr Durchlaucht des regierenden fürsten zu Hohenlohe Ingelfingen, und dem Einsaaßen Christian Friedenberger über eine Hufe Magdeburgisch Land."
-oe1bu14526,oe1bu14526-9,oe1bu14526-009,/letters/oe1bu14526/9/,9,9,,lease,1805-08-17,day,dateline,1805-08-17,read from the document's own dateline,1805,8,17,Trąbczyn,,,2523,2901,1,0,,0,365,13,hohenlohe,"Das erste Exemplar hat 3 rtlr
+oe1bu14526,oe1bu14526-9,oe1bu14526-009,/documents/oe1bu14526/9/,9,9,,lease,1805-08-17,day,dateline,1805-08-17,read from the document's own dateline,1805,8,17,Trąbczyn,,,2523,2901,1,0,,0,365,13,hohenlohe,"Das erste Exemplar hat 3 rtlr
 10 ggl. Stempel.
 Das Fürstl. Hohenlohesche Patrimonial
 Gericht füget hiemit zu wißen, daß bey
@@ -3574,7 +3574,7 @@ u. u. u.
 Schenk Es wird also dieser Contract hiemit unter Beydrüdung des Gerichts- Siegels und gewöhnlicher Unterschrift gerichtlich ausgefertiget Trąbczyn den 27ten August 1805 Fürstl Hohenlohesches Gerichts-Amt. Schenck
 
 Justitiarius Ausfertigung des Pacht Contracts zwischen Sr: Durchlaucht des regierenden Herrn Fürsten zu Hohenlohe Ingelfingen und dem Pächter Herrn Maciey v. Niedzwecki auf Kopoyno."
-oe1bu14526,oe1bu14526-10,oe1bu14526-010,/letters/oe1bu14526/10/,10,10,,contract,1805-05-11,day,dateline,1805-05-11,read from the document's own dateline,1805,5,11,Trąbczyn,,,2902,3347,0,0,,0,430,15,hohenlohe,"Das Fürstliche Hohenlohesche Gerichts Amt
+oe1bu14526,oe1bu14526-10,oe1bu14526-010,/documents/oe1bu14526/10/,10,10,,contract,1805-05-11,day,dateline,1805-05-11,read from the document's own dateline,1805,5,11,Trąbczyn,,,2902,3347,0,0,,0,430,15,hohenlohe,"Das Fürstliche Hohenlohesche Gerichts Amt
 auf Trąbczyn füget hiemit zu wißen, daß
 von demselben zwischen Sr Durchlaucht
 dem regierenden Herrn Fürsten zu
@@ -4120,7 +4120,7 @@ a u s
 Schenck Es wird also diese Verhandlung hiemit unter Beydruckung des Gerichts Siegels und gewöhnlicher Unterschrifft in forma probante ausgefertiget Marianton den 18ten January 1806 Fürstliches Hohenlohesches Patrimonial Gericht Schenck
 
 Ausfertigung des Vergleichs zwischen Sr Durchlaucht dem regierenden Herrn Fürsten zu Hohenlohe Ingelfingen und dem Bau Inspector Wollenhaupt Nro 286"
-oe1bu14526,oe1bu14526-11,oe1bu14526-011,/letters/oe1bu14526/11/,11,11,,contract,1805-05-10,day,dateline,1805-05-10,read from the document's own dateline,1805,5,10,Trąbczyn,,,3348,3747,1,0,,0,388,11,hohenlohe,"Actum Trąbczyn den 10 May 1805.
+oe1bu14526,oe1bu14526-11,oe1bu14526-011,/documents/oe1bu14526/11/,11,11,,contract,1805-05-10,day,dateline,1805-05-10,read from the document's own dateline,1805,5,10,Trąbczyn,,,3348,3747,1,0,,0,388,11,hohenlohe,"Actum Trąbczyn den 10 May 1805.
 Erschienen vor unter¬
 schriebenem Patrimonial
 Gerichte
@@ -4570,7 +4570,7 @@ weiter hätten Contrahenten nichts dienstführen u nachdem ihnen dieses Protocol
 a. u. s. Schenck
 
 Brauer"
-oe1bu14526,oe1bu14526-12,oe1bu14526-012,/letters/oe1bu14526/12/,12,12,,contract,1805-05-10,day,dateline,1805-05-10,read from the document's own dateline,1805,5,10,Trąbczyn,,,3748,4177,0,0,,0,418,11,hohenlohe,"Actum Trąbczyn den 10 May 1805
+oe1bu14526,oe1bu14526-12,oe1bu14526-012,/documents/oe1bu14526/12/,12,12,,contract,1805-05-10,day,dateline,1805-05-10,read from the document's own dateline,1805,5,10,Trąbczyn,,,3748,4177,0,0,,0,418,11,hohenlohe,"Actum Trąbczyn den 10 May 1805
 Vor unterschriebenem Patri¬
 monial Gerichte er¬
 schienen
@@ -5052,7 +5052,7 @@ Weiter hatten Contrahenten nichts einzuführen nachdem ihnen dieses Protocoll wo
 a. u. s. Schenck
 
 Brauer"
-oe1bu14526,oe1bu14526-13,oe1bu14526-013,/letters/oe1bu14526/13/,13,13,,contract,1805-05-07,day,dateline,1805-05-07,read from the document's own dateline,1805,5,7,Trąbczyn,,,4178,4363,0,0,,0,179,6,hohenlohe,"Zwischen dem Krieges und Forst. Rath
+oe1bu14526,oe1bu14526-13,oe1bu14526-013,/documents/oe1bu14526/13/,13,13,,contract,1805-05-07,day,dateline,1805-05-07,read from the document's own dateline,1805,5,7,Trąbczyn,,,4178,4363,0,0,,0,179,6,hohenlohe,"Zwischen dem Krieges und Forst. Rath
 von Triebenfeld General Bevollmäch¬
 tigter Sr Durchlaucht des Regierenden Fürsten
 zu Hohenlohe Ingelfingen, Erb. und Ge¬
@@ -5285,7 +5285,7 @@ gelesen und genehmiget
 Johann Gottlieb Tschachmann Johan Fried. Cabanis als Zeuge Carl. Willhelm Richter
 
 als Zeuge"
-oe1bu14526,oe1bu14526-14,oe1bu14526-014,/letters/oe1bu14526/14/,14,14,,contract,1805-05-04,day,dateline,1805-05-04,read from the document's own dateline,1805,5,4,Trąbczyn,,,4364,4771,2,0,,0,395,12,hohenlohe,"Actum Trąbczyn den 4. May 1805.
+oe1bu14526,oe1bu14526-14,oe1bu14526-014,/documents/oe1bu14526/14/,14,14,,contract,1805-05-04,day,dateline,1805-05-04,read from the document's own dateline,1805,5,4,Trąbczyn,,,4364,4771,2,0,,0,395,12,hohenlohe,"Actum Trąbczyn den 4. May 1805.
 Von dem hiesigen Patri¬
 monial Gerichte
 erschienen persön¬
@@ -5750,7 +5750,7 @@ beide Theile versprechen den vorstehen den Erbzinß Contract fest und unverbruch
 besonders dem Einwande einer listigen Ueberredung, über eilung, einer vorgefallen nen Verleggung über und unter der helfte anders verabgeredeter als verschriebener Sachen und sind sie nun den folgen dieser Entstagung, abseiten des Gerichts gehörig belehrt würden. Sr. Hochfürstl. durch laucht willigen ausdrücklich darin denß Erbpächter auf den Grund dieses Contracts den Besitz Titul von dieser acquirirten Stelle auf seinen Nahmen berichtigen lassen kann. wen
 
 Weiter hatten Contrahenten nichts angeführen u nachdem ihnen dieser Protocoll würklich vorgelesen würden, so haben sie dasselbe überall genehmigt u sich nachstehenden eigenhändig, unterschrieben Peter Friedrich August v. Triebenfeld Carl Titz"
-oe1bu14526,oe1bu14526-15,oe1bu14526-015,/letters/oe1bu14526/15/,15,15,,contract,1805-04-06,day,dateline,1805-04-06,read from the document's own dateline,1805,4,6,Trąbczyn,,,4772,4956,4,0,,0,178,6,hohenlohe,"zwischen dem Königl. Krieges und Forst Rath von Triebenfeld General Bevollmächtigte Sr. Hochfürstliche
+oe1bu14526,oe1bu14526-15,oe1bu14526-015,/documents/oe1bu14526/15/,15,15,,contract,1805-04-06,day,dateline,1805-04-06,read from the document's own dateline,1805,4,6,Trąbczyn,,,4772,4956,4,0,,0,178,6,hohenlohe,"zwischen dem Königl. Krieges und Forst Rath von Triebenfeld General Bevollmächtigte Sr. Hochfürstliche
 Durchlaucht des regierenden Fürsten zu Hohenlohe Ingelfingen, und denen
 am Ende unterschriebenen Erbpächtern ward dato folgende Punctation
 verabredet und bis zur Genehmigung Seiner Durchlaucht abgeschloßen.
@@ -6030,7 +6030,7 @@ P[ro] M[emoria] Von denen verliehenen: 270 Hufen gehen ab diejenigen Hufen, welc
 10. v. Leski: 6
 
 11. Kommer: 6 Hufe 20 Morg = 156 Hufe 25 Morgen 9 Ruten bleiben für die Entrepreneurs übrig 113. Hufe 4. Morg 17 R. Schenck"
-oe1bu14526,oe1bu14526-16,oe1bu14526-016,/letters/oe1bu14526/16/,16,16,,contract,1804-12-20,day,dateline,1804-12-20,read from the document's own dateline,1804,12,20,Trąbczyn,,,4957,5526,1,0,,0,551,18,hohenlohe,"Das Haupt Exemplar ist auf 10 rtl 6 g. expedirt
+oe1bu14526,oe1bu14526-16,oe1bu14526-016,/documents/oe1bu14526/16/,16,16,,contract,1804-12-20,day,dateline,1804-12-20,read from the document's own dateline,1804,12,20,Trąbczyn,,,4957,5526,1,0,,0,551,18,hohenlohe,"Das Haupt Exemplar ist auf 10 rtl 6 g. expedirt
 Das Fürstlich Hohenlohesche Patrimonial
 Gericht auf Trąbczyn beurkundet hiemit
 daß zwischen Sr Durchlaucht dem rege¬
@@ -6691,7 +6691,7 @@ Taxe br: 8
 Stempel: 6
 
 Mund: 12"
-oe1bu14526,oe1bu14526-17,oe1bu14526-017,/letters/oe1bu14526/17/,17,17,,contract,1804-05-26,day,dateline,1804-05-26,read from the document's own dateline,1804,5,26,Zagorowo,,,5527,5737,1,0,,0,200,10,hohenlohe,"Nun zu wißen sei hiermit Jederman dem daran zu
+oe1bu14526,oe1bu14526-17,oe1bu14526-017,/documents/oe1bu14526/17/,17,17,,contract,1804-05-26,day,dateline,1804-05-26,read from the document's own dateline,1804,5,26,Zagorowo,,,5527,5737,1,0,,0,200,10,hohenlohe,"Nun zu wißen sei hiermit Jederman dem daran zu
 wißen von Noten, daß zwischen dem Königl. Kreis - Justiz
 Commissions Actuario Kunkel als Bevollmächtigten Sr.
 Hochfürstlich durchlaucht des regierenden Fürsten Herrn
@@ -6971,7 +6971,7 @@ So geschehen Zagorowo den 26 May Eintausend Achthundert und Vier
 Kunkel Special-Bevollmächtigter: Sr. Hochfürstlich durchl. zu Hohenlohe Ingel fingen.
 
 mört in Göring Signa xxx des Michael Dümel Signa xxx des Gottfried Dams Signa xxx des Gottfried Dümel Signa xxx des Wilhelm Daniel Schultz Signa xxx des Christoph Schoenfisch Leopolde Conductus Ludewich Anitz als Zeuge qua Testis"
-oe1bu14526,oe1bu14526-18,oe1bu14526-018,/letters/oe1bu14526/18/,18,18,,contract,1804-07-28,day,dateline,1804-07-28,read from the document's own dateline,1804,7,28,Betsche,,,5738,6303,2,0,,0,537,28,hohenlohe,"Copia
+oe1bu14526,oe1bu14526-18,oe1bu14526-018,/documents/oe1bu14526/18/,18,18,,contract,1804-07-28,day,dateline,1804-07-28,read from the document's own dateline,1804,7,28,Betsche,,,5738,6303,2,0,,0,537,28,hohenlohe,"Copia
 No. 92.
 Wir das Fürstlich Hohenloh-Ingelfingensche
 Gerichts-Amt der Herrschaft Betsche thun kund
@@ -7684,7 +7684,7 @@ der Landrath
 v Mielęcki Die UeberEinstimmung vorstehender Abschrift mit den gerichtlichen Acten heimiget
 
 Frost Trybunals Archiven"
-oe1bu14526,oe1bu14526-19,oe1bu14526-019,/letters/oe1bu14526/19/,19,19,,certified_copy,1804-07-28,day,dateline,1804-07-28,read from the document's own dateline,1804,7,28,Betsche,,,6304,6809,1,0,18,0,486,19,hohenlohe,"No. 93.
+oe1bu14526,oe1bu14526-19,oe1bu14526-019,/documents/oe1bu14526/19/,19,19,,certified_copy,1804-07-28,day,dateline,1804-07-28,read from the document's own dateline,1804,7,28,Betsche,,,6304,6809,1,0,18,0,486,19,hohenlohe,"No. 93.
 Wir das Fürstliche Hohenloh-Ingelfingensche
 Gerichts- undt der Herrschaft Betsche thun kund
 und fügen hiermit jeder männiglich, besonders
@@ -8322,7 +8322,7 @@ Justitiarius
 Neumann
 
 Actuarius"
-oe1bu14526,oe1bu14526-20,oe1bu14526-020,/letters/oe1bu14526/20/,20,20,,donation,1803-04-08,day,dateline,1803-04-08,read from the document's own dateline,1803,4,8,Breslau,,,6810,6829,0,0,,0,18,1,hohenlohe,"Nachdem ich heute dato die Vorwerks Wirtschafts
+oe1bu14526,oe1bu14526-20,oe1bu14526-020,/documents/oe1bu14526/20/,20,20,,donation,1803-04-08,day,dateline,1803-04-08,read from the document's own dateline,1803,4,8,Breslau,,,6810,6829,0,0,,0,18,1,hohenlohe,"Nachdem ich heute dato die Vorwerks Wirtschafts
 Gebäude zu Swięcia nebst darzu gehörigen Aekkern
 Wiesen Waldungen pp an den Johann Christian Birlack
 aus Zilenzig, Johan Götzinger aus Brennenhofs Fleis
@@ -8344,7 +8344,7 @@ Friedrich Ludwig Fürst zu Hohenlohe","Nachdem ich heute dato die Vorwerks Wirts
 Breslau den 8ten Aprill 1803.
 
 Friedrich Ludwig Fürst zu Hohenlohe"
-oe1bu14526,oe1bu14526-21,oe1bu14526-021,/letters/oe1bu14526/21/,21,21,,punctation,1805-03-09,day,dateline,1805-03-09,read from the document's own dateline,1805,3,9,Kalisch,,,6830,6936,1,0,,0,102,4,hohenlohe,"Zwischen dem Königlichen Krieges und Forst-Rath
+oe1bu14526,oe1bu14526-21,oe1bu14526-021,/documents/oe1bu14526/21/,21,21,,punctation,1805-03-09,day,dateline,1805-03-09,read from the document's own dateline,1805,3,9,Kalisch,,,6830,6936,1,0,,0,102,4,hohenlohe,"Zwischen dem Königlichen Krieges und Forst-Rath
 auch General Bevollmächtigten Sr. Hochfürstlichen
 Durchlaucht des regierenden Fürsten und Herrn zu Hohenlohe
 Herrn Peter Friederich August v. Triebenfeld und
@@ -8478,7 +8478,7 @@ den Interessen Zahlungen viel Verwickelungen entstehen dürften.
 §. 12. Verbinden sich beide Theile zur Festhaltung dieser Punctation unter Entsagung aller Einwendung wie sie Nahmen haben.
 
 Geschehen Kalisch den 9ten Merz 1805. Peter Friedrich August v. Triebenfeld Franz Maierowitz Friedrich Willhelm Eger als Zeuge Bezuer[?] qua Testis"
-oe1bu14526,oe1bu14526-22,oe1bu14526-022,/letters/oe1bu14526/22/,22,22,,royal_rescript,1805-03-18,day,dateline,1805-03-18,read from the document's own dateline,1805,3,18,Posen,,,6937,6959,2,0,,0,21,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen
+oe1bu14526,oe1bu14526-22,oe1bu14526-022,/documents/oe1bu14526/22/,22,22,,royal_rescript,1805-03-18,day,dateline,1805-03-18,read from the document's own dateline,1805,3,18,Posen,,,6937,6959,2,0,,0,21,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen
 Unsere Königliche Gnade, Freundschaft und
 guten Willen zuvor! Durchlauchtigster Fürst,
 liebster Freund und lieber Getreuer. Ew. Liebden
@@ -8515,7 +8515,7 @@ Stempel 6 g
 Mund: 2 g
 
 Ins: 3 g"
-oe1bu14526,oe1bu14526-23,oe1bu14526-023,/letters/oe1bu14526/23/,23,23,,confirmation,1805-03-18,day,dateline,1805-03-18,read from the document's own dateline,1805,3,18,Posen,,,6960,7636,0,0,,0,650,26,hohenlohe,"Das Original hiervon befindet sich auf 137 rl. Stem¬
+oe1bu14526,oe1bu14526-23,oe1bu14526-023,/documents/oe1bu14526/23/,23,23,,confirmation,1805-03-18,day,dateline,1805-03-18,read from the document's own dateline,1805,3,18,Posen,,,6960,7636,0,0,,0,650,26,hohenlohe,"Das Original hiervon befindet sich auf 137 rl. Stem¬
 pel - Papier, und ist zu den hypotheken Akten
 von Kolno und Kaemen genommen.
 Wir Friedrich Wilhelm von Gottes Gnaden
@@ -9333,7 +9333,7 @@ Mund: 22 gg.
 Seide: 1 gg.
 
 No: 2244."
-oe1bu14526,oe1bu14526-24,oe1bu14526-024,/letters/oe1bu14526/24/,24,24,,royal_rescript,1805-05-18,day,dateline,1805-05-18,read from the document's own dateline,1805,5,18,Posen,,,7637,7700,2,1,,0,61,2,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König von Preußen
+oe1bu14526,oe1bu14526-24,oe1bu14526-024,/documents/oe1bu14526/24/,24,24,,royal_rescript,1805-05-18,day,dateline,1805-05-18,read from the document's own dateline,1805,5,18,Posen,,,7637,7700,2,1,,0,61,2,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König von Preußen
 Unsere Freundschaft, Königliche Gnade und guten Willen zuvor
 Hochgebohrner Fürst, besonders Lieber Freund und Lieber
 Getreuer! Im Verfolg der Ewr. Liebden, auf das unterm
@@ -9412,7 +9412,7 @@ der Infanterie und Gouverneur
 der Residenz Breslau Chef eines Regiments zu Fuß auch des schwarzen und rothen Adler Ordens Ritter zu Breslau 434 R. Anno
 
 Raeder[?]"
-oe1bu14526,oe1bu14526-25,oe1bu14526-025,/letters/oe1bu14526/25/,25,25,,contract,1798-10-01,day,dateline,1798-10-01,read from the document's own dateline,1798,10,1,Zagorowo,,,7701,7777,2,0,,0,73,3,hohenlohe,"Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des
+oe1bu14526,oe1bu14526-25,oe1bu14526-025,/documents/oe1bu14526/25/,25,25,,contract,1798-10-01,day,dateline,1798-10-01,read from the document's own dateline,1798,10,1,Zagorowo,,,7701,7777,2,0,,0,73,3,hohenlohe,"Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des
 regierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen
 Durchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck
 einer - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle
@@ -9531,7 +9531,7 @@ So geschehen Zagorowo den 1ten Octbr 1798. Johann Wilhelm Glenck, Hochfürstlich
 Samuel Lucke Mahl Müller
 
 als Zeuge Johan Lindner."
-oe1bu14526,oe1bu14526-26,oe1bu14526-026,/letters/oe1bu14526/26/,26,26,,protocol,1799-07-01,day,dateline,1799-07-01,read from the document's own dateline,1799,7,1,Zagorowo,,,7778,7881,1,0,,0,99,4,hohenlohe,"Stempel Bogen reservire
+oe1bu14526,oe1bu14526-26,oe1bu14526-026,/documents/oe1bu14526/26/,26,26,,protocol,1799-07-01,day,dateline,1799-07-01,read from the document's own dateline,1799,7,1,Zagorowo,,,7778,7881,1,0,,0,99,4,hohenlohe,"Stempel Bogen reservire
 Actum Zagorowo den 1ten July 1799.
 Es erschienen Dato für hie¬
 sigem Polizei Magistrat.
@@ -9654,7 +9654,7 @@ Worauf denn derselbe sich folgender Gestalt aus ließ.
 Ob zwar es eine scheinbare hohe Schadlos forderung wäre, so erböthe Er sich doch diese an Deponenten unter der Condition zu bezahlen, wenn nemlich die Approbation von Sr. Hochfürstl. Durchlaucht hiezu erhalten werden könne.
 
 Wo mit den geschloßen und unterschrieben Nüchler mpp xxx bedenket Samuel Luck xxx Jacob Kriede Urkundlich unter des Magistrats Unterschrifft und Insiegels Barck[?] Polizey Burger Meister"
-oe1bu14526,oe1bu14526-27,oe1bu14526-027,/letters/oe1bu14526/27/,27,27,,letter,1799-04-16,day,dateline,1799-04-16,read from the document's own dateline,1799,4,16,Zagorowo,,,7882,7954,0,0,,0,69,3,hohenlohe,"Wohlgebohrner Herr
+oe1bu14526,oe1bu14526-27,oe1bu14526-027,/documents/oe1bu14526/27/,27,27,,letter,1799-04-16,day,dateline,1799-04-16,read from the document's own dateline,1799,4,16,Zagorowo,,,7882,7954,0,0,,0,69,3,hohenlohe,"Wohlgebohrner Herr
 Insonders höchst zuverehrender Herr
 Bau und Oeconom Rath
 Der Müller Luka hat sich der
@@ -9743,7 +9743,7 @@ der Tischler welcher ebenfals in Szetlewek wohnen wolte hat aus Desperation in d
 d. 16. Aprill 1799. gantz gehorsamste Diener Titz
 
 Bancke"
-oe1bu14526,oe1bu14526-28,oe1bu14526-028,/letters/oe1bu14526/28/,28,28,,letter,1799-05-27,day,dateline,1799-05-27,read from the document's own dateline,1799,5,27,Zagorowo,,,7955,7999,1,0,,0,42,2,hohenlohe,"An den Herrn Criminal Rath Grimm zu Kalisch
+oe1bu14526,oe1bu14526-28,oe1bu14526-028,/documents/oe1bu14526/28/,28,28,,letter,1799-05-27,day,dateline,1799-05-27,read from the document's own dateline,1799,5,27,Zagorowo,,,7955,7999,1,0,,0,42,2,hohenlohe,"An den Herrn Criminal Rath Grimm zu Kalisch
 In der Anlage nehme ich mich die Ehre eine Abschrift
 von meinen Brief an Ehe von Radozimski wegen des
 Contracts nebst dessen Antwort und meine Beantwortung
@@ -9795,7 +9795,7 @@ Zugleich nehme ich mir die Ehre 5 Stück Enten mitzusenden. Der alten kranken Ze
 Glenk
 
 Zagorowo den 27ten May 1799"
-oe1bu14526,oe1bu14526-29,oe1bu14526-029,/letters/oe1bu14526/29/,29,29,,letter,1805-04-10,day,dateline,1805-04-10,read from the document's own dateline,1805,4,10,Betsche,,,8000,8029,0,0,,0,28,1,hohenlohe,"Durchlauchtigster Fürst
+oe1bu14526,oe1bu14526-29,oe1bu14526-029,/documents/oe1bu14526/29/,29,29,,letter,1805-04-10,day,dateline,1805-04-10,read from the document's own dateline,1805,4,10,Betsche,,,8000,8029,0,0,,0,28,1,hohenlohe,"Durchlauchtigster Fürst
 Gnädigster Fürst und Herr!
 Aus dem in Abschrift beygehenden Kauf Contrac¬
 te vom 28ten Septbr. c. a. und dessen Beylagen
@@ -9841,7 +9841,7 @@ Neumann
 Betsche
 
 d 10ten Aprill 1805"
-oe1bu14526,oe1bu14526-30,oe1bu14526-030,/letters/oe1bu14526/30/,30,30,,privilege,1799-01-21,day,dateline,1799-01-21,read from the document's own dateline,1799,1,21,Dolsk,,,8030,8172,0,0,,0,137,5,hohenlohe,"Capitulum Ecclesiae Cathedralis
+oe1bu14526,oe1bu14526-30,oe1bu14526-030,/documents/oe1bu14526/30/,30,30,,privilege,1799-01-21,day,dateline,1799-01-21,read from the document's own dateline,1799,1,21,Dolsk,,,8030,8172,0,0,,0,137,5,hohenlohe,"Capitulum Ecclesiae Cathedralis
 Posnaniensis.
 Wir machen durch gegenwärtiges allen und jeden
 denen daran gelegen ist bekannt: daß Wir auf

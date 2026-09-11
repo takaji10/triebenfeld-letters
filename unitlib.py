@@ -14,7 +14,7 @@ unique within its unit, so three fields carry the namespace:
     letter_id  48                        the archival number, untouched
     uid        oe1bu9454-48              flat global handle
     pad        oe1bu9454-048             sorts correctly; filenames, data keys
-    permalink  /letters/oe1bu9454/48/    what the reader sees
+    permalink  /documents/oe1bu9454/48/  what the reader sees
 
 Keeping letter_id bare is deliberate: every editorial ruling in rulings.yml is
 keyed by it, so those files never have to be re-keyed when a unit is added.
@@ -29,6 +29,10 @@ import yaml
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 UNITS_DIR = os.path.join(ROOT, 'units')
+
+# The URL space documents live in. Was '/letters/' while the edition held
+# only correspondence; a volume of title deeds is not a letter.
+DOC_URL_PREFIX = '/documents'
 
 
 class Unit(dict):
@@ -96,7 +100,10 @@ class Unit(dict):
         return f'{self.slug}-{int(m.group(1)):03d}{m.group(2)}'
 
     def permalink(self, letter_id):
-        return f'/letters/{self.slug}/{letter_id}/'
+        # The single generator. Everything downstream bakes this in -
+        # letters.json, letters.csv, corpus/index/, the corpus text headers -
+        # so changing it needs a full regenerate.py, not --unit.
+        return f'{DOC_URL_PREFIX}/{self.slug}/{letter_id}/'
 
 
 def slugify(ref):

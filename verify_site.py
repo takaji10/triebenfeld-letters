@@ -10,7 +10,7 @@ Checks:
 
 Run after `jekyll build`. Exits non-zero on any failure.
 """
-import io, sys, os, re, json, html
+import io, sys, os, re, json, html, collections
 from collections import Counter
 import unitlib
 
@@ -71,7 +71,7 @@ def main():
     for lid, rec in by_uid.items():
         # The record carries its own URL, so this follows the unit-scoped
         # permalink rather than assuming a shape.
-        rel = rec.get('permalink', f'/letters/{lid}/').strip('/').replace('/', os.sep)
+        rel = rec.get('permalink', f'/documents/{lid}/').strip('/').replace('/', os.sep)
         path = os.path.join(SITE, rel, 'index.html')
         if not os.path.isfile(path):
             fail(f'letter {lid}: no page built at {rec.get("permalink", lid)}')
@@ -167,6 +167,27 @@ def main():
             fail(f'external resource fetched ({n}x): {url}')
     print(f'  {len(ext)} external resources fetched (want 0)')
     print(f'  {len(links)} outbound citation links (fine)')
+
+    # ---- URLs a script builds, which the link check cannot see -------------
+    # Everything above reads href="..." out of the built HTML. browse.js used to
+    # assemble each result's href from a base plus the unit and id, so the whole
+    # browse list could point at a URL space the pages had left and every check
+    # here would still pass. Grepping the built assets is crude and catches
+    # exactly that.
+    print('checking for stale URLs in scripts...')
+    stale = collections.Counter()
+    for root, dirs, files in os.walk(SITE):
+        dirs[:] = [d for d in dirs if d not in ('redirects', 'redirects-static')]
+        for fn in files:
+            if not fn.endswith('.js'):
+                continue
+            p = os.path.join(root, fn)
+            with io.open(p, encoding='utf-8', errors='replace') as f:
+                for m in re.finditer(r'[\'"]/(?:letters|de/briefe)/', f.read()):
+                    stale[os.path.relpath(p, SITE) + ': ' + m.group(0)] += 1
+    for where, n in stale.most_common():
+        fail(f'script builds a pre-migration URL ({n}x): {where}')
+    print(f'  {len(stale)} stale URL literal(s) in built scripts (want 0)')
 
     # ---- summary ----------------------------------------------------------
     print()

@@ -47,7 +47,7 @@ inside its holding. Four fields carry the namespace:
 | `unit` | `oe1bu9454` | the archival holding |
 | `letter_id` | `48` | the archive's own number, untouched |
 | `uid` | `oe1bu9454-48` | **globally unique - join on this** |
-| `permalink` | `/letters/oe1bu9454/48/` | the public address |
+| `permalink` | `/documents/oe1bu9454/48/` | the public address |
 
 Two holdings both have a document 7. Never key on `letter_id` alone.
 

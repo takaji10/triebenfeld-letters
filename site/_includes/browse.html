@@ -1,12 +1,4 @@
-{% assign lang = page.lang | default: 'en' %}
-{% assign t = site.data.i18n[lang] %}
-{% if lang == 'de' %}
-  {% assign u_browse = '/de/briefe/' %}{% assign u_time = '/de/zeitleiste/' %}
-  {% assign u_people = '/de/personen/' %}{% assign u_places = '/de/orte/' %}
-{% else %}
-  {% assign u_browse = '/letters/' %}{% assign u_time = '/timeline/' %}
-  {% assign u_people = '/people/' %}{% assign u_places = '/places/' %}
-{% endif %}
+{% include urls.html %}
 <div class="browse">
 
   <header class="browse-head">
@@ -77,6 +69,14 @@
   window.SEARCH_INDEX_URL = "{{ '/assets/search-index.json' | relative_url }}";
   window.I18N = {{ site.data.i18n[lang] | jsonify }};
   window.LANG = "{{ lang }}";
-  window.LETTER_BASE = "{{ '/letters/' | relative_url }}";
+  {%- comment -%}
+    SITE_BASE, not a documents base. browse.js used to rebuild each result's
+    href from a base plus the unit and id, which meant the browse list could
+    point somewhere the pages are not and no check would see it:
+    verify_site.py reads href="..." out of built HTML and cannot read a
+    string a script assembles. The index already carries each document's own
+    permalink, so the list follows the data instead of recomputing it.
+  {%- endcomment -%}
+  window.SITE_BASE = "{{ site.baseurl }}";
 </script>
 <script src="{{ '/assets/browse.js' | relative_url }}"></script>

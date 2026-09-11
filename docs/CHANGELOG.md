@@ -792,7 +792,7 @@ the place canon moved to `reference/`, because spelling knowledge is shared whil
 decisions are not. Adding a holding is writing a file, not editing the pipeline.
 
 Documents carry `unit`, `uid`, `pad` and `permalink`. URLs became
-`/letters/oe1bu9454/48/`, with 318 stubs forwarding from the old flat addresses.
+`/documents/oe1bu9454/48/`, with 318 stubs forwarding from the old flat addresses.
 `letter_id` stays the bare archival number, which is what let every existing ruling
 survive the move untouched.
 

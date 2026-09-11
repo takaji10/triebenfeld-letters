@@ -78,6 +78,20 @@ house_style: |
   rather than being interleaved as Polish would have it. Polish diacritics are
   preserved in every name that carries them.
 
+  TERRITORIAL PARTICLES ARE TRANSLATED; NAME PARTICLES ARE NOT. The two look
+  identical and are not the same thing:
+
+    * `zu Hohenlohe-Ingelfingen` names the territory he is prince OF, so it
+      becomes "of Hohenlohe-Ingelfingen" - with or without the title in front
+      of it. Friedrich Ludwig zu Hohenlohe-Ingelfingen is Friedrich Ludwig of
+      Hohenlohe-Ingelfingen. The same goes for a territorial `von`.
+    * `von Triebenfeld` is part of the man's name. It stays. He is never "of
+      Triebenfeld", which would make an estate agent sound like a landowner and
+      invent a place he did not hold.
+
+  The test is whether the particle points at something the person is lord of or
+  simply at what they are called.
+
   Terms of art keep their German form ONLY where this termbase says
   `policy: keep` - Rthl, Hufe, Morgen, Landschaft and the handful like them.
   Everything else is rendered into English, however technical. A German word
@@ -1014,10 +1028,14 @@ latin_terms:
 forbidden_renders:
   - render: 'zu Hohenlohe'
     note: >-
-      the particle is translated with the title: Prince OF
-      Hohenlohe-Ingelfingen, never Prince zu. Unconditional, because there is
-      no English sentence in which the German particle is the right answer.
-      The current translations carry none; this keeps it that way.
+      territorial particle, so it is translated: of Hohenlohe-Ingelfingen,
+      with or without a title in front. Unconditional - no English sentence
+      wants the German particle here.
+  - render: 'von Hohenlohe'
+    note: >-
+      the same, for the other particle. NOT a general rule about `von`:
+      von Triebenfeld is a surname and stays, 175 times over. The test is
+      whether the particle points at a territory or at a name.
   - render: 'chestnut'
     when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|\bcastane\w*'
     note: 'hypocaustum misread. The table stands in the heated room, not on a chestnut.'

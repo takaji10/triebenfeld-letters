@@ -12,7 +12,7 @@ url: ""
 collections:
   letters:
     output: true
-    permalink: /letters/:path/
+    permalink: /documents/:path/
 
 defaults:
   - scope:
