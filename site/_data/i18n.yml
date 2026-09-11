@@ -133,6 +133,7 @@ en:
   across_pages: across
   manuscript_pages: manuscript pages
   archival_lines: archival lines
+  doc_lines: lines
   people_named: People named
   duplicate: Duplicate
   part_of: Part of
@@ -355,6 +356,7 @@ de:
   across_pages: auf
   manuscript_pages: Handschriftenseiten
   archival_lines: Archivzeilen
+  doc_lines: Zeilen
   people_named: Genannte Personen
   duplicate: Doppelstück
   part_of: Teil von

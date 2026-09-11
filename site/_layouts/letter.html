@@ -143,7 +143,7 @@ layout: default
       <dt data-i18n="extent">{{ t.extent }}</dt>
       <dd>
         {{ page.n_lines }} <span data-i18n="lines">{{ t.lines }}</span>{% if page.n_pages > 1 %} <span data-i18n="across_pages">{{ t.across_pages }}</span> {{ page.n_pages }} <span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}<br>
-        <span class="muted"><span data-i18n="archival_lines">{{ t.archival_lines }}</span> {{ page.line_start | plus: 1 }}-{{ page.line_end }}</span>
+        <span class="muted"><span data-i18n="doc_lines">{{ t.doc_lines }}</span> {{ page.line_first }}-{{ page.line_last }}</span>
       </dd>
 
       {% if page.people.size > 0 %}

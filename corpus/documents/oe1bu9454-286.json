@@ -50,7 +50,9 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 30
   },
   {
    "page": 2,
@@ -71,7 +73,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 32,
+   "doc_line_end": 60
   },
   {
    "page": 3,
@@ -100,7 +104,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 62,
+   "doc_line_end": 124
   },
   {
    "page": 4,
@@ -117,7 +123,9 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 126,
+   "doc_line_end": 145
   }
  ],
  "mentions": [

@@ -289,6 +289,14 @@ def main():
         fm.append(f'has_damage: {"true" if r["has_damage"] else "false"}')
         fm.append(f'is_missing: {"true" if r["is_missing"] else "false"}')
         fm.append(f'n_lines: {r["n_lines"]}')
+        # The document's own line range, numbered from 1. The layout asked
+        # for page.line_start and the front matter never carried it, so every
+        # document read "archival lines 1-" with nothing after the dash:
+        # Liquid's nil | plus: 1 is 1, and nil renders as empty.
+        pgs = r.get('pages') or []
+        if pgs:
+            fm.append(f'line_first: {pgs[0]["doc_line_start"]}')
+            fm.append(f'line_last: {pgs[-1]["doc_line_end"]}')
         fm.append(f'n_pages: {len(r.get("pages") or [])}')
         fm.append('people: [' + ', '.join(yaml_str(p) for p in r['_people']) + ']')
         fm.append('themes: []')
@@ -327,12 +335,13 @@ def main():
         for p in pages:
             body.append(f'<section class="ms-page" id="p{p["page"]}" '
                         f'data-page="{p["page"]}" '
-                        f'data-lines="{p["line_start"]}-{p["line_end"]}">')
+                        f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}" '
+                        f'data-archival-lines="{p["line_start"]}-{p["line_end"]}">')
             if len(pages) > 1:
                 body.append(
                     f'<div class="page-rule"><span class="page-no">Page {p["page"]}</span>'
-                    f'<span class="page-lines">archival lines '
-                    f'{p["line_start"]}-{p["line_end"]}</span></div>')
+                    f'<span class="page-lines">lines '
+                    f'{p["doc_line_start"]}-{p["doc_line_end"]}</span></div>')
             # Two panes: the manuscript image on the left, its own text on the
             # right, so a page and its scan always sit together.
             img = scans.get((r['unit'], lid, p['page']), '')
@@ -356,7 +365,10 @@ def main():
             # marks resolved per the recorded decisions. Numbered to the
             # archival line so it can still be cited line by line.
             body.append('<div class="text-view" data-view="diplomatic">')
-            body.append('<ol class="dip" start="' + str(p['line_start']) + '">')
+            # Numbered from 1 in each document. The unit-absolute line stays on
+            # the section as data-archival-lines, so a citation keyed to
+            # corpus.txt can still be resolved from the page.
+            body.append('<ol class="dip" start="' + str(p['doc_line_start']) + '">')
             for ln in p.get('transcription', p['diplomatic']).split('\n'):
                 body.append('<li>' + html.escape(ln) + '</li>')
             body.append('</ol></div>')

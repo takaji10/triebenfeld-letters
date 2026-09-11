@@ -49,7 +49,9 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 40
   },
   {
    "page": 2,
@@ -67,7 +69,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 42,
+   "doc_line_end": 83
   },
   {
    "page": 3,
@@ -84,7 +88,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 85,
+   "doc_line_end": 126
   },
   {
    "page": 4,
@@ -102,7 +108,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 128,
+   "doc_line_end": 167
   },
   {
    "page": 5,
@@ -119,7 +127,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 169,
+   "doc_line_end": 207
   },
   {
    "page": 6,
@@ -137,7 +147,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 209,
+   "doc_line_end": 248
   },
   {
    "page": 7,
@@ -156,7 +168,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 250,
+   "doc_line_end": 291
   },
   {
    "page": 8,
@@ -174,7 +188,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 293,
+   "doc_line_end": 330
   },
   {
    "page": 9,
@@ -192,7 +208,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 332,
+   "doc_line_end": 370
   },
   {
    "page": 10,
@@ -209,7 +227,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 372,
+   "doc_line_end": 406
   },
   {
    "page": 11,
@@ -227,7 +247,9 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 408,
+   "doc_line_end": 428
   }
  ],
  "mentions": [

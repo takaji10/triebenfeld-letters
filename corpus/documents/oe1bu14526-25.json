@@ -57,7 +57,9 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 35
   },
   {
    "page": 2,
@@ -79,7 +81,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 37,
+   "doc_line_end": 67
   },
   {
    "page": 3,
@@ -98,7 +102,9 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 69,
+   "doc_line_end": 75
   }
  ],
  "mentions": [

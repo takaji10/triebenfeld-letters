@@ -243,4 +243,20 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None):
             'continues_next': cont_next,
             'scan': '',
         })
+    # A second, reader-facing line number that restarts at 1 in every document.
+    #
+    # `line_start` and `line_end` count from the top of the unit's corpus.txt,
+    # which is what the tooling needs and what a reader cannot use: the letters
+    # run to line 20455, so page 1 of document 269a is headed "archival lines
+    # 19117-19150" and means nothing to anyone. The absolute numbers stay, and
+    # stay authoritative - the `@<line> old -> new` fixes in
+    # transcription_decisions.csv, the `line` on every mention in
+    # corpus/index/people.json, and the scan pairing are all keyed to them, and
+    # a document's first line moves whenever a document before it gains or
+    # loses one. So this is derived and additional, never a replacement.
+    if out:
+        base = out[0]['line_start'] - 1
+        for pg in out:
+            pg['doc_line_start'] = pg['line_start'] - base
+            pg['doc_line_end'] = pg['line_end'] - base
     return out

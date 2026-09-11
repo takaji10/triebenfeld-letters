@@ -59,7 +59,9 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 45
   },
   {
    "page": 2,
@@ -90,7 +92,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 47,
+   "doc_line_end": 85
   },
   {
    "page": 3,
@@ -118,7 +122,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 87,
+   "doc_line_end": 125
   },
   {
    "page": 4,
@@ -138,7 +144,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 127,
+   "doc_line_end": 156
   },
   {
    "page": 5,
@@ -155,7 +163,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 158,
+   "doc_line_end": 163
   },
   {
    "page": 6,
@@ -171,7 +181,9 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 165,
+   "doc_line_end": 178
   }
  ],
  "mentions": [

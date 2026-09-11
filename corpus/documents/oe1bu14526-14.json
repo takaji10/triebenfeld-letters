@@ -50,7 +50,9 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 35
   },
   {
    "page": 2,
@@ -68,7 +70,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 37,
+   "doc_line_end": 71
   },
   {
    "page": 3,
@@ -85,7 +89,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 73,
+   "doc_line_end": 107
   },
   {
    "page": 4,
@@ -103,7 +109,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 109,
+   "doc_line_end": 140
   },
   {
    "page": 5,
@@ -122,7 +130,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 142,
+   "doc_line_end": 175
   },
   {
    "page": 6,
@@ -140,7 +150,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 177,
+   "doc_line_end": 211
   },
   {
    "page": 7,
@@ -157,7 +169,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 213,
+   "doc_line_end": 247
   },
   {
    "page": 8,
@@ -175,7 +189,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 249,
+   "doc_line_end": 283
   },
   {
    "page": 9,
@@ -195,7 +211,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 285,
+   "doc_line_end": 318
   },
   {
    "page": 10,
@@ -213,7 +231,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 320,
+   "doc_line_end": 355
   },
   {
    "page": 11,
@@ -229,7 +249,9 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 357,
+   "doc_line_end": 389
   },
   {
    "page": 12,
@@ -245,7 +267,9 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": ""
+   "scan": "",
+   "doc_line_start": 391,
+   "doc_line_end": 406
   }
  ],
  "mentions": [
