@@ -29,6 +29,28 @@
         </select>
       </label>
       {% endif %}
+      {%- comment -%}
+        Era is shown only once more than one era actually holds documents.
+        A select with a single option is furniture, not a filter.
+      {%- endcomment -%}
+      {%- assign era_n = 0 -%}
+      {%- for e in site.data.eras -%}{%- if e.count > 0 -%}{%- assign era_n = era_n | plus: 1 -%}{%- endif -%}{%- endfor -%}
+      {% if era_n > 1 %}
+      <label><span>{{ t.f_era }}</span>
+        <select id="era"><option value="">{{ t.f_anyera }}</option>
+        {% for e in site.data.eras %}{% if e.count > 0 %}<option value="{{ e.slug }}">{% if lang == 'de' %}{{ e.label_de }}{% else %}{{ e.label_en }}{% endif %} ({{ e.count }})</option>{% endif %}{% endfor %}
+        </select>
+      </label>
+      {% endif %}
+      {%- assign theme_n = 0 -%}
+      {%- for th in site.data.themes -%}{%- if th.count > 0 -%}{%- assign theme_n = theme_n | plus: 1 -%}{%- endif -%}{%- endfor -%}
+      {% if theme_n > 0 %}
+      <label><span>{{ t.f_theme }}</span>
+        <select id="theme"><option value="">{{ t.f_anytheme }}</option>
+        {% for th in site.data.themes %}{% if th.count > 0 %}<option value="{{ th.slug }}">{% if lang == 'de' %}{{ th.label_de }}{% else %}{{ th.label_en }}{% endif %} ({{ th.count }})</option>{% endif %}{% endfor %}
+        </select>
+      </label>
+      {% endif %}
       <label><span>{{ t.f_year }}</span>
         <select id="year"><option value="">{{ t.f_any }}</option>
         {% for y in site.data.stats.years %}<option value="{{ y.year }}">{{ y.year }} ({{ y.count }})</option>{% endfor %}

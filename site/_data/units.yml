@@ -2,8 +2,12 @@
 - slug: "oe1bu14526"
   ref: "Oe 1 Bü 14526"
   archive: "Hohenloher Zentralarchiv Neuenstein (HZAN)"
-  title: "Originals and vidimated copies of the deeds of sale and hereditary lease over the South Prussian estates donated to Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
-  description: "Not correspondence but title deeds. Thirty-two contract packages recording how the Fürst sold off and let out the South Prussian estates given to him by Friedrich Wilhelm II in 1796 - purchase contracts, hereditary-lease contracts, powers of attorney, royal confirmations and the notarial attestations that bind them together. Trąbczyn, Betsche, Kolno and Kaemen, Zagorowo and Witow. The volume's own title page calls it Originalia et Copiae vidimatae, and much of it is exactly that: several instruments survive here in two copies, which is what lets one settle the other's damaged readings."
+  title: "Originals and vidimated copies of the deeds of sale and hereditary lease over the South Prussian estates donated to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen"
+  description: "Not correspondence but title deeds. Thirty contract packages recording how the Prince sold off and let out the South Prussian estates given to him by Friedrich Wilhelm II in 1796 - purchase contracts, hereditary-lease contracts, powers of attorney, royal confirmations and the notarial attestations that bind them together. Trąbczyn, Betsche, Kolno and Kaemen, Zagorowo and Witow. The volume's own title page calls it Originalia et Copiae vidimatae, and much of it is exactly that: several instruments survive here in two copies, which is what lets one settle the other's damaged readings."
+  title_de: ""
+  description_de: ""
+  repository: "hzan-neuenstein"
+  era: "hohenlohe"
   count: 30
   pages: 287
   first: "1798-10-01"
@@ -11,8 +15,12 @@
 - slug: "oe1bu9454"
   ref: "Oe 1 Bü 9454"
   archive: "Hohenloher Zentralarchiv Neuenstein (HZAN)"
-  title: "Correspondence of Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen with Kriegs- und Forstrath von Triebenfeld"
+  title: "Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with Kriegs- und Forstrath von Triebenfeld"
   description: "The main correspondence file. Eighteen years of letters from the estate agent Peter Friedrich von Triebenfeld to his employer, with enclosures, legal instruments and copies of correspondence with third parties."
+  title_de: ""
+  description_de: ""
+  repository: "hzan-neuenstein"
+  era: "hohenlohe"
   count: 318
   pages: 869
   first: "1798-04-01"

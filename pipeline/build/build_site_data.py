@@ -462,6 +462,14 @@ def main():
             f.write(f'  archive: {yaml_str(u.get("archive", ""))}\n')
             f.write(f'  title: {yaml_str((u.get("title") or "").strip())}\n')
             f.write(f'  description: {yaml_str((u.get("description") or "").strip())}\n')
+            # German where a holding has it, empty where it does not. The
+            # sources page printed the English description on /de/quellen/ with
+            # nothing to mark it, which reads as a translation that happens to
+            # be in the wrong language rather than one not yet made.
+            f.write(f'  title_de: {yaml_str((u.get("title_de") or "").strip())}\n')
+            f.write(f'  description_de: {yaml_str((u.get("description_de") or "").strip())}\n')
+            f.write(f'  repository: {yaml_str(u.get("repository") or "")}\n')
+            f.write(f'  era: {yaml_str(u.get("era") or "")}\n')
             f.write(f'  count: {n}\n')
             f.write(f'  pages: {pages}\n')
             f.write(f'  first: {yaml_str(min(dated) if dated else "")}\n')

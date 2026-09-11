@@ -134,6 +134,7 @@ en:
   manuscript_pages: manuscript pages
   archival_lines: archival lines
   doc_lines: lines
+  desc_en_only: This holding’s description has not been translated yet.
   people_named: People named
   duplicate: Duplicate
   part_of: Part of
@@ -205,6 +206,10 @@ en:
   sources_span: Span
   sources_browse: Browse this holding
   f_unit: Holding
+  f_era: Era
+  f_anyera: All eras
+  f_theme: Theme
+  f_anytheme: All themes
   f_allunits: All holdings
   doc_one: document
   doc_many: documents
@@ -357,6 +362,7 @@ de:
   manuscript_pages: Handschriftenseiten
   archival_lines: Archivzeilen
   doc_lines: Zeilen
+  desc_en_only: Die Beschreibung dieses Bestandes liegt noch nicht auf Deutsch vor.
   people_named: Genannte Personen
   duplicate: Doppelstück
   part_of: Teil von
@@ -432,6 +438,10 @@ de:
   sources_span: Zeitraum
   sources_browse: Diesen Bestand durchsuchen
   f_unit: Bestand
+  f_era: Epoche
+  f_anyera: Alle Epochen
+  f_theme: Thema
+  f_anytheme: Alle Themen
   f_allunits: Alle Bestände
   doc_one: Dokument
   doc_many: Dokumente

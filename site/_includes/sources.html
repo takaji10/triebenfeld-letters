@@ -10,7 +10,9 @@
     <section class="source" id="{{ u.slug }}">
       <h2>{{ u.ref }}</h2>
       <p class="source-archive">{{ u.archive }}</p>
-      {% if u.title %}<p class="source-title">{{ u.title }}</p>{% endif %}
+      {%- assign u_title = u.title -%}
+      {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
+      {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}
 
       <dl class="source-facts">
         <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
@@ -20,7 +22,19 @@
         {% endif %}
       </dl>
 
-      {% if u.description %}<p>{{ u.description }}</p>{% endif %}
+      {%- comment -%}
+        German where the holding has it. Where it does not, the English is
+        shown and SAID to be English, rather than sitting on a German page
+        looking like a translation someone botched.
+      {%- endcomment -%}
+      {% if lang == "de" and u.description_de != "" %}
+        <p>{{ u.description_de }}</p>
+      {% elsif lang == "de" and u.description %}
+        <p lang="en">{{ u.description }}</p>
+        <p class="muted"><small>{{ t.desc_en_only }}</small></p>
+      {% elsif u.description %}
+        <p>{{ u.description }}</p>
+      {% endif %}
 
       <p class="source-go">
         <a href="{{ u_browse | relative_url }}?unit={{ u.slug }}">{{ t.sources_browse }}</a>

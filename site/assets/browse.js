@@ -48,6 +48,8 @@
 
   function matches(item, f) {
     if (f.unit && item.unit !== f.unit) return false;
+    if (f.era && item.era !== f.era) return false;
+    if (f.theme && (item.themes || []).indexOf(f.theme) === -1) return false;
     if (f.year && item.year !== f.year) return false;
     if (f.person && item.people.indexOf(f.person) === -1) return false;
     if (f.place && item.place !== f.place) return false;
@@ -150,16 +152,20 @@
   }
 
   function init() {
-    ['q', 'unit', 'year', 'person', 'place', 'flag', 'order', 'count', 'results', 'empty', 'reset']
+    ['q', 'unit', 'era', 'theme', 'year', 'person', 'place', 'flag', 'order', 'count', 'results', 'empty', 'reset']
       .forEach(function (k) { els[k] = $(k); });
 
-    // The timeline links here with ?year=, and a holding's page with ?unit=.
-    // Seed the controls from the query string so those links actually arrive
-    // somewhere; a value the select does not offer is ignored rather than
-    // silently filtering everything away.
+    // The timeline links here with ?year=, a holding's page with ?unit=, and an
+    // era or a person with their own. Seed the controls from the query string so
+    // those links arrive somewhere; a value the select does not offer is ignored
+    // rather than silently filtering everything away.
+    //
+    // person and place were NOT seedable, which is why the people index could
+    // only ever link to an anchor on its own page. With them here,
+    // /documents/?person=<slug> is a URL worth sending someone.
     try {
       var qs = new URLSearchParams(window.location.search);
-      ['unit', 'year'].forEach(function (k) {
+      ['unit', 'era', 'theme', 'year', 'person', 'place'].forEach(function (k) {
         var v = qs.get(k);
         if (!v || !els[k]) return;
         var ok = Array.prototype.some.call(els[k].options, function (o) { return o.value === v; });
@@ -190,13 +196,15 @@
       });
 
     els.q.addEventListener('input', debounce(render, 120));
-    ['unit', 'year', 'person', 'place', 'flag', 'order'].forEach(function (k) {
+    ['unit', 'era', 'theme', 'year', 'person', 'place', 'flag', 'order'].forEach(function (k) {
       if (els[k]) els[k].addEventListener('change', render);
     });
     els.reset.addEventListener('click', function () {
       els.q.value = ''; els.year.value = ''; els.person.value = '';
       els.place.value = ''; els.flag.value = ''; els.order.value = 'chrono';
       if (els.unit) els.unit.value = '';
+      if (els.era) els.era.value = '';
+      if (els.theme) els.theme.value = '';
       render();
     });
     $('filters').addEventListener('submit', function (e) { e.preventDefault(); });

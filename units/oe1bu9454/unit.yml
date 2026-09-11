@@ -6,8 +6,14 @@
 slug: oe1bu9454
 ref: Oe 1 Bü 9454
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+# The archive's own finding-aid title, in English. "Kriegs- und Forstrath" is
+# the catalogue's wording and is kept: Consistency_Register.md establishes that
+# he was Kriegsrath and NOT Forstrath - a long-s misreading had put him in the
+# wrong institutional chain - but correcting a catalogue title inside a citation
+# would misrepresent the finding aid. The correction belongs in the register and
+# in the termbase, and both carry it.
 title: >-
-  Correspondence of Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen with
+  Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with
   Kriegs- und Forstrath von Triebenfeld
 date_span: 1798-1816
 status: published          # draft | transcribed | translated | published

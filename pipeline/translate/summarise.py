@@ -38,7 +38,19 @@ import sys
 _KEEP.append(sys.stdout)
 sys.stdout = _STDOUT
 
+# Which translations to summarise from. A summary describes the English, so
+# it has to be written from the English that is actually going to be
+# published - and translate.py writes a re-run to cache/translation-raw-<tag>
+# so the previous pass survives. Without --tag here, a re-summarising run
+# reads the superseded cache and produces summaries of text nobody will see.
 RAW = os.path.join(ROOT, 'cache', 'translation-raw')
+
+
+def set_translation_tag(tag):
+    global RAW
+    RAW = os.path.join(ROOT, 'cache', 'translation-raw' + (f'-{tag}' if tag else ''))
+    if not os.path.isdir(RAW):
+        raise SystemExit(f'no translations at {RAW}')
 MAX_TOKENS = 600
 
 # --lang de writes a parallel set. The German summary is written from the same
@@ -242,9 +254,22 @@ def main():
     ap.add_argument('--dry-run', action='store_true')
     ap.add_argument('--model', default=None)
     ap.add_argument('--lang', default='en', choices=sorted(LANGS))
+    ap.add_argument('--tag', default=None,
+                    help='summarise from cache/translation-raw-<tag>, the way '
+                         'translate.py and check_translations.py use --tag')
+    ap.add_argument('--redo', default='',
+                    help='comma-separated pads to re-summarise, discarding the '
+                         'cached summary for each')
     a = ap.parse_args()
     set_unit(unitlib.resolve_unit(a.unit))
     set_lang(a.lang)
+    set_translation_tag(a.tag)
+    for pad in [x.strip() for x in a.redo.split(',') if x.strip()]:
+        f = os.path.join(OUT, pad + '.json')
+        if os.path.isfile(f):
+            os.remove(f)
+    if a.redo:
+        print(f'cleared {len(a.redo.split(","))} cached summary/summaries')
 
     if a.build:
         build()
