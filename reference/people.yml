@@ -359,8 +359,24 @@ people:
   michaelis:
     display: "Michaelis"
     match: "Michaelis"
-    tier: "Context-inferred"
+    tier: "Context-inferred (roles named), individuals not separated"
+    identity: >-
+      Named in three roles across the corpus: der Kaufmann Michaelis (the
+      merchant, who supplies iron and advances money), der Hof Fiscal
+      Michaelis, and Christiane Dorothea Michaelis geborene Eichborn, the
+      widowed chief district councillor's wife, who appears in the Erbpacht
+      contracts as a mortgage creditor.
     variants: []
+    open_questions:
+      - "Three roles, one surname, and nothing yet establishes whether they
+         are one person, two, or three. The merchant and the Hof Fiscal both
+         deal in money and could be the same man in two capacities;
+         Christiane Dorothea is separately identified and is at least a
+         different individual."
+      - "Michaelis is ALSO the feast of 29 September, and 8 of the 38
+         occurrences are that. The termbase matches the feast only after a
+         preposition; an unguarded pattern instructed the translation to
+         render this man as Michaelmas."
   mlynkiewicz:
     display: "Matheus Młynkiewicz"
     match: "Młynkiewicz"

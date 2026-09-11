@@ -629,11 +629,18 @@ terms:
   # The English names chosen are the ones an English legal or estate document
   # of the period uses, which is also the majority rendering the batch reached
   # for on its own in three of the five cases.
-  - term: Michaelis                        # 36 in corpus
-    pattern: '\bMichael(is|i|e)\b|\bMichaelmas\b'
+  - term: Michaelis                        # 38 in corpus, but only 8 are the feast
+    pattern: '(?<=\b)(?:bis|zu|um|von|auf|seit|nach|vor|gegen|in|Termino)\s+(?:zu\s+)?Michael(is|i)\b'
     policy: translate
     render: 'Michaelmas'
-    gloss: '29 September. NOT left as Michaelis, and not "Michael" - the quarter day has an English name.'
+    gloss: >-
+      29 September, and matched ONLY in the date sense - after a preposition.
+      Michaelis is also a surname here, and mostly that: der Kaufmann
+      Michaelis, der Hof Fiscal Michaelis, Christiane Dorothea Michaelis
+      geborene Eichborn. 30 of the 38 occurrences are the person, who has
+      had an entry in reference/people.yml all along. A bare pattern told
+      the translator to render a merchant as a feast day, and told the
+      checker that every page naming him had left German standing.
   - term: Johannis                         # 19 in corpus
     pattern: '\bJohannis\b|\bJohanni\b'
     policy: translate
