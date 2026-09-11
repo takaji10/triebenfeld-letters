@@ -1012,6 +1012,12 @@ latin_terms:
 # with the Court Summoner. A rule with no `when` is unconditional, and should
 # only be written for a string that could not arise any other way.
 forbidden_renders:
+  - render: 'zu Hohenlohe'
+    note: >-
+      the particle is translated with the title: Prince OF
+      Hohenlohe-Ingelfingen, never Prince zu. Unconditional, because there is
+      no English sentence in which the German particle is the right answer.
+      The current translations carry none; this keeps it that way.
   - render: 'chestnut'
     when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|\bcastane\w*'
     note: 'hypocaustum misread. The table stands in the heated room, not on a chestnut.'
