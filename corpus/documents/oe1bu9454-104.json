@@ -49,7 +49,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0215_b-L104_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 17
   },
@@ -68,7 +68,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0216_a1-L104_02.jpg",
    "doc_line_start": 18,
    "doc_line_end": 38
   },
@@ -90,7 +90,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0216_a2-L104_03.jpg",
    "doc_line_start": 39,
    "doc_line_end": 66
   }
@@ -103,6 +103,7 @@
    "surface": "Schlabrendorff",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0216_a1-L104_02.jpg",
    "line": 8195,
    "doc_line": 33
   },
@@ -113,6 +114,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0216_a2-L104_03.jpg",
    "line": 8229,
    "doc_line": 66
   }

@@ -56,7 +56,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 33
   },
@@ -74,7 +74,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
    "doc_line_start": 34,
    "doc_line_end": 62
   },
@@ -94,7 +94,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
    "doc_line_start": 63,
    "doc_line_end": 91
   },
@@ -117,7 +117,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
    "doc_line_start": 92,
    "doc_line_end": 133
   }
@@ -130,6 +130,7 @@
    "surface": "Lombardin",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
    "line": 20426,
    "doc_line": 37
   },
@@ -140,6 +141,7 @@
    "surface": "Beugelin",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
    "line": 20427,
    "doc_line": 38
   },
@@ -150,6 +152,7 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
    "line": 20468,
    "doc_line": 78
   },
@@ -160,6 +163,7 @@
    "surface": "Pourtal",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
    "line": 20506,
    "doc_line": 115
   },
@@ -170,6 +174,7 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
    "line": 20509,
    "doc_line": 118
   },
@@ -180,6 +185,7 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
    "line": 20524,
    "doc_line": 133
   }

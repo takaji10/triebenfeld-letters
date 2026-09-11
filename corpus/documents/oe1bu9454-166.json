@@ -50,7 +50,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0312_a2-L166_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 19
   },
@@ -74,7 +74,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0313_a1-L166_02.jpg",
    "doc_line_start": 20,
    "doc_line_end": 42
   },
@@ -93,7 +93,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0313_a2-L166_03.jpg",
    "doc_line_start": 43,
    "doc_line_end": 65
   },
@@ -119,7 +119,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0314_a-L166_04.jpg",
    "doc_line_start": 66,
    "doc_line_end": 96
   }
@@ -132,6 +132,7 @@
    "surface": "Voss",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0312_a2-L166_01.jpg",
    "line": 11684,
    "doc_line": 5
   },
@@ -142,6 +143,7 @@
    "surface": "Schenck",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0314_a-L166_04.jpg",
    "line": 11767,
    "doc_line": 85
   },
@@ -152,6 +154,7 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0314_a-L166_04.jpg",
    "line": 11778,
    "doc_line": 96
   }

@@ -49,7 +49,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0114_b-L60_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 24
   },
@@ -69,7 +69,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0115_a1-L60_02.jpg",
    "doc_line_start": 25,
    "doc_line_end": 53
   },
@@ -89,7 +89,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0115_a2-L60_03.jpg",
    "doc_line_start": 54,
    "doc_line_end": 81
   },
@@ -113,7 +113,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0116_a-L60_04.jpg",
    "doc_line_start": 82,
    "doc_line_end": 98
   }
@@ -126,6 +126,7 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0114_b-L60_01.jpg",
    "line": 4540,
    "doc_line": 6
   },
@@ -136,6 +137,7 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0115_a1-L60_02.jpg",
    "line": 4578,
    "doc_line": 43
   },
@@ -146,6 +148,7 @@
    "surface": "Honrichs",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0115_a1-L60_02.jpg",
    "line": 4579,
    "doc_line": 44
   },
@@ -156,6 +159,7 @@
    "surface": "Grävenitz",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0115_a2-L60_03.jpg",
    "line": 4590,
    "doc_line": 54
   },
@@ -166,6 +170,7 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0115_a2-L60_03.jpg",
    "line": 4590,
    "doc_line": 54
   },
@@ -176,6 +181,7 @@
    "surface": "Lombardin",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0115_a2-L60_03.jpg",
    "line": 4615,
    "doc_line": 79
   },
@@ -186,6 +192,7 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0116_a-L60_04.jpg",
    "line": 4632,
    "doc_line": 95
   },
@@ -196,6 +203,7 @@
    "surface": "August",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0116_a-L60_04.jpg",
    "line": 4634,
    "doc_line": 97
   }

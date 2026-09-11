@@ -54,7 +54,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0103_b-L17_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 18
   },
@@ -72,7 +72,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0104_a1-L17_02.jpg",
    "doc_line_start": 19,
    "doc_line_end": 37
   },
@@ -94,7 +94,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0104_a2-L17_03.jpg",
    "doc_line_start": 38,
    "doc_line_end": 57
   },
@@ -114,7 +114,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0105_a1-L17_04.jpg",
    "doc_line_start": 58,
    "doc_line_end": 77
   },
@@ -134,7 +134,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0105_a2-L17_05.jpg",
    "doc_line_start": 78,
    "doc_line_end": 96
   },
@@ -154,7 +154,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0106_a1-L17_06.jpg",
    "doc_line_start": 97,
    "doc_line_end": 117
   },
@@ -176,7 +176,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0106_a2-L17_07.jpg",
    "doc_line_start": 118,
    "doc_line_end": 138
   },
@@ -196,7 +196,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0107_a1-L17_08.jpg",
    "doc_line_start": 139,
    "doc_line_end": 157
   },
@@ -219,7 +219,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0107_a2-L17_09.jpg",
    "doc_line_start": 158,
    "doc_line_end": 176
   },
@@ -240,7 +240,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0108_a1-L17_10.jpg",
    "doc_line_start": 177,
    "doc_line_end": 200
   }
@@ -253,6 +253,7 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0103_b",
+   "scan": "Oe_1_Bu_14526_0103_b-L17_01.jpg",
    "line": 5533,
    "doc_line": 5
   },
@@ -263,6 +264,7 @@
    "surface": "Hohenlohe",
    "page": 10,
    "page_id": "0108_a1",
+   "scan": "Oe_1_Bu_14526_0108_a1-L17_10.jpg",
    "line": 5728,
    "doc_line": 191
   }

@@ -51,7 +51,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0300_a2-L158_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 19
   },
@@ -70,7 +70,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0301_a1-L158_02.jpg",
    "doc_line_start": 20,
    "doc_line_end": 40
   },
@@ -89,7 +89,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0301_a2-L158_03.jpg",
    "doc_line_start": 41,
    "doc_line_end": 62
   },
@@ -113,7 +113,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0302_a1-L158_04.jpg",
    "doc_line_start": 63,
    "doc_line_end": 87
   }
@@ -126,6 +126,7 @@
    "surface": "Köckritz",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0300_a2-L158_01.jpg",
    "line": 11173,
    "doc_line": 4
   },
@@ -136,6 +137,7 @@
    "surface": "Meyer",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0301_a1-L158_02.jpg",
    "line": 11192,
    "doc_line": 22
   },
@@ -146,6 +148,7 @@
    "surface": "Schlabrendorff",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0301_a2-L158_03.jpg",
    "line": 11213,
    "doc_line": 42
   },
@@ -156,6 +159,7 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a1-L158_04.jpg",
    "line": 11259,
    "doc_line": 87
   }

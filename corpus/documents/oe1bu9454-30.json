@@ -48,7 +48,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0053_b-L30_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 28
   },
@@ -67,7 +67,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0054_a1-L30_02.jpg",
    "doc_line_start": 29,
    "doc_line_end": 53
   },
@@ -89,7 +89,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
    "doc_line_start": 54,
    "doc_line_end": 79
   }
@@ -102,6 +102,7 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0053_b-L30_01.jpg",
    "line": 1947,
    "doc_line": 15
   },
@@ -112,6 +113,7 @@
    "surface": "Napoleon",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a1-L30_02.jpg",
    "line": 1965,
    "doc_line": 32
   },
@@ -122,6 +124,7 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a1-L30_02.jpg",
    "line": 1970,
    "doc_line": 37
   },
@@ -132,6 +135,7 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a1-L30_02.jpg",
    "line": 1982,
    "doc_line": 49
   },
@@ -142,6 +146,7 @@
    "surface": "Eysenhardt",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a1-L30_02.jpg",
    "line": 1986,
    "doc_line": 53
   },
@@ -152,6 +157,7 @@
    "surface": "Zastrow",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
    "line": 1999,
    "doc_line": 65
   },
@@ -162,6 +168,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
    "line": 2010,
    "doc_line": 76
   }

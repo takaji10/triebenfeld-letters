@@ -49,7 +49,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0045_a-L26_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 20
   },
@@ -69,7 +69,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
    "doc_line_start": 21,
    "doc_line_end": 43
   },
@@ -93,7 +93,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0046_a2-L26_03.jpg",
    "doc_line_start": 44,
    "doc_line_end": 70
   }
@@ -106,6 +106,7 @@
    "surface": "Stein",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0045_a-L26_01.jpg",
    "line": 1698,
    "doc_line": 10
   },
@@ -116,6 +117,7 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
    "line": 1716,
    "doc_line": 27
   },
@@ -126,6 +128,7 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
    "line": 1724,
    "doc_line": 35
   },
@@ -136,6 +139,7 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
    "line": 1730,
    "doc_line": 41
   },
@@ -146,6 +150,7 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
    "line": 1731,
    "doc_line": 42
   },
@@ -156,6 +161,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a2-L26_03.jpg",
    "line": 1760,
    "doc_line": 70
   }

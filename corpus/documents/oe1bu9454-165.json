@@ -48,7 +48,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0311_b-L165_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 15
   },
@@ -70,7 +70,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0312_a1-L165_02.jpg",
    "doc_line_start": 16,
    "doc_line_end": 32
   }
@@ -83,6 +83,7 @@
    "surface": "Glenck",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0311_b-L165_01.jpg",
    "line": 11648,
    "doc_line": 4
   },
@@ -93,6 +94,7 @@
    "surface": "Bernhardi",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0312_a1-L165_02.jpg",
    "line": 11662,
    "doc_line": 17
   }

@@ -51,7 +51,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0077_b-L42_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 20
   },
@@ -69,7 +69,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
    "doc_line_start": 21,
    "doc_line_end": 41
   },
@@ -93,7 +93,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0078_a2-L42_03.jpg",
    "doc_line_start": 42,
    "doc_line_end": 66
   },
@@ -113,7 +113,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0079_a-L42_04.jpg",
    "doc_line_start": 67,
    "doc_line_end": 88
   },
@@ -132,7 +132,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0079_b-L42_05.jpg",
    "doc_line_start": 89,
    "doc_line_end": 109
   },
@@ -153,7 +153,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0080_a1-L42_06.jpg",
    "doc_line_start": 110,
    "doc_line_end": 130
   },
@@ -177,7 +177,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0080_a2-L42_07.jpg",
    "doc_line_start": 131,
    "doc_line_end": 154
   }
@@ -190,6 +190,7 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
    "line": 3084,
    "doc_line": 24
   },
@@ -200,6 +201,7 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
    "line": 3086,
    "doc_line": 26
   },
@@ -210,6 +212,7 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
    "line": 3087,
    "doc_line": 27
   },
@@ -220,6 +223,7 @@
    "surface": "Hecker",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
    "line": 3099,
    "doc_line": 39
   },
@@ -230,6 +234,7 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0078_a2-L42_03.jpg",
    "line": 3108,
    "doc_line": 47
   },
@@ -240,6 +245,7 @@
    "surface": "Lahr",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0079_a-L42_04.jpg",
    "line": 3147,
    "doc_line": 85
   },
@@ -250,6 +256,7 @@
    "surface": "Oppenheimer",
    "page": 5,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0079_b-L42_05.jpg",
    "line": 3172,
    "doc_line": 109
   },
@@ -260,6 +267,7 @@
    "surface": "Sacken",
    "page": 7,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0080_a2-L42_07.jpg",
    "line": 3209,
    "doc_line": 144
   },
@@ -270,6 +278,7 @@
    "surface": "Triebenfeld",
    "page": 7,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0080_a2-L42_07.jpg",
    "line": 3219,
    "doc_line": 154
   }

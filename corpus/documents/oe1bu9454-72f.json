@@ -49,7 +49,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0150_a-L72f_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 23
   },
@@ -67,7 +67,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0151_a1-L72f_02.jpg",
    "doc_line_start": 24,
    "doc_line_end": 46
   },
@@ -85,7 +85,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0151_a2-L72f_03.jpg",
    "doc_line_start": 47,
    "doc_line_end": 67
   },
@@ -109,7 +109,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0152_a-L72f_04.jpg",
    "doc_line_start": 68,
    "doc_line_end": 93
   }
@@ -122,6 +122,7 @@
    "surface": "Brzechsta",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0151_a2-L72f_03.jpg",
    "line": 5909,
    "doc_line": 49
   },
@@ -132,6 +133,7 @@
    "surface": "Brzechsta",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0151_a2-L72f_03.jpg",
    "line": 5925,
    "doc_line": 65
   },
@@ -142,6 +144,7 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0152_a-L72f_04.jpg",
    "line": 5945,
    "doc_line": 84
   },
@@ -152,6 +155,7 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0152_a-L72f_04.jpg",
    "line": 5954,
    "doc_line": 93
   }

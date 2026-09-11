@@ -52,7 +52,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 20
   },
@@ -73,7 +73,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
    "doc_line_start": 21,
    "doc_line_end": 35
   }
@@ -86,6 +86,7 @@
    "surface": "Asch",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
    "line": 8626,
    "doc_line": 4
   },
@@ -96,6 +97,7 @@
    "surface": "Asch",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
    "line": 8646,
    "doc_line": 23
   },
@@ -106,6 +108,7 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
    "line": 8658,
    "doc_line": 35
   }

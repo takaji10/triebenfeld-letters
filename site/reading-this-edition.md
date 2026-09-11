@@ -84,6 +84,9 @@ time; click it to open full size. In the correspondence, of the 872 images photo
 sheets that are not manuscript pages, and one page of calculation figures deliberately left
 untranscribed.
 
+Each page records which image it was read from, so a reference to a line can be taken
+back to the manuscript.
+
 The images published here are downscaled to 1100 pixels wide, which is enough to read the
 hand. The full-resolution originals, about 1 GB, are held offline as the archival masters.
 

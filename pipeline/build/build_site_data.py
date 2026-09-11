@@ -171,19 +171,16 @@ def yaml_opt(s):
 def load_scan_map():
     """(unit, letter_id, page) -> image filename, across every unit.
 
-    The unit is part of the key because document numbers repeat between units:
-    two holdings can both have a letter 48.
+    Reads it out of the records rather than out of page_scan_map.csv, because
+    build_db now resolves the pairing when it builds the page. This used to be
+    a second, independent read of the same file, which is how the site could
+    show a scan the dataset knew nothing about.
     """
     out = {}
-    for u in UNITS:
-        path = os.path.join(u.dir, 'page_scan_map.csv')
-        if not os.path.isfile(path):
-            print(f'  {u.slug}: no page_scan_map.csv - pages render without scans')
-            continue
-        with open(path, encoding='utf-8-sig', newline='') as f:
-            for row in csv.DictReader(f):
-                if row['letter'] and row['page'] and row['image']:
-                    out[(u.slug, row['letter'], int(row['page']))] = row['image']
+    for r in unitlib.load_documents(ROOT):
+        for p in r.get('pages') or []:
+            if p.get('scan'):
+                out[(r['unit'], r['letter_id'], p['page'])] = p['scan']
     return out
 
 

@@ -58,7 +58,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 33
   },
@@ -78,7 +78,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0039_a1-L23_02.jpg",
    "doc_line_start": 34,
    "doc_line_end": 58
   },
@@ -111,7 +111,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
    "doc_line_start": 59,
    "doc_line_end": 95
   },
@@ -130,7 +130,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0040_a-L23_04.jpg",
    "doc_line_start": 96,
    "doc_line_end": 129
   }
@@ -143,6 +143,7 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
    "line": 1404,
    "doc_line": 14
   },
@@ -153,6 +154,7 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
    "line": 1413,
    "doc_line": 23
   },
@@ -163,6 +165,7 @@
    "surface": "Köckritz",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0039_a1-L23_02.jpg",
    "line": 1436,
    "doc_line": 45
   },
@@ -173,6 +176,7 @@
    "surface": "Leixner",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
    "line": 1451,
    "doc_line": 59
   },
@@ -183,6 +187,7 @@
    "surface": "Hoym",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
    "line": 1462,
    "doc_line": 70
   },
@@ -193,6 +198,7 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
    "line": 1464,
    "doc_line": 72
   },
@@ -203,6 +209,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
    "line": 1487,
    "doc_line": 95
   },
@@ -213,6 +220,7 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0040_a-L23_04.jpg",
    "line": 1500,
    "doc_line": 107
   },
@@ -223,6 +231,7 @@
    "surface": "Honrichs",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0040_a-L23_04.jpg",
    "line": 1502,
    "doc_line": 109
   },
@@ -233,6 +242,7 @@
    "surface": "Lombardin",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0040_a-L23_04.jpg",
    "line": 1519,
    "doc_line": 126
   }

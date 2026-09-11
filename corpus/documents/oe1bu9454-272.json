@@ -47,7 +47,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0495_b-L272_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 20
   },
@@ -65,7 +65,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0496_a1-L272_02.jpg",
    "doc_line_start": 21,
    "doc_line_end": 41
   },
@@ -83,7 +83,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0496_a2-L272_03.jpg",
    "doc_line_start": 42,
    "doc_line_end": 62
   },
@@ -103,7 +103,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0497_a-L272_04.jpg",
    "doc_line_start": 63,
    "doc_line_end": 77
   }
@@ -116,6 +116,7 @@
    "surface": "August",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0495_b-L272_01.jpg",
    "line": 19270,
    "doc_line": 3
   },
@@ -126,6 +127,7 @@
    "surface": "Cosmar",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0496_a2-L272_03.jpg",
    "line": 19312,
    "doc_line": 43
   },
@@ -136,6 +138,7 @@
    "surface": "Emilie",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0496_a2-L272_03.jpg",
    "line": 19315,
    "doc_line": 46
   }

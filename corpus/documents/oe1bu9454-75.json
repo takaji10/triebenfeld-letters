@@ -47,7 +47,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0159_b-L75_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 16
   },
@@ -66,7 +66,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0160_a1-L75_02.jpg",
    "doc_line_start": 17,
    "doc_line_end": 35
   },
@@ -86,7 +86,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
    "doc_line_start": 36,
    "doc_line_end": 50
   }
@@ -99,6 +99,7 @@
    "surface": "Reinhardt",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0159_b-L75_01.jpg",
    "line": 6253,
    "doc_line": 16
   },
@@ -109,6 +110,7 @@
    "surface": "Goldbeck",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a1-L75_02.jpg",
    "line": 6259,
    "doc_line": 21
   },
@@ -119,6 +121,7 @@
    "surface": "Hoym",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a1-L75_02.jpg",
    "line": 6265,
    "doc_line": 27
   },
@@ -129,6 +132,7 @@
    "surface": "Haugwitz",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a1-L75_02.jpg",
    "line": 6272,
    "doc_line": 34
   },
@@ -139,6 +143,7 @@
    "surface": "Haugwitz",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
    "line": 6275,
    "doc_line": 36
   },
@@ -149,6 +154,7 @@
    "surface": "Chełmski",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
    "line": 6277,
    "doc_line": 38
   },
@@ -159,6 +165,7 @@
    "surface": "Grävenitz",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
    "line": 6281,
    "doc_line": 42
   },
@@ -169,6 +176,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
    "line": 6289,
    "doc_line": 50
   }

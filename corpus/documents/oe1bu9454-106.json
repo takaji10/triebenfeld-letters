@@ -50,7 +50,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0219_a-L106_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 17
   },
@@ -69,7 +69,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0220_a1-L106_02.jpg",
    "doc_line_start": 18,
    "doc_line_end": 35
   },
@@ -92,7 +92,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0220_a2-L106_03.jpg",
    "doc_line_start": 36,
    "doc_line_end": 58
   }
@@ -105,6 +105,7 @@
    "surface": "Michaelis",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0219_a-L106_01.jpg",
    "line": 8287,
    "doc_line": 3
   },
@@ -115,6 +116,7 @@
    "surface": "Eysenhardt",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0220_a2-L106_03.jpg",
    "line": 8338,
    "doc_line": 52
   },
@@ -125,6 +127,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0220_a2-L106_03.jpg",
    "line": 8344,
    "doc_line": 58
   }

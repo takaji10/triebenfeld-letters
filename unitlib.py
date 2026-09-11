@@ -19,6 +19,7 @@ unique within its unit, so three fields carry the namespace:
 Keeping letter_id bare is deliberate: every editorial ruling in rulings.yml is
 keyed by it, so those files never have to be re-keyed when a unit is added.
 """
+import csv
 import io
 import json
 import os
@@ -418,3 +419,23 @@ def load_themes():
 
 def load_repositories():
     return load_vocabulary('repositories', 'repositories')
+
+
+def load_scan_map(unit):
+    """{(letter_id, page): image filename} for one unit.
+
+    The pairing of a transcript page to its photograph is established by
+    match_scans.py and reviewed by hand; this is the authority for it. Read here
+    rather than in each script that wants it, because four of them did, and the
+    page record itself carried an empty `scan` field the whole time - so the
+    dataset could say which line a name sits on and not which image to look at.
+    """
+    path = os.path.join(unit.dir, 'page_scan_map.csv')
+    if not os.path.isfile(path):
+        return {}
+    out = {}
+    with open(path, encoding='utf-8-sig', newline='') as f:
+        for row in csv.DictReader(f):
+            if row.get('letter') and row.get('page') and row.get('image'):
+                out[(row['letter'], int(row['page']))] = row['image']
+    return out

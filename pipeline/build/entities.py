@@ -170,6 +170,9 @@ def _mentions(rec, authority, kind):
                         'surface': m.group(0),
                         'page': p['page'],
                         'page_id': p.get('page_id', ''),
+                        # the image, so a citation resolves to the manuscript
+                        # without a second file and a guess at the filename
+                        'scan': p.get('scan', ''),
                         # `line` is the unit-absolute line, the key the tooling
                         # and the transcription decisions use. `doc_line` is
                         # what the site shows - numbered from 1 in each

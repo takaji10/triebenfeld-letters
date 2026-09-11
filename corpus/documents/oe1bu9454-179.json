@@ -52,7 +52,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0336_a2-L179_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 22
   },
@@ -74,7 +74,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0337_a1-L179_02.jpg",
    "doc_line_start": 23,
    "doc_line_end": 48
   },
@@ -94,7 +94,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0337_a2-L179_03.jpg",
    "doc_line_start": 49,
    "doc_line_end": 70
   },
@@ -112,7 +112,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0338_a-L179_04.jpg",
    "doc_line_start": 71,
    "doc_line_end": 94
   },
@@ -132,7 +132,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0338_b-L179_05.jpg",
    "doc_line_start": 95,
    "doc_line_end": 121
   },
@@ -150,7 +150,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0339_a1-L179_06.jpg",
    "doc_line_start": 122,
    "doc_line_end": 147
   },
@@ -169,7 +169,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0339_a2-L179_07.jpg",
    "doc_line_start": 148,
    "doc_line_end": 175
   },
@@ -196,7 +196,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0340_a-L179_08.jpg",
    "doc_line_start": 176,
    "doc_line_end": 209
   }
@@ -209,6 +209,7 @@
    "surface": "Honrichs",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0336_a2-L179_01.jpg",
    "line": 12627,
    "doc_line": 15
   },
@@ -219,6 +220,7 @@
    "surface": "Stein",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0337_a1-L179_02.jpg",
    "line": 12646,
    "doc_line": 33
   },
@@ -229,6 +231,7 @@
    "surface": "Voss",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0337_a1-L179_02.jpg",
    "line": 12648,
    "doc_line": 35
   },
@@ -239,6 +242,7 @@
    "surface": "Schulenburg",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0337_a1-L179_02.jpg",
    "line": 12649,
    "doc_line": 36
   },
@@ -249,6 +253,7 @@
    "surface": "Pochammer",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0337_a2-L179_03.jpg",
    "line": 12669,
    "doc_line": 55
   },
@@ -259,6 +264,7 @@
    "surface": "Pochammer",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_a-L179_04.jpg",
    "line": 12686,
    "doc_line": 71
   },
@@ -269,6 +275,7 @@
    "surface": "Pochammer",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_a-L179_04.jpg",
    "line": 12688,
    "doc_line": 73
   },
@@ -279,6 +286,7 @@
    "surface": "Pochammer",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_a-L179_04.jpg",
    "line": 12701,
    "doc_line": 86
   },
@@ -289,6 +297,7 @@
    "surface": "Voss",
    "page": 4,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_a-L179_04.jpg",
    "line": 12708,
    "doc_line": 93
   },
@@ -299,6 +308,7 @@
    "surface": "Glenck",
    "page": 5,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_b-L179_05.jpg",
    "line": 12711,
    "doc_line": 95
   },
@@ -309,6 +319,7 @@
    "surface": "Glenck",
    "page": 5,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_b-L179_05.jpg",
    "line": 12712,
    "doc_line": 96
   },
@@ -319,6 +330,7 @@
    "surface": "Prusimskischen",
    "page": 5,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_b-L179_05.jpg",
    "line": 12722,
    "doc_line": 106
   },
@@ -329,6 +341,7 @@
    "surface": "Glenck",
    "page": 5,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0338_b-L179_05.jpg",
    "line": 12735,
    "doc_line": 119
   },
@@ -339,6 +352,7 @@
    "surface": "Glenck",
    "page": 6,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0339_a1-L179_06.jpg",
    "line": 12744,
    "doc_line": 127
   },
@@ -349,6 +363,7 @@
    "surface": "Schenck",
    "page": 8,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0340_a-L179_08.jpg",
    "line": 12805,
    "doc_line": 186
   },
@@ -359,6 +374,7 @@
    "surface": "Grimm",
    "page": 8,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0340_a-L179_08.jpg",
    "line": 12806,
    "doc_line": 187
   },
@@ -369,6 +385,7 @@
    "surface": "Triebenfeld",
    "page": 8,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0340_a-L179_08.jpg",
    "line": 12828,
    "doc_line": 209
   }

@@ -105,6 +105,7 @@ TWIN            = _R['TWIN']
 NO_DATE         = _R['NO_DATE']
 DOC_TYPE        = _R['DOC_TYPE']
 DOC_LANGUAGE    = _R['DOC_LANGUAGE']
+SCAN_MAP        = unitlib.load_scan_map(UNIT)
 DOC_ERA         = _R['DOC_ERA']
 DOC_THEMES      = _R['DOC_THEMES']
 
@@ -345,6 +346,14 @@ for L in nums:
     pages = build_pages(numbered, L, DECISIONS,
                         is_register=(DOC_TYPE.get(L, 'letter') == 'register'),
                         paras=PARAS)
+    # Which photograph each page is. The field has existed since pages were
+    # first built and was never filled, so everything derived from the record -
+    # the dataset, the per-document JSON, every mention's citation - could say
+    # which line a name sits on and not which image to look at. The site did
+    # its own lookup at HTML-build time, so a reader saw the scan and a reader
+    # of the data did not.
+    for _p in pages:
+        _p['scan'] = SCAN_MAP.get((L, _p['page']), '')
     text_reading = '\n\n'.join(p['reading'] for p in pages if p['reading'])
     missing = text.strip() == '(missing)' or text.strip() == '(skipped)'
     y = m = d = None; prec = 'unknown'; srcv = 'none'; basis = ''; dline = ''

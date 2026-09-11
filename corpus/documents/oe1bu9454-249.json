@@ -49,7 +49,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0461_b-L249_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 20
   },
@@ -73,7 +73,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
    "doc_line_start": 21,
    "doc_line_end": 44
   }
@@ -86,6 +86,7 @@
    "surface": "Humboldt",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0461_b-L249_01.jpg",
    "line": 18001,
    "doc_line": 17
   },
@@ -96,6 +97,7 @@
    "surface": "Gärtner",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0461_b-L249_01.jpg",
    "line": 18004,
    "doc_line": 20
   },
@@ -106,6 +108,7 @@
    "surface": "Metternich",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
    "line": 18011,
    "doc_line": 26
   },
@@ -116,6 +119,7 @@
    "surface": "Göschel",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
    "line": 18021,
    "doc_line": 36
   },
@@ -126,6 +130,7 @@
    "surface": "Gärtner",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
    "line": 18023,
    "doc_line": 38
   },
@@ -136,6 +141,7 @@
    "surface": "Triebenfeld",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
    "line": 18029,
    "doc_line": 44
   }

@@ -49,7 +49,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0125_a-L65_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 24
   },
@@ -70,7 +70,7 @@
    ],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
    "doc_line_start": 25,
    "doc_line_end": 53
   },
@@ -95,7 +95,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
    "doc_line_start": 54,
    "doc_line_end": 83
   }
@@ -108,6 +108,7 @@
    "surface": "Lahr",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0125_a-L65_01.jpg",
    "line": 4997,
    "doc_line": 3
   },
@@ -118,6 +119,7 @@
    "surface": "Lombardin",
    "page": 1,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0125_a-L65_01.jpg",
    "line": 5006,
    "doc_line": 12
   },
@@ -128,6 +130,7 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
    "line": 5035,
    "doc_line": 40
   },
@@ -138,6 +141,7 @@
    "surface": "Zastrow",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
    "line": 5040,
    "doc_line": 45
   },
@@ -148,6 +152,7 @@
    "surface": "Lahr",
    "page": 2,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
    "line": 5046,
    "doc_line": 51
   },
@@ -158,6 +163,7 @@
    "surface": "Lahr",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
    "line": 5050,
    "doc_line": 54
   },
@@ -168,6 +174,7 @@
    "surface": "Sacken",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
    "line": 5076,
    "doc_line": 80
   },
@@ -178,6 +185,7 @@
    "surface": "Triebenfeld",
    "page": 3,
    "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
    "line": 5078,
    "doc_line": 82
   }

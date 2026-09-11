@@ -178,6 +178,8 @@ def main():
             'date_iso': r.get('date_iso') or '', 'date_precision': r.get('date_precision') or '',
             'date_source': r.get('date_source') or '', 'place': place,
             'n_pages': len(r.get('pages') or []), 'n_lines': r.get('n_lines') or 0,
+            'scans': [{'page': p['page'], 'page_id': p.get('page_id', ''),
+                       'image': p.get('scan', '')} for p in (r.get('pages') or [])],
             'uncertainty_count': len(marks), 'has_damage': bool(r.get('has_damage')),
             'mentions': len({m['entity'] for m in ms}),
             'translation_status': doc['translation_status'],
@@ -186,11 +188,19 @@ def main():
             'path': f'documents/{uid}.json', 'text_path': f'text/{uid}.txt',
             'permalink': r['permalink'],
         })
+        # A name as the ENGLISH gives it. There is no line number: the
+        # translation is prose and does not preserve the manuscript's lines. It
+        # does know its page, so page_id and the image come from the record
+        # rather than being left blank - a reader who finds a name in the
+        # English can still be shown the page it was read from.
+        _pg = {p['page']: p for p in (r.get('pages') or [])}
         for m in en_mentions:
             if m['entity']:
+                src = _pg.get(m['page']) or {}
                 people_idx[m['entity']].append({
                     'uid': uid, 'surface': m['surface_en'], 'page': m['page'],
-                    'page_id': '', 'line': 0, 'language': 'en',
+                    'page_id': src.get('page_id', ''), 'scan': src.get('scan', ''),
+                    'line': 0, 'language': 'en',
                 })
         for m in ms:
             # Both numbers. `line` is the unit-absolute one every tool and every
@@ -200,8 +210,8 @@ def main():
             # scheme is turned into the other.
             people_idx[m['entity']].append({
                 'uid': uid, 'surface': m['surface'], 'page': m['page'],
-                'page_id': m['page_id'], 'line': m['line'],
-                'doc_line': m.get('doc_line'),
+                'page_id': m['page_id'], 'scan': m.get('scan', ''),
+                'line': m['line'], 'doc_line': m.get('doc_line'),
             })
         place_idx[place].append(uid)
         if r.get('date_iso'):
@@ -219,7 +229,8 @@ def main():
                 for mk in MARKER.findall(line):
                     unc_idx.append({
                         'uid': uid, 'marker': mk, 'page': p['page'],
-                        'page_id': p.get('page_id', ''), 'line': p['line_start'] + i,
+                        'page_id': p.get('page_id', ''), 'scan': p.get('scan', ''),
+                        'line': p['line_start'] + i,
                         'doc_line': p['doc_line_start'] + i,
                         'context': line.strip()[:120],
                     })

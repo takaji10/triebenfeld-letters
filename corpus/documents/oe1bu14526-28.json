@@ -48,7 +48,7 @@
    ],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0163_a2-L28_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 26
   },
@@ -69,7 +69,7 @@
    ],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "",
+   "scan": "Oe_1_Bu_14526_0164_a1-L28_02.jpg",
    "doc_line_start": 27,
    "doc_line_end": 42
   }
@@ -82,6 +82,7 @@
    "surface": "Grimm",
    "page": 1,
    "page_id": "0163_a2",
+   "scan": "Oe_1_Bu_14526_0163_a2-L28_01.jpg",
    "line": 7957,
    "doc_line": 1
   },
@@ -92,6 +93,7 @@
    "surface": "Gunter",
    "page": 2,
    "page_id": "0164_a1",
+   "scan": "Oe_1_Bu_14526_0164_a1-L28_02.jpg",
    "line": 7985,
    "doc_line": 28
   },
@@ -102,6 +104,7 @@
    "surface": "Sprengel",
    "page": 2,
    "page_id": "0164_a1",
+   "scan": "Oe_1_Bu_14526_0164_a1-L28_02.jpg",
    "line": 7996,
    "doc_line": 39
   },
@@ -112,6 +115,7 @@
    "surface": "Glenk",
    "page": 2,
    "page_id": "0164_a1",
+   "scan": "Oe_1_Bu_14526_0164_a1-L28_02.jpg",
    "line": 7998,
    "doc_line": 41
   }
