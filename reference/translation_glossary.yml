@@ -339,10 +339,19 @@ terms:
     policy: translate
     render: 'claim'
   - term: Hauländer                         # 4 in corpus
-    pattern: '\bHaul(ä|ae|a)nder\w*|\bHoll(ä|ae)nder\w*|\bOl(ę|e)nd\w*|\bOl(ę|e)der\w*'
+    pattern: '\bHaul(ä|ae|a)nder\w*|\bOl(ę|e)nd\w*|\bOl(ę|e)der\w*'
     policy: keep
     render: 'Hauländer'
-    gloss: 'settler-colonists holding on Dutch-law tenure - NOT "Hollanders", NOT "Dutch settlers"; the same community the Polish sources call Olędrzy. See NEEDS_CONFIRMATION.md section G'
+    gloss: >-
+      settler-colonists holding on Dutch-law tenure - the community the Polish
+      sources call Olędrzy. NOT "Dutch settlers". See NEEDS_CONFIRMATION.md
+      section G.
+      OPEN: letter 207 uses Holländer and Hauländer of apparently the same
+      people, in the same letter, and the translation keeps them apart. This
+      termbase does NOT fold Holländer in, because whether the writer meant
+      one word or two is an editorial question and not one a pattern should
+      answer by accident. Until it is settled, Holländer is left to the
+      translator and "Hollanders" is not a forbidden rendering.
   - term: Indult                            # 2 in corpus
     pattern: '\bIndult\w*'
     policy: translate
@@ -645,7 +654,14 @@ terms:
     pattern: '\bJohannis\b|\bJohanni\b'
     policy: translate
     render: 'Midsummer'
-    gloss: 'the Nativity of St John the Baptist, 24 June. Rendered Midsummer throughout rather than St John, so two leases can be compared.'
+    also: ['St John']
+    gloss: >-
+      the Nativity of St John the Baptist, 24 June. Midsummer is the default,
+      so that two leases stating a rent day can be compared at a glance. But
+      where the German spells the feast out - `auf des Fest Johannis des
+      Taeufers`, in the Posen chapter privilege - the English says the feast
+      of St John the Baptist, because that is what the page says. Forcing
+      Midsummer there would translate away the document's own words.
   - term: Weihnachten                      # 5 in corpus
     pattern: '\bWeihnacht(en|s)?\w*'
     policy: translate
@@ -979,7 +995,5 @@ forbidden_renders:
   - render: 'bailiff'
     when: '\bwo[zź]n\w*|\bministerial(is|es|em)\b'
     note: 'woźny / ministerialis is the Court Summoner. NOT scoped to the word alone: Chief Bailiff is the Oberamtmann, a different office, and stands correctly in eight documents.'
-  - render: 'Hollanders'
-    note: 'Hauländer is kept. The community is not Dutch.'
   - render: 'Dutch settlers'
     note: 'Hauländer is kept - the archive''s central subject must be searchable under one word.'
