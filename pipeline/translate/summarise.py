@@ -85,7 +85,13 @@ is reported, asked for, agreed, conveyed or complained of.
 reader scans a list of documents by, so concrete detail is the whole value: \
 "presses for the sequestration of Zagorowo to be lifted" is useful, "discusses \
 estate business" is not.
-  * Use the names exactly as the translation spells them.
+  * Use the names of people and places exactly as the translation spells them. \
+But write the summary in ENGLISH throughout: a title, rank, office or technical \
+term goes into English even where the translation you are given left it in \
+German. The Fürst zu Hohenlohe-Ingelfingen is the Prince of \
+Hohenlohe-Ingelfingen; the Bürgerschaft are the burgesses; a Herrschaft is a \
+lordship; an Erbpachts-Contract is a hereditary-lease contract. Only Rthl, \
+Groschen, Hufe and Morgen stay as they are.
   * Where the document is largely a financial schedule or a legal instrument, say \
 so and give its subject, its parties and its totals.
   * If the text is too damaged or fragmentary to summarise, say briefly what \

@@ -190,6 +190,13 @@ and are reviewed against the manuscript by a human.
 TERMBASE - use these renderings consistently, in every letter:
 {glossary_table(g)}
 
+PARAGRAPHS - this English is read, not merely consulted:
+  * The German you are given is already divided into paragraphs. Mirror that
+    division: separate the paragraphs of `en` with a BLANK LINE.
+  * Never return a page as one unbroken block where the German has breaks. The
+    first published pass did exactly that and the result was unreadable.
+  * Do not invent breaks the German does not have, and never break a sentence.
+
 Return one segment per manuscript page, in order, using the submit_translation \
 tool. The page count of your answer must equal the page count you were given."""
 
@@ -210,7 +217,11 @@ TOOL = {
                         'page': {'type': 'integer',
                                  'description': 'Manuscript page number as given.'},
                         'en': {'type': 'string',
-                               'description': 'The English translation of this page.'},
+                               'description': 'The English translation of this '
+                                              'page, broken into paragraphs with '
+                                              'a blank line between them, '
+                                              'following the paragraphing of the '
+                                              'German page you were given.'},
                         'confidence': {'type': 'string',
                                        'enum': ['high', 'medium', 'low'],
                                        'description': 'How sound the German was here.'},
@@ -317,7 +328,13 @@ def german_for(rec):
     """
     parts = []
     for p in rec['pages']:
-        body = (p.get('reading') or p.get('diplomatic') or '').strip()
+        # In its paragraphs, where the build found them. The translation is asked
+        # to mirror that structure, so it has to be visible in what the
+        # translator is given - `reading` is one flowed block and hid it, and the
+        # English came back as one block too.
+        paras = [x.strip() for x in (p.get('paragraphs') or []) if x.strip()]
+        body = ('\n\n'.join(paras)
+                or (p.get('reading') or p.get('diplomatic') or '')).strip()
         parts.append(f"=== PAGE {p['page']} ===\n{body}")
     return '\n\n'.join(parts)
 
