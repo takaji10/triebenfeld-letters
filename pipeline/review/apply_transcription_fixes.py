@@ -80,6 +80,19 @@ def record_decisions(slug, sheet):
     return len(keep)
 
 
+def doubles_a_word(before, after):
+    """Did the replacement leave the same word twice in a row?
+
+    A ruling of `nur -> nicht nur` is right about the sense and wrong about the
+    page when the line already reads `nicht nur`: applied, it gives `nicht nicht
+    nur`. The applier cannot know the intent, but it can see the damage.
+    """
+    def doubled(line):
+        ws = [w.lower() for w in re.findall(r"[^\W\d_]+", line)]
+        return any(a == b and len(a) > 1 for a, b in zip(ws, ws[1:]))
+    return doubled(after) and not doubled(before)
+
+
 def occurrences(line, token):
     """How many times `token` stands in `line` as its own run of characters.
 
@@ -210,6 +223,16 @@ def main():
                 else:
                     refused.append((r, trouble))
                 continue
+            spoiled = None
+            for n, old, new in plan:
+                after = replace_once(lines[n - 1], old, new)
+                if doubles_a_word(lines[n - 1], after):
+                    spoiled = (f'{old!r} -> {new!r} would leave a word twice over '
+                               f'on line {n}')
+                    break
+            if spoiled:
+                refused.append((r, spoiled))
+                continue
             for n, old, new in plan:
                 before = lines[n - 1]
                 lines[n - 1] = replace_once(before, old, new)
@@ -257,6 +280,10 @@ def main():
             refused.append((r, trouble))
             continue
 
+        if any(doubles_a_word(lines[i], replace_once(lines[i], old, new))
+               for i, old, new in done):
+            refused.append((r, 'would leave a word twice over'))
+            continue
         for i, old, new in done:
             before = lines[i]
             lines[i] = replace_once(before, old, new)
