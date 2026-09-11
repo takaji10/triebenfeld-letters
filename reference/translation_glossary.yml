@@ -672,6 +672,22 @@ terms:
       Krolikower Holländ, which is where the Hauländer live.
     render: ''
 
+  - term: zu Hohenlohe-Ingelfingen
+    pattern: '\b[vz][ou]n?\s+Hohenlohe(?!sch)\w*'
+    policy: translate
+    render: 'of Hohenlohe'
+    gloss: >-
+      A TERRITORIAL particle, so it is translated: Friedrich Ludwig of
+      Hohenlohe-Ingelfingen, the Prince of Hohenlohe-Ingelfingen, the Lord of
+      Hohenlohe. Both zu and von, and with or without a title in front.
+      Stated as a rendering and not only as a principle because the principle
+      was not enough: given "dem Herrn von Hohenlohe Durchlauchten" - the
+      particle used exactly as the same sentence uses it for "den Landrath von
+      Schmaling" - the translator twice read it as a surname and kept it.
+      It is NOT a rule about von: von Triebenfeld is a surname and stays, 175
+      times over. The adjectival Hohenlohesche is excluded, being the Princely
+      Hohenlohe court rather than a person of anywhere.
+
   # --- quarter days ------------------------------------------------------
   # Rents, leases and instalments in these documents fall due on feast days,
   # not on calendar dates, so these are load-bearing terms and not colour: a
