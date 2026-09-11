@@ -46,8 +46,18 @@ house_style: |
   Period-faithful but readable English. Keep the deference structure intact -
   it carries much of the meaning in this correspondence, where a dependent
   agent writes upward to his prince. Do not flatten the graduated honorifics
-  into modern business politeness. Period vocabulary stands; terms of art keep
-  their German form where English has no true equivalent.
+  into modern business politeness. Period vocabulary stands.
+
+  Terms of art keep their German form ONLY where this termbase says
+  `policy: keep` - Rthl, Hufe, Morgen, Landschaft and the handful like them.
+  Everything else is rendered into English, however technical. A German word
+  left standing in an English sentence is a failure of the translation, not a
+  mark of fidelity: the first published pass left Liebden, Bevollmächtigter,
+  Herrschaft and Bürgerschaft in the English because the rule here used to let
+  the translator decide when English "has no true equivalent", and it decided
+  too readily. Where the German term genuinely matters to a reader, put it in
+  parentheses after the English on first use only - the manorial lordship
+  (Dominium) - and use the English thereafter.
 
 # ---------------------------------------------------------------- currency --
 # The system, verified internally consistent in currency_normalisation_report.md:
@@ -365,6 +375,51 @@ terms:
 # transcribed, because they are also the least reliable part of the
 # transcription and a silently improved one destroys the evidence.
 
+  # Added after the first published pass: each of these reached the English
+  # untranslated, because the house style licensed keeping "terms of art" and
+  # the termbase did not name them.
+  - term: Liebden
+    pattern: '\bLiebden\b'
+    policy: translate
+    render: 'Your Lordship'
+    gloss: "Ew. Liebden - a sovereign's form of address to a prince; never left as Liebden"
+  - term: Bevollmaechtigter
+    pattern: '\bBevollm(ä|ae)chtigt\w*'
+    policy: translate
+    render: 'authorised representative'
+    gloss: 'a General-Bevollmaechtigter is a general attorney or plenipotentiary'
+  - term: Herrschaft
+    pattern: '\bHerrschaft(en)?\b'
+    policy: translate
+    render: 'lordship'
+    gloss: 'the estate complex, not the persons of the lord and lady'
+  - term: Buergerschaft
+    pattern: '\bB(ü|ue)rgerschaft\w*'
+    policy: translate
+    render: 'burgesses'
+    gloss: "the townspeople as a corporate body; 'burghership' is not English"
+  - term: Dominium
+    pattern: '\bDomini(um|o)\b'
+    policy: translate
+    render: 'manorial lordship (Dominium)'
+    gloss: 'keep the Latin in parentheses on first use only, English thereafter'
+  - term: Laudemium
+    pattern: '\bLaudemi(um|en|o)\b'
+    policy: translate
+    render: 'transfer fee (Laudemium)'
+    gloss: 'the due paid to the lordship on a change of possession'
+  - term: Einsassen
+    pattern: '\bEins(a|ä|aa)(ss|ß)en\b'
+    policy: translate
+    render: 'residents'
+  - term: Scholtisey
+    pattern: '\bSchol(t|z)isey\b'
+    policy: translate
+    render: "the village mayor's holding"
+  - term: Justiziarius
+    pattern: '\bJustiti?arius\b'
+    policy: translate
+    render: 'justiciary'
 exonyms:
   - term: Wien                              # 66 flagged before this was recorded
     pattern: '\bWien\b'

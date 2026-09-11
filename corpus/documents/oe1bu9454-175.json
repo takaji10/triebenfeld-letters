@@ -29,7 +29,7 @@
  "n_lines": 22,
  "n_pages": 2,
  "text": "Hochwohlgebohrner Herr\nHochzuverehrender Herr Kriegs- und Forst Rath!\nIch habe dem Befehl Euer Hochwohlgebohren die anlie¬\ngenden Piecen zu übersenden, wovon das eine\nOriginal und das zweite eine Abschrifft ist.\nSr Durchlaucht bitten ergebenst hierüber\ndern Meinung zuschreiben, und was in die¬\nsen Sachen zu thun ist, besonders draengen\ndie Girard und Haupt, und stünden Sr. durchlaucht\nmit Ihrer Lasserwelche durch die Reiße sehr\nerschöpft wurde, nicht etwas im bloßen, so wür¬\nden Höchst Sie sogleich die erforderliche Summa\nschiken, um diesen Herrn zu befriedigen\n\nIch empfehle mich zu fernerer Gewogenheit\nund beharre in treuer Verehrung\nEuer Hochwohlgebohren\nBreslau d 2ten August\n1805.\nunterthäniger Diener\nA. Huhn",
- "text_reading": "Hochwohlgebohrner Herr Hochzuverehrender Herr Kriegs- und Forst Rath! Ich habe dem Befehl Euer Hochwohlgebohren die anliegenden Piecen zu übersenden, wovon das eine Original und das zweite eine Abschrifft ist. Sr Durchlaucht bitten ergebenst hierüber dern Meinung zuschreiben, und was in diesen Sachen zu thun ist, besonders draengen die Girard und Haupt, und stünden Sr. durchlaucht mit Ihrer Lasserwelche durch die Reiße sehr erschöpft wurde, nicht etwas im bloßen, so würden Höchst Sie sogleich die erforderliche Summa schiken, um diesen Herrn zu befriedigen\n\nIch empfehle mich zu fernerer Gewogenheit und beharre in treuer Verehrung Euer Hochwohlgebohren Breslau d 2ten August 1805. unterthäniger Diener A. Huhn",
+ "text_reading": "Hochwohlgebohrner Herr Hochzuverehrender Herr Kriegs- und Forst Rath! Ich habe dem Befehl Euer Hochwohlgebohren die anliegenden Piecen zu übersenden, wovon das eine Original und das zweite eine Abschrifft ist. Sr Durchlaucht bitten ergebenst hierüber dern Meinung zuschreiben, und was in diesen Sachen zu thun ist, besonders draengen die Girard und Haupt, und stünden Sr. durchlaucht mit Ihrer Lasserwelche durch die Reiße sehr erschöpft wurde, nicht etwas im bloßen, so würden Höchst Sie sogleich die erforderliche Summa schiken, um diesen Herrn zu befriedigen\n\nIch empfehle mich zu fernerer Gewogenheit und beharre in treuer Verehrung Euer Hochwohlgebohren Breslau d 2ten August 1805.\n\nunterthäniger Diener\n\nA. Huhn",
  "pages": [
   {
    "page": 1,
@@ -55,9 +55,11 @@
    "n_lines": 7,
    "diplomatic": "Ich empfehle mich zu fernerer Gewogenheit\nund beharre in treuer Verehrung\nEuer Hochwohlgebohren\nBreslau d 2ten August\n1805.\nunterthäniger Diener\nA. Huhn",
    "transcription": "Ich empfehle mich zu fernerer Gewogenheit\nund beharre in treuer Verehrung\nEuer Hochwohlgebohren\nBreslau d 2ten August\n1805.\nunterthäniger Diener\nA. Huhn",
-   "reading": "Ich empfehle mich zu fernerer Gewogenheit und beharre in treuer Verehrung Euer Hochwohlgebohren Breslau d 2ten August 1805. unterthäniger Diener A. Huhn",
+   "reading": "Ich empfehle mich zu fernerer Gewogenheit und beharre in treuer Verehrung Euer Hochwohlgebohren Breslau d 2ten August 1805.\n\nunterthäniger Diener\n\nA. Huhn",
    "paragraphs": [
-    "Ich empfehle mich zu fernerer Gewogenheit und beharre in treuer Verehrung Euer Hochwohlgebohren Breslau d 2ten August 1805. unterthäniger Diener A. Huhn"
+    "Ich empfehle mich zu fernerer Gewogenheit und beharre in treuer Verehrung Euer Hochwohlgebohren Breslau d 2ten August 1805.",
+    "unterthäniger Diener",
+    "A. Huhn"
    ],
    "continues_previous": true,
    "continues_next": false,

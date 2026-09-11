@@ -29,6 +29,13 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 PER_UNIT = [
     ('pipeline/build/resolve_linebreaks.py', 'line-break decisions',
      're-derived because line numbers move when the corpus is edited'),
+    # Where the paragraphs fall. This was a manual step, run once for the deeds
+    # and never for the correspondence, so 869 of its pages reached the website
+    # as a single unbroken block of prose - and so did their translations, which
+    # mirror the German's structure. A step that has to be remembered is a step
+    # that will be forgotten.
+    ('pipeline/build/resolve_paragraphs.py', 'paragraph decisions',
+     'units/<slug>/paragraph_decisions.csv - re-derived, rulings carried over'),
     ('pipeline/build/build_db.py', 'database, pages and reading copy',
      'corpus/units/<slug>/ - letters, pages, reading and chronological text'),
     ('pipeline/build/match_scans.py', 'scan mapping and reviewer',
