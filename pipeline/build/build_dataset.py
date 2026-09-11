@@ -112,8 +112,32 @@ def main():
         sum_en = (summaries.get('en', {}) or {}).get(r['pad']) or ''
         sum_de = (summaries.get('de', {}) or {}).get(r['pad']) or ''
 
+        # Who and where the ENGLISH names, tied to the same entity slugs as the
+        # German. Without this the translation is a flat string: a reader of the
+        # English cannot be shown who a passage is about, and the dataset cannot
+        # be asked the question either - the forms differ (Wien -> Vienna), so
+        # grepping the English is not a substitute.
+        en_mentions, en_names = [], []
+        for seg in segs:
+            for n in (seg.get('names') or []):
+                de_form = (n.get('de') or '').strip()
+                en_form = (n.get('en') or '').strip()
+                if not en_form:
+                    continue
+                hit = next((m for m in ms if m['surface'] == de_form
+                            or m['display'] == de_form), None)
+                en_mentions.append({
+                    'entity': hit['entity'] if hit else '',
+                    'display': hit['display'] if hit else en_form,
+                    'kind': (hit or {}).get('kind') or n.get('kind') or '',
+                    'surface_de': de_form, 'surface_en': en_form,
+                    'page': seg.get('page'),
+                })
+                en_names.append(en_form)
+
         doc = dict(r)
         doc['mentions'] = ms
+        doc['mentions_english'] = en_mentions
         doc['place_canonical'] = place
         doc['translation_status'] = tr.get('status') or 'untranslated'
         doc['translation'] = segs
@@ -156,6 +180,12 @@ def main():
             'path': f'documents/{uid}.json', 'text_path': f'text/{uid}.txt',
             'permalink': r['permalink'],
         })
+        for m in en_mentions:
+            if m['entity']:
+                people_idx[m['entity']].append({
+                    'uid': uid, 'surface': m['surface_en'], 'page': m['page'],
+                    'page_id': '', 'line': 0, 'language': 'en',
+                })
         for m in ms:
             people_idx[m['entity']].append({
                 'uid': uid, 'surface': m['surface'], 'page': m['page'],

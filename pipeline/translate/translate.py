@@ -255,8 +255,24 @@ TOOL = {
                                 'proposed': {'type': 'string'},
                                 'why': {'type': 'string'}},
                                 'required': ['de', 'proposed']}},
-                        'names': {'type': 'array', 'items': {'type': 'string'},
-                                  'description': 'Proper nouns carried across.'},
+                        'names': {
+                            'type': 'array',
+                            'description': 'Every proper noun on this page, as a '
+                                           'pair: what the German says and what '
+                                           'the English says. This is what lets a '
+                                           'reader of the translation be shown who '
+                                           'and where a passage is about, so give '
+                                           'the pair even when the two are '
+                                           'identical.',
+                            'items': {'type': 'object', 'properties': {
+                                'de': {'type': 'string',
+                                       'description': 'the form on the German page'},
+                                'en': {'type': 'string',
+                                       'description': 'the form you used in the '
+                                                      'English, e.g. Wien -> Vienna'},
+                                'kind': {'type': 'string',
+                                         'enum': ['person', 'place', 'other']}},
+                                'required': ['de', 'en']}},
                         'numbers': {'type': 'array', 'items': {'type': 'string'},
                                     'description': 'Numerals carried across.'},
                     },

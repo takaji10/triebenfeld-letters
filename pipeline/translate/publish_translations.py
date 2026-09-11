@@ -123,7 +123,18 @@ def main():
                 continue
             en = (p.get('en') or '').strip()
             if en:
-                segs.append({'page': p['page'], 'en': en})
+                # names and numbers travel with the text. They were dropped
+                # here, so the English reached the site and the dataset as a
+                # flat string: nothing could tag a person in the translation,
+                # and the forms differ from the German (Wien -> Vienna), so
+                # grep could not stand in for it either.
+                seg = {'page': p['page'], 'en': en}
+                pairs = [n for n in (p.get('names') or []) if isinstance(n, dict)]
+                if pairs:
+                    seg['names'] = pairs
+                if p.get('numbers'):
+                    seg['numbers'] = p['numbers']
+                segs.append(seg)
         if not segs:
             print(f'  {pad}: nothing publishable ({dropped} page(s) held back)')
             skipped += 1
