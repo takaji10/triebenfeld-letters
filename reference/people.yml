@@ -638,6 +638,25 @@ people:
     match: "Zastrow"
     tier: ""
     variants: []
+  zelmer:
+    display: "Zelmer"
+    render: "Zelmer"
+    match: '[CZ]ell?mer\w*'
+    tier: "Editor-settled (standardisation)"
+    identity: >-
+      The family the book follows as its analytical lens - the Zelmers of the
+      Trąbczyn Olęder settlement. Celmer, Cellmer, Zelmer and Zellmer are all
+      the same name and are standardised to Zelmer (editor, 2026-09-11).
+      Consistency_Register.md records Bogusław Celmer as the founding patriarch,
+      first attested 1754 and on the 1771 list of twelve annexed Olęders.
+    variants:
+      - "Celmer"
+      - "Cellmer"
+      - "Zellmer"
+    open_questions:
+      - "Not yet attested in either Hohenlohe-era holding: the name is recorded
+         here so the standardisation is in force before the dispute-era
+         documents arrive, not because this corpus uses it."
   zerboni:
     display: "Zerboni"
     match: "Zerboni"

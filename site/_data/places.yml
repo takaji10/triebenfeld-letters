@@ -33,8 +33,8 @@
   letters: [{id: "220", url: "/letters/oe1bu9454/220/"}, {id: "14", url: "/letters/oe1bu9454/14/"}, {id: "278", url: "/letters/oe1bu9454/278/"}]
 - name: "Dolsk"
   slug: "dolsk"
-  count: 2
-  letters: [{id: "30", url: "/letters/oe1bu14526/30/"}, {id: "31", url: "/letters/oe1bu14526/31/"}]
+  count: 1
+  letters: [{id: "30", url: "/letters/oe1bu14526/30/"}]
 - name: "Dresden"
   slug: "dresden"
   count: 1
@@ -111,10 +111,6 @@
   slug: "ollaboch"
   count: 1
   letters: [{id: "197", url: "/letters/oe1bu9454/197/"}]
-- name: "Orzeszkowo"
-  slug: "orzeszkowo"
-  count: 1
-  letters: [{id: "32", url: "/letters/oe1bu14526/32/"}]
 - name: "Posen"
   slug: "posen"
   count: 6

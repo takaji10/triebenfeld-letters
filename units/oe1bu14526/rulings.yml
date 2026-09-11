@@ -38,8 +38,6 @@ places:
     "28": "Zagorowo"
     "29": "Betsche"
     "30": "Dolsk"
-    "31": "Dolsk"
-    "32": "Orzeszkowo"
 
 dates:
   # Dates the editor read off the document's own dateline or subscription.
@@ -74,9 +72,12 @@ dates:
     "27": [1799, 4, 16, "day"]
     "28": [1799, 5, 27, "day"]
     "29": [1805, 4, 10, "day"]
-    "30": [1766, 9, 26, "day"]
-    "31": [1766, 9, 26, "day"]
-    "32": [1799, 1, 21, "day"]
+    # Documents 30-32 are one package: the Posen chapter privilege copied
+    # first in German, then in Latin and Polish, with the notary's
+    # certificate of extraction from the chapter archive as the last page.
+    # Dated by the extraction, 21 January 1799, not by the 1766 privilege
+    # the copy reproduces. (Editor, 2026-09-11.)
+    "30": [1799, 1, 21, "day"]
 
   # Taken from the document's own duplicate.
   twin: {}
@@ -121,12 +122,12 @@ documents:
     "28": "letter"
     "29": "letter"
     "30": "privilege"
-    "31": "privilege"
-    "32": "certification"
 
   # Language, where it is not the German of the rest of the volume.
   language:
-    "31": "la,pl"
+    # German first, then the Latin and Polish original, then the Latin
+    # certificate of extraction - all one document.
+    "30": "de,la,pl"
 
   # Same instrument, copied into this volume twice. The Betsche Erbpacht
   # contract is here as Copia No. 92 and Copia No. 93, each with its own
@@ -146,14 +147,10 @@ documents:
   # topical similarity was twice enough to produce a wrong link during the
   # read-through, so a relation needs a sentence behind it.
   relations:
-    "30":
-      - kind: translates
-        target: "31"
-        note: "German translation of the Posen chapter privilege; document 31 is the Latin and Polish original of the same instrument."
-    "32":
-      - kind: certifies
-        target: "30"
-        note: "The sworn translator George Wilhelm Behr certifies that the foregoing translation agrees word for word with the Polish original extract."
+    # What used to be 30->translates->31 and 32->certifies->30 is gone: those
+    # were links between the parts of a single document, and a document does
+    # not have a typed relation to itself. The German rendering, the Latin and
+    # Polish original and the notary's certificate are now pages 1-5 of 30.
     "22":
       - kind: transmits
         target: "23"

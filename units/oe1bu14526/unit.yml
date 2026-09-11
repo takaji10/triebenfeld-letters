@@ -54,16 +54,15 @@ description: >-
 
 # The convention-setting sample for translate.py --pilot. Chosen for what can
 # go wrong here rather than for what is typical:
-#   31  the Posen chapter privilege in LATIN - the only document that should
+#   30  the Posen chapter privilege package - German, then the Latin and
+#       Polish original, then the notary's Latin certificate of extraction.
+#       Three languages in one document, and the only document that should
 #       receive the glossary's latin_terms section
-#   30  the SAME instrument in German, which must NOT receive it. The pair is
-#       the test of the language gate, and it is worth a dollar to know the
-#       gate works before 350 documents depend on it
 #   23  the longest document in the holding, 26 pages, which silently truncated
 #       at the old flat token ceiling
 #    7  the densest Polish, opening its court protocol in it
 #    9  Polish in the body, and Latin tags, in one document
-translation_pilot: ["31", "30", "23", "7", "9"]
+translation_pilot: ["30", "23", "7", "9"]
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.
@@ -89,6 +88,9 @@ translation_note: >-
   Wrąbczyn and Wrąbczynek appear throughout German prose and stay as they are.
   Wrąbczyn, Wrąbczynek and Trąbczyn are three DIFFERENT villages.
 
-  Document 31 is the Latin-and-Polish original of the chapter privilege that
-  document 30 translates into German. Its Latin transumption clause and its
-  Polish body are both source text.
+  Document 30 is one package in three languages: the Posen chapter privilege
+  rendered in German, then the Latin-and-Polish original of the same
+  instrument, then the notary's Latin certificate that the copy was extracted
+  from the chapter archive. The Latin transumption clause and the Polish body
+  are both source text, not corrupt German, and the document is dated by the
+  1799 extraction rather than by the 1766 privilege it reproduces.

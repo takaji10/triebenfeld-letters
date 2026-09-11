@@ -340,14 +340,15 @@ terms:
     render: 'claim'
   - term: Hauländer                         # 4 in corpus
     pattern: 'Haus?l(ä|ae|a)nder\w*|\bOl(ę|e)nder\w*|\bOl(ę|e)der\w*|\bHol+[ae]nder\w*|\bHol+[ae]ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bOl(ę|e)ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bHoll(ä|ae)nder\w*(?=\s+(?-i:[A-ZÄÖÜ][a-zä-ÿ]+\s+[A-ZÄÖÜ]))|\bHoll(ä|ae)nder\w*\s+(?:Hufe|Gemeine)|(?:Bauren|Bauern|Bauen)\s+und\s+Holl(ä|ae)nder\w*'
-    policy: keep
-    render: 'Hauländer'
+    policy: translate
+    render: 'Hollander'
     gloss: >-
       SETTLED (editor, 2026-09-11): Hollander, Hauländer, Holländer and
       Olęder are all variations of the same thing - the settler-colonists
       holding on Dutch-law tenure, whom the Polish sources call Olędrzy.
-      One English word for all of them: Hauländer. Never "Hollanders",
-      never "Dutch settlers"; the community is not Dutch.
+      One English word for all of them: Hollander (editor, 2026-09-11).
+      Never "Dutch settlers" - the community is not Dutch, and the word is
+      the name of a tenure, not of a nationality.
       BUT the same German word is also the country and its people, and in
       this corpus that sense is the commoner one: money aus Holland, the
       Holländische Anleihe, holländische Rand Ducaten, and die Hessen,
@@ -1011,13 +1012,6 @@ latin_terms:
 # with the Court Summoner. A rule with no `when` is unconditional, and should
 # only be written for a string that could not arise any other way.
 forbidden_renders:
-  - render: 'Hollanders'
-    when: '\bHaus?l(ä|ae|a)nder\w*|\bOl(ę|e)nder\w*|\bOl(ę|e)der\w*|\bHol+[ae]nder\w*|\bHol+[ae]ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bOl(ę|e)ndr(?:em|owi|a|ów|zy|ami|ach)\b|\bHoll(ä|ae)nder\w*(?=\s+(?-i:[A-ZÄÖÜ][a-zä-ÿ]+\s+[A-ZÄÖÜ]))|\bHoll(ä|ae)nder\w*\s+(?:Hufe|Gemeine)|(?:Bauren|Bauern|Bauen)\s+und\s+Holl(ä|ae)nder\w*'
-    note: >-
-      the editor has ruled Hollander / Hauländer / Holländer / Olęder one and
-      the same community, rendered Hauländer. Scoped to the settler sense:
-      the Dutch of the troop contingents and the Holländische Anleihe are a
-      different matter and are not touched.
   - render: 'chestnut'
     when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|\bcastane\w*'
     note: 'hypocaustum misread. The table stands in the heated room, not on a chestnut.'

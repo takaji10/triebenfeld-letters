@@ -1588,15 +1588,15 @@
 30,2,8091,8092,¬,Republi,que,Republique,join,high,head is not a word on its own,False,0,709,0,393,1,,en. Die Rechte der Kirche und der Republi¬ || que vorbehaltend Worauf Wir uns eigenhändi
 30,2,8102,8103,¬,Hochwür,digen,Hochwürdigen,join,high,head is not a word on its own,False,0,56,0,0,3,,unter dem Siegel des Hochwür¬ || digen Kapitels eben dersel¬
 30,2,8103,8104,¬,dersel,ben,derselben,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,14,,digen Kapitels eben dersel¬ || ben Cathedral Kirche zu Posen
-31,1,8109,8110,¬,Privi,legium,Privilegium,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,ad petitionem Partis cujus interest Privi¬ || legium infra exaratum de Actio et Anno ins
-31,1,8113,8114,¬,infor,ma,informa,join,high,"joined form attested in DWDS (2,896 hits)",False,0,2896,0,,1,,tro conservato repertum transumi et infor¬ || ma probante extradimandavimus Cujus tenor 
-31,1,8120,8121,¬,Pszczeskie,go,Pszczeskiego,join,high,head is not a word on its own,False,0,0,0,0,3,,wsi Głazewie do Klucza naszego Pszczeskie¬ || go należący będący wraz z Budynkiem do mie
-31,1,8124,8125,¬,pewne,go,pewnego,join,high,head is not a word on its own,False,0,0,0,0,3,, się dotakowey proźby ile do Aukcyi pewne¬ || go prowentu naszego zmierzaiący. Ten że Sl
-31,1,8129,8130,¬,wypa,szczamy,wypaszczamy,join,high,head is not a word on its own,False,0,0,0,0,1,,"tych in specie Trzydzieści Dies # 30 wypa¬ || szczamy y przedaiemy, od którego to Stadw "
-31,1,8130,8131,¬,Szla,chetni,Szlachetni,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"daiemy, od którego to Stadw Roli Czi Szla¬ || chetni Rządkowscy, y ich Sukcessorowie pla"
-31,1,8136,8137,¬,Głazewskie,go,Głazewskiego,join,high,head is not a word on its own,False,0,0,0,0,3,, oddawać. Na Tłuki do Folwarku Głazewskie¬ || go cztery razy do Roku tudzież do sprzytan
-31,1,8139,8141,¬,wier,telie,wiertelie,join,held,"held: one Polish word split across the page break: dwa wiertelie Jęczmienia, which the German gives as zwei Viertel Gerste at 0167_a1.",True,0,0,0,8011,1,20,ę posyłać będą powinni. Za każde dwa wier¬ || telie Jęczminia dawny Zwowecki miary z Bro
-31,2,8141,8142,¬,Browa,ru,Browaru,join,high,head is not a word on its own,False,0,0,0,109,1,,ie Jęczminia dawny Zwowecki miary z Browa¬ || ru Pszczewskiego Beczka Piwa mabydz pozwol
-31,2,8144,8145,¬,pomienio,nych,pomienionych,join,high,head is not a word on its own,False,0,0,0,0,1,,Biskupow Poznańskich Imieniem iż pomienio¬ || nych Szlachetnych Rządkowskich y Ich Suksz
-31,2,8150,8151,¬,ca,łości,całości,split,high,joined form unattested; both halves are real words,False,0,0,1,587599,1,0,ować będą. Prawa Kościelne y Rzplity w ca¬ || łości zachowuiąc. Na co się dla większey w
-32,1,8171,8172,¬,vereide,ter,vereideter,join,high,head is not a word on its own,False,0,60,0,150,15,,ches bescheinige pflichtmäßig als vereide¬ || ter Uebersetzer Orzeskowo d. 21ten Januari
+30,3,8108,8109,¬,Privi,legium,Privilegium,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,ad petitionem Partis cujus interest Privi¬ || legium infra exaratum de Actio et Anno ins
+30,3,8112,8113,¬,infor,ma,informa,join,high,"joined form attested in DWDS (2,896 hits)",False,0,2896,0,,1,,tro conservato repertum transumi et infor¬ || ma probante extradimandavimus Cujus tenor 
+30,3,8119,8120,¬,Pszczeskie,go,Pszczeskiego,join,high,head is not a word on its own,False,0,0,0,0,3,,wsi Głazewie do Klucza naszego Pszczeskie¬ || go należący będący wraz z Budynkiem do mie
+30,3,8123,8124,¬,pewne,go,pewnego,join,high,head is not a word on its own,False,0,0,0,0,3,, się dotakowey proźby ile do Aukcyi pewne¬ || go prowentu naszego zmierzaiący. Ten że Sl
+30,3,8128,8129,¬,wypa,szczamy,wypaszczamy,join,high,head is not a word on its own,False,0,0,0,0,1,,"tych in specie Trzydzieści Dies # 30 wypa¬ || szczamy y przedaiemy, od którego to Stadw "
+30,3,8129,8130,¬,Szla,chetni,Szlachetni,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"daiemy, od którego to Stadw Roli Czi Szla¬ || chetni Rządkowscy, y ich Sukcessorowie pla"
+30,3,8135,8136,¬,Głazewskie,go,Głazewskiego,join,high,head is not a word on its own,False,0,0,0,0,3,, oddawać. Na Tłuki do Folwarku Głazewskie¬ || go cztery razy do Roku tudzież do sprzytan
+30,3,8138,8140,¬,wier,telie,wiertelie,join,held,"held: one Polish word split across the page break: dwa wiertelie Jęczmienia, which the German gives as zwei Viertel Gerste at 0167_a1.",True,0,0,0,8011,1,20,ę posyłać będą powinni. Za każde dwa wier¬ || telie Jęczminia dawny Zwowecki miary z Bro
+30,4,8140,8141,¬,Browa,ru,Browaru,join,high,head is not a word on its own,False,0,0,0,109,1,,ie Jęczminia dawny Zwowecki miary z Browa¬ || ru Pszczewskiego Beczka Piwa mabydz pozwol
+30,4,8143,8144,¬,pomienio,nych,pomienionych,join,high,head is not a word on its own,False,0,0,0,0,1,,Biskupow Poznańskich Imieniem iż pomienio¬ || nych Szlachetnych Rządkowskich y Ich Suksz
+30,4,8149,8150,¬,ca,łości,całości,split,high,joined form unattested; both halves are real words,False,0,0,1,587599,1,0,ować będą. Prawa Kościelne y Rzplity w ca¬ || łości zachowuiąc. Na co się dla większey w
+30,5,8169,8170,¬,vereide,ter,vereideter,join,high,head is not a word on its own,False,0,60,0,150,15,,ches bescheinige pflichtmäßig als vereide¬ || ter Uebersetzer Orzeskowo d. 21ten Januari

@@ -237,7 +237,7 @@
 7,1510,break,high,salutation,1.03,36,35,następuiący zawarty został Kontrakt.,Actum Trąbczyn den Achten Julii
 7,1515,break,high,rubric+short_line,0.26,9,35,Ihnen als,1. der Herr Kriegs und ForstRath v.
 7,1522,break,high,short_line,0.37,13,35,seiner Seits.,und
-7,1523,break,high,rubric+short_line,0.09,3,35,und,2. der Hausländer Wirth Gottlieb Sarre
+7,1523,break,high,rubric+short_line,0.09,3,35,und,2. der Hauländer Wirth Gottlieb Sarre
 7,1526,run,review,short_line,0.37,13,35,anderer Seits,Comparenten befinden sich in dem Zustan¬
 7,1541,break,high,rubric+short_line,0.68,25,36,rende Zeiten in Erbpacht.,§II. Der Gottlieb Sarre zahlet für die Hufe Mag¬
 7,1549,break,high,rubric,0.93,34,36,ohne weiteren Vorbehalt quittiret.,§III.
@@ -1019,8 +1019,8 @@
 30,8100,break,high,short_line+column,0.15,7,47,(L. S.),Aus dem Buche der Privilegien
 30,8101,break,high,short_line+column,0.62,29,47,Aus dem Buche der Privilegien,"der Posner Cathedral Kirche,"
 30,8102,break,high,short_line+column,0.6,28,47,"der Posner Cathedral Kirche,",unter dem Siegel des Hochwür¬
-31,8158,break,high,short_line,0.45,22,49,(L. + S.) Capitularis.,Ex libro Privilegium Ecclesiae Cathedralis
-31,8161,run,review,short_line,0.69,34,49,Cathedralis Poznaniensis Extractus,Melchior Janowski Notarius Apostolskiey Ejusdem
-32,8166,break,high,short_line+column,0.71,29,41,"extrahiret, Melchior Janowski",Notarius Apostolicus Ejusdem
-32,8167,run,review,short_line,0.68,28,41,Notarius Apostolicus Ejusdem,Reverendissimi Capituli Cathedralis
-32,8169,break,high,short_line,0.61,25,41,Posnaniensis Secretarius.,daß vorstehende Uebersetzung mit dem Polnischen
+30,8157,break,high,short_line,0.45,22,49,(L. + S.) Capitularis.,Ex libro Privilegium Ecclesiae Cathedralis
+30,8160,run,review,short_line,0.69,34,49,Cathedralis Poznaniensis Extractus,Melchior Janowski Notarius Apostolskiey Ejusdem
+30,8164,break,high,short_line+column,0.71,29,41,"extrahiret, Melchior Janowski",Notarius Apostolicus Ejusdem
+30,8165,run,review,short_line,0.68,28,41,Notarius Apostolicus Ejusdem,Reverendissimi Capituli Cathedralis
+30,8167,break,high,short_line,0.61,25,41,Posnaniensis Secretarius.,daß vorstehende Uebersetzung mit dem Polnischen

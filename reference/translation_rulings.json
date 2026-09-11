@@ -1,0 +1,15 @@
+{
+ "_comment": [
+  "Rulings the editor has given on rows in review/<slug>/translation_review.csv.",
+  "A cleared key is not raised again. The key is pad|page|kind|german, exactly",
+  "as check_translations.py builds it, so a ruling survives a re-run of the",
+  "sheet but NOT a change to the German on that page - which is deliberate: if",
+  "the transcription changes, the reading was never settled against this text."
+ ],
+ "notes": {
+  "oe1bu9454-269a|1|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: the page reads Anweisung. Scan Oe_1_Bu_9454_0490_a2-L269a_01.jpg. \"eine sichere Anweisung\" on 100,000 Rthl is an order to pay; Abweisung, a refusal, cannot take sichere. The model was right not to flag it as ambiguous, and the English - \"a secure instruction to pay\" - stands."
+ },
+ "cleared": [
+  "oe1bu9454-269a|1|rare-pair|Anweisung"
+ ]
+}
