@@ -72,10 +72,10 @@ Die Orthographie der Zeit wird nicht berichtigt. Formen wie *laßen*, *seyn*, *n
 *Ewr* und *dero* sind die Schreibweise der Verfasser und bleiben stehen. Ebenso die
 Zweifelszeichen des Transkribenten.
 
-Der unbearbeitete Text besteht weiter. Die Archivdatei
-(`von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt`) enthält die Transkription genau so,
-wie sie erzeugt wurde, und jede editorische Schicht wird gegen sie geprüft: eine Änderung,
-die keine verzeichnete Entscheidung deckt, lässt den Build scheitern.
+Der unbearbeitete Text besteht weiter. Jeder Bestand bewahrt seine Transkription genau so,
+wie sie erzeugt wurde, in `units/<Bestand>/corpus.txt`, und jede editorische Schicht wird
+gegen sie geprüft: eine Änderung, die keine verzeichnete Entscheidung deckt, lässt den Build
+scheitern.
 
 **Englisch** enthält die Übersetzung, Seite für Seite ergänzt. Wo noch keine vorliegt, sagt
 die Ansicht das, statt nichts zu zeigen.

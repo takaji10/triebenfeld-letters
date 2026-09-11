@@ -143,6 +143,8 @@ places:
     variants:
       - "Stetlewek"
       - "Szettlewch"
+      - "Szettleich"       # editor, letter 168
+      - "Stetteweck"
       - {form: "Szeklejówek", match: false}
     open_questions:
       - "The register records Szeklejówek as a tentative identification with
@@ -181,9 +183,10 @@ places:
     kind: settlement
     tier: "Book-confirmed"
     variants: []
-    distinct_from: [michalinow-oledry]
+    distinct_from: [michalinow-oledry, olesnica]
     open_questions:
       - "Distinct from Michalinów Olędry; the register is explicit - do not merge."
+      - "Also distinct from Olesnica, which is a separate village."
 
   michalinow-oledry:
     display: "Michalinów Olędry"
@@ -448,6 +451,26 @@ places:
     match: 'Al+exandri\w*'
     tier: ""
     variants: ["Allexandrien"]
+
+  olesnica:
+    display: "Olesnica"
+    kind: village
+    # Not preceded by Michalinów: Michalinów Oleśnicki is a DIFFERENT place and
+    # the register says so twice over.
+    match: '(?<!w )(?<!ów )Ole[sś]ni[cs]\w*'
+    tier: "Editor-settled (spelling)"
+    distinct_from: [michalinow-olesnicki]
+    variants:
+      - "Olesnice"
+      - {form: "Olesnicer", canon: false}    # adjectival: "the Olesnica people"
+      - {form: "Olesnicern", canon: false}
+      - {form: "Olesnices", canon: false}
+      - {form: "Olesniser"}
+    open_questions:
+      - "The corpus also has Olisnie once and Oleschwitzer once. Neither is
+         folded in: Consistency_Register.md lists Olisnice separately among the
+         Hohenlohe-era settlements, and Oleschwitz is a different name. Both
+         want a ruling before they are merged."
 
   orzeszkowo:
     display: "Orzeszkowo"

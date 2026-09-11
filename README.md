@@ -27,7 +27,7 @@ reference/        shared by every unit: glossary, name rulings, place canon
 corpus/           generated, merged across units
 review/<slug>/    generated review sheets
 cache/            model output. Expensive; never deleted casually
-docs/             changelog, deploy notes, method reports
+docs/             data model, editorial rules, deploy notes; see docs/README.md
 site/             the Jekyll site
 ```
 
