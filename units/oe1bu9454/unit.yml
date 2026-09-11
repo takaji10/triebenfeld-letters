@@ -13,8 +13,8 @@ archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
 # would misrepresent the finding aid. The correction belongs in the register and
 # in the termbase, and both carry it.
 title: >-
-  Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with
-  Kriegs- und Forstrath von Triebenfeld
+  Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the
+  Councillor of War and Forests von Triebenfeld
 date_span: 1798-1816
 status: published          # draft | transcribed | translated | published
 
@@ -50,9 +50,13 @@ corpus: corpus.txt
 
 # For the reader: shown on the unit's provenance page.
 description: >-
-  The main correspondence file. Eighteen years of letters from the estate agent
-  Peter Friedrich von Triebenfeld to his employer, with enclosures, legal
-  instruments and copies of correspondence with third parties.
+  Eighteen years of letters from Peter Friedrich von Triebenfeld, who managed
+  the Trąbczyn and Zagorowo estates for their absent owner, to the owner
+  himself. Triebenfeld writes from Berlin, Breslau, Vienna and the estates,
+  reporting on sales, loans, lawsuits and the settlers, and pressing the Prince
+  for decisions he mostly does not get. Filed with the letters are the
+  enclosures they refer to: powers of attorney, court papers, accounts, and
+  copies of correspondence with ministers, creditors and officials.
 
 # The convention-setting sample for translate.py --pilot. Deliberately spans
 # the range rather than picking easy documents: clean late letters, known-bad

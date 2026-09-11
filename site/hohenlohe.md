@@ -33,8 +33,8 @@ Zagorowo, Trąbczyn, Kaemen and others, lying around Konin and Kalisz in what is
 central Poland. The grant was large and it was encumbered, and he spent the rest of his
 life trying to get money out of it.
 
-Peter Friedrich von Triebenfeld, Kriegs- und Forstrath, or Councillor of War and Forests,
-was the man who had to make the grant pay, and he wrote most of the letters here. He
+Peter Friedrich von Triebenfeld, Councillor of War and Forests, was the man who had to
+make the grant pay, and he wrote most of the letters here. He
 signed for his employer's debts himself, which is why the correspondence runs on so long
 after the estate was gone: he could not get free of them. He signs himself *unterthänigster
 Diener*, most humble servant, while telling the Prince with steadily less ceremony that he
