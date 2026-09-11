@@ -104,6 +104,61 @@ def _is_exonym_render(word, glossary):
                for e in glossary.get(sect, []))
 
 
+def _renders(glossary):
+    """Every English rendering the prompt asked for, lowercased."""
+    return [(e.get('render') or '').lower()
+            for sect, _ in termbase.SECTIONS
+            for e in glossary.get(sect, [])
+            if e.get('render')]
+
+
+def _invented(core, de, glossary):
+    """Is this reported English name absent from the German - a real invention?
+
+    The check exists to catch a name the translation supplied and the page does
+    not have. It is NOT a check that the English copied the German, and the
+    difference became the whole story once the edition ruled that everything
+    goes into English: the translation now reports `Prince of
+    Hohenlohe-Ingelfingen`, `monastery of Ląd`, `Mr. Leixner` and `Christmas`,
+    every one of them correct, and the old test called all four inventions
+    because it took the first five characters of the whole phrase and looked
+    for them in the German. Thirty-two deeds produced 97 such rows, which
+    across the corpus would have buried the five real ones.
+
+    So: a name is invented only when NOTHING in it is on the page. Any content
+    word that stem-matches the German acquits the whole phrase - the rest is
+    the translated title, particle or honorific that was asked for. A phrase
+    that is itself a termbase rendering is acquitted too, inflections included,
+    which is what `South Prussian` needed against a render of `South Prussia`.
+    """
+    core = core.strip()
+    if not core or '[' in core or ']' in core:
+        return False                      # a mark of doubt, not a name
+    low, del_ = core.lower(), de.lower()
+    head = low.split()[0] if low.split() else ''
+    for r in _renders(glossary):
+        if not r:
+            continue
+        if low in r or r in low:
+            return False
+        # `Frankfurt a/O.` against a render of `Frankfurt an der Oder`: neither
+        # contains the other, but the head word is the place and it agrees.
+        if head and len(head) >= 4 and r.split()[:1] == [head]:
+            return False
+    # Length floor 4, except for a capitalised short word: `Ląd` is three
+    # characters and is the entire identity of `monastery of Ląd`.
+    words = [w for w in re.findall(r"[^\W\d_]+", core)
+             if w.lower() not in _EMPTY
+             and (len(w) >= 4 or (len(w) >= 3 and w[:1].isupper()))]
+    if not words:
+        return False                      # nothing in it identifies anyone
+    for w in words:
+        stem = re.sub(r'(s|n|en|es)$', '', w)[:5].lower()
+        if len(stem) >= 3 and stem in del_:
+            return False                  # this much of the name IS on the page
+    return True
+
+
 def load_rulings():
     if os.path.isfile(RULINGS):
         r = json.load(open(RULINGS, encoding='utf-8'))
@@ -219,8 +274,7 @@ def check_letter(rec, out, glossary, canon, rng):
             if not isinstance(nm, str) or not nm.strip():
                 continue
             core = re.sub(r'^(v\.?|von|de)\s+', '', nm).strip()
-            stem = re.sub(r'(s|n|en|es)$', '', core)[:5].lower()
-            if core and len(stem) >= 4 and stem not in de.lower()                     and core not in exonyms and not _is_exonym_render(core, glossary):
+            if _invented(core, de, glossary):
                 rows.append(dict(kind='name-check', page=n, german='', english=nm,
                                  note='name reported in the English is not in the German'))
                 stats['name'] = stats.get('name', 0) + 1

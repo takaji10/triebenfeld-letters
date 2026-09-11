@@ -29,7 +29,7 @@
 16,2,859,860,¬,Ver,schanzungen,Verschanzungen,join,high,"joined form attested in DWDS (1,010 hits)",False,0,1010,3,,1,,"he und Magazine an, zieht kleinen von Ver¬ || schanzungen die schwer zu durchbrechen sin"
 16,2,862,863,¬,ge,mildert,gemildert,join,high,joined form occurs elsewhere in this corpus,False,1,,22,,1,,"rden, wodurch der blutigste Krieg sehr ge¬ || mildert werden kan."
 17,2,904,905,¬,nie,aber,nieaber,split,high,joined form unattested; both halves are real words,False,0,0,85,10569364,753,125399229,Auf dand und Gewinn zählte ich schon nie¬ || aber Brandmärder laße ich mich für alle
-17,3,928,929,¬,herrlei,sagen,herrleisagen,join,high,head is not a word on its own,False,0,0,0,0,101,,"mer aufgerieben, und solche junge herrlei¬ || sagen in Berlin ich bereichen mich hier un"
+17,3,928,929,¬,herrlei,sagen,herrleisagen,join,high,head is not a word on its own,False,0,0,0,0,100,,"mer aufgerieben, und solche junge herrlei¬ || sagen in Berlin ich bereichen mich hier un"
 18,1,979,980,¬,sah,wer,sahwer,split,high,joined form unattested; both halves are real words,False,0,0,6,45491248,26,26528628,Instrument nebst der Vollmacht sah¬ || wer hat Euer durchlaucht den den Rath gege
 19,1,1072,1073,¬,einrä,Es,einräEs,join,high,head is not a word on its own,False,0,0,0,8,1323,,e frey und kein Creditor darf nicht einrä¬ || Es ist ein großer Pacht aber woher soll de
 19,2,1102,1103,¬,Ko,gesandt,Kogesandt,split,high,joined form unattested; both halves are real words,False,0,0,2,100660,32,1853857,"ieder nach Kalisz und nach Kopojer und Ko¬ || gesandt, die verfluchten Lorenz freße, vol"
@@ -432,7 +432,7 @@
 89,4,7131,7132,¬,hatt,Mitt,hattMitt,split,high,joined form unattested; both halves are real words,False,0,0,128,21152,30,29799,es oder jenes verwendet und verwandt hatt¬ || Mitt diesen Contract mit den Quittungen tr
 89,4,7141,7142,¬,hätt,darauf,hättdarauf,split,high,joined form unattested; both halves are real words,False,0,0,2,80935,134,15200161,"man daß es 49000 Rthl gebracht hätt¬ || darauf wird geantwortet, wodurch dies zu e"
 89,4,7146,7147,¬,Rech,mungen,Rechmungen,split,high,joined form unattested; both halves are real words,False,0,0,1,71570,1,866,rtet der Nöldiche. Hier habe ich die Rech¬ || mungen des Rentmeister Schmudels der zur Z
-89,4,7148,7149,¬,Be,sagen,Besagen,join,high,joined form occurs elsewhere in this corpus,False,2,,3,,101,,"n Administration selbige geführt diese Be¬ || sagen so viel oder weniger, das übrige ged"
+89,4,7148,7149,¬,Be,sagen,Besagen,join,high,joined form occurs elsewhere in this corpus,False,2,,3,,100,,"n Administration selbige geführt diese Be¬ || sagen so viel oder weniger, das übrige ged"
 89,6,7174,7175,¬,Abstands,Quantum,AbstandsQuantum,split,high,joined form unattested; both halves are real words,False,0,0,4,2229032,12,52256,"nscht, sondern ihm noch dazu ein Abstands¬ || Quantum gegeben, und den König, wan ihn de"
 89,6,7179,7180,¬,Ab,stands,Abstands,join,high,joined form occurs elsewhere in this corpus,False,4,,96,,1,,"on neuen Pächter angenommen, dem T das Ab¬ || stands quantum voraus bezahlen und es hern"
 89,7,7195,7196,¬,ge,standen,gestanden,join,high,joined form occurs elsewhere in this corpus,False,5,,22,,5,, so hohen Preisen als solche würcklich ge¬ || standen bezahlen ohne es laut werden zu la

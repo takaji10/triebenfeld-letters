@@ -608,6 +608,49 @@ terms:
     render: 'Court Summoner'
     gloss: '"bailiff" is a non-standard rendering of this office'
 
+  # --- quarter days ------------------------------------------------------
+  # Rents, leases and instalments in these documents fall due on feast days,
+  # not on calendar dates, so these are load-bearing terms and not colour: a
+  # reader comparing two Erbpacht contracts is comparing their terms.
+  #
+  # They were missing from this termbase entirely, and the first full batch
+  # shows exactly what that costs. Johannis came back four ways - Midsummer
+  # (58), St. John (31), St John (13), John the Baptist (2) - and Michaelis was
+  # left standing in the English 28 times against 13 Michaelmas, which the
+  # house rule does not allow: English has the equivalent.
+  #
+  # The English names chosen are the ones an English legal or estate document
+  # of the period uses, which is also the majority rendering the batch reached
+  # for on its own in three of the five cases.
+  - term: Michaelis                        # 36 in corpus
+    pattern: '\bMichael(is|i|e)\b|\bMichaelmas\b'
+    policy: translate
+    render: 'Michaelmas'
+    gloss: '29 September. NOT left as Michaelis, and not "Michael" - the quarter day has an English name.'
+  - term: Johannis                         # 19 in corpus
+    pattern: '\bJohannis\b|\bJohanni\b'
+    policy: translate
+    render: 'Midsummer'
+    gloss: 'the Nativity of St John the Baptist, 24 June. Rendered Midsummer throughout rather than St John, so two leases can be compared.'
+  - term: Weihnachten                      # 5 in corpus
+    pattern: '\bWeihnacht(en|s)?\w*'
+    policy: translate
+    render: 'Christmas'
+  - term: Martini                          # 5 in corpus
+    pattern: '\bMartini\b'
+    policy: translate
+    render: 'Martinmas'
+    gloss: '11 November.'
+  - term: Ostern                           # 2 in corpus
+    pattern: '\bOstern\b'
+    policy: translate
+    render: 'Easter'
+  - term: Jacobi                           # 1 in corpus
+    pattern: '\bJacobi\b'
+    policy: translate
+    render: "St James's Day"
+    gloss: '25 July.'
+
 exonyms:
   - term: Wien                              # 66 flagged before this was recorded
     pattern: '\bWien\b'
