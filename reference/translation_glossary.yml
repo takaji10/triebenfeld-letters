@@ -48,6 +48,21 @@ house_style: |
   agent writes upward to his prince. Do not flatten the graduated honorifics
   into modern business politeness. Period vocabulary stands.
 
+  THE RULE: everything goes into English. A German word may stand only where
+  English genuinely has no equivalent, and that is rare - a dozen words in this
+  whole termbase, every one of them marked `policy: keep`.
+
+  Names and titles are not the same thing, and the difference decides this:
+
+    * a PERSONAL or PLACE name is reproduced exactly as the German spells it -
+      Triebenfeld, Glenk, Trąbczyn, Wrąbczynek. Never translated, never
+      normalised;
+    * a TITLE, RANK or OFFICE is translated, even when it stands next to a name.
+      `Fürst zu Hohenlohe-Ingelfingen` is the Prince of Hohenlohe-Ingelfingen;
+      `Obrist von Schlieben` is Colonel von Schlieben; `Kreis-Steuer-Einnehmer
+      Gneust` is the district tax collector Gneust. The name in each is the last
+      word, and only that word stays German.
+
   Terms of art keep their German form ONLY where this termbase says
   `policy: keep` - Rthl, Hufe, Morgen, Landschaft and the handful like them.
   Everything else is rendered into English, however technical. A German word
@@ -420,6 +435,109 @@ terms:
     pattern: '\bJustiti?arius\b'
     policy: translate
     render: 'justiciary'
+
+  # Titles, ranks and offices. A title is not a name: it goes into English
+  # even when it stands beside one. 97 of these reached the first published
+  # pass untranslated, Fürst 38 times.
+  - term: Fuerst
+    pattern: '\bF(ü|ue)rst(en|s)?\b'
+    policy: translate
+    render: 'Prince'
+    gloss: "Fürst zu Hohenlohe-Ingelfingen is the Prince of Hohenlohe-Ingelfingen; the place stays German, the title does not"
+  - term: Fuerstin
+    pattern: '\bF(ü|ue)rstin\b'
+    policy: translate
+    render: 'Princess'
+  - term: fuerstlich
+    pattern: '\bf(ü|ue)rstlich\w*'
+    policy: translate
+    render: 'princely'
+    gloss: "Fürstliches Patrimonial Gericht - the princely patrimonial court"
+  - term: Herzog
+    pattern: '\bHerzog(in|s)?\b'
+    policy: translate
+    render: 'Duke'
+    gloss: "Herzogin is Duchess"
+  - term: Graf
+    pattern: '\bGr(a|ä)f(in|en|s)?\b'
+    policy: translate
+    render: 'Count'
+    gloss: "Gräfin is Countess"
+  - term: Freiherr
+    pattern: '\bFrei?herr\w*'
+    policy: translate
+    render: 'Baron'
+    gloss: "freiherrlich is baronial"
+  - term: Obrist
+    pattern: '\bObrist(en)?\b'
+    policy: translate
+    render: 'Colonel'
+  - term: Obristwachtmeister
+    pattern: '\bObristwachtmeister\b'
+    policy: translate
+    render: 'Major'
+  - term: Rittmeister
+    pattern: '\bRittmeister\b'
+    policy: translate
+    render: 'cavalry captain'
+  - term: Rendant
+    pattern: '\bRendant(en)?\b'
+    policy: translate
+    render: 'cashier'
+    gloss: "Banco-Rendant is the bank cashier"
+  - term: Amtsrath
+    pattern: '\bAmtsr(a|ä|ae)th\w*'
+    policy: translate
+    render: 'district councillor'
+    gloss: "Amtsräthin is his wife"
+  - term: Bergrath
+    pattern: '\bBerg[- ]?R?rath\w*'
+    policy: translate
+    render: 'mining councillor'
+  - term: Justizrath
+    pattern: '\bJustiz[- ]?R?rath\w*'
+    policy: translate
+    render: 'councillor of justice'
+  - term: Kriegsrath
+    pattern: '\bKrie(gs|ges)[- ]?R?rath\w*'
+    policy: translate
+    render: 'councillor of war'
+  - term: Kammerrath
+    pattern: '\b(C|K)ammer[- ]?R?rath\w*'
+    policy: translate
+    render: 'chamber councillor'
+  - term: Criminalrath
+    pattern: '\bCriminal[- ]?R?rath\w*'
+    policy: translate
+    render: 'criminal-court councillor'
+  - term: Schulze
+    pattern: '\bSch(u|o)l(z|tz)e(n)?\b'
+    policy: translate
+    render: 'village mayor'
+    gloss: "Freyschulze is a free village mayor, holding his office heritably"
+  - term: Dollmetscher
+    pattern: '\bDoll?met(s|sc)her\b'
+    policy: translate
+    render: 'interpreter'
+    gloss: "the sworn interpreter who renders the German act into Polish"
+  - term: Arendator
+    pattern: '\bArendator(en)?\b'
+    policy: translate
+    render: 'leaseholder'
+  - term: Einnehmer
+    pattern: '\bEinnehmer(s|n)?\b'
+    policy: translate
+    render: 'collector'
+    gloss: "Kreis-Steuer-Einnehmer is the district tax collector"
+  - term: Conducteur
+    pattern: '\bConducteur(s)?\b'
+    policy: translate
+    render: 'surveyor'
+    gloss: "a Kammer-Conducteur is the Chamber's surveying officer"
+  - term: Syndikus
+    pattern: '\bSyndi(k|c)us\b'
+    policy: translate
+    render: 'syndic'
 exonyms:
   - term: Wien                              # 66 flagged before this was recorded
     pattern: '\bWien\b'
