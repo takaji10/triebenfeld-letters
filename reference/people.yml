@@ -484,6 +484,28 @@ people:
     abbrev: "F(?:ü|ue)rst(?:in|en)\\s+Sa:"
     tier: "Book-confirmed"
     variants: []
+  sarre:
+    display: "Gottlieb Sarre"
+    render: "Sarre"
+    match: 'Sarre\w*|Sarrem\b|Sarrego\b'
+    tier: "Text-confirmed (both languages of one document)"
+    identity: >-
+      A Hauländer, and the hereditary lessee in oe1bu14526-7. That document
+      names him twice in two languages, and the two forms look like two men:
+      the Polish opening has "i Hollendrem Bogumiłem Sarre", the German body
+      "der Hausländer Wirth Gottlieb Sarre aus dem Peyserschen Hauland".
+      Bogumił and Gottlieb are the Polish and German forms of one name, and
+      Hollender and Hausländer of one word - so this is one settler, recorded
+      under the German form because that is the language of the instrument.
+    variants:
+      - {form: "Bogumił Sarre", canon: false, seen_in: ["oe1bu14526-7, Polish opening"]}
+    open_questions:
+      - "One settler under two names is a practice, not an accident: the
+         register records Bogusław Celmer among the 1771 twelve, the same
+         family the book follows as Zelmer. Whether other settlers in this
+         holding are doubled between a German deed and a Polish protocol has
+         not been checked, and the entity index will under-count them if they
+         are."
   scharnhorst:
     display: "Scharnhorst"
     match: "Scharnhorst"

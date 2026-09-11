@@ -22543,6 +22543,72 @@
   ]
  },
  {
+  "entity": "sarre",
+  "display": "Gottlieb Sarre",
+  "count": 8,
+  "documents": [
+   "oe1bu14526-7"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 1,
+    "page_id": "0031_b",
+    "line": 1508
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 1,
+    "page_id": "0031_b",
+    "line": 1523
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 2,
+    "page_id": "0032_a1",
+    "line": 1534
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 2,
+    "page_id": "0032_a1",
+    "line": 1541
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 2,
+    "page_id": "0032_a1",
+    "line": 1547
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 2,
+    "page_id": "0032_a1",
+    "line": 1550
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 3,
+    "page_id": "0032_a2",
+    "line": 1581
+   },
+   {
+    "uid": "oe1bu14526-7",
+    "surface": "Sarre",
+    "page": 11,
+    "page_id": "0036_a2",
+    "line": 1766
+   }
+  ]
+ },
+ {
   "entity": "beugelin",
   "display": "Beugelin",
   "count": 8,

@@ -99,7 +99,12 @@ def glossary_table(g):
             continue
         out.append(f'\n{head}')
         for e in g[sect]:
-            if e['policy'] == 'keep':
+            if not (e.get('render') or '').strip():
+                # An entry with no fixed rendering: the term names a CLASS whose
+                # English is whatever the page says - a settlement name, for one.
+                # Printing "keep as ``" told the model nothing at all.
+                rule = 'keep exactly as the page spells it'
+            elif e['policy'] == 'keep':
                 rule = f"keep as `{e['render']}`"
             else:
                 rule = f"render as `{e['render']}`"

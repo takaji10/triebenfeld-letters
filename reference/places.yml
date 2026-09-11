@@ -192,6 +192,67 @@ places:
     variants: []
     distinct_from: [michalinow-olesnicki]
 
+  # --- the Olęder colonies themselves -------------------------------------
+  # A Hollander or Olęder is the PERSON, holding under Dutch-law tenure; a
+  # Hollendry or Olędry is the COLONY he lives on. The German deeds name the
+  # colonies as <Place>er Hauländ / <Place>er Holländ, and the Polish sources
+  # as <Place>skie Olędry. They are settlements with names, not a collective
+  # noun for the settlers, and the translation keeps them as it keeps any place
+  # name - see the Holländ entry in reference/translation_glossary.yml.
+  #
+  # Deliberately NOT given `match` patterns yet. Each is a place the corpus
+  # names in passing, and the edition has not established which of them are the
+  # same settlement under two names: the register has Trąbczyńskie Stare Olędry
+  # also appearing as Łazińsk and Łaziny, and Łukomskie Olędry of 1771-81 as a
+  # different entity from the Łukomskie Olędry of 1798. Recording the names
+  # first, and the identities when they are settled, is the right order.
+  trabczynskie-stare-oledry:
+    display: "Trąbczyńskie Stare Olędry"
+    kind: settlement
+    tier: "Book-confirmed"
+    variants:
+      - {form: "Trombschino-Hauland", match: false, seen_in: ["Hohenlohe-era estate inventory"]}
+      - {form: "Trąbczyner Holländ",  match: false, seen_in: ["oe1bu14526-17"]}
+      - {form: "Łazińsk",             match: false}
+      - {form: "Łaziny",              match: false}
+    open_questions:
+      - "The 1746 foundation, and the primary chronological anchor of the whole
+         project. Whether Łazińsk / Łaziny name this settlement or a part of it
+         is not established here."
+
+  trabczynskie-nowe-oledry:
+    display: "Trąbczyńskie Nowe Olędry"
+    kind: settlement
+    tier: "Book-confirmed"
+    variants: []
+    open_questions:
+      - "First attested in metrical records 29 September 1776 (register)."
+
+  lukomskie-oledry:
+    display: "Łukomskie Olędry"
+    kind: settlement
+    tier: "Book-confirmed"
+    variants: [{form: "Chełmskie Olędry", match: false}]
+    open_questions:
+      - "TWO entities under one name, per the register: the temporary one of
+         1771-81 created by the court-ordered transfer, and a separate place
+         northwest of Łukom on Perthées' 1798 map. Not yet split here."
+
+  krolikower-hollaend:
+    display: "Krolikower Holländ"
+    kind: settlement
+    tier: "Context-inferred (named as a party's home in oe1bu14526-17)"
+    variants: []
+
+  peyserschen-hauland:
+    display: "Peyserschen Hauland"
+    kind: settlement
+    tier: "Context-inferred"
+    variants: []
+    open_questions:
+      - "The Hauland of Pyzdry - see [[pyzdry]]. Whether this is one settlement
+         or the district's colonies collectively is not established."
+
   # --- Prussian and German places ----------------------------------------
   berlin:
     display: "Berlin"
