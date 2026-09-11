@@ -45,8 +45,12 @@
   letters: [{id: "171", url: "/letters/oe1bu9454/171/"}]
 - name: "Frankfurt an der Oder"
   slug: "frankfurt-an-der-oder"
-  count: 5
-  letters: [{id: "130", url: "/letters/oe1bu9454/130/"}, {id: "132", url: "/letters/oe1bu9454/132/"}, {id: "133", url: "/letters/oe1bu9454/133/"}, {id: "136", url: "/letters/oe1bu9454/136/"}, {id: "137", url: "/letters/oe1bu9454/137/"}]
+  count: 4
+  letters: [{id: "130", url: "/letters/oe1bu9454/130/"}, {id: "132", url: "/letters/oe1bu9454/132/"}, {id: "133", url: "/letters/oe1bu9454/133/"}, {id: "137", url: "/letters/oe1bu9454/137/"}]
+- name: "Frankfurth an der Oder"
+  slug: "frankfurth-an-der-oder"
+  count: 1
+  letters: [{id: "136", url: "/letters/oe1bu9454/136/"}]
 - name: "Freyberg"
   slug: "freyberg"
   count: 1

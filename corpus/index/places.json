@@ -349,12 +349,11 @@
  },
  {
   "place": "Frankfurt an der Oder",
-  "count": 5,
+  "count": 4,
   "documents": [
    "oe1bu9454-130",
    "oe1bu9454-132",
    "oe1bu9454-133",
-   "oe1bu9454-136",
    "oe1bu9454-137"
   ]
  },
@@ -476,6 +475,13 @@
   "count": 1,
   "documents": [
    "oe1bu9454-126"
+  ]
+ },
+ {
+  "place": "Frankfurth an der Oder",
+  "count": 1,
+  "documents": [
+   "oe1bu9454-136"
   ]
  },
  {

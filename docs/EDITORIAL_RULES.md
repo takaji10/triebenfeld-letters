@@ -39,6 +39,14 @@ sentence, which is an editorial act.
 
 ## What is never changed without the editor
 
+- **Place names that are simply garbled.** The editor's ruling: a mangled
+  place-form is usually transcription damage, not a different place -
+  `Traperiner` is Trąbcziner, `Wun` is Wien, `Owringen` is Öhringen, `Königubern`
+  is Königsberg. Where the proposed form is a place the canon already knows,
+  correct it. The one exception is the exception that matters: a change that
+  moves a reading between **Trąbczyn, Wrąbczyn and Wrąbczynek** alters which
+  village is meant, and only the editor makes it.
+
 - **Names.** Of people and of places. `Wittowes`, `Breschlau`, `Marianton`,
   `Rzadkowski` stay as written. A name silently improved destroys the evidence
   that the reading was wrong, and place-name variants are frequently the whole
