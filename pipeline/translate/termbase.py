@@ -43,6 +43,7 @@ def load():
     import entities
     g = yaml.safe_load(open(GLOSSARY, encoding='utf-8')) or {}
     g['canonical_names'] = entities.canonical_renders()
+    g['never_merge'] = entities.never_merge()
     for sect, _ in SECTIONS:
         g.setdefault(sect, [])
     g.setdefault('forbidden_renders', [])

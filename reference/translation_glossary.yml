@@ -12,6 +12,13 @@
 #   translate       replace with `render`
 #   gloss-first-use keep the German, but gloss it the first time in a letter
 #
+# `also` lists further renderings that satisfy the check. For a German word
+# with more than one correct English depending on sense - Pohlen is the country
+# and the people, Herzog is the Duke and the Duchess - insisting on one of them
+# reports the other as drift. Use it only where BOTH are right; a term that
+# should have settled on one rendering must keep only that one, or the termbase
+# stops doing its job.
+#
 # `poles` is only for the rare confusion pairs. collate_translations.py uses it
 # to tell a real meaning-reversal from ordinary paraphrase: if the two witnesses
 # land in different poles that is a divergence worth your time; same pole, or
@@ -704,6 +711,9 @@ exonyms:
     pattern: '\bPo(h)?len\b'
     policy: translate
     render: 'Poland'
+    also: ['Poles', 'Polish']
+    gloss: 'the same German word is the country and the people; both
+      Englishes are right and the context decides which'
   - term: Österreich
     pattern: '\b(Ö|Oe)sterreich\b'
     policy: translate
@@ -733,6 +743,99 @@ exonyms:
 #   B:    could be Barbe, Beyme or Brzechsta
 # Where the referent is genuinely unclear, keep the abbreviation and flag it.
 
+  # --- states, peoples and rivers ----------------------------------------
+  # The correspondence of 1806-1816 is largely about who is at war with whom,
+  # so these are not incidental colour. They were missing, and the first full
+  # batch reported each of them as a name it had supplied and the German did
+  # not have - around eighty rows of nothing, in which five real losses sat.
+  # The English forms below are the ones the batch already used; recording
+  # them makes the agreement enforceable rather than lucky.
+  - term: Württemberg
+    pattern: '\bW(ü|ue|u)r(t|tt)emberg\w*'
+    policy: translate
+    render: 'Württemberg'
+  - term: Bayern
+    pattern: '\bBa(y|i)ern\b'
+    policy: translate
+    render: 'Bavaria'
+  - term: bayerisch
+    pattern: '\bba(y|i)erisch\w*'
+    policy: translate
+    render: 'Bavarian'
+  - term: Hannover
+    pattern: '\bHann?over\w*'
+    policy: translate
+    render: 'Hanover'
+  - term: Hessen
+    pattern: '\bHessen\b'
+    policy: translate
+    render: 'Hesse'
+  - term: hessisch
+    pattern: '\bhessisch\w*'
+    policy: translate
+    render: 'Hessian'
+  - term: Schweiz
+    pattern: '\bSchwei(z|tz)\w*'
+    policy: translate
+    render: 'Switzerland'
+  - term: Frankreich
+    pattern: '\bFrankreich\b'
+    policy: translate
+    render: 'France'
+  - term: französisch
+    pattern: '\bfranz(ö|oe)sisch\w*'
+    policy: translate
+    render: 'French'
+  - term: England
+    pattern: '\bEngland\b'
+    policy: translate
+    render: 'England'
+  - term: Rußland
+    pattern: '\bRu(ß|ss)land\b'
+    policy: translate
+    render: 'Russia'
+  - term: russisch
+    pattern: '\bru(ß|ss)isch\w*'
+    policy: translate
+    render: 'Russian'
+  - term: pohlnisch
+    pattern: '\bpoh?lnisch\w*'
+    policy: translate
+    render: 'Polish'
+  - term: Ungarn
+    pattern: '\bUngarn\b'
+    policy: translate
+    render: 'Hungary'
+  - term: Dänemark
+    pattern: '\bD(ä|ae)nemark\b'
+    policy: translate
+    render: 'Denmark'
+  - term: Holland
+    pattern: '\bHolland\b'
+    policy: translate
+    render: 'Holland'
+    gloss: 'the country. NOT to be confused with Hauländer, the settlers, who are not Dutch - see terms.'
+  - term: Prag
+    pattern: '\bPrag\b'
+    policy: translate
+    render: 'Prague'
+  - term: Rhein
+    pattern: '\bRhein\b|\bRheins\b'
+    policy: translate
+    render: 'Rhine'
+  - term: Elbe
+    pattern: '\bElbe\b'
+    policy: translate
+    render: 'Elbe'
+  - term: Weichsel
+    pattern: '\bWeichsel\b'
+    policy: translate
+    render: 'Vistula'
+  - term: Oder
+    pattern: '\bOder[- ]Stroh?m\b'
+    policy: translate
+    render: 'Oder'
+    gloss: 'the river. The bare word Oder is the German for "or" and is not matched.'
 abbreviations:
   - short: 'Hard:'
     expand: Hardenberg

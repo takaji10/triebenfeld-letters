@@ -52,6 +52,7 @@ CORRESPONDENTS = os.path.join(UNIT.dir, 'correspondents.json')
 MODEL = 'claude-opus-5'
 MAX_TOKENS = 16000       # floor: enough for any letter in the correspondence
 MAX_TOKENS_CEILING = 32000
+ATTEMPTS = 3           # a refused result is retried; see run_live()
 
 # $ per million tokens (input, output), for the run's own cost readout.
 PRICES = {'claude-opus-5': (5, 25), 'claude-fable-5-1': (10, 50),
@@ -106,6 +107,15 @@ def glossary_table(g):
             if e.get('gloss'):
                 line += f"   ({e['gloss']})"
             out.append(line)
+    nm = g.get('never_merge') or []
+    if nm:
+        out.append('\nNEVER MERGE THESE - they are DIFFERENT places or people,'
+                   ' however alike they look.')
+        out.append('  The canonical table above resolves misspellings. These are'
+                   ' not misspellings of each other, and folding one into the'
+                   ' other is a factual error, not a tidy-up:')
+        for name, others in nm:
+            out.append(f'  {name} is NOT {" and NOT ".join(others)}')
     out.append('\nRARE CONFUSION PAIRS - flag EVERY occurrence, without exception:')
     for e in g['rare_pairs']:
         out.append(f"  {e['pair'][0]} / {e['pair'][1]}: {e['note']}")
@@ -582,27 +592,48 @@ def run_live(recs, client, system, corr, model=None, tag=None):
         if already(lid, tag):
             print(f'  [{i}/{len(recs)}] L{lid} - already done, skipping')
             continue
-        try:
-            with client.messages.stream(**request_params(rec, corr, system, model)) as s:
-                msg = s.get_final_message()
-        except anthropic.APIStatusError as e:
-            print(f'  [{i}/{len(recs)}] L{lid} - API error {e.status_code}: {e.message}')
-            continue
-        except anthropic.APIConnectionError as e:
-            print(f'  [{i}/{len(recs)}] L{lid} - connection error: {e}')
-            continue
-        payload = extract(msg)
+        # Retried, because the failure it retries is transient and cheap to
+        # beat. Roughly one call in eight returns `pages` as a string that will
+        # not parse - normalise() handles the parseable case, this is the rest -
+        # and a document that failed twice in a row succeeded first time on the
+        # third attempt, twice over. Re-running those by hand cost more in
+        # discarded good answers than the retries cost.
+        #
+        # And nothing is written until the shape is right. The old code saved
+        # first and printed a warning, which put a file on disk that only
+        # already()'s shape check kept from being mistaken for a translation.
+        payload = usage = None
+        for attempt in range(1, ATTEMPTS + 1):
+            try:
+                with client.messages.stream(**request_params(rec, corr, system, model)) as s:
+                    msg = s.get_final_message()
+            except anthropic.APIStatusError as e:
+                print(f'  [{i}/{len(recs)}] L{lid} - API error {e.status_code}: {e.message}')
+                break
+            except anthropic.APIConnectionError as e:
+                print(f'  [{i}/{len(recs)}] L{lid} - connection error: {e}')
+                break
+            cand = extract(msg)
+            u = usage_of(msg)
+            cost_in += u['input'] + u['cache_read'] + u['cache_write']
+            cost_out += u['output']
+            pages = (cand or {}).get('pages')
+            ok = (isinstance(pages, list) and len(pages) == len(rec['pages'])
+                  and all(isinstance(x, dict) and x.get('en') for x in pages))
+            if ok:
+                payload, usage = cand, u
+                break
+            why = ('no tool call returned' if cand is None else
+                   f'{len(pages) if pages is not None else 0} segment(s) for '
+                   f'{len(rec["pages"])} manuscript page(s)')
+            tail = ' - retrying' if attempt < ATTEMPTS else ' - GIVING UP, not saved'
+            print(f'  [{i}/{len(recs)}] L{lid} - {why}{tail}')
         if payload is None:
-            print(f'  [{i}/{len(recs)}] L{lid} - no tool call returned, skipped')
             continue
-        usage = usage_of(msg)
         save(rec, payload, usage, tag, {'model': model or MODEL})
-        got = len(payload.get('pages', []))
-        warn = '' if got == len(rec['pages']) else f'  !! {got} segs for {len(rec["pages"])} pages'
-        cost_in += usage['input'] + usage['cache_read'] + usage['cache_write']
-        cost_out += usage['output']
         done += 1
-        print(f"  [{i}/{len(recs)}] L{lid} - {got} page(s), {usage['output']} out tok{warn}")
+        print(f"  [{i}/{len(recs)}] L{lid} - {len(payload['pages'])} page(s), "
+              f"{usage['output']} out tok")
     report_cost(done, cost_in, cost_out, model, time.time() - t0)
 
 

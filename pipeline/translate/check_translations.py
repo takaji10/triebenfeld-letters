@@ -104,6 +104,27 @@ def _is_exonym_render(word, glossary):
                for e in glossary.get(sect, []))
 
 
+def _left_in_german(entry, en):
+    """Is this term's own German form standing in the English?
+
+    Only meaningful for `policy: translate`. The term's spelling is used, not
+    its pattern: a pattern is written wide enough to catch inflections and
+    misreadings, and matching those against the English would report a cognate
+    as leakage. The bare word the termbase names is the thing that must not be
+    there.
+
+    Skipped where the term IS its English - Berlin, Hanover, England - since
+    then the German form standing in the English is the correct answer.
+    """
+    term = (entry.get('term') or '').strip()
+    render = (entry.get('render') or '').strip()
+    if not term or len(term) < 4 or term.lower() == render.lower():
+        return False
+    if term.lower() in render.lower():
+        return False
+    return bool(re.search(r'\b' + re.escape(term) + r'\b', en))
+
+
 def _renders(glossary):
     """Every English rendering the prompt asked for, lowercased."""
     return [(e.get('render') or '').lower()
@@ -227,9 +248,20 @@ def check_letter(rec, out, glossary, canon, rng):
     # canonical names (Trombczin -> Trabczyn). Without the second, every
     # canonicalisation the prompt asked for came back as a lost name.
     exonyms = set()
+    exo_rx = []
     for sect in ('exonyms', 'canonical_names'):
         for e in glossary.get(sect, []):
             exonyms.update(re.findall(r'[^\W\d_]{4,}', e['term']))
+            # The term's own spelling is not the only one it covers. `Sachsen`
+            # is the term; the page says `Sachßen`, which the entry's PATTERN
+            # matches and its spelling does not - so the token was checked as a
+            # name, found absent from an English reading `Saxony`, and reported
+            # lost. Ten times, for one entry. Test the pattern, which is what
+            # the entry actually asserts.
+            try:
+                exo_rx.append(re.compile(e['pattern'], re.I))
+            except re.error:
+                pass
 
     stats = {}
     letter_probe = []
@@ -257,7 +289,7 @@ def check_letter(rec, out, glossary, canon, rng):
 
         # -- names ---------------------------------------------------------
         for tok in set(re.findall(r'[^\W\d_]{4,}', de)):
-            if tok in exonyms:
+            if tok in exonyms or any(rx.fullmatch(tok) for rx in exo_rx):
                 continue      # correctly rendered into English; checked as glossary
             if tok in canon and tok not in en:
                 # a stem match satisfies it: German inflects, English possesses
@@ -336,11 +368,31 @@ def check_letter(rec, out, glossary, canon, rng):
             for e in glossary[sect]:
                 if re.search(e['pattern'], de, re.I):
                     want = e['render']
-                    if not rendering_present(want, en):
+                    # `also` is for a German word with more than one correct
+                    # English depending on sense. Pohlen is Poland and the
+                    # Poles; demanding the first reported every page using the
+                    # second as drift, 38 times over.
+                    if not any(rendering_present(w, en)
+                               for w in [want] + list(e.get('also') or [])):
                         rows.append(dict(kind='glossary-mismatch', page=n,
                                          german=e['term'], english=want,
                                          note='termbase rendering not found in the English'))
                         stats['glossary'] = stats.get('glossary', 0) + 1
+                    elif e['policy'] == 'translate' and _left_in_german(e, en):
+                        # The rendering test is a stem match, so it cannot tell
+                        # `Michaelmas` from `Michaelis` - the German word shares
+                        # the stem and satisfies the check while standing
+                        # untranslated in an English sentence. That is the exact
+                        # failure the house rule forbids, and it passed silently
+                        # 28 times. Asking the opposite question catches it:
+                        # for a term the edition says to TRANSLATE, the German
+                        # word appearing verbatim in the English is leakage.
+                        rows.append(dict(kind='untranslated-term', page=n,
+                                         german=e['term'], english=want,
+                                         note='the German term stands untranslated in '
+                                              'the English, though the rendering is '
+                                              'also present'))
+                        stats['untranslated_term'] = stats.get('untranslated_term', 0) + 1
 
         # -- gaps: the reliable damage signal is the marker, not a line range --
         if '[...]' in de:

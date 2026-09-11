@@ -274,6 +274,35 @@ def canonical_renders():
     return out
 
 
+def never_merge():
+    """[(display, [display, ...])] - pairs the edition must never fold together.
+
+    people.yml and places.yml have recorded `distinct_from` since the place
+    authority was written, and nothing read it. The first full batch showed
+    what that costs: given a CANONICAL NAMES table with a dozen Tr- spellings
+    all resolving to one village, the translator resolved Wrabczyn to it too,
+    in two documents. It is a different village, a few miles away, and the
+    book's own register says in as many words never to merge the two.
+
+    The two-tier names rule already says not to extrapolate to a form the table
+    does not list. That was not enough for a form one letter away from a dozen
+    listed ones, so the prohibition is now stated positively and by name.
+    """
+    out = []
+    for records in (load_people_records(), load_place_records()):
+        for slug, e in records.items():
+            others = [x for x in (e.get('distinct_from') or [])]
+            if not others:
+                continue
+            names = []
+            for o in others:
+                r = records.get(o) or {}
+                names.append(r.get('display') or o)
+            out.append(((e.get('display') or slug), names))
+    out.sort()
+    return out
+
+
 if __name__ == '__main__':
     import sys
     rows = canonical_renders()
