@@ -253,6 +253,15 @@
  ],
  "mentions": [
   {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface": "Oppenheimer",
+   "page": 1,
+   "page_id": "",
+   "line": 13542
+  },
+  {
    "entity": "lichnowski",
    "display": "Lichnowski",
    "kind": "person",

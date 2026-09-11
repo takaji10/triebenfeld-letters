@@ -39,6 +39,7 @@ import io, os, re, sys, csv, json, time, argparse
 import yaml
 import anthropic
 import unitlib
+import termbase
 import sys
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -80,15 +81,21 @@ PILOT = _pilot(UNIT)
 
 # ----------------------------------------------------------------- prompt --
 
+_GLOSSARY = []
+
+
 def load_glossary():
-    return yaml.safe_load(open(GLOSSARY, encoding='utf-8'))
+    if not _GLOSSARY:
+        _GLOSSARY.append(termbase.load())
+    return _GLOSSARY[0]
 
 
 def glossary_table(g):
     """The termbase, flattened into the form the model actually needs."""
     out = []
-    for sect, head in (('currency', 'CURRENCY'), ('honorifics', 'FORMS OF ADDRESS'),
-                       ('formulas', 'CLOSING FORMULAS'), ('terms', 'TERMS OF ART')):
+    for sect, head in termbase.SECTIONS:
+        if not g.get(sect):
+            continue
         out.append(f'\n{head}')
         for e in g[sect]:
             if e['policy'] == 'keep':
@@ -132,12 +139,15 @@ def unit_preamble(unit):
     return '\n'.join(out)
 
 
-def build_system(g, unit=None):
+def build_system(g, unit):
+    # `unit` is required. It used to default to None, with a fallback here
+    # describing one holding - letters, 1798-1816, von Triebenfeld,
+    # Hohenlohe-Ingelfingen - which is the exact class of thing
+    # check_pipeline.py exists to keep out of running code. It was
+    # unreachable, and it would have told a translator working through a
+    # volume of title deeds that it was reading correspondence.
     return f"""\
-{unit_preamble(unit) if unit is not None else
- 'You are translating a scholarly edition of letters written between 1798 and '
- '1816, mostly by a Prussian estate agent, the Kriegs- und Forstrath von '
- 'Triebenfeld, to his employer Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen.'}
+{unit_preamble(unit)}
 
 The German you are given was transcribed from Kurrent handwriting by machine and \
 then corrected by hand over many passes. It is largely sound but it is not \
@@ -161,16 +171,35 @@ guessed at, and your output is held to the same standard.
 HOUSE STYLE
 {g['house_style']}
 
-NUMBERS AND NAMES - carried across, never re-derived:
+NUMBERS - carried across, never re-derived. This rule is ABSOLUTE and has no \
+exceptions. The rule about names below DOES have one; do not generalise that \
+exception to this one:
   * Reproduce every numeral exactly as written. Do not convert, recompute, \
 correct, modernise or tidy a figure, even when it is obviously wrong. A sum that \
 reads 23000 in the German reads 23000 in the English.
-  * Reproduce every proper noun exactly as spelled in the German. Never \
-translate, normalise or "correct" a name, and never supply a name the German \
-does not have. Personal and place names are the least reliable part of this \
-transcription; silently improving one destroys the evidence that it was wrong.
-  * List what you carried across in the `names` and `numbers` fields so it can \
-be checked mechanically.
+  * List the figures you carried across in `numbers`, so it can be checked \
+mechanically.
+
+NAMES - never invented, never improvised, and standardised only where this \
+edition has already done the standardising:
+  * Where a name appears in the CANONICAL NAMES table below, use the canonical \
+form given there. That table is not a judgement you are being asked to make: it \
+is this edition's settled spelling, arrived at from the whole corpus and from \
+the book's own register of names. The English has to agree with what the \
+edition prints under that person's or place's own entry.
+  * Where a name is NOT in that table, reproduce it exactly as the German page \
+spells it. Do not normalise it, do not regularise it, and do not extrapolate \
+from the table to a form the table does not list. Personal and place names are \
+the least reliable part of this transcription, and silently improving one \
+destroys the evidence that it was wrong.
+  * Never supply a name the German does not have.
+  * For EVERY name, listed or not, give the pair in `names`: `de` is the form \
+standing on the German page, `en` is the form you used. Give the pair even when \
+the two are identical. The German spelling is the evidence, and `de` is where \
+it survives.
+  * Name order in the English is given name, then family name, then any title \
+or honorific. A predicate particle meaning "of" follows the family name: \
+Józef Brzeziński of Brzyzna, not the Polish interleaving.
 
 MARKS OF DOUBT - the German's holes stay holes in the English:
   * `[?]`      (illegible in the manuscript)   -> render as `[illegible]`
@@ -355,7 +384,30 @@ def german_for(rec):
     return '\n\n'.join(parts)
 
 
-def user_block(rec, corr):
+def latin_block(g):
+    """The Latin-only renderings, for a document rulings.yml records as Latin.
+
+    These cannot go in the cached system prompt. `pastor` is the shepherd in the
+    Latin estate documents and a clergyman in the German correspondence, where
+    reference/whos_who.md lists one among the creditors - so a rule stated once
+    for every document would be wrong for most of them. The language is already
+    known per document, so the section is appended only where it applies.
+    """
+    rows = g.get('latin_terms') or []
+    if not rows:
+        return ''
+    out = ['',
+           'LATIN TERMS - these apply to THIS document because it is in Latin. They do',
+           'NOT apply to the German documents, and in at least one case the German means',
+           'the opposite:']
+    for e in rows:
+        out.append(f"  {e['term']} -> render as `{e['render']}`"
+                   + (f"   ({e['gloss']})" if e.get('gloss') else ''))
+    return chr(10).join(out)
+
+
+def user_block(rec, corr, g=None):
+    g = g if g is not None else load_glossary()
     lid = str(rec['letter_id'])
     c = corr.get(lid, {})
     meta = [f"Letter {lid}", f"Date: {rec.get('date_display') or 'undated'}"]
@@ -370,10 +422,13 @@ def user_block(rec, corr):
                     "salutation and signature as they stand.)")
     meta.append(f"Manuscript pages: {len(rec['pages'])}")
     lang = LANG.get(lid)
+    extra = ''
     if lang:
         meta.append(f"NOTE: this document is in {lang}, not German. Translate from "
                     f"{lang}; the same rules apply.")
-    return (f"{chr(10).join(meta)}\n\n"
+        if 'latin' in lang.lower():
+            extra = latin_block(g)
+    return (f"{chr(10).join(meta)}{extra}\n\n"
             f"Translate the following, returning exactly {len(rec['pages'])} page "
             f"segment(s) via the submit_translation tool.\n\n{german_for(rec)}")
 
@@ -746,7 +801,7 @@ def main():
         print(f'system prompt: {len(system):,} chars (cached after the first call)')
         if chosen:
             print('\n--- first user block ---')
-            print(user_block(chosen[0], corr)[:1200])
+            print(user_block(chosen[0], corr, load_glossary())[:1200])
         return
 
     client = make_client()

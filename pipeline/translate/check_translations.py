@@ -42,6 +42,7 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
 import unitlib
+import termbase
 import io, os, re, sys, csv, json, random, argparse
 
 import yaml
@@ -92,9 +93,15 @@ def known_names():
 
 
 def _is_exonym_render(word, glossary):
-    """"Vienna" is not an invented name just because the German said "Wien"."""
+    """"Vienna" is not an invented name just because the German said "Wien".
+
+    Nor is "Trabczyn" an invented name because the page spelled it Trombczin.
+    Both sections are renderings the prompt asked for, so both exempt.
+    """
     w = word.lower()
-    return any(w in (e['render'] or '').lower() for e in glossary.get('exonyms', []))
+    return any(w in (e['render'] or '').lower()
+               for sect in ('exonyms', 'canonical_names')
+               for e in glossary.get(sect, []))
 
 
 def load_rulings():
@@ -160,9 +167,14 @@ def check_letter(rec, out, glossary, canon, rng):
                               f"{len(rec['pages'])} manuscript page(s)"))
         return rows, {'structure': 1}
 
+    # Terms whose English is deliberately not the German word. Built from
+    # BOTH sections that do that: exonyms (Wien -> Vienna) and the generated
+    # canonical names (Trombczin -> Trabczyn). Without the second, every
+    # canonicalisation the prompt asked for came back as a lost name.
     exonyms = set()
-    for e in glossary.get('exonyms', []):
-        exonyms.update(re.findall(r'[^\W\d_]{4,}', e['term']))
+    for sect in ('exonyms', 'canonical_names'):
+        for e in glossary.get(sect, []):
+            exonyms.update(re.findall(r'[^\W\d_]{4,}', e['term']))
 
     stats = {}
     letter_probe = []
@@ -199,6 +211,13 @@ def check_letter(rec, out, glossary, canon, rng):
                                      note='name in the German is absent from the English'))
                     stats['name'] = stats.get('name', 0) + 1
         for nm in seg.get('names') or []:
+            # The tool returns pairs now - {de: what the page says, en: what
+            # the English used}. Old cache files hold bare strings, and both
+            # shapes have to survive a sheet built over a part-migrated cache.
+            if isinstance(nm, dict):
+                nm = (nm.get('en') or nm.get('de') or '').strip()
+            if not isinstance(nm, str) or not nm.strip():
+                continue
             core = re.sub(r'^(v\.?|von|de)\s+', '', nm).strip()
             stem = re.sub(r'(s|n|en|es)$', '', core)[:5].lower()
             if core and len(stem) >= 4 and stem not in de.lower()                     and core not in exonyms and not _is_exonym_render(core, glossary):
@@ -242,8 +261,24 @@ def check_letter(rec, out, glossary, canon, rng):
                                           f"flagged by the model - blocks publication"))
                     stats['rare'] = stats.get('rare', 0) + 1
 
+        # -- renderings that must never appear -----------------------------
+        # Everything else here asks whether the right English arrived. This
+        # asks whether the wrong English did. It is the only check that can
+        # stop a correction the edition already made being made again by the
+        # next translation pass: hypocaustum came back as a chestnut table
+        # once, and nothing in this file could have caught it a second time.
+        for rx, when, render, why in termbase.forbidden(glossary):
+            if rx.search(en) and (when is None or when.search(de)):
+                rows.append(dict(kind='forbidden-render', page=n, german='',
+                                 english=render,
+                                 note=why or 'a rendering this edition has ruled against'))
+                stats['forbidden'] = stats.get('forbidden', 0) + 1
+
         # -- glossary consistency ------------------------------------------
-        for sect in ('currency', 'honorifics', 'formulas', 'terms', 'exonyms'):
+        # The same tuple the prompt is built from, so a section cannot be
+        # enforced without being taught. `exonyms` was enforced and never
+        # taught for the whole of the first published pass.
+        for sect, _ in termbase.SECTIONS:
             for e in glossary[sect]:
                 if re.search(e['pattern'], de, re.I):
                     want = e['render']
@@ -342,8 +377,9 @@ def main():
     # Keyed by pad, not by letter_id: the archive's own number is unique only
     # inside its holding, and both units have a document 2.
     recs = unitlib.records_by_pad(ROOT)
-    glossary = yaml.safe_load(open(os.path.join(ROOT, 'reference', 'translation_glossary.yml'),
-                                   encoding='utf-8'))
+    # Through termbase.load(), so the CANONICAL NAMES the prompt was given
+    # and the CANONICAL NAMES enforced here are the same list by construction.
+    glossary = termbase.load()
     canon = known_names()
     cleared = load_rulings()
     want = {x.strip() for x in a.letters.split(',') if x.strip()}
@@ -370,7 +406,11 @@ def main():
             r['pad'] = pad
             r['letter'] = lid
             r['ruling'] = ''
-        if any(r['kind'] in ('rare-pair', 'structure') for r in rows):
+        # forbidden-render joins the two blocking kinds: it means a reading
+        # the edition has already corrected has come back, and publishing it
+        # would put the error in print a second time.
+        if any(r['kind'] in ('rare-pair', 'structure', 'forbidden-render')
+               for r in rows):
             blocked.add(lid)
         all_rows.extend(rows)
         per_letter[pad] = stats

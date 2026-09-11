@@ -12,8 +12,30 @@
 #           that is not in the letter, which is worse than missing one.
 # tier      How firmly the person is identified, carried over from the last
 #           column of reference/whos_who.md, which stays the prose companion.
-# variants  Observed spellings of the name. Empty for now: these are
-#           adjudicated in the name sheets and folded back in here.
+# variants  Observed spellings of the name. A bare string means "fold this into
+#           the entity", and the build adds it to `match`, so recording a
+#           spelling here is what makes the edition find it. The long form
+#           {form:, match: false, seen_in: []} records a spelling as SEEN
+#           without asserting it is this person - which is how an unsettled
+#           identity is documented rather than silently merged.
+# render    The form the English translation should use for this person, where
+#           it differs from `display`. `display` is a catalogue entry and may
+#           carry a full name or a parenthetical; `render` is what belongs in a
+#           running sentence. Optional; defaults to `display`.
+# canonical Set false where the entity's OWN canonical spelling is unresolved.
+#           Such an entity is still matched, so the person stays findable, but
+#           no CANONICAL NAMES row is generated for it - the translation must
+#           not be told to standardise on a form the edition has not settled.
+# identity  Prose note on who this is, and where that was established.
+# distinct_from / merge
+#           Slugs this person is confused with. `merge: false` states that a
+#           divergence is documented rather than an error to be tidied away.
+# open_questions
+#           Unresolved identity conflicts, flagged rather than resolved.
+#
+# reference/places.yml is the same shape for places. Both are meant to stay
+# interoperable with Consistency_Register.md, which is the book's own authority
+# on names; where the two disagree, the register wins.
 #
 # The long tail - names vetted by name_catalogue.py but not individually
 # profiled - is NOT here. It is generated from reference/name_seeds.json at
@@ -108,9 +130,11 @@ people:
     variants: []
   gelanski:
     display: "Florian Gelanski"
+    render: "Gelanski"
     match: "Florian|Gelanski"
     tier: ""
-    variants: ["Florian"]
+    variants:
+      - {form: "Florian", canon: false}   # a given name, not a misspelling
   glenck:
     display: "Glenck"
     match: "Glenck|Glenk"
@@ -118,9 +142,10 @@ people:
     variants: ["Glenk"]
   gneust:
     display: "Gneust"
-    match: "Gneust|Wohlgeb"
+    match: "Gneust"
+    abbrev: "Wohlgeb"
     tier: ""
-    variants: ["Wohlgeb"]
+    variants: []
   goeschel:
     display: "Göschel"
     match: "Göschel"
@@ -173,6 +198,16 @@ people:
     match: "Hecker"
     tier: "Context-inferred"
     variants: []
+  held:
+    display: "Hans von Held"
+    match: 'v(?:on)?\.? ?Held\b'
+    tier: "Book-confirmed"
+    identity: >-
+      Author of the "Black Register" exposing the undervaluation of the South
+      Prussian donations (Consistency_Register.md, Hohenlohe era).
+      Matched only after v. / von: "Held" on its own is the ordinary German
+      word for a hero, and matching it bare tagged every one of them.
+    variants: []
   hertzog:
     display: "Hertzog"
     match: "Hertzog"
@@ -180,6 +215,7 @@ people:
     variants: []
   hirschel:
     display: "Abraham Moses Hirschel"
+    render: "Hirschel"
     match: "Hirchel|Hirschel"
     tier: ""
     variants: ["Hirchel"]
@@ -210,9 +246,23 @@ people:
     variants: []
   kaleschke:
     display: "Kaleschke"
-    match: "Kaleschke"
-    tier: ""
-    variants: []
+    match: "K[ao]leschke"
+    tier: "Context-inferred (office), spelling unresolved"
+    canonical: false        # see open_questions: the spelling itself is open
+    identity: >-
+      Actuarius of the Freiherrlich von Stillfried patrimonial court, alongside
+      Koeppen the Justitiarius.
+    variants:
+      - {form: "Koleschke", seen_in: ["the corpus outside the 1805 Power of Attorney"]}
+    open_questions:
+      - "The register records this name as Kaleschke in the 1805 Power of
+         Attorney and Koleschke elsewhere in the corpus, and calls the
+         divergence unresolved. Both forms are matched to one entity so the
+         person is findable, but neither spelling is asserted as canonical:
+         no canonical_names entry is generated for an entity whose own
+         spelling is still open."
+      - "review/name_catalogue.csv proposes Kaleschke as a variant of the city
+         Kalisch. It is not. See reference/places.yml, kalisz."
   kircheisen:
     display: "Kircheisen"
     match: "Kircheisen"
@@ -234,6 +284,14 @@ people:
     abbrev: "K[oö]ch:"
     tier: "Externally confirmed"
     variants: []
+  koeppen:
+    display: "Koeppen"
+    match: "K(?:oe|ö)ppen"
+    tier: "Context-inferred (office)"
+    identity: >-
+      Justitiarius of the Freiherrlich von Stillfried patrimonial court,
+      alongside the Actuarius - see [[kaleschke]].
+    variants: ["Köppen"]
   kunckel:
     display: "Kunckel"
     match: "Kunckel"
@@ -254,6 +312,13 @@ people:
     match: "Leixner"
     tier: ""
     variants: []
+  lichnowski:
+    display: "Lichnowski"
+    match: 'Lichnowsk\w*'
+    tier: "Book-confirmed (as claimants)"
+    identity: >-
+      The Lichnowski brothers, creditors and claimants against the estates.
+    variants: []
   lombardini:
     display: "Lombardini"
     match: "Lombardin"
@@ -272,6 +337,7 @@ people:
     variants: []
   meierowitz:
     display: "Franz Meierowitz"
+    render: "Meierowitz"
     match: "Meierowicz|Meierowitz"
     tier: ""
     variants: ["Meierowicz"]
@@ -307,6 +373,7 @@ people:
     variants: []
   nathan:
     display: "Salomon Nathan"
+    render: "Nathan"
     match: "Natan|Nathan"
     tier: ""
     variants: ["Natan"]
@@ -334,6 +401,11 @@ people:
     display: "Ogrodowicz"
     match: "Ogrodowicz"
     tier: ""
+    variants: []
+  oppenheimer:
+    display: "Oppenheimer"
+    match: "Oppenheimer"
+    tier: "Book-confirmed (as a creditor)"
     variants: []
   otocki:
     display: "Otocki"
@@ -437,6 +509,15 @@ people:
     match: "Stägemann"
     tier: "Externally confirmed"
     variants: []
+  stillfried:
+    display: "von Stillfried"
+    match: "Stillfried"
+    tier: "Book-confirmed (the court), the person behind it not pinned"
+    identity: >-
+      The Freiherrlich von Stillfried patrimonial court at Guhrwitz near
+      Breslau, whose Justitiarius and Actuarius are [[koeppen]] and
+      [[kaleschke]]. See reference/places.yml, guhrwitz.
+    variants: []
   stoessel:
     display: "Stössel"
     match: "Stössel"
@@ -454,9 +535,26 @@ people:
     variants: []
   triebenfeld:
     display: "v. Triebenfeld"
-    match: "Triebenfeld"
+    render: "von Triebenfeld"
+    match: "Trieben(?:feld|felde)"
     tier: "Established by the project itself; Charlotte context-inferred as his wife"
-    variants: []
+    identity: >-
+      Peter Friedrich August von Triebenfeld, Kriegsrath (Royal War Councillor)
+      and Hohenlohe's general plenipotentiary. Forenames confirmed in
+      Consistency_Register.md. His title is Kriegsrath, NOT Finanzrath or
+      Forstrath: a long-s misreading had produced the wrong institutional chain.
+    variants:
+      - "Trieberfeld"
+    open_questions:
+      - "Triebenfeld / Trieberfeld is an r/n ambiguity in Kurrent, not two men.
+         Folded in."
+  trzcinski:
+    display: "von Trzciński"
+    match: 'Trz[ciy]+[nń]sk\w*|Trzinsk\w*'
+    tier: "Book-confirmed (as a claimant)"
+    identity: >-
+      Ignatz von Trzciński, creditor and claimant against the estates.
+    variants: ["Trzcinski"]
   tschachmann:
     display: "Johann Gottlieb Tschachmann"
     match: "Tschachmann"

@@ -1,0 +1,408 @@
+# The places this edition recognises, and how each is matched and spelled.
+#
+# This file replaces reference/place_canon.yml, which recorded only "variant ->
+# the form the edition uses" and could therefore say nothing about a place
+# beyond its spelling. It could not record that two similar names are DIFFERENT
+# villages, could not say which document a variant was seen in, and could not be
+# matched against the body of a document at all - so Trąbczyn, the subject of
+# the whole archive, was indexed only where it appeared in a dateline.
+#
+# The shape mirrors reference/people.yml deliberately: one authority, one set of
+# habits, one loader pattern.
+#
+#   display       the form this edition prints. Polish diacritics preserved.
+#   kind          village | town | city | estate | settlement | region | country
+#   match         a regular expression, anchored at a word start by the build,
+#                 for finding the place in the body of a document. Optional: a
+#                 place with no `match` is still canonicalised on the dateline.
+#   variants      observed spellings. A bare string is shorthand for
+#                 {form: <string>, match: true}. The long form takes:
+#                   form     the spelling as it appears
+#                   match    false to record the variant as provenance WITHOUT
+#                            folding it into this entity - for a variant that is
+#                            genuinely unsettled, or belongs to another place
+#                   seen_in  uids or archival references where it was observed
+#   distinct_from slugs this place is repeatedly confused with. Recorded both
+#                 ways, because the confusion runs both ways.
+#   tier          how firmly identified, same vocabulary as people.yml
+#   open_questions unresolved identity conflicts, flagged rather than resolved
+#
+# The canon consumed by unitlib.load_place_canon() - variant (lowercased) ->
+# display - is DERIVED from `variants` here. Adding a variant therefore both
+# normalises the dateline and finds the place in the text.
+#
+# Standardisations below follow Consistency_Register.md ("Confirmed
+# terminology" and "Places"). Where the register and the corpus disagree, the
+# register wins: it is the book's settled standard and this edition is meant to
+# stay interoperable with it rather than compete with it.
+
+places:
+
+  # --- the estate and its neighbours ------------------------------------
+  trabczyn:
+    display: "Trąbczyn"
+    kind: village
+    match: 'Tr[ąa][bmp]c?z[yi]n\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner'
+    tier: "Book-confirmed"
+    variants:
+      - "Trąbczin"
+      - "Trąpczyn"
+      - "Trąbrzyn"
+      - "Trabryn"
+      - "Trąbczynen"
+      - {form: "Trąmpczyn", seen_in: ["Latin documents; register, Places"]}
+      - {form: "Trabezyner"}
+      - {form: "Trąbczner"}
+      - {form: "Trąbzyn"}
+      # German-era forms, confirmed in the register
+      - {form: "Trombczin",  seen_in: ["Hohenlohe corpus"]}
+      - {form: "Träbczyn",   seen_in: ["Hohenlohe corpus"]}
+      - {form: "Prosrzyner", seen_in: ["Hohenlohe corpus"]}
+    distinct_from: [wrabczyn, wrabczynek]
+    open_questions:
+      - "Trombschino-Hauland is the Olęder colony on the estate, not the village
+         itself. It is matched here for now; when the colony has documents of its
+         own it should become a separate entity."
+
+  wrabczyn:
+    display: "Wrąbczyn"
+    kind: village
+    match: 'Wr[ąa]bcz[yi]n(?!ek)\w*'
+    tier: "Book-confirmed"
+    variants: []
+    distinct_from: [trabczyn, wrabczynek]
+    open_questions:
+      - "A DIFFERENT village from Trąbczyn, and nearby, so the two appearing in
+         one document is unremarkable and is not evidence of a misreading.
+         Never fold either into the other, and never match this group on a stem."
+
+  wrabczynek:
+    display: "Wrąbczynek"
+    kind: village
+    match: 'Wr[ąa]bcz[yi]nek\w*'
+    tier: "Book-confirmed"
+    variants: []
+    distinct_from: [trabczyn, wrabczyn]
+
+  lukom:
+    display: "Łukom"
+    kind: settlement
+    match: '[ŁL]ukom(?!i)\w*'
+    tier: "Book-confirmed"
+    variants: []
+    distinct_from: [lukomia]
+    open_questions:
+      - "The register's standardisation rule: Łukom is the SETTLEMENT name, used
+         in directional travel phrases; Łukomia is the ESTATE name, used in legal
+         and tenurial contexts. The distinction is the document's own and is
+         maintained in translation - do not collapse them."
+
+  lukomia:
+    display: "Łukomia"
+    kind: estate
+    match: '[ŁL]ukomi\w*'
+    tier: "Book-confirmed"
+    variants: []
+    distinct_from: [lukom]
+
+  zagorowo:
+    display: "Zagorowo"
+    kind: town
+    match: 'Zag[oó]row\w*|Zagurow\w*'
+    tier: "Book-confirmed"
+    variants:
+      - "Zagowo"
+      - {form: "Jogorowo"}
+      - {form: "Zagórów", canon: false}   # more correct than the form this
+                                          # edition prints; see open_questions
+      - {form: "Zagurowo"}
+      - {form: "Lagurowo", match: false,
+         seen_in: ["a Z/L letterform error; see the register"]}
+    open_questions:
+      - "The register gives this place as Zagórów / Zagórowo / Zagurowo, with
+         Polish diacritics preserved. The corpus dateline reads Zagorowo and that
+         is what this edition currently prints; whether display should become
+         Zagórów is an editorial call left to the editor."
+      - "Lagurowo is a Z/L letterform misreading, never a spelling of this place.
+         Recorded with match: false so it is documented but not folded in, and
+         listed in the glossary's forbidden_renders."
+
+  # --- Olęder colonies and adjacent settlements ---------------------------
+  swiatniki:
+    display: "Swiątniki"
+    kind: village
+    match: 'Swi[ąę]tnik\w*'
+    tier: ""
+    variants: ["Swiątniker", "Swiętnik"]
+
+  szetlewek:
+    display: "Szetlewek"
+    kind: village
+    match: 'Sz[ei]tt?lew\w*'
+    tier: "Context-inferred"
+    variants:
+      - "Stetlewek"
+      - "Szettlewch"
+      - {form: "Szeklejówek", match: false}
+    open_questions:
+      - "The register records Szeklejówek as a tentative identification with
+         Szetlewek. Not settled, so not matched."
+
+  kopojno:
+    display: "Kopojno"
+    kind: village
+    match: 'Kop[oa]yn\w*|Kopojn\w*'
+    tier: ""
+    variants: ["Kopoyno"]
+
+  witow:
+    display: "Witów"
+    kind: village
+    match: 'W[iy]tt?ow\w*'
+    tier: ""
+    variants: ["Witow", "Wittow", "Witttow", "Wyttow", "Witowes"]
+
+  kamionno:
+    display: "Kamionno"
+    kind: estate
+    match: 'Kamionn?o\w*'
+    tier: "Book-confirmed"
+    variants: [{form: "Kamień", match: false}]
+
+  kolno:
+    display: "Kolno"
+    kind: estate
+    match: 'Kolno\b'
+    tier: "Book-confirmed"
+    variants: []
+
+  michalinow-olesnicki:
+    display: "Michalinów Oleśnicki"
+    kind: settlement
+    tier: "Book-confirmed"
+    variants: []
+    distinct_from: [michalinow-oledry]
+    open_questions:
+      - "Distinct from Michalinów Olędry; the register is explicit - do not merge."
+
+  michalinow-oledry:
+    display: "Michalinów Olędry"
+    kind: settlement
+    tier: "Book-confirmed"
+    variants: []
+    distinct_from: [michalinow-olesnicki]
+
+  # --- Prussian and German places ----------------------------------------
+  berlin:
+    display: "Berlin"
+    kind: city
+    match: 'Berlin\w*'
+    tier: "Established"
+    variants:
+      - "Berlin[?]"
+      - "Ber[lin?]"
+      - "Berl"
+      - "B[erlin?]"
+      - {form: "Berti"}
+
+  breslau:
+    display: "Breslau"
+    kind: city
+    match: 'Bre(?:ss|ß|ſs|s)?lau\w*'
+    tier: "Established"
+    variants:
+      - "Breslau[?]"
+      - "Bre[slau?]"
+      - {form: "Breclau"}
+      - {form: "Breslaw"}
+      - {form: "Breſslau"}
+      - {form: "Brulau"}
+
+  frankfurt-an-der-oder:
+    display: "Frankfurt an der Oder"
+    kind: city
+    tier: "Established"
+    variants:
+      - "Franckfurth"
+      - "Franckfurth a d h"
+      - "Fr a. d. Oder"
+      - "Prandfurth a d o[der]"
+      - "Fraudfurth an der Oder"
+      - {form: "Franchfurth"}
+      - {form: "Franckfurke"}
+
+  koenigsberg:
+    display: "Königsberg"
+    kind: city
+    match: 'K(?:ö|oe|ue|ü)nig[si]berg\w*'
+    tier: "Established"
+    variants:
+      - "Konigsberg"
+      - {form: "Königiberg"}
+      - {form: "Künigsberg"}
+
+  dresden:
+    display: "Dresden"
+    kind: city
+    match: 'Dre(?:ß|ss)den\w*'
+    tier: "Established"
+    variants: ["Dreßden"]
+
+  wien:
+    display: "Wien"
+    kind: city
+    tier: "Established"
+    variants:
+      - "Wein"
+      - {form: "Wien[?]", match: false}   # a trailing [?] is a ruling, not a spelling
+
+  posen:
+    display: "Posen"
+    kind: city
+    match: 'Posen\b'
+    tier: "Established"
+    variants: ["Poser"]
+
+  brieg:
+    display: "Brieg"
+    kind: town
+    match: 'Brieg\b'
+    tier: ""
+    variants: ["Brzeg"]
+
+  betsche:
+    display: "Betsche"
+    kind: town
+    match: 'Betsche\w*'
+    tier: ""
+    variants: ["Betsch"]
+
+  oehringen:
+    display: "Öhringen"
+    kind: town
+    match: '(?:Ö|Oe)hringen\w*'
+    tier: "Established"
+    variants:
+      - "Erhringen"
+      - {form: "Öhringen[?]", match: false}
+      - {form: "Obringen"}
+      - {form: "Owringen"}
+
+  schlawenschitz:
+    display: "Schlawenschitz"
+    kind: village
+    match: 'Schlaw[ei]n[sz]ch?[iü]t?z\w*'
+    tier: ""
+    variants:
+      - "Schlawenzitz"
+      - {form: "Schlawenschutz"}
+      - {form: "Schlawenschütz"}
+      - {form: "Schlawentzitz"}
+      - {form: "Schlawinschitz"}
+
+  guhrwitz:
+    display: "Guhrwitz"
+    kind: estate
+    match: 'Guhrwitz\w*'
+    tier: "Context-inferred"
+    variants: []
+    open_questions:
+      - "Rittergut near Breslau, seat of the Freiherrlich von Stillfried
+         patrimonial court. Stillfried's ownership there in 1805 is unconfirmed."
+
+  # --- Polish and South Prussian places ----------------------------------
+  pyzdry:
+    display: "Pyzdry"
+    kind: town
+    match: 'Pyzdry\w*|Pe[iy]sern\w*'
+    tier: "Established"
+    variants:
+      - "Peysern"
+      - "Peisern"
+    open_questions:
+      - "Peisern is the German name of Pyzdry; the edition uses the Polish form."
+
+  kalisz:
+    display: "Kalisz"
+    kind: city
+    match: 'Kalis(?:z|ch)\w*'
+    tier: "Established"
+    variants:
+      - {form: "Kalisch"}
+      - {form: "Katisch"}
+    open_questions:
+      - "review/name_catalogue.csv lists Kaleschke as a variant of Kalisch. It is
+         not: Kaleschke is the Actuarius of the von Stillfried court, see
+         reference/people.yml. Not folded in."
+
+  konin:
+    display: "Konin"
+    kind: town
+    match: 'Konin\w*'
+    tier: "Established"
+    variants: []
+
+  blizanow:
+    display: "Blizanow"
+    kind: village
+    match: 'Bl[ie][zr]anow\w*'
+    tier: ""
+    variants: ["Bleranow"]
+
+  kontop:
+    display: "Kontop"
+    kind: village
+    match: 'K[oc]ontop\w*'
+    tier: ""
+    variants:
+      - "Kontop. 27ten"
+      - {form: "Kontop[?]", match: false}
+      - {form: "Contop"}
+      - {form: "Kontip"}
+
+  glazewo:
+    display: "Głazewo"
+    kind: village
+    match: 'G[lł][oa][zs]ewo\w*|G[lł]azewi\w*'
+    tier: ""
+    variants:
+      - "Gloszewo"
+      - "Glowewo"
+      - "Glazewo"
+      - "Głazewie"
+    open_questions:
+      - "One village in the Betsche key, spelled four ways across the German and
+         the Polish of the same document group."
+
+  dolsk:
+    display: "Dolsk"
+    kind: town
+    match: 'Dol(?:sk|zig)\w*'
+    tier: ""
+    variants: ["Dolzig"]
+
+  alexandrien:
+    display: "Alexandrien"
+    kind: settlement
+    match: 'Al+exandri\w*'
+    tier: ""
+    variants: ["Allexandrien"]
+
+  orzeszkowo:
+    display: "Orzeszkowo"
+    kind: village
+    match: 'Orze[sz]{1,2}kow\w*'
+    tier: ""
+    variants: ["Orzeskowo"]
+
+  bialobrzeg:
+    display: "Białobrzeg"
+    kind: village
+    match: 'Bia[lł]a?[ -]?brz[ie]g\w*'
+    tier: ""
+    variants: ["Biala Brzig"]
+
+# Fragments that look like a place in a dateline but are not one.
+reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn",
+         "so bekomme ich", "thl. 13", "uria", "wun",
+         "übrigens sorgen sie ja daß f"]

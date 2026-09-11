@@ -78,6 +78,15 @@
  ],
  "mentions": [
   {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface": "Oppenheimer",
+   "page": 1,
+   "page_id": "",
+   "line": 2902
+  },
+  {
    "entity": "bernhard",
    "display": "Meyer Bernhard",
    "kind": "person",

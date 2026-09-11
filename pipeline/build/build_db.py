@@ -92,7 +92,7 @@ PLACE_NOISE = re.compile(
 # page; normalisation happens here, so both remain inspectable.
 # ---------------- editorial rulings ----------------
 # Decisions live in units/<slug>/rulings.yml, keyed by the archive's own
-# document number, and the place canon is shared in reference/place_canon.yml.
+# document number, and the place canon is shared in reference/places.yml.
 # Adding a unit means writing those files, not editing this one.
 _R = unitlib.load_rulings(UNIT)
 PLACE_CANON     = _R['PLACE_CANON']

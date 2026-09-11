@@ -226,7 +226,8 @@ units/<slug>/rulings.yml     editorial decisions: doc_type, language, dates, pla
                              relations, duplicate_of, damage
 units/<slug>/unit.yml        where the scans are, how files are named
 reference/people.yml         who the edition recognises, and how each is matched
-reference/place_canon.yml    variant spellings of one place
+reference/places.yml         canonical places, their variants, patterns and
+                             the distinctions that must never be merged
 ```
 
 **Adjudicated** - proposed by a tool, decided by a human, then applied:

@@ -52,6 +52,19 @@ description: >-
   of it is exactly that: several instruments survive here in two copies, which
   is what lets one settle the other's damaged readings.
 
+# The convention-setting sample for translate.py --pilot. Chosen for what can
+# go wrong here rather than for what is typical:
+#   31  the Posen chapter privilege in LATIN - the only document that should
+#       receive the glossary's latin_terms section
+#   30  the SAME instrument in German, which must NOT receive it. The pair is
+#       the test of the language gate, and it is worth a dollar to know the
+#       gate works before 350 documents depend on it
+#   23  the longest document in the holding, 26 pages, which silently truncated
+#       at the old flat token ceiling
+#    7  the densest Polish, opening its court protocol in it
+#    9  Polish in the body, and Latin tags, in one document
+translation_pilot: ["31", "30", "23", "7", "9"]
+
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.
 translation_note: >-

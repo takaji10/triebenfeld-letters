@@ -19,7 +19,7 @@ against the archival text rather than against a rendering of it.
 Authorities
   reference/people.yml       the curated people, their patterns, abbreviations
   reference/name_seeds.json  the long tail vetted by name_catalogue.py
-  reference/place_canon.yml  variant spellings of one place
+  reference/places.yml       canonical places, their variants and patterns
 """
 import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
@@ -41,6 +41,58 @@ def _slug(s):
     return s
 
 
+def load_people_records():
+    """{slug: record} - reference/people.yml as authored, nothing dropped.
+
+    load_people() below returns a three-tuple because three callers unpack it
+    positionally, and widening that tuple would break all of them at once. But a
+    tuple of (slug, display, regex) throws away tier, variants, identity and open
+    questions - everything that makes an entity more than a pattern. So the whole
+    record is available here, and load_people() is a projection of it.
+    """
+    import yaml
+    path = os.path.join(ROOT, 'reference', 'people.yml')
+    with open(path, encoding='utf-8') as f:
+        return (yaml.safe_load(f) or {}).get('people') or {}
+
+
+def load_place_records():
+    """{slug: record} - reference/places.yml as authored."""
+    return unitlib.load_places_authority().get('places') or {}
+
+
+def _pattern_for(entry):
+    """One entity's full pattern: `match`, its abbreviations, and its variants.
+
+    Variants used to be decoration - twelve were recorded and not one was read
+    by anything, so authoring a variant did nothing at all. Folding them in here
+    means that recording an observed spelling is what makes the edition find it.
+    A variant marked `match: false` is deliberately left out: that is how a
+    spelling is documented as seen WITHOUT asserting it is this entity, which is
+    what an unsettled identity needs.
+
+    A variant the entity's own `match` ALREADY finds is left out too, and that
+    one is not an optimisation. Seventeen variants restate an alternative that
+    `match` spells more carefully: honrichs matches `Hon(?![a-zà-ÿ])` and lists
+    `Hon` as a variant, knoblauch matches `Knob(?![a-zà-ÿ])` and lists `Knob`.
+    Appending the bare form alongside re-admits everything the guard was written
+    to exclude - the first run of this took Honrichs from 43 documents to 48 and
+    Knoblauch from 1 to 11. A redundant alternative can only ever loosen a
+    pattern, so a variant already covered is dropped.
+    """
+    parts = []
+    pat = (entry.get('match') or '').strip()
+    if pat:
+        parts.append(pat)
+    if entry.get('abbrev'):
+        parts.append(entry['abbrev'])
+    known = re.compile(pat) if pat else None
+    for form, matched in unitlib.entity_variants(entry):
+        if matched and not (known and known.search(form)):
+            parts.append(re.escape(form))
+    return '|'.join(parts)
+
+
 def load_people():
     """[(slug, display, compiled)] - the curated authority, then the long tail.
 
@@ -48,18 +100,13 @@ def load_people():
     distinctions the statistics cannot see. The tail only fills what they miss,
     and is skipped wherever a curated pattern already matches the name.
     """
-    import yaml
-    path = os.path.join(ROOT, 'reference', 'people.yml')
-    with open(path, encoding='utf-8') as f:
-        data = (yaml.safe_load(f) or {}).get('people') or {}
+    data = load_people_records()
 
     out, covered = [], []
     for slug, e in data.items():
-        pat = (e.get('match') or '').strip()
+        pat = _pattern_for(e)
         if not pat:
             continue
-        if e.get('abbrev'):
-            pat = pat + '|' + e['abbrev']
         rx = re.compile(_ANCHOR % pat, re.UNICODE)
         out.append((slug, e.get('display') or slug, rx))
         covered.append(re.compile(pat, re.UNICODE))
@@ -86,25 +133,40 @@ def load_places():
     return unitlib.load_place_canon()
 
 
-def mentions(rec, people=None):
-    """Every person mentioned in one record, with where it was found.
+def place_authority():
+    """[(slug, display, compiled)] for places, in the shape load_people() uses.
+
+    A place with no `match` is still canonicalised on the dateline; it simply
+    cannot be found in the body of a document, which is the honest outcome for a
+    place we know the name of but not how the writers spell it.
+    """
+    out = []
+    for slug, e in load_place_records().items():
+        pat = _pattern_for(e)
+        if pat:
+            out.append((slug, e.get('display') or slug,
+                        re.compile(_ANCHOR % pat, re.UNICODE)))
+    return out
+
+
+def _mentions(rec, authority, kind):
+    """Every entity of one kind in a record, with where each was found.
 
     Walks the record's pages so a mention carries its page and its absolute
-    line, which is what makes it citable. A person named several times on a
+    line, which is what makes it citable. An entity named several times on a
     page is reported once per occurrence.
     """
-    people = people if people is not None else load_people()
     out = []
     for p in rec.get('pages') or []:
         lines = p['diplomatic'].split('\n')
         base = p['line_start']
         for i, line in enumerate(lines):
-            for slug, disp, rx in people:
+            for slug, disp, rx in authority:
                 for m in rx.finditer(line):
                     out.append({
                         'entity': slug,
                         'display': disp,
-                        'kind': 'person',
+                        'kind': kind,
                         'surface': m.group(0),
                         'page': p['page'],
                         'page_id': p.get('page_id', ''),
@@ -112,6 +174,27 @@ def mentions(rec, people=None):
                     })
     out.sort(key=lambda x: (x['line'], x['entity']))
     return out
+
+
+def mentions(rec, people=None):
+    """Every person mentioned in one record, with where it was found."""
+    return _mentions(rec, people if people is not None else load_people(),
+                     'person')
+
+
+def place_mentions(rec, places=None):
+    """Every place NAMED in a record - a different question from where it was
+    written.
+
+    The edition has always known where a document was written, from its
+    dateline. It has never known which places a document talks about, which is
+    why Trabczyn - the subject of the whole archive - stood in the place index
+    with a count in the handfuls rather than the hundreds. Downstream the two
+    counts are kept apart for the same reason: no single number for that village
+    is true on its own.
+    """
+    return _mentions(rec, places if places is not None else place_authority(),
+                     'place')
 
 
 def entities_in(rec, people=None):
@@ -123,3 +206,78 @@ def entities_in(rec, people=None):
     """
     people = people if people is not None else load_people()
     return [slug for slug, _, rx in people if rx.search(rec['text'])]
+
+
+# --------------------------------------------------------------- canon ----
+# Variants that are rulings or fragments rather than spellings: a bracketed
+# form records a doubtful reading, and a three-letter stub is an abbreviation
+# whose expansion is a judgement the translator should not be asked to make.
+_NOT_A_RENDER = ('[', ']')
+_MIN_VARIANT = 5
+
+
+def _not_a_spelling(form):
+    """True for a variant that is a dateline fragment rather than a spelling.
+
+    `Franckfurth a d h` and `Kontop. 27ten` are what a dateline looks like when
+    it runs into the rest of the line. They belong in the canon, which is
+    matching whole dateline strings, and nowhere near a rendering instruction
+    given to a translator working on running prose.
+    """
+    if len(form) < _MIN_VARIANT or any(c in form for c in _NOT_A_RENDER):
+        return True
+    if any(c.isdigit() for c in form):
+        return True
+    return any(len(tok.strip('.')) < 2 for tok in form.split())
+
+
+def canonical_renders():
+    """[{term, pattern, policy, render, kind}] - variant spelling -> the form
+    the English uses.
+
+    The edition settles a name once, from the whole corpus, and the translation
+    has to agree with what the site then displays. Typing that agreement into
+    the termbase by hand guarantees it drifts, so it is generated here from the
+    same two authorities the site indexes from: a variant recorded in
+    people.yml or places.yml becomes a rendering instruction in the prompt AND
+    an enforced check afterwards.
+
+    Deliberately narrow. Only `variants` are emitted, never the alternations
+    inside `match`: a `match` pattern exists to FIND an entity, and half of what
+    it catches are inflections rather than misspellings. And nothing is emitted
+    for an entity carrying `canonical: false`, whose own spelling is still open.
+    """
+    out = []
+    for kind, records in (('person', load_people_records()),
+                          ('place', load_place_records())):
+        for slug, e in records.items():
+            if e.get('canonical') is False:
+                continue
+            render = (e.get('render') or e.get('display') or '').strip()
+            if not render:
+                continue
+            for v in unitlib.variant_records(e):
+                form = v['form'].strip()
+                if not (v['match'] and v['canon']) or _not_a_spelling(form):
+                    continue
+                if form.lower() == render.lower():
+                    continue
+                out.append({
+                    'term': form,
+                    'pattern': r'\b' + re.escape(form) + r'\w*',
+                    'policy': 'translate',
+                    'render': render,
+                    'kind': kind,
+                    'entity': slug,
+                })
+    out.sort(key=lambda e: (e['kind'], e['render'].lower(), e['term'].lower()))
+    return out
+
+
+if __name__ == '__main__':
+    import sys
+    rows = canonical_renders()
+    sys.stdout.reconfigure(encoding='utf-8')
+    for e in rows:
+        print('%-8s %-24s -> %s' % (e['kind'], e['term'], e['render']))
+    print('\n%d canonical rendering(s)' % len(rows))

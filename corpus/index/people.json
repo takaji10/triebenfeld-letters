@@ -17299,6 +17299,209 @@
   ]
  },
  {
+  "entity": "oppenheimer",
+  "display": "Oppenheimer",
+  "count": 25,
+  "documents": [
+   "oe1bu9454-169",
+   "oe1bu9454-179a",
+   "oe1bu9454-187",
+   "oe1bu9454-188",
+   "oe1bu9454-191",
+   "oe1bu9454-203",
+   "oe1bu9454-215",
+   "oe1bu9454-22",
+   "oe1bu9454-24",
+   "oe1bu9454-25",
+   "oe1bu9454-302",
+   "oe1bu9454-32",
+   "oe1bu9454-33",
+   "oe1bu9454-40",
+   "oe1bu9454-42",
+   "oe1bu9454-43",
+   "oe1bu9454-44",
+   "oe1bu9454-47",
+   "oe1bu9454-48"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-169",
+    "surface": "Oppenheimer",
+    "page": 4,
+    "page_id": "",
+    "line": 11994
+   },
+   {
+    "uid": "oe1bu9454-169",
+    "surface": "Oppenheimer",
+    "page": 4,
+    "page_id": "",
+    "line": 12000
+   },
+   {
+    "uid": "oe1bu9454-169",
+    "surface": "Oppenheimer",
+    "page": 4,
+    "page_id": "",
+    "line": 12001
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 12907
+   },
+   {
+    "uid": "oe1bu9454-187",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 13283
+   },
+   {
+    "uid": "oe1bu9454-188",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 13346
+   },
+   {
+    "uid": "oe1bu9454-191",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 13542
+   },
+   {
+    "uid": "oe1bu9454-24",
+    "surface": "Oppenheimer",
+    "page": 4,
+    "page_id": "",
+    "line": 1630
+   },
+   {
+    "uid": "oe1bu9454-25",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 1670
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 2176
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 2177
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 2180
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 2190
+   },
+   {
+    "uid": "oe1bu9454-33",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 2261
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 2902
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Oppenheimer",
+    "page": 5,
+    "page_id": "",
+    "line": 3172
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 3249
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 3329
+   },
+   {
+    "uid": "oe1bu9454-47",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 3505
+   },
+   {
+    "uid": "oe1bu9454-48",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 3617
+   },
+   {
+    "uid": "oe1bu9454-302",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 21441
+   },
+   {
+    "uid": "oe1bu9454-22",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 1295
+   },
+   {
+    "uid": "oe1bu9454-203",
+    "surface": "Oppenheimer",
+    "page": 2,
+    "page_id": "",
+    "line": 14506
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 15305
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Oppenheimer",
+    "page": 1,
+    "page_id": "",
+    "line": 15310
+   }
+  ]
+ },
+ {
   "entity": "sommer",
   "display": "Sommer",
   "count": 25,
@@ -17501,7 +17704,7 @@
  {
   "entity": "lichnowski",
   "display": "Lichnowski",
-  "count": 23,
+  "count": 24,
   "documents": [
    "oe1bu9454-136",
    "oe1bu9454-150",
@@ -17520,6 +17723,7 @@
    "oe1bu9454-284",
    "oe1bu9454-285",
    "oe1bu9454-286",
+   "oe1bu9454-32",
    "oe1bu9454-41"
   ],
   "mentions": [
@@ -17620,6 +17824,13 @@
     "page": 4,
     "page_id": "",
     "line": 1624
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Lichnowsky",
+    "page": 1,
+    "page_id": "",
+    "line": 2177
    },
    {
     "uid": "oe1bu9454-41",
@@ -20770,7 +20981,7 @@
  },
  {
   "entity": "trzcinski",
-  "display": "Trzcinski",
+  "display": "von Trzciński",
   "count": 12,
   "documents": [
    "oe1bu9454-193",
@@ -20804,7 +21015,7 @@
    },
    {
     "uid": "oe1bu9454-238",
-    "surface": "Trzcinskis",
+    "surface": "Trzcinskischen",
     "page": 1,
     "page_id": "",
     "line": 17297
@@ -24632,6 +24843,31 @@
   ]
  },
  {
+  "entity": "koeppen",
+  "display": "Koeppen",
+  "count": 2,
+  "documents": [
+   "oe1bu14526-6",
+   "oe1bu14526-8"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Koeppen",
+    "page": 16,
+    "page_id": "0045_a1",
+    "line": 2319
+   },
+   {
+    "uid": "oe1bu14526-6",
+    "surface": "Koeppen",
+    "page": 14,
+    "page_id": "0030_a1",
+    "line": 1481
+   }
+  ]
+ },
+ {
   "entity": "kaleschke",
   "display": "Kaleschke",
   "count": 2,
@@ -24862,6 +25098,23 @@
     "page": 19,
     "page_id": "0148_a2",
     "line": 7437
+   }
+  ]
+ },
+ {
+  "entity": "stillfried",
+  "display": "von Stillfried",
+  "count": 1,
+  "documents": [
+   "oe1bu14526-6"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-6",
+    "surface": "Stillfried",
+    "page": 14,
+    "page_id": "0030_a1",
+    "line": 1479
    }
   ]
  },

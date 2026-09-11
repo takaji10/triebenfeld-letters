@@ -54,14 +54,22 @@ house_style: |
 
   Names and titles are not the same thing, and the difference decides this:
 
-    * a PERSONAL or PLACE name is reproduced exactly as the German spells it -
-      Triebenfeld, Glenk, Trąbczyn, Wrąbczynek. Never translated, never
-      normalised;
+    * a PERSONAL or PLACE name is never TRANSLATED. Triebenfeld stays
+      Triebenfeld and Trąbczyn stays Trąbczyn; there is no English for either.
+      Spelling is a separate question, answered by the CANONICAL NAMES table:
+      where a spelling is listed there, use the canonical form the edition has
+      settled on, and where it is not listed, copy the page exactly. Never
+      improvise a spelling of your own, in either direction;
     * a TITLE, RANK or OFFICE is translated, even when it stands next to a name.
       `Fürst zu Hohenlohe-Ingelfingen` is the Prince of Hohenlohe-Ingelfingen;
       `Obrist von Schlieben` is Colonel von Schlieben; `Kreis-Steuer-Einnehmer
       Gneust` is the district tax collector Gneust. The name in each is the last
       word, and only that word stays German.
+
+  Name order in the English is given name, family name, then titles. A predicate
+  particle meaning "of" follows the family name - Józef Brzeziński of Brzyzna -
+  rather than being interleaved as Polish would have it. Polish diacritics are
+  preserved in every name that carries them.
 
   Terms of art keep their German form ONLY where this termbase says
   `policy: keep` - Rthl, Hufe, Morgen, Landschaft and the handful like them.
@@ -324,10 +332,10 @@ terms:
     policy: translate
     render: 'claim'
   - term: Hauländer                         # 4 in corpus
-    pattern: '\bHaul(ä|ae)nder\w*'
+    pattern: '\bHaul(ä|ae|a)nder\w*|\bHoll(ä|ae)nder\w*|\bOl(ę|e)nd\w*|\bOl(ę|e)der\w*'
     policy: keep
     render: 'Hauländer'
-    gloss: 'settler-colonists holding on Dutch-law tenure - NOT "Hollanders"; see NEEDS_CONFIRMATION.md section G'
+    gloss: 'settler-colonists holding on Dutch-law tenure - NOT "Hollanders", NOT "Dutch settlers"; the same community the Polish sources call Olędrzy. See NEEDS_CONFIRMATION.md section G'
   - term: Indult                            # 2 in corpus
     pattern: '\bIndult\w*'
     policy: translate
@@ -499,9 +507,12 @@ terms:
     policy: translate
     render: 'councillor of justice'
   - term: Kriegsrath
-    pattern: '\bKrie(gs|ges)[- ]?R?rath\w*'
+    pattern: '\bKrie(gs|ges)[- ]?R?r(a|ä)th\w*'
     policy: translate
     render: 'councillor of war'
+    gloss: "von Triebenfeld's own title, per Consistency_Register.md. He is the
+      Kriegsrath - NOT Finanzrath and NOT Forstrath; a long-s misreading had put
+      him in the wrong institutional chain."
   - term: Kammerrath
     pattern: '\b(C|K)ammer[- ]?R?rath\w*'
     policy: translate
@@ -538,6 +549,65 @@ terms:
     pattern: '\bSyndi(k|c)us\b'
     policy: translate
     render: 'syndic'
+  # --- from Consistency_Register.md, "Confirmed terminology (binding)" ----
+  # These are settled readings in the book. They are here so the translation
+  # inherits them rather than re-deciding them, and so check_translations can
+  # catch a reversion mechanically. Several correct a specific prior
+  # mistranslation; the reversed form is listed under forbidden_renders below.
+  - term: sąd grodzki
+    pattern: '\bs[aą]d\w*\s+grodzk\w*|\biudicium\s+castrens\w*|\bCastrens\w+\s+Capitanealis\b'
+    policy: translate
+    render: 'municipal court'
+    gloss: 'distinct from the land court; never "Castle Court" or "Captain''s Court"'
+  - term: sąd ziemski
+    pattern: '\bs[aą]d\w*\s+ziemsk\w*|\biudicium\s+terrestr\w*'
+    policy: translate
+    render: 'land court'
+    gloss: 'distinct from the municipal court - the two are not interchangeable'
+  - term: wizja
+    pattern: '\bwizj\w*|\bvisio\s+iudicial\w*'
+    policy: translate
+    render: 'judicial site inspection'
+    gloss: 'distinct from a kondestensja, which is a full commissarial hearing in the field'
+  - term: kondestensja
+    pattern: '\bkondestens\w*|\bcondescens\w*'
+    policy: translate
+    render: 'field inspection'
+  - term: kopiec narożny
+    pattern: '\bkopi?[ea]c\w*\s+naro[zż]n\w*'
+    policy: translate
+    render: 'corner mound'
+    gloss: '"border mound" is generic and loses the distinction from a wall mound'
+  - term: kopiec ścienny
+    pattern: '\bkopi?[ea]c\w*\s+[sś]cienn\w*'
+    policy: translate
+    render: 'wall mound'
+  - term: roboracja
+    pattern: '\broborac\w*|\brobborat\w*'
+    policy: gloss-first-use
+    render: 'roboracja'
+    gloss: 'formal court enrollment giving a document binding legal force - NOT simple contract-signing. Gloss on first use, then use the Polish.'
+  - term: traditio
+    pattern: '\btraditio\w*'
+    policy: translate
+    render: 'delivery of possession'
+    gloss: 'never "tradition", never "eviction"'
+  - term: axialny
+    pattern: '\baxialn\w*|\bacialiter\b|\baxialis\b'
+    policy: translate
+    render: 'at the convergence point'
+    gloss: 'a surveying term, from axialis. Not a place name, and not an ordinary adjective.'
+  - term: stawisko
+    pattern: '\bstawisk\w*'
+    policy: keep
+    render: 'stawisko'
+    gloss: 'the disputed pond-ground. Kept in Polish and italicised; "mud pond" is non-standard.'
+  - term: Woźny
+    pattern: '\bwo[zź]n\w*|\bministerial(is|es|em)\b'
+    policy: translate
+    render: 'Court Summoner'
+    gloss: '"bailiff" is a non-standard rendering of this office'
+
 exonyms:
   - term: Wien                              # 66 flagged before this was recorded
     pattern: '\bWien\b'
@@ -690,3 +760,73 @@ watchlist:
     note: 'how/as vs we'
   - pair: [vor, von]
     note: 'before/for vs of/from'
+
+# ------------------------------------------------------------ latin terms --
+# Appended to the USER block, and ONLY for a document rulings.yml records as
+# Latin. A blanket rule here would corrupt the German correspondence: in the
+# letters `Pfarrer` and `Pastor` mean a clergyman, and reference/whos_who.md
+# lists one among the creditors. In the Latin of the estate documents the same
+# word is the shepherd. The document's language is already known - it reaches
+# the prompt at translate.py's user_block() - so the distinction is free to make
+# and expensive to get wrong.
+latin_terms:
+  - term: pastor
+    pattern: '\bpastor\w*'
+    policy: translate
+    render: 'shepherd'
+    gloss: 'in LATIN documents only. Never "Lutheran pastor" and never "clergyman" here; the German correspondence is the opposite case and is not governed by this section.'
+  - term: hypocaustum
+    pattern: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*'
+    policy: translate
+    render: 'heated room'
+    gloss: 'genitive hypocausti / hypocaustorum; the full form is confirmed from Konin Gr. 117. "super Mensa hippi praesen~" is "on the table in the heated room". A "chestnut table" is a prior misreading.'
+  - term: ingenuus
+    pattern: '\bingenu(us|i|um|o)\b'
+    policy: translate
+    render: 'the Freeborn'
+    gloss: 'the honorific standing before an Olęder name, e.g. Martin Hunt the Freeborn'
+  - term: pracowity
+    pattern: '\bpracowit\w*|\blaborios\w*'
+    policy: translate
+    render: 'the Diligent'
+    gloss: 'the sub-noble honorific marking an Olęder in the commission records'
+
+# ------------------------------------------------------- forbidden renders --
+# English that must never appear, whatever the German says.
+#
+# Every other mechanism in this file states what a term SHOULD become. Nothing
+# stated what a term must never become, so a correction the book had already
+# made could be made again by the next translation pass and every check would
+# pass. These are settled reversals: each was wrong once, in print, and the
+# reason it was wrong is recorded beside it.
+#
+# check_translations.py raises a `forbidden-render` row per page, which blocks
+# publication the same way a structure failure does.
+# `when` is optional, and is a pattern that must ALSO match the SOURCE page.
+# Use it whenever the English string has an innocent life of its own. Two in
+# this corpus do: L286 says "fetch the chestnuts out of the fire", and eight
+# documents name a Chief Bailiff, who is the Oberamtmann and has nothing to do
+# with the Court Summoner. A rule with no `when` is unconditional, and should
+# only be written for a string that could not arise any other way.
+forbidden_renders:
+  - render: 'chestnut'
+    when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|\bcastane\w*'
+    note: 'hypocaustum misread. The table stands in the heated room, not on a chestnut.'
+  - render: 'Lagurowo'
+    note: 'a Z/L letterform error for Zagorowo; not a place.'
+  - render: 'Castle Court'
+    note: 'sąd grodzki is the municipal court.'
+  - render: "Captain's Court"
+    note: 'Castrensia Capitanealis is the Starost''s Municipal Court.'
+  - render: 'mud pond'
+    note: 'stawisko is kept in Polish and italicised.'
+  - render: 'Lutheran pastor'
+    when: '\bpastor\w*'
+    note: 'in a Latin document pastor is the shepherd. Where a clergyman is genuinely meant the German says Pfarrer, and this rule does not fire on that.'
+  - render: 'bailiff'
+    when: '\bwo[zź]n\w*|\bministerial(is|es|em)\b'
+    note: 'woźny / ministerialis is the Court Summoner. NOT scoped to the word alone: Chief Bailiff is the Oberamtmann, a different office, and stands correctly in eight documents.'
+  - render: 'Hollanders'
+    note: 'Hauländer is kept. The community is not Dutch.'
+  - render: 'Dutch settlers'
+    note: 'Hauländer is kept - the archive''s central subject must be searchable under one word.'

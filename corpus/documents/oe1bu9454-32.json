@@ -134,6 +134,33 @@
    "line": 2159
   },
   {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface": "Oppenheimer",
+   "page": 1,
+   "page_id": "",
+   "line": 2176
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface": "Lichnowsky",
+   "page": 1,
+   "page_id": "",
+   "line": 2177
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface": "Oppenheimer",
+   "page": 1,
+   "page_id": "",
+   "line": 2177
+  },
+  {
    "entity": "bernhard",
    "display": "Meyer Bernhard",
    "kind": "person",
@@ -161,6 +188,15 @@
    "line": 2179
   },
   {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface": "Oppenheimer",
+   "page": 1,
+   "page_id": "",
+   "line": 2180
+  },
+  {
    "entity": "bernhardi",
    "display": "Bergrath Bernhardi",
    "kind": "person",
@@ -168,6 +204,15 @@
    "page": 1,
    "page_id": "",
    "line": 2183
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface": "Oppenheimer",
+   "page": 2,
+   "page_id": "",
+   "line": 2190
   },
   {
    "entity": "rhode",

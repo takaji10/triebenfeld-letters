@@ -156,6 +156,55 @@ def utf8_stdout():
     if not isinstance(sys.stdout, io.TextIOWrapper) or sys.stdout.encoding.lower() != 'utf-8':
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
+def load_places_authority():
+    """reference/places.yml, whole - {places: {slug: record}, reject: [...]}.
+
+    The place authority used to be a flat variant -> spelling map, which could
+    say nothing about a place beyond how it was spelled: not that Wrąbczyn is a
+    different village from Trąbczyn, not which document a variant was seen in,
+    and not how to find the place in the body of a document rather than on a
+    dateline. places.yml carries all of that; the flat map below is derived
+    from it so every existing caller is unaffected.
+    """
+    path = os.path.join(ROOT, 'reference', 'places.yml')
+    with open(path, encoding='utf-8') as f:
+        return yaml.safe_load(f) or {}
+
+
+def variant_records(entry):
+    """[{form, match, canon, seen_in}] for one entity - a person or a place.
+
+    A variant may be a bare string - the common case, meaning "fold this into
+    the entity" - or a mapping. Two independent flags, because they answer two
+    different questions:
+
+      match   should this spelling FIND the entity? `false` records a form as
+              provenance without asserting it is this entity, which is how an
+              unsettled reading is documented rather than silently resolved.
+      canon   should the English translation be told to render this spelling as
+              the entity's canonical form? `false` for a form that identifies
+              the entity without being a misspelling of it - a bare given name,
+              an honorific the writers abbreviate, or a spelling that is more
+              correct than the one this edition happens to print.
+    """
+    out = []
+    for v in (entry.get('variants') or []):
+        if isinstance(v, str):
+            v = {'form': v}
+        if not isinstance(v, dict) or not (v.get('form') or ''):
+            continue
+        out.append({'form': v['form'],
+                    'match': bool(v.get('match', True)),
+                    'canon': bool(v.get('canon', True)),
+                    'seen_in': v.get('seen_in') or []})
+    return out
+
+
+def entity_variants(entry):
+    """[(form, matched)] - the projection of variant_records() most callers want."""
+    return [(v['form'], v['match']) for v in variant_records(entry)]
+
+
 def load_place_canon():
     """The shared place-name canon, variant (lowercased) -> the edition's form.
 
@@ -163,10 +212,18 @@ def load_place_canon():
     tagging, with no unit in hand. It used to keep a second, much smaller copy
     of its own, so a place normalised on the dateline was not necessarily
     normalised where it was tagged.
+
+    Now derived from reference/places.yml, so adding a variant there both
+    normalises the dateline and finds the place in the text. A variant marked
+    `match: false` is deliberately absent: it is recorded, not resolved.
     """
-    path = os.path.join(ROOT, 'reference', 'place_canon.yml')
-    with open(path, encoding='utf-8') as f:
-        return (yaml.safe_load(f) or {}).get('canon') or {}
+    canon = {}
+    for slug, e in (load_places_authority().get('places') or {}).items():
+        display = e.get('display') or slug
+        for form, matched in entity_variants(e):
+            if matched:
+                canon[form.lower()] = display
+    return canon
 
 
 def load_rulings(unit):
@@ -177,9 +234,7 @@ def load_rulings(unit):
     """
     with open(unit.rulings_path, encoding='utf-8') as f:
         r = yaml.safe_load(f) or {}
-    canon_path = os.path.join(ROOT, 'reference', 'place_canon.yml')
-    with open(canon_path, encoding='utf-8') as f:
-        c = yaml.safe_load(f) or {}
+    c = load_places_authority()
 
     places = r.get('places') or {}
     dates = r.get('dates') or {}
@@ -190,7 +245,7 @@ def load_rulings(unit):
         return {k: tuple(v) for k, v in (d or {}).items()}
 
     return {
-        'PLACE_CANON':    c.get('canon') or {},
+        'PLACE_CANON':    load_place_canon(),
         'PLACE_REJECT':   set(c.get('reject') or []),
         'PLACE_OVERRIDE': places.get('overrides') or {},
         'SUPPLIED':       tuples(dates.get('supplied')),
