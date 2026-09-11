@@ -622,8 +622,24 @@ def run_batch(recs, client, system, corr, model=None, tag=None):
         print(f'  batch {b.id}  ({len(chunk)} letters)')
     os.makedirs(out_dir(tag), exist_ok=True)
     state = os.path.join(out_dir(tag), '_batches.json')
-    json.dump({'batches': batches, 'model': model or MODEL,
-               'letters': [str(r['letter_id']) for r in todo]},
+    # MERGED, and each batch stamped with the unit it came from. The state file
+    # is per tag, so submitting a second holding to the same tag used to
+    # overwrite the first holding's ids outright - the jobs kept running and
+    # nothing could collect them. And the unit stamp is not bookkeeping: a
+    # result's custom_id is `L<letter_id>`, and the archive's own number is
+    # unique only inside its holding, so a result from one unit collected
+    # against another lands on a real record with the same number and
+    # overwrites it. Both holdings here have a document 7.
+    prior = {}
+    if os.path.isfile(state):
+        try:
+            prior = json.load(open(state, encoding='utf-8'))
+        except Exception:
+            prior = {}
+    by_unit = prior.get('by_unit') or {}
+    by_unit.setdefault(UNIT.slug, [])
+    by_unit[UNIT.slug] = [b for b in by_unit[UNIT.slug] if b not in batches] + batches
+    json.dump({'by_unit': by_unit, 'model': model or MODEL},
               open(state, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f'\nwrote {state}\nrun  python translate.py --collect'
           + (f' --tag {tag}' if tag else '') + '  once they finish')
@@ -635,9 +651,21 @@ def run_collect(client, recs_by_id, tag=None):
         print('no batches in flight')
         return
     st = json.load(open(state, encoding='utf-8'))
+    # Only this unit's batches. A result carries `L<letter_id>` and nothing
+    # else, so collecting another holding's batch here would match its document
+    # 7 to this holding's document 7 and cache one over the other.
+    by_unit = st.get('by_unit')
+    if by_unit is None:                       # state written before the fix
+        by_unit = {UNIT.slug: st.get('batches') or []}
+    mine = list(by_unit.get(UNIT.slug) or [])
+    if not mine:
+        others = {u: len(v) for u, v in by_unit.items() if v}
+        print(f'no batches in flight for {UNIT.slug}'
+              + (f' (other units waiting: {others})' if others else ''))
+        return
     pending, got, bad = [], 0, []
     cost_in = cost_out = 0
-    for bid in st['batches']:
+    for bid in mine:
         b = client.messages.batches.retrieve(bid)
         if b.processing_status != 'ended':
             print(f'  {bid}: {b.processing_status} - not ready')
@@ -685,10 +713,14 @@ def run_collect(client, recs_by_id, tag=None):
     if bad:
         print(f'{len(bad)} result(s) were refused and not cached: '
               + ', '.join(bad))
-    if pending:
-        st['batches'] = pending
+    by_unit[UNIT.slug] = pending
+    st['by_unit'] = by_unit
+    st.pop('batches', None)
+    st.pop('letters', None)
+    if any(by_unit.values()):
         json.dump(st, open(state, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-        print(f'{len(pending)} batch(es) still running')
+        if pending:
+            print(f'{len(pending)} batch(es) still running for {UNIT.slug}')
     elif os.path.isfile(state):
         os.remove(state)
 
