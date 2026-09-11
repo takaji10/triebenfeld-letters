@@ -117,3 +117,32 @@ than where it sits.
 - `Tromczin` is **Trąbczyn**.
 - Standardise `Głazewo`; standardise the Trąbczyn spellings; leave Wrąbczyn and
   Wrąbczynek alone.
+- **Everything goes into English** in the translation. A German word may stand
+  only where English has no equivalent, and the termbase marks each of those
+  `policy: keep`. A title, rank or office is translated even when it stands
+  next to a name: `Fürst zu Hohenlohe-Ingelfingen` is the Prince of
+  Hohenlohe-Ingelfingen.
+- **Names are standardised in the English, never in the transcription.** These
+  are two different questions and the distinction has to stay sharp:
+    * the **transcription** is diplomatic. `pages[].diplomatic` reproduces the
+      page, and `build_site_data.verify()` and `verify_site.py` both assert a
+      character-exact round trip, so an accident here fails the build loudly;
+    * the **English**, the display name and the entity index all use the
+      canonical form, from `reference/people.yml` and `reference/places.yml`.
+      The translator is given those spellings as a table and uses them where a
+      page's spelling is listed - and copies the page exactly where it is not.
+      It is not asked to decide which is which.
+  The German spelling survives in three places canonicalisation cannot touch:
+  the transcription itself, `names[].de` in the translation, and `mentions[]`
+  in `corpus/index/people.json`. So standardising the English costs no
+  evidence.
+- The place canon is applied to `r['place']`, which is *derived* from the
+  dateline. It is never applied to `pages[].diplomatic`.
+- A spelling the edition has **not** settled is matched but not canonicalised:
+  the entity carries `canonical: false` and no rendering is issued for it. The
+  Actuarius of the Stillfried court is Kaleschke in the 1805 Power of Attorney
+  and Koleschke elsewhere, and the register calls that unresolved - so both
+  find the person and neither is imposed on the English.
+- Where this edition and `Consistency_Register.md` disagree about a name, the
+  **register wins**. It is the book's settled standard, and the point of the
+  entity index is to stay interoperable with it rather than compete with it.

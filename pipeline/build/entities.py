@@ -188,10 +188,10 @@ def place_mentions(rec, places=None):
 
     The edition has always known where a document was written, from its
     dateline. It has never known which places a document talks about, which is
-    why Trabczyn - the subject of the whole archive - stood in the place index
-    with a count in the handfuls rather than the hundreds. Downstream the two
-    counts are kept apart for the same reason: no single number for that village
-    is true on its own.
+    why the estate at the centre of a holding stands in the place index with a
+    count in the handfuls rather than the hundreds. Downstream the two counts are
+    kept apart for the same reason: no single number for such a place is true on
+    its own.
     """
     return _mentions(rec, places if places is not None else place_authority(),
                      'place')

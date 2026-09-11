@@ -424,7 +424,16 @@ people:
     tier: "Externally confirmed (family)"
     variants: []
   prusimska:
-    display: "Michalina Prusimska (Dąbska / Miączyńska / Moscinska)"
+    display: "Michalina z Prusimskich Dąbska, later Miączyńska"
+    identity: >-
+      Only child of Antoni Ostroróg-Prusimski, Starost of Niszczewice. She
+      recovered the estates in 1807 through the Komisja Rządząca of the Duchy of
+      Warsaw. Married first Józef Dąmbski (widowed 1798), then Stanisław
+      Miączyński: the two surnames are SEQUENTIAL MARRIAGES, not a spelling
+      discrepancy and not two women (Consistency_Register.md, Prusimski family).
+      Moscinska / Moszynska are the corpus's own misreadings of Miączyńska.
+      The display carried all four surnames in one string until the register
+      settled which was which.
     match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąa]czy[nń]sk)a(?![a-zà-ÿ])"
     tier: "User-provided (genealogical) + text-confirmed"
     variants: []
@@ -535,7 +544,7 @@ people:
     variants: []
   triebenfeld:
     display: "v. Triebenfeld"
-    render: "von Triebenfeld"
+    render: "Triebenfeld"
     match: "Trieben(?:feld|felde)"
     tier: "Established by the project itself; Charlotte context-inferred as his wife"
     identity: >-
@@ -550,6 +559,7 @@ people:
          Folded in."
   trzcinski:
     display: "von Trzciński"
+    render: "Trzciński"
     match: 'Trz[ciy]+[nń]sk\w*|Trzinsk\w*'
     tier: "Book-confirmed (as a claimant)"
     identity: >-
