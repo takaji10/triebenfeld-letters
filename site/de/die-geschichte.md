@@ -21,7 +21,8 @@ hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehl
 
 ## Der Grenzstreit zwischen Trąbczyn und Łukom
 
-**Prusimski und Chełmski, ca. 1589 bis 1788. Noch nicht veröffentlicht.**
+**Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten
+Łukom. ca. 1589 bis 1788. Noch nicht veröffentlicht.**
 
 Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das
 andere begann. Er läuft durch die Gerichte in Konin, Pyzdry und Kalisch, und die Beweise
@@ -37,7 +38,8 @@ Die Akten liegen in den Grod- und Landgerichtsbüchern im Staatsarchiv Posen.
 
 ## Die Hohenlohe-Ingelfingener Jahre
 
-**Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, 1796 bis 1807.
+**Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, ein preußischer General, dem der König
+das Gut schenkte. 1796 bis 1807.
 [348 Dokumente, 1798 bis 1816]({{ '/de/hohenlohe/' | relative_url }}).**
 
 Polen wurde zwischen 1772 und 1795 aufgeteilt, und Trąbczyn fiel an Preußen. 1796
@@ -55,11 +57,12 @@ haben.
 
 ## Die Restitution der Miączyńska
 
-**Michalina z Prusimskich Dąbska, später Miączyńska, ab 1807. Noch nicht veröffentlicht.**
+**Michalina Prusimska, verheiratet Dąbska, später Miączyńska, die Tochter des letzten
+polnischen Besitzers. ab 1807. Noch nicht veröffentlicht.**
 
-Die Tochter des letzten polnischen Besitzers erhielt die Güter 1807 durch die
-Regierungskommission des neuen Herzogtums Warschau zurück und verbrachte dann rund dreißig
-Jahre vor Gericht mit dem, was von ihnen übrig war. Ihr Anspruch griff über die preußische
+Sie erhielt die Güter 1807 durch die Regierungskommission des neuen Herzogtums Warschau
+zurück und verbrachte dann rund dreißig Jahre vor Gericht mit dem, was von ihnen übrig
+war. Ihr Anspruch griff über die preußische
 Schenkung hinweg auf den Titel ihres Vaters zurück; die Akten dieser Epoche streiten daher
 über dieselben Grenzen wie die der ersten.
 

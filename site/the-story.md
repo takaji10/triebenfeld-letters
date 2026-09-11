@@ -22,7 +22,8 @@ is at least visible.
 
 ## The Trąbczyn and Łukom boundary dispute
 
-**Prusimski and Chełmski, c. 1589 to 1788. Not yet published.**
+**The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next
+door. c. 1589 to 1788. Not yet published.**
 
 Two hundred years of argument between neighbouring estates about where one ended and the
 other began. It runs through courts at Konin, Pyzdry and Kalisz, and the evidence is
@@ -37,7 +38,8 @@ The documents are in the municipal and land court books at the State Archive in 
 
 ## The Hohenlohe-Ingelfingen years
 
-**Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, 1796 to 1807.
+**Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a Prussian general given the estate
+by the King. 1796 to 1807.
 [348 documents, 1798 to 1816]({{ '/hohenlohe/' | relative_url }}).**
 
 Poland was partitioned out of existence between 1772 and 1795, and Trąbczyn ended up in the
@@ -54,11 +56,11 @@ estate was taken apart and let out to the people who worked it.
 
 ## The Miączyńska restitution
 
-**Michalina z Prusimskich Dąbska, later Miączyńska, 1807 onward. Not yet published.**
+**Michalina Prusimska, married name Dąbska and later Miączyńska, the daughter of the last
+Polish owner. 1807 onward. Not yet published.**
 
-The daughter of the last Polish owner got the estates back in 1807, through the governing
-commission of the new Duchy of Warsaw, and then spent some thirty years in court over what
-was left of them. Her claim reached back past the Prussian grant to her father's title, so
+She got the estates back in 1807, through the governing commission of the new Duchy of
+Warsaw, and then spent some thirty years in court over what was left of them. Her claim reached back past the Prussian grant to her father's title, so
 the documents of this era argue about the same boundaries as the first.
 
 The records are at the Central Archives of Historical Records in Warsaw and the Secret State
