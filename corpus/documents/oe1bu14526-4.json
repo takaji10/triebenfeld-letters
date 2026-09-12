@@ -9,15 +9,15 @@
  "doc_type": "contract",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "",
- "date_precision": "unknown",
- "date_source": "none",
- "date_display": "",
- "date_inferred_from": "letter missing/skipped in the archive",
- "year": "",
- "month": "",
- "day": "",
- "place": "",
+ "date_iso": "1805-01-25",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1805-01-25",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1805,
+ "month": 1,
+ "day": 25,
+ "place": "Frankfurt an der Oder",
  "sender": "",
  "recipient": "",
  "line_start": 602,
@@ -863,7 +863,7 @@
    "page": 8
   }
  ],
- "place_canonical": "Unknown",
+ "place_canonical": "Frankfurt an der Oder",
  "translation_status": "draft",
  "translation": [
   {
