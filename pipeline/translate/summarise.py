@@ -34,6 +34,7 @@ _KEEP = []
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import translate as T
+import termbase
 import sys
 _KEEP.append(sys.stdout)
 sys.stdout = _STDOUT
@@ -175,6 +176,31 @@ def load_done():
     return out
 
 
+def banned_block():
+    """The renders the termbase forbids, read from the termbase rather than
+    restated here.
+
+    Every ruling used to have to be written twice, once for the translator and
+    once in this prompt, and the second copy drifted: "engrossed" was banned for
+    the translator and reached the summaries anyway, and so did "the Honrichs"
+    after the editor ruled against it. One source, so a ruling made once holds
+    in both places.
+
+    Only the unconditional bans. A `when:` row is conditional on the GERMAN, and
+    the summariser is given the English translation, so it has nothing to test
+    the condition against - and those rows are scoped precisely because banning
+    them outright is wrong ("Chief Bailiff" is a real office in eight documents).
+    """
+    rows = [(render, note) for _eng, src, render, note in
+            termbase.forbidden(termbase.load()) if not src]
+    if not rows:
+        return ''
+    lines = [f'      {render} - {" ".join((note or "").split())}'
+             for render, note in rows]
+    return ('\n  * Never use these renderings. Each was ruled against for this '
+            'edition:\n' + '\n'.join(lines))
+
+
 def system_prompt(unit=None):
     """The rules are the same for every holding; the description of what is
     being summarised is not.
@@ -187,7 +213,8 @@ def system_prompt(unit=None):
     """
     unit = unit or T.UNIT
     pre = T.unit_preamble(unit).replace('You are translating', 'You are summarising')
-    return (SYSTEM_DE if LANG == 'de' else SYSTEM).replace('{preamble}', pre)
+    base = (SYSTEM_DE if LANG == 'de' else SYSTEM).replace('{preamble}', pre)
+    return base + banned_block()
 
 
 def user_block(rec, en):
@@ -296,6 +323,7 @@ def main():
                     help='comma-separated pads to re-summarise, discarding the '
                          'cached summary for each')
     a = ap.parse_args()
+    unitlib.require_fresh_corpus()
     set_unit(unitlib.resolve_unit(a.unit))
     set_lang(a.lang)
     set_translation_tag(a.tag)

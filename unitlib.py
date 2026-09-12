@@ -287,6 +287,37 @@ def load_rulings(unit):
     }
 
 
+def require_fresh_corpus(*extra):
+    """Refuse to spend money on German that is no longer the transcription.
+
+    The transcription is authored in units/<slug>/corpus.txt; everything that
+    costs money reads corpus/letters.json, which regenerate.py derives from it.
+    Apply a correction and translate without rebuilding in between and the model
+    is handed the superseded text, pays for it, and caches the result as though
+    it were finished work. That happened: letter 73 was translated twice from a
+    reading the editor had already overturned, and nothing objected either time.
+
+    Compared by modification time, which is crude but has no false negatives
+    that matter: rebuilding when nothing changed is free, and the failure this
+    guards against costs a batch.
+    """
+    generated = os.path.join(ROOT, 'corpus', 'letters.json')
+    if not os.path.isfile(generated):
+        sys.exit('corpus/letters.json is missing. Run: python regenerate.py')
+    built = os.path.getmtime(generated)
+    sources = [os.path.join(u.dir, 'corpus.txt') for u in load_units()]
+    sources += [os.path.join(u.dir, 'rulings.yml') for u in load_units()]
+    sources += list(extra)
+    newer = sorted(os.path.relpath(p, ROOT).replace(os.sep, '/')
+                   for p in sources
+                   if os.path.isfile(p) and os.path.getmtime(p) > built)
+    if newer:
+        sys.exit('corpus/letters.json is older than what it is built from:\n'
+                 + '\n'.join('  ' + p for p in newer)
+                 + '\nTranslating now would pay for superseded text.'
+                   '\nRun: python regenerate.py')
+
+
 def load_documents(root=None):
     """Every document, read from the per-document files.
 

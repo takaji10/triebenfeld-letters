@@ -59,6 +59,20 @@ house_style: |
   English genuinely has no equivalent, and that is rare - a dozen words in this
   whole termbase, every one of them marked `policy: keep`.
 
+  A SURNAME USED AS AN ADJECTIVE is not a party to the transaction. German turns
+  a surname into a modifier with -sche / -schen / -sen, and a whole noun phrase
+  can carry several of them before reaching the noun they all modify:
+
+    die Revision der Honrichsen Heckerschen und allen Rechnungen
+      -> a review of the Honrichs and Hecker accounts, and of all of them
+      NOT  a review of the Honrichs, Hecker and all the accounts
+    die Eysenhardtschen Erben   -> the Eysenhardt heirs
+    das Hohenlohesche Haus      -> the Hohenlohe house
+
+  Find the noun first and attach the names to it. Rendered as a list, the
+  modifiers read as people who are themselves being reviewed, sued or paid,
+  which is a statement about who the parties were.
+
   Names and titles are not the same thing, and the difference decides this:
 
     * a PERSONAL or PLACE name is never TRANSLATED. Triebenfeld stays
@@ -702,6 +716,18 @@ terms:
       copies. Where the certifying matters to the sense, say who certified it,
       which the document always states.
 
+  - term: Ausfertigung                      # 10 documents
+    pattern: '\bAusfertigung\w*|\bausgefertig\w*|\bausfertig\w*'
+    policy: translate
+    render: 'official copy'
+    gloss: >-
+      The formally issued, sealed copy of an instrument, the one a party is given
+      to keep. It was in none of the authorities, so the translator reached for
+      "engrossment" and "an engrossed copy" - accurate in a conveyancer's office
+      and opaque to everyone else. As a verb, issued or made out: "made out under
+      the court seal". Not "engrossed", and not "made-out copy", which the
+      summariser produced when told to avoid the first.
+
   # --- quarter days ------------------------------------------------------
   # Rents, leases and instalments in these documents fall due on feast days,
   # not on calendar dates, so these are load-bearing terms and not colour: a
@@ -871,6 +897,17 @@ exonyms:
     pattern: '\bHessen\b'
     policy: translate
     render: 'Hesse'
+  # The two compound dynastic names spelled out, because the plain Hessen row
+  # above matches inside them and was ignored inside them anyway: a translator
+  # reads a hyphenated title as one indivisible name. Both are standard English.
+  - term: Hessen-Darmstadt
+    pattern: '\bHessen[- ]Darmstadt\w*'
+    policy: translate
+    render: 'Hesse-Darmstadt'
+  - term: Hessen-Rotenburg
+    pattern: '\bHessen[- ]Roten?burg\w*'
+    policy: translate
+    render: 'Hesse-Rotenburg'
   - term: hessisch
     pattern: '\bhessisch\w*'
     policy: translate
@@ -1056,6 +1093,10 @@ latin_terms:
 # with the Court Summoner. A rule with no `when` is unconditional, and should
 # only be written for a string that could not arise any other way.
 forbidden_renders:
+  - render: 'engrossment'
+    note: 'an Ausfertigung is an official copy. Conveyancer''s English.'
+  - render: 'engrossed'
+    note: 'as above. Made out or issued as a verb; official copy as a noun.'
   - render: 'vidimated'
     note: >-
       not an English word. A vidimirte Abschrift is a certified copy: a copy an
@@ -1087,5 +1128,25 @@ forbidden_renders:
   - render: 'bailiff'
     when: '\bwo[zź]n\w*|\bministerial(is|es|em)\b'
     note: 'woźny / ministerialis is the Court Summoner. NOT scoped to the word alone: Chief Bailiff is the Oberamtmann, a different office, and stands correctly in eight documents.'
+  - render: 'the Honrichs'
+    # Scoped to the construction that is actually wrong: Honrichs as a PARTY,
+    # which in this corpus always arrives after a preposition - a sale to the
+    # Honrichs, the purchase with the Honrichs, annulled against the Honrichs.
+    # Unscoped it also caught "the Honrichs and Hecker accounts", where the
+    # surname is adjectival and the article belongs to `accounts` - a correct
+    # sentence, blocked by the rule that had just produced it. The house_style
+    # note on adjectival surnames is the positive half of this.
+    # Written as a positive list of what FOLLOWS a party - a verb, a relative
+    # pronoun, or the end of the phrase - rather than as a negative lookahead
+    # excluding what follows an adjective. The negative form silently swallowed
+    # the true positives too, because "the Honrichs has been annulled" is
+    # followed by a lowercase word just as "the Honrichs papers" is.
+    english: '\bthe\s+Honrichs\b(?=\s*(?:[,.;:)]|[-–—]|has\b|had\b|have\b|was\b|were\b|is\b|are\b|who\b|whom\b|which\b|shall\b|will\b|would\b|cannot\b|could\b))'
+    note: >-
+      Honrichs is one man's surname, not a family and not a plural. No
+      definite article in front of it: sold to Honrichs, an earlier sale to
+      Honrichs. The same holds for every bare surname in the index. Where the
+      surname is adjectival the article belongs to the noun it modifies, and
+      stands: the Honrichs and Hecker accounts.
   - render: 'Dutch settlers'
     note: 'Hauländer is kept - the archive''s central subject must be searchable under one word.'

@@ -37,6 +37,7 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
 import io, os, re, sys, csv, json, time, argparse
 
 import yaml
+import hashlib
 import anthropic
 import unitlib
 import termbase
@@ -541,9 +542,50 @@ def normalise_pages(pages, lid=''):
     return pages
 
 
+def source_hash(rec):
+    """A fingerprint of the exact German this translation was made from.
+
+    Without it, "which documents changed?" is answered from memory, in a list
+    typed by hand, and the answer is wrong in both directions: documents get
+    re-translated whose German never moved, and documents get left alone whose
+    German did. Both have happened on this project - the second while a batch was
+    in flight, so the result arrived already superseded and looked finished.
+
+    Stamped on the cache, compared by --stale. It makes the re-run set minimal by
+    construction, which is the whole economy of the harvest step.
+    """
+    return hashlib.sha256(german_for(rec).encode('utf-8')).hexdigest()[:16]
+
+
+def stale_letters(recs, tag=None):
+    """Cached translations whose German is no longer what is in the corpus.
+
+    Returns (changed, unstamped). Anything cached before the stamp existed has
+    no hash to compare, so it is reported separately rather than silently
+    treated as current or silently re-run: the first is a lie and the second
+    costs a full volume.
+    """
+    changed, unstamped = [], []
+    for rec in recs:
+        lid = str(rec['letter_id'])
+        p = out_path(lid, tag)
+        if not os.path.isfile(p):
+            continue
+        try:
+            was = json.load(open(p, encoding='utf-8')).get('source_hash')
+        except Exception:
+            was = None
+        if not was:
+            unstamped.append(lid)
+        elif was != source_hash(rec):
+            changed.append(lid)
+    return changed, unstamped
+
+
 def save(rec, payload, usage, tag=None, extra=None):
     out = {'letter': str(rec['letter_id']), 'pad': pad(rec['letter_id']),
            'n_pages': len(rec['pages']),
+           'source_hash': source_hash(rec),
            'model': (extra or {}).get('model', MODEL),
            'pages': normalise_pages((payload or {}).get('pages', []),
                                     str(rec['letter_id'])),
@@ -813,11 +855,21 @@ def main():
     ap.add_argument('--batch', action='store_true')
     ap.add_argument('--collect', action='store_true')
     ap.add_argument('--rerun-flagged', action='store_true')
+    ap.add_argument('--stale', action='store_true',
+                    help='list the documents whose German changed since they '
+                         'were translated, and spend nothing')
+    ap.add_argument('--stamp-current', action='store_true',
+                    help='ASSERT that every cached translation matches the '
+                         'German now in the corpus, and record it. Only after '
+                         'check_translations.py passes: this is what --stale '
+                         'compares against afterwards, so a wrong assertion '
+                         'here hides a stale document for good')
     ap.add_argument('--tag', default=None)
     ap.add_argument('--model', default=None)
     ap.add_argument('--dry-run', action='store_true',
                     help='show what would be sent, spend nothing')
     a = ap.parse_args()
+    unitlib.require_fresh_corpus()
 
     recs = load_letters()
     by_id = {str(r['letter_id']): r for r in recs}  # pipeline-check: load_letters() is already scoped to one unit, and --letters takes the archive's own number
@@ -826,6 +878,34 @@ def main():
 
     if a.check:
         run_check(make_client(), a.model)
+        return
+
+    if a.stamp_current:
+        n = 0
+        for rec in recs:
+            p = out_path(str(rec['letter_id']), a.tag)
+            if not os.path.isfile(p):
+                continue
+            d = json.load(open(p, encoding='utf-8'))
+            if d.get('source_hash'):
+                continue
+            d['source_hash'] = source_hash(rec)
+            with open(p, 'w', encoding='utf-8', newline='\n') as f:
+                json.dump(d, f, ensure_ascii=False, indent=1)
+            n += 1
+        print(f'stamped {n} cached translation(s) as matching the current German.')
+        return
+
+    if a.stale:
+        changed, unstamped = stale_letters(recs, a.tag)
+        if changed:
+            print(f'{len(changed)} document(s) whose German changed since '
+                  f'translation:\n  --letters ' + ','.join(changed))
+        else:
+            print('no translated document has a changed German text.')
+        if unstamped:
+            print(f'\n{len(unstamped)} cached before provenance was recorded, so '
+                  f'not comparable:\n  ' + ','.join(unstamped))
         return
 
     if a.collect:

@@ -8,17 +8,17 @@ segments:
 
 
     Although the last messenger has not yet returned, and Your Serene Highness''s enlightened resolutions
-    are unknown to me, I will not hesitate to submit to Your Serene Highness most obediently, by a mounted
-    messenger, a proposition made to me by the sub-prefect von Brzechsta. The said Mr. von Brzechsta wishes
-    to lease the lordship of Zagorowo for 6 years.
+    are unknown to me, I would not delay in submitting to Your Serene Highness most obediently, by a mounted
+    messenger, a proposition made to me by the sub-prefect von Brzechsta. The said Mr. v. von Brzechsta
+    wishes to lease the Zagorowo lordship for 6 years.
 
 
-    He offers 20,000 - 25,000 rl. annually. He will put the 3 demesne farms back into complete good order
-    for 3000 Rthl, and bear all the burdens. He makes payment half-yearly, and gives security with his
-    [uncertain: Hnabe] and estates. He demands, however, that if the estates should be sold and he be
-    removed from the lease, there should then be given or granted to him a sum for withdrawal of 10,000
-    Rthl:, which he should be entitled to recover afterwards out of the arrears, which in his opinion
-    are not likely to be obtained from the inhabitants so soon.'
+    He offers annually 20,000 - 25,000 rl. He will put the 3 demesne farms back into complete good order
+    for 3000 Rthl, and bear all the burdens. He will make payment half-yearly and give security with his
+    [uncertain: Hnabe] and estates. He demands, however, that if the estates were sold and he were put
+    out of the lease, there should then be given or granted him a sum for withdrawal of 10,000 Rthl, which
+    he would be entitled to recover afterwards out of the arrears, which in his opinion are not likely
+    to be obtained from the inhabitants any time soon.'
   names:
   - de: Brzechsta
     en: Brzechsta
@@ -34,37 +34,37 @@ segments:
   - '3000'
   - 10,000
 - page: 2
-  en: 'Whether Your Serene Highness will make any use of this offer of Mr. von Brzechsta I leave entirely
-    to your high judgement, and I most obediently beg to be graciously instructed on the matter. My unpresuming
-    proposal would be not to reject this plan altogether, and to conclude a contract.
+  en: 'Whether Your Serene Highness wishes to make any use of this offer of Mr. von Brzechsta I leave
+    entirely to your most high discretion, and I most obediently beg to be graciously instructed thereon.
+    My unpresumptuous suggestion would be not to reject this plan so entirely, and to conclude a contract.
 
 
-    Most obediently I observe that, on account of the impending war and the and threatening dreadful revolutions,
-    it becomes absolutely necessary to come to a resolution about the estates as quickly as possible.
-    With the most fearful exertion I am not in a position to bring together so much that the terribly
-    high taxes and the interest could be paid. I will shall, and out of 1st. The [uncertain: Podothen]
+    Most obediently I observe that, on account of the impending war and the threatening dreadful revolutions,
+    it becomes absolutely necessary to come to a resolution regarding the estates as quickly as possible.
+    With the most frightful exertion I am not in a position to bring together so much that the appallingly
+    high taxes and the interest could be paid. I will, shall, and out of 1st. The [uncertain: Podothen]
     with [illegible]
 
 
-    - pay 1200. Rthl
+    - pay 1200 Rthl
 
 
     2. settle the new exorbitant deliveries to Warsaw with
 
 
-    1240. Rthl 8 gr.
+    1240 Rthl 8 gr.
 
 
-    3. Interest to the Invalids'' Fund - send 1250.
+    3. interest to the Invalids'' Fund - to remit 1250
 
 
-    4. To Weigel 1250. Rthl to be sent
+    4. to have 1250 Rthl sent to Weigel
 
 
-    5. old soldiers and other costs 1730. Rthl [uncertain: bemühtiger] All the distraints have indeed
+    5. old soldiers and other costs 1730 Rthl [uncertain: bemühtiger] All the attachments have indeed
     been lifted out of friendship for me by the prefect sub-prefect and the president of the tribunal
-    - but if the costs are not paid, the sequestration comes into force anew, and what do I not risk with
-    the Invalids'' Fund? The prefect von Brzechsta is now so good, and takes upon himself, since'
+    - but if the costs are not paid, the sequestration sets in anew, and what do I not risk with the Invalids''
+    Fund? The prefect Mr. von Brzechsta is now so good as to take upon himself, since'
   names:
   - de: Brzechsta
     en: Brzechsta
@@ -75,9 +75,6 @@ segments:
   - de: Weigel
     en: Weigel
     kind: person
-  - de: Invaliden Casse
-    en: the Invalids' Fund
-    kind: other
   numbers:
   - '1200'
   - '1240'
@@ -85,29 +82,23 @@ segments:
   - '1250'
   - '1250'
   - '1730'
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
 - page: 3
-  en: 'the deputy judge [illegible]ukarski, his friend, but always opposed to us, the recovery of the
-    interest and arrears - but he, like myself, doubts that, in the present dreadful shortage of money,
-    much is likely to be brought together. The people are truly not only poor but obstinate, and confused
-    by the utterly vexatious ordinances - A man such as the sub-prefect Brzechsta can, little by little,
-    with the authority residing in him, alone bring everything back into good order. May Your Serene Highness
-    therefore graciously instruct me what you are minded to do. Whether you will accordingly treat with
-    Mr. General von Schimmelpfennig, or whether the lease contract is to be concluded with Brzechsta,
-    and thereafter whether the agreement with Weigel and Stössel is to be effected and Köschentin set
-    free?
+  en: 'the deputy judge [illegible]ukarski, his friend, has however always been against us, the pursuit
+    of the interest and arrears - but he, like myself, doubts that, in the present dreadful want of money,
+    much could be brought together. The people are truly not only poor but obstinate, and confounded by
+    the utterly repugnant ordinances - A man such as the sub-prefect Brzechsta can, by degrees, with the
+    power residing in him, bring everything back into a good course. May Your Serene Highness therefore
+    graciously instruct me what you most highly intend to do. Whether you will accordingly treat with
+    the general von Schimmelpfennig, or whether the lease contract is to be concluded with Brzechsta,
+    and afterwards whether the agreement with Weigel and Stössel is then to be effected and Köschentin
+    freed?
 
 
-    In the first case I should indeed wish Your Serene Highness every imaginable good fortune from the
-    bottom of my heart, but should for the rest withdraw from this business and have to fall silent in
-    reverence, the more so as I see no further advantage in this transaction than that Your Serene Highness
-    would receive some thousands of [uncertain: Propriver] in worthless papers, but on the other hand
-    would lose dreadfully. Should Your Serene Highness approve the 2nd plan, I should come with Mr. p.
-    von Brzechsta'
+    In the first case I would indeed wish Your Serene Highness every conceivable good fortune from the
+    bottom of my heart, but for the rest I should have to withdraw from this affair and fall silent in
+    reverence, the more so as I see no further advantage in this business than that Your Serene Highness
+    would receive some thousands of [uncertain: Propriver] rl. in worthless papers, but would lose dreadfully
+    thereby. Should Your Serene Highness approve the 2nd plan, I would come with Mr. etc. von Brzechsta'
   names:
   - de: '[G?]ukarski'
     en: '[illegible]ukarski'
@@ -130,18 +121,18 @@ segments:
   numbers:
   - '2'
 - page: 4
-  en: 'to Schlawenschitz - the contract would be concluded, and Mr. S. von Brzechsta would doubtless also
+  en: 'to Schlawenschitz - the contract would be concluded, and Mr. S. von Brzechsta would probably also
     bring a couple of thousand [illegible] with him, and then the negotiations with Weigel and Stössel
-    could be initiated and [uncertain: beynekt], to which I gladly contribute my Blizanow estates, those
-    which I still [uncertain: einsandle] against it. The Olesnice and Trąbczyn matters will at last come
-    up next week; I firmly hope that this affair will be of blessed consequences - Until these matters
-    are concluded, however, I cannot yet get away from here.
+    could be set in train and [uncertain: beynekt], to which end I gladly throw in my Blizanow holdings,
+    the estates which I am still [uncertain: sending in] against it. The Olesnica and Wrąbczyn matter
+    will at last come up next week; I firmly hope that this affair will be of blessed consequences - Until,
+    however, these matters are concluded, I cannot yet get away from here.
 
 
-    For the rest, the Diet at Warsaw has ended very stormily, and cruelly many oppressive new taxes have
-    been laid upon the estate owners. The King has returned to Dresden. Strong speeches were held. For
-    the New Year entered upon today I wish Your Serene Highness, with the most joyful heart, every imaginable
-    good fortune and the most lasting health - and I remain, until death,
+    For the rest, the Diet in Warsaw has ended very stormily, and cruelly many oppressive new taxes have
+    been laid upon the estate owners. The King has returned to Dresden. Strong speeches were made. For
+    the New Year entered upon today I wish Your Serene Highness with the most joyful heart every conceivable
+    good fortune and the most enduring health - and I remain, until death,
 
 
     Your Most Serene Highness''s
@@ -177,10 +168,10 @@ segments:
     en: Blizanow
     kind: place
   - de: Olesnicer
-    en: Olesnice
+    en: Olesnica
     kind: place
   - de: Wrąbczyner
-    en: Trąbczyn
+    en: Wrąbczyn
     kind: place
   - de: Warschau
     en: Warsaw
@@ -195,5 +186,6 @@ segments:
     en: v. Triebenfeld
     kind: person
   numbers:
+  - '2'
   - '4'
   - '1812'

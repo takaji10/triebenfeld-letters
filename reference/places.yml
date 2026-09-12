@@ -167,9 +167,19 @@ places:
   kamionno:
     display: "Kamionno"
     kind: estate
-    match: 'Kamionn?o\w*'
+    # `Kamionn?o` demanded a final o and the corpus never writes one: it has
+    # Kamionne 14 times and Kamionna 3. Both are inflections of this one
+    # toponym, so the ending is not the identifying part of it.
+    match: 'Kamionn\w*'
     tier: "Book-confirmed"
     variants: [{form: "Kamień", match: false}]
+    open_questions:
+      - "Kaemen, 55 occurrences plus 16 adjectival Kaemener, has no entry in
+         this file at all, and document 23 of Oe 1 Bü 14526 writes the pair
+         itself: the estates of Kolno and Kaemen, the second also called
+         Kamionna. If that is this place under its German name it wants folding
+         in here; if it is a separate holding it wants its own entry and a
+         distinct_from. Either way 71 occurrences are currently unindexed."
 
   kolno:
     display: "Kolno"
@@ -416,7 +426,11 @@ places:
   kontop:
     display: "Kontop"
     kind: village
-    match: 'K[oc]ontop\w*'
+    # The character class belongs on the first letter, not the second: as
+    # `K[oc]ontop` this required Koontop or Kcontop and matched none of the 66
+    # occurrences in 47 documents - the village was unindexed for as long as the
+    # entry existed. Found by pipeline/review/pattern_impact.py --audit.
+    match: '[KC]ontop\w*'
     tier: ""
     variants:
       - "Kontop. 27ten"
@@ -467,7 +481,7 @@ places:
       - {form: "Olesnices", canon: false}
       - {form: "Olesniser"}
       - "Olisnie"                              # editor, 2026-09-11
-      - {form: "Oleschwitzer", canon: false}   # adjectival, like Olesnicer
+      - {form: "Oleschnitzer", canon: false}   # adjectival, like Olesnicer
     open_questions:
       - "Consistency_Register.md lists Olisnice among the Hohenlohe-era
          settlements as though it were its own place. The editor has ruled that

@@ -1243,22 +1243,6 @@
  "mentions_english": [
   {
    "entity": "",
-   "display": "Kolno",
-   "kind": "place",
-   "surface_de": "Kolno",
-   "surface_en": "Kolno",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kaemen",
-   "kind": "place",
-   "surface_de": "Kaemen",
-   "surface_en": "Kaemen",
-   "page": 1
-  },
-  {
-   "entity": "",
    "display": "Friedrich Wilhelm",
    "kind": "person",
    "surface_de": "Friedrich Wilhelm",
@@ -1271,6 +1255,22 @@
    "kind": "place",
    "surface_de": "Preussen",
    "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolno",
+   "kind": "place",
+   "surface_de": "Kolno",
+   "surface_en": "Kolno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kaemen",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kaemen",
    "page": 1
   },
   {
@@ -1323,18 +1323,10 @@
   },
   {
    "entity": "",
-   "display": "Friedrich Ludwig",
+   "display": "Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen",
    "kind": "person",
-   "surface_de": "Friedrich Ludwig",
-   "surface_en": "Friedrich Ludwig",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
-   "surface_de": "Hohenlohe-Ingelfingen",
-   "surface_en": "Hohenlohe-Ingelfingen",
+   "surface_de": "Friedrich Ludwig, regierenden Fürsten zu Hohenlohe-Ingelfingen",
+   "surface_en": "Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen",
    "page": 2
   },
   {
@@ -1387,14 +1379,6 @@
   },
   {
    "entity": "",
-   "display": "Friedrich Wilhelm II",
-   "kind": "person",
-   "surface_de": "Friedrich Wilhelm das IIten",
-   "surface_en": "Friedrich Wilhelm II",
-   "page": 2
-  },
-  {
-   "entity": "",
    "display": "Kolno",
    "kind": "place",
    "surface_de": "Kolno",
@@ -1407,6 +1391,14 @@
    "kind": "place",
    "surface_de": "Kaemen oder Kamionna",
    "surface_en": "Kaemen or Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm II",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm das IIten",
+   "surface_en": "Friedrich Wilhelm II",
    "page": 2
   },
   {
@@ -1451,9 +1443,17 @@
   },
   {
    "entity": "",
+   "display": "Michaelmas",
+   "kind": "other",
+   "surface_de": "Michalis",
+   "surface_en": "Michaelmas",
+   "page": 7
+  },
+  {
+   "entity": "",
    "display": "von Broniewski",
    "kind": "person",
-   "surface_de": "von Broniewski",
+   "surface_de": "v. Broniewski",
    "surface_en": "von Broniewski",
    "page": 7
   },
@@ -1467,10 +1467,10 @@
   },
   {
    "entity": "",
-   "display": "woods of Krabielewo",
+   "display": "Krabielew woods",
    "kind": "place",
    "surface_de": "Krabielewer Wäldern",
-   "surface_en": "woods of Krabielewo",
+   "surface_en": "Krabielew woods",
    "page": 9
   },
   {
@@ -1523,10 +1523,10 @@
   },
   {
    "entity": "",
-   "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
-   "surface_de": "Hohenlohe Ingelfingen",
-   "surface_en": "Hohenlohe-Ingelfingen",
+   "display": "Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig regierenden Fürsten zu Hohenlohe Ingelfingen",
+   "surface_en": "Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen",
    "page": 11
   },
   {
@@ -1583,6 +1583,14 @@
    "kind": "person",
    "surface_de": "Johann Carl Stude",
    "surface_en": "Johann Carl Stude",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Breslau Department",
+   "kind": "place",
+   "surface_de": "Breslauschen Departement",
+   "surface_en": "Breslau Department",
    "page": 12
   },
   {
@@ -1667,10 +1675,10 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/o.",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 14
   },
   {
@@ -1683,10 +1691,18 @@
   },
   {
    "entity": "",
-   "display": "Ernst Gottlob Born, Dr",
+   "display": "Ernst Gottlob Born, Dr.",
    "kind": "person",
    "surface_de": "Dr. Ernst Gottlob Born",
-   "surface_en": "Ernst Gottlob Born, Dr",
+   "surface_en": "Ernst Gottlob Born, Dr.",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Franckfurth a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 14
   },
   {
@@ -1700,7 +1716,7 @@
   {
    "entity": "",
    "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
+   "kind": "place",
    "surface_de": "Hohenlohe Ingelfingen",
    "surface_en": "Hohenlohe-Ingelfingen",
    "page": 15
@@ -1715,10 +1731,10 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/O",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 15
   },
   {
@@ -1739,10 +1755,10 @@
   },
   {
    "entity": "",
-   "display": "Posen",
+   "display": "Posen district",
    "kind": "place",
-   "surface_de": "Posenischen",
-   "surface_en": "Posen",
+   "surface_de": "Posenischen Districts",
+   "surface_en": "Posen district",
    "page": 15
   },
   {
@@ -1779,10 +1795,10 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/O.",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 16
   },
   {
@@ -1851,10 +1867,10 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/O.",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 18
   },
   {
@@ -1916,17 +1932,17 @@
   {
    "entity": "",
    "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
+   "kind": "place",
    "surface_de": "Hohenlohe Ingelfingen",
    "surface_en": "Hohenlohe-Ingelfingen",
    "page": 19
   },
   {
    "entity": "",
-   "display": "von Stechow Arnoldsmühl Court Office",
+   "display": "von Stechow-Arnoldsmühl Court Office",
    "kind": "other",
    "surface_de": "v Stechow Arnoldsmühler Gerichts Amte",
-   "surface_en": "von Stechow Arnoldsmühl Court Office",
+   "surface_en": "von Stechow-Arnoldsmühl Court Office",
    "page": 19
   },
   {
@@ -1964,7 +1980,7 @@
   {
    "entity": "",
    "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
+   "kind": "place",
    "surface_de": "Hohenlohe Ingelfingen",
    "surface_en": "Hohenlohe-Ingelfingen",
    "page": 20
@@ -1995,14 +2011,6 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
-   "kind": "place",
-   "surface_de": "Franckfurth a/O.",
-   "surface_en": "Frankfurt a/O.",
-   "page": 20
-  },
-  {
-   "entity": "",
    "display": "Posen Department",
    "kind": "place",
    "surface_de": "Posenschen Departements",
@@ -2011,10 +2019,18 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/O.",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 20
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Franckfurth a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 22
   },
   {
@@ -2052,18 +2068,10 @@
   {
    "entity": "",
    "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
+   "kind": "place",
    "surface_de": "Hohenlohe Ingelfingen",
    "surface_en": "Hohenlohe-Ingelfingen",
    "page": 22
-  },
-  {
-   "entity": "",
-   "display": "Ernst Gottlob Born, Dr",
-   "kind": "person",
-   "surface_de": "Dr. Ernst Gottlob Born",
-   "surface_en": "Ernst Gottlob Born, Dr",
-   "page": 23
   },
   {
    "entity": "",
@@ -2075,10 +2083,18 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/O.",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 23
+  },
+  {
+   "entity": "",
+   "display": "Ernst Gottlob Born, Dr.",
+   "kind": "person",
+   "surface_de": "Dr. Ernst Gottlob Born",
+   "surface_en": "Ernst Gottlob Born, Dr.",
    "page": 23
   },
   {
@@ -2100,7 +2116,7 @@
   {
    "entity": "",
    "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
+   "kind": "place",
    "surface_de": "Hohenlohe Ingelfingen",
    "surface_en": "Hohenlohe-Ingelfingen",
    "page": 23
@@ -2243,27 +2259,19 @@
   },
   {
    "entity": "",
-   "display": "Frankfurt a/O.",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
    "surface_de": "Franckfurth a/O.",
-   "surface_en": "Frankfurt a/O.",
+   "surface_en": "Frankfurt an der Oder",
    "page": 25
   },
   {
    "entity": "",
-   "display": "Ernst Gottlob Born, Dr",
+   "display": "Ernst Gottlob Born, Dr.",
    "kind": "person",
    "surface_de": "Dr. Ernst Gottlob Born",
-   "surface_en": "Ernst Gottlob Born, Dr",
+   "surface_en": "Ernst Gottlob Born, Dr.",
    "page": 25
-  },
-  {
-   "entity": "",
-   "display": "South Prussian Government",
-   "kind": "other",
-   "surface_de": "Südpreuß. Regierung",
-   "surface_en": "South Prussian Government",
-   "page": 26
   },
   {
    "entity": "",
@@ -2312,6 +2320,14 @@
    "surface_de": "Posenschen district",
    "surface_en": "Posen district",
    "page": 26
+  },
+  {
+   "entity": "",
+   "display": "South Prussian Government",
+   "kind": "other",
+   "surface_de": "Südpreuß. Regierung",
+   "surface_en": "South Prussian Government",
+   "page": 26
   }
  ],
  "place_canonical": "Posen",
@@ -2319,18 +2335,8 @@
  "translation": [
   {
    "page": 1,
-   "en": "The original of this is on 137 Rthl stamped paper, and has been taken to the mortgage records of Kolno and Kaemen. We Friedrich Wilhelm, by the Grace of God King of Prussia etc. etc.\n\nDo hereby make known and give everyone, especially where it is needful, to know, that before the Commissioner appointed by Our Government here, Our Government Assessor Bewert, the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, Your Lordship, and the bank cashier George Conrad Leixner, both through their agents legitimated hereto ad Acta, Our councillor of justice Melzer and Your Honour's councillor Guderian, appeared on the 6th of February 1805, expressly acknowledged the purchase contract concluded on the 16th and 25th of January ejusd. concerning the estates Kolno and Kaemen situated in the Posen district, and have requested that We might graciously be pleased to furnish this purchase contract with Our most high confirmation. The same, however, reads in its true content as follows:",
+   "en": "The original hereof is on 137 rl. stamped paper, and has been taken to the mortgage files of Kolno and Kaemen. We Friedrich Wilhelm by the Grace of God King of Prussia p. p.\n\nDo hereby make known and give every man to know, especially where there is need of it, that before the Commissarius appointed by Our Government here, Our Government Assessor Bewert, the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, Your Lordship, and the bank cashier George Conrad Leixner, both by their mandataries legitimated hereto ad Acta, Our councillor of justice Melzer and Your Honour Councillor Guderian, appeared on the 6th of February 1805, and expressly acknowledged the purchase contract concluded on the 16th and 25th of January ejusd. concerning the estates Kolno and Kaemen situated in the Posen district, and requested that We might graciously be pleased to furnish this purchase contract with Our most high confirmation. The same, however, runs in its true content as follows:",
    "names": [
-    {
-     "de": "Kolno",
-     "en": "Kolno",
-     "kind": "place"
-    },
-    {
-     "de": "Kaemen",
-     "en": "Kaemen",
-     "kind": "place"
-    },
     {
      "de": "Friedrich Wilhelm",
      "en": "Friedrich Wilhelm",
@@ -2339,6 +2345,16 @@
     {
      "de": "Preussen",
      "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kolno",
+     "en": "Kolno",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kaemen",
      "kind": "place"
     },
     {
@@ -2374,24 +2390,20 @@
    ],
    "numbers": [
     "137",
-    "6ten Februar 1805",
+    "6ten",
+    "1805",
     "16t",
-    "25ten Januar"
+    "25ten"
    ]
   },
   {
    "page": 2,
-   "en": "Between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, and the Royal Bank Director at Frankfurt an der Oder, Mr George Conrad Leixner, the following purchase contract has been concluded.\n\n§ 1. His Most Serene Highness sells to the Bank Director Leixner the estates Kolno and Kaemen or Kamionna, situated in South Prussia, in the Posen Department and its Meseritz district, acquired in property by virtue of the deed of donation of His Majesty the late King Friedrich Wilhelm II of the 9th of August 1796, with all appurtenances, mills, residents, fields, woodlands, lakes, waters, services, hunting, propination rights, and generally with all rights and privileges, burdens and encum-",
+   "en": "Between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, and the Royal bank director at Frankfurt an der Oder, Mr. George Conrad Leixner, the following purchase contract has been concluded.\n\n§. 1. His Most Serene Highness sells to the bank director Mr. Leixner the estates Kolno and Kaemen or Kamionna, situated in South Prussia, in the Posen Department and its Meseritz district, acquired in property by the deed of donation of His Majesty the late King Friedrich Wilhelm II of the 9th of August 1796, with all appurtenances, mills, residents, fields, woods, lakes, waters, services, hunting, propination rights, and in general with all rights and privileges, burdens and en-",
    "names": [
     {
-     "de": "Friedrich Ludwig",
-     "en": "Friedrich Ludwig",
+     "de": "Friedrich Ludwig, regierenden Fürsten zu Hohenlohe-Ingelfingen",
+     "en": "Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen",
      "kind": "person"
-    },
-    {
-     "de": "Hohenlohe-Ingelfingen",
-     "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
     },
     {
      "de": "Breslau",
@@ -2424,11 +2436,6 @@
      "kind": "place"
     },
     {
-     "de": "Friedrich Wilhelm das IIten",
-     "en": "Friedrich Wilhelm II",
-     "kind": "person"
-    },
-    {
      "de": "Kolno",
      "en": "Kolno",
      "kind": "place"
@@ -2437,16 +2444,22 @@
      "de": "Kaemen oder Kamionna",
      "en": "Kaemen or Kamionna",
      "kind": "place"
+    },
+    {
+     "de": "Friedrich Wilhelm das IIten",
+     "en": "Friedrich Wilhelm II",
+     "kind": "person"
     }
    ],
    "numbers": [
     "1",
-    "9ten August 1796"
+    "9ten",
+    "1796"
    ]
   },
   {
    "page": 3,
-   "en": "brances, to his true property, for a purchase price of 142,000 Rthl, one hundred and forty-two thousand Reichsthaler, according to the coinage standard of 1764.\n\n§ 2. The purchase money of the 142,000 Rthl has already been fully paid. His Most Serene Highness grants receipt thereof and acknowledges generally that He has no further claim upon the purchaser out of this transaction of sale.\n\nIt is noted here historically that the payment of the purchase moneys was effected in the following manner.\n\na, 53,139 Rthl 13 Groschen 8 1/5 d the purchaser has paid to the former Polish cavalry captain von Broniewski, who, as a creditor put in possession, stood in actual possession of the estates, as the sum legally awarded to him",
+   "en": "cumbrances, as his true property, for a purchase price of 142,000 Rthl., one hundred and forty-two thousand Reichsthaler, according to the coinage standard of 1764.\n\n§. 2. The purchase money of the 142,000 Rthl. has already been paid in full. His Most Serene Highness gives receipt for it and acknowledges generally that He has no further claim upon the purchaser out of this transaction of sale.\n\nIt is noted here historically that the payment of the purchase moneys was effected in the following manner.\n\na, 53,139 Rthl. 13 Groschen 8 1/5 d. the purchaser has paid to the former Polish cavalry captain von Broniewski, who, as a creditor put in possession, stood in actual possession of the estates, as the sum legally adjudged to him",
    "names": [
     {
      "de": "von Broniewski",
@@ -2457,6 +2470,7 @@
    "numbers": [
     "142,000",
     "1764",
+    "142,000",
     "53,139",
     "13",
     "8 1/5"
@@ -2464,7 +2478,7 @@
   },
   {
    "page": 4,
-   "en": "Carried forward 53,139 Rthl 13 Groschen 8 1/5 d, paid upon the instruction of His Most Serene Highness.\n\nb, 88,860 Rthl 10 Groschen 3 1/5 d have been paid in cash by the purchaser to His Most Serene Highness himself and upon His Highness's instructions.\n\ni. e. 142,000 Rthl.\n\n§ 3. Besides the purchase price, the purchaser assumes the following items entered in the mortgage books upon Kolno and Kaemen:\n\na, a capital of 100 florins, one hundred Polish florins, for the church at Kaemen, the interest whereon is fixed at four Polish marks yearly.\n\nb, for the same church a capital of 250 Rthl, two hundred and fifty Reichsthaler, or 1500, fifteen hundred Polish florins, which bear interest at 3 1/2, three and one half per cent yearly.",
+   "en": "Carried over: 53,139 Rthl. 13 Groschen 8 1/5 d. paid upon the instruction of His Most Serene Highness.\n\nb, 88,860 Rthl. 10 Groschen 3 1/5 d. have been paid in cash by the purchaser to His Most Serene Highness Himself and upon His Highness's instructions.\n\ni. e. 142,000 Rthl.\n\n§. 3. Besides the purchase price the purchaser takes over the following items entered in the mortgage books upon Kolno and Kaemen:\n\na, a capital of 100 florins, one hundred Polish florins, for the church at Kaemen, the interest whereof is fixed annually at four Polish marks.\n\nb, for the same church a capital of 250 Rthl., two hundred and fifty Reichsthaler, or 1500, fifteen hundred Polish florins, which bear interest at 3 1/2, three and one half per cent yearly.",
    "names": [
     {
      "de": "Kolno",
@@ -2485,6 +2499,7 @@
     "10",
     "3 1/5",
     "142,000",
+    "3",
     "100",
     "250",
     "1500",
@@ -2493,15 +2508,15 @@
   },
   {
    "page": 5,
-   "en": "The interest on both these items the purchaser assumes from Midsummer 1804.\n\n§ 4. The present purchase is made without valuation, in Pausch und Bogen. His Most Serene Highness however gives warranty for this:\n\na, that the surface content of arable, meadows, heaths and lakes set out in the survey registers, which together with the charts have been handed over to the purchaser, is really present. His Most Serene Highness assures herewith that to His Highness no claim by anyone whatsoever upon the parcels of land set out in these survey registers is hitherto known.\n\nThe obligation of His Most Serene Highness to answer for the correctness of the survey register in the above manner is limited to",
+   "en": "The interest of these two items the purchaser takes over from Midsummer 1804.\n\n§. 4. The present purchase is made without valuation, in Pausch und Bogen. His Most Serene Highness however gives warranty for this:\n\na, that the surface area of arable, meadows, heaths and lakes set out in the survey registers, which together with the maps have been delivered over to the purchaser, is really present. His Most Serene Highness assures herewith that no claim by anyone whatever to the parcels of ground listed in these survey registers is known to His Highness hitherto.\n\nThe obligation of His Most Serene Highness to answer for the correctness of the survey register in the above manner is limited to",
    "numbers": [
-    "4",
-    "1804"
+    "1804",
+    "4"
    ]
   },
   {
    "page": 6,
-   "en": "three years.\n\nb, that no more in public dues encumber these estates than yearly for Kaemen 153 Rthl 22 Groschen 8 Pfennig, for Kolno - 125 - 21 - 2, and in ecclesiastical dues for Kaemen 16 - 16 Groschen.\n\n§ 5. The actual delivery of the estates to the purchaser has already taken place in the month of September 1804, and the proceedings recorded thereon shall stand.\n\nWith a view to the warranty the following principles have been adopted between the contracting parties:\n\na, that the usufruct of the estates is due to the purchaser from Midsummer 1804, from which time the purchaser also has to bear the",
+   "en": "three years.\n\nb, that in public dues no more is charged upon these estates than yearly for Kaemen 153 Rthl. 22 Groschen 8 Pfennig, for Kolno - 125 - 21 - 2, and in ecclesiastical dues for Kaemen 16 - 16 Groschen.\n\n§. 5. The delivery in kind of the estates to the purchaser has already taken place in the month of September 1804, and the proceedings taken down thereupon shall stand.\n\nWith regard to the warranty, the following principles have been adopted between the contracting parties:\n\na, that the usufructs of the estates belong to the purchaser from Midsummer 1804, from which time the purchaser has also to bear the",
    "names": [
     {
      "de": "Kaemen",
@@ -2523,15 +2538,21 @@
     "2",
     "16",
     "16",
-    "1804"
+    "1804",
+    "5"
    ]
   },
   {
    "page": 7,
-   "en": "burdens. Any older arrears shall be answered for by His Most Serene Highness. His Most Serene Highness also bears the justiciary's salary up to Michaelmas of last year.\n\nb, that the estates shall be delivered to the purchaser as they stood and lay on the 15th of June of last year.\n\nc, that the purchaser may nevertheless demand only that stock, in field, cattle and farming inventory, which von Broniewski received upon his being put in possession in the year 1786, according to the records already handed over to the purchaser in [uncertain: the Polish] language, and which he was obliged to restore.\n\n§ 6. Besides the church capitals noted in § 2, there stands upon",
+   "en": "burdens. Any older arrears are to be answered for by His Most Serene Highness. His Most Serene Highness also bears the justiciary's salary until Michaelmas of last year.\n\nb, that the estates shall be handed over to the purchaser as they stood and lay on the 15th of June of last year.\n\nc, that the purchaser may nevertheless demand only that stock of field, cattle and farm inventory which von Broniewski received upon his being put into possession in the year 1786, according to the records already handed over to the purchaser in [uncertain: the earlier proceedings], and which he was bound to restore.\n\n§. 6. Besides the church capitals noted in §. 2, there stands upon",
    "names": [
     {
-     "de": "von Broniewski",
+     "de": "Michalis",
+     "en": "Michaelmas",
+     "kind": "other"
+    },
+    {
+     "de": "v. Broniewski",
      "en": "von Broniewski",
      "kind": "person"
     }
@@ -2539,13 +2560,13 @@
    "numbers": [
     "15t",
     "1786",
-    "2",
-    "6"
+    "6",
+    "2"
    ]
   },
   {
    "page": 8,
-   "en": "the estates a mortgage capital of 100,000 Rthl, one hundred thousand Reichsthaler, entered by virtue of a bond of indebtedness of His Most Serene Highness of the 1st of June 1804 in favour of the Councillor of War and Forests von Triebenfeld, who has ceded this mortgage to the purchaser. This debt, however, has already been fully satisfied, and the purchaser hereby expressly renounces all claims on that account, both against His Most Serene Highness and against the Councillor of War and Forests von Triebenfeld. It is likewise solely the purchaser's business to effect the cancellation of this encumbrance in the land and mortgage books. The costs of cancellation, however, shall be borne half by His Most Serene",
+   "en": "the estates a mortgage capital of 100,000 Rthl., one hundred thousand Reichsthaler, entered upon a bond of indebtedness of His Most Serene Highness of the 1st of June 1804 in favour of the councillor of war and forests von Triebenfeld, who has ceded this mortgage to the purchaser. This debt, however, has already been fully settled, and the purchaser hereby expressly renounces all claims in that behalf both against His Most Serene Highness and against the Councillor of War and Forests von Triebenfeld. It is likewise solely the purchaser's affair to effect the cancellation of this encumbrance in the land and mortgage books. The costs of cancellation, however, shall be borne one half by His Most Serene",
    "names": [
     {
      "de": "von Triebenfeld",
@@ -2555,16 +2576,17 @@
    ],
    "numbers": [
     "100,000",
-    "1ten Juni 1804"
+    "1ten",
+    "1804"
    ]
   },
   {
    "page": 9,
-   "en": "Highness and half by the purchaser.\n\n§ 7. The costs for the drawing up and confirmation of this purchase, of the actual and civil delivery of possession, and generally all costs of the sale, by whatever name, shall likewise be borne half by each of the two contracting parties.\n\n§ 8. Passive servitudes are not known to His Serene Highness the seller. On the other hand there belongs to these estates a right of timber in the woods of Krabielewo.\n\nIn a possessory suit against von Kwilecki such right was awarded to His Serene Highness, but in the petitory suit it was denied him in the first instance. The purchaser",
+   "en": "Highness and one half by the purchaser.\n\n§. 7. The costs of drawing up and confirming this purchase, of the delivery of possession in kind and in civil law, and in general all costs of the purchase, by whatever name, shall likewise be borne one half by each of the two contracting parties.\n\n§. 8. Passive servitudes are not known to the Serene Highness of the vendor. On the other hand a right of timber in the Krabielew woods belongs to these estates.\n\nIn a possessory suit against von Kwilecki this was adjudged to His Serene Highness, but in the petitory suit it was denied him in the first instance. The purchaser",
    "names": [
     {
      "de": "Krabielewer Wäldern",
-     "en": "woods of Krabielewo",
+     "en": "Krabielew woods",
      "kind": "place"
     },
     {
@@ -2580,7 +2602,7 @@
   },
   {
    "page": 10,
-   "en": "assumes this rem litigiosam without demanding any warranty from His Serene Highness the seller.\n\n§ 9. All documents and records belonging to the estates, His Serene Highness the seller promises faithfully to deliver up to the purchaser, so far as this has not already been done; likewise also those which are still at present required in His Serene Highness's action of account against von Broniewski, to hand over to the purchaser after the conclusion of that action. It remains, however, free to the purchaser, as goes without saying, to have these papers not yet handed over inspected as often as he finds it necessary.",
+   "en": "takes over this rem litigiosam without demanding any warranty from the Serene Highness of the vendor.\n\n§. 9. All documents and records belonging to the estates the Serene Highness of the vendor promises faithfully to deliver up to the purchaser, so far as it has not yet been done, and likewise also those which are still needed at present in His Serene Highness's action of account against von Broniewski, to hand over to the purchaser after the conclusion of that action. Yet the purchaser is also free, as goes without saying, to have these papers not yet delivered inspected as often as he finds it necessary.",
    "names": [
     {
      "de": "von Broniewski",
@@ -2594,7 +2616,7 @@
   },
   {
    "page": 11,
-   "en": "§ 10.\n\nThe contracting parties bind themselves to hold fast to this contract in all its points and clauses, renounce all objections against it, especially the objection of injury beyond the half, and by whatever other name they may be called, and have executed this instrument by their own-hand signatures and appended seals.\n\nBreslau, the 16th of January 1805. Read by myself and approved (L. S.) Friedrich Ludwig, Prince of Hohenlohe. I have read and approved this instrument.\n\n(L. S.) Meÿer Bernhard, in the name and subject to the approval of the Bank Director Leixner.\n\nThat this purchase contract, between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry",
+   "en": "§: 10.\n\nThe contracting parties bind themselves to hold fast to this contract in all its points and clauses, renounce all objections against it, especially the objection of injury beyond the half and whatever others they might be called, and have executed this instrument by their own-hand signatures and appended seals.\n\nBreslau, the 16th of January 1805. Read by myself and approved (L. S.) Friedrich Ludwig Prince of Hohenlohe. I have read and approved this instrument.\n\n(L. S.) Meÿer Bernhard, in the name of and subject to the approval of the bank director Mr. Leixner.\n\nThat this purchase contract, between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry",
    "names": [
     {
      "de": "Breslau",
@@ -2617,19 +2639,20 @@
      "kind": "person"
     },
     {
-     "de": "Hohenlohe Ingelfingen",
-     "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
+     "de": "Friedrich Ludwig regierenden Fürsten zu Hohenlohe Ingelfingen",
+     "en": "Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
     }
    ],
    "numbers": [
     "10",
-    "16ten Januar 1805"
+    "16ten",
+    "1805"
    ]
   },
   {
    "page": 12,
-   "en": "and Governor at Breslau etc., who is personally well known to me, the undersigned notary, and to the witnesses, and the banker at Frankfurt an der Oder, Mr Meyer Bernhard, likewise personally well known to us, in the name and subject to the ratification of the Royal Bank Director Mr George Conrad Leixner, was agreed and concluded in the manner set out above and with our assistance, and that this instrument, after it had been read through and approval declared, was executed by their own-hand signatures and appended seals, is hereby attested upon the ground of the protocol taken thereon. Breslau, the 16th of January 1805. (L. S.) Carl Gottlob Ebersbach, Royal Councillor of the Judicial Commission and Notary Public in the Breslau Department. (L. S.) Johann George Strebel, as witness (L. S.) Johann Carl Stude, as witness.",
+   "en": "and Governor at Breslau p., who is personally well known to me, the undersigned notary, and to the witnesses, and the banker at Frankfurt an der Oder likewise personally well known to us, Mr. Meyer Bernhard, in the name of and subject to the ratification of the Royal bank director Mr. George Conrad Leixner, was agreed and concluded in the manner set out above and with our participation, and that this instrument, after it had been read through and approval declared, was executed by their own-hand signatures and appended seals, is hereby attested upon the ground of the protocol taken down thereupon. Breslau, the 16th of January 1805. (L. S.) Carl Gottlob Ebersbach, Royal councillor of the justice commission and notary public in the Breslau Department. (L. S.) Johann George Strebel, as witness. (L. S.) Johann Carl Stude, as witness.",
    "names": [
     {
      "de": "Breslau",
@@ -2665,15 +2688,21 @@
      "de": "Johann Carl Stude",
      "en": "Johann Carl Stude",
      "kind": "person"
+    },
+    {
+     "de": "Breslauschen Departement",
+     "en": "Breslau Department",
+     "kind": "place"
     }
    ],
    "numbers": [
-    "16t Januar 1805"
+    "16t",
+    "1805"
    ]
   },
   {
    "page": 13,
-   "en": "The foregoing purchase contract I have read myself and found drawn up in accordance with my intention. Frankfurt an der Oder, the 25th of January 1805. George Conrad Leixner (L. S.) That the Royal bank cashier Mr Georg Conrad Leixner, personally known to me and capable of disposing, here signed and sealed with his signet the fore-going and overleaf purchase contract dated Breslau, the 16th of January 1805 - by the content of which His Most Serene Highness the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen etc. etc. sold to Mr Leixner the estates Kollno and Kaemen, acquired by the deed of gift of His Majesty the late King Friedrich Wilhelm II of the 9th of August 1796 and situated in South Prussia, Posen Department, for the sum of 142,000 Rthl, one hundred and forty-two thousand - after his own",
+   "en": "The foregoing purchase contract I have read myself and found drawn up in accordance with my intention. Frankfurt an der Oder, the 25th of January 1805. George Conrad Leixner (L. S.) That the Royal bank cashier Mr. Georg Conrad Leixner, personally known to me and capable of disposing, has here signed the purchase contract set out before and overleaf, dated Breslau the 16th of January 1805, by the content whereof His Most Serene Highness, the reigning Prince Lord Friedrich Ludwig of Hohenlohe-Ingelfingen p. p., has sold to Mr. Leixner the estates Kollno and Kaemen, acquired by the deed of gift of His late Majesty King Friedrich Wilhelm II of the 9th of August 1796 and situated in South Prussia, Posen Department, for the sum of 142,000 Rthl., one hundred and forty-two thousand, after having himself",
    "names": [
     {
      "de": "Franckfurth an der Oder",
@@ -2727,19 +2756,21 @@
     }
    ],
    "numbers": [
-    "25ten Januarii 1805",
-    "16ten Januar 1805",
-    "9ten August 1796",
+    "25ten",
+    "1805",
+    "16ten",
+    "9ten",
+    "1796",
     "142,000"
    ]
   },
   {
    "page": 14,
-   "en": "reading through and approval, in my presence; this is hereby attested upon the ground of the protocol held for that purpose, in witness whereof under the impress of the seal of the Justice Office of Frankfurt a/O. and my signature as judicial officer. Done at Frankfurt an der Oder on the twenty-fifth of January one thousand eight hundred and five.\n\n(L. S.)\n\nDr Ernst Gottlob Born, Royal judicial officer and University syndic, also Assessor of the Faculty of Jurists at\n\nFrankfurt a/O.\n\nActum Posen, the 6th of February 1805. In consequence of the order of the 8th of",
+   "en": "read it through and approved it, and has sealed it with his signet in my presence; this is hereby attested upon the ground of the protocol held in that behalf, in witness whereof under the impress of the seal of the Justice Office of Frankfurt an der Oder and my signature as the justice official. Done at Frankfurt an der Oder on the twenty-fifth of January one thousand eight hundred and five.\n\n(L. S.)\n\nDr. Ernst Gottlob Born, Royal justice official and university syndic, also assessor of the faculty of jurists at\n\nFrankfurt an der Oder.\n\nActum Posen, the 6th of February 1805. In pursuance of the ordinance of the 8th of",
    "names": [
     {
      "de": "Franckfurth a/o.",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     },
     {
@@ -2749,8 +2780,13 @@
     },
     {
      "de": "Dr. Ernst Gottlob Born",
-     "en": "Ernst Gottlob Born, Dr",
+     "en": "Ernst Gottlob Born, Dr.",
      "kind": "person"
+    },
+    {
+     "de": "Franckfurth a/O.",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
     },
     {
      "de": "Posen",
@@ -2759,18 +2795,19 @@
     }
    ],
    "numbers": [
-    "6ten Februar 1805",
+    "6ten",
+    "1805",
     "8ten"
    ]
   },
   {
    "page": 15,
-   "en": "October of last year, of the 21st of January of this year, and of the agreement made orally with the interested parties on that account, a term stands today for the taking up of the purchase contract agreed between the Prince of Hohenlohe-Ingelfingen and the Bank Director Leixner at Frankfurt a/O. concerning the estates Kolno and Kaemen, of the Posen district. At this term there appeared\n\n1, on the part of the seller\n\na, as his agent the councillor of justice Melzer, who legitimates himself by the special power of attorney already in the records and granted to him for this act;\n\nb, the general agent of the Prince, the building councillor Glenck, already personally known to the undersigned;\n\n2, on the part of the purchaser, the crimi-",
+   "en": "October of last year, of the 21st of January of the current year, and of the agreement made orally with the interested parties on that account, a term stands today for the taking down of the purchase contract agreed between the Prince of Hohenlohe-Ingelfingen and the bank director Leixner at Frankfurt an der Oder concerning the estates Kolno and Kaemen in the Posen district. At this term there appeared\n\n1, on the part of the vendor\n\na, as his mandatary the councillor of justice Melzer, who legitimated himself by the special power of attorney granted to him for this act and already in actis;\n\nb, the general mandatary of the Prince, the building councillor Glenck, already personally known to the undersigned;\n\n2, on the part of the purchaser, the crimi-",
    "names": [
     {
      "de": "Hohenlohe Ingelfingen",
      "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
+     "kind": "place"
     },
     {
      "de": "Leixner",
@@ -2779,7 +2816,7 @@
     },
     {
      "de": "Franckfurth a/O",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     },
     {
@@ -2793,8 +2830,8 @@
      "kind": "place"
     },
     {
-     "de": "Posenischen",
-     "en": "Posen",
+     "de": "Posenischen Districts",
+     "en": "Posen district",
      "kind": "place"
     },
     {
@@ -2809,14 +2846,14 @@
     }
    ],
    "numbers": [
-    "21ten Janr.",
+    "21ten",
     "1",
     "2"
    ]
   },
   {
    "page": 16,
-   "en": "nal-court councillor Guderian, who refers for his legitimation to the special power of attorney granted to him for this business and already submitted to the records by petition of the 28th of September of last year.\n\nThe interested parties on both sides present the annexed purchase contract dated Breslau, the 16th of January 1805, already personally executed by both parties, provided with the recognition dated Breslau de eod. and Frankfurt a/O. the 25th of January of this year, with the declaration that they had expressly been authorised only to announce this contract, and that accordingly a formal taking up of the contract would be as little needed as they were, for their part, autho-",
+   "en": "nal-court councillor Guderian, who refers for his legitimation to the special power of attorney granted to him for this business and already submitted to the records by petition of the 28th of September of last year.\n\nThe interested parties on both sides hand in the annexed purchase contract, dated Breslau the 16th of January 1805, already executed in person by both parties, furnished with the recognition dated Breslau of the same day and Frankfurt an der Oder the 25th of January of the current year, with the declaration that they had expressly been authorised only to declare this contract, and that consequently a formal taking down of the contract would be as little required as they were authorised",
    "names": [
     {
      "de": "Guderian",
@@ -2830,19 +2867,20 @@
     },
     {
      "de": "Franckfurth a/O.",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     }
    ],
    "numbers": [
-    "28ten Sept.",
-    "16ten Janr. 1805",
+    "28ten",
+    "16ten",
+    "1805",
     "25."
    ]
   },
   {
    "page": 17,
-   "en": "rised to consent therein.\n\nThereupon the councillor of justice Melzer declared in particular that the purchase contract handed in today was, by the instruction given him, in all its points and clauses in accordance with the intention of his principal, and that upon the ground of the same he wished hereby to transfer to the purchaser, the Bank Director Leixner, the property of the estates Kolno and Kaemen cum att. et pertinentiis, nothing at all excluded therefrom, belonging to him by the deed of enfeoffment of His Majesty King Friedrich Wilhelm II of the 9th of August 1796.\n\nIn like manner the criminal-court councillor Guderian acknowledged the purchase contract presented above, dated Breslau the 16th of January 1805.",
+   "en": "on their side to consent to it.\n\nThereupon the councillor of justice Melzer declared in particular that the purchase contract handed in today was, according to the instruction given to him, in all its points and clauses in accordance with the intention of his principal, and that upon the ground thereof he wished hereby to transfer to the purchaser, the bank director Leixner, the ownership of the estates Kolno and Kaemen cum att. et pertinentiis, nothing whatever excepted therefrom, which belongs to him by the deed of grant of His Majesty King Friedrich Wilhelm II of the 9th of August 1796.\n\nIn like manner the criminal-court councillor Guderian acknowledged the purchase contract handed in above, dated Breslau the 16th of January 1805.",
    "names": [
     {
      "de": "Melzer",
@@ -2881,13 +2919,15 @@
     }
    ],
    "numbers": [
-    "9. August 1796",
-    "16. Januar 1805"
+    "9.",
+    "1796",
+    "16.",
+    "1805"
    ]
   },
   {
    "page": 18,
-   "en": "Bank Director Mr Leixner at Frankfurt a/O. concerning the estates Kollno and Kamienne belonging to me, and appurtenances, for a price of 142,000 Rthl, one hundred and forty-two thousand Reichsthaler, to execute the instrument of purchase in my stead, thereafter also to appear in my name before a most laudable Royal Government at Posen, to resign the property of the said estates to the purchaser upon the completion of the civil [uncertain: conveyance], to request confirmation of the purchase and to consent to the entry of the title of possession for the purchaser, and to give him receipt for the purchase moneys of one hundred and forty-two thousand Reichsthaler fully paid, also to move that the one hundred thou-",
+   "en": "with the bank director Mr. Leixner at Frankfurt an der Oder concerning the estates Kollno and Kamienne belonging to me, and their appurtenances, for a price of 142,000 Rthl., one hundred and forty-two thousand Reichsthaler, to execute the instrument of purchase in my stead, thereafter also to appear in my name before a Most Praiseworthy Royal Government at Posen, to convey the ownership of the said estates to the purchaser upon the effecting of the civil delivery, to request confirmation of the purchase and to consent to the entry of the title of possession for the purchaser, and to give him receipt for the fully paid one hundred and forty-two thousand Reichsthaler of purchase money, and also to move that the one hundred thou-",
    "names": [
     {
      "de": "Leixner",
@@ -2896,7 +2936,7 @@
     },
     {
      "de": "Franckfurth a/O.",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     },
     {
@@ -2926,7 +2966,7 @@
   },
   {
    "page": 19,
-   "en": "sand Reichsthaler intabulated upon these estates in favour of the councillor of war von Triebenfeld may be cancelled.\n\nBreslau, the 5th of September 1804. Read by myself and approved. (L. S.) Friedrich Ludwig, Prince of Hohenlohe. That the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, appeared in person under today's date before the von Stechow Arnoldsmühl Court Office and executed the foregoing power of attorney, after it had been read through and approval declared, by his own-hand signature and appended seal, is hereby attested upon the ground of the protocol taken thereon. Breslau, the 5th of September 1804. The von Stechow-Arnoldsmühl Court Office. (L. S.)\n\nEbersbach\n\nJusticiary\n\nStade\n\nActuary.",
+   "en": "sand Reichsthaler intabulated upon these estates in favour of the councillor of war von Triebenfeld may be cancelled.\n\nBreslau, the 5th of September 1804. Read by myself and approved. (L. S.) Friedrich Ludwig Prince of Hohenlohe. That the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, appeared in person under today's date before the von Stechow-Arnoldsmühl Court Office and executed the foregoing power of attorney, after it had been read through and approval declared, by his own-hand signature and appended seal, is hereby attested upon the ground of the protocol taken down thereupon. Breslau, the 5th of September 1804. The von Stechow-Arnoldsmühl Court Office. (L. S.)\n\nEbersbach\n\nJusticiary\n\nStade\n\nActuary.",
    "names": [
     {
      "de": "von Triebenfeld",
@@ -2946,11 +2986,11 @@
     {
      "de": "Hohenlohe Ingelfingen",
      "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
+     "kind": "place"
     },
     {
      "de": "v Stechow Arnoldsmühler Gerichts Amte",
-     "en": "von Stechow Arnoldsmühl Court Office",
+     "en": "von Stechow-Arnoldsmühl Court Office",
      "kind": "other"
     },
     {
@@ -2965,12 +3005,13 @@
     }
    ],
    "numbers": [
-    "5ten Septbr. 1804"
+    "5ten",
+    "1804"
    ]
   },
   {
    "page": 20,
-   "en": "Special power of attorney. I the undersigned do hereby make known and acknowledge that I hereby expressly authorise the criminal-court councillor Guderian at Posen, in my name, to recognise judicially the purchase contract concerning the estates Kolno and Kaemen, of the Posen Department, concluded between the authorised representative of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the building councillor Mr Glenck, and myself, dated Frankfurt a/O. the 15th of June 1804; to accept the declaration of His Serene Highness that the purchase moneys of the 142,000 Rthl, written out one hundred and forty-two thousand Rthl, are paid, and that accordingly those paragraphs which speak of the payment of this purchase money are to be regarded as discharged; also to hold § 12, concerning co-operation in the dismemberment of the estates, to be lapsed; or else, should His Serene Highness require it, to conclude a new purchase contract on the model of the aforesaid one of the 15th of June 1804, to accept the resignationem bonorum",
+   "en": "Special power of attorney. I the undersigned do make known and acknowledge hereby that I hereby expressly empower the criminal-court councillor Mr. Guderian at Posen to recognise judicially in my name the purchase contract concluded between the authorised representative of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the building councillor Mr. Glenck, and myself, concerning the estates Kolno and Kaemen in the Posen Department, dated Frankfurt an der Oder the 15th of June 1804; to accept the declaration of His Serene Highness that the purchase moneys of the 142,000 Rthl., write one hundred and forty-two thousand Rthl., have been paid, and that consequently the §§ which speak of the payment of this purchase money are to be regarded as disposed of; also to hold §. 12, concerning co-operation in the dismemberment of the estates, as lapsed; or else, should His Serene Highness demand it, to conclude a new purchase contract on the model of the aforesaid one of the 15th of June 1804, to accept the resignationem bonorum",
    "names": [
     {
      "de": "Guderian",
@@ -2985,7 +3026,7 @@
     {
      "de": "Hohenlohe Ingelfingen",
      "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
+     "kind": "place"
     },
     {
      "de": "Glenck",
@@ -3003,34 +3044,35 @@
      "kind": "place"
     },
     {
-     "de": "Franckfurth a/O.",
-     "en": "Frankfurt a/O.",
+     "de": "Posenschen Departements",
+     "en": "Posen Department",
      "kind": "place"
     },
     {
-     "de": "Posenschen Departements",
-     "en": "Posen Department",
+     "de": "Franckfurth a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     }
    ],
    "numbers": [
-    "15ten Junii 1804",
+    "15ten",
+    "1804",
     "142,000",
     "12",
-    "15ten Juni 1804"
+    "15ten"
    ]
   },
   {
    "page": 21,
-   "en": "and to move thereupon that the title of possession of the said estates be entered in the mortgage book in my name, as also generally to observe and attend to all that which I, were I personally present, should be obliged and entitled to do in this business. What my said authorised representative shall do by virtue of this commission received, I hereby promise to approve and to hold inviolably thereto as if I had done it myself. At the same time I also bind myself to indemnify my authorised representative in every respect on account of this commission and to reimburse him all costs and outlays, on pledge of my present and future property, so far as is required"
+   "en": "and to move thereupon that the title of possession of the said estates be entered in the mortgage book in my name, as also in general to observe and attend to everything which I, were I personally present, should be bound and entitled to do in this business. Whatever my said authorised representative shall do by virtue of this commission received, I hereby promise to approve and to hold to it as inviolably as if I had done it myself. At the same time I also make myself bound to indemnify my authorised representative in every respect on account of this commission and to reimburse him all costs and outlays, under pledge of my present and future property, so far as is required"
   },
   {
    "page": 22,
-   "en": "for that purpose. In witness whereof I have signed this special power of attorney in my own hand and confirmed it by the impress of my usual signet.\n\nSo done at Frankfurt a/O. on the 21st of September 1804.\n\nRead and found correct (L. S.) George Conrad Leixner. Upon the ground of the judicial protocol held today, it is hereby attested that the Royal bank cashier Mr Georg Conrad Leixner here, well known to me in person and capable of disposing, himself read through, approved and, as stands above, signed and sealed in my presence with his own hand the foregoing special power of attorney, filled out according to his application and enquiry, wherein he authorises the criminal-court councillor Guderian at Posen to recognise the purchase contract concluded between himself and His Most Serene Highness of Hohenlohe-Ingelfingen,\n\ndated Frankfurt a/O. the 15th of June 1804, and eventualiter to conclude a new purchase contract",
+   "en": "for this. In witness whereof I have signed this special power of attorney with my own hand and confirmed it by the impress of my usual signet.\n\nSo done at Frankfurt an der Oder on the 21st of September 1804.\n\nRead and found correct (L. S.) George Conrad Leixner. Upon the ground of the judicial protocol held today, it is hereby attested that the Royal bank cashier Mr. Georg Conrad Leixner, well known to me in person and capable of disposing, here read through himself, approved, and, as stands above, signed and sealed with his own hand in my presence the foregoing special power of attorney, filled out upon his application and inquiry, wherein he authorises the criminal-court councillor Mr. Guderian at Posen to recognise the purchase contract concluded between himself and His Most Serene Highness of Hohenlohe-Ingelfingen,\n\ndated Frankfurt an der Oder the 15th of June 1804, and eventualiter to conclude a new purchase contract",
    "names": [
     {
      "de": "Franckfurth a/O.",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     },
     {
@@ -3056,23 +3098,20 @@
     {
      "de": "Hohenlohe Ingelfingen",
      "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
+     "kind": "place"
     }
    ],
    "numbers": [
-    "21ten Septbr. 1804",
-    "15ten Junii 1804"
+    "21ten",
+    "1804",
+    "15ten",
+    "1804"
    ]
   },
   {
    "page": 23,
-   "en": "on the model of the aforesaid one of the 15th of June 1804. In witness whereof under the impress of the seal of the Justice Office of Frankfurt an der Oder, with my signature as judicial officer. So done at Frankfurt a/O., the 21st of September 1804.\n\nDr Ernst Gottlob Born (L. S.) Royal judicial officer and University syndic, also Assessor of the Faculty of Jurists.\n\nI have indeed already, under the 21st of September 1804, authorised the criminal-court councillor and judicial commissioner Mr Guderian at Posen by a judicial special power of attorney, in my name, to recognise judicially the purchase contract concerning the estates Kolno and Kaemen concluded between the authorised representative of His Serene Highness the reigning Prince and Lord of Hohenlohe-Ingelfingen, the building councillor Glencke, and myself, dated Frankfurt a/O. the 15th of June 1804, to accept the declaration of His Serene Highness that the stipulated moneys of the one hundred and forty-two thousand Thaler Courant are paid, and so forth. But since afterwards, upon moving grounds, a new purchase contract was concluded between His Serene Highness and myself, dated Breslau the 16th of January 1805 and Frankfurt a/O. the 25th of January 1805, concerning the said estates, and the same has also been judicially executed both by His Serene Highness the seller and by myself, and since the criminal-court councillor Mr Guderian reports to me that the Royal Highly Praiseworthy South Prussian",
+   "en": "on the model of the aforesaid one of the 15th of June 1804. In witness whereof under the impress of the seal of the Justice Office of Frankfurt an der Oder, with my signature as the justice official. So done at Frankfurt an der Oder, the 21st of September 1804.\n\nDr. Ernst Gottlob Born (L. S.), Royal justice official and university syndic, also assessor of the faculty of jurists.\n\nIt is true that I have already, under the 21st of September 1804, authorised the criminal-court councillor and justice commissarius Mr. Guderian at Posen by a judicial special power of attorney to recognise judicially in my name the purchase contract concluded between the authorised representative of His Serene Highness the reigning Prince and Lord of Hohenlohe-Ingelfingen, the building councillor Glencke, and myself, concerning the estates Kolno and Kaemen, dated Frankfurt an der Oder the 15th of June 1804, to accept the declaration of His Serene Highness that the stipulated moneys of the one hundred and forty-two thousand thaler Courant have been paid, and so forth. But since afterwards, for moving reasons, a new purchase contract was concluded between His Serene Highness and myself, dated Breslau the 16th of January 1805 and Frankfurt an der Oder the 25th of January 1805, concerning the said estates, and the same has been judicially executed both by the Serene Highness of the vendor and by myself, and since the criminal-court councillor Guderian reports to me that the Royal Most Praiseworthy South Prussian",
    "names": [
-    {
-     "de": "Dr. Ernst Gottlob Born",
-     "en": "Ernst Gottlob Born, Dr",
-     "kind": "person"
-    },
     {
      "de": "Franckfurth an der Oder",
      "en": "Frankfurt an der Oder",
@@ -3080,8 +3119,13 @@
     },
     {
      "de": "Franckfurth a/O.",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
+    },
+    {
+     "de": "Dr. Ernst Gottlob Born",
+     "en": "Ernst Gottlob Born, Dr.",
+     "kind": "person"
     },
     {
      "de": "Guderian",
@@ -3096,7 +3140,7 @@
     {
      "de": "Hohenlohe Ingelfingen",
      "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
+     "kind": "place"
     },
     {
      "de": "Glencke",
@@ -3125,16 +3169,22 @@
     }
    ],
    "numbers": [
-    "15. Juni 1804",
-    "21ten Sept. 1804",
-    "15ten Juni 1804",
-    "16 Januar 1805",
-    "25. Januar 1805"
+    "15.",
+    "1804",
+    "21ten",
+    "21ten",
+    "1804",
+    "15ten",
+    "1804",
+    "16",
+    "1805",
+    "25.",
+    "1805"
    ]
   },
   {
    "page": 24,
-   "en": "Government does not hold him legitimated by the power of attorney cited above, because the same speaks of an earlier contract, I will hereby and by force of this extend the power of attorney already issued to Mr Guderian to this effect: that he shall be entitled, upon the ground of the purchase contract already judicially announced by me, dated Breslau the 16th and Frankfurt the 25th of January 1805, to seek the entry of the title of possession in my name, to accept the resignationem bonorum, and in this business of purchase and sale to do everything in my name that I would do were I myself present, accordingly - should it, as I do not however believe, be necessary - to recognise the purchase contract of the 16th/25th of January 1805 judicially once more, to seek the recognition of the entry of the title of possession once made and to receive the same for further forwarding to me.\n\nIn witness whereof I have signed and sealed in my own hand this declaration and extension respectively of the power of attorney mentioned above. So done at Frankfurt an der Oder on the 8th of March 1805. Read by myself and found correct. (L. S.)\n\nGeorge Conrad Leixner. That the bank cashier here, Mr Georg Conrad Leixner, whom I know well in person, the foregoing declaration respectively",
+   "en": "Government does not hold him legitimated by the power of attorney cited above, because it speaks of an earlier contract, I will hereby and by force of this extend the power of attorney already issued to Mr. Guderian to this effect: that he shall be entitled, upon the ground of the purchase contract already judicially declared by me, dated Breslau the 16th and Frankfurt the 25th of January 1805, to apply for the entry of the title of possession in my name, to accept the resignationem bonorum, and in this business of purchase and sale to do everything in my name that I would do were I myself present; consequently, should it be needful, which however I do not believe, to recognise the purchase contract of the 16th/25th of January 1805 judicially once more, to apply for the recognition of the entry of the title of possession effected and to receive the same for further forwarding to me.\n\nIn witness whereof I have signed and sealed this declaration and extension respectively of the above-mentioned power of attorney with my own hand. So done at Frankfurt an der Oder on the 8th of March 1805. Read by myself and found correct. (L. S.)\n\nGeorge Conrad Leixner. That the bank cashier here, Mr. Georg Conrad Leixner, whom I know well in person, the foregoing declaration respectively",
    "names": [
     {
      "de": "Guderian",
@@ -3169,14 +3219,17 @@
    ],
    "numbers": [
     "16.",
-    "25. Janr. 1805",
-    "16/25. Janr. 1805",
-    "8ten März 1805"
+    "25.",
+    "1805",
+    "16/25.",
+    "1805",
+    "8ten",
+    "1805"
    ]
   },
   {
    "page": 25,
-   "en": "and extension of the special power of attorney previously issued to the criminal-court councillor Guderian at Posen, concerning the entry of the title of possession of the South Prussian estates Kolno and Kamen in his, Mr Leixner's, name, has signed and sealed with his own hand in my presence after his own reading through and approval - this I hereby testify upon the ground of the protocol held for that purpose under today's date. So done at Frankfurt a/O., the 8th of March 1805. (L. S.)\n\nDr Ernst Gottlob Born\n\nqua judicial officer of the Justice Office here.\n\nSince We have now, praevia de super partium Stipulatione, graciously deferred to this request, We do corroborate and confirm, with the most high Royal sovereign supreme princely power and plenitude residing in Us, the purchase contract inserted above, in such wise and manner that the same shall be valid, binding and lasting in all its points and clauses, shall be held firm and inviolable, and that to act against it shall in no way be permitted. This however without prejudice to Our Royal sovereign supreme princely prerogatives, rights, services",
+   "en": "and extension of the special power of attorney previously issued to the criminal-court councillor Mr. Guderian at Posen, concerning the entry of the title of possession of the South Prussian estates Kolno and Kamen in his, Mr. Leixner's, name, after reading it through and approving it himself, signed and sealed with his own hand in my presence - this I hereby testify upon the ground of the protocol held in that behalf under today's date. So done at Frankfurt an der Oder, the 8th of March 1805. (L. S.)\n\nDr. Ernst Gottlob Born,\n\nqua justice official of the Justice Office here.\n\nSince We have now, praevia de super partium stipulatione, graciously deferred to this request, We corroborate and confirm, with the most high Royal sovereign supreme princely power and plenitude residing in Us, the purchase contract inserted above, in such wise that the same shall be valid, binding and enduring in all its points and clauses, shall be held firmly and inviolably, and that it shall in no way be permitted to act against it. Yet this without prejudice to Our Royal sovereign supreme princely prerogatives, rights, services",
    "names": [
     {
      "de": "Guderian",
@@ -3210,28 +3263,24 @@
     },
     {
      "de": "Franckfurth a/O.",
-     "en": "Frankfurt a/O.",
+     "en": "Frankfurt an der Oder",
      "kind": "place"
     },
     {
      "de": "Dr. Ernst Gottlob Born",
-     "en": "Ernst Gottlob Born, Dr",
+     "en": "Ernst Gottlob Born, Dr.",
      "kind": "person"
     }
    ],
    "numbers": [
-    "8t März 1805"
+    "8t",
+    "1805"
    ]
   },
   {
    "page": 26,
-   "en": "and duties, and otherwise without prejudice to any man. In witness whereof under the usual signature and greater seal of Our South Prussian Government here. Given at Posen, the 18th of March 1805. Confirmation of the purchase contract concluded between the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, as seller, and the bank cashier George Conrad Leixner, as purchaser, concerning the estates Kolno and Kaemen situated in the Posen district. Fee: 2 Rthl 2 Groschen.\n\nStamp: 6 Groschen.\n\nEngrossment: 22 Groschen.\n\nSilk: 1 Groschen.\n\nNo: 2244.",
+   "en": "and duties, and otherwise without prejudice to every man. In witness whereof under the usual signature and greater seal of Our South Prussian Government here. Given at Posen, the 18th of March 1805. Confirmation of the purchase contract concluded between the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, as vendor, and the bank cashier George Conrad Leixner, as purchaser, concerning the estates Kolno and Kaemen situated in the Posen district. Fee: 2 Rthl. 2 Groschen.\n\nStamp: 6 Groschen.\n\nEngrossing fee: 22 Groschen.\n\nSilk: 1 Groschen.\n\nNo: 2244.",
    "names": [
-    {
-     "de": "Südpreuß. Regierung",
-     "en": "South Prussian Government",
-     "kind": "other"
-    },
     {
      "de": "Posen",
      "en": "Posen",
@@ -3261,10 +3310,16 @@
      "de": "Posenschen district",
      "en": "Posen district",
      "kind": "place"
+    },
+    {
+     "de": "Südpreuß. Regierung",
+     "en": "South Prussian Government",
+     "kind": "other"
     }
    ],
    "numbers": [
-    "18ten Mærz 1805",
+    "18ten",
+    "1805",
     "2",
     "2",
     "6",
@@ -3274,7 +3329,7 @@
    ]
   }
  ],
- "text_english": "The original of this is on 137 Rthl stamped paper, and has been taken to the mortgage records of Kolno and Kaemen. We Friedrich Wilhelm, by the Grace of God King of Prussia etc. etc.\n\nDo hereby make known and give everyone, especially where it is needful, to know, that before the Commissioner appointed by Our Government here, Our Government Assessor Bewert, the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, Your Lordship, and the bank cashier George Conrad Leixner, both through their agents legitimated hereto ad Acta, Our councillor of justice Melzer and Your Honour's councillor Guderian, appeared on the 6th of February 1805, expressly acknowledged the purchase contract concluded on the 16th and 25th of January ejusd. concerning the estates Kolno and Kaemen situated in the Posen district, and have requested that We might graciously be pleased to furnish this purchase contract with Our most high confirmation. The same, however, reads in its true content as follows:\n\nBetween the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, and the Royal Bank Director at Frankfurt an der Oder, Mr George Conrad Leixner, the following purchase contract has been concluded.\n\n§ 1. His Most Serene Highness sells to the Bank Director Leixner the estates Kolno and Kaemen or Kamionna, situated in South Prussia, in the Posen Department and its Meseritz district, acquired in property by virtue of the deed of donation of His Majesty the late King Friedrich Wilhelm II of the 9th of August 1796, with all appurtenances, mills, residents, fields, woodlands, lakes, waters, services, hunting, propination rights, and generally with all rights and privileges, burdens and encum-\n\nbrances, to his true property, for a purchase price of 142,000 Rthl, one hundred and forty-two thousand Reichsthaler, according to the coinage standard of 1764.\n\n§ 2. The purchase money of the 142,000 Rthl has already been fully paid. His Most Serene Highness grants receipt thereof and acknowledges generally that He has no further claim upon the purchaser out of this transaction of sale.\n\nIt is noted here historically that the payment of the purchase moneys was effected in the following manner.\n\na, 53,139 Rthl 13 Groschen 8 1/5 d the purchaser has paid to the former Polish cavalry captain von Broniewski, who, as a creditor put in possession, stood in actual possession of the estates, as the sum legally awarded to him\n\nCarried forward 53,139 Rthl 13 Groschen 8 1/5 d, paid upon the instruction of His Most Serene Highness.\n\nb, 88,860 Rthl 10 Groschen 3 1/5 d have been paid in cash by the purchaser to His Most Serene Highness himself and upon His Highness's instructions.\n\ni. e. 142,000 Rthl.\n\n§ 3. Besides the purchase price, the purchaser assumes the following items entered in the mortgage books upon Kolno and Kaemen:\n\na, a capital of 100 florins, one hundred Polish florins, for the church at Kaemen, the interest whereon is fixed at four Polish marks yearly.\n\nb, for the same church a capital of 250 Rthl, two hundred and fifty Reichsthaler, or 1500, fifteen hundred Polish florins, which bear interest at 3 1/2, three and one half per cent yearly.\n\nThe interest on both these items the purchaser assumes from Midsummer 1804.\n\n§ 4. The present purchase is made without valuation, in Pausch und Bogen. His Most Serene Highness however gives warranty for this:\n\na, that the surface content of arable, meadows, heaths and lakes set out in the survey registers, which together with the charts have been handed over to the purchaser, is really present. His Most Serene Highness assures herewith that to His Highness no claim by anyone whatsoever upon the parcels of land set out in these survey registers is hitherto known.\n\nThe obligation of His Most Serene Highness to answer for the correctness of the survey register in the above manner is limited to\n\nthree years.\n\nb, that no more in public dues encumber these estates than yearly for Kaemen 153 Rthl 22 Groschen 8 Pfennig, for Kolno - 125 - 21 - 2, and in ecclesiastical dues for Kaemen 16 - 16 Groschen.\n\n§ 5. The actual delivery of the estates to the purchaser has already taken place in the month of September 1804, and the proceedings recorded thereon shall stand.\n\nWith a view to the warranty the following principles have been adopted between the contracting parties:\n\na, that the usufruct of the estates is due to the purchaser from Midsummer 1804, from which time the purchaser also has to bear the\n\nburdens. Any older arrears shall be answered for by His Most Serene Highness. His Most Serene Highness also bears the justiciary's salary up to Michaelmas of last year.\n\nb, that the estates shall be delivered to the purchaser as they stood and lay on the 15th of June of last year.\n\nc, that the purchaser may nevertheless demand only that stock, in field, cattle and farming inventory, which von Broniewski received upon his being put in possession in the year 1786, according to the records already handed over to the purchaser in [uncertain: the Polish] language, and which he was obliged to restore.\n\n§ 6. Besides the church capitals noted in § 2, there stands upon\n\nthe estates a mortgage capital of 100,000 Rthl, one hundred thousand Reichsthaler, entered by virtue of a bond of indebtedness of His Most Serene Highness of the 1st of June 1804 in favour of the Councillor of War and Forests von Triebenfeld, who has ceded this mortgage to the purchaser. This debt, however, has already been fully satisfied, and the purchaser hereby expressly renounces all claims on that account, both against His Most Serene Highness and against the Councillor of War and Forests von Triebenfeld. It is likewise solely the purchaser's business to effect the cancellation of this encumbrance in the land and mortgage books. The costs of cancellation, however, shall be borne half by His Most Serene\n\nHighness and half by the purchaser.\n\n§ 7. The costs for the drawing up and confirmation of this purchase, of the actual and civil delivery of possession, and generally all costs of the sale, by whatever name, shall likewise be borne half by each of the two contracting parties.\n\n§ 8. Passive servitudes are not known to His Serene Highness the seller. On the other hand there belongs to these estates a right of timber in the woods of Krabielewo.\n\nIn a possessory suit against von Kwilecki such right was awarded to His Serene Highness, but in the petitory suit it was denied him in the first instance. The purchaser\n\nassumes this rem litigiosam without demanding any warranty from His Serene Highness the seller.\n\n§ 9. All documents and records belonging to the estates, His Serene Highness the seller promises faithfully to deliver up to the purchaser, so far as this has not already been done; likewise also those which are still at present required in His Serene Highness's action of account against von Broniewski, to hand over to the purchaser after the conclusion of that action. It remains, however, free to the purchaser, as goes without saying, to have these papers not yet handed over inspected as often as he finds it necessary.\n\n§ 10.\n\nThe contracting parties bind themselves to hold fast to this contract in all its points and clauses, renounce all objections against it, especially the objection of injury beyond the half, and by whatever other name they may be called, and have executed this instrument by their own-hand signatures and appended seals.\n\nBreslau, the 16th of January 1805. Read by myself and approved (L. S.) Friedrich Ludwig, Prince of Hohenlohe. I have read and approved this instrument.\n\n(L. S.) Meÿer Bernhard, in the name and subject to the approval of the Bank Director Leixner.\n\nThat this purchase contract, between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry\n\nand Governor at Breslau etc., who is personally well known to me, the undersigned notary, and to the witnesses, and the banker at Frankfurt an der Oder, Mr Meyer Bernhard, likewise personally well known to us, in the name and subject to the ratification of the Royal Bank Director Mr George Conrad Leixner, was agreed and concluded in the manner set out above and with our assistance, and that this instrument, after it had been read through and approval declared, was executed by their own-hand signatures and appended seals, is hereby attested upon the ground of the protocol taken thereon. Breslau, the 16th of January 1805. (L. S.) Carl Gottlob Ebersbach, Royal Councillor of the Judicial Commission and Notary Public in the Breslau Department. (L. S.) Johann George Strebel, as witness (L. S.) Johann Carl Stude, as witness.\n\nThe foregoing purchase contract I have read myself and found drawn up in accordance with my intention. Frankfurt an der Oder, the 25th of January 1805. George Conrad Leixner (L. S.) That the Royal bank cashier Mr Georg Conrad Leixner, personally known to me and capable of disposing, here signed and sealed with his signet the fore-going and overleaf purchase contract dated Breslau, the 16th of January 1805 - by the content of which His Most Serene Highness the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen etc. etc. sold to Mr Leixner the estates Kollno and Kaemen, acquired by the deed of gift of His Majesty the late King Friedrich Wilhelm II of the 9th of August 1796 and situated in South Prussia, Posen Department, for the sum of 142,000 Rthl, one hundred and forty-two thousand - after his own\n\nreading through and approval, in my presence; this is hereby attested upon the ground of the protocol held for that purpose, in witness whereof under the impress of the seal of the Justice Office of Frankfurt a/O. and my signature as judicial officer. Done at Frankfurt an der Oder on the twenty-fifth of January one thousand eight hundred and five.\n\n(L. S.)\n\nDr Ernst Gottlob Born, Royal judicial officer and University syndic, also Assessor of the Faculty of Jurists at\n\nFrankfurt a/O.\n\nActum Posen, the 6th of February 1805. In consequence of the order of the 8th of\n\nOctober of last year, of the 21st of January of this year, and of the agreement made orally with the interested parties on that account, a term stands today for the taking up of the purchase contract agreed between the Prince of Hohenlohe-Ingelfingen and the Bank Director Leixner at Frankfurt a/O. concerning the estates Kolno and Kaemen, of the Posen district. At this term there appeared\n\n1, on the part of the seller\n\na, as his agent the councillor of justice Melzer, who legitimates himself by the special power of attorney already in the records and granted to him for this act;\n\nb, the general agent of the Prince, the building councillor Glenck, already personally known to the undersigned;\n\n2, on the part of the purchaser, the crimi-\n\nnal-court councillor Guderian, who refers for his legitimation to the special power of attorney granted to him for this business and already submitted to the records by petition of the 28th of September of last year.\n\nThe interested parties on both sides present the annexed purchase contract dated Breslau, the 16th of January 1805, already personally executed by both parties, provided with the recognition dated Breslau de eod. and Frankfurt a/O. the 25th of January of this year, with the declaration that they had expressly been authorised only to announce this contract, and that accordingly a formal taking up of the contract would be as little needed as they were, for their part, autho-\n\nrised to consent therein.\n\nThereupon the councillor of justice Melzer declared in particular that the purchase contract handed in today was, by the instruction given him, in all its points and clauses in accordance with the intention of his principal, and that upon the ground of the same he wished hereby to transfer to the purchaser, the Bank Director Leixner, the property of the estates Kolno and Kaemen cum att. et pertinentiis, nothing at all excluded therefrom, belonging to him by the deed of enfeoffment of His Majesty King Friedrich Wilhelm II of the 9th of August 1796.\n\nIn like manner the criminal-court councillor Guderian acknowledged the purchase contract presented above, dated Breslau the 16th of January 1805.\n\nBank Director Mr Leixner at Frankfurt a/O. concerning the estates Kollno and Kamienne belonging to me, and appurtenances, for a price of 142,000 Rthl, one hundred and forty-two thousand Reichsthaler, to execute the instrument of purchase in my stead, thereafter also to appear in my name before a most laudable Royal Government at Posen, to resign the property of the said estates to the purchaser upon the completion of the civil [uncertain: conveyance], to request confirmation of the purchase and to consent to the entry of the title of possession for the purchaser, and to give him receipt for the purchase moneys of one hundred and forty-two thousand Reichsthaler fully paid, also to move that the one hundred thou-\n\nsand Reichsthaler intabulated upon these estates in favour of the councillor of war von Triebenfeld may be cancelled.\n\nBreslau, the 5th of September 1804. Read by myself and approved. (L. S.) Friedrich Ludwig, Prince of Hohenlohe. That the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, appeared in person under today's date before the von Stechow Arnoldsmühl Court Office and executed the foregoing power of attorney, after it had been read through and approval declared, by his own-hand signature and appended seal, is hereby attested upon the ground of the protocol taken thereon. Breslau, the 5th of September 1804. The von Stechow-Arnoldsmühl Court Office. (L. S.)\n\nEbersbach\n\nJusticiary\n\nStade\n\nActuary.\n\nSpecial power of attorney. I the undersigned do hereby make known and acknowledge that I hereby expressly authorise the criminal-court councillor Guderian at Posen, in my name, to recognise judicially the purchase contract concerning the estates Kolno and Kaemen, of the Posen Department, concluded between the authorised representative of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the building councillor Mr Glenck, and myself, dated Frankfurt a/O. the 15th of June 1804; to accept the declaration of His Serene Highness that the purchase moneys of the 142,000 Rthl, written out one hundred and forty-two thousand Rthl, are paid, and that accordingly those paragraphs which speak of the payment of this purchase money are to be regarded as discharged; also to hold § 12, concerning co-operation in the dismemberment of the estates, to be lapsed; or else, should His Serene Highness require it, to conclude a new purchase contract on the model of the aforesaid one of the 15th of June 1804, to accept the resignationem bonorum\n\nand to move thereupon that the title of possession of the said estates be entered in the mortgage book in my name, as also generally to observe and attend to all that which I, were I personally present, should be obliged and entitled to do in this business. What my said authorised representative shall do by virtue of this commission received, I hereby promise to approve and to hold inviolably thereto as if I had done it myself. At the same time I also bind myself to indemnify my authorised representative in every respect on account of this commission and to reimburse him all costs and outlays, on pledge of my present and future property, so far as is required\n\nfor that purpose. In witness whereof I have signed this special power of attorney in my own hand and confirmed it by the impress of my usual signet.\n\nSo done at Frankfurt a/O. on the 21st of September 1804.\n\nRead and found correct (L. S.) George Conrad Leixner. Upon the ground of the judicial protocol held today, it is hereby attested that the Royal bank cashier Mr Georg Conrad Leixner here, well known to me in person and capable of disposing, himself read through, approved and, as stands above, signed and sealed in my presence with his own hand the foregoing special power of attorney, filled out according to his application and enquiry, wherein he authorises the criminal-court councillor Guderian at Posen to recognise the purchase contract concluded between himself and His Most Serene Highness of Hohenlohe-Ingelfingen,\n\ndated Frankfurt a/O. the 15th of June 1804, and eventualiter to conclude a new purchase contract\n\non the model of the aforesaid one of the 15th of June 1804. In witness whereof under the impress of the seal of the Justice Office of Frankfurt an der Oder, with my signature as judicial officer. So done at Frankfurt a/O., the 21st of September 1804.\n\nDr Ernst Gottlob Born (L. S.) Royal judicial officer and University syndic, also Assessor of the Faculty of Jurists.\n\nI have indeed already, under the 21st of September 1804, authorised the criminal-court councillor and judicial commissioner Mr Guderian at Posen by a judicial special power of attorney, in my name, to recognise judicially the purchase contract concerning the estates Kolno and Kaemen concluded between the authorised representative of His Serene Highness the reigning Prince and Lord of Hohenlohe-Ingelfingen, the building councillor Glencke, and myself, dated Frankfurt a/O. the 15th of June 1804, to accept the declaration of His Serene Highness that the stipulated moneys of the one hundred and forty-two thousand Thaler Courant are paid, and so forth. But since afterwards, upon moving grounds, a new purchase contract was concluded between His Serene Highness and myself, dated Breslau the 16th of January 1805 and Frankfurt a/O. the 25th of January 1805, concerning the said estates, and the same has also been judicially executed both by His Serene Highness the seller and by myself, and since the criminal-court councillor Mr Guderian reports to me that the Royal Highly Praiseworthy South Prussian\n\nGovernment does not hold him legitimated by the power of attorney cited above, because the same speaks of an earlier contract, I will hereby and by force of this extend the power of attorney already issued to Mr Guderian to this effect: that he shall be entitled, upon the ground of the purchase contract already judicially announced by me, dated Breslau the 16th and Frankfurt the 25th of January 1805, to seek the entry of the title of possession in my name, to accept the resignationem bonorum, and in this business of purchase and sale to do everything in my name that I would do were I myself present, accordingly - should it, as I do not however believe, be necessary - to recognise the purchase contract of the 16th/25th of January 1805 judicially once more, to seek the recognition of the entry of the title of possession once made and to receive the same for further forwarding to me.\n\nIn witness whereof I have signed and sealed in my own hand this declaration and extension respectively of the power of attorney mentioned above. So done at Frankfurt an der Oder on the 8th of March 1805. Read by myself and found correct. (L. S.)\n\nGeorge Conrad Leixner. That the bank cashier here, Mr Georg Conrad Leixner, whom I know well in person, the foregoing declaration respectively\n\nand extension of the special power of attorney previously issued to the criminal-court councillor Guderian at Posen, concerning the entry of the title of possession of the South Prussian estates Kolno and Kamen in his, Mr Leixner's, name, has signed and sealed with his own hand in my presence after his own reading through and approval - this I hereby testify upon the ground of the protocol held for that purpose under today's date. So done at Frankfurt a/O., the 8th of March 1805. (L. S.)\n\nDr Ernst Gottlob Born\n\nqua judicial officer of the Justice Office here.\n\nSince We have now, praevia de super partium Stipulatione, graciously deferred to this request, We do corroborate and confirm, with the most high Royal sovereign supreme princely power and plenitude residing in Us, the purchase contract inserted above, in such wise and manner that the same shall be valid, binding and lasting in all its points and clauses, shall be held firm and inviolable, and that to act against it shall in no way be permitted. This however without prejudice to Our Royal sovereign supreme princely prerogatives, rights, services\n\nand duties, and otherwise without prejudice to any man. In witness whereof under the usual signature and greater seal of Our South Prussian Government here. Given at Posen, the 18th of March 1805. Confirmation of the purchase contract concluded between the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, as seller, and the bank cashier George Conrad Leixner, as purchaser, concerning the estates Kolno and Kaemen situated in the Posen district. Fee: 2 Rthl 2 Groschen.\n\nStamp: 6 Groschen.\n\nEngrossment: 22 Groschen.\n\nSilk: 1 Groschen.\n\nNo: 2244.",
- "summary_en": "Royal confirmation by the South Prussian Government at Posen of the sale of the estates Kolno and Kaemen (Kamionna), Meseritz district, granted to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen by Friedrich Wilhelm II in 1796, to bank director George Conrad Leixner for 142,000 Rthl, paid partly by settling 53,139 Rthl with von Broniewski. The package includes the ten-paragraph contract sold in Pausch und Bogen, church capitals assumed, the disputed Krabielewo timber right, notarial attestations and Leixner's powers of attorney to Guderian.",
- "summary_de": "Königliche Konfirmation des Kaufvertrages über die Güter Kolno und Kaemen (Kamionna) im Posener Departement, die Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen aus der Donation Friedrich Wilhelms II. vom 9. August 1796 an Bankdirektor George Conrad Leixner in Pausch und Bogen für 142.000 Rthl verkauft; davon 53.139 Rthl an von Broniewski gezahlt. Beigefügt Kirchenkapitalien, die intabulierten 100.000 Rthl von Triebenfeld, streitiges Holzrecht in Krabielewo, Notariatsattest Ebersbach sowie Vollmachten für Melzer und Guderian."
+ "text_english": "The original hereof is on 137 rl. stamped paper, and has been taken to the mortgage files of Kolno and Kaemen. We Friedrich Wilhelm by the Grace of God King of Prussia p. p.\n\nDo hereby make known and give every man to know, especially where there is need of it, that before the Commissarius appointed by Our Government here, Our Government Assessor Bewert, the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, Your Lordship, and the bank cashier George Conrad Leixner, both by their mandataries legitimated hereto ad Acta, Our councillor of justice Melzer and Your Honour Councillor Guderian, appeared on the 6th of February 1805, and expressly acknowledged the purchase contract concluded on the 16th and 25th of January ejusd. concerning the estates Kolno and Kaemen situated in the Posen district, and requested that We might graciously be pleased to furnish this purchase contract with Our most high confirmation. The same, however, runs in its true content as follows:\n\nBetween the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, and the Royal bank director at Frankfurt an der Oder, Mr. George Conrad Leixner, the following purchase contract has been concluded.\n\n§. 1. His Most Serene Highness sells to the bank director Mr. Leixner the estates Kolno and Kaemen or Kamionna, situated in South Prussia, in the Posen Department and its Meseritz district, acquired in property by the deed of donation of His Majesty the late King Friedrich Wilhelm II of the 9th of August 1796, with all appurtenances, mills, residents, fields, woods, lakes, waters, services, hunting, propination rights, and in general with all rights and privileges, burdens and en-\n\ncumbrances, as his true property, for a purchase price of 142,000 Rthl., one hundred and forty-two thousand Reichsthaler, according to the coinage standard of 1764.\n\n§. 2. The purchase money of the 142,000 Rthl. has already been paid in full. His Most Serene Highness gives receipt for it and acknowledges generally that He has no further claim upon the purchaser out of this transaction of sale.\n\nIt is noted here historically that the payment of the purchase moneys was effected in the following manner.\n\na, 53,139 Rthl. 13 Groschen 8 1/5 d. the purchaser has paid to the former Polish cavalry captain von Broniewski, who, as a creditor put in possession, stood in actual possession of the estates, as the sum legally adjudged to him\n\nCarried over: 53,139 Rthl. 13 Groschen 8 1/5 d. paid upon the instruction of His Most Serene Highness.\n\nb, 88,860 Rthl. 10 Groschen 3 1/5 d. have been paid in cash by the purchaser to His Most Serene Highness Himself and upon His Highness's instructions.\n\ni. e. 142,000 Rthl.\n\n§. 3. Besides the purchase price the purchaser takes over the following items entered in the mortgage books upon Kolno and Kaemen:\n\na, a capital of 100 florins, one hundred Polish florins, for the church at Kaemen, the interest whereof is fixed annually at four Polish marks.\n\nb, for the same church a capital of 250 Rthl., two hundred and fifty Reichsthaler, or 1500, fifteen hundred Polish florins, which bear interest at 3 1/2, three and one half per cent yearly.\n\nThe interest of these two items the purchaser takes over from Midsummer 1804.\n\n§. 4. The present purchase is made without valuation, in Pausch und Bogen. His Most Serene Highness however gives warranty for this:\n\na, that the surface area of arable, meadows, heaths and lakes set out in the survey registers, which together with the maps have been delivered over to the purchaser, is really present. His Most Serene Highness assures herewith that no claim by anyone whatever to the parcels of ground listed in these survey registers is known to His Highness hitherto.\n\nThe obligation of His Most Serene Highness to answer for the correctness of the survey register in the above manner is limited to\n\nthree years.\n\nb, that in public dues no more is charged upon these estates than yearly for Kaemen 153 Rthl. 22 Groschen 8 Pfennig, for Kolno - 125 - 21 - 2, and in ecclesiastical dues for Kaemen 16 - 16 Groschen.\n\n§. 5. The delivery in kind of the estates to the purchaser has already taken place in the month of September 1804, and the proceedings taken down thereupon shall stand.\n\nWith regard to the warranty, the following principles have been adopted between the contracting parties:\n\na, that the usufructs of the estates belong to the purchaser from Midsummer 1804, from which time the purchaser has also to bear the\n\nburdens. Any older arrears are to be answered for by His Most Serene Highness. His Most Serene Highness also bears the justiciary's salary until Michaelmas of last year.\n\nb, that the estates shall be handed over to the purchaser as they stood and lay on the 15th of June of last year.\n\nc, that the purchaser may nevertheless demand only that stock of field, cattle and farm inventory which von Broniewski received upon his being put into possession in the year 1786, according to the records already handed over to the purchaser in [uncertain: the earlier proceedings], and which he was bound to restore.\n\n§. 6. Besides the church capitals noted in §. 2, there stands upon\n\nthe estates a mortgage capital of 100,000 Rthl., one hundred thousand Reichsthaler, entered upon a bond of indebtedness of His Most Serene Highness of the 1st of June 1804 in favour of the councillor of war and forests von Triebenfeld, who has ceded this mortgage to the purchaser. This debt, however, has already been fully settled, and the purchaser hereby expressly renounces all claims in that behalf both against His Most Serene Highness and against the Councillor of War and Forests von Triebenfeld. It is likewise solely the purchaser's affair to effect the cancellation of this encumbrance in the land and mortgage books. The costs of cancellation, however, shall be borne one half by His Most Serene\n\nHighness and one half by the purchaser.\n\n§. 7. The costs of drawing up and confirming this purchase, of the delivery of possession in kind and in civil law, and in general all costs of the purchase, by whatever name, shall likewise be borne one half by each of the two contracting parties.\n\n§. 8. Passive servitudes are not known to the Serene Highness of the vendor. On the other hand a right of timber in the Krabielew woods belongs to these estates.\n\nIn a possessory suit against von Kwilecki this was adjudged to His Serene Highness, but in the petitory suit it was denied him in the first instance. The purchaser\n\ntakes over this rem litigiosam without demanding any warranty from the Serene Highness of the vendor.\n\n§. 9. All documents and records belonging to the estates the Serene Highness of the vendor promises faithfully to deliver up to the purchaser, so far as it has not yet been done, and likewise also those which are still needed at present in His Serene Highness's action of account against von Broniewski, to hand over to the purchaser after the conclusion of that action. Yet the purchaser is also free, as goes without saying, to have these papers not yet delivered inspected as often as he finds it necessary.\n\n§: 10.\n\nThe contracting parties bind themselves to hold fast to this contract in all its points and clauses, renounce all objections against it, especially the objection of injury beyond the half and whatever others they might be called, and have executed this instrument by their own-hand signatures and appended seals.\n\nBreslau, the 16th of January 1805. Read by myself and approved (L. S.) Friedrich Ludwig Prince of Hohenlohe. I have read and approved this instrument.\n\n(L. S.) Meÿer Bernhard, in the name of and subject to the approval of the bank director Mr. Leixner.\n\nThat this purchase contract, between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry\n\nand Governor at Breslau p., who is personally well known to me, the undersigned notary, and to the witnesses, and the banker at Frankfurt an der Oder likewise personally well known to us, Mr. Meyer Bernhard, in the name of and subject to the ratification of the Royal bank director Mr. George Conrad Leixner, was agreed and concluded in the manner set out above and with our participation, and that this instrument, after it had been read through and approval declared, was executed by their own-hand signatures and appended seals, is hereby attested upon the ground of the protocol taken down thereupon. Breslau, the 16th of January 1805. (L. S.) Carl Gottlob Ebersbach, Royal councillor of the justice commission and notary public in the Breslau Department. (L. S.) Johann George Strebel, as witness. (L. S.) Johann Carl Stude, as witness.\n\nThe foregoing purchase contract I have read myself and found drawn up in accordance with my intention. Frankfurt an der Oder, the 25th of January 1805. George Conrad Leixner (L. S.) That the Royal bank cashier Mr. Georg Conrad Leixner, personally known to me and capable of disposing, has here signed the purchase contract set out before and overleaf, dated Breslau the 16th of January 1805, by the content whereof His Most Serene Highness, the reigning Prince Lord Friedrich Ludwig of Hohenlohe-Ingelfingen p. p., has sold to Mr. Leixner the estates Kollno and Kaemen, acquired by the deed of gift of His late Majesty King Friedrich Wilhelm II of the 9th of August 1796 and situated in South Prussia, Posen Department, for the sum of 142,000 Rthl., one hundred and forty-two thousand, after having himself\n\nread it through and approved it, and has sealed it with his signet in my presence; this is hereby attested upon the ground of the protocol held in that behalf, in witness whereof under the impress of the seal of the Justice Office of Frankfurt an der Oder and my signature as the justice official. Done at Frankfurt an der Oder on the twenty-fifth of January one thousand eight hundred and five.\n\n(L. S.)\n\nDr. Ernst Gottlob Born, Royal justice official and university syndic, also assessor of the faculty of jurists at\n\nFrankfurt an der Oder.\n\nActum Posen, the 6th of February 1805. In pursuance of the ordinance of the 8th of\n\nOctober of last year, of the 21st of January of the current year, and of the agreement made orally with the interested parties on that account, a term stands today for the taking down of the purchase contract agreed between the Prince of Hohenlohe-Ingelfingen and the bank director Leixner at Frankfurt an der Oder concerning the estates Kolno and Kaemen in the Posen district. At this term there appeared\n\n1, on the part of the vendor\n\na, as his mandatary the councillor of justice Melzer, who legitimated himself by the special power of attorney granted to him for this act and already in actis;\n\nb, the general mandatary of the Prince, the building councillor Glenck, already personally known to the undersigned;\n\n2, on the part of the purchaser, the crimi-\n\nnal-court councillor Guderian, who refers for his legitimation to the special power of attorney granted to him for this business and already submitted to the records by petition of the 28th of September of last year.\n\nThe interested parties on both sides hand in the annexed purchase contract, dated Breslau the 16th of January 1805, already executed in person by both parties, furnished with the recognition dated Breslau of the same day and Frankfurt an der Oder the 25th of January of the current year, with the declaration that they had expressly been authorised only to declare this contract, and that consequently a formal taking down of the contract would be as little required as they were authorised\n\non their side to consent to it.\n\nThereupon the councillor of justice Melzer declared in particular that the purchase contract handed in today was, according to the instruction given to him, in all its points and clauses in accordance with the intention of his principal, and that upon the ground thereof he wished hereby to transfer to the purchaser, the bank director Leixner, the ownership of the estates Kolno and Kaemen cum att. et pertinentiis, nothing whatever excepted therefrom, which belongs to him by the deed of grant of His Majesty King Friedrich Wilhelm II of the 9th of August 1796.\n\nIn like manner the criminal-court councillor Guderian acknowledged the purchase contract handed in above, dated Breslau the 16th of January 1805.\n\nwith the bank director Mr. Leixner at Frankfurt an der Oder concerning the estates Kollno and Kamienne belonging to me, and their appurtenances, for a price of 142,000 Rthl., one hundred and forty-two thousand Reichsthaler, to execute the instrument of purchase in my stead, thereafter also to appear in my name before a Most Praiseworthy Royal Government at Posen, to convey the ownership of the said estates to the purchaser upon the effecting of the civil delivery, to request confirmation of the purchase and to consent to the entry of the title of possession for the purchaser, and to give him receipt for the fully paid one hundred and forty-two thousand Reichsthaler of purchase money, and also to move that the one hundred thou-\n\nsand Reichsthaler intabulated upon these estates in favour of the councillor of war von Triebenfeld may be cancelled.\n\nBreslau, the 5th of September 1804. Read by myself and approved. (L. S.) Friedrich Ludwig Prince of Hohenlohe. That the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Royal General of Infantry and Governor at Breslau, appeared in person under today's date before the von Stechow-Arnoldsmühl Court Office and executed the foregoing power of attorney, after it had been read through and approval declared, by his own-hand signature and appended seal, is hereby attested upon the ground of the protocol taken down thereupon. Breslau, the 5th of September 1804. The von Stechow-Arnoldsmühl Court Office. (L. S.)\n\nEbersbach\n\nJusticiary\n\nStade\n\nActuary.\n\nSpecial power of attorney. I the undersigned do make known and acknowledge hereby that I hereby expressly empower the criminal-court councillor Mr. Guderian at Posen to recognise judicially in my name the purchase contract concluded between the authorised representative of His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the building councillor Mr. Glenck, and myself, concerning the estates Kolno and Kaemen in the Posen Department, dated Frankfurt an der Oder the 15th of June 1804; to accept the declaration of His Serene Highness that the purchase moneys of the 142,000 Rthl., write one hundred and forty-two thousand Rthl., have been paid, and that consequently the §§ which speak of the payment of this purchase money are to be regarded as disposed of; also to hold §. 12, concerning co-operation in the dismemberment of the estates, as lapsed; or else, should His Serene Highness demand it, to conclude a new purchase contract on the model of the aforesaid one of the 15th of June 1804, to accept the resignationem bonorum\n\nand to move thereupon that the title of possession of the said estates be entered in the mortgage book in my name, as also in general to observe and attend to everything which I, were I personally present, should be bound and entitled to do in this business. Whatever my said authorised representative shall do by virtue of this commission received, I hereby promise to approve and to hold to it as inviolably as if I had done it myself. At the same time I also make myself bound to indemnify my authorised representative in every respect on account of this commission and to reimburse him all costs and outlays, under pledge of my present and future property, so far as is required\n\nfor this. In witness whereof I have signed this special power of attorney with my own hand and confirmed it by the impress of my usual signet.\n\nSo done at Frankfurt an der Oder on the 21st of September 1804.\n\nRead and found correct (L. S.) George Conrad Leixner. Upon the ground of the judicial protocol held today, it is hereby attested that the Royal bank cashier Mr. Georg Conrad Leixner, well known to me in person and capable of disposing, here read through himself, approved, and, as stands above, signed and sealed with his own hand in my presence the foregoing special power of attorney, filled out upon his application and inquiry, wherein he authorises the criminal-court councillor Mr. Guderian at Posen to recognise the purchase contract concluded between himself and His Most Serene Highness of Hohenlohe-Ingelfingen,\n\ndated Frankfurt an der Oder the 15th of June 1804, and eventualiter to conclude a new purchase contract\n\non the model of the aforesaid one of the 15th of June 1804. In witness whereof under the impress of the seal of the Justice Office of Frankfurt an der Oder, with my signature as the justice official. So done at Frankfurt an der Oder, the 21st of September 1804.\n\nDr. Ernst Gottlob Born (L. S.), Royal justice official and university syndic, also assessor of the faculty of jurists.\n\nIt is true that I have already, under the 21st of September 1804, authorised the criminal-court councillor and justice commissarius Mr. Guderian at Posen by a judicial special power of attorney to recognise judicially in my name the purchase contract concluded between the authorised representative of His Serene Highness the reigning Prince and Lord of Hohenlohe-Ingelfingen, the building councillor Glencke, and myself, concerning the estates Kolno and Kaemen, dated Frankfurt an der Oder the 15th of June 1804, to accept the declaration of His Serene Highness that the stipulated moneys of the one hundred and forty-two thousand thaler Courant have been paid, and so forth. But since afterwards, for moving reasons, a new purchase contract was concluded between His Serene Highness and myself, dated Breslau the 16th of January 1805 and Frankfurt an der Oder the 25th of January 1805, concerning the said estates, and the same has been judicially executed both by the Serene Highness of the vendor and by myself, and since the criminal-court councillor Guderian reports to me that the Royal Most Praiseworthy South Prussian\n\nGovernment does not hold him legitimated by the power of attorney cited above, because it speaks of an earlier contract, I will hereby and by force of this extend the power of attorney already issued to Mr. Guderian to this effect: that he shall be entitled, upon the ground of the purchase contract already judicially declared by me, dated Breslau the 16th and Frankfurt the 25th of January 1805, to apply for the entry of the title of possession in my name, to accept the resignationem bonorum, and in this business of purchase and sale to do everything in my name that I would do were I myself present; consequently, should it be needful, which however I do not believe, to recognise the purchase contract of the 16th/25th of January 1805 judicially once more, to apply for the recognition of the entry of the title of possession effected and to receive the same for further forwarding to me.\n\nIn witness whereof I have signed and sealed this declaration and extension respectively of the above-mentioned power of attorney with my own hand. So done at Frankfurt an der Oder on the 8th of March 1805. Read by myself and found correct. (L. S.)\n\nGeorge Conrad Leixner. That the bank cashier here, Mr. Georg Conrad Leixner, whom I know well in person, the foregoing declaration respectively\n\nand extension of the special power of attorney previously issued to the criminal-court councillor Mr. Guderian at Posen, concerning the entry of the title of possession of the South Prussian estates Kolno and Kamen in his, Mr. Leixner's, name, after reading it through and approving it himself, signed and sealed with his own hand in my presence - this I hereby testify upon the ground of the protocol held in that behalf under today's date. So done at Frankfurt an der Oder, the 8th of March 1805. (L. S.)\n\nDr. Ernst Gottlob Born,\n\nqua justice official of the Justice Office here.\n\nSince We have now, praevia de super partium stipulatione, graciously deferred to this request, We corroborate and confirm, with the most high Royal sovereign supreme princely power and plenitude residing in Us, the purchase contract inserted above, in such wise that the same shall be valid, binding and enduring in all its points and clauses, shall be held firmly and inviolably, and that it shall in no way be permitted to act against it. Yet this without prejudice to Our Royal sovereign supreme princely prerogatives, rights, services\n\nand duties, and otherwise without prejudice to every man. In witness whereof under the usual signature and greater seal of Our South Prussian Government here. Given at Posen, the 18th of March 1805. Confirmation of the purchase contract concluded between the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, as vendor, and the bank cashier George Conrad Leixner, as purchaser, concerning the estates Kolno and Kaemen situated in the Posen district. Fee: 2 Rthl. 2 Groschen.\n\nStamp: 6 Groschen.\n\nEngrossing fee: 22 Groschen.\n\nSilk: 1 Groschen.\n\nNo: 2244.",
+ "summary_en": "A royal confirmation of a ten-paragraph contract by which Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, sold Kolno and Kaemen (Kamionna) in the Posen district, granted to him in 1796, to bank director George Conrad Leixner for 142,000 Rthl., sold in Pausch und Bogen: 53,139 Rthl. went to the possessing creditor von Broniewski, the rest in cash, with two church capitals taken over, a 100,000 Rthl. mortgage ceded by von Triebenfeld to be cancelled, and a disputed timber right in the Krabielew woods passing unwarranted. Filed with it are Leixner's powers of attorney to Guderian and their notarial attestations.",
+ "summary_de": "Königliche Bestätigung eines Kaufvertrags in zehn Paragraphen: Fürst Friedrich Ludwig von Hohenlohe-Ingelfingen verkauft die ihm 1796 von Friedrich Wilhelm II. geschenkten Güter Kolno und Kaemen (Kamionna) im Posener Departement an den Bankdirektor George Conrad Leixner in Pausch und Bogen für 142.000 Rthl., davon 53.139 Rthl. an den vormaligen Possessor von Broniewski gezahlt. Übernommen werden zwei Kirchenkapitalien, gelöscht wird ein Kapital von 100.000 Rthl. für von Triebenfeld; der Holzungsstreit gegen von Kwilecki geht als rem litigiosam mit über. Beigefügt sind die Vollmachten für Melzer und Guderian."
 }

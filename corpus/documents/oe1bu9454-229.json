@@ -189,10 +189,10 @@
   },
   {
    "entity": "",
-   "display": "Olesnice",
+   "display": "Olesnica",
    "kind": "place",
    "surface_de": "Olesnicer",
-   "surface_en": "Olesnice",
+   "surface_en": "Olesnica",
    "page": 1
   },
   {
@@ -253,10 +253,10 @@
   },
   {
    "entity": "",
-   "display": "v. Triebenfeld",
+   "display": "v Triebenfeld",
    "kind": "person",
    "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
+   "surface_en": "v Triebenfeld",
    "page": 2
   }
  ],
@@ -265,7 +265,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother of that day on which You beheld the light of the world, and which will remain the jewel among the lesser of its successors, I cannot lay myself personally at Your Most Serene Highness's feet and present my faithful and sincere wishes. I can do it only in writing, but let it be just as heartfelt — may God let Your Most Serene Highness live to see at least 50 more days of this kind; may He grant You the most enduring health, [uncertain: Wuhr] fortune, contentment, may He shower You with every blessing, and may He, just as Your Serene Highness truly deserves, let all grief and cares become strangers to You, most gracious Prince, from now on.\n\nThese are the substance of my most faithful wish on this important day. — For the rest, the Attorney General Count Lipski, the President of the Tribunal Smogorzewski, the Councillor of the Tribunal Rembowski, the Councillor of the Tribunal Michalski, and the Councillor of the Tribunal Sobocki most humbly thank Your Most Serene Highness for the fine game. The effect will shortly show itself in the decision of the Olesnice and Wrąbczyn matter. With the sub-prefect Brzechsta I have, sub spe rati, concluded the lease contract for the Zagorowo estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him in Schlawenschitz, where the contract can then be concluded by Your Serene Highness",
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother to that on which You first beheld the light of the world, and which will remain the jewel among the lesser ones that follow it, I cannot lay myself personally at Your Most Serene Highness's feet and bring forward my faithful and sincere wishes. I can do it [uncertain: only] in writing, but let it be just as heartfelt all the same. God grant Your Most Serene Highness to live to see at least 50 more days of this kind; may He bestow upon You the most lasting health, [uncertain: true] good fortune and contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to you, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish on this important day. For the rest, the Attorney-General Count Lipski, the Tribunal President Smogorzewski, the Tribunal Councillor Rembowski, the Tribunal Councillor Michalski, and the Tribunal Councillor Sobocki render Your Most Serene Highness their most humble thanks for the fine game. The effect will shortly show itself in the decision of the Olesnica and Wrąbczyn matter. With the sub-prefect Brzechsta I have concluded, sub spe rati, the lease contract for the Zagorowo estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him at Schlawenschitz, where the contract may then be concluded by Your Serene Highness",
    "names": [
     {
      "de": "Lipski",
@@ -299,7 +299,7 @@
     },
     {
      "de": "Olesnicer",
-     "en": "Olesnice",
+     "en": "Olesnica",
      "kind": "place"
     },
     {
@@ -320,13 +320,13 @@
    ],
    "numbers": [
     "50",
-    "20000",
-    "8ten"
+    "8ten",
+    "20000"
    ]
   },
   {
    "page": 2,
-   "en": "itself in due form. Whatever Mr. von Brzechsta will be able to bring together in ready money in the haste will be brought along. At present the daily new levies still eat away too much. All the interest is secured, and there still remain several thousand d annually to Your Serene Highness; the Bayonne capital will also be fully amortised. In the meantime, as regards the ready money, only the gain in both of the suits named overleaf will first bring true [uncertain: wegen]. The documents sent to me were submitted to the authority the day before yesterday. – Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the levies would be mitigated pro futuro. It would depend on a sacrifice, which\n\nMr. von Brzechsta will advance should it prove necessary. For the rest, Your Serene Highness will receive the original documents back after the use made of them.\n\nThe Parobeck follows, and if it succeeds, we shall bring along a still larger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful and most humble and obedient servant\n\nv. Triebenfeld",
+   "en": "himself in due form. Whatever the said Mr. von Brzechsta may be able to gather together in ready money at short notice will be brought along. At present the daily new levies still carry off too much. All the interest is secured, and there still remain over to Your Serene Highness several thousand d annually; the Bayonne capital will likewise be completely amortised. In the meantime, as regards the ready money, it is only the gain from the two proceedings named on the preceding page that will first bring in anything real. The documents sent to me were submitted to the authority the day before yesterday. Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the levies pro futuro would be reduced. It would depend upon a sacrifice, which\n\nMr. von Brzechsta will advance, should it be required. For the rest, Your Serene Highness receives back the original documents, the use of them having been made.\n\nthe Parobeck follows, and if it succeeds we shall bring along a still bigger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful and most humble and obedient servant\n\nv Triebenfeld",
    "names": [
     {
      "de": "Brzechsta",
@@ -350,7 +350,7 @@
     },
     {
      "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
+     "en": "v Triebenfeld",
      "kind": "person"
     }
    ],
@@ -360,7 +360,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother of that day on which You beheld the light of the world, and which will remain the jewel among the lesser of its successors, I cannot lay myself personally at Your Most Serene Highness's feet and present my faithful and sincere wishes. I can do it only in writing, but let it be just as heartfelt — may God let Your Most Serene Highness live to see at least 50 more days of this kind; may He grant You the most enduring health, [uncertain: Wuhr] fortune, contentment, may He shower You with every blessing, and may He, just as Your Serene Highness truly deserves, let all grief and cares become strangers to You, most gracious Prince, from now on.\n\nThese are the substance of my most faithful wish on this important day. — For the rest, the Attorney General Count Lipski, the President of the Tribunal Smogorzewski, the Councillor of the Tribunal Rembowski, the Councillor of the Tribunal Michalski, and the Councillor of the Tribunal Sobocki most humbly thank Your Most Serene Highness for the fine game. The effect will shortly show itself in the decision of the Olesnice and Wrąbczyn matter. With the sub-prefect Brzechsta I have, sub spe rati, concluded the lease contract for the Zagorowo estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him in Schlawenschitz, where the contract can then be concluded by Your Serene Highness\n\nitself in due form. Whatever Mr. von Brzechsta will be able to bring together in ready money in the haste will be brought along. At present the daily new levies still eat away too much. All the interest is secured, and there still remain several thousand d annually to Your Serene Highness; the Bayonne capital will also be fully amortised. In the meantime, as regards the ready money, only the gain in both of the suits named overleaf will first bring true [uncertain: wegen]. The documents sent to me were submitted to the authority the day before yesterday. – Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the levies would be mitigated pro futuro. It would depend on a sacrifice, which\n\nMr. von Brzechsta will advance should it prove necessary. For the rest, Your Serene Highness will receive the original documents back after the use made of them.\n\nThe Parobeck follows, and if it succeeds, we shall bring along a still larger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful and most humble and obedient servant\n\nv. Triebenfeld",
- "summary_en": "Birthday congratulations open a report that Attorney General Count Lipski, Tribunal President Smogorzewski and Tribunal Councillors Rembowski, Michalski and Sobocki thank the Prince for the gift of game, with effect expected on the imminent decision in the Olesnice and Wrąbczyn cases. Triebenfeld has concluded, sub spe rati, a lease of the Zagorow estates alone with sub-prefect Brzechsta at 20,000 Rthl, to be formally executed at Schlawenschitz on 8 February; interest is secured and the Bayonne capital will be amortised, though new taxes consume much ready money.",
- "summary_de": "Glückwünsche zum Festtag des Fürsten, verbunden mit dem Dank des Generalprokurators Graf Lipski, des Tribunalspräsidenten Smogorzewski sowie der Tribunalsräthe Rembowski, Michalski und Sobocki für das übersandte Wildbret, dessen Wirkung sich bei der Entscheidung der Sachen Olesnice und Wrąbczyn zeigen werde. Mit dem Unterpräfecten von Brzechsta ist sub spe rati der Pachtvertrag über die Zagorower Güter allein zu 20000 Rthl abgeschlossen; am 8. Februar will Triebenfeld mit ihm in Schlawenschitz zur Ausfertigung in forma probante eintreffen. Alle Zinsen seien gedeckt, das Bayonner Capital werde amortisiert; die eingesandten Documente wurden der Behörde vorgelegt, Originale folgen zurück."
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother to that on which You first beheld the light of the world, and which will remain the jewel among the lesser ones that follow it, I cannot lay myself personally at Your Most Serene Highness's feet and bring forward my faithful and sincere wishes. I can do it [uncertain: only] in writing, but let it be just as heartfelt all the same. God grant Your Most Serene Highness to live to see at least 50 more days of this kind; may He bestow upon You the most lasting health, [uncertain: true] good fortune and contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to you, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish on this important day. For the rest, the Attorney-General Count Lipski, the Tribunal President Smogorzewski, the Tribunal Councillor Rembowski, the Tribunal Councillor Michalski, and the Tribunal Councillor Sobocki render Your Most Serene Highness their most humble thanks for the fine game. The effect will shortly show itself in the decision of the Olesnica and Wrąbczyn matter. With the sub-prefect Brzechsta I have concluded, sub spe rati, the lease contract for the Zagorowo estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him at Schlawenschitz, where the contract may then be concluded by Your Serene Highness\n\nhimself in due form. Whatever the said Mr. von Brzechsta may be able to gather together in ready money at short notice will be brought along. At present the daily new levies still carry off too much. All the interest is secured, and there still remain over to Your Serene Highness several thousand d annually; the Bayonne capital will likewise be completely amortised. In the meantime, as regards the ready money, it is only the gain from the two proceedings named on the preceding page that will first bring in anything real. The documents sent to me were submitted to the authority the day before yesterday. Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the levies pro futuro would be reduced. It would depend upon a sacrifice, which\n\nMr. von Brzechsta will advance, should it be required. For the rest, Your Serene Highness receives back the original documents, the use of them having been made.\n\nthe Parobeck follows, and if it succeeds we shall bring along a still bigger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful and most humble and obedient servant\n\nv Triebenfeld",
+ "summary_en": "Birthday good wishes open a report of business: Attorney-General Count Lipski, Tribunal President Smogorzewski and Tribunal Councillors Rembowski, Michalski and Sobocki send thanks for a gift of game, and a favourable decision in the Olesnica and Wrąbczyn cases is expected shortly. A lease of the Zagorowo estates alone has been agreed with sub-prefect Brzechsta at 20,000 Rthl, subject to confirmation at Schlawenschitz on 8 February; interest is covered and the Bayonne capital will be paid off. Original documents returned.",
+ "summary_de": "Glückwunsch zum Geburtstag des Fürsten, verbunden mit Geschäftsnachrichten: Generalprokurator Graf Lipski, Tribunalpräsident Smogorzewski sowie die Tribunalräte Rembowski, Michalski und Sobocki danken für das übersandte Wild; eine Entscheidung in der Sache Olesnica und Wrąbczyn stehe bald an. Mit dem Unterpräfekten Brzechsta ist sub spe rati ein Pachtvertrag über die Zagorowoer Güter allein zu 20000 Rthl geschlossen, der am 8. Februar in Schlawenschitz förmlich abgeschlossen werden soll; Zinsen seien gedeckt, das Bayonner Kapital werde getilgt. Die übersandten Originalurkunden gehen zurück."
 }

@@ -7,26 +7,30 @@ segments:
     Most gracious Prince and Lord!
 
 
-    It is boundlessly bad how all business is now being made difficult here. Only today does the Invalids''
+    It is boundlessly bad how all business is now made difficult here. Only today does the Invalids''
     Fund release the Maritime Trading Company bonds, after I first had to pledge my poor soul besides,
-    and only then am I in a position to satisfy the bank: Livi, who was so good as to give the order to
-    pay remitted to Your Serene Highness some days earlier than he had the papers from the Invalids''
-    Fund. The hundred thousand pieces are to follow as soon as the valuations
+    and only then am I in a position to satisfy the bank[uncertain: Livi], who was so good as to give
+    the order to pay remitted to Your Serene Highness a few days earlier than he had the papers from the
+    Invalids'' Fund. The hundred thousand [uncertain: Studen] are to follow as soon as the assessments
+    had.
 
 
-    have been revised by the Chamber. I have arranged with my friends that they are to keep watch on the
-    monies so that no one else snatches them away, and if anyone should indeed procure a cabinet order,
+    have been reviewed by the Chamber. I have settled with my friends that they are to keep watch on the
+    monies so that no one else snatches them away, and if indeed someone should procure a cabinet order,
     then one had better risk the interest for a quarter of a year.
 
 
-    The men of business take 6 per cent. It is much, yet in these hard-pressed times very little, all
-    the more as the capital at 5 per cent can stand for half an eternity.
+    The men of business take 6 percent. It is much, yet in these hard-pressed times very little, the more
+    so as the capital at 5 per cent can stand for half an eternity.
 
 
-    With Gerard I am agreed; I have paid him 900 Rthl in interest and given him a written undertaking
-    that I am liable to him for the due payment of the interest. In return he must give me back a written
-    undertaking'
+    With Gerard I am agreed; I have paid him 900 Rthl interest and given him a written undertaking that
+    I stand surety for the due payment of the interest. In return he must give me a written undertaking
+    back'
   names:
+  - de: Invaliden Casse
+    en: Invalids' Fund
+    kind: other
   - de: Livi
     en: Livi
     kind: person
@@ -34,34 +38,35 @@ segments:
     en: Gerard
     kind: person
   numbers:
-  - '900'
   - '6'
   - '5'
+  - '900'
 - page: 2
-  en: 'that the capital may stand a few years more without notice of call. With Seebald it came to nothing,
-    for there 1800 Rthl of brokerage were to be given straight away again; these are now saved. With Eysenhard
-    I shall put the matter straight tomorrow and, without the meddling of other persons, arrange everything
-    for the best. On the 5th I then think certainly to depart from here; I take my route by way of Kontop
-    and Glogau, where on account of my being pushed about from place to place I shall find much lost and
-    vexation enough. For I have missed 2 appointed terms and shall no doubt be held in default.
+  en: 'that the capital may stand a few years longer without being called in. With Seebald nothing came
+    of it, for there 1800 Rthl brokerage were to be paid out again at once; these are now saved. With
+    Eysenhard I shall bring the matter into order tomorrow, and without the meddling of other people arrange
+    everything for the best. On the 5th I then think certainly to depart from here; I take my route by
+    way of Kontop and Glogau, where on account of my being pressed about hither and thither I shall find
+    much lent out and vexation enough. For I have missed 2 court terms and shall no doubt be [uncertain:
+    contumacious].
 
 
-    The Olesnice fellows must be thrown out, for the fellows have had protests entered against the estate
-    and protest against the dismemberment of the woods because they would have free firewood. Although
-    this is easy enough to manage, inasmuch as they are assigned only to a district of 330 Morgen, they
-    are nevertheless a [uncertain: hateful] brood that one must get off one''s neck, because one had constantly
-    to fear fresh quarrels – the lads themselves have not given a farthing, but rather the subsequent
-    purchasers have paid the 10000 Rthl, and these people undertake to pay the other 10000 Rthl forthwith,
-    and to render the interest yearly.
+    The Olesnica fellows must be thrown out, for the fellows have had protests entered against the estate
+    and protest against the dismemberment of the woods because they were to have free firewood. Although
+    this is easy enough to attend to, since they are assigned only to a district of 330 Morgen, they are
+    nevertheless a [uncertain: hateful] brood which one must get off one''s neck, because I had constantly
+    to fear fresh quarrels – the rogues themselves have not given a farthing; rather the subsequent purchasers
+    there have paid the 10000 Rthl, and these people undertake to pay the other 10000 Rthl forthwith,
+    and to render the interest annually.
 
 
-    In deepest respect I remain, until death,
+    In deepest reverence I remain, until death,
 
 
     Your Most Serene Highness''s
 
 
-    Berlin, 2nd February
+    Berlin, 2 February
 
 
     1805
@@ -85,7 +90,7 @@ segments:
     en: Glogau
     kind: place
   - de: Olesnicer
-    en: Olesnice
+    en: Olesnica
     kind: place
   - de: Berlin
     en: Berlin

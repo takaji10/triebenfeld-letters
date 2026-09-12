@@ -405,18 +405,18 @@
   },
   {
    "entity": "",
-   "display": "Pastor Willhelm",
+   "display": "Prince Willhelm",
    "kind": "person",
    "surface_de": "Pfr Willhelm",
-   "surface_en": "Pastor Willhelm",
+   "surface_en": "Prince Willhelm",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Leibhartin",
+   "display": "Roßem",
    "kind": "person",
-   "surface_de": "Leibhartin",
-   "surface_en": "Leibhartin",
+   "surface_de": "Roßem",
+   "surface_en": "Roßem",
    "page": 1
   },
   {
@@ -445,22 +445,6 @@
   },
   {
    "entity": "",
-   "display": "Bischdorff",
-   "kind": "place",
-   "surface_de": "Bischdorff",
-   "surface_en": "Bischdorff",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Mollna",
-   "kind": "place",
-   "surface_de": "Mollna",
-   "surface_en": "Mollna",
-   "page": 2
-  },
-  {
-   "entity": "",
    "display": "von Knobelsdorff",
    "kind": "person",
    "surface_de": "v Knobelsdorff",
@@ -476,6 +460,22 @@
    "page": 2
   },
   {
+   "entity": "",
+   "display": "Bischdorff",
+   "kind": "place",
+   "surface_de": "Bischdorff",
+   "surface_en": "Bischdorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mollna",
+   "kind": "place",
+   "surface_de": "Mollna",
+   "surface_en": "Mollna",
+   "page": 2
+  },
+  {
    "entity": "stoessel",
    "display": "Stössel",
    "kind": "person",
@@ -485,10 +485,10 @@
   },
   {
    "entity": "",
-   "display": "Weigel",
+   "display": "N. Weigel",
    "kind": "person",
-   "surface_de": "Weigels",
-   "surface_en": "Weigel",
+   "surface_de": "N Weigels",
+   "surface_en": "N. Weigel",
    "page": 2
   },
   {
@@ -501,10 +501,10 @@
   },
   {
    "entity": "",
-   "display": "v. Triebenfeld",
+   "display": "v Triebenfeld",
    "kind": "person",
    "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
+   "surface_en": "v Triebenfeld",
    "page": 2
   },
   {
@@ -581,14 +581,6 @@
   },
   {
    "entity": "",
-   "display": "Surzira",
-   "kind": "place",
-   "surface_de": "Surzira",
-   "surface_en": "Surzira",
-   "page": 3
-  },
-  {
-   "entity": "",
    "display": "Witów",
    "kind": "place",
    "surface_de": "Wittow",
@@ -597,50 +589,26 @@
   },
   {
    "entity": "",
-   "display": "v. Triebenfeld",
+   "display": "von Weigel",
    "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
+   "surface_de": "v. Weigel",
+   "surface_en": "von Weigel",
    "page": 3
   },
   {
    "entity": "",
-   "display": "Prince Chancellor",
+   "display": "v Triebenfeld",
    "kind": "person",
-   "surface_de": "Fürst Kanzlers",
-   "surface_en": "Prince Chancellor",
-   "page": 4
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
   },
   {
    "entity": "",
-   "display": "Prince State Chancellor",
+   "display": "the Prince State Chancellor",
    "kind": "person",
    "surface_de": "Fürst Staats Kanz.",
-   "surface_en": "Prince State Chancellor",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Lerian",
-   "kind": "other",
-   "surface_de": "Lerische",
-   "surface_en": "Lerian",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Dräger",
-   "kind": "person",
-   "surface_de": "Dräger",
-   "surface_en": "Dräger",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Forst",
-   "kind": "other",
-   "surface_de": "Forst",
-   "surface_en": "Forst",
+   "surface_en": "the Prince State Chancellor",
    "page": 4
   },
   {
@@ -661,10 +629,10 @@
   },
   {
    "entity": "",
-   "display": "Mr. Mann",
+   "display": "Royal Prussian Chief Post Director Mr. Mann",
    "kind": "person",
-   "surface_de": "Herrn Mann",
-   "surface_en": "Mr. Mann",
+   "surface_de": "Königl. Preuße OberPost Director Herrn Mann",
+   "surface_en": "Royal Prussian Chief Post Director Mr. Mann",
    "page": 5
   },
   {
@@ -677,18 +645,18 @@
   },
   {
    "entity": "",
-   "display": "Princess of Hessen-Rotenburg",
+   "display": "Princess of Hesse-Rotenburg",
    "kind": "person",
    "surface_de": "Prinzeßin am Heßen Rothenburg",
-   "surface_en": "Princess of Hessen-Rotenburg",
+   "surface_en": "Princess of Hesse-Rotenburg",
    "page": 5
   },
   {
    "entity": "",
-   "display": "große Schuller Straße",
+   "display": "Große Schuller Straße",
    "kind": "place",
    "surface_de": "große Schuller Straße",
-   "surface_en": "große Schuller Straße",
+   "surface_en": "Große Schuller Straße",
    "page": 6
   }
  ],
@@ -697,7 +665,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "This very moment I receive from Friend F in Berlin the news that the Queen died at Strelitz on the 19th, early, at 9 o'clock; also that the King is very ill, and that the most mournful consequences are feared. Although I would offer to send these matters to Exp. with all recommended haste, Your Serene Highness will no doubt have the news sooner. The Collorina affair is now a non-thing; now, gracious Lord, you must only see to it that you receive your 100000 Rthl. Have you already got the papers back through Köckritz - write me that with the greatest haste, for I am going to Berlin soon. I shall only try to raise the travelling money and hasten thither. Friend F. is pursuing his own days. The visit from Pastor Willhelm you perhaps do not reckon high enough in the valuation; it will probably bring you something in turn, that is to say, the cases must come on in the order of their consequences - previously the opposite was the case - the certain answer you will now receive, most gracious Lord, on the other side - but God grant it only after some 35 years. I must, if only I can raise the travelling money, absolutely hasten to Berlin. I am being frightfully harried over the interest on account of the Invalids' capital. I could go mad - the clumsy wretch means to sequestrate my estates and leave [uncertain: Leibhartin] - you see, I endure all this for your sake - if only one of the Ver: friends could help.\n\nHad I money - had I at least horses - then I would fly from one place to another, but the accursed postal charges tax the purse too much, and I am still too much in arrears.\n\nEver, however,\n\nYour Serene Highness's most faithful servant,\n\nv. Triebenfeld, 6 Xbr 1809",
+   "en": "This very moment I receive from friend F in Berlin the news that the Queen died at Strelitz on the 19th, early, at 9 o'clock; also that the King is very ill, and that the most sorrowful consequences of all are feared. Although I [uncertain: offered] to send these matters to Exp and commend all haste, Your Serene Highness will nevertheless surely have the news sooner. The Collorina affair is now a nullity; now, gracious Lord, you need only take care that you receive your 100000 Rthl. Have you already got the papers back through Köckritz - write me that most urgently, for I am going soon to Berlin. I shall merely try to raise the travelling money and hasten thither. Friend F is investigating on his own [uncertain: days]. The visit of Prince Willhelm you perhaps do not reckon high enough in the valuation; [uncertain: something] will presumably [uncertain: show] you, that is to say, the cases must occur one after another in their sequence - previously the contrary was the case - the certain answer you will now receive, most gracious Lord, in the next world - but God grant only some 35 years hence. I must, if only I can raise the travelling money, absolutely hasten to Berlin. I am being frightfully harried over the interest on the Invalids' capital. I could turn [uncertain: Roßem] - the coarse fellow means to sequester my estates and [illegible] - see, I suffer all this for your sake - if only one of the [text lost] friends could help.\n\nHad I money - had I at least horses, I would fly from one place to another, but the accursed post-moneys press the purse too hard, and I am still too far behind.\n\nEver, however,\n\nYour Serene Highness's most faithful servant\n\nv. Triebenfeld, 6 Xbr 1809",
    "names": [
     {
      "de": "F",
@@ -726,12 +694,12 @@
     },
     {
      "de": "Pfr Willhelm",
-     "en": "Pastor Willhelm",
+     "en": "Prince Willhelm",
      "kind": "person"
     },
     {
-     "de": "Leibhartin",
-     "en": "Leibhartin",
+     "de": "Roßem",
+     "en": "Roßem",
      "kind": "person"
     },
     {
@@ -751,7 +719,7 @@
   },
   {
    "page": 2,
-   "en": "Copy. Dear upright Friend, Herewith I convey to you the valuations and a Copy of the Landschaft assessment of the Biocdorff and Molna estates. The latter, as the figure shows me, are sound, so that anyone must find the demand of Mr. von Knobelsdorff fair. The debts intabulated upon the estates consist in mortgage bonds and small mortgages. Together they amount to 330000 Rthl, and since only 75000 Rthl are callable after the expiry of the moratorium, they can, my honest friend, become no burden to you with your means. Everything depends on how you are in a position to handle Mr. von Stössel. He is hard pressed and, as I know, is offering his papers at 50 per cent; I believe you may buy the whole 180000 Rthl from him for 90 Rthl, whereby he must still concede sound terms of payment - to draw this gentleman in is no sin, for he has frightfully taken advantage of the good [uncertain: both] Princes in the [uncertain: Köschent] dealings with me. Meanwhile I leave that to your wisdom. For the rest, the matter now stands thus - Bischdorff yields, according to the Landschaft assessment, annually 20462 Rthl 12 s\n\nMollna\n\n10 955 Rthl 18 s. The King's yield is small - the [uncertain: Schauß] taken at only 12 - the 60000 Rthl can therefore very well be conceded. So that makes 3000 Rthl more. Consequently annual revenue 34414 Rthl. The interest amounts, to the Landschaft, at 4 1/4 per cent, 10264 Rthl.\n\nTo the mortgage creditors\n\n3750. To Stössel, whose 100000 capital I still assume after all, 5000. For the capital of Mr. R. R. N. Weigel, 190000 Rthl, 9500.\n\n28514 Rthl, and accordingly there remains to you, dear friend, already a surplus of 5900 Rthl. With your interest, which after all derives from interest and God knows what, you have, dear old friend, now, when you are called [uncertain: hereditary] and judicial lord of the above-named lordships, an annual clear revenue of 16000 Rthl - and will you not, as a rich man, also make use of the ironworks? I wish you every good fortune in it, [uncertain: Siegen], and yet another 20 years of life, in which I shall often rejoice to have been the middleman who served you and the good Prince in a sound manner. With particular esteem etc.\n\nv. Triebenfeld\n\noverleaf the remainder",
+   "en": "Copy. Dear upright friend, Enclosed I convey to you the valuations, and a copy of the Landschaft assessment of the Biocdorff and Molna estates. The latter are, as the figure shows me, sound, so that anyone must find the demand of Mr. von Knobelsdorff fair. The debts intabulated upon the estates consist in mortgage bonds and small mortgages. They amount together to 330000 Rthl, and, since only 75000 Rthl are callable after the expiry of the moratorium, they cannot become burdensome to you, my honest friend, given your means. Everything depends on how you are able to handle Mr. von Stössel. He is in straits and is offering his papers, as I know, at 50 per cent; I believe you might buy the whole 180000 Rthl from him for 90 Rthl, whereby he must moreover concede sound terms of payment. To press this gentleman is no sin, for he has used the good [uncertain: two] Princes dreadfully in the [illegible] dealings with me. Meanwhile I leave that to your wisdom. For the rest, the matter now stands thus: Bischdorff yields, according to the Landschaft assessment, annually 20462 Rthl 12 s\n\nMollna\n\n10 955 Rthl 18 s. The [uncertain: King's] yield is small - the [uncertain: Schauß] taken at only 12 - therefore the 60000 Rthl can very properly be conceded. So it did more: 3000 Rthl. Consequently annual revenue 34414 Rthl. The interest amounts, to the Landschaft, at 4 1/4 per cent, to 10264 Rthl.\n\nTo the mortgage creditors\n\n3750. To Stössel, for whom I still allow 100000 capital: 5000. For the capital of Mr. R. R. N. Weigel, 190000 Rthl: 9500\n\n28514 Rthl, and after this there remains to you, dear friend, already a surplus of 5900 Rthl. With your interest, which after all derives from interest and God knows what, you have, dear old friend, now that you are called proprietor and lord of jurisdiction of the above-named lordships, a clear annual revenue of 16000 Rthl - and what will you, as a rich man, not further make of the ironworks? I wish you every good fortune therein, [uncertain: Siegen], and yet another twenty years of life, in which I shall often rejoice to have been the intermediary who served you and the good Prince in so sound a fashion. With especial esteem etc.\n\nv Triebenfeld\n\noverleaf, the rest",
    "names": [
     {
      "de": "Biocdorffer",
@@ -761,16 +729,6 @@
     {
      "de": "Molnaer",
      "en": "Molna",
-     "kind": "place"
-    },
-    {
-     "de": "Bischdorff",
-     "en": "Bischdorff",
-     "kind": "place"
-    },
-    {
-     "de": "Mollna",
-     "en": "Mollna",
      "kind": "place"
     },
     {
@@ -784,13 +742,23 @@
      "kind": "person"
     },
     {
+     "de": "Bischdorff",
+     "en": "Bischdorff",
+     "kind": "place"
+    },
+    {
+     "de": "Mollna",
+     "en": "Mollna",
+     "kind": "place"
+    },
+    {
      "de": "Stössel",
      "en": "Stössel",
      "kind": "person"
     },
     {
-     "de": "Weigels",
-     "en": "Weigel",
+     "de": "N Weigels",
+     "en": "N. Weigel",
      "kind": "person"
     },
     {
@@ -800,7 +768,7 @@
     },
     {
      "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
+     "en": "v Triebenfeld",
      "kind": "person"
     }
    ],
@@ -827,13 +795,12 @@
     "9500",
     "28514",
     "5900",
-    "16000",
-    "20"
+    "16000"
    ]
   },
   {
    "page": 3,
-   "en": "The estates of Mr. von Knobelu are, according to the valuations under letter A, assessed at 976865 Rthl; but these assessments can never be taken as the standard, rather the Landschaft ones under B must hold good for me. According to these the value is given as 630279 Rthl. Since, however, the Lubell valuation is far too high and the assessment under B also too low, Mr. von Knobelsdorff demands 70000 Rthl; I believe that this demand can be accepted without [uncertain: Pusico]. If now the value for the Knobelsdorff estates is really taken at 700000 Rthl, and there still burden the same the wife's property and 39000 Rthl of debts, then there remains clear capital 310000 Rthl. But Mr. Weigel's claim against you amounts, by consideration, to 190000 Rthl, the Stössel one 180000 Rthl, 370000 Rthl. Consequently more:\n\n60000 Rthl. These 60000 Rthl Mr. von Knobelsdorff must still discharge out of his lady's property, so that the [uncertain: Beken] items of 370000 Rthl can be fully receipted to the Prince - His Serene Highness the Prince gives for this the Zagorowo estates in Poland; these have a value of 550000 Rthl. Debts burden them in full - 20000 f. on [uncertain: Surzira] for the principal 18000\n\n218000 Rthl. There remains clear capital 332000 Rthl. To this comes the canon of Witów with 500 M., making 10000 Rthl. Of arrears outstanding in the estates, assigned in cash 28000 Rthl.\n\nAre the aforenamed\n\n370000. The old debts burdening the estates are mortgage bonds 255000 Rthl; mortgage debts, so that after the 60000 Rthl there remain 75000 Rthl; that amounts together to the purchase [uncertain: Preetinen] at 700000 Rthl. Against these estates worth 700000 Rthl, Mr. von Weigel would then have 190000 Rthl and Mr. von Stössel\n\n180000, which together amounts to 370000 Rthl, for which the Prince is to be receipted, and the debts must be struck out in the church registers and wherever else they stand entered, or ceded back to the Prince. For the rest, it remains Mr. Weigel's business now to negotiate soon with Mr. von Stössel and to buy the 180000 Rthl off him before the purchase becomes public.\n\nv. Triebenfeld",
+   "en": "The estates of Mr. von Knobelu are, according to the valuations under letter A, assessed at first at 976865 Rthl; these assessments can, however, never be taken as the standard, but rather the Landschaft ones under B must hold good for me. According to these the value is given as 630279 Rthl. Since, however, the valuation [uncertain: Lubell] is far too high and the assessment under B also too low, Mr. von Knobelsdorff demands 70000 Rthl; I believe that this demand can be accepted without [uncertain: Pusico]. If then the value for the Knobelsdorff estates is actually taken at 700000 Rthl, and there still attach to the same the wife's property of 39000 Rthl in debts, there remains clear capital 310000 Rthl. But the claim of Mr. Weigel upon you amounts, considered, to 190000 Rthl; the Stössel one 180000 Rthl; 370000 Rthl. Consequently more\n\n60000 Rthl. These 60000 Rthl Mr. von Knobelsdorff must still discharge out of his wife's property, so that the [uncertain: Beken] items of 370000 Rthl can be fully receipted to the Prince. His Serene Highness the Prince gives for this the Zagorowo estates in Poland; these have a value of 550000 Rthl. Debts attach fully thereto — 20000 f on [uncertain: Surzira] for principal 18000\n\n218000 Rthl; there remains clear capital 332000 Rthl. To this comes the canon of Witów at 500 M, making 10000 Rthl. On arrears which will be outstanding in the estates, assigned in cash, 28000 Rthl.\n\nAre the aforenamed\n\n370000. The old debts attaching to the estates are: mortgage bonds 255000 Rthl; mortgage debts, so that after the 60000 Rthl there remain 75000 Rthl. That amounts together to the purchase [uncertain: Praetinen] at 700000 Rthl. Against these estates worth 700000 Rthl, Mr. von Weigel would then have 190000 Rthl and Mr. von Stössel\n\n180000, which together amounts to 370000 Rthl, for which the Prince is to be receipted, and the debts on [uncertain: Kirchen tin] and wherever else they stand entered must be cancelled or ceded back to the Prince. For the rest, it remains Mr. Weigel's business to negotiate soon now with Mr. von Stössel and to buy the 180000 Rthl off him before the purchase becomes public.\n\nv Triebenfeld",
    "names": [
     {
      "de": "v. Knobelu",
@@ -881,18 +848,18 @@
      "kind": "place"
     },
     {
-     "de": "Surzira",
-     "en": "Surzira",
-     "kind": "place"
-    },
-    {
      "de": "Wittow",
      "en": "Witów",
      "kind": "place"
     },
     {
+     "de": "v. Weigel",
+     "en": "von Weigel",
+     "kind": "person"
+    },
+    {
      "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
+     "en": "v Triebenfeld",
      "kind": "person"
     }
    ],
@@ -931,32 +898,12 @@
   },
   {
    "page": 4,
-   "en": "Postscript on the 30th of October.\n\nBecause Your Serene Highness's letter of the 9th had run 11 days before I received it, I suppose the course of the post is to blame that I got no answer from Your Serene Highness to 5 letters - but now I hear from His Serene Highness the Prince Chancellor that Your Serene Highness has written to him - consequently I must believe that my exertions here are not being received with favour, and that Your Serene Highness does not care to think me worthy of an answer - were this really the case, then deign, Most Serene Prince, at least to let me know it. As for the rest, so far as Your Serene Highness's affair is concerned, the Prince State Chancellor takes it up with true earnestness - his words today were: I will help the old man. I mean that the King should pay the Lerian debt. The King guaranteed the debt and paid the interest until 1806. Moreover the Prince has indeed been [uncertain: cashiered] - the salary would have to be made over to him - [uncertain: Dräger] how much has the [uncertain: Forst] had this year in claim: 14000 Rthl, and that is just 112000 Rthl. Oh, splendid! he shall be helped.\n\nThe King comes out of the affair as the best of men, and on the debt item some 300000 Rthl are gained. A pity that the Prince has let his military affairs lie so, and that he did not press for a formal judgement - the money, or the 112000 Rthl, will most certainly be given, and the settlement of 1811 given up. Perhaps something great may yet be effected touching Your Serene Highness's honour. Tomorrow, on All Saints' Day, the Prince State Chancellor lays the matter before the King. Proud I shall be if my petition brings forth so many good effects. Here follows the last Pro Memoria, which I have obtained; it is a fatality that I have no Copy, for my hands are failing me from all the writing. I have resolved to avoid the antechambers and to treat everything in writing, and",
+   "en": "Postscript on the 30th of October.\n\nBecause Your Serene Highness's letter of the 9th had been 11 days in transit before I received it, I [uncertain: supposed] the course of the post to be at fault that I received no answer from Your Serene Highness to 5 letters - but now I hear from His Serene Highness the Prince Chancellor that Your Serene Highness has written to him - consequently I must believe that my exertions here are not received with approval, and that Your Serene Highness will not deem me worthy of an answer — were this really the case, then be pleased, most [uncertain: Serene] Prince, at least to let me know it. — As for the rest, as concerns Your Serene Highness's affair, the Prince State Chancellor takes it up with true earnestness - his words today were: I will help the old man. I mean that the King should pay the [uncertain: Lerische] debt. The King has guaranteed the debt and paid the interest up to 1806. Moreover the Prince has indeed been [uncertain: dismissed]; the salary ought to be given him — [uncertain: Dräger] how much has the [uncertain: forest] year had, the [uncertain: share]: 14000 Rthl, and that is just 112000 Rthl. O fine! he shall be helped.\n\nThe King comes out of the affair the best of men, and on the debt item some 300000 Rthl are after all gained. A pity that the Prince has let his military affairs lie so, and that he did not press for a judgement — the money, or the 112000 Rthl, will most certainly be given, and the settlement of 1811 abandoned. Perhaps, too, something great will yet be brought about touching Your Serene Highness's honour. Tomorrow, on All Saints' Day, the Prince State Chancellor lays the matter before the King. Proud shall I be if my submission produces so many good effects. Here follows the latest Pro Memoria, which I have [uncertain: achieved] - it is a misfortune that I have no copy, for my hands [uncertain: fail] me from all the writing. I have resolved to avoid the antechambers and to treat everything in writing, and",
    "names": [
     {
-     "de": "Fürst Kanzlers",
-     "en": "Prince Chancellor",
-     "kind": "person"
-    },
-    {
      "de": "Fürst Staats Kanz.",
-     "en": "Prince State Chancellor",
+     "en": "the Prince State Chancellor",
      "kind": "person"
-    },
-    {
-     "de": "Lerische",
-     "en": "Lerian",
-     "kind": "other"
-    },
-    {
-     "de": "Dräger",
-     "en": "Dräger",
-     "kind": "person"
-    },
-    {
-     "de": "Forst",
-     "en": "Forst",
-     "kind": "other"
     }
    ],
    "numbers": [
@@ -974,7 +921,7 @@
   },
   {
    "page": 5,
-   "en": "I see I fare better so. Now, Most gracious Lord, I beg you once more: only send 300 Rthl converted into Gold, so that I may be in a position here to go on negotiating. You may, Most gracious Prince, now indeed rely upon what I have said, for that upright great man Prince Hardenberg will not abandon you. The Chief Post Director Mann sends these letters. Let Your Serene Highness deign to address your letters, under his cover, to the Royal Prussian Chief Post Director Mr. Mann, Your Honour, in Vienna, for so I receive everything. Only, for God's sake, money. A letter from the Princess of Hessen-Rotenburg follows herewith.",
+   "en": "I see I fare better. Now, most gracious Lord, I beg you once again: only send 300 Rthl converted into Gold, so that I may be in a position here to go on negotiating. You may now, most gracious Prince, [uncertain: directly] rely on what I have said, for that upright great man Prince Hardenberg does not abandon you. [uncertain: People] - the Chief Post Director Mann sends these letters. May Your Serene Highness be pleased to address your letters, [uncertain: his enclosure], to the Royal Prussian Chief Post Director Mr. Mann, Your Honour, in Vienna; then I receive everything. Only, for God's sake, money. A letter from the Princess of Hesse-Rotenburg follows herewith.",
    "names": [
     {
      "de": "Fürst Hardenberg",
@@ -987,8 +934,8 @@
      "kind": "person"
     },
     {
-     "de": "Herrn Mann",
-     "en": "Mr. Mann",
+     "de": "Königl. Preuße OberPost Director Herrn Mann",
+     "en": "Royal Prussian Chief Post Director Mr. Mann",
      "kind": "person"
     },
     {
@@ -998,7 +945,7 @@
     },
     {
      "de": "Prinzeßin am Heßen Rothenburg",
-     "en": "Princess of Hessen-Rotenburg",
+     "en": "Princess of Hesse-Rotenburg",
      "kind": "person"
     }
    ],
@@ -1008,11 +955,11 @@
   },
   {
    "page": 6,
-   "en": "Have mercy, Your Serene Highness, and only send money - 300 Rthl in Gold I must have if I am to go on working here, and if I am not to sink in disgrace and [uncertain: O'Pott] - it is already shabby enough when, among people whom I need daily, I must also drive about like a beggar-dog - today I have moved out and am living at 872 große Schuller Straße, where I live on credit, for in the inns here every foreigner must pay everything at once - and my [uncertain: Zaabe] is still 57 gulden. If Your Serene Highness does not send money quickly, then everything collapses; without money no servant here gladly opens the door. Everything is too dreadfully dear. For the sake of God's mercy let Your Serene Highness send money, for I endured the greatest [uncertain: Proclitation] only yesterday - would that I had not come here this time. Like a begging boy I drive myself about here. Who will hear me and look at me in such a shape?\n\nI sacrifice everything, I wish the great villain for Your Serene Highness, to rescue you at one stroke, [uncertain: den Händsche]; alone, and without the help of some friends, I cannot get on - but what is to be done with a [uncertain: Leuphalten].",
+   "en": "Have mercy, Your Serene Highness, and only send money - 300 Rthl in Gold I must have if I am to go on working here, and if I am not to perish in shame and [uncertain: O'Pott]. It is already wretched enough when, among people whom I need daily, I must also go about like a beggar's dog. Today I have moved out and lodge at 872 Große Schuller Straße, where I live on credit, for at the inns every foreigner here must pay everything at once - and my [uncertain: store] is still 57 gulden. If Your Serene Highness does not [uncertain: send] money quickly, everything collapses; without money no servant here gladly opens the door. Everything is too frightfully dear. For the sake of God's mercy, Your Serene Highness, send money, [illegible]; already yesterday I endured the greatest [uncertain: proclamations] - would that I had not gone here this time. Like a beggar-boy I drive myself about here. Who will hear me and look upon me in such a figure?\n\nI sacrifice everything, wish the great scoundrel for Your Serene Highness, to save you at one stroke, the [uncertain: Händsche]; alone, and without the help of some friends, I cannot get on - but what is one to do with a [uncertain: Leuphalten].",
    "names": [
     {
      "de": "große Schuller Straße",
-     "en": "große Schuller Straße",
+     "en": "Große Schuller Straße",
      "kind": "place"
     }
    ],
@@ -1023,7 +970,7 @@
    ]
   }
  ],
- "text_english": "This very moment I receive from Friend F in Berlin the news that the Queen died at Strelitz on the 19th, early, at 9 o'clock; also that the King is very ill, and that the most mournful consequences are feared. Although I would offer to send these matters to Exp. with all recommended haste, Your Serene Highness will no doubt have the news sooner. The Collorina affair is now a non-thing; now, gracious Lord, you must only see to it that you receive your 100000 Rthl. Have you already got the papers back through Köckritz - write me that with the greatest haste, for I am going to Berlin soon. I shall only try to raise the travelling money and hasten thither. Friend F. is pursuing his own days. The visit from Pastor Willhelm you perhaps do not reckon high enough in the valuation; it will probably bring you something in turn, that is to say, the cases must come on in the order of their consequences - previously the opposite was the case - the certain answer you will now receive, most gracious Lord, on the other side - but God grant it only after some 35 years. I must, if only I can raise the travelling money, absolutely hasten to Berlin. I am being frightfully harried over the interest on account of the Invalids' capital. I could go mad - the clumsy wretch means to sequestrate my estates and leave [uncertain: Leibhartin] - you see, I endure all this for your sake - if only one of the Ver: friends could help.\n\nHad I money - had I at least horses - then I would fly from one place to another, but the accursed postal charges tax the purse too much, and I am still too much in arrears.\n\nEver, however,\n\nYour Serene Highness's most faithful servant,\n\nv. Triebenfeld, 6 Xbr 1809\n\nCopy. Dear upright Friend, Herewith I convey to you the valuations and a Copy of the Landschaft assessment of the Biocdorff and Molna estates. The latter, as the figure shows me, are sound, so that anyone must find the demand of Mr. von Knobelsdorff fair. The debts intabulated upon the estates consist in mortgage bonds and small mortgages. Together they amount to 330000 Rthl, and since only 75000 Rthl are callable after the expiry of the moratorium, they can, my honest friend, become no burden to you with your means. Everything depends on how you are in a position to handle Mr. von Stössel. He is hard pressed and, as I know, is offering his papers at 50 per cent; I believe you may buy the whole 180000 Rthl from him for 90 Rthl, whereby he must still concede sound terms of payment - to draw this gentleman in is no sin, for he has frightfully taken advantage of the good [uncertain: both] Princes in the [uncertain: Köschent] dealings with me. Meanwhile I leave that to your wisdom. For the rest, the matter now stands thus - Bischdorff yields, according to the Landschaft assessment, annually 20462 Rthl 12 s\n\nMollna\n\n10 955 Rthl 18 s. The King's yield is small - the [uncertain: Schauß] taken at only 12 - the 60000 Rthl can therefore very well be conceded. So that makes 3000 Rthl more. Consequently annual revenue 34414 Rthl. The interest amounts, to the Landschaft, at 4 1/4 per cent, 10264 Rthl.\n\nTo the mortgage creditors\n\n3750. To Stössel, whose 100000 capital I still assume after all, 5000. For the capital of Mr. R. R. N. Weigel, 190000 Rthl, 9500.\n\n28514 Rthl, and accordingly there remains to you, dear friend, already a surplus of 5900 Rthl. With your interest, which after all derives from interest and God knows what, you have, dear old friend, now, when you are called [uncertain: hereditary] and judicial lord of the above-named lordships, an annual clear revenue of 16000 Rthl - and will you not, as a rich man, also make use of the ironworks? I wish you every good fortune in it, [uncertain: Siegen], and yet another 20 years of life, in which I shall often rejoice to have been the middleman who served you and the good Prince in a sound manner. With particular esteem etc.\n\nv. Triebenfeld\n\noverleaf the remainder\n\nThe estates of Mr. von Knobelu are, according to the valuations under letter A, assessed at 976865 Rthl; but these assessments can never be taken as the standard, rather the Landschaft ones under B must hold good for me. According to these the value is given as 630279 Rthl. Since, however, the Lubell valuation is far too high and the assessment under B also too low, Mr. von Knobelsdorff demands 70000 Rthl; I believe that this demand can be accepted without [uncertain: Pusico]. If now the value for the Knobelsdorff estates is really taken at 700000 Rthl, and there still burden the same the wife's property and 39000 Rthl of debts, then there remains clear capital 310000 Rthl. But Mr. Weigel's claim against you amounts, by consideration, to 190000 Rthl, the Stössel one 180000 Rthl, 370000 Rthl. Consequently more:\n\n60000 Rthl. These 60000 Rthl Mr. von Knobelsdorff must still discharge out of his lady's property, so that the [uncertain: Beken] items of 370000 Rthl can be fully receipted to the Prince - His Serene Highness the Prince gives for this the Zagorowo estates in Poland; these have a value of 550000 Rthl. Debts burden them in full - 20000 f. on [uncertain: Surzira] for the principal 18000\n\n218000 Rthl. There remains clear capital 332000 Rthl. To this comes the canon of Witów with 500 M., making 10000 Rthl. Of arrears outstanding in the estates, assigned in cash 28000 Rthl.\n\nAre the aforenamed\n\n370000. The old debts burdening the estates are mortgage bonds 255000 Rthl; mortgage debts, so that after the 60000 Rthl there remain 75000 Rthl; that amounts together to the purchase [uncertain: Preetinen] at 700000 Rthl. Against these estates worth 700000 Rthl, Mr. von Weigel would then have 190000 Rthl and Mr. von Stössel\n\n180000, which together amounts to 370000 Rthl, for which the Prince is to be receipted, and the debts must be struck out in the church registers and wherever else they stand entered, or ceded back to the Prince. For the rest, it remains Mr. Weigel's business now to negotiate soon with Mr. von Stössel and to buy the 180000 Rthl off him before the purchase becomes public.\n\nv. Triebenfeld\n\nPostscript on the 30th of October.\n\nBecause Your Serene Highness's letter of the 9th had run 11 days before I received it, I suppose the course of the post is to blame that I got no answer from Your Serene Highness to 5 letters - but now I hear from His Serene Highness the Prince Chancellor that Your Serene Highness has written to him - consequently I must believe that my exertions here are not being received with favour, and that Your Serene Highness does not care to think me worthy of an answer - were this really the case, then deign, Most Serene Prince, at least to let me know it. As for the rest, so far as Your Serene Highness's affair is concerned, the Prince State Chancellor takes it up with true earnestness - his words today were: I will help the old man. I mean that the King should pay the Lerian debt. The King guaranteed the debt and paid the interest until 1806. Moreover the Prince has indeed been [uncertain: cashiered] - the salary would have to be made over to him - [uncertain: Dräger] how much has the [uncertain: Forst] had this year in claim: 14000 Rthl, and that is just 112000 Rthl. Oh, splendid! he shall be helped.\n\nThe King comes out of the affair as the best of men, and on the debt item some 300000 Rthl are gained. A pity that the Prince has let his military affairs lie so, and that he did not press for a formal judgement - the money, or the 112000 Rthl, will most certainly be given, and the settlement of 1811 given up. Perhaps something great may yet be effected touching Your Serene Highness's honour. Tomorrow, on All Saints' Day, the Prince State Chancellor lays the matter before the King. Proud I shall be if my petition brings forth so many good effects. Here follows the last Pro Memoria, which I have obtained; it is a fatality that I have no Copy, for my hands are failing me from all the writing. I have resolved to avoid the antechambers and to treat everything in writing, and\n\nI see I fare better so. Now, Most gracious Lord, I beg you once more: only send 300 Rthl converted into Gold, so that I may be in a position here to go on negotiating. You may, Most gracious Prince, now indeed rely upon what I have said, for that upright great man Prince Hardenberg will not abandon you. The Chief Post Director Mann sends these letters. Let Your Serene Highness deign to address your letters, under his cover, to the Royal Prussian Chief Post Director Mr. Mann, Your Honour, in Vienna, for so I receive everything. Only, for God's sake, money. A letter from the Princess of Hessen-Rotenburg follows herewith.\n\nHave mercy, Your Serene Highness, and only send money - 300 Rthl in Gold I must have if I am to go on working here, and if I am not to sink in disgrace and [uncertain: O'Pott] - it is already shabby enough when, among people whom I need daily, I must also drive about like a beggar-dog - today I have moved out and am living at 872 große Schuller Straße, where I live on credit, for in the inns here every foreigner must pay everything at once - and my [uncertain: Zaabe] is still 57 gulden. If Your Serene Highness does not send money quickly, then everything collapses; without money no servant here gladly opens the door. Everything is too dreadfully dear. For the sake of God's mercy let Your Serene Highness send money, for I endured the greatest [uncertain: Proclitation] only yesterday - would that I had not come here this time. Like a begging boy I drive myself about here. Who will hear me and look at me in such a shape?\n\nI sacrifice everything, I wish the great villain for Your Serene Highness, to rescue you at one stroke, [uncertain: den Händsche]; alone, and without the help of some friends, I cannot get on - but what is to be done with a [uncertain: Leuphalten].",
- "summary_en": "Reports the Queen's death at Strelitz on the 19th and the King's grave illness, urges recovery of the 100000 Rthl and asks whether Köckritz has returned the papers, and complains of harassment over interest on the Invalids' capital and of Roßem's threatened sequestration of Triebenfeld's estates. Appended: a copy valuing the Knobelsdorff (Bischdorff, Mollna) estates against Zagoraa, with the Weigel and Stössel claims of 190000 and 180000 Rthl; and an October postscript on Hardenberg's promised help over the 112000 Rthl, with repeated pleas for 300 Rthl in gold.",
- "summary_de": "Nachricht von \"Freund F\" in Berlin über den Tod der Königin am 19. in Strelitz und die schwere Krankheit des Königs; die Collorina-Sache sei nun gegenstandslos, es gelte nur noch die 100000 Rthl zu erlangen und zu erfahren, ob die Papiere durch Köckritz zurückgelangten. Triebenfeld klagt über Zinsforderungen wegen des Invaliden-Capitals, drohende Sequestration seiner Güter durch Roßem und fehlendes Reisegeld nach Berlin. Beigefügt Abschriften: Berechnung der Güter Bischdorff und Mollna (Landschafts-Taxe, Erträge 20462 und 10955 Rthl), der Knobelsdorff'schen Güter (700000 Rthl) gegen die Forderungen Weigel (190000 Rthl) und Stössel (180000 Rthl) sowie der polnischen Zagoraa-Güter; ferner ein Nachtrag vom 30. October aus Wien über Hardenbergs Zusage, die 112000 Rthl beim König zu erwirken, mit dringenden Bitten um 300 Rthl in Gold."
+ "text_english": "This very moment I receive from friend F in Berlin the news that the Queen died at Strelitz on the 19th, early, at 9 o'clock; also that the King is very ill, and that the most sorrowful consequences of all are feared. Although I [uncertain: offered] to send these matters to Exp and commend all haste, Your Serene Highness will nevertheless surely have the news sooner. The Collorina affair is now a nullity; now, gracious Lord, you need only take care that you receive your 100000 Rthl. Have you already got the papers back through Köckritz - write me that most urgently, for I am going soon to Berlin. I shall merely try to raise the travelling money and hasten thither. Friend F is investigating on his own [uncertain: days]. The visit of Prince Willhelm you perhaps do not reckon high enough in the valuation; [uncertain: something] will presumably [uncertain: show] you, that is to say, the cases must occur one after another in their sequence - previously the contrary was the case - the certain answer you will now receive, most gracious Lord, in the next world - but God grant only some 35 years hence. I must, if only I can raise the travelling money, absolutely hasten to Berlin. I am being frightfully harried over the interest on the Invalids' capital. I could turn [uncertain: Roßem] - the coarse fellow means to sequester my estates and [illegible] - see, I suffer all this for your sake - if only one of the [text lost] friends could help.\n\nHad I money - had I at least horses, I would fly from one place to another, but the accursed post-moneys press the purse too hard, and I am still too far behind.\n\nEver, however,\n\nYour Serene Highness's most faithful servant\n\nv. Triebenfeld, 6 Xbr 1809\n\nCopy. Dear upright friend, Enclosed I convey to you the valuations, and a copy of the Landschaft assessment of the Biocdorff and Molna estates. The latter are, as the figure shows me, sound, so that anyone must find the demand of Mr. von Knobelsdorff fair. The debts intabulated upon the estates consist in mortgage bonds and small mortgages. They amount together to 330000 Rthl, and, since only 75000 Rthl are callable after the expiry of the moratorium, they cannot become burdensome to you, my honest friend, given your means. Everything depends on how you are able to handle Mr. von Stössel. He is in straits and is offering his papers, as I know, at 50 per cent; I believe you might buy the whole 180000 Rthl from him for 90 Rthl, whereby he must moreover concede sound terms of payment. To press this gentleman is no sin, for he has used the good [uncertain: two] Princes dreadfully in the [illegible] dealings with me. Meanwhile I leave that to your wisdom. For the rest, the matter now stands thus: Bischdorff yields, according to the Landschaft assessment, annually 20462 Rthl 12 s\n\nMollna\n\n10 955 Rthl 18 s. The [uncertain: King's] yield is small - the [uncertain: Schauß] taken at only 12 - therefore the 60000 Rthl can very properly be conceded. So it did more: 3000 Rthl. Consequently annual revenue 34414 Rthl. The interest amounts, to the Landschaft, at 4 1/4 per cent, to 10264 Rthl.\n\nTo the mortgage creditors\n\n3750. To Stössel, for whom I still allow 100000 capital: 5000. For the capital of Mr. R. R. N. Weigel, 190000 Rthl: 9500\n\n28514 Rthl, and after this there remains to you, dear friend, already a surplus of 5900 Rthl. With your interest, which after all derives from interest and God knows what, you have, dear old friend, now that you are called proprietor and lord of jurisdiction of the above-named lordships, a clear annual revenue of 16000 Rthl - and what will you, as a rich man, not further make of the ironworks? I wish you every good fortune therein, [uncertain: Siegen], and yet another twenty years of life, in which I shall often rejoice to have been the intermediary who served you and the good Prince in so sound a fashion. With especial esteem etc.\n\nv Triebenfeld\n\noverleaf, the rest\n\nThe estates of Mr. von Knobelu are, according to the valuations under letter A, assessed at first at 976865 Rthl; these assessments can, however, never be taken as the standard, but rather the Landschaft ones under B must hold good for me. According to these the value is given as 630279 Rthl. Since, however, the valuation [uncertain: Lubell] is far too high and the assessment under B also too low, Mr. von Knobelsdorff demands 70000 Rthl; I believe that this demand can be accepted without [uncertain: Pusico]. If then the value for the Knobelsdorff estates is actually taken at 700000 Rthl, and there still attach to the same the wife's property of 39000 Rthl in debts, there remains clear capital 310000 Rthl. But the claim of Mr. Weigel upon you amounts, considered, to 190000 Rthl; the Stössel one 180000 Rthl; 370000 Rthl. Consequently more\n\n60000 Rthl. These 60000 Rthl Mr. von Knobelsdorff must still discharge out of his wife's property, so that the [uncertain: Beken] items of 370000 Rthl can be fully receipted to the Prince. His Serene Highness the Prince gives for this the Zagorowo estates in Poland; these have a value of 550000 Rthl. Debts attach fully thereto — 20000 f on [uncertain: Surzira] for principal 18000\n\n218000 Rthl; there remains clear capital 332000 Rthl. To this comes the canon of Witów at 500 M, making 10000 Rthl. On arrears which will be outstanding in the estates, assigned in cash, 28000 Rthl.\n\nAre the aforenamed\n\n370000. The old debts attaching to the estates are: mortgage bonds 255000 Rthl; mortgage debts, so that after the 60000 Rthl there remain 75000 Rthl. That amounts together to the purchase [uncertain: Praetinen] at 700000 Rthl. Against these estates worth 700000 Rthl, Mr. von Weigel would then have 190000 Rthl and Mr. von Stössel\n\n180000, which together amounts to 370000 Rthl, for which the Prince is to be receipted, and the debts on [uncertain: Kirchen tin] and wherever else they stand entered must be cancelled or ceded back to the Prince. For the rest, it remains Mr. Weigel's business to negotiate soon now with Mr. von Stössel and to buy the 180000 Rthl off him before the purchase becomes public.\n\nv Triebenfeld\n\nPostscript on the 30th of October.\n\nBecause Your Serene Highness's letter of the 9th had been 11 days in transit before I received it, I [uncertain: supposed] the course of the post to be at fault that I received no answer from Your Serene Highness to 5 letters - but now I hear from His Serene Highness the Prince Chancellor that Your Serene Highness has written to him - consequently I must believe that my exertions here are not received with approval, and that Your Serene Highness will not deem me worthy of an answer — were this really the case, then be pleased, most [uncertain: Serene] Prince, at least to let me know it. — As for the rest, as concerns Your Serene Highness's affair, the Prince State Chancellor takes it up with true earnestness - his words today were: I will help the old man. I mean that the King should pay the [uncertain: Lerische] debt. The King has guaranteed the debt and paid the interest up to 1806. Moreover the Prince has indeed been [uncertain: dismissed]; the salary ought to be given him — [uncertain: Dräger] how much has the [uncertain: forest] year had, the [uncertain: share]: 14000 Rthl, and that is just 112000 Rthl. O fine! he shall be helped.\n\nThe King comes out of the affair the best of men, and on the debt item some 300000 Rthl are after all gained. A pity that the Prince has let his military affairs lie so, and that he did not press for a judgement — the money, or the 112000 Rthl, will most certainly be given, and the settlement of 1811 abandoned. Perhaps, too, something great will yet be brought about touching Your Serene Highness's honour. Tomorrow, on All Saints' Day, the Prince State Chancellor lays the matter before the King. Proud shall I be if my submission produces so many good effects. Here follows the latest Pro Memoria, which I have [uncertain: achieved] - it is a misfortune that I have no copy, for my hands [uncertain: fail] me from all the writing. I have resolved to avoid the antechambers and to treat everything in writing, and\n\nI see I fare better. Now, most gracious Lord, I beg you once again: only send 300 Rthl converted into Gold, so that I may be in a position here to go on negotiating. You may now, most gracious Prince, [uncertain: directly] rely on what I have said, for that upright great man Prince Hardenberg does not abandon you. [uncertain: People] - the Chief Post Director Mann sends these letters. May Your Serene Highness be pleased to address your letters, [uncertain: his enclosure], to the Royal Prussian Chief Post Director Mr. Mann, Your Honour, in Vienna; then I receive everything. Only, for God's sake, money. A letter from the Princess of Hesse-Rotenburg follows herewith.\n\nHave mercy, Your Serene Highness, and only send money - 300 Rthl in Gold I must have if I am to go on working here, and if I am not to perish in shame and [uncertain: O'Pott]. It is already wretched enough when, among people whom I need daily, I must also go about like a beggar's dog. Today I have moved out and lodge at 872 Große Schuller Straße, where I live on credit, for at the inns every foreigner here must pay everything at once - and my [uncertain: store] is still 57 gulden. If Your Serene Highness does not [uncertain: send] money quickly, everything collapses; without money no servant here gladly opens the door. Everything is too frightfully dear. For the sake of God's mercy, Your Serene Highness, send money, [illegible]; already yesterday I endured the greatest [uncertain: proclamations] - would that I had not gone here this time. Like a beggar-boy I drive myself about here. Who will hear me and look upon me in such a figure?\n\nI sacrifice everything, wish the great scoundrel for Your Serene Highness, to save you at one stroke, the [uncertain: Händsche]; alone, and without the help of some friends, I cannot get on - but what is one to do with a [uncertain: Leuphalten].",
+ "summary_en": "Reports the Queen's death at Strelitz and the King's illness, declares the Collorina affair void, and urges recovery of 100,000 Rthl and the papers held by Köckritz. Encloses a copy of a scheme for exchanging the Zagorowo estates against von Knobelsdorff's Bischdorff and Mollna, with valuations, Landschaft assessments and claims by Weigel (190,000 Rthl) and Stössel (180,000 Rthl). A postscript records Chancellor Hardenberg's promise of help over 112,000 Rthl and begs repeatedly for 300 Rthl in gold.",
+ "summary_de": "Nachricht vom Tod der Königin in Strelitz am 19. und von der Krankheit des Königs; die Collorina-Sache sei damit erledigt, es gehe nur noch um die 100000 Rthl und um die durch Köckritz zurückerbetenen Papiere. Triebenfeld klagt über Mahnungen wegen der Zinsen des Invalidenkapitals und drohende Sequestration seiner Güter. Beigefügt eine Abschrift zum Tauschgeschäft mit von Knobelsdorff: Landschaftstaxen von Bischdorff und Mollna, Schulden von 330000 Rthl, Forderungen Weigels (190000 Rthl) und Stössels (180000 Rthl), dagegen die Zagorowo-Güter zu 550000 Rthl. In einem Nachtrag vom 30. Oktober berichtet er über Hardenbergs Zusage, dem Fürsten zu 112000 Rthl zu verhelfen, und bittet dringend um 300 Rthl in Gold."
 }

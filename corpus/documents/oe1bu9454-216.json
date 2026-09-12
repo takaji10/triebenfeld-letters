@@ -202,10 +202,10 @@
   },
   {
    "entity": "",
-   "display": "Oleśnicki",
-   "kind": "other",
+   "display": "Olesnica",
+   "kind": "place",
    "surface_de": "Olesnicer",
-   "surface_en": "Oleśnicki",
+   "surface_en": "Olesnica",
    "page": 2
   },
   {
@@ -258,6 +258,14 @@
   },
   {
    "entity": "",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Heckerschen",
+   "surface_en": "Hecker",
+   "page": 2
+  },
+  {
+   "entity": "",
    "display": "B.",
    "kind": "person",
    "surface_de": "B.",
@@ -274,10 +282,10 @@
   },
   {
    "entity": "",
-   "display": "von Triebenfeld",
+   "display": "v Triebenfeld",
    "kind": "person",
    "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
+   "surface_en": "v Triebenfeld",
    "page": 3
   }
  ],
@@ -286,7 +294,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAccording to all probability, and especially in accordance with the assurances of several magnates, every private debt, like the so-called Bayonne sums — that is to say, bond, [uncertain: Jevatiden] and wards' gulden — will be dealt with and made subject to the 41 3/4-year moratorium. Concerning the bank and /Invalids' sum Your Most Serene Highness already has the documents in hand, and perhaps I shall be so fortunate as shortly to lay at the feet of the same a like document concerning the Weigel 50000 Rthl. In this manner there rest upon the whole of the estates 200000 Rthl, which in 41¾ years would be amortised at 6 per cent, both as to capital and as to interest. The estates are now worth much, and the debt resting upon them has been converted into a life-annuity. — It is now urgently necessary that Your Serene Highness tell me much, whether you wish to keep the estates or to exchange them. If you wish to keep the estates, then, in order to secure certain revenues, I must for the most part have the Hollanders or colonists driven off by judicial decrees to the [uncertain: T], and form pure demesne farms. But if you can or will exchange the estates to advantage, then this can be spared, and one states the revenues according to the judicial contracts which serve as the norm for the interest receipts; only, in the event of a bargain, a warranty of title can be given upon them. —",
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nBy all appearances, and especially according to the assurances of several magnates, every private debt, as well as the so-called Bayonne sums — that is, Band, Jevatiden and wards' gulden — will be treated alike and made subject to the 41 3/4 year moratorium. Concerning the Bank and /Invalids' sum, Your Most Serene Highness already has the documents in hand, and perhaps I shall be so fortunate as shortly to lay at the feet of the same a like document concerning the Weigel 50000 Rthl. In this manner there rest upon the estates together 200000 Rthl, which in 41¾ years at 6 per cent would be amortised as to both capital and interest. The estates are now worth a great deal, and the debt resting upon them has been converted into a life annuity. — It is now urgently necessary that Your Serene Highness tell me much, whether you wish to keep the estates or to exchange them. If you wish to keep the estates, then, in order to obtain secure revenues, I must have the Hollanders or colonists for the greater part driven out by judicial decrees, and form pure demesne farms. But if you can or will exchange the estates to advantage, then this can be spared, and one states the revenues according to the judicial contracts, which serve as the standard for the interest receipts; only in that case a warranty of title can be given upon a sale. —",
    "names": [
     {
      "de": "Bayonner",
@@ -309,12 +317,12 @@
   },
   {
    "page": 2,
-   "en": "May Your Serene Highness deign to let me know your first will and intention by this express: whether you wish the estates to be conserved only for yourself and your descendants.\n\nShould this be the case, then, since the present laws are more favourable to the estate-owner than the Prussian ones are, I press for the annulment of the [uncertain: Bauländer] or [uncertain: ColloMiler]. This can take two months at most, and then I shall have the judgment; and in the meantime the matter of the Oleśnicki swindlers and of the Wrąbczyn people must also be decided. As to the arrears, a mass of lawsuits is pending, but I doubt that much will flow into Your Serene Highness's treasury. Every one of them declares himself insolvent. — At bottom the distress is very great and the want of money general. I have most to do at present with Hecker and this whole brood. Hecker is continually inciting the subjects with the [uncertain: Hawich]; I therefore most humbly beg that a judicial power of attorney be issued for the advocate of the court of the peace Schmid at Kalisz, according to the enclosed form, so that he may at last make a clean sweep of the rabble. This is very urgently necessary, so that by the swiftest [uncertain: Fatharium] — which, however, must be done through a third party — I may the more quickly reach the goal of my wishes. From the revision of the Honrichs, Hecker and all the accounts, everything will appear. To Hecker may Your Serene Highness deign to write in your own hand according to the enclosed draft. For since I stand in litigation with the villain, I",
+   "en": "May Your Serene Highness deign to let me know your first intention as to your will by this express messenger: whether you wish the estates to be preserved for yourself and your descendants alone.\n\nShould this be the case, then I press — since the present laws are more favourable to the estate proprietor than the Prussian ones are — for the annulment of the Hollanders or colonists. This can take at most 2 months, and then I have the judgment; and in the meantime the matter concerning the Olesnica swindlers and concerning the Wrąbczyn people must also be decided. Concerning the arrears a great number of lawsuits are pending, but I doubt that much will flow into Your Serene Highness's treasury. Everyone declares himself insolvent. — At bottom the distress is very great, and the want of money general. Most of what I now have to deal with is with Hecker and this whole brood. Hecker continually incites the subjects, together with Hawich; wherefore I most humbly beg that a judicial power of attorney be issued for the advocate of the justice-of-the-peace court, Schmid, at Kalisz, according to the enclosed form, so that he may at last make a clean sweep of the rabble. This is very urgently necessary, so that by the swiftest [uncertain: Fatharium] — which, however, must be done through a third party — I may the more quickly reach the goal of my wishes. From a review of the Honrichs and Hecker accounts, and of all of them, everything will come to light. May Your Serene Highness deign to write to Hecker with your own hand according to the enclosed draft. For I, standing as I do in litigation with the villain,",
    "names": [
     {
      "de": "Olesnicer",
-     "en": "Oleśnicki",
-     "kind": "other"
+     "en": "Olesnica",
+     "kind": "place"
     },
     {
      "de": "Wrąbczyner",
@@ -329,7 +337,7 @@
     {
      "de": "Hawich",
      "en": "Hawich",
-     "kind": "other"
+     "kind": "person"
     },
     {
      "de": "Schmid",
@@ -345,6 +353,11 @@
      "de": "Honrichsen",
      "en": "Honrichs",
      "kind": "person"
+    },
+    {
+     "de": "Heckerschen",
+     "en": "Hecker",
+     "kind": "person"
     }
    ],
    "numbers": [
@@ -353,7 +366,7 @@
   },
   {
    "page": 3,
-   "en": "cannot now issue any orders touching the service, certainly not to B.; at least he would not act rightly upon them. In deepest reverence I remain, until death, Your Most Serene Highness's Blizanow\n\nthe 29th of July 1811.\n\nMay Your Serene Highness have the messenger paid; he receives 6 gg per mile. I gave him 1 Rthl for the road. most humble and obedient servant v. Triebenfeld",
+   "en": "cannot now issue any orders touching the service, and certainly not to B.; at least he would not act upon them. In deepest reverence I remain, until death, Your Most Serene Highness's — Blizanow\n\nthe 29th of July 1811.\n\nLet Your Serene Highness have the messenger paid; he receives 6 gg per mile. 1 Rthl I have given him for the road. — most humble and obedient servant v Triebenfeld",
    "names": [
     {
      "de": "B.",
@@ -367,7 +380,7 @@
     },
     {
      "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
+     "en": "v Triebenfeld",
      "kind": "person"
     }
    ],
@@ -379,7 +392,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAccording to all probability, and especially in accordance with the assurances of several magnates, every private debt, like the so-called Bayonne sums — that is to say, bond, [uncertain: Jevatiden] and wards' gulden — will be dealt with and made subject to the 41 3/4-year moratorium. Concerning the bank and /Invalids' sum Your Most Serene Highness already has the documents in hand, and perhaps I shall be so fortunate as shortly to lay at the feet of the same a like document concerning the Weigel 50000 Rthl. In this manner there rest upon the whole of the estates 200000 Rthl, which in 41¾ years would be amortised at 6 per cent, both as to capital and as to interest. The estates are now worth much, and the debt resting upon them has been converted into a life-annuity. — It is now urgently necessary that Your Serene Highness tell me much, whether you wish to keep the estates or to exchange them. If you wish to keep the estates, then, in order to secure certain revenues, I must for the most part have the Hollanders or colonists driven off by judicial decrees to the [uncertain: T], and form pure demesne farms. But if you can or will exchange the estates to advantage, then this can be spared, and one states the revenues according to the judicial contracts which serve as the norm for the interest receipts; only, in the event of a bargain, a warranty of title can be given upon them. —\n\nMay Your Serene Highness deign to let me know your first will and intention by this express: whether you wish the estates to be conserved only for yourself and your descendants.\n\nShould this be the case, then, since the present laws are more favourable to the estate-owner than the Prussian ones are, I press for the annulment of the [uncertain: Bauländer] or [uncertain: ColloMiler]. This can take two months at most, and then I shall have the judgment; and in the meantime the matter of the Oleśnicki swindlers and of the Wrąbczyn people must also be decided. As to the arrears, a mass of lawsuits is pending, but I doubt that much will flow into Your Serene Highness's treasury. Every one of them declares himself insolvent. — At bottom the distress is very great and the want of money general. I have most to do at present with Hecker and this whole brood. Hecker is continually inciting the subjects with the [uncertain: Hawich]; I therefore most humbly beg that a judicial power of attorney be issued for the advocate of the court of the peace Schmid at Kalisz, according to the enclosed form, so that he may at last make a clean sweep of the rabble. This is very urgently necessary, so that by the swiftest [uncertain: Fatharium] — which, however, must be done through a third party — I may the more quickly reach the goal of my wishes. From the revision of the Honrichs, Hecker and all the accounts, everything will appear. To Hecker may Your Serene Highness deign to write in your own hand according to the enclosed draft. For since I stand in litigation with the villain, I\n\ncannot now issue any orders touching the service, certainly not to B.; at least he would not act rightly upon them. In deepest reverence I remain, until death, Your Most Serene Highness's Blizanow\n\nthe 29th of July 1811.\n\nMay Your Serene Highness have the messenger paid; he receives 6 gg per mile. I gave him 1 Rthl for the road. most humble and obedient servant v. Triebenfeld",
- "summary_en": "Reports that private debts, like the Bayonne sums, will probably fall under the 41¾-year moratorium, leaving some 200000 Rthl on the estates amortisable at 6 per cent, with documents expected on the Weigel 50000 Rthl. Presses the Prince to decide whether to keep or exchange the estates, since retention would require evicting the Hollander colonists to form demesne farms, and requests a judicial power of attorney for the advocate Schmid at Kalisz against Hecker, plus a letter to Hecker in the Prince's own hand; mentions the Oleśnicki and Wrąbczyn suits, general insolvency, and the messenger's 6 Groschen per mile.",
- "summary_de": "Bericht über die zu erwartende Einbeziehung aller Privatschulden, auch der sogenannten Bayonner Summen, in das Moratorium von 41 3/4 Jahren; über Bank- und Invalidensumme liegen die Dokumente bereits vor, ein gleiches wird für die Weigelschen 50000 Rthl erhofft, so daß 200000 Rthl auf den Gütern ruhen. Anfrage, ob die Güter behalten oder vertauscht werden sollen, da davon Abtrieb der Holländer und Bildung von Vorwerken abhängt. Erbeten wird eine gerichtliche Vollmacht für den Friedensgerichtsadvocaten Schmid in Kalisz gegen Hecker sowie ein eigenhändiges Schreiben an diesen; Prozesse wegen Oleśnicki und Wrąbczyn und rückständiger Gefälle schweben. Der Bote erhält 6 gg je Meile, 1 Rthl wurde vorgestreckt."
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nBy all appearances, and especially according to the assurances of several magnates, every private debt, as well as the so-called Bayonne sums — that is, Band, Jevatiden and wards' gulden — will be treated alike and made subject to the 41 3/4 year moratorium. Concerning the Bank and /Invalids' sum, Your Most Serene Highness already has the documents in hand, and perhaps I shall be so fortunate as shortly to lay at the feet of the same a like document concerning the Weigel 50000 Rthl. In this manner there rest upon the estates together 200000 Rthl, which in 41¾ years at 6 per cent would be amortised as to both capital and interest. The estates are now worth a great deal, and the debt resting upon them has been converted into a life annuity. — It is now urgently necessary that Your Serene Highness tell me much, whether you wish to keep the estates or to exchange them. If you wish to keep the estates, then, in order to obtain secure revenues, I must have the Hollanders or colonists for the greater part driven out by judicial decrees, and form pure demesne farms. But if you can or will exchange the estates to advantage, then this can be spared, and one states the revenues according to the judicial contracts, which serve as the standard for the interest receipts; only in that case a warranty of title can be given upon a sale. —\n\nMay Your Serene Highness deign to let me know your first intention as to your will by this express messenger: whether you wish the estates to be preserved for yourself and your descendants alone.\n\nShould this be the case, then I press — since the present laws are more favourable to the estate proprietor than the Prussian ones are — for the annulment of the Hollanders or colonists. This can take at most 2 months, and then I have the judgment; and in the meantime the matter concerning the Olesnica swindlers and concerning the Wrąbczyn people must also be decided. Concerning the arrears a great number of lawsuits are pending, but I doubt that much will flow into Your Serene Highness's treasury. Everyone declares himself insolvent. — At bottom the distress is very great, and the want of money general. Most of what I now have to deal with is with Hecker and this whole brood. Hecker continually incites the subjects, together with Hawich; wherefore I most humbly beg that a judicial power of attorney be issued for the advocate of the justice-of-the-peace court, Schmid, at Kalisz, according to the enclosed form, so that he may at last make a clean sweep of the rabble. This is very urgently necessary, so that by the swiftest [uncertain: Fatharium] — which, however, must be done through a third party — I may the more quickly reach the goal of my wishes. From a review of the Honrichs and Hecker accounts, and of all of them, everything will come to light. May Your Serene Highness deign to write to Hecker with your own hand according to the enclosed draft. For I, standing as I do in litigation with the villain,\n\ncannot now issue any orders touching the service, and certainly not to B.; at least he would not act upon them. In deepest reverence I remain, until death, Your Most Serene Highness's — Blizanow\n\nthe 29th of July 1811.\n\nLet Your Serene Highness have the messenger paid; he receives 6 gg per mile. 1 Rthl I have given him for the road. — most humble and obedient servant v Triebenfeld",
+ "summary_en": "Reports that private debts and the Bayonne sums look likely to fall under a 41¾ year moratorium, leaving some 200,000 Rthl on the estates, including a Weigel debt of 50,000 Rthl, effectively converted into an annuity. Presses the Prince to say by return of the express messenger whether he means to keep or exchange the estates, since keeping them would require judicial removal of the Hauländer. Asks for a power of attorney for the advocate Schmid at Kalisz and a letter to Hecker, who is inciting the subjects.",
+ "summary_de": "Bericht, dass nach Aussage mehrerer Magnaten alle Privatschulden wie auch die Bayonner Summen unter das Moratorium von 41¾ Jahren fallen; auf den Gütern ruhen damit 200000 Rthl, darunter die Weigelschen 50000 Rthl, die in dieser Frist zu 6 Prozent getilgt würden. Dringende Bitte um Entscheidung, ob die Güter behalten oder vertauscht werden sollen; im ersten Fall will Triebenfeld die Hauländer gerichtlich aufheben lassen. Erbeten werden eine Vollmacht für den Advokaten Schmid in Kalisch und ein eigenhändiges Schreiben an Hecker."
 }

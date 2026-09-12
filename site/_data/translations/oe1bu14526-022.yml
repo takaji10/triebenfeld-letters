@@ -1,12 +1,11 @@
 status: draft
 segments:
 - page: 1
-  en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia. Our Royal grace, friendship and good will
-    be with you first! Most Serene Prince, dearest friend and dear faithful subject. Your Lordship receives
-    herewith enclosed an engrossed copy of the purchase contract concluded with the bank cashier Leixner
-    concerning the estates of Kolno and Kaemen, confirmed this day. We are well disposed towards you with
-    Royal grace, friendship and favourable will. Given at Posen, the 18th of March 1805. Royal South Prussian
-    Government [illegible]raudchreig[illegible]
+  en: 'By the Grace of God Friedrich Wilhelm King of Prussia. Our Royal grace, friendship and good will
+    first of all! Most Serene Prince, dearest friend and dear faithful one. Your Lordship receives enclosed
+    an official copy of the purchase contract concluded with the bank cashier Leixner concerning the estates
+    Kolno and Kaemen, confirmed this day. We are well disposed towards you with Royal grace, friendship
+    and favourable will. Given at Posen, the 18th of March 1805. Royal South Prussian Government [illegible]raudchreig[illegible]
 
 
     To
@@ -30,7 +29,7 @@ segments:
     Engrossing: 2 g
 
 
-    Registration: 3 g'
+    Entry: 3 g'
   names:
   - de: Friedrich Wilhelm
     en: Friedrich Wilhelm
@@ -55,11 +54,12 @@ segments:
     kind: place
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
-    kind: other
+    kind: place
   numbers:
-  - 18ten
+  - '18'
   - '1805'
-  - 1 rt 2 g
-  - 6 g
-  - 2 g
-  - 3 g
+  - '1'
+  - '2'
+  - '6'
+  - '2'
+  - '3'

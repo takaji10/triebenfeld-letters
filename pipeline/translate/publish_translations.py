@@ -90,6 +90,30 @@ def main():
     if not os.path.isdir(src):
         sys.exit(f'no translations at {src} - run translate.py first')
 
+    # The block list only blocks anything if it describes the translations about
+    # to be published. Publish before running check_translations.py and the sheet
+    # is a report on a previous generation: the run says "0 skipped", every
+    # blocking check is silently void, and three documents went to the site
+    # carrying renderings the termbase forbids. The order is step 5 before step 6
+    # in docs/NEW_UNIT.md, and it is no longer a thing to remember.
+    if not a.force:
+        newest = max((os.path.getmtime(os.path.join(src, f))
+                      for f in os.listdir(src) if f.endswith('.json')),
+                     default=0)
+        if not os.path.isfile(SHEET):
+            sys.exit(f'no review sheet at {SHEET}\n'
+                     f'Run: python pipeline/translate/check_translations.py '
+                     f'--unit {a.unit.slug}'
+                     + (f' --tag {a.tag}' if a.tag else '')
+                     + '\n(or --force to publish with no blocking checks at all)')
+        if os.path.getmtime(SHEET) < newest:
+            sys.exit('the review sheet is older than the translations it would '
+                     'have to block:\n'
+                     f'  {SHEET}\n'
+                     f'Re-run: python pipeline/translate/check_translations.py '
+                     f'--unit {a.unit.slug}'
+                     + (f' --tag {a.tag}' if a.tag else ''))
+
     held, held_letters = (set(), set()) if a.force else blocked_pages()
     if not a.list:
         os.makedirs(DEST, exist_ok=True)

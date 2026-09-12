@@ -68,6 +68,15 @@ def forbidden(g):
     have blocked eight sound documents and taught the next reader of this file
     to distrust it. So a rule may carry `when:`, a pattern that must ALSO match
     the source page before the rendering counts as an error.
+
+    `english` is the same argument on the other side. `when` narrows a ban by the
+    GERMAN; some bans need narrowing by the English itself, because the banned
+    words also occur inside a correct sentence. "the Honrichs" is wrong as a party
+    to a sale and right in "the Honrichs and Hecker accounts", where the surname
+    is an adjective and the article belongs to `accounts`. The literal string
+    cannot tell those apart, so it blocked the corrected document it had just
+    produced. Where `english` is given it replaces the generated pattern, and the
+    entry says in a regex what it actually forbids.
     """
     import re
     out = []
@@ -78,7 +87,8 @@ def forbidden(g):
         if not r:
             continue
         when = (e.get('when') or '').strip()
-        out.append((re.compile(r'\b' + re.escape(r) + r'\w*', re.I),
+        eng = (e.get('english') or '').strip()
+        out.append((re.compile(eng if eng else r'\b' + re.escape(r) + r'\w*', re.I),
                     re.compile(when, re.I) if when else None,
                     r, e.get('note') or ''))
     return out

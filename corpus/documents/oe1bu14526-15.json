@@ -300,36 +300,633 @@
    "doc_line": 178
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Łazy",
+   "kind": "place",
+   "surface_de": "Łazy",
+   "surface_en": "Łazy",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Osiny",
+   "kind": "place",
+   "surface_de": "Osiny",
+   "surface_en": "Osiny",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Neudorff",
+   "kind": "place",
+   "surface_de": "Neudorff",
+   "surface_en": "Neudorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Przybisław",
+   "kind": "place",
+   "surface_de": "Przybisław",
+   "surface_en": "Przybisław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 5
+  },
+  {
+   "entity": "titz",
+   "display": "Carl Titz",
+   "kind": "person",
+   "surface_de": "Carl Titz",
+   "surface_en": "Carl Titz",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Lorenz Goll[illegible]",
+   "kind": "person",
+   "surface_de": "Lorenz Goll[?]",
+   "surface_en": "Lorenz Goll[illegible]",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Jozef Exte[uncertain: q]s.",
+   "kind": "person",
+   "surface_de": "Jozef Exte[q?]s.",
+   "surface_en": "Jozef Exte[uncertain: q]s.",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Paweł [uncertain: in]kobowski",
+   "kind": "person",
+   "surface_de": "Paweł [in?]kobowski",
+   "surface_en": "Paweł [uncertain: in]kobowski",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Antoni Białkowski",
+   "kind": "person",
+   "surface_de": "Antoni Białkowski",
+   "surface_en": "Antoni Białkowski",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Konstanty Oczykoski",
+   "kind": "person",
+   "surface_de": "Konstanty Oczykoski",
+   "surface_en": "Konstanty Oczykoski",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Elisabetta di Simony",
+   "kind": "person",
+   "surface_de": "Elisabetta di Simony",
+   "surface_en": "Elisabetta di Simony",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Andreas Berlinsky",
+   "kind": "person",
+   "surface_de": "Andreas Berlinsky",
+   "surface_en": "Andreas Berlinsky",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Daniel Poill",
+   "kind": "person",
+   "surface_de": "Daniel Poill",
+   "surface_en": "Daniel Poill",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Johan Friedrich Melzer",
+   "kind": "person",
+   "surface_de": "Johan Friedrich Melzer",
+   "surface_en": "Johan Friedrich Melzer",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Christoph Zander",
+   "kind": "person",
+   "surface_de": "Christoph Zander",
+   "surface_en": "Christoph Zander",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Neudorff",
+   "kind": "place",
+   "surface_de": "Neudorff",
+   "surface_en": "Neudorff",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Michael Mathes",
+   "kind": "person",
+   "surface_de": "Michael Mathes",
+   "surface_en": "Michael Mathes",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Gottfried Wolter",
+   "kind": "person",
+   "surface_de": "Gottfried Wolter",
+   "surface_en": "Gottfried Wolter",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Christoph Öhlke",
+   "kind": "person",
+   "surface_de": "Christoph Öhlke",
+   "surface_en": "Christoph Öhlke",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Johann Pfahl",
+   "kind": "person",
+   "surface_de": "Johann Pfahl",
+   "surface_en": "Johann Pfahl",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Johann Hoffmann",
+   "kind": "person",
+   "surface_de": "Johann Hoffmann",
+   "surface_en": "Johann Hoffmann",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Martin Bloch",
+   "kind": "person",
+   "surface_de": "Martin Bloch",
+   "surface_en": "Martin Bloch",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kuh[uncertain: n]t",
+   "kind": "person",
+   "surface_de": "Kuh[n?]t",
+   "surface_en": "Kuh[uncertain: n]t",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Henrichs",
+   "kind": "person",
+   "surface_de": "Henrichs",
+   "surface_en": "Henrichs",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Christoph Schönfisch",
+   "kind": "person",
+   "surface_de": "Christoph Schönfisch",
+   "surface_en": "Christoph Schönfisch",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kienast",
+   "kind": "person",
+   "surface_de": "Kienast",
+   "surface_en": "Kienast",
+   "page": 6
+  },
+  {
+   "entity": "tschachmann",
+   "display": "Johann Gottlieb Tschachmann",
+   "kind": "person",
+   "surface_de": "Tschachmann",
+   "surface_en": "Tschachmann",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Seymert",
+   "kind": "person",
+   "surface_de": "Seymert",
+   "surface_en": "Seymert",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Hemmerling",
+   "kind": "person",
+   "surface_de": "Hemmerling",
+   "surface_en": "Hemmerling",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Schiritz",
+   "kind": "person",
+   "surface_de": "Schiritz",
+   "surface_en": "Schiritz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Stephyn",
+   "kind": "person",
+   "surface_de": "Stephyn",
+   "surface_en": "Stephyn",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "v. Leski",
+   "kind": "person",
+   "surface_de": "v. Leski",
+   "surface_en": "v. Leski",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Kommer",
+   "kind": "person",
+   "surface_de": "Kommer",
+   "surface_en": "Kommer",
+   "page": 6
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 6
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Between the Royal Councillor of War and Forests von Triebenfeld, general attorney of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, and the hereditary lessees undersigned at the end, the following points were this day agreed upon and concluded, subject to the approval of His Serene Highness.\n\n1. His Most Serene Highness, through His general attorney, cedes to the undersigned hereditary lessees, out of the lands belonging to His estates Trąbczyn, Łazy, Osiny, Neudorff and Przybisław, consisting in fields, meadows and woods etc., the surface area of 270 Hufen, say two hundred and seventy Hufen Magdeburg measure, the Hufe reckoned at thirty Morgen and the Morgen at 180 rods.\n\n2. As purchase money, the hereditary lessees named below shall pay to His Serene Highness for each Magdeburg Hufe 300 Rthl, say three hundred Reichsthaler Royal Courant.\n\n3. Each hereditary lessee and his successors in possession shall render annually from each Magdeburg Hufe a clear money rent of 15 Rthl, say fifteen Reichsthaler in Courant, to the lordship's treasury, and that in half-yearly instalments at Midsummer and Christmas, each time seven and twelve good Groschen.\n\n4. The hereditary lessees or takers are at liberty to cede these acquired Hufen in several separate parts to others, and to come to terms with these new takers to their own advantage as best they can.\n\n5. It is however expressly stipulated that when the hereditary lessees wish to cede parcels to other takers or successors, this shall at once be notified to the lordship, so that with regard to arrears and debts charged upon the lands no error may arise and everything may be duly ordered. Any sale concluded without the lordship's foreknowledge shall be held wholly invalid and as not concluded at all.\n\n6. Both the present hereditary lessees and also the future takers must effect their establishments, for the present and for the future, at their own cost, and shall receive for this neither remission of the hereditary rent nor any other building assistance; they may, however, employ for this purpose the timber standing upon the Hufen received in hereditary lease, as that which belongs to them in property altogether and without any exception."
+   "en": "Between the Royal Councillor of War and Forests von Triebenfeld, general attorney of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, and the hereditary leaseholders subscribed at the end, the following heads of agreement were this day arranged and concluded, subject to the approval of His Serene Highness.\n\n1. His Most Serene Highness, through his general attorney, makes over to the subscribed hereditary leaseholders, out of the grounds belonging to his estates of Trąbczyn, Łazy, Osiny, Neudorff and Przybisław, consisting of fields, meadows and woods etc., the superficial content of 270 Hufen, say two hundred and seventy Hufen Magdeburg measure, the Hufe reckoned at thirty Morgen and the Morgen at 180 rods.\n\n2. As purchase money the hereditary leaseholders named below shall pay to His Serene Highness, for each Magdeburg Hufe, 300 Rthl, say three hundred Reichsthaler Royal Courant.\n\n3. Each hereditary leaseholder, and his successors in possession, shall pay yearly for each Magdeburg Hufe a clear money rent of 15 Rthl, say fifteen Reichsthaler in Courant, to the manorial treasury, and that in half-yearly instalments at Midsummer and Christmas, each time seven before twelve good Groschen.\n\n4. The hereditary leaseholders or takers are at liberty to make over these acquired Hufen in several separate parts to others, and to come to such agreement with these new takers, to their own advantage, as best they can.\n\n5. It is however expressly laid down that when the hereditary leaseholders wish to make over parcels to other takers or successors, this shall at once be notified to the lordship, so that in regard to arrears and to debts charged upon the grounds no error may arise and everything may be kept in good order. Every sale concluded without the lordship's prior knowledge shall be held wholly invalid and as not concluded at all.\n\n6. Both the present hereditary leaseholders and the future takers must effect their establishments, for now and for the future, at their own cost, and they shall receive for this neither remission of the hereditary rent nor any other building assistance; they may however employ for this purpose the timber standing upon the Hufen received in hereditary lease, which belongs to them in property, all of it and without any exception.",
+   "names": [
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Łazy",
+     "en": "Łazy",
+     "kind": "place"
+    },
+    {
+     "de": "Osiny",
+     "en": "Osiny",
+     "kind": "place"
+    },
+    {
+     "de": "Neudorff",
+     "en": "Neudorff",
+     "kind": "place"
+    },
+    {
+     "de": "Przybisław",
+     "en": "Przybisław",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1.",
+    "270",
+    "2.",
+    "300",
+    "3.",
+    "15",
+    "7",
+    "12",
+    "4.",
+    "5.",
+    "6."
+   ]
   },
   {
    "page": 2,
-   "en": "7. These Hufen taken in hereditary lease shall be measured out to the hereditary lessees forthwith and delivered into their possession.\n\n8. From the arable land and meadows the rents shall be duly paid in this current year already; from the woodland, however, and from the other lands, four free years are allowed, after which time each taker must have cleared and brought under cultivation the woodland he has purchased, and therefore, after the lapse of the four free years, the rents from these lands must likewise be rendered at fifteen thaler per Hufe, and paid in half-yearly instalments of 7 rt 12 gg. to the lordship's treasury.\n\n9. Besides the annual hereditary rents, the hereditary lessees undertake for themselves and their descendants to discharge all royal and other dues charged upon these estates, by whatever name they may be called, and such shall be laid upon the Hufen and duly apportioned.\n\n10. Since all the lands are dismembered and let out against rents, the hereditary lessees may make no claim to any rights of pasture or of wood-taking, but must graze their cattle solely upon their own lands, and must seek to raise and conserve their timber themselves.\n\n11. The hereditary takers are granted the liberty to set up a brick kiln upon their lands, and to burn the bricks needed for the first building, without anything having to be paid for this to the ground lordship.\n\n12. The hereditary lessees must divide the two hundred and seventy Magdeburg Hufen they have taken among themselves in the best possible"
+   "en": "7. These Hufen taken in hereditary lease shall be measured out to the hereditary leaseholders forthwith and delivered into their possession.\n\n8. Upon the arable land and meadows the rents shall be duly paid even in this current year; upon the woodland, however, and upon the other grounds, four free years are allowed, by the end of which time each taker must have cleared and brought under cultivation the woodland grounds purchased by him, so that after the lapse of the four free years the rents upon these grounds must likewise be paid at fifteen thaler per Hufe, and discharged to the manorial treasury in half-yearly instalments of 7 rt 12 gg.\n\n9. Besides the yearly hereditary rents, the hereditary leaseholders undertake, for themselves and their descendants, to render all royal and other dues charged upon these estates, by whatever name they may be called, and such shall be laid upon the Hufen and duly apportioned.\n\n10. Since all the grounds are dismembered and let out against rents, the hereditary leaseholders may make no claim to any rights of pasture or of timber, but must graze their cattle upon their own grounds alone, and must seek to grow and conserve their own timber.\n\n11. The hereditary takers are granted the liberty to set up a brick-kiln upon their grounds and to burn for themselves the bricks needed for the first building, without anything having to be paid for this to the ground lordship.\n\n12. The hereditary leaseholders must divide the two hundred and seventy Hufen Magdeburg they have taken among themselves in the best possible",
+   "numbers": [
+    "7.",
+    "8.",
+    "7",
+    "12",
+    "9.",
+    "10.",
+    "11.",
+    "12."
+   ]
   },
   {
    "page": 3,
-   "en": "best possible manner themselves, without the ground lordship concurring in this in the least, inasmuch as the latter is only bound to allot to them the total of the Hufen; the ground lordship undertakes, however, to bear the entire costs of this allotment.\n\n13. The present hereditary lessees, as also the other takers, are at liberty to alienate their holdings to others in any manner they please; but upon every change of possession, whether by sale or by exchange, the tenth Groschen of the purchase money or of the amount exchanged must be paid to the ground lordship as a transfer fee (Laudemium), and the latter holds itself always to the new taker, whose business it remains not to pay out the purchase money to the seller until the Laudemium has been settled.\n\n14. No redemption of the hereditary rent shall take place; the fifteen Reichsthaler of hereditary rent per Hufe once fixed remain irredeemable for perpetual time. 15. The hereditary lessees, their subsequent purchasers and descendants remain for ever entirely free of all hereditary subjection, and may also not render the ground lordship the least manorial service, nor deliver any produce whatsoever; they are, however, without exception subject for ever to the jurisdiction of the manorial lordship (Dominium)."
+   "en": "in the best possible manner themselves, without the ground lordship taking the least part therein, since it is bound only to allot to them the total of the Hufen; the ground lordship does however undertake to bear the whole costs of this allotment.\n\n13. The present hereditary leaseholders, as also the other takers, are at liberty to alienate their holdings to others in any manner they please; but upon every change of possession, whether by sale or by exchange, the tenth Groschen of the purchase money or of the exchange sum must be paid down to the ground lordship as a transfer fee (Laudemium), and the lordship holds itself always to the new taker, whose business it remains not to pay out the purchase money to the seller until the Laudemium has been settled.\n\n14. No redemption of the hereditary rent shall take place; the fifteen Reichsthaler hereditary rent per Hufe once fixed remain irredeemable for everlasting times. 15. The hereditary leaseholders, their subsequent purchasers and their descendants remain for ever entirely free of all hereditary subjection, and may not render the ground lordship the least manorial service, nor deliver any produce in kind; they are however without exception subject for ever to the jurisdiction of the manorial lordship (Dominium).",
+   "numbers": [
+    "13.",
+    "14.",
+    "15"
+   ]
   },
   {
    "page": 4,
-   "en": "16. Besides the Hufen upon which they pay rent, there shall be allotted to the newly to be established communities, once and for all, namely\n\n1. for the schoolmaster 6 Morgen\n\n2. for the village mayor 6 Morgen\n\n3. for the church [uncertain: Hust] 1 Morgen; thus for each new village which shall maintain a village mayor and a schoolmaster, thirteen Morgen Magdeburg, free of charge and free of rent.\n\n17. The hereditary lessees are bound to lay out and build up the new villages, as prescribed, in two equal lines.\n\n18. Their drink in beer and brandy the hereditary lessees and their successors in possession must always take from the lordship's brewery and distillery or tavern, and for every quart of brandy brought in from outside estates they shall pay to the ground lordship a penalty of one Reichsthaler, and for every barrel of beer five Reichsthaler.\n\n19. The hereditary lessees renounce, for themselves and their successors, any and every remission in cases of misfortune, by whatever name they may be called, and no allowance or remission of hereditary rent can ever accrue to them.\n\n20. The hereditary lessees undertake to settle the costs of the contract, of its confirmation and of its engrossment."
+   "en": "16. Besides the Hufen upon which they pay rent, there shall be allotted to the newly established communities, once and for all, namely\n\n1. for the schoolmaster 6 Morgen\n\n2. for the village mayor 6 Morgen\n\n3. for the church [uncertain: Hust] 1 Morgen; accordingly for each new village which shall keep a village mayor and a schoolmaster thirteen Morgen Magdeburg, free of charge and free of rent.\n\n17. The hereditary leaseholders are bound to lay out and build the new villages according to regulation in two even lines.\n\n18. Their drink, in beer and brandy, the hereditary leaseholders and their successors in possession must always take from the manorial brew- and brandy-house or tavern, and for every quart of brandy brought in from outside estates they shall pay down to the ground lordship a penalty of one Reichsthaler, and for every barrel of beer five Reichsthaler.\n\n19. The hereditary leaseholders renounce, for themselves and their successors, any and every remission in cases of misfortune, by whatever name these may be called, and no compensation or remission of the hereditary rent can ever accrue to them.\n\n20. The costs of the contract, of its confirmation and of the official copy, the hereditary leaseholders undertake to settle.",
+   "numbers": [
+    "16.",
+    "1.",
+    "6",
+    "2.",
+    "6",
+    "3.",
+    "1",
+    "17.",
+    "18.",
+    "19.",
+    "20."
+   ]
   },
   {
    "page": 5,
-   "en": "21. So long as the hereditary lessees and their successors in possession shall fulfil the obligations above described, they shall be protected by the ground lordship in their rights in every respect, and be defended and held harmless against any man's real claims. Should they, however, remain in arrears with the annual hereditary canon for longer than two years, they shall thereupon forfeit this hereditary lease, and the ground lordship is entitled to take the same in without demur and to let it out elsewhere.\n\n22. For the correct and prompt payment of the purchase money and of the hereditary rents as fixed, the hereditary lessees and the future takers, as also their successors in possession, are perpetually liable one for all and all for one, that is, jointly and severally.\n\nBoth parties promise to keep the foregoing hereditary-lease contract firmly and inviolably, and renounce all legal evasions available against it, in particular the objection of an injury suffered above or below the half, and have subscribed themselves below with their own hands. Trąbczyn, the 6th of April 1805.\n\nv. Triebenfeld\n\nCarl Titz\n\nLorenz Goll[illegible]\n\nJozef Exte[uncertain: q]s.\n\nPaweł [uncertain: in]kobowski\n\nAntoni Białkowski\n\nKonstanty Oczykoski mpp.\n\nElisabetta di Simony 3 Hufen.\n\nxxx Andreas Berlinsky\n\nxxx Daniel Poill\n\nxxx Johan Friedrich Melzer 2 Hufen"
+   "en": "21. So long as the hereditary leaseholders and their successors in possession shall fulfil these obligations described above, they shall be protected by the ground lordship in their rights in every quarter, and defended and held harmless against every man's real claims. Should they however remain in arrears with the yearly hereditary canon for longer than two years, they shall thereupon forfeit this hereditary lease, and the ground lordship is entitled to call it in without contradiction and to let it out otherwise.\n\n22. For the correct and prompt payment of the purchase money and of the fixed hereditary rents the hereditary leaseholders and the future takers, as also their successors in possession, are liable in perpetuity, one for all and all for one, that is to say jointly and severally.\n\nBoth parties promise to keep the foregoing hereditary-lease contract firmly and inviolably, and renounce all legal evasions available against it, particularly the objection of an injury suffered above or below the half, and have signed themselves below in their own hands. Trąbczyn, the 6th of April 1805.\n\nv. Triebenfeld\n\nCarl Titz\n\nLorenz Goll[illegible]\n\nJozef Exte[uncertain: q]s.\n\nPaweł [uncertain: in]kobowski\n\nAntoni Białkowski\n\nKonstanty Oczykoski mpp.\n\nElisabetta di Simony 3 Hufen.\n\nxxx Andreas Berlinsky\n\nxxx Daniel Poill\n\nxxx Johan Friedrich Melzer 2 Hufen",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Carl Titz",
+     "en": "Carl Titz",
+     "kind": "person"
+    },
+    {
+     "de": "Lorenz Goll[?]",
+     "en": "Lorenz Goll[illegible]",
+     "kind": "person"
+    },
+    {
+     "de": "Jozef Exte[q?]s.",
+     "en": "Jozef Exte[uncertain: q]s.",
+     "kind": "person"
+    },
+    {
+     "de": "Paweł [in?]kobowski",
+     "en": "Paweł [uncertain: in]kobowski",
+     "kind": "person"
+    },
+    {
+     "de": "Antoni Białkowski",
+     "en": "Antoni Białkowski",
+     "kind": "person"
+    },
+    {
+     "de": "Konstanty Oczykoski",
+     "en": "Konstanty Oczykoski",
+     "kind": "person"
+    },
+    {
+     "de": "Elisabetta di Simony",
+     "en": "Elisabetta di Simony",
+     "kind": "person"
+    },
+    {
+     "de": "Andreas Berlinsky",
+     "en": "Andreas Berlinsky",
+     "kind": "person"
+    },
+    {
+     "de": "Daniel Poill",
+     "en": "Daniel Poill",
+     "kind": "person"
+    },
+    {
+     "de": "Johan Friedrich Melzer",
+     "en": "Johan Friedrich Melzer",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "21.",
+    "22.",
+    "6ten",
+    "1805",
+    "3",
+    "2"
+   ]
   },
   {
    "page": 6,
-   "en": "Christoph Zander four Hufen in and about Neudorff xxx Michael Mathes two Hufen xxx Gottfried Wolter two Hufen xxx Christoph Öhlke four Hufen xxx Johann Pfahl one Hufe xxx Johann Hoffmann xxx\n\nMartin Bloch xxx\n\nPro Memoria. From the 270 Hufen granted there fall away those Hufen which the entrepreneurs have already parcelled out singly and dismembered with the consent of the manorial lordship (Dominium), namely\n\n1. to Kuh[uncertain: n]t and associates: 42 Hufen\n\n2. Henrichs: 6.\n\n3. Christoph Schönfisch 1 Hufe 5 Morgen 9 R\n\n4. Kienast and associates: 40\n\n5. Kienast and associates: 4\n\n6. Tschachmann: 20\n\n7. Seymert: 3\n\n8. Hemmerling and Schiritz: 18\n\n9. Stephyn and associates: 10\n\n10. von Leski: 6\n\n11. Kommer: 6 Hufen 20 Morgen = 156 Hufen 25 Morgen 9 rods; there remain over for the entrepreneurs 113 Hufen 4 Morgen 17 R. Schenck"
+   "en": "Christoph Zander four Hufen in and about Neudorff xxx Michael Mathes two Hufen xxx Gottfried Wolter two Huf. xxx Christoph Öhlke four Hufen xxx Johann Pfahl one Hufe xxx Johann Hoffmann xxx\n\nMartin Bloch xxx\n\nPro Memoria. From the 270 Hufen granted there fall away those Hufen which the entrepreneurs have already, with the consent of the manorial lordship (Dominium), separated off and dismembered, namely\n\n1. to Kuh[uncertain: n]t and associates: 42 Hufen\n\n2. Henrichs: 6.\n\n3. Christoph Schönfisch 1 Hufe 5 Morgen 9 R.\n\n4. Kienast and associates: 40\n\n5. Kienast and associates: 4\n\n6. Tschachmann: 20\n\n7. Seymert: 3\n\n8. Hemmerling and Schiritz: 18\n\n9. Stephyn and associates: 10\n\n10. v. Leski: 6\n\n11. Kommer: 6 Hufe 20 Morgen = 156 Hufe 25 Morgen 9 rods; there remain over for the entrepreneurs 113 Hufe 4 Morgen 17 R. Schenck",
+   "names": [
+    {
+     "de": "Christoph Zander",
+     "en": "Christoph Zander",
+     "kind": "person"
+    },
+    {
+     "de": "Neudorff",
+     "en": "Neudorff",
+     "kind": "place"
+    },
+    {
+     "de": "Michael Mathes",
+     "en": "Michael Mathes",
+     "kind": "person"
+    },
+    {
+     "de": "Gottfried Wolter",
+     "en": "Gottfried Wolter",
+     "kind": "person"
+    },
+    {
+     "de": "Christoph Öhlke",
+     "en": "Christoph Öhlke",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Pfahl",
+     "en": "Johann Pfahl",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Hoffmann",
+     "en": "Johann Hoffmann",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Bloch",
+     "en": "Martin Bloch",
+     "kind": "person"
+    },
+    {
+     "de": "Kuh[n?]t",
+     "en": "Kuh[uncertain: n]t",
+     "kind": "person"
+    },
+    {
+     "de": "Henrichs",
+     "en": "Henrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Christoph Schönfisch",
+     "en": "Christoph Schönfisch",
+     "kind": "person"
+    },
+    {
+     "de": "Kienast",
+     "en": "Kienast",
+     "kind": "person"
+    },
+    {
+     "de": "Tschachmann",
+     "en": "Tschachmann",
+     "kind": "person"
+    },
+    {
+     "de": "Seymert",
+     "en": "Seymert",
+     "kind": "person"
+    },
+    {
+     "de": "Hemmerling",
+     "en": "Hemmerling",
+     "kind": "person"
+    },
+    {
+     "de": "Schiritz",
+     "en": "Schiritz",
+     "kind": "person"
+    },
+    {
+     "de": "Stephyn",
+     "en": "Stephyn",
+     "kind": "person"
+    },
+    {
+     "de": "v. Leski",
+     "en": "v. Leski",
+     "kind": "person"
+    },
+    {
+     "de": "Kommer",
+     "en": "Kommer",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "270",
+    "1.",
+    "42",
+    "2.",
+    "6",
+    "3.",
+    "1",
+    "5",
+    "9",
+    "4.",
+    "40",
+    "5.",
+    "4",
+    "6.",
+    "20",
+    "7.",
+    "3",
+    "8.",
+    "18",
+    "9.",
+    "10",
+    "10.",
+    "6",
+    "11.",
+    "6",
+    "20",
+    "156",
+    "25",
+    "9",
+    "113",
+    "4",
+    "17"
+   ]
   }
  ],
- "text_english": "Between the Royal Councillor of War and Forests von Triebenfeld, general attorney of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, and the hereditary lessees undersigned at the end, the following points were this day agreed upon and concluded, subject to the approval of His Serene Highness.\n\n1. His Most Serene Highness, through His general attorney, cedes to the undersigned hereditary lessees, out of the lands belonging to His estates Trąbczyn, Łazy, Osiny, Neudorff and Przybisław, consisting in fields, meadows and woods etc., the surface area of 270 Hufen, say two hundred and seventy Hufen Magdeburg measure, the Hufe reckoned at thirty Morgen and the Morgen at 180 rods.\n\n2. As purchase money, the hereditary lessees named below shall pay to His Serene Highness for each Magdeburg Hufe 300 Rthl, say three hundred Reichsthaler Royal Courant.\n\n3. Each hereditary lessee and his successors in possession shall render annually from each Magdeburg Hufe a clear money rent of 15 Rthl, say fifteen Reichsthaler in Courant, to the lordship's treasury, and that in half-yearly instalments at Midsummer and Christmas, each time seven and twelve good Groschen.\n\n4. The hereditary lessees or takers are at liberty to cede these acquired Hufen in several separate parts to others, and to come to terms with these new takers to their own advantage as best they can.\n\n5. It is however expressly stipulated that when the hereditary lessees wish to cede parcels to other takers or successors, this shall at once be notified to the lordship, so that with regard to arrears and debts charged upon the lands no error may arise and everything may be duly ordered. Any sale concluded without the lordship's foreknowledge shall be held wholly invalid and as not concluded at all.\n\n6. Both the present hereditary lessees and also the future takers must effect their establishments, for the present and for the future, at their own cost, and shall receive for this neither remission of the hereditary rent nor any other building assistance; they may, however, employ for this purpose the timber standing upon the Hufen received in hereditary lease, as that which belongs to them in property altogether and without any exception.\n\n7. These Hufen taken in hereditary lease shall be measured out to the hereditary lessees forthwith and delivered into their possession.\n\n8. From the arable land and meadows the rents shall be duly paid in this current year already; from the woodland, however, and from the other lands, four free years are allowed, after which time each taker must have cleared and brought under cultivation the woodland he has purchased, and therefore, after the lapse of the four free years, the rents from these lands must likewise be rendered at fifteen thaler per Hufe, and paid in half-yearly instalments of 7 rt 12 gg. to the lordship's treasury.\n\n9. Besides the annual hereditary rents, the hereditary lessees undertake for themselves and their descendants to discharge all royal and other dues charged upon these estates, by whatever name they may be called, and such shall be laid upon the Hufen and duly apportioned.\n\n10. Since all the lands are dismembered and let out against rents, the hereditary lessees may make no claim to any rights of pasture or of wood-taking, but must graze their cattle solely upon their own lands, and must seek to raise and conserve their timber themselves.\n\n11. The hereditary takers are granted the liberty to set up a brick kiln upon their lands, and to burn the bricks needed for the first building, without anything having to be paid for this to the ground lordship.\n\n12. The hereditary lessees must divide the two hundred and seventy Magdeburg Hufen they have taken among themselves in the best possible\n\nbest possible manner themselves, without the ground lordship concurring in this in the least, inasmuch as the latter is only bound to allot to them the total of the Hufen; the ground lordship undertakes, however, to bear the entire costs of this allotment.\n\n13. The present hereditary lessees, as also the other takers, are at liberty to alienate their holdings to others in any manner they please; but upon every change of possession, whether by sale or by exchange, the tenth Groschen of the purchase money or of the amount exchanged must be paid to the ground lordship as a transfer fee (Laudemium), and the latter holds itself always to the new taker, whose business it remains not to pay out the purchase money to the seller until the Laudemium has been settled.\n\n14. No redemption of the hereditary rent shall take place; the fifteen Reichsthaler of hereditary rent per Hufe once fixed remain irredeemable for perpetual time. 15. The hereditary lessees, their subsequent purchasers and descendants remain for ever entirely free of all hereditary subjection, and may also not render the ground lordship the least manorial service, nor deliver any produce whatsoever; they are, however, without exception subject for ever to the jurisdiction of the manorial lordship (Dominium).\n\n16. Besides the Hufen upon which they pay rent, there shall be allotted to the newly to be established communities, once and for all, namely\n\n1. for the schoolmaster 6 Morgen\n\n2. for the village mayor 6 Morgen\n\n3. for the church [uncertain: Hust] 1 Morgen; thus for each new village which shall maintain a village mayor and a schoolmaster, thirteen Morgen Magdeburg, free of charge and free of rent.\n\n17. The hereditary lessees are bound to lay out and build up the new villages, as prescribed, in two equal lines.\n\n18. Their drink in beer and brandy the hereditary lessees and their successors in possession must always take from the lordship's brewery and distillery or tavern, and for every quart of brandy brought in from outside estates they shall pay to the ground lordship a penalty of one Reichsthaler, and for every barrel of beer five Reichsthaler.\n\n19. The hereditary lessees renounce, for themselves and their successors, any and every remission in cases of misfortune, by whatever name they may be called, and no allowance or remission of hereditary rent can ever accrue to them.\n\n20. The hereditary lessees undertake to settle the costs of the contract, of its confirmation and of its engrossment.\n\n21. So long as the hereditary lessees and their successors in possession shall fulfil the obligations above described, they shall be protected by the ground lordship in their rights in every respect, and be defended and held harmless against any man's real claims. Should they, however, remain in arrears with the annual hereditary canon for longer than two years, they shall thereupon forfeit this hereditary lease, and the ground lordship is entitled to take the same in without demur and to let it out elsewhere.\n\n22. For the correct and prompt payment of the purchase money and of the hereditary rents as fixed, the hereditary lessees and the future takers, as also their successors in possession, are perpetually liable one for all and all for one, that is, jointly and severally.\n\nBoth parties promise to keep the foregoing hereditary-lease contract firmly and inviolably, and renounce all legal evasions available against it, in particular the objection of an injury suffered above or below the half, and have subscribed themselves below with their own hands. Trąbczyn, the 6th of April 1805.\n\nv. Triebenfeld\n\nCarl Titz\n\nLorenz Goll[illegible]\n\nJozef Exte[uncertain: q]s.\n\nPaweł [uncertain: in]kobowski\n\nAntoni Białkowski\n\nKonstanty Oczykoski mpp.\n\nElisabetta di Simony 3 Hufen.\n\nxxx Andreas Berlinsky\n\nxxx Daniel Poill\n\nxxx Johan Friedrich Melzer 2 Hufen\n\nChristoph Zander four Hufen in and about Neudorff xxx Michael Mathes two Hufen xxx Gottfried Wolter two Hufen xxx Christoph Öhlke four Hufen xxx Johann Pfahl one Hufe xxx Johann Hoffmann xxx\n\nMartin Bloch xxx\n\nPro Memoria. From the 270 Hufen granted there fall away those Hufen which the entrepreneurs have already parcelled out singly and dismembered with the consent of the manorial lordship (Dominium), namely\n\n1. to Kuh[uncertain: n]t and associates: 42 Hufen\n\n2. Henrichs: 6.\n\n3. Christoph Schönfisch 1 Hufe 5 Morgen 9 R\n\n4. Kienast and associates: 40\n\n5. Kienast and associates: 4\n\n6. Tschachmann: 20\n\n7. Seymert: 3\n\n8. Hemmerling and Schiritz: 18\n\n9. Stephyn and associates: 10\n\n10. von Leski: 6\n\n11. Kommer: 6 Hufen 20 Morgen = 156 Hufen 25 Morgen 9 rods; there remain over for the entrepreneurs 113 Hufen 4 Morgen 17 R. Schenck",
- "summary_en": "Hereditary-lease contract concluded by Councillor of War and Forests von Triebenfeld, general attorney of the Prince of Hohenlohe-Ingelfingen, granting the undersigned lessees 270 Magdeburg Hufen of field, meadow and woodland from Trąbczyn, Łazy, Osiny, Neudorff and Przybisław at 300 Rthl purchase money per Hufe and an irredeemable annual rent of 15 Rthl, payable half-yearly; twenty-two articles cover subdivision, Laudemium of the tenth Groschen, four free years for woodland, compulsory purchase of drink, joint liability and school and mayor's land. An appended memorandum deducts 156 Hufen already parcelled out, leaving 113 Hufen 4 Morgen 17 rods.",
- "summary_de": "Erbpachtvertrag, geschlossen durch den Kriegs- und Forstrat von Triebenfeld als Generalbevollmächtigten des Fürsten von Hohenlohe-Ingelfingen mit den unterzeichneten Erbpächtern über 270 Hufen Magdeburgischen Maßes aus den Gütern Trąbczyn, Łazy, Osiny, Neudorff und Przybisław: Kaufgeld 300 Rthl je Hufe, jährlicher unablöslicher Erbzins 15 Rthl, halbjährig zu 7 rt 12 gg; 22 Punkte regeln Freijahre, Laudemium des zehnten Groschens, Bierzwang, Freiland für Schulmeister, Schulze und Kirche, Gerichtsbarkeit des Dominium und solidarische Haftung. Beigefügt ein Pro Memoria über bereits dismembrierte 156 Hufen 25 Morgen 9 R."
+ "text_english": "Between the Royal Councillor of War and Forests von Triebenfeld, general attorney of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, and the hereditary leaseholders subscribed at the end, the following heads of agreement were this day arranged and concluded, subject to the approval of His Serene Highness.\n\n1. His Most Serene Highness, through his general attorney, makes over to the subscribed hereditary leaseholders, out of the grounds belonging to his estates of Trąbczyn, Łazy, Osiny, Neudorff and Przybisław, consisting of fields, meadows and woods etc., the superficial content of 270 Hufen, say two hundred and seventy Hufen Magdeburg measure, the Hufe reckoned at thirty Morgen and the Morgen at 180 rods.\n\n2. As purchase money the hereditary leaseholders named below shall pay to His Serene Highness, for each Magdeburg Hufe, 300 Rthl, say three hundred Reichsthaler Royal Courant.\n\n3. Each hereditary leaseholder, and his successors in possession, shall pay yearly for each Magdeburg Hufe a clear money rent of 15 Rthl, say fifteen Reichsthaler in Courant, to the manorial treasury, and that in half-yearly instalments at Midsummer and Christmas, each time seven before twelve good Groschen.\n\n4. The hereditary leaseholders or takers are at liberty to make over these acquired Hufen in several separate parts to others, and to come to such agreement with these new takers, to their own advantage, as best they can.\n\n5. It is however expressly laid down that when the hereditary leaseholders wish to make over parcels to other takers or successors, this shall at once be notified to the lordship, so that in regard to arrears and to debts charged upon the grounds no error may arise and everything may be kept in good order. Every sale concluded without the lordship's prior knowledge shall be held wholly invalid and as not concluded at all.\n\n6. Both the present hereditary leaseholders and the future takers must effect their establishments, for now and for the future, at their own cost, and they shall receive for this neither remission of the hereditary rent nor any other building assistance; they may however employ for this purpose the timber standing upon the Hufen received in hereditary lease, which belongs to them in property, all of it and without any exception.\n\n7. These Hufen taken in hereditary lease shall be measured out to the hereditary leaseholders forthwith and delivered into their possession.\n\n8. Upon the arable land and meadows the rents shall be duly paid even in this current year; upon the woodland, however, and upon the other grounds, four free years are allowed, by the end of which time each taker must have cleared and brought under cultivation the woodland grounds purchased by him, so that after the lapse of the four free years the rents upon these grounds must likewise be paid at fifteen thaler per Hufe, and discharged to the manorial treasury in half-yearly instalments of 7 rt 12 gg.\n\n9. Besides the yearly hereditary rents, the hereditary leaseholders undertake, for themselves and their descendants, to render all royal and other dues charged upon these estates, by whatever name they may be called, and such shall be laid upon the Hufen and duly apportioned.\n\n10. Since all the grounds are dismembered and let out against rents, the hereditary leaseholders may make no claim to any rights of pasture or of timber, but must graze their cattle upon their own grounds alone, and must seek to grow and conserve their own timber.\n\n11. The hereditary takers are granted the liberty to set up a brick-kiln upon their grounds and to burn for themselves the bricks needed for the first building, without anything having to be paid for this to the ground lordship.\n\n12. The hereditary leaseholders must divide the two hundred and seventy Hufen Magdeburg they have taken among themselves in the best possible\n\nin the best possible manner themselves, without the ground lordship taking the least part therein, since it is bound only to allot to them the total of the Hufen; the ground lordship does however undertake to bear the whole costs of this allotment.\n\n13. The present hereditary leaseholders, as also the other takers, are at liberty to alienate their holdings to others in any manner they please; but upon every change of possession, whether by sale or by exchange, the tenth Groschen of the purchase money or of the exchange sum must be paid down to the ground lordship as a transfer fee (Laudemium), and the lordship holds itself always to the new taker, whose business it remains not to pay out the purchase money to the seller until the Laudemium has been settled.\n\n14. No redemption of the hereditary rent shall take place; the fifteen Reichsthaler hereditary rent per Hufe once fixed remain irredeemable for everlasting times. 15. The hereditary leaseholders, their subsequent purchasers and their descendants remain for ever entirely free of all hereditary subjection, and may not render the ground lordship the least manorial service, nor deliver any produce in kind; they are however without exception subject for ever to the jurisdiction of the manorial lordship (Dominium).\n\n16. Besides the Hufen upon which they pay rent, there shall be allotted to the newly established communities, once and for all, namely\n\n1. for the schoolmaster 6 Morgen\n\n2. for the village mayor 6 Morgen\n\n3. for the church [uncertain: Hust] 1 Morgen; accordingly for each new village which shall keep a village mayor and a schoolmaster thirteen Morgen Magdeburg, free of charge and free of rent.\n\n17. The hereditary leaseholders are bound to lay out and build the new villages according to regulation in two even lines.\n\n18. Their drink, in beer and brandy, the hereditary leaseholders and their successors in possession must always take from the manorial brew- and brandy-house or tavern, and for every quart of brandy brought in from outside estates they shall pay down to the ground lordship a penalty of one Reichsthaler, and for every barrel of beer five Reichsthaler.\n\n19. The hereditary leaseholders renounce, for themselves and their successors, any and every remission in cases of misfortune, by whatever name these may be called, and no compensation or remission of the hereditary rent can ever accrue to them.\n\n20. The costs of the contract, of its confirmation and of the official copy, the hereditary leaseholders undertake to settle.\n\n21. So long as the hereditary leaseholders and their successors in possession shall fulfil these obligations described above, they shall be protected by the ground lordship in their rights in every quarter, and defended and held harmless against every man's real claims. Should they however remain in arrears with the yearly hereditary canon for longer than two years, they shall thereupon forfeit this hereditary lease, and the ground lordship is entitled to call it in without contradiction and to let it out otherwise.\n\n22. For the correct and prompt payment of the purchase money and of the fixed hereditary rents the hereditary leaseholders and the future takers, as also their successors in possession, are liable in perpetuity, one for all and all for one, that is to say jointly and severally.\n\nBoth parties promise to keep the foregoing hereditary-lease contract firmly and inviolably, and renounce all legal evasions available against it, particularly the objection of an injury suffered above or below the half, and have signed themselves below in their own hands. Trąbczyn, the 6th of April 1805.\n\nv. Triebenfeld\n\nCarl Titz\n\nLorenz Goll[illegible]\n\nJozef Exte[uncertain: q]s.\n\nPaweł [uncertain: in]kobowski\n\nAntoni Białkowski\n\nKonstanty Oczykoski mpp.\n\nElisabetta di Simony 3 Hufen.\n\nxxx Andreas Berlinsky\n\nxxx Daniel Poill\n\nxxx Johan Friedrich Melzer 2 Hufen\n\nChristoph Zander four Hufen in and about Neudorff xxx Michael Mathes two Hufen xxx Gottfried Wolter two Huf. xxx Christoph Öhlke four Hufen xxx Johann Pfahl one Hufe xxx Johann Hoffmann xxx\n\nMartin Bloch xxx\n\nPro Memoria. From the 270 Hufen granted there fall away those Hufen which the entrepreneurs have already, with the consent of the manorial lordship (Dominium), separated off and dismembered, namely\n\n1. to Kuh[uncertain: n]t and associates: 42 Hufen\n\n2. Henrichs: 6.\n\n3. Christoph Schönfisch 1 Hufe 5 Morgen 9 R.\n\n4. Kienast and associates: 40\n\n5. Kienast and associates: 4\n\n6. Tschachmann: 20\n\n7. Seymert: 3\n\n8. Hemmerling and Schiritz: 18\n\n9. Stephyn and associates: 10\n\n10. v. Leski: 6\n\n11. Kommer: 6 Hufe 20 Morgen = 156 Hufe 25 Morgen 9 rods; there remain over for the entrepreneurs 113 Hufe 4 Morgen 17 R. Schenck",
+ "summary_en": "A hereditary-lease contract in 22 articles by which von Triebenfeld, general attorney of the Prince of Hohenlohe-Ingelfingen, makes over 270 Magdeburg Hufen of field, meadow and woodland at Trąbczyn, Łazy, Osiny, Neudorff and Przybisław to named settlers at 300 Rthl purchase money and an irredeemable rent of 15 Rthl per Hufe, with four free years on woodland, a tenth-penny transfer fee on resale, compulsory purchase of drink from the manorial tavern and joint liability. A closing note deducts 156 Hufen already parcelled out.",
+ "summary_de": "Ein Erbpachtvertrag in 22 Paragraphen, geschlossen vom Kriegs- und Forstrat von Triebenfeld als Generalbevollmächtigtem des Fürsten von Hohenlohe-Ingelfingen mit den unterzeichneten Erbpächtern über 270 Hufen Magdeburgischen Maßes aus den Gütern Trąbczyn, Łazy, Osiny, Neudorff und Przybisław: Kaufgeld 300 Rthl je Hufe, unablöslicher Erbzins von 15 Rthl jährlich in halbjährlichen Raten, vier Freijahre für Waldgrund, Laudemium des zehnten Groschens bei Besitzwechsel, Zwang zum Bierbezug aus der Herrschaft, Freiland für Schulmeister, Schulze und Kirche, gesamtschuldnerische Haftung. Ein Nachtrag verzeichnet bereits abgetrennte 156 Hufen 25 Morgen."
 }
