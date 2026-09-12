@@ -142,6 +142,9 @@ places:
     tier: "Context-inferred"
     variants:
       - "Stetlewek"
+      # Was the reading on letter 31 page 3, ruled out of the transcription on
+      # 2026-09-12 (ed-031szet) alongside Szettleich. Kept and still matched, for
+      # the same reason.
       - "Szettlewch"
       # Was the reading on letter 168 page 1. The editor ruled it out of the
       # transcription itself on 2026-09-12 (ed-168szet), so nothing in the corpus
