@@ -143,7 +143,11 @@ places:
     variants:
       - "Stetlewek"
       - "Szettlewch"
-      - "Szettleich"       # editor, letter 168
+      # Was the reading on letter 168 page 1. The editor ruled it out of the
+      # transcription itself on 2026-09-12 (ed-168szet), so nothing in the corpus
+      # spells it this way any more. Kept, and still matched, because the form is
+      # a plausible Kurrent misreading that a later holding may produce again.
+      - "Szettleich"
       - "Stetteweck"
       - {form: "Szeklejówek", match: false}
     open_questions:
