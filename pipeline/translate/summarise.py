@@ -90,13 +90,30 @@ SYSTEM = """\
 You will be given the English translation of one document. Write ONE paragraph \
 summarising what it actually contains.
 
-  * 40 to 80 words. One paragraph, no headings, no bullet points.
+  * 40 to 80 words, and count them. Over 80 means you are listing rather \
+than summarising: go back and cut whatever a reader does not need in order to \
+decide whether to open the document. One paragraph, no headings, no bullets.
   * Lead with the substance, not with "This letter" or "This document". Say what \
 is reported, asked for, agreed, conveyed or complained of.
   * Name the people, places and sums that matter. These summaries are what a \
 reader scans a list of documents by, so concrete detail is the whole value: \
 "presses for the sequestration of Zagorowo to be lifted" is useful, "discusses \
 estate business" is not.
+  * DECIDE WHAT THE DOCUMENT IS FOR, and say that. Do not walk through it \
+listing what you find. A summary that gives equal weight to the transaction and \
+to the fee charged for stamping it has not been written, only transcribed. \
+Leave out, unless the document is about them: schedules of fees, stamp and \
+registration charges, whether a signature is legible, formulaic courtesies, \
+lists of who witnessed it, and the clerk who made the copy. If what remains is \
+short, the document is short.
+  * The reader has not seen the document. First mention takes "a", not "the": \
+"a ten-paragraph contract", "a disputed timber right at Krabielewo", not "the \
+ten-paragraph contract". "The" claims they have met it already, and they have not.
+  * Plain modern English. No word a reader would have to look up: an instrument \
+is ISSUED or MADE OUT, never "engrossed"; a copy checked against the original \
+is CERTIFIED, never "vidimated"; a judgement is SET ASIDE, not "cassated". If a \
+term has no plain equivalent and the document turns on it, use it and say in \
+three words what it means.
   * Use the names of people and places exactly as the translation spells them. \
 But write the summary in ENGLISH throughout: a title, rank, office or technical \
 term goes into English even where the translation you are given left it in \
@@ -122,6 +139,9 @@ Sie erhalten die englische Übersetzung eines Dokuments. Schreiben Sie EINEN Abs
   * Beginnen Sie mit der Sache selbst, nicht mit "Dieser Brief" oder "Dieses Dokument". Sagen Sie, was berichtet, erbeten, vereinbart, übereignet oder beklagt wird.
   * Nennen Sie die Personen, Orte und Summen, auf die es ankommt. Diese Regesten sind das, wonach ein Leser eine Liste von Dokumenten überfliegt; das Konkrete ist ihr ganzer Wert.
   * Verwenden Sie die Namen genau in der Schreibweise der Edition, und die zeitgenössischen Formen: Rthl, Ducaten, Sequestration, Erbpacht, Vollmacht.
+  * ENTSCHEIDEN SIE, WOZU DAS DOKUMENT DA IST, und sagen Sie das. Gehen Sie es nicht der Reihe nach durch. Weglassen, sofern das Dokument nicht davon handelt: Gebührenverzeichnisse, Stempel- und Registraturkosten, ob eine Unterschrift lesbar ist, Höflichkeitsformeln, Zeugenlisten und der Schreiber, der die Abschrift fertigte. Bleibt wenig übrig, ist das Dokument kurz.
+  * Der Leser kennt das Dokument nicht. Bei der ersten Nennung steht der unbestimmte Artikel: "ein Vertrag in zehn Paragraphen", nicht "der Vertrag in zehn Paragraphen".
+  * Schlichtes heutiges Deutsch. Kein Wort, das man nachschlagen müsste.
   * Handelt es sich im Wesentlichen um eine Rechnung oder eine Rechtsurkunde, so sagen Sie das und nennen Gegenstand, Parteien und Summen.
   * Ist der Text zu beschädigt oder zu bruchstückhaft, sagen Sie knapp, was erhalten ist, statt Zusammenhang zu erfinden.
   * Sachlicher Ton. Nicht kommentieren, und Datum und Ausstellungsort nicht wiederholen - die Seite zeigt beides bereits an."""
@@ -297,8 +317,21 @@ def main():
     if a.collect:
         client = T.make_client()
         st = json.load(open(STATE, encoding='utf-8'))
+        # Only this unit's batches. A result carries `L<letter_id>` and nothing
+        # else, and save() builds its filename from the CURRENTLY SCOPED unit -
+        # so collecting another holding's batch here would write this holding's
+        # pad over it. Both holdings have a document 7.
+        by_unit = st.get('by_unit')
+        if by_unit is None:                    # state written before the fix
+            by_unit = {UNIT_SLUG: st.get('batches') or []}
+        mine = list(by_unit.get(UNIT_SLUG) or [])
+        if not mine:
+            others = {u: len(v) for u, v in by_unit.items() if v}
+            print(f'no batches in flight for {UNIT_SLUG}'
+                  + (f' (other units waiting: {others})' if others else ''))
+            return
         pending, got, cin, cout = [], 0, 0, 0
-        for bid in st['batches']:
+        for bid in mine:
             b = client.messages.batches.retrieve(bid)
             if b.processing_status != 'ended':
                 print(f'  {bid}: {b.processing_status} - not ready')
@@ -323,9 +356,13 @@ def main():
                 got += 1
             print(f'  {bid}: collected')
         T.report_cost(got, cin, cout, st.get('model'), 0.0, unit='summary')
-        if pending:
-            st['batches'] = pending
+        by_unit[UNIT_SLUG] = pending
+        st['by_unit'] = by_unit
+        st.pop('batches', None)
+        if any(by_unit.values()):
             json.dump(st, open(STATE, 'w', encoding='utf-8'), indent=1)
+            if pending:
+                print(f'{len(pending)} batch(es) still running for {UNIT_SLUG}')
         elif os.path.isfile(STATE):
             os.remove(STATE)
         if got:
@@ -375,9 +412,23 @@ def main():
             batches.append(b.id)
             print(f'  batch {b.id}  ({len(reqs[i:i + 100])} letters)')
         os.makedirs(OUT, exist_ok=True)
-        json.dump({'batches': batches, 'model': a.model or T.MODEL},
+        # MERGED and keyed by unit. This was a flat list, so submitting a second
+        # holding overwrote the first holding's ids: the jobs kept running and
+        # nothing could collect them. The same bug, and the same fix, as
+        # translate.py's.
+        prior = {}
+        if os.path.isfile(STATE):
+            try:
+                prior = json.load(open(STATE, encoding='utf-8'))
+            except Exception:
+                prior = {}
+        by_unit = prior.get('by_unit') or {}
+        by_unit[UNIT_SLUG] = [b for b in (by_unit.get(UNIT_SLUG) or [])
+                              if b not in batches] + batches
+        json.dump({'by_unit': by_unit, 'model': a.model or T.MODEL},
                   open(STATE, 'w', encoding='utf-8'), indent=1)
-        print(f'\nwrote {STATE}\nrun  python summarise.py --collect  once they finish')
+        print('wrote ' + STATE + ' - run  python summarise.py --collect'
+              ' --unit ' + UNIT_SLUG + ' --lang ' + LANG + '  once they finish')
         return
 
     n = cin = cout = 0
