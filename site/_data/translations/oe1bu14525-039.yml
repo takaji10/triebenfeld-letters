@@ -1,0 +1,134 @@
+status: draft
+segments:
+- page: 1
+  en: 'Most Serene Prince, Gracious Lord!
+
+
+    Your Serene Highness has, by Cabinet Order of the 23rd of this month, received as a gift from His
+    Majesty, in heredity and full property, the town of Kamionna, together with the market town of Kulm
+    in the Posen district, the villages of Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske, Osiny,
+    Hauland Trąbczyński in the Konin district, and the village of Brzyce with its appurtenances in the
+    Cujavian district; and His Most High Majesty commands me to make the necessary notifications upon
+    the proposals that have been made, concerning the most high intention of his will in the matter.
+
+
+    I rejoice exceedingly to be able to [uncertain: convey] to Your Serene Highness this proof of the
+    Royal favour, and I am this very moment conferring with the Feudal Department, in order to see the
+    deed of donation for the same expedited soon. Since these estates belonged to a principal insurgent,
+    von Prusimski, and since it is necessary to know the debts that may be charged upon these estates,
+    so as to free them from the same so far as possible, I am likewise making the necessary arrangements
+    on that account with the Government at Posen.
+
+
+    According to the preliminary reports, these estates yield at least an annual return of 4000 Thalers;
+    and should the same be duly valued and appraised by Your Serene Highness''s command, then I know'
+  names:
+  - de: Kamionna
+    en: Kamionna
+    kind: place
+  - de: Kulm
+    en: Kulm
+    kind: place
+  - de: Posenschen
+    en: Posen
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Nowa wies
+    en: Nowa wies
+    kind: place
+  - de: Łazy
+    en: Łazy
+    kind: place
+  - de: Alt und Neu Laske
+    en: Old and New Laske
+    kind: place
+  - de: Osiny
+    en: Osiny
+    kind: place
+  - de: Hauland Trąbczyński
+    en: Hauland Trąbczyński
+    kind: place
+  - de: Koninschen
+    en: Konin
+    kind: place
+  - de: Brzyce
+    en: Brzyce
+    kind: place
+  - de: Cu javischen
+    en: Cujavian
+    kind: place
+  - de: von Prusimski
+    en: von Prusimski
+    kind: person
+  - de: Posen
+    en: Posen
+    kind: place
+  numbers:
+  - '23'
+  - '4000'
+- page: 2
+  en: 'no better manager to propose to the same than the Royal Chamber Councillor Peucker at Fraustadt,
+    who, should the occasion arise, would with his acquaintance among the South Prussian nobility find
+    a buyer for these estates, in case [uncertain: Your] Serene Highness should not be pleased to retain
+    them for himself. The Colonel von Sanitz has received the von Prusimski estates lying in the Wegrowietz
+    district, namely Pawlow, Dzwonow and Beerenbusch. With true pleasure I look forward to the glad tidings
+    that Your Serene Highness, amid his great exertions, finds himself in the desired good health. For
+    it is exceedingly agreeable to me to persist in the most reverential sentiments. Your Serene Highness''s
+    most obedient servant, Hoym
+
+
+    Breslau, the 30th of July 1796.
+
+
+    [illegible] agrees with the original, this I attest in witness thereof
+
+
+    Sonnabend, Auditor of the Princely Hohenlohe Infantry Regiment'
+  names:
+  - de: Peucker
+    en: Peucker
+    kind: person
+  - de: Fraustadt
+    en: Fraustadt
+    kind: place
+  - de: Süd-Preussischen
+    en: South Prussian
+    kind: place
+  - de: von Sanitz
+    en: von Sanitz
+    kind: person
+  - de: Wegrowietzen
+    en: Wegrowietz
+    kind: place
+  - de: von Prusimskischen
+    en: von Prusimski
+    kind: person
+  - de: Pawlow
+    en: Pawlow
+    kind: place
+  - de: Dzwonow
+    en: Dzwonow
+    kind: place
+  - de: Beerenbusch
+    en: Beerenbusch
+    kind: place
+  - de: Hoym
+    en: Hoym
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Sonnabend
+    en: Sonnabend
+    kind: person
+  - de: Fürst zu Hohenlohsches Inf. Regiments
+    en: Princely Hohenlohe Infantry Regiment
+    kind: other
+  numbers:
+  - '30'
+  - '1796'

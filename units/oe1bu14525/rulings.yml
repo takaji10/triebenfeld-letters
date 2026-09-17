@@ -9,7 +9,60 @@ places:
   # Place of writing, where the dateline is absent, illegible or misleading.
   # A trailing [?] marks a reading that is probable rather than settled.
   #   "12": Berlin
-  overrides: {}
+  #
+  # Ruled for every document, as in 14526, because the parser cannot do it here:
+  # these are certified copies, and their pages carry two or three places each -
+  # where the grant was given (Berlin 1797), where the copy was attested, where
+  # the estates lie. What is recorded is where the instrument AS IT STANDS was
+  # written: for a certified copy, the place of its attestation, which is also
+  # the date the record carries. Left empty where the document names none:
+  # 13, a valuation whose only place is the Marienwerder principles it was
+  # calculated by, and 24, an eight-line fragment with no dateline.
+  overrides:
+    "1": Kalisch
+    "2": Kalisch
+    "3": Breslau
+    "4": Breslau
+    "5": Breslau
+    "6": Breslau
+    "7": Breslau
+    "8": Breslau
+    "9": Breslau
+    "10": Breslau
+    "11": Breslau
+    "12": Posen
+    "13": ""
+    "14": Kalisch
+    "15": Posen
+    "16": Posen
+    "17": Posen
+    "18": Breslau
+    "19": Kalisch
+    "20": Kalisch
+    "21": Kalisch
+    "22": Trąbczyn
+    "23": Kalisch
+    "24": ""
+    "25": Breslau
+    "26": Posen
+    "27": Posen
+    "28": Posen
+    "29": Breslau
+    "30": Kalisch
+    "31": Kalisch
+    "32": Kalisch
+    "33": Breslau
+    "34": Posen
+    "35": Posen
+    "36": Betsche
+    "37": Posen
+    "38": Posen
+    "39": Breslau
+    "40": Breslau
+    "41": Breslau
+    "42": Kalisch
+    "43": Posen
+    "44": Posen
 
 dates:
   # [year, month, day, precision]; null where that element is unknown.
@@ -26,11 +79,224 @@ dates:
   no_date: []
 
 documents:
-  # Anything that is not an ordinary letter, e.g. "register".
-  doc_type: {}
+  # Every document classified, as in 14526, reusing that unit's vocabulary
+  # rather than inventing a new one - all 11 terms already have en/de entries
+  # in site/_data/i18n.yml. Read from each document's own opening formula:
+  #   donation          the royal grant itself - "Wir Friedrich Wilhelm ...
+  #                      Urkunden und erklären ... für Uns und Unsere
+  #                      Nachkommen" - or a certified copy of it
+  #   certified_copy    a title/mortgage-register statement - "Das ... gelegene
+  #                      adliche Guth ... hat der zeitige Besitzer" - or an
+  #                      instrument certifying a valuation
+  #   confirmation       16, confirming the Prince's mandatory's acceptance of
+  #                      the Betsche resignation and the transfer of possession
+  #   royal_rescript     a letter FROM the King - "Von Gottes Gnaden Friedrich
+  #                      Wilhelm ... Unsern gnädigen Gruß ... zuvor"
+  #   letter             genuine correspondence TO the King, the Prince or an
+  #                      official - opens with the writer's own address, not
+  #                      the King's voice
+  #   note               24, an eight-line fragment covering an enclosure
+  #   register           13 and 14, unchanged - see below
+  # 13 is an inventory of the estates (livestock, tools, villages by name) and
+  # 14 a forest valuation carried forward in running totals. Both are tables:
+  # flowing them into paragraphs would run one entry into the next.
+  doc_type:
+    "1": donation
+    "2": certified_copy
+    "3": donation
+    "4": donation
+    "5": donation
+    "6": donation
+    "7": donation
+    "8": donation
+    "9": donation
+    "10": donation
+    "11": donation
+    "12": certified_copy
+    "13": register
+    "14": register
+    "15": certified_copy
+    "16": confirmation
+    "17": donation
+    "18": donation
+    "19": royal_rescript
+    "20": royal_rescript
+    "21": certified_copy
+    "22": donation
+    "23": certified_copy
+    "24": note
+    "25": certified_copy
+    "26": royal_rescript
+    "27": certified_copy
+    "28": certified_copy
+    "29": letter
+    "30": royal_rescript
+    "31": royal_rescript
+    "32": letter
+    "33": letter
+    "34": royal_rescript
+    "35": royal_rescript
+    "36": letter
+    "37": royal_rescript
+    "38": letter
+    "39": letter
+    "40": royal_rescript
+    "41": letter
+    "42": royal_rescript
+    "43": royal_rescript
+    "44": royal_rescript
 
-  # Same document, transcribed twice.
+  # Where a document is not in the German of the rest of the holding. Document
+  # 21 is a Polish official extract from the Kalisz mortgage register of the
+  # Duchy of Warsaw - "Wyciąg Urzędowy", "w Xiestwie Warszawskim", a Polish
+  # dateline and the registrar's Polish title - wrapped around German entries.
+  # The Polish place names in documents 5, 8, 9, 10, 17 and 22 are just names
+  # inside German text and are NOT a second language.
+  language:
+    "21": "de,pl"
+
+  # Same document, transcribed twice. None here: documents 3 and 4, 5 and 8,
+  # 6 and 11, 43 and 44 share the formulary of one instrument but are separate
+  # copies or separate rescripts, each with its own date, attestation and
+  # signatories - 43 and 44 are only 16% identical.
   duplicate_of: {}
+
+  # Typed links between documents in this holding. Asserted only where a
+  # document CITES another by its own date, never on two documents being about
+  # the same estate - 14526 records that topical similarity twice produced a
+  # wrong link there.
+  #
+  # Three documents are identifiable as instruments by their own datelines, and
+  # they are the only targets used here:
+  #   10  the grant "gegeben Berlin, den 19. Juni, 1797"
+  #   11  the supplementary grant "Berlin den 1. Decembr. 1797"
+  # Documents 5, 8, 9, 17 and 22 also reproduce the 19 June grant, and 6, 7 and
+  # 18 the 1 December one, each with its own later attestation. Copies of one
+  # instrument are NOT linked to each other: that is the similarity trap, and
+  # notes.md already rules out duplicate_of for this unit.
+  #
+  # NOT recorded, and why:
+  #   2, 12   cite a grant "vom 9ten August 1796" which is not in this holding.
+  #   20      cites a petition "vom 8ten", not document 19 - the four-week
+  #           demand and the grace that follows are the same business, but 20
+  #           does not cite 19, so the link would be inference.
+  #   43, 44  both answer the same petition of 31 January; neither cites the
+  #           other.
+  relations:
+    "6":
+      - kind: supplements
+        target: "10"
+        note: "Grants the appurtenances of 'den durch die Urkunde vom 19ten Juny bereits verliehenen Güthern: Betsche, Zagórów und Wienietz'. Document 10 is that grant of 19 June 1797."
+    "7":
+      - kind: supplements
+        target: "10"
+        note: "The same supplementary grant, here citing 'die Urkund vom 19t Junius d. J. bereits verliehenen Güthern, Betsche, Zagórów und Wienietz'."
+    "11":
+      - kind: supplements
+        target: "10"
+        note: "Cites 'die Urkunde vom 19. Juny d. J. bereits verliehenen Gütern: Betschen, Zagórów und Wienietz'. Dated 1 December 1797, so 'd. J.' is 1797."
+    "18":
+      - kind: supplements
+        target: "10"
+        note: "Cites 'die Urkunde vom 19ten Junius d J. bereits verliehenen Gütern, Betschen, Zagórów, und Wienietz'."
+    "15":
+      - kind: registers
+        target: "10"
+        note: "The mortgage certificate enters the title 'auf den Grund der Verleihungs-Urkunden für den regierenden Herrn Fürsten Friedrich Ludwig zu Hohenlohe Ingelfingen dedato Berlin den 19ten Juny 1797 und de dato Berlin den 1ten Debr: ej. a.'"
+      - kind: registers
+        target: "11"
+        note: "The second of the two grants that certificate enters the title under: 'de dato Berlin den 1ten Debr: ej. a.'"
+    "16":
+      - kind: confirms
+        target: "10"
+        note: "The Treasury's resignation is made 'auf den Grund der Verleihungs Urkunde Unsers in Gott ruhenden Herrn Vaters Königs Friedrich Wilhelm des zweiten Majestaet vom 19ten Juni 1797.'"
+      - kind: confirms
+        target: "11"
+        note: "And on 'Unserer Declaration derselben vom 1ten Debr.' - document 11, the supplementary grant of 1 December 1797."
+    "27":
+      - kind: certifies
+        target: "10"
+        note: "Attests that the Betsche estates were conferred 'durch die Schenkungs Urkunde von 10ten Juny 1797'. The day is written 10 here where every other copy in this holding reads the 19th. Ruled by the editor, 2026-09-17: an error in the original document, not a misreading, and left standing."
+      - kind: certifies
+        target: "11"
+        note: "And by 'deren Deklarezion von des izt regierenden Königl. Majestaat vom 1ten December ejd: a.' - document 11."
+    "29":
+      - kind: answers
+        target: "30"
+        note: "Written to obey 'Euer Königlichen Majestät allerhöchstem Befehl vom 18 November ... nach welchem der Titulus possessionis über die Hochfürstlich Hohenlohischen Güter Kopojno, Zagórów, Drzewce, p. p. berichtiget werden soll'. Document 30 is that order, of 18 November 1800, over the same estates. Note that 29 is subscribed 'Breslau den 3ten Novbr 1800', which is BEFORE the order it answers: ruled by the editor, 2026-09-17, an error in the original document rather than a misreading, so the link stands and the date is left as written."
+
+  # The estate or estates each document is ABOUT, as slugs from
+  # reference/places.yml. Authored, not counted: these documents name the
+  # chanceries that handled them (Berlin, Breslau, Posen, Kalisz, Konin) and
+  # every appurtenance village in the schedule, and no frequency can tell the
+  # estate being granted from the chamber that registered it.
+  #
+  # Chanceries are excluded throughout. Where a grant conveys a named schedule
+  # of villages, the whole schedule is the subject and all of it is recorded.
+  # Left empty for 32 and 40, which concern the granted estates generally and
+  # name none in particular.
+  estates:
+    "1": [kamionno, trabczyn, szetlewek, osiny, brzyce]
+    "2": [szetlewek]
+    "3": [kamionno, trabczyn, szetlewek, osiny, brzyce]
+    "4": [kamionno, trabczyn, szetlewek, osiny, brzyce]
+    "5": [betsche, swiechocin, stoki, lowyn, glazewo, zagorowo, swiatniki, kopojno,
+          olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
+    "6": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+          swiecia, konty, szedlemin, batkowo]
+    "7": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+          swiecia, konty, karczyn]
+    "8": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
+          kopojno, olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
+    "9": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
+          kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wienietz, wolica,
+          skokum]
+    "10": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
+           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wienietz, wolica,
+           skokum]
+    "11": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+           swiecia, konty, szedlemin, batkowo, karczyn]
+    "12": [kolno, kamionno]
+    "13": [kamionno, kolno]
+    "14": [kamionno, kolno]
+    "15": [betsche, swiechocin, stoki, lowyn, glazewo, dormowo, stolun, kuligowo,
+           szarcz, zielomysl, silna]
+    "16": [betsche, swiechocin, stoki, lowyn, glazewo, dormowo, stolun, kuligowo,
+           szarcz, silna]
+    "17": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
+           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
+    "18": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+           swiecia, konty, batkowo, karczyn]
+    "19": [kopojno, drzewce, swiecia, zagorowo]
+    "20": [drzewce, kopojno, swiecia, zagorowo]
+    # The extract sets out the charges on Zagórów; the other estates appear in
+    # the recital of how title was acquired, not as its subject.
+    "21": [zagorowo]
+    "22": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
+           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
+    "23": [szetlewek]
+    "24": [batkowo]
+    "25": [betsche, swiechocin, stoki, lowyn, glazewo, dormowo, stolun, kuligowo,
+           szarcz, zielomysl, silna]
+    "26": [betsche]
+    "27": [betsche]
+    "28": [batkowo, szedlemin]
+    "29": [kopojno, zagorowo, drzewce]
+    "30": [swiecia, kopojno, drzewce, zagorowo]
+    "31": [trabczyn]
+    "32": []
+    "33": [betsche]
+    "34": [betsche, kolno, kamionno]
+    "35": [betsche]
+    "36": [betsche]
+    "37": [betsche]
+    "38": [betsche]
+    "39": [kamionno, trabczyn, szetlewek, osiny, brzyce]
+    "40": []
+    "41": [wieniec, wolica]
+    "42": [szetlewek]
+    "43": [trabczyn]
+    "44": [trabczyn]
 
   # Why a sub-record exists, shown on the document.
   split_note: {}

@@ -1,0 +1,62 @@
+status: draft
+segments:
+- page: 1
+  en: 'Your Honour!
+
+
+    Particularly Highly Honoured Sir, Councillor of Building and Economy!
+
+
+    For the resignation of the Betsche estates, the Chamber fiscal has once again failed to appear at
+    today''s hearing, because he has as yet received no authorisation from the Chamber. I have indeed
+    once more requested that a new hearing be appointed, but the matter will never come to an end unless
+    the Chamber at last gives the fiscal a properly drawn instruction that he is to resign, and what he
+    is to resign. If His Most Serene Highness might be pleased to approach the Chamber President von Harlem
+    for an expediting of the business, we should surely at some point attain our object.
+
+
+    I have the honour to be, with the most perfect [uncertain: esteem],
+
+
+    Your Honour''s most devoted servant
+
+
+    Posen, the 25th of January 1802
+
+
+    Melzer.
+
+
+    Turn over'
+  names:
+  - de: Betscher Güter
+    en: Betsche estates
+    kind: place
+  - de: v. Harlem
+    en: von Harlem
+    kind: person
+  - de: Posen
+    en: Posen
+    kind: place
+  - de: Melzer
+    en: Melzer
+    kind: person
+  numbers:
+  - '25.'
+  - '1802'
+- page: 2
+  en: 'At this very moment I receive the appellate judgment in the matter with the Cathedral Chapter and
+    Kruhtswitz, which Mr Riedel had conducted in the first instance. It has come out as a reversal, and
+    the Cathedral Chapter has been dismissed with its [uncertain: Ferdicus]. On our si [text lost] therefore
+    be very well satisfied with the judgment. I have[?], the enclosed [illegible] judgment thus to for
+    ward M[?]'
+  names:
+  - de: Dohm Capitel
+    en: Cathedral Chapter
+    kind: other
+  - de: Kruhtswitz
+    en: Kruhtswitz
+    kind: person
+  - de: Herr Riedel
+    en: Mr Riedel
+    kind: person

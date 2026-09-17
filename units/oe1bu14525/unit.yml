@@ -5,9 +5,20 @@ slug: oe1bu14525
 ref: Oe 1 Bü 14525
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
 title: >-
-  TODO: what this unit contains, in a line or two.
-date_span: TODO
-status: draft              # draft | transcribed | translated | published
+  The royal grants of the South Prussian estates to Friedrich Ludwig, Prince of
+  Hohenlohe-Ingelfingen, with the certified copies, mortgage certificates,
+  valuations and official correspondence that carry them into effect.
+date_span: 1794-1804
+status: translated         # draft | transcribed | translated | published
+
+# The translation generation this holding was published from. Every tool
+# defaults to the untagged cache, so without this the next check reads an
+# abandoned draft and reports faults in text nobody is served.
+published_tag: "" # untagged: cache/translation-raw
+
+# The editorial era this holding belongs to. Assigned here once for the whole
+# unit; rulings.yml carries only the exceptions.
+era: hohenlohe
 
 # Raw scans live outside the project. crop_scans.py reads from raw_dir and
 # writes single pages into raw_dir/processed/.
@@ -20,9 +31,70 @@ scans:
   # this prefix, so it must not change once the unit is published.
   ascii_prefix: Oe_1_Bu_14525
 
+# Transcriptions that arrived already matched to the scans, one file per page.
+# import_pages.py reads them in filename order and writes corpus.txt, so the
+# pairing is declared rather than reconstructed later. 43 of the 209 are empty:
+# pages deliberately left untranscribed, which the import skips.
+transcriptions:
+  dir: C:/Users/Tersnaus/Downloads/Oe 1_Bue 14525/processed/txt
+  glob: "*.txt"
+
+  # Named <seq>_<archival stem>_<capture>_<crop>.txt; the capture and crop are
+  # the page's identity, so everything up to and including the stem goes:
+  #   0004_Oe 1_Bue 14525_0003_a2.txt  ->  0003_a2
+  page_id_strip: "Oe 1_Bue 14525_"
+
 # The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt
 
+# Rules this unit opts into. A unit without these keys keeps the behaviour it
+# was built with, so adopting them is a decision taken holding by holding.
+linebreaks:
+  # Also catch catchwords shorter than four letters (Po, Da, sig), spelling
+  # variants (Jahrl / jährliche, Wirkung / Würkung) and figures (1805).
+  loose_catchwords: true
+paragraphs:
+  # A line ends a paragraph only if it is short against the page AND holds no
+  # more than this many words; on a narrow page three words fill a line. A line
+  # that closes its sentence is exempt: datelines and titles run to five words.
+  few_words: 3
+  # Two short lines in a row break on their own only if both hold no more than
+  # this many words (a signature block); wider runs are left for review.
+  column_words: 2
+  # Test the last line of a page too, so a paragraph can begin overleaf. A page
+  # that ends in a catchword never ends a paragraph: the catchword says the
+  # sentence runs on.
+  page_ends: true
+
 # For the reader: shown on this unit's provenance page.
 description: >-
-  TODO: a sentence for the reader.
+  Forty-four documents recording how the South Prussian estates came to
+  Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen: the original royal grant
+  of 1796 from Friedrich Wilhelm II, its certified copies, the mortgage
+  certificates and resignation briefs that registered the Prince's title, a
+  valuation of the estates of Kaemen and Kolno, and the official
+  correspondence with the Posen and Kalisch chambers that carried the grant
+  into effect. The estates are Kamionna and Kolno, Trąbczyn and Szetlewek,
+  Betsche (Pszczew) and Zagórów. Two documents are registers rather than
+  prose: an inventory of Kaemen and Kolno, and a forest valuation.
+
+# Passed to the summariser and the translator with every document of this
+# holding. Facts about the source that change how it should be read, not
+# instructions about style.
+translation_note: >-
+  These are grant certificates, mortgage certificates, valuations and
+  official correspondence, not letters generically - most open with a royal
+  or chancery formula, not a salutation.
+
+  Financial figures and dates are carried across exactly as transcribed, even
+  where they conflict with each other or with the surrounding text: no
+  financial figure in this corpus is trustworthy on its own, and this volume
+  has not been checked for internal arithmetic the way the estate-revenue
+  table in another holding has.
+
+  `Sonnabend` recurs across several documents as a person's surname, the
+  regiment's judge advocate who certifies copies - not the day of the week.
+
+  Document 21 is partly Polish: an official extract from the Kalisz mortgage
+  register of the Duchy of Warsaw, with a Polish heading and dateline wrapped
+  around German entries.

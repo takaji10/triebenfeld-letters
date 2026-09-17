@@ -1,0 +1,326 @@
+{
+ "letter_id": "27",
+ "seq_archival": 27,
+ "parent_letter": "",
+ "unit": "oe1bu14525",
+ "uid": "oe1bu14525-27",
+ "pad": "oe1bu14525-027",
+ "permalink": "/documents/oe1bu14525/27/",
+ "doc_type": "certified_copy",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1802-02-09",
+ "date_precision": "day",
+ "date_source": "signature",
+ "date_display": "ben Posen den 9ten Februar 1802.",
+ "date_inferred_from": "",
+ "year": 1802,
+ "month": 2,
+ "day": 9,
+ "place": "Posen",
+ "sender": "",
+ "recipient": "",
+ "line_start": 3396,
+ "line_end": 3435,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "certifies",
+   "target": "10",
+   "note": "Attests that the Betsche estates were conferred 'durch die Schenkungs Urkunde von 10ten Juny 1797'. The day is written 10 here where every other copy in this holding reads the 19th. Ruled by the editor, 2026-09-17: an error in the original document, not a misreading, and left standing."
+  },
+  {
+   "kind": "certifies",
+   "target": "11",
+   "note": "And by 'deren Deklarezion von des izt regierenden Königl. Majestaat vom 1ten December ejd: a.' - document 11."
+  }
+ ],
+ "estates": [
+  "betsche"
+ ],
+ "is_missing": 0,
+ "n_lines": 38,
+ "n_pages": 1,
+ "text": "Wir Friedrich Wilhelm Gottes Gnaden\nKönig von Preußen\nThun kund und fügen hiermit zu wißen, daß\ndie Betscher Güter Meseritzer Creises\ndem regierenden Herrn Fürsten Frie¬\ndrich Ludwig zu Hohenlohe Ingelfin¬\ngen von des Höchst Seeligen Königs Maje¬\nstaet durch die Schenkungs Urkunde von\n10ten Juny 1797. und deren Deklarezion\nvon des izt regierenden Königl. Maje¬\nstaat vom 1ten December ejd: a. würklich\nverliehen sind, daß die Berichtigung\ndes Besitz Tituls des gedachten Herrn\nFürsten sich nur ander vom Fisco\nnoch zu leistenden Resignation accro¬\nchiret, daß diese Betscher Güter ehe¬\nmals geistliche, nehmlich zum Bistum\nPosen gehörige Güter gewesen sind\nund daß darauf bis izt von dem be¬\nnannten Herrn Fürsten keine\nschulden kontrahirt und keine Schuld\nDokumente zur Ingrossation ein¬\ngereicht worden sind,\nals worüber Wir dem Herrn Fürsten\nzu Hohenlohe auf deßen Ansinnen vom\nheutigen Tage gegenwärtiges Attest hierdurch\nhaben erteilen laßen. Urkundlich unter\nUnserer Süd Preußischen Regierung größern\nInsiegel und gewönlichen Unterschrift. Gege¬\nben Posen den 9ten Februar 1802.\nSteudener\nFest.\nAttest\nfür den regierenden\nHerrn Fürsten zu\nHohenlohe Ingelfingen\naus den Betscher Grü[?]\nund Hypotheken Acten.",
+ "text_reading": "Wir Friedrich Wilhelm Gottes Gnaden König von Preußen Thun kund und fügen hiermit zu wißen, daß die Betscher Güter Meseritzer Creises dem regierenden Herrn Fürsten Friedrich Ludwig zu Hohenlohe Ingelfingen von des Höchst Seeligen Königs Majestaet durch die Schenkungs Urkunde von 10ten Juny 1797. und deren Deklarezion von des izt regierenden Königl. Maje staat vom 1ten December ejd: a. würklich verliehen sind, daß die Berichtigung des Besitz Tituls des gedachten Herrn Fürsten sich nur ander vom Fisco noch zu leistenden Resignation accrochiret, daß diese Betscher Güter ehemals geistliche, nehmlich zum Bistum Posen gehörige Güter gewesen sind und daß darauf bis izt von dem benannten Herrn Fürsten keine schulden kontrahirt und keine Schuld Dokumente zur Ingrossation eingereicht worden sind, als worüber Wir dem Herrn Fürsten zu Hohenlohe auf deßen Ansinnen vom heutigen Tage gegenwärtiges Attest hierdurch haben erteilen laßen. Urkundlich unter Unserer Süd Preußischen Regierung größern Insiegel und gewönlichen Unterschrift. Gegeben Posen den 9ten Februar 1802. Steudener\n\nFest.\n\nAttest für den regierenden Herrn Fürsten zu Hohenlohe Ingelfingen aus den Betscher Grü[?] und Hypotheken Acten.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0119_b",
+   "line_start": 3398,
+   "line_end": 3435,
+   "n_lines": 38,
+   "diplomatic": "Wir Friedrich Wilhelm Gottes Gnaden\nKönig von Preußen\nThun kund und fügen hiermit zu wißen, daß\ndie Betscher Güter Meseritzer Creises\ndem regierenden Herrn Fürsten Frie¬\ndrich Ludwig zu Hohenlohe Ingelfin¬\ngen von des Höchst Seeligen Königs Maje¬\nstaet durch die Schenkungs Urkunde von\n10ten Juny 1797. und deren Deklarezion\nvon des izt regierenden Königl. Maje¬\nstaat vom 1ten December ejd: a. würklich\nverliehen sind, daß die Berichtigung\ndes Besitz Tituls des gedachten Herrn\nFürsten sich nur ander vom Fisco\nnoch zu leistenden Resignation accro¬\nchiret, daß diese Betscher Güter ehe¬\nmals geistliche, nehmlich zum Bistum\nPosen gehörige Güter gewesen sind\nund daß darauf bis izt von dem be¬\nnannten Herrn Fürsten keine\nschulden kontrahirt und keine Schuld\nDokumente zur Ingrossation ein¬\ngereicht worden sind,\nals worüber Wir dem Herrn Fürsten\nzu Hohenlohe auf deßen Ansinnen vom\nheutigen Tage gegenwärtiges Attest hierdurch\nhaben erteilen laßen. Urkundlich unter\nUnserer Süd Preußischen Regierung größern\nInsiegel und gewönlichen Unterschrift. Gege¬\nben Posen den 9ten Februar 1802.\nSteudener\nFest.\nAttest\nfür den regierenden\nHerrn Fürsten zu\nHohenlohe Ingelfingen\naus den Betscher Grü[?]\nund Hypotheken Acten.",
+   "transcription": "Wir Friedrich Wilhelm Gottes Gnaden\nKönig von Preußen\nThun kund und fügen hiermit zu wißen, daß\ndie Betscher Güter Meseritzer Creises\ndem regierenden Herrn Fürsten Frie-\ndrich Ludwig zu Hohenlohe Ingelfin-\ngen von des Höchst Seeligen Königs Maje-\nstaet durch die Schenkungs Urkunde von\n10ten Juny 1797. und deren Deklarezion\nvon des izt regierenden Königl. Maje\nstaat vom 1ten December ejd: a. würklich\nverliehen sind, daß die Berichtigung\ndes Besitz Tituls des gedachten Herrn\nFürsten sich nur ander vom Fisco\nnoch zu leistenden Resignation accro-\nchiret, daß diese Betscher Güter ehe-\nmals geistliche, nehmlich zum Bistum\nPosen gehörige Güter gewesen sind\nund daß darauf bis izt von dem be-\nnannten Herrn Fürsten keine\nschulden kontrahirt und keine Schuld\nDokumente zur Ingrossation ein-\ngereicht worden sind,\nals worüber Wir dem Herrn Fürsten\nzu Hohenlohe auf deßen Ansinnen vom\nheutigen Tage gegenwärtiges Attest hierdurch\nhaben erteilen laßen. Urkundlich unter\nUnserer Süd Preußischen Regierung größern\nInsiegel und gewönlichen Unterschrift. Gege-\nben Posen den 9ten Februar 1802.\nSteudener\nFest.\nAttest\nfür den regierenden\nHerrn Fürsten zu\nHohenlohe Ingelfingen\naus den Betscher Grü[?]\nund Hypotheken Acten.",
+   "reading": "Wir Friedrich Wilhelm Gottes Gnaden König von Preußen Thun kund und fügen hiermit zu wißen, daß die Betscher Güter Meseritzer Creises dem regierenden Herrn Fürsten Friedrich Ludwig zu Hohenlohe Ingelfingen von des Höchst Seeligen Königs Majestaet durch die Schenkungs Urkunde von 10ten Juny 1797. und deren Deklarezion von des izt regierenden Königl. Maje staat vom 1ten December ejd: a. würklich verliehen sind, daß die Berichtigung des Besitz Tituls des gedachten Herrn Fürsten sich nur ander vom Fisco noch zu leistenden Resignation accrochiret, daß diese Betscher Güter ehemals geistliche, nehmlich zum Bistum Posen gehörige Güter gewesen sind und daß darauf bis izt von dem benannten Herrn Fürsten keine schulden kontrahirt und keine Schuld Dokumente zur Ingrossation eingereicht worden sind, als worüber Wir dem Herrn Fürsten zu Hohenlohe auf deßen Ansinnen vom heutigen Tage gegenwärtiges Attest hierdurch haben erteilen laßen. Urkundlich unter Unserer Süd Preußischen Regierung größern Insiegel und gewönlichen Unterschrift. Gegeben Posen den 9ten Februar 1802. Steudener\n\nFest.\n\nAttest für den regierenden Herrn Fürsten zu Hohenlohe Ingelfingen aus den Betscher Grü[?] und Hypotheken Acten.",
+   "paragraphs": [
+    "Wir Friedrich Wilhelm Gottes Gnaden König von Preußen Thun kund und fügen hiermit zu wißen, daß die Betscher Güter Meseritzer Creises dem regierenden Herrn Fürsten Friedrich Ludwig zu Hohenlohe Ingelfingen von des Höchst Seeligen Königs Majestaet durch die Schenkungs Urkunde von 10ten Juny 1797. und deren Deklarezion von des izt regierenden Königl. Maje staat vom 1ten December ejd: a. würklich verliehen sind, daß die Berichtigung des Besitz Tituls des gedachten Herrn Fürsten sich nur ander vom Fisco noch zu leistenden Resignation accrochiret, daß diese Betscher Güter ehemals geistliche, nehmlich zum Bistum Posen gehörige Güter gewesen sind und daß darauf bis izt von dem benannten Herrn Fürsten keine schulden kontrahirt und keine Schuld Dokumente zur Ingrossation eingereicht worden sind, als worüber Wir dem Herrn Fürsten zu Hohenlohe auf deßen Ansinnen vom heutigen Tage gegenwärtiges Attest hierdurch haben erteilen laßen. Urkundlich unter Unserer Süd Preußischen Regierung größern Insiegel und gewönlichen Unterschrift. Gegeben Posen den 9ten Februar 1802. Steudener",
+    "Fest.",
+    "Attest für den regierenden Herrn Fürsten zu Hohenlohe Ingelfingen aus den Betscher Grü[?] und Hypotheken Acten."
+   ],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 38
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3403,
+   "doc_line": 6
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3422,
+   "doc_line": 25
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3433,
+   "doc_line": 36
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Meseritz",
+   "kind": "place",
+   "surface_de": "Meseritzer",
+   "surface_en": "Meseritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+   "surface_en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Posen",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Posen",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Süd Preußischen",
+   "surface_en": "South Prussian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Steudener",
+   "kind": "person",
+   "surface_de": "Steudener",
+   "surface_en": "Steudener",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fest.",
+   "kind": "person",
+   "surface_de": "Fest.",
+   "surface_en": "Fest.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "place",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Posen",
+ "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betscher",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3401,
+   "doc_line": 4
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betscher",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3413,
+   "doc_line": 16
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3415,
+   "doc_line": 18
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3427,
+   "doc_line": 30
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betscher",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3434,
+   "doc_line": 37
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "We Friedrich Wilhelm, by God's Grace King of Prussia, do hereby make known and give to be understood, that the Betsche estates in the district of Meseritz have been actually conferred upon the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen by His Majesty the late King of most blessed memory, through the deed of donation of 10 June 1797 and the declaration thereof by the now reigning Royal Majesty of 1 December of the same year; that the settling of the said Prince's title of possession depends only upon the resignation still to be furnished by the Treasury; that these Betsche estates were formerly ecclesiastical estates, namely estates belonging to the bishopric of Posen; and that up to the present no debts have been contracted upon them by the said Prince, and no instruments of debt have been submitted for registration; concerning all which We have caused the present attestation to be issued hereby to the Prince of Hohenlohe upon his request of this day's date. In witness whereof, under the greater seal of Our South Prussian Government and the customary signature. Given at Posen, 9 February 1802. Steudener\n\nFest.\n\nAttestation for the reigning Prince of Hohenlohe-Ingelfingen out of the Betsche land[illegible] and mortgage records.",
+   "names": [
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Betscher",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Meseritzer",
+     "en": "Meseritz",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+     "en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Posen",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Süd Preußischen",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Steudener",
+     "en": "Steudener",
+     "kind": "person"
+    },
+    {
+     "de": "Fest.",
+     "en": "Fest.",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "10ten Juny 1797",
+    "1ten December",
+    "9ten Februar 1802"
+   ]
+  }
+ ],
+ "text_english": "We Friedrich Wilhelm, by God's Grace King of Prussia, do hereby make known and give to be understood, that the Betsche estates in the district of Meseritz have been actually conferred upon the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen by His Majesty the late King of most blessed memory, through the deed of donation of 10 June 1797 and the declaration thereof by the now reigning Royal Majesty of 1 December of the same year; that the settling of the said Prince's title of possession depends only upon the resignation still to be furnished by the Treasury; that these Betsche estates were formerly ecclesiastical estates, namely estates belonging to the bishopric of Posen; and that up to the present no debts have been contracted upon them by the said Prince, and no instruments of debt have been submitted for registration; concerning all which We have caused the present attestation to be issued hereby to the Prince of Hohenlohe upon his request of this day's date. In witness whereof, under the greater seal of Our South Prussian Government and the customary signature. Given at Posen, 9 February 1802. Steudener\n\nFest.\n\nAttestation for the reigning Prince of Hohenlohe-Ingelfingen out of the Betsche land[illegible] and mortgage records.",
+ "summary_en": "A royal attestation, made out at the Prince's request from the Betsche land and mortgage records, certifying that the Betsche estates in the district of Meseritz were conferred on the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen by a deed of donation of 10 June 1797 and a declaration of 1 December that year; that only the Treasury's resignation is still wanted to settle his title; that the estates formerly belonged to the bishopric of Posen; and that he has registered no debts upon them.",
+ "summary_de": "Eine Bescheinigung der südpreußischen Regierung aus den Betscher Land- und Hypothekenbüchern: Die Güter Betsche im Kreis Meseritz seien dem regierenden Fürsten Friedrich Ludwig von Hohenlohe-Ingelfingen durch Schenkungsurkunde vom 10. Juni 1797 und Erklärung vom 1. Dezember desselben Jahres verliehen worden; die Eintragung seines Besitztitels hänge nur noch an der vom Fiskus zu leistenden Resignation. Betsche sei früher geistliches Gut des Bistums Posen gewesen; Schulden habe der Fürst darauf bisher nicht aufgenommen, Schuldurkunden seien nicht zur Eintragung eingereicht. Unterzeichnet Steudener."
+}

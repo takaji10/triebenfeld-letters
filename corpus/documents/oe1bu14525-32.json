@@ -1,0 +1,179 @@
+{
+ "letter_id": "32",
+ "seq_archival": 32,
+ "parent_letter": "",
+ "unit": "oe1bu14525",
+ "uid": "oe1bu14525-32",
+ "pad": "oe1bu14525-032",
+ "permalink": "/documents/oe1bu14525/32/",
+ "doc_type": "letter",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1800",
+ "date_precision": "year",
+ "date_source": "signature",
+ "date_display": "Kalisch den 18.ten Martz 1800.",
+ "date_inferred_from": "",
+ "year": 1800,
+ "month": "",
+ "day": "",
+ "place": "Kalisch",
+ "sender": "",
+ "recipient": "",
+ "line_start": 3627,
+ "line_end": 3642,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [],
+ "is_missing": 0,
+ "n_lines": 14,
+ "n_pages": 1,
+ "text": "Eine Königliche Hochlöbl. Ober Amts Regierung\ner[?]suchen wir hierdurch ganz ergebenst,\nden regierenden Fürsten von Hohenlohe In¬\ngelfingen, Friedrich Ludwig ad requisitionem\nvom 24ten Septbr. a. pr. das Homagium enu¬\nmehro des baldigsten beliebigst ableisten\nund uns die darüber aufgenommene Verhand¬\nlung gefälligst zukommen zu laßen.\nKalisch den 18.ten Martz 1800.\nSchultz\nAn\nEine Königl. Hochlöbl. Ober¬\nAmts Regierung\nzu Breslau.",
+ "text_reading": "Eine Königliche Hochlöbl. Ober Amts Regierung er[?]suchen wir hierdurch ganz ergebenst, den regierenden Fürsten von Hohenlohe Ingelfingen, Friedrich Ludwig ad requisitionem vom 24ten Septbr. a. pr. das Homagium enumehro des baldigsten beliebigst ableisten und uns die darüber aufgenommene Verhandlung gefälligst zukommen zu laßen. Kalisch den 18.ten Martz 1800. Schultz\n\nAn Eine Königl. Hochlöbl. Ober Amts Regierung zu Breslau.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0131_b",
+   "line_start": 3629,
+   "line_end": 3642,
+   "n_lines": 14,
+   "diplomatic": "Eine Königliche Hochlöbl. Ober Amts Regierung\ner[?]suchen wir hierdurch ganz ergebenst,\nden regierenden Fürsten von Hohenlohe In¬\ngelfingen, Friedrich Ludwig ad requisitionem\nvom 24ten Septbr. a. pr. das Homagium enu¬\nmehro des baldigsten beliebigst ableisten\nund uns die darüber aufgenommene Verhand¬\nlung gefälligst zukommen zu laßen.\nKalisch den 18.ten Martz 1800.\nSchultz\nAn\nEine Königl. Hochlöbl. Ober¬\nAmts Regierung\nzu Breslau.",
+   "transcription": "Eine Königliche Hochlöbl. Ober Amts Regierung\ner[?]suchen wir hierdurch ganz ergebenst,\nden regierenden Fürsten von Hohenlohe In-\ngelfingen, Friedrich Ludwig ad requisitionem\nvom 24ten Septbr. a. pr. das Homagium enu-\nmehro des baldigsten beliebigst ableisten\nund uns die darüber aufgenommene Verhand-\nlung gefälligst zukommen zu laßen.\nKalisch den 18.ten Martz 1800.\nSchultz\nAn\nEine Königl. Hochlöbl. Ober\nAmts Regierung\nzu Breslau.",
+   "reading": "Eine Königliche Hochlöbl. Ober Amts Regierung er[?]suchen wir hierdurch ganz ergebenst, den regierenden Fürsten von Hohenlohe Ingelfingen, Friedrich Ludwig ad requisitionem vom 24ten Septbr. a. pr. das Homagium enumehro des baldigsten beliebigst ableisten und uns die darüber aufgenommene Verhandlung gefälligst zukommen zu laßen. Kalisch den 18.ten Martz 1800. Schultz\n\nAn Eine Königl. Hochlöbl. Ober Amts Regierung zu Breslau.",
+   "paragraphs": [
+    "Eine Königliche Hochlöbl. Ober Amts Regierung er[?]suchen wir hierdurch ganz ergebenst, den regierenden Fürsten von Hohenlohe Ingelfingen, Friedrich Ludwig ad requisitionem vom 24ten Septbr. a. pr. das Homagium enumehro des baldigsten beliebigst ableisten und uns die darüber aufgenommene Verhandlung gefälligst zukommen zu laßen. Kalisch den 18.ten Martz 1800. Schultz",
+    "An Eine Königl. Hochlöbl. Ober Amts Regierung zu Breslau."
+   ],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "Oe_1_Bu_14525_0131_b-L32_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 14
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0131_b",
+   "scan": "Oe_1_Bu_14525_0131_b-L32_01.jpg",
+   "line": 3631,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "place",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig",
+   "surface_en": "Friedrich Ludwig",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schultz",
+   "kind": "person",
+   "surface_de": "Schultz",
+   "surface_en": "Schultz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breslau",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Breslau",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Kalisch",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisch",
+   "page": 1,
+   "page_id": "0131_b",
+   "scan": "Oe_1_Bu_14525_0131_b-L32_01.jpg",
+   "line": 3637,
+   "doc_line": 9
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "0131_b",
+   "scan": "Oe_1_Bu_14525_0131_b-L32_01.jpg",
+   "line": 3642,
+   "doc_line": 14
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "We hereby most humbly request a Royal and Most Laudable Supreme Government Board to have the reigning Prince of Hohenlohe-Ingelfingen, Friedrich Ludwig, ad requisitionem of the 24th of September of last year, now perform the homage (Homagium) as soon as may be agreeable, and to be so good as to transmit to us the record taken thereof. Kalisz, the 18th of March 1800. Schultz\n\nTo a Royal and Most Laudable Supreme Government Board at Breslau.",
+   "names": [
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig",
+     "en": "Friedrich Ludwig",
+     "kind": "person"
+    },
+    {
+     "de": "Schultz",
+     "en": "Schultz",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Breslau",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "24",
+    "18",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "We hereby most humbly request a Royal and Most Laudable Supreme Government Board to have the reigning Prince of Hohenlohe-Ingelfingen, Friedrich Ludwig, ad requisitionem of the 24th of September of last year, now perform the homage (Homagium) as soon as may be agreeable, and to be so good as to transmit to us the record taken thereof. Kalisz, the 18th of March 1800. Schultz\n\nTo a Royal and Most Laudable Supreme Government Board at Breslau.",
+ "summary_en": "A request from Schultz at Kalisz to the Supreme Government Board at Breslau, following up an earlier requisition of 24 September, asking that Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, be required to perform his oath of homage for the granted estates at the earliest convenient date, and that the record made of the ceremony be sent back to Kalisz. A single short administrative note with no financial content.",
+ "summary_de": "Ersuchen der Kalischer Behörde an die Oberregierung in Breslau, den regierenden Fürsten Friedrich Ludwig von Hohenlohe-Ingelfingen entsprechend der Anforderung vom 24. September des Vorjahres nun bei nächster Gelegenheit den Huldigungseid (Homagium) leisten zu lassen und das darüber aufgenommene Protokoll zu übersenden. Ein knappes Schreiben von wenigen Zeilen, unterzeichnet von Schultz; weiterer Inhalt ist nicht vorhanden."
+}

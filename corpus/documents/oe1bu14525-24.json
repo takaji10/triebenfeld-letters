@@ -1,0 +1,155 @@
+{
+ "letter_id": "24",
+ "seq_archival": 24,
+ "parent_letter": "",
+ "unit": "oe1bu14525",
+ "uid": "oe1bu14525-24",
+ "pad": "oe1bu14525-024",
+ "permalink": "/documents/oe1bu14525/24/",
+ "doc_type": "note",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1803-04-18",
+ "date_precision": "day",
+ "date_source": "signature",
+ "date_display": "vom 18ten April 1803",
+ "date_inferred_from": "",
+ "year": 1803,
+ "month": 4,
+ "day": 18,
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 3211,
+ "line_end": 3220,
+ "uncertainty_count": 6,
+ "has_damage": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "batkowo"
+ ],
+ "is_missing": 0,
+ "n_lines": 8,
+ "n_pages": 1,
+ "text": "Supplet zu inliegender\nVormahl des v. Laski[?]\np. s ir[?] [?]itsats Melzer\nvom 18ten April 1803\nin Sel[?]\noder\nweg Vater bleib des Erbpacht Contracts\nBatkowo w[?] Suipi[?]",
+ "text_reading": "Supplet zu inliegender Vormahl des v. Laski[?] p. s ir[?] [?]itsats Melzer vom 18ten April 1803 in Sel[?] oder weg Vater bleib des Erbpacht Contracts Batkowo w[?] Suipi[?]",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0111_b",
+   "line_start": 3213,
+   "line_end": 3220,
+   "n_lines": 8,
+   "diplomatic": "Supplet zu inliegender\nVormahl des v. Laski[?]\np. s ir[?] [?]itsats Melzer\nvom 18ten April 1803\nin Sel[?]\noder\nweg Vater bleib des Erbpacht Contracts\nBatkowo w[?] Suipi[?]",
+   "transcription": "Supplet zu inliegender\nVormahl des v. Laski[?]\np. s ir[?] [?]itsats Melzer\nvom 18ten April 1803\nin Sel[?]\noder\nweg Vater bleib des Erbpacht Contracts\nBatkowo w[?] Suipi[?]",
+   "reading": "Supplet zu inliegender Vormahl des v. Laski[?] p. s ir[?] [?]itsats Melzer vom 18ten April 1803 in Sel[?] oder weg Vater bleib des Erbpacht Contracts Batkowo w[?] Suipi[?]",
+   "paragraphs": [
+    "Supplet zu inliegender Vormahl des v. Laski[?] p. s ir[?] [?]itsats Melzer vom 18ten April 1803 in Sel[?] oder weg Vater bleib des Erbpacht Contracts Batkowo w[?] Suipi[?]"
+   ],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "Oe_1_Bu_14525_0111_b-L24_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 8
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface": "Melzer",
+   "page": 1,
+   "page_id": "0111_b",
+   "scan": "Oe_1_Bu_14525_0111_b-L24_01.jpg",
+   "line": 3215,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Laski [uncertain: Laski]",
+   "kind": "person",
+   "surface_de": "v. Laski[?]",
+   "surface_en": "von Laski [uncertain: Laski]",
+   "page": 1
+  },
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Melzer",
+   "surface_en": "Melzer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Batkowo",
+   "kind": "place",
+   "surface_de": "Batkowo",
+   "surface_en": "Batkowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Suipi[illegible]",
+   "kind": "place",
+   "surface_de": "Suipi[?]",
+   "surface_en": "Suipi[illegible]",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "batkowo",
+   "display": "Batkowo",
+   "kind": "place",
+   "surface": "Batkowo",
+   "page": 1,
+   "page_id": "0111_b",
+   "scan": "Oe_1_Bu_14525_0111_b-L24_01.jpg",
+   "line": 3220,
+   "doc_line": 8
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Supplement to the enclosed [uncertain: Vormahl] of von Laski [uncertain: Laski] p. s [uncertain: ir] [illegible]itsats Melzer of the 18th April 1803 in Sel[illegible] or on account of the father remains of the hereditary lease contract Batkowo w[illegible] Suipi[illegible]",
+   "names": [
+    {
+     "de": "v. Laski[?]",
+     "en": "von Laski [uncertain: Laski]",
+     "kind": "person"
+    },
+    {
+     "de": "Melzer",
+     "en": "Melzer",
+     "kind": "person"
+    },
+    {
+     "de": "Batkowo",
+     "en": "Batkowo",
+     "kind": "place"
+    },
+    {
+     "de": "Suipi[?]",
+     "en": "Suipi[illegible]",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "18ten",
+    "1803"
+   ]
+  }
+ ],
+ "text_english": "Supplement to the enclosed [uncertain: Vormahl] of von Laski [uncertain: Laski] p. s [uncertain: ir] [illegible]itsats Melzer of the 18th April 1803 in Sel[illegible] or on account of the father remains of the hereditary lease contract Batkowo w[illegible] Suipi[illegible]",
+ "summary_en": "A badly damaged single-page note, largely illegible. What survives identifies it as a supplement or annex to an enclosed submission involving von Laski and one Melzer, dated 18 April 1803, and refers to outstanding matters arising from a hereditary-lease contract for Batkowo. Too fragmentary to establish the parties' claims, the sums involved or the outcome; useful only as evidence that such an enclosure once accompanied the file.",
+ "summary_de": "Ein stark beschädigter Aktenvermerk von einer Handschriftenseite, dessen Text nur bruchstückhaft lesbar ist. Erkennbar bleiben ein Hinweis auf eine Beilage, die Namen von Laski und Melzer, ein Datum vom 18. April 1803 sowie die Erwähnung von Rückständen aus einem Erbpachtvertrag über Batkowo. Weitere Angaben zu Parteien, Summen und Zusammenhang sind wegen der Textverluste nicht zu gewinnen."
+}

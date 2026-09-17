@@ -1,0 +1,536 @@
+status: draft
+segments:
+- page: 1
+  en: 'Certified copy.
+
+
+    We Friedrich Wilhelm, by the Grace of God King of Prussia etc. etc., Margrave of Brandenburg, Arch-Chamberlain
+    and Elector of the Holy Roman Empire; sovereign and supreme Duke of Silesia, Sovereign Prince of Orange,
+    Neufchatel and Valangin, as also of the County of Glatz, Duke in Geldern, at Magdeburg, Cleve, Jülich,
+    Berg, Stettin, Pomerania, of the Cassubians and Wends, at Mecklenburg and Crossen, Burgrave of Nuremberg
+    above and below the mountains, Prince of Halberstadt, Minden, Camin, Wenden, Schwerin, Ratzeburg,
+    East Frisia and Mörs, Count of Hohenzollern, Ruppin, of the Mark Ravensberg, Hohenstein, Tecklenburg,
+    Schwerin, Lingen, Bühren and Leerdam; Lord of Ravenstein, of the lands of Rostock, Stargard, Limburg,
+    Lauenburg, Bütow, Arlaÿ and Breda etc. etc.
+
+
+    Do hereby make known and declare, and by virtue of this Our open letter, for Ourselves and Our descendants
+    and successors in the Crown, in the Electorate and in Our'
+  names:
+  - de: Friedrich Willhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Preußen
+    en: Prussia
+    kind: place
+  - de: Brandenburg
+    en: Brandenburg
+    kind: place
+  - de: Schlesien
+    en: Silesia
+    kind: place
+  - de: Oranien
+    en: Orange
+    kind: place
+  - de: Neufchatel
+    en: Neufchatel
+    kind: place
+  - de: Valangin
+    en: Valangin
+    kind: place
+  - de: Glatz
+    en: Glatz
+    kind: place
+  - de: Geldern
+    en: Geldern
+    kind: place
+  - de: Magdeburg
+    en: Magdeburg
+    kind: place
+  - de: Cleve
+    en: Cleve
+    kind: place
+  - de: Jülich
+    en: Jülich
+    kind: place
+  - de: Berge
+    en: Berg
+    kind: place
+  - de: Stettin
+    en: Stettin
+    kind: place
+  - de: Pommern
+    en: Pomerania
+    kind: place
+  - de: Cassuben
+    en: Cassubians
+    kind: other
+  - de: Wenden
+    en: Wends
+    kind: other
+  - de: Mecklenburg
+    en: Mecklenburg
+    kind: place
+  - de: Crossen
+    en: Crossen
+    kind: place
+  - de: Nürnberg
+    en: Nuremberg
+    kind: place
+  - de: Halberstadt
+    en: Halberstadt
+    kind: place
+  - de: Minden
+    en: Minden
+    kind: place
+  - de: Camin
+    en: Camin
+    kind: place
+  - de: Wenden
+    en: Wenden
+    kind: place
+  - de: Schwerin
+    en: Schwerin
+    kind: place
+  - de: Ratzeburg
+    en: Ratzeburg
+    kind: place
+  - de: Ostfriesland
+    en: East Frisia
+    kind: place
+  - de: Mörs
+    en: Mörs
+    kind: place
+  - de: Hohenzollern
+    en: Hohenzollern
+    kind: place
+  - de: Ruppin
+    en: Ruppin
+    kind: place
+  - de: Mark Ravensberg
+    en: Mark Ravensberg
+    kind: place
+  - de: Hohenstein
+    en: Hohenstein
+    kind: place
+  - de: Tecklenburg
+    en: Tecklenburg
+    kind: place
+  - de: Lingen
+    en: Lingen
+    kind: place
+  - de: Bühren
+    en: Bühren
+    kind: place
+  - de: Leerdam
+    en: Leerdam
+    kind: place
+  - de: Ravenstein
+    en: Ravenstein
+    kind: place
+  - de: Rostock
+    en: Rostock
+    kind: place
+  - de: Stargard
+    en: Stargard
+    kind: place
+  - de: Limburg
+    en: Limburg
+    kind: place
+  - de: Lauenburg
+    en: Lauenburg
+    kind: place
+  - de: Bütow
+    en: Bütow
+    kind: place
+  - de: Arlaÿ
+    en: Arlaÿ
+    kind: place
+  - de: Breda
+    en: Breda
+    kind: place
+- page: 2
+  en: 'other lands, that out of the particular friendship and affection We bear towards the High-Born
+    Prince, Our friendly dear Uncle Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, and also
+    in order to give him a new proof of Our royal gratitude for the distinguished and beneficial services
+    rendered to Us and to Our Royal House, We have found Ourselves moved to make over, grant and convey
+    to Your Lordship, heritably and in full property, in addition to the estates already granted to him
+    by the instrument of the 19th of June of this year, namely Betsche, Zagórów and Wienietz, the appurtenant
+    parcels belonging to those estates, namely
+
+
+    1.) at Betsche, the settlements of Stołuń, Kuligowo, Szarcz, Vogtey, Zielomyśl and Silna together
+    with the Hollander holdings, the Pommser Hollander holding and Heÿdemühle'
+  names:
+  - de: Friedrich Ludwig
+    en: Friedrich Ludwig
+    kind: person
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  - de: Betsche
+    en: Betsche
+    kind: place
+  - de: Zagórów
+    en: Zagórów
+    kind: place
+  - de: Wienietz
+    en: Wienietz
+    kind: place
+  - de: Stołuń
+    en: Stołuń
+    kind: place
+  - de: Kuligowo
+    en: Kuligowo
+    kind: place
+  - de: Szarcz
+    en: Szarcz
+    kind: place
+  - de: Vogtey
+    en: Vogtey
+    kind: place
+  - de: Zielomyśl
+    en: Zielomyśl
+    kind: place
+  - de: Silna
+    en: Silna
+    kind: place
+  - de: Pommser Hauländerey
+    en: Pommser Hollander holding
+    kind: place
+  - de: Heÿdemühle
+    en: Heÿdemühle
+    kind: place
+  numbers:
+  - 1.)
+  - 19t
+- page: 3
+  en: '2.) at Zagórów the little village of Swięcin, and finally
+
+
+    3.) near Wienitz, Konty, Siedlemyn, Botkowo and Karczin, against payment
+
+
+    1.) of the sovereign dues hitherto rendered from the said settlements, Hollander holdings and parcels
+    of land, as a fixed and unalterable canon, and
+
+
+    2.) of the stipends due therefrom to the ecclesiastical corporations and foundations.
+
+
+    We also do this hereby and by virtue of this present instrument, out of Our royal power and plenitude,
+    for Ourselves and Our descendants and successors in the Crown, in the Electorate and in Our other
+    lands, in such manner and to the effect that Our aforesaid friendly dear Uncle, the reigning Prince
+    of Hohenlohe-Ingelfingen,'
+  names:
+  - de: Zagórów
+    en: Zagórów
+    kind: place
+  - de: Swięcin
+    en: Swięcin
+    kind: place
+  - de: Wienitz
+    en: Wienitz
+    kind: place
+  - de: Konty
+    en: Konty
+    kind: place
+  - de: Siedlemyn
+    en: Siedlemyn
+    kind: place
+  - de: Botkowo
+    en: Botkowo
+    kind: place
+  - de: Karczin
+    en: Karczin
+    kind: place
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  numbers:
+  - 2.)
+  - 3.)
+  - 1.)
+  - 2.)
+- page: 4
+  en: shall from now and for all time, for himself and his descendants and heirs, irrevocably have, hold,
+    possess and enjoy from Us and Our descendants and successors, as a true, well-acquired and unrestricted
+    property, the above-named appurtenant parcels belonging to the estates of Betsche, Zagórów and Wienitz,
+    with all rights and privileges attaching thereto as these have hitherto been exercised or may lawfully
+    be exercised, with all the lands belonging thereto in fields, woodlands and meadows, likewise in ponds
+    and waters, according to the lawful boundaries and bounds, just as everything has hitherto been used
+    or may of right be used; and that the power and authority shall be vested in him to dispose thereof
+    at his pleasure under the conditions mentioned above,
+  names:
+  - de: Betsche
+    en: Betsche
+    kind: place
+  - de: Zagórów
+    en: Zagórów
+    kind: place
+  - de: Wienitz
+    en: Wienitz
+    kind: place
+- page: 5
+  en: 'without hindrance from any man.
+
+
+    Accordingly We command and enjoin all Our Supreme Provincial Colleges, as also all other authorities
+    whom this concerns, hereby as graciously as earnestly, that they in no wise hinder or trouble either
+    the aforementioned Lord Prince of Hohenlohe-Ingelfingen, Your Lordship, in the heritable and proprietary
+    possession thus granted to him of the above-named appurtenant parcels belonging to the estates of
+    Betsche, Zagórów and Wienitz, nor him or those upon whom he shall in time bequeath the same by virtue
+    of this Our letter of grant, or otherwise lawfully transfer them by other acts inter vivos aut mortis
+    causa, but rather shall let His Lordship, and in the event also them, enjoy the same freely and quietly,
+    themselves doing nothing'
+  names:
+  - de: Hohen lche Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  - de: Betsche
+    en: Betsche
+    kind: place
+  - de: Zagórów
+    en: Zagórów
+    kind: place
+  - de: Wienitz
+    en: Wienitz
+    kind: place
+- page: 6
+  en: 'against it, nor occasion or permit such to be done by others, upon pain of Our most high displeasure
+    and of unfailing severe punishment. In witness whereof under Our own most high signature and appended
+    Royal seal. Thus done and given in Our residence city of Berlin, the first of December after the birth
+    of Christ our Lord in the one thousand seven hundred and ninety-seventh year, and in the first year
+    of Our royal reign. Friedrich Wilhelm
+
+
+    Letter of grant for the reigning Prince of Hohenlohe-Ingelfingen. Hoym. Reck. for the heritable and
+    proprietary possession of the appurtenant parcels belonging to the estates of Betsche, Zagórów and
+    Wienietz.
+
+
+    In witness whereof this attested copy has been prepared for the purpose of the entry of the Titulus'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Friedrich Willhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Hohenlohe
+    en: Hohenlohe
+    kind: place
+  - de: Hoym
+    en: Hoym
+    kind: person
+  - de: Reck
+    en: Reck
+    kind: person
+  - de: Ingelfingen
+    en: Ingelfingen
+    kind: place
+  - de: Betsche
+    en: Betsche
+    kind: place
+  - de: Zagórów
+    en: Zagórów
+    kind: place
+  - de: Wienietz
+    en: Wienietz
+    kind: place
+  numbers:
+  - Eintausend Siebenhundert und Sieben und Neunzigsten
+- page: 7
+  en: 'possessionis, in copy, of the estates named therein in the name of the Lord Prince of Hohenlohe-Ingelfingen,
+    Your Lordship. Thus done under the usual signature and greater seal. Kalisz, the 7th of July 1804.
+    Royal Prussian Government. (L. S.)
+
+
+    Schultz
+
+
+    Titulus possessionis of Swięcia together with the demesne farm Broniki, entered for the reigning Prince
+    of Hohenlohe-Ingelfingen, Friedrich Ludwig, Serene Highness, in the mortgage book of the Konin district,
+    vol. 3, fol. 94, according to the appended recognition. Kalisz, the 29th of August 1801. Beda, Ingrossator.
+
+
+    Schleyer
+
+
+    The noble estate Swięcia situated in the province of South Prussia and'
+  names:
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Schultz
+    en: Schultz
+    kind: person
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Broniki
+    en: Broniki
+    kind: place
+  - de: Friedrich Ludwig
+    en: Friedrich Ludwig
+    kind: person
+  - de: Koniner
+    en: Konin
+    kind: place
+  - de: Beda
+    en: Beda
+    kind: person
+  - de: Schleyer
+    en: Schleyer
+    kind: person
+  - de: Süd-Preußen
+    en: South Prussia
+    kind: place
+  numbers:
+  - 7. July 1804
+  - vol. 3
+  - Fol. 94
+  - 29 August 1801
+- page: 8
+  en: 'in the Konin district thereof, to which the demesne farm Broniki belongs as an appurtenance, has
+    been conveyed to the reigning Prince of Hohenlohe-Ingelfingen, Friedrich Ludwig, Serene Highness,
+    by His Majesty King Friedrich Wilhelm the Third, with heritable and proprietary rights, by the letter
+    of grant dated Berlin, the 1st of December 1797; and the Titulus Possessionis has been entered for
+    him on the ground of that instrument ex Decreto of the 31st of July 1801. Thereupon are entered:
+
+
+    I. Onera perpetua: restrictions upon the property or upon the disposition thereof.
+
+
+    1. By virtue of the ordinance of the year 1796 and the Court Rescript of the 24th of February 1800,
+    this estate may not be sold without special consent to a native of the land. Which has been noted
+    here ex officio, ex Decrete of the 31st of July 1801.
+
+
+    II. Judicially secured debts and other real obligations.
+
+
+    Nothing.
+
+
+    Apart from the foregoing restriction, nothing is entered against the estate Swięcia in the mortgage
+    book; and for the rest this mortgage'
+  names:
+  - de: Koniner Kreise
+    en: Konin district
+    kind: place
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Broniki
+    en: Broniki
+    kind: place
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  - de: Friedrich Ludwig
+    en: Friedrich Ludwig
+    kind: person
+  - de: Friedrich Willhelm des Dritten
+    en: Friedrich Wilhelm the Third
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  numbers:
+  - 1. Decbr. 1797
+  - 31t July 1801
+  - '1796'
+  - 24. Febr. 1800
+  - '31t: July 1801'
+- page: 9
+  en: 'certificate is hereby issued, in vim recognitionis, to the present possessor, the reigning Prince
+    of Hohenlohe-Ingelfingen, Friedrich Ludwig, Serene Highness, on account of the Titulus Possessionis
+    entered for him on the ground of the letter of grant of the 1st of December 1797. In witness whereof
+    under the greater seal of the Royal South Prussian Government and the usual signature. Given at Kalisz,
+    the 29th of August 1801. (L. S.)
+
+
+    Danckelmann
+
+
+    Husarrenth
+
+
+    H. H. 2. F. 2 gg. Stl. 6
+
+
+    Fair copy: 2.
+
+
+    Ins. 3
+
+
+    Arch: 1
+
+
+    Ingr. 12
+
+
+    Mortgage certificate for the reigning Prince of Hohenlohe-Ingelfingen concerning the free allodial
+    estate Swięcia situated in the Konin district. Schlegel, Chancery Director. Beda, Ingrossator.
+
+
+    No. 3397.
+
+
+    That the foregoing copy is perfectly conformable and in agreement with the original is hereby, sub
+    sigillo judiciali, attested in fidem. Breslau, the 19th of June 1802. Sonnabend, Judge Advocate of
+    the Princely Hohenlohe Infantry Regiment'
+  names:
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  - de: Friedrich Ludwig
+    en: Friedrich Ludwig
+    kind: person
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Danckelmann
+    en: Danckelmann
+    kind: person
+  - de: Husarrenth
+    en: Husarrenth
+    kind: person
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Koniner District
+    en: Konin district
+    kind: place
+  - de: Schlegel
+    en: Schlegel
+    kind: person
+  - de: Beda
+    en: Beda
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Sonnabend
+    en: Sonnabend
+    kind: person
+  - de: Hohenlohschen
+    en: Hohenlohe
+    kind: other
+  numbers:
+  - 1. Decbr. 1797
+  - 29. Aug. 1801
+  - '2'
+  - '2'
+  - '6'
+  - '2'
+  - '3'
+  - '1'
+  - '12'
+  - '3397'
+  - 19 ten Juny 1802

@@ -1,0 +1,562 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,21,break,held,short_line,0.44,14,32,Copia vidimata,Wir Friedrich Wilhelm von Gottes
+1,57,run,held,short_line+column,0.45,15,33,heim gefallenen,"Güter, nemlich:"
+1,58,break,high,short_line,0.45,15,33,"Güter, nemlich:",Kamionna oder Keemen
+1,59,run,held,short_line+column,0.61,20,33,Kamionna oder Keemen,die Stadt
+1,60,run,held,short_line,0.27,9,33,die Stadt,mit den Marckt-Flecken Kulm
+1,71,break,high,short_line,0.53,18,34,und zu übereignen.,"Wir thun auch solches hiermit, und"
+1,106,break,held,short_line,0.69,22,32,männiglich ungehindert,"Wir befehlen, und gebiethen dem¬"
+1,120,run,held,short_line+column,0.31,10,32,diejenigen,auf welche derselbe
+1,121,run,held,short_line,0.59,19,32,auf welche derselbe,vermöge und in Kraft dieses
+1,138,break,high,short_line,0.16,5,32,dung.,des zu Urkund haben wir gegen¬
+1,141,break,high,rubric,1.16,37,32,"eigenhändig unterschrieben, und Unser",1.
+1,145,break,high,salutation+short_line,0.38,13,34,hängen laßen.,So geschehen und Gegeben in Unsrer
+1,152,break,high,short_line,0.41,14,34,zehnten Jahre.,Friedrich Wilhelm
+1,153,break,high,short_line+column,0.5,17,34,Friedrich Wilhelm,Hoym. Goldbeck.
+1,154,break,high,short_line,0.44,15,34,Hoym. Goldbeck.,Schenkungs-Urkunde.
+1,155,break,high,short_line,0.56,19,34,Schenkungs-Urkunde.,für den
+1,156,run,held,short_line,0.21,7,34,für den,Fürsten v Hohenlohe Ingelfingen zum
+1,166,break,high,short_line+column,0.24,8,34,Schlegel,(L. S.)
+1,168,break,held,page_end,0.21,7,34,(L. S.),Daß vorstehende Abschrift mit der be¬
+1,175,break,held,short_line,0.12,4,33,Reck,Tituli possessionis von Szetlewek
+1,183,break,high,short_line+column,0.27,9,33,July 1800,Beda
+1,184,run,held,short_line+column,0.12,4,33,Beda,Ingrossator
+1,185,break,high,short_line+column,0.33,11,33,Ingrossator,Schleyer[?]
+2,191,run,held,short_line,0.23,9,39,Szetlewek,hat der zeitige Besitzer der regierende Fürst
+2,201,break,high,short_line,0.31,12,39,Julij. 1799.,Darauf sind eingetragen.
+2,202,break,high,short_line,0.62,24,39,Darauf sind eingetragen.,I Onera perpetua Einschränkungen des
+2,218,break,high,rubric+short_line,0.56,23,41,Real-Verbindlichkeiten.,"1., 8333 rtl. 8 gg. Acht Tausend drey Hundert Drey und"
+2,230,break,high,short_line,0.46,19,41,eingetragen worden.,Eine Protestation pro salvando iure et
+2,239,break,high,short_line,0.68,28,41,czyn eingetragen worden ist.,Außer vorstehenden Posten ist auf dem
+2,250,break,high,short_line,0.46,9,20,ertheilt.,Urkundlich unter der Königlichen Südpreußischen
+2,254,break,high,short_line,0.51,10,20,July 1800.,Renk[?]
+2,255,break,held,short_line,0.36,7,20,Renk[?],Von Rangeler[?]
+2,257,break,held,short_line,0.41,8,20,Reg Rath,Hypothequen-Schein
+2,259,run,held,short_line,0.15,3,20,Für,seiner Durchlaucht des regierenden Fürsten
+2,264,run,held,short_line,0.41,8,20,Schlegel,Canzley Director
+2,266,run,held,short_line+column,0.21,4,20,Beda,Ingrostator
+2,267,break,high,rubric+short_line,0.56,11,20,Ingrostator,H. Schein 2 rt. 2 gg.
+2,269,break,held,short_line+column,0.67,13,20,Stempel 6. gg,Moz 2 gg.
+2,270,break,high,short_line,0.46,9,20,Moz 2 gg.,Bl 3 gg.
+2,271,break,high,short_line,0.41,8,20,Bl 3 gg.,*archiv 1 rt
+3,275,run,held,short_line,0.46,22,48,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen¬
+3,325,break,high,short_line,0.57,30,53,"niren, männiglich ungehindert.",Wier befehlen und gebieten demnach Unsern sämtlichen
+3,346,break,high,short_line+column,0.49,18,37,Friedrich Willhelm,"Schenkungs-Urkunde,"
+3,347,run,held,short_line+column,0.51,19,37,"Schenkungs-Urkunde,",für den
+3,348,run,held,short_line,0.19,7,37,für den,"Regierenden Fürsten Hohenlohe, Ingel¬"
+3,357,break,high,short_line,0.54,20,37,Zubehör in Cujawien.,Die gleichlautende Uebereinstimmung vorstehender A
+3,363,run,held,short_line+column,0.19,7,37,Richter,Gouvernements Audit[or?]
+4,368,break,high,short_line,0.49,22,45,König zu Preussen. pp.,"Urkunden, und erklären vermittelst dieses Unsers"
+4,399,break,high,short_line,0.31,14,45,zu übereignen.,"Wir thun auch solches hiermit, und in Kraft dieses"
+4,446,break,high,short_line,0.51,22,43,licher harter Ahndung.,Das zu Urkund haben Wir gegenwärtig
+4,449,break,high,short_line+column,0.42,18,43,Friedrich Willhelm,"Schenkungs Urkunde,"
+4,450,run,held,short_line+column,0.44,19,43,"Schenkungs Urkunde,",für den
+4,451,run,held,short_line,0.16,7,43,für den,regierenden Fürsten Hohenlohe Jngel:
+4,465,run,held,short_line,0.59,19,32,"Sonnabend, Auditeur",des Hochfürstl. v Hohenlohschen
+5,492,break,high,rubric,0.87,48,55,"mögen Namen haben wie sie wollen gegen Erlegung,",1.) der bisher davon entrichteten Landesherrlichen Abgaben
+5,494,break,high,rubric,0.93,51,55,als eines bestimmten und unabänderlichen Canons und,"2, der den Geistlichen Corporationen oder Stiftungen"
+5,496,break,high,short_line,0.53,29,55,daraus gebührenden Competenz.,"erb und eigenthümlich zu überlaßen, zu verleihen, und zu"
+5,498,break,high,short_line,0.2,11,55,übereignen.,Wir thun auch solches hiermit und in Kraft dieses aus
+5,520,break,held,page_end,0.2,11,55,ungehindert,Wir befehlen und gebieten demnach Unsern sämtlichen
+5,538,break,high,short_line,0.39,20,51,Verleihungs-Urkunde.,Friedrich Wilhelm
+5,539,break,held,short_line,0.33,17,51,Friedrich Wilhelm,für den regierenden Fürsten von Hohenlohe
+5,546,break,high,short_line,0.22,11,51,Hoym. Reck.,Daß vorstehende Abschrift mit der gouvern¬
+5,549,run,held,page_end,0.1,5,51,ments,gerichtlichen Copia vidimata vom 24. rt. febr. 1798
+5,554,break,high,salutation+short_line,0.15,6,41,tiret.,"So geschehen, Breslau am 26. Febr. 1803."
+5,556,run,held,short_line+column,0.22,9,41,Sonnabend,Auditeur des Hochfürstl.
+5,557,run,held,short_line,0.59,24,41,Auditeur des Hochfürstl.,v Hohenlohische Inf. Regts
+6,561,run,held,short_line,0.48,22,46,Wir Friedrich Willhelm,von Gottes Gnaden König von Preussen pp.
+6,578,break,high,rubric+short_line,0.2,9,46,nehmlich.,"1.) zu Betsche, die Ortschaften Stołuń(7), Kuligowo(8)"
+6,582,break,high,rubric+short_line,0.33,15,46,und Heydemühle.,"2.) zu Zagórów, des Dörfchen Swięcin und endlich"
+6,583,break,high,rubric,1.05,48,46,"2.) zu Zagórów, des Dörfchen Swięcin und endlich","3.) bey Wienietz, Konty Szedlemin, Botkow, und"
+6,585,run,held,short_line+column,0.22,10,46,Karezin[?],gegen Erlegung.
+6,586,break,high,rubric+short_line,0.33,15,46,gegen Erlegung.,"1.) der von gedachten Ortschaften, Hauländereyen"
+6,591,break,high,rubric,0.65,31,48,"und unabänderlichen Canons, und","2.) der den geistlichen Korporationen, und Stiftun¬"
+6,593,run,held,short_line,0.71,34,48,"gen, daraus gebührenden Kompetenz.","erb, und eigenthümlich zu überlassen zu verleihen"
+6,595,break,held,short_line,0.35,17,48,und zu übereignen,"Wirthun auch ſolches hiemit, und in Kraft"
+6,620,break,high,short_line,0.26,12,46,ungehindert.,"Wir befehlen, und gebiethen, demnach Unsern sämtlichen"
+6,640,break,high,short_line,0.57,26,46,Ahndung des zu Urkunde pp.,Berlin d. 1ten December 1797.
+6,641,break,high,short_line,0.63,29,46,Berlin d. 1ten December 1797.,Friedrich Willhelm
+6,642,break,high,short_line+column,0.39,18,46,Friedrich Willhelm,Verleihungs Urkunde
+6,643,run,held,short_line,0.41,19,46,Verleihungs Urkunde,für den regierenden Fürsten von Hohenlohe
+6,648,break,high,short_line+column,0.37,17,46,Portinentz Stücke,(L. S.)
+6,649,break,held,short_line,0.15,7,46,(L. S.),daß vorstehende Abschrift mit dem Allerhöchst vollzo¬
+6,656,run,held,short_line,0.54,19,35,"Sonnabend, Auditeur",des Hochfürstl. Hohenlohischen
+7,661,break,high,short_line,0.38,15,40,Copia vidimata.,Wir Friedrich Willhelm von Gottes Gnaden
+7,679,break,high,short_line,0.7,28,40,"Bütow, Arlaÿ und Breda p. p.",Urkunden und erklären hiermit und
+7,702,break,high,rubric+short_line,0.23,8,35,nehmlich,"1.) zu Betsche, die Ortschaften Sto¬"
+7,708,break,high,rubric,0.74,26,35,Hauländerey und Heÿdemühle,2.) zu Zagórów des Dorfchen Swięcin
+7,710,break,high,rubric+short_line,0.33,11,33,und endlich,"3.) bey Wienitz, Konty, Siedlemyn, Bot¬"
+7,712,break,high,rubric,0.94,31,33,kowo und Karczin gegen Erlegung,"1.) der von gedachten Ortschaften, Hauslände¬"
+7,717,break,high,rubric+short_line,0.52,17,33,lichen Canons und,2.) der den geistlichen Corporationen
+7,722,break,high,short_line,0.55,18,33,und zu übereignen.,Wir thun auch solches hiermit und
+7,756,break,high,short_line,0.68,23,34,männiglich ungehindert.,Wir befehlen und gebiethen demnach
+7,793,break,high,short_line+column,0.58,18,31,Friedrich Willhelm,Verleihungs-Urkunde
+7,794,run,held,short_line+column,0.61,19,31,Verleihungs-Urkunde,für den regierenden
+7,795,run,held,short_line+column,0.61,19,31,für den regierenden,Fürsten von Hohenlohe
+7,796,run,held,short_line+column,0.68,21,31,Fürsten von Hohenlohe,Hoym. Reck
+7,797,run,held,short_line+column,0.32,10,31,Hoym. Reck,Ingelfingen zum Erb¬
+7,799,run,held,short_line,0.61,19,31,und eigenthümlichen,besitze der zu den Güthern
+7,801,run,held,short_line+column,0.52,16,31,"Betsche, Zagórów",und Wienietz gehörigen
+7,802,run,held,short_line+column,0.71,22,31,und Wienietz gehörigen,Pertinenz=Stücke.
+7,803,break,high,short_line,0.55,17,31,Pertinenz=Stücke.,Urkundlich ist diese beglaubte Abschrift Be¬
+7,814,break,high,short_line+column,0.26,7,27,(L. S.),Schultz
+7,815,break,held,short_line,0.26,7,27,Schultz,Titulus possessionis von
+7,825,run,held,short_line+column,0.15,4,27,Beda,Ingrossator.
+7,826,break,high,short_line,0.44,12,27,Ingrossator.,Schleyer
+7,827,break,held,short_line,0.3,8,27,Schleyer,Das in der Provinz Süd-Preußen und
+7,831,run,held,short_line+column,0.1,4,40,Guth,Swięcia wozu das Vorwerk
+7,843,break,high,rubric+short_line,0.57,23,40,darauf sind eingetragen,"I, Onera perpetua Einschränkungen des"
+7,845,break,high,rubric,0.79,32,40,Eigenthums oder der Disposition.,"1., Vermöge Verordnung vom Jahr 1796 und"
+7,850,break,high,rubric,1.31,53,40,vom 31t: July 1801 ex officio allhier vermerkt worden,II. Gerichtlich versicherte Schulden und andere Real¬
+7,852,break,high,short_line,0.44,18,40,Verbindlichkeiten.,Nichts.
+7,853,break,high,short_line,0.17,7,40,Nichts.,Außer vorstehender Einschränkung ist auf dem
+7,867,break,high,short_line+column,0.33,7,21,(L. S.),Danckelmann
+7,868,break,high,short_line+column,0.52,11,21,Danckelmann,Husarrenth
+7,869,break,high,rubric+short_line,0.48,10,21,Husarrenth,H. H. 2. F. 2 gg.
+7,871,break,high,short_line+column,0.29,6,21,Stl. 6,Mund: 2.
+7,872,break,high,short_line,0.38,8,21,Mund: 2.,Ins. 3
+7,873,break,high,short_line+column,0.29,6,21,Ins. 3,Arch: 1
+7,874,break,high,short_line+column,0.33,7,21,Arch: 1,Ingr. 12
+7,875,break,held,short_line,0.38,8,21,Ingr. 12,Hypothequen-Schein
+7,880,run,held,short_line,0.38,8,21,Schlegel,Canzley Director
+7,882,run,held,short_line+column,0.19,4,21,Beda,Ingrossator
+7,883,break,high,short_line+column,0.52,11,21,Ingrossator,No 3397.
+7,884,break,high,short_line,0.38,8,21,No 3397.,daß vorstehende Abschrift mit dem Original volkommen
+8,916,break,high,rubric+short_line,0.15,8,53,Erlegung,1.) der bisher davon entrichteten Landes herrlichen
+8,919,break,high,rubric+short_line,0.34,18,53,lichen Canons; und,2.) der den Geistlichen Corporationen oder Stiftungen
+8,921,run,held,short_line,0.55,29,53,"daraus gebührenden Competenz,","erb- und eigenthümlich zu überlassen, zu verleihen und"
+8,923,break,high,short_line,0.21,11,53,übereignen.,Wir thun auch solches hiermit und in Kraft diese
+8,945,break,high,short_line,0.42,23,55,männiglich ungehindert.,Wir befehlen und gebieten demnach Unsern
+8,960,run,held,short_line,0.03,1,36,1,"thun, noch daß solches von andern Geschehe, veranlassen oder ge¬"
+8,965,break,high,short_line+column,0.5,18,36,Friedrich Willhelm,Verleihungs-Urkunde.
+8,966,break,high,short_line,0.56,20,36,Verleihungs-Urkunde.,für den regierenden Fürsten von Hohenlohe
+8,974,break,high,short_line+column,0.36,13,36,nebst Zubehör,Hoym. Reck.
+8,975,break,high,short_line,0.31,11,36,Hoym. Reck.,Daß vor- und umstehende Abschrift mit dem Original der Aller¬
+8,982,run,held,short_line+column,0.19,7,36,Richter,Gouvernements Auditt
+8,983,run,held,short_line+column,0.56,20,36,Gouvernements Auditt,hierselbst
+9,993,run,held,short_line,0.23,11,47,in Gestallt,"Unsere Absicht, dem Hochgebohrnen Fürsten, Unserm"
+9,1013,break,high,rubric+short_line,0.17,8,47,Erlegung,1.) der bisher davon entrichteten Landes Herrli
+9,1016,break,high,rubric+short_line,0.55,26,47,unabänderlichen Canons und,"2.) der den Geistlichen Corporationen, oder Stif¬"
+9,1021,break,high,page_end,0.3,14,47,zu übereignen.,"Wir thun auch solches hiemit, und in Kraft"
+9,1065,break,high,short_line,0.24,10,41,Juny 1797.,Friedrich Willhelm
+9,1066,break,high,short_line+column,0.44,18,41,Friedrich Willhelm,Verleihungs=Urkunde
+9,1067,run,held,short_line,0.46,19,41,Verleihungs=Urkunde,für den regierenden Fürsten von Hohenlohe
+9,1075,break,high,short_line+column,0.32,13,41,nebſt Zubehör,Hoym. Reck.
+9,1076,break,high,short_line,0.27,11,41,Hoym. Reck.,Daß vorstehende Abschrift mit dem Original voll¬
+9,1081,run,held,short_line+column,0.44,18,41,Sonnabend Auditeur,des Fürst Hohenlohschen
+9,1082,run,held,short_line+column,0.56,23,41,des Fürst Hohenlohschen,Infant. Regiments.
+10,1105,break,high,rubric,0.88,50,57,"mögen Nahmen haben wie sie wollen, gegen Erlegung.",1) der bisher davon entrichteten Landesherrl. Abgaben
+10,1107,break,high,rubric,0.84,48,57,"als eines bestimmten und unabänderl. Canons, und",2) der den Geistl. Corporationen oder Stiftungen daraus
+10,1109,run,held,short_line,0.39,22,57,"gebührenden Competenz,","Erb- und Eigenthümlich zu überlaßen, zu verleihen und zu"
+10,1111,break,high,short_line,0.19,11,57,übereignen.,Wir thun auch solches hiermit und in Kraft dieses aus Kö¬
+10,1148,break,high,short_line,0.22,8,36,Ahndung.,"des zur Urkunde pp. gegeben Berlin, den 19. Juni, 1797."
+10,1150,break,high,short_line+column,0.47,17,36,Friedrich Wilhelm,Verleihungs Urkunde
+10,1151,run,held,short_line,0.53,19,36,Verleihungs Urkunde,für den Reg. Fürsten zu Hohenlohe Ingelfingen
+10,1158,break,high,short_line,0.22,8,36,Zubehör.,Daß vor- und umstehende Abschrift mit den Original der
+10,1164,break,high,short_line,0.33,12,36,cember 1800.,Richter
+10,1165,run,held,short_line+column,0.19,7,36,Richter,Gouvernements und
+10,1166,run,held,short_line+column,0.47,17,36,Gouvernements und,Garnison Auditeur
+11,1170,run,held,short_line,0.47,22,47,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen p.
+11,1184,run,held,rubric,1.0,47,47,"nen, denenselben durch die Urkunde vom 19. Juny","d. J. bereits verliehenen Gütern: Betschen,"
+11,1187,break,high,rubric+short_line,0.26,12,47,"ke, nehmlich","1. zu Betschen, die Ortschaften Stołuń, Kuligowo,"
+11,1191,break,high,rubric+short_line,0.3,14,47,und Heidemühle,"2. zu Zagórów, das Dörfchen Swięcin und endlich"
+11,1192,break,high,rubric,1.0,47,47,"2. zu Zagórów, das Dörfchen Swięcin und endlich","3. bey Wienietz, Konty, Szedlemin, Botkowo und"
+11,1194,run,held,short_line+column,0.15,7,47,Karczin,gegen Erlegung:
+11,1195,break,high,rubric+short_line,0.32,15,47,gegen Erlegung:,"1. der von gedachten Ortschaften, Hausländereyen"
+11,1200,break,high,rubric,0.7,31,44,und unabänderlichen Canons; und,2. der den geistlichen Korporationen und Stif¬
+11,1204,break,high,short_line,0.4,18,44,und zu übereignen.,Wir thun auch solches hiermit und in Kraft die
+11,1251,break,high,short_line,0.62,28,46,Berlin den 1. Decembr. 1797.,Friedrich Wilhelm
+11,1252,break,high,short_line+column,0.37,17,46,Friedrich Wilhelm,Verleihungs Urkunde
+11,1253,run,held,short_line,0.42,19,46,Verleihungs Urkunde,für den regierenden Fürsten v. Hohenlohe
+11,1258,break,high,short_line,0.15,7,46,Stükke.,daß vorstehende Abschrift mit dem höchstvollzo¬
+11,1261,run,held,rubric,0.84,38,46,"wird hierdurch attestirt. Breslau, den","28. Januar, 1798."
+11,1263,break,high,short_line,0.64,29,46,Geheimes - Südpreußl. Archiv.,Beugnitz
+12,1270,run,held,short_line,0.14,5,36,Kolno,aus der Stadt Kamionna oder
+12,1272,run,held,short_line+column,0.28,10,36,Kaemen und,dem Marktflecken Kolno
+12,1273,run,held,short_line+column,0.61,22,36,dem Marktflecken Kolno,oder Kulm
+12,1274,run,held,short_line,0.25,9,36,oder Kulm,"bestehend, hat der regierende Fürst, Herr"
+12,1287,run,held,rubric,0.89,32,36,Wilhelm des zweiten Majestät vom,9. August 1796. erb und eigenthümlich
+12,1302,break,high,short_line,0.61,23,38,und eingetragen worden.,Darauf sind eingetragen
+12,1303,break,high,rubric+short_line,0.61,23,38,Darauf sind eingetragen,I. Onera perpetua und Einschränkungen
+12,1305,break,high,rubric,0.92,35,38,des Eigenthums oder der Disposition,"1.) Eine Protestation, welche für den Anton von Broniewski,"
+12,1310,run,held,rubric,1.05,40,38,Pfandbesitzes dieses Guts ex Decreto vom,11. Maii 1801. mit der Bemerkung einge¬
+12,1315,break,high,rubric,0.95,36,38,besonders protestando vermerkt sind.,"2.) 250 rt. oder Ein tausend fünf Hundert Gulden polnisch,"
+12,1332,break,high,rubric+short_line,0.51,18,35,tragen worden sind,"3.) Ein jährlicher Zins von Vier Mark polnisch, welcher"
+12,1346,break,high,rubric+short_line,0.43,15,35,gen worden ist.,II. Gerichtlich versicherte Schulden
+12,1348,break,high,rubric,0.94,33,35,und andere Real-Verbindlichkeiten,"1.) Eine Protestation, welche für den Anton von Broniewski,"
+12,1363,run,held,rubric,0.9,31,34,mit vorbehalt der vorläufig auf,"21,666 rt 16 gg oder Einmal Hundert"
+12,1374,break,high,short_line,0.29,10,34,merkt ist.,Außer vorstehenden Posten ist auf das Gut
+12,1386,break,high,short_line+column,0.23,7,30,Bormann,Fest. John.
+12,1387,break,high,short_line,0.36,11,30,Fest. John.,Hypothequen-Schein
+12,1388,run,held,short_line,0.59,18,30,Hypothequen-Schein,pro informatione für den
+15,1797,run,held,short_line+column,0.64,27,42,gelegene adliche Herrschaft,Pszczew oder Betsche
+15,1798,run,held,short_line+column,0.48,20,42,Pszczew oder Betsche,mit folgenden Attinenzien:
+15,1799,break,high,short_line,0.62,26,42,mit folgenden Attinenzien:,dem Dorfe Świechocin
+15,1800,run,held,short_line+column,0.48,20,42,dem Dorfe Świechocin,dem Dorfe Stoki.
+15,1801,break,high,short_line,0.38,16,42,dem Dorfe Stoki.,dem Dorfe Łowyń
+15,1802,run,held,short_line+column,0.36,15,42,dem Dorfe Łowyń,dem Dorfe Głażewo
+15,1803,run,held,short_line+column,0.4,17,42,dem Dorfe Głażewo,dem Dorfe Dormowo
+15,1804,run,held,short_line+column,0.4,17,42,dem Dorfe Dormowo,dem Dorfe Stołuń
+15,1805,run,held,short_line+column,0.38,16,42,dem Dorfe Stołuń,dem Dorfe Kuligowo
+15,1806,run,held,short_line+column,0.43,18,42,dem Dorfe Kuligowo,dem Dorfe Szarcz
+15,1807,run,held,short_line+column,0.38,16,42,dem Dorfe Szarcz,der Vogtey Zielomyśl und Silna
+15,1810,run,held,short_line+column,0.07,3,42,und,der Heydemühle.
+15,1811,break,high,short_line,0.36,15,42,der Heydemühle.,hat der regierende Fürst Herr Friedrich Ludwig
+15,1826,break,high,rubric+short_line,0.52,23,44,Darauf sind eingetragen,I. Onera perpetua und Einschränckungen des Eigen¬
+15,1828,break,high,rubric,0.59,26,44,thums oder der Disposition,1.) Die den vormaligen geistlichen Besitzern dieser Güther
+15,1841,break,high,rubric+short_line,0.09,4,44,ist.,"2. Das Landesherrliche Verboth, daß die von den eingezoge¬"
+15,1853,break,high,rubric,0.98,43,44,vom 29ten März 1802 eingetragen worden ist.,II. Gerichtlich versicherte Schulden und andere
+15,1855,break,high,short_line,0.52,23,44,Real-Verbindlichkeiten.,sind nicht eingetragen.
+15,1856,break,high,short_line,0.52,23,44,sind nicht eingetragen.,Außer vorstehenden Posten ist auf die
+15,1869,break,high,rubric+short_line,0.26,9,34,Diederich,v. Steudener
+15,1871,break,high,short_line+column,0.2,7,34,(L. S.),John.
+15,1872,break,high,short_line,0.14,5,34,John.,Hypothequen Schein.
+15,1873,break,high,short_line,0.55,19,34,Hypothequen Schein.,für den regierenden Fürsten Herrn
+15,1878,break,held,short_line+column,0.58,20,34,Pszczew oder Betsche,No. 4409.
+16,1883,break,high,short_line,0.29,15,51,von Preußen pp.,Thun kund und fügen hiermit jedermänniglich beson¬
+16,1944,break,held,short_line+column,0.59,16,27,29ten Maerz 1802,Götz
+16,1945,break,high,short_line+column,0.15,4,27,Götz,(L. S.)
+16,1946,break,high,short_line+column,0.26,7,27,(L. S.),Schirmer
+16,1947,break,high,short_line+column,0.3,8,27,Schirmer,Resignations-Brief
+16,1948,run,held,short_line,0.67,18,27,Resignations-Brief,über die im Posenschen District
+16,1955,run,held,rubric,0.74,20,27,Verleihungs Urkunden,d. d. Berlin den 19ten Juny
+16,1967,run,held,short_line+column,0.09,4,47,Fest,Archivarius
+16,1968,break,high,short_line+column,0.23,11,47,Archivarius,John.
+16,1969,break,high,short_line,0.11,5,47,John.,Ingrossator.
+17,1989,run,held,rubric,0.86,24,28,nen ehemaligen Starosten,v. Prusimski zugehörig ge¬
+17,2014,break,high,rubric+short_line,0.5,15,30,gegen Erlegung:,1.) der bisher davon entrichte¬
+17,2019,break,high,rubric,0.85,22,26,änderlichen Canons und,2.) der den Geistlichen Corporatio¬
+17,2025,break,high,short_line,0.42,11,26,übereignen.,Wirthun auch solches hiermit
+17,2085,run,held,page_end,0.62,16,26,und Zubehörungen,noch den oder diejenigen
+17,2104,break,held,short_line,0.27,7,26,Ahndung,das zu Urkund haben Wir
+17,2121,break,held,short_line,0.2,5,25,Jahre,(L. S.) F. Wilhelm
+17,2123,break,high,short_line,0.44,11,25,Hoym. Reck.,Verleihungs Urkunde
+17,2135,break,high,short_line,0.15,4,26,hör.,Daß vorstehende Abschrift
+17,2152,break,high,salutation,1.14,25,22,gel hierdurch attestiret.,So geschehen Posen den 31ten Aug. 1801.
+17,2154,break,high,short_line+column,0.5,11,22,v Steudener,(L. S.)
+17,2155,break,high,short_line+column,0.32,7,22,(L. S.),Copia Vidimata
+17,2156,run,held,short_line,0.64,14,22,Copia Vidimata,der Schenckungs Urkunde
+17,2172,run,held,short_line+column,0.1,4,40,Fest,Archivarius
+17,2173,break,high,short_line+column,0.28,11,40,Archivarius,John
+17,2174,run,held,short_line+column,0.1,4,40,John,Ingrossator
+18,2203,run,held,short_line,0.04,1,24,d,J. bereits verliehenen
+18,2208,break,high,rubric+short_line,0.33,8,24,nehmlich,"1.) zu Betschen, die Ort¬"
+18,2216,break,high,rubric,0.58,15,26,und Heydemühle¬,2.) zu Zagórów das Dörfchen
+18,2218,break,high,rubric,0.77,20,26,"Swięcin, und endlich","3. bey Wienietz, Konty, Szedle¬"
+18,2221,break,high,rubric+short_line,0.54,14,26,gegen Erlegung,1.) der von gedachten Ort¬
+18,2228,break,high,rubric+short_line,0.35,9,26,"nons, und",2.) der den geistlichen Corpo¬
+18,2235,break,high,short_line,0.48,11,23,übereignen.,Wir thun auch solches hier¬
+18,2335,break,high,short_line,0.57,16,28,im Ersten Jahre.,Friedrich Wilhelm
+18,2336,break,high,short_line+column,0.61,17,28,Friedrich Wilhelm,Hoym. Reck.
+18,2337,break,high,short_line,0.39,11,28,Hoym. Reck.,Verleihungs Urkunde.
+18,2338,break,high,short_line,0.71,20,28,Verleihungs Urkunde.,für den regierenden Fürsten
+18,2356,break,high,rubric+short_line,0.13,5,39,1801.,v. Steudener.
+18,2358,break,high,short_line,0.18,7,39,(L. S).,Copia vidimata
+18,2359,break,held,short_line+column,0.36,14,39,Copia vidimata,Auf den Grund der Ver¬
+18,2372,break,high,short_line,0.12,5,42,Fest.,Archivarius.
+18,2373,break,high,short_line,0.29,12,42,Archivarius.,John
+18,2374,run,held,short_line+column,0.1,4,42,John,Ingrossator
+18,2375,break,held,short_line,0.27,11,42,Ingrossator,Die praevia Collatione vorstehenden Hypotheque
+18,2384,run,held,short_line+column,0.17,7,42,Richter,Gouvernements
+18,2385,run,held,short_line+column,0.31,13,42,Gouvernements,Auditeur
+19,2390,break,high,short_line,0.52,22,42,König von Preußen etc.,Unsern gnädigen Gruß und Königl. Gnade zuvor.
+19,2391,break,high,salutation,1.06,45,42,Unsern gnädigen Gruß und Königl. Gnade zuvor.,"Durchlauchtigster Fürst, freundlich lieber Vetter!"
+19,2407,break,high,short_line,0.12,5,42,Reck.,An
+19,2408,run,held,short_line+column,0.05,2,42,An,des regierenden Fürsten zu
+19,2410,run,held,short_line+column,0.49,21,42,Hohenlohe Ingelfingen,liebden
+19,2411,run,held,short_line+column,0.16,7,42,liebden,in Breslau
+19,2412,break,high,short_line+column,0.24,10,42,in Breslau,Schleyer[?]
+20,2427,break,high,short_line,0.11,5,45,1800.,Koenigliche Süedprüsse Regierung.
+20,2429,break,high,short_line+column,0.2,9,45,Meuser[?],An
+20,2430,run,held,short_line+column,0.04,2,45,An,Den fuerstlich Hohenlohschen
+20,2431,run,held,short_line+column,0.62,28,45,Den fuerstlich Hohenlohschen,Bau und Oeconomie Rath
+21,2436,break,held,short_line,0.43,15,35,Wyciąg Urzędowy,[Das?] in der Provinz Süd Preußen (teraz zas
+21,2439,run,held,short_line+column,0.54,19,35,ner Kreise belegene,Stadt Zagórów
+21,2440,run,held,short_line,0.37,13,35,Stadt Zagórów,hat der regierende Fürst zu Hohenlohe
+21,2450,break,high,rubric+short_line,0.66,23,35,Darauf sind eingetragen,I. Onera perpetua und Einschränkun¬
+21,2453,break,high,rubric+short_line,0.26,9,35,position.,"1., ist gelöscht."
+21,2454,break,high,rubric,0.49,17,35,"1., ist gelöscht.","2., 88 rtl. 5 g. 9 d. Acht und Achtzig Rthlr. 5. gg. 9 d"
+21,2466,break,high,rubric+short_line,0.23,7,31,worden.,"3., Eine Protestation pro fisco Camerae"
+21,2479,break,high,rubric+short_line,0.45,14,31,tragen worden.,"4., Eine Protestation für den Johann"
+21,2500,break,high,rubric+short_line,0.41,14,34,notirt worden.,II. Gerichtlich versicherte Schulden und
+21,2502,break,high,rubric,0.85,29,34,andere real Verbindlichkeiten,"1., ist gelöscht."
+21,2504,break,high,rubric+short_line,0.09,3,34,ist,"2, 250000 Rthl Zweyhundert und fünfzig"
+21,2523,break,high,short_line,0.41,14,34,tragen worden.,"Ad Nr. 2. 50,000 Rtl. Fünfzig Tausend"
+21,2547,break,high,short_line,0.22,7,32,worden.,"Ad No. 2. 52,100 Rtl. Zwei und fünfzig"
+21,2573,break,high,short_line,0.49,16,32,getragen worden.,"Ad No. 2. 30,000 Rtl. schreibe Dreyßig"
+21,2576,run,held,rubric,0.8,26,32,getragener Haupt Summe der,"250,000 Rtl nebst Zinsen hat deren"
+21,2585,break,high,short_line,0.22,7,32,worden.,"Ad No. 2. 30,000 rtl schreibe Dreyßig"
+21,2598,break,high,short_line,0.33,11,33,gen worden.,Vorstehend sub intabulirten dreimal
+21,2599,run,held,rubric,1.06,35,33,Vorstehend sub intabulirten dreimal,"30,000 Rthl beisammen 90,000 Rth. ist"
+21,2612,run,held,rubric,0.94,31,33,cum prioritate prae residuo den,"25,600 Rthl mit voller Würkung"
+21,2614,run,held,rubric,0.85,28,33,"abgetreten, durch die unterm",8. September 1805 vor einem Nota¬
+21,2621,break,high,rubric+short_line,0.44,18,40,eingetragen worden,"3., Eine protestation wegen eines Capitals"
+21,2645,break,high,short_line+column,0.25,10,40,Kaliskiego,Dierschlag
+22,2649,break,held,short_line,0.17,5,29,Copia,Wir Friedrich Wilhelm von Gottes Gnaden
+22,2712,break,high,rubric+short_line,0.47,14,30,gegen Erlegung,"1., der bisher davon entrichteten"
+22,2718,break,high,rubric+short_line,0.15,3,20,und,2.) der den Geistl. Corporationen
+22,2725,break,high,short_line,0.35,7,20,eignen.,Wir thun auch solches
+22,2730,run,held,short_line,0.7,14,20,für und unsern,Nachkommen und Nach¬
+22,2738,run,held,short_line,0.65,13,20,derregierende,fürst von Hohenlohe
+22,2739,run,held,rubric,0.95,19,20,fürst von Hohenlohe,V. Ingelfingen obbenann¬
+22,2763,run,held,short_line,0.6,12,20,Gewäßern von,"nun, an zu ewigen"
+22,2781,break,held,short_line,0.41,9,22,gehindert,Wir befehlen und ge¬
+22,2787,run,held,short_line+column,0.68,15,22,solches angehet,hiemit so
+22,2788,run,held,short_line,0.41,9,22,hiemit so,"gnädig als ernstlich, daß"
+22,2796,run,held,short_line,0.68,15,22,der obbenannten,Güter nebst ihren Per¬
+22,2800,run,held,page_end,0.18,4,22,noch,"den oder diejenigen, auf welche"
+22,2828,break,high,salutation,0.84,19,22,daran hangen laßen.,"So geschehen, und gegeben"
+22,2838,break,high,short_line,0.44,11,25,Hoym. Reck.,Verleihungs Urkunde
+22,2865,break,held,short_line,0.58,14,24,(L. S.) Schulz,Die in der Provinz Sud Preußen
+22,2868,run,held,short_line+column,0.58,14,24,belegene Stadt,Zagórów
+22,2869,run,held,short_line,0.29,7,24,Zagórów,hat der regierende Fürst
+22,2883,break,high,short_line,0.61,14,23,tragen worden.,Darauf sind eingetragen
+22,2884,break,high,rubric,1.0,23,23,Darauf sind eingetragen,I. onera perpetua Einschränkung¬
+22,2887,break,high,rubric+short_line,0.65,15,23,der Disposition,"1., Vermöge Verordnung vom"
+22,2894,run,held,short_line,0.7,16,23,verkaufet werden,welches ex decreto vom
+22,2895,run,held,rubric,0.96,22,23,welches ex decreto vom,31. July 1801 ex officio al¬
+22,2897,break,high,rubric,0.91,21,23,hier vermerkt worden.,II. Gerichtlich versicherte Schulden
+22,2900,break,high,short_line,0.65,15,23,bindlichkeiten.,nichts
+22,2901,break,held,short_line,0.26,6,23,nichts,Außer vorstehender
+22,2922,break,high,short_line,0.52,13,25,Unterschrift.,Gegeben Kalisch d. 29. Aug. 1801
+22,2932,break,held,short_line,0.52,13,25,Stadt Zagórów,Daß vorstehende Abschrifften
+22,2937,break,held,short_line,0.32,8,25,in fidem,Trąbczyn den 4. Octobr
+22,2939,break,high,short_line+column,0.16,4,25,1804,Schenck
+22,2940,run,held,short_line+column,0.28,7,25,Schenck,Justiz BgMgstr
+23,2950,break,high,short_line,0.41,14,34,folget lautet:,Instrumentum taxationis
+23,2951,run,held,short_line+column,0.67,23,34,Instrumentum taxationis,von
+23,2952,run,held,short_line,0.09,3,34,von,"dem, dem regierenden Herrn Fürsten zu"
+23,2959,run,held,short_line+column,0.14,5,34,Güthe,Szetlewek.
+23,2960,break,high,short_line,0.29,10,34,Szetlewek.,Ist im rectificirten Capitals werth
+23,2964,break,high,short_line,0.38,13,34,culo richtig.,Cretius
+23,2965,run,held,short_line+column,0.2,7,34,Cretius,Regierungs Calculator.
+23,2967,break,high,page_end,0.64,22,34,Regierungs Calculator.,Das in der Provinz Südpreußen im Depar¬
+23,2999,break,high,rubric,1.13,34,30,dem Bonitirungs Register enthalten,I. die herrschftl. Grundstücke
+23,3000,break,high,rubric,1.0,30,30,I. die herrschftl. Grundstücke,"1., An Acker, a zur 1ten Ex. Boden dessen Bestand"
+23,3006,break,high,rubric,0.87,26,30,Hafer säen kann 239 M 39 R,"b., zur 2te Classe. Boden der"
+23,3013,break,high,rubric,0.7,21,30,saen kann 277 M 140 R,"c., zur 3te Classe Boden der in"
+23,3018,run,held,short_line+column,0.67,20,30,Haafer gesant werden,kann 40 M 78 R
+23,3022,break,high,rubric,0.75,18,24,Transp. 557 M 77 R,"2., an zweischürigen am Flusse lie¬"
+23,3024,break,high,rubric,1.04,25,24,genden Wiesen 109 M 117 R,"3., an hoher Hüthung 76 M 50 R"
+23,3025,break,high,rubric,1.25,30,24,"3., an hoher Hüthung 76 M 50 R","4., an Garthen"
+23,3026,break,high,rubric,0.58,14,24,"4., an Garthen","a., Obstgarthe 6 M 56 R."
+23,3027,break,high,rubric,1.0,24,24,"a., Obstgarthe 6 M 56 R.","b., Hopfen 5 M 29 R"
+23,3028,break,high,rubric,0.79,19,24,"b., Hopfen 5 M 29 R","c., Küchen 8 M 14 R"
+23,3030,break,high,rubric,0.46,11,24,= 19 M 99 R,"5., an Kiehnenwälder 300 M 167 R"
+23,3031,break,high,rubric,1.33,32,24,"5., an Kiehnenwälder 300 M 167 R","6., an Teichen 50 M 168 R"
+23,3032,break,high,rubric,1.04,25,24,"6., an Teichen 50 M 168 R","7., an Unland 90 M 4 R"
+23,3034,break,high,rubric,0.58,14,24,= 1204 M 142 R,II. die bäuerlichen Grundstücke
+23,3035,break,high,rubric,1.29,31,24,II. die bäuerlichen Grundstücke,"1., an Acker 393 M 167 R"
+23,3036,break,high,rubric,1.0,24,24,"1., an Acker 393 M 167 R","2., an wiesen 97 M 63 R"
+23,3037,break,high,rubric,0.96,23,24,"2., an wiesen 97 M 63 R","3., an Garthen 27 M 170 R"
+23,3045,break,high,short_line,0.29,7,24,werden.,Es sind auf die vorbeschrie¬
+23,3048,break,high,rubric,0.83,20,24,bene Flache fundirt.,"1., das herrschaftl. Vorwerk"
+23,3049,break,high,rubric,0.77,28,36,"1., das herrschaftl. Vorwerk","2., 3 Kmieci (Ganz Hüfner)"
+23,3050,break,high,rubric,0.71,26,36,"2., 3 Kmieci (Ganz Hüfner)","3., 5 Chalupnici Halbhüfner"
+23,3051,break,high,rubric,0.74,27,36,"3., 5 Chalupnici Halbhüfner","4., 9 Komornice (Einlieger)"
+23,3052,break,high,rubric,0.74,27,36,"4., 9 Komornice (Einlieger)","5., 1 Krug"
+23,3053,break,high,rubric,0.27,10,36,"5., 1 Krug","6., 1 Schmiede"
+23,3054,break,high,rubric,0.38,14,36,"6., 1 Schmiede","7., 1 Schäfer"
+23,3055,break,high,rubric,0.36,13,36,"7., 1 Schäfer","8., 1 Hirthe"
+23,3056,break,high,rubric,0.33,12,36,"8., 1 Hirthe","9., 1 Ansiedler"
+23,3057,break,high,rubric,0.41,15,36,"9., 1 Ansiedler","10., 1 waßermahlmühlen"
+23,3086,break,high,short_line,0.32,11,34,verpachtet.,diese Pacht wird bezalt
+23,3087,break,high,rubric,0.68,23,34,diese Pacht wird bezalt,"a, mit 2/3 zu Joh: praenumerando f"
+23,3089,break,high,rubric,0.74,25,34,5200 fl a 5 pc. = 260 fl.,"b, mit 1/3 zu weynachten prae¬"
+23,3092,break,held,short_line,0.15,5,34,= 325,"Außerdem stehen 50,000 fl. pol."
+23,3095,break,held,short_line,0.56,19,34,(als Pacht Caution),ferner bezalt noch der Pächter für
+23,3100,break,high,short_line,0.59,20,34,oder 1810 rtr 20 gg.,Auf den Grund der in loco gesammleten Nachrichten
+23,3107,run,held,short_line+column,0.11,2,18,No,Capital
+23,3108,run,held,short_line+column,0.39,7,18,Capital,rtlr
+23,3109,run,held,short_line+column,0.22,4,18,rtlr,gg
+23,3110,run,held,short_line+column,0.11,2,18,gg,d
+23,3111,break,high,short_line+column,0.06,1,18,d,Transp.
+23,3112,break,high,short_line,0.39,7,18,Transp.,34506
+23,3113,break,high,rubric+short_line,0.28,5,18,34506,23.
+23,3114,break,high,rubric,0.17,3,18,23.,4.
+23,3117,break,high,rubric,1.0,18,18,von 146 rthl. 16gg,2.
+23,3120,break,high,rubric,1.22,22,18,es dem Einsturz droht.,3.
+23,3122,break,high,rubric,1.78,32,18,für die jura honorifica 150 rtlr,296.
+23,3124,break,held,short_line,0.11,2,18,16,das Guth Szetlewek ist also werth
+23,3126,run,held,short_line+column,0.28,5,18,34803,15
+23,3127,break,high,rubric+short_line,0.11,2,18,15,4.
+23,3131,break,high,rubric,1.83,33,18,Pächter gehört decourtirt werden.,1.
+23,3133,break,high,rubric,1.06,19,18,An Vieh Inventarium,a. 30 Kuhe a 10 rtr. = 300 rt
+23,3134,break,high,rubric,1.61,29,18,a. 30 Kuhe a 10 rtr. = 300 rt,b. 30 Stk. Jungvieh a 6 rtt. = 180 rt
+23,3135,break,high,rubric,2.06,37,18,b. 30 Stk. Jungvieh a 6 rtt. = 180 rt,c. 500 Stk. Schaafe a 1 1/3 rc. = 666 rt 16 gg
+23,3136,break,high,rubric,2.56,46,18,c. 500 Stk. Schaafe a 1 1/3 rc. = 666 rt 16 gg,d. zu Schweinen und Feder Vieh 25 rt
+23,3138,break,high,rubric,0.83,15,18,= 1171 rt 16 gg,2.
+23,3140,break,high,rubric,1.89,34,18,zu Propinations Gerathen = 1500 rt,3.
+23,3142,break,high,rubric,1.83,33,18,40 Stöcke Bienen a 4 rc. = 160 rt,4.
+23,3145,break,high,short_line,0.28,5,18,3631.,16
+23,3146,break,held,short_line,0.11,2,18,16,der jetzige Werth des Guts Szetlewek
+23,3155,break,high,rubric+page_end,0.67,12,18,Tittel Ottow,B.
+23,3158,run,held,short_line,0.1,3,29,von,dem im Koniner Kreise und im Kirchspiel
+23,3166,break,high,short_line+column,0.52,15,29,calculo richtig,Cretius.
+23,3168,break,high,page_end,0.28,8,29,Cretius.,C
+23,3169,run,held,short_line,0.04,1,27,C,Brandtweinbrennerey Anschlag
+23,3171,run,held,short_line,0.11,3,27,von,dem im Koniner Kreise und im Kirchspiel
+23,3181,break,high,page_end,0.3,8,27,Cretius.,D
+23,3182,run,held,short_line,0.05,1,22,D,Ziegeley Anschlag
+23,3184,run,held,short_line,0.14,3,22,von,dem im Koniner Kreise und im Kirch¬
+23,3190,break,high,short_line,0.45,10,22,Szetlewek.,Ist im rectificirten
+23,3195,break,high,page_end,0.36,8,22,Cretius.,und haben wir vorzuschriebene Taxe
+23,3204,break,held,short_line,0.37,10,27,May 180[?],Gerichtliche Ausfer[...]
+23,3209,break,held,short_line+column,0.44,12,27,Stempel 6 gg,Cop. 2 rtlr
+23,3210,break,held,short_line+column,0.41,11,27,Cop. 2 rtlr,Schlegel
+24,3218,run,held,short_line+column,0.41,9,22,in Sel[?],oder
+24,3219,run,held,short_line,0.18,4,22,oder,weg Vater bleib des Erbpacht Contracts
+25,3229,run,held,short_line+column,0.62,15,24,Dem Dorfe Stoki,Dem Dorfe Łowyń
+25,3230,run,held,short_line+column,0.62,15,24,Dem Dorfe Łowyń,Dem Dorfe Głażewo
+25,3231,run,held,short_line+column,0.71,17,24,Dem Dorfe Głażewo,Dem Dorfe Dormowo
+25,3232,run,held,short_line+column,0.71,17,24,Dem Dorfe Dormowo,Dem Dorfe Stołuń
+25,3233,run,held,short_line,0.67,16,24,Dem Dorfe Stołuń,Dem Dorfe Kuligowo
+25,3235,run,held,short_line,0.67,16,24,Dem Dorfe Szarcz,der Vogtey Zielomyśl und
+25,3237,run,held,short_line,0.21,5,24,Silna,"den Holländereyen, die Pomcher Holländerey und"
+25,3239,run,held,short_line,0.62,15,24,"der Heidemühle,",hat der regierende Fürst Herr Friedrich Ludwig zu Hohenlohe
+25,3251,break,high,short_line,0.47,30,64,Maerz 1802 eingetragen worden.,Darauf ſind eingetragen.
+25,3252,break,high,rubric+short_line,0.38,24,64,Darauf ſind eingetragen.,"I. Onera perpetua und Einschränkungen des Eigenthums, oder"
+25,3254,break,high,rubric+short_line,0.25,16,64,der Disposition.,"1., ist gelöscht"
+25,3255,break,high,rubric,0.25,16,64,"1., ist gelöscht","2., ist gelöscht."
+25,3256,break,high,rubric,0.27,17,64,"2., ist gelöscht.",3. 2470 Rthl 16 gg. 3 pfl. geschrieben zweytausend Vierhundert und Sie
+25,3270,break,high,rubric,0.95,61,64,vigore Decreti vom 17ten Januar 1803. eingetragen worden sin,"II. Gerichtlich versicherte Schulden, und andere Real Verbind¬"
+25,3272,break,high,rubric+short_line,0.17,11,64,lichkeiten.,"1., ist gelöscht"
+25,3273,break,high,rubric,0.25,16,64,"1., ist gelöscht","2. 48000 rtl. geschrieben Acht und Vierzig Tausend Thaler Courant, wel"
+25,3283,break,high,rubric+short_line,0.68,47,70,von 17ten Januar 1803. eingetragen worden sind.,"3., 2000 rtl. i. e. Zwey tausend Thaler in Courant, nach dem Münzfuße "
+25,3292,break,high,rubric+short_line,0.17,12,70,worden sind.,"4., 5000 rtl geschrieben Fünftausend Thaler preußisch Courant nach dem"
+25,3307,break,high,rubric,1.04,74,71,de praesentato d 2ten July 1803. vigore Decreti vom 11ten ej,"5., 5000 rth. geschrieben Fünftausend Reichsthaler Courant, nach den M"
+25,3321,break,high,rubric,0.86,61,71,tato d 2ten July 1803. vigore Decreti vom 11ten ej. m. et. a,"6., 5000 rtl. geschrieben Fünftausend Reichsthaler Courant nach dem Mü"
+25,3344,break,high,short_line+column,0.34,14,41,v Braunschweig,Bormann
+25,3345,break,high,short_line+column,0.17,7,41,Bormann,Fest.
+25,3346,break,high,short_line,0.12,5,41,Fest.,Hypotheken Schein für den
+25,3351,break,held,short_line,0.49,20,41,Pszczew oder Betsche,daß vorstehende Abschrift mit dem mir
+25,3356,break,high,salutation,1.12,46,41,habe ich hierdurch in fidem attestiren sollen.,So geschehen Breslau d. 8. Decembr. 1803
+25,3358,run,held,short_line+column,0.49,20,41,Johann Jacob Wünster,Königl. Hof und Criminal
+25,3360,run,held,short_line,0.68,28,41,auch Justiz Commissions-Rath,und Notarius publ. des Boes[?]
+26,3365,break,high,short_line,0.71,30,42,Posen[?] den 4ten August 1803.,"von Gottes Gnaden Friedrich Wilhelm, König"
+26,3367,break,high,short_line,0.43,18,42,von Preussen p. p.,Unsere Königliche Gnade und Freundschaft zuvor
+26,3385,run,held,rubric,1.1,46,42,Freundschaft wohl beigethan. Gegeben Posen den,11.ten July 1803.
+26,3388,break,high,short_line+column,0.26,11,42,Braudhan[?],An
+26,3389,run,held,short_line+column,0.05,2,42,An,den Herrn Fürsten zu Hohen¬
+26,3391,break,high,short_line,0.4,17,42,lohe-Ingelfingen.,Taxe und Siegel 1. rth: 2. gg
+26,3394,break,held,short_line+column,0.26,11,42,Mund: 2. gg,Insin 3 gg
+26,3395,break,held,short_line+column,0.24,10,42,Insin 3 gg,No. 6219.
+27,3400,run,held,short_line,0.49,17,35,König von Preußen,"Thun kund und fügen hiermit zu wißen, daß"
+27,3421,run,held,short_line,0.6,21,35,"gereicht worden sind,",als worüber Wir dem Herrn Fürsten
+27,3429,break,high,short_line+column,0.26,9,35,Steudener,Fest.
+27,3430,break,high,short_line,0.14,5,35,Fest.,Attest
+27,3431,run,held,short_line+column,0.17,6,35,Attest,für den regierenden
+27,3432,run,held,short_line+column,0.54,19,35,für den regierenden,Herrn Fürsten zu
+27,3433,run,held,short_line+column,0.46,16,35,Herrn Fürsten zu,Hohenlohe Ingelfingen
+27,3434,run,held,short_line+column,0.6,21,35,Hohenlohe Ingelfingen,aus den Betscher Grü[?]
+28,3443,break,high,short_line,0.32,8,25,Batkowo.,nebst dem im Brześćschen
+28,3469,break,high,short_line,0.28,7,25,worden.,darauf sind eingetragen
+28,3470,break,high,rubric,0.92,23,25,darauf sind eingetragen,I. Onera perpetua und Ein
+28,3473,break,high,rubric,1.04,26,25,thums oder der Disposition,"1., die dem Domkapitel zu Wrocła¬"
+28,3494,break,high,rubric+short_line,0.17,4,24,ist.,"2.) Das Landesherrliche Verbot, daß"
+28,3516,break,high,rubric+short_line,0.46,11,24,worden ist.,II. Gerichtlich versicherte Schul¬
+28,3539,break,high,short_line+column,0.19,5,26,Götze,Dieterichs.
+28,3540,break,high,short_line,0.42,11,26,Dieterichs.,Fest. John.
+28,3541,break,high,short_line,0.42,11,26,Fest. John.,(L. S.)
+28,3542,break,high,short_line+column,0.26,7,26,(L. S.),Hypotheken schein
+28,3543,run,held,short_line,0.64,17,26,Hypotheken schein,für den regierenden Herrn Fursten
+29,3550,break,held,short_line,0.11,5,48,Copia,Allerdurchlauchtigster Großmächtigster König!
+29,3552,break,high,short_line,0.65,31,48,allergnädigster König und Herr!,Euer Königlichen Majestät allerhöchstem Befehl vom 18
+29,3564,run,held,short_line+column,0.53,25,48,Euer Königlichen Majestät,allerunterthänigster
+29,3565,run,held,short_line+column,0.42,20,48,allerunterthänigster,Johann Wilhelm Glenk
+29,3566,run,held,short_line,0.42,20,48,Johann Wilhelm Glenk,fürstl. Hohenlohischen Bau u Oeconomi
+29,3568,break,high,short_line,0.11,5,48,Rath.,Breslau den 3ten Novbr
+30,3587,break,high,short_line+column,0.3,9,30,Meuser[?],An
+30,3588,run,held,short_line,0.07,2,30,An,den Fürstlich Hohenlohschen
+30,3591,run,held,short_line+column,0.3,9,30,Glenck zu,Breslau
+30,3592,break,held,short_line+column,0.23,7,30,Breslau,Tax 1. Rthl 2. gg
+30,3594,break,held,short_line+column,0.4,12,30,Stempel 6 gg,Cop. 8 gg
+30,3595,break,held,short_line+column,0.3,9,30,Cop. 8 gg,Bol[?] 3 gg
+30,3596,break,held,short_line+column,0.37,11,30,Bol[?] 3 gg,Schleyer
+30,3597,break,high,short_line+column,0.27,8,30,Schleyer,Nro 2092
+31,3602,break,high,short_line,0.34,14,42,Preussen p. p.,"Unsern gnädigen Gruß, Königl. Gnade und alles"
+31,3604,break,high,salutation,1.13,47,42,"was Wir sonst Liebes und Gutes vermögen, zuvor!","Hochgebohrner Fürst, freundlich geliebter Vetter"
+31,3619,break,high,short_line,0.12,5,42,1798.,Königl. Süd. Preussische Regierung
+31,3621,break,high,short_line+column,0.22,9,42,Meuser[?],An
+31,3622,run,held,short_line+column,0.05,2,42,An,des Fürsten v. Hohenlohe
+31,3624,break,high,rubric+short_line,0.27,11,42,Ingelfingen,H. A. R. Lucas
+31,3626,break,high,short_line+column,0.19,8,42,Schleyer,No. 3459
+32,3639,break,high,short_line+column,0.17,7,41,Schultz,An
+32,3640,run,held,short_line+column,0.05,2,41,An,Eine Königl. Hochlöbl. Ober¬
+32,3642,run,held,short_line+column,0.34,14,41,Amts Regierung,zu Breslau.
+33,3646,break,high,short_line,0.53,31,58,An die Königl. Kammer zu Posen.,Allerdurchl.
+33,3647,break,high,short_line,0.21,12,58,Allerdurchl.,Es sind schon Unterm xxx ten xxx vorigen Jahres hat schon eine
+33,3663,break,high,rubric,0.91,53,58,und Betschen zu bitten. Breslau den 10ten Febr. 1802.,E. K. M.
+33,3665,break,held,short_line+column,0.09,5,58,Glenk,An die Regierung.
+33,3666,break,high,short_line,0.29,17,58,An die Regierung.,Unterm xxx te xxx v. J. haben E. M. laut der anbeyfolgenden
+34,3693,break,high,short_line,0.54,28,52,Königl. Südpreuß. Regierung.,Götz.
+34,3694,break,high,short_line,0.1,5,52,Götz.,An
+34,3695,run,held,short_line+column,0.04,2,52,An,den Fürstl. Hohenlohschen Bau und
+34,3697,run,held,short_line+column,0.38,20,52,Oeconomie Rath Glenk,zu Breslau
+35,3710,break,high,short_line,0.58,24,42,Euch mit Gnaden gewogen.,Posen den 20 Februar 1802
+35,3713,break,high,short_line+column,0.24,10,42,Münling[?],An
+35,3714,run,held,short_line,0.05,2,42,An,den Fürstlich Hohenlohischen Bau
+36,3721,break,high,short_line,0.6,31,52,allergnädigster König und Herr!,Schon vor geraumer Zeit hat eine Königliche Regierung zu
+36,3736,break,held,short_line+column,0.27,14,52,ster Ehrfurcht,Euer Königlichen Majestät
+36,3737,break,held,short_line+column,0.49,25,52,Euer Königlichen Majestät,Betschen den 13ten Februar 1802.
+36,3738,break,high,short_line,0.62,32,52,Betschen den 13ten Februar 1802.,allerunterthänigster
+36,3739,break,held,short_line+column,0.39,20,52,allerunterthänigster,J. Wilhelm Glenk
+36,3740,run,held,short_line+column,0.31,16,52,J. Wilhelm Glenk,Fürstl. Hohenl. Bau und Oeco¬
+37,3754,break,high,short_line,0.12,5,40,1801.,Königliche Südpreußische Regierung.
+37,3756,break,high,short_line+column,0.1,4,40,Götz,An
+37,3757,run,held,short_line,0.05,2,40,An,den Fürstlich Hohenlohe Ingelfingenschen
+37,3760,break,high,short_line,0.12,5,40,John.,Taxa u S. 1 rt 2 gg.
+37,3761,break,high,short_line,0.5,20,40,Taxa u S. 1 rt 2 gg.,Stempel 6 gg
+37,3762,break,held,short_line+column,0.3,12,40,Stempel 6 gg,Mand. 2 gg
+37,3763,break,held,short_line+column,0.25,10,40,Mand. 2 gg,Ins. 3 gg
+38,3767,break,high,short_line,0.46,19,41,Wohlgebohrner Herr!,besonders hochzuehrender Herr Bau und Oeco¬
+38,3769,break,high,short_line,0.27,11,41,nomie-Rath!,Zur Resignation der Betscher Güter ist in dem
+38,3782,break,high,salutation,0.83,34,41,wir wohl einmahl zum Zweck kommen.,Ich habe die Ehre mit der vollkommensten
+38,3784,break,high,short_line,0.56,23,41,[H?]achachtung zu seyn.,Ew. Wohlgebohrnen
+38,3785,run,held,short_line+column,0.41,17,41,Ew. Wohlgebohrnen,ganz ergebenster Diener
+38,3786,break,held,short_line+column,0.56,23,41,ganz ergebenster Diener,Posen den 25. Januar
+38,3788,break,high,short_line+column,0.1,4,41,1802,Melzer.
+38,3789,break,high,short_line,0.17,7,41,Melzer.,Verte
+38,3791,break,held,page_end,0.12,5,41,Verte,In diesem Augenblick erhalte ich das Appellat
+39,3804,run,held,short_line+column,0.45,24,53,"Durchlauchtigster Fürst,",Gnädiger Herr!
+39,3805,break,high,short_line,0.26,14,53,Gnädiger Herr!,Eur Durchlaucht haben mittelst Cabinets Ordre vom 23ten dieses
+39,3815,break,high,short_line,0.47,25,53,Notificationen zu machen.,Ich freue mich ungemein dieser Beweis der Königlichen
+39,3825,break,high,short_line,0.17,9,53,zu Posen.,Nach den vorläufigen Nachrichten gewähren die so Güther
+39,3844,run,held,short_line+column,0.37,16,43,Euer Durchlaucht,gantz gehorsamster Diener
+39,3845,run,held,short_line+column,0.58,25,43,gantz gehorsamster Diener,Hoym
+39,3846,break,held,short_line+column,0.09,4,43,Hoym,Breslau den 30ten Julÿ
+39,3848,break,high,short_line,0.12,5,43,1796.,"[P?]ohatum concordat Originali, hoc attestor"
+39,3850,break,high,short_line+column,0.19,8,43,in fidem,Sonnabend Auditeur
+39,3851,run,held,short_line+column,0.42,18,43,Sonnabend Auditeur,des Fürst zu Hohenlohsches
+40,3856,break,high,short_line,0.1,6,60,Copia.,Friedrich Wilhelm etc. Unser
+40,3944,break,high,rubric,0.85,42,50,det. Sinde G. Breslau den 20. Octbr. 1797.,A. S. B.
+40,3947,run,held,short_line+column,0.04,2,50,An,die p Kammer zu Posen
+41,3952,run,held,short_line+column,0.34,21,61,Durchlauchtiger Fürst,Gnädiger Herr!
+41,3953,break,high,short_line,0.23,14,61,Gnädiger Herr!,"Es ist mir außerordentlich lieb, daß Eure Durchlaucht mich durch"
+41,3957,break,held,short_line,0.21,13,61,geruhet haben,"Blosse Mißverstand liegt zum Grunde, wenn dieselben"
+41,3971,run,held,rubric,1.0,61,61,Euer Durchlaucht können Sich daher auch und zwar von Johanni,"d. J. an, lediglich, alles alleiniger Herr, und Eigenthümer seine"
+41,4002,run,held,short_line,0.02,1,60,B,nung des Fisci bewirthschaften könnten. Verschiedene dieser
+41,4047,break,high,short_line,0.57,34,60,"zu legen, in welcher ich ersterbe.",Euer Durchlaucht
+41,4048,break,held,short_line+column,0.27,16,60,Euer Durchlaucht,Breslau den 3ten Octobr.
+41,4049,break,high,short_line,0.4,24,60,Breslau den 3ten Octobr.,1797.
+41,4050,break,high,short_line,0.08,5,60,1797.,gantz gehorsamster Diener
+41,4051,run,held,short_line+column,0.42,25,60,gantz gehorsamster Diener,Hoym
+41,4053,break,held,page_end,0.07,4,60,Hoym,Daß vorausstehende Abschrift mit dem Original durchge¬
+41,4057,break,high,short_line,0.37,11,30,attestiret.,Breslau den 12ten Januar 1801.
+42,4065,break,high,short_line,0.28,13,46,Preußen p. p.,"Unsere gnädigen Gruß und geneigten Willen zuvor, Hoch¬"
+42,4075,break,high,short_line,0.43,20,46,den 28. Decbr: 1798.,Königl. Süd preußl. Regierung.
+42,4076,break,high,short_line,0.65,30,46,Königl. Süd preußl. Regierung.,Meuser[?]
+42,4077,break,high,short_line+column,0.2,9,46,Meuser[?],An
+42,4078,run,held,short_line+column,0.04,2,46,An,des Fürsten von Hohen¬
+42,4080,run,held,short_line+column,0.35,16,46,lohe Ingelfingen,p. p. Lucas
+43,4084,break,held,short_line+column,0.11,5,47,Copia,pr. d. 9ten Januar 1799
+43,4104,break,high,short_line+column,0.23,11,47,Danckelmann,Enge[r?]
+43,4105,break,high,short_line+column,0.17,8,47,Enge[r?],An
+43,4106,run,held,short_line+column,0.04,2,47,An,des Fürsten von Hohenlohe
+44,4113,break,high,short_line,0.4,17,42,von Preußen p. p.,Unsere Königliche Gnade und geneigten Willen
+44,4117,run,held,rubric,1.05,44,42,Fisci contra von Prusimski unterm 31. Januar,c. eingereichtes Gesuch wegen eine beglaubten
+44,4133,break,high,short_line,0.12,5,42,1799.,Danckelmann[?]
+44,4134,break,high,short_line+column,0.33,14,42,Danckelmann[?],An
+44,4135,run,held,short_line+column,0.05,2,42,An,des Fürsten von Hohenlohe
+44,4137,break,high,short_line+column,0.45,19,42,Ingelfingen Liebden,Enge[r?]

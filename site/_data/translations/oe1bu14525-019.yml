@@ -1,0 +1,63 @@
+status: draft
+segments:
+- page: 1
+  en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia etc.
+
+
+    Our gracious greeting and Royal favour beforehand.
+
+
+    Most Serene Prince, kindly beloved cousin! Whereas, according to the verification made to the government
+    here by Our War and Domains Chamber here, the formerly ecclesiastical estates Kopojno, Drzewce, Swięcia
+    and Zagórów, situated in the district of Konin, have been granted to Your Lordship under noble tenure
+    and have already been handed over in kind: We hereby require Your Lordship, within 4 weeks, duly to
+    give proof of the proprietary possession of these estates and to take out a term for the verification
+    of the title of possession in your name. And We remain well disposed towards you with Royal favour
+    and gracious goodwill. Given at Our Government at Kalisz, the 29th of July 1800. Reck.
+
+
+    To the Lordship of the reigning Prince of Hohenlohe-Ingelfingen at Breslau
+
+
+    Schleyer[illegible]'
+  names:
+  - de: Friedrich Wilhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Preußen
+    en: Prussia
+    kind: place
+  - de: Koniner Kreise
+    en: district of Konin
+    kind: place
+  - de: Kopojno
+    en: Kopojno
+    kind: place
+  - de: Drzewce
+    en: Drzewce
+    kind: place
+  - de: Swięcia
+    en: Swięcia
+    kind: place
+  - de: Zagórów
+    en: Zagórów
+    kind: place
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Reck
+    en: Reck
+    kind: person
+  - de: Fürsten zu Hohenlohe Ingelfingen
+    en: Prince of Hohenlohe-Ingelfingen
+    kind: person
+  - de: Breslau
+    en: Breslau
+    kind: place
+  - de: Schleyer
+    en: Schleyer
+    kind: person
+  numbers:
+  - '4'
+  - '29'
+  - '1800'

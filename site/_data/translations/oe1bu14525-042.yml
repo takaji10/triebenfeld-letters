@@ -1,0 +1,53 @@
+status: draft
+segments:
+- page: 1
+  en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia etc. etc.
+
+
+    Our gracious greeting and favourable goodwill first of all, High-born Prince, especially Dear and
+    Faithful One. We hereby call upon Your Lordship, for the full rectification of the title of possession
+    (Titulus possessionis) of the estate of Szetlewek, to submit here within 4 weeks a certified copy
+    of the Anton von Prusimski confiscation judgment, together with an attestation of its having force
+    of law; and we remain well disposed to Your Lordship with grace and favourable goodwill. Given at
+    Kalisz, the 28th December 1798.
+
+
+    Royal South Prussian Government.
+
+
+    Meuser[uncertain: Meuser]
+
+
+    To the Prince of Hohenlohe-Ingelfingen etc. etc. Lucas'
+  names:
+  - de: Friedrich Wilhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Preußen
+    en: Prussia
+    kind: place
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Anton v. Prusimskischen
+    en: Anton von Prusimski
+    kind: person
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Süd preußl.
+    en: South Prussian
+    kind: place
+  - de: Meuser[?]
+    en: Meuser
+    kind: person
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: place
+  - de: Lucas
+    en: Lucas
+    kind: person
+  numbers:
+  - '4'
+  - '28'
+  - '1798'
