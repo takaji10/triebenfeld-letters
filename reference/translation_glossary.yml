@@ -458,7 +458,7 @@ terms:
 # SHOULD be translated - "Wien" becomes Vienna - and the point of listing them
 # is consistency, so one letter does not say Vienna where the next says Wien.
 #
-# Village and estate names are deliberately absent: Zagorowo, Trąbczyn, Kontop,
+# Village and estate names are deliberately absent: Zagórów, Trąbczyn, Kontop,
 # Blizanow, Betsche and the rest have no English form and must stand exactly as
 # transcribed, because they are also the least reliable part of the
 # transcription and a silently improved one destroys the evidence.
@@ -1101,6 +1101,15 @@ forbidden_renders:
     note: >-
       not an English word. A vidimirte Abschrift is a certified copy: a copy an
       authority has compared against the original and attested as agreeing.
+  - render: 'hypothec'
+    note: >-
+      the editor's ruling, 2026-09-17: say mortgage, which a reader already
+      knows. A Hypothequen-Schein is a mortgage certificate and the
+      Hypothequenbuch is the mortgage book. The termbase has rendered
+      Hypothe(qu|k)* as "mortgage" all along; nothing banned the alternative,
+      so "hypothec certificate" reached five summaries and one translation
+      unchallenged. Catches hypothecate and hypothecation too, which are the
+      same conveyancer's register.
   - render: 'zu Hohenlohe'
     note: >-
       territorial particle, so it is translated: of Hohenlohe-Ingelfingen,
@@ -1115,7 +1124,7 @@ forbidden_renders:
     when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|\bcastane\w*'
     note: 'hypocaustum misread. The table stands in the heated room, not on a chestnut.'
   - render: 'Lagurowo'
-    note: 'a Z/L letterform error for Zagorowo; not a place.'
+    note: 'a Z/L letterform error for Zagórów (Zagorowo); not a place.'
   - render: 'Castle Court'
     note: 'sąd grodzki is the municipal court.'
   - render: "Captain's Court"

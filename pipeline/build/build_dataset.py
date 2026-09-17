@@ -10,6 +10,8 @@ can scope a question against before opening anything:
     corpus/index/documents.json     the manifest - one compact row per document
     corpus/index/people.json        entity -> every mention, with its location
     corpus/index/places.json        place  -> the documents written there
+    corpus/index/place_mentions.json place -> every document that NAMES it
+    corpus/index/estates.json       estate -> the documents ABOUT it
     corpus/index/dates.json         year and month -> uids
     corpus/index/relations.json     document -> document, with the kind of link
     corpus/index/uncertainties.json every surviving marker, with its context
@@ -30,7 +32,8 @@ _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
 
 import io, sys, os, json, re
 from collections import defaultdict, Counter
-from entities import load_people, load_places, mentions
+from entities import (load_people, load_places, mentions,
+                      place_authority, place_mentions)
 import unitlib
 import yaml
 
@@ -90,19 +93,29 @@ def main():
         recs = json.load(f)
     people = load_people()
     canon = load_places()
+    places = place_authority()
     trans = load_translations()
     summaries = load_summaries()
     print(f'{len(recs)} documents, {len(people)} people in the authority')
 
     manifest, people_idx, place_idx = [], defaultdict(list), defaultdict(list)
+    named_idx = defaultdict(list)
+    estate_idx = defaultdict(list)
     date_idx, rel_idx, unc_idx = defaultdict(list), [], []
-    n_mentions = 0
+    n_mentions = n_named = 0
     _REPO_OF = {u.slug: (u.get('repository') or '') for u in unitlib.load_units()}
 
     for r in recs:
         uid = r['uid']
         ms = mentions(r, people)
         n_mentions += len(ms)
+        # Where a document was WRITTEN and what it NAMES are two questions, and
+        # for most of this project the second is the one worth asking. A grant
+        # of the Kamionna estates issued from Berlin is about Kamionna; the
+        # dateline says Berlin and nothing else. Kept in separate indexes
+        # because no single number for such a place is true on its own.
+        pms = place_mentions(r, places)
+        n_named += len(pms)
         place = canon.get(r['place'], r['place']) or 'Unknown'
 
         # --- the document, whole -------------------------------------------
@@ -140,6 +153,7 @@ def main():
         doc['mentions'] = ms
         doc['mentions_english'] = en_mentions
         doc['place_canonical'] = place
+        doc['place_mentions'] = pms
         doc['translation_status'] = tr.get('status') or 'untranslated'
         doc['translation'] = segs
         doc['text_english'] = en
@@ -182,6 +196,9 @@ def main():
                        'image': p.get('scan', '')} for p in (r.get('pages') or [])],
             'uncertainty_count': len(marks), 'has_damage': bool(r.get('has_damage')),
             'mentions': len({m['entity'] for m in ms}),
+            'places_named': len({m['entity'] for m in pms}),
+            # Authored: what the document is about, not what it mentions.
+            'estates': r.get('estates') or [],
             'translation_status': doc['translation_status'],
             'has_summary': bool(sum_en),
             'title': f'{(r.get("doc_type") or "document").replace("_", " ")} {r["letter_id"]}',
@@ -214,6 +231,14 @@ def main():
                 'line': m['line'], 'doc_line': m.get('doc_line'),
             })
         place_idx[place].append(uid)
+        for m in pms:
+            named_idx[m['entity']].append({
+                'uid': uid, 'surface': m['surface'], 'page': m['page'],
+                'page_id': m['page_id'], 'scan': m.get('scan', ''),
+                'line': m['line'], 'doc_line': m.get('doc_line'),
+            })
+        for slug in (r.get('estates') or []):
+            estate_idx[slug].append(uid)
         if r.get('date_iso'):
             date_idx[r['date_iso'][:4]].append(uid)
         for rel in (r.get('relations') or []):
@@ -236,6 +261,7 @@ def main():
                     })
 
     disp = {slug: d for slug, d, _ in people}
+    pdisp = {slug: d for slug, d, _ in places}
     write_json(os.path.join(INDEX, 'documents.json'), manifest)
     write_json(os.path.join(INDEX, 'people.json'),
                [{'entity': k, 'display': disp.get(k, k), 'count': len(v),
@@ -245,6 +271,16 @@ def main():
                [{'place': k, 'count': len(v), 'documents': v}
                 for k, v in sorted(place_idx.items(),
                                    key=lambda kv: (kv[0] == 'Unknown', -len(kv[1])))])
+    write_json(os.path.join(INDEX, 'place_mentions.json'),
+               [{'entity': k, 'display': pdisp.get(k, k), 'count': len(v),
+                 'documents': sorted({m['uid'] for m in v}), 'mentions': v}
+                for k, v in sorted(named_idx.items(), key=lambda kv: -len(kv[1]))])
+    # The third question about a place, and the only one a reading settles:
+    # which estate the document is FOR. Kept apart from both the others.
+    write_json(os.path.join(INDEX, 'estates.json'),
+               [{'entity': k, 'display': pdisp.get(k, k), 'count': len(v),
+                 'documents': sorted(v)}
+                for k, v in sorted(estate_idx.items(), key=lambda kv: -len(kv[1]))])
     write_json(os.path.join(INDEX, 'dates.json'),
                [{'year': k, 'count': len(v), 'documents': sorted(v)}
                 for k, v in sorted(date_idx.items())])
@@ -258,7 +294,10 @@ def main():
     print(f'  documents/  {len(manifest)} files')
     print(f'  text/       {len(manifest)} files')
     print(f'  people      {len(people_idx)} entities, {n_mentions} mentions')
-    print(f'  places      {len(place_idx)}')
+    print(f'  places      {len(place_idx)} datelines, '
+          f'{len(named_idx)} named, {n_named} mentions')
+    print(f'  estates     {len(estate_idx)} in focus across '
+          f'{len({u for v in estate_idx.values() for u in v})} documents')
     print(f'  dates       {len(date_idx)} years')
     print(f'  relations   {len(rel_idx)}')
     print(f'  uncertainty {b} markers')

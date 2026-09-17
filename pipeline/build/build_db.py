@@ -131,6 +131,16 @@ DUP_OF          = _R['DUP_OF']
 SPLIT_NOTE      = _R['SPLIT_NOTE']
 DAMAGE_LETTERS  = _R['DAMAGE_LETTERS']
 RELATIONS       = _R['RELATIONS']
+ESTATES         = _R['ESTATES']
+# Checked against the place authority for the same reason era and theme are: a
+# typo'd slug raises nothing and simply leaves the document out of the estate it
+# belongs to, which is the kind of gap nobody finds by looking.
+_PLACE_SLUGS = set(unitlib.load_places_authority().get('places') or {})
+for _lid, _es in ESTATES.items():
+    for _e in (_es or []):
+        if _e not in _PLACE_SLUGS:
+            sys.exit(f'{UNIT.slug} document {_lid}: estate {_e!r} is not a slug in '
+                     f'reference/places.yml')
 # Readings too corrupt to be a place. Blanked and sent to the review list.
 
 # Your rulings. These win over anything derived.
@@ -416,6 +426,8 @@ for L in nums:
         # Typed links to other documents in this holding. Editorial assertions,
         # each recorded in rulings.yml with the evidence for it.
         relations=RELATIONS.get(L, []),
+        # What the document is ABOUT, as against where it was written.
+        estates=ESTATES.get(L, []),
         is_missing=int(missing),
         n_lines=len(body), n_pages=len(pages),
         text=text, text_reading=text_reading, pages=pages))

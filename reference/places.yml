@@ -106,23 +106,23 @@ places:
     distinct_from: [lukom]
 
   zagorowo:
-    display: "Zagorowo"
+    # The register gives Zagórów / Zagórowo / Zagurowo. The edition printed
+    # Zagorowo, the corpus dateline form, until the editor ruled on 2026-09-15
+    # that it prints Zagórów, across every holding.
+    display: "Zagórów"
     kind: town
-    match: 'Zag[oó]row\w*|Zagurow\w*'
+    match: 'Zag[oó]r[oó]w\w*|Zagurow\w*'
     tier: "Book-confirmed"
     variants:
+      - "Zagorowo"
+      - "Zagorow"
+      - "Zagórowo"
       - "Zagowo"
       - {form: "Jogorowo"}
-      - {form: "Zagórów", canon: false}   # more correct than the form this
-                                          # edition prints; see open_questions
       - {form: "Zagurowo"}
       - {form: "Lagurowo", match: false,
          seen_in: ["a Z/L letterform error; see the register"]}
     open_questions:
-      - "The register gives this place as Zagórów / Zagórowo / Zagurowo, with
-         Polish diacritics preserved. The corpus dateline reads Zagorowo and that
-         is what this edition currently prints; whether display should become
-         Zagórów is an editorial call left to the editor."
       - "Lagurowo is a Z/L letterform misreading, never a spelling of this place.
          Recorded with match: false so it is documented but not folded in, and
          listed in the glossary's forbidden_renders."
@@ -133,7 +133,7 @@ places:
     kind: village
     match: 'Swi[ąę]tnik\w*'
     tier: ""
-    variants: ["Swiątniker", "Swiętnik"]
+    variants: ["Swiątniker", "Swiętnik", "Swiętniki"]
 
   szetlewek:
     display: "Szetlewek"
@@ -172,21 +172,32 @@ places:
     variants: ["Witow", "Wittow", "Witttow", "Wyttow", "Witowes"]
 
   kamionno:
-    display: "Kamionno"
+    # The register prints Kamionno. The editor ruled on 2026-09-15 that the
+    # edition prints Kamionna, across every holding, departing from the register.
+    display: "Kamionna"
     kind: estate
     # `Kamionn?o` demanded a final o and the corpus never writes one: it has
     # Kamionne 14 times and Kamionna 3. Both are inflections of this one
     # toponym, so the ending is not the identifying part of it.
-    match: 'Kamionn\w*'
+    #
+    # Kaemen, Keemen and Kahmen are its German name, folded in on 2026-09-15.
+    # The documents say so themselves: the Kolno certificate in Oe 1 Bü 14525
+    # (document 12) describes 'der Stadt Kamionna oder Kaemen', and the 1796
+    # donation deed (document 1) 'Kamiono oder Keemen'.
+    # Not `Ka[e]?h?men`, which also takes the bare word Kamen.
+    match: 'Kamionn\w*|Kamiono\b|Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b'
     tier: "Book-confirmed"
-    variants: [{form: "Kamień", match: false}]
-    open_questions:
-      - "Kaemen, 55 occurrences plus 16 adjectival Kaemener, has no entry in
-         this file at all, and document 23 of Oe 1 Bü 14526 writes the pair
-         itself: the estates of Kolno and Kaemen, the second also called
-         Kamionna. If that is this place under its German name it wants folding
-         in here; if it is a separate holding it wants its own entry and a
-         distinct_from. Either way 71 occurrences are currently unindexed."
+    variants:
+      - "Kamionno"
+      - "Kamionne"
+      - "Kamiono"
+      - "Kaemen"
+      - "Kaemener"
+      - "Keemen"
+      - "Kahmen"
+      - "Kaehmen"
+      - {form: "Klemen", seen_in: ["oe1bu14525-3", "oe1bu14525-4"]}
+      - {form: "Kamień", match: false}
 
   kolno:
     display: "Kolno"
@@ -354,9 +365,20 @@ places:
   betsche:
     display: "Betsche"
     kind: town
-    match: 'Betsche\w*'
+    match: 'Betsch\w*|Psz?czew\w*'
     tier: ""
-    variants: ["Betsch"]
+    variants:
+      - "Betsch"
+      - "Betschen"
+      - "Betscher"
+      # Pszczew is this place's Polish name, and the deeds write the pair
+      # together: 'Herrschaft Pszczew oder Betsche'. The editor ruled on
+      # 2026-09-15 that the edition keeps Betsche and says in the era's
+      # introduction that the two are one place. So the Polish form is FOUND as
+      # this place but never rewritten to Betsche in the English, which would
+      # turn the deeds' pair into 'Betsche or Betsche'.
+      - {form: "Pszczew", canon: false}
+      - {form: "Psczew", canon: false}
 
   oehringen:
     display: "Öhringen"
@@ -444,20 +466,130 @@ places:
       - {form: "Kontop[?]", match: false}
       - {form: "Contop"}
       - {form: "Kontip"}
+    distinct_from: [konty]
+    open_questions:
+      - "A DIFFERENT village from Konty, which belongs to the Wienietz
+         appurtenances in 14525. This is the estate von Triebenfeld is styled
+         hereditary lord of. Never match this pair on the `Kont` stem."
 
   glazewo:
-    display: "Głazewo"
+    # Głazewo until the editor ruled on 2026-09-15 that the edition prints
+    # Głażewo, across every holding.
+    display: "Głażewo"
     kind: village
-    match: 'G[lł][oa][zs]ewo\w*|G[lł]azewi\w*'
+    match: 'G[lł][oa][zsż]+ewo\w*|G[lł]a[zż]ew(?:i|er|skie)\w*'
     tier: ""
     variants:
-      - "Gloszewo"
-      - "Glowewo"
+      - "Głazewer"
+      - "Głazewskie"
+      - "Głazewo"
       - "Glazewo"
+      - "Gloszewo"
+      - "Glaszewo"
+      - "Glożewo"
+      - "Glowewo"
       - "Głazewie"
     open_questions:
-      - "One village in the Betsche key, spelled four ways across the German and
-         the Polish of the same document group."
+      - "One village in the Betsche (Pszczew) key, spelled many ways across the
+         German and the Polish of the same document group."
+
+  # --- the villages of the Betsche (Pszczew) estate ------------------------
+  # Spellings ruled by the editor on 2026-09-15, first met in Oe 1 Bü 14525.
+  swiechocin:
+    display: "Świechocin"
+    kind: village
+    match: '[ŚS]wiechoc[iy]n\w*|Swiechozin\w*|Swie?g[ao]sz[iy]n\w*|Swiegoschin\w*|S(?:ch)?wie?cho(?:d[iec]?)?[cz]+[iy]n\w*'
+    tier: ""
+    variants: ["Swiechocin", "Swiechozin", "Swiegaszin", "Swiegaszyn",
+               "Swiegoszin", "Swigoszin", "Swigaszin", "Swiegoschin",
+               # the German forms of Oe 1 Bü 14526
+               "Schwichodizyn", "Schwichodczyn", "Schwichodzin", "Schwiechodezin",
+               "Swiechodezin", "Schwiechodzyn", "Schwiechoczyn"]
+    distinct_from: [swiecia]
+    open_questions:
+      - "Kept apart from Swięcia (which now also carries the Swięcin spelling):
+         this is a village of the Betsche lordship, Swięcia an estate of the
+         Konin district. The long `match` here already absorbs the Schwiechod-
+         forms, so the two may never be matched on a shared stem."
+
+  stoki:
+    display: "Stoki"
+    kind: village
+    match: 'Stoc?ki\b'
+    tier: ""
+    variants: ["Stocki"]
+
+  lowyn:
+    display: "Łowyń"
+    kind: village
+    match: '[ŁL]owy[nń]\b|Lowin\w*|Lewiner\b'
+    tier: ""
+    variants: ["Lowin", "Lowino", "Lowiner", "Lewiner"]
+
+  dormowo:
+    display: "Dormowo"
+    kind: village
+    match: 'D[oiu]e?rmowo\w*'
+    tier: ""
+    variants: ["Durmowo", "Diermowo"]
+
+  stolun:
+    display: "Stołuń"
+    kind: village
+    # Not `Stall?uh?n\w*`, which also takes Stallungen (stables).
+    match: 'Sto[lł]u[nń]\w*|Stalun\b|Stall?uhn\w*|Stalien\b'
+    tier: ""
+    variants: ["Stolun", "Stalun", "Stalien", "Staluhn", "Stalluhn"]
+
+  kuligowo:
+    display: "Kuligowo"
+    kind: village
+    match: 'Kul+igo\w*|Kalligo\b'
+    tier: ""
+    variants: ["Kuligow", "Kulligowo", "Kalligo"]
+
+  szarcz:
+    display: "Szarcz"
+    kind: village
+    match: 'Szarcz\w*|Sc[au]rczig\w*|S(?:ch|z)artzig\w*'
+    tier: ""
+    variants: ["Scarczig", "Scurczig", "Schartzig", "Szartzig"]
+
+  zielomysl:
+    display: "Zielomyśl"
+    kind: village
+    match: 'Zielomy[sś]l\w*|Santom[iy]?[sś][lłt]?\w*'
+    tier: ""
+    variants:
+      - "Zielomysl"
+      - "Santomysl"
+      - "Santomisl"
+      - {form: "Santomist", seen_in: ["oe1bu9454-179"]}
+    open_questions:
+      - "The royal grants of 1797 write the village Santomysl, the hypothec
+         certificates Zielomysl; both are 'Vogtey ... und Silna'."
+      - "Santomist in letter 179 of Oe 1 Bü 9454 is taken to be this place: the
+         letter calls it an appurtenance of the lordship, which is what the
+         grants make the Vogtey of the Betsche key. Probable, not certain."
+
+  silna:
+    display: "Silna"
+    kind: village
+    match: 'Silna\b'
+    tier: ""
+    variants: []
+
+  # --- the Kamionna and Kolno estate --------------------------------------
+  popowo:
+    display: "Popowo"
+    kind: village
+    match: 'Popowo\w*'
+    tier: ""
+    variants: []
+    open_questions:
+      - "A common village name. This entry is the Popowo bordering Kolno, named
+         in the valuation of Kamionna and Kolno (oe1bu14525-13). A Popowo in
+         another holding may be a different place and would want its own entry."
 
   dolsk:
     display: "Dolsk"
@@ -507,9 +639,157 @@ places:
   bialobrzeg:
     display: "Białobrzeg"
     kind: village
-    match: 'Bia[lł]a?[ -]?brz[ie]g\w*'
+    # Was 'Bia[lł]a?[ -]?brz[ie]g\w*' - the 'a?' before the optional space
+    # matched a variant spelling ("Biala Brzig") but not the name itself:
+    # Białobrzeg has an 'o' there (biały + brzeg, white + shore), which the
+    # pattern could not accept even as zero-width. It matched nothing in any
+    # corpus; the name occurs twice in 14526.
+    match: 'Bia[lł][ao]?[ -]?brz[ie]g\w*'
     tier: ""
     variants: ["Biala Brzig"]
+
+  # --- the granted estates, 14525 -----------------------------------------
+  # Added 2026-09-17. These are the villages and estates the South Prussian
+  # grants actually convey, and not one of them was in the authority: they are
+  # named in the body of a deed and never stand in a dateline, so under the
+  # old "place = where it was written" reading they were invisible. Every
+  # pattern below is written against the forms observed in corpus/text, and
+  # deliberately not on a stem - see the Wienietz and Konty notes.
+
+  wienietz:
+    display: "Wienietz"
+    kind: estate
+    # NOT a stem. `Wien\w*` or `Win\w*` would take Winter, Winterung and
+    # Winterjahreszeit, which are ordinary German and occur in these files.
+    # The exact form plus the observed misspellings is the whole of it.
+    match: 'Wienietz\w*'
+    tier: ""
+    variants: ["Wienitz", "Winietz", "Winieces"]
+    distinct_from: [wieniec]
+    open_questions:
+      - "A DIFFERENT place from Wieniec. Wienietz heads its own group of
+         appurtenances - 'bey Wienietz, Konty, Szedlemin, Botkowo und Karczyn' -
+         while Wieniec appears only beside Wolica among the Cujavian estates.
+         Do not fold either into the other."
+
+  wieniec:
+    display: "Wieniec"
+    kind: estate
+    match: 'Wieniecz?\w*'
+    tier: ""
+    variants: []
+    distinct_from: [wienietz]
+    open_questions:
+      - "Paired with Wolica every time it occurs, and document 41 has the Bishop
+         of Cujavia vacating 'die Güther Wieniec und Wolica' - a Cujavian
+         holding, not one of the Betsche appurtenances."
+
+  drzewce:
+    display: "Drzewce"
+    kind: estate
+    match: 'Drzewce\w*'
+    tier: ""
+    variants: ["Drzewitz"]
+
+  swiecia:
+    display: "Swięcia"
+    kind: estate
+    # Swięcin folded in here on the editor's ruling, 2026-09-17: one place, two
+    # spellings. Swięcia is the form the edition prints - docs/name_decisions.md
+    # had already settled that, recording `Swięcier` as its legitimate
+    # inflection. Still NOT matched on a stem: Świechocin is a third name in
+    # this group and stays its own entity.
+    match: 'Swi[eę]ci[aen]\w*'
+    tier: ""
+    variants: ["Swięcer", "Swięcin"]
+    distinct_from: [swiechocin]
+    open_questions:
+      - "Document 7 uses both spellings in one text - the village of Swięcin
+         among the Betsche appurtenances, and a mortgage certificate for
+         Swięcia with the farm Broniki - which is the one piece of evidence
+         that pointed to two places. Recorded here because the merge was an
+         editorial ruling and this is what it overrode."
+
+  gradzyn:
+    display: "Grądzyń"
+    kind: village
+    match: 'Gr[ąa]dz[iy][nń]\w*'
+    tier: ""
+    variants: []
+
+  brzyce:
+    display: "Brzyce"
+    kind: village
+    match: 'Brzyc\w*'
+    tier: ""
+    variants: []
+
+  osiny:
+    display: "Osiny"
+    kind: village
+    match: 'Osin\w*'
+    tier: ""
+    variants: []
+
+  batkowo:
+    display: "Batkowo"
+    kind: village
+    match: 'B[ao]tkow\w*'
+    tier: ""
+    variants: []
+    open_questions:
+      - "Batkowo and Botkowo stand in the same slot of the same list of Wienietz
+         appurtenances, so they are one place. Document 24, a badly damaged
+         note, is the only document whose sole named place is this one."
+
+  konty:
+    display: "Konty"
+    kind: village
+    # NOT `Kont\w*`: that takes Kontop - a different village, and von
+    # Triebenfeld's own seat - along with Kontrakt and Kontract.
+    match: 'Konty\w*'
+    tier: ""
+    variants: []
+    distinct_from: [kontop]
+    open_questions:
+      - "A DIFFERENT village from Kontop. Konty belongs to the Wienietz group of
+         appurtenances in 14525; Kontop is the estate von Triebenfeld is styled
+         hereditary lord of, 'Erbherr auf Schweinerne und Kontop'."
+
+  szedlemin:
+    display: "Szedlemin"
+    kind: village
+    match: 'Sz[ei]dlemin\w*'
+    tier: ""
+    variants: []
+
+  karczyn:
+    display: "Karczyn"
+    kind: village
+    match: 'Karcz[iy]n\w*'
+    tier: ""
+    variants: []
+
+  wolica:
+    display: "Wolica"
+    kind: estate
+    match: 'Wolic\w*'
+    tier: ""
+    variants: []
+
+  tarmowo:
+    display: "Tarmowo"
+    kind: village
+    match: 'Tarmow\w*'
+    tier: ""
+    variants: []
+
+  skokum:
+    display: "Skokum"
+    kind: village
+    match: 'Skokum\w*'
+    tier: ""
+    variants: []
 
 # Fragments that look like a place in a dateline but are not one.
 reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn",

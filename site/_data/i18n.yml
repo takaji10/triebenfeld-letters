@@ -102,6 +102,15 @@ en:
   rel_confirms: Confirms
   rel_refuses: Refuses consent to
   rel_supersedes: Supersedes
+  rel_supplements: Adds appurtenances to
+  rel_registers: Registers title under
+  rel_answers: Answers
+  estates_label: Estates in focus
+  estates_h2: Estates in focus
+  estates_lede: >-
+    Which estate a document is FOR, which no count can decide: a grant names
+    the chanceries that handled it and every appurtenance village in its
+    schedule. These are read from the documents and recorded by hand.
   nav_archival: Archival order
   nav_chrono: Chronological
   view_diplomatic: Transcription
@@ -136,6 +145,12 @@ en:
   doc_lines: lines
   desc_en_only: This holding’s description has not been translated yet.
   people_named: People named
+  places_named: Places named
+  places_named_h2: Places named in the documents
+  places_named_lede: >-
+    Where a document was written and what it names are different questions. A
+    grant of the Kamionna estates issued from Berlin is about Kamionna; its
+    dateline says only Berlin. These are the places the documents name.
   duplicate: Duplicate
   part_of: Part of
   editorial_note: Editorial decisions are set out in
@@ -321,6 +336,16 @@ de:
   rel_confirms: Bestätigt
   rel_refuses: Verweigert die Genehmigung zu
   rel_supersedes: Ersetzt
+  rel_supplements: Ergänzt die Verleihung
+  rel_registers: Trägt den Besitztitel ein aufgrund von
+  rel_answers: Beantwortet
+  estates_label: Betroffene Güter
+  estates_h2: Betroffene Güter
+  estates_lede: >-
+    Um welches Gut es in einem Dokument geht, lässt sich nicht auszählen: eine
+    Verleihung nennt die beteiligten Kanzleien und jedes Pertinenzdorf ihres
+    Verzeichnisses. Diese Angaben sind den Dokumenten entnommen und von Hand
+    festgehalten.
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
   view_diplomatic: Transkription
@@ -355,6 +380,13 @@ de:
   doc_lines: Zeilen
   desc_en_only: Die Beschreibung dieses Bestandes liegt noch nicht auf Deutsch vor.
   people_named: Genannte Personen
+  places_named: Genannte Orte
+  places_named_h2: In den Dokumenten genannte Orte
+  places_named_lede: >-
+    Wo ein Dokument geschrieben wurde und welche Orte es nennt, sind zwei
+    verschiedene Fragen. Eine in Berlin ausgefertigte Verleihung der Güter
+    Kamionna handelt von Kamionna; der Ausstellungsort nennt nur Berlin. Dies
+    sind die Orte, die in den Dokumenten genannt werden.
   duplicate: Doppelstück
   part_of: Teil von
   editorial_note: Die editorischen Entscheidungen sind dargelegt in

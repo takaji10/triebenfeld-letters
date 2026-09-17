@@ -463,6 +463,18 @@ people:
     match: "Przespolewski"
     tier: "Context-inferred"
     variants: []
+  radzinski:
+    display: "Ignatz von Radzinski"
+    render: "Radzinski"
+    # Not Radzi\w*: that takes Radziwill and the Radziejewo district, and
+    # Radzewski and Radzowski may be different men.
+    match: 'Radzi(?:e?m|n)sk[iy]\w*'
+    tier: "Context-inferred, spelling settled by the register"
+    variants: ["Radzimski", "Radziemski", "Radzinsky", "Radzinskis"]
+    identity: "Tenant, and from 1799 pledge-holder, of Szetlewek: he lent 8333
+      rthlr against the lease (Oe 1 Bü 14525, document 2) and held it to 1805.
+      The editor ruled on 2026-09-15 that Radzimski, Radziemski, Radzinski and
+      Radzinsky are one man; the register spells him Radzinski."
   rapacki:
     display: "Rapacki"
     match: "Rapacki"

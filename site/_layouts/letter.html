@@ -156,6 +156,26 @@ layout: default
       </dd>
       {% endif %}
 
+      {% if page.estates.size > 0 %}
+      <dt data-i18n="estates_label">{{ t.estates_label }}</dt>
+      <dd class="taglist">
+        {% for s in page.estates %}
+          {% assign es = site.data.estates | where: "slug", s | first %}
+          {% if es %}<a href="{{ '/places/' | relative_url }}#estate-{{ es.slug }}">{{ es.name }}</a>{% endif %}
+        {% endfor %}
+      </dd>
+      {% endif %}
+
+      {% if page.places_named.size > 0 %}
+      <dt data-i18n="places_named">{{ t.places_named }}</dt>
+      <dd class="taglist">
+        {% for s in page.places_named %}
+          {% assign pl = site.data.places_named | where: "slug", s | first %}
+          {% if pl %}<a href="{{ '/places/' | relative_url }}#named-{{ pl.slug }}">{{ pl.name }}</a>{% endif %}
+        {% endfor %}
+      </dd>
+      {% endif %}
+
       {% if page.duplicate_of %}
       <dt data-i18n="duplicate">{{ t.duplicate }}</dt>
       <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>, transcribed twice.</dd>
