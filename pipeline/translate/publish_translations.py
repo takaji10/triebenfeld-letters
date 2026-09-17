@@ -83,6 +83,7 @@ def main():
     ap.add_argument('--tag', default=None)
     a = ap.parse_args()
     a.unit = unitlib.resolve_unit(a.unit)
+    unitlib.check_translation_tag(a.unit, a.tag, 'publish from')
     # review sheets belong to their unit, not to the project
     globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
 
@@ -179,6 +180,12 @@ def main():
 
     verb = 'ready' if a.list else 'published'
     print(f'\n{published} letter(s) {verb}, {kept} already reviewed, {skipped} skipped')
+    # The generation just published, written back rather than left to be
+    # remembered: every tool defaults to the untagged cache, so a holding that
+    # does not say which generation it was published from will be checked
+    # against an abandoned one sooner or later. It already was.
+    if not a.list and published:
+        unitlib.record_published_tag(a.unit, a.tag)
     if held and not a.force:
         print(f'{len(held)} page(s) held back by a blocking check - see '
               f'translation_review.csv, then re-run after ruling on them')

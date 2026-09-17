@@ -283,6 +283,13 @@ def load_rulings(unit):
         # which instrument, which contract supersedes which. Each entry is
         # {kind, target, note}; target is a document number in the same unit.
         'RELATIONS':      docs.get('relations') or {},
+        # The estate(s) a document is ABOUT, as slugs from reference/places.yml.
+        # A different fact from where it was written and from the places it
+        # merely names: a grant of the Kamionna estates issued from Berlin names
+        # the chanceries that handled it and every appurtenance village in the
+        # schedule, and is in focus about Kamionna. Only a reading of the
+        # document settles that, so it is authored rather than counted.
+        'ESTATES':        docs.get('estates') or {},
         'DAMAGE_LETTERS': set(damage.get('letters') or []),
     }
 
@@ -411,6 +418,69 @@ def resolve_unit(slug):
         raise SystemExit('several units present; pass --unit <slug>: '
                          + ', '.join(u.slug for u in units))
     return units[0].slug
+
+
+def check_translation_tag(unit, tag, action='read'):
+    """Stop a translation tool reading a generation nobody is served.
+
+    Every tool here defaults to the untagged cache/translation-raw, and a run
+    without --tag against a holding published from a tagged one is a clean
+    success against the wrong text. It reported 80 ruled-against renderings and
+    23 of 30 documents blocked for 14526, all of it describing an abandoned
+    draft; the published English had none of them. An hour went into the
+    investigation, and the repair being prepared would have overwritten the
+    good generation with the worse one.
+
+    Three cases, and only one of them stops the run:
+
+      no --tag, unit published from a tagged generation   -> refuse
+      --tag given and different                           -> warn, proceed,
+                                                             because that is
+                                                             how a new
+                                                             generation is made
+      nothing recorded in unit.yml                        -> silent; absence of
+                                                             a record asserts
+                                                             nothing
+
+    `unit` may be a slug or a Unit: translate.py resolves one at import, the
+    others resolve a slug inside main().
+    """
+    if isinstance(unit, str):
+        unit = next((u for u in load_units() if u.slug == unit), None)
+        if unit is None:
+            return
+    published = (unit.get('published_tag') or '').strip()
+    tag = (tag or '').strip()
+    if not published or tag == published:
+        return
+    where = f'cache/translation-raw-{published}'
+    if not tag:
+        raise SystemExit(
+            f'{unit.slug} was published from --tag {published} ({where}), and '
+            f'this run has no --tag,\nso it would {action} the untagged cache - '
+            f'a generation no reader is served.\n'
+            f'Pass --tag {published}, or --tag <new> to start a new generation.')
+    print(f'NOTE: {unit.slug} was published from --tag {published}; this run '
+          f'uses --tag {tag}.\n      Correct when making a new generation.')
+
+
+def record_published_tag(unit, tag):
+    """Write back the generation just published, so it is computed not recalled.
+
+    Edits the one line rather than re-dumping the file: unit.yml is authored,
+    and most of its value is the comments a safe_dump would discard.
+    """
+    path = os.path.join(UNITS_DIR, unit if isinstance(unit, str) else unit.slug,
+                        'unit.yml')
+    if not os.path.isfile(path):
+        return
+    src = io.open(path, encoding='utf-8').read()
+    value = tag or '""'
+    new, n = re.subn(r'^published_tag:.*$', f'published_tag: {value}',
+                     src, count=1, flags=re.M)
+    if n and new != src:
+        io.open(path, 'w', encoding='utf-8', newline='\n').write(new)
+        print(f'recorded published_tag: {value} in {path}')
 
 
 def review_dir(slug):

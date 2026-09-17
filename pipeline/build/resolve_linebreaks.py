@@ -218,6 +218,35 @@ def collect_wraps(letters):
     return wraps
 
 
+def _fold(s):
+    """Lower case, long s and umlauts levelled: `Jährl` and `jahrl` compare equal."""
+    return (s.lower().replace('ſ', 's').replace('ä', 'a')
+            .replace('ö', 'o').replace('ü', 'u'))
+
+
+def _loose_match(line, nxt_text):
+    """Does this short foot line repeat the opening of the next page?
+
+    Three shapes, each seen in 14525: the whole line opens the next page
+    (`1805`, `So`, `97 Män` before `97 Männer`); its first word begins the next
+    page's first word, down to two letters (`Po`, `sig`, `Jahrl`); or the two
+    first words differ by one letter of spelling (`Wirkung` / `Würkung`).
+    """
+    s = _fold(line.strip())
+    n = _fold(nxt_text.strip())
+    if len(s) >= 2 and n.startswith(s):
+        return True
+    a, b = WORD.findall(s), WORD.findall(n)
+    if not a or not b:
+        return False
+    x, y = a[0], b[0]
+    if len(x) >= 2 and y.startswith(x):
+        return True
+    import difflib
+    return (len(x) >= 5 and len(y) >= len(x)
+            and difflib.SequenceMatcher(None, x, y[:len(x)]).ratio() >= 0.8)
+
+
 def collect_unmarked_catchwords(letters):
     """Catchwords that carry no wrap mark at all.
 
@@ -233,7 +262,14 @@ def collect_unmarked_catchwords(letters):
     than a few tokens; it carries no wrap mark; and its first word opens the
     next page. They are proposed here as ordinary rows so that any one of them
     can be overruled by hand like any other decision.
+
+    The first-four-letters test misses every catchword shorter than four
+    letters (`Po` before `Posenischen`), every spelling variant (`Jahrl` before
+    `jährliche`) and every figure (`1805`). A unit that sets
+    `linebreaks: loose_catchwords` in unit.yml is matched by `_loose_match`
+    as well; the others keep the strict test they were adjudicated under.
     """
+    loose = bool((UNIT.get('linebreaks') or {}).get('loose_catchwords'))
     out = []
     for lid, body in letters.items():
         pages = pages_of(body)
@@ -242,19 +278,21 @@ def collect_unmarked_catchwords(letters):
             s = text.rstrip()
             if not s or s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--')):
                 continue
-            toks = WORD.findall(s)
-            if not toks or len(toks) > 3 or len(s.strip()) > 28:
-                continue
             nxt_lineno, nxt_text = pages[pi + 1][0]
-            nxt = WORD.findall(nxt_text)
-            if not nxt:
+            if len(s.strip()) > 28:
                 continue
-            a, b = toks[0].lower(), nxt[0].lower()
-            if len(a) < 3 or a[:4] != b[:4]:
+            toks = WORD.findall(s)
+            nxt = WORD.findall(nxt_text)
+            strict = bool(toks and nxt and len(toks) <= 3 and len(toks[0]) >= 3
+                          and toks[0].lower()[:4] == nxt[0].lower()[:4])
+            if not (strict or (loose and len(s.split()) <= 3
+                               and _loose_match(s, nxt_text))):
                 continue
             out.append({
                 'letter': lid, 'page': pi + 1, 'line': lineno,
-                'next_line': nxt_lineno, 'mark': '', 'head': toks[0], 'tail': nxt[0],
+                'next_line': nxt_lineno, 'mark': '',
+                'head': toks[0] if toks else s.strip(),
+                'tail': nxt[0] if nxt else nxt_text.strip().split()[0],
                 'crosses_page': True, 'unmarked_catchword': True,
                 'context': s.strip()[-42:] + ' || ' + nxt_text.strip()[:42],
             })

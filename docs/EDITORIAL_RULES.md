@@ -110,6 +110,10 @@ than where it sits.
   filed with it. Do not sub-divide into one record per enclosure.
 - **Paragraph breaks** are visible on the page: a line noticeably shorter than
   the page's own median ends a paragraph.
+  In 14525 the line must also hold three words or fewer unless it closes its
+  sentence, a page's last line counts too unless it is a catchword, and a run
+  of short lines breaks on its own only where both hold two words or fewer
+  (`paragraphs:` in its `unit.yml`).
 - **Section numbering runs in sequence.** A number that breaks the run is a
   machine misreading of the numeral, not a scribe's lapse.
 - Some German documents carry a few lines of **Polish**, and they are source
@@ -128,8 +132,22 @@ than where it sits.
   not ambiguous. The rare-pair gate flags every occurrence of either sense by
   design: it is catching the translator's silence, not an error, and the
   editor rules.
-- Standardise `Głazewo`; standardise the Trąbczyn spellings; leave Wrąbczyn and
-  Wrąbczynek alone.
+- Standardise `Głażewo` (it was `Głazewo` until 2026-09-15); standardise the
+  Trąbczyn spellings; leave Wrąbczyn and Wrąbczynek alone.
+- **Places ruled on 2026-09-15, for every holding.** The edition prints
+  **Zagórów**, not Zagorowo, and **Kamionna**, not the register's Kamionno.
+  Kaemen is Kamionna's German name, as the documents themselves say. **Betsche**
+  stays the edition's name for Pszczew, and the era's introduction says they are
+  one place. The villages of the Betsche estate are Świechocin, Stoki, Łowyń,
+  Głażewo, Dormowo, Stołuń, Kuligowo, Szarcz, Zielomyśl and Silna. Popowo is the
+  village bordering Kolno.
+- **Oe 1 Bü 14525 standardises names in the transcription itself**, on the
+  editor's instruction, departing for that holding from the rule below that names
+  are standardised only in the English. The Polish form of a place takes the
+  edition's spelling (`Swiegaszin` is written Świechocin). German names
+  (Betsche, Kaemen, Kulm) and adjectives built on a place name (Zagorower,
+  Lowiner) stay as the page has them. The page spelling of every change is kept,
+  line by line, in `units/oe1bu14525/transcription_decisions.csv`.
 - **Everything goes into English** in the translation. A German word may stand
   only where English has no equivalent, and the termbase marks each of those
   `policy: keep`. A title, rank or office is translated even when it stands

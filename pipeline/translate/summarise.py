@@ -325,6 +325,7 @@ def main():
     a = ap.parse_args()
     unitlib.require_fresh_corpus()
     set_unit(unitlib.resolve_unit(a.unit))
+    unitlib.check_translation_tag(UNIT_SLUG, a.tag, 'summarise from')
     set_lang(a.lang)
     set_translation_tag(a.tag)
     for pad in [x.strip() for x in a.redo.split(',') if x.strip()]:

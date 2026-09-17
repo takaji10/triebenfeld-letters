@@ -870,6 +870,7 @@ def main():
                     help='show what would be sent, spend nothing')
     a = ap.parse_args()
     unitlib.require_fresh_corpus()
+    unitlib.check_translation_tag(UNIT, a.tag, 'read and write')
 
     recs = load_letters()
     by_id = {str(r['letter_id']): r for r in recs}  # pipeline-check: load_letters() is already scoped to one unit, and --letters takes the archive's own number

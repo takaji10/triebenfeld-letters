@@ -1,29 +1,33 @@
 # -*- coding: utf-8 -*-
 """
-Build a page for trimming the edge off split pages.
+Build a page for trimming the left and right edges off pages.
 
     python pipeline/intake/review_trim.py --unit oe1bu14526
 
 Sheets in a volume differ in size, so a page often carries a strip of the leaf
-underneath along one edge. This lists every page image with a draggable line;
-whichever side of the line is smaller is the strip to remove. Save trims.json,
-then:
+underneath along an edge - and on a page narrower than both its neighbours, along
+both edges at once. This lists every page image with two draggable lines, one per
+side; the shaded bands outside them are what gets removed. Save trims.json, then:
 
     python pipeline/intake/apply_trims.py --unit oe1bu14526 \
         --trims processed/_trim_review/trims.json
 
-One edge per pass, which is usually all a page needs. If a page needs both,
-run the tool again afterwards: it lists the trimmed image, so the second pass
-takes the other side.
+The JSON is {page: [left, right]} as fractions of the width: everything left of
+`left` and right of `right` goes, so [0, 1] means leave the page alone.
 
-Only pages whose line you actually move are written to the JSON. Pages already
-trimmed show where their edge now is, so a trim can be checked or taken further.
+Every page is written to the JSON: at the lines you moved, or at the detected
+edges if you left them alone. Leaving a page untouched means you agree with the
+proposed cut, not that the page is skipped - so page through all of them. To
+keep a page whole, press `x` (or "No trim"), which records it explicitly as not
+to be cut.
+
+Pages already trimmed show where their edges now are, so a trim can be checked
+or taken further.
 """
 import argparse
 import io
 import json
 import os
-import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
@@ -67,13 +71,20 @@ def edges(path):
     body = sorted(sm[band:w - band])
     page = body[len(body) // 2] if body else 200
 
+    # Walk in from the outside and stop at the first step, not out from the
+    # inside and stop at the last. The paper edge is the outermost step there
+    # is; a step further in is the writing block or a shadow. Read the other way
+    # round, the right-hand edge on this holding proposed a median of 3.3% and a
+    # worst case of 25%; read from outside in, 1.7% and 5%. The failure this way
+    # is a dark line at the very edge stopping the scan early, which under-trims
+    # - obvious on sight, and another pass fixes it.
     left = 0.0
-    for x in range(band, 2, -1):
+    for x in range(3, band):
         if abs(sm[x] - sm[x - 3]) >= STEP and sm[x - 3] < page - STEP // 2:
             left = x / w
             break
     right = 1.0
-    for x in range(w - band, w - 3):
+    for x in range(w - 4, w - band, -1):
         if abs(sm[x] - sm[x + 3]) >= STEP and sm[x + 3] < page - STEP // 2:
             right = x / w
             break
@@ -83,25 +94,19 @@ def edges(path):
 def collect(processed, done_dir):
     from PIL import Image
     items = []
-    for fn in sorted(os.listdir(processed)):
-        if not fn.lower().endswith('.jpg') or fn == 'manifest.json':
-            continue
+    names = sorted(f for f in os.listdir(processed) if f.lower().endswith('.jpg'))
+    for n, fn in enumerate(names, 1):
         path = os.path.join(processed, fn)
         if not os.path.isfile(path):
             continue
         with Image.open(path) as im:
             w, h = im.size
         left, right = edges(path)
-        # the suggestion is whichever side has more to lose
-        if (1 - right) > left:
-            guess, side = right, 'right'
-        elif left > 0:
-            guess, side = left, 'left'
-        else:
-            guess, side = 1.0, 'none'
         items.append({'file': fn, 'src': '../' + fn, 'w': w, 'h': h,
-                      'guess': guess, 'side': side,
+                      'left': left, 'right': right,
                       'trimmed': os.path.isfile(os.path.join(done_dir, fn))})
+        print(f'  [{n}/{len(names)}] {fn}  left {round(left * w):4d}px  '
+              f'right {round((1 - right) * w):4d}px')
     return items
 
 
@@ -120,13 +125,16 @@ PAGE = """<!doctype html>
            border: 1px solid #444; border-radius: 4px; cursor: pointer; }
   button:hover { background: #333; }
   button.primary { background: #2d5a2d; border-color: #3d7a3d; }
-  #stage { position: relative; margin: 0 auto; width: fit-content; }
-  #img { display: block; max-width: 100vw; max-height: calc(100vh - 92px); }
-  #cut { position: absolute; top: 0; bottom: 0; background: rgba(255,32,32,.28);
+  button.on { background: #444; border-color: #777; }
+  #stage { position: relative; margin: 0 auto; width: fit-content;
+           cursor: ew-resize; touch-action: none; }
+  #img { display: block; max-width: 100vw; max-height: calc(100vh - 96px); }
+  .cut { position: absolute; top: 0; bottom: 0; background: rgba(255,32,32,.28);
          pointer-events: none; }
-  #line { position: absolute; top: 0; bottom: 0; width: 2px; background: #ff2020; }
-  #line::after { content: ''; position: absolute; left: -14px; right: -14px;
-                 top: 0; bottom: 0; cursor: ew-resize; }
+  .line { position: absolute; top: 0; bottom: 0; width: 2px; background: #ff2020;
+          pointer-events: none; }
+  /* the line being steered is the brighter one */
+  .line.idle { background: rgba(255,32,32,.45); }
   #out { width: 100%%; height: 9rem; font: 12px/1.4 ui-monospace, monospace;
          background: #111; color: #ddd; border: 1px solid #333; display: none; }
   kbd { background: #333; border-radius: 3px; padding: 0 .3em; }
@@ -140,29 +148,36 @@ PAGE = """<!doctype html>
   <span id="cutinfo"></span>
   <span id="chg" class="moved"></span>
   <span style="flex:1"></span>
+  <button id="pick-l">Left</button>
+  <button id="pick-r">Right</button>
   <button id="none">No trim</button>
+  <button id="reset">Reset</button>
   <button id="save" class="primary">Save trims.json</button>
   <button id="copy">Copy</button>
   <span class="muted"><kbd>&larr;</kbd><kbd>&rarr;</kbd> page,
-    <kbd>,</kbd><kbd>.</kbd> nudge, <kbd>shift</kbd> x10,
-    <kbd>x</kbd> no trim; shaded side is removed</span>
+    <kbd>l</kbd><kbd>r</kbd> side, <kbd>,</kbd><kbd>.</kbd> nudge,
+    <kbd>shift</kbd> x10, <kbd>x</kbd> no trim; shaded bands are removed</span>
 </header>
 
 <div id="stage">
   <img id="img" alt="">
-  <div id="cut"></div>
-  <div id="line"></div>
+  <div class="cut" id="cut-l"></div>
+  <div class="cut" id="cut-r"></div>
+  <div class="line" id="line-l"></div>
+  <div class="line" id="line-r"></div>
 </div>
 <textarea id="out" spellcheck="false"></textarea>
 
 <script>
 const ITEMS = %(items)s;
-const trims = {};             // only pages you actually set
-let i = 0, shown = 1.0;
+const set = {};                // your overrides; everything else saves at its guess
+const MIN_GAP = 0.05;          // the two lines may not cross or pinch the page shut
+// NB: not `left`/`right` as bare globals would be fine, but `top`, `name` and
+// friends are not - a `let top` at script scope is a SyntaxError that stops the
+// whole file. Keeping to these two names sidesteps the whole family.
+let i = 0, lcut = 0, rcut = 1, active = 'l';
 
 const img = document.getElementById('img');
-const line = document.getElementById('line');
-const cut = document.getElementById('cut');
 const stage = document.getElementById('stage');
 const at = () => ITEMS[i];
 
@@ -172,58 +187,96 @@ function show() {
   document.getElementById('name').textContent =
     it.file + (it.trimmed ? ' (already trimmed)' : '');
   document.getElementById('pos').textContent = (i + 1) + ' / ' + ITEMS.length;
-  draw(trims[it.file] !== undefined ? trims[it.file] : it.guess, false);
+  const s = set[it.file];
+  lcut = s ? s[0] : it.left;
+  rcut = s ? s[1] : it.right;
+  draw(false);
 }
 
-function draw(frac, byUser) {
-  frac = Math.max(0, Math.min(1, frac));
-  shown = frac;
+function draw(byUser) {
   const w = img.clientWidth || 1;
-  line.style.left = (frac * w) + 'px';
-  // the smaller side is what goes
-  const left = frac < 0.5;
-  cut.style.left  = left ? '0px' : (frac * w) + 'px';
-  cut.style.width = (left ? frac * w : (1 - frac) * w) + 'px';
-  const px = Math.round((left ? frac : 1 - frac) * at().w);
+  document.getElementById('cut-l').style.left = '0px';
+  document.getElementById('cut-l').style.width = (lcut * w) + 'px';
+  document.getElementById('cut-r').style.right = '0px';
+  document.getElementById('cut-r').style.width = ((1 - rcut) * w) + 'px';
+  document.getElementById('line-l').style.left = (lcut * w) + 'px';
+  document.getElementById('line-r').style.left = (rcut * w) + 'px';
+  document.getElementById('line-l').className = 'line' + (active === 'l' ? '' : ' idle');
+  document.getElementById('line-r').className = 'line' + (active === 'r' ? '' : ' idle');
+
+  const it = at();
+  const lp = Math.round(lcut * it.w), rp = Math.round((1 - rcut) * it.w);
   document.getElementById('cutinfo').textContent =
-    (px < 2) ? 'no trim' : ('cut ' + (left ? 'left' : 'right') + ' ' + px + 'px');
-  if (byUser) { if (px < 2) delete trims[at().file]; else trims[at().file] = frac; }
-  const n = Object.keys(trims).length;
-  document.getElementById('chg').textContent = n ? n + ' set' : '';
+    (lp < 2 && rp < 2) ? 'no trim' : ('left ' + lp + 'px, right ' + rp + 'px');
+  document.getElementById('pick-l').className = active === 'l' ? 'on' : '';
+  document.getElementById('pick-r').className = active === 'r' ? 'on' : '';
+  if (byUser) set[it.file] = [round4(lcut), round4(rcut)];
+  const n = Object.keys(set).length;
+  document.getElementById('chg').textContent =
+    n + ' adjusted; all ' + ITEMS.length + ' will be saved';
 }
 
-function fromEvent(e) {
+const round4 = v => Math.round(v * 10000) / 10000;
+
+function place(frac, which) {
+  frac = Math.max(0, Math.min(1, frac));
+  if (which === 'l') lcut = Math.min(frac, rcut - MIN_GAP);
+  else rcut = Math.max(frac, lcut + MIN_GAP);
+  active = which;
+  draw(true);
+}
+
+// the line you grab is whichever is nearer where you pressed
+function fromEvent(e, which) {
   const r = img.getBoundingClientRect();
-  draw(((e.touches ? e.touches[0].clientX : e.clientX) - r.left) / r.width, true);
+  const frac = (e.clientX - r.left) / r.width;
+  place(frac, which || (Math.abs(frac - lcut) <= Math.abs(frac - rcut) ? 'l' : 'r'));
 }
 
-let dragging = false;
-stage.addEventListener('pointerdown', e => { dragging = true; fromEvent(e);
-                                             stage.setPointerCapture(e.pointerId); });
-stage.addEventListener('pointermove', e => { if (dragging) fromEvent(e); });
-stage.addEventListener('pointerup', () => { dragging = false; });
-img.addEventListener('load', () => draw(trims[at().file] ?? at().guess, false));
-window.addEventListener('resize', () => draw(shown, false));
+let dragging = null;
+stage.addEventListener('pointerdown', e => {
+  const r = img.getBoundingClientRect();
+  const frac = (e.clientX - r.left) / r.width;
+  dragging = Math.abs(frac - lcut) <= Math.abs(frac - rcut) ? 'l' : 'r';
+  fromEvent(e, dragging);
+  stage.setPointerCapture(e.pointerId);
+  e.preventDefault();
+});
+stage.addEventListener('pointermove', e => { if (dragging) fromEvent(e, dragging); });
+stage.addEventListener('pointerup', () => { dragging = null; });
+img.addEventListener('load', () => draw(false));
+window.addEventListener('resize', () => draw(false));
 
 function step(d) { i = (i + d + ITEMS.length) %% ITEMS.length; show(); }
 document.getElementById('next').onclick = () => step(1);
 document.getElementById('prev').onclick = () => step(-1);
-document.getElementById('none').onclick = () => { delete trims[at().file]; draw(1.0, false); };
+document.getElementById('pick-l').onclick = () => { active = 'l'; draw(false); };
+document.getElementById('pick-r').onclick = () => { active = 'r'; draw(false); };
+document.getElementById('none').onclick = () => { lcut = 0; rcut = 1; draw(true); };
+document.getElementById('reset').onclick = () => { delete set[at().file];
+                                                   lcut = at().left; rcut = at().right;
+                                                   draw(false); };
 
 document.addEventListener('keydown', e => {
-  const px = e.shiftKey ? 10 : 1;
+  const w = img.clientWidth || 1;
+  const d = (e.shiftKey ? 10 : 1) / w;
   if (e.key === 'ArrowLeft')  { step(-1); e.preventDefault(); }
   if (e.key === 'ArrowRight') { step(1);  e.preventDefault(); }
-  if (e.key === ',' || e.key === '<') { draw((line.offsetLeft - px) / img.clientWidth, true); e.preventDefault(); }
-  if (e.key === '.' || e.key === '>') { draw((line.offsetLeft + px) / img.clientWidth, true); e.preventDefault(); }
-  if (e.key === 'x') { delete trims[at().file]; draw(1.0, false); }
+  if (e.key === 'l') { active = 'l'; draw(false); }
+  if (e.key === 'r') { active = 'r'; draw(false); }
+  if (e.key === ',' || e.key === '<') { place((active === 'l' ? lcut : rcut) - d, active);
+                                        e.preventDefault(); }
+  if (e.key === '.' || e.key === '>') { place((active === 'l' ? lcut : rcut) + d, active);
+                                        e.preventDefault(); }
+  if (e.key === 'x') { lcut = 0; rcut = 1; draw(true); }
   if (e.key === 'n') step(1);
   if (e.key === 'p') step(-1);
 });
 
-const json = () => JSON.stringify(trims, null, 1);
+const json = () => JSON.stringify(Object.fromEntries(ITEMS.map(it =>
+  [it.file, set[it.file] !== undefined ? set[it.file] : [it.left, it.right]])), null, 1);
+
 document.getElementById('save').onclick = () => {
-  if (!Object.keys(trims).length) { alert('Nothing set yet.'); return; }
   const a = document.createElement('a');
   a.href = URL.createObjectURL(new Blob([json()], {type: 'application/json'}));
   a.download = 'trims.json';
@@ -264,13 +317,18 @@ def main():
         f.write(PAGE % {'unit': unit.slug,
                         'items': json.dumps(items, ensure_ascii=False)})
 
-    sug = sum(1 for it in items if it['side'] != 'none')
+    lefts = sum(1 for it in items if it['left'] > 0)
+    rights = sum(1 for it in items if it['right'] < 1)
+    both = sum(1 for it in items if it['left'] > 0 and it['right'] < 1)
     already = sum(1 for it in items if it['trimmed'])
-    print(f'  {len(items)} page(s); an edge was detected on {sug}'
-          + (f'; {already} already trimmed' if already else ''))
+    print()
+    print(f'  {len(items)} page(s); a left edge on {lefts}, a right edge on {rights}, '
+          f'both on {both}' + (f'; {already} already trimmed' if already else ''))
     print(f'  wrote {out}')
     print()
-    print('  The shaded side is what gets removed. Only pages you set are saved.')
+    print('  Both sides are set on the one page: grab the nearer line, or pick with')
+    print('  l and r. Every page is saved: at the lines you move, or at the detected')
+    print('  edges if you leave them. Press x to keep a page whole.')
     print(f'    python pipeline/intake/apply_trims.py --unit {unit.slug} \\')
     print('        --trims processed/_trim_review/trims.json')
 

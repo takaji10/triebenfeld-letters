@@ -33,7 +33,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Facts about one holding. Harmless in a comment or a docstring - that is where
 # the reasons for past decisions are recorded - and wrong in running code.
 UNIT_FACTS = re.compile(
-    r'\b(Triebenfeld|Hohenlohe|Trąbczyn|Zagorowo|Betsche|Kalisch|'
+    r'\b(Triebenfeld|Hohenlohe|Trąbczyn|Zagorowo|Zagórów|Betsche|Kalisch|'
     r'1798|1816|1766|1808|oe1bu9454|oe1bu14526)\b')
 
 # Building a record dictionary on the archive's own number.
@@ -89,6 +89,46 @@ def code_lines(path):
     return out
 
 
+# A field new_unit.py scaffolds and the editor is meant to replace. The first
+# two are read by translate.py's unit_preamble() and open the prompt for both
+# the translator and the summariser, so a placeholder left in one is not a
+# cosmetic lapse: it is paid for, once per document, and leaves no mark on the
+# output to find it by. 14525 was translated in full, 44 documents, with "TODO:
+# a sentence for the reader." in every request.
+PROMPT_FIELDS = ('description', 'translation_note', 'title', 'date_span')
+PLACEHOLDER = re.compile(r'\bTODO\b', re.I)
+
+
+def scaffolded_fields(root):
+    """(slug, field) for every unit.yml still holding a placeholder.
+
+    Only for holdings with a transcription. A unit whose corpus.txt is empty is
+    scaffolding and is meant to read TODO - new_unit.py just wrote it - so
+    failing the build there would make the tool that creates a holding unusable.
+    """
+    import yaml
+    out = []
+    for slug in sorted(os.listdir(os.path.join(root, 'units'))):
+        d = os.path.join(root, 'units', slug)
+        corpus = os.path.join(d, 'corpus.txt')
+        cfg = os.path.join(d, 'unit.yml')
+        if not os.path.isfile(cfg):
+            continue
+        try:
+            if os.path.getsize(corpus) == 0:
+                continue
+        except OSError:
+            continue
+        try:
+            y = yaml.safe_load(io.open(cfg, encoding='utf-8')) or {}
+        except Exception:
+            continue
+        for f in PROMPT_FIELDS:
+            if PLACEHOLDER.search(str(y.get(f) or '')):
+                out.append((slug, f))
+    return out
+
+
 def main():
     problems, waived = [], []
     for base, dirs, files in os.walk(os.path.join(ROOT, 'pipeline')):
@@ -125,16 +165,25 @@ def main():
                                              'unitlib.records_by_pad()',
                                      line.strip()[:90]))
 
+    scaffolded = scaffolded_fields(ROOT)
+
     for rel, n, why, line in problems:
         print(f'{rel}:{n}: {why}\n    {line}')
+    for slug, field in scaffolded:
+        print(f'units/{slug}/unit.yml: {field} is still a placeholder')
     for rel, why in waived:
         print(f'{rel}: waived - {why}')
-    print(f'\n{len(problems)} problem(s), {len(waived)} file(s) waived')
+    print(f'\n{len(problems) + len(scaffolded)} problem(s), '
+          f'{len(waived)} file(s) waived')
     if problems:
         print('\nA holding\'s facts belong in units/<slug>/unit.yml and '
               'rulings.yml.\nRecords are keyed by pad, never by the archive\'s '
               'own document number.')
-    return 1 if problems else 0
+    if scaffolded:
+        print('\ndescription and translation_note open the prompt for both the '
+              'translator\nand the summariser. A placeholder there is paid for '
+              'once per document.')
+    return 1 if (problems or scaffolded) else 0
 
 
 if __name__ == '__main__':

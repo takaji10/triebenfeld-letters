@@ -66,7 +66,15 @@ RATIO_LO, RATIO_HI = 0.55, 1.9
 
 DIGITS = re.compile(r'\d[\d.,/]*')
 DE_MARKER = re.compile(r'\[[^\]]*\?\]|\[\.\.\.\]')
-EN_MARKER = re.compile(r'\[illegible\]|\[uncertain:[^\]]*\]|\[text lost\]')
+# The forms a mark of doubt actually takes in the English. It used to list only
+# `[illegible]`, `[uncertain: X]` and `[text lost]`, and counted everything else
+# as no mark at all - so a page whose English mirrors the German's own bracket,
+# `[Das?]` as `[The?]`, was reported as a hole smoothed over when the doubt was
+# sitting there in plain sight. Bare `[uncertain]` and a `[?]` carried straight
+# across were missed the same way. Widening this only ever finds marks that are
+# really there: a hole is still a hole when nothing in the English brackets it.
+EN_MARKER = re.compile(r'\[illegible\]|\[uncertain(?::[^\]]*)?\]|\[text lost\]'
+                       r'|\[[^\]]*\?\]')
 # German function words surviving into the English in a run - the model lapsing
 # into copying rather than translating.
 DE_RUN = re.compile(r'\b(?:der|die|das|und|nicht|werden|worden|wegen|welche|'
@@ -265,6 +273,9 @@ def check_letter(rec, out, glossary, canon, rng):
 
     stats = {}
     letter_probe = []
+    # Terms whose pattern has already fired somewhere in THIS document, so the
+    # gloss-on-first-use rule can tell a first mention from a later one.
+    glossed = set()
     for p in rec['pages']:
         n = p['page']
         seg = segs.get(n)
@@ -301,13 +312,29 @@ def check_letter(rec, out, glossary, canon, rng):
             # The tool returns pairs now - {de: what the page says, en: what
             # the English used}. Old cache files hold bare strings, and both
             # shapes have to survive a sheet built over a part-migrated cache.
+            de_form = kind = ''
             if isinstance(nm, dict):
+                de_form = (nm.get('de') or '').strip()
+                kind = (nm.get('kind') or '').strip().lower()
                 nm = (nm.get('en') or nm.get('de') or '').strip()
             if not isinstance(nm, str) or not nm.strip():
                 continue
+            # Only a person or a place is a name. `kind: other` is a term of art
+            # the edition asked to be rendered INTO English - Dohm Capitel as
+            # `Cathedral Chapter` - so testing it here asks whether the English
+            # copied the German, which is the opposite of the standing rule.
+            if kind and kind not in ('person', 'place'):
+                continue
+            # The pair carries the German the name was read from. Test THAT
+            # against the page, not the English: an exonym is a rendering, not
+            # an invention, and demanding `Orange` be found on a page that says
+            # `Oranien` reported the whole royal style - Nuremberg, East Frisia,
+            # the Cassubians, Mecklenburg - as names the translation made up.
+            if de_form and not _invented(de_form, de, glossary):
+                continue
             core = re.sub(r'^(v\.?|von|de)\s+', '', nm).strip()
             if _invented(core, de, glossary):
-                rows.append(dict(kind='name-check', page=n, german='', english=nm,
+                rows.append(dict(kind='name-check', page=n, german=de_form, english=nm,
                                  note='name reported in the English is not in the German'))
                 stats['name'] = stats.get('name', 0) + 1
 
@@ -372,13 +399,39 @@ def check_letter(rec, out, glossary, canon, rng):
                     # English depending on sense. Pohlen is Poland and the
                     # Poles; demanding the first reported every page using the
                     # second as drift, 38 times over.
-                    if not any(rendering_present(w, en)
-                               for w in [want] + list(e.get('also') or [])):
+                    ok = [want] + list(e.get('also') or [])
+                    # A render carrying its German in parentheses - the manorial
+                    # lordship (Dominium) - is house style for the FIRST use in
+                    # a document; the English stands alone after that, as the
+                    # glossary itself instructs. Once the term has been seen,
+                    # the bare English satisfies it too.
+                    bare = re.sub(r'\s*\([^)]*\)', '', want).strip()
+                    if bare and bare != want and e['term'] in glossed:
+                        ok.append(bare)
+                    glossed.add(e['term'])
+                    # The reading text never crosses a page break but a SENTENCE
+                    # does, and the clause carrying the rendering can fall
+                    # overleaf. Comparing one page's German against the same
+                    # page's English alone reported `Betsche`, the mortgage-book
+                    # entry and `Civil Tradition` as drift when each was
+                    # translated correctly at the top of the next page.
+                    nxt = segs.get(n + 1)
+                    en_next = (nxt.get('en') or '') if nxt else ''
+                    here = any(rendering_present(w, en) for w in ok)
+                    overleaf = bool(en_next) and any(rendering_present(w, en_next)
+                                                     for w in ok)
+                    if not here and not overleaf:
                         rows.append(dict(kind='glossary-mismatch', page=n,
                                          german=e['term'], english=want,
                                          note='termbase rendering not found in the English'))
                         stats['glossary'] = stats.get('glossary', 0) + 1
-                    elif e['policy'] == 'translate' and _left_in_german(e, en):
+                    elif here and e['policy'] == 'translate' and _left_in_german(e, en):
+                        # `here`, not `here or overleaf`: acquitting a term
+                        # because its rendering fell on the next page must not
+                        # then accuse this page of leaving the German standing.
+                        # Without it the cross-page fix minted five new rows on
+                        # canonical names - Natan/Nathan, Trąbzyn/Trąbczyn -
+                        # where the two spellings are near-identical anyway.
                         # The rendering test is a stem match, so it cannot tell
                         # `Michaelmas` from `Michaelis` - the German word shares
                         # the stem and satisfies the check while standing
@@ -470,6 +523,7 @@ def main():
     ap.add_argument('--tag', default=None)
     a = ap.parse_args()
     a.unit = unitlib.resolve_unit(a.unit)
+    unitlib.check_translation_tag(a.unit, a.tag, 'check')
     # review sheets belong to their unit, not to the project
     globals()['SHEET'] = os.path.join(unitlib.review_dir(a.unit), 'translation_review.csv')
     globals()['REPORT'] = os.path.join(unitlib.review_dir(a.unit), 'translation_report.md')

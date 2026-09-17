@@ -147,8 +147,21 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None):
     paragraph without an indent so the false break does not show.
     """
     if is_register:
-        # Tabular: one entry per line. Flowing it would destroy the table.
-        return ['\n'.join(t.strip() for _, t in page)]
+        # Tabular: one entry per line. Flowing it would destroy the table. A
+        # catchword is still the scribe's note of the page overleaf rather than
+        # an entry, so it is dropped here exactly as it is from prose.
+        rows = []
+        for lineno, text in page:
+            s = text.strip()
+            if decisions.get((letter_id, lineno), '') == 'catchword':
+                if not _wrap_mark(text):
+                    continue
+                s = s[:-1].rstrip()
+                hits = list(WORD.finditer(s))
+                if hits:
+                    s = s[:hits[-1].start()].rstrip()
+            rows.append(s)
+        return ['\n'.join(rows)]
 
     paras = paras or set()
     out = []

@@ -45,7 +45,7 @@ _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
 
 import io, sys, os, re, csv, statistics
 from collections import Counter
-from corpus_pages import split_pages, PAGE_TAG
+from corpus_pages import split_pages, PAGE_TAG, load_decisions
 import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -97,6 +97,31 @@ SHORT = 0.72
 # Below this it is unmistakable; between the two it is worth a look.
 SHORT_STRONG = 0.55
 
+# Opt-in rules from unit.yml `paragraphs:`. A unit without them keeps exactly
+# the candidates it was adjudicated under.
+#
+#   few_words   a short line must also hold no more than this many words. On a
+#               narrow page three words fill the line ("geleisteten
+#               ausgezeichneten und" runs to the margin at 25 characters), so
+#               length against the page is not enough on its own.
+#   column_words  where few_words is set, a run of short lines breaks on its
+#               own only if both lines hold no more than this many words;
+#               otherwise it is left for review. Absent, it is always left.
+#   page_ends   test the last line of a page as well, so that a paragraph can
+#               begin overleaf. A catchword at the foot is the commonest short
+#               line in a volume and never ends a sentence, so it is set aside.
+#
+# Either one also skips registers, whose entries are not paragraphs, and never
+# proposes a break at a catchword line, which the reading text drops anyway.
+_CFG = UNIT.get('paragraphs') or {}
+FEW_WORDS = _CFG.get('few_words')
+COLUMN_WORDS = _CFG.get('column_words')
+PAGE_ENDS = bool(_CFG.get('page_ends'))
+DOC_TYPE = unitlib.load_rulings(UNIT)['DOC_TYPE'] if _CFG else {}
+CATCHWORDS = ({k for k, v in load_decisions(
+    os.path.join(UNIT.dir, 'linebreak_decisions.csv')).items() if v == 'catchword'}
+    if _CFG else set())
+
 
 def load_corpus():
     with open(SRC, encoding='utf-8') as f:
@@ -123,21 +148,69 @@ def _wrap(s):
     return s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--'))
 
 
+def _short(text, measure):
+    """The line stopped early: under the page's measure and, where the unit
+    sets `few_words`, no more than that many words. A line ending in a wrap mark
+    is short of nothing, since the word runs on.
+
+    A line that closes its sentence is exempt from the word count. The limit is
+    there for lines that stop mid-sentence on a narrow page; a dateline
+    (`Berlin den 1. Decembr. 1797.`) or a title (`von Preussen p. p.`) has
+    four or five words and ends its paragraph all the same."""
+    t = text.strip()
+    if _wrap(text) or len(t) >= SHORT * measure:
+        return False
+    return (FEW_WORDS is None or ENDS_SENTENCE.search(t) is not None
+            or len(t.split()) <= FEW_WORDS)
+
+
+def _repeats_overleaf(last, first):
+    """A one-word foot line that the next page's first word begins or ends with.
+
+    Either it is a catchword (`Da` before `da der bleibende`) or the scribe
+    finished a broken word at the foot and wrote it whole again overleaf
+    (`sti¬ / pulirten` then `stipulirten`). Neither is a sentence stopping.
+    """
+    a, b = WORD.findall(last), WORD.findall(first)
+    if len(a) != 1 or not b:
+        return False
+    x, y = a[0].lower().replace('ſ', 's'), b[0].lower().replace('ſ', 's')
+    return len(x) >= 2 and (y.startswith(x) or (len(x) >= 3 and y.endswith(x)))
+
+
 def candidates(docs):
     """Every line that might begin a paragraph, with the cue that says so."""
     out = []
     for lid, body in docs.items():
-        for page in [ls for _, ls in split_pages(body)]:
+        if _CFG and DOC_TYPE.get(lid) == 'register':
+            continue
+        pages = [ls for _, ls in split_pages(body)]
+        for pi, page in enumerate(pages):
             if len(page) < 3:
                 continue
             lens = [len(t.strip()) for _, t in page]
             measure = statistics.median(lens[:-1]) or 1
-            for k in range(1, len(page)):
+            # The first line of a page is weighed against the foot of the page
+            # before, and only where the unit asks for page ends.
+            first = 0 if (PAGE_ENDS and pi > 0) else 1
+            for k in range(first, len(page)):
                 lineno, text = page[k]
                 s = text.strip()
-                if not s:
+                if not s or (lid, lineno) in CATCHWORDS:
                     continue
-                prev_no, prev = page[k - 1]
+                if k == 0:
+                    before = pages[pi - 1]
+                    if len(before) < 3:
+                        continue
+                    prev_no, prev = before[-1]
+                    if ((lid, prev_no) in CATCHWORDS
+                            or _repeats_overleaf(prev, text)):
+                        continue
+                    prev_measure = statistics.median(
+                        len(t.strip()) for _, t in before[:-1]) or 1
+                else:
+                    prev_no, prev = page[k - 1]
+                    prev_measure = measure
                 p = prev.strip()
                 cues, conf = [], 'review'
 
@@ -145,18 +218,17 @@ def candidates(docs):
                 is_rubric = bool(RUBRIC.match(s))
                 is_salut = bool(SALUTATION.match(s)) and closed
                 # The short-line test looks BACKWARDS: this line begins a
-                # paragraph because the one before it stopped early.
-                prev_short = (not _wrap(prev)
-                              and k - 1 != len(page) - 1
-                              and not RUBRIC.match(p)
-                              and len(p) < SHORT * measure)
+                # paragraph because the one before it stopped early. The last
+                # line of a page is never `prev` within the page, because it is
+                # short when the page ended rather than the sense.
+                prev_short = not RUBRIC.match(p) and _short(prev, prev_measure)
 
                 if is_rubric:
                     cues.append('rubric')
                 if is_salut:
                     cues.append('salutation')
                 if prev_short:
-                    cues.append('short_line')
+                    cues.append('page_end' if k == 0 else 'short_line')
 
                 if not cues:
                     continue
@@ -167,8 +239,19 @@ def candidates(docs):
                 # happened to run out - EXCEPT in a column of short lines, which
                 # is a list or a block of signatures, and there every line is
                 # its own item.
+                #
+                # Where the unit counts words, a column is trusted only if both
+                # lines are within `column_words`: that is a signature block or
+                # a dateline (`Beda | Ingrossator`). Wider, it broke "für den
+                # regierenden | Fürsten von Hohenlohe" mid-sentence, so it goes
+                # to review instead.
                 in_column = prev_short and len(s) < SHORT * measure
-                if is_rubric or is_salut or (prev_short and closed) or in_column:
+                column_ok = in_column and (
+                    FEW_WORDS is None
+                    or (COLUMN_WORDS is not None
+                        and len(p.split()) <= COLUMN_WORDS
+                        and len(s.split()) <= COLUMN_WORDS))
+                if is_rubric or is_salut or (prev_short and closed) or column_ok:
                     conf = 'high'
                 if in_column and not (is_rubric or closed):
                     cues.append('column')
@@ -181,8 +264,8 @@ def candidates(docs):
                 decision = 'break' if conf == 'high' else 'run'
 
                 out.append({
-                    'letter': lid, 'line': lineno, 'page_measure': round(measure),
-                    'prev_len': len(p), 'ratio': round(len(p) / measure, 2),
+                    'letter': lid, 'line': lineno, 'page_measure': round(prev_measure),
+                    'prev_len': len(p), 'ratio': round(len(p) / prev_measure, 2),
                     'cue': '+'.join(cues), 'decision': decision, 'confidence': conf,
                     'prev_line': p[:60], 'context': s[:70],
                 })

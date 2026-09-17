@@ -73,6 +73,22 @@ date read off the dateline by the editor is evidence from the document; a date a
 researcher assigned is not. Filing thirty of the first as the second told the
 reader the opposite of the truth.
 
+**`doc_type` is not decoration, and its default is wrong for anything but a
+letter file.** A document absent from `doc_type` is `letter`, and `summarise.py`
+tests that value: anything other than `letter` or `document` spanning more than
+one page is told "this is not a letter, the pages that follow are one package,
+summarise the package." Leave a volume of deeds at the default and every
+multi-page instrument in it is summarised as though the first enclosure were the
+whole record. 14525 reached the summariser with 42 of its 44 documents still
+defaulting to `letter`. Classify them all, and reuse the vocabulary a sibling
+holding already established rather than inventing terms — nothing validates this
+field, so a typo silently becomes a generic "Document" label on the site and is
+handed to the model verbatim in the prompt.
+
+Editing `rulings.yml` makes `corpus/letters.json` stale, and
+`require_fresh_corpus()` will stop the next paid step until you rebuild. Run
+`regenerate.py --unit <slug>` after this section, not after discovering it.
+
 ## 4. Translate — and expect to do it twice
 
 **First, a pilot, if this holding is a new kind of source.** Name ten documents
@@ -184,7 +200,10 @@ already passed every other check.
 ## 6. Publish, summarise, build
 
 ```
-python pipeline/translate/publish_translations.py --unit <slug>
+python pipeline/translate/publish_translations.py --unit <slug> --tag <tag>
+python pipeline/build/relabel_scans.py            --unit <slug> --apply
+python pipeline/build/make_scan_derivatives.py
+python regenerate.py --unit <slug>                # twice - see below
 python pipeline/translate/summarise.py --unit <slug> --batch     # then --collect
 python pipeline/translate/summarise.py --unit <slug> --lang de --batch
 python regenerate.py --site
@@ -194,6 +213,37 @@ Summaries are written from the English, so they follow it: if the translation
 was re-run, the affected summaries must be too. `summaries.yml` is one file for
 the whole project and the build refuses to write a smaller one than it found —
 a unit-scoped walk once quietly replaced 345 summaries with 32.
+
+**Record the tag you published from, in `unit.yml` as `published_tag`.** Nothing
+else in the pipeline remembers it, and every tool defaults to the untagged
+cache. 14526 was published from `--tag v2`; months later a check run without the
+tag read the abandoned untagged generation, reported 80 ruled-against renderings
+and 23 of 30 documents blocked, and all of it described text no reader has ever
+seen. The published English was clean. An hour went into investigating a defect
+that did not exist, and the repair being prepared would have overwritten the
+good text with the worse generation.
+
+### The images are a separate publication, and they are not automatic
+
+`regenerate.py` never renames a scan and never makes a web copy. Both are
+deliberate acts, and a holding that skips them reaches the site with every image
+link broken.
+
+- **`relabel_scans.py --apply` first**, then derivatives. The label after the
+  hyphen is derived from the mapping, so relabelling renames the originals and
+  prunes any derivative whose name has changed — without recreating it. Make
+  the derivatives first and you have simply thrown them away.
+- **`make_scan_derivatives.py` takes no `--unit`.** It walks all of `pages/` and
+  skips whatever is already current, so it is safe, and the count it reports
+  ("209 made, 1160 already current") is the check that it touched only the new
+  holding.
+- **Then rebuild twice.** `PER_UNIT` runs `build_db.py` *before* `match_scans.py`,
+  so `build_db` writes each page's `scan` field from the mapping as it stood at
+  the start of the run. After a relabel the first rebuild therefore bakes in the
+  old filenames and `verify_site.py` fails on every image — 165 broken links on
+  14525. The second pass reads the mapping the first pass rewrote and comes out
+  clean. This is worth knowing rather than fixing blind: the order is load
+  bearing elsewhere.
 
 ## 7. Verify
 
@@ -235,6 +285,29 @@ answer is *no differences*, or differences you can name exactly.
    lookaheads that kept `Hon` from matching Honrichs, and took one man from 43
    documents to 48. Count the documents a new pattern touches, and read a sample
    line from each, **before** anything is translated against it.
+
+8. **A placeholder reaching a paid prompt.** `unit.yml`'s `description` and
+   `translation_note` are read by `unit_preamble()` and open the prompt for both
+   the translator and the summariser. 14525 was translated in full, 44
+   documents, with the literal string "TODO: a sentence for the reader." sitting
+   in every request. The title carried enough that the output survived it, which
+   is the worst version of this: it cost money and left no mark. Fill the fields
+   before the first paid run; `check_pipeline.py` now refuses a build that finds
+   a placeholder in one.
+9. **Checking a change against whatever happens to be on disk.** Before altering
+   shared checking code, take the "before" by running the *pristine* version —
+   `git show HEAD:<file>` into a sibling path, so its `ROOT` still resolves —
+   and diff that against the new output. The review sheets lying in `review/`
+   may be months old and built by different code; comparing against them
+   produces a diff full of rows that no edit caused, and hides the ones it did.
+   Assert explicitly that no row disappeared from a category the change did not
+   touch, and that no document left the blocked list.
+10. **Counting occurrences in a data file by grepping its bytes.** A YAML block
+   scalar folds and re-indents the text it holds, so `grep -c` over
+   `site/_data/translations/*.yml` answers a question about the file's bytes and
+   not about the edition. Parse it and walk the segments. Grepping bytes
+   reported 27 ruled-against renderings in a published holding; parsing the same
+   files reported none, which was the truth.
 
 ### State files
 
