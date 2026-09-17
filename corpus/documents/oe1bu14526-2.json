@@ -27,6 +27,9 @@
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "witow"
+ ],
  "is_missing": 0,
  "n_lines": 291,
  "n_pages": 10,
@@ -749,6 +752,85 @@
   }
  ],
  "place_canonical": "Kalisch",
+ "place_mentions": [
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Witow",
+   "page": 1,
+   "page_id": "0003_b",
+   "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
+   "line": 52,
+   "doc_line": 11
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Witow",
+   "page": 1,
+   "page_id": "0003_b",
+   "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
+   "line": 69,
+   "doc_line": 28
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Witow",
+   "page": 5,
+   "page_id": "0005_a2",
+   "scan": "Oe_1_Bu_14526_0005_a2-L2_05.jpg",
+   "line": 198,
+   "doc_line": 153
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisch",
+   "page": 8,
+   "page_id": "0007_a1",
+   "scan": "Oe_1_Bu_14526_0007_a1-L2_08.jpg",
+   "line": 266,
+   "doc_line": 218
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 9,
+   "page_id": "0007_a2",
+   "scan": "Oe_1_Bu_14526_0007_a2-L2_09.jpg",
+   "line": 304,
+   "doc_line": 255
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 9,
+   "page_id": "0007_a2",
+   "scan": "Oe_1_Bu_14526_0007_a2-L2_09.jpg",
+   "line": 312,
+   "doc_line": 263
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 10,
+   "page_id": "0008_a1",
+   "scan": "Oe_1_Bu_14526_0008_a1-L2_10.jpg",
+   "line": 337,
+   "doc_line": 287
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

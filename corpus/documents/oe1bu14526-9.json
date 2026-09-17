@@ -27,6 +27,9 @@
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "kopojno"
+ ],
  "is_missing": 0,
  "n_lines": 365,
  "n_pages": 13,
@@ -897,6 +900,107 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 1,
+   "page_id": "0049_b",
+   "scan": "Oe_1_Bu_14526_0049_b-L9_01.jpg",
+   "line": 2535,
+   "doc_line": 11
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0049_b",
+   "scan": "Oe_1_Bu_14526_0049_b-L9_01.jpg",
+   "line": 2539,
+   "doc_line": 15
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 2,
+   "page_id": "0050_a1",
+   "scan": "Oe_1_Bu_14526_0050_a1-L9_02.jpg",
+   "line": 2567,
+   "doc_line": 42
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 4,
+   "page_id": "0051_a1",
+   "scan": "Oe_1_Bu_14526_0051_a1-L9_04.jpg",
+   "line": 2634,
+   "doc_line": 107
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 5,
+   "page_id": "0051_a2",
+   "scan": "Oe_1_Bu_14526_0051_a2-L9_05.jpg",
+   "line": 2662,
+   "doc_line": 134
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 11,
+   "page_id": "0054_a2",
+   "scan": "Oe_1_Bu_14526_0054_a2-L9_11.jpg",
+   "line": 2821,
+   "doc_line": 287
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 11,
+   "page_id": "0054_a2",
+   "scan": "Oe_1_Bu_14526_0054_a2-L9_11.jpg",
+   "line": 2823,
+   "doc_line": 289
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 13,
+   "page_id": "0055_a2",
+   "scan": "Oe_1_Bu_14526_0055_a2-L9_13.jpg",
+   "line": 2892,
+   "doc_line": 356
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 13,
+   "page_id": "0055_a2",
+   "scan": "Oe_1_Bu_14526_0055_a2-L9_13.jpg",
+   "line": 2901,
+   "doc_line": 365
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

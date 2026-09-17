@@ -33,6 +33,9 @@
    "note": "Document 21 is conditional throughout on the sale to Honrichs having been annulled; document 2 is the purchase punctation to Martin Honrichs over the same estate of Witow. It replaces that document only once the annulment takes effect."
   }
  ],
+ "estates": [
+  "witow"
+ ],
  "is_missing": 0,
  "n_lines": 102,
  "n_pages": 4,
@@ -482,6 +485,63 @@
   }
  ],
  "place_canonical": "Kalisch",
+ "place_mentions": [
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 1,
+   "page_id": "0136_b",
+   "scan": "Oe_1_Bu_14526_0136_b-L21_01.jpg",
+   "line": 6841,
+   "doc_line": 10
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 2,
+   "page_id": "0137_a1",
+   "scan": "Oe_1_Bu_14526_0137_a1-L21_02.jpg",
+   "line": 6882,
+   "doc_line": 50
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Witttow",
+   "page": 3,
+   "page_id": "0137_a2",
+   "scan": "Oe_1_Bu_14526_0137_a2-L21_03.jpg",
+   "line": 6906,
+   "doc_line": 73
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 4,
+   "page_id": "0138_a",
+   "scan": "Oe_1_Bu_14526_0138_a-L21_04.jpg",
+   "line": 6919,
+   "doc_line": 85
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisch",
+   "page": 4,
+   "page_id": "0138_a",
+   "scan": "Oe_1_Bu_14526_0138_a-L21_04.jpg",
+   "line": 6932,
+   "doc_line": 98
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

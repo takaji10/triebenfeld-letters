@@ -27,6 +27,9 @@
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "glazewo"
+ ],
  "is_missing": 0,
  "n_lines": 28,
  "n_pages": 1,
@@ -96,10 +99,10 @@
   },
   {
    "entity": "",
-   "display": "Głazewo",
+   "display": "Głażewo",
    "kind": "place",
    "surface_de": "Głazewo",
-   "surface_en": "Głazewo",
+   "surface_en": "Głażewo",
    "page": 1
   },
   {
@@ -136,11 +139,35 @@
   }
  ],
  "place_canonical": "Betsche",
+ "place_mentions": [
+  {
+   "entity": "glazewo",
+   "display": "Głażewo",
+   "kind": "place",
+   "surface": "Głazewo",
+   "page": 1,
+   "page_id": "0165_a2",
+   "scan": "Oe_1_Bu_14526_0165_a2-L29_01.jpg",
+   "line": 8008,
+   "doc_line": 7
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 1,
+   "page_id": "0165_a2",
+   "scan": "Oe_1_Bu_14526_0165_a2-L29_01.jpg",
+   "line": 8028,
+   "doc_line": 27
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nFrom the deed of sale of the 28th of September of the current year, appended here in Copy, and from its enclosures, Your Most Serene Highness will most graciously be pleased to gather that Sigismund von Rzadkowski has sold the hereditary quit-rent estate situated in Głazewo to his half-sister Susanna, née Treben. Since now the right of pre-emption belongs to Your Most Serene Highness, we beg the same most highly (the contract has been approved under reservation of the princely rights) most graciously to declare, within S. weeks, whether the same most highly will make use of the right of pre-emption; because, after the expiry of this term, it is assumed in accordance with the laws that the same most highly relinquishes this right for the present case.\n\nIn which we persist with deepest reverence, Your Serene Highness's\n\nmost humble and obedient\n\nThe Court Office of this place\n\nMetzig\n\nNeumann\n\nBetsche\n\nthe 10th of April 1805",
+   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nFrom the deed of sale of the 28th of September of the current year, appended here in Copy, and from its enclosures, Your Most Serene Highness will most graciously be pleased to gather that Sigismund von Rzadkowski has sold the hereditary quit-rent estate situated in Głażewo to his half-sister Susanna, née Treben. Since now the right of pre-emption belongs to Your Most Serene Highness, we beg the same most highly (the contract has been approved under reservation of the princely rights) most graciously to declare, within S. weeks, whether the same most highly will make use of the right of pre-emption; because, after the expiry of this term, it is assumed in accordance with the laws that the same most highly relinquishes this right for the present case.\n\nIn which we persist with deepest reverence, Your Serene Highness's\n\nmost humble and obedient\n\nThe Court Office of this place\n\nMetzig\n\nNeumann\n\nBetsche\n\nthe 10th of April 1805",
    "names": [
     {
      "de": "Sigismund von Rzadkowski",
@@ -149,7 +176,7 @@
     },
     {
      "de": "Głazewo",
-     "en": "Głazewo",
+     "en": "Głażewo",
      "kind": "place"
     },
     {
@@ -180,7 +207,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nFrom the deed of sale of the 28th of September of the current year, appended here in Copy, and from its enclosures, Your Most Serene Highness will most graciously be pleased to gather that Sigismund von Rzadkowski has sold the hereditary quit-rent estate situated in Głazewo to his half-sister Susanna, née Treben. Since now the right of pre-emption belongs to Your Most Serene Highness, we beg the same most highly (the contract has been approved under reservation of the princely rights) most graciously to declare, within S. weeks, whether the same most highly will make use of the right of pre-emption; because, after the expiry of this term, it is assumed in accordance with the laws that the same most highly relinquishes this right for the present case.\n\nIn which we persist with deepest reverence, Your Serene Highness's\n\nmost humble and obedient\n\nThe Court Office of this place\n\nMetzig\n\nNeumann\n\nBetsche\n\nthe 10th of April 1805",
+ "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nFrom the deed of sale of the 28th of September of the current year, appended here in Copy, and from its enclosures, Your Most Serene Highness will most graciously be pleased to gather that Sigismund von Rzadkowski has sold the hereditary quit-rent estate situated in Głażewo to his half-sister Susanna, née Treben. Since now the right of pre-emption belongs to Your Most Serene Highness, we beg the same most highly (the contract has been approved under reservation of the princely rights) most graciously to declare, within S. weeks, whether the same most highly will make use of the right of pre-emption; because, after the expiry of this term, it is assumed in accordance with the laws that the same most highly relinquishes this right for the present case.\n\nIn which we persist with deepest reverence, Your Serene Highness's\n\nmost humble and obedient\n\nThe Court Office of this place\n\nMetzig\n\nNeumann\n\nBetsche\n\nthe 10th of April 1805",
  "summary_en": "A court office at Betsche notifies the Prince of Hohenlohe-Ingelfingen that Sigismund von Rzadkowski has sold his hereditary quit-rent holding at Głazewo to his half-sister Susanna, née Treben, enclosing a copy of the sale deed of 28 September and its papers. The contract has been approved subject to the princely rights, and the Prince is asked to declare within a set number of weeks whether he will exercise his right of pre-emption; silence will count as waiving it.",
  "summary_de": "Anfrage des hiesigen Hofgerichts an Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, wegen des Vorkaufsrechts: Nach einem beigefügten Kaufvertrag vom 28. September hat Sigismund von Rzadkowski das in Głazewo gelegene Erbzinsgut an seine Halbschwester Susanna, geborene Treben, verkauft. Der Vertrag ist unter Vorbehalt der fürstlichen Rechte bestätigt. Der Fürst wird gebeten, binnen einer gesetzten Frist von Wochen zu erklären, ob er vom Vorkaufsrecht Gebrauch macht; nach Fristablauf gilt es als aufgegeben. Unterzeichnet Metzig und Neumann."
 }

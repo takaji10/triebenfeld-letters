@@ -27,6 +27,9 @@
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
  "is_missing": 0,
  "n_lines": 418,
  "n_pages": 11,
@@ -498,6 +501,30 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0072_b",
+   "scan": "Oe_1_Bu_14526_0072_b-L12_01.jpg",
+   "line": 3750,
+   "doc_line": 1
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 2,
+   "page_id": "0073_a1",
+   "scan": "Oe_1_Bu_14526_0073_a1-L12_02.jpg",
+   "line": 3798,
+   "doc_line": 48
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

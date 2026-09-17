@@ -11,12 +11,17 @@ title: >-
 # The datelines run 1798-10-01 to 1806-07-18. The volume reaches further at both
 # ends without saying so in a dateline: the Posen chapter privilege reproduces a
 # 1766 grant, and two hereditary-lease contracts carry engrossments issued by
-# the Zagorowo patrimonial court on 28 January 1808, after the estates had been
+# the Zagórów patrimonial court on 28 January 1808, after the estates had been
 # seized. Neither is a date this field can hold, and the era's span is computed
 # from the datelines anyway - so this records what the documents are dated, and
 # the reach is described below.
 date_span: 1798-1806
 status: translated         # draft | transcribed | translated | published
+
+# The translation generation this holding was published from. Every tool
+# defaults to the untagged cache, so without this the next check reads an
+# abandoned draft and reports faults in text nobody is served.
+published_tag: v2
 
 # Which era this holding belongs to - reference/eras.yml. An editorial
 # assignment, not a date range: most of these documents postdate the
@@ -62,7 +67,7 @@ description: >-
   1796 were then sold off and let out again: purchase contracts,
   hereditary-lease contracts, powers of attorney, royal confirmations and the
   notarial attestations that bind them together. The estates are Trąbczyn,
-  Betsche, Kolno and Kaemen, Zagorowo and Witow. Each package is an instrument
+  Betsche, Kolno and Kamionna, Zagórów and Witów. Each package is an instrument
   together with everything filed with it, so a single document here can run to
   twenty-eight manuscript pages. Several of the leases name the settlers who
   took the land and the terms they took it on.

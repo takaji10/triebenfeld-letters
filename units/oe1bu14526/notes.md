@@ -172,7 +172,7 @@ privilege appears as a German translation and its Polish-and-Latin original
 settles readings the other loses.
 
 The date range is **1766-1808**, wider than the volume's own subject suggests.
-The 1766 outlier is the Czartoryski privilege for Głazewo, filed thirty years
+The 1766 outlier is the Czartoryski privilege for Głażewo, filed thirty years
 early as evidence of title.
 
 ## Next

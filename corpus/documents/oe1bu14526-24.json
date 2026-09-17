@@ -33,6 +33,9 @@
    "note": "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
   }
  ],
+ "estates": [
+  "betsche"
+ ],
  "is_missing": 0,
  "n_lines": 61,
  "n_pages": 2,
@@ -196,6 +199,74 @@
   }
  ],
  "place_canonical": "Posen",
+ "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 1,
+   "page_id": "0154_a2",
+   "scan": "Oe_1_Bu_14526_0154_a2-L24_01.jpg",
+   "line": 7644,
+   "doc_line": 6
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betscher",
+   "page": 2,
+   "page_id": "0155_a1",
+   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
+   "line": 7667,
+   "doc_line": 28
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 2,
+   "page_id": "0155_a1",
+   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
+   "line": 7678,
+   "doc_line": 39
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "0155_a1",
+   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
+   "line": 7688,
+   "doc_line": 49
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "0155_a1",
+   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
+   "line": 7696,
+   "doc_line": 57
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "0155_a1",
+   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
+   "line": 7698,
+   "doc_line": 59
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

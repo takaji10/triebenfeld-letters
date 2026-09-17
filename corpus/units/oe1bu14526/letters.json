@@ -28,6 +28,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "witow"
+  ],
   "is_missing": 0,
   "n_lines": 15,
   "n_pages": 1,
@@ -86,6 +89,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "witow"
+  ],
   "is_missing": 0,
   "n_lines": 291,
   "n_pages": 10,
@@ -325,6 +331,10 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "dormowo",
+   "betsche"
+  ],
   "is_missing": 0,
   "n_lines": 248,
   "n_pages": 11,
@@ -602,6 +612,10 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "kolno",
+   "kamionno"
+  ],
   "is_missing": 0,
   "n_lines": 264,
   "n_pages": 8,
@@ -838,6 +852,10 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "kolno",
+   "kamionno"
+  ],
   "is_missing": 0,
   "n_lines": 230,
   "n_pages": 8,
@@ -1049,6 +1067,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "osiny"
+  ],
   "is_missing": 0,
   "n_lines": 372,
   "n_pages": 14,
@@ -1378,6 +1399,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 266,
   "n_pages": 12,
@@ -1658,6 +1682,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 720,
   "n_pages": 22,
@@ -2145,6 +2172,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "kopojno"
+  ],
   "is_missing": 0,
   "n_lines": 365,
   "n_pages": 13,
@@ -2455,6 +2485,10 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "drzewce",
+   "wrabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 430,
   "n_pages": 15,
@@ -2806,6 +2840,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 388,
   "n_pages": 11,
@@ -3062,6 +3099,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 418,
   "n_pages": 11,
@@ -3319,6 +3359,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 179,
   "n_pages": 6,
@@ -3486,6 +3529,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 395,
   "n_pages": 12,
@@ -3763,6 +3809,10 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn",
+   "osiny"
+  ],
   "is_missing": 0,
   "n_lines": 178,
   "n_pages": 6,
@@ -3959,6 +4009,9 @@
     "target": "17",
     "note": "Document 16 records that the contract made over these ten Hufen on 26 May of that year by one Kunkel was handed back and wholly annulled. Document 17 is that Kunkel contract, dated 26 May 1804."
    }
+  ],
+  "estates": [
+   "trabczyn"
   ],
   "is_missing": 0,
   "n_lines": 551,
@@ -4349,7 +4402,7 @@
   "year": 1804,
   "month": 5,
   "day": 26,
-  "place": "Zagorowo",
+  "place": "Zagórów",
   "sender": "",
   "recipient": "",
   "line_start": 5527,
@@ -4359,6 +4412,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 200,
   "n_pages": 10,
@@ -4607,6 +4663,15 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "betsche",
+   "stolun",
+   "kuligowo",
+   "szarcz",
+   "stoki",
+   "swiechocin",
+   "lowyn"
+  ],
   "is_missing": 0,
   "n_lines": 537,
   "n_pages": 28,
@@ -5209,6 +5274,15 @@
   "language": "de",
   "duplicate_of": "18",
   "relations": [],
+  "estates": [
+   "betsche",
+   "stolun",
+   "kuligowo",
+   "szarcz",
+   "stoki",
+   "swiechocin",
+   "lowyn"
+  ],
   "is_missing": 0,
   "n_lines": 486,
   "n_pages": 19,
@@ -5646,6 +5720,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "swiecia"
+  ],
   "is_missing": 0,
   "n_lines": 18,
   "n_pages": 1,
@@ -5708,6 +5785,9 @@
     "target": "2",
     "note": "Document 21 is conditional throughout on the sale to Honrichs having been annulled; document 2 is the purchase punctation to Martin Honrichs over the same estate of Witow. It replaces that document only once the annulment takes effect."
    }
+  ],
+  "estates": [
+   "witow"
   ],
   "is_missing": 0,
   "n_lines": 102,
@@ -5837,6 +5917,10 @@
     "note": "A covering rescript of the same day, transmitting an engrossment of the purchase contract confirmed under that date."
    }
   ],
+  "estates": [
+   "kolno",
+   "kamionno"
+  ],
   "is_missing": 0,
   "n_lines": 21,
   "n_pages": 1,
@@ -5905,6 +5989,10 @@
     "target": "4",
     "note": "The confirmation names the purchase contract of 16 and 25 January 1805; document 4 is that contract, subscribed at Breslau on 16 January 1805."
    }
+  ],
+  "estates": [
+   "kolno",
+   "kamionno"
   ],
   "is_missing": 0,
   "n_lines": 650,
@@ -6476,6 +6564,9 @@
     "note": "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
    }
   ],
+  "estates": [
+   "betsche"
+  ],
   "is_missing": 0,
   "n_lines": 61,
   "n_pages": 2,
@@ -6547,7 +6638,7 @@
   "year": 1798,
   "month": 10,
   "day": 1,
-  "place": "Zagorowo",
+  "place": "Zagórów",
   "sender": "",
   "recipient": "",
   "line_start": 7701,
@@ -6557,6 +6648,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "szetlewek"
+  ],
   "is_missing": 0,
   "n_lines": 73,
   "n_pages": 3,
@@ -6659,7 +6753,7 @@
   "year": 1799,
   "month": 7,
   "day": 1,
-  "place": "Zagorowo",
+  "place": "Zagórów",
   "sender": "",
   "recipient": "",
   "line_start": 7778,
@@ -6669,6 +6763,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "szetlewek"
+  ],
   "is_missing": 0,
   "n_lines": 99,
   "n_pages": 4,
@@ -6777,7 +6874,7 @@
   "year": 1799,
   "month": 4,
   "day": 16,
-  "place": "Zagorowo",
+  "place": "Zagórów",
   "sender": "",
   "recipient": "",
   "line_start": 7882,
@@ -6787,6 +6884,10 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn",
+   "szetlewek"
+  ],
   "is_missing": 0,
   "n_lines": 69,
   "n_pages": 3,
@@ -6876,7 +6977,7 @@
   "year": 1799,
   "month": 5,
   "day": 27,
-  "place": "Zagorowo",
+  "place": "Zagórów",
   "sender": "",
   "recipient": "",
   "line_start": 7955,
@@ -6886,6 +6987,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
   "is_missing": 0,
   "n_lines": 42,
   "n_pages": 2,
@@ -6963,6 +7067,9 @@
   "language": "de",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "glazewo"
+  ],
   "is_missing": 0,
   "n_lines": 28,
   "n_pages": 1,
@@ -7027,6 +7134,10 @@
   "language": "de,la,pl",
   "duplicate_of": "",
   "relations": [],
+  "estates": [
+   "glazewo",
+   "betsche"
+  ],
   "is_missing": 0,
   "n_lines": 137,
   "n_pages": 5,

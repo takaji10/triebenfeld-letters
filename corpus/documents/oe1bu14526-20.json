@@ -27,6 +27,9 @@
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "swiecia"
+ ],
  "is_missing": 0,
  "n_lines": 18,
  "n_pages": 1,
@@ -166,6 +169,74 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 1,
+   "page_id": "0134_b",
+   "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+   "line": 6813,
+   "doc_line": 2
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0134_b",
+   "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+   "line": 6817,
+   "doc_line": 6
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 1,
+   "page_id": "0134_b",
+   "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+   "line": 6819,
+   "doc_line": 8
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0134_b",
+   "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+   "line": 6821,
+   "doc_line": 10
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 1,
+   "page_id": "0134_b",
+   "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+   "line": 6821,
+   "doc_line": 10
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "0134_b",
+   "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+   "line": 6828,
+   "doc_line": 17
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -30,7 +30,7 @@ places:
     "14": "Trąbczyn"
     "15": "Trąbczyn"
     "16": "Trąbczyn"
-    "17": "Zagorowo"
+    "17": "Zagórów"
     "18": "Betsche"
     "19": "Betsche"
     "20": "Breslau"
@@ -38,10 +38,10 @@ places:
     "22": "Posen"
     "23": "Posen"
     "24": "Posen"
-    "25": "Zagorowo"
-    "26": "Zagorowo"
-    "27": "Zagorowo"
-    "28": "Zagorowo"
+    "25": "Zagórów"
+    "26": "Zagórów"
+    "27": "Zagórów"
+    "28": "Zagórów"
     "29": "Betsche"
     "30": "Dolsk"
 
@@ -180,6 +180,48 @@ documents:
       - kind: supersedes
         target: "2"
         note: "Document 21 is conditional throughout on the sale to Honrichs having been annulled; document 2 is the purchase punctation to Martin Honrichs over the same estate of Witow. It replaces that document only once the annulment takes effect."
+
+  # The estate or estates each document is ABOUT, as slugs from
+  # reference/places.yml. Authored, not counted: this volume is title deeds, and
+  # a contract made before the patrimonial court at Trąbczyn over land at Osiny
+  # names both, but is about Osiny. Places of business and the towns where a
+  # party lives are excluded; so is Breslau, which is where the prince was, not
+  # what was being sold.
+  estates:
+    "1": [witow]
+    "2": [witow]
+    # The holding sold lies at Dormowo; the dues run to the Betsche manor.
+    "3": [dormowo, betsche]
+    "4": [kolno, kamionno]
+    "5": [kolno, kamionno]
+    "6": [osiny]
+    "7": [trabczyn]
+    "8": [trabczyn]
+    "9": [kopojno]
+    "10": [drzewce, wrabczyn]
+    "11": [trabczyn]
+    # The Przybysław demesne farm, which has no entry of its own, is part of
+    # the Trąbczyn estates.
+    "12": [trabczyn]
+    "13": [trabczyn]
+    "14": [trabczyn]
+    "15": [trabczyn, osiny]
+    "16": [trabczyn]
+    "17": [trabczyn]
+    "18": [betsche, stolun, kuligowo, szarcz, stoki, swiechocin, lowyn]
+    "19": [betsche, stolun, kuligowo, szarcz, stoki, swiechocin, lowyn]
+    "20": [swiecia]
+    "21": [witow]
+    "22": [kolno, kamionno]
+    "23": [kolno, kamionno]
+    "24": [betsche]
+    "25": [szetlewek]
+    "26": [szetlewek]
+    "27": [trabczyn, szetlewek]
+    "28": [trabczyn]
+    "29": [glazewo]
+    # A Hufe at Głażewo, which the privilege places "in the Betsche key".
+    "30": [glazewo, betsche]
 
 damage:
   # Damage is read from the text's own [...] markers. List document numbers
