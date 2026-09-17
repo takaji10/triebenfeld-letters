@@ -205,10 +205,10 @@
   },
   {
    "entity": "",
-   "display": "Zagorowo",
+   "display": "Zagórów",
    "kind": "place",
    "surface_de": "Zagorower",
-   "surface_en": "Zagorowo",
+   "surface_en": "Zagórów",
    "page": 1
   },
   {
@@ -261,11 +261,57 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
+   "line": 16706,
+   "doc_line": 18
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
+   "line": 16706,
+   "doc_line": 18
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorower",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
+   "line": 16708,
+   "doc_line": 20
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0432_a1-L229_02.jpg",
+   "line": 16731,
+   "doc_line": 42
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother to that on which You first beheld the light of the world, and which will remain the jewel among the lesser ones that follow it, I cannot lay myself personally at Your Most Serene Highness's feet and bring forward my faithful and sincere wishes. I can do it [uncertain: only] in writing, but let it be just as heartfelt all the same. God grant Your Most Serene Highness to live to see at least 50 more days of this kind; may He bestow upon You the most lasting health, [uncertain: true] good fortune and contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to you, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish on this important day. For the rest, the Attorney-General Count Lipski, the Tribunal President Smogorzewski, the Tribunal Councillor Rembowski, the Tribunal Councillor Michalski, and the Tribunal Councillor Sobocki render Your Most Serene Highness their most humble thanks for the fine game. The effect will shortly show itself in the decision of the Olesnica and Wrąbczyn matter. With the sub-prefect Brzechsta I have concluded, sub spe rati, the lease contract for the Zagorowo estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him at Schlawenschitz, where the contract may then be concluded by Your Serene Highness",
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother to that on which You first beheld the light of the world, and which will remain the jewel among the lesser ones that follow it, I cannot lay myself personally at Your Most Serene Highness's feet and bring forward my faithful and sincere wishes. I can do it [uncertain: only] in writing, but let it be just as heartfelt all the same. God grant Your Most Serene Highness to live to see at least 50 more days of this kind; may He bestow upon You the most lasting health, [uncertain: true] good fortune and contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to you, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish on this important day. For the rest, the Attorney-General Count Lipski, the Tribunal President Smogorzewski, the Tribunal Councillor Rembowski, the Tribunal Councillor Michalski, and the Tribunal Councillor Sobocki render Your Most Serene Highness their most humble thanks for the fine game. The effect will shortly show itself in the decision of the Olesnica and Wrąbczyn matter. With the sub-prefect Brzechsta I have concluded, sub spe rati, the lease contract for the Zagórów estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him at Schlawenschitz, where the contract may then be concluded by Your Serene Highness",
    "names": [
     {
      "de": "Lipski",
@@ -309,7 +355,7 @@
     },
     {
      "de": "Zagorower",
-     "en": "Zagorowo",
+     "en": "Zagórów",
      "kind": "place"
     },
     {
@@ -360,7 +406,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother to that on which You first beheld the light of the world, and which will remain the jewel among the lesser ones that follow it, I cannot lay myself personally at Your Most Serene Highness's feet and bring forward my faithful and sincere wishes. I can do it [uncertain: only] in writing, but let it be just as heartfelt all the same. God grant Your Most Serene Highness to live to see at least 50 more days of this kind; may He bestow upon You the most lasting health, [uncertain: true] good fortune and contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to you, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish on this important day. For the rest, the Attorney-General Count Lipski, the Tribunal President Smogorzewski, the Tribunal Councillor Rembowski, the Tribunal Councillor Michalski, and the Tribunal Councillor Sobocki render Your Most Serene Highness their most humble thanks for the fine game. The effect will shortly show itself in the decision of the Olesnica and Wrąbczyn matter. With the sub-prefect Brzechsta I have concluded, sub spe rati, the lease contract for the Zagorowo estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him at Schlawenschitz, where the contract may then be concluded by Your Serene Highness\n\nhimself in due form. Whatever the said Mr. von Brzechsta may be able to gather together in ready money at short notice will be brought along. At present the daily new levies still carry off too much. All the interest is secured, and there still remain over to Your Serene Highness several thousand d annually; the Bayonne capital will likewise be completely amortised. In the meantime, as regards the ready money, it is only the gain from the two proceedings named on the preceding page that will first bring in anything real. The documents sent to me were submitted to the authority the day before yesterday. Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the levies pro futuro would be reduced. It would depend upon a sacrifice, which\n\nMr. von Brzechsta will advance, should it be required. For the rest, Your Serene Highness receives back the original documents, the use of them having been made.\n\nthe Parobeck follows, and if it succeeds we shall bring along a still bigger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful and most humble and obedient servant\n\nv Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nOn this important day, which is a brother to that on which You first beheld the light of the world, and which will remain the jewel among the lesser ones that follow it, I cannot lay myself personally at Your Most Serene Highness's feet and bring forward my faithful and sincere wishes. I can do it [uncertain: only] in writing, but let it be just as heartfelt all the same. God grant Your Most Serene Highness to live to see at least 50 more days of this kind; may He bestow upon You the most lasting health, [uncertain: true] good fortune and contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to you, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish on this important day. For the rest, the Attorney-General Count Lipski, the Tribunal President Smogorzewski, the Tribunal Councillor Rembowski, the Tribunal Councillor Michalski, and the Tribunal Councillor Sobocki render Your Most Serene Highness their most humble thanks for the fine game. The effect will shortly show itself in the decision of the Olesnica and Wrąbczyn matter. With the sub-prefect Brzechsta I have concluded, sub spe rati, the lease contract for the Zagórów estates alone, at 20000 Rthl. On the 8th of February I intend to arrive with him at Schlawenschitz, where the contract may then be concluded by Your Serene Highness\n\nhimself in due form. Whatever the said Mr. von Brzechsta may be able to gather together in ready money at short notice will be brought along. At present the daily new levies still carry off too much. All the interest is secured, and there still remain over to Your Serene Highness several thousand d annually; the Bayonne capital will likewise be completely amortised. In the meantime, as regards the ready money, it is only the gain from the two proceedings named on the preceding page that will first bring in anything real. The documents sent to me were submitted to the authority the day before yesterday. Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the levies pro futuro would be reduced. It would depend upon a sacrifice, which\n\nMr. von Brzechsta will advance, should it be required. For the rest, Your Serene Highness receives back the original documents, the use of them having been made.\n\nthe Parobeck follows, and if it succeeds we shall bring along a still bigger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful and most humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "Birthday good wishes open a report of business: Attorney-General Count Lipski, Tribunal President Smogorzewski and Tribunal Councillors Rembowski, Michalski and Sobocki send thanks for a gift of game, and a favourable decision in the Olesnica and Wrąbczyn cases is expected shortly. A lease of the Zagorowo estates alone has been agreed with sub-prefect Brzechsta at 20,000 Rthl, subject to confirmation at Schlawenschitz on 8 February; interest is covered and the Bayonne capital will be paid off. Original documents returned.",
  "summary_de": "Glückwunsch zum Geburtstag des Fürsten, verbunden mit Geschäftsnachrichten: Generalprokurator Graf Lipski, Tribunalpräsident Smogorzewski sowie die Tribunalräte Rembowski, Michalski und Sobocki danken für das übersandte Wild; eine Entscheidung in der Sache Olesnica und Wrąbczyn stehe bald an. Mit dem Unterpräfekten Brzechsta ist sub spe rati ein Pachtvertrag über die Zagorowoer Güter allein zu 20000 Rthl geschlossen, der am 8. Februar in Schlawenschitz förmlich abgeschlossen werden soll; Zinsen seien gedeckt, das Bayonner Kapital werde getilgt. Die übersandten Originalurkunden gehen zurück."
 }

@@ -403,6 +403,30 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+   "line": 19078,
+   "doc_line": 10
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+   "line": 19086,
+   "doc_line": 18
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

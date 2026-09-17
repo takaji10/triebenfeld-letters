@@ -331,6 +331,52 @@
   }
  ],
  "place_canonical": "Posen",
+ "place_mentions": [
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0278_b-L141_01.jpg",
+   "line": 10378,
+   "doc_line": 4
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0279_a1-L141_02.jpg",
+   "line": 10403,
+   "doc_line": 28
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsch",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0279_a1-L141_02.jpg",
+   "line": 10406,
+   "doc_line": 31
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0279_a1-L141_02.jpg",
+   "line": 10420,
+   "doc_line": 45
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

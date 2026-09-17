@@ -156,6 +156,30 @@
   }
  ],
  "place_canonical": "Klein Öhringen",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_b-L211_01.jpg",
+   "line": 14930,
+   "doc_line": 10
+  },
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_b-L211_01.jpg",
+   "line": 14941,
+   "doc_line": 21
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

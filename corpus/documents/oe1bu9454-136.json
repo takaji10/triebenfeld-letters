@@ -412,6 +412,17 @@
    "doc_line": 54
   },
   {
+   "entity": "radzinski",
+   "display": "Ignatz von Radzinski",
+   "kind": "person",
+   "surface": "Radzimski",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
+   "line": 9842,
+   "doc_line": 57
+  },
+  {
    "entity": "glenck",
    "display": "Glenck",
    "kind": "person",
@@ -687,10 +698,10 @@
   },
   {
    "entity": "",
-   "display": "Kaemen",
+   "display": "Kamionna",
    "kind": "place",
    "surface_de": "Kaemen",
-   "surface_en": "Kaemen",
+   "surface_en": "Kamionna",
    "page": 1
   },
   {
@@ -783,10 +794,10 @@
   },
   {
    "entity": "",
-   "display": "Kaemen",
+   "display": "Kamionna",
    "kind": "place",
    "surface_de": "Kaemen",
-   "surface_en": "Kaemen",
+   "surface_en": "Kamionna",
    "page": 2
   },
   {
@@ -911,10 +922,10 @@
   },
   {
    "entity": "",
-   "display": "Zagorowo",
+   "display": "Zagórów",
    "kind": "place",
    "surface_de": "Zagorowo",
-   "surface_en": "Zagorowo",
+   "surface_en": "Zagórów",
    "page": 3
   },
   {
@@ -958,11 +969,11 @@
    "page": 4
   },
   {
-   "entity": "",
-   "display": "Radzimski",
+   "entity": "radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface_de": "Radzimski",
-   "surface_en": "Radzimski",
+   "surface_en": "Radzinski",
    "page": 4
   },
   {
@@ -1415,10 +1426,10 @@
   },
   {
    "entity": "",
-   "display": "Kaemen",
+   "display": "Kamionna",
    "kind": "place",
    "surface_de": "Kaemen",
-   "surface_en": "Kaemen",
+   "surface_en": "Kamionna",
    "page": 12
   },
   {
@@ -1439,11 +1450,420 @@
   }
  ],
  "place_canonical": "Frankfurth an der Oder",
+ "place_mentions": [
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
+   "line": 9785,
+   "doc_line": 3
+  },
+  {
+   "entity": "kolno",
+   "display": "Kolno",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
+   "line": 9785,
+   "doc_line": 3
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
+   "line": 9794,
+   "doc_line": 12
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
+   "line": 9795,
+   "doc_line": 13
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
+   "line": 9801,
+   "doc_line": 18
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
+   "line": 9801,
+   "doc_line": 18
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
+   "line": 9803,
+   "doc_line": 20
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
+   "line": 9805,
+   "doc_line": 22
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
+   "line": 9816,
+   "doc_line": 33
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0263_a2-L136_03.jpg",
+   "line": 9832,
+   "doc_line": 48
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kaliszer",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
+   "line": 9841,
+   "doc_line": 56
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
+   "line": 9842,
+   "doc_line": 57
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
+   "line": 9865,
+   "doc_line": 80
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_b-L136_05.jpg",
+   "line": 9875,
+   "doc_line": 89
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_b-L136_05.jpg",
+   "line": 9877,
+   "doc_line": 91
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_b-L136_05.jpg",
+   "line": 9885,
+   "doc_line": 99
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0264_b-L136_05.jpg",
+   "line": 9892,
+   "doc_line": 106
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9900,
+   "doc_line": 113
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9904,
+   "doc_line": 117
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9916,
+   "doc_line": 129
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9916,
+   "doc_line": 129
+  },
+  {
+   "entity": "skokum",
+   "display": "Skokum",
+   "kind": "place",
+   "surface": "Skokum",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9916,
+   "doc_line": 129
+  },
+  {
+   "entity": "swiatniki",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface": "Swiątniki",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9916,
+   "doc_line": 129
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbcziner",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+   "line": 9917,
+   "doc_line": 130
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a2-L136_07.jpg",
+   "line": 9927,
+   "doc_line": 139
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0265_a2-L136_07.jpg",
+   "line": 9936,
+   "doc_line": 148
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 8,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
+   "line": 9940,
+   "doc_line": 151
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 8,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
+   "line": 9952,
+   "doc_line": 163
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 8,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
+   "line": 9953,
+   "doc_line": 164
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczin",
+   "page": 9,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0266_b-L136_09.jpg",
+   "line": 9964,
+   "doc_line": 174
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 10,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0267_a1-L136_10.jpg",
+   "line": 9979,
+   "doc_line": 188
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 10,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0267_a1-L136_10.jpg",
+   "line": 9993,
+   "doc_line": 202
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 12,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
+   "line": 10022,
+   "doc_line": 229
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 12,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
+   "line": 10023,
+   "doc_line": 230
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 12,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
+   "line": 10024,
+   "doc_line": 231
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betschen",
+   "page": 12,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
+   "line": 10025,
+   "doc_line": 232
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 12,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
+   "line": 10026,
+   "doc_line": 233
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord, On the sale of Kolno and Kaemen I offer my most hearty congratulations, insofar as thereby Your Most Serene Highness's peace of mind has been secured, and my stout brother-in-law also satisfied. For the rest, I have done everything possible in order, according to Your Serene Highness's command, to be here on the 12th and to finalise everything. In the meantime neither Mr Gleich nor Mr Wünster is here, nor does either let anything be heard of himself, and I have neither papers nor power of attorney in hand to be able to settle anything real. This much, however, I have brought about: that the 76000 Rthl shall be paid here by the prospective purchasers. So that no pressure need first be applied in Breslau and no brokerage fees given, and also so that these moneys may be paid at once in Berlin to the Foundry Department according to Bernhardi's instruction. In this way everything concerning Koschentin is now disposed of, and it is only necessary that the people here be put at ease",
+   "en": "Most Serene Prince\n\nMost gracious Lord, On the sale of Kolno and Kamionna I offer my most hearty congratulations, insofar as thereby Your Most Serene Highness's peace of mind has been secured, and my stout brother-in-law also satisfied. For the rest, I have done everything possible in order, according to Your Serene Highness's command, to be here on the 12th and to finalise everything. In the meantime neither Mr Gleich nor Mr Wünster is here, nor does either let anything be heard of himself, and I have neither papers nor power of attorney in hand to be able to settle anything real. This much, however, I have brought about: that the 76000 Rthl shall be paid here by the prospective purchasers. So that no pressure need first be applied in Breslau and no brokerage fees given, and also so that these moneys may be paid at once in Berlin to the Foundry Department according to Bernhardi's instruction. In this way everything concerning Koschentin is now disposed of, and it is only necessary that the people here be put at ease",
    "names": [
     {
      "de": "Kolno",
@@ -1452,7 +1872,7 @@
     },
     {
      "de": "Kaemen",
-     "en": "Kaemen",
+     "en": "Kamionna",
      "kind": "place"
     },
     {
@@ -1493,7 +1913,7 @@
   },
   {
    "page": 2,
-   "en": "and that the Broniszewski matter be pursued — in this last affair I shall seek to exert influence in Berlin — for in Posen it is said, as only Bernhard says, to stand badly again.\n\nIt was a piece of good fortune that I had the Otto valuation of Kaemen etc. drawn up afresh and judicially [uncertain: attested]; for the gentlemen here wanted the assessment, and the one spoiled in Berlin for 25 [uncertain: Fider] could hardly be shown to the people; so I saw to it in Käbisch that I obtained the same in probative form, and now the purchasing gentlemen are glad, and have therefore not only promised anew to make the payment of the 76000 Rthl, but they now wish to give hard coin here. I have written this to Bernhardi by today's post, and have also pressed that Meyer Bernhard must write this to him, so that he may be entirely at ease and may act according to his plan.\n\nConcerning Kölzig I have brought up a new battery, which I hope will work well. I have dispatched to Berlin the Unruh so often named to Your Most Serene [Highness] and the like. He lodges with Mr von Köch: and is, as is known, everything to him; he remains there 3 weeks and is constantly to remind him of Kölzig",
+   "en": "and that the Broniszewski matter be pursued — in this last affair I shall seek to exert influence in Berlin — for in Posen it is said, as only Bernhard says, to stand badly again.\n\nIt was a piece of good fortune that I had the Otto valuation of Kamionna etc. drawn up afresh and judicially [uncertain: attested]; for the gentlemen here wanted the assessment, and the one spoiled in Berlin for 25 [uncertain: Fider] could hardly be shown to the people; so I saw to it in Käbisch that I obtained the same in probative form, and now the purchasing gentlemen are glad, and have therefore not only promised anew to make the payment of the 76000 Rthl, but they now wish to give hard coin here. I have written this to Bernhardi by today's post, and have also pressed that Meyer Bernhard must write this to him, so that he may be entirely at ease and may act according to his plan.\n\nConcerning Kölzig I have brought up a new battery, which I hope will work well. I have dispatched to Berlin the Unruh so often named to Your Most Serene [Highness] and the like. He lodges with Mr von Köch: and is, as is known, everything to him; he remains there 3 weeks and is constantly to remind him of Kölzig",
    "names": [
     {
      "de": "Broniszewskische",
@@ -1522,7 +1942,7 @@
     },
     {
      "de": "Kaemen",
-     "en": "Kaemen",
+     "en": "Kamionna",
      "kind": "place"
     },
     {
@@ -1569,7 +1989,7 @@
   },
   {
    "page": 3,
-   "en": "so that it is not overlooked.\n\nThe Grand Chancellor has ordered the government at Klogau to seize all moneys and all documents, and has also made known to it that on the 2nd of this month a letter was written to Lüchinne — that even if no document of insinuation, then at least a certificate should be sent in, that he has had the sentence of confiscation, which has already become res judicata, delivered to Count Schlabrendorff in Paris, according to which, as soon as Luchelini's certificate comes in, the estates are to be confiscated forthwith, and thereupon otherwise disposed of by His Majesty. This friend [uncertain: Unruh] is now to await, and diligently to let his battery play — Whether Amelang will accomplish anything with Beyme — time will tell. I confess that I count little upon this assistance.\n\nI have duly received the mortgage of Zagorowo, properly drawn up. Also from Lichnowski the assurance that he, should I require it, is willing to place himself behind 130000 Rthl. I shall now see how much they will give me, and what I receive Your Serene Highness will find on hand in the chest — if I can obtain the money without Lignourlis' help, that is the more agreeable to me, for then his security is [text lost] he must little Weigel the 27000 Rthl has at once to revert to Trapian and will thereafter let himself be dealt with better. The",
+   "en": "so that it is not overlooked.\n\nThe Grand Chancellor has ordered the government at Klogau to seize all moneys and all documents, and has also made known to it that on the 2nd of this month a letter was written to Lüchinne — that even if no document of insinuation, then at least a certificate should be sent in, that he has had the sentence of confiscation, which has already become res judicata, delivered to Count Schlabrendorff in Paris, according to which, as soon as Luchelini's certificate comes in, the estates are to be confiscated forthwith, and thereupon otherwise disposed of by His Majesty. This friend [uncertain: Unruh] is now to await, and diligently to let his battery play — Whether Amelang will accomplish anything with Beyme — time will tell. I confess that I count little upon this assistance.\n\nI have duly received the mortgage of Zagórów, properly drawn up. Also from Lichnowski the assurance that he, should I require it, is willing to place himself behind 130000 Rthl. I shall now see how much they will give me, and what I receive Your Serene Highness will find on hand in the chest — if I can obtain the money without Lignourlis' help, that is the more agreeable to me, for then his security is [text lost] he must little Weigel the 27000 Rthl has at once to revert to Trapian and will thereafter let himself be dealt with better. The",
    "names": [
     {
      "de": "Klogau",
@@ -1613,7 +2033,7 @@
     },
     {
      "de": "Zagorowo",
-     "en": "Zagorowo",
+     "en": "Zagórów",
      "kind": "place"
     },
     {
@@ -1645,7 +2065,7 @@
   },
   {
    "page": 4,
-   "en": "man of Kalisz already conceded this to me as well. With Radzimski in Szetlewek I am so far finished that he is to sit out his year, but in return has had to let all claims fall. The reckoning with him is roughly this: He has to demand\n\n1500 Rthl\n\nfor 2 years' interest\n\n112 Rthl disbursements, according to Glenck's instructions, for building costs 487 Rthl 4 gg\n\nSum:\n\n2099 Rthl 4 d. He is to pay rent from Midsummer 1803/4 1300 Rthl\n\nlikewise interest thereon\n\n56 Rthl\n\nrent from Midsummer 1804/5\n\n1300.\n\nMaking\n\n2656 Rthl Consequently Your Serene Highness would have to receive, up to 1805, 557 Rthl. Now he wishes to have 306 Rthl of legal costs allowed him, so that only 251 Rthl remain over. That is then the [uncertain: Savinin] of a whole year — everything must be cleared up. For the rest, there are 2 gentlemen here who wish to take Szetlewek. They give per Morgen 1 [uncertain: dkg] ground-rent, which together with the peasants' arable and other things will amount to some 2000 Rthl yearly, and the propination rights and jurisdiction are besides this also to be reckoned at several hundred d. Against the tenants Floricke I have at last obtained a decree of [uncertain: solutionis] — but I have applied at once for execution, and mean to wear them down. They are already very humble now — they still demand 4 Hufen, cleared, and 8 Hufen of waste land, but are already offering 20 Mk. ground-rent per Hufe — I shall do the beggarly fellows no harm — but there will certainly be nothing to be got either",
+   "en": "man of Kalisz already conceded this to me as well. With Radzinski in Szetlewek I am so far finished that he is to sit out his year, but in return has had to let all claims fall. The reckoning with him is roughly this: He has to demand\n\n1500 Rthl\n\nfor 2 years' interest\n\n112 Rthl disbursements, according to Glenck's instructions, for building costs 487 Rthl 4 gg\n\nSum:\n\n2099 Rthl 4 d. He is to pay rent from Midsummer 1803/4 1300 Rthl\n\nlikewise interest thereon\n\n56 Rthl\n\nrent from Midsummer 1804/5\n\n1300.\n\nMaking\n\n2656 Rthl Consequently Your Serene Highness would have to receive, up to 1805, 557 Rthl. Now he wishes to have 306 Rthl of legal costs allowed him, so that only 251 Rthl remain over. That is then the [uncertain: Savinin] of a whole year — everything must be cleared up. For the rest, there are 2 gentlemen here who wish to take Szetlewek. They give per Morgen 1 [uncertain: dkg] ground-rent, which together with the peasants' arable and other things will amount to some 2000 Rthl yearly, and the propination rights and jurisdiction are besides this also to be reckoned at several hundred d. Against the tenants Floricke I have at last obtained a decree of [uncertain: solutionis] — but I have applied at once for execution, and mean to wear them down. They are already very humble now — they still demand 4 Hufen, cleared, and 8 Hufen of waste land, but are already offering 20 Mk. ground-rent per Hufe — I shall do the beggarly fellows no harm — but there will certainly be nothing to be got either",
    "names": [
     {
      "de": "Kaliszer",
@@ -1654,7 +2074,7 @@
     },
     {
      "de": "Radzimski",
-     "en": "Radzimski",
+     "en": "Radzinski",
      "kind": "person"
     },
     {
@@ -2029,7 +2449,7 @@
   },
   {
    "page": 12,
-   "en": "together. I shall indeed press it upon his heart, the more so as it is now most necessary that he not knock about here any longer. Whether, however, he will listen to my representation, time must teach.\n\nFor my part, once the contract is concluded here, I shall hasten to Berlin, see to the loan and bring the money to Lombar dine; from there I hasten to Trąbczyn and there settle everything as aforesaid. When I am finished there I shall return to Breslau, attend to my business, and then go to Betsche, Kulm and Kaemen, so that everything may be arranged there too and these people here be satisfied.\n\nWith boundless fidelity I remain, until death, respectfully, Your Most Serene Highness's\n\nFrankfurt an der Oder\n\n13th June 1804\n\nfaithful, humble and obedient servant\n\nv. Triebenfeld",
+   "en": "together. I shall indeed press it upon his heart, the more so as it is now most necessary that he not knock about here any longer. Whether, however, he will listen to my representation, time must teach.\n\nFor my part, once the contract is concluded here, I shall hasten to Berlin, see to the loan and bring the money to Lombar dine; from there I hasten to Trąbczyn and there settle everything as aforesaid. When I am finished there I shall return to Breslau, attend to my business, and then go to Betsche, Kulm and Kamionna, so that everything may be arranged there too and these people here be satisfied.\n\nWith boundless fidelity I remain, until death, respectfully, Your Most Serene Highness's\n\nFrankfurt an der Oder\n\n13th June 1804\n\nfaithful, humble and obedient servant\n\nv. Triebenfeld",
    "names": [
     {
      "de": "Berlin",
@@ -2063,7 +2483,7 @@
     },
     {
      "de": "Kaemen",
-     "en": "Kaemen",
+     "en": "Kamionna",
      "kind": "place"
     },
     {
@@ -2083,7 +2503,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord, On the sale of Kolno and Kaemen I offer my most hearty congratulations, insofar as thereby Your Most Serene Highness's peace of mind has been secured, and my stout brother-in-law also satisfied. For the rest, I have done everything possible in order, according to Your Serene Highness's command, to be here on the 12th and to finalise everything. In the meantime neither Mr Gleich nor Mr Wünster is here, nor does either let anything be heard of himself, and I have neither papers nor power of attorney in hand to be able to settle anything real. This much, however, I have brought about: that the 76000 Rthl shall be paid here by the prospective purchasers. So that no pressure need first be applied in Breslau and no brokerage fees given, and also so that these moneys may be paid at once in Berlin to the Foundry Department according to Bernhardi's instruction. In this way everything concerning Koschentin is now disposed of, and it is only necessary that the people here be put at ease\n\nand that the Broniszewski matter be pursued — in this last affair I shall seek to exert influence in Berlin — for in Posen it is said, as only Bernhard says, to stand badly again.\n\nIt was a piece of good fortune that I had the Otto valuation of Kaemen etc. drawn up afresh and judicially [uncertain: attested]; for the gentlemen here wanted the assessment, and the one spoiled in Berlin for 25 [uncertain: Fider] could hardly be shown to the people; so I saw to it in Käbisch that I obtained the same in probative form, and now the purchasing gentlemen are glad, and have therefore not only promised anew to make the payment of the 76000 Rthl, but they now wish to give hard coin here. I have written this to Bernhardi by today's post, and have also pressed that Meyer Bernhard must write this to him, so that he may be entirely at ease and may act according to his plan.\n\nConcerning Kölzig I have brought up a new battery, which I hope will work well. I have dispatched to Berlin the Unruh so often named to Your Most Serene [Highness] and the like. He lodges with Mr von Köch: and is, as is known, everything to him; he remains there 3 weeks and is constantly to remind him of Kölzig\n\nso that it is not overlooked.\n\nThe Grand Chancellor has ordered the government at Klogau to seize all moneys and all documents, and has also made known to it that on the 2nd of this month a letter was written to Lüchinne — that even if no document of insinuation, then at least a certificate should be sent in, that he has had the sentence of confiscation, which has already become res judicata, delivered to Count Schlabrendorff in Paris, according to which, as soon as Luchelini's certificate comes in, the estates are to be confiscated forthwith, and thereupon otherwise disposed of by His Majesty. This friend [uncertain: Unruh] is now to await, and diligently to let his battery play — Whether Amelang will accomplish anything with Beyme — time will tell. I confess that I count little upon this assistance.\n\nI have duly received the mortgage of Zagorowo, properly drawn up. Also from Lichnowski the assurance that he, should I require it, is willing to place himself behind 130000 Rthl. I shall now see how much they will give me, and what I receive Your Serene Highness will find on hand in the chest — if I can obtain the money without Lignourlis' help, that is the more agreeable to me, for then his security is [text lost] he must little Weigel the 27000 Rthl has at once to revert to Trapian and will thereafter let himself be dealt with better. The\n\nman of Kalisz already conceded this to me as well. With Radzimski in Szetlewek I am so far finished that he is to sit out his year, but in return has had to let all claims fall. The reckoning with him is roughly this: He has to demand\n\n1500 Rthl\n\nfor 2 years' interest\n\n112 Rthl disbursements, according to Glenck's instructions, for building costs 487 Rthl 4 gg\n\nSum:\n\n2099 Rthl 4 d. He is to pay rent from Midsummer 1803/4 1300 Rthl\n\nlikewise interest thereon\n\n56 Rthl\n\nrent from Midsummer 1804/5\n\n1300.\n\nMaking\n\n2656 Rthl Consequently Your Serene Highness would have to receive, up to 1805, 557 Rthl. Now he wishes to have 306 Rthl of legal costs allowed him, so that only 251 Rthl remain over. That is then the [uncertain: Savinin] of a whole year — everything must be cleared up. For the rest, there are 2 gentlemen here who wish to take Szetlewek. They give per Morgen 1 [uncertain: dkg] ground-rent, which together with the peasants' arable and other things will amount to some 2000 Rthl yearly, and the propination rights and jurisdiction are besides this also to be reckoned at several hundred d. Against the tenants Floricke I have at last obtained a decree of [uncertain: solutionis] — but I have applied at once for execution, and mean to wear them down. They are already very humble now — they still demand 4 Hufen, cleared, and 8 Hufen of waste land, but are already offering 20 Mk. ground-rent per Hufe — I shall do the beggarly fellows no harm — but there will certainly be nothing to be got either\n\nMy plan with Trąbczyn is, if Your Serene Highness approve the same, as follows: as soon as I have the decree of execution in hand I shall turn the fellows out and make an honourable end of this — Thereupon I shall lease Trąbczyn together with the whole propination rights for 1 year to Otocki on the condition that I may dismember straight away. In this manner nothing great is lost, but I even gain several thousand Rthl, for Otocki is to receive at Midsummer\n\n6000 Rthl. Floriche gives yearly 6000 Rthl rent, and that for 15 years, with propination rights and all revenues.\n\nI am asking for 1 year, including the brewery of Kopojno etc., 9000 Rthl. In this way Your Serene Highness need not pay the above 6000 Rthl and will still receive in cash into the treasury\n\n3000 Rthl. The dismemberment shall notwithstanding take place not a moment later, and no ground shall be let out a shilling cheaper — for that I stand surety to Your Serene Highness. The remainder of Swięcia consists of 9 Hufen of poor land and 5 Hufen of marsh amid sand hills, partly overgrown with timber. For these grounds the colonists will give little or nothing. Meanwhile the neighbouring von Biskupski of Kochar has applied to me and wishes to take these grounds at the fixed perpetual ground-rent of 30 Rthl per Hufe, for the reason that he has already had much quarrelling with the colo-\n\nnists. For this strip is to remain lying as rough pasture between Swięcia and Kuchar — When the Germans now see that a stranger wishes to settle there, they will in the end give just as much themselves, and then my purpose is achieved here too. With Drzewce and Grądzen I must still manoeuvre on account of the priests — for these demand free building timber and [uncertain: firewood]; the judgment of the second instance will be published in these days. The Treasury has again lost. It now depends on whether it will seek review — if it does not seek review and lets the judgment become res judicata, then the dismemberment can be proceeded with here at once as well. There is no lack of people who wish to buy grounds — only if I hurry too much with it, then the people suppose there is distress and they offer far below the rate once adopted, from which, however, I shall never depart, but rather hope to obtain more than less — therefore the matter must be handled solidly, for no distress presses any longer now. With Kopojno, Skokum, Swiątniki, the Olesnica marsh and the Trąbczyn Warthe grounds I think to provide for the Mennonites. These grounds amount to some 400 Hufen\n\nthe people are to arrive for certain between the 14th and 18th of this month. I have left Blomberg the instruction that he is not to let the Hufe go on average below 600 Rthl; for this they are to pay 10 Rthl yearly rent. This then is a capital of about 240000 Rthl and 4000 Rthl of rent. With this capital all debts will be paid, and whatever comes in from all the other villages will be delivered into the treasury. Meanwhile this will amount to a capital of about 150000 Rthl. — I should advise establishing the brewery in Trąbczyn, and retaining for it a wood of about 3000 Morgen. The brewing and brandy revenue would then, when everything was in order, certainly bring some 6 to 8000 Rthl yearly, and Your Serene Highness can in this manner take in for the grounds to be dismembered about 400000\n\nd. in cash, and also draw from your South Prussian estates a yearly rent subsisting for all time of 48000 (to 50000) Rthl. This is then, by God, no inconsiderable entailed estate. But Your Serene Highness would have to have a house built upon the estates, for the higher barrack in Trąbczyn is after all no residence for a ruling lord, and the much-praised nest in Marianton is too small and is already, together with the new [uncertain: Sprichten],\n\non the point of collapsing in Trąbczyn; therefore the building of a manor house will gradually have to be thought of for his [residence]. Only one can make a beginning with it in 2–3 years at the earliest. Minister von Voss has treated me truly handsomely and in the presence of 26 persons delivered a special eulogy — He also sent his greetings through Blomberg and said — that with regard to the dismemberments of all the princely estates I should by all means conclude, even if only pro forma, so that he might approve the same. For from 1 July of this year he would forbid all further dismemberment. He has already made this known to the Chamber as well. For these reasons too I am here as though on coals, and await Glenck's arrival, for unfortunately I can conclude nothing without power of attorney — God knows meanwhile where the man is knocking about, for when I was in Trąbczyn on the 8th an express courier came from Posen by way of Pyzdry to the justice-burgomaster Schenck with all the letters written to Glenck for some time past and sought him out — among them were several from Your Serene Highness — namely 2 thick ones and 3 smaller ones — How can anything sensible come of such gadding about, and what does the sending of express couriers not cost, and for a [uncertain: dullard]! I therefore did not know where I should send the letters. At last Blomberg came and said: do\n\nyou know where Glenck is? Answer: whether it be with the devil or in heaven — is unknown to me. Neither there nor here: he says he has already for a couple of days been sitting quietly in the deepest thicket in Trąbczyn, and is seeking, through Meyer, Tappert and a couple of other fellows, to frighten off the people who wish to buy here — Flöriche confessed this to me. In the heat of the moment I said — that can only be put about by such a scoundrel as Flöricke is. Glenck is no marauder, still less so black a villain as should work against or destroy the plans of his brave master, who honestly [uncertain: rewards] him — Flöricke, who was standing in the hall, heard this and found himself much offended, but engaged himself, for the rescue of his honour, to furnish the proof. I offered Blomberg a wager of 10 Friedrichs d'or, and Blomberg, who likewise found himself too nearly touched by my expressions, accepted the wager, in order to give the matter a merrier turn again; and I laid down the Friedrichs d'or. The horses were already standing\n\nharnessed, with which I was to depart for Kalisz, and to be here for certain on the 12th — I therefore waited until a messenger came back from Wroberin from Meyer, who is a secret friend of Flöre's, and brought back not only the confirmation of what Blomberg had said, but also a note from Glenck, who has now revealed himself — Blomberg swept up my 10 Friedrichs d'or with the warning: in future not to hold the bad man for the worst, nor the honest man for the most honest. By great God! it was not the loss of the ten Friedrichs d'or that vexed me, but the shame of being so nastily caught out pressed me almost to the ground. Abashed, I begged pardon of Blomberg and also of Flöriche, and seated myself silently in my carriage, after I had first sent on to Glenck the papers forwarded after him by express courier — and drove off to Kalisz in grief and care. I have still not seen the fine gentleman, and am here already waiting again 1 1/2 days for him in vain — I shall, since Your Serene Highness expressly told me to treat him solidly,\n\nalso say not a word to him. But Your Serene Highness must not take it ill of me either, if from now on I hold this Glenck to be a truly vindictive, evil and really irreparably envious man.\n\nHarm he shall not do, nor shall he be an obstacle in any of my plans, which I make for Your Serene Highness's best, for my dealings lie open, are bound up with no self-interested gain, and are therefore supported and furthered by good men; and it is often granted me even to win over the bad and to better them; therefore I do not fear him. But this I swear, that he is the most frivolous and most wicked man, who can never be bettered either by [uncertain: harshness] or by good words.\n\nI tremble only lest he fritter away the time, and not go to Winnir and see to the handing over to Dąbrowski. The handing over is to be on the 24th of June. If he is not there at the appointed time, then Dambrouphi has an evasion and does not pay the 20500 Rthl, for he wishes to lease out elsewhere again, in order thereby to bring the sum\n\ntogether. I shall indeed press it upon his heart, the more so as it is now most necessary that he not knock about here any longer. Whether, however, he will listen to my representation, time must teach.\n\nFor my part, once the contract is concluded here, I shall hasten to Berlin, see to the loan and bring the money to Lombar dine; from there I hasten to Trąbczyn and there settle everything as aforesaid. When I am finished there I shall return to Breslau, attend to my business, and then go to Betsche, Kulm and Kaemen, so that everything may be arranged there too and these people here be satisfied.\n\nWith boundless fidelity I remain, until death, respectfully, Your Most Serene Highness's\n\nFrankfurt an der Oder\n\n13th June 1804\n\nfaithful, humble and obedient servant\n\nv. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord, On the sale of Kolno and Kamionna I offer my most hearty congratulations, insofar as thereby Your Most Serene Highness's peace of mind has been secured, and my stout brother-in-law also satisfied. For the rest, I have done everything possible in order, according to Your Serene Highness's command, to be here on the 12th and to finalise everything. In the meantime neither Mr Gleich nor Mr Wünster is here, nor does either let anything be heard of himself, and I have neither papers nor power of attorney in hand to be able to settle anything real. This much, however, I have brought about: that the 76000 Rthl shall be paid here by the prospective purchasers. So that no pressure need first be applied in Breslau and no brokerage fees given, and also so that these moneys may be paid at once in Berlin to the Foundry Department according to Bernhardi's instruction. In this way everything concerning Koschentin is now disposed of, and it is only necessary that the people here be put at ease\n\nand that the Broniszewski matter be pursued — in this last affair I shall seek to exert influence in Berlin — for in Posen it is said, as only Bernhard says, to stand badly again.\n\nIt was a piece of good fortune that I had the Otto valuation of Kamionna etc. drawn up afresh and judicially [uncertain: attested]; for the gentlemen here wanted the assessment, and the one spoiled in Berlin for 25 [uncertain: Fider] could hardly be shown to the people; so I saw to it in Käbisch that I obtained the same in probative form, and now the purchasing gentlemen are glad, and have therefore not only promised anew to make the payment of the 76000 Rthl, but they now wish to give hard coin here. I have written this to Bernhardi by today's post, and have also pressed that Meyer Bernhard must write this to him, so that he may be entirely at ease and may act according to his plan.\n\nConcerning Kölzig I have brought up a new battery, which I hope will work well. I have dispatched to Berlin the Unruh so often named to Your Most Serene [Highness] and the like. He lodges with Mr von Köch: and is, as is known, everything to him; he remains there 3 weeks and is constantly to remind him of Kölzig\n\nso that it is not overlooked.\n\nThe Grand Chancellor has ordered the government at Klogau to seize all moneys and all documents, and has also made known to it that on the 2nd of this month a letter was written to Lüchinne — that even if no document of insinuation, then at least a certificate should be sent in, that he has had the sentence of confiscation, which has already become res judicata, delivered to Count Schlabrendorff in Paris, according to which, as soon as Luchelini's certificate comes in, the estates are to be confiscated forthwith, and thereupon otherwise disposed of by His Majesty. This friend [uncertain: Unruh] is now to await, and diligently to let his battery play — Whether Amelang will accomplish anything with Beyme — time will tell. I confess that I count little upon this assistance.\n\nI have duly received the mortgage of Zagórów, properly drawn up. Also from Lichnowski the assurance that he, should I require it, is willing to place himself behind 130000 Rthl. I shall now see how much they will give me, and what I receive Your Serene Highness will find on hand in the chest — if I can obtain the money without Lignourlis' help, that is the more agreeable to me, for then his security is [text lost] he must little Weigel the 27000 Rthl has at once to revert to Trapian and will thereafter let himself be dealt with better. The\n\nman of Kalisz already conceded this to me as well. With Radzinski in Szetlewek I am so far finished that he is to sit out his year, but in return has had to let all claims fall. The reckoning with him is roughly this: He has to demand\n\n1500 Rthl\n\nfor 2 years' interest\n\n112 Rthl disbursements, according to Glenck's instructions, for building costs 487 Rthl 4 gg\n\nSum:\n\n2099 Rthl 4 d. He is to pay rent from Midsummer 1803/4 1300 Rthl\n\nlikewise interest thereon\n\n56 Rthl\n\nrent from Midsummer 1804/5\n\n1300.\n\nMaking\n\n2656 Rthl Consequently Your Serene Highness would have to receive, up to 1805, 557 Rthl. Now he wishes to have 306 Rthl of legal costs allowed him, so that only 251 Rthl remain over. That is then the [uncertain: Savinin] of a whole year — everything must be cleared up. For the rest, there are 2 gentlemen here who wish to take Szetlewek. They give per Morgen 1 [uncertain: dkg] ground-rent, which together with the peasants' arable and other things will amount to some 2000 Rthl yearly, and the propination rights and jurisdiction are besides this also to be reckoned at several hundred d. Against the tenants Floricke I have at last obtained a decree of [uncertain: solutionis] — but I have applied at once for execution, and mean to wear them down. They are already very humble now — they still demand 4 Hufen, cleared, and 8 Hufen of waste land, but are already offering 20 Mk. ground-rent per Hufe — I shall do the beggarly fellows no harm — but there will certainly be nothing to be got either\n\nMy plan with Trąbczyn is, if Your Serene Highness approve the same, as follows: as soon as I have the decree of execution in hand I shall turn the fellows out and make an honourable end of this — Thereupon I shall lease Trąbczyn together with the whole propination rights for 1 year to Otocki on the condition that I may dismember straight away. In this manner nothing great is lost, but I even gain several thousand Rthl, for Otocki is to receive at Midsummer\n\n6000 Rthl. Floriche gives yearly 6000 Rthl rent, and that for 15 years, with propination rights and all revenues.\n\nI am asking for 1 year, including the brewery of Kopojno etc., 9000 Rthl. In this way Your Serene Highness need not pay the above 6000 Rthl and will still receive in cash into the treasury\n\n3000 Rthl. The dismemberment shall notwithstanding take place not a moment later, and no ground shall be let out a shilling cheaper — for that I stand surety to Your Serene Highness. The remainder of Swięcia consists of 9 Hufen of poor land and 5 Hufen of marsh amid sand hills, partly overgrown with timber. For these grounds the colonists will give little or nothing. Meanwhile the neighbouring von Biskupski of Kochar has applied to me and wishes to take these grounds at the fixed perpetual ground-rent of 30 Rthl per Hufe, for the reason that he has already had much quarrelling with the colo-\n\nnists. For this strip is to remain lying as rough pasture between Swięcia and Kuchar — When the Germans now see that a stranger wishes to settle there, they will in the end give just as much themselves, and then my purpose is achieved here too. With Drzewce and Grądzen I must still manoeuvre on account of the priests — for these demand free building timber and [uncertain: firewood]; the judgment of the second instance will be published in these days. The Treasury has again lost. It now depends on whether it will seek review — if it does not seek review and lets the judgment become res judicata, then the dismemberment can be proceeded with here at once as well. There is no lack of people who wish to buy grounds — only if I hurry too much with it, then the people suppose there is distress and they offer far below the rate once adopted, from which, however, I shall never depart, but rather hope to obtain more than less — therefore the matter must be handled solidly, for no distress presses any longer now. With Kopojno, Skokum, Swiątniki, the Olesnica marsh and the Trąbczyn Warthe grounds I think to provide for the Mennonites. These grounds amount to some 400 Hufen\n\nthe people are to arrive for certain between the 14th and 18th of this month. I have left Blomberg the instruction that he is not to let the Hufe go on average below 600 Rthl; for this they are to pay 10 Rthl yearly rent. This then is a capital of about 240000 Rthl and 4000 Rthl of rent. With this capital all debts will be paid, and whatever comes in from all the other villages will be delivered into the treasury. Meanwhile this will amount to a capital of about 150000 Rthl. — I should advise establishing the brewery in Trąbczyn, and retaining for it a wood of about 3000 Morgen. The brewing and brandy revenue would then, when everything was in order, certainly bring some 6 to 8000 Rthl yearly, and Your Serene Highness can in this manner take in for the grounds to be dismembered about 400000\n\nd. in cash, and also draw from your South Prussian estates a yearly rent subsisting for all time of 48000 (to 50000) Rthl. This is then, by God, no inconsiderable entailed estate. But Your Serene Highness would have to have a house built upon the estates, for the higher barrack in Trąbczyn is after all no residence for a ruling lord, and the much-praised nest in Marianton is too small and is already, together with the new [uncertain: Sprichten],\n\non the point of collapsing in Trąbczyn; therefore the building of a manor house will gradually have to be thought of for his [residence]. Only one can make a beginning with it in 2–3 years at the earliest. Minister von Voss has treated me truly handsomely and in the presence of 26 persons delivered a special eulogy — He also sent his greetings through Blomberg and said — that with regard to the dismemberments of all the princely estates I should by all means conclude, even if only pro forma, so that he might approve the same. For from 1 July of this year he would forbid all further dismemberment. He has already made this known to the Chamber as well. For these reasons too I am here as though on coals, and await Glenck's arrival, for unfortunately I can conclude nothing without power of attorney — God knows meanwhile where the man is knocking about, for when I was in Trąbczyn on the 8th an express courier came from Posen by way of Pyzdry to the justice-burgomaster Schenck with all the letters written to Glenck for some time past and sought him out — among them were several from Your Serene Highness — namely 2 thick ones and 3 smaller ones — How can anything sensible come of such gadding about, and what does the sending of express couriers not cost, and for a [uncertain: dullard]! I therefore did not know where I should send the letters. At last Blomberg came and said: do\n\nyou know where Glenck is? Answer: whether it be with the devil or in heaven — is unknown to me. Neither there nor here: he says he has already for a couple of days been sitting quietly in the deepest thicket in Trąbczyn, and is seeking, through Meyer, Tappert and a couple of other fellows, to frighten off the people who wish to buy here — Flöriche confessed this to me. In the heat of the moment I said — that can only be put about by such a scoundrel as Flöricke is. Glenck is no marauder, still less so black a villain as should work against or destroy the plans of his brave master, who honestly [uncertain: rewards] him — Flöricke, who was standing in the hall, heard this and found himself much offended, but engaged himself, for the rescue of his honour, to furnish the proof. I offered Blomberg a wager of 10 Friedrichs d'or, and Blomberg, who likewise found himself too nearly touched by my expressions, accepted the wager, in order to give the matter a merrier turn again; and I laid down the Friedrichs d'or. The horses were already standing\n\nharnessed, with which I was to depart for Kalisz, and to be here for certain on the 12th — I therefore waited until a messenger came back from Wroberin from Meyer, who is a secret friend of Flöre's, and brought back not only the confirmation of what Blomberg had said, but also a note from Glenck, who has now revealed himself — Blomberg swept up my 10 Friedrichs d'or with the warning: in future not to hold the bad man for the worst, nor the honest man for the most honest. By great God! it was not the loss of the ten Friedrichs d'or that vexed me, but the shame of being so nastily caught out pressed me almost to the ground. Abashed, I begged pardon of Blomberg and also of Flöriche, and seated myself silently in my carriage, after I had first sent on to Glenck the papers forwarded after him by express courier — and drove off to Kalisz in grief and care. I have still not seen the fine gentleman, and am here already waiting again 1 1/2 days for him in vain — I shall, since Your Serene Highness expressly told me to treat him solidly,\n\nalso say not a word to him. But Your Serene Highness must not take it ill of me either, if from now on I hold this Glenck to be a truly vindictive, evil and really irreparably envious man.\n\nHarm he shall not do, nor shall he be an obstacle in any of my plans, which I make for Your Serene Highness's best, for my dealings lie open, are bound up with no self-interested gain, and are therefore supported and furthered by good men; and it is often granted me even to win over the bad and to better them; therefore I do not fear him. But this I swear, that he is the most frivolous and most wicked man, who can never be bettered either by [uncertain: harshness] or by good words.\n\nI tremble only lest he fritter away the time, and not go to Winnir and see to the handing over to Dąbrowski. The handing over is to be on the 24th of June. If he is not there at the appointed time, then Dambrouphi has an evasion and does not pay the 20500 Rthl, for he wishes to lease out elsewhere again, in order thereby to bring the sum\n\ntogether. I shall indeed press it upon his heart, the more so as it is now most necessary that he not knock about here any longer. Whether, however, he will listen to my representation, time must teach.\n\nFor my part, once the contract is concluded here, I shall hasten to Berlin, see to the loan and bring the money to Lombar dine; from there I hasten to Trąbczyn and there settle everything as aforesaid. When I am finished there I shall return to Breslau, attend to my business, and then go to Betsche, Kulm and Kamionna, so that everything may be arranged there too and these people here be satisfied.\n\nWith boundless fidelity I remain, until death, respectfully, Your Most Serene Highness's\n\nFrankfurt an der Oder\n\n13th June 1804\n\nfaithful, humble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "Congratulating the Prince on the sale of Kolno and Kaemen, Triebenfeld reports that buyers will pay the 76,000 Rthl in hard coin, to go to the Foundry Department, and that a fresh judicial valuation secured this; he awaits Glenck's power of attorney. Also: a Zagorowo mortgage and Lichnowski's offer behind 130,000 Rthl, the reckoning with Radzimski at Szetlewek, eviction of the Floricke tenants, plans to dismember Trąbczyn and settle Mennonites on some 400 Hufen, Minister von Voss's 1 July deadline, and a bitter denunciation of Glenck.",
  "summary_de": "Bericht über den Verkauf von Kolno und Kaemen, die zugesagte Zahlung von 76000 Rthl in barem Geld an das Hüttendepartement nach Bernhardis Anweisung, die neu gerichtlich beglaubigte Otto'sche Taxe, die Sache Broniszewski, Kölzig und die drohende Konfiskation der Güter Schlabrendorffs. Weiter die Hypothek auf Zagorowo und Lichnowskis Bürgschaft für 130000 Rthl, die Abrechnung mit Radzimski in Szetlewek, Pläne zur Verpachtung und Zerstückelung von Trąbczyn, Kopojno und Swięcia an Kolonisten und Mennoniten sowie heftige Klagen über Glenck, der ohne Vollmacht verschwunden bleibt."
 }

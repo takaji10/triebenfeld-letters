@@ -642,6 +642,30 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitzer",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0455_a-L245_01.jpg",
+   "line": 17681,
+   "doc_line": 14
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0456_a-L245_02.jpg",
+   "line": 17758,
+   "doc_line": 90
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

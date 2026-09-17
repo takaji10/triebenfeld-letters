@@ -527,6 +527,41 @@
   }
  ],
  "place_canonical": "Wien[?]",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0467_a2-L254_04.jpg",
+   "line": 18207,
+   "doc_line": 64
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0468_a2-L254_05.jpg",
+   "line": 18220,
+   "doc_line": 76
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0469_a2-L254_06.jpg",
+   "line": 18247,
+   "doc_line": 102
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

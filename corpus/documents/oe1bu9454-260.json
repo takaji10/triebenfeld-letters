@@ -419,6 +419,41 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0474_b-L260_01.jpg",
+   "line": 18470,
+   "doc_line": 7
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0474_b-L260_01.jpg",
+   "line": 18481,
+   "doc_line": 18
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
+   "line": 18516,
+   "doc_line": 52
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

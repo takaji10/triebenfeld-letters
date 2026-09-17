@@ -207,7 +207,7 @@
   },
   {
    "entity": "radzinski",
-   "display": "Radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface": "Radzinski",
    "page": 4,
@@ -437,7 +437,7 @@
   },
   {
    "entity": "radzinski",
-   "display": "Radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface_de": "Radzinski",
    "surface_en": "Radzinski",
@@ -493,6 +493,162 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0392_b-L210_01.jpg",
+   "line": 14818,
+   "doc_line": 15
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0392_b-L210_01.jpg",
+   "line": 14823,
+   "doc_line": 20
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0393_a1-L210_02.jpg",
+   "line": 14826,
+   "doc_line": 22
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0393_a1-L210_02.jpg",
+   "line": 14834,
+   "doc_line": 30
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0393_a1-L210_02.jpg",
+   "line": 14835,
+   "doc_line": 31
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0393_a1-L210_02.jpg",
+   "line": 14840,
+   "doc_line": 36
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0393_a2-L210_03.jpg",
+   "line": 14854,
+   "doc_line": 49
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0393_a2-L210_03.jpg",
+   "line": 14872,
+   "doc_line": 67
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnices",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+   "line": 14878,
+   "doc_line": 72
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+   "line": 14887,
+   "doc_line": 81
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+   "line": 14893,
+   "doc_line": 87
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+   "line": 14901,
+   "doc_line": 95
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+   "line": 14909,
+   "doc_line": 103
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+   "line": 14915,
+   "doc_line": 109
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

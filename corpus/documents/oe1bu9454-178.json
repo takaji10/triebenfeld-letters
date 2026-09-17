@@ -145,6 +145,19 @@
   }
  ],
  "place_canonical": "Dresden",
+ "place_mentions": [
+  {
+   "entity": "dresden",
+   "display": "Dresden",
+   "kind": "place",
+   "surface": "Dreßden",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0336_a1-L178_02.jpg",
+   "line": 12605,
+   "doc_line": 20
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

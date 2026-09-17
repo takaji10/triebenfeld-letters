@@ -341,6 +341,107 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
+   "line": 10825,
+   "doc_line": 12
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewitz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
+   "line": 10829,
+   "doc_line": 16
+  },
+  {
+   "entity": "gradzyn",
+   "display": "Grądzyń",
+   "kind": "place",
+   "surface": "Grądziner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
+   "line": 10829,
+   "doc_line": 16
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
+   "line": 10837,
+   "doc_line": 23
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
+   "line": 10849,
+   "doc_line": 35
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
+   "line": 10849,
+   "doc_line": 35
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
+   "line": 10852,
+   "doc_line": 38
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
+   "line": 10869,
+   "doc_line": 54
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
+   "line": 10876,
+   "doc_line": 61
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -272,6 +272,52 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
+   "line": 21339,
+   "doc_line": 7
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
+   "line": 21339,
+   "doc_line": 7
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
+   "line": 21373,
+   "doc_line": 40
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
+   "line": 21380,
+   "doc_line": 47
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

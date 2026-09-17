@@ -226,6 +226,30 @@
   }
  ],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0139_a1-L71_02.jpg",
+   "line": 5520,
+   "doc_line": 23
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0139_a1-L71_02.jpg",
+   "line": 5525,
+   "doc_line": 28
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

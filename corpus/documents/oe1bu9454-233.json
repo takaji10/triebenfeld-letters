@@ -480,6 +480,140 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0438_b-L233_01.jpg",
+   "line": 16986,
+   "doc_line": 9
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0438_b-L233_01.jpg",
+   "line": 16991,
+   "doc_line": 14
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0439_a1-L233_02.jpg",
+   "line": 17008,
+   "doc_line": 30
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0439_a1-L233_02.jpg",
+   "line": 17009,
+   "doc_line": 31
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0439_a1-L233_02.jpg",
+   "line": 17015,
+   "doc_line": 37
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0439_a2-L233_03.jpg",
+   "line": 17042,
+   "doc_line": 63
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0439_a2-L233_03.jpg",
+   "line": 17043,
+   "doc_line": 64
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17046,
+   "doc_line": 66
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olisnie",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17049,
+   "doc_line": 69
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17049,
+   "doc_line": 69
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17063,
+   "doc_line": 83
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17067,
+   "doc_line": 87
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -667,6 +667,52 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
+   "line": 104,
+   "doc_line": 11
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
+   "line": 110,
+   "doc_line": 17
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawentzitz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0003_a2-L2_03.jpg",
+   "line": 158,
+   "doc_line": 63
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berliner",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0004_a-L2_04.jpg",
+   "line": 187,
+   "doc_line": 91
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -144,6 +144,30 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Koniner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
+   "line": 81,
+   "doc_line": 15
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
+   "line": 81,
+   "doc_line": 15
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -211,6 +211,19 @@
   }
  ],
  "place_canonical": "Brieg",
+ "place_mentions": [
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0505_a2-L278_03.jpg",
+   "line": 19767,
+   "doc_line": 56
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

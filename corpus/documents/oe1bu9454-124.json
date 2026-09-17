@@ -139,6 +139,52 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopoyno",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0243_a-L124_01.jpg",
+   "line": 9114,
+   "doc_line": 12
+  },
+  {
+   "entity": "skokum",
+   "display": "Skokum",
+   "kind": "place",
+   "surface": "Skokum",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0243_a-L124_01.jpg",
+   "line": 9114,
+   "doc_line": 12
+  },
+  {
+   "entity": "swiatniki",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface": "Swiątniki",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0243_a-L124_01.jpg",
+   "line": 9114,
+   "doc_line": 12
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0243_a-L124_01.jpg",
+   "line": 9116,
+   "doc_line": 14
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

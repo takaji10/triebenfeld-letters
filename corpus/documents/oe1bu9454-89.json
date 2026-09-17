@@ -698,6 +698,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczynski",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0186_a2-L89_03.jpg",
+   "line": 7127,
+   "doc_line": 58
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 8,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0189_a-L89_08.jpg",
+   "line": 7238,
+   "doc_line": 164
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

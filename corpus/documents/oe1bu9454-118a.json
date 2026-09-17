@@ -176,10 +176,10 @@
   },
   {
    "entity": "",
-   "display": "Zagorow",
+   "display": "Zagórów",
    "kind": "place",
    "surface_de": "Zagorow",
-   "surface_en": "Zagorow",
+   "surface_en": "Zagórów",
    "page": 1
   },
   {
@@ -240,11 +240,68 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0236_a-L118a_01.jpg",
+   "line": 8884,
+   "doc_line": 4
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0236_a-L118a_01.jpg",
+   "line": 8899,
+   "doc_line": 19
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorow",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0236_a-L118a_01.jpg",
+   "line": 8899,
+   "doc_line": 19
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbcziner",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0237_a1-L118a_02.jpg",
+   "line": 8910,
+   "doc_line": 29
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0237_a1-L118a_02.jpg",
+   "line": 8916,
+   "doc_line": 35
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAt this very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica.\n\nThe people are willing to pay 1500 Rthl, but on condition that a contract be executed.\n\nI have [uncertain: sounded out] these persons and sought to examine where they mean to take the monies for the payment of the 17000 Rthl at Martinmas and Midsummer. They are, as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.\n\nShould Your Most Serene Highness nevertheless command that, despite these gloomy prospects, a contract is to be concluded with these people, I shall have the contract drawn up and shall hold them until Your Highness's most exalted return. For the rest, I have already disposed Kunckel so that he will let the matter be turned as will be most suitable to Your Most Serene Highness's interest.\n\nKunckel has a commission from a certain chief district steward Nerlich, that he is to procure for him Trąbczyn or Zagorow on hereditary lease.",
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAt this very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica.\n\nThe people are willing to pay 1500 Rthl, but on condition that a contract be executed.\n\nI have [uncertain: sounded out] these persons and sought to examine where they mean to take the monies for the payment of the 17000 Rthl at Martinmas and Midsummer. They are, as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.\n\nShould Your Most Serene Highness nevertheless command that, despite these gloomy prospects, a contract is to be concluded with these people, I shall have the contract drawn up and shall hold them until Your Highness's most exalted return. For the rest, I have already disposed Kunckel so that he will let the matter be turned as will be most suitable to Your Most Serene Highness's interest.\n\nKunckel has a commission from a certain chief district steward Nerlich, that he is to procure for him Trąbczyn or Zagórów on hereditary lease.",
    "names": [
     {
      "de": "Kunckel",
@@ -268,7 +325,7 @@
     },
     {
      "de": "Zagorow",
-     "en": "Zagorow",
+     "en": "Zagórów",
      "kind": "place"
     }
    ],
@@ -325,7 +382,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAt this very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica.\n\nThe people are willing to pay 1500 Rthl, but on condition that a contract be executed.\n\nI have [uncertain: sounded out] these persons and sought to examine where they mean to take the monies for the payment of the 17000 Rthl at Martinmas and Midsummer. They are, as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.\n\nShould Your Most Serene Highness nevertheless command that, despite these gloomy prospects, a contract is to be concluded with these people, I shall have the contract drawn up and shall hold them until Your Highness's most exalted return. For the rest, I have already disposed Kunckel so that he will let the matter be turned as will be most suitable to Your Most Serene Highness's interest.\n\nKunckel has a commission from a certain chief district steward Nerlich, that he is to procure for him Trąbczyn or Zagorow on hereditary lease.\n\nThis Nerlich has for this purchase 80000 Rthl in cash, which he can pay out in full within one year.\n\nKunckel is willing to bring this about, in order to earn more thereby than with the colonists.\n\nMay Your Most Serene Highness only most graciously instruct me how I am to handle the matter.\n\nWalichnowski has just now written; he wishes to know in detail what he is to give, so that he may not incur unnecessary travel expenses. But apart from that, a certain Urbanowski has sent by express for the Trąbczyn valuation. He promises certainly to come and to bring a good deal of money with him at once — should he come sooner than Walichnowski, I shall conclude with him according to the instruction given me.\n\nIn [uncertain: dearest] respect I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 10th of February 1804.\n\nmost faithful servant\n\nv. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAt this very moment a certain Kunckel presented himself to me with 2 colonists from Olesnica.\n\nThe people are willing to pay 1500 Rthl, but on condition that a contract be executed.\n\nI have [uncertain: sounded out] these persons and sought to examine where they mean to take the monies for the payment of the 17000 Rthl at Martinmas and Midsummer. They are, as I find, soldiers of fortune who build upon shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.\n\nShould Your Most Serene Highness nevertheless command that, despite these gloomy prospects, a contract is to be concluded with these people, I shall have the contract drawn up and shall hold them until Your Highness's most exalted return. For the rest, I have already disposed Kunckel so that he will let the matter be turned as will be most suitable to Your Most Serene Highness's interest.\n\nKunckel has a commission from a certain chief district steward Nerlich, that he is to procure for him Trąbczyn or Zagórów on hereditary lease.\n\nThis Nerlich has for this purchase 80000 Rthl in cash, which he can pay out in full within one year.\n\nKunckel is willing to bring this about, in order to earn more thereby than with the colonists.\n\nMay Your Most Serene Highness only most graciously instruct me how I am to handle the matter.\n\nWalichnowski has just now written; he wishes to know in detail what he is to give, so that he may not incur unnecessary travel expenses. But apart from that, a certain Urbanowski has sent by express for the Trąbczyn valuation. He promises certainly to come and to bring a good deal of money with him at once — should he come sooner than Walichnowski, I shall conclude with him according to the instruction given me.\n\nIn [uncertain: dearest] respect I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 10th of February 1804.\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "Reports on rival buyers and lessees: two colonists from Olesnica, brought by an agent named Kunckel, offer 1,500 Rthl but want a contract, though Triebenfeld judges them speculators unable to find the 17,000 Rthl due at Martinmas and Midsummer and likely to bring lawsuits. Kunckel is also commissioned by a chief district steward Nerlich, who has 80,000 Rthl in cash for Trąbczyn or Zagorow on hereditary lease. Walichnowski and Urbanowski are also interested; instructions are requested.",
  "summary_de": "Bericht über mehrere Kaufinteressenten: Ein gewisser Kunckel erscheint mit zwei Kolonisten aus Oels, die 1500 Rthl zahlen wollen, sofern ein Vertrag geschlossen wird; Triebenfeld hält sie für Glücksritter ohne Mittel für die 17000 Rthl zu Martini und Johannis und erwartet endlose Prozesse. Kunckel hat zudem Auftrag des Oberamtmanns Nerlich, Trąbczyn oder Zagorow in Erbpacht zu erwerben, mit 80000 Rthl bar binnen eines Jahres. Walichnowski fragt nach Bedingungen, Urbanowski verlangt die Trąbczyner Taxe. Bitte um Weisung."
 }

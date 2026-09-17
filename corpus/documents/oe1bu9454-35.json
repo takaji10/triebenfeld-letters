@@ -450,6 +450,52 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontopper",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0063_b-L35_01.jpg",
+   "line": 2412,
+   "doc_line": 23
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0064_a2-L35_03.jpg",
+   "line": 2444,
+   "doc_line": 53
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0064_a2-L35_03.jpg",
+   "line": 2472,
+   "doc_line": 81
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0064_a2-L35_03.jpg",
+   "line": 2477,
+   "doc_line": 86
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

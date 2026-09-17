@@ -132,6 +132,19 @@
   }
  ],
  "place_canonical": "Kontop[?]",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0117_b-L62_01.jpg",
+   "line": 4700,
+   "doc_line": 7
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

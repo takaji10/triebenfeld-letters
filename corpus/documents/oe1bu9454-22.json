@@ -468,6 +468,74 @@
   }
  ],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0036_a1-L22_02.jpg",
+   "line": 1307,
+   "doc_line": 24
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0036_a1-L22_02.jpg",
+   "line": 1309,
+   "doc_line": 26
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0036_a1-L22_02.jpg",
+   "line": 1311,
+   "doc_line": 28
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breclau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0036_a1-L22_02.jpg",
+   "line": 1317,
+   "doc_line": 34
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0037_a1-L22_04.jpg",
+   "line": 1359,
+   "doc_line": 74
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0037_a1-L22_04.jpg",
+   "line": 1385,
+   "doc_line": 100
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

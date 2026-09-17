@@ -297,6 +297,30 @@
   }
  ],
  "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0030_b-L19_01.jpg",
+   "line": 1078,
+   "doc_line": 16
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0031_a1-L19_02.jpg",
+   "line": 1102,
+   "doc_line": 39
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

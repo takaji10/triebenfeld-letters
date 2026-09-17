@@ -442,6 +442,74 @@
   }
  ],
  "place_canonical": "Posen",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0272_a-L139_01.jpg",
+   "line": 10133,
+   "doc_line": 16
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsch",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0273_a1-L139_02.jpg",
+   "line": 10140,
+   "doc_line": 22
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsch",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0273_a2-L139_03.jpg",
+   "line": 10162,
+   "doc_line": 43
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczinern",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0273_a2-L139_03.jpg",
+   "line": 10164,
+   "doc_line": 45
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsch",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0273_a2-L139_03.jpg",
+   "line": 10169,
+   "doc_line": 50
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0274_a-L139_04.jpg",
+   "line": 10199,
+   "doc_line": 79
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -335,6 +335,41 @@
   }
  ],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0370_a2-L194_01.jpg",
+   "line": 14008,
+   "doc_line": 12
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0370_a2-L194_01.jpg",
+   "line": 14010,
+   "doc_line": 14
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0371_a1-L194_02.jpg",
+   "line": 14037,
+   "doc_line": 40
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

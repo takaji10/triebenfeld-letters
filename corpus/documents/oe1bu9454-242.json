@@ -157,6 +157,30 @@
  ],
  "mentions_english": [],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17554,
+   "doc_line": 42
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17558,
+   "doc_line": 46
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

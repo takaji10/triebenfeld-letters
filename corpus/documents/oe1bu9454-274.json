@@ -377,6 +377,19 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0500_a1-L274_02.jpg",
+   "line": 19522,
+   "doc_line": 53
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

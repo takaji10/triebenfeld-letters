@@ -443,6 +443,19 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "pyzdry",
+   "display": "Pyzdry",
+   "kind": "place",
+   "surface": "Peisern",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+   "line": 19224,
+   "doc_line": 4
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

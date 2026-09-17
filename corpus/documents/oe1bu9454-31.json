@@ -285,7 +285,7 @@
   },
   {
    "entity": "radzinski",
-   "display": "Radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface": "Radzinski",
    "page": 3,
@@ -737,6 +737,118 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0055_b-L31_01.jpg",
+   "line": 2040,
+   "doc_line": 25
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Witowes",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
+   "line": 2056,
+   "doc_line": 40
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+   "line": 2097,
+   "doc_line": 80
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+   "line": 2101,
+   "doc_line": 84
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+   "line": 2102,
+   "doc_line": 85
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+   "line": 2109,
+   "doc_line": 92
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+   "line": 2112,
+   "doc_line": 95
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
+   "line": 2119,
+   "doc_line": 101
+  },
+  {
+   "entity": "pyzdry",
+   "display": "Pyzdry",
+   "kind": "place",
+   "surface": "Peisern",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
+   "line": 2125,
+   "doc_line": 107
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
+   "line": 2125,
+   "doc_line": 107
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

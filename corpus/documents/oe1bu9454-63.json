@@ -613,6 +613,41 @@
   }
  ],
  "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0119_a1-L63_02.jpg",
+   "line": 4739,
+   "doc_line": 22
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
+   "line": 4763,
+   "doc_line": 45
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
+   "line": 4781,
+   "doc_line": 63
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

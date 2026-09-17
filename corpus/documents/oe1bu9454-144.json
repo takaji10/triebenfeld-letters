@@ -107,6 +107,19 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
+   "line": 10498,
+   "doc_line": 14
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

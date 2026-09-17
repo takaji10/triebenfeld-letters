@@ -123,6 +123,30 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0237_a2-L118b_01.jpg",
+   "line": 8921,
+   "doc_line": 1
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0237_a2-L118b_01.jpg",
+   "line": 8944,
+   "doc_line": 24
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

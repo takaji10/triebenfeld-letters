@@ -299,6 +299,41 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0008_b-L5_01.jpg",
+   "line": 360,
+   "doc_line": 18
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betscher",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0009_a1-L5_02.jpg",
+   "line": 364,
+   "doc_line": 21
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0009_a1-L5_02.jpg",
+   "line": 369,
+   "doc_line": 26
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

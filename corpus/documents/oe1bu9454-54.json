@@ -239,6 +239,96 @@
  ],
  "mentions_english": [],
  "place_canonical": "Glogau",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
+   "line": 3945,
+   "doc_line": 12
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berliner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
+   "line": 3950,
+   "doc_line": 17
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
+   "line": 3956,
+   "doc_line": 23
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontopper",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
+   "line": 3969,
+   "doc_line": 35
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
+   "line": 3972,
+   "doc_line": 38
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
+   "line": 3979,
+   "doc_line": 45
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0103_a2-L54_03.jpg",
+   "line": 4007,
+   "doc_line": 72
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0103_a2-L54_03.jpg",
+   "line": 4014,
+   "doc_line": 79
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
@@ -247,14 +337,14 @@
   },
   {
    "page": 2,
-   "en": "exceedingly unhappy; indeed I should have to flee like a knave, abandon everything and lose my whole credit, which I now intend to re-establish in such a manner that I may again be effective in every way for Your Serene Highness. Have mercy, Most gracious Prince, and do not let me be made a liar this time. The contract, as well as the bill of exchange, was concluded judicially with Michaelis; I should be most wretched and worse than ill placed were I not to keep to it; I have resources afterwards and can effect much. — Only this once my chief honour and everything depends upon the fulfilment of the contract — Thereafter I will [uncertain: undergo] the execution and sequestration, make, when I have my estates again, a timber contract upon the Kontop timbers, go, once this is settled, to Vienna and fetch the contracted-for arms, which is the King's own hobby-horse, bring these to Cosel and then go again to Königsberg or wherever the King may be; I can then effect a great deal of good — As regards von der Lahr, I have just now also received these enclosures; he is already offering 5 1/2 Rthl per hundredweight of iron — but he must absolutely take the iron at 6 Rthl. I shall write to Amelang, and may Your Most Serene Highness also be pleased to approach Amelang once more in the matter, and to have this assured to von der Lahr. Meanwhile I intend to procure for Your Serene Highness the 4000 Rthl in Zagorowo which [uncertain: Assignit], and then you will have your whole iron paid for again — may you only be pleased to send the 400 [uncertain: Leut.] of iron, soon after the 600 [uncertain: Leute] which Michaelis must have first, to Bogadie as well; I shall then direct all the matters. Court Councillor Hahn writes that Weigel is threatening — Who can now compel Your Serene Highness to pay old debts."
+   "en": "exceedingly unhappy; indeed I should have to flee like a knave, abandon everything and lose my whole credit, which I now intend to re-establish in such a manner that I may again be effective in every way for Your Serene Highness. Have mercy, Most gracious Prince, and do not let me be made a liar this time. The contract, as well as the bill of exchange, was concluded judicially with Michaelis; I should be most wretched and worse than ill placed were I not to keep to it; I have resources afterwards and can effect much. — Only this once my chief honour and everything depends upon the fulfilment of the contract — Thereafter I will [uncertain: undergo] the execution and sequestration, make, when I have my estates again, a timber contract upon the Kontop timbers, go, once this is settled, to Vienna and fetch the contracted-for arms, which is the King's own hobby-horse, bring these to Cosel and then go again to Königsberg or wherever the King may be; I can then effect a great deal of good — As regards von der Lahr, I have just now also received these enclosures; he is already offering 5 1/2 Rthl per hundredweight of iron — but he must absolutely take the iron at 6 Rthl. I shall write to Amelang, and may Your Most Serene Highness also be pleased to approach Amelang once more in the matter, and to have this assured to von der Lahr. Meanwhile I intend to procure for Your Serene Highness the 4000 Rthl in Zagórów which [uncertain: Assignit], and then you will have your whole iron paid for again — may you only be pleased to send the 400 [uncertain: Leut.] of iron, soon after the 600 [uncertain: Leute] which Michaelis must have first, to Bogadie as well; I shall then direct all the matters. Court Councillor Hahn writes that Weigel is threatening — Who can now compel Your Serene Highness to pay old debts."
   },
   {
    "page": 3,
    "en": "the General Moratorium protects you indeed until Midsummer 1810. Of old debts one need only settle the interest; newly contracted ones, taken up after the granting of the General Moratorium, must, according to the newer edicts which have been issued in favour of the [uncertain: Zuwen] and usurers, be paid par force, and this is precisely what strikes me just now.\n\nOnce more I beseech Your Serene Highness imploringly: do send me the 600 hundredweight of iron by the 23rd of April at the latest, so that I may be saved just this once — if you do not do this, then my whole civil existence is destroyed and my estates will be put up for forced sale against me. The 600 hundredweight of iron are a trifle for Your Serene Highness, and you lose nothing thereby, but rather receive the money back at the latest by Midsummer, when all the interest comes in; the case is just the same with the 400 [uncertain: Leute] for von der Lahr, the debt is thereby now extinguished, and you will receive the 4000 Rthl assigned to me by the French General Government, so that then you have the money for 1000 [uncertain: Lentl] of iron again. Only be pleased to send it as far as Bogadel near Grüneberg, to be shipped to Oppeln. There I shall have it loaded and send it to Berlin; this too will cost a further 400 Rthl or so, yet I will defray these costs myself; only grant me this single act of grace and send the iron only as far as Boyadel.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nThe reply from von der Lahr has\n\nremained with Amelang's brother [uncertain: Bruch] in Kontop;\n\nI shall most humbly [uncertain: forward] the same\n\nby the next post\n\nGlogau\n\nthe 21st of March\n\n1809.\n\nfaithful and most obedient servant\n\nv. Triebenfeld"
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThe 100 Fr. which Your Most Serene Highness most graciously sent me have for the greater part likewise been made water of, inasmuch as the Chief Post Office had these monies held back until I had paid off a small sum of accumulated postal [uncertain: Gülcher] and 480 rthun of Concur. monies which I had incurred in the King's service. This has brought about a long delay, so that it was only yesterday evening that I received Your Most Serene Highness's gracious letter of the 3rd of February. Its content, that the 600 hundredweight of iron are not to be delivered as far as Oppeln until the end of May, has utterly crushed me. I have promised to deliver the iron in Berlin at the Oberbaum as early as the 1st of May. I have given a bill of exchange upon the 2400 Rthl paid by Michaelis, payable on the 1st of May, and there is a contract whereby, if the iron does not arrive punctually, a penalty of 500 Rthl was moreover fixed over and above it — I was obliged to enter into these factual conditions merely in order to be released the sooner from the Berlin arrest, before the 2nd judgment concerning Lahr came out.\n\nYour Most Serene Highness I beg for God's sake to make it possible just this once that I may have the 600 hundredweight of iron (namely 300 Rthl of bar and hoop iron and 300 [uncertain: Leute] of rail iron) at Boyadell by the 23rd of April, so that I may load it at once and dispatch it to Berlin. Were Your Most Serene Highness not to be pleased to grant this my heartfelt and pressing request, I should be\n\nexceedingly unhappy; indeed I should have to flee like a knave, abandon everything and lose my whole credit, which I now intend to re-establish in such a manner that I may again be effective in every way for Your Serene Highness. Have mercy, Most gracious Prince, and do not let me be made a liar this time. The contract, as well as the bill of exchange, was concluded judicially with Michaelis; I should be most wretched and worse than ill placed were I not to keep to it; I have resources afterwards and can effect much. — Only this once my chief honour and everything depends upon the fulfilment of the contract — Thereafter I will [uncertain: undergo] the execution and sequestration, make, when I have my estates again, a timber contract upon the Kontop timbers, go, once this is settled, to Vienna and fetch the contracted-for arms, which is the King's own hobby-horse, bring these to Cosel and then go again to Königsberg or wherever the King may be; I can then effect a great deal of good — As regards von der Lahr, I have just now also received these enclosures; he is already offering 5 1/2 Rthl per hundredweight of iron — but he must absolutely take the iron at 6 Rthl. I shall write to Amelang, and may Your Most Serene Highness also be pleased to approach Amelang once more in the matter, and to have this assured to von der Lahr. Meanwhile I intend to procure for Your Serene Highness the 4000 Rthl in Zagorowo which [uncertain: Assignit], and then you will have your whole iron paid for again — may you only be pleased to send the 400 [uncertain: Leut.] of iron, soon after the 600 [uncertain: Leute] which Michaelis must have first, to Bogadie as well; I shall then direct all the matters. Court Councillor Hahn writes that Weigel is threatening — Who can now compel Your Serene Highness to pay old debts.\n\nthe General Moratorium protects you indeed until Midsummer 1810. Of old debts one need only settle the interest; newly contracted ones, taken up after the granting of the General Moratorium, must, according to the newer edicts which have been issued in favour of the [uncertain: Zuwen] and usurers, be paid par force, and this is precisely what strikes me just now.\n\nOnce more I beseech Your Serene Highness imploringly: do send me the 600 hundredweight of iron by the 23rd of April at the latest, so that I may be saved just this once — if you do not do this, then my whole civil existence is destroyed and my estates will be put up for forced sale against me. The 600 hundredweight of iron are a trifle for Your Serene Highness, and you lose nothing thereby, but rather receive the money back at the latest by Midsummer, when all the interest comes in; the case is just the same with the 400 [uncertain: Leute] for von der Lahr, the debt is thereby now extinguished, and you will receive the 4000 Rthl assigned to me by the French General Government, so that then you have the money for 1000 [uncertain: Lentl] of iron again. Only be pleased to send it as far as Bogadel near Grüneberg, to be shipped to Oppeln. There I shall have it loaded and send it to Berlin; this too will cost a further 400 Rthl or so, yet I will defray these costs myself; only grant me this single act of grace and send the iron only as far as Boyadel.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nThe reply from von der Lahr has\n\nremained with Amelang's brother [uncertain: Bruch] in Kontop;\n\nI shall most humbly [uncertain: forward] the same\n\nby the next post\n\nGlogau\n\nthe 21st of March\n\n1809.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThe 100 Fr. which Your Most Serene Highness most graciously sent me have for the greater part likewise been made water of, inasmuch as the Chief Post Office had these monies held back until I had paid off a small sum of accumulated postal [uncertain: Gülcher] and 480 rthun of Concur. monies which I had incurred in the King's service. This has brought about a long delay, so that it was only yesterday evening that I received Your Most Serene Highness's gracious letter of the 3rd of February. Its content, that the 600 hundredweight of iron are not to be delivered as far as Oppeln until the end of May, has utterly crushed me. I have promised to deliver the iron in Berlin at the Oberbaum as early as the 1st of May. I have given a bill of exchange upon the 2400 Rthl paid by Michaelis, payable on the 1st of May, and there is a contract whereby, if the iron does not arrive punctually, a penalty of 500 Rthl was moreover fixed over and above it — I was obliged to enter into these factual conditions merely in order to be released the sooner from the Berlin arrest, before the 2nd judgment concerning Lahr came out.\n\nYour Most Serene Highness I beg for God's sake to make it possible just this once that I may have the 600 hundredweight of iron (namely 300 Rthl of bar and hoop iron and 300 [uncertain: Leute] of rail iron) at Boyadell by the 23rd of April, so that I may load it at once and dispatch it to Berlin. Were Your Most Serene Highness not to be pleased to grant this my heartfelt and pressing request, I should be\n\nexceedingly unhappy; indeed I should have to flee like a knave, abandon everything and lose my whole credit, which I now intend to re-establish in such a manner that I may again be effective in every way for Your Serene Highness. Have mercy, Most gracious Prince, and do not let me be made a liar this time. The contract, as well as the bill of exchange, was concluded judicially with Michaelis; I should be most wretched and worse than ill placed were I not to keep to it; I have resources afterwards and can effect much. — Only this once my chief honour and everything depends upon the fulfilment of the contract — Thereafter I will [uncertain: undergo] the execution and sequestration, make, when I have my estates again, a timber contract upon the Kontop timbers, go, once this is settled, to Vienna and fetch the contracted-for arms, which is the King's own hobby-horse, bring these to Cosel and then go again to Königsberg or wherever the King may be; I can then effect a great deal of good — As regards von der Lahr, I have just now also received these enclosures; he is already offering 5 1/2 Rthl per hundredweight of iron — but he must absolutely take the iron at 6 Rthl. I shall write to Amelang, and may Your Most Serene Highness also be pleased to approach Amelang once more in the matter, and to have this assured to von der Lahr. Meanwhile I intend to procure for Your Serene Highness the 4000 Rthl in Zagórów which [uncertain: Assignit], and then you will have your whole iron paid for again — may you only be pleased to send the 400 [uncertain: Leut.] of iron, soon after the 600 [uncertain: Leute] which Michaelis must have first, to Bogadie as well; I shall then direct all the matters. Court Councillor Hahn writes that Weigel is threatening — Who can now compel Your Serene Highness to pay old debts.\n\nthe General Moratorium protects you indeed until Midsummer 1810. Of old debts one need only settle the interest; newly contracted ones, taken up after the granting of the General Moratorium, must, according to the newer edicts which have been issued in favour of the [uncertain: Zuwen] and usurers, be paid par force, and this is precisely what strikes me just now.\n\nOnce more I beseech Your Serene Highness imploringly: do send me the 600 hundredweight of iron by the 23rd of April at the latest, so that I may be saved just this once — if you do not do this, then my whole civil existence is destroyed and my estates will be put up for forced sale against me. The 600 hundredweight of iron are a trifle for Your Serene Highness, and you lose nothing thereby, but rather receive the money back at the latest by Midsummer, when all the interest comes in; the case is just the same with the 400 [uncertain: Leute] for von der Lahr, the debt is thereby now extinguished, and you will receive the 4000 Rthl assigned to me by the French General Government, so that then you have the money for 1000 [uncertain: Lentl] of iron again. Only be pleased to send it as far as Bogadel near Grüneberg, to be shipped to Oppeln. There I shall have it loaded and send it to Berlin; this too will cost a further 400 Rthl or so, yet I will defray these costs myself; only grant me this single act of grace and send the iron only as far as Boyadel.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nThe reply from von der Lahr has\n\nremained with Amelang's brother [uncertain: Bruch] in Kontop;\n\nI shall most humbly [uncertain: forward] the same\n\nby the next post\n\nGlogau\n\nthe 21st of March\n\n1809.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
  "summary_en": "A desperate plea that 600 hundredweight of iron reach Boyadel near Grünberg by 23 April, not Oppeln by the end of May: Triebenfeld has judicially contracted with Michaelis to deliver it in Berlin by 1 May, given a bill of exchange on 2,400 Rthl and risks a 500 Rthl penalty and forced sale of his estates. He also urges that von der Lahr, now offering 5 1/2 Rthl, be held to 6 Rthl per hundredweight through Amelang, promises 4,000 Rthl from Zagorowo, and notes the general moratorium protects the Prince from Weigel's old claims until Midsummer 1810.",
  "summary_de": "Dringende Bitte, 600 Zentner Eisen (Stab-, Band- und Schieneneisen) spätestens bis 23. April nach Boyadel bei Grüneberg zu liefern, da Triebenfeld sich Michaelis gegenüber gerichtlich zur Lieferung in Berlin am Oberbaum zum 1. Mai verpflichtet hat, auf 2400 Rthl einen Wechsel gab und bei Verzug 500 Rthl Strafe drohen; sonst sei sein Kredit und Gut verloren. Weiter zu 400 Zentnern für von der Lahr (6 statt 5½ Rthl), zu Amelang, zu 4000 Rthl aus Zagorowo und zum Generalmoratorium gegen Weigels Forderungen."
 }

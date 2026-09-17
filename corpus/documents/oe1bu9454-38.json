@@ -215,6 +215,41 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Contop",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0071_b-L38_01.jpg",
+   "line": 2832,
+   "doc_line": 16
+  },
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0071_b-L38_01.jpg",
+   "line": 2843,
+   "doc_line": 27
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0071_b-L38_01.jpg",
+   "line": 2847,
+   "doc_line": 31
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

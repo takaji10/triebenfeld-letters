@@ -1809,6 +1809,151 @@
   }
  ],
  "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
+   "line": 21512,
+   "doc_line": 18
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
+   "line": 21514,
+   "doc_line": 20
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschütz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
+   "line": 21525,
+   "doc_line": 31
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenzitz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
+   "line": 21533,
+   "doc_line": 38
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
+   "line": 21535,
+   "doc_line": 40
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
+   "line": 21538,
+   "doc_line": 43
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
+   "line": 21581,
+   "doc_line": 84
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
+   "line": 21585,
+   "doc_line": 88
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
+   "line": 21588,
+   "doc_line": 90
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
+   "line": 21606,
+   "doc_line": 107
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
+   "line": 21608,
+   "doc_line": 109
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
+   "line": 21612,
+   "doc_line": 113
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
+   "line": 21616,
+   "doc_line": 117
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

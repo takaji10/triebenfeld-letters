@@ -310,6 +310,19 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0524_a1-L290_02.jpg",
+   "line": 20723,
+   "doc_line": 38
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -191,6 +191,41 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
+   "line": 15826,
+   "doc_line": 5
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
+   "line": 15829,
+   "doc_line": 8
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
+   "line": 15847,
+   "doc_line": 26
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

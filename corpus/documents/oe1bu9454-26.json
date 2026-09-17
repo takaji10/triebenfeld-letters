@@ -393,6 +393,85 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontopper",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0045_a-L26_01.jpg",
+   "line": 1697,
+   "doc_line": 9
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0045_a-L26_01.jpg",
+   "line": 1706,
+   "doc_line": 18
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
+   "line": 1710,
+   "doc_line": 21
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontopper",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a1-L26_02.jpg",
+   "line": 1721,
+   "doc_line": 32
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontopper",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a2-L26_03.jpg",
+   "line": 1735,
+   "doc_line": 45
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslauer",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a2-L26_03.jpg",
+   "line": 1741,
+   "doc_line": 51
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0046_a2-L26_03.jpg",
+   "line": 1757,
+   "doc_line": 67
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

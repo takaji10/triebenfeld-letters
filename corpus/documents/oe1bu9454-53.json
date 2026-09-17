@@ -143,6 +143,19 @@
  ],
  "mentions_english": [],
  "place_canonical": "Königsberg",
+ "place_mentions": [
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0101_a1-L53_02.jpg",
+   "line": 3927,
+   "doc_line": 57
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

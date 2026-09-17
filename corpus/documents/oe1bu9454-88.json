@@ -130,6 +130,19 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0184_a1-L88_02.jpg",
+   "line": 7065,
+   "doc_line": 42
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

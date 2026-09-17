@@ -262,6 +262,52 @@
   }
  ],
  "place_canonical": "Glogau",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6181,
+   "doc_line": 6
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6185,
+   "doc_line": 10
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6193,
+   "doc_line": 18
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6195,
+   "doc_line": 20
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

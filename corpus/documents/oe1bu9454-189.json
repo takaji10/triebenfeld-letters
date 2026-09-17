@@ -204,6 +204,30 @@
   }
  ],
  "place_canonical": "Klein Althammer",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0357_a1-L189_02.jpg",
+   "line": 13415,
+   "doc_line": 16
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0357_a1-L189_02.jpg",
+   "line": 13421,
+   "doc_line": 22
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

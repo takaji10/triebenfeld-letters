@@ -337,6 +337,63 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalischen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0305_a2-L162_01.jpg",
+   "line": 11383,
+   "doc_line": 10
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0305_a2-L162_01.jpg",
+   "line": 11384,
+   "doc_line": 11
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0306_a1-L162_02.jpg",
+   "line": 11403,
+   "doc_line": 29
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0306_a2-L162_03.jpg",
+   "line": 11427,
+   "doc_line": 52
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0306_a2-L162_03.jpg",
+   "line": 11443,
+   "doc_line": 68
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -280,6 +280,19 @@
   }
  ],
  "place_canonical": "Schlawenschitz",
+ "place_mentions": [
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0483_b-L265a_01.jpg",
+   "line": 18851,
+   "doc_line": 36
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

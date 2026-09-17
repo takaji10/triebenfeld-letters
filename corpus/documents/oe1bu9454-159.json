@@ -145,6 +145,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
+   "line": 11274,
+   "doc_line": 13
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
+   "line": 11283,
+   "doc_line": 22
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

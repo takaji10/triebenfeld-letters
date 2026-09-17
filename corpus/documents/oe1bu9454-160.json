@@ -178,6 +178,41 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0304_a1-L160_02.jpg",
+   "line": 11315,
+   "doc_line": 28
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0304_a1-L160_02.jpg",
+   "line": 11319,
+   "doc_line": 32
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0304_a1-L160_02.jpg",
+   "line": 11332,
+   "doc_line": 45
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

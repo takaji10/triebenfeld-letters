@@ -94,6 +94,19 @@
  ],
  "mentions_english": [],
  "place_canonical": "Schweinern",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0381_a-L202_01.jpg",
+   "line": 14438,
+   "doc_line": 15
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

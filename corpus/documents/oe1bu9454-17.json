@@ -522,6 +522,52 @@
   }
  ],
  "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0026_a-L17_01.jpg",
+   "line": 881,
+   "doc_line": 3
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0026_a-L17_01.jpg",
+   "line": 889,
+   "doc_line": 11
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0027_a2-L17_03.jpg",
+   "line": 929,
+   "doc_line": 49
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0027_a2-L17_03.jpg",
+   "line": 931,
+   "doc_line": 51
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

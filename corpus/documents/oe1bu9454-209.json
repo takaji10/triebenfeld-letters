@@ -82,10 +82,10 @@
  "mentions_english": [
   {
    "entity": "",
-   "display": "Zagorowo",
+   "display": "Zagórów",
    "kind": "place",
    "surface_de": "Zagorowo",
-   "surface_en": "Zagorowo",
+   "surface_en": "Zagórów",
    "page": 1
   },
   {
@@ -114,15 +114,39 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
+   "line": 14792,
+   "doc_line": 4
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
+   "line": 14799,
+   "doc_line": 11
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! The order to pay has come in; I shall collect the money and set out at once. From Zagorowo I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr. von Knobelsdorff thither. The post is about to go; I must close. In deepest reverence there remains Your Most Serene Highness's most humble and obedient servant, v. Triebenfeld\n\nBreslau\n\n16th October\n\n1810.",
+   "en": "Most Serene Prince, Most gracious Prince and Lord! The order to pay has come in; I shall collect the money and set out at once. From Zagórów I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr. von Knobelsdorff thither. The post is about to go; I must close. In deepest reverence there remains Your Most Serene Highness's most humble and obedient servant, v. Triebenfeld\n\nBreslau\n\n16th October\n\n1810.",
    "names": [
     {
      "de": "Zagorowo",
-     "en": "Zagorowo",
+     "en": "Zagórów",
      "kind": "place"
     },
     {
@@ -147,7 +171,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! The order to pay has come in; I shall collect the money and set out at once. From Zagorowo I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr. von Knobelsdorff thither. The post is about to go; I must close. In deepest reverence there remains Your Most Serene Highness's most humble and obedient servant, v. Triebenfeld\n\nBreslau\n\n16th October\n\n1810.",
+ "text_english": "Most Serene Prince, Most gracious Prince and Lord! The order to pay has come in; I shall collect the money and set out at once. From Zagórów I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr. von Knobelsdorff thither. The post is about to go; I must close. In deepest reverence there remains Your Most Serene Highness's most humble and obedient servant, v. Triebenfeld\n\nBreslau\n\n16th October\n\n1810.",
  "summary_en": "A hurried note, written as the post was leaving: the payment order has arrived, and Triebenfeld will collect the money and depart immediately. He promises to report everything from Zagorowo at once by mounted messenger, who is also to bring Mr. von Knobelsdorff there. Nothing further is given on the sum involved or the purpose of the payment.",
  "summary_de": "Kurze Meldung, dass die Zahlungsanweisung eingegangen ist; Triebenfeld will das Geld einziehen und sogleich abreisen. Aus Zagorowo werde er dem Fürsten alles unverzüglich durch einen reitenden Boten berichten, der zugleich Herrn von Knobelsdorff dorthin bringen soll. Wegen des abgehenden Postgangs bricht er das Schreiben ab; weitere Angaben zu Summen oder Geschäften fehlen."
 }

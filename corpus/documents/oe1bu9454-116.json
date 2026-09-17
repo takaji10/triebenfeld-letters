@@ -183,6 +183,41 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0232_a2-L116_01.jpg",
+   "line": 8762,
+   "doc_line": 10
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbcziner",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0233_a2-L116_03.jpg",
+   "line": 8801,
+   "doc_line": 47
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Bre[slau?]",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0233_a2-L116_03.jpg",
+   "line": 8805,
+   "doc_line": 51
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

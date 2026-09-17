@@ -145,6 +145,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0351_a2-L185_01.jpg",
+   "line": 13239,
+   "doc_line": 26
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0351_a2-L185_01.jpg",
+   "line": 13243,
+   "doc_line": 30
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

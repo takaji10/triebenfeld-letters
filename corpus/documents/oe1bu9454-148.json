@@ -132,6 +132,41 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
+   "line": 10710,
+   "doc_line": 4
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
+   "line": 10719,
+   "doc_line": 13
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
+   "line": 10724,
+   "doc_line": 18
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

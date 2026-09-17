@@ -384,6 +384,107 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0534_b-L298_01.jpg",
+   "line": 21165,
+   "doc_line": 6
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0534_b-L298_01.jpg",
+   "line": 21184,
+   "doc_line": 25
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betschener",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21187,
+   "doc_line": 27
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21188,
+   "doc_line": 28
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21190,
+   "doc_line": 30
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21199,
+   "doc_line": 39
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21202,
+   "doc_line": 42
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21210,
+   "doc_line": 50
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+   "line": 21211,
+   "doc_line": 51
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

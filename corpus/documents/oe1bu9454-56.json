@@ -356,6 +356,118 @@
   }
  ],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+   "line": 4150,
+   "doc_line": 5
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+   "line": 4152,
+   "doc_line": 7
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+   "line": 4156,
+   "doc_line": 11
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+   "line": 4158,
+   "doc_line": 13
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+   "line": 4159,
+   "doc_line": 14
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+   "line": 4167,
+   "doc_line": 22
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0107_a1-L56_02.jpg",
+   "line": 4179,
+   "doc_line": 33
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0107_a1-L56_02.jpg",
+   "line": 4184,
+   "doc_line": 38
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
+   "line": 4196,
+   "doc_line": 49
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
+   "line": 4206,
+   "doc_line": 59
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

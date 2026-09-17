@@ -330,6 +330,19 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0453_a1-L244_02.jpg",
+   "line": 17640,
+   "doc_line": 39
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

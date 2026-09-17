@@ -212,6 +212,30 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontopper",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
+   "line": 9097,
+   "doc_line": 17
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
+   "line": 9100,
+   "doc_line": 20
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

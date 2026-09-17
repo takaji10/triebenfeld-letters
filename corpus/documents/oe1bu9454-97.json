@@ -236,6 +236,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
+   "line": 7560,
+   "doc_line": 4
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
+   "line": 7601,
+   "doc_line": 44
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

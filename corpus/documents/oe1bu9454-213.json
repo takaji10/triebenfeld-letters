@@ -566,6 +566,162 @@
   }
  ],
  "place_canonical": "Swiątniki",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalischen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0397_b-L213_01.jpg",
+   "line": 15057,
+   "doc_line": 10
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0397_b-L213_01.jpg",
+   "line": 15064,
+   "doc_line": 17
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a1-L213_02.jpg",
+   "line": 15086,
+   "doc_line": 38
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrabczyner",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a1-L213_02.jpg",
+   "line": 15091,
+   "doc_line": 43
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a1-L213_02.jpg",
+   "line": 15093,
+   "doc_line": 45
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a1-L213_02.jpg",
+   "line": 15100,
+   "doc_line": 52
+  },
+  {
+   "entity": "skokum",
+   "display": "Skokum",
+   "kind": "place",
+   "surface": "Skokumer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a1-L213_02.jpg",
+   "line": 15100,
+   "doc_line": 52
+  },
+  {
+   "entity": "swiatniki",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface": "Swiątniker",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a1-L213_02.jpg",
+   "line": 15101,
+   "doc_line": 53
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a2-L213_03.jpg",
+   "line": 15117,
+   "doc_line": 68
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0398_a2-L213_03.jpg",
+   "line": 15121,
+   "doc_line": 72
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0399_a-L213_04.jpg",
+   "line": 15154,
+   "doc_line": 104
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Konin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0399_a-L213_04.jpg",
+   "line": 15154,
+   "doc_line": 104
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0399_a-L213_04.jpg",
+   "line": 15166,
+   "doc_line": 116
+  },
+  {
+   "entity": "swiatniki",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface": "Swiątniki",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0399_a-L213_04.jpg",
+   "line": 15176,
+   "doc_line": 126
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

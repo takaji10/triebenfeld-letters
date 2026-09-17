@@ -108,6 +108,30 @@
   }
  ],
  "place_canonical": "Öhringen",
+ "place_mentions": [
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0315_a1-L167_02.jpg",
+   "line": 11801,
+   "doc_line": 20
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0315_a1-L167_02.jpg",
+   "line": 11805,
+   "doc_line": 24
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

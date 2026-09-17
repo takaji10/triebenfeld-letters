@@ -299,6 +299,41 @@
   }
  ],
  "place_canonical": "Öhringen",
+ "place_mentions": [
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyner",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0359_a2-L190_03.jpg",
+   "line": 13486,
+   "doc_line": 38
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0360_a1-L190_04.jpg",
+   "line": 13512,
+   "doc_line": 63
+  },
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0360_a2-L190_05.jpg",
+   "line": 13529,
+   "doc_line": 79
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

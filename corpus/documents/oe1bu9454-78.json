@@ -292,6 +292,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0166_a-L78_04.jpg",
+   "line": 6440,
+   "doc_line": 53
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0166_a-L78_04.jpg",
+   "line": 6447,
+   "doc_line": 60
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -178,6 +178,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslauschen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0197_a-L95_01.jpg",
+   "line": 7443,
+   "doc_line": 14
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0198_a2-L95_03.jpg",
+   "line": 7480,
+   "doc_line": 49
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

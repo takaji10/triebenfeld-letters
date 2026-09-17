@@ -451,6 +451,41 @@
   }
  ],
  "place_canonical": "Öhringen[?]",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0066_a1-L36_02.jpg",
+   "line": 2529,
+   "doc_line": 45
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0067_a-L36_04.jpg",
+   "line": 2600,
+   "doc_line": 114
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 8,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0069_a-L36_08.jpg",
+   "line": 2761,
+   "doc_line": 271
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

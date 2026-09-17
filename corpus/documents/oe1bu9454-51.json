@@ -292,6 +292,41 @@
   }
  ],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0097_b-L51_01.jpg",
+   "line": 3779,
+   "doc_line": 4
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0097_b-L51_01.jpg",
+   "line": 3786,
+   "doc_line": 11
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0098_a1-L51_02.jpg",
+   "line": 3831,
+   "doc_line": 55
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

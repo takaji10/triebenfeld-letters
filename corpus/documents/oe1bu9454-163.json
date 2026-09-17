@@ -586,6 +586,96 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicern",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
+   "line": 11450,
+   "doc_line": 4
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
+   "line": 11451,
+   "doc_line": 5
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
+   "line": 11458,
+   "doc_line": 12
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
+   "line": 11460,
+   "doc_line": 14
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
+   "line": 11462,
+   "doc_line": 16
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0308_a1-L163_02.jpg",
+   "line": 11471,
+   "doc_line": 24
+  },
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0308_a1-L163_02.jpg",
+   "line": 11490,
+   "doc_line": 43
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0309_a-L163_04.jpg",
+   "line": 11537,
+   "doc_line": 88
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

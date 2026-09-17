@@ -262,6 +262,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0158_a-L74d_01.jpg",
+   "line": 6228,
+   "doc_line": 25
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0158_a-L74d_01.jpg",
+   "line": 6233,
+   "doc_line": 30
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

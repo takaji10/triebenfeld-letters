@@ -484,6 +484,19 @@
   }
  ],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0133_a2-L68_03.jpg",
+   "line": 5389,
+   "doc_line": 81
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

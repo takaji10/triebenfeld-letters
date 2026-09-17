@@ -209,6 +209,63 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0539_a1-L301_02.jpg",
+   "line": 21408,
+   "doc_line": 24
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0539_a1-L301_02.jpg",
+   "line": 21408,
+   "doc_line": 24
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0539_a1-L301_02.jpg",
+   "line": 21410,
+   "doc_line": 26
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0539_a1-L301_02.jpg",
+   "line": 21413,
+   "doc_line": 29
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0539_a1-L301_02.jpg",
+   "line": 21419,
+   "doc_line": 35
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

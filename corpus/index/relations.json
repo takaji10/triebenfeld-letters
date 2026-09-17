@@ -1,5 +1,71 @@
 [
  {
+  "from": "oe1bu14525-11",
+  "kind": "supplements",
+  "to": "oe1bu14525-10",
+  "note": "Cites 'die Urkunde vom 19. Juny d. J. bereits verliehenen Gütern: Betschen, Zagórów und Wienietz'. Dated 1 December 1797, so 'd. J.' is 1797."
+ },
+ {
+  "from": "oe1bu14525-29",
+  "kind": "answers",
+  "to": "oe1bu14525-30",
+  "note": "Written to obey 'Euer Königlichen Majestät allerhöchstem Befehl vom 18 November ... nach welchem der Titulus possessionis über die Hochfürstlich Hohenlohischen Güter Kopojno, Zagórów, Drzewce, p. p. berichtiget werden soll'. Document 30 is that order, of 18 November 1800, over the same estates. Note that 29 is subscribed 'Breslau den 3ten Novbr 1800', which is BEFORE the order it answers: ruled by the editor, 2026-09-17, an error in the original document rather than a misreading, so the link stands and the date is left as written."
+ },
+ {
+  "from": "oe1bu14525-6",
+  "kind": "supplements",
+  "to": "oe1bu14525-10",
+  "note": "Grants the appurtenances of 'den durch die Urkunde vom 19ten Juny bereits verliehenen Güthern: Betsche, Zagórów und Wienietz'. Document 10 is that grant of 19 June 1797."
+ },
+ {
+  "from": "oe1bu14525-27",
+  "kind": "certifies",
+  "to": "oe1bu14525-10",
+  "note": "Attests that the Betsche estates were conferred 'durch die Schenkungs Urkunde von 10ten Juny 1797'. The day is written 10 here where every other copy in this holding reads the 19th. Ruled by the editor, 2026-09-17: an error in the original document, not a misreading, and left standing."
+ },
+ {
+  "from": "oe1bu14525-27",
+  "kind": "certifies",
+  "to": "oe1bu14525-11",
+  "note": "And by 'deren Deklarezion von des izt regierenden Königl. Majestaat vom 1ten December ejd: a.' - document 11."
+ },
+ {
+  "from": "oe1bu14525-15",
+  "kind": "registers",
+  "to": "oe1bu14525-10",
+  "note": "The mortgage certificate enters the title 'auf den Grund der Verleihungs-Urkunden für den regierenden Herrn Fürsten Friedrich Ludwig zu Hohenlohe Ingelfingen dedato Berlin den 19ten Juny 1797 und de dato Berlin den 1ten Debr: ej. a.'"
+ },
+ {
+  "from": "oe1bu14525-15",
+  "kind": "registers",
+  "to": "oe1bu14525-11",
+  "note": "The second of the two grants that certificate enters the title under: 'de dato Berlin den 1ten Debr: ej. a.'"
+ },
+ {
+  "from": "oe1bu14525-16",
+  "kind": "confirms",
+  "to": "oe1bu14525-10",
+  "note": "The Treasury's resignation is made 'auf den Grund der Verleihungs Urkunde Unsers in Gott ruhenden Herrn Vaters Königs Friedrich Wilhelm des zweiten Majestaet vom 19ten Juni 1797.'"
+ },
+ {
+  "from": "oe1bu14525-16",
+  "kind": "confirms",
+  "to": "oe1bu14525-11",
+  "note": "And on 'Unserer Declaration derselben vom 1ten Debr.' - document 11, the supplementary grant of 1 December 1797."
+ },
+ {
+  "from": "oe1bu14525-7",
+  "kind": "supplements",
+  "to": "oe1bu14525-10",
+  "note": "The same supplementary grant, here citing 'die Urkund vom 19t Junius d. J. bereits verliehenen Güthern, Betsche, Zagórów und Wienietz'."
+ },
+ {
+  "from": "oe1bu14525-18",
+  "kind": "supplements",
+  "to": "oe1bu14525-10",
+  "note": "Cites 'die Urkunde vom 19ten Junius d J. bereits verliehenen Gütern, Betschen, Zagórów, und Wienietz'."
+ },
+ {
   "from": "oe1bu9454-118c",
   "kind": "duplicate_of",
   "to": "oe1bu9454-118b",

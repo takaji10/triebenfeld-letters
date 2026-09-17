@@ -483,6 +483,41 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
+   "line": 18995,
+   "doc_line": 8
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
+   "line": 19000,
+   "doc_line": 13
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0488_a1-L268_02.jpg",
+   "line": 19033,
+   "doc_line": 45
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

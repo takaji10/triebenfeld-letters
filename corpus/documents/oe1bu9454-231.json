@@ -124,6 +124,41 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisch",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
+   "line": 16860,
+   "doc_line": 3
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
+   "line": 16869,
+   "doc_line": 12
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
+   "line": 16875,
+   "doc_line": 18
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

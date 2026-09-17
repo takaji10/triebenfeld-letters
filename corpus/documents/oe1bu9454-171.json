@@ -136,6 +136,19 @@
   }
  ],
  "place_canonical": "Erfurt",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0321_a1-L171_02.jpg",
+   "line": 12077,
+   "doc_line": 17
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -386,6 +386,52 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0497_b-L273_01.jpg",
+   "line": 19351,
+   "doc_line": 2
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0498_a1-L273_02.jpg",
+   "line": 19381,
+   "doc_line": 31
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0499_a-L273_04.jpg",
+   "line": 19447,
+   "doc_line": 95
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0499_a-L273_04.jpg",
+   "line": 19448,
+   "doc_line": 96
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

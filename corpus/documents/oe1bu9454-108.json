@@ -202,6 +202,41 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0223_b-L108_01.jpg",
+   "line": 8429,
+   "doc_line": 11
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0223_b-L108_01.jpg",
+   "line": 8433,
+   "doc_line": 15
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0224_a1-L108_02.jpg",
+   "line": 8465,
+   "doc_line": 46
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

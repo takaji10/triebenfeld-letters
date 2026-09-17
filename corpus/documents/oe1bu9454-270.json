@@ -427,6 +427,19 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
+   "line": 19156,
+   "doc_line": 4
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

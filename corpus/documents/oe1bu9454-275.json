@@ -180,10 +180,10 @@
   },
   {
    "entity": "",
-   "display": "Kaemen",
+   "display": "Kamionna",
    "kind": "place",
    "surface_de": "Kaemen",
-   "surface_en": "Kaemen",
+   "surface_en": "Kamionna",
    "page": 1
   },
   {
@@ -228,11 +228,35 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
+   "line": 19564,
+   "doc_line": 16
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
+   "line": 19564,
+   "doc_line": 16
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nStill the Privy Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours which have hindered it. — I am gradually taking it for ill will — and the decision would be given in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — also one fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince is well disposed towards Your Serene Highness, as towards all the Hohenlohe houses, I was assured again only yesterday, and even today something further goes off in favour of the said houses to the King of Württemberg — the enclosure will also show Your Serene Highness what has been done.\n\n[uncertain: Jagt] my greatest concern is to submit the files and documents to the Commission concerning Trąbczyn, Kulm and Kaemen — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. — It is necessary that this be sent here quickly, as also the blank forms that were offered. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me out entirely. Of general news there is much of various kinds which cannot be written; the weather is clouding over again, and the barometer points to storm; the Saxon wants all at once to become an 8-Groschen piece again. How Russia and England are minded — O woe, I can write no more today than that in deepest respect I remain Your Serene Highness's\n\nsend on ahead, Your Serene Highness, if only a little money, for otherwise everything remains at a standstill, most obedient servant\n\nVienna, the 28th of February\n\n1815\n\nv. Triebenfeld",
+   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nStill the Privy Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours which have hindered it. — I am gradually taking it for ill will — and the decision would be given in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — also one fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince is well disposed towards Your Serene Highness, as towards all the Hohenlohe houses, I was assured again only yesterday, and even today something further goes off in favour of the said houses to the King of Württemberg — the enclosure will also show Your Serene Highness what has been done.\n\n[uncertain: Jagt] my greatest concern is to submit the files and documents to the Commission concerning Trąbczyn, Kulm and Kamionna — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. — It is necessary that this be sent here quickly, as also the blank forms that were offered. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me out entirely. Of general news there is much of various kinds which cannot be written; the weather is clouding over again, and the barometer points to storm; the Saxon wants all at once to become an 8-Groschen piece again. How Russia and England are minded — O woe, I can write no more today than that in deepest respect I remain Your Serene Highness's\n\nsend on ahead, Your Serene Highness, if only a little money, for otherwise everything remains at a standstill, most obedient servant\n\nVienna, the 28th of February\n\n1815\n\nv. Triebenfeld",
    "names": [
     {
      "de": "Stägemann",
@@ -281,7 +305,7 @@
     },
     {
      "de": "Kaemen",
-     "en": "Kaemen",
+     "en": "Kamionna",
      "kind": "place"
     },
     {
@@ -317,7 +341,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nStill the Privy Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours which have hindered it. — I am gradually taking it for ill will — and the decision would be given in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — also one fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince is well disposed towards Your Serene Highness, as towards all the Hohenlohe houses, I was assured again only yesterday, and even today something further goes off in favour of the said houses to the King of Württemberg — the enclosure will also show Your Serene Highness what has been done.\n\n[uncertain: Jagt] my greatest concern is to submit the files and documents to the Commission concerning Trąbczyn, Kulm and Kaemen — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. — It is necessary that this be sent here quickly, as also the blank forms that were offered. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me out entirely. Of general news there is much of various kinds which cannot be written; the weather is clouding over again, and the barometer points to storm; the Saxon wants all at once to become an 8-Groschen piece again. How Russia and England are minded — O woe, I can write no more today than that in deepest respect I remain Your Serene Highness's\n\nsend on ahead, Your Serene Highness, if only a little money, for otherwise everything remains at a standstill, most obedient servant\n\nVienna, the 28th of February\n\n1815\n\nv. Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nStill the Privy Councillor of State Stägemann has not been able to draw up any contract for the Prince State Chancellor. God knows whether the fault lies with the former or the latter. There is no lack of reminders — but always one pleads the frightfully numerous labours which have hindered it. — I am gradually taking it for ill will — and the decision would be given in Cosmar's favour, were the Brieg report not all too favourable for Your Serene Highness — also one fears Bar: and Beng: — I must still keep to my room and bed — and therefore I can only work through my friends; that meanwhile the Prince is well disposed towards Your Serene Highness, as towards all the Hohenlohe houses, I was assured again only yesterday, and even today something further goes off in favour of the said houses to the King of Württemberg — the enclosure will also show Your Serene Highness what has been done.\n\n[uncertain: Jagt] my greatest concern is to submit the files and documents to the Commission concerning Trąbczyn, Kulm and Kamionna — I cannot get the files back from the translator together with the translation. He wants to be paid and I have no money. — It is necessary that this be sent here quickly, as also the blank forms that were offered. My illness is persistently bad. — Shame and vexation, however, consume me and in the end wear me out entirely. Of general news there is much of various kinds which cannot be written; the weather is clouding over again, and the barometer points to storm; the Saxon wants all at once to become an 8-Groschen piece again. How Russia and England are minded — O woe, I can write no more today than that in deepest respect I remain Your Serene Highness's\n\nsend on ahead, Your Serene Highness, if only a little money, for otherwise everything remains at a standstill, most obedient servant\n\nVienna, the 28th of February\n\n1815\n\nv. Triebenfeld",
  "summary_en": "Complains that Privy Councillor of State Stägemann has still drafted no contract for the Prince State Chancellor despite repeated reminders, and suspects ill will; the decision would favour Cosmar but for a favourable Brieg report. Reports goodwill towards the Hohenlohe houses, with something going off to the King of Württemberg. Writes from his sickbed, working through friends, and begs for money: the translator will not release the Trąbczyn, Kulm and Kaemen files needed by the Commission until paid.",
  "summary_de": "Klage, daß der Geheime Staatsrat Stägemann für den Fürsten Staatskanzler noch immer keinen Vertrag aufgesetzt habe; trotz Mahnungen werde stets auf Arbeitslast verwiesen, Triebenfeld vermutet Unwillen. Die Entscheidung fiele zugunsten Cosmars aus, wäre der Brieger Bericht nicht so günstig. Krank und ans Bett gebunden, arbeitet er nur durch Freunde. Dringend nötig seien Geld und die angebotenen Blanketten: der Übersetzer gebe die Akten zu Trąbczyn, Kulm und Kaemen ohne Bezahlung nicht heraus, sodaß die Vorlage bei der Kommission stocke."
 }

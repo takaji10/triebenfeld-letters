@@ -242,6 +242,41 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnices",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0247_a2-L128_03.jpg",
+   "line": 9229,
+   "doc_line": 47
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnices",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0247_a2-L128_03.jpg",
+   "line": 9243,
+   "doc_line": 61
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0248_a-L128_04.jpg",
+   "line": 9268,
+   "doc_line": 85
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

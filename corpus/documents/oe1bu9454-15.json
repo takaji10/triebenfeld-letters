@@ -439,6 +439,41 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0022_b-L15_01.jpg",
+   "line": 759,
+   "doc_line": 7
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0022_b-L15_01.jpg",
+   "line": 768,
+   "doc_line": 16
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0022_b-L15_01.jpg",
+   "line": 770,
+   "doc_line": 18
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

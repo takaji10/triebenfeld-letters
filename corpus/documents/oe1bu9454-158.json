@@ -319,6 +319,52 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a1-L158_04.jpg",
+   "line": 11237,
+   "doc_line": 65
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betschener",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a1-L158_04.jpg",
+   "line": 11238,
+   "doc_line": 66
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisch",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a1-L158_04.jpg",
+   "line": 11242,
+   "doc_line": 70
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0302_a1-L158_04.jpg",
+   "line": 11255,
+   "doc_line": 83
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -326,6 +326,63 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
+   "line": 18414,
+   "doc_line": 7
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
+   "line": 18422,
+   "doc_line": 15
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
+   "line": 18422,
+   "doc_line": 15
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
+   "line": 18428,
+   "doc_line": 21
+  },
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
+   "line": 18428,
+   "doc_line": 21
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

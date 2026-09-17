@@ -320,6 +320,41 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0053_b-L30_01.jpg",
+   "line": 1935,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
+   "line": 2001,
+   "doc_line": 67
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
+   "line": 2011,
+   "doc_line": 77
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

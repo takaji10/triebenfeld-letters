@@ -127,6 +127,41 @@
   }
  ],
  "place_canonical": "Breslau[?]",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0241_a2-L122_01.jpg",
+   "line": 9074,
+   "doc_line": 10
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Franckfurth",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0241_a2-L122_01.jpg",
+   "line": 9074,
+   "doc_line": 10
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0241_a2-L122_01.jpg",
+   "line": 9076,
+   "doc_line": 12
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

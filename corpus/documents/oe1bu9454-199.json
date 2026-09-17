@@ -248,6 +248,74 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14311,
+   "doc_line": 7
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14312,
+   "doc_line": 8
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14316,
+   "doc_line": 12
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14320,
+   "doc_line": 16
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowe",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14321,
+   "doc_line": 17
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14332,
+   "doc_line": 28
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

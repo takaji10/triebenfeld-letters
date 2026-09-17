@@ -233,6 +233,74 @@
  ],
  "mentions_english": [],
  "place_canonical": "Schweinern",
+ "place_mentions": [
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0108_b-L57_01.jpg",
+   "line": 4222,
+   "doc_line": 12
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0108_b-L57_01.jpg",
+   "line": 4230,
+   "doc_line": 20
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0109_a2-L57_03.jpg",
+   "line": 4271,
+   "doc_line": 59
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0109_a2-L57_03.jpg",
+   "line": 4274,
+   "doc_line": 62
+  },
+  {
+   "entity": "koenigsberg",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface": "Königsberg",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0110_a-L57_04.jpg",
+   "line": 4309,
+   "doc_line": 96
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0110_a-L57_04.jpg",
+   "line": 4314,
+   "doc_line": 101
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

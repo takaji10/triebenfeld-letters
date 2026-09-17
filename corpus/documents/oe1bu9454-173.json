@@ -539,6 +539,85 @@
   }
  ],
  "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "witow",
+   "display": "Witów",
+   "kind": "place",
+   "surface": "Wittow",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0323_b-L173_01.jpg",
+   "line": 12156,
+   "doc_line": 4
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbcziner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0323_b-L173_01.jpg",
+   "line": 12157,
+   "doc_line": 5
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0324_a1-L173_02.jpg",
+   "line": 12184,
+   "doc_line": 31
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0324_a1-L173_02.jpg",
+   "line": 12189,
+   "doc_line": 36
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Stetteweck",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0324_a1-L173_02.jpg",
+   "line": 12189,
+   "doc_line": 36
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Stetlewek",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0324_a2-L173_03.jpg",
+   "line": 12201,
+   "doc_line": 47
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0324_a2-L173_03.jpg",
+   "line": 12203,
+   "doc_line": 49
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

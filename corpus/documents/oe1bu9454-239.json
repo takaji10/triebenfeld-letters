@@ -350,6 +350,30 @@
   }
  ],
  "place_canonical": "Neisse",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0448_a1-L239_02.jpg",
+   "line": 17405,
+   "doc_line": 20
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0448_a1-L239_02.jpg",
+   "line": 17419,
+   "doc_line": 34
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

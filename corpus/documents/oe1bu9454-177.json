@@ -323,7 +323,7 @@
   },
   {
    "entity": "radzinski",
-   "display": "Radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface": "Radzinski",
    "page": 5,
@@ -605,10 +605,10 @@
   },
   {
    "entity": "",
-   "display": "Zagorowo",
+   "display": "Zagórów",
    "kind": "place",
    "surface_de": "Zagorowo",
-   "surface_en": "Zagorowo",
+   "surface_en": "Zagórów",
    "page": 3
   },
   {
@@ -725,10 +725,10 @@
   },
   {
    "entity": "",
-   "display": "Zagorowo",
+   "display": "Zagórów",
    "kind": "place",
    "surface_de": "Zagorowe",
-   "surface_en": "Zagorowo",
+   "surface_en": "Zagórów",
    "page": 4
   },
   {
@@ -941,7 +941,7 @@
   },
   {
    "entity": "radzinski",
-   "display": "Radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface_de": "Radzinski",
    "surface_en": "Radzinski",
@@ -1117,6 +1117,261 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0330_b-L177_01.jpg",
+   "line": 12431,
+   "doc_line": 14
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0331_a1-L177_02.jpg",
+   "line": 12445,
+   "doc_line": 27
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbzyn",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
+   "line": 12467,
+   "doc_line": 48
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
+   "line": 12467,
+   "doc_line": 48
+  },
+  {
+   "entity": "gradzyn",
+   "display": "Grądzyń",
+   "kind": "place",
+   "surface": "Grądzyn",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
+   "line": 12468,
+   "doc_line": 49
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
+   "line": 12471,
+   "doc_line": 52
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
+   "line": 12477,
+   "doc_line": 58
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowe",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12484,
+   "doc_line": 64
+  },
+  {
+   "entity": "gradzyn",
+   "display": "Grądzyń",
+   "kind": "place",
+   "surface": "Grądzyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12485,
+   "doc_line": 65
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12487,
+   "doc_line": 67
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12493,
+   "doc_line": 73
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12498,
+   "doc_line": 78
+  },
+  {
+   "entity": "skokum",
+   "display": "Skokum",
+   "kind": "place",
+   "surface": "Skokum",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12498,
+   "doc_line": 78
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12499,
+   "doc_line": 79
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12510,
+   "doc_line": 90
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12513,
+   "doc_line": 93
+  },
+  {
+   "entity": "kopojno",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface": "Kopojno",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12514,
+   "doc_line": 94
+  },
+  {
+   "entity": "gradzyn",
+   "display": "Grądzyń",
+   "kind": "place",
+   "surface": "Grądzyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12515,
+   "doc_line": 95
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+   "line": 12516,
+   "doc_line": 96
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 5,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0333_a1-L177_05.jpg",
+   "line": 12525,
+   "doc_line": 104
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0333_a2-L177_06.jpg",
+   "line": 12552,
+   "doc_line": 130
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 6,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0333_a2-L177_06.jpg",
+   "line": 12553,
+   "doc_line": 131
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 7,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+   "line": 12579,
+   "doc_line": 156
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
@@ -1256,11 +1511,11 @@
   },
   {
    "page": 3,
-   "en": "naming of the new villages which arise through the dismemberment at Zagorowo and Trąbczyn. Grądzyn.\n\nFriedrichsfeld, Ludwigslust. Drzewce.\n\nSophienberg Adelow.\n\nold hut. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Little Ingelfingen.",
+   "en": "naming of the new villages which arise through the dismemberment at Zagórów and Trąbczyn. Grądzyn.\n\nFriedrichsfeld, Ludwigslust. Drzewce.\n\nSophienberg Adelow.\n\nold hut. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Little Ingelfingen.",
    "names": [
     {
      "de": "Zagorowo",
-     "en": "Zagorowo",
+     "en": "Zagórów",
      "kind": "place"
     },
     {
@@ -1337,11 +1592,11 @@
   },
   {
    "page": 4,
-   "en": "B. Register of the established new villages and of the grounds remaining to the manorial lordship (Dominium) 1 in the Zagorowo lordship there have been dismembered a at Grądzyn 1 colony of 1650 Morgen settled with 39 farmers, called Little Ingelfingen\n\nb. on Drzewce Alexandrow\n\n2. Col: ... 960 ... 18 ... Alexandrow\n\n3. 1200 ... 40 ... Augustinow\n\n4. 1221 ... 40 ... Emilienhain\n\n5. 600 ... 20 ... Adolphsberg c at Kopojno\n\n6. 1830 ... 31 ... Friedrichsfelde\n\n7. 1590 ... 40 ... Ludwigslust\n\n8. 720 ... 24 ... Sophienthal\n\n9. 1530 ... 35 ... Adelowo To old Poles singly 1230 ... 20 ... at Kopojno village and Skokum at Trąbczyn\n\n10. 1524 ... 40 ... Justinsau\n\n11. 1274 ... 34 ... Kaschubowe\n\n12. 1866 ... 60 ... Furstenfelde\n\n538 ... 8 ... the former Przybysław\n\n13. 1266 ... 42 .. Little Schrotzberg\n\n300 ... 8 ... the old hut\n\n14. 1632 ... 54 ... Hellendorff\n\n15. 476 ... 25 ... Stetten[uncertain: i]feld. Total Morgen 21407\n\n578 farmers\n\nat Trąbczyn there remains\n\n1. demesne farm of 724 Morgen\n\n2. at Marianton 60 Morgen (=784) Forest There remains at Trąbczyn 1500 at Kopojno 832\n\nat Grądzyn 1126\n\nat Wrąbczyn 333\n\n= 3791\n\n= 4575 Morgen Besides this, the old subjects have had their pasture and wood [uncertain: allowances] determined by contract.",
+   "en": "B. Register of the established new villages and of the grounds remaining to the manorial lordship (Dominium) 1 in the Zagórów lordship there have been dismembered a at Grądzyn 1 colony of 1650 Morgen settled with 39 farmers, called Little Ingelfingen\n\nb. on Drzewce Alexandrow\n\n2. Col: ... 960 ... 18 ... Alexandrow\n\n3. 1200 ... 40 ... Augustinow\n\n4. 1221 ... 40 ... Emilienhain\n\n5. 600 ... 20 ... Adolphsberg c at Kopojno\n\n6. 1830 ... 31 ... Friedrichsfelde\n\n7. 1590 ... 40 ... Ludwigslust\n\n8. 720 ... 24 ... Sophienthal\n\n9. 1530 ... 35 ... Adelowo To old Poles singly 1230 ... 20 ... at Kopojno village and Skokum at Trąbczyn\n\n10. 1524 ... 40 ... Justinsau\n\n11. 1274 ... 34 ... Kaschubowe\n\n12. 1866 ... 60 ... Furstenfelde\n\n538 ... 8 ... the former Przybysław\n\n13. 1266 ... 42 .. Little Schrotzberg\n\n300 ... 8 ... the old hut\n\n14. 1632 ... 54 ... Hellendorff\n\n15. 476 ... 25 ... Stetten[uncertain: i]feld. Total Morgen 21407\n\n578 farmers\n\nat Trąbczyn there remains\n\n1. demesne farm of 724 Morgen\n\n2. at Marianton 60 Morgen (=784) Forest There remains at Trąbczyn 1500 at Kopojno 832\n\nat Grądzyn 1126\n\nat Wrąbczyn 333\n\n= 3791\n\n= 4575 Morgen Besides this, the old subjects have had their pasture and wood [uncertain: allowances] determined by contract.",
    "names": [
     {
      "de": "Zagorowe",
-     "en": "Zagorowo",
+     "en": "Zagórów",
      "kind": "place"
     },
     {
@@ -1691,7 +1946,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, There is at present little to be settled here, for everything is now in confusion on account of the mobilisation of the army. Klewiz had to hasten to South Prussia yesterday and drive the [uncertain: the] grain together; Minister Voss sits in Havelberg and sings psalms, and therefore there is, as regards what falls within this [illegible], nothing to be done for the time being. The approbation is being pressed forward by Privy Councillor Reinbeck, who intends to see to it and have it executed as soon as Voss returns. Upon the approbation of the dismemberment the money business depends; as soon as I have this the revenues stand [uncertain: ready], and then I hope to obtain from the Invalids' Fund and from the Wards' Board the sum of money needed for the payment of all debts. All this has been set in train; meanwhile I cannot wait upon the thing, but must hasten back to Trąbczyn in order to work there. With Betsche the matter must go too. Reinbeck is Amelang's bosom and boyhood friend, and through him everything will be capable of being pushed forward. Should anyone prove in some measure refractory, I have the assurance of the most powerful protection from the court.\n\nTo Minister von Voss there went out from Potsdam yesterday an order that he should suspend the psalm-singing until another time and come home, inasmuch as there were more important matters to be dispatched here. He is to arrive this evening. Reinbeck has just now given Amelang the [uncertain: guidance]\n\nthat tomorrow the dismemberment matter will be laid before the Minister, and the day after that the report will go off to the King and the highest approbation will be procured. According to the state of the files he would answer for it that the same cannot [uncertain: fail to be granted] but must absolutely be granted. As regards Betsche, upon Reinbeck's advice I am to submit nothing until I have that approbation — then I am to submit the matter to the Minister myself, so that he may turn the whole of it to the best advantage. As respects the war business, it remains the case that the whole army is being mobilised.\n\nThe Emperor has now proposed an interview between [uncertain: himself and] our King. The King has answered him par Courier that he would be content with that. From his resolve to mobilise his whole army he would not depart, however — for he would not let the [uncertain: penalty] be drawn through his country; that would be worse than if he lost a whole campaign — In general he would now meddle no further in anything, but whoever should seek to force him to something, him he would meet with his whole might, and he would sooner be buried beneath the ruins with his last man than depart from this resolve.\n\nGeneral Ruchel goes off tomorrow to East Prussia; likewise General Relitirente /who is very dissatisfied and means to demand his discharge/ is to go off these days to Pomerania. As General Köckritz says, it is wished that Your Serene Highness might also soon be in South Prussia. Seven generals are being placed on the retired list, among whom General Dolfs was [uncertain: named] when I heard them named. Field Marshal Mollendorf is said to [text lost]\n\nnaming of the new villages which arise through the dismemberment at Zagorowo and Trąbczyn. Grądzyn.\n\nFriedrichsfeld, Ludwigslust. Drzewce.\n\nSophienberg Adelow.\n\nold hut. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Little Ingelfingen.\n\nB. Register of the established new villages and of the grounds remaining to the manorial lordship (Dominium) 1 in the Zagorowo lordship there have been dismembered a at Grądzyn 1 colony of 1650 Morgen settled with 39 farmers, called Little Ingelfingen\n\nb. on Drzewce Alexandrow\n\n2. Col: ... 960 ... 18 ... Alexandrow\n\n3. 1200 ... 40 ... Augustinow\n\n4. 1221 ... 40 ... Emilienhain\n\n5. 600 ... 20 ... Adolphsberg c at Kopojno\n\n6. 1830 ... 31 ... Friedrichsfelde\n\n7. 1590 ... 40 ... Ludwigslust\n\n8. 720 ... 24 ... Sophienthal\n\n9. 1530 ... 35 ... Adelowo To old Poles singly 1230 ... 20 ... at Kopojno village and Skokum at Trąbczyn\n\n10. 1524 ... 40 ... Justinsau\n\n11. 1274 ... 34 ... Kaschubowe\n\n12. 1866 ... 60 ... Furstenfelde\n\n538 ... 8 ... the former Przybysław\n\n13. 1266 ... 42 .. Little Schrotzberg\n\n300 ... 8 ... the old hut\n\n14. 1632 ... 54 ... Hellendorff\n\n15. 476 ... 25 ... Stetten[uncertain: i]feld. Total Morgen 21407\n\n578 farmers\n\nat Trąbczyn there remains\n\n1. demesne farm of 724 Morgen\n\n2. at Marianton 60 Morgen (=784) Forest There remains at Trąbczyn 1500 at Kopojno 832\n\nat Grądzyn 1126\n\nat Wrąbczyn 333\n\n= 3791\n\n= 4575 Morgen Besides this, the old subjects have had their pasture and wood [uncertain: allowances] determined by contract.\n\nOf monies there have so far come in only 7130 Rthl; out of these the interest has been paid and the remainder sent to Breslau!\n\nRadzinski shall and must pay down 6000 Rthl these days, otherwise he will have execution levied upon him — he is truly the most malicious man I have ever met with. On Thursday some of the colonists who were driven apart from one another mean to present themselves again. God knows whether they will keep their word. They promised to pay down several thousand Rthl in cash. On Monday a man who wishes to lease the little demesne farm and buy grounds has likewise promised to bring 5000 Rthl. Had Herr von Voss begun the racket after the harvest, I should have laughed at his follies; as it is, however, he [uncertain: frightened off] the people for me at the wrong season — now the men will hardly come together again before after the harvest.\n\nHere too it has again been ordered that the Prusimska be paid her 20000 Rthl\n\nHerr Weigel shall and must have the 23000 Rthl still coming to him; then the Schlabrendorff woman is to be satisfied with 25000 Rthl. That is a further sum of\n\n68000 Rthl. These and above a hundred thousand more are to come in; only God knows when this will happen — If I only had back very soon the approved contracts /for I have had to submit them all as evidence/ together with the concession of all revenues, then I believe it will surely be\n\nthe best course, that one should take a further 150000 Rthl, together 30000 Rthl, from the Invalids' Fund, pay off Appenhumer and everything here, clear everything, and extinguish this debt little by little out of the revenues of the estates. As soon as I have leased the demesne farm here and have a lump of money together, I shall hasten at once to Kalisz, to direct everything there, and shall come to Breslau to learn Your Serene Highness's further high opinion. von Triebenfeld\n\n[text lost] and command this army if it comes to anything. The Duke of Brunswick, however, the whole [uncertain: direction]. The tidings which I wrote already eight weeks ago, and which at that time were held to be of very little consequence, are now found confirmed, and only three days ago Chlebowski and Vöhler wrote the same as important news — the King has been much [uncertain: exercised] over many things — I am to go along, as I wrote last time — but I shall look to myself — Your Serene Highness can [uncertain: be to] go by way of Vielen to Lenschitz; there you are not far from your estates. In deepest reverence I remain, until death, as Your Most Serene Highness's To Colonel von Schlieben I gave 2000 Rthl yesterday, since Mucrowis had sent no money, and he must quash the suit — I have also paid here a further 100 fr. d'or to the assistants — Everything truly goes well. Hardenberg has hitherto been too scarce; I have not yet been able to speak with him. Today he has gone for a couple of days to his estates, and the King is at Paretz, where he means to stay until the [uncertain: torch-dance] of Ferdinand's jubilee wedding, which is on the 27th. Berlin, the 24th September.\n\n1805\n\nmost humble and obedient servant\n\nvon Triebenfeld",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, There is at present little to be settled here, for everything is now in confusion on account of the mobilisation of the army. Klewiz had to hasten to South Prussia yesterday and drive the [uncertain: the] grain together; Minister Voss sits in Havelberg and sings psalms, and therefore there is, as regards what falls within this [illegible], nothing to be done for the time being. The approbation is being pressed forward by Privy Councillor Reinbeck, who intends to see to it and have it executed as soon as Voss returns. Upon the approbation of the dismemberment the money business depends; as soon as I have this the revenues stand [uncertain: ready], and then I hope to obtain from the Invalids' Fund and from the Wards' Board the sum of money needed for the payment of all debts. All this has been set in train; meanwhile I cannot wait upon the thing, but must hasten back to Trąbczyn in order to work there. With Betsche the matter must go too. Reinbeck is Amelang's bosom and boyhood friend, and through him everything will be capable of being pushed forward. Should anyone prove in some measure refractory, I have the assurance of the most powerful protection from the court.\n\nTo Minister von Voss there went out from Potsdam yesterday an order that he should suspend the psalm-singing until another time and come home, inasmuch as there were more important matters to be dispatched here. He is to arrive this evening. Reinbeck has just now given Amelang the [uncertain: guidance]\n\nthat tomorrow the dismemberment matter will be laid before the Minister, and the day after that the report will go off to the King and the highest approbation will be procured. According to the state of the files he would answer for it that the same cannot [uncertain: fail to be granted] but must absolutely be granted. As regards Betsche, upon Reinbeck's advice I am to submit nothing until I have that approbation — then I am to submit the matter to the Minister myself, so that he may turn the whole of it to the best advantage. As respects the war business, it remains the case that the whole army is being mobilised.\n\nThe Emperor has now proposed an interview between [uncertain: himself and] our King. The King has answered him par Courier that he would be content with that. From his resolve to mobilise his whole army he would not depart, however — for he would not let the [uncertain: penalty] be drawn through his country; that would be worse than if he lost a whole campaign — In general he would now meddle no further in anything, but whoever should seek to force him to something, him he would meet with his whole might, and he would sooner be buried beneath the ruins with his last man than depart from this resolve.\n\nGeneral Ruchel goes off tomorrow to East Prussia; likewise General Relitirente /who is very dissatisfied and means to demand his discharge/ is to go off these days to Pomerania. As General Köckritz says, it is wished that Your Serene Highness might also soon be in South Prussia. Seven generals are being placed on the retired list, among whom General Dolfs was [uncertain: named] when I heard them named. Field Marshal Mollendorf is said to [text lost]\n\nnaming of the new villages which arise through the dismemberment at Zagórów and Trąbczyn. Grądzyn.\n\nFriedrichsfeld, Ludwigslust. Drzewce.\n\nSophienberg Adelow.\n\nold hut. Augustinow. Emilienhein. behind Kopojno. Wildenbruch: Schönau, or Little Ingelfingen.\n\nB. Register of the established new villages and of the grounds remaining to the manorial lordship (Dominium) 1 in the Zagórów lordship there have been dismembered a at Grądzyn 1 colony of 1650 Morgen settled with 39 farmers, called Little Ingelfingen\n\nb. on Drzewce Alexandrow\n\n2. Col: ... 960 ... 18 ... Alexandrow\n\n3. 1200 ... 40 ... Augustinow\n\n4. 1221 ... 40 ... Emilienhain\n\n5. 600 ... 20 ... Adolphsberg c at Kopojno\n\n6. 1830 ... 31 ... Friedrichsfelde\n\n7. 1590 ... 40 ... Ludwigslust\n\n8. 720 ... 24 ... Sophienthal\n\n9. 1530 ... 35 ... Adelowo To old Poles singly 1230 ... 20 ... at Kopojno village and Skokum at Trąbczyn\n\n10. 1524 ... 40 ... Justinsau\n\n11. 1274 ... 34 ... Kaschubowe\n\n12. 1866 ... 60 ... Furstenfelde\n\n538 ... 8 ... the former Przybysław\n\n13. 1266 ... 42 .. Little Schrotzberg\n\n300 ... 8 ... the old hut\n\n14. 1632 ... 54 ... Hellendorff\n\n15. 476 ... 25 ... Stetten[uncertain: i]feld. Total Morgen 21407\n\n578 farmers\n\nat Trąbczyn there remains\n\n1. demesne farm of 724 Morgen\n\n2. at Marianton 60 Morgen (=784) Forest There remains at Trąbczyn 1500 at Kopojno 832\n\nat Grądzyn 1126\n\nat Wrąbczyn 333\n\n= 3791\n\n= 4575 Morgen Besides this, the old subjects have had their pasture and wood [uncertain: allowances] determined by contract.\n\nOf monies there have so far come in only 7130 Rthl; out of these the interest has been paid and the remainder sent to Breslau!\n\nRadzinski shall and must pay down 6000 Rthl these days, otherwise he will have execution levied upon him — he is truly the most malicious man I have ever met with. On Thursday some of the colonists who were driven apart from one another mean to present themselves again. God knows whether they will keep their word. They promised to pay down several thousand Rthl in cash. On Monday a man who wishes to lease the little demesne farm and buy grounds has likewise promised to bring 5000 Rthl. Had Herr von Voss begun the racket after the harvest, I should have laughed at his follies; as it is, however, he [uncertain: frightened off] the people for me at the wrong season — now the men will hardly come together again before after the harvest.\n\nHere too it has again been ordered that the Prusimska be paid her 20000 Rthl\n\nHerr Weigel shall and must have the 23000 Rthl still coming to him; then the Schlabrendorff woman is to be satisfied with 25000 Rthl. That is a further sum of\n\n68000 Rthl. These and above a hundred thousand more are to come in; only God knows when this will happen — If I only had back very soon the approved contracts /for I have had to submit them all as evidence/ together with the concession of all revenues, then I believe it will surely be\n\nthe best course, that one should take a further 150000 Rthl, together 30000 Rthl, from the Invalids' Fund, pay off Appenhumer and everything here, clear everything, and extinguish this debt little by little out of the revenues of the estates. As soon as I have leased the demesne farm here and have a lump of money together, I shall hasten at once to Kalisz, to direct everything there, and shall come to Breslau to learn Your Serene Highness's further high opinion. von Triebenfeld\n\n[text lost] and command this army if it comes to anything. The Duke of Brunswick, however, the whole [uncertain: direction]. The tidings which I wrote already eight weeks ago, and which at that time were held to be of very little consequence, are now found confirmed, and only three days ago Chlebowski and Vöhler wrote the same as important news — the King has been much [uncertain: exercised] over many things — I am to go along, as I wrote last time — but I shall look to myself — Your Serene Highness can [uncertain: be to] go by way of Vielen to Lenschitz; there you are not far from your estates. In deepest reverence I remain, until death, as Your Most Serene Highness's To Colonel von Schlieben I gave 2000 Rthl yesterday, since Mucrowis had sent no money, and he must quash the suit — I have also paid here a further 100 fr. d'or to the assistants — Everything truly goes well. Hardenberg has hitherto been too scarce; I have not yet been able to speak with him. Today he has gone for a couple of days to his estates, and the King is at Paretz, where he means to stay until the [uncertain: torch-dance] of Ferdinand's jubilee wedding, which is on the 27th. Berlin, the 24th September.\n\n1805\n\nmost humble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "Business in Berlin is stalled by the army's mobilisation, though Privy Councillor Reinbeck promises to lay the division of the estates before Minister von Voss and obtain the King's approval within days; on that approval depends raising money from the Invalids' Fund and Wards' Board. Enclosed is a register of fifteen new colonies at Zagorowo and Trąbczyn, 21,407 Morgen and 578 farmers, with land left to the lordship. Only 7,130 Rthl has come in; Radzinski owes 6,000; Prusimska, Weigel and Schlabrendorff claim 68,000 Rthl. War news follows.",
  "summary_de": "Bericht über den Stand der Zerstückelung: Geheimrat Reinbeck will sie nach Rückkehr des Ministers Voss dem König zur Genehmigung vorlegen, wovon das Geldgeschäft abhängt; aus dem Invalidenfonds und vom Pupillenkollegium sollen Mittel zur Schuldentilgung kommen. Beigefügt ein Verzeichnis der 15 neuen Kolonien bei Zagorowo und Trąbczyn (21407 Morgen, 578 Wirte, u. a. Klein Ingelfingen, Augustinow, Ludwigslust, Fürstenfelde) und der beim Dominium verbleibenden Gründe. Eingegangen erst 7130 Rthl; Radzinski soll 6000 Rthl zahlen, Forderungen der Prusimska (20000), Weigel (23000) und der Schlabrendorff (25000) stehen offen. Dazu Nachrichten über die Mobilmachung der Armee."
 }

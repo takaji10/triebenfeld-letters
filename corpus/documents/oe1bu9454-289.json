@@ -296,6 +296,30 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0522_a2-L289_01.jpg",
+   "line": 20609,
+   "doc_line": 20
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0522_a2-L289_01.jpg",
+   "line": 20612,
+   "doc_line": 23
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

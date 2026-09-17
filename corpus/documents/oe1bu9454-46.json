@@ -159,6 +159,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berliner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0087_b-L46_01.jpg",
+   "line": 3437,
+   "doc_line": 10
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berl",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0088_a1-L46_02.jpg",
+   "line": 3458,
+   "doc_line": 30
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

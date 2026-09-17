@@ -202,6 +202,63 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14700,
+   "doc_line": 2
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14703,
+   "doc_line": 5
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14703,
+   "doc_line": 5
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14718,
+   "doc_line": 20
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14720,
+   "doc_line": 22
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

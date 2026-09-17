@@ -192,6 +192,85 @@
  ],
  "mentions_english": [],
  "place_canonical": "Kontop",
+ "place_mentions": [
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0125_a-L65_01.jpg",
+   "line": 5006,
+   "doc_line": 12
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
+   "line": 5047,
+   "doc_line": 52
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berliner",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
+   "line": 5051,
+   "doc_line": 55
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
+   "line": 5054,
+   "doc_line": 58
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
+   "line": 5069,
+   "doc_line": 73
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
+   "line": 5075,
+   "doc_line": 79
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
+   "line": 5079,
+   "doc_line": 83
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

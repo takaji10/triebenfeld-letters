@@ -130,6 +130,52 @@
   }
  ],
  "place_canonical": "Schlawenschitz",
+ "place_mentions": [
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
+   "line": 1907,
+   "doc_line": 4
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
+   "line": 1910,
+   "doc_line": 7
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
+   "line": 1912,
+   "doc_line": 9
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0052_a1-L29_02.jpg",
+   "line": 1926,
+   "doc_line": 22
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

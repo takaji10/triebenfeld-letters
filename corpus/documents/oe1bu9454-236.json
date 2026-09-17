@@ -224,6 +224,19 @@
   }
  ],
  "place_canonical": "Blizanow",
+ "place_mentions": [
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0444_a1-L236_02.jpg",
+   "line": 17248,
+   "doc_line": 40
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

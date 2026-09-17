@@ -444,6 +444,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0203_a1-L98_02.jpg",
+   "line": 7627,
+   "doc_line": 20
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0204_a-L98_04.jpg",
+   "line": 7681,
+   "doc_line": 72
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -226,6 +226,52 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0312_a2-L166_01.jpg",
+   "line": 11694,
+   "doc_line": 15
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0314_a-L166_04.jpg",
+   "line": 11755,
+   "doc_line": 73
+  },
+  {
+   "entity": "kontop",
+   "display": "Kontop",
+   "kind": "place",
+   "surface": "Kontop",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0314_a-L166_04.jpg",
+   "line": 11765,
+   "doc_line": 83
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0314_a-L166_04.jpg",
+   "line": 11775,
+   "doc_line": 93
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -141,6 +141,30 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
+   "line": 5812,
+   "doc_line": 10
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
+   "line": 5817,
+   "doc_line": 15
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

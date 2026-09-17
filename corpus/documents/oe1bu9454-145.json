@@ -93,7 +93,7 @@
   },
   {
    "entity": "radzinski",
-   "display": "Radzinski",
+   "display": "Ignatz von Radzinski",
    "kind": "person",
    "surface": "Radzinski",
    "page": 1,
@@ -249,6 +249,41 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
+   "line": 10506,
+   "doc_line": 4
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
+   "line": 10524,
+   "doc_line": 21
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
+   "line": 10533,
+   "doc_line": 30
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

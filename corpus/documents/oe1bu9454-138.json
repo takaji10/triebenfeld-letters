@@ -136,10 +136,10 @@
   },
   {
    "entity": "",
-   "display": "Kaemen",
+   "display": "Kamionna",
    "kind": "place",
    "surface_de": "Kaemen",
-   "surface_en": "Kaemen",
+   "surface_en": "Kamionna",
    "page": 1
   },
   {
@@ -168,11 +168,57 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
+   "line": 10105,
+   "doc_line": 16
+  },
+  {
+   "entity": "kolno",
+   "display": "Kolno",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
+   "line": 10105,
+   "doc_line": 16
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0271_a1-L138_02.jpg",
+   "line": 10107,
+   "doc_line": 17
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Ber[lin?]",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0271_a1-L138_02.jpg",
+   "line": 10113,
+   "doc_line": 23
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly], as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the 25th of June.\n\nI did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to come into possession of the estates. This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon that the appointed disposition has been taken into account, and the deposition as well as the vacating of Kolno and Kaemen has been enjoined upon the Government",
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly], as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the 25th of June.\n\nI did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to come into possession of the estates. This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon that the appointed disposition has been taken into account, and the deposition as well as the vacating of Kolno and Kamionna has been enjoined upon the Government",
    "names": [
     {
      "de": "v. Broniewskisch",
@@ -191,7 +237,7 @@
     },
     {
      "de": "Kaemen",
-     "en": "Kaemen",
+     "en": "Kamionna",
      "kind": "place"
     }
    ],
@@ -226,7 +272,7 @@
    ]
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly], as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the 25th of June.\n\nI did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to come into possession of the estates. This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon that the appointed disposition has been taken into account, and the deposition as well as the vacating of Kolno and Kaemen has been enjoined upon the Government\n\nat Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and in this presumption [uncertain: I remain] with reverence and devotion\n\nYour Most Serene Highness's Ber[lin?] the 3rd of July 1804 humble and obedient servant Amelang",
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the v. Broniewski matter the renewed first attempt at the deposition has run out [uncertain: fruitlessly], as Your Most Serene Highness will graciously be pleased to see from the enclosed resolution of the 25th of June.\n\nI did not [uncertain: hesitate] to [illegible] once more all that was clamoured for, in order to obtain a reconsideration. Mr. v. Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, deposit a security along with it, merely in order to come into possession of the estates. This I have accordingly offered; it is [set] at 10000 Rthl [uncertain: of the said sum], and upon that the appointed disposition has been taken into account, and the deposition as well as the vacating of Kolno and Kamionna has been enjoined upon the Government\n\nat Posen. I do not doubt that this disposition will be agreeable to Your Most Serene Highness, and in this presumption [uncertain: I remain] with reverence and devotion\n\nYour Most Serene Highness's Ber[lin?] the 3rd of July 1804 humble and obedient servant Amelang",
  "summary_en": "Amelang reports that a renewed first attempt at the deposition in the von Broniewski matter came to nothing, as a resolution of 25 June shows, and that he pressed again for reconsideration. Acting on von Triebenfeld's word that the Prince would if necessary lodge security to gain possession of the estates, he offered 10,000 Rthl; the deposition and the vacating of Kolno and Kaemen have now been ordered of the Government at Posen.",
  "summary_de": "Bericht über den Fortgang der Sache v. Broniewski: Ein erneuter Versuch der Deposition blieb erfolglos, wie eine beiliegende Resolution vom 25. Juni zeigt. Amelang hat daher eine nochmalige Prüfung erwirkt und, wie von Herrn v. Triebenfeld angedeutet, eine Sicherheit von 10000 Rthl angeboten, um den Besitz der Güter zu erlangen. Darauf sei der Regierung zu Posen die Deposition sowie die Räumung von Kolno und Kaemen aufgegeben worden."
 }

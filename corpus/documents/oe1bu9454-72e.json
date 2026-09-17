@@ -97,6 +97,19 @@
   }
  ],
  "place_canonical": "Warschau",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyna",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
+   "line": 5846,
+   "doc_line": 7
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

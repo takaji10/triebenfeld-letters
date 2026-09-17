@@ -341,6 +341,30 @@
   }
  ],
  "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betschen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
+   "line": 6734,
+   "doc_line": 10
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+   "line": 6746,
+   "doc_line": 21
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

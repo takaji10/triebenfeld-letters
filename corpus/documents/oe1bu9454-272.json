@@ -234,6 +234,41 @@
   }
  ],
  "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0495_b-L272_01.jpg",
+   "line": 19273,
+   "doc_line": 6
+  },
+  {
+   "entity": "oehringen",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface": "Öhringen",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0495_b-L272_01.jpg",
+   "line": 19279,
+   "doc_line": 12
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berliner",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0497_a-L272_04.jpg",
+   "line": 19336,
+   "doc_line": 66
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -553,6 +553,118 @@
   }
  ],
  "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0309_b-L164_01.jpg",
+   "line": 11545,
+   "doc_line": 3
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0309_b-L164_01.jpg",
+   "line": 11552,
+   "doc_line": 10
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0309_b-L164_01.jpg",
+   "line": 11555,
+   "doc_line": 13
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0309_b-L164_01.jpg",
+   "line": 11559,
+   "doc_line": 17
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0310_a1-L164_02.jpg",
+   "line": 11569,
+   "doc_line": 26
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0310_a1-L164_02.jpg",
+   "line": 11587,
+   "doc_line": 44
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0310_a2-L164_03.jpg",
+   "line": 11604,
+   "doc_line": 60
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicer",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0310_a2-L164_03.jpg",
+   "line": 11605,
+   "doc_line": 61
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicern",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+   "line": 11613,
+   "doc_line": 68
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 4,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+   "line": 11640,
+   "doc_line": 95
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

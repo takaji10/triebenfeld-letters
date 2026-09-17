@@ -333,6 +333,63 @@
   }
  ],
  "place_canonical": "Trąbczyn",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0321_a2-L172_01.jpg",
+   "line": 12097,
+   "doc_line": 3
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0321_a2-L172_01.jpg",
+   "line": 12104,
+   "doc_line": 10
+  },
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnicern",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0322_a1-L172_02.jpg",
+   "line": 12129,
+   "doc_line": 34
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0322_a1-L172_02.jpg",
+   "line": 12133,
+   "doc_line": 38
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczin",
+   "page": 3,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0322_a2-L172_03.jpg",
+   "line": 12147,
+   "doc_line": 51
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

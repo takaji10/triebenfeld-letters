@@ -490,6 +490,19 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wein",
+   "page": 2,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0019_a1-L11_02.jpg",
+   "line": 633,
+   "doc_line": 59
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

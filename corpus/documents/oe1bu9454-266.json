@@ -421,6 +421,63 @@
   }
  ],
  "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanower",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+   "line": 18893,
+   "doc_line": 6
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+   "line": 18893,
+   "doc_line": 6
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+   "line": 18894,
+   "doc_line": 7
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+   "line": 18899,
+   "doc_line": 12
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+   "line": 18910,
+   "doc_line": 23
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

@@ -93,6 +93,30 @@
   }
  ],
  "place_canonical": "Breslau",
+ "place_mentions": [
+  {
+   "entity": "olesnica",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface": "Olesnica",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
+   "line": 9121,
+   "doc_line": 1
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 1,
+   "page_id": "",
+   "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
+   "line": 9129,
+   "doc_line": 9
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {
