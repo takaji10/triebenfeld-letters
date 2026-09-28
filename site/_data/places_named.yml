@@ -363,10 +363,6 @@
   name: "Erfurt"
   count: 3
   letters: [{id: "171", url: "/documents/oe1bu9454/171/"}, {id: "41", url: "/documents/oe1bu9454/41/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
-- slug: "fuerth"
-  name: "Fürth"
-  count: 3
-  letters: [{id: "4", url: "/documents/oe1bu14526/4/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "188", url: "/documents/oe1bu9454/188/"}]
 - slug: "glatz"
   name: "Glatz (Kłodzko)"
   count: 3
@@ -431,6 +427,10 @@
   name: "Białobrzeg"
   count: 2
   letters: [{id: "25", url: "/documents/oe1bu14526/25/"}, {id: "26", url: "/documents/oe1bu14526/26/"}]
+- slug: "fuerth"
+  name: "Fürth"
+  count: 2
+  letters: [{id: "187", url: "/documents/oe1bu9454/187/"}, {id: "188", url: "/documents/oe1bu9454/188/"}]
 - slug: "gola"
   name: "Goła Wieś"
   count: 2

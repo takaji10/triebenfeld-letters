@@ -140,3 +140,9 @@ numbered clauses of the deeds themselves are genuine and were kept.
 None recorded beyond what the transcription itself marks: 56 `[?]` readings
 and 7 `[...]` gaps. Both counts are unchanged by every pass made on this unit,
 which is how the apply step proves it altered no reading.
+
+## Sweeps carried over from 9454 (2026-09-28)
+
+- **Line-end marks.** 10 words broken with - / ‗ / = now take ¬. Of 103 ¬ the line-break resolver did not join: 37 real breaks held as `join` (Latin, Polish, names, period spellings); 22 stray ¬ between whole words and 12 compounds written as two words lost the mark (Landes Eingeborne, Real Verbindlichkeiten, Ober Amts); Bau- und Brennholtzes keeps a real hyphen; 6 lost endings supplied in brackets (seit ger[aumen] Jahren, Che[f] eines Regiments, aus Kö[niglicher] Macht); 12 misread halves or words fixed (un → und, Verleihe → Verleihung, Einschrän¬kungen, Beschleu¬nigung, Christi¬ane). Left: un¬ nicht (letter 13), Rein¬ so (18), Remo¬nern (34), Sei¬strum (38), Rech¬ B (41).
+- **Nonwords.** 13 fixes after the DWDS pass (Ingrostator, Hohenlot, Nachkommn, Mescritz, Johanniy, Liebde; Zagórów, Grądzyń, Cujavien to the unit's standard). Latin and Polish forms left.
+- **Watch-list.** Majestät, Summa, sign-offs, French, Johanni, Rußland, Pohlen, Posen: nothing to fix. Titles E[wr]. K[önigliche]. M[ajestät]., E[wr]. M[ajestät]., K[önigl]. Reg[ierung]. expanded.

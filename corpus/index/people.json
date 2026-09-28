@@ -4031,7 +4031,7 @@
  {
   "entity": "hohenlohe",
   "display": "Hohenlohe",
-  "count": 301,
+  "count": 302,
   "documents": [
    "oe1bu14525-1",
    "oe1bu14525-10",
@@ -4280,6 +4280,15 @@
     "scan": "Oe_1_Bu_14525_0011_a1-L3_02.jpg",
     "line": 310,
     "doc_line": 36
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Hohenlohe",
+    "page": 2,
+    "page_id": "0011_a1",
+    "scan": "Oe_1_Bu_14525_0011_a1-L3_02.jpg",
+    "line": 329,
+    "doc_line": 55
    },
    {
     "uid": "oe1bu14525-3",
@@ -28374,7 +28383,7 @@
    },
    {
     "uid": "oe1bu14526-21",
-    "surface": "Meierowicz",
+    "surface": "Meierowitz",
     "page": 1,
     "page_id": "0136_b",
     "scan": "Oe_1_Bu_14526_0136_b-L21_01.jpg",
@@ -28419,7 +28428,7 @@
    },
    {
     "uid": "oe1bu14526-21",
-    "surface": "Maierowitz",
+    "surface": "Meierowitz",
     "page": 4,
     "page_id": "0138_a",
     "scan": "Oe_1_Bu_14526_0138_a-L21_04.jpg",

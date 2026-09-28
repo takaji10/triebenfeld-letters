@@ -803,3 +803,83 @@ fix-001,oe1bu14525-010,0028_a2,"freundlich lieber Oheim, der Regierende Fürst v
 fix-002,oe1bu14525-021,0081_a2,"Domainen Casse zahlt, wel","Domainen Casse zahlt, wel¬",y,"Transcription corrected on the editor's instruction, 2026-09-16. the wrap sign was not transcribed: 'wel' is the broken start of 'welches', which the next page carries in full, as with sti¬, Oppen¬ and Do¬ on the same run of pages"
 fix-003,oe1bu14525-021,0082_a1,über das Guth Olesnica geschlos,über das Guth Olesnica geschlos¬,y,"Transcription corrected on the editor's instruction, 2026-09-16. the wrap sign was not transcribed: geschlos + senen is geschlossenen, which stands in full at L226 of this unit and is broken the same way in 14526 (geschlosse¬ / nen)"
 fix-004,oe1bu14525-021,0084_a1,heim et Wolff in Berlin mit vollen¬,heim et Wolff in Berlin mit voller,y,"Transcription corrected on the editor's instruction, 2026-09-16. misread: the phrase is 'mit voller Würkung', written so four times in this unit, once of the same parties (L2555, Mendel Oppenheim und Wolff in Berlin). The wrap sign goes with it, the word being complete; Würkung follows on the next page"
+f8b5f4ea,oe1bu14525-003,2,da-,da¬,@310 da- -> da¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+53a7bfc0,oe1bu14525-003,2,zeit‗,zeit¬,@311 zeit‗ -> zeit¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+a2447943,oe1bu14525-007,4,Bedin=,Bedin¬,@752 Bedin= -> Bedin¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+57999002,oe1bu14525-011,2,ewi‗,ewi¬,@1220 ewi‗ -> ewi¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+4b95159e,oe1bu14525-013,2,ver-,ver¬,@1438 ver- -> ver¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+3342c90f,oe1bu14525-015,1,Urkun-,Urkun¬,@1815 Urkun- -> Urkun¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+73b687b6,oe1bu14525-017,6,veran-,veran¬,@2098 veran- -> veran¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+cc09bc82,oe1bu14525-025,3,In-,In¬,@3284 In- -> In¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+54f6a198,oe1bu14525-028,3,quan-,quan¬,@3477 quan- -> quan¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+809fafe1,oe1bu14525-028,5,Real-,Real¬,@3517 Real- -> Real¬,Line-break mark standardised: a word broken at the line end takes ¬ (editor's convention 2026-09-28)
+aa7ec502,oe1bu14525-001,1,Crone¬,Crone,@25 Crone¬ -> Crone,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+0458479a,oe1bu14525-001,2,Ritter¬,Ritter,@44 Ritter¬ -> Ritter,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+928641ca,oe1bu14525-002,3,Durchlaucht¬,Durchlaucht,@243 Durchlaucht¬ -> Durchlaucht,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+bccaed30,oe1bu14525-003,1,Preußen¬,Preußen,@275 Preußen¬ -> Preußen,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+492ba28e,oe1bu14525-004,2,Uns¬,Uns,@400 Uns¬ -> Uns,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+3a1a5e99,oe1bu14525-007,2,Urkund¬,Urkund,@697 Urkund¬ -> Urkund,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+4381498d,oe1bu14525-010,2,nach¬,nach,@1136 nach¬ -> nach,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+eed51918,oe1bu14525-012,1,Gut¬,Gut,@1268 Gut¬ -> Gut,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+b2470c9b,oe1bu14525-012,1,des¬,des,@1290 des¬ -> des,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+f298a5d1,oe1bu14525-013,3,Grolewo¬,Grolewo,@1448 Grolewo¬ -> Grolewo,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+54f012a1,oe1bu14525-014,3,Kolno¬,Kolno,@1733 Kolno¬ -> Kolno,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+40f3c6ce,oe1bu14525-014,4,Holtz¬,Holtz,@1746 Holtz¬ -> Holtz,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+55de8410,oe1bu14525-017,2,Se¬,Se,@2002 Se¬ -> Se,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+73460a4f,oe1bu14525-018,3,Heydemühle¬,Heydemühle,@2215 Heydemühle¬ -> Heydemühle,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+ddea37f6,oe1bu14525-022,2,Głażewo¬,Głażewo,@2704 Głażewo¬ -> Głażewo,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+bbab56b0,oe1bu14525-022,5,besitz¬,besitz,@2794 besitz¬ -> besitz,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+0859e180,oe1bu14525-022,7,Christi¬,Christi,@2831 Christi¬ -> Christi,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+94bb5c13,oe1bu14525-023,5,hervor¬,hervor,@3062 hervor¬ -> hervor,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+29d37ea6,oe1bu14525-036,1,König¬,König,@3719 König¬ -> König,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+deeb7bfe,oe1bu14525-010,2,Rechts¬,Rechts,@1118 Rechts¬ -> Rechts,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+cbfbffbb,oe1bu14525-014,5,des¬,des,@1784 des¬ -> des,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+80213c75,oe1bu14525-033,1,sollte¬,sollte,@3651 sollte¬ -> sollte,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed)"
+329628d4,oe1bu14525-002,1,Landes¬,Landes,@208 Landes¬ -> Landes,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+459c0b85,oe1bu14525-007,5,Verleihungs¬,Verleihungs,@769 Verleihungs¬ -> Verleihungs,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+17d7c417,oe1bu14525-007,8,Real¬,Real,@850 Real¬ -> Real,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+4cff3dea,oe1bu14525-010,2,Ober¬,Ober,@1131 Ober¬ -> Ober,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+e1b1bb4d,oe1bu14525-012,4,Pfand¬,Pfand,@1370 Pfand¬ -> Pfand,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+83e9dcaf,oe1bu14525-021,4,General¬,General,@2535 General¬ -> General,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+5080307c,oe1bu14525-026,1,Ober¬,Ober,@3374 Ober¬ -> Ober,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+370b5412,oe1bu14525-032,1,Ober¬,Ober,@3640 Ober¬ -> Ober,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+058d9c33,oe1bu14525-035,1,Cammer¬,Cammer,@3711 Cammer¬ -> Cammer,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+ad58d730,oe1bu14525-039,2,Cammer¬,Cammer,@3830 Cammer¬ -> Cammer,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+51d503bc,oe1bu14525-040,2,Real¬,Real,@3893 Real¬ -> Real,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+e99b9941,oe1bu14525-040,3,Domanien¬,Domanien,@3939 Domanien¬ -> Domanien,Line-end mark: a compound written as two words; no mark needed (as ruled for 9454)
+8b4b0fd8,oe1bu14525-021,2,Bau¬,Bau-,@2470 Bau¬ -> Bau-,"Line-end mark: Bau- und Brennholtzes, a real hyphen (compound ellipsis)"
+27034bc5,oe1bu14525-041,2,wer¬,wer[den],@3987 wer¬ -> wer[den],"Lost ending: the transcription stops mid-word before a new word; the sentence needs exactly this word, ending supplied in brackets, ¬ removed (vollendet werden können)"
+c069e051,oe1bu14525-041,2,de¬,de[m],@3991 de¬ -> de[m],"Lost ending: the transcription stops mid-word before a new word; the sentence needs exactly this word, ending supplied in brackets, ¬ removed (Veranlassung zu dem Mißverstande)"
+a8ced35a,oe1bu14525-003,1,Che¬,Che[f],@288 Che¬ -> Che[f],"Lost ending: the transcription stops mid-word before a new word; the sentence needs exactly this word, ending supplied in brackets, ¬ removed (Chef eines Regiments)"
+62d757b3,oe1bu14525-003,1,ger¬,ger[aumen],@290 ger¬ -> ger[aumen],"Lost ending: the transcription stops mid-word before a new word; the sentence needs exactly this word, ending supplied in brackets, ¬ removed (seit geraumen Jahren (the grant formula, as in letter 1))"
+eb754e6a,oe1bu14525-010,1,Kö¬,Kö[niglicher],@1111 Kö¬ -> Kö[niglicher],"Lost ending: the transcription stops mid-word before a new word; the sentence needs exactly this word, ending supplied in brackets, ¬ removed (aus Königlicher Macht und Vollkommenheit)"
+d45667b8,oe1bu14525-025,3,Capi¬,Capi[tals],@3300 Capi¬ -> Capi[tals],"Lost ending: the transcription stops mid-word before a new word; the sentence needs exactly this word, ending supplied in brackets, ¬ removed (wegen des Capitals, der Zinsen)"
+b3cf2848,oe1bu14525-010,2,un¬,und,@1128 un¬ -> und,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed); un misread for und (die Macht und Befugniß)"
+4d3449de,oe1bu14525-022,6,das¬,daß,@2813 das¬ -> daß,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed); das misread for daß (noch daß solches von andern geschehe)"
+f113071e,oe1bu14525-010,1,Verleihe¬,Verleihung,@1091 Verleihe¬ -> Verleihung,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed); Verleihe misread for Verleihung"
+7c1405c7,oe1bu14525-016,2,alli¬,allen,@1911 alli¬ -> allen,"Line-end mark: stray ¬ between two whole words, removed (the transcriber sometimes set ¬ where nothing was needed); alli misread for allen (mit allen ihren Appertinencien)"
+62db1fbe,oe1bu14525-010,2,ve¬,ver¬,@1137 ve¬ -> ver¬,Split word: one half misread; the joined word is the only reading (vererben)
+88ebe951,oe1bu14525-021,8,zym,czym,@2641 zym -> czym,"Split word: one half misread; the joined word is the only reading (w niczym nie odmienił, Polish)"
+77a82ccf,oe1bu14525-022,2,ſorungen,hörungen,@2709 ſorungen -> hörungen,Split word: one half misread; the joined word is the only reading (Zubehörungen)
+cc2d3f34,oe1bu14525-022,9,Einschränkung¬,Einschrän¬,@2884 Einschränkung¬ -> Einschrän¬,Split word: one half misread; the joined word is the only reading (Einschränkungen)
+0d502f95,oe1bu14525-022,9,gen,kungen,@2885 gen -> kungen,Split word: one half misread; the joined word is the only reading (Einschränkungen)
+8ab11c37,oe1bu14525-025,2,beig¬,beige¬,@3264 beig¬ -> beige¬,Split word: one half misread; the joined word is the only reading (beigebrachten)
+0475b3cb,oe1bu14525-025,4,Christ¬,Christi¬,@3308 Christ¬ -> Christi¬,Split word: one half misread; the joined word is the only reading (Christiane Dorothea Michaelis)
+b05b3b64,oe1bu14525-025,4,V er¬,Ver¬,@3328 V er¬ -> Ver¬,Split word: one half misread; the joined word is the only reading (Besitz Veränderung)
+ff76eed6,oe1bu14525-041,1,Beschle¬,Beschleu¬,@3960 Beschle¬ -> Beschleu¬,Split word: one half misread; the joined word is the only reading (Beschleunigung)
+ff0e83fd,oe1bu14525-002,3,Ingrostator,Ingrossator,@266 Ingrostator -> Ingrossator,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+0c5bf468,oe1bu14525-003,2,Hohenlot,Hohenlohe,@329 Hohenlot -> Hohenlohe,"Nonword sweep: name or place, the unit's standard spelling"
+78ad3837,oe1bu14525-003,3,Cujawien,Cujavien,@356 Cujawien -> Cujavien,"Nonword sweep: name or place, the unit's standard spelling"
+8b0e55be,oe1bu14525-005,1,Zagorów,Zagórów,@487 Zagorów -> Zagórów,"Nonword sweep: name or place, the unit's standard spelling"
+ce65ef9e,oe1bu14525-017,2,Grądzyn,Grądzyń,@2009 Grądzyn -> Grądzyń,"Nonword sweep: name or place, the unit's standard spelling"
+e5d031db,oe1bu14525-010,1,Nachkommn,Nachkommen,@1112 Nachkommn -> Nachkommen,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+9c820ac5,oe1bu14525-010,2,unverschräktes,unverschränktes,@1126 unverschräktes -> unverschränktes,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+04372d86,oe1bu14525-013,2,Mescritz,Meseritz,@1430 Mescritz -> Meseritz,"Nonword sweep: name or place, the unit's standard spelling"
+6e49aa71,oe1bu14525-014,1,dismembrit,dismembrirt,@1679 dismembrit -> dismembrirt,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+90e5c2a8,oe1bu14525-023,5,Hypothéquen,Hypothequen,@3075 Hypothéquen -> Hypothequen,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+95d42417,oe1bu14525-025,2,numehro,nunmehro,@3268 numehro -> nunmehro,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+6464dfea,oe1bu14525-041,1,Johanniy,Johannis,@3970 Johanniy -> Johannis,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+fb6513c9,oe1bu14525-043,1,Liebde,Liebden,@4107 Liebde -> Liebden,Nonword sweep: not a word (DWDS); a slip for a form the letters use
+2eb1c531,oe1bu14525-033,1,E. K. M.,E[wr]. K[önigliche]. M[ajestät].,@3663 E. K. M. -> E[wr]. K[önigliche]. M[ajestät].,Title abbreviation expanded in brackets (editor's request 2026-09-28)
+c5e6db24,oe1bu14525-033,1,E. M.,E[wr]. M[ajestät].,@3666 E. M. -> E[wr]. M[ajestät].,Title abbreviation expanded in brackets (editor's request 2026-09-28)
+2c8181b9,oe1bu14525-033,1,K. Reg:,K[önigl]. Reg[ierung]:,@3648 K. Reg: -> K[önigl]. Reg[ierung]:,Title abbreviation expanded in brackets (editor's request 2026-09-28)

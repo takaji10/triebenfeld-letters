@@ -34,17 +34,17 @@
 2,257,break,held,short_line,0.41,8,20,Reg Rath,Hypothequen-Schein
 2,259,run,held,short_line,0.15,3,20,Für,seiner Durchlaucht des regierenden Fürsten
 2,264,run,held,short_line,0.41,8,20,Schlegel,Canzley Director
-2,266,run,held,short_line+column,0.21,4,20,Beda,Ingrostator
-2,267,break,high,rubric+short_line,0.56,11,20,Ingrostator,H. Schein 2 rt. 2 gg.
+2,266,break,high,short_line+column,0.21,4,20,Beda,Ingrossator
+2,267,break,high,rubric+short_line,0.56,11,20,Ingrossator,H. Schein 2 rt. 2 gg.
 2,269,break,held,short_line+column,0.67,13,20,Stempel 6. gg,Moz 2 gg.
 2,270,break,high,short_line,0.46,9,20,Moz 2 gg.,Bl 3 gg.
 2,271,break,high,short_line,0.41,8,20,Bl 3 gg.,*archiv 1 rt
-3,275,run,held,short_line,0.46,22,48,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen¬
+3,275,run,review,short_line,0.46,22,48,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen
 3,325,break,high,short_line,0.57,30,53,"niren, männiglich ungehindert.",Wier befehlen und gebieten demnach Unsern sämtlichen
 3,346,break,high,short_line+column,0.49,18,37,Friedrich Willhelm,"Schenkungs-Urkunde,"
 3,347,run,held,short_line+column,0.51,19,37,"Schenkungs-Urkunde,",für den
 3,348,run,held,short_line,0.19,7,37,für den,"Regierenden Fürsten Hohenlohe, Ingel¬"
-3,357,break,high,short_line,0.54,20,37,Zubehör in Cujawien.,Die gleichlautende Uebereinstimmung vorstehender A
+3,357,break,high,short_line,0.54,20,37,Zubehör in Cujavien.,Die gleichlautende Uebereinstimmung vorstehender A
 3,363,run,held,short_line+column,0.19,7,37,Richter,Gouvernements Audit[or?]
 4,368,break,high,short_line,0.49,22,45,König zu Preussen. pp.,"Urkunden, und erklären vermittelst dieses Unsers"
 4,399,break,high,short_line,0.31,14,45,zu übereignen.,"Wir thun auch solches hiermit, und in Kraft dieses"
@@ -108,7 +108,7 @@
 7,831,run,held,short_line+column,0.1,4,40,Guth,Swięcia wozu das Vorwerk
 7,843,break,high,rubric+short_line,0.57,23,40,darauf sind eingetragen,"I, Onera perpetua Einschränkungen des"
 7,845,break,high,rubric,0.79,32,40,Eigenthums oder der Disposition.,"1., Vermöge Verordnung vom Jahr 1796 und"
-7,850,break,high,rubric,1.31,53,40,vom 31t: July 1801 ex officio allhier vermerkt worden,II. Gerichtlich versicherte Schulden und andere Real¬
+7,850,break,high,rubric,1.31,53,40,vom 31t: July 1801 ex officio allhier vermerkt worden,II. Gerichtlich versicherte Schulden und andere Real
 7,852,break,high,short_line,0.44,18,40,Verbindlichkeiten.,Nichts.
 7,853,break,high,short_line,0.17,7,40,Nichts.,Außer vorstehender Einschränkung ist auf dem
 7,867,break,high,short_line+column,0.33,7,21,(L. S.),Danckelmann
@@ -146,10 +146,10 @@
 9,1076,break,high,short_line,0.27,11,41,Hoym. Reck.,Daß vorstehende Abschrift mit dem Original voll¬
 9,1081,run,held,short_line+column,0.44,18,41,Sonnabend Auditeur,des Fürst Hohenlohschen
 9,1082,run,held,short_line+column,0.56,23,41,des Fürst Hohenlohschen,Infant. Regiments.
-10,1105,break,high,rubric,0.88,50,57,"mögen Nahmen haben wie sie wollen, gegen Erlegung.",1) der bisher davon entrichteten Landesherrl. Abgaben
-10,1107,break,high,rubric,0.84,48,57,"als eines bestimmten und unabänderl. Canons, und",2) der den Geistl. Corporationen oder Stiftungen daraus
-10,1109,run,held,short_line,0.39,22,57,"gebührenden Competenz,","Erb- und Eigenthümlich zu überlaßen, zu verleihen und zu"
-10,1111,break,high,short_line,0.19,11,57,übereignen.,Wir thun auch solches hiermit und in Kraft dieses aus Kö¬
+10,1105,break,high,rubric,0.86,50,58,"mögen Nahmen haben wie sie wollen, gegen Erlegung.",1) der bisher davon entrichteten Landesherrl. Abgaben
+10,1107,break,high,rubric,0.83,48,58,"als eines bestimmten und unabänderl. Canons, und",2) der den Geistl. Corporationen oder Stiftungen daraus
+10,1109,run,held,short_line,0.38,22,58,"gebührenden Competenz,","Erb- und Eigenthümlich zu überlaßen, zu verleihen und zu"
+10,1111,break,high,short_line,0.19,11,58,übereignen.,Wir thun auch solches hiermit und in Kraft dieses aus Kö[niglicher]
 10,1148,break,high,short_line,0.22,8,36,Ahndung.,"des zur Urkunde pp. gegeben Berlin, den 19. Juni, 1797."
 10,1150,break,high,short_line+column,0.47,17,36,Friedrich Wilhelm,Verleihungs Urkunde
 10,1151,run,held,short_line,0.53,19,36,Verleihungs Urkunde,für den Reg. Fürsten zu Hohenlohe Ingelfingen
@@ -174,9 +174,9 @@
 11,1263,break,high,short_line,0.64,29,46,Geheimes - Südpreußl. Archiv.,Beugnitz
 12,1270,run,held,short_line,0.14,5,36,Kolno,aus der Stadt Kamionna oder
 12,1272,run,held,short_line+column,0.28,10,36,Kaemen und,dem Marktflecken Kolno
-12,1273,run,held,short_line+column,0.61,22,36,dem Marktflecken Kolno,oder Kulm
+12,1273,run,held,short_line+column,0.62,22,36,dem Marktflecken Kolno,oder Kulm
 12,1274,run,held,short_line,0.25,9,36,oder Kulm,"bestehend, hat der regierende Fürst, Herr"
-12,1287,run,held,rubric,0.89,32,36,Wilhelm des zweiten Majestät vom,9. August 1796. erb und eigenthümlich
+12,1287,run,held,rubric,0.9,32,36,Wilhelm des zweiten Majestät vom,9. August 1796. erb und eigenthümlich
 12,1302,break,high,short_line,0.61,23,38,und eingetragen worden.,Darauf sind eingetragen
 12,1303,break,high,rubric+short_line,0.61,23,38,Darauf sind eingetragen,I. Onera perpetua und Einschränkungen
 12,1305,break,high,rubric,0.92,35,38,des Eigenthums oder der Disposition,"1.) Eine Protestation, welche für den Anton von Broniewski,"
@@ -242,7 +242,7 @@
 17,2174,run,held,short_line+column,0.1,4,40,John,Ingrossator
 18,2203,run,held,short_line,0.04,1,24,d,J. bereits verliehenen
 18,2208,break,high,rubric+short_line,0.33,8,24,nehmlich,"1.) zu Betschen, die Ort¬"
-18,2216,break,high,rubric,0.58,15,26,und Heydemühle¬,2.) zu Zagórów das Dörfchen
+18,2216,break,high,rubric+short_line,0.54,14,26,und Heydemühle,2.) zu Zagórów das Dörfchen
 18,2218,break,high,rubric,0.77,20,26,"Swięcin, und endlich","3. bey Wienietz, Konty, Szedle¬"
 18,2221,break,high,rubric+short_line,0.54,14,26,gegen Erlegung,1.) der von gedachten Ort¬
 18,2228,break,high,rubric+short_line,0.35,9,26,"nons, und",2.) der den geistlichen Corpo¬
@@ -312,7 +312,7 @@
 22,2868,run,held,short_line+column,0.58,14,24,belegene Stadt,Zagórów
 22,2869,run,held,short_line,0.29,7,24,Zagórów,hat der regierende Fürst
 22,2883,break,high,short_line,0.61,14,23,tragen worden.,Darauf sind eingetragen
-22,2884,break,high,rubric,1.0,23,23,Darauf sind eingetragen,I. onera perpetua Einschränkung¬
+22,2884,break,high,rubric,1.0,23,23,Darauf sind eingetragen,I. onera perpetua Einschrän¬
 22,2887,break,high,rubric+short_line,0.65,15,23,der Disposition,"1., Vermöge Verordnung vom"
 22,2894,run,held,short_line,0.7,16,23,verkaufet werden,welches ex decreto vom
 22,2895,run,held,rubric,0.96,22,23,welches ex decreto vom,31. July 1801 ex officio al¬
@@ -483,13 +483,13 @@
 31,3624,break,high,rubric+short_line,0.27,11,42,Ingelfingen,H. A. R. Lucas
 31,3626,break,high,short_line+column,0.19,8,42,Schleyer,No. 3459
 32,3639,break,high,short_line+column,0.17,7,41,Schultz,An
-32,3640,run,held,short_line+column,0.05,2,41,An,Eine Königl. Hochlöbl. Ober¬
+32,3640,run,review,short_line+column,0.05,2,41,An,Eine Königl. Hochlöbl. Ober
 32,3642,run,held,short_line+column,0.34,14,41,Amts Regierung,zu Breslau.
 33,3646,break,high,short_line,0.53,31,58,An die Königl. Kammer zu Posen.,Allerdurchl.
 33,3647,break,high,short_line,0.21,12,58,Allerdurchl.,Es sind schon Unterm xxx ten xxx vorigen Jahres hat schon eine
-33,3663,break,high,rubric,0.91,53,58,und Betschen zu bitten. Breslau den 10ten Febr. 1802.,E. K. M.
+33,3664,break,high,short_line,0.55,32,58,E[wr]. K[önigliche]. M[ajestät].,Glenk
 33,3665,break,held,short_line+column,0.09,5,58,Glenk,An die Regierung.
-33,3666,break,high,short_line,0.29,17,58,An die Regierung.,Unterm xxx te xxx v. J. haben E. M. laut der anbeyfolgenden
+33,3666,break,high,short_line,0.29,17,58,An die Regierung.,Unterm xxx te xxx v. J. haben E[wr]. M[ajestät]. laut der anbeyfolgend
 34,3693,break,high,short_line,0.54,28,52,Königl. Südpreuß. Regierung.,Götz.
 34,3694,break,high,short_line,0.1,5,52,Götz.,An
 34,3695,run,held,short_line+column,0.04,2,52,An,den Fürstl. Hohenlohschen Bau und
@@ -536,7 +536,7 @@
 41,3953,break,high,short_line,0.23,14,61,Gnädiger Herr!,"Es ist mir außerordentlich lieb, daß Eure Durchlaucht mich durch"
 41,3957,break,held,short_line,0.21,13,61,geruhet haben,"Blosse Mißverstand liegt zum Grunde, wenn dieselben"
 41,3971,run,held,rubric,1.0,61,61,Euer Durchlaucht können Sich daher auch und zwar von Johanni,"d. J. an, lediglich, alles alleiniger Herr, und Eigenthümer seine"
-41,4002,run,held,short_line,0.02,1,60,B,nung des Fisci bewirthschaften könnten. Verschiedene dieser
+41,4002,run,held,short_line,0.02,1,61,B,nung des Fisci bewirthschaften könnten. Verschiedene dieser
 41,4047,break,high,short_line,0.57,34,60,"zu legen, in welcher ich ersterbe.",Euer Durchlaucht
 41,4048,break,held,short_line+column,0.27,16,60,Euer Durchlaucht,Breslau den 3ten Octobr.
 41,4049,break,high,short_line,0.4,24,60,Breslau den 3ten Octobr.,1797.

@@ -188,3 +188,9 @@ left as found because neither the text nor the editor could settle them -
 0117_a2 line 12, 0125_a1 line 23, 0155_a1 line 5 and 0167_a1 line 7.
 - Letter 23 (corpus line 7988): Prusimsky → Prusimski, the editor's standard spelling (2026-09-28).
 - Letter 9: Niedzwiedzki / Niedzwidzki / Niedzwiecki standardised to Niedźwiecki (editor 2026-09-28); he signs Maciey Niedzwiecki.
+
+## Sweeps carried over from 9454 (2026-09-28)
+
+- **Line-end marks.** 15 words broken with - / ‗ / = now take ¬ (Vollzie¬hung, zweyhun¬dert fixed; unverbrüch[lich] supplied). Of 234 ¬ the resolver did not join: 124 real breaks held as `join`, 60 of them with a misread half fixed (Kali¬schen, Frie¬drich, im¬merwährende, Ver¬pächter, Sub¬arrende, Ueber¬eilung, Grund¬herrschaft, vor¬gelesen, Weyh¬nachten); 30 stray ¬ removed (un → und / im in two places); 34 compounds written as two words lost the mark (Donations Urkunde, Kauf Contracts, Rechts Ausflüchten); 10 compound ellipses keep a real hyphen (Vieh- und, Bräu- und, Geld- und); 3 lost endings supplied (verbund[en], wur[de], neh[mlich]). Left as written: dener¬ / Bau¬fer (letter 2), ver¬ganziger (2), Tan¬ (5), Grundherr¬ um (8), Ab¬heiten (11), wur¬nem, mus¬güthen (14), er¬derst, Annehmer¬re (16), verkennen¬ der (17), Schales¬tro, veräußer¬nen (19), besonder¬ gut (20), sola¬sten (23).
+- **Nonwords.** 68 fixes after the DWDS pass (Bäufer, Fäufern, Erbfacht, Athaler, Wollmacht, Vergicht, Banquieur, dismembiren, Hypothoquen, Maierowitz, Witttow ...). Latin and the Polish letter 30 left.
+- **Watch-list.** nach Johann → Johanni (letter 2), Dürchlauch → Durchlaucht, fehni¬de → stehen¬de, auf de[n]. Nothing else found.
