@@ -1,6 +1,6 @@
 {
  "letter_id": "167",
- "seq_archival": 178,
+ "seq_archival": 179,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-167",
@@ -20,8 +20,8 @@
  "place": "Öhringen",
  "sender": "Hahn",
  "recipient": "von Triebenfeld",
- "line_start": 11796,
- "line_end": 11824,
+ "line_start": 11798,
+ "line_end": 11826,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0314_b",
-   "line_start": 11798,
-   "line_end": 11812,
+   "line_start": 11800,
+   "line_end": 11814,
    "n_lines": 15,
    "diplomatic": "167\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Raths\nIn dem Augenblicke, wo Sr Durchlaucht der\nFürst mit dem alten Herrn in die Kirche\nfahren befehlen Sie mir nach Euer Hochwohl¬\ngebohren, unter Höchst Ihrer Empfehlung\nanliegenden Brief zu senden. Höchstdiesel¬\nben würden gerne selbst geschrieben, ha¬\nben, wenn nicht schon in einer Stunde die\nOrdonanz abgiengen.\nder alte Fürst befinden sich für Ihr Alten\nsehr wohl, und zeigen ausnehmend vieles\nAttachement für meinen gnädigsten\nHerren. Ich wünsche vom Herzen, daß Euer",
    "transcription": "167\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Raths\nIn dem Augenblicke, wo Sr Durchlaucht der\nFürst mit dem alten Herrn in die Kirche\nfahren befehlen Sie mir nach Euer Hochwohl-\ngebohren, unter Höchst Ihrer Empfehlung\nanliegenden Brief zu senden. Höchstdiesel-\nben würden gerne selbst geschrieben, ha-\nben, wenn nicht schon in einer Stunde die\nOrdonanz abgiengen.\nder alte Fürst befinden sich für Ihr Alten\nsehr wohl, und zeigen ausnehmend vieles\nAttachement für meinen gnädigsten\nHerren. Ich wünsche vom Herzen, daß Euer",
@@ -58,8 +58,8 @@
   {
    "page": 2,
    "page_id": "0315_a1",
-   "line_start": 11814,
-   "line_end": 11824,
+   "line_start": 11816,
+   "line_end": 11826,
    "n_lines": 11,
    "diplomatic": "Hochwohlgebohren sich recht wohl befinden\nmögten, empfehle mich zu fernern\nGewogenheit und habe die Ehre in voll¬\nkommenster Verehrung zu beharren:\nEuer Hochwohlgebohren,\nÖhringen den 7ten Juli\n1805.\nunterthäniger Diener\nA: Hahn\ndie Rükkunft nach Breslau\nist ohnfehlbar d 25ten bestimmt!",
    "transcription": "Hochwohlgebohren sich recht wohl befinden\nmögten, empfehle mich zu fernern\nGewogenheit und habe die Ehre in voll-\nkommenster Verehrung zu beharren:\nEuer Hochwohlgebohren,\nÖhringen den 7ten Juli\n1805.\nunterthäniger Diener\nA: Hahn\ndie Rükkunft nach Breslau\nist ohnfehlbar d 25ten bestimmt!",
@@ -87,7 +87,7 @@
    "page": 2,
    "page_id": "0315_a1",
    "scan": "Oe_1_Bu_9454_0315_a1-L167_02.jpg",
-   "line": 11819,
+   "line": 11821,
    "doc_line": 21
   },
   {
@@ -98,7 +98,7 @@
    "page": 2,
    "page_id": "0315_a1",
    "scan": "Oe_1_Bu_9454_0315_a1-L167_02.jpg",
-   "line": 11823,
+   "line": 11825,
    "doc_line": 25
   }
  ],

@@ -1,6 +1,6 @@
 {
  "letter_id": "303",
- "seq_archival": 314,
+ "seq_archival": 318,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-303",
@@ -20,8 +20,8 @@
  "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 21423,
- "line_end": 21578,
+ "line_start": 21431,
+ "line_end": 21586,
  "uncertainty_count": 2,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0542_a",
-   "line_start": 21425,
-   "line_end": 21442,
+   "line_start": 21433,
+   "line_end": 21450,
    "n_lines": 18,
    "diplomatic": ",Auszug aus Den Fürstlich Hohenloheschen Liquidations Protocollen,Gold,,,Courant,,\n,Kapital Forderungen,Rthl,g,d,Rthl,g,d\n1,Der ehemalige Küchenmeister Kuch,100,,,\"5,050\",,\n2,Geheimetzath Strahlen zu Wallerstein,,,,\"2,666\",16,\n3,die v Sobottendorffischen Erben.,,,,\"44,200\",,\n4,die Fr. Gräfen Hoym geb. v Tauenzien,,,,\"5,000\",,\n5,Der H. v. Feannert[?],,,,200,,\n6,Der H. v. Czarnetzki,,,,400,,\n7,Der Sattler Gleisberger zu Potsdam,,,,64,,\n8,Der H. v. Bornstädt,,,,\"5,000\",,\n9,Der schlossen Rass,,,,\"2,370\",,\n10,Der Tischler Schick,,,,\"3,400\",,\n11,Der H. v. Kluge,,,,\"3,000\",,\n12,Der Franz Apfelfeld in Ujest,,,,310,,\n13,Der ehm: Tafeldesker Deuser,,,,200,,\n14,Der Oberförster Krippendorff,,,,\"3,700\",,\n15,Der p. Jung zu Benshausen,\"3,635\",,,,,\n16,Der p. Lombardini +,,,,,,",
    "transcription": ",Auszug aus Den Fürstlich Hohenloheschen Liquidations Protocollen,Gold,,,Courant,,\n,Kapital Forderungen,Rthl,g,d,Rthl,g,d\n1,Der ehemalige Küchenmeister Kuch,100,,,\"5,050\",,\n2,Geheimetzath Strahlen zu Wallerstein,,,,\"2,666\",16,\n3,die v Sobottendorffischen Erben.,,,,\"44,200\",,\n4,die Fr. Gräfen Hoym geb. v Tauenzien,,,,\"5,000\",,\n5,Der H. v. Feannert[?],,,,200,,\n6,Der H. v. Czarnetzki,,,,400,,\n7,Der Sattler Gleisberger zu Potsdam,,,,64,,\n8,Der H. v. Bornstädt,,,,\"5,000\",,\n9,Der schlossen Rass,,,,\"2,370\",,\n10,Der Tischler Schick,,,,\"3,400\",,\n11,Der H. v. Kluge,,,,\"3,000\",,\n12,Der Franz Apfelfeld in Ujest,,,,310,,\n13,Der ehm: Tafeldesker Deuser,,,,200,,\n14,Der Oberförster Krippendorff,,,,\"3,700\",,\n15,Der p. Jung zu Benshausen,\"3,635\",,,,,\n16,Der p. Lombardini +,,,,,,",
@@ -56,8 +56,8 @@
   {
    "page": 2,
    "page_id": "0543_a1",
-   "line_start": 21444,
-   "line_end": 21462,
+   "line_start": 21452,
+   "line_end": 21470,
    "n_lines": 19,
    "diplomatic": "17,Die Judin Golde in Breslau,,,,\"6,000\",,\n18,der Herrenmirth Köber in Ansbach,,,,319,12,\n19,Fr. Bergräthin Bernhardi in Breslau,,,,,,\n20,Erben des Label Joseph Levin,,,,\"13,275\",,\n21,Grafen von Lichtenau,250,,,,,\n22,Fr. Charlotte von Triebenfeld,,,,\"112,000\",,\n23,Hoffrath Hahn,,,,,,\n24,Wirthschafterin Hoffmann,,,,,,\n25,Fraube & Schlesinger in Ujest.,,,,\"2,978\",18,\n26,Goldstücker,,,,\"170,000\",,\n27,Helempner Schweizhoffers Wittwe,,,,90,,\n28,Joh. Eleon: Pedell in Carlsruhe,,,,\"4,000\",,\n29,H Graf v. Pückler,,,,,,\n30,Fleischer Rilitzer in Schlawenschitz,,,,\"1,188\",13,\n31,H von Delitz,,,,300,,\n32,Mendels Wittwe in Frankfurt a.m.,,,,483,12,\n33,Burghards Wittwe in Erfurt,,,,,,\n34,Chirurgus Sternitzky,,,,222,21,6\n35,Dorrs Wittwe in Griesbach.,,,,342,20,",
    "transcription": "17,Die Judin Golde in Breslau,,,,\"6,000\",,\n18,der Herrenmirth Köber in Ansbach,,,,319,12,\n19,Fr. Bergräthin Bernhardi in Breslau,,,,,,\n20,Erben des Label Joseph Levin,,,,\"13,275\",,\n21,Grafen von Lichtenau,250,,,,,\n22,Fr. Charlotte von Triebenfeld,,,,\"112,000\",,\n23,Hoffrath Hahn,,,,,,\n24,Wirthschafterin Hoffmann,,,,,,\n25,Fraube & Schlesinger in Ujest.,,,,\"2,978\",18,\n26,Goldstücker,,,,\"170,000\",,\n27,Helempner Schweizhoffers Wittwe,,,,90,,\n28,Joh. Eleon: Pedell in Carlsruhe,,,,\"4,000\",,\n29,H Graf v. Pückler,,,,,,\n30,Fleischer Rilitzer in Schlawenschitz,,,,\"1,188\",13,\n31,H von Delitz,,,,300,,\n32,Mendels Wittwe in Frankfurt a.m.,,,,483,12,\n33,Burghards Wittwe in Erfurt,,,,,,\n34,Chirurgus Sternitzky,,,,222,21,6\n35,Dorrs Wittwe in Griesbach.,,,,342,20,",
@@ -74,8 +74,8 @@
   {
    "page": 3,
    "page_id": "0543_a2",
-   "line_start": 21464,
-   "line_end": 21482,
+   "line_start": 21472,
+   "line_end": 21490,
    "n_lines": 19,
    "diplomatic": "36,Der ehemaliger Kammerdiener Günther,,,,\"1,342\",,\n37,Pfarrer in Schlawenschitz,,,,300,,\n38,Schoen in Jacobswalde,,,,800,,\n39,Lieutenant Ludwig in Breslau,,,,\"11,200\",,\n40,Förster Palemba Wittwe,,,,\"1,114\",6,10\n41,Maxiliano von Holly in Munster,,,,300,,\n42,Kaufmann Giesche in Breslau,,,,850,,\n43,Kaufmann Focke,\"10,000\",,,,,\n44,Abraham Hirsch Schweizer,,,,400,,\n45,Coffetur Krause in Scheitnich,,,,142,18,11\n46,Oberamtmann Koenig,,,,\"3,000\",,\n47,Barter Gluttmann,,,,\"2,103\",13,9\n48,Fleischer Schumann,,,,\"8,966\",4,11\n49,Werner & Comp,,,,\"1,983\",,\n50,Loebel Fraenkel,,,,\"4,000\",,\n51,Oberamtmann Koehler,,,,\"1,327\",2,\n52,Freihabers Minorenne,,,,\"1,222\",20,11\n53,Hofagent E Heimann,,,,\"8,000\",,\n54,H Carl v Stoessel,,,,\"191,000\",,",
    "transcription": "36,Der ehemaliger Kammerdiener Günther,,,,\"1,342\",,\n37,Pfarrer in Schlawenschitz,,,,300,,\n38,Schoen in Jacobswalde,,,,800,,\n39,Lieutenant Ludwig in Breslau,,,,\"11,200\",,\n40,Förster Palemba Wittwe,,,,\"1,114\",6,10\n41,Maxiliano von Holly in Munster,,,,300,,\n42,Kaufmann Giesche in Breslau,,,,850,,\n43,Kaufmann Focke,\"10,000\",,,,,\n44,Abraham Hirsch Schweizer,,,,400,,\n45,Coffetur Krause in Scheitnich,,,,142,18,11\n46,Oberamtmann Koenig,,,,\"3,000\",,\n47,Barter Gluttmann,,,,\"2,103\",13,9\n48,Fleischer Schumann,,,,\"8,966\",4,11\n49,Werner & Comp,,,,\"1,983\",,\n50,Loebel Fraenkel,,,,\"4,000\",,\n51,Oberamtmann Koehler,,,,\"1,327\",2,\n52,Freihabers Minorenne,,,,\"1,222\",20,11\n53,Hofagent E Heimann,,,,\"8,000\",,\n54,H Carl v Stoessel,,,,\"191,000\",,",
@@ -92,8 +92,8 @@
   {
    "page": 4,
    "page_id": "0544_a1",
-   "line_start": 21484,
-   "line_end": 21500,
+   "line_start": 21492,
+   "line_end": 21508,
    "n_lines": 17,
    "diplomatic": "55,Hr. Sigismund v Stoessel,,,,100,,\n56,K. S. Mützel,,,,650,,\n57,Major v. Sak,,,,500,,\n58,v. Zerboni,,,,\"1,000\",,\n59,Lieutenant Gas,,,,500,,\n60,Infiz. Franz. Meyer,,,,,,\n61,der Wittwe Brosemann,,,,300,,\n62,dem J. K[?]. R. Brasfert,,,,,,\n63,den Kaufmann Schmidts Erben.,,,,\"15,500\",,\n64,der p Über,,,,449,,\n65,Major von Münchow,,,,600,,\n66,Der verwitt. Fr. Oberst. Brehmer.,,,,\"5,000\",,\n67,der Gärtner Nickel,,,,341,19,\n68,den Tagezier Elsnerschen Erben,,,,834,10,\n69,den Sattler Hennig,,,,671,20,6\n70,dem Sigesm. p. Stoesselschen Curator,,,,\"169,400\",,\n71,J[ustiz]. C[ommissarius]. Panz für Zerboni,,,,\"4,974\",,",
    "transcription": "55,Hr. Sigismund v Stoessel,,,,100,,\n56,K. S. Mützel,,,,650,,\n57,Major v. Sak,,,,500,,\n58,v. Zerboni,,,,\"1,000\",,\n59,Lieutenant Gas,,,,500,,\n60,Infiz. Franz. Meyer,,,,,,\n61,der Wittwe Brosemann,,,,300,,\n62,dem J. K[?]. R. Brasfert,,,,,,\n63,den Kaufmann Schmidts Erben.,,,,\"15,500\",,\n64,der p Über,,,,449,,\n65,Major von Münchow,,,,600,,\n66,Der verwitt. Fr. Oberst. Brehmer.,,,,\"5,000\",,\n67,der Gärtner Nickel,,,,341,19,\n68,den Tagezier Elsnerschen Erben,,,,834,10,\n69,den Sattler Hennig,,,,671,20,6\n70,dem Sigesm. p. Stoesselschen Curator,,,,\"169,400\",,\n71,J[ustiz]. C[ommissarius]. Panz für Zerboni,,,,\"4,974\",,",
@@ -110,8 +110,8 @@
   {
    "page": 5,
    "page_id": "0544_a2",
-   "line_start": 21502,
-   "line_end": 21518,
+   "line_start": 21510,
+   "line_end": 21526,
    "n_lines": 17,
    "diplomatic": "72,Dem Haufmann Schlipalius,,,,\"22,808\",,\n73,Banquier Frank,,,,\"4,079\",11,\n74,Abraham Hirschel,,,,\"5,079\",16,\n75,den Zingerschen Erben.,,,,\"4,000\",,\n76,dem stöpfen Bettner,,,,342,5,7\n77,Den v Köckritzschen Erben,,,,\"50,000\",,\n78,der Gebrüder Gottheimer,,,,\"16,237\",2,6\n79,Meyer Herz Cohn,,,,\"1,200\",,\n80,Valentin Jung in Brenzhausen.,,,,,,\n81,Kaufmauer Lampe sehr Con.e. Masse,,,,\"7,066\",10,6\n82,der Fiscus,,,,\"35,000\",,\n83,Kaufmann Barnheim in Berlin,,,,\"76,791\",,\n84,die Eichterschen Minorennen,,,,864,16,\n85,den J[ustiz]. C[ommissarius]. Müller,,,,10,16,2\n86,J[ustiz]. Com[missarius]. Münezer,75,,,50,,\n87,Kaufmann Weinhold,,,,291,8,\n88,der verw. Kaufmann Adolph,,,,333,8,",
    "transcription": "72,Dem Haufmann Schlipalius,,,,\"22,808\",,\n73,Banquier Frank,,,,\"4,079\",11,\n74,Abraham Hirschel,,,,\"5,079\",16,\n75,den Zingerschen Erben.,,,,\"4,000\",,\n76,dem stöpfen Bettner,,,,342,5,7\n77,Den v Köckritzschen Erben,,,,\"50,000\",,\n78,der Gebrüder Gottheimer,,,,\"16,237\",2,6\n79,Meyer Herz Cohn,,,,\"1,200\",,\n80,Valentin Jung in Brenzhausen.,,,,,,\n81,Kaufmauer Lampe sehr Con.e. Masse,,,,\"7,066\",10,6\n82,der Fiscus,,,,\"35,000\",,\n83,Kaufmann Barnheim in Berlin,,,,\"76,791\",,\n84,die Eichterschen Minorennen,,,,864,16,\n85,den J[ustiz]. C[ommissarius]. Müller,,,,10,16,2\n86,J[ustiz]. Com[missarius]. Münezer,75,,,50,,\n87,Kaufmann Weinhold,,,,291,8,\n88,der verw. Kaufmann Adolph,,,,333,8,",
@@ -128,8 +128,8 @@
   {
    "page": 6,
    "page_id": "0545_a1",
-   "line_start": 21520,
-   "line_end": 21534,
+   "line_start": 21528,
+   "line_end": 21542,
    "n_lines": 15,
    "diplomatic": "89,der Kauf: Gold und Silber Manufactur in Breslau,,,,\"1,188\",7,\n90,Dem J[ustiz]. C[ommissarius]. Dzeieba,,,,593,,\n91,der Mendel Oettingerschen Masse,,,,\"1,800\",,\n92,verw. Stiftkanzler Homuth,,,,\"1,000\",,\n93,Der Fraußmann Fauk,,,,\"1,794\",17,8\n94,Geheimer Rath Strehn,,,,\"2,666\",16,\n95,den Präsident Seidlitzschen Erben,,,,\"30,000\",,\n96,dem Frankner Lazarus Schlesinger in Frankfurt a/M.,,,,\"2,000\",,\n97,Justitiarius Witinsky,,,,764,,\n98,Jude Mattersdorff,,,,600,,\n99,Der v d Brelingschen Handlung in Dresden,,,,\"19,000\",,\n100,Buchhandlung W. G. Korn,,,,\"1,071\",21,3\n101,Kaufmann Bauditz in Frankfurth a/O.,,,,\"6,000\",,\n102,Negotiant Zadik,,,,\"8,250\",,\n103,dem Mr. R. Prubrechtischen Erben.,,,,\"9,400\",,",
    "transcription": "89,der Kauf: Gold und Silber Manufactur in Breslau,,,,\"1,188\",7,\n90,Dem J[ustiz]. C[ommissarius]. Dzeieba,,,,593,,\n91,der Mendel Oettingerschen Masse,,,,\"1,800\",,\n92,verw. Stiftkanzler Homuth,,,,\"1,000\",,\n93,Der Fraußmann Fauk,,,,\"1,794\",17,8\n94,Geheimer Rath Strehn,,,,\"2,666\",16,\n95,den Präsident Seidlitzschen Erben,,,,\"30,000\",,\n96,dem Frankner Lazarus Schlesinger in Frankfurt a/M.,,,,\"2,000\",,\n97,Justitiarius Witinsky,,,,764,,\n98,Jude Mattersdorff,,,,600,,\n99,Der v d Brelingschen Handlung in Dresden,,,,\"19,000\",,\n100,Buchhandlung W. G. Korn,,,,\"1,071\",21,3\n101,Kaufmann Bauditz in Frankfurth a/O.,,,,\"6,000\",,\n102,Negotiant Zadik,,,,\"8,250\",,\n103,dem Mr. R. Prubrechtischen Erben.,,,,\"9,400\",,",
@@ -146,8 +146,8 @@
   {
    "page": 7,
    "page_id": "0545_a2",
-   "line_start": 21536,
-   "line_end": 21550,
+   "line_start": 21544,
+   "line_end": 21558,
    "n_lines": 15,
    "diplomatic": "104,dem Baugnur Meyer Bernhard Frankfurth a/od.,,,,\"12,000\",,\n105,H v Rothkirch,,,,\"10,000\",,\n106,Hertschmer Hein in Breslau,,,,\"165,000\",,\n107,der Ges. Schlabrendorffschen Erben,,,,\"35,000\",,\n108,dem stehender Diet in Brieg,,,,\"1,000\",,\n109,dem stehender Binek,,,,\"4,500\",,\n110,Den v. Zimetzkyschen Erben.,,,,\"12,000\",,\n111,der Dok. Schindlerschen Testarius Executorié,,,,693,8,\n112,Dok. Michaelis in Breslau,,,,\"5,000\",,\n113,Banquier Ottenſoser,.,,,601,9,\n114,Johann Hoffmann.,,,,\"2,000\",,\n115,Baron v Hénneberg,,,,\"1,354\",,\n116,Kaufmann Koppan in Breslau,,,,\"80,000\",,\n117,Guthsbesitzer Schindler.,,,,\"1,000\",,\n118,der Handlung Maper und Scholtz,\"3,464\",,,,,",
    "transcription": "104,dem Baugnur Meyer Bernhard Frankfurth a/od.,,,,\"12,000\",,\n105,H v Rothkirch,,,,\"10,000\",,\n106,Hertschmer Hein in Breslau,,,,\"165,000\",,\n107,der Ges. Schlabrendorffschen Erben,,,,\"35,000\",,\n108,dem stehender Diet in Brieg,,,,\"1,000\",,\n109,dem stehender Binek,,,,\"4,500\",,\n110,Den v. Zimetzkyschen Erben.,,,,\"12,000\",,\n111,der Dok. Schindlerschen Testarius Executorié,,,,693,8,\n112,Dok. Michaelis in Breslau,,,,\"5,000\",,\n113,Banquier Ottenſoser,.,,,601,9,\n114,Johann Hoffmann.,,,,\"2,000\",,\n115,Baron v Hénneberg,,,,\"1,354\",,\n116,Kaufmann Koppan in Breslau,,,,\"80,000\",,\n117,Guthsbesitzer Schindler.,,,,\"1,000\",,\n118,der Handlung Maper und Scholtz,\"3,464\",,,,,",
@@ -164,8 +164,8 @@
   {
    "page": 8,
    "page_id": "0546_a1",
-   "line_start": 21552,
-   "line_end": 21563,
+   "line_start": 21560,
+   "line_end": 21571,
    "n_lines": 12,
    "diplomatic": "119,Dem Major Friedr: v. Koopf,,,,\"15,000\",,\n120,Zimmermeister Krause,,,,629,21,9\n121,Baugerin Kohn,,,,\"2,000\",,\n122,den Fehr v. Lanschen Erben,,,,,,\n123,den Kaufmann Benthan,350,,,,,\n124,Weigel und Sohn,,,,\"2,510\",,\n125,Mendel Panofskaschen Curatel,,,,\"1,000\",,\n126,v. Rechthoffschen Erben,,,,,,\n127,Kaufmann Molinari,,,,\"5,199\",10,\n128,Förster Nerlech,,,,335,,\n129,Glester Friedrich,,,,119,2,\n130,Schneider Siebert,,,,155,18,",
    "transcription": "119,Dem Major Friedr: v. Koopf,,,,\"15,000\",,\n120,Zimmermeister Krause,,,,629,21,9\n121,Baugerin Kohn,,,,\"2,000\",,\n122,den Fehr v. Lanschen Erben,,,,,,\n123,den Kaufmann Benthan,350,,,,,\n124,Weigel und Sohn,,,,\"2,510\",,\n125,Mendel Panofskaschen Curatel,,,,\"1,000\",,\n126,v. Rechthoffschen Erben,,,,,,\n127,Kaufmann Molinari,,,,\"5,199\",10,\n128,Förster Nerlech,,,,335,,\n129,Glester Friedrich,,,,119,2,\n130,Schneider Siebert,,,,155,18,",
@@ -182,8 +182,8 @@
   {
    "page": 9,
    "page_id": "0546_a2",
-   "line_start": 21565,
-   "line_end": 21577,
+   "line_start": 21573,
+   "line_end": 21585,
    "n_lines": 13,
    "diplomatic": "131,Dem Schmidt Gümmler,,,,\"1,108\",,\n132,dem Zimmermeister Linneschen Erben,,,,\"1,625\",2,4\n133,dem Klempner Fürst,,,,339,22,\n134,dem Freiherrn von Eichendorff,,,,\"3,333\",,\n135,der Oberlandes Gerichts Sporte Casse,,,,\"1,140\",2,\n136,dem Moses Bawitscher,,,,\"1,200\",,\n137,der Witwe Müller,,,,97,,\n138,der Ober Post Director Scheffler,,,,\"1,526\",7,10\n139,Der Wittwe Lordemann,,,,,,\n140,verehelichten Herzog,,,,,,\n141,Der Glaser Stark,,,,,,\n142,der Handlung Ziepult & Sohn,,,,,,\n,Summa,\"17,874\",,,\"1,414,377\",7,11",
    "transcription": "131,Dem Schmidt Gümmler,,,,\"1,108\",,\n132,dem Zimmermeister Linneschen Erben,,,,\"1,625\",2,4\n133,dem Klempner Fürst,,,,339,22,\n134,dem Freiherrn von Eichendorff,,,,\"3,333\",,\n135,der Oberlandes Gerichts Sporte Casse,,,,\"1,140\",2,\n136,dem Moses Bawitscher,,,,\"1,200\",,\n137,der Witwe Müller,,,,97,,\n138,der Ober Post Director Scheffler,,,,\"1,526\",7,10\n139,Der Wittwe Lordemann,,,,,,\n140,verehelichten Herzog,,,,,,\n141,Der Glaser Stark,,,,,,\n142,der Handlung Ziepult & Sohn,,,,,,\n,Summa,\"17,874\",,,\"1,414,377\",7,11",
@@ -207,7 +207,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21425,
+   "line": 21433,
    "doc_line": 1
   },
   {
@@ -218,7 +218,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21429,
+   "line": 21437,
    "doc_line": 5
   },
   {
@@ -229,7 +229,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21430,
+   "line": 21438,
    "doc_line": 6
   },
   {
@@ -240,7 +240,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21434,
+   "line": 21442,
    "doc_line": 10
   },
   {
@@ -251,7 +251,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21434,
+   "line": 21442,
    "doc_line": 10
   },
   {
@@ -262,7 +262,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21442,
+   "line": 21450,
    "doc_line": 18
   },
   {
@@ -273,7 +273,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21446,
+   "line": 21454,
    "doc_line": 21
   },
   {
@@ -284,7 +284,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21449,
+   "line": 21457,
    "doc_line": 24
   },
   {
@@ -295,7 +295,7 @@
    "page": 3,
    "page_id": "0543_a2",
    "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
-   "line": 21477,
+   "line": 21485,
    "doc_line": 51
   },
   {
@@ -306,7 +306,7 @@
    "page": 3,
    "page_id": "0543_a2",
    "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
-   "line": 21482,
+   "line": 21490,
    "doc_line": 56
   },
   {
@@ -317,7 +317,7 @@
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-   "line": 21484,
+   "line": 21492,
    "doc_line": 57
   },
   {
@@ -328,7 +328,7 @@
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-   "line": 21487,
+   "line": 21495,
    "doc_line": 60
   },
   {
@@ -339,7 +339,7 @@
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-   "line": 21489,
+   "line": 21497,
    "doc_line": 62
   },
   {
@@ -350,7 +350,7 @@
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-   "line": 21496,
+   "line": 21504,
    "doc_line": 69
   },
   {
@@ -361,7 +361,7 @@
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-   "line": 21499,
+   "line": 21507,
    "doc_line": 72
   },
   {
@@ -372,7 +372,7 @@
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-   "line": 21500,
+   "line": 21508,
    "doc_line": 73
   },
   {
@@ -383,7 +383,7 @@
    "page": 5,
    "page_id": "0544_a2",
    "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
-   "line": 21504,
+   "line": 21512,
    "doc_line": 76
   },
   {
@@ -394,7 +394,7 @@
    "page": 5,
    "page_id": "0544_a2",
    "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
-   "line": 21507,
+   "line": 21515,
    "doc_line": 79
   },
   {
@@ -405,7 +405,7 @@
    "page": 5,
    "page_id": "0544_a2",
    "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
-   "line": 21509,
+   "line": 21517,
    "doc_line": 81
   },
   {
@@ -416,7 +416,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21536,
+   "line": 21544,
    "doc_line": 106
   },
   {
@@ -427,7 +427,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21536,
+   "line": 21544,
    "doc_line": 106
   },
   {
@@ -438,7 +438,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21539,
+   "line": 21547,
    "doc_line": 109
   },
   {
@@ -449,7 +449,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21544,
+   "line": 21552,
    "doc_line": 114
   },
   {
@@ -460,7 +460,7 @@
    "page": 8,
    "page_id": "0546_a1",
    "scan": "Oe_1_Bu_9454_0546_a1-L303_08.jpg",
-   "line": 21557,
+   "line": 21565,
    "doc_line": 126
   }
  ],
@@ -475,7 +475,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21433,
+   "line": 21441,
    "doc_line": 9
   },
   {
@@ -486,7 +486,7 @@
    "page": 1,
    "page_id": "0542_a",
    "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21438,
+   "line": 21446,
    "doc_line": 14
   },
   {
@@ -497,7 +497,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21444,
+   "line": 21452,
    "doc_line": 19
   },
   {
@@ -508,7 +508,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21445,
+   "line": 21453,
    "doc_line": 20
   },
   {
@@ -519,7 +519,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21446,
+   "line": 21454,
    "doc_line": 21
   },
   {
@@ -530,7 +530,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21452,
+   "line": 21460,
    "doc_line": 27
   },
   {
@@ -541,7 +541,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21455,
+   "line": 21463,
    "doc_line": 30
   },
   {
@@ -552,7 +552,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21457,
+   "line": 21465,
    "doc_line": 32
   },
   {
@@ -563,7 +563,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21459,
+   "line": 21467,
    "doc_line": 34
   },
   {
@@ -574,7 +574,7 @@
    "page": 2,
    "page_id": "0543_a1",
    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-   "line": 21460,
+   "line": 21468,
    "doc_line": 35
   },
   {
@@ -585,7 +585,7 @@
    "page": 3,
    "page_id": "0543_a2",
    "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
-   "line": 21465,
+   "line": 21473,
    "doc_line": 39
   },
   {
@@ -596,7 +596,7 @@
    "page": 3,
    "page_id": "0543_a2",
    "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
-   "line": 21467,
+   "line": 21475,
    "doc_line": 41
   },
   {
@@ -607,7 +607,7 @@
    "page": 3,
    "page_id": "0543_a2",
    "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
-   "line": 21470,
+   "line": 21478,
    "doc_line": 44
   },
   {
@@ -618,7 +618,7 @@
    "page": 5,
    "page_id": "0544_a2",
    "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
-   "line": 21513,
+   "line": 21521,
    "doc_line": 85
   },
   {
@@ -629,7 +629,7 @@
    "page": 6,
    "page_id": "0545_a1",
    "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
-   "line": 21520,
+   "line": 21528,
    "doc_line": 91
   },
   {
@@ -640,7 +640,7 @@
    "page": 6,
    "page_id": "0545_a1",
    "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
-   "line": 21527,
+   "line": 21535,
    "doc_line": 98
   },
   {
@@ -651,7 +651,7 @@
    "page": 6,
    "page_id": "0545_a1",
    "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
-   "line": 21530,
+   "line": 21538,
    "doc_line": 101
   },
   {
@@ -662,7 +662,7 @@
    "page": 6,
    "page_id": "0545_a1",
    "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
-   "line": 21532,
+   "line": 21540,
    "doc_line": 103
   },
   {
@@ -673,7 +673,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21536,
+   "line": 21544,
    "doc_line": 106
   },
   {
@@ -684,7 +684,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21538,
+   "line": 21546,
    "doc_line": 108
   },
   {
@@ -695,7 +695,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21540,
+   "line": 21548,
    "doc_line": 110
   },
   {
@@ -706,7 +706,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21544,
+   "line": 21552,
    "doc_line": 114
   },
   {
@@ -717,7 +717,7 @@
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21548,
+   "line": 21556,
    "doc_line": 118
   }
  ],

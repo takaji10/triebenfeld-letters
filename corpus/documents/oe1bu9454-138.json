@@ -1,6 +1,6 @@
 {
  "letter_id": "138",
- "seq_archival": 149,
+ "seq_archival": 150,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-138",
@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "",
  "recipient": "",
- "line_start": 10086,
- "line_end": 10114,
+ "line_start": 10088,
+ "line_end": 10116,
  "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 1,
@@ -41,8 +41,8 @@
   {
    "page": 1,
    "page_id": "0270_a",
-   "line_start": 10088,
-   "line_end": 10104,
+   "line_start": 10090,
+   "line_end": 10106,
    "n_lines": 17,
    "diplomatic": "138\nDurchlauchtigſter Fürſt\nGnädigster Fürst u Herr!\nIn der v. Broniewskische taht ist der nochmahligen\nerste Versuch zur deposition fruchtniß ab\ngelauffen wie E. Hoch Fürstl. Durchlaucht als\nder Beygeschlafen Resolution vom 25 Juny zu\nersehen geruhen werden.\nIch ſaunte nicht noch einmahl alles Angeschrey\num zu recession. H v Triebenfeld hatte mir\ngefaß, daß E. Hochfürstlg. Durchlaucht, eine\nCaution allenfals mit deponiren wurden, um\nnur zum Besitz der Güter zu gelangen. Diese\nfels ich offeriret, sie ist zu 10000 rthl. deter¬\nminirt[?], u darauf ist nach der angesetzten Ver¬\nfügung reflectirt u die deposition so wei\ndie Räumig von Kolno u. Kaemen der Regierung",
    "transcription": "138\nDurchlauchtigſter Fürſt\nGnädigster Fürst u Herr!\nIn der v. Broniewskische taht ist der nochmahligen\nerste Versuch zur deposition fruchtniß ab\ngelauffen wie E. Hoch Fürstl. Durchlaucht als\nder Beygeschlafen Resolution vom 25 Juny zu\nersehen geruhen werden.\nIch ſaunte nicht noch einmahl alles Angeschrey\num zu recession. H v Triebenfeld hatte mir\ngefaß, daß E. Hochfürstlg. Durchlaucht, eine\nCaution allenfals mit deponiren wurden, um\nnur zum Besitz der Güter zu gelangen. Diese\nfels ich offeriret, sie ist zu 10000 rthl. deter-\nminirt[?], u darauf ist nach der angesetzten Ver-\nfügung reflectirt u die deposition so wei\ndie Räumig von Kolno u. Kaemen der Regierung",
@@ -63,8 +63,8 @@
   {
    "page": 2,
    "page_id": "0271_a1",
-   "line_start": 10106,
-   "line_end": 10114,
+   "line_start": 10108,
+   "line_end": 10116,
    "n_lines": 9,
    "diplomatic": "zu Posen anbefohlen.\nIch zweifle nicht daß E. Hochfürstlichen\nDurchlaucht diese Verfügung angenehm seyn und\nu in dieser Voraussetzung wenn ich mich mit\nEhrpfängt u. Ergebenheit\nE. Hochfürſtlichen Durchlaucht\nBer[lin] d. 3. July 1804\nUnterthäniger diener\nAmelang",
    "transcription": "zu Posen anbefohlen.\nIch zweifle nicht daß E. Hochfürstlichen\nDurchlaucht diese Verfügung angenehm seyn und\nu in dieser Voraussetzung wenn ich mich mit\nEhrpfängt u. Ergebenheit\nE. Hochfürſtlichen Durchlaucht\nBer[lin] d. 3. July 1804\nUnterthäniger diener\nAmelang",
@@ -89,7 +89,7 @@
    "page": 1,
    "page_id": "0270_a",
    "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
-   "line": 10091,
+   "line": 10093,
    "doc_line": 4
   },
   {
@@ -100,7 +100,7 @@
    "page": 1,
    "page_id": "0270_a",
    "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
-   "line": 10097,
+   "line": 10099,
    "doc_line": 10
   },
   {
@@ -111,7 +111,7 @@
    "page": 2,
    "page_id": "0271_a1",
    "scan": "Oe_1_Bu_9454_0271_a1-L138_02.jpg",
-   "line": 10114,
+   "line": 10116,
    "doc_line": 26
   }
  ],
@@ -126,7 +126,7 @@
    "page": 1,
    "page_id": "0270_a",
    "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
-   "line": 10104,
+   "line": 10106,
    "doc_line": 17
   },
   {
@@ -137,7 +137,7 @@
    "page": 1,
    "page_id": "0270_a",
    "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
-   "line": 10104,
+   "line": 10106,
    "doc_line": 17
   },
   {
@@ -148,7 +148,7 @@
    "page": 2,
    "page_id": "0271_a1",
    "scan": "Oe_1_Bu_9454_0271_a1-L138_02.jpg",
-   "line": 10106,
+   "line": 10108,
    "doc_line": 18
   }
  ],

@@ -1,6 +1,6 @@
 {
  "letter_id": "144",
- "seq_archival": 155,
+ "seq_archival": 156,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-144",
@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "",
  "recipient": "",
- "line_start": 10486,
- "line_end": 10504,
+ "line_start": 10488,
+ "line_end": 10506,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0281_a2",
-   "line_start": 10488,
-   "line_end": 10504,
+   "line_start": 10490,
+   "line_end": 10506,
    "n_lines": 17,
    "diplomatic": "144\nDurchlauchtigster Fürst!\nGnädigster Fürst und Herr!\nEw. Hochfürstlichen Durchlaucht Befehl vom\n31. v. h. habe ich heute erhalten.\nMorgen Früh werde ich zu dem Graf\nvon Schulenburg gehen, das an ihn\ngerichtete Schreiben ihm überhändigen u seine\nnähere Erklärung erwarten.\nMit der nächsten Post werde ich in Unter\nthenigtes das Resultat meiner Conferenz\neinzuberichten nicht unterlaßen.\nder ich erſterbe.\nEw hochfürstlichen Durchlaucht\nBerlin den 3. Nov. 1804.\nunterthänigster Diener\nAmelang",
    "transcription": "144\nDurchlauchtigster Fürst!\nGnädigster Fürst und Herr!\nEw. Hochfürstlichen Durchlaucht Befehl vom\n31. v. h. habe ich heute erhalten.\nMorgen Früh werde ich zu dem Graf\nvon Schulenburg gehen, das an ihn\ngerichtete Schreiben ihm überhändigen u seine\nnähere Erklärung erwarten.\nMit der nächsten Post werde ich in Unter\nthenigtes das Resultat meiner Conferenz\neinzuberichten nicht unterlaßen.\nder ich erſterbe.\nEw hochfürstlichen Durchlaucht\nBerlin den 3. Nov. 1804.\nunterthänigster Diener\nAmelang",
@@ -67,7 +67,7 @@
    "page": 1,
    "page_id": "0281_a2",
    "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
-   "line": 10494,
+   "line": 10496,
    "doc_line": 7
   },
   {
@@ -78,7 +78,7 @@
    "page": 1,
    "page_id": "0281_a2",
    "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
-   "line": 10504,
+   "line": 10506,
    "doc_line": 17
   }
  ],
@@ -93,7 +93,7 @@
    "page": 1,
    "page_id": "0281_a2",
    "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
-   "line": 10502,
+   "line": 10504,
    "doc_line": 15
   }
  ],

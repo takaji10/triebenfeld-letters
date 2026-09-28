@@ -1,6 +1,6 @@
 {
  "letter_id": "143",
- "seq_archival": 154,
+ "seq_archival": 155,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-143",
@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "",
  "recipient": "",
- "line_start": 10461,
- "line_end": 10485,
+ "line_start": 10463,
+ "line_end": 10487,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0280_a2",
-   "line_start": 10463,
-   "line_end": 10473,
+   "line_start": 10465,
+   "line_end": 10475,
    "n_lines": 11,
    "diplomatic": "143\nDurchlauchtigſter Fürſt!\nGnädigster Fürst und Herr!\nEw. Hochfürstlichen Durchlaucht haben die\nGnade gehabt, mich von dem Ausgange der\nhöchſt dieſelben betreffenden Entſchädigungs An¬\ngelegenheit zu unterrichten.\nDa Ew. Hochfürstlichen Durchlaucht Sich\nallerhöchst mit der Art wie dieses Ge¬\nschäft beendet worden zufrieden erklären; so\nbleibt für mich kein Würch weiter übrig",
    "transcription": "143\nDurchlauchtigſter Fürſt!\nGnädigster Fürst und Herr!\nEw. Hochfürstlichen Durchlaucht haben die\nGnade gehabt, mich von dem Ausgange der\nhöchſt dieſelben betreffenden Entſchädigungs An-\ngelegenheit zu unterrichten.\nDa Ew. Hochfürstlichen Durchlaucht Sich\nallerhöchst mit der Art wie dieses Ge-\nschäft beendet worden zufrieden erklären; so\nbleibt für mich kein Würch weiter übrig",
@@ -59,8 +59,8 @@
   {
    "page": 2,
    "page_id": "0281_a1",
-   "line_start": 10475,
-   "line_end": 10485,
+   "line_start": 10477,
+   "line_end": 10487,
    "n_lines": 11,
    "diplomatic": "als der, daß die fortdauernde Gnade Sr.\nMajestät als Königs gegen Ew. Hochfürstlichen\nDurchlaucht eben so gränzen laß, als höchst\netwa Verdienste um die Staat, seyn mag\nEs ist die ausgezeichneste Ehrerbietung und\nErgebenheit mit welcher ich die Ehre habe\nmich zu nennen.\nEw. Hochfürstlichen Durchlaucht\nUnterthänigst gehorsamst dier.\nBerlin den 20. Octobr. 1804.\nAmelang",
    "transcription": "als der, daß die fortdauernde Gnade Sr.\nMajestät als Königs gegen Ew. Hochfürstlichen\nDurchlaucht eben so gränzen laß, als höchst\netwa Verdienste um die Staat, seyn mag\nEs ist die ausgezeichneste Ehrerbietung und\nErgebenheit mit welcher ich die Ehre habe\nmich zu nennen.\nEw. Hochfürstlichen Durchlaucht\nUnterthänigst gehorsamst dier.\nBerlin den 20. Octobr. 1804.\nAmelang",
@@ -85,7 +85,7 @@
    "page": 2,
    "page_id": "0281_a1",
    "scan": "Oe_1_Bu_9454_0281_a1-L143_02.jpg",
-   "line": 10485,
+   "line": 10487,
    "doc_line": 22
   }
  ],
@@ -100,7 +100,7 @@
    "page": 2,
    "page_id": "0281_a1",
    "scan": "Oe_1_Bu_9454_0281_a1-L143_02.jpg",
-   "line": 10484,
+   "line": 10486,
    "doc_line": 21
   }
  ],

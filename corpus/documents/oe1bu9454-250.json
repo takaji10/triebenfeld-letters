@@ -1,6 +1,6 @@
 {
  "letter_id": "250",
- "seq_archival": 260,
+ "seq_archival": 263,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-250",
@@ -20,8 +20,8 @@
  "place": "Wien",
  "sender": "",
  "recipient": "",
- "line_start": 17968,
- "line_end": 17986,
+ "line_start": 17974,
+ "line_end": 17992,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0462_a2",
-   "line_start": 17970,
-   "line_end": 17986,
+   "line_start": 17976,
+   "line_end": 17992,
    "n_lines": 17,
    "diplomatic": "250\n(Beylage zu der Brief von 17ten 9br.)\nEwr Hochwohlgeboren gefälliges Schreiben vom\n3t dieses habe ich zu erhalten die Ehre gehabt, und\ndurch dasselbe Kenntniß von dem Sr Durchlaucht\ndem Fürsten v. Hardenberg übergebenen Me¬\nmoriale erlangt. Ich habe die Ehre dessen Ab¬\nschrift in der Beilage zurückzusenden, und werde\nnicht ermangeln mich für dessen Inhalt zu interes¬\nsiren soviel es in meinen Würkungs Kreis liegt.\nEmpfangen für Hochwohlgeboren hiermit\ndie Versicherungen meiner vollkommensten Hoch¬\nachtung\nWien d. 5ten November 1814.\nHumbo[ldt].\nAn den herrn\nHerrn v. Triebenfeld",
    "transcription": "250\n(Beylage zu der Brief von 17ten 9br.)\nEwr Hochwohlgeboren gefälliges Schreiben vom\n3t dieses habe ich zu erhalten die Ehre gehabt, und\ndurch dasselbe Kenntniß von dem Sr Durchlaucht\ndem Fürsten v. Hardenberg übergebenen Me-\nmoriale erlangt. Ich habe die Ehre dessen Ab-\nschrift in der Beilage zurückzusenden, und werde\nnicht ermangeln mich für dessen Inhalt zu interes-\nsiren soviel es in meinen Würkungs Kreis liegt.\nEmpfangen für Hochwohlgeboren hiermit\ndie Versicherungen meiner vollkommensten Hoch-\nachtung\nWien d. 5ten November 1814.\nHumbo[ldt].\nAn den herrn\nHerrn v. Triebenfeld",
@@ -67,7 +67,7 @@
    "page": 1,
    "page_id": "0462_a2",
    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
-   "line": 17975,
+   "line": 17981,
    "doc_line": 6
   },
   {
@@ -78,7 +78,7 @@
    "page": 1,
    "page_id": "0462_a2",
    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
-   "line": 17984,
+   "line": 17990,
    "doc_line": 15
   },
   {
@@ -89,7 +89,7 @@
    "page": 1,
    "page_id": "0462_a2",
    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
-   "line": 17986,
+   "line": 17992,
    "doc_line": 17
   }
  ],
@@ -104,7 +104,7 @@
    "page": 1,
    "page_id": "0462_a2",
    "scan": "Oe_1_Bu_9454_0462_a2-L250_01.jpg",
-   "line": 17983,
+   "line": 17989,
    "doc_line": 14
   }
  ],

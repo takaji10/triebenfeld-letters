@@ -147,7 +147,7 @@ dates:
     "13": [1815, 2, 21, "day"]
 
   # Undated and left so.
-  no_date: ["303", "9"]
+  no_date: ["121", "181", "225", "293", "303", "9"]   # 121, 181, 225, 293 are missing from the Büschel
 
 documents:
   # Anything that is not an ordinary letter, e.g. "register".

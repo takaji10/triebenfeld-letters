@@ -1,6 +1,6 @@
 {
  "letter_id": "252",
- "seq_archival": 262,
+ "seq_archival": 265,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-252",
@@ -20,8 +20,8 @@
  "place": "Wien",
  "sender": "",
  "recipient": "",
- "line_start": 18023,
- "line_end": 18036,
+ "line_start": 18029,
+ "line_end": 18042,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -41,8 +41,8 @@
   {
    "page": 1,
    "page_id": "0463_b",
-   "line_start": 18025,
-   "line_end": 18036,
+   "line_start": 18031,
+   "line_end": 18042,
    "n_lines": 12,
    "diplomatic": "252\nEwr Hochwohlgeboren benachrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die\nAngelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf\nTrąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im\nWerck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen\ndes Herzogthums Warschau zur Ausführung kommen wird.\nWien den 25ten Novembr 1814.\nC f v Hardenberg\nAn\ndes Herrn Krieges Raths von Triebenfeld\nHochwohlgebornen\nherr",
    "transcription": "252\nEwr Hochwohlgeboren benachrichtige ich auf Ihr Gesuch vom 25ten v. M. daß die\nAngelegenheit des Herrn Fürsten von Hohenlohe in Betreff der Ansprüche auf\nTrąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jezt im\nWerck begriffene allgemeine Auseinandersezzung und Übereinkunft wegen\ndes Herzogthums Warschau zur Ausführung kommen wird.\nWien den 25ten Novembr 1814.\nC f v Hardenberg\nAn\ndes Herrn Krieges Raths von Triebenfeld\nHochwohlgebornen\nherr",
@@ -69,7 +69,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18027,
+   "line": 18033,
    "doc_line": 3
   },
   {
@@ -80,7 +80,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18032,
+   "line": 18038,
    "doc_line": 8
   },
   {
@@ -91,7 +91,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18034,
+   "line": 18040,
    "doc_line": 10
   }
  ],
@@ -106,7 +106,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18028,
+   "line": 18034,
    "doc_line": 4
   },
   {
@@ -117,7 +117,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18028,
+   "line": 18034,
    "doc_line": 4
   },
   {
@@ -128,7 +128,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18030,
+   "line": 18036,
    "doc_line": 6
   },
   {
@@ -139,7 +139,7 @@
    "page": 1,
    "page_id": "0463_b",
    "scan": "Oe_1_Bu_9454_0463_b-L252_01.jpg",
-   "line": 18031,
+   "line": 18037,
    "doc_line": 7
   }
  ],

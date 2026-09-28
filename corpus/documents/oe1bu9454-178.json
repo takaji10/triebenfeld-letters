@@ -1,6 +1,6 @@
 {
  "letter_id": "178",
- "seq_archival": 189,
+ "seq_archival": 190,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-178",
@@ -20,8 +20,8 @@
  "place": "Dresden",
  "sender": "Hahn",
  "recipient": "von Triebenfeld",
- "line_start": 12585,
- "line_end": 12613,
+ "line_start": 12587,
+ "line_end": 12615,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0335_a",
-   "line_start": 12587,
-   "line_end": 12599,
+   "line_start": 12589,
+   "line_end": 12601,
    "n_lines": 13,
    "diplomatic": "178\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Rath!\nNoch fande ich eben einige chartes blanches von\nSr Durchlaucht unterschrieben, unter meinen\nPapieren, die ich in der Eilrigbreslau\neingepakt habe, und die für Euer Hochwohlge¬\nbohren bestimmt waren. Dieſelben werden\nmir dis Versehen verzeihen, wenn ich denensel¬\nben sage, daß ich die leztern Nächte vor der\nAbreiße keine Ruhe hatte, indem der Cammer\nDirector Graf aus Behringen nach dort ankand,\nund nun alles was das Hohenlohischen angrenge aus¬",
    "transcription": "178\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Rath!\nNoch fande ich eben einige chartes blanches von\nSr Durchlaucht unterschrieben, unter meinen\nPapieren, die ich in der Eilrigbreslau\neingepakt habe, und die für Euer Hochwohlge-\nbohren bestimmt waren. Dieſelben werden\nmir dis Versehen verzeihen, wenn ich denensel-\nben sage, daß ich die leztern Nächte vor der\nAbreiße keine Ruhe hatte, indem der Cammer\nDirector Graf aus Behringen nach dort ankand,\nund nun alles was das Hohenlohischen angrenge aus-",
@@ -57,8 +57,8 @@
   {
    "page": 2,
    "page_id": "0336_a1",
-   "line_start": 12601,
-   "line_end": 12613,
+   "line_start": 12603,
+   "line_end": 12615,
    "n_lines": 13,
    "diplomatic": "gemacht werden sollte, ehe die Reiße ange¬\ntreten würde, die übrigen Chartes blanches\nhabe ich an die gnädigen Frauenlein von\nTriebenfeld geſchikt.\nIch habe die Ehre mit vollkommenster Verehrung\nzu beharren.\nEuer Hochwohlgebohren\nN.S. Sr. Durchl. haben mich noch vor der Abreiße\nzum Expeditions Rath ernannt!!\nDresden d 8ten Nov:\n1805.\nunterthäniger Diener\nA: Hahn",
    "transcription": "gemacht werden sollte, ehe die Reiße ange-\ntreten würde, die übrigen Chartes blanches\nhabe ich an die gnädigen Frauenlein von\nTriebenfeld geſchikt.\nIch habe die Ehre mit vollkommenster Verehrung\nzu beharren.\nEuer Hochwohlgebohren\nN.S. Sr. Durchl. haben mich noch vor der Abreiße\nzum Expeditions Rath ernannt!!\nDresden d 8ten Nov:\n1805.\nunterthäniger Diener\nA: Hahn",
@@ -85,7 +85,7 @@
    "page": 2,
    "page_id": "0336_a1",
    "scan": "Oe_1_Bu_9454_0336_a1-L178_02.jpg",
-   "line": 12604,
+   "line": 12606,
    "doc_line": 17
   }
  ],
@@ -100,7 +100,7 @@
    "page": 2,
    "page_id": "0336_a1",
    "scan": "Oe_1_Bu_9454_0336_a1-L178_02.jpg",
-   "line": 12610,
+   "line": 12612,
    "doc_line": 23
   }
  ],
