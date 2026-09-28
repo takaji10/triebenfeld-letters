@@ -17,7 +17,7 @@
  "year": 1806,
  "month": 9,
  "day": 25,
- "place": "",
+ "place": "Freyberg",
  "sender": "",
  "recipient": "",
  "line_start": 1546,
@@ -308,7 +308,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Freyberg",
  "place_mentions": [
   {
    "entity": "trabczyn",

@@ -605,7 +605,7 @@
   "date_iso": "1798-10-06",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Berlin",
+  "place": "Berlin?",
   "n_pages": 4,
   "n_lines": 62,
   "scans": [
@@ -828,7 +828,7 @@
   "date_iso": "1798-10-15",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Berlin",
   "n_pages": 3,
   "n_lines": 69,
   "scans": [
@@ -972,7 +972,7 @@
   "date_iso": "1798-12-04",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Berlin",
   "n_pages": 2,
   "n_lines": 54,
   "scans": [
@@ -1159,7 +1159,7 @@
   "date_iso": "1798-12-12",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Berlin",
+  "place": "Berlin?",
   "n_pages": 8,
   "n_lines": 165,
   "scans": [
@@ -1311,7 +1311,7 @@
   "date_iso": "1798-12-18",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Berlin",
   "n_pages": 1,
   "n_lines": 21,
   "scans": [
@@ -1511,7 +1511,7 @@
   "date_iso": "1799-01",
   "date_precision": "month",
   "date_source": "signature",
-  "place": "Berlin den [?]ten",
+  "place": "Berlin",
   "n_pages": 2,
   "n_lines": 46,
   "scans": [
@@ -2345,7 +2345,7 @@
   "date_iso": "1799-08",
   "date_precision": "month",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 79,
   "scans": [
@@ -2513,51 +2513,6 @@
   "path": "documents/oe1bu14525-32.json",
   "text_path": "text/oe1bu14525-32.txt",
   "permalink": "/documents/oe1bu14525/32/"
- },
- {
-  "uid": "oe1bu9454-13",
-  "unit": "oe1bu9454",
-  "letter_id": "13",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1800",
-  "date_precision": "year",
-  "date_source": "signature",
-  "place": "Unknown",
-  "n_pages": 2,
-  "n_lines": 50,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0021_a",
-    "image": "Oe_1_Bu_9454_0021_a-L13_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0021_b2",
-    "image": "Oe_1_Bu_9454_0021_b2-L13_02.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 6,
-  "places_named": 3,
-  "estates": [
-   "koschentin",
-   "oppurg",
-   "schlawenschitz",
-   "lassowitz"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 13",
-  "path": "documents/oe1bu9454-13.json",
-  "text_path": "text/oe1bu9454-13.txt",
-  "permalink": "/documents/oe1bu9454/13/"
  },
  {
   "uid": "oe1bu9454-101",
@@ -2955,6 +2910,48 @@
   "path": "documents/oe1bu14525-41.json",
   "text_path": "text/oe1bu14525-41.txt",
   "permalink": "/documents/oe1bu14525/41/"
+ },
+ {
+  "uid": "oe1bu9454-109",
+  "unit": "oe1bu9454",
+  "letter_id": "109",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1801-01-31",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Berlin",
+  "n_pages": 2,
+  "n_lines": 45,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0225_a",
+    "image": "Oe_1_Bu_9454_0225_a-L109_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0226_a1",
+    "image": "Oe_1_Bu_9454_0226_a1-L109_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 2,
+  "estates": [
+   "betsche"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 109",
+  "path": "documents/oe1bu9454-109.json",
+  "text_path": "text/oe1bu9454-109.txt",
+  "permalink": "/documents/oe1bu9454/109/"
  },
  {
   "uid": "oe1bu9454-111",
@@ -4758,7 +4755,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1804-02-10",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Breslau",
   "n_pages": 2,
   "n_lines": 38,
@@ -4803,7 +4800,7 @@
   "date_iso": "1804-02-29",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Breslau",
   "n_pages": 3,
   "n_lines": 68,
   "scans": [
@@ -4847,7 +4844,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1804-03-29",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Breslau",
   "n_pages": 1,
   "n_lines": 24,
@@ -4882,7 +4879,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1804-03-29",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Breslau",
   "n_pages": 1,
   "n_lines": 25,
@@ -5002,7 +4999,7 @@
   "date_iso": "1804-04-06",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Breslau",
+  "place": "Breslau[?]",
   "n_pages": 1,
   "n_lines": 15,
   "scans": [
@@ -5310,7 +5307,7 @@
   "date_iso": "1804-05-17",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Fr[ankfurt] a. d. Oder",
+  "place": "Frankfurt a. d. Oder",
   "n_pages": 2,
   "n_lines": 37,
   "scans": [
@@ -5395,7 +5392,7 @@
   "date_iso": "1804-05-22",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Ber[lin]",
+  "place": "Berlin",
   "n_pages": 3,
   "n_lines": 75,
   "scans": [
@@ -5443,7 +5440,7 @@
   "date_iso": "1804-05-23",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Frankfurth a/d O",
+  "place": "Frankfurt an der Oder",
   "n_pages": 3,
   "n_lines": 61,
   "scans": [
@@ -5491,7 +5488,7 @@
   "date_iso": "1804-05-23",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Frankfurth",
+  "place": "Frankfurt an der Oder",
   "n_pages": 5,
   "n_lines": 94,
   "scans": [
@@ -5631,7 +5628,7 @@
   "date_iso": "1804-05-26",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Berl[in]",
+  "place": "Berlin",
   "n_pages": 8,
   "n_lines": 153,
   "scans": [
@@ -5818,7 +5815,7 @@
   "date_iso": "1804-06-21",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Frankfurth a.d. O[der]",
+  "place": "Frankfurth a.d. Oder",
   "n_pages": 3,
   "n_lines": 51,
   "scans": [
@@ -5867,7 +5864,7 @@
   "date_iso": "1804-07-03",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Ber[lin]",
+  "place": "Berlin",
   "n_pages": 2,
   "n_lines": 26,
   "scans": [
@@ -6636,7 +6633,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1804-11-03",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Berlin",
   "n_pages": 1,
   "n_lines": 17,
@@ -6770,7 +6767,7 @@
   "date_iso": "1804-11-25",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Trąbczyn",
   "n_pages": 3,
   "n_lines": 63,
   "scans": [
@@ -7257,7 +7254,7 @@
   "date_iso": "1805-01-12",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Berlin[?]",
   "n_pages": 1,
   "n_lines": 23,
   "scans": [
@@ -7576,48 +7573,6 @@
   "path": "documents/oe1bu9454-158.json",
   "text_path": "text/oe1bu9454-158.txt",
   "permalink": "/documents/oe1bu9454/158/"
- },
- {
-  "uid": "oe1bu9454-109",
-  "unit": "oe1bu9454",
-  "letter_id": "109",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1805-01-31",
-  "date_precision": "day",
-  "date_source": "signature",
-  "place": "Unknown",
-  "n_pages": 2,
-  "n_lines": 45,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0225_a",
-    "image": "Oe_1_Bu_9454_0225_a-L109_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0226_a1",
-    "image": "Oe_1_Bu_9454_0226_a1-L109_02.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 2,
-  "estates": [
-   "betsche"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 109",
-  "path": "documents/oe1bu9454-109.json",
-  "text_path": "text/oe1bu9454-109.txt",
-  "permalink": "/documents/oe1bu9454/109/"
  },
  {
   "uid": "oe1bu9454-159",
@@ -8335,6 +8290,61 @@
   "path": "documents/oe1bu9454-168.json",
   "text_path": "text/oe1bu9454-168.txt",
   "permalink": "/documents/oe1bu9454/168/"
+ },
+ {
+  "uid": "oe1bu9454-173",
+  "unit": "oe1bu9454",
+  "letter_id": "173",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1805-03-31",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Unknown",
+  "n_pages": 4,
+  "n_lines": 89,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0323_b",
+    "image": "Oe_1_Bu_9454_0323_b-L173_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0324_a1",
+    "image": "Oe_1_Bu_9454_0324_a1-L173_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0324_a2",
+    "image": "Oe_1_Bu_9454_0324_a2-L173_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0325_a",
+    "image": "Oe_1_Bu_9454_0325_a-L173_04.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 10,
+  "places_named": 4,
+  "estates": [
+   "witow",
+   "trabczyn",
+   "szetlewek",
+   "olesnica"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 173",
+  "path": "documents/oe1bu9454-173.json",
+  "text_path": "text/oe1bu9454-173.txt",
+  "permalink": "/documents/oe1bu9454/173/"
  },
  {
   "uid": "oe1bu14526-15",
@@ -9562,7 +9572,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1806-04-25",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Unknown",
   "n_pages": 7,
   "n_lines": 147,
@@ -9678,6 +9688,41 @@
   "path": "documents/oe1bu9454-182.json",
   "text_path": "text/oe1bu9454-182.txt",
   "permalink": "/documents/oe1bu9454/182/"
+ },
+ {
+  "uid": "oe1bu9454-183",
+  "unit": "oe1bu9454",
+  "letter_id": "183",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1806-05",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "n_pages": 1,
+  "n_lines": 15,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0349_b",
+    "image": "Oe_1_Bu_9454_0349_b-L183_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 0,
+  "estates": [],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 183",
+  "path": "documents/oe1bu9454-183.json",
+  "text_path": "text/oe1bu9454-183.txt",
+  "permalink": "/documents/oe1bu9454/183/"
  },
  {
   "uid": "oe1bu9454-179",
@@ -10324,7 +10369,7 @@
   "date_iso": "1806-08-12",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Trąbczyn",
   "n_pages": 3,
   "n_lines": 69,
   "scans": [
@@ -10374,7 +10419,7 @@
   "date_iso": "1806-09-25",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Freyberg",
   "n_pages": 4,
   "n_lines": 107,
   "scans": [
@@ -10581,7 +10626,7 @@
   "date_iso": "1807-10-19",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Bre[slau]",
+  "place": "Breslau",
   "n_pages": 2,
   "n_lines": 53,
   "scans": [
@@ -10664,7 +10709,7 @@
   "date_iso": "1808-03-13",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Öhringen 13",
+  "place": "Öhringen[?]",
   "n_pages": 8,
   "n_lines": 281,
   "scans": [
@@ -10781,7 +10826,7 @@
   "date_iso": "1808-04-03",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Berlin",
   "n_pages": 4,
   "n_lines": 127,
   "scans": [
@@ -11418,6 +11463,67 @@
   "permalink": "/documents/oe1bu9454/45/"
  },
  {
+  "uid": "oe1bu9454-47",
+  "unit": "oe1bu9454",
+  "letter_id": "47",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1809-03",
+  "date_precision": "month",
+  "date_source": "supplied",
+  "place": "Kontop[?]",
+  "n_pages": 5,
+  "n_lines": 133,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0089_b",
+    "image": "Oe_1_Bu_9454_0089_b-L47_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0090_a1",
+    "image": "Oe_1_Bu_9454_0090_a1-L47_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0090_a2",
+    "image": "Oe_1_Bu_9454_0090_a2-L47_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0091_a",
+    "image": "Oe_1_Bu_9454_0091_a-L47_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0091_b",
+    "image": "Oe_1_Bu_9454_0091_b-L47_05.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 11,
+  "places_named": 9,
+  "estates": [
+   "zagorowo",
+   "olesnica",
+   "augustinow",
+   "drzewce",
+   "kontop"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 47",
+  "path": "documents/oe1bu9454-47.json",
+  "text_path": "text/oe1bu9454-47.txt",
+  "permalink": "/documents/oe1bu9454/47/"
+ },
+ {
   "uid": "oe1bu9454-46",
   "unit": "oe1bu9454",
   "letter_id": "46",
@@ -11429,7 +11535,7 @@
   "date_iso": "1809-03-02",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Berl[in]",
+  "place": "Berlin",
   "n_pages": 2,
   "n_lines": 33,
   "scans": [
@@ -11548,6 +11654,50 @@
   "path": "documents/oe1bu9454-48.json",
   "text_path": "text/oe1bu9454-48.txt",
   "permalink": "/documents/oe1bu9454/48/"
+ },
+ {
+  "uid": "oe1bu9454-302",
+  "unit": "oe1bu9454",
+  "letter_id": "302",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1809-03-07",
+  "date_precision": "day",
+  "date_source": "twin",
+  "place": "Kontop",
+  "n_pages": 2,
+  "n_lines": 65,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0540_a",
+    "image": "Oe_1_Bu_9454_0540_a-L302_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0541_a",
+    "image": "Oe_1_Bu_9454_0541_a-L302_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 8,
+  "places_named": 8,
+  "estates": [
+   "zagorowo",
+   "trabczyn",
+   "olesnica"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 302",
+  "path": "documents/oe1bu9454-302.json",
+  "text_path": "text/oe1bu9454-302.txt",
+  "permalink": "/documents/oe1bu9454/302/"
  },
  {
   "uid": "oe1bu9454-49",
@@ -11736,7 +11886,7 @@
   "date_iso": "1809-04-20",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Kontop",
   "n_pages": 3,
   "n_lines": 62,
   "scans": [
@@ -11808,70 +11958,6 @@
   "path": "documents/oe1bu9454-51.json",
   "text_path": "text/oe1bu9454-51.txt",
   "permalink": "/documents/oe1bu9454/51/"
- },
- {
-  "uid": "oe1bu9454-254",
-  "unit": "oe1bu9454",
-  "letter_id": "254",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1809-05-02",
-  "date_precision": "day",
-  "date_source": "signature",
-  "place": "Unknown",
-  "n_pages": 6,
-  "n_lines": 118,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0465_a2",
-    "image": "Oe_1_Bu_9454_0465_a2-L254_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0466_a1",
-    "image": "Oe_1_Bu_9454_0466_a1-L254_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0469_a2",
-    "image": "Oe_1_Bu_9454_0469_a2-L254_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0466_a2",
-    "image": "Oe_1_Bu_9454_0466_a2-L254_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0467_a2",
-    "image": "Oe_1_Bu_9454_0467_a2-L254_05.jpg"
-   },
-   {
-    "page": 6,
-    "page_id": "0468_a2",
-    "image": "Oe_1_Bu_9454_0468_a2-L254_06.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 7,
-  "places_named": 6,
-  "estates": [
-   "trabczyn",
-   "kamionno",
-   "koschentin"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 254",
-  "path": "documents/oe1bu9454-254.json",
-  "text_path": "text/oe1bu9454-254.txt",
-  "permalink": "/documents/oe1bu9454/254/"
  },
  {
   "uid": "oe1bu9454-52",
@@ -12193,6 +12279,48 @@
   "permalink": "/documents/oe1bu9454/61/"
  },
  {
+  "uid": "oe1bu9454-62",
+  "unit": "oe1bu9454",
+  "letter_id": "62",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1809-09",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Kontop[?]",
+  "n_pages": 1,
+  "n_lines": 22,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0117_b",
+    "image": "Oe_1_Bu_9454_0117_b-L62_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 2,
+  "estates": [
+   "koschentin",
+   "schlawenschitz",
+   "lassowitz",
+   "oppurg",
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 62",
+  "path": "documents/oe1bu9454-62.json",
+  "text_path": "text/oe1bu9454-62.txt",
+  "permalink": "/documents/oe1bu9454/62/"
+ },
+ {
   "uid": "oe1bu9454-65",
   "unit": "oe1bu9454",
   "letter_id": "65",
@@ -12306,6 +12434,58 @@
   "permalink": "/documents/oe1bu9454/64/"
  },
  {
+  "uid": "oe1bu9454-63",
+  "unit": "oe1bu9454",
+  "letter_id": "63",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1809-12-16",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Unknown",
+  "n_pages": 4,
+  "n_lines": 87,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0118_a",
+    "image": "Oe_1_Bu_9454_0118_a-L63_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0119_a1",
+    "image": "Oe_1_Bu_9454_0119_a1-L63_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0119_a2",
+    "image": "Oe_1_Bu_9454_0119_a2-L63_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0120_a",
+    "image": "Oe_1_Bu_9454_0120_a-L63_04.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 8,
+  "places_named": 8,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 63",
+  "path": "documents/oe1bu9454-63.json",
+  "text_path": "text/oe1bu9454-63.txt",
+  "permalink": "/documents/oe1bu9454/63/"
+ },
+ {
   "uid": "oe1bu9454-66",
   "unit": "oe1bu9454",
   "letter_id": "66",
@@ -12317,7 +12497,7 @@
   "date_iso": "1809-12-16",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Kontop",
   "n_pages": 5,
   "n_lines": 117,
   "scans": [
@@ -12375,7 +12555,7 @@
   "date_iso": "1810-01-01",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Kontop",
   "n_pages": 4,
   "n_lines": 101,
   "scans": [
@@ -12483,7 +12663,7 @@
   "date_iso": "1810-02-16",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Kontop",
   "n_pages": 4,
   "n_lines": 122,
   "scans": [
@@ -12883,7 +13063,7 @@
   "date_iso": "1810-05-25",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Schwarzwald bey Miedzibor[?]",
+  "place": "Schwarzwald bey Miedzibor?",
   "n_pages": 3,
   "n_lines": 67,
   "scans": [
@@ -12930,7 +13110,7 @@
   "date_iso": "1810-05-31",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Ollaboch",
   "n_pages": 3,
   "n_lines": 45,
   "scans": [
@@ -12978,7 +13158,7 @@
   "date_iso": "1810-06-08",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Kąntwicz[?]",
+  "place": "Kąntwicz?",
   "n_pages": 3,
   "n_lines": 88,
   "scans": [
@@ -13025,7 +13205,7 @@
   "date_iso": "1810-08-02",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Schweinern",
   "n_pages": 3,
   "n_lines": 67,
   "scans": [
@@ -13154,7 +13334,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1810-08-29",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Breslau",
   "n_pages": 1,
   "n_lines": 17,
@@ -13216,6 +13396,43 @@
   "path": "documents/oe1bu9454-201.json",
   "text_path": "text/oe1bu9454-201.txt",
   "permalink": "/documents/oe1bu9454/201/"
+ },
+ {
+  "uid": "oe1bu9454-202",
+  "unit": "oe1bu9454",
+  "letter_id": "202",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1810-08-30",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Schweinern",
+  "n_pages": 1,
+  "n_lines": 36,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0381_a",
+    "image": "Oe_1_Bu_9454_0381_a-L202_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 2,
+  "estates": [
+   "zagorowo"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 202",
+  "path": "documents/oe1bu9454-202.json",
+  "text_path": "text/oe1bu9454-202.txt",
+  "permalink": "/documents/oe1bu9454/202/"
  },
  {
   "uid": "oe1bu9454-204",
@@ -13362,7 +13579,7 @@
   "date_iso": "1810-09-30",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Kalisz",
   "n_pages": 1,
   "n_lines": 34,
   "scans": [
@@ -13678,61 +13895,118 @@
   "permalink": "/documents/oe1bu9454/213/"
  },
  {
-  "uid": "oe1bu9454-232",
+  "uid": "oe1bu9454-74b",
   "unit": "oe1bu9454",
-  "letter_id": "232",
+  "letter_id": "74b",
   "doc_type": "letter",
   "language": "de",
   "era": "hohenlohe",
   "themes": [],
   "repository": "hzan-neuenstein",
-  "date_iso": "1811-06",
-  "date_precision": "month",
-  "date_source": "signature",
-  "place": "Kopojno",
-  "n_pages": 4,
-  "n_lines": 92,
+  "date_iso": "1811-07",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Berlin",
+  "n_pages": 1,
+  "n_lines": 14,
   "scans": [
    {
     "page": 1,
-    "page_id": "0436_b",
-    "image": "Oe_1_Bu_9454_0436_b-L232_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0437_a1",
-    "image": "Oe_1_Bu_9454_0437_a1-L232_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0437_a2",
-    "image": "Oe_1_Bu_9454_0437_a2-L232_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0438_a",
-    "image": "Oe_1_Bu_9454_0438_a-L232_04.jpg"
+    "page_id": "0156_a2",
+    "image": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg"
    }
   ],
-  "uncertainty_count": 12,
+  "uncertainty_count": 1,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 8,
-  "places_named": 11,
+  "mentions": 1,
+  "places_named": 1,
   "estates": [
-   "trabczyn",
-   "wrabczyn",
-   "swiecia",
-   "olesnica",
-   "skokum",
-   "kopojno"
+   "zagorowo"
   ],
   "translation_status": "untranslated",
   "has_summary": false,
-  "title": "letter 232",
-  "path": "documents/oe1bu9454-232.json",
-  "text_path": "text/oe1bu9454-232.txt",
-  "permalink": "/documents/oe1bu9454/232/"
+  "title": "letter 74b",
+  "path": "documents/oe1bu9454-74b.json",
+  "text_path": "text/oe1bu9454-74b.txt",
+  "permalink": "/documents/oe1bu9454/74b/"
+ },
+ {
+  "uid": "oe1bu9454-215",
+  "unit": "oe1bu9454",
+  "letter_id": "215",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1811-07",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "n_pages": 8,
+  "n_lines": 288,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0401_b",
+    "image": "Oe_1_Bu_9454_0401_b-L215_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0402_a1",
+    "image": "Oe_1_Bu_9454_0402_a1-L215_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0402_a2",
+    "image": "Oe_1_Bu_9454_0402_a2-L215_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0403_a1",
+    "image": "Oe_1_Bu_9454_0403_a1-L215_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0403_a2",
+    "image": "Oe_1_Bu_9454_0403_a2-L215_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0404_a1",
+    "image": "Oe_1_Bu_9454_0404_a1-L215_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0404_a2",
+    "image": "Oe_1_Bu_9454_0404_a2-L215_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0405_a",
+    "image": "Oe_1_Bu_9454_0405_a-L215_08.jpg"
+   }
+  ],
+  "uncertainty_count": 9,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 26,
+  "places_named": 11,
+  "estates": [
+   "trabczyn",
+   "zagorowo",
+   "kamionno",
+   "szetlewek",
+   "betsche",
+   "witow"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 215",
+  "path": "documents/oe1bu9454-215.json",
+  "text_path": "text/oe1bu9454-215.txt",
+  "permalink": "/documents/oe1bu9454/215/"
  },
  {
   "uid": "oe1bu9454-214",
@@ -13848,7 +14122,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1811-07-30",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Berlin",
   "n_pages": 2,
   "n_lines": 86,
@@ -13881,41 +14155,6 @@
   "permalink": "/documents/oe1bu9454/74a/"
  },
  {
-  "uid": "oe1bu9454-74d",
-  "unit": "oe1bu9454",
-  "letter_id": "74d",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1811-08-01",
-  "date_precision": "day",
-  "date_source": "signature",
-  "place": "Berlin",
-  "n_pages": 1,
-  "n_lines": 33,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0158_a",
-    "image": "Oe_1_Bu_9454_0158_a-L74d_01.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 5,
-  "estates": [],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 74d",
-  "path": "documents/oe1bu9454-74d.json",
-  "text_path": "text/oe1bu9454-74d.txt",
-  "permalink": "/documents/oe1bu9454/74d/"
- },
- {
   "uid": "oe1bu9454-74c",
   "unit": "oe1bu9454",
   "letter_id": "74c",
@@ -13924,9 +14163,9 @@
   "era": "hohenlohe",
   "themes": [],
   "repository": "hzan-neuenstein",
-  "date_iso": "1811-08-06",
+  "date_iso": "1811-08-01",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Glogau",
   "n_pages": 1,
   "n_lines": 27,
@@ -13955,6 +14194,41 @@
   "permalink": "/documents/oe1bu9454/74c/"
  },
  {
+  "uid": "oe1bu9454-74d",
+  "unit": "oe1bu9454",
+  "letter_id": "74d",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1811-08-06",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Berlin",
+  "n_pages": 1,
+  "n_lines": 33,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0158_a",
+    "image": "Oe_1_Bu_9454_0158_a-L74d_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 5,
+  "estates": [],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 74d",
+  "path": "documents/oe1bu9454-74d.json",
+  "text_path": "text/oe1bu9454-74d.txt",
+  "permalink": "/documents/oe1bu9454/74d/"
+ },
+ {
   "uid": "oe1bu9454-217",
   "unit": "oe1bu9454",
   "letter_id": "217",
@@ -13966,7 +14240,7 @@
   "date_iso": "1811-08-15",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Berlin",
   "n_pages": 4,
   "n_lines": 84,
   "scans": [
@@ -14209,6 +14483,58 @@
   "permalink": "/documents/oe1bu9454/221/"
  },
  {
+  "uid": "oe1bu9454-224",
+  "unit": "oe1bu9454",
+  "letter_id": "224",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1811-12",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "n_pages": 4,
+  "n_lines": 121,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0423_a2",
+    "image": "Oe_1_Bu_9454_0423_a2-L224_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0424_a1",
+    "image": "Oe_1_Bu_9454_0424_a1-L224_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0424_a2",
+    "image": "Oe_1_Bu_9454_0424_a2-L224_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0425_a",
+    "image": "Oe_1_Bu_9454_0425_a-L224_04.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 7,
+  "estates": [
+   "zagorowo"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 224",
+  "path": "documents/oe1bu9454-224.json",
+  "text_path": "text/oe1bu9454-224.txt",
+  "permalink": "/documents/oe1bu9454/224/"
+ },
+ {
   "uid": "oe1bu9454-222",
   "unit": "oe1bu9454",
   "letter_id": "222",
@@ -14220,7 +14546,7 @@
   "date_iso": "1811-12-01",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Blizanow",
   "n_pages": 4,
   "n_lines": 72,
   "scans": [
@@ -14399,41 +14725,62 @@
   "permalink": "/documents/oe1bu9454/226/"
  },
  {
-  "uid": "oe1bu9454-72d",
+  "uid": "oe1bu9454-230",
   "unit": "oe1bu9454",
-  "letter_id": "72d",
+  "letter_id": "230",
   "doc_type": "letter",
   "language": "de",
   "era": "hohenlohe",
   "themes": [],
   "repository": "hzan-neuenstein",
-  "date_iso": "1812",
-  "date_precision": "year",
-  "date_source": "signature",
-  "place": "Warschau",
-  "n_pages": 1,
-  "n_lines": 13,
+  "date_iso": "1812-01",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "n_pages": 5,
+  "n_lines": 116,
   "scans": [
    {
     "page": 1,
-    "page_id": "0147_a2",
-    "image": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg"
+    "page_id": "0432_a2",
+    "image": "Oe_1_Bu_9454_0432_a2-L230_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0433_a1",
+    "image": "Oe_1_Bu_9454_0433_a1-L230_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0433_a2",
+    "image": "Oe_1_Bu_9454_0433_a2-L230_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0434_a1",
+    "image": "Oe_1_Bu_9454_0434_a1-L230_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0434_a2",
+    "image": "Oe_1_Bu_9454_0434_a2-L230_05.jpg"
    }
   ],
-  "uncertainty_count": 0,
-  "has_damage": false,
+  "uncertainty_count": 3,
+  "has_damage": true,
   "rough_transcription": false,
-  "mentions": 1,
-  "places_named": 2,
+  "mentions": 3,
+  "places_named": 1,
   "estates": [
+   "zagorowo",
    "trabczyn"
   ],
   "translation_status": "untranslated",
   "has_summary": false,
-  "title": "letter 72d",
-  "path": "documents/oe1bu9454-72d.json",
-  "text_path": "text/oe1bu9454-72d.txt",
-  "permalink": "/documents/oe1bu9454/72d/"
+  "title": "letter 230",
+  "path": "documents/oe1bu9454-230.json",
+  "text_path": "text/oe1bu9454-230.txt",
+  "permalink": "/documents/oe1bu9454/230/"
  },
  {
   "uid": "oe1bu9454-227",
@@ -14665,6 +15012,59 @@
   "permalink": "/documents/oe1bu9454/229/"
  },
  {
+  "uid": "oe1bu9454-72",
+  "unit": "oe1bu9454",
+  "letter_id": "72",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1812-02-23",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Unknown",
+  "n_pages": 4,
+  "n_lines": 102,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0140_a",
+    "image": "Oe_1_Bu_9454_0140_a-L72_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0141_a1",
+    "image": "Oe_1_Bu_9454_0141_a1-L72_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0141_a2",
+    "image": "Oe_1_Bu_9454_0141_a2-L72_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0142_a",
+    "image": "Oe_1_Bu_9454_0142_a-L72_04.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 3,
+  "estates": [
+   "zagorowo",
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 72",
+  "path": "documents/oe1bu9454-72.json",
+  "text_path": "text/oe1bu9454-72.txt",
+  "permalink": "/documents/oe1bu9454/72/"
+ },
+ {
   "uid": "oe1bu9454-72a",
   "unit": "oe1bu9454",
   "letter_id": "72a",
@@ -14720,6 +15120,117 @@
   "permalink": "/documents/oe1bu9454/72a/"
  },
  {
+  "uid": "oe1bu9454-72d",
+  "unit": "oe1bu9454",
+  "letter_id": "72d",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1812-03-05",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Warschau",
+  "n_pages": 1,
+  "n_lines": 13,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0147_a2",
+    "image": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 2,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 72d",
+  "path": "documents/oe1bu9454-72d.json",
+  "text_path": "text/oe1bu9454-72d.txt",
+  "permalink": "/documents/oe1bu9454/72d/"
+ },
+ {
+  "uid": "oe1bu9454-72e",
+  "unit": "oe1bu9454",
+  "letter_id": "72e",
+  "doc_type": "letter",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1812-03-05",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Warschau",
+  "n_pages": 1,
+  "n_lines": 17,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0148_a2",
+    "image": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 72e",
+  "path": "documents/oe1bu9454-72e.json",
+  "text_path": "text/oe1bu9454-72e.txt",
+  "permalink": "/documents/oe1bu9454/72e/"
+ },
+ {
+  "uid": "oe1bu9454-72c",
+  "unit": "oe1bu9454",
+  "letter_id": "72c",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1812-03-08",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Kalisz",
+  "n_pages": 1,
+  "n_lines": 20,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0146_b",
+    "image": "Oe_1_Bu_9454_0146_b-L72c_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 72c",
+  "path": "documents/oe1bu9454-72c.json",
+  "text_path": "text/oe1bu9454-72c.txt",
+  "permalink": "/documents/oe1bu9454/72c/"
+ },
+ {
   "uid": "oe1bu9454-72b",
   "unit": "oe1bu9454",
   "letter_id": "72b",
@@ -14730,8 +15241,8 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1812-03-12",
   "date_precision": "day",
-  "date_source": "signature",
-  "place": "Unknown",
+  "date_source": "supplied",
+  "place": "Blizanow",
   "n_pages": 4,
   "n_lines": 75,
   "scans": [
@@ -14776,43 +15287,6 @@
   "permalink": "/documents/oe1bu9454/72b/"
  },
  {
-  "uid": "oe1bu9454-72c",
-  "unit": "oe1bu9454",
-  "letter_id": "72c",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1812-03-12",
-  "date_precision": "day",
-  "date_source": "signature",
-  "place": "Kalisz",
-  "n_pages": 1,
-  "n_lines": 20,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0146_b",
-    "image": "Oe_1_Bu_9454_0146_b-L72c_01.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 1,
-  "places_named": 3,
-  "estates": [
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 72c",
-  "path": "documents/oe1bu9454-72c.json",
-  "text_path": "text/oe1bu9454-72c.txt",
-  "permalink": "/documents/oe1bu9454/72c/"
- },
- {
   "uid": "oe1bu9454-72f",
   "unit": "oe1bu9454",
   "letter_id": "72f",
@@ -14823,7 +15297,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1812-05-22",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Kopojno",
   "n_pages": 4,
   "n_lines": 93,
@@ -14865,6 +15339,63 @@
   "path": "documents/oe1bu9454-72f.json",
   "text_path": "text/oe1bu9454-72f.txt",
   "permalink": "/documents/oe1bu9454/72f/"
+ },
+ {
+  "uid": "oe1bu9454-232",
+  "unit": "oe1bu9454",
+  "letter_id": "232",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1812-06-16",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Kopojno",
+  "n_pages": 4,
+  "n_lines": 92,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0436_b",
+    "image": "Oe_1_Bu_9454_0436_b-L232_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0437_a1",
+    "image": "Oe_1_Bu_9454_0437_a1-L232_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0437_a2",
+    "image": "Oe_1_Bu_9454_0437_a2-L232_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0438_a",
+    "image": "Oe_1_Bu_9454_0438_a-L232_04.jpg"
+   }
+  ],
+  "uncertainty_count": 12,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 8,
+  "places_named": 11,
+  "estates": [
+   "trabczyn",
+   "wrabczyn",
+   "swiecia",
+   "olesnica",
+   "skokum",
+   "kopojno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 232",
+  "path": "documents/oe1bu9454-232.json",
+  "text_path": "text/oe1bu9454-232.txt",
+  "permalink": "/documents/oe1bu9454/232/"
  },
  {
   "uid": "oe1bu9454-17",
@@ -15437,6 +15968,70 @@
   "path": "documents/oe1bu9454-241.json",
   "text_path": "text/oe1bu9454-241.txt",
   "permalink": "/documents/oe1bu9454/241/"
+ },
+ {
+  "uid": "oe1bu9454-254",
+  "unit": "oe1bu9454",
+  "letter_id": "254",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1814-09",
+  "date_precision": "month",
+  "date_source": "supplied",
+  "place": "Wien[?]",
+  "n_pages": 6,
+  "n_lines": 118,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0465_a2",
+    "image": "Oe_1_Bu_9454_0465_a2-L254_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0466_a1",
+    "image": "Oe_1_Bu_9454_0466_a1-L254_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0469_a2",
+    "image": "Oe_1_Bu_9454_0469_a2-L254_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0466_a2",
+    "image": "Oe_1_Bu_9454_0466_a2-L254_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0467_a2",
+    "image": "Oe_1_Bu_9454_0467_a2-L254_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0468_a2",
+    "image": "Oe_1_Bu_9454_0468_a2-L254_06.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 7,
+  "places_named": 6,
+  "estates": [
+   "trabczyn",
+   "kamionno",
+   "koschentin"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 254",
+  "path": "documents/oe1bu9454-254.json",
+  "text_path": "text/oe1bu9454-254.txt",
+  "permalink": "/documents/oe1bu9454/254/"
  },
  {
   "uid": "oe1bu9454-257",
@@ -16129,7 +16724,7 @@
   "date_iso": "1814-12-10",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 77,
   "scans": [
@@ -16178,7 +16773,7 @@
   "date_iso": "1814-12-13",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 58,
   "scans": [
@@ -16229,7 +16824,7 @@
   "date_iso": "1814-12-20",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 74,
   "scans": [
@@ -16322,7 +16917,7 @@
   "date_iso": "1815",
   "date_precision": "year",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 69,
   "scans": [
@@ -16406,14 +17001,14 @@
   "unit": "oe1bu9454",
   "letter_id": "283",
   "doc_type": "letter",
-  "language": "de",
+  "language": "fr",
   "era": "hohenlohe",
   "themes": [],
   "repository": "hzan-neuenstein",
   "date_iso": "1815",
   "date_precision": "year",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 2,
   "n_lines": 24,
   "scans": [
@@ -16504,7 +17099,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1815-01-08",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Schlawenschitz",
   "n_pages": 1,
   "n_lines": 38,
@@ -16628,7 +17223,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1815-01-15",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Schlawenschitz",
   "n_pages": 1,
   "n_lines": 31,
@@ -16667,7 +17262,7 @@
   "date_iso": "1815-01-20",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 78,
   "scans": [
@@ -16716,7 +17311,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1815-01-24",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Wien",
   "n_pages": 1,
   "n_lines": 36,
@@ -16832,46 +17427,6 @@
   "permalink": "/documents/oe1bu9454/269/"
  },
  {
-  "uid": "oe1bu9454-1a",
-  "unit": "oe1bu9454",
-  "letter_id": "1a",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1815-02",
-  "date_precision": "month",
-  "date_source": "signature",
-  "place": "Wien",
-  "n_pages": 1,
-  "n_lines": 25,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0002_a",
-    "image": "Oe_1_Bu_9454_0002_a-L1a_01.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 2,
-  "places_named": 3,
-  "estates": [
-   "schlawenschitz",
-   "lassowitz",
-   "oppurg",
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 1a",
-  "path": "documents/oe1bu9454-1a.json",
-  "text_path": "text/oe1bu9454-1a.txt",
-  "permalink": "/documents/oe1bu9454/1a/"
- },
- {
   "uid": "oe1bu9454-270",
   "unit": "oe1bu9454",
   "letter_id": "270",
@@ -16977,6 +17532,92 @@
   "path": "documents/oe1bu9454-2.json",
   "text_path": "text/oe1bu9454-2.txt",
   "permalink": "/documents/oe1bu9454/2/"
+ },
+ {
+  "uid": "oe1bu9454-3",
+  "unit": "oe1bu9454",
+  "letter_id": "3",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1815-02-09",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Wien[?]",
+  "n_pages": 2,
+  "n_lines": 61,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0004_b",
+    "image": "Oe_1_Bu_9454_0004_b-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0005_a1",
+    "image": "Oe_1_Bu_9454_0005_a1-L3_02.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 2,
+  "estates": [
+   "schlawenschitz",
+   "lassowitz",
+   "oppurg",
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 3",
+  "path": "documents/oe1bu9454-3.json",
+  "text_path": "text/oe1bu9454-3.txt",
+  "permalink": "/documents/oe1bu9454/3/"
+ },
+ {
+  "uid": "oe1bu9454-1a",
+  "unit": "oe1bu9454",
+  "letter_id": "1a",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1815-02-12",
+  "date_precision": "day",
+  "date_source": "supplied",
+  "place": "Wien",
+  "n_pages": 1,
+  "n_lines": 25,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "image": "Oe_1_Bu_9454_0002_a-L1a_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "schlawenschitz",
+   "lassowitz",
+   "oppurg",
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 1a",
+  "path": "documents/oe1bu9454-1a.json",
+  "text_path": "text/oe1bu9454-1a.txt",
+  "permalink": "/documents/oe1bu9454/1a/"
  },
  {
   "uid": "oe1bu9454-271",
@@ -17144,7 +17785,7 @@
   "date_iso": "1815-02-19",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 3,
   "n_lines": 71,
   "scans": [
@@ -17182,6 +17823,51 @@
   "path": "documents/oe1bu9454-15.json",
   "text_path": "text/oe1bu9454-15.txt",
   "permalink": "/documents/oe1bu9454/15/"
+ },
+ {
+  "uid": "oe1bu9454-13",
+  "unit": "oe1bu9454",
+  "letter_id": "13",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1815-02-21",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien[?]",
+  "n_pages": 2,
+  "n_lines": 50,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0021_a",
+    "image": "Oe_1_Bu_9454_0021_a-L13_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0021_b2",
+    "image": "Oe_1_Bu_9454_0021_b2-L13_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 6,
+  "places_named": 3,
+  "estates": [
+   "koschentin",
+   "oppurg",
+   "schlawenschitz",
+   "lassowitz"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 13",
+  "path": "documents/oe1bu9454-13.json",
+  "text_path": "text/oe1bu9454-13.txt",
+  "permalink": "/documents/oe1bu9454/13/"
  },
  {
   "uid": "oe1bu9454-14",
@@ -17312,6 +17998,45 @@
   "permalink": "/documents/oe1bu9454/275/"
  },
  {
+  "uid": "oe1bu9454-8",
+  "unit": "oe1bu9454",
+  "letter_id": "8",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1815-03",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Wien[?]",
+  "n_pages": 1,
+  "n_lines": 28,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0014_a",
+    "image": "Oe_1_Bu_9454_0014_a-L8_01.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 1,
+  "estates": [
+   "schlawenschitz",
+   "lassowitz",
+   "oppurg"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 8",
+  "path": "documents/oe1bu9454-8.json",
+  "text_path": "text/oe1bu9454-8.txt",
+  "permalink": "/documents/oe1bu9454/8/"
+ },
+ {
   "uid": "oe1bu9454-10",
   "unit": "oe1bu9454",
   "letter_id": "10",
@@ -17366,7 +18091,7 @@
   "date_iso": "1815-03-04",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien[?]",
   "n_pages": 1,
   "n_lines": 20,
   "scans": [
@@ -17404,7 +18129,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1815-03-04",
   "date_precision": "day",
-  "date_source": "signature",
+  "date_source": "supplied",
   "place": "Wien",
   "n_pages": 2,
   "n_lines": 64,
@@ -17595,7 +18320,7 @@
   "date_iso": "1815-03-18",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Wien",
+  "place": "Wien[?]",
   "n_pages": 2,
   "n_lines": 53,
   "scans": [
@@ -17777,7 +18502,7 @@
   "date_iso": "1815-03-27",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 4,
   "n_lines": 108,
   "scans": [
@@ -17873,7 +18598,7 @@
   "date_iso": "1815-03-31",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 4,
   "n_lines": 126,
   "scans": [
@@ -18167,7 +18892,7 @@
   "date_iso": "1815-05-20",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Unknown",
+  "place": "Wien",
   "n_pages": 2,
   "n_lines": 44,
   "scans": [
@@ -18402,7 +19127,7 @@
   "date_iso": "1815-12-08",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Grevenitz",
+  "place": "Berlin",
   "n_pages": 2,
   "n_lines": 43,
   "scans": [
@@ -18758,91 +19483,6 @@
   "permalink": "/documents/oe1bu14526/1/"
  },
  {
-  "uid": "oe1bu9454-3",
-  "unit": "oe1bu9454",
-  "letter_id": "3",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 2,
-  "n_lines": 61,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0004_b",
-    "image": "Oe_1_Bu_9454_0004_b-L3_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0005_a1",
-    "image": "Oe_1_Bu_9454_0005_a1-L3_02.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 2,
-  "estates": [
-   "schlawenschitz",
-   "lassowitz",
-   "oppurg",
-   "trabczyn",
-   "kamionno"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 3",
-  "path": "documents/oe1bu9454-3.json",
-  "text_path": "text/oe1bu9454-3.txt",
-  "permalink": "/documents/oe1bu9454/3/"
- },
- {
-  "uid": "oe1bu9454-8",
-  "unit": "oe1bu9454",
-  "letter_id": "8",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 1,
-  "n_lines": 28,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0014_a",
-    "image": "Oe_1_Bu_9454_0014_a-L8_01.jpg"
-   }
-  ],
-  "uncertainty_count": 3,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 1,
-  "estates": [
-   "schlawenschitz",
-   "lassowitz",
-   "oppurg"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 8",
-  "path": "documents/oe1bu9454-8.json",
-  "text_path": "text/oe1bu9454-8.txt",
-  "permalink": "/documents/oe1bu9454/8/"
- },
- {
   "uid": "oe1bu9454-9",
   "unit": "oe1bu9454",
   "letter_id": "9",
@@ -18876,646 +19516,6 @@
   "path": "documents/oe1bu9454-9.json",
   "text_path": "text/oe1bu9454-9.txt",
   "permalink": "/documents/oe1bu9454/9/"
- },
- {
-  "uid": "oe1bu9454-47",
-  "unit": "oe1bu9454",
-  "letter_id": "47",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 5,
-  "n_lines": 133,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0089_b",
-    "image": "Oe_1_Bu_9454_0089_b-L47_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0090_a1",
-    "image": "Oe_1_Bu_9454_0090_a1-L47_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0090_a2",
-    "image": "Oe_1_Bu_9454_0090_a2-L47_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0091_a",
-    "image": "Oe_1_Bu_9454_0091_a-L47_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0091_b",
-    "image": "Oe_1_Bu_9454_0091_b-L47_05.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 11,
-  "places_named": 9,
-  "estates": [
-   "zagorowo",
-   "olesnica",
-   "augustinow",
-   "drzewce",
-   "kontop"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 47",
-  "path": "documents/oe1bu9454-47.json",
-  "text_path": "text/oe1bu9454-47.txt",
-  "permalink": "/documents/oe1bu9454/47/"
- },
- {
-  "uid": "oe1bu9454-62",
-  "unit": "oe1bu9454",
-  "letter_id": "62",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 1,
-  "n_lines": 22,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0117_b",
-    "image": "Oe_1_Bu_9454_0117_b-L62_01.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 1,
-  "places_named": 2,
-  "estates": [
-   "koschentin",
-   "schlawenschitz",
-   "lassowitz",
-   "oppurg",
-   "trabczyn",
-   "kamionno"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 62",
-  "path": "documents/oe1bu9454-62.json",
-  "text_path": "text/oe1bu9454-62.txt",
-  "permalink": "/documents/oe1bu9454/62/"
- },
- {
-  "uid": "oe1bu9454-63",
-  "unit": "oe1bu9454",
-  "letter_id": "63",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 4,
-  "n_lines": 87,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0118_a",
-    "image": "Oe_1_Bu_9454_0118_a-L63_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0119_a1",
-    "image": "Oe_1_Bu_9454_0119_a1-L63_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0119_a2",
-    "image": "Oe_1_Bu_9454_0119_a2-L63_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0120_a",
-    "image": "Oe_1_Bu_9454_0120_a-L63_04.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 8,
-  "places_named": 8,
-  "estates": [
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 63",
-  "path": "documents/oe1bu9454-63.json",
-  "text_path": "text/oe1bu9454-63.txt",
-  "permalink": "/documents/oe1bu9454/63/"
- },
- {
-  "uid": "oe1bu9454-72",
-  "unit": "oe1bu9454",
-  "letter_id": "72",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 4,
-  "n_lines": 102,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0140_a",
-    "image": "Oe_1_Bu_9454_0140_a-L72_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0141_a1",
-    "image": "Oe_1_Bu_9454_0141_a1-L72_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0141_a2",
-    "image": "Oe_1_Bu_9454_0141_a2-L72_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0142_a",
-    "image": "Oe_1_Bu_9454_0142_a-L72_04.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 3,
-  "estates": [
-   "zagorowo",
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 72",
-  "path": "documents/oe1bu9454-72.json",
-  "text_path": "text/oe1bu9454-72.txt",
-  "permalink": "/documents/oe1bu9454/72/"
- },
- {
-  "uid": "oe1bu9454-72e",
-  "unit": "oe1bu9454",
-  "letter_id": "72e",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Warszawie",
-  "n_pages": 1,
-  "n_lines": 17,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0148_a2",
-    "image": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 1,
-  "places_named": 1,
-  "estates": [
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 72e",
-  "path": "documents/oe1bu9454-72e.json",
-  "text_path": "text/oe1bu9454-72e.txt",
-  "permalink": "/documents/oe1bu9454/72e/"
- },
- {
-  "uid": "oe1bu9454-74b",
-  "unit": "oe1bu9454",
-  "letter_id": "74b",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 1,
-  "n_lines": 14,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0156_a2",
-    "image": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 1,
-  "places_named": 1,
-  "estates": [
-   "zagorowo"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 74b",
-  "path": "documents/oe1bu9454-74b.json",
-  "text_path": "text/oe1bu9454-74b.txt",
-  "permalink": "/documents/oe1bu9454/74b/"
- },
- {
-  "uid": "oe1bu9454-173",
-  "unit": "oe1bu9454",
-  "letter_id": "173",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 4,
-  "n_lines": 89,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0323_b",
-    "image": "Oe_1_Bu_9454_0323_b-L173_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0324_a1",
-    "image": "Oe_1_Bu_9454_0324_a1-L173_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0324_a2",
-    "image": "Oe_1_Bu_9454_0324_a2-L173_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0325_a",
-    "image": "Oe_1_Bu_9454_0325_a-L173_04.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 10,
-  "places_named": 4,
-  "estates": [
-   "witow",
-   "trabczyn",
-   "szetlewek",
-   "olesnica"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 173",
-  "path": "documents/oe1bu9454-173.json",
-  "text_path": "text/oe1bu9454-173.txt",
-  "permalink": "/documents/oe1bu9454/173/"
- },
- {
-  "uid": "oe1bu9454-183",
-  "unit": "oe1bu9454",
-  "letter_id": "183",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 1,
-  "n_lines": 15,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0349_b",
-    "image": "Oe_1_Bu_9454_0349_b-L183_01.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 0,
-  "estates": [],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 183",
-  "path": "documents/oe1bu9454-183.json",
-  "text_path": "text/oe1bu9454-183.txt",
-  "permalink": "/documents/oe1bu9454/183/"
- },
- {
-  "uid": "oe1bu9454-202",
-  "unit": "oe1bu9454",
-  "letter_id": "202",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 1,
-  "n_lines": 36,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0381_a",
-    "image": "Oe_1_Bu_9454_0381_a-L202_01.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 2,
-  "estates": [
-   "zagorowo"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 202",
-  "path": "documents/oe1bu9454-202.json",
-  "text_path": "text/oe1bu9454-202.txt",
-  "permalink": "/documents/oe1bu9454/202/"
- },
- {
-  "uid": "oe1bu9454-215",
-  "unit": "oe1bu9454",
-  "letter_id": "215",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 8,
-  "n_lines": 288,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0401_b",
-    "image": "Oe_1_Bu_9454_0401_b-L215_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0402_a1",
-    "image": "Oe_1_Bu_9454_0402_a1-L215_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0402_a2",
-    "image": "Oe_1_Bu_9454_0402_a2-L215_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0403_a1",
-    "image": "Oe_1_Bu_9454_0403_a1-L215_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0403_a2",
-    "image": "Oe_1_Bu_9454_0403_a2-L215_05.jpg"
-   },
-   {
-    "page": 6,
-    "page_id": "0404_a1",
-    "image": "Oe_1_Bu_9454_0404_a1-L215_06.jpg"
-   },
-   {
-    "page": 7,
-    "page_id": "0404_a2",
-    "image": "Oe_1_Bu_9454_0404_a2-L215_07.jpg"
-   },
-   {
-    "page": 8,
-    "page_id": "0405_a",
-    "image": "Oe_1_Bu_9454_0405_a-L215_08.jpg"
-   }
-  ],
-  "uncertainty_count": 9,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 26,
-  "places_named": 11,
-  "estates": [
-   "trabczyn",
-   "zagorowo",
-   "kamionno",
-   "szetlewek",
-   "betsche",
-   "witow"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 215",
-  "path": "documents/oe1bu9454-215.json",
-  "text_path": "text/oe1bu9454-215.txt",
-  "permalink": "/documents/oe1bu9454/215/"
- },
- {
-  "uid": "oe1bu9454-224",
-  "unit": "oe1bu9454",
-  "letter_id": "224",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 4,
-  "n_lines": 121,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0423_a2",
-    "image": "Oe_1_Bu_9454_0423_a2-L224_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0424_a1",
-    "image": "Oe_1_Bu_9454_0424_a1-L224_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0424_a2",
-    "image": "Oe_1_Bu_9454_0424_a2-L224_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0425_a",
-    "image": "Oe_1_Bu_9454_0425_a-L224_04.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 7,
-  "estates": [
-   "zagorowo"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 224",
-  "path": "documents/oe1bu9454-224.json",
-  "text_path": "text/oe1bu9454-224.txt",
-  "permalink": "/documents/oe1bu9454/224/"
- },
- {
-  "uid": "oe1bu9454-230",
-  "unit": "oe1bu9454",
-  "letter_id": "230",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 5,
-  "n_lines": 116,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0432_a2",
-    "image": "Oe_1_Bu_9454_0432_a2-L230_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0433_a1",
-    "image": "Oe_1_Bu_9454_0433_a1-L230_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0433_a2",
-    "image": "Oe_1_Bu_9454_0433_a2-L230_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0434_a1",
-    "image": "Oe_1_Bu_9454_0434_a1-L230_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0434_a2",
-    "image": "Oe_1_Bu_9454_0434_a2-L230_05.jpg"
-   }
-  ],
-  "uncertainty_count": 3,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 1,
-  "estates": [
-   "zagorowo",
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 230",
-  "path": "documents/oe1bu9454-230.json",
-  "text_path": "text/oe1bu9454-230.txt",
-  "permalink": "/documents/oe1bu9454/230/"
- },
- {
-  "uid": "oe1bu9454-302",
-  "unit": "oe1bu9454",
-  "letter_id": "302",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "n_pages": 2,
-  "n_lines": 65,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0540_a",
-    "image": "Oe_1_Bu_9454_0540_a-L302_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0541_a",
-    "image": "Oe_1_Bu_9454_0541_a-L302_02.jpg"
-   }
-  ],
-  "uncertainty_count": 3,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 8,
-  "places_named": 8,
-  "estates": [
-   "zagorowo",
-   "trabczyn",
-   "olesnica"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 302",
-  "path": "documents/oe1bu9454-302.json",
-  "text_path": "text/oe1bu9454-302.txt",
-  "permalink": "/documents/oe1bu9454/302/"
  },
  {
   "uid": "oe1bu9454-303",

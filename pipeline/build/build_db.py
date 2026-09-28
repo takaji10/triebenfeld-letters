@@ -243,6 +243,9 @@ def resolve_place(letter_id, body):
     raw, how = extract_place(body)
     if not raw:
         return '', how
+    # An editor's expansion in brackets (Bre[slau], Berl[in]) is part of the
+    # name, not a different place.
+    raw = re.sub(r'[\[\]]', '', raw)
     key = raw.lower().strip(' .')
     if key in PLACE_REJECT:
         return '', 'unreadable: ' + raw

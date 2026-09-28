@@ -17,7 +17,7 @@
  "year": 1815,
  "month": "",
  "day": "",
- "place": "",
+ "place": "Wien",
  "sender": "",
  "recipient": "",
  "line_start": 287,
@@ -247,7 +247,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Wien",
  "place_mentions": [
   {
    "entity": "frankreich",

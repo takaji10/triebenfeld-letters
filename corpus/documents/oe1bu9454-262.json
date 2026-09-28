@@ -17,7 +17,7 @@
  "year": 1814,
  "month": 12,
  "day": 20,
- "place": "",
+ "place": "Wien",
  "sender": "",
  "recipient": "",
  "line_start": 18551,
@@ -271,7 +271,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Wien",
  "place_mentions": [
   {
    "entity": "berlin",

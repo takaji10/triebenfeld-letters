@@ -17,7 +17,7 @@
  "year": 1804,
  "month": 5,
  "day": 23,
- "place": "Frankfurth a/d O",
+ "place": "Frankfurt an der Oder",
  "sender": "",
  "recipient": "",
  "line_start": 9382,
@@ -151,7 +151,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Frankfurth a/d O",
+ "place_canonical": "Frankfurt an der Oder",
  "place_mentions": [
   {
    "entity": "breslau",

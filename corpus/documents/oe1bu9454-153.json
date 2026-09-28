@@ -17,7 +17,7 @@
  "year": 1805,
  "month": 1,
  "day": 12,
- "place": "",
+ "place": "Berlin[?]",
  "sender": "",
  "recipient": "",
  "line_start": 10929,
@@ -83,7 +83,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Berlin[?]",
  "place_mentions": [
   {
    "entity": "potsdam",

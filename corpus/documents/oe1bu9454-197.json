@@ -17,7 +17,7 @@
  "year": 1810,
  "month": 5,
  "day": 31,
- "place": "",
+ "place": "Ollaboch",
  "sender": "",
  "recipient": "",
  "line_start": 14135,
@@ -213,7 +213,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Ollaboch",
  "place_mentions": [
   {
    "entity": "berlin",

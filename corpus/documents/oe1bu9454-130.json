@@ -17,9 +17,9 @@
  "year": 1804,
  "month": 5,
  "day": 17,
- "place": "Fr[ankfurt] a. d. Oder",
- "sender": "",
- "recipient": "",
+ "place": "Frankfurt a. d. Oder",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 9305,
  "line_end": 9344,
  "uncertainty_count": 0,
@@ -183,7 +183,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Fr[ankfurt] a. d. Oder",
+ "place_canonical": "Frankfurt a. d. Oder",
  "place_mentions": [
   {
    "entity": "betsche",

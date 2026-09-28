@@ -17,9 +17,9 @@
  "year": 1810,
  "month": 5,
  "day": 25,
- "place": "Schwarzwald bey Miedzibor[?]",
- "sender": "",
- "recipient": "",
+ "place": "Schwarzwald bey Miedzibor?",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 14064,
  "line_end": 14134,
  "uncertainty_count": 2,
@@ -248,7 +248,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Schwarzwald bey Miedzibor[?]",
+ "place_canonical": "Schwarzwald bey Miedzibor?",
  "place_mentions": [
   {
    "entity": "breslau",

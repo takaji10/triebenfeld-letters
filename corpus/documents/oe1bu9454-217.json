@@ -17,9 +17,9 @@
  "year": 1811,
  "month": 8,
  "day": 15,
- "place": "",
- "sender": "",
- "recipient": "",
+ "place": "Berlin",
+ "sender": "von Sanitz",
+ "recipient": "von Triebenfeld",
  "line_start": 15588,
  "line_end": 15676,
  "uncertainty_count": 2,
@@ -156,7 +156,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "posen",

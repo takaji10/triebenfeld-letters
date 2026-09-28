@@ -17,9 +17,9 @@
  "year": 1809,
  "month": 12,
  "day": 16,
- "place": "",
- "sender": "",
- "recipient": "",
+ "place": "Kontop",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 5085,
  "line_end": 5207,
  "uncertainty_count": 2,
@@ -341,7 +341,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Kontop",
  "place_mentions": [
   {
    "entity": "berlin",

@@ -17,9 +17,9 @@
  "year": 1799,
  "month": 1,
  "day": "",
- "place": "Berlin den [?]ten",
- "sender": "",
- "recipient": "",
+ "place": "Berlin",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 7561,
  "line_end": 7609,
  "uncertainty_count": 1,
@@ -154,7 +154,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Berlin den [?]ten",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "berlin",

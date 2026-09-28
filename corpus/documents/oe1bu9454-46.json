@@ -17,7 +17,7 @@
  "year": 1809,
  "month": 3,
  "day": 2,
- "place": "Berl[in]",
+ "place": "Berlin",
  "sender": "",
  "recipient": "",
  "line_start": 3446,
@@ -104,7 +104,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Berl[in]",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "kontop",

@@ -17,7 +17,7 @@
  "year": 1806,
  "month": 8,
  "day": 12,
- "place": "",
+ "place": "Trąbczyn",
  "sender": "",
  "recipient": "",
  "line_start": 13848,
@@ -210,7 +210,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
    "entity": "berlin",

@@ -17,9 +17,9 @@
  "year": 1815,
  "month": 3,
  "day": 18,
- "place": "Wien",
- "sender": "",
- "recipient": "",
+ "place": "Wien[?]",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 19733,
  "line_end": 19788,
  "uncertainty_count": 3,
@@ -267,7 +267,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Wien",
+ "place_canonical": "Wien[?]",
  "place_mentions": [
   {
    "entity": "kirchberg",

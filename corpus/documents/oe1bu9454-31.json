@@ -17,9 +17,9 @@
  "year": 1808,
  "month": 4,
  "day": 3,
- "place": "",
- "sender": "",
- "recipient": "",
+ "place": "Berlin",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 2036,
  "line_end": 2167,
  "uncertainty_count": 4,
@@ -524,7 +524,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "wien",

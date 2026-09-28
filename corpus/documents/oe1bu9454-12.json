@@ -17,9 +17,9 @@
  "year": 1815,
  "month": 3,
  "day": 4,
- "place": "",
- "sender": "",
- "recipient": "",
+ "place": "Wien[?]",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 663,
  "line_end": 684,
  "uncertainty_count": 0,
@@ -95,7 +95,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Wien[?]",
  "place_mentions": [
   {
    "entity": "oehringen",

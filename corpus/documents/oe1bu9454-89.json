@@ -17,9 +17,9 @@
  "year": 1798,
  "month": 12,
  "day": 12,
- "place": "Berlin",
- "sender": "",
- "recipient": "",
+ "place": "Berlin?",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 7071,
  "line_end": 7244,
  "uncertainty_count": 3,
@@ -367,7 +367,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Berlin",
+ "place_canonical": "Berlin?",
  "place_mentions": [
   {
    "entity": "krotoszyn",

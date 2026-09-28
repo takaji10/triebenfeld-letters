@@ -17,7 +17,7 @@
  "year": 1798,
  "month": 12,
  "day": 18,
- "place": "",
+ "place": "Berlin",
  "sender": "",
  "recipient": "",
  "line_start": 7305,
@@ -96,7 +96,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "berlin",

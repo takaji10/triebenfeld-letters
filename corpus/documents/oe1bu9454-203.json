@@ -17,7 +17,7 @@
  "year": 1810,
  "month": 8,
  "day": 2,
- "place": "",
+ "place": "Schweinern",
  "sender": "",
  "recipient": "",
  "line_start": 14436,
@@ -348,7 +348,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Schweinern",
  "place_mentions": [
   {
    "entity": "zagorowo",

@@ -290,7 +290,12 @@ def main():
                 people_index[slug].append(r['uid'])
         r['_people'] = found
         p = PLACE_CANON.get(r['place'], r['place'])
-        p = PLACE_LABEL.get((p or '').strip().lower(), p)
+        _lab = PLACE_LABEL.get((p or '').strip().lower())
+        if not _lab and p:
+            # a dateline form the authority does not list verbatim
+            # (Frankfurth a.d. Oder): the place whose pattern it opens with
+            _lab = next((disp for _s, disp, rx in PLACES_RE if rx.match(p)), None)
+        p = _lab or p
         # Letters that name no place of writing are grouped under "Unknown"
         # rather than dropped. Many of these genuinely never say where they were
         # written, and silently omitting them made the places list look complete

@@ -17,7 +17,7 @@
  "year": 1804,
  "month": 5,
  "day": 22,
- "place": "Ber[lin]",
+ "place": "Berlin",
  "sender": "",
  "recipient": "",
  "line_start": 9709,
@@ -293,7 +293,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Ber[lin]",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "kamionno",

@@ -17,7 +17,7 @@
  "year": 1815,
  "month": 3,
  "day": 31,
- "place": "",
+ "place": "Wien",
  "sender": "",
  "recipient": "",
  "line_start": 20197,
@@ -556,7 +556,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Wien",
  "place_mentions": [
   {
    "entity": "prag",

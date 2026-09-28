@@ -17,9 +17,9 @@
  "year": 1815,
  "month": 12,
  "day": 8,
- "place": "Grevenitz",
- "sender": "",
- "recipient": "",
+ "place": "Berlin",
+ "sender": "Grevenitz",
+ "recipient": "von Triebenfeld",
  "line_start": 20920,
  "line_end": 20965,
  "uncertainty_count": 3,
@@ -119,7 +119,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Grevenitz",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "berlin",

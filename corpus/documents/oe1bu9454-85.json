@@ -17,7 +17,7 @@
  "year": 1798,
  "month": 12,
  "day": 4,
- "place": "",
+ "place": "Berlin",
  "sender": "",
  "recipient": "",
  "line_start": 6787,
@@ -125,7 +125,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "krotoszyn",

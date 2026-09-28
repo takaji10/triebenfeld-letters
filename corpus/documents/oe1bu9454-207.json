@@ -17,7 +17,7 @@
  "year": 1810,
  "month": 9,
  "day": 30,
- "place": "",
+ "place": "Kalisz",
  "sender": "",
  "recipient": "",
  "line_start": 14672,
@@ -118,7 +118,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Kalisz",
  "place_mentions": [
   {
    "entity": "kalisz",

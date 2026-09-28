@@ -17,9 +17,9 @@
  "year": 1804,
  "month": 5,
  "day": 26,
- "place": "Berl[in]",
- "sender": "",
- "recipient": "",
+ "place": "Berlin",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 9547,
  "line_end": 9708,
  "uncertainty_count": 1,
@@ -468,7 +468,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Berl[in]",
+ "place_canonical": "Berlin",
  "place_mentions": [
   {
    "entity": "frankfurt-an-der-oder",

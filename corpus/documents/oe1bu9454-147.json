@@ -17,9 +17,9 @@
  "year": 1804,
  "month": 11,
  "day": 25,
- "place": "",
- "sender": "",
- "recipient": "",
+ "place": "Trąbczyn",
+ "sender": "Glenck",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 10645,
  "line_end": 10711,
  "uncertainty_count": 0,
@@ -196,7 +196,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
    "entity": "breslau",

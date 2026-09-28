@@ -17,9 +17,9 @@
  "year": 1810,
  "month": 6,
  "day": 8,
- "place": "Kąntwicz[?]",
- "sender": "",
- "recipient": "",
+ "place": "Kąntwicz?",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 14184,
  "line_end": 14275,
  "uncertainty_count": 2,
@@ -488,7 +488,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Kąntwicz[?]",
+ "place_canonical": "Kąntwicz?",
  "place_mentions": [
   {
    "entity": "trabczyn",

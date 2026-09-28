@@ -17,7 +17,7 @@
  "year": 1798,
  "month": 10,
  "day": 6,
- "place": "Berlin",
+ "place": "Berlin?",
  "sender": "",
  "recipient": "",
  "line_start": 6391,
@@ -212,7 +212,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Berlin",
+ "place_canonical": "Berlin?",
  "place_mentions": [
   {
    "entity": "breslau",

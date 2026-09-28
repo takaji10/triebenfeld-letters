@@ -17,7 +17,7 @@
  "year": 1808,
  "month": 3,
  "day": 13,
- "place": "Öhringen 13",
+ "place": "Öhringen[?]",
  "sender": "",
  "recipient": "",
  "line_start": 2510,
@@ -287,7 +287,7 @@
   }
  ],
  "mentions_english": [],
- "place_canonical": "Öhringen 13",
+ "place_canonical": "Öhringen[?]",
  "place_mentions": [
   {
    "entity": "berlin",
