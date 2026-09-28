@@ -67,8 +67,8 @@
 5,557,run,held,short_line,0.59,24,41,Auditeur des Hochfürstl.,v Hohenlohische Inf. Regts
 6,561,run,held,short_line,0.48,22,46,Wir Friedrich Willhelm,von Gottes Gnaden König von Preussen pp.
 6,578,break,high,rubric+short_line,0.2,9,46,nehmlich.,"1.) zu Betsche, die Ortschaften Stalien(7), Kalligo(8)"
-6,582,break,high,rubric+short_line,0.33,15,46,und Heydemühle.,"2.) zu Zagorow, des Dörfchen Swięcin und endlich"
-6,583,break,high,rubric,1.05,48,46,"2.) zu Zagorow, des Dörfchen Swięcin und endlich","3.) bey Wienietz, Konty Szedlemin, Botkow, und"
+6,582,break,high,rubric+short_line,0.33,15,46,und Heydemühle.,"2.) zu Zagorowo, des Dörfchen Swięcin und endlich"
+6,583,break,high,rubric,1.07,49,46,"2.) zu Zagorowo, des Dörfchen Swięcin und endlich","3.) bey Wienietz, Konty Szedlemin, Botkow, und"
 6,585,run,held,short_line+column,0.22,10,46,Karezin[?],gegen Erlegung.
 6,586,break,high,rubric+short_line,0.33,15,46,gegen Erlegung.,"1.) der von gedachten Ortschaften, Hauländereyen"
 6,591,break,high,rubric,0.65,31,48,"und unabänderlichen Canons, und","2.) der den geistlichen Korporationen, und Stiftun¬"
@@ -97,7 +97,7 @@
 7,796,run,held,short_line+column,0.68,21,31,Fürsten von Hohenlohe,Hoym. Reck
 7,797,run,held,short_line+column,0.32,10,31,Hoym. Reck,Ingelfingen zum Erb¬
 7,799,run,held,short_line,0.61,19,31,und eigenthümlichen,besitze der zu den Güthern
-7,801,run,held,short_line+column,0.52,16,31,"Betsche, Zagorow",und Wienietz gehörigen
+7,801,run,held,short_line+column,0.55,17,31,"Betsche, Zagorowo",und Wienietz gehörigen
 7,802,run,held,short_line+column,0.71,22,31,und Wienietz gehörigen,Pertinenz=Stücke.
 7,803,break,high,short_line,0.55,17,31,Pertinenz=Stücke.,Urkundlich ist diese beglaubte Abschrift Be¬
 7,814,break,high,short_line+column,0.26,7,27,(L. S.),Schultz
@@ -150,22 +150,22 @@
 10,1107,break,high,rubric,0.83,48,58,"als eines bestimmten und unabänderl. Canons, und",2) der den Geistl. Corporationen oder Stiftungen daraus
 10,1109,run,held,short_line,0.38,22,58,"gebührenden Competenz,","Erb- und Eigenthümlich zu überlaßen, zu verleihen und zu"
 10,1111,break,high,short_line,0.19,11,58,übereignen.,Wir thun auch solches hiermit und in Kraft dieses aus Kö[niglicher]
-10,1148,break,high,short_line,0.22,8,36,Ahndung.,"des zur Urkunde pp. gegeben Berlin, den 19. Juni, 1797."
-10,1150,break,high,short_line+column,0.47,17,36,Friedrich Wilhelm,Verleihungs Urkunde
-10,1151,run,held,short_line,0.53,19,36,Verleihungs Urkunde,für den Reg. Fürsten zu Hohenlohe Ingelfingen
-10,1158,break,high,short_line,0.22,8,36,Zubehör.,Daß vor- und umstehende Abschrift mit den Original der
-10,1164,break,high,short_line,0.33,12,36,cember 1800.,Richter
-10,1165,run,held,short_line+column,0.19,7,36,Richter,Gouvernements und
-10,1166,run,held,short_line+column,0.47,17,36,Gouvernements und,Garnison Auditeur
-11,1170,run,held,short_line,0.47,22,47,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen p.
-11,1184,run,held,rubric,1.0,47,47,"nen, denenselben durch die Urkunde vom 19. Juny","d. J. bereits verliehenen Gütern: Betschen,"
-11,1187,break,high,rubric+short_line,0.26,12,47,"ke, nehmlich","1. zu Betschen, die Ortschaften Stalun, Kulligowo,"
-11,1191,break,high,rubric+short_line,0.3,14,47,und Heidemühle,"2. zu Zagorow, das Dörfchen Swięcin und endlich"
-11,1192,break,high,rubric,1.0,47,47,"2. zu Zagorow, das Dörfchen Swięcin und endlich","3. bey Wienietz, Konty, Szedlemin, Botkowo und"
-11,1194,run,held,short_line+column,0.15,7,47,Karczin,gegen Erlegung:
-11,1195,break,high,rubric+short_line,0.32,15,47,gegen Erlegung:,"1. der von gedachten Ortschaften, Hausländereyen"
-11,1200,break,high,rubric,0.7,31,44,und unabänderlichen Canons; und,2. der den geistlichen Korporationen und Stif¬
-11,1204,break,high,short_line,0.4,18,44,und zu übereignen.,Wir thun auch solches hiermit und in Kraft die
+10,1148,break,high,short_line,0.22,8,37,Ahndung.,"des zur Urkunde pp. gegeben Berlin, den 19. Juni, 1797."
+10,1150,break,high,short_line+column,0.46,17,37,Friedrich Wilhelm,Verleihungs Urkunde
+10,1151,run,held,short_line,0.51,19,37,Verleihungs Urkunde,für den Reg. Fürsten zu Hohenlohe Ingelfingen
+10,1158,break,high,short_line,0.22,8,37,Zubehör.,Daß vor- und umstehende Abschrift mit den Original der
+10,1164,break,high,short_line,0.32,12,37,cember 1800.,Richter
+10,1165,run,held,short_line+column,0.19,7,37,Richter,Gouvernements und
+10,1166,run,held,short_line+column,0.46,17,37,Gouvernements und,Garnison Auditeur
+11,1170,run,held,short_line,0.46,22,48,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen p.
+11,1184,run,held,rubric,0.99,47,48,"nen, denenselben durch die Urkunde vom 19. Juny","d. J. bereits verliehenen Gütern: Betschen,"
+11,1187,break,high,rubric+short_line,0.25,12,48,"ke, nehmlich","1. zu Betschen, die Ortschaften Stalun, Kulligowo,"
+11,1191,break,high,rubric+short_line,0.29,14,48,und Heidemühle,"2. zu Zagorowo, das Dörfchen Swięcin und endlich"
+11,1192,break,high,rubric,1.01,48,48,"2. zu Zagorowo, das Dörfchen Swięcin und endlich","3. bey Wienietz, Konty, Szedlemin, Botkowo und"
+11,1194,run,held,short_line+column,0.15,7,48,Karczin,gegen Erlegung:
+11,1195,break,high,rubric+short_line,0.32,15,48,gegen Erlegung:,"1. der von gedachten Ortschaften, Hausländereyen"
+11,1200,break,high,rubric,0.69,31,45,und unabänderlichen Canons; und,2. der den geistlichen Korporationen und Stif¬
+11,1204,break,high,short_line,0.4,18,45,und zu übereignen.,Wir thun auch solches hiermit und in Kraft die
 11,1251,break,high,short_line,0.62,28,46,Berlin den 1. Decembr. 1797.,Friedrich Wilhelm
 11,1252,break,high,short_line+column,0.37,17,46,Friedrich Wilhelm,Verleihungs Urkunde
 11,1253,run,held,short_line,0.42,19,46,Verleihungs Urkunde,für den regierenden Fürsten v. Hohenlohe
@@ -242,7 +242,7 @@
 17,2174,run,held,short_line+column,0.1,4,40,John,Ingrossator
 18,2203,run,held,short_line,0.04,1,24,d,J. bereits verliehenen
 18,2208,break,high,rubric+short_line,0.33,8,24,nehmlich,"1.) zu Betschen, die Ort¬"
-18,2216,break,high,rubric+short_line,0.54,14,26,und Heydemühle,2.) zu Zagorow das Dörfchen
+18,2216,break,high,rubric+short_line,0.54,14,26,und Heydemühle,2.) zu Zagorowo das Dörfchen
 18,2218,break,high,rubric,0.77,20,26,"Swięcin, und endlich","3. bey Wienietz, Konty, Szedle¬"
 18,2221,break,high,rubric+short_line,0.54,14,26,gegen Erlegung,1.) der von gedachten Ort¬
 18,2228,break,high,rubric+short_line,0.35,9,26,"nons, und",2.) der den geistlichen Corpo¬
