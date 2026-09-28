@@ -406,16 +406,12 @@ people:
     match: "Neumann"
     tier: ""
     variants: []
-  niedzewiecki:
-    display: "Niedzewiecki"
-    match: "Niedzew"
-    tier: "Context-inferred"
+  niedzwiecki:
+    display: "Maciej Niedźwiecki"
+    match: 'Nied(?:ź|z)(?:wieck|wiedzk|widzk|iewieck|ewieck)\w*'
+    tier: "Text-confirmed"
     variants: []
-  niedzwiedzki:
-    display: "Niedzwiedzki"
-    match: "Niedzwidzki|Niedzwiecki|Niedzwied(?![a-zà-ÿ])|Niedzwiedzki"
-    tier: ""
-    variants: ["Niedzwidzki", "Niedzwiecki", "Niedzwied"]
+    identity: "Lessee of Kopojno and holder of the Propination (lease of 17 Aug 1805, 14526 letter 9). Signs Maciey Niedzwiecki; the clerk wrote Niedzwiedzki, the 9454 transcription Niedziewiecki. Standardised to Niedźwiecki on the editor's ruling, 2026-09-28."
   ogrodowicz:
     display: "Ogrodowicz"
     match: "Ogrodowicz"
@@ -1052,4 +1048,10 @@ people:
     match: 'Brzech(?:ff|f|w|ſt|st|t)a\w*'
     tier: "Context-inferred"
     variants: []
-    identity: "B. Brzechffa, Podprefect, friend and 'brother' of Triebenfeld (letters 72d, 72e, and throughout 1808-1815). The family Brzechwa vel Brzechffa, herb Jastrzębiec. The transcription read Brzechsta; his signatures read Brzechfa (72d) and Brzechffa (72e). Standardised 2026-09-28 on the editor's ruling."
+    identity: "B. Brzechffa, Podprefect, friend and 'brother' of Triebenfeld (letters 72d, 72e, and throughout 1808-1815). The family Brzechwa vel Brzechffa, herb Jastrzębiec. Podprefekt of the Konin district: a letter of 14 May 1809 from 'pod prefekt pow. konińskiego Brzechffa' to Różnowski, podprefekt of Pyzdry (BUW rkp. 210, t. XVII, cited in Kaliski wysiłek zbrojny 1806-1813), which also confirms the spelling. The transcription read Brzechsta; his signatures read Brzechfa (72d) and Brzechffa (72e). Standardised 2026-09-28 on the editor's ruling."
+  bertrand:
+    display: "General Bertrand"
+    match: 'Bertrand(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Henri-Gatien Bertrand, Napoleon's Grand Marshal of the Palace, with him on Elba and in 1815 (letters 4, 277). Transcribed Bertherand; standardised 2026-09-28."

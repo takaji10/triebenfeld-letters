@@ -186,3 +186,5 @@ One page still needs the scan: the right margin of 0155_a1 was never
 transcribed, so roughly a dozen lines break off mid-word. Four readings are
 left as found because neither the text nor the editor could settle them -
 0117_a2 line 12, 0125_a1 line 23, 0155_a1 line 5 and 0167_a1 line 7.
+- Letter 23 (corpus line 7988): Prusimsky → Prusimski, the editor's standard spelling (2026-09-28).
+- Letter 9: Niedzwiedzki / Niedzwidzki / Niedzwiecki standardised to Niedźwiecki (editor 2026-09-28); he signs Maciey Niedzwiecki.

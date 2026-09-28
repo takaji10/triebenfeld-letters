@@ -125,6 +125,12 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'johann_queries': ('Johann or Johanni', 'The three places where Johann was left as written. Pick what the page says.'),
         'open_questions_2': ('Open questions', 'Readings I would change but need you to confirm on the page.'),
         'brzechsta_queries': ('Brzechsta', 'His own signatures. Pick what the page shows and the spelling the edition should standardise to.'),
+        'brzechffa_initial': ('Brzechffa, the initial', 'His initial in the signature of letter 72e.'),
+        'watch_queries': ('Watch-list: the doubtful ones', 'Stray French words and similar that the sentence does not settle.'),
+        'letter205': ('Letter 205', 'One interlinear word.'),
+        'niedz_queries': ('Niedziewiecki', 'His own signatures, and the spelling to standardise to.'),
+        'initial_queries': ('Initials I was not sure of', 'Single-letter name abbreviations I did not expand. Pick an expansion or keep as written.'),
+        'pohl_queries': ('Pohlen: the unclear ones', 'Forms of Pohlen and lookalikes the sentence did not settle.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

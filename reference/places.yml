@@ -747,6 +747,16 @@ places:
     tier: ""
     variants: []
 
+  laske:
+    display: "Laske"
+    kind: village
+    # Alt und Neu Laske, a village of the Trąbczyn holding (Koniner Kreis),
+    # listed with Szetlewek, Łazy and Osiny in the 14525 deeds. Not identified
+    # with a present-day place (editor, 2026-09-28).
+    match: 'Laske\w*'
+    tier: ""
+    variants: []
+
   batkowo:
     display: "Batkowo"
     kind: village

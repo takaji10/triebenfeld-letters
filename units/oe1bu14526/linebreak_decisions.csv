@@ -529,11 +529,11 @@
 9,10,2794,2795,¬,ver,schriebener,verschriebener,join,high,joined form occurs elsewhere in this corpus,False,3,,3,,4,,unders verabgeredeter als ver¬ || schriebener oder nicht recht ver¬
 9,10,2795,2796,¬,ver,standener,verstandener,join,high,joined form occurs elsewhere in this corpus,False,1,,3,,1,,schriebener oder nicht recht ver¬ || standener Sachen. Sie Tru¬
 9,10,2796,2797,¬,Tru,gen,Trugen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,40,,"standener Sachen. Sie Tru¬ || gen an, diesen Contract aus."
-9,10,2804,2805,¬,Niedzwied,zki,Niedzwiedzki,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"wird, daß Herr v. Niedzwied¬ || zki ſich ausdrücklich der Führung"
+9,10,2804,2805,¬,Niedźwie,cki,Niedźwiecki,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,"wird, daß Herr v. Niedźwie¬ || cki ſich ausdrücklich der Führung"
 9,10,2806,2807,¬,be,geben,begeben,join,high,joined form occurs elsewhere in this corpus,False,3,,11,,9,,eines polnischen Protocolls be¬ || geben hat.
 9,10,2809,2810,¬,Trieben,feld,Triebenfeld,join,high,joined form occurs elsewhere in this corpus,False,46,,0,,14,,Peter Friedrich August v. Trieben¬ || feld.
 9,10,2819,2821,,Actum,Actum,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,Actum || Actum Trąbczyn den 24ten August 1805.
-9,11,2828,2829,¬,Neidz,wiecki,Neidzwiecki,join,high,head is not a word on its own,False,0,0,0,0,1,,seits und Herr Maciey v Neidz¬ || wiecki andernseits folgendes
+9,11,2828,2829,¬,Neidz,wiecki,Neidzwiecki,join,high,head is not a word on its own,False,0,0,0,0,2,,seits und Herr Maciey v Neidz¬ || wiecki andernseits folgendes
 9,11,2837,2838,¬,Pacht,Jahre,PachtJahre,split,high,joined form unattested; both halves are real words,False,0,0,16,119818,31,120398380,und Wiesen auf die Sechs Pacht¬ || Jahre und zählt hiefür und jähr¬
 9,11,2838,2839,¬,jähr,licher,jährlicher,join,high,"joined form attested in DWDS (3,511,501 hits)",False,0,3511501,0,,6,,"Jahre und zählt hiefür und jähr¬ || licher Pacht 625 rthl, schreibe Sechs"
 9,11,2841,2842,¬,fort,mehro,fortmehro,split,high,joined form unattested; both halves are real words,False,0,0,8,1316463,2,21,Thaler Courant; so daß fort¬ || mehro die ganze Pacht von Kopoy¬
@@ -547,7 +547,7 @@
 9,13,2890,2891,¬,Unter,schrift,Unterschrift,join,high,joined form occurs elsewhere in this corpus,False,12,,67,,5,, Gerichts- Siegels und gewöhnlicher Unter¬ || schrift gerichtlich ausgefertiget
 9,13,2897,2898,¬,re,gierenden,regierenden,join,high,joined form occurs elsewhere in this corpus,False,28,,5,,5,,zwischen Sr: Durchlaucht des re¬ || gierenden Herrn Fürsten zu Ho¬
 9,13,2898,2899,¬,Ho,henlohe,Hohenlohe,join,high,joined form occurs elsewhere in this corpus,False,90,,0,,2,,gierenden Herrn Fürsten zu Ho¬ || henlohe Ingelfingen und dem
-9,13,2900,2901,¬,Niedz,wecki,Niedzwecki,join,high,head is not a word on its own,False,0,7,0,13,1,,Pächter Herrn Maciey v. Niedz¬ || wecki auf Kopoyno.
+9,13,2900,2901,¬,Niedź,wiecki,Niedźwiecki,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,Pächter Herrn Maciey v. Niedź¬ || wiecki auf Kopoyno.
 10,1,2908,2909,¬,Bevollmächtig,ten,Bevollmächtigten,join,high,joined form occurs elsewhere in this corpus,False,16,,0,,141,,"ohenlohe durch dero general Bevollmächtig¬ || ten, den Herrn Krieges und ForstRath v"
 10,1,2910,2911,¬,Inspec,tor,Inspector,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,3,,"iebenfeld einer Seits, und dem Bau Inspec¬ || tor Wollenhaupt andrer seits, nachstehen¬"
 10,1,2911,2912,¬,nachstehen,Der,nachstehenDer,join,high,joined form occurs elsewhere in this corpus,False,5,,1,,698,,"tor Wollenhaupt andrer seits, nachstehen¬ || Der Vertrag und resp. Quittungs Leistung"

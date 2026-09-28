@@ -6696,20 +6696,20 @@
    {
     "uid": "oe1bu9454-254",
     "surface": "Breslau",
-    "page": 4,
-    "page_id": "0467_a2",
-    "scan": "Oe_1_Bu_9454_0467_a2-L254_04.jpg",
-    "line": 18149,
+    "page": 3,
+    "page_id": "0469_a2",
+    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
+    "line": 18148,
     "doc_line": 64
    },
    {
     "uid": "oe1bu9454-254",
     "surface": "Breslau",
-    "page": 6,
-    "page_id": "0469_a2",
-    "scan": "Oe_1_Bu_9454_0469_a2-L254_06.jpg",
-    "line": 18189,
-    "doc_line": 102
+    "page": 5,
+    "page_id": "0467_a2",
+    "scan": "Oe_1_Bu_9454_0467_a2-L254_05.jpg",
+    "line": 18177,
+    "doc_line": 91
    },
    {
     "uid": "oe1bu9454-58",
@@ -14821,7 +14821,7 @@
  {
   "entity": "posen",
   "display": "Posen",
-  "count": 96,
+  "count": 98,
   "documents": [
    "oe1bu14525-12",
    "oe1bu14525-13",
@@ -14863,6 +14863,7 @@
    "oe1bu9454-162",
    "oe1bu9454-180",
    "oe1bu9454-191",
+   "oe1bu9454-217",
    "oe1bu9454-218",
    "oe1bu9454-24",
    "oe1bu9454-287",
@@ -15603,6 +15604,15 @@
     "doc_line": 34
    },
    {
+    "uid": "oe1bu9454-217",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0407_b",
+    "scan": "Oe_1_Bu_9454_0407_b-L217_01.jpg",
+    "line": 15608,
+    "doc_line": 19
+   },
+   {
     "uid": "oe1bu9454-218",
     "surface": "Posen",
     "page": 3,
@@ -15655,6 +15665,15 @@
     "scan": "Oe_1_Bu_9454_0532_b-L297_01.jpg",
     "line": 20990,
     "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-297",
+    "surface": "Posen",
+    "page": 2,
+    "page_id": "0533_a1",
+    "scan": "Oe_1_Bu_9454_0533_a1-L297_02.jpg",
+    "line": 21003,
+    "doc_line": 35
    },
    {
     "uid": "oe1bu9454-297",
@@ -15937,11 +15956,11 @@
    {
     "uid": "oe1bu9454-254",
     "surface": "Wien",
-    "page": 6,
+    "page": 3,
     "page_id": "0469_a2",
-    "scan": "Oe_1_Bu_9454_0469_a2-L254_06.jpg",
-    "line": 18183,
-    "doc_line": 96
+    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
+    "line": 18142,
+    "doc_line": 58
    },
    {
     "uid": "oe1bu9454-57",
@@ -17567,11 +17586,11 @@
    {
     "uid": "oe1bu9454-254",
     "surface": "Schlawenschitz",
-    "page": 5,
+    "page": 6,
     "page_id": "0468_a2",
-    "scan": "Oe_1_Bu_9454_0468_a2-L254_05.jpg",
-    "line": 18162,
-    "doc_line": 76
+    "scan": "Oe_1_Bu_9454_0468_a2-L254_06.jpg",
+    "line": 18190,
+    "doc_line": 103
    },
    {
     "uid": "oe1bu9454-57",
@@ -22499,11 +22518,11 @@
    {
     "uid": "oe1bu9454-254",
     "surface": "Koschentiner",
-    "page": 6,
+    "page": 3,
     "page_id": "0469_a2",
-    "scan": "Oe_1_Bu_9454_0469_a2-L254_06.jpg",
-    "line": 18199,
-    "doc_line": 112
+    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
+    "line": 18158,
+    "doc_line": 74
    },
    {
     "uid": "oe1bu9454-65",
@@ -25763,6 +25782,319 @@
   ]
  },
  {
+  "entity": "russland",
+  "display": "Russland",
+  "count": 31,
+  "documents": [
+   "oe1bu9454-11",
+   "oe1bu9454-131",
+   "oe1bu9454-133",
+   "oe1bu9454-153",
+   "oe1bu9454-174",
+   "oe1bu9454-195",
+   "oe1bu9454-2",
+   "oe1bu9454-205",
+   "oe1bu9454-208",
+   "oe1bu9454-246",
+   "oe1bu9454-249",
+   "oe1bu9454-266",
+   "oe1bu9454-267",
+   "oe1bu9454-268",
+   "oe1bu9454-269",
+   "oe1bu9454-270",
+   "oe1bu9454-275",
+   "oe1bu9454-277",
+   "oe1bu9454-287",
+   "oe1bu9454-41",
+   "oe1bu9454-53",
+   "oe1bu9454-57",
+   "oe1bu9454-58",
+   "oe1bu9454-59",
+   "oe1bu9454-84"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-84",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0176_a1",
+    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+    "line": 6765,
+    "doc_line": 31
+   },
+   {
+    "uid": "oe1bu9454-131",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0250_a2",
+    "scan": "Oe_1_Bu_9454_0250_a2-L131_01.jpg",
+    "line": 9364,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-133",
+    "surface": "Rußland",
+    "page": 4,
+    "page_id": "0255_a",
+    "scan": "Oe_1_Bu_9454_0255_a-L133_04.jpg",
+    "line": 9532,
+    "doc_line": 81
+   },
+   {
+    "uid": "oe1bu9454-153",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0293_a2",
+    "scan": "Oe_1_Bu_9454_0293_a2-L153_01.jpg",
+    "line": 10951,
+    "doc_line": 21
+   },
+   {
+    "uid": "oe1bu9454-174",
+    "surface": "Rußland",
+    "page": 3,
+    "page_id": "0326_a2",
+    "scan": "Oe_1_Bu_9454_0326_a2-L174_03.jpg",
+    "line": 12314,
+    "doc_line": 55
+   },
+   {
+    "uid": "oe1bu9454-41",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0075_b",
+    "scan": "Oe_1_Bu_9454_0075_b-L41_01.jpg",
+    "line": 3002,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-57",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0109_a1",
+    "scan": "Oe_1_Bu_9454_0109_a1-L57_02.jpg",
+    "line": 4283,
+    "doc_line": 52
+   },
+   {
+    "uid": "oe1bu9454-57",
+    "surface": "Rußland",
+    "page": 3,
+    "page_id": "0109_a2",
+    "scan": "Oe_1_Bu_9454_0109_a2-L57_03.jpg",
+    "line": 4300,
+    "doc_line": 68
+   },
+   {
+    "uid": "oe1bu9454-53",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0101_a1",
+    "scan": "Oe_1_Bu_9454_0101_a1-L53_02.jpg",
+    "line": 3931,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-58",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0111_a1",
+    "scan": "Oe_1_Bu_9454_0111_a1-L58_02.jpg",
+    "line": 4386,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-59",
+    "surface": "Rußlands",
+    "page": 4,
+    "page_id": "0114_a",
+    "scan": "Oe_1_Bu_9454_0114_a-L59_04.jpg",
+    "line": 4521,
+    "doc_line": 86
+   },
+   {
+    "uid": "oe1bu9454-59",
+    "surface": "Rußland",
+    "page": 4,
+    "page_id": "0114_a",
+    "scan": "Oe_1_Bu_9454_0114_a-L59_04.jpg",
+    "line": 4522,
+    "doc_line": 87
+   },
+   {
+    "uid": "oe1bu9454-195",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0371_a2",
+    "scan": "Oe_1_Bu_9454_0371_a2-L195_01.jpg",
+    "line": 14034,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-205",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0386_a1",
+    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
+    "line": 14567,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-205",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0386_a1",
+    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
+    "line": 14569,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-205",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0386_a1",
+    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
+    "line": 14575,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu9454-208",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0391_a",
+    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
+    "line": 14753,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-246",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0457_a1",
+    "scan": "Oe_1_Bu_9454_0457_a1-L246_02.jpg",
+    "line": 17752,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu9454-249",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0462_a1",
+    "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
+    "line": 17956,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu9454-266",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0485_b",
+    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+    "line": 18850,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-267",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0486_a2",
+    "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
+    "line": 18918,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-268",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0487_a2",
+    "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
+    "line": 18951,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-269",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0489_b",
+    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+    "line": 19030,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0491_b",
+    "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
+    "line": 19128,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0492_a1",
+    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
+    "line": 19153,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0002_b",
+    "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
+    "line": 129,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-275",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0501_b",
+    "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
+    "line": 19532,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Rußland",
+    "page": 2,
+    "page_id": "0019_a1",
+    "scan": "Oe_1_Bu_9454_0019_a1-L11_02.jpg",
+    "line": 624,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-277",
+    "surface": "Rußland",
+    "page": 1,
+    "page_id": "0503_a2",
+    "scan": "Oe_1_Bu_9454_0503_a2-L277_01.jpg",
+    "line": 19617,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Rußland",
+    "page": 4,
+    "page_id": "0521_a",
+    "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+    "line": 20423,
+    "doc_line": 91
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Russland",
+    "page": 4,
+    "page_id": "0521_a",
+    "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+    "line": 20438,
+    "doc_line": 106
+   }
+  ]
+ },
+ {
   "entity": "wienietz",
   "display": "Wienietz",
   "count": 30,
@@ -26048,309 +26380,6 @@
     "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
     "line": 2848,
     "doc_line": 195
-   }
-  ]
- },
- {
-  "entity": "russland",
-  "display": "Russland",
-  "count": 30,
-  "documents": [
-   "oe1bu9454-11",
-   "oe1bu9454-131",
-   "oe1bu9454-133",
-   "oe1bu9454-153",
-   "oe1bu9454-174",
-   "oe1bu9454-195",
-   "oe1bu9454-2",
-   "oe1bu9454-205",
-   "oe1bu9454-208",
-   "oe1bu9454-246",
-   "oe1bu9454-249",
-   "oe1bu9454-266",
-   "oe1bu9454-267",
-   "oe1bu9454-268",
-   "oe1bu9454-269",
-   "oe1bu9454-270",
-   "oe1bu9454-277",
-   "oe1bu9454-287",
-   "oe1bu9454-41",
-   "oe1bu9454-53",
-   "oe1bu9454-57",
-   "oe1bu9454-58",
-   "oe1bu9454-59",
-   "oe1bu9454-84"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-84",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0176_a1",
-    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-    "line": 6765,
-    "doc_line": 31
-   },
-   {
-    "uid": "oe1bu9454-131",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0250_a2",
-    "scan": "Oe_1_Bu_9454_0250_a2-L131_01.jpg",
-    "line": 9364,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-133",
-    "surface": "Rußland",
-    "page": 4,
-    "page_id": "0255_a",
-    "scan": "Oe_1_Bu_9454_0255_a-L133_04.jpg",
-    "line": 9532,
-    "doc_line": 81
-   },
-   {
-    "uid": "oe1bu9454-153",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0293_a2",
-    "scan": "Oe_1_Bu_9454_0293_a2-L153_01.jpg",
-    "line": 10951,
-    "doc_line": 21
-   },
-   {
-    "uid": "oe1bu9454-174",
-    "surface": "Rußland",
-    "page": 3,
-    "page_id": "0326_a2",
-    "scan": "Oe_1_Bu_9454_0326_a2-L174_03.jpg",
-    "line": 12314,
-    "doc_line": 55
-   },
-   {
-    "uid": "oe1bu9454-41",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0075_b",
-    "scan": "Oe_1_Bu_9454_0075_b-L41_01.jpg",
-    "line": 3002,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-57",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0109_a1",
-    "scan": "Oe_1_Bu_9454_0109_a1-L57_02.jpg",
-    "line": 4283,
-    "doc_line": 52
-   },
-   {
-    "uid": "oe1bu9454-57",
-    "surface": "Rußland",
-    "page": 3,
-    "page_id": "0109_a2",
-    "scan": "Oe_1_Bu_9454_0109_a2-L57_03.jpg",
-    "line": 4300,
-    "doc_line": 68
-   },
-   {
-    "uid": "oe1bu9454-53",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0101_a1",
-    "scan": "Oe_1_Bu_9454_0101_a1-L53_02.jpg",
-    "line": 3931,
-    "doc_line": 43
-   },
-   {
-    "uid": "oe1bu9454-58",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0111_a1",
-    "scan": "Oe_1_Bu_9454_0111_a1-L58_02.jpg",
-    "line": 4386,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-59",
-    "surface": "Rußlands",
-    "page": 4,
-    "page_id": "0114_a",
-    "scan": "Oe_1_Bu_9454_0114_a-L59_04.jpg",
-    "line": 4521,
-    "doc_line": 86
-   },
-   {
-    "uid": "oe1bu9454-59",
-    "surface": "Rußland",
-    "page": 4,
-    "page_id": "0114_a",
-    "scan": "Oe_1_Bu_9454_0114_a-L59_04.jpg",
-    "line": 4522,
-    "doc_line": 87
-   },
-   {
-    "uid": "oe1bu9454-195",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0371_a2",
-    "scan": "Oe_1_Bu_9454_0371_a2-L195_01.jpg",
-    "line": 14034,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-205",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0386_a1",
-    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
-    "line": 14567,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-205",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0386_a1",
-    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
-    "line": 14569,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-205",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0386_a1",
-    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
-    "line": 14575,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu9454-208",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0391_a",
-    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
-    "line": 14753,
-    "doc_line": 43
-   },
-   {
-    "uid": "oe1bu9454-246",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0457_a1",
-    "scan": "Oe_1_Bu_9454_0457_a1-L246_02.jpg",
-    "line": 17752,
-    "doc_line": 30
-   },
-   {
-    "uid": "oe1bu9454-249",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0462_a1",
-    "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
-    "line": 17956,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu9454-266",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0485_b",
-    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
-    "line": 18850,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-267",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0486_a2",
-    "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
-    "line": 18918,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-268",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0487_a2",
-    "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
-    "line": 18951,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-269",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0489_b",
-    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
-    "line": 19030,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-270",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0491_b",
-    "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
-    "line": 19128,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-270",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0492_a1",
-    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
-    "line": 19153,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0002_b",
-    "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
-    "line": 129,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-11",
-    "surface": "Rußland",
-    "page": 2,
-    "page_id": "0019_a1",
-    "scan": "Oe_1_Bu_9454_0019_a1-L11_02.jpg",
-    "line": 624,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-277",
-    "surface": "Rußland",
-    "page": 1,
-    "page_id": "0503_a2",
-    "scan": "Oe_1_Bu_9454_0503_a2-L277_01.jpg",
-    "line": 19617,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Rußland",
-    "page": 4,
-    "page_id": "0521_a",
-    "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
-    "line": 20423,
-    "doc_line": 91
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Russland",
-    "page": 4,
-    "page_id": "0521_a",
-    "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
-    "line": 20438,
-    "doc_line": 106
    }
   ]
  },
@@ -30669,20 +30698,20 @@
    {
     "uid": "oe1bu9454-254",
     "surface": "Neisse",
-    "page": 6,
+    "page": 3,
     "page_id": "0469_a2",
-    "scan": "Oe_1_Bu_9454_0469_a2-L254_06.jpg",
-    "line": 18188,
-    "doc_line": 101
+    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
+    "line": 18147,
+    "doc_line": 63
    },
    {
     "uid": "oe1bu9454-254",
     "surface": "Neisse",
-    "page": 6,
+    "page": 3,
     "page_id": "0469_a2",
-    "scan": "Oe_1_Bu_9454_0469_a2-L254_06.jpg",
-    "line": 18195,
-    "doc_line": 108
+    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
+    "line": 18154,
+    "doc_line": 70
    },
    {
     "uid": "oe1bu9454-219",
@@ -31438,11 +31467,11 @@
    {
     "uid": "oe1bu9454-254",
     "surface": "Meseritz",
-    "page": 5,
+    "page": 6,
     "page_id": "0468_a2",
-    "scan": "Oe_1_Bu_9454_0468_a2-L254_05.jpg",
-    "line": 18162,
-    "doc_line": 76
+    "scan": "Oe_1_Bu_9454_0468_a2-L254_06.jpg",
+    "line": 18190,
+    "doc_line": 103
    },
    {
     "uid": "oe1bu9454-265b",
@@ -33225,6 +33254,64 @@
     "scan": "Oe_1_Bu_9454_0516_a-L286_01.jpg",
     "line": 20212,
     "doc_line": 14
+   }
+  ]
+ },
+ {
+  "entity": "laske",
+  "display": "Laske",
+  "count": 5,
+  "documents": [
+   "oe1bu14525-1",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-39",
+    "surface": "Laske",
+    "page": 1,
+    "page_id": "0145_b",
+    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
+    "line": 3808,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Laske",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
+    "line": 353,
+    "doc_line": 78
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Laske",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+    "line": 64,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Laske",
+    "page": 7,
+    "page_id": "0005_a2",
+    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+    "line": 160,
+    "doc_line": 135
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Laske",
+    "page": 3,
+    "page_id": "0013_a2",
+    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
+    "line": 456,
+    "doc_line": 89
    }
   ]
  },

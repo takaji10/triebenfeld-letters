@@ -121,7 +121,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "mentions": 2,
-  "places_named": 9,
+  "places_named": 10,
   "estates": [
    "kamionno",
    "trabczyn",
@@ -335,7 +335,7 @@
   "uncertainty_count": 2,
   "has_damage": true,
   "mentions": 2,
-  "places_named": 9,
+  "places_named": 10,
   "estates": [
    "kamionno",
    "trabczyn",
@@ -1183,7 +1183,7 @@
   ],
   "uncertainty_count": 3,
   "has_damage": false,
-  "mentions": 7,
+  "mentions": 8,
   "places_named": 4,
   "estates": [
    "krotoszyn",
@@ -1497,7 +1497,7 @@
   ],
   "uncertainty_count": 1,
   "has_damage": false,
-  "mentions": 4,
+  "mentions": 5,
   "places_named": 4,
   "estates": [
    "krotoszyn",
@@ -2222,7 +2222,7 @@
   ],
   "uncertainty_count": 1,
   "has_damage": false,
-  "mentions": 5,
+  "mentions": 6,
   "places_named": 5,
   "estates": [
    "trabczyn"
@@ -2634,7 +2634,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "mentions": 5,
-  "places_named": 11,
+  "places_named": 12,
   "estates": [
    "kamionno",
    "trabczyn",
@@ -3158,7 +3158,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "mentions": 1,
-  "places_named": 9,
+  "places_named": 10,
   "estates": [
    "kamionno",
    "trabczyn",
@@ -5722,7 +5722,7 @@
     "image": "Oe_1_Bu_9454_0269_a2-L137_03.jpg"
    }
   ],
-  "uncertainty_count": 3,
+  "uncertainty_count": 4,
   "has_damage": false,
   "mentions": 10,
   "places_named": 5,
@@ -7046,7 +7046,7 @@
     "image": "Oe_1_Bu_9454_0319_a-L169_04.jpg"
    }
   ],
-  "uncertainty_count": 1,
+  "uncertainty_count": 2,
   "has_damage": false,
   "mentions": 12,
   "places_named": 6,
@@ -9076,7 +9076,7 @@
     "image": "Oe_1_Bu_9454_0334_a2-L177_07.jpg"
    }
   ],
-  "uncertainty_count": 3,
+  "uncertainty_count": 4,
   "has_damage": false,
   "mentions": 15,
   "places_named": 19,
@@ -9427,7 +9427,7 @@
   ],
   "uncertainty_count": 5,
   "has_damage": false,
-  "mentions": 19,
+  "mentions": 20,
   "places_named": 13,
   "estates": [
    "trabczyn",
@@ -10103,7 +10103,7 @@
   ],
   "uncertainty_count": 7,
   "has_damage": false,
-  "mentions": 24,
+  "mentions": 25,
   "places_named": 11,
   "estates": [
    "betsche",
@@ -10609,7 +10609,7 @@
   ],
   "uncertainty_count": 4,
   "has_damage": true,
-  "mentions": 14,
+  "mentions": 15,
   "places_named": 9,
   "estates": [
    "witow",
@@ -11319,7 +11319,7 @@
   ],
   "uncertainty_count": 0,
   "has_damage": false,
-  "mentions": 9,
+  "mentions": 10,
   "places_named": 9,
   "estates": [
    "zagorowo",
@@ -11615,23 +11615,23 @@
    },
    {
     "page": 3,
-    "page_id": "0466_a2",
-    "image": "Oe_1_Bu_9454_0466_a2-L254_03.jpg"
+    "page_id": "0469_a2",
+    "image": "Oe_1_Bu_9454_0469_a2-L254_03.jpg"
    },
    {
     "page": 4,
-    "page_id": "0467_a2",
-    "image": "Oe_1_Bu_9454_0467_a2-L254_04.jpg"
+    "page_id": "0466_a2",
+    "image": "Oe_1_Bu_9454_0466_a2-L254_04.jpg"
    },
    {
     "page": 5,
-    "page_id": "0468_a2",
-    "image": "Oe_1_Bu_9454_0468_a2-L254_05.jpg"
+    "page_id": "0467_a2",
+    "image": "Oe_1_Bu_9454_0467_a2-L254_05.jpg"
    },
    {
     "page": 6,
-    "page_id": "0469_a2",
-    "image": "Oe_1_Bu_9454_0469_a2-L254_06.jpg"
+    "page_id": "0468_a2",
+    "image": "Oe_1_Bu_9454_0468_a2-L254_06.jpg"
    }
   ],
   "uncertainty_count": 1,
@@ -12117,7 +12117,7 @@
   ],
   "uncertainty_count": 2,
   "has_damage": false,
-  "mentions": 8,
+  "mentions": 9,
   "places_named": 12,
   "estates": [
    "trabczyn",
@@ -12705,7 +12705,7 @@
     "image": "Oe_1_Bu_9454_0375_a2-L197_03.jpg"
    }
   ],
-  "uncertainty_count": 2,
+  "uncertainty_count": 3,
   "has_damage": false,
   "mentions": 5,
   "places_named": 5,
@@ -12879,7 +12879,7 @@
     "image": "Oe_1_Bu_9454_0380_a1-L200_02.jpg"
    }
   ],
-  "uncertainty_count": 0,
+  "uncertainty_count": 1,
   "has_damage": false,
   "mentions": 8,
   "places_named": 4,
@@ -13033,7 +13033,7 @@
     "image": "Oe_1_Bu_9454_0386_a2-L205_03.jpg"
    }
   ],
-  "uncertainty_count": 1,
+  "uncertainty_count": 0,
   "has_damage": false,
   "mentions": 7,
   "places_named": 10,
@@ -13284,7 +13284,7 @@
   ],
   "uncertainty_count": 0,
   "has_damage": false,
-  "mentions": 7,
+  "mentions": 8,
   "places_named": 5,
   "estates": [
    "trabczyn",
@@ -13337,7 +13337,7 @@
   ],
   "uncertainty_count": 2,
   "has_damage": false,
-  "mentions": 6,
+  "mentions": 7,
   "places_named": 8,
   "estates": [
    "olesnica",
@@ -13393,7 +13393,7 @@
   ],
   "uncertainty_count": 3,
   "has_damage": false,
-  "mentions": 9,
+  "mentions": 10,
   "places_named": 14,
   "estates": [
    "olesnica",
@@ -13726,7 +13726,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn"
   ],
@@ -14475,7 +14475,7 @@
   ],
   "uncertainty_count": 0,
   "has_damage": false,
-  "mentions": 6,
+  "mentions": 7,
   "places_named": 9,
   "estates": [
    "zagorowo",
@@ -15426,7 +15426,7 @@
   ],
   "uncertainty_count": 0,
   "has_damage": false,
-  "mentions": 5,
+  "mentions": 6,
   "places_named": 8,
   "estates": [
    "schlawenschitz",
@@ -16026,7 +16026,7 @@
   ],
   "uncertainty_count": 2,
   "has_damage": false,
-  "mentions": 5,
+  "mentions": 6,
   "places_named": 7,
   "estates": [],
   "translation_status": "untranslated",
@@ -16955,7 +16955,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "mentions": 4,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "trabczyn",
    "kamionno",
@@ -17173,7 +17173,7 @@
   ],
   "uncertainty_count": 3,
   "has_damage": false,
-  "mentions": 17,
+  "mentions": 18,
   "places_named": 12,
   "estates": [
    "trabczyn",
@@ -17355,7 +17355,7 @@
   ],
   "uncertainty_count": 1,
   "has_damage": false,
-  "mentions": 11,
+  "mentions": 10,
   "places_named": 5,
   "estates": [
    "schlawenschitz",
@@ -18547,7 +18547,7 @@
   ],
   "uncertainty_count": 0,
   "has_damage": false,
-  "mentions": 10,
+  "mentions": 11,
   "places_named": 9,
   "estates": [
    "zagorowo",
@@ -18643,7 +18643,7 @@
   ],
   "uncertainty_count": 2,
   "has_damage": false,
-  "mentions": 7,
+  "mentions": 8,
   "places_named": 8,
   "estates": [
    "trabczyn"
@@ -19116,7 +19116,7 @@
   ],
   "uncertainty_count": 3,
   "has_damage": false,
-  "mentions": 7,
+  "mentions": 8,
   "places_named": 8,
   "estates": [
    "zagorowo",
