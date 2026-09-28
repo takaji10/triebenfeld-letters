@@ -133,6 +133,7 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'pohl_queries': ('Pohlen: the unclear ones', 'Forms of Pohlen and lookalikes the sentence did not settle.'),
         'trial_245': ('Trial reading, letter 245', 'Each row is a word where my reading of the original scan differs from the current text. Pick what the page says.'),
         'rescan_choice': ('Pages to request from the archive', 'One row per page on the shortlist, worst first. Open the letter, look at the scan, and choose Request or Skip.'),
+        'date_queries': ('Dates: yours against the page', 'Where the new transcription reads a date differently from the date you supplied. Pick the date the letter should carry.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

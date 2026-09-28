@@ -105,7 +105,6 @@ dates:
     "202": [1810, 8, 30, "day"]
     "276": [1815, 3, 4, "day"]
     "109": [1801, 1, 31, "day"]
-    "254": [1814, 9, null, "month"]
     "186": [1810, 8, 29, "day"]
     "232": [1812, 6, 16, "day"]
     "1a": [1815, 2, 12, "day"]
@@ -117,7 +116,7 @@ dates:
     "72f": [1812, 5, 22, "day"]
     "74a": [1811, 7, 30, "day"]
     "74c": [1811, 8, 1, "day"]
-    "74d": [1811, 8, 6, "day"]
+    "74d": [1811, 8, 1, "day"]   # the decree's own date (editor 2026-09-28)
     "74e": [1811, 8, 1, "day"]
     "118a": [1804, 2, 10, "day"]
     "118b": [1804, 3, 29, "day"]
@@ -133,6 +132,7 @@ dates:
 
   # [year, month, day, precision, basis]; the basis is shown to the reader.
   inferred:
+    "254": [1814, 11, null, "inferred", "late November 1814: filed between 253 (26 Nov 1814) and 255 (30 Nov 1814); he has been in Vienna about 12 weeks. Enclosure 254 b (Breslau, 2 May 1809) is a separate receipt"]
     "8": [1815, 3, null, "inferred", "between L7 (20 Mar 1815) and L10 (4 Mar 1815) - both March 1815"]
     "62": [1809, 9, null, "inferred", "between L61 (31 Aug 1809) and L64 (6 Dec 1809)"]
     "183": [1806, 5, null, "inferred", "between L182 (May 1806) and L184 (15 May 1806)"]

@@ -3280,42 +3280,6 @@
     "doc_line": 30
    },
    {
-    "uid": "oe1bu9454-254",
-    "surface": "Triebenfeld",
-    "page": 3,
-    "page_id": "0469_a2",
-    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
-    "line": 18170,
-    "doc_line": 80
-   },
-   {
-    "uid": "oe1bu9454-254",
-    "surface": "Triebenfeld",
-    "page": 4,
-    "page_id": "0466_a2",
-    "scan": "Oe_1_Bu_9454_0466_a2-L254_04.jpg",
-    "line": 18175,
-    "doc_line": 84
-   },
-   {
-    "uid": "oe1bu9454-254",
-    "surface": "Triebenfeld",
-    "page": 5,
-    "page_id": "0467_a2",
-    "scan": "Oe_1_Bu_9454_0467_a2-L254_05.jpg",
-    "line": 18184,
-    "doc_line": 92
-   },
-   {
-    "uid": "oe1bu9454-254",
-    "surface": "Triebenfeld",
-    "page": 6,
-    "page_id": "0468_a2",
-    "scan": "Oe_1_Bu_9454_0468_a2-L254_06.jpg",
-    "line": 18211,
-    "doc_line": 118
-   },
-   {
     "uid": "oe1bu9454-242",
     "surface": "Triebenfeld",
     "page": 2,
@@ -3359,6 +3323,42 @@
     "scan": "Oe_1_Bu_9454_0457_a1-L246_02.jpg",
     "line": 17782,
     "doc_line": 54
+   },
+   {
+    "uid": "oe1bu9454-254",
+    "surface": "Triebenfeld",
+    "page": 3,
+    "page_id": "0469_a2",
+    "scan": "Oe_1_Bu_9454_0469_a2-L254_03.jpg",
+    "line": 18170,
+    "doc_line": 80
+   },
+   {
+    "uid": "oe1bu9454-254",
+    "surface": "Triebenfeld",
+    "page": 4,
+    "page_id": "0466_a2",
+    "scan": "Oe_1_Bu_9454_0466_a2-L254_04.jpg",
+    "line": 18175,
+    "doc_line": 84
+   },
+   {
+    "uid": "oe1bu9454-254",
+    "surface": "Triebenfeld",
+    "page": 5,
+    "page_id": "0467_a2",
+    "scan": "Oe_1_Bu_9454_0467_a2-L254_05.jpg",
+    "line": 18184,
+    "doc_line": 92
+   },
+   {
+    "uid": "oe1bu9454-254",
+    "surface": "Triebenfeld",
+    "page": 6,
+    "page_id": "0468_a2",
+    "scan": "Oe_1_Bu_9454_0468_a2-L254_06.jpg",
+    "line": 18211,
+    "doc_line": 118
    },
    {
     "uid": "oe1bu9454-248",
@@ -10078,15 +10078,6 @@
     "doc_line": 28
    },
    {
-    "uid": "oe1bu9454-254",
-    "surface": "Cosmar",
-    "page": 2,
-    "page_id": "0466_a1",
-    "scan": "Oe_1_Bu_9454_0466_a1-L254_02.jpg",
-    "line": 18120,
-    "doc_line": 31
-   },
-   {
     "uid": "oe1bu9454-244",
     "surface": "Cosmar",
     "page": 2,
@@ -10247,6 +10238,15 @@
     "scan": "Oe_1_Bu_9454_0456_a-L245_02.jpg",
     "line": 17717,
     "doc_line": 90
+   },
+   {
+    "uid": "oe1bu9454-254",
+    "surface": "Cosmar",
+    "page": 2,
+    "page_id": "0466_a1",
+    "scan": "Oe_1_Bu_9454_0466_a1-L254_02.jpg",
+    "line": 18120,
+    "doc_line": 31
    },
    {
     "uid": "oe1bu9454-251",
