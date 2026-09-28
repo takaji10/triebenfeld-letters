@@ -18,38 +18,43 @@
  "month": 1,
  "day": 25,
  "place": "Berlin",
- "sender": "Beyme",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 7749,
- "line_end": 7769,
+ "sender": "",
+ "recipient": "",
+ "line_start": 7754,
+ "line_end": 7773,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
- "n_lines": 20,
+ "n_lines": 18,
  "n_pages": 1,
- "text": "Copia,\nDurchlauchtigster Fürst!\ngnädigster Fürst und Herr!\nEuer Hochfürstliche Durchlaucht ermangle ich nicht\nuntertänigst anzuzeigen, daß Sr Majestät auf den\nVortrag Höchstdero Schreibens vom 21ten d. M.\nzu befehlen geruhet haben, daß die Beantwor¬\ntung desselben, wie Euer Hochfürstliche Durchlaucht\nselbst zu erwarten schienen, biß zur Einkunfft des von\ndem Etats Minister v. Voss erforderten Berichts aus¬\nIch verharre mit der\ngesetzt bleiben solle.\ntiefsten Ehrerbietung\nEuer Hochfürstlichen Durchlaucht\nBerlin\nden 25ten Januar 1799.\n(ad 1. Febr 1799)\nuntertänigster diener\nBeyme",
- "text_reading": "Copia, Durchlauchtigster Fürst! gnädigster Fürst und Herr! Euer Hochfürstliche Durchlaucht ermangle ich nicht untertänigst anzuzeigen, daß Sr Majestät auf den Vortrag Höchstdero Schreibens vom 21ten d. M. zu befehlen geruhet haben, daß die Beantwortung desselben, wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen, biß zur Einkunfft des von dem Etats Minister v. Voss erforderten Berichts aus Ich verharre mit der gesetzt bleiben solle. tiefsten Ehrerbietung Euer Hochfürstlichen Durchlaucht Berlin den 25ten Januar 1799. (ad 1. Febr 1799) untertänigster diener Beyme",
+ "text": "100\nCopia,\nDurchlauchtigster Fürst!\ngnädigster Fürst und Herr!\nEuer Hochfürstliche Durchlaucht ermangle ich nicht\nuntertänigst anzuzeigen, daß Sr Majestät auf den\nVortrag Höchstdero Schreibens vom 21ten d. M.\nzu befehlen geruhet haben, daß die Beantwor¬\ntung desselben, wie Euer Hochfürstliche Durchlaucht\nselbst zu erwarten schienen, biß zur Einkunfft des von\ndem Etats Minister v. Voss erforderten Berichts aus¬\ngesetzt bleiben solle. Ich verharre mit der\ntiefsten Ehrerbietung\nEuer Hochfürstlichen Durchlaucht\nBerlin\nden 25ten Januar 1799.\nuntertänigster diener\nBeyme",
+ "text_reading": "100\n\nCopia, Durchlauchtigster Fürst! gnädigster Fürst und Herr! Euer Hochfürstliche Durchlaucht ermangle ich nicht untertänigst anzuzeigen, daß Sr Majestät auf den Vortrag Höchstdero Schreibens vom 21ten d. M. zu befehlen geruhet haben, daß die Beantwortung desselben, wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen, biß zur Einkunfft des von dem Etats Minister v. Voss erforderten Berichts ausgesetzt bleiben solle. Ich verharre mit der tiefsten Ehrerbietung Euer Hochfürstlichen Durchlaucht Berlin\n\nden 25ten Januar 1799.\n\nuntertänigster diener\n\nBeyme",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 7750,
-   "line_end": 7768,
-   "n_lines": 19,
-   "diplomatic": "Copia,\nDurchlauchtigster Fürst!\ngnädigster Fürst und Herr!\nEuer Hochfürstliche Durchlaucht ermangle ich nicht\nuntertänigst anzuzeigen, daß Sr Majestät auf den\nVortrag Höchstdero Schreibens vom 21ten d. M.\nzu befehlen geruhet haben, daß die Beantwor¬\ntung desselben, wie Euer Hochfürstliche Durchlaucht\nselbst zu erwarten schienen, biß zur Einkunfft des von\ndem Etats Minister v. Voss erforderten Berichts aus¬\nIch verharre mit der\ngesetzt bleiben solle.\ntiefsten Ehrerbietung\nEuer Hochfürstlichen Durchlaucht\nBerlin\nden 25ten Januar 1799.\n(ad 1. Febr 1799)\nuntertänigster diener\nBeyme",
-   "transcription": "Copia,\nDurchlauchtigster Fürst!\ngnädigster Fürst und Herr!\nEuer Hochfürstliche Durchlaucht ermangle ich nicht\nuntertänigst anzuzeigen, daß Sr Majestät auf den\nVortrag Höchstdero Schreibens vom 21ten d. M.\nzu befehlen geruhet haben, daß die Beantwor-\ntung desselben, wie Euer Hochfürstliche Durchlaucht\nselbst zu erwarten schienen, biß zur Einkunfft des von\ndem Etats Minister v. Voss erforderten Berichts aus\nIch verharre mit der\ngesetzt bleiben solle.\ntiefsten Ehrerbietung\nEuer Hochfürstlichen Durchlaucht\nBerlin\nden 25ten Januar 1799.\n(ad 1. Febr 1799)\nuntertänigster diener\nBeyme",
-   "reading": "Copia, Durchlauchtigster Fürst! gnädigster Fürst und Herr! Euer Hochfürstliche Durchlaucht ermangle ich nicht untertänigst anzuzeigen, daß Sr Majestät auf den Vortrag Höchstdero Schreibens vom 21ten d. M. zu befehlen geruhet haben, daß die Beantwortung desselben, wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen, biß zur Einkunfft des von dem Etats Minister v. Voss erforderten Berichts aus Ich verharre mit der gesetzt bleiben solle. tiefsten Ehrerbietung Euer Hochfürstlichen Durchlaucht Berlin den 25ten Januar 1799. (ad 1. Febr 1799) untertänigster diener Beyme",
+   "page_id": "0206_b",
+   "line_start": 7756,
+   "line_end": 7773,
+   "n_lines": 18,
+   "diplomatic": "100\nCopia,\nDurchlauchtigster Fürst!\ngnädigster Fürst und Herr!\nEuer Hochfürstliche Durchlaucht ermangle ich nicht\nuntertänigst anzuzeigen, daß Sr Majestät auf den\nVortrag Höchstdero Schreibens vom 21ten d. M.\nzu befehlen geruhet haben, daß die Beantwor¬\ntung desselben, wie Euer Hochfürstliche Durchlaucht\nselbst zu erwarten schienen, biß zur Einkunfft des von\ndem Etats Minister v. Voss erforderten Berichts aus¬\ngesetzt bleiben solle. Ich verharre mit der\ntiefsten Ehrerbietung\nEuer Hochfürstlichen Durchlaucht\nBerlin\nden 25ten Januar 1799.\nuntertänigster diener\nBeyme",
+   "transcription": "100\nCopia,\nDurchlauchtigster Fürst!\ngnädigster Fürst und Herr!\nEuer Hochfürstliche Durchlaucht ermangle ich nicht\nuntertänigst anzuzeigen, daß Sr Majestät auf den\nVortrag Höchstdero Schreibens vom 21ten d. M.\nzu befehlen geruhet haben, daß die Beantwor-\ntung desselben, wie Euer Hochfürstliche Durchlaucht\nselbst zu erwarten schienen, biß zur Einkunfft des von\ndem Etats Minister v. Voss erforderten Berichts aus-\ngesetzt bleiben solle. Ich verharre mit der\ntiefsten Ehrerbietung\nEuer Hochfürstlichen Durchlaucht\nBerlin\nden 25ten Januar 1799.\nuntertänigster diener\nBeyme",
+   "reading": "100\n\nCopia, Durchlauchtigster Fürst! gnädigster Fürst und Herr! Euer Hochfürstliche Durchlaucht ermangle ich nicht untertänigst anzuzeigen, daß Sr Majestät auf den Vortrag Höchstdero Schreibens vom 21ten d. M. zu befehlen geruhet haben, daß die Beantwortung desselben, wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen, biß zur Einkunfft des von dem Etats Minister v. Voss erforderten Berichts ausgesetzt bleiben solle. Ich verharre mit der tiefsten Ehrerbietung Euer Hochfürstlichen Durchlaucht Berlin\n\nden 25ten Januar 1799.\n\nuntertänigster diener\n\nBeyme",
    "paragraphs": [
-    "Copia, Durchlauchtigster Fürst! gnädigster Fürst und Herr! Euer Hochfürstliche Durchlaucht ermangle ich nicht untertänigst anzuzeigen, daß Sr Majestät auf den Vortrag Höchstdero Schreibens vom 21ten d. M. zu befehlen geruhet haben, daß die Beantwortung desselben, wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen, biß zur Einkunfft des von dem Etats Minister v. Voss erforderten Berichts aus Ich verharre mit der gesetzt bleiben solle. tiefsten Ehrerbietung Euer Hochfürstlichen Durchlaucht Berlin den 25ten Januar 1799. (ad 1. Febr 1799) untertänigster diener Beyme"
+    "100",
+    "Copia, Durchlauchtigster Fürst! gnädigster Fürst und Herr! Euer Hochfürstliche Durchlaucht ermangle ich nicht untertänigst anzuzeigen, daß Sr Majestät auf den Vortrag Höchstdero Schreibens vom 21ten d. M. zu befehlen geruhet haben, daß die Beantwortung desselben, wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen, biß zur Einkunfft des von dem Etats Minister v. Voss erforderten Berichts ausgesetzt bleiben solle. Ich verharre mit der tiefsten Ehrerbietung Euer Hochfürstlichen Durchlaucht Berlin",
+    "den 25ten Januar 1799.",
+    "untertänigster diener",
+    "Beyme"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0206_b-L100_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 19
+   "doc_line_end": 18
   }
  ],
  "mentions": [
@@ -59,38 +64,24 @@
    "kind": "person",
    "surface": "Voss",
    "page": 1,
-   "page_id": "",
+   "page_id": "0206_b",
    "scan": "Oe_1_Bu_9454_0206_b-L100_01.jpg",
-   "line": 7759,
-   "doc_line": 10
-  }
- ],
- "mentions_english": [
+   "line": 7766,
+   "doc_line": 11
+  },
   {
-   "entity": "",
+   "entity": "beyme",
    "display": "Beyme",
    "kind": "person",
-   "surface_de": "Beyme",
-   "surface_en": "Beyme",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Voss",
-   "kind": "person",
-   "surface_de": "v. Voss",
-   "surface_en": "von Voss",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
+   "surface": "Beyme",
+   "page": 1,
+   "page_id": "0206_b",
+   "scan": "Oe_1_Bu_9454_0206_b-L100_01.jpg",
+   "line": 7773,
+   "doc_line": 18
   }
  ],
+ "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -99,44 +90,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0206_b",
    "scan": "Oe_1_Bu_9454_0206_b-L100_01.jpg",
-   "line": 7764,
+   "line": 7770,
    "doc_line": 15
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Copy. Most Serene Prince! Most gracious Prince and Lord! I do not fail to report most humbly to Your Most Serene Highness that His Majesty, upon the presentation of Your Most Serene Highness's letter of the 21st of this month, has been graciously pleased to command that the answering of the same, as Your Most Serene Highness yourself appeared to expect, shall remain deferred until the arrival of the report required from the Minister of State von Voss. I persist with the deepest reverence Your Most Serene Highness's Berlin, the 25th of January 1799. (ad 1 February 1799) most humble and obedient servant Beyme",
-   "names": [
-    {
-     "de": "Beyme",
-     "en": "Beyme",
-     "kind": "person"
-    },
-    {
-     "de": "v. Voss",
-     "en": "von Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "21",
-    "25",
-    "1799",
-    "1",
-    "1799"
-   ]
-  }
- ],
- "text_english": "Copy. Most Serene Prince! Most gracious Prince and Lord! I do not fail to report most humbly to Your Most Serene Highness that His Majesty, upon the presentation of Your Most Serene Highness's letter of the 21st of this month, has been graciously pleased to command that the answering of the same, as Your Most Serene Highness yourself appeared to expect, shall remain deferred until the arrival of the report required from the Minister of State von Voss. I persist with the deepest reverence Your Most Serene Highness's Berlin, the 25th of January 1799. (ad 1 February 1799) most humble and obedient servant Beyme",
- "summary_en": "A copy of a brief reply from the cabinet secretary Beyme, reporting that the King, having been shown the Prince of Hohenlohe-Ingelfingen's letter of the 21st, has ordered that any answer be held back until the report called for from Minister of State von Voss comes in, an outcome the Prince had himself anticipated. Noted as received on 1 February 1799.",
- "summary_de": "Abschrift einer Mitteilung des Kabinettsrats Beyme: Der König habe das Schreiben des Fürsten vom 21. des Monats zur Kenntnis genommen und befohlen, die Antwort darauf – wie der Fürst selbst erwartet habe – bis zum Eingang des vom Staatsminister von Voss angeforderten Berichts aufzuschieben. Mit Eingangsvermerk zum 1. Februar 1799. Mehr als diese Nachricht über den Aufschub enthält das Blatt nicht."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

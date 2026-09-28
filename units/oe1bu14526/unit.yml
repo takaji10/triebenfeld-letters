@@ -33,8 +33,10 @@ era: hohenlohe
 # the citation string; this is the slug that groups holdings.
 repository: hzan-neuenstein
 
-# Raw scans live outside the project. crop_scans.py reads from raw_dir and
-# writes single pages into raw_dir/processed/.
+# Raw scans live outside the project, and are needed only to crop the pages
+# again: crop_scans.py reads from raw_dir and writes into raw_dir/processed/.
+# The finished pages are in pages/, and the intake records (manifest, fold,
+# trim and skew decisions) are kept in units/<slug>/intake/.
 scans:
   raw_dir: C:/Users/Tersnaus/Downloads/Oe 1_Bue 14526
   raw_glob: Oe 1_Bü 14526_*.jpg
@@ -48,7 +50,7 @@ scans:
 # import_pages.py reads them in filename order and writes corpus.txt, so the
 # pairing is declared rather than reconstructed later.
 transcriptions:
-  dir: C:/Users/Tersnaus/Downloads/Oe 1_Bue 14526/processed/transcriptions
+  dir: transcriptions          # units/<slug>/transcriptions/
   glob: "*.txt"
 
   # How to get the page's archival identity out of a transcription filename.

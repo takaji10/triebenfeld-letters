@@ -93,6 +93,17 @@
    "doc_line": 16
   },
   {
+   "entity": "danckelmann",
+   "display": "Danckelmann",
+   "kind": "person",
+   "surface": "Danckelmann",
+   "page": 1,
+   "page_id": "0152_a2",
+   "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
+   "line": 4103,
+   "doc_line": 21
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -154,7 +165,7 @@
    "page": 1
   },
   {
-   "entity": "",
+   "entity": "danckelmann",
    "display": "Danckelmann",
    "kind": "person",
    "surface_de": "Danckelmann",
@@ -201,6 +212,17 @@
    "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
    "line": 4102,
    "doc_line": 20
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0152_a2",
+   "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
+   "line": 4107,
+   "doc_line": 25
   }
  ],
  "translation_status": "draft",

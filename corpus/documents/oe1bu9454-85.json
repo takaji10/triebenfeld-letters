@@ -17,61 +17,66 @@
  "year": 1798,
  "month": 12,
  "day": 4,
- "place": "Berlin",
+ "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 6780,
- "line_end": 6835,
+ "line_start": 6787,
+ "line_end": 6843,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "krotoszyn",
+  "polajewo"
+ ],
  "is_missing": 0,
- "n_lines": 55,
+ "n_lines": 54,
  "n_pages": 2,
- "text": "Abschrifft\nHochgebohrner Fürst!\nFreundlich lieber Geim!\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\nd. J. vorinn Sie mir die Verleuschung Ihre Südßwürstl. Gü¬\nther gegen die Domainen Aemter Krotoszyn und Polajewo\nantragen, dato eingegangenen Bericht des Eit: Miricht v. Vor¬\nhabe. Ich ersehen, daß das Amt Krotoszyn allein, schon\njezt, wenn nur die bey der jezigen Verpachtung nicht\nmit zum Anschlag gebracht Pertinenzien hinzukommen,\neine eine Revenue von 49043. Reichl. gewährt, die über¬\nbey einer neuen richtigen Veranschlagung noch anſehe-\nlich erhöhet werden kann, weil der Kr. Rath v. Triebenfeld\nnur die A. 95. geschehene Abtretung der Pacht, einen\nbenen Abstand von 26,000. Richt. erhalten hat. Ich wür¬\nde also, ohne diesen Vortheil zu rühmen; und ohne de¬\nrauf Rücksicht zu nehmen, daß die überflüßige Wal¬\ndung ſehr bedeutende, und vortheilhafte Redungen zu„\nlüsst, ſchon nach dem gegenwärtigen Zustande, jährlich\n17400. Rich. gegen den angegebenen Ertrag Ihrer Gü¬\nther und der darauf zuzuschießenden Capitalien ver¬\nliere. Bey dieser Länge der Sache, die Ewr Lieb\nden gewiß so wenig, als mir bekant gewesen ist,\ndie aber dadurch bestättiget wird, daß selbt Ihre\nnur zu einem jährlichen Ertrage von §. 650. Rthl ver¬\nunschlagte\n\nGüther, nachdem darin ohngefähr 26,000. viel\nzu Meliorationen verwendet worden, jezt\nschon 40,500. Rthl jährlichen Ertrag gewähren, ver¬\nden Sie selbst einsehen, daß der Staat sich\nauf die angetragene Vertauschung gar\nnicht einlaßen kann. Ich hatte, durch ich nicht\nBeyspiel belehrt, schon unterm 19ten July d. J.\ndem Et: Min: v Voß aufgegeben, alle derglei¬\nchen Anträge von der Hand zu weisen. Dem\nnach bin ich aus wehren Hochschätzung Ewr\nLiebden, auf Ihre spätere Vorschlag entrirt\nund nur der evidente Beweiß, von dem daraus\nfür das Staats Interesse entspringenden Nach\ntheil, hält mich ab, ihn zu genehmigen. Ich bin\nes daher auch versichert, daß Sie hirren die\nGesinnungen der aufrichtigeten Freundschnett\nund Hochschätzung nicht verkennen werden, wo¬\nmit ich verbleibe\nEwr Liebden\ngutwilliger Grün\nFriedrich Wilhelm.\nBerlin\ndie 4te Decbr.\n1798.\nA Mon Cousin le Prince\nde Hohenlohe Ingelfingen\nà Breslau",
- "text_reading": "Abschrifft\n\nHochgebohrner Fürst!\n\nFreundlich lieber Geim!\n\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\n\nd. J. vorinn Sie mir die Verleuschung Ihre Südßwürstl. Güther gegen die Domainen Aemter Krotoszyn und Polajewo antragen, dato eingegangenen Bericht des Eit: Miricht v. Vor habe. Ich ersehen, daß das Amt Krotoszyn allein, schon jezt, wenn nur die bey der jezigen Verpachtung nicht mit zum Anschlag gebracht Pertinenzien hinzukommen, eine eine Revenue von 49043. Reichl. gewährt, die über bey einer neuen richtigen Veranschlagung noch anſehe- lich erhöhet werden kann, weil der Kr. Rath v. Triebenfeld nur die A. 95. geschehene Abtretung der Pacht, einen benen Abstand von 26,000. Richt. erhalten hat. Ich würde also, ohne diesen Vortheil zu rühmen; und ohne de rauf Rücksicht zu nehmen, daß die überflüßige Waldung ſehr bedeutende, und vortheilhafte Redungen zu„ lüsst, ſchon nach dem gegenwärtigen Zustande, jährlich 17400. Rich. gegen den angegebenen Ertrag Ihrer Güther und der darauf zuzuschießenden Capitalien verliere. Bey dieser Länge der Sache, die Ewr Lieb den gewiß so wenig, als mir bekant gewesen ist, die aber dadurch bestättiget wird, daß selbt Ihre nur zu einem jährlichen Ertrage von §. 650. Rthl ver unschlagte\n\nGüther, nachdem darin ohngefähr 26,000. viel zu Meliorationen verwendet worden, jezt schon 40,500. Rthl jährlichen Ertrag gewähren, verden Sie selbst einsehen, daß der Staat sich auf die angetragene Vertauschung gar nicht einlaßen kann. Ich hatte, durch ich nicht Beyspiel belehrt, schon unterm 19ten July d. J. dem Et: Min: v Voß aufgegeben, alle dergleichen Anträge von der Hand zu weisen. Dem nach bin ich aus wehren Hochschätzung Ewr Liebden, auf Ihre spätere Vorschlag entrirt und nur der evidente Beweiß, von dem daraus für das Staats Interesse entspringenden Nach theil, hält mich ab, ihn zu genehmigen. Ich bin es daher auch versichert, daß Sie hirren die Gesinnungen der aufrichtigeten Freundschnett und Hochschätzung nicht verkennen werden, womit ich verbleibe\n\nEwr Liebden\n\ngutwilliger Grün\n\nFriedrich Wilhelm.\n\nBerlin\n\ndie 4te Decbr.\n\n1798.\n\nA Mon Cousin le Prince\n\nde Hohenlohe Ingelfingen\n\nà Breslau",
+ "text": "85\nAbschrifft\nHochgebohrner Fürst!\nFreundlich lieber Oheim!\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\nd. J. worinn Sie mir die Vertauschung Ihre Südßpreüstl. Gü¬\nther gegen die Domainen Aemter Krotoszyn und Polajewo\nantragen, dato eingegangenen Bericht des Et[ats] Minichr. v. Voss,\nhabe Ich ersehen, daß das Amt Krotoszyn allein, schon\njezt, wenn nur die bey der jezigen Verpachtung nicht\nmit zum Anschlag gebracht Pertinenzien hinzukommen,\neine eine Revenue von 49043. Reichth. gewährt, die aber\nbey einer neuen richtigen Veranschlagung noch anſehn¬\nlich erhöhet werden kann, weil der Kr[ieges]. Rath v. Triebenfeld\nnur die A. 95. geschehene Abtretung der Pacht, einen\nbenen Abstand von 26,000. Richt. erhalten hat. Ich wür¬\nde also, ohne diesen Vortheil zu rühmen; und ohne da¬\nrauf Rücksicht zu nehmen, daß die überflüßige Wal¬\ndung ſehr bedeutende, und vortheilhafte Rodungen zu¬\nlässt, ſchon nach dem gegenwärtigen Zustande, jährlich\n17400. Reicht. gegen den angegebenen Ertrag Ihrer Gü¬\nther und der darauf zuzuschießenden Capitalien ver¬\nliere. Bey dieser Lage der Sache, die Ewr Lieb\nden gewiß so wenig, als mir bekant gewesen ist,\ndie aber dadurch bestättiget wird, daß selbt Ihre\nnur zu einem jährlichen Ertrage von 8650. Rthl. ver¬\nanschlagte\nGüther, nachdem darin ohngefähr 26,000. Reicht.\nzu Meliorationen verwendet worden, jezt\nschon 40,500. rt. jährlichen Ertrag gewähren, ver¬\nden Sie selbst einsehen, daß der Staat sich\nauf die angetragene Vertauschung gar\nnicht einlaßen kann. Ich hatte, durch ich nicht\nBeyspiel belehrt, schon unterm 19ten July d. J.\ndem Et[ats]: Min[ister]: v Voß aufgegeben, alle derglei¬\nchen Anträge von der Hand zu weisen. Dem\nnach bin ich aus wehren Hochschätzung Ewr\nLiebden, auf Ihre spätere Vorschlag entrirt\nund nur der evidente Beweiß, von dem daraus\nfür das Staats Interesse entspringenden Nach\ntheil, hält mich ab, ihn zu genehmigen. Ich bin\nes daher auch versichert, daß Sie hierin die\nGesinnungen der aufrichtigsten Freundschaft\nund Hochschätzung nicht verkennen werden, wo¬\nmit ich verbleibe\nEwr Liebden\nBerlin\n1798.\ndie 4te Decbr.\ngutwilliger Grün\nFriedrich Wilhelm.\nA Mon Cousin le Prince\nde Hohenlohe Ingelfingen\nà Breslau",
+ "text_reading": "85\n\nAbschrifft\n\nHochgebohrner Fürst!\n\nFreundlich lieber Oheim!\n\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\n\nd. J. worinn Sie mir die Vertauschung Ihre Südßpreüstl. Güther gegen die Domainen Aemter Krotoszyn und Polajewo antragen, dato eingegangenen Bericht des Et[ats] Minichr. v. Voss, habe Ich ersehen, daß das Amt Krotoszyn allein, schon jezt, wenn nur die bey der jezigen Verpachtung nicht mit zum Anschlag gebracht Pertinenzien hinzukommen, eine eine Revenue von 49043. Reichth. gewährt, die aber bey einer neuen richtigen Veranschlagung noch anſehnlich erhöhet werden kann, weil der Kr[ieges]. Rath v. Triebenfeld nur die A. 95. geschehene Abtretung der Pacht, einen benen Abstand von 26,000. Richt. erhalten hat. Ich würde also, ohne diesen Vortheil zu rühmen; und ohne darauf Rücksicht zu nehmen, daß die überflüßige Waldung ſehr bedeutende, und vortheilhafte Rodungen zulässt, ſchon nach dem gegenwärtigen Zustande, jährlich 17400. Reicht. gegen den angegebenen Ertrag Ihrer Güther und der darauf zuzuschießenden Capitalien verliere. Bey dieser Lage der Sache, die Ewr Lieb den gewiß so wenig, als mir bekant gewesen ist, die aber dadurch bestättiget wird, daß selbt Ihre nur zu einem jährlichen Ertrage von 8650. Rthl. veranschlagte\n\nGüther, nachdem darin ohngefähr 26,000. Reicht. zu Meliorationen verwendet worden, jezt schon 40,500. rt. jährlichen Ertrag gewähren, verden Sie selbst einsehen, daß der Staat sich auf die angetragene Vertauschung gar nicht einlaßen kann. Ich hatte, durch ich nicht Beyspiel belehrt, schon unterm 19ten July d. J. dem Et[ats]: Min[ister]: v Voß aufgegeben, alle dergleichen Anträge von der Hand zu weisen. Dem nach bin ich aus wehren Hochschätzung Ewr Liebden, auf Ihre spätere Vorschlag entrirt und nur der evidente Beweiß, von dem daraus für das Staats Interesse entspringenden Nach theil, hält mich ab, ihn zu genehmigen. Ich bin es daher auch versichert, daß Sie hierin die Gesinnungen der aufrichtigsten Freundschaft und Hochschätzung nicht verkennen werden, womit ich verbleibe\n\nEwr Liebden\n\nBerlin\n\n1798.\n\ndie 4te Decbr.\n\ngutwilliger Grün\n\nFriedrich Wilhelm.\n\nA Mon Cousin le Prince\n\nde Hohenlohe Ingelfingen\n\nà Breslau",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 6781,
-   "line_end": 6806,
-   "n_lines": 26,
-   "diplomatic": "Abschrifft\nHochgebohrner Fürst!\nFreundlich lieber Geim!\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\nd. J. vorinn Sie mir die Verleuschung Ihre Südßwürstl. Gü¬\nther gegen die Domainen Aemter Krotoszyn und Polajewo\nantragen, dato eingegangenen Bericht des Eit: Miricht v. Vor¬\nhabe. Ich ersehen, daß das Amt Krotoszyn allein, schon\njezt, wenn nur die bey der jezigen Verpachtung nicht\nmit zum Anschlag gebracht Pertinenzien hinzukommen,\neine eine Revenue von 49043. Reichl. gewährt, die über¬\nbey einer neuen richtigen Veranschlagung noch anſehe-\nlich erhöhet werden kann, weil der Kr. Rath v. Triebenfeld\nnur die A. 95. geschehene Abtretung der Pacht, einen\nbenen Abstand von 26,000. Richt. erhalten hat. Ich wür¬\nde also, ohne diesen Vortheil zu rühmen; und ohne de¬\nrauf Rücksicht zu nehmen, daß die überflüßige Wal¬\ndung ſehr bedeutende, und vortheilhafte Redungen zu„\nlüsst, ſchon nach dem gegenwärtigen Zustande, jährlich\n17400. Rich. gegen den angegebenen Ertrag Ihrer Gü¬\nther und der darauf zuzuschießenden Capitalien ver¬\nliere. Bey dieser Länge der Sache, die Ewr Lieb\nden gewiß so wenig, als mir bekant gewesen ist,\ndie aber dadurch bestättiget wird, daß selbt Ihre\nnur zu einem jährlichen Ertrage von §. 650. Rthl ver¬\nunschlagte",
-   "transcription": "Abschrifft\nHochgebohrner Fürst!\nFreundlich lieber Geim!\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\nd. J. vorinn Sie mir die Verleuschung Ihre Südßwürstl. Gü-\nther gegen die Domainen Aemter Krotoszyn und Polajewo\nantragen, dato eingegangenen Bericht des Eit: Miricht v. Vor\nhabe. Ich ersehen, daß das Amt Krotoszyn allein, schon\njezt, wenn nur die bey der jezigen Verpachtung nicht\nmit zum Anschlag gebracht Pertinenzien hinzukommen,\neine eine Revenue von 49043. Reichl. gewährt, die über\nbey einer neuen richtigen Veranschlagung noch anſehe-\nlich erhöhet werden kann, weil der Kr. Rath v. Triebenfeld\nnur die A. 95. geschehene Abtretung der Pacht, einen\nbenen Abstand von 26,000. Richt. erhalten hat. Ich wür-\nde also, ohne diesen Vortheil zu rühmen; und ohne de\nrauf Rücksicht zu nehmen, daß die überflüßige Wal-\ndung ſehr bedeutende, und vortheilhafte Redungen zu„\nlüsst, ſchon nach dem gegenwärtigen Zustande, jährlich\n17400. Rich. gegen den angegebenen Ertrag Ihrer Gü-\nther und der darauf zuzuschießenden Capitalien ver-\nliere. Bey dieser Länge der Sache, die Ewr Lieb\nden gewiß so wenig, als mir bekant gewesen ist,\ndie aber dadurch bestättiget wird, daß selbt Ihre\nnur zu einem jährlichen Ertrage von §. 650. Rthl ver\nunschlagte",
-   "reading": "Abschrifft\n\nHochgebohrner Fürst!\n\nFreundlich lieber Geim!\n\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\n\nd. J. vorinn Sie mir die Verleuschung Ihre Südßwürstl. Güther gegen die Domainen Aemter Krotoszyn und Polajewo antragen, dato eingegangenen Bericht des Eit: Miricht v. Vor habe. Ich ersehen, daß das Amt Krotoszyn allein, schon jezt, wenn nur die bey der jezigen Verpachtung nicht mit zum Anschlag gebracht Pertinenzien hinzukommen, eine eine Revenue von 49043. Reichl. gewährt, die über bey einer neuen richtigen Veranschlagung noch anſehe- lich erhöhet werden kann, weil der Kr. Rath v. Triebenfeld nur die A. 95. geschehene Abtretung der Pacht, einen benen Abstand von 26,000. Richt. erhalten hat. Ich würde also, ohne diesen Vortheil zu rühmen; und ohne de rauf Rücksicht zu nehmen, daß die überflüßige Waldung ſehr bedeutende, und vortheilhafte Redungen zu„ lüsst, ſchon nach dem gegenwärtigen Zustande, jährlich 17400. Rich. gegen den angegebenen Ertrag Ihrer Güther und der darauf zuzuschießenden Capitalien verliere. Bey dieser Länge der Sache, die Ewr Lieb den gewiß so wenig, als mir bekant gewesen ist, die aber dadurch bestättiget wird, daß selbt Ihre nur zu einem jährlichen Ertrage von §. 650. Rthl ver unschlagte",
+   "page_id": "0177_a",
+   "line_start": 6789,
+   "line_end": 6815,
+   "n_lines": 27,
+   "diplomatic": "85\nAbschrifft\nHochgebohrner Fürst!\nFreundlich lieber Oheim!\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\nd. J. worinn Sie mir die Vertauschung Ihre Südßpreüstl. Gü¬\nther gegen die Domainen Aemter Krotoszyn und Polajewo\nantragen, dato eingegangenen Bericht des Et[ats] Minichr. v. Voss,\nhabe Ich ersehen, daß das Amt Krotoszyn allein, schon\njezt, wenn nur die bey der jezigen Verpachtung nicht\nmit zum Anschlag gebracht Pertinenzien hinzukommen,\neine eine Revenue von 49043. Reichth. gewährt, die aber\nbey einer neuen richtigen Veranschlagung noch anſehn¬\nlich erhöhet werden kann, weil der Kr[ieges]. Rath v. Triebenfeld\nnur die A. 95. geschehene Abtretung der Pacht, einen\nbenen Abstand von 26,000. Richt. erhalten hat. Ich wür¬\nde also, ohne diesen Vortheil zu rühmen; und ohne da¬\nrauf Rücksicht zu nehmen, daß die überflüßige Wal¬\ndung ſehr bedeutende, und vortheilhafte Rodungen zu¬\nlässt, ſchon nach dem gegenwärtigen Zustande, jährlich\n17400. Reicht. gegen den angegebenen Ertrag Ihrer Gü¬\nther und der darauf zuzuschießenden Capitalien ver¬\nliere. Bey dieser Lage der Sache, die Ewr Lieb\nden gewiß so wenig, als mir bekant gewesen ist,\ndie aber dadurch bestättiget wird, daß selbt Ihre\nnur zu einem jährlichen Ertrage von 8650. Rthl. ver¬\nanschlagte",
+   "transcription": "85\nAbschrifft\nHochgebohrner Fürst!\nFreundlich lieber Oheim!\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\nd. J. worinn Sie mir die Vertauschung Ihre Südßpreüstl. Gü-\nther gegen die Domainen Aemter Krotoszyn und Polajewo\nantragen, dato eingegangenen Bericht des Et[ats] Minichr. v. Voss,\nhabe Ich ersehen, daß das Amt Krotoszyn allein, schon\njezt, wenn nur die bey der jezigen Verpachtung nicht\nmit zum Anschlag gebracht Pertinenzien hinzukommen,\neine eine Revenue von 49043. Reichth. gewährt, die aber\nbey einer neuen richtigen Veranschlagung noch anſehn-\nlich erhöhet werden kann, weil der Kr[ieges]. Rath v. Triebenfeld\nnur die A. 95. geschehene Abtretung der Pacht, einen\nbenen Abstand von 26,000. Richt. erhalten hat. Ich wür-\nde also, ohne diesen Vortheil zu rühmen; und ohne da-\nrauf Rücksicht zu nehmen, daß die überflüßige Wal-\ndung ſehr bedeutende, und vortheilhafte Rodungen zu-\nlässt, ſchon nach dem gegenwärtigen Zustande, jährlich\n17400. Reicht. gegen den angegebenen Ertrag Ihrer Gü-\nther und der darauf zuzuschießenden Capitalien ver-\nliere. Bey dieser Lage der Sache, die Ewr Lieb\nden gewiß so wenig, als mir bekant gewesen ist,\ndie aber dadurch bestättiget wird, daß selbt Ihre\nnur zu einem jährlichen Ertrage von 8650. Rthl. ver-\nanschlagte",
+   "reading": "85\n\nAbschrifft\n\nHochgebohrner Fürst!\n\nFreundlich lieber Oheim!\n\nAus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.\n\nd. J. worinn Sie mir die Vertauschung Ihre Südßpreüstl. Güther gegen die Domainen Aemter Krotoszyn und Polajewo antragen, dato eingegangenen Bericht des Et[ats] Minichr. v. Voss, habe Ich ersehen, daß das Amt Krotoszyn allein, schon jezt, wenn nur die bey der jezigen Verpachtung nicht mit zum Anschlag gebracht Pertinenzien hinzukommen, eine eine Revenue von 49043. Reichth. gewährt, die aber bey einer neuen richtigen Veranschlagung noch anſehnlich erhöhet werden kann, weil der Kr[ieges]. Rath v. Triebenfeld nur die A. 95. geschehene Abtretung der Pacht, einen benen Abstand von 26,000. Richt. erhalten hat. Ich würde also, ohne diesen Vortheil zu rühmen; und ohne darauf Rücksicht zu nehmen, daß die überflüßige Waldung ſehr bedeutende, und vortheilhafte Rodungen zulässt, ſchon nach dem gegenwärtigen Zustande, jährlich 17400. Reicht. gegen den angegebenen Ertrag Ihrer Güther und der darauf zuzuschießenden Capitalien verliere. Bey dieser Lage der Sache, die Ewr Lieb den gewiß so wenig, als mir bekant gewesen ist, die aber dadurch bestättiget wird, daß selbt Ihre nur zu einem jährlichen Ertrage von 8650. Rthl. veranschlagte",
    "paragraphs": [
+    "85",
     "Abschrifft",
     "Hochgebohrner Fürst!",
-    "Freundlich lieber Geim!",
+    "Freundlich lieber Oheim!",
     "Aus dem, über Ew. Liebden gefälliges Schreiben vom 29ten Febr.",
-    "d. J. vorinn Sie mir die Verleuschung Ihre Südßwürstl. Güther gegen die Domainen Aemter Krotoszyn und Polajewo antragen, dato eingegangenen Bericht des Eit: Miricht v. Vor habe. Ich ersehen, daß das Amt Krotoszyn allein, schon jezt, wenn nur die bey der jezigen Verpachtung nicht mit zum Anschlag gebracht Pertinenzien hinzukommen, eine eine Revenue von 49043. Reichl. gewährt, die über bey einer neuen richtigen Veranschlagung noch anſehe- lich erhöhet werden kann, weil der Kr. Rath v. Triebenfeld nur die A. 95. geschehene Abtretung der Pacht, einen benen Abstand von 26,000. Richt. erhalten hat. Ich würde also, ohne diesen Vortheil zu rühmen; und ohne de rauf Rücksicht zu nehmen, daß die überflüßige Waldung ſehr bedeutende, und vortheilhafte Redungen zu„ lüsst, ſchon nach dem gegenwärtigen Zustande, jährlich 17400. Rich. gegen den angegebenen Ertrag Ihrer Güther und der darauf zuzuschießenden Capitalien verliere. Bey dieser Länge der Sache, die Ewr Lieb den gewiß so wenig, als mir bekant gewesen ist, die aber dadurch bestättiget wird, daß selbt Ihre nur zu einem jährlichen Ertrage von §. 650. Rthl ver unschlagte"
+    "d. J. worinn Sie mir die Vertauschung Ihre Südßpreüstl. Güther gegen die Domainen Aemter Krotoszyn und Polajewo antragen, dato eingegangenen Bericht des Et[ats] Minichr. v. Voss, habe Ich ersehen, daß das Amt Krotoszyn allein, schon jezt, wenn nur die bey der jezigen Verpachtung nicht mit zum Anschlag gebracht Pertinenzien hinzukommen, eine eine Revenue von 49043. Reichth. gewährt, die aber bey einer neuen richtigen Veranschlagung noch anſehnlich erhöhet werden kann, weil der Kr[ieges]. Rath v. Triebenfeld nur die A. 95. geschehene Abtretung der Pacht, einen benen Abstand von 26,000. Richt. erhalten hat. Ich würde also, ohne diesen Vortheil zu rühmen; und ohne darauf Rücksicht zu nehmen, daß die überflüßige Waldung ſehr bedeutende, und vortheilhafte Rodungen zulässt, ſchon nach dem gegenwärtigen Zustande, jährlich 17400. Reicht. gegen den angegebenen Ertrag Ihrer Güther und der darauf zuzuschießenden Capitalien verliere. Bey dieser Lage der Sache, die Ewr Lieb den gewiß so wenig, als mir bekant gewesen ist, die aber dadurch bestättiget wird, daß selbt Ihre nur zu einem jährlichen Ertrage von 8650. Rthl. veranschlagte"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0177_a-L85_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 26
+   "doc_line_end": 27
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 6808,
-   "line_end": 6834,
+   "page_id": "0178_a1",
+   "line_start": 6817,
+   "line_end": 6843,
    "n_lines": 27,
-   "diplomatic": "Güther, nachdem darin ohngefähr 26,000. viel\nzu Meliorationen verwendet worden, jezt\nschon 40,500. Rthl jährlichen Ertrag gewähren, ver¬\nden Sie selbst einsehen, daß der Staat sich\nauf die angetragene Vertauschung gar\nnicht einlaßen kann. Ich hatte, durch ich nicht\nBeyspiel belehrt, schon unterm 19ten July d. J.\ndem Et: Min: v Voß aufgegeben, alle derglei¬\nchen Anträge von der Hand zu weisen. Dem\nnach bin ich aus wehren Hochschätzung Ewr\nLiebden, auf Ihre spätere Vorschlag entrirt\nund nur der evidente Beweiß, von dem daraus\nfür das Staats Interesse entspringenden Nach\ntheil, hält mich ab, ihn zu genehmigen. Ich bin\nes daher auch versichert, daß Sie hirren die\nGesinnungen der aufrichtigeten Freundschnett\nund Hochschätzung nicht verkennen werden, wo¬\nmit ich verbleibe\nEwr Liebden\ngutwilliger Grün\nFriedrich Wilhelm.\nBerlin\ndie 4te Decbr.\n1798.\nA Mon Cousin le Prince\nde Hohenlohe Ingelfingen\nà Breslau",
-   "transcription": "Güther, nachdem darin ohngefähr 26,000. viel\nzu Meliorationen verwendet worden, jezt\nschon 40,500. Rthl jährlichen Ertrag gewähren, ver-\nden Sie selbst einsehen, daß der Staat sich\nauf die angetragene Vertauschung gar\nnicht einlaßen kann. Ich hatte, durch ich nicht\nBeyspiel belehrt, schon unterm 19ten July d. J.\ndem Et: Min: v Voß aufgegeben, alle derglei-\nchen Anträge von der Hand zu weisen. Dem\nnach bin ich aus wehren Hochschätzung Ewr\nLiebden, auf Ihre spätere Vorschlag entrirt\nund nur der evidente Beweiß, von dem daraus\nfür das Staats Interesse entspringenden Nach\ntheil, hält mich ab, ihn zu genehmigen. Ich bin\nes daher auch versichert, daß Sie hirren die\nGesinnungen der aufrichtigeten Freundschnett\nund Hochschätzung nicht verkennen werden, wo-\nmit ich verbleibe\nEwr Liebden\ngutwilliger Grün\nFriedrich Wilhelm.\nBerlin\ndie 4te Decbr.\n1798.\nA Mon Cousin le Prince\nde Hohenlohe Ingelfingen\nà Breslau",
-   "reading": "Güther, nachdem darin ohngefähr 26,000. viel zu Meliorationen verwendet worden, jezt schon 40,500. Rthl jährlichen Ertrag gewähren, verden Sie selbst einsehen, daß der Staat sich auf die angetragene Vertauschung gar nicht einlaßen kann. Ich hatte, durch ich nicht Beyspiel belehrt, schon unterm 19ten July d. J. dem Et: Min: v Voß aufgegeben, alle dergleichen Anträge von der Hand zu weisen. Dem nach bin ich aus wehren Hochschätzung Ewr Liebden, auf Ihre spätere Vorschlag entrirt und nur der evidente Beweiß, von dem daraus für das Staats Interesse entspringenden Nach theil, hält mich ab, ihn zu genehmigen. Ich bin es daher auch versichert, daß Sie hirren die Gesinnungen der aufrichtigeten Freundschnett und Hochschätzung nicht verkennen werden, womit ich verbleibe\n\nEwr Liebden\n\ngutwilliger Grün\n\nFriedrich Wilhelm.\n\nBerlin\n\ndie 4te Decbr.\n\n1798.\n\nA Mon Cousin le Prince\n\nde Hohenlohe Ingelfingen\n\nà Breslau",
+   "diplomatic": "Güther, nachdem darin ohngefähr 26,000. Reicht.\nzu Meliorationen verwendet worden, jezt\nschon 40,500. rt. jährlichen Ertrag gewähren, ver¬\nden Sie selbst einsehen, daß der Staat sich\nauf die angetragene Vertauschung gar\nnicht einlaßen kann. Ich hatte, durch ich nicht\nBeyspiel belehrt, schon unterm 19ten July d. J.\ndem Et[ats]: Min[ister]: v Voß aufgegeben, alle derglei¬\nchen Anträge von der Hand zu weisen. Dem\nnach bin ich aus wehren Hochschätzung Ewr\nLiebden, auf Ihre spätere Vorschlag entrirt\nund nur der evidente Beweiß, von dem daraus\nfür das Staats Interesse entspringenden Nach\ntheil, hält mich ab, ihn zu genehmigen. Ich bin\nes daher auch versichert, daß Sie hierin die\nGesinnungen der aufrichtigsten Freundschaft\nund Hochschätzung nicht verkennen werden, wo¬\nmit ich verbleibe\nEwr Liebden\nBerlin\n1798.\ndie 4te Decbr.\ngutwilliger Grün\nFriedrich Wilhelm.\nA Mon Cousin le Prince\nde Hohenlohe Ingelfingen\nà Breslau",
+   "transcription": "Güther, nachdem darin ohngefähr 26,000. Reicht.\nzu Meliorationen verwendet worden, jezt\nschon 40,500. rt. jährlichen Ertrag gewähren, ver-\nden Sie selbst einsehen, daß der Staat sich\nauf die angetragene Vertauschung gar\nnicht einlaßen kann. Ich hatte, durch ich nicht\nBeyspiel belehrt, schon unterm 19ten July d. J.\ndem Et[ats]: Min[ister]: v Voß aufgegeben, alle derglei-\nchen Anträge von der Hand zu weisen. Dem\nnach bin ich aus wehren Hochschätzung Ewr\nLiebden, auf Ihre spätere Vorschlag entrirt\nund nur der evidente Beweiß, von dem daraus\nfür das Staats Interesse entspringenden Nach\ntheil, hält mich ab, ihn zu genehmigen. Ich bin\nes daher auch versichert, daß Sie hierin die\nGesinnungen der aufrichtigsten Freundschaft\nund Hochschätzung nicht verkennen werden, wo-\nmit ich verbleibe\nEwr Liebden\nBerlin\n1798.\ndie 4te Decbr.\ngutwilliger Grün\nFriedrich Wilhelm.\nA Mon Cousin le Prince\nde Hohenlohe Ingelfingen\nà Breslau",
+   "reading": "Güther, nachdem darin ohngefähr 26,000. Reicht. zu Meliorationen verwendet worden, jezt schon 40,500. rt. jährlichen Ertrag gewähren, verden Sie selbst einsehen, daß der Staat sich auf die angetragene Vertauschung gar nicht einlaßen kann. Ich hatte, durch ich nicht Beyspiel belehrt, schon unterm 19ten July d. J. dem Et[ats]: Min[ister]: v Voß aufgegeben, alle dergleichen Anträge von der Hand zu weisen. Dem nach bin ich aus wehren Hochschätzung Ewr Liebden, auf Ihre spätere Vorschlag entrirt und nur der evidente Beweiß, von dem daraus für das Staats Interesse entspringenden Nach theil, hält mich ab, ihn zu genehmigen. Ich bin es daher auch versichert, daß Sie hierin die Gesinnungen der aufrichtigsten Freundschaft und Hochschätzung nicht verkennen werden, womit ich verbleibe\n\nEwr Liebden\n\nBerlin\n\n1798.\n\ndie 4te Decbr.\n\ngutwilliger Grün\n\nFriedrich Wilhelm.\n\nA Mon Cousin le Prince\n\nde Hohenlohe Ingelfingen\n\nà Breslau",
    "paragraphs": [
-    "Güther, nachdem darin ohngefähr 26,000. viel zu Meliorationen verwendet worden, jezt schon 40,500. Rthl jährlichen Ertrag gewähren, verden Sie selbst einsehen, daß der Staat sich auf die angetragene Vertauschung gar nicht einlaßen kann. Ich hatte, durch ich nicht Beyspiel belehrt, schon unterm 19ten July d. J. dem Et: Min: v Voß aufgegeben, alle dergleichen Anträge von der Hand zu weisen. Dem nach bin ich aus wehren Hochschätzung Ewr Liebden, auf Ihre spätere Vorschlag entrirt und nur der evidente Beweiß, von dem daraus für das Staats Interesse entspringenden Nach theil, hält mich ab, ihn zu genehmigen. Ich bin es daher auch versichert, daß Sie hirren die Gesinnungen der aufrichtigeten Freundschnett und Hochschätzung nicht verkennen werden, womit ich verbleibe",
+    "Güther, nachdem darin ohngefähr 26,000. Reicht. zu Meliorationen verwendet worden, jezt schon 40,500. rt. jährlichen Ertrag gewähren, verden Sie selbst einsehen, daß der Staat sich auf die angetragene Vertauschung gar nicht einlaßen kann. Ich hatte, durch ich nicht Beyspiel belehrt, schon unterm 19ten July d. J. dem Et[ats]: Min[ister]: v Voß aufgegeben, alle dergleichen Anträge von der Hand zu weisen. Dem nach bin ich aus wehren Hochschätzung Ewr Liebden, auf Ihre spätere Vorschlag entrirt und nur der evidente Beweiß, von dem daraus für das Staats Interesse entspringenden Nach theil, hält mich ab, ihn zu genehmigen. Ich bin es daher auch versichert, daß Sie hierin die Gesinnungen der aufrichtigsten Freundschaft und Hochschätzung nicht verkennen werden, womit ich verbleibe",
     "Ewr Liebden",
+    "Berlin",
+    "1798.",
+    "die 4te Decbr.",
     "gutwilliger Grün",
     "Friedrich Wilhelm.",
-    "Berlin",
-    "die 4te Decbr.",
-    "1798.",
     "A Mon Cousin le Prince",
     "de Hohenlohe Ingelfingen",
     "à Breslau"
@@ -79,21 +84,32 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
-   "doc_line_start": 27,
-   "doc_line_end": 53
+   "doc_line_start": 28,
+   "doc_line_end": 54
   }
  ],
  "mentions": [
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface": "Voss",
+   "page": 1,
+   "page_id": "0177_a",
+   "scan": "Oe_1_Bu_9454_0177_a-L85_01.jpg",
+   "line": 6796,
+   "doc_line": 8
+  },
   {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0177_a",
    "scan": "Oe_1_Bu_9454_0177_a-L85_01.jpg",
-   "line": 6793,
-   "doc_line": 13
+   "line": 6802,
+   "doc_line": 14
   },
   {
    "entity": "hohenlohe",
@@ -101,122 +117,69 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 2,
-   "page_id": "",
+   "page_id": "0178_a1",
    "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
-   "line": 6833,
-   "doc_line": 52
+   "line": 6842,
+   "doc_line": 53
   }
  ],
- "mentions_english": [
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [
   {
-   "entity": "",
-   "display": "v. Voß",
-   "kind": "person",
-   "surface_de": "v Voß",
-   "surface_en": "v. Voß",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "[uncertain: Miricht]",
-   "kind": "person",
-   "surface_de": "Eit: Miricht",
-   "surface_en": "[uncertain: Miricht]",
-   "page": 1
-  },
-  {
-   "entity": "",
+   "entity": "krotoszyn",
    "display": "Krotoszyn",
    "kind": "place",
-   "surface_de": "Krotoszyn",
-   "surface_en": "Krotoszyn",
-   "page": 1
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0177_a",
+   "scan": "Oe_1_Bu_9454_0177_a-L85_01.jpg",
+   "line": 6795,
+   "doc_line": 7
   },
   {
-   "entity": "",
+   "entity": "polajewo",
    "display": "Polajewo",
    "kind": "place",
-   "surface_de": "Polajewo",
-   "surface_en": "Polajewo",
-   "page": 1
+   "surface": "Polajewo",
+   "page": 1,
+   "page_id": "0177_a",
+   "scan": "Oe_1_Bu_9454_0177_a-L85_01.jpg",
+   "line": 6795,
+   "doc_line": 7
   },
   {
-   "entity": "triebenfeld",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v. Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "[uncertain: Geim]",
-   "kind": "person",
-   "surface_de": "Geim",
-   "surface_en": "[uncertain: Geim]",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "South Prussian",
-   "kind": "other",
-   "surface_de": "Südßwürstl.",
-   "surface_en": "South Prussian",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Voß",
-   "kind": "person",
-   "surface_de": "v Voß",
-   "surface_en": "v. Voß",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Friedrich Wilhelm",
-   "kind": "person",
-   "surface_de": "Friedrich Wilhelm",
-   "surface_en": "Friedrich Wilhelm",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
    "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0177_a",
+   "scan": "Oe_1_Bu_9454_0177_a-L85_01.jpg",
+   "line": 6797,
+   "doc_line": 9
   },
-  {
-   "entity": "",
-   "display": "Prince of Hohenlohe Ingelfingen",
-   "kind": "person",
-   "surface_de": "Prince de Hohenlohe Ingelfingen",
-   "surface_en": "Prince of Hohenlohe Ingelfingen",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 2
-  }
- ],
- "place_canonical": "Berlin",
- "place_mentions": [
   {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0178_a1",
    "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
-   "line": 6829,
-   "doc_line": 48
+   "line": 6836,
+   "doc_line": 47
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0178_a1",
+   "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
+   "line": 6842,
+   "doc_line": 53
   },
   {
    "entity": "breslau",
@@ -224,103 +187,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
-   "page_id": "",
+   "page_id": "0178_a1",
    "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
-   "line": 6834,
-   "doc_line": 53
+   "line": 6843,
+   "doc_line": 54
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Copy\n\nHigh-born Prince!\n\nFriendly dear [uncertain: Geim]!\n\nFrom the report of the State Minister v. [uncertain: Miricht] v. Voß, come in this day upon Your Lordship's obliging letter of the 29th of February of this year, wherein you propose to me the exchange of your South Prussian estates against the domain offices Krotoszyn and Polajewo, I have seen that the office of Krotoszyn alone already now, if only those appurtenances are added which were not brought into the valuation at the present leasing, yields a revenue of 49043 Rthl, which moreover, upon a new and correct valuation, can still be considerably increased, because the Councillor of War v. Triebenfeld received, merely for the surrender of the lease effected in the year 95, a compensation of 26,000 Rthl. I should therefore, without boasting of this advantage, and without taking into account that the superfluous woodland permits very considerable and advantageous clearings, already in the present state lose yearly 17400 Rthl against the stated yield of your estates and the capital sums to be paid in upon them. Given this [uncertain: length] of the matter, which has certainly been as little known to Your Lordship as to me, but which is confirmed by the fact that even your estates, valued at a yearly yield of only 650 Rthl,",
-   "names": [
-    {
-     "de": "v Voß",
-     "en": "v. Voß",
-     "kind": "person"
-    },
-    {
-     "de": "Eit: Miricht",
-     "en": "[uncertain: Miricht]",
-     "kind": "person"
-    },
-    {
-     "de": "Krotoszyn",
-     "en": "Krotoszyn",
-     "kind": "place"
-    },
-    {
-     "de": "Polajewo",
-     "en": "Polajewo",
-     "kind": "place"
-    },
-    {
-     "de": "v. Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Geim",
-     "en": "[uncertain: Geim]",
-     "kind": "person"
-    },
-    {
-     "de": "Südßwürstl.",
-     "en": "South Prussian",
-     "kind": "other"
-    }
-   ],
-   "numbers": [
-    "29",
-    "49043",
-    "95",
-    "26,000",
-    "17400",
-    "650"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "estates, after roughly 26,000 [text lost] were expended thereon for improvements, already now yield 40,500 Rthl of yearly income, you will yourself perceive that the State cannot enter at all upon the proposed exchange. I had, [uncertain: instructed] by no example, already on the 19th of July of this year charged the State Minister v. Voß to reject all proposals of this kind out of hand. Accordingly it is out of [uncertain: sincere] high regard for Your Lordship that I have entered upon your later proposal, and only the evident proof of the disadvantage arising therefrom for the interest of the State restrains me from approving it. I am therefore also assured that you will not mistake herein the sentiments of the most sincere friendship and high regard with which I remain\n\nYour Lordship's\n\nwell-disposed [uncertain: Grün]\n\nFriedrich Wilhelm.\n\nBerlin\n\nthe 4th of December\n\n1798.\n\nTo My Cousin the Prince\n\nof Hohenlohe Ingelfingen\n\nat Breslau",
-   "names": [
-    {
-     "de": "v Voß",
-     "en": "v. Voß",
-     "kind": "person"
-    },
-    {
-     "de": "Friedrich Wilhelm",
-     "en": "Friedrich Wilhelm",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Prince de Hohenlohe Ingelfingen",
-     "en": "Prince of Hohenlohe Ingelfingen",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "26,000",
-    "40,500",
-    "19",
-    "4",
-    "1798"
-   ]
-  }
- ],
- "text_english": "Copy\n\nHigh-born Prince!\n\nFriendly dear [uncertain: Geim]!\n\nFrom the report of the State Minister v. [uncertain: Miricht] v. Voß, come in this day upon Your Lordship's obliging letter of the 29th of February of this year, wherein you propose to me the exchange of your South Prussian estates against the domain offices Krotoszyn and Polajewo, I have seen that the office of Krotoszyn alone already now, if only those appurtenances are added which were not brought into the valuation at the present leasing, yields a revenue of 49043 Rthl, which moreover, upon a new and correct valuation, can still be considerably increased, because the Councillor of War v. Triebenfeld received, merely for the surrender of the lease effected in the year 95, a compensation of 26,000 Rthl. I should therefore, without boasting of this advantage, and without taking into account that the superfluous woodland permits very considerable and advantageous clearings, already in the present state lose yearly 17400 Rthl against the stated yield of your estates and the capital sums to be paid in upon them. Given this [uncertain: length] of the matter, which has certainly been as little known to Your Lordship as to me, but which is confirmed by the fact that even your estates, valued at a yearly yield of only 650 Rthl,\n\nestates, after roughly 26,000 [text lost] were expended thereon for improvements, already now yield 40,500 Rthl of yearly income, you will yourself perceive that the State cannot enter at all upon the proposed exchange. I had, [uncertain: instructed] by no example, already on the 19th of July of this year charged the State Minister v. Voß to reject all proposals of this kind out of hand. Accordingly it is out of [uncertain: sincere] high regard for Your Lordship that I have entered upon your later proposal, and only the evident proof of the disadvantage arising therefrom for the interest of the State restrains me from approving it. I am therefore also assured that you will not mistake herein the sentiments of the most sincere friendship and high regard with which I remain\n\nYour Lordship's\n\nwell-disposed [uncertain: Grün]\n\nFriedrich Wilhelm.\n\nBerlin\n\nthe 4th of December\n\n1798.\n\nTo My Cousin the Prince\n\nof Hohenlohe Ingelfingen\n\nat Breslau",
- "summary_en": "King Friedrich Wilhelm refuses, in a copy of a royal letter, the Prince of Hohenlohe-Ingelfingen's proposal of 29 February to exchange his South Prussian estates for the domain offices of Krotoszyn and Polajewo: on the minister von Voss's report, Krotoszyn alone yields 49,043 Rthl, so the State would lose some 17,400 Rthl a year. He notes Councillor of War von Triebenfeld received 26,000 Rthl in 1795 for surrendering the lease, and that he had already ordered such proposals rejected.",
- "summary_de": "Abschrift einer Ablehnung König Friedrich Wilhelms: Der vom Fürsten mit Schreiben vom 29. Februar vorgeschlagene Tausch seiner südpreußischen Güter gegen die Domänenämter Krotoszyn und Polajewo kommt nicht zustande. Nach dem Bericht des Staatsministers v. Voß bringe allein Krotoszyn 49043 Rthl Ertrag, zumal der Kriegsrat v. Triebenfeld schon 1795 für die Abtretung der Pacht 26000 Rthl Entschädigung erhielt; der Staat verlöre jährlich 17400 Rthl. Voß sei angewiesen, solche Tauschanträge künftig abzulehnen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

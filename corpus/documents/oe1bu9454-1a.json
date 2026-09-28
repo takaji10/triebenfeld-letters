@@ -9,43 +9,49 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1815-02-12",
- "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1815-02-12]",
- "date_inferred_from": "supplied by researcher",
+ "date_iso": "1815-02",
+ "date_precision": "month",
+ "date_source": "signature",
+ "date_display": "1815",
+ "date_inferred_from": "",
  "year": 1815,
  "month": 2,
- "day": 12,
+ "day": "",
  "place": "Wien",
  "sender": "",
  "recipient": "",
- "line_start": 66,
- "line_end": 92,
+ "line_start": 82,
+ "line_end": 108,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg",
+  "trabczyn"
+ ],
  "is_missing": 0,
- "n_lines": 26,
+ "n_lines": 25,
  "n_pages": 1,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es\nvogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von\nHohenlohe Höchst denenselben Lebensest zu Füßen zu legen\nvon der grenzenlaßen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet\nunaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und lindern des\nBlad des armen Fürsten, durch den Vorschuß von 112000 Rthl Nur dadurch ist\nder in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine\nwelcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich\ngänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät\nkommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorschuß\nvon 112000 Rthl bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darst\nnicht mehr hängern\nWas die Trąbczyner Güter in Koniner\nKreise betrifft, wovon der Fürst in sein\nSchreiben Erwehnung macht, darüber\nerbitte ich Ewr Durchlaucht gnädigste\nWeisung - ob\nOb ich jezt die Urkunden, und andere\nDocumente einreichen darf.\nEw. Hochfürstl. Durchlaucht\nunterthäniger diener\nWien d. 12. in Febr.\n1815",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es vogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von Hohenlohe Höchst denenselben Lebensest zu Füßen zu legen von der grenzenlaßen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet unaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und lindern des Blad des armen Fürsten, durch den Vorschuß von 112000 Rthl Nur dadurch ist der in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine welcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich gänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät kommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorschuß von 112000 Rthl bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darst nicht mehr hängern Was die Trąbczyner Güter in Koniner Kreise betrifft, wovon der Fürst in sein Schreiben Erwehnung macht, darüber erbitte ich Ewr Durchlaucht gnädigste Weisung - ob Ob ich jezt die Urkunden, und andere Documente einreichen darf.\n\nEw. Hochfürstl. Durchlaucht\n\nunterthäniger diener\n\nWien d. 12. in Febr.\n\n1815",
+ "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es\nvogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von\nHohenlohe Höchst denenselben Lebensest zu Füßen zu legen\nvon der grenzenloſen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet\nunaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und ländern des\nBlad des armen Fürsten, durch den Vorschuß von 112000 rt. Nur dadurch ist\nder in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine\nwelcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich\ngänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät\nkommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorsitzung\nvon 112000 R bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darf\nnicht mehr hungern\nWas die Trąbczyner Güter in Koniner\nKreise betrifft, wovon der Fürst in sein\nSchreiben Erwehnung macht, darüber\nerbitte ich Ewr Durchlaucht gnädigste\nWeisung - ob\nOb ich jezt die Urkunden, und andere\nDocumente einreichen darf.\nEw. Hochfürstl. Durchlaucht\nunterthäniger diener\nWien d. 12. in Febr.\n1815",
+ "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es vogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von Hohenlohe Höchst denenselben Lebensest zu Füßen zu legen von der grenzenloſen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet unaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und ländern des Blad des armen Fürsten, durch den Vorschuß von 112000 rt. Nur dadurch ist der in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine welcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich gänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät kommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorsitzung von 112000 R bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darf nicht mehr hungern Was die Trąbczyner Güter in Koniner Kreise betrifft, wovon der Fürst in sein Schreiben Erwehnung macht, darüber erbitte ich Ewr Durchlaucht gnädigste Weisung - ob Ob ich jezt die Urkunden, und andere Documente einreichen darf.\n\nEw. Hochfürstl. Durchlaucht\n\nunterthäniger diener\n\nWien d. 12. in Febr.\n\n1815",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 67,
-   "line_end": 91,
+   "page_id": "0002_a",
+   "line_start": 84,
+   "line_end": 108,
    "n_lines": 25,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es\nvogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von\nHohenlohe Höchst denenselben Lebensest zu Füßen zu legen\nvon der grenzenlaßen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet\nunaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und lindern des\nBlad des armen Fürsten, durch den Vorschuß von 112000 Rthl Nur dadurch ist\nder in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine\nwelcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich\ngänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät\nkommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorschuß\nvon 112000 Rthl bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darst\nnicht mehr hängern\nWas die Trąbczyner Güter in Koniner\nKreise betrifft, wovon der Fürst in sein\nSchreiben Erwehnung macht, darüber\nerbitte ich Ewr Durchlaucht gnädigste\nWeisung - ob\nOb ich jezt die Urkunden, und andere\nDocumente einreichen darf.\nEw. Hochfürstl. Durchlaucht\nunterthäniger diener\nWien d. 12. in Febr.\n1815",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es\nvogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von\nHohenlohe Höchst denenselben Lebensest zu Füßen zu legen\nvon der grenzenlaßen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet\nunaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und lindern des\nBlad des armen Fürsten, durch den Vorschuß von 112000 Rthl Nur dadurch ist\nder in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine\nwelcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich\ngänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät\nkommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorschuß\nvon 112000 Rthl bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darst\nnicht mehr hängern\nWas die Trąbczyner Güter in Koniner\nKreise betrifft, wovon der Fürst in sein\nSchreiben Erwehnung macht, darüber\nerbitte ich Ewr Durchlaucht gnädigste\nWeisung - ob\nOb ich jezt die Urkunden, und andere\nDocumente einreichen darf.\nEw. Hochfürstl. Durchlaucht\nunterthäniger diener\nWien d. 12. in Febr.\n1815",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es vogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von Hohenlohe Höchst denenselben Lebensest zu Füßen zu legen von der grenzenlaßen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet unaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und lindern des Blad des armen Fürsten, durch den Vorschuß von 112000 Rthl Nur dadurch ist der in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine welcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich gänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät kommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorschuß von 112000 Rthl bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darst nicht mehr hängern Was die Trąbczyner Güter in Koniner Kreise betrifft, wovon der Fürst in sein Schreiben Erwehnung macht, darüber erbitte ich Ewr Durchlaucht gnädigste Weisung - ob Ob ich jezt die Urkunden, und andere Documente einreichen darf.\n\nEw. Hochfürstl. Durchlaucht\n\nunterthäniger diener\n\nWien d. 12. in Febr.\n\n1815",
+   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es\nvogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von\nHohenlohe Höchst denenselben Lebensest zu Füßen zu legen\nvon der grenzenloſen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet\nunaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und ländern des\nBlad des armen Fürsten, durch den Vorschuß von 112000 rt. Nur dadurch ist\nder in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine\nwelcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich\ngänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät\nkommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorsitzung\nvon 112000 R bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darf\nnicht mehr hungern\nWas die Trąbczyner Güter in Koniner\nKreise betrifft, wovon der Fürst in sein\nSchreiben Erwehnung macht, darüber\nerbitte ich Ewr Durchlaucht gnädigste\nWeisung - ob\nOb ich jezt die Urkunden, und andere\nDocumente einreichen darf.\nEw. Hochfürstl. Durchlaucht\nunterthäniger diener\nWien d. 12. in Febr.\n1815",
+   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es\nvogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von\nHohenlohe Höchst denenselben Lebensest zu Füßen zu legen\nvon der grenzenloſen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet\nunaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und ländern des\nBlad des armen Fürsten, durch den Vorschuß von 112000 rt. Nur dadurch ist\nder in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine\nwelcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich\ngänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät\nkommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorsitzung\nvon 112000 R bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darf\nnicht mehr hungern\nWas die Trąbczyner Güter in Koniner\nKreise betrifft, wovon der Fürst in sein\nSchreiben Erwehnung macht, darüber\nerbitte ich Ewr Durchlaucht gnädigste\nWeisung - ob\nOb ich jezt die Urkunden, und andere\nDocumente einreichen darf.\nEw. Hochfürstl. Durchlaucht\nunterthäniger diener\nWien d. 12. in Febr.\n1815",
+   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es vogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von Hohenlohe Höchst denenselben Lebensest zu Füßen zu legen von der grenzenloſen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet unaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und ländern des Blad des armen Fürsten, durch den Vorschuß von 112000 rt. Nur dadurch ist der in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine welcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich gänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät kommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorsitzung von 112000 R bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darf nicht mehr hungern Was die Trąbczyner Güter in Koniner Kreise betrifft, wovon der Fürst in sein Schreiben Erwehnung macht, darüber erbitte ich Ewr Durchlaucht gnädigste Weisung - ob Ob ich jezt die Urkunden, und andere Documente einreichen darf.\n\nEw. Hochfürstl. Durchlaucht\n\nunterthäniger diener\n\nWien d. 12. in Febr.\n\n1815",
    "paragraphs": [
     "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "Ewr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es vogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von Hohenlohe Höchst denenselben Lebensest zu Füßen zu legen von der grenzenlaßen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet unaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und lindern des Blad des armen Fürsten, durch den Vorschuß von 112000 Rthl Nur dadurch ist der in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine welcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich gänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät kommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorschuß von 112000 Rthl bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darst nicht mehr hängern Was die Trąbczyner Güter in Koniner Kreise betrifft, wovon der Fürst in sein Schreiben Erwehnung macht, darüber erbitte ich Ewr Durchlaucht gnädigste Weisung - ob Ob ich jezt die Urkunden, und andere Documente einreichen darf.",
+    "Ewr Hochfürstliche Durchlaucht höchst gnädigste Verzeihung erstehe ich, daß ich es vogt ein so eben erhaltenes Schreiben des so höchst bedrängten Fürsten von Hohenlohe Höchst denenselben Lebensest zu Füßen zu legen von der grenzenloſen Noth dieses alten beiden Mannes läßt sich kein Bildentwurf, er leidet unaussprechlich - Erbarmen sich Ewr Hochfürstliche Durchlaucht, und ländern des Blad des armen Fürsten, durch den Vorschuß von 112000 rt. Nur dadurch ist der in höchster Noth schmachtende gute Fürst gerettet. Die Curlandische Erben (eine welcher Willen sich Cosmar in die Majorats Güter allein eingedrängt, sind sogleich gänzlich befriediget, Cosmars Gewalt hat ein Ende, auch selbst Sr Majestät kommen ex nexa und erhalten bey die großen Fonds der Majorats Güter der Vorsitzung von 112000 R bald zurück, jeder Gläubiger erhält nach und nach das Seinige und der Fürst darf nicht mehr hungern Was die Trąbczyner Güter in Koniner Kreise betrifft, wovon der Fürst in sein Schreiben Erwehnung macht, darüber erbitte ich Ewr Durchlaucht gnädigste Weisung - ob Ob ich jezt die Urkunden, und andere Documente einreichen darf.",
     "Ew. Hochfürstl. Durchlaucht",
     "unterthäniger diener",
     "Wien d. 12. in Febr.",
@@ -65,9 +71,9 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0002_a",
    "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
-   "line": 71,
+   "line": 88,
    "doc_line": 5
   },
   {
@@ -76,9 +82,9 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0002_a",
    "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
-   "line": 76,
+   "line": 93,
    "doc_line": 10
   },
   {
@@ -87,62 +93,13 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0002_a",
    "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
-   "line": 77,
+   "line": 94,
    "doc_line": 11
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Prince of Hohenlohe",
-   "kind": "person",
-   "surface_de": "Fürsten von Hohenlohe",
-   "surface_en": "Prince of Hohenlohe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Courland",
-   "kind": "place",
-   "surface_de": "Curlandische",
-   "surface_en": "Courland",
-   "page": 1
-  },
-  {
-   "entity": "cosmar",
-   "display": "Cosmar",
-   "kind": "person",
-   "surface_de": "Cosmar",
-   "surface_en": "Cosmar",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyner",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Konin district",
-   "kind": "place",
-   "surface_de": "Koniner Kreise",
-   "surface_en": "Konin district",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -151,9 +108,9 @@
    "kind": "place",
    "surface": "Koniner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0002_a",
    "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
-   "line": 81,
+   "line": 98,
    "doc_line": 15
   },
   {
@@ -162,58 +119,26 @@
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0002_a",
    "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
-   "line": 81,
+   "line": 98,
    "doc_line": 15
-  }
- ],
- "translation_status": "draft",
- "translation": [
+  },
   {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
    "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nI beseech Your Most Serene Highness's most gracious pardon that I [uncertain: vogt] to lay at the feet of the same, a letter just now received from the so grievously beset Prince of Hohenlohe, most highly [uncertain: Lebensest]; of the boundless distress of this old [uncertain: both/two] man no sketch can be drawn, he suffers unspeakably - Have mercy, Your Most Serene Highness, and soften the [uncertain: Blad] of the poor Prince, by the advance of 112000 Rthl. Only by this means is the good Prince, languishing in the utmost distress, saved. The Courland heirs (against whose will Cosmar has forced himself alone into the entailed estates) are thereby at once entirely satisfied; Cosmar's power is at an end; even His Majesty too comes out of the entanglement (ex nexu) and, given the great funds of the entailed estates, receives the advance of 112000 Rthl back before long; every creditor receives his own by degrees, and the Prince need no longer [uncertain: hängern]. As concerns the Trąbczyn estates in the Konin district, of which the Prince makes mention in his letter, upon that I beg Your Serene Highness's most gracious instruction - whether I may now submit the deeds and other documents.\n\nYour Most Serene Highness's\n\nhumble and obedient servant\n\nVienna, the 12th of February\n\n1815",
-   "names": [
-    {
-     "de": "Fürsten von Hohenlohe",
-     "en": "Prince of Hohenlohe",
-     "kind": "person"
-    },
-    {
-     "de": "Curlandische",
-     "en": "Courland",
-     "kind": "place"
-    },
-    {
-     "de": "Cosmar",
-     "en": "Cosmar",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczyner",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Koniner Kreise",
-     "en": "Konin district",
-     "kind": "place"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "112000",
-    "112000",
-    "12",
-    "1815"
-   ]
+   "page_id": "0002_a",
+   "scan": "Oe_1_Bu_9454_0002_a-L1a_01.jpg",
+   "line": 107,
+   "doc_line": 24
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nI beseech Your Most Serene Highness's most gracious pardon that I [uncertain: vogt] to lay at the feet of the same, a letter just now received from the so grievously beset Prince of Hohenlohe, most highly [uncertain: Lebensest]; of the boundless distress of this old [uncertain: both/two] man no sketch can be drawn, he suffers unspeakably - Have mercy, Your Most Serene Highness, and soften the [uncertain: Blad] of the poor Prince, by the advance of 112000 Rthl. Only by this means is the good Prince, languishing in the utmost distress, saved. The Courland heirs (against whose will Cosmar has forced himself alone into the entailed estates) are thereby at once entirely satisfied; Cosmar's power is at an end; even His Majesty too comes out of the entanglement (ex nexu) and, given the great funds of the entailed estates, receives the advance of 112000 Rthl back before long; every creditor receives his own by degrees, and the Prince need no longer [uncertain: hängern]. As concerns the Trąbczyn estates in the Konin district, of which the Prince makes mention in his letter, upon that I beg Your Serene Highness's most gracious instruction - whether I may now submit the deeds and other documents.\n\nYour Most Serene Highness's\n\nhumble and obedient servant\n\nVienna, the 12th of February\n\n1815",
- "summary_en": "Forwards a just-received letter from another, hard-pressed Prince of Hohenlohe and pleads for an advance of 112,000 Rthl to relieve him: it would satisfy the Courland heirs at once, end Cosmar's hold on the entailed estates (which he had forced himself into alone), free His Majesty from the entanglement, repay the advance before long from the estates' funds and pay creditors by degrees. Asks whether to submit the deeds and papers for the Trąbczyn estates in the Konin district.",
- "summary_de": "Bittschrift, mit der Triebenfeld einen soeben eingegangenen Brief des bedrängten Fürsten von Hohenlohe vorlegt und für dessen Notlage einen Vorschuss von 112000 Rthl erbittet: damit seien die kurländischen Erben, die Cosmar gegen ihren Willen aus den Fideikommissgütern gedrängt habe, sogleich befriedigt, Cosmars Macht beendet, der König aus der Verstrickung gelöst und die Gläubiger nach und nach bezahlt. Zugleich Anfrage, ob er zu den Trąbczyner Gütern im Kreis Konin die Urkunden einreichen dürfe."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

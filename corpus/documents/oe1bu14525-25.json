@@ -779,6 +779,17 @@
    "doc_line": 14
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0112_a2",
+   "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+   "line": 3240,
+   "doc_line": 18
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -788,6 +799,17 @@
    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
    "line": 3240,
    "doc_line": 18
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 1,
+   "page_id": "0112_a2",
+   "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+   "line": 3242,
+   "doc_line": 20
   },
   {
    "entity": "berlin",
@@ -832,6 +854,17 @@
    "scan": "Oe_1_Bu_14525_0113_a1-L25_02.jpg",
    "line": 3265,
    "doc_line": 42
+  },
+  {
+   "entity": "breslau",
+   "display": "Breslau",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 3,
+   "page_id": "0113_a2",
+   "scan": "Oe_1_Bu_14525_0113_a2-L25_03.jpg",
+   "line": 3276,
+   "doc_line": 52
   },
   {
    "entity": "lowyn",

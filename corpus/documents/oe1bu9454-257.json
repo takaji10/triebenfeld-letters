@@ -1,6 +1,6 @@
 {
  "letter_id": "257",
- "seq_archival": 270,
+ "seq_archival": 267,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-257",
@@ -12,7 +12,7 @@
  "date_iso": "1814-10-07",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "darin d. 7. Oct. 1814",
+ "date_display": "[...] 7. Oct. 1814",
  "date_inferred_from": "",
  "year": 1814,
  "month": 10,
@@ -20,39 +20,44 @@
  "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 18352,
- "line_end": 18369,
- "uncertainty_count": 3,
+ "line_start": 18295,
+ "line_end": 18313,
+ "uncertainty_count": 6,
  "has_damage": 1,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
  "n_lines": 17,
  "n_pages": 1,
- "text": "Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23.\nOrs. d. J. bemerkt:\ndaß der Herr Fürst u Hohenlohe im Trans¬\nAct von 1811 sich anheiſchig gemacht habe,\ndas an die Curländischen Erben schuldige Capitul\nd[...] 500000[?] selbst zu bezahlen, und die Fr. Gr.\nvon der Mitverpflichtung zu be¬\nfür\nIch ersuche Sie daher ergebenst, die Stelle in\ndem beigefügten Transard, da ich ſie nicht\nauffinden kann, mit Rothestein oder sonst gefüllig\nanzustreichen, und durch den Ueberbringer mir\nsodann gütigst zurückbeschikten.\nMich ganz ergebenst empfehlung\nGruemann[??]\ndarin d. 7. Oct. 1814",
- "text_reading": "Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23. Ors. d. J. bemerkt:\n\ndaß der Herr Fürst u Hohenlohe im TransAct von 1811 sich anheiſchig gemacht habe, das an die Curländischen Erben schuldige Capitul d[...] 500000[?] selbst zu bezahlen, und die Fr. Gr. von der Mitverpflichtung zu be für Ich ersuche Sie daher ergebenst, die Stelle in dem beigefügten Transard, da ich ſie nicht auffinden kann, mit Rothestein oder sonst gefüllig anzustreichen, und durch den Ueberbringer mir sodann gütigst zurückbeschikten. Mich ganz ergebenst empfehlung\n\nGruemann[??]\n\ndarin d. 7. Oct. 1814",
+ "text": "257\nEw. Hochwolgeb. haben u. Ihrer Vorstellung vom 23.\nOct. d. J. bemerkt:\ndaß der Herr Fürst z[u] Hohenlohe im Trans¬\nAct von 1811 sich anheiſchig gemacht habe,\ndas an die Curländischen Erben schuldige Capital\nd[...] [5?]00/m selbst zu bezahlen, und die Fr. Gr.\nvon der Mitverpflichtung zu be¬\nste[?]\nIch ersuche Sie daher ergebenst, die Stelle in\ndem beigefügten Transard, da ich ſie nicht\nauffinden kann, mit Rothestein oder sonst gefüllig\nanzustreichen, und durch den Ueberbringer mir\nsodann gütigst zurückbeschikten.\nMich ganz ergebenst empfehlung\n[?]aumann[??]\n[...] 7. Oct. 1814",
+ "text_reading": "257 Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23. Oct. d. J. bemerkt:\n\ndaß der Herr Fürst z[u] Hohenlohe im TransAct von 1811 sich anheiſchig gemacht habe, das an die Curländischen Erben schuldige Capital d[...] [5?]00/m selbst zu bezahlen, und die Fr. Gr. von der Mitverpflichtung zu beste[?] Ich ersuche Sie daher ergebenst, die Stelle in dem beigefügten Transard, da ich ſie nicht auffinden kann, mit Rothestein oder sonst gefüllig anzustreichen, und durch den Ueberbringer mir sodann gütigst zurückbeschikten. Mich ganz ergebenst empfehlung\n\n[?]aumann[??]\n\n[...] 7. Oct. 1814",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 18353,
-   "line_end": 18368,
-   "n_lines": 16,
-   "diplomatic": "Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23.\nOrs. d. J. bemerkt:\ndaß der Herr Fürst u Hohenlohe im Trans¬\nAct von 1811 sich anheiſchig gemacht habe,\ndas an die Curländischen Erben schuldige Capitul\nd[...] 500000[?] selbst zu bezahlen, und die Fr. Gr.\nvon der Mitverpflichtung zu be¬\nfür\nIch ersuche Sie daher ergebenst, die Stelle in\ndem beigefügten Transard, da ich ſie nicht\nauffinden kann, mit Rothestein oder sonst gefüllig\nanzustreichen, und durch den Ueberbringer mir\nsodann gütigst zurückbeschikten.\nMich ganz ergebenst empfehlung\nGruemann[??]\ndarin d. 7. Oct. 1814",
-   "transcription": "Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23.\nOrs. d. J. bemerkt:\ndaß der Herr Fürst u Hohenlohe im Trans-\nAct von 1811 sich anheiſchig gemacht habe,\ndas an die Curländischen Erben schuldige Capitul\nd[...] 500000[?] selbst zu bezahlen, und die Fr. Gr.\nvon der Mitverpflichtung zu be\nfür\nIch ersuche Sie daher ergebenst, die Stelle in\ndem beigefügten Transard, da ich ſie nicht\nauffinden kann, mit Rothestein oder sonst gefüllig\nanzustreichen, und durch den Ueberbringer mir\nsodann gütigst zurückbeschikten.\nMich ganz ergebenst empfehlung\nGruemann[??]\ndarin d. 7. Oct. 1814",
-   "reading": "Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23. Ors. d. J. bemerkt:\n\ndaß der Herr Fürst u Hohenlohe im TransAct von 1811 sich anheiſchig gemacht habe, das an die Curländischen Erben schuldige Capitul d[...] 500000[?] selbst zu bezahlen, und die Fr. Gr. von der Mitverpflichtung zu be für Ich ersuche Sie daher ergebenst, die Stelle in dem beigefügten Transard, da ich ſie nicht auffinden kann, mit Rothestein oder sonst gefüllig anzustreichen, und durch den Ueberbringer mir sodann gütigst zurückbeschikten. Mich ganz ergebenst empfehlung\n\nGruemann[??]\n\ndarin d. 7. Oct. 1814",
+   "page_id": "0472_b",
+   "line_start": 18297,
+   "line_end": 18313,
+   "n_lines": 17,
+   "diplomatic": "257\nEw. Hochwolgeb. haben u. Ihrer Vorstellung vom 23.\nOct. d. J. bemerkt:\ndaß der Herr Fürst z[u] Hohenlohe im Trans¬\nAct von 1811 sich anheiſchig gemacht habe,\ndas an die Curländischen Erben schuldige Capital\nd[...] [5?]00/m selbst zu bezahlen, und die Fr. Gr.\nvon der Mitverpflichtung zu be¬\nste[?]\nIch ersuche Sie daher ergebenst, die Stelle in\ndem beigefügten Transard, da ich ſie nicht\nauffinden kann, mit Rothestein oder sonst gefüllig\nanzustreichen, und durch den Ueberbringer mir\nsodann gütigst zurückbeschikten.\nMich ganz ergebenst empfehlung\n[?]aumann[??]\n[...] 7. Oct. 1814",
+   "transcription": "257\nEw. Hochwolgeb. haben u. Ihrer Vorstellung vom 23.\nOct. d. J. bemerkt:\ndaß der Herr Fürst z[u] Hohenlohe im Trans-\nAct von 1811 sich anheiſchig gemacht habe,\ndas an die Curländischen Erben schuldige Capital\nd[...] [5?]00/m selbst zu bezahlen, und die Fr. Gr.\nvon der Mitverpflichtung zu be-\nste[?]\nIch ersuche Sie daher ergebenst, die Stelle in\ndem beigefügten Transard, da ich ſie nicht\nauffinden kann, mit Rothestein oder sonst gefüllig\nanzustreichen, und durch den Ueberbringer mir\nsodann gütigst zurückbeschikten.\nMich ganz ergebenst empfehlung\n[?]aumann[??]\n[...] 7. Oct. 1814",
+   "reading": "257 Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23. Oct. d. J. bemerkt:\n\ndaß der Herr Fürst z[u] Hohenlohe im TransAct von 1811 sich anheiſchig gemacht habe, das an die Curländischen Erben schuldige Capital d[...] [5?]00/m selbst zu bezahlen, und die Fr. Gr. von der Mitverpflichtung zu beste[?] Ich ersuche Sie daher ergebenst, die Stelle in dem beigefügten Transard, da ich ſie nicht auffinden kann, mit Rothestein oder sonst gefüllig anzustreichen, und durch den Ueberbringer mir sodann gütigst zurückbeschikten. Mich ganz ergebenst empfehlung\n\n[?]aumann[??]\n\n[...] 7. Oct. 1814",
    "paragraphs": [
-    "Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23. Ors. d. J. bemerkt:",
-    "daß der Herr Fürst u Hohenlohe im TransAct von 1811 sich anheiſchig gemacht habe, das an die Curländischen Erben schuldige Capitul d[...] 500000[?] selbst zu bezahlen, und die Fr. Gr. von der Mitverpflichtung zu be für Ich ersuche Sie daher ergebenst, die Stelle in dem beigefügten Transard, da ich ſie nicht auffinden kann, mit Rothestein oder sonst gefüllig anzustreichen, und durch den Ueberbringer mir sodann gütigst zurückbeschikten. Mich ganz ergebenst empfehlung",
-    "Gruemann[??]",
-    "darin d. 7. Oct. 1814"
+    "257 Ew. Hochwolgeb. haben u. Ihrer Vorstellung vom 23. Oct. d. J. bemerkt:",
+    "daß der Herr Fürst z[u] Hohenlohe im TransAct von 1811 sich anheiſchig gemacht habe, das an die Curländischen Erben schuldige Capital d[...] [5?]00/m selbst zu bezahlen, und die Fr. Gr. von der Mitverpflichtung zu beste[?] Ich ersuche Sie daher ergebenst, die Stelle in dem beigefügten Transard, da ich ſie nicht auffinden kann, mit Rothestein oder sonst gefüllig anzustreichen, und durch den Ueberbringer mir sodann gütigst zurückbeschikten. Mich ganz ergebenst empfehlung",
+    "[?]aumann[??]",
+    "[...] 7. Oct. 1814"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0472_b-L257_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 16
+   "doc_line_end": 17
   }
  ],
  "mentions": [
@@ -62,72 +67,18 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0472_b",
    "scan": "Oe_1_Bu_9454_0472_b-L257_01.jpg",
-   "line": 18355,
-   "doc_line": 3
+   "line": 18300,
+   "doc_line": 4
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "the Prince of Hohenlohe",
-   "kind": "person",
-   "surface_de": "Herr Fürst u Hohenlohe",
-   "surface_en": "the Prince of Hohenlohe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Courland",
-   "kind": "place",
-   "surface_de": "Curländischen",
-   "surface_en": "Courland",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Gruemann[uncertain]",
-   "kind": "person",
-   "surface_de": "Gruemann[??]",
-   "surface_en": "Gruemann[uncertain]",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Unknown",
  "place_mentions": [],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Your Right Honourable have observed in your representation of the 23rd of the [uncertain: present] month of this year:\n\nthat the Prince of Hohenlohe, in the settlement of 1811, undertook to pay himself the capital sum owing to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Countess of the joint obligation. I therefore most respectfully request that you be so kind as to mark the passage in the enclosed settlement with red chalk or otherwise, since I cannot find it, and then graciously send it back to me by the bearer. Commending myself most respectfully,\n\nGruemann[uncertain]\n\ntherein, the 7th of October 1814",
-   "names": [
-    {
-     "de": "Herr Fürst u Hohenlohe",
-     "en": "the Prince of Hohenlohe",
-     "kind": "person"
-    },
-    {
-     "de": "Curländischen",
-     "en": "Courland",
-     "kind": "place"
-    },
-    {
-     "de": "Gruemann[??]",
-     "en": "Gruemann[uncertain]",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "23",
-    "1811",
-    "500000",
-    "7",
-    "1814"
-   ]
-  }
- ],
- "text_english": "Your Right Honourable have observed in your representation of the 23rd of the [uncertain: present] month of this year:\n\nthat the Prince of Hohenlohe, in the settlement of 1811, undertook to pay himself the capital sum owing to the Courland heirs of [text lost] 500000[uncertain] and to [uncertain: relieve] the Countess of the joint obligation. I therefore most respectfully request that you be so kind as to mark the passage in the enclosed settlement with red chalk or otherwise, since I cannot find it, and then graciously send it back to me by the bearer. Commending myself most respectfully,\n\nGruemann[uncertain]\n\ntherein, the 7th of October 1814",
- "summary_en": "Gruemann questions a claim made in a submission of the 23rd that the Prince of Hohenlohe had undertaken, in an 1811 settlement, to pay the capital owed to the Courland heirs (a figure of some 500,000) himself and to release the Countess from joint liability. Unable to locate any such passage, he returns the settlement and asks that the wording be marked in red chalk and sent back by the bearer. A brief, damaged note.",
- "summary_de": "Rückfrage zu einer Eingabe vom 23. desselben Monats: Dort sei behauptet worden, der Fürst von Hohenlohe habe im Vergleich von 1811 zugesagt, das den kurländischen Erben geschuldete Kapital von 500000 Rthl selbst zu zahlen und die Gräfin aus der Mitverpflichtung zu entlassen. Da Gruemann diese Stelle im beigelegten Vergleich nicht findet, bittet er, sie mit Rotstift zu bezeichnen und ihm die Schrift durch den Boten zurückzugeben."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

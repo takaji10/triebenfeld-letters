@@ -18,36 +18,38 @@
  "month": 5,
  "day": 3,
  "place": "Königsberg",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 3835,
- "line_end": 3868,
+ "sender": "",
+ "recipient": "",
+ "line_start": 3852,
+ "line_end": 3885,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
- "n_lines": 33,
+ "n_lines": 32,
  "n_pages": 1,
- "text": "Dorchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro Ma¬\nJestät der Königin überricht was Allerhöchst dieselbe mit Wohlgefallen\naufgenommen haben. Übrigens ist die Sache von der Königin Majestät\nſogleich des Herrn Groß Canzlers Exel übergeben, welcher es sofort\nwieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über\ntragen, mit dem ich jezt in der Sache arbeite\ndes Herrn J M v. Beym Excq scheinen und es sehr auf der Form zu sehen,\nund daher glaube ich wird die Sache langweilig werden.\nDer Herr Cabineto Rath Allbrecht ist inzwischen der Biderste und edelſte\nmit\nMann den ich zu gekannt habe und der gewiß alles anworden wird und\nzum Ziele zu gelangen.\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten\nsind, so verschieden daß auch der Hellschendeste Kopf über die möglichen Ereigniße, in\nder Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde\nZingt der Baromiter anders, den einen Tag haben die Franzosen, den andern Tag\ndie Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben,\nSr Majestät veranlaßt, bey der Parole, den Befühl mit zu erteilen, daß\nauf keine Weise über Politische Gegenstände, die besonders den Krieg\nzwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni-\nMein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich\nmuß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften\nGeschäfte, und daher gehe ich oft vergeblich – dH General Lieut: v. Köchn. Excellence\nempfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle\nEwr Hochfürstliche Durchlaucht\nKonigsberg\nd. 3ten May\n1809.\ntreu gehorsamster Diener\nv Triebenfeld",
- "text_reading": "Dorchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro MaJestät der Königin überricht was Allerhöchst dieselbe mit Wohlgefallen aufgenommen haben. Übrigens ist die Sache von der Königin Majestät ſogleich des Herrn Groß Canzlers Exel übergeben, welcher es sofort wieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über tragen, mit dem ich jezt in der Sache arbeite des Herrn J M v. Beym Excq scheinen und es sehr auf der Form zu sehen, und daher glaube ich wird die Sache langweilig werden. Der Herr Cabineto Rath Allbrecht ist inzwischen der Biderste und edelſte mit Mann den ich zu gekannt habe und der gewiß alles anworden wird und zum Ziele zu gelangen.\n\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten sind, so verschieden daß auch der Hellschendeste Kopf über die möglichen Ereigniße, in der Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde Zingt der Baromiter anders, den einen Tag haben die Franzosen, den andern Tag die Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben, Sr Majestät veranlaßt, bey der Parole, den Befühl mit zu erteilen, daß auf keine Weise über Politische Gegenstände, die besonders den Krieg zwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni- Mein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich muß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften Geschäfte, und daher gehe ich oft vergeblich – dH General Lieut: v. Köchn. Excellence empfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle Ewr Hochfürstliche Durchlaucht\n\nKonigsberg\n\nd. 3ten May 1809.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+ "text": "52\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro Ma¬\nJestät der Königen überreicht was Allerhöchst dieselbe mit Wohlgefallen\naufgenommen haben. Übrigens ist die Sache von der Königin Majestät\nſogleich des Herrn Groß Kanzlers Exc[ellenz] übergeben, welcher es ſofort\nwieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über\ntragen, mit dem ich jezt in der Sache arbeite\ndes Herrn J M v. Beyme Excel[lenz]. scheinen und es sehr auf der Form zu sehen,\nund daher glaube ich wird die Sache langweilig werden.\nDer Herr Cabinets Rath Allbrecht ist inzwischen der Biderste und edelſte\nMann mit den ich zu gekannt habe und der gewiß alles anwenden wird und\nzum Ziele zu gelangen.\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten\nsind, so verschieden daß auch der Hellsehendeste Kopf über die möglichen Ereigniße, in\nder Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde\nZeigt der Barometer anders, den einen Tag haben die Franzosen, den andern Tag\ndie Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben,\nSr Majestät veranlaßt, bey der Parole, den Befehl mit zu erteilen, daß\nauf keine Weise über Politische Gegenstände, die besonders den Krieg\nzwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni-\nMein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich\nmuß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften\nGeschäfte, und daher gehe ich oft vergeblich – dH General Lieut[enant]: v. Köckritz Excellence\nempfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle\nEwr Hochfürstliche Durchlaucht\nKönigsberg\nd. 3ten May\n1809.\ntreu gehorsamster Diener\nv Triebenfeld",
+ "text_reading": "52\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro MaJestät der Königen überreicht was Allerhöchst dieselbe mit Wohlgefallen aufgenommen haben. Übrigens ist die Sache von der Königin Majestät ſogleich des Herrn Groß Kanzlers Exc[ellenz] übergeben, welcher es ſofort wieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über tragen, mit dem ich jezt in der Sache arbeite des Herrn J M v. Beyme Excel[lenz]. scheinen und es sehr auf der Form zu sehen, und daher glaube ich wird die Sache langweilig werden. Der Herr Cabinets Rath Allbrecht ist inzwischen der Biderste und edelſte Mann mit den ich zu gekannt habe und der gewiß alles anwenden wird und zum Ziele zu gelangen.\n\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten sind, so verschieden daß auch der Hellsehendeste Kopf über die möglichen Ereigniße, in der Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde Zeigt der Barometer anders, den einen Tag haben die Franzosen, den andern Tag die Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben, Sr Majestät veranlaßt, bey der Parole, den Befehl mit zu erteilen, daß auf keine Weise über Politische Gegenstände, die besonders den Krieg zwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni- Mein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich muß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften Geschäfte, und daher gehe ich oft vergeblich – dH General Lieut[enant]: v. Köckritz Excellence empfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle Ewr Hochfürstliche Durchlaucht\n\nKönigsberg\n\nd. 3ten May 1809.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 3836,
-   "line_end": 3867,
+   "page_id": "0099_b",
+   "line_start": 3854,
+   "line_end": 3885,
    "n_lines": 32,
-   "diplomatic": "Dorchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro Ma¬\nJestät der Königin überricht was Allerhöchst dieselbe mit Wohlgefallen\naufgenommen haben. Übrigens ist die Sache von der Königin Majestät\nſogleich des Herrn Groß Canzlers Exel übergeben, welcher es sofort\nwieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über\ntragen, mit dem ich jezt in der Sache arbeite\ndes Herrn J M v. Beym Excq scheinen und es sehr auf der Form zu sehen,\nund daher glaube ich wird die Sache langweilig werden.\nDer Herr Cabineto Rath Allbrecht ist inzwischen der Biderste und edelſte\nmit\nMann den ich zu gekannt habe und der gewiß alles anworden wird und\nzum Ziele zu gelangen.\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten\nsind, so verschieden daß auch der Hellschendeste Kopf über die möglichen Ereigniße, in\nder Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde\nZingt der Baromiter anders, den einen Tag haben die Franzosen, den andern Tag\ndie Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben,\nSr Majestät veranlaßt, bey der Parole, den Befühl mit zu erteilen, daß\nauf keine Weise über Politische Gegenstände, die besonders den Krieg\nzwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni-\nMein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich\nmuß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften\nGeschäfte, und daher gehe ich oft vergeblich – dH General Lieut: v. Köchn. Excellence\nempfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle\nEwr Hochfürstliche Durchlaucht\nKonigsberg\nd. 3ten May\n1809.\ntreu gehorsamster Diener\nv Triebenfeld",
-   "transcription": "Dorchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro Ma-\nJestät der Königin überricht was Allerhöchst dieselbe mit Wohlgefallen\naufgenommen haben. Übrigens ist die Sache von der Königin Majestät\nſogleich des Herrn Groß Canzlers Exel übergeben, welcher es sofort\nwieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über\ntragen, mit dem ich jezt in der Sache arbeite\ndes Herrn J M v. Beym Excq scheinen und es sehr auf der Form zu sehen,\nund daher glaube ich wird die Sache langweilig werden.\nDer Herr Cabineto Rath Allbrecht ist inzwischen der Biderste und edelſte\nmit\nMann den ich zu gekannt habe und der gewiß alles anworden wird und\nzum Ziele zu gelangen.\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten\nsind, so verschieden daß auch der Hellschendeste Kopf über die möglichen Ereigniße, in\nder Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde\nZingt der Baromiter anders, den einen Tag haben die Franzosen, den andern Tag\ndie Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben,\nSr Majestät veranlaßt, bey der Parole, den Befühl mit zu erteilen, daß\nauf keine Weise über Politische Gegenstände, die besonders den Krieg\nzwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni-\nMein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich\nmuß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften\nGeschäfte, und daher gehe ich oft vergeblich – dH General Lieut: v. Köchn. Excellence\nempfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle\nEwr Hochfürstliche Durchlaucht\nKonigsberg\nd. 3ten May\n1809.\ntreu gehorsamster Diener\nv Triebenfeld",
-   "reading": "Dorchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro MaJestät der Königin überricht was Allerhöchst dieselbe mit Wohlgefallen aufgenommen haben. Übrigens ist die Sache von der Königin Majestät ſogleich des Herrn Groß Canzlers Exel übergeben, welcher es sofort wieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über tragen, mit dem ich jezt in der Sache arbeite des Herrn J M v. Beym Excq scheinen und es sehr auf der Form zu sehen, und daher glaube ich wird die Sache langweilig werden. Der Herr Cabineto Rath Allbrecht ist inzwischen der Biderste und edelſte mit Mann den ich zu gekannt habe und der gewiß alles anworden wird und zum Ziele zu gelangen.\n\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten sind, so verschieden daß auch der Hellschendeste Kopf über die möglichen Ereigniße, in der Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde Zingt der Baromiter anders, den einen Tag haben die Franzosen, den andern Tag die Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben, Sr Majestät veranlaßt, bey der Parole, den Befühl mit zu erteilen, daß auf keine Weise über Politische Gegenstände, die besonders den Krieg zwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni- Mein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich muß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften Geschäfte, und daher gehe ich oft vergeblich – dH General Lieut: v. Köchn. Excellence empfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle Ewr Hochfürstliche Durchlaucht\n\nKonigsberg\n\nd. 3ten May 1809.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+   "diplomatic": "52\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro Ma¬\nJestät der Königen überreicht was Allerhöchst dieselbe mit Wohlgefallen\naufgenommen haben. Übrigens ist die Sache von der Königin Majestät\nſogleich des Herrn Groß Kanzlers Exc[ellenz] übergeben, welcher es ſofort\nwieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über\ntragen, mit dem ich jezt in der Sache arbeite\ndes Herrn J M v. Beyme Excel[lenz]. scheinen und es sehr auf der Form zu sehen,\nund daher glaube ich wird die Sache langweilig werden.\nDer Herr Cabinets Rath Allbrecht ist inzwischen der Biderste und edelſte\nMann mit den ich zu gekannt habe und der gewiß alles anwenden wird und\nzum Ziele zu gelangen.\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten\nsind, so verschieden daß auch der Hellsehendeste Kopf über die möglichen Ereigniße, in\nder Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde\nZeigt der Barometer anders, den einen Tag haben die Franzosen, den andern Tag\ndie Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben,\nSr Majestät veranlaßt, bey der Parole, den Befehl mit zu erteilen, daß\nauf keine Weise über Politische Gegenstände, die besonders den Krieg\nzwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni-\nMein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich\nmuß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften\nGeschäfte, und daher gehe ich oft vergeblich – dH General Lieut[enant]: v. Köckritz Excellence\nempfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle\nEwr Hochfürstliche Durchlaucht\nKönigsberg\nd. 3ten May\n1809.\ntreu gehorsamster Diener\nv Triebenfeld",
+   "transcription": "52\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro Ma-\nJestät der Königen überreicht was Allerhöchst dieselbe mit Wohlgefallen\naufgenommen haben. Übrigens ist die Sache von der Königin Majestät\nſogleich des Herrn Groß Kanzlers Exc[ellenz] übergeben, welcher es ſofort\nwieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über\ntragen, mit dem ich jezt in der Sache arbeite\ndes Herrn J M v. Beyme Excel[lenz]. scheinen und es sehr auf der Form zu sehen,\nund daher glaube ich wird die Sache langweilig werden.\nDer Herr Cabinets Rath Allbrecht ist inzwischen der Biderste und edelſte\nMann mit den ich zu gekannt habe und der gewiß alles anwenden wird und\nzum Ziele zu gelangen.\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten\nsind, so verschieden daß auch der Hellsehendeste Kopf über die möglichen Ereigniße, in\nder Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde\nZeigt der Barometer anders, den einen Tag haben die Franzosen, den andern Tag\ndie Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben,\nSr Majestät veranlaßt, bey der Parole, den Befehl mit zu erteilen, daß\nauf keine Weise über Politische Gegenstände, die besonders den Krieg\nzwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni-\nMein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich\nmuß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften\nGeschäfte, und daher gehe ich oft vergeblich – dH General Lieut[enant]: v. Köckritz Excellence\nempfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle\nEwr Hochfürstliche Durchlaucht\nKönigsberg\nd. 3ten May\n1809.\ntreu gehorsamster Diener\nv Triebenfeld",
+   "reading": "52\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro MaJestät der Königen überreicht was Allerhöchst dieselbe mit Wohlgefallen aufgenommen haben. Übrigens ist die Sache von der Königin Majestät ſogleich des Herrn Groß Kanzlers Exc[ellenz] übergeben, welcher es ſofort wieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über tragen, mit dem ich jezt in der Sache arbeite des Herrn J M v. Beyme Excel[lenz]. scheinen und es sehr auf der Form zu sehen, und daher glaube ich wird die Sache langweilig werden. Der Herr Cabinets Rath Allbrecht ist inzwischen der Biderste und edelſte Mann mit den ich zu gekannt habe und der gewiß alles anwenden wird und zum Ziele zu gelangen.\n\nVon Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten sind, so verschieden daß auch der Hellsehendeste Kopf über die möglichen Ereigniße, in der Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde Zeigt der Barometer anders, den einen Tag haben die Franzosen, den andern Tag die Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben, Sr Majestät veranlaßt, bey der Parole, den Befehl mit zu erteilen, daß auf keine Weise über Politische Gegenstände, die besonders den Krieg zwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni- Mein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich muß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften Geschäfte, und daher gehe ich oft vergeblich – dH General Lieut[enant]: v. Köckritz Excellence empfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle Ewr Hochfürstliche Durchlaucht\n\nKönigsberg\n\nd. 3ten May 1809.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "Dorchlauchtigster Fürst",
+    "52",
+    "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "Ewr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro MaJestät der Königin überricht was Allerhöchst dieselbe mit Wohlgefallen aufgenommen haben. Übrigens ist die Sache von der Königin Majestät ſogleich des Herrn Groß Canzlers Exel übergeben, welcher es sofort wieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über tragen, mit dem ich jezt in der Sache arbeite des Herrn J M v. Beym Excq scheinen und es sehr auf der Form zu sehen, und daher glaube ich wird die Sache langweilig werden. Der Herr Cabineto Rath Allbrecht ist inzwischen der Biderste und edelſte mit Mann den ich zu gekannt habe und der gewiß alles anworden wird und zum Ziele zu gelangen.",
-    "Von Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten sind, so verschieden daß auch der Hellschendeste Kopf über die möglichen Ereigniße, in der Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde Zingt der Baromiter anders, den einen Tag haben die Franzosen, den andern Tag die Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben, Sr Majestät veranlaßt, bey der Parole, den Befühl mit zu erteilen, daß auf keine Weise über Politische Gegenstände, die besonders den Krieg zwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni- Mein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich muß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften Geschäfte, und daher gehe ich oft vergeblich – dH General Lieut: v. Köchn. Excellence empfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle Ewr Hochfürstliche Durchlaucht",
-    "Konigsberg",
+    "Ewr Hochfürstliche Durchlaucht Schreiben habe ich nebst den Beilagen Ihro MaJestät der Königen überreicht was Allerhöchst dieselbe mit Wohlgefallen aufgenommen haben. Übrigens ist die Sache von der Königin Majestät ſogleich des Herrn Groß Kanzlers Exc[ellenz] übergeben, welcher es ſofort wieder dem Herrn Cabinets und Cammergerichts Rath Allbrecht über tragen, mit dem ich jezt in der Sache arbeite des Herrn J M v. Beyme Excel[lenz]. scheinen und es sehr auf der Form zu sehen, und daher glaube ich wird die Sache langweilig werden. Der Herr Cabinets Rath Allbrecht ist inzwischen der Biderste und edelſte Mann mit den ich zu gekannt habe und der gewiß alles anwenden wird und zum Ziele zu gelangen.",
+    "Von Politischen Neuigkeiten darf durchaus hier nichts gesprochen werden, die Nachrichten sind, so verschieden daß auch der Hellsehendeste Kopf über die möglichen Ereigniße, in der Zukunft, verſtummen muß. Es iſs eine wahre Ebbe und Fluth. alle 24 Stunde Zeigt der Barometer anders, den einen Tag haben die Franzosen, den andern Tag die Osterreicher alles geschlagen, diese so wider sprechende Nachrichten haben, Sr Majestät veranlaßt, bey der Parole, den Befehl mit zu erteilen, daß auf keine Weise über Politische Gegenstände, die besonders den Krieg zwischen Franckreich und Österreich beträfen, raisonnirt werden ſoll. Die Juni- Mein Aufenthalts hier kan ich noch nicht bestimmen, die Zwecke sind verschieden, ich muß an mehreren Orten täglich gehen, die Zeit mangelt vielen wegen den überhäuften Geschäfte, und daher gehe ich oft vergeblich – dH General Lieut[enant]: v. Köckritz Excellence empfehlen sich Ewr Durchlaucht zu Gnaden - ich aber ersterbe Ehrfurchtsvolle Ewr Hochfürstliche Durchlaucht",
+    "Königsberg",
     "d. 3ten May 1809.",
     "treu gehorsamster Diener",
     "v Triebenfeld"
@@ -61,26 +63,48 @@
  ],
  "mentions": [
   {
-   "entity": "allbrecht",
-   "display": "Allbrecht",
+   "entity": "albrecht",
+   "display": "Albrecht",
    "kind": "person",
    "surface": "Allbrecht",
    "page": 1,
-   "page_id": "",
+   "page_id": "0099_b",
    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-   "line": 3842,
-   "doc_line": 7
+   "line": 3861,
+   "doc_line": 8
   },
   {
-   "entity": "allbrecht",
-   "display": "Allbrecht",
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface": "Beyme",
+   "page": 1,
+   "page_id": "0099_b",
+   "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
+   "line": 3863,
+   "doc_line": 10
+  },
+  {
+   "entity": "albrecht",
+   "display": "Albrecht",
    "kind": "person",
    "surface": "Allbrecht",
    "page": 1,
-   "page_id": "",
+   "page_id": "0099_b",
    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-   "line": 3846,
-   "doc_line": 11
+   "line": 3865,
+   "doc_line": 12
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "Köckritz",
+   "page": 1,
+   "page_id": "0099_b",
+   "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
+   "line": 3878,
+   "doc_line": 25
   },
   {
    "entity": "triebenfeld",
@@ -88,173 +112,30 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0099_b",
    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-   "line": 3867,
+   "line": 3885,
    "doc_line": 32
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Her Majesty the Queen",
-   "kind": "person",
-   "surface_de": "Ihro MaJestät der Königin",
-   "surface_en": "Her Majesty the Queen",
-   "page": 1
-  },
-  {
-   "entity": "allbrecht",
-   "display": "Allbrecht",
-   "kind": "person",
-   "surface_de": "Allbrecht",
-   "surface_en": "Allbrecht",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "J. M. von Beym",
-   "kind": "person",
-   "surface_de": "J M v. Beym",
-   "surface_en": "J. M. von Beym",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "France",
-   "kind": "place",
-   "surface_de": "Franckreich",
-   "surface_en": "France",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Austria",
-   "kind": "place",
-   "surface_de": "Österreich",
-   "surface_en": "Austria",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Austrians",
-   "kind": "other",
-   "surface_de": "Osterreicher",
-   "surface_en": "Austrians",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "French",
-   "kind": "other",
-   "surface_de": "Franzosen",
-   "surface_en": "French",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Köchn.",
-   "kind": "person",
-   "surface_de": "v. Köchn.",
-   "surface_en": "von Köchn.",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Königsberg",
-   "kind": "place",
-   "surface_de": "Konigsberg",
-   "surface_en": "Königsberg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Königsberg",
  "place_mentions": [
   {
    "entity": "koenigsberg",
    "display": "Königsberg",
    "kind": "place",
-   "surface": "Konigsberg",
+   "surface": "Königsberg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0099_b",
    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-   "line": 3863,
+   "line": 3881,
    "doc_line": 28
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's letter I have, together with the enclosures, presented to Her Majesty the Queen, which the same, in the Highest degree, received with satisfaction. For the rest, the matter was at once handed over by the Queen's Majesty to His Excellency the Grand Chancellor, who forthwith passed it on again to the Cabinet and Supreme Court Councillor Allbrecht, with whom I am now working on the affair; His Excellency J. M. von Beym appears [uncertain: and] to look very much to the form of things, and therefore I believe the matter will become tedious. The Cabinet Councillor Allbrecht is meanwhile the most upright and noblest man whom I have ever known, and who will certainly [uncertain: employ] everything, and to reach the goal.\n\nOf political news nothing whatever may be spoken here; the reports are so various that even the most clear-sighted head must fall silent as to the possible events of the future. It is a veritable ebb and flood; every 24 hours the barometer sings differently: one day the French have beaten everything, the next day the Austrians; these so contradictory reports have moved His Majesty to issue along with the watchword the command that in no manner shall there be any reasoning upon political subjects, particularly such as concern the war between France and Austria. The June- I cannot yet determine my stay here; the purposes are various, I must go daily to several places, many lack the time on account of the overburdened business, and therefore I often go in vain – His Excellency the Lieutenant-General von Köchn. commends himself to Your Serene Highness's grace – but I, in deepest reverence, remain, until death, Your Most Serene Highness's\n\nKönigsberg\n\nthe 3rd of May 1809.\n\nfaithful and most obedient servant\n\nvon Triebenfeld",
-   "names": [
-    {
-     "de": "Ihro MaJestät der Königin",
-     "en": "Her Majesty the Queen",
-     "kind": "person"
-    },
-    {
-     "de": "Allbrecht",
-     "en": "Allbrecht",
-     "kind": "person"
-    },
-    {
-     "de": "J M v. Beym",
-     "en": "J. M. von Beym",
-     "kind": "person"
-    },
-    {
-     "de": "Franckreich",
-     "en": "France",
-     "kind": "place"
-    },
-    {
-     "de": "Österreich",
-     "en": "Austria",
-     "kind": "place"
-    },
-    {
-     "de": "Osterreicher",
-     "en": "Austrians",
-     "kind": "other"
-    },
-    {
-     "de": "Franzosen",
-     "en": "French",
-     "kind": "other"
-    },
-    {
-     "de": "v. Köchn.",
-     "en": "von Köchn.",
-     "kind": "person"
-    },
-    {
-     "de": "Konigsberg",
-     "en": "Königsberg",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "24",
-    "3ten",
-    "1809"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's letter I have, together with the enclosures, presented to Her Majesty the Queen, which the same, in the Highest degree, received with satisfaction. For the rest, the matter was at once handed over by the Queen's Majesty to His Excellency the Grand Chancellor, who forthwith passed it on again to the Cabinet and Supreme Court Councillor Allbrecht, with whom I am now working on the affair; His Excellency J. M. von Beym appears [uncertain: and] to look very much to the form of things, and therefore I believe the matter will become tedious. The Cabinet Councillor Allbrecht is meanwhile the most upright and noblest man whom I have ever known, and who will certainly [uncertain: employ] everything, and to reach the goal.\n\nOf political news nothing whatever may be spoken here; the reports are so various that even the most clear-sighted head must fall silent as to the possible events of the future. It is a veritable ebb and flood; every 24 hours the barometer sings differently: one day the French have beaten everything, the next day the Austrians; these so contradictory reports have moved His Majesty to issue along with the watchword the command that in no manner shall there be any reasoning upon political subjects, particularly such as concern the war between France and Austria. The June- I cannot yet determine my stay here; the purposes are various, I must go daily to several places, many lack the time on account of the overburdened business, and therefore I often go in vain – His Excellency the Lieutenant-General von Köchn. commends himself to Your Serene Highness's grace – but I, in deepest reverence, remain, until death, Your Most Serene Highness's\n\nKönigsberg\n\nthe 3rd of May 1809.\n\nfaithful and most obedient servant\n\nvon Triebenfeld",
- "summary_en": "Reports having laid the Prince's letter and enclosures before the Queen, who received them with satisfaction and passed the business to the Grand Chancellor; it went on to Cabinet and Supreme Court Councillor Allbrecht, with whom Triebenfeld is now working, though von Beym's attention to correct form promises delays. Praises Allbrecht's integrity. Adds that no political news can be given: reports of the French and Austrian fighting contradict each other daily and the King has forbidden discussion of them.",
- "summary_de": "Bericht über den Fortgang einer Bittsache: Das Schreiben des Fürsten samt Anlagen wurde der Königin überreicht, die es wohlwollend aufnahm und die Sache dem Großkanzler übergab; dieser leitete sie an den Kabinetts- und Obertribunalrat Allbrecht weiter, mit dem Triebenfeld nun arbeitet. Wegen der Formstrenge des von Beym rechnet er mit langer Dauer. Dazu die Mitteilung, daß über politische Nachrichten und den Krieg Frankreichs mit Österreich auf königlichen Befehl nicht gesprochen werden darf, und ein Gruß des Generalleutnants von Köchn."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

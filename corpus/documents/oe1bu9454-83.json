@@ -17,56 +17,61 @@
  "year": 1798,
  "month": 10,
  "day": 15,
- "place": "Berlin",
+ "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 6652,
- "line_end": 6723,
- "uncertainty_count": 0,
+ "line_start": 6659,
+ "line_end": 6731,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "krotoszyn",
+  "polajewo"
+ ],
  "is_missing": 0,
- "n_lines": 71,
+ "n_lines": 69,
  "n_pages": 3,
- "text": "Durchlauchtigster Fürst\nGnädigster Herr!\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst er¬\nlaßene Schreiben habe ich nebst allen Einlage durch\nden H. Michaelis richtig erhalten.\nIn der Sache selbst kan ich mit dem freudigste Herzen\nsagen, daß alles nach Wunsch geht - Krotoszyn giebt\nman Ewr Hochfürstliche Durchlaucht für den Suprenstis\nBesizzungen schon ganz gewis. Nur wegen Polajewo\nscheint man noch einiges Bedencken zu sagen - allein\nnach der Versicherung des Geh. Finanz Rath Schulze können\nEwr HochFürstliche Durchlaucht auch diese erhalten\nDas Haupt Ziel meines feurigsten Wunsches und redlichen\nEyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist\nschon so gut als erreicht, den Krotoszyn ist und bleibt er\nUnſchätzbares Begrat - bey Polajewo iſt auch an 100000 Rthl\nzu gewinnen, nur die Hindernis mit den Cammern werden\nmich manchen Kampf kosten - doch dürfte auch dies zu\nüberwinden sein.\nMein einzigster Kummer ist nur, daß des Prinzen George\nDurchlaucht dorten nicht ehender eintreffen als ich\nin Breslau bin — den hier mag ich ehender nicht\n\nabgehen als ich der Sache gewis bei.\nSolte der Prinz in das Forte eher als ich eintreffen, so halt\nEwr Durchlaucht ihn ja auf bis ich komme den sonsten werde\nich zum Lügener und der gute Prinz wird irre geleitet\nEs ist bey Gott nicht Präflorey - allein ich kan es gewis\nversichern das Niemand von allen unsern Officianten die\nProvinz noch weniger das interieur der Sache auß er nur\nkennt, und in des Prinzen George Sache wird es erfor¬\ndert, daß ein Mann der Sach kenntnis hatt und die Sprache\nversteht auftritt als dann kan er viel gewinnen.\nDer Minister Hoym ist heute auf 10 Tage nach Pommern\ngereiset - der Monarch hatt ihm sehr gnädig begegnet\nDen Donnerstag kömt der Minister von Voss zurück, und\nDann wird man bald aufs reine sind – ich habe\ngestern ein verbindliches Schreiben wieder an ihn gesand\nso eins an, Schulze eins aus H. C. W. Beym und eins\nam Obersten — die Würkung ist durchgängig sehr\ngut gewesen, den ich bezog mich allewege auf das\nCabinets Schreiben als auch auf das von Herr Cabinets\nRath\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den 15ten Octobr.\n1798.\ntreu untertänigster Knecht\nv Triebenfeld\n\nDer gute Monarch soll gar nicht recht aufgeräumt sein\nDas thut mich wahrlich leid –\nDer Fürst Reppnin soll wie man sagt unter\nwegnis eine Uhase erhalten haben sich nicht wieder\nin Petersburg zu zeigen – wer weis ob dies\nnicht etwann Masque ist?\nDer gute Geh. Cabinets Rath Mencke soll wieder\nin Activiteet sein, weil seine Gesundheit mercklich\ngebeßert hatt.\nzwischen einige Männern heißt es soll zwietracht\nherſchen es wäre Schade, den es ſind ein paar\nredliche Leute\nDie Fürſtin Sacken Durchlaucht befinden ſich wohl\ndaß der Graf Höym jezt nach Pommern gegangen\ntadle ich sehr\nDie X Spinne war eben hier und sagt er wiße es\nGewis, daß die Franzosen Hannover nehmen wollen.\ndesfals sey der König so mißmüthig,\nIch glaube aber nicht um Wort von dem was der\nſagt er hatt ſchon zu viel gelegen",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst erlaßene Schreiben habe ich nebst allen Einlage durch den H. Michaelis richtig erhalten.\n\nIn der Sache selbst kan ich mit dem freudigste Herzen sagen, daß alles nach Wunsch geht - Krotoszyn giebt man Ewr Hochfürstliche Durchlaucht für den Suprenstis Besizzungen schon ganz gewis. Nur wegen Polajewo scheint man noch einiges Bedencken zu sagen - allein nach der Versicherung des Geh. Finanz Rath Schulze können Ewr HochFürstliche Durchlaucht auch diese erhalten Das Haupt Ziel meines feurigsten Wunsches und redlichen Eyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist schon so gut als erreicht, den Krotoszyn ist und bleibt er Unſchätzbares Begrat - bey Polajewo iſt auch an 100000 Rthl zu gewinnen, nur die Hindernis mit den Cammern werden mich manchen Kampf kosten - doch dürfte auch dies zu überwinden sein.\n\nMein einzigster Kummer ist nur, daß des Prinzen George Durchlaucht dorten nicht ehender eintreffen als ich in Breslau bin — den hier mag ich ehender nicht\n\nabgehen als ich der Sache gewis bei.\n\nSolte der Prinz in das Forte eher als ich eintreffen, so halt Ewr Durchlaucht ihn ja auf bis ich komme den sonsten werde ich zum Lügener und der gute Prinz wird irre geleitet Es ist bey Gott nicht Präflorey - allein ich kan es gewis versichern das Niemand von allen unsern Officianten die Provinz noch weniger das interieur der Sache auß er nur kennt, und in des Prinzen George Sache wird es erfordert, daß ein Mann der Sach kenntnis hatt und die Sprache versteht auftritt als dann kan er viel gewinnen. Der Minister Hoym ist heute auf 10 Tage nach Pommern gereiset - der Monarch hatt ihm sehr gnädig begegnet Den Donnerstag kömt der Minister von Voss zurück, und Dann wird man bald aufs reine sind – ich habe gestern ein verbindliches Schreiben wieder an ihn gesand so eins an, Schulze eins aus H. C. W. Beym und eins am Obersten — die Würkung ist durchgängig sehr gut gewesen, den ich bezog mich allewege auf das Cabinets Schreiben als auch auf das von Herr Cabinets Rath\n\nIn tiefster Ehrfurcht ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den 15ten Octobr.\n\n1798.\n\ntreu untertänigster Knecht\n\nv Triebenfeld\n\nDer gute Monarch soll gar nicht recht aufgeräumt sein Das thut mich wahrlich leid – Der Fürst Reppnin soll wie man sagt unter wegnis eine Uhase erhalten haben sich nicht wieder in Petersburg zu zeigen – wer weis ob dies nicht etwann Masque ist?\n\nDer gute Geh. Cabinets Rath Mencke soll wieder in Activiteet sein, weil seine Gesundheit mercklich gebeßert hatt.\n\nzwischen einige Männern heißt es soll zwietracht herſchen es wäre Schade, den es ſind ein paar redliche Leute Die Fürſtin Sacken Durchlaucht befinden ſich wohl daß der Graf Höym jezt nach Pommern gegangen tadle ich sehr Die X Spinne war eben hier und sagt er wiße es Gewis, daß die Franzosen Hannover nehmen wollen. desfals sey der König so mißmüthig, Ich glaube aber nicht um Wort von dem was der ſagt er hatt ſchon zu viel gelegen",
+ "text": "83\nDurchlauchtigster Fürst\nGnädigster Herr!\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst er¬\nlaßene Schreiben habe ich nebst allen Einlage durch\nden H. Michalis richtig erhalten.\nIn der Sache selbst kan ich mit dem freudigste Herzen\nsagen, daß alles nach Wunsch geht - Krotoszyn giebt\nman Ewr Hochfürstliche Durchlaucht für den Suprenstis\nBesizzungen schon ganz gewis. Nur wegen Polajewo\nscheint man noch einiges Bedencken zu sagen - allein\nnach der Versicherung des Geh[eimen]. Finanz Rath Schulze können\nEwr HochFürstliche Durchlaucht auch diese erhalten\nDas Haupt Ziel meines feurigsten Wunsches und redlichen\nEyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist\nschon so gut als erreicht, den Krotoszyn ist und bleibt er\nUnſchäzzbares Be[yr?]at - bey Polajewo iſt auch an 100/m rt\nzu gewinnen, nur die Hindernis mit den Cammern werden\nmich manchen Kampf kosten - doch dürfte auch dies zu\nüberwinden sein.\nMein einzigster Kummer ist nur, daß des Prinzen George\nDurchlaucht dorten nicht ehender eintreffen als ich\nin Breslau bin — den hier mag ich ehender nicht\nabgehen als ich der Sache gewis bei.\nSolte der Prinz in das Forte eher als ich eintreffen, so halt\nEwr Durchlaucht ihn ja auf bis ich komme den sonsten werde\nich zum Lügener und der gute Prinz wird irre geleitet\nEs ist bey Gott nicht Präflorey - allein ich kan es gewis\nversichern das Niemand von allen unsern Officianten die\nProvinz noch weniger das interieur der Sache auß er nur\nkennt, und in des Prinzen George Sache wird es erfor¬\ndert, daß ein Mann der Sach kenntnis hatt und die Sprache\nversteht auftritt als dann kan er viel gewinnen.\nDer Minister Hoym ist heute auf 10 Tage nach Pommern\ngereiset - der Monarch hatt ihm sehr gnädig begegnet\nDen Donnerstag kömt der Minister von Voss zurück, und\nDann wird man bald aufs reine sind – ich habe\ngestern ein verbindliches Schreiben wieder an ihn gesand\nso eins an, Schulzer eins aus H. C[abinets]. R[ath]. Beyme und eins\nam Obersten — die Würkung ist durchgängig sehr\ngut gewesen, den ich bezog mich allewege auf das\nCabinets Schreiben als auch auf das von Hern Cabinets\nRath\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den 15ten Octobr.\n1798.\ntreu untertänigster Knecht\nv Triebenfeld\nDer gute Monarch soll gar nicht recht aufgeräumt sein\nDas thut mich wahrlich leid –\nDer Fürst Reppnin soll wie man sagt unter\nwegnis eine Uhase erhalten haben sich nicht wieder\nin Petersburg zu zeigen – wer weis ob dies\nnicht etwann Masque ist?\nDer gute Geh[eime]. Cabinets Rath Mencke soll wieder\nin Activiteet sein, weil seine Gesundheit mercklich\ngebeßert hatt.\nzwischen einige Männern heißt es soll zwietracht\nherſchen es wäre Schade, den es ſind ein paar\nredliche Leute -\nDie Fürſtin Sacken Durchlaucht befinden ſich wohl\ndaß der Graf Hoym jezt nach Pommern gegangen\ntadle ich sehr -\nDie X Spinne war eben hier und sagt er wiße es\nGewis, daß die Franzosen Hannover nehmen wollen.\ndesfals sey der König so mißmüthig,\nIch glaube aber nicht um Wort von dem was der\nſagt er hatt ſchon zu viel gelogen -",
+ "text_reading": "83\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst erlaßene Schreiben habe ich nebst allen Einlage durch den H. Michalis richtig erhalten.\n\nIn der Sache selbst kan ich mit dem freudigste Herzen sagen, daß alles nach Wunsch geht - Krotoszyn giebt man Ewr Hochfürstliche Durchlaucht für den Suprenstis Besizzungen schon ganz gewis. Nur wegen Polajewo scheint man noch einiges Bedencken zu sagen - allein nach der Versicherung des Geh[eimen]. Finanz Rath Schulze können Ewr HochFürstliche Durchlaucht auch diese erhalten Das Haupt Ziel meines feurigsten Wunsches und redlichen Eyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist schon so gut als erreicht, den Krotoszyn ist und bleibt er Unſchäzzbares Be[yr?]at - bey Polajewo iſt auch an 100/m rt zu gewinnen, nur die Hindernis mit den Cammern werden mich manchen Kampf kosten - doch dürfte auch dies zu überwinden sein.\n\nMein einzigster Kummer ist nur, daß des Prinzen George Durchlaucht dorten nicht ehender eintreffen als ich in Breslau bin — den hier mag ich ehender nicht\n\nabgehen als ich der Sache gewis bei.\n\nSolte der Prinz in das Forte eher als ich eintreffen, so halt Ewr Durchlaucht ihn ja auf bis ich komme den sonsten werde ich zum Lügener und der gute Prinz wird irre geleitet Es ist bey Gott nicht Präflorey - allein ich kan es gewis versichern das Niemand von allen unsern Officianten die Provinz noch weniger das interieur der Sache auß er nur kennt, und in des Prinzen George Sache wird es erfordert, daß ein Mann der Sach kenntnis hatt und die Sprache versteht auftritt als dann kan er viel gewinnen. Der Minister Hoym ist heute auf 10 Tage nach Pommern gereiset - der Monarch hatt ihm sehr gnädig begegnet Den Donnerstag kömt der Minister von Voss zurück, und Dann wird man bald aufs reine sind – ich habe gestern ein verbindliches Schreiben wieder an ihn gesand so eins an, Schulzer eins aus H. C[abinets]. R[ath]. Beyme und eins am Obersten — die Würkung ist durchgängig sehr gut gewesen, den ich bezog mich allewege auf das Cabinets Schreiben als auch auf das von Hern Cabinets Rath\n\nIn tiefster Ehrfurcht ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den 15ten Octobr.\n\n1798.\n\ntreu untertänigster Knecht\n\nv Triebenfeld\n\nDer gute Monarch soll gar nicht recht aufgeräumt sein Das thut mich wahrlich leid – Der Fürst Reppnin soll wie man sagt unter wegnis eine Uhase erhalten haben sich nicht wieder in Petersburg zu zeigen – wer weis ob dies nicht etwann Masque ist?\n\nDer gute Geh[eime]. Cabinets Rath Mencke soll wieder in Activiteet sein, weil seine Gesundheit mercklich gebeßert hatt.\n\nzwischen einige Männern heißt es soll zwietracht herſchen es wäre Schade, den es ſind ein paar redliche Leute - Die Fürſtin Sacken Durchlaucht befinden ſich wohl daß der Graf Hoym jezt nach Pommern gegangen tadle ich sehr - Die X Spinne war eben hier und sagt er wiße es Gewis, daß die Franzosen Hannover nehmen wollen. desfals sey der König so mißmüthig, Ich glaube aber nicht um Wort von dem was der ſagt er hatt ſchon zu viel gelogen -",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 6653,
-   "line_end": 6674,
-   "n_lines": 22,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Herr!\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst er¬\nlaßene Schreiben habe ich nebst allen Einlage durch\nden H. Michaelis richtig erhalten.\nIn der Sache selbst kan ich mit dem freudigste Herzen\nsagen, daß alles nach Wunsch geht - Krotoszyn giebt\nman Ewr Hochfürstliche Durchlaucht für den Suprenstis\nBesizzungen schon ganz gewis. Nur wegen Polajewo\nscheint man noch einiges Bedencken zu sagen - allein\nnach der Versicherung des Geh. Finanz Rath Schulze können\nEwr HochFürstliche Durchlaucht auch diese erhalten\nDas Haupt Ziel meines feurigsten Wunsches und redlichen\nEyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist\nschon so gut als erreicht, den Krotoszyn ist und bleibt er\nUnſchätzbares Begrat - bey Polajewo iſt auch an 100000 Rthl\nzu gewinnen, nur die Hindernis mit den Cammern werden\nmich manchen Kampf kosten - doch dürfte auch dies zu\nüberwinden sein.\nMein einzigster Kummer ist nur, daß des Prinzen George\nDurchlaucht dorten nicht ehender eintreffen als ich\nin Breslau bin — den hier mag ich ehender nicht",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Herr!\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst er-\nlaßene Schreiben habe ich nebst allen Einlage durch\nden H. Michaelis richtig erhalten.\nIn der Sache selbst kan ich mit dem freudigste Herzen\nsagen, daß alles nach Wunsch geht - Krotoszyn giebt\nman Ewr Hochfürstliche Durchlaucht für den Suprenstis\nBesizzungen schon ganz gewis. Nur wegen Polajewo\nscheint man noch einiges Bedencken zu sagen - allein\nnach der Versicherung des Geh. Finanz Rath Schulze können\nEwr HochFürstliche Durchlaucht auch diese erhalten\nDas Haupt Ziel meines feurigsten Wunsches und redlichen\nEyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist\nschon so gut als erreicht, den Krotoszyn ist und bleibt er\nUnſchätzbares Begrat - bey Polajewo iſt auch an 100000 Rthl\nzu gewinnen, nur die Hindernis mit den Cammern werden\nmich manchen Kampf kosten - doch dürfte auch dies zu\nüberwinden sein.\nMein einzigster Kummer ist nur, daß des Prinzen George\nDurchlaucht dorten nicht ehender eintreffen als ich\nin Breslau bin — den hier mag ich ehender nicht",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst erlaßene Schreiben habe ich nebst allen Einlage durch den H. Michaelis richtig erhalten.\n\nIn der Sache selbst kan ich mit dem freudigste Herzen sagen, daß alles nach Wunsch geht - Krotoszyn giebt man Ewr Hochfürstliche Durchlaucht für den Suprenstis Besizzungen schon ganz gewis. Nur wegen Polajewo scheint man noch einiges Bedencken zu sagen - allein nach der Versicherung des Geh. Finanz Rath Schulze können Ewr HochFürstliche Durchlaucht auch diese erhalten Das Haupt Ziel meines feurigsten Wunsches und redlichen Eyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist schon so gut als erreicht, den Krotoszyn ist und bleibt er Unſchätzbares Begrat - bey Polajewo iſt auch an 100000 Rthl zu gewinnen, nur die Hindernis mit den Cammern werden mich manchen Kampf kosten - doch dürfte auch dies zu überwinden sein.\n\nMein einzigster Kummer ist nur, daß des Prinzen George Durchlaucht dorten nicht ehender eintreffen als ich in Breslau bin — den hier mag ich ehender nicht",
+   "page_id": "0173_a",
+   "line_start": 6661,
+   "line_end": 6683,
+   "n_lines": 23,
+   "diplomatic": "83\nDurchlauchtigster Fürst\nGnädigster Herr!\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst er¬\nlaßene Schreiben habe ich nebst allen Einlage durch\nden H. Michalis richtig erhalten.\nIn der Sache selbst kan ich mit dem freudigste Herzen\nsagen, daß alles nach Wunsch geht - Krotoszyn giebt\nman Ewr Hochfürstliche Durchlaucht für den Suprenstis\nBesizzungen schon ganz gewis. Nur wegen Polajewo\nscheint man noch einiges Bedencken zu sagen - allein\nnach der Versicherung des Geh[eimen]. Finanz Rath Schulze können\nEwr HochFürstliche Durchlaucht auch diese erhalten\nDas Haupt Ziel meines feurigsten Wunsches und redlichen\nEyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist\nschon so gut als erreicht, den Krotoszyn ist und bleibt er\nUnſchäzzbares Be[yr?]at - bey Polajewo iſt auch an 100/m rt\nzu gewinnen, nur die Hindernis mit den Cammern werden\nmich manchen Kampf kosten - doch dürfte auch dies zu\nüberwinden sein.\nMein einzigster Kummer ist nur, daß des Prinzen George\nDurchlaucht dorten nicht ehender eintreffen als ich\nin Breslau bin — den hier mag ich ehender nicht",
+   "transcription": "83\nDurchlauchtigster Fürst\nGnädigster Herr!\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst er-\nlaßene Schreiben habe ich nebst allen Einlage durch\nden H. Michalis richtig erhalten.\nIn der Sache selbst kan ich mit dem freudigste Herzen\nsagen, daß alles nach Wunsch geht - Krotoszyn giebt\nman Ewr Hochfürstliche Durchlaucht für den Suprenstis\nBesizzungen schon ganz gewis. Nur wegen Polajewo\nscheint man noch einiges Bedencken zu sagen - allein\nnach der Versicherung des Geh[eimen]. Finanz Rath Schulze können\nEwr HochFürstliche Durchlaucht auch diese erhalten\nDas Haupt Ziel meines feurigsten Wunsches und redlichen\nEyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist\nschon so gut als erreicht, den Krotoszyn ist und bleibt er\nUnſchäzzbares Be[yr?]at - bey Polajewo iſt auch an 100/m rt\nzu gewinnen, nur die Hindernis mit den Cammern werden\nmich manchen Kampf kosten - doch dürfte auch dies zu\nüberwinden sein.\nMein einzigster Kummer ist nur, daß des Prinzen George\nDurchlaucht dorten nicht ehender eintreffen als ich\nin Breslau bin — den hier mag ich ehender nicht",
+   "reading": "83\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\ndas von Ewr Hochfürstliche Durchlaucht an mir gnädigst erlaßene Schreiben habe ich nebst allen Einlage durch den H. Michalis richtig erhalten.\n\nIn der Sache selbst kan ich mit dem freudigste Herzen sagen, daß alles nach Wunsch geht - Krotoszyn giebt man Ewr Hochfürstliche Durchlaucht für den Suprenstis Besizzungen schon ganz gewis. Nur wegen Polajewo scheint man noch einiges Bedencken zu sagen - allein nach der Versicherung des Geh[eimen]. Finanz Rath Schulze können Ewr HochFürstliche Durchlaucht auch diese erhalten Das Haupt Ziel meines feurigsten Wunsches und redlichen Eyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist schon so gut als erreicht, den Krotoszyn ist und bleibt er Unſchäzzbares Be[yr?]at - bey Polajewo iſt auch an 100/m rt zu gewinnen, nur die Hindernis mit den Cammern werden mich manchen Kampf kosten - doch dürfte auch dies zu überwinden sein.\n\nMein einzigster Kummer ist nur, daß des Prinzen George Durchlaucht dorten nicht ehender eintreffen als ich in Breslau bin — den hier mag ich ehender nicht",
    "paragraphs": [
+    "83",
     "Durchlauchtigster Fürst",
     "Gnädigster Herr!",
-    "das von Ewr Hochfürstliche Durchlaucht an mir gnädigst erlaßene Schreiben habe ich nebst allen Einlage durch den H. Michaelis richtig erhalten.",
-    "In der Sache selbst kan ich mit dem freudigste Herzen sagen, daß alles nach Wunsch geht - Krotoszyn giebt man Ewr Hochfürstliche Durchlaucht für den Suprenstis Besizzungen schon ganz gewis. Nur wegen Polajewo scheint man noch einiges Bedencken zu sagen - allein nach der Versicherung des Geh. Finanz Rath Schulze können Ewr HochFürstliche Durchlaucht auch diese erhalten Das Haupt Ziel meines feurigsten Wunsches und redlichen Eyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist schon so gut als erreicht, den Krotoszyn ist und bleibt er Unſchätzbares Begrat - bey Polajewo iſt auch an 100000 Rthl zu gewinnen, nur die Hindernis mit den Cammern werden mich manchen Kampf kosten - doch dürfte auch dies zu überwinden sein.",
+    "das von Ewr Hochfürstliche Durchlaucht an mir gnädigst erlaßene Schreiben habe ich nebst allen Einlage durch den H. Michalis richtig erhalten.",
+    "In der Sache selbst kan ich mit dem freudigste Herzen sagen, daß alles nach Wunsch geht - Krotoszyn giebt man Ewr Hochfürstliche Durchlaucht für den Suprenstis Besizzungen schon ganz gewis. Nur wegen Polajewo scheint man noch einiges Bedencken zu sagen - allein nach der Versicherung des Geh[eimen]. Finanz Rath Schulze können Ewr HochFürstliche Durchlaucht auch diese erhalten Das Haupt Ziel meines feurigsten Wunsches und redlichen Eyfers für Ewr Durchlaucht Ruhe und Zufriedenheit ist schon so gut als erreicht, den Krotoszyn ist und bleibt er Unſchäzzbares Be[yr?]at - bey Polajewo iſt auch an 100/m rt zu gewinnen, nur die Hindernis mit den Cammern werden mich manchen Kampf kosten - doch dürfte auch dies zu überwinden sein.",
     "Mein einzigster Kummer ist nur, daß des Prinzen George Durchlaucht dorten nicht ehender eintreffen als ich in Breslau bin — den hier mag ich ehender nicht"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 22
+   "doc_line_end": 23
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 6676,
-   "line_end": 6701,
+   "page_id": "0174_a1",
+   "line_start": 6685,
+   "line_end": 6710,
    "n_lines": 26,
-   "diplomatic": "abgehen als ich der Sache gewis bei.\nSolte der Prinz in das Forte eher als ich eintreffen, so halt\nEwr Durchlaucht ihn ja auf bis ich komme den sonsten werde\nich zum Lügener und der gute Prinz wird irre geleitet\nEs ist bey Gott nicht Präflorey - allein ich kan es gewis\nversichern das Niemand von allen unsern Officianten die\nProvinz noch weniger das interieur der Sache auß er nur\nkennt, und in des Prinzen George Sache wird es erfor¬\ndert, daß ein Mann der Sach kenntnis hatt und die Sprache\nversteht auftritt als dann kan er viel gewinnen.\nDer Minister Hoym ist heute auf 10 Tage nach Pommern\ngereiset - der Monarch hatt ihm sehr gnädig begegnet\nDen Donnerstag kömt der Minister von Voss zurück, und\nDann wird man bald aufs reine sind – ich habe\ngestern ein verbindliches Schreiben wieder an ihn gesand\nso eins an, Schulze eins aus H. C. W. Beym und eins\nam Obersten — die Würkung ist durchgängig sehr\ngut gewesen, den ich bezog mich allewege auf das\nCabinets Schreiben als auch auf das von Herr Cabinets\nRath\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den 15ten Octobr.\n1798.\ntreu untertänigster Knecht\nv Triebenfeld",
-   "transcription": "abgehen als ich der Sache gewis bei.\nSolte der Prinz in das Forte eher als ich eintreffen, so halt\nEwr Durchlaucht ihn ja auf bis ich komme den sonsten werde\nich zum Lügener und der gute Prinz wird irre geleitet\nEs ist bey Gott nicht Präflorey - allein ich kan es gewis\nversichern das Niemand von allen unsern Officianten die\nProvinz noch weniger das interieur der Sache auß er nur\nkennt, und in des Prinzen George Sache wird es erfor-\ndert, daß ein Mann der Sach kenntnis hatt und die Sprache\nversteht auftritt als dann kan er viel gewinnen.\nDer Minister Hoym ist heute auf 10 Tage nach Pommern\ngereiset - der Monarch hatt ihm sehr gnädig begegnet\nDen Donnerstag kömt der Minister von Voss zurück, und\nDann wird man bald aufs reine sind – ich habe\ngestern ein verbindliches Schreiben wieder an ihn gesand\nso eins an, Schulze eins aus H. C. W. Beym und eins\nam Obersten — die Würkung ist durchgängig sehr\ngut gewesen, den ich bezog mich allewege auf das\nCabinets Schreiben als auch auf das von Herr Cabinets\nRath\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den 15ten Octobr.\n1798.\ntreu untertänigster Knecht\nv Triebenfeld",
-   "reading": "abgehen als ich der Sache gewis bei.\n\nSolte der Prinz in das Forte eher als ich eintreffen, so halt Ewr Durchlaucht ihn ja auf bis ich komme den sonsten werde ich zum Lügener und der gute Prinz wird irre geleitet Es ist bey Gott nicht Präflorey - allein ich kan es gewis versichern das Niemand von allen unsern Officianten die Provinz noch weniger das interieur der Sache auß er nur kennt, und in des Prinzen George Sache wird es erfordert, daß ein Mann der Sach kenntnis hatt und die Sprache versteht auftritt als dann kan er viel gewinnen. Der Minister Hoym ist heute auf 10 Tage nach Pommern gereiset - der Monarch hatt ihm sehr gnädig begegnet Den Donnerstag kömt der Minister von Voss zurück, und Dann wird man bald aufs reine sind – ich habe gestern ein verbindliches Schreiben wieder an ihn gesand so eins an, Schulze eins aus H. C. W. Beym und eins am Obersten — die Würkung ist durchgängig sehr gut gewesen, den ich bezog mich allewege auf das Cabinets Schreiben als auch auf das von Herr Cabinets Rath\n\nIn tiefster Ehrfurcht ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den 15ten Octobr.\n\n1798.\n\ntreu untertänigster Knecht\n\nv Triebenfeld",
+   "diplomatic": "abgehen als ich der Sache gewis bei.\nSolte der Prinz in das Forte eher als ich eintreffen, so halt\nEwr Durchlaucht ihn ja auf bis ich komme den sonsten werde\nich zum Lügener und der gute Prinz wird irre geleitet\nEs ist bey Gott nicht Präflorey - allein ich kan es gewis\nversichern das Niemand von allen unsern Officianten die\nProvinz noch weniger das interieur der Sache auß er nur\nkennt, und in des Prinzen George Sache wird es erfor¬\ndert, daß ein Mann der Sach kenntnis hatt und die Sprache\nversteht auftritt als dann kan er viel gewinnen.\nDer Minister Hoym ist heute auf 10 Tage nach Pommern\ngereiset - der Monarch hatt ihm sehr gnädig begegnet\nDen Donnerstag kömt der Minister von Voss zurück, und\nDann wird man bald aufs reine sind – ich habe\ngestern ein verbindliches Schreiben wieder an ihn gesand\nso eins an, Schulzer eins aus H. C[abinets]. R[ath]. Beyme und eins\nam Obersten — die Würkung ist durchgängig sehr\ngut gewesen, den ich bezog mich allewege auf das\nCabinets Schreiben als auch auf das von Hern Cabinets\nRath\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den 15ten Octobr.\n1798.\ntreu untertänigster Knecht\nv Triebenfeld",
+   "transcription": "abgehen als ich der Sache gewis bei.\nSolte der Prinz in das Forte eher als ich eintreffen, so halt\nEwr Durchlaucht ihn ja auf bis ich komme den sonsten werde\nich zum Lügener und der gute Prinz wird irre geleitet\nEs ist bey Gott nicht Präflorey - allein ich kan es gewis\nversichern das Niemand von allen unsern Officianten die\nProvinz noch weniger das interieur der Sache auß er nur\nkennt, und in des Prinzen George Sache wird es erfor-\ndert, daß ein Mann der Sach kenntnis hatt und die Sprache\nversteht auftritt als dann kan er viel gewinnen.\nDer Minister Hoym ist heute auf 10 Tage nach Pommern\ngereiset - der Monarch hatt ihm sehr gnädig begegnet\nDen Donnerstag kömt der Minister von Voss zurück, und\nDann wird man bald aufs reine sind – ich habe\ngestern ein verbindliches Schreiben wieder an ihn gesand\nso eins an, Schulzer eins aus H. C[abinets]. R[ath]. Beyme und eins\nam Obersten — die Würkung ist durchgängig sehr\ngut gewesen, den ich bezog mich allewege auf das\nCabinets Schreiben als auch auf das von Hern Cabinets\nRath\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den 15ten Octobr.\n1798.\ntreu untertänigster Knecht\nv Triebenfeld",
+   "reading": "abgehen als ich der Sache gewis bei.\n\nSolte der Prinz in das Forte eher als ich eintreffen, so halt Ewr Durchlaucht ihn ja auf bis ich komme den sonsten werde ich zum Lügener und der gute Prinz wird irre geleitet Es ist bey Gott nicht Präflorey - allein ich kan es gewis versichern das Niemand von allen unsern Officianten die Provinz noch weniger das interieur der Sache auß er nur kennt, und in des Prinzen George Sache wird es erfordert, daß ein Mann der Sach kenntnis hatt und die Sprache versteht auftritt als dann kan er viel gewinnen. Der Minister Hoym ist heute auf 10 Tage nach Pommern gereiset - der Monarch hatt ihm sehr gnädig begegnet Den Donnerstag kömt der Minister von Voss zurück, und Dann wird man bald aufs reine sind – ich habe gestern ein verbindliches Schreiben wieder an ihn gesand so eins an, Schulzer eins aus H. C[abinets]. R[ath]. Beyme und eins am Obersten — die Würkung ist durchgängig sehr gut gewesen, den ich bezog mich allewege auf das Cabinets Schreiben als auch auf das von Hern Cabinets Rath\n\nIn tiefster Ehrfurcht ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den 15ten Octobr.\n\n1798.\n\ntreu untertänigster Knecht\n\nv Triebenfeld",
    "paragraphs": [
     "abgehen als ich der Sache gewis bei.",
-    "Solte der Prinz in das Forte eher als ich eintreffen, so halt Ewr Durchlaucht ihn ja auf bis ich komme den sonsten werde ich zum Lügener und der gute Prinz wird irre geleitet Es ist bey Gott nicht Präflorey - allein ich kan es gewis versichern das Niemand von allen unsern Officianten die Provinz noch weniger das interieur der Sache auß er nur kennt, und in des Prinzen George Sache wird es erfordert, daß ein Mann der Sach kenntnis hatt und die Sprache versteht auftritt als dann kan er viel gewinnen. Der Minister Hoym ist heute auf 10 Tage nach Pommern gereiset - der Monarch hatt ihm sehr gnädig begegnet Den Donnerstag kömt der Minister von Voss zurück, und Dann wird man bald aufs reine sind – ich habe gestern ein verbindliches Schreiben wieder an ihn gesand so eins an, Schulze eins aus H. C. W. Beym und eins am Obersten — die Würkung ist durchgängig sehr gut gewesen, den ich bezog mich allewege auf das Cabinets Schreiben als auch auf das von Herr Cabinets Rath",
+    "Solte der Prinz in das Forte eher als ich eintreffen, so halt Ewr Durchlaucht ihn ja auf bis ich komme den sonsten werde ich zum Lügener und der gute Prinz wird irre geleitet Es ist bey Gott nicht Präflorey - allein ich kan es gewis versichern das Niemand von allen unsern Officianten die Provinz noch weniger das interieur der Sache auß er nur kennt, und in des Prinzen George Sache wird es erfordert, daß ein Mann der Sach kenntnis hatt und die Sprache versteht auftritt als dann kan er viel gewinnen. Der Minister Hoym ist heute auf 10 Tage nach Pommern gereiset - der Monarch hatt ihm sehr gnädig begegnet Den Donnerstag kömt der Minister von Voss zurück, und Dann wird man bald aufs reine sind – ich habe gestern ein verbindliches Schreiben wieder an ihn gesand so eins an, Schulzer eins aus H. C[abinets]. R[ath]. Beyme und eins am Obersten — die Würkung ist durchgängig sehr gut gewesen, den ich bezog mich allewege auf das Cabinets Schreiben als auch auf das von Hern Cabinets Rath",
     "In tiefster Ehrfurcht ersterbe",
     "Ewr Hochfürstliche Durchlaucht",
     "Berlin den 15ten Octobr.",
@@ -77,52 +82,63 @@
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "doc_line_start": 23,
-   "doc_line_end": 48
+   "doc_line_start": 24,
+   "doc_line_end": 49
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 6703,
-   "line_end": 6722,
+   "page_id": "0174_a2",
+   "line_start": 6712,
+   "line_end": 6731,
    "n_lines": 20,
-   "diplomatic": "Der gute Monarch soll gar nicht recht aufgeräumt sein\nDas thut mich wahrlich leid –\nDer Fürst Reppnin soll wie man sagt unter\nwegnis eine Uhase erhalten haben sich nicht wieder\nin Petersburg zu zeigen – wer weis ob dies\nnicht etwann Masque ist?\nDer gute Geh. Cabinets Rath Mencke soll wieder\nin Activiteet sein, weil seine Gesundheit mercklich\ngebeßert hatt.\nzwischen einige Männern heißt es soll zwietracht\nherſchen es wäre Schade, den es ſind ein paar\nredliche Leute\nDie Fürſtin Sacken Durchlaucht befinden ſich wohl\ndaß der Graf Höym jezt nach Pommern gegangen\ntadle ich sehr\nDie X Spinne war eben hier und sagt er wiße es\nGewis, daß die Franzosen Hannover nehmen wollen.\ndesfals sey der König so mißmüthig,\nIch glaube aber nicht um Wort von dem was der\nſagt er hatt ſchon zu viel gelegen",
-   "transcription": "Der gute Monarch soll gar nicht recht aufgeräumt sein\nDas thut mich wahrlich leid –\nDer Fürst Reppnin soll wie man sagt unter\nwegnis eine Uhase erhalten haben sich nicht wieder\nin Petersburg zu zeigen – wer weis ob dies\nnicht etwann Masque ist?\nDer gute Geh. Cabinets Rath Mencke soll wieder\nin Activiteet sein, weil seine Gesundheit mercklich\ngebeßert hatt.\nzwischen einige Männern heißt es soll zwietracht\nherſchen es wäre Schade, den es ſind ein paar\nredliche Leute\nDie Fürſtin Sacken Durchlaucht befinden ſich wohl\ndaß der Graf Höym jezt nach Pommern gegangen\ntadle ich sehr\nDie X Spinne war eben hier und sagt er wiße es\nGewis, daß die Franzosen Hannover nehmen wollen.\ndesfals sey der König so mißmüthig,\nIch glaube aber nicht um Wort von dem was der\nſagt er hatt ſchon zu viel gelegen",
-   "reading": "Der gute Monarch soll gar nicht recht aufgeräumt sein Das thut mich wahrlich leid – Der Fürst Reppnin soll wie man sagt unter wegnis eine Uhase erhalten haben sich nicht wieder in Petersburg zu zeigen – wer weis ob dies nicht etwann Masque ist?\n\nDer gute Geh. Cabinets Rath Mencke soll wieder in Activiteet sein, weil seine Gesundheit mercklich gebeßert hatt.\n\nzwischen einige Männern heißt es soll zwietracht herſchen es wäre Schade, den es ſind ein paar redliche Leute Die Fürſtin Sacken Durchlaucht befinden ſich wohl daß der Graf Höym jezt nach Pommern gegangen tadle ich sehr Die X Spinne war eben hier und sagt er wiße es Gewis, daß die Franzosen Hannover nehmen wollen. desfals sey der König so mißmüthig, Ich glaube aber nicht um Wort von dem was der ſagt er hatt ſchon zu viel gelegen",
+   "diplomatic": "Der gute Monarch soll gar nicht recht aufgeräumt sein\nDas thut mich wahrlich leid –\nDer Fürst Reppnin soll wie man sagt unter\nwegnis eine Uhase erhalten haben sich nicht wieder\nin Petersburg zu zeigen – wer weis ob dies\nnicht etwann Masque ist?\nDer gute Geh[eime]. Cabinets Rath Mencke soll wieder\nin Activiteet sein, weil seine Gesundheit mercklich\ngebeßert hatt.\nzwischen einige Männern heißt es soll zwietracht\nherſchen es wäre Schade, den es ſind ein paar\nredliche Leute -\nDie Fürſtin Sacken Durchlaucht befinden ſich wohl\ndaß der Graf Hoym jezt nach Pommern gegangen\ntadle ich sehr -\nDie X Spinne war eben hier und sagt er wiße es\nGewis, daß die Franzosen Hannover nehmen wollen.\ndesfals sey der König so mißmüthig,\nIch glaube aber nicht um Wort von dem was der\nſagt er hatt ſchon zu viel gelogen -",
+   "transcription": "Der gute Monarch soll gar nicht recht aufgeräumt sein\nDas thut mich wahrlich leid –\nDer Fürst Reppnin soll wie man sagt unter\nwegnis eine Uhase erhalten haben sich nicht wieder\nin Petersburg zu zeigen – wer weis ob dies\nnicht etwann Masque ist?\nDer gute Geh[eime]. Cabinets Rath Mencke soll wieder\nin Activiteet sein, weil seine Gesundheit mercklich\ngebeßert hatt.\nzwischen einige Männern heißt es soll zwietracht\nherſchen es wäre Schade, den es ſind ein paar\nredliche Leute -\nDie Fürſtin Sacken Durchlaucht befinden ſich wohl\ndaß der Graf Hoym jezt nach Pommern gegangen\ntadle ich sehr -\nDie X Spinne war eben hier und sagt er wiße es\nGewis, daß die Franzosen Hannover nehmen wollen.\ndesfals sey der König so mißmüthig,\nIch glaube aber nicht um Wort von dem was der\nſagt er hatt ſchon zu viel gelogen -",
+   "reading": "Der gute Monarch soll gar nicht recht aufgeräumt sein Das thut mich wahrlich leid – Der Fürst Reppnin soll wie man sagt unter wegnis eine Uhase erhalten haben sich nicht wieder in Petersburg zu zeigen – wer weis ob dies nicht etwann Masque ist?\n\nDer gute Geh[eime]. Cabinets Rath Mencke soll wieder in Activiteet sein, weil seine Gesundheit mercklich gebeßert hatt.\n\nzwischen einige Männern heißt es soll zwietracht herſchen es wäre Schade, den es ſind ein paar redliche Leute - Die Fürſtin Sacken Durchlaucht befinden ſich wohl daß der Graf Hoym jezt nach Pommern gegangen tadle ich sehr - Die X Spinne war eben hier und sagt er wiße es Gewis, daß die Franzosen Hannover nehmen wollen. desfals sey der König so mißmüthig, Ich glaube aber nicht um Wort von dem was der ſagt er hatt ſchon zu viel gelogen -",
    "paragraphs": [
     "Der gute Monarch soll gar nicht recht aufgeräumt sein Das thut mich wahrlich leid – Der Fürst Reppnin soll wie man sagt unter wegnis eine Uhase erhalten haben sich nicht wieder in Petersburg zu zeigen – wer weis ob dies nicht etwann Masque ist?",
-    "Der gute Geh. Cabinets Rath Mencke soll wieder in Activiteet sein, weil seine Gesundheit mercklich gebeßert hatt.",
-    "zwischen einige Männern heißt es soll zwietracht herſchen es wäre Schade, den es ſind ein paar redliche Leute Die Fürſtin Sacken Durchlaucht befinden ſich wohl daß der Graf Höym jezt nach Pommern gegangen tadle ich sehr Die X Spinne war eben hier und sagt er wiße es Gewis, daß die Franzosen Hannover nehmen wollen. desfals sey der König so mißmüthig, Ich glaube aber nicht um Wort von dem was der ſagt er hatt ſchon zu viel gelegen"
+    "Der gute Geh[eime]. Cabinets Rath Mencke soll wieder in Activiteet sein, weil seine Gesundheit mercklich gebeßert hatt.",
+    "zwischen einige Männern heißt es soll zwietracht herſchen es wäre Schade, den es ſind ein paar redliche Leute - Die Fürſtin Sacken Durchlaucht befinden ſich wohl daß der Graf Hoym jezt nach Pommern gegangen tadle ich sehr - Die X Spinne war eben hier und sagt er wiße es Gewis, daß die Franzosen Hannover nehmen wollen. desfals sey der König so mißmüthig, Ich glaube aber nicht um Wort von dem was der ſagt er hatt ſchon zu viel gelogen -"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
-   "doc_line_start": 49,
-   "doc_line_end": 68
+   "doc_line_start": 50,
+   "doc_line_end": 69
   }
  ],
  "mentions": [
-  {
-   "entity": "michaelis",
-   "display": "Michaelis",
-   "kind": "person",
-   "surface": "Michaelis",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
-   "line": 6657,
-   "doc_line": 5
-  },
   {
    "entity": "schulze",
    "display": "Schulze",
    "kind": "person",
    "surface": "Schulze",
    "page": 1,
-   "page_id": "",
+   "page_id": "0173_a",
    "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
-   "line": 6663,
-   "doc_line": 11
+   "line": 6672,
+   "doc_line": 12
+  },
+  {
+   "entity": "prinz-george",
+   "display": "Prinz George",
+   "kind": "person",
+   "surface": "George",
+   "page": 1,
+   "page_id": "0173_a",
+   "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
+   "line": 6681,
+   "doc_line": 21
+  },
+  {
+   "entity": "prinz-george",
+   "display": "Prinz George",
+   "kind": "person",
+   "surface": "George",
+   "page": 2,
+   "page_id": "0174_a1",
+   "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
+   "line": 6692,
+   "doc_line": 31
   },
   {
    "entity": "hoym",
@@ -130,10 +146,10 @@
    "kind": "person",
    "surface": "Hoym",
    "page": 2,
-   "page_id": "",
+   "page_id": "0174_a1",
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "line": 6686,
-   "doc_line": 33
+   "line": 6695,
+   "doc_line": 34
   },
   {
    "entity": "voss",
@@ -141,10 +157,21 @@
    "kind": "person",
    "surface": "Voss",
    "page": 2,
-   "page_id": "",
+   "page_id": "0174_a1",
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "line": 6688,
-   "doc_line": 35
+   "line": 6697,
+   "doc_line": 36
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface": "Beyme",
+   "page": 2,
+   "page_id": "0174_a1",
+   "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
+   "line": 6700,
+   "doc_line": 39
   },
   {
    "entity": "schulze",
@@ -152,10 +179,10 @@
    "kind": "person",
    "surface": "Schulze",
    "page": 2,
-   "page_id": "",
+   "page_id": "0174_a1",
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "line": 6691,
-   "doc_line": 38
+   "line": 6700,
+   "doc_line": 39
   },
   {
    "entity": "triebenfeld",
@@ -163,10 +190,32 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0174_a1",
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "line": 6701,
-   "doc_line": 48
+   "line": 6710,
+   "doc_line": 49
+  },
+  {
+   "entity": "repnin",
+   "display": "Repnin",
+   "kind": "person",
+   "surface": "Reppnin",
+   "page": 3,
+   "page_id": "0174_a2",
+   "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
+   "line": 6714,
+   "doc_line": 52
+  },
+  {
+   "entity": "mencke",
+   "display": "Mencke",
+   "kind": "person",
+   "surface": "Mencke",
+   "page": 3,
+   "page_id": "0174_a2",
+   "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
+   "line": 6718,
+   "doc_line": 56
   },
   {
    "entity": "sacken",
@@ -174,221 +223,91 @@
    "kind": "person",
    "surface": "Sacken",
    "page": 3,
-   "page_id": "",
+   "page_id": "0174_a2",
    "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
-   "line": 6715,
-   "doc_line": 61
+   "line": 6724,
+   "doc_line": 62
   },
   {
    "entity": "hoym",
    "display": "Hoym",
    "kind": "person",
-   "surface": "Höym",
+   "surface": "Hoym",
    "page": 3,
-   "page_id": "",
+   "page_id": "0174_a2",
    "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
-   "line": 6716,
-   "doc_line": 62
+   "line": 6725,
+   "doc_line": 63
   }
  ],
- "mentions_english": [
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
-   "kind": "person",
-   "surface_de": "Michaelis",
-   "surface_en": "Michaelis",
-   "page": 1
-  },
-  {
-   "entity": "",
+   "entity": "krotoszyn",
    "display": "Krotoszyn",
    "kind": "place",
-   "surface_de": "Krotoszyn",
-   "surface_en": "Krotoszyn",
-   "page": 1
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0173_a",
+   "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
+   "line": 6668,
+   "doc_line": 8
   },
   {
-   "entity": "",
+   "entity": "polajewo",
    "display": "Polajewo",
    "kind": "place",
-   "surface_de": "Polajewo",
-   "surface_en": "Polajewo",
-   "page": 1
+   "surface": "Polajewo",
+   "page": 1,
+   "page_id": "0173_a",
+   "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
+   "line": 6670,
+   "doc_line": 10
   },
   {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface_de": "Schulze",
-   "surface_en": "Schulze",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince George",
-   "kind": "person",
-   "surface_de": "Prinzen George",
-   "surface_en": "Prince George",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
    "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0173_a",
+   "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
+   "line": 6676,
+   "doc_line": 16
   },
   {
-   "entity": "",
-   "display": "Prince",
-   "kind": "person",
-   "surface_de": "Prinz",
-   "surface_en": "Prince",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Prince George",
-   "kind": "person",
-   "surface_de": "Prinzen George",
-   "surface_en": "Prince George",
-   "page": 2
-  },
-  {
-   "entity": "hoym",
-   "display": "Hoym",
-   "kind": "person",
-   "surface_de": "Hoym",
-   "surface_en": "Hoym",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Pomerania",
+   "entity": "polajewo",
+   "display": "Polajewo",
    "kind": "place",
-   "surface_de": "Pommern",
-   "surface_en": "Pomerania",
-   "page": 2
+   "surface": "Polajewo",
+   "page": 1,
+   "page_id": "0173_a",
+   "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
+   "line": 6677,
+   "doc_line": 17
   },
-  {
-   "entity": "",
-   "display": "von Voss",
-   "kind": "person",
-   "surface_de": "von Voss",
-   "surface_en": "von Voss",
-   "page": 2
-  },
-  {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface_de": "Schulze",
-   "surface_en": "Schulze",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Mr. C. W. Beym",
-   "kind": "person",
-   "surface_de": "H. C. W. Beym",
-   "surface_en": "Mr. C. W. Beym",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Prince Reppnin",
-   "kind": "person",
-   "surface_de": "Fürst Reppnin",
-   "surface_en": "Prince Reppnin",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Petersburg",
-   "kind": "place",
-   "surface_de": "Petersburg",
-   "surface_en": "Petersburg",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Mencke",
-   "kind": "person",
-   "surface_de": "Mencke",
-   "surface_en": "Mencke",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Princess Sacken",
-   "kind": "person",
-   "surface_de": "Fürſtin Sacken",
-   "surface_en": "Princess Sacken",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Count Höym",
-   "kind": "person",
-   "surface_de": "Graf Höym",
-   "surface_en": "Count Höym",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Pomerania",
-   "kind": "place",
-   "surface_de": "Pommern",
-   "surface_en": "Pomerania",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "X Spinne",
-   "kind": "person",
-   "surface_de": "X Spinne",
-   "surface_en": "X Spinne",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Hanover",
-   "kind": "place",
-   "surface_de": "Hannover",
-   "surface_en": "Hanover",
-   "page": 3
-  }
- ],
- "place_canonical": "Berlin",
- "place_mentions": [
   {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0173_a",
    "scan": "Oe_1_Bu_9454_0173_a-L83_01.jpg",
-   "line": 6674,
-   "doc_line": 22
+   "line": 6683,
+   "doc_line": 23
+  },
+  {
+   "entity": "pommern",
+   "display": "Pommern",
+   "kind": "place",
+   "surface": "Pommern",
+   "page": 2,
+   "page_id": "0174_a1",
+   "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
+   "line": 6695,
+   "doc_line": 34
   },
   {
    "entity": "berlin",
@@ -396,157 +315,37 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0174_a1",
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "line": 6698,
-   "doc_line": 45
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nThe letter which Your Most Serene Highness was most graciously pleased to address to me I have duly received, together with all the enclosures, through Mr. Michaelis.\n\nAs to the matter itself, I can say with the most joyful heart that everything is going as we should wish — Krotoszyn is now quite certainly to be given to Your Most Serene Highness for the Suprenstis possessions. Only with regard to Polajewo does there seem still to be some hesitation expressed — but according to the assurance of Privy Councillor of Finances Schulze, Your Most Serene Highness may obtain this one also. The chief aim of my most ardent wish and of my honest zeal for Your Serene Highness's peace and contentment is as good as attained already, for Krotoszyn is and remains an inestimable endowment — with Polajewo too there are some 100000 Rthl to be gained; only the obstruction from the Chambers will cost me many a struggle — yet this too should be possible to overcome.\n\nMy one and only worry is that His Serene Highness Prince George should not arrive there sooner than I am in Breslau — for here I would rather not depart",
-   "names": [
-    {
-     "de": "Michaelis",
-     "en": "Michaelis",
-     "kind": "person"
-    },
-    {
-     "de": "Krotoszyn",
-     "en": "Krotoszyn",
-     "kind": "place"
-    },
-    {
-     "de": "Polajewo",
-     "en": "Polajewo",
-     "kind": "place"
-    },
-    {
-     "de": "Schulze",
-     "en": "Schulze",
-     "kind": "person"
-    },
-    {
-     "de": "Prinzen George",
-     "en": "Prince George",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "100000"
-   ]
+   "line": 6707,
+   "doc_line": 46
   },
   {
-   "page": 2,
-   "en": "depart before I am certain of the matter.\n\nShould the Prince arrive in the Forte before I do, then let Your Serene Highness by all means detain him until I come, for otherwise I shall be made out a liar and the good Prince will be led astray. It is, by God, no Präflorey — but I can assure it for certain that not one of all our officials knows the province, still less the interior of the matter, otherwise than superficially; and in Prince George's affair it is required that a man who has knowledge of the business and understands the language should come forward, and then much may be gained. Minister Hoym set out today for Pomerania for 10 days — the Monarch received him very graciously. On Thursday Minister von Voss returns, and then the matter will soon be brought clear — yesterday I sent another obliging letter to him, one likewise to Schulze, one to Mr. C. W. Beym, and one to the Colonel — the effect has throughout been very good, for I referred in every instance both to the Cabinet letter and to that of the Cabinet Councillor.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 15th of October\n\n1798.\n\nmost faithful and humble servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Prinz",
-     "en": "Prince",
-     "kind": "person"
-    },
-    {
-     "de": "Prinzen George",
-     "en": "Prince George",
-     "kind": "person"
-    },
-    {
-     "de": "Hoym",
-     "en": "Hoym",
-     "kind": "person"
-    },
-    {
-     "de": "Pommern",
-     "en": "Pomerania",
-     "kind": "place"
-    },
-    {
-     "de": "von Voss",
-     "en": "von Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Schulze",
-     "en": "Schulze",
-     "kind": "person"
-    },
-    {
-     "de": "H. C. W. Beym",
-     "en": "Mr. C. W. Beym",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "10",
-    "15",
-    "1798"
-   ]
-  },
-  {
+   "entity": "st-petersburg",
+   "display": "St Petersburg",
+   "kind": "place",
+   "surface": "Petersburg",
    "page": 3,
-   "en": "The good Monarch is said not to be in good spirits at all. That truly grieves me — Prince Reppnin is said, so they say, to have received an ukase while on the road not to show himself in Petersburg again — who knows whether this may not perhaps be a mask?\n\nThe good Privy Cabinet Councillor Mencke is said to be back in activity, because his health has noticeably improved.\n\nAmong certain men, it is said, discord prevails; that would be a pity, for they are a pair of honest people. Her Serene Highness the Princess Sacken is in good health. That Count Höym has now gone to Pomerania I very much censure. The X Spinne was just here and says he knows it for certain that the French mean to take Hanover; that this is why the King is so out of humour. But I do not believe a word of what he says; he has lied too much already.",
-   "names": [
-    {
-     "de": "Fürst Reppnin",
-     "en": "Prince Reppnin",
-     "kind": "person"
-    },
-    {
-     "de": "Petersburg",
-     "en": "Petersburg",
-     "kind": "place"
-    },
-    {
-     "de": "Mencke",
-     "en": "Mencke",
-     "kind": "person"
-    },
-    {
-     "de": "Fürſtin Sacken",
-     "en": "Princess Sacken",
-     "kind": "person"
-    },
-    {
-     "de": "Graf Höym",
-     "en": "Count Höym",
-     "kind": "person"
-    },
-    {
-     "de": "Pommern",
-     "en": "Pomerania",
-     "kind": "place"
-    },
-    {
-     "de": "X Spinne",
-     "en": "X Spinne",
-     "kind": "person"
-    },
-    {
-     "de": "Hannover",
-     "en": "Hanover",
-     "kind": "place"
-    }
-   ]
+   "page_id": "0174_a2",
+   "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
+   "line": 6716,
+   "doc_line": 54
+  },
+  {
+   "entity": "pommern",
+   "display": "Pommern",
+   "kind": "place",
+   "surface": "Pommern",
+   "page": 3,
+   "page_id": "0174_a2",
+   "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
+   "line": 6725,
+   "doc_line": 63
   }
  ],
- "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nThe letter which Your Most Serene Highness was most graciously pleased to address to me I have duly received, together with all the enclosures, through Mr. Michaelis.\n\nAs to the matter itself, I can say with the most joyful heart that everything is going as we should wish — Krotoszyn is now quite certainly to be given to Your Most Serene Highness for the Suprenstis possessions. Only with regard to Polajewo does there seem still to be some hesitation expressed — but according to the assurance of Privy Councillor of Finances Schulze, Your Most Serene Highness may obtain this one also. The chief aim of my most ardent wish and of my honest zeal for Your Serene Highness's peace and contentment is as good as attained already, for Krotoszyn is and remains an inestimable endowment — with Polajewo too there are some 100000 Rthl to be gained; only the obstruction from the Chambers will cost me many a struggle — yet this too should be possible to overcome.\n\nMy one and only worry is that His Serene Highness Prince George should not arrive there sooner than I am in Breslau — for here I would rather not depart\n\ndepart before I am certain of the matter.\n\nShould the Prince arrive in the Forte before I do, then let Your Serene Highness by all means detain him until I come, for otherwise I shall be made out a liar and the good Prince will be led astray. It is, by God, no Präflorey — but I can assure it for certain that not one of all our officials knows the province, still less the interior of the matter, otherwise than superficially; and in Prince George's affair it is required that a man who has knowledge of the business and understands the language should come forward, and then much may be gained. Minister Hoym set out today for Pomerania for 10 days — the Monarch received him very graciously. On Thursday Minister von Voss returns, and then the matter will soon be brought clear — yesterday I sent another obliging letter to him, one likewise to Schulze, one to Mr. C. W. Beym, and one to the Colonel — the effect has throughout been very good, for I referred in every instance both to the Cabinet letter and to that of the Cabinet Councillor.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 15th of October\n\n1798.\n\nmost faithful and humble servant\n\nv. Triebenfeld\n\nThe good Monarch is said not to be in good spirits at all. That truly grieves me — Prince Reppnin is said, so they say, to have received an ukase while on the road not to show himself in Petersburg again — who knows whether this may not perhaps be a mask?\n\nThe good Privy Cabinet Councillor Mencke is said to be back in activity, because his health has noticeably improved.\n\nAmong certain men, it is said, discord prevails; that would be a pity, for they are a pair of honest people. Her Serene Highness the Princess Sacken is in good health. That Count Höym has now gone to Pomerania I very much censure. The X Spinne was just here and says he knows it for certain that the French mean to take Hanover; that this is why the King is so out of humour. But I do not believe a word of what he says; he has lied too much already.",
- "summary_en": "Reports that negotiations in Berlin are going well: Krotoszyn is now certain to be granted to the Prince in compensation for his Suprenstis possessions, and Privy Finance Councillor Schulze expects Polajewo, worth some 100,000 Rthl, to follow, though resistance from the Chambers will be a struggle. Asks that Prince George be kept waiting until Triebenfeld reaches Breslau, since no official knows the province or the language well enough. Adds news of Minister Hoym, Voss, Mencke, and rumours of French designs on Hanover.",
- "summary_de": "Bericht über den Stand der Entschädigungsverhandlungen: Krotoszyn werde dem Fürsten für die Suprenstischen Besitzungen sicher zugesprochen, bei Polajewo bestehe noch Zögern, doch nach Zusicherung des Geheimen Finanzrats Schulze sei auch dies zu erlangen, mit einem Gewinn von etwa 100000 Rthl; Widerstand der Kammern sei zu erwarten. Triebenfeld bittet, Prinz George bis zu seiner Ankunft in Breslau zurückzuhalten. Nachrichten über Minister Hoym, von Voss, Kabinettsrat Mencke, Fürst Reppnin und Gerüchte über französische Absichten auf Hannover."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -522,6 +522,17 @@
    "doc_line": 17
   },
   {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0037_b",
+   "scan": "Oe_1_Bu_14526_0037_b-L8_01.jpg",
+   "line": 1801,
+   "doc_line": 20
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
@@ -597,6 +608,17 @@
    "scan": "Oe_1_Bu_14526_0044_a2-L8_15.jpg",
    "line": 2293,
    "doc_line": 498
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 15,
+   "page_id": "0044_a2",
+   "scan": "Oe_1_Bu_14526_0044_a2-L8_15.jpg",
+   "line": 2296,
+   "doc_line": 501
   },
   {
    "entity": "koeppen",
@@ -1361,6 +1383,39 @@
    "doc_line": 12
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0037_b",
+   "scan": "Oe_1_Bu_14526_0037_b-L8_01.jpg",
+   "line": 1802,
+   "doc_line": 21
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 2,
+   "page_id": "0038_a1",
+   "scan": "Oe_1_Bu_14526_0038_a1-L8_02.jpg",
+   "line": 1831,
+   "doc_line": 49
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 12,
+   "page_id": "0043_a1",
+   "scan": "Oe_1_Bu_14526_0043_a1-L8_12.jpg",
+   "line": 2189,
+   "doc_line": 397
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
@@ -1370,6 +1425,28 @@
    "scan": "Oe_1_Bu_14526_0043_a1-L8_12.jpg",
    "line": 2194,
    "doc_line": 402
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "SüdPreußen",
+   "page": 12,
+   "page_id": "0043_a1",
+   "scan": "Oe_1_Bu_14526_0043_a1-L8_12.jpg",
+   "line": 2194,
+   "doc_line": 402
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorower",
+   "page": 12,
+   "page_id": "0043_a1",
+   "scan": "Oe_1_Bu_14526_0043_a1-L8_12.jpg",
+   "line": 2195,
+   "doc_line": 403
   },
   {
    "entity": "trabczyn",
@@ -1427,6 +1504,17 @@
    "doc_line": 494
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 15,
+   "page_id": "0044_a2",
+   "scan": "Oe_1_Bu_14526_0044_a2-L8_15.jpg",
+   "line": 2293,
+   "doc_line": 498
+  },
+  {
    "entity": "guhrwitz",
    "display": "Guhrwitz",
    "kind": "place",
@@ -1447,6 +1535,17 @@
    "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
    "line": 2314,
    "doc_line": 518
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "SüdPreußen",
+   "page": 16,
+   "page_id": "0045_a1",
+   "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
+   "line": 2327,
+   "doc_line": 531
   },
   {
    "entity": "kalisz",
@@ -1491,6 +1590,17 @@
    "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
    "line": 2331,
    "doc_line": 535
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 16,
+   "page_id": "0045_a1",
+   "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
+   "line": 2333,
+   "doc_line": 537
   },
   {
    "entity": "trabczyn",
@@ -1570,6 +1680,17 @@
    "doc_line": 558
   },
   {
+   "entity": "przybyslaw",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface": "Przybislaw",
+   "page": 17,
+   "page_id": "0045_a2",
+   "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
+   "line": 2356,
+   "doc_line": 559
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -1592,6 +1713,28 @@
    "doc_line": 564
   },
   {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 17,
+   "page_id": "0045_a2",
+   "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
+   "line": 2362,
+   "doc_line": 565
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 18,
+   "page_id": "0046_a1",
+   "scan": "Oe_1_Bu_14526_0046_a1-L8_18.jpg",
+   "line": 2379,
+   "doc_line": 581
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -1603,6 +1746,17 @@
    "doc_line": 584
   },
   {
+   "entity": "schlesien",
+   "display": "Schlesien",
+   "kind": "place",
+   "surface": "Schlesien",
+   "page": 19,
+   "page_id": "0046_a2",
+   "scan": "Oe_1_Bu_14526_0046_a2-L8_19.jpg",
+   "line": 2406,
+   "doc_line": 607
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
@@ -1612,6 +1766,17 @@
    "scan": "Oe_1_Bu_14526_0047_a2-L8_21.jpg",
    "line": 2480,
    "doc_line": 679
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 21,
+   "page_id": "0047_a2",
+   "scan": "Oe_1_Bu_14526_0047_a2-L8_21.jpg",
+   "line": 2491,
+   "doc_line": 690
   },
   {
    "entity": "trabczyn",
@@ -1645,6 +1810,17 @@
    "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
    "line": 2510,
    "doc_line": 708
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 22,
+   "page_id": "0048_a1",
+   "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
+   "line": 2519,
+   "doc_line": 717
   }
  ],
  "translation_status": "draft",

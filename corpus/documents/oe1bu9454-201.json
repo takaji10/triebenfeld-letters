@@ -1,6 +1,6 @@
 {
  "letter_id": "201",
- "seq_archival": 214,
+ "seq_archival": 212,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-201",
@@ -18,37 +18,43 @@
  "month": 8,
  "day": 29,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 14391,
- "line_end": 14422,
+ "sender": "",
+ "recipient": "",
+ "line_start": 14365,
+ "line_end": 14397,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "zagorowo",
+  "schweinern",
+  "trabczyn"
+ ],
  "is_missing": 0,
  "n_lines": 31,
  "n_pages": 1,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen\ndie Knobelsdorff oder Pommahischen sein, anzunehmen, und dafür seine und des Stossels Forderungen\nabzurechnen. Morgen als den 30ten will er den Tag in Schweinerin bey mir zubringen um über\nalles in dieser Sache einschlagende, zu Conferiren.\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können\nIch werde mit glühenden Eifer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte\nDer Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß\nIhnen in kurzen aller desfalßige Kummer fremd werden soll\nder Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große\nGüter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 Rthl Cour. bono\ngeboten ich verlange 250000 ⁠. Erhalte ich das so bekomme ich baar 160000 ₰, da nur 40000 ℔\nauf die Güter intabulirt sind, heraus – Wann Weigel und Stössel befriediget sind. Grotowski\nLichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 Rolle\nIhre andere Schulden völlig zu tilgen.\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien\nim Stillen dafür danken. Eingeleitet ist jetzt alles gut und vielleicht bringe ich Ihnen schneller\nals Sie es denken die erwünschteste Nachrichten.\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit H August gelingt - den können\nSie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück\nzählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Lequenz\nmachen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird —\nIhre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten\nHochachtung als\nEwr Hochfürstliche Durchlaucht\nBreslau d 29tn August\n1810.\nUnterthäniger treuer Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen die Knobelsdorff oder Pommahischen sein, anzunehmen, und dafür seine und des Stossels Forderungen abzurechnen. Morgen als den 30ten will er den Tag in Schweinerin bey mir zubringen um über alles in dieser Sache einschlagende, zu Conferiren.\n\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können Ich werde mit glühenden Eifer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte Der Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß Ihnen in kurzen aller desfalßige Kummer fremd werden soll der Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große Güter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 Rthl Cour. bono geboten ich verlange 250000 ⁠. Erhalte ich das so bekomme ich baar 160000 ₰, da nur 40000 ℔ auf die Güter intabulirt sind, heraus – Wann Weigel und Stössel befriediget sind. Grotowski Lichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 Rolle Ihre andere Schulden völlig zu tilgen.\n\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien im Stillen dafür danken. Eingeleitet ist jetzt alles gut und vielleicht bringe ich Ihnen schneller als Sie es denken die erwünschteste Nachrichten.\n\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit H August gelingt - den können Sie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück zählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Lequenz machen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird — Ihre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten Hochachtung als\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 29tn August\n\n1810.\n\nUnterthäniger treuer Diener\n\nv Triebenfeld",
+ "text": "201\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen\ndie Knobelsdorff oder Poninskischen sein, anzunehmen, und dafür seine und des Stössels Forderungen\nabzurechnen. Morgen als den 30ten will er den Tag in Schweinern bey mir zubringen um über\nalles in dieser Sache einschlagende, zu Conferiren.\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können -\nIch werde mit glühenden Eyfer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte\nDer Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß\nIhnen in kurzen aller desfalßige Kummer fremd werden soll -\nder Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große\nGüter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 rt. Cour. baar\ngeboten ich verlange 250000 ⁠rt. Erhalte ich das so bekomme ich baar 160000 rt, da nur 90000 rt.\nauf die Güter intabulirt sind, heraus – Wann Weigelt und Stössel befriediget sind. Grotowski\nLichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 rt. alle\nIhre andere Schulden völlig zu tilgen.\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien\nim Stillen dafür danken. Eingeleitet ist jetzt alles gut und viel nicht bringe ich Ihnen schneller\nals Sie es denken die ernäußchstete Nachrichten.\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit F. August gelingt - den können\nSie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück\nzählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Sequenz\nmachen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird —\nIhre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten\nHochachtung als\nEwr Hochfürstliche Durchlaucht\nBreslau d 29tn August\n1810.\nUnterthäniger treuer Diener\nv Triebenfeld",
+ "text_reading": "201\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen die Knobelsdorff oder Poninskischen sein, anzunehmen, und dafür seine und des Stössels Forderungen abzurechnen. Morgen als den 30ten will er den Tag in Schweinern bey mir zubringen um über alles in dieser Sache einschlagende, zu Conferiren.\n\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können - Ich werde mit glühenden Eyfer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte Der Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß Ihnen in kurzen aller desfalßige Kummer fremd werden soll - der Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große Güter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 rt. Cour. baar geboten ich verlange 250000 ⁠rt. Erhalte ich das so bekomme ich baar 160000 rt, da nur 90000 rt. auf die Güter intabulirt sind, heraus – Wann Weigelt und Stössel befriediget sind. Grotowski Lichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 rt. alle Ihre andere Schulden völlig zu tilgen.\n\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien im Stillen dafür danken. Eingeleitet ist jetzt alles gut und viel nicht bringe ich Ihnen schneller als Sie es denken die ernäußchstete Nachrichten.\n\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit F. August gelingt - den können Sie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück zählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Sequenz machen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird — Ihre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten Hochachtung als\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 29tn August\n\n1810.\n\nUnterthäniger treuer Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 14392,
-   "line_end": 14421,
-   "n_lines": 30,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen\ndie Knobelsdorff oder Pommahischen sein, anzunehmen, und dafür seine und des Stossels Forderungen\nabzurechnen. Morgen als den 30ten will er den Tag in Schweinerin bey mir zubringen um über\nalles in dieser Sache einschlagende, zu Conferiren.\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können\nIch werde mit glühenden Eifer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte\nDer Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß\nIhnen in kurzen aller desfalßige Kummer fremd werden soll\nder Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große\nGüter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 Rthl Cour. bono\ngeboten ich verlange 250000 ⁠. Erhalte ich das so bekomme ich baar 160000 ₰, da nur 40000 ℔\nauf die Güter intabulirt sind, heraus – Wann Weigel und Stössel befriediget sind. Grotowski\nLichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 Rolle\nIhre andere Schulden völlig zu tilgen.\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien\nim Stillen dafür danken. Eingeleitet ist jetzt alles gut und vielleicht bringe ich Ihnen schneller\nals Sie es denken die erwünschteste Nachrichten.\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit H August gelingt - den können\nSie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück\nzählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Lequenz\nmachen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird —\nIhre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten\nHochachtung als\nEwr Hochfürstliche Durchlaucht\nBreslau d 29tn August\n1810.\nUnterthäniger treuer Diener\nv Triebenfeld",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen\ndie Knobelsdorff oder Pommahischen sein, anzunehmen, und dafür seine und des Stossels Forderungen\nabzurechnen. Morgen als den 30ten will er den Tag in Schweinerin bey mir zubringen um über\nalles in dieser Sache einschlagende, zu Conferiren.\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können\nIch werde mit glühenden Eifer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte\nDer Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß\nIhnen in kurzen aller desfalßige Kummer fremd werden soll\nder Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große\nGüter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 Rthl Cour. bono\ngeboten ich verlange 250000 ⁠. Erhalte ich das so bekomme ich baar 160000 ₰, da nur 40000 ℔\nauf die Güter intabulirt sind, heraus – Wann Weigel und Stössel befriediget sind. Grotowski\nLichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 Rolle\nIhre andere Schulden völlig zu tilgen.\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien\nim Stillen dafür danken. Eingeleitet ist jetzt alles gut und vielleicht bringe ich Ihnen schneller\nals Sie es denken die erwünschteste Nachrichten.\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit H August gelingt - den können\nSie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück\nzählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Lequenz\nmachen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird —\nIhre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten\nHochachtung als\nEwr Hochfürstliche Durchlaucht\nBreslau d 29tn August\n1810.\nUnterthäniger treuer Diener\nv Triebenfeld",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen die Knobelsdorff oder Pommahischen sein, anzunehmen, und dafür seine und des Stossels Forderungen abzurechnen. Morgen als den 30ten will er den Tag in Schweinerin bey mir zubringen um über alles in dieser Sache einschlagende, zu Conferiren.\n\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können Ich werde mit glühenden Eifer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte Der Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß Ihnen in kurzen aller desfalßige Kummer fremd werden soll der Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große Güter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 Rthl Cour. bono geboten ich verlange 250000 ⁠. Erhalte ich das so bekomme ich baar 160000 ₰, da nur 40000 ℔ auf die Güter intabulirt sind, heraus – Wann Weigel und Stössel befriediget sind. Grotowski Lichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 Rolle Ihre andere Schulden völlig zu tilgen.\n\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien im Stillen dafür danken. Eingeleitet ist jetzt alles gut und vielleicht bringe ich Ihnen schneller als Sie es denken die erwünschteste Nachrichten.\n\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit H August gelingt - den können Sie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück zählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Lequenz machen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird — Ihre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten Hochachtung als\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 29tn August\n\n1810.\n\nUnterthäniger treuer Diener\n\nv Triebenfeld",
+   "page_id": "0380_a2",
+   "line_start": 14367,
+   "line_end": 14397,
+   "n_lines": 31,
+   "diplomatic": "201\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen\ndie Knobelsdorff oder Poninskischen sein, anzunehmen, und dafür seine und des Stössels Forderungen\nabzurechnen. Morgen als den 30ten will er den Tag in Schweinern bey mir zubringen um über\nalles in dieser Sache einschlagende, zu Conferiren.\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können -\nIch werde mit glühenden Eyfer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte\nDer Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß\nIhnen in kurzen aller desfalßige Kummer fremd werden soll -\nder Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große\nGüter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 rt. Cour. baar\ngeboten ich verlange 250000 ⁠rt. Erhalte ich das so bekomme ich baar 160000 rt, da nur 90000 rt.\nauf die Güter intabulirt sind, heraus – Wann Weigelt und Stössel befriediget sind. Grotowski\nLichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 rt. alle\nIhre andere Schulden völlig zu tilgen.\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien\nim Stillen dafür danken. Eingeleitet ist jetzt alles gut und viel nicht bringe ich Ihnen schneller\nals Sie es denken die ernäußchstete Nachrichten.\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit F. August gelingt - den können\nSie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück\nzählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Sequenz\nmachen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird —\nIhre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten\nHochachtung als\nEwr Hochfürstliche Durchlaucht\nBreslau d 29tn August\n1810.\nUnterthäniger treuer Diener\nv Triebenfeld",
+   "transcription": "201\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen\ndie Knobelsdorff oder Poninskischen sein, anzunehmen, und dafür seine und des Stössels Forderungen\nabzurechnen. Morgen als den 30ten will er den Tag in Schweinern bey mir zubringen um über\nalles in dieser Sache einschlagende, zu Conferiren.\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können -\nIch werde mit glühenden Eyfer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte\nDer Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß\nIhnen in kurzen aller desfalßige Kummer fremd werden soll -\nder Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große\nGüter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 rt. Cour. baar\ngeboten ich verlange 250000 ⁠rt. Erhalte ich das so bekomme ich baar 160000 rt, da nur 90000 rt.\nauf die Güter intabulirt sind, heraus – Wann Weigelt und Stössel befriediget sind. Grotowski\nLichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 rt. alle\nIhre andere Schulden völlig zu tilgen.\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien\nim Stillen dafür danken. Eingeleitet ist jetzt alles gut und viel nicht bringe ich Ihnen schneller\nals Sie es denken die ernäußchstete Nachrichten.\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit F. August gelingt - den können\nSie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück\nzählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Sequenz\nmachen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird —\nIhre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten\nHochachtung als\nEwr Hochfürstliche Durchlaucht\nBreslau d 29tn August\n1810.\nUnterthäniger treuer Diener\nv Triebenfeld",
+   "reading": "201\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nWeigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen die Knobelsdorff oder Poninskischen sein, anzunehmen, und dafür seine und des Stössels Forderungen abzurechnen. Morgen als den 30ten will er den Tag in Schweinern bey mir zubringen um über alles in dieser Sache einschlagende, zu Conferiren.\n\nEwr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können - Ich werde mit glühenden Eyfer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte Der Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß Ihnen in kurzen aller desfalßige Kummer fremd werden soll - der Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große Güter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 rt. Cour. baar geboten ich verlange 250000 ⁠rt. Erhalte ich das so bekomme ich baar 160000 rt, da nur 90000 rt. auf die Güter intabulirt sind, heraus – Wann Weigelt und Stössel befriediget sind. Grotowski Lichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 rt. alle Ihre andere Schulden völlig zu tilgen.\n\nGott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien im Stillen dafür danken. Eingeleitet ist jetzt alles gut und viel nicht bringe ich Ihnen schneller als Sie es denken die ernäußchstete Nachrichten.\n\nArbeiten die Gnädigster Fürst aber auch daß der Plan mit F. August gelingt - den können Sie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück zählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Sequenz machen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird — Ihre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten Hochachtung als\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 29tn August\n\n1810.\n\nUnterthäniger treuer Diener\n\nv Triebenfeld",
    "paragraphs": [
+    "201",
     "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "Weigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen die Knobelsdorff oder Pommahischen sein, anzunehmen, und dafür seine und des Stossels Forderungen abzurechnen. Morgen als den 30ten will er den Tag in Schweinerin bey mir zubringen um über alles in dieser Sache einschlagende, zu Conferiren.",
-    "Ewr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können Ich werde mit glühenden Eifer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte Der Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß Ihnen in kurzen aller desfalßige Kummer fremd werden soll der Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große Güter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 Rthl Cour. bono geboten ich verlange 250000 ⁠. Erhalte ich das so bekomme ich baar 160000 ₰, da nur 40000 ℔ auf die Güter intabulirt sind, heraus – Wann Weigel und Stössel befriediget sind. Grotowski Lichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 Rolle Ihre andere Schulden völlig zu tilgen.",
-    "Gott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien im Stillen dafür danken. Eingeleitet ist jetzt alles gut und vielleicht bringe ich Ihnen schneller als Sie es denken die erwünschteste Nachrichten.",
-    "Arbeiten die Gnädigster Fürst aber auch daß der Plan mit H August gelingt - den können Sie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück zählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Lequenz machen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird — Ihre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten Hochachtung als",
+    "Weigel ist nun fest entschloßen die für die Zagorower Herrschaft anzuhandelnde Güter, es mögen die Knobelsdorff oder Poninskischen sein, anzunehmen, und dafür seine und des Stössels Forderungen abzurechnen. Morgen als den 30ten will er den Tag in Schweinern bey mir zubringen um über alles in dieser Sache einschlagende, zu Conferiren.",
+    "Ewr Durchlaucht melde ich dieses frohe Ereignis damit Sie einmahl ruhig schlafen können - Ich werde mit glühenden Eyfer bemüht sein, diese Sache zum erwünschsteten Ziele zu bringen, und krönte Der Himmel ein zweites Werck so ordne ich Ewr Durchlaucht häusliche Angelegenheiten dergestalt, daß Ihnen in kurzen aller desfalßige Kummer fremd werden soll - der Plan ist der – die hiesigen Kaufläute, NB die Reichen, sind in einer Manie verfallen große Güter zu besizzen. Mann will mir Schweinern abkaufen, Einer hat mir schon 220000 rt. Cour. baar geboten ich verlange 250000 ⁠rt. Erhalte ich das so bekomme ich baar 160000 rt, da nur 90000 rt. auf die Güter intabulirt sind, heraus – Wann Weigelt und Stössel befriediget sind. Grotowski Lichnowski Zerboni und andere auf Trąbczyn hingehöhren, so glaube ich mit 150000 rt. alle Ihre andere Schulden völlig zu tilgen.",
+    "Gott gebe dazu seinem Seegen und Gedeihen, ich will ihm nach den gelingen auf meinen Linien im Stillen dafür danken. Eingeleitet ist jetzt alles gut und viel nicht bringe ich Ihnen schneller als Sie es denken die ernäußchstete Nachrichten.",
+    "Arbeiten die Gnädigster Fürst aber auch daß der Plan mit F. August gelingt - den können Sie nicht nur noch in Zirkel Ihrer Kinder froh Ihre Tage genießen und gewiß auf das Glück zählen, daß man Ihnen von allen Seiten tausend krumme Lorenze mit hundert tausende Sequenz machen wird - sondern auch versichert sein, daß man Ihnen Gott weis was anbieten wird — Ihre Kinder versichere ich meine tiefste Ehrerbietigkeit – und ersterbe mit der unbegränzteten Hochachtung als",
     "Ewr Hochfürstliche Durchlaucht",
     "Breslau d 29tn August",
     "1810.",
@@ -59,7 +65,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 30
+   "doc_line_end": 31
   }
  ],
  "mentions": [
@@ -69,10 +75,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14394,
-   "doc_line": 3
+   "line": 14370,
+   "doc_line": 4
   },
   {
    "entity": "knobelsdorff",
@@ -80,32 +86,10 @@
    "kind": "person",
    "surface": "Knobelsdorff",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14395,
-   "doc_line": 4
-  },
-  {
-   "entity": "stossel",
-   "display": "Stossel",
-   "kind": "person",
-   "surface": "Stossels",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14395,
-   "doc_line": 4
-  },
-  {
-   "entity": "grotowski",
-   "display": "Grotowski",
-   "kind": "person",
-   "surface": "Grotowski",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14405,
-   "doc_line": 14
+   "line": 14371,
+   "doc_line": 5
   },
   {
    "entity": "stoessel",
@@ -113,10 +97,32 @@
    "kind": "person",
    "surface": "Stössel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14405,
-   "doc_line": 14
+   "line": 14371,
+   "doc_line": 5
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface": "Grotowski",
+   "page": 1,
+   "page_id": "0380_a2",
+   "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
+   "line": 14381,
+   "doc_line": 15
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface": "Stössel",
+   "page": 1,
+   "page_id": "0380_a2",
+   "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
+   "line": 14381,
+   "doc_line": 15
   },
   {
    "entity": "weigel",
@@ -124,10 +130,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14405,
-   "doc_line": 14
+   "line": 14381,
+   "doc_line": 15
   },
   {
    "entity": "lichnowski",
@@ -135,10 +141,10 @@
    "kind": "person",
    "surface": "Lichnowski",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14406,
-   "doc_line": 15
+   "line": 14382,
+   "doc_line": 16
   },
   {
    "entity": "zerboni",
@@ -146,10 +152,10 @@
    "kind": "person",
    "surface": "Zerboni",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14406,
-   "doc_line": 15
+   "line": 14382,
+   "doc_line": 16
   },
   {
    "entity": "august",
@@ -157,10 +163,10 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14411,
-   "doc_line": 20
+   "line": 14387,
+   "doc_line": 21
   },
   {
    "entity": "august",
@@ -168,10 +174,10 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14418,
-   "doc_line": 27
+   "line": 14394,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -179,142 +185,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14421,
-   "doc_line": 30
+   "line": 14397,
+   "doc_line": 31
   }
  ],
- "mentions_english": [
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorower",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "knobelsdorff",
-   "display": "Knobelsdorff",
-   "kind": "person",
-   "surface_de": "Knobelsdorff",
-   "surface_en": "Knobelsdorff",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Pommahisch",
-   "kind": "other",
-   "surface_de": "Pommahischen",
-   "surface_en": "Pommahisch",
-   "page": 1
-  },
-  {
-   "entity": "stossel",
-   "display": "Stossel",
-   "kind": "person",
-   "surface_de": "Stossels",
-   "surface_en": "Stossel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schweinerin",
-   "kind": "place",
-   "surface_de": "Schweinerin",
-   "surface_en": "Schweinerin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schweinern",
-   "kind": "place",
-   "surface_de": "Schweinern",
-   "surface_en": "Schweinern",
-   "page": 1
-  },
-  {
-   "entity": "stoessel",
-   "display": "Stössel",
-   "kind": "person",
-   "surface_de": "Stössel",
-   "surface_en": "Stössel",
-   "page": 1
-  },
-  {
-   "entity": "grotowski",
-   "display": "Grotowski",
-   "kind": "person",
-   "surface_de": "Grotowski",
-   "surface_en": "Grotowski",
-   "page": 1
-  },
-  {
-   "entity": "lichnowski",
-   "display": "Lichnowski",
-   "kind": "person",
-   "surface_de": "Lichnowski",
-   "surface_en": "Lichnowski",
-   "page": 1
-  },
-  {
-   "entity": "zerboni",
-   "display": "Zerboni",
-   "kind": "person",
-   "surface_de": "Zerboni",
-   "surface_en": "Zerboni",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface_de": "August",
-   "surface_en": "August",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Lorenzes",
-   "kind": "other",
-   "surface_de": "Lorenze",
-   "surface_en": "Lorenzes",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -323,10 +200,32 @@
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14394,
-   "doc_line": 3
+   "line": 14370,
+   "doc_line": 4
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 1,
+   "page_id": "0380_a2",
+   "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
+   "line": 14372,
+   "doc_line": 6
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 1,
+   "page_id": "0380_a2",
+   "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
+   "line": 14379,
+   "doc_line": 13
   },
   {
    "entity": "trabczyn",
@@ -334,10 +233,10 @@
    "kind": "place",
    "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14406,
-   "doc_line": 15
+   "line": 14382,
+   "doc_line": 16
   },
   {
    "entity": "breslau",
@@ -345,112 +244,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0380_a2",
    "scan": "Oe_1_Bu_9454_0380_a2-L201_01.jpg",
-   "line": 14418,
-   "doc_line": 27
+   "line": 14394,
+   "doc_line": 28
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nWeigel is now firmly resolved to accept the estates to be negotiated for the Zagórów lordship, be they the Knobelsdorff or the Pommahisch ones, and to set off against them his own and Stossel's claims. Tomorrow, being the 30th, he intends to spend the day with me at Schweinerin, in order to confer upon everything bearing on this matter.\n\nI report this happy event to Your Serene Highness so that you may for once sleep in peace. I shall strive with glowing zeal to bring this affair to the most desirable conclusion, and were Heaven to crown a second work, then I shall order Your Serene Highness's domestic affairs in such a manner that within a short time all care on that account shall become foreign to you. The plan is this – the merchants here, N.B. the rich ones, have fallen into a mania for possessing great estates. There is a wish to buy Schweinern from me; one man has already offered me 220000 Rthl Courant, good money; I ask 250000 [illegible]. If I obtain that, then I get 160000 ₰ in cash, since only 40000 ℔ are intabulated upon the estates – once Weigel and Stössel are satisfied. Grotowski, Lichnowski, Zerboni and others belong upon Trąbczyn, so I believe that with 150000 [uncertain: Rolle] I can wholly extinguish your other debts.\n\nMay God grant thereto His blessing and prospering; after the success I mean to thank Him quietly in my own lines. Everything is now well set in train, and perhaps I shall bring you the most desirable news sooner than you think.\n\nBut let the Most gracious Prince also work to the end that the plan with H[err] August succeeds – then you can not only enjoy your days happily still within the circle of your children and count with certainty upon the good fortune that from every side people will make you a thousand crooked Lorenzes with a hundred thousand [uncertain: Lequenz] – but also be assured that people will offer you God knows what — I assure your children of my deepest reverence – and I remain, until death, with the most unbounded esteem, as\n\nYour Most Serene Highness's\n\nBreslau, the 29th of August\n\n1810.\n\nHumble and faithful servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Zagorower",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Knobelsdorff",
-     "en": "Knobelsdorff",
-     "kind": "person"
-    },
-    {
-     "de": "Pommahischen",
-     "en": "Pommahisch",
-     "kind": "other"
-    },
-    {
-     "de": "Stossels",
-     "en": "Stossel",
-     "kind": "person"
-    },
-    {
-     "de": "Schweinerin",
-     "en": "Schweinerin",
-     "kind": "place"
-    },
-    {
-     "de": "Schweinern",
-     "en": "Schweinern",
-     "kind": "place"
-    },
-    {
-     "de": "Stössel",
-     "en": "Stössel",
-     "kind": "person"
-    },
-    {
-     "de": "Grotowski",
-     "en": "Grotowski",
-     "kind": "person"
-    },
-    {
-     "de": "Lichnowski",
-     "en": "Lichnowski",
-     "kind": "person"
-    },
-    {
-     "de": "Zerboni",
-     "en": "Zerboni",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "August",
-     "en": "August",
-     "kind": "person"
-    },
-    {
-     "de": "Lorenze",
-     "en": "Lorenzes",
-     "kind": "other"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "30ten",
-    "220000",
-    "250000",
-    "160000",
-    "40000",
-    "150000",
-    "29tn",
-    "1810"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nWeigel is now firmly resolved to accept the estates to be negotiated for the Zagórów lordship, be they the Knobelsdorff or the Pommahisch ones, and to set off against them his own and Stossel's claims. Tomorrow, being the 30th, he intends to spend the day with me at Schweinerin, in order to confer upon everything bearing on this matter.\n\nI report this happy event to Your Serene Highness so that you may for once sleep in peace. I shall strive with glowing zeal to bring this affair to the most desirable conclusion, and were Heaven to crown a second work, then I shall order Your Serene Highness's domestic affairs in such a manner that within a short time all care on that account shall become foreign to you. The plan is this – the merchants here, N.B. the rich ones, have fallen into a mania for possessing great estates. There is a wish to buy Schweinern from me; one man has already offered me 220000 Rthl Courant, good money; I ask 250000 [illegible]. If I obtain that, then I get 160000 ₰ in cash, since only 40000 ℔ are intabulated upon the estates – once Weigel and Stössel are satisfied. Grotowski, Lichnowski, Zerboni and others belong upon Trąbczyn, so I believe that with 150000 [uncertain: Rolle] I can wholly extinguish your other debts.\n\nMay God grant thereto His blessing and prospering; after the success I mean to thank Him quietly in my own lines. Everything is now well set in train, and perhaps I shall bring you the most desirable news sooner than you think.\n\nBut let the Most gracious Prince also work to the end that the plan with H[err] August succeeds – then you can not only enjoy your days happily still within the circle of your children and count with certainty upon the good fortune that from every side people will make you a thousand crooked Lorenzes with a hundred thousand [uncertain: Lequenz] – but also be assured that people will offer you God knows what — I assure your children of my deepest reverence – and I remain, until death, with the most unbounded esteem, as\n\nYour Most Serene Highness's\n\nBreslau, the 29th of August\n\n1810.\n\nHumble and faithful servant\n\nv. Triebenfeld",
- "summary_en": "Reports that Weigel has resolved to take the estates offered for the Zagorowo lordship, whether the Knobelsdorff or Pommahisch ones, setting his own and Stossel's claims against them, with a meeting arranged at Schweinerin. Triebenfeld outlines a wider scheme to clear the Prince's debts: rich Breslau merchants covet large estates, one already offering 220,000 Rthl for his own Schweinern, for which he asks 250,000, and Grotowski, Lichnowski and Zerboni hold claims on Trąbczyn. He urges the Prince to advance the plan concerning Herr August.",
- "summary_de": "Meldung, dass Weigel nun entschlossen ist, die für die Herrschaft Zagorowo zu verhandelnden Güter – ob die Knobelsdorffschen oder die Pommahischen – zu übernehmen und seine sowie Stossels Forderungen darauf zu verrechnen; am 30. will er dazu in Schweinerin mit Triebenfeld beraten. Dazu der Plan, Schweinern an einen der kaufwütigen reichen Breslauer Kaufleute zu verkaufen: geboten seien 220000 Rthl Courant, gefordert 250000, bei nur 40000 eingetragener Schuld, womit sich die Forderungen von Grotowski, Lichnowski, Zerboni u. a. auf Trąbczyn tilgen ließen. Bitte, auch den Plan mit Herrn August zu fördern."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

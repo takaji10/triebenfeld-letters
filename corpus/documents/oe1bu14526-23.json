@@ -1233,6 +1233,17 @@
    "doc_line": 614
   },
   {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 26,
+   "page_id": "0153_a1",
+   "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
+   "line": 7625,
+   "doc_line": 639
+  },
+  {
    "entity": "leixner",
    "display": "George Conrad Leixner",
    "kind": "person",
@@ -2359,6 +2370,17 @@
    "doc_line": 3
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0139_a2",
+   "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
+   "line": 6974,
+   "doc_line": 13
+  },
+  {
    "entity": "kamionno",
    "display": "Kamionna",
    "kind": "place",
@@ -2381,6 +2403,17 @@
    "doc_line": 22
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0140_a1",
+   "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
+   "line": 6993,
+   "doc_line": 31
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -2401,6 +2434,28 @@
    "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
    "line": 6996,
    "doc_line": 34
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreussen",
+   "page": 2,
+   "page_id": "0140_a1",
+   "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
+   "line": 7003,
+   "doc_line": 41
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
+   "page": 2,
+   "page_id": "0140_a1",
+   "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
+   "line": 7004,
+   "doc_line": 42
   },
   {
    "entity": "kamionno",
@@ -2434,6 +2489,17 @@
    "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
    "line": 7009,
    "doc_line": 47
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 4,
+   "page_id": "0141_a1",
+   "scan": "Oe_1_Bu_14526_0141_a1-L23_04.jpg",
+   "line": 7052,
+   "doc_line": 88
   },
   {
    "entity": "kolno",
@@ -2502,6 +2568,17 @@
    "doc_line": 251
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 11,
+   "page_id": "0144_a2",
+   "scan": "Oe_1_Bu_14526_0144_a2-L23_11.jpg",
+   "line": 7235,
+   "doc_line": 264
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -2546,6 +2623,17 @@
    "doc_line": 289
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Franckfurth",
+   "page": 13,
+   "page_id": "0145_a2",
+   "scan": "Oe_1_Bu_14526_0145_a2-L23_13.jpg",
+   "line": 7268,
+   "doc_line": 295
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -2557,10 +2645,43 @@
    "doc_line": 303
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 13,
+   "page_id": "0145_a2",
+   "scan": "Oe_1_Bu_14526_0145_a2-L23_13.jpg",
+   "line": 7280,
+   "doc_line": 307
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreussen",
+   "page": 13,
+   "page_id": "0145_a2",
+   "scan": "Oe_1_Bu_14526_0145_a2-L23_13.jpg",
+   "line": 7283,
+   "doc_line": 310
+  },
+  {
    "entity": "kamionno",
    "display": "Kamionna",
    "kind": "place",
    "surface": "Kaemen",
+   "page": 13,
+   "page_id": "0145_a2",
+   "scan": "Oe_1_Bu_14526_0145_a2-L23_13.jpg",
+   "line": 7285,
+   "doc_line": 312
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemenfür",
    "page": 13,
    "page_id": "0145_a2",
    "scan": "Oe_1_Bu_14526_0145_a2-L23_13.jpg",
@@ -2610,6 +2731,17 @@
    "scan": "Oe_1_Bu_14526_0146_a1-L23_14.jpg",
    "line": 7312,
    "doc_line": 338
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 15,
+   "page_id": "0146_a2",
+   "scan": "Oe_1_Bu_14526_0146_a2-L23_15.jpg",
+   "line": 7320,
+   "doc_line": 345
   },
   {
    "entity": "frankfurt-an-der-oder",
@@ -2667,6 +2799,17 @@
    "doc_line": 375
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Franckfurth",
+   "page": 16,
+   "page_id": "0147_a1",
+   "scan": "Oe_1_Bu_14526_0147_a1-L23_16.jpg",
+   "line": 7351,
+   "doc_line": 375
+  },
+  {
    "entity": "kamionno",
    "display": "Kamionna",
    "kind": "place",
@@ -2700,6 +2843,17 @@
    "doc_line": 406
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Franckfurth",
+   "page": 18,
+   "page_id": "0148_a1",
+   "scan": "Oe_1_Bu_14526_0148_a1-L23_18.jpg",
+   "line": 7385,
+   "doc_line": 407
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -2720,6 +2874,17 @@
    "scan": "Oe_1_Bu_14526_0148_a2-L23_19.jpg",
    "line": 7413,
    "doc_line": 434
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 19,
+   "page_id": "0148_a2",
+   "scan": "Oe_1_Bu_14526_0148_a2-L23_19.jpg",
+   "line": 7419,
+   "doc_line": 440
   },
   {
    "entity": "breslau",
@@ -2753,6 +2918,17 @@
    "scan": "Oe_1_Bu_14526_0149_a1-L23_20.jpg",
    "line": 7443,
    "doc_line": 463
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 20,
+   "page_id": "0149_a1",
+   "scan": "Oe_1_Bu_14526_0149_a1-L23_20.jpg",
+   "line": 7447,
+   "doc_line": 467
   },
   {
    "entity": "kamionno",
@@ -2810,6 +2986,17 @@
    "doc_line": 528
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 22,
+   "page_id": "0150_a1",
+   "scan": "Oe_1_Bu_14526_0150_a1-L23_22.jpg",
+   "line": 7512,
+   "doc_line": 530
+  },
+  {
    "entity": "frankfurt-an-der-oder",
    "display": "Frankfurt an der Oder",
    "kind": "place",
@@ -2852,6 +3039,28 @@
    "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
    "line": 7532,
    "doc_line": 549
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 23,
+   "page_id": "0150_a2",
+   "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
+   "line": 7536,
+   "doc_line": 553
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Franckfurth",
+   "page": 23,
+   "page_id": "0150_a2",
+   "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
+   "line": 7538,
+   "doc_line": 555
   },
   {
    "entity": "kamionno",
@@ -2920,6 +3129,17 @@
    "doc_line": 577
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Franckfurth",
+   "page": 24,
+   "page_id": "0151_a1",
+   "scan": "Oe_1_Bu_14526_0151_a1-L23_24.jpg",
+   "line": 7578,
+   "doc_line": 594
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -2962,6 +3182,17 @@
    "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
    "line": 7622,
    "doc_line": 636
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 26,
+   "page_id": "0153_a1",
+   "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
+   "line": 7626,
+   "doc_line": 640
   },
   {
    "entity": "kamionno",

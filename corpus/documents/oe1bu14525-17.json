@@ -245,6 +245,17 @@
  ],
  "mentions": [
   {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0065_a2",
+   "scan": "Oe_1_Bu_14525_0065_a2-L17_01.jpg",
+   "line": 1985,
+   "doc_line": 14
+  },
+  {
    "entity": "prusimski",
    "display": "Prusimski family (Trąbczyn estates)",
    "kind": "person",
@@ -786,10 +797,32 @@
  "place_canonical": "Posen",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0065_a2",
+   "scan": "Oe_1_Bu_14525_0065_a2-L17_01.jpg",
+   "line": 1986,
+   "doc_line": 15
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 2,
+   "page_id": "0066_a1",
+   "scan": "Oe_1_Bu_14525_0066_a1-L17_02.jpg",
+   "line": 2005,
+   "doc_line": 33
+  },
+  {
+   "entity": "swiechocin",
+   "display": "Świechocin",
+   "kind": "place",
+   "surface": "Świechocin",
    "page": 2,
    "page_id": "0066_a1",
    "scan": "Oe_1_Bu_14525_0066_a1-L17_02.jpg",
@@ -951,6 +984,28 @@
    "doc_line": 38
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0066_a2",
+   "scan": "Oe_1_Bu_14525_0066_a2-L17_03.jpg",
+   "line": 2035,
+   "doc_line": 62
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 5,
+   "page_id": "0067_a2",
+   "scan": "Oe_1_Bu_14525_0067_a2-L17_05.jpg",
+   "line": 2077,
+   "doc_line": 102
+  },
+  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -960,6 +1015,17 @@
    "scan": "Oe_1_Bu_14525_0068_a2-L17_07.jpg",
    "line": 2113,
    "doc_line": 136
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 7,
+   "page_id": "0068_a2",
+   "scan": "Oe_1_Bu_14525_0068_a2-L17_07.jpg",
+   "line": 2125,
+   "doc_line": 148
   },
   {
    "entity": "betsche",
@@ -1105,6 +1171,17 @@
    "doc_line": 154
   },
   {
+   "entity": "wienietz",
+   "display": "Wienietz",
+   "kind": "place",
+   "surface": "Wienietz",
+   "page": 8,
+   "page_id": "0069_a1",
+   "scan": "Oe_1_Bu_14525_0069_a1-L17_08.jpg",
+   "line": 2132,
+   "doc_line": 154
+  },
+  {
    "entity": "wrabczyn",
    "display": "Wrąbczyn",
    "kind": "place",
@@ -1138,6 +1215,17 @@
    "doc_line": 161
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 8,
+   "page_id": "0069_a1",
+   "scan": "Oe_1_Bu_14525_0069_a1-L17_08.jpg",
+   "line": 2142,
+   "doc_line": 164
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -1158,6 +1246,17 @@
    "scan": "Oe_1_Bu_14525_0070_a1-L17_10.jpg",
    "line": 2161,
    "doc_line": 181
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 10,
+   "page_id": "0070_a1",
+   "scan": "Oe_1_Bu_14525_0070_a1-L17_10.jpg",
+   "line": 2165,
+   "doc_line": 185
   },
   {
    "entity": "betsche",

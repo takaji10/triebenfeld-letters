@@ -1,6 +1,6 @@
 {
  "letter_id": "220",
- "seq_archival": 233,
+ "seq_archival": 231,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-220",
@@ -18,82 +18,90 @@
  "month": 10,
  "day": 31,
  "place": "Brieg",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 15851,
- "line_end": 15915,
- "uncertainty_count": 1,
+ "sender": "",
+ "recipient": "",
+ "line_start": 15806,
+ "line_end": 15866,
+ "uncertainty_count": 4,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schweinern",
+  "schurgast",
+  "zagorowo",
+  "koschentin",
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 64,
+ "n_lines": 57,
  "n_pages": 3,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Höchst verwahrtes Schreiben hat man nach Schweinere geschickt\num es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen\nlaßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging\nsogleich nach deßen Empfang nach Oxtrow verkaufte meine Wolle um reise Geld zu haben\nund eilte alsdann zum GrafenWasserleben nach Neisse. Leider aber kam ich zu\nspäth den ſchon hatte Wartenleben mit einem Banquirotten Kaufmann aus Kulins abge-\nschloßen, wo er für Schurguet Güter für 135000 Rthl annimmt für welche ich nicht\n40000 Rthl gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben\nder heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür\nArca 150000 Rthl gegeben. Er hat seiner Frauen Vermögen die eine geborne\nReuhenbauernst haben gesteckt und sehr viel Meliorationen gemacht. Er forder\njezt für diese Güter 200000 Rthl Auf die Gütern stehen 120000 Rthl Schulden.\nEs blieben also noch 80000 Rthl Auf diese will man handeln\nWollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch\neinen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenseins mit\nalles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen.\nAlles kömt jedoch darauf an das Weigel und Stössel die Constadies Güter,\nso wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer\nDurchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln\noder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?\n\nDie Sache käme dann folgendermaaßen zu stehen -\nbey Zagorower blieben nach den Anschlag, außer die Reste an.\n35000 Rthl\nbey Konstad blieben.\n80000\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von\n270000 Rthl\ndiese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht\nfür 350000 Rthl Quittiren so auch\nWolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter\nfür 350000 Rthl annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin\nren bekommen, so wäre es nach besage\nKoschenten könte dan als Majorat für Prinz Alexander genommen werden.\nFürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte\ndarauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf\nKoschentin gezahlten 200000 Rthl heraus gegeben würden, das betrage an\n550000 Rthl ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face\nbieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen\nschnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne\ngleich jetz\nnach Schlawenschütz gekommen, aber ich muß absolut nach\nsonders zu viel inden auch die wichtigsten Termine warten\nDen Anschlag nebst der Resten Designation erbitte ich nur in Origenale zurück\nEr wird in aplicii bey den Termin erforderten bey\nVon den Resten möchte ich noch gerne etwas Baurrretten darfftigkeit giebt\nwann zur Aufmunterung im\n[t?]unsch Handel mit auf der\n\nÜbrigens mein Wartensleben noch kein Wort was das für Güter sein die\nich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach\ndem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er\nJezt nichts erfahren könne bis ich selbst erst belehrt sey.\nIm Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig\nzu tiefsten Respect ersterbe\nEuer Hochfürstliche Durchlaucht\ntreu unterthäniger Diener\nv Triebenfeld\nBrieg\nden 31ten 8br\n1811.",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Höchst verwahrtes Schreiben hat man nach Schweinere geschickt um es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen laßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging sogleich nach deßen Empfang nach Oxtrow verkaufte meine Wolle um reise Geld zu haben und eilte alsdann zum GrafenWasserleben nach Neisse. Leider aber kam ich zu späth den ſchon hatte Wartenleben mit einem Banquirotten Kaufmann aus Kulins abgeschloßen, wo er für Schurguet Güter für 135000 Rthl annimmt für welche ich nicht 40000 Rthl gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben der heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür Arca 150000 Rthl gegeben. Er hat seiner Frauen Vermögen die eine geborne Reuhenbauernst haben gesteckt und sehr viel Meliorationen gemacht. Er forder jezt für diese Güter 200000 Rthl Auf die Gütern stehen 120000 Rthl Schulden. Es blieben also noch 80000 Rthl Auf diese will man handeln Wollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch einen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenseins mit alles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen. Alles kömt jedoch darauf an das Weigel und Stössel die Constadies Güter, so wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer Durchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln oder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?\n\nDie Sache käme dann folgendermaaßen zu stehen - bey Zagorower blieben nach den Anschlag, außer die Reste an. 35000 Rthl\n\nbey Konstad blieben.\n\n80000 Folglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 Rthl diese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht für 350000 Rthl Quittiren so auch Wolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter für 350000 Rthl annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin ren bekommen, so wäre es nach besage Koschenten könte dan als Majorat für Prinz Alexander genommen werden. Fürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte darauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf Koschentin gezahlten 200000 Rthl heraus gegeben würden, das betrage an 550000 Rthl ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face bieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen schnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne gleich jetz nach Schlawenschütz gekommen, aber ich muß absolut nach sonders zu viel inden auch die wichtigsten Termine warten Den Anschlag nebst der Resten Designation erbitte ich nur in Origenale zurück Er wird in aplicii bey den Termin erforderten bey Von den Resten möchte ich noch gerne etwas Baurrretten darfftigkeit giebt wann zur Aufmunterung im\n\n[t?]unsch Handel mit auf der\n\nÜbrigens mein Wartensleben noch kein Wort was das für Güter sein die ich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach dem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er Jezt nichts erfahren könne bis ich selbst erst belehrt sey. Im Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig zu tiefsten Respect ersterbe Euer Hochfürstliche Durchlaucht treu unterthäniger Diener v Triebenfeld\n\nBrieg\n\nden 31ten 8br\n\n1811.",
+ "text": "220\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Höchst verehrtes Schreiben hat man nach Schweinern geschickt\num es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen\nlaßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging\nsogleich nach deßen Empfang nach Ostrow verkaufte meine Wolle um reise Geld zu haben\nund eilte alsdann zum Grafen Wartensleben nach Neisse. Leider aber kam ich zu\nspäth den ſchon hatte Wartensleben mit einem Banquirotten Kaufmann aus Kalisz abge¬\nschloßen, wo er für Schurgast Güter für 135000 rt annimmt[?] für welche ich nicht\n40000 rt gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben\nder heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür\ncirca 150000 rt gegeben. Er hat seiner Frauen Vermögen die eine geborne\nReuhonbasch[?] ist haben gesteckt und sehr viel Meliorationen gemacht. Er forder\njezt für diese Güter 200000 rt. Auf die Gütern stehen 120000 rt Schulden.\nEs blieben also noch 80000 rt. Auf diese will man handeln\nWollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch\neinen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenschitz mit\nalles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen.\nAlles kömt jedoch darauf an das Weigel und Stössel die Constadter Güter,\nso wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer\nDurchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln\noder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?\nDie Sache käme dann folgendermaaßen zu stehen -\nbey Zagorower blieben nach den Anschlag, außer die Reste an 35000 rt\nbey Konstad blieben 80000 rt.\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 rt.\ndiese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht\nfür 350000 rt Quittiren\nWolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter\nfür 350000 rt annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin\nren bekommen, so wäre es nach besage -\nKoschentin könte dan als Majorat für Prinz Alexander genommen werden.\nFürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte\ndarauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf\nKoschentin gezahlten 200000 rt heraus gegeben würden, das betrage an\n550000 rt ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face\nbieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen\nschnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne\ngleich jezt nach Schlawenschitz gekommen, aber ich muß absolut nach\nKalisz zu viel inden auch die wichtigsten Termine warten -\nDen Anschlag nebst der Resten Designation erbitte ich nur in Originale zurück\nEr wird in Kalisz bey den Termin erforderten\nVon den Resten möchte ich noch gerne etwas Baurrretten - dan beyte[?] Ret[?] giebt\nwann zur Aufmunterung im tausch Handel mit auf der\nÜbrigens mein Wartensleben noch kein Wort was das für Güter sein die\nich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach\ndem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er\nJezt nichts erfahren könne bis ich selbst erst belehrt sey.\nIm Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig\nIn tiefsten Respect ersterbe\nEuer Hochfürstliche Durchlaucht\nBrieg\nden 31ten 8br\n1811.\ntreu unterthäniger Diener\nv Triebenfeld",
+ "text_reading": "220\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Höchst verehrtes Schreiben hat man nach Schweinern geschickt um es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen laßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging sogleich nach deßen Empfang nach Ostrow verkaufte meine Wolle um reise Geld zu haben und eilte alsdann zum Grafen Wartensleben nach Neisse. Leider aber kam ich zu späth den ſchon hatte Wartensleben mit einem Banquirotten Kaufmann aus Kalisz abgeschloßen, wo er für Schurgast Güter für 135000 rt annimmt[?] für welche ich nicht 40000 rt gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben der heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür circa 150000 rt gegeben. Er hat seiner Frauen Vermögen die eine geborne Reuhonbasch[?] ist haben gesteckt und sehr viel Meliorationen gemacht. Er forder jezt für diese Güter 200000 rt. Auf die Gütern stehen 120000 rt Schulden. Es blieben also noch 80000 rt. Auf diese will man handeln Wollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch einen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenschitz mit alles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen. Alles kömt jedoch darauf an das Weigel und Stössel die Constadter Güter, so wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer Durchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln oder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?\n\nDie Sache käme dann folgendermaaßen zu stehen - bey Zagorower blieben nach den Anschlag, außer die Reste an 35000 rt bey Konstad blieben 80000 rt.\n\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 rt. diese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht für 350000 rt Quittiren Wolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter für 350000 rt annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin ren bekommen, so wäre es nach besage - Koschentin könte dan als Majorat für Prinz Alexander genommen werden. Fürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte darauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf Koschentin gezahlten 200000 rt heraus gegeben würden, das betrage an 550000 rt ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face bieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen schnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne gleich jezt nach Schlawenschitz gekommen, aber ich muß absolut nach Kalisz zu viel inden auch die wichtigsten Termine warten - Den Anschlag nebst der Resten Designation erbitte ich nur in Originale zurück Er wird in Kalisz bey den Termin erforderten Von den Resten möchte ich noch gerne etwas Baurrretten - dan beyte[?] Ret[?] giebt wann zur Aufmunterung im tausch Handel mit auf der\n\nÜbrigens mein Wartensleben noch kein Wort was das für Güter sein die ich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach dem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er Jezt nichts erfahren könne bis ich selbst erst belehrt sey. Im Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig In tiefsten Respect ersterbe Euer Hochfürstliche Durchlaucht Brieg\n\nden 31ten 8br\n\n1811.\n\ntreu unterthäniger Diener v Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 15852,
-   "line_end": 15873,
-   "n_lines": 22,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Höchst verwahrtes Schreiben hat man nach Schweinere geschickt\num es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen\nlaßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging\nsogleich nach deßen Empfang nach Oxtrow verkaufte meine Wolle um reise Geld zu haben\nund eilte alsdann zum GrafenWasserleben nach Neisse. Leider aber kam ich zu\nspäth den ſchon hatte Wartenleben mit einem Banquirotten Kaufmann aus Kulins abge-\nschloßen, wo er für Schurguet Güter für 135000 Rthl annimmt für welche ich nicht\n40000 Rthl gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben\nder heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür\nArca 150000 Rthl gegeben. Er hat seiner Frauen Vermögen die eine geborne\nReuhenbauernst haben gesteckt und sehr viel Meliorationen gemacht. Er forder\njezt für diese Güter 200000 Rthl Auf die Gütern stehen 120000 Rthl Schulden.\nEs blieben also noch 80000 Rthl Auf diese will man handeln\nWollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch\neinen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenseins mit\nalles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen.\nAlles kömt jedoch darauf an das Weigel und Stössel die Constadies Güter,\nso wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer\nDurchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln\noder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Höchst verwahrtes Schreiben hat man nach Schweinere geschickt\num es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen\nlaßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging\nsogleich nach deßen Empfang nach Oxtrow verkaufte meine Wolle um reise Geld zu haben\nund eilte alsdann zum GrafenWasserleben nach Neisse. Leider aber kam ich zu\nspäth den ſchon hatte Wartenleben mit einem Banquirotten Kaufmann aus Kulins abge-\nschloßen, wo er für Schurguet Güter für 135000 Rthl annimmt für welche ich nicht\n40000 Rthl gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben\nder heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür\nArca 150000 Rthl gegeben. Er hat seiner Frauen Vermögen die eine geborne\nReuhenbauernst haben gesteckt und sehr viel Meliorationen gemacht. Er forder\njezt für diese Güter 200000 Rthl Auf die Gütern stehen 120000 Rthl Schulden.\nEs blieben also noch 80000 Rthl Auf diese will man handeln\nWollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch\neinen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenseins mit\nalles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen.\nAlles kömt jedoch darauf an das Weigel und Stössel die Constadies Güter,\nso wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer\nDurchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln\noder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Höchst verwahrtes Schreiben hat man nach Schweinere geschickt um es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen laßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging sogleich nach deßen Empfang nach Oxtrow verkaufte meine Wolle um reise Geld zu haben und eilte alsdann zum GrafenWasserleben nach Neisse. Leider aber kam ich zu späth den ſchon hatte Wartenleben mit einem Banquirotten Kaufmann aus Kulins abgeschloßen, wo er für Schurguet Güter für 135000 Rthl annimmt für welche ich nicht 40000 Rthl gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben der heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür Arca 150000 Rthl gegeben. Er hat seiner Frauen Vermögen die eine geborne Reuhenbauernst haben gesteckt und sehr viel Meliorationen gemacht. Er forder jezt für diese Güter 200000 Rthl Auf die Gütern stehen 120000 Rthl Schulden. Es blieben also noch 80000 Rthl Auf diese will man handeln Wollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch einen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenseins mit alles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen. Alles kömt jedoch darauf an das Weigel und Stössel die Constadies Güter, so wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer Durchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln oder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?",
+   "page_id": "0412_a",
+   "line_start": 15808,
+   "line_end": 15830,
+   "n_lines": 23,
+   "diplomatic": "220\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Höchst verehrtes Schreiben hat man nach Schweinern geschickt\num es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen\nlaßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging\nsogleich nach deßen Empfang nach Ostrow verkaufte meine Wolle um reise Geld zu haben\nund eilte alsdann zum Grafen Wartensleben nach Neisse. Leider aber kam ich zu\nspäth den ſchon hatte Wartensleben mit einem Banquirotten Kaufmann aus Kalisz abge¬\nschloßen, wo er für Schurgast Güter für 135000 rt annimmt[?] für welche ich nicht\n40000 rt gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben\nder heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür\ncirca 150000 rt gegeben. Er hat seiner Frauen Vermögen die eine geborne\nReuhonbasch[?] ist haben gesteckt und sehr viel Meliorationen gemacht. Er forder\njezt für diese Güter 200000 rt. Auf die Gütern stehen 120000 rt Schulden.\nEs blieben also noch 80000 rt. Auf diese will man handeln\nWollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch\neinen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenschitz mit\nalles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen.\nAlles kömt jedoch darauf an das Weigel und Stössel die Constadter Güter,\nso wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer\nDurchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln\noder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?",
+   "transcription": "220\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht Höchst verehrtes Schreiben hat man nach Schweinern geschickt\num es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen\nlaßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging\nsogleich nach deßen Empfang nach Ostrow verkaufte meine Wolle um reise Geld zu haben\nund eilte alsdann zum Grafen Wartensleben nach Neisse. Leider aber kam ich zu\nspäth den ſchon hatte Wartensleben mit einem Banquirotten Kaufmann aus Kalisz abge-\nschloßen, wo er für Schurgast Güter für 135000 rt annimmt[?] für welche ich nicht\n40000 rt gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben\nder heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür\ncirca 150000 rt gegeben. Er hat seiner Frauen Vermögen die eine geborne\nReuhonbasch[?] ist haben gesteckt und sehr viel Meliorationen gemacht. Er forder\njezt für diese Güter 200000 rt. Auf die Gütern stehen 120000 rt Schulden.\nEs blieben also noch 80000 rt. Auf diese will man handeln\nWollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch\neinen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenschitz mit\nalles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen.\nAlles kömt jedoch darauf an das Weigel und Stössel die Constadter Güter,\nso wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer\nDurchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln\noder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?",
+   "reading": "220\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nEwr Hochfürstliche Durchlaucht Höchst verehrtes Schreiben hat man nach Schweinern geschickt um es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen laßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging sogleich nach deßen Empfang nach Ostrow verkaufte meine Wolle um reise Geld zu haben und eilte alsdann zum Grafen Wartensleben nach Neisse. Leider aber kam ich zu späth den ſchon hatte Wartensleben mit einem Banquirotten Kaufmann aus Kalisz abgeschloßen, wo er für Schurgast Güter für 135000 rt annimmt[?] für welche ich nicht 40000 rt gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben der heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür circa 150000 rt gegeben. Er hat seiner Frauen Vermögen die eine geborne Reuhonbasch[?] ist haben gesteckt und sehr viel Meliorationen gemacht. Er forder jezt für diese Güter 200000 rt. Auf die Gütern stehen 120000 rt Schulden. Es blieben also noch 80000 rt. Auf diese will man handeln Wollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch einen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenschitz mit alles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen. Alles kömt jedoch darauf an das Weigel und Stössel die Constadter Güter, so wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer Durchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln oder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?",
    "paragraphs": [
+    "220",
     "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "Ewr Hochfürstliche Durchlaucht Höchst verwahrtes Schreiben hat man nach Schweinere geschickt um es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen laßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging sogleich nach deßen Empfang nach Oxtrow verkaufte meine Wolle um reise Geld zu haben und eilte alsdann zum GrafenWasserleben nach Neisse. Leider aber kam ich zu späth den ſchon hatte Wartenleben mit einem Banquirotten Kaufmann aus Kulins abgeschloßen, wo er für Schurguet Güter für 135000 Rthl annimmt für welche ich nicht 40000 Rthl gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben der heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür Arca 150000 Rthl gegeben. Er hat seiner Frauen Vermögen die eine geborne Reuhenbauernst haben gesteckt und sehr viel Meliorationen gemacht. Er forder jezt für diese Güter 200000 Rthl Auf die Gütern stehen 120000 Rthl Schulden. Es blieben also noch 80000 Rthl Auf diese will man handeln Wollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch einen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenseins mit alles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen. Alles kömt jedoch darauf an das Weigel und Stössel die Constadies Güter, so wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer Durchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln oder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?"
+    "Ewr Hochfürstliche Durchlaucht Höchst verehrtes Schreiben hat man nach Schweinern geschickt um es gelegentlich an mir zu senden. Dort hat es der Pächter mehrere Zeit, liegen laßen, und aus diesen Grunde erhielt ich es 3 Wochen nach deßen Absendung. Ich ging sogleich nach deßen Empfang nach Ostrow verkaufte meine Wolle um reise Geld zu haben und eilte alsdann zum Grafen Wartensleben nach Neisse. Leider aber kam ich zu späth den ſchon hatte Wartensleben mit einem Banquirotten Kaufmann aus Kalisz abgeschloßen, wo er für Schurgast Güter für 135000 rt annimmt[?] für welche ich nicht 40000 rt gebe, nur die Sache ist vorbey - Indes hatt der junge Wartensleben der heut in Osterreichsche Dienste ist, die Constadter Güter — Er hat dafür circa 150000 rt gegeben. Er hat seiner Frauen Vermögen die eine geborne Reuhonbasch[?] ist haben gesteckt und sehr viel Meliorationen gemacht. Er forder jezt für diese Güter 200000 rt. Auf die Gütern stehen 120000 rt Schulden. Es blieben also noch 80000 rt. Auf diese will man handeln Wollen Ewr Durchlaucht hier betriren, so schreiben Sie mir des allerniligsten durch einen Expressen nach Blizanow auch kommen, dann sofort nach Schlawenschitz mit alles zuverabreden und mehr dann zu Wartensleben nach Neisse um abzuschließen. Alles kömt jedoch darauf an das Weigel und Stössel die Constadter Güter, so wie die Hypotheque auf die Zagorower Güter wieder annehmen, und Ewer Durchlaucht dagegen Quittiren. Soll ich desfals mit Weigel unterhandeln oder haben Ewr Durchlaucht dazu jemanden der es beßer versteht als ich?"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 22
+   "doc_line_end": 23
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 15875,
-   "line_end": 15901,
-   "n_lines": 27,
-   "diplomatic": "Die Sache käme dann folgendermaaßen zu stehen -\nbey Zagorower blieben nach den Anschlag, außer die Reste an.\n35000 Rthl\nbey Konstad blieben.\n80000\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von\n270000 Rthl\ndiese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht\nfür 350000 Rthl Quittiren so auch\nWolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter\nfür 350000 Rthl annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin\nren bekommen, so wäre es nach besage\nKoschenten könte dan als Majorat für Prinz Alexander genommen werden.\nFürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte\ndarauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf\nKoschentin gezahlten 200000 Rthl heraus gegeben würden, das betrage an\n550000 Rthl ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face\nbieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen\nschnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne\ngleich jetz\nnach Schlawenschütz gekommen, aber ich muß absolut nach\nsonders zu viel inden auch die wichtigsten Termine warten\nDen Anschlag nebst der Resten Designation erbitte ich nur in Origenale zurück\nEr wird in aplicii bey den Termin erforderten bey\nVon den Resten möchte ich noch gerne etwas Baurrretten darfftigkeit giebt\nwann zur Aufmunterung im\n[t?]unsch Handel mit auf der",
-   "transcription": "Die Sache käme dann folgendermaaßen zu stehen -\nbey Zagorower blieben nach den Anschlag, außer die Reste an.\n35000 Rthl\nbey Konstad blieben.\n80000\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von\n270000 Rthl\ndiese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht\nfür 350000 Rthl Quittiren so auch\nWolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter\nfür 350000 Rthl annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin\nren bekommen, so wäre es nach besage\nKoschenten könte dan als Majorat für Prinz Alexander genommen werden.\nFürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte\ndarauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf\nKoschentin gezahlten 200000 Rthl heraus gegeben würden, das betrage an\n550000 Rthl ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face\nbieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen\nschnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne\ngleich jetz\nnach Schlawenschütz gekommen, aber ich muß absolut nach\nsonders zu viel inden auch die wichtigsten Termine warten\nDen Anschlag nebst der Resten Designation erbitte ich nur in Origenale zurück\nEr wird in aplicii bey den Termin erforderten bey\nVon den Resten möchte ich noch gerne etwas Baurrretten darfftigkeit giebt\nwann zur Aufmunterung im\n[t?]unsch Handel mit auf der",
-   "reading": "Die Sache käme dann folgendermaaßen zu stehen - bey Zagorower blieben nach den Anschlag, außer die Reste an. 35000 Rthl\n\nbey Konstad blieben.\n\n80000 Folglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 Rthl diese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht für 350000 Rthl Quittiren so auch Wolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter für 350000 Rthl annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin ren bekommen, so wäre es nach besage Koschenten könte dan als Majorat für Prinz Alexander genommen werden. Fürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte darauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf Koschentin gezahlten 200000 Rthl heraus gegeben würden, das betrage an 550000 Rthl ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face bieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen schnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne gleich jetz nach Schlawenschütz gekommen, aber ich muß absolut nach sonders zu viel inden auch die wichtigsten Termine warten Den Anschlag nebst der Resten Designation erbitte ich nur in Origenale zurück Er wird in aplicii bey den Termin erforderten bey Von den Resten möchte ich noch gerne etwas Baurrretten darfftigkeit giebt wann zur Aufmunterung im\n\n[t?]unsch Handel mit auf der",
+   "page_id": "0413_a1",
+   "line_start": 15832,
+   "line_end": 15853,
+   "n_lines": 22,
+   "diplomatic": "Die Sache käme dann folgendermaaßen zu stehen -\nbey Zagorower blieben nach den Anschlag, außer die Reste an 35000 rt\nbey Konstad blieben 80000 rt.\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 rt.\ndiese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht\nfür 350000 rt Quittiren\nWolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter\nfür 350000 rt annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin\nren bekommen, so wäre es nach besage -\nKoschentin könte dan als Majorat für Prinz Alexander genommen werden.\nFürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte\ndarauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf\nKoschentin gezahlten 200000 rt heraus gegeben würden, das betrage an\n550000 rt ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face\nbieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen\nschnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne\ngleich jezt nach Schlawenschitz gekommen, aber ich muß absolut nach\nKalisz zu viel inden auch die wichtigsten Termine warten -\nDen Anschlag nebst der Resten Designation erbitte ich nur in Originale zurück\nEr wird in Kalisz bey den Termin erforderten\nVon den Resten möchte ich noch gerne etwas Baurrretten - dan beyte[?] Ret[?] giebt\nwann zur Aufmunterung im tausch Handel mit auf der",
+   "transcription": "Die Sache käme dann folgendermaaßen zu stehen -\nbey Zagorower blieben nach den Anschlag, außer die Reste an 35000 rt\nbey Konstad blieben 80000 rt.\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 rt.\ndiese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht\nfür 350000 rt Quittiren\nWolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter\nfür 350000 rt annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin\nren bekommen, so wäre es nach besage -\nKoschentin könte dan als Majorat für Prinz Alexander genommen werden.\nFürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte\ndarauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf\nKoschentin gezahlten 200000 rt heraus gegeben würden, das betrage an\n550000 rt ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face\nbieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen\nschnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne\ngleich jezt nach Schlawenschitz gekommen, aber ich muß absolut nach\nKalisz zu viel inden auch die wichtigsten Termine warten -\nDen Anschlag nebst der Resten Designation erbitte ich nur in Originale zurück\nEr wird in Kalisz bey den Termin erforderten\nVon den Resten möchte ich noch gerne etwas Baurrretten - dan beyte[?] Ret[?] giebt\nwann zur Aufmunterung im tausch Handel mit auf der",
+   "reading": "Die Sache käme dann folgendermaaßen zu stehen - bey Zagorower blieben nach den Anschlag, außer die Reste an 35000 rt bey Konstad blieben 80000 rt.\n\nFolglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 rt. diese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht für 350000 rt Quittiren Wolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter für 350000 rt annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin ren bekommen, so wäre es nach besage - Koschentin könte dan als Majorat für Prinz Alexander genommen werden. Fürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte darauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf Koschentin gezahlten 200000 rt heraus gegeben würden, das betrage an 550000 rt ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face bieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen schnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne gleich jezt nach Schlawenschitz gekommen, aber ich muß absolut nach Kalisz zu viel inden auch die wichtigsten Termine warten - Den Anschlag nebst der Resten Designation erbitte ich nur in Originale zurück Er wird in Kalisz bey den Termin erforderten Von den Resten möchte ich noch gerne etwas Baurrretten - dan beyte[?] Ret[?] giebt wann zur Aufmunterung im tausch Handel mit auf der",
    "paragraphs": [
-    "Die Sache käme dann folgendermaaßen zu stehen - bey Zagorower blieben nach den Anschlag, außer die Reste an. 35000 Rthl",
-    "bey Konstad blieben.",
-    "80000 Folglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 Rthl diese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht für 350000 Rthl Quittiren so auch Wolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter für 350000 Rthl annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin ren bekommen, so wäre es nach besage Koschenten könte dan als Majorat für Prinz Alexander genommen werden. Fürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte darauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf Koschentin gezahlten 200000 Rthl heraus gegeben würden, das betrage an 550000 Rthl ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face bieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen schnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne gleich jetz nach Schlawenschütz gekommen, aber ich muß absolut nach sonders zu viel inden auch die wichtigsten Termine warten Den Anschlag nebst der Resten Designation erbitte ich nur in Origenale zurück Er wird in aplicii bey den Termin erforderten bey Von den Resten möchte ich noch gerne etwas Baurrretten darfftigkeit giebt wann zur Aufmunterung im",
-    "[t?]unsch Handel mit auf der"
+    "Die Sache käme dann folgendermaaßen zu stehen - bey Zagorower blieben nach den Anschlag, außer die Reste an 35000 rt bey Konstad blieben 80000 rt.",
+    "Folglich bliebe auf die Zagorower Güter eine Hypotheque von 270000 rt. diese müste Weigel und Stössel nebst Constadt annehmen, und Ewer Durchlaucht für 350000 rt Quittiren Wolte indes Weigel und Stössel ohne Constad gleich die Zagorower Güter für 350000 rt annehmen und Ewr Durchlaucht quittiren damit Sie Koschentin ren bekommen, so wäre es nach besage - Koschentin könte dan als Majorat für Prinz Alexander genommen werden. Fürst August kan gegen seinen Vater nicht und ausbar sind - Er müßte darauf mit dringen, daß Ewr Durchlaucht diese Summa nebst dem schon auf Koschentin gezahlten 200000 rt heraus gegeben würden, das betrage an 550000 rt ohne jene Reste, und so konten Ewr Durchlaucht die Hölle face bieten - Überlegen Ewr Durchlaucht das um schreiben nur durch einen schnellen Bothen Ihre Meinung nach Blizanow - Ich wäre sehr gerne gleich jezt nach Schlawenschitz gekommen, aber ich muß absolut nach Kalisz zu viel inden auch die wichtigsten Termine warten - Den Anschlag nebst der Resten Designation erbitte ich nur in Originale zurück Er wird in Kalisz bey den Termin erforderten Von den Resten möchte ich noch gerne etwas Baurrretten - dan beyte[?] Ret[?] giebt wann zur Aufmunterung im tausch Handel mit auf der"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "doc_line_start": 23,
-   "doc_line_end": 49
+   "doc_line_start": 24,
+   "doc_line_end": 45
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 15903,
-   "line_end": 15914,
+   "page_id": "0413_a2",
+   "line_start": 15855,
+   "line_end": 15866,
    "n_lines": 12,
-   "diplomatic": "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die\nich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach\ndem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er\nJezt nichts erfahren könne bis ich selbst erst belehrt sey.\nIm Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig\nzu tiefsten Respect ersterbe\nEuer Hochfürstliche Durchlaucht\ntreu unterthäniger Diener\nv Triebenfeld\nBrieg\nden 31ten 8br\n1811.",
-   "transcription": "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die\nich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach\ndem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er\nJezt nichts erfahren könne bis ich selbst erst belehrt sey.\nIm Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig\nzu tiefsten Respect ersterbe\nEuer Hochfürstliche Durchlaucht\ntreu unterthäniger Diener\nv Triebenfeld\nBrieg\nden 31ten 8br\n1811.",
-   "reading": "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die ich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach dem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er Jezt nichts erfahren könne bis ich selbst erst belehrt sey. Im Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig zu tiefsten Respect ersterbe Euer Hochfürstliche Durchlaucht treu unterthäniger Diener v Triebenfeld\n\nBrieg\n\nden 31ten 8br\n\n1811.",
+   "diplomatic": "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die\nich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach\ndem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er\nJezt nichts erfahren könne bis ich selbst erst belehrt sey.\nIm Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig\nIn tiefsten Respect ersterbe\nEuer Hochfürstliche Durchlaucht\nBrieg\nden 31ten 8br\n1811.\ntreu unterthäniger Diener\nv Triebenfeld",
+   "transcription": "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die\nich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach\ndem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er\nJezt nichts erfahren könne bis ich selbst erst belehrt sey.\nIm Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig\nIn tiefsten Respect ersterbe\nEuer Hochfürstliche Durchlaucht\nBrieg\nden 31ten 8br\n1811.\ntreu unterthäniger Diener\nv Triebenfeld",
+   "reading": "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die ich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach dem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er Jezt nichts erfahren könne bis ich selbst erst belehrt sey. Im Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig In tiefsten Respect ersterbe Euer Hochfürstliche Durchlaucht Brieg\n\nden 31ten 8br\n\n1811.\n\ntreu unterthäniger Diener v Triebenfeld",
    "paragraphs": [
-    "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die ich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach dem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er Jezt nichts erfahren könne bis ich selbst erst belehrt sey. Im Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig zu tiefsten Respect ersterbe Euer Hochfürstliche Durchlaucht treu unterthäniger Diener v Triebenfeld",
-    "Brieg",
+    "Übrigens mein Wartensleben noch kein Wort was das für Güter sein die ich ihm im Tausch Handel angeboten - er rieth auf die Baierschen nach dem Prinzen George - ich luth ihm das Frage spiel einzustellen, weil er Jezt nichts erfahren könne bis ich selbst erst belehrt sey. Im Grunde dauret mich der alte Greis - Sein Schicksahl ist traurig In tiefsten Respect ersterbe Euer Hochfürstliche Durchlaucht Brieg",
     "den 31ten 8br",
-    "1811."
+    "1811.",
+    "treu unterthäniger Diener v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
-   "doc_line_start": 50,
-   "doc_line_end": 61
+   "doc_line_start": 46,
+   "doc_line_end": 57
   }
  ],
  "mentions": [
@@ -103,10 +111,10 @@
    "kind": "person",
    "surface": "Wartensleben",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15861,
-   "doc_line": 10
+   "line": 15815,
+   "doc_line": 8
   },
   {
    "entity": "wartensleben",
@@ -114,10 +122,32 @@
    "kind": "person",
    "surface": "Wartensleben",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15869,
-   "doc_line": 18
+   "line": 15816,
+   "doc_line": 9
+  },
+  {
+   "entity": "wartensleben",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface": "Wartensleben",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15818,
+   "doc_line": 11
+  },
+  {
+   "entity": "wartensleben",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface": "Wartensleben",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15826,
+   "doc_line": 19
   },
   {
    "entity": "stoessel",
@@ -125,10 +155,10 @@
    "kind": "person",
    "surface": "Stössel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15870,
-   "doc_line": 19
+   "line": 15827,
+   "doc_line": 20
   },
   {
    "entity": "weigel",
@@ -136,10 +166,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15870,
-   "doc_line": 19
+   "line": 15827,
+   "doc_line": 20
   },
   {
    "entity": "weigel",
@@ -147,10 +177,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15872,
-   "doc_line": 21
+   "line": 15829,
+   "doc_line": 22
   },
   {
    "entity": "stoessel",
@@ -158,9 +188,31 @@
    "kind": "person",
    "surface": "Stössel",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15882,
+   "line": 15836,
+   "doc_line": 28
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface": "Weigel",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15836,
+   "doc_line": 28
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface": "Stössel",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15838,
    "doc_line": 30
   },
   {
@@ -169,32 +221,21 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15882,
+   "line": 15838,
    "doc_line": 30
   },
   {
-   "entity": "stoessel",
-   "display": "Stössel",
+   "entity": "prinz-alexander",
+   "display": "Prinz Alexander",
    "kind": "person",
-   "surface": "Stössel",
+   "surface": "Alexander",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15884,
-   "doc_line": 32
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface": "Weigel",
-   "page": 2,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15884,
-   "doc_line": 32
+   "line": 15841,
+   "doc_line": 33
   },
   {
    "entity": "august",
@@ -202,10 +243,10 @@
    "kind": "person",
    "surface": "August",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15888,
-   "doc_line": 36
+   "line": 15842,
+   "doc_line": 34
   },
   {
    "entity": "wartensleben",
@@ -213,10 +254,21 @@
    "kind": "person",
    "surface": "Wartensleben",
    "page": 3,
-   "page_id": "",
+   "page_id": "0413_a2",
    "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
-   "line": 15903,
-   "doc_line": 50
+   "line": 15855,
+   "doc_line": 46
+  },
+  {
+   "entity": "prinz-george",
+   "display": "Prinz George",
+   "kind": "person",
+   "surface": "George",
+   "page": 3,
+   "page_id": "0413_a2",
+   "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
+   "line": 15857,
+   "doc_line": 48
   },
   {
    "entity": "triebenfeld",
@@ -224,284 +276,123 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 3,
-   "page_id": "",
+   "page_id": "0413_a2",
    "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
-   "line": 15911,
-   "doc_line": 58
+   "line": 15866,
+   "doc_line": 57
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Schweinere",
-   "kind": "place",
-   "surface_de": "Schweinere",
-   "surface_en": "Schweinere",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Oxtrow",
-   "kind": "place",
-   "surface_de": "Oxtrow",
-   "surface_en": "Oxtrow",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Count Wasserleben",
-   "kind": "person",
-   "surface_de": "GrafenWasserleben",
-   "surface_en": "Count Wasserleben",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Neisse",
-   "kind": "place",
-   "surface_de": "Neisse",
-   "surface_en": "Neisse",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Wartenleben",
-   "kind": "person",
-   "surface_de": "Wartenleben",
-   "surface_en": "Wartenleben",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kulins",
-   "kind": "place",
-   "surface_de": "Kulins",
-   "surface_en": "Kulins",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schurguet",
-   "kind": "place",
-   "surface_de": "Schurguet",
-   "surface_en": "Schurguet",
-   "page": 1
-  },
-  {
-   "entity": "wartensleben",
-   "display": "Wartensleben",
-   "kind": "person",
-   "surface_de": "Wartensleben",
-   "surface_en": "Wartensleben",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Constadt",
-   "kind": "place",
-   "surface_de": "Constadter",
-   "surface_en": "Constadt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Reuhenbauernst",
-   "kind": "person",
-   "surface_de": "Reuhenbauernst",
-   "surface_en": "Reuhenbauernst",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Blizanow",
-   "kind": "place",
-   "surface_de": "Blizanow",
-   "surface_en": "Blizanow",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schlawenseins",
-   "kind": "place",
-   "surface_de": "Schlawenseins",
-   "surface_en": "Schlawenseins",
-   "page": 1
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 1
-  },
-  {
-   "entity": "stoessel",
-   "display": "Stössel",
-   "kind": "person",
-   "surface_de": "Stössel",
-   "surface_en": "Stössel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorower",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorower",
-   "surface_en": "Zagórów",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Konstad",
-   "kind": "place",
-   "surface_de": "Konstad",
-   "surface_en": "Konstad",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Constadt",
-   "kind": "place",
-   "surface_de": "Constadt",
-   "surface_en": "Constadt",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Constad",
-   "kind": "place",
-   "surface_de": "Constad",
-   "surface_en": "Constad",
-   "page": 2
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 2
-  },
-  {
-   "entity": "stoessel",
-   "display": "Stössel",
-   "kind": "person",
-   "surface_de": "Stössel",
-   "surface_en": "Stössel",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Koschentin",
-   "kind": "place",
-   "surface_de": "Koschentin",
-   "surface_en": "Koschentin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Koschentin",
-   "kind": "place",
-   "surface_de": "Koschenten",
-   "surface_en": "Koschentin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Prince Alexander",
-   "kind": "person",
-   "surface_de": "Prinz Alexander",
-   "surface_en": "Prince Alexander",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Prince August",
-   "kind": "person",
-   "surface_de": "Fürst August",
-   "surface_en": "Prince August",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Blizanow",
-   "kind": "place",
-   "surface_de": "Blizanow",
-   "surface_en": "Blizanow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Schlawenschitz",
-   "kind": "place",
-   "surface_de": "Schlawenschütz",
-   "surface_en": "Schlawenschitz",
-   "page": 2
-  },
-  {
-   "entity": "wartensleben",
-   "display": "Wartensleben",
-   "kind": "person",
-   "surface_de": "Wartensleben",
-   "surface_en": "Wartensleben",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Prince George",
-   "kind": "person",
-   "surface_de": "Prinzen George",
-   "surface_en": "Prince George",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Brieg",
-   "kind": "place",
-   "surface_de": "Brieg",
-   "surface_en": "Brieg",
-   "page": 3
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Brieg",
  "place_mentions": [
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15811,
+   "doc_line": 4
+  },
+  {
+   "entity": "ostrow",
+   "display": "Ostrów",
+   "kind": "place",
+   "surface": "Ostrow",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15814,
+   "doc_line": 7
+  },
+  {
+   "entity": "neisse",
+   "display": "Neisse (Nysa)",
+   "kind": "place",
+   "surface": "Neisse",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15815,
+   "doc_line": 8
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15816,
+   "doc_line": 9
+  },
+  {
+   "entity": "schurgast",
+   "display": "Schurgast (Skorogoszcz)",
+   "kind": "place",
+   "surface": "Schurgast",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15817,
+   "doc_line": 10
+  },
+  {
+   "entity": "konstadt",
+   "display": "Konstadt (Wołczyn)",
+   "kind": "place",
+   "surface": "Constadter",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15819,
+   "doc_line": 12
+  },
   {
    "entity": "blizanow",
    "display": "Blizanow",
    "kind": "place",
    "surface": "Blizanow",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15868,
-   "doc_line": 17
+   "line": 15825,
+   "doc_line": 18
   },
   {
-   "entity": "zagorowo",
-   "display": "Zagórów",
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
    "kind": "place",
-   "surface": "Zagorower",
+   "surface": "Schlawenschitz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0412_a",
    "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
-   "line": 15871,
+   "line": 15825,
+   "doc_line": 18
+  },
+  {
+   "entity": "neisse",
+   "display": "Neisse (Nysa)",
+   "kind": "place",
+   "surface": "Neisse",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15826,
+   "doc_line": 19
+  },
+  {
+   "entity": "konstadt",
+   "display": "Konstadt (Wołczyn)",
+   "kind": "place",
+   "surface": "Constadter",
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15827,
    "doc_line": 20
   },
   {
@@ -509,11 +400,11 @@
    "display": "Zagórów",
    "kind": "place",
    "surface": "Zagorower",
-   "page": 2,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15876,
-   "doc_line": 24
+   "page": 1,
+   "page_id": "0412_a",
+   "scan": "Oe_1_Bu_9454_0412_a-L220_01.jpg",
+   "line": 15828,
+   "doc_line": 21
   },
   {
    "entity": "zagorowo",
@@ -521,21 +412,98 @@
    "kind": "place",
    "surface": "Zagorower",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15880,
+   "line": 15833,
+   "doc_line": 25
+  },
+  {
+   "entity": "konstadt",
+   "display": "Konstadt (Wołczyn)",
+   "kind": "place",
+   "surface": "Konstad",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15834,
+   "doc_line": 26
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorower",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15835,
+   "doc_line": 27
+  },
+  {
+   "entity": "konstadt",
+   "display": "Konstadt (Wołczyn)",
+   "kind": "place",
+   "surface": "Constadt",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15836,
    "doc_line": 28
   },
   {
+   "entity": "konstadt",
+   "display": "Konstadt (Wołczyn)",
+   "kind": "place",
+   "surface": "Constad",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15838,
+   "doc_line": 30
+  },
+  {
    "entity": "zagorowo",
    "display": "Zagórów",
    "kind": "place",
    "surface": "Zagorower",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15884,
-   "doc_line": 32
+   "line": 15838,
+   "doc_line": 30
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15839,
+   "doc_line": 31
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15841,
+   "doc_line": 33
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15844,
+   "doc_line": 36
   },
   {
    "entity": "blizanow",
@@ -543,20 +511,42 @@
    "kind": "place",
    "surface": "Blizanow",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15893,
-   "doc_line": 41
+   "line": 15847,
+   "doc_line": 39
   },
   {
    "entity": "schlawenschitz",
    "display": "Schlawenschitz",
    "kind": "place",
-   "surface": "Schlawenschütz",
+   "surface": "Schlawenschitz",
    "page": 2,
-   "page_id": "",
+   "page_id": "0413_a1",
    "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
-   "line": 15895,
+   "line": 15848,
+   "doc_line": 40
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15849,
+   "doc_line": 41
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "0413_a1",
+   "scan": "Oe_1_Bu_9454_0413_a1-L220_02.jpg",
+   "line": 15851,
    "doc_line": 43
   },
   {
@@ -565,212 +555,15 @@
    "kind": "place",
    "surface": "Brieg",
    "page": 3,
-   "page_id": "",
+   "page_id": "0413_a2",
    "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
-   "line": 15912,
-   "doc_line": 59
+   "line": 15862,
+   "doc_line": 53
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most carefully secured letter was sent to Schweinere, so that it might be forwarded to me as occasion offered. There the tenant let it lie for some considerable time, and for this reason I received it 3 weeks after it had been dispatched. Immediately upon receiving it I went to Oxtrow, sold my wool in order to have travelling money, and then hurried to Count Wasserleben at Neisse. Unhappily, however, I came too late, for Wartenleben had already concluded with a bankrupt merchant from Kulins, whereby for Schurguet he accepts estates at 135000 Rthl for which I would not give 40000 Rthl; only, the matter is past. — Meanwhile the younger Wartensleben, who is now in Austrian service, holds the Constadt estates. — He gave for them about 150000 Rthl. He has sunk into them his wife's fortune, she being a born Reuhenbauernst, and has made very many improvements. He now demands 200000 Rthl for these estates. On the estates there stand 120000 Rthl of debts. There would thus remain a further 80000 Rthl. On this sum one is willing to bargain. Should Your Serene Highness wish to treat here, then write to me in all haste by an express courier to Blizanow, and come as well, then at once to Schlawenseins to arrange everything, and from there on to Wartensleben at Neisse in order to conclude. Everything, however, depends upon Weigel and Stössel taking over the Constadt estates again, as also the mortgage upon the Zagórów estates, and giving Your Serene Highness a receipt in return. Am I to negotiate with Weigel on this account, or has Your Serene Highness someone for it who understands it better than I?",
-   "names": [
-    {
-     "de": "Schweinere",
-     "en": "Schweinere",
-     "kind": "place"
-    },
-    {
-     "de": "Oxtrow",
-     "en": "Oxtrow",
-     "kind": "place"
-    },
-    {
-     "de": "GrafenWasserleben",
-     "en": "Count Wasserleben",
-     "kind": "person"
-    },
-    {
-     "de": "Neisse",
-     "en": "Neisse",
-     "kind": "place"
-    },
-    {
-     "de": "Wartenleben",
-     "en": "Wartenleben",
-     "kind": "person"
-    },
-    {
-     "de": "Kulins",
-     "en": "Kulins",
-     "kind": "place"
-    },
-    {
-     "de": "Schurguet",
-     "en": "Schurguet",
-     "kind": "place"
-    },
-    {
-     "de": "Wartensleben",
-     "en": "Wartensleben",
-     "kind": "person"
-    },
-    {
-     "de": "Constadter",
-     "en": "Constadt",
-     "kind": "place"
-    },
-    {
-     "de": "Reuhenbauernst",
-     "en": "Reuhenbauernst",
-     "kind": "person"
-    },
-    {
-     "de": "Blizanow",
-     "en": "Blizanow",
-     "kind": "place"
-    },
-    {
-     "de": "Schlawenseins",
-     "en": "Schlawenseins",
-     "kind": "place"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Stössel",
-     "en": "Stössel",
-     "kind": "person"
-    },
-    {
-     "de": "Zagorower",
-     "en": "Zagórów",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "3",
-    "135000",
-    "40000",
-    "150000",
-    "200000",
-    "120000",
-    "80000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "The matter would then stand as follows: — with Zagórów there would remain, according to the valuation, apart from the arrears, 35000 Rthl\n\nwith Konstad there would remain\n\n80000. Consequently there would remain upon the Zagórów estates a mortgage of 270000 Rthl; this Weigel and Stössel would have to take over together with Constadt, and give Your Serene Highness a receipt for 350000 Rthl; so also, if Weigel and Stössel would meanwhile, without Constad, take over the Zagórów estates outright for 350000 Rthl and give Your Serene Highness a receipt, so that you get Koschentin back, then it would be according to the said Koschentin could then be taken as an entailed estate for Prince Alexander. Prince August cannot act against his father and are payable — He would have to press upon it that this sum, together with the 200000 Rthl already paid upon Koschentin, be handed over to Your Serene Highness, which comes to some 550000 Rthl without those arrears, and so Your Serene Highness could defy hell itself. — Let Your Serene Highness weigh this and write your opinion to Blizanow, only by a swift messenger. — I would very gladly have come to Schlawenschitz at once, just now, but I must absolutely go [uncertain: elsewhere], there being too much besides, and the most important court terms are waiting. The valuation, together with the designation of the arrears, I request back only in the original. It will be required in copy at the term. Out of the arrears I should still gladly [illegible] something for the peasants, necessity being what it is, by way of encouragement in\n\n[uncertain: t]ausch exchange-dealing with upon the",
-   "names": [
-    {
-     "de": "Zagorower",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Konstad",
-     "en": "Konstad",
-     "kind": "place"
-    },
-    {
-     "de": "Constadt",
-     "en": "Constadt",
-     "kind": "place"
-    },
-    {
-     "de": "Constad",
-     "en": "Constad",
-     "kind": "place"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Stössel",
-     "en": "Stössel",
-     "kind": "person"
-    },
-    {
-     "de": "Koschentin",
-     "en": "Koschentin",
-     "kind": "place"
-    },
-    {
-     "de": "Koschenten",
-     "en": "Koschentin",
-     "kind": "place"
-    },
-    {
-     "de": "Prinz Alexander",
-     "en": "Prince Alexander",
-     "kind": "person"
-    },
-    {
-     "de": "Fürst August",
-     "en": "Prince August",
-     "kind": "person"
-    },
-    {
-     "de": "Blizanow",
-     "en": "Blizanow",
-     "kind": "place"
-    },
-    {
-     "de": "Schlawenschütz",
-     "en": "Schlawenschitz",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "35000",
-    "80000",
-    "270000",
-    "350000",
-    "350000",
-    "200000",
-    "550000"
-   ]
-  },
-  {
-   "page": 3,
-   "en": "For the rest, my Wartensleben [says] not a word as yet as to what sort of estates those are which I offered him in the exchange-dealing — he guessed at the Bavarian ones, after Prince George — I bade him leave off the game of questioning, since he could now learn nothing until I myself had first been informed. At bottom the old greybeard moves me to pity — his fate is a sad one. In deepest reverence I remain, until death, Your Most Serene Highness's faithful, humble and obedient servant, v. Triebenfeld\n\nBrieg\n\nthe 31st of 8br\n\n1811.",
-   "names": [
-    {
-     "de": "Wartensleben",
-     "en": "Wartensleben",
-     "kind": "person"
-    },
-    {
-     "de": "Prinzen George",
-     "en": "Prince George",
-     "kind": "person"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Brieg",
-     "en": "Brieg",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "31",
-    "8",
-    "1811"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most carefully secured letter was sent to Schweinere, so that it might be forwarded to me as occasion offered. There the tenant let it lie for some considerable time, and for this reason I received it 3 weeks after it had been dispatched. Immediately upon receiving it I went to Oxtrow, sold my wool in order to have travelling money, and then hurried to Count Wasserleben at Neisse. Unhappily, however, I came too late, for Wartenleben had already concluded with a bankrupt merchant from Kulins, whereby for Schurguet he accepts estates at 135000 Rthl for which I would not give 40000 Rthl; only, the matter is past. — Meanwhile the younger Wartensleben, who is now in Austrian service, holds the Constadt estates. — He gave for them about 150000 Rthl. He has sunk into them his wife's fortune, she being a born Reuhenbauernst, and has made very many improvements. He now demands 200000 Rthl for these estates. On the estates there stand 120000 Rthl of debts. There would thus remain a further 80000 Rthl. On this sum one is willing to bargain. Should Your Serene Highness wish to treat here, then write to me in all haste by an express courier to Blizanow, and come as well, then at once to Schlawenseins to arrange everything, and from there on to Wartensleben at Neisse in order to conclude. Everything, however, depends upon Weigel and Stössel taking over the Constadt estates again, as also the mortgage upon the Zagórów estates, and giving Your Serene Highness a receipt in return. Am I to negotiate with Weigel on this account, or has Your Serene Highness someone for it who understands it better than I?\n\nThe matter would then stand as follows: — with Zagórów there would remain, according to the valuation, apart from the arrears, 35000 Rthl\n\nwith Konstad there would remain\n\n80000. Consequently there would remain upon the Zagórów estates a mortgage of 270000 Rthl; this Weigel and Stössel would have to take over together with Constadt, and give Your Serene Highness a receipt for 350000 Rthl; so also, if Weigel and Stössel would meanwhile, without Constad, take over the Zagórów estates outright for 350000 Rthl and give Your Serene Highness a receipt, so that you get Koschentin back, then it would be according to the said Koschentin could then be taken as an entailed estate for Prince Alexander. Prince August cannot act against his father and are payable — He would have to press upon it that this sum, together with the 200000 Rthl already paid upon Koschentin, be handed over to Your Serene Highness, which comes to some 550000 Rthl without those arrears, and so Your Serene Highness could defy hell itself. — Let Your Serene Highness weigh this and write your opinion to Blizanow, only by a swift messenger. — I would very gladly have come to Schlawenschitz at once, just now, but I must absolutely go [uncertain: elsewhere], there being too much besides, and the most important court terms are waiting. The valuation, together with the designation of the arrears, I request back only in the original. It will be required in copy at the term. Out of the arrears I should still gladly [illegible] something for the peasants, necessity being what it is, by way of encouragement in\n\n[uncertain: t]ausch exchange-dealing with upon the\n\nFor the rest, my Wartensleben [says] not a word as yet as to what sort of estates those are which I offered him in the exchange-dealing — he guessed at the Bavarian ones, after Prince George — I bade him leave off the game of questioning, since he could now learn nothing until I myself had first been informed. At bottom the old greybeard moves me to pity — his fate is a sad one. In deepest reverence I remain, until death, Your Most Serene Highness's faithful, humble and obedient servant, v. Triebenfeld\n\nBrieg\n\nthe 31st of 8br\n\n1811.",
- "summary_en": "Reports a wasted journey to Count Wartensleben at Neisse: the Schurguet deal was already closed with a bankrupt Kulins merchant at 135,000 Rthl, a sum Triebenfeld thinks wildly inflated. The younger Wartensleben will sell the Constadt estates, worth 200,000 Rthl against 120,000 Rthl of debt. Triebenfeld sketches a scheme by which Weigel and Stössel take over Constadt and the Zagorowo mortgage, receipting some 350,000 Rthl and freeing Koschentin, and asks for instructions by express to Blizanow.",
- "summary_de": "Bericht über eine verspätet erhaltene Weisung und die daraufhin unternommene Reise nach Neisse: Der ältere Wartensleben hat Schurguet bereits an einen bankrotten Kaufmann für 135000 Rthl vergeben, doch der jüngere Wartensleben biete die Constadter Güter für 200000 Rthl bei 120000 Rthl Schulden, also 80000 Rthl Verhandlungsmasse. Vorgeschlagen wird, Weigel und Stössel Constadt samt der Hypothek auf die Zagorowoer Güter für 350000 Rthl übernehmen zu lassen, um Koschentin zurückzuerhalten; Triebenfeld erbittet Antwort durch Eilboten nach Blizanow und die Taxe im Original zurück."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

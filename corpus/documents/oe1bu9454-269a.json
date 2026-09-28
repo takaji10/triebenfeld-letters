@@ -1,6 +1,6 @@
 {
  "letter_id": "269a",
- "seq_archival": 284,
+ "seq_archival": 281,
  "parent_letter": "269",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-269a",
@@ -11,50 +11,58 @@
  "themes": [],
  "date_iso": "1815-01-24",
  "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1815-01-24]",
- "date_inferred_from": "supplied by researcher",
+ "date_source": "signature",
+ "date_display": "1815",
+ "date_inferred_from": "",
  "year": 1815,
  "month": 1,
  "day": 24,
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 19116,
- "line_end": 19151,
- "uncertainty_count": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 19067,
+ "line_end": 19104,
+ "uncertainty_count": 5,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 35,
+ "n_lines": 36,
  "n_pages": 1,
- "text": "Abschrift\nDurchlauchtigsten Fürst pp\nEwr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen\nüberreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das bringen Q. L. Gericht in das geführte\nProtocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath\nCossnars Schreiben vom 22ten Juny 1810 sub S: die unverkennbarsten Chirann gegen dem armen guten Fürstl. hervorgehen\nbesonders da Cormas selbst eingesteht, daß er dem Fürsten um die Forderung der Kurz Erben von 300000 Rthl, die\nder Fürst allein zu Klagen übernommen, alles verkümmert und mit Arret belegt habe, so eile ich Euer Hochfurstl.\nDurchlaucht die Acten Stück unterthänigst zu Füßen zu legen\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. H. D. hieraus zu entnehmen.\nDie Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 Rthl zu befriedigen; ja man\nverlangt nur sogleich 12000 Rthl baar und auß 100000 Rthl eine sichere Anweisung. - Genehmigen E. H. D. diese Bitten\nund laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber\nsofort für der Casse voraus sie gegeben werden Administriren, so ist eine redliche Fürst alsobald\naus den Krallen des Cosmars gewißen, und durch H D Gnade, auf welcher er nur allein zählt, gerettet\nIch verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Intravante\nund vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt\nindes zu wünschen, daß der Monarch, wann heut oder morgen die K. Erben der Majestät nochmahl den ihre\nBefriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell\nalles erricht wird, und des Königs Wort heilig bleibt\nder Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarat\nund im Staube getreten umsammehr als der Fürst August jezt auf die ihm gegebene Vollmacht\nzurück fordert.\nFonds zur Tilgung der 112000 Rthl so wie auch der 35000 iſt überflüßig vorhanden, je es\nkönnen selbst die 18000 Rthl welche der Fürst August jährlich beziehen sollen, und wovon schon an\n54000 Rthl vorräthig liegen, dazu verweint von der Hand verwandt, und daher die Schuld von 147/\nin sehr kurzer Zeit getilgt werden. Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste\nBitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden\nerduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget -\nIn unbegragter Verehrung ersterbe\nE. H. D.\nv Triebenfeld\nWien d. 24ten Januar\n1815",
- "text_reading": "Abschrift\n\nDurchlauchtigsten Fürst pp Ewr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen überreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das bringen Q. L. Gericht in das geführte Protocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath Cossnars Schreiben vom 22ten Juny 1810 sub S: die unverkennbarsten Chirann gegen dem armen guten Fürstl. hervorgehen besonders da Cormas selbst eingesteht, daß er dem Fürsten um die Forderung der Kurz Erben von 300000 Rthl, die der Fürst allein zu Klagen übernommen, alles verkümmert und mit Arret belegt habe, so eile ich Euer Hochfurstl. Durchlaucht die Acten Stück unterthänigst zu Füßen zu legen Wie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. H. D. hieraus zu entnehmen. Die Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 Rthl zu befriedigen; ja man verlangt nur sogleich 12000 Rthl baar und auß 100000 Rthl eine sichere Anweisung. - Genehmigen E. H. D. diese Bitten und laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber sofort für der Casse voraus sie gegeben werden Administriren, so ist eine redliche Fürst alsobald aus den Krallen des Cosmars gewißen, und durch H D Gnade, auf welcher er nur allein zählt, gerettet Ich verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Intravante und vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt indes zu wünschen, daß der Monarch, wann heut oder morgen die K. Erben der Majestät nochmahl den ihre Befriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell alles erricht wird, und des Königs Wort heilig bleibt der Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarat und im Staube getreten umsammehr als der Fürst August jezt auf die ihm gegebene Vollmacht zurück fordert.\n\nFonds zur Tilgung der 112000 Rthl so wie auch der 35000 iſt überflüßig vorhanden, je es können selbst die 18000 Rthl welche der Fürst August jährlich beziehen sollen, und wovon schon an 54000 Rthl vorräthig liegen, dazu verweint von der Hand verwandt, und daher die Schuld von 147/ in sehr kurzer Zeit getilgt werden. Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste Bitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden erduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget - In unbegragter Verehrung ersterbe\n\nE. H. D. v Triebenfeld\n\nWien d. 24ten Januar\n\n1815",
+ "text": "269 a)\nAbschrift\nDurchlauchtigster Fürst pp\nEwr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen\nüberreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das Brieger O[ber]. L[andes]. Gericht in das geführte\nProtocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath\nCosmars Schreiben vom 22ten Juny 1810 sub G: die unverkennbarsten Chicanen gegen dem armen guten Fürstl. hervorgehen\nbesonders da Cosmar selbst eingesteht, daß er dem Fürsten um die Forderung der Cur[ischen] Erben von 300/m rt, die\nder Fürst allein zu Klagen übernommen, alles verkümmert und mit Arrest belegt habe, so eile ich Euer Hochfürstl.\nDurchlaucht die Acten Stück unterthänigst zu Füßen zu legen.\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. [W?]. d[?] hieraus zu entnehmen.\nDie Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 rt zu befriedigen; ja man\nverlangt nur sogleich 12/m rt. baar und auf 100000 rt eine sichere Anweisung. - Genehmigen E. [W?]. D. diese Bitten\nund laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber\nsofort für der Casse voraus sie gegeben werden Administriren, so ist der eine redliche Fürst alsobald\naus den Krallen des Cosmars gewißen, und durch E. D. Gnade, auf welcher er nur allein zählt, gerettet -\nIch verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Instrumente\nund vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt\nindes zu wünschen, daß der Monarch, wann heut oder morgen die C[urische]. Erben der Majestät nochmahl den ihre\nBefriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell\nalles erricht wird, und des Königs Wort heilig bleibt -\nder Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarvt\nund im Staube getreten umsomehr als der Fürst August jezt auf die ihm gegebene Vollmacht\nzurück fordert.\nFonds zur Tilgung der 112000 rt. so wie auch der 35000 iſt[?] überflüßig vorhanden, je es\nkönnen selbst die 18000 rt welche der Fürst August jährlich beziehen sollen, und wovon schon an\n54000 rt. vorräthig liegen, dazu von der Hand verwandt, und daher die Schuld von 147/m\nin sehr kurzer Zeit getilgt werden - Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste\nBitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden\nerduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget -\nIn unbegragter Verehrung ersterbe\nE. L[?]. D.\nWien d. 24ten Januar\n1815\np p p\nv Triebenfeld",
+ "text_reading": "269 a)\n\nAbschrift\n\nDurchlauchtigster Fürst pp Ewr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen überreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das Brieger O[ber]. L[andes]. Gericht in das geführte Protocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath Cosmars Schreiben vom 22ten Juny 1810 sub G: die unverkennbarsten Chicanen gegen dem armen guten Fürstl. hervorgehen besonders da Cosmar selbst eingesteht, daß er dem Fürsten um die Forderung der Cur[ischen] Erben von 300/m rt, die der Fürst allein zu Klagen übernommen, alles verkümmert und mit Arrest belegt habe, so eile ich Euer Hochfürstl. Durchlaucht die Acten Stück unterthänigst zu Füßen zu legen.\n\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. [W?]. d[?] hieraus zu entnehmen. Die Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 rt zu befriedigen; ja man verlangt nur sogleich 12/m rt. baar und auf 100000 rt eine sichere Anweisung. - Genehmigen E. [W?]. D. diese Bitten und laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber sofort für der Casse voraus sie gegeben werden Administriren, so ist der eine redliche Fürst alsobald aus den Krallen des Cosmars gewißen, und durch E. D. Gnade, auf welcher er nur allein zählt, gerettet - Ich verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Instrumente und vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt indes zu wünschen, daß der Monarch, wann heut oder morgen die C[urische]. Erben der Majestät nochmahl den ihre Befriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell alles erricht wird, und des Königs Wort heilig bleibt - der Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarvt und im Staube getreten umsomehr als der Fürst August jezt auf die ihm gegebene Vollmacht zurück fordert.\n\nFonds zur Tilgung der 112000 rt. so wie auch der 35000 iſt[?] überflüßig vorhanden, je es können selbst die 18000 rt welche der Fürst August jährlich beziehen sollen, und wovon schon an 54000 rt. vorräthig liegen, dazu von der Hand verwandt, und daher die Schuld von 147/m in sehr kurzer Zeit getilgt werden - Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste Bitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden erduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget - In unbegragter Verehrung ersterbe\n\nE. L[?]. D. Wien d. 24ten Januar\n\n1815\n\np p p\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 19117,
-   "line_end": 19150,
-   "n_lines": 34,
-   "diplomatic": "Abschrift\nDurchlauchtigsten Fürst pp\nEwr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen\nüberreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das bringen Q. L. Gericht in das geführte\nProtocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath\nCossnars Schreiben vom 22ten Juny 1810 sub S: die unverkennbarsten Chirann gegen dem armen guten Fürstl. hervorgehen\nbesonders da Cormas selbst eingesteht, daß er dem Fürsten um die Forderung der Kurz Erben von 300000 Rthl, die\nder Fürst allein zu Klagen übernommen, alles verkümmert und mit Arret belegt habe, so eile ich Euer Hochfurstl.\nDurchlaucht die Acten Stück unterthänigst zu Füßen zu legen\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. H. D. hieraus zu entnehmen.\nDie Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 Rthl zu befriedigen; ja man\nverlangt nur sogleich 12000 Rthl baar und auß 100000 Rthl eine sichere Anweisung. - Genehmigen E. H. D. diese Bitten\nund laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber\nsofort für der Casse voraus sie gegeben werden Administriren, so ist eine redliche Fürst alsobald\naus den Krallen des Cosmars gewißen, und durch H D Gnade, auf welcher er nur allein zählt, gerettet\nIch verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Intravante\nund vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt\nindes zu wünschen, daß der Monarch, wann heut oder morgen die K. Erben der Majestät nochmahl den ihre\nBefriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell\nalles erricht wird, und des Königs Wort heilig bleibt\nder Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarat\nund im Staube getreten umsammehr als der Fürst August jezt auf die ihm gegebene Vollmacht\nzurück fordert.\nFonds zur Tilgung der 112000 Rthl so wie auch der 35000 iſt überflüßig vorhanden, je es\nkönnen selbst die 18000 Rthl welche der Fürst August jährlich beziehen sollen, und wovon schon an\n54000 Rthl vorräthig liegen, dazu verweint von der Hand verwandt, und daher die Schuld von 147/\nin sehr kurzer Zeit getilgt werden. Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste\nBitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden\nerduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget -\nIn unbegragter Verehrung ersterbe\nE. H. D.\nv Triebenfeld\nWien d. 24ten Januar\n1815",
-   "transcription": "Abschrift\nDurchlauchtigsten Fürst pp\nEwr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen\nüberreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das bringen Q. L. Gericht in das geführte\nProtocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath\nCossnars Schreiben vom 22ten Juny 1810 sub S: die unverkennbarsten Chirann gegen dem armen guten Fürstl. hervorgehen\nbesonders da Cormas selbst eingesteht, daß er dem Fürsten um die Forderung der Kurz Erben von 300000 Rthl, die\nder Fürst allein zu Klagen übernommen, alles verkümmert und mit Arret belegt habe, so eile ich Euer Hochfurstl.\nDurchlaucht die Acten Stück unterthänigst zu Füßen zu legen\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. H. D. hieraus zu entnehmen.\nDie Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 Rthl zu befriedigen; ja man\nverlangt nur sogleich 12000 Rthl baar und auß 100000 Rthl eine sichere Anweisung. - Genehmigen E. H. D. diese Bitten\nund laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber\nsofort für der Casse voraus sie gegeben werden Administriren, so ist eine redliche Fürst alsobald\naus den Krallen des Cosmars gewißen, und durch H D Gnade, auf welcher er nur allein zählt, gerettet\nIch verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Intravante\nund vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt\nindes zu wünschen, daß der Monarch, wann heut oder morgen die K. Erben der Majestät nochmahl den ihre\nBefriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell\nalles erricht wird, und des Königs Wort heilig bleibt\nder Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarat\nund im Staube getreten umsammehr als der Fürst August jezt auf die ihm gegebene Vollmacht\nzurück fordert.\nFonds zur Tilgung der 112000 Rthl so wie auch der 35000 iſt überflüßig vorhanden, je es\nkönnen selbst die 18000 Rthl welche der Fürst August jährlich beziehen sollen, und wovon schon an\n54000 Rthl vorräthig liegen, dazu verweint von der Hand verwandt, und daher die Schuld von 147/\nin sehr kurzer Zeit getilgt werden. Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste\nBitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden\nerduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget -\nIn unbegragter Verehrung ersterbe\nE. H. D.\nv Triebenfeld\nWien d. 24ten Januar\n1815",
-   "reading": "Abschrift\n\nDurchlauchtigsten Fürst pp Ewr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen überreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das bringen Q. L. Gericht in das geführte Protocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath Cossnars Schreiben vom 22ten Juny 1810 sub S: die unverkennbarsten Chirann gegen dem armen guten Fürstl. hervorgehen besonders da Cormas selbst eingesteht, daß er dem Fürsten um die Forderung der Kurz Erben von 300000 Rthl, die der Fürst allein zu Klagen übernommen, alles verkümmert und mit Arret belegt habe, so eile ich Euer Hochfurstl. Durchlaucht die Acten Stück unterthänigst zu Füßen zu legen Wie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. H. D. hieraus zu entnehmen. Die Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 Rthl zu befriedigen; ja man verlangt nur sogleich 12000 Rthl baar und auß 100000 Rthl eine sichere Anweisung. - Genehmigen E. H. D. diese Bitten und laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber sofort für der Casse voraus sie gegeben werden Administriren, so ist eine redliche Fürst alsobald aus den Krallen des Cosmars gewißen, und durch H D Gnade, auf welcher er nur allein zählt, gerettet Ich verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Intravante und vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt indes zu wünschen, daß der Monarch, wann heut oder morgen die K. Erben der Majestät nochmahl den ihre Befriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell alles erricht wird, und des Königs Wort heilig bleibt der Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarat und im Staube getreten umsammehr als der Fürst August jezt auf die ihm gegebene Vollmacht zurück fordert.\n\nFonds zur Tilgung der 112000 Rthl so wie auch der 35000 iſt überflüßig vorhanden, je es können selbst die 18000 Rthl welche der Fürst August jährlich beziehen sollen, und wovon schon an 54000 Rthl vorräthig liegen, dazu verweint von der Hand verwandt, und daher die Schuld von 147/ in sehr kurzer Zeit getilgt werden. Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste Bitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden erduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget - In unbegragter Verehrung ersterbe\n\nE. H. D. v Triebenfeld\n\nWien d. 24ten Januar\n\n1815",
+   "page_id": "0490_a2",
+   "line_start": 19069,
+   "line_end": 19104,
+   "n_lines": 36,
+   "diplomatic": "269 a)\nAbschrift\nDurchlauchtigster Fürst pp\nEwr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen\nüberreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das Brieger O[ber]. L[andes]. Gericht in das geführte\nProtocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath\nCosmars Schreiben vom 22ten Juny 1810 sub G: die unverkennbarsten Chicanen gegen dem armen guten Fürstl. hervorgehen\nbesonders da Cosmar selbst eingesteht, daß er dem Fürsten um die Forderung der Cur[ischen] Erben von 300/m rt, die\nder Fürst allein zu Klagen übernommen, alles verkümmert und mit Arrest belegt habe, so eile ich Euer Hochfürstl.\nDurchlaucht die Acten Stück unterthänigst zu Füßen zu legen.\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. [W?]. d[?] hieraus zu entnehmen.\nDie Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 rt zu befriedigen; ja man\nverlangt nur sogleich 12/m rt. baar und auf 100000 rt eine sichere Anweisung. - Genehmigen E. [W?]. D. diese Bitten\nund laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber\nsofort für der Casse voraus sie gegeben werden Administriren, so ist der eine redliche Fürst alsobald\naus den Krallen des Cosmars gewißen, und durch E. D. Gnade, auf welcher er nur allein zählt, gerettet -\nIch verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Instrumente\nund vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt\nindes zu wünschen, daß der Monarch, wann heut oder morgen die C[urische]. Erben der Majestät nochmahl den ihre\nBefriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell\nalles erricht wird, und des Königs Wort heilig bleibt -\nder Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarvt\nund im Staube getreten umsomehr als der Fürst August jezt auf die ihm gegebene Vollmacht\nzurück fordert.\nFonds zur Tilgung der 112000 rt. so wie auch der 35000 iſt[?] überflüßig vorhanden, je es\nkönnen selbst die 18000 rt welche der Fürst August jährlich beziehen sollen, und wovon schon an\n54000 rt. vorräthig liegen, dazu von der Hand verwandt, und daher die Schuld von 147/m\nin sehr kurzer Zeit getilgt werden - Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste\nBitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden\nerduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget -\nIn unbegragter Verehrung ersterbe\nE. L[?]. D.\nWien d. 24ten Januar\n1815\np p p\nv Triebenfeld",
+   "transcription": "269 a)\nAbschrift\nDurchlauchtigster Fürst pp\nEwr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen\nüberreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das Brieger O[ber]. L[andes]. Gericht in das geführte\nProtocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath\nCosmars Schreiben vom 22ten Juny 1810 sub G: die unverkennbarsten Chicanen gegen dem armen guten Fürstl. hervorgehen\nbesonders da Cosmar selbst eingesteht, daß er dem Fürsten um die Forderung der Cur[ischen] Erben von 300/m rt, die\nder Fürst allein zu Klagen übernommen, alles verkümmert und mit Arrest belegt habe, so eile ich Euer Hochfürstl.\nDurchlaucht die Acten Stück unterthänigst zu Füßen zu legen.\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. [W?]. d[?] hieraus zu entnehmen.\nDie Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 rt zu befriedigen; ja man\nverlangt nur sogleich 12/m rt. baar und auf 100000 rt eine sichere Anweisung. - Genehmigen E. [W?]. D. diese Bitten\nund laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber\nsofort für der Casse voraus sie gegeben werden Administriren, so ist der eine redliche Fürst alsobald\naus den Krallen des Cosmars gewißen, und durch E. D. Gnade, auf welcher er nur allein zählt, gerettet -\nIch verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Instrumente\nund vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt\nindes zu wünschen, daß der Monarch, wann heut oder morgen die C[urische]. Erben der Majestät nochmahl den ihre\nBefriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell\nalles erricht wird, und des Königs Wort heilig bleibt -\nder Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarvt\nund im Staube getreten umsomehr als der Fürst August jezt auf die ihm gegebene Vollmacht\nzurück fordert.\nFonds zur Tilgung der 112000 rt. so wie auch der 35000 iſt[?] überflüßig vorhanden, je es\nkönnen selbst die 18000 rt welche der Fürst August jährlich beziehen sollen, und wovon schon an\n54000 rt. vorräthig liegen, dazu von der Hand verwandt, und daher die Schuld von 147/m\nin sehr kurzer Zeit getilgt werden - Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste\nBitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden\nerduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget -\nIn unbegragter Verehrung ersterbe\nE. L[?]. D.\nWien d. 24ten Januar\n1815\np p p\nv Triebenfeld",
+   "reading": "269 a)\n\nAbschrift\n\nDurchlauchtigster Fürst pp Ewr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen überreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das Brieger O[ber]. L[andes]. Gericht in das geführte Protocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath Cosmars Schreiben vom 22ten Juny 1810 sub G: die unverkennbarsten Chicanen gegen dem armen guten Fürstl. hervorgehen besonders da Cosmar selbst eingesteht, daß er dem Fürsten um die Forderung der Cur[ischen] Erben von 300/m rt, die der Fürst allein zu Klagen übernommen, alles verkümmert und mit Arrest belegt habe, so eile ich Euer Hochfürstl. Durchlaucht die Acten Stück unterthänigst zu Füßen zu legen.\n\nWie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. [W?]. d[?] hieraus zu entnehmen. Die Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 rt zu befriedigen; ja man verlangt nur sogleich 12/m rt. baar und auf 100000 rt eine sichere Anweisung. - Genehmigen E. [W?]. D. diese Bitten und laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber sofort für der Casse voraus sie gegeben werden Administriren, so ist der eine redliche Fürst alsobald aus den Krallen des Cosmars gewißen, und durch E. D. Gnade, auf welcher er nur allein zählt, gerettet - Ich verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Instrumente und vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt indes zu wünschen, daß der Monarch, wann heut oder morgen die C[urische]. Erben der Majestät nochmahl den ihre Befriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell alles erricht wird, und des Königs Wort heilig bleibt - der Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarvt und im Staube getreten umsomehr als der Fürst August jezt auf die ihm gegebene Vollmacht zurück fordert.\n\nFonds zur Tilgung der 112000 rt. so wie auch der 35000 iſt[?] überflüßig vorhanden, je es können selbst die 18000 rt welche der Fürst August jährlich beziehen sollen, und wovon schon an 54000 rt. vorräthig liegen, dazu von der Hand verwandt, und daher die Schuld von 147/m in sehr kurzer Zeit getilgt werden - Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste Bitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden erduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget - In unbegragter Verehrung ersterbe\n\nE. L[?]. D. Wien d. 24ten Januar\n\n1815\n\np p p\n\nv Triebenfeld",
    "paragraphs": [
+    "269 a)",
     "Abschrift",
-    "Durchlauchtigsten Fürst pp Ewr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen überreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das bringen Q. L. Gericht in das geführte Protocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath Cossnars Schreiben vom 22ten Juny 1810 sub S: die unverkennbarsten Chirann gegen dem armen guten Fürstl. hervorgehen besonders da Cormas selbst eingesteht, daß er dem Fürsten um die Forderung der Kurz Erben von 300000 Rthl, die der Fürst allein zu Klagen übernommen, alles verkümmert und mit Arret belegt habe, so eile ich Euer Hochfurstl. Durchlaucht die Acten Stück unterthänigst zu Füßen zu legen Wie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. H. D. hieraus zu entnehmen. Die Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 Rthl zu befriedigen; ja man verlangt nur sogleich 12000 Rthl baar und auß 100000 Rthl eine sichere Anweisung. - Genehmigen E. H. D. diese Bitten und laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber sofort für der Casse voraus sie gegeben werden Administriren, so ist eine redliche Fürst alsobald aus den Krallen des Cosmars gewißen, und durch H D Gnade, auf welcher er nur allein zählt, gerettet Ich verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Intravante und vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt indes zu wünschen, daß der Monarch, wann heut oder morgen die K. Erben der Majestät nochmahl den ihre Befriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell alles erricht wird, und des Königs Wort heilig bleibt der Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarat und im Staube getreten umsammehr als der Fürst August jezt auf die ihm gegebene Vollmacht zurück fordert.",
-    "Fonds zur Tilgung der 112000 Rthl so wie auch der 35000 iſt überflüßig vorhanden, je es können selbst die 18000 Rthl welche der Fürst August jährlich beziehen sollen, und wovon schon an 54000 Rthl vorräthig liegen, dazu verweint von der Hand verwandt, und daher die Schuld von 147/ in sehr kurzer Zeit getilgt werden. Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste Bitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden erduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget - In unbegragter Verehrung ersterbe",
-    "E. H. D. v Triebenfeld",
-    "Wien d. 24ten Januar",
-    "1815"
+    "Durchlauchtigster Fürst pp Ewr Hochfürstl Durchlaucht soll ich gemäß Auftrags des Hlrn Fürsten von Hohenlohe beigehendes Acten Stück allerzubeißen überreichen. Es enthält die Correspondence mit H. M v. Kircheisen Ex, welche das Brieger O[ber]. L[andes]. Gericht in das geführte Protocols nicht aufnehmen wollen, weil selbiges dazu nicht beauftragt worden sey. Da indes aus das med: rath Cosmars Schreiben vom 22ten Juny 1810 sub G: die unverkennbarsten Chicanen gegen dem armen guten Fürstl. hervorgehen besonders da Cosmar selbst eingesteht, daß er dem Fürsten um die Forderung der Cur[ischen] Erben von 300/m rt, die der Fürst allein zu Klagen übernommen, alles verkümmert und mit Arrest belegt habe, so eile ich Euer Hochfürstl. Durchlaucht die Acten Stück unterthänigst zu Füßen zu legen.",
+    "Wie höchst nöthig es nur wischen ist die Curischen Erbe zu befriedigen wollen E. [W?]. d[?] hieraus zu entnehmen. Die Erben sind ganz gewiß, nach den in Händen habenden Beweisen, mit 112000 rt zu befriedigen; ja man verlangt nur sogleich 12/m rt. baar und auf 100000 rt eine sichere Anweisung. - Genehmigen E. [W?]. D. diese Bitten und laßen die Summa dem Biedern alten Fürſten vorschießen, die ſämtz Majorats Güter aber sofort für der Casse voraus sie gegeben werden Administriren, so ist der eine redliche Fürst alsobald aus den Krallen des Cosmars gewißen, und durch E. D. Gnade, auf welcher er nur allein zählt, gerettet - Ich verpflichte mich dagegen bey Verlust meiner ganzen Haabe und meiner Freyheit die Schuld Instrumente und vorzüglich die Garantie Sr. Majestät, sogleich u. E. D. Händen zu überliefern. Das einzige bleibt indes zu wünschen, daß der Monarch, wann heut oder morgen die C[urische]. Erben der Majestät nochmahl den ihre Befriedigung angehen sollen, sich von der Sache, wie schon geschehen losſagen ſolten, wodurch das schnell alles erricht wird, und des Königs Wort heilig bleibt - der Cosmar liegt, wann er besonders zur allerſchleunigſten Rechnungslegung angehalten wird, entlarvt und im Staube getreten umsomehr als der Fürst August jezt auf die ihm gegebene Vollmacht zurück fordert.",
+    "Fonds zur Tilgung der 112000 rt. so wie auch der 35000 iſt[?] überflüßig vorhanden, je es können selbst die 18000 rt welche der Fürst August jährlich beziehen sollen, und wovon schon an 54000 rt. vorräthig liegen, dazu von der Hand verwandt, und daher die Schuld von 147/m in sehr kurzer Zeit getilgt werden - Er führen Ewr Hochfürstliche Durchlaucht diese unterthänigste Bitte ſo ist der gute Fürſt der ſol anverschuldet bereits durch 9 Jahre die granz anlaſaſten Leiden erduldet, durch höchst Ihre Gnade gerettet, und jeder Creditor beruhiget - In unbegragter Verehrung ersterbe",
+    "E. L[?]. D. Wien d. 24ten Januar",
+    "1815",
+    "p p p",
+    "v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 34
+   "doc_line_end": 36
   }
  ],
  "mentions": [
@@ -64,10 +72,10 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19119,
-   "doc_line": 3
+   "line": 19072,
+   "doc_line": 4
   },
   {
    "entity": "kircheisen",
@@ -75,10 +83,10 @@
    "kind": "person",
    "surface": "Kircheisen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19120,
-   "doc_line": 4
+   "line": 19073,
+   "doc_line": 5
   },
   {
    "entity": "cosmar",
@@ -86,10 +94,10 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19131,
-   "doc_line": 15
+   "line": 19075,
+   "doc_line": 7
   },
   {
    "entity": "cosmar",
@@ -97,20 +105,31 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19137,
-   "doc_line": 21
+   "line": 19076,
+   "doc_line": 8
   },
   {
-   "entity": "august",
-   "display": "August",
+   "entity": "cosmar",
+   "display": "Cosmar",
    "kind": "person",
-   "surface": "August",
+   "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19138,
+   "line": 19084,
+   "doc_line": 16
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface": "Cosmar",
+   "page": 1,
+   "page_id": "0490_a2",
+   "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
+   "line": 19090,
    "doc_line": 22
   },
   {
@@ -119,10 +138,21 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19141,
-   "doc_line": 25
+   "line": 19091,
+   "doc_line": 23
+  },
+  {
+   "entity": "august",
+   "display": "August",
+   "kind": "person",
+   "surface": "August",
+   "page": 1,
+   "page_id": "0490_a2",
+   "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
+   "line": 19094,
+   "doc_line": 26
   },
   {
    "entity": "triebenfeld",
@@ -130,23 +160,30 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0490_a2",
    "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
-   "line": 19148,
-   "doc_line": 32
+   "line": 19104,
+   "doc_line": 36
   }
  ],
  "mentions_english": [],
  "place_canonical": "Wien",
- "place_mentions": [],
- "translation_status": "draft",
- "translation": [
+ "place_mentions": [
   {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
    "page": 1,
-   "en": "Copy\n\nMost Serene Prince etc. In accordance with the commission of the Prince of Hohenlohe I am to present to Your Most Serene Highness the accompanying file of documents [uncertain: allerzubeißen]. It contains the correspondence with His Excellency Minister von Kircheisen, which the [uncertain: bringen] Q. L. court would not take up into the protocol kept, because it had not been commissioned to do so. Since, however, from the medical councillor Cossnar's letter of the 22nd of June 1810 under S: the most unmistakable [uncertain: Chirann] against the poor good Prince emerge, especially as Cormas himself admits that, on account of the claim of the Kurz heirs for 300000 Rthl, which the Prince alone undertook to contest, he has stinted the Prince in everything and laid it all under arrest, I hasten most humbly to lay the file of documents at Your Most Serene Highness's feet. Your Most Serene Highness will gather from it how highly necessary it is [uncertain: nur wischen] to satisfy the Kurz heirs. The heirs are quite certainly to be satisfied, according to the proofs held in hand, with 112000 Rthl; indeed only 12000 Rthl in cash is demanded at once, and for the 100000 Rthl a secure instruction to pay. - Should Your Most Serene Highness approve these requests and allow the sum to be advanced to the upright old Prince, while all the entailed estates are immediately administered on behalf of the treasury before they are given over, then an honest Prince is at once out of Cosmar's claws, and saved through Your Most Serene Highness's grace, upon which alone he counts. I bind myself in return, on forfeit of my whole property and my liberty, to deliver the debt [uncertain: Intravante] and above all the guarantee of His Majesty into Your Serene Highness's hands forthwith. The one thing that remains to be wished, however, is that the Monarch, if today or tomorrow the K. heirs should once more approach His Majesty concerning their satisfaction, should disclaim the matter, as has already happened, whereby everything will quickly be [uncertain: erricht], and the King's word remain sacred. Cosmar lies unmasked and trodden in the dust, particularly if he is held to render account with the utmost dispatch, all the more since Prince August is now recalling the power of attorney given to him.\n\nFunds for the discharge of the 112000 Rthl as well as of the 35000 are present in abundance; indeed even the 18000 Rthl which Prince August is to draw yearly, and of which some 54000 Rthl already lie in store, can be [uncertain: verweint] applied to it out of hand, and thus the debt of 147/ discharged in a very short time. Should Your Most Serene Highness [uncertain: Er führen] this most humble request, then the good Prince, who all unguilty has already for 9 years endured the most [uncertain: anlaſaſten] sufferings, is saved through Your Most Serene Highness's grace, and every creditor set at rest. - In [uncertain: unbegragter] reverence I remain, until death,\n\nYour Most Serene Highness's v. Triebenfeld\n\nVienna, the 24th of January\n\n1815"
+   "page_id": "0490_a2",
+   "scan": "Oe_1_Bu_9454_0490_a2-L269a_01.jpg",
+   "line": 19101,
+   "doc_line": 33
   }
  ],
- "text_english": "Copy\n\nMost Serene Prince etc. In accordance with the commission of the Prince of Hohenlohe I am to present to Your Most Serene Highness the accompanying file of documents [uncertain: allerzubeißen]. It contains the correspondence with His Excellency Minister von Kircheisen, which the [uncertain: bringen] Q. L. court would not take up into the protocol kept, because it had not been commissioned to do so. Since, however, from the medical councillor Cossnar's letter of the 22nd of June 1810 under S: the most unmistakable [uncertain: Chirann] against the poor good Prince emerge, especially as Cormas himself admits that, on account of the claim of the Kurz heirs for 300000 Rthl, which the Prince alone undertook to contest, he has stinted the Prince in everything and laid it all under arrest, I hasten most humbly to lay the file of documents at Your Most Serene Highness's feet. Your Most Serene Highness will gather from it how highly necessary it is [uncertain: nur wischen] to satisfy the Kurz heirs. The heirs are quite certainly to be satisfied, according to the proofs held in hand, with 112000 Rthl; indeed only 12000 Rthl in cash is demanded at once, and for the 100000 Rthl a secure instruction to pay. - Should Your Most Serene Highness approve these requests and allow the sum to be advanced to the upright old Prince, while all the entailed estates are immediately administered on behalf of the treasury before they are given over, then an honest Prince is at once out of Cosmar's claws, and saved through Your Most Serene Highness's grace, upon which alone he counts. I bind myself in return, on forfeit of my whole property and my liberty, to deliver the debt [uncertain: Intravante] and above all the guarantee of His Majesty into Your Serene Highness's hands forthwith. The one thing that remains to be wished, however, is that the Monarch, if today or tomorrow the K. heirs should once more approach His Majesty concerning their satisfaction, should disclaim the matter, as has already happened, whereby everything will quickly be [uncertain: erricht], and the King's word remain sacred. Cosmar lies unmasked and trodden in the dust, particularly if he is held to render account with the utmost dispatch, all the more since Prince August is now recalling the power of attorney given to him.\n\nFunds for the discharge of the 112000 Rthl as well as of the 35000 are present in abundance; indeed even the 18000 Rthl which Prince August is to draw yearly, and of which some 54000 Rthl already lie in store, can be [uncertain: verweint] applied to it out of hand, and thus the debt of 147/ discharged in a very short time. Should Your Most Serene Highness [uncertain: Er führen] this most humble request, then the good Prince, who all unguilty has already for 9 years endured the most [uncertain: anlaſaſten] sufferings, is saved through Your Most Serene Highness's grace, and every creditor set at rest. - In [uncertain: unbegragter] reverence I remain, until death,\n\nYour Most Serene Highness's v. Triebenfeld\n\nVienna, the 24th of January\n\n1815",
- "summary_en": "A copy of a petition submitted on behalf of Prince August, forwarding a file of correspondence with Minister von Kircheisen that a court refused to enter in its record. Triebenfeld argues that Cosmar, citing the Kurz heirs' claim of 300,000 Rthl, has placed the Prince's property under arrest; the heirs would settle for 112,000 Rthl, only 12,000 in cash with an assignment for the rest. He asks for the advance, offers his whole property and liberty as security, and urges that Cosmar be made to account.",
- "summary_de": "Abschrift einer Bittschrift, mit der Triebenfeld im Auftrag des Fürsten von Hohenlohe eine Aktensammlung überreicht, darunter den Schriftwechsel mit Minister von Kircheisen und ein Schreiben des Medizinalrats Cossnar vom 22. Juni 1810, das Cosmars Vorgehen gegen den alten Prinzen belegen soll. Die Erben Kurz forderten 300000 Rthl, seien aber mit 112000 Rthl abzufinden, davon 12000 Rthl sofort in Barem, für 100000 Rthl eine sichere Anweisung. Triebenfeld bittet um Vorschuss und verbürgt sich mit Vermögen und Freiheit; Prinz August ziehe Cosmars Vollmacht zurück."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

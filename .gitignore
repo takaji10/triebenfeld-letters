@@ -33,6 +33,7 @@ site/vendor/
 .bundle/
 
 # Working files and one-offs left at the project root
+/scratch/
 /*.txt
 /*.csv
 /*.json

@@ -112,7 +112,7 @@ people:
     display: "Eysenhardt"
     match: "Eysenhardt"
     tier: "Context-inferred, distinctness from Reinhardt explicitly settled"
-    variants: []
+    variants: ["Eysenhard", "Eissenhardt", "Eisenhardt"]
   falkenhausen:
     display: "Falkenhausen"
     match: "Falkenhausen"
@@ -150,7 +150,7 @@ people:
     display: "Göschel"
     match: "Göschel"
     tier: "Role unclear"
-    variants: []
+    variants: ["Goeschel"]
   goldbeck:
     display: "Goldbeck"
     match: "Goldbeck"
@@ -187,12 +187,15 @@ people:
     match: "Hardenberg"
     abbrev: "Hard(?:enb)?:"
     tier: ""
-    variants: []
+    variants: ["Hardenburg", "Hard[enberg]", "H[ardenberg]", "Ha[rdenberg]", "Harde[nberg]"]
   hawich:
     display: "Hawich"
     match: "Hawich"
     tier: "Book-confirmed"
-    variants: []
+    # The transcriber misreads this name often (w read as b, ch as sch/ck/k): letters
+    # 31 and 302 had Habisch, Habich, Habik, Habick, and 198 Hawick. All corrected to
+    # Hawich in the text (editor, 2026-09-28); the forms stay here so a new one is found.
+    variants: ["Hawick", "Habisch", "Habich", "Habik", "Habick"]
   hecker:
     display: "Hecker"
     match: "Hecker"
@@ -238,7 +241,7 @@ people:
     display: "Wilhelm von Humboldt"
     match: "Humboldt"
     tier: "Externally confirmed"
-    variants: []
+    variants: ["Humbolt", "Humbold", "Humbo[ldt]"]
   jankowski:
     display: "Jankowski"
     match: "Jankowski"
@@ -283,7 +286,7 @@ people:
     match: "Köckritz"
     abbrev: "K[oö]ch:"
     tier: "Externally confirmed"
-    variants: []
+    variants: ["Köchritz", "Köchrich", "Köcheritz", "Köchitz", "Koekritz", "Köck", "Kockritz"]
   koeppen:
     display: "Koeppen"
     match: "K(?:oe|ö)ppen"
@@ -340,7 +343,7 @@ people:
     render: "Meierowitz"
     match: "Meierowicz|Meierowitz"
     tier: ""
-    variants: ["Meierowicz"]
+    variants: ["Meierowicz", "Maierowitz"]
   melzer:
     display: "Melzer"
     match: "Melzer"
@@ -366,7 +369,7 @@ people:
       Michaelis, and Christiane Dorothea Michaelis geborene Eichborn, the
       widowed chief district councillor's wife, who appears in the Erbpacht
       contracts as a mortgage creditor.
-    variants: []
+    variants: ["Michelis"]
     open_questions:
       - "Three roles, one surname, and nothing yet establishes whether they
          are one person, two, or three. The merchant and the Hof Fiscal both
@@ -525,14 +528,14 @@ people:
     variants: []
   schenck:
     display: "Schenck"
-    match: "Schenck"
+    match: 'Schenck|Schenk(?![a-zà-ÿ])'
     tier: "Context-inferred"
     variants: []
   schlabrendorff:
     display: "Schlabrendorff"
     match: "Schlabrendorff"
     tier: "Externally confirmed (family)"
-    variants: []
+    variants: ["Schlabendorf", "Schlaberndorff"]
   schmaling:
     display: "Schmaling"
     match: "Schmaling"
@@ -567,7 +570,7 @@ people:
     display: "Stägemann"
     match: "Stägemann"
     tier: "Externally confirmed"
-    variants: []
+    variants: ["Stegemann", "Steegemann", "Stegeman"]
   stillfried:
     display: "von Stillfried"
     match: "Stillfried"
@@ -581,12 +584,12 @@ people:
     display: "Stössel"
     match: "Stössel"
     tier: "Context-inferred"
-    variants: []
+    variants: ["Stossel", "Stoessel"]
   talleyrand:
     display: "Talleyrand"
     match: "Talleyrand"
     tier: "Externally confirmed"
-    variants: []
+    variants: ["Taillerand", "Tailleraad", "Tal[leyrand]"]
   titz:
     display: "Carl Titz"
     match: "Titz"
@@ -614,7 +617,7 @@ people:
     tier: "Book-confirmed (as a claimant)"
     identity: >-
       Ignatz von Trzciński, creditor and claimant against the estates.
-    variants: ["Trzcinski"]
+    variants: ["Trzcinski", "Trzczinski", "Trzczynski"]
   tschachmann:
     display: "Johann Gottlieb Tschachmann"
     match: "Tschachmann"
@@ -674,3 +677,379 @@ people:
     match: "Zerboni"
     tier: "Context-inferred"
     variants: []
+  beyme:
+    display: "Beyme"
+    match: 'Beyh?m(?:es|e|s)?(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: ["B[eyme]", "Bey[me]"]
+    identity: "Carl Friedrich von Beyme, Prussian cabinet councillor (Cabinets Rath).
+      Written Beym, Beyme and Beyhm. Added 2026-09-27 in the names pass."
+  hohenlohe-bartenstein:
+    display: "Prince Hohenlohe-Bartenstein"
+    render: "Bartenstein"
+    match: 'Barten[sſ]tein\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "The Prince of Hohenlohe-Bartenstein, a mediatised prince at the Vienna
+      Congress (letters 262, 267, 276, 277). Added 2026-09-27 in the names pass."
+  radziwill:
+    display: "Antoni Radziwiłł"
+    render: "Radziwiłł"
+    match: 'Radziwi[lł]{1,2}(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Prince Antoni Radziwiłł, Prussian governor (Statthalter) of the Grand
+      Duchy of Posen from 1815 (letters 287, 295, 300). Added 2026-09-27."
+  gneisenau:
+    display: "Gneisenau"
+    match: 'Gnei[sz]enau\w*|Gniez\[enau\]'
+    tier: "Context-inferred"
+    variants: ["Gneis[enau]"]
+    identity: "August Neidhardt von Gneisenau, commanding the Silesian Landwehr in 1813
+      (letter 241). Added 2026-09-27."
+  eberhard:
+    display: "Eberhard"
+    match: 'Eberhardt?(?:s|sche\w*)?(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Justizcommissarius Eberhard of Brieg, mandatary in the Courland heirs'
+      business (letters 14, 278, 279, 280). Written Eberhard and Eberhardt; the
+      text was standardised to Eberhard on 2026-09-27."
+  prinz-george:
+    display: "Prinz George"
+    match: '(?<=Prinz )George|(?<=Prinzen )George|(?<=Pr )Georg\b'
+    tier: "Context-inferred"
+    variants: []
+    identity: "A prince to whom Triebenfeld sold estates ('die Güter welche ich dem Prinzen George verkauft', 9454 letter 104); the deal soured with Kriegsrath Korn and General Kalckreuth involved (letters 83-164, 1798-1805). Added 2026-09-28 in the names pass."
+    open_questions:
+      - "Which house he belongs to is not stated in the letters."
+  heuthausen:
+    display: "von Heuthausen"
+    match: 'Heuthausen\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "The Prince's agent: sends him the reports in 1811 (letter 218); the Prince sent him to Kalisz to revise the mortgage books (letter 273). Added 2026-09-28 in the names pass."
+  ludolff:
+    display: "Ludolff"
+    match: 'Ludolf{1,2}\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Ordens-Commissions-Rath who valued the Kaemen and Kolno estates (letters 129, 135). Added 2026-09-28 in the names pass."
+  kuh:
+    display: "Gebrüder Kuh"
+    match: 'Kuh(?![a-zà-ÿ\[.])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Jewish bankers and creditors: sue Triebenfeld for 5800 rthl (letter 108); a draft on the Gebrüder Kuh (letter 159); among the complainants against Cosmar (letter 292). Added 2026-09-28 in the names pass."
+  goetzen:
+    display: "Graf Götzen"
+    match: 'G(?:ö|oe)tzen\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Friedrich Wilhelm Graf von Götzen, governor of Silesia 1807-08 (letter 55). Added 2026-09-28 in the names pass."
+  stenger:
+    display: "Stenger"
+    match: 'Stenger\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Criminal Rath Stenger of Karge, Triebenfeld's agent in the Polish estates 1809-10 (letters 21-23, 68, 215). Added 2026-09-28 in the names pass."
+  koppe:
+    display: "Koppe"
+    match: 'Koppe(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Secretary Koppe at Stettin (letter 26), later Assessor (letter 36), later employed in Hanover (letter 291). Added 2026-09-28 in the names pass."
+  bally:
+    display: "Bally"
+    match: 'Bally(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Referendarius, later Stallmeister, Bally, the Prince's man of business (letters 29-299). Added 2026-09-28 in the names pass."
+  albrecht:
+    display: "Albrecht"
+    match: 'Al{1,2}brecht\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Cabinets- und Cammergerichts Rath Albrecht, Berlin (letters 6, 52, 53, 289). Added 2026-09-28 in the names pass."
+  prinz-adolph:
+    display: "Prinz Adolph"
+    match: '(?<=Prinz )Adolph\w*|(?<=Prinzen )Adolph\w*|(?<=Pr\. )Adolph\w*|(?<=Pr )Adolph\w*|(?<=P )Adolph\w*|Adolphsche\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Prince Adolph of Hohenlohe-Ingelfingen, the Prince's younger son; his majority and his entry into the army in 1815 are argued in letters 11, 13, 16, 288. Added 2026-09-28 in the names pass."
+  prinz-alexander:
+    display: "Prinz Alexander"
+    match: '(?<=Prinz )Al{1,2}exander|(?<=Prinzen )Al{1,2}exander|(?<=Pr\. )Al{1,2}exander'
+    tier: "Context-inferred"
+    variants: []
+    identity: "The Prince's youngest son (letters 220, 222, 247). Added 2026-09-28 in the names pass."
+  constantin:
+    display: "Grand Duke Constantin"
+    match: 'Constantin(?![a-zà-ÿ])|Konstantin(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Grand Duke Konstantin Pavlovich of Russia (letters 244, 247, 269). Added 2026-09-28 in the names pass."
+  ruechel:
+    display: "General Rüchel"
+    match: 'R(?:ü|u)chel(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Prussian general (letter 177). Added 2026-09-28 in the names pass."
+  kalckreuth:
+    display: "Kalckreuth"
+    match: 'Kal(?:c)?[kh]reuth\w*|Kalchreuth\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "General Kalckreuth, involved in Prinz George's affairs (letter 164). Added 2026-09-28 in the names pass."
+  landskoy:
+    display: "Lanskoy"
+    match: 'Lands?koy\w*|Landsko\['
+    tier: "Context-inferred"
+    variants: []
+    identity: "Count Lanskoy, Russian governor in Warsaw, 1815 (letters 242, 266, 279). Added 2026-09-28 in the names pass."
+  poniatowski:
+    display: "Poniatowski"
+    match: 'Poniatowski\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Prince Józef Poniatowski (letter 212). Added 2026-09-28 in the names pass."
+  veit:
+    display: "Veit"
+    match: 'Veit(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Banker Veit, Berlin (letter 38). Added 2026-09-28 in the names pass."
+  tesmar:
+    display: "Tesmar"
+    match: 'T[ei]smar\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Geheimer Rath von Tesmar (letters 191, 203). Added 2026-09-28 in the names pass."
+  thaer:
+    display: "Thaer"
+    match: 'Thaer(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Albrecht Thaer, the agronomist (letter 223). Added 2026-09-28 in the names pass."
+  biron:
+    display: "Prinz Biron"
+    match: 'Biron(?:sche\w*)?(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Prince Biron of Courland (letter 119). Added 2026-09-28 in the names pass."
+  bubna:
+    display: "Graf Bubna"
+    match: 'Bubna(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Austrian general Graf Bubna (letter 279). Added 2026-09-28 in the names pass."
+  wellington:
+    display: "Wellington"
+    match: 'Well?ingt?on\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "The Duke of Wellington (letters 2, 270, 280, 286). Added 2026-09-28 in the names pass."
+  knobloch:
+    display: "Knobloch"
+    match: 'Knobloch(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Named with Prittwitz in the 1799 exchange business (letter 99). Added 2026-09-28 in the names pass."
+  prittwitz:
+    display: "Prittwitz"
+    match: 'Prittwitz(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Official in the 1799 exchange business (letters 99, 102, 105). Added 2026-09-28 in the names pass."
+  schuckmann:
+    display: "Schuckmann"
+    match: 'Schuckman{1,2}(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "President von Schuckmann (letter 108). Added 2026-09-28 in the names pass."
+  reinbeck:
+    display: "Reinbeck"
+    match: 'Reinbe[ck]{1,2}(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Geheimer Rath Reinbeck (letters 177, 179). Added 2026-09-28 in the names pass."
+  mencke:
+    display: "Mencke"
+    match: 'Mencke(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Geheimer Cabinets Rath Mencke (letter 83). Added 2026-09-28 in the names pass."
+  merckel:
+    display: "Merckel"
+    match: 'Mer[c]?kel(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Rath Merckel, from Königsberg (letters 55, 239). Added 2026-09-28 in the names pass."
+  repnin:
+    display: "Repnin"
+    match: 'Rep{1,2}nin(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Prince Repnin (letters 83, 84). Added 2026-09-28 in the names pass."
+  roeder:
+    display: "Roeder"
+    match: 'R(?:oe|ö)der(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "General von Roeder (letter 238). Added 2026-09-28 in the names pass."
+  ortel:
+    display: "Ortel"
+    match: 'Ortell?(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "General Lieutenant Ortel (letters 239, 240). Added 2026-09-28 in the names pass."
+  valentini:
+    display: "Valentini"
+    match: 'Valentini(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Staff officer Valentini (letter 239). Added 2026-09-28 in the names pass."
+  seegebarth:
+    display: "Seegebarth"
+    match: 'Seegebarth\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Of the General Post Office (letter 26). Added 2026-09-28 in the names pass."
+  schroeder:
+    display: "Schröder"
+    match: 'Schr(?:ö|oe)der(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Rath Schröder (letter 3). Added 2026-09-28 in the names pass."
+  jordan:
+    display: "Jordan"
+    match: '(?<=Rath )Jordan|(?<=hat )Jordan|Jordan(?= mir)'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Legationsrath Jordan (letters 2, 268). Added 2026-09-28 in the names pass."
+  danckelmann:
+    display: "Danckelmann"
+    match: 'Danckelmann\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Graf Danckelmann (letter 57). Added 2026-09-28 in the names pass."
+  wratislaw:
+    display: "Wratislaw"
+    match: 'Wratislaw\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Graf Wratislaw, former guardian (letter 258). Added 2026-09-28 in the names pass."
+  zychlinski:
+    display: "Zychlinski"
+    match: 'Zychli[nń]ski\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Former Landrath, later Unter-Praefect in Kalisz (letters 58, 63, 196). Added 2026-09-28 in the names pass."
+  mitschke:
+    display: "Mitschke"
+    match: 'Mitschke(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Justiz Commissarius Mitschke of Kalisz (letter 31). Added 2026-09-28 in the names pass."
+  melzig:
+    display: "Melzig"
+    match: 'Melzig(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Justiz Bürgermeister Melzig (letters 41, 140). Added 2026-09-28 in the names pass."
+  kielczewski:
+    display: "Kiełczewski"
+    match: 'Kie[łl]czewski\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Tribunal President (letter 215). Added 2026-09-28 in the names pass."
+  hussarzewski:
+    display: "Hussarzewski"
+    match: 'Hus{1,2}ar[cz]ewski\w*|Hus{1,2}aczinski\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Regierungs-Rath (letters 155, 162). Added 2026-09-28 in the names pass."
+  rybbeck:
+    display: "Rybbeck"
+    match: 'Rybbeck(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Tenant at Drzewce (letters 72b, 213). Added 2026-09-28 in the names pass."
+  floricke:
+    display: "Floricke"
+    match: 'Floricke(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Tenant (letter 136). Added 2026-09-28 in the names pass."
+  fischbach:
+    display: "Fischbach"
+    match: 'Fischbach(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Carl Theodor Fischbach of Betsche (letters 99, 203). Added 2026-09-28 in the names pass."
+  boidelang:
+    display: "Boidelang"
+    match: 'Boidelang(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Barbe's successor in Hardenberg's bureau (letters 298, 299). Added 2026-09-28 in the names pass."
+  wiener:
+    display: "Kaufmann Wiener"
+    match: '(?<=Kaufmann )Wiener'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Merchant, buyer for Schweinern (letter 203). Added 2026-09-28 in the names pass."
+  koppen:
+    display: "Koppen"
+    match: 'Koppen(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Returned from Paris (letter 37). Added 2026-09-28 in the names pass."
+  wiesolowski:
+    display: "Wiesolowski"
+    match: 'Wiesolowski\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Triebenfeld's cousin, a colonel (letter 174). Added 2026-09-28 in the names pass."
+  scharffenberg:
+    display: "Scharffenberg"
+    match: 'Scharffenberg\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Colonel Scharffenberg (letter 193). Added 2026-09-28 in the names pass."
+  gumperts:
+    display: "Gumperts"
+    match: 'Gumperts(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Medizinal Rath Gumperts (letter 218). Added 2026-09-28 in the names pass."
+  bethusy:
+    display: "Bethusy"
+    match: 'Beth(?:usy|ney)(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Graf Bethusy (letters 51, 55). Added 2026-09-28 in the names pass."
+  grevenitz:
+    display: "Grevenitz"
+    match: 'Grevenitz\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Kammergerichts Rath von Grevenitz, Berlin; writer of letter 296 (letters 42, 64, 67, 296). Added 2026-09-28 after the nonword sweep."
+  haugt:
+    display: "Haugt"
+    match: 'Haugt(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Creditor, named with Oppenheimer and Giraud (letters 33, 157, 179). Letter 31's Haucht und Consorten may be the same man; not merged. Added 2026-09-28 after the nonword sweep."
+  kaiser-alexander:
+    display: "Kaiser Alexander I."
+    match: '(?<=Kayser )Al{1,2}exander|(?<=R\. K\. )Allex\[ander\]|(?<=wogegen )Alexander|(?<=glücklich )Alexander'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Tsar Alexander I of Russia (letters 27, 59, 266, 280, 298). Kept apart from Prinz Alexander of Hohenlohe, whose entry matches only after Prinz/Prinzen. Added 2026-09-28."
+  brzechffa:
+    display: "Brzechffa"
+    match: 'Brzech(?:ff|f|w|ſt|st|t)a\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "B. Brzechffa, Podprefect, friend and 'brother' of Triebenfeld (letters 72d, 72e, and throughout 1808-1815). The family Brzechwa vel Brzechffa, herb Jastrzębiec. The transcription read Brzechsta; his signatures read Brzechfa (72d) and Brzechffa (72e). Standardised 2026-09-28 on the editor's ruling."

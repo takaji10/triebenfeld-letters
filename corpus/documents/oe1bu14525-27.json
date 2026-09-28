@@ -207,6 +207,28 @@
    "doc_line": 4
   },
   {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3401,
+   "doc_line": 4
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3403,
+   "doc_line": 6
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -238,6 +260,17 @@
    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
    "line": 3427,
    "doc_line": 30
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0119_b",
+   "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+   "line": 3433,
+   "doc_line": 36
   },
   {
    "entity": "betsche",

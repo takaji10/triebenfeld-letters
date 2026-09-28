@@ -1,6 +1,6 @@
 {
  "letter_id": "150",
- "seq_archival": 162,
+ "seq_archival": 161,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-150",
@@ -12,7 +12,7 @@
  "date_iso": "1804-11-27",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "d. 27ten Nov. 1804",
+ "date_display": "ta. - d. 27ten Nov. 1804",
  "date_inferred_from": "",
  "year": 1804,
  "month": 11,
@@ -20,40 +20,42 @@
  "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 10794,
- "line_end": 10812,
+ "line_start": 10800,
+ "line_end": 10819,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
  "is_missing": 0,
  "n_lines": 18,
  "n_pages": 1,
- "text": "der Landes Altesen v. Lichnowski 11. schreibt d. d. 23. No. 1804.\nan So durchl.\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c.\neinen Zins Rükstand von 5572 Rthl 12. gg. an Sr Durchl. habe zu\nfordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt\nwurde er zu s. Zahlung gelangen würde, er habe deshalb ein\nMandat bey Kalischer Regierung bewirbt, welches Sr. d. binnen 14\nTagen die Zahlung auflegt, wundert sich aber, daß diese ver¬\nstrichen und er nichts erhalten habe. Er droht mit Antrag auf\nsequestration will abwägerne Sr. durchl. Verdruß erspa¬\nren und wünscht fernerhin in gutem Vernehmen zu stehen\nund glaubt daß die Weihnachten Selittel bringen wurden\nihr zu befriedigen.\nAntwort.\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da\nHerr v. Triebenfeld dort alles in Ordnung und ins Reine brächta\nd. 27ten Nov. 1804",
- "text_reading": "der Landes Altesen v. Lichnowski 11. schreibt d. d. 23. No. 1804. an So durchl.\n\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c. einen Zins Rükstand von 5572 Rthl 12. gg. an Sr Durchl. habe zu fordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt wurde er zu s. Zahlung gelangen würde, er habe deshalb ein Mandat bey Kalischer Regierung bewirbt, welches Sr. d. binnen 14 Tagen die Zahlung auflegt, wundert sich aber, daß diese verstrichen und er nichts erhalten habe. Er droht mit Antrag auf sequestration will abwägerne Sr. durchl. Verdruß ersparen und wünscht fernerhin in gutem Vernehmen zu stehen und glaubt daß die Weihnachten Selittel bringen wurden ihr zu befriedigen.\n\nAntwort.\n\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da Herr v. Triebenfeld dort alles in Ordnung und ins Reine brächta\n\nd. 27ten Nov. 1804",
+ "text": "150\nder Landes Altesten v. Lichnowski: schreibt d. d. 23. Nov. 1804.\nan Sr durchl:\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c.\neinen Zins Rükstand von 5572 rthl. 12. gg. an Sr Durchl. habe zu\nfordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt\nwurde er zu s. Zahlung gelangen würde, er habe deshalb ein\nMandat bey Kalischer Regierung bewirkt, welches Sr. d. binnen 14\nTagen die Zahlung auflegt, wundert sich aber, daß diese ver¬\nstrichen und er nichts erhalten habe. Er droht mit Antrag auf\nsequestration will abwägerne Sr. durchl. Verdruß erspa¬\nren und wünscht fernerhin in gutem Vernehmen zu stehen\nund glaubt daß die Weihnachten Selittel bringen wurden\nihr zu befriedigen.\nAntwort.\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da\nHerr v. Triebenfeld dort alles in Ordnung und ins Reine bräch¬\n ta. - d. 27ten Nov. 1804",
+ "text_reading": "150 der Landes Altesten v. Lichnowski: schreibt d. d. 23. Nov. 1804. an Sr durchl:\n\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c. einen Zins Rükstand von 5572 rthl. 12. gg. an Sr Durchl. habe zu fordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt wurde er zu s. Zahlung gelangen würde, er habe deshalb ein Mandat bey Kalischer Regierung bewirkt, welches Sr. d. binnen 14 Tagen die Zahlung auflegt, wundert sich aber, daß diese verstrichen und er nichts erhalten habe. Er droht mit Antrag auf sequestration will abwägerne Sr. durchl. Verdruß ersparen und wünscht fernerhin in gutem Vernehmen zu stehen und glaubt daß die Weihnachten Selittel bringen wurden ihr zu befriedigen.\n\nAntwort.\n\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da Herr v. Triebenfeld dort alles in Ordnung und ins Reine brächta. - d. 27ten Nov. 1804",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 10795,
-   "line_end": 10811,
-   "n_lines": 17,
-   "diplomatic": "der Landes Altesen v. Lichnowski 11. schreibt d. d. 23. No. 1804.\nan So durchl.\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c.\neinen Zins Rükstand von 5572 Rthl 12. gg. an Sr Durchl. habe zu\nfordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt\nwurde er zu s. Zahlung gelangen würde, er habe deshalb ein\nMandat bey Kalischer Regierung bewirbt, welches Sr. d. binnen 14\nTagen die Zahlung auflegt, wundert sich aber, daß diese ver¬\nstrichen und er nichts erhalten habe. Er droht mit Antrag auf\nsequestration will abwägerne Sr. durchl. Verdruß erspa¬\nren und wünscht fernerhin in gutem Vernehmen zu stehen\nund glaubt daß die Weihnachten Selittel bringen wurden\nihr zu befriedigen.\nAntwort.\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da\nHerr v. Triebenfeld dort alles in Ordnung und ins Reine brächta\nd. 27ten Nov. 1804",
-   "transcription": "der Landes Altesen v. Lichnowski 11. schreibt d. d. 23. No. 1804.\nan So durchl.\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c.\neinen Zins Rükstand von 5572 Rthl 12. gg. an Sr Durchl. habe zu\nfordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt\nwurde er zu s. Zahlung gelangen würde, er habe deshalb ein\nMandat bey Kalischer Regierung bewirbt, welches Sr. d. binnen 14\nTagen die Zahlung auflegt, wundert sich aber, daß diese ver-\nstrichen und er nichts erhalten habe. Er droht mit Antrag auf\nsequestration will abwägerne Sr. durchl. Verdruß erspa-\nren und wünscht fernerhin in gutem Vernehmen zu stehen\nund glaubt daß die Weihnachten Selittel bringen wurden\nihr zu befriedigen.\nAntwort.\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da\nHerr v. Triebenfeld dort alles in Ordnung und ins Reine brächta\nd. 27ten Nov. 1804",
-   "reading": "der Landes Altesen v. Lichnowski 11. schreibt d. d. 23. No. 1804. an So durchl.\n\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c. einen Zins Rükstand von 5572 Rthl 12. gg. an Sr Durchl. habe zu fordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt wurde er zu s. Zahlung gelangen würde, er habe deshalb ein Mandat bey Kalischer Regierung bewirbt, welches Sr. d. binnen 14 Tagen die Zahlung auflegt, wundert sich aber, daß diese verstrichen und er nichts erhalten habe. Er droht mit Antrag auf sequestration will abwägerne Sr. durchl. Verdruß ersparen und wünscht fernerhin in gutem Vernehmen zu stehen und glaubt daß die Weihnachten Selittel bringen wurden ihr zu befriedigen.\n\nAntwort.\n\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da Herr v. Triebenfeld dort alles in Ordnung und ins Reine brächta\n\nd. 27ten Nov. 1804",
+   "page_id": "0290_a",
+   "line_start": 10802,
+   "line_end": 10819,
+   "n_lines": 18,
+   "diplomatic": "150\nder Landes Altesten v. Lichnowski: schreibt d. d. 23. Nov. 1804.\nan Sr durchl:\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c.\neinen Zins Rükstand von 5572 rthl. 12. gg. an Sr Durchl. habe zu\nfordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt\nwurde er zu s. Zahlung gelangen würde, er habe deshalb ein\nMandat bey Kalischer Regierung bewirkt, welches Sr. d. binnen 14\nTagen die Zahlung auflegt, wundert sich aber, daß diese ver¬\nstrichen und er nichts erhalten habe. Er droht mit Antrag auf\nsequestration will abwägerne Sr. durchl. Verdruß erspa¬\nren und wünscht fernerhin in gutem Vernehmen zu stehen\nund glaubt daß die Weihnachten Selittel bringen wurden\nihr zu befriedigen.\nAntwort.\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da\nHerr v. Triebenfeld dort alles in Ordnung und ins Reine bräch¬\n ta. - d. 27ten Nov. 1804",
+   "transcription": "150\nder Landes Altesten v. Lichnowski: schreibt d. d. 23. Nov. 1804.\nan Sr durchl:\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c.\neinen Zins Rükstand von 5572 rthl. 12. gg. an Sr Durchl. habe zu\nfordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt\nwurde er zu s. Zahlung gelangen würde, er habe deshalb ein\nMandat bey Kalischer Regierung bewirkt, welches Sr. d. binnen 14\nTagen die Zahlung auflegt, wundert sich aber, daß diese ver-\nstrichen und er nichts erhalten habe. Er droht mit Antrag auf\nsequestration will abwägerne Sr. durchl. Verdruß erspa-\nren und wünscht fernerhin in gutem Vernehmen zu stehen\nund glaubt daß die Weihnachten Selittel bringen wurden\nihr zu befriedigen.\nAntwort.\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da\nHerr v. Triebenfeld dort alles in Ordnung und ins Reine bräch-\n ta. - d. 27ten Nov. 1804",
+   "reading": "150 der Landes Altesten v. Lichnowski: schreibt d. d. 23. Nov. 1804. an Sr durchl:\n\ndaß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c. einen Zins Rükstand von 5572 rthl. 12. gg. an Sr Durchl. habe zu fordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt wurde er zu s. Zahlung gelangen würde, er habe deshalb ein Mandat bey Kalischer Regierung bewirkt, welches Sr. d. binnen 14 Tagen die Zahlung auflegt, wundert sich aber, daß diese verstrichen und er nichts erhalten habe. Er droht mit Antrag auf sequestration will abwägerne Sr. durchl. Verdruß ersparen und wünscht fernerhin in gutem Vernehmen zu stehen und glaubt daß die Weihnachten Selittel bringen wurden ihr zu befriedigen.\n\nAntwort.\n\ndie Pächter hätten nicht gezahlt — er würde befriedigt werden, da Herr v. Triebenfeld dort alles in Ordnung und ins Reine brächta. - d. 27ten Nov. 1804",
    "paragraphs": [
-    "der Landes Altesen v. Lichnowski 11. schreibt d. d. 23. No. 1804. an So durchl.",
-    "daß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c. einen Zins Rükstand von 5572 Rthl 12. gg. an Sr Durchl. habe zu fordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt wurde er zu s. Zahlung gelangen würde, er habe deshalb ein Mandat bey Kalischer Regierung bewirbt, welches Sr. d. binnen 14 Tagen die Zahlung auflegt, wundert sich aber, daß diese verstrichen und er nichts erhalten habe. Er droht mit Antrag auf sequestration will abwägerne Sr. durchl. Verdruß ersparen und wünscht fernerhin in gutem Vernehmen zu stehen und glaubt daß die Weihnachten Selittel bringen wurden ihr zu befriedigen.",
+    "150 der Landes Altesten v. Lichnowski: schreibt d. d. 23. Nov. 1804. an Sr durchl:",
+    "daß er seit anderthalb Jahren vom 4 May 1803. bis 4 Nov. a. c. einen Zins Rükstand von 5572 rthl. 12. gg. an Sr Durchl. habe zu fordern, er hätte geglaubt, daß da Trąbczyn, admiuhträt wurde er zu s. Zahlung gelangen würde, er habe deshalb ein Mandat bey Kalischer Regierung bewirkt, welches Sr. d. binnen 14 Tagen die Zahlung auflegt, wundert sich aber, daß diese verstrichen und er nichts erhalten habe. Er droht mit Antrag auf sequestration will abwägerne Sr. durchl. Verdruß ersparen und wünscht fernerhin in gutem Vernehmen zu stehen und glaubt daß die Weihnachten Selittel bringen wurden ihr zu befriedigen.",
     "Antwort.",
-    "die Pächter hätten nicht gezahlt — er würde befriedigt werden, da Herr v. Triebenfeld dort alles in Ordnung und ins Reine brächta",
-    "d. 27ten Nov. 1804"
+    "die Pächter hätten nicht gezahlt — er würde befriedigt werden, da Herr v. Triebenfeld dort alles in Ordnung und ins Reine brächta. - d. 27ten Nov. 1804"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0290_a-L150_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 18
   }
  ],
  "mentions": [
@@ -63,10 +65,10 @@
    "kind": "person",
    "surface": "Lichnowski",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_a",
    "scan": "Oe_1_Bu_9454_0290_a-L150_01.jpg",
-   "line": 10795,
-   "doc_line": 1
+   "line": 10803,
+   "doc_line": 2
   },
   {
    "entity": "triebenfeld",
@@ -74,46 +76,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_a",
    "scan": "Oe_1_Bu_9454_0290_a-L150_01.jpg",
-   "line": 10810,
-   "doc_line": 16
+   "line": 10818,
+   "doc_line": 17
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "von Lichnowski",
-   "kind": "person",
-   "surface_de": "v. Lichnowski",
-   "surface_en": "von Lichnowski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalischer",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Mr. von Triebenfeld",
-   "kind": "person",
-   "surface_de": "Herr v. Triebenfeld",
-   "surface_en": "Mr. von Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Unknown",
  "place_mentions": [
   {
@@ -122,10 +91,10 @@
    "kind": "place",
    "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_a",
    "scan": "Oe_1_Bu_9454_0290_a-L150_01.jpg",
-   "line": 10799,
-   "doc_line": 5
+   "line": 10807,
+   "doc_line": 6
   },
   {
    "entity": "kalisz",
@@ -133,55 +102,15 @@
    "kind": "place",
    "surface": "Kalischer",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_a",
    "scan": "Oe_1_Bu_9454_0290_a-L150_01.jpg",
-   "line": 10801,
-   "doc_line": 7
+   "line": 10809,
+   "doc_line": 8
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "The provincial elder von Lichnowski 11. writes, dated 23 Nov. 1804, to His Serene Highness\n\nthat for a year and a half, from 4 May 1803 until 4 Nov. of this year, he has an arrears of interest of 5572 Rthl 12 Groschen to demand from His Serene Highness; he had believed that, since Trąbczyn was being administered, he would obtain his payment; he had therefore procured a mandate from the government at Kalisz, which imposes payment upon His Serene Highness within 14 days, but he is astonished that these have elapsed and that he has received nothing. He threatens to move for sequestration, wishes [uncertain: abwägerne] to spare His Serene Highness vexation, and desires to continue on good terms, and believes that Christmas would bring the means to satisfy him.\n\nReply.\n\nthe tenants had not paid — he would be satisfied, since Mr. von Triebenfeld was there putting everything in order and settling it\n\n27 Nov. 1804",
-   "names": [
-    {
-     "de": "v. Lichnowski",
-     "en": "von Lichnowski",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Kalischer",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Herr v. Triebenfeld",
-     "en": "Mr. von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "11",
-    "23",
-    "1804",
-    "4",
-    "1803",
-    "4",
-    "5572",
-    "12",
-    "14",
-    "27",
-    "1804"
-   ]
-  }
- ],
- "text_english": "The provincial elder von Lichnowski 11. writes, dated 23 Nov. 1804, to His Serene Highness\n\nthat for a year and a half, from 4 May 1803 until 4 Nov. of this year, he has an arrears of interest of 5572 Rthl 12 Groschen to demand from His Serene Highness; he had believed that, since Trąbczyn was being administered, he would obtain his payment; he had therefore procured a mandate from the government at Kalisz, which imposes payment upon His Serene Highness within 14 days, but he is astonished that these have elapsed and that he has received nothing. He threatens to move for sequestration, wishes [uncertain: abwägerne] to spare His Serene Highness vexation, and desires to continue on good terms, and believes that Christmas would bring the means to satisfy him.\n\nReply.\n\nthe tenants had not paid — he would be satisfied, since Mr. von Triebenfeld was there putting everything in order and settling it\n\n27 Nov. 1804",
- "summary_en": "A note of a creditor's demand and the answer sent: the provincial elder von Lichnowski claims 5,572 Rthl 12 Groschen in interest arrears for the eighteen months from 4 May 1803 to 4 November 1804, reports that he obtained a mandate from the government at Kalisz ordering payment within fourteen days, and, nothing having come, threatens to apply for sequestration while professing goodwill and hoping for settlement by Christmas. The reply blames non-paying tenants and points to von Triebenfeld's presence.",
- "summary_de": "Auszug eines Schreibens des Landesältesten von Lichnowski, der für die Zeit vom 4. Mai 1803 bis 4. November 1804 Zinsrückstände von 5572 Rthl 12 Groschen fordert. Er habe bei der Regierung in Kalisch ein Mandat erwirkt, das Zahlung binnen 14 Tagen auferlegt; da diese fruchtlos verstrichen sind, droht er mit Sequestration, will aber Verdruss vermeiden und hofft auf Befriedigung zu Weihnachten. Vermerkt ist die Antwort vom 27. November 1804: die Pächter hätten nicht gezahlt, Herr von Triebenfeld ordne alles vor Ort."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

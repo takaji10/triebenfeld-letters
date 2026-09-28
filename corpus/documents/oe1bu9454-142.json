@@ -1,6 +1,6 @@
 {
  "letter_id": "142",
- "seq_archival": 154,
+ "seq_archival": 153,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-142",
@@ -18,60 +18,64 @@
  "month": 9,
  "day": 12,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+ "sender": "",
+ "recipient": "",
  "line_start": 10425,
- "line_end": 10459,
- "uncertainty_count": 0,
+ "line_end": 10460,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "betsche"
+ ],
  "is_missing": 0,
- "n_lines": 34,
+ "n_lines": 33,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst,\nGnädigster Fürst und Herr\nMeine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sophia hüte\nmuß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und\nmit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält\nmich sehr schwer.\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. ver-\nmuthlich ist sein weise Geld all. Ich lies daher Glenck bitten, daß er\ndoch zu mich kommen und die Papiere, oder eigentlich die vorschie¬\ndene Pacht und Vergleichs Contracte welche mit Bornstädt geschloßen\nworden ausbringen mögte. Auf mein artiges Ansuchen erhalten\nich beigehendes Scopptisches Billet.\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut\ndie Sache muß abgemacht werden, den man schlägt hierdurch den\nFeind auf 3 Seiten\nMeine unterthänige Bitte ist, daß Ewr durchlaucht dHr. Glenck\nbefehlen mir die Contracte Vergleiche und Berechnungen welche\nmit Bornſtädt verhandelt ſind zu ſchicke. Sodann\ndaß Ewr Durchlaucht nur durch ein paar Zeilen sagen\nDaß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu\nmachen Bornstadten 5000 Rthl geben wollen.\n\nNach des Brauns Gutachten muß er, ohne daß ihm versprochene Hono¬\nrarium in dem Betscher Kaufs Geschäft, 7500 Rthl haben. Wann\nmann also mit 5000 Rthl überall wegkommen mögte, so machte man\nnon solides fude.\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst\nJahren die piecen vorlegen.\nEhrfurchtsvoll ersterbe ich als\nEwr Hochfürstliche Durchlaucht\nBreslau den 12. 7br. 1804.\ntreu unterthänigster Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst,\n\nGnädigster Fürst und Herr Meine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sophia hüte muß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und mit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält mich sehr schwer.\n\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. vermuthlich ist sein weise Geld all. Ich lies daher Glenck bitten, daß er doch zu mich kommen und die Papiere, oder eigentlich die vorschiedene Pacht und Vergleichs Contracte welche mit Bornstädt geschloßen worden ausbringen mögte. Auf mein artiges Ansuchen erhalten ich beigehendes Scopptisches Billet.\n\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut die Sache muß abgemacht werden, den man schlägt hierdurch den Feind auf 3 Seiten Meine unterthänige Bitte ist, daß Ewr durchlaucht dHr. Glenck befehlen mir die Contracte Vergleiche und Berechnungen welche mit Bornſtädt verhandelt ſind zu ſchicke. Sodann daß Ewr Durchlaucht nur durch ein paar Zeilen sagen Daß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu machen Bornstadten 5000 Rthl geben wollen.\n\nNach des Brauns Gutachten muß er, ohne daß ihm versprochene Honorarium in dem Betscher Kaufs Geschäft, 7500 Rthl haben. Wann mann also mit 5000 Rthl überall wegkommen mögte, so machte man non solides fude.\n\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst Jahren die piecen vorlegen. Ehrfurchtsvoll ersterbe ich als Ewr Hochfürstliche Durchlaucht Breslau den 12. 7br. 1804. treu unterthänigster Diener v Triebenfeld",
+ "text": "142\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nMeine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sopha hüte\nmuß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und\nmit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält\nmich sehr schwer.\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. ver¬\nmuthlich ist sein Reise Geld all. Ich lies daher Glenck bitten, daß er\ndoch zu mich kommen und die Papiere, oder eigentlich die verschie¬\ndene Pacht und Vergleichs Contracte welche mit Bornstadt geschloßen\nworden ausbringen mögte. Auf mein artiges Ansuchen erhalten\nich beigehendes Scopptisches[?] Billet.\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut\ndie Sache muß abgemacht werden, den man schlägt hierdurch den\nFeind auf 3 Seiten\nMeine unterthänige Bitte ist, daß Ewr durchlaucht dHr. p Glenck\nbefehlen mir die Contracte Vergleiche und Berechnungen welche\nmit Bornſtädt verhandelt ſind zu ſchicke. Sodann\ndaß Ewr Durchlaucht nur durch ein paar Zeilen sagen\nDaß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu\nmachen Bornstadten 5000 rt geben wollen.\nNach des Brauns Gutachten muß er, ohne daß ihm versprochene Hono¬\nrarium in dem Betscher Kaufs Geschäft, 7500 rt. haben. Wann\nmann also mit 5000 rt überall wegkommen mögte, so machte man\nnon solides fude.\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst\nJahren die piecen vorlegen.\nEhrfurchtsvoll ersterbe ich als\nEwr Hochfürstliche Durchlaucht\nBreslau den 12. 7br. 1804.\ntreu unterthänigster Diener\nv Triebenfeld",
+ "text_reading": "142\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr Meine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sopha hüte muß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und mit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält mich sehr schwer.\n\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. vermuthlich ist sein Reise Geld all. Ich lies daher Glenck bitten, daß er doch zu mich kommen und die Papiere, oder eigentlich die verschiedene Pacht und Vergleichs Contracte welche mit Bornstadt geschloßen worden ausbringen mögte. Auf mein artiges Ansuchen erhalten ich beigehendes Scopptisches[?] Billet.\n\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut die Sache muß abgemacht werden, den man schlägt hierdurch den Feind auf 3 Seiten Meine unterthänige Bitte ist, daß Ewr durchlaucht dHr. p Glenck befehlen mir die Contracte Vergleiche und Berechnungen welche mit Bornſtädt verhandelt ſind zu ſchicke. Sodann daß Ewr Durchlaucht nur durch ein paar Zeilen sagen Daß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu machen Bornstadten 5000 rt geben wollen.\n\nNach des Brauns Gutachten muß er, ohne daß ihm versprochene Honorarium in dem Betscher Kaufs Geschäft, 7500 rt. haben. Wann mann also mit 5000 rt überall wegkommen mögte, so machte man non solides fude.\n\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst Jahren die piecen vorlegen. Ehrfurchtsvoll ersterbe ich als Ewr Hochfürstliche Durchlaucht Breslau den 12. 7br. 1804. treu unterthänigster Diener v Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 10426,
-   "line_end": 10446,
-   "n_lines": 21,
-   "diplomatic": "Durchlauchtigster Fürst,\nGnädigster Fürst und Herr\nMeine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sophia hüte\nmuß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und\nmit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält\nmich sehr schwer.\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. ver-\nmuthlich ist sein weise Geld all. Ich lies daher Glenck bitten, daß er\ndoch zu mich kommen und die Papiere, oder eigentlich die vorschie¬\ndene Pacht und Vergleichs Contracte welche mit Bornstädt geschloßen\nworden ausbringen mögte. Auf mein artiges Ansuchen erhalten\nich beigehendes Scopptisches Billet.\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut\ndie Sache muß abgemacht werden, den man schlägt hierdurch den\nFeind auf 3 Seiten\nMeine unterthänige Bitte ist, daß Ewr durchlaucht dHr. Glenck\nbefehlen mir die Contracte Vergleiche und Berechnungen welche\nmit Bornſtädt verhandelt ſind zu ſchicke. Sodann\ndaß Ewr Durchlaucht nur durch ein paar Zeilen sagen\nDaß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu\nmachen Bornstadten 5000 Rthl geben wollen.",
-   "transcription": "Durchlauchtigster Fürst,\nGnädigster Fürst und Herr\nMeine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sophia hüte\nmuß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und\nmit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält\nmich sehr schwer.\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. ver-\nmuthlich ist sein weise Geld all. Ich lies daher Glenck bitten, daß er\ndoch zu mich kommen und die Papiere, oder eigentlich die vorschie-\ndene Pacht und Vergleichs Contracte welche mit Bornstädt geschloßen\nworden ausbringen mögte. Auf mein artiges Ansuchen erhalten\nich beigehendes Scopptisches Billet.\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut\ndie Sache muß abgemacht werden, den man schlägt hierdurch den\nFeind auf 3 Seiten\nMeine unterthänige Bitte ist, daß Ewr durchlaucht dHr. Glenck\nbefehlen mir die Contracte Vergleiche und Berechnungen welche\nmit Bornſtädt verhandelt ſind zu ſchicke. Sodann\ndaß Ewr Durchlaucht nur durch ein paar Zeilen sagen\nDaß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu\nmachen Bornstadten 5000 Rthl geben wollen.",
-   "reading": "Durchlauchtigster Fürst,\n\nGnädigster Fürst und Herr Meine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sophia hüte muß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und mit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält mich sehr schwer.\n\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. vermuthlich ist sein weise Geld all. Ich lies daher Glenck bitten, daß er doch zu mich kommen und die Papiere, oder eigentlich die vorschiedene Pacht und Vergleichs Contracte welche mit Bornstädt geschloßen worden ausbringen mögte. Auf mein artiges Ansuchen erhalten ich beigehendes Scopptisches Billet.\n\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut die Sache muß abgemacht werden, den man schlägt hierdurch den Feind auf 3 Seiten Meine unterthänige Bitte ist, daß Ewr durchlaucht dHr. Glenck befehlen mir die Contracte Vergleiche und Berechnungen welche mit Bornſtädt verhandelt ſind zu ſchicke. Sodann daß Ewr Durchlaucht nur durch ein paar Zeilen sagen Daß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu machen Bornstadten 5000 Rthl geben wollen.",
+   "page_id": "0279_a2",
+   "line_start": 10427,
+   "line_end": 10448,
+   "n_lines": 22,
+   "diplomatic": "142\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nMeine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sopha hüte\nmuß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und\nmit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält\nmich sehr schwer.\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. ver¬\nmuthlich ist sein Reise Geld all. Ich lies daher Glenck bitten, daß er\ndoch zu mich kommen und die Papiere, oder eigentlich die verschie¬\ndene Pacht und Vergleichs Contracte welche mit Bornstadt geschloßen\nworden ausbringen mögte. Auf mein artiges Ansuchen erhalten\nich beigehendes Scopptisches[?] Billet.\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut\ndie Sache muß abgemacht werden, den man schlägt hierdurch den\nFeind auf 3 Seiten\nMeine unterthänige Bitte ist, daß Ewr durchlaucht dHr. p Glenck\nbefehlen mir die Contracte Vergleiche und Berechnungen welche\nmit Bornſtädt verhandelt ſind zu ſchicke. Sodann\ndaß Ewr Durchlaucht nur durch ein paar Zeilen sagen\nDaß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu\nmachen Bornstadten 5000 rt geben wollen.",
+   "transcription": "142\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nMeine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sopha hüte\nmuß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und\nmit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält\nmich sehr schwer.\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. ver-\nmuthlich ist sein Reise Geld all. Ich lies daher Glenck bitten, daß er\ndoch zu mich kommen und die Papiere, oder eigentlich die verschie-\ndene Pacht und Vergleichs Contracte welche mit Bornstadt geschloßen\nworden ausbringen mögte. Auf mein artiges Ansuchen erhalten\nich beigehendes Scopptisches[?] Billet.\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut\ndie Sache muß abgemacht werden, den man schlägt hierdurch den\nFeind auf 3 Seiten\nMeine unterthänige Bitte ist, daß Ewr durchlaucht dHr. p Glenck\nbefehlen mir die Contracte Vergleiche und Berechnungen welche\nmit Bornſtädt verhandelt ſind zu ſchicke. Sodann\ndaß Ewr Durchlaucht nur durch ein paar Zeilen sagen\nDaß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu\nmachen Bornstadten 5000 rt geben wollen.",
+   "reading": "142\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr Meine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sopha hüte muß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und mit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält mich sehr schwer.\n\nZu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. vermuthlich ist sein Reise Geld all. Ich lies daher Glenck bitten, daß er doch zu mich kommen und die Papiere, oder eigentlich die verschiedene Pacht und Vergleichs Contracte welche mit Bornstadt geschloßen worden ausbringen mögte. Auf mein artiges Ansuchen erhalten ich beigehendes Scopptisches[?] Billet.\n\nden Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut die Sache muß abgemacht werden, den man schlägt hierdurch den Feind auf 3 Seiten Meine unterthänige Bitte ist, daß Ewr durchlaucht dHr. p Glenck befehlen mir die Contracte Vergleiche und Berechnungen welche mit Bornſtädt verhandelt ſind zu ſchicke. Sodann daß Ewr Durchlaucht nur durch ein paar Zeilen sagen Daß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu machen Bornstadten 5000 rt geben wollen.",
    "paragraphs": [
-    "Durchlauchtigster Fürst,",
-    "Gnädigster Fürst und Herr Meine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sophia hüte muß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und mit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält mich sehr schwer.",
-    "Zu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. vermuthlich ist sein weise Geld all. Ich lies daher Glenck bitten, daß er doch zu mich kommen und die Papiere, oder eigentlich die vorschiedene Pacht und Vergleichs Contracte welche mit Bornstädt geschloßen worden ausbringen mögte. Auf mein artiges Ansuchen erhalten ich beigehendes Scopptisches Billet.",
-    "den Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut die Sache muß abgemacht werden, den man schlägt hierdurch den Feind auf 3 Seiten Meine unterthänige Bitte ist, daß Ewr durchlaucht dHr. Glenck befehlen mir die Contracte Vergleiche und Berechnungen welche mit Bornſtädt verhandelt ſind zu ſchicke. Sodann daß Ewr Durchlaucht nur durch ein paar Zeilen sagen Daß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu machen Bornstadten 5000 Rthl geben wollen."
+    "142",
+    "Durchlauchtigster Fürst",
+    "Gnädigster Fürst und Herr Meine Krankheit iſt ſo hartnäckig, daß ich forthin das Bette oder Sopha hüte muß um das halb kan ich mich Ewr Durchlaucht nicht zu füßen legen und mit höchst dieselben über die Geschäfte sprechen; ſelbſt das Schreiben fält mich sehr schwer.",
+    "Zu beiliegendes Schreiben sagt Bornstadt, daß er abreisen will. vermuthlich ist sein Reise Geld all. Ich lies daher Glenck bitten, daß er doch zu mich kommen und die Papiere, oder eigentlich die verschiedene Pacht und Vergleichs Contracte welche mit Bornstadt geschloßen worden ausbringen mögte. Auf mein artiges Ansuchen erhalten ich beigehendes Scopptisches[?] Billet.",
+    "den Menschen ohne die Sachen abzumachen reisen laßen ist nicht gut die Sache muß abgemacht werden, den man schlägt hierdurch den Feind auf 3 Seiten Meine unterthänige Bitte ist, daß Ewr durchlaucht dHr. p Glenck befehlen mir die Contracte Vergleiche und Berechnungen welche mit Bornſtädt verhandelt ſind zu ſchicke. Sodann daß Ewr Durchlaucht nur durch ein paar Zeilen sagen Daß höchst Sie aus beſonderer Gnade um allen Hand ein Ende zu machen Bornstadten 5000 rt geben wollen."
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 21
+   "doc_line_end": 22
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 10448,
-   "line_end": 10458,
+   "page_id": "0280_a1",
+   "line_start": 10450,
+   "line_end": 10460,
    "n_lines": 11,
-   "diplomatic": "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Hono¬\nrarium in dem Betscher Kaufs Geschäft, 7500 Rthl haben. Wann\nmann also mit 5000 Rthl überall wegkommen mögte, so machte man\nnon solides fude.\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst\nJahren die piecen vorlegen.\nEhrfurchtsvoll ersterbe ich als\nEwr Hochfürstliche Durchlaucht\nBreslau den 12. 7br. 1804.\ntreu unterthänigster Diener\nv Triebenfeld",
-   "transcription": "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Hono-\nrarium in dem Betscher Kaufs Geschäft, 7500 Rthl haben. Wann\nmann also mit 5000 Rthl überall wegkommen mögte, so machte man\nnon solides fude.\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst\nJahren die piecen vorlegen.\nEhrfurchtsvoll ersterbe ich als\nEwr Hochfürstliche Durchlaucht\nBreslau den 12. 7br. 1804.\ntreu unterthänigster Diener\nv Triebenfeld",
-   "reading": "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Honorarium in dem Betscher Kaufs Geschäft, 7500 Rthl haben. Wann mann also mit 5000 Rthl überall wegkommen mögte, so machte man non solides fude.\n\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst Jahren die piecen vorlegen. Ehrfurchtsvoll ersterbe ich als Ewr Hochfürstliche Durchlaucht Breslau den 12. 7br. 1804. treu unterthänigster Diener v Triebenfeld",
+   "diplomatic": "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Hono¬\nrarium in dem Betscher Kaufs Geschäft, 7500 rt. haben. Wann\nmann also mit 5000 rt überall wegkommen mögte, so machte man\nnon solides fude.\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst\nJahren die piecen vorlegen.\nEhrfurchtsvoll ersterbe ich als\nEwr Hochfürstliche Durchlaucht\nBreslau den 12. 7br. 1804.\ntreu unterthänigster Diener\nv Triebenfeld",
+   "transcription": "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Hono-\nrarium in dem Betscher Kaufs Geschäft, 7500 rt. haben. Wann\nmann also mit 5000 rt überall wegkommen mögte, so machte man\nnon solides fude.\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst\nJahren die piecen vorlegen.\nEhrfurchtsvoll ersterbe ich als\nEwr Hochfürstliche Durchlaucht\nBreslau den 12. 7br. 1804.\ntreu unterthänigster Diener\nv Triebenfeld",
+   "reading": "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Honorarium in dem Betscher Kaufs Geschäft, 7500 rt. haben. Wann mann also mit 5000 rt überall wegkommen mögte, so machte man non solides fude.\n\nWann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst Jahren die piecen vorlegen. Ehrfurchtsvoll ersterbe ich als Ewr Hochfürstliche Durchlaucht Breslau den 12. 7br. 1804. treu unterthänigster Diener v Triebenfeld",
    "paragraphs": [
-    "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Honorarium in dem Betscher Kaufs Geschäft, 7500 Rthl haben. Wann mann also mit 5000 Rthl überall wegkommen mögte, so machte man non solides fude.",
+    "Nach des Brauns Gutachten muß er, ohne daß ihm versprochene Honorarium in dem Betscher Kaufs Geschäft, 7500 rt. haben. Wann mann also mit 5000 rt überall wegkommen mögte, so machte man non solides fude.",
     "Wann Ewr Hochfürstliche Durchlaucht zu mir kommen werde ich Höchst Jahren die piecen vorlegen. Ehrfurchtsvoll ersterbe ich als Ewr Hochfürstliche Durchlaucht Breslau den 12. 7br. 1804. treu unterthänigster Diener v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0280_a1-L142_02.jpg",
-   "doc_line_start": 22,
-   "doc_line_end": 32
+   "doc_line_start": 23,
+   "doc_line_end": 33
   }
  ],
  "mentions": [
@@ -81,10 +85,10 @@
    "kind": "person",
    "surface": "Born",
    "page": 1,
-   "page_id": "",
+   "page_id": "0279_a2",
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10432,
-   "doc_line": 7
+   "line": 10434,
+   "doc_line": 8
   },
   {
    "entity": "glenck",
@@ -92,10 +96,10 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 1,
-   "page_id": "",
+   "page_id": "0279_a2",
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10433,
-   "doc_line": 8
+   "line": 10435,
+   "doc_line": 9
   },
   {
    "entity": "born",
@@ -103,32 +107,43 @@
    "kind": "person",
    "surface": "Born",
    "page": 1,
-   "page_id": "",
+   "page_id": "0279_a2",
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10435,
-   "doc_line": 10
+   "line": 10437,
+   "doc_line": 11
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface": "Glenck",
+   "page": 1,
+   "page_id": "0279_a2",
+   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
+   "line": 10443,
+   "doc_line": 17
+  },
+  {
+   "entity": "born",
+   "display": "Born",
+   "kind": "person",
+   "surface": "Born",
+   "page": 1,
+   "page_id": "0279_a2",
+   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
+   "line": 10445,
+   "doc_line": 19
   },
   {
    "entity": "bornstaedt",
    "display": "Bornstädt",
    "kind": "person",
-   "surface": "Bornstädt",
+   "surface": "Bornſtädt",
    "page": 1,
-   "page_id": "",
+   "page_id": "0279_a2",
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10435,
-   "doc_line": 10
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface": "Glenck",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10441,
-   "doc_line": 16
+   "line": 10445,
+   "doc_line": 19
   },
   {
    "entity": "born",
@@ -136,21 +151,10 @@
    "kind": "person",
    "surface": "Born",
    "page": 1,
-   "page_id": "",
+   "page_id": "0279_a2",
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10443,
-   "doc_line": 18
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10446,
-   "doc_line": 21
+   "line": 10448,
+   "doc_line": 22
   },
   {
    "entity": "triebenfeld",
@@ -158,94 +162,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0280_a1",
    "scan": "Oe_1_Bu_9454_0280_a1-L142_02.jpg",
-   "line": 10458,
-   "doc_line": 32
+   "line": 10460,
+   "doc_line": 33
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Bornstädt",
-   "kind": "person",
-   "surface_de": "Bornstadt",
-   "surface_en": "Bornstädt",
-   "page": 1
-  },
-  {
-   "entity": "bornstaedt",
-   "display": "Bornstädt",
-   "kind": "person",
-   "surface_de": "Bornstädt",
-   "surface_en": "Bornstädt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Bornstädt",
-   "kind": "person",
-   "surface_de": "Bornſtädt",
-   "surface_en": "Bornstädt",
-   "page": 1
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Scopptisch",
-   "kind": "other",
-   "surface_de": "Scopptisches",
-   "surface_en": "Scopptisch",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Bornstädt",
-   "kind": "person",
-   "surface_de": "Bornstadten",
-   "surface_en": "Bornstädt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Braun's",
-   "kind": "person",
-   "surface_de": "Brauns",
-   "surface_en": "Braun's",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Betsche",
-   "kind": "place",
-   "surface_de": "Betscher",
-   "surface_en": "Betsche",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -254,10 +177,10 @@
    "kind": "place",
    "surface": "Betscher",
    "page": 2,
-   "page_id": "",
+   "page_id": "0280_a1",
    "scan": "Oe_1_Bu_9454_0280_a1-L142_02.jpg",
-   "line": 10449,
-   "doc_line": 23
+   "line": 10451,
+   "doc_line": 24
   },
   {
    "entity": "breslau",
@@ -265,89 +188,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
-   "page_id": "",
+   "page_id": "0280_a1",
    "scan": "Oe_1_Bu_9454_0280_a1-L142_02.jpg",
-   "line": 10456,
-   "doc_line": 30
+   "line": 10458,
+   "doc_line": 31
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord, My illness is so obstinate that henceforth I must keep to my bed or to the sofa; because of that I cannot lay myself at Your Serene Highness's feet and speak with the same most highly about the business; even writing comes very hard to me.\n\nIn the enclosed letter Bornstädt says that he wishes to depart. Presumably his wise money is all [gone]. I therefore had Glenck asked whether he might not come to me and bring out the papers, or properly speaking the various lease and settlement contracts which have been concluded with Bornstädt. In answer to my civil request I received the accompanying Scopptisch note.\n\nTo let the man travel off without settling the matters is not good; the matter must be settled, for by this means one strikes the enemy on 3 sides. My humble petition is that Your Serene Highness command Mr. Glenck to send me the contracts, settlements and accounts which have been negotiated with Bornstädt. And then that Your Serene Highness should say, in but a couple of lines, that the same most highly, out of especial grace and in order to make an end of everything, is willing to give Bornstädt 5000 Rthl.",
-   "names": [
-    {
-     "de": "Bornstadt",
-     "en": "Bornstädt",
-     "kind": "person"
-    },
-    {
-     "de": "Bornstädt",
-     "en": "Bornstädt",
-     "kind": "person"
-    },
-    {
-     "de": "Bornſtädt",
-     "en": "Bornstädt",
-     "kind": "person"
-    },
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Scopptisches",
-     "en": "Scopptisch",
-     "kind": "other"
-    },
-    {
-     "de": "Bornstadten",
-     "en": "Bornstädt",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "3",
-    "5000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "According to Braun's opinion he must have 7500 Rthl, without the honorarium promised to him in the Betsche purchase business. If therefore one could get clear of everything with 5000 Rthl, one would be making [uncertain: non solides fude].\n\nWhen Your Most Serene Highness comes to me I shall lay the pieces before the same most highly. In deepest reverence I remain, until death, Your Most Serene Highness's Breslau, the 12th September 1804. faithful most humble and obedient servant v. Triebenfeld",
-   "names": [
-    {
-     "de": "Brauns",
-     "en": "Braun's",
-     "kind": "person"
-    },
-    {
-     "de": "Betscher",
-     "en": "Betsche",
-     "kind": "place"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "7500",
-    "5000",
-    "12",
-    "7br.",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord, My illness is so obstinate that henceforth I must keep to my bed or to the sofa; because of that I cannot lay myself at Your Serene Highness's feet and speak with the same most highly about the business; even writing comes very hard to me.\n\nIn the enclosed letter Bornstädt says that he wishes to depart. Presumably his wise money is all [gone]. I therefore had Glenck asked whether he might not come to me and bring out the papers, or properly speaking the various lease and settlement contracts which have been concluded with Bornstädt. In answer to my civil request I received the accompanying Scopptisch note.\n\nTo let the man travel off without settling the matters is not good; the matter must be settled, for by this means one strikes the enemy on 3 sides. My humble petition is that Your Serene Highness command Mr. Glenck to send me the contracts, settlements and accounts which have been negotiated with Bornstädt. And then that Your Serene Highness should say, in but a couple of lines, that the same most highly, out of especial grace and in order to make an end of everything, is willing to give Bornstädt 5000 Rthl.\n\nAccording to Braun's opinion he must have 7500 Rthl, without the honorarium promised to him in the Betsche purchase business. If therefore one could get clear of everything with 5000 Rthl, one would be making [uncertain: non solides fude].\n\nWhen Your Most Serene Highness comes to me I shall lay the pieces before the same most highly. In deepest reverence I remain, until death, Your Most Serene Highness's Breslau, the 12th September 1804. faithful most humble and obedient servant v. Triebenfeld",
- "summary_en": "Confined to bed by illness and barely able to write, Triebenfeld reports that Bornstädt intends to leave, probably out of money, and urges that his claims be settled before he goes. He asks the Prince to order Glenck, who answered his civil request with a curt note, to hand over the lease and settlement contracts and accounts made with Bornstädt, and to offer 5,000 Rthl as a final settlement, against Braun's estimate of 7,500 Rthl plus the honorarium promised in the Betsche purchase.",
- "summary_de": "Bettlägerig wegen anhaltender Krankheit, bittet Triebenfeld den Fürsten, Glenck die mit Bornstädt geschlossenen Pacht- und Ansiedlungsverträge, Abrechnungen und Vergleiche herauszugeben; auf eine höfliche Anfrage habe er nur eine schnöde Notiz erhalten. Da Bornstädt abreisen wolle und sein Geld wohl aufgezehrt sei, solle der Fürst in wenigen Zeilen 5000 Rthl zur Beilegung aller Sachen zusagen; nach Brauns Meinung stünden Bornstädt 7500 Rthl zu, ohne das im Betsche-Kauf versprochene Honorar. Beilagen: Bornstädts Brief und Glencks Notiz."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

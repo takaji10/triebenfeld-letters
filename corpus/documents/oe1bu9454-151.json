@@ -1,6 +1,6 @@
 {
  "letter_id": "151",
- "seq_archival": 163,
+ "seq_archival": 162,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-151",
@@ -18,79 +18,87 @@
  "month": 12,
  "day": 7,
  "place": "Trąbczyn",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 10813,
- "line_end": 10880,
+ "sender": "",
+ "recipient": "",
+ "line_start": 10820,
+ "line_end": 10887,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn",
+  "drzewce",
+  "gradzyn",
+  "swiecia",
+  "wrabczyn",
+  "olesnica"
+ ],
  "is_missing": 0,
- "n_lines": 67,
+ "n_lines": 64,
  "n_pages": 3,
- "text": "Durchlauchtigster Fürst\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr\nhabe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß\nHöchstdieselben an den Herrn v Nothardt einen so ächten Freund haben.\ndurch den man vieles Gute bewürken wird können. Daß er Director\nwerden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir un-\nbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen\nmacht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem\nHimmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt¬\nMir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen\nalle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczin und\nwollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen\nund alles Gutes thun damit ich sie bey guter Laune erhalte - Indes\nkan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor\ngenommen werden. Ein hundert Hufen Grądziner und Drzewitzer Wald\nverkaufe ich für gern Zins. Dies beträgt 3000 Rthl Zinſen und folglich\n60000 Rthl Capital. Die im Fall ich lezteres nicht thun so bleiben mir\ndie schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\nbesonders\n\nbesonders da sich solche schreckliche Ausfälle zeigen.\nden Suvigria bringt statt 1800 Rthl Zinsen nur überhaupt 918 Rthl\nWrąbczyn statt 1500 Rthl nur\n1123.\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich\nmuß daher auf künstliche fonds denken damit ein der Sache angemeßener\nWerth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um\nhier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt\nSchulden bezahlt werden können.\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen\nals es aber zum examiniren der Leute kam, wodurch die Revenien\nbewiesen werden solten, so deferirte alles so sehr, daß wir die\nganze Taxa umändern müßen.\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die\nOlesnicer auf Weinachten zahlen sollen mit arret belegt, so daß\nman daher nur etwan 6000 Rthl zu erhalten haben wird.\nMilt den Wrgberinern muß ich sehr behutsam umgehen, den wie\nmir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen\nwann würcklich kein Schnee läge, so würde es doch sehr undienlich\nsein jezt mit der Ausmeßung der Länderung vorzuschreiten\nInzwischen bleibt bey Wrgberin für Ewr Durchlaucht nichts übrig, und das\nschöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den\nFlächen Inhalt, wann der Morgen A 1 Rthl gerechnet wäre 2958 Rthl betrage, sollen.\n\nDies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen\nwerde keinen Morgen unter 1 Rthl zinsen so schlecht das Land auch sein\nmag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche\nnichts unter 300 Rthl baar Geld und jährl 15 Rthl Zinsen weg, dafür hafte ich\nwäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht\nschon fertig sein, so aber muß ich Gott walten laßen, und mir auf\nanfertigung der Taxa halten.\nDie Zinsen an Lignowschen werden hier bezahlt — Ewr Durchlaucht\nerhalten dennoch von hier circa 8000 Rthl zu weinachten\nFür die Schlabrendorff und dem Lichnowski muß ich die Capitalia\naus Berlin hohlen, die alsdann wan die Mennonisten zahlen\nwieder abgeführt werden können.\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten\nein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten.\nIn tiefſter Hochachtung erſterbe als\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nTrąbczin\nden 7ten Decbr.\nv Triebenfeld\n1804",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr habe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß Höchstdieselben an den Herrn v Nothardt einen so ächten Freund haben. durch den man vieles Gute bewürken wird können. Daß er Director werden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir unbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen macht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem Himmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt Mir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen alle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczin und wollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen und alles Gutes thun damit ich sie bey guter Laune erhalte - Indes kan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor genommen werden. Ein hundert Hufen Grądziner und Drzewitzer Wald verkaufe ich für gern Zins. Dies beträgt 3000 Rthl Zinſen und folglich 60000 Rthl Capital. Die im Fall ich lezteres nicht thun so bleiben mir die schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\n\nbesonders da sich solche schreckliche Ausfälle zeigen. den Suvigria bringt statt 1800 Rthl Zinsen nur überhaupt 918 Rthl Wrąbczyn statt 1500 Rthl nur\n\n1123.\n\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich muß daher auf künstliche fonds denken damit ein der Sache angemeßener Werth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um hier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt Schulden bezahlt werden können.\n\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen als es aber zum examiniren der Leute kam, wodurch die Revenien bewiesen werden solten, so deferirte alles so sehr, daß wir die ganze Taxa umändern müßen.\n\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die Olesnicer auf Weinachten zahlen sollen mit arret belegt, so daß man daher nur etwan 6000 Rthl zu erhalten haben wird. Milt den Wrgberinern muß ich sehr behutsam umgehen, den wie mir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen wann würcklich kein Schnee läge, so würde es doch sehr undienlich sein jezt mit der Ausmeßung der Länderung vorzuschreiten Inzwischen bleibt bey Wrgberin für Ewr Durchlaucht nichts übrig, und das schöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den Flächen Inhalt, wann der Morgen A 1 Rthl gerechnet wäre 2958 Rthl betrage, sollen.\n\nDies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen werde keinen Morgen unter 1 Rthl zinsen so schlecht das Land auch sein mag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche nichts unter 300 Rthl baar Geld und jährl 15 Rthl Zinsen weg, dafür hafte ich wäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht schon fertig sein, so aber muß ich Gott walten laßen, und mir auf anfertigung der Taxa halten.\n\nDie Zinsen an Lignowschen werden hier bezahlt — Ewr Durchlaucht erhalten dennoch von hier circa 8000 Rthl zu weinachten Für die Schlabrendorff und dem Lichnowski muß ich die Capitalia aus Berlin hohlen, die alsdann wan die Mennonisten zahlen wieder abgeführt werden können.\n\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten ein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten. In tiefſter Hochachtung erſterbe als\n\nEwr Hochfürstliche Durchlaucht\n\nunterthänigster Diener\n\nTrąbczin\n\nden 7ten Decbr.\n\nv Triebenfeld\n\n1804",
+ "text": "151\nDurchlauchtigster Fürst\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr\nhabe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß\nHöchstdieselben an den Herrn v Nothardt einen so ächten Freund haben.\ndurch den man vieles Gute bewürken wird können. Daß er Director\nwerden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir un¬\nbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen\nmacht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem\nHimmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt -\nMir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen\nalle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczyn und\nwollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen\nund alles Gutes thun damit ich sie bey guter Laune erhalte - Indes\nkan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor\ngenommen werden. Ein hundert Hufen Grądzyner und Drzewitzer Wald\nverkaufe ich für gern Zins. Dies beträgt 3000 rt Zinſen und folglich\n60000 rt Capital. Die im Fall ich lezteres nicht thun so bleiben mir\ndie schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\nbesonders\nbesonders da sich solche schreckliche Ausfälle zeigen.\nden Swięcia bringt statt 1800 rt. Zinsen nur überhaupt 918 rt.\nWrąbczyn statt 1500 rt nur 1123 rt.\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich\nmuß daher auf künstliche fonds denken damit ein der Sache angemeßener\nWerth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um\nhier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt\nSchulden bezahlt werden können.\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen\nals es aber zum examiniren der Leute kam, wodurch die Revenuen\nbewiesen werden solten, so deferirte alles so sehr, daß wir die\nganze Taxa umändern müßen.\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die\nOlesnicer auf Weinachten zahlen sollen mit arrest belegt, so daß\nman daher nur etwan 6000 rt zu erhalten haben wird.\nMit den Wrąbczynern muß ich sehr behutsam umgehen, den wie\nmir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen\nwann würcklich kein Schnee läge, so würde es doch sehr undienlich\nsein jezt mit der Ausmeßung der Länderung vorzuschreiten\nInzwischen bleibt bey Wrąbczyn für Ewr Durchlaucht nichts übrig, und das\nschöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den\nFlächen Inhalt, wann der Morgen a 1 rt. gerechnet wäre 2958 rt. betragen sollen.\nDies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen\nwerde keinen Morgen unter 1 rt zinsen so schlecht das Land auch sein\nmag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche\nnichts unter 300 Rthl baar Geld und jährl 15 rt. Zinsen weg, dafür hafte ich\nwäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht\nschon fertig sein, so aber muß ich Gott walten laßen, und mir auf\nanfertigung der Taxa halten.\nDie Zinsen an Lichnowschen werden hier bezahlt — Ewr Durchlaucht\nerhalten dennoch von hier circa 8000 rt. zu weinachten\nFür die Schlabrendorff und dem Lichnowski muß ich die Capitalia\naus Berlin hohlen, die alsdann wan die Mennonisten zahlen\nwieder abgeführt werden können.\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten\nein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten.\nIn tiefſter Hochachtung erſterbe als\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nTrąbczyn\nden 7ten Decbr.\nv Triebenfeld\n1804",
+ "text_reading": "151\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr habe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß Höchstdieselben an den Herrn v Nothardt einen so ächten Freund haben. durch den man vieles Gute bewürken wird können. Daß er Director werden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir unbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen macht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem Himmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt - Mir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen alle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczyn und wollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen und alles Gutes thun damit ich sie bey guter Laune erhalte - Indes kan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor genommen werden. Ein hundert Hufen Grądzyner und Drzewitzer Wald verkaufe ich für gern Zins. Dies beträgt 3000 rt Zinſen und folglich 60000 rt Capital. Die im Fall ich lezteres nicht thun so bleiben mir die schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\n\nbesonders da sich solche schreckliche Ausfälle zeigen. den Swięcia bringt statt 1800 rt. Zinsen nur überhaupt 918 rt. Wrąbczyn statt 1500 rt nur 1123 rt.\n\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich muß daher auf künstliche fonds denken damit ein der Sache angemeßener Werth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um hier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt Schulden bezahlt werden können.\n\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen als es aber zum examiniren der Leute kam, wodurch die Revenuen bewiesen werden solten, so deferirte alles so sehr, daß wir die ganze Taxa umändern müßen.\n\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die Olesnicer auf Weinachten zahlen sollen mit arrest belegt, so daß man daher nur etwan 6000 rt zu erhalten haben wird. Mit den Wrąbczynern muß ich sehr behutsam umgehen, den wie mir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen wann würcklich kein Schnee läge, so würde es doch sehr undienlich sein jezt mit der Ausmeßung der Länderung vorzuschreiten Inzwischen bleibt bey Wrąbczyn für Ewr Durchlaucht nichts übrig, und das schöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den Flächen Inhalt, wann der Morgen a 1 rt. gerechnet wäre 2958 rt. betragen sollen.\n\nDies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen werde keinen Morgen unter 1 rt zinsen so schlecht das Land auch sein mag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche nichts unter 300 Rthl baar Geld und jährl 15 rt. Zinsen weg, dafür hafte ich wäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht schon fertig sein, so aber muß ich Gott walten laßen, und mir auf anfertigung der Taxa halten.\n\nDie Zinsen an Lichnowschen werden hier bezahlt — Ewr Durchlaucht erhalten dennoch von hier circa 8000 rt. zu weinachten Für die Schlabrendorff und dem Lichnowski muß ich die Capitalia aus Berlin hohlen, die alsdann wan die Mennonisten zahlen wieder abgeführt werden können.\n\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten ein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten. In tiefſter Hochachtung erſterbe als\n\nEwr Hochfürstliche Durchlaucht\n\nunterthänigster Diener\n\nTrąbczyn\n\nden 7ten Decbr.\n\nv Triebenfeld\n\n1804",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 10814,
-   "line_end": 10833,
-   "n_lines": 20,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr\nhabe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß\nHöchstdieselben an den Herrn v Nothardt einen so ächten Freund haben.\ndurch den man vieles Gute bewürken wird können. Daß er Director\nwerden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir un-\nbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen\nmacht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem\nHimmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt¬\nMir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen\nalle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczin und\nwollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen\nund alles Gutes thun damit ich sie bey guter Laune erhalte - Indes\nkan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor\ngenommen werden. Ein hundert Hufen Grądziner und Drzewitzer Wald\nverkaufe ich für gern Zins. Dies beträgt 3000 Rthl Zinſen und folglich\n60000 Rthl Capital. Die im Fall ich lezteres nicht thun so bleiben mir\ndie schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\nbesonders",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr\nhabe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß\nHöchstdieselben an den Herrn v Nothardt einen so ächten Freund haben.\ndurch den man vieles Gute bewürken wird können. Daß er Director\nwerden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir un-\nbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen\nmacht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem\nHimmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt\nMir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen\nalle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczin und\nwollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen\nund alles Gutes thun damit ich sie bey guter Laune erhalte - Indes\nkan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor\ngenommen werden. Ein hundert Hufen Grądziner und Drzewitzer Wald\nverkaufe ich für gern Zins. Dies beträgt 3000 Rthl Zinſen und folglich\n60000 Rthl Capital. Die im Fall ich lezteres nicht thun so bleiben mir\ndie schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\nbesonders",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr habe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß Höchstdieselben an den Herrn v Nothardt einen so ächten Freund haben. durch den man vieles Gute bewürken wird können. Daß er Director werden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir unbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen macht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem Himmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt Mir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen alle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczin und wollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen und alles Gutes thun damit ich sie bey guter Laune erhalte - Indes kan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor genommen werden. Ein hundert Hufen Grądziner und Drzewitzer Wald verkaufe ich für gern Zins. Dies beträgt 3000 Rthl Zinſen und folglich 60000 Rthl Capital. Die im Fall ich lezteres nicht thun so bleiben mir die schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen",
+   "page_id": "0290_b",
+   "line_start": 10822,
+   "line_end": 10842,
+   "n_lines": 21,
+   "diplomatic": "151\nDurchlauchtigster Fürst\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr\nhabe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß\nHöchstdieselben an den Herrn v Nothardt einen so ächten Freund haben.\ndurch den man vieles Gute bewürken wird können. Daß er Director\nwerden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir un¬\nbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen\nmacht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem\nHimmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt -\nMir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen\nalle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczyn und\nwollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen\nund alles Gutes thun damit ich sie bey guter Laune erhalte - Indes\nkan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor\ngenommen werden. Ein hundert Hufen Grądzyner und Drzewitzer Wald\nverkaufe ich für gern Zins. Dies beträgt 3000 rt Zinſen und folglich\n60000 rt Capital. Die im Fall ich lezteres nicht thun so bleiben mir\ndie schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\nbesonders",
+   "transcription": "151\nDurchlauchtigster Fürst\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr\nhabe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß\nHöchstdieselben an den Herrn v Nothardt einen so ächten Freund haben.\ndurch den man vieles Gute bewürken wird können. Daß er Director\nwerden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir un-\nbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen\nmacht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem\nHimmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt -\nMir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen\nalle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczyn und\nwollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen\nund alles Gutes thun damit ich sie bey guter Laune erhalte - Indes\nkan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor\ngenommen werden. Ein hundert Hufen Grądzyner und Drzewitzer Wald\nverkaufe ich für gern Zins. Dies beträgt 3000 rt Zinſen und folglich\n60000 rt Capital. Die im Fall ich lezteres nicht thun so bleiben mir\ndie schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen\nbesonders",
+   "reading": "151\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nEwr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr habe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß Höchstdieselben an den Herrn v Nothardt einen so ächten Freund haben. durch den man vieles Gute bewürken wird können. Daß er Director werden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir unbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen macht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem Himmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt - Mir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen alle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczyn und wollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen und alles Gutes thun damit ich sie bey guter Laune erhalte - Indes kan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor genommen werden. Ein hundert Hufen Grądzyner und Drzewitzer Wald verkaufe ich für gern Zins. Dies beträgt 3000 rt Zinſen und folglich 60000 rt Capital. Die im Fall ich lezteres nicht thun so bleiben mir die schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen",
    "paragraphs": [
+    "151",
     "Durchlauchtigster Fürst",
     "Gnädigster Herr!",
-    "Ewr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr habe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß Höchstdieselben an den Herrn v Nothardt einen so ächten Freund haben. durch den man vieles Gute bewürken wird können. Daß er Director werden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir unbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen macht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem Himmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt Mir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen alle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczin und wollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen und alles Gutes thun damit ich sie bey guter Laune erhalte - Indes kan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor genommen werden. Ein hundert Hufen Grądziner und Drzewitzer Wald verkaufe ich für gern Zins. Dies beträgt 3000 Rthl Zinſen und folglich 60000 Rthl Capital. Die im Fall ich lezteres nicht thun so bleiben mir die schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen"
+    "Ewr Hochfürstliche Durchlaucht beide Schreiben vom 30. Novbr und 2. Xbr habe ich die Ehre so eben zu erhalten. Recht herzlich freut es mich daß Höchstdieselben an den Herrn v Nothardt einen so ächten Freund haben. durch den man vieles Gute bewürken wird können. Daß er Director werden ſolte wüßte ich zwar ſchon, mir die beſondere Art war mir unbekant. Die Geſchichte mit dHl v Harlem und Krieges Rath Nöldichen macht indes viel terreur - und Herr v. Nothardt hat alle Ursache dem Himmel zu bitten, daß Herr v. Voss, seinen favoriten nicht an ihm rächt - Mir geht es hier ſehr ſchlecht – Es ſcheint als wenn ſich der Himmel gegen alle Geschäfte auflehnte – die Mennonisten sind hier in Trąbczyn und wollen beide Güter zusammen kaufen. Ich laße die Leute verpflegen und alles Gutes thun damit ich sie bey guter Laune erhalte - Indes kan wegen den großen Schnee, der über einen Fuß hoch liegt, nichts vor genommen werden. Ein hundert Hufen Grądzyner und Drzewitzer Wald verkaufe ich für gern Zins. Dies beträgt 3000 rt Zinſen und folglich 60000 rt Capital. Die im Fall ich lezteres nicht thun so bleiben mir die schlechten Gründe übrig, und die Taxe würde sehr geringe ausfallen"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 20
+   "doc_line_end": 21
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 10835,
-   "line_end": 10857,
-   "n_lines": 23,
-   "diplomatic": "besonders da sich solche schreckliche Ausfälle zeigen.\nden Suvigria bringt statt 1800 Rthl Zinsen nur überhaupt 918 Rthl\nWrąbczyn statt 1500 Rthl nur\n1123.\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich\nmuß daher auf künstliche fonds denken damit ein der Sache angemeßener\nWerth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um\nhier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt\nSchulden bezahlt werden können.\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen\nals es aber zum examiniren der Leute kam, wodurch die Revenien\nbewiesen werden solten, so deferirte alles so sehr, daß wir die\nganze Taxa umändern müßen.\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die\nOlesnicer auf Weinachten zahlen sollen mit arret belegt, so daß\nman daher nur etwan 6000 Rthl zu erhalten haben wird.\nMilt den Wrgberinern muß ich sehr behutsam umgehen, den wie\nmir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen\nwann würcklich kein Schnee läge, so würde es doch sehr undienlich\nsein jezt mit der Ausmeßung der Länderung vorzuschreiten\nInzwischen bleibt bey Wrgberin für Ewr Durchlaucht nichts übrig, und das\nschöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den\nFlächen Inhalt, wann der Morgen A 1 Rthl gerechnet wäre 2958 Rthl betrage, sollen.",
-   "transcription": "besonders da sich solche schreckliche Ausfälle zeigen.\nden Suvigria bringt statt 1800 Rthl Zinsen nur überhaupt 918 Rthl\nWrąbczyn statt 1500 Rthl nur\n1123.\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich\nmuß daher auf künstliche fonds denken damit ein der Sache angemeßener\nWerth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um\nhier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt\nSchulden bezahlt werden können.\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen\nals es aber zum examiniren der Leute kam, wodurch die Revenien\nbewiesen werden solten, so deferirte alles so sehr, daß wir die\nganze Taxa umändern müßen.\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die\nOlesnicer auf Weinachten zahlen sollen mit arret belegt, so daß\nman daher nur etwan 6000 Rthl zu erhalten haben wird.\nMilt den Wrgberinern muß ich sehr behutsam umgehen, den wie\nmir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen\nwann würcklich kein Schnee läge, so würde es doch sehr undienlich\nsein jezt mit der Ausmeßung der Länderung vorzuschreiten\nInzwischen bleibt bey Wrgberin für Ewr Durchlaucht nichts übrig, und das\nschöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den\nFlächen Inhalt, wann der Morgen A 1 Rthl gerechnet wäre 2958 Rthl betrage, sollen.",
-   "reading": "besonders da sich solche schreckliche Ausfälle zeigen. den Suvigria bringt statt 1800 Rthl Zinsen nur überhaupt 918 Rthl Wrąbczyn statt 1500 Rthl nur\n\n1123.\n\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich muß daher auf künstliche fonds denken damit ein der Sache angemeßener Werth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um hier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt Schulden bezahlt werden können.\n\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen als es aber zum examiniren der Leute kam, wodurch die Revenien bewiesen werden solten, so deferirte alles so sehr, daß wir die ganze Taxa umändern müßen.\n\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die Olesnicer auf Weinachten zahlen sollen mit arret belegt, so daß man daher nur etwan 6000 Rthl zu erhalten haben wird. Milt den Wrgberinern muß ich sehr behutsam umgehen, den wie mir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen wann würcklich kein Schnee läge, so würde es doch sehr undienlich sein jezt mit der Ausmeßung der Länderung vorzuschreiten Inzwischen bleibt bey Wrgberin für Ewr Durchlaucht nichts übrig, und das schöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den Flächen Inhalt, wann der Morgen A 1 Rthl gerechnet wäre 2958 Rthl betrage, sollen.",
+   "page_id": "0291_a1",
+   "line_start": 10844,
+   "line_end": 10865,
+   "n_lines": 22,
+   "diplomatic": "besonders da sich solche schreckliche Ausfälle zeigen.\nden Swięcia bringt statt 1800 rt. Zinsen nur überhaupt 918 rt.\nWrąbczyn statt 1500 rt nur 1123 rt.\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich\nmuß daher auf künstliche fonds denken damit ein der Sache angemeßener\nWerth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um\nhier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt\nSchulden bezahlt werden können.\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen\nals es aber zum examiniren der Leute kam, wodurch die Revenuen\nbewiesen werden solten, so deferirte alles so sehr, daß wir die\nganze Taxa umändern müßen.\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die\nOlesnicer auf Weinachten zahlen sollen mit arrest belegt, so daß\nman daher nur etwan 6000 rt zu erhalten haben wird.\nMit den Wrąbczynern muß ich sehr behutsam umgehen, den wie\nmir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen\nwann würcklich kein Schnee läge, so würde es doch sehr undienlich\nsein jezt mit der Ausmeßung der Länderung vorzuschreiten\nInzwischen bleibt bey Wrąbczyn für Ewr Durchlaucht nichts übrig, und das\nschöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den\nFlächen Inhalt, wann der Morgen a 1 rt. gerechnet wäre 2958 rt. betragen sollen.",
+   "transcription": "besonders da sich solche schreckliche Ausfälle zeigen.\nden Swięcia bringt statt 1800 rt. Zinsen nur überhaupt 918 rt.\nWrąbczyn statt 1500 rt nur 1123 rt.\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich\nmuß daher auf künstliche fonds denken damit ein der Sache angemeßener\nWerth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um\nhier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt\nSchulden bezahlt werden können.\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen\nals es aber zum examiniren der Leute kam, wodurch die Revenuen\nbewiesen werden solten, so deferirte alles so sehr, daß wir die\nganze Taxa umändern müßen.\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die\nOlesnicer auf Weinachten zahlen sollen mit arrest belegt, so daß\nman daher nur etwan 6000 rt zu erhalten haben wird.\nMit den Wrąbczynern muß ich sehr behutsam umgehen, den wie\nmir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen\nwann würcklich kein Schnee läge, so würde es doch sehr undienlich\nsein jezt mit der Ausmeßung der Länderung vorzuschreiten\nInzwischen bleibt bey Wrąbczyn für Ewr Durchlaucht nichts übrig, und das\nschöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den\nFlächen Inhalt, wann der Morgen a 1 rt. gerechnet wäre 2958 rt. betragen sollen.",
+   "reading": "besonders da sich solche schreckliche Ausfälle zeigen. den Swięcia bringt statt 1800 rt. Zinsen nur überhaupt 918 rt. Wrąbczyn statt 1500 rt nur 1123 rt.\n\nAuf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich muß daher auf künstliche fonds denken damit ein der Sache angemeßener Werth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um hier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt Schulden bezahlt werden können.\n\nDie Taxatoren hatten anfänglich die Sache nach den Tableaux genommen als es aber zum examiniren der Leute kam, wodurch die Revenuen bewiesen werden solten, so deferirte alles so sehr, daß wir die ganze Taxa umändern müßen.\n\nLichnowski hatt einen Theil von die Zehn Tausend Rthl welche die Olesnicer auf Weinachten zahlen sollen mit arrest belegt, so daß man daher nur etwan 6000 rt zu erhalten haben wird. Mit den Wrąbczynern muß ich sehr behutsam umgehen, den wie mir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen wann würcklich kein Schnee läge, so würde es doch sehr undienlich sein jezt mit der Ausmeßung der Länderung vorzuschreiten Inzwischen bleibt bey Wrąbczyn für Ewr Durchlaucht nichts übrig, und das schöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den Flächen Inhalt, wann der Morgen a 1 rt. gerechnet wäre 2958 rt. betragen sollen.",
    "paragraphs": [
-    "besonders da sich solche schreckliche Ausfälle zeigen. den Suvigria bringt statt 1800 Rthl Zinsen nur überhaupt 918 Rthl Wrąbczyn statt 1500 Rthl nur",
-    "1123.",
+    "besonders da sich solche schreckliche Ausfälle zeigen. den Swięcia bringt statt 1800 rt. Zinsen nur überhaupt 918 rt. Wrąbczyn statt 1500 rt nur 1123 rt.",
     "Auf den Wald ist bey den niederen HolzPreisen sehr wenig zu rechnen, ich muß daher auf künstliche fonds denken damit ein der Sache angemeßener Werth bey der Taxa ausgemittelt wird, indem durch das Darlehn, um hier nichts zu verschleudern, allen Unwillen vorgebeugt, und die Haupt Schulden bezahlt werden können.",
-    "Die Taxatoren hatten anfänglich die Sache nach den Tableaux genommen als es aber zum examiniren der Leute kam, wodurch die Revenien bewiesen werden solten, so deferirte alles so sehr, daß wir die ganze Taxa umändern müßen.",
-    "Lichnowski hatt einen Theil von die Zehn Tausend Rthl welche die Olesnicer auf Weinachten zahlen sollen mit arret belegt, so daß man daher nur etwan 6000 Rthl zu erhalten haben wird. Milt den Wrgberinern muß ich sehr behutsam umgehen, den wie mir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen wann würcklich kein Schnee läge, so würde es doch sehr undienlich sein jezt mit der Ausmeßung der Länderung vorzuschreiten Inzwischen bleibt bey Wrgberin für Ewr Durchlaucht nichts übrig, und das schöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den Flächen Inhalt, wann der Morgen A 1 Rthl gerechnet wäre 2958 Rthl betrage, sollen."
+    "Die Taxatoren hatten anfänglich die Sache nach den Tableaux genommen als es aber zum examiniren der Leute kam, wodurch die Revenuen bewiesen werden solten, so deferirte alles so sehr, daß wir die ganze Taxa umändern müßen.",
+    "Lichnowski hatt einen Theil von die Zehn Tausend Rthl welche die Olesnicer auf Weinachten zahlen sollen mit arrest belegt, so daß man daher nur etwan 6000 rt zu erhalten haben wird. Mit den Wrąbczynern muß ich sehr behutsam umgehen, den wie mir Nerlich sagt so weigern sie sich die Weinachts Rate zu bezahlen wann würcklich kein Schnee läge, so würde es doch sehr undienlich sein jezt mit der Ausmeßung der Länderung vorzuschreiten Inzwischen bleibt bey Wrąbczyn für Ewr Durchlaucht nichts übrig, und das schöne Dorf bringt weiter nichts als obig gerügte Summa, die nach den Flächen Inhalt, wann der Morgen a 1 rt. gerechnet wäre 2958 rt. betragen sollen."
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-   "doc_line_start": 21,
+   "doc_line_start": 22,
    "doc_line_end": 43
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 10859,
-   "line_end": 10879,
+   "page_id": "0291_a2",
+   "line_start": 10867,
+   "line_end": 10887,
    "n_lines": 21,
-   "diplomatic": "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen\nwerde keinen Morgen unter 1 Rthl zinsen so schlecht das Land auch sein\nmag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche\nnichts unter 300 Rthl baar Geld und jährl 15 Rthl Zinsen weg, dafür hafte ich\nwäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht\nschon fertig sein, so aber muß ich Gott walten laßen, und mir auf\nanfertigung der Taxa halten.\nDie Zinsen an Lignowschen werden hier bezahlt — Ewr Durchlaucht\nerhalten dennoch von hier circa 8000 Rthl zu weinachten\nFür die Schlabrendorff und dem Lichnowski muß ich die Capitalia\naus Berlin hohlen, die alsdann wan die Mennonisten zahlen\nwieder abgeführt werden können.\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten\nein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten.\nIn tiefſter Hochachtung erſterbe als\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nTrąbczin\nden 7ten Decbr.\nv Triebenfeld\n1804",
-   "transcription": "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen\nwerde keinen Morgen unter 1 Rthl zinsen so schlecht das Land auch sein\nmag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche\nnichts unter 300 Rthl baar Geld und jährl 15 Rthl Zinsen weg, dafür hafte ich\nwäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht\nschon fertig sein, so aber muß ich Gott walten laßen, und mir auf\nanfertigung der Taxa halten.\nDie Zinsen an Lignowschen werden hier bezahlt — Ewr Durchlaucht\nerhalten dennoch von hier circa 8000 Rthl zu weinachten\nFür die Schlabrendorff und dem Lichnowski muß ich die Capitalia\naus Berlin hohlen, die alsdann wan die Mennonisten zahlen\nwieder abgeführt werden können.\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten\nein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten.\nIn tiefſter Hochachtung erſterbe als\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nTrąbczin\nden 7ten Decbr.\nv Triebenfeld\n1804",
-   "reading": "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen werde keinen Morgen unter 1 Rthl zinsen so schlecht das Land auch sein mag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche nichts unter 300 Rthl baar Geld und jährl 15 Rthl Zinsen weg, dafür hafte ich wäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht schon fertig sein, so aber muß ich Gott walten laßen, und mir auf anfertigung der Taxa halten.\n\nDie Zinsen an Lignowschen werden hier bezahlt — Ewr Durchlaucht erhalten dennoch von hier circa 8000 Rthl zu weinachten Für die Schlabrendorff und dem Lichnowski muß ich die Capitalia aus Berlin hohlen, die alsdann wan die Mennonisten zahlen wieder abgeführt werden können.\n\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten ein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten. In tiefſter Hochachtung erſterbe als\n\nEwr Hochfürstliche Durchlaucht\n\nunterthänigster Diener\n\nTrąbczin\n\nden 7ten Decbr.\n\nv Triebenfeld\n\n1804",
+   "diplomatic": "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen\nwerde keinen Morgen unter 1 rt zinsen so schlecht das Land auch sein\nmag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche\nnichts unter 300 Rthl baar Geld und jährl 15 rt. Zinsen weg, dafür hafte ich\nwäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht\nschon fertig sein, so aber muß ich Gott walten laßen, und mir auf\nanfertigung der Taxa halten.\nDie Zinsen an Lichnowschen werden hier bezahlt — Ewr Durchlaucht\nerhalten dennoch von hier circa 8000 rt. zu weinachten\nFür die Schlabrendorff und dem Lichnowski muß ich die Capitalia\naus Berlin hohlen, die alsdann wan die Mennonisten zahlen\nwieder abgeführt werden können.\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten\nein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten.\nIn tiefſter Hochachtung erſterbe als\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nTrąbczyn\nden 7ten Decbr.\nv Triebenfeld\n1804",
+   "transcription": "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen\nwerde keinen Morgen unter 1 rt zinsen so schlecht das Land auch sein\nmag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche\nnichts unter 300 Rthl baar Geld und jährl 15 rt. Zinsen weg, dafür hafte ich\nwäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht\nschon fertig sein, so aber muß ich Gott walten laßen, und mir auf\nanfertigung der Taxa halten.\nDie Zinsen an Lichnowschen werden hier bezahlt — Ewr Durchlaucht\nerhalten dennoch von hier circa 8000 rt. zu weinachten\nFür die Schlabrendorff und dem Lichnowski muß ich die Capitalia\naus Berlin hohlen, die alsdann wan die Mennonisten zahlen\nwieder abgeführt werden können.\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten\nein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten.\nIn tiefſter Hochachtung erſterbe als\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nTrąbczyn\nden 7ten Decbr.\nv Triebenfeld\n1804",
+   "reading": "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen werde keinen Morgen unter 1 rt zinsen so schlecht das Land auch sein mag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche nichts unter 300 Rthl baar Geld und jährl 15 rt. Zinsen weg, dafür hafte ich wäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht schon fertig sein, so aber muß ich Gott walten laßen, und mir auf anfertigung der Taxa halten.\n\nDie Zinsen an Lichnowschen werden hier bezahlt — Ewr Durchlaucht erhalten dennoch von hier circa 8000 rt. zu weinachten Für die Schlabrendorff und dem Lichnowski muß ich die Capitalia aus Berlin hohlen, die alsdann wan die Mennonisten zahlen wieder abgeführt werden können.\n\nWas guter Wille und menschliche Kräfte vermögen, werde ich aufbieten ein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten. In tiefſter Hochachtung erſterbe als\n\nEwr Hochfürstliche Durchlaucht\n\nunterthänigster Diener\n\nTrąbczyn\n\nden 7ten Decbr.\n\nv Triebenfeld\n\n1804",
    "paragraphs": [
-    "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen werde keinen Morgen unter 1 Rthl zinsen so schlecht das Land auch sein mag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche nichts unter 300 Rthl baar Geld und jährl 15 Rthl Zinsen weg, dafür hafte ich wäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht schon fertig sein, so aber muß ich Gott walten laßen, und mir auf anfertigung der Taxa halten.",
-    "Die Zinsen an Lignowschen werden hier bezahlt — Ewr Durchlaucht erhalten dennoch von hier circa 8000 Rthl zu weinachten Für die Schlabrendorff und dem Lichnowski muß ich die Capitalia aus Berlin hohlen, die alsdann wan die Mennonisten zahlen wieder abgeführt werden können.",
+    "Dies sind indeß Sachen die sich nun nicht mehr ändern laßen - ich inzwischen werde keinen Morgen unter 1 rt zinsen so schlecht das Land auch sein mag wegeben, und bey Länderinnen und Wiesen geht mit den guten Brüche nichts unter 300 Rthl baar Geld und jährl 15 rt. Zinsen weg, dafür hafte ich wäre mir die Witterung nicht zu sehr zu wieder so würde ich vieleicht schon fertig sein, so aber muß ich Gott walten laßen, und mir auf anfertigung der Taxa halten.",
+    "Die Zinsen an Lichnowschen werden hier bezahlt — Ewr Durchlaucht erhalten dennoch von hier circa 8000 rt. zu weinachten Für die Schlabrendorff und dem Lichnowski muß ich die Capitalia aus Berlin hohlen, die alsdann wan die Mennonisten zahlen wieder abgeführt werden können.",
     "Was guter Wille und menschliche Kräfte vermögen, werde ich aufbieten ein alles, troz der gräulichen Witterung, zum besten Ziele zu leiten. In tiefſter Hochachtung erſterbe als",
     "Ewr Hochfürstliche Durchlaucht",
     "unterthänigster Diener",
-    "Trąbczin",
+    "Trąbczyn",
     "den 7ten Decbr.",
     "v Triebenfeld",
     "1804"
@@ -109,10 +117,10 @@
    "kind": "person",
    "surface": "Nöldichen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_b",
    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
-   "line": 10821,
-   "doc_line": 8
+   "line": 10830,
+   "doc_line": 9
   },
   {
    "entity": "voss",
@@ -120,10 +128,10 @@
    "kind": "person",
    "surface": "Voss",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_b",
    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
-   "line": 10823,
-   "doc_line": 10
+   "line": 10832,
+   "doc_line": 11
   },
   {
    "entity": "lichnowski",
@@ -131,9 +139,9 @@
    "kind": "person",
    "surface": "Lichnowski",
    "page": 2,
-   "page_id": "",
+   "page_id": "0291_a1",
    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-   "line": 10848,
+   "line": 10856,
    "doc_line": 34
   },
   {
@@ -142,9 +150,9 @@
    "kind": "person",
    "surface": "Lichnowski",
    "page": 3,
-   "page_id": "",
+   "page_id": "0291_a2",
    "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
-   "line": 10868,
+   "line": 10876,
    "doc_line": 53
   },
   {
@@ -153,9 +161,9 @@
    "kind": "person",
    "surface": "Schlabrendorff",
    "page": 3,
-   "page_id": "",
+   "page_id": "0291_a2",
    "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
-   "line": 10868,
+   "line": 10876,
    "doc_line": 53
   },
   {
@@ -164,194 +172,25 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 3,
-   "page_id": "",
+   "page_id": "0291_a2",
    "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
-   "line": 10878,
+   "line": 10886,
    "doc_line": 63
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Most Serene Prince",
-   "kind": "other",
-   "surface_de": "Durchlauchtigster Fürst",
-   "surface_en": "Most Serene Prince",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Nothardt",
-   "kind": "person",
-   "surface_de": "v Nothardt",
-   "surface_en": "von Nothardt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Mr. von Harlem",
-   "kind": "person",
-   "surface_de": "dHl v Harlem",
-   "surface_en": "Mr. von Harlem",
-   "page": 1
-  },
-  {
-   "entity": "noldichen",
-   "display": "Nöldichen",
-   "kind": "person",
-   "surface_de": "Nöldichen",
-   "surface_en": "Nöldichen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Voss",
-   "kind": "person",
-   "surface_de": "v. Voss",
-   "surface_en": "von Voss",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczin",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Grądzin",
-   "kind": "place",
-   "surface_de": "Grądziner",
-   "surface_en": "Grądzin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Drzewitz",
-   "kind": "place",
-   "surface_de": "Drzewitzer",
-   "surface_en": "Drzewitz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Suvigria",
-   "kind": "place",
-   "surface_de": "Suvigria",
-   "surface_en": "Suvigria",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Wrąbczyn",
-   "kind": "place",
-   "surface_de": "Wrąbczyn",
-   "surface_en": "Wrąbczyn",
-   "page": 2
-  },
-  {
-   "entity": "lichnowski",
-   "display": "Lichnowski",
-   "kind": "person",
-   "surface_de": "Lichnowski",
-   "surface_en": "Lichnowski",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Olesnic",
-   "kind": "place",
-   "surface_de": "Olesnicer",
-   "surface_en": "Olesnic",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Wrgberin",
-   "kind": "place",
-   "surface_de": "Wrgberinern",
-   "surface_en": "Wrgberin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Nerlich",
-   "kind": "person",
-   "surface_de": "Nerlich",
-   "surface_en": "Nerlich",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Wrgberin",
-   "kind": "place",
-   "surface_de": "Wrgberin",
-   "surface_en": "Wrgberin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Lignowski",
-   "kind": "person",
-   "surface_de": "Lignowschen",
-   "surface_en": "Lignowski",
-   "page": 3
-  },
-  {
-   "entity": "schlabrendorff",
-   "display": "Schlabrendorff",
-   "kind": "person",
-   "surface_de": "Schlabrendorff",
-   "surface_en": "Schlabrendorff",
-   "page": 3
-  },
-  {
-   "entity": "lichnowski",
-   "display": "Lichnowski",
-   "kind": "person",
-   "surface_de": "Lichnowski",
-   "surface_en": "Lichnowski",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczin",
-   "surface_en": "Trąbczyn",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 3
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczin",
+   "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_b",
    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
-   "line": 10825,
-   "doc_line": 12
+   "line": 10834,
+   "doc_line": 13
   },
   {
    "entity": "drzewce",
@@ -359,21 +198,32 @@
    "kind": "place",
    "surface": "Drzewitz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_b",
    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
-   "line": 10829,
-   "doc_line": 16
+   "line": 10838,
+   "doc_line": 17
   },
   {
    "entity": "gradzyn",
    "display": "Grądzyń",
    "kind": "place",
-   "surface": "Grądziner",
+   "surface": "Grądzyner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0290_b",
    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
-   "line": 10829,
-   "doc_line": 16
+   "line": 10838,
+   "doc_line": 17
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 2,
+   "page_id": "0291_a1",
+   "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
+   "line": 10845,
+   "doc_line": 23
   },
   {
    "entity": "wrabczyn",
@@ -381,10 +231,10 @@
    "kind": "place",
    "surface": "Wrąbczyn",
    "page": 2,
-   "page_id": "",
+   "page_id": "0291_a1",
    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-   "line": 10837,
-   "doc_line": 23
+   "line": 10846,
+   "doc_line": 24
   },
   {
    "entity": "olesnica",
@@ -392,32 +242,32 @@
    "kind": "place",
    "surface": "Olesnicer",
    "page": 2,
-   "page_id": "",
+   "page_id": "0291_a1",
    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-   "line": 10849,
+   "line": 10857,
    "doc_line": 35
   },
   {
-   "entity": "wien",
-   "display": "Wien",
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
    "kind": "place",
-   "surface": "Wein",
+   "surface": "Wrąbczynern",
    "page": 2,
-   "page_id": "",
+   "page_id": "0291_a1",
    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-   "line": 10849,
-   "doc_line": 35
+   "line": 10859,
+   "doc_line": 37
   },
   {
-   "entity": "wien",
-   "display": "Wien",
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
    "kind": "place",
-   "surface": "Wein",
+   "surface": "Wrąbczyn",
    "page": 2,
-   "page_id": "",
+   "page_id": "0291_a1",
    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-   "line": 10852,
-   "doc_line": 38
+   "line": 10863,
+   "doc_line": 41
   },
   {
    "entity": "berlin",
@@ -425,173 +275,26 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 3,
-   "page_id": "",
+   "page_id": "0291_a2",
    "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
-   "line": 10869,
+   "line": 10877,
    "doc_line": 54
   },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczin",
+   "surface": "Trąbczyn",
    "page": 3,
-   "page_id": "",
+   "page_id": "0291_a2",
    "scan": "Oe_1_Bu_9454_0291_a2-L151_03.jpg",
-   "line": 10876,
+   "line": 10884,
    "doc_line": 61
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nYour Most Serene Highness's two letters of the 30th of November and the 2nd of December I have the honour to have just received. It gladdens me most heartily that Your Highness has in Mr. von Nothardt so genuine a friend, through whom much good will be able to be effected. That he was to become Director I did indeed already know, but the particular manner of it was unknown to me. The affair with Mr. von Harlem and Councillor of War Nöldichen is meanwhile causing much terror — and Mr. von Nothardt has every cause to pray to Heaven that Mr. von Voss does not avenge his favourite upon him. Things go very badly for me here — It seems as though Heaven had set itself against all business — the Mennonites are here in Trąbczyn and wish to buy both estates together. I am having the people provided for and every kindness shown them, so that I may keep them in good humour — Meanwhile, on account of the great snow, which lies above a foot deep, nothing can be undertaken. One hundred Hufen of the Grądzin and Drzewitz woodland I am selling gladly for rent. This amounts to 3000 Rthl in rents and consequently to 60000 Rthl of capital. Which, in the event that I do not do the latter, then the poor grounds remain to me, and the assessment would turn out very low",
-   "names": [
-    {
-     "de": "Durchlauchtigster Fürst",
-     "en": "Most Serene Prince",
-     "kind": "other"
-    },
-    {
-     "de": "v Nothardt",
-     "en": "von Nothardt",
-     "kind": "person"
-    },
-    {
-     "de": "dHl v Harlem",
-     "en": "Mr. von Harlem",
-     "kind": "person"
-    },
-    {
-     "de": "Nöldichen",
-     "en": "Nöldichen",
-     "kind": "person"
-    },
-    {
-     "de": "v. Voss",
-     "en": "von Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczin",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Grądziner",
-     "en": "Grądzin",
-     "kind": "place"
-    },
-    {
-     "de": "Drzewitzer",
-     "en": "Drzewitz",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "30.",
-    "2.",
-    "3000",
-    "60000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "particularly since such frightful shortfalls are showing themselves. For Suvigria yields, instead of 1800 Rthl in rents, only 918 Rthl in all; Wrąbczyn, instead of 1500 Rthl, only\n\n1123.\n\nUpon the woodland, given the low timber prices, very little is to be reckoned; I must therefore think of artificial funds, so that a value appropriate to the matter may be arrived at in the assessment, inasmuch as by means of the loan — so that nothing here be squandered — all ill-will may be forestalled and the principal debts paid.\n\nThe assessors had at first taken the matter according to the tableaux; but when it came to the examining of the people, whereby the revenues were to be proved, everything deferred so greatly that we must alter the whole assessment.\n\nLichnowski has laid an arrest upon a part of the ten thousand Rthl which the Olesnic people are to pay at Christmas, so that one will therefore have only some 6000 Rthl to receive. With the Wrgberin people I must deal very cautiously, for as Nerlich tells me they are refusing to pay the Christmas instalment; and even if no snow really lay, it would nevertheless be very inexpedient to proceed now with the measuring out of the lands. In the meantime nothing remains over at Wrgberin for Your Serene Highness, and the fine village yields nothing further than the sum censured above, which according to the area content, if the Morgen were reckoned at 1 Rthl, should amount to 2958 Rthl.",
-   "names": [
-    {
-     "de": "Suvigria",
-     "en": "Suvigria",
-     "kind": "place"
-    },
-    {
-     "de": "Wrąbczyn",
-     "en": "Wrąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Lichnowski",
-     "en": "Lichnowski",
-     "kind": "person"
-    },
-    {
-     "de": "Olesnicer",
-     "en": "Olesnic",
-     "kind": "place"
-    },
-    {
-     "de": "Wrgberinern",
-     "en": "Wrgberin",
-     "kind": "place"
-    },
-    {
-     "de": "Nerlich",
-     "en": "Nerlich",
-     "kind": "person"
-    },
-    {
-     "de": "Wrgberin",
-     "en": "Wrgberin",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "1800",
-    "918",
-    "1500",
-    "1123",
-    "6000",
-    "1",
-    "2958"
-   ]
-  },
-  {
-   "page": 3,
-   "en": "These, however, are matters which can now no longer be altered — I meanwhile shall give away no Morgen at less than 1 Rthl rent, however poor the land may be, and in the case of lands and meadows nothing goes for less than 300 Rthl in cash and 15 Rthl yearly rent, along with the good marsh-breaks; for that I stand surety. Were the weather not too greatly against me, I should perhaps already be finished; as it is, however, I must let God govern, and hold myself to the drawing-up of the assessment.\n\nThe interest to the Lignowski party is being paid here — Your Serene Highness will nevertheless receive from here about 8000 Rthl at Christmas. For the Schlabrendorff party and for Lichnowski I must fetch the capital sums from Berlin, which can then, when the Mennonites pay, be remitted again.\n\nWhat good will and human powers can accomplish, I shall exert, to guide everything, despite the horrid weather, to the best end. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nmost humble and obedient servant\n\nTrąbczyn\n\nthe 7th of December.\n\nvon Triebenfeld\n\n1804",
-   "names": [
-    {
-     "de": "Lignowschen",
-     "en": "Lignowski",
-     "kind": "person"
-    },
-    {
-     "de": "Schlabrendorff",
-     "en": "Schlabrendorff",
-     "kind": "person"
-    },
-    {
-     "de": "Lichnowski",
-     "en": "Lichnowski",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczin",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "1",
-    "300",
-    "15",
-    "8000",
-    "7ten",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nYour Most Serene Highness's two letters of the 30th of November and the 2nd of December I have the honour to have just received. It gladdens me most heartily that Your Highness has in Mr. von Nothardt so genuine a friend, through whom much good will be able to be effected. That he was to become Director I did indeed already know, but the particular manner of it was unknown to me. The affair with Mr. von Harlem and Councillor of War Nöldichen is meanwhile causing much terror — and Mr. von Nothardt has every cause to pray to Heaven that Mr. von Voss does not avenge his favourite upon him. Things go very badly for me here — It seems as though Heaven had set itself against all business — the Mennonites are here in Trąbczyn and wish to buy both estates together. I am having the people provided for and every kindness shown them, so that I may keep them in good humour — Meanwhile, on account of the great snow, which lies above a foot deep, nothing can be undertaken. One hundred Hufen of the Grądzin and Drzewitz woodland I am selling gladly for rent. This amounts to 3000 Rthl in rents and consequently to 60000 Rthl of capital. Which, in the event that I do not do the latter, then the poor grounds remain to me, and the assessment would turn out very low\n\nparticularly since such frightful shortfalls are showing themselves. For Suvigria yields, instead of 1800 Rthl in rents, only 918 Rthl in all; Wrąbczyn, instead of 1500 Rthl, only\n\n1123.\n\nUpon the woodland, given the low timber prices, very little is to be reckoned; I must therefore think of artificial funds, so that a value appropriate to the matter may be arrived at in the assessment, inasmuch as by means of the loan — so that nothing here be squandered — all ill-will may be forestalled and the principal debts paid.\n\nThe assessors had at first taken the matter according to the tableaux; but when it came to the examining of the people, whereby the revenues were to be proved, everything deferred so greatly that we must alter the whole assessment.\n\nLichnowski has laid an arrest upon a part of the ten thousand Rthl which the Olesnic people are to pay at Christmas, so that one will therefore have only some 6000 Rthl to receive. With the Wrgberin people I must deal very cautiously, for as Nerlich tells me they are refusing to pay the Christmas instalment; and even if no snow really lay, it would nevertheless be very inexpedient to proceed now with the measuring out of the lands. In the meantime nothing remains over at Wrgberin for Your Serene Highness, and the fine village yields nothing further than the sum censured above, which according to the area content, if the Morgen were reckoned at 1 Rthl, should amount to 2958 Rthl.\n\nThese, however, are matters which can now no longer be altered — I meanwhile shall give away no Morgen at less than 1 Rthl rent, however poor the land may be, and in the case of lands and meadows nothing goes for less than 300 Rthl in cash and 15 Rthl yearly rent, along with the good marsh-breaks; for that I stand surety. Were the weather not too greatly against me, I should perhaps already be finished; as it is, however, I must let God govern, and hold myself to the drawing-up of the assessment.\n\nThe interest to the Lignowski party is being paid here — Your Serene Highness will nevertheless receive from here about 8000 Rthl at Christmas. For the Schlabrendorff party and for Lichnowski I must fetch the capital sums from Berlin, which can then, when the Mennonites pay, be remitted again.\n\nWhat good will and human powers can accomplish, I shall exert, to guide everything, despite the horrid weather, to the best end. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nmost humble and obedient servant\n\nTrąbczyn\n\nthe 7th of December.\n\nvon Triebenfeld\n\n1804",
- "summary_en": "Progress report from Trąbczyn: Mennonites have arrived wanting to buy both estates, but deep snow halts surveying; 100 Hufen of the Grądzin and Drzewitz woodland are offered at rents worth 3,000 Rthl, or 60,000 Rthl capital. Revenues fall far short (Suvigria 918 instead of 1,800 Rthl, Wrąbczyn 1,123 instead of 1,500), forcing the whole assessment to be redrawn. Lichnowski's arrest cuts the Olesnic payment to about 6,000 Rthl; some 8,000 Rthl promised for Christmas.",
- "summary_de": "Bericht über den Stand der Geschäfte in Trąbczyn: Mennoniten sind vor Ort und wollen beide Güter zusammen kaufen, doch verhindert über einen Fuß hoher Schnee jede Vermessung. Triebenfeld will 100 Hufen der Waldungen Grądzin und Drzewitz zu 3000 Rthl Zins (60000 Rthl Kapital) vergeben, unter 1 Rthl je Morgen nichts. Die Einnahmen bleiben zurück (Suvigria 918 statt 1800 Rthl, Wrąbczyn 1123 statt 1500 Rthl), die Taxe muss neu gemacht werden. Lichnowski hat Arrest auf die Oelsner Zahlung gelegt; zu Weihnachten etwa 8000 Rthl. Dazu Nachrichten über von Nothardt."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

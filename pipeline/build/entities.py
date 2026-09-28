@@ -158,29 +158,42 @@ def _mentions(rec, authority, kind):
     """
     out = []
     for p in rec.get('pages') or []:
-        lines = p['diplomatic'].split('\n')
+        raw = p['diplomatic'].split('\n')
+        # long s is an s to the patterns; the swap keeps every offset in place
+        lines = [l.replace('ſ', 's') for l in raw]
         base = p['line_start']
         for i, line in enumerate(lines):
+            found = []
             for slug, disp, rx in authority:
-                for m in rx.finditer(line):
-                    out.append({
-                        'entity': slug,
-                        'display': disp,
-                        'kind': kind,
-                        'surface': m.group(0),
-                        'page': p['page'],
-                        'page_id': p.get('page_id', ''),
-                        # the image, so a citation resolves to the manuscript
-                        # without a second file and a guess at the filename
-                        'scan': p.get('scan', ''),
-                        # `line` is the unit-absolute line, the key the tooling
-                        # and the transcription decisions use. `doc_line` is
-                        # what the site shows - numbered from 1 in each
-                        # document - and the two are given together because the
-                        # published page no longer carries the archival number.
-                        'line': base + i,
-                        'doc_line': p.get('doc_line_start', 1) + i,
-                    })
+                found += [(slug, disp, m, raw[i]) for m in rx.finditer(line)]
+            # a name broken over the line end (Stäge¬ / mann) is only whole
+            # joined; it is cited at the line where it starts
+            if re.search(r'[¬\-‗=]\s*$', line) and i + 1 < len(lines):
+                head = re.sub(r'[¬\-‗=]\s*$', '', line)
+                joined = head + lines[i + 1].lstrip()
+                joined_raw = raw[i][:len(head)] + raw[i + 1].lstrip()
+                for slug, disp, rx in authority:
+                    found += [(slug, disp, m, joined_raw) for m in rx.finditer(joined)
+                              if m.start() < len(head) < m.end()]
+            for slug, disp, m, src in found:
+                out.append({
+                    'entity': slug,
+                    'display': disp,
+                    'kind': kind,
+                    'surface': src[m.start():m.end()],
+                    'page': p['page'],
+                    'page_id': p.get('page_id', ''),
+                    # the image, so a citation resolves to the manuscript
+                    # without a second file and a guess at the filename
+                    'scan': p.get('scan', ''),
+                    # `line` is the unit-absolute line, the key the tooling
+                    # and the transcription decisions use. `doc_line` is
+                    # what the site shows - numbered from 1 in each
+                    # document - and the two are given together because the
+                    # published page no longer carries the archival number.
+                    'line': base + i,
+                    'doc_line': p.get('doc_line_start', 1) + i,
+                })
     out.sort(key=lambda x: (x['line'], x['entity']))
     return out
 

@@ -1092,6 +1092,17 @@
  "place_canonical": "Betsche",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 1,
+   "page_id": "0009_b",
+   "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
+   "line": 347,
+   "doc_line": 4
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -1178,6 +1189,17 @@
    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
    "line": 587,
    "doc_line": 235
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensches",
+   "page": 10,
+   "page_id": "0014_a1",
+   "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
+   "line": 589,
+   "doc_line": 237
   }
  ],
  "translation_status": "draft",

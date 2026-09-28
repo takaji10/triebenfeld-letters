@@ -1,6 +1,6 @@
 {
  "letter_id": "126",
- "seq_archival": 138,
+ "seq_archival": 137,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-126",
@@ -12,47 +12,52 @@
  "date_iso": "1804-04-30",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "[Breslau?] den 30ten April 1804",
+ "date_display": "Breslau den 30ten April 1804",
  "date_inferred_from": "",
  "year": 1804,
  "month": 4,
  "day": 30,
- "place": "Breslau?",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 9133,
- "line_end": 9151,
- "uncertainty_count": 1,
+ "place": "Breslau",
+ "sender": "",
+ "recipient": "",
+ "line_start": 9132,
+ "line_end": 9153,
+ "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "olesnica"
+ ],
  "is_missing": 0,
- "n_lines": 18,
+ "n_lines": 20,
  "n_pages": 1,
- "text": "Cabunis ist mit den Hussiten zurück — Es hat\ndie Leute außerordentlich gefallen\nSie wollen nun zurück eilen. Ihre Glaubensbrü¬\nder zusammen ziehen und in 14 Tage alles abmachen\nCabanis hat aber viel Neuigkeiten mit gebracht\nworüber ich mit Ewr Durchlaucht sprechen muß\nAußerst nothwendig wird es daß gleich\nDemand hingeht um alles ins beste Geleis\nzu bringen.\nIch arbeite hier mit die Olesnicas Leute -\nwolten Ewr Durchlaucht so gnädig sein und von\nder Parade ein Virtel Stündchen bey mir kommen\nden könten Höchstdieselben die Menschen alle Selbst\nhöhren, und gleich Höchſt Dero Befehle erteilen was\nweiter gethan werden soll.\nv Triebenfeld\n[Breslau?] den 30ten April 1804",
- "text_reading": "Cabunis ist mit den Hussiten zurück — Es hat die Leute außerordentlich gefallen Sie wollen nun zurück eilen. Ihre Glaubensbrüder zusammen ziehen und in 14 Tage alles abmachen Cabanis hat aber viel Neuigkeiten mit gebracht worüber ich mit Ewr Durchlaucht sprechen muß Außerst nothwendig wird es daß gleich Demand hingeht um alles ins beste Geleis zu bringen.\n\nIch arbeite hier mit die Olesnicas Leute - wolten Ewr Durchlaucht so gnädig sein und von der Parade ein Virtel Stündchen bey mir kommen den könten Höchstdieselben die Menschen alle Selbst höhren, und gleich Höchſt Dero Befehle erteilen was weiter gethan werden soll.\n\nv Triebenfeld\n\n[Breslau?] den 30ten April 1804",
+ "text": "126\nSeiner Hochfürstliche\nDurchlaucht\nCabanis ist mit den Hussiten zurück — Es hat\ndie Leute außerordentlich gefallen\nSie wollen nun zurück eilen. Ihre Glaubensbrü¬\nder zusammen ziehen und in 14 Tage alles abmachen\nCabanis hat aber viel Neuigkeiten mit gebracht\nworüber ich mit Ewr Durchlaucht sprechen muß\nAußerst nothwendig wird es daß gleich\nJemand hingeht um alles ins beste Geleis\nzu bringen.\nIch arbeite hier mit die Olesnicer Leute -\nwolten Ewr Durchlaucht so gnädig sein und von\nder Parade ein Virtel Stündchen bey mir kommen\nden könten Höchstdieselben die Menschen alle Selbst\nhöhren, und gleich Höchſt Dero Befehle erteilen was\nweiter gethan werden soll.\nBreslau den 30ten April 1804\nv Triebenfeld",
+ "text_reading": "126\n\nSeiner Hochfürstliche\n\nDurchlaucht Cabanis ist mit den Hussiten zurück — Es hat die Leute außerordentlich gefallen Sie wollen nun zurück eilen. Ihre Glaubensbrüder zusammen ziehen und in 14 Tage alles abmachen Cabanis hat aber viel Neuigkeiten mit gebracht worüber ich mit Ewr Durchlaucht sprechen muß Außerst nothwendig wird es daß gleich Jemand hingeht um alles ins beste Geleis zu bringen.\n\nIch arbeite hier mit die Olesnicer Leute - wolten Ewr Durchlaucht so gnädig sein und von der Parade ein Virtel Stündchen bey mir kommen den könten Höchstdieselben die Menschen alle Selbst höhren, und gleich Höchſt Dero Befehle erteilen was weiter gethan werden soll.\n\nBreslau den 30ten April 1804\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
+   "page_id": "0245_a2",
    "line_start": 9134,
-   "line_end": 9150,
-   "n_lines": 17,
-   "diplomatic": "Cabunis ist mit den Hussiten zurück — Es hat\ndie Leute außerordentlich gefallen\nSie wollen nun zurück eilen. Ihre Glaubensbrü¬\nder zusammen ziehen und in 14 Tage alles abmachen\nCabanis hat aber viel Neuigkeiten mit gebracht\nworüber ich mit Ewr Durchlaucht sprechen muß\nAußerst nothwendig wird es daß gleich\nDemand hingeht um alles ins beste Geleis\nzu bringen.\nIch arbeite hier mit die Olesnicas Leute -\nwolten Ewr Durchlaucht so gnädig sein und von\nder Parade ein Virtel Stündchen bey mir kommen\nden könten Höchstdieselben die Menschen alle Selbst\nhöhren, und gleich Höchſt Dero Befehle erteilen was\nweiter gethan werden soll.\nv Triebenfeld\n[Breslau?] den 30ten April 1804",
-   "transcription": "Cabunis ist mit den Hussiten zurück — Es hat\ndie Leute außerordentlich gefallen\nSie wollen nun zurück eilen. Ihre Glaubensbrü-\nder zusammen ziehen und in 14 Tage alles abmachen\nCabanis hat aber viel Neuigkeiten mit gebracht\nworüber ich mit Ewr Durchlaucht sprechen muß\nAußerst nothwendig wird es daß gleich\nDemand hingeht um alles ins beste Geleis\nzu bringen.\nIch arbeite hier mit die Olesnicas Leute -\nwolten Ewr Durchlaucht so gnädig sein und von\nder Parade ein Virtel Stündchen bey mir kommen\nden könten Höchstdieselben die Menschen alle Selbst\nhöhren, und gleich Höchſt Dero Befehle erteilen was\nweiter gethan werden soll.\nv Triebenfeld\n[Breslau?] den 30ten April 1804",
-   "reading": "Cabunis ist mit den Hussiten zurück — Es hat die Leute außerordentlich gefallen Sie wollen nun zurück eilen. Ihre Glaubensbrüder zusammen ziehen und in 14 Tage alles abmachen Cabanis hat aber viel Neuigkeiten mit gebracht worüber ich mit Ewr Durchlaucht sprechen muß Außerst nothwendig wird es daß gleich Demand hingeht um alles ins beste Geleis zu bringen.\n\nIch arbeite hier mit die Olesnicas Leute - wolten Ewr Durchlaucht so gnädig sein und von der Parade ein Virtel Stündchen bey mir kommen den könten Höchstdieselben die Menschen alle Selbst höhren, und gleich Höchſt Dero Befehle erteilen was weiter gethan werden soll.\n\nv Triebenfeld\n\n[Breslau?] den 30ten April 1804",
+   "line_end": 9153,
+   "n_lines": 20,
+   "diplomatic": "126\nSeiner Hochfürstliche\nDurchlaucht\nCabanis ist mit den Hussiten zurück — Es hat\ndie Leute außerordentlich gefallen\nSie wollen nun zurück eilen. Ihre Glaubensbrü¬\nder zusammen ziehen und in 14 Tage alles abmachen\nCabanis hat aber viel Neuigkeiten mit gebracht\nworüber ich mit Ewr Durchlaucht sprechen muß\nAußerst nothwendig wird es daß gleich\nJemand hingeht um alles ins beste Geleis\nzu bringen.\nIch arbeite hier mit die Olesnicer Leute -\nwolten Ewr Durchlaucht so gnädig sein und von\nder Parade ein Virtel Stündchen bey mir kommen\nden könten Höchstdieselben die Menschen alle Selbst\nhöhren, und gleich Höchſt Dero Befehle erteilen was\nweiter gethan werden soll.\nBreslau den 30ten April 1804\nv Triebenfeld",
+   "transcription": "126\nSeiner Hochfürstliche\nDurchlaucht\nCabanis ist mit den Hussiten zurück — Es hat\ndie Leute außerordentlich gefallen\nSie wollen nun zurück eilen. Ihre Glaubensbrü-\nder zusammen ziehen und in 14 Tage alles abmachen\nCabanis hat aber viel Neuigkeiten mit gebracht\nworüber ich mit Ewr Durchlaucht sprechen muß\nAußerst nothwendig wird es daß gleich\nJemand hingeht um alles ins beste Geleis\nzu bringen.\nIch arbeite hier mit die Olesnicer Leute -\nwolten Ewr Durchlaucht so gnädig sein und von\nder Parade ein Virtel Stündchen bey mir kommen\nden könten Höchstdieselben die Menschen alle Selbst\nhöhren, und gleich Höchſt Dero Befehle erteilen was\nweiter gethan werden soll.\nBreslau den 30ten April 1804\nv Triebenfeld",
+   "reading": "126\n\nSeiner Hochfürstliche\n\nDurchlaucht Cabanis ist mit den Hussiten zurück — Es hat die Leute außerordentlich gefallen Sie wollen nun zurück eilen. Ihre Glaubensbrüder zusammen ziehen und in 14 Tage alles abmachen Cabanis hat aber viel Neuigkeiten mit gebracht worüber ich mit Ewr Durchlaucht sprechen muß Außerst nothwendig wird es daß gleich Jemand hingeht um alles ins beste Geleis zu bringen.\n\nIch arbeite hier mit die Olesnicer Leute - wolten Ewr Durchlaucht so gnädig sein und von der Parade ein Virtel Stündchen bey mir kommen den könten Höchstdieselben die Menschen alle Selbst höhren, und gleich Höchſt Dero Befehle erteilen was weiter gethan werden soll.\n\nBreslau den 30ten April 1804\n\nv Triebenfeld",
    "paragraphs": [
-    "Cabunis ist mit den Hussiten zurück — Es hat die Leute außerordentlich gefallen Sie wollen nun zurück eilen. Ihre Glaubensbrüder zusammen ziehen und in 14 Tage alles abmachen Cabanis hat aber viel Neuigkeiten mit gebracht worüber ich mit Ewr Durchlaucht sprechen muß Außerst nothwendig wird es daß gleich Demand hingeht um alles ins beste Geleis zu bringen.",
-    "Ich arbeite hier mit die Olesnicas Leute - wolten Ewr Durchlaucht so gnädig sein und von der Parade ein Virtel Stündchen bey mir kommen den könten Höchstdieselben die Menschen alle Selbst höhren, und gleich Höchſt Dero Befehle erteilen was weiter gethan werden soll.",
-    "v Triebenfeld",
-    "[Breslau?] den 30ten April 1804"
+    "126",
+    "Seiner Hochfürstliche",
+    "Durchlaucht Cabanis ist mit den Hussiten zurück — Es hat die Leute außerordentlich gefallen Sie wollen nun zurück eilen. Ihre Glaubensbrüder zusammen ziehen und in 14 Tage alles abmachen Cabanis hat aber viel Neuigkeiten mit gebracht worüber ich mit Ewr Durchlaucht sprechen muß Außerst nothwendig wird es daß gleich Jemand hingeht um alles ins beste Geleis zu bringen.",
+    "Ich arbeite hier mit die Olesnicer Leute - wolten Ewr Durchlaucht so gnädig sein und von der Parade ein Virtel Stündchen bey mir kommen den könten Höchstdieselben die Menschen alle Selbst höhren, und gleich Höchſt Dero Befehle erteilen was weiter gethan werden soll.",
+    "Breslau den 30ten April 1804",
+    "v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0245_a2-L126_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 20
   }
  ],
  "mentions": [
@@ -62,74 +67,25 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0245_a2",
    "scan": "Oe_1_Bu_9454_0245_a2-L126_01.jpg",
-   "line": 9149,
-   "doc_line": 16
+   "line": 9153,
+   "doc_line": 20
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Cabunis",
-   "kind": "person",
-   "surface_de": "Cabunis",
-   "surface_en": "Cabunis",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Cabanis",
-   "kind": "person",
-   "surface_de": "Cabanis",
-   "surface_en": "Cabanis",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hussites",
-   "kind": "other",
-   "surface_de": "Hussiten",
-   "surface_en": "Hussites",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Olesnicas",
-   "kind": "place",
-   "surface_de": "Olesnicas",
-   "surface_en": "Olesnicas",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  }
- ],
- "place_canonical": "Breslau?",
+ "mentions_english": [],
+ "place_canonical": "Breslau",
  "place_mentions": [
   {
    "entity": "olesnica",
    "display": "Olesnica",
    "kind": "place",
-   "surface": "Olesnicas",
+   "surface": "Olesnicer",
    "page": 1,
-   "page_id": "",
+   "page_id": "0245_a2",
    "scan": "Oe_1_Bu_9454_0245_a2-L126_01.jpg",
-   "line": 9143,
-   "doc_line": 10
+   "line": 9146,
+   "doc_line": 13
   },
   {
    "entity": "breslau",
@@ -137,57 +93,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0245_a2",
    "scan": "Oe_1_Bu_9454_0245_a2-L126_01.jpg",
-   "line": 9150,
-   "doc_line": 17
+   "line": 9152,
+   "doc_line": 19
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Cabunis is back with the Hussites — The people have taken an extraordinary liking to it; they now mean to hurry back, gather their brethren in the faith together and settle everything within 14 days. Cabanis has, however, brought many pieces of news with him, about which I must speak with Your Serene Highness. It is in the highest degree necessary that someone go there at once, to bring everything into the best course.\n\nI am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, then Your Highness could hear all these people yourself, and at once issue Your Highness's commands as to what is further to be done.\n\nv. Triebenfeld\n\n[uncertain: Breslau] the 30th April 1804",
-   "names": [
-    {
-     "de": "Cabunis",
-     "en": "Cabunis",
-     "kind": "person"
-    },
-    {
-     "de": "Cabanis",
-     "en": "Cabanis",
-     "kind": "person"
-    },
-    {
-     "de": "Hussiten",
-     "en": "Hussites",
-     "kind": "other"
-    },
-    {
-     "de": "Olesnicas",
-     "en": "Olesnicas",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "14",
-    "30",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Cabunis is back with the Hussites — The people have taken an extraordinary liking to it; they now mean to hurry back, gather their brethren in the faith together and settle everything within 14 days. Cabanis has, however, brought many pieces of news with him, about which I must speak with Your Serene Highness. It is in the highest degree necessary that someone go there at once, to bring everything into the best course.\n\nI am working here with the Olesnicas people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, then Your Highness could hear all these people yourself, and at once issue Your Highness's commands as to what is further to be done.\n\nv. Triebenfeld\n\n[uncertain: Breslau] the 30th April 1804",
- "summary_en": "A short note reporting that Cabanis has returned from the Hussites, who have taken an extraordinary liking to the land and mean to fetch their fellow believers and settle everything within a fortnight. Cabanis brings much other news that Triebenfeld must relay in person, and someone should go there at once. Triebenfeld is meanwhile dealing with the Olesnicas people and asks the Prince to call on him for a quarter of an hour after the parade to hear them himself and give orders.",
- "summary_de": "Meldung über die Werbung von Siedlern: Cabunis (Cabanis) sei von den Hussiten zurück, die Leute hätten großes Gefallen an der Sache gefunden und wollten binnen 14 Tagen ihre Glaubensbrüder sammeln und alles regeln. Cabanis bringe weitere Nachrichten mit, über die Triebenfeld mündlich berichten will; es sei höchst nötig, dass sogleich jemand hinreise. Da er zugleich mit den Leuten aus Olesnicas verhandele, bittet er den Fürsten, nach der Parade auf eine Viertelstunde zu ihm zu kommen, um die Leute selbst zu hören und Befehle zu erteilen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

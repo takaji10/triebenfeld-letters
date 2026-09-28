@@ -1,6 +1,6 @@
 {
  "letter_id": "258",
- "seq_archival": 271,
+ "seq_archival": 268,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-258",
@@ -18,39 +18,43 @@
  "month": 12,
  "day": 7,
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 18370,
- "line_end": 18406,
- "uncertainty_count": 0,
- "has_damage": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 18314,
+ "line_end": 18351,
+ "uncertainty_count": 4,
+ "has_damage": 1,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
  "n_lines": 36,
  "n_pages": 1,
- "text": "Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe\nunterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das\ngranzstatoth zu schulden, Ewr Durchlaucht ließen nur heute durch den Hn Geheimen Staats Rath\nStägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung\nvorgelegt werden solte. Dieses ist im Allgemeinen das E. ein hohenlose\nWeißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das\nIntresse des Staats in der Abtilgungs Sache der Carz Schuld mit ein\ngewürkt ist.\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen,\ndaß die Cur. Erbe die ganze Schuld mit 112000 Rthl dergestalt\ngefolgt ansehen würden, daß sie die Documente zurück reichen wolten.\ndaß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld\nvon 112000 Rthl mittelst abschlags Zahlungen von jährlich 25000 Rthl zufilgen\naußerdem aber die im Jahr 1790 von der König. Kr Casse zu Breslau\nerhobenen 35000 Rthl mit zutilgen gesonnen sey.\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 46000 Rthl\ndieses alles aber geht dem Staate verlohren, wenn statt auf meinen\nVorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden\nder als ehemaliger Vormund das Beste seiner Mandel beständig in Auge\nhaben muß.\nDie Kurz Erben / die Herzogin von Sagan pp / bedürfen jezt Geld. Die\nSchuld von 426000 Rthl ist mit 112000 Rthl getilgt.\nDafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem\nnur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein\nWort nicht brechen kan, bezahlen muß, eine Caution von 60000 Rthl\nund erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine\nStunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander\nsezzen darf\nIn tiefster Ehrerbietigkeit ersterbe\nEwr Hochfürstl. Durchlaucht\ndies gleich mit zurück zu senden\nkeine Abschrift und die Post geht er\nWien den 7ten Decbr. 1814\nunterthänigster Diener\nv Triebenfeld",
- "text_reading": "Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe unterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das granzstatoth zu schulden, Ewr Durchlaucht ließen nur heute durch den Hn Geheimen Staats Rath Stägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung vorgelegt werden solte. Dieses ist im Allgemeinen das E. ein hohenlose Weißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das Intresse des Staats in der Abtilgungs Sache der Carz Schuld mit ein gewürkt ist.\n\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen, daß die Cur. Erbe die ganze Schuld mit 112000 Rthl dergestalt gefolgt ansehen würden, daß sie die Documente zurück reichen wolten. daß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld von 112000 Rthl mittelst abschlags Zahlungen von jährlich 25000 Rthl zufilgen außerdem aber die im Jahr 1790 von der König. Kr Casse zu Breslau erhobenen 35000 Rthl mit zutilgen gesonnen sey.\n\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 46000 Rthl dieses alles aber geht dem Staate verlohren, wenn statt auf meinen Vorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden der als ehemaliger Vormund das Beste seiner Mandel beständig in Auge haben muß.\n\nDie Kurz Erben / die Herzogin von Sagan pp / bedürfen jezt Geld. Die Schuld von 426000 Rthl ist mit 112000 Rthl getilgt. Dafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem nur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein Wort nicht brechen kan, bezahlen muß, eine Caution von 60000 Rthl und erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine Stunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander sezzen darf\n\nIn tiefster Ehrerbietigkeit ersterbe\n\nEwr Hochfürstl. Durchlaucht\n\ndies gleich mit zurück zu senden\n\nkeine Abschrift und die Post geht er\n\nWien den 7ten Decbr. 1814\n\nunterthänigster Diener\n\nv Triebenfeld",
+ "text": "258\nEwr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe\nunterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das\n[...]tegranzstatoth[?] zu schulden, Ewr Durchlaucht ließen nur heute durch den Hr Geheimen Stats Rath\nStägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung\nvorgelegt werden solte. Dieses ist im Allgemeinen das F. ein Hohenlohe\nWeißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das\nIntresse des Staats in der Abtilgungs Sache der Canz. Schuld mit ein\ngewürkt ist.\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen,\n\"daß die Cur[ische]. Erbe die ganze Schuld mit 112000 rt dergestalt\ngefolgt ansehen würden, daß sie die Documente zurück reichen wolten -\ndaß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld\nvon 112000 rt mittelst abschlags Zahlungen von jährlich 25000 rt. zutilgen\naußerdem aber die im Jahr 1790 von der König. Kr. Casse zu Breslau\nerhobenen 35/m. rt. mit zutilgen gesonnen sey.\"\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 461/m rt\ndieses alles aber geht dem Staate verlohren, wenn statt auf meinen\nVorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden\nder als ehemaliger Vormund das Beste seiner Mündel beständig in Auge\nhaben muß.\nDie Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die\nSchuld von 426/m. rt. ist mit 112/m. rt. getilgt.\nDafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem\nnur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein\nWort nicht brechen kan, bezahlen muß, eine Caution von 60000 rt.\nund erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine\nStunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander\nsezzen darf.\nIn tiefster Ehrerbietigkeit ersterbe\nEwr Hochfürstl. Durchlaucht\ndies gleich mit zurück zu senden\n[...] keine Abschrift und die Post geht eb[?].\nWien den 7ten Decbr. 1814\nunterthänigster Diener\nv Triebenfeld",
+ "text_reading": "258 Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe unterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das [...]tegranzstatoth[?] zu schulden, Ewr Durchlaucht ließen nur heute durch den Hr Geheimen Stats Rath Stägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung vorgelegt werden solte. Dieses ist im Allgemeinen das F. ein Hohenlohe Weißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das Intresse des Staats in der Abtilgungs Sache der Canz. Schuld mit ein gewürkt ist.\n\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen, \"daß die Cur[ische]. Erbe die ganze Schuld mit 112000 rt dergestalt gefolgt ansehen würden, daß sie die Documente zurück reichen wolten - daß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld von 112000 rt mittelst abschlags Zahlungen von jährlich 25000 rt. zutilgen außerdem aber die im Jahr 1790 von der König. Kr. Casse zu Breslau erhobenen 35/m. rt. mit zutilgen gesonnen sey.\" Für das ganze obgedachte erwachst dem Staate ein Vortheil von 461/m rt dieses alles aber geht dem Staate verlohren, wenn statt auf meinen Vorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden der als ehemaliger Vormund das Beste seiner Mündel beständig in Auge haben muß.\n\nDie Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die Schuld von 426/m. rt. ist mit 112/m. rt. getilgt. Dafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem nur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein Wort nicht brechen kan, bezahlen muß, eine Caution von 60000 rt. und erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine Stunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander sezzen darf.\n\nIn tiefster Ehrerbietigkeit ersterbe\n\nEwr Hochfürstl. Durchlaucht\n\ndies gleich mit zurück zu senden\n\n[...] keine Abschrift und die Post geht eb[?].\n\nWien den 7ten Decbr. 1814\n\nunterthänigster Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 18371,
-   "line_end": 18405,
-   "n_lines": 35,
-   "diplomatic": "Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe\nunterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das\ngranzstatoth zu schulden, Ewr Durchlaucht ließen nur heute durch den Hn Geheimen Staats Rath\nStägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung\nvorgelegt werden solte. Dieses ist im Allgemeinen das E. ein hohenlose\nWeißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das\nIntresse des Staats in der Abtilgungs Sache der Carz Schuld mit ein\ngewürkt ist.\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen,\ndaß die Cur. Erbe die ganze Schuld mit 112000 Rthl dergestalt\ngefolgt ansehen würden, daß sie die Documente zurück reichen wolten.\ndaß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld\nvon 112000 Rthl mittelst abschlags Zahlungen von jährlich 25000 Rthl zufilgen\naußerdem aber die im Jahr 1790 von der König. Kr Casse zu Breslau\nerhobenen 35000 Rthl mit zutilgen gesonnen sey.\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 46000 Rthl\ndieses alles aber geht dem Staate verlohren, wenn statt auf meinen\nVorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden\nder als ehemaliger Vormund das Beste seiner Mandel beständig in Auge\nhaben muß.\nDie Kurz Erben / die Herzogin von Sagan pp / bedürfen jezt Geld. Die\nSchuld von 426000 Rthl ist mit 112000 Rthl getilgt.\nDafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem\nnur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein\nWort nicht brechen kan, bezahlen muß, eine Caution von 60000 Rthl\nund erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine\nStunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander\nsezzen darf\nIn tiefster Ehrerbietigkeit ersterbe\nEwr Hochfürstl. Durchlaucht\ndies gleich mit zurück zu senden\nkeine Abschrift und die Post geht er\nWien den 7ten Decbr. 1814\nunterthänigster Diener\nv Triebenfeld",
-   "transcription": "Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe\nunterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das\ngranzstatoth zu schulden, Ewr Durchlaucht ließen nur heute durch den Hn Geheimen Staats Rath\nStägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung\nvorgelegt werden solte. Dieses ist im Allgemeinen das E. ein hohenlose\nWeißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das\nIntresse des Staats in der Abtilgungs Sache der Carz Schuld mit ein\ngewürkt ist.\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen,\ndaß die Cur. Erbe die ganze Schuld mit 112000 Rthl dergestalt\ngefolgt ansehen würden, daß sie die Documente zurück reichen wolten.\ndaß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld\nvon 112000 Rthl mittelst abschlags Zahlungen von jährlich 25000 Rthl zufilgen\naußerdem aber die im Jahr 1790 von der König. Kr Casse zu Breslau\nerhobenen 35000 Rthl mit zutilgen gesonnen sey.\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 46000 Rthl\ndieses alles aber geht dem Staate verlohren, wenn statt auf meinen\nVorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden\nder als ehemaliger Vormund das Beste seiner Mandel beständig in Auge\nhaben muß.\nDie Kurz Erben / die Herzogin von Sagan pp / bedürfen jezt Geld. Die\nSchuld von 426000 Rthl ist mit 112000 Rthl getilgt.\nDafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem\nnur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein\nWort nicht brechen kan, bezahlen muß, eine Caution von 60000 Rthl\nund erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine\nStunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander\nsezzen darf\nIn tiefster Ehrerbietigkeit ersterbe\nEwr Hochfürstl. Durchlaucht\ndies gleich mit zurück zu senden\nkeine Abschrift und die Post geht er\nWien den 7ten Decbr. 1814\nunterthänigster Diener\nv Triebenfeld",
-   "reading": "Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe unterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das granzstatoth zu schulden, Ewr Durchlaucht ließen nur heute durch den Hn Geheimen Staats Rath Stägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung vorgelegt werden solte. Dieses ist im Allgemeinen das E. ein hohenlose Weißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das Intresse des Staats in der Abtilgungs Sache der Carz Schuld mit ein gewürkt ist.\n\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen, daß die Cur. Erbe die ganze Schuld mit 112000 Rthl dergestalt gefolgt ansehen würden, daß sie die Documente zurück reichen wolten. daß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld von 112000 Rthl mittelst abschlags Zahlungen von jährlich 25000 Rthl zufilgen außerdem aber die im Jahr 1790 von der König. Kr Casse zu Breslau erhobenen 35000 Rthl mit zutilgen gesonnen sey.\n\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 46000 Rthl dieses alles aber geht dem Staate verlohren, wenn statt auf meinen Vorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden der als ehemaliger Vormund das Beste seiner Mandel beständig in Auge haben muß.\n\nDie Kurz Erben / die Herzogin von Sagan pp / bedürfen jezt Geld. Die Schuld von 426000 Rthl ist mit 112000 Rthl getilgt. Dafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem nur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein Wort nicht brechen kan, bezahlen muß, eine Caution von 60000 Rthl und erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine Stunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander sezzen darf\n\nIn tiefster Ehrerbietigkeit ersterbe\n\nEwr Hochfürstl. Durchlaucht\n\ndies gleich mit zurück zu senden\n\nkeine Abschrift und die Post geht er\n\nWien den 7ten Decbr. 1814\n\nunterthänigster Diener\n\nv Triebenfeld",
+   "page_id": "0473_a",
+   "line_start": 18316,
+   "line_end": 18351,
+   "n_lines": 36,
+   "diplomatic": "258\nEwr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe\nunterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das\n[...]tegranzstatoth[?] zu schulden, Ewr Durchlaucht ließen nur heute durch den Hr Geheimen Stats Rath\nStägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung\nvorgelegt werden solte. Dieses ist im Allgemeinen das F. ein Hohenlohe\nWeißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das\nIntresse des Staats in der Abtilgungs Sache der Canz. Schuld mit ein\ngewürkt ist.\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen,\n\"daß die Cur[ische]. Erbe die ganze Schuld mit 112000 rt dergestalt\ngefolgt ansehen würden, daß sie die Documente zurück reichen wolten -\ndaß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld\nvon 112000 rt mittelst abschlags Zahlungen von jährlich 25000 rt. zutilgen\naußerdem aber die im Jahr 1790 von der König. Kr. Casse zu Breslau\nerhobenen 35/m. rt. mit zutilgen gesonnen sey.\"\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 461/m rt\ndieses alles aber geht dem Staate verlohren, wenn statt auf meinen\nVorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden\nder als ehemaliger Vormund das Beste seiner Mündel beständig in Auge\nhaben muß.\nDie Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die\nSchuld von 426/m. rt. ist mit 112/m. rt. getilgt.\nDafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem\nnur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein\nWort nicht brechen kan, bezahlen muß, eine Caution von 60000 rt.\nund erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine\nStunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander\nsezzen darf.\nIn tiefster Ehrerbietigkeit ersterbe\nEwr Hochfürstl. Durchlaucht\ndies gleich mit zurück zu senden\n[...] keine Abschrift und die Post geht eb[?].\nWien den 7ten Decbr. 1814\nunterthänigster Diener\nv Triebenfeld",
+   "transcription": "258\nEwr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe\nunterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das\n[...]tegranzstatoth[?] zu schulden, Ewr Durchlaucht ließen nur heute durch den Hr Geheimen Stats Rath\nStägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung\nvorgelegt werden solte. Dieses ist im Allgemeinen das F. ein Hohenlohe\nWeißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das\nIntresse des Staats in der Abtilgungs Sache der Canz. Schuld mit ein\ngewürkt ist.\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen,\n\"daß die Cur[ische]. Erbe die ganze Schuld mit 112000 rt dergestalt\ngefolgt ansehen würden, daß sie die Documente zurück reichen wolten -\ndaß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld\nvon 112000 rt mittelst abschlags Zahlungen von jährlich 25000 rt. zutilgen\naußerdem aber die im Jahr 1790 von der König. Kr. Casse zu Breslau\nerhobenen 35/m. rt. mit zutilgen gesonnen sey.\"\nFür das ganze obgedachte erwachst dem Staate ein Vortheil von 461/m rt\ndieses alles aber geht dem Staate verlohren, wenn statt auf meinen\nVorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden\nder als ehemaliger Vormund das Beste seiner Mündel beständig in Auge\nhaben muß.\nDie Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die\nSchuld von 426/m. rt. ist mit 112/m. rt. getilgt.\nDafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem\nnur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein\nWort nicht brechen kan, bezahlen muß, eine Caution von 60000 rt.\nund erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine\nStunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander\nsezzen darf.\nIn tiefster Ehrerbietigkeit ersterbe\nEwr Hochfürstl. Durchlaucht\ndies gleich mit zurück zu senden\n[...] keine Abschrift und die Post geht eb[?].\nWien den 7ten Decbr. 1814\nunterthänigster Diener\nv Triebenfeld",
+   "reading": "258 Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe unterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das [...]tegranzstatoth[?] zu schulden, Ewr Durchlaucht ließen nur heute durch den Hr Geheimen Stats Rath Stägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung vorgelegt werden solte. Dieses ist im Allgemeinen das F. ein Hohenlohe Weißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das Intresse des Staats in der Abtilgungs Sache der Canz. Schuld mit ein gewürkt ist.\n\nIn den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen, \"daß die Cur[ische]. Erbe die ganze Schuld mit 112000 rt dergestalt gefolgt ansehen würden, daß sie die Documente zurück reichen wolten - daß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld von 112000 rt mittelst abschlags Zahlungen von jährlich 25000 rt. zutilgen außerdem aber die im Jahr 1790 von der König. Kr. Casse zu Breslau erhobenen 35/m. rt. mit zutilgen gesonnen sey.\" Für das ganze obgedachte erwachst dem Staate ein Vortheil von 461/m rt dieses alles aber geht dem Staate verlohren, wenn statt auf meinen Vorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden der als ehemaliger Vormund das Beste seiner Mündel beständig in Auge haben muß.\n\nDie Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die Schuld von 426/m. rt. ist mit 112/m. rt. getilgt. Dafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem nur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein Wort nicht brechen kan, bezahlen muß, eine Caution von 60000 rt. und erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine Stunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander sezzen darf.\n\nIn tiefster Ehrerbietigkeit ersterbe\n\nEwr Hochfürstl. Durchlaucht\n\ndies gleich mit zurück zu senden\n\n[...] keine Abschrift und die Post geht eb[?].\n\nWien den 7ten Decbr. 1814\n\nunterthänigster Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe unterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das granzstatoth zu schulden, Ewr Durchlaucht ließen nur heute durch den Hn Geheimen Staats Rath Stägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung vorgelegt werden solte. Dieses ist im Allgemeinen das E. ein hohenlose Weißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das Intresse des Staats in der Abtilgungs Sache der Carz Schuld mit ein gewürkt ist.",
-    "In den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen, daß die Cur. Erbe die ganze Schuld mit 112000 Rthl dergestalt gefolgt ansehen würden, daß sie die Documente zurück reichen wolten. daß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld von 112000 Rthl mittelst abschlags Zahlungen von jährlich 25000 Rthl zufilgen außerdem aber die im Jahr 1790 von der König. Kr Casse zu Breslau erhobenen 35000 Rthl mit zutilgen gesonnen sey.",
-    "Für das ganze obgedachte erwachst dem Staate ein Vortheil von 46000 Rthl dieses alles aber geht dem Staate verlohren, wenn statt auf meinen Vorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden der als ehemaliger Vormund das Beste seiner Mandel beständig in Auge haben muß.",
-    "Die Kurz Erben / die Herzogin von Sagan pp / bedürfen jezt Geld. Die Schuld von 426000 Rthl ist mit 112000 Rthl getilgt. Dafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem nur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein Wort nicht brechen kan, bezahlen muß, eine Caution von 60000 Rthl und erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine Stunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander sezzen darf",
+    "258 Ewr Hochfürstliche Durchlaucht habe ich in Sachen des H. Fürsten von Hohenlohe unterm 23ten Octobr. und 28 Novbr zu schreiben die Ehre gehabt und das [...]tegranzstatoth[?] zu schulden, Ewr Durchlaucht ließen nur heute durch den Hr Geheimen Stats Rath Stägemann eröffnen, daß diese Sache einen Commission in Berlin zur Entscheidung vorgelegt werden solte. Dieses ist im Allgemeinen das F. ein Hohenlohe Weißl. Doch scheint hierbey ganz außer Acht gelaßen zu sein, daß das Intresse des Staats in der Abtilgungs Sache der Canz. Schuld mit ein gewürkt ist.",
+    "In den oben erwähnten Vorstellungen hatte ich die Ehre vorzutragen, \"daß die Cur[ische]. Erbe die ganze Schuld mit 112000 rt dergestalt gefolgt ansehen würden, daß sie die Documente zurück reichen wolten - daß der Fürst von Hohenlohe sich anfechtig mache, diese Staats Schuld von 112000 rt mittelst abschlags Zahlungen von jährlich 25000 rt. zutilgen außerdem aber die im Jahr 1790 von der König. Kr. Casse zu Breslau erhobenen 35/m. rt. mit zutilgen gesonnen sey.\" Für das ganze obgedachte erwachst dem Staate ein Vortheil von 461/m rt dieses alles aber geht dem Staate verlohren, wenn statt auf meinen Vorschlag zu Rflatiren, Nachfragen bey dem Grafen Wratislaw statt finden der als ehemaliger Vormund das Beste seiner Mündel beständig in Auge haben muß.",
+    "Die Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die Schuld von 426/m. rt. ist mit 112/m. rt. getilgt. Dafür stelle ich, wenn dem Fürsten der Vorschuß gegeben wird, indem nur der, und nicht der König, welcher sich schon einmahl los gesagt, und sein Wort nicht brechen kan, bezahlen muß, eine Caution von 60000 rt. und erwarte blos von Ewr Hochfürstliche Durchlaucht, daß Sie über eine Stunde bezeichnen mögten, wo ich Ihnen dieses weiter auseinander sezzen darf.",
     "In tiefster Ehrerbietigkeit ersterbe",
     "Ewr Hochfürstl. Durchlaucht",
     "dies gleich mit zurück zu senden",
-    "keine Abschrift und die Post geht er",
+    "[...] keine Abschrift und die Post geht eb[?].",
     "Wien den 7ten Decbr. 1814",
     "unterthänigster Diener",
     "v Triebenfeld"
@@ -59,7 +63,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 35
+   "doc_line_end": 36
   }
  ],
  "mentions": [
@@ -69,10 +73,10 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0473_a",
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
-   "line": 18371,
-   "doc_line": 1
+   "line": 18317,
+   "doc_line": 2
   },
   {
    "entity": "staegemann",
@@ -80,10 +84,10 @@
    "kind": "person",
    "surface": "Stägemann",
    "page": 1,
-   "page_id": "",
+   "page_id": "0473_a",
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
-   "line": 18374,
-   "doc_line": 4
+   "line": 18320,
+   "doc_line": 5
   },
   {
    "entity": "hohenlohe",
@@ -91,10 +95,32 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0473_a",
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
-   "line": 18382,
-   "doc_line": 12
+   "line": 18321,
+   "doc_line": 6
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0473_a",
+   "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
+   "line": 18328,
+   "doc_line": 13
+  },
+  {
+   "entity": "wratislaw",
+   "display": "Wratislaw",
+   "kind": "person",
+   "surface": "Wratislaw",
+   "page": 1,
+   "page_id": "0473_a",
+   "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
+   "line": 18334,
+   "doc_line": 19
   },
   {
    "entity": "triebenfeld",
@@ -102,10 +128,10 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0473_a",
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
-   "line": 18405,
-   "doc_line": 35
+   "line": 18351,
+   "doc_line": 36
   }
  ],
  "mentions_english": [],
@@ -117,10 +143,10 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0473_a",
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
-   "line": 18374,
-   "doc_line": 4
+   "line": 18320,
+   "doc_line": 5
   },
   {
    "entity": "breslau",
@@ -128,20 +154,26 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0473_a",
    "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
-   "line": 18384,
-   "doc_line": 14
-  }
- ],
- "translation_status": "draft",
- "translation": [
+   "line": 18330,
+   "doc_line": 15
+  },
   {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
    "page": 1,
-   "en": "To Your Most Serene Highness I have had the honour of writing in the matter of the Prince of Hohenlohe under the 23rd of October and the 28th of November, and to owe the granzstatoth [uncertain: granzstatoth]. Your Serene Highness caused it to be disclosed only today through the Privy Councillor of State Stägemann that this matter was to be laid before a commission in Berlin for decision. This is in general the E. a hohenlose Weißl. Yet it seems herein to have been left entirely out of consideration that the interest of the State is bound up in the matter of the discharge of the Carz debt.\n\nIn the representations mentioned above I had the honour to submit that the Courland heirs would regard the whole debt as satisfied with 112000 Rthl, in such wise that they would be willing to hand back the documents; that the Prince of Hohenlohe makes himself liable to discharge this State debt of 112000 Rthl by means of instalment payments of 25000 Rthl annually, but that besides this he is minded to discharge as well the 35000 Rthl drawn in the year 1790 from the Royal Kr[?] Treasury at Breslau.\n\nFor the whole of the aforesaid there accrues to the State an advantage of 46000 Rthl; but all this is lost to the State if, instead of Rflatiren [uncertain: Rflatiren] upon my proposal, enquiries are made of Count Wratislaw, who as former guardian must constantly have the best interest of his ward in view.\n\nThe Kurz heirs / the Duchess of Sagan etc. / are now in need of money. The debt of 426000 Rthl is discharged with 112000 Rthl. For this I furnish, if the advance is given to the Prince — since only he, and not the King, who has already once renounced it and cannot break his word, must pay — a security of 60000 Rthl, and I await nothing further from Your Most Serene Highness than that You might appoint an hour in which I may set this out to You more fully.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nto send this back again at once\n\nno copy, and the post is going out\n\nVienna, the 7th of December 1814\n\nmost humble and obedient servant\n\nv. Triebenfeld"
+   "page_id": "0473_a",
+   "scan": "Oe_1_Bu_9454_0473_a-L258_01.jpg",
+   "line": 18349,
+   "doc_line": 34
   }
  ],
- "text_english": "To Your Most Serene Highness I have had the honour of writing in the matter of the Prince of Hohenlohe under the 23rd of October and the 28th of November, and to owe the granzstatoth [uncertain: granzstatoth]. Your Serene Highness caused it to be disclosed only today through the Privy Councillor of State Stägemann that this matter was to be laid before a commission in Berlin for decision. This is in general the E. a hohenlose Weißl. Yet it seems herein to have been left entirely out of consideration that the interest of the State is bound up in the matter of the discharge of the Carz debt.\n\nIn the representations mentioned above I had the honour to submit that the Courland heirs would regard the whole debt as satisfied with 112000 Rthl, in such wise that they would be willing to hand back the documents; that the Prince of Hohenlohe makes himself liable to discharge this State debt of 112000 Rthl by means of instalment payments of 25000 Rthl annually, but that besides this he is minded to discharge as well the 35000 Rthl drawn in the year 1790 from the Royal Kr[?] Treasury at Breslau.\n\nFor the whole of the aforesaid there accrues to the State an advantage of 46000 Rthl; but all this is lost to the State if, instead of Rflatiren [uncertain: Rflatiren] upon my proposal, enquiries are made of Count Wratislaw, who as former guardian must constantly have the best interest of his ward in view.\n\nThe Kurz heirs / the Duchess of Sagan etc. / are now in need of money. The debt of 426000 Rthl is discharged with 112000 Rthl. For this I furnish, if the advance is given to the Prince — since only he, and not the King, who has already once renounced it and cannot break his word, must pay — a security of 60000 Rthl, and I await nothing further from Your Most Serene Highness than that You might appoint an hour in which I may set this out to You more fully.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nto send this back again at once\n\nno copy, and the post is going out\n\nVienna, the 7th of December 1814\n\nmost humble and obedient servant\n\nv. Triebenfeld",
- "summary_en": "Following earlier representations of 23 October and 28 November, Triebenfeld protests that Privy Councillor of State Stägemann has referred the Hohenlohe debt matter to a commission in Berlin, and that enquiries of Count Wratislaw, a former guardian, will lose the State an advantage of 46,000 Rthl. He explains that the Courland (Kurz) heirs, including the Duchess of Sagan and short of money, would settle a debt of 426,000 Rthl for 112,000 Rthl payable in yearly instalments of 25,000 Rthl, plus 35,000 Rthl drawn at Breslau in 1790, offers security of 60,000 Rthl, and begs an hour's audience.",
- "summary_de": "Erneuter Vorstoß zur Ablösung der Kurz'schen Schuld, nachdem Triebenfeld auf seine Schreiben vom 23. Oktober und 28. November keine Antwort erhielt und durch Geheimen Staatsrat Stägemann erfuhr, die Sache solle einer Kommission in Berlin vorgelegt werden. Die kurländischen Erben, darunter die Herzogin von Sagan, würden die Schuld von 426000 Rthl mit 112000 Rthl in Jahresraten von 25000 Rthl für erledigt halten; dazu sollen 35000 Rthl von 1790 aus der Breslauer Kasse getilgt werden, Vorteil für den Staat 46000 Rthl. Er bietet 60000 Rthl Sicherheit und bittet um eine Audienz; Rückfrage bei Graf Wratislaw hält er für schädlich."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

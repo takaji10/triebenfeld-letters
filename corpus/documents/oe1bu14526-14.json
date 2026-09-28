@@ -279,6 +279,17 @@
  ],
  "mentions": [
   {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 1,
+   "page_id": "0082_b",
+   "scan": "Oe_1_Bu_14526_0082_b-L14_01.jpg",
+   "line": 4372,
+   "doc_line": 7
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -501,6 +512,17 @@
    "scan": "Oe_1_Bu_14526_0082_b-L14_01.jpg",
    "line": 4366,
    "doc_line": 1
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0082_b",
+   "scan": "Oe_1_Bu_14526_0082_b-L14_01.jpg",
+   "line": 4378,
+   "doc_line": 13
   },
   {
    "entity": "trabczyn",

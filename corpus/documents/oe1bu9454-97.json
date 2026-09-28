@@ -17,37 +17,41 @@
  "year": 1799,
  "month": 1,
  "day": "",
- "place": "Berlin",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 7556,
- "line_end": 7605,
+ "place": "Berlin den [?]ten",
+ "sender": "",
+ "recipient": "",
+ "line_start": 7561,
+ "line_end": 7609,
  "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "krotoszyn",
+  "polajewo"
+ ],
  "is_missing": 0,
- "n_lines": 49,
+ "n_lines": 46,
  "n_pages": 2,
- "text": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht\nIhren Weg über Berlin nehmen und Sich hier ein paar Tage\nDer Hr Obrist v. Zastrow hatt dem Monarchen\nverweilen.\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour\nüber Dresden nehmen könten, worauf ihm der König ge¬\nantwortet. Es würde Ihm freuen Ewr Durchlaucht auf\nein paar Tage hier zu sehen.\nwegen Höchst dero Aufenthalt im Reich habe ich daher\nweiter aus Delicatesse nichts erwehnet, weil Ewr durch\nlaucht diese Corde nun hier allein berühren können.\nAnfrichtig gesagt, so weis ich nicht, ob man es gerne sehen,\ndürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien\nabwesend sind.\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich\nhöhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche\nDurchlaucht Ankunft abmachen will. Der Herr Obrist von\nZastrow sagt mich noch gestern – der gute Monarch habe erklärt\n\nMann solle in Betracht beider bey Güter alles prüfen, damit we¬\nder der Staat oder Ewr Durchlaucht verlohren, dann könne den\nTausch statt finden - dies soll nun nur noch durch eine öffent¬\nliche Cabinets Ordre bestätigt werden, und dies ist auch nur\ndas Einzige was zu wünschen ist, dann wird sich das andere\nalles finden. Der Minister v. Voss hatt hiergegen alles auf\ngeboten und kocht noch von Wuth und Rache. Mann hatt Zimme\nund Hölle aufgeboten um den guten Monarchin oder vielmehr\nB und K dahin zu bewegen den Tausch gerade zu abzuschlagen,\nNur diese beiden Männer standen Felsen feste, und bestanden\nAuf einen Entscheid der mit der Ehre besteht —\nWegen die Secul Geschäfte mündlich meinen treue Unter¬\nthänige Meinungen — jezt mein Wahrhaft redlicher Rath\ndaß man davon vor der Hand kein Wort erwehnt\nden dies sind Mutsch gesagt, Mausefallen\nGlenck den ich nicht so gleich wie ich dachte, Mobil machen\nkönt in etwan 24 Stunden nach damit Ewr.\nkan\nDurchlaucht alles weitere disponiren können - ich aber\nerwarte Höchstdieselben hier – den eher gehe ich\nan hier nicht ab bis die Prot. Sache in Stande ist –\nzu tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den [?]ten Januer\n1799.\nunterthänigster treuer Knecht\nv Triebenfeld",
- "text_reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht Ihren Weg über Berlin nehmen und Sich hier ein paar Tage Der Hr Obrist v. Zastrow hatt dem Monarchen verweilen.\n\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour über Dresden nehmen könten, worauf ihm der König geantwortet. Es würde Ihm freuen Ewr Durchlaucht auf ein paar Tage hier zu sehen.\n\nwegen Höchst dero Aufenthalt im Reich habe ich daher weiter aus Delicatesse nichts erwehnet, weil Ewr durch laucht diese Corde nun hier allein berühren können. Anfrichtig gesagt, so weis ich nicht, ob man es gerne sehen, dürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien abwesend sind.\n\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich höhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche Durchlaucht Ankunft abmachen will. Der Herr Obrist von Zastrow sagt mich noch gestern – der gute Monarch habe erklärt\n\nMann solle in Betracht beider bey Güter alles prüfen, damit weder der Staat oder Ewr Durchlaucht verlohren, dann könne den Tausch statt finden - dies soll nun nur noch durch eine öffentliche Cabinets Ordre bestätigt werden, und dies ist auch nur das Einzige was zu wünschen ist, dann wird sich das andere alles finden. Der Minister v. Voss hatt hiergegen alles auf geboten und kocht noch von Wuth und Rache. Mann hatt Zimme und Hölle aufgeboten um den guten Monarchin oder vielmehr B und K dahin zu bewegen den Tausch gerade zu abzuschlagen, Nur diese beiden Männer standen Felsen feste, und bestanden Auf einen Entscheid der mit der Ehre besteht — Wegen die Secul Geschäfte mündlich meinen treue Unterthänige Meinungen — jezt mein Wahrhaft redlicher Rath daß man davon vor der Hand kein Wort erwehnt den dies sind Mutsch gesagt, Mausefallen Glenck den ich nicht so gleich wie ich dachte, Mobil machen könt in etwan 24 Stunden nach damit Ewr. kan Durchlaucht alles weitere disponiren können - ich aber erwarte Höchstdieselben hier – den eher gehe ich an hier nicht ab bis die Prot. Sache in Stande ist – zu tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den [?]ten Januer\n\n1799.\n\nunterthänigster treuer Knecht\n\nv Triebenfeld",
+ "text": "97\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht\nIhren Weg über Berlin nehmen und Sich hier ein paar Tage\nverweilen. Der Hrr Obrist v. Zastrow hatt dem Monarchen\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour\nüber Dresden nehmen könten, worauf ihm der König ge¬\nantwortet. Es würde Ihm freuen Ewr Durchlaucht auf\nein paar Tage hier zu sehen.\nwegen Höchst dero Aufenthalt im Reich habe ich daher\nweiter aus Delicatesse nichts erwehnet, weil Ewr durch\nlaucht diese Corde nun hier allein berühren können.\nAufrichtig gesagt, so weis ich nicht, ob man es gerne sehen,\ndürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien\nabwesend sind.\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich\nhöhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche\nDurchlaucht Ankunft abmachen will. Der Herr Obrist von\nZastrow sagt mich noch gestern – der gute Monarch habe erklärt\nMann solle in Betracht beider bey Güter alles prüfen, damit we¬\nder der Staat oder Ewr Durchlaucht verlohren, dann könne den\nTausch statt finden - dies soll nun nur noch durch eine öffent¬\nliche Cabinets Ordre bestätigt werden, und dies ist auch nur\ndas Einzige was zu wünschen ist, dann wird sich das andere\nalles finden. Der Minister v. Voss hatt hiergegen alles auf\ngeboten und kocht noch von Wuth und Rache. Mann hatt Himmel\nund Hölle aufgeboten um den guten Monarchen oder vielmehr\nB und K dahin zu bewegen den Tausch gerade zu abzuschlagen,\nNur diese beiden Männer standen Felsen feste, und bestanden\nAuf einen Entscheid der mit der Ehre besteht —\nWegen die Secul[arisaten] Geschäfte mündlich meinen treue Unter¬\nthänige Meinungen — jezt mein Wahrhaft redlicher Rath\n- daß man davon vor der Hand kein Wort erwehnt\n- den dies sind Mutsch gesagt, Mausefallen\nGlenck den ich nicht so gleich wie ich dachte, Mobil machen\nkan - könt in etwan 24 Stunden nach damit Ewr.\nDurchlaucht alles weitere disponiren können - ich aber\nerwarte Höchstdieselben hier – den eher gehe ich\nan hier nicht ab bis die Krot[oszyner]. Sache in Stande ist –\nIn tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den [?]ten Januar\n1799.\nunterthänigster treuer Knecht\nv Triebenfeld",
+ "text_reading": "97\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht Ihren Weg über Berlin nehmen und Sich hier ein paar Tage verweilen. Der Hrr Obrist v. Zastrow hatt dem Monarchen gerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour über Dresden nehmen könten, worauf ihm der König geantwortet. Es würde Ihm freuen Ewr Durchlaucht auf ein paar Tage hier zu sehen.\n\nwegen Höchst dero Aufenthalt im Reich habe ich daher weiter aus Delicatesse nichts erwehnet, weil Ewr durch laucht diese Corde nun hier allein berühren können. Aufrichtig gesagt, so weis ich nicht, ob man es gerne sehen, dürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien abwesend sind.\n\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich höhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche Durchlaucht Ankunft abmachen will. Der Herr Obrist von Zastrow sagt mich noch gestern – der gute Monarch habe erklärt\n\nMann solle in Betracht beider bey Güter alles prüfen, damit weder der Staat oder Ewr Durchlaucht verlohren, dann könne den Tausch statt finden - dies soll nun nur noch durch eine öffentliche Cabinets Ordre bestätigt werden, und dies ist auch nur das Einzige was zu wünschen ist, dann wird sich das andere alles finden. Der Minister v. Voss hatt hiergegen alles auf geboten und kocht noch von Wuth und Rache. Mann hatt Himmel und Hölle aufgeboten um den guten Monarchen oder vielmehr B und K dahin zu bewegen den Tausch gerade zu abzuschlagen, Nur diese beiden Männer standen Felsen feste, und bestanden Auf einen Entscheid der mit der Ehre besteht — Wegen die Secul[arisaten] Geschäfte mündlich meinen treue Unterthänige Meinungen — jezt mein Wahrhaft redlicher Rath - daß man davon vor der Hand kein Wort erwehnt - den dies sind Mutsch gesagt, Mausefallen Glenck den ich nicht so gleich wie ich dachte, Mobil machen kan - könt in etwan 24 Stunden nach damit Ewr. Durchlaucht alles weitere disponiren können - ich aber erwarte Höchstdieselben hier – den eher gehe ich an hier nicht ab bis die Krot[oszyner]. Sache in Stande ist – In tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den [?]ten Januar\n\n1799.\n\nunterthänigster treuer Knecht\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 7557,
-   "line_end": 7576,
+   "page_id": "0201_a",
+   "line_start": 7563,
+   "line_end": 7582,
    "n_lines": 20,
-   "diplomatic": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht\nIhren Weg über Berlin nehmen und Sich hier ein paar Tage\nDer Hr Obrist v. Zastrow hatt dem Monarchen\nverweilen.\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour\nüber Dresden nehmen könten, worauf ihm der König ge¬\nantwortet. Es würde Ihm freuen Ewr Durchlaucht auf\nein paar Tage hier zu sehen.\nwegen Höchst dero Aufenthalt im Reich habe ich daher\nweiter aus Delicatesse nichts erwehnet, weil Ewr durch\nlaucht diese Corde nun hier allein berühren können.\nAnfrichtig gesagt, so weis ich nicht, ob man es gerne sehen,\ndürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien\nabwesend sind.\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich\nhöhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche\nDurchlaucht Ankunft abmachen will. Der Herr Obrist von\nZastrow sagt mich noch gestern – der gute Monarch habe erklärt",
-   "transcription": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht\nIhren Weg über Berlin nehmen und Sich hier ein paar Tage\nDer Hr Obrist v. Zastrow hatt dem Monarchen\nverweilen.\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour\nüber Dresden nehmen könten, worauf ihm der König ge-\nantwortet. Es würde Ihm freuen Ewr Durchlaucht auf\nein paar Tage hier zu sehen.\nwegen Höchst dero Aufenthalt im Reich habe ich daher\nweiter aus Delicatesse nichts erwehnet, weil Ewr durch\nlaucht diese Corde nun hier allein berühren können.\nAnfrichtig gesagt, so weis ich nicht, ob man es gerne sehen,\ndürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien\nabwesend sind.\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich\nhöhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche\nDurchlaucht Ankunft abmachen will. Der Herr Obrist von\nZastrow sagt mich noch gestern – der gute Monarch habe erklärt",
-   "reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht Ihren Weg über Berlin nehmen und Sich hier ein paar Tage Der Hr Obrist v. Zastrow hatt dem Monarchen verweilen.\n\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour über Dresden nehmen könten, worauf ihm der König geantwortet. Es würde Ihm freuen Ewr Durchlaucht auf ein paar Tage hier zu sehen.\n\nwegen Höchst dero Aufenthalt im Reich habe ich daher weiter aus Delicatesse nichts erwehnet, weil Ewr durch laucht diese Corde nun hier allein berühren können. Anfrichtig gesagt, so weis ich nicht, ob man es gerne sehen, dürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien abwesend sind.\n\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich höhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche Durchlaucht Ankunft abmachen will. Der Herr Obrist von Zastrow sagt mich noch gestern – der gute Monarch habe erklärt",
+   "diplomatic": "97\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht\nIhren Weg über Berlin nehmen und Sich hier ein paar Tage\nverweilen. Der Hrr Obrist v. Zastrow hatt dem Monarchen\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour\nüber Dresden nehmen könten, worauf ihm der König ge¬\nantwortet. Es würde Ihm freuen Ewr Durchlaucht auf\nein paar Tage hier zu sehen.\nwegen Höchst dero Aufenthalt im Reich habe ich daher\nweiter aus Delicatesse nichts erwehnet, weil Ewr durch\nlaucht diese Corde nun hier allein berühren können.\nAufrichtig gesagt, so weis ich nicht, ob man es gerne sehen,\ndürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien\nabwesend sind.\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich\nhöhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche\nDurchlaucht Ankunft abmachen will. Der Herr Obrist von\nZastrow sagt mich noch gestern – der gute Monarch habe erklärt",
+   "transcription": "97\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht\nIhren Weg über Berlin nehmen und Sich hier ein paar Tage\nverweilen. Der Hrr Obrist v. Zastrow hatt dem Monarchen\ngerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour\nüber Dresden nehmen könten, worauf ihm der König ge-\nantwortet. Es würde Ihm freuen Ewr Durchlaucht auf\nein paar Tage hier zu sehen.\nwegen Höchst dero Aufenthalt im Reich habe ich daher\nweiter aus Delicatesse nichts erwehnet, weil Ewr durch\nlaucht diese Corde nun hier allein berühren können.\nAufrichtig gesagt, so weis ich nicht, ob man es gerne sehen,\ndürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien\nabwesend sind.\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich\nhöhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche\nDurchlaucht Ankunft abmachen will. Der Herr Obrist von\nZastrow sagt mich noch gestern – der gute Monarch habe erklärt",
+   "reading": "97\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nDes Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht Ihren Weg über Berlin nehmen und Sich hier ein paar Tage verweilen. Der Hrr Obrist v. Zastrow hatt dem Monarchen gerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour über Dresden nehmen könten, worauf ihm der König geantwortet. Es würde Ihm freuen Ewr Durchlaucht auf ein paar Tage hier zu sehen.\n\nwegen Höchst dero Aufenthalt im Reich habe ich daher weiter aus Delicatesse nichts erwehnet, weil Ewr durch laucht diese Corde nun hier allein berühren können. Aufrichtig gesagt, so weis ich nicht, ob man es gerne sehen, dürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien abwesend sind.\n\nDer König iſt nun ſo ziemlich wieder hergeſtellt, und ich höhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche Durchlaucht Ankunft abmachen will. Der Herr Obrist von Zastrow sagt mich noch gestern – der gute Monarch habe erklärt",
    "paragraphs": [
+    "97",
     "Durchlauchtigſter Fürſt",
     "Gnädigster Herr!",
-    "Des Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht Ihren Weg über Berlin nehmen und Sich hier ein paar Tage Der Hr Obrist v. Zastrow hatt dem Monarchen verweilen.",
-    "gerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour über Dresden nehmen könten, worauf ihm der König geantwortet. Es würde Ihm freuen Ewr Durchlaucht auf ein paar Tage hier zu sehen.",
-    "wegen Höchst dero Aufenthalt im Reich habe ich daher weiter aus Delicatesse nichts erwehnet, weil Ewr durch laucht diese Corde nun hier allein berühren können. Anfrichtig gesagt, so weis ich nicht, ob man es gerne sehen, dürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien abwesend sind.",
+    "Des Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht Ihren Weg über Berlin nehmen und Sich hier ein paar Tage verweilen. Der Hrr Obrist v. Zastrow hatt dem Monarchen gerade hin gefragt, ob Ewr Durchlaucht Höchst dero tour über Dresden nehmen könten, worauf ihm der König geantwortet. Es würde Ihm freuen Ewr Durchlaucht auf ein paar Tage hier zu sehen.",
+    "wegen Höchst dero Aufenthalt im Reich habe ich daher weiter aus Delicatesse nichts erwehnet, weil Ewr durch laucht diese Corde nun hier allein berühren können. Aufrichtig gesagt, so weis ich nicht, ob man es gerne sehen, dürfte, wann Ewr Durchlaucht 6 Monath aus Schlesien abwesend sind.",
     "Der König iſt nun ſo ziemlich wieder hergeſtellt, und ich höhre daß mann die Tausch Sache noch vor Ewr Hochfürstliche Durchlaucht Ankunft abmachen will. Der Herr Obrist von Zastrow sagt mich noch gestern – der gute Monarch habe erklärt"
    ],
    "continues_previous": false,
@@ -58,17 +62,17 @@
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 7578,
-   "line_end": 7604,
-   "n_lines": 27,
-   "diplomatic": "Mann solle in Betracht beider bey Güter alles prüfen, damit we¬\nder der Staat oder Ewr Durchlaucht verlohren, dann könne den\nTausch statt finden - dies soll nun nur noch durch eine öffent¬\nliche Cabinets Ordre bestätigt werden, und dies ist auch nur\ndas Einzige was zu wünschen ist, dann wird sich das andere\nalles finden. Der Minister v. Voss hatt hiergegen alles auf\ngeboten und kocht noch von Wuth und Rache. Mann hatt Zimme\nund Hölle aufgeboten um den guten Monarchin oder vielmehr\nB und K dahin zu bewegen den Tausch gerade zu abzuschlagen,\nNur diese beiden Männer standen Felsen feste, und bestanden\nAuf einen Entscheid der mit der Ehre besteht —\nWegen die Secul Geschäfte mündlich meinen treue Unter¬\nthänige Meinungen — jezt mein Wahrhaft redlicher Rath\ndaß man davon vor der Hand kein Wort erwehnt\nden dies sind Mutsch gesagt, Mausefallen\nGlenck den ich nicht so gleich wie ich dachte, Mobil machen\nkönt in etwan 24 Stunden nach damit Ewr.\nkan\nDurchlaucht alles weitere disponiren können - ich aber\nerwarte Höchstdieselben hier – den eher gehe ich\nan hier nicht ab bis die Prot. Sache in Stande ist –\nzu tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den [?]ten Januer\n1799.\nunterthänigster treuer Knecht\nv Triebenfeld",
-   "transcription": "Mann solle in Betracht beider bey Güter alles prüfen, damit we-\nder der Staat oder Ewr Durchlaucht verlohren, dann könne den\nTausch statt finden - dies soll nun nur noch durch eine öffent-\nliche Cabinets Ordre bestätigt werden, und dies ist auch nur\ndas Einzige was zu wünschen ist, dann wird sich das andere\nalles finden. Der Minister v. Voss hatt hiergegen alles auf\ngeboten und kocht noch von Wuth und Rache. Mann hatt Zimme\nund Hölle aufgeboten um den guten Monarchin oder vielmehr\nB und K dahin zu bewegen den Tausch gerade zu abzuschlagen,\nNur diese beiden Männer standen Felsen feste, und bestanden\nAuf einen Entscheid der mit der Ehre besteht —\nWegen die Secul Geschäfte mündlich meinen treue Unter-\nthänige Meinungen — jezt mein Wahrhaft redlicher Rath\ndaß man davon vor der Hand kein Wort erwehnt\nden dies sind Mutsch gesagt, Mausefallen\nGlenck den ich nicht so gleich wie ich dachte, Mobil machen\nkönt in etwan 24 Stunden nach damit Ewr.\nkan\nDurchlaucht alles weitere disponiren können - ich aber\nerwarte Höchstdieselben hier – den eher gehe ich\nan hier nicht ab bis die Prot. Sache in Stande ist –\nzu tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den [?]ten Januer\n1799.\nunterthänigster treuer Knecht\nv Triebenfeld",
-   "reading": "Mann solle in Betracht beider bey Güter alles prüfen, damit weder der Staat oder Ewr Durchlaucht verlohren, dann könne den Tausch statt finden - dies soll nun nur noch durch eine öffentliche Cabinets Ordre bestätigt werden, und dies ist auch nur das Einzige was zu wünschen ist, dann wird sich das andere alles finden. Der Minister v. Voss hatt hiergegen alles auf geboten und kocht noch von Wuth und Rache. Mann hatt Zimme und Hölle aufgeboten um den guten Monarchin oder vielmehr B und K dahin zu bewegen den Tausch gerade zu abzuschlagen, Nur diese beiden Männer standen Felsen feste, und bestanden Auf einen Entscheid der mit der Ehre besteht — Wegen die Secul Geschäfte mündlich meinen treue Unterthänige Meinungen — jezt mein Wahrhaft redlicher Rath daß man davon vor der Hand kein Wort erwehnt den dies sind Mutsch gesagt, Mausefallen Glenck den ich nicht so gleich wie ich dachte, Mobil machen könt in etwan 24 Stunden nach damit Ewr. kan Durchlaucht alles weitere disponiren können - ich aber erwarte Höchstdieselben hier – den eher gehe ich an hier nicht ab bis die Prot. Sache in Stande ist – zu tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den [?]ten Januer\n\n1799.\n\nunterthänigster treuer Knecht\n\nv Triebenfeld",
+   "page_id": "0202_a1",
+   "line_start": 7584,
+   "line_end": 7609,
+   "n_lines": 26,
+   "diplomatic": "Mann solle in Betracht beider bey Güter alles prüfen, damit we¬\nder der Staat oder Ewr Durchlaucht verlohren, dann könne den\nTausch statt finden - dies soll nun nur noch durch eine öffent¬\nliche Cabinets Ordre bestätigt werden, und dies ist auch nur\ndas Einzige was zu wünschen ist, dann wird sich das andere\nalles finden. Der Minister v. Voss hatt hiergegen alles auf\ngeboten und kocht noch von Wuth und Rache. Mann hatt Himmel\nund Hölle aufgeboten um den guten Monarchen oder vielmehr\nB und K dahin zu bewegen den Tausch gerade zu abzuschlagen,\nNur diese beiden Männer standen Felsen feste, und bestanden\nAuf einen Entscheid der mit der Ehre besteht —\nWegen die Secul[arisaten] Geschäfte mündlich meinen treue Unter¬\nthänige Meinungen — jezt mein Wahrhaft redlicher Rath\n- daß man davon vor der Hand kein Wort erwehnt\n- den dies sind Mutsch gesagt, Mausefallen\nGlenck den ich nicht so gleich wie ich dachte, Mobil machen\nkan - könt in etwan 24 Stunden nach damit Ewr.\nDurchlaucht alles weitere disponiren können - ich aber\nerwarte Höchstdieselben hier – den eher gehe ich\nan hier nicht ab bis die Krot[oszyner]. Sache in Stande ist –\nIn tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den [?]ten Januar\n1799.\nunterthänigster treuer Knecht\nv Triebenfeld",
+   "transcription": "Mann solle in Betracht beider bey Güter alles prüfen, damit we-\nder der Staat oder Ewr Durchlaucht verlohren, dann könne den\nTausch statt finden - dies soll nun nur noch durch eine öffent-\nliche Cabinets Ordre bestätigt werden, und dies ist auch nur\ndas Einzige was zu wünschen ist, dann wird sich das andere\nalles finden. Der Minister v. Voss hatt hiergegen alles auf\ngeboten und kocht noch von Wuth und Rache. Mann hatt Himmel\nund Hölle aufgeboten um den guten Monarchen oder vielmehr\nB und K dahin zu bewegen den Tausch gerade zu abzuschlagen,\nNur diese beiden Männer standen Felsen feste, und bestanden\nAuf einen Entscheid der mit der Ehre besteht —\nWegen die Secul[arisaten] Geschäfte mündlich meinen treue Unter-\nthänige Meinungen — jezt mein Wahrhaft redlicher Rath\n- daß man davon vor der Hand kein Wort erwehnt\n- den dies sind Mutsch gesagt, Mausefallen\nGlenck den ich nicht so gleich wie ich dachte, Mobil machen\nkan - könt in etwan 24 Stunden nach damit Ewr.\nDurchlaucht alles weitere disponiren können - ich aber\nerwarte Höchstdieselben hier – den eher gehe ich\nan hier nicht ab bis die Krot[oszyner]. Sache in Stande ist –\nIn tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin den [?]ten Januar\n1799.\nunterthänigster treuer Knecht\nv Triebenfeld",
+   "reading": "Mann solle in Betracht beider bey Güter alles prüfen, damit weder der Staat oder Ewr Durchlaucht verlohren, dann könne den Tausch statt finden - dies soll nun nur noch durch eine öffentliche Cabinets Ordre bestätigt werden, und dies ist auch nur das Einzige was zu wünschen ist, dann wird sich das andere alles finden. Der Minister v. Voss hatt hiergegen alles auf geboten und kocht noch von Wuth und Rache. Mann hatt Himmel und Hölle aufgeboten um den guten Monarchen oder vielmehr B und K dahin zu bewegen den Tausch gerade zu abzuschlagen, Nur diese beiden Männer standen Felsen feste, und bestanden Auf einen Entscheid der mit der Ehre besteht — Wegen die Secul[arisaten] Geschäfte mündlich meinen treue Unterthänige Meinungen — jezt mein Wahrhaft redlicher Rath - daß man davon vor der Hand kein Wort erwehnt - den dies sind Mutsch gesagt, Mausefallen Glenck den ich nicht so gleich wie ich dachte, Mobil machen kan - könt in etwan 24 Stunden nach damit Ewr. Durchlaucht alles weitere disponiren können - ich aber erwarte Höchstdieselben hier – den eher gehe ich an hier nicht ab bis die Krot[oszyner]. Sache in Stande ist – In tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBerlin den [?]ten Januar\n\n1799.\n\nunterthänigster treuer Knecht\n\nv Triebenfeld",
    "paragraphs": [
-    "Mann solle in Betracht beider bey Güter alles prüfen, damit weder der Staat oder Ewr Durchlaucht verlohren, dann könne den Tausch statt finden - dies soll nun nur noch durch eine öffentliche Cabinets Ordre bestätigt werden, und dies ist auch nur das Einzige was zu wünschen ist, dann wird sich das andere alles finden. Der Minister v. Voss hatt hiergegen alles auf geboten und kocht noch von Wuth und Rache. Mann hatt Zimme und Hölle aufgeboten um den guten Monarchin oder vielmehr B und K dahin zu bewegen den Tausch gerade zu abzuschlagen, Nur diese beiden Männer standen Felsen feste, und bestanden Auf einen Entscheid der mit der Ehre besteht — Wegen die Secul Geschäfte mündlich meinen treue Unterthänige Meinungen — jezt mein Wahrhaft redlicher Rath daß man davon vor der Hand kein Wort erwehnt den dies sind Mutsch gesagt, Mausefallen Glenck den ich nicht so gleich wie ich dachte, Mobil machen könt in etwan 24 Stunden nach damit Ewr. kan Durchlaucht alles weitere disponiren können - ich aber erwarte Höchstdieselben hier – den eher gehe ich an hier nicht ab bis die Prot. Sache in Stande ist – zu tiefster Submission ersterbe",
+    "Mann solle in Betracht beider bey Güter alles prüfen, damit weder der Staat oder Ewr Durchlaucht verlohren, dann könne den Tausch statt finden - dies soll nun nur noch durch eine öffentliche Cabinets Ordre bestätigt werden, und dies ist auch nur das Einzige was zu wünschen ist, dann wird sich das andere alles finden. Der Minister v. Voss hatt hiergegen alles auf geboten und kocht noch von Wuth und Rache. Mann hatt Himmel und Hölle aufgeboten um den guten Monarchen oder vielmehr B und K dahin zu bewegen den Tausch gerade zu abzuschlagen, Nur diese beiden Männer standen Felsen feste, und bestanden Auf einen Entscheid der mit der Ehre besteht — Wegen die Secul[arisaten] Geschäfte mündlich meinen treue Unterthänige Meinungen — jezt mein Wahrhaft redlicher Rath - daß man davon vor der Hand kein Wort erwehnt - den dies sind Mutsch gesagt, Mausefallen Glenck den ich nicht so gleich wie ich dachte, Mobil machen kan - könt in etwan 24 Stunden nach damit Ewr. Durchlaucht alles weitere disponiren können - ich aber erwarte Höchstdieselben hier – den eher gehe ich an hier nicht ab bis die Krot[oszyner]. Sache in Stande ist – In tiefster Submission ersterbe",
     "Ewr Hochfürstliche Durchlaucht",
-    "Berlin den [?]ten Januer",
+    "Berlin den [?]ten Januar",
     "1799.",
     "unterthänigster treuer Knecht",
     "v Triebenfeld"
@@ -77,7 +81,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
    "doc_line_start": 21,
-   "doc_line_end": 47
+   "doc_line_end": 46
   }
  ],
  "mentions": [
@@ -87,10 +91,10 @@
    "kind": "person",
    "surface": "Zastrow",
    "page": 1,
-   "page_id": "",
+   "page_id": "0201_a",
    "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
-   "line": 7561,
-   "doc_line": 5
+   "line": 7568,
+   "doc_line": 6
   },
   {
    "entity": "zastrow",
@@ -98,9 +102,9 @@
    "kind": "person",
    "surface": "Zastrow",
    "page": 1,
-   "page_id": "",
+   "page_id": "0201_a",
    "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
-   "line": 7576,
+   "line": 7582,
    "doc_line": 20
   },
   {
@@ -109,9 +113,9 @@
    "kind": "person",
    "surface": "Voss",
    "page": 2,
-   "page_id": "",
+   "page_id": "0202_a1",
    "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
-   "line": 7583,
+   "line": 7589,
    "doc_line": 26
   },
   {
@@ -120,9 +124,9 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 2,
-   "page_id": "",
+   "page_id": "0202_a1",
    "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
-   "line": 7593,
+   "line": 7599,
    "doc_line": 36
   },
   {
@@ -131,111 +135,14 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0202_a1",
    "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
-   "line": 7604,
-   "doc_line": 47
+   "line": 7609,
+   "doc_line": 46
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Colonel von Zastrow",
-   "kind": "person",
-   "surface_de": "Obrist v. Zastrow",
-   "surface_en": "Colonel von Zastrow",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Dresden",
-   "kind": "place",
-   "surface_de": "Dresden",
-   "surface_en": "Dresden",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Silesia",
-   "kind": "place",
-   "surface_de": "Schlesien",
-   "surface_en": "Silesia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Minister von Voss",
-   "kind": "person",
-   "surface_de": "Minister v. Voss",
-   "surface_en": "Minister von Voss",
-   "page": 2
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "B",
-   "kind": "person",
-   "surface_de": "B",
-   "surface_en": "B",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "K",
-   "kind": "person",
-   "surface_de": "K",
-   "surface_en": "K",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Zimme",
-   "kind": "other",
-   "surface_de": "Zimme",
-   "surface_en": "Zimme",
-   "page": 2
-  }
- ],
- "place_canonical": "Berlin",
+ "mentions_english": [],
+ "place_canonical": "Berlin den [?]ten",
  "place_mentions": [
   {
    "entity": "berlin",
@@ -243,10 +150,43 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0201_a",
    "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
-   "line": 7560,
-   "doc_line": 4
+   "line": 7567,
+   "doc_line": 5
+  },
+  {
+   "entity": "dresden",
+   "display": "Dresden",
+   "kind": "place",
+   "surface": "Dresden",
+   "page": 1,
+   "page_id": "0201_a",
+   "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
+   "line": 7570,
+   "doc_line": 8
+  },
+  {
+   "entity": "schlesien",
+   "display": "Schlesien",
+   "kind": "place",
+   "surface": "Schlesien",
+   "page": 1,
+   "page_id": "0201_a",
+   "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
+   "line": 7577,
+   "doc_line": 15
+  },
+  {
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface": "Krot[oszyner]",
+   "page": 2,
+   "page_id": "0202_a1",
+   "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
+   "line": 7603,
+   "doc_line": 40
   },
   {
    "entity": "berlin",
@@ -254,95 +194,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0202_a1",
    "scan": "Oe_1_Bu_9454_0202_a1-L97_02.jpg",
-   "line": 7601,
-   "doc_line": 44
+   "line": 7606,
+   "doc_line": 43
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nHis Majesty the King wishes that Your Most Serene Highness would take your route by way of Berlin and tarry here a couple of days. Colonel von Zastrow has [text follows] the monarch\n\nasked outright whether Your Serene Highness might take Your Most High tour by way of Dresden, whereupon the King answered him: it would give Him pleasure to see Your Serene Highness here for a couple of days.\n\nConcerning Your Most High sojourn in the Empire I have therefore, out of delicacy, mentioned nothing further, since Your Serene Highness can now touch this chord here in person alone. To speak candidly, I do not know whether it might be looked upon kindly if Your Serene Highness were absent from Silesia for 6 months.\n\nThe King is now tolerably restored again, and I hear that they wish to settle the exchange matter before Your Most Serene Highness's arrival. Colonel von Zastrow told me only yesterday – the good monarch has declared",
-   "names": [
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Obrist v. Zastrow",
-     "en": "Colonel von Zastrow",
-     "kind": "person"
-    },
-    {
-     "de": "Dresden",
-     "en": "Dresden",
-     "kind": "place"
-    },
-    {
-     "de": "Schlesien",
-     "en": "Silesia",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "6"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "that in consideration of both estates everything should be examined, so that neither the State nor Your Serene Highness lose by it; then the exchange might take place - this is now only to be confirmed by a public cabinet order, and this is also the only thing to be wished for, for then all the rest will settle itself. Minister von Voss has done everything in his power against it and still seethes with fury and vengeance. They have summoned [uncertain: Zimme] and Hell to move the good monarch - or rather B and K - to refuse the exchange outright. Only these two men stood firm as rock, and insisted upon a decision consistent with honour — Concerning the secularisation affairs, my faithful and humble opinions by word of mouth — now my truly honest counsel, that for the present not a word of it be mentioned, for these are, said between us, mouse-traps. Glenck, whom I could not make mobile as promptly as I had thought, in about 24 hours, so that Your Serene Highness may dispose of all the rest - but I await Your Most High Self here – for I shall not depart hence before the Prot. matter is in order – in deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the [illegible]th of January\n\n1799.\n\nmost humble and faithful servant\n\nvon Triebenfeld",
-   "names": [
-    {
-     "de": "Minister v. Voss",
-     "en": "Minister von Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "B",
-     "en": "B",
-     "kind": "person"
-    },
-    {
-     "de": "K",
-     "en": "K",
-     "kind": "person"
-    },
-    {
-     "de": "Zimme",
-     "en": "Zimme",
-     "kind": "other"
-    }
-   ],
-   "numbers": [
-    "24",
-    "1799"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nHis Majesty the King wishes that Your Most Serene Highness would take your route by way of Berlin and tarry here a couple of days. Colonel von Zastrow has [text follows] the monarch\n\nasked outright whether Your Serene Highness might take Your Most High tour by way of Dresden, whereupon the King answered him: it would give Him pleasure to see Your Serene Highness here for a couple of days.\n\nConcerning Your Most High sojourn in the Empire I have therefore, out of delicacy, mentioned nothing further, since Your Serene Highness can now touch this chord here in person alone. To speak candidly, I do not know whether it might be looked upon kindly if Your Serene Highness were absent from Silesia for 6 months.\n\nThe King is now tolerably restored again, and I hear that they wish to settle the exchange matter before Your Most Serene Highness's arrival. Colonel von Zastrow told me only yesterday – the good monarch has declared\n\nthat in consideration of both estates everything should be examined, so that neither the State nor Your Serene Highness lose by it; then the exchange might take place - this is now only to be confirmed by a public cabinet order, and this is also the only thing to be wished for, for then all the rest will settle itself. Minister von Voss has done everything in his power against it and still seethes with fury and vengeance. They have summoned [uncertain: Zimme] and Hell to move the good monarch - or rather B and K - to refuse the exchange outright. Only these two men stood firm as rock, and insisted upon a decision consistent with honour — Concerning the secularisation affairs, my faithful and humble opinions by word of mouth — now my truly honest counsel, that for the present not a word of it be mentioned, for these are, said between us, mouse-traps. Glenck, whom I could not make mobile as promptly as I had thought, in about 24 hours, so that Your Serene Highness may dispose of all the rest - but I await Your Most High Self here – for I shall not depart hence before the Prot. matter is in order – in deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the [illegible]th of January\n\n1799.\n\nmost humble and faithful servant\n\nvon Triebenfeld",
- "summary_en": "Word from Colonel von Zastrow that the King, now tolerably recovered, would be pleased to see the Prince in Berlin for a couple of days; Triebenfeld urges him to come and to raise the question of a stay in the Empire himself, doubting a six-month absence from Silesia would be well received. The estate exchange is to be examined so that neither state nor Prince loses, then confirmed by cabinet order, despite Minister von Voss's furious opposition. Advises silence on the secularisation schemes.",
- "summary_de": "Nachricht, der König wünsche den Fürsten für einige Tage in Berlin zu sehen; Oberst von Zastrow habe dies beim Monarchen erfragt. Triebenfeld rät, den Aufenthalt im Reich vorerst nicht zu erwähnen, und zweifelt, ob eine halbjährige Abwesenheit aus Schlesien gut aufgenommen würde. Die Tauschsache stehe günstig: beide Güter sollen geprüft werden, damit weder Staat noch Fürst verlieren; nötig sei nur noch eine Kabinettsordre. Minister von Voss arbeite dagegen. Von den Säkularisationssachen (\"Mausefallen\") solle geschwiegen werden."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

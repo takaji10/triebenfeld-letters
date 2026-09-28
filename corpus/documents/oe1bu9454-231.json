@@ -1,6 +1,6 @@
 {
  "letter_id": "231",
- "seq_archival": 244,
+ "seq_archival": 241,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-231",
@@ -20,32 +20,34 @@
  "place": "Breslau",
  "sender": "",
  "recipient": "",
- "line_start": 16857,
- "line_end": 16878,
- "uncertainty_count": 0,
+ "line_start": 16797,
+ "line_end": 16819,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
  "n_lines": 21,
  "n_pages": 1,
- "text": "Hochwohlgebohrner\nhochzuverehrender Herr und Freund!\nVor einigen Wochen war ich eigener Geschäfte wegen im Kalisch,\nwozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und\nzu sprechen, welches Vergnügen aber entbehren müße, auch\nkönte mit Gewißheit den Ort Ihres dermahligen Auffenthalts\nnicht erfahren, ansonst Ihnen meinem Besuch gemacht\nhaben würde; da ich aber doch sehr wünschte mich mit ihnen\nüber die Angelegenheiten zwischen Johann Fürstens v. Hohenlohe\nund mir zu besprechen und zu berathen, so würde hiemit Ihnen\nhöflich bitten, nur gefälligst einen Tag zu bestimmen an welchem\nich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie\nes sonst verlangen, zu finden, ich werde dieses als einem Be¬\nweiß Ihrer gegen mich hegenden Freundschaft erkennen, und\nzu allen Gegengefälligkeiten mich stets bereit finden laßen.\nIm Erwartung einer geneigten baldigen Antwort bin unverändert\nEwr. Hochwohlgeb.\nBreslau d 9ten Januar 1812\nergebener Freund u. Diener\nC. F. Weigel",
- "text_reading": "Hochwohlgebohrner\n\nhochzuverehrender Herr und Freund!\n\nVor einigen Wochen war ich eigener Geschäfte wegen im Kalisch, wozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und zu sprechen, welches Vergnügen aber entbehren müße, auch könte mit Gewißheit den Ort Ihres dermahligen Auffenthalts nicht erfahren, ansonst Ihnen meinem Besuch gemacht haben würde; da ich aber doch sehr wünschte mich mit ihnen über die Angelegenheiten zwischen Johann Fürstens v. Hohenlohe und mir zu besprechen und zu berathen, so würde hiemit Ihnen höflich bitten, nur gefälligst einen Tag zu bestimmen an welchem ich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie es sonst verlangen, zu finden, ich werde dieses als einem Beweiß Ihrer gegen mich hegenden Freundschaft erkennen, und zu allen Gegengefälligkeiten mich stets bereit finden laßen. Im Erwartung einer geneigten baldigen Antwort bin unverändert Ewr. Hochwohlgeb.\n\nBreslau d 9ten Januar 1812\n\nergebener Freund u. Diener\n\nC. F. Weigel",
+ "text": "231\nHochwohlgebohrner\nhochzuverehrender Herr und Freund!\nVor einigen Wochen war ich eigener Geschäfte waren im Kalisz,\nwozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und\nzu sprechen, welches Vergnügen aber entbehren müße, auch\nkönte mit Gewißheit den Ort Ihres dermahligen Auffenthalts\nnicht erfahren, ansonst Ihnen meinem Besuch gemacht\nhaben würde; da ich aber doch sehr wünschte mich mit ihnen\nüber die Angelegenheiten zwischen Ihrem[?] Fürstens v. Hohenlohe\nund mir zu besprochen und zu berathen, so würde hiemit Ihnen\nhöflich bitten, nur gefälligst einen Tag zu bestimmen an welchem\nich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie\nes sonst verlangen, zu finden, ich werde dieses als einem Be¬\nweiß Ihrer gegen mich hegenden Freundschaft erkennen, und\nzu allen Gegengefälligkeiten mich stets bereit finden laßen.\nIm Erwartung einer geneigten baldigen Antworth bin unverändert\nEwr. Hochwohlgeb.\nBreslau d 9ten Januar 1812\nergebener Freund u. Diener\nC. F. Weigel",
+ "text_reading": "231\n\nHochwohlgebohrner\n\nhochzuverehrender Herr und Freund!\n\nVor einigen Wochen war ich eigener Geschäfte waren im Kalisz, wozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und zu sprechen, welches Vergnügen aber entbehren müße, auch könte mit Gewißheit den Ort Ihres dermahligen Auffenthalts nicht erfahren, ansonst Ihnen meinem Besuch gemacht haben würde; da ich aber doch sehr wünschte mich mit ihnen über die Angelegenheiten zwischen Ihrem[?] Fürstens v. Hohenlohe und mir zu besprochen und zu berathen, so würde hiemit Ihnen höflich bitten, nur gefälligst einen Tag zu bestimmen an welchem ich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie es sonst verlangen, zu finden, ich werde dieses als einem Beweiß Ihrer gegen mich hegenden Freundschaft erkennen, und zu allen Gegengefälligkeiten mich stets bereit finden laßen. Im Erwartung einer geneigten baldigen Antworth bin unverändert Ewr. Hochwohlgeb.\n\nBreslau d 9ten Januar 1812\n\nergebener Freund u. Diener\n\nC. F. Weigel",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 16858,
-   "line_end": 16877,
-   "n_lines": 20,
-   "diplomatic": "Hochwohlgebohrner\nhochzuverehrender Herr und Freund!\nVor einigen Wochen war ich eigener Geschäfte wegen im Kalisch,\nwozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und\nzu sprechen, welches Vergnügen aber entbehren müße, auch\nkönte mit Gewißheit den Ort Ihres dermahligen Auffenthalts\nnicht erfahren, ansonst Ihnen meinem Besuch gemacht\nhaben würde; da ich aber doch sehr wünschte mich mit ihnen\nüber die Angelegenheiten zwischen Johann Fürstens v. Hohenlohe\nund mir zu besprechen und zu berathen, so würde hiemit Ihnen\nhöflich bitten, nur gefälligst einen Tag zu bestimmen an welchem\nich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie\nes sonst verlangen, zu finden, ich werde dieses als einem Be¬\nweiß Ihrer gegen mich hegenden Freundschaft erkennen, und\nzu allen Gegengefälligkeiten mich stets bereit finden laßen.\nIm Erwartung einer geneigten baldigen Antwort bin unverändert\nEwr. Hochwohlgeb.\nBreslau d 9ten Januar 1812\nergebener Freund u. Diener\nC. F. Weigel",
-   "transcription": "Hochwohlgebohrner\nhochzuverehrender Herr und Freund!\nVor einigen Wochen war ich eigener Geschäfte wegen im Kalisch,\nwozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und\nzu sprechen, welches Vergnügen aber entbehren müße, auch\nkönte mit Gewißheit den Ort Ihres dermahligen Auffenthalts\nnicht erfahren, ansonst Ihnen meinem Besuch gemacht\nhaben würde; da ich aber doch sehr wünschte mich mit ihnen\nüber die Angelegenheiten zwischen Johann Fürstens v. Hohenlohe\nund mir zu besprechen und zu berathen, so würde hiemit Ihnen\nhöflich bitten, nur gefälligst einen Tag zu bestimmen an welchem\nich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie\nes sonst verlangen, zu finden, ich werde dieses als einem Be-\nweiß Ihrer gegen mich hegenden Freundschaft erkennen, und\nzu allen Gegengefälligkeiten mich stets bereit finden laßen.\nIm Erwartung einer geneigten baldigen Antwort bin unverändert\nEwr. Hochwohlgeb.\nBreslau d 9ten Januar 1812\nergebener Freund u. Diener\nC. F. Weigel",
-   "reading": "Hochwohlgebohrner\n\nhochzuverehrender Herr und Freund!\n\nVor einigen Wochen war ich eigener Geschäfte wegen im Kalisch, wozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und zu sprechen, welches Vergnügen aber entbehren müße, auch könte mit Gewißheit den Ort Ihres dermahligen Auffenthalts nicht erfahren, ansonst Ihnen meinem Besuch gemacht haben würde; da ich aber doch sehr wünschte mich mit ihnen über die Angelegenheiten zwischen Johann Fürstens v. Hohenlohe und mir zu besprechen und zu berathen, so würde hiemit Ihnen höflich bitten, nur gefälligst einen Tag zu bestimmen an welchem ich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie es sonst verlangen, zu finden, ich werde dieses als einem Beweiß Ihrer gegen mich hegenden Freundschaft erkennen, und zu allen Gegengefälligkeiten mich stets bereit finden laßen. Im Erwartung einer geneigten baldigen Antwort bin unverändert Ewr. Hochwohlgeb.\n\nBreslau d 9ten Januar 1812\n\nergebener Freund u. Diener\n\nC. F. Weigel",
+   "page_id": "0435_b",
+   "line_start": 16799,
+   "line_end": 16819,
+   "n_lines": 21,
+   "diplomatic": "231\nHochwohlgebohrner\nhochzuverehrender Herr und Freund!\nVor einigen Wochen war ich eigener Geschäfte waren im Kalisz,\nwozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und\nzu sprechen, welches Vergnügen aber entbehren müße, auch\nkönte mit Gewißheit den Ort Ihres dermahligen Auffenthalts\nnicht erfahren, ansonst Ihnen meinem Besuch gemacht\nhaben würde; da ich aber doch sehr wünschte mich mit ihnen\nüber die Angelegenheiten zwischen Ihrem[?] Fürstens v. Hohenlohe\nund mir zu besprochen und zu berathen, so würde hiemit Ihnen\nhöflich bitten, nur gefälligst einen Tag zu bestimmen an welchem\nich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie\nes sonst verlangen, zu finden, ich werde dieses als einem Be¬\nweiß Ihrer gegen mich hegenden Freundschaft erkennen, und\nzu allen Gegengefälligkeiten mich stets bereit finden laßen.\nIm Erwartung einer geneigten baldigen Antworth bin unverändert\nEwr. Hochwohlgeb.\nBreslau d 9ten Januar 1812\nergebener Freund u. Diener\nC. F. Weigel",
+   "transcription": "231\nHochwohlgebohrner\nhochzuverehrender Herr und Freund!\nVor einigen Wochen war ich eigener Geschäfte waren im Kalisz,\nwozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und\nzu sprechen, welches Vergnügen aber entbehren müße, auch\nkönte mit Gewißheit den Ort Ihres dermahligen Auffenthalts\nnicht erfahren, ansonst Ihnen meinem Besuch gemacht\nhaben würde; da ich aber doch sehr wünschte mich mit ihnen\nüber die Angelegenheiten zwischen Ihrem[?] Fürstens v. Hohenlohe\nund mir zu besprochen und zu berathen, so würde hiemit Ihnen\nhöflich bitten, nur gefälligst einen Tag zu bestimmen an welchem\nich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie\nes sonst verlangen, zu finden, ich werde dieses als einem Be-\nweiß Ihrer gegen mich hegenden Freundschaft erkennen, und\nzu allen Gegengefälligkeiten mich stets bereit finden laßen.\nIm Erwartung einer geneigten baldigen Antworth bin unverändert\nEwr. Hochwohlgeb.\nBreslau d 9ten Januar 1812\nergebener Freund u. Diener\nC. F. Weigel",
+   "reading": "231\n\nHochwohlgebohrner\n\nhochzuverehrender Herr und Freund!\n\nVor einigen Wochen war ich eigener Geschäfte waren im Kalisz, wozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und zu sprechen, welches Vergnügen aber entbehren müße, auch könte mit Gewißheit den Ort Ihres dermahligen Auffenthalts nicht erfahren, ansonst Ihnen meinem Besuch gemacht haben würde; da ich aber doch sehr wünschte mich mit ihnen über die Angelegenheiten zwischen Ihrem[?] Fürstens v. Hohenlohe und mir zu besprochen und zu berathen, so würde hiemit Ihnen höflich bitten, nur gefälligst einen Tag zu bestimmen an welchem ich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie es sonst verlangen, zu finden, ich werde dieses als einem Beweiß Ihrer gegen mich hegenden Freundschaft erkennen, und zu allen Gegengefälligkeiten mich stets bereit finden laßen. Im Erwartung einer geneigten baldigen Antworth bin unverändert Ewr. Hochwohlgeb.\n\nBreslau d 9ten Januar 1812\n\nergebener Freund u. Diener\n\nC. F. Weigel",
    "paragraphs": [
+    "231",
     "Hochwohlgebohrner",
     "hochzuverehrender Herr und Freund!",
-    "Vor einigen Wochen war ich eigener Geschäfte wegen im Kalisch, wozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und zu sprechen, welches Vergnügen aber entbehren müße, auch könte mit Gewißheit den Ort Ihres dermahligen Auffenthalts nicht erfahren, ansonst Ihnen meinem Besuch gemacht haben würde; da ich aber doch sehr wünschte mich mit ihnen über die Angelegenheiten zwischen Johann Fürstens v. Hohenlohe und mir zu besprechen und zu berathen, so würde hiemit Ihnen höflich bitten, nur gefälligst einen Tag zu bestimmen an welchem ich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie es sonst verlangen, zu finden, ich werde dieses als einem Beweiß Ihrer gegen mich hegenden Freundschaft erkennen, und zu allen Gegengefälligkeiten mich stets bereit finden laßen. Im Erwartung einer geneigten baldigen Antwort bin unverändert Ewr. Hochwohlgeb.",
+    "Vor einigen Wochen war ich eigener Geschäfte waren im Kalisz, wozugleich hofte, Ihnen schäzbarer Freund daselbst zu sehen, und zu sprechen, welches Vergnügen aber entbehren müße, auch könte mit Gewißheit den Ort Ihres dermahligen Auffenthalts nicht erfahren, ansonst Ihnen meinem Besuch gemacht haben würde; da ich aber doch sehr wünschte mich mit ihnen über die Angelegenheiten zwischen Ihrem[?] Fürstens v. Hohenlohe und mir zu besprochen und zu berathen, so würde hiemit Ihnen höflich bitten, nur gefälligst einen Tag zu bestimmen an welchem ich das Vergnügen haben könte Ihnen in Kalisz oder wo Sie es sonst verlangen, zu finden, ich werde dieses als einem Beweiß Ihrer gegen mich hegenden Freundschaft erkennen, und zu allen Gegengefälligkeiten mich stets bereit finden laßen. Im Erwartung einer geneigten baldigen Antworth bin unverändert Ewr. Hochwohlgeb.",
     "Breslau d 9ten Januar 1812",
     "ergebener Freund u. Diener",
     "C. F. Weigel"
@@ -54,7 +56,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 20
+   "doc_line_end": 21
   }
  ],
  "mentions": [
@@ -64,10 +66,10 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0435_b",
    "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
-   "line": 16866,
-   "doc_line": 9
+   "line": 16808,
+   "doc_line": 10
   },
   {
    "entity": "weigel",
@@ -75,66 +77,25 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0435_b",
    "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
-   "line": 16877,
-   "doc_line": 20
+   "line": 16819,
+   "doc_line": 21
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisch",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Johann, Prince of Hohenlohe",
-   "kind": "person",
-   "surface_de": "Johann Fürstens v. Hohenlohe",
-   "surface_en": "Johann, Prince of Hohenlohe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisz",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "C. F. Weigel",
-   "kind": "person",
-   "surface_de": "C. F. Weigel",
-   "surface_en": "C. F. Weigel",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
-   "surface": "Kalisch",
+   "surface": "Kalisz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0435_b",
    "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
-   "line": 16860,
-   "doc_line": 3
+   "line": 16802,
+   "doc_line": 4
   },
   {
    "entity": "kalisz",
@@ -142,10 +103,10 @@
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0435_b",
    "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
-   "line": 16869,
-   "doc_line": 12
+   "line": 16811,
+   "doc_line": 13
   },
   {
    "entity": "breslau",
@@ -153,51 +114,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0435_b",
    "scan": "Oe_1_Bu_9454_0435_b-L231_01.jpg",
-   "line": 16875,
-   "doc_line": 18
+   "line": 16817,
+   "doc_line": 19
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Right Honourable,\n\nmost highly revered Sir and Friend!\n\nSome weeks ago I was at Kalisz on my own business, where I at the same time hoped to see and to speak with you, my esteemed Friend, in that place, which pleasure however I had to forgo; nor could I learn with certainty the place of your present residence, for otherwise I should have paid you my visit; since however I greatly wished to confer and take counsel with you concerning the affairs between Johann, Prince of Hohenlohe, and myself, I would herewith politely beg you only to be so kind as to appoint a day on which I might have the pleasure of finding you at Kalisz, or wherever else you may desire it; I shall acknowledge this as a proof of the friendship you bear towards me, and shall always let myself be found ready for every return of favours. In expectation of an obliging and speedy reply I am, unchangingly, Your Right Honourable's\n\nBreslau, the 9th of January 1812\n\ndevoted Friend and servant\n\nC. F. Weigel",
-   "names": [
-    {
-     "de": "Kalisch",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Johann Fürstens v. Hohenlohe",
-     "en": "Johann, Prince of Hohenlohe",
-     "kind": "person"
-    },
-    {
-     "de": "Kalisz",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "C. F. Weigel",
-     "en": "C. F. Weigel",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "9",
-    "1812"
-   ]
-  }
- ],
- "text_english": "Right Honourable,\n\nmost highly revered Sir and Friend!\n\nSome weeks ago I was at Kalisz on my own business, where I at the same time hoped to see and to speak with you, my esteemed Friend, in that place, which pleasure however I had to forgo; nor could I learn with certainty the place of your present residence, for otherwise I should have paid you my visit; since however I greatly wished to confer and take counsel with you concerning the affairs between Johann, Prince of Hohenlohe, and myself, I would herewith politely beg you only to be so kind as to appoint a day on which I might have the pleasure of finding you at Kalisz, or wherever else you may desire it; I shall acknowledge this as a proof of the friendship you bear towards me, and shall always let myself be found ready for every return of favours. In expectation of an obliging and speedy reply I am, unchangingly, Your Right Honourable's\n\nBreslau, the 9th of January 1812\n\ndevoted Friend and servant\n\nC. F. Weigel",
- "summary_en": "C. F. Weigel reports a recent visit to Kalisz on his own business, where he had hoped to meet Triebenfeld but could not, having been unable to learn where he was then living. He asks him to name a day and place, at Kalisz or elsewhere, for a meeting to discuss and take advice on the matters outstanding between Weigel and Johann, Prince of Hohenlohe, and presses for a speedy reply.",
- "summary_de": "Bitte um ein persönliches Treffen: C. F. Weigel war vor einigen Wochen in eigener Sache in Kalisch und hoffte, Triebenfeld dort zu sprechen, erfuhr aber auch dessen derzeitigen Aufenthaltsort nicht. Da er sich über die Angelegenheiten zwischen dem Prinzen Johann zu Hohenlohe und sich selbst beraten möchte, bittet er Triebenfeld, einen Tag zu bestimmen, an dem er ihn in Kalisch oder an einem anderen Ort antreffen könne, und erwartet baldige Antwort."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

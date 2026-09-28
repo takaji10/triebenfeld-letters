@@ -934,6 +934,17 @@
    "doc_line": 3
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0092_b",
+   "scan": "Oe_1_Bu_14526_0092_b-L16_01.jpg",
+   "line": 4964,
+   "doc_line": 6
+  },
+  {
    "entity": "zagorowo",
    "display": "Zagórów",
    "kind": "place",
@@ -967,6 +978,28 @@
    "doc_line": 17
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0092_b",
+   "scan": "Oe_1_Bu_14526_0092_b-L16_01.jpg",
+   "line": 4985,
+   "doc_line": 27
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0093_a1",
+   "scan": "Oe_1_Bu_14526_0093_a1-L16_02.jpg",
+   "line": 5014,
+   "doc_line": 55
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -987,6 +1020,28 @@
    "scan": "Oe_1_Bu_14526_0099_a2-L16_15.jpg",
    "line": 5422,
    "doc_line": 450
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyner",
+   "page": 16,
+   "page_id": "0100_a1",
+   "scan": "Oe_1_Bu_14526_0100_a1-L16_16.jpg",
+   "line": 5433,
+   "doc_line": 460
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 18,
+   "page_id": "0101_a1",
+   "scan": "Oe_1_Bu_14526_0101_a1-L16_18.jpg",
+   "line": 5520,
+   "doc_line": 545
   }
  ],
  "translation_status": "draft",

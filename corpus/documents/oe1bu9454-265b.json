@@ -1,6 +1,6 @@
 {
  "letter_id": "265b",
- "seq_archival": 279,
+ "seq_archival": 276,
  "parent_letter": "265",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-265b",
@@ -11,41 +11,45 @@
  "themes": [],
  "date_iso": "1815-01-15",
  "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1815-01-15]",
- "date_inferred_from": "supplied by researcher",
+ "date_source": "signature",
+ "date_display": "den 15ten Januar 1815.",
+ "date_inferred_from": "",
  "year": 1815,
  "month": 1,
  "day": 15,
  "place": "Schlawenschitz",
  "sender": "",
  "recipient": "",
- "line_start": 18854,
- "line_end": 18886,
- "uncertainty_count": 0,
+ "line_start": 18801,
+ "line_end": 18833,
+ "uncertainty_count": 2,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn",
+  "kamionno"
+ ],
  "is_missing": 0,
- "n_lines": 32,
+ "n_lines": 31,
  "n_pages": 1,
- "text": "Hochwohlgeborner Herr\nHöchstverehrter Herr General\nder verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem\ngewißen Prussiemski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter\nMiedzeritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an\nKoniner Kreise. Die 1806 in der Provinz Warschau zusammengekretenen verwaltungs Commission, nahm mir\ndie Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilfitter Frieden weg und\ngab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück. Ich klagte da\nrüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal\ndie Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen\nCommission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden\ndies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis\ndaher. Voriges Jahr wandte sich mein General Bevollmächtigster der Kriegs-Vorst\nrath v Triebenfeld in dieser Sachen an d H. Fürstn v Hardenberg. Der Fürst beschied diesem dahin, diese\nGeschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie\nnun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten\nAuf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers May anheim¬\nUnbekant mit dem Vnstl. Geschäftsgang weiß ich nun nicht an, wem ich mich wegen recto¬\nmirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinska\nauf den General Gouverneur Landskog haben soll.\nIn dieser bedrängten Lage wende ich mich mit der herzlichsten Bette an Ewr Hochwohlgeboren\nmich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken\ndaß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen\nRevenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr\nHochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst\ndie nöthigen Belehrungen.\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich\nstets sein.\nEwr Hochwohlgeborn\nSchlawenschitz\nden 15ten Januar 1815.",
- "text_reading": "Hochwohlgeborner Herr\n\nHöchstverehrter Herr General der verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem gewißen Prussiemski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter Miedzeritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an Koniner Kreise. Die 1806 in der Provinz Warschau zusammengekretenen verwaltungs Commission, nahm mir die Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilfitter Frieden weg und gab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück. Ich klagte da rüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal die Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen Commission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden dies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis daher. Voriges Jahr wandte sich mein General Bevollmächtigster der Kriegs-Vorst rath v Triebenfeld in dieser Sachen an d H. Fürstn v Hardenberg. Der Fürst beschied diesem dahin, diese Geschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie nun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten Auf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers May anheim Unbekant mit dem Vnstl. Geschäftsgang weiß ich nun nicht an, wem ich mich wegen rectomirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinska auf den General Gouverneur Landskog haben soll.\n\nIn dieser bedrängten Lage wende ich mich mit der herzlichsten Bette an Ewr Hochwohlgeboren mich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken daß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen Revenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr Hochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst die nöthigen Belehrungen.\n\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich stets sein.\n\nEwr Hochwohlgeborn\n\nSchlawenschitz\n\nden 15ten Januar 1815.",
+ "text": "Hochwohlgeborner Herr\nHöchstverehrter Herr General\nder verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem\ngewißen Prusimski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter\nMeseritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an\nKoniner Kreise. Die 1806 in der Provinz Warschau zusammengetretenen verwaltungs Commission, nahm mir\ndie Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilsitter Frieden weg und\ngab sie der Tochter des Prusimski, jezt verehelichte Moscinska zurück. Ich klagte da\nrüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal\ndie Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen\nCommission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden -\ndies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis\ndaher. Voriges Jahr wandte sich mein General Bevollmächtigter der Krieges und Forst¬\nrath v Triebenfeld in dieser Sachen an d H. Fürsten v Hardenberg. Der Fürst beschied diesem dahin, diese\nGeschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie\nnun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten\nAuf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers Maj anheim -\nUnbekant mit dem Vn[?]stl. Geschäftsgang weiß ich nun nicht an wem ich mich wegen recto¬\nmirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinski\nauf den General Gouverneur Landsko[g/y?] haben soll.\nIn dieser bedrängten Lage wende ich mich mit der herzigsten Bitte an Ewr Hochwohlgeboren\nmich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken\ndaß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen\nRevenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr\nHochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst\ndie nöthigen Belehrungen.\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich\nstets sein.\nEwr Hochwohlgeborn\nSchlawenschitz\nden 15ten Januar 1815.",
+ "text_reading": "Hochwohlgeborner Herr\n\nHöchstverehrter Herr General der verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem gewißen Prusimski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter Meseritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an Koniner Kreise. Die 1806 in der Provinz Warschau zusammengetretenen verwaltungs Commission, nahm mir die Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilsitter Frieden weg und gab sie der Tochter des Prusimski, jezt verehelichte Moscinska zurück. Ich klagte da rüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal die Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen Commission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden - dies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis daher. Voriges Jahr wandte sich mein General Bevollmächtigter der Krieges und Forstrath v Triebenfeld in dieser Sachen an d H. Fürsten v Hardenberg. Der Fürst beschied diesem dahin, diese Geschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie nun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten Auf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers Maj anheim - Unbekant mit dem Vn[?]stl. Geschäftsgang weiß ich nun nicht an wem ich mich wegen rectomirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinski auf den General Gouverneur Landsko[g/y?] haben soll.\n\nIn dieser bedrängten Lage wende ich mich mit der herzigsten Bitte an Ewr Hochwohlgeboren mich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken daß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen Revenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr Hochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst die nöthigen Belehrungen.\n\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich stets sein.\n\nEwr Hochwohlgeborn\n\nSchlawenschitz\n\nden 15ten Januar 1815.",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 18855,
-   "line_end": 18885,
+   "page_id": "0484_a2",
+   "line_start": 18803,
+   "line_end": 18833,
    "n_lines": 31,
-   "diplomatic": "Hochwohlgeborner Herr\nHöchstverehrter Herr General\nder verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem\ngewißen Prussiemski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter\nMiedzeritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an\nKoniner Kreise. Die 1806 in der Provinz Warschau zusammengekretenen verwaltungs Commission, nahm mir\ndie Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilfitter Frieden weg und\ngab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück. Ich klagte da\nrüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal\ndie Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen\nCommission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden\ndies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis\ndaher. Voriges Jahr wandte sich mein General Bevollmächtigster der Kriegs-Vorst\nrath v Triebenfeld in dieser Sachen an d H. Fürstn v Hardenberg. Der Fürst beschied diesem dahin, diese\nGeschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie\nnun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten\nAuf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers May anheim¬\nUnbekant mit dem Vnstl. Geschäftsgang weiß ich nun nicht an, wem ich mich wegen recto¬\nmirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinska\nauf den General Gouverneur Landskog haben soll.\nIn dieser bedrängten Lage wende ich mich mit der herzlichsten Bette an Ewr Hochwohlgeboren\nmich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken\ndaß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen\nRevenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr\nHochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst\ndie nöthigen Belehrungen.\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich\nstets sein.\nEwr Hochwohlgeborn\nSchlawenschitz\nden 15ten Januar 1815.",
-   "transcription": "Hochwohlgeborner Herr\nHöchstverehrter Herr General\nder verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem\ngewißen Prussiemski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter\nMiedzeritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an\nKoniner Kreise. Die 1806 in der Provinz Warschau zusammengekretenen verwaltungs Commission, nahm mir\ndie Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilfitter Frieden weg und\ngab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück. Ich klagte da\nrüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal\ndie Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen\nCommission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden\ndies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis\ndaher. Voriges Jahr wandte sich mein General Bevollmächtigster der Kriegs-Vorst\nrath v Triebenfeld in dieser Sachen an d H. Fürstn v Hardenberg. Der Fürst beschied diesem dahin, diese\nGeschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie\nnun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten\nAuf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers May anheim\nUnbekant mit dem Vnstl. Geschäftsgang weiß ich nun nicht an, wem ich mich wegen recto-\nmirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinska\nauf den General Gouverneur Landskog haben soll.\nIn dieser bedrängten Lage wende ich mich mit der herzlichsten Bette an Ewr Hochwohlgeboren\nmich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken\ndaß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen\nRevenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr\nHochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst\ndie nöthigen Belehrungen.\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich\nstets sein.\nEwr Hochwohlgeborn\nSchlawenschitz\nden 15ten Januar 1815.",
-   "reading": "Hochwohlgeborner Herr\n\nHöchstverehrter Herr General der verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem gewißen Prussiemski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter Miedzeritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an Koniner Kreise. Die 1806 in der Provinz Warschau zusammengekretenen verwaltungs Commission, nahm mir die Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilfitter Frieden weg und gab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück. Ich klagte da rüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal die Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen Commission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden dies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis daher. Voriges Jahr wandte sich mein General Bevollmächtigster der Kriegs-Vorst rath v Triebenfeld in dieser Sachen an d H. Fürstn v Hardenberg. Der Fürst beschied diesem dahin, diese Geschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie nun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten Auf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers May anheim Unbekant mit dem Vnstl. Geschäftsgang weiß ich nun nicht an, wem ich mich wegen rectomirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinska auf den General Gouverneur Landskog haben soll.\n\nIn dieser bedrängten Lage wende ich mich mit der herzlichsten Bette an Ewr Hochwohlgeboren mich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken daß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen Revenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr Hochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst die nöthigen Belehrungen.\n\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich stets sein.\n\nEwr Hochwohlgeborn\n\nSchlawenschitz\n\nden 15ten Januar 1815.",
+   "diplomatic": "Hochwohlgeborner Herr\nHöchstverehrter Herr General\nder verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem\ngewißen Prusimski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter\nMeseritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an\nKoniner Kreise. Die 1806 in der Provinz Warschau zusammengetretenen verwaltungs Commission, nahm mir\ndie Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilsitter Frieden weg und\ngab sie der Tochter des Prusimski, jezt verehelichte Moscinska zurück. Ich klagte da\nrüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal\ndie Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen\nCommission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden -\ndies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis\ndaher. Voriges Jahr wandte sich mein General Bevollmächtigter der Krieges und Forst¬\nrath v Triebenfeld in dieser Sachen an d H. Fürsten v Hardenberg. Der Fürst beschied diesem dahin, diese\nGeschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie\nnun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten\nAuf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers Maj anheim -\nUnbekant mit dem Vn[?]stl. Geschäftsgang weiß ich nun nicht an wem ich mich wegen recto¬\nmirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinski\nauf den General Gouverneur Landsko[g/y?] haben soll.\nIn dieser bedrängten Lage wende ich mich mit der herzigsten Bitte an Ewr Hochwohlgeboren\nmich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken\ndaß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen\nRevenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr\nHochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst\ndie nöthigen Belehrungen.\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich\nstets sein.\nEwr Hochwohlgeborn\nSchlawenschitz\nden 15ten Januar 1815.",
+   "transcription": "Hochwohlgeborner Herr\nHöchstverehrter Herr General\nder verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem\ngewißen Prusimski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter\nMeseritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an\nKoniner Kreise. Die 1806 in der Provinz Warschau zusammengetretenen verwaltungs Commission, nahm mir\ndie Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilsitter Frieden weg und\ngab sie der Tochter des Prusimski, jezt verehelichte Moscinska zurück. Ich klagte da\nrüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal\ndie Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen\nCommission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden -\ndies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis\ndaher. Voriges Jahr wandte sich mein General Bevollmächtigter der Krieges und Forst-\nrath v Triebenfeld in dieser Sachen an d H. Fürsten v Hardenberg. Der Fürst beschied diesem dahin, diese\nGeschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie\nnun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten\nAuf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers Maj anheim -\nUnbekant mit dem Vn[?]stl. Geschäftsgang weiß ich nun nicht an wem ich mich wegen recto-\nmirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinski\nauf den General Gouverneur Landsko[g/y?] haben soll.\nIn dieser bedrängten Lage wende ich mich mit der herzigsten Bitte an Ewr Hochwohlgeboren\nmich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken\ndaß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen\nRevenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr\nHochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst\ndie nöthigen Belehrungen.\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich\nstets sein.\nEwr Hochwohlgeborn\nSchlawenschitz\nden 15ten Januar 1815.",
+   "reading": "Hochwohlgeborner Herr\n\nHöchstverehrter Herr General der verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem gewißen Prusimski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter Meseritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an Koniner Kreise. Die 1806 in der Provinz Warschau zusammengetretenen verwaltungs Commission, nahm mir die Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilsitter Frieden weg und gab sie der Tochter des Prusimski, jezt verehelichte Moscinska zurück. Ich klagte da rüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal die Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen Commission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden - dies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis daher. Voriges Jahr wandte sich mein General Bevollmächtigter der Krieges und Forstrath v Triebenfeld in dieser Sachen an d H. Fürsten v Hardenberg. Der Fürst beschied diesem dahin, diese Geschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie nun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten Auf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers Maj anheim - Unbekant mit dem Vn[?]stl. Geschäftsgang weiß ich nun nicht an wem ich mich wegen rectomirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinski auf den General Gouverneur Landsko[g/y?] haben soll.\n\nIn dieser bedrängten Lage wende ich mich mit der herzigsten Bitte an Ewr Hochwohlgeboren mich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken daß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen Revenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr Hochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst die nöthigen Belehrungen.\n\nMit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich stets sein.\n\nEwr Hochwohlgeborn\n\nSchlawenschitz\n\nden 15ten Januar 1815.",
    "paragraphs": [
     "Hochwohlgeborner Herr",
-    "Höchstverehrter Herr General der verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem gewißen Prussiemski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter Miedzeritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an Koniner Kreise. Die 1806 in der Provinz Warschau zusammengekretenen verwaltungs Commission, nahm mir die Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilfitter Frieden weg und gab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück. Ich klagte da rüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal die Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen Commission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden dies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis daher. Voriges Jahr wandte sich mein General Bevollmächtigster der Kriegs-Vorst rath v Triebenfeld in dieser Sachen an d H. Fürstn v Hardenberg. Der Fürst beschied diesem dahin, diese Geschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie nun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten Auf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers May anheim Unbekant mit dem Vnstl. Geschäftsgang weiß ich nun nicht an, wem ich mich wegen rectomirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinska auf den General Gouverneur Landskog haben soll.",
-    "In dieser bedrängten Lage wende ich mich mit der herzlichsten Bette an Ewr Hochwohlgeboren mich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken daß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen Revenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr Hochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst die nöthigen Belehrungen.",
+    "Höchstverehrter Herr General der verstorbenen König verliche mir in Jahr 1796 in der Provinz Südpreußen, die einem gewißen Prusimski confizirten Kaemener und Trąbczyner Güter. Erstere liegen unter Meseritz im Posenschen Departement, leztere aber im Kalischer dieseits der Warthe an Koniner Kreise. Die 1806 in der Provinz Warschau zusammengetretenen verwaltungs Commission, nahm mir die Güter gewaltsamer Weise 1807 und zwar 14 Wochen nach den Tilsitter Frieden weg und gab sie der Tochter des Prusimski, jezt verehelichte Moscinska zurück. Ich klagte da rüber bey dem Kalischen Tribunal, nach Jahr und Tag erhielt ich von gedachten Tribunal die Resolution, daß sich selbiger nicht ermächtiget hielte, die Verfügung der damaligen Commission aufzuheben, ich solle mich desfals an den Kayser Napoleon wenden - dies war meinem Gefühle entgegen, und es besitzt die v. Moscinska die Güter noch bis daher. Voriges Jahr wandte sich mein General Bevollmächtigter der Krieges und Forstrath v Triebenfeld in dieser Sachen an d H. Fürsten v Hardenberg. Der Fürst beschied diesem dahin, diese Geschichte so lange ruhen zu laßen, bis Pahlens Angelegenheiten entschieden sein würden. Wie nun der Wust sagt, so ist dies geschehen, und wie ich höhre, so soll die Prosna die Gränze halten Auf der Art falt der District, worin die Trąbczyner Güter liegen des Wüstl. Kaysers Maj anheim - Unbekant mit dem Vn[?]stl. Geschäftsgang weiß ich nun nicht an wem ich mich wegen rectomirung der Güter wenden soll, ja noch mehr, ich fürchte den Einfluß welchen Moscinski auf den General Gouverneur Landsko[g/y?] haben soll.",
+    "In dieser bedrängten Lage wende ich mich mit der herzigsten Bitte an Ewr Hochwohlgeboren mich bey des Kaysers Majestät Ihr Vorwort angedeihen zu laßen, und es dahin zu lenken daß der Kayser selbst befiehlt, daß mir die Trąbczyner Güter nebst dem 8 jährigen Revenuen zurück gegeben werden. Dem Krieges Rath v Triebenfeld geruhen Ewr Hochwohlgeboren ein geneigtes Gehör zu verstatten, und ertheilen ihm gütigst die nöthigen Belehrungen.",
     "Mit unbegränzter Dankbarkeit, und der aller vorzüglichsten Hochachtung werde ich stets sein.",
     "Ewr Hochwohlgeborn",
     "Schlawenschitz",
@@ -63,33 +67,33 @@
    "entity": "prusimski",
    "display": "Prusimski family (Trąbczyn estates)",
    "kind": "person",
-   "surface": "Prussiemski",
+   "surface": "Prusimski",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18858,
+   "line": 18806,
    "doc_line": 4
   },
   {
    "entity": "prusimska",
    "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
    "kind": "person",
-   "surface": "Miączyńska",
+   "surface": "Moscinska",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18862,
+   "line": 18810,
    "doc_line": 8
   },
   {
    "entity": "prusimski",
    "display": "Prusimski family (Trąbczyn estates)",
    "kind": "person",
-   "surface": "Prussiemski",
+   "surface": "Prusimski",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18862,
+   "line": 18810,
    "doc_line": 8
   },
   {
@@ -98,9 +102,9 @@
    "kind": "person",
    "surface": "Napoleon",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18865,
+   "line": 18813,
    "doc_line": 11
   },
   {
@@ -109,9 +113,9 @@
    "kind": "person",
    "surface": "Moscinska",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18866,
+   "line": 18814,
    "doc_line": 12
   },
   {
@@ -120,9 +124,9 @@
    "kind": "person",
    "surface": "Hardenberg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18868,
+   "line": 18816,
    "doc_line": 14
   },
   {
@@ -131,21 +135,21 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18868,
+   "line": 18816,
    "doc_line": 14
   },
   {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "entity": "landskoy",
+   "display": "Lanskoy",
    "kind": "person",
-   "surface": "Moscinska",
+   "surface": "Landsko[",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18873,
-   "doc_line": 19
+   "line": 18822,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -153,201 +157,35 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18878,
+   "line": 18826,
    "doc_line": 24
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "South Prussia",
-   "kind": "place",
-   "surface_de": "Südpreußen",
-   "surface_en": "South Prussia",
-   "page": 1
-  },
-  {
-   "entity": "prusimski",
-   "display": "Prusimski family (Trąbczyn estates)",
-   "kind": "person",
-   "surface_de": "Prussiemski",
-   "surface_en": "Prussiemski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kamionna",
-   "kind": "place",
-   "surface_de": "Kaemener",
-   "surface_en": "Kamionna",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyner",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Miedzeritz",
-   "kind": "place",
-   "surface_de": "Miedzeritz",
-   "surface_en": "Miedzeritz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Posen",
-   "kind": "place",
-   "surface_de": "Posenschen",
-   "surface_en": "Posen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalischer",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Warthe",
-   "kind": "place",
-   "surface_de": "Warthe",
-   "surface_en": "Warthe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Konin",
-   "kind": "place",
-   "surface_de": "Koniner",
-   "surface_en": "Konin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Warsaw",
-   "kind": "place",
-   "surface_de": "Warschau",
-   "surface_en": "Warsaw",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Tilsit",
-   "kind": "place",
-   "surface_de": "Tilfitter",
-   "surface_en": "Tilsit",
-   "page": 1
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface_de": "Miączyńska",
-   "surface_en": "Miączyńska",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalischen",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "napoleon",
-   "display": "Napoleon",
-   "kind": "person",
-   "surface_de": "Napoleon",
-   "surface_en": "Napoleon",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Moscinska",
-   "kind": "person",
-   "surface_de": "v. Moscinska",
-   "surface_en": "von Moscinska",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince von Hardenberg",
-   "kind": "person",
-   "surface_de": "Fürstn v Hardenberg",
-   "surface_en": "Prince von Hardenberg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Pahlen's",
-   "kind": "person",
-   "surface_de": "Pahlens",
-   "surface_en": "Pahlen's",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prosna",
-   "kind": "place",
-   "surface_de": "Prosna",
-   "surface_en": "Prosna",
-   "page": 1
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface_de": "Moscinska",
-   "surface_en": "Moscinska",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Landskog",
-   "kind": "person",
-   "surface_de": "Landskog",
-   "surface_en": "Landskog",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schlawenschitz",
-   "kind": "place",
-   "surface_de": "Schlawenschitz",
-   "surface_en": "Schlawenschitz",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 1,
+   "page_id": "0484_a2",
+   "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
+   "line": 18805,
+   "doc_line": 3
+  },
   {
    "entity": "kamionno",
    "display": "Kamionna",
    "kind": "place",
    "surface": "Kaemener",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18858,
+   "line": 18806,
    "doc_line": 4
   },
   {
@@ -356,9 +194,9 @@
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18858,
+   "line": 18806,
    "doc_line": 4
   },
   {
@@ -367,9 +205,20 @@
    "kind": "place",
    "surface": "Kalischer",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18859,
+   "line": 18807,
+   "doc_line": 5
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritz",
+   "page": 1,
+   "page_id": "0484_a2",
+   "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
+   "line": 18807,
    "doc_line": 5
   },
   {
@@ -378,9 +227,20 @@
    "kind": "place",
    "surface": "Koniner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18860,
+   "line": 18808,
+   "doc_line": 6
+  },
+  {
+   "entity": "warschau",
+   "display": "Warschau",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0484_a2",
+   "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
+   "line": 18808,
    "doc_line": 6
   },
   {
@@ -389,9 +249,9 @@
    "kind": "place",
    "surface": "Kalischen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18863,
+   "line": 18811,
    "doc_line": 9
   },
   {
@@ -400,9 +260,9 @@
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18871,
+   "line": 18819,
    "doc_line": 17
   },
   {
@@ -411,9 +271,9 @@
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18877,
+   "line": 18825,
    "doc_line": 23
   },
   {
@@ -422,141 +282,15 @@
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0484_a2",
    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
-   "line": 18884,
+   "line": 18832,
    "doc_line": 30
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Right Honourable Sir\n\nMost highly revered Sir, the late King conferred upon me in the year 1796, in the province of South Prussia, the Kamionna and Trąbczyn estates confiscated from a certain Prussiemski. The former lie below Miedzeritz in the Posen department, the latter however in the Kalisz [department], on this side of the Warthe, in the Konin district. The administrative commission assembled in 1806 in the province of Warsaw took the estates from me by violent means in 1807, and that fourteen weeks after the Peace of Tilsit, and gave them back to the daughter of Prussiemski, now married as Miączyńska. I brought complaint of this before the Kalisz tribunal; after a year and a day I received from the said tribunal the resolution that it did not hold itself empowered to annul the disposition of the commission of that time, and that I should turn in this matter to the Emperor Napoleon — this was contrary to my feeling, and Madam von Moscinska possesses the estates still to this day. Last year my general attorney, the Councillor of War and Forests von Triebenfeld, applied in this business to His Excellency the Prince von Hardenberg. The Prince directed him to let this affair rest until Pahlen's affairs should be decided. As rumour now has it, this has come about, and as I hear, the Prosna is to form the boundary. In that manner the district in which the Trąbczyn estates lie falls to [uncertain: the Russian] Imperial Majesty. Being unacquainted with the [illegible] course of business, I now do not know to whom I should turn concerning the recovery of the estates; indeed, still more, I fear the influence which Moscinska is said to have upon the Governor-General Landskog.\n\nIn this straitened situation I turn with the most heartfelt entreaty to Your Right Honourable, that you may let your intercession be extended to me before His Imperial Majesty, and may so direct the matter that the Emperor himself shall command that the Trąbczyn estates, together with the eight years' revenues, be given back to me. May Your Right Honourable deign to grant a favourable hearing to the Councillor of War von Triebenfeld, and most kindly impart to him the necessary instructions.\n\nWith unbounded gratitude, and with the most especial respect, I shall ever be\n\nYour Right Honourable's\n\nSchlawenschitz\n\nthe 15th of January 1815.",
-   "names": [
-    {
-     "de": "Südpreußen",
-     "en": "South Prussia",
-     "kind": "place"
-    },
-    {
-     "de": "Prussiemski",
-     "en": "Prussiemski",
-     "kind": "person"
-    },
-    {
-     "de": "Kaemener",
-     "en": "Kamionna",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyner",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Miedzeritz",
-     "en": "Miedzeritz",
-     "kind": "place"
-    },
-    {
-     "de": "Posenschen",
-     "en": "Posen",
-     "kind": "place"
-    },
-    {
-     "de": "Kalischer",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Warthe",
-     "en": "Warthe",
-     "kind": "place"
-    },
-    {
-     "de": "Koniner",
-     "en": "Konin",
-     "kind": "place"
-    },
-    {
-     "de": "Warschau",
-     "en": "Warsaw",
-     "kind": "place"
-    },
-    {
-     "de": "Tilfitter",
-     "en": "Tilsit",
-     "kind": "place"
-    },
-    {
-     "de": "Miączyńska",
-     "en": "Miączyńska",
-     "kind": "person"
-    },
-    {
-     "de": "Kalischen",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Napoleon",
-     "en": "Napoleon",
-     "kind": "person"
-    },
-    {
-     "de": "v. Moscinska",
-     "en": "von Moscinska",
-     "kind": "person"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Fürstn v Hardenberg",
-     "en": "Prince von Hardenberg",
-     "kind": "person"
-    },
-    {
-     "de": "Pahlens",
-     "en": "Pahlen's",
-     "kind": "person"
-    },
-    {
-     "de": "Prosna",
-     "en": "Prosna",
-     "kind": "place"
-    },
-    {
-     "de": "Moscinska",
-     "en": "Moscinska",
-     "kind": "person"
-    },
-    {
-     "de": "Landskog",
-     "en": "Landskog",
-     "kind": "person"
-    },
-    {
-     "de": "Schlawenschitz",
-     "en": "Schlawenschitz",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "1796",
-    "1806",
-    "1807",
-    "14",
-    "8",
-    "15",
-    "1815"
-   ]
-  }
- ],
- "text_english": "Right Honourable Sir\n\nMost highly revered Sir, the late King conferred upon me in the year 1796, in the province of South Prussia, the Kamionna and Trąbczyn estates confiscated from a certain Prussiemski. The former lie below Miedzeritz in the Posen department, the latter however in the Kalisz [department], on this side of the Warthe, in the Konin district. The administrative commission assembled in 1806 in the province of Warsaw took the estates from me by violent means in 1807, and that fourteen weeks after the Peace of Tilsit, and gave them back to the daughter of Prussiemski, now married as Miączyńska. I brought complaint of this before the Kalisz tribunal; after a year and a day I received from the said tribunal the resolution that it did not hold itself empowered to annul the disposition of the commission of that time, and that I should turn in this matter to the Emperor Napoleon — this was contrary to my feeling, and Madam von Moscinska possesses the estates still to this day. Last year my general attorney, the Councillor of War and Forests von Triebenfeld, applied in this business to His Excellency the Prince von Hardenberg. The Prince directed him to let this affair rest until Pahlen's affairs should be decided. As rumour now has it, this has come about, and as I hear, the Prosna is to form the boundary. In that manner the district in which the Trąbczyn estates lie falls to [uncertain: the Russian] Imperial Majesty. Being unacquainted with the [illegible] course of business, I now do not know to whom I should turn concerning the recovery of the estates; indeed, still more, I fear the influence which Moscinska is said to have upon the Governor-General Landskog.\n\nIn this straitened situation I turn with the most heartfelt entreaty to Your Right Honourable, that you may let your intercession be extended to me before His Imperial Majesty, and may so direct the matter that the Emperor himself shall command that the Trąbczyn estates, together with the eight years' revenues, be given back to me. May Your Right Honourable deign to grant a favourable hearing to the Councillor of War von Triebenfeld, and most kindly impart to him the necessary instructions.\n\nWith unbounded gratitude, and with the most especial respect, I shall ever be\n\nYour Right Honourable's\n\nSchlawenschitz\n\nthe 15th of January 1815.",
- "summary_en": "A draft appeal, in the Prince's own voice, for help recovering the Kaemen and Trąbczyn estates, granted him in 1796 from the confiscated property of one Prussiemski and seized in 1807, fourteen weeks after the Peace of Tilsit, by the Warsaw administrative commission and returned to Prussiemski's daughter, now Miączyńska. The Kalisz tribunal declined jurisdiction; Hardenberg advised waiting on Pahlen. With the Prosna to become the border, he asks intercession with the Emperor for restitution plus eight years' revenues, and that Triebenfeld be heard.",
- "summary_de": "Bittschreiben um Fürsprache bei der Wiedererlangung der Güter Trąbczyn: 1796 hatte der verstorbene König dem Fürsten die von Prussiemski eingezogenen Güter Kaemen (bei Miedzeritz, Departement Posen) und Trąbczyn (Kreis Konin, Departement Kalisch) verliehen; 1807 nahm sie die Warschauer Verwaltungskommission weg und gab sie Prussiemskis Tochter, verheirateter Miączyńska, zurück. Das Tribunal Kalisch erklärte sich für unzuständig und verwies an Napoleon. Nun soll der Adressat beim Kaiser die Rückgabe samt achtjähriger Einkünfte erwirken; Bedenken wegen des Einflusses der Moscinska auf den Generalgouverneur Landskog. Verweis auf Triebenfeld."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

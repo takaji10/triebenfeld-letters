@@ -1,6 +1,6 @@
 {
  "letter_id": "281",
- "seq_archival": 296,
+ "seq_archival": 293,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-281",
@@ -18,55 +18,63 @@
  "month": "",
  "day": "",
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 19898,
- "line_end": 19956,
+ "sender": "",
+ "recipient": "",
+ "line_start": 19862,
+ "line_end": 19920,
  "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn",
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg",
+  "kamionno"
+ ],
  "is_missing": 0,
- "n_lines": 58,
+ "n_lines": 56,
  "n_pages": 2,
- "text": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbi\nwelcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann\nim Bureau des Fürsten Staats Canzlers angestellt ist, abhohlen und\nnach Berlin bringen ſoll. Ich habe ihm dazu meine 3 Pferde gegeben,\nEwr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der\nBediente ein Korbwagen - über den baldigst eine drillichene halb plane\ngemacht werden kan, gegeben wird um die Reiſe schnell antreten zu\nkönnen. Der Heftrath wird sich diese Gnade zu verdienen, und nett zu machen\nwißen – dann haben die 3 Hardenbergsche Gehaupt zofräthe Barbe, Heym,\nund Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von\ndort abgehohlt und nach Schlawenschitz gebracht zu wißen\nNun bittet man daß Ewer Durchlaucht die Grade haben mögten und eine 2\nspannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet\ndorten das Glas laden, und mit dem FreyPaß nach Schlawenschitz schaden\nMöge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren\nFreunde in dies Hauß haben zur Abhohlung des Glases wird wohl\nmüßen der Tambour geschickt werden den der Paß lautet auf den Kerl\nden Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem\nPaß versehen nach Alizancio zurück zu schiden, und eben dies kan auch mit dem\nTambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt\nIch bitte diese Sachen ja zu bewerckstelligen\nÜbrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint\n\nvon jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde\nliegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu\nrücken - Geschehen wird zu Euer Durchlaucht Vortheil was, und geschehen muß\nwas - \nDaß einzige Unglück ist daß Eberhard nicht herkommen und\nden Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir ge-\ngebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die Lappe in\nLießen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt\nthun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte\nglück, als, wann auch gleich 50 oder 100000 Rthl mehr jezt gegeben werden müßten, als das\nwas ich ſchon oft geſagt, die Administration etwas länger dauern würde.\nDer Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden\nhalten zu beken, und wären aller Sorgen überhoben —\nPourtales hat noch nicht geschrieben auch die Köhl Sache liegt noch im Arge¬\nUnd man weiß jezt gar nicht was werden wird, -\nSo viel ist nichts bestimmt, daß wenn der Satia Trąbczyner hohlt[?] Euer Durchlaucht andere Güter\nhaben sollen, und das vieleicht in Schlesien.\nWie ihn auch ſey, ſo hoffe ich mit Bünftiger Poſt etwas ſehr Gutes Eine Durchl. meldigen\nzu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was mange\nwünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er\nlauben, aber doch würde durch Anweisung sich alles machen laßen -\nDer König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände\ngegeben, allein der Congress hat gegen alles protectirt\ndie Napoleonſche Geſchichte macht hier fortwährend große Lensation - Von\nein paar Tagen hatt mann auch Briefe, von den Einste König von Italien,\nan Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen\nfällen nicht rigoreuser zu Werken geht –\nIn tiefsten Respect verharren.\nEw. Durchlaucht\nWien den 24ten Mertz 1815.\nganz gehorſamſter Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbi welcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann im Bureau des Fürsten Staats Canzlers angestellt ist, abhohlen und nach Berlin bringen ſoll. Ich habe ihm dazu meine 3 Pferde gegeben, Ewr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der Bediente ein Korbwagen - über den baldigst eine drillichene halb plane gemacht werden kan, gegeben wird um die Reiſe schnell antreten zu können. Der Heftrath wird sich diese Gnade zu verdienen, und nett zu machen wißen – dann haben die 3 Hardenbergsche Gehaupt zofräthe Barbe, Heym, und Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von dort abgehohlt und nach Schlawenschitz gebracht zu wißen Nun bittet man daß Ewer Durchlaucht die Grade haben mögten und eine 2 spannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet dorten das Glas laden, und mit dem FreyPaß nach Schlawenschitz schaden Möge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren Freunde in dies Hauß haben zur Abhohlung des Glases wird wohl müßen der Tambour geschickt werden den der Paß lautet auf den Kerl den Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem Paß versehen nach Alizancio zurück zu schiden, und eben dies kan auch mit dem Tambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt Ich bitte diese Sachen ja zu bewerckstelligen Übrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint\n\nvon jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde liegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu rücken - Geschehen wird zu Euer Durchlaucht Vortheil was, und geschehen muß was - Daß einzige Unglück ist daß Eberhard nicht herkommen und den Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir gegebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die Lappe in Ließen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt thun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte glück, als, wann auch gleich 50 oder 100000 Rthl mehr jezt gegeben werden müßten, als das was ich ſchon oft geſagt, die Administration etwas länger dauern würde. Der Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden halten zu beken, und wären aller Sorgen überhoben — Pourtales hat noch nicht geschrieben auch die Köhl Sache liegt noch im Arge Und man weiß jezt gar nicht was werden wird, - So viel ist nichts bestimmt, daß wenn der Satia Trąbczyner hohlt[?] Euer Durchlaucht andere Güter haben sollen, und das vieleicht in Schlesien.\n\nWie ihn auch ſey, ſo hoffe ich mit Bünftiger Poſt etwas ſehr Gutes Eine Durchl. meldigen zu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was mange wünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er lauben, aber doch würde durch Anweisung sich alles machen laßen - Der König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände gegeben, allein der Congress hat gegen alles protectirt die Napoleonſche Geſchichte macht hier fortwährend große Lensation - Von ein paar Tagen hatt mann auch Briefe, von den Einste König von Italien, an Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen fällen nicht rigoreuser zu Werken geht –\n\nIn tiefsten Respect verharren.\n\nEw. Durchlaucht\n\nWien den 24ten Mertz 1815.\n\nganz gehorſamſter Diener\n\nv Triebenfeld",
+ "text": "281\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbe\nwelcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann\nim Bureau des Fürsten Staats Kanzlers angestellt ist, abhohlen und\nnach Berlin bringen ſoll - Ich habe ihm dazu meine 3 Pferde gegeben,\nEwr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der\nBediente ein Korb wagen - über den baldigst eine drillichene halb plane\ngemacht werden kan, gegeben wird um die Reiſe schnell antreten zu\nkönnen. Der Hoffrath wird sich diese Gnade zu verdienen, und nett zu machen\nwißen – dann haben die 3 Hardenbergsche Gehaupt Hoffräthe Barbe, Heym,\nund Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von\ndort abgehohlt und nach Schlawenschitz gebracht zu wißen.\nNun bittet man daß Ewer Durchlaucht die Gnade haben mögten und eine 2\nspannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet\ndorten das Glas laden, und mit dem Frey Paß nach Schlawenschitz schicken\nMöge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren\nFreunde in dies Hauß haben - zur Abhohlung des Glases wird wohl\nmüßen der Tambour geschickt werden den der Paß lautet auf den Kerl\nden Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem\nPaß versehen nach Blizanow zurück zu schicken, und eben dies kan auch mit dem\nTambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt -\nIch bitte diese Sachen ja zu bewerckstelligen -\nÜbrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint\nvon jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde\nliegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu\nrücken - Geschehen wird zu Ewr Durchlaucht Vortheil was, und geschehen muß\nwas -  Daß einzige Unglück ist daß Eberhard nicht herkommen und\nden Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir ge¬\ngebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die [K?]appe in\nLießen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt\nthun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte\nglück, als, wann auch gleich 50 oder 100/m rt. mehr jezt gegeben werden müßten, als das\nwas ich ſchon oft geſagt, die Administration etwas länger dauern würde -\nDer Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden\nhalten zu beken, und wären aller Sorgen überhoben —\nPourtalès hat noch nicht geschrieben auch die Pohl Sache liegt noch im Argen -\nUnd man weiß jezt gar nicht was werden wird -\nSo viel ist nichts bestimmt, daß wenn der Satan Trąbczyner hohlt Ewr Durchlaucht andere Güter\nhaben sollen, und das vieleicht in Schlesien.\nWie ihn auch ſey, ſo hoffe ich mit künftiger Poſt etwas ſehr Gutes Ewr Durchl. meldigen\nzu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was man zu\nwünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er\nlauben, aber doch würde durch Anweisung sich alles machen laßen -\nDer König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände\ngegeben, allein der Congress hat gegen alles protestirt -\ndie Napoleonſche Geſchichte macht hier fortwährend große Sensation - Von\nein paar Tagen hatt mann auch Briefe, von den Einste König von Italien,\nan Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen\nfällen nicht rigoreuser zu Werken geht –\nIn tiefsten Respect verharren.\nEwr Durchlaucht\nWien den 24ten Mertz 1815.\nganz gehorſamſter Diener\nv Triebenfeld",
+ "text_reading": "281\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbe welcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann im Bureau des Fürsten Staats Kanzlers angestellt ist, abhohlen und nach Berlin bringen ſoll - Ich habe ihm dazu meine 3 Pferde gegeben, Ewr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der Bediente ein Korb wagen - über den baldigst eine drillichene halb plane gemacht werden kan, gegeben wird um die Reiſe schnell antreten zu können. Der Hoffrath wird sich diese Gnade zu verdienen, und nett zu machen wißen – dann haben die 3 Hardenbergsche Gehaupt Hoffräthe Barbe, Heym, und Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von dort abgehohlt und nach Schlawenschitz gebracht zu wißen. Nun bittet man daß Ewer Durchlaucht die Gnade haben mögten und eine 2 spannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet dorten das Glas laden, und mit dem Frey Paß nach Schlawenschitz schicken Möge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren Freunde in dies Hauß haben - zur Abhohlung des Glases wird wohl müßen der Tambour geschickt werden den der Paß lautet auf den Kerl den Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem Paß versehen nach Blizanow zurück zu schicken, und eben dies kan auch mit dem Tambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt - Ich bitte diese Sachen ja zu bewerckstelligen - Übrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint\n\nvon jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde liegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu rücken - Geschehen wird zu Ewr Durchlaucht Vortheil was, und geschehen muß was - Daß einzige Unglück ist daß Eberhard nicht herkommen und den Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir gegebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die [K?]appe in Ließen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt thun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte glück, als, wann auch gleich 50 oder 100/m rt. mehr jezt gegeben werden müßten, als das was ich ſchon oft geſagt, die Administration etwas länger dauern würde - Der Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden halten zu beken, und wären aller Sorgen überhoben — Pourtalès hat noch nicht geschrieben auch die Pohl Sache liegt noch im Argen - Und man weiß jezt gar nicht was werden wird - So viel ist nichts bestimmt, daß wenn der Satan Trąbczyner hohlt Ewr Durchlaucht andere Güter haben sollen, und das vieleicht in Schlesien.\n\nWie ihn auch ſey, ſo hoffe ich mit künftiger Poſt etwas ſehr Gutes Ewr Durchl. meldigen zu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was man zu wünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er lauben, aber doch würde durch Anweisung sich alles machen laßen - Der König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände gegeben, allein der Congress hat gegen alles protestirt - die Napoleonſche Geſchichte macht hier fortwährend große Sensation - Von ein paar Tagen hatt mann auch Briefe, von den Einste König von Italien, an Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen fällen nicht rigoreuser zu Werken geht –\n\nIn tiefsten Respect verharren.\n\nEwr Durchlaucht\n\nWien den 24ten Mertz 1815.\n\nganz gehorſamſter Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 19899,
-   "line_end": 19922,
-   "n_lines": 24,
-   "diplomatic": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbi\nwelcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann\nim Bureau des Fürsten Staats Canzlers angestellt ist, abhohlen und\nnach Berlin bringen ſoll. Ich habe ihm dazu meine 3 Pferde gegeben,\nEwr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der\nBediente ein Korbwagen - über den baldigst eine drillichene halb plane\ngemacht werden kan, gegeben wird um die Reiſe schnell antreten zu\nkönnen. Der Heftrath wird sich diese Gnade zu verdienen, und nett zu machen\nwißen – dann haben die 3 Hardenbergsche Gehaupt zofräthe Barbe, Heym,\nund Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von\ndort abgehohlt und nach Schlawenschitz gebracht zu wißen\nNun bittet man daß Ewer Durchlaucht die Grade haben mögten und eine 2\nspannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet\ndorten das Glas laden, und mit dem FreyPaß nach Schlawenschitz schaden\nMöge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren\nFreunde in dies Hauß haben zur Abhohlung des Glases wird wohl\nmüßen der Tambour geschickt werden den der Paß lautet auf den Kerl\nden Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem\nPaß versehen nach Alizancio zurück zu schiden, und eben dies kan auch mit dem\nTambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt\nIch bitte diese Sachen ja zu bewerckstelligen\nÜbrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint",
-   "transcription": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbi\nwelcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann\nim Bureau des Fürsten Staats Canzlers angestellt ist, abhohlen und\nnach Berlin bringen ſoll. Ich habe ihm dazu meine 3 Pferde gegeben,\nEwr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der\nBediente ein Korbwagen - über den baldigst eine drillichene halb plane\ngemacht werden kan, gegeben wird um die Reiſe schnell antreten zu\nkönnen. Der Heftrath wird sich diese Gnade zu verdienen, und nett zu machen\nwißen – dann haben die 3 Hardenbergsche Gehaupt zofräthe Barbe, Heym,\nund Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von\ndort abgehohlt und nach Schlawenschitz gebracht zu wißen\nNun bittet man daß Ewer Durchlaucht die Grade haben mögten und eine 2\nspannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet\ndorten das Glas laden, und mit dem FreyPaß nach Schlawenschitz schaden\nMöge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren\nFreunde in dies Hauß haben zur Abhohlung des Glases wird wohl\nmüßen der Tambour geschickt werden den der Paß lautet auf den Kerl\nden Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem\nPaß versehen nach Alizancio zurück zu schiden, und eben dies kan auch mit dem\nTambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt\nIch bitte diese Sachen ja zu bewerckstelligen\nÜbrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint",
-   "reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbi welcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann im Bureau des Fürsten Staats Canzlers angestellt ist, abhohlen und nach Berlin bringen ſoll. Ich habe ihm dazu meine 3 Pferde gegeben, Ewr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der Bediente ein Korbwagen - über den baldigst eine drillichene halb plane gemacht werden kan, gegeben wird um die Reiſe schnell antreten zu können. Der Heftrath wird sich diese Gnade zu verdienen, und nett zu machen wißen – dann haben die 3 Hardenbergsche Gehaupt zofräthe Barbe, Heym, und Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von dort abgehohlt und nach Schlawenschitz gebracht zu wißen Nun bittet man daß Ewer Durchlaucht die Grade haben mögten und eine 2 spannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet dorten das Glas laden, und mit dem FreyPaß nach Schlawenschitz schaden Möge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren Freunde in dies Hauß haben zur Abhohlung des Glases wird wohl müßen der Tambour geschickt werden den der Paß lautet auf den Kerl den Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem Paß versehen nach Alizancio zurück zu schiden, und eben dies kan auch mit dem Tambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt Ich bitte diese Sachen ja zu bewerckstelligen Übrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint",
+   "page_id": "0509_b",
+   "line_start": 19864,
+   "line_end": 19888,
+   "n_lines": 25,
+   "diplomatic": "281\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbe\nwelcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann\nim Bureau des Fürsten Staats Kanzlers angestellt ist, abhohlen und\nnach Berlin bringen ſoll - Ich habe ihm dazu meine 3 Pferde gegeben,\nEwr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der\nBediente ein Korb wagen - über den baldigst eine drillichene halb plane\ngemacht werden kan, gegeben wird um die Reiſe schnell antreten zu\nkönnen. Der Hoffrath wird sich diese Gnade zu verdienen, und nett zu machen\nwißen – dann haben die 3 Hardenbergsche Gehaupt Hoffräthe Barbe, Heym,\nund Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von\ndort abgehohlt und nach Schlawenschitz gebracht zu wißen.\nNun bittet man daß Ewer Durchlaucht die Gnade haben mögten und eine 2\nspannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet\ndorten das Glas laden, und mit dem Frey Paß nach Schlawenschitz schicken\nMöge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren\nFreunde in dies Hauß haben - zur Abhohlung des Glases wird wohl\nmüßen der Tambour geschickt werden den der Paß lautet auf den Kerl\nden Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem\nPaß versehen nach Blizanow zurück zu schicken, und eben dies kan auch mit dem\nTambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt -\nIch bitte diese Sachen ja zu bewerckstelligen -\nÜbrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint",
+   "transcription": "281\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbe\nwelcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann\nim Bureau des Fürsten Staats Kanzlers angestellt ist, abhohlen und\nnach Berlin bringen ſoll - Ich habe ihm dazu meine 3 Pferde gegeben,\nEwr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der\nBediente ein Korb wagen - über den baldigst eine drillichene halb plane\ngemacht werden kan, gegeben wird um die Reiſe schnell antreten zu\nkönnen. Der Hoffrath wird sich diese Gnade zu verdienen, und nett zu machen\nwißen – dann haben die 3 Hardenbergsche Gehaupt Hoffräthe Barbe, Heym,\nund Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von\ndort abgehohlt und nach Schlawenschitz gebracht zu wißen.\nNun bittet man daß Ewer Durchlaucht die Gnade haben mögten und eine 2\nspannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet\ndorten das Glas laden, und mit dem Frey Paß nach Schlawenschitz schicken\nMöge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren\nFreunde in dies Hauß haben - zur Abhohlung des Glases wird wohl\nmüßen der Tambour geschickt werden den der Paß lautet auf den Kerl\nden Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem\nPaß versehen nach Blizanow zurück zu schicken, und eben dies kan auch mit dem\nTambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt -\nIch bitte diese Sachen ja zu bewerckstelligen -\nÜbrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint",
+   "reading": "281\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nÜberbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbe welcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann im Bureau des Fürsten Staats Kanzlers angestellt ist, abhohlen und nach Berlin bringen ſoll - Ich habe ihm dazu meine 3 Pferde gegeben, Ewr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der Bediente ein Korb wagen - über den baldigst eine drillichene halb plane gemacht werden kan, gegeben wird um die Reiſe schnell antreten zu können. Der Hoffrath wird sich diese Gnade zu verdienen, und nett zu machen wißen – dann haben die 3 Hardenbergsche Gehaupt Hoffräthe Barbe, Heym, und Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von dort abgehohlt und nach Schlawenschitz gebracht zu wißen. Nun bittet man daß Ewer Durchlaucht die Gnade haben mögten und eine 2 spannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet dorten das Glas laden, und mit dem Frey Paß nach Schlawenschitz schicken Möge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren Freunde in dies Hauß haben - zur Abhohlung des Glases wird wohl müßen der Tambour geschickt werden den der Paß lautet auf den Kerl den Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem Paß versehen nach Blizanow zurück zu schicken, und eben dies kan auch mit dem Tambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt - Ich bitte diese Sachen ja zu bewerckstelligen - Übrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint",
    "paragraphs": [
+    "281",
     "Durchlauchtigſter Fürſt",
     "Gnädigster Herr!",
-    "Überbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbi welcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann im Bureau des Fürsten Staats Canzlers angestellt ist, abhohlen und nach Berlin bringen ſoll. Ich habe ihm dazu meine 3 Pferde gegeben, Ewr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der Bediente ein Korbwagen - über den baldigst eine drillichene halb plane gemacht werden kan, gegeben wird um die Reiſe schnell antreten zu können. Der Heftrath wird sich diese Gnade zu verdienen, und nett zu machen wißen – dann haben die 3 Hardenbergsche Gehaupt zofräthe Barbe, Heym, und Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von dort abgehohlt und nach Schlawenschitz gebracht zu wißen Nun bittet man daß Ewer Durchlaucht die Grade haben mögten und eine 2 spannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet dorten das Glas laden, und mit dem FreyPaß nach Schlawenschitz schaden Möge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren Freunde in dies Hauß haben zur Abhohlung des Glases wird wohl müßen der Tambour geschickt werden den der Paß lautet auf den Kerl den Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem Paß versehen nach Alizancio zurück zu schiden, und eben dies kan auch mit dem Tambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt Ich bitte diese Sachen ja zu bewerckstelligen Übrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint"
+    "Überbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Barbe welcher ins Reich hinaus gehen und des Hoffraths Schwester, deren Mann im Bureau des Fürsten Staats Kanzlers angestellt ist, abhohlen und nach Berlin bringen ſoll - Ich habe ihm dazu meine 3 Pferde gegeben, Ewr Durchlaucht geruhen nun dorten zu befehlen, daß dem Stock, so heißt der Bediente ein Korb wagen - über den baldigst eine drillichene halb plane gemacht werden kan, gegeben wird um die Reiſe schnell antreten zu können. Der Hoffrath wird sich diese Gnade zu verdienen, und nett zu machen wißen – dann haben die 3 Hardenbergsche Gehaupt Hoffräthe Barbe, Heym, und Philippsborn in Prag etliche Kisten Glaß liegen - diese Wünschen sie von dort abgehohlt und nach Schlawenschitz gebracht zu wißen. Nun bittet man daß Ewer Durchlaucht die Gnade haben mögten und eine 2 spannige Fuhre dem Stock mitgegeben, den, da er über Prag gehet dorten das Glas laden, und mit dem Frey Paß nach Schlawenschitz schicken Möge — Abschlagen läst sich dies nicht - Ewr Durchlaucht werden den mehreren Freunde in dies Hauß haben - zur Abhohlung des Glases wird wohl müßen der Tambour geschickt werden den der Paß lautet auf den Kerl den Knecht waarzug ihm Eier durchlaucht nicht brauchen können, geruhen Sie mit einem Paß versehen nach Blizanow zurück zu schicken, und eben dies kan auch mit dem Tambour geschehen, wenn er von ihrer mit dem Glas Fuhre retournirt - Ich bitte diese Sachen ja zu bewerckstelligen - Übrigens hat H. v. Stägemann noch immer keinen Vortrag gemacht - Es scheint"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 24
+   "doc_line_end": 25
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 19924,
-   "line_end": 19955,
-   "n_lines": 32,
-   "diplomatic": "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde\nliegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu\nrücken - Geschehen wird zu Euer Durchlaucht Vortheil was, und geschehen muß\nwas - \nDaß einzige Unglück ist daß Eberhard nicht herkommen und\nden Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir ge-\ngebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die Lappe in\nLießen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt\nthun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte\nglück, als, wann auch gleich 50 oder 100000 Rthl mehr jezt gegeben werden müßten, als das\nwas ich ſchon oft geſagt, die Administration etwas länger dauern würde.\nDer Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden\nhalten zu beken, und wären aller Sorgen überhoben —\nPourtales hat noch nicht geschrieben auch die Köhl Sache liegt noch im Arge¬\nUnd man weiß jezt gar nicht was werden wird, -\nSo viel ist nichts bestimmt, daß wenn der Satia Trąbczyner hohlt[?] Euer Durchlaucht andere Güter\nhaben sollen, und das vieleicht in Schlesien.\nWie ihn auch ſey, ſo hoffe ich mit Bünftiger Poſt etwas ſehr Gutes Eine Durchl. meldigen\nzu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was mange\nwünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er\nlauben, aber doch würde durch Anweisung sich alles machen laßen -\nDer König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände\ngegeben, allein der Congress hat gegen alles protectirt\ndie Napoleonſche Geſchichte macht hier fortwährend große Lensation - Von\nein paar Tagen hatt mann auch Briefe, von den Einste König von Italien,\nan Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen\nfällen nicht rigoreuser zu Werken geht –\nIn tiefsten Respect verharren.\nEw. Durchlaucht\nWien den 24ten Mertz 1815.\nganz gehorſamſter Diener\nv Triebenfeld",
-   "transcription": "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde\nliegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu\nrücken - Geschehen wird zu Euer Durchlaucht Vortheil was, und geschehen muß\nwas -\nDaß einzige Unglück ist daß Eberhard nicht herkommen und\nden Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir ge-\ngebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die Lappe in\nLießen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt\nthun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte\nglück, als, wann auch gleich 50 oder 100000 Rthl mehr jezt gegeben werden müßten, als das\nwas ich ſchon oft geſagt, die Administration etwas länger dauern würde.\nDer Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden\nhalten zu beken, und wären aller Sorgen überhoben —\nPourtales hat noch nicht geschrieben auch die Köhl Sache liegt noch im Arge\nUnd man weiß jezt gar nicht was werden wird, -\nSo viel ist nichts bestimmt, daß wenn der Satia Trąbczyner hohlt[?] Euer Durchlaucht andere Güter\nhaben sollen, und das vieleicht in Schlesien.\nWie ihn auch ſey, ſo hoffe ich mit Bünftiger Poſt etwas ſehr Gutes Eine Durchl. meldigen\nzu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was mange\nwünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er\nlauben, aber doch würde durch Anweisung sich alles machen laßen -\nDer König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände\ngegeben, allein der Congress hat gegen alles protectirt\ndie Napoleonſche Geſchichte macht hier fortwährend große Lensation - Von\nein paar Tagen hatt mann auch Briefe, von den Einste König von Italien,\nan Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen\nfällen nicht rigoreuser zu Werken geht –\nIn tiefsten Respect verharren.\nEw. Durchlaucht\nWien den 24ten Mertz 1815.\nganz gehorſamſter Diener\nv Triebenfeld",
-   "reading": "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde liegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu rücken - Geschehen wird zu Euer Durchlaucht Vortheil was, und geschehen muß was - Daß einzige Unglück ist daß Eberhard nicht herkommen und den Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir gegebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die Lappe in Ließen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt thun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte glück, als, wann auch gleich 50 oder 100000 Rthl mehr jezt gegeben werden müßten, als das was ich ſchon oft geſagt, die Administration etwas länger dauern würde. Der Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden halten zu beken, und wären aller Sorgen überhoben — Pourtales hat noch nicht geschrieben auch die Köhl Sache liegt noch im Arge Und man weiß jezt gar nicht was werden wird, - So viel ist nichts bestimmt, daß wenn der Satia Trąbczyner hohlt[?] Euer Durchlaucht andere Güter haben sollen, und das vieleicht in Schlesien.\n\nWie ihn auch ſey, ſo hoffe ich mit Bünftiger Poſt etwas ſehr Gutes Eine Durchl. meldigen zu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was mange wünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er lauben, aber doch würde durch Anweisung sich alles machen laßen - Der König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände gegeben, allein der Congress hat gegen alles protectirt die Napoleonſche Geſchichte macht hier fortwährend große Lensation - Von ein paar Tagen hatt mann auch Briefe, von den Einste König von Italien, an Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen fällen nicht rigoreuser zu Werken geht –\n\nIn tiefsten Respect verharren.\n\nEw. Durchlaucht\n\nWien den 24ten Mertz 1815.\n\nganz gehorſamſter Diener\n\nv Triebenfeld",
+   "page_id": "0510_a1",
+   "line_start": 19890,
+   "line_end": 19920,
+   "n_lines": 31,
+   "diplomatic": "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde\nliegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu\nrücken - Geschehen wird zu Ewr Durchlaucht Vortheil was, und geschehen muß\nwas -  Daß einzige Unglück ist daß Eberhard nicht herkommen und\nden Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir ge¬\ngebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die [K?]appe in\nLießen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt\nthun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte\nglück, als, wann auch gleich 50 oder 100/m rt. mehr jezt gegeben werden müßten, als das\nwas ich ſchon oft geſagt, die Administration etwas länger dauern würde -\nDer Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden\nhalten zu beken, und wären aller Sorgen überhoben —\nPourtalès hat noch nicht geschrieben auch die Pohl Sache liegt noch im Argen -\nUnd man weiß jezt gar nicht was werden wird -\nSo viel ist nichts bestimmt, daß wenn der Satan Trąbczyner hohlt Ewr Durchlaucht andere Güter\nhaben sollen, und das vieleicht in Schlesien.\nWie ihn auch ſey, ſo hoffe ich mit künftiger Poſt etwas ſehr Gutes Ewr Durchl. meldigen\nzu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was man zu\nwünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er\nlauben, aber doch würde durch Anweisung sich alles machen laßen -\nDer König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände\ngegeben, allein der Congress hat gegen alles protestirt -\ndie Napoleonſche Geſchichte macht hier fortwährend große Sensation - Von\nein paar Tagen hatt mann auch Briefe, von den Einste König von Italien,\nan Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen\nfällen nicht rigoreuser zu Werken geht –\nIn tiefsten Respect verharren.\nEwr Durchlaucht\nWien den 24ten Mertz 1815.\nganz gehorſamſter Diener\nv Triebenfeld",
+   "transcription": "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde\nliegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu\nrücken - Geschehen wird zu Ewr Durchlaucht Vortheil was, und geschehen muß\nwas -  Daß einzige Unglück ist daß Eberhard nicht herkommen und\nden Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir ge-\ngebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die [K?]appe in\nLießen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt\nthun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte\nglück, als, wann auch gleich 50 oder 100/m rt. mehr jezt gegeben werden müßten, als das\nwas ich ſchon oft geſagt, die Administration etwas länger dauern würde -\nDer Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden\nhalten zu beken, und wären aller Sorgen überhoben —\nPourtalès hat noch nicht geschrieben auch die Pohl Sache liegt noch im Argen -\nUnd man weiß jezt gar nicht was werden wird -\nSo viel ist nichts bestimmt, daß wenn der Satan Trąbczyner hohlt Ewr Durchlaucht andere Güter\nhaben sollen, und das vieleicht in Schlesien.\nWie ihn auch ſey, ſo hoffe ich mit künftiger Poſt etwas ſehr Gutes Ewr Durchl. meldigen\nzu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was man zu\nwünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er\nlauben, aber doch würde durch Anweisung sich alles machen laßen -\nDer König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände\ngegeben, allein der Congress hat gegen alles protestirt -\ndie Napoleonſche Geſchichte macht hier fortwährend große Sensation - Von\nein paar Tagen hatt mann auch Briefe, von den Einste König von Italien,\nan Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen\nfällen nicht rigoreuser zu Werken geht –\nIn tiefsten Respect verharren.\nEwr Durchlaucht\nWien den 24ten Mertz 1815.\nganz gehorſamſter Diener\nv Triebenfeld",
+   "reading": "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde liegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu rücken - Geschehen wird zu Ewr Durchlaucht Vortheil was, und geschehen muß was - Daß einzige Unglück ist daß Eberhard nicht herkommen und den Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir gegebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die [K?]appe in Ließen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt thun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte glück, als, wann auch gleich 50 oder 100/m rt. mehr jezt gegeben werden müßten, als das was ich ſchon oft geſagt, die Administration etwas länger dauern würde - Der Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden halten zu beken, und wären aller Sorgen überhoben — Pourtalès hat noch nicht geschrieben auch die Pohl Sache liegt noch im Argen - Und man weiß jezt gar nicht was werden wird - So viel ist nichts bestimmt, daß wenn der Satan Trąbczyner hohlt Ewr Durchlaucht andere Güter haben sollen, und das vieleicht in Schlesien.\n\nWie ihn auch ſey, ſo hoffe ich mit künftiger Poſt etwas ſehr Gutes Ewr Durchl. meldigen zu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was man zu wünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er lauben, aber doch würde durch Anweisung sich alles machen laßen - Der König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände gegeben, allein der Congress hat gegen alles protestirt - die Napoleonſche Geſchichte macht hier fortwährend große Sensation - Von ein paar Tagen hatt mann auch Briefe, von den Einste König von Italien, an Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen fällen nicht rigoreuser zu Werken geht –\n\nIn tiefsten Respect verharren.\n\nEwr Durchlaucht\n\nWien den 24ten Mertz 1815.\n\nganz gehorſamſter Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde liegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu rücken - Geschehen wird zu Euer Durchlaucht Vortheil was, und geschehen muß was - Daß einzige Unglück ist daß Eberhard nicht herkommen und den Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir gegebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die Lappe in Ließen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt thun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte glück, als, wann auch gleich 50 oder 100000 Rthl mehr jezt gegeben werden müßten, als das was ich ſchon oft geſagt, die Administration etwas länger dauern würde. Der Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden halten zu beken, und wären aller Sorgen überhoben — Pourtales hat noch nicht geschrieben auch die Köhl Sache liegt noch im Arge Und man weiß jezt gar nicht was werden wird, - So viel ist nichts bestimmt, daß wenn der Satia Trąbczyner hohlt[?] Euer Durchlaucht andere Güter haben sollen, und das vieleicht in Schlesien.",
-    "Wie ihn auch ſey, ſo hoffe ich mit Bünftiger Poſt etwas ſehr Gutes Eine Durchl. meldigen zu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was mange wünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er lauben, aber doch würde durch Anweisung sich alles machen laßen - Der König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände gegeben, allein der Congress hat gegen alles protectirt die Napoleonſche Geſchichte macht hier fortwährend große Lensation - Von ein paar Tagen hatt mann auch Briefe, von den Einste König von Italien, an Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen fällen nicht rigoreuser zu Werken geht –",
+    "von jedem Freunde zu wahrscheinlich, daß hier die infamste Intrigue zum Grunde liegt, und es werden jezt andere Demarchen gemacht nun den Ziele näher zu rücken - Geschehen wird zu Ewr Durchlaucht Vortheil was, und geschehen muß was - Daß einzige Unglück ist daß Eberhard nicht herkommen und den Vergleich mit die Curische Erbinnen abschließen kan — ich habe nach den mir gegebenen Verſicherungen darauf zu erst gebauet. - Jezt muß ich damit die [K?]appe in Ließen Berg gehen - Inzwischen werde ich mit meinen Freunden ſehen was wir zogt thun können. — Könte der Vergleich aber statt finden, so geschähe weiter könnte glück, als, wann auch gleich 50 oder 100/m rt. mehr jezt gegeben werden müßten, als das was ich ſchon oft geſagt, die Administration etwas länger dauern würde - Der Haupt Zweck wäre indes erreicht - Er Durchlaucht können aus den Schulden halten zu beken, und wären aller Sorgen überhoben — Pourtalès hat noch nicht geschrieben auch die Pohl Sache liegt noch im Argen - Und man weiß jezt gar nicht was werden wird - So viel ist nichts bestimmt, daß wenn der Satan Trąbczyner hohlt Ewr Durchlaucht andere Güter haben sollen, und das vieleicht in Schlesien.",
+    "Wie ihn auch ſey, ſo hoffe ich mit künftiger Poſt etwas ſehr Gutes Ewr Durchl. meldigen zu können, und könte ich Eberhard herzaubern, so wäre alles erreicht was man zu wünschen hätte. Geld wird der König freilich dermalen nicht viel zu geben er lauben, aber doch würde durch Anweisung sich alles machen laßen - Der König von Würtemberg hat dennoch seine sogenannte Constitution an die Stände gegeben, allein der Congress hat gegen alles protestirt - die Napoleonſche Geſchichte macht hier fortwährend große Sensation - Von ein paar Tagen hatt mann auch Briefe, von den Einste König von Italien, an Bonap[arte]: aufgefangen – Sonderbar ist es daß man in solchen fällen nicht rigoreuser zu Werken geht –",
     "In tiefsten Respect verharren.",
-    "Ew. Durchlaucht",
+    "Ewr Durchlaucht",
     "Wien den 24ten Mertz 1815.",
     "ganz gehorſamſter Diener",
     "v Triebenfeld"
@@ -74,7 +82,7 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "doc_line_start": 25,
+   "doc_line_start": 26,
    "doc_line_end": 56
   }
  ],
@@ -85,10 +93,21 @@
    "kind": "person",
    "surface": "Barbe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0509_b",
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
-   "line": 19909,
-   "doc_line": 11
+   "line": 19867,
+   "doc_line": 4
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "Barbe",
+   "page": 1,
+   "page_id": "0509_b",
+   "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
+   "line": 19875,
+   "doc_line": 12
   },
   {
    "entity": "hardenberg",
@@ -96,10 +115,10 @@
    "kind": "person",
    "surface": "Hardenberg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0509_b",
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
-   "line": 19909,
-   "doc_line": 11
+   "line": 19875,
+   "doc_line": 12
   },
   {
    "entity": "staegemann",
@@ -107,10 +126,10 @@
    "kind": "person",
    "surface": "Stägemann",
    "page": 1,
-   "page_id": "",
+   "page_id": "0509_b",
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
-   "line": 19922,
-   "doc_line": 24
+   "line": 19888,
+   "doc_line": 25
   },
   {
    "entity": "eberhard",
@@ -118,9 +137,9 @@
    "kind": "person",
    "surface": "Eberhard",
    "page": 2,
-   "page_id": "",
+   "page_id": "0510_a1",
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "line": 19928,
+   "line": 19893,
    "doc_line": 29
   },
   {
@@ -129,9 +148,9 @@
    "kind": "person",
    "surface": "Pourtal",
    "page": 2,
-   "page_id": "",
+   "page_id": "0510_a1",
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "line": 19937,
+   "line": 19902,
    "doc_line": 38
   },
   {
@@ -140,9 +159,9 @@
    "kind": "person",
    "surface": "Eberhard",
    "page": 2,
-   "page_id": "",
+   "page_id": "0510_a1",
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "line": 19942,
+   "line": 19907,
    "doc_line": 43
   },
   {
@@ -151,9 +170,9 @@
    "kind": "person",
    "surface": "Napoleon",
    "page": 2,
-   "page_id": "",
+   "page_id": "0510_a1",
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "line": 19947,
+   "line": 19912,
    "doc_line": 48
   },
   {
@@ -162,198 +181,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0510_a1",
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "line": 19955,
+   "line": 19920,
    "doc_line": 56
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Barbi",
-   "kind": "person",
-   "surface_de": "Barbi",
-   "surface_en": "Barbi",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Stock",
-   "kind": "person",
-   "surface_de": "Stock",
-   "surface_en": "Stock",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface_de": "Hardenbergsche",
-   "surface_en": "Hardenberg",
-   "page": 1
-  },
-  {
-   "entity": "barbe",
-   "display": "Barbe",
-   "kind": "person",
-   "surface_de": "Barbe",
-   "surface_en": "Barbe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Heym",
-   "kind": "person",
-   "surface_de": "Heym",
-   "surface_en": "Heym",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Philippsborn",
-   "kind": "person",
-   "surface_de": "Philippsborn",
-   "surface_en": "Philippsborn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prague",
-   "kind": "place",
-   "surface_de": "Prag",
-   "surface_en": "Prague",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schlawenschitz",
-   "kind": "place",
-   "surface_de": "Schlawenschitz",
-   "surface_en": "Schlawenschitz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Alizancio",
-   "kind": "place",
-   "surface_de": "Alizancio",
-   "surface_en": "Alizancio",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Mr. von Stägemann",
-   "kind": "person",
-   "surface_de": "H. v. Stägemann",
-   "surface_en": "Mr. von Stägemann",
-   "page": 1
-  },
-  {
-   "entity": "eberhard",
-   "display": "Eberhard",
-   "kind": "person",
-   "surface_de": "Eberhard",
-   "surface_en": "Eberhard",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Courland",
-   "kind": "place",
-   "surface_de": "Curische",
-   "surface_en": "Courland",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Ließen Berg",
-   "kind": "place",
-   "surface_de": "Ließen Berg",
-   "surface_en": "Ließen Berg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Pourtales",
-   "kind": "person",
-   "surface_de": "Pourtales",
-   "surface_en": "Pourtales",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Köhl",
-   "kind": "person",
-   "surface_de": "Köhl",
-   "surface_en": "Köhl",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyner",
-   "surface_en": "Trąbczyn",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Silesia",
-   "kind": "place",
-   "surface_de": "Schlesien",
-   "surface_en": "Silesia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Württemberg",
-   "kind": "place",
-   "surface_de": "Würtemberg",
-   "surface_en": "Württemberg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Italy",
-   "kind": "place",
-   "surface_de": "Italien",
-   "surface_en": "Italy",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Bonap[arte]",
-   "kind": "person",
-   "surface_de": "Bonap[arte]",
-   "surface_en": "Bonap[arte]",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -362,20 +196,20 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0509_b",
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
-   "line": 19904,
-   "doc_line": 6
+   "line": 19870,
+   "doc_line": 7
   },
   {
-   "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "entity": "prag",
+   "display": "Prag",
    "kind": "place",
-   "surface": "Schlawenschitz",
+   "surface": "Prag",
    "page": 1,
-   "page_id": "",
+   "page_id": "0509_b",
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
-   "line": 19911,
+   "line": 19876,
    "doc_line": 13
   },
   {
@@ -384,10 +218,43 @@
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0509_b",
    "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
-   "line": 19914,
+   "line": 19877,
+   "doc_line": 14
+  },
+  {
+   "entity": "prag",
+   "display": "Prag",
+   "kind": "place",
+   "surface": "Prag",
+   "page": 1,
+   "page_id": "0509_b",
+   "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
+   "line": 19879,
    "doc_line": 16
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Schlawenschitz",
+   "kind": "place",
+   "surface": "Schlawenschitz",
+   "page": 1,
+   "page_id": "0509_b",
+   "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
+   "line": 19880,
+   "doc_line": 17
+  },
+  {
+   "entity": "blizanow",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface": "Blizanow",
+   "page": 1,
+   "page_id": "0509_b",
+   "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
+   "line": 19885,
+   "doc_line": 22
   },
   {
    "entity": "trabczyn",
@@ -395,156 +262,59 @@
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 2,
-   "page_id": "",
+   "page_id": "0510_a1",
    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-   "line": 19939,
+   "line": 19904,
    "doc_line": 40
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nThe bearer of this letter is the servant of Court Councillor Barbi, who is to travel out into the Empire and fetch the Court Councillor's sister, whose husband is employed in the bureau of the Prince State Chancellor, and bring her to Berlin. I have given him my 3 horses for this purpose; may Your Serene Highness now be pleased to give orders there that Stock — that is the servant's name — be given a basket-wagon, over which a half-tilt of ticking can very soon be made, so that the journey may be begun quickly. The [uncertain: Heftrath] will know how to earn this favour and to make it good — then the 3 Hardenberg chief [uncertain: zofräthe] Barbe, Heym and Philippsborn have several crates of glass lying in Prague — these they wish to have fetched from there and brought to Schlawenschitz. Now the request is that Your Serene Highness might have the [uncertain: grade] and give Stock a two-horse cart along with him, so that, since he goes by way of Prague, he may load the glass there and [uncertain: convey] it with the free pass to Schlawenschitz — This cannot be refused — Your Serene Highness will have the more friends in this house; for the fetching of the glass the drummer will probably have to be sent, for the pass reads upon the fellow; the farmhand [illegible] Your Serene Highness cannot use him, be pleased to send him back to Alizancio provided with a pass, and the same can be done with the drummer too, when he returns from there with the glass cart. I beg that these matters be indeed carried into effect. For the rest, Mr. von Stägemann has still made no report — It seems",
-   "names": [
-    {
-     "de": "Barbi",
-     "en": "Barbi",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Stock",
-     "en": "Stock",
-     "kind": "person"
-    },
-    {
-     "de": "Hardenbergsche",
-     "en": "Hardenberg",
-     "kind": "person"
-    },
-    {
-     "de": "Barbe",
-     "en": "Barbe",
-     "kind": "person"
-    },
-    {
-     "de": "Heym",
-     "en": "Heym",
-     "kind": "person"
-    },
-    {
-     "de": "Philippsborn",
-     "en": "Philippsborn",
-     "kind": "person"
-    },
-    {
-     "de": "Prag",
-     "en": "Prague",
-     "kind": "place"
-    },
-    {
-     "de": "Schlawenschitz",
-     "en": "Schlawenschitz",
-     "kind": "place"
-    },
-    {
-     "de": "Alizancio",
-     "en": "Alizancio",
-     "kind": "place"
-    },
-    {
-     "de": "H. v. Stägemann",
-     "en": "Mr. von Stägemann",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "3",
-    "3",
-    "2",
-    "24ten",
-    "1815"
-   ]
   },
   {
+   "entity": "schlesien",
+   "display": "Schlesien",
+   "kind": "place",
+   "surface": "Schlesien",
    "page": 2,
-   "en": "from every friend too likely that the most infamous intrigue lies at the bottom of this, and other steps are now being taken to move nearer to the goal — Something will be done to Your Serene Highness's advantage, and something must be done — The one misfortune is that Eberhard cannot come here and conclude the settlement with the Courland heiresses — according to the assurances given me I had built upon that first of all. — Now I must go with it [uncertain: to the rags in Ließen Berg] — In the meantime I shall see with my friends what we can [uncertain: now] do. — But if the settlement could take place, then it would be a further stroke of fortune, even though 50 or 100000 Rthl more should have to be given now than — as I have often said — that the administration would last somewhat longer. The chief purpose would nevertheless be attained — Your Serene Highness could [illegible] out of the debts, and would be relieved of all cares — Pourtales has still not written, and the Köhl affair too still lies in doubt, and one now does not know at all what will come of it. — Thus much is nothing determined, that if the [uncertain: Satia] of Trąbczyn [illegible] Your Serene Highness is to have other estates, and that perhaps in Silesia.\n\nBe that as it may, I hope with the next post to be able to report something very good to Your Serene Highness, and could I conjure Eberhard here, then all would be attained that one could wish. Money the King will admittedly not permit much to be given at present, but yet everything could be managed by an instruction to pay — The King of Württemberg has nevertheless given his so-called constitution to the Estates, but the Congress has protested against everything; the Napoleonic business continues to cause a great sensation here — A couple of days ago letters were also intercepted from the former King of Italy to Bonap[arte] — It is singular that in such cases one does not proceed more rigorously —\n\nIn deepest reverence I remain.\n\nYour Serene Highness's\n\nVienna, the 24th of March 1815.\n\nmost obedient servant\n\nv Triebenfeld",
-   "names": [
-    {
-     "de": "Eberhard",
-     "en": "Eberhard",
-     "kind": "person"
-    },
-    {
-     "de": "Curische",
-     "en": "Courland",
-     "kind": "place"
-    },
-    {
-     "de": "Ließen Berg",
-     "en": "Ließen Berg",
-     "kind": "place"
-    },
-    {
-     "de": "Pourtales",
-     "en": "Pourtales",
-     "kind": "person"
-    },
-    {
-     "de": "Köhl",
-     "en": "Köhl",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczyner",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Schlesien",
-     "en": "Silesia",
-     "kind": "place"
-    },
-    {
-     "de": "Würtemberg",
-     "en": "Württemberg",
-     "kind": "place"
-    },
-    {
-     "de": "Italien",
-     "en": "Italy",
-     "kind": "place"
-    },
-    {
-     "de": "Bonap[arte]",
-     "en": "Bonap[arte]",
-     "kind": "person"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "50",
-    "100000",
-    "24ten",
-    "1815"
-   ]
+   "page_id": "0510_a1",
+   "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
+   "line": 19905,
+   "doc_line": 41
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "Würtemberg",
+   "page": 2,
+   "page_id": "0510_a1",
+   "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
+   "line": 19910,
+   "doc_line": 46
+  },
+  {
+   "entity": "italien",
+   "display": "Italien",
+   "kind": "place",
+   "surface": "Italien",
+   "page": 2,
+   "page_id": "0510_a1",
+   "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
+   "line": 19913,
+   "doc_line": 49
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 2,
+   "page_id": "0510_a1",
+   "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
+   "line": 19918,
+   "doc_line": 54
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nThe bearer of this letter is the servant of Court Councillor Barbi, who is to travel out into the Empire and fetch the Court Councillor's sister, whose husband is employed in the bureau of the Prince State Chancellor, and bring her to Berlin. I have given him my 3 horses for this purpose; may Your Serene Highness now be pleased to give orders there that Stock — that is the servant's name — be given a basket-wagon, over which a half-tilt of ticking can very soon be made, so that the journey may be begun quickly. The [uncertain: Heftrath] will know how to earn this favour and to make it good — then the 3 Hardenberg chief [uncertain: zofräthe] Barbe, Heym and Philippsborn have several crates of glass lying in Prague — these they wish to have fetched from there and brought to Schlawenschitz. Now the request is that Your Serene Highness might have the [uncertain: grade] and give Stock a two-horse cart along with him, so that, since he goes by way of Prague, he may load the glass there and [uncertain: convey] it with the free pass to Schlawenschitz — This cannot be refused — Your Serene Highness will have the more friends in this house; for the fetching of the glass the drummer will probably have to be sent, for the pass reads upon the fellow; the farmhand [illegible] Your Serene Highness cannot use him, be pleased to send him back to Alizancio provided with a pass, and the same can be done with the drummer too, when he returns from there with the glass cart. I beg that these matters be indeed carried into effect. For the rest, Mr. von Stägemann has still made no report — It seems\n\nfrom every friend too likely that the most infamous intrigue lies at the bottom of this, and other steps are now being taken to move nearer to the goal — Something will be done to Your Serene Highness's advantage, and something must be done — The one misfortune is that Eberhard cannot come here and conclude the settlement with the Courland heiresses — according to the assurances given me I had built upon that first of all. — Now I must go with it [uncertain: to the rags in Ließen Berg] — In the meantime I shall see with my friends what we can [uncertain: now] do. — But if the settlement could take place, then it would be a further stroke of fortune, even though 50 or 100000 Rthl more should have to be given now than — as I have often said — that the administration would last somewhat longer. The chief purpose would nevertheless be attained — Your Serene Highness could [illegible] out of the debts, and would be relieved of all cares — Pourtales has still not written, and the Köhl affair too still lies in doubt, and one now does not know at all what will come of it. — Thus much is nothing determined, that if the [uncertain: Satia] of Trąbczyn [illegible] Your Serene Highness is to have other estates, and that perhaps in Silesia.\n\nBe that as it may, I hope with the next post to be able to report something very good to Your Serene Highness, and could I conjure Eberhard here, then all would be attained that one could wish. Money the King will admittedly not permit much to be given at present, but yet everything could be managed by an instruction to pay — The King of Württemberg has nevertheless given his so-called constitution to the Estates, but the Congress has protested against everything; the Napoleonic business continues to cause a great sensation here — A couple of days ago letters were also intercepted from the former King of Italy to Bonap[arte] — It is singular that in such cases one does not proceed more rigorously —\n\nIn deepest reverence I remain.\n\nYour Serene Highness's\n\nVienna, the 24th of March 1815.\n\nmost obedient servant\n\nv Triebenfeld",
- "summary_en": "Asks the Prince to provide Court Councillor Barbi's servant Stock with a basket-wagon for a journey into the Empire, and a two-horse cart so that crates of glass belonging to Hardenberg's officials Barbe, Heym and Philippsborn can be collected in Prague and taken to Schlawenschitz, favours worth cultivating. Reports no word yet from von Stägemann, suspects intrigue, regrets Eberhard's absence for a settlement with the Courland heiresses worth 50,000-100,000 Rthl more, and notes silence from Pourtales, possible Silesian estates, and news from the Congress.",
- "summary_de": "Bitte um Fuhrwerk für Stock, den Bedienten des Hofrats Barbi, der die Schwester des Hofrats ins Reich abholen soll: ein Korbwagen mit Halbverdeck aus Zwillich sowie ein zweispänniger Wagen, um für Barbe, Heym und Philippsborn in Prag lagernde Kisten Glas mit Freipass nach Schlawenschitz zu bringen; Knecht und Trommelschläger sollen mit Pass zurückgeschickt werden. Ferner: von Stägemann und Pourtales schweigen, die Köhl-Sache bleibt ungewiss, Eberhard fehlt zum Vergleich mit den kurländischen Erbinnen, auch bei 50 000 bis 100 000 Rthl mehr; Nachrichten zu Württemberg, Kongress und Napoleon."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

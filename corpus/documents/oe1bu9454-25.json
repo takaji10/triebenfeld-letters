@@ -18,67 +18,75 @@
  "month": 9,
  "day": 28,
  "place": "Berlin",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 1635,
- "line_end": 1687,
+ "sender": "",
+ "recipient": "",
+ "line_start": 1658,
+ "line_end": 1708,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "zagorowo",
+  "kontop",
+  "schweinern",
+  "trabczyn",
+  "koschentin"
+ ],
  "is_missing": 0,
- "n_lines": 52,
+ "n_lines": 48,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\nGnädigster Herr!\nEin unvorhergeſehenes Ereignes machte es nothwendig, daß ich nach Ewer Durchlaucht\nAbreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren\nabermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern\nnicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran¬\n(delete)\nrangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder\nkam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte\ner\nich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein\nschlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr.\nDurchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath\nBucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen\nvon Bredow der bey der hiesigen Seehandlung 80000 Rthl liegen hat, welche\ner / da dh Minister v Stein Exe jezt nur 3 pl. geben wollen/ anderweit\nunter zu bringen befohlen hat.\nHerr Bucholz hatt die Sache so tourrist\nAuf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 Rthl\nAuf Schwammern des 20000\nAuf Trąbczin für die Grotowskische Hypotheque die Weigel hatt 30000.\nDavon sollen gezahlt werden sind    80000 Rthl\nAn der Gräfin Schlabrendorff die ihr noch kommenden 25000\nAn dem Weigel die ihm noch zustehenden 25000\nAn Hahn zur Hülfe in Koschentin 5000.\nAn Euer Durchlaucht baar 5000.\nIch nehme für mich zur Bezahlung der Wulffen 30000\n80000 Rthl dagegen\n\ndagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 Rthl\nals so viel ich für höchst sie auf meine Güter aufnehme!\nNächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius\nzu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital\nvon 360000 Rthl zu erst gedenkt. Hiermit sollen den alle Schulden bezahlt\nund die bey Oppenheimer 90000 fl versagte Hypotheque von 250000 Rthl besonders einge¬\nlöset und Caesirt werden\nwann dies alles besorgt und aufs Reine gebracht sein wird dann ich\nselbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen\nMit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen et¬\nwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals\neinige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen\nwürden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange\nso wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht\nwerden, und alle Sorgen ein Ende gemacht sein.\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann\nes zum schlagen komt, Sieg. Dies ist der einzigste herzlichste Wunsch\nEwr Hochfürstliche Durchlaucht\nBerlin den 28ten Septbr.\ntreu gehorsamsten Diener\n1806.\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nEin unvorhergeſehenes Ereignes machte es nothwendig, daß ich nach Ewer Durchlaucht Abreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren abermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern nicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran (delete) rangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder kam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte er ich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein schlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr. Durchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath Bucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen von Bredow der bey der hiesigen Seehandlung 80000 Rthl liegen hat, welche er / da dh Minister v Stein Exe jezt nur 3 pl. geben wollen/ anderweit unter zu bringen befohlen hat.\n\nHerr Bucholz hatt die Sache so tourrist Auf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 Rthl Auf Schwammern des 20000 Auf Trąbczin für die Grotowskische Hypotheque die Weigel hatt 30000. Davon sollen gezahlt werden sind 80000 Rthl An der Gräfin Schlabrendorff die ihr noch kommenden 25000 An dem Weigel die ihm noch zustehenden 25000\n\nAn Hahn zur Hülfe in Koschentin 5000.\n\nAn Euer Durchlaucht baar 5000.\n\nIch nehme für mich zur Bezahlung der Wulffen 30000 80000 Rthl dagegen\n\ndagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 Rthl als so viel ich für höchst sie auf meine Güter aufnehme! Nächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius zu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital von 360000 Rthl zu erst gedenkt. Hiermit sollen den alle Schulden bezahlt und die bey Oppenheimer 90000 fl versagte Hypotheque von 250000 Rthl besonders eingelöset und Caesirt werden wann dies alles besorgt und aufs Reine gebracht sein wird dann ich selbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen Mit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen etwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals einige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen würden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange so wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht werden, und alle Sorgen ein Ende gemacht sein.\n\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann es zum schlagen komt, Sieg. Dies ist der einzigste herzlichste Wunsch Ewr Hochfürstliche Durchlaucht\n\nBerlin den 28ten Septbr.\n\ntreu gehorsamsten Diener\n\n1806.\n\nv Triebenfeld",
+ "text": "25\nDurchlauchtigster Fürst\nGnädigster Herr!\nEin unvorhergeſehenes Ereigniß machte es nothwendig, daß ich nach Ewer Durchlaucht\nAbreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren\nabermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern\nnicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran¬\ngirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder\nkam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte\nich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein\nschlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr.\nDurchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath\nBucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen\nvon Bredow der bey der hiesigen Seehandlung 80000 rt. liegen hat, welche\ner / da dh Minister v Stein Exc[ellenz]. jezt nur 3 pct. geben wollen / anderweit\nunter zu bringen befohlen hat.\nHerr Bucholz hatt die Sache so tournirt\nAuf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 rt.\nAuf Schweinern des 20000\nAuf Trąbczyn für die Grotowskische Hypotheque die Weigel hatt 30000.\nDavon sollen gezahlt werden sind = 80000 Rthl\nAn der Gräfin Schlabrendorff die ihr noch kommenden 25000\nAn dem Weigel die ihm noch zustehenden 25000\nAn Hahn zur Hülfe in Koschentin 5000.\nAn Euer Durchlaucht baar 5000.\nIch nehme für mich zur Bezahlung der Wulffen 30000\ndagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 r.\nals so viel ich für höchst sie auf meine Güter aufnehme!\nNächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius\nzu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital\n von 360000 rt zu erhalten gedenkt. Hiermit sollen den alle Schulden bezahlt\nund die bey Oppenheimer für 98000 rt versagte Hypotheque von 250000 rt besonders einge¬\nlöset und Cassirt werden\nwann dies alles besorgt und aufs Reine gebracht sein wird dann ich\nselbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen\nMit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen et¬\nwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals\neinige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen\nwürden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange\nso wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht\nwerden, und alle Sorgen ein Ende gemacht sein.\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann\nes zum schlagen komt, Sieg! Dies ist der einzigste herzlichste Wunsch\nEwr Hochfürstliche Durchlaucht\nBerlin den 28ten Septbr.\n1806.\ntreu gehorsamsten Diener\nv Triebenfeld",
+ "text_reading": "25\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nEin unvorhergeſehenes Ereigniß machte es nothwendig, daß ich nach Ewer Durchlaucht Abreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren abermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern nicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig arangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder kam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte ich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein schlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr. Durchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath Bucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen von Bredow der bey der hiesigen Seehandlung 80000 rt. liegen hat, welche er / da dh Minister v Stein Exc[ellenz]. jezt nur 3 pct. geben wollen / anderweit unter zu bringen befohlen hat.\n\nHerr Bucholz hatt die Sache so tournirt Auf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 rt. Auf Schweinern des 20000 Auf Trąbczyn für die Grotowskische Hypotheque die Weigel hatt 30000. Davon sollen gezahlt werden sind = 80000 Rthl An der Gräfin Schlabrendorff die ihr noch kommenden 25000 An dem Weigel die ihm noch zustehenden 25000\n\nAn Hahn zur Hülfe in Koschentin 5000.\n\nAn Euer Durchlaucht baar 5000.\n\nIch nehme für mich zur Bezahlung der Wulffen 30000\n\ndagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 r. als so viel ich für höchst sie auf meine Güter aufnehme! Nächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius zu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital von 360000 rt zu erhalten gedenkt. Hiermit sollen den alle Schulden bezahlt und die bey Oppenheimer für 98000 rt versagte Hypotheque von 250000 rt besonders eingelöset und Cassirt werden wann dies alles besorgt und aufs Reine gebracht sein wird dann ich selbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen Mit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen etwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals einige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen würden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange so wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht werden, und alle Sorgen ein Ende gemacht sein.\n\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann es zum schlagen komt, Sieg! Dies ist der einzigste herzlichste Wunsch Ewr Hochfürstliche Durchlaucht\n\nBerlin den 28ten Septbr.\n\n1806.\n\ntreu gehorsamsten Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 1636,
-   "line_end": 1663,
-   "n_lines": 28,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Herr!\nEin unvorhergeſehenes Ereignes machte es nothwendig, daß ich nach Ewer Durchlaucht\nAbreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren\nabermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern\nnicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran¬\n(delete)\nrangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder\nkam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte\ner\nich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein\nschlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr.\nDurchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath\nBucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen\nvon Bredow der bey der hiesigen Seehandlung 80000 Rthl liegen hat, welche\ner / da dh Minister v Stein Exe jezt nur 3 pl. geben wollen/ anderweit\nunter zu bringen befohlen hat.\nHerr Bucholz hatt die Sache so tourrist\nAuf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 Rthl\nAuf Schwammern des 20000\nAuf Trąbczin für die Grotowskische Hypotheque die Weigel hatt 30000.\nDavon sollen gezahlt werden sind    80000 Rthl\nAn der Gräfin Schlabrendorff die ihr noch kommenden 25000\nAn dem Weigel die ihm noch zustehenden 25000\nAn Hahn zur Hülfe in Koschentin 5000.\nAn Euer Durchlaucht baar 5000.\nIch nehme für mich zur Bezahlung der Wulffen 30000\n80000 Rthl dagegen",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Herr!\nEin unvorhergeſehenes Ereignes machte es nothwendig, daß ich nach Ewer Durchlaucht\nAbreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren\nabermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern\nnicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran\n(delete)\nrangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder\nkam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte\ner\nich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein\nschlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr.\nDurchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath\nBucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen\nvon Bredow der bey der hiesigen Seehandlung 80000 Rthl liegen hat, welche\ner / da dh Minister v Stein Exe jezt nur 3 pl. geben wollen/ anderweit\nunter zu bringen befohlen hat.\nHerr Bucholz hatt die Sache so tourrist\nAuf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 Rthl\nAuf Schwammern des 20000\nAuf Trąbczin für die Grotowskische Hypotheque die Weigel hatt 30000.\nDavon sollen gezahlt werden sind    80000 Rthl\nAn der Gräfin Schlabrendorff die ihr noch kommenden 25000\nAn dem Weigel die ihm noch zustehenden 25000\nAn Hahn zur Hülfe in Koschentin 5000.\nAn Euer Durchlaucht baar 5000.\nIch nehme für mich zur Bezahlung der Wulffen 30000\n80000 Rthl dagegen",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nEin unvorhergeſehenes Ereignes machte es nothwendig, daß ich nach Ewer Durchlaucht Abreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren abermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern nicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran (delete) rangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder kam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte er ich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein schlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr. Durchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath Bucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen von Bredow der bey der hiesigen Seehandlung 80000 Rthl liegen hat, welche er / da dh Minister v Stein Exe jezt nur 3 pl. geben wollen/ anderweit unter zu bringen befohlen hat.\n\nHerr Bucholz hatt die Sache so tourrist Auf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 Rthl Auf Schwammern des 20000 Auf Trąbczin für die Grotowskische Hypotheque die Weigel hatt 30000. Davon sollen gezahlt werden sind 80000 Rthl An der Gräfin Schlabrendorff die ihr noch kommenden 25000 An dem Weigel die ihm noch zustehenden 25000\n\nAn Hahn zur Hülfe in Koschentin 5000.\n\nAn Euer Durchlaucht baar 5000.\n\nIch nehme für mich zur Bezahlung der Wulffen 30000 80000 Rthl dagegen",
+   "page_id": "0043_b",
+   "line_start": 1660,
+   "line_end": 1685,
+   "n_lines": 26,
+   "diplomatic": "25\nDurchlauchtigster Fürst\nGnädigster Herr!\nEin unvorhergeſehenes Ereigniß machte es nothwendig, daß ich nach Ewer Durchlaucht\nAbreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren\nabermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern\nnicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran¬\ngirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder\nkam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte\nich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein\nschlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr.\nDurchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath\nBucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen\nvon Bredow der bey der hiesigen Seehandlung 80000 rt. liegen hat, welche\ner / da dh Minister v Stein Exc[ellenz]. jezt nur 3 pct. geben wollen / anderweit\nunter zu bringen befohlen hat.\nHerr Bucholz hatt die Sache so tournirt\nAuf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 rt.\nAuf Schweinern des 20000\nAuf Trąbczyn für die Grotowskische Hypotheque die Weigel hatt 30000.\nDavon sollen gezahlt werden sind = 80000 Rthl\nAn der Gräfin Schlabrendorff die ihr noch kommenden 25000\nAn dem Weigel die ihm noch zustehenden 25000\nAn Hahn zur Hülfe in Koschentin 5000.\nAn Euer Durchlaucht baar 5000.\nIch nehme für mich zur Bezahlung der Wulffen 30000",
+   "transcription": "25\nDurchlauchtigster Fürst\nGnädigster Herr!\nEin unvorhergeſehenes Ereigniß machte es nothwendig, daß ich nach Ewer Durchlaucht\nAbreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren\nabermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern\nnicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran-\ngirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder\nkam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte\nich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein\nschlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr.\nDurchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath\nBucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen\nvon Bredow der bey der hiesigen Seehandlung 80000 rt. liegen hat, welche\ner / da dh Minister v Stein Exc[ellenz]. jezt nur 3 pct. geben wollen / anderweit\nunter zu bringen befohlen hat.\nHerr Bucholz hatt die Sache so tournirt\nAuf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 rt.\nAuf Schweinern des 20000\nAuf Trąbczyn für die Grotowskische Hypotheque die Weigel hatt 30000.\nDavon sollen gezahlt werden sind = 80000 Rthl\nAn der Gräfin Schlabrendorff die ihr noch kommenden 25000\nAn dem Weigel die ihm noch zustehenden 25000\nAn Hahn zur Hülfe in Koschentin 5000.\nAn Euer Durchlaucht baar 5000.\nIch nehme für mich zur Bezahlung der Wulffen 30000",
+   "reading": "25\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nEin unvorhergeſehenes Ereigniß machte es nothwendig, daß ich nach Ewer Durchlaucht Abreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren abermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern nicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig arangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder kam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte ich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein schlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr. Durchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath Bucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen von Bredow der bey der hiesigen Seehandlung 80000 rt. liegen hat, welche er / da dh Minister v Stein Exc[ellenz]. jezt nur 3 pct. geben wollen / anderweit unter zu bringen befohlen hat.\n\nHerr Bucholz hatt die Sache so tournirt Auf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 rt. Auf Schweinern des 20000 Auf Trąbczyn für die Grotowskische Hypotheque die Weigel hatt 30000. Davon sollen gezahlt werden sind = 80000 Rthl An der Gräfin Schlabrendorff die ihr noch kommenden 25000 An dem Weigel die ihm noch zustehenden 25000\n\nAn Hahn zur Hülfe in Koschentin 5000.\n\nAn Euer Durchlaucht baar 5000.\n\nIch nehme für mich zur Bezahlung der Wulffen 30000",
    "paragraphs": [
+    "25",
     "Durchlauchtigster Fürst",
     "Gnädigster Herr!",
-    "Ein unvorhergeſehenes Ereignes machte es nothwendig, daß ich nach Ewer Durchlaucht Abreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren abermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern nicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig aran (delete) rangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder kam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte er ich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein schlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr. Durchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath Bucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen von Bredow der bey der hiesigen Seehandlung 80000 Rthl liegen hat, welche er / da dh Minister v Stein Exe jezt nur 3 pl. geben wollen/ anderweit unter zu bringen befohlen hat.",
-    "Herr Bucholz hatt die Sache so tourrist Auf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 Rthl Auf Schwammern des 20000 Auf Trąbczin für die Grotowskische Hypotheque die Weigel hatt 30000. Davon sollen gezahlt werden sind 80000 Rthl An der Gräfin Schlabrendorff die ihr noch kommenden 25000 An dem Weigel die ihm noch zustehenden 25000",
+    "Ein unvorhergeſehenes Ereigniß machte es nothwendig, daß ich nach Ewer Durchlaucht Abreise von Berlin, ſehr ſchnell nach Zagorowo eilen müßte, weil die Bauren abermahls einen Aufstand erregt hatte, und die Separation der Gründe im Innern nicht zu laßen wollen. Diese Sache ist nun zwar abgemacht und völlig arangirt; Indes war der König, so sehr ich auch wieder hierher eilte, ehe ich wieder kam, abgereiset, und da mein Gönner, wie natürlich, mit fort war, so konte ich auf diesen Fond nicht mehr rechnen. Ich müste daher andere Wege ein schlagen um das Geld für Weigel der Gräfin Schlabrendorff und Ewr. Durchlaucht zu erhalten. Dies ist nur nun heute durch den Justiz Rath Bucholz zugesichert. Dieser Mann besorgt die Geschäfte eines gewissen von Bredow der bey der hiesigen Seehandlung 80000 rt. liegen hat, welche er / da dh Minister v Stein Exc[ellenz]. jezt nur 3 pct. geben wollen / anderweit unter zu bringen befohlen hat.",
+    "Herr Bucholz hatt die Sache so tournirt Auf Kontop werden gegen Cedirung 2 er Hypothequen gegeben. 30000 rt. Auf Schweinern des 20000 Auf Trąbczyn für die Grotowskische Hypotheque die Weigel hatt 30000. Davon sollen gezahlt werden sind = 80000 Rthl An der Gräfin Schlabrendorff die ihr noch kommenden 25000 An dem Weigel die ihm noch zustehenden 25000",
     "An Hahn zur Hülfe in Koschentin 5000.",
     "An Euer Durchlaucht baar 5000.",
-    "Ich nehme für mich zur Bezahlung der Wulffen 30000 80000 Rthl dagegen"
+    "Ich nehme für mich zur Bezahlung der Wulffen 30000"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 28
+   "doc_line_end": 26
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 1665,
-   "line_end": 1686,
+   "page_id": "0044_a1",
+   "line_start": 1687,
+   "line_end": 1708,
    "n_lines": 22,
-   "diplomatic": "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 Rthl\nals so viel ich für höchst sie auf meine Güter aufnehme!\nNächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius\nzu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital\nvon 360000 Rthl zu erst gedenkt. Hiermit sollen den alle Schulden bezahlt\nund die bey Oppenheimer 90000 fl versagte Hypotheque von 250000 Rthl besonders einge¬\nlöset und Caesirt werden\nwann dies alles besorgt und aufs Reine gebracht sein wird dann ich\nselbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen\nMit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen et¬\nwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals\neinige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen\nwürden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange\nso wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht\nwerden, und alle Sorgen ein Ende gemacht sein.\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann\nes zum schlagen komt, Sieg. Dies ist der einzigste herzlichste Wunsch\nEwr Hochfürstliche Durchlaucht\nBerlin den 28ten Septbr.\ntreu gehorsamsten Diener\n1806.\nv Triebenfeld",
-   "transcription": "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 Rthl\nals so viel ich für höchst sie auf meine Güter aufnehme!\nNächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius\nzu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital\nvon 360000 Rthl zu erst gedenkt. Hiermit sollen den alle Schulden bezahlt\nund die bey Oppenheimer 90000 fl versagte Hypotheque von 250000 Rthl besonders einge-\nlöset und Caesirt werden\nwann dies alles besorgt und aufs Reine gebracht sein wird dann ich\nselbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen\nMit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen et-\nwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals\neinige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen\nwürden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange\nso wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht\nwerden, und alle Sorgen ein Ende gemacht sein.\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann\nes zum schlagen komt, Sieg. Dies ist der einzigste herzlichste Wunsch\nEwr Hochfürstliche Durchlaucht\nBerlin den 28ten Septbr.\ntreu gehorsamsten Diener\n1806.\nv Triebenfeld",
-   "reading": "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 Rthl als so viel ich für höchst sie auf meine Güter aufnehme! Nächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius zu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital von 360000 Rthl zu erst gedenkt. Hiermit sollen den alle Schulden bezahlt und die bey Oppenheimer 90000 fl versagte Hypotheque von 250000 Rthl besonders eingelöset und Caesirt werden wann dies alles besorgt und aufs Reine gebracht sein wird dann ich selbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen Mit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen etwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals einige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen würden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange so wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht werden, und alle Sorgen ein Ende gemacht sein.\n\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann es zum schlagen komt, Sieg. Dies ist der einzigste herzlichste Wunsch Ewr Hochfürstliche Durchlaucht\n\nBerlin den 28ten Septbr.\n\ntreu gehorsamsten Diener\n\n1806.\n\nv Triebenfeld",
+   "diplomatic": "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 r.\nals so viel ich für höchst sie auf meine Güter aufnehme!\nNächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius\nzu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital\n von 360000 rt zu erhalten gedenkt. Hiermit sollen den alle Schulden bezahlt\nund die bey Oppenheimer für 98000 rt versagte Hypotheque von 250000 rt besonders einge¬\nlöset und Cassirt werden\nwann dies alles besorgt und aufs Reine gebracht sein wird dann ich\nselbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen\nMit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen et¬\nwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals\neinige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen\nwürden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange\nso wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht\nwerden, und alle Sorgen ein Ende gemacht sein.\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann\nes zum schlagen komt, Sieg! Dies ist der einzigste herzlichste Wunsch\nEwr Hochfürstliche Durchlaucht\nBerlin den 28ten Septbr.\n1806.\ntreu gehorsamsten Diener\nv Triebenfeld",
+   "transcription": "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 r.\nals so viel ich für höchst sie auf meine Güter aufnehme!\nNächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius\nzu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital\n von 360000 rt zu erhalten gedenkt. Hiermit sollen den alle Schulden bezahlt\nund die bey Oppenheimer für 98000 rt versagte Hypotheque von 250000 rt besonders einge-\nlöset und Cassirt werden\nwann dies alles besorgt und aufs Reine gebracht sein wird dann ich\nselbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen\nMit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen et-\nwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals\neinige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen\nwürden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange\nso wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht\nwerden, und alle Sorgen ein Ende gemacht sein.\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann\nes zum schlagen komt, Sieg! Dies ist der einzigste herzlichste Wunsch\nEwr Hochfürstliche Durchlaucht\nBerlin den 28ten Septbr.\n1806.\ntreu gehorsamsten Diener\nv Triebenfeld",
+   "reading": "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 r. als so viel ich für höchst sie auf meine Güter aufnehme! Nächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius zu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital von 360000 rt zu erhalten gedenkt. Hiermit sollen den alle Schulden bezahlt und die bey Oppenheimer für 98000 rt versagte Hypotheque von 250000 rt besonders eingelöset und Cassirt werden wann dies alles besorgt und aufs Reine gebracht sein wird dann ich selbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen Mit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen etwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals einige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen würden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange so wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht werden, und alle Sorgen ein Ende gemacht sein.\n\nDie dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann es zum schlagen komt, Sieg! Dies ist der einzigste herzlichste Wunsch Ewr Hochfürstliche Durchlaucht\n\nBerlin den 28ten Septbr.\n\n1806.\n\ntreu gehorsamsten Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 Rthl als so viel ich für höchst sie auf meine Güter aufnehme! Nächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius zu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital von 360000 Rthl zu erst gedenkt. Hiermit sollen den alle Schulden bezahlt und die bey Oppenheimer 90000 fl versagte Hypotheque von 250000 Rthl besonders eingelöset und Caesirt werden wann dies alles besorgt und aufs Reine gebracht sein wird dann ich selbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen Mit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen etwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals einige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen würden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange so wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht werden, und alle Sorgen ein Ende gemacht sein.",
-    "Die dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann es zum schlagen komt, Sieg. Dies ist der einzigste herzlichste Wunsch Ewr Hochfürstliche Durchlaucht",
+    "dagegen geben Ewr Durchlaucht mir dann einen Schein oder Hypotheque auf 30000 r. als so viel ich für höchst sie auf meine Güter aufnehme! Nächst diesen betreibt der Geheime Rath v Tismar mit das reiche Haus Nathusius zu Magdeburg ein Negoce, wo er auf sämtlich Südpreußische Güter ein Capital von 360000 rt zu erhalten gedenkt. Hiermit sollen den alle Schulden bezahlt und die bey Oppenheimer für 98000 rt versagte Hypotheque von 250000 rt besonders eingelöset und Cassirt werden wann dies alles besorgt und aufs Reine gebracht sein wird dann ich selbst zu Ewer Durchlaucht und bringe Ihnen die Gelder oder gute Anweisungen Mit den Verkauf der Gründe geht es bey dem Kriegerischen Ereignißen etwas Langsam, inzwischen schreibt mir gestern Honrichs daß sich abermals einige Käufer gemeldet hätten die nach den neuern festgesezten Preisen kaufen würden. Ist diese Sache wegen den neuen höhern Preisen erst in rechten Gange so wird, da alle hinderniße nunmehro behoben sind, viel Geld zusammen gebracht werden, und alle Sorgen ein Ende gemacht sein.",
+    "Die dauerhafteste Gesundheit gebe Ewr Durchlaucht Gott und schenke Ihnen (wann es zum schlagen komt, Sieg! Dies ist der einzigste herzlichste Wunsch Ewr Hochfürstliche Durchlaucht",
     "Berlin den 28ten Septbr.",
-    "treu gehorsamsten Diener",
     "1806.",
+    "treu gehorsamsten Diener",
     "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
-   "doc_line_start": 29,
-   "doc_line_end": 50
+   "doc_line_start": 27,
+   "doc_line_end": 48
   }
  ],
  "mentions": [
@@ -88,10 +96,10 @@
    "kind": "person",
    "surface": "Schlabrendorff",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1647,
-   "doc_line": 12
+   "line": 1670,
+   "doc_line": 11
   },
   {
    "entity": "weigel",
@@ -99,10 +107,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1647,
-   "doc_line": 12
+   "line": 1670,
+   "doc_line": 11
   },
   {
    "entity": "stein",
@@ -110,10 +118,10 @@
    "kind": "person",
    "surface": "Stein",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1651,
-   "doc_line": 16
+   "line": 1674,
+   "doc_line": 15
   },
   {
    "entity": "grotowski",
@@ -121,10 +129,10 @@
    "kind": "person",
    "surface": "Grotowskis",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1656,
-   "doc_line": 21
+   "line": 1679,
+   "doc_line": 20
   },
   {
    "entity": "weigel",
@@ -132,10 +140,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1656,
-   "doc_line": 21
+   "line": 1679,
+   "doc_line": 20
   },
   {
    "entity": "schlabrendorff",
@@ -143,10 +151,10 @@
    "kind": "person",
    "surface": "Schlabrendorff",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1658,
-   "doc_line": 23
+   "line": 1681,
+   "doc_line": 22
   },
   {
    "entity": "weigel",
@@ -154,10 +162,21 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1659,
-   "doc_line": 24
+   "line": 1682,
+   "doc_line": 23
+  },
+  {
+   "entity": "tesmar",
+   "display": "Tesmar",
+   "kind": "person",
+   "surface": "Tismar",
+   "page": 2,
+   "page_id": "0044_a1",
+   "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
+   "line": 1689,
+   "doc_line": 29
   },
   {
    "entity": "oppenheimer",
@@ -165,10 +184,10 @@
    "kind": "person",
    "surface": "Oppenheimer",
    "page": 2,
-   "page_id": "",
+   "page_id": "0044_a1",
    "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
-   "line": 1670,
-   "doc_line": 34
+   "line": 1692,
+   "doc_line": 32
   },
   {
    "entity": "honrichs",
@@ -176,10 +195,10 @@
    "kind": "person",
    "surface": "Honrichs",
    "page": 2,
-   "page_id": "",
+   "page_id": "0044_a1",
    "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
-   "line": 1675,
-   "doc_line": 39
+   "line": 1697,
+   "doc_line": 37
   },
   {
    "entity": "triebenfeld",
@@ -187,190 +206,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0044_a1",
    "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
-   "line": 1686,
-   "doc_line": 50
+   "line": 1708,
+   "doc_line": 48
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorowo",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Countess Schlabrendorff",
-   "kind": "person",
-   "surface_de": "Gräfin Schlabrendorff",
-   "surface_en": "Countess Schlabrendorff",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "councillor of justice Bucholz",
-   "kind": "person",
-   "surface_de": "Justiz Rath Bucholz",
-   "surface_en": "councillor of justice Bucholz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Bredow",
-   "kind": "person",
-   "surface_de": "von Bredow",
-   "surface_en": "von Bredow",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Minister von Stein",
-   "kind": "person",
-   "surface_de": "Minister v Stein",
-   "surface_en": "Minister von Stein",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kontop",
-   "kind": "place",
-   "surface_de": "Kontop",
-   "surface_en": "Kontop",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schwammern",
-   "kind": "place",
-   "surface_de": "Schwammern",
-   "surface_en": "Schwammern",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczin",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Grotowski",
-   "kind": "person",
-   "surface_de": "Grotowskische",
-   "surface_en": "Grotowski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hahn",
-   "kind": "person",
-   "surface_de": "Hahn",
-   "surface_en": "Hahn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Koschentin",
-   "kind": "place",
-   "surface_de": "Koschentin",
-   "surface_en": "Koschentin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Wulffs",
-   "kind": "person",
-   "surface_de": "Wulffen",
-   "surface_en": "Wulffs",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Tismar, privy councillor",
-   "kind": "person",
-   "surface_de": "Geheime Rath v Tismar",
-   "surface_en": "von Tismar, privy councillor",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Nathusius",
-   "kind": "person",
-   "surface_de": "Nathusius",
-   "surface_en": "Nathusius",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Magdeburg",
-   "kind": "place",
-   "surface_de": "Magdeburg",
-   "surface_en": "Magdeburg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "South Prussian",
-   "kind": "place",
-   "surface_de": "Südpreußische",
-   "surface_en": "South Prussian",
-   "page": 2
-  },
-  {
-   "entity": "oppenheimer",
-   "display": "Oppenheimer",
-   "kind": "person",
-   "surface_de": "Oppenheimer",
-   "surface_en": "Oppenheimer",
-   "page": 2
-  },
-  {
-   "entity": "honrichs",
-   "display": "Honrichs",
-   "kind": "person",
-   "surface_de": "Honrichs",
-   "surface_en": "Honrichs",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -379,10 +221,10 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1639,
-   "doc_line": 4
+   "line": 1664,
+   "doc_line": 5
   },
   {
    "entity": "zagorowo",
@@ -390,10 +232,10 @@
    "kind": "place",
    "surface": "Zagorowo",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1639,
-   "doc_line": 4
+   "line": 1664,
+   "doc_line": 5
   },
   {
    "entity": "kontop",
@@ -401,21 +243,54 @@
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1654,
+   "line": 1677,
+   "doc_line": 18
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 1,
+   "page_id": "0043_b",
+   "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
+   "line": 1678,
    "doc_line": 19
   },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczin",
+   "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "",
+   "page_id": "0043_b",
    "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
-   "line": 1656,
-   "doc_line": 21
+   "line": 1679,
+   "doc_line": 20
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 1,
+   "page_id": "0043_b",
+   "scan": "Oe_1_Bu_9454_0043_b-L25_01.jpg",
+   "line": 1683,
+   "doc_line": 24
+  },
+  {
+   "entity": "magdeburg",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface": "Magdeburg",
+   "page": 2,
+   "page_id": "0044_a1",
+   "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
+   "line": 1690,
+   "doc_line": 30
   },
   {
    "entity": "berlin",
@@ -423,160 +298,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0044_a1",
    "scan": "Oe_1_Bu_9454_0044_a1-L25_02.jpg",
-   "line": 1683,
-   "doc_line": 47
+   "line": 1705,
+   "doc_line": 45
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nAn unforeseen occurrence made it necessary that, after Your Serene Highness's departure from Berlin, I had to hasten very swiftly to Zagórów, because the peasants had once again stirred up a revolt and would not allow the separation of the grounds in the interior. This matter has now indeed been settled and entirely arranged; meanwhile, however much I hastened back here again, the King had departed before I returned, and since my patron, as was natural, had gone off with him, he could not count any longer upon that fund. I therefore had to take other courses in order to obtain the money for Weigel, for the Countess Schlabrendorff, and for Your Serene Highness. This has only now, today, been assured through the councillor of justice Bucholz. This man conducts the affairs of a certain von Bredow who has 80000 Rthl lying with the maritime trading company here, which he has ordered to be placed elsewhere / since the Minister von Stein, His Excellency, now wishes to give only 3 per cent /.\n\nHerr Bucholz has [uncertain: arranged] the matter thus: upon Kontop, against cession of two mortgages, there are to be given 30000 Rthl; upon Schwammern 20000; upon Trąbczyn, for the Grotowski mortgage which Weigel holds, 30000. Of this there are to be paid, being 80000 Rthl: to the Countess Schlabrendorff the 25000 still coming to her; to Weigel the 25000 still due to him.\n\nTo Hahn, as assistance in Koschentin, 5000.\n\nTo Your Serene Highness in cash, 5000.\n\nI take for myself, for the payment of the Wulffs, 30000 — 80000 Rthl — whereas",
-   "names": [
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Zagorowo",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Gräfin Schlabrendorff",
-     "en": "Countess Schlabrendorff",
-     "kind": "person"
-    },
-    {
-     "de": "Justiz Rath Bucholz",
-     "en": "councillor of justice Bucholz",
-     "kind": "person"
-    },
-    {
-     "de": "von Bredow",
-     "en": "von Bredow",
-     "kind": "person"
-    },
-    {
-     "de": "Minister v Stein",
-     "en": "Minister von Stein",
-     "kind": "person"
-    },
-    {
-     "de": "Kontop",
-     "en": "Kontop",
-     "kind": "place"
-    },
-    {
-     "de": "Schwammern",
-     "en": "Schwammern",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczin",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Grotowskische",
-     "en": "Grotowski",
-     "kind": "person"
-    },
-    {
-     "de": "Hahn",
-     "en": "Hahn",
-     "kind": "person"
-    },
-    {
-     "de": "Koschentin",
-     "en": "Koschentin",
-     "kind": "place"
-    },
-    {
-     "de": "Wulffen",
-     "en": "Wulffs",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "80000",
-    "3",
-    "30000",
-    "20000",
-    "30000",
-    "80000",
-    "25000",
-    "25000",
-    "5000",
-    "5000",
-    "30000",
-    "80000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "whereas Your Serene Highness will then give me a certificate or mortgage for 30000 Rthl, as being the amount which I am raising on my own estates on Her/His Highness's behalf! Next to this, the privy councillor von Tismar is pursuing, together with the wealthy house of Nathusius at Magdeburg, a negotiation in which he intends, in the first place, a capital of 360000 Rthl upon the whole of the South Prussian estates. With this all the debts are to be paid, and the mortgage of 250000 Rthl refused with Oppenheimer at 90000 fl is to be redeemed and cancelled in particular; and when all this has been attended to and brought to a clear footing, then I myself [will come] to Your Serene Highness and bring you the monies or good orders to pay. With the sale of the grounds matters go somewhat slowly amid the warlike events; in the meantime Honrichs writes to me yesterday that once again several purchasers had come forward who would buy at the newly fixed prices. Once this business is properly under way on account of the new higher prices, then, since all obstacles are now removed, much money will be brought together and all cares will be brought to an end.\n\nMay God grant Your Serene Highness the most lasting health and give you (when it comes to blows) victory. This is the one most heartfelt wish of Your Most Serene Highness's\n\nBerlin, the 28th of September\n\nmost faithful and obedient servant\n\n1806.\n\nvon Triebenfeld",
-   "names": [
-    {
-     "de": "Geheime Rath v Tismar",
-     "en": "von Tismar, privy councillor",
-     "kind": "person"
-    },
-    {
-     "de": "Nathusius",
-     "en": "Nathusius",
-     "kind": "person"
-    },
-    {
-     "de": "Magdeburg",
-     "en": "Magdeburg",
-     "kind": "place"
-    },
-    {
-     "de": "Südpreußische",
-     "en": "South Prussian",
-     "kind": "place"
-    },
-    {
-     "de": "Oppenheimer",
-     "en": "Oppenheimer",
-     "kind": "person"
-    },
-    {
-     "de": "Honrichs",
-     "en": "Honrichs",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "30000",
-    "360000",
-    "250000",
-    "90000",
-    "28",
-    "1806"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nAn unforeseen occurrence made it necessary that, after Your Serene Highness's departure from Berlin, I had to hasten very swiftly to Zagórów, because the peasants had once again stirred up a revolt and would not allow the separation of the grounds in the interior. This matter has now indeed been settled and entirely arranged; meanwhile, however much I hastened back here again, the King had departed before I returned, and since my patron, as was natural, had gone off with him, he could not count any longer upon that fund. I therefore had to take other courses in order to obtain the money for Weigel, for the Countess Schlabrendorff, and for Your Serene Highness. This has only now, today, been assured through the councillor of justice Bucholz. This man conducts the affairs of a certain von Bredow who has 80000 Rthl lying with the maritime trading company here, which he has ordered to be placed elsewhere / since the Minister von Stein, His Excellency, now wishes to give only 3 per cent /.\n\nHerr Bucholz has [uncertain: arranged] the matter thus: upon Kontop, against cession of two mortgages, there are to be given 30000 Rthl; upon Schwammern 20000; upon Trąbczyn, for the Grotowski mortgage which Weigel holds, 30000. Of this there are to be paid, being 80000 Rthl: to the Countess Schlabrendorff the 25000 still coming to her; to Weigel the 25000 still due to him.\n\nTo Hahn, as assistance in Koschentin, 5000.\n\nTo Your Serene Highness in cash, 5000.\n\nI take for myself, for the payment of the Wulffs, 30000 — 80000 Rthl — whereas\n\nwhereas Your Serene Highness will then give me a certificate or mortgage for 30000 Rthl, as being the amount which I am raising on my own estates on Her/His Highness's behalf! Next to this, the privy councillor von Tismar is pursuing, together with the wealthy house of Nathusius at Magdeburg, a negotiation in which he intends, in the first place, a capital of 360000 Rthl upon the whole of the South Prussian estates. With this all the debts are to be paid, and the mortgage of 250000 Rthl refused with Oppenheimer at 90000 fl is to be redeemed and cancelled in particular; and when all this has been attended to and brought to a clear footing, then I myself [will come] to Your Serene Highness and bring you the monies or good orders to pay. With the sale of the grounds matters go somewhat slowly amid the warlike events; in the meantime Honrichs writes to me yesterday that once again several purchasers had come forward who would buy at the newly fixed prices. Once this business is properly under way on account of the new higher prices, then, since all obstacles are now removed, much money will be brought together and all cares will be brought to an end.\n\nMay God grant Your Serene Highness the most lasting health and give you (when it comes to blows) victory. This is the one most heartfelt wish of Your Most Serene Highness's\n\nBerlin, the 28th of September\n\nmost faithful and obedient servant\n\n1806.\n\nvon Triebenfeld",
- "summary_en": "Reports a fresh peasant revolt at Zagorowo against the division of interior lands, now settled, and the loss of a hoped-for source of funds when the King and Triebenfeld's patron left Berlin. Instead the councillor of justice Bucholz has arranged 80,000 Rthl from von Bredow's capital, secured on Kontop, Schwammern and Trąbczyn, to pay Countess Schlabrendorff and Weigel 25,000 each, Hahn 5,000, the Prince 5,000 in cash and Triebenfeld 30,000 for the Wulffs, against a mortgage to him. Mentions von Tismar's projected 360,000 Rthl loan and slow land sales.",
- "summary_de": "Bericht über eine eilige Reise nach Zagorowo, wo die Bauern sich erneut gegen die Grundstückstrennung erhoben hatten, und über ein durch Justizrat Bucholz zugesagtes Darlehen von 80000 Rthl aus Mitteln eines von Bredow: 30000 auf Kontop, 20000 auf Schwammern, 30000 auf Trąbczyn für die Grotowski-Hypothek Weigels. Davon 25000 an die Gräfin Schlabrendorff, 25000 an Weigel, 5000 an Hahn für Koschentin, 5000 bar an den Fürsten, 30000 für Triebenfeld zur Zahlung der Wulffs, gegen Hypothek. Dazu Tismars Verhandlung mit Nathusius über 360000 Rthl und Nachrichten Honrichs' über neue Käufer."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

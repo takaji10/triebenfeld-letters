@@ -1,6 +1,6 @@
 {
  "letter_id": "209",
- "seq_archival": 222,
+ "seq_archival": 220,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-209",
@@ -18,41 +18,44 @@
  "month": 10,
  "day": 16,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 14788,
- "line_end": 14802,
+ "sender": "",
+ "recipient": "",
+ "line_start": 14764,
+ "line_end": 14779,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "zagorowo"
+ ],
  "is_missing": 0,
  "n_lines": 14,
  "n_pages": 1,
- "text": "Durchlauchtigster Fürst\ngnädigster Fürst und Herr!\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich muß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nv Triebenfeld\nBreslau\n16ten 8br.\n1810.",
- "text_reading": "Durchlauchtigster Fürst gnädigster Fürst und Herr! Die Anweisung ist eingegangen das Geld werde ich erheben und sofort abreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles durch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen soll. Die Post will fort ich muß schließen. In tiefsten Respect verharren Ewr Hochfürstliche Durchlaucht unterthänigster Diener v Triebenfeld\n\nBreslau\n\n16ten 8br.\n\n1810.",
+ "text": "209\nDurchlauchtigster Fürst\ngnädigster Fürst und Herr\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich unß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nBreslau\n16ten 8br.\n1810.\nunterthänigster Diener\nv Triebenfeld",
+ "text_reading": "209 Durchlauchtigster Fürst gnädigster Fürst und Herr Die Anweisung ist eingegangen das Geld werde ich erheben und sofort abreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles durch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen soll. Die Post will fort ich unß schließen. In tiefsten Respect verharren Ewr Hochfürstliche Durchlaucht Breslau\n\n16ten 8br.\n\n1810.\n\nunterthänigster Diener v Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 14789,
-   "line_end": 14801,
-   "n_lines": 13,
-   "diplomatic": "Durchlauchtigster Fürst\ngnädigster Fürst und Herr!\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich muß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nv Triebenfeld\nBreslau\n16ten 8br.\n1810.",
-   "transcription": "Durchlauchtigster Fürst\ngnädigster Fürst und Herr!\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich muß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nunterthänigster Diener\nv Triebenfeld\nBreslau\n16ten 8br.\n1810.",
-   "reading": "Durchlauchtigster Fürst gnädigster Fürst und Herr! Die Anweisung ist eingegangen das Geld werde ich erheben und sofort abreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles durch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen soll. Die Post will fort ich muß schließen. In tiefsten Respect verharren Ewr Hochfürstliche Durchlaucht unterthänigster Diener v Triebenfeld\n\nBreslau\n\n16ten 8br.\n\n1810.",
+   "page_id": "0391_b",
+   "line_start": 14766,
+   "line_end": 14779,
+   "n_lines": 14,
+   "diplomatic": "209\nDurchlauchtigster Fürst\ngnädigster Fürst und Herr\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich unß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nBreslau\n16ten 8br.\n1810.\nunterthänigster Diener\nv Triebenfeld",
+   "transcription": "209\nDurchlauchtigster Fürst\ngnädigster Fürst und Herr\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich unß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nBreslau\n16ten 8br.\n1810.\nunterthänigster Diener\nv Triebenfeld",
+   "reading": "209 Durchlauchtigster Fürst gnädigster Fürst und Herr Die Anweisung ist eingegangen das Geld werde ich erheben und sofort abreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles durch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen soll. Die Post will fort ich unß schließen. In tiefsten Respect verharren Ewr Hochfürstliche Durchlaucht Breslau\n\n16ten 8br.\n\n1810.\n\nunterthänigster Diener v Triebenfeld",
    "paragraphs": [
-    "Durchlauchtigster Fürst gnädigster Fürst und Herr! Die Anweisung ist eingegangen das Geld werde ich erheben und sofort abreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles durch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen soll. Die Post will fort ich muß schließen. In tiefsten Respect verharren Ewr Hochfürstliche Durchlaucht unterthänigster Diener v Triebenfeld",
-    "Breslau",
+    "209 Durchlauchtigster Fürst gnädigster Fürst und Herr Die Anweisung ist eingegangen das Geld werde ich erheben und sofort abreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles durch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen soll. Die Post will fort ich unß schließen. In tiefsten Respect verharren Ewr Hochfürstliche Durchlaucht Breslau",
     "16ten 8br.",
-    "1810."
+    "1810.",
+    "unterthänigster Diener v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 13
+   "doc_line_end": 14
   }
  ],
  "mentions": [
@@ -62,10 +65,10 @@
    "kind": "person",
    "surface": "Knobelsdorff",
    "page": 1,
-   "page_id": "",
+   "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14793,
-   "doc_line": 5
+   "line": 14771,
+   "doc_line": 6
   },
   {
    "entity": "triebenfeld",
@@ -73,46 +76,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14798,
-   "doc_line": 10
+   "line": 14779,
+   "doc_line": 14
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorowo",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Mr. von Knobelsdorff",
-   "kind": "person",
-   "surface_de": "H. v. Knobelsdorff",
-   "surface_en": "Mr. von Knobelsdorff",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -121,10 +91,10 @@
    "kind": "place",
    "surface": "Zagorowo",
    "page": 1,
-   "page_id": "",
+   "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14792,
-   "doc_line": 4
+   "line": 14770,
+   "doc_line": 5
   },
   {
    "entity": "breslau",
@@ -132,46 +102,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14799,
-   "doc_line": 11
+   "line": 14775,
+   "doc_line": 10
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! The order to pay has come in; I shall collect the money and set out at once. From Zagórów I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr. von Knobelsdorff thither. The post is about to go; I must close. In deepest reverence there remains Your Most Serene Highness's most humble and obedient servant, v. Triebenfeld\n\nBreslau\n\n16th October\n\n1810.",
-   "names": [
-    {
-     "de": "Zagorowo",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "H. v. Knobelsdorff",
-     "en": "Mr. von Knobelsdorff",
-     "kind": "person"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "16",
-    "1810"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! The order to pay has come in; I shall collect the money and set out at once. From Zagórów I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr. von Knobelsdorff thither. The post is about to go; I must close. In deepest reverence there remains Your Most Serene Highness's most humble and obedient servant, v. Triebenfeld\n\nBreslau\n\n16th October\n\n1810.",
- "summary_en": "A hurried note, written as the post was leaving: the payment order has arrived, and Triebenfeld will collect the money and depart immediately. He promises to report everything from Zagorowo at once by mounted messenger, who is also to bring Mr. von Knobelsdorff there. Nothing further is given on the sum involved or the purpose of the payment.",
- "summary_de": "Kurze Meldung, dass die Zahlungsanweisung eingegangen ist; Triebenfeld will das Geld einziehen und sogleich abreisen. Aus Zagorowo werde er dem Fürsten alles unverzüglich durch einen reitenden Boten berichten, der zugleich Herrn von Knobelsdorff dorthin bringen soll. Wegen des abgehenden Postgangs bricht er das Schreiben ab; weitere Angaben zu Summen oder Geschäften fehlen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

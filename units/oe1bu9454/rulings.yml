@@ -2,193 +2,371 @@
 #
 # Keyed by the archive's own document number, which is what letter_id stays.
 # Nothing here is derived: each entry is a decision taken against evidence and
-# recorded so a rebuild reproduces it. Adding a unit means writing a file like
-# this one, not editing the pipeline.
+# recorded so a rebuild reproduces it. Start empty and fill in from the review
+# sheets in review/ as you work through them.
 
 places:
   # Place of writing, where the dateline is absent, illegible or misleading.
   # A trailing [?] marks a reading that is probable rather than settled.
-  overrides:
-    "237": "Kalisz"
-    "282": "Wien"
-    "45": "Kontop"
-    "73": "Schlawenschitz"
-    "99": "Breslau"
-    "142": "Breslau"
-    "132": "Frankfurt an der Oder"
-    "133": "Frankfurt an der Oder"
-    "211": "Klein Öhringen"
-    "221": "Blizanow"
-    "227": "Blizanow"
-    "252": "Wien"
-    "297": "Blizanow"
-    "301": "Blizanow"
-    "72c": "Kalisz"
-    "72e": "Warschau"
-    "150": ""
-    "155": "Breslau"
-    "188": "Breslau"
-    "226": "Blizanow"
-    "74b": "Berlin"
-    "2": "Wien"
-    "4": "Wien"
-    "15": "Wien"
-    "23": "Kontop"
-    "43": "Kontop"
-    "56": "Kontop"
-    "66": "Kontop"
-    "67": "Kontop"
-    "24": "Freyberg"
-    "29": "Schlawenschitz"
-    "31": "Berlin"
-    "35": "Berlin"
-    "37": "Berlin"
-    "83": "Berlin"
-    "84": "Berlin"
-    "85": "Berlin"
-    "92": "Berlin"
-    "97": "Berlin"
-    "100": "Berlin"
-    "109": "Berlin"
-    "34": "Breslau"
-    "117": "Breslau"
-    "119": "Breslau"
-    "36": "Öhringen[?]"
-    "57": "Schweinern"
-    "72b": "Blizanow"
-    "72d": "Warschau"
-    "72f": "Kopojno"
-    "147": "Trąbczyn"
-    "192": "Trąbczyn"
-    "197": "Ollaboch"
-    "202": "Schweinern"
-    "203": "Schweinern"
-    "222": "Blizanow"
-    "242": "Wien"
-    "247": "Wien"
-    "260": "Wien"
-    "261": "Wien"
-    "262": "Wien"
-    "268": "Wien"
-    "283": "Wien"
-    "284": "Wien"
-    "286": "Wien"
-    "207": "Kalisz"
-    "217": "Berlin"
-    "296": "Berlin"
-    "302": "Kontop"
-    "3": "Wien[?]"
-    "8": "Wien[?]"
-    "12": "Wien[?]"
-    "13": "Wien[?]"
-    "254": "Wien[?]"
-    "279": "Wien[?]"
-    "47": "Kontop[?]"
-    "62": "Kontop[?]"
-    "153": "Berlin[?]"
-    "122": "Breslau[?]"
+  #   "12": Berlin
+  overrides: {}
 
 dates:
-  # Established from the manuscripts, where the dateline could not be parsed.
   # [year, month, day, precision]; null where that element is unknown.
-  supplied:
-    "3": [1815, 2, 9, "day"]
-    "47": [1809, 3, null, "month"]
-    "63": [1809, 12, 16, "day"]
-    "144": [1804, 11, 3, "day"]
-    "173": [1805, 3, 31, "day"]
-    "202": [1810, 8, 30, "day"]
-    "276": [1815, 3, 4, "day"]
-    "109": [1801, 1, 31, "day"]
-    "254": [1814, 9, null, "month"]
-    "186": [1810, 8, 29, "day"]
-    "232": [1812, 6, 16, "day"]
-    "1a": [1815, 2, 12, "day"]
-    "72": [1812, 2, 23, "day"]
-    "72b": [1812, 3, 12, "day"]
-    "72c": [1812, 3, 8, "day"]
-    "72d": [1812, 3, 5, "day"]
-    "72e": [1812, 3, 5, "day"]
-    "72f": [1812, 5, 22, "day"]
-    "74a": [1811, 7, 30, "day"]
-    "74c": [1811, 8, 1, "day"]
-    "74d": [1811, 8, 6, "day"]
-    "74e": [1811, 8, 1, "day"]
-    "118a": [1804, 2, 10, "day"]
-    "118b": [1804, 3, 29, "day"]
-    "118c": [1804, 3, 29, "day"]
-    "179a": [1806, 4, 25, "day"]
-    "265a": [1815, 1, 8, "day"]
-    "265b": [1815, 1, 15, "day"]
-    "269a": [1815, 1, 24, "day"]
+  #   "3": [1815, 2, 9, "day"]
+  supplied: {}
 
   # Taken from the document's own duplicate.
-  twin:
-    "302": [1809, 3, 7, "day"]
+  twin: {}
 
-  # Bracketed by the letters on either side. The last element records the
-  # reasoning, and is shown to the reader on the document.
-  # [year, month, day, precision, basis]
-  inferred:
-    "8": [1815, 3, null, "inferred", "between L7 (20 Mar 1815) and L10 (4 Mar 1815) - both March 1815"]
-    "62": [1809, 9, null, "inferred", "between L61 (31 Aug 1809) and L64 (6 Dec 1809)"]
-    "183": [1806, 5, null, "inferred", "between L182 (May 1806) and L184 (15 May 1806)"]
-    "215": [1811, 7, null, "inferred", "between L214 (21 Jul 1811) and L216 (29 Jul 1811)"]
-    "224": [1811, 12, null, "inferred", "between L223 (4 Dec 1811) and L226 (20 Dec 1811)"]
-    "230": [1812, 1, null, "inferred", "between L229 (27 Jan 1812) and L233 (26 Jun 1812)"]
-    "74b": [1811, 7, null, "inferred", "undated P.M. note bundled between 74a (30 Jul 1811) and 74c (1 Aug 1811)"]
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
 
-  # Undated and left so, collected at the end of chronological order.
-  no_date: ["121", "181", "225", "293", "303", "9"]
+  # Undated and left so.
+  no_date: []
 
 documents:
-  # Anything that is not an ordinary letter.
+  # Anything that is not an ordinary letter, e.g. "register".
   doc_type:
-    "303": "register"
+    # A series of tables: the creditors in the Prince's liquidation protocols.
+    "303": register
 
-  # Same document, transcribed twice. Both copies are kept unaltered: comparing
-  # them is the only direct evidence in the corpus of where transcription fails.
-  # Documents not in the German of the rest of the holding. 72e is the Polish
-  # duplicate of the German 72d; 283 is a French letter from a Congress
-  # correspondent. This lived in pipeline/translate/translate.py as a constant,
-  # where it was invisible to everything else and belonged to no unit.
-  language:
-    "72e": "pl"
-    "283": "fr"
+  # Documents transcribed as a table: their text in corpus.txt is CSV, one row
+  # per line, each row on the [PAGE ...] it stands on - header rows first, then
+  # the numbered entries, then any closing rows (the Summa). The site shows
+  # them as tables and checks every cell against the corpus.
+  tables: ["303"]
 
-  duplicate_of:
-    "302": "48"
-    "72e": "72d"
-    "118c": "118b"
+  # The estate or estates each letter is ABOUT, as slugs from reference/places.yml.
+  # Authored 2026-09-27 from a reading of every letter, not counted. Datelines,
+  # chanceries and journeys do not count. "Majorats Güter" and, from 1811, the Cosmar
+  # and Courland-debt business mean the majorat: Schlawenschitz, Lassowitz, Oppurg
+  # (letter 245). "Pohl(nische) Güter" and, from 1815, the Entschädigung mean Trąbczyn
+  # and Kamionna. The 1798-99 "Güter Tausch" is Krotoszyn and Polajewo. Empty where
+  # a letter has no estate business.
+  estates:
+    "1": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "1a": [schlawenschitz, lassowitz, oppurg, trabczyn]
+    "2": [trabczyn, koschentin, oppurg, schlawenschitz, lassowitz]
+    "3": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "4": []
+    "5": [bischdorf, sokolnik, betsche, trabczyn, kamionno]
+    "6": [sokolnik, kamionno, schlawenschitz, lassowitz, oppurg, trabczyn]
+    "7": []
+    "8": [schlawenschitz, lassowitz, oppurg]
+    "9": []
+    "10": [trabczyn, kamionno]
+    "11": [schlawenschitz, lassowitz, oppurg]
+    "12": [schlawenschitz, lassowitz, oppurg]
+    "13": [koschentin, oppurg, schlawenschitz, lassowitz]
+    "14": [schlawenschitz, lassowitz, oppurg]
+    "15": [trabczyn, schlawenschitz, lassowitz, oppurg, kamionno]
+    "16": [zagorowo]
+    "17": [wrabczyn, trabczyn]
+    "18": [zagorowo, wrabczyn, olesnica, swiatniki, kopojno, skokum, swiecia]
+    "19": [blizanow, witow]
+    "20": [kontop, zagorowo]
+    "21": [trabczyn, kamionno, kontop, schweinern]
+    "22": [witow]
+    "23": [zagorowo, trabczyn, witow, betsche, kamionno]
+    "24": [trabczyn, zagorowo, kopojno, swiatniki, skokum, olesnica, drzewce, gradzyn, wrabczyn, swiecia, szetlewek]
+    "25": [zagorowo, kontop, schweinern, trabczyn, koschentin]
+    "26": [kontop]
+    "27": [trabczyn, kamionno]
+    "28": [trabczyn]
+    "29": []
+    "30": [trabczyn]
+    "31": [witow, szetlewek, swiecia, trabczyn]
+    "32": [trabczyn, zagorowo, olesnica, wrabczyn, augustinow, gradzyn, swiecia, kopojno, kamionno]
+    "33": []
+    "34": []
+    "35": [kontop]
+    "36": []
+    "37": []
+    "38": [kontop]
+    "39": [zagorowo]
+    "40": [zagorowo]
+    "41": [trabczyn]
+    "42": [kontop, zagorowo]
+    "43": []
+    "44": [zagorowo]
+    "45": [kontop, zagorowo]
+    "46": []
+    "47": [zagorowo, olesnica, augustinow, drzewce, kontop]
+    "48": [zagorowo, olesnica, trabczyn]
+    "49": []
+    "50": []
+    "51": []
+    "52": []
+    "53": []
+    "54": [kontop, zagorowo]
+    "55": [kontop]
+    "56": []
+    "57": [kontop]
+    "58": [kontop]
+    "59": [kontop]
+    "60": [schweinern, zagorowo]
+    "61": []
+    "62": [koschentin, schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "63": [trabczyn]
+    "64": [koschentin, bischdorf, mollna, zagorowo, witow]
+    "65": [koschentin]
+    "66": [trabczyn, kamionno]
+    "67": [kontop, zagorowo, trabczyn, kamionno, schweinern]
+    "68": [trabczyn, kamionno]
+    "69": []
+    "70": [trabczyn, zagorowo]
+    "71": [trabczyn, kamionno]
+    "72": [zagorowo, trabczyn]
+    "72a": [zagorowo, wrabczyn, olesnica, trabczyn]
+    "72b": [zagorowo, wrabczyn, olesnica, trabczyn, drzewce]
+    "72c": [trabczyn]
+    "72d": [trabczyn]
+    "72e": [trabczyn]
+    "72f": [zagorowo, wrabczyn, olesnica]
+    "73": [zagorowo, trabczyn]
+    "74a": [zagorowo, schweinern]
+    "74b": [zagorowo]
+    "74c": [schlawenschitz, lassowitz, oppurg]
+    "74d": []
+    "75": []
+    "76": [krotoszyn, polajewo]
+    "77": []
+    "78": [krotoszyn, polajewo]
+    "79": [krotoszyn]
+    "80": []
+    "81": [krotoszyn, polajewo]
+    "82": []
+    "83": [krotoszyn, polajewo]
+    "84": [krotoszyn, betsche, polajewo]
+    "85": [krotoszyn, polajewo]
+    "86": [krotoszyn, polajewo]
+    "87": [krotoszyn, polajewo]
+    "88": [krotoszyn, polajewo]
+    "89": [krotoszyn, polajewo, trabczyn]
+    "90": []
+    "91": [krotoszyn, polajewo]
+    "92": []
+    "93": [polajewo]
+    "94": [krotoszyn, polajewo]
+    "95": [krotoszyn, polajewo]
+    "96": [krotoszyn]
+    "97": [krotoszyn, polajewo]
+    "98": []
+    "99": [krotoszyn]
+    "100": []
+    "101": [krotoszyn, polajewo, betsche]
+    "102": [krotoszyn, kulm]
+    "103": [krotoszyn, wieniec, kamionno, kulm, trabczyn, szetlewek]
+    "104": [krotoszyn, polajewo]
+    "105": []
+    "106": [brzyce]
+    "107": []
+    "108": []
+    "109": [betsche]
+    "110": []
+    "111": []
+    "112": []
+    "113": []
+    "114": []
+    "115": [schweinern]
+    "116": [trabczyn]
+    "117": []
+    "118a": [olesnica, trabczyn, zagorowo]
+    "118b": []
+    "118c": []
+    "119": [kamionno, zagorowo, betsche]
+    "120": []
+    "122": []
+    "123": []
+    "124": []
+    "125": [olesnica]
+    "126": [olesnica]
+    "127": []
+    "128": [olesnica]
+    "129": [kontop]
+    "130": [betsche, kamionno]
+    "131": [koschentin]
+    "132": [betsche, kamionno]
+    "133": [betsche, kamionno]
+    "134": [kontop, zagorowo, kamionno, kulm, trabczyn]
+    "135": [kamionno, kolno]
+    "136": [kamionno, kolno, koschentin, zagorowo, trabczyn, szetlewek, kopojno, swiecia, drzewce, gradzyn, swiatniki, olesnica, skokum, wrabczyn, schlawenschitz, lassowitz, oppurg, wieniec, betsche, kulm]
+    "137": [betsche, trabczyn, koschentin]
+    "138": [kamionno, kolno]
+    "139": [betsche, trabczyn]
+    "140": [betsche, kamionno, kulm]
+    "141": [betsche]
+    "142": [betsche]
+    "143": []
+    "144": []
+    "145": [trabczyn]
+    "146": [trabczyn, zagorowo, wrabczyn, swiecia, kopojno]
+    "147": [olesnica, swiecia, wrabczyn]
+    "148": [swiecia, olesnica]
+    "149": [swiecia, zagorowo, olesnica, wrabczyn]
+    "150": [trabczyn]
+    "151": [trabczyn, drzewce, gradzyn, swiecia, wrabczyn, olesnica]
+    "152": [zagorowo, swiecia, olesnica]
+    "153": []
+    "154": []
+    "155": []
+    "156": [szetlewek]
+    "157": []
+    "158": [betsche]
+    "159": []
+    "160": [olesnica]
+    "161": []
+    "162": [olesnica]
+    "163": [olesnica, szetlewek, trabczyn, witow]
+    "164": [swiecia, olesnica]
+    "165": []
+    "166": [betsche, schlawenschitz, lassowitz, oppurg, kontop]
+    "167": []
+    "168": [szetlewek, betsche, olesnica]
+    "169": [trabczyn, zagorowo, szetlewek, olesnica]
+    "170": [schweinern]
+    "171": []
+    "172": [trabczyn, olesnica, szetlewek]
+    "173": [witow, trabczyn, szetlewek, olesnica]
+    "174": [trabczyn]
+    "175": []
+    "176": []
+    "177": [trabczyn, betsche, zagorowo, gradzyn, kopojno, drzewce, augustinow, skokum, wrabczyn]
+    "178": []
+    "179": [betsche, zielomysl, olesnica, kontop, schweinern, trabczyn, zagorowo]
+    "179a": [trabczyn, zagorowo, olesnica, szetlewek, swiatniki, kopojno, drzewce, wrabczyn, swiecia, schlawenschitz, lassowitz, oppurg]
+    "180": [betsche]
+    "182": []
+    "183": []
+    "184": []
+    "185": []
+    "186": []
+    "187": [zagorowo, trabczyn, olesnica, betsche]
+    "188": [kontop, trabczyn, betsche, wrabczyn, olesnica, swiecia]
+    "189": [koschentin, trabczyn]
+    "190": [wrabczyn]
+    "191": [betsche, trabczyn, swiatniki, olesnica, kopojno, wrabczyn, skokum, drzewce]
+    "192": [olesnica, swiecia, szetlewek, koschentin]
+    "193": [trabczyn, kamionno]
+    "194": [trabczyn]
+    "195": []
+    "196": [trabczyn]
+    "197": [zagorowo, trabczyn]
+    "198": [trabczyn]
+    "199": [zagorowo, schweinern]
+    "200": [zagorowo]
+    "201": [zagorowo, schweinern, trabczyn]
+    "202": [zagorowo]
+    "203": [zagorowo, schweinern, trabczyn, kamionno]
+    "204": [koschentin]
+    "205": [bischdorf, koschentin]
+    "206": [trabczyn, zagorowo]
+    "207": [trabczyn, olesnica]
+    "208": [schweinern]
+    "209": [zagorowo]
+    "210": [trabczyn, olesnica, szetlewek]
+    "211": [trabczyn]
+    "212": [olesnica, kopojno, drzewce, trabczyn, zagorowo, schweinern]
+    "213": [olesnica, wrabczyn, kopojno, skokum, swiatniki, drzewce, swiecia, trabczyn, schlawenschitz, lassowitz, oppurg]
+    "214": [wrabczyn, olesnica, swiecia, kontop]
+    "215": [trabczyn, zagorowo, kamionno, szetlewek, betsche, witow]
+    "216": [olesnica, wrabczyn]
+    "217": [trabczyn]
+    "218": [schurgast, zagorowo, blizanow, kontop, koschentin, schlawenschitz, lassowitz, oppurg, wrabczyn, olesnica, schweinern]
+    "219": [schlawenschitz, lassowitz, oppurg]
+    "220": [schweinern, schurgast, zagorowo, koschentin, schlawenschitz, lassowitz, oppurg]
+    "221": [zagorowo, blizanow, koschentin, schlawenschitz, lassowitz, oppurg, schurgast]
+    "222": [zagorowo, schlawenschitz, lassowitz, oppurg, koschentin, blizanow]
+    "223": [koschentin, zagorowo, trabczyn]
+    "224": [zagorowo]
+    "226": [zagorowo, trabczyn, betsche]
+    "227": [zagorowo, blizanow, wrabczyn, olesnica]
+    "228": [zagorowo]
+    "229": [wrabczyn, olesnica, zagorowo]
+    "230": [zagorowo, trabczyn]
+    "231": []
+    "232": [trabczyn, wrabczyn, swiecia, olesnica, skokum, kopojno]
+    "233": [drzewce, swiecia, kopojno, olesnica, wrabczyn]
+    "234": [zagorowo]
+    "235": [zagorowo, koschentin]
+    "236": [schlawenschitz, lassowitz, oppurg]
+    "237": [trabczyn, kamionno]
+    "238": []
+    "239": []
+    "240": []
+    "241": []
+    "242": [koschentin, trabczyn, kulm, schlawenschitz, lassowitz, oppurg]
+    "243": []
+    "244": [schlawenschitz, lassowitz, oppurg]
+    "245": [schlawenschitz, lassowitz, oppurg]
+    "246": [koschentin, trabczyn, kamionno]
+    "247": [schlawenschitz, lassowitz, oppurg]
+    "248": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "249": [schlawenschitz, lassowitz, oppurg]
+    "250": []
+    "251": [schlawenschitz, lassowitz, oppurg]
+    "252": [trabczyn, kamionno]
+    "253": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg]
+    "254": [trabczyn, kamionno, koschentin]
+    "255": [schlawenschitz, lassowitz, oppurg]
+    "256": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg]
+    "257": [schlawenschitz, lassowitz, oppurg]
+    "258": [schlawenschitz, lassowitz, oppurg]
+    "259": [schlawenschitz, lassowitz, oppurg]
+    "260": [schlawenschitz, lassowitz, oppurg]
+    "261": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg]
+    "262": [schlawenschitz, lassowitz, oppurg]
+    "263": [schlawenschitz, lassowitz, oppurg]
+    "264": [koschentin, boronow, cieszowa, schlawenschitz, lassowitz, oppurg]
+    "265a": [schlawenschitz, lassowitz, oppurg]
+    "265b": [trabczyn, kamionno]
+    "266": [trabczyn, blizanow]
+    "267": [koschentin]
+    "268": [trabczyn, schlawenschitz, lassowitz, oppurg]
+    "269": [trabczyn, schlawenschitz, lassowitz, oppurg, kamionno]
+    "269a": [schlawenschitz, lassowitz, oppurg]
+    "270": [trabczyn, schlawenschitz, lassowitz, oppurg, kamionno]
+    "271": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "272": [schlawenschitz, lassowitz, oppurg]
+    "273": [schlawenschitz, lassowitz, oppurg]
+    "274": [trabczyn]
+    "275": [trabczyn, kamionno, kulm, schlawenschitz, lassowitz, oppurg]
+    "276": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg]
+    "277": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg]
+    "278": [schlawenschitz, lassowitz, oppurg]
+    "279": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "280": [schlawenschitz, lassowitz, oppurg, koschentin, trabczyn, kamionno]
+    "281": [trabczyn, schlawenschitz, lassowitz, oppurg, kamionno]
+    "282": [schlawenschitz, lassowitz, oppurg]
+    "283": []
+    "284": [trabczyn, kamionno, kulm, betsche, zagorowo]
+    "285": [kamionno, betsche, kulm, trabczyn]
+    "286": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg, wieniec]
+    "287": []
+    "288": [trabczyn, klunowo, szetlewek, kamionno, schlawenschitz, lassowitz, oppurg, sokolnik]
+    "289": [schlawenschitz, lassowitz, oppurg]
+    "290": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "291": [trabczyn, kamionno, schlawenschitz, lassowitz, oppurg]
+    "292": [schlawenschitz, lassowitz, oppurg, trabczyn, kamionno]
+    "294": [schlawenschitz, lassowitz, oppurg]
+    "295": [betsche, blizanow]
+    "296": [schlawenschitz, lassowitz, oppurg]
+    "297": [betsche, kamionno, kulm, schlawenschitz, lassowitz, oppurg, trabczyn]
+    "298": [betsche, trabczyn, kamionno]
+    "299": [betsche, kamionno, kulm]
+    "300": [betsche, trabczyn, kamionno]
+    "301": [schweinern, betsche, trabczyn, kamionno]
+    "302": [zagorowo, trabczyn, olesnica]
+    "303": []
+
+  # Same document, transcribed twice.
+  duplicate_of: {}
 
   # Why a sub-record exists, shown on the document.
-  split_note:
-    "72": "archival number 72 held several documents; this is the first, split out after the scans showed it was distinct from 72a"
-    "72a": "part of letter 72 (see 72); separated from it after the scans showed two documents under one number"
-    "1a": "split out of letter 1 after the scans showed two documents under one archival number"
-    "72b": "part of letter 72 (see 72a)"
-    "72c": "part of letter 72 (see 72a)"
-    "72d": "part of letter 72 (see 72a); German original, duplicated in Polish as 72e"
-    "72e": "part of letter 72 (see 72a); Polish-language duplicate of 72d"
-    "72f": "part of letter 72 (see 72a)"
-    "74a": "part of letter 74, split into 74a-74e (court/legal documents bundled under one archival number)"
-    "74b": "part of letter 74 (see 74a); a personal P.M. note from Triebenfeld, undated"
-    "74c": "part of letter 74 (see 74a)"
-    "74d": "part of letter 74 (see 74a)"
-    "74e": "part of letter 74 (see 74a)"
-    "118a": "part of letter 118, split into 118a-118c"
-    "118b": "part of letter 118 (see 118a)"
-    "118c": "part of letter 118 (see 118a); near-duplicate of 118b"
-    "179a": "enclosure to letter 179 (\"179. a) Abschrift\" in the source) - a multi-exhibit financial dossier (A-D), dated 28 Mar-25 Apr 1806; date given is exhibit C (the Memorial)"
-    "265a": "part of letter 265, split into 265a-265b (two distinct petitions on different topics)"
-    "265b": "part of letter 265 (see 265a)"
-    "269a": "enclosure to letter 269 (\"269 a) Abschrift\" in the source), a copy of an earlier document - dated BEFORE the covering letter 269"
+  split_note: {}
 
 damage:
-  # Damage is read from the text's own [...] markers, which travel with the
-  # words and survive corpus edits. It used to be recorded as corpus line
-  # ranges; those went stale when the corpus was edited and silently stopped
-  # matching anything, so has_damage was false for all 318 records. See notes.md.
-  #
-  # List letter numbers here only for damage the transcription does not mark.
+  # Damage is read from the text's own [...] markers. List document numbers
+  # here only for damage the transcription does not mark.
   letters: []

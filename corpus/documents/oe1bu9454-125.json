@@ -1,6 +1,6 @@
 {
  "letter_id": "125",
- "seq_archival": 137,
+ "seq_archival": 136,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-125",
@@ -18,39 +18,41 @@
  "month": 4,
  "day": 28,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 9120,
- "line_end": 9132,
+ "sender": "",
+ "recipient": "",
+ "line_start": 9118,
+ "line_end": 9131,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "olesnica"
+ ],
  "is_missing": 0,
  "n_lines": 12,
  "n_pages": 1,
- "text": "Die Leute aus Olesnica sind mit die Gelder an\ngekommen – Sie wollen im 4 Uhr bey Ewr Hoch¬\nfürstliche Durchlaucht sein\nIch habe hier etwas mit sie verhandelt, darü¬\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen - ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nv Triebenfeld\nBreslau den 28ten April 1804\nSeiner Hochfürstliche\nDurchlaucht",
- "text_reading": "Die Leute aus Olesnica sind mit die Gelder an gekommen – Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen - ich glaube es wird Ewr Durchlaucht nicht unlieb sein v Triebenfeld Breslau den 28ten April 1804 Seiner Hochfürstliche\n\nDurchlaucht",
+ "text": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen – Sie wollen im 4 Uhr bey Ewr Hoch¬\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü¬\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen - ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
+ "text_reading": "125 Seiner Hochfürstliche Durchlaucht Die Leute aus Olesnica sind mit die Gelder an gekommen – Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein. Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen - ich glaube es wird Ewr Durchlaucht nicht unlieb sein Breslau den 28ten April 1804 v Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 9121,
+   "page_id": "0244_a2",
+   "line_start": 9120,
    "line_end": 9131,
-   "n_lines": 11,
-   "diplomatic": "Die Leute aus Olesnica sind mit die Gelder an\ngekommen – Sie wollen im 4 Uhr bey Ewr Hoch¬\nfürstliche Durchlaucht sein\nIch habe hier etwas mit sie verhandelt, darü¬\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen - ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nv Triebenfeld\nBreslau den 28ten April 1804\nSeiner Hochfürstliche\nDurchlaucht",
-   "transcription": "Die Leute aus Olesnica sind mit die Gelder an\ngekommen – Sie wollen im 4 Uhr bey Ewr Hoch-\nfürstliche Durchlaucht sein\nIch habe hier etwas mit sie verhandelt, darü-\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen - ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nv Triebenfeld\nBreslau den 28ten April 1804\nSeiner Hochfürstliche\nDurchlaucht",
-   "reading": "Die Leute aus Olesnica sind mit die Gelder an gekommen – Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen - ich glaube es wird Ewr Durchlaucht nicht unlieb sein v Triebenfeld Breslau den 28ten April 1804 Seiner Hochfürstliche\n\nDurchlaucht",
+   "n_lines": 12,
+   "diplomatic": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen – Sie wollen im 4 Uhr bey Ewr Hoch¬\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü¬\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen - ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
+   "transcription": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen – Sie wollen im 4 Uhr bey Ewr Hoch-\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü-\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen - ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
+   "reading": "125 Seiner Hochfürstliche Durchlaucht Die Leute aus Olesnica sind mit die Gelder an gekommen – Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein. Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen - ich glaube es wird Ewr Durchlaucht nicht unlieb sein Breslau den 28ten April 1804 v Triebenfeld",
    "paragraphs": [
-    "Die Leute aus Olesnica sind mit die Gelder an gekommen – Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen - ich glaube es wird Ewr Durchlaucht nicht unlieb sein v Triebenfeld Breslau den 28ten April 1804 Seiner Hochfürstliche",
-    "Durchlaucht"
+    "125 Seiner Hochfürstliche Durchlaucht Die Leute aus Olesnica sind mit die Gelder an gekommen – Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein. Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen - ich glaube es wird Ewr Durchlaucht nicht unlieb sein Breslau den 28ten April 1804 v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 11
+   "doc_line_end": 12
   }
  ],
  "mentions": [
@@ -60,38 +62,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9128,
-   "doc_line": 8
+   "line": 9131,
+   "doc_line": 12
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Olesnica",
-   "kind": "place",
-   "surface_de": "Olesnica",
-   "surface_en": "Olesnica",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -100,10 +77,10 @@
    "kind": "place",
    "surface": "Olesnica",
    "page": 1,
-   "page_id": "",
+   "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9121,
-   "doc_line": 1
+   "line": 9123,
+   "doc_line": 4
   },
   {
    "entity": "breslau",
@@ -111,42 +88,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9129,
-   "doc_line": 9
+   "line": 9130,
+   "doc_line": 11
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "The people from Olesnica have arrived with the monies – they wish to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon – I believe it will not be displeasing to Your Serene Highness. v. Triebenfeld. Breslau, the 28th of April 1804. To His Most Serene\n\nHighness",
-   "names": [
-    {
-     "de": "Olesnica",
-     "en": "Olesnica",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "4",
-    "28",
-    "1804"
-   ]
-  }
- ],
- "text_english": "The people from Olesnica have arrived with the monies – they wish to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon – I believe it will not be displeasing to Your Serene Highness. v. Triebenfeld. Breslau, the 28th of April 1804. To His Most Serene\n\nHighness",
- "summary_en": "A brief note announcing that the men from Olesnica have arrived with the money and wish to wait on the Prince of Hohenlohe-Ingelfingen at four o'clock. Triebenfeld reports having already negotiated something with them, the details of which he will lay before the Prince that afternoon, and expresses confidence that the terms he has obtained will meet with approval.",
- "summary_de": "Meldung, dass die Leute aus Olesnica mit den Geldern eingetroffen sind und sich um 4 Uhr beim Fürsten einfinden wollen. Triebenfeld hat bereits mit ihnen verhandelt und kündigt für den Nachmittag einen mündlichen Bericht über das Ausgehandelte an, das dem Fürsten seiner Ansicht nach zusagen wird. Ein kurzes Billett ohne Angabe der Summen oder der Bedingungen der Abrede."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

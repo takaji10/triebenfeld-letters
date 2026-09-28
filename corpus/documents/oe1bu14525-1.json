@@ -217,6 +217,17 @@
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
+   "page": 3,
+   "page_id": "0003_a2",
+   "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+   "line": 78,
+   "doc_line": 57
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
    "page": 5,
    "page_id": "0004_a2",
    "scan": "Oe_1_Bu_14525_0004_a2-L1_05.jpg",
@@ -703,6 +714,17 @@
  "place_canonical": "Kalisch",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0003_a1",
+   "scan": "Oe_1_Bu_14525_0003_a1-L1_02.jpg",
+   "line": 41,
+   "doc_line": 21
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -734,6 +756,28 @@
    "scan": "Oe_1_Bu_14525_0003_a1-L1_02.jpg",
    "line": 58,
    "doc_line": 38
+  },
+  {
+   "entity": "kulm",
+   "display": "Kulm",
+   "kind": "place",
+   "surface": "Kulm",
+   "page": 2,
+   "page_id": "0003_a1",
+   "scan": "Oe_1_Bu_14525_0003_a1-L1_02.jpg",
+   "line": 60,
+   "doc_line": 40
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 3,
+   "page_id": "0003_a2",
+   "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+   "line": 62,
+   "doc_line": 41
   },
   {
    "entity": "szetlewek",
@@ -780,6 +824,28 @@
    "doc_line": 45
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0003_a2",
+   "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+   "line": 79,
+   "doc_line": 58
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 5,
+   "page_id": "0004_a2",
+   "scan": "Oe_1_Bu_14525_0004_a2-L1_05.jpg",
+   "line": 113,
+   "doc_line": 90
+  },
+  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -789,6 +855,17 @@
    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
    "line": 146,
    "doc_line": 121
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 7,
+   "page_id": "0005_a2",
+   "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+   "line": 156,
+   "doc_line": 131
   },
   {
    "entity": "kamionno",
@@ -811,6 +888,28 @@
    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
    "line": 158,
    "doc_line": 133
+  },
+  {
+   "entity": "kulm",
+   "display": "Kulm",
+   "kind": "place",
+   "surface": "Kulm",
+   "page": 7,
+   "page_id": "0005_a2",
+   "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+   "line": 158,
+   "doc_line": 133
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 7,
+   "page_id": "0005_a2",
+   "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+   "line": 159,
+   "doc_line": 134
   },
   {
    "entity": "trabczyn",
@@ -866,6 +965,17 @@
    "scan": "Oe_1_Bu_14525_0006_a1-L1_08.jpg",
    "line": 175,
    "doc_line": 149
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 8,
+   "page_id": "0006_a1",
+   "scan": "Oe_1_Bu_14525_0006_a1-L1_08.jpg",
+   "line": 177,
+   "doc_line": 151
   },
   {
    "entity": "konin",

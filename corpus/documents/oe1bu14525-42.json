@@ -59,7 +59,30 @@
    "doc_line_end": 18
   }
  ],
- "mentions": [],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface": "Prusimskischen",
+   "page": 1,
+   "page_id": "0151_b",
+   "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+   "line": 4069,
+   "doc_line": 7
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0151_b",
+   "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+   "line": 4078,
+   "doc_line": 16
+  }
+ ],
  "mentions_english": [
   {
    "entity": "",
@@ -137,6 +160,17 @@
  "place_canonical": "Kalisch",
  "place_mentions": [
   {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 1,
+   "page_id": "0151_b",
+   "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+   "line": 4068,
+   "doc_line": 6
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
@@ -146,6 +180,17 @@
    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
    "line": 4073,
    "doc_line": 11
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0151_b",
+   "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+   "line": 4079,
+   "doc_line": 17
   }
  ],
  "translation_status": "draft",

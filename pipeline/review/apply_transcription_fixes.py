@@ -88,7 +88,8 @@ def doubles_a_word(before, after):
     nur`. The applier cannot know the intent, but it can see the damage.
     """
     def doubled(line):
-        ws = [w.lower() for w in re.findall(r"[^\W\d_]+", line)]
+        # figures count as words, so `127000 rt 27000 rt` is not `rt rt`
+        ws = [w.lower() for w in re.findall(r"[^\W_]+", line)]
         return any(a == b and len(a) > 1 for a, b in zip(ws, ws[1:]))
     return doubled(after) and not doubled(before)
 
@@ -307,11 +308,15 @@ def main():
     assert len(out.split('\n')) == len(text.split('\n')), 'line count changed'
     with io.open(corpus_path, 'w', encoding='utf-8', newline='\n') as f:
         f.write(out)
+    # Appended, not rewritten: a unit is corrected in batches, and a log that
+    # keeps only the last batch cannot be read back to reverse an earlier one.
     log = os.path.join(rev, 'transcription_fixes_applied.md')
-    with io.open(log, 'w', encoding='utf-8', newline='\n') as f:
-        f.write(f'# Transcription fixes applied - {slug}\n\n'
-                f'{len(applied)} change(s). Each row gives the corpus line '
-                f'before and after.\n\n')
+    fresh = not os.path.isfile(log)
+    with io.open(log, 'a', encoding='utf-8', newline='\n') as f:
+        if fresh:
+            f.write(f'# Transcription fixes applied - {slug}\n\n'
+                    f'Each row gives the corpus line before and after.\n\n')
+        f.write(f'---\n\n{len(applied)} change(s) in this run.\n\n')
         for r, n, before, after in applied:
             f.write(f'## line {n} - document {r["letter"]}, page {r["page"]}'
                     f' ({r["page_id"]})\n\n'

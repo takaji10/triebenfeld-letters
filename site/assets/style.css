@@ -295,6 +295,30 @@ ol.dip li::marker {
    new paragraph. */
 .text-view[data-view="reading"] p + p { margin-top: 0; text-indent: 1.4em; }
 .text-view[data-view="reading"] p.runs-on { text-indent: 0; }
+
+/* A document laid out as a table (a register of creditors): entry number,
+   name, then amounts grouped by currency. Scrolls sideways on its own rather
+   than widening the page. */
+.ledger-wrap { overflow-x: auto; }
+table.ledger {
+  border-collapse: collapse; font-size: .92rem; line-height: 1.4;
+  font-variant-numeric: tabular-nums;
+}
+table.ledger caption {
+  caption-side: top; text-align: left; font-style: italic;
+  padding-bottom: .5rem; color: var(--ink-soft);
+}
+table.ledger th, table.ledger td { padding: .2rem .5rem; vertical-align: top; }
+table.ledger thead th {
+  font-family: var(--sans); font-size: .7rem; font-weight: 600;
+  color: var(--ink-soft); border-bottom: 1px solid var(--rule);
+}
+table.ledger th.grp { text-align: center; border-bottom: 1px solid var(--rule); }
+table.ledger .no { text-align: right; color: var(--ink-faint); font-family: var(--sans); font-size: .75rem; }
+table.ledger .name { text-align: left; }
+table.ledger .num { text-align: right; white-space: nowrap; }
+table.ledger tbody tr:nth-child(even) { background: var(--paper-2); }
+table.ledger tfoot td { border-top: 2px solid var(--rule); font-weight: 600; }
 /* The page image itself. */
 .scan-link { display: block; text-decoration: none; }
 img.scan {

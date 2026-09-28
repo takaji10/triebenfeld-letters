@@ -1,6 +1,6 @@
 {
  "letter_id": "199",
- "seq_archival": 212,
+ "seq_archival": 210,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-199",
@@ -18,36 +18,41 @@
  "month": 8,
  "day": 19,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 14304,
- "line_end": 14336,
- "uncertainty_count": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 14276,
+ "line_end": 14309,
+ "uncertainty_count": 2,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "zagorowo",
+  "schweinern"
+ ],
  "is_missing": 0,
  "n_lines": 32,
  "n_pages": 1,
- "text": "Durchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners Intresse heißt\nauf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden\nwas ich hier vorhand —\nDas erste ist beigehender Bruf von T. - Nach diesen Brück der König mit K2 nun ganz gewis¬\nich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen\nWein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein\ngeleitet werde –\nNach ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König\nkommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt.\nSeis — Kaemen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen\nGesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte\nsoeben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles\nWaßer auf unsere Räder leiten solle.\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande\nbin, der wieder nach Zagorowe jagen um dorten die Sache eine solche Form in der\nEile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen\nim Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um\ndes willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinere übermorgen\nfür 6000 Rthl baar Geld zu verkaufen auch noch ein paar tausend d. Zeit Reste von meinen Unter\nthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geldsack\nwas ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger\nPost zu Füßen legen.\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten\nErbgroßen Albert empfohle ich mich auf das ihrerbietagste und ersterbe in tiefster Hochachtung\nEuer Durchlaucht\nBreslau den 19 August Nachts 12 Uhr\n1810.\ntreu unterthänigster Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst,\n\nGnädigster Fürst und Herr!\n\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners Intresse heißt auf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden was ich hier vorhand — Das erste ist beigehender Bruf von T. - Nach diesen Brück der König mit K2 nun ganz gewis ich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen Wein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein geleitet werde – Nach ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König kommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt. Seis — Kaemen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen Gesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte soeben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles Waßer auf unsere Räder leiten solle.\n\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande bin, der wieder nach Zagorowe jagen um dorten die Sache eine solche Form in der Eile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen im Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um des willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinere übermorgen für 6000 Rthl baar Geld zu verkaufen auch noch ein paar tausend d. Zeit Reste von meinen Unter thanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geldsack was ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger Post zu Füßen legen.\n\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten Erbgroßen Albert empfohle ich mich auf das ihrerbietagste und ersterbe in tiefster Hochachtung Euer Durchlaucht\n\nBreslau den 19 August Nachts 12 Uhr\n\n1810.\n\ntreu unterthänigster Diener\n\nv Triebenfeld",
+ "text": "199\nDurchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners[?] Intresse heißt\nauf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden\nwas ich hier vorfand —\nDas erste ist beigehender Brief von T. - Nach diesen Brück der König mit K[öckritz] nun ganz gewis -\nich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen\nWein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein\ngeleitet werde –\nNacht ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König\nkommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt.\nSeis — Kämen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen\nGesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte\nso oben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles\nWaßer auf unsere Räder leiten solle.\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande\nbin, der wieder nach Zagorowo jagen um dorten die Sache eine solche Form in der\nEile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen\nim Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um\ndes willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinern übermorgen\nfür 6000 rt baar Geld zu verkaufen auch noch ein paar tausend rt. Zeit Reste von meinen Unter¬\nthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geld [b?]ack\nwas ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger\nPost zu Füßen legen.\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten\nErbgroßen Albert empfohle ich mich auf das ihrerbietagste und er starbe in tiefster Hochachtung\nEuer Durchlaucht\nBreslau den 19 August Nachts 12 Uhr\n1810.\ntreu unterthänigster Diener\nv Triebenfeld",
+ "text_reading": "199\n\nDurchlauchtigster Fürst,\n\nGnädigster Fürst und Herr!\n\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners[?] Intresse heißt auf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden was ich hier vorfand — Das erste ist beigehender Brief von T. - Nach diesen Brück der König mit K[öckritz] nun ganz gewis - ich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen Wein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein geleitet werde – Nacht ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König kommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt. Seis — Kämen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen Gesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte so oben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles Waßer auf unsere Räder leiten solle.\n\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande bin, der wieder nach Zagorowo jagen um dorten die Sache eine solche Form in der Eile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen im Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um des willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinern übermorgen für 6000 rt baar Geld zu verkaufen auch noch ein paar tausend rt. Zeit Reste von meinen Unterthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geld [b?]ack was ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger Post zu Füßen legen.\n\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten Erbgroßen Albert empfohle ich mich auf das ihrerbietagste und er starbe in tiefster Hochachtung Euer Durchlaucht\n\nBreslau den 19 August Nachts 12 Uhr\n\n1810.\n\ntreu unterthänigster Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 14305,
-   "line_end": 14335,
-   "n_lines": 31,
-   "diplomatic": "Durchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners Intresse heißt\nauf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden\nwas ich hier vorhand —\nDas erste ist beigehender Bruf von T. - Nach diesen Brück der König mit K2 nun ganz gewis¬\nich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen\nWein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein\ngeleitet werde –\nNach ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König\nkommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt.\nSeis — Kaemen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen\nGesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte\nsoeben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles\nWaßer auf unsere Räder leiten solle.\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande\nbin, der wieder nach Zagorowe jagen um dorten die Sache eine solche Form in der\nEile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen\nim Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um\ndes willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinere übermorgen\nfür 6000 Rthl baar Geld zu verkaufen auch noch ein paar tausend d. Zeit Reste von meinen Unter\nthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geldsack\nwas ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger\nPost zu Füßen legen.\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten\nErbgroßen Albert empfohle ich mich auf das ihrerbietagste und ersterbe in tiefster Hochachtung\nEuer Durchlaucht\nBreslau den 19 August Nachts 12 Uhr\n1810.\ntreu unterthänigster Diener\nv Triebenfeld",
-   "transcription": "Durchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners Intresse heißt\nauf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden\nwas ich hier vorhand —\nDas erste ist beigehender Bruf von T. - Nach diesen Brück der König mit K2 nun ganz gewis\nich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen\nWein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein\ngeleitet werde –\nNach ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König\nkommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt.\nSeis — Kaemen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen\nGesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte\nsoeben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles\nWaßer auf unsere Räder leiten solle.\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande\nbin, der wieder nach Zagorowe jagen um dorten die Sache eine solche Form in der\nEile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen\nim Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um\ndes willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinere übermorgen\nfür 6000 Rthl baar Geld zu verkaufen auch noch ein paar tausend d. Zeit Reste von meinen Unter\nthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geldsack\nwas ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger\nPost zu Füßen legen.\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten\nErbgroßen Albert empfohle ich mich auf das ihrerbietagste und ersterbe in tiefster Hochachtung\nEuer Durchlaucht\nBreslau den 19 August Nachts 12 Uhr\n1810.\ntreu unterthänigster Diener\nv Triebenfeld",
-   "reading": "Durchlauchtigster Fürst,\n\nGnädigster Fürst und Herr!\n\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners Intresse heißt auf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden was ich hier vorhand — Das erste ist beigehender Bruf von T. - Nach diesen Brück der König mit K2 nun ganz gewis ich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen Wein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein geleitet werde – Nach ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König kommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt. Seis — Kaemen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen Gesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte soeben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles Waßer auf unsere Räder leiten solle.\n\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande bin, der wieder nach Zagorowe jagen um dorten die Sache eine solche Form in der Eile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen im Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um des willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinere übermorgen für 6000 Rthl baar Geld zu verkaufen auch noch ein paar tausend d. Zeit Reste von meinen Unter thanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geldsack was ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger Post zu Füßen legen.\n\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten Erbgroßen Albert empfohle ich mich auf das ihrerbietagste und ersterbe in tiefster Hochachtung Euer Durchlaucht\n\nBreslau den 19 August Nachts 12 Uhr\n\n1810.\n\ntreu unterthänigster Diener\n\nv Triebenfeld",
+   "page_id": "0378_b",
+   "line_start": 14278,
+   "line_end": 14309,
+   "n_lines": 32,
+   "diplomatic": "199\nDurchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners[?] Intresse heißt\nauf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden\nwas ich hier vorfand —\nDas erste ist beigehender Brief von T. - Nach diesen Brück der König mit K[öckritz] nun ganz gewis -\nich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen\nWein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein\ngeleitet werde –\nNacht ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König\nkommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt.\nSeis — Kämen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen\nGesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte\nso oben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles\nWaßer auf unsere Räder leiten solle.\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande\nbin, der wieder nach Zagorowo jagen um dorten die Sache eine solche Form in der\nEile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen\nim Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um\ndes willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinern übermorgen\nfür 6000 rt baar Geld zu verkaufen auch noch ein paar tausend rt. Zeit Reste von meinen Unter¬\nthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geld [b?]ack\nwas ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger\nPost zu Füßen legen.\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten\nErbgroßen Albert empfohle ich mich auf das ihrerbietagste und er starbe in tiefster Hochachtung\nEuer Durchlaucht\nBreslau den 19 August Nachts 12 Uhr\n1810.\ntreu unterthänigster Diener\nv Triebenfeld",
+   "transcription": "199\nDurchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners[?] Intresse heißt\nauf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden\nwas ich hier vorfand —\nDas erste ist beigehender Brief von T. - Nach diesen Brück der König mit K[öckritz] nun ganz gewis -\nich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen\nWein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein\ngeleitet werde –\nNacht ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König\nkommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt.\nSeis — Kämen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen\nGesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte\nso oben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles\nWaßer auf unsere Räder leiten solle.\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande\nbin, der wieder nach Zagorowo jagen um dorten die Sache eine solche Form in der\nEile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen\nim Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um\ndes willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinern übermorgen\nfür 6000 rt baar Geld zu verkaufen auch noch ein paar tausend rt. Zeit Reste von meinen Unter-\nthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geld [b?]ack\nwas ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger\nPost zu Füßen legen.\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten\nErbgroßen Albert empfohle ich mich auf das ihrerbietagste und er starbe in tiefster Hochachtung\nEuer Durchlaucht\nBreslau den 19 August Nachts 12 Uhr\n1810.\ntreu unterthänigster Diener\nv Triebenfeld",
+   "reading": "199\n\nDurchlauchtigster Fürst,\n\nGnädigster Fürst und Herr!\n\nVor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners[?] Intresse heißt auf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden was ich hier vorfand — Das erste ist beigehender Brief von T. - Nach diesen Brück der König mit K[öckritz] nun ganz gewis - ich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen Wein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein geleitet werde – Nacht ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König kommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt. Seis — Kämen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen Gesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte so oben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles Waßer auf unsere Räder leiten solle.\n\nDa ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande bin, der wieder nach Zagorowo jagen um dorten die Sache eine solche Form in der Eile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen im Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um des willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinern übermorgen für 6000 rt baar Geld zu verkaufen auch noch ein paar tausend rt. Zeit Reste von meinen Unterthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geld [b?]ack was ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger Post zu Füßen legen.\n\nEwr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten Erbgroßen Albert empfohle ich mich auf das ihrerbietagste und er starbe in tiefster Hochachtung Euer Durchlaucht\n\nBreslau den 19 August Nachts 12 Uhr\n\n1810.\n\ntreu unterthänigster Diener\n\nv Triebenfeld",
    "paragraphs": [
+    "199",
     "Durchlauchtigster Fürst,",
     "Gnädigster Fürst und Herr!",
-    "Vor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners Intresse heißt auf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden was ich hier vorhand — Das erste ist beigehender Bruf von T. - Nach diesen Brück der König mit K2 nun ganz gewis ich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen Wein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein geleitet werde – Nach ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König kommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt. Seis — Kaemen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen Gesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte soeben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles Waßer auf unsere Räder leiten solle.",
-    "Da ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande bin, der wieder nach Zagorowe jagen um dorten die Sache eine solche Form in der Eile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen im Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um des willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinere übermorgen für 6000 Rthl baar Geld zu verkaufen auch noch ein paar tausend d. Zeit Reste von meinen Unter thanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geldsack was ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger Post zu Füßen legen.",
-    "Ewr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten Erbgroßen Albert empfohle ich mich auf das ihrerbietagste und ersterbe in tiefster Hochachtung Euer Durchlaucht",
+    "Vor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchlauchten Gönners[?] Intresse heißt auf jezt noch den Schluß von mich zu weisen und Höchst Ihnen mein gnädigster Fürst das zu melden was ich hier vorfand — Das erste ist beigehender Brief von T. - Nach diesen Brück der König mit K[öckritz] nun ganz gewis - ich gehe in diesem Betracht nicht nach Berlin – aber dafür werde ich hier würken und noch morgen Wein und Vogel Wild nach B an T schicken, damit manches beim Abschieds Schmause besprechen und ein geleitet werde – Nacht ein hier liegendes Billet des H v M - glaubt man daß auch Hardenberg mit dem König kommen werde, das meine ich aber in Zweifel ziehen zu müßen, weil T davon nichts erwehnt. Seis — Kämen beide wäre mirs doppelt lieb – Aus 2 und 3 er Zeugen Munde soll nach allgemeinen Gesezzen die Wahrheit bethätigt werden. Ich suche indes das praeveniren zu spielen; den ich bitte so oben dem T daß er zum Abschieds Schmause absolut Hard: mit zur Parthie nehmen, und alles Waßer auf unsere Räder leiten solle.",
+    "Da ich nun nicht nach Berlin gehe, so werde ich, wann ich es in der Welt zu bewürken im Stande bin, der wieder nach Zagorowo jagen um dorten die Sache eine solche Form in der Eile zu geben, daß weder böse noch gute Wesen gegen der haupt Sache was aufzubringen im Stande sein sollen. Die Kraft zum guten Willen wird mir durch Gottesbeistand um des willen gewährt werden, weil ich würklich hoffe meine Mühle im Schweinern übermorgen für 6000 rt baar Geld zu verkaufen auch noch ein paar tausend rt. Zeit Reste von meinen Unterthanen zu erhalten - den bey Gemeine Seele gilt doch heut nur Kling klang - oder der Geld [b?]ack was ich im Schweunen aus Pohlen vorfinden werde, werden Ewer Durchlaucht ich durch künftiger Post zu Füßen legen.",
+    "Ewr Durchlaucht wohlwollen empfehlen ich mich, der schönsten jezt lebenden Fürsten Emilie auf dem Bütern Erlauchten Erbgroßen Albert empfohle ich mich auf das ihrerbietagste und er starbe in tiefster Hochachtung Euer Durchlaucht",
     "Breslau den 19 August Nachts 12 Uhr",
     "1810.",
     "treu unterthänigster Diener",
@@ -57,7 +62,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 31
+   "doc_line_end": 32
   }
  ],
  "mentions": [
@@ -67,10 +72,10 @@
    "kind": "person",
    "surface": "Hardenberg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14314,
-   "doc_line": 10
+   "line": 14288,
+   "doc_line": 11
   },
   {
    "entity": "hardenberg",
@@ -78,10 +83,10 @@
    "kind": "person",
    "surface": "Hard:",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14318,
-   "doc_line": 14
+   "line": 14292,
+   "doc_line": 15
   },
   {
    "entity": "emilie",
@@ -89,10 +94,10 @@
    "kind": "person",
    "surface": "Emilie",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14329,
-   "doc_line": 25
+   "line": 14303,
+   "doc_line": 26
   },
   {
    "entity": "august",
@@ -100,10 +105,10 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14332,
-   "doc_line": 28
+   "line": 14306,
+   "doc_line": 29
   },
   {
    "entity": "triebenfeld",
@@ -111,142 +116,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14335,
-   "doc_line": 31
+   "line": 14309,
+   "doc_line": 32
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "T.",
-   "kind": "person",
-   "surface_de": "T.",
-   "surface_en": "T.",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "K2",
-   "kind": "other",
-   "surface_de": "K2",
-   "surface_en": "K2",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Mr. von M.",
-   "kind": "person",
-   "surface_de": "H v M",
-   "surface_en": "Mr. von M.",
-   "page": 1
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface_de": "Hardenberg",
-   "surface_en": "Hardenberg",
-   "page": 1
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface_de": "Hard:",
-   "surface_en": "Hard:",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "B",
-   "kind": "place",
-   "surface_de": "B",
-   "surface_en": "B",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Zagorowe",
-   "kind": "place",
-   "surface_de": "Zagorowe",
-   "surface_en": "Zagorowe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schweinere",
-   "kind": "place",
-   "surface_de": "Schweinere",
-   "surface_en": "Schweinere",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schweunen",
-   "kind": "place",
-   "surface_de": "Schweunen",
-   "surface_en": "Schweunen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Poland",
-   "kind": "place",
-   "surface_de": "Pohlen",
-   "surface_en": "Poland",
-   "page": 1
-  },
-  {
-   "entity": "emilie",
-   "display": "Emilie",
-   "kind": "person",
-   "surface_de": "Emilie",
-   "surface_en": "Emilie",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Bütern",
-   "kind": "place",
-   "surface_de": "Bütern",
-   "surface_en": "Bütern",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Albert",
-   "kind": "person",
-   "surface_de": "Albert",
-   "surface_en": "Albert",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -255,32 +131,10 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14311,
-   "doc_line": 7
-  },
-  {
-   "entity": "wien",
-   "display": "Wien",
-   "kind": "place",
-   "surface": "Wein",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14312,
+   "line": 14285,
    "doc_line": 8
-  },
-  {
-   "entity": "kamionno",
-   "display": "Kamionna",
-   "kind": "place",
-   "surface": "Kaemen",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14316,
-   "doc_line": 12
   },
   {
    "entity": "berlin",
@@ -288,21 +142,32 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14320,
-   "doc_line": 16
+   "line": 14294,
+   "doc_line": 17
   },
   {
    "entity": "zagorowo",
    "display": "Zagórów",
    "kind": "place",
-   "surface": "Zagorowe",
+   "surface": "Zagorowo",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14321,
-   "doc_line": 17
+   "line": 14295,
+   "doc_line": 18
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 1,
+   "page_id": "0378_b",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14298,
+   "doc_line": 21
   },
   {
    "entity": "breslau",
@@ -310,110 +175,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0378_b",
    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-   "line": 14332,
-   "doc_line": 28
+   "line": 14306,
+   "doc_line": 29
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAbout an hour ago I arrived here. The interest of my exalted Serene patron bids me for now still to put off the conclusion from myself and to report to you, my most gracious Prince, that which I have here in hand — The first is the enclosed letter from T. — According to these [uncertain: Brück] the King with K2 now quite certainly; in this regard I shall not go to Berlin – but instead I shall work here, and tomorrow yet send wine and wildfowl to B to T, so that a good deal may be discussed and set in train at the farewell banquet – According to a note of Mr. von M. lying here, it is believed that Hardenberg too will come with the King, but this I think I must call into doubt, because T makes no mention of it. So be it — Were both to come, it would be doubly welcome to me – From the mouths of 2 and 3 witnesses the truth is, by the general laws, to be established. Meanwhile I seek to play the part of forestalling; for I am just now asking T that he absolutely take Hard: along as a party to the farewell banquet, and lead all the water onto our wheels.\n\nSince I am now not going to Berlin, I shall, if I am in any way in the world able to bring it about, ride post-haste again to Zagorowe, in order there in all haste to give the matter such a form that neither evil nor good beings shall be in a position to raise anything against the main matter. The strength for good will shall be granted me by God's assistance for this reason, because I really hope to sell my mill in [uncertain: Schweinere] the day after tomorrow for 6000 Rthl in cash money, and also still to obtain a couple of thousand of arrears of the time from my subjects – for with a common soul, after all, nothing counts today but jingle-jangle – or the money-bag; whatever I shall find in [uncertain: Schweunen] out of Poland, I shall lay at Your Serene Highness's feet by the next post.\n\nI commend myself to Your Serene Highness's benevolence; to the fairest of Princesses now living, Emilie, [uncertain: auf dem Bütern] to the Illustrious Eldest Heir Albert I commend myself most deferentially and I remain, until death, in deepest reverence Your Serene Highness's\n\nBreslau, the 19th of August, at 12 o'clock at night\n\n1810.\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "T.",
-     "en": "T.",
-     "kind": "person"
-    },
-    {
-     "de": "K2",
-     "en": "K2",
-     "kind": "other"
-    },
-    {
-     "de": "H v M",
-     "en": "Mr. von M.",
-     "kind": "person"
-    },
-    {
-     "de": "Hardenberg",
-     "en": "Hardenberg",
-     "kind": "person"
-    },
-    {
-     "de": "Hard:",
-     "en": "Hard:",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "B",
-     "en": "B",
-     "kind": "place"
-    },
-    {
-     "de": "Zagorowe",
-     "en": "Zagorowe",
-     "kind": "place"
-    },
-    {
-     "de": "Schweinere",
-     "en": "Schweinere",
-     "kind": "place"
-    },
-    {
-     "de": "Schweunen",
-     "en": "Schweunen",
-     "kind": "place"
-    },
-    {
-     "de": "Pohlen",
-     "en": "Poland",
-     "kind": "place"
-    },
-    {
-     "de": "Emilie",
-     "en": "Emilie",
-     "kind": "person"
-    },
-    {
-     "de": "Bütern",
-     "en": "Bütern",
-     "kind": "place"
-    },
-    {
-     "de": "Albert",
-     "en": "Albert",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "2",
-    "3",
-    "6000",
-    "19",
-    "12",
-    "1810"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAbout an hour ago I arrived here. The interest of my exalted Serene patron bids me for now still to put off the conclusion from myself and to report to you, my most gracious Prince, that which I have here in hand — The first is the enclosed letter from T. — According to these [uncertain: Brück] the King with K2 now quite certainly; in this regard I shall not go to Berlin – but instead I shall work here, and tomorrow yet send wine and wildfowl to B to T, so that a good deal may be discussed and set in train at the farewell banquet – According to a note of Mr. von M. lying here, it is believed that Hardenberg too will come with the King, but this I think I must call into doubt, because T makes no mention of it. So be it — Were both to come, it would be doubly welcome to me – From the mouths of 2 and 3 witnesses the truth is, by the general laws, to be established. Meanwhile I seek to play the part of forestalling; for I am just now asking T that he absolutely take Hard: along as a party to the farewell banquet, and lead all the water onto our wheels.\n\nSince I am now not going to Berlin, I shall, if I am in any way in the world able to bring it about, ride post-haste again to Zagorowe, in order there in all haste to give the matter such a form that neither evil nor good beings shall be in a position to raise anything against the main matter. The strength for good will shall be granted me by God's assistance for this reason, because I really hope to sell my mill in [uncertain: Schweinere] the day after tomorrow for 6000 Rthl in cash money, and also still to obtain a couple of thousand of arrears of the time from my subjects – for with a common soul, after all, nothing counts today but jingle-jangle – or the money-bag; whatever I shall find in [uncertain: Schweunen] out of Poland, I shall lay at Your Serene Highness's feet by the next post.\n\nI commend myself to Your Serene Highness's benevolence; to the fairest of Princesses now living, Emilie, [uncertain: auf dem Bütern] to the Illustrious Eldest Heir Albert I commend myself most deferentially and I remain, until death, in deepest reverence Your Serene Highness's\n\nBreslau, the 19th of August, at 12 o'clock at night\n\n1810.\n\nfaithful most humble and obedient servant\n\nv. Triebenfeld",
- "summary_en": "Reports on arrival and a change of plan: rather than travel to Berlin, Triebenfeld will lobby where he is, sending wine and wildfowl ahead of a farewell banquet at which he hopes, through his contact \"T\", to have Hardenberg brought in and matters advanced. He then means to ride to Zagorowo to settle the main business beyond challenge, expecting 6,000 Rthl cash for his mill plus arrears from his subjects. Encloses a letter from T.",
- "summary_de": "Bericht unmittelbar nach der Ankunft: Ein beiliegender Brief von T. melde das gewisse Kommen des Königs, weshalb Triebenfeld nicht nach Berlin reise, sondern vor Ort wirke; er schicke Wein und Wildgeflügel, damit beim Abschiedsessen die Sache vorangebracht werde, und dränge darauf, auch Hardenberg beizuziehen, dessen Mitkommen ein Zettel des Herrn von M. andeutet. Danach wolle er eilig nach Zagorowe. Hoffnung, seine Mühle übermorgen für 6000 Rthl bar zu verkaufen und Rückstände der Untertanen einzuziehen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

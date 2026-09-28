@@ -9,42 +9,45 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1811-07",
- "date_precision": "inferred",
- "date_source": "inferred",
- "date_display": "[1811-07]",
- "date_inferred_from": "undated P.M. note bundled between 74a (30 Jul 1811) and 74c (1 Aug 1811)",
- "year": 1811,
- "month": 7,
+ "date_iso": "",
+ "date_precision": "unknown",
+ "date_source": "none",
+ "date_display": "",
+ "date_inferred_from": "",
+ "year": "",
+ "month": "",
  "day": "",
- "place": "Berlin",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 6159,
- "line_end": 6174,
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 6164,
+ "line_end": 6179,
  "uncertainty_count": 1,
  "has_damage": 1,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "zagorowo"
+ ],
  "is_missing": 0,
- "n_lines": 15,
+ "n_lines": 14,
  "n_pages": 1,
- "text": "P. M.\nEs ist nöthig daß in Zagorowo ein Ober Fürster angestellt\nwird – ich hatte den alten Richter seinen Sohn, und bey der Brau[...]\nmeine Brennerey der Nogeln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat - Es ist also wie vorge\nsagt ein Ober Förster nöthig –\nwollen Ewr Durchlaucht den armen Radzowski helfen so\ngeruhen Sie ihm schnell herzuschicken - Mitt 300 Rthl jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radzewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tauf\nder Güter mit\nv Triebenfeld",
- "text_reading": "P. M.\n\nEs ist nöthig daß in Zagorowo ein Ober Fürster angestellt wird – ich hatte den alten Richter seinen Sohn, und bey der Brau[...] meine Brennerey der Nogeln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat - Es ist also wie vorge sagt ein Ober Förster nöthig – wollen Ewr Durchlaucht den armen Radzowski helfen so geruhen Sie ihm schnell herzuschicken - Mitt 300 Rthl jährl. muß er zu frieden ſein bis der Himmel weiter hilft Genehmigen Sie gnädigster Herr dies, so senden Sie Radzewski eiligst und schicken mir gleich Ihre Meinung wegen den Tauf der Güter mit\n\nv Triebenfeld",
+ "text": "P[ro]. M[emoria].\nEs ist nöthig daß in Zagorowo im Ober Förster angestellt\nwird – ich hatte den alten Richter seinen Sohn, und bey der Bra[...]\nmeine Brennerey der Nageln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat - Es ist also wie vorge\nsagt ein Ober Förster nöthig –\nwollen Ewr Durchlaucht den armen Radszewski helfen so\ngeruhen Sie ihm schnell herzuschicken - Mitt 300 rt jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft -\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radszewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tausch\nder Güter mit\nv Triebenfeld",
+ "text_reading": "P[ro]. M[emoria].\n\nEs ist nöthig daß in Zagorowo im Ober Förster angestellt wird – ich hatte den alten Richter seinen Sohn, und bey der Bra[...] meine Brennerey der Nageln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat - Es ist also wie vorge sagt ein Ober Förster nöthig – wollen Ewr Durchlaucht den armen Radszewski helfen so geruhen Sie ihm schnell herzuschicken - Mitt 300 rt jährl. muß er zu frieden ſein bis der Himmel weiter hilft - Genehmigen Sie gnädigster Herr dies, so senden Sie Radszewski eiligst und schicken mir gleich Ihre Meinung wegen den Tausch der Güter mit\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 6160,
-   "line_end": 6173,
+   "page_id": "0156_a2",
+   "line_start": 6166,
+   "line_end": 6179,
    "n_lines": 14,
-   "diplomatic": "P. M.\nEs ist nöthig daß in Zagorowo ein Ober Fürster angestellt\nwird – ich hatte den alten Richter seinen Sohn, und bey der Brau[...]\nmeine Brennerey der Nogeln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat - Es ist also wie vorge\nsagt ein Ober Förster nöthig –\nwollen Ewr Durchlaucht den armen Radzowski helfen so\ngeruhen Sie ihm schnell herzuschicken - Mitt 300 Rthl jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radzewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tauf\nder Güter mit\nv Triebenfeld",
-   "transcription": "P. M.\nEs ist nöthig daß in Zagorowo ein Ober Fürster angestellt\nwird – ich hatte den alten Richter seinen Sohn, und bey der Brau[...]\nmeine Brennerey der Nogeln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat - Es ist also wie vorge\nsagt ein Ober Förster nöthig –\nwollen Ewr Durchlaucht den armen Radzowski helfen so\ngeruhen Sie ihm schnell herzuschicken - Mitt 300 Rthl jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radzewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tauf\nder Güter mit\nv Triebenfeld",
-   "reading": "P. M.\n\nEs ist nöthig daß in Zagorowo ein Ober Fürster angestellt wird – ich hatte den alten Richter seinen Sohn, und bey der Brau[...] meine Brennerey der Nogeln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat - Es ist also wie vorge sagt ein Ober Förster nöthig – wollen Ewr Durchlaucht den armen Radzowski helfen so geruhen Sie ihm schnell herzuschicken - Mitt 300 Rthl jährl. muß er zu frieden ſein bis der Himmel weiter hilft Genehmigen Sie gnädigster Herr dies, so senden Sie Radzewski eiligst und schicken mir gleich Ihre Meinung wegen den Tauf der Güter mit\n\nv Triebenfeld",
+   "diplomatic": "P[ro]. M[emoria].\nEs ist nöthig daß in Zagorowo im Ober Förster angestellt\nwird – ich hatte den alten Richter seinen Sohn, und bey der Bra[...]\nmeine Brennerey der Nageln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat - Es ist also wie vorge\nsagt ein Ober Förster nöthig –\nwollen Ewr Durchlaucht den armen Radszewski helfen so\ngeruhen Sie ihm schnell herzuschicken - Mitt 300 rt jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft -\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radszewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tausch\nder Güter mit\nv Triebenfeld",
+   "transcription": "P[ro]. M[emoria].\nEs ist nöthig daß in Zagorowo im Ober Förster angestellt\nwird – ich hatte den alten Richter seinen Sohn, und bey der Bra[...]\nmeine Brennerey der Nageln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat - Es ist also wie vorge\nsagt ein Ober Förster nöthig –\nwollen Ewr Durchlaucht den armen Radszewski helfen so\ngeruhen Sie ihm schnell herzuschicken - Mitt 300 rt jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft -\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radszewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tausch\nder Güter mit\nv Triebenfeld",
+   "reading": "P[ro]. M[emoria].\n\nEs ist nöthig daß in Zagorowo im Ober Förster angestellt wird – ich hatte den alten Richter seinen Sohn, und bey der Bra[...] meine Brennerey der Nageln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat - Es ist also wie vorge sagt ein Ober Förster nöthig – wollen Ewr Durchlaucht den armen Radszewski helfen so geruhen Sie ihm schnell herzuschicken - Mitt 300 rt jährl. muß er zu frieden ſein bis der Himmel weiter hilft - Genehmigen Sie gnädigster Herr dies, so senden Sie Radszewski eiligst und schicken mir gleich Ihre Meinung wegen den Tausch der Güter mit\n\nv Triebenfeld",
    "paragraphs": [
-    "P. M.",
-    "Es ist nöthig daß in Zagorowo ein Ober Fürster angestellt wird – ich hatte den alten Richter seinen Sohn, und bey der Brau[...] meine Brennerey der Nogeln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat - Es ist also wie vorge sagt ein Ober Förster nöthig – wollen Ewr Durchlaucht den armen Radzowski helfen so geruhen Sie ihm schnell herzuschicken - Mitt 300 Rthl jährl. muß er zu frieden ſein bis der Himmel weiter hilft Genehmigen Sie gnädigster Herr dies, so senden Sie Radzewski eiligst und schicken mir gleich Ihre Meinung wegen den Tauf der Güter mit",
+    "P[ro]. M[emoria].",
+    "Es ist nöthig daß in Zagorowo im Ober Förster angestellt wird – ich hatte den alten Richter seinen Sohn, und bey der Bra[...] meine Brennerey der Nageln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat - Es ist also wie vorge sagt ein Ober Förster nöthig – wollen Ewr Durchlaucht den armen Radszewski helfen so geruhen Sie ihm schnell herzuschicken - Mitt 300 rt jährl. muß er zu frieden ſein bis der Himmel weiter hilft - Genehmigen Sie gnädigster Herr dies, so senden Sie Radszewski eiligst und schicken mir gleich Ihre Meinung wegen den Tausch der Güter mit",
     "v Triebenfeld"
    ],
    "continues_previous": false,
@@ -61,63 +64,14 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0156_a2",
    "scan": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg",
-   "line": 6173,
+   "line": 6179,
    "doc_line": 14
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorowo",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Nogeln",
-   "kind": "person",
-   "surface_de": "Nogeln",
-   "surface_en": "Nogeln",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Nageln",
-   "kind": "person",
-   "surface_de": "Nageln",
-   "surface_en": "Nageln",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Radzowski",
-   "kind": "person",
-   "surface_de": "Radzowski",
-   "surface_en": "Radzowski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Radzewski",
-   "kind": "person",
-   "surface_de": "Radzewski",
-   "surface_en": "Radzewski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  }
- ],
- "place_canonical": "Berlin",
+ "mentions_english": [],
+ "place_canonical": "Unknown",
  "place_mentions": [
   {
    "entity": "zagorowo",
@@ -125,55 +79,15 @@
    "kind": "place",
    "surface": "Zagorowo",
    "page": 1,
-   "page_id": "",
+   "page_id": "0156_a2",
    "scan": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg",
-   "line": 6161,
+   "line": 6167,
    "doc_line": 2
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "P. M.\n\nIt is necessary that a head forester be appointed in Zagórów – I had designated the old judge's son, and at the brew[text lost] my distillery the Nogeln's nephew as officer of the propination rights; but the judge must now administer the latter, because the Nageln has recalled her nephew – So, as said above, a head forester is necessary – if Your Serene Highness wishes to help poor Radzowski, then be pleased to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your opinion concerning the baptism of the estates as well\n\nv Triebenfeld",
-   "names": [
-    {
-     "de": "Zagorowo",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Nogeln",
-     "en": "Nogeln",
-     "kind": "person"
-    },
-    {
-     "de": "Nageln",
-     "en": "Nageln",
-     "kind": "person"
-    },
-    {
-     "de": "Radzowski",
-     "en": "Radzowski",
-     "kind": "person"
-    },
-    {
-     "de": "Radzewski",
-     "en": "Radzewski",
-     "kind": "person"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "300"
-   ]
-  }
- ],
- "text_english": "P. M.\n\nIt is necessary that a head forester be appointed in Zagórów – I had designated the old judge's son, and at the brew[text lost] my distillery the Nogeln's nephew as officer of the propination rights; but the judge must now administer the latter, because the Nageln has recalled her nephew – So, as said above, a head forester is necessary – if Your Serene Highness wishes to help poor Radzowski, then be pleased to send him here quickly – With 300 Rthl yearly he must be content until Heaven helps further. If you approve this, most gracious Lord, then send Radzewski with all haste and send me at once your opinion concerning the baptism of the estates as well\n\nv Triebenfeld",
- "summary_en": "A head forester is needed at Zagorowo: the old judge's son had been designated, and Nogeln's nephew put over the liquor monopoly rights at the distillery, but the nephew has been recalled and the judge must now take that on. Triebenfeld proposes the impoverished Radzowski for the forester's post at 300 Rthl a year and urges the Prince to send him at once, together with his views on the naming of the estates.",
- "summary_de": "Dringende Bitte um Besetzung einer Oberförsterstelle in Zagorowo: Für die Propination war der Neffe der Nageln vorgesehen, den diese jedoch zurückgerufen hat, so dass nun der Richter das Amt versehen muss; dessen Sohn hatte Triebenfeld bereits bestimmt. Vorgeschlagen wird der mittellose Radzowski (Radzewski), der mit 300 Rthl jährlich vorliebnehmen müsse; er solle schnellstens geschickt werden. Zugleich wird um die Meinung des Fürsten zur \"Taufe\" der Güter gebeten."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -79,7 +79,7 @@
     "August",
     "Betsch",
     "Betschen",
-    "Beugelin",
+    "Beguelin",
     "Chwalowski",
     "Cosel",
     "Dohna",
@@ -138,8 +138,8 @@
   "_settled_pairs": "Canonical form already chosen. Tracked in NEEDS_CONFIRMATION.md §H until applied; not a decision that still needs making.",
   "settled_pairs": [
     [
-      "Brzechsta",
-      "Brzechta"
+      "Brzechffa",
+      "Brzechsta"
     ],
     [
       "Kalisz",
@@ -269,7 +269,7 @@
     "Zagorower",
     "Cosmarischen",
     "Schlabrendorffschen",
-    "Brzechſta",
+    "Brzechffa",
     "Swięcier"
   ],
   "_context_sensitive": "Tokens that are a NAME in some contexts and an ordinary word in others. Never apply a blanket whole-word replace to these - the rule that separates them is recorded alongside.",
@@ -288,4 +288,4 @@
     "Peisern": "German form of Pyzdry, on the Warthe. 'Peysern' (L28 dateline, L271 prose) normalised to the corpus's existing 'Peisern' (L31) 2026-09-03.",
     "Hawich (L28 signature)": "L28's signature read 'Rewiek[?]' - corrected to Hawich 2026-09-03 on your reading of the page. It sits in the signature slot after 'erthänigster.' and the Peisern dateline of 5 Oct 1807."
   }
-}
+}

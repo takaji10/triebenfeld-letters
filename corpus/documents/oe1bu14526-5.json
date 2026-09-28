@@ -320,8 +320,30 @@
    "page": 3,
    "page_id": "0020_a2",
    "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
+   "line": 952,
+   "doc_line": 74
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface": "Broniew",
+   "page": 3,
+   "page_id": "0020_a2",
+   "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
    "line": 960,
    "doc_line": 82
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface": "Broniew",
+   "page": 3,
+   "page_id": "0020_a2",
+   "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
+   "line": 963,
+   "doc_line": 85
   },
   {
    "entity": "broniewski",
@@ -735,6 +757,28 @@
    "doc_line": 3
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 1,
+   "page_id": "0019_b",
+   "scan": "Oe_1_Bu_14526_0019_b-L5_01.jpg",
+   "line": 880,
+   "doc_line": 4
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0019_b",
+   "scan": "Oe_1_Bu_14526_0019_b-L5_01.jpg",
+   "line": 886,
+   "doc_line": 10
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -777,6 +821,28 @@
    "scan": "Oe_1_Bu_14526_0019_b-L5_01.jpg",
    "line": 901,
    "doc_line": 25
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 2,
+   "page_id": "0020_a1",
+   "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
+   "line": 911,
+   "doc_line": 34
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kamionne",
+   "page": 2,
+   "page_id": "0020_a1",
+   "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
+   "line": 916,
+   "doc_line": 39
   },
   {
    "entity": "kamionno",

@@ -404,6 +404,17 @@
    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
    "line": 7800,
    "doc_line": 21
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewek",
+   "page": 2,
+   "page_id": "0160_a1",
+   "scan": "Oe_1_Bu_14526_0160_a1-L26_02.jpg",
+   "line": 7818,
+   "doc_line": 38
   }
  ],
  "translation_status": "draft",

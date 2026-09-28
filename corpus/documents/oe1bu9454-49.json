@@ -18,60 +18,83 @@
  "month": 3,
  "day": 20,
  "place": "Kontop",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 3668,
- "line_end": 3702,
- "uncertainty_count": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 3688,
+ "line_end": 3723,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
  "n_lines": 34,
  "n_pages": 1,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht\nHause angekommen sey, aber wie nieder gedannet stand ich als ich\nkeine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf\nmein an Ewr Durchlaucht gesandtes Schreiben sah¬\nIch bin hier fortwährend arretirt und darf mich nicht ehender entfaren\nals bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort\nvom hier abgeschickt und die Lossagung von Justiz Burgemeister Scheu\naus Neufall habe.\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu\nFüßen zu legen. Aber ich darf nicht vom Fleck.\nIst es Ewr Durchlaucht in der Welt möglich, so schulm Sie mir doch so\nbald es sein kan das Eysen und wollen die alten meinen Kummer haben\nso senden Sie die tausend Centner vor voll dem ist Michaelis\nJahr und alle Berliner Kosten befriediget.\nIch bitte aber herzigſt das Eysen gerade bis hierher nach Bogadel\nan meinen Verwalter Neumann zu senden, den ich darf nicht fort\nbis das Eysen hier dem Justiz Burgemeister Scheu übergeben\nist, und wer würde mir den Transport hierher besorgen.\nLaßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und\nretten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren\nBefehlen, und bey Gott ich werde es woll machen.\nIn tiefster Verehrung ersterbe\ntreu unterthäniger Diener\nEs heißt daß ein wußisches Corps\nan der po. und Schlesischen Graüze zu\nstehen können soll - Wolte nur Gott dies!\nEwr Hochfürstliche Durchlaucht\nv Triebenfeld\nKontop\nden 20ten Marz\n1809.",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht Hause angekommen sey, aber wie nieder gedannet stand ich als ich keine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf mein an Ewr Durchlaucht gesandtes Schreiben sah Ich bin hier fortwährend arretirt und darf mich nicht ehender entfaren als bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort vom hier abgeschickt und die Lossagung von Justiz Burgemeister Scheu aus Neufall habe.\n\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu Füßen zu legen. Aber ich darf nicht vom Fleck. Ist es Ewr Durchlaucht in der Welt möglich, so schulm Sie mir doch so bald es sein kan das Eysen und wollen die alten meinen Kummer haben so senden Sie die tausend Centner vor voll dem ist Michaelis Jahr und alle Berliner Kosten befriediget. Ich bitte aber herzigſt das Eysen gerade bis hierher nach Bogadel an meinen Verwalter Neumann zu senden, den ich darf nicht fort bis das Eysen hier dem Justiz Burgemeister Scheu übergeben ist, und wer würde mir den Transport hierher besorgen. Laßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und retten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren Befehlen, und bey Gott ich werde es woll machen. In tiefster Verehrung ersterbe\n\ntreu unterthäniger Diener\n\nEs heißt daß ein wußisches Corps an der po. und Schlesischen Graüze zu stehen können soll - Wolte nur Gott dies! Ewr Hochfürstliche Durchlaucht\n\nv Triebenfeld\n\nKontop\n\nden 20ten Marz\n\n1809.",
+ "text": "49\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht\nHause angekommen sey, aber wie nieder gedannet stand ich als ich\nkeine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf\nmein an Ewr Durchlaucht gesandtes Schreiben sah -\nIch bin hier fortwährend arretirt und darf mich nicht ehender entfernen\nals bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort\nvom hier abgeschickt und die Lossagung von Justiz Bürgermeister Schenck\naus Neufallen[?] habe.\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu\nFüßen zu legen. Aber ich darf nicht vom Fleck.\nIst es Ewr Durchlaucht in der Welt möglich, so schicken Sie mir doch so\nbald es sein kan das Eysen und wollen die alten meinen Kummer haben\nso senden Sie die tausend Centner vor voll dem ist Michaelis\nLahr und alle Berliner Kosten befriediget.\nIch bitte aber herzigſt das Eysen gerade bis hierher nach Boyadel\nan meinen Verwalter Neumann zu senden, den ich darf nicht fort\nbis das Eysen hier dem Justiz Bürgermeister Schenck übergeben\nist, und wer würde mir den Transport hierher besorgen.\nLaßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und\nretten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren\nBefehlen, und bey Gott ich werde es woll machen.\nIn tiefster Verehrung ersterbe\nEwr Hochfürstliche Durchlaucht\nEs heißt daß ein Rußisches Corps\nan der po[hl]. und Schlesischen Gränze zu\nstehen können soll - Wolte nur Gott dies!\nKontop\nden 20ten Marz\n1809.\ntreu unterthäniger Diener\nv Triebenfeld",
+ "text_reading": "49\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr Wie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht Hause angekommen sey, aber wie nieder gedannet stand ich als ich keine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf mein an Ewr Durchlaucht gesandtes Schreiben sah - Ich bin hier fortwährend arretirt und darf mich nicht ehender entfernen als bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort vom hier abgeschickt und die Lossagung von Justiz Bürgermeister Schenck aus Neufallen[?] habe.\n\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu Füßen zu legen. Aber ich darf nicht vom Fleck. Ist es Ewr Durchlaucht in der Welt möglich, so schicken Sie mir doch so bald es sein kan das Eysen und wollen die alten meinen Kummer haben so senden Sie die tausend Centner vor voll dem ist Michaelis Lahr und alle Berliner Kosten befriediget. Ich bitte aber herzigſt das Eysen gerade bis hierher nach Boyadel an meinen Verwalter Neumann zu senden, den ich darf nicht fort bis das Eysen hier dem Justiz Bürgermeister Schenck übergeben ist, und wer würde mir den Transport hierher besorgen. Laßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und retten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren Befehlen, und bey Gott ich werde es woll machen. In tiefster Verehrung ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nEs heißt daß ein Rußisches Corps an der po[hl]. und Schlesischen Gränze zu stehen können soll - Wolte nur Gott dies! Kontop\n\nden 20ten Marz\n\n1809.\n\ntreu unterthäniger Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 3669,
-   "line_end": 3701,
-   "n_lines": 33,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht\nHause angekommen sey, aber wie nieder gedannet stand ich als ich\nkeine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf\nmein an Ewr Durchlaucht gesandtes Schreiben sah¬\nIch bin hier fortwährend arretirt und darf mich nicht ehender entfaren\nals bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort\nvom hier abgeschickt und die Lossagung von Justiz Burgemeister Scheu\naus Neufall habe.\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu\nFüßen zu legen. Aber ich darf nicht vom Fleck.\nIst es Ewr Durchlaucht in der Welt möglich, so schulm Sie mir doch so\nbald es sein kan das Eysen und wollen die alten meinen Kummer haben\nso senden Sie die tausend Centner vor voll dem ist Michaelis\nJahr und alle Berliner Kosten befriediget.\nIch bitte aber herzigſt das Eysen gerade bis hierher nach Bogadel\nan meinen Verwalter Neumann zu senden, den ich darf nicht fort\nbis das Eysen hier dem Justiz Burgemeister Scheu übergeben\nist, und wer würde mir den Transport hierher besorgen.\nLaßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und\nretten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren\nBefehlen, und bey Gott ich werde es woll machen.\nIn tiefster Verehrung ersterbe\ntreu unterthäniger Diener\nEs heißt daß ein wußisches Corps\nan der po. und Schlesischen Graüze zu\nstehen können soll - Wolte nur Gott dies!\nEwr Hochfürstliche Durchlaucht\nv Triebenfeld\nKontop\nden 20ten Marz\n1809.",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht\nHause angekommen sey, aber wie nieder gedannet stand ich als ich\nkeine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf\nmein an Ewr Durchlaucht gesandtes Schreiben sah\nIch bin hier fortwährend arretirt und darf mich nicht ehender entfaren\nals bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort\nvom hier abgeschickt und die Lossagung von Justiz Burgemeister Scheu\naus Neufall habe.\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu\nFüßen zu legen. Aber ich darf nicht vom Fleck.\nIst es Ewr Durchlaucht in der Welt möglich, so schulm Sie mir doch so\nbald es sein kan das Eysen und wollen die alten meinen Kummer haben\nso senden Sie die tausend Centner vor voll dem ist Michaelis\nJahr und alle Berliner Kosten befriediget.\nIch bitte aber herzigſt das Eysen gerade bis hierher nach Bogadel\nan meinen Verwalter Neumann zu senden, den ich darf nicht fort\nbis das Eysen hier dem Justiz Burgemeister Scheu übergeben\nist, und wer würde mir den Transport hierher besorgen.\nLaßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und\nretten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren\nBefehlen, und bey Gott ich werde es woll machen.\nIn tiefster Verehrung ersterbe\ntreu unterthäniger Diener\nEs heißt daß ein wußisches Corps\nan der po. und Schlesischen Graüze zu\nstehen können soll - Wolte nur Gott dies!\nEwr Hochfürstliche Durchlaucht\nv Triebenfeld\nKontop\nden 20ten Marz\n1809.",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht Hause angekommen sey, aber wie nieder gedannet stand ich als ich keine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf mein an Ewr Durchlaucht gesandtes Schreiben sah Ich bin hier fortwährend arretirt und darf mich nicht ehender entfaren als bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort vom hier abgeschickt und die Lossagung von Justiz Burgemeister Scheu aus Neufall habe.\n\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu Füßen zu legen. Aber ich darf nicht vom Fleck. Ist es Ewr Durchlaucht in der Welt möglich, so schulm Sie mir doch so bald es sein kan das Eysen und wollen die alten meinen Kummer haben so senden Sie die tausend Centner vor voll dem ist Michaelis Jahr und alle Berliner Kosten befriediget. Ich bitte aber herzigſt das Eysen gerade bis hierher nach Bogadel an meinen Verwalter Neumann zu senden, den ich darf nicht fort bis das Eysen hier dem Justiz Burgemeister Scheu übergeben ist, und wer würde mir den Transport hierher besorgen. Laßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und retten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren Befehlen, und bey Gott ich werde es woll machen. In tiefster Verehrung ersterbe\n\ntreu unterthäniger Diener\n\nEs heißt daß ein wußisches Corps an der po. und Schlesischen Graüze zu stehen können soll - Wolte nur Gott dies! Ewr Hochfürstliche Durchlaucht\n\nv Triebenfeld\n\nKontop\n\nden 20ten Marz\n\n1809.",
+   "page_id": "0092_a",
+   "line_start": 3690,
+   "line_end": 3723,
+   "n_lines": 34,
+   "diplomatic": "49\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht\nHause angekommen sey, aber wie nieder gedannet stand ich als ich\nkeine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf\nmein an Ewr Durchlaucht gesandtes Schreiben sah -\nIch bin hier fortwährend arretirt und darf mich nicht ehender entfernen\nals bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort\nvom hier abgeschickt und die Lossagung von Justiz Bürgermeister Schenck\naus Neufallen[?] habe.\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu\nFüßen zu legen. Aber ich darf nicht vom Fleck.\nIst es Ewr Durchlaucht in der Welt möglich, so schicken Sie mir doch so\nbald es sein kan das Eysen und wollen die alten meinen Kummer haben\nso senden Sie die tausend Centner vor voll dem ist Michaelis\nLahr und alle Berliner Kosten befriediget.\nIch bitte aber herzigſt das Eysen gerade bis hierher nach Boyadel\nan meinen Verwalter Neumann zu senden, den ich darf nicht fort\nbis das Eysen hier dem Justiz Bürgermeister Schenck übergeben\nist, und wer würde mir den Transport hierher besorgen.\nLaßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und\nretten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren\nBefehlen, und bey Gott ich werde es woll machen.\nIn tiefster Verehrung ersterbe\nEwr Hochfürstliche Durchlaucht\nEs heißt daß ein Rußisches Corps\nan der po[hl]. und Schlesischen Gränze zu\nstehen können soll - Wolte nur Gott dies!\nKontop\nden 20ten Marz\n1809.\ntreu unterthäniger Diener\nv Triebenfeld",
+   "transcription": "49\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nWie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht\nHause angekommen sey, aber wie nieder gedannet stand ich als ich\nkeine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf\nmein an Ewr Durchlaucht gesandtes Schreiben sah -\nIch bin hier fortwährend arretirt und darf mich nicht ehender entfernen\nals bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort\nvom hier abgeschickt und die Lossagung von Justiz Bürgermeister Schenck\naus Neufallen[?] habe.\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu\nFüßen zu legen. Aber ich darf nicht vom Fleck.\nIst es Ewr Durchlaucht in der Welt möglich, so schicken Sie mir doch so\nbald es sein kan das Eysen und wollen die alten meinen Kummer haben\nso senden Sie die tausend Centner vor voll dem ist Michaelis\nLahr und alle Berliner Kosten befriediget.\nIch bitte aber herzigſt das Eysen gerade bis hierher nach Boyadel\nan meinen Verwalter Neumann zu senden, den ich darf nicht fort\nbis das Eysen hier dem Justiz Bürgermeister Schenck übergeben\nist, und wer würde mir den Transport hierher besorgen.\nLaßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und\nretten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren\nBefehlen, und bey Gott ich werde es woll machen.\nIn tiefster Verehrung ersterbe\nEwr Hochfürstliche Durchlaucht\nEs heißt daß ein Rußisches Corps\nan der po[hl]. und Schlesischen Gränze zu\nstehen können soll - Wolte nur Gott dies!\nKontop\nden 20ten Marz\n1809.\ntreu unterthäniger Diener\nv Triebenfeld",
+   "reading": "49\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr Wie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht Hause angekommen sey, aber wie nieder gedannet stand ich als ich keine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf mein an Ewr Durchlaucht gesandtes Schreiben sah - Ich bin hier fortwährend arretirt und darf mich nicht ehender entfernen als bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort vom hier abgeschickt und die Lossagung von Justiz Bürgermeister Schenck aus Neufallen[?] habe.\n\nIch sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu Füßen zu legen. Aber ich darf nicht vom Fleck. Ist es Ewr Durchlaucht in der Welt möglich, so schicken Sie mir doch so bald es sein kan das Eysen und wollen die alten meinen Kummer haben so senden Sie die tausend Centner vor voll dem ist Michaelis Lahr und alle Berliner Kosten befriediget. Ich bitte aber herzigſt das Eysen gerade bis hierher nach Boyadel an meinen Verwalter Neumann zu senden, den ich darf nicht fort bis das Eysen hier dem Justiz Bürgermeister Schenck übergeben ist, und wer würde mir den Transport hierher besorgen. Laßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und retten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren Befehlen, und bey Gott ich werde es woll machen. In tiefster Verehrung ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nEs heißt daß ein Rußisches Corps an der po[hl]. und Schlesischen Gränze zu stehen können soll - Wolte nur Gott dies! Kontop\n\nden 20ten Marz\n\n1809.\n\ntreu unterthäniger Diener\n\nv Triebenfeld",
    "paragraphs": [
+    "49",
     "Durchlauchtigster Fürst",
-    "Gnädigster Fürst und Herr!",
-    "Wie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht Hause angekommen sey, aber wie nieder gedannet stand ich als ich keine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf mein an Ewr Durchlaucht gesandtes Schreiben sah Ich bin hier fortwährend arretirt und darf mich nicht ehender entfaren als bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort vom hier abgeschickt und die Lossagung von Justiz Burgemeister Scheu aus Neufall habe.",
-    "Ich sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu Füßen zu legen. Aber ich darf nicht vom Fleck. Ist es Ewr Durchlaucht in der Welt möglich, so schulm Sie mir doch so bald es sein kan das Eysen und wollen die alten meinen Kummer haben so senden Sie die tausend Centner vor voll dem ist Michaelis Jahr und alle Berliner Kosten befriediget. Ich bitte aber herzigſt das Eysen gerade bis hierher nach Bogadel an meinen Verwalter Neumann zu senden, den ich darf nicht fort bis das Eysen hier dem Justiz Burgemeister Scheu übergeben ist, und wer würde mir den Transport hierher besorgen. Laßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und retten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren Befehlen, und bey Gott ich werde es woll machen. In tiefster Verehrung ersterbe",
-    "treu unterthäniger Diener",
-    "Es heißt daß ein wußisches Corps an der po. und Schlesischen Graüze zu stehen können soll - Wolte nur Gott dies! Ewr Hochfürstliche Durchlaucht",
-    "v Triebenfeld",
-    "Kontop",
+    "Gnädigster Fürst und Herr Wie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlaucht Hause angekommen sey, aber wie nieder gedannet stand ich als ich keine Zeile von Euer Durchlaucht und noch weniger eine Antwort auf mein an Ewr Durchlaucht gesandtes Schreiben sah - Ich bin hier fortwährend arretirt und darf mich nicht ehender entfernen als bis ich die 600 Centner Eysen, nach dem von mir gegebene Ehrenwort vom hier abgeschickt und die Lossagung von Justiz Bürgermeister Schenck aus Neufallen[?] habe.",
+    "Ich sehne auch so herzlich sich Ewr Hochfürstliche Durchlaucht persönlich zu Füßen zu legen. Aber ich darf nicht vom Fleck. Ist es Ewr Durchlaucht in der Welt möglich, so schicken Sie mir doch so bald es sein kan das Eysen und wollen die alten meinen Kummer haben so senden Sie die tausend Centner vor voll dem ist Michaelis Lahr und alle Berliner Kosten befriediget. Ich bitte aber herzigſt das Eysen gerade bis hierher nach Boyadel an meinen Verwalter Neumann zu senden, den ich darf nicht fort bis das Eysen hier dem Justiz Bürgermeister Schenck übergeben ist, und wer würde mir den Transport hierher besorgen. Laßen Ewr Durchlaucht mich ja keine Fehlbitte dies mahl thun und retten mich schleunig, dann bin ich bis am lezten Hauch ganz zu Höchst Ihren Befehlen, und bey Gott ich werde es woll machen. In tiefster Verehrung ersterbe",
+    "Ewr Hochfürstliche Durchlaucht",
+    "Es heißt daß ein Rußisches Corps an der po[hl]. und Schlesischen Gränze zu stehen können soll - Wolte nur Gott dies! Kontop",
     "den 20ten Marz",
-    "1809."
+    "1809.",
+    "treu unterthäniger Diener",
+    "v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
-   "scan": "Oe_1_Bu_9454_0094_a1-L49_01.jpg",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 33
+   "doc_line_end": 34
   }
  ],
  "mentions": [
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface": "Schenck",
+   "page": 1,
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3699,
+   "doc_line": 10
+  },
   {
    "entity": "michaelis",
    "display": "Michaelis",
    "kind": "person",
    "surface": "Michaelis",
    "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0094_a1-L49_01.jpg",
-   "line": 3683,
-   "doc_line": 15
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3705,
+   "doc_line": 16
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface": "Lahr",
+   "page": 1,
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3706,
+   "doc_line": 17
   },
   {
    "entity": "neumann",
@@ -79,10 +102,21 @@
    "kind": "person",
    "surface": "Neumann",
    "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0094_a1-L49_01.jpg",
-   "line": 3686,
-   "doc_line": 18
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3708,
+   "doc_line": 19
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface": "Schenck",
+   "page": 1,
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3709,
+   "doc_line": 20
   },
   {
    "entity": "triebenfeld",
@@ -90,86 +124,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0094_a1-L49_01.jpg",
-   "line": 3698,
-   "doc_line": 30
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3723,
+   "doc_line": 34
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Scheu",
-   "kind": "person",
-   "surface_de": "Scheu",
-   "surface_en": "Scheu",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Neufall",
-   "kind": "place",
-   "surface_de": "Neufall",
-   "surface_en": "Neufall",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Bogadel",
-   "kind": "place",
-   "surface_de": "Bogadel",
-   "surface_en": "Bogadel",
-   "page": 1
-  },
-  {
-   "entity": "neumann",
-   "display": "Neumann",
-   "kind": "person",
-   "surface_de": "Neumann",
-   "surface_en": "Neumann",
-   "page": 1
-  },
-  {
-   "entity": "michaelis",
-   "display": "Michaelis",
-   "kind": "person",
-   "surface_de": "Michaelis",
-   "surface_en": "Michaelmas",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berliner",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Silesian",
-   "kind": "place",
-   "surface_de": "Schlesischen",
-   "surface_en": "Silesian",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kontop",
-   "kind": "place",
-   "surface_de": "Kontop",
-   "surface_en": "Kontop",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -178,10 +139,21 @@
    "kind": "place",
    "surface": "Berliner",
    "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0094_a1-L49_01.jpg",
-   "line": 3684,
-   "doc_line": 16
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3706,
+   "doc_line": 17
+  },
+  {
+   "entity": "boyadel",
+   "display": "Boyadel (Bojadła)",
+   "kind": "place",
+   "surface": "Boyadel",
+   "page": 1,
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3707,
+   "doc_line": 18
   },
   {
    "entity": "kontop",
@@ -189,73 +161,15 @@
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0094_a1-L49_01.jpg",
-   "line": 3699,
-   "doc_line": 31
+   "page_id": "0092_a",
+   "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+   "line": 3719,
+   "doc_line": 30
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nHow glad I was when I was told that a messenger had arrived from Your Serene Highness's house, but how cast down I stood when I saw not a line from Your Serene Highness and still less an answer to the letter I had sent to Your Serene Highness. I am here continually under arrest and may not get away any sooner than until I have dispatched from here the 600 hundredweight of iron, according to the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall.\n\nI likewise long so heartily to lay myself personally at the feet of Your Most Serene Highness. But I may not stir from the spot. If it is in any way in the world possible for Your Serene Highness, then [uncertain: send] me the iron as soon as it can be, and should you wish to have the old [uncertain: reading] of my distress, then send the thousand hundredweight in full; that is the Michaelmas year, and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent straight here to Bogadel to my administrator Neumann, for I may not depart until the iron has been handed over here to the justice-burgomaster Scheu, and who would see to the transport here for me. Let me indeed not make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am to the last breath wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain, until death,\n\nfaithful, humble and obedient servant\n\nIt is said that a [uncertain: Russian] corps is said to be able to stand on the Po[lish] and Silesian frontier - Would to God this were so! Your Most Serene Highness\n\nv Triebenfeld\n\nKontop\n\nthe 20th of March\n\n1809.",
-   "names": [
-    {
-     "de": "Scheu",
-     "en": "Scheu",
-     "kind": "person"
-    },
-    {
-     "de": "Neufall",
-     "en": "Neufall",
-     "kind": "place"
-    },
-    {
-     "de": "Bogadel",
-     "en": "Bogadel",
-     "kind": "place"
-    },
-    {
-     "de": "Neumann",
-     "en": "Neumann",
-     "kind": "person"
-    },
-    {
-     "de": "Michaelis",
-     "en": "Michaelmas",
-     "kind": "other"
-    },
-    {
-     "de": "Berliner",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Schlesischen",
-     "en": "Silesian",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Kontop",
-     "en": "Kontop",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "600",
-    "1000 (\"tausend\")",
-    "20",
-    "1809"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nHow glad I was when I was told that a messenger had arrived from Your Serene Highness's house, but how cast down I stood when I saw not a line from Your Serene Highness and still less an answer to the letter I had sent to Your Serene Highness. I am here continually under arrest and may not get away any sooner than until I have dispatched from here the 600 hundredweight of iron, according to the word of honour given by me, and have the release from the justice-burgomaster Scheu of Neufall.\n\nI likewise long so heartily to lay myself personally at the feet of Your Most Serene Highness. But I may not stir from the spot. If it is in any way in the world possible for Your Serene Highness, then [uncertain: send] me the iron as soon as it can be, and should you wish to have the old [uncertain: reading] of my distress, then send the thousand hundredweight in full; that is the Michaelmas year, and all the Berlin costs are satisfied. But I beg most heartily that the iron be sent straight here to Bogadel to my administrator Neumann, for I may not depart until the iron has been handed over here to the justice-burgomaster Scheu, and who would see to the transport here for me. Let me indeed not make a vain petition this time, Your Serene Highness, and rescue me speedily; then I am to the last breath wholly at Your Highest commands, and by God I shall do it well. In deepest reverence I remain, until death,\n\nfaithful, humble and obedient servant\n\nIt is said that a [uncertain: Russian] corps is said to be able to stand on the Po[lish] and Silesian frontier - Would to God this were so! Your Most Serene Highness\n\nv Triebenfeld\n\nKontop\n\nthe 20th of March\n\n1809.",
- "summary_en": "A plea for rescue: Triebenfeld, held under arrest at Kontop and unable to leave until he delivers 600 hundredweight of iron pledged on his word of honour and obtains his release from justice-burgomaster Scheu of Neufall, complains that the Prince's messenger brought neither a line nor an answer. He asks that the iron, or the full thousand hundredweight covering the Michaelmas year and the Berlin costs, be sent directly to his administrator Neumann at Bogadel, and reports rumours of a Russian corps on the Polish and Silesian frontier.",
- "summary_de": "Dringende Bitte um Eisen: Triebenfeld sitzt nach eigenen Worten in Kontop fest, steht unter Arrest und darf sich nicht entfernen, ehe er die auf sein Ehrenwort zugesagten 600 Zentner Eisen abgeliefert und die Entlassung durch den Justizbürgermeister Scheu in Neufall erhalten hat. Er bittet den Fürsten, das Eisen umgehend, womöglich die vollen tausend Zentner, nach Bogadel an seinen Administrator Neumann zu schicken; damit seien das Michaelisjahr und die Berliner Kosten gedeckt. Enttäuscht vermerkt er, dass ein Bote ohne Antwort kam. Nachschrift über ein angeblich an der polnisch-schlesischen Grenze stehendes russisches Korps."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -453,6 +453,17 @@
  "place_canonical": "Breslau",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0016_a2",
+   "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
+   "line": 567,
+   "doc_line": 8
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -629,6 +640,17 @@
    "doc_line": 41
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0017_a1",
+   "scan": "Oe_1_Bu_14525_0017_a1-L6_02.jpg",
+   "line": 601,
+   "doc_line": 41
+  },
+  {
    "entity": "wienietz",
    "display": "Wienietz",
    "kind": "place",
@@ -649,6 +671,17 @@
    "scan": "Oe_1_Bu_14525_0017_a1-L6_02.jpg",
    "line": 602,
    "doc_line": 42
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0017_a2",
+   "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
+   "line": 624,
+   "doc_line": 63
   },
   {
    "entity": "betsche",
@@ -693,6 +726,17 @@
    "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
    "line": 640,
    "doc_line": 79
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0017_a2",
+   "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
+   "line": 644,
+   "doc_line": 83
   },
   {
    "entity": "betsche",

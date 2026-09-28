@@ -552,6 +552,17 @@
  "place_canonical": "Breslau",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
+   "line": 477,
+   "doc_line": 9
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -611,6 +622,17 @@
    "display": "Stoki",
    "kind": "place",
    "surface": "Stoki",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
+   "line": 487,
+   "doc_line": 19
+  },
+  {
+   "entity": "swiatniki",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface": "Swiątniki",
    "page": 1,
    "page_id": "0014_a2",
    "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
@@ -706,6 +728,28 @@
    "doc_line": 21
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0015_a1",
+   "scan": "Oe_1_Bu_14525_0015_a1-L5_02.jpg",
+   "line": 503,
+   "doc_line": 34
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0015_a2",
+   "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
+   "line": 524,
+   "doc_line": 54
+  },
+  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -715,6 +759,17 @@
    "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
    "line": 536,
    "doc_line": 66
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0015_a2",
+   "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
+   "line": 540,
+   "doc_line": 70
   },
   {
    "entity": "betsche",

@@ -405,6 +405,28 @@
    "doc_line": 1
   },
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Koninschen",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
+   "line": 188,
+   "doc_line": 1
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Sued Preußen",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
+   "line": 188,
+   "doc_line": 1
+  },
+  {
    "entity": "szetlewek",
    "display": "Szetlewek",
    "kind": "place",
@@ -414,6 +436,17 @@
    "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
    "line": 190,
    "doc_line": 3
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
+   "line": 192,
+   "doc_line": 5
   },
   {
    "entity": "szetlewek",
@@ -427,6 +460,17 @@
    "doc_line": 35
   },
   {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "0007_a1",
+   "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
+   "line": 237,
+   "doc_line": 49
+  },
+  {
    "entity": "szetlewek",
    "display": "Szetlewek",
    "kind": "place",
@@ -438,6 +482,17 @@
    "doc_line": 52
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0007_a2",
+   "scan": "Oe_1_Bu_14525_0007_a2-L2_03.jpg",
+   "line": 244,
+   "doc_line": 55
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
@@ -447,6 +502,17 @@
    "scan": "Oe_1_Bu_14525_0007_a2-L2_03.jpg",
    "line": 252,
    "doc_line": 63
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0007_a2",
+   "scan": "Oe_1_Bu_14525_0007_a2-L2_03.jpg",
+   "line": 260,
+   "doc_line": 71
   },
   {
    "entity": "konin",

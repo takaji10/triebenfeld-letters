@@ -1,6 +1,6 @@
 {
  "letter_id": "129",
- "seq_archival": 141,
+ "seq_archival": 140,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-129",
@@ -12,7 +12,7 @@
  "date_iso": "1804-05-15",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "Breslau[?] d. 15ten May 1804.",
+ "date_display": "Breslau d. 15ten May 1804.",
  "date_inferred_from": "",
  "year": 1804,
  "month": 5,
@@ -20,56 +20,61 @@
  "place": "Breslau",
  "sender": "",
  "recipient": "",
- "line_start": 9273,
- "line_end": 9305,
- "uncertainty_count": 1,
+ "line_start": 9271,
+ "line_end": 9304,
+ "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "kontop"
+ ],
  "is_missing": 0,
- "n_lines": 32,
+ "n_lines": 31,
  "n_pages": 2,
- "text": "Ich habe heute weder aus Berlin noch aus Frankfurth briefe.\nMeine Besorgnis vermehrt sich daher ständlich. Haben Ewr Hoch\nfürstliche Durchlaucht etwas von Glenck, daß Trost gewährt\nſo geruhen Sie es doch Ihrem Knechte mitzutheilen.\nWegen Kolzig hofte ich sehr - Aber Amelang antwor¬\ntet nicht. Wäre da ein Strahl von Hoffnung erschienen\nſo hätte ich gerathen allen Verkauf von Kontop zu\nuntersagen - Schweigt Amelang aber ferner noch den\nihm in dieser Sache gemachte Plan so muß ich glaube,\ndaß ihm Beym nicht gantirt; und in dieser Rücksicht\nmüſte der Verkauf von Kontop eifrig betrieben werden\nIch habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er\nals Pächter die Güter jedem Kauflustigen bestens em-\npfehlen und anzeigen solle - den auf diese Gattung\n\nMenschen komt vieles an. Dem\n1 könte ſelch Wesen um in Pacht ſicher zu bleiben den\nKauf durch gräuliche Schilderungen leicht hindern auch\nkönte so ein Mensch\n2 Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem\nVerkäufer zum Nachtheil handeln, daher habe\nich ihm laßen herkommen und dies alles vorzubeugen\nJezt sage ich ihr gleich wieder fort, damit er wan\nBudolf und Stubenrauch hinkommen, sie nicht nur gut\nauf nimmt, sondern denen Leuten alles wahr und von\nder Beſten Seite ſchildert.\nNachmittag bringe ich das was nach Südpreußen zu\nschicken ist heraus - jezt muß ich meine Geschäfte.\ndern ich viel vorgefunden habe – erſt aranquen\nv Triebenfeld\nBreslau[?] d. 15ten May 1804.",
- "text_reading": "Ich habe heute weder aus Berlin noch aus Frankfurth briefe. Meine Besorgnis vermehrt sich daher ständlich. Haben Ewr Hoch fürstliche Durchlaucht etwas von Glenck, daß Trost gewährt ſo geruhen Sie es doch Ihrem Knechte mitzutheilen. Wegen Kolzig hofte ich sehr - Aber Amelang antwortet nicht. Wäre da ein Strahl von Hoffnung erschienen ſo hätte ich gerathen allen Verkauf von Kontop zu untersagen - Schweigt Amelang aber ferner noch den ihm in dieser Sache gemachte Plan so muß ich glaube, daß ihm Beym nicht gantirt; und in dieser Rücksicht müſte der Verkauf von Kontop eifrig betrieben werden Ich habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er als Pächter die Güter jedem Kauflustigen bestens empfehlen und anzeigen solle - den auf diese Gattung\n\nMenschen komt vieles an. Dem 1 könte ſelch Wesen um in Pacht ſicher zu bleiben den Kauf durch gräuliche Schilderungen leicht hindern auch könte so ein Mensch 2 Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem Verkäufer zum Nachtheil handeln, daher habe ich ihm laßen herkommen und dies alles vorzubeugen Jezt sage ich ihr gleich wieder fort, damit er wan Budolf und Stubenrauch hinkommen, sie nicht nur gut auf nimmt, sondern denen Leuten alles wahr und von der Beſten Seite ſchildert.\n\nNachmittag bringe ich das was nach Südpreußen zu schicken ist heraus - jezt muß ich meine Geschäfte. dern ich viel vorgefunden habe – erſt aranquen v Triebenfeld\n\nBreslau[?] d. 15ten May 1804.",
+ "text": "129\nIch habe heute weder aus Berlin noch aus Frankfurt briefe.\nMeine Besorgnis vermehrt sich daher stündlich. Haben Ewr Hoch\nfürstliche Durchlaucht etwas von Glenck, daß Trost gewährt\nſo geruhen Sie es doch Ihrem Knechte mitzutheilen.\nWegen Kolzig hofte ich sehr - Aber Amelang antwor¬\ntet nicht. Wäre da ein Strahl von Hoffnung erschienen\nſo hätte ich gerathen allen Verkauf von Kontop zu\nuntersagen - Schweigt Amelang aber ferner noch den\nihm in dieser Sache gemachte Plan so muß ich glaube,\ndaß ihm Beyme nicht gantirt; und in dieser Rücksicht\nmüſte der Verkauf von Kontop eifrig betrieben werden\nIch habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er\nals Pächter die Güter jedem Kauflustigen bestens em¬\npfehlen und anzeigen solle - den auf diese Gattung\nMenschen komt vieles an. Dem\n1. könte ſelch Wesen um in Pacht ſicher zu bleiben den\nKauf durch gräuliche Schilderungen leicht hindern auch\nkönte so ein Mensch\n2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem\nVerkäufer zum Nachtheil handeln, daher habe\nich ihm laßen herkommen und dies alles vorzubeugen\nJezt sage ich ihr gleich wieder fort, damit er wan\nLudolf und Stubenrauch hinkommen, sie nicht nur gut\nauf nimmt, sondern denen Leuten alles wahr und von\nder Beſten Seite ſchildert.\nNachmittag bringe ich das was nach Südpreußen zu\nschicken ist heraus - jezt muß ich meine Geschäfte.\ndern ich viel vorgefunden habe – erſt arangirt\nBreslau d. 15ten May 1804.\nv Triebenfeld",
+ "text_reading": "129 Ich habe heute weder aus Berlin noch aus Frankfurt briefe. Meine Besorgnis vermehrt sich daher stündlich. Haben Ewr Hoch fürstliche Durchlaucht etwas von Glenck, daß Trost gewährt ſo geruhen Sie es doch Ihrem Knechte mitzutheilen. Wegen Kolzig hofte ich sehr - Aber Amelang antwortet nicht. Wäre da ein Strahl von Hoffnung erschienen ſo hätte ich gerathen allen Verkauf von Kontop zu untersagen - Schweigt Amelang aber ferner noch den ihm in dieser Sache gemachte Plan so muß ich glaube, daß ihm Beyme nicht gantirt; und in dieser Rücksicht müſte der Verkauf von Kontop eifrig betrieben werden Ich habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er als Pächter die Güter jedem Kauflustigen bestens empfehlen und anzeigen solle - den auf diese Gattung\n\nMenschen komt vieles an. Dem\n\n1. könte ſelch Wesen um in Pacht ſicher zu bleiben den Kauf durch gräuliche Schilderungen leicht hindern auch könte so ein Mensch\n\n2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem Verkäufer zum Nachtheil handeln, daher habe ich ihm laßen herkommen und dies alles vorzubeugen Jezt sage ich ihr gleich wieder fort, damit er wan Ludolf und Stubenrauch hinkommen, sie nicht nur gut auf nimmt, sondern denen Leuten alles wahr und von der Beſten Seite ſchildert.\n\nNachmittag bringe ich das was nach Südpreußen zu schicken ist heraus - jezt muß ich meine Geschäfte. dern ich viel vorgefunden habe – erſt arangirt Breslau d. 15ten May 1804.\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 9274,
+   "page_id": "0248_b",
+   "line_start": 9273,
    "line_end": 9287,
-   "n_lines": 14,
-   "diplomatic": "Ich habe heute weder aus Berlin noch aus Frankfurth briefe.\nMeine Besorgnis vermehrt sich daher ständlich. Haben Ewr Hoch\nfürstliche Durchlaucht etwas von Glenck, daß Trost gewährt\nſo geruhen Sie es doch Ihrem Knechte mitzutheilen.\nWegen Kolzig hofte ich sehr - Aber Amelang antwor¬\ntet nicht. Wäre da ein Strahl von Hoffnung erschienen\nſo hätte ich gerathen allen Verkauf von Kontop zu\nuntersagen - Schweigt Amelang aber ferner noch den\nihm in dieser Sache gemachte Plan so muß ich glaube,\ndaß ihm Beym nicht gantirt; und in dieser Rücksicht\nmüſte der Verkauf von Kontop eifrig betrieben werden\nIch habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er\nals Pächter die Güter jedem Kauflustigen bestens em-\npfehlen und anzeigen solle - den auf diese Gattung",
-   "transcription": "Ich habe heute weder aus Berlin noch aus Frankfurth briefe.\nMeine Besorgnis vermehrt sich daher ständlich. Haben Ewr Hoch\nfürstliche Durchlaucht etwas von Glenck, daß Trost gewährt\nſo geruhen Sie es doch Ihrem Knechte mitzutheilen.\nWegen Kolzig hofte ich sehr - Aber Amelang antwor-\ntet nicht. Wäre da ein Strahl von Hoffnung erschienen\nſo hätte ich gerathen allen Verkauf von Kontop zu\nuntersagen - Schweigt Amelang aber ferner noch den\nihm in dieser Sache gemachte Plan so muß ich glaube,\ndaß ihm Beym nicht gantirt; und in dieser Rücksicht\nmüſte der Verkauf von Kontop eifrig betrieben werden\nIch habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er\nals Pächter die Güter jedem Kauflustigen bestens em-\npfehlen und anzeigen solle - den auf diese Gattung",
-   "reading": "Ich habe heute weder aus Berlin noch aus Frankfurth briefe. Meine Besorgnis vermehrt sich daher ständlich. Haben Ewr Hoch fürstliche Durchlaucht etwas von Glenck, daß Trost gewährt ſo geruhen Sie es doch Ihrem Knechte mitzutheilen. Wegen Kolzig hofte ich sehr - Aber Amelang antwortet nicht. Wäre da ein Strahl von Hoffnung erschienen ſo hätte ich gerathen allen Verkauf von Kontop zu untersagen - Schweigt Amelang aber ferner noch den ihm in dieser Sache gemachte Plan so muß ich glaube, daß ihm Beym nicht gantirt; und in dieser Rücksicht müſte der Verkauf von Kontop eifrig betrieben werden Ich habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er als Pächter die Güter jedem Kauflustigen bestens empfehlen und anzeigen solle - den auf diese Gattung",
+   "n_lines": 15,
+   "diplomatic": "129\nIch habe heute weder aus Berlin noch aus Frankfurt briefe.\nMeine Besorgnis vermehrt sich daher stündlich. Haben Ewr Hoch\nfürstliche Durchlaucht etwas von Glenck, daß Trost gewährt\nſo geruhen Sie es doch Ihrem Knechte mitzutheilen.\nWegen Kolzig hofte ich sehr - Aber Amelang antwor¬\ntet nicht. Wäre da ein Strahl von Hoffnung erschienen\nſo hätte ich gerathen allen Verkauf von Kontop zu\nuntersagen - Schweigt Amelang aber ferner noch den\nihm in dieser Sache gemachte Plan so muß ich glaube,\ndaß ihm Beyme nicht gantirt; und in dieser Rücksicht\nmüſte der Verkauf von Kontop eifrig betrieben werden\nIch habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er\nals Pächter die Güter jedem Kauflustigen bestens em¬\npfehlen und anzeigen solle - den auf diese Gattung",
+   "transcription": "129\nIch habe heute weder aus Berlin noch aus Frankfurt briefe.\nMeine Besorgnis vermehrt sich daher stündlich. Haben Ewr Hoch\nfürstliche Durchlaucht etwas von Glenck, daß Trost gewährt\nſo geruhen Sie es doch Ihrem Knechte mitzutheilen.\nWegen Kolzig hofte ich sehr - Aber Amelang antwor-\ntet nicht. Wäre da ein Strahl von Hoffnung erschienen\nſo hätte ich gerathen allen Verkauf von Kontop zu\nuntersagen - Schweigt Amelang aber ferner noch den\nihm in dieser Sache gemachte Plan so muß ich glaube,\ndaß ihm Beyme nicht gantirt; und in dieser Rücksicht\nmüſte der Verkauf von Kontop eifrig betrieben werden\nIch habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er\nals Pächter die Güter jedem Kauflustigen bestens em-\npfehlen und anzeigen solle - den auf diese Gattung",
+   "reading": "129 Ich habe heute weder aus Berlin noch aus Frankfurt briefe. Meine Besorgnis vermehrt sich daher stündlich. Haben Ewr Hoch fürstliche Durchlaucht etwas von Glenck, daß Trost gewährt ſo geruhen Sie es doch Ihrem Knechte mitzutheilen. Wegen Kolzig hofte ich sehr - Aber Amelang antwortet nicht. Wäre da ein Strahl von Hoffnung erschienen ſo hätte ich gerathen allen Verkauf von Kontop zu untersagen - Schweigt Amelang aber ferner noch den ihm in dieser Sache gemachte Plan so muß ich glaube, daß ihm Beyme nicht gantirt; und in dieser Rücksicht müſte der Verkauf von Kontop eifrig betrieben werden Ich habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er als Pächter die Güter jedem Kauflustigen bestens empfehlen und anzeigen solle - den auf diese Gattung",
    "paragraphs": [
-    "Ich habe heute weder aus Berlin noch aus Frankfurth briefe. Meine Besorgnis vermehrt sich daher ständlich. Haben Ewr Hoch fürstliche Durchlaucht etwas von Glenck, daß Trost gewährt ſo geruhen Sie es doch Ihrem Knechte mitzutheilen. Wegen Kolzig hofte ich sehr - Aber Amelang antwortet nicht. Wäre da ein Strahl von Hoffnung erschienen ſo hätte ich gerathen allen Verkauf von Kontop zu untersagen - Schweigt Amelang aber ferner noch den ihm in dieser Sache gemachte Plan so muß ich glaube, daß ihm Beym nicht gantirt; und in dieser Rücksicht müſte der Verkauf von Kontop eifrig betrieben werden Ich habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er als Pächter die Güter jedem Kauflustigen bestens empfehlen und anzeigen solle - den auf diese Gattung"
+    "129 Ich habe heute weder aus Berlin noch aus Frankfurt briefe. Meine Besorgnis vermehrt sich daher stündlich. Haben Ewr Hoch fürstliche Durchlaucht etwas von Glenck, daß Trost gewährt ſo geruhen Sie es doch Ihrem Knechte mitzutheilen. Wegen Kolzig hofte ich sehr - Aber Amelang antwortet nicht. Wäre da ein Strahl von Hoffnung erschienen ſo hätte ich gerathen allen Verkauf von Kontop zu untersagen - Schweigt Amelang aber ferner noch den ihm in dieser Sache gemachte Plan so muß ich glaube, daß ihm Beyme nicht gantirt; und in dieser Rücksicht müſte der Verkauf von Kontop eifrig betrieben werden Ich habe zu dem Ende Bernhardi herbestellt und ihm angedeutet daß er als Pächter die Güter jedem Kauflustigen bestens empfehlen und anzeigen solle - den auf diese Gattung"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 14
+   "doc_line_end": 15
   },
   {
    "page": 2,
-   "page_id": "",
+   "page_id": "0249_a1",
    "line_start": 9289,
    "line_end": 9304,
    "n_lines": 16,
-   "diplomatic": "Menschen komt vieles an. Dem\n1 könte ſelch Wesen um in Pacht ſicher zu bleiben den\nKauf durch gräuliche Schilderungen leicht hindern auch\nkönte so ein Mensch\n2 Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem\nVerkäufer zum Nachtheil handeln, daher habe\nich ihm laßen herkommen und dies alles vorzubeugen\nJezt sage ich ihr gleich wieder fort, damit er wan\nBudolf und Stubenrauch hinkommen, sie nicht nur gut\nauf nimmt, sondern denen Leuten alles wahr und von\nder Beſten Seite ſchildert.\nNachmittag bringe ich das was nach Südpreußen zu\nschicken ist heraus - jezt muß ich meine Geschäfte.\ndern ich viel vorgefunden habe – erſt aranquen\nv Triebenfeld\nBreslau[?] d. 15ten May 1804.",
-   "transcription": "Menschen komt vieles an. Dem\n1 könte ſelch Wesen um in Pacht ſicher zu bleiben den\nKauf durch gräuliche Schilderungen leicht hindern auch\nkönte so ein Mensch\n2 Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem\nVerkäufer zum Nachtheil handeln, daher habe\nich ihm laßen herkommen und dies alles vorzubeugen\nJezt sage ich ihr gleich wieder fort, damit er wan\nBudolf und Stubenrauch hinkommen, sie nicht nur gut\nauf nimmt, sondern denen Leuten alles wahr und von\nder Beſten Seite ſchildert.\nNachmittag bringe ich das was nach Südpreußen zu\nschicken ist heraus - jezt muß ich meine Geschäfte.\ndern ich viel vorgefunden habe – erſt aranquen\nv Triebenfeld\nBreslau[?] d. 15ten May 1804.",
-   "reading": "Menschen komt vieles an. Dem 1 könte ſelch Wesen um in Pacht ſicher zu bleiben den Kauf durch gräuliche Schilderungen leicht hindern auch könte so ein Mensch 2 Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem Verkäufer zum Nachtheil handeln, daher habe ich ihm laßen herkommen und dies alles vorzubeugen Jezt sage ich ihr gleich wieder fort, damit er wan Budolf und Stubenrauch hinkommen, sie nicht nur gut auf nimmt, sondern denen Leuten alles wahr und von der Beſten Seite ſchildert.\n\nNachmittag bringe ich das was nach Südpreußen zu schicken ist heraus - jezt muß ich meine Geschäfte. dern ich viel vorgefunden habe – erſt aranquen v Triebenfeld\n\nBreslau[?] d. 15ten May 1804.",
+   "diplomatic": "Menschen komt vieles an. Dem\n1. könte ſelch Wesen um in Pacht ſicher zu bleiben den\nKauf durch gräuliche Schilderungen leicht hindern auch\nkönte so ein Mensch\n2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem\nVerkäufer zum Nachtheil handeln, daher habe\nich ihm laßen herkommen und dies alles vorzubeugen\nJezt sage ich ihr gleich wieder fort, damit er wan\nLudolf und Stubenrauch hinkommen, sie nicht nur gut\nauf nimmt, sondern denen Leuten alles wahr und von\nder Beſten Seite ſchildert.\nNachmittag bringe ich das was nach Südpreußen zu\nschicken ist heraus - jezt muß ich meine Geschäfte.\ndern ich viel vorgefunden habe – erſt arangirt\nBreslau d. 15ten May 1804.\nv Triebenfeld",
+   "transcription": "Menschen komt vieles an. Dem\n1. könte ſelch Wesen um in Pacht ſicher zu bleiben den\nKauf durch gräuliche Schilderungen leicht hindern auch\nkönte so ein Mensch\n2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem\nVerkäufer zum Nachtheil handeln, daher habe\nich ihm laßen herkommen und dies alles vorzubeugen\nJezt sage ich ihr gleich wieder fort, damit er wan\nLudolf und Stubenrauch hinkommen, sie nicht nur gut\nauf nimmt, sondern denen Leuten alles wahr und von\nder Beſten Seite ſchildert.\nNachmittag bringe ich das was nach Südpreußen zu\nschicken ist heraus - jezt muß ich meine Geschäfte.\ndern ich viel vorgefunden habe – erſt arangirt\nBreslau d. 15ten May 1804.\nv Triebenfeld",
+   "reading": "Menschen komt vieles an. Dem\n\n1. könte ſelch Wesen um in Pacht ſicher zu bleiben den Kauf durch gräuliche Schilderungen leicht hindern auch könte so ein Mensch\n\n2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem Verkäufer zum Nachtheil handeln, daher habe ich ihm laßen herkommen und dies alles vorzubeugen Jezt sage ich ihr gleich wieder fort, damit er wan Ludolf und Stubenrauch hinkommen, sie nicht nur gut auf nimmt, sondern denen Leuten alles wahr und von der Beſten Seite ſchildert.\n\nNachmittag bringe ich das was nach Südpreußen zu schicken ist heraus - jezt muß ich meine Geschäfte. dern ich viel vorgefunden habe – erſt arangirt Breslau d. 15ten May 1804.\n\nv Triebenfeld",
    "paragraphs": [
-    "Menschen komt vieles an. Dem 1 könte ſelch Wesen um in Pacht ſicher zu bleiben den Kauf durch gräuliche Schilderungen leicht hindern auch könte so ein Mensch 2 Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem Verkäufer zum Nachtheil handeln, daher habe ich ihm laßen herkommen und dies alles vorzubeugen Jezt sage ich ihr gleich wieder fort, damit er wan Budolf und Stubenrauch hinkommen, sie nicht nur gut auf nimmt, sondern denen Leuten alles wahr und von der Beſten Seite ſchildert.",
-    "Nachmittag bringe ich das was nach Südpreußen zu schicken ist heraus - jezt muß ich meine Geschäfte. dern ich viel vorgefunden habe – erſt aranquen v Triebenfeld",
-    "Breslau[?] d. 15ten May 1804."
+    "Menschen komt vieles an. Dem",
+    "1. könte ſelch Wesen um in Pacht ſicher zu bleiben den Kauf durch gräuliche Schilderungen leicht hindern auch könte so ein Mensch",
+    "2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem Verkäufer zum Nachtheil handeln, daher habe ich ihm laßen herkommen und dies alles vorzubeugen Jezt sage ich ihr gleich wieder fort, damit er wan Ludolf und Stubenrauch hinkommen, sie nicht nur gut auf nimmt, sondern denen Leuten alles wahr und von der Beſten Seite ſchildert.",
+    "Nachmittag bringe ich das was nach Südpreußen zu schicken ist heraus - jezt muß ich meine Geschäfte. dern ich viel vorgefunden habe – erſt arangirt Breslau d. 15ten May 1804.",
+    "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0249_a1-L129_02.jpg",
-   "doc_line_start": 15,
-   "doc_line_end": 30
+   "doc_line_start": 16,
+   "doc_line_end": 31
   }
  ],
  "mentions": [
@@ -79,10 +84,10 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9276,
-   "doc_line": 3
+   "doc_line": 4
   },
   {
    "entity": "amelang",
@@ -90,10 +95,10 @@
    "kind": "person",
    "surface": "Amelang",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9278,
-   "doc_line": 5
+   "doc_line": 6
   },
   {
    "entity": "amelang",
@@ -101,10 +106,21 @@
    "kind": "person",
    "surface": "Amelang",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9281,
-   "doc_line": 8
+   "doc_line": 9
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface": "Beyme",
+   "page": 1,
+   "page_id": "0248_b",
+   "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
+   "line": 9283,
+   "doc_line": 11
   },
   {
    "entity": "bernhardi",
@@ -112,10 +128,21 @@
    "kind": "person",
    "surface": "Bernhardi",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9285,
-   "doc_line": 12
+   "doc_line": 13
+  },
+  {
+   "entity": "ludolff",
+   "display": "Ludolff",
+   "kind": "person",
+   "surface": "Ludolf",
+   "page": 2,
+   "page_id": "0249_a1",
+   "scan": "Oe_1_Bu_9454_0249_a1-L129_02.jpg",
+   "line": 9297,
+   "doc_line": 24
   },
   {
    "entity": "triebenfeld",
@@ -123,110 +150,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0249_a1",
    "scan": "Oe_1_Bu_9454_0249_a1-L129_02.jpg",
-   "line": 9303,
-   "doc_line": 29
+   "line": 9304,
+   "doc_line": 31
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Frankfurt an der Oder",
-   "kind": "place",
-   "surface_de": "Frankfurth",
-   "surface_en": "Frankfurt an der Oder",
-   "page": 1
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kolzig",
-   "kind": "place",
-   "surface_de": "Kolzig",
-   "surface_en": "Kolzig",
-   "page": 1
-  },
-  {
-   "entity": "amelang",
-   "display": "Amelang",
-   "kind": "person",
-   "surface_de": "Amelang",
-   "surface_en": "Amelang",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kontop",
-   "kind": "place",
-   "surface_de": "Kontop",
-   "surface_en": "Kontop",
-   "page": 1
-  },
-  {
-   "entity": "bernhardi",
-   "display": "Bergrath Bernhardi",
-   "kind": "person",
-   "surface_de": "Bernhardi",
-   "surface_en": "Bernhardi",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Budolf",
-   "kind": "person",
-   "surface_de": "Budolf",
-   "surface_en": "Budolf",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Stubenrauch",
-   "kind": "person",
-   "surface_de": "Stubenrauch",
-   "surface_en": "Stubenrauch",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "South Prussia",
-   "kind": "place",
-   "surface_de": "Südpreußen",
-   "surface_en": "South Prussia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -235,10 +165,21 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9274,
-   "doc_line": 1
+   "doc_line": 2
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurt",
+   "page": 1,
+   "page_id": "0248_b",
+   "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
+   "line": 9274,
+   "doc_line": 2
   },
   {
    "entity": "kontop",
@@ -246,10 +187,10 @@
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9280,
-   "doc_line": 7
+   "doc_line": 8
   },
   {
    "entity": "kontop",
@@ -257,10 +198,21 @@
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
-   "page_id": "",
+   "page_id": "0248_b",
    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
    "line": 9284,
-   "doc_line": 11
+   "doc_line": 12
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 2,
+   "page_id": "0249_a1",
+   "scan": "Oe_1_Bu_9454_0249_a1-L129_02.jpg",
+   "line": 9300,
+   "doc_line": 27
   },
   {
    "entity": "breslau",
@@ -268,94 +220,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
-   "page_id": "",
+   "page_id": "0249_a1",
    "scan": "Oe_1_Bu_9454_0249_a1-L129_02.jpg",
-   "line": 9304,
+   "line": 9303,
    "doc_line": 30
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Today I have letters neither from Berlin nor from Frankfurt an der Oder. My anxiety therefore increases hourly. If Your Most Serene Highness has anything from Glenck that affords comfort, be pleased then to communicate it to Your bondsman. Concerning Kolzig I had great hopes — but Amelang does not answer. Had a ray of hope appeared there, I should have advised that all sale of Kontop be forbidden — but if Amelang continues to be silent as to the plan laid before him in this matter, then I must believe that [uncertain: Beym] does not guarantee it for him; and in this regard the sale of Kontop would have to be pressed forward vigorously. To that end I have summoned Bernhardi here and given him to understand that he, as the tenant, should commend and represent the estates in the best light to every prospective purchaser — for with that species of",
-   "names": [
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Frankfurth",
-     "en": "Frankfurt an der Oder",
-     "kind": "place"
-    },
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Kolzig",
-     "en": "Kolzig",
-     "kind": "place"
-    },
-    {
-     "de": "Amelang",
-     "en": "Amelang",
-     "kind": "person"
-    },
-    {
-     "de": "Kontop",
-     "en": "Kontop",
-     "kind": "place"
-    },
-    {
-     "de": "Bernhardi",
-     "en": "Bernhardi",
-     "kind": "person"
-    }
-   ]
-  },
-  {
-   "page": 2,
-   "en": "people much depends. The 1st, such a creature might, in order to remain secure in his tenancy, easily hinder the sale by hideous descriptions; also, such a man might 2ndly, seeking his own profit, easily let himself be bought, and act to the seller's disadvantage; therefore I have had him come here, and to forestall all this. Now I am sending him off again at once, so that when Budolf and Stubenrauch arrive there, he may not only receive them well, but describe everything to those people truthfully and in the best light.\n\nThis afternoon I shall bring out what is to be sent to South Prussia — now I must first [uncertain: arrange] my business, of which I have found a great deal awaiting me.\nv. Triebenfeld\n\nBreslau[?] d. 15th of May 1804.",
-   "names": [
-    {
-     "de": "Budolf",
-     "en": "Budolf",
-     "kind": "person"
-    },
-    {
-     "de": "Stubenrauch",
-     "en": "Stubenrauch",
-     "kind": "person"
-    },
-    {
-     "de": "Südpreußen",
-     "en": "South Prussia",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "1",
-    "2",
-    "15",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Today I have letters neither from Berlin nor from Frankfurt an der Oder. My anxiety therefore increases hourly. If Your Most Serene Highness has anything from Glenck that affords comfort, be pleased then to communicate it to Your bondsman. Concerning Kolzig I had great hopes — but Amelang does not answer. Had a ray of hope appeared there, I should have advised that all sale of Kontop be forbidden — but if Amelang continues to be silent as to the plan laid before him in this matter, then I must believe that [uncertain: Beym] does not guarantee it for him; and in this regard the sale of Kontop would have to be pressed forward vigorously. To that end I have summoned Bernhardi here and given him to understand that he, as the tenant, should commend and represent the estates in the best light to every prospective purchaser — for with that species of\n\npeople much depends. The 1st, such a creature might, in order to remain secure in his tenancy, easily hinder the sale by hideous descriptions; also, such a man might 2ndly, seeking his own profit, easily let himself be bought, and act to the seller's disadvantage; therefore I have had him come here, and to forestall all this. Now I am sending him off again at once, so that when Budolf and Stubenrauch arrive there, he may not only receive them well, but describe everything to those people truthfully and in the best light.\n\nThis afternoon I shall bring out what is to be sent to South Prussia — now I must first [uncertain: arrange] my business, of which I have found a great deal awaiting me.\nv. Triebenfeld\n\nBreslau[?] d. 15th of May 1804.",
- "summary_en": "Anxious at the absence of letters from Berlin and Frankfurt an der Oder, Triebenfeld asks the Prince for any reassuring news from Glenck. Amelang's silence over the plan put to him has dashed hopes for Kolzig, so the sale of Kontop must now be pushed hard. He has called in Bernhardi, the tenant, warning that such a man might talk down the estate to keep his lease or be bribed by a buyer, and sent him back to receive Budolf and Stubenrauch well.",
- "summary_de": "Klage über ausbleibende Post aus Berlin und Frankfurt an der Oder und Bitte, etwaige beruhigende Nachrichten von Glenck mitzuteilen. Da Amelang auf den ihm vorgelegten Plan wegen Kolzig nicht antwortet, sei der Verkauf von Kontop nun nachdrücklich zu betreiben; sonst hätte Triebenfeld geraten, ihn zu untersagen. Er habe den Pächter Bernhardi kommen lassen und ihm eingeschärft, die Güter den Kaufinteressenten Budolf und Stubenrauch wahrheitsgemäß und günstig zu schildern, statt den Verkauf zu hintertreiben oder sich bezahlen zu lassen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

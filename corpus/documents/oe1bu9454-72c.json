@@ -9,41 +9,44 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1812-03-08",
+ "date_iso": "1812-03-12",
  "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1812-03-08]",
- "date_inferred_from": "supplied by researcher",
+ "date_source": "signature",
+ "date_display": "ad 12. Merz 1812.",
+ "date_inferred_from": "",
  "year": 1812,
  "month": 3,
- "day": 8,
+ "day": 12,
  "place": "Kalisz",
  "sender": "",
  "recipient": "",
- "line_start": 5802,
- "line_end": 5823,
+ "line_start": 5810,
+ "line_end": 5831,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
  "is_missing": 0,
- "n_lines": 21,
+ "n_lines": 20,
  "n_pages": 1,
- "text": "Hochwohlgebohrner Herr,\nInsonders hochzuverehrender Herr Krieges und Forstrath\nDen so eben vom Herrn Podprefecten o Brzechsta\ndurch den Advocaten v Wieckowski erhaltenen\nBrief geben ich mir die Ehre Ew HochWohlgebohren\nin der Anlage gehorsamst zu communiciren, und\ndaraus werden Hochdieselben zu ergehen belieben,\ndaß H. Brzechsta seiner Geschäfte wegen\nerst den 15ten d. m. von Warschau abzureisen\ngedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner\nHerrschaft vorhanden, dieses habe ich für hochwohlgeb.\nnen mittheilen und zugleich versichern wollen\ndaß ich nie aufheren werde mich zu nennen\nEw Hochwohlgebohren\nKalisz\nden 8ten Martz 12.\ngehorsamster Diener\nder Kreis Rath\nThiel\nad 12. Merz 1812.",
- "text_reading": "Hochwohlgebohrner Herr, Insonders hochzuverehrender Herr Krieges und Forstrath Den so eben vom Herrn Podprefecten o Brzechsta durch den Advocaten v Wieckowski erhaltenen Brief geben ich mir die Ehre Ew HochWohlgebohren in der Anlage gehorsamst zu communiciren, und daraus werden Hochdieselben zu ergehen belieben, daß H. Brzechsta seiner Geschäfte wegen erst den 15ten d. m. von Warschau abzureisen gedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner Herrschaft vorhanden, dieses habe ich für hochwohlgeb. nen mittheilen und zugleich versichern wollen daß ich nie aufheren werde mich zu nennen Ew Hochwohlgebohren\n\nKalisz\n\nden 8ten Martz 12.\n\ngehorsamster Diener\n\nder Kreis Rath\n\nThiel\n\nad 12. Merz 1812.",
+ "text": "Hochwohlgebohrner Herr,\nInsonders hochzuverehrender Herr Krieges und Frühsttag\nDen so eben vom Herrn Podprefecten v Brzechffa\ndurch den Advocaten v Wieckowski erhaltenen\nBrief geben ich mir die Ehre Ew HochWohlgebohren\nin der Anlage gehorsamst zu communiciren, und\ndaraus werden Hochdieselben zu ersehen belieben,\ndaß H. p v Brzechffa seiner Geschäfte wegen\nerst den 15ten d. m. von Warschau abzureisen\ngedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner\nHerrschaft vorhanden, dieses habe ich für hochwohlgeb.\nnen mittheilen und zugleich versichern wollen\ndaß ich nie aufhören werde mich zu nennen\nEw Hochwohlgebohren\nKalisz\nden 8ten Martz 12.\ngehorsamster Diener\nder Kreis Rath\nThiel\nad 12. Merz 1812.",
+ "text_reading": "Hochwohlgebohrner Herr, Insonders hochzuverehrender Herr Krieges und Frühsttag Den so eben vom Herrn Podprefecten v Brzechffa durch den Advocaten v Wieckowski erhaltenen Brief geben ich mir die Ehre Ew HochWohlgebohren in der Anlage gehorsamst zu communiciren, und daraus werden Hochdieselben zu ersehen belieben, daß H. p v Brzechffa seiner Geschäfte wegen erst den 15ten d. m. von Warschau abzureisen gedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner Herrschaft vorhanden, dieses habe ich für hochwohlgeb. nen mittheilen und zugleich versichern wollen daß ich nie aufhören werde mich zu nennen Ew Hochwohlgebohren\n\nKalisz\n\nden 8ten Martz 12.\n\ngehorsamster Diener\n\nder Kreis Rath\n\nThiel\n\nad 12. Merz 1812.",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 5803,
-   "line_end": 5822,
+   "page_id": "0146_b",
+   "line_start": 5812,
+   "line_end": 5831,
    "n_lines": 20,
-   "diplomatic": "Hochwohlgebohrner Herr,\nInsonders hochzuverehrender Herr Krieges und Forstrath\nDen so eben vom Herrn Podprefecten o Brzechsta\ndurch den Advocaten v Wieckowski erhaltenen\nBrief geben ich mir die Ehre Ew HochWohlgebohren\nin der Anlage gehorsamst zu communiciren, und\ndaraus werden Hochdieselben zu ergehen belieben,\ndaß H. Brzechsta seiner Geschäfte wegen\nerst den 15ten d. m. von Warschau abzureisen\ngedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner\nHerrschaft vorhanden, dieses habe ich für hochwohlgeb.\nnen mittheilen und zugleich versichern wollen\ndaß ich nie aufheren werde mich zu nennen\nEw Hochwohlgebohren\nKalisz\nden 8ten Martz 12.\ngehorsamster Diener\nder Kreis Rath\nThiel\nad 12. Merz 1812.",
-   "transcription": "Hochwohlgebohrner Herr,\nInsonders hochzuverehrender Herr Krieges und Forstrath\nDen so eben vom Herrn Podprefecten o Brzechsta\ndurch den Advocaten v Wieckowski erhaltenen\nBrief geben ich mir die Ehre Ew HochWohlgebohren\nin der Anlage gehorsamst zu communiciren, und\ndaraus werden Hochdieselben zu ergehen belieben,\ndaß H. Brzechsta seiner Geschäfte wegen\nerst den 15ten d. m. von Warschau abzureisen\ngedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner\nHerrschaft vorhanden, dieses habe ich für hochwohlgeb.\nnen mittheilen und zugleich versichern wollen\ndaß ich nie aufheren werde mich zu nennen\nEw Hochwohlgebohren\nKalisz\nden 8ten Martz 12.\ngehorsamster Diener\nder Kreis Rath\nThiel\nad 12. Merz 1812.",
-   "reading": "Hochwohlgebohrner Herr, Insonders hochzuverehrender Herr Krieges und Forstrath Den so eben vom Herrn Podprefecten o Brzechsta durch den Advocaten v Wieckowski erhaltenen Brief geben ich mir die Ehre Ew HochWohlgebohren in der Anlage gehorsamst zu communiciren, und daraus werden Hochdieselben zu ergehen belieben, daß H. Brzechsta seiner Geschäfte wegen erst den 15ten d. m. von Warschau abzureisen gedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner Herrschaft vorhanden, dieses habe ich für hochwohlgeb. nen mittheilen und zugleich versichern wollen daß ich nie aufheren werde mich zu nennen Ew Hochwohlgebohren\n\nKalisz\n\nden 8ten Martz 12.\n\ngehorsamster Diener\n\nder Kreis Rath\n\nThiel\n\nad 12. Merz 1812.",
+   "diplomatic": "Hochwohlgebohrner Herr,\nInsonders hochzuverehrender Herr Krieges und Frühsttag\nDen so eben vom Herrn Podprefecten v Brzechffa\ndurch den Advocaten v Wieckowski erhaltenen\nBrief geben ich mir die Ehre Ew HochWohlgebohren\nin der Anlage gehorsamst zu communiciren, und\ndaraus werden Hochdieselben zu ersehen belieben,\ndaß H. p v Brzechffa seiner Geschäfte wegen\nerst den 15ten d. m. von Warschau abzureisen\ngedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner\nHerrschaft vorhanden, dieses habe ich für hochwohlgeb.\nnen mittheilen und zugleich versichern wollen\ndaß ich nie aufhören werde mich zu nennen\nEw Hochwohlgebohren\nKalisz\nden 8ten Martz 12.\ngehorsamster Diener\nder Kreis Rath\nThiel\nad 12. Merz 1812.",
+   "transcription": "Hochwohlgebohrner Herr,\nInsonders hochzuverehrender Herr Krieges und Frühsttag\nDen so eben vom Herrn Podprefecten v Brzechffa\ndurch den Advocaten v Wieckowski erhaltenen\nBrief geben ich mir die Ehre Ew HochWohlgebohren\nin der Anlage gehorsamst zu communiciren, und\ndaraus werden Hochdieselben zu ersehen belieben,\ndaß H. p v Brzechffa seiner Geschäfte wegen\nerst den 15ten d. m. von Warschau abzureisen\ngedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner\nHerrschaft vorhanden, dieses habe ich für hochwohlgeb.\nnen mittheilen und zugleich versichern wollen\ndaß ich nie aufhören werde mich zu nennen\nEw Hochwohlgebohren\nKalisz\nden 8ten Martz 12.\ngehorsamster Diener\nder Kreis Rath\nThiel\nad 12. Merz 1812.",
+   "reading": "Hochwohlgebohrner Herr, Insonders hochzuverehrender Herr Krieges und Frühsttag Den so eben vom Herrn Podprefecten v Brzechffa durch den Advocaten v Wieckowski erhaltenen Brief geben ich mir die Ehre Ew HochWohlgebohren in der Anlage gehorsamst zu communiciren, und daraus werden Hochdieselben zu ersehen belieben, daß H. p v Brzechffa seiner Geschäfte wegen erst den 15ten d. m. von Warschau abzureisen gedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner Herrschaft vorhanden, dieses habe ich für hochwohlgeb. nen mittheilen und zugleich versichern wollen daß ich nie aufhören werde mich zu nennen Ew Hochwohlgebohren\n\nKalisz\n\nden 8ten Martz 12.\n\ngehorsamster Diener\n\nder Kreis Rath\n\nThiel\n\nad 12. Merz 1812.",
    "paragraphs": [
-    "Hochwohlgebohrner Herr, Insonders hochzuverehrender Herr Krieges und Forstrath Den so eben vom Herrn Podprefecten o Brzechsta durch den Advocaten v Wieckowski erhaltenen Brief geben ich mir die Ehre Ew HochWohlgebohren in der Anlage gehorsamst zu communiciren, und daraus werden Hochdieselben zu ergehen belieben, daß H. Brzechsta seiner Geschäfte wegen erst den 15ten d. m. von Warschau abzureisen gedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner Herrschaft vorhanden, dieses habe ich für hochwohlgeb. nen mittheilen und zugleich versichern wollen daß ich nie aufheren werde mich zu nennen Ew Hochwohlgebohren",
+    "Hochwohlgebohrner Herr, Insonders hochzuverehrender Herr Krieges und Frühsttag Den so eben vom Herrn Podprefecten v Brzechffa durch den Advocaten v Wieckowski erhaltenen Brief geben ich mir die Ehre Ew HochWohlgebohren in der Anlage gehorsamst zu communiciren, und daraus werden Hochdieselben zu ersehen belieben, daß H. p v Brzechffa seiner Geschäfte wegen erst den 15ten d. m. von Warschau abzureisen gedenkt, auch daß gute Aussicht in Ansehung der Trąbczyner Herrschaft vorhanden, dieses habe ich für hochwohlgeb. nen mittheilen und zugleich versichern wollen daß ich nie aufhören werde mich zu nennen Ew Hochwohlgebohren",
     "Kalisz",
     "den 8ten Martz 12.",
     "gehorsamster Diener",
@@ -60,97 +63,51 @@
  ],
  "mentions": [
   {
-   "entity": "brzechsta",
-   "display": "Brzechsta",
+   "entity": "brzechffa",
+   "display": "Brzechffa",
    "kind": "person",
-   "surface": "Brzechsta",
+   "surface": "Brzechffa",
    "page": 1,
-   "page_id": "",
+   "page_id": "0146_b",
    "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
-   "line": 5805,
+   "line": 5814,
    "doc_line": 3
   },
   {
-   "entity": "brzechsta",
-   "display": "Brzechsta",
+   "entity": "brzechffa",
+   "display": "Brzechffa",
    "kind": "person",
-   "surface": "Brzechsta",
+   "surface": "Brzechffa",
    "page": 1,
-   "page_id": "",
+   "page_id": "0146_b",
    "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
-   "line": 5810,
+   "line": 5819,
    "doc_line": 8
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Councillor of War and Forests",
-   "kind": "other",
-   "surface_de": "Krieges und Forstrath",
-   "surface_en": "Councillor of War and Forests",
-   "page": 1
-  },
-  {
-   "entity": "brzechsta",
-   "display": "Brzechsta",
-   "kind": "person",
-   "surface_de": "Brzechsta",
-   "surface_en": "Brzechsta",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Wieckowski",
-   "kind": "person",
-   "surface_de": "v Wieckowski",
-   "surface_en": "von Wieckowski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Warsaw",
-   "kind": "place",
-   "surface_de": "Warschau",
-   "surface_en": "Warsaw",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyner",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisz",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Thiel",
-   "kind": "person",
-   "surface_de": "Thiel",
-   "surface_en": "Thiel",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Kalisz",
  "place_mentions": [
+  {
+   "entity": "warschau",
+   "display": "Warschau",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0146_b",
+   "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
+   "line": 5820,
+   "doc_line": 9
+  },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0146_b",
    "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
-   "line": 5812,
+   "line": 5821,
    "doc_line": 10
   },
   {
@@ -159,64 +116,15 @@
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0146_b",
    "scan": "Oe_1_Bu_9454_0146_b-L72c_01.jpg",
-   "line": 5817,
+   "line": 5826,
    "doc_line": 15
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Right Honourable Sir, most particularly to be revered Councillor of War and Forests! The letter just now received from the sub-prefect o Brzechsta by way of the advocate von Wieckowski I take the honour of communicating to Your Right Honourable, most obediently, in the enclosure, and from it you will be pleased to gather [uncertain: to gather] that Mr Brzechsta, on account of his business, does not intend to depart from Warsaw until the 15th of this month, and also that there is good prospect with respect to the lordship of Trąbczyn; this I wished to impart to Your Right Honourable and at the same time to assure you that I shall never cease to call myself Your Right Honourable's\n\nKalisz\n\nthe 8th of March 12.\n\nmost obedient servant\n\nthe district councillor\n\nThiel\n\nreceived 12 March 1812.",
-   "names": [
-    {
-     "de": "Krieges und Forstrath",
-     "en": "Councillor of War and Forests",
-     "kind": "other"
-    },
-    {
-     "de": "Brzechsta",
-     "en": "Brzechsta",
-     "kind": "person"
-    },
-    {
-     "de": "v Wieckowski",
-     "en": "von Wieckowski",
-     "kind": "person"
-    },
-    {
-     "de": "Warschau",
-     "en": "Warsaw",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyner",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Kalisz",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Thiel",
-     "en": "Thiel",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "15",
-    "8",
-    "12",
-    "12",
-    "1812"
-   ]
-  }
- ],
- "text_english": "Right Honourable Sir, most particularly to be revered Councillor of War and Forests! The letter just now received from the sub-prefect o Brzechsta by way of the advocate von Wieckowski I take the honour of communicating to Your Right Honourable, most obediently, in the enclosure, and from it you will be pleased to gather [uncertain: to gather] that Mr Brzechsta, on account of his business, does not intend to depart from Warsaw until the 15th of this month, and also that there is good prospect with respect to the lordship of Trąbczyn; this I wished to impart to Your Right Honourable and at the same time to assure you that I shall never cease to call myself Your Right Honourable's\n\nKalisz\n\nthe 8th of March 12.\n\nmost obedient servant\n\nthe district councillor\n\nThiel\n\nreceived 12 March 1812.",
- "summary_en": "Thiel, a district councillor writing from Kalisz, forwards to Triebenfeld an enclosed letter from the sub-prefect Brzechsta, received through the advocate von Wieckowski. He points out two things from it: Brzechsta's business keeps him in Warsaw until the 15th of the month, and the prospects regarding the lordship of Trąbczyn look good. A short covering note, its value lying in the enclosure and in the encouraging word about Trąbczyn.",
- "summary_de": "Übersandt wird abschriftlich ein über den Advokaten von Wieckowski eingegangenes Schreiben des Unterpräfekten Brzechsta. Daraus gehe hervor, dass Brzechsta seiner Geschäfte wegen erst am 15. des Monats aus Warschau abreisen werde und dass für die Herrschaft Trąbczyn gute Aussichten bestünden. Der Kreisrat Thiel teilt dies Triebenfeld mit; ein Eingangsvermerk hält den 12. März 1812 fest."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

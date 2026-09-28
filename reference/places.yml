@@ -118,6 +118,7 @@ places:
       - "Zagorow"
       - "Zagórowo"
       - "Zagowo"
+      - "Zagarow"
       - {form: "Jogorowo"}
       - {form: "Zagurowo"}
       - {form: "Lagurowo", match: false,
@@ -162,7 +163,7 @@ places:
     kind: village
     match: 'Kop[oa]yn\w*|Kopojn\w*'
     tier: ""
-    variants: ["Kopoyno"]
+    variants: ["Kopoyno", "Kopoino"]
 
   witow:
     display: "Witów"
@@ -310,9 +311,20 @@ places:
       - {form: "Breſslau"}
       - {form: "Brulau"}
 
+  frankfurt-am-main:
+    display: "Frankfurt am Main"
+    kind: city
+    match: 'Fran[ck]+furth?\s+am\s+M[ae]in|Frankfurt\s+a[/.]\s*[mM](?![a-z])'
+    tier: "Established"
+    variants: []
+    distinct_from: [frankfurt-an-der-oder]
+
   frankfurt-an-der-oder:
     display: "Frankfurt an der Oder"
     kind: city
+    # Frankfurt am Main is named too (1815, and the creditors' table): a form
+    # followed by "am Main" or "a/M" is that city, not this one.
+    match: 'Fran[ck]+furth?(?!h)(?!\s+am\s+M[ae]in|\s+a[/.]\s*[mM](?![a-z]))'
     tier: "Established"
     variants:
       - "Franckfurth"
@@ -336,16 +348,19 @@ places:
   dresden:
     display: "Dresden"
     kind: city
-    match: 'Dre(?:ß|ss)den\w*'
+    match: 'Dre(?:ß|ss|s)den\w*'
     tier: "Established"
     variants: ["Dreßden"]
 
   wien:
     display: "Wien"
     kind: city
+    # Not "Wein": that took wine and Weinachten (Christmas) as mentions of
+    # Vienna. The Wein-for-Wien misreadings in 9454 were corrected in the text.
+    match: 'Wien(?![a-zà-ÿ])'
     tier: "Established"
     variants:
-      - "Wein"
+      - {form: "Wein", match: false}
       - {form: "Wien[?]", match: false}   # a trailing [?] is a ruling, not a spelling
 
   posen:
@@ -383,7 +398,7 @@ places:
   oehringen:
     display: "Öhringen"
     kind: town
-    match: '(?:Ö|Oe)hringen\w*'
+    match: '(?:Ö|Oe|O)hringen\w*'
     tier: "Established"
     variants:
       - "Erhringen"
@@ -401,6 +416,7 @@ places:
       - {form: "Schlawenschutz"}
       - {form: "Schlawenschütz"}
       - {form: "Schlawentzitz"}
+      - "Schlawentschitz"
       - {form: "Schlawinschitz"}
 
   guhrwitz:
@@ -677,7 +693,7 @@ places:
     kind: estate
     match: 'Wieniecz?\w*'
     tier: ""
-    variants: []
+    variants: ["Winniec", "Winnica", "Winicer"]   # Winnica = Wieniec: editor, 2026-09-28
     distinct_from: [wienietz]
     open_questions:
       - "Paired with Wolica every time it occurs, and document 41 has the Bishop
@@ -701,7 +717,7 @@ places:
     # this group and stays its own entity.
     match: 'Swi[eę]ci[aen]\w*'
     tier: ""
-    variants: ["Swięcer", "Swięcin"]
+    variants: ["Swięcer", "Swięcin", "Swięce"]
     distinct_from: [swiechocin]
     open_questions:
       - "Document 7 uses both spellings in one text - the village of Swięcin
@@ -792,6 +808,843 @@ places:
     variants: []
 
 # Fragments that look like a place in a dateline but are not one.
+
+  sachsen:
+    display: "Sachsen"
+    kind: country
+    match: 'Sach(?:ß|ss|s)en(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  krotoszyn:
+    display: "Krotoszyn"
+    kind: estate
+    match: 'Kroto(?:sz|sch|s)[iy]n\w*|Krot\[oschin\]'
+    tier: "Established"
+    variants: ["Krot[oszyn]", "Krot[oszyner]"]
+
+  st-petersburg:
+    display: "St Petersburg"
+    kind: city
+    match: 'Peters?b(?:o)?urg\w*'
+    tier: "Established"
+    variants: []
+
+  bayern:
+    display: "Bayern"
+    kind: country
+    match: 'Ba[iy]er(?:e)?n(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  miedzyrzecz:
+    display: "Meseritz (Międzyrzecz)"
+    kind: town
+    match: 'Me[sz]eritz\w*|Miedzeritz\w*|Mi[eę]dzyrzecz\w*'
+    tier: "Established"
+    variants: []
+
+  wartenberg:
+    display: "Polnisch Wartenberg (Syców)"
+    kind: town
+    match: 'Warte[nm]berg\w*'
+    tier: "Context-inferred"
+    variants: []
+
+  koschentin:
+    display: "Koschentin (Koszęcin)"
+    kind: estate
+    match: 'Kosch(?:entin|enten|äntner)\w*'
+    tier: "Context-inferred"
+    variants: []
+    # The Prince's Upper Silesian estate, offered to Pourtalès in 1815 with Boronow and Cieschowa (9454).
+
+  boronow:
+    display: "Boronow (Boronów)"
+    kind: estate
+    match: 'Boronow\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Part of the Koschentin sale (9454 letter 264).
+
+  cieszowa:
+    display: "Cieschowa (Cieszowa)"
+    kind: estate
+    match: 'Cie(?:sch|sz)ow\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Part of the Koschentin sale (9454 letter 264).
+
+  polajewo:
+    display: "Polajewo"
+    kind: estate
+    match: 'Pola[jg]ew\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Estate in the 1798 exchange with the King, beside Krotoszyn (9454 letters 84-101).
+
+  schweinern:
+    display: "Schweinern (Świniary)"
+    kind: estate
+    match: 'Schweinern\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Triebenfeld's own estate, in the Breslau Oberlandesgericht district (9454 letters 74a, 170, 202).
+
+  kulm:
+    display: "Kulm"
+    kind: estate
+    match: 'Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    # The market town (Marktflecken) Kulm beside Kamionna, Posen district (14525: 'die Stadt Kamionna, nebst dem Marktflecken Kulm'). Kaemen and Kulm are pledged to Meyer Bernhard (9454 letters 284-286). Modern name unsettled.
+
+  oppurg:
+    display: "Oppurg"
+    kind: estate
+    match: 'Oppurg\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Part of the Prince's majorat with Schlawenschitz and Lassowitz (Thuringia).
+
+  lassowitz:
+    display: "Lassowitz"
+    kind: estate
+    match: 'La(?:ss|ß|s)owitz\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Part of the Prince's majorat with Schlawenschitz and Oppurg (Silesia).
+
+  bischdorf:
+    display: "Bischdorf"
+    kind: estate
+    match: 'Bischdorff?\w*'
+    tier: "Context-inferred"
+    variants: []
+    # In the 1809 exchange plans with Mollna (9454 letters 5, 64).
+
+  mollna:
+    display: "Mollna"
+    kind: estate
+    match: 'Mollna(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    # In the 1809 exchange plans with Bischdorf (9454 letter 64).
+
+  schurgast:
+    display: "Schurgast (Skorogoszcz)"
+    kind: estate
+    match: 'Schurgast\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Wartensleben's estate (9454 letters 218, 220).
+
+  sokolnik:
+    display: "Amt Sokolnik"
+    kind: estate
+    match: 'Sokolnik\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Prussian domain proposed as compensation for Trąbczyn, 1815 (9454 letters 6, 288).
+
+  klunowo:
+    display: "Klunowo"
+    kind: estate
+    match: 'Klunowo'
+    tier: "Context-inferred"
+    variants: []
+    # Named with Amt Sokolnik as compensation (9454 letter 288).
+
+  wieruszow:
+    display: "Wieruszów"
+    kind: town
+    match: 'Wieruszow\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Near Amt Sokolnik (9454 letters 6, 288).
+
+  augustinow:
+    display: "Augustinow"
+    kind: settlement
+    match: 'Augustinow\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Colonists' settlement on the Prince's Polish estates (9454 letter 47).
+
+  kempen:
+    display: "Kempen (Kępno)"
+    kind: town
+    match: 'Kempen(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    # 
+
+  slupca:
+    display: "Słupca"
+    kind: town
+    match: 'S[łl]upca'
+    tier: "Context-inferred"
+    variants: []
+    # 
+
+  gostyszyn:
+    display: "Gostyszyn"
+    kind: village
+    match: 'Gostyszyn'
+    tier: "Context-inferred"
+    variants: []
+    # A mile from Kalisz on the Kempen road (9454 letter 298).
+
+  miedzibor:
+    display: "Medzibor (Międzybórz)"
+    kind: town
+    match: 'Miedzibor\w*'
+    tier: "Context-inferred"
+    variants: []
+    # 
+
+  ingelfingen:
+    display: "Ingelfingen"
+    kind: town
+    match: 'Ingelfing\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Seat of the Prince's line, Hohenlohe-Ingelfingen.
+
+  kirchberg:
+    display: "Kirchberg"
+    kind: town
+    match: 'Kirchberg(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    # Seat of Hohenlohe-Kirchberg.
+
+  langenburg:
+    display: "Langenburg"
+    kind: town
+    match: 'Langenburg\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Seat of Hohenlohe-Langenburg.
+
+  neuenstein:
+    display: "Neuenstein"
+    kind: town
+    match: 'Neuenstein\w*'
+    tier: "Context-inferred"
+    variants: []
+    # Hohenlohe principality named with Öhringen and Ingelfingen.
+
+  warschau:
+    display: "Warschau"
+    kind: city
+    match: 'Warschau\w*'
+    tier: "Established"
+    variants: []
+
+  paris:
+    display: "Paris"
+    kind: city
+    match: 'Paris(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  neisse:
+    display: "Neisse (Nysa)"
+    kind: town
+    match: 'Neisse(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  potsdam:
+    display: "Potsdam"
+    kind: city
+    match: 'Potsdam\w*'
+    tier: "Established"
+    variants: []
+
+  prag:
+    display: "Prag"
+    kind: city
+    match: 'Prag(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  cosel:
+    display: "Cosel (Koźle)"
+    kind: town
+    match: 'Cosel(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  glogau:
+    display: "Glogau (Głogów)"
+    kind: town
+    match: 'Glogau\w*'
+    tier: "Established"
+    variants: []
+
+  erfurt:
+    display: "Erfurt"
+    kind: city
+    match: 'Erfurth?(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  kassel:
+    display: "Kassel"
+    kind: city
+    match: '[CK]assel(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  karlsruhe:
+    display: "Karlsruhe"
+    kind: city
+    match: '[CK]arlsruhe'
+    tier: "Established"
+    variants: []
+
+  pressburg:
+    display: "Pressburg (Bratislava)"
+    kind: city
+    match: 'Pre(?:ss|ß|s)burg'
+    tier: "Established"
+    variants: []
+
+  havelberg:
+    display: "Havelberg"
+    kind: town
+    match: 'Havelberg'
+    tier: "Established"
+    variants: []
+
+  boyadel:
+    display: "Boyadel (Bojadła)"
+    kind: village
+    match: 'Boyadel\w*'
+    tier: "Established"
+    variants: []
+
+  grueneberg:
+    display: "Grüneberg (Zielona Góra)"
+    kind: town
+    match: 'Grüneberg\w*'
+    tier: "Established"
+    variants: []
+
+  neusatz:
+    display: "Neusatz"
+    kind: town
+    match: 'Neusatz'
+    tier: "Established"
+    variants: []
+
+  strelitz:
+    display: "Strelitz"
+    kind: town
+    match: 'Stre(?:h)?litz(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  frankenstein:
+    display: "Frankenstein (Ząbkowice Śląskie)"
+    kind: town
+    match: 'Fran[ck]+enstein'
+    tier: "Established"
+    variants: []
+
+  ujest:
+    display: "Ujest (Ujazd)"
+    kind: town
+    match: 'Ujest'
+    tier: "Established"
+    variants: []
+
+  crossen:
+    display: "Crossen (Krosno Odrzańskie)"
+    kind: town
+    match: 'Crossen'
+    tier: "Established"
+    variants: []
+
+  suedpreussen:
+    display: "Südpreußen"
+    kind: region
+    match: 'S(?:ü|ue)d[\s=-]?[Pp]reu(?:ß|ss|s)en(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  schlesien:
+    display: "Schlesien"
+    kind: region
+    match: 'Schlesien(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  frankreich:
+    display: "Frankreich"
+    kind: country
+    match: 'Frankreich\w*'
+    tier: "Established"
+    variants: []
+
+  holland:
+    display: "Holland"
+    kind: country
+    match: 'Holland(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  italien:
+    display: "Italien"
+    kind: country
+    match: 'Italien(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  pommern:
+    display: "Pommern"
+    kind: region
+    match: 'Pommern(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  boehmen:
+    display: "Böhmen"
+    kind: region
+    match: 'Böhmen(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  russland:
+    display: "Russland"
+    kind: country
+    match: 'Ru(?:ß|ss)land\w*'
+    tier: "Established"
+    variants: []
+
+  wuerttemberg:
+    display: "Württemberg"
+    kind: country
+    match: 'W(?:ü|u)rt[e]?mberg\w*|W(?:ü|u)rtemberg\w*'
+    tier: "Established"
+    variants: []
+
+  teutschland:
+    display: "Deutschland"
+    kind: country
+    match: '[TD]eut[sſ]chland\w*'
+    tier: "Established"
+    variants: []
+
+  ungarn:
+    display: "Ungarn"
+    kind: country
+    match: 'Ungarn(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  memel:
+    display: "Memel"
+    kind: town
+    match: 'Memel(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  stettin:
+    display: "Stettin"
+    kind: city
+    match: 'Stettin(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  magdeburg:
+    display: "Magdeburg"
+    kind: city
+    match: '(?<=zu )Magdeburg|(?<=nach )Magdeburg|(?<=von )Magdeburg|(?<=in )Magdeburg|(?<=bis )Magdeburg'
+    # Not bare: the deeds measure land in 'Hufe Magdeburg(isch)', the Magdeburg hide.
+    tier: "Established"
+    variants: []
+
+  glatz:
+    display: "Glatz (Kłodzko)"
+    kind: town
+    match: 'Glatz(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  oppeln:
+    display: "Oppeln (Opole)"
+    kind: town
+    match: 'Oppeln(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  liegnitz:
+    display: "Liegnitz (Legnica)"
+    kind: town
+    match: 'Liegnitz\w*'
+    tier: "Established"
+    variants: []
+
+  toulon:
+    display: "Toulon"
+    kind: city
+    match: 'Toulon'
+    tier: "Established"
+    variants: []
+
+  lyon:
+    display: "Lyon"
+    kind: city
+    match: 'Lion(?![a-zà-ÿ])|Lyon(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  grenoble:
+    display: "Grenoble"
+    kind: city
+    match: 'Grenoble'
+    tier: "Established"
+    variants: []
+
+  lille:
+    display: "Lille"
+    kind: city
+    match: 'Lille'
+    tier: "Established"
+    variants: []
+
+  antibes:
+    display: "Antibes"
+    kind: town
+    match: 'Antibes'
+    tier: "Established"
+    variants: []
+
+  melun:
+    display: "Melun"
+    kind: town
+    match: 'Melun'
+    tier: "Established"
+    variants: []
+
+  neuchatel:
+    display: "Neuchâtel"
+    kind: town
+    match: 'Neu[fc]?chatel'
+    tier: "Established"
+    variants: []
+
+  coblenz:
+    display: "Koblenz"
+    kind: city
+    match: 'Coblenz'
+    tier: "Established"
+    variants: []
+
+  embden:
+    display: "Emden"
+    kind: town
+    match: 'Embden'
+    tier: "Established"
+    variants: []
+
+  jena:
+    display: "Jena"
+    kind: town
+    match: 'Jena(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  weimar:
+    display: "Weimar"
+    kind: town
+    match: 'Weimar(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  naumburg:
+    display: "Naumburg"
+    kind: town
+    match: 'Naumburg'
+    tier: "Established"
+    variants: []
+
+  altenburg:
+    display: "Altenburg"
+    kind: town
+    match: 'Altenburg'
+    tier: "Established"
+    variants: []
+
+  heilbronn:
+    display: "Heilbronn"
+    kind: city
+    match: 'Heilbronn'
+    tier: "Established"
+    variants: []
+
+  heidelberg:
+    display: "Heidelberg"
+    kind: city
+    match: 'Heidelb[eu]rg'
+    tier: "Established"
+    variants: []
+
+  bayreuth:
+    display: "Bayreuth"
+    kind: town
+    match: 'Bayreuth'
+    tier: "Established"
+    variants: []
+
+  ansbach:
+    display: "Ansbach"
+    kind: town
+    match: 'An[sß]bach(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  baden:
+    display: "Baden"
+    kind: country
+    match: '(?<=von )Baden|(?<=nach )Baden'
+    tier: "Established"
+    variants: []
+
+  bruenn:
+    display: "Brünn (Brno)"
+    kind: city
+    match: 'Brünn'
+    tier: "Established"
+    variants: []
+
+  ofen:
+    display: "Ofen (Buda)"
+    kind: city
+    match: '(?<=nach )Ofen'
+    tier: "Established"
+    variants: []
+
+  graz:
+    display: "Graz"
+    kind: city
+    match: 'Gratz(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  bologna:
+    display: "Bologna"
+    kind: city
+    match: 'Boulonga|Bologna'
+    tier: "Established"
+    variants: []
+
+  charlottenburg:
+    display: "Charlottenburg"
+    kind: town
+    match: 'Charlottenb(?:o)?urg'
+    tier: "Established"
+    variants: []
+
+  czestochowa:
+    display: "Czenstochau (Częstochowa)"
+    kind: town
+    match: 'Czenstochau'
+    tier: "Established"
+    variants: []
+
+  brzesc:
+    display: "Brześć"
+    kind: town
+    match: 'Brzesc'
+    tier: "Established"
+    variants: []
+
+  kiew:
+    display: "Kiew"
+    kind: city
+    match: 'Kijow'
+    tier: "Established"
+    variants: []
+
+  mecklenburg:
+    display: "Mecklenburg"
+    kind: region
+    match: 'Mecklenburg\w*'
+    tier: "Established"
+    variants: []
+
+  sagan:
+    display: "Sagan (Żagań)"
+    kind: town
+    match: 'Sagan(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  karge:
+    display: "Karge (Kargowa)"
+    kind: town
+    match: 'Karge(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  unruhstadt:
+    display: "Unruhstadt"
+    kind: town
+    match: 'Unruh[sſ]tadt?'
+    tier: "Established"
+    variants: []
+
+  neusalz:
+    display: "Neusalz"
+    kind: town
+    match: 'Neusalz'
+    tier: "Established"
+    variants: []
+
+  neustadt:
+    display: "Neustadt"
+    kind: town
+    match: 'Neustadt?(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  leobschuetz:
+    display: "Leobschütz (Głubczyce)"
+    kind: town
+    match: 'Leobschütz'
+    tier: "Established"
+    variants: []
+
+  luebliniz:
+    display: "Lublinitz (Lubliniec)"
+    kind: town
+    match: 'Lüblinitz|Lublinitz'
+    tier: "Established"
+    variants: []
+
+  ladek:
+    display: "Lądek"
+    kind: town
+    match: 'L[ąa]dek'
+    tier: "Established"
+    variants: []
+
+  myslowice:
+    display: "Mysłowice"
+    kind: town
+    match: 'Mys[łl]owic\w*'
+    tier: "Established"
+    variants: []
+
+  ostrow:
+    display: "Ostrów"
+    kind: town
+    match: 'Ostrow(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  lenschitz:
+    display: "Lenschitz (Łęczyca)"
+    kind: town
+    match: 'Lenschitz'
+    tier: "Established"
+    variants: []
+
+  wielun:
+    display: "Wieluń"
+    kind: town
+    match: 'Vielun|Wielun'
+    tier: "Established"
+    variants: []
+
+  welna:
+    display: "Welna"
+    kind: river
+    match: 'Welna'
+    tier: "Established"
+    variants: []
+
+  ruschinowitz:
+    display: "Ruschinowitz (Rusinowice)"
+    kind: estate
+    match: 'Ru(?:sch|z)[iy]nowi(?:tz|ce)\w*|Ruszyno'
+    tier: "Established"
+    variants: []
+
+  konstadt:
+    display: "Konstadt (Wołczyn)"
+    kind: town
+    match: '[CK]onstadt?\w*'
+    tier: "Established"
+    variants: []
+
+  przybyslaw:
+    display: "Przybysław"
+    kind: village
+    match: 'Przybislaw'
+    tier: "Established"
+    variants: []
+
+  gola:
+    display: "Goła Wieś"
+    kind: village
+    match: 'Go[łl]a wies|Gollawia'
+    tier: "Established"
+    variants: []
+
+  wilhelmsruh:
+    display: "Wilhelmsruh"
+    kind: estate
+    match: 'Wilhelmsruhe?'
+    tier: "Established"
+    variants: []
+
+  lohsen:
+    display: "Lohsen"
+    kind: village
+    match: 'Lohsen'
+    tier: "Established"
+    variants: []
+
+  petersdorff:
+    display: "Petersdorf"
+    kind: village
+    match: 'Petersdorff?'
+    tier: "Established"
+    variants: []
+
+  toplitz:
+    display: "Teplitz"
+    kind: town
+    match: 'Toplitz|Teplitz'
+    tier: "Established"
+    variants: []
+
+  weissenfels:
+    display: "Weißenfels"
+    kind: town
+    match: 'Weissenfel[ds]'
+    tier: "Established"
+    variants: []
+
+  fuerth:
+    display: "Fürth"
+    kind: town
+    match: 'Fürth(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
+  ulm:
+    display: "Ulm"
+    kind: city
+    match: 'Ulm(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: []
+
 reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn",
          "so bekomme ich", "thl. 13", "uria", "wun",
          "übrigens sorgen sie ja daß f"]

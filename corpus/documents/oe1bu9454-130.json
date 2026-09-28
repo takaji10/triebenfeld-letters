@@ -1,6 +1,6 @@
 {
  "letter_id": "130",
- "seq_archival": 142,
+ "seq_archival": 141,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-130",
@@ -17,62 +17,67 @@
  "year": 1804,
  "month": 5,
  "day": 17,
- "place": "Frankfurt an der Oder",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 9306,
+ "place": "Fr[ankfurt] a. d. Oder",
+ "sender": "",
+ "recipient": "",
+ "line_start": 9305,
  "line_end": 9344,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "betsche",
+  "kamionno"
+ ],
  "is_missing": 0,
- "n_lines": 38,
+ "n_lines": 37,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürſt\nGnädigster Fürst und Herr\nVor etwan 2 Stunden bey ich hier angekommen und hörte zu\nmeinem Verdrus daß Glenck nach vielen gereiset, auch daß\nLeixner abwesend war und erst heut erwartet wird.\nIn allen aber ist leider noch nichts geschehen, und wie\nich sehe traut einer den Andern nicht\nJedes habe ich mit M Bernhard das Abkommen getroffen\n\" daß ich die Betrchnen Sache zu Stande bringen\nsoll, daß die Güter auf Ewr Durch Nähmen\nbleiben - daß als den Leixner Kaemen nehmen\nwill und daß dies entweder auf Ewr Durchlaucht\noder auf meinen Nahmen stehen bleiben soll\nden wie ich gesagt, so ist es geschehen, - Leixner\nist im Gedränge. Er darauf sich nicht weiter\num das Incolat bewerben. Gr Schulemburg\nist ihm auf dem Dache gerathen - Inzwischen\n\nist er zu frieden, wo ich ihm meinen Nahmen borgen\nIch habe also eine Estaffetie hinter Gleich hergeschickt\ndamit er den Sonnabend wieder hier ist, ich gehe\nheute nach Berlin horchen dorten alles aus- und\nwan ich Sonnabend zurück kommen mache ich hier\nalles ab, gehe von hier nach Bersch ende mit\nHülfe des Himmels dort auch alles und eile\nals dann zu Ewr Durchlaucht\ndem länger in der Ungewisheit lebe wäre,\nhöllen quaal - ich weis nicht was Glenck denke\nJohann ist ja gar zu nahe\nDie Post will abgehen von Berlin ein mehreres\nzu tiefsten Respect ersterben ich als\nEwr Hochfürstliche Durchlaucht\nFr a. d. Oder\nden 17ten May\n1804.\ntreu gehorsamster Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürſt\n\nGnädigster Fürst und Herr Vor etwan 2 Stunden bey ich hier angekommen und hörte zu meinem Verdrus daß Glenck nach vielen gereiset, auch daß Leixner abwesend war und erst heut erwartet wird. In allen aber ist leider noch nichts geschehen, und wie ich sehe traut einer den Andern nicht Jedes habe ich mit M Bernhard das Abkommen getroffen \" daß ich die Betrchnen Sache zu Stande bringen soll, daß die Güter auf Ewr Durch Nähmen bleiben - daß als den Leixner Kaemen nehmen will und daß dies entweder auf Ewr Durchlaucht oder auf meinen Nahmen stehen bleiben soll den wie ich gesagt, so ist es geschehen, - Leixner ist im Gedränge. Er darauf sich nicht weiter um das Incolat bewerben. Gr Schulemburg ist ihm auf dem Dache gerathen - Inzwischen\n\nist er zu frieden, wo ich ihm meinen Nahmen borgen Ich habe also eine Estaffetie hinter Gleich hergeschickt damit er den Sonnabend wieder hier ist, ich gehe heute nach Berlin horchen dorten alles aus- und wan ich Sonnabend zurück kommen mache ich hier alles ab, gehe von hier nach Bersch ende mit Hülfe des Himmels dort auch alles und eile als dann zu Ewr Durchlaucht dem länger in der Ungewisheit lebe wäre, höllen quaal - ich weis nicht was Glenck denke Johann ist ja gar zu nahe Die Post will abgehen von Berlin ein mehreres zu tiefsten Respect ersterben ich als Ewr Hochfürstliche Durchlaucht Fr a. d. Oder\n\nden 17ten May\n\n1804.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+ "text": "130\nDurchlauchtigster Fürſt\nGnädigster Fürst und Herr\nVor etwan 2 Stunden bey ich hier angekommen und hörte zu\nmann, Verdrus daß Glenck nach vielen gereiset, auch daß\nLeixner abwesend war und erst heut erwartet wird.\nIn allen aber ist leider noch nichts geschehen, und wie\nich sehe traut einer den Andern nicht.\nIndes habe ich mit M Bernhard das Abkommen getroffen\n\" daß ich die Betscher Sache zu Stande bringen\nsoll, daß die Güter auf Ewr Durch Nähmen\nbleiben - daß als den Leixner Kaemen nehmen\nwill und daß dies entweder auf Ewr Durchlaucht\noder auf meinen Nahmen stehen bleiben soll\nden wie ich gesagt, so ist es geschehen, - Leixner\nist im Gedränge. Er darauf sich nicht weiter\num das Incolat bewerben. Gr Schulemburg\nist ihm auf dem Dache gerathen - Inzwischen\nist er zu frieden, wo ich ihm meinen Nahmen borgen\nIch habe also eine Estaffette hinter Glenck hergeschickt\ndamit er den Sonnabend wieder hier ist, ich gehe\nheute nach Berlin horchen dorten alles aus- und\nwan ich Sonnabend zurück kommen mache ich hier\nalles ab, gehe von hier nach Betsche ende mit\nHülfe des Himmels dort auch alles und eile\nals dann zu Ewr Durchlaucht\ndem länger in der Ungewisheit lebe wäre,\nhöllen quaal - ich weis nicht was Glenck denke\nJohanni ist ja gar zu nahe -\nDie Post will abgehen von Berlin ein mehreres\nIn tiefsten Respect ersterben ich als\nEwr Hochfürstliche Durchlaucht\nFr[ankfurt] a. d. Oder\nden 17ten May\n1804.\ntreu gehorsamster Dein\nv Triebenfeld",
+ "text_reading": "130\n\nDurchlauchtigster Fürſt\n\nGnädigster Fürst und Herr Vor etwan 2 Stunden bey ich hier angekommen und hörte zu mann, Verdrus daß Glenck nach vielen gereiset, auch daß Leixner abwesend war und erst heut erwartet wird. In allen aber ist leider noch nichts geschehen, und wie ich sehe traut einer den Andern nicht. Indes habe ich mit M Bernhard das Abkommen getroffen \" daß ich die Betscher Sache zu Stande bringen soll, daß die Güter auf Ewr Durch Nähmen bleiben - daß als den Leixner Kaemen nehmen will und daß dies entweder auf Ewr Durchlaucht oder auf meinen Nahmen stehen bleiben soll den wie ich gesagt, so ist es geschehen, - Leixner ist im Gedränge. Er darauf sich nicht weiter um das Incolat bewerben. Gr Schulemburg ist ihm auf dem Dache gerathen - Inzwischen\n\nist er zu frieden, wo ich ihm meinen Nahmen borgen Ich habe also eine Estaffette hinter Glenck hergeschickt damit er den Sonnabend wieder hier ist, ich gehe heute nach Berlin horchen dorten alles aus- und wan ich Sonnabend zurück kommen mache ich hier alles ab, gehe von hier nach Betsche ende mit Hülfe des Himmels dort auch alles und eile als dann zu Ewr Durchlaucht dem länger in der Ungewisheit lebe wäre, höllen quaal - ich weis nicht was Glenck denke Johanni ist ja gar zu nahe - Die Post will abgehen von Berlin ein mehreres In tiefsten Respect ersterben ich als Ewr Hochfürstliche Durchlaucht Fr[ankfurt] a. d. Oder\n\nden 17ten May\n\n1804.\n\ntreu gehorsamster Dein\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "line_start": 9307,
-   "line_end": 9323,
-   "n_lines": 17,
-   "diplomatic": "Durchlauchtigster Fürſt\nGnädigster Fürst und Herr\nVor etwan 2 Stunden bey ich hier angekommen und hörte zu\nmeinem Verdrus daß Glenck nach vielen gereiset, auch daß\nLeixner abwesend war und erst heut erwartet wird.\nIn allen aber ist leider noch nichts geschehen, und wie\nich sehe traut einer den Andern nicht\nJedes habe ich mit M Bernhard das Abkommen getroffen\n\" daß ich die Betrchnen Sache zu Stande bringen\nsoll, daß die Güter auf Ewr Durch Nähmen\nbleiben - daß als den Leixner Kaemen nehmen\nwill und daß dies entweder auf Ewr Durchlaucht\noder auf meinen Nahmen stehen bleiben soll\nden wie ich gesagt, so ist es geschehen, - Leixner\nist im Gedränge. Er darauf sich nicht weiter\num das Incolat bewerben. Gr Schulemburg\nist ihm auf dem Dache gerathen - Inzwischen",
-   "transcription": "Durchlauchtigster Fürſt\nGnädigster Fürst und Herr\nVor etwan 2 Stunden bey ich hier angekommen und hörte zu\nmeinem Verdrus daß Glenck nach vielen gereiset, auch daß\nLeixner abwesend war und erst heut erwartet wird.\nIn allen aber ist leider noch nichts geschehen, und wie\nich sehe traut einer den Andern nicht\nJedes habe ich mit M Bernhard das Abkommen getroffen\n\" daß ich die Betrchnen Sache zu Stande bringen\nsoll, daß die Güter auf Ewr Durch Nähmen\nbleiben - daß als den Leixner Kaemen nehmen\nwill und daß dies entweder auf Ewr Durchlaucht\noder auf meinen Nahmen stehen bleiben soll\nden wie ich gesagt, so ist es geschehen, - Leixner\nist im Gedränge. Er darauf sich nicht weiter\num das Incolat bewerben. Gr Schulemburg\nist ihm auf dem Dache gerathen - Inzwischen",
-   "reading": "Durchlauchtigster Fürſt\n\nGnädigster Fürst und Herr Vor etwan 2 Stunden bey ich hier angekommen und hörte zu meinem Verdrus daß Glenck nach vielen gereiset, auch daß Leixner abwesend war und erst heut erwartet wird. In allen aber ist leider noch nichts geschehen, und wie ich sehe traut einer den Andern nicht Jedes habe ich mit M Bernhard das Abkommen getroffen \" daß ich die Betrchnen Sache zu Stande bringen soll, daß die Güter auf Ewr Durch Nähmen bleiben - daß als den Leixner Kaemen nehmen will und daß dies entweder auf Ewr Durchlaucht oder auf meinen Nahmen stehen bleiben soll den wie ich gesagt, so ist es geschehen, - Leixner ist im Gedränge. Er darauf sich nicht weiter um das Incolat bewerben. Gr Schulemburg ist ihm auf dem Dache gerathen - Inzwischen",
+   "line_end": 9324,
+   "n_lines": 18,
+   "diplomatic": "130\nDurchlauchtigster Fürſt\nGnädigster Fürst und Herr\nVor etwan 2 Stunden bey ich hier angekommen und hörte zu\nmann, Verdrus daß Glenck nach vielen gereiset, auch daß\nLeixner abwesend war und erst heut erwartet wird.\nIn allen aber ist leider noch nichts geschehen, und wie\nich sehe traut einer den Andern nicht.\nIndes habe ich mit M Bernhard das Abkommen getroffen\n\" daß ich die Betscher Sache zu Stande bringen\nsoll, daß die Güter auf Ewr Durch Nähmen\nbleiben - daß als den Leixner Kaemen nehmen\nwill und daß dies entweder auf Ewr Durchlaucht\noder auf meinen Nahmen stehen bleiben soll\nden wie ich gesagt, so ist es geschehen, - Leixner\nist im Gedränge. Er darauf sich nicht weiter\num das Incolat bewerben. Gr Schulemburg\nist ihm auf dem Dache gerathen - Inzwischen",
+   "transcription": "130\nDurchlauchtigster Fürſt\nGnädigster Fürst und Herr\nVor etwan 2 Stunden bey ich hier angekommen und hörte zu\nmann, Verdrus daß Glenck nach vielen gereiset, auch daß\nLeixner abwesend war und erst heut erwartet wird.\nIn allen aber ist leider noch nichts geschehen, und wie\nich sehe traut einer den Andern nicht.\nIndes habe ich mit M Bernhard das Abkommen getroffen\n\" daß ich die Betscher Sache zu Stande bringen\nsoll, daß die Güter auf Ewr Durch Nähmen\nbleiben - daß als den Leixner Kaemen nehmen\nwill und daß dies entweder auf Ewr Durchlaucht\noder auf meinen Nahmen stehen bleiben soll\nden wie ich gesagt, so ist es geschehen, - Leixner\nist im Gedränge. Er darauf sich nicht weiter\num das Incolat bewerben. Gr Schulemburg\nist ihm auf dem Dache gerathen - Inzwischen",
+   "reading": "130\n\nDurchlauchtigster Fürſt\n\nGnädigster Fürst und Herr Vor etwan 2 Stunden bey ich hier angekommen und hörte zu mann, Verdrus daß Glenck nach vielen gereiset, auch daß Leixner abwesend war und erst heut erwartet wird. In allen aber ist leider noch nichts geschehen, und wie ich sehe traut einer den Andern nicht. Indes habe ich mit M Bernhard das Abkommen getroffen \" daß ich die Betscher Sache zu Stande bringen soll, daß die Güter auf Ewr Durch Nähmen bleiben - daß als den Leixner Kaemen nehmen will und daß dies entweder auf Ewr Durchlaucht oder auf meinen Nahmen stehen bleiben soll den wie ich gesagt, so ist es geschehen, - Leixner ist im Gedränge. Er darauf sich nicht weiter um das Incolat bewerben. Gr Schulemburg ist ihm auf dem Dache gerathen - Inzwischen",
    "paragraphs": [
+    "130",
     "Durchlauchtigster Fürſt",
-    "Gnädigster Fürst und Herr Vor etwan 2 Stunden bey ich hier angekommen und hörte zu meinem Verdrus daß Glenck nach vielen gereiset, auch daß Leixner abwesend war und erst heut erwartet wird. In allen aber ist leider noch nichts geschehen, und wie ich sehe traut einer den Andern nicht Jedes habe ich mit M Bernhard das Abkommen getroffen \" daß ich die Betrchnen Sache zu Stande bringen soll, daß die Güter auf Ewr Durch Nähmen bleiben - daß als den Leixner Kaemen nehmen will und daß dies entweder auf Ewr Durchlaucht oder auf meinen Nahmen stehen bleiben soll den wie ich gesagt, so ist es geschehen, - Leixner ist im Gedränge. Er darauf sich nicht weiter um das Incolat bewerben. Gr Schulemburg ist ihm auf dem Dache gerathen - Inzwischen"
+    "Gnädigster Fürst und Herr Vor etwan 2 Stunden bey ich hier angekommen und hörte zu mann, Verdrus daß Glenck nach vielen gereiset, auch daß Leixner abwesend war und erst heut erwartet wird. In allen aber ist leider noch nichts geschehen, und wie ich sehe traut einer den Andern nicht. Indes habe ich mit M Bernhard das Abkommen getroffen \" daß ich die Betscher Sache zu Stande bringen soll, daß die Güter auf Ewr Durch Nähmen bleiben - daß als den Leixner Kaemen nehmen will und daß dies entweder auf Ewr Durchlaucht oder auf meinen Nahmen stehen bleiben soll den wie ich gesagt, so ist es geschehen, - Leixner ist im Gedränge. Er darauf sich nicht weiter um das Incolat bewerben. Gr Schulemburg ist ihm auf dem Dache gerathen - Inzwischen"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 18
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 9325,
-   "line_end": 9343,
+   "page_id": "0250_a1",
+   "line_start": 9326,
+   "line_end": 9344,
    "n_lines": 19,
-   "diplomatic": "ist er zu frieden, wo ich ihm meinen Nahmen borgen\nIch habe also eine Estaffetie hinter Gleich hergeschickt\ndamit er den Sonnabend wieder hier ist, ich gehe\nheute nach Berlin horchen dorten alles aus- und\nwan ich Sonnabend zurück kommen mache ich hier\nalles ab, gehe von hier nach Bersch ende mit\nHülfe des Himmels dort auch alles und eile\nals dann zu Ewr Durchlaucht\ndem länger in der Ungewisheit lebe wäre,\nhöllen quaal - ich weis nicht was Glenck denke\nJohann ist ja gar zu nahe\nDie Post will abgehen von Berlin ein mehreres\nzu tiefsten Respect ersterben ich als\nEwr Hochfürstliche Durchlaucht\nFr a. d. Oder\nden 17ten May\n1804.\ntreu gehorsamster Diener\nv Triebenfeld",
-   "transcription": "ist er zu frieden, wo ich ihm meinen Nahmen borgen\nIch habe also eine Estaffetie hinter Gleich hergeschickt\ndamit er den Sonnabend wieder hier ist, ich gehe\nheute nach Berlin horchen dorten alles aus- und\nwan ich Sonnabend zurück kommen mache ich hier\nalles ab, gehe von hier nach Bersch ende mit\nHülfe des Himmels dort auch alles und eile\nals dann zu Ewr Durchlaucht\ndem länger in der Ungewisheit lebe wäre,\nhöllen quaal - ich weis nicht was Glenck denke\nJohann ist ja gar zu nahe\nDie Post will abgehen von Berlin ein mehreres\nzu tiefsten Respect ersterben ich als\nEwr Hochfürstliche Durchlaucht\nFr a. d. Oder\nden 17ten May\n1804.\ntreu gehorsamster Diener\nv Triebenfeld",
-   "reading": "ist er zu frieden, wo ich ihm meinen Nahmen borgen Ich habe also eine Estaffetie hinter Gleich hergeschickt damit er den Sonnabend wieder hier ist, ich gehe heute nach Berlin horchen dorten alles aus- und wan ich Sonnabend zurück kommen mache ich hier alles ab, gehe von hier nach Bersch ende mit Hülfe des Himmels dort auch alles und eile als dann zu Ewr Durchlaucht dem länger in der Ungewisheit lebe wäre, höllen quaal - ich weis nicht was Glenck denke Johann ist ja gar zu nahe Die Post will abgehen von Berlin ein mehreres zu tiefsten Respect ersterben ich als Ewr Hochfürstliche Durchlaucht Fr a. d. Oder\n\nden 17ten May\n\n1804.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+   "diplomatic": "ist er zu frieden, wo ich ihm meinen Nahmen borgen\nIch habe also eine Estaffette hinter Glenck hergeschickt\ndamit er den Sonnabend wieder hier ist, ich gehe\nheute nach Berlin horchen dorten alles aus- und\nwan ich Sonnabend zurück kommen mache ich hier\nalles ab, gehe von hier nach Betsche ende mit\nHülfe des Himmels dort auch alles und eile\nals dann zu Ewr Durchlaucht\ndem länger in der Ungewisheit lebe wäre,\nhöllen quaal - ich weis nicht was Glenck denke\nJohanni ist ja gar zu nahe -\nDie Post will abgehen von Berlin ein mehreres\nIn tiefsten Respect ersterben ich als\nEwr Hochfürstliche Durchlaucht\nFr[ankfurt] a. d. Oder\nden 17ten May\n1804.\ntreu gehorsamster Dein\nv Triebenfeld",
+   "transcription": "ist er zu frieden, wo ich ihm meinen Nahmen borgen\nIch habe also eine Estaffette hinter Glenck hergeschickt\ndamit er den Sonnabend wieder hier ist, ich gehe\nheute nach Berlin horchen dorten alles aus- und\nwan ich Sonnabend zurück kommen mache ich hier\nalles ab, gehe von hier nach Betsche ende mit\nHülfe des Himmels dort auch alles und eile\nals dann zu Ewr Durchlaucht\ndem länger in der Ungewisheit lebe wäre,\nhöllen quaal - ich weis nicht was Glenck denke\nJohanni ist ja gar zu nahe -\nDie Post will abgehen von Berlin ein mehreres\nIn tiefsten Respect ersterben ich als\nEwr Hochfürstliche Durchlaucht\nFr[ankfurt] a. d. Oder\nden 17ten May\n1804.\ntreu gehorsamster Dein\nv Triebenfeld",
+   "reading": "ist er zu frieden, wo ich ihm meinen Nahmen borgen Ich habe also eine Estaffette hinter Glenck hergeschickt damit er den Sonnabend wieder hier ist, ich gehe heute nach Berlin horchen dorten alles aus- und wan ich Sonnabend zurück kommen mache ich hier alles ab, gehe von hier nach Betsche ende mit Hülfe des Himmels dort auch alles und eile als dann zu Ewr Durchlaucht dem länger in der Ungewisheit lebe wäre, höllen quaal - ich weis nicht was Glenck denke Johanni ist ja gar zu nahe - Die Post will abgehen von Berlin ein mehreres In tiefsten Respect ersterben ich als Ewr Hochfürstliche Durchlaucht Fr[ankfurt] a. d. Oder\n\nden 17ten May\n\n1804.\n\ntreu gehorsamster Dein\n\nv Triebenfeld",
    "paragraphs": [
-    "ist er zu frieden, wo ich ihm meinen Nahmen borgen Ich habe also eine Estaffetie hinter Gleich hergeschickt damit er den Sonnabend wieder hier ist, ich gehe heute nach Berlin horchen dorten alles aus- und wan ich Sonnabend zurück kommen mache ich hier alles ab, gehe von hier nach Bersch ende mit Hülfe des Himmels dort auch alles und eile als dann zu Ewr Durchlaucht dem länger in der Ungewisheit lebe wäre, höllen quaal - ich weis nicht was Glenck denke Johann ist ja gar zu nahe Die Post will abgehen von Berlin ein mehreres zu tiefsten Respect ersterben ich als Ewr Hochfürstliche Durchlaucht Fr a. d. Oder",
+    "ist er zu frieden, wo ich ihm meinen Nahmen borgen Ich habe also eine Estaffette hinter Glenck hergeschickt damit er den Sonnabend wieder hier ist, ich gehe heute nach Berlin horchen dorten alles aus- und wan ich Sonnabend zurück kommen mache ich hier alles ab, gehe von hier nach Betsche ende mit Hülfe des Himmels dort auch alles und eile als dann zu Ewr Durchlaucht dem länger in der Ungewisheit lebe wäre, höllen quaal - ich weis nicht was Glenck denke Johanni ist ja gar zu nahe - Die Post will abgehen von Berlin ein mehreres In tiefsten Respect ersterben ich als Ewr Hochfürstliche Durchlaucht Fr[ankfurt] a. d. Oder",
     "den 17ten May",
     "1804.",
-    "treu gehorsamster Diener",
+    "treu gehorsamster Dein",
     "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
-   "doc_line_start": 18,
-   "doc_line_end": 36
+   "doc_line_start": 19,
+   "doc_line_end": 37
   }
  ],
  "mentions": [
@@ -82,10 +87,10 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9310,
-   "doc_line": 4
+   "line": 9311,
+   "doc_line": 5
   },
   {
    "entity": "leixner",
@@ -93,10 +98,10 @@
    "kind": "person",
    "surface": "Leixner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9311,
-   "doc_line": 5
+   "line": 9312,
+   "doc_line": 6
   },
   {
    "entity": "bernhard",
@@ -104,10 +109,10 @@
    "kind": "person",
    "surface": "Bernhard",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9314,
-   "doc_line": 8
+   "line": 9315,
+   "doc_line": 9
   },
   {
    "entity": "leixner",
@@ -115,10 +120,10 @@
    "kind": "person",
    "surface": "Leixner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9317,
-   "doc_line": 11
+   "line": 9318,
+   "doc_line": 12
   },
   {
    "entity": "leixner",
@@ -126,10 +131,10 @@
    "kind": "person",
    "surface": "Leixner",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9320,
-   "doc_line": 14
+   "line": 9321,
+   "doc_line": 15
   },
   {
    "entity": "schulenburg",
@@ -137,10 +142,10 @@
    "kind": "person",
    "surface": "Schulemburg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9322,
-   "doc_line": 16
+   "line": 9323,
+   "doc_line": 17
   },
   {
    "entity": "glenck",
@@ -148,10 +153,21 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 2,
-   "page_id": "",
+   "page_id": "0250_a1",
    "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
-   "line": 9334,
-   "doc_line": 27
+   "line": 9327,
+   "doc_line": 20
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface": "Glenck",
+   "page": 2,
+   "page_id": "0250_a1",
+   "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
+   "line": 9335,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -159,138 +175,36 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0250_a1",
    "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
-   "line": 9343,
-   "doc_line": 36
+   "line": 9344,
+   "doc_line": 37
   }
  ],
- "mentions_english": [
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 1
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface_de": "Leixner",
-   "surface_en": "Leixner",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "M[r] Bernhard",
-   "kind": "person",
-   "surface_de": "M Bernhard",
-   "surface_en": "M[r] Bernhard",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kamionna",
-   "kind": "other",
-   "surface_de": "Kaemen",
-   "surface_en": "Kamionna",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Count Schulemburg",
-   "kind": "person",
-   "surface_de": "Gr Schulemburg",
-   "surface_en": "Count Schulemburg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Your Serene Highness",
-   "kind": "person",
-   "surface_de": "Ewr Durch",
-   "surface_en": "Your Serene Highness",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Gleich",
-   "kind": "person",
-   "surface_de": "Gleich",
-   "surface_en": "Gleich",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Bersch",
-   "kind": "place",
-   "surface_de": "Bersch",
-   "surface_en": "Bersch",
-   "page": 2
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Johann",
-   "kind": "person",
-   "surface_de": "Johann",
-   "surface_en": "Johann",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Frankfurt an der Oder",
-   "kind": "place",
-   "surface_de": "Fr a. d. Oder",
-   "surface_en": "Frankfurt an der Oder",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Your Most Serene Highness",
-   "kind": "person",
-   "surface_de": "Ewr Hochfürstliche Durchlaucht",
-   "surface_en": "Your Most Serene Highness",
-   "page": 2
-  }
- ],
- "place_canonical": "Frankfurt an der Oder",
+ "mentions_english": [],
+ "place_canonical": "Fr[ankfurt] a. d. Oder",
  "place_mentions": [
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betscher",
+   "page": 1,
+   "page_id": "0249_a2",
+   "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
+   "line": 9316,
+   "doc_line": 10
+  },
   {
    "entity": "kamionno",
    "display": "Kamionna",
    "kind": "place",
    "surface": "Kaemen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0249_a2",
    "scan": "Oe_1_Bu_9454_0249_a2-L130_01.jpg",
-   "line": 9317,
-   "doc_line": 11
+   "line": 9318,
+   "doc_line": 12
   },
   {
    "entity": "berlin",
@@ -298,10 +212,21 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0250_a1",
    "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
-   "line": 9328,
-   "doc_line": 21
+   "line": 9329,
+   "doc_line": 22
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 2,
+   "page_id": "0250_a1",
+   "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
+   "line": 9331,
+   "doc_line": 24
   },
   {
    "entity": "berlin",
@@ -309,116 +234,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0250_a1",
    "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
-   "line": 9336,
-   "doc_line": 29
-  },
-  {
-   "entity": "frankfurt-an-der-oder",
-   "display": "Frankfurt an der Oder",
-   "kind": "place",
-   "surface": "Fr a. d. Oder",
-   "page": 2,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
-   "line": 9339,
-   "doc_line": 32
+   "line": 9337,
+   "doc_line": 30
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord, some 2 hours ago I arrived here and heard to my vexation that Glenck had travelled after many, also that Leixner was absent and is not expected until today. In all things, however, unfortunately nothing has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with M[r] Bernhard by the agreement \"that I am to bring the [uncertain: reckoned] matter to a conclusion, that the estates shall remain in Your Serene Highness's name - that thereupon Leixner will take [uncertain: Kamionna], and that this shall stand either in Your Serene Highness's name or in mine; for as I have said, so has it been done. - Leixner is hard pressed. He is thereupon not to apply any further for the right of residence (Incolat). Count Schulemburg has got upon his roof - Meanwhile",
-   "names": [
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Leixner",
-     "en": "Leixner",
-     "kind": "person"
-    },
-    {
-     "de": "M Bernhard",
-     "en": "M[r] Bernhard",
-     "kind": "person"
-    },
-    {
-     "de": "Kaemen",
-     "en": "Kamionna",
-     "kind": "other"
-    },
-    {
-     "de": "Gr Schulemburg",
-     "en": "Count Schulemburg",
-     "kind": "person"
-    },
-    {
-     "de": "Ewr Durch",
-     "en": "Your Serene Highness",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "2"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "he is content that I lend him my name. I have therefore sent an express courier after Gleich, so that he may be back here by Saturday; I go today to Berlin, to sound out everything there - and when I come back on Saturday I shall settle everything here, go from here to Bersch, and with Heaven's help conclude everything there too, and then hasten to Your Serene Highness; for to live longer in uncertainty would be the torment of hell - I do not know what Glenck thinks. Johann is indeed far too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's Frankfurt an der Oder\n\nthe 17th of May\n\n1804.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Gleich",
-     "en": "Gleich",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Bersch",
-     "en": "Bersch",
-     "kind": "place"
-    },
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Johann",
-     "en": "Johann",
-     "kind": "person"
-    },
-    {
-     "de": "Fr a. d. Oder",
-     "en": "Frankfurt an der Oder",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Ewr Hochfürstliche Durchlaucht",
-     "en": "Your Most Serene Highness",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "17",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, some 2 hours ago I arrived here and heard to my vexation that Glenck had travelled after many, also that Leixner was absent and is not expected until today. In all things, however, unfortunately nothing has yet been done, and as I see, the one does not trust the other. Each thing I have arranged with M[r] Bernhard by the agreement \"that I am to bring the [uncertain: reckoned] matter to a conclusion, that the estates shall remain in Your Serene Highness's name - that thereupon Leixner will take [uncertain: Kamionna], and that this shall stand either in Your Serene Highness's name or in mine; for as I have said, so has it been done. - Leixner is hard pressed. He is thereupon not to apply any further for the right of residence (Incolat). Count Schulemburg has got upon his roof - Meanwhile\n\nhe is content that I lend him my name. I have therefore sent an express courier after Gleich, so that he may be back here by Saturday; I go today to Berlin, to sound out everything there - and when I come back on Saturday I shall settle everything here, go from here to Bersch, and with Heaven's help conclude everything there too, and then hasten to Your Serene Highness; for to live longer in uncertainty would be the torment of hell - I do not know what Glenck thinks. Johann is indeed far too near. The post is about to depart; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's Frankfurt an der Oder\n\nthe 17th of May\n\n1804.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
- "summary_en": "A hurried report on arrival that nothing has been settled: Glenck has travelled on and Leixner is away until the next day, and the parties do not trust one another. Triebenfeld describes his agreement with Mr Bernhard that the estates stay in the Prince's name while Leixner takes over elsewhere, under the Prince's name or Triebenfeld's own; Leixner, pressed and blocked by Count Schulemburg, wants only the use of Triebenfeld's name. An express courier has been sent after Glenck; Triebenfeld goes to Berlin, then Bersch.",
- "summary_de": "Kurzer Reisebericht über den Stand der Verhandlungen: Glenck ist abgereist, Leixner abwesend, und nichts ist erledigt, da keiner dem anderen traut. Mit Bernhard ist verabredet, daß die Güter auf den Namen des Fürsten bleiben, während Leixner Kaemen übernimmt, auf den Namen des Fürsten oder Triebenfelds; Leixner ist in Bedrängnis, soll den Incolat nicht weiter beantragen, und Graf Schulemburg setzt ihm zu. Triebenfeld hat einen Eilboten nach Gleich geschickt, reist nach Berlin und will danach in Bersch abschließen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -1,6 +1,6 @@
 {
  "letter_id": "159",
- "seq_archival": 171,
+ "seq_archival": 170,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-159",
@@ -18,53 +18,88 @@
  "month": 1,
  "day": 31,
  "place": "Berlin",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 11261,
- "line_end": 11285,
+ "sender": "",
+ "recipient": "",
+ "line_start": 11274,
+ "line_end": 11299,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
  "n_lines": 24,
  "n_pages": 1,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr,\nMitt der umsäglichsten Mühe hat endlich der redliche Ame\nlang die Sachen in soweit beerdigt, daß er von dem Ban¬\nquis leve eine Anweisung an die Gebrüder Kuh, ehe\ndie Gelder von der Invaliden Casse, die eigentlich in\nVerhandlungs Obligation in bestehen / auf 36755 Rthl 7 gg.\nerhalten hat gegeben. Ich vile solche ohne den aller mindesten\nAnstand Ewr Hochfürstl Durchlaucht ganz gehorsamst\nzu übermachen. Morgen wird alles arangirt,\nauch die Hangsche Sache so wie die Eysenhardtsche\nin Ordnung gebracht und wenn ich damit fertig\nbin so eile ich zurück in nach Kalisz zu gehen\nund das weitere zur erhaltung der 100000 Rthl\nzu besorgen. Im tiefſten Reſpect erſterbe\nEwr Hochfürstliche Durchlaucht\nden Brief an die Herren Kuh geruhe\nEwr Durchlaucht sogleich abgeben zu laßen\ntreu gehorsamster Dir\nWie war ist wohl, in Stande die Dummembration\nzu hindern? Ich biete jeden trotz\nBerlin den 31ten Januar 1805.\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr, Mitt der umsäglichsten Mühe hat endlich der redliche Ame lang die Sachen in soweit beerdigt, daß er von dem Ban quis leve eine Anweisung an die Gebrüder Kuh, ehe die Gelder von der Invaliden Casse, die eigentlich in Verhandlungs Obligation in bestehen / auf 36755 Rthl 7 gg. erhalten hat gegeben. Ich vile solche ohne den aller mindesten Anstand Ewr Hochfürstl Durchlaucht ganz gehorsamst zu übermachen. Morgen wird alles arangirt, auch die Hangsche Sache so wie die Eysenhardtsche in Ordnung gebracht und wenn ich damit fertig bin so eile ich zurück in nach Kalisz zu gehen und das weitere zur erhaltung der 100000 Rthl zu besorgen. Im tiefſten Reſpect erſterbe Ewr Hochfürstliche Durchlaucht den Brief an die Herren Kuh geruhe Ewr Durchlaucht sogleich abgeben zu laßen treu gehorsamster Dir Wie war ist wohl, in Stande die Dummembration zu hindern? Ich biete jeden trotz Berlin den 31ten Januar 1805.\n\nv Triebenfeld",
+ "text": "159\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nMitt der unsäglichsten Mühe hat endlich der redliche Ame¬\nlang die Sachen in soweit beendigt, daß er von dem Ban¬\nquier leve eine Anweisung an die Gebrüder Kuh, ehe\ndie Gelder von der Invaliden Casse, die eigentlich in\nSeehandlungs Obligation in bestehen / auf 36755 rt. 7 gg.\nerhalten hat gegeben. Ich eile solche ohne den aller mindesten\nAnstand Ewr Hochfürstl Durchlaucht ganz gehorsamst\nzu übermachen. Morgen wird alles arangirt,\nauch die Hanusche Sache so wie die Eysenhardtsche\nin Ordnung gebracht und wenn ich damit fertig\nbin so eile ich zurück in nach Kalisz zu gehen\nund das weitere zur erhaltung der 100000 rt\nzu besorgen. Im tiefſten Reſpect erſterbe\nEwr Hochfürstliche Durchlaucht\nden Brief an die Herren Kuh geruhe\nEwr Durchlaucht sogleich abgeben zu laßen\ntreu gehorsamster Dir\nWie war ist wohl, in Stande die Dismembration\nzu hindern? Ich biete jeden trotz\nBerlin den 31ten Januar 1805.\nv Triebenfeld",
+ "text_reading": "159\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr Mitt der unsäglichsten Mühe hat endlich der redliche Amelang die Sachen in soweit beendigt, daß er von dem Banquier leve eine Anweisung an die Gebrüder Kuh, ehe die Gelder von der Invaliden Casse, die eigentlich in Seehandlungs Obligation in bestehen / auf 36755 rt. 7 gg. erhalten hat gegeben. Ich eile solche ohne den aller mindesten Anstand Ewr Hochfürstl Durchlaucht ganz gehorsamst zu übermachen. Morgen wird alles arangirt, auch die Hanusche Sache so wie die Eysenhardtsche in Ordnung gebracht und wenn ich damit fertig bin so eile ich zurück in nach Kalisz zu gehen und das weitere zur erhaltung der 100000 rt zu besorgen. Im tiefſten Reſpect erſterbe Ewr Hochfürstliche Durchlaucht den Brief an die Herren Kuh geruhe Ewr Durchlaucht sogleich abgeben zu laßen treu gehorsamster Dir Wie war ist wohl, in Stande die Dismembration zu hindern? Ich biete jeden trotz Berlin den 31ten Januar 1805.\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 11262,
-   "line_end": 11284,
-   "n_lines": 23,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr,\nMitt der umsäglichsten Mühe hat endlich der redliche Ame\nlang die Sachen in soweit beerdigt, daß er von dem Ban¬\nquis leve eine Anweisung an die Gebrüder Kuh, ehe\ndie Gelder von der Invaliden Casse, die eigentlich in\nVerhandlungs Obligation in bestehen / auf 36755 Rthl 7 gg.\nerhalten hat gegeben. Ich vile solche ohne den aller mindesten\nAnstand Ewr Hochfürstl Durchlaucht ganz gehorsamst\nzu übermachen. Morgen wird alles arangirt,\nauch die Hangsche Sache so wie die Eysenhardtsche\nin Ordnung gebracht und wenn ich damit fertig\nbin so eile ich zurück in nach Kalisz zu gehen\nund das weitere zur erhaltung der 100000 Rthl\nzu besorgen. Im tiefſten Reſpect erſterbe\nEwr Hochfürstliche Durchlaucht\nden Brief an die Herren Kuh geruhe\nEwr Durchlaucht sogleich abgeben zu laßen\ntreu gehorsamster Dir\nWie war ist wohl, in Stande die Dummembration\nzu hindern? Ich biete jeden trotz\nBerlin den 31ten Januar 1805.\nv Triebenfeld",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr,\nMitt der umsäglichsten Mühe hat endlich der redliche Ame\nlang die Sachen in soweit beerdigt, daß er von dem Ban\nquis leve eine Anweisung an die Gebrüder Kuh, ehe\ndie Gelder von der Invaliden Casse, die eigentlich in\nVerhandlungs Obligation in bestehen / auf 36755 Rthl 7 gg.\nerhalten hat gegeben. Ich vile solche ohne den aller mindesten\nAnstand Ewr Hochfürstl Durchlaucht ganz gehorsamst\nzu übermachen. Morgen wird alles arangirt,\nauch die Hangsche Sache so wie die Eysenhardtsche\nin Ordnung gebracht und wenn ich damit fertig\nbin so eile ich zurück in nach Kalisz zu gehen\nund das weitere zur erhaltung der 100000 Rthl\nzu besorgen. Im tiefſten Reſpect erſterbe\nEwr Hochfürstliche Durchlaucht\nden Brief an die Herren Kuh geruhe\nEwr Durchlaucht sogleich abgeben zu laßen\ntreu gehorsamster Dir\nWie war ist wohl, in Stande die Dummembration\nzu hindern? Ich biete jeden trotz\nBerlin den 31ten Januar 1805.\nv Triebenfeld",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr, Mitt der umsäglichsten Mühe hat endlich der redliche Ame lang die Sachen in soweit beerdigt, daß er von dem Ban quis leve eine Anweisung an die Gebrüder Kuh, ehe die Gelder von der Invaliden Casse, die eigentlich in Verhandlungs Obligation in bestehen / auf 36755 Rthl 7 gg. erhalten hat gegeben. Ich vile solche ohne den aller mindesten Anstand Ewr Hochfürstl Durchlaucht ganz gehorsamst zu übermachen. Morgen wird alles arangirt, auch die Hangsche Sache so wie die Eysenhardtsche in Ordnung gebracht und wenn ich damit fertig bin so eile ich zurück in nach Kalisz zu gehen und das weitere zur erhaltung der 100000 Rthl zu besorgen. Im tiefſten Reſpect erſterbe Ewr Hochfürstliche Durchlaucht den Brief an die Herren Kuh geruhe Ewr Durchlaucht sogleich abgeben zu laßen treu gehorsamster Dir Wie war ist wohl, in Stande die Dummembration zu hindern? Ich biete jeden trotz Berlin den 31ten Januar 1805.\n\nv Triebenfeld",
+   "page_id": "0302_a2",
+   "line_start": 11276,
+   "line_end": 11299,
+   "n_lines": 24,
+   "diplomatic": "159\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nMitt der unsäglichsten Mühe hat endlich der redliche Ame¬\nlang die Sachen in soweit beendigt, daß er von dem Ban¬\nquier leve eine Anweisung an die Gebrüder Kuh, ehe\ndie Gelder von der Invaliden Casse, die eigentlich in\nSeehandlungs Obligation in bestehen / auf 36755 rt. 7 gg.\nerhalten hat gegeben. Ich eile solche ohne den aller mindesten\nAnstand Ewr Hochfürstl Durchlaucht ganz gehorsamst\nzu übermachen. Morgen wird alles arangirt,\nauch die Hanusche Sache so wie die Eysenhardtsche\nin Ordnung gebracht und wenn ich damit fertig\nbin so eile ich zurück in nach Kalisz zu gehen\nund das weitere zur erhaltung der 100000 rt\nzu besorgen. Im tiefſten Reſpect erſterbe\nEwr Hochfürstliche Durchlaucht\nden Brief an die Herren Kuh geruhe\nEwr Durchlaucht sogleich abgeben zu laßen\ntreu gehorsamster Dir\nWie war ist wohl, in Stande die Dismembration\nzu hindern? Ich biete jeden trotz\nBerlin den 31ten Januar 1805.\nv Triebenfeld",
+   "transcription": "159\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr\nMitt der unsäglichsten Mühe hat endlich der redliche Ame-\nlang die Sachen in soweit beendigt, daß er von dem Ban-\nquier leve eine Anweisung an die Gebrüder Kuh, ehe\ndie Gelder von der Invaliden Casse, die eigentlich in\nSeehandlungs Obligation in bestehen / auf 36755 rt. 7 gg.\nerhalten hat gegeben. Ich eile solche ohne den aller mindesten\nAnstand Ewr Hochfürstl Durchlaucht ganz gehorsamst\nzu übermachen. Morgen wird alles arangirt,\nauch die Hanusche Sache so wie die Eysenhardtsche\nin Ordnung gebracht und wenn ich damit fertig\nbin so eile ich zurück in nach Kalisz zu gehen\nund das weitere zur erhaltung der 100000 rt\nzu besorgen. Im tiefſten Reſpect erſterbe\nEwr Hochfürstliche Durchlaucht\nden Brief an die Herren Kuh geruhe\nEwr Durchlaucht sogleich abgeben zu laßen\ntreu gehorsamster Dir\nWie war ist wohl, in Stande die Dismembration\nzu hindern? Ich biete jeden trotz\nBerlin den 31ten Januar 1805.\nv Triebenfeld",
+   "reading": "159\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr Mitt der unsäglichsten Mühe hat endlich der redliche Amelang die Sachen in soweit beendigt, daß er von dem Banquier leve eine Anweisung an die Gebrüder Kuh, ehe die Gelder von der Invaliden Casse, die eigentlich in Seehandlungs Obligation in bestehen / auf 36755 rt. 7 gg. erhalten hat gegeben. Ich eile solche ohne den aller mindesten Anstand Ewr Hochfürstl Durchlaucht ganz gehorsamst zu übermachen. Morgen wird alles arangirt, auch die Hanusche Sache so wie die Eysenhardtsche in Ordnung gebracht und wenn ich damit fertig bin so eile ich zurück in nach Kalisz zu gehen und das weitere zur erhaltung der 100000 rt zu besorgen. Im tiefſten Reſpect erſterbe Ewr Hochfürstliche Durchlaucht den Brief an die Herren Kuh geruhe Ewr Durchlaucht sogleich abgeben zu laßen treu gehorsamster Dir Wie war ist wohl, in Stande die Dismembration zu hindern? Ich biete jeden trotz Berlin den 31ten Januar 1805.\n\nv Triebenfeld",
    "paragraphs": [
+    "159",
     "Durchlauchtigster Fürst",
-    "Gnädigster Fürst und Herr, Mitt der umsäglichsten Mühe hat endlich der redliche Ame lang die Sachen in soweit beerdigt, daß er von dem Ban quis leve eine Anweisung an die Gebrüder Kuh, ehe die Gelder von der Invaliden Casse, die eigentlich in Verhandlungs Obligation in bestehen / auf 36755 Rthl 7 gg. erhalten hat gegeben. Ich vile solche ohne den aller mindesten Anstand Ewr Hochfürstl Durchlaucht ganz gehorsamst zu übermachen. Morgen wird alles arangirt, auch die Hangsche Sache so wie die Eysenhardtsche in Ordnung gebracht und wenn ich damit fertig bin so eile ich zurück in nach Kalisz zu gehen und das weitere zur erhaltung der 100000 Rthl zu besorgen. Im tiefſten Reſpect erſterbe Ewr Hochfürstliche Durchlaucht den Brief an die Herren Kuh geruhe Ewr Durchlaucht sogleich abgeben zu laßen treu gehorsamster Dir Wie war ist wohl, in Stande die Dummembration zu hindern? Ich biete jeden trotz Berlin den 31ten Januar 1805.",
+    "Gnädigster Fürst und Herr Mitt der unsäglichsten Mühe hat endlich der redliche Amelang die Sachen in soweit beendigt, daß er von dem Banquier leve eine Anweisung an die Gebrüder Kuh, ehe die Gelder von der Invaliden Casse, die eigentlich in Seehandlungs Obligation in bestehen / auf 36755 rt. 7 gg. erhalten hat gegeben. Ich eile solche ohne den aller mindesten Anstand Ewr Hochfürstl Durchlaucht ganz gehorsamst zu übermachen. Morgen wird alles arangirt, auch die Hanusche Sache so wie die Eysenhardtsche in Ordnung gebracht und wenn ich damit fertig bin so eile ich zurück in nach Kalisz zu gehen und das weitere zur erhaltung der 100000 rt zu besorgen. Im tiefſten Reſpect erſterbe Ewr Hochfürstliche Durchlaucht den Brief an die Herren Kuh geruhe Ewr Durchlaucht sogleich abgeben zu laßen treu gehorsamster Dir Wie war ist wohl, in Stande die Dismembration zu hindern? Ich biete jeden trotz Berlin den 31ten Januar 1805.",
     "v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 23
+   "doc_line_end": 24
   }
  ],
  "mentions": [
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface": "Amelang",
+   "page": 1,
+   "page_id": "0302_a2",
+   "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
+   "line": 11279,
+   "doc_line": 4
+  },
+  {
+   "entity": "kuh",
+   "display": "Gebrüder Kuh",
+   "kind": "person",
+   "surface": "Kuh",
+   "page": 1,
+   "page_id": "0302_a2",
+   "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
+   "line": 11281,
+   "doc_line": 6
+  },
   {
    "entity": "eysenhardt",
    "display": "Eysenhardt",
    "kind": "person",
    "surface": "Eysenhardt",
    "page": 1,
-   "page_id": "",
+   "page_id": "0302_a2",
    "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
-   "line": 11272,
-   "doc_line": 11
+   "line": 11287,
+   "doc_line": 12
+  },
+  {
+   "entity": "kuh",
+   "display": "Gebrüder Kuh",
+   "kind": "person",
+   "surface": "Kuh",
+   "page": 1,
+   "page_id": "0302_a2",
+   "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
+   "line": 11293,
+   "doc_line": 18
   },
   {
    "entity": "triebenfeld",
@@ -72,78 +107,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0302_a2",
    "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
-   "line": 11284,
-   "doc_line": 23
+   "line": 11299,
+   "doc_line": 24
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Ame lang",
-   "kind": "person",
-   "surface_de": "Ame lang",
-   "surface_en": "Ame lang",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kuh",
-   "kind": "person",
-   "surface_de": "Kuh",
-   "surface_en": "Kuh",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hang",
-   "kind": "person",
-   "surface_de": "Hangsche",
-   "surface_en": "Hang",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Eysenhardt",
-   "kind": "person",
-   "surface_de": "Eysenhardtsche",
-   "surface_en": "Eysenhardt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisz",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Ban quis leve",
-   "kind": "other",
-   "surface_de": "Ban quis leve",
-   "surface_en": "Ban quis leve",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -152,10 +122,10 @@
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0302_a2",
    "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
-   "line": 11274,
-   "doc_line": 13
+   "line": 11289,
+   "doc_line": 14
   },
   {
    "entity": "berlin",
@@ -163,69 +133,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0302_a2",
    "scan": "Oe_1_Bu_9454_0302_a2-L159_01.jpg",
-   "line": 11283,
-   "doc_line": 22
+   "line": 11298,
+   "doc_line": 23
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord, With the most unspeakable trouble the honest Ame lang has at last so far buried the matters that he has given, from the Ban quis leve, an instruction to pay to the brothers Kuh, before the monies from the Invalids' Fund, which properly consist in a negotiating obligation / to the amount of 36755 Rthl 7 gg., have been received. I wish, without the very least delay, most obediently to transmit the same to Your Most Serene Highness. Tomorrow everything will be arranged, and likewise the Hang matter as well as the Eysenhardt matter will be brought into order, and when I am finished with that I shall hasten back to go to Kalisz and to see to the further steps for obtaining the 100000 Rthl. In deepest reverence I remain, until death, Your Most Serene Highness — may Your Serene Highness deign to have the letter to the gentlemen Kuh delivered at once — most faithfully obedient Serv[ant] How true it is, indeed, that [someone] is in a position to hinder the dismemberment? I defy anyone. Berlin, the 31st of January 1805.\n\nv Triebenfeld",
-   "names": [
-    {
-     "de": "Ame lang",
-     "en": "Ame lang",
-     "kind": "person"
-    },
-    {
-     "de": "Kuh",
-     "en": "Kuh",
-     "kind": "person"
-    },
-    {
-     "de": "Hangsche",
-     "en": "Hang",
-     "kind": "person"
-    },
-    {
-     "de": "Eysenhardtsche",
-     "en": "Eysenhardt",
-     "kind": "person"
-    },
-    {
-     "de": "Kalisz",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Ban quis leve",
-     "en": "Ban quis leve",
-     "kind": "other"
-    }
-   ],
-   "numbers": [
-    "36755",
-    "7",
-    "100000",
-    "31",
-    "1805"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord, With the most unspeakable trouble the honest Ame lang has at last so far buried the matters that he has given, from the Ban quis leve, an instruction to pay to the brothers Kuh, before the monies from the Invalids' Fund, which properly consist in a negotiating obligation / to the amount of 36755 Rthl 7 gg., have been received. I wish, without the very least delay, most obediently to transmit the same to Your Most Serene Highness. Tomorrow everything will be arranged, and likewise the Hang matter as well as the Eysenhardt matter will be brought into order, and when I am finished with that I shall hasten back to go to Kalisz and to see to the further steps for obtaining the 100000 Rthl. In deepest reverence I remain, until death, Your Most Serene Highness — may Your Serene Highness deign to have the letter to the gentlemen Kuh delivered at once — most faithfully obedient Serv[ant] How true it is, indeed, that [someone] is in a position to hinder the dismemberment? I defy anyone. Berlin, the 31st of January 1805.\n\nv Triebenfeld",
- "summary_en": "Reports that after great difficulty Amelang has obtained an instruction on the bank to pay the brothers Kuh, in advance of monies from the Invalids' Fund tied up in a negotiable obligation of 36,755 Rthl 7 Groschen; the instruction is forwarded and the Prince is asked to have the accompanying letter to the Kuh brothers delivered at once. The Hang and Eysenhardt affairs are to be settled next, after which Triebenfeld will go to Kalisz to pursue a loan of 100,000 Rthl.",
- "summary_de": "Meldung, daß Amelang nach großer Mühe eine Anweisung der Bank erwirkt hat, mit der die Gebrüder Kuh bezahlt werden können, noch bevor die Gelder aus dem Invalidenfonds – eine Negotiationsobligation über 36755 Rthl 7 gg. – eingegangen sind; die Anweisung wird beigelegt, der Fürst möge den Brief an die Herren Kuh sogleich zustellen lassen. Angekündigt werden die Erledigung der Sachen Hang und Eysenhardt sowie eine Reise nach Kalisch wegen der 100000 Rthl."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

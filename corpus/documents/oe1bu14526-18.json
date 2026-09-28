@@ -687,6 +687,17 @@
    "doc_line": 29
   },
   {
+   "entity": "mlynkiewicz",
+   "display": "Matheus Młynkiewicz",
+   "kind": "person",
+   "surface": "Młynkiewicz",
+   "page": 2,
+   "page_id": "0110_a1",
+   "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
+   "line": 5772,
+   "doc_line": 32
+  },
+  {
    "entity": "chmara",
    "display": "Johann Chmara",
    "kind": "person",
@@ -784,6 +795,17 @@
    "scan": "Oe_1_Bu_14526_0111_a1-L18_04.jpg",
    "line": 5810,
    "doc_line": 68
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 5,
+   "page_id": "0111_a2",
+   "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
+   "line": 5822,
+   "doc_line": 79
   },
   {
    "entity": "hohenlohe",
@@ -1149,6 +1171,17 @@
    "doc_line": 424
   },
   {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 23,
+   "page_id": "0120_a2",
+   "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
+   "line": 6185,
+   "doc_line": 424
+  },
+  {
    "entity": "august",
    "display": "August",
    "kind": "person",
@@ -1235,6 +1268,17 @@
    "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
    "line": 6199,
    "doc_line": 438
+  },
+  {
+   "entity": "chmara",
+   "display": "Johann Chmara",
+   "kind": "person",
+   "surface": "Chmara",
+   "page": 24,
+   "page_id": "0121_a1",
+   "scan": "Oe_1_Bu_14526_0121_a1-L18_24.jpg",
+   "line": 6204,
+   "doc_line": 442
   },
   {
    "entity": "hohenlohe",
@@ -2492,6 +2536,17 @@
  "place_canonical": "Betsche",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 1,
+   "page_id": "0109_b",
+   "scan": "Oe_1_Bu_14526_0109_b-L18_01.jpg",
+   "line": 5742,
+   "doc_line": 3
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -2501,6 +2556,17 @@
    "scan": "Oe_1_Bu_14526_0109_b-L18_01.jpg",
    "line": 5743,
    "doc_line": 4
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 1,
+   "page_id": "0109_b",
+   "scan": "Oe_1_Bu_14526_0109_b-L18_01.jpg",
+   "line": 5747,
+   "doc_line": 8
   },
   {
    "entity": "betsche",
@@ -2602,10 +2668,32 @@
    "doc_line": 24
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 2,
+   "page_id": "0110_a1",
+   "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
+   "line": 5766,
+   "doc_line": 26
+  },
+  {
    "entity": "kontop",
    "display": "Kontop",
    "kind": "place",
    "surface": "Kontopp",
+   "page": 2,
+   "page_id": "0110_a1",
+   "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
+   "line": 5770,
+   "doc_line": 30
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinerne",
    "page": 2,
    "page_id": "0110_a1",
    "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
@@ -2668,6 +2756,17 @@
    "doc_line": 37
   },
   {
+   "entity": "swiechocin",
+   "display": "Świechocin",
+   "kind": "place",
+   "surface": "Schwiechodzyn",
+   "page": 2,
+   "page_id": "0110_a1",
+   "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
+   "line": 5777,
+   "doc_line": 37
+  },
+  {
    "entity": "szarcz",
    "display": "Szarcz",
    "kind": "place",
@@ -2688,6 +2787,17 @@
    "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
    "line": 5778,
    "doc_line": 38
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0110_a2",
+   "scan": "Oe_1_Bu_14526_0110_a2-L18_03.jpg",
+   "line": 5783,
+   "doc_line": 42
   },
   {
    "entity": "betsche",
@@ -2756,6 +2866,17 @@
    "doc_line": 66
   },
   {
+   "entity": "swiechocin",
+   "display": "Świechocin",
+   "kind": "place",
+   "surface": "Schwiechoczyn",
+   "page": 4,
+   "page_id": "0111_a1",
+   "scan": "Oe_1_Bu_14526_0111_a1-L18_04.jpg",
+   "line": 5808,
+   "doc_line": 66
+  },
+  {
    "entity": "szarcz",
    "display": "Szarcz",
    "kind": "place",
@@ -2789,10 +2910,32 @@
    "doc_line": 80
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 5,
+   "page_id": "0111_a2",
+   "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
+   "line": 5823,
+   "doc_line": 80
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 5,
+   "page_id": "0111_a2",
+   "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
+   "line": 5826,
+   "doc_line": 83
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
    "page": 5,
    "page_id": "0111_a2",
    "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
@@ -2815,6 +2958,17 @@
    "display": "Kuligowo",
    "kind": "place",
    "surface": "Kulligowo",
+   "page": 5,
+   "page_id": "0111_a2",
+   "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
+   "line": 5828,
+   "doc_line": 85
+  },
+  {
+   "entity": "stolun",
+   "display": "Stołuń",
+   "kind": "place",
+   "surface": "Stalluhn",
    "page": 5,
    "page_id": "0111_a2",
    "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
@@ -2910,6 +3064,17 @@
    "doc_line": 134
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 8,
+   "page_id": "0113_a1",
+   "scan": "Oe_1_Bu_14526_0113_a1-L18_08.jpg",
+   "line": 5882,
+   "doc_line": 136
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -2919,6 +3084,39 @@
    "scan": "Oe_1_Bu_14526_0113_a1-L18_08.jpg",
    "line": 5885,
    "doc_line": 139
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 8,
+   "page_id": "0113_a1",
+   "scan": "Oe_1_Bu_14526_0113_a1-L18_08.jpg",
+   "line": 5891,
+   "doc_line": 145
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 9,
+   "page_id": "0113_a2",
+   "scan": "Oe_1_Bu_14526_0113_a2-L18_09.jpg",
+   "line": 5903,
+   "doc_line": 156
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 9,
+   "page_id": "0113_a2",
+   "scan": "Oe_1_Bu_14526_0113_a2-L18_09.jpg",
+   "line": 5913,
+   "doc_line": 166
   },
   {
    "entity": "breslau",
@@ -2941,6 +3139,28 @@
    "scan": "Oe_1_Bu_14526_0114_a1-L18_10.jpg",
    "line": 5938,
    "doc_line": 190
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 12,
+   "page_id": "0115_a1",
+   "scan": "Oe_1_Bu_14526_0115_a1-L18_12.jpg",
+   "line": 5979,
+   "doc_line": 229
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 13,
+   "page_id": "0115_a2",
+   "scan": "Oe_1_Bu_14526_0115_a2-L18_13.jpg",
+   "line": 5998,
+   "doc_line": 247
   },
   {
    "entity": "betsche",
@@ -2987,6 +3207,28 @@
    "doc_line": 311
   },
   {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
+   "page": 17,
+   "page_id": "0117_a2",
+   "scan": "Oe_1_Bu_14526_0117_a2-L18_17.jpg",
+   "line": 6074,
+   "doc_line": 319
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 19,
+   "page_id": "0118_a2",
+   "scan": "Oe_1_Bu_14526_0118_a2-L18_19.jpg",
+   "line": 6115,
+   "doc_line": 358
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -3002,11 +3244,44 @@
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 21,
+   "page_id": "0119_a2",
+   "scan": "Oe_1_Bu_14526_0119_a2-L18_21.jpg",
+   "line": 6146,
+   "doc_line": 387
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 23,
+   "page_id": "0120_a2",
+   "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
+   "line": 6186,
+   "doc_line": 425
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
    "page": 23,
    "page_id": "0120_a2",
    "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
    "line": 6195,
    "doc_line": 434
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 23,
+   "page_id": "0120_a2",
+   "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
+   "line": 6197,
+   "doc_line": 436
   },
   {
    "entity": "kuligowo",
@@ -3097,6 +3372,28 @@
    "doc_line": 474
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensches",
+   "page": 25,
+   "page_id": "0121_a2",
+   "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
+   "line": 6238,
+   "doc_line": 475
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 25,
+   "page_id": "0121_a2",
+   "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
+   "line": 6244,
+   "doc_line": 481
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -3106,6 +3403,28 @@
    "scan": "Oe_1_Bu_14526_0122_a1-L18_26.jpg",
    "line": 6248,
    "doc_line": 484
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 27,
+   "page_id": "0122_a2",
+   "scan": "Oe_1_Bu_14526_0122_a2-L18_27.jpg",
+   "line": 6266,
+   "doc_line": 501
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
+   "page": 27,
+   "page_id": "0122_a2",
+   "scan": "Oe_1_Bu_14526_0122_a2-L18_27.jpg",
+   "line": 6275,
+   "doc_line": 510
   },
   {
    "entity": "posen",

@@ -627,6 +627,17 @@
    "doc_line": 14
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0061_b",
+   "scan": "Oe_1_Bu_14525_0061_b-L15_01.jpg",
+   "line": 1812,
+   "doc_line": 19
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -636,6 +647,17 @@
    "scan": "Oe_1_Bu_14525_0061_b-L15_01.jpg",
    "line": 1813,
    "doc_line": 20
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 1,
+   "page_id": "0061_b",
+   "scan": "Oe_1_Bu_14525_0061_b-L15_01.jpg",
+   "line": 1815,
+   "doc_line": 22
   },
   {
    "entity": "berlin",
@@ -682,6 +704,17 @@
    "doc_line": 41
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0062_a1",
+   "scan": "Oe_1_Bu_14525_0062_a1-L15_02.jpg",
+   "line": 1835,
+   "doc_line": 41
+  },
+  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -691,6 +724,17 @@
    "scan": "Oe_1_Bu_14525_0062_a1-L15_02.jpg",
    "line": 1836,
    "doc_line": 42
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 2,
+   "page_id": "0062_a1",
+   "scan": "Oe_1_Bu_14525_0062_a1-L15_02.jpg",
+   "line": 1842,
+   "doc_line": 48
   },
   {
    "entity": "betsche",
@@ -715,6 +759,17 @@
    "doc_line": 63
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0062_a2",
+   "scan": "Oe_1_Bu_14525_0062_a2-L15_03.jpg",
+   "line": 1862,
+   "doc_line": 67
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -724,6 +779,17 @@
    "scan": "Oe_1_Bu_14525_0062_a2-L15_03.jpg",
    "line": 1867,
    "doc_line": 72
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0062_a2",
+   "scan": "Oe_1_Bu_14525_0062_a2-L15_03.jpg",
+   "line": 1874,
+   "doc_line": 79
   },
   {
    "entity": "betsche",

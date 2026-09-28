@@ -282,6 +282,17 @@
  ],
  "mentions": [
   {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0031_b",
+   "scan": "Oe_1_Bu_14526_0031_b-L7_01.jpg",
+   "line": 1505,
+   "doc_line": 3
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
@@ -414,6 +425,17 @@
    "doc_line": 254
   },
   {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface": "Schenk",
+   "page": 11,
+   "page_id": "0036_a2",
+   "scan": "Oe_1_Bu_14526_0036_a2-L7_11.jpg",
+   "line": 1767,
+   "doc_line": 255
+  },
+  {
    "entity": "ogrodowicz",
    "display": "Ogrodowicz",
    "kind": "person",
@@ -534,8 +556,8 @@
    "page": 11
   },
   {
-   "entity": "",
-   "display": "Schenk",
+   "entity": "schenck",
+   "display": "Schenck",
    "kind": "person",
    "surface_de": "Schenk",
    "surface_en": "Schenk",
@@ -577,6 +599,17 @@
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0031_b",
+   "scan": "Oe_1_Bu_14526_0031_b-L7_01.jpg",
+   "line": 1506,
+   "doc_line": 4
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -586,6 +619,17 @@
    "scan": "Oe_1_Bu_14526_0031_b-L7_01.jpg",
    "line": 1510,
    "doc_line": 8
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0031_b",
+   "scan": "Oe_1_Bu_14526_0031_b-L7_01.jpg",
+   "line": 1518,
+   "doc_line": 16
   },
   {
    "entity": "trabczyn",
@@ -603,6 +647,17 @@
    "display": "Zagórów",
    "kind": "place",
    "surface": "Zagurow",
+   "page": 12,
+   "page_id": "0037_a",
+   "scan": "Oe_1_Bu_14526_0037_a-L7_12.jpg",
+   "line": 1777,
+   "doc_line": 264
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagurowskiey",
    "page": 12,
    "page_id": "0037_a",
    "scan": "Oe_1_Bu_14526_0037_a-L7_12.jpg",

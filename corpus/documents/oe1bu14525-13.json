@@ -766,6 +766,39 @@
  "place_canonical": "Unknown",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "Oe_1_Bu_14525_0036_a2-L13_01.jpg",
+   "line": 1398,
+   "doc_line": 3
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "SüdPreußen",
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "Oe_1_Bu_14525_0036_a2-L13_01.jpg",
+   "line": 1400,
+   "doc_line": 5
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "Oe_1_Bu_14525_0036_a2-L13_01.jpg",
+   "line": 1401,
+   "doc_line": 6
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -830,6 +863,28 @@
    "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
    "line": 1424,
    "doc_line": 28
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "SüdPreußen",
+   "page": 2,
+   "page_id": "0037_a2",
+   "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
+   "line": 1425,
+   "doc_line": 29
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzschen",
+   "page": 2,
+   "page_id": "0037_a2",
+   "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
+   "line": 1426,
+   "doc_line": 30
   },
   {
    "entity": "posen",
@@ -995,6 +1050,17 @@
    "scan": "Oe_1_Bu_14525_0041_a1-L13_09.jpg",
    "line": 1600,
    "doc_line": 197
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 12,
+   "page_id": "0042_a2",
+   "scan": "Oe_1_Bu_14525_0042_a2-L13_12.jpg",
+   "line": 1651,
+   "doc_line": 245
   }
  ],
  "translation_status": "draft",

@@ -18,55 +18,58 @@
  "month": 5,
  "day": 23,
  "place": "Berlin",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 8622,
- "line_end": 8659,
- "uncertainty_count": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 8615,
+ "line_end": 8653,
+ "uncertainty_count": 2,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
- "n_lines": 37,
+ "n_lines": 36,
  "n_pages": 2,
- "text": "Durchlauchtigſter Fürſt\nGnädigster Herr\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 Rthl alles abgemacht sey, und daß ich keinen\nWerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht dann ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 Rthl zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kram\nbe ich noch – der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verloren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein\n\ndaß mich der Bau nicht antastet um hier arretiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildegensch läßt mich sagen, daß der Asch und Geld\nbis Johann warten würden – aber daz wäre keine\nRettung für mich –\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 Rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIm tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
- "text_reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr Ewr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur zu verſichern, daß mit dem Asch und Gad in Betreff der 11000 Rthl alles abgemacht sey, und daß ich keinen Werdrus davon haben ſolle.\n\nEw. Hochfürstliche Durchlaucht dann ich für diese Gnädige Zusicherung unterthänigst.\n\nIndes bemerke ich nur daß der Arrest in dieser Sache wieder mich hier liegt, und daß man hier die Orten hergegeben, daß wann Ewr Hochfürstliche Durchlaucht nicht die versprochene 4000 Rthl zahlen würden man mir sofort arretiren solle.\n\nIch weis vor Angst nicht was ich thun soll. Elend kram be ich noch – der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verloren.\n\nHabe Ewr Hochfürstliche Durchlaucht doch nur die einzige Gnade und leit die Sache dort, so ein\n\ndaß mich der Bau nicht antastet um hier arretiren läßt. ich hatte ja den Tod auf der Stelle. Wildegensch läßt mich sagen, daß der Asch und Geld bis Johann warten würden – aber daz wäre keine Rettung für mich – Ich bitte Ewr Durchlaucht um alles was heilig ist laßen Sie doch die Sache durch die 4000 Rthl aufs reine bringen. Hilft nur Gott um habe ich wieder Creditoren so will ich ja gern Vermögen und Seeligkeit gebe, Im tiefſter Hochachtung erſterbe. Ewr Hochfürstliche Durchlaucht Berlin den 23ten May\n\n1801\n\ntreu unterthänigster Diener.\n\nv Triebenfeld",
+ "text": "113\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 rt alles abgemacht sey, und daß ich keinen\nVerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 rt zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kre[?]\nbe ich noch – der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verloren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein\ndaß mich der Gad[?] nicht antastet um hier arctiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildeganst läßt mich sagen, daß der Asch und Geld\nbis Johanni warten würden – aber daz wäre keine\nRettung für mich –\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIm tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
+ "text_reading": "113\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur zu verſichern, daß mit dem Asch und Gad in Betreff der 11000 rt alles abgemacht sey, und daß ich keinen Verdrus davon haben ſolle.\n\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige Zusicherung unterthänigst.\n\nIndes bemerke ich nur daß der Arrest in dieser Sache wieder mich hier liegt, und daß man hier die Orten hergegeben, daß wann Ewr Hochfürstliche Durchlaucht nicht die versprochene 4000 rt zahlen würden man mir sofort arretiren solle.\n\nIch weis vor Angst nicht was ich thun soll. Elend kre[?] be ich noch – der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verloren.\n\nHabe Ewr Hochfürstliche Durchlaucht doch nur die einzige Gnade und leit die Sache dort, so ein\n\ndaß mich der Gad[?] nicht antastet um hier arctiren läßt. ich hatte ja den Tod auf der Stelle. Wildeganst läßt mich sagen, daß der Asch und Geld bis Johanni warten würden – aber daz wäre keine Rettung für mich – Ich bitte Ewr Durchlaucht um alles was heilig ist laßen Sie doch die Sache durch die 4000 rthl aufs reine bringen. Hilft nur Gott um habe ich wieder Creditoren so will ich ja gern Vermögen und Seeligkeit gebe, Im tiefſter Hochachtung erſterbe. Ewr Hochfürstliche Durchlaucht Berlin den 23ten May\n\n1801\n\ntreu unterthänigster Diener.\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 8623,
-   "line_end": 8642,
-   "n_lines": 20,
-   "diplomatic": "Durchlauchtigſter Fürſt\nGnädigster Herr\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 Rthl alles abgemacht sey, und daß ich keinen\nWerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht dann ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 Rthl zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kram\nbe ich noch – der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verloren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein",
-   "transcription": "Durchlauchtigſter Fürſt\nGnädigster Herr\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 Rthl alles abgemacht sey, und daß ich keinen\nWerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht dann ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 Rthl zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kram\nbe ich noch – der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verloren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein",
-   "reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr Ewr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur zu verſichern, daß mit dem Asch und Gad in Betreff der 11000 Rthl alles abgemacht sey, und daß ich keinen Werdrus davon haben ſolle.\n\nEw. Hochfürstliche Durchlaucht dann ich für diese Gnädige Zusicherung unterthänigst.\n\nIndes bemerke ich nur daß der Arrest in dieser Sache wieder mich hier liegt, und daß man hier die Orten hergegeben, daß wann Ewr Hochfürstliche Durchlaucht nicht die versprochene 4000 Rthl zahlen würden man mir sofort arretiren solle.\n\nIch weis vor Angst nicht was ich thun soll. Elend kram be ich noch – der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verloren.\n\nHabe Ewr Hochfürstliche Durchlaucht doch nur die einzige Gnade und leit die Sache dort, so ein",
+   "page_id": "0229_b",
+   "line_start": 8617,
+   "line_end": 8637,
+   "n_lines": 21,
+   "diplomatic": "113\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 rt alles abgemacht sey, und daß ich keinen\nVerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 rt zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kre[?]\nbe ich noch – der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verloren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein",
+   "transcription": "113\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 rt alles abgemacht sey, und daß ich keinen\nVerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 rt zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kre[?]\nbe ich noch – der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verloren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein",
+   "reading": "113\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur zu verſichern, daß mit dem Asch und Gad in Betreff der 11000 rt alles abgemacht sey, und daß ich keinen Verdrus davon haben ſolle.\n\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige Zusicherung unterthänigst.\n\nIndes bemerke ich nur daß der Arrest in dieser Sache wieder mich hier liegt, und daß man hier die Orten hergegeben, daß wann Ewr Hochfürstliche Durchlaucht nicht die versprochene 4000 rt zahlen würden man mir sofort arretiren solle.\n\nIch weis vor Angst nicht was ich thun soll. Elend kre[?] be ich noch – der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verloren.\n\nHabe Ewr Hochfürstliche Durchlaucht doch nur die einzige Gnade und leit die Sache dort, so ein",
    "paragraphs": [
+    "113",
     "Durchlauchtigſter Fürſt",
-    "Gnädigster Herr Ewr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur zu verſichern, daß mit dem Asch und Gad in Betreff der 11000 Rthl alles abgemacht sey, und daß ich keinen Werdrus davon haben ſolle.",
-    "Ew. Hochfürstliche Durchlaucht dann ich für diese Gnädige Zusicherung unterthänigst.",
-    "Indes bemerke ich nur daß der Arrest in dieser Sache wieder mich hier liegt, und daß man hier die Orten hergegeben, daß wann Ewr Hochfürstliche Durchlaucht nicht die versprochene 4000 Rthl zahlen würden man mir sofort arretiren solle.",
-    "Ich weis vor Angst nicht was ich thun soll. Elend kram be ich noch – der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verloren.",
+    "Gnädigster Herr!",
+    "Ewr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur zu verſichern, daß mit dem Asch und Gad in Betreff der 11000 rt alles abgemacht sey, und daß ich keinen Verdrus davon haben ſolle.",
+    "Ew. Hochfürstliche Durchlaucht danke ich für diese Gnädige Zusicherung unterthänigst.",
+    "Indes bemerke ich nur daß der Arrest in dieser Sache wieder mich hier liegt, und daß man hier die Orten hergegeben, daß wann Ewr Hochfürstliche Durchlaucht nicht die versprochene 4000 rt zahlen würden man mir sofort arretiren solle.",
+    "Ich weis vor Angst nicht was ich thun soll. Elend kre[?] be ich noch – der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verloren.",
     "Habe Ewr Hochfürstliche Durchlaucht doch nur die einzige Gnade und leit die Sache dort, so ein"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 20
+   "doc_line_end": 21
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 8644,
-   "line_end": 8658,
+   "page_id": "0230_a1",
+   "line_start": 8639,
+   "line_end": 8653,
    "n_lines": 15,
-   "diplomatic": "daß mich der Bau nicht antastet um hier arretiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildegensch läßt mich sagen, daß der Asch und Geld\nbis Johann warten würden – aber daz wäre keine\nRettung für mich –\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 Rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIm tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
-   "transcription": "daß mich der Bau nicht antastet um hier arretiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildegensch läßt mich sagen, daß der Asch und Geld\nbis Johann warten würden – aber daz wäre keine\nRettung für mich –\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 Rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIm tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
-   "reading": "daß mich der Bau nicht antastet um hier arretiren läßt. ich hatte ja den Tod auf der Stelle. Wildegensch läßt mich sagen, daß der Asch und Geld bis Johann warten würden – aber daz wäre keine Rettung für mich – Ich bitte Ewr Durchlaucht um alles was heilig ist laßen Sie doch die Sache durch die 4000 Rthl aufs reine bringen. Hilft nur Gott um habe ich wieder Creditoren so will ich ja gern Vermögen und Seeligkeit gebe, Im tiefſter Hochachtung erſterbe. Ewr Hochfürstliche Durchlaucht Berlin den 23ten May\n\n1801\n\ntreu unterthänigster Diener.\n\nv Triebenfeld",
+   "diplomatic": "daß mich der Gad[?] nicht antastet um hier arctiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildeganst läßt mich sagen, daß der Asch und Geld\nbis Johanni warten würden – aber daz wäre keine\nRettung für mich –\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIm tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
+   "transcription": "daß mich der Gad[?] nicht antastet um hier arctiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildeganst läßt mich sagen, daß der Asch und Geld\nbis Johanni warten würden – aber daz wäre keine\nRettung für mich –\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIm tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
+   "reading": "daß mich der Gad[?] nicht antastet um hier arctiren läßt. ich hatte ja den Tod auf der Stelle. Wildeganst läßt mich sagen, daß der Asch und Geld bis Johanni warten würden – aber daz wäre keine Rettung für mich – Ich bitte Ewr Durchlaucht um alles was heilig ist laßen Sie doch die Sache durch die 4000 rthl aufs reine bringen. Hilft nur Gott um habe ich wieder Creditoren so will ich ja gern Vermögen und Seeligkeit gebe, Im tiefſter Hochachtung erſterbe. Ewr Hochfürstliche Durchlaucht Berlin den 23ten May\n\n1801\n\ntreu unterthänigster Diener.\n\nv Triebenfeld",
    "paragraphs": [
-    "daß mich der Bau nicht antastet um hier arretiren läßt. ich hatte ja den Tod auf der Stelle. Wildegensch läßt mich sagen, daß der Asch und Geld bis Johann warten würden – aber daz wäre keine Rettung für mich – Ich bitte Ewr Durchlaucht um alles was heilig ist laßen Sie doch die Sache durch die 4000 Rthl aufs reine bringen. Hilft nur Gott um habe ich wieder Creditoren so will ich ja gern Vermögen und Seeligkeit gebe, Im tiefſter Hochachtung erſterbe. Ewr Hochfürstliche Durchlaucht Berlin den 23ten May",
+    "daß mich der Gad[?] nicht antastet um hier arctiren läßt. ich hatte ja den Tod auf der Stelle. Wildeganst läßt mich sagen, daß der Asch und Geld bis Johanni warten würden – aber daz wäre keine Rettung für mich – Ich bitte Ewr Durchlaucht um alles was heilig ist laßen Sie doch die Sache durch die 4000 rthl aufs reine bringen. Hilft nur Gott um habe ich wieder Creditoren so will ich ja gern Vermögen und Seeligkeit gebe, Im tiefſter Hochachtung erſterbe. Ewr Hochfürstliche Durchlaucht Berlin den 23ten May",
     "1801",
     "treu unterthänigster Diener.",
     "v Triebenfeld"
@@ -74,8 +77,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "doc_line_start": 21,
-   "doc_line_end": 35
+   "doc_line_start": 22,
+   "doc_line_end": 36
   }
  ],
  "mentions": [
@@ -85,10 +88,21 @@
    "kind": "person",
    "surface": "Asch",
    "page": 1,
-   "page_id": "",
+   "page_id": "0229_b",
    "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
-   "line": 8626,
-   "doc_line": 4
+   "line": 8621,
+   "doc_line": 5
+  },
+  {
+   "entity": "prinz-george",
+   "display": "Prinz George",
+   "kind": "person",
+   "surface": "George",
+   "page": 1,
+   "page_id": "0229_b",
+   "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
+   "line": 8632,
+   "doc_line": 16
   },
   {
    "entity": "asch",
@@ -96,10 +110,10 @@
    "kind": "person",
    "surface": "Asch",
    "page": 2,
-   "page_id": "",
+   "page_id": "0230_a1",
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "line": 8646,
-   "doc_line": 23
+   "line": 8641,
+   "doc_line": 24
   },
   {
    "entity": "triebenfeld",
@@ -107,78 +121,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0230_a1",
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "line": 8658,
-   "doc_line": 35
+   "line": 8653,
+   "doc_line": 36
   }
  ],
- "mentions_english": [
-  {
-   "entity": "asch",
-   "display": "Asch",
-   "kind": "person",
-   "surface_de": "Asch",
-   "surface_en": "Asch",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Gad",
-   "kind": "person",
-   "surface_de": "Gad",
-   "surface_en": "Gad",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince George",
-   "kind": "person",
-   "surface_de": "Prinz George",
-   "surface_en": "Prince George",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Wildegensch",
-   "kind": "person",
-   "surface_de": "Wildegensch",
-   "surface_en": "Wildegensch",
-   "page": 2
-  },
-  {
-   "entity": "asch",
-   "display": "Asch",
-   "kind": "person",
-   "surface_de": "Asch",
-   "surface_en": "Asch",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "John",
-   "kind": "other",
-   "surface_de": "Johann",
-   "surface_en": "John",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -187,77 +136,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0230_a1",
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "line": 8655,
-   "doc_line": 32
+   "line": 8650,
+   "doc_line": 33
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord, Your Most Serene Highness has had the grace to assure me only that everything with Asch and Gad concerning the 11000 Rthl has been settled, and that I should have no vexation from it.\n\nYour Most Serene Highness, then, I [do] most humbly for this gracious assurance.\n\nMeanwhile I observe only that the arrest in this matter still lies against me here, and that people here have given out the [uncertain: places] to the effect that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested at once.\n\nFor fear I do not know what I am to do. In wretchedness I still drag on – Prince George declares himself on nothing and drags my affair out along the long road. I here still risk honour, liberty, and the losing of my life.\n\nYour Most Serene Highness, grant but this one grace and direct the matter there, so that",
-   "names": [
-    {
-     "de": "Asch",
-     "en": "Asch",
-     "kind": "person"
-    },
-    {
-     "de": "Gad",
-     "en": "Gad",
-     "kind": "person"
-    },
-    {
-     "de": "Prinz George",
-     "en": "Prince George",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "11000",
-    "4000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "that the [uncertain: building] does not lay hold of me and have me arrested here. I should have had death on the spot. Wildegensch sends word to me that Asch and the money would wait until John's day – but that would be no rescue for me. – I beg Your Serene Highness, by all that is holy, do let the matter be brought clear by means of the 4000 Rthl. If only God helps, and if I have creditors again, then I will gladly give fortune and salvation. In deepest reverence I remain, until death, Your Most Serene Highness's. Berlin, the 23rd of May\n\n1801\n\nfaithful, most humble and obedient servant.\n\nv Triebenfeld",
-   "names": [
-    {
-     "de": "Wildegensch",
-     "en": "Wildegensch",
-     "kind": "person"
-    },
-    {
-     "de": "Asch",
-     "en": "Asch",
-     "kind": "person"
-    },
-    {
-     "de": "Johann",
-     "en": "John",
-     "kind": "other"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "4000",
-    "23ten",
-    "1801"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord, Your Most Serene Highness has had the grace to assure me only that everything with Asch and Gad concerning the 11000 Rthl has been settled, and that I should have no vexation from it.\n\nYour Most Serene Highness, then, I [do] most humbly for this gracious assurance.\n\nMeanwhile I observe only that the arrest in this matter still lies against me here, and that people here have given out the [uncertain: places] to the effect that, should Your Most Serene Highness not pay the promised 4000 Rthl, I am to be arrested at once.\n\nFor fear I do not know what I am to do. In wretchedness I still drag on – Prince George declares himself on nothing and drags my affair out along the long road. I here still risk honour, liberty, and the losing of my life.\n\nYour Most Serene Highness, grant but this one grace and direct the matter there, so that\n\nthat the [uncertain: building] does not lay hold of me and have me arrested here. I should have had death on the spot. Wildegensch sends word to me that Asch and the money would wait until John's day – but that would be no rescue for me. – I beg Your Serene Highness, by all that is holy, do let the matter be brought clear by means of the 4000 Rthl. If only God helps, and if I have creditors again, then I will gladly give fortune and salvation. In deepest reverence I remain, until death, Your Most Serene Highness's. Berlin, the 23rd of May\n\n1801\n\nfaithful, most humble and obedient servant.\n\nv Triebenfeld",
- "summary_en": "A desperate appeal over the 11,000 Rthl owed to Asch and Gad: despite the Prince's assurance that the matter is settled, an order for arrest still stands against Triebenfeld in Berlin, and he hears he will be seized at once if the promised 4,000 Rthl is not paid. Prince George will commit to nothing and lets the business drag on. Wildegensch offers to wait until John's day, which Triebenfeld says would not save him; he begs that the 4,000 Rthl be paid and his honour and liberty secured.",
- "summary_de": "Bittschreiben wegen der Schuld von 11000 Rthl bei Asch und Gad: Trotz der fürstlichen Versicherung, die Sache sei geregelt, liegt der Arrest weiter gegen Triebenfeld, und man droht ihm mit sofortiger Verhaftung, falls die zugesagten 4000 Rthl ausbleiben. Prinz George erkläre sich zu nichts und verzögere die Angelegenheit; Wildegensch lasse wissen, Asch werde bis Johannistag warten, was keine Rettung sei. Triebenfeld bittet inständig, die 4000 Rthl zu zahlen, da Ehre, Freiheit und Leben auf dem Spiel stünden."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

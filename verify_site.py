@@ -4,7 +4,8 @@ Verify the built site against the canonical database.
 
 Checks:
   1. Every record has a built page.
-  2. The diplomatic text on each built page is character-identical to the corpus.
+  2. The diplomatic text on each built page is character-identical to the corpus,
+     or, for a document transcribed as a table, cell-identical to it.
   3. Every internal link resolves to something that exists.
   4. No page requests anything from an external host.
 
@@ -64,10 +65,16 @@ def main():
         print('No _site/ - run `bundle exec jekyll build` in site/ first.')
         sys.exit(1)
 
+    # A tabulated document's transcription is its table, so its pages are
+    # checked cell by cell against the table rows in the corpus.
+    tables = {(u.slug, lid): t for u in unitlib.load_units()
+              for lid, t in unitlib.load_tables(u).items()}
+
     # ---- 1 & 2: coverage and text fidelity -------------------------------
     print('checking letter pages...')
     seen = set()
     total_ms_pages = 0
+    n_tables = 0
     for lid, rec in by_uid.items():
         # The record carries its own URL, so this follows the unit-scoped
         # permalink rather than assuming a shape.
@@ -79,6 +86,20 @@ def main():
         seen.add(lid)
         with open(path, encoding='utf-8') as f:
             page = f.read()
+        tbl = tables.get((rec.get('unit'), rec.get('letter_id')))
+        if tbl:
+            recovered = unitlib.table_rows_in_page(page)
+            expected = unitlib.table_expected_rows(tbl)
+            if recovered != expected:
+                fail(f'letter {lid}: table differs from the corpus '
+                     f'({len(recovered)} rows vs {len(expected)})')
+            n_tables += 1
+            ms = len(re.findall(r'<section class="ms-page"', page))
+            total_ms_pages += ms
+            if ms != len(rec.get('pages') or []):
+                fail(f'letter {lid}: {ms} page sections built, '
+                     f'{len(rec.get("pages") or [])} expected')
+            continue
         # The diplomatic view is one <li> per manuscript line, inside
         # <ol class="dip">. Scope the extraction to those lists: the page also
         # carries other <li> - the typed relations to other documents - and a
@@ -102,7 +123,8 @@ def main():
         expected_pages = len(rec.get('pages') or [])
         if ms != expected_pages:
             fail(f'letter {lid}: {ms} page sections built, {expected_pages} expected')
-    print(f'  {len(seen)}/{len(by_uid)} documents built with exact text')
+    print(f'  {len(seen)}/{len(by_uid)} documents built with exact text'
+          + (f' ({n_tables} as tables, checked cell by cell)' if n_tables else ''))
     print(f'  {total_ms_pages} manuscript page sections')
 
     # ---- 3: internal links -----------------------------------------------

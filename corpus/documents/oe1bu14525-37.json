@@ -195,6 +195,17 @@
    "doc_line": 6
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0141_b",
+   "scan": "Oe_1_Bu_14525_0141_b-L37_01.jpg",
+   "line": 3750,
+   "doc_line": 7
+  },
+  {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
@@ -204,6 +215,17 @@
    "scan": "Oe_1_Bu_14525_0141_b-L37_01.jpg",
    "line": 3752,
    "doc_line": 9
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingenschen",
+   "page": 1,
+   "page_id": "0141_b",
+   "scan": "Oe_1_Bu_14525_0141_b-L37_01.jpg",
+   "line": 3757,
+   "doc_line": 14
   }
  ],
  "translation_status": "draft",

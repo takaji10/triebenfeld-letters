@@ -1,6 +1,6 @@
 {
  "letter_id": "242",
- "seq_archival": 255,
+ "seq_archival": 252,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-242",
@@ -12,68 +12,78 @@
  "date_iso": "1814-10-12",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "Wien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld",
+ "date_display": "Wien den 12ten 8br 1814",
  "date_inferred_from": "",
  "year": 1814,
  "month": 10,
  "day": 12,
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 17511,
- "line_end": 17567,
- "uncertainty_count": 3,
+ "sender": "",
+ "recipient": "",
+ "line_start": 17460,
+ "line_end": 17519,
+ "uncertainty_count": 5,
  "has_damage": 1,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "koschentin",
+  "trabczyn",
+  "kulm",
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 56,
+ "n_lines": 57,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in¬\nWien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung\ndas Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des\nbaaren Geldes vertritt, führt den Fremde am Stande des Verderbens\nweil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der\nehrliche Mann darf nicht ohne Calcul leben\nMein Text mit dem ich hierher ging war würken und schaffen.\ndas erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war\ndie erſchätternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey,\ndaß die Souverains nach Ofen und Pest auf mehrere Tage reisen daselbst große\nmonveniren halten und gegen Ende d M zurückkehren würden.\nFerner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische aequi¬\nsition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke\nbersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez, oder\neigentlich um fein de paille, ist - der Fürst Hardenberg dem ich gesund um staru\ngefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts\nnehmen laßen – so viel inzwiſchen über allgemeine Dinge\nJezt über die verschiedene Geschäfte\nDie Würtembergsche Angelegenheiten gehen gut - der König von W. der im Grunde\nſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution\nentwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung\n\nvorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes\nGehör - Fürst Mett: würde der Haupt Gegener dieses Regenten sein - aber man hält die\nHeurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll,\nso dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen\ndem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus\ndem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt\nzu sein - der Geheime [?]ath Goesch ist ein feiner artiger und guthmüthiger Mann, der\ndurch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich em¬\npfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und\ncirculiren hier viel Schriften gegen Würtemberg, Baden, und Nassau\nmit erster Post übermache ich deren mehrere\nMit B. und A. habe ich über die Schlaw: Angelegenheiten sehr ausführlich\ngesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler\nFürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man\nwill deßen Gelingen Garantiren\nwegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der\nKurp Sache schienen schon ein sehr sehr großes Capital - diese Geschichte\nkomt also dann erst vor, wann die Curische gelungen ist\nIn Betrift der G[K?]ülm und Kaehminer so wie auch der Trąbczyner Sache Land\nehender nichts bestimmt werden, als bis Pohlens Schulsahl entschieden ist - so viel\nweiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und\ndaß selbst Graf Nesſi in deren Spiel durch Landskog gezogen ist.\nTraurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen,\nBey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon\nzusenden können - doch werde ich nichts versäumen -\nEhrfurchtsvoll ersterbe\nEwr Durchlaucht\nN.S. den Augenblick erfahre ich, daß alle\nfürsten welche nicht 12000 Mann stellen\nkönnen für immer mediatisirt werden sollen, da werde mann auch nicht olden haben es sey den daß es [...]\nWien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in Wien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung das Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des baaren Geldes vertritt, führt den Fremde am Stande des Verderbens weil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der ehrliche Mann darf nicht ohne Calcul leben Mein Text mit dem ich hierher ging war würken und schaffen. das erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war die erſchätternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey, daß die Souverains nach Ofen und Pest auf mehrere Tage reisen daselbst große monveniren halten und gegen Ende d M zurückkehren würden. Ferner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische aequisition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke bersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez, oder eigentlich um fein de paille, ist - der Fürst Hardenberg dem ich gesund um staru gefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts nehmen laßen – so viel inzwiſchen über allgemeine Dinge Jezt über die verschiedene Geschäfte Die Würtembergsche Angelegenheiten gehen gut - der König von W. der im Grunde ſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution entwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung\n\nvorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes Gehör - Fürst Mett: würde der Haupt Gegener dieses Regenten sein - aber man hält die Heurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll, so dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen dem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus dem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt zu sein - der Geheime [?]ath Goesch ist ein feiner artiger und guthmüthiger Mann, der durch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich empfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und circuliren hier viel Schriften gegen Würtemberg, Baden, und Nassau mit erster Post übermache ich deren mehrere Mit B. und A. habe ich über die Schlaw: Angelegenheiten sehr ausführlich gesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler Fürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man will deßen Gelingen Garantiren wegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der Kurp Sache schienen schon ein sehr sehr großes Capital - diese Geschichte komt also dann erst vor, wann die Curische gelungen ist In Betrift der G[K?]ülm und Kaehminer so wie auch der Trąbczyner Sache Land ehender nichts bestimmt werden, als bis Pohlens Schulsahl entschieden ist - so viel weiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und daß selbst Graf Nesſi in deren Spiel durch Landskog gezogen ist. Traurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen, Bey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon zusenden können - doch werde ich nichts versäumen -\n\nEhrfurchtsvoll ersterbe\n\nEwr Durchlaucht\n\nN.S. den Augenblick erfahre ich, daß alle\n\nfürsten welche nicht 12000 Mann stellen können für immer mediatisirt werden sollen, da werde mann auch nicht olden haben es sey den daß es [...] Wien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld",
+ "text": "242\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in\nWien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung\ndas Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des\nbaaren Geldes vertritt, führt den Fremde am Stande des Verderbens\nweil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der\nehrliche Mann darf nicht ohne Calcul leben -\nMein Text mit dem ich hierher ging war würken und schaffen.\ndas erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war\ndie erſchütternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey,\ndaß die Souverains nach Ofen und Post auf mehrere Tage reisen daselbst große\nmonreniren[?] halten und gegen Ende d M zurückkehren würden.\nFerner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische acqui¬\nsition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke\nbersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez oder\neigentlich um feu de paille, ist - der Fürst Hardenberg dem ich gesund um stark\ngefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts\nnehmen laßen – so viel inzwiſchen über allgemeine Dinge -\nJezt über die verschiedene Geschäfte -\nDie Würtembergsche Angelegenheiten gehen gut - der König von W[ürtemberg]. der im Grunde\nſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution\nentwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung\nvorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes\nGehör - Fürst Mett[ernich]: würde der Haupt Gegener dieses Regenten sein - aber man hält die\nHeurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll,\nso dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen -\ndem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus\ndem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt\nzu sein - der Geheime Rath Goesch ist ein feiner artiger und guthmüthiger Mann, der\ndurch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich em¬\npfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und [...]\ncirculiren hier viel Schriften gegen Würtemberg, Baden, und Nassau -\nmit erster Post übermache ich deren mehrere\nMit B: und A: habe ich über die Schlaw[enschitz]: Angelegenheiten sehr ausführlich\ngesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler\nFürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man\nwill deßen Gelingen Garantiren\nwegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der\nCur[ische] Sache schienen schon ein sehr sehr großes Capital - diese Geschichte\nkomt also dann erst vor, wann die Curische gelungen ist\nIn Betrift der Kulm und Kaemener so wie auch der Trąbczyner Sache Land\nehender nichts bestimmt werden, als bis Pohlens Schicksahl entschieden ist - so viel\nweiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und\ndaß selbst Graf Nesſi in deren Spiel durch Landskoy gezogen ist.\nTraurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen,\nBey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon\nzusenden können - doch werde ich nichts versäumen -\nEhrfurchtsvoll ersterbe\nEwr Durchlaucht\nN.S. den Augenblick erfahre ich, daß alle¬\nr fürsten welche nicht 12000 Mann stellen\nkönnen für immer mediatisirt werden sollen, da werde mann auch [...] olden[...] haben es sey den daß es zu nachtsrhalt[?]\nWien den 12ten 8br 1814\ntreu unterthänigsten Diener\nv Triebenfeld",
+ "text_reading": "242\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in Wien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung das Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des baaren Geldes vertritt, führt den Fremde am Stande des Verderbens weil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der ehrliche Mann darf nicht ohne Calcul leben - Mein Text mit dem ich hierher ging war würken und schaffen. das erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war die erſchütternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey, daß die Souverains nach Ofen und Post auf mehrere Tage reisen daselbst große monreniren[?] halten und gegen Ende d M zurückkehren würden. Ferner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische acquisition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke bersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez oder eigentlich um feu de paille, ist - der Fürst Hardenberg dem ich gesund um stark gefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts nehmen laßen – so viel inzwiſchen über allgemeine Dinge - Jezt über die verschiedene Geschäfte - Die Würtembergsche Angelegenheiten gehen gut - der König von W[ürtemberg]. der im Grunde ſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution entwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung\n\nvorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes Gehör - Fürst Mett[ernich]: würde der Haupt Gegener dieses Regenten sein - aber man hält die Heurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll, so dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen - dem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus dem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt zu sein - der Geheime Rath Goesch ist ein feiner artiger und guthmüthiger Mann, der durch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich empfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und [...] circuliren hier viel Schriften gegen Würtemberg, Baden, und Nassau - mit erster Post übermache ich deren mehrere Mit B: und A: habe ich über die Schlaw[enschitz]: Angelegenheiten sehr ausführlich gesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler Fürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man will deßen Gelingen Garantiren wegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der Cur[ische] Sache schienen schon ein sehr sehr großes Capital - diese Geschichte komt also dann erst vor, wann die Curische gelungen ist In Betrift der Kulm und Kaemener so wie auch der Trąbczyner Sache Land ehender nichts bestimmt werden, als bis Pohlens Schicksahl entschieden ist - so viel weiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und daß selbst Graf Nesſi in deren Spiel durch Landskoy gezogen ist. Traurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen, Bey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon zusenden können - doch werde ich nichts versäumen -\n\nEhrfurchtsvoll ersterbe\n\nEwr Durchlaucht\n\nN.S. den Augenblick erfahre ich, daß aller fürsten welche nicht 12000 Mann stellen können für immer mediatisirt werden sollen, da werde mann auch [...] olden[...] haben es sey den daß es zu nachtsrhalt[?] Wien den 12ten 8br 1814\n\ntreu unterthänigsten Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 17512,
-   "line_end": 17534,
-   "n_lines": 23,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in¬\nWien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung\ndas Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des\nbaaren Geldes vertritt, führt den Fremde am Stande des Verderbens\nweil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der\nehrliche Mann darf nicht ohne Calcul leben\nMein Text mit dem ich hierher ging war würken und schaffen.\ndas erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war\ndie erſchätternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey,\ndaß die Souverains nach Ofen und Pest auf mehrere Tage reisen daselbst große\nmonveniren halten und gegen Ende d M zurückkehren würden.\nFerner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische aequi¬\nsition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke\nbersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez, oder\neigentlich um fein de paille, ist - der Fürst Hardenberg dem ich gesund um staru\ngefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts\nnehmen laßen – so viel inzwiſchen über allgemeine Dinge\nJezt über die verschiedene Geschäfte\nDie Würtembergsche Angelegenheiten gehen gut - der König von W. der im Grunde\nſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution\nentwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in\nWien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung\ndas Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des\nbaaren Geldes vertritt, führt den Fremde am Stande des Verderbens\nweil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der\nehrliche Mann darf nicht ohne Calcul leben\nMein Text mit dem ich hierher ging war würken und schaffen.\ndas erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war\ndie erſchätternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey,\ndaß die Souverains nach Ofen und Pest auf mehrere Tage reisen daselbst große\nmonveniren halten und gegen Ende d M zurückkehren würden.\nFerner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische aequi-\nsition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke\nbersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez, oder\neigentlich um fein de paille, ist - der Fürst Hardenberg dem ich gesund um staru\ngefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts\nnehmen laßen – so viel inzwiſchen über allgemeine Dinge\nJezt über die verschiedene Geschäfte\nDie Würtembergsche Angelegenheiten gehen gut - der König von W. der im Grunde\nſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution\nentwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in Wien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung das Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des baaren Geldes vertritt, führt den Fremde am Stande des Verderbens weil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der ehrliche Mann darf nicht ohne Calcul leben Mein Text mit dem ich hierher ging war würken und schaffen. das erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war die erſchätternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey, daß die Souverains nach Ofen und Pest auf mehrere Tage reisen daselbst große monveniren halten und gegen Ende d M zurückkehren würden. Ferner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische aequisition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke bersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez, oder eigentlich um fein de paille, ist - der Fürst Hardenberg dem ich gesund um staru gefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts nehmen laßen – so viel inzwiſchen über allgemeine Dinge Jezt über die verschiedene Geschäfte Die Würtembergsche Angelegenheiten gehen gut - der König von W. der im Grunde ſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution entwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung",
+   "page_id": "0450_a2",
+   "line_start": 17462,
+   "line_end": 17485,
+   "n_lines": 24,
+   "diplomatic": "242\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in\nWien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung\ndas Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des\nbaaren Geldes vertritt, führt den Fremde am Stande des Verderbens\nweil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der\nehrliche Mann darf nicht ohne Calcul leben -\nMein Text mit dem ich hierher ging war würken und schaffen.\ndas erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war\ndie erſchütternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey,\ndaß die Souverains nach Ofen und Post auf mehrere Tage reisen daselbst große\nmonreniren[?] halten und gegen Ende d M zurückkehren würden.\nFerner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische acqui¬\nsition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke\nbersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez oder\neigentlich um feu de paille, ist - der Fürst Hardenberg dem ich gesund um stark\ngefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts\nnehmen laßen – so viel inzwiſchen über allgemeine Dinge -\nJezt über die verschiedene Geschäfte -\nDie Würtembergsche Angelegenheiten gehen gut - der König von W[ürtemberg]. der im Grunde\nſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution\nentwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung",
+   "transcription": "242\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in\nWien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung\ndas Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des\nbaaren Geldes vertritt, führt den Fremde am Stande des Verderbens\nweil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der\nehrliche Mann darf nicht ohne Calcul leben -\nMein Text mit dem ich hierher ging war würken und schaffen.\ndas erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war\ndie erſchütternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey,\ndaß die Souverains nach Ofen und Post auf mehrere Tage reisen daselbst große\nmonreniren[?] halten und gegen Ende d M zurückkehren würden.\nFerner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische acqui-\nsition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke\nbersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez oder\neigentlich um feu de paille, ist - der Fürst Hardenberg dem ich gesund um stark\ngefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts\nnehmen laßen – so viel inzwiſchen über allgemeine Dinge -\nJezt über die verschiedene Geschäfte -\nDie Würtembergsche Angelegenheiten gehen gut - der König von W[ürtemberg]. der im Grunde\nſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution\nentwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung",
+   "reading": "242\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nNach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in Wien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung das Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des baaren Geldes vertritt, führt den Fremde am Stande des Verderbens weil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der ehrliche Mann darf nicht ohne Calcul leben - Mein Text mit dem ich hierher ging war würken und schaffen. das erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war die erſchütternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey, daß die Souverains nach Ofen und Post auf mehrere Tage reisen daselbst große monreniren[?] halten und gegen Ende d M zurückkehren würden. Ferner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische acquisition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke bersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez oder eigentlich um feu de paille, ist - der Fürst Hardenberg dem ich gesund um stark gefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts nehmen laßen – so viel inzwiſchen über allgemeine Dinge - Jezt über die verschiedene Geschäfte - Die Würtembergsche Angelegenheiten gehen gut - der König von W[ürtemberg]. der im Grunde ſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution entwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung",
    "paragraphs": [
+    "242",
     "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "Nach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in Wien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung das Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des baaren Geldes vertritt, führt den Fremde am Stande des Verderbens weil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der ehrliche Mann darf nicht ohne Calcul leben Mein Text mit dem ich hierher ging war würken und schaffen. das erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war die erſchätternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey, daß die Souverains nach Ofen und Pest auf mehrere Tage reisen daselbst große monveniren halten und gegen Ende d M zurückkehren würden. Ferner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische aequisition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke bersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez, oder eigentlich um fein de paille, ist - der Fürst Hardenberg dem ich gesund um staru gefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts nehmen laßen – so viel inzwiſchen über allgemeine Dinge Jezt über die verschiedene Geschäfte Die Würtembergsche Angelegenheiten gehen gut - der König von W. der im Grunde ſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution entwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung"
+    "Nach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebracht bin ich in Wien angelangt - die exorbitanteste Theuerung fand ich hier an der Tagesordnung das Liebe und manchmal sehr zerlumpte Papier, was wie bekannt die Stelle des baaren Geldes vertritt, führt den Fremde am Stande des Verderbens weil es der Im- und Ausländer nicht richtet. Doch darüber einen Floro der ehrliche Mann darf nicht ohne Calcul leben - Mein Text mit dem ich hierher ging war würken und schaffen. das erste was ich bey meinen Eintritt in der berühmten Kayserstatt hörte, war die erſchütternde Nachricht, daß der Congress bis zum ersten Novbr ausgeſezt ſey, daß die Souverains nach Ofen und Post auf mehrere Tage reisen daselbst große monreniren[?] halten und gegen Ende d M zurückkehren würden. Ferner daß Frankreich sich sehr gegen unsere Sächßiſche und Pohlnische acquisition sträube. Mein altes Patriotisches Herz hätte über diese Neuweke bersten mögen. – Und es hoffe ich daß dies blos eine forzon de parlez oder eigentlich um feu de paille, ist - der Fürst Hardenberg dem ich gesund um stark gefunden haben, steht feſten Sinnes und wird ſich von ſeinem Rechte nichts nehmen laßen – so viel inzwiſchen über allgemeine Dinge - Jezt über die verschiedene Geschäfte - Die Würtembergsche Angelegenheiten gehen gut - der König von W[ürtemberg]. der im Grunde ſehr unzufrieden hier ist, wird viel nachgeben; Er wird ſelbſt eine Constitution entwerfen und selbige den verbündeten Monarchien zur Prüfung und Bestätigung"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 23
+   "doc_line_end": 24
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 17536,
-   "line_end": 17566,
-   "n_lines": 31,
-   "diplomatic": "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes\nGehör - Fürst Mett: würde der Haupt Gegener dieses Regenten sein - aber man hält die\nHeurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll,\nso dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen\ndem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus\ndem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt\nzu sein - der Geheime [?]ath Goesch ist ein feiner artiger und guthmüthiger Mann, der\ndurch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich em¬\npfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und\ncirculiren hier viel Schriften gegen Würtemberg, Baden, und Nassau\nmit erster Post übermache ich deren mehrere\nMit B. und A. habe ich über die Schlaw: Angelegenheiten sehr ausführlich\ngesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler\nFürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man\nwill deßen Gelingen Garantiren\nwegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der\nKurp Sache schienen schon ein sehr sehr großes Capital - diese Geschichte\nkomt also dann erst vor, wann die Curische gelungen ist\nIn Betrift der G[K?]ülm und Kaehminer so wie auch der Trąbczyner Sache Land\nehender nichts bestimmt werden, als bis Pohlens Schulsahl entschieden ist - so viel\nweiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und\ndaß selbst Graf Nesſi in deren Spiel durch Landskog gezogen ist.\nTraurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen,\nBey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon\nzusenden können - doch werde ich nichts versäumen -\nEhrfurchtsvoll ersterbe\nEwr Durchlaucht\nN.S. den Augenblick erfahre ich, daß alle\nfürsten welche nicht 12000 Mann stellen\nkönnen für immer mediatisirt werden sollen, da werde mann auch nicht olden haben es sey den daß es [...]\nWien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld",
-   "transcription": "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes\nGehör - Fürst Mett: würde der Haupt Gegener dieses Regenten sein - aber man hält die\nHeurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll,\nso dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen\ndem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus\ndem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt\nzu sein - der Geheime [?]ath Goesch ist ein feiner artiger und guthmüthiger Mann, der\ndurch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich em-\npfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und\ncirculiren hier viel Schriften gegen Würtemberg, Baden, und Nassau\nmit erster Post übermache ich deren mehrere\nMit B. und A. habe ich über die Schlaw: Angelegenheiten sehr ausführlich\ngesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler\nFürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man\nwill deßen Gelingen Garantiren\nwegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der\nKurp Sache schienen schon ein sehr sehr großes Capital - diese Geschichte\nkomt also dann erst vor, wann die Curische gelungen ist\nIn Betrift der G[K?]ülm und Kaehminer so wie auch der Trąbczyner Sache Land\nehender nichts bestimmt werden, als bis Pohlens Schulsahl entschieden ist - so viel\nweiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und\ndaß selbst Graf Nesſi in deren Spiel durch Landskog gezogen ist.\nTraurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen,\nBey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon\nzusenden können - doch werde ich nichts versäumen -\nEhrfurchtsvoll ersterbe\nEwr Durchlaucht\nN.S. den Augenblick erfahre ich, daß alle\nfürsten welche nicht 12000 Mann stellen\nkönnen für immer mediatisirt werden sollen, da werde mann auch nicht olden haben es sey den daß es [...]\nWien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld",
-   "reading": "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes Gehör - Fürst Mett: würde der Haupt Gegener dieses Regenten sein - aber man hält die Heurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll, so dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen dem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus dem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt zu sein - der Geheime [?]ath Goesch ist ein feiner artiger und guthmüthiger Mann, der durch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich empfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und circuliren hier viel Schriften gegen Würtemberg, Baden, und Nassau mit erster Post übermache ich deren mehrere Mit B. und A. habe ich über die Schlaw: Angelegenheiten sehr ausführlich gesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler Fürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man will deßen Gelingen Garantiren wegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der Kurp Sache schienen schon ein sehr sehr großes Capital - diese Geschichte komt also dann erst vor, wann die Curische gelungen ist In Betrift der G[K?]ülm und Kaehminer so wie auch der Trąbczyner Sache Land ehender nichts bestimmt werden, als bis Pohlens Schulsahl entschieden ist - so viel weiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und daß selbst Graf Nesſi in deren Spiel durch Landskog gezogen ist. Traurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen, Bey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon zusenden können - doch werde ich nichts versäumen -\n\nEhrfurchtsvoll ersterbe\n\nEwr Durchlaucht\n\nN.S. den Augenblick erfahre ich, daß alle\n\nfürsten welche nicht 12000 Mann stellen können für immer mediatisirt werden sollen, da werde mann auch nicht olden haben es sey den daß es [...] Wien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld",
+   "page_id": "0451_a1",
+   "line_start": 17487,
+   "line_end": 17519,
+   "n_lines": 33,
+   "diplomatic": "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes\nGehör - Fürst Mett[ernich]: würde der Haupt Gegener dieses Regenten sein - aber man hält die\nHeurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll,\nso dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen -\ndem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus\ndem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt\nzu sein - der Geheime Rath Goesch ist ein feiner artiger und guthmüthiger Mann, der\ndurch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich em¬\npfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und [...]\ncirculiren hier viel Schriften gegen Würtemberg, Baden, und Nassau -\nmit erster Post übermache ich deren mehrere\nMit B: und A: habe ich über die Schlaw[enschitz]: Angelegenheiten sehr ausführlich\ngesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler\nFürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man\nwill deßen Gelingen Garantiren\nwegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der\nCur[ische] Sache schienen schon ein sehr sehr großes Capital - diese Geschichte\nkomt also dann erst vor, wann die Curische gelungen ist\nIn Betrift der Kulm und Kaemener so wie auch der Trąbczyner Sache Land\nehender nichts bestimmt werden, als bis Pohlens Schicksahl entschieden ist - so viel\nweiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und\ndaß selbst Graf Nesſi in deren Spiel durch Landskoy gezogen ist.\nTraurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen,\nBey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon\nzusenden können - doch werde ich nichts versäumen -\nEhrfurchtsvoll ersterbe\nEwr Durchlaucht\nN.S. den Augenblick erfahre ich, daß alle¬\nr fürsten welche nicht 12000 Mann stellen\nkönnen für immer mediatisirt werden sollen, da werde mann auch [...] olden[...] haben es sey den daß es zu nachtsrhalt[?]\nWien den 12ten 8br 1814\ntreu unterthänigsten Diener\nv Triebenfeld",
+   "transcription": "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes\nGehör - Fürst Mett[ernich]: würde der Haupt Gegener dieses Regenten sein - aber man hält die\nHeurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll,\nso dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen -\ndem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus\ndem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt\nzu sein - der Geheime Rath Goesch ist ein feiner artiger und guthmüthiger Mann, der\ndurch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich em-\npfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und [...]\ncirculiren hier viel Schriften gegen Würtemberg, Baden, und Nassau -\nmit erster Post übermache ich deren mehrere\nMit B: und A: habe ich über die Schlaw[enschitz]: Angelegenheiten sehr ausführlich\ngesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler\nFürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man\nwill deßen Gelingen Garantiren\nwegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der\nCur[ische] Sache schienen schon ein sehr sehr großes Capital - diese Geschichte\nkomt also dann erst vor, wann die Curische gelungen ist\nIn Betrift der Kulm und Kaemener so wie auch der Trąbczyner Sache Land\nehender nichts bestimmt werden, als bis Pohlens Schicksahl entschieden ist - so viel\nweiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und\ndaß selbst Graf Nesſi in deren Spiel durch Landskoy gezogen ist.\nTraurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen,\nBey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon\nzusenden können - doch werde ich nichts versäumen -\nEhrfurchtsvoll ersterbe\nEwr Durchlaucht\nN.S. den Augenblick erfahre ich, daß alle-\nr fürsten welche nicht 12000 Mann stellen\nkönnen für immer mediatisirt werden sollen, da werde mann auch [...] olden[...] haben es sey den daß es zu nachtsrhalt[?]\nWien den 12ten 8br 1814\ntreu unterthänigsten Diener\nv Triebenfeld",
+   "reading": "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes Gehör - Fürst Mett[ernich]: würde der Haupt Gegener dieses Regenten sein - aber man hält die Heurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll, so dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen - dem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus dem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt zu sein - der Geheime Rath Goesch ist ein feiner artiger und guthmüthiger Mann, der durch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich empfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und [...] circuliren hier viel Schriften gegen Würtemberg, Baden, und Nassau - mit erster Post übermache ich deren mehrere Mit B: und A: habe ich über die Schlaw[enschitz]: Angelegenheiten sehr ausführlich gesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler Fürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man will deßen Gelingen Garantiren wegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der Cur[ische] Sache schienen schon ein sehr sehr großes Capital - diese Geschichte komt also dann erst vor, wann die Curische gelungen ist In Betrift der Kulm und Kaemener so wie auch der Trąbczyner Sache Land ehender nichts bestimmt werden, als bis Pohlens Schicksahl entschieden ist - so viel weiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und daß selbst Graf Nesſi in deren Spiel durch Landskoy gezogen ist. Traurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen, Bey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon zusenden können - doch werde ich nichts versäumen -\n\nEhrfurchtsvoll ersterbe\n\nEwr Durchlaucht\n\nN.S. den Augenblick erfahre ich, daß aller fürsten welche nicht 12000 Mann stellen können für immer mediatisirt werden sollen, da werde mann auch [...] olden[...] haben es sey den daß es zu nachtsrhalt[?] Wien den 12ten 8br 1814\n\ntreu unterthänigsten Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes Gehör - Fürst Mett: würde der Haupt Gegener dieses Regenten sein - aber man hält die Heurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll, so dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen dem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus dem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt zu sein - der Geheime [?]ath Goesch ist ein feiner artiger und guthmüthiger Mann, der durch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich empfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und circuliren hier viel Schriften gegen Würtemberg, Baden, und Nassau mit erster Post übermache ich deren mehrere Mit B. und A. habe ich über die Schlaw: Angelegenheiten sehr ausführlich gesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler Fürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man will deßen Gelingen Garantiren wegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der Kurp Sache schienen schon ein sehr sehr großes Capital - diese Geschichte komt also dann erst vor, wann die Curische gelungen ist In Betrift der G[K?]ülm und Kaehminer so wie auch der Trąbczyner Sache Land ehender nichts bestimmt werden, als bis Pohlens Schulsahl entschieden ist - so viel weiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und daß selbst Graf Nesſi in deren Spiel durch Landskog gezogen ist. Traurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen, Bey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon zusenden können - doch werde ich nichts versäumen -",
+    "vorlegen — die sämtliche Stände stürmen auf den guten Herrn ein, und finden genügtes Gehör - Fürst Mett[ernich]: würde der Haupt Gegener dieses Regenten sein - aber man hält die Heurath für gewiß, und da der Titul der Königl. Hoheit - beigegeben werden soll, so dürfte dies wohl eine Veränderung in den Gesinnungen des Fürsten M hervor bringen - dem Geheimen Rath v Gärtner habe ich heute Mittag zu mir gebeten wir noch jemand aus dem Cabinet bey mir sein wird - Es scheint ein Mann a la fandel jedoch mehr gesezt zu sein - der Geheime Rath Goesch ist ein feiner artiger und guthmüthiger Mann, der durch der Prinzeß, welche sich vor der Hand mit ihrem Gemal Ewr Durchl. herzlich empfiehlt, würksamer, als der erstere ist - der Herr v Gärtner ist Autor, und [...] circuliren hier viel Schriften gegen Würtemberg, Baden, und Nassau - mit erster Post übermache ich deren mehrere Mit B: und A: habe ich über die Schlaw[enschitz]: Angelegenheiten sehr ausführlich gesprochen, und deren Rath eingeholt ehe ich die Sache dem H. Staats Kanzler Fürsten Hardenberg einreichte - Mein Plan ist sehr gut geheißen, und man will deßen Gelingen Garantiren wegen Koschentin kan ich noch nichts anbringen - die erforderlichen Gelder in der Cur[ische] Sache schienen schon ein sehr sehr großes Capital - diese Geschichte komt also dann erst vor, wann die Curische gelungen ist In Betrift der Kulm und Kaemener so wie auch der Trąbczyner Sache Land ehender nichts bestimmt werden, als bis Pohlens Schicksahl entschieden ist - so viel weiß ich indeß, daß die Moscinska geborene Prusimska große Freunde hat, und daß selbst Graf Nesſi in deren Spiel durch Landskoy gezogen ist. Traurig ist es daß alle Unsere Concire über Prag und Dresden nach Berlin gehen, Bey dem häufigen Gange hätte ich Ewr Durchlaucht manche Sache auf das schon zusenden können - doch werde ich nichts versäumen -",
     "Ehrfurchtsvoll ersterbe",
     "Ewr Durchlaucht",
-    "N.S. den Augenblick erfahre ich, daß alle",
-    "fürsten welche nicht 12000 Mann stellen können für immer mediatisirt werden sollen, da werde mann auch nicht olden haben es sey den daß es [...] Wien den 12ten 8br 1814, treu unterthänigsten Diener v Triebenfeld"
+    "N.S. den Augenblick erfahre ich, daß aller fürsten welche nicht 12000 Mann stellen können für immer mediatisirt werden sollen, da werde mann auch [...] olden[...] haben es sey den daß es zu nachtsrhalt[?] Wien den 12ten 8br 1814",
+    "treu unterthänigsten Diener",
+    "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "doc_line_start": 24,
-   "doc_line_end": 54
+   "doc_line_start": 25,
+   "doc_line_end": 57
   }
  ],
  "mentions": [
@@ -83,10 +93,10 @@
    "kind": "person",
    "surface": "Hardenberg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0450_a2",
    "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
-   "line": 17528,
-   "doc_line": 17
+   "line": 17479,
+   "doc_line": 18
   },
   {
    "entity": "gaertner",
@@ -94,10 +104,10 @@
    "kind": "person",
    "surface": "Gärtner",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17540,
-   "doc_line": 28
+   "line": 17491,
+   "doc_line": 29
   },
   {
    "entity": "gaertner",
@@ -105,10 +115,10 @@
    "kind": "person",
    "surface": "Gärtner",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17544,
-   "doc_line": 32
+   "line": 17495,
+   "doc_line": 33
   },
   {
    "entity": "hardenberg",
@@ -116,10 +126,10 @@
    "kind": "person",
    "surface": "Hardenberg",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17549,
-   "doc_line": 37
+   "line": 17500,
+   "doc_line": 38
   },
   {
    "entity": "prusimska",
@@ -127,10 +137,10 @@
    "kind": "person",
    "surface": "Moscinska",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17556,
-   "doc_line": 44
+   "line": 17507,
+   "doc_line": 45
   },
   {
    "entity": "prusimska",
@@ -138,10 +148,21 @@
    "kind": "person",
    "surface": "Prusimska",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17556,
-   "doc_line": 44
+   "line": 17507,
+   "doc_line": 45
+  },
+  {
+   "entity": "landskoy",
+   "display": "Lanskoy",
+   "kind": "person",
+   "surface": "Landskoy",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17508,
+   "doc_line": 46
   },
   {
    "entity": "triebenfeld",
@@ -149,25 +170,113 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17566,
-   "doc_line": 54
+   "line": 17519,
+   "doc_line": 57
   }
  ],
  "mentions_english": [],
  "place_canonical": "Wien",
  "place_mentions": [
   {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0450_a2",
+   "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+   "line": 17466,
+   "doc_line": 5
+  },
+  {
+   "entity": "ofen",
+   "display": "Ofen (Buda)",
+   "kind": "place",
+   "surface": "Ofen",
+   "page": 1,
+   "page_id": "0450_a2",
+   "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+   "line": 17474,
+   "doc_line": 13
+  },
+  {
+   "entity": "frankreich",
+   "display": "Frankreich",
+   "kind": "place",
+   "surface": "Frankreich",
+   "page": 1,
+   "page_id": "0450_a2",
+   "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+   "line": 17476,
+   "doc_line": 15
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "Würtembergsche",
+   "page": 1,
+   "page_id": "0450_a2",
+   "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+   "line": 17483,
+   "doc_line": 22
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "Würtemberg",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17496,
+   "doc_line": 34
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17502,
+   "doc_line": 40
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemener",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17505,
+   "doc_line": 43
+  },
+  {
+   "entity": "kulm",
+   "display": "Kulm",
+   "kind": "place",
+   "surface": "Kulm",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17505,
+   "doc_line": 43
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17554,
-   "doc_line": 42
+   "line": 17505,
+   "doc_line": 43
   },
   {
    "entity": "berlin",
@@ -175,24 +284,48 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-   "line": 17558,
-   "doc_line": 46
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAfter a toilsome journey, upon which I spent 3 days and 2 nights, I have arrived in Vienna — the most exorbitant dearness I found to be the order of the day here; the dear and sometimes very tattered paper, which as is known takes the place of ready money, brings the stranger to the brink of ruin, because it does not [uncertain: guide] the native and the foreigner alike. But of that a [uncertain: Floro] — the honest man may not live without reckoning. My text, with which I came hither, was to work and to accomplish. The first thing I heard upon my entry into the famous imperial city was the shattering news that the Congress has been postponed until the first of November, that the sovereigns are travelling to Ofen and Pest for several days, will hold great [uncertain: manoeuvres] there and return towards the end of this month. Further, that France is setting itself very much against our Saxon and Polish acquisition. My old patriotic heart could have burst over these novelties. — And I hope that this is merely a façon de parler, or rather a mere feint (fin de paille) — Prince Hardenberg, whom I have found in good health and [uncertain: firm], stands of steadfast mind and will let nothing be taken from him of his right — so much, in the meantime, of general matters. Now to the various items of business. The Württemberg affairs go well — the King of W., who at bottom is very ill content to be here, will yield much; he will himself draft a constitution and submit the same to the allied monarchies for examination and confirmation"
+   "line": 17509,
+   "doc_line": 47
   },
   {
+   "entity": "dresden",
+   "display": "Dresden",
+   "kind": "place",
+   "surface": "Dresden",
    "page": 2,
-   "en": "— the assembled estates press hard upon the good gentleman, and find a satisfied hearing — Prince Mett: would be the chief opponent of this regent — but the marriage is held to be certain, and since the title of Royal Highness is to be conferred along with it, this might well bring about a change in the sentiments of Prince M. I have asked the Privy Councillor von Gärtner to me at noon today, [uncertain: as] someone else from the Cabinet will also be with me — He appears to be a man à la [uncertain: Fandel], though more settled — the Privy Council[illegible] Goesch is a refined, obliging and good-natured man, who through the Princess — who for the present, together with her consort, commends herself most cordially to Your Serene Highness — is more effective than the former — Herr von Gärtner is an author, and many writings against Württemberg, Baden and Nassau are circulating here; by the first post I shall forward several of them. With B. and A. I have spoken very fully about the Schlaw: affairs, and obtained their counsel before I submitted the matter to the Lord State Chancellor Prince Hardenberg — my plan has been very well approved, and they will guarantee its success. Concerning Koschentin I can as yet bring forward nothing — the funds required in the Kurp affair seemed already a very very great capital — this business will therefore only come up once the Courland one has succeeded. As regards the G[uncertain: K]ülm and Kaehmin matter, as also the Trąbczyn matter, nothing can be determined sooner than until Poland's fate is decided — this much, however, I know, that the Moscinska née Prusimska has great friends, and that even Count Nesſi has been drawn into her game through Landskog. It is a sad thing that all our [uncertain: couriers] go to Berlin by way of Prague and Dresden. With the frequent traffic I could have sent Your Serene Highness many a thing on the [uncertain: spot] — yet I shall neglect nothing —\n\nIn deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nP.S. This very moment I learn that all\n\nprinces who cannot furnish 12000 men are to be mediatised for ever; then one will also not have [uncertain: olden] it, unless it be that it [text lost] Vienna, the 12th of 8br 1814, most faithful and humble and obedient servant v Triebenfeld"
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17509,
+   "doc_line": 47
+  },
+  {
+   "entity": "prag",
+   "display": "Prag",
+   "kind": "place",
+   "surface": "Prag",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17509,
+   "doc_line": 47
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17517,
+   "doc_line": 55
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nAfter a toilsome journey, upon which I spent 3 days and 2 nights, I have arrived in Vienna — the most exorbitant dearness I found to be the order of the day here; the dear and sometimes very tattered paper, which as is known takes the place of ready money, brings the stranger to the brink of ruin, because it does not [uncertain: guide] the native and the foreigner alike. But of that a [uncertain: Floro] — the honest man may not live without reckoning. My text, with which I came hither, was to work and to accomplish. The first thing I heard upon my entry into the famous imperial city was the shattering news that the Congress has been postponed until the first of November, that the sovereigns are travelling to Ofen and Pest for several days, will hold great [uncertain: manoeuvres] there and return towards the end of this month. Further, that France is setting itself very much against our Saxon and Polish acquisition. My old patriotic heart could have burst over these novelties. — And I hope that this is merely a façon de parler, or rather a mere feint (fin de paille) — Prince Hardenberg, whom I have found in good health and [uncertain: firm], stands of steadfast mind and will let nothing be taken from him of his right — so much, in the meantime, of general matters. Now to the various items of business. The Württemberg affairs go well — the King of W., who at bottom is very ill content to be here, will yield much; he will himself draft a constitution and submit the same to the allied monarchies for examination and confirmation\n\n— the assembled estates press hard upon the good gentleman, and find a satisfied hearing — Prince Mett: would be the chief opponent of this regent — but the marriage is held to be certain, and since the title of Royal Highness is to be conferred along with it, this might well bring about a change in the sentiments of Prince M. I have asked the Privy Councillor von Gärtner to me at noon today, [uncertain: as] someone else from the Cabinet will also be with me — He appears to be a man à la [uncertain: Fandel], though more settled — the Privy Council[illegible] Goesch is a refined, obliging and good-natured man, who through the Princess — who for the present, together with her consort, commends herself most cordially to Your Serene Highness — is more effective than the former — Herr von Gärtner is an author, and many writings against Württemberg, Baden and Nassau are circulating here; by the first post I shall forward several of them. With B. and A. I have spoken very fully about the Schlaw: affairs, and obtained their counsel before I submitted the matter to the Lord State Chancellor Prince Hardenberg — my plan has been very well approved, and they will guarantee its success. Concerning Koschentin I can as yet bring forward nothing — the funds required in the Kurp affair seemed already a very very great capital — this business will therefore only come up once the Courland one has succeeded. As regards the G[uncertain: K]ülm and Kaehmin matter, as also the Trąbczyn matter, nothing can be determined sooner than until Poland's fate is decided — this much, however, I know, that the Moscinska née Prusimska has great friends, and that even Count Nesſi has been drawn into her game through Landskog. It is a sad thing that all our [uncertain: couriers] go to Berlin by way of Prague and Dresden. With the frequent traffic I could have sent Your Serene Highness many a thing on the [uncertain: spot] — yet I shall neglect nothing —\n\nIn deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nP.S. This very moment I learn that all\n\nprinces who cannot furnish 12000 men are to be mediatised for ever; then one will also not have [uncertain: olden] it, unless it be that it [text lost] Vienna, the 12th of 8br 1814, most faithful and humble and obedient servant v Triebenfeld",
- "summary_en": "A report from Vienna on arrival for the Congress: ruinous prices and depreciated paper money, the Congress postponed to 1 November while the sovereigns visit Ofen and Pest, and French opposition to the Saxon and Polish acquisitions. Hardenberg is well and unyielding; the King of Württemberg will concede a constitution for the allies' approval. The Schlaw plan is approved, Koschentin and the Courland business must wait, and the Külm, Kaehmin and Trąbczyn matters depend on Poland's fate, with Moscinska née Prusimska well connected.",
- "summary_de": "Bericht über die Ankunft in Wien nach dreitägiger Reise, die hohe Teuerung und das entwertete Papiergeld sowie die Verschiebung des Congresses auf den 1. November, da die Souveräne nach Ofen und Pest reisen; Frankreich widersetze sich dem sächsischen und polnischen Erwerb. Hardenberg sei wohlauf und standhaft. Zu den Geschäften: die württembergischen Sachen gehen gut, Gespräche mit Gärtner und Goesch; der Schlaw. Plan sei gebilligt, Koschentin ruhe bis zum Erfolg der kurländischen Sache, Külm, Kaehmin und Trąbczyn bis zur Entscheidung über Polen, wobei die Moscinska geb. Prusimska starke Fürsprecher habe."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

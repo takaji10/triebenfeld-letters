@@ -1,6 +1,6 @@
 {
  "letter_id": "236",
- "seq_archival": 249,
+ "seq_archival": 246,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-236",
@@ -9,73 +9,79 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1812-07",
- "date_precision": "month",
+ "date_iso": "1812-07-11",
+ "date_precision": "day",
  "date_source": "signature",
  "date_display": "1812",
  "date_inferred_from": "",
  "year": 1812,
  "month": 7,
- "day": "",
+ "day": 11,
  "place": "Blizanow",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 17207,
- "line_end": 17253,
+ "sender": "",
+ "recipient": "",
+ "line_start": 17150,
+ "line_end": 17197,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 46,
+ "n_lines": 45,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\nGnädigster Herr!\nDer gute alte Weigel ist hier gewesen. Er hatt mir\nſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über\ngeben. Unserer Abrede gemäs soll ich mit ihm sobald ich\ngeneſe zu Ewr Durchlaucht reiſen – je schneller mir nun\nGott hilft, je früher bin ich mit das alte Hauß bey Ewr\nDurchlaucht. Seine Offerten sind gut und für Ewr durch\nlaucht gewiß vorteilhaft.\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine\nSache kan wäre ich hinkomme abgemacht werden.\ndie bewuſten Papiere ſehe ich ſehnſuchts voll entgegen\num die Maschine im Gange zu erhalten\nbeigehenden Brief unterzeichnen Ewr Durchlaucht und\nſchicken ihm mir pr. Expressen zurück, damit ich ihm\ndem Prüfekten übergaben kan. Der Honrichs\nist ein elender bösewicht.\nÜbrigens höhre ich so eben eine traurige Nachricht\nMein Sohn der öfters mit Cosmar zusammen gewesen\n\nhatt von demselben die prächtige Versicherung erhalten\ndaß auch kein Mensch dem Ewr Durchlaucht schuldig\nsind, je einen Groschen erhält. Er hatt hinzu gesezt\nauch ihr Herr Vater bekönt, um einen heller. Denn\nalle Menschen die dem Fürsten je gedient und geholffen\nhaben sind total unglücklich und kommen um das\nIhrige\nGott wolle dies verhühten und dem Cosmar zum Lügener\nwerden laßen.\nNur die Documente und um den Brief an den Prasekten\nbitte ich tief gehorſamſt erſterbe.\nEwr Durchlaucht\nHrn Weigel will kaufen\nDaher habe ich den Pacht\nContract aufgeſchoben, Er\nfolgt meinen Rath – Ich muß\nmir Ewr Durchlaucht Gesinnungen\nund die Verhältniße erst kamen\nbesonders wie Sie mit Ihren Kindern stehen.\nzahles wird sich den finden\nBlizanow\nd. 41ten July\n1812\nunterthäniger diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nDer gute alte Weigel ist hier gewesen. Er hatt mir ſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über geben. Unserer Abrede gemäs soll ich mit ihm sobald ich geneſe zu Ewr Durchlaucht reiſen – je schneller mir nun Gott hilft, je früher bin ich mit das alte Hauß bey Ewr Durchlaucht. Seine Offerten sind gut und für Ewr durch laucht gewiß vorteilhaft.\n\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine Sache kan wäre ich hinkomme abgemacht werden. die bewuſten Papiere ſehe ich ſehnſuchts voll entgegen um die Maschine im Gange zu erhalten beigehenden Brief unterzeichnen Ewr Durchlaucht und ſchicken ihm mir pr. Expressen zurück, damit ich ihm dem Prüfekten übergaben kan. Der Honrichs ist ein elender bösewicht.\n\nÜbrigens höhre ich so eben eine traurige Nachricht Mein Sohn der öfters mit Cosmar zusammen gewesen\n\nhatt von demselben die prächtige Versicherung erhalten daß auch kein Mensch dem Ewr Durchlaucht schuldig sind, je einen Groschen erhält. Er hatt hinzu gesezt auch ihr Herr Vater bekönt, um einen heller. Denn alle Menschen die dem Fürsten je gedient und geholffen haben sind total unglücklich und kommen um das Ihrige Gott wolle dies verhühten und dem Cosmar zum Lügener werden laßen.\n\nNur die Documente und um den Brief an den Prasekten bitte ich tief gehorſamſt erſterbe. Ewr Durchlaucht Hrn Weigel will kaufen Daher habe ich den Pacht Contract aufgeſchoben, Er folgt meinen Rath – Ich muß mir Ewr Durchlaucht Gesinnungen und die Verhältniße erst kamen besonders wie Sie mit Ihren Kindern stehen. zahles wird sich den finden Blizanow\n\nd. 41ten July 1812\n\nunterthäniger diener\n\nv Triebenfeld",
+ "text": "236\nDurchlauchtigster Fürst\nGnädigster Herr!\nDer gute alte Weigel ist hier gewesen. Er hatt mir\nſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über\ngeben. Unserer Abrede gemäs soll ich mit ihm sobald ich\ngeneſe zu Ewr Durchlaucht reiſen – je schneller mir nun\nGott hilft, je früher bin ich mit das alte Hauß bey Ewr\nDurchlaucht. Seine Offerten sind gut und für Ewr durch\nlaucht gewiß vorteilhaft.\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine\nSache kan wäre ich hinkomme abgemacht werden.\ndie bewuſten Papiere ſehe ich ſehnſuchts voll entgegen\num die Maschine im Gange zu erhalten\nbeigehenden Brief unterzeichnen Ewr Durchlaucht und\nſchicken ihm mir pr. Expressen zurück, damit ich ihm\ndem Prefecten übergaben kan. Der Honrichs\nist ein elender bösewicht.\nÜbrigens höhre ich so eben eine traurige Nachricht\nMein Sohn der öfters mit Cosmar zusammen gewesen\nhatt von demselben die prächtige Versicherung erhalten\ndaß auch kein Mensch dem Ewr Durchlaucht schuldig\nsind, je einen Groschen erhält. Er hatt hinzu gesezt\nauch ihr Herr Vater bekömt, um einen heller. Denn\nalle Menschen die dem Fürsten je gedient und geholffen\nhaben sind total unglücklich und kommen um das\nIhrige -\nGott wolle dies verhühten und dem Cosmar zum Lügener\nwerden laßen.\nNur die Documente und um den Brief an den Prefecten\nbitte ich tief gehorſamſt erſterbe.\nEwr Durchlaucht\nHrn Weigel will kaufen\nDaher habe ich den Pacht\nContract aufgeſchoben, Er\nfolgt meinen Rath – Ich muß\nmir Ewr Durchlaucht Gesinnungen\nund die Verhältniße erst Kamen\nbesonders wie Sie mit Ihren Kindern stehen.\nAlles wird sich den finden\nBlizanow\nd. 11ten July\n1812\nunterthäniger diener\nv Triebenfeld",
+ "text_reading": "236\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nDer gute alte Weigel ist hier gewesen. Er hatt mir ſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über geben. Unserer Abrede gemäs soll ich mit ihm sobald ich geneſe zu Ewr Durchlaucht reiſen – je schneller mir nun Gott hilft, je früher bin ich mit das alte Hauß bey Ewr Durchlaucht. Seine Offerten sind gut und für Ewr durch laucht gewiß vorteilhaft.\n\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine Sache kan wäre ich hinkomme abgemacht werden. die bewuſten Papiere ſehe ich ſehnſuchts voll entgegen um die Maschine im Gange zu erhalten beigehenden Brief unterzeichnen Ewr Durchlaucht und ſchicken ihm mir pr. Expressen zurück, damit ich ihm dem Prefecten übergaben kan. Der Honrichs ist ein elender bösewicht.\n\nÜbrigens höhre ich so eben eine traurige Nachricht Mein Sohn der öfters mit Cosmar zusammen gewesen\n\nhatt von demselben die prächtige Versicherung erhalten daß auch kein Mensch dem Ewr Durchlaucht schuldig sind, je einen Groschen erhält. Er hatt hinzu gesezt auch ihr Herr Vater bekömt, um einen heller. Denn alle Menschen die dem Fürsten je gedient und geholffen haben sind total unglücklich und kommen um das Ihrige - Gott wolle dies verhühten und dem Cosmar zum Lügener werden laßen.\n\nNur die Documente und um den Brief an den Prefecten bitte ich tief gehorſamſt erſterbe. Ewr Durchlaucht Hrn Weigel will kaufen Daher habe ich den Pacht Contract aufgeſchoben, Er folgt meinen Rath – Ich muß mir Ewr Durchlaucht Gesinnungen und die Verhältniße erst Kamen besonders wie Sie mit Ihren Kindern stehen. Alles wird sich den finden Blizanow\n\nd. 11ten July 1812\n\nunterthäniger diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 17208,
-   "line_end": 17226,
-   "n_lines": 19,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Herr!\nDer gute alte Weigel ist hier gewesen. Er hatt mir\nſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über\ngeben. Unserer Abrede gemäs soll ich mit ihm sobald ich\ngeneſe zu Ewr Durchlaucht reiſen – je schneller mir nun\nGott hilft, je früher bin ich mit das alte Hauß bey Ewr\nDurchlaucht. Seine Offerten sind gut und für Ewr durch\nlaucht gewiß vorteilhaft.\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine\nSache kan wäre ich hinkomme abgemacht werden.\ndie bewuſten Papiere ſehe ich ſehnſuchts voll entgegen\num die Maschine im Gange zu erhalten\nbeigehenden Brief unterzeichnen Ewr Durchlaucht und\nſchicken ihm mir pr. Expressen zurück, damit ich ihm\ndem Prüfekten übergaben kan. Der Honrichs\nist ein elender bösewicht.\nÜbrigens höhre ich so eben eine traurige Nachricht\nMein Sohn der öfters mit Cosmar zusammen gewesen",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Herr!\nDer gute alte Weigel ist hier gewesen. Er hatt mir\nſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über\ngeben. Unserer Abrede gemäs soll ich mit ihm sobald ich\ngeneſe zu Ewr Durchlaucht reiſen – je schneller mir nun\nGott hilft, je früher bin ich mit das alte Hauß bey Ewr\nDurchlaucht. Seine Offerten sind gut und für Ewr durch\nlaucht gewiß vorteilhaft.\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine\nSache kan wäre ich hinkomme abgemacht werden.\ndie bewuſten Papiere ſehe ich ſehnſuchts voll entgegen\num die Maschine im Gange zu erhalten\nbeigehenden Brief unterzeichnen Ewr Durchlaucht und\nſchicken ihm mir pr. Expressen zurück, damit ich ihm\ndem Prüfekten übergaben kan. Der Honrichs\nist ein elender bösewicht.\nÜbrigens höhre ich so eben eine traurige Nachricht\nMein Sohn der öfters mit Cosmar zusammen gewesen",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nDer gute alte Weigel ist hier gewesen. Er hatt mir ſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über geben. Unserer Abrede gemäs soll ich mit ihm sobald ich geneſe zu Ewr Durchlaucht reiſen – je schneller mir nun Gott hilft, je früher bin ich mit das alte Hauß bey Ewr Durchlaucht. Seine Offerten sind gut und für Ewr durch laucht gewiß vorteilhaft.\n\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine Sache kan wäre ich hinkomme abgemacht werden. die bewuſten Papiere ſehe ich ſehnſuchts voll entgegen um die Maschine im Gange zu erhalten beigehenden Brief unterzeichnen Ewr Durchlaucht und ſchicken ihm mir pr. Expressen zurück, damit ich ihm dem Prüfekten übergaben kan. Der Honrichs ist ein elender bösewicht.\n\nÜbrigens höhre ich so eben eine traurige Nachricht Mein Sohn der öfters mit Cosmar zusammen gewesen",
+   "page_id": "0443_a2",
+   "line_start": 17152,
+   "line_end": 17171,
+   "n_lines": 20,
+   "diplomatic": "236\nDurchlauchtigster Fürst\nGnädigster Herr!\nDer gute alte Weigel ist hier gewesen. Er hatt mir\nſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über\ngeben. Unserer Abrede gemäs soll ich mit ihm sobald ich\ngeneſe zu Ewr Durchlaucht reiſen – je schneller mir nun\nGott hilft, je früher bin ich mit das alte Hauß bey Ewr\nDurchlaucht. Seine Offerten sind gut und für Ewr durch\nlaucht gewiß vorteilhaft.\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine\nSache kan wäre ich hinkomme abgemacht werden.\ndie bewuſten Papiere ſehe ich ſehnſuchts voll entgegen\num die Maschine im Gange zu erhalten\nbeigehenden Brief unterzeichnen Ewr Durchlaucht und\nſchicken ihm mir pr. Expressen zurück, damit ich ihm\ndem Prefecten übergaben kan. Der Honrichs\nist ein elender bösewicht.\nÜbrigens höhre ich so eben eine traurige Nachricht\nMein Sohn der öfters mit Cosmar zusammen gewesen",
+   "transcription": "236\nDurchlauchtigster Fürst\nGnädigster Herr!\nDer gute alte Weigel ist hier gewesen. Er hatt mir\nſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über\ngeben. Unserer Abrede gemäs soll ich mit ihm sobald ich\ngeneſe zu Ewr Durchlaucht reiſen – je schneller mir nun\nGott hilft, je früher bin ich mit das alte Hauß bey Ewr\nDurchlaucht. Seine Offerten sind gut und für Ewr durch\nlaucht gewiß vorteilhaft.\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine\nSache kan wäre ich hinkomme abgemacht werden.\ndie bewuſten Papiere ſehe ich ſehnſuchts voll entgegen\num die Maschine im Gange zu erhalten\nbeigehenden Brief unterzeichnen Ewr Durchlaucht und\nſchicken ihm mir pr. Expressen zurück, damit ich ihm\ndem Prefecten übergaben kan. Der Honrichs\nist ein elender bösewicht.\nÜbrigens höhre ich so eben eine traurige Nachricht\nMein Sohn der öfters mit Cosmar zusammen gewesen",
+   "reading": "236\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nDer gute alte Weigel ist hier gewesen. Er hatt mir ſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über geben. Unserer Abrede gemäs soll ich mit ihm sobald ich geneſe zu Ewr Durchlaucht reiſen – je schneller mir nun Gott hilft, je früher bin ich mit das alte Hauß bey Ewr Durchlaucht. Seine Offerten sind gut und für Ewr durch laucht gewiß vorteilhaft.\n\nDer Herr v. Sobottendorff kan beruhiget sein, auch seine Sache kan wäre ich hinkomme abgemacht werden. die bewuſten Papiere ſehe ich ſehnſuchts voll entgegen um die Maschine im Gange zu erhalten beigehenden Brief unterzeichnen Ewr Durchlaucht und ſchicken ihm mir pr. Expressen zurück, damit ich ihm dem Prefecten übergaben kan. Der Honrichs ist ein elender bösewicht.\n\nÜbrigens höhre ich so eben eine traurige Nachricht Mein Sohn der öfters mit Cosmar zusammen gewesen",
    "paragraphs": [
+    "236",
     "Durchlauchtigster Fürst",
     "Gnädigster Herr!",
     "Der gute alte Weigel ist hier gewesen. Er hatt mir ſeine ganze Sachen welche er mit Ewr Durchlaucht hatt über geben. Unserer Abrede gemäs soll ich mit ihm sobald ich geneſe zu Ewr Durchlaucht reiſen – je schneller mir nun Gott hilft, je früher bin ich mit das alte Hauß bey Ewr Durchlaucht. Seine Offerten sind gut und für Ewr durch laucht gewiß vorteilhaft.",
-    "Der Herr v. Sobottendorff kan beruhiget sein, auch seine Sache kan wäre ich hinkomme abgemacht werden. die bewuſten Papiere ſehe ich ſehnſuchts voll entgegen um die Maschine im Gange zu erhalten beigehenden Brief unterzeichnen Ewr Durchlaucht und ſchicken ihm mir pr. Expressen zurück, damit ich ihm dem Prüfekten übergaben kan. Der Honrichs ist ein elender bösewicht.",
+    "Der Herr v. Sobottendorff kan beruhiget sein, auch seine Sache kan wäre ich hinkomme abgemacht werden. die bewuſten Papiere ſehe ich ſehnſuchts voll entgegen um die Maschine im Gange zu erhalten beigehenden Brief unterzeichnen Ewr Durchlaucht und ſchicken ihm mir pr. Expressen zurück, damit ich ihm dem Prefecten übergaben kan. Der Honrichs ist ein elender bösewicht.",
     "Übrigens höhre ich so eben eine traurige Nachricht Mein Sohn der öfters mit Cosmar zusammen gewesen"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0443_a2-L236_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 19
+   "doc_line_end": 20
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 17228,
-   "line_end": 17252,
+   "page_id": "0444_a1",
+   "line_start": 17173,
+   "line_end": 17197,
    "n_lines": 25,
-   "diplomatic": "hatt von demselben die prächtige Versicherung erhalten\ndaß auch kein Mensch dem Ewr Durchlaucht schuldig\nsind, je einen Groschen erhält. Er hatt hinzu gesezt\nauch ihr Herr Vater bekönt, um einen heller. Denn\nalle Menschen die dem Fürsten je gedient und geholffen\nhaben sind total unglücklich und kommen um das\nIhrige\nGott wolle dies verhühten und dem Cosmar zum Lügener\nwerden laßen.\nNur die Documente und um den Brief an den Prasekten\nbitte ich tief gehorſamſt erſterbe.\nEwr Durchlaucht\nHrn Weigel will kaufen\nDaher habe ich den Pacht\nContract aufgeſchoben, Er\nfolgt meinen Rath – Ich muß\nmir Ewr Durchlaucht Gesinnungen\nund die Verhältniße erst kamen\nbesonders wie Sie mit Ihren Kindern stehen.\nzahles wird sich den finden\nBlizanow\nd. 41ten July\n1812\nunterthäniger diener\nv Triebenfeld",
-   "transcription": "hatt von demselben die prächtige Versicherung erhalten\ndaß auch kein Mensch dem Ewr Durchlaucht schuldig\nsind, je einen Groschen erhält. Er hatt hinzu gesezt\nauch ihr Herr Vater bekönt, um einen heller. Denn\nalle Menschen die dem Fürsten je gedient und geholffen\nhaben sind total unglücklich und kommen um das\nIhrige\nGott wolle dies verhühten und dem Cosmar zum Lügener\nwerden laßen.\nNur die Documente und um den Brief an den Prasekten\nbitte ich tief gehorſamſt erſterbe.\nEwr Durchlaucht\nHrn Weigel will kaufen\nDaher habe ich den Pacht\nContract aufgeſchoben, Er\nfolgt meinen Rath – Ich muß\nmir Ewr Durchlaucht Gesinnungen\nund die Verhältniße erst kamen\nbesonders wie Sie mit Ihren Kindern stehen.\nzahles wird sich den finden\nBlizanow\nd. 41ten July\n1812\nunterthäniger diener\nv Triebenfeld",
-   "reading": "hatt von demselben die prächtige Versicherung erhalten daß auch kein Mensch dem Ewr Durchlaucht schuldig sind, je einen Groschen erhält. Er hatt hinzu gesezt auch ihr Herr Vater bekönt, um einen heller. Denn alle Menschen die dem Fürsten je gedient und geholffen haben sind total unglücklich und kommen um das Ihrige Gott wolle dies verhühten und dem Cosmar zum Lügener werden laßen.\n\nNur die Documente und um den Brief an den Prasekten bitte ich tief gehorſamſt erſterbe. Ewr Durchlaucht Hrn Weigel will kaufen Daher habe ich den Pacht Contract aufgeſchoben, Er folgt meinen Rath – Ich muß mir Ewr Durchlaucht Gesinnungen und die Verhältniße erst kamen besonders wie Sie mit Ihren Kindern stehen. zahles wird sich den finden Blizanow\n\nd. 41ten July 1812\n\nunterthäniger diener\n\nv Triebenfeld",
+   "diplomatic": "hatt von demselben die prächtige Versicherung erhalten\ndaß auch kein Mensch dem Ewr Durchlaucht schuldig\nsind, je einen Groschen erhält. Er hatt hinzu gesezt\nauch ihr Herr Vater bekömt, um einen heller. Denn\nalle Menschen die dem Fürsten je gedient und geholffen\nhaben sind total unglücklich und kommen um das\nIhrige -\nGott wolle dies verhühten und dem Cosmar zum Lügener\nwerden laßen.\nNur die Documente und um den Brief an den Prefecten\nbitte ich tief gehorſamſt erſterbe.\nEwr Durchlaucht\nHrn Weigel will kaufen\nDaher habe ich den Pacht\nContract aufgeſchoben, Er\nfolgt meinen Rath – Ich muß\nmir Ewr Durchlaucht Gesinnungen\nund die Verhältniße erst Kamen\nbesonders wie Sie mit Ihren Kindern stehen.\nAlles wird sich den finden\nBlizanow\nd. 11ten July\n1812\nunterthäniger diener\nv Triebenfeld",
+   "transcription": "hatt von demselben die prächtige Versicherung erhalten\ndaß auch kein Mensch dem Ewr Durchlaucht schuldig\nsind, je einen Groschen erhält. Er hatt hinzu gesezt\nauch ihr Herr Vater bekömt, um einen heller. Denn\nalle Menschen die dem Fürsten je gedient und geholffen\nhaben sind total unglücklich und kommen um das\nIhrige -\nGott wolle dies verhühten und dem Cosmar zum Lügener\nwerden laßen.\nNur die Documente und um den Brief an den Prefecten\nbitte ich tief gehorſamſt erſterbe.\nEwr Durchlaucht\nHrn Weigel will kaufen\nDaher habe ich den Pacht\nContract aufgeſchoben, Er\nfolgt meinen Rath – Ich muß\nmir Ewr Durchlaucht Gesinnungen\nund die Verhältniße erst Kamen\nbesonders wie Sie mit Ihren Kindern stehen.\nAlles wird sich den finden\nBlizanow\nd. 11ten July\n1812\nunterthäniger diener\nv Triebenfeld",
+   "reading": "hatt von demselben die prächtige Versicherung erhalten daß auch kein Mensch dem Ewr Durchlaucht schuldig sind, je einen Groschen erhält. Er hatt hinzu gesezt auch ihr Herr Vater bekömt, um einen heller. Denn alle Menschen die dem Fürsten je gedient und geholffen haben sind total unglücklich und kommen um das Ihrige - Gott wolle dies verhühten und dem Cosmar zum Lügener werden laßen.\n\nNur die Documente und um den Brief an den Prefecten bitte ich tief gehorſamſt erſterbe. Ewr Durchlaucht Hrn Weigel will kaufen Daher habe ich den Pacht Contract aufgeſchoben, Er folgt meinen Rath – Ich muß mir Ewr Durchlaucht Gesinnungen und die Verhältniße erst Kamen besonders wie Sie mit Ihren Kindern stehen. Alles wird sich den finden Blizanow\n\nd. 11ten July 1812\n\nunterthäniger diener\n\nv Triebenfeld",
    "paragraphs": [
-    "hatt von demselben die prächtige Versicherung erhalten daß auch kein Mensch dem Ewr Durchlaucht schuldig sind, je einen Groschen erhält. Er hatt hinzu gesezt auch ihr Herr Vater bekönt, um einen heller. Denn alle Menschen die dem Fürsten je gedient und geholffen haben sind total unglücklich und kommen um das Ihrige Gott wolle dies verhühten und dem Cosmar zum Lügener werden laßen.",
-    "Nur die Documente und um den Brief an den Prasekten bitte ich tief gehorſamſt erſterbe. Ewr Durchlaucht Hrn Weigel will kaufen Daher habe ich den Pacht Contract aufgeſchoben, Er folgt meinen Rath – Ich muß mir Ewr Durchlaucht Gesinnungen und die Verhältniße erst kamen besonders wie Sie mit Ihren Kindern stehen. zahles wird sich den finden Blizanow",
-    "d. 41ten July 1812",
+    "hatt von demselben die prächtige Versicherung erhalten daß auch kein Mensch dem Ewr Durchlaucht schuldig sind, je einen Groschen erhält. Er hatt hinzu gesezt auch ihr Herr Vater bekömt, um einen heller. Denn alle Menschen die dem Fürsten je gedient und geholffen haben sind total unglücklich und kommen um das Ihrige - Gott wolle dies verhühten und dem Cosmar zum Lügener werden laßen.",
+    "Nur die Documente und um den Brief an den Prefecten bitte ich tief gehorſamſt erſterbe. Ewr Durchlaucht Hrn Weigel will kaufen Daher habe ich den Pacht Contract aufgeſchoben, Er folgt meinen Rath – Ich muß mir Ewr Durchlaucht Gesinnungen und die Verhältniße erst Kamen besonders wie Sie mit Ihren Kindern stehen. Alles wird sich den finden Blizanow",
+    "d. 11ten July 1812",
     "unterthäniger diener",
     "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0444_a1-L236_02.jpg",
-   "doc_line_start": 20,
-   "doc_line_end": 44
+   "doc_line_start": 21,
+   "doc_line_end": 45
   }
  ],
  "mentions": [
@@ -85,10 +91,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0443_a2",
    "scan": "Oe_1_Bu_9454_0443_a2-L236_01.jpg",
-   "line": 17210,
-   "doc_line": 3
+   "line": 17155,
+   "doc_line": 4
   },
   {
    "entity": "sobottendorff",
@@ -96,10 +102,10 @@
    "kind": "person",
    "surface": "Sobottendorff",
    "page": 1,
-   "page_id": "",
+   "page_id": "0443_a2",
    "scan": "Oe_1_Bu_9454_0443_a2-L236_01.jpg",
-   "line": 17217,
-   "doc_line": 10
+   "line": 17162,
+   "doc_line": 11
   },
   {
    "entity": "honrichs",
@@ -107,10 +113,10 @@
    "kind": "person",
    "surface": "Honrichs",
    "page": 1,
-   "page_id": "",
+   "page_id": "0443_a2",
    "scan": "Oe_1_Bu_9454_0443_a2-L236_01.jpg",
-   "line": 17223,
-   "doc_line": 16
+   "line": 17168,
+   "doc_line": 17
   },
   {
    "entity": "cosmar",
@@ -118,10 +124,10 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0443_a2",
    "scan": "Oe_1_Bu_9454_0443_a2-L236_01.jpg",
-   "line": 17226,
-   "doc_line": 19
+   "line": 17171,
+   "doc_line": 20
   },
   {
    "entity": "cosmar",
@@ -129,10 +135,10 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 2,
-   "page_id": "",
+   "page_id": "0444_a1",
    "scan": "Oe_1_Bu_9454_0444_a1-L236_02.jpg",
-   "line": 17235,
-   "doc_line": 27
+   "line": 17180,
+   "doc_line": 28
   },
   {
    "entity": "weigel",
@@ -140,10 +146,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 2,
-   "page_id": "",
+   "page_id": "0444_a1",
    "scan": "Oe_1_Bu_9454_0444_a1-L236_02.jpg",
-   "line": 17240,
-   "doc_line": 32
+   "line": 17185,
+   "doc_line": 33
   },
   {
    "entity": "triebenfeld",
@@ -151,78 +157,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0444_a1",
    "scan": "Oe_1_Bu_9454_0444_a1-L236_02.jpg",
-   "line": 17252,
-   "doc_line": 44
+   "line": 17197,
+   "doc_line": 45
   }
  ],
- "mentions_english": [
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Sir von Sobottendorff",
-   "kind": "person",
-   "surface_de": "Herr v. Sobottendorff",
-   "surface_en": "Sir von Sobottendorff",
-   "page": 1
-  },
-  {
-   "entity": "honrichs",
-   "display": "Honrichs",
-   "kind": "person",
-   "surface_de": "Honrichs",
-   "surface_en": "Honrichs",
-   "page": 1
-  },
-  {
-   "entity": "cosmar",
-   "display": "Cosmar",
-   "kind": "person",
-   "surface_de": "Cosmar",
-   "surface_en": "Cosmar",
-   "page": 1
-  },
-  {
-   "entity": "cosmar",
-   "display": "Cosmar",
-   "kind": "person",
-   "surface_de": "Cosmar",
-   "surface_en": "Cosmar",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Mr Weigel",
-   "kind": "person",
-   "surface_de": "Hrn Weigel",
-   "surface_en": "Mr Weigel",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Blizanow",
-   "kind": "place",
-   "surface_de": "Blizanow",
-   "surface_en": "Blizanow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -231,72 +172,15 @@
    "kind": "place",
    "surface": "Blizanow",
    "page": 2,
-   "page_id": "",
+   "page_id": "0444_a1",
    "scan": "Oe_1_Bu_9454_0444_a1-L236_02.jpg",
-   "line": 17248,
-   "doc_line": 40
+   "line": 17193,
+   "doc_line": 41
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Lord!\n\nGood old Weigel has been here. He has handed over to me all his affairs which he has with Your Serene Highness. According to our agreement I am to travel with him to Your Serene Highness as soon as I recover — the sooner God now helps me, the earlier I shall be with the old house at Your Serene Highness's. His offers are good and certainly advantageous for Your Serene Highness.\n\nSir von Sobottendorff may be easy; his affair too can be settled once I get there. I look forward most longingly to the papers in question, so as to keep the machine in motion. Let Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the prefect. Honrichs is a wretched scoundrel.\n\nFor the rest, I have just now heard a sad piece of news. My son, who has often been together with Cosmar,",
-   "names": [
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Herr v. Sobottendorff",
-     "en": "Sir von Sobottendorff",
-     "kind": "person"
-    },
-    {
-     "de": "Honrichs",
-     "en": "Honrichs",
-     "kind": "person"
-    },
-    {
-     "de": "Cosmar",
-     "en": "Cosmar",
-     "kind": "person"
-    }
-   ]
-  },
-  {
-   "page": 2,
-   "en": "has received from him the splendid assurance that not a single person to whom Your Serene Highness is indebted will ever receive one Groschen. He added that your father too will get not a heller. For all persons who have ever served and helped the Prince are utterly ruined and lose what is theirs. May God prevent this and make a liar of Cosmar.\n\nOnly the documents, and the letter to the prefect, I most deeply and obediently beg for. I remain, until death, Your Serene Highness's. Mr Weigel wishes to buy; therefore I have deferred the lease contract. He follows my advice — I must first learn Your Serene Highness's sentiments and the circumstances, particularly how you stand with your children. The payment will then be found.\n\nBlizanow, the 41st of July 1812\n\nhumble and obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Cosmar",
-     "en": "Cosmar",
-     "kind": "person"
-    },
-    {
-     "de": "Hrn Weigel",
-     "en": "Mr Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Blizanow",
-     "en": "Blizanow",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "41",
-    "1812"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince,\n\nMost gracious Lord!\n\nGood old Weigel has been here. He has handed over to me all his affairs which he has with Your Serene Highness. According to our agreement I am to travel with him to Your Serene Highness as soon as I recover — the sooner God now helps me, the earlier I shall be with the old house at Your Serene Highness's. His offers are good and certainly advantageous for Your Serene Highness.\n\nSir von Sobottendorff may be easy; his affair too can be settled once I get there. I look forward most longingly to the papers in question, so as to keep the machine in motion. Let Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the prefect. Honrichs is a wretched scoundrel.\n\nFor the rest, I have just now heard a sad piece of news. My son, who has often been together with Cosmar,\n\nhas received from him the splendid assurance that not a single person to whom Your Serene Highness is indebted will ever receive one Groschen. He added that your father too will get not a heller. For all persons who have ever served and helped the Prince are utterly ruined and lose what is theirs. May God prevent this and make a liar of Cosmar.\n\nOnly the documents, and the letter to the prefect, I most deeply and obediently beg for. I remain, until death, Your Serene Highness's. Mr Weigel wishes to buy; therefore I have deferred the lease contract. He follows my advice — I must first learn Your Serene Highness's sentiments and the circumstances, particularly how you stand with your children. The payment will then be found.\n\nBlizanow, the 41st of July 1812\n\nhumble and obedient servant\n\nv. Triebenfeld",
- "summary_en": "Reports that Weigel has handed over all his business with the Prince and intends to buy rather than lease, so the lease contract has been deferred pending the Prince's wishes and his position with his children; Triebenfeld promises to travel to the Prince with him once his health allows. Sobottendorff's affair can also be settled then. He begs urgently for the papers and for the Prince's signature on an enclosed letter for the prefect, and relays Cosmar's claim, reported by Triebenfeld's son, that no creditor will be paid a Groschen.",
- "summary_de": "Bericht über einen Besuch des alten Weigel, der Triebenfeld alle seine Geschäfte mit dem Fürsten übertragen hat und nun kaufen statt pachten will; deshalb hat Triebenfeld den Pachtvertrag zurückgestellt und bittet um die Ansichten des Fürsten, auch zum Verhältnis zu dessen Kindern. Sobottendorffs Sache lasse sich nach seiner Ankunft regeln. Dringend erbeten werden die Papiere und der unterschriebene, für den Präfekten bestimmte Brief. Cosmar habe gegenüber Triebenfelds Sohn erklärt, kein Gläubiger des Fürsten werde einen Groschen erhalten."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

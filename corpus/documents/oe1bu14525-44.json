@@ -79,8 +79,30 @@
    "page": 1,
    "page_id": "0155_b",
    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
+   "line": 4118,
+   "doc_line": 9
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0155_b",
+   "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
    "line": 4126,
    "doc_line": 17
+  },
+  {
+   "entity": "danckelmann",
+   "display": "Danckelmann",
+   "kind": "person",
+   "surface": "Danckelmann",
+   "page": 1,
+   "page_id": "0155_b",
+   "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
+   "line": 4133,
+   "doc_line": 24
   },
   {
    "entity": "hohenlohe",
@@ -144,7 +166,7 @@
    "page": 1
   },
   {
-   "entity": "",
+   "entity": "danckelmann",
    "display": "Danckelmann",
    "kind": "person",
    "surface_de": "Danckelmann",
@@ -191,6 +213,17 @@
    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
    "line": 4131,
    "doc_line": 22
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0155_b",
+   "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
+   "line": 4136,
+   "doc_line": 27
   }
  ],
  "translation_status": "draft",

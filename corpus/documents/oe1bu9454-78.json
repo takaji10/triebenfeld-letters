@@ -20,111 +20,128 @@
  "place": "Berlin",
  "sender": "",
  "recipient": "",
- "line_start": 6384,
- "line_end": 6450,
- "uncertainty_count": 0,
+ "line_start": 6391,
+ "line_end": 6457,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "krotoszyn",
+  "polajewo"
+ ],
  "is_missing": 0,
- "n_lines": 66,
+ "n_lines": 62,
  "n_pages": 4,
- "text": "Durchleuchtigstes Fürst,\nGnädigster Fürst und Herr!\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt\nund bin bey dem Geh. Ewang Rath Schultz gewesen.\nden ich vorgestern getroffen habe. Er wüste noch nichts\nnäheres von der Sache, als daß er Eure durchl. Schreiben\nan den Minister v. Voss gelesen hatte. Ueber die\nSache selbst äußerte es, sich weder für, noch gegen die\nselbe, und sagte er kenne sie noch nicht. Ich hielt\nes daher für rathsam, mich nicht weiter da es das\nerstemahl darüber auszulaßen, als daß ich ihn im all¬\ngemeinen ersuchte, wenn er hinderniße fände nicht\ngleich zu decidiren, sondern mich vorher zu hören, und\n\nund über alles, was ihm bedenken machen könnte, sich Aus¬\nkunft von mir ertheilen zu laßen. Auf mein Verlan¬\ngen, von allem, das in der Sache vorgehen unterrichtet\nzu werden, äußerte er: ich mögte mir eine Vollmacht von\nEuer durchl. schicken laßen, und solche in der Regentratus\nniederlegen, worauf mir alles, wan Euer durchl. ergehe\nzugestellt werden solle.\nEs ist mir lieb gewesen, durch dHl. Kr. Rath\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget\nzu seyn. daß dH Schulze mich darin nicht getäuscht hat.\ndaß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld\nbenfeld für durchl. näher zu melden die Gnade haben\nwird, die Verfügungen aus den Cabinet erst heute oder\nwegen, an den Minister v. Rath abgehen, und der\nLebritz also nicht ohne als künftiger. Mittwoch oder\ndonnerstag die Kögl. Ordre erhalten kann.\nde ich Euer Wohl. bloß Wahrheiten ver¬\ntragen, und mich nie davon entfernen werde, so kann\nich höchstdenenselben nur bloß die unterthänigste Ver¬\n\nführung geben, daß ich alles was in meinen Kräften steht\nzur Instandsbungung bierzubeigen, nicht verfehlen werde, auch\nwerde ich durch die zu übersendende Vollmacht im Stand ge-\nsetzt werden, genauer recognosciren zu können.\nIch würde die Vollmacht dahin auszufüllen,\nvorschlagen.\ndaß ich bey dem kaysl. hochlöbl. Südpräufische\nDepartement zur Betreibung des vorgeschlagnen\ntausches, der E. Hochfürstl. durchl. von des\nhochfügl. Kr. Magistät verliehenen Güter —\ngegen die Herrschaft – und zur acquisition\nvon den — Gütern, Vorschläge zu thun, und\nmich in Unterhandlungen einzulassen, bevoll¬\nmächtigt sey. H.\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen\nNachrichten von der Grotowskischen Sache, und die Quit¬\ntung des Schneides will ich mir unterthänigst ausbitten\nIch muß dem Eifer Ch. v. Triebenfeld für Euer Wohl¬\nIntencohe, Gerechtigkeit wiederfahren lassen.\nSehr erfreulich wird es für mich\n\nseyn, Euer durchl. glückliche Ankunft in Breslau zu\nerfahren. Mit diesen Gesinnungen ersterbe ich\nEuer hochfürstl.\ndurchl.\nunterthänigst treu gehör\nsamster.\nMichaelis\nBerlin\nd 6. October\n1798",
- "text_reading": "Durchleuchtigstes Fürst,\n\nGnädigster Fürst und Herr!\n\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt und bin bey dem Geh. Ewang Rath Schultz gewesen. den ich vorgestern getroffen habe. Er wüste noch nichts näheres von der Sache, als daß er Eure durchl. Schreiben an den Minister v. Voss gelesen hatte. Ueber die Sache selbst äußerte es, sich weder für, noch gegen die selbe, und sagte er kenne sie noch nicht. Ich hielt es daher für rathsam, mich nicht weiter da es das erstemahl darüber auszulaßen, als daß ich ihn im allgemeinen ersuchte, wenn er hinderniße fände nicht gleich zu decidiren, sondern mich vorher zu hören, und\n\nund über alles, was ihm bedenken machen könnte, sich Auskunft von mir ertheilen zu laßen. Auf mein Verlangen, von allem, das in der Sache vorgehen unterrichtet zu werden, äußerte er: ich mögte mir eine Vollmacht von Euer durchl. schicken laßen, und solche in der Regentratus niederlegen, worauf mir alles, wan Euer durchl. ergehe zugestellt werden solle.\n\nEs ist mir lieb gewesen, durch dHl. Kr. Rath\n\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget zu seyn. daß dH Schulze mich darin nicht getäuscht hat. daß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld benfeld für durchl. näher zu melden die Gnade haben wird, die Verfügungen aus den Cabinet erst heute oder wegen, an den Minister v. Rath abgehen, und der Lebritz also nicht ohne als künftiger. Mittwoch oder donnerstag die Kögl. Ordre erhalten kann. de ich Euer Wohl. bloß Wahrheiten vertragen, und mich nie davon entfernen werde, so kann ich höchstdenenselben nur bloß die unterthänigste Ver\n\nführung geben, daß ich alles was in meinen Kräften steht zur Instandsbungung bierzubeigen, nicht verfehlen werde, auch werde ich durch die zu übersendende Vollmacht im Stand gesetzt werden, genauer recognosciren zu können. Ich würde die Vollmacht dahin auszufüllen, vorschlagen.\n\ndaß ich bey dem kaysl. hochlöbl. Südpräufische Departement zur Betreibung des vorgeschlagnen tausches, der E. Hochfürstl. durchl. von des hochfügl. Kr. Magistät verliehenen Güter — gegen die Herrschaft – und zur acquisition von den — Gütern, Vorschläge zu thun, und mich in Unterhandlungen einzulassen, bevollmächtigt sey. H.\n\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen Nachrichten von der Grotowskischen Sache, und die Quittung des Schneides will ich mir unterthänigst ausbitten Ich muß dem Eifer Ch. v. Triebenfeld für Euer Wohl Intencohe, Gerechtigkeit wiederfahren lassen. Sehr erfreulich wird es für mich\n\nseyn, Euer durchl. glückliche Ankunft in Breslau zu erfahren. Mit diesen Gesinnungen ersterbe ich Euer hochfürstl. durchl.\n\nunterthänigst treu gehör samster.\n\nMichaelis Berlin d 6. October 1798",
+ "text": "78\nDurchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt\nund bin bey dem Geh[eimen]. Finanz Rath Schulze gewesen.\nden ich vorgestern getroffen habe. Er wüste noch nichts\nnäheres von der Sache, als daß er Eure durchl. Schreiben\nan den Minister v. Voss gelesen hatte. Ueber die\nSache selbst äußerte es, sich weder für, noch gegen die\nselbe, und sagte er kenne sie noch nicht. Ich hielt\nes daher für rathsam, mich nicht weiter da es das\nerstemahl darüber auszulaßen, als daß ich ihn im all¬\ngemeinen ersuchte, wenn er hinderniße fände nicht\ngleich zu decidiren, sondern mich vorher zu hören, und\nund über alles, was ihm bedenken machen könnte, sich Aus¬\nkunft von mir ertheilen zu laßen. Auf mein Verlan¬\ngen, von allem, das in der Sache vorgehen unterrichtet\nzu werden, äußerte er: ich mögte mir eine Vollmacht von\nEuer durchl. schicken laßen, und solche in der Registratus\nniederlegen, worauf mir alles, wan Euer durchl. ergehe\nzugestellt werden solle.\nEs ist mir lieb gewesen, durch dH. Kr[ieges]. Rath\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget\nzu seyn. daß dH Schulze mich darin nicht getäuscht hat.\ndaß es von nichts zu wißen vergebe, weil wie H. v. Trie¬\nbenfeld für durchl. näher zu melden die Gnade haben\nwird, die Verfügungen aus den Cabinet erst heute oder\nwegen, an den Minister v. Voss abgehen, und der\nSchultz also nicht ohne als künftiger. Mittwoch oder\ndonnerstag die Kögl. Ordre erhalten kann.\nDe ich Euer Wohl. bloß Wahrheiten ver¬\ntragen, und mich nie davon entfernen werde, so kann\nich höchstdenenselben nur bloß die unterthänigste Ver¬\nführung geben, daß ich alles was in meinen Kräften steht\nzur Instandsbungung bierzubeigen, nicht verfehlen werde, auch\nwerde ich durch die zu übersendende Vollmacht im Stand ge¬\nsetzt werden, genauer recognosciren zu können.\nIch würde die Vollmacht dahin auszufüllen,\nvorschlagen.\n\"daß ich bey dem kaysl. hochlöbl. Südpreusische\nDepartement zur Betreibung des vorgeschlagnen\ntausches, der E. Hochfürstl. durchl. von des\nhochfürstl. Kr. Magistät verliehenen Güter —\ngegen die Herrschaft – und zur acquisition\nvon den — Gütern, Vorschläge zu thun, und\nmich in Unterhandlungen einzulassen, bevoll¬\nmächtigt sey.\" - H.\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen\nNachrichten von der Grolltowskischen Sache, und die Quit¬\ntung des Schneides will ich mir unterthänigst ausbitten\nIch muß dem Eifer dH. v. Triebenfeld für Euer Wohl\nInteresse, Gerechtigkeit wiederfahren lassen.\nSehr erfreulich wird es für mich\nseyn, Euer durchl. glückliche Ankunft in Breslau zu\nerfahren. Mit diesen Gesinnungen ersterbe ich\nEuer hochfürstl. durchl.\nBerlin[?]\nd 6. October\n1798\nunterthänigst treu gehor¬\nsamster.\nMichaelis",
+ "text_reading": "78\n\nDurchlauchtigster Fürst,\n\nGnädigster Fürst und Herr!\n\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt und bin bey dem Geh[eimen]. Finanz Rath Schulze gewesen. den ich vorgestern getroffen habe. Er wüste noch nichts näheres von der Sache, als daß er Eure durchl. Schreiben an den Minister v. Voss gelesen hatte. Ueber die Sache selbst äußerte es, sich weder für, noch gegen die selbe, und sagte er kenne sie noch nicht. Ich hielt es daher für rathsam, mich nicht weiter da es das erstemahl darüber auszulaßen, als daß ich ihn im allgemeinen ersuchte, wenn er hinderniße fände nicht gleich zu decidiren, sondern mich vorher zu hören, und\n\nund über alles, was ihm bedenken machen könnte, sich Auskunft von mir ertheilen zu laßen. Auf mein Verlangen, von allem, das in der Sache vorgehen unterrichtet zu werden, äußerte er: ich mögte mir eine Vollmacht von Euer durchl. schicken laßen, und solche in der Registratus niederlegen, worauf mir alles, wan Euer durchl. ergehe zugestellt werden solle.\n\nEs ist mir lieb gewesen, durch dH. Kr[ieges]. Rath\n\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget zu seyn. daß dH Schulze mich darin nicht getäuscht hat. daß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld für durchl. näher zu melden die Gnade haben wird, die Verfügungen aus den Cabinet erst heute oder wegen, an den Minister v. Voss abgehen, und der Schultz also nicht ohne als künftiger. Mittwoch oder donnerstag die Kögl. Ordre erhalten kann. De ich Euer Wohl. bloß Wahrheiten vertragen, und mich nie davon entfernen werde, so kann ich höchstdenenselben nur bloß die unterthänigste Ver\n\nführung geben, daß ich alles was in meinen Kräften steht zur Instandsbungung bierzubeigen, nicht verfehlen werde, auch werde ich durch die zu übersendende Vollmacht im Stand gesetzt werden, genauer recognosciren zu können. Ich würde die Vollmacht dahin auszufüllen, vorschlagen.\n\n\"daß ich bey dem kaysl. hochlöbl. Südpreusische Departement zur Betreibung des vorgeschlagnen tausches, der E. Hochfürstl. durchl. von des hochfürstl. Kr. Magistät verliehenen Güter — gegen die Herrschaft – und zur acquisition von den — Gütern, Vorschläge zu thun, und mich in Unterhandlungen einzulassen, bevollmächtigt sey.\" - H.\n\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen Nachrichten von der Grolltowskischen Sache, und die Quittung des Schneides will ich mir unterthänigst ausbitten Ich muß dem Eifer dH. v. Triebenfeld für Euer Wohl Interesse, Gerechtigkeit wiederfahren lassen. Sehr erfreulich wird es für mich\n\nseyn, Euer durchl. glückliche Ankunft in Breslau zu erfahren. Mit diesen Gesinnungen ersterbe ich Euer hochfürstl. durchl. Berlin[?]\n\nd 6. October\n\n1798 unterthänigst treu gehorsamster.\n\nMichaelis",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 6385,
-   "line_end": 6397,
-   "n_lines": 13,
-   "diplomatic": "Durchleuchtigstes Fürst,\nGnädigster Fürst und Herr!\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt\nund bin bey dem Geh. Ewang Rath Schultz gewesen.\nden ich vorgestern getroffen habe. Er wüste noch nichts\nnäheres von der Sache, als daß er Eure durchl. Schreiben\nan den Minister v. Voss gelesen hatte. Ueber die\nSache selbst äußerte es, sich weder für, noch gegen die\nselbe, und sagte er kenne sie noch nicht. Ich hielt\nes daher für rathsam, mich nicht weiter da es das\nerstemahl darüber auszulaßen, als daß ich ihn im all¬\ngemeinen ersuchte, wenn er hinderniße fände nicht\ngleich zu decidiren, sondern mich vorher zu hören, und",
-   "transcription": "Durchleuchtigstes Fürst,\nGnädigster Fürst und Herr!\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt\nund bin bey dem Geh. Ewang Rath Schultz gewesen.\nden ich vorgestern getroffen habe. Er wüste noch nichts\nnäheres von der Sache, als daß er Eure durchl. Schreiben\nan den Minister v. Voss gelesen hatte. Ueber die\nSache selbst äußerte es, sich weder für, noch gegen die\nselbe, und sagte er kenne sie noch nicht. Ich hielt\nes daher für rathsam, mich nicht weiter da es das\nerstemahl darüber auszulaßen, als daß ich ihn im all-\ngemeinen ersuchte, wenn er hinderniße fände nicht\ngleich zu decidiren, sondern mich vorher zu hören, und",
-   "reading": "Durchleuchtigstes Fürst,\n\nGnädigster Fürst und Herr!\n\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt und bin bey dem Geh. Ewang Rath Schultz gewesen. den ich vorgestern getroffen habe. Er wüste noch nichts näheres von der Sache, als daß er Eure durchl. Schreiben an den Minister v. Voss gelesen hatte. Ueber die Sache selbst äußerte es, sich weder für, noch gegen die selbe, und sagte er kenne sie noch nicht. Ich hielt es daher für rathsam, mich nicht weiter da es das erstemahl darüber auszulaßen, als daß ich ihn im allgemeinen ersuchte, wenn er hinderniße fände nicht gleich zu decidiren, sondern mich vorher zu hören, und",
+   "page_id": "0164_a",
+   "line_start": 6393,
+   "line_end": 6406,
+   "n_lines": 14,
+   "diplomatic": "78\nDurchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt\nund bin bey dem Geh[eimen]. Finanz Rath Schulze gewesen.\nden ich vorgestern getroffen habe. Er wüste noch nichts\nnäheres von der Sache, als daß er Eure durchl. Schreiben\nan den Minister v. Voss gelesen hatte. Ueber die\nSache selbst äußerte es, sich weder für, noch gegen die\nselbe, und sagte er kenne sie noch nicht. Ich hielt\nes daher für rathsam, mich nicht weiter da es das\nerstemahl darüber auszulaßen, als daß ich ihn im all¬\ngemeinen ersuchte, wenn er hinderniße fände nicht\ngleich zu decidiren, sondern mich vorher zu hören, und",
+   "transcription": "78\nDurchlauchtigster Fürst,\nGnädigster Fürst und Herr!\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt\nund bin bey dem Geh[eimen]. Finanz Rath Schulze gewesen.\nden ich vorgestern getroffen habe. Er wüste noch nichts\nnäheres von der Sache, als daß er Eure durchl. Schreiben\nan den Minister v. Voss gelesen hatte. Ueber die\nSache selbst äußerte es, sich weder für, noch gegen die\nselbe, und sagte er kenne sie noch nicht. Ich hielt\nes daher für rathsam, mich nicht weiter da es das\nerstemahl darüber auszulaßen, als daß ich ihn im all-\ngemeinen ersuchte, wenn er hinderniße fände nicht\ngleich zu decidiren, sondern mich vorher zu hören, und",
+   "reading": "78\n\nDurchlauchtigster Fürst,\n\nGnädigster Fürst und Herr!\n\nEuer hochfürstl. durchl. Gnädigem befehl habe ich genügt und bin bey dem Geh[eimen]. Finanz Rath Schulze gewesen. den ich vorgestern getroffen habe. Er wüste noch nichts näheres von der Sache, als daß er Eure durchl. Schreiben an den Minister v. Voss gelesen hatte. Ueber die Sache selbst äußerte es, sich weder für, noch gegen die selbe, und sagte er kenne sie noch nicht. Ich hielt es daher für rathsam, mich nicht weiter da es das erstemahl darüber auszulaßen, als daß ich ihn im allgemeinen ersuchte, wenn er hinderniße fände nicht gleich zu decidiren, sondern mich vorher zu hören, und",
    "paragraphs": [
-    "Durchleuchtigstes Fürst,",
+    "78",
+    "Durchlauchtigster Fürst,",
     "Gnädigster Fürst und Herr!",
-    "Euer hochfürstl. durchl. Gnädigem befehl habe ich genügt und bin bey dem Geh. Ewang Rath Schultz gewesen. den ich vorgestern getroffen habe. Er wüste noch nichts näheres von der Sache, als daß er Eure durchl. Schreiben an den Minister v. Voss gelesen hatte. Ueber die Sache selbst äußerte es, sich weder für, noch gegen die selbe, und sagte er kenne sie noch nicht. Ich hielt es daher für rathsam, mich nicht weiter da es das erstemahl darüber auszulaßen, als daß ich ihn im allgemeinen ersuchte, wenn er hinderniße fände nicht gleich zu decidiren, sondern mich vorher zu hören, und"
+    "Euer hochfürstl. durchl. Gnädigem befehl habe ich genügt und bin bey dem Geh[eimen]. Finanz Rath Schulze gewesen. den ich vorgestern getroffen habe. Er wüste noch nichts näheres von der Sache, als daß er Eure durchl. Schreiben an den Minister v. Voss gelesen hatte. Ueber die Sache selbst äußerte es, sich weder für, noch gegen die selbe, und sagte er kenne sie noch nicht. Ich hielt es daher für rathsam, mich nicht weiter da es das erstemahl darüber auszulaßen, als daß ich ihn im allgemeinen ersuchte, wenn er hinderniße fände nicht gleich zu decidiren, sondern mich vorher zu hören, und"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0164_a-L78_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 13
+   "doc_line_end": 14
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 6399,
-   "line_end": 6417,
+   "page_id": "0165_a1",
+   "line_start": 6408,
+   "line_end": 6426,
    "n_lines": 19,
-   "diplomatic": "und über alles, was ihm bedenken machen könnte, sich Aus¬\nkunft von mir ertheilen zu laßen. Auf mein Verlan¬\ngen, von allem, das in der Sache vorgehen unterrichtet\nzu werden, äußerte er: ich mögte mir eine Vollmacht von\nEuer durchl. schicken laßen, und solche in der Regentratus\nniederlegen, worauf mir alles, wan Euer durchl. ergehe\nzugestellt werden solle.\nEs ist mir lieb gewesen, durch dHl. Kr. Rath\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget\nzu seyn. daß dH Schulze mich darin nicht getäuscht hat.\ndaß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld\nbenfeld für durchl. näher zu melden die Gnade haben\nwird, die Verfügungen aus den Cabinet erst heute oder\nwegen, an den Minister v. Rath abgehen, und der\nLebritz also nicht ohne als künftiger. Mittwoch oder\ndonnerstag die Kögl. Ordre erhalten kann.\nde ich Euer Wohl. bloß Wahrheiten ver¬\ntragen, und mich nie davon entfernen werde, so kann\nich höchstdenenselben nur bloß die unterthänigste Ver¬",
-   "transcription": "und über alles, was ihm bedenken machen könnte, sich Aus-\nkunft von mir ertheilen zu laßen. Auf mein Verlan-\ngen, von allem, das in der Sache vorgehen unterrichtet\nzu werden, äußerte er: ich mögte mir eine Vollmacht von\nEuer durchl. schicken laßen, und solche in der Regentratus\nniederlegen, worauf mir alles, wan Euer durchl. ergehe\nzugestellt werden solle.\nEs ist mir lieb gewesen, durch dHl. Kr. Rath\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget\nzu seyn. daß dH Schulze mich darin nicht getäuscht hat.\ndaß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld\nbenfeld für durchl. näher zu melden die Gnade haben\nwird, die Verfügungen aus den Cabinet erst heute oder\nwegen, an den Minister v. Rath abgehen, und der\nLebritz also nicht ohne als künftiger. Mittwoch oder\ndonnerstag die Kögl. Ordre erhalten kann.\nde ich Euer Wohl. bloß Wahrheiten ver-\ntragen, und mich nie davon entfernen werde, so kann\nich höchstdenenselben nur bloß die unterthänigste Ver-",
-   "reading": "und über alles, was ihm bedenken machen könnte, sich Auskunft von mir ertheilen zu laßen. Auf mein Verlangen, von allem, das in der Sache vorgehen unterrichtet zu werden, äußerte er: ich mögte mir eine Vollmacht von Euer durchl. schicken laßen, und solche in der Regentratus niederlegen, worauf mir alles, wan Euer durchl. ergehe zugestellt werden solle.\n\nEs ist mir lieb gewesen, durch dHl. Kr. Rath\n\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget zu seyn. daß dH Schulze mich darin nicht getäuscht hat. daß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld benfeld für durchl. näher zu melden die Gnade haben wird, die Verfügungen aus den Cabinet erst heute oder wegen, an den Minister v. Rath abgehen, und der Lebritz also nicht ohne als künftiger. Mittwoch oder donnerstag die Kögl. Ordre erhalten kann. de ich Euer Wohl. bloß Wahrheiten vertragen, und mich nie davon entfernen werde, so kann ich höchstdenenselben nur bloß die unterthänigste Ver",
+   "diplomatic": "und über alles, was ihm bedenken machen könnte, sich Aus¬\nkunft von mir ertheilen zu laßen. Auf mein Verlan¬\ngen, von allem, das in der Sache vorgehen unterrichtet\nzu werden, äußerte er: ich mögte mir eine Vollmacht von\nEuer durchl. schicken laßen, und solche in der Registratus\nniederlegen, worauf mir alles, wan Euer durchl. ergehe\nzugestellt werden solle.\nEs ist mir lieb gewesen, durch dH. Kr[ieges]. Rath\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget\nzu seyn. daß dH Schulze mich darin nicht getäuscht hat.\ndaß es von nichts zu wißen vergebe, weil wie H. v. Trie¬\nbenfeld für durchl. näher zu melden die Gnade haben\nwird, die Verfügungen aus den Cabinet erst heute oder\nwegen, an den Minister v. Voss abgehen, und der\nSchultz also nicht ohne als künftiger. Mittwoch oder\ndonnerstag die Kögl. Ordre erhalten kann.\nDe ich Euer Wohl. bloß Wahrheiten ver¬\ntragen, und mich nie davon entfernen werde, so kann\nich höchstdenenselben nur bloß die unterthänigste Ver¬",
+   "transcription": "und über alles, was ihm bedenken machen könnte, sich Aus-\nkunft von mir ertheilen zu laßen. Auf mein Verlan-\ngen, von allem, das in der Sache vorgehen unterrichtet\nzu werden, äußerte er: ich mögte mir eine Vollmacht von\nEuer durchl. schicken laßen, und solche in der Registratus\nniederlegen, worauf mir alles, wan Euer durchl. ergehe\nzugestellt werden solle.\nEs ist mir lieb gewesen, durch dH. Kr[ieges]. Rath\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget\nzu seyn. daß dH Schulze mich darin nicht getäuscht hat.\ndaß es von nichts zu wißen vergebe, weil wie H. v. Trie-\nbenfeld für durchl. näher zu melden die Gnade haben\nwird, die Verfügungen aus den Cabinet erst heute oder\nwegen, an den Minister v. Voss abgehen, und der\nSchultz also nicht ohne als künftiger. Mittwoch oder\ndonnerstag die Kögl. Ordre erhalten kann.\nDe ich Euer Wohl. bloß Wahrheiten ver-\ntragen, und mich nie davon entfernen werde, so kann\nich höchstdenenselben nur bloß die unterthänigste Ver-",
+   "reading": "und über alles, was ihm bedenken machen könnte, sich Auskunft von mir ertheilen zu laßen. Auf mein Verlangen, von allem, das in der Sache vorgehen unterrichtet zu werden, äußerte er: ich mögte mir eine Vollmacht von Euer durchl. schicken laßen, und solche in der Registratus niederlegen, worauf mir alles, wan Euer durchl. ergehe zugestellt werden solle.\n\nEs ist mir lieb gewesen, durch dH. Kr[ieges]. Rath\n\nv. Triebenfeld, den ich erst heute gesprochen, benachrichtiget zu seyn. daß dH Schulze mich darin nicht getäuscht hat. daß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld für durchl. näher zu melden die Gnade haben wird, die Verfügungen aus den Cabinet erst heute oder wegen, an den Minister v. Voss abgehen, und der Schultz also nicht ohne als künftiger. Mittwoch oder donnerstag die Kögl. Ordre erhalten kann. De ich Euer Wohl. bloß Wahrheiten vertragen, und mich nie davon entfernen werde, so kann ich höchstdenenselben nur bloß die unterthänigste Ver",
    "paragraphs": [
-    "und über alles, was ihm bedenken machen könnte, sich Auskunft von mir ertheilen zu laßen. Auf mein Verlangen, von allem, das in der Sache vorgehen unterrichtet zu werden, äußerte er: ich mögte mir eine Vollmacht von Euer durchl. schicken laßen, und solche in der Regentratus niederlegen, worauf mir alles, wan Euer durchl. ergehe zugestellt werden solle.",
-    "Es ist mir lieb gewesen, durch dHl. Kr. Rath",
-    "v. Triebenfeld, den ich erst heute gesprochen, benachrichtiget zu seyn. daß dH Schulze mich darin nicht getäuscht hat. daß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld benfeld für durchl. näher zu melden die Gnade haben wird, die Verfügungen aus den Cabinet erst heute oder wegen, an den Minister v. Rath abgehen, und der Lebritz also nicht ohne als künftiger. Mittwoch oder donnerstag die Kögl. Ordre erhalten kann. de ich Euer Wohl. bloß Wahrheiten vertragen, und mich nie davon entfernen werde, so kann ich höchstdenenselben nur bloß die unterthänigste Ver"
+    "und über alles, was ihm bedenken machen könnte, sich Auskunft von mir ertheilen zu laßen. Auf mein Verlangen, von allem, das in der Sache vorgehen unterrichtet zu werden, äußerte er: ich mögte mir eine Vollmacht von Euer durchl. schicken laßen, und solche in der Registratus niederlegen, worauf mir alles, wan Euer durchl. ergehe zugestellt werden solle.",
+    "Es ist mir lieb gewesen, durch dH. Kr[ieges]. Rath",
+    "v. Triebenfeld, den ich erst heute gesprochen, benachrichtiget zu seyn. daß dH Schulze mich darin nicht getäuscht hat. daß es von nichts zu wißen vergebe, weil wie H. v. Triebenfeld für durchl. näher zu melden die Gnade haben wird, die Verfügungen aus den Cabinet erst heute oder wegen, an den Minister v. Voss abgehen, und der Schultz also nicht ohne als künftiger. Mittwoch oder donnerstag die Kögl. Ordre erhalten kann. De ich Euer Wohl. bloß Wahrheiten vertragen, und mich nie davon entfernen werde, so kann ich höchstdenenselben nur bloß die unterthänigste Ver"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0165_a1-L78_02.jpg",
-   "doc_line_start": 14,
-   "doc_line_end": 32
+   "doc_line_start": 15,
+   "doc_line_end": 33
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 6419,
-   "line_end": 6438,
+   "page_id": "0165_a2",
+   "line_start": 6428,
+   "line_end": 6447,
    "n_lines": 20,
-   "diplomatic": "führung geben, daß ich alles was in meinen Kräften steht\nzur Instandsbungung bierzubeigen, nicht verfehlen werde, auch\nwerde ich durch die zu übersendende Vollmacht im Stand ge-\nsetzt werden, genauer recognosciren zu können.\nIch würde die Vollmacht dahin auszufüllen,\nvorschlagen.\ndaß ich bey dem kaysl. hochlöbl. Südpräufische\nDepartement zur Betreibung des vorgeschlagnen\ntausches, der E. Hochfürstl. durchl. von des\nhochfügl. Kr. Magistät verliehenen Güter —\ngegen die Herrschaft – und zur acquisition\nvon den — Gütern, Vorschläge zu thun, und\nmich in Unterhandlungen einzulassen, bevoll¬\nmächtigt sey. H.\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen\nNachrichten von der Grotowskischen Sache, und die Quit¬\ntung des Schneides will ich mir unterthänigst ausbitten\nIch muß dem Eifer Ch. v. Triebenfeld für Euer Wohl¬\nIntencohe, Gerechtigkeit wiederfahren lassen.\nSehr erfreulich wird es für mich",
-   "transcription": "führung geben, daß ich alles was in meinen Kräften steht\nzur Instandsbungung bierzubeigen, nicht verfehlen werde, auch\nwerde ich durch die zu übersendende Vollmacht im Stand ge-\nsetzt werden, genauer recognosciren zu können.\nIch würde die Vollmacht dahin auszufüllen,\nvorschlagen.\ndaß ich bey dem kaysl. hochlöbl. Südpräufische\nDepartement zur Betreibung des vorgeschlagnen\ntausches, der E. Hochfürstl. durchl. von des\nhochfügl. Kr. Magistät verliehenen Güter —\ngegen die Herrschaft – und zur acquisition\nvon den — Gütern, Vorschläge zu thun, und\nmich in Unterhandlungen einzulassen, bevoll-\nmächtigt sey. H.\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen\nNachrichten von der Grotowskischen Sache, und die Quit-\ntung des Schneides will ich mir unterthänigst ausbitten\nIch muß dem Eifer Ch. v. Triebenfeld für Euer Wohl\nIntencohe, Gerechtigkeit wiederfahren lassen.\nSehr erfreulich wird es für mich",
-   "reading": "führung geben, daß ich alles was in meinen Kräften steht zur Instandsbungung bierzubeigen, nicht verfehlen werde, auch werde ich durch die zu übersendende Vollmacht im Stand gesetzt werden, genauer recognosciren zu können. Ich würde die Vollmacht dahin auszufüllen, vorschlagen.\n\ndaß ich bey dem kaysl. hochlöbl. Südpräufische Departement zur Betreibung des vorgeschlagnen tausches, der E. Hochfürstl. durchl. von des hochfügl. Kr. Magistät verliehenen Güter — gegen die Herrschaft – und zur acquisition von den — Gütern, Vorschläge zu thun, und mich in Unterhandlungen einzulassen, bevollmächtigt sey. H.\n\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen Nachrichten von der Grotowskischen Sache, und die Quittung des Schneides will ich mir unterthänigst ausbitten Ich muß dem Eifer Ch. v. Triebenfeld für Euer Wohl Intencohe, Gerechtigkeit wiederfahren lassen. Sehr erfreulich wird es für mich",
+   "diplomatic": "führung geben, daß ich alles was in meinen Kräften steht\nzur Instandsbungung bierzubeigen, nicht verfehlen werde, auch\nwerde ich durch die zu übersendende Vollmacht im Stand ge¬\nsetzt werden, genauer recognosciren zu können.\nIch würde die Vollmacht dahin auszufüllen,\nvorschlagen.\n\"daß ich bey dem kaysl. hochlöbl. Südpreusische\nDepartement zur Betreibung des vorgeschlagnen\ntausches, der E. Hochfürstl. durchl. von des\nhochfürstl. Kr. Magistät verliehenen Güter —\ngegen die Herrschaft – und zur acquisition\nvon den — Gütern, Vorschläge zu thun, und\nmich in Unterhandlungen einzulassen, bevoll¬\nmächtigt sey.\" - H.\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen\nNachrichten von der Grolltowskischen Sache, und die Quit¬\ntung des Schneides will ich mir unterthänigst ausbitten\nIch muß dem Eifer dH. v. Triebenfeld für Euer Wohl\nInteresse, Gerechtigkeit wiederfahren lassen.\nSehr erfreulich wird es für mich",
+   "transcription": "führung geben, daß ich alles was in meinen Kräften steht\nzur Instandsbungung bierzubeigen, nicht verfehlen werde, auch\nwerde ich durch die zu übersendende Vollmacht im Stand ge-\nsetzt werden, genauer recognosciren zu können.\nIch würde die Vollmacht dahin auszufüllen,\nvorschlagen.\n\"daß ich bey dem kaysl. hochlöbl. Südpreusische\nDepartement zur Betreibung des vorgeschlagnen\ntausches, der E. Hochfürstl. durchl. von des\nhochfürstl. Kr. Magistät verliehenen Güter —\ngegen die Herrschaft – und zur acquisition\nvon den — Gütern, Vorschläge zu thun, und\nmich in Unterhandlungen einzulassen, bevoll-\nmächtigt sey.\" - H.\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen\nNachrichten von der Grolltowskischen Sache, und die Quit-\ntung des Schneides will ich mir unterthänigst ausbitten\nIch muß dem Eifer dH. v. Triebenfeld für Euer Wohl\nInteresse, Gerechtigkeit wiederfahren lassen.\nSehr erfreulich wird es für mich",
+   "reading": "führung geben, daß ich alles was in meinen Kräften steht zur Instandsbungung bierzubeigen, nicht verfehlen werde, auch werde ich durch die zu übersendende Vollmacht im Stand gesetzt werden, genauer recognosciren zu können. Ich würde die Vollmacht dahin auszufüllen, vorschlagen.\n\n\"daß ich bey dem kaysl. hochlöbl. Südpreusische Departement zur Betreibung des vorgeschlagnen tausches, der E. Hochfürstl. durchl. von des hochfürstl. Kr. Magistät verliehenen Güter — gegen die Herrschaft – und zur acquisition von den — Gütern, Vorschläge zu thun, und mich in Unterhandlungen einzulassen, bevollmächtigt sey.\" - H.\n\ndie von Euer hochfürstl. durchl. mir Gnädigst versprochen Nachrichten von der Grolltowskischen Sache, und die Quittung des Schneides will ich mir unterthänigst ausbitten Ich muß dem Eifer dH. v. Triebenfeld für Euer Wohl Interesse, Gerechtigkeit wiederfahren lassen. Sehr erfreulich wird es für mich",
    "paragraphs": [
     "führung geben, daß ich alles was in meinen Kräften steht zur Instandsbungung bierzubeigen, nicht verfehlen werde, auch werde ich durch die zu übersendende Vollmacht im Stand gesetzt werden, genauer recognosciren zu können. Ich würde die Vollmacht dahin auszufüllen, vorschlagen.",
-    "daß ich bey dem kaysl. hochlöbl. Südpräufische Departement zur Betreibung des vorgeschlagnen tausches, der E. Hochfürstl. durchl. von des hochfügl. Kr. Magistät verliehenen Güter — gegen die Herrschaft – und zur acquisition von den — Gütern, Vorschläge zu thun, und mich in Unterhandlungen einzulassen, bevollmächtigt sey. H.",
-    "die von Euer hochfürstl. durchl. mir Gnädigst versprochen Nachrichten von der Grotowskischen Sache, und die Quittung des Schneides will ich mir unterthänigst ausbitten Ich muß dem Eifer Ch. v. Triebenfeld für Euer Wohl Intencohe, Gerechtigkeit wiederfahren lassen. Sehr erfreulich wird es für mich"
+    "\"daß ich bey dem kaysl. hochlöbl. Südpreusische Departement zur Betreibung des vorgeschlagnen tausches, der E. Hochfürstl. durchl. von des hochfürstl. Kr. Magistät verliehenen Güter — gegen die Herrschaft – und zur acquisition von den — Gütern, Vorschläge zu thun, und mich in Unterhandlungen einzulassen, bevollmächtigt sey.\" - H.",
+    "die von Euer hochfürstl. durchl. mir Gnädigst versprochen Nachrichten von der Grolltowskischen Sache, und die Quittung des Schneides will ich mir unterthänigst ausbitten Ich muß dem Eifer dH. v. Triebenfeld für Euer Wohl Interesse, Gerechtigkeit wiederfahren lassen. Sehr erfreulich wird es für mich"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0165_a2-L78_03.jpg",
-   "doc_line_start": 33,
-   "doc_line_end": 52
+   "doc_line_start": 34,
+   "doc_line_end": 53
   },
   {
    "page": 4,
-   "page_id": "",
-   "line_start": 6440,
-   "line_end": 6449,
-   "n_lines": 10,
-   "diplomatic": "seyn, Euer durchl. glückliche Ankunft in Breslau zu\nerfahren. Mit diesen Gesinnungen ersterbe ich\nEuer hochfürstl.\ndurchl.\nunterthänigst treu gehör\nsamster.\nMichaelis\nBerlin\nd 6. October\n1798",
-   "transcription": "seyn, Euer durchl. glückliche Ankunft in Breslau zu\nerfahren. Mit diesen Gesinnungen ersterbe ich\nEuer hochfürstl.\ndurchl.\nunterthänigst treu gehör\nsamster.\nMichaelis\nBerlin\nd 6. October\n1798",
-   "reading": "seyn, Euer durchl. glückliche Ankunft in Breslau zu erfahren. Mit diesen Gesinnungen ersterbe ich Euer hochfürstl. durchl.\n\nunterthänigst treu gehör samster.\n\nMichaelis Berlin d 6. October 1798",
+   "page_id": "0166_a",
+   "line_start": 6449,
+   "line_end": 6457,
+   "n_lines": 9,
+   "diplomatic": "seyn, Euer durchl. glückliche Ankunft in Breslau zu\nerfahren. Mit diesen Gesinnungen ersterbe ich\nEuer hochfürstl. durchl.\nBerlin[?]\nd 6. October\n1798\nunterthänigst treu gehor¬\nsamster.\nMichaelis",
+   "transcription": "seyn, Euer durchl. glückliche Ankunft in Breslau zu\nerfahren. Mit diesen Gesinnungen ersterbe ich\nEuer hochfürstl. durchl.\nBerlin[?]\nd 6. October\n1798\nunterthänigst treu gehor-\nsamster.\nMichaelis",
+   "reading": "seyn, Euer durchl. glückliche Ankunft in Breslau zu erfahren. Mit diesen Gesinnungen ersterbe ich Euer hochfürstl. durchl. Berlin[?]\n\nd 6. October\n\n1798 unterthänigst treu gehorsamster.\n\nMichaelis",
    "paragraphs": [
-    "seyn, Euer durchl. glückliche Ankunft in Breslau zu erfahren. Mit diesen Gesinnungen ersterbe ich Euer hochfürstl. durchl.",
-    "unterthänigst treu gehör samster.",
-    "Michaelis Berlin d 6. October 1798"
+    "seyn, Euer durchl. glückliche Ankunft in Breslau zu erfahren. Mit diesen Gesinnungen ersterbe ich Euer hochfürstl. durchl. Berlin[?]",
+    "d 6. October",
+    "1798 unterthänigst treu gehorsamster.",
+    "Michaelis"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0166_a-L78_04.jpg",
-   "doc_line_start": 53,
+   "doc_line_start": 54,
    "doc_line_end": 62
   }
  ],
  "mentions": [
+  {
+   "entity": "schulze",
+   "display": "Schulze",
+   "kind": "person",
+   "surface": "Schulze",
+   "page": 1,
+   "page_id": "0164_a",
+   "scan": "Oe_1_Bu_9454_0164_a-L78_01.jpg",
+   "line": 6397,
+   "doc_line": 5
+  },
   {
    "entity": "voss",
    "display": "Voss",
    "kind": "person",
    "surface": "Voss",
    "page": 1,
-   "page_id": "",
+   "page_id": "0164_a",
    "scan": "Oe_1_Bu_9454_0164_a-L78_01.jpg",
-   "line": 6391,
-   "doc_line": 7
+   "line": 6400,
+   "doc_line": 8
   },
   {
    "entity": "triebenfeld",
@@ -132,10 +149,10 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0165_a1",
    "scan": "Oe_1_Bu_9454_0165_a1-L78_02.jpg",
-   "line": 6407,
-   "doc_line": 22
+   "line": 6416,
+   "doc_line": 23
   },
   {
    "entity": "schulze",
@@ -143,10 +160,10 @@
    "kind": "person",
    "surface": "Schulze",
    "page": 2,
-   "page_id": "",
+   "page_id": "0165_a1",
    "scan": "Oe_1_Bu_9454_0165_a1-L78_02.jpg",
-   "line": 6408,
-   "doc_line": 23
+   "line": 6417,
+   "doc_line": 24
   },
   {
    "entity": "triebenfeld",
@@ -154,21 +171,21 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0165_a1",
    "scan": "Oe_1_Bu_9454_0165_a1-L78_02.jpg",
-   "line": 6409,
-   "doc_line": 24
+   "line": 6418,
+   "doc_line": 25
   },
   {
-   "entity": "grotowski",
-   "display": "Grotowski",
+   "entity": "voss",
+   "display": "Voss",
    "kind": "person",
-   "surface": "Grotowskis",
-   "page": 3,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0165_a2-L78_03.jpg",
-   "line": 6434,
-   "doc_line": 48
+   "surface": "Voss",
+   "page": 2,
+   "page_id": "0165_a1",
+   "scan": "Oe_1_Bu_9454_0165_a1-L78_02.jpg",
+   "line": 6421,
+   "doc_line": 28
   },
   {
    "entity": "triebenfeld",
@@ -176,10 +193,10 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 3,
-   "page_id": "",
+   "page_id": "0165_a2",
    "scan": "Oe_1_Bu_9454_0165_a2-L78_03.jpg",
-   "line": 6436,
-   "doc_line": 50
+   "line": 6445,
+   "doc_line": 51
   },
   {
    "entity": "michaelis",
@@ -187,110 +204,13 @@
    "kind": "person",
    "surface": "Michaelis",
    "page": 4,
-   "page_id": "",
+   "page_id": "0166_a",
    "scan": "Oe_1_Bu_9454_0166_a-L78_04.jpg",
-   "line": 6446,
-   "doc_line": 59
+   "line": 6457,
+   "doc_line": 62
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Privy [uncertain: Ewang] Councillor Schultz",
-   "kind": "person",
-   "surface_de": "Geh. Ewang Rath Schultz",
-   "surface_en": "Privy [uncertain: Ewang] Councillor Schultz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Minister von Voss",
-   "kind": "person",
-   "surface_de": "Minister v. Voss",
-   "surface_en": "Minister von Voss",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Mr. Councillor of War von Triebenfeld",
-   "kind": "person",
-   "surface_de": "dHl. Kr. Rath v. Triebenfeld",
-   "surface_en": "Mr. Councillor of War von Triebenfeld",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Mr. Schulze",
-   "kind": "person",
-   "surface_de": "dH Schulze",
-   "surface_en": "Mr. Schulze",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Minister von Rath",
-   "kind": "person",
-   "surface_de": "Minister v. Rath",
-   "surface_en": "Minister von Rath",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "[uncertain: Lebritz]",
-   "kind": "other",
-   "surface_de": "Lebritz",
-   "surface_en": "[uncertain: Lebritz]",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "South Prussian Department",
-   "kind": "other",
-   "surface_de": "Südpräufische Departement",
-   "surface_en": "South Prussian Department",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Grotowski",
-   "kind": "person",
-   "surface_de": "Grotowskischen",
-   "surface_en": "Grotowski",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Mr. von Triebenfeld",
-   "kind": "person",
-   "surface_de": "Ch. v. Triebenfeld",
-   "surface_en": "Mr. von Triebenfeld",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 4
-  },
-  {
-   "entity": "michaelis",
-   "display": "Michaelis",
-   "kind": "person",
-   "surface_de": "Michaelis",
-   "surface_en": "Michaelis",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 4
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -299,10 +219,10 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 4,
-   "page_id": "",
+   "page_id": "0166_a",
    "scan": "Oe_1_Bu_9454_0166_a-L78_04.jpg",
-   "line": 6440,
-   "doc_line": 53
+   "line": 6449,
+   "doc_line": 54
   },
   {
    "entity": "berlin",
@@ -310,104 +230,15 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 4,
-   "page_id": "",
+   "page_id": "0166_a",
    "scan": "Oe_1_Bu_9454_0166_a-L78_04.jpg",
-   "line": 6447,
-   "doc_line": 60
+   "line": 6452,
+   "doc_line": 57
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nI have complied with Your Most Serene Highness's gracious command and have been with the Privy [uncertain: Ewang] Councillor Schultz, whom I met the day before yesterday. He knew nothing more particular of the matter as yet than that he had read Your Serene Highness's letter to the Minister von Voss. Upon the matter itself it expressed itself neither for nor against the same, and he said he did not yet know it. I therefore held it advisable not to go further into it, this being the first time, than that I requested him in general terms, should he find obstacles, not to decide at once, but to hear me beforehand, and",
-   "names": [
-    {
-     "de": "Geh. Ewang Rath Schultz",
-     "en": "Privy [uncertain: Ewang] Councillor Schultz",
-     "kind": "person"
-    },
-    {
-     "de": "Minister v. Voss",
-     "en": "Minister von Voss",
-     "kind": "person"
-    }
-   ]
-  },
-  {
-   "page": 2,
-   "en": "and to allow himself to be given information by me upon everything that might raise doubts in him. Upon my desire to be informed of everything that goes forward in the matter, he expressed himself thus: that I might have a power of attorney sent me from Your Serene Highness, and deposit the same in the registry, whereupon everything should be delivered to me, when it issues from Your Serene Highness.\n\nIt has been agreeable to me to have been informed by Mr. Councillor of War\n\nvon Triebenfeld, whom I spoke with only today, that Mr. Schulze has not deceived me in this, that he pretended to know nothing, because — as Mr. von Triebenfeld will have the grace to report more particularly to Your Serene Highness — the dispositions from the Cabinet go off to the Minister von Rath only today or [illegible], and the [uncertain: Lebritz] therefore cannot receive the Royal order otherwise than as next Wednesday or Thursday. Since I bear to Your Honour nothing but truths, and shall never depart therefrom, I can only give to the same most high person the most humble as-",
-   "names": [
-    {
-     "de": "dHl. Kr. Rath v. Triebenfeld",
-     "en": "Mr. Councillor of War von Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "dH Schulze",
-     "en": "Mr. Schulze",
-     "kind": "person"
-    },
-    {
-     "de": "Minister v. Rath",
-     "en": "Minister von Rath",
-     "kind": "person"
-    },
-    {
-     "de": "Lebritz",
-     "en": "[uncertain: Lebritz]",
-     "kind": "other"
-    }
-   ]
-  },
-  {
-   "page": 3,
-   "en": "-surance that I shall not fail to contribute everything in my power towards [uncertain: putting the matter in order], and I shall also, by means of the power of attorney to be sent me, be put in a position to reconnoitre more exactly. I would propose that the power of attorney be drawn up to this effect,\n\nthat I be empowered, with the Royal Highly Laudable South Prussian Department, to prosecute the proposed exchange of the estates conferred upon Your Most Serene Highness by His Royal Majesty — against the lordship — and to make proposals for the acquisition of the — estates, and to enter into negotiations.\n\nThe reports upon the Grotowski affair most graciously promised me by Your Most Serene Highness, and the tailor's receipt, I would most humbly beg for. I must do justice to Mr. von Triebenfeld's zeal for Your Honour's interest. It will be most gratifying to me",
-   "names": [
-    {
-     "de": "Südpräufische Departement",
-     "en": "South Prussian Department",
-     "kind": "other"
-    },
-    {
-     "de": "Grotowskischen",
-     "en": "Grotowski",
-     "kind": "person"
-    },
-    {
-     "de": "Ch. v. Triebenfeld",
-     "en": "Mr. von Triebenfeld",
-     "kind": "person"
-    }
-   ]
-  },
-  {
-   "page": 4,
-   "en": "to learn of Your Serene Highness's happy arrival at Breslau. With these sentiments I remain, until death, Your Most Serene Highness's\n\nmost humble, faithful and most obedient.\n\nMichaelis Berlin, the 6th October 1798",
-   "names": [
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "Michaelis",
-     "en": "Michaelis",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "6",
-    "1798"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nI have complied with Your Most Serene Highness's gracious command and have been with the Privy [uncertain: Ewang] Councillor Schultz, whom I met the day before yesterday. He knew nothing more particular of the matter as yet than that he had read Your Serene Highness's letter to the Minister von Voss. Upon the matter itself it expressed itself neither for nor against the same, and he said he did not yet know it. I therefore held it advisable not to go further into it, this being the first time, than that I requested him in general terms, should he find obstacles, not to decide at once, but to hear me beforehand, and\n\nand to allow himself to be given information by me upon everything that might raise doubts in him. Upon my desire to be informed of everything that goes forward in the matter, he expressed himself thus: that I might have a power of attorney sent me from Your Serene Highness, and deposit the same in the registry, whereupon everything should be delivered to me, when it issues from Your Serene Highness.\n\nIt has been agreeable to me to have been informed by Mr. Councillor of War\n\nvon Triebenfeld, whom I spoke with only today, that Mr. Schulze has not deceived me in this, that he pretended to know nothing, because — as Mr. von Triebenfeld will have the grace to report more particularly to Your Serene Highness — the dispositions from the Cabinet go off to the Minister von Rath only today or [illegible], and the [uncertain: Lebritz] therefore cannot receive the Royal order otherwise than as next Wednesday or Thursday. Since I bear to Your Honour nothing but truths, and shall never depart therefrom, I can only give to the same most high person the most humble as-\n\n-surance that I shall not fail to contribute everything in my power towards [uncertain: putting the matter in order], and I shall also, by means of the power of attorney to be sent me, be put in a position to reconnoitre more exactly. I would propose that the power of attorney be drawn up to this effect,\n\nthat I be empowered, with the Royal Highly Laudable South Prussian Department, to prosecute the proposed exchange of the estates conferred upon Your Most Serene Highness by His Royal Majesty — against the lordship — and to make proposals for the acquisition of the — estates, and to enter into negotiations.\n\nThe reports upon the Grotowski affair most graciously promised me by Your Most Serene Highness, and the tailor's receipt, I would most humbly beg for. I must do justice to Mr. von Triebenfeld's zeal for Your Honour's interest. It will be most gratifying to me\n\nto learn of Your Serene Highness's happy arrival at Breslau. With these sentiments I remain, until death, Your Most Serene Highness's\n\nmost humble, faithful and most obedient.\n\nMichaelis Berlin, the 6th October 1798",
- "summary_en": "Michaelis reports on a first approach to Privy Councillor Schultz in Berlin, who claimed to know nothing of the Prince's letter to Minister von Voss beyond having read it; Schultz advises that a power of attorney be lodged in the registry so that papers can be handed over. Michaelis proposes wording empowering him to pursue the exchange of the estates granted by the King with the South Prussian Department, asks for the promised reports on the Grotowski affair, and praises Triebenfeld's zeal.",
- "summary_de": "Bericht über eine erste Unterredung mit dem Geheimen Rat Schultz, der das Schreiben des Fürsten an den Minister von Voss gelesen hatte, sich aber unwissend stellte; Michaelis erbat sich, vor etwaigen Einwänden gehört zu werden. Schultz verlangt eine bei der Registratur niederzulegende Vollmacht, die Michaelis so gefasst wünscht, dass er beim Südpreußischen Departement den Tausch der dem Fürsten verliehenen Güter gegen eine Herrschaft verfolgen und verhandeln darf. Erbittet die Nachrichten zur Sache Grotowski und die Quittung des Schneiders; lobt den Eifer von Triebenfelds."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -1,6 +1,6 @@
 {
  "letter_id": "219",
- "seq_archival": 232,
+ "seq_archival": 230,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-219",
@@ -12,43 +12,50 @@
  "date_iso": "1811-09-30",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "Blizanow d 30ten 7br 1811",
+ "date_display": "1811",
  "date_inferred_from": "",
  "year": 1811,
  "month": 9,
  "day": 30,
  "place": "Blizanow",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 15821,
- "line_end": 15850,
+ "sender": "",
+ "recipient": "",
+ "line_start": 15774,
+ "line_end": 15805,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 29,
+ "n_lines": 30,
  "n_pages": 1,
- "text": "Durchlauchtigſter Fürſt\nGnädigſter Fürſt und Herr!\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt\nmir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Midirinal\nRath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht –\nDer Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befrie¬\ndiget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst\nsie in den Plan entrirn nach Münse, mache auch sogleich Anstalten mein Blizanow\nan den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles\ndann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach\nsich im ruhigen Possess der Majorate sezzen können.\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren\nvolle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die\nNoth wird größer, am Ende entſtüht Mord und Aufruhr, und alles ist oder\ngeht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem\nEntschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch\nſteten Ziele zu bringen.\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage\nbey dem Hypothéquen Conservator Presidenten Dierschlag aufgefallen -\nOb ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte.\nMein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen\nund weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerech-\ntigkeit widerfahren, die mir gebührt —\nUm balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll\nEwr Durchlaucht\nBlizanow d 30ten 7br 1811\ntreu gehorsamster Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigſter Fürſt\n\nGnädigſter Fürſt und Herr!\n\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt mir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Midirinal Rath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht – Der Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befriediget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst sie in den Plan entrirn nach Münse, mache auch sogleich Anstalten mein Blizanow an den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles dann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach sich im ruhigen Possess der Majorate sezzen können.\n\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren volle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die Noth wird größer, am Ende entſtüht Mord und Aufruhr, und alles ist oder geht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem Entschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch ſteten Ziele zu bringen.\n\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage bey dem Hypothéquen Conservator Presidenten Dierschlag aufgefallen - Ob ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte. Mein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen und weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerechtigkeit widerfahren, die mir gebührt — Um balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll Ewr Durchlaucht\n\nBlizanow d 30ten 7br 1811\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+ "text": "219\nDurchlauchtigſter Fürſt\nGnädigſter Fürſt und Herr!\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt\nmir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Medicinal\nRath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht –\nDer Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befrie¬\ndiget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst\nsie in den Plan entrirn nach Neisse, mache auch sogleich Anstalten mein Blizanow\nan den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles\ndann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach\nsich im ruhigen Possess der Majorate sezzen können.\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren\nvolle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die\nNoth wird größer, am Ende entſteht Mord und Aufruhr, und alles ist oder\ngeht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem\nEntschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch\nſteten Ziele zu bringen.\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage\nbey dem Hypothequen Conservator Presidenten Dierschlag aufgefallen -\nOb ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte.\nMein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen\nund weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerech¬\ntigkeit widerfahren, die mir gebührt —\nUm balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll\nEwr Durchlaucht\nBlizanow d 30ten 7br\n1811\ntreu gehorsamster Diener\nv Triebenfeld",
+ "text_reading": "219\n\nDurchlauchtigſter Fürſt\n\nGnädigſter Fürſt und Herr!\n\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt mir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Medicinal Rath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht – Der Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befriediget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst sie in den Plan entrirn nach Neisse, mache auch sogleich Anstalten mein Blizanow an den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles dann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach sich im ruhigen Possess der Majorate sezzen können.\n\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren volle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die Noth wird größer, am Ende entſteht Mord und Aufruhr, und alles ist oder geht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem Entschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch ſteten Ziele zu bringen.\n\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage bey dem Hypothequen Conservator Presidenten Dierschlag aufgefallen - Ob ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte. Mein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen und weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerechtigkeit widerfahren, die mir gebührt — Um balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll Ewr Durchlaucht\n\nBlizanow d 30ten 7br\n\n1811\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 15822,
-   "line_end": 15849,
-   "n_lines": 28,
-   "diplomatic": "Durchlauchtigſter Fürſt\nGnädigſter Fürſt und Herr!\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt\nmir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Midirinal\nRath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht –\nDer Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befrie¬\ndiget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst\nsie in den Plan entrirn nach Münse, mache auch sogleich Anstalten mein Blizanow\nan den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles\ndann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach\nsich im ruhigen Possess der Majorate sezzen können.\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren\nvolle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die\nNoth wird größer, am Ende entſtüht Mord und Aufruhr, und alles ist oder\ngeht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem\nEntschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch\nſteten Ziele zu bringen.\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage\nbey dem Hypothéquen Conservator Presidenten Dierschlag aufgefallen -\nOb ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte.\nMein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen\nund weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerech-\ntigkeit widerfahren, die mir gebührt —\nUm balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll\nEwr Durchlaucht\nBlizanow d 30ten 7br 1811\ntreu gehorsamster Diener\nv Triebenfeld",
-   "transcription": "Durchlauchtigſter Fürſt\nGnädigſter Fürſt und Herr!\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt\nmir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Midirinal\nRath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht –\nDer Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befrie-\ndiget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst\nsie in den Plan entrirn nach Münse, mache auch sogleich Anstalten mein Blizanow\nan den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles\ndann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach\nsich im ruhigen Possess der Majorate sezzen können.\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren\nvolle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die\nNoth wird größer, am Ende entſtüht Mord und Aufruhr, und alles ist oder\ngeht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem\nEntschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch\nſteten Ziele zu bringen.\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage\nbey dem Hypothéquen Conservator Presidenten Dierschlag aufgefallen -\nOb ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte.\nMein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen\nund weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerech-\ntigkeit widerfahren, die mir gebührt —\nUm balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll\nEwr Durchlaucht\nBlizanow d 30ten 7br 1811\ntreu gehorsamster Diener\nv Triebenfeld",
-   "reading": "Durchlauchtigſter Fürſt\n\nGnädigſter Fürſt und Herr!\n\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt mir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Midirinal Rath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht – Der Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befriediget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst sie in den Plan entrirn nach Münse, mache auch sogleich Anstalten mein Blizanow an den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles dann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach sich im ruhigen Possess der Majorate sezzen können.\n\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren volle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die Noth wird größer, am Ende entſtüht Mord und Aufruhr, und alles ist oder geht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem Entschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch ſteten Ziele zu bringen.\n\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage bey dem Hypothéquen Conservator Presidenten Dierschlag aufgefallen - Ob ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte. Mein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen und weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerechtigkeit widerfahren, die mir gebührt — Um balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll Ewr Durchlaucht\n\nBlizanow d 30ten 7br 1811\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+   "page_id": "0411_b",
+   "line_start": 15776,
+   "line_end": 15805,
+   "n_lines": 30,
+   "diplomatic": "219\nDurchlauchtigſter Fürſt\nGnädigſter Fürſt und Herr!\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt\nmir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Medicinal\nRath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht –\nDer Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befrie¬\ndiget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst\nsie in den Plan entrirn nach Neisse, mache auch sogleich Anstalten mein Blizanow\nan den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles\ndann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach\nsich im ruhigen Possess der Majorate sezzen können.\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren\nvolle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die\nNoth wird größer, am Ende entſteht Mord und Aufruhr, und alles ist oder\ngeht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem\nEntschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch\nſteten Ziele zu bringen.\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage\nbey dem Hypothequen Conservator Presidenten Dierschlag aufgefallen -\nOb ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte.\nMein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen\nund weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerech¬\ntigkeit widerfahren, die mir gebührt —\nUm balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll\nEwr Durchlaucht\nBlizanow d 30ten 7br\n1811\ntreu gehorsamster Diener\nv Triebenfeld",
+   "transcription": "219\nDurchlauchtigſter Fürſt\nGnädigſter Fürſt und Herr!\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt\nmir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Medicinal\nRath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht –\nDer Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befrie-\ndiget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst\nsie in den Plan entrirn nach Neisse, mache auch sogleich Anstalten mein Blizanow\nan den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles\ndann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach\nsich im ruhigen Possess der Majorate sezzen können.\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren\nvolle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die\nNoth wird größer, am Ende entſteht Mord und Aufruhr, und alles ist oder\ngeht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem\nEntschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch\nſteten Ziele zu bringen.\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage\nbey dem Hypothequen Conservator Presidenten Dierschlag aufgefallen -\nOb ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte.\nMein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen\nund weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerech-\ntigkeit widerfahren, die mir gebührt —\nUm balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll\nEwr Durchlaucht\nBlizanow d 30ten 7br\n1811\ntreu gehorsamster Diener\nv Triebenfeld",
+   "reading": "219\n\nDurchlauchtigſter Fürſt\n\nGnädigſter Fürſt und Herr!\n\nWann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt mir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Medicinal Rath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht – Der Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befriediget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst sie in den Plan entrirn nach Neisse, mache auch sogleich Anstalten mein Blizanow an den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles dann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach sich im ruhigen Possess der Majorate sezzen können.\n\nGott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren volle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die Noth wird größer, am Ende entſteht Mord und Aufruhr, und alles ist oder geht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem Entschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch ſteten Ziele zu bringen.\n\nDas brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage bey dem Hypothequen Conservator Presidenten Dierschlag aufgefallen - Ob ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte. Mein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen und weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerechtigkeit widerfahren, die mir gebührt — Um balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll Ewr Durchlaucht\n\nBlizanow d 30ten 7br\n\n1811\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
    "paragraphs": [
+    "219",
     "Durchlauchtigſter Fürſt",
     "Gnädigſter Fürſt und Herr!",
-    "Wann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt mir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Midirinal Rath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht – Der Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befriediget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst sie in den Plan entrirn nach Münse, mache auch sogleich Anstalten mein Blizanow an den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles dann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach sich im ruhigen Possess der Majorate sezzen können.",
-    "Gott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren volle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die Noth wird größer, am Ende entſtüht Mord und Aufruhr, und alles ist oder geht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem Entschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch ſteten Ziele zu bringen.",
-    "Das brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage bey dem Hypothéquen Conservator Presidenten Dierschlag aufgefallen - Ob ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte. Mein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen und weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerechtigkeit widerfahren, die mir gebührt — Um balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll Ewr Durchlaucht",
-    "Blizanow d 30ten 7br 1811",
+    "Wann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte ich gehorſamſt mir des ſchleunigſten darüber zu belehren, umſomehr als ein gewißer Medicinal Rath aus Kalisz ſchon mit dem alten Graf Wartensleben in Unterhandlung ſteht – Der Vortheil ist evident wann besonders Weigel und Stössel dadurch gänzlich befriediget werden könten. Sobald ich Ewr Durchlaucht Entschlus weiß, gehe ich wann höchst sie in den Plan entrirn nach Neisse, mache auch sogleich Anstalten mein Blizanow an den ältern Sohn des Graf v Wartensleben zu vertauschen, und gebe Ihnen alles dann zu Hülfe damit Sie Ihre Creditoren gröstenthails befriedigen und hernach sich im ruhigen Possess der Majorate sezzen können.",
+    "Gott im Himmel würde ich danken, wan mann die hiesigen Güter auf eine so ehren volle Art los werden könte - Die Abgabe vermehren sich mit jedem Tage und die Noth wird größer, am Ende entſteht Mord und Aufruhr, und alles ist oder geht zu lezt verlohren - Eilen Sie daher gnädigster Herr mir bald Ihrem Entschluß wißen zu laßen, gerne will ich dahin würken an die Sache am erwünsch ſteten Ziele zu bringen.",
+    "Das brint von der Ambassade ist verhallt - Am mehrsten war die Nachfrage bey dem Hypothequen Conservator Presidenten Dierschlag aufgefallen - Ob ich etwann Gelder eintragen laßen und mir dafür Güter gekauft hätte. Mein bis ihrem Lebens Philosophie hat mir diesmal sehr genugt, alles müße verstimmen und weil ich auf Dein Gewäſch höhren wolte, so schiedig mann und ließ mich die Gerechtigkeit widerfahren, die mir gebührt — Um balde Antwort bitte ich nochmahls und ersterbe ehrfurchtsvoll Ewr Durchlaucht",
+    "Blizanow d 30ten 7br",
+    "1811",
     "treu gehorsamster Diener",
     "v Triebenfeld"
    ],
@@ -56,7 +63,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 28
+   "doc_line_end": 30
   }
  ],
  "mentions": [
@@ -66,10 +73,10 @@
    "kind": "person",
    "surface": "Wartensleben",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15826,
-   "doc_line": 5
+   "line": 15781,
+   "doc_line": 6
   },
   {
    "entity": "stoessel",
@@ -77,10 +84,10 @@
    "kind": "person",
    "surface": "Stössel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15827,
-   "doc_line": 6
+   "line": 15782,
+   "doc_line": 7
   },
   {
    "entity": "weigel",
@@ -88,10 +95,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15827,
-   "doc_line": 6
+   "line": 15782,
+   "doc_line": 7
   },
   {
    "entity": "wartensleben",
@@ -99,10 +106,10 @@
    "kind": "person",
    "surface": "Wartensleben",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15830,
-   "doc_line": 9
+   "line": 15785,
+   "doc_line": 10
   },
   {
    "entity": "triebenfeld",
@@ -110,86 +117,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15849,
-   "doc_line": 28
+   "line": 15805,
+   "doc_line": 30
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisz",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Count Wartensleben",
-   "kind": "person",
-   "surface_de": "Graf Wartensleben",
-   "surface_en": "Count Wartensleben",
-   "page": 1
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 1
-  },
-  {
-   "entity": "stoessel",
-   "display": "Stössel",
-   "kind": "person",
-   "surface_de": "Stössel",
-   "surface_en": "Stössel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Münse",
-   "kind": "place",
-   "surface_de": "Münse",
-   "surface_en": "Münse",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Blizanow",
-   "kind": "place",
-   "surface_de": "Blizanow",
-   "surface_en": "Blizanow",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Count von Wartensleben",
-   "kind": "person",
-   "surface_de": "Graf v Wartensleben",
-   "surface_en": "Count von Wartensleben",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Dierschlag",
-   "kind": "person",
-   "surface_de": "Dierschlag",
-   "surface_en": "Dierschlag",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -198,10 +132,10 @@
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15826,
-   "doc_line": 5
+   "line": 15781,
+   "doc_line": 6
   },
   {
    "entity": "blizanow",
@@ -209,10 +143,21 @@
    "kind": "place",
    "surface": "Blizanow",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15829,
-   "doc_line": 8
+   "line": 15784,
+   "doc_line": 9
+  },
+  {
+   "entity": "neisse",
+   "display": "Neisse (Nysa)",
+   "kind": "place",
+   "surface": "Neisse",
+   "page": 1,
+   "page_id": "0411_b",
+   "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
+   "line": 15784,
+   "doc_line": 9
   },
   {
    "entity": "blizanow",
@@ -220,72 +165,15 @@
    "kind": "place",
    "surface": "Blizanow",
    "page": 1,
-   "page_id": "",
+   "page_id": "0411_b",
    "scan": "Oe_1_Bu_9454_0411_b-L219_01.jpg",
-   "line": 15847,
-   "doc_line": 26
+   "line": 15802,
+   "doc_line": 27
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nShould Your Serene Highness be pleased to approve the plan I have sent in, I most obediently beg to be instructed thereupon with all possible speed, the more so as a certain [uncertain: Midirinal] Councillor from Kalisz is already in negotiation with the old Count Wartensleben – The advantage is evident, if in particular Weigel and Stössel could thereby be entirely satisfied. As soon as I know Your Serene Highness's decision, I shall, if you should most highly enter into the plan, go to Münse, and shall likewise at once make arrangements to exchange my Blizanow for that of the elder son of Count von Wartensleben, and then give you every assistance, so that you may satisfy your creditors for the greatest part and thereafter set yourself in the quiet possession of the entailed estates.\n\nI should thank God in heaven if one could be rid of the estates here in so honourable a fashion - The dues increase with every day and the distress grows greater; in the end murder and insurrection will arise, and everything either is lost or will be lost at the last - Hasten therefore, most gracious Lord, to let me know your decision soon; gladly will I work to bring the matter to the most desired end.\n\nThe [uncertain: brint] from the Embassy has died away - Most of all the enquiry had been noticed with the mortgage conservator, President Dierschlag - whether I had perhaps had monies registered and had bought estates for myself therewith. My hitherto philosophy of life has this time served me very well: everything must be put out of tune, and because I was willing to listen to your prattle, one [uncertain: schiedig] and let that justice be done me which is my due — I beg once more for an early answer, and in deepest reverence I remain, until death, Your Serene Highness's\n\nBlizanow, the 30th of September 1811\n\nmost faithfully obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Kalisz",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Graf Wartensleben",
-     "en": "Count Wartensleben",
-     "kind": "person"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Stössel",
-     "en": "Stössel",
-     "kind": "person"
-    },
-    {
-     "de": "Münse",
-     "en": "Münse",
-     "kind": "place"
-    },
-    {
-     "de": "Blizanow",
-     "en": "Blizanow",
-     "kind": "place"
-    },
-    {
-     "de": "Graf v Wartensleben",
-     "en": "Count von Wartensleben",
-     "kind": "person"
-    },
-    {
-     "de": "Dierschlag",
-     "en": "Dierschlag",
-     "kind": "person"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "30",
-    "7",
-    "1811"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nShould Your Serene Highness be pleased to approve the plan I have sent in, I most obediently beg to be instructed thereupon with all possible speed, the more so as a certain [uncertain: Midirinal] Councillor from Kalisz is already in negotiation with the old Count Wartensleben – The advantage is evident, if in particular Weigel and Stössel could thereby be entirely satisfied. As soon as I know Your Serene Highness's decision, I shall, if you should most highly enter into the plan, go to Münse, and shall likewise at once make arrangements to exchange my Blizanow for that of the elder son of Count von Wartensleben, and then give you every assistance, so that you may satisfy your creditors for the greatest part and thereafter set yourself in the quiet possession of the entailed estates.\n\nI should thank God in heaven if one could be rid of the estates here in so honourable a fashion - The dues increase with every day and the distress grows greater; in the end murder and insurrection will arise, and everything either is lost or will be lost at the last - Hasten therefore, most gracious Lord, to let me know your decision soon; gladly will I work to bring the matter to the most desired end.\n\nThe [uncertain: brint] from the Embassy has died away - Most of all the enquiry had been noticed with the mortgage conservator, President Dierschlag - whether I had perhaps had monies registered and had bought estates for myself therewith. My hitherto philosophy of life has this time served me very well: everything must be put out of tune, and because I was willing to listen to your prattle, one [uncertain: schiedig] and let that justice be done me which is my due — I beg once more for an early answer, and in deepest reverence I remain, until death, Your Serene Highness's\n\nBlizanow, the 30th of September 1811\n\nmost faithfully obedient servant\n\nv. Triebenfeld",
- "summary_en": "Urgent plea for a decision on a plan already submitted, since a councillor from Kalisz is negotiating with the elder Count Wartensleben. If approved, Triebenfeld will go to Münse and exchange his own Blizanow for that of Wartensleben's elder son, letting the Prince satisfy creditors, notably Weigel and Stössel, and hold the entailed estates in peace. Dues and distress on the estates are mounting; he fears unrest. An embassy enquiry to the mortgage conservator, President Dierschlag, has subsided.",
- "summary_de": "Dringende Bitte um baldige Entscheidung über einen eingereichten Plan, die polnischen Güter zu veräußern, da bereits ein Rat aus Kalisch mit dem alten Grafen Wartensleben verhandelt; bei Zustimmung wolle Triebenfeld nach Münse reisen und sein Blizanow gegen das des älteren Sohnes des Grafen von Wartensleben tauschen, damit die Gläubiger, besonders Weigel und Stössel, befriedigt und die Fideikommissgüter ruhig besessen werden könnten. Klage über wachsende Abgaben und Not, Furcht vor Aufruhr; die Nachfrage beim Hypothekenkonservator Präsident Dierschlag habe sich erledigt."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -1,6 +1,6 @@
 {
  "letter_id": "291",
- "seq_archival": 306,
+ "seq_archival": 303,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-291",
@@ -18,61 +18,69 @@
  "month": 5,
  "day": 24,
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 20727,
- "line_end": 20781,
+ "sender": "",
+ "recipient": "",
+ "line_start": 20667,
+ "line_end": 20722,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn",
+  "kamionno",
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 54,
+ "n_lines": 53,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\np.p.\nso eben habe ich noch die Cabinets Ordre vom\n27ten April in den Händen gehabt, wornach der König\ndie Prompteste Auszahlung der 100000 Rthl an fürst\nAugust mit das allerschleunigste befohlen hat und an\nKircheisen gesandt, den 6. May ist dieses nach\ndem Fristen August bekannt gemacht was Er Probso¬\nlut schon längst haben muß, dieses Sache stoff durch¬\naus nichts mehr entgegen, und hierdurch ist alles ge¬\nwonnen, es sey denn daß Gott dem guten Fürst\nAugust seinem Vater zur Geisel geschaffen und\nIhn mit blindheit geschlagen hätte. Die Entschädigung\nSache wegen der Pohlnischen Güter Angelegen¬\nheiten ist nun durch Vermittlung des Minister Humboldt\nentschieden, daß wie, wenn u wo hängt nun von dem\nKöyser ab. Minister Stein hat sich schon alle erdenk¬\nliche Mühe gegeben, auch Worowzow u Nesselrode haben\nangeklopft, aber noch hat der Kayser nichts bestimt\nStein sagt geht es nicht hier so gelingt, mirs im Heilbroe\nDie Sache ist zu wichtig u kann nicht losgelassen werden\ndem 300000 Rthl ist kein Kinderspiel, in Ansehung Ihrer\nSache mit Cosmar wird befohlen, daß er Ihre Gelder\nAbsolut u sogleich deponiren soll widrigenfalls\nihm sogleich Arrest trohet u ein Oberaufseher an¬\ngestellt werden soll, die Sache liegt nur nach dem Kanzler\n\nZur unterschrifft vor des weitern ob Sie\noder der König die 30000 Rthl bezahlen sollen wird\nsich dem finden wenn man uns nicht mehr die Hlr.\nwittert — Verzeyung.\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt,\nDer Fürst Kanzler Schreibt sich jenes Journal alles selbst\nzu in daher ist nichts zu erfahren oder zu verathen.\nder König geht vom 25t zum 26t in der Nacht ab Er\ngeht noch Berlin und da gerade nach Heilbronn, der\nFürst kanzler folgt Ihm baldt ich ville dann zu\nIhnen um das weitere zu besorgen, gerettet\nSind u werden Sie. Der König v. Würtemberg\nspiett eine große Rolle, die Mediotisirten sind im\nBöckel gelegt es seye dann die Zeiten ändern sich\nden der Kronprinz v. Würtemberg Heirathet die\nPrinzeß v Oldenburg, es sind eigene Zeiten.\nKoppe ist im Hanöreischen Angestellt ich werde vom\nMinister Stein erfahren wo. Schreiben für Durchl. um\nnicht mehren mich denn ich gehe ab, wenn Hardenberg\nund Stein abgehn, traurig aber wäre es wenn\nSie mir kein Geld schickten, wie ich durch Adolph\nBoth denn ich wüßte nicht wie ich hier fortkommen\nsollte. ewig bleibe ich Ewer Durchlaucht\nWien den 24ten May 1815\nwenn gehorsamer diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\np.p.\n\nso eben habe ich noch die Cabinets Ordre vom 27ten April in den Händen gehabt, wornach der König die Prompteste Auszahlung der 100000 Rthl an fürst August mit das allerschleunigste befohlen hat und an Kircheisen gesandt, den 6. May ist dieses nach dem Fristen August bekannt gemacht was Er Probsolut schon längst haben muß, dieses Sache stoff durchaus nichts mehr entgegen, und hierdurch ist alles gewonnen, es sey denn daß Gott dem guten Fürst August seinem Vater zur Geisel geschaffen und Ihn mit blindheit geschlagen hätte. Die Entschädigung Sache wegen der Pohlnischen Güter Angelegenheiten ist nun durch Vermittlung des Minister Humboldt entschieden, daß wie, wenn u wo hängt nun von dem Köyser ab. Minister Stein hat sich schon alle erdenkliche Mühe gegeben, auch Worowzow u Nesselrode haben angeklopft, aber noch hat der Kayser nichts bestimt Stein sagt geht es nicht hier so gelingt, mirs im Heilbroe Die Sache ist zu wichtig u kann nicht losgelassen werden dem 300000 Rthl ist kein Kinderspiel, in Ansehung Ihrer Sache mit Cosmar wird befohlen, daß er Ihre Gelder Absolut u sogleich deponiren soll widrigenfalls ihm sogleich Arrest trohet u ein Oberaufseher angestellt werden soll, die Sache liegt nur nach dem Kanzler\n\nZur unterschrifft vor des weitern ob Sie oder der König die 30000 Rthl bezahlen sollen wird sich dem finden wenn man uns nicht mehr die Hlr. wittert — Verzeyung.\n\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt, Der Fürst Kanzler Schreibt sich jenes Journal alles selbst zu in daher ist nichts zu erfahren oder zu verathen. der König geht vom 25t zum 26t in der Nacht ab Er geht noch Berlin und da gerade nach Heilbronn, der Fürst kanzler folgt Ihm baldt ich ville dann zu Ihnen um das weitere zu besorgen, gerettet Sind u werden Sie. Der König v. Würtemberg spiett eine große Rolle, die Mediotisirten sind im Böckel gelegt es seye dann die Zeiten ändern sich den der Kronprinz v. Würtemberg Heirathet die Prinzeß v Oldenburg, es sind eigene Zeiten. Koppe ist im Hanöreischen Angestellt ich werde vom Minister Stein erfahren wo. Schreiben für Durchl. um nicht mehren mich denn ich gehe ab, wenn Hardenberg und Stein abgehn, traurig aber wäre es wenn Sie mir kein Geld schickten, wie ich durch Adolph Both denn ich wüßte nicht wie ich hier fortkommen sollte. ewig bleibe ich Ewer Durchlaucht Wien den 24ten May 1815\n\nwenn gehorsamer diener\n\nv Triebenfeld",
+ "text": "291\nDurchlauchtigster Fürst\np. p.\nso eben habe ich noch die Cabinets Ordre vom\n27ten April in den Händen gehabt, wornach der König\ndie Prompteste Auszahlung der 100000 rt an fürst\nAugust mit das allerschleunigste befohlen hat und an\nKircheisen gesanndt, den 6. May ist dieses nach\ndem Fürsten August bekannt gemacht was Er obso¬\nliet schon längst haben muß, dieses Sache stoff durch¬\naus nichts mehr entgegen, und hierdurch ist alles ge¬\nwonnen, es sey denn daß Gott dem guten Fürst\nAugust seinem Vater zur Geisel geschaffen und\nIhn mit blindheit geschlagen hätte. Die Entschädigung\nungs Sache wegen der Pohlnischen Güter Angelegen¬\nheiten ist nun durch Vermittlung des Minister Humboldt\nentschieden, daß wie, wenn u wo hängt nun von dem\nKayser ab. Minister Stein hat sich schon alle erdenk¬\nliche Mühe gegeben, auch Worowzow u Nesselrode haben\nangeklopft, aber noch hat der Kayser nichts bestimt\nStein sagt geht es nicht hier so gelingt, mirs im Heilbronn\nDie Sache ist zu wichtig u kann nicht losgelassen werden\ndem 300000 rt ist kein Kinderspiel, in Ansehung Ihrer\nSache mit Cosmar wird befohlen, daß er Ihre Gelder\nAbsolut u sogleich deponiren soll widrigenfalls\nihm sogleich Arrest trohet u ein Oberaufseher an¬\ngestellt werden soll, die Sache liegt nur nach dem Kanzler\nZur unterschrifft vor des weitern ob Sie\noder der König die 30000 rt bezahlen sollen wird\nsich dem finden wenn man uns nicht mehr die Hr:\nwittert — Verzeyung.\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt,\nDer Fürst Kanzler Schreibt sich jenes Journal alles selbst\nzu in daher ist nichts zu erfahren oder zu verathen.\nder König geht vom 25ten zum 26ten in der Nacht ab Er\ngeht noch Berlin und da gerade nach Heilbronn, der\nFürst Kanzler folgt Ihm baldt ich eile dann zu\nIhnen um das weitere zu besorgen, gerettet\nSind u werden Sie. Der König v. Würtemberg\nspielt eine große Rolle, die Mediatisirten sind im\nBöckel gelegt es seye dann die Zeiten ändern sich\nden der Kronprinz v. Würtemberg Heirathet die\nPrinzeß v Oldenburg, es sind eigene Zeiten.\nKoppe ist im Hanöreischen Angestellt ich werde vom\nMinister Stein erfahren wo. Schreiben für Durchl. um\nnicht mehren mich denn ich gehe ab, wenn Hardenberg\nund Stein abgehn, traurig aber wäre es wenn\nSie mir kein Geld schickten, wie ich durch Adolph\nBoth denn ich wüßte nicht wie ich hier fortkommen\nsollte. ewig bleibe ich Ewr Durchlaucht\nWien den 24ten May 1815\ntreu gehorsamer diener\nv Triebenfeld",
+ "text_reading": "291\n\nDurchlauchtigster Fürst\n\np. p.\n\nso eben habe ich noch die Cabinets Ordre vom 27ten April in den Händen gehabt, wornach der König die Prompteste Auszahlung der 100000 rt an fürst August mit das allerschleunigste befohlen hat und an Kircheisen gesanndt, den 6. May ist dieses nach dem Fürsten August bekannt gemacht was Er obsoliet schon längst haben muß, dieses Sache stoff durchaus nichts mehr entgegen, und hierdurch ist alles gewonnen, es sey denn daß Gott dem guten Fürst August seinem Vater zur Geisel geschaffen und Ihn mit blindheit geschlagen hätte. Die Entschädigung ungs Sache wegen der Pohlnischen Güter Angelegenheiten ist nun durch Vermittlung des Minister Humboldt entschieden, daß wie, wenn u wo hängt nun von dem Kayser ab. Minister Stein hat sich schon alle erdenkliche Mühe gegeben, auch Worowzow u Nesselrode haben angeklopft, aber noch hat der Kayser nichts bestimt Stein sagt geht es nicht hier so gelingt, mirs im Heilbronn Die Sache ist zu wichtig u kann nicht losgelassen werden dem 300000 rt ist kein Kinderspiel, in Ansehung Ihrer Sache mit Cosmar wird befohlen, daß er Ihre Gelder Absolut u sogleich deponiren soll widrigenfalls ihm sogleich Arrest trohet u ein Oberaufseher angestellt werden soll, die Sache liegt nur nach dem Kanzler\n\nZur unterschrifft vor des weitern ob Sie oder der König die 30000 rt bezahlen sollen wird sich dem finden wenn man uns nicht mehr die Hr: wittert — Verzeyung.\n\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt, Der Fürst Kanzler Schreibt sich jenes Journal alles selbst zu in daher ist nichts zu erfahren oder zu verathen. der König geht vom 25ten zum 26ten in der Nacht ab Er geht noch Berlin und da gerade nach Heilbronn, der Fürst Kanzler folgt Ihm baldt ich eile dann zu Ihnen um das weitere zu besorgen, gerettet Sind u werden Sie. Der König v. Würtemberg spielt eine große Rolle, die Mediatisirten sind im Böckel gelegt es seye dann die Zeiten ändern sich den der Kronprinz v. Würtemberg Heirathet die Prinzeß v Oldenburg, es sind eigene Zeiten. Koppe ist im Hanöreischen Angestellt ich werde vom Minister Stein erfahren wo. Schreiben für Durchl. um nicht mehren mich denn ich gehe ab, wenn Hardenberg und Stein abgehn, traurig aber wäre es wenn Sie mir kein Geld schickten, wie ich durch Adolph Both denn ich wüßte nicht wie ich hier fortkommen sollte. ewig bleibe ich Ewr Durchlaucht Wien den 24ten May 1815\n\ntreu gehorsamer diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 20728,
-   "line_end": 20753,
-   "n_lines": 26,
-   "diplomatic": "Durchlauchtigster Fürst\np.p.\nso eben habe ich noch die Cabinets Ordre vom\n27ten April in den Händen gehabt, wornach der König\ndie Prompteste Auszahlung der 100000 Rthl an fürst\nAugust mit das allerschleunigste befohlen hat und an\nKircheisen gesandt, den 6. May ist dieses nach\ndem Fristen August bekannt gemacht was Er Probso¬\nlut schon längst haben muß, dieses Sache stoff durch¬\naus nichts mehr entgegen, und hierdurch ist alles ge¬\nwonnen, es sey denn daß Gott dem guten Fürst\nAugust seinem Vater zur Geisel geschaffen und\nIhn mit blindheit geschlagen hätte. Die Entschädigung\nSache wegen der Pohlnischen Güter Angelegen¬\nheiten ist nun durch Vermittlung des Minister Humboldt\nentschieden, daß wie, wenn u wo hängt nun von dem\nKöyser ab. Minister Stein hat sich schon alle erdenk¬\nliche Mühe gegeben, auch Worowzow u Nesselrode haben\nangeklopft, aber noch hat der Kayser nichts bestimt\nStein sagt geht es nicht hier so gelingt, mirs im Heilbroe\nDie Sache ist zu wichtig u kann nicht losgelassen werden\ndem 300000 Rthl ist kein Kinderspiel, in Ansehung Ihrer\nSache mit Cosmar wird befohlen, daß er Ihre Gelder\nAbsolut u sogleich deponiren soll widrigenfalls\nihm sogleich Arrest trohet u ein Oberaufseher an¬\ngestellt werden soll, die Sache liegt nur nach dem Kanzler",
-   "transcription": "Durchlauchtigster Fürst\np.p.\nso eben habe ich noch die Cabinets Ordre vom\n27ten April in den Händen gehabt, wornach der König\ndie Prompteste Auszahlung der 100000 Rthl an fürst\nAugust mit das allerschleunigste befohlen hat und an\nKircheisen gesandt, den 6. May ist dieses nach\ndem Fristen August bekannt gemacht was Er Probso-\nlut schon längst haben muß, dieses Sache stoff durch-\naus nichts mehr entgegen, und hierdurch ist alles ge-\nwonnen, es sey denn daß Gott dem guten Fürst\nAugust seinem Vater zur Geisel geschaffen und\nIhn mit blindheit geschlagen hätte. Die Entschädigung\nSache wegen der Pohlnischen Güter Angelegen-\nheiten ist nun durch Vermittlung des Minister Humboldt\nentschieden, daß wie, wenn u wo hängt nun von dem\nKöyser ab. Minister Stein hat sich schon alle erdenk-\nliche Mühe gegeben, auch Worowzow u Nesselrode haben\nangeklopft, aber noch hat der Kayser nichts bestimt\nStein sagt geht es nicht hier so gelingt, mirs im Heilbroe\nDie Sache ist zu wichtig u kann nicht losgelassen werden\ndem 300000 Rthl ist kein Kinderspiel, in Ansehung Ihrer\nSache mit Cosmar wird befohlen, daß er Ihre Gelder\nAbsolut u sogleich deponiren soll widrigenfalls\nihm sogleich Arrest trohet u ein Oberaufseher an-\ngestellt werden soll, die Sache liegt nur nach dem Kanzler",
-   "reading": "Durchlauchtigster Fürst\n\np.p.\n\nso eben habe ich noch die Cabinets Ordre vom 27ten April in den Händen gehabt, wornach der König die Prompteste Auszahlung der 100000 Rthl an fürst August mit das allerschleunigste befohlen hat und an Kircheisen gesandt, den 6. May ist dieses nach dem Fristen August bekannt gemacht was Er Probsolut schon längst haben muß, dieses Sache stoff durchaus nichts mehr entgegen, und hierdurch ist alles gewonnen, es sey denn daß Gott dem guten Fürst August seinem Vater zur Geisel geschaffen und Ihn mit blindheit geschlagen hätte. Die Entschädigung Sache wegen der Pohlnischen Güter Angelegenheiten ist nun durch Vermittlung des Minister Humboldt entschieden, daß wie, wenn u wo hängt nun von dem Köyser ab. Minister Stein hat sich schon alle erdenkliche Mühe gegeben, auch Worowzow u Nesselrode haben angeklopft, aber noch hat der Kayser nichts bestimt Stein sagt geht es nicht hier so gelingt, mirs im Heilbroe Die Sache ist zu wichtig u kann nicht losgelassen werden dem 300000 Rthl ist kein Kinderspiel, in Ansehung Ihrer Sache mit Cosmar wird befohlen, daß er Ihre Gelder Absolut u sogleich deponiren soll widrigenfalls ihm sogleich Arrest trohet u ein Oberaufseher angestellt werden soll, die Sache liegt nur nach dem Kanzler",
+   "page_id": "0524_a2",
+   "line_start": 20669,
+   "line_end": 20695,
+   "n_lines": 27,
+   "diplomatic": "291\nDurchlauchtigster Fürst\np. p.\nso eben habe ich noch die Cabinets Ordre vom\n27ten April in den Händen gehabt, wornach der König\ndie Prompteste Auszahlung der 100000 rt an fürst\nAugust mit das allerschleunigste befohlen hat und an\nKircheisen gesanndt, den 6. May ist dieses nach\ndem Fürsten August bekannt gemacht was Er obso¬\nliet schon längst haben muß, dieses Sache stoff durch¬\naus nichts mehr entgegen, und hierdurch ist alles ge¬\nwonnen, es sey denn daß Gott dem guten Fürst\nAugust seinem Vater zur Geisel geschaffen und\nIhn mit blindheit geschlagen hätte. Die Entschädigung\nungs Sache wegen der Pohlnischen Güter Angelegen¬\nheiten ist nun durch Vermittlung des Minister Humboldt\nentschieden, daß wie, wenn u wo hängt nun von dem\nKayser ab. Minister Stein hat sich schon alle erdenk¬\nliche Mühe gegeben, auch Worowzow u Nesselrode haben\nangeklopft, aber noch hat der Kayser nichts bestimt\nStein sagt geht es nicht hier so gelingt, mirs im Heilbronn\nDie Sache ist zu wichtig u kann nicht losgelassen werden\ndem 300000 rt ist kein Kinderspiel, in Ansehung Ihrer\nSache mit Cosmar wird befohlen, daß er Ihre Gelder\nAbsolut u sogleich deponiren soll widrigenfalls\nihm sogleich Arrest trohet u ein Oberaufseher an¬\ngestellt werden soll, die Sache liegt nur nach dem Kanzler",
+   "transcription": "291\nDurchlauchtigster Fürst\np. p.\nso eben habe ich noch die Cabinets Ordre vom\n27ten April in den Händen gehabt, wornach der König\ndie Prompteste Auszahlung der 100000 rt an fürst\nAugust mit das allerschleunigste befohlen hat und an\nKircheisen gesanndt, den 6. May ist dieses nach\ndem Fürsten August bekannt gemacht was Er obso-\nliet schon längst haben muß, dieses Sache stoff durch-\naus nichts mehr entgegen, und hierdurch ist alles ge-\nwonnen, es sey denn daß Gott dem guten Fürst\nAugust seinem Vater zur Geisel geschaffen und\nIhn mit blindheit geschlagen hätte. Die Entschädigung\nungs Sache wegen der Pohlnischen Güter Angelegen-\nheiten ist nun durch Vermittlung des Minister Humboldt\nentschieden, daß wie, wenn u wo hängt nun von dem\nKayser ab. Minister Stein hat sich schon alle erdenk-\nliche Mühe gegeben, auch Worowzow u Nesselrode haben\nangeklopft, aber noch hat der Kayser nichts bestimt\nStein sagt geht es nicht hier so gelingt, mirs im Heilbronn\nDie Sache ist zu wichtig u kann nicht losgelassen werden\ndem 300000 rt ist kein Kinderspiel, in Ansehung Ihrer\nSache mit Cosmar wird befohlen, daß er Ihre Gelder\nAbsolut u sogleich deponiren soll widrigenfalls\nihm sogleich Arrest trohet u ein Oberaufseher an-\ngestellt werden soll, die Sache liegt nur nach dem Kanzler",
+   "reading": "291\n\nDurchlauchtigster Fürst\n\np. p.\n\nso eben habe ich noch die Cabinets Ordre vom 27ten April in den Händen gehabt, wornach der König die Prompteste Auszahlung der 100000 rt an fürst August mit das allerschleunigste befohlen hat und an Kircheisen gesanndt, den 6. May ist dieses nach dem Fürsten August bekannt gemacht was Er obsoliet schon längst haben muß, dieses Sache stoff durchaus nichts mehr entgegen, und hierdurch ist alles gewonnen, es sey denn daß Gott dem guten Fürst August seinem Vater zur Geisel geschaffen und Ihn mit blindheit geschlagen hätte. Die Entschädigung ungs Sache wegen der Pohlnischen Güter Angelegenheiten ist nun durch Vermittlung des Minister Humboldt entschieden, daß wie, wenn u wo hängt nun von dem Kayser ab. Minister Stein hat sich schon alle erdenkliche Mühe gegeben, auch Worowzow u Nesselrode haben angeklopft, aber noch hat der Kayser nichts bestimt Stein sagt geht es nicht hier so gelingt, mirs im Heilbronn Die Sache ist zu wichtig u kann nicht losgelassen werden dem 300000 rt ist kein Kinderspiel, in Ansehung Ihrer Sache mit Cosmar wird befohlen, daß er Ihre Gelder Absolut u sogleich deponiren soll widrigenfalls ihm sogleich Arrest trohet u ein Oberaufseher angestellt werden soll, die Sache liegt nur nach dem Kanzler",
    "paragraphs": [
+    "291",
     "Durchlauchtigster Fürst",
-    "p.p.",
-    "so eben habe ich noch die Cabinets Ordre vom 27ten April in den Händen gehabt, wornach der König die Prompteste Auszahlung der 100000 Rthl an fürst August mit das allerschleunigste befohlen hat und an Kircheisen gesandt, den 6. May ist dieses nach dem Fristen August bekannt gemacht was Er Probsolut schon längst haben muß, dieses Sache stoff durchaus nichts mehr entgegen, und hierdurch ist alles gewonnen, es sey denn daß Gott dem guten Fürst August seinem Vater zur Geisel geschaffen und Ihn mit blindheit geschlagen hätte. Die Entschädigung Sache wegen der Pohlnischen Güter Angelegenheiten ist nun durch Vermittlung des Minister Humboldt entschieden, daß wie, wenn u wo hängt nun von dem Köyser ab. Minister Stein hat sich schon alle erdenkliche Mühe gegeben, auch Worowzow u Nesselrode haben angeklopft, aber noch hat der Kayser nichts bestimt Stein sagt geht es nicht hier so gelingt, mirs im Heilbroe Die Sache ist zu wichtig u kann nicht losgelassen werden dem 300000 Rthl ist kein Kinderspiel, in Ansehung Ihrer Sache mit Cosmar wird befohlen, daß er Ihre Gelder Absolut u sogleich deponiren soll widrigenfalls ihm sogleich Arrest trohet u ein Oberaufseher angestellt werden soll, die Sache liegt nur nach dem Kanzler"
+    "p. p.",
+    "so eben habe ich noch die Cabinets Ordre vom 27ten April in den Händen gehabt, wornach der König die Prompteste Auszahlung der 100000 rt an fürst August mit das allerschleunigste befohlen hat und an Kircheisen gesanndt, den 6. May ist dieses nach dem Fürsten August bekannt gemacht was Er obsoliet schon längst haben muß, dieses Sache stoff durchaus nichts mehr entgegen, und hierdurch ist alles gewonnen, es sey denn daß Gott dem guten Fürst August seinem Vater zur Geisel geschaffen und Ihn mit blindheit geschlagen hätte. Die Entschädigung ungs Sache wegen der Pohlnischen Güter Angelegenheiten ist nun durch Vermittlung des Minister Humboldt entschieden, daß wie, wenn u wo hängt nun von dem Kayser ab. Minister Stein hat sich schon alle erdenkliche Mühe gegeben, auch Worowzow u Nesselrode haben angeklopft, aber noch hat der Kayser nichts bestimt Stein sagt geht es nicht hier so gelingt, mirs im Heilbronn Die Sache ist zu wichtig u kann nicht losgelassen werden dem 300000 rt ist kein Kinderspiel, in Ansehung Ihrer Sache mit Cosmar wird befohlen, daß er Ihre Gelder Absolut u sogleich deponiren soll widrigenfalls ihm sogleich Arrest trohet u ein Oberaufseher angestellt werden soll, die Sache liegt nur nach dem Kanzler"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 26
+   "doc_line_end": 27
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 20755,
-   "line_end": 20780,
+   "page_id": "0525_a1",
+   "line_start": 20697,
+   "line_end": 20722,
    "n_lines": 26,
-   "diplomatic": "Zur unterschrifft vor des weitern ob Sie\noder der König die 30000 Rthl bezahlen sollen wird\nsich dem finden wenn man uns nicht mehr die Hlr.\nwittert — Verzeyung.\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt,\nDer Fürst Kanzler Schreibt sich jenes Journal alles selbst\nzu in daher ist nichts zu erfahren oder zu verathen.\nder König geht vom 25t zum 26t in der Nacht ab Er\ngeht noch Berlin und da gerade nach Heilbronn, der\nFürst kanzler folgt Ihm baldt ich ville dann zu\nIhnen um das weitere zu besorgen, gerettet\nSind u werden Sie. Der König v. Würtemberg\nspiett eine große Rolle, die Mediotisirten sind im\nBöckel gelegt es seye dann die Zeiten ändern sich\nden der Kronprinz v. Würtemberg Heirathet die\nPrinzeß v Oldenburg, es sind eigene Zeiten.\nKoppe ist im Hanöreischen Angestellt ich werde vom\nMinister Stein erfahren wo. Schreiben für Durchl. um\nnicht mehren mich denn ich gehe ab, wenn Hardenberg\nund Stein abgehn, traurig aber wäre es wenn\nSie mir kein Geld schickten, wie ich durch Adolph\nBoth denn ich wüßte nicht wie ich hier fortkommen\nsollte. ewig bleibe ich Ewer Durchlaucht\nWien den 24ten May 1815\nwenn gehorsamer diener\nv Triebenfeld",
-   "transcription": "Zur unterschrifft vor des weitern ob Sie\noder der König die 30000 Rthl bezahlen sollen wird\nsich dem finden wenn man uns nicht mehr die Hlr.\nwittert — Verzeyung.\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt,\nDer Fürst Kanzler Schreibt sich jenes Journal alles selbst\nzu in daher ist nichts zu erfahren oder zu verathen.\nder König geht vom 25t zum 26t in der Nacht ab Er\ngeht noch Berlin und da gerade nach Heilbronn, der\nFürst kanzler folgt Ihm baldt ich ville dann zu\nIhnen um das weitere zu besorgen, gerettet\nSind u werden Sie. Der König v. Würtemberg\nspiett eine große Rolle, die Mediotisirten sind im\nBöckel gelegt es seye dann die Zeiten ändern sich\nden der Kronprinz v. Würtemberg Heirathet die\nPrinzeß v Oldenburg, es sind eigene Zeiten.\nKoppe ist im Hanöreischen Angestellt ich werde vom\nMinister Stein erfahren wo. Schreiben für Durchl. um\nnicht mehren mich denn ich gehe ab, wenn Hardenberg\nund Stein abgehn, traurig aber wäre es wenn\nSie mir kein Geld schickten, wie ich durch Adolph\nBoth denn ich wüßte nicht wie ich hier fortkommen\nsollte. ewig bleibe ich Ewer Durchlaucht\nWien den 24ten May 1815\nwenn gehorsamer diener\nv Triebenfeld",
-   "reading": "Zur unterschrifft vor des weitern ob Sie oder der König die 30000 Rthl bezahlen sollen wird sich dem finden wenn man uns nicht mehr die Hlr. wittert — Verzeyung.\n\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt, Der Fürst Kanzler Schreibt sich jenes Journal alles selbst zu in daher ist nichts zu erfahren oder zu verathen. der König geht vom 25t zum 26t in der Nacht ab Er geht noch Berlin und da gerade nach Heilbronn, der Fürst kanzler folgt Ihm baldt ich ville dann zu Ihnen um das weitere zu besorgen, gerettet Sind u werden Sie. Der König v. Würtemberg spiett eine große Rolle, die Mediotisirten sind im Böckel gelegt es seye dann die Zeiten ändern sich den der Kronprinz v. Würtemberg Heirathet die Prinzeß v Oldenburg, es sind eigene Zeiten. Koppe ist im Hanöreischen Angestellt ich werde vom Minister Stein erfahren wo. Schreiben für Durchl. um nicht mehren mich denn ich gehe ab, wenn Hardenberg und Stein abgehn, traurig aber wäre es wenn Sie mir kein Geld schickten, wie ich durch Adolph Both denn ich wüßte nicht wie ich hier fortkommen sollte. ewig bleibe ich Ewer Durchlaucht Wien den 24ten May 1815\n\nwenn gehorsamer diener\n\nv Triebenfeld",
+   "diplomatic": "Zur unterschrifft vor des weitern ob Sie\noder der König die 30000 rt bezahlen sollen wird\nsich dem finden wenn man uns nicht mehr die Hr:\nwittert — Verzeyung.\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt,\nDer Fürst Kanzler Schreibt sich jenes Journal alles selbst\nzu in daher ist nichts zu erfahren oder zu verathen.\nder König geht vom 25ten zum 26ten in der Nacht ab Er\ngeht noch Berlin und da gerade nach Heilbronn, der\nFürst Kanzler folgt Ihm baldt ich eile dann zu\nIhnen um das weitere zu besorgen, gerettet\nSind u werden Sie. Der König v. Würtemberg\nspielt eine große Rolle, die Mediatisirten sind im\nBöckel gelegt es seye dann die Zeiten ändern sich\nden der Kronprinz v. Würtemberg Heirathet die\nPrinzeß v Oldenburg, es sind eigene Zeiten.\nKoppe ist im Hanöreischen Angestellt ich werde vom\nMinister Stein erfahren wo. Schreiben für Durchl. um\nnicht mehren mich denn ich gehe ab, wenn Hardenberg\nund Stein abgehn, traurig aber wäre es wenn\nSie mir kein Geld schickten, wie ich durch Adolph\nBoth denn ich wüßte nicht wie ich hier fortkommen\nsollte. ewig bleibe ich Ewr Durchlaucht\nWien den 24ten May 1815\ntreu gehorsamer diener\nv Triebenfeld",
+   "transcription": "Zur unterschrifft vor des weitern ob Sie\noder der König die 30000 rt bezahlen sollen wird\nsich dem finden wenn man uns nicht mehr die Hr:\nwittert — Verzeyung.\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt,\nDer Fürst Kanzler Schreibt sich jenes Journal alles selbst\nzu in daher ist nichts zu erfahren oder zu verathen.\nder König geht vom 25ten zum 26ten in der Nacht ab Er\ngeht noch Berlin und da gerade nach Heilbronn, der\nFürst Kanzler folgt Ihm baldt ich eile dann zu\nIhnen um das weitere zu besorgen, gerettet\nSind u werden Sie. Der König v. Würtemberg\nspielt eine große Rolle, die Mediatisirten sind im\nBöckel gelegt es seye dann die Zeiten ändern sich\nden der Kronprinz v. Würtemberg Heirathet die\nPrinzeß v Oldenburg, es sind eigene Zeiten.\nKoppe ist im Hanöreischen Angestellt ich werde vom\nMinister Stein erfahren wo. Schreiben für Durchl. um\nnicht mehren mich denn ich gehe ab, wenn Hardenberg\nund Stein abgehn, traurig aber wäre es wenn\nSie mir kein Geld schickten, wie ich durch Adolph\nBoth denn ich wüßte nicht wie ich hier fortkommen\nsollte. ewig bleibe ich Ewr Durchlaucht\nWien den 24ten May 1815\ntreu gehorsamer diener\nv Triebenfeld",
+   "reading": "Zur unterschrifft vor des weitern ob Sie oder der König die 30000 rt bezahlen sollen wird sich dem finden wenn man uns nicht mehr die Hr: wittert — Verzeyung.\n\nwegen ihrer Militairischen Sache ist noch gar nichts gesagt, Der Fürst Kanzler Schreibt sich jenes Journal alles selbst zu in daher ist nichts zu erfahren oder zu verathen. der König geht vom 25ten zum 26ten in der Nacht ab Er geht noch Berlin und da gerade nach Heilbronn, der Fürst Kanzler folgt Ihm baldt ich eile dann zu Ihnen um das weitere zu besorgen, gerettet Sind u werden Sie. Der König v. Würtemberg spielt eine große Rolle, die Mediatisirten sind im Böckel gelegt es seye dann die Zeiten ändern sich den der Kronprinz v. Würtemberg Heirathet die Prinzeß v Oldenburg, es sind eigene Zeiten. Koppe ist im Hanöreischen Angestellt ich werde vom Minister Stein erfahren wo. Schreiben für Durchl. um nicht mehren mich denn ich gehe ab, wenn Hardenberg und Stein abgehn, traurig aber wäre es wenn Sie mir kein Geld schickten, wie ich durch Adolph Both denn ich wüßte nicht wie ich hier fortkommen sollte. ewig bleibe ich Ewr Durchlaucht Wien den 24ten May 1815\n\ntreu gehorsamer diener\n\nv Triebenfeld",
    "paragraphs": [
-    "Zur unterschrifft vor des weitern ob Sie oder der König die 30000 Rthl bezahlen sollen wird sich dem finden wenn man uns nicht mehr die Hlr. wittert — Verzeyung.",
-    "wegen ihrer Militairischen Sache ist noch gar nichts gesagt, Der Fürst Kanzler Schreibt sich jenes Journal alles selbst zu in daher ist nichts zu erfahren oder zu verathen. der König geht vom 25t zum 26t in der Nacht ab Er geht noch Berlin und da gerade nach Heilbronn, der Fürst kanzler folgt Ihm baldt ich ville dann zu Ihnen um das weitere zu besorgen, gerettet Sind u werden Sie. Der König v. Würtemberg spiett eine große Rolle, die Mediotisirten sind im Böckel gelegt es seye dann die Zeiten ändern sich den der Kronprinz v. Würtemberg Heirathet die Prinzeß v Oldenburg, es sind eigene Zeiten. Koppe ist im Hanöreischen Angestellt ich werde vom Minister Stein erfahren wo. Schreiben für Durchl. um nicht mehren mich denn ich gehe ab, wenn Hardenberg und Stein abgehn, traurig aber wäre es wenn Sie mir kein Geld schickten, wie ich durch Adolph Both denn ich wüßte nicht wie ich hier fortkommen sollte. ewig bleibe ich Ewer Durchlaucht Wien den 24ten May 1815",
-    "wenn gehorsamer diener",
+    "Zur unterschrifft vor des weitern ob Sie oder der König die 30000 rt bezahlen sollen wird sich dem finden wenn man uns nicht mehr die Hr: wittert — Verzeyung.",
+    "wegen ihrer Militairischen Sache ist noch gar nichts gesagt, Der Fürst Kanzler Schreibt sich jenes Journal alles selbst zu in daher ist nichts zu erfahren oder zu verathen. der König geht vom 25ten zum 26ten in der Nacht ab Er geht noch Berlin und da gerade nach Heilbronn, der Fürst Kanzler folgt Ihm baldt ich eile dann zu Ihnen um das weitere zu besorgen, gerettet Sind u werden Sie. Der König v. Würtemberg spielt eine große Rolle, die Mediatisirten sind im Böckel gelegt es seye dann die Zeiten ändern sich den der Kronprinz v. Würtemberg Heirathet die Prinzeß v Oldenburg, es sind eigene Zeiten. Koppe ist im Hanöreischen Angestellt ich werde vom Minister Stein erfahren wo. Schreiben für Durchl. um nicht mehren mich denn ich gehe ab, wenn Hardenberg und Stein abgehn, traurig aber wäre es wenn Sie mir kein Geld schickten, wie ich durch Adolph Both denn ich wüßte nicht wie ich hier fortkommen sollte. ewig bleibe ich Ewr Durchlaucht Wien den 24ten May 1815",
+    "treu gehorsamer diener",
     "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "doc_line_start": 27,
-   "doc_line_end": 52
+   "doc_line_start": 28,
+   "doc_line_end": 53
   }
  ],
  "mentions": [
@@ -82,10 +90,10 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20733,
-   "doc_line": 6
+   "line": 20675,
+   "doc_line": 7
   },
   {
    "entity": "kircheisen",
@@ -93,20 +101,9 @@
    "kind": "person",
    "surface": "Kircheisen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20734,
-   "doc_line": 7
-  },
-  {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20735,
+   "line": 20676,
    "doc_line": 8
   },
   {
@@ -115,10 +112,21 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20739,
-   "doc_line": 12
+   "line": 20677,
+   "doc_line": 9
+  },
+  {
+   "entity": "august",
+   "display": "August",
+   "kind": "person",
+   "surface": "August",
+   "page": 1,
+   "page_id": "0524_a2",
+   "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
+   "line": 20681,
+   "doc_line": 13
   },
   {
    "entity": "humboldt",
@@ -126,10 +134,10 @@
    "kind": "person",
    "surface": "Humboldt",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20742,
-   "doc_line": 15
+   "line": 20684,
+   "doc_line": 16
   },
   {
    "entity": "stein",
@@ -137,10 +145,10 @@
    "kind": "person",
    "surface": "Stein",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20744,
-   "doc_line": 17
+   "line": 20686,
+   "doc_line": 18
   },
   {
    "entity": "nesselrode",
@@ -148,10 +156,10 @@
    "kind": "person",
    "surface": "Nesselrode",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20745,
-   "doc_line": 18
+   "line": 20687,
+   "doc_line": 19
   },
   {
    "entity": "stein",
@@ -159,10 +167,10 @@
    "kind": "person",
    "surface": "Stein",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20747,
-   "doc_line": 20
+   "line": 20689,
+   "doc_line": 21
   },
   {
    "entity": "cosmar",
@@ -170,10 +178,21 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0524_a2",
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20750,
-   "doc_line": 23
+   "line": 20692,
+   "doc_line": 24
+  },
+  {
+   "entity": "koppe",
+   "display": "Koppe",
+   "kind": "person",
+   "surface": "Koppe",
+   "page": 2,
+   "page_id": "0525_a1",
+   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+   "line": 20713,
+   "doc_line": 44
   },
   {
    "entity": "stein",
@@ -181,10 +200,10 @@
    "kind": "person",
    "surface": "Stein",
    "page": 2,
-   "page_id": "",
+   "page_id": "0525_a1",
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20772,
-   "doc_line": 44
+   "line": 20714,
+   "doc_line": 45
   },
   {
    "entity": "hardenberg",
@@ -192,10 +211,10 @@
    "kind": "person",
    "surface": "Hardenberg",
    "page": 2,
-   "page_id": "",
+   "page_id": "0525_a1",
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20773,
-   "doc_line": 45
+   "line": 20715,
+   "doc_line": 46
   },
   {
    "entity": "stein",
@@ -203,10 +222,10 @@
    "kind": "person",
    "surface": "Stein",
    "page": 2,
-   "page_id": "",
+   "page_id": "0525_a1",
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20774,
-   "doc_line": 46
+   "line": 20716,
+   "doc_line": 47
   },
   {
    "entity": "triebenfeld",
@@ -214,317 +233,85 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0525_a1",
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20780,
-   "doc_line": 52
+   "line": 20722,
+   "doc_line": 53
   }
  ],
- "mentions_english": [
-  {
-   "entity": "kircheisen",
-   "display": "Kircheisen",
-   "kind": "person",
-   "surface_de": "Kircheisen",
-   "surface_en": "Kircheisen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince August",
-   "kind": "person",
-   "surface_de": "fürst August",
-   "surface_en": "Prince August",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince August",
-   "kind": "person",
-   "surface_de": "Fürst August",
-   "surface_en": "Prince August",
-   "page": 1
-  },
-  {
-   "entity": "humboldt",
-   "display": "Wilhelm von Humboldt",
-   "kind": "person",
-   "surface_de": "Humboldt",
-   "surface_en": "Humboldt",
-   "page": 1
-  },
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface_de": "Stein",
-   "surface_en": "Stein",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Worowzow",
-   "kind": "person",
-   "surface_de": "Worowzow",
-   "surface_en": "Worowzow",
-   "page": 1
-  },
-  {
-   "entity": "nesselrode",
-   "display": "Nesselrode",
-   "kind": "person",
-   "surface_de": "Nesselrode",
-   "surface_en": "Nesselrode",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Heilbronn",
-   "kind": "place",
-   "surface_de": "Heilbroe",
-   "surface_en": "Heilbronn",
-   "page": 1
-  },
-  {
-   "entity": "cosmar",
-   "display": "Cosmar",
-   "kind": "person",
-   "surface_de": "Cosmar",
-   "surface_en": "Cosmar",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Heilbronn",
-   "kind": "place",
-   "surface_de": "Heilbronn",
-   "surface_en": "Heilbronn",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Würtemberg",
-   "kind": "place",
-   "surface_de": "Würtemberg",
-   "surface_en": "Würtemberg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Oldenburg",
-   "kind": "place",
-   "surface_de": "Oldenburg",
-   "surface_en": "Oldenburg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Koppe",
-   "kind": "person",
-   "surface_de": "Koppe",
-   "surface_en": "Koppe",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Hanoverian",
-   "kind": "place",
-   "surface_de": "Hanöreischen",
-   "surface_en": "Hanoverian",
-   "page": 2
-  },
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface_de": "Stein",
-   "surface_en": "Stein",
-   "page": 2
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface_de": "Hardenberg",
-   "surface_en": "Hardenberg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Adolph Both",
-   "kind": "person",
-   "surface_de": "Adolph Both",
-   "surface_en": "Adolph Both",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Wien",
  "place_mentions": [
+  {
+   "entity": "heilbronn",
+   "display": "Heilbronn",
+   "kind": "place",
+   "surface": "Heilbronn",
+   "page": 1,
+   "page_id": "0524_a2",
+   "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
+   "line": 20689,
+   "doc_line": 21
+  },
   {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0525_a1",
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20763,
-   "doc_line": 35
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\np.p.\n\nJust now I have again had in my hands the cabinet order of the 27th of April, according to which the King has commanded the promptest payment of the 100000 Rthl to Prince August with the utmost dispatch, and has sent it to Kircheisen; on the 6th of May this was made known to [uncertain: Prince] August, which he Probsolut must have had long since; nothing whatever stands in the way of this matter any longer, and hereby all is won, unless God had created the good Prince August as a hostage to his father and struck him with blindness. The matter of compensation concerning the affairs of the Polish estates has now been decided through the mediation of Minister Humboldt; the how, the whether and the where now depend upon the Emperor. Minister Stein has already given himself every conceivable trouble, and Worowzow and Nesselrode have also knocked at the door, but the Emperor has as yet determined nothing. Stein says: if it does not go here, then I shall succeed with it at Heilbronn. The matter is too important and cannot be let go of; 300000 Rthl is no child's play. With regard to your affair with Cosmar it is ordered that he shall Absolutely and at once deposit your monies, failing which he is at once threatened with arrest and a chief overseer is to be appointed; the matter lies only with the Chancellor",
-   "names": [
-    {
-     "de": "Kircheisen",
-     "en": "Kircheisen",
-     "kind": "person"
-    },
-    {
-     "de": "fürst August",
-     "en": "Prince August",
-     "kind": "person"
-    },
-    {
-     "de": "Fürst August",
-     "en": "Prince August",
-     "kind": "person"
-    },
-    {
-     "de": "Humboldt",
-     "en": "Humboldt",
-     "kind": "person"
-    },
-    {
-     "de": "Stein",
-     "en": "Stein",
-     "kind": "person"
-    },
-    {
-     "de": "Worowzow",
-     "en": "Worowzow",
-     "kind": "person"
-    },
-    {
-     "de": "Nesselrode",
-     "en": "Nesselrode",
-     "kind": "person"
-    },
-    {
-     "de": "Heilbroe",
-     "en": "Heilbronn",
-     "kind": "place"
-    },
-    {
-     "de": "Cosmar",
-     "en": "Cosmar",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "27ten",
-    "100000",
-    "6.",
-    "300000"
-   ]
+   "line": 20705,
+   "doc_line": 36
   },
   {
+   "entity": "heilbronn",
+   "display": "Heilbronn",
+   "kind": "place",
+   "surface": "Heilbronn",
    "page": 2,
-   "en": "for signature. As for the rest, whether you or the King are to pay the 30000 Rthl will come to light in due course, if they do not scent out the [illegible] from us any more — pardon me.\n\nConcerning your military affair nothing at all has yet been said. The Prince Chancellor ascribes all of that Journal to himself, and therefore nothing is to be learnt or betrayed. The King departs in the night from the 25th to the 26th; he is going still to Berlin and from there straight to Heilbronn; the Prince Chancellor will soon follow him. I shall then [uncertain: come] to you in order to see to the rest; you are saved and will be saved. The King of Württemberg plays a great part; the mediatised are laid in the stocks, unless the times should change, for the Crown Prince of Württemberg is marrying the Princess of Oldenburg — these are peculiar times. Koppe has been appointed in the Hanoverian service; I shall learn from Minister Stein where. Write for Your Serene Highness's sake, so as not to [uncertain: increase] me, for I depart when Hardenberg and Stein depart. But it would be a sad thing if you sent me no money, as I do through Adolph Both, for I should not know how I am to get away from here. I remain forever Your Serene Highness's, Vienna, the 24th of May 1815\n\nwhen obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Heilbronn",
-     "en": "Heilbronn",
-     "kind": "place"
-    },
-    {
-     "de": "Würtemberg",
-     "en": "Würtemberg",
-     "kind": "place"
-    },
-    {
-     "de": "Oldenburg",
-     "en": "Oldenburg",
-     "kind": "place"
-    },
-    {
-     "de": "Koppe",
-     "en": "Koppe",
-     "kind": "person"
-    },
-    {
-     "de": "Hanöreischen",
-     "en": "Hanoverian",
-     "kind": "place"
-    },
-    {
-     "de": "Stein",
-     "en": "Stein",
-     "kind": "person"
-    },
-    {
-     "de": "Hardenberg",
-     "en": "Hardenberg",
-     "kind": "person"
-    },
-    {
-     "de": "Adolph Both",
-     "en": "Adolph Both",
-     "kind": "person"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "30000",
-    "25t",
-    "26t",
-    "24ten",
-    "1815"
-   ]
+   "page_id": "0525_a1",
+   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+   "line": 20705,
+   "doc_line": 36
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "Würtemberg",
+   "page": 2,
+   "page_id": "0525_a1",
+   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+   "line": 20708,
+   "doc_line": 39
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "Würtemberg",
+   "page": 2,
+   "page_id": "0525_a1",
+   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+   "line": 20711,
+   "doc_line": 42
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 2,
+   "page_id": "0525_a1",
+   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+   "line": 20720,
+   "doc_line": 51
   }
  ],
- "text_english": "Most Serene Prince\n\np.p.\n\nJust now I have again had in my hands the cabinet order of the 27th of April, according to which the King has commanded the promptest payment of the 100000 Rthl to Prince August with the utmost dispatch, and has sent it to Kircheisen; on the 6th of May this was made known to [uncertain: Prince] August, which he Probsolut must have had long since; nothing whatever stands in the way of this matter any longer, and hereby all is won, unless God had created the good Prince August as a hostage to his father and struck him with blindness. The matter of compensation concerning the affairs of the Polish estates has now been decided through the mediation of Minister Humboldt; the how, the whether and the where now depend upon the Emperor. Minister Stein has already given himself every conceivable trouble, and Worowzow and Nesselrode have also knocked at the door, but the Emperor has as yet determined nothing. Stein says: if it does not go here, then I shall succeed with it at Heilbronn. The matter is too important and cannot be let go of; 300000 Rthl is no child's play. With regard to your affair with Cosmar it is ordered that he shall Absolutely and at once deposit your monies, failing which he is at once threatened with arrest and a chief overseer is to be appointed; the matter lies only with the Chancellor\n\nfor signature. As for the rest, whether you or the King are to pay the 30000 Rthl will come to light in due course, if they do not scent out the [illegible] from us any more — pardon me.\n\nConcerning your military affair nothing at all has yet been said. The Prince Chancellor ascribes all of that Journal to himself, and therefore nothing is to be learnt or betrayed. The King departs in the night from the 25th to the 26th; he is going still to Berlin and from there straight to Heilbronn; the Prince Chancellor will soon follow him. I shall then [uncertain: come] to you in order to see to the rest; you are saved and will be saved. The King of Württemberg plays a great part; the mediatised are laid in the stocks, unless the times should change, for the Crown Prince of Württemberg is marrying the Princess of Oldenburg — these are peculiar times. Koppe has been appointed in the Hanoverian service; I shall learn from Minister Stein where. Write for Your Serene Highness's sake, so as not to [uncertain: increase] me, for I depart when Hardenberg and Stein depart. But it would be a sad thing if you sent me no money, as I do through Adolph Both, for I should not know how I am to get away from here. I remain forever Your Serene Highness's, Vienna, the 24th of May 1815\n\nwhen obedient servant\n\nv. Triebenfeld",
- "summary_en": "A report on business at the Congress: a royal cabinet order of 27 April directs immediate payment of the 100,000 Rthl to Prince August, and compensation for the Polish estates, some 300,000 Rthl, has been settled through Minister Humboldt but awaits the Emperor, with Stein, Vorontsov and Nesselrode pressing and Stein threatening to pursue it at Heilbronn. Cosmar is ordered to deposit the Prince's monies on pain of arrest. Nothing yet on the military affair, and Triebenfeld asks urgently for money to leave Vienna.",
- "summary_de": "Bericht über den Stand mehrerer Verhandlungen: eine Kabinettsordre vom 27. April, mit der der König die sofortige Zahlung der 100000 Rthl an Prinz August befiehlt und die an Kircheisen ging; die durch Minister Humboldt vermittelte Entschädigung für die polnischen Güter, über die nun der Kaiser entscheiden muß, wobei Stein, Worowzow und Nesselrode um 300000 Rthl bemüht sind; die Anweisung an Cosmar, die Gelder sofort zu deponieren, sonst Arrest; dazu Nachrichten über Abreise des Königs nach Heilbronn, Koppes hannoversche Anstellung und die Bitte um Geld für die eigene Rückreise."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

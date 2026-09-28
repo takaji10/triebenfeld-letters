@@ -468,6 +468,17 @@
    "display": "Wollenhaupt",
    "kind": "person",
    "surface": "Wollenhaupt",
+   "page": 3,
+   "page_id": "0058_a2",
+   "scan": "Oe_1_Bu_14526_0058_a2-L10_03.jpg",
+   "line": 2983,
+   "doc_line": 78
+  },
+  {
+   "entity": "wollenhaupt",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface": "Wollenhaupt",
    "page": 5,
    "page_id": "0059_a2",
    "scan": "Oe_1_Bu_14526_0059_a2-L10_05.jpg",
@@ -490,6 +501,17 @@
    "display": "August",
    "kind": "person",
    "surface": "August",
+   "page": 11,
+   "page_id": "0062_a2",
+   "scan": "Oe_1_Bu_14526_0062_a2-L10_11.jpg",
+   "line": 3226,
+   "doc_line": 313
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
    "page": 11,
    "page_id": "0062_a2",
    "scan": "Oe_1_Bu_14526_0062_a2-L10_11.jpg",
@@ -539,6 +561,17 @@
    "scan": "Oe_1_Bu_14526_0063_a1-L10_12.jpg",
    "line": 3240,
    "doc_line": 326
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 12,
+   "page_id": "0063_a1",
+   "scan": "Oe_1_Bu_14526_0063_a1-L10_12.jpg",
+   "line": 3243,
+   "doc_line": 329
   },
   {
    "entity": "wollenhaupt",
@@ -1029,6 +1062,28 @@
    "doc_line": 11
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0057_b",
+   "scan": "Oe_1_Bu_14526_0057_b-L10_01.jpg",
+   "line": 2923,
+   "doc_line": 20
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 2,
+   "page_id": "0058_a1",
+   "scan": "Oe_1_Bu_14526_0058_a1-L10_02.jpg",
+   "line": 2947,
+   "doc_line": 43
+  },
+  {
    "entity": "wrabczyn",
    "display": "Wrąbczyn",
    "kind": "place",
@@ -1073,6 +1128,17 @@
    "doc_line": 320
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 12,
+   "page_id": "0063_a1",
+   "scan": "Oe_1_Bu_14526_0063_a1-L10_12.jpg",
+   "line": 3244,
+   "doc_line": 330
+  },
+  {
    "entity": "drzewce",
    "display": "Drzewce",
    "kind": "place",
@@ -1082,6 +1148,17 @@
    "scan": "Oe_1_Bu_14526_0064_a1-L10_14.jpg",
    "line": 3300,
    "doc_line": 384
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 15,
+   "page_id": "0064_a2",
+   "scan": "Oe_1_Bu_14526_0064_a2-L10_15.jpg",
+   "line": 3345,
+   "doc_line": 428
   }
  ],
  "translation_status": "draft",

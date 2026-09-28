@@ -16,7 +16,7 @@ title: >-
   Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the
   Councillor of War and Forests von Triebenfeld
 date_span: 1798-1816
-status: published          # draft | transcribed | translated | published
+status: draft              # draft | transcribed | translated | published
 
 # The translation generation this holding was published from. Every tool
 # defaults to the untagged cache, so without this the next check reads an
@@ -38,8 +38,10 @@ repository: hzan-neuenstein
 # A newly added unit does not need this.
 legacy_flat_urls: true
 
-# Raw scans live outside the project. crop_scans.py reads from raw_dir and
-# writes single pages into raw_dir/processed/.
+# Raw scans live outside the project, and are needed only to crop the pages
+# again: crop_scans.py reads from raw_dir and writes into raw_dir/processed/.
+# The finished pages are in pages/, and the intake records (manifest, fold,
+# trim and skew decisions) are kept in units/<slug>/intake/.
 scans:
   raw_dir: C:/Users/Tersnaus/Downloads/Oe 1_Bü 9454
   raw_glob: Oe 1_Bü 9454_*.jpg
@@ -49,6 +51,16 @@ scans:
   # stages parse this prefix, so it must not change once a unit is published.
   #   Oe 1_Bü 9454_0343_a1.jpg  ->  Oe_1_Bu_9454_0343_a1-L179a_04.jpg
   ascii_prefix: Oe_1_Bu_9454
+
+# The re-transcription, one file per page, matched to the page images in pages/.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+
+  # These are named <seq>_<archival stem>_<capture>_<crop>.txt, and the capture
+  # and crop are the identity, so everything up to and including the stem goes:
+  #   0005_Oe 1_Bue 9454_0003_a1.txt  ->  0003_a1
+  page_id_strip: "Oe 1_Bue 9454_"
 
 # The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt

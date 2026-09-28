@@ -17,120 +17,126 @@
  "year": 1806,
  "month": 9,
  "day": 25,
- "place": "Freyberg",
+ "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 1524,
- "line_end": 1634,
+ "line_start": 1546,
+ "line_end": 1657,
  "uncertainty_count": 3,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn",
+  "zagorowo",
+  "kopojno",
+  "swiatniki",
+  "skokum",
+  "olesnica",
+  "drzewce",
+  "gradzyn",
+  "wrabczyn",
+  "swiecia",
+  "szetlewek"
+ ],
  "is_missing": 0,
- "n_lines": 110,
+ "n_lines": 107,
  "n_pages": 4,
- "text": "Hochwohlgeborner Herr\nHochzuehrender Herr Geheimer Rath!\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner\nSüdpreußischen Herrschaften Zagorowo und Trombschen ist ein\nreiner Ertrag derselben von 40 Rthl ausgemittelt, und\nnach genauer Prüfung von der Kalischen Krieges und Domainen\nCammer bestätiget worden.\nDies dürfte mich in den Stand sezzen meinen so lange gefragten\nWunsch in Erfüllung zu bringen, und mein Schulden Wesen gänz¬\nlich zu arangiren. Es kommt indes darauf an ob es mög¬\nlich ist, eine Summa von 100000 Rthl, nehmlich so viel als meine\nsämtliche Schulden ohne Ausnahme betragen, auf einen\nFleck zu erhalten, wogegen ich dann die vorgenannten\nbeiden Herrschaften verpfänden, darauf mit erster und\neinziger Hypotheque vollständige Sicherheit bestellen, auch\nzur Bezahlung der Intressen und Amortesirung des Capitals\nJährlich eine Summe bestimmen würde, wodurch diese Schuld\nin wenig Jahren getilgt sein könte.\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Ge¬\nschäft zu unterziehen und bey Ihrer großen Bekanntschaft\nein Anlehn dieser Art zu Negoziren. Die dazu nöthige\nVollmacht werde ich in jeder beliebigen Art mit erster\nPost übermachen. Auch habe ich meinen General Bevollmächtig\nten angewiesen denenselben alle, zur Betreibung dieses\nGeschäfts nötigen Documente sogleich zu behändigen, und\nfür die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein D[?]ongratie von 5 pt. sobald die Sache versteht ohne An¬\nstand auszuzahlen\nMit der vollkommesten Hochachtung bin ich\nEwr Hochwohlgeborn\nF. L. f. z. Hohenlohe\nFreyberg den 25ten Septbr.\n1806.\n\nDie dem Fürsten Hohenlohe in Südpreußen hinter Pexen an der Warthe belegene\nHerrschaften Zagorowo und Trąbczin bestehen.\n1. Aus das Stadchen Zagorowo\n2. Auf das Dorf und Vormuck Kopoyno\n3 Aus das Zins Dorf Swiątniki\n4 do Skokum\n5 aus das Zinsdorf und Vorwerk Olesnica.\n6 Aus das Zins dort Drzewce.\n7 do Grądzin\n8 do Wrąbczin\n9 Alt Swięcia\n10 Neu Swięcia\n11 Sophienthal\n12 Ludwigslust\n13 Adelow\n14 Friedrichsfelde\n15 Augustinow\n16 Emilienhayn\n17 Adolphsberg\n18 Alexandrow\n19 Klein Ingelfingen\n20 Klein Öhringen\n21 Klein Neuenstein\n22 Aus dorf und Vorwerk Trąbczin\n23 Aus do Nowawies\n24 Aus das Dorf od. Vorwerk Przybislaw\n25 Aus das Zins dorf Stara Huta\n26 Aus das dorf un Vorwerk Marianton\n27. Aus das dort und Vorwerk Szetlewek\n28. Aus das Zins dörf Furstenfelde\n29. Aus do Hohendorf\n30 aus do Justinsau[?]\n31 aus do Kaszubow\n32 Aus Klein Schro[l?]berg\n33 Aus do Gros Holland\n34 Aus do Blomberg\n\nDer Jährliche reine Ertrag der beiden Herrschaften ist durch\neine von der König Kalischen Krieges und Domainen Cammer\nNiedergesezte Comission geprüft und folgendergestalt ausge¬\nmittelt.\nTit. I. An beständigen Gefallen\nvon den Alten Unterthanen in beiden Herrschaften\nlaut Praestations Tabelle 5752 Rthl 14 g. 11 d.\n2 an Erbzinsen aus den Collonien 16781\nTit. II\nAn Erbpachts Canon 3500\nTit III\nAn Pacht Stücken 13357\nTit IV\nvon 3 Ziegeleinen laut Cammer Anschlag 857\nSumma 40247 Rthl 14 g 11 d\nalle Abgaben und lasse wie sie auch immer Nahmen\nhaben, sind von den Erben achtern, Collonisten, Zeit\nBauren, und Zeit Pachtern mit übernommen.\ndaher bleibt die vorgenante Summa von\n40247 Rthl 14 g 11 d als eine reine jährl. Reverne\nfestehen.\nv Triebenfeld\n\nSchulden des Fürsten\nAn Schlabrendorff 25000\nAn Weigel 27000\nAn Eward u. Haupt 18000\nZerboni 10000\nEysenhardtsche Erben 10000\nAn Lichnowski 42000\nAn Grotowski 20000\nSeehausen. 5000\nSeher Tothschen Erben 8000\nPrusimska circa 16000\nInvaliden Casse 50000\nOppenheimer und Wolff 110000\nBornstädt 5000\nDiversè Schulden circa 20000\nSumma 366000.",
- "text_reading": "Hochwohlgeborner Herr\n\nHochzuehrender Herr Geheimer Rath!\n\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner Südpreußischen Herrschaften Zagorowo und Trombschen ist ein reiner Ertrag derselben von 40 Rthl ausgemittelt, und nach genauer Prüfung von der Kalischen Krieges und Domainen Cammer bestätiget worden.\n\nDies dürfte mich in den Stand sezzen meinen so lange gefragten Wunsch in Erfüllung zu bringen, und mein Schulden Wesen gänzlich zu arangiren. Es kommt indes darauf an ob es möglich ist, eine Summa von 100000 Rthl, nehmlich so viel als meine sämtliche Schulden ohne Ausnahme betragen, auf einen Fleck zu erhalten, wogegen ich dann die vorgenannten beiden Herrschaften verpfänden, darauf mit erster und einziger Hypotheque vollständige Sicherheit bestellen, auch zur Bezahlung der Intressen und Amortesirung des Capitals Jährlich eine Summe bestimmen würde, wodurch diese Schuld in wenig Jahren getilgt sein könte.\n\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Geschäft zu unterziehen und bey Ihrer großen Bekanntschaft ein Anlehn dieser Art zu Negoziren. Die dazu nöthige Vollmacht werde ich in jeder beliebigen Art mit erster Post übermachen. Auch habe ich meinen General Bevollmächtig ten angewiesen denenselben alle, zur Betreibung dieses Geschäfts nötigen Documente sogleich zu behändigen, und für die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein D[?]ongratie von 5 pt. sobald die Sache versteht ohne Anstand auszuzahlen Mit der vollkommesten Hochachtung bin ich Ewr Hochwohlgeborn\n\nF. L. f. z. Hohenlohe Freyberg den 25ten Septbr.\n\n1806.\n\nDie dem Fürsten Hohenlohe in Südpreußen hinter Pexen an der Warthe belegene Herrschaften Zagorowo und Trąbczin bestehen.\n\n1. Aus das Stadchen Zagorowo\n\n2. Auf das Dorf und Vormuck Kopoyno 3 Aus das Zins Dorf Swiątniki\n\n4 do Skokum 5 aus das Zinsdorf und Vorwerk Olesnica. 6 Aus das Zins dort Drzewce.\n\n7 do Grądzin\n\n8 do Wrąbczin 9 Alt Swięcia\n\n10 Neu Swięcia\n\n11 Sophienthal\n\n12 Ludwigslust\n\n13 Adelow 14 Friedrichsfelde 15 Augustinow\n\n16 Emilienhayn\n\n17 Adolphsberg\n\n18 Alexandrow 19 Klein Ingelfingen 20 Klein Öhringen 21 Klein Neuenstein 22 Aus dorf und Vorwerk Trąbczin 23 Aus do Nowawies 24 Aus das Dorf od. Vorwerk Przybislaw 25 Aus das Zins dorf Stara Huta 26 Aus das dorf un Vorwerk Marianton\n\n27. Aus das dort und Vorwerk Szetlewek\n\n28. Aus das Zins dörf Furstenfelde\n\n29. Aus do Hohendorf 30 aus do Justinsau[?] 31 aus do Kaszubow 32 Aus Klein Schro[l?]berg 33 Aus do Gros Holland 34 Aus do Blomberg\n\nDer Jährliche reine Ertrag der beiden Herrschaften ist durch eine von der König Kalischen Krieges und Domainen Cammer Niedergesezte Comission geprüft und folgendergestalt ausgemittelt.\n\nTit. I. An beständigen Gefallen von den Alten Unterthanen in beiden Herrschaften laut Praestations Tabelle 5752 Rthl 14 g. 11 d. 2 an Erbzinsen aus den Collonien 16781 Tit. II\n\nAn Erbpachts Canon 3500\n\nTit III\n\nAn Pacht Stücken 13357\n\nTit IV von 3 Ziegeleinen laut Cammer Anschlag 857 Summa 40247 Rthl 14 g 11 d alle Abgaben und lasse wie sie auch immer Nahmen haben, sind von den Erben achtern, Collonisten, Zeit Bauren, und Zeit Pachtern mit übernommen. daher bleibt die vorgenante Summa von 40247 Rthl 14 g 11 d als eine reine jährl. Reverne festehen.\n\nv Triebenfeld\n\nSchulden des Fürsten An Schlabrendorff 25000 An Weigel 27000 An Eward u. Haupt 18000 Zerboni 10000 Eysenhardtsche Erben 10000 An Lichnowski 42000 An Grotowski 20000 Seehausen. 5000 Seher Tothschen Erben 8000 Prusimska circa 16000 Invaliden Casse 50000 Oppenheimer und Wolff 110000 Bornstädt 5000 Diversè Schulden circa 20000 Summa 366000.",
+ "text": "24\nHochwohlgeborner Herr\nHochzuehrender Herr Geheimer Rath!\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner\nSüdpreußischen Herrschaften Zagorowo und Trąbczyn ist ein\nreiner Ertrag derselben von 40247 rt ausgemittelt, und\nnach genauer Prüfung von der Kalischen Krieges und Domainen\nCammer bestätiget worden.\nDies dürfte mich in den Stand sezzen meinen so lange gefragten\nWunsch in Erfüllung zu bringen, und mein Schulden Wesen gänz¬\nlich zu arangiren. Es kommt indes darauf an ob es mög¬\nlich ist, eine Summa von 400000 rt, nehmlich so viel als meine\nsämtliche Schulden ohne Ausnahme betragen, auf einen\nFleck zu erhalten, wogegen ich dann die vorgenannten\nbeiden Herrschaften verpfänden, darauf mit erster und\neinziger Hypotheque vollständige Sicherheit bestellen, auch\nzur Bezahlung der Intressen und Amortesirung des Capitals\nJährlich eine Summe bestimmen würde, wodurch diese Schuld\nin wenig Jahren getilgt sein könte.\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Ge¬\nschäft zu unterziehen und bey Ihrer großen Bekanntschaft\nein Anlehn dieser Art zu Negoziren. Die dazu nöthige\nVollmacht werde ich in jeder beliebigen Art mit erster\nPost übermachen. Auch habe ich meinen General Bevollmächtig\nten angewiesen denenselben alle, zur Betreibung dieses\nGeschäfts nötigen Documente sogleich zu behändigen, und\nfür die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein [C?]ongratie[?] von 5 pt. sobald die Sache versteht ohne An¬\nstand auszuzahlen\nMit der vollkommensten Hochachtung bin ich\nEwr Hochwohlgeborn\nF[riedrich]. L[udwig]. f[ürst]. z[u]. Hohenlohe\nFreyberg den 25ten Septbr.\n1806.\nDie dem Fürsten Hohenlohe in Südpreußen hinter Posen in der Werthe belegene\nHerrschaften Zagorowo und Trąbczyn besten.\n1. Aus das Stadchen Zagorowo\n2. Auf das Dorf und Vorwerk Kopojno\n3 Aus das Zins Dorf Swiątniki\n4 do Skokum\n5 aus das Zinsdorf und Vorwerk Olesnica.\n6 Aus das Zins dorf Drzewce.\n7 do Grądzyń\n8 do Wrąbczyn\n9 Alt Swięcia\n10 Neu Swięcia\n11 Sophienthal\n12 Ludwigslust\n13 Adelow\n14 Friedrichsfelde\n15 Augustinow\n16 Emilienhayn\n17 Adolphsberg\n18 Alexandrow\n19 Klein Ingelfingen\n20 Klein Öhringen\n21 Klein Neuenstein\n12 Aus dorf und Vorwerk Trąbczyn\n23 Aus do Nowawies\n24 Aus das Dorf od. Vorwerk Przybislaw\n25 Aus das Zins dorf Stara Huta\n26 Aus das dorf un Vorwerk Marianton\n27. Aus das dorf und Vorwerk Szetlewek\n28. Aus das Zins dorf Furstenfelde\n29. Aus do Hohendorff\n30 aus do Justinsau\n31 aus do Kaszubow\n32 Aus Klein Schro[l?]berg\n33 Aus do Gros Holland\n34 Aus do Blomberg\nDer Jährliche reine Ertrag der beiden Herrschaften ist durch\neine von der König Kalischen Krieges und Domainen Cammer\nNiedergesezte Comission geprüft und folgendergestalt ausge¬\nmittelt.\nTit. I. An beständigen Gefallen\nvon den Alten Unterthanen in beiden Herrschaften\nlaut Praestations Tabelle 5752 rt. 14 gg. 4 d.\n2 an Erbzinsen aus den Collonien 16781 rt\nTit. II\nAn Erbpachts Canon 3500 rt\nTit III\nAn Pacht Stücken 13357 rt\nTit IV\nvon 3 Ziegeleinen laut Cammer Anschlag 857 rt\nSumma 40247 rt 14 gg 11 d\nalle Abgaben und lasse wie sie auch immer Nahmen\nhaben, sind von den Erben achtern, Collonisten, Zeit\nBauren, und Zeit Pachtern mit übernommen.\ndaher bleibt die vorgenante Summa von\n40247 rth 14 gg 11 d als eine reine jährl. Revenue\nfestehen.\nv Triebenfeld\nSchulden des Fürsten\nAn Schlabrendorff 25000\nAn Weigel 27000\nAn Eward u. Haupt 18000\nZerboni 10000\nEysenhardtsche Erben 10000\nAn Lignowski 42000\nAn Grotowski 20000\nSeehausen. 5000\nSeher Tothschen Erben 8000\nPrusimska circa 16000\nInvaliden Casse 50000\nOppenheimer und Wolff 110000\nBornstedt 5000\nDiverse Schulden circa 20000\nSumma 366000.",
+ "text_reading": "24\n\nHochwohlgeborner Herr\n\nHochzuehrender Herr Geheimer Rath!\n\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner Südpreußischen Herrschaften Zagorowo und Trąbczyn ist ein reiner Ertrag derselben von 40247 rt ausgemittelt, und nach genauer Prüfung von der Kalischen Krieges und Domainen Cammer bestätiget worden.\n\nDies dürfte mich in den Stand sezzen meinen so lange gefragten Wunsch in Erfüllung zu bringen, und mein Schulden Wesen gänzlich zu arangiren. Es kommt indes darauf an ob es möglich ist, eine Summa von 400000 rt, nehmlich so viel als meine sämtliche Schulden ohne Ausnahme betragen, auf einen Fleck zu erhalten, wogegen ich dann die vorgenannten beiden Herrschaften verpfänden, darauf mit erster und einziger Hypotheque vollständige Sicherheit bestellen, auch zur Bezahlung der Intressen und Amortesirung des Capitals Jährlich eine Summe bestimmen würde, wodurch diese Schuld in wenig Jahren getilgt sein könte.\n\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Geschäft zu unterziehen und bey Ihrer großen Bekanntschaft ein Anlehn dieser Art zu Negoziren. Die dazu nöthige Vollmacht werde ich in jeder beliebigen Art mit erster Post übermachen. Auch habe ich meinen General Bevollmächtig ten angewiesen denenselben alle, zur Betreibung dieses Geschäfts nötigen Documente sogleich zu behändigen, und für die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein [C?]ongratie[?] von 5 pt. sobald die Sache versteht ohne Anstand auszuzahlen Mit der vollkommensten Hochachtung bin ich Ewr Hochwohlgeborn F[riedrich]. L[udwig]. f[ürst]. z[u]. Hohenlohe Freyberg den 25ten Septbr.\n\n1806.\n\nDie dem Fürsten Hohenlohe in Südpreußen hinter Posen in der Werthe belegene Herrschaften Zagorowo und Trąbczyn besten.\n\n1. Aus das Stadchen Zagorowo\n\n2. Auf das Dorf und Vorwerk Kopojno 3 Aus das Zins Dorf Swiątniki\n\n4 do Skokum 5 aus das Zinsdorf und Vorwerk Olesnica. 6 Aus das Zins dorf Drzewce.\n\n7 do Grądzyń\n\n8 do Wrąbczyn 9 Alt Swięcia 10 Neu Swięcia 11 Sophienthal 12 Ludwigslust 13 Adelow 14 Friedrichsfelde 15 Augustinow 16 Emilienhayn 17 Adolphsberg 18 Alexandrow 19 Klein Ingelfingen 20 Klein Öhringen 21 Klein Neuenstein 12 Aus dorf und Vorwerk Trąbczyn 23 Aus do Nowawies 24 Aus das Dorf od. Vorwerk Przybislaw 25 Aus das Zins dorf Stara Huta 26 Aus das dorf un Vorwerk Marianton\n\n27. Aus das dorf und Vorwerk Szetlewek\n\n28. Aus das Zins dorf Furstenfelde\n\n29. Aus do Hohendorff 30 aus do Justinsau 31 aus do Kaszubow 32 Aus Klein Schro[l?]berg 33 Aus do Gros Holland 34 Aus do Blomberg\n\nDer Jährliche reine Ertrag der beiden Herrschaften ist durch eine von der König Kalischen Krieges und Domainen Cammer Niedergesezte Comission geprüft und folgendergestalt ausgemittelt.\n\nTit. I. An beständigen Gefallen von den Alten Unterthanen in beiden Herrschaften laut Praestations Tabelle 5752 rt. 14 gg. 4 d. 2 an Erbzinsen aus den Collonien 16781 rt Tit. II\n\nAn Erbpachts Canon 3500 rt\n\nTit III\n\nAn Pacht Stücken 13357 rt\n\nTit IV von 3 Ziegeleinen laut Cammer Anschlag 857 rt Summa 40247 rt 14 gg 11 d alle Abgaben und lasse wie sie auch immer Nahmen haben, sind von den Erben achtern, Collonisten, Zeit Bauren, und Zeit Pachtern mit übernommen. daher bleibt die vorgenante Summa von 40247 rth 14 gg 11 d als eine reine jährl. Revenue festehen.\n\nv Triebenfeld\n\nSchulden des Fürsten An Schlabrendorff 25000 An Weigel 27000 An Eward u. Haupt 18000 Zerboni 10000 Eysenhardtsche Erben 10000 An Lignowski 42000 An Grotowski 20000 Seehausen. 5000 Seher Tothschen Erben 8000 Prusimska circa 16000 Invaliden Casse 50000 Oppenheimer und Wolff 110000 Bornstedt 5000 Diverse Schulden circa 20000 Summa 366000.",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 1525,
-   "line_end": 1556,
-   "n_lines": 32,
-   "diplomatic": "Hochwohlgeborner Herr\nHochzuehrender Herr Geheimer Rath!\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner\nSüdpreußischen Herrschaften Zagorowo und Trombschen ist ein\nreiner Ertrag derselben von 40 Rthl ausgemittelt, und\nnach genauer Prüfung von der Kalischen Krieges und Domainen\nCammer bestätiget worden.\nDies dürfte mich in den Stand sezzen meinen so lange gefragten\nWunsch in Erfüllung zu bringen, und mein Schulden Wesen gänz¬\nlich zu arangiren. Es kommt indes darauf an ob es mög¬\nlich ist, eine Summa von 100000 Rthl, nehmlich so viel als meine\nsämtliche Schulden ohne Ausnahme betragen, auf einen\nFleck zu erhalten, wogegen ich dann die vorgenannten\nbeiden Herrschaften verpfänden, darauf mit erster und\neinziger Hypotheque vollständige Sicherheit bestellen, auch\nzur Bezahlung der Intressen und Amortesirung des Capitals\nJährlich eine Summe bestimmen würde, wodurch diese Schuld\nin wenig Jahren getilgt sein könte.\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Ge¬\nschäft zu unterziehen und bey Ihrer großen Bekanntschaft\nein Anlehn dieser Art zu Negoziren. Die dazu nöthige\nVollmacht werde ich in jeder beliebigen Art mit erster\nPost übermachen. Auch habe ich meinen General Bevollmächtig\nten angewiesen denenselben alle, zur Betreibung dieses\nGeschäfts nötigen Documente sogleich zu behändigen, und\nfür die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein D[?]ongratie von 5 pt. sobald die Sache versteht ohne An¬\nstand auszuzahlen\nMit der vollkommesten Hochachtung bin ich\nEwr Hochwohlgeborn\nF. L. f. z. Hohenlohe\nFreyberg den 25ten Septbr.\n1806.",
-   "transcription": "Hochwohlgeborner Herr\nHochzuehrender Herr Geheimer Rath!\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner\nSüdpreußischen Herrschaften Zagorowo und Trombschen ist ein\nreiner Ertrag derselben von 40 Rthl ausgemittelt, und\nnach genauer Prüfung von der Kalischen Krieges und Domainen\nCammer bestätiget worden.\nDies dürfte mich in den Stand sezzen meinen so lange gefragten\nWunsch in Erfüllung zu bringen, und mein Schulden Wesen gänz-\nlich zu arangiren. Es kommt indes darauf an ob es mög-\nlich ist, eine Summa von 100000 Rthl, nehmlich so viel als meine\nsämtliche Schulden ohne Ausnahme betragen, auf einen\nFleck zu erhalten, wogegen ich dann die vorgenannten\nbeiden Herrschaften verpfänden, darauf mit erster und\neinziger Hypotheque vollständige Sicherheit bestellen, auch\nzur Bezahlung der Intressen und Amortesirung des Capitals\nJährlich eine Summe bestimmen würde, wodurch diese Schuld\nin wenig Jahren getilgt sein könte.\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Ge-\nschäft zu unterziehen und bey Ihrer großen Bekanntschaft\nein Anlehn dieser Art zu Negoziren. Die dazu nöthige\nVollmacht werde ich in jeder beliebigen Art mit erster\nPost übermachen. Auch habe ich meinen General Bevollmächtig\nten angewiesen denenselben alle, zur Betreibung dieses\nGeschäfts nötigen Documente sogleich zu behändigen, und\nfür die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein D[?]ongratie von 5 pt. sobald die Sache versteht ohne An-\nstand auszuzahlen\nMit der vollkommesten Hochachtung bin ich\nEwr Hochwohlgeborn\nF. L. f. z. Hohenlohe\nFreyberg den 25ten Septbr.\n1806.",
-   "reading": "Hochwohlgeborner Herr\n\nHochzuehrender Herr Geheimer Rath!\n\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner Südpreußischen Herrschaften Zagorowo und Trombschen ist ein reiner Ertrag derselben von 40 Rthl ausgemittelt, und nach genauer Prüfung von der Kalischen Krieges und Domainen Cammer bestätiget worden.\n\nDies dürfte mich in den Stand sezzen meinen so lange gefragten Wunsch in Erfüllung zu bringen, und mein Schulden Wesen gänzlich zu arangiren. Es kommt indes darauf an ob es möglich ist, eine Summa von 100000 Rthl, nehmlich so viel als meine sämtliche Schulden ohne Ausnahme betragen, auf einen Fleck zu erhalten, wogegen ich dann die vorgenannten beiden Herrschaften verpfänden, darauf mit erster und einziger Hypotheque vollständige Sicherheit bestellen, auch zur Bezahlung der Intressen und Amortesirung des Capitals Jährlich eine Summe bestimmen würde, wodurch diese Schuld in wenig Jahren getilgt sein könte.\n\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Geschäft zu unterziehen und bey Ihrer großen Bekanntschaft ein Anlehn dieser Art zu Negoziren. Die dazu nöthige Vollmacht werde ich in jeder beliebigen Art mit erster Post übermachen. Auch habe ich meinen General Bevollmächtig ten angewiesen denenselben alle, zur Betreibung dieses Geschäfts nötigen Documente sogleich zu behändigen, und für die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein D[?]ongratie von 5 pt. sobald die Sache versteht ohne Anstand auszuzahlen Mit der vollkommesten Hochachtung bin ich Ewr Hochwohlgeborn\n\nF. L. f. z. Hohenlohe Freyberg den 25ten Septbr.\n\n1806.",
+   "page_id": "0040_b",
+   "line_start": 1548,
+   "line_end": 1580,
+   "n_lines": 33,
+   "diplomatic": "24\nHochwohlgeborner Herr\nHochzuehrender Herr Geheimer Rath!\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner\nSüdpreußischen Herrschaften Zagorowo und Trąbczyn ist ein\nreiner Ertrag derselben von 40247 rt ausgemittelt, und\nnach genauer Prüfung von der Kalischen Krieges und Domainen\nCammer bestätiget worden.\nDies dürfte mich in den Stand sezzen meinen so lange gefragten\nWunsch in Erfüllung zu bringen, und mein Schulden Wesen gänz¬\nlich zu arangiren. Es kommt indes darauf an ob es mög¬\nlich ist, eine Summa von 400000 rt, nehmlich so viel als meine\nsämtliche Schulden ohne Ausnahme betragen, auf einen\nFleck zu erhalten, wogegen ich dann die vorgenannten\nbeiden Herrschaften verpfänden, darauf mit erster und\neinziger Hypotheque vollständige Sicherheit bestellen, auch\nzur Bezahlung der Intressen und Amortesirung des Capitals\nJährlich eine Summe bestimmen würde, wodurch diese Schuld\nin wenig Jahren getilgt sein könte.\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Ge¬\nschäft zu unterziehen und bey Ihrer großen Bekanntschaft\nein Anlehn dieser Art zu Negoziren. Die dazu nöthige\nVollmacht werde ich in jeder beliebigen Art mit erster\nPost übermachen. Auch habe ich meinen General Bevollmächtig\nten angewiesen denenselben alle, zur Betreibung dieses\nGeschäfts nötigen Documente sogleich zu behändigen, und\nfür die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein [C?]ongratie[?] von 5 pt. sobald die Sache versteht ohne An¬\nstand auszuzahlen\nMit der vollkommensten Hochachtung bin ich\nEwr Hochwohlgeborn\nF[riedrich]. L[udwig]. f[ürst]. z[u]. Hohenlohe\nFreyberg den 25ten Septbr.\n1806.",
+   "transcription": "24\nHochwohlgeborner Herr\nHochzuehrender Herr Geheimer Rath!\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner\nSüdpreußischen Herrschaften Zagorowo und Trąbczyn ist ein\nreiner Ertrag derselben von 40247 rt ausgemittelt, und\nnach genauer Prüfung von der Kalischen Krieges und Domainen\nCammer bestätiget worden.\nDies dürfte mich in den Stand sezzen meinen so lange gefragten\nWunsch in Erfüllung zu bringen, und mein Schulden Wesen gänz-\nlich zu arangiren. Es kommt indes darauf an ob es mög-\nlich ist, eine Summa von 400000 rt, nehmlich so viel als meine\nsämtliche Schulden ohne Ausnahme betragen, auf einen\nFleck zu erhalten, wogegen ich dann die vorgenannten\nbeiden Herrschaften verpfänden, darauf mit erster und\neinziger Hypotheque vollständige Sicherheit bestellen, auch\nzur Bezahlung der Intressen und Amortesirung des Capitals\nJährlich eine Summe bestimmen würde, wodurch diese Schuld\nin wenig Jahren getilgt sein könte.\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Ge-\nschäft zu unterziehen und bey Ihrer großen Bekanntschaft\nein Anlehn dieser Art zu Negoziren. Die dazu nöthige\nVollmacht werde ich in jeder beliebigen Art mit erster\nPost übermachen. Auch habe ich meinen General Bevollmächtig\nten angewiesen denenselben alle, zur Betreibung dieses\nGeschäfts nötigen Documente sogleich zu behändigen, und\nfür die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein [C?]ongratie[?] von 5 pt. sobald die Sache versteht ohne An-\nstand auszuzahlen\nMit der vollkommensten Hochachtung bin ich\nEwr Hochwohlgeborn\nF[riedrich]. L[udwig]. f[ürst]. z[u]. Hohenlohe\nFreyberg den 25ten Septbr.\n1806.",
+   "reading": "24\n\nHochwohlgeborner Herr\n\nHochzuehrender Herr Geheimer Rath!\n\ndurch die mit Königl. Genehmigung erfolgte Colonisirung meiner Südpreußischen Herrschaften Zagorowo und Trąbczyn ist ein reiner Ertrag derselben von 40247 rt ausgemittelt, und nach genauer Prüfung von der Kalischen Krieges und Domainen Cammer bestätiget worden.\n\nDies dürfte mich in den Stand sezzen meinen so lange gefragten Wunsch in Erfüllung zu bringen, und mein Schulden Wesen gänzlich zu arangiren. Es kommt indes darauf an ob es möglich ist, eine Summa von 400000 rt, nehmlich so viel als meine sämtliche Schulden ohne Ausnahme betragen, auf einen Fleck zu erhalten, wogegen ich dann die vorgenannten beiden Herrschaften verpfänden, darauf mit erster und einziger Hypotheque vollständige Sicherheit bestellen, auch zur Bezahlung der Intressen und Amortesirung des Capitals Jährlich eine Summe bestimmen würde, wodurch diese Schuld in wenig Jahren getilgt sein könte.\n\nEwr Hochwohlgeboren ersuche ich ergebenst sich dieses Geschäft zu unterziehen und bey Ihrer großen Bekanntschaft ein Anlehn dieser Art zu Negoziren. Die dazu nöthige Vollmacht werde ich in jeder beliebigen Art mit erster Post übermachen. Auch habe ich meinen General Bevollmächtig ten angewiesen denenselben alle, zur Betreibung dieses Geschäfts nötigen Documente sogleich zu behändigen, und für die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein [C?]ongratie[?] von 5 pt. sobald die Sache versteht ohne Anstand auszuzahlen Mit der vollkommensten Hochachtung bin ich Ewr Hochwohlgeborn F[riedrich]. L[udwig]. f[ürst]. z[u]. Hohenlohe Freyberg den 25ten Septbr.\n\n1806.",
    "paragraphs": [
+    "24",
     "Hochwohlgeborner Herr",
     "Hochzuehrender Herr Geheimer Rath!",
-    "durch die mit Königl. Genehmigung erfolgte Colonisirung meiner Südpreußischen Herrschaften Zagorowo und Trombschen ist ein reiner Ertrag derselben von 40 Rthl ausgemittelt, und nach genauer Prüfung von der Kalischen Krieges und Domainen Cammer bestätiget worden.",
-    "Dies dürfte mich in den Stand sezzen meinen so lange gefragten Wunsch in Erfüllung zu bringen, und mein Schulden Wesen gänzlich zu arangiren. Es kommt indes darauf an ob es möglich ist, eine Summa von 100000 Rthl, nehmlich so viel als meine sämtliche Schulden ohne Ausnahme betragen, auf einen Fleck zu erhalten, wogegen ich dann die vorgenannten beiden Herrschaften verpfänden, darauf mit erster und einziger Hypotheque vollständige Sicherheit bestellen, auch zur Bezahlung der Intressen und Amortesirung des Capitals Jährlich eine Summe bestimmen würde, wodurch diese Schuld in wenig Jahren getilgt sein könte.",
-    "Ewr Hochwohlgeboren ersuche ich ergebenst sich dieses Geschäft zu unterziehen und bey Ihrer großen Bekanntschaft ein Anlehn dieser Art zu Negoziren. Die dazu nöthige Vollmacht werde ich in jeder beliebigen Art mit erster Post übermachen. Auch habe ich meinen General Bevollmächtig ten angewiesen denenselben alle, zur Betreibung dieses Geschäfts nötigen Documente sogleich zu behändigen, und für die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein D[?]ongratie von 5 pt. sobald die Sache versteht ohne Anstand auszuzahlen Mit der vollkommesten Hochachtung bin ich Ewr Hochwohlgeborn",
-    "F. L. f. z. Hohenlohe Freyberg den 25ten Septbr.",
+    "durch die mit Königl. Genehmigung erfolgte Colonisirung meiner Südpreußischen Herrschaften Zagorowo und Trąbczyn ist ein reiner Ertrag derselben von 40247 rt ausgemittelt, und nach genauer Prüfung von der Kalischen Krieges und Domainen Cammer bestätiget worden.",
+    "Dies dürfte mich in den Stand sezzen meinen so lange gefragten Wunsch in Erfüllung zu bringen, und mein Schulden Wesen gänzlich zu arangiren. Es kommt indes darauf an ob es möglich ist, eine Summa von 400000 rt, nehmlich so viel als meine sämtliche Schulden ohne Ausnahme betragen, auf einen Fleck zu erhalten, wogegen ich dann die vorgenannten beiden Herrschaften verpfänden, darauf mit erster und einziger Hypotheque vollständige Sicherheit bestellen, auch zur Bezahlung der Intressen und Amortesirung des Capitals Jährlich eine Summe bestimmen würde, wodurch diese Schuld in wenig Jahren getilgt sein könte.",
+    "Ewr Hochwohlgeboren ersuche ich ergebenst sich dieses Geschäft zu unterziehen und bey Ihrer großen Bekanntschaft ein Anlehn dieser Art zu Negoziren. Die dazu nöthige Vollmacht werde ich in jeder beliebigen Art mit erster Post übermachen. Auch habe ich meinen General Bevollmächtig ten angewiesen denenselben alle, zur Betreibung dieses Geschäfts nötigen Documente sogleich zu behändigen, und für die in diesen Angelegenheiten mitwürkenden Geschlußsmanner ein [C?]ongratie[?] von 5 pt. sobald die Sache versteht ohne Anstand auszuzahlen Mit der vollkommensten Hochachtung bin ich Ewr Hochwohlgeborn F[riedrich]. L[udwig]. f[ürst]. z[u]. Hohenlohe Freyberg den 25ten Septbr.",
     "1806."
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0040_b-L24_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 32
+   "doc_line_end": 33
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 1558,
-   "line_end": 1593,
+   "page_id": "0041_a2",
+   "line_start": 1582,
+   "line_end": 1617,
    "n_lines": 36,
-   "diplomatic": "Die dem Fürsten Hohenlohe in Südpreußen hinter Pexen an der Warthe belegene\nHerrschaften Zagorowo und Trąbczin bestehen.\n1. Aus das Stadchen Zagorowo\n2. Auf das Dorf und Vormuck Kopoyno\n3 Aus das Zins Dorf Swiątniki\n4 do Skokum\n5 aus das Zinsdorf und Vorwerk Olesnica.\n6 Aus das Zins dort Drzewce.\n7 do Grądzin\n8 do Wrąbczin\n9 Alt Swięcia\n10 Neu Swięcia\n11 Sophienthal\n12 Ludwigslust\n13 Adelow\n14 Friedrichsfelde\n15 Augustinow\n16 Emilienhayn\n17 Adolphsberg\n18 Alexandrow\n19 Klein Ingelfingen\n20 Klein Öhringen\n21 Klein Neuenstein\n22 Aus dorf und Vorwerk Trąbczin\n23 Aus do Nowawies\n24 Aus das Dorf od. Vorwerk Przybislaw\n25 Aus das Zins dorf Stara Huta\n26 Aus das dorf un Vorwerk Marianton\n27. Aus das dort und Vorwerk Szetlewek\n28. Aus das Zins dörf Furstenfelde\n29. Aus do Hohendorf\n30 aus do Justinsau[?]\n31 aus do Kaszubow\n32 Aus Klein Schro[l?]berg\n33 Aus do Gros Holland\n34 Aus do Blomberg",
-   "transcription": "Die dem Fürsten Hohenlohe in Südpreußen hinter Pexen an der Warthe belegene\nHerrschaften Zagorowo und Trąbczin bestehen.\n1. Aus das Stadchen Zagorowo\n2. Auf das Dorf und Vormuck Kopoyno\n3 Aus das Zins Dorf Swiątniki\n4 do Skokum\n5 aus das Zinsdorf und Vorwerk Olesnica.\n6 Aus das Zins dort Drzewce.\n7 do Grądzin\n8 do Wrąbczin\n9 Alt Swięcia\n10 Neu Swięcia\n11 Sophienthal\n12 Ludwigslust\n13 Adelow\n14 Friedrichsfelde\n15 Augustinow\n16 Emilienhayn\n17 Adolphsberg\n18 Alexandrow\n19 Klein Ingelfingen\n20 Klein Öhringen\n21 Klein Neuenstein\n22 Aus dorf und Vorwerk Trąbczin\n23 Aus do Nowawies\n24 Aus das Dorf od. Vorwerk Przybislaw\n25 Aus das Zins dorf Stara Huta\n26 Aus das dorf un Vorwerk Marianton\n27. Aus das dort und Vorwerk Szetlewek\n28. Aus das Zins dörf Furstenfelde\n29. Aus do Hohendorf\n30 aus do Justinsau[?]\n31 aus do Kaszubow\n32 Aus Klein Schro[l?]berg\n33 Aus do Gros Holland\n34 Aus do Blomberg",
-   "reading": "Die dem Fürsten Hohenlohe in Südpreußen hinter Pexen an der Warthe belegene Herrschaften Zagorowo und Trąbczin bestehen.\n\n1. Aus das Stadchen Zagorowo\n\n2. Auf das Dorf und Vormuck Kopoyno 3 Aus das Zins Dorf Swiątniki\n\n4 do Skokum 5 aus das Zinsdorf und Vorwerk Olesnica. 6 Aus das Zins dort Drzewce.\n\n7 do Grądzin\n\n8 do Wrąbczin 9 Alt Swięcia\n\n10 Neu Swięcia\n\n11 Sophienthal\n\n12 Ludwigslust\n\n13 Adelow 14 Friedrichsfelde 15 Augustinow\n\n16 Emilienhayn\n\n17 Adolphsberg\n\n18 Alexandrow 19 Klein Ingelfingen 20 Klein Öhringen 21 Klein Neuenstein 22 Aus dorf und Vorwerk Trąbczin 23 Aus do Nowawies 24 Aus das Dorf od. Vorwerk Przybislaw 25 Aus das Zins dorf Stara Huta 26 Aus das dorf un Vorwerk Marianton\n\n27. Aus das dort und Vorwerk Szetlewek\n\n28. Aus das Zins dörf Furstenfelde\n\n29. Aus do Hohendorf 30 aus do Justinsau[?] 31 aus do Kaszubow 32 Aus Klein Schro[l?]berg 33 Aus do Gros Holland 34 Aus do Blomberg",
+   "diplomatic": "Die dem Fürsten Hohenlohe in Südpreußen hinter Posen in der Werthe belegene\nHerrschaften Zagorowo und Trąbczyn besten.\n1. Aus das Stadchen Zagorowo\n2. Auf das Dorf und Vorwerk Kopojno\n3 Aus das Zins Dorf Swiątniki\n4 do Skokum\n5 aus das Zinsdorf und Vorwerk Olesnica.\n6 Aus das Zins dorf Drzewce.\n7 do Grądzyń\n8 do Wrąbczyn\n9 Alt Swięcia\n10 Neu Swięcia\n11 Sophienthal\n12 Ludwigslust\n13 Adelow\n14 Friedrichsfelde\n15 Augustinow\n16 Emilienhayn\n17 Adolphsberg\n18 Alexandrow\n19 Klein Ingelfingen\n20 Klein Öhringen\n21 Klein Neuenstein\n12 Aus dorf und Vorwerk Trąbczyn\n23 Aus do Nowawies\n24 Aus das Dorf od. Vorwerk Przybislaw\n25 Aus das Zins dorf Stara Huta\n26 Aus das dorf un Vorwerk Marianton\n27. Aus das dorf und Vorwerk Szetlewek\n28. Aus das Zins dorf Furstenfelde\n29. Aus do Hohendorff\n30 aus do Justinsau\n31 aus do Kaszubow\n32 Aus Klein Schro[l?]berg\n33 Aus do Gros Holland\n34 Aus do Blomberg",
+   "transcription": "Die dem Fürsten Hohenlohe in Südpreußen hinter Posen in der Werthe belegene\nHerrschaften Zagorowo und Trąbczyn besten.\n1. Aus das Stadchen Zagorowo\n2. Auf das Dorf und Vorwerk Kopojno\n3 Aus das Zins Dorf Swiątniki\n4 do Skokum\n5 aus das Zinsdorf und Vorwerk Olesnica.\n6 Aus das Zins dorf Drzewce.\n7 do Grądzyń\n8 do Wrąbczyn\n9 Alt Swięcia\n10 Neu Swięcia\n11 Sophienthal\n12 Ludwigslust\n13 Adelow\n14 Friedrichsfelde\n15 Augustinow\n16 Emilienhayn\n17 Adolphsberg\n18 Alexandrow\n19 Klein Ingelfingen\n20 Klein Öhringen\n21 Klein Neuenstein\n12 Aus dorf und Vorwerk Trąbczyn\n23 Aus do Nowawies\n24 Aus das Dorf od. Vorwerk Przybislaw\n25 Aus das Zins dorf Stara Huta\n26 Aus das dorf un Vorwerk Marianton\n27. Aus das dorf und Vorwerk Szetlewek\n28. Aus das Zins dorf Furstenfelde\n29. Aus do Hohendorff\n30 aus do Justinsau\n31 aus do Kaszubow\n32 Aus Klein Schro[l?]berg\n33 Aus do Gros Holland\n34 Aus do Blomberg",
+   "reading": "Die dem Fürsten Hohenlohe in Südpreußen hinter Posen in der Werthe belegene Herrschaften Zagorowo und Trąbczyn besten.\n\n1. Aus das Stadchen Zagorowo\n\n2. Auf das Dorf und Vorwerk Kopojno 3 Aus das Zins Dorf Swiątniki\n\n4 do Skokum 5 aus das Zinsdorf und Vorwerk Olesnica. 6 Aus das Zins dorf Drzewce.\n\n7 do Grądzyń\n\n8 do Wrąbczyn 9 Alt Swięcia 10 Neu Swięcia 11 Sophienthal 12 Ludwigslust 13 Adelow 14 Friedrichsfelde 15 Augustinow 16 Emilienhayn 17 Adolphsberg 18 Alexandrow 19 Klein Ingelfingen 20 Klein Öhringen 21 Klein Neuenstein 12 Aus dorf und Vorwerk Trąbczyn 23 Aus do Nowawies 24 Aus das Dorf od. Vorwerk Przybislaw 25 Aus das Zins dorf Stara Huta 26 Aus das dorf un Vorwerk Marianton\n\n27. Aus das dorf und Vorwerk Szetlewek\n\n28. Aus das Zins dorf Furstenfelde\n\n29. Aus do Hohendorff 30 aus do Justinsau 31 aus do Kaszubow 32 Aus Klein Schro[l?]berg 33 Aus do Gros Holland 34 Aus do Blomberg",
    "paragraphs": [
-    "Die dem Fürsten Hohenlohe in Südpreußen hinter Pexen an der Warthe belegene Herrschaften Zagorowo und Trąbczin bestehen.",
+    "Die dem Fürsten Hohenlohe in Südpreußen hinter Posen in der Werthe belegene Herrschaften Zagorowo und Trąbczyn besten.",
     "1. Aus das Stadchen Zagorowo",
-    "2. Auf das Dorf und Vormuck Kopoyno 3 Aus das Zins Dorf Swiątniki",
-    "4 do Skokum 5 aus das Zinsdorf und Vorwerk Olesnica. 6 Aus das Zins dort Drzewce.",
-    "7 do Grądzin",
-    "8 do Wrąbczin 9 Alt Swięcia",
-    "10 Neu Swięcia",
-    "11 Sophienthal",
-    "12 Ludwigslust",
-    "13 Adelow 14 Friedrichsfelde 15 Augustinow",
-    "16 Emilienhayn",
-    "17 Adolphsberg",
-    "18 Alexandrow 19 Klein Ingelfingen 20 Klein Öhringen 21 Klein Neuenstein 22 Aus dorf und Vorwerk Trąbczin 23 Aus do Nowawies 24 Aus das Dorf od. Vorwerk Przybislaw 25 Aus das Zins dorf Stara Huta 26 Aus das dorf un Vorwerk Marianton",
-    "27. Aus das dort und Vorwerk Szetlewek",
-    "28. Aus das Zins dörf Furstenfelde",
-    "29. Aus do Hohendorf 30 aus do Justinsau[?] 31 aus do Kaszubow 32 Aus Klein Schro[l?]berg 33 Aus do Gros Holland 34 Aus do Blomberg"
+    "2. Auf das Dorf und Vorwerk Kopojno 3 Aus das Zins Dorf Swiątniki",
+    "4 do Skokum 5 aus das Zinsdorf und Vorwerk Olesnica. 6 Aus das Zins dorf Drzewce.",
+    "7 do Grądzyń",
+    "8 do Wrąbczyn 9 Alt Swięcia 10 Neu Swięcia 11 Sophienthal 12 Ludwigslust 13 Adelow 14 Friedrichsfelde 15 Augustinow 16 Emilienhayn 17 Adolphsberg 18 Alexandrow 19 Klein Ingelfingen 20 Klein Öhringen 21 Klein Neuenstein 12 Aus dorf und Vorwerk Trąbczyn 23 Aus do Nowawies 24 Aus das Dorf od. Vorwerk Przybislaw 25 Aus das Zins dorf Stara Huta 26 Aus das dorf un Vorwerk Marianton",
+    "27. Aus das dorf und Vorwerk Szetlewek",
+    "28. Aus das Zins dorf Furstenfelde",
+    "29. Aus do Hohendorff 30 aus do Justinsau 31 aus do Kaszubow 32 Aus Klein Schro[l?]berg 33 Aus do Gros Holland 34 Aus do Blomberg"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "doc_line_start": 33,
-   "doc_line_end": 68
+   "doc_line_start": 34,
+   "doc_line_end": 69
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 1595,
-   "line_end": 1616,
+   "page_id": "0042_a1",
+   "line_start": 1619,
+   "line_end": 1640,
    "n_lines": 22,
-   "diplomatic": "Der Jährliche reine Ertrag der beiden Herrschaften ist durch\neine von der König Kalischen Krieges und Domainen Cammer\nNiedergesezte Comission geprüft und folgendergestalt ausge¬\nmittelt.\nTit. I. An beständigen Gefallen\nvon den Alten Unterthanen in beiden Herrschaften\nlaut Praestations Tabelle 5752 Rthl 14 g. 11 d.\n2 an Erbzinsen aus den Collonien 16781\nTit. II\nAn Erbpachts Canon 3500\nTit III\nAn Pacht Stücken 13357\nTit IV\nvon 3 Ziegeleinen laut Cammer Anschlag 857\nSumma 40247 Rthl 14 g 11 d\nalle Abgaben und lasse wie sie auch immer Nahmen\nhaben, sind von den Erben achtern, Collonisten, Zeit\nBauren, und Zeit Pachtern mit übernommen.\ndaher bleibt die vorgenante Summa von\n40247 Rthl 14 g 11 d als eine reine jährl. Reverne\nfestehen.\nv Triebenfeld",
-   "transcription": "Der Jährliche reine Ertrag der beiden Herrschaften ist durch\neine von der König Kalischen Krieges und Domainen Cammer\nNiedergesezte Comission geprüft und folgendergestalt ausge-\nmittelt.\nTit. I. An beständigen Gefallen\nvon den Alten Unterthanen in beiden Herrschaften\nlaut Praestations Tabelle 5752 Rthl 14 g. 11 d.\n2 an Erbzinsen aus den Collonien 16781\nTit. II\nAn Erbpachts Canon 3500\nTit III\nAn Pacht Stücken 13357\nTit IV\nvon 3 Ziegeleinen laut Cammer Anschlag 857\nSumma 40247 Rthl 14 g 11 d\nalle Abgaben und lasse wie sie auch immer Nahmen\nhaben, sind von den Erben achtern, Collonisten, Zeit\nBauren, und Zeit Pachtern mit übernommen.\ndaher bleibt die vorgenante Summa von\n40247 Rthl 14 g 11 d als eine reine jährl. Reverne\nfestehen.\nv Triebenfeld",
-   "reading": "Der Jährliche reine Ertrag der beiden Herrschaften ist durch eine von der König Kalischen Krieges und Domainen Cammer Niedergesezte Comission geprüft und folgendergestalt ausgemittelt.\n\nTit. I. An beständigen Gefallen von den Alten Unterthanen in beiden Herrschaften laut Praestations Tabelle 5752 Rthl 14 g. 11 d. 2 an Erbzinsen aus den Collonien 16781 Tit. II\n\nAn Erbpachts Canon 3500\n\nTit III\n\nAn Pacht Stücken 13357\n\nTit IV von 3 Ziegeleinen laut Cammer Anschlag 857 Summa 40247 Rthl 14 g 11 d alle Abgaben und lasse wie sie auch immer Nahmen haben, sind von den Erben achtern, Collonisten, Zeit Bauren, und Zeit Pachtern mit übernommen. daher bleibt die vorgenante Summa von 40247 Rthl 14 g 11 d als eine reine jährl. Reverne festehen.\n\nv Triebenfeld",
+   "diplomatic": "Der Jährliche reine Ertrag der beiden Herrschaften ist durch\neine von der König Kalischen Krieges und Domainen Cammer\nNiedergesezte Comission geprüft und folgendergestalt ausge¬\nmittelt.\nTit. I. An beständigen Gefallen\nvon den Alten Unterthanen in beiden Herrschaften\nlaut Praestations Tabelle 5752 rt. 14 gg. 4 d.\n2 an Erbzinsen aus den Collonien 16781 rt\nTit. II\nAn Erbpachts Canon 3500 rt\nTit III\nAn Pacht Stücken 13357 rt\nTit IV\nvon 3 Ziegeleinen laut Cammer Anschlag 857 rt\nSumma 40247 rt 14 gg 11 d\nalle Abgaben und lasse wie sie auch immer Nahmen\nhaben, sind von den Erben achtern, Collonisten, Zeit\nBauren, und Zeit Pachtern mit übernommen.\ndaher bleibt die vorgenante Summa von\n40247 rth 14 gg 11 d als eine reine jährl. Revenue\nfestehen.\nv Triebenfeld",
+   "transcription": "Der Jährliche reine Ertrag der beiden Herrschaften ist durch\neine von der König Kalischen Krieges und Domainen Cammer\nNiedergesezte Comission geprüft und folgendergestalt ausge-\nmittelt.\nTit. I. An beständigen Gefallen\nvon den Alten Unterthanen in beiden Herrschaften\nlaut Praestations Tabelle 5752 rt. 14 gg. 4 d.\n2 an Erbzinsen aus den Collonien 16781 rt\nTit. II\nAn Erbpachts Canon 3500 rt\nTit III\nAn Pacht Stücken 13357 rt\nTit IV\nvon 3 Ziegeleinen laut Cammer Anschlag 857 rt\nSumma 40247 rt 14 gg 11 d\nalle Abgaben und lasse wie sie auch immer Nahmen\nhaben, sind von den Erben achtern, Collonisten, Zeit\nBauren, und Zeit Pachtern mit übernommen.\ndaher bleibt die vorgenante Summa von\n40247 rth 14 gg 11 d als eine reine jährl. Revenue\nfestehen.\nv Triebenfeld",
+   "reading": "Der Jährliche reine Ertrag der beiden Herrschaften ist durch eine von der König Kalischen Krieges und Domainen Cammer Niedergesezte Comission geprüft und folgendergestalt ausgemittelt.\n\nTit. I. An beständigen Gefallen von den Alten Unterthanen in beiden Herrschaften laut Praestations Tabelle 5752 rt. 14 gg. 4 d. 2 an Erbzinsen aus den Collonien 16781 rt Tit. II\n\nAn Erbpachts Canon 3500 rt\n\nTit III\n\nAn Pacht Stücken 13357 rt\n\nTit IV von 3 Ziegeleinen laut Cammer Anschlag 857 rt Summa 40247 rt 14 gg 11 d alle Abgaben und lasse wie sie auch immer Nahmen haben, sind von den Erben achtern, Collonisten, Zeit Bauren, und Zeit Pachtern mit übernommen. daher bleibt die vorgenante Summa von 40247 rth 14 gg 11 d als eine reine jährl. Revenue festehen.\n\nv Triebenfeld",
    "paragraphs": [
     "Der Jährliche reine Ertrag der beiden Herrschaften ist durch eine von der König Kalischen Krieges und Domainen Cammer Niedergesezte Comission geprüft und folgendergestalt ausgemittelt.",
-    "Tit. I. An beständigen Gefallen von den Alten Unterthanen in beiden Herrschaften laut Praestations Tabelle 5752 Rthl 14 g. 11 d. 2 an Erbzinsen aus den Collonien 16781 Tit. II",
-    "An Erbpachts Canon 3500",
+    "Tit. I. An beständigen Gefallen von den Alten Unterthanen in beiden Herrschaften laut Praestations Tabelle 5752 rt. 14 gg. 4 d. 2 an Erbzinsen aus den Collonien 16781 rt Tit. II",
+    "An Erbpachts Canon 3500 rt",
     "Tit III",
-    "An Pacht Stücken 13357",
-    "Tit IV von 3 Ziegeleinen laut Cammer Anschlag 857 Summa 40247 Rthl 14 g 11 d alle Abgaben und lasse wie sie auch immer Nahmen haben, sind von den Erben achtern, Collonisten, Zeit Bauren, und Zeit Pachtern mit übernommen. daher bleibt die vorgenante Summa von 40247 Rthl 14 g 11 d als eine reine jährl. Reverne festehen.",
+    "An Pacht Stücken 13357 rt",
+    "Tit IV von 3 Ziegeleinen laut Cammer Anschlag 857 rt Summa 40247 rt 14 gg 11 d alle Abgaben und lasse wie sie auch immer Nahmen haben, sind von den Erben achtern, Collonisten, Zeit Bauren, und Zeit Pachtern mit übernommen. daher bleibt die vorgenante Summa von 40247 rth 14 gg 11 d als eine reine jährl. Revenue festehen.",
     "v Triebenfeld"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0042_a1-L24_03.jpg",
-   "doc_line_start": 69,
-   "doc_line_end": 90
+   "doc_line_start": 70,
+   "doc_line_end": 91
   },
   {
    "page": 4,
-   "page_id": "",
-   "line_start": 1618,
-   "line_end": 1633,
+   "page_id": "0042_a2",
+   "line_start": 1642,
+   "line_end": 1657,
    "n_lines": 16,
-   "diplomatic": "Schulden des Fürsten\nAn Schlabrendorff 25000\nAn Weigel 27000\nAn Eward u. Haupt 18000\nZerboni 10000\nEysenhardtsche Erben 10000\nAn Lichnowski 42000\nAn Grotowski 20000\nSeehausen. 5000\nSeher Tothschen Erben 8000\nPrusimska circa 16000\nInvaliden Casse 50000\nOppenheimer und Wolff 110000\nBornstädt 5000\nDiversè Schulden circa 20000\nSumma 366000.",
-   "transcription": "Schulden des Fürsten\nAn Schlabrendorff 25000\nAn Weigel 27000\nAn Eward u. Haupt 18000\nZerboni 10000\nEysenhardtsche Erben 10000\nAn Lichnowski 42000\nAn Grotowski 20000\nSeehausen. 5000\nSeher Tothschen Erben 8000\nPrusimska circa 16000\nInvaliden Casse 50000\nOppenheimer und Wolff 110000\nBornstädt 5000\nDiversè Schulden circa 20000\nSumma 366000.",
-   "reading": "Schulden des Fürsten An Schlabrendorff 25000 An Weigel 27000 An Eward u. Haupt 18000 Zerboni 10000 Eysenhardtsche Erben 10000 An Lichnowski 42000 An Grotowski 20000 Seehausen. 5000 Seher Tothschen Erben 8000 Prusimska circa 16000 Invaliden Casse 50000 Oppenheimer und Wolff 110000 Bornstädt 5000 Diversè Schulden circa 20000 Summa 366000.",
+   "diplomatic": "Schulden des Fürsten\nAn Schlabrendorff 25000\nAn Weigel 27000\nAn Eward u. Haupt 18000\nZerboni 10000\nEysenhardtsche Erben 10000\nAn Lignowski 42000\nAn Grotowski 20000\nSeehausen. 5000\nSeher Tothschen Erben 8000\nPrusimska circa 16000\nInvaliden Casse 50000\nOppenheimer und Wolff 110000\nBornstedt 5000\nDiverse Schulden circa 20000\nSumma 366000.",
+   "transcription": "Schulden des Fürsten\nAn Schlabrendorff 25000\nAn Weigel 27000\nAn Eward u. Haupt 18000\nZerboni 10000\nEysenhardtsche Erben 10000\nAn Lignowski 42000\nAn Grotowski 20000\nSeehausen. 5000\nSeher Tothschen Erben 8000\nPrusimska circa 16000\nInvaliden Casse 50000\nOppenheimer und Wolff 110000\nBornstedt 5000\nDiverse Schulden circa 20000\nSumma 366000.",
+   "reading": "Schulden des Fürsten An Schlabrendorff 25000 An Weigel 27000 An Eward u. Haupt 18000 Zerboni 10000 Eysenhardtsche Erben 10000 An Lignowski 42000 An Grotowski 20000 Seehausen. 5000 Seher Tothschen Erben 8000 Prusimska circa 16000 Invaliden Casse 50000 Oppenheimer und Wolff 110000 Bornstedt 5000 Diverse Schulden circa 20000 Summa 366000.",
    "paragraphs": [
-    "Schulden des Fürsten An Schlabrendorff 25000 An Weigel 27000 An Eward u. Haupt 18000 Zerboni 10000 Eysenhardtsche Erben 10000 An Lichnowski 42000 An Grotowski 20000 Seehausen. 5000 Seher Tothschen Erben 8000 Prusimska circa 16000 Invaliden Casse 50000 Oppenheimer und Wolff 110000 Bornstädt 5000 Diversè Schulden circa 20000 Summa 366000."
+    "Schulden des Fürsten An Schlabrendorff 25000 An Weigel 27000 An Eward u. Haupt 18000 Zerboni 10000 Eysenhardtsche Erben 10000 An Lignowski 42000 An Grotowski 20000 Seehausen. 5000 Seher Tothschen Erben 8000 Prusimska circa 16000 Invaliden Casse 50000 Oppenheimer und Wolff 110000 Bornstedt 5000 Diverse Schulden circa 20000 Summa 366000."
    ],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "doc_line_start": 91,
-   "doc_line_end": 106
+   "doc_line_start": 92,
+   "doc_line_end": 107
   }
  ],
  "mentions": [
@@ -140,10 +146,10 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0040_b",
    "scan": "Oe_1_Bu_9454_0040_b-L24_01.jpg",
-   "line": 1554,
-   "doc_line": 30
+   "line": 1578,
+   "doc_line": 31
   },
   {
    "entity": "hohenlohe",
@@ -151,10 +157,10 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1558,
-   "doc_line": 33
+   "line": 1582,
+   "doc_line": 34
   },
   {
    "entity": "august",
@@ -162,10 +168,10 @@
    "kind": "person",
    "surface": "August",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1574,
-   "doc_line": 49
+   "line": 1598,
+   "doc_line": 50
   },
   {
    "entity": "emilie",
@@ -173,10 +179,10 @@
    "kind": "person",
    "surface": "Emilien",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1575,
-   "doc_line": 50
+   "line": 1599,
+   "doc_line": 51
   },
   {
    "entity": "marianton",
@@ -184,10 +190,10 @@
    "kind": "person",
    "surface": "Marianton",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1585,
-   "doc_line": 60
+   "line": 1609,
+   "doc_line": 61
   },
   {
    "entity": "blomberg",
@@ -195,10 +201,10 @@
    "kind": "person",
    "surface": "Blomberg",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1593,
-   "doc_line": 68
+   "line": 1617,
+   "doc_line": 69
   },
   {
    "entity": "triebenfeld",
@@ -206,10 +212,10 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 3,
-   "page_id": "",
+   "page_id": "0042_a1",
    "scan": "Oe_1_Bu_9454_0042_a1-L24_03.jpg",
-   "line": 1616,
-   "doc_line": 90
+   "line": 1640,
+   "doc_line": 91
   },
   {
    "entity": "schlabrendorff",
@@ -217,10 +223,10 @@
    "kind": "person",
    "surface": "Schlabrendorff",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1619,
-   "doc_line": 92
+   "line": 1643,
+   "doc_line": 93
   },
   {
    "entity": "weigel",
@@ -228,10 +234,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1620,
-   "doc_line": 93
+   "line": 1644,
+   "doc_line": 94
   },
   {
    "entity": "zerboni",
@@ -239,10 +245,10 @@
    "kind": "person",
    "surface": "Zerboni",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1622,
-   "doc_line": 95
+   "line": 1646,
+   "doc_line": 96
   },
   {
    "entity": "eysenhardt",
@@ -250,20 +256,9 @@
    "kind": "person",
    "surface": "Eysenhardt",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1623,
-   "doc_line": 96
-  },
-  {
-   "entity": "lichnowski",
-   "display": "Lichnowski",
-   "kind": "person",
-   "surface": "Lichnowski",
-   "page": 4,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1624,
+   "line": 1647,
    "doc_line": 97
   },
   {
@@ -272,10 +267,10 @@
    "kind": "person",
    "surface": "Grotowski",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1625,
-   "doc_line": 98
+   "line": 1649,
+   "doc_line": 99
   },
   {
    "entity": "prusimska",
@@ -283,10 +278,10 @@
    "kind": "person",
    "surface": "Prusimska",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1628,
-   "doc_line": 101
+   "line": 1652,
+   "doc_line": 102
   },
   {
    "entity": "oppenheimer",
@@ -294,10 +289,10 @@
    "kind": "person",
    "surface": "Oppenheimer",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1630,
-   "doc_line": 103
+   "line": 1654,
+   "doc_line": 104
   },
   {
    "entity": "born",
@@ -305,517 +300,36 @@
    "kind": "person",
    "surface": "Born",
    "page": 4,
-   "page_id": "",
+   "page_id": "0042_a2",
    "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1631,
-   "doc_line": 104
-  },
-  {
-   "entity": "bornstaedt",
-   "display": "Bornstädt",
-   "kind": "person",
-   "surface": "Bornstädt",
-   "page": 4,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0042_a2-L24_04.jpg",
-   "line": 1631,
-   "doc_line": 104
+   "line": 1655,
+   "doc_line": 105
   }
  ],
- "mentions_english": [
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [
   {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorowo",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trombschen",
-   "kind": "place",
-   "surface_de": "Trombschen",
-   "surface_en": "Trombschen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalischen",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "F. L. P. of Hohenlohe",
-   "kind": "person",
-   "surface_de": "F. L. f. z. Hohenlohe",
-   "surface_en": "F. L. P. of Hohenlohe",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Freyberg",
-   "kind": "place",
-   "surface_de": "Freyberg",
-   "surface_en": "Freyberg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "South Prussian",
-   "kind": "place",
-   "surface_de": "Südpreußischen",
-   "surface_en": "South Prussian",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince of Hohenlohe",
-   "kind": "person",
-   "surface_de": "Fürsten Hohenlohe",
-   "surface_en": "Prince of Hohenlohe",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "South Prussia",
-   "kind": "place",
-   "surface_de": "Südpreußen",
-   "surface_en": "South Prussia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Pexen",
-   "kind": "place",
-   "surface_de": "Pexen",
-   "surface_en": "Pexen",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Warthe",
-   "kind": "place",
-   "surface_de": "Warthe",
-   "surface_en": "Warthe",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorowo",
-   "surface_en": "Zagórów",
-   "page": 2
-  },
-  {
-   "entity": "",
+   "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface_de": "Trąbczin",
-   "surface_en": "Trąbczyn",
-   "page": 2
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0040_b",
+   "scan": "Oe_1_Bu_9454_0040_b-L24_01.jpg",
+   "line": 1552,
+   "doc_line": 5
   },
-  {
-   "entity": "",
-   "display": "Kopojno",
-   "kind": "place",
-   "surface_de": "Kopoyno",
-   "surface_en": "Kopojno",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Swiątniki",
-   "kind": "place",
-   "surface_de": "Swiątniki",
-   "surface_en": "Swiątniki",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Skokum",
-   "kind": "place",
-   "surface_de": "Skokum",
-   "surface_en": "Skokum",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Olesnica",
-   "kind": "place",
-   "surface_de": "Olesnica",
-   "surface_en": "Olesnica",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Drzewce",
-   "kind": "place",
-   "surface_de": "Drzewce",
-   "surface_en": "Drzewce",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Grądzin",
-   "kind": "place",
-   "surface_de": "Grądzin",
-   "surface_en": "Grądzin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Wrąbczin",
-   "kind": "place",
-   "surface_de": "Wrąbczin",
-   "surface_en": "Wrąbczin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Old Swięcia",
-   "kind": "place",
-   "surface_de": "Alt Swięcia",
-   "surface_en": "Old Swięcia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "New Swięcia",
-   "kind": "place",
-   "surface_de": "Neu Swięcia",
-   "surface_en": "New Swięcia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Sophienthal",
-   "kind": "place",
-   "surface_de": "Sophienthal",
-   "surface_en": "Sophienthal",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Ludwigslust",
-   "kind": "place",
-   "surface_de": "Ludwigslust",
-   "surface_en": "Ludwigslust",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Adelow",
-   "kind": "place",
-   "surface_de": "Adelow",
-   "surface_en": "Adelow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Friedrichsfelde",
-   "kind": "place",
-   "surface_de": "Friedrichsfelde",
-   "surface_en": "Friedrichsfelde",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Augustinow",
-   "kind": "place",
-   "surface_de": "Augustinow",
-   "surface_en": "Augustinow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Emilienhayn",
-   "kind": "place",
-   "surface_de": "Emilienhayn",
-   "surface_en": "Emilienhayn",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Adolphsberg",
-   "kind": "place",
-   "surface_de": "Adolphsberg",
-   "surface_en": "Adolphsberg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Alexandrow",
-   "kind": "place",
-   "surface_de": "Alexandrow",
-   "surface_en": "Alexandrow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Little Ingelfingen",
-   "kind": "place",
-   "surface_de": "Klein Ingelfingen",
-   "surface_en": "Little Ingelfingen",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Little Öhringen",
-   "kind": "place",
-   "surface_de": "Klein Öhringen",
-   "surface_en": "Little Öhringen",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Little Neuenstein",
-   "kind": "place",
-   "surface_de": "Klein Neuenstein",
-   "surface_en": "Little Neuenstein",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Nowawies",
-   "kind": "place",
-   "surface_de": "Nowawies",
-   "surface_en": "Nowawies",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Przybislaw",
-   "kind": "place",
-   "surface_de": "Przybislaw",
-   "surface_en": "Przybislaw",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Stara Huta",
-   "kind": "place",
-   "surface_de": "Stara Huta",
-   "surface_en": "Stara Huta",
-   "page": 2
-  },
-  {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface_de": "Marianton",
-   "surface_en": "Marianton",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Szetlewek",
-   "kind": "place",
-   "surface_de": "Szetlewek",
-   "surface_en": "Szetlewek",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Furstenfelde",
-   "kind": "place",
-   "surface_de": "Furstenfelde",
-   "surface_en": "Furstenfelde",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Hohendorf",
-   "kind": "place",
-   "surface_de": "Hohendorf",
-   "surface_en": "Hohendorf",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Justinsau[illegible]",
-   "kind": "place",
-   "surface_de": "Justinsau[?]",
-   "surface_en": "Justinsau[illegible]",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Kaszubow",
-   "kind": "place",
-   "surface_de": "Kaszubow",
-   "surface_en": "Kaszubow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Little Schro[uncertain: l]berg",
-   "kind": "place",
-   "surface_de": "Klein Schro[l?]berg",
-   "surface_en": "Little Schro[uncertain: l]berg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Great Holland",
-   "kind": "place",
-   "surface_de": "Gros Holland",
-   "surface_en": "Great Holland",
-   "page": 2
-  },
-  {
-   "entity": "blomberg",
-   "display": "Blomberg",
-   "kind": "person",
-   "surface_de": "Blomberg",
-   "surface_en": "Blomberg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalischen",
-   "surface_en": "Kalisz",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 3
-  },
-  {
-   "entity": "schlabrendorff",
-   "display": "Schlabrendorff",
-   "kind": "person",
-   "surface_de": "Schlabrendorff",
-   "surface_en": "Schlabrendorff",
-   "page": 4
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Eward",
-   "kind": "person",
-   "surface_de": "Eward",
-   "surface_en": "Eward",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Haupt",
-   "kind": "person",
-   "surface_de": "Haupt",
-   "surface_en": "Haupt",
-   "page": 4
-  },
-  {
-   "entity": "zerboni",
-   "display": "Zerboni",
-   "kind": "person",
-   "surface_de": "Zerboni",
-   "surface_en": "Zerboni",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Eysenhardt heirs",
-   "kind": "person",
-   "surface_de": "Eysenhardtsche Erben",
-   "surface_en": "Eysenhardt heirs",
-   "page": 4
-  },
-  {
-   "entity": "lichnowski",
-   "display": "Lichnowski",
-   "kind": "person",
-   "surface_de": "Lichnowski",
-   "surface_en": "Lichnowski",
-   "page": 4
-  },
-  {
-   "entity": "grotowski",
-   "display": "Grotowski",
-   "kind": "person",
-   "surface_de": "Grotowski",
-   "surface_en": "Grotowski",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Seehausen",
-   "kind": "person",
-   "surface_de": "Seehausen",
-   "surface_en": "Seehausen",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Seher Toth heirs",
-   "kind": "person",
-   "surface_de": "Seher Tothschen Erben",
-   "surface_en": "Seher Toth heirs",
-   "page": 4
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface_de": "Prusimska",
-   "surface_en": "Prusimska",
-   "page": 4
-  },
-  {
-   "entity": "oppenheimer",
-   "display": "Oppenheimer",
-   "kind": "person",
-   "surface_de": "Oppenheimer",
-   "surface_en": "Oppenheimer",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Wolff",
-   "kind": "person",
-   "surface_de": "Wolff",
-   "surface_en": "Wolff",
-   "page": 4
-  },
-  {
-   "entity": "bornstaedt",
-   "display": "Bornstädt",
-   "kind": "person",
-   "surface_de": "Bornstädt",
-   "surface_en": "Bornstädt",
-   "page": 4
-  }
- ],
- "place_canonical": "Freyberg",
- "place_mentions": [
   {
    "entity": "zagorowo",
    "display": "Zagórów",
    "kind": "place",
    "surface": "Zagorowo",
    "page": 1,
-   "page_id": "",
+   "page_id": "0040_b",
    "scan": "Oe_1_Bu_9454_0040_b-L24_01.jpg",
-   "line": 1528,
-   "doc_line": 4
+   "line": 1552,
+   "doc_line": 5
   },
   {
    "entity": "kalisz",
@@ -823,54 +337,76 @@
    "kind": "place",
    "surface": "Kalischen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0040_b",
    "scan": "Oe_1_Bu_9454_0040_b-L24_01.jpg",
-   "line": 1530,
-   "doc_line": 6
+   "line": 1554,
+   "doc_line": 7
+  },
+  {
+   "entity": "posen",
+   "display": "Posen",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1582,
+   "doc_line": 34
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1582,
+   "doc_line": 34
   },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczin",
+   "surface": "Trąbczyn",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1559,
-   "doc_line": 34
-  },
-  {
-   "entity": "zagorowo",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface": "Zagorowo",
-   "page": 2,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1559,
-   "doc_line": 34
-  },
-  {
-   "entity": "zagorowo",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface": "Zagorowo",
-   "page": 2,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1560,
+   "line": 1583,
    "doc_line": 35
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1583,
+   "doc_line": 35
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagorowo",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1584,
+   "doc_line": 36
   },
   {
    "entity": "kopojno",
    "display": "Kopojno",
    "kind": "place",
-   "surface": "Kopoyno",
+   "surface": "Kopojno",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1561,
-   "doc_line": 36
+   "line": 1585,
+   "doc_line": 37
   },
   {
    "entity": "swiatniki",
@@ -878,10 +414,10 @@
    "kind": "place",
    "surface": "Swiątniki",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1562,
-   "doc_line": 37
+   "line": 1586,
+   "doc_line": 38
   },
   {
    "entity": "skokum",
@@ -889,10 +425,10 @@
    "kind": "place",
    "surface": "Skokum",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1563,
-   "doc_line": 38
+   "line": 1587,
+   "doc_line": 39
   },
   {
    "entity": "olesnica",
@@ -900,10 +436,10 @@
    "kind": "place",
    "surface": "Olesnica",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1564,
-   "doc_line": 39
+   "line": 1588,
+   "doc_line": 40
   },
   {
    "entity": "drzewce",
@@ -911,42 +447,31 @@
    "kind": "place",
    "surface": "Drzewce",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1565,
-   "doc_line": 40
+   "line": 1589,
+   "doc_line": 41
   },
   {
    "entity": "gradzyn",
    "display": "Grądzyń",
    "kind": "place",
-   "surface": "Grądzin",
+   "surface": "Grądzyń",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1566,
-   "doc_line": 41
+   "line": 1590,
+   "doc_line": 42
   },
   {
    "entity": "wrabczyn",
    "display": "Wrąbczyn",
    "kind": "place",
-   "surface": "Wrąbczin",
+   "surface": "Wrąbczyn",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1567,
-   "doc_line": 42
-  },
-  {
-   "entity": "swiecia",
-   "display": "Swięcia",
-   "kind": "place",
-   "surface": "Swięcia",
-   "page": 2,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1568,
+   "line": 1591,
    "doc_line": 43
   },
   {
@@ -955,10 +480,43 @@
    "kind": "place",
    "surface": "Swięcia",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1569,
+   "line": 1592,
    "doc_line": 44
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1593,
+   "doc_line": 45
+  },
+  {
+   "entity": "augustinow",
+   "display": "Augustinow",
+   "kind": "place",
+   "surface": "Augustinow",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1598,
+   "doc_line": 50
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1602,
+   "doc_line": 54
   },
   {
    "entity": "oehringen",
@@ -966,21 +524,43 @@
    "kind": "place",
    "surface": "Öhringen",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1579,
-   "doc_line": 54
+   "line": 1603,
+   "doc_line": 55
+  },
+  {
+   "entity": "neuenstein",
+   "display": "Neuenstein",
+   "kind": "place",
+   "surface": "Neuenstein",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1604,
+   "doc_line": 56
   },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczin",
+   "surface": "Trąbczyn",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1581,
-   "doc_line": 56
+   "line": 1605,
+   "doc_line": 57
+  },
+  {
+   "entity": "przybyslaw",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface": "Przybislaw",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1607,
+   "doc_line": 59
   },
   {
    "entity": "szetlewek",
@@ -988,10 +568,21 @@
    "kind": "place",
    "surface": "Szetlewek",
    "page": 2,
-   "page_id": "",
+   "page_id": "0041_a2",
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1586,
-   "doc_line": 61
+   "line": 1610,
+   "doc_line": 62
+  },
+  {
+   "entity": "holland",
+   "display": "Holland",
+   "kind": "place",
+   "surface": "Holland",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1616,
+   "doc_line": 68
   },
   {
    "entity": "kalisz",
@@ -999,416 +590,15 @@
    "kind": "place",
    "surface": "Kalischen",
    "page": 3,
-   "page_id": "",
+   "page_id": "0042_a1",
    "scan": "Oe_1_Bu_9454_0042_a1-L24_03.jpg",
-   "line": 1596,
-   "doc_line": 70
+   "line": 1620,
+   "doc_line": 71
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Right Honourable Sir,\n\nHighly Honoured Privy Councillor!\n\nBy the colonisation of my South Prussian lordships Zagórów and Trombschen, carried out with Royal approval, a net yield from the same of 40 Rthl has been ascertained, and after exact examination has been confirmed by the Kalisz Chamber of War and Domains.\n\nThis should put me in a position to bring my so long entertained wish to fulfilment, and to arrange my debt affairs entirely. It depends, however, upon whether it is possible to obtain a sum of 100000 Rthl, namely as much as all my debts without exception amount to, in a single lot, against which I would then pledge the two aforenamed lordships, establish complete security upon them with a first and sole mortgage, and would also appoint a yearly sum for the payment of the interest and the amortisation of the capital, whereby this debt could be discharged in a few years.\n\nI most respectfully request Your Right Honourable to undertake this business and, with your wide acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the first post in any form you please. I have likewise instructed my general attorney to deliver to you at once all documents needed for the prosecution of this business, and, for the men of affairs cooperating in these matters, to pay out without delay a d[illegible]ongratie of 5 per cent as soon as the matter is [uncertain: understood]. With the most complete esteem I am Your Right Honourable's\n\nF. L. P. of Hohenlohe. Freyberg, the 25th of September\n\n1806.",
-   "names": [
-    {
-     "de": "Zagorowo",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Trombschen",
-     "en": "Trombschen",
-     "kind": "place"
-    },
-    {
-     "de": "Kalischen",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "F. L. f. z. Hohenlohe",
-     "en": "F. L. P. of Hohenlohe",
-     "kind": "person"
-    },
-    {
-     "de": "Freyberg",
-     "en": "Freyberg",
-     "kind": "place"
-    },
-    {
-     "de": "Südpreußischen",
-     "en": "South Prussian",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "40",
-    "100000",
-    "5",
-    "25",
-    "1806"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "The lordships Zagórów and Trąbczyn belonging to the Prince of Hohenlohe in South Prussia, beyond Pexen on the Warthe, consist:\n\n1. Of the little town of Zagórów\n\n2. Of the village and [uncertain: Vormuck] Kopojno 3. Of the rent-village Swiątniki\n\n4. ditto Skokum 5. Of the rent-village and demesne farm Olesnica. 6. Of the rent-village Drzewce.\n\n7. ditto Grądzin\n\n8. ditto Wrąbczin 9. Old Swięcia\n\n10. New Swięcia\n\n11. Sophienthal\n\n12. Ludwigslust\n\n13. Adelow 14. Friedrichsfelde 15. Augustinow\n\n16. Emilienhayn\n\n17. Adolphsberg\n\n18. Alexandrow 19. Little Ingelfingen 20. Little Öhringen 21. Little Neuenstein 22. Of the village and demesne farm Trąbczyn 23. Of ditto Nowawies 24. Of the village or demesne farm Przybislaw 25. Of the rent-village Stara Huta 26. Of the village and demesne farm Marianton\n\n27. Of the village and demesne farm Szetlewek\n\n28. Of the rent-village Furstenfelde\n\n29. Of ditto Hohendorf 30. Of ditto Justinsau[illegible] 31. Of ditto Kaszubow 32. Of Little Schro[uncertain: l]berg 33. Of ditto Great Holland 34. Of ditto Blomberg",
-   "names": [
-    {
-     "de": "Fürsten Hohenlohe",
-     "en": "Prince of Hohenlohe",
-     "kind": "person"
-    },
-    {
-     "de": "Südpreußen",
-     "en": "South Prussia",
-     "kind": "place"
-    },
-    {
-     "de": "Pexen",
-     "en": "Pexen",
-     "kind": "place"
-    },
-    {
-     "de": "Warthe",
-     "en": "Warthe",
-     "kind": "place"
-    },
-    {
-     "de": "Zagorowo",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczin",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Kopoyno",
-     "en": "Kopojno",
-     "kind": "place"
-    },
-    {
-     "de": "Swiątniki",
-     "en": "Swiątniki",
-     "kind": "place"
-    },
-    {
-     "de": "Skokum",
-     "en": "Skokum",
-     "kind": "place"
-    },
-    {
-     "de": "Olesnica",
-     "en": "Olesnica",
-     "kind": "place"
-    },
-    {
-     "de": "Drzewce",
-     "en": "Drzewce",
-     "kind": "place"
-    },
-    {
-     "de": "Grądzin",
-     "en": "Grądzin",
-     "kind": "place"
-    },
-    {
-     "de": "Wrąbczin",
-     "en": "Wrąbczin",
-     "kind": "place"
-    },
-    {
-     "de": "Alt Swięcia",
-     "en": "Old Swięcia",
-     "kind": "place"
-    },
-    {
-     "de": "Neu Swięcia",
-     "en": "New Swięcia",
-     "kind": "place"
-    },
-    {
-     "de": "Sophienthal",
-     "en": "Sophienthal",
-     "kind": "place"
-    },
-    {
-     "de": "Ludwigslust",
-     "en": "Ludwigslust",
-     "kind": "place"
-    },
-    {
-     "de": "Adelow",
-     "en": "Adelow",
-     "kind": "place"
-    },
-    {
-     "de": "Friedrichsfelde",
-     "en": "Friedrichsfelde",
-     "kind": "place"
-    },
-    {
-     "de": "Augustinow",
-     "en": "Augustinow",
-     "kind": "place"
-    },
-    {
-     "de": "Emilienhayn",
-     "en": "Emilienhayn",
-     "kind": "place"
-    },
-    {
-     "de": "Adolphsberg",
-     "en": "Adolphsberg",
-     "kind": "place"
-    },
-    {
-     "de": "Alexandrow",
-     "en": "Alexandrow",
-     "kind": "place"
-    },
-    {
-     "de": "Klein Ingelfingen",
-     "en": "Little Ingelfingen",
-     "kind": "place"
-    },
-    {
-     "de": "Klein Öhringen",
-     "en": "Little Öhringen",
-     "kind": "place"
-    },
-    {
-     "de": "Klein Neuenstein",
-     "en": "Little Neuenstein",
-     "kind": "place"
-    },
-    {
-     "de": "Nowawies",
-     "en": "Nowawies",
-     "kind": "place"
-    },
-    {
-     "de": "Przybislaw",
-     "en": "Przybislaw",
-     "kind": "place"
-    },
-    {
-     "de": "Stara Huta",
-     "en": "Stara Huta",
-     "kind": "place"
-    },
-    {
-     "de": "Marianton",
-     "en": "Marianton",
-     "kind": "place"
-    },
-    {
-     "de": "Szetlewek",
-     "en": "Szetlewek",
-     "kind": "place"
-    },
-    {
-     "de": "Furstenfelde",
-     "en": "Furstenfelde",
-     "kind": "place"
-    },
-    {
-     "de": "Hohendorf",
-     "en": "Hohendorf",
-     "kind": "place"
-    },
-    {
-     "de": "Justinsau[?]",
-     "en": "Justinsau[illegible]",
-     "kind": "place"
-    },
-    {
-     "de": "Kaszubow",
-     "en": "Kaszubow",
-     "kind": "place"
-    },
-    {
-     "de": "Klein Schro[l?]berg",
-     "en": "Little Schro[uncertain: l]berg",
-     "kind": "place"
-    },
-    {
-     "de": "Gros Holland",
-     "en": "Great Holland",
-     "kind": "place"
-    },
-    {
-     "de": "Blomberg",
-     "en": "Blomberg",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "10",
-    "11",
-    "12",
-    "13",
-    "14",
-    "15",
-    "16",
-    "17",
-    "18",
-    "19",
-    "20",
-    "21",
-    "22",
-    "23",
-    "24",
-    "25",
-    "26",
-    "27",
-    "28",
-    "29",
-    "30",
-    "31",
-    "32",
-    "33",
-    "34"
-   ]
-  },
-  {
-   "page": 3,
-   "en": "The yearly net yield of the two lordships has been examined by a commission set up by the Royal Kalisz Chamber of War and Domains and ascertained as follows.\n\nTitle I. In standing dues from the old subjects in both lordships, according to the table of prestations 5752 Rthl 14 g. 11 d. 2. In hereditary rents from the colonies 16781 Title II\n\nIn hereditary-lease canon 3500\n\nTitle III\n\nIn leased parcels 13357\n\nTitle IV From 3 brickworks according to the Chamber's valuation 857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may be called, have been assumed by the hereditary tenants, colonists, term-peasants and term-lessees. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands fast as a net yearly revenue.\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Kalischen",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "5752",
-    "14",
-    "11",
-    "16781",
-    "3500",
-    "13357",
-    "3",
-    "857",
-    "40247",
-    "14",
-    "11",
-    "40247",
-    "14",
-    "11"
-   ]
-  },
-  {
-   "page": 4,
-   "en": "Debts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Eward and Haupt 18000. Zerboni 10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt 5000. Sundry debts circa 20000. Total 366000.",
-   "names": [
-    {
-     "de": "Schlabrendorff",
-     "en": "Schlabrendorff",
-     "kind": "person"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Eward",
-     "en": "Eward",
-     "kind": "person"
-    },
-    {
-     "de": "Haupt",
-     "en": "Haupt",
-     "kind": "person"
-    },
-    {
-     "de": "Zerboni",
-     "en": "Zerboni",
-     "kind": "person"
-    },
-    {
-     "de": "Eysenhardtsche Erben",
-     "en": "Eysenhardt heirs",
-     "kind": "person"
-    },
-    {
-     "de": "Lichnowski",
-     "en": "Lichnowski",
-     "kind": "person"
-    },
-    {
-     "de": "Grotowski",
-     "en": "Grotowski",
-     "kind": "person"
-    },
-    {
-     "de": "Seehausen",
-     "en": "Seehausen",
-     "kind": "person"
-    },
-    {
-     "de": "Seher Tothschen Erben",
-     "en": "Seher Toth heirs",
-     "kind": "person"
-    },
-    {
-     "de": "Prusimska",
-     "en": "Prusimska",
-     "kind": "person"
-    },
-    {
-     "de": "Oppenheimer",
-     "en": "Oppenheimer",
-     "kind": "person"
-    },
-    {
-     "de": "Wolff",
-     "en": "Wolff",
-     "kind": "person"
-    },
-    {
-     "de": "Bornstädt",
-     "en": "Bornstädt",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "25000",
-    "27000",
-    "18000",
-    "10000",
-    "10000",
-    "42000",
-    "20000",
-    "5000",
-    "8000",
-    "16000",
-    "50000",
-    "110000",
-    "5000",
-    "20000",
-    "366000"
-   ]
-  }
- ],
- "text_english": "Right Honourable Sir,\n\nHighly Honoured Privy Councillor!\n\nBy the colonisation of my South Prussian lordships Zagórów and Trombschen, carried out with Royal approval, a net yield from the same of 40 Rthl has been ascertained, and after exact examination has been confirmed by the Kalisz Chamber of War and Domains.\n\nThis should put me in a position to bring my so long entertained wish to fulfilment, and to arrange my debt affairs entirely. It depends, however, upon whether it is possible to obtain a sum of 100000 Rthl, namely as much as all my debts without exception amount to, in a single lot, against which I would then pledge the two aforenamed lordships, establish complete security upon them with a first and sole mortgage, and would also appoint a yearly sum for the payment of the interest and the amortisation of the capital, whereby this debt could be discharged in a few years.\n\nI most respectfully request Your Right Honourable to undertake this business and, with your wide acquaintance, to negotiate a loan of this kind. The power of attorney necessary thereto I shall transmit by the first post in any form you please. I have likewise instructed my general attorney to deliver to you at once all documents needed for the prosecution of this business, and, for the men of affairs cooperating in these matters, to pay out without delay a d[illegible]ongratie of 5 per cent as soon as the matter is [uncertain: understood]. With the most complete esteem I am Your Right Honourable's\n\nF. L. P. of Hohenlohe. Freyberg, the 25th of September\n\n1806.\n\nThe lordships Zagórów and Trąbczyn belonging to the Prince of Hohenlohe in South Prussia, beyond Pexen on the Warthe, consist:\n\n1. Of the little town of Zagórów\n\n2. Of the village and [uncertain: Vormuck] Kopojno 3. Of the rent-village Swiątniki\n\n4. ditto Skokum 5. Of the rent-village and demesne farm Olesnica. 6. Of the rent-village Drzewce.\n\n7. ditto Grądzin\n\n8. ditto Wrąbczin 9. Old Swięcia\n\n10. New Swięcia\n\n11. Sophienthal\n\n12. Ludwigslust\n\n13. Adelow 14. Friedrichsfelde 15. Augustinow\n\n16. Emilienhayn\n\n17. Adolphsberg\n\n18. Alexandrow 19. Little Ingelfingen 20. Little Öhringen 21. Little Neuenstein 22. Of the village and demesne farm Trąbczyn 23. Of ditto Nowawies 24. Of the village or demesne farm Przybislaw 25. Of the rent-village Stara Huta 26. Of the village and demesne farm Marianton\n\n27. Of the village and demesne farm Szetlewek\n\n28. Of the rent-village Furstenfelde\n\n29. Of ditto Hohendorf 30. Of ditto Justinsau[illegible] 31. Of ditto Kaszubow 32. Of Little Schro[uncertain: l]berg 33. Of ditto Great Holland 34. Of ditto Blomberg\n\nThe yearly net yield of the two lordships has been examined by a commission set up by the Royal Kalisz Chamber of War and Domains and ascertained as follows.\n\nTitle I. In standing dues from the old subjects in both lordships, according to the table of prestations 5752 Rthl 14 g. 11 d. 2. In hereditary rents from the colonies 16781 Title II\n\nIn hereditary-lease canon 3500\n\nTitle III\n\nIn leased parcels 13357\n\nTitle IV From 3 brickworks according to the Chamber's valuation 857. Total 40247 Rthl 14 g 11 d. All taxes and burdens, by whatever name they may be called, have been assumed by the hereditary tenants, colonists, term-peasants and term-lessees. Therefore the aforenamed sum of 40247 Rthl 14 g 11 d stands fast as a net yearly revenue.\n\nv. Triebenfeld\n\nDebts of the Prince. To Schlabrendorff 25000. To Weigel 27000. To Eward and Haupt 18000. Zerboni 10000. The Eysenhardt heirs 10000. To Lichnowski 42000. To Grotowski 20000. Seehausen 5000. The Seher Toth heirs 8000. Prusimska circa 16000. The Invalids' Fund 50000. Oppenheimer and Wolff 110000. Bornstädt 5000. Sundry debts circa 20000. Total 366000.",
- "summary_en": "A draft letter in the Prince's name asking a Privy Councillor to negotiate a single loan of 100,000 Rthl to clear all his debts, secured by a first and sole mortgage on Zagorowo and Trąbczyn, with a power of attorney and documents promised and 5 per cent offered to the agents involved. Appended are a list of the 34 places in the two lordships, a Kalisz Chamber valuation of their net yield at 40,247 Rthl, and a schedule of debts totalling 366,000 Rthl.",
- "summary_de": "Entwurf eines Schreibens des Fürsten an einen Geheimen Rat mit der Bitte, ein Darlehen von 100000 Rthl in einer Summe zu vermitteln, gesichert durch erste und alleinige Hypothek auf die südpreußischen Herrschaften Zagorowo und Trombschen; Vollmacht und Unterlagen sollen folgen, den Vermittlern werden 5 Prozent zugesagt. Beigefügt eine von Triebenfeld gezeichnete Aufstellung der 34 Ortschaften und des von der Kalischer Kriegs- und Domänenkammer geprüften Reinertrags von 40247 Rthl 14 g 11 d sowie ein Schuldenverzeichnis über 366000 Rthl, darunter Oppenheimer und Wolff 110000 und der Invalidenfonds 50000."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -154,6 +154,56 @@ def doc_type_label(doc_type):
     return _DOC_LABELS.get('document', 'Document')
 
 
+def render_table(tbl, page_no):
+    """One manuscript page of a tabulated document, as an HTML table.
+
+    The first two columns are the entry number and the name; the rest are
+    amounts. The first header row carries the column groups (Gold, Courant), a
+    label opening a group and the blanks after it continuing it; the second
+    carries the units. The title heads the first page, the closing rows (the
+    Summa) close the last.
+    """
+    rows = tbl['pages'].get(page_no) or []
+    if not rows:
+        return ''
+    head, foot = tbl['head'], tbl['foot']
+    ncol = max(len(r) for r in head + foot + rows)
+
+    def pad(r):
+        return (list(r) + [''] * ncol)[:ncol]
+
+    def cells(r, tag):
+        r = pad(r)
+        return (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>'
+                f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
+                + ''.join(f'<{tag} class="num">{html.escape(c.strip())}</{tag}>' for c in r[2:]))
+
+    out = ['<div class="ledger-wrap"><table class="ledger">']
+    if page_no == min(tbl['pages']) and tbl['caption']:
+        out.append(f'<caption>{html.escape(tbl["caption"])}</caption>')
+    if head:
+        top, sub = pad(head[0]), pad(head[-1])
+        grp = []
+        i = 2
+        while i < ncol:
+            j = i + 1
+            while j < ncol and not top[j].strip():
+                j += 1
+            grp.append(f'<th colspan="{j - i}" class="grp">{html.escape(top[i].strip())}</th>')
+            i = j
+        out.append('<thead><tr>'
+                   f'<th rowspan="2" class="no">{html.escape(sub[0].strip())}</th>'
+                   f'<th rowspan="2" class="name">{html.escape(sub[1].strip())}</th>'
+                   + ''.join(grp) + '</tr>')
+        out.append('<tr>' + ''.join(f'<th class="num">{html.escape(c.strip())}</th>'
+                                    for c in sub[2:]) + '</tr></thead>')
+    out.append('<tbody>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in rows) + '</tbody>')
+    if foot and page_no == max(tbl['pages']):
+        out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot) + '</tfoot>')
+    out.append('</table></div>')
+    return '\n'.join(out)
+
+
 def yaml_str(s):
     """Quote a scalar safely for YAML."""
     return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
@@ -213,6 +263,8 @@ def main():
     archival = sorted(recs, key=archival_key)
     chrono = sorted(recs, key=chrono_key)
     units_by_slug = {u.slug: u for u in UNITS}
+    # Documents the editor has laid out as tables, keyed (unit, letter_id).
+    tables = {(u.slug, lid): t for u in UNITS for lid, t in unitlib.load_tables(u).items()}
     # duplicate_of is recorded in the unit's own rulings.yml, so it names an
     # archival number in the same holding - resolve it inside that unit.
     _url_by_uid = {r['uid']: r['permalink'] for r in recs}
@@ -262,6 +314,7 @@ def main():
     for r in recs:
         lid = r['letter_id']
         is_reg = r['doc_type'] == 'register'
+        tbl = tables.get((r['unit'], lid))
         a, c = arch_pos[r['uid']], chrono_pos[r['uid']]
         fm = []
         fm.append('---')
@@ -350,14 +403,20 @@ def main():
         body = []
         pages = r.get('pages') or []
         for p in pages:
+            # A tabulated document's transcription is its table: each page shows
+            # the table's rows for that page, in every text view, and is cited
+            # by entry number rather than by the lines of a text export.
+            _table = render_table(tbl, p['page']) if tbl else ''
+            _entries = [row[0].strip() for row in tbl['pages'].get(p['page'], [])] if _table else []
             body.append(f'<section class="ms-page" id="p{p["page"]}" '
                         f'data-page="{p["page"]}" '
                         f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}">')
             if len(pages) > 1:
+                _where = (f'entries {_entries[0]}-{_entries[-1]}' if _entries else
+                          f'lines {p["doc_line_start"]}-{p["doc_line_end"]}')
                 body.append(
                     f'<div class="page-rule"><span class="page-no">Page {p["page"]}</span>'
-                    f'<span class="page-lines">lines '
-                    f'{p["doc_line_start"]}-{p["doc_line_end"]}</span></div>')
+                    f'<span class="page-lines">{_where}</span></div>')
             # Two panes: the manuscript image on the left, its own text on the
             # right, so a page and its scan always sit together.
             img = scans.get((r['unit'], lid, p['page']), '')
@@ -381,16 +440,22 @@ def main():
             # marks resolved per the recorded decisions. Numbered to the
             # archival line so it can still be cited line by line.
             body.append('<div class="text-view" data-view="diplomatic">')
-            # Numbered from 1 in each document, contiguously. The unit-absolute
-            # line is internal and is not published; corpus/index/ carries the
-            # mapping for anyone who needs to resolve a citation.
-            body.append('<ol class="dip" start="' + str(p['doc_line_start']) + '">')
-            for ln in p.get('transcription', p['diplomatic']).split('\n'):
-                body.append('<li>' + html.escape(ln) + '</li>')
-            body.append('</ol></div>')
+            if _table:
+                body.append(_table)
+            else:
+                # Numbered from 1 in each document, contiguously. The unit-absolute
+                # line is internal and is not published; corpus/index/ carries the
+                # mapping for anyone who needs to resolve a citation.
+                body.append('<ol class="dip" start="' + str(p['doc_line_start']) + '">')
+                for ln in p.get('transcription', p['diplomatic']).split('\n'):
+                    body.append('<li>' + html.escape(ln) + '</li>')
+                body.append('</ol>')
+            body.append('</div>')
             # view 2 - reading
             body.append('<div class="text-view" data-view="reading" hidden>')
-            if is_reg:
+            if _table:
+                body.append(_table)
+            elif is_reg:
                 body.append('<p>' + '<br>\n'.join(
                     html.escape(x.strip()) for x in p['reading'].split('\n') if x.strip()) + '</p>')
             else:
@@ -662,8 +727,10 @@ def verify(recs):
 
     The diplomatic view is rendered as one <li> per manuscript line, so pulling
     those back out must reproduce the corpus's non-blank lines exactly, in order.
+    A document transcribed as a table is checked cell by cell instead.
     """
     print('\n--- verification ---')
+    _tables = {(u.slug, lid): t for u in UNITS for lid, t in unitlib.load_tables(u).items()}
     # Keyed by uid, not letter_id: an archival number is unique only inside its
     # own holding, so two units both having a document 7 would collide here and
     # this check would silently compare one against the other's text.
@@ -674,6 +741,17 @@ def verify(recs):
         with open(os.path.join(LETTERS_DIR, fn), encoding='utf-8') as f:
             content = f.read()
         uid = re.search(r'^uid: "(.+?)"$', content, re.M).group(1)
+        total_pages += len(re.findall(r'<section class="ms-page"', content))
+        checked += 1
+        # A tabulated document's transcription is its table: check it against
+        # the corpus cell by cell, since each of its lines is a table row.
+        _rec = by_uid[uid]
+        _tbl = _tables.get((_rec['unit'], _rec['letter_id']))
+        if _tbl:
+            if unitlib.table_rows_in_page(content) != unitlib.table_expected_rows(_tbl):
+                mismatch += 1
+                print(f'  MISMATCH {uid}: table differs from the corpus')
+            continue
         # The diplomatic view is one <li> per manuscript line, inside
         # <ol class="dip">. Scope the extraction to those lists: the page also
         # carries other <li> - the typed relations to other documents - and a
@@ -687,11 +765,9 @@ def verify(recs):
         expected = [l for p in by_uid[uid]['pages']
                     for l in p.get('transcription', p['diplomatic']).split('\n')
                     if l.strip()]
-        total_pages += len(re.findall(r'<section class="ms-page"', content))
         if recovered != expected:
             mismatch += 1
             print(f'  MISMATCH {uid}: {len(recovered)} lines vs {len(expected)}')
-        checked += 1
     print(f'letter pages checked    : {checked}')
     print(f'manuscript pages        : {total_pages}')
     print(f'archival lines exact    : {mismatch == 0}')

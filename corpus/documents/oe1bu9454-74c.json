@@ -9,54 +9,59 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1811-08-01",
+ "date_iso": "1811-08-06",
  "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1811-08-01]",
- "date_inferred_from": "supplied by researcher",
+ "date_source": "signature",
+ "date_display": "Glogau d 6ten Aug 1811",
+ "date_inferred_from": "",
  "year": 1811,
  "month": 8,
- "day": 1,
+ "day": 6,
  "place": "Glogau",
  "sender": "",
  "recipient": "",
- "line_start": 6175,
- "line_end": 6202,
+ "line_start": 6180,
+ "line_end": 6208,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
  "n_lines": 27,
  "n_pages": 1,
- "text": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament\nder verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen: Invaliden Casse\nin ihrer am 30ten v. M. bey den König Kammergericht eingerichten Klage vorgetragene Behauptung\ndas der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürstin von Sacken\nein Legat von 50000 Rthl erhalten würde und diese den Krieges und Forst Rath von\nTriebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben\nan ihn gewiesen habe,\ngegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus\nzuzahlen.\nBerlin d. 1 ten August 1811.\nKönigl. Preuß. Kammergericht.\ndes König Staats und Justiz Ministers\nHerrn von Kircheisen.\nin simili\nAn den\nKönigl. Ober Medicinal Rath Herr Cosmar hieselbst.\nAn den Krieges und Forst Rath Herrn von Triebenfeld\nauf Kontop.\nNo 1103.\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Meno\ncirr. in Sachen der General Invaliden Casse wider Sie hierneben mit dem Befehl\nzufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren\nrichtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen\nGlogau d 6ten Aug 1811\nKönigl. Preußl. Ober Landes Gericht von Schlesien\nFülleborn",
- "text_reading": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament der verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen: Invaliden Casse in ihrer am 30ten v. M. bey den König Kammergericht eingerichten Klage vorgetragene Behauptung das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürstin von Sacken ein Legat von 50000 Rthl erhalten würde und diese den Krieges und Forst Rath von Triebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben an ihn gewiesen habe, gegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus zuzahlen.\n\nBerlin d. 1 ten August 1811.\n\nKönigl. Preuß. Kammergericht.\n\ndes König Staats und Justiz Ministers Herrn von Kircheisen.\n\nin simili\n\nAn den Königl. Ober Medicinal Rath Herr Cosmar hieselbst. An den Krieges und Forst Rath Herrn von Triebenfeld auf Kontop.\n\nNo 1103.\n\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Meno cirr. in Sachen der General Invaliden Casse wider Sie hierneben mit dem Befehl zufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren richtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen Glogau d 6ten Aug 1811 Königl. Preußl. Ober Landes Gericht von Schlesien Fülleborn",
+ "text": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament\nder verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen[eral]: Invaliden Casse\nin ihrer am 30ten v. M. bey den König Kammergericht eingereichten Klage vorgetragene Behauptung\n\"das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürsten von Sacken\nein Legat von 80000 rt erhalten würde und diese den Krieges und Forst Rath von\nTriebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben\nan ihn gewiesen habe,\"\ngegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus\nzuzahlen.\nBerlin d. 1 ten August 1811.\nKönigl. Preuß. Kammergericht.\nAn\ndes König Staats und Justiz Ministers\nHerrn von Kircheisen.\nin simili\nAn den\nKönigl. Ober Medicinal Rath Herr Cosmar hieselbst.\nAn den Krieges und Forst Rath Herrn von Triebenfeld\nauf Kontop.\nNo 1103.\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Mens.\ncirr. in Sachen der General Invaliden Caße wider Sie hierneben mit dem Befehl\nzufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren\nrichtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen\nGlogau d 6ten Aug 1811\nKönigl. Preußl. Ober Landes Gericht von Schlesien\nFülleborn",
+ "text_reading": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament der verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen[eral]: Invaliden Casse in ihrer am 30ten v. M. bey den König Kammergericht eingereichten Klage vorgetragene Behauptung \"das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürsten von Sacken ein Legat von 80000 rt erhalten würde und diese den Krieges und Forst Rath von Triebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben an ihn gewiesen habe,\" gegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus zuzahlen.\n\nBerlin d. 1 ten August 1811.\n\nKönigl. Preuß. Kammergericht.\n\nAn des König Staats und Justiz Ministers Herrn von Kircheisen.\n\nin simili\n\nAn den Königl. Ober Medicinal Rath Herr Cosmar hieselbst. An den Krieges und Forst Rath Herrn von Triebenfeld auf Kontop.\n\nNo 1103.\n\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Mens. cirr. in Sachen der General Invaliden Caße wider Sie hierneben mit dem Befehl zufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren richtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen Glogau d 6ten Aug 1811 Königl. Preußl. Ober Landes Gericht von Schlesien Fülleborn",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 6176,
-   "line_end": 6201,
-   "n_lines": 26,
-   "diplomatic": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament\nder verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen: Invaliden Casse\nin ihrer am 30ten v. M. bey den König Kammergericht eingerichten Klage vorgetragene Behauptung\ndas der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürstin von Sacken\nein Legat von 50000 Rthl erhalten würde und diese den Krieges und Forst Rath von\nTriebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben\nan ihn gewiesen habe,\ngegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus\nzuzahlen.\nBerlin d. 1 ten August 1811.\nKönigl. Preuß. Kammergericht.\ndes König Staats und Justiz Ministers\nHerrn von Kircheisen.\nin simili\nAn den\nKönigl. Ober Medicinal Rath Herr Cosmar hieselbst.\nAn den Krieges und Forst Rath Herrn von Triebenfeld\nauf Kontop.\nNo 1103.\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Meno\ncirr. in Sachen der General Invaliden Casse wider Sie hierneben mit dem Befehl\nzufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren\nrichtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen\nGlogau d 6ten Aug 1811\nKönigl. Preußl. Ober Landes Gericht von Schlesien\nFülleborn",
-   "transcription": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament\nder verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen: Invaliden Casse\nin ihrer am 30ten v. M. bey den König Kammergericht eingerichten Klage vorgetragene Behauptung\ndas der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürstin von Sacken\nein Legat von 50000 Rthl erhalten würde und diese den Krieges und Forst Rath von\nTriebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben\nan ihn gewiesen habe,\ngegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus\nzuzahlen.\nBerlin d. 1 ten August 1811.\nKönigl. Preuß. Kammergericht.\ndes König Staats und Justiz Ministers\nHerrn von Kircheisen.\nin simili\nAn den\nKönigl. Ober Medicinal Rath Herr Cosmar hieselbst.\nAn den Krieges und Forst Rath Herrn von Triebenfeld\nauf Kontop.\nNo 1103.\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Meno\ncirr. in Sachen der General Invaliden Casse wider Sie hierneben mit dem Befehl\nzufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren\nrichtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen\nGlogau d 6ten Aug 1811\nKönigl. Preußl. Ober Landes Gericht von Schlesien\nFülleborn",
-   "reading": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament der verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen: Invaliden Casse in ihrer am 30ten v. M. bey den König Kammergericht eingerichten Klage vorgetragene Behauptung das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürstin von Sacken ein Legat von 50000 Rthl erhalten würde und diese den Krieges und Forst Rath von Triebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben an ihn gewiesen habe, gegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus zuzahlen.\n\nBerlin d. 1 ten August 1811.\n\nKönigl. Preuß. Kammergericht.\n\ndes König Staats und Justiz Ministers Herrn von Kircheisen.\n\nin simili\n\nAn den Königl. Ober Medicinal Rath Herr Cosmar hieselbst. An den Krieges und Forst Rath Herrn von Triebenfeld auf Kontop.\n\nNo 1103.\n\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Meno cirr. in Sachen der General Invaliden Casse wider Sie hierneben mit dem Befehl zufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren richtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen Glogau d 6ten Aug 1811 Königl. Preußl. Ober Landes Gericht von Schlesien Fülleborn",
+   "page_id": "0157_a2",
+   "line_start": 6182,
+   "line_end": 6208,
+   "n_lines": 27,
+   "diplomatic": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament\nder verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen[eral]: Invaliden Casse\nin ihrer am 30ten v. M. bey den König Kammergericht eingereichten Klage vorgetragene Behauptung\n\"das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürsten von Sacken\nein Legat von 80000 rt erhalten würde und diese den Krieges und Forst Rath von\nTriebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben\nan ihn gewiesen habe,\"\ngegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus\nzuzahlen.\nBerlin d. 1 ten August 1811.\nKönigl. Preuß. Kammergericht.\nAn\ndes König Staats und Justiz Ministers\nHerrn von Kircheisen.\nin simili\nAn den\nKönigl. Ober Medicinal Rath Herr Cosmar hieselbst.\nAn den Krieges und Forst Rath Herrn von Triebenfeld\nauf Kontop.\nNo 1103.\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Mens.\ncirr. in Sachen der General Invaliden Caße wider Sie hierneben mit dem Befehl\nzufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren\nrichtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen\nGlogau d 6ten Aug 1811\nKönigl. Preußl. Ober Landes Gericht von Schlesien\nFülleborn",
+   "transcription": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament\nder verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen[eral]: Invaliden Casse\nin ihrer am 30ten v. M. bey den König Kammergericht eingereichten Klage vorgetragene Behauptung\n\"das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürsten von Sacken\nein Legat von 80000 rt erhalten würde und diese den Krieges und Forst Rath von\nTriebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben\nan ihn gewiesen habe,\"\ngegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus\nzuzahlen.\nBerlin d. 1 ten August 1811.\nKönigl. Preuß. Kammergericht.\nAn\ndes König Staats und Justiz Ministers\nHerrn von Kircheisen.\nin simili\nAn den\nKönigl. Ober Medicinal Rath Herr Cosmar hieselbst.\nAn den Krieges und Forst Rath Herrn von Triebenfeld\nauf Kontop.\nNo 1103.\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Mens.\ncirr. in Sachen der General Invaliden Caße wider Sie hierneben mit dem Befehl\nzufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren\nrichtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen\nGlogau d 6ten Aug 1811\nKönigl. Preußl. Ober Landes Gericht von Schlesien\nFülleborn",
+   "reading": "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament der verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen[eral]: Invaliden Casse in ihrer am 30ten v. M. bey den König Kammergericht eingereichten Klage vorgetragene Behauptung \"das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürsten von Sacken ein Legat von 80000 rt erhalten würde und diese den Krieges und Forst Rath von Triebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben an ihn gewiesen habe,\" gegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus zuzahlen.\n\nBerlin d. 1 ten August 1811.\n\nKönigl. Preuß. Kammergericht.\n\nAn des König Staats und Justiz Ministers Herrn von Kircheisen.\n\nin simili\n\nAn den Königl. Ober Medicinal Rath Herr Cosmar hieselbst. An den Krieges und Forst Rath Herrn von Triebenfeld auf Kontop.\n\nNo 1103.\n\nWir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Mens. cirr. in Sachen der General Invaliden Caße wider Sie hierneben mit dem Befehl zufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren richtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen Glogau d 6ten Aug 1811 Königl. Preußl. Ober Landes Gericht von Schlesien Fülleborn",
    "paragraphs": [
-    "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament der verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen: Invaliden Casse in ihrer am 30ten v. M. bey den König Kammergericht eingerichten Klage vorgetragene Behauptung das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürstin von Sacken ein Legat von 50000 Rthl erhalten würde und diese den Krieges und Forst Rath von Triebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben an ihn gewiesen habe, gegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus zuzahlen.",
+    "Der Königl. Staats und Justiz Minister Herr von Kircheisen wird hierdurch als Executor des Testament der verstorbenen Frau Furstin von Sacken aufgefordert im Fall die von der Gen[eral]: Invaliden Casse in ihrer am 30ten v. M. bey den König Kammergericht eingereichten Klage vorgetragene Behauptung \"das der Herr Fürst von Hohenlohe Ingelfingen aus den Nachlas der Fürsten von Sacken ein Legat von 80000 rt erhalten würde und diese den Krieges und Forst Rath von Triebenfeld zu Kontop bei Grüneberg zur Berichtigung der Forderungen deßelben an ihn gewiesen habe,\" gegründet sein solte, den p von Triebenfeld von dieser Summa bey eigener Vertretung nichts aus zuzahlen.",
     "Berlin d. 1 ten August 1811.",
     "Königl. Preuß. Kammergericht.",
-    "des König Staats und Justiz Ministers Herrn von Kircheisen.",
+    "An des König Staats und Justiz Ministers Herrn von Kircheisen.",
     "in simili",
     "An den Königl. Ober Medicinal Rath Herr Cosmar hieselbst. An den Krieges und Forst Rath Herrn von Triebenfeld auf Kontop.",
     "No 1103.",
-    "Wir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Meno cirr. in Sachen der General Invaliden Casse wider Sie hierneben mit dem Befehl zufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren richtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen Glogau d 6ten Aug 1811 Königl. Preußl. Ober Landes Gericht von Schlesien Fülleborn"
+    "Wir laßen Ihnen eine Vorladung des Königl. Cammer-Gerichts zu Berlin vom 1ten Mens. cirr. in Sachen der General Invaliden Caße wider Sie hierneben mit dem Befehl zufertigen, dem Inhalte derselben überall die schuldige Folge zu leisten und deren richtigen Empfang auf die Ihnen davon vorzulegende Abschrift vollständig zu bescheinigen Glogau d 6ten Aug 1811 Königl. Preußl. Ober Landes Gericht von Schlesien Fülleborn"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 26
+   "doc_line_end": 27
   }
  ],
  "mentions": [
@@ -66,9 +71,9 @@
    "kind": "person",
    "surface": "Kircheisen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6176,
+   "line": 6182,
    "doc_line": 1
   },
   {
@@ -77,9 +82,9 @@
    "kind": "person",
    "surface": "Sacken",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6177,
+   "line": 6183,
    "doc_line": 2
   },
   {
@@ -88,9 +93,9 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6179,
+   "line": 6185,
    "doc_line": 4
   },
   {
@@ -99,9 +104,9 @@
    "kind": "person",
    "surface": "Sacken",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6179,
+   "line": 6185,
    "doc_line": 4
   },
   {
@@ -110,9 +115,9 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6181,
+   "line": 6187,
    "doc_line": 6
   },
   {
@@ -121,9 +126,9 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6183,
+   "line": 6189,
    "doc_line": 8
   },
   {
@@ -132,9 +137,9 @@
    "kind": "person",
    "surface": "August",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6185,
+   "line": 6191,
    "doc_line": 10
   },
   {
@@ -143,10 +148,10 @@
    "kind": "person",
    "surface": "Kircheisen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6188,
-   "doc_line": 13
+   "line": 6195,
+   "doc_line": 14
   },
   {
    "entity": "cosmar",
@@ -154,10 +159,10 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6191,
-   "doc_line": 16
+   "line": 6198,
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -165,113 +170,46 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6192,
-   "doc_line": 17
+   "line": 6199,
+   "doc_line": 18
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "von Kircheisen",
-   "kind": "person",
-   "surface_de": "von Kircheisen",
-   "surface_en": "von Kircheisen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Sacken",
-   "kind": "person",
-   "surface_de": "von Sacken",
-   "surface_en": "von Sacken",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hohenlohe-Ingelfingen",
-   "kind": "other",
-   "surface_de": "Hohenlohe Ingelfingen",
-   "surface_en": "Hohenlohe-Ingelfingen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "von Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kontop",
-   "kind": "place",
-   "surface_de": "Kontop",
-   "surface_en": "Kontop",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Grüneberg",
-   "kind": "place",
-   "surface_de": "Grüneberg",
-   "surface_en": "Grüneberg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "cosmar",
-   "display": "Cosmar",
-   "kind": "person",
-   "surface_de": "Cosmar",
-   "surface_en": "Cosmar",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Glogau",
-   "kind": "place",
-   "surface_de": "Glogau",
-   "surface_en": "Glogau",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Silesia",
-   "kind": "place",
-   "surface_de": "Schlesien",
-   "surface_en": "Silesia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Fülleborn",
-   "kind": "person",
-   "surface_de": "Fülleborn",
-   "surface_en": "Fülleborn",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Glogau",
  "place_mentions": [
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6185,
+   "doc_line": 4
+  },
+  {
+   "entity": "grueneberg",
+   "display": "Grüneberg (Zielona Góra)",
+   "kind": "place",
+   "surface": "Grüneberg",
+   "page": 1,
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6187,
+   "doc_line": 6
+  },
   {
    "entity": "kontop",
    "display": "Kontop",
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6181,
+   "line": 6187,
    "doc_line": 6
   },
   {
@@ -280,9 +218,9 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6185,
+   "line": 6191,
    "doc_line": 10
   },
   {
@@ -291,10 +229,10 @@
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6193,
-   "doc_line": 18
+   "line": 6200,
+   "doc_line": 19
   },
   {
    "entity": "berlin",
@@ -302,87 +240,37 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0157_a2",
    "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6195,
-   "doc_line": 20
-  }
- ],
- "translation_status": "draft",
- "translation": [
+   "line": 6202,
+   "doc_line": 21
+  },
   {
+   "entity": "glogau",
+   "display": "Glogau (Głogów)",
+   "kind": "place",
+   "surface": "Glogau",
    "page": 1,
-   "en": "The Royal Minister of State and of Justice, Mr. von Kircheisen, is hereby called upon, in the event that the assertion advanced by the General Invalids' Fund in its suit lodged on the 30th of last month with the Royal Superior Court of Appeal — namely, that the Prince of Hohenlohe-Ingelfingen was to receive from the estate of the Princess von Sacken a legacy of 50000 Rthl, and that he had directed the Councillor of War and Forests von Triebenfeld at Kontop near Grüneberg to that sum for the settlement of the latter's claims against him — should prove to be well founded, to pay out nothing of this sum to the aforesaid von Triebenfeld, upon his own liability.\n\nBerlin, the 1st of August 1811.\n\nRoyal Prussian Superior Court of Appeal.\n\n[to] the Royal Minister of State and of Justice, Mr. von Kircheisen.\n\nin like manner\n\nTo the Royal Chief Medical Councillor Mr. Cosmar here. To the Councillor of War and Forests Mr. von Triebenfeld at Kontop.\n\nNo. 1103.\n\nWe cause to be transmitted to you herewith a summons of the Royal Superior Court of Appeal at Berlin of the 1st of the current month, in the matter of the General Invalids' Fund against you, with the command to render in every respect the obedience due to its contents, and to certify in full the correct receipt thereof upon the Copy to be laid before you of the same. Glogau, the 6th of Aug. 1811. Royal Prussian Superior Provincial Court of Silesia. Fülleborn",
-   "names": [
-    {
-     "de": "von Kircheisen",
-     "en": "von Kircheisen",
-     "kind": "person"
-    },
-    {
-     "de": "von Sacken",
-     "en": "von Sacken",
-     "kind": "person"
-    },
-    {
-     "de": "Hohenlohe Ingelfingen",
-     "en": "Hohenlohe-Ingelfingen",
-     "kind": "other"
-    },
-    {
-     "de": "von Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Kontop",
-     "en": "Kontop",
-     "kind": "place"
-    },
-    {
-     "de": "Grüneberg",
-     "en": "Grüneberg",
-     "kind": "place"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Cosmar",
-     "en": "Cosmar",
-     "kind": "person"
-    },
-    {
-     "de": "Glogau",
-     "en": "Glogau",
-     "kind": "place"
-    },
-    {
-     "de": "Schlesien",
-     "en": "Silesia",
-     "kind": "place"
-    },
-    {
-     "de": "Fülleborn",
-     "en": "Fülleborn",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "30ten",
-    "50000",
-    "1 ten",
-    "1811",
-    "1103",
-    "1ten",
-    "6ten",
-    "1811"
-   ]
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6206,
+   "doc_line": 25
+  },
+  {
+   "entity": "schlesien",
+   "display": "Schlesien",
+   "kind": "place",
+   "surface": "Schlesien",
+   "page": 1,
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
+   "line": 6207,
+   "doc_line": 26
   }
  ],
- "text_english": "The Royal Minister of State and of Justice, Mr. von Kircheisen, is hereby called upon, in the event that the assertion advanced by the General Invalids' Fund in its suit lodged on the 30th of last month with the Royal Superior Court of Appeal — namely, that the Prince of Hohenlohe-Ingelfingen was to receive from the estate of the Princess von Sacken a legacy of 50000 Rthl, and that he had directed the Councillor of War and Forests von Triebenfeld at Kontop near Grüneberg to that sum for the settlement of the latter's claims against him — should prove to be well founded, to pay out nothing of this sum to the aforesaid von Triebenfeld, upon his own liability.\n\nBerlin, the 1st of August 1811.\n\nRoyal Prussian Superior Court of Appeal.\n\n[to] the Royal Minister of State and of Justice, Mr. von Kircheisen.\n\nin like manner\n\nTo the Royal Chief Medical Councillor Mr. Cosmar here. To the Councillor of War and Forests Mr. von Triebenfeld at Kontop.\n\nNo. 1103.\n\nWe cause to be transmitted to you herewith a summons of the Royal Superior Court of Appeal at Berlin of the 1st of the current month, in the matter of the General Invalids' Fund against you, with the command to render in every respect the obedience due to its contents, and to certify in full the correct receipt thereof upon the Copy to be laid before you of the same. Glogau, the 6th of Aug. 1811. Royal Prussian Superior Provincial Court of Silesia. Fülleborn",
- "summary_en": "A copy of a court order arising from the General Invalids' Fund's suit of 30 July before the Superior Court of Appeal in Berlin: Minister of State and Justice von Kircheisen is forbidden, on his own liability, to pay out anything to von Triebenfeld at Kontop near Grüneberg from a 50,000 Rthl legacy said to be due to the Prince of Hohenlohe-Ingelfingen from the estate of Princess von Sacken and assigned to Triebenfeld against his claims. Like orders went to Chief Medical Councillor Cosmar and to Triebenfeld, forwarded through the Silesian Superior Provincial Court at Glogau.",
- "summary_de": "Ein Arrestbefehl des Königlichen Ober-Appellationsgerichts: Staats- und Justizminister von Kircheisen wird angewiesen, aus einem angeblichen Legat von 50000 Rthl, das dem Fürsten von Hohenlohe-Ingelfingen aus dem Nachlass der Fürstin von Sacken zustehe und das dieser dem Kriegs- und Forstrat von Triebenfeld in Kontop bei Grüneberg zur Deckung seiner Forderungen angewiesen habe, nichts an Triebenfeld auszuzahlen. Gleichlautend an Obermedizinalrat Cosmar und an Triebenfeld; Zustellung durch das Oberlandesgericht Schlesien in Glogau (Fülleborn)."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -1,6 +1,6 @@
 {
  "letter_id": "145",
- "seq_archival": 157,
+ "seq_archival": 156,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-145",
@@ -18,54 +18,58 @@
  "month": 11,
  "day": 14,
  "place": "Kalisz",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 10502,
- "line_end": 10537,
- "uncertainty_count": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 10505,
+ "line_end": 10541,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
  "is_missing": 0,
- "n_lines": 35,
+ "n_lines": 34,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable kram; jedes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus - der Mensch zahlt\ndie 4000 Rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Confentiment des kopillen Collegiums aufs reinen\ngebracht ist.\nDer Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten – es fehlt ihm aber der Contract und eine voll\nmacht – den Contract hat Nochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.\n\nGeruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er¬\nteilen, daß der Contract auf das eiligste von Köckritz ab¬\ngefordert und mittelst Vollmacht an H. Grimm abgeschickt\nwerde. In Trąbczin höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin erkan¬\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich, obwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an gelangt. Der gröste Verlust ist die Zeit, die ich zur reparien meines Wagens bedarf, um damit weiter reisen zu können Der Hoffrath Grimm liegt miserable kram; jedes wird er dem v. Radzinski verarbeiten, wozu aber die Contracte erfordert würden.\n\nMit dem Honrichs sieht es übel aus - der Mensch zahlt die 4000 Rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Confentiment des kopillen Collegiums aufs reinen gebracht ist.\n\nDer Grimm will ihm sofort gerichtlich zur Zahlung an halten – es fehlt ihm aber der Contract und eine voll macht – den Contract hat Nochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt.\n\nGeruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu erteilen, daß der Contract auf das eiligste von Köckritz abgefordert und mittelst Vollmacht an H. Grimm abgeschickt werde. In Trąbczin höhre ich giebt man andere Befehle die meinen Plan gerade entgegen sind. So hat einer von den Befehls habern 100 Scheffel Korn an jemand geborgt wo Ewr Durchlaucht nie einen denen erhalten, auch hat man einen großen Theil der Äcker besaet Ich werde sobald mein Wagen Mobil ist, dahin erkan um den Ewr Durchlaucht das weitere melden. Ehrfurchtsvoll ersterbe\n\nEwr hochfürstliche Durchlaucht\n\nKalisz den 14ten Novbr\n\n1804.\n\nunterthäniger Diener\n\nv Triebenfeld",
+ "text": "145\nDurchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable krank; indes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus - der Mensch zahlt\ndie 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Consentiment des Pupillen Collegiums aufs reinen\ngebracht ist.\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten – es fehlt ihm aber der Contract und eine voll\nmacht – den Contract hat Rochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.\nGeruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er¬\nteilen, daß der Contract auf das eiligste von Rochlitz ab¬\ngefordert und mittelst Vollmacht an H. p Grimm abgeschickt\nwerde. In Trąbczyn höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel[?] Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin eilen\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
+ "text_reading": "145\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich, obwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an gelangt. Der gröste Verlust ist die Zeit, die ich zur reparien meines Wagens bedarf, um damit weiter reisen zu können Der Hoffrath Grimm liegt miserable krank; indes wird er dem v. Radzinski verarbeiten, wozu aber die Contracte erfordert würden.\n\nMit dem Honrichs sieht es übel aus - der Mensch zahlt die 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Consentiment des Pupillen Collegiums aufs reinen gebracht ist.\n\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an halten – es fehlt ihm aber der Contract und eine voll macht – den Contract hat Rochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt.\n\nGeruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu erteilen, daß der Contract auf das eiligste von Rochlitz abgefordert und mittelst Vollmacht an H. p Grimm abgeschickt werde. In Trąbczyn höhre ich giebt man andere Befehle die meinen Plan gerade entgegen sind. So hat einer von den Befehls habern 100 Scheffel[?] Korn an jemand geborgt wo Ewr Durchlaucht nie einen denen erhalten, auch hat man einen großen Theil der Äcker besaet Ich werde sobald mein Wagen Mobil ist, dahin eilen um den Ewr Durchlaucht das weitere melden. Ehrfurchtsvoll ersterbe\n\nEwr hochfürstliche Durchlaucht\n\nKalisz den 14ten Novbr\n\n1804.\n\nunterthäniger Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 10503,
-   "line_end": 10519,
-   "n_lines": 17,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable kram; jedes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus - der Mensch zahlt\ndie 4000 Rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Confentiment des kopillen Collegiums aufs reinen\ngebracht ist.\nDer Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten – es fehlt ihm aber der Contract und eine voll\nmacht – den Contract hat Nochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable kram; jedes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus - der Mensch zahlt\ndie 4000 Rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Confentiment des kopillen Collegiums aufs reinen\ngebracht ist.\nDer Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten – es fehlt ihm aber der Contract und eine voll\nmacht – den Contract hat Nochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Herr!\n\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich, obwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an gelangt. Der gröste Verlust ist die Zeit, die ich zur reparien meines Wagens bedarf, um damit weiter reisen zu können Der Hoffrath Grimm liegt miserable kram; jedes wird er dem v. Radzinski verarbeiten, wozu aber die Contracte erfordert würden.\n\nMit dem Honrichs sieht es übel aus - der Mensch zahlt die 4000 Rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Confentiment des kopillen Collegiums aufs reinen gebracht ist.\n\nDer Grimm will ihm sofort gerichtlich zur Zahlung an halten – es fehlt ihm aber der Contract und eine voll macht – den Contract hat Nochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt.",
+   "page_id": "0282_a",
+   "line_start": 10507,
+   "line_end": 10524,
+   "n_lines": 18,
+   "diplomatic": "145\nDurchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable krank; indes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus - der Mensch zahlt\ndie 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Consentiment des Pupillen Collegiums aufs reinen\ngebracht ist.\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten – es fehlt ihm aber der Contract und eine voll\nmacht – den Contract hat Rochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.",
+   "transcription": "145\nDurchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable krank; indes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus - der Mensch zahlt\ndie 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Consentiment des Pupillen Collegiums aufs reinen\ngebracht ist.\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten – es fehlt ihm aber der Contract und eine voll\nmacht – den Contract hat Rochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.",
+   "reading": "145\n\nDurchlauchtigster Fürst\n\nGnädigster Herr!\n\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich, obwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an gelangt. Der gröste Verlust ist die Zeit, die ich zur reparien meines Wagens bedarf, um damit weiter reisen zu können Der Hoffrath Grimm liegt miserable krank; indes wird er dem v. Radzinski verarbeiten, wozu aber die Contracte erfordert würden.\n\nMit dem Honrichs sieht es übel aus - der Mensch zahlt die 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Consentiment des Pupillen Collegiums aufs reinen gebracht ist.\n\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an halten – es fehlt ihm aber der Contract und eine voll macht – den Contract hat Rochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt.",
    "paragraphs": [
+    "145",
     "Durchlauchtigster Fürst",
     "Gnädigster Herr!",
-    "Nachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich, obwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an gelangt. Der gröste Verlust ist die Zeit, die ich zur reparien meines Wagens bedarf, um damit weiter reisen zu können Der Hoffrath Grimm liegt miserable kram; jedes wird er dem v. Radzinski verarbeiten, wozu aber die Contracte erfordert würden.",
-    "Mit dem Honrichs sieht es übel aus - der Mensch zahlt die 4000 Rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Confentiment des kopillen Collegiums aufs reinen gebracht ist.",
-    "Der Grimm will ihm sofort gerichtlich zur Zahlung an halten – es fehlt ihm aber der Contract und eine voll macht – den Contract hat Nochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt."
+    "Nachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich, obwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an gelangt. Der gröste Verlust ist die Zeit, die ich zur reparien meines Wagens bedarf, um damit weiter reisen zu können Der Hoffrath Grimm liegt miserable krank; indes wird er dem v. Radzinski verarbeiten, wozu aber die Contracte erfordert würden.",
+    "Mit dem Honrichs sieht es übel aus - der Mensch zahlt die 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Consentiment des Pupillen Collegiums aufs reinen gebracht ist.",
+    "Der p Grimm will ihm sofort gerichtlich zur Zahlung an halten – es fehlt ihm aber der Contract und eine voll macht – den Contract hat Rochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt."
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 18
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 10521,
-   "line_end": 10536,
+   "page_id": "0283_a1",
+   "line_start": 10526,
+   "line_end": 10541,
    "n_lines": 16,
-   "diplomatic": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er¬\nteilen, daß der Contract auf das eiligste von Köckritz ab¬\ngefordert und mittelst Vollmacht an H. Grimm abgeschickt\nwerde. In Trąbczin höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin erkan¬\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
-   "transcription": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er-\nteilen, daß der Contract auf das eiligste von Köckritz ab-\ngefordert und mittelst Vollmacht an H. Grimm abgeschickt\nwerde. In Trąbczin höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin erkan\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
-   "reading": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu erteilen, daß der Contract auf das eiligste von Köckritz abgefordert und mittelst Vollmacht an H. Grimm abgeschickt werde. In Trąbczin höhre ich giebt man andere Befehle die meinen Plan gerade entgegen sind. So hat einer von den Befehls habern 100 Scheffel Korn an jemand geborgt wo Ewr Durchlaucht nie einen denen erhalten, auch hat man einen großen Theil der Äcker besaet Ich werde sobald mein Wagen Mobil ist, dahin erkan um den Ewr Durchlaucht das weitere melden. Ehrfurchtsvoll ersterbe\n\nEwr hochfürstliche Durchlaucht\n\nKalisz den 14ten Novbr\n\n1804.\n\nunterthäniger Diener\n\nv Triebenfeld",
+   "diplomatic": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er¬\nteilen, daß der Contract auf das eiligste von Rochlitz ab¬\ngefordert und mittelst Vollmacht an H. p Grimm abgeschickt\nwerde. In Trąbczyn höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel[?] Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin eilen\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
+   "transcription": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er-\nteilen, daß der Contract auf das eiligste von Rochlitz ab-\ngefordert und mittelst Vollmacht an H. p Grimm abgeschickt\nwerde. In Trąbczyn höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel[?] Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin eilen\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
+   "reading": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu erteilen, daß der Contract auf das eiligste von Rochlitz abgefordert und mittelst Vollmacht an H. p Grimm abgeschickt werde. In Trąbczyn höhre ich giebt man andere Befehle die meinen Plan gerade entgegen sind. So hat einer von den Befehls habern 100 Scheffel[?] Korn an jemand geborgt wo Ewr Durchlaucht nie einen denen erhalten, auch hat man einen großen Theil der Äcker besaet Ich werde sobald mein Wagen Mobil ist, dahin eilen um den Ewr Durchlaucht das weitere melden. Ehrfurchtsvoll ersterbe\n\nEwr hochfürstliche Durchlaucht\n\nKalisz den 14ten Novbr\n\n1804.\n\nunterthäniger Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu erteilen, daß der Contract auf das eiligste von Köckritz abgefordert und mittelst Vollmacht an H. Grimm abgeschickt werde. In Trąbczin höhre ich giebt man andere Befehle die meinen Plan gerade entgegen sind. So hat einer von den Befehls habern 100 Scheffel Korn an jemand geborgt wo Ewr Durchlaucht nie einen denen erhalten, auch hat man einen großen Theil der Äcker besaet Ich werde sobald mein Wagen Mobil ist, dahin erkan um den Ewr Durchlaucht das weitere melden. Ehrfurchtsvoll ersterbe",
+    "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu erteilen, daß der Contract auf das eiligste von Rochlitz abgefordert und mittelst Vollmacht an H. p Grimm abgeschickt werde. In Trąbczyn höhre ich giebt man andere Befehle die meinen Plan gerade entgegen sind. So hat einer von den Befehls habern 100 Scheffel[?] Korn an jemand geborgt wo Ewr Durchlaucht nie einen denen erhalten, auch hat man einen großen Theil der Äcker besaet Ich werde sobald mein Wagen Mobil ist, dahin eilen um den Ewr Durchlaucht das weitere melden. Ehrfurchtsvoll ersterbe",
     "Ewr hochfürstliche Durchlaucht",
     "Kalisz den 14ten Novbr",
     "1804.",
@@ -75,8 +79,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "doc_line_start": 18,
-   "doc_line_end": 33
+   "doc_line_start": 19,
+   "doc_line_end": 34
   }
  ],
  "mentions": [
@@ -86,10 +90,10 @@
    "kind": "person",
    "surface": "Grimm",
    "page": 1,
-   "page_id": "",
+   "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10509,
-   "doc_line": 7
+   "line": 10514,
+   "doc_line": 8
   },
   {
    "entity": "radzinski",
@@ -97,10 +101,10 @@
    "kind": "person",
    "surface": "Radzinski",
    "page": 1,
-   "page_id": "",
+   "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10510,
-   "doc_line": 8
+   "line": 10515,
+   "doc_line": 9
   },
   {
    "entity": "honrichs",
@@ -108,10 +112,10 @@
    "kind": "person",
    "surface": "Honrichs",
    "page": 1,
-   "page_id": "",
+   "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10512,
-   "doc_line": 10
+   "line": 10517,
+   "doc_line": 11
   },
   {
    "entity": "grimm",
@@ -119,21 +123,32 @@
    "kind": "person",
    "surface": "Grimm",
    "page": 1,
-   "page_id": "",
+   "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10516,
-   "doc_line": 14
+   "line": 10521,
+   "doc_line": 15
   },
   {
-   "entity": "koeckritz",
-   "display": "Köckritz",
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
    "kind": "person",
-   "surface": "Köckritz",
+   "surface": "Rochlitz",
+   "page": 1,
+   "page_id": "0282_a",
+   "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
+   "line": 10523,
+   "doc_line": 17
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface": "Rochlitz",
    "page": 2,
-   "page_id": "",
+   "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10522,
-   "doc_line": 19
+   "line": 10527,
+   "doc_line": 20
   },
   {
    "entity": "grimm",
@@ -141,10 +156,10 @@
    "kind": "person",
    "surface": "Grimm",
    "page": 2,
-   "page_id": "",
+   "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10523,
-   "doc_line": 20
+   "line": 10528,
+   "doc_line": 21
   },
   {
    "entity": "triebenfeld",
@@ -152,102 +167,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10536,
-   "doc_line": 33
+   "line": 10541,
+   "doc_line": 34
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisz",
-   "surface_en": "Kalisz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Grimm, Court Councillor",
-   "kind": "person",
-   "surface_de": "Hoffrath Grimm",
-   "surface_en": "Grimm, Court Councillor",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Radzinski",
-   "kind": "person",
-   "surface_de": "v. Radzinski",
-   "surface_en": "von Radzinski",
-   "page": 1
-  },
-  {
-   "entity": "honrichs",
-   "display": "Honrichs",
-   "kind": "person",
-   "surface_de": "Honrichs",
-   "surface_en": "Honrichs",
-   "page": 1
-  },
-  {
-   "entity": "grimm",
-   "display": "Grimm",
-   "kind": "person",
-   "surface_de": "Grimm",
-   "surface_en": "Grimm",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Nochlitz",
-   "kind": "person",
-   "surface_de": "Nochlitz",
-   "surface_en": "Nochlitz",
-   "page": 1
-  },
-  {
-   "entity": "koeckritz",
-   "display": "Köckritz",
-   "kind": "person",
-   "surface_de": "Köckritz",
-   "surface_en": "Köckritz",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Mr. Grimm",
-   "kind": "person",
-   "surface_de": "H. Grimm",
-   "surface_en": "Mr. Grimm",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczin",
-   "surface_en": "Trąbczyn",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalisz",
-   "surface_en": "Kalisz",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Kalisz",
  "place_mentions": [
   {
@@ -256,21 +182,21 @@
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
-   "page_id": "",
+   "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10506,
-   "doc_line": 4
+   "line": 10511,
+   "doc_line": 5
   },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczin",
+   "surface": "Trąbczyn",
    "page": 2,
-   "page_id": "",
+   "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10524,
-   "doc_line": 21
+   "line": 10529,
+   "doc_line": 22
   },
   {
    "entity": "kalisz",
@@ -278,91 +204,15 @@
    "kind": "place",
    "surface": "Kalisz",
    "page": 2,
-   "page_id": "",
+   "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10533,
-   "doc_line": 30
+   "line": 10538,
+   "doc_line": 31
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nAfter I had broken the carriage and very nearly my neck along with it, I have nevertheless arrived here in Kalisz safe and sound, though somewhat battered. The greatest loss is the time I require for the repair of my carriage, so as to be able to travel onward with it. Court Councillor Grimm is lying miserably ill; every [thing] he will work up for von Radzinski, for which, however, the contracts would be required.\n\nWith Honrichs matters look bad — the man does not pay the 4000 Rthl, notwithstanding that everything has been receipted, cancelled and set in order with the consent of the [uncertain: kopillen] College.\n\nGrimm means to hold him to payment by legal process at once — but he lacks the contract and a power of attorney — the contract is with Nochlitz, and the same man has also had a power of attorney for the prosecution of this affair.",
-   "names": [
-    {
-     "de": "Kalisz",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "Hoffrath Grimm",
-     "en": "Grimm, Court Councillor",
-     "kind": "person"
-    },
-    {
-     "de": "v. Radzinski",
-     "en": "von Radzinski",
-     "kind": "person"
-    },
-    {
-     "de": "Honrichs",
-     "en": "Honrichs",
-     "kind": "person"
-    },
-    {
-     "de": "Grimm",
-     "en": "Grimm",
-     "kind": "person"
-    },
-    {
-     "de": "Nochlitz",
-     "en": "Nochlitz",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "4000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "May it please Your Most Serene Highness to issue the command that the contract be demanded back from Köckritz with the utmost haste and sent off to Mr. Grimm together with a power of attorney. In Trąbczyn, I hear, other orders are being given which run directly counter to my plan. Thus one of the persons in command has lent out 100 bushels of grain to someone from whom Your Serene Highness will never receive any of it back, and a great part of the fields has also been sown. As soon as my carriage is mobile I shall [uncertain: set out] thither, in order to report the further particulars to Your Serene Highness. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKalisz, the 14th of November\n\n1804.\n\nhumble and obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Köckritz",
-     "en": "Köckritz",
-     "kind": "person"
-    },
-    {
-     "de": "H. Grimm",
-     "en": "Mr. Grimm",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczin",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Kalisz",
-     "en": "Kalisz",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "100",
-    "14ten",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nAfter I had broken the carriage and very nearly my neck along with it, I have nevertheless arrived here in Kalisz safe and sound, though somewhat battered. The greatest loss is the time I require for the repair of my carriage, so as to be able to travel onward with it. Court Councillor Grimm is lying miserably ill; every [thing] he will work up for von Radzinski, for which, however, the contracts would be required.\n\nWith Honrichs matters look bad — the man does not pay the 4000 Rthl, notwithstanding that everything has been receipted, cancelled and set in order with the consent of the [uncertain: kopillen] College.\n\nGrimm means to hold him to payment by legal process at once — but he lacks the contract and a power of attorney — the contract is with Nochlitz, and the same man has also had a power of attorney for the prosecution of this affair.\n\nMay it please Your Most Serene Highness to issue the command that the contract be demanded back from Köckritz with the utmost haste and sent off to Mr. Grimm together with a power of attorney. In Trąbczyn, I hear, other orders are being given which run directly counter to my plan. Thus one of the persons in command has lent out 100 bushels of grain to someone from whom Your Serene Highness will never receive any of it back, and a great part of the fields has also been sown. As soon as my carriage is mobile I shall [uncertain: set out] thither, in order to report the further particulars to Your Serene Highness. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKalisz, the 14th of November\n\n1804.\n\nhumble and obedient servant\n\nv. Triebenfeld",
- "summary_en": "Reports a carriage accident on the road, which has stranded the writer in Kalisz while repairs are made. Court Councillor Grimm is seriously ill but will prepare work for von Radzinski if the contracts can be supplied. Honrichs is refusing to pay 4,000 Rthl despite the receipts being settled; Grimm wants to sue at once but lacks the contract, held by Nochlitz, and a power of attorney. Asks that the contract be recovered from Köckritz urgently. Complains that orders at Trąbczyn contradict his plan, 100 bushels of grain having been lent out irrecoverably.",
- "summary_de": "Bericht über einen Wagenbruch auf der Reise und den dadurch verzögerten Weiterweg sowie die Bitte, den bei Köckritz liegenden Vertrag umgehend zurückzufordern und mit einer Vollmacht an den erkrankten Hofrat Grimm zu senden: Honrichs zahlt die 4000 Rthl nicht, obwohl alles quittiert und geordnet ist, und Grimm will ihn sofort gerichtlich belangen. Dazu Klage über eigenmächtige Anordnungen in Trąbczyn, wo 100 Scheffel Getreide verliehen wurden."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

@@ -830,6 +830,17 @@
    "doc_line": 213
   },
   {
+   "entity": "bornstaedt",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface": "Bornstaedt",
+   "page": 8,
+   "page_id": "0127_a1",
+   "scan": "Oe_1_Bu_14526_0127_a1-L19_08.jpg",
+   "line": 6525,
+   "doc_line": 213
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -2140,6 +2151,17 @@
  "place_canonical": "Betsche",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 1,
+   "page_id": "0123_b",
+   "scan": "Oe_1_Bu_14526_0123_b-L19_01.jpg",
+   "line": 6307,
+   "doc_line": 2
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -2149,6 +2171,17 @@
    "scan": "Oe_1_Bu_14526_0123_b-L19_01.jpg",
    "line": 6308,
    "doc_line": 3
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0123_b",
+   "scan": "Oe_1_Bu_14526_0123_b-L19_01.jpg",
+   "line": 6312,
+   "doc_line": 7
   },
   {
    "entity": "betsche",
@@ -2237,6 +2270,28 @@
    "scan": "Oe_1_Bu_14526_0123_b-L19_01.jpg",
    "line": 6327,
    "doc_line": 22
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 1,
+   "page_id": "0123_b",
+   "scan": "Oe_1_Bu_14526_0123_b-L19_01.jpg",
+   "line": 6329,
+   "doc_line": 24
+  },
+  {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 1,
+   "page_id": "0123_b",
+   "scan": "Oe_1_Bu_14526_0123_b-L19_01.jpg",
+   "line": 6333,
+   "doc_line": 28
   },
   {
    "entity": "kontop",
@@ -2338,6 +2393,17 @@
    "doc_line": 38
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0124_a1",
+   "scan": "Oe_1_Bu_14526_0124_a1-L19_02.jpg",
+   "line": 6347,
+   "doc_line": 41
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -2437,6 +2503,17 @@
    "doc_line": 65
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0124_a2",
+   "scan": "Oe_1_Bu_14526_0124_a2-L19_03.jpg",
+   "line": 6384,
+   "doc_line": 77
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -2452,6 +2529,17 @@
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 3,
+   "page_id": "0124_a2",
+   "scan": "Oe_1_Bu_14526_0124_a2-L19_03.jpg",
+   "line": 6387,
+   "doc_line": 80
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
    "page": 3,
    "page_id": "0124_a2",
    "scan": "Oe_1_Bu_14526_0124_a2-L19_03.jpg",
@@ -2591,6 +2679,17 @@
    "doc_line": 136
   },
   {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 5,
+   "page_id": "0125_a2",
+   "scan": "Oe_1_Bu_14526_0125_a2-L19_05.jpg",
+   "line": 6447,
+   "doc_line": 138
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -2602,15 +2701,37 @@
    "doc_line": 145
   },
   {
-   "entity": "wien",
-   "display": "Wien",
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
    "kind": "place",
-   "surface": "Wein",
+   "surface": "Frankfurth",
    "page": 6,
    "page_id": "0126_a1",
    "scan": "Oe_1_Bu_14526_0126_a1-L19_06.jpg",
-   "line": 6475,
-   "doc_line": 165
+   "line": 6460,
+   "doc_line": 150
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 6,
+   "page_id": "0126_a1",
+   "scan": "Oe_1_Bu_14526_0126_a1-L19_06.jpg",
+   "line": 6471,
+   "doc_line": 161
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 7,
+   "page_id": "0126_a2",
+   "scan": "Oe_1_Bu_14526_0126_a2-L19_07.jpg",
+   "line": 6487,
+   "doc_line": 176
   },
   {
    "entity": "breslau",
@@ -2633,6 +2754,17 @@
    "scan": "Oe_1_Bu_14526_0126_a2-L19_07.jpg",
    "line": 6510,
    "doc_line": 199
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 9,
+   "page_id": "0127_a2",
+   "scan": "Oe_1_Bu_14526_0127_a2-L19_09.jpg",
+   "line": 6562,
+   "doc_line": 249
   },
   {
    "entity": "betsche",
@@ -2690,15 +2822,15 @@
    "doc_line": 320
   },
   {
-   "entity": "wien",
-   "display": "Wien",
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
    "kind": "place",
-   "surface": "Wein",
+   "surface": "Ingelfingen",
    "page": 14,
    "page_id": "0130_a1",
    "scan": "Oe_1_Bu_14526_0130_a1-L19_14.jpg",
-   "line": 6685,
-   "doc_line": 367
+   "line": 6678,
+   "doc_line": 360
   },
   {
    "entity": "breslau",
@@ -2716,11 +2848,44 @@
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 15,
+   "page_id": "0130_a2",
+   "scan": "Oe_1_Bu_14526_0130_a2-L19_15.jpg",
+   "line": 6706,
+   "doc_line": 387
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingischen",
+   "page": 17,
+   "page_id": "0131_a2",
+   "scan": "Oe_1_Bu_14526_0131_a2-L19_17.jpg",
+   "line": 6748,
+   "doc_line": 427
+  },
+  {
+   "entity": "betsche",
+   "display": "Betsche",
+   "kind": "place",
+   "surface": "Betsche",
    "page": 17,
    "page_id": "0131_a2",
    "scan": "Oe_1_Bu_14526_0131_a2-L19_17.jpg",
    "line": 6758,
    "doc_line": 437
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensche",
+   "page": 17,
+   "page_id": "0131_a2",
+   "scan": "Oe_1_Bu_14526_0131_a2-L19_17.jpg",
+   "line": 6760,
+   "doc_line": 439
   },
   {
    "entity": "kuligowo",
@@ -2815,6 +2980,17 @@
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 19,
+   "page_id": "0132_a2",
+   "scan": "Oe_1_Bu_14526_0132_a2-L19_19.jpg",
+   "line": 6804,
+   "doc_line": 481
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingensches",
    "page": 19,
    "page_id": "0132_a2",
    "scan": "Oe_1_Bu_14526_0132_a2-L19_19.jpg",

@@ -57,7 +57,7 @@ SIGNS = [
     (r'\bStubenrauch\b', 'Stubenrauch'),
     (r'\bGlenck\b', 'Glenck'),
     (r'\bBeyme?\b', 'Beyme'),
-    (r'\bBequelin\b|\bBeugelin\b', 'Beugelin'),
+    (r'\bBe[gq]uelin\b|\bBeugelin\b', 'Beguelin'),
     (r'\bGruemann\b', 'Gruemann[?]'),
     (r'\bGrewen', 'Grewen[z?]'),
     (r'\bHecker\b.*\bHonrichs\b|\bHonrichs\b.*\bHecker\b', 'Hecker and Honrichs'),

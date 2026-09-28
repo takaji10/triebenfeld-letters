@@ -345,6 +345,17 @@
    "doc_line": 191
   },
   {
+   "entity": "danckelmann",
+   "display": "Danckelmann",
+   "kind": "person",
+   "surface": "Danckelmann",
+   "page": 9,
+   "page_id": "0022_a2",
+   "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
+   "line": 867,
+   "doc_line": 200
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -1166,7 +1177,7 @@
    "page": 9
   },
   {
-   "entity": "",
+   "entity": "danckelmann",
    "display": "Danckelmann",
    "kind": "person",
    "surface_de": "Danckelmann",
@@ -1241,6 +1252,105 @@
  "place_canonical": "Breslau",
  "place_mentions": [
   {
+   "entity": "schlesien",
+   "display": "Schlesien",
+   "kind": "place",
+   "surface": "Schlesien",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 665,
+   "doc_line": 6
+  },
+  {
+   "entity": "neuchatel",
+   "display": "Neuchâtel",
+   "kind": "place",
+   "surface": "Neufchatel",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 666,
+   "doc_line": 7
+  },
+  {
+   "entity": "glatz",
+   "display": "Glatz (Kłodzko)",
+   "kind": "place",
+   "surface": "Glatz",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 667,
+   "doc_line": 8
+  },
+  {
+   "entity": "magdeburg",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface": "Magdeburg",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 667,
+   "doc_line": 8
+  },
+  {
+   "entity": "pommern",
+   "display": "Pommern",
+   "kind": "place",
+   "surface": "Pommern",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 668,
+   "doc_line": 9
+  },
+  {
+   "entity": "stettin",
+   "display": "Stettin",
+   "kind": "place",
+   "surface": "Stettin",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 668,
+   "doc_line": 9
+  },
+  {
+   "entity": "mecklenburg",
+   "display": "Mecklenburg",
+   "kind": "place",
+   "surface": "Mecklenburg",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 669,
+   "doc_line": 10
+  },
+  {
+   "entity": "crossen",
+   "display": "Crossen (Krosno Odrzańskie)",
+   "kind": "place",
+   "surface": "Crossen",
+   "page": 1,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+   "line": 670,
+   "doc_line": 11
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 2,
+   "page_id": "0019_a1",
+   "scan": "Oe_1_Bu_14525_0019_a1-L7_02.jpg",
+   "line": 688,
+   "doc_line": 28
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
@@ -1278,6 +1388,17 @@
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 2,
+   "page_id": "0019_a1",
+   "scan": "Oe_1_Bu_14525_0019_a1-L7_02.jpg",
+   "line": 702,
+   "doc_line": 42
+  },
+  {
+   "entity": "stolun",
+   "display": "Stołuń",
+   "kind": "place",
+   "surface": "Stołuń",
    "page": 2,
    "page_id": "0019_a1",
    "scan": "Oe_1_Bu_14525_0019_a1-L7_02.jpg",
@@ -1351,6 +1472,17 @@
    "doc_line": 47
   },
   {
+   "entity": "batkowo",
+   "display": "Batkowo",
+   "kind": "place",
+   "surface": "Botkowo",
+   "page": 3,
+   "page_id": "0019_a2",
+   "scan": "Oe_1_Bu_14525_0019_a2-L7_03.jpg",
+   "line": 710,
+   "doc_line": 49
+  },
+  {
    "entity": "konty",
    "display": "Konty",
    "kind": "place",
@@ -1382,6 +1514,17 @@
    "scan": "Oe_1_Bu_14525_0019_a2-L7_03.jpg",
    "line": 711,
    "doc_line": 50
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 3,
+   "page_id": "0019_a2",
+   "scan": "Oe_1_Bu_14525_0019_a2-L7_03.jpg",
+   "line": 730,
+   "doc_line": 69
   },
   {
    "entity": "betsche",
@@ -1417,10 +1560,32 @@
    "doc_line": 71
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 5,
+   "page_id": "0020_a2",
+   "scan": "Oe_1_Bu_14525_0020_a2-L7_05.jpg",
+   "line": 762,
+   "doc_line": 99
+  },
+  {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
    "surface": "Betsche",
+   "page": 5,
+   "page_id": "0020_a2",
+   "scan": "Oe_1_Bu_14525_0020_a2-L7_05.jpg",
+   "line": 765,
+   "doc_line": 102
+  },
+  {
+   "entity": "zagorowo",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface": "Zagórów",
    "page": 5,
    "page_id": "0020_a2",
    "scan": "Oe_1_Bu_14525_0020_a2-L7_05.jpg",
@@ -1448,6 +1613,17 @@
    "scan": "Oe_1_Bu_14525_0021_a1-L7_06.jpg",
    "line": 787,
    "doc_line": 123
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 6,
+   "page_id": "0021_a1",
+   "scan": "Oe_1_Bu_14525_0021_a1-L7_06.jpg",
+   "line": 797,
+   "doc_line": 133
   },
   {
    "entity": "betsche",
@@ -1483,6 +1659,17 @@
    "doc_line": 137
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 7,
+   "page_id": "0021_a2",
+   "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
+   "line": 808,
+   "doc_line": 143
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
@@ -1503,6 +1690,17 @@
    "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
    "line": 816,
    "doc_line": 151
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 7,
+   "page_id": "0021_a2",
+   "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
+   "line": 818,
+   "doc_line": 153
   },
   {
    "entity": "konin",
@@ -1527,6 +1725,17 @@
    "doc_line": 158
   },
   {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Süd-Preußen",
+   "page": 7,
+   "page_id": "0021_a2",
+   "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
+   "line": 827,
+   "doc_line": 162
+  },
+  {
    "entity": "konin",
    "display": "Konin",
    "kind": "place",
@@ -1547,6 +1756,17 @@
    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
    "line": 831,
    "doc_line": 165
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 8,
+   "page_id": "0022_a1",
+   "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
+   "line": 833,
+   "doc_line": 167
   },
   {
    "entity": "berlin",
@@ -1571,6 +1791,17 @@
    "doc_line": 188
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 9,
+   "page_id": "0022_a2",
+   "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
+   "line": 858,
+   "doc_line": 191
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
@@ -1580,6 +1811,17 @@
    "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
    "line": 865,
    "doc_line": 198
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 9,
+   "page_id": "0022_a2",
+   "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
+   "line": 876,
+   "doc_line": 209
   },
   {
    "entity": "konin",

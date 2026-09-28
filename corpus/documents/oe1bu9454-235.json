@@ -1,6 +1,6 @@
 {
  "letter_id": "235",
- "seq_archival": 248,
+ "seq_archival": 245,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-235",
@@ -18,52 +18,57 @@
  "month": 7,
  "day": 18,
  "place": "Blizanow",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 17164,
- "line_end": 17206,
+ "sender": "",
+ "recipient": "",
+ "line_start": 17106,
+ "line_end": 17149,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "zagorowo",
+  "koschentin"
+ ],
  "is_missing": 0,
- "n_lines": 42,
+ "n_lines": 41,
  "n_pages": 2,
- "text": "durchlauchtigſter Fürſt\nGnädigster Fürst und Herr!\nMein Bothe ist 2 Tage aufgehalten und komt da\ner ein Schöps ist heut zurück. Ich ſchicke das\nDemme Thier nun auf einen Andern Weg, und melde\nEwr Durchlaucht daß der alte Weigel schon heut\nhier bey mir angelangt ist. Er hat nicht nur den\nbesten Willen den Pacht Contract zu schließen,\nsondern er hat mir eröffnet daß er nach meinem\nRath nicht abgeneigt sey die Zagorower Güter\nzu kaufen. Er nimmt die Schulden an und\nzahlt noch 200000 Rthl zu, diese will er auf\nKoschentia abrechnen. Hierbey aber räth er\ndie Sache verschwiegen zu halten, und Koschentin\nsubhastiren zu laßen. Er biethet den als\nCreditor und hoft es unter der Taxe zu erhalten\nwas den verlohren geht unß Stössel ver-\n\nverliehren der Ewr Durchlaucht mehr als zu\narg betrogen hätte. Er legagirt ſich einen\nRevers auszustellen, daß er Koschentin so\nWie er es erstünde Ewr Durchlaucht oder\nwenn Sie es befehlen würden abtreten wolle.\nEr glaubt daß Sie es noch unter 600000 Rthl\nerhalten würden – Nur müste kein Mensch\nahnden daß Ewr Durchlaucht oder der Fürst\nAugust Koschentin behalten wolte.\nSchreiben Ewr durchlaucht mir hierüber\nim Geheim Ihre Willensmairung, den der\nAlte Mann thut was ich ihm räthe.\ndie Papiere geruhen Ewr Durchlaucht\nnur auf das eiligste zu ſchicken, den ich weiß\nmich keinen Rath um die Kosten zu bestreiten\ndes Instrument muß aber so gestelt sein\nwie ichs vorgeschrieben habe ſonst muß es nichts\nEhrfurchtsvoll verharre\nEwr Durchlaucht\nBlizanow\nd 18ten July 1812\nunterthänigſter\nv Triebenfeld",
- "text_reading": "durchlauchtigſter Fürſt\n\nGnädigster Fürst und Herr!\n\nMein Bothe ist 2 Tage aufgehalten und komt da er ein Schöps ist heut zurück. Ich ſchicke das Demme Thier nun auf einen Andern Weg, und melde Ewr Durchlaucht daß der alte Weigel schon heut hier bey mir angelangt ist. Er hat nicht nur den besten Willen den Pacht Contract zu schließen, sondern er hat mir eröffnet daß er nach meinem Rath nicht abgeneigt sey die Zagorower Güter zu kaufen. Er nimmt die Schulden an und zahlt noch 200000 Rthl zu, diese will er auf Koschentia abrechnen. Hierbey aber räth er die Sache verschwiegen zu halten, und Koschentin subhastiren zu laßen. Er biethet den als Creditor und hoft es unter der Taxe zu erhalten was den verlohren geht unß Stössel\n\nverliehren der Ewr Durchlaucht mehr als zu arg betrogen hätte. Er legagirt ſich einen Revers auszustellen, daß er Koschentin so Wie er es erstünde Ewr Durchlaucht oder wenn Sie es befehlen würden abtreten wolle. Er glaubt daß Sie es noch unter 600000 Rthl erhalten würden – Nur müste kein Mensch ahnden daß Ewr Durchlaucht oder der Fürst August Koschentin behalten wolte. Schreiben Ewr durchlaucht mir hierüber im Geheim Ihre Willensmairung, den der Alte Mann thut was ich ihm räthe. die Papiere geruhen Ewr Durchlaucht nur auf das eiligste zu ſchicken, den ich weiß mich keinen Rath um die Kosten zu bestreiten des Instrument muß aber so gestelt sein wie ichs vorgeschrieben habe ſonst muß es nichts Ehrfurchtsvoll verharre\n\nEwr Durchlaucht\n\nBlizanow\n\nd 18ten July 1812\n\nunterthänigſter\n\nv Triebenfeld",
+ "text": "235\nDurchlauchtigſter Fürſt\nGnädigster Fürst und Herr!\nMein Bothe ist 2 Tage aufgehalten und komt da\ner ein Schöps ist heut zurück. Ich ſchicke das\nDumme Thier nun auf einen Andern Weg, und melde\nEwr Durchlaucht daß der alte Weigel schon heut\nhier bey mir angelangt ist. Er hat nicht nur den\nbesten Willen den Pacht Contract zu schließen,\nsondern er hat mir eröffnet daß er nach meinem\nRath nicht abgeneigt sey die Zagorower Güter\nzu kaufen. Er nimmt die Schulden an und\nzahlt noch 200000 rth zu, diese will er auf\nKoschentin abrechnen. Hierbey aber räth er\ndie Sache verschwiegen zu halten, und Koschentin\nsubhastiren zu laßen. Er biethet den als\nCreditor und hoft es unter der Taxe zu erhalten\nwas den verlohren geht unß Stoesel ver¬\nverliehren der Ewr Durchlaucht mehr alt zu\narg betrogen hätte. Er legagirt ſich können\nRevers auszustellen, daß er Koschentin so\nWie er es erstünde Ewr Durchlaucht oder\nwenn Sie es befehlen würden abtreten wolle.\nEr glaubt daß Sie es noch unter 600000 rt\nerhalten würden – Nur müste kein Mensch\nahnden daß Ewr Durchlaucht oder der Fürst\nAugust Koschentin behalten wolte.\nSchreiben Ewr durchlaucht mir hierüber\nim Geheim Ihre Willensmeinung, den der\nAlte Mann thut was ich ihm räthe.\ndie Papiere geruhen Ewr Durchlaucht\nnur auf das eiligste zu ſchicken, den ich weiß\nmich keinen Rath um die Kosten zu bestreiten\ndes Instrument muß aber so gestelt sein\nwie ichs vorgeschrieben habe ſonst muß es nichts\nEhrfurchtsvoll verharre\nEwr Durchlaucht\nBlizanow\nd 18ten July 1812\nunterthänigſter\nv Triebenfeld",
+ "text_reading": "235\n\nDurchlauchtigſter Fürſt\n\nGnädigster Fürst und Herr!\n\nMein Bothe ist 2 Tage aufgehalten und komt da er ein Schöps ist heut zurück. Ich ſchicke das Dumme Thier nun auf einen Andern Weg, und melde Ewr Durchlaucht daß der alte Weigel schon heut hier bey mir angelangt ist. Er hat nicht nur den besten Willen den Pacht Contract zu schließen, sondern er hat mir eröffnet daß er nach meinem Rath nicht abgeneigt sey die Zagorower Güter zu kaufen. Er nimmt die Schulden an und zahlt noch 200000 rth zu, diese will er auf Koschentin abrechnen. Hierbey aber räth er die Sache verschwiegen zu halten, und Koschentin subhastiren zu laßen. Er biethet den als Creditor und hoft es unter der Taxe zu erhalten was den verlohren geht unß Stoesel\n\nverliehren der Ewr Durchlaucht mehr alt zu arg betrogen hätte. Er legagirt ſich können Revers auszustellen, daß er Koschentin so Wie er es erstünde Ewr Durchlaucht oder wenn Sie es befehlen würden abtreten wolle. Er glaubt daß Sie es noch unter 600000 rt erhalten würden – Nur müste kein Mensch ahnden daß Ewr Durchlaucht oder der Fürst August Koschentin behalten wolte. Schreiben Ewr durchlaucht mir hierüber im Geheim Ihre Willensmeinung, den der Alte Mann thut was ich ihm räthe. die Papiere geruhen Ewr Durchlaucht nur auf das eiligste zu ſchicken, den ich weiß mich keinen Rath um die Kosten zu bestreiten des Instrument muß aber so gestelt sein wie ichs vorgeschrieben habe ſonst muß es nichts Ehrfurchtsvoll verharre\n\nEwr Durchlaucht\n\nBlizanow\n\nd 18ten July 1812\n\nunterthänigſter\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 17165,
-   "line_end": 17181,
-   "n_lines": 17,
-   "diplomatic": "durchlauchtigſter Fürſt\nGnädigster Fürst und Herr!\nMein Bothe ist 2 Tage aufgehalten und komt da\ner ein Schöps ist heut zurück. Ich ſchicke das\nDemme Thier nun auf einen Andern Weg, und melde\nEwr Durchlaucht daß der alte Weigel schon heut\nhier bey mir angelangt ist. Er hat nicht nur den\nbesten Willen den Pacht Contract zu schließen,\nsondern er hat mir eröffnet daß er nach meinem\nRath nicht abgeneigt sey die Zagorower Güter\nzu kaufen. Er nimmt die Schulden an und\nzahlt noch 200000 Rthl zu, diese will er auf\nKoschentia abrechnen. Hierbey aber räth er\ndie Sache verschwiegen zu halten, und Koschentin\nsubhastiren zu laßen. Er biethet den als\nCreditor und hoft es unter der Taxe zu erhalten\nwas den verlohren geht unß Stössel ver-",
-   "transcription": "durchlauchtigſter Fürſt\nGnädigster Fürst und Herr!\nMein Bothe ist 2 Tage aufgehalten und komt da\ner ein Schöps ist heut zurück. Ich ſchicke das\nDemme Thier nun auf einen Andern Weg, und melde\nEwr Durchlaucht daß der alte Weigel schon heut\nhier bey mir angelangt ist. Er hat nicht nur den\nbesten Willen den Pacht Contract zu schließen,\nsondern er hat mir eröffnet daß er nach meinem\nRath nicht abgeneigt sey die Zagorower Güter\nzu kaufen. Er nimmt die Schulden an und\nzahlt noch 200000 Rthl zu, diese will er auf\nKoschentia abrechnen. Hierbey aber räth er\ndie Sache verschwiegen zu halten, und Koschentin\nsubhastiren zu laßen. Er biethet den als\nCreditor und hoft es unter der Taxe zu erhalten\nwas den verlohren geht unß Stössel ver-",
-   "reading": "durchlauchtigſter Fürſt\n\nGnädigster Fürst und Herr!\n\nMein Bothe ist 2 Tage aufgehalten und komt da er ein Schöps ist heut zurück. Ich ſchicke das Demme Thier nun auf einen Andern Weg, und melde Ewr Durchlaucht daß der alte Weigel schon heut hier bey mir angelangt ist. Er hat nicht nur den besten Willen den Pacht Contract zu schließen, sondern er hat mir eröffnet daß er nach meinem Rath nicht abgeneigt sey die Zagorower Güter zu kaufen. Er nimmt die Schulden an und zahlt noch 200000 Rthl zu, diese will er auf Koschentia abrechnen. Hierbey aber räth er die Sache verschwiegen zu halten, und Koschentin subhastiren zu laßen. Er biethet den als Creditor und hoft es unter der Taxe zu erhalten was den verlohren geht unß Stössel",
+   "page_id": "0442_b",
+   "line_start": 17108,
+   "line_end": 17125,
+   "n_lines": 18,
+   "diplomatic": "235\nDurchlauchtigſter Fürſt\nGnädigster Fürst und Herr!\nMein Bothe ist 2 Tage aufgehalten und komt da\ner ein Schöps ist heut zurück. Ich ſchicke das\nDumme Thier nun auf einen Andern Weg, und melde\nEwr Durchlaucht daß der alte Weigel schon heut\nhier bey mir angelangt ist. Er hat nicht nur den\nbesten Willen den Pacht Contract zu schließen,\nsondern er hat mir eröffnet daß er nach meinem\nRath nicht abgeneigt sey die Zagorower Güter\nzu kaufen. Er nimmt die Schulden an und\nzahlt noch 200000 rth zu, diese will er auf\nKoschentin abrechnen. Hierbey aber räth er\ndie Sache verschwiegen zu halten, und Koschentin\nsubhastiren zu laßen. Er biethet den als\nCreditor und hoft es unter der Taxe zu erhalten\nwas den verlohren geht unß Stoesel ver¬",
+   "transcription": "235\nDurchlauchtigſter Fürſt\nGnädigster Fürst und Herr!\nMein Bothe ist 2 Tage aufgehalten und komt da\ner ein Schöps ist heut zurück. Ich ſchicke das\nDumme Thier nun auf einen Andern Weg, und melde\nEwr Durchlaucht daß der alte Weigel schon heut\nhier bey mir angelangt ist. Er hat nicht nur den\nbesten Willen den Pacht Contract zu schließen,\nsondern er hat mir eröffnet daß er nach meinem\nRath nicht abgeneigt sey die Zagorower Güter\nzu kaufen. Er nimmt die Schulden an und\nzahlt noch 200000 rth zu, diese will er auf\nKoschentin abrechnen. Hierbey aber räth er\ndie Sache verschwiegen zu halten, und Koschentin\nsubhastiren zu laßen. Er biethet den als\nCreditor und hoft es unter der Taxe zu erhalten\nwas den verlohren geht unß Stoesel ver",
+   "reading": "235\n\nDurchlauchtigſter Fürſt\n\nGnädigster Fürst und Herr!\n\nMein Bothe ist 2 Tage aufgehalten und komt da er ein Schöps ist heut zurück. Ich ſchicke das Dumme Thier nun auf einen Andern Weg, und melde Ewr Durchlaucht daß der alte Weigel schon heut hier bey mir angelangt ist. Er hat nicht nur den besten Willen den Pacht Contract zu schließen, sondern er hat mir eröffnet daß er nach meinem Rath nicht abgeneigt sey die Zagorower Güter zu kaufen. Er nimmt die Schulden an und zahlt noch 200000 rth zu, diese will er auf Koschentin abrechnen. Hierbey aber räth er die Sache verschwiegen zu halten, und Koschentin subhastiren zu laßen. Er biethet den als Creditor und hoft es unter der Taxe zu erhalten was den verlohren geht unß Stoesel",
    "paragraphs": [
-    "durchlauchtigſter Fürſt",
+    "235",
+    "Durchlauchtigſter Fürſt",
     "Gnädigster Fürst und Herr!",
-    "Mein Bothe ist 2 Tage aufgehalten und komt da er ein Schöps ist heut zurück. Ich ſchicke das Demme Thier nun auf einen Andern Weg, und melde Ewr Durchlaucht daß der alte Weigel schon heut hier bey mir angelangt ist. Er hat nicht nur den besten Willen den Pacht Contract zu schließen, sondern er hat mir eröffnet daß er nach meinem Rath nicht abgeneigt sey die Zagorower Güter zu kaufen. Er nimmt die Schulden an und zahlt noch 200000 Rthl zu, diese will er auf Koschentia abrechnen. Hierbey aber räth er die Sache verschwiegen zu halten, und Koschentin subhastiren zu laßen. Er biethet den als Creditor und hoft es unter der Taxe zu erhalten was den verlohren geht unß Stössel"
+    "Mein Bothe ist 2 Tage aufgehalten und komt da er ein Schöps ist heut zurück. Ich ſchicke das Dumme Thier nun auf einen Andern Weg, und melde Ewr Durchlaucht daß der alte Weigel schon heut hier bey mir angelangt ist. Er hat nicht nur den besten Willen den Pacht Contract zu schließen, sondern er hat mir eröffnet daß er nach meinem Rath nicht abgeneigt sey die Zagorower Güter zu kaufen. Er nimmt die Schulden an und zahlt noch 200000 rth zu, diese will er auf Koschentin abrechnen. Hierbey aber räth er die Sache verschwiegen zu halten, und Koschentin subhastiren zu laßen. Er biethet den als Creditor und hoft es unter der Taxe zu erhalten was den verlohren geht unß Stoesel"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 18
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 17183,
-   "line_end": 17205,
+   "page_id": "0443_a1",
+   "line_start": 17127,
+   "line_end": 17149,
    "n_lines": 23,
-   "diplomatic": "verliehren der Ewr Durchlaucht mehr als zu\narg betrogen hätte. Er legagirt ſich einen\nRevers auszustellen, daß er Koschentin so\nWie er es erstünde Ewr Durchlaucht oder\nwenn Sie es befehlen würden abtreten wolle.\nEr glaubt daß Sie es noch unter 600000 Rthl\nerhalten würden – Nur müste kein Mensch\nahnden daß Ewr Durchlaucht oder der Fürst\nAugust Koschentin behalten wolte.\nSchreiben Ewr durchlaucht mir hierüber\nim Geheim Ihre Willensmairung, den der\nAlte Mann thut was ich ihm räthe.\ndie Papiere geruhen Ewr Durchlaucht\nnur auf das eiligste zu ſchicken, den ich weiß\nmich keinen Rath um die Kosten zu bestreiten\ndes Instrument muß aber so gestelt sein\nwie ichs vorgeschrieben habe ſonst muß es nichts\nEhrfurchtsvoll verharre\nEwr Durchlaucht\nBlizanow\nd 18ten July 1812\nunterthänigſter\nv Triebenfeld",
-   "transcription": "verliehren der Ewr Durchlaucht mehr als zu\narg betrogen hätte. Er legagirt ſich einen\nRevers auszustellen, daß er Koschentin so\nWie er es erstünde Ewr Durchlaucht oder\nwenn Sie es befehlen würden abtreten wolle.\nEr glaubt daß Sie es noch unter 600000 Rthl\nerhalten würden – Nur müste kein Mensch\nahnden daß Ewr Durchlaucht oder der Fürst\nAugust Koschentin behalten wolte.\nSchreiben Ewr durchlaucht mir hierüber\nim Geheim Ihre Willensmairung, den der\nAlte Mann thut was ich ihm räthe.\ndie Papiere geruhen Ewr Durchlaucht\nnur auf das eiligste zu ſchicken, den ich weiß\nmich keinen Rath um die Kosten zu bestreiten\ndes Instrument muß aber so gestelt sein\nwie ichs vorgeschrieben habe ſonst muß es nichts\nEhrfurchtsvoll verharre\nEwr Durchlaucht\nBlizanow\nd 18ten July 1812\nunterthänigſter\nv Triebenfeld",
-   "reading": "verliehren der Ewr Durchlaucht mehr als zu arg betrogen hätte. Er legagirt ſich einen Revers auszustellen, daß er Koschentin so Wie er es erstünde Ewr Durchlaucht oder wenn Sie es befehlen würden abtreten wolle. Er glaubt daß Sie es noch unter 600000 Rthl erhalten würden – Nur müste kein Mensch ahnden daß Ewr Durchlaucht oder der Fürst August Koschentin behalten wolte. Schreiben Ewr durchlaucht mir hierüber im Geheim Ihre Willensmairung, den der Alte Mann thut was ich ihm räthe. die Papiere geruhen Ewr Durchlaucht nur auf das eiligste zu ſchicken, den ich weiß mich keinen Rath um die Kosten zu bestreiten des Instrument muß aber so gestelt sein wie ichs vorgeschrieben habe ſonst muß es nichts Ehrfurchtsvoll verharre\n\nEwr Durchlaucht\n\nBlizanow\n\nd 18ten July 1812\n\nunterthänigſter\n\nv Triebenfeld",
+   "diplomatic": "verliehren der Ewr Durchlaucht mehr alt zu\narg betrogen hätte. Er legagirt ſich können\nRevers auszustellen, daß er Koschentin so\nWie er es erstünde Ewr Durchlaucht oder\nwenn Sie es befehlen würden abtreten wolle.\nEr glaubt daß Sie es noch unter 600000 rt\nerhalten würden – Nur müste kein Mensch\nahnden daß Ewr Durchlaucht oder der Fürst\nAugust Koschentin behalten wolte.\nSchreiben Ewr durchlaucht mir hierüber\nim Geheim Ihre Willensmeinung, den der\nAlte Mann thut was ich ihm räthe.\ndie Papiere geruhen Ewr Durchlaucht\nnur auf das eiligste zu ſchicken, den ich weiß\nmich keinen Rath um die Kosten zu bestreiten\ndes Instrument muß aber so gestelt sein\nwie ichs vorgeschrieben habe ſonst muß es nichts\nEhrfurchtsvoll verharre\nEwr Durchlaucht\nBlizanow\nd 18ten July 1812\nunterthänigſter\nv Triebenfeld",
+   "transcription": "verliehren der Ewr Durchlaucht mehr alt zu\narg betrogen hätte. Er legagirt ſich können\nRevers auszustellen, daß er Koschentin so\nWie er es erstünde Ewr Durchlaucht oder\nwenn Sie es befehlen würden abtreten wolle.\nEr glaubt daß Sie es noch unter 600000 rt\nerhalten würden – Nur müste kein Mensch\nahnden daß Ewr Durchlaucht oder der Fürst\nAugust Koschentin behalten wolte.\nSchreiben Ewr durchlaucht mir hierüber\nim Geheim Ihre Willensmeinung, den der\nAlte Mann thut was ich ihm räthe.\ndie Papiere geruhen Ewr Durchlaucht\nnur auf das eiligste zu ſchicken, den ich weiß\nmich keinen Rath um die Kosten zu bestreiten\ndes Instrument muß aber so gestelt sein\nwie ichs vorgeschrieben habe ſonst muß es nichts\nEhrfurchtsvoll verharre\nEwr Durchlaucht\nBlizanow\nd 18ten July 1812\nunterthänigſter\nv Triebenfeld",
+   "reading": "verliehren der Ewr Durchlaucht mehr alt zu arg betrogen hätte. Er legagirt ſich können Revers auszustellen, daß er Koschentin so Wie er es erstünde Ewr Durchlaucht oder wenn Sie es befehlen würden abtreten wolle. Er glaubt daß Sie es noch unter 600000 rt erhalten würden – Nur müste kein Mensch ahnden daß Ewr Durchlaucht oder der Fürst August Koschentin behalten wolte. Schreiben Ewr durchlaucht mir hierüber im Geheim Ihre Willensmeinung, den der Alte Mann thut was ich ihm räthe. die Papiere geruhen Ewr Durchlaucht nur auf das eiligste zu ſchicken, den ich weiß mich keinen Rath um die Kosten zu bestreiten des Instrument muß aber so gestelt sein wie ichs vorgeschrieben habe ſonst muß es nichts Ehrfurchtsvoll verharre\n\nEwr Durchlaucht\n\nBlizanow\n\nd 18ten July 1812\n\nunterthänigſter\n\nv Triebenfeld",
    "paragraphs": [
-    "verliehren der Ewr Durchlaucht mehr als zu arg betrogen hätte. Er legagirt ſich einen Revers auszustellen, daß er Koschentin so Wie er es erstünde Ewr Durchlaucht oder wenn Sie es befehlen würden abtreten wolle. Er glaubt daß Sie es noch unter 600000 Rthl erhalten würden – Nur müste kein Mensch ahnden daß Ewr Durchlaucht oder der Fürst August Koschentin behalten wolte. Schreiben Ewr durchlaucht mir hierüber im Geheim Ihre Willensmairung, den der Alte Mann thut was ich ihm räthe. die Papiere geruhen Ewr Durchlaucht nur auf das eiligste zu ſchicken, den ich weiß mich keinen Rath um die Kosten zu bestreiten des Instrument muß aber so gestelt sein wie ichs vorgeschrieben habe ſonst muß es nichts Ehrfurchtsvoll verharre",
+    "verliehren der Ewr Durchlaucht mehr alt zu arg betrogen hätte. Er legagirt ſich können Revers auszustellen, daß er Koschentin so Wie er es erstünde Ewr Durchlaucht oder wenn Sie es befehlen würden abtreten wolle. Er glaubt daß Sie es noch unter 600000 rt erhalten würden – Nur müste kein Mensch ahnden daß Ewr Durchlaucht oder der Fürst August Koschentin behalten wolte. Schreiben Ewr durchlaucht mir hierüber im Geheim Ihre Willensmeinung, den der Alte Mann thut was ich ihm räthe. die Papiere geruhen Ewr Durchlaucht nur auf das eiligste zu ſchicken, den ich weiß mich keinen Rath um die Kosten zu bestreiten des Instrument muß aber so gestelt sein wie ichs vorgeschrieben habe ſonst muß es nichts Ehrfurchtsvoll verharre",
     "Ewr Durchlaucht",
     "Blizanow",
     "d 18ten July 1812",
@@ -73,8 +78,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0443_a1-L235_02.jpg",
-   "doc_line_start": 18,
-   "doc_line_end": 40
+   "doc_line_start": 19,
+   "doc_line_end": 41
   }
  ],
  "mentions": [
@@ -84,21 +89,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0442_b",
    "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
-   "line": 17170,
-   "doc_line": 6
-  },
-  {
-   "entity": "stoessel",
-   "display": "Stössel",
-   "kind": "person",
-   "surface": "Stössel",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
-   "line": 17181,
-   "doc_line": 17
+   "line": 17114,
+   "doc_line": 7
   },
   {
    "entity": "august",
@@ -106,10 +100,10 @@
    "kind": "person",
    "surface": "August",
    "page": 2,
-   "page_id": "",
+   "page_id": "0443_a1",
    "scan": "Oe_1_Bu_9454_0443_a1-L235_02.jpg",
-   "line": 17191,
-   "doc_line": 26
+   "line": 17135,
+   "doc_line": 27
   },
   {
    "entity": "triebenfeld",
@@ -117,94 +111,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0443_a1",
    "scan": "Oe_1_Bu_9454_0443_a1-L235_02.jpg",
-   "line": 17205,
-   "doc_line": 40
+   "line": 17149,
+   "doc_line": 41
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Demme",
-   "kind": "person",
-   "surface_de": "Demme",
-   "surface_en": "Demme",
-   "page": 1
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Zagórów",
-   "kind": "place",
-   "surface_de": "Zagorower",
-   "surface_en": "Zagórów",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Koschentia",
-   "kind": "place",
-   "surface_de": "Koschentia",
-   "surface_en": "Koschentia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Koschentin",
-   "kind": "place",
-   "surface_de": "Koschentin",
-   "surface_en": "Koschentin",
-   "page": 1
-  },
-  {
-   "entity": "stoessel",
-   "display": "Stössel",
-   "kind": "person",
-   "surface_de": "Stössel",
-   "surface_en": "Stössel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Koschentin",
-   "kind": "place",
-   "surface_de": "Koschentin",
-   "surface_en": "Koschentin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Prince August",
-   "kind": "person",
-   "surface_de": "Fürst August",
-   "surface_en": "Prince August",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Blizanow",
-   "kind": "place",
-   "surface_de": "Blizanow",
-   "surface_en": "Blizanow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -213,10 +126,54 @@
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
-   "page_id": "",
+   "page_id": "0442_b",
    "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
-   "line": 17174,
-   "doc_line": 10
+   "line": 17118,
+   "doc_line": 11
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 1,
+   "page_id": "0442_b",
+   "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
+   "line": 17121,
+   "doc_line": 14
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 1,
+   "page_id": "0442_b",
+   "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
+   "line": 17122,
+   "doc_line": 15
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 2,
+   "page_id": "0443_a1",
+   "scan": "Oe_1_Bu_9454_0443_a1-L235_02.jpg",
+   "line": 17129,
+   "doc_line": 21
+  },
+  {
+   "entity": "koschentin",
+   "display": "Koschentin (Koszęcin)",
+   "kind": "place",
+   "surface": "Koschentin",
+   "page": 2,
+   "page_id": "0443_a1",
+   "scan": "Oe_1_Bu_9454_0443_a1-L235_02.jpg",
+   "line": 17135,
+   "doc_line": 27
   },
   {
    "entity": "blizanow",
@@ -224,87 +181,15 @@
    "kind": "place",
    "surface": "Blizanow",
    "page": 2,
-   "page_id": "",
+   "page_id": "0443_a1",
    "scan": "Oe_1_Bu_9454_0443_a1-L235_02.jpg",
-   "line": 17202,
-   "doc_line": 37
+   "line": 17146,
+   "doc_line": 38
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy messenger was held up 2 days and, being a blockhead, returns only today. I am therefore sending the Demme beast by another route, and report to Your Serene Highness that old Weigel arrived here with me already today. He has not only the best will to conclude the lease contract, but he has disclosed to me that, following my advice, he is not disinclined to purchase the Zagórów estates. He assumes the debts and pays a further 200000 Rthl on top, which he wishes to set off against Koschentia. In this matter, however, he advises that the business be kept secret, and that Koschentin be put up for compulsory auction. He offers as creditor and hopes to obtain it below the assessed value; what is thereby lost to us, Stössel",
-   "names": [
-    {
-     "de": "Demme",
-     "en": "Demme",
-     "kind": "person"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Zagorower",
-     "en": "Zagórów",
-     "kind": "place"
-    },
-    {
-     "de": "Koschentia",
-     "en": "Koschentia",
-     "kind": "place"
-    },
-    {
-     "de": "Koschentin",
-     "en": "Koschentin",
-     "kind": "place"
-    },
-    {
-     "de": "Stössel",
-     "en": "Stössel",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "2",
-    "200000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "lose, who would have cheated Your Serene Highness more than too grossly. He engages himself to issue a written undertaking that he will cede Koschentin, just as he should acquire it, to Your Serene Highness, or to whomever Your Serene Highness should command. He believes that Your Serene Highness would obtain it for still under 600000 Rthl – only no person must suspect that Your Serene Highness or Prince August wished to keep Koschentin. May Your Serene Highness write to me upon this in secret Your declaration of will, for the old man does what I advise him. As to the papers, may Your Serene Highness deign to send them with the utmost haste, for I know of no expedient for meeting the costs; the instrument, however, must be drawn up just as I have prescribed it, otherwise it must come to nothing. In deepest reverence I remain\n\nYour Serene Highness's\n\nBlizanow\n\nthe 18th of July 1812\n\nmost humble and obedient\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Koschentin",
-     "en": "Koschentin",
-     "kind": "place"
-    },
-    {
-     "de": "Fürst August",
-     "en": "Prince August",
-     "kind": "person"
-    },
-    {
-     "de": "Blizanow",
-     "en": "Blizanow",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "600000",
-    "18",
-    "1812"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nMy messenger was held up 2 days and, being a blockhead, returns only today. I am therefore sending the Demme beast by another route, and report to Your Serene Highness that old Weigel arrived here with me already today. He has not only the best will to conclude the lease contract, but he has disclosed to me that, following my advice, he is not disinclined to purchase the Zagórów estates. He assumes the debts and pays a further 200000 Rthl on top, which he wishes to set off against Koschentia. In this matter, however, he advises that the business be kept secret, and that Koschentin be put up for compulsory auction. He offers as creditor and hopes to obtain it below the assessed value; what is thereby lost to us, Stössel\n\nlose, who would have cheated Your Serene Highness more than too grossly. He engages himself to issue a written undertaking that he will cede Koschentin, just as he should acquire it, to Your Serene Highness, or to whomever Your Serene Highness should command. He believes that Your Serene Highness would obtain it for still under 600000 Rthl – only no person must suspect that Your Serene Highness or Prince August wished to keep Koschentin. May Your Serene Highness write to me upon this in secret Your declaration of will, for the old man does what I advise him. As to the papers, may Your Serene Highness deign to send them with the utmost haste, for I know of no expedient for meeting the costs; the instrument, however, must be drawn up just as I have prescribed it, otherwise it must come to nothing. In deepest reverence I remain\n\nYour Serene Highness's\n\nBlizanow\n\nthe 18th of July 1812\n\nmost humble and obedient\n\nv. Triebenfeld",
- "summary_en": "Reports that old Weigel has arrived and is willing not only to conclude the lease contract but, on Triebenfeld's advice, to buy the Zagorowo estates, assuming the debts and paying a further 200,000 Rthl to be set against Koschentin. Weigel proposes that Koschentin be forced to compulsory auction, where he would bid as creditor below valuation, perhaps under 600,000 Rthl, and undertake in writing to cede it back; secrecy is essential, and the papers are urgently wanted.",
- "summary_de": "Bericht über ein Angebot des alten Weigel: Er will nicht nur den Pachtvertrag abschließen, sondern auch die Güter Zagorowo kaufen, die Schulden übernehmen und weitere 200000 Rthl zahlen, die er gegen Koschentin verrechnen möchte. Weigel rät, Koschentin heimlich zur Zwangsversteigerung zu bringen, dort als Gläubiger unter dem Schätzwert zu erwerben – vermutlich unter 600000 Rthl – und es dem Fürsten schriftlich abzutreten; niemand dürfe Fürst August oder den Fürsten dahinter vermuten. Triebenfeld erbittet dringend die Papiere und eine geheime Willenserklärung."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

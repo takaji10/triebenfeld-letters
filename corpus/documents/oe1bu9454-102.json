@@ -18,91 +18,96 @@
  "month": 3,
  "day": 6,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 7973,
- "line_end": 8049,
- "uncertainty_count": 1,
+ "sender": "",
+ "recipient": "",
+ "line_start": 7963,
+ "line_end": 8040,
+ "uncertainty_count": 2,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "krotoszyn",
+  "kulm"
+ ],
  "is_missing": 0,
- "n_lines": 76,
+ "n_lines": 73,
  "n_pages": 4,
- "text": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nNach mehreren Nachrichten, soll den Minister v Voss Excell.\nin etwan 3 Wochen in Krotoszyn eintreffen um das\nbewuſte Geſchäft zu prüfen. Gott gebe daß die\nSache nach Wunsch beendiget wird. Wann nur der\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst\ndahin gehen wolte so würde die Sache sehr schnell gehen\nChelmshi hatt in der 2ten Instanz auch verlohren und\nnun erwarte ich nur was er weiter thun wird\nDie Sache wird bald beendigt sey.\nMitt Broniewski kan ich jede Stunde abschließen\nJedes thun ich dies nicht ehender bis ich sehe wie es mit\nKrotoszyn kommt - ich habe alles jezt in Posen nach¬\nmahls zergliedert, und jeder findet jezt, daß dem Patri\nauch kein Groschen herauskommen dürfte. Um indes\n\nnichts zu verſäumen, so wird die dismembration dorten\ncomplets und fest entworfen, dazu geschieht der Tausch so ver¬\ngleiche ich mich auf etliche Tausend Wir mit Broniewski\nund weise die dismembration an - Nach der Vermeßung\nvon Kaemen und Kulm bringt Glenck schon an 6000 Rthl\nZinsen heraus, und auf der Art wird es a proportioni¬\nmit jedes Gut gehen – Nur wegen Brzyze habe ich\nviel Lerm in Posen gehabt, dies wolte man gleich\nvor der Prusimskischen Tochter einziehen, mit aller\nnur denckliche Mühe habe ich einen Termin von 6 Wochen\nerhalten können - Mein unterthäniger Rath ist daß\nnun am Groß Kanzler geschrieben, und eine Termins¬\nVerlängerung von 5 Monathen nachgesucht wird¬\nDies werde ich beſorge, den ich habe ja noch Blanquets\nHernach dürfte die Sache sonderbar ausfallen - den\nFiscus hatt den Minister Hoym angegangen, das Confir¬\ncations Decret auch gegen der Prussiemski publicum\nzu laßen. Der Minister hatt aber befohlen heimlich\nActa zu reponiren, damit dem Mädchen was zu\n\ngewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu\nnichts verstehen dürften - Eigen in seiner Art ist dieser\nZug - den erst hatt er doch dem König diese Güter als\nconfiscirt angegeben, und für Ewr Durchlaucht in Vorschlag\ngebracht - von Rechts wegen muß er diesen Ausfall\nvertreten - Es ist dies überhaupt ein besonderer Mann\nÜbrigens kan es sein, daß man noch andere Rettungs¬\nMittel auffindet, ich werde gewis nichts unversucht laßen\nWegen den Winieces Forst macht die Cammer viel Spec¬\ntacte, ich werde indes in kurzen selbst dorthin gehen und\ndie Polacken sondern – Sobald ich mit den Prinzen Georgen\nSachen fertig bin, welches in 5 Wochen geschehen dürfte, eile\nich nach Berlin um alles bey der retour d. v. Voss vor\nzu bereiten\nDas Schreiben an H. [P?]ritswig wird Wildeganst heute\nabgeben, auch das an Kuch soll behändigt werden.\nEs ist auch sehr gut alles gesagt, indes glaube ich\nnicht das Weigel davon Schuld ist - Mitt Schlabrendorff\nwerde ich die Sache auf ein oder die andere Art machen\nAm Ende soll er mir selbst das Geld zur Bezahlung der\n\nIntressen leihen - Wildeganst giebt sich alle nur\ndenckliche Mühe dieses auf einer feinen Art zu leiten\ndie Neuigkeiten wegen Krieg sind wahrlich traurig\njedes hoffe ich daß es dorten beßer gehen wird, als\nman glaubt\nMitt den Rußen sieht es böse aus, den da schmachtet\nman sehr, und wie ich bemerckt werden sich alle\nSüdpreußen dahin - Es ist ein wahres Unglück\ndas Niemand in Südpreußen auf die Leute acht\ngiebt. Alles sieht einer Räuber Herde schon\nganz ähnlich.\nGott erhalte Euer Durchlaucht nur gesund¬\nzu tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau d 6ten Marz 1799.\ntreu unterthänigster Knecht\nv Triebenfeld",
- "text_reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nNach mehreren Nachrichten, soll den Minister v Voss Excell. in etwan 3 Wochen in Krotoszyn eintreffen um das bewuſte Geſchäft zu prüfen. Gott gebe daß die Sache nach Wunsch beendiget wird. Wann nur der\n\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst dahin gehen wolte so würde die Sache sehr schnell gehen Chelmshi hatt in der 2ten Instanz auch verlohren und nun erwarte ich nur was er weiter thun wird Die Sache wird bald beendigt sey.\n\nMitt Broniewski kan ich jede Stunde abschließen Jedes thun ich dies nicht ehender bis ich sehe wie es mit Krotoszyn kommt - ich habe alles jezt in Posen nachmahls zergliedert, und jeder findet jezt, daß dem Patri auch kein Groschen herauskommen dürfte. Um indes\n\nnichts zu verſäumen, so wird die dismembration dorten complets und fest entworfen, dazu geschieht der Tausch so vergleiche ich mich auf etliche Tausend Wir mit Broniewski und weise die dismembration an - Nach der Vermeßung von Kaemen und Kulm bringt Glenck schon an 6000 Rthl Zinsen heraus, und auf der Art wird es a proportionimit jedes Gut gehen – Nur wegen Brzyze habe ich viel Lerm in Posen gehabt, dies wolte man gleich vor der Prusimskischen Tochter einziehen, mit aller nur denckliche Mühe habe ich einen Termin von 6 Wochen erhalten können - Mein unterthäniger Rath ist daß nun am Groß Kanzler geschrieben, und eine Termins Verlängerung von 5 Monathen nachgesucht wird Dies werde ich beſorge, den ich habe ja noch Blanquets Hernach dürfte die Sache sonderbar ausfallen - den Fiscus hatt den Minister Hoym angegangen, das Confircations Decret auch gegen der Prussiemski publicum zu laßen. Der Minister hatt aber befohlen heimlich Acta zu reponiren, damit dem Mädchen was zu\n\ngewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu nichts verstehen dürften - Eigen in seiner Art ist dieser Zug - den erst hatt er doch dem König diese Güter als confiscirt angegeben, und für Ewr Durchlaucht in Vorschlag gebracht - von Rechts wegen muß er diesen Ausfall vertreten - Es ist dies überhaupt ein besonderer Mann Übrigens kan es sein, daß man noch andere RettungsMittel auffindet, ich werde gewis nichts unversucht laßen Wegen den Winieces Forst macht die Cammer viel Spec tacte, ich werde indes in kurzen selbst dorthin gehen und die Polacken sondern – Sobald ich mit den Prinzen Georgen Sachen fertig bin, welches in 5 Wochen geschehen dürfte, eile ich nach Berlin um alles bey der retour d. v. Voss vor zu bereiten Das Schreiben an H. [P?]ritswig wird Wildeganst heute abgeben, auch das an Kuch soll behändigt werden. Es ist auch sehr gut alles gesagt, indes glaube ich nicht das Weigel davon Schuld ist - Mitt Schlabrendorff werde ich die Sache auf ein oder die andere Art machen Am Ende soll er mir selbst das Geld zur Bezahlung der\n\nIntressen leihen - Wildeganst giebt sich alle nur denckliche Mühe dieses auf einer feinen Art zu leiten die Neuigkeiten wegen Krieg sind wahrlich traurig jedes hoffe ich daß es dorten beßer gehen wird, als man glaubt Mitt den Rußen sieht es böse aus, den da schmachtet man sehr, und wie ich bemerckt werden sich alle Südpreußen dahin - Es ist ein wahres Unglück das Niemand in Südpreußen auf die Leute acht giebt. Alles sieht einer Räuber Herde schon ganz ähnlich.\n\nGott erhalte Euer Durchlaucht nur gesund zu tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 6ten Marz 1799.\n\ntreu unterthänigster Knecht\n\nv Triebenfeld",
+ "text": "102\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nNach mehreren Nachrichten, soll den Minister et Voss Excell.\nin etwan 3 Wochen in Krotoszyn eintreffen um das\nbewuſte Geſchäft zu prüfen. Gott gebe daß die\nSache nach Wunsch beendiget wird. Wann nur der\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst\ndahin gehen wolte so würde die Sache sehr schnell gehen\nChełmski hatt in der 2ten Instanz auch verlohren und\nnun erwarte ich nur was er weiter thun wird\nDie Sache wird bald beendigt sey.\nMitt Broniewski kan ich jede Stunde abschließen\nIndes thun ich dies nicht ehender bis ich sehe wie es mit\nKrotoszyn kommt - ich habe alles jezt in Posen noch¬\nmahls zergliedert, und jeder findet jezt, daß dem Patri[?]\nauch kein Groschen herauskommen dürfte. Um indes\nnichts zu verſäumen, so wird die dismembration dorten\ncomplets und fest entworfen, dazu geschieht der Tausch so ver¬\ngleiche ich mich auf etliche Tausend Rt. mit Broniewski\nund weise die dismembration an - Nach der Vermeßung\nvon Kaemen und Kulm bringt Glenck schon an 6000 rt.\nZinsen heraus, und auf der Art wird es a proportionen\nmit jedes Gut gehen – Nur wegen Brzyze habe ich\nviel Lerm in Posen gehabt, dies wolte man gleich\nvor der Prusimskischen Tochter einziehen, mit aller\nnur denckliche Mühe habe ich einen Termin von 6 Wochen\nerhalten können - Mein unterthäniger Rath ist daß\nnun am Groß Kanzler geschrieben, und eine Termins\nVerlängerung von 5 Monathen nachgesucht wird -\nDies werde ich beſorge, den ich habe ja noch Blanquets\nHernach dürfte die Sache sonderbar ausfallen - den\nFiscus hatt den Minister Hoym angegangen, das Confis¬\ncations Decret auch gegen der Prusimski publicum\nzu laßen. Der Minister hatt aber befohlen heimlich\nActa zu reponiren, damit dem Mädchen was zu\ngewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu\nnichts verstehen dürften - Eigen in seiner Art ist dieser\nZug - den erst hatt er doch dem König diese Güter als\nconfiscirt angegeben, und für Ewr Durchlaucht in Vorschlag\ngebracht - von Rechts wegen muß er diesen Ausfall\nvertreten - Es ist dies überhaupt ein besonderer Mann\nÜbrigens kan es sein, daß man noch andere Rettungs\nMittel auffindet, ich werde gewis nichts unversucht laßen\nWegen den Winiecer Forst macht die Cammer viel Spec¬\ntacle, ich werde indes in kurzen selbst dorthin gehen und\ndie Polacken sondern – Sobald ich mit den Prinzen Georgen\nSachen fertig bin, welches in 5 Wochen geschehen dürfte, eile\nich nach Berlin um alles bey der retour d. v. Voss vor\nzu bereiten -\nDas Schreiben an H. v Prittwitz wird Wildeganst heute\nabgeben, auch das an Kur:[?] soll behändigt werden.\nEs ist auch sehr gut alles gesagt, indes glaube ich\nnicht das Weigel davon Schuld ist - Mitt Schlabrendorff\nwerde ich die Sache auf ein oder die andere Art machen\nAm Ende soll er mir selbst das Geld zur Bezahlung der\nIntressen leihen - Wildeganst giebt sich alle nur\ndenckliche Mühe dieses auf einer feinen Art zu leiten\ndie Neuigkeiten wegen Krieg sind wahrlich traurig\nindes hoffe ich daß es dorten beßer gehen wird, als\nman glaubt\nMitt den Rußen sieht es böse aus, den da schmarcht\nman sehr, und wie ich bemerckt wenden sich alle\nSüdpreußen dahin - Es ist ein wahres Unglück\ndas Niemand in Südpreußen auf die Leute acht\ngiebt. Alles sieht einer Räuber Herde schon\nganz ähnlich.\nGott erhalte Euer Durchlaucht nur gesund\nIn tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau d 6ten Marz 1799.\ntreu unterthänigster Knecht\nv Triebenfeld",
+ "text_reading": "102\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nNach mehreren Nachrichten, soll den Minister et Voss Excell. in etwan 3 Wochen in Krotoszyn eintreffen um das bewuſte Geſchäft zu prüfen. Gott gebe daß die Sache nach Wunsch beendiget wird. Wann nur der\n\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst dahin gehen wolte so würde die Sache sehr schnell gehen Chełmski hatt in der 2ten Instanz auch verlohren und nun erwarte ich nur was er weiter thun wird Die Sache wird bald beendigt sey.\n\nMitt Broniewski kan ich jede Stunde abschließen Indes thun ich dies nicht ehender bis ich sehe wie es mit Krotoszyn kommt - ich habe alles jezt in Posen nochmahls zergliedert, und jeder findet jezt, daß dem Patri[?] auch kein Groschen herauskommen dürfte. Um indes\n\nnichts zu verſäumen, so wird die dismembration dorten complets und fest entworfen, dazu geschieht der Tausch so vergleiche ich mich auf etliche Tausend Rt. mit Broniewski und weise die dismembration an - Nach der Vermeßung von Kaemen und Kulm bringt Glenck schon an 6000 rt. Zinsen heraus, und auf der Art wird es a proportionen mit jedes Gut gehen – Nur wegen Brzyze habe ich viel Lerm in Posen gehabt, dies wolte man gleich vor der Prusimskischen Tochter einziehen, mit aller nur denckliche Mühe habe ich einen Termin von 6 Wochen erhalten können - Mein unterthäniger Rath ist daß nun am Groß Kanzler geschrieben, und eine Termins Verlängerung von 5 Monathen nachgesucht wird - Dies werde ich beſorge, den ich habe ja noch Blanquets Hernach dürfte die Sache sonderbar ausfallen - den Fiscus hatt den Minister Hoym angegangen, das Confiscations Decret auch gegen der Prusimski publicum zu laßen. Der Minister hatt aber befohlen heimlich Acta zu reponiren, damit dem Mädchen was zu\n\ngewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu nichts verstehen dürften - Eigen in seiner Art ist dieser Zug - den erst hatt er doch dem König diese Güter als confiscirt angegeben, und für Ewr Durchlaucht in Vorschlag gebracht - von Rechts wegen muß er diesen Ausfall vertreten - Es ist dies überhaupt ein besonderer Mann Übrigens kan es sein, daß man noch andere Rettungs Mittel auffindet, ich werde gewis nichts unversucht laßen Wegen den Winiecer Forst macht die Cammer viel Spectacle, ich werde indes in kurzen selbst dorthin gehen und die Polacken sondern – Sobald ich mit den Prinzen Georgen Sachen fertig bin, welches in 5 Wochen geschehen dürfte, eile ich nach Berlin um alles bey der retour d. v. Voss vor zu bereiten - Das Schreiben an H. v Prittwitz wird Wildeganst heute abgeben, auch das an Kur:[?] soll behändigt werden. Es ist auch sehr gut alles gesagt, indes glaube ich nicht das Weigel davon Schuld ist - Mitt Schlabrendorff werde ich die Sache auf ein oder die andere Art machen Am Ende soll er mir selbst das Geld zur Bezahlung der\n\nIntressen leihen - Wildeganst giebt sich alle nur denckliche Mühe dieses auf einer feinen Art zu leiten die Neuigkeiten wegen Krieg sind wahrlich traurig indes hoffe ich daß es dorten beßer gehen wird, als man glaubt Mitt den Rußen sieht es böse aus, den da schmarcht man sehr, und wie ich bemerckt wenden sich alle Südpreußen dahin - Es ist ein wahres Unglück das Niemand in Südpreußen auf die Leute acht giebt. Alles sieht einer Räuber Herde schon ganz ähnlich.\n\nGott erhalte Euer Durchlaucht nur gesund In tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 6ten Marz 1799.\n\ntreu unterthänigster Knecht\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 7974,
-   "line_end": 7989,
-   "n_lines": 16,
-   "diplomatic": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nNach mehreren Nachrichten, soll den Minister v Voss Excell.\nin etwan 3 Wochen in Krotoszyn eintreffen um das\nbewuſte Geſchäft zu prüfen. Gott gebe daß die\nSache nach Wunsch beendiget wird. Wann nur der\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst\ndahin gehen wolte so würde die Sache sehr schnell gehen\nChelmshi hatt in der 2ten Instanz auch verlohren und\nnun erwarte ich nur was er weiter thun wird\nDie Sache wird bald beendigt sey.\nMitt Broniewski kan ich jede Stunde abschließen\nJedes thun ich dies nicht ehender bis ich sehe wie es mit\nKrotoszyn kommt - ich habe alles jezt in Posen nach¬\nmahls zergliedert, und jeder findet jezt, daß dem Patri\nauch kein Groschen herauskommen dürfte. Um indes",
-   "transcription": "Durchlauchtigſter Fürſt\nGnädigster Herr!\nNach mehreren Nachrichten, soll den Minister v Voss Excell.\nin etwan 3 Wochen in Krotoszyn eintreffen um das\nbewuſte Geſchäft zu prüfen. Gott gebe daß die\nSache nach Wunsch beendiget wird. Wann nur der\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst\ndahin gehen wolte so würde die Sache sehr schnell gehen\nChelmshi hatt in der 2ten Instanz auch verlohren und\nnun erwarte ich nur was er weiter thun wird\nDie Sache wird bald beendigt sey.\nMitt Broniewski kan ich jede Stunde abschließen\nJedes thun ich dies nicht ehender bis ich sehe wie es mit\nKrotoszyn kommt - ich habe alles jezt in Posen nach-\nmahls zergliedert, und jeder findet jezt, daß dem Patri\nauch kein Groschen herauskommen dürfte. Um indes",
-   "reading": "Durchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nNach mehreren Nachrichten, soll den Minister v Voss Excell. in etwan 3 Wochen in Krotoszyn eintreffen um das bewuſte Geſchäft zu prüfen. Gott gebe daß die Sache nach Wunsch beendiget wird. Wann nur der\n\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst dahin gehen wolte so würde die Sache sehr schnell gehen Chelmshi hatt in der 2ten Instanz auch verlohren und nun erwarte ich nur was er weiter thun wird Die Sache wird bald beendigt sey.\n\nMitt Broniewski kan ich jede Stunde abschließen Jedes thun ich dies nicht ehender bis ich sehe wie es mit Krotoszyn kommt - ich habe alles jezt in Posen nachmahls zergliedert, und jeder findet jezt, daß dem Patri auch kein Groschen herauskommen dürfte. Um indes",
+   "page_id": "0211_a",
+   "line_start": 7965,
+   "line_end": 7981,
+   "n_lines": 17,
+   "diplomatic": "102\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nNach mehreren Nachrichten, soll den Minister et Voss Excell.\nin etwan 3 Wochen in Krotoszyn eintreffen um das\nbewuſte Geſchäft zu prüfen. Gott gebe daß die\nSache nach Wunsch beendiget wird. Wann nur der\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst\ndahin gehen wolte so würde die Sache sehr schnell gehen\nChełmski hatt in der 2ten Instanz auch verlohren und\nnun erwarte ich nur was er weiter thun wird\nDie Sache wird bald beendigt sey.\nMitt Broniewski kan ich jede Stunde abschließen\nIndes thun ich dies nicht ehender bis ich sehe wie es mit\nKrotoszyn kommt - ich habe alles jezt in Posen noch¬\nmahls zergliedert, und jeder findet jezt, daß dem Patri[?]\nauch kein Groschen herauskommen dürfte. Um indes",
+   "transcription": "102\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nNach mehreren Nachrichten, soll den Minister et Voss Excell.\nin etwan 3 Wochen in Krotoszyn eintreffen um das\nbewuſte Geſchäft zu prüfen. Gott gebe daß die\nSache nach Wunsch beendiget wird. Wann nur der\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst\ndahin gehen wolte so würde die Sache sehr schnell gehen\nChełmski hatt in der 2ten Instanz auch verlohren und\nnun erwarte ich nur was er weiter thun wird\nDie Sache wird bald beendigt sey.\nMitt Broniewski kan ich jede Stunde abschließen\nIndes thun ich dies nicht ehender bis ich sehe wie es mit\nKrotoszyn kommt - ich habe alles jezt in Posen noch-\nmahls zergliedert, und jeder findet jezt, daß dem Patri[?]\nauch kein Groschen herauskommen dürfte. Um indes",
+   "reading": "102\n\nDurchlauchtigſter Fürſt\n\nGnädigster Herr!\n\nNach mehreren Nachrichten, soll den Minister et Voss Excell. in etwan 3 Wochen in Krotoszyn eintreffen um das bewuſte Geſchäft zu prüfen. Gott gebe daß die Sache nach Wunsch beendiget wird. Wann nur der\n\nH. p. Prittwitz sich dann die Mühe nehmen, und selbst dahin gehen wolte so würde die Sache sehr schnell gehen Chełmski hatt in der 2ten Instanz auch verlohren und nun erwarte ich nur was er weiter thun wird Die Sache wird bald beendigt sey.\n\nMitt Broniewski kan ich jede Stunde abschließen Indes thun ich dies nicht ehender bis ich sehe wie es mit Krotoszyn kommt - ich habe alles jezt in Posen nochmahls zergliedert, und jeder findet jezt, daß dem Patri[?] auch kein Groschen herauskommen dürfte. Um indes",
    "paragraphs": [
+    "102",
     "Durchlauchtigſter Fürſt",
     "Gnädigster Herr!",
-    "Nach mehreren Nachrichten, soll den Minister v Voss Excell. in etwan 3 Wochen in Krotoszyn eintreffen um das bewuſte Geſchäft zu prüfen. Gott gebe daß die Sache nach Wunsch beendiget wird. Wann nur der",
-    "H. p. Prittwitz sich dann die Mühe nehmen, und selbst dahin gehen wolte so würde die Sache sehr schnell gehen Chelmshi hatt in der 2ten Instanz auch verlohren und nun erwarte ich nur was er weiter thun wird Die Sache wird bald beendigt sey.",
-    "Mitt Broniewski kan ich jede Stunde abschließen Jedes thun ich dies nicht ehender bis ich sehe wie es mit Krotoszyn kommt - ich habe alles jezt in Posen nachmahls zergliedert, und jeder findet jezt, daß dem Patri auch kein Groschen herauskommen dürfte. Um indes"
+    "Nach mehreren Nachrichten, soll den Minister et Voss Excell. in etwan 3 Wochen in Krotoszyn eintreffen um das bewuſte Geſchäft zu prüfen. Gott gebe daß die Sache nach Wunsch beendiget wird. Wann nur der",
+    "H. p. Prittwitz sich dann die Mühe nehmen, und selbst dahin gehen wolte so würde die Sache sehr schnell gehen Chełmski hatt in der 2ten Instanz auch verlohren und nun erwarte ich nur was er weiter thun wird Die Sache wird bald beendigt sey.",
+    "Mitt Broniewski kan ich jede Stunde abschließen Indes thun ich dies nicht ehender bis ich sehe wie es mit Krotoszyn kommt - ich habe alles jezt in Posen nochmahls zergliedert, und jeder findet jezt, daß dem Patri[?] auch kein Groschen herauskommen dürfte. Um indes"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 16
+   "doc_line_end": 17
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 7991,
-   "line_end": 8009,
+   "page_id": "0212_a1",
+   "line_start": 7983,
+   "line_end": 8001,
    "n_lines": 19,
-   "diplomatic": "nichts zu verſäumen, so wird die dismembration dorten\ncomplets und fest entworfen, dazu geschieht der Tausch so ver¬\ngleiche ich mich auf etliche Tausend Wir mit Broniewski\nund weise die dismembration an - Nach der Vermeßung\nvon Kaemen und Kulm bringt Glenck schon an 6000 Rthl\nZinsen heraus, und auf der Art wird es a proportioni¬\nmit jedes Gut gehen – Nur wegen Brzyze habe ich\nviel Lerm in Posen gehabt, dies wolte man gleich\nvor der Prusimskischen Tochter einziehen, mit aller\nnur denckliche Mühe habe ich einen Termin von 6 Wochen\nerhalten können - Mein unterthäniger Rath ist daß\nnun am Groß Kanzler geschrieben, und eine Termins¬\nVerlängerung von 5 Monathen nachgesucht wird¬\nDies werde ich beſorge, den ich habe ja noch Blanquets\nHernach dürfte die Sache sonderbar ausfallen - den\nFiscus hatt den Minister Hoym angegangen, das Confir¬\ncations Decret auch gegen der Prussiemski publicum\nzu laßen. Der Minister hatt aber befohlen heimlich\nActa zu reponiren, damit dem Mädchen was zu",
-   "transcription": "nichts zu verſäumen, so wird die dismembration dorten\ncomplets und fest entworfen, dazu geschieht der Tausch so ver-\ngleiche ich mich auf etliche Tausend Wir mit Broniewski\nund weise die dismembration an - Nach der Vermeßung\nvon Kaemen und Kulm bringt Glenck schon an 6000 Rthl\nZinsen heraus, und auf der Art wird es a proportioni-\nmit jedes Gut gehen – Nur wegen Brzyze habe ich\nviel Lerm in Posen gehabt, dies wolte man gleich\nvor der Prusimskischen Tochter einziehen, mit aller\nnur denckliche Mühe habe ich einen Termin von 6 Wochen\nerhalten können - Mein unterthäniger Rath ist daß\nnun am Groß Kanzler geschrieben, und eine Termins\nVerlängerung von 5 Monathen nachgesucht wird\nDies werde ich beſorge, den ich habe ja noch Blanquets\nHernach dürfte die Sache sonderbar ausfallen - den\nFiscus hatt den Minister Hoym angegangen, das Confir-\ncations Decret auch gegen der Prussiemski publicum\nzu laßen. Der Minister hatt aber befohlen heimlich\nActa zu reponiren, damit dem Mädchen was zu",
-   "reading": "nichts zu verſäumen, so wird die dismembration dorten complets und fest entworfen, dazu geschieht der Tausch so vergleiche ich mich auf etliche Tausend Wir mit Broniewski und weise die dismembration an - Nach der Vermeßung von Kaemen und Kulm bringt Glenck schon an 6000 Rthl Zinsen heraus, und auf der Art wird es a proportionimit jedes Gut gehen – Nur wegen Brzyze habe ich viel Lerm in Posen gehabt, dies wolte man gleich vor der Prusimskischen Tochter einziehen, mit aller nur denckliche Mühe habe ich einen Termin von 6 Wochen erhalten können - Mein unterthäniger Rath ist daß nun am Groß Kanzler geschrieben, und eine Termins Verlängerung von 5 Monathen nachgesucht wird Dies werde ich beſorge, den ich habe ja noch Blanquets Hernach dürfte die Sache sonderbar ausfallen - den Fiscus hatt den Minister Hoym angegangen, das Confircations Decret auch gegen der Prussiemski publicum zu laßen. Der Minister hatt aber befohlen heimlich Acta zu reponiren, damit dem Mädchen was zu",
+   "diplomatic": "nichts zu verſäumen, so wird die dismembration dorten\ncomplets und fest entworfen, dazu geschieht der Tausch so ver¬\ngleiche ich mich auf etliche Tausend Rt. mit Broniewski\nund weise die dismembration an - Nach der Vermeßung\nvon Kaemen und Kulm bringt Glenck schon an 6000 rt.\nZinsen heraus, und auf der Art wird es a proportionen\nmit jedes Gut gehen – Nur wegen Brzyze habe ich\nviel Lerm in Posen gehabt, dies wolte man gleich\nvor der Prusimskischen Tochter einziehen, mit aller\nnur denckliche Mühe habe ich einen Termin von 6 Wochen\nerhalten können - Mein unterthäniger Rath ist daß\nnun am Groß Kanzler geschrieben, und eine Termins\nVerlängerung von 5 Monathen nachgesucht wird -\nDies werde ich beſorge, den ich habe ja noch Blanquets\nHernach dürfte die Sache sonderbar ausfallen - den\nFiscus hatt den Minister Hoym angegangen, das Confis¬\ncations Decret auch gegen der Prusimski publicum\nzu laßen. Der Minister hatt aber befohlen heimlich\nActa zu reponiren, damit dem Mädchen was zu",
+   "transcription": "nichts zu verſäumen, so wird die dismembration dorten\ncomplets und fest entworfen, dazu geschieht der Tausch so ver-\ngleiche ich mich auf etliche Tausend Rt. mit Broniewski\nund weise die dismembration an - Nach der Vermeßung\nvon Kaemen und Kulm bringt Glenck schon an 6000 rt.\nZinsen heraus, und auf der Art wird es a proportionen\nmit jedes Gut gehen – Nur wegen Brzyze habe ich\nviel Lerm in Posen gehabt, dies wolte man gleich\nvor der Prusimskischen Tochter einziehen, mit aller\nnur denckliche Mühe habe ich einen Termin von 6 Wochen\nerhalten können - Mein unterthäniger Rath ist daß\nnun am Groß Kanzler geschrieben, und eine Termins\nVerlängerung von 5 Monathen nachgesucht wird -\nDies werde ich beſorge, den ich habe ja noch Blanquets\nHernach dürfte die Sache sonderbar ausfallen - den\nFiscus hatt den Minister Hoym angegangen, das Confis-\ncations Decret auch gegen der Prusimski publicum\nzu laßen. Der Minister hatt aber befohlen heimlich\nActa zu reponiren, damit dem Mädchen was zu",
+   "reading": "nichts zu verſäumen, so wird die dismembration dorten complets und fest entworfen, dazu geschieht der Tausch so vergleiche ich mich auf etliche Tausend Rt. mit Broniewski und weise die dismembration an - Nach der Vermeßung von Kaemen und Kulm bringt Glenck schon an 6000 rt. Zinsen heraus, und auf der Art wird es a proportionen mit jedes Gut gehen – Nur wegen Brzyze habe ich viel Lerm in Posen gehabt, dies wolte man gleich vor der Prusimskischen Tochter einziehen, mit aller nur denckliche Mühe habe ich einen Termin von 6 Wochen erhalten können - Mein unterthäniger Rath ist daß nun am Groß Kanzler geschrieben, und eine Termins Verlängerung von 5 Monathen nachgesucht wird - Dies werde ich beſorge, den ich habe ja noch Blanquets Hernach dürfte die Sache sonderbar ausfallen - den Fiscus hatt den Minister Hoym angegangen, das Confiscations Decret auch gegen der Prusimski publicum zu laßen. Der Minister hatt aber befohlen heimlich Acta zu reponiren, damit dem Mädchen was zu",
    "paragraphs": [
-    "nichts zu verſäumen, so wird die dismembration dorten complets und fest entworfen, dazu geschieht der Tausch so vergleiche ich mich auf etliche Tausend Wir mit Broniewski und weise die dismembration an - Nach der Vermeßung von Kaemen und Kulm bringt Glenck schon an 6000 Rthl Zinsen heraus, und auf der Art wird es a proportionimit jedes Gut gehen – Nur wegen Brzyze habe ich viel Lerm in Posen gehabt, dies wolte man gleich vor der Prusimskischen Tochter einziehen, mit aller nur denckliche Mühe habe ich einen Termin von 6 Wochen erhalten können - Mein unterthäniger Rath ist daß nun am Groß Kanzler geschrieben, und eine Termins Verlängerung von 5 Monathen nachgesucht wird Dies werde ich beſorge, den ich habe ja noch Blanquets Hernach dürfte die Sache sonderbar ausfallen - den Fiscus hatt den Minister Hoym angegangen, das Confircations Decret auch gegen der Prussiemski publicum zu laßen. Der Minister hatt aber befohlen heimlich Acta zu reponiren, damit dem Mädchen was zu"
+    "nichts zu verſäumen, so wird die dismembration dorten complets und fest entworfen, dazu geschieht der Tausch so vergleiche ich mich auf etliche Tausend Rt. mit Broniewski und weise die dismembration an - Nach der Vermeßung von Kaemen und Kulm bringt Glenck schon an 6000 rt. Zinsen heraus, und auf der Art wird es a proportionen mit jedes Gut gehen – Nur wegen Brzyze habe ich viel Lerm in Posen gehabt, dies wolte man gleich vor der Prusimskischen Tochter einziehen, mit aller nur denckliche Mühe habe ich einen Termin von 6 Wochen erhalten können - Mein unterthäniger Rath ist daß nun am Groß Kanzler geschrieben, und eine Termins Verlängerung von 5 Monathen nachgesucht wird - Dies werde ich beſorge, den ich habe ja noch Blanquets Hernach dürfte die Sache sonderbar ausfallen - den Fiscus hatt den Minister Hoym angegangen, das Confiscations Decret auch gegen der Prusimski publicum zu laßen. Der Minister hatt aber befohlen heimlich Acta zu reponiren, damit dem Mädchen was zu"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "doc_line_start": 17,
-   "doc_line_end": 35
+   "doc_line_start": 18,
+   "doc_line_end": 36
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 8011,
-   "line_end": 8030,
+   "page_id": "0212_a2",
+   "line_start": 8003,
+   "line_end": 8022,
    "n_lines": 20,
-   "diplomatic": "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu\nnichts verstehen dürften - Eigen in seiner Art ist dieser\nZug - den erst hatt er doch dem König diese Güter als\nconfiscirt angegeben, und für Ewr Durchlaucht in Vorschlag\ngebracht - von Rechts wegen muß er diesen Ausfall\nvertreten - Es ist dies überhaupt ein besonderer Mann\nÜbrigens kan es sein, daß man noch andere Rettungs¬\nMittel auffindet, ich werde gewis nichts unversucht laßen\nWegen den Winieces Forst macht die Cammer viel Spec¬\ntacte, ich werde indes in kurzen selbst dorthin gehen und\ndie Polacken sondern – Sobald ich mit den Prinzen Georgen\nSachen fertig bin, welches in 5 Wochen geschehen dürfte, eile\nich nach Berlin um alles bey der retour d. v. Voss vor\nzu bereiten\nDas Schreiben an H. [P?]ritswig wird Wildeganst heute\nabgeben, auch das an Kuch soll behändigt werden.\nEs ist auch sehr gut alles gesagt, indes glaube ich\nnicht das Weigel davon Schuld ist - Mitt Schlabrendorff\nwerde ich die Sache auf ein oder die andere Art machen\nAm Ende soll er mir selbst das Geld zur Bezahlung der",
-   "transcription": "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu\nnichts verstehen dürften - Eigen in seiner Art ist dieser\nZug - den erst hatt er doch dem König diese Güter als\nconfiscirt angegeben, und für Ewr Durchlaucht in Vorschlag\ngebracht - von Rechts wegen muß er diesen Ausfall\nvertreten - Es ist dies überhaupt ein besonderer Mann\nÜbrigens kan es sein, daß man noch andere Rettungs-\nMittel auffindet, ich werde gewis nichts unversucht laßen\nWegen den Winieces Forst macht die Cammer viel Spec\ntacte, ich werde indes in kurzen selbst dorthin gehen und\ndie Polacken sondern – Sobald ich mit den Prinzen Georgen\nSachen fertig bin, welches in 5 Wochen geschehen dürfte, eile\nich nach Berlin um alles bey der retour d. v. Voss vor\nzu bereiten\nDas Schreiben an H. [P?]ritswig wird Wildeganst heute\nabgeben, auch das an Kuch soll behändigt werden.\nEs ist auch sehr gut alles gesagt, indes glaube ich\nnicht das Weigel davon Schuld ist - Mitt Schlabrendorff\nwerde ich die Sache auf ein oder die andere Art machen\nAm Ende soll er mir selbst das Geld zur Bezahlung der",
-   "reading": "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu nichts verstehen dürften - Eigen in seiner Art ist dieser Zug - den erst hatt er doch dem König diese Güter als confiscirt angegeben, und für Ewr Durchlaucht in Vorschlag gebracht - von Rechts wegen muß er diesen Ausfall vertreten - Es ist dies überhaupt ein besonderer Mann Übrigens kan es sein, daß man noch andere RettungsMittel auffindet, ich werde gewis nichts unversucht laßen Wegen den Winieces Forst macht die Cammer viel Spec tacte, ich werde indes in kurzen selbst dorthin gehen und die Polacken sondern – Sobald ich mit den Prinzen Georgen Sachen fertig bin, welches in 5 Wochen geschehen dürfte, eile ich nach Berlin um alles bey der retour d. v. Voss vor zu bereiten Das Schreiben an H. [P?]ritswig wird Wildeganst heute abgeben, auch das an Kuch soll behändigt werden. Es ist auch sehr gut alles gesagt, indes glaube ich nicht das Weigel davon Schuld ist - Mitt Schlabrendorff werde ich die Sache auf ein oder die andere Art machen Am Ende soll er mir selbst das Geld zur Bezahlung der",
+   "diplomatic": "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu\nnichts verstehen dürften - Eigen in seiner Art ist dieser\nZug - den erst hatt er doch dem König diese Güter als\nconfiscirt angegeben, und für Ewr Durchlaucht in Vorschlag\ngebracht - von Rechts wegen muß er diesen Ausfall\nvertreten - Es ist dies überhaupt ein besonderer Mann\nÜbrigens kan es sein, daß man noch andere Rettungs\nMittel auffindet, ich werde gewis nichts unversucht laßen\nWegen den Winiecer Forst macht die Cammer viel Spec¬\ntacle, ich werde indes in kurzen selbst dorthin gehen und\ndie Polacken sondern – Sobald ich mit den Prinzen Georgen\nSachen fertig bin, welches in 5 Wochen geschehen dürfte, eile\nich nach Berlin um alles bey der retour d. v. Voss vor\nzu bereiten -\nDas Schreiben an H. v Prittwitz wird Wildeganst heute\nabgeben, auch das an Kur:[?] soll behändigt werden.\nEs ist auch sehr gut alles gesagt, indes glaube ich\nnicht das Weigel davon Schuld ist - Mitt Schlabrendorff\nwerde ich die Sache auf ein oder die andere Art machen\nAm Ende soll er mir selbst das Geld zur Bezahlung der",
+   "transcription": "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu\nnichts verstehen dürften - Eigen in seiner Art ist dieser\nZug - den erst hatt er doch dem König diese Güter als\nconfiscirt angegeben, und für Ewr Durchlaucht in Vorschlag\ngebracht - von Rechts wegen muß er diesen Ausfall\nvertreten - Es ist dies überhaupt ein besonderer Mann\nÜbrigens kan es sein, daß man noch andere Rettungs\nMittel auffindet, ich werde gewis nichts unversucht laßen\nWegen den Winiecer Forst macht die Cammer viel Spec-\ntacle, ich werde indes in kurzen selbst dorthin gehen und\ndie Polacken sondern – Sobald ich mit den Prinzen Georgen\nSachen fertig bin, welches in 5 Wochen geschehen dürfte, eile\nich nach Berlin um alles bey der retour d. v. Voss vor\nzu bereiten -\nDas Schreiben an H. v Prittwitz wird Wildeganst heute\nabgeben, auch das an Kur:[?] soll behändigt werden.\nEs ist auch sehr gut alles gesagt, indes glaube ich\nnicht das Weigel davon Schuld ist - Mitt Schlabrendorff\nwerde ich die Sache auf ein oder die andere Art machen\nAm Ende soll er mir selbst das Geld zur Bezahlung der",
+   "reading": "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu nichts verstehen dürften - Eigen in seiner Art ist dieser Zug - den erst hatt er doch dem König diese Güter als confiscirt angegeben, und für Ewr Durchlaucht in Vorschlag gebracht - von Rechts wegen muß er diesen Ausfall vertreten - Es ist dies überhaupt ein besonderer Mann Übrigens kan es sein, daß man noch andere Rettungs Mittel auffindet, ich werde gewis nichts unversucht laßen Wegen den Winiecer Forst macht die Cammer viel Spectacle, ich werde indes in kurzen selbst dorthin gehen und die Polacken sondern – Sobald ich mit den Prinzen Georgen Sachen fertig bin, welches in 5 Wochen geschehen dürfte, eile ich nach Berlin um alles bey der retour d. v. Voss vor zu bereiten - Das Schreiben an H. v Prittwitz wird Wildeganst heute abgeben, auch das an Kur:[?] soll behändigt werden. Es ist auch sehr gut alles gesagt, indes glaube ich nicht das Weigel davon Schuld ist - Mitt Schlabrendorff werde ich die Sache auf ein oder die andere Art machen Am Ende soll er mir selbst das Geld zur Bezahlung der",
    "paragraphs": [
-    "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu nichts verstehen dürften - Eigen in seiner Art ist dieser Zug - den erst hatt er doch dem König diese Güter als confiscirt angegeben, und für Ewr Durchlaucht in Vorschlag gebracht - von Rechts wegen muß er diesen Ausfall vertreten - Es ist dies überhaupt ein besonderer Mann Übrigens kan es sein, daß man noch andere RettungsMittel auffindet, ich werde gewis nichts unversucht laßen Wegen den Winieces Forst macht die Cammer viel Spec tacte, ich werde indes in kurzen selbst dorthin gehen und die Polacken sondern – Sobald ich mit den Prinzen Georgen Sachen fertig bin, welches in 5 Wochen geschehen dürfte, eile ich nach Berlin um alles bey der retour d. v. Voss vor zu bereiten Das Schreiben an H. [P?]ritswig wird Wildeganst heute abgeben, auch das an Kuch soll behändigt werden. Es ist auch sehr gut alles gesagt, indes glaube ich nicht das Weigel davon Schuld ist - Mitt Schlabrendorff werde ich die Sache auf ein oder die andere Art machen Am Ende soll er mir selbst das Geld zur Bezahlung der"
+    "gewandt würde, - weil Ewr Durchlaucht sich sonsten wohl zu nichts verstehen dürften - Eigen in seiner Art ist dieser Zug - den erst hatt er doch dem König diese Güter als confiscirt angegeben, und für Ewr Durchlaucht in Vorschlag gebracht - von Rechts wegen muß er diesen Ausfall vertreten - Es ist dies überhaupt ein besonderer Mann Übrigens kan es sein, daß man noch andere Rettungs Mittel auffindet, ich werde gewis nichts unversucht laßen Wegen den Winiecer Forst macht die Cammer viel Spectacle, ich werde indes in kurzen selbst dorthin gehen und die Polacken sondern – Sobald ich mit den Prinzen Georgen Sachen fertig bin, welches in 5 Wochen geschehen dürfte, eile ich nach Berlin um alles bey der retour d. v. Voss vor zu bereiten - Das Schreiben an H. v Prittwitz wird Wildeganst heute abgeben, auch das an Kur:[?] soll behändigt werden. Es ist auch sehr gut alles gesagt, indes glaube ich nicht das Weigel davon Schuld ist - Mitt Schlabrendorff werde ich die Sache auf ein oder die andere Art machen Am Ende soll er mir selbst das Geld zur Bezahlung der"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
-   "doc_line_start": 36,
-   "doc_line_end": 55
+   "doc_line_start": 37,
+   "doc_line_end": 56
   },
   {
    "page": 4,
-   "page_id": "",
-   "line_start": 8032,
-   "line_end": 8048,
+   "page_id": "0213_a",
+   "line_start": 8024,
+   "line_end": 8040,
    "n_lines": 17,
-   "diplomatic": "Intressen leihen - Wildeganst giebt sich alle nur\ndenckliche Mühe dieses auf einer feinen Art zu leiten\ndie Neuigkeiten wegen Krieg sind wahrlich traurig\njedes hoffe ich daß es dorten beßer gehen wird, als\nman glaubt\nMitt den Rußen sieht es böse aus, den da schmachtet\nman sehr, und wie ich bemerckt werden sich alle\nSüdpreußen dahin - Es ist ein wahres Unglück\ndas Niemand in Südpreußen auf die Leute acht\ngiebt. Alles sieht einer Räuber Herde schon\nganz ähnlich.\nGott erhalte Euer Durchlaucht nur gesund¬\nzu tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau d 6ten Marz 1799.\ntreu unterthänigster Knecht\nv Triebenfeld",
-   "transcription": "Intressen leihen - Wildeganst giebt sich alle nur\ndenckliche Mühe dieses auf einer feinen Art zu leiten\ndie Neuigkeiten wegen Krieg sind wahrlich traurig\njedes hoffe ich daß es dorten beßer gehen wird, als\nman glaubt\nMitt den Rußen sieht es böse aus, den da schmachtet\nman sehr, und wie ich bemerckt werden sich alle\nSüdpreußen dahin - Es ist ein wahres Unglück\ndas Niemand in Südpreußen auf die Leute acht\ngiebt. Alles sieht einer Räuber Herde schon\nganz ähnlich.\nGott erhalte Euer Durchlaucht nur gesund\nzu tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau d 6ten Marz 1799.\ntreu unterthänigster Knecht\nv Triebenfeld",
-   "reading": "Intressen leihen - Wildeganst giebt sich alle nur denckliche Mühe dieses auf einer feinen Art zu leiten die Neuigkeiten wegen Krieg sind wahrlich traurig jedes hoffe ich daß es dorten beßer gehen wird, als man glaubt Mitt den Rußen sieht es böse aus, den da schmachtet man sehr, und wie ich bemerckt werden sich alle Südpreußen dahin - Es ist ein wahres Unglück das Niemand in Südpreußen auf die Leute acht giebt. Alles sieht einer Räuber Herde schon ganz ähnlich.\n\nGott erhalte Euer Durchlaucht nur gesund zu tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 6ten Marz 1799.\n\ntreu unterthänigster Knecht\n\nv Triebenfeld",
+   "diplomatic": "Intressen leihen - Wildeganst giebt sich alle nur\ndenckliche Mühe dieses auf einer feinen Art zu leiten\ndie Neuigkeiten wegen Krieg sind wahrlich traurig\nindes hoffe ich daß es dorten beßer gehen wird, als\nman glaubt\nMitt den Rußen sieht es böse aus, den da schmarcht\nman sehr, und wie ich bemerckt wenden sich alle\nSüdpreußen dahin - Es ist ein wahres Unglück\ndas Niemand in Südpreußen auf die Leute acht\ngiebt. Alles sieht einer Räuber Herde schon\nganz ähnlich.\nGott erhalte Euer Durchlaucht nur gesund\nIn tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau d 6ten Marz 1799.\ntreu unterthänigster Knecht\nv Triebenfeld",
+   "transcription": "Intressen leihen - Wildeganst giebt sich alle nur\ndenckliche Mühe dieses auf einer feinen Art zu leiten\ndie Neuigkeiten wegen Krieg sind wahrlich traurig\nindes hoffe ich daß es dorten beßer gehen wird, als\nman glaubt\nMitt den Rußen sieht es böse aus, den da schmarcht\nman sehr, und wie ich bemerckt wenden sich alle\nSüdpreußen dahin - Es ist ein wahres Unglück\ndas Niemand in Südpreußen auf die Leute acht\ngiebt. Alles sieht einer Räuber Herde schon\nganz ähnlich.\nGott erhalte Euer Durchlaucht nur gesund\nIn tiefster Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau d 6ten Marz 1799.\ntreu unterthänigster Knecht\nv Triebenfeld",
+   "reading": "Intressen leihen - Wildeganst giebt sich alle nur denckliche Mühe dieses auf einer feinen Art zu leiten die Neuigkeiten wegen Krieg sind wahrlich traurig indes hoffe ich daß es dorten beßer gehen wird, als man glaubt Mitt den Rußen sieht es böse aus, den da schmarcht man sehr, und wie ich bemerckt wenden sich alle Südpreußen dahin - Es ist ein wahres Unglück das Niemand in Südpreußen auf die Leute acht giebt. Alles sieht einer Räuber Herde schon ganz ähnlich.\n\nGott erhalte Euer Durchlaucht nur gesund In tiefster Submission ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nBreslau d 6ten Marz 1799.\n\ntreu unterthänigster Knecht\n\nv Triebenfeld",
    "paragraphs": [
-    "Intressen leihen - Wildeganst giebt sich alle nur denckliche Mühe dieses auf einer feinen Art zu leiten die Neuigkeiten wegen Krieg sind wahrlich traurig jedes hoffe ich daß es dorten beßer gehen wird, als man glaubt Mitt den Rußen sieht es böse aus, den da schmachtet man sehr, und wie ich bemerckt werden sich alle Südpreußen dahin - Es ist ein wahres Unglück das Niemand in Südpreußen auf die Leute acht giebt. Alles sieht einer Räuber Herde schon ganz ähnlich.",
-    "Gott erhalte Euer Durchlaucht nur gesund zu tiefster Submission ersterbe",
+    "Intressen leihen - Wildeganst giebt sich alle nur denckliche Mühe dieses auf einer feinen Art zu leiten die Neuigkeiten wegen Krieg sind wahrlich traurig indes hoffe ich daß es dorten beßer gehen wird, als man glaubt Mitt den Rußen sieht es böse aus, den da schmarcht man sehr, und wie ich bemerckt wenden sich alle Südpreußen dahin - Es ist ein wahres Unglück das Niemand in Südpreußen auf die Leute acht giebt. Alles sieht einer Räuber Herde schon ganz ähnlich.",
+    "Gott erhalte Euer Durchlaucht nur gesund In tiefster Submission ersterbe",
     "Ewr Hochfürstliche Durchlaucht",
     "Breslau d 6ten Marz 1799.",
     "treu unterthänigster Knecht",
@@ -111,8 +116,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0213_a-L102_04.jpg",
-   "doc_line_start": 56,
-   "doc_line_end": 72
+   "doc_line_start": 57,
+   "doc_line_end": 73
   }
  ],
  "mentions": [
@@ -122,10 +127,32 @@
    "kind": "person",
    "surface": "Voss",
    "page": 1,
-   "page_id": "",
+   "page_id": "0211_a",
    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
-   "line": 7976,
-   "doc_line": 3
+   "line": 7968,
+   "doc_line": 4
+  },
+  {
+   "entity": "prittwitz",
+   "display": "Prittwitz",
+   "kind": "person",
+   "surface": "Prittwitz",
+   "page": 1,
+   "page_id": "0211_a",
+   "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
+   "line": 7972,
+   "doc_line": 8
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0211_a",
+   "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
+   "line": 7974,
+   "doc_line": 10
   },
   {
    "entity": "broniewski",
@@ -133,10 +160,10 @@
    "kind": "person",
    "surface": "Broniew",
    "page": 1,
-   "page_id": "",
+   "page_id": "0211_a",
    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
-   "line": 7985,
-   "doc_line": 12
+   "line": 7977,
+   "doc_line": 13
   },
   {
    "entity": "broniewski",
@@ -144,10 +171,10 @@
    "kind": "person",
    "surface": "Broniew",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 7993,
-   "doc_line": 19
+   "line": 7985,
+   "doc_line": 20
   },
   {
    "entity": "glenck",
@@ -155,10 +182,10 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 7995,
-   "doc_line": 21
+   "line": 7987,
+   "doc_line": 22
   },
   {
    "entity": "prusimski",
@@ -166,10 +193,10 @@
    "kind": "person",
    "surface": "Prusimskischen",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 7999,
-   "doc_line": 25
+   "line": 7991,
+   "doc_line": 26
   },
   {
    "entity": "hoym",
@@ -177,21 +204,32 @@
    "kind": "person",
    "surface": "Hoym",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 8006,
-   "doc_line": 32
+   "line": 7998,
+   "doc_line": 33
   },
   {
    "entity": "prusimski",
    "display": "Prusimski family (Trąbczyn estates)",
    "kind": "person",
-   "surface": "Prussiemski",
+   "surface": "Prusimski",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 8007,
-   "doc_line": 33
+   "line": 7999,
+   "doc_line": 34
+  },
+  {
+   "entity": "prinz-george",
+   "display": "Prinz George",
+   "kind": "person",
+   "surface": "George",
+   "page": 3,
+   "page_id": "0212_a2",
+   "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
+   "line": 8013,
+   "doc_line": 47
   },
   {
    "entity": "voss",
@@ -199,10 +237,21 @@
    "kind": "person",
    "surface": "Voss",
    "page": 3,
-   "page_id": "",
+   "page_id": "0212_a2",
    "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
-   "line": 8023,
-   "doc_line": 48
+   "line": 8015,
+   "doc_line": 49
+  },
+  {
+   "entity": "prittwitz",
+   "display": "Prittwitz",
+   "kind": "person",
+   "surface": "Prittwitz",
+   "page": 3,
+   "page_id": "0212_a2",
+   "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
+   "line": 8017,
+   "doc_line": 51
   },
   {
    "entity": "schlabrendorff",
@@ -210,10 +259,10 @@
    "kind": "person",
    "surface": "Schlabrendorff",
    "page": 3,
-   "page_id": "",
+   "page_id": "0212_a2",
    "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
-   "line": 8028,
-   "doc_line": 53
+   "line": 8020,
+   "doc_line": 54
   },
   {
    "entity": "weigel",
@@ -221,10 +270,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 3,
-   "page_id": "",
+   "page_id": "0212_a2",
    "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
-   "line": 8028,
-   "doc_line": 53
+   "line": 8020,
+   "doc_line": 54
   },
   {
    "entity": "triebenfeld",
@@ -232,266 +281,47 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 4,
-   "page_id": "",
+   "page_id": "0213_a",
    "scan": "Oe_1_Bu_9454_0213_a-L102_04.jpg",
-   "line": 8048,
-   "doc_line": 72
+   "line": 8040,
+   "doc_line": 73
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "von Voss",
-   "kind": "person",
-   "surface_de": "v Voss",
-   "surface_en": "von Voss",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Krotoszyn",
-   "kind": "place",
-   "surface_de": "Krotoszyn",
-   "surface_en": "Krotoszyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prittwitz",
-   "kind": "person",
-   "surface_de": "Prittwitz",
-   "surface_en": "Prittwitz",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Chelmshi",
-   "kind": "person",
-   "surface_de": "Chelmshi",
-   "surface_en": "Chelmshi",
-   "page": 1
-  },
-  {
-   "entity": "broniewski",
-   "display": "Broniewski",
-   "kind": "person",
-   "surface_de": "Broniewski",
-   "surface_en": "Broniewski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Posen",
-   "kind": "place",
-   "surface_de": "Posen",
-   "surface_en": "Posen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Patri",
-   "kind": "person",
-   "surface_de": "Patri",
-   "surface_en": "Patri",
-   "page": 1
-  },
-  {
-   "entity": "broniewski",
-   "display": "Broniewski",
-   "kind": "person",
-   "surface_de": "Broniewski",
-   "surface_en": "Broniewski",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Kamionna",
-   "kind": "place",
-   "surface_de": "Kaemen",
-   "surface_en": "Kamionna",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Kulm",
-   "kind": "place",
-   "surface_de": "Kulm",
-   "surface_en": "Kulm",
-   "page": 2
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Brzyze",
-   "kind": "place",
-   "surface_de": "Brzyze",
-   "surface_en": "Brzyze",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Posen",
-   "kind": "place",
-   "surface_de": "Posen",
-   "surface_en": "Posen",
-   "page": 2
-  },
-  {
-   "entity": "prusimski",
-   "display": "Prusimski family (Trąbczyn estates)",
-   "kind": "person",
-   "surface_de": "Prusimskischen",
-   "surface_en": "Prusimski",
-   "page": 2
-  },
-  {
-   "entity": "hoym",
-   "display": "Hoym",
-   "kind": "person",
-   "surface_de": "Hoym",
-   "surface_en": "Hoym",
-   "page": 2
-  },
-  {
-   "entity": "prusimski",
-   "display": "Prusimski family (Trąbczyn estates)",
-   "kind": "person",
-   "surface_de": "Prussiemski",
-   "surface_en": "Prussiemski",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Winieces",
-   "kind": "place",
-   "surface_de": "Winieces",
-   "surface_en": "Winieces",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Prince George",
-   "kind": "person",
-   "surface_de": "Prinzen Georgen",
-   "surface_en": "Prince George",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "von Voss",
-   "kind": "person",
-   "surface_de": "v. Voss",
-   "surface_en": "von Voss",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "[uncertain: Pritswig]",
-   "kind": "person",
-   "surface_de": "[P?]ritswig",
-   "surface_en": "[uncertain: Pritswig]",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Wildeganst",
-   "kind": "person",
-   "surface_de": "Wildeganst",
-   "surface_en": "Wildeganst",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Kuch",
-   "kind": "person",
-   "surface_de": "Kuch",
-   "surface_en": "Kuch",
-   "page": 3
-  },
-  {
-   "entity": "weigel",
-   "display": "Weigel",
-   "kind": "person",
-   "surface_de": "Weigel",
-   "surface_en": "Weigel",
-   "page": 3
-  },
-  {
-   "entity": "schlabrendorff",
-   "display": "Schlabrendorff",
-   "kind": "person",
-   "surface_de": "Schlabrendorff",
-   "surface_en": "Schlabrendorff",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Wildeganst",
-   "kind": "person",
-   "surface_de": "Wildeganst",
-   "surface_en": "Wildeganst",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Russians",
-   "kind": "other",
-   "surface_de": "Rußen",
-   "surface_en": "Russians",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "South Prussia",
-   "kind": "place",
-   "surface_de": "Südpreußen",
-   "surface_en": "South Prussia",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 4
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 4
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
+  {
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0211_a",
+   "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
+   "line": 7969,
+   "doc_line": 5
+  },
+  {
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0211_a",
+   "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
+   "line": 7979,
+   "doc_line": 15
+  },
   {
    "entity": "posen",
    "display": "Posen",
    "kind": "place",
    "surface": "Posen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0211_a",
    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
-   "line": 7987,
-   "doc_line": 14
+   "line": 7979,
+   "doc_line": 15
   },
   {
    "entity": "kamionno",
@@ -499,10 +329,21 @@
    "kind": "place",
    "surface": "Kaemen",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 7995,
-   "doc_line": 21
+   "line": 7987,
+   "doc_line": 22
+  },
+  {
+   "entity": "kulm",
+   "display": "Kulm",
+   "kind": "place",
+   "surface": "Kulm",
+   "page": 2,
+   "page_id": "0212_a1",
+   "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
+   "line": 7987,
+   "doc_line": 22
   },
   {
    "entity": "posen",
@@ -510,21 +351,10 @@
    "kind": "place",
    "surface": "Posen",
    "page": 2,
-   "page_id": "",
+   "page_id": "0212_a1",
    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-   "line": 7998,
-   "doc_line": 24
-  },
-  {
-   "entity": "wienietz",
-   "display": "Wienietz",
-   "kind": "place",
-   "surface": "Winieces",
-   "page": 3,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
-   "line": 8019,
-   "doc_line": 44
+   "line": 7990,
+   "doc_line": 25
   },
   {
    "entity": "berlin",
@@ -532,10 +362,32 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 3,
-   "page_id": "",
+   "page_id": "0212_a2",
    "scan": "Oe_1_Bu_9454_0212_a2-L102_03.jpg",
-   "line": 8023,
-   "doc_line": 48
+   "line": 8015,
+   "doc_line": 49
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 4,
+   "page_id": "0213_a",
+   "scan": "Oe_1_Bu_9454_0213_a-L102_04.jpg",
+   "line": 8031,
+   "doc_line": 64
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
+   "page": 4,
+   "page_id": "0213_a",
+   "scan": "Oe_1_Bu_9454_0213_a-L102_04.jpg",
+   "line": 8032,
+   "doc_line": 65
   },
   {
    "entity": "breslau",
@@ -543,207 +395,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 4,
-   "page_id": "",
+   "page_id": "0213_a",
    "scan": "Oe_1_Bu_9454_0213_a-L102_04.jpg",
-   "line": 8046,
-   "doc_line": 70
+   "line": 8038,
+   "doc_line": 71
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord!\n\nAccording to several reports, His Excellency Minister von Voss is to arrive at Krotoszyn in about 3 weeks, in order to examine the business in question. God grant that the matter be concluded as we wish. If only\n\nMr. von Prittwitz would then take the trouble and go there himself, the matter would proceed very quickly. Chelmshi has lost in the second instance as well, and now I await only what he will do further. The matter will soon be concluded.\n\nWith Broniewski I can conclude at any hour; only I shall not do so before I see how things turn out with Krotoszyn — I have now had everything at Posen analysed once again, and everyone now finds that not a Groschen is likely to come out of it for the Patri. Meanwhile, in order",
-   "names": [
-    {
-     "de": "v Voss",
-     "en": "von Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Krotoszyn",
-     "en": "Krotoszyn",
-     "kind": "place"
-    },
-    {
-     "de": "Prittwitz",
-     "en": "Prittwitz",
-     "kind": "person"
-    },
-    {
-     "de": "Chelmshi",
-     "en": "Chelmshi",
-     "kind": "person"
-    },
-    {
-     "de": "Broniewski",
-     "en": "Broniewski",
-     "kind": "person"
-    },
-    {
-     "de": "Posen",
-     "en": "Posen",
-     "kind": "place"
-    },
-    {
-     "de": "Patri",
-     "en": "Patri",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "3",
-    "2ten",
-    "6th (see numbers: 1799 not on page)"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "not to neglect anything, the dismemberment there will be drawn up complete and firm; to that end the exchange takes place, and so I shall come to terms with Broniewski over some thousands of We[?], and give the order for the dismemberment — After the survey of Kamionna and Kulm, Glenck is already bringing out about 6000 Rthl in interest, and in that manner it will go proportionately with every estate — Only on account of Brzyze have I had much clamour at Posen; they wished to collect this at once for the Prusimski daughter, and with every conceivable effort I have been able to obtain a term of 6 weeks — My humble counsel is that a letter now be written to the Grand Chancellor and an extension of the term by 5 months be applied for. This I shall see to, for I still have blank forms. Thereafter the matter may turn out oddly — for the fisc has approached Minister Hoym, to have the confiscation decree published against the Prussiemski woman as well. The Minister has, however, ordered the files to be secretly laid aside, so that something might be",
-   "names": [
-    {
-     "de": "Broniewski",
-     "en": "Broniewski",
-     "kind": "person"
-    },
-    {
-     "de": "Kaemen",
-     "en": "Kamionna",
-     "kind": "place"
-    },
-    {
-     "de": "Kulm",
-     "en": "Kulm",
-     "kind": "place"
-    },
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Brzyze",
-     "en": "Brzyze",
-     "kind": "place"
-    },
-    {
-     "de": "Posen",
-     "en": "Posen",
-     "kind": "place"
-    },
-    {
-     "de": "Prusimskischen",
-     "en": "Prusimski",
-     "kind": "person"
-    },
-    {
-     "de": "Hoym",
-     "en": "Hoym",
-     "kind": "person"
-    },
-    {
-     "de": "Prussiemski",
-     "en": "Prussiemski",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "6000",
-    "6",
-    "5"
-   ]
-  },
-  {
-   "page": 3,
-   "en": "turned to the girl's advantage — since otherwise Your Serene Highness would hardly be willing to agree to anything — Peculiar in its way is this move — for first he did after all report these estates to the King as confiscated, and proposed them for Your Serene Highness — in law he must answer for this shortfall — This is altogether a singular man. For the rest, it may be that still other means of rescue will be found; I shall certainly leave nothing untried. On account of the Winieces forest the Chamber is making much spectacle; I shall meanwhile shortly go there myself and sift out the Poles — As soon as I am done with Prince George's affairs, which should happen within 5 weeks, I shall hasten to Berlin in order to prepare everything for von Voss's return. The letter to Mr. [uncertain: Pritswig] Wildeganst will deliver today; that to Kuch shall likewise be handed over. Everything is also very well said; meanwhile I do not believe that Weigel is to blame for it — With Schlabrendorff I shall settle the matter one way or the other. In the end he shall himself lend me the money for the payment of the",
-   "names": [
-    {
-     "de": "Winieces",
-     "en": "Winieces",
-     "kind": "place"
-    },
-    {
-     "de": "Prinzen Georgen",
-     "en": "Prince George",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "v. Voss",
-     "en": "von Voss",
-     "kind": "person"
-    },
-    {
-     "de": "[P?]ritswig",
-     "en": "[uncertain: Pritswig]",
-     "kind": "person"
-    },
-    {
-     "de": "Wildeganst",
-     "en": "Wildeganst",
-     "kind": "person"
-    },
-    {
-     "de": "Kuch",
-     "en": "Kuch",
-     "kind": "person"
-    },
-    {
-     "de": "Weigel",
-     "en": "Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Schlabrendorff",
-     "en": "Schlabrendorff",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "5"
-   ]
-  },
-  {
-   "page": 4,
-   "en": "interest — Wildeganst is taking every conceivable trouble to direct this in a delicate manner. The news concerning the war is truly sad; yet I hope that matters will go better there than is believed. With the Russians it looks bad, for there one languishes greatly, and as I have observed, all of South Prussia is turning that way — It is a true misfortune that no one in South Prussia keeps watch over the people. Everything already looks quite like a band of robbers.\n\nMay God only preserve Your Serene Highness in health. In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 6th of March 1799.\n\nmost faithful and humble servant\n\nvon Triebenfeld",
-   "names": [
-    {
-     "de": "Wildeganst",
-     "en": "Wildeganst",
-     "kind": "person"
-    },
-    {
-     "de": "Rußen",
-     "en": "Russians",
-     "kind": "other"
-    },
-    {
-     "de": "Südpreußen",
-     "en": "South Prussia",
-     "kind": "place"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "6ten",
-    "1799"
-   ]
-  }
- ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord!\n\nAccording to several reports, His Excellency Minister von Voss is to arrive at Krotoszyn in about 3 weeks, in order to examine the business in question. God grant that the matter be concluded as we wish. If only\n\nMr. von Prittwitz would then take the trouble and go there himself, the matter would proceed very quickly. Chelmshi has lost in the second instance as well, and now I await only what he will do further. The matter will soon be concluded.\n\nWith Broniewski I can conclude at any hour; only I shall not do so before I see how things turn out with Krotoszyn — I have now had everything at Posen analysed once again, and everyone now finds that not a Groschen is likely to come out of it for the Patri. Meanwhile, in order\n\nnot to neglect anything, the dismemberment there will be drawn up complete and firm; to that end the exchange takes place, and so I shall come to terms with Broniewski over some thousands of We[?], and give the order for the dismemberment — After the survey of Kamionna and Kulm, Glenck is already bringing out about 6000 Rthl in interest, and in that manner it will go proportionately with every estate — Only on account of Brzyze have I had much clamour at Posen; they wished to collect this at once for the Prusimski daughter, and with every conceivable effort I have been able to obtain a term of 6 weeks — My humble counsel is that a letter now be written to the Grand Chancellor and an extension of the term by 5 months be applied for. This I shall see to, for I still have blank forms. Thereafter the matter may turn out oddly — for the fisc has approached Minister Hoym, to have the confiscation decree published against the Prussiemski woman as well. The Minister has, however, ordered the files to be secretly laid aside, so that something might be\n\nturned to the girl's advantage — since otherwise Your Serene Highness would hardly be willing to agree to anything — Peculiar in its way is this move — for first he did after all report these estates to the King as confiscated, and proposed them for Your Serene Highness — in law he must answer for this shortfall — This is altogether a singular man. For the rest, it may be that still other means of rescue will be found; I shall certainly leave nothing untried. On account of the Winieces forest the Chamber is making much spectacle; I shall meanwhile shortly go there myself and sift out the Poles — As soon as I am done with Prince George's affairs, which should happen within 5 weeks, I shall hasten to Berlin in order to prepare everything for von Voss's return. The letter to Mr. [uncertain: Pritswig] Wildeganst will deliver today; that to Kuch shall likewise be handed over. Everything is also very well said; meanwhile I do not believe that Weigel is to blame for it — With Schlabrendorff I shall settle the matter one way or the other. In the end he shall himself lend me the money for the payment of the\n\ninterest — Wildeganst is taking every conceivable trouble to direct this in a delicate manner. The news concerning the war is truly sad; yet I hope that matters will go better there than is believed. With the Russians it looks bad, for there one languishes greatly, and as I have observed, all of South Prussia is turning that way — It is a true misfortune that no one in South Prussia keeps watch over the people. Everything already looks quite like a band of robbers.\n\nMay God only preserve Your Serene Highness in health. In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBreslau, the 6th of March 1799.\n\nmost faithful and humble servant\n\nvon Triebenfeld",
- "summary_en": "Minister von Voss is expected at Krotoszyn in about three weeks to examine the business there, and von Prittwitz should attend in person; Chelmshi has lost at second instance. Reports that nothing is likely to be recovered at Posen, that dismemberment and an exchange with Broniewski will go ahead, and that Glenck's survey of Kaemen and Kulm yields some 6000 Rthl in interest. Advises applying to the Grand Chancellor for a five month extension over Brzyze, where the Prusimski daughter's claim and a threatened confiscation, quietly shelved by Minister Hoym, press. Notes the Winieces forest dispute and unrest in South Prussia.",
- "summary_de": "Bericht über den Stand mehrerer Güterangelegenheiten: Minister von Voss werde in etwa drei Wochen in Krotoszyn prüfen, weshalb auch von Prittwitz hinreisen solle; Chelmshi habe auch in zweiter Instanz verloren. Mit Broniewski sei ein Abschluß über einige Tausend möglich, doch werde erst Krotoszyn abgewartet; die Dismembration in Posen werde vorbereitet, nach der Vermessung von Kaemen und Kulm bringe Glenck etwa 6000 Rthl Zinsen. Wegen Brzyze erbittet Triebenfeld ein Schreiben an den Großkanzler um fünf Monate Fristverlängerung; Minister Hoym habe die Akten zur Prussiemski heimlich beiseitelegen lassen. Ferner Streit der Kammer um den Winieces-Wald und Nachrichten zum Krieg."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

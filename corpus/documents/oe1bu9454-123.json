@@ -1,6 +1,6 @@
 {
  "letter_id": "123",
- "seq_archival": 135,
+ "seq_archival": 134,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-123",
@@ -18,41 +18,43 @@
  "month": 4,
  "day": 23,
  "place": "Breslau",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 9080,
- "line_end": 9101,
+ "sender": "",
+ "recipient": "",
+ "line_start": 9078,
+ "line_end": 9100,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
  "n_lines": 21,
  "n_pages": 1,
- "text": "Gestern Abend spät erhielt ich per Estaffette beigehende Schrei¬\nben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei\nlezt einreiche, und um Hochdero Verhaltungs befehle bitte\nNothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen\nund wann dies durch gütlichen Vergleich bewürckt werden könte, daß\nOtocki mit 1500 oder 2000 ℔ zufrieden wäre, so wären es eine\nVorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht\nhöchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht\nzum Vergleich gegeben werden soll\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln\nſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel\ndurch seine Wehementes Gebaren dumm Zeug und Jentsch aus\nBosheit, Intruquen machen wird, die nachteilig werden können.\nMein unvergreiflicher Rath ist die Menschen wohl zu instruiren\nund in ihren Schrancken zu weisen.\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so\ngar die Kontopper Rechnungen hier gelaßen, die über alles\nin dieser Sache einen Aufschlus gaben.\nv Triebenfeld\nBreslau den 23ten April 1804",
- "text_reading": "Gestern Abend spät erhielt ich per Estaffette beigehende Schreiben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei lezt einreiche, und um Hochdero Verhaltungs befehle bitte Nothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen und wann dies durch gütlichen Vergleich bewürckt werden könte, daß Otocki mit 1500 oder 2000 ℔ zufrieden wäre, so wären es eine Vorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht höchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht zum Vergleich gegeben werden soll daß übrigens der Kunckel und Jentsch sich so entgegen zu handeln ſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel durch seine Wehementes Gebaren dumm Zeug und Jentsch aus Bosheit, Intruquen machen wird, die nachteilig werden können. Mein unvergreiflicher Rath ist die Menschen wohl zu instruiren und in ihren Schrancken zu weisen.\n\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so gar die Kontopper Rechnungen hier gelaßen, die über alles in dieser Sache einen Aufschlus gaben.\n\nv Triebenfeld\n\nBreslau den 23ten April 1804",
+ "text": "123\nGestern Abend spät erhielt ich per Estaffette beigehende Schrei¬\nben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei\nlezt einreiche, und um Hochdero Verhaltungs befehle bitte\nNothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen\nund wann dies durch gütlichen Vergleich bewürckt werden könte, daß\nOtocki mit 1500 oder 2000 rt. zufrieden wäre, so wären es eine\nVorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht\nhöchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht\nzum Vergleich gegeben werden soll.\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln\nſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel\ndurch seine Wehementes Gebaren dumm Zeug und Jentsch aus\nBosheit, Intriguen machen wird, die nachteilig werden können.\nMein unvergreiflicher Rath ist die Menschen wohl zu instruiren\nund in ihren Schrancken zu weisen.\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so\ngar die Kontopper Rechnungen hier gelaßen, die über alles\nin dieser Sache einen Aufschlus gaben.\nBreslau den 23ten April 1804\nv Triebenfeld",
+ "text_reading": "123 Gestern Abend spät erhielt ich per Estaffette beigehende Schreiben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei lezt einreiche, und um Hochdero Verhaltungs befehle bitte Nothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen und wann dies durch gütlichen Vergleich bewürckt werden könte, daß Otocki mit 1500 oder 2000 rt. zufrieden wäre, so wären es eine Vorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht höchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht zum Vergleich gegeben werden soll.\n\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln ſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel durch seine Wehementes Gebaren dumm Zeug und Jentsch aus Bosheit, Intriguen machen wird, die nachteilig werden können. Mein unvergreiflicher Rath ist die Menschen wohl zu instruiren und in ihren Schrancken zu weisen.\n\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so gar die Kontopper Rechnungen hier gelaßen, die über alles in dieser Sache einen Aufschlus gaben.\n\nBreslau den 23ten April 1804\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 9081,
+   "page_id": "0242_a",
+   "line_start": 9080,
    "line_end": 9100,
-   "n_lines": 20,
-   "diplomatic": "Gestern Abend spät erhielt ich per Estaffette beigehende Schrei¬\nben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei\nlezt einreiche, und um Hochdero Verhaltungs befehle bitte\nNothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen\nund wann dies durch gütlichen Vergleich bewürckt werden könte, daß\nOtocki mit 1500 oder 2000 ℔ zufrieden wäre, so wären es eine\nVorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht\nhöchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht\nzum Vergleich gegeben werden soll\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln\nſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel\ndurch seine Wehementes Gebaren dumm Zeug und Jentsch aus\nBosheit, Intruquen machen wird, die nachteilig werden können.\nMein unvergreiflicher Rath ist die Menschen wohl zu instruiren\nund in ihren Schrancken zu weisen.\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so\ngar die Kontopper Rechnungen hier gelaßen, die über alles\nin dieser Sache einen Aufschlus gaben.\nv Triebenfeld\nBreslau den 23ten April 1804",
-   "transcription": "Gestern Abend spät erhielt ich per Estaffette beigehende Schrei-\nben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei\nlezt einreiche, und um Hochdero Verhaltungs befehle bitte\nNothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen\nund wann dies durch gütlichen Vergleich bewürckt werden könte, daß\nOtocki mit 1500 oder 2000 ℔ zufrieden wäre, so wären es eine\nVorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht\nhöchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht\nzum Vergleich gegeben werden soll\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln\nſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel\ndurch seine Wehementes Gebaren dumm Zeug und Jentsch aus\nBosheit, Intruquen machen wird, die nachteilig werden können.\nMein unvergreiflicher Rath ist die Menschen wohl zu instruiren\nund in ihren Schrancken zu weisen.\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so\ngar die Kontopper Rechnungen hier gelaßen, die über alles\nin dieser Sache einen Aufschlus gaben.\nv Triebenfeld\nBreslau den 23ten April 1804",
-   "reading": "Gestern Abend spät erhielt ich per Estaffette beigehende Schreiben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei lezt einreiche, und um Hochdero Verhaltungs befehle bitte Nothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen und wann dies durch gütlichen Vergleich bewürckt werden könte, daß Otocki mit 1500 oder 2000 ℔ zufrieden wäre, so wären es eine Vorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht höchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht zum Vergleich gegeben werden soll daß übrigens der Kunckel und Jentsch sich so entgegen zu handeln ſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel durch seine Wehementes Gebaren dumm Zeug und Jentsch aus Bosheit, Intruquen machen wird, die nachteilig werden können. Mein unvergreiflicher Rath ist die Menschen wohl zu instruiren und in ihren Schrancken zu weisen.\n\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so gar die Kontopper Rechnungen hier gelaßen, die über alles in dieser Sache einen Aufschlus gaben.\n\nv Triebenfeld\n\nBreslau den 23ten April 1804",
+   "n_lines": 21,
+   "diplomatic": "123\nGestern Abend spät erhielt ich per Estaffette beigehende Schrei¬\nben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei\nlezt einreiche, und um Hochdero Verhaltungs befehle bitte\nNothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen\nund wann dies durch gütlichen Vergleich bewürckt werden könte, daß\nOtocki mit 1500 oder 2000 rt. zufrieden wäre, so wären es eine\nVorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht\nhöchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht\nzum Vergleich gegeben werden soll.\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln\nſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel\ndurch seine Wehementes Gebaren dumm Zeug und Jentsch aus\nBosheit, Intriguen machen wird, die nachteilig werden können.\nMein unvergreiflicher Rath ist die Menschen wohl zu instruiren\nund in ihren Schrancken zu weisen.\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so\ngar die Kontopper Rechnungen hier gelaßen, die über alles\nin dieser Sache einen Aufschlus gaben.\nBreslau den 23ten April 1804\nv Triebenfeld",
+   "transcription": "123\nGestern Abend spät erhielt ich per Estaffette beigehende Schrei-\nben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei\nlezt einreiche, und um Hochdero Verhaltungs befehle bitte\nNothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen\nund wann dies durch gütlichen Vergleich bewürckt werden könte, daß\nOtocki mit 1500 oder 2000 rt. zufrieden wäre, so wären es eine\nVorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht\nhöchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht\nzum Vergleich gegeben werden soll.\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln\nſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel\ndurch seine Wehementes Gebaren dumm Zeug und Jentsch aus\nBosheit, Intriguen machen wird, die nachteilig werden können.\nMein unvergreiflicher Rath ist die Menschen wohl zu instruiren\nund in ihren Schrancken zu weisen.\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so\ngar die Kontopper Rechnungen hier gelaßen, die über alles\nin dieser Sache einen Aufschlus gaben.\nBreslau den 23ten April 1804\nv Triebenfeld",
+   "reading": "123 Gestern Abend spät erhielt ich per Estaffette beigehende Schreiben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei lezt einreiche, und um Hochdero Verhaltungs befehle bitte Nothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen und wann dies durch gütlichen Vergleich bewürckt werden könte, daß Otocki mit 1500 oder 2000 rt. zufrieden wäre, so wären es eine Vorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht höchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht zum Vergleich gegeben werden soll.\n\ndaß übrigens der Kunckel und Jentsch sich so entgegen zu handeln ſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel durch seine Wehementes Gebaren dumm Zeug und Jentsch aus Bosheit, Intriguen machen wird, die nachteilig werden können. Mein unvergreiflicher Rath ist die Menschen wohl zu instruiren und in ihren Schrancken zu weisen.\n\nGlenck ist gestern nicht mehr zu mich gekommen und hatt so gar die Kontopper Rechnungen hier gelaßen, die über alles in dieser Sache einen Aufschlus gaben.\n\nBreslau den 23ten April 1804\n\nv Triebenfeld",
    "paragraphs": [
-    "Gestern Abend spät erhielt ich per Estaffette beigehende Schreiben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei lezt einreiche, und um Hochdero Verhaltungs befehle bitte Nothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen und wann dies durch gütlichen Vergleich bewürckt werden könte, daß Otocki mit 1500 oder 2000 ℔ zufrieden wäre, so wären es eine Vorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht höchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht zum Vergleich gegeben werden soll daß übrigens der Kunckel und Jentsch sich so entgegen zu handeln ſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel durch seine Wehementes Gebaren dumm Zeug und Jentsch aus Bosheit, Intruquen machen wird, die nachteilig werden können. Mein unvergreiflicher Rath ist die Menschen wohl zu instruiren und in ihren Schrancken zu weisen.",
+    "123 Gestern Abend spät erhielt ich per Estaffette beigehende Schreiben des p Kunckel, welches ich Ewr Hochfürstliche Durchlaucht dabei lezt einreiche, und um Hochdero Verhaltungs befehle bitte Nothwendig ist es allerdings mit dem v. Otocki ein Abkommen zu treffen und wann dies durch gütlichen Vergleich bewürckt werden könte, daß Otocki mit 1500 oder 2000 rt. zufrieden wäre, so wären es eine Vorteilhafte wünschens werthe Sache. Euer Hochfürstliche Durchlaucht höchste Ermeßen stelle ich es anheim - ob dem Kunckel die Vollmacht zum Vergleich gegeben werden soll.",
+    "daß übrigens der Kunckel und Jentsch sich so entgegen zu handeln ſcheinen erregt meine große Beſorgnis – ich fürchte daß Kunckel durch seine Wehementes Gebaren dumm Zeug und Jentsch aus Bosheit, Intriguen machen wird, die nachteilig werden können. Mein unvergreiflicher Rath ist die Menschen wohl zu instruiren und in ihren Schrancken zu weisen.",
     "Glenck ist gestern nicht mehr zu mich gekommen und hatt so gar die Kontopper Rechnungen hier gelaßen, die über alles in dieser Sache einen Aufschlus gaben.",
-    "v Triebenfeld",
-    "Breslau den 23ten April 1804"
+    "Breslau den 23ten April 1804",
+    "v Triebenfeld"
    ],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 20
+   "doc_line_end": 21
   }
  ],
  "mentions": [
@@ -62,10 +64,10 @@
    "kind": "person",
    "surface": "Kunckel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9082,
-   "doc_line": 2
+   "doc_line": 3
   },
   {
    "entity": "otocki",
@@ -73,10 +75,10 @@
    "kind": "person",
    "surface": "Otocki",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9084,
-   "doc_line": 4
+   "doc_line": 5
   },
   {
    "entity": "otocki",
@@ -84,10 +86,10 @@
    "kind": "person",
    "surface": "Otocki",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9086,
-   "doc_line": 6
+   "doc_line": 7
   },
   {
    "entity": "kunckel",
@@ -95,10 +97,10 @@
    "kind": "person",
    "surface": "Kunckel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9088,
-   "doc_line": 8
+   "doc_line": 9
   },
   {
    "entity": "kunckel",
@@ -106,10 +108,10 @@
    "kind": "person",
    "surface": "Kunckel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9090,
-   "doc_line": 10
+   "doc_line": 11
   },
   {
    "entity": "kunckel",
@@ -117,10 +119,10 @@
    "kind": "person",
    "surface": "Kunckel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9091,
-   "doc_line": 11
+   "doc_line": 12
   },
   {
    "entity": "glenck",
@@ -128,10 +130,10 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9096,
-   "doc_line": 16
+   "doc_line": 17
   },
   {
    "entity": "triebenfeld",
@@ -139,78 +141,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
-   "line": 9099,
-   "doc_line": 19
+   "line": 9100,
+   "doc_line": 21
   }
  ],
- "mentions_english": [
-  {
-   "entity": "kunckel",
-   "display": "Kunckel",
-   "kind": "person",
-   "surface_de": "Kunckel",
-   "surface_en": "Kunckel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Otocki",
-   "kind": "person",
-   "surface_de": "v. Otocki",
-   "surface_en": "von Otocki",
-   "page": 1
-  },
-  {
-   "entity": "otocki",
-   "display": "Otocki",
-   "kind": "person",
-   "surface_de": "Otocki",
-   "surface_en": "Otocki",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Jentsch",
-   "kind": "person",
-   "surface_de": "Jentsch",
-   "surface_en": "Jentsch",
-   "page": 1
-  },
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kontop",
-   "kind": "place",
-   "surface_de": "Kontopper",
-   "surface_en": "Kontop",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -219,10 +156,10 @@
    "kind": "place",
    "surface": "Kontopper",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
    "line": 9097,
-   "doc_line": 17
+   "doc_line": 18
   },
   {
    "entity": "breslau",
@@ -230,68 +167,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0242_a",
    "scan": "Oe_1_Bu_9454_0242_a-L123_01.jpg",
-   "line": 9100,
+   "line": 9099,
    "doc_line": 20
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Late yesterday evening I received by express courier the enclosed letter from the aforesaid Kunckel, which I herewith [uncertain: at last] submit to Your Most Serene Highness, requesting Your high instructions as to my conduct. It is indeed necessary to reach an arrangement with von Otocki, and if this could be effected by amicable settlement, so that Otocki would be content with 1500 or 2000 ℔, it would be an advantageous and desirable thing. I leave it to Your Most Serene Highness's highest discretion whether the power of attorney to settle should be given to Kunckel. That Kunckel and Jentsch moreover appear to be acting so much against one another causes me great concern – I fear that Kunckel, through his vehement bearing, will do foolish things, and Jentsch out of malice will make intrigues, which may prove prejudicial. My unpresumptuous counsel is to instruct these men well and to keep them within their bounds.\n\nGlenck did not come to me again yesterday, and has even left the Kontop accounts here, which would have given information upon everything in this matter.\n\nvon Triebenfeld\n\nBreslau, 23rd April 1804",
-   "names": [
-    {
-     "de": "Kunckel",
-     "en": "Kunckel",
-     "kind": "person"
-    },
-    {
-     "de": "v. Otocki",
-     "en": "von Otocki",
-     "kind": "person"
-    },
-    {
-     "de": "Otocki",
-     "en": "Otocki",
-     "kind": "person"
-    },
-    {
-     "de": "Jentsch",
-     "en": "Jentsch",
-     "kind": "person"
-    },
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Kontopper",
-     "en": "Kontop",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "1500",
-    "2000",
-    "23ten",
-    "1804"
-   ]
-  }
- ],
- "text_english": "Late yesterday evening I received by express courier the enclosed letter from the aforesaid Kunckel, which I herewith [uncertain: at last] submit to Your Most Serene Highness, requesting Your high instructions as to my conduct. It is indeed necessary to reach an arrangement with von Otocki, and if this could be effected by amicable settlement, so that Otocki would be content with 1500 or 2000 ℔, it would be an advantageous and desirable thing. I leave it to Your Most Serene Highness's highest discretion whether the power of attorney to settle should be given to Kunckel. That Kunckel and Jentsch moreover appear to be acting so much against one another causes me great concern – I fear that Kunckel, through his vehement bearing, will do foolish things, and Jentsch out of malice will make intrigues, which may prove prejudicial. My unpresumptuous counsel is to instruct these men well and to keep them within their bounds.\n\nGlenck did not come to me again yesterday, and has even left the Kontop accounts here, which would have given information upon everything in this matter.\n\nvon Triebenfeld\n\nBreslau, 23rd April 1804",
- "summary_en": "Forwards a letter just arrived by express courier from Kunckel and asks the Prince for instructions, urging that a settlement be reached with von Otocki, ideally amicably for 1,500 or 2,000, and leaving it to the Prince whether Kunckel should be given power to settle. Warns that Kunckel and Jentsch are working against each other, the one rash, the other spiteful, and advises keeping both in check. Glenck failed to call again, leaving the Kontop accounts behind.",
- "summary_de": "Vorlage eines mit Estafette eingetroffenen Schreibens von Kunckel mit der Bitte um Weisung: Ein Vergleich mit von Otocki sei nötig, und ein gütlicher Abschluss, bei dem sich Otocki mit 1500 bis 2000 Rthl begnüge, wäre vorteilhaft; ob Kunckel dazu Vollmacht erhalten solle, bleibe dem Fürsten überlassen. Triebenfeld warnt vor dem Gegeneinander von Kunckel und Jentsch und rät, beide in Schranken zu halten. Glenck habe die Kontoper Rechnungen zurückgelassen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

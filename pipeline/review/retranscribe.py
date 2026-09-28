@@ -45,9 +45,10 @@ MAP = os.path.join(UNIT.dir, 'page_scan_map.csv')
 
 MODEL = 'claude-opus-5'
 MAX_TOKENS = 8000
+ORIGINALS = None   # --originals: read the uncompressed scans from this folder
 
 # $ per million tokens (input, output), for the run's own cost readout.
-PRICES = {'claude-opus-5': (5, 25), 'claude-fable-5-1': (10, 50),
+PRICES = {'claude-opus-5-5': (5, 25), 'claude-opus-5': (5, 25), 'claude-fable-5-1': (10, 50),
           'claude-sonnet-5': (2, 10), 'claude-opus-4-8': (5, 25)}
 
 SYSTEM = """\
@@ -166,6 +167,10 @@ def already(letter, page):
 
 def image_block(image):
     path = os.path.join(SCANS, image)
+    if ORIGINALS:
+        # the uncompressed scan: Oe_1_Bu_9454_0281_a2-L144_01.jpg -> Oe 1_Bü 9454_0281_a2.jpg
+        stem = image.split('-L')[0].replace('Oe_1_Bu_', 'Oe 1_Bü ')
+        path = os.path.join(ORIGINALS, stem + '.jpg')
     with open(path, 'rb') as f:
         data = base64.standard_b64encode(f.read()).decode()
     return {'type': 'image',
@@ -360,11 +365,13 @@ def main():
                          'its own witness directory, for a like-for-like compare')
     ap.add_argument('--check', action='store_true',
                     help='verify the API key with one tiny call (costs ~$0.0001)')
+    ap.add_argument('--originals', help='folder of uncompressed scans to read instead of pages/')
     ap.add_argument('--batch', action='store_true', help='use the Batch API')
     ap.add_argument('--collect', action='store_true', help='fetch finished batches')
     a = ap.parse_args()
 
-    global OUT
+    global OUT, ORIGINALS
+    ORIGINALS = a.originals
     if getattr(a, 'tag', None):
         OUT = os.path.join(ROOT, f'retranscription-{a.tag}')
 
@@ -400,8 +407,8 @@ def main():
         print('now run:  python compare_pilot.py')
         return
 
-    print(f'{len(rows)} page(s) selected, model {MODEL}\n')
-    (run_batch if a.batch else run_live)(rows, client)
+    print(f'{len(rows)} page(s) selected, model {a.model}\n')
+    (run_batch if a.batch else run_live)(rows, client, a.model, a.effort)
 
 
 if __name__ == '__main__':

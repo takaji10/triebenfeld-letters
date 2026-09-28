@@ -9,44 +9,47 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1812-03-05",
- "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1812-03-05]",
- "date_inferred_from": "supplied by researcher",
+ "date_iso": "1812",
+ "date_precision": "year",
+ "date_source": "signature",
+ "date_display": "Warschau den 5t Maerz 1812.",
+ "date_inferred_from": "",
  "year": 1812,
- "month": 3,
- "day": 5,
+ "month": "",
+ "day": "",
  "place": "Warschau",
  "sender": "",
  "recipient": "",
- "line_start": 5824,
- "line_end": 5838,
+ "line_start": 5832,
+ "line_end": 5846,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
  "is_missing": 0,
- "n_lines": 14,
+ "n_lines": 13,
  "n_pages": 1,
- "text": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie¬\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausſahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich Dir\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab¬\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Beide.\nBrzechsta",
- "text_reading": "Warschau den 5t Maerz 1812.\n\nLieber Bruder Ich eile dich zu benachrichtigen, daß ich verschiedner Geschäfte wegen erst den 15t d. M. aus Warschau werde ausſahren können. Die Sache wegen Trąbczyn steht eingezogenen zuverläßigen Nachrichten zu folge recht gut, worüber ich Dir mündlich ein Mehreres sagen werde. wegen Kürze der Zeit, da die Gelegenheit abgeht, kann ich Dir nicht mehr schreiben Leb wol\n\ndem Freund und Beide.\n\nBrzechsta",
+ "text": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie¬\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausſahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich die\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab¬\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Brude[r]\nBrzechffa",
+ "text_reading": "Warschau den 5t Maerz 1812.\n\nLieber Bruder Ich eile dich zu benachrichtigen, daß ich verschiedner Geschäfte wegen erst den 15t d. M. aus Warschau werde ausſahren können. Die Sache wegen Trąbczyn steht eingezogenen zuverläßigen Nachrichten zu folge recht gut, worüber ich die mündlich ein Mehreres sagen werde. wegen Kürze der Zeit, da die Gelegenheit abgeht, kann ich Dir nicht mehr schreiben Leb wol\n\ndem Freund und Brude[r]\n\nBrzechffa",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 5825,
-   "line_end": 5837,
+   "page_id": "0147_a2",
+   "line_start": 5834,
+   "line_end": 5846,
    "n_lines": 13,
-   "diplomatic": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie¬\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausſahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich Dir\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab¬\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Beide.\nBrzechsta",
-   "transcription": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie-\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausſahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich Dir\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab-\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Beide.\nBrzechsta",
-   "reading": "Warschau den 5t Maerz 1812.\n\nLieber Bruder Ich eile dich zu benachrichtigen, daß ich verschiedner Geschäfte wegen erst den 15t d. M. aus Warschau werde ausſahren können. Die Sache wegen Trąbczyn steht eingezogenen zuverläßigen Nachrichten zu folge recht gut, worüber ich Dir mündlich ein Mehreres sagen werde. wegen Kürze der Zeit, da die Gelegenheit abgeht, kann ich Dir nicht mehr schreiben Leb wol\n\ndem Freund und Beide.\n\nBrzechsta",
+   "diplomatic": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie¬\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausſahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich die\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab¬\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Brude[r]\nBrzechffa",
+   "transcription": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie-\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausſahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich die\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab-\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Brude[r]\nBrzechffa",
+   "reading": "Warschau den 5t Maerz 1812.\n\nLieber Bruder Ich eile dich zu benachrichtigen, daß ich verschiedner Geschäfte wegen erst den 15t d. M. aus Warschau werde ausſahren können. Die Sache wegen Trąbczyn steht eingezogenen zuverläßigen Nachrichten zu folge recht gut, worüber ich die mündlich ein Mehreres sagen werde. wegen Kürze der Zeit, da die Gelegenheit abgeht, kann ich Dir nicht mehr schreiben Leb wol\n\ndem Freund und Brude[r]\n\nBrzechffa",
    "paragraphs": [
     "Warschau den 5t Maerz 1812.",
-    "Lieber Bruder Ich eile dich zu benachrichtigen, daß ich verschiedner Geschäfte wegen erst den 15t d. M. aus Warschau werde ausſahren können. Die Sache wegen Trąbczyn steht eingezogenen zuverläßigen Nachrichten zu folge recht gut, worüber ich Dir mündlich ein Mehreres sagen werde. wegen Kürze der Zeit, da die Gelegenheit abgeht, kann ich Dir nicht mehr schreiben Leb wol",
-    "dem Freund und Beide.",
-    "Brzechsta"
+    "Lieber Bruder Ich eile dich zu benachrichtigen, daß ich verschiedner Geschäfte wegen erst den 15t d. M. aus Warschau werde ausſahren können. Die Sache wegen Trąbczyn steht eingezogenen zuverläßigen Nachrichten zu folge recht gut, worüber ich die mündlich ein Mehreres sagen werde. wegen Kürze der Zeit, da die Gelegenheit abgeht, kann ich Dir nicht mehr schreiben Leb wol",
+    "dem Freund und Brude[r]",
+    "Brzechffa"
    ],
    "continues_previous": false,
    "continues_next": false,
@@ -57,87 +60,57 @@
  ],
  "mentions": [
   {
-   "entity": "brzechsta",
-   "display": "Brzechsta",
+   "entity": "brzechffa",
+   "display": "Brzechffa",
    "kind": "person",
-   "surface": "Brzechsta",
+   "surface": "Brzechffa",
    "page": 1,
-   "page_id": "",
+   "page_id": "0147_a2",
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
-   "line": 5837,
+   "line": 5846,
    "doc_line": 13
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Warsaw",
-   "kind": "place",
-   "surface_de": "Warschau",
-   "surface_en": "Warsaw",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "brzechsta",
-   "display": "Brzechsta",
-   "kind": "person",
-   "surface_de": "Brzechsta",
-   "surface_en": "Brzechsta",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Warschau",
  "place_mentions": [
+  {
+   "entity": "warschau",
+   "display": "Warschau",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0147_a2",
+   "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
+   "line": 5834,
+   "doc_line": 1
+  },
+  {
+   "entity": "warschau",
+   "display": "Warschau",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0147_a2",
+   "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
+   "line": 5838,
+   "doc_line": 5
+  },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
    "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "",
+   "page_id": "0147_a2",
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
-   "line": 5830,
+   "line": 5839,
    "doc_line": 6
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Warsaw, the 5th of March 1812.\n\nDear Brother, I hasten to inform you that, on account of various pieces of business, I shall not be able to depart from Warsaw before the 15th of this month. The matter concerning Trąbczyn stands, according to reliable information obtained, quite well, about which I shall tell you more by word of mouth. For shortness of time, as the conveyance is leaving, I cannot write you more. Farewell\n\nto the friend and both.\n\nBrzechsta",
-   "names": [
-    {
-     "de": "Warschau",
-     "en": "Warsaw",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "Brzechsta",
-     "en": "Brzechsta",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "5",
-    "1812",
-    "15"
-   ]
-  }
- ],
- "text_english": "Warsaw, the 5th of March 1812.\n\nDear Brother, I hasten to inform you that, on account of various pieces of business, I shall not be able to depart from Warsaw before the 15th of this month. The matter concerning Trąbczyn stands, according to reliable information obtained, quite well, about which I shall tell you more by word of mouth. For shortness of time, as the conveyance is leaving, I cannot write you more. Farewell\n\nto the friend and both.\n\nBrzechsta",
- "summary_en": "A brief note from Brzechsta, writing as \"dear brother\", reporting that business will keep him in Warsaw until the 15th of the month, and that on reliable information the Trąbczyn affair stands quite well, details to follow in person. Written in haste as the conveyance was leaving, it gives no particulars and closes with greetings to the friend and to both.",
- "summary_de": "Kurze Mitteilung an den Empfänger, die Abreise aus Warschau verzögere sich wegen verschiedener Geschäfte bis nach dem 15. des Monats. Die Angelegenheit Trąbczyn stehe nach zuverlässig eingeholten Nachrichten recht gut; Näheres wolle Brzechsta mündlich berichten. Weitere Ausführungen unterbleiben, da die Post abgeht. Anrede als „Bruder\", Gruß an den Freund und beide."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

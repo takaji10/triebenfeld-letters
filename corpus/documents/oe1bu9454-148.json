@@ -1,6 +1,6 @@
 {
  "letter_id": "148",
- "seq_archival": 160,
+ "seq_archival": 159,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-148",
@@ -18,35 +18,39 @@
  "month": 12,
  "day": 2,
  "place": "Trąbczyn",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 10706,
- "line_end": 10727,
+ "sender": "",
+ "recipient": "",
+ "line_start": 10712,
+ "line_end": 10733,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "swiecia",
+  "olesnica"
+ ],
  "is_missing": 0,
- "n_lines": 21,
+ "n_lines": 20,
  "n_pages": 1,
- "text": "P. M.\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben\nalle Revenuen der S. P. Güter gegeben hat steht\nSwięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital.\nBey heut genndigter Reviion der Taxatoren trägt Suvicia\nnur 918 Rthl Zinsen jährlich – der Verstoß ist zu künfig¬\nund das ſchöne Gut ist beym Himmel verſchleudert.\nEs hat 3792 Morgen und hätte eben so viel Tausend rt.\nMannen bringen müßen. Es ist aber für 10000 Rthl Capital\nund 918 Rthl Zinsen, und folglich für 28360 Rthl wegegeben worden,\nwodurch ein offenbarer Verlust von 47340 Rthl Ewr Durch\nlaucht erwächſt.\nWann hierzu der Olesnicer Verlust mit 48000 Rthl gegen den\njezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese\n95340 Rthl — und eben\nbeide, Güter Netto\nsolcher Ausfall entsteht gezt bey der Taxe.\nTrąbczyn\nden 2ten Xbr 1804.\nv Triebenfeld",
- "text_reading": "P. M.\n\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben alle Revenuen der S. P. Güter gegeben hat steht Swięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital. Bey heut genndigter Reviion der Taxatoren trägt Suvicia nur 918 Rthl Zinsen jährlich – der Verstoß ist zu künfigund das ſchöne Gut ist beym Himmel verſchleudert. Es hat 3792 Morgen und hätte eben so viel Tausend rt. Mannen bringen müßen. Es ist aber für 10000 Rthl Capital und 918 Rthl Zinsen, und folglich für 28360 Rthl wegegeben worden, wodurch ein offenbarer Verlust von 47340 Rthl Ewr Durch laucht erwächſt.\n\nWann hierzu der Olesnicer Verlust mit 48000 Rthl gegen den jezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese 95340 Rthl — und eben\n\nbeide, Güter Netto solcher Ausfall entsteht gezt bey der Taxe. Trąbczyn\n\nden 2ten Xbr 1804.\n\nv Triebenfeld",
+ "text": "148\nP[ro]. M[emoria].\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben\nalle Revenuen der S. P. Güter gegeben hat steht\nSwięcia 1800 rthl jährliche Zinsen und 10000 rt Capital.\nBey heut geendigter Revision der Taxatoren trägt Swięcia\nnur 918 rt Zinsen jährlich – der Verstoß ist zu künfig¬\nund das ſchöne Gut ist beym Himmel verſchleudert.\nEs hat 3792 Morgen und hätte eben so viel Tausend rt.\nMannen bringen müßen. Es ist aber für 10000 rt Capital\nund 918 rt. Zinsen, und folglich für 28360 rt wegegeben worden,\nwodurch ein offenbarer Verlust von 47340 rt Ewr Durch\nlaucht erwächſt.\nWann hierzu der Olesnicer Verlust mit 48000 rt gegen den\njezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese\nbeide, Güter Netto 95340 rthl — und eben\nsolcher Ausfall entsteht jezt bey der Taxe.\nTrąbczyn\nden 2ten Xbr 1804.\nv Triebenfeld",
+ "text_reading": "148\n\nP[ro]. M[emoria].\n\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben alle Revenuen der S. P. Güter gegeben hat steht Swięcia 1800 rthl jährliche Zinsen und 10000 rt Capital. Bey heut geendigter Revision der Taxatoren trägt Swięcia nur 918 rt Zinsen jährlich – der Verstoß ist zu künfigund das ſchöne Gut ist beym Himmel verſchleudert. Es hat 3792 Morgen und hätte eben so viel Tausend rt. Mannen bringen müßen. Es ist aber für 10000 rt Capital und 918 rt. Zinsen, und folglich für 28360 rt wegegeben worden, wodurch ein offenbarer Verlust von 47340 rt Ewr Durch laucht erwächſt.\n\nWann hierzu der Olesnicer Verlust mit 48000 rt gegen den jezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese beide, Güter Netto 95340 rthl — und eben solcher Ausfall entsteht jezt bey der Taxe. Trąbczyn\n\nden 2ten Xbr 1804.\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 10707,
-   "line_end": 10726,
+   "page_id": "0287_b",
+   "line_start": 10714,
+   "line_end": 10733,
    "n_lines": 20,
-   "diplomatic": "P. M.\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben\nalle Revenuen der S. P. Güter gegeben hat steht\nSwięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital.\nBey heut genndigter Reviion der Taxatoren trägt Suvicia\nnur 918 Rthl Zinsen jährlich – der Verstoß ist zu künfig¬\nund das ſchöne Gut ist beym Himmel verſchleudert.\nEs hat 3792 Morgen und hätte eben so viel Tausend rt.\nMannen bringen müßen. Es ist aber für 10000 Rthl Capital\nund 918 Rthl Zinsen, und folglich für 28360 Rthl wegegeben worden,\nwodurch ein offenbarer Verlust von 47340 Rthl Ewr Durch\nlaucht erwächſt.\nWann hierzu der Olesnicer Verlust mit 48000 Rthl gegen den\njezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese\n95340 Rthl — und eben\nbeide, Güter Netto\nsolcher Ausfall entsteht gezt bey der Taxe.\nTrąbczyn\nden 2ten Xbr 1804.\nv Triebenfeld",
-   "transcription": "P. M.\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben\nalle Revenuen der S. P. Güter gegeben hat steht\nSwięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital.\nBey heut genndigter Reviion der Taxatoren trägt Suvicia\nnur 918 Rthl Zinsen jährlich – der Verstoß ist zu künfig-\nund das ſchöne Gut ist beym Himmel verſchleudert.\nEs hat 3792 Morgen und hätte eben so viel Tausend rt.\nMannen bringen müßen. Es ist aber für 10000 Rthl Capital\nund 918 Rthl Zinsen, und folglich für 28360 Rthl wegegeben worden,\nwodurch ein offenbarer Verlust von 47340 Rthl Ewr Durch\nlaucht erwächſt.\nWann hierzu der Olesnicer Verlust mit 48000 Rthl gegen den\njezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese\n95340 Rthl — und eben\nbeide, Güter Netto\nsolcher Ausfall entsteht gezt bey der Taxe.\nTrąbczyn\nden 2ten Xbr 1804.\nv Triebenfeld",
-   "reading": "P. M.\n\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben alle Revenuen der S. P. Güter gegeben hat steht Swięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital. Bey heut genndigter Reviion der Taxatoren trägt Suvicia nur 918 Rthl Zinsen jährlich – der Verstoß ist zu künfigund das ſchöne Gut ist beym Himmel verſchleudert. Es hat 3792 Morgen und hätte eben so viel Tausend rt. Mannen bringen müßen. Es ist aber für 10000 Rthl Capital und 918 Rthl Zinsen, und folglich für 28360 Rthl wegegeben worden, wodurch ein offenbarer Verlust von 47340 Rthl Ewr Durch laucht erwächſt.\n\nWann hierzu der Olesnicer Verlust mit 48000 Rthl gegen den jezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese 95340 Rthl — und eben\n\nbeide, Güter Netto solcher Ausfall entsteht gezt bey der Taxe. Trąbczyn\n\nden 2ten Xbr 1804.\n\nv Triebenfeld",
+   "diplomatic": "148\nP[ro]. M[emoria].\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben\nalle Revenuen der S. P. Güter gegeben hat steht\nSwięcia 1800 rthl jährliche Zinsen und 10000 rt Capital.\nBey heut geendigter Revision der Taxatoren trägt Swięcia\nnur 918 rt Zinsen jährlich – der Verstoß ist zu künfig¬\nund das ſchöne Gut ist beym Himmel verſchleudert.\nEs hat 3792 Morgen und hätte eben so viel Tausend rt.\nMannen bringen müßen. Es ist aber für 10000 rt Capital\nund 918 rt. Zinsen, und folglich für 28360 rt wegegeben worden,\nwodurch ein offenbarer Verlust von 47340 rt Ewr Durch\nlaucht erwächſt.\nWann hierzu der Olesnicer Verlust mit 48000 rt gegen den\njezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese\nbeide, Güter Netto 95340 rthl — und eben\nsolcher Ausfall entsteht jezt bey der Taxe.\nTrąbczyn\nden 2ten Xbr 1804.\nv Triebenfeld",
+   "transcription": "148\nP[ro]. M[emoria].\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben\nalle Revenuen der S. P. Güter gegeben hat steht\nSwięcia 1800 rthl jährliche Zinsen und 10000 rt Capital.\nBey heut geendigter Revision der Taxatoren trägt Swięcia\nnur 918 rt Zinsen jährlich – der Verstoß ist zu künfig-\nund das ſchöne Gut ist beym Himmel verſchleudert.\nEs hat 3792 Morgen und hätte eben so viel Tausend rt.\nMannen bringen müßen. Es ist aber für 10000 rt Capital\nund 918 rt. Zinsen, und folglich für 28360 rt wegegeben worden,\nwodurch ein offenbarer Verlust von 47340 rt Ewr Durch\nlaucht erwächſt.\nWann hierzu der Olesnicer Verlust mit 48000 rt gegen den\njezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese\nbeide, Güter Netto 95340 rthl — und eben\nsolcher Ausfall entsteht jezt bey der Taxe.\nTrąbczyn\nden 2ten Xbr 1804.\nv Triebenfeld",
+   "reading": "148\n\nP[ro]. M[emoria].\n\nIn dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben alle Revenuen der S. P. Güter gegeben hat steht Swięcia 1800 rthl jährliche Zinsen und 10000 rt Capital. Bey heut geendigter Revision der Taxatoren trägt Swięcia nur 918 rt Zinsen jährlich – der Verstoß ist zu künfigund das ſchöne Gut ist beym Himmel verſchleudert. Es hat 3792 Morgen und hätte eben so viel Tausend rt. Mannen bringen müßen. Es ist aber für 10000 rt Capital und 918 rt. Zinsen, und folglich für 28360 rt wegegeben worden, wodurch ein offenbarer Verlust von 47340 rt Ewr Durch laucht erwächſt.\n\nWann hierzu der Olesnicer Verlust mit 48000 rt gegen den jezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese beide, Güter Netto 95340 rthl — und eben solcher Ausfall entsteht jezt bey der Taxe. Trąbczyn\n\nden 2ten Xbr 1804.\n\nv Triebenfeld",
    "paragraphs": [
-    "P. M.",
-    "In dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben alle Revenuen der S. P. Güter gegeben hat steht Swięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital. Bey heut genndigter Reviion der Taxatoren trägt Suvicia nur 918 Rthl Zinsen jährlich – der Verstoß ist zu künfigund das ſchöne Gut ist beym Himmel verſchleudert. Es hat 3792 Morgen und hätte eben so viel Tausend rt. Mannen bringen müßen. Es ist aber für 10000 Rthl Capital und 918 Rthl Zinsen, und folglich für 28360 Rthl wegegeben worden, wodurch ein offenbarer Verlust von 47340 Rthl Ewr Durch laucht erwächſt.",
-    "Wann hierzu der Olesnicer Verlust mit 48000 Rthl gegen den jezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese 95340 Rthl — und eben",
-    "beide, Güter Netto solcher Ausfall entsteht gezt bey der Taxe. Trąbczyn",
+    "148",
+    "P[ro]. M[emoria].",
+    "In dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben alle Revenuen der S. P. Güter gegeben hat steht Swięcia 1800 rthl jährliche Zinsen und 10000 rt Capital. Bey heut geendigter Revision der Taxatoren trägt Swięcia nur 918 rt Zinsen jährlich – der Verstoß ist zu künfigund das ſchöne Gut ist beym Himmel verſchleudert. Es hat 3792 Morgen und hätte eben so viel Tausend rt. Mannen bringen müßen. Es ist aber für 10000 rt Capital und 918 rt. Zinsen, und folglich für 28360 rt wegegeben worden, wodurch ein offenbarer Verlust von 47340 rt Ewr Durch laucht erwächſt.",
+    "Wann hierzu der Olesnicer Verlust mit 48000 rt gegen den jezigen Verkauf genommen wird so verliere Ewr Durchlaucht an diese beide, Güter Netto 95340 rthl — und eben solcher Ausfall entsteht jezt bey der Taxe. Trąbczyn",
     "den 2ten Xbr 1804.",
     "v Triebenfeld"
    ],
@@ -64,10 +68,10 @@
    "kind": "person",
    "surface": "Glenck",
    "page": 1,
-   "page_id": "",
+   "page_id": "0287_b",
    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-   "line": 10708,
-   "doc_line": 2
+   "line": 10716,
+   "doc_line": 3
   },
   {
    "entity": "triebenfeld",
@@ -75,62 +79,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0287_b",
    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-   "line": 10726,
+   "line": 10733,
    "doc_line": 20
   }
  ],
- "mentions_english": [
-  {
-   "entity": "glenck",
-   "display": "Glenck",
-   "kind": "person",
-   "surface_de": "Glenck",
-   "surface_en": "Glenck",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Swięcia",
-   "kind": "place",
-   "surface_de": "Swięcia",
-   "surface_en": "Swięcia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Suvicia",
-   "kind": "place",
-   "surface_de": "Suvicia",
-   "surface_en": "Suvicia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Olesnica",
-   "kind": "place",
-   "surface_de": "Olesnicer",
-   "surface_en": "Olesnica",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
@@ -139,10 +94,21 @@
    "kind": "place",
    "surface": "Swięcia",
    "page": 1,
-   "page_id": "",
+   "page_id": "0287_b",
    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-   "line": 10710,
-   "doc_line": 4
+   "line": 10718,
+   "doc_line": 5
+  },
+  {
+   "entity": "swiecia",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface": "Swięcia",
+   "page": 1,
+   "page_id": "0287_b",
+   "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
+   "line": 10719,
+   "doc_line": 6
   },
   {
    "entity": "olesnica",
@@ -150,10 +116,10 @@
    "kind": "place",
    "surface": "Olesnicer",
    "page": 1,
-   "page_id": "",
+   "page_id": "0287_b",
    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-   "line": 10719,
-   "doc_line": 13
+   "line": 10727,
+   "doc_line": 14
   },
   {
    "entity": "trabczyn",
@@ -161,65 +127,15 @@
    "kind": "place",
    "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "",
+   "page_id": "0287_b",
    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-   "line": 10724,
+   "line": 10731,
    "doc_line": 18
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "P. M.\n\nIn the table which Glenck has just given Your Most Serene Highness of all the revenues of the S. P. estates, Swięcia stands at 1800 Rthl annual interest and 10000 Rthl capital. Upon the revision of the assessors concluded today, Suvicia yields only 918 Rthl interest yearly – the error is [uncertain: to be reckoned in future] and the fine estate has, by heaven, been squandered. It has 3792 Morgen and ought to have brought in just as many thousand Rthl in [uncertain: men/rents]. It has, however, been given away for 10000 Rthl capital and 918 Rthl interest, and consequently for 28360 Rthl, whereby a manifest loss of 47340 Rthl accrues to Your Serene Highness.\n\nIf to this the Olesnica loss of 48000 Rthl be reckoned against the present sale, then Your Serene Highness loses on these 95340 Rthl — and just\n\nboth, estates net such a shortfall arises now upon the assessment. Trąbczyn\n\nthe 2nd December 1804.\n\nv Triebenfeld",
-   "names": [
-    {
-     "de": "Glenck",
-     "en": "Glenck",
-     "kind": "person"
-    },
-    {
-     "de": "Swięcia",
-     "en": "Swięcia",
-     "kind": "place"
-    },
-    {
-     "de": "Suvicia",
-     "en": "Suvicia",
-     "kind": "place"
-    },
-    {
-     "de": "Olesnicer",
-     "en": "Olesnica",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "1800",
-    "10000",
-    "918",
-    "3792",
-    "10000",
-    "918",
-    "28360",
-    "47340",
-    "48000",
-    "95340",
-    "2ten"
-   ]
-  }
- ],
- "text_english": "P. M.\n\nIn the table which Glenck has just given Your Most Serene Highness of all the revenues of the S. P. estates, Swięcia stands at 1800 Rthl annual interest and 10000 Rthl capital. Upon the revision of the assessors concluded today, Suvicia yields only 918 Rthl interest yearly – the error is [uncertain: to be reckoned in future] and the fine estate has, by heaven, been squandered. It has 3792 Morgen and ought to have brought in just as many thousand Rthl in [uncertain: men/rents]. It has, however, been given away for 10000 Rthl capital and 918 Rthl interest, and consequently for 28360 Rthl, whereby a manifest loss of 47340 Rthl accrues to Your Serene Highness.\n\nIf to this the Olesnica loss of 48000 Rthl be reckoned against the present sale, then Your Serene Highness loses on these 95340 Rthl — and just\n\nboth, estates net such a shortfall arises now upon the assessment. Trąbczyn\n\nthe 2nd December 1804.\n\nv Triebenfeld",
- "summary_en": "Challenges Glenck's revenue table for the estates: Swięcia is entered there at 1,800 Rthl yearly interest on 10,000 Rthl capital, but a revision by assessors completed that day yields only 918 Rthl. Triebenfeld argues the 3,792 Morgen property has been given away far below worth, a loss of 47,340 Rthl, which with a 48,000 Rthl loss on Olesnica makes 95,340 Rthl against the Prince. A short, indignant note, unfinished at the foot.",
- "summary_de": "Vorhalt gegen eine von Glenck vorgelegte Ertragsübersicht der S. P. Güter: dort sei Swięcia mit 1800 Rthl Jahreszins und 10000 Rthl Kapital angesetzt, nach der abgeschlossenen Revision der Taxatoren bringe es aber nur 918 Rthl Zins. Das Gut von 3792 Morgen sei für insgesamt 28360 Rthl weggegeben worden, woraus ein Verlust von 47340 Rthl folge; zusammen mit dem Verlust von 48000 Rthl bei Olesnica ergebe sich ein Ausfall von 95340 Rthl."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

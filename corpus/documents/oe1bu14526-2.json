@@ -241,6 +241,17 @@
  ],
  "mentions": [
   {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0003_b",
+   "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
+   "line": 45,
+   "doc_line": 4
+  },
+  {
    "entity": "rochlitz",
    "display": "Forst-Inspector Rochlitz",
    "kind": "person",
@@ -256,6 +267,17 @@
    "display": "Honrichs",
    "kind": "person",
    "surface": "Hon",
+   "page": 1,
+   "page_id": "0003_b",
+   "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
+   "line": 48,
+   "doc_line": 7
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface": "Honrichs",
    "page": 1,
    "page_id": "0003_b",
    "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
@@ -314,8 +336,30 @@
    "page": 4,
    "page_id": "0005_a1",
    "scan": "Oe_1_Bu_14526_0005_a1-L2_04.jpg",
+   "line": 143,
+   "doc_line": 99
+  },
+  {
+   "entity": "knoblauch",
+   "display": "Knoblauch",
+   "kind": "person",
+   "surface": "Knoblauch",
+   "page": 4,
+   "page_id": "0005_a1",
+   "scan": "Oe_1_Bu_14526_0005_a1-L2_04.jpg",
    "line": 146,
    "doc_line": 102
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface": "Sommer",
+   "page": 6,
+   "page_id": "0006_a1",
+   "scan": "Oe_1_Bu_14526_0006_a1-L2_06.jpg",
+   "line": 218,
+   "doc_line": 172
   },
   {
    "entity": "honrichs",
@@ -754,6 +798,17 @@
  "place_canonical": "Kalisch",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0003_b",
+   "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
+   "line": 46,
+   "doc_line": 5
+  },
+  {
    "entity": "witow",
    "display": "Witów",
    "kind": "place",
@@ -818,6 +873,17 @@
    "scan": "Oe_1_Bu_14526_0007_a2-L2_09.jpg",
    "line": 312,
    "doc_line": 263
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 10,
+   "page_id": "0008_a1",
+   "scan": "Oe_1_Bu_14526_0008_a1-L2_10.jpg",
+   "line": 320,
+   "doc_line": 270
   },
   {
    "entity": "breslau",

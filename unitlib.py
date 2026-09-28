@@ -74,7 +74,11 @@ class Unit(dict):
 
     @property
     def transcriptions_dir(self):
-        return self.get('transcriptions', {}).get('dir', '')
+        """Absolute, or relative to units/<slug>/ - where the files now live."""
+        d = self.get('transcriptions', {}).get('dir', '')
+        if d and not os.path.isabs(d):
+            d = os.path.join(self.dir, d)
+        return d
 
     @property
     def transcriptions_glob(self):
@@ -292,6 +296,95 @@ def load_rulings(unit):
         'ESTATES':        docs.get('estates') or {},
         'DAMAGE_LETTERS': set(damage.get('letters') or []),
     }
+
+
+def load_tables(unit):
+    """Documents transcribed as a table, per rulings.yml documents: tables:.
+
+    Such a document's text in corpus.txt IS the table, one CSV row per line,
+    each row on the [PAGE ...] it stands on: the header rows open the first
+    page, the numbered entries follow page by page, and any closing rows (the
+    Summa) end the last.
+
+    Returns {letter_id: {'caption', 'head', 'pages', 'foot'}}: `head` is the
+    header rows, `pages` maps the document's page number (1, 2, ...) to the
+    rows on it, and `foot` the closing rows, shown on the last page.
+    """
+    if not os.path.isfile(unit.rulings_path):
+        return {}
+    with open(unit.rulings_path, encoding='utf-8') as f:
+        wanted = ((yaml.safe_load(f) or {}).get('documents') or {}).get('tables') or []
+    wanted = {str(x) for x in wanted}
+    if not wanted or not os.path.isfile(unit.corpus_path):
+        return {}
+
+    # Each wanted document's pages, as lists of non-blank corpus lines.
+    doc_pages, lid = {}, None
+    for line in unit.read_corpus():
+        m = re.match(r'^\[DOC (\S+)\]$', line)
+        if m:
+            lid = m.group(1) if m.group(1) in wanted else None
+            if lid:
+                doc_pages[lid] = []
+            continue
+        if lid is None:
+            continue
+        if line.startswith('[PAGE '):
+            doc_pages[lid].append([])
+        elif line.strip() and doc_pages[lid]:
+            doc_pages[lid][-1].append(line)
+
+    missing = sorted(wanted - set(doc_pages))
+    if missing:
+        raise SystemExit(f'{unit.slug}: rulings list {missing} as tables, '
+                         f'but corpus.txt has no such document')
+
+    def is_entry(r):
+        return bool(r) and r[0].strip().isdigit()
+
+    out = {}
+    for lid, plines in doc_pages.items():
+        pages = {i: list(csv.reader(ls)) for i, ls in enumerate(plines, 1) if ls}
+        allrows = [(pg, r) for pg in sorted(pages) for r in pages[pg]]
+        first = next(k for k, (_, r) in enumerate(allrows) if is_entry(r))
+        last = max(k for k, (_, r) in enumerate(allrows) if is_entry(r))
+        head = [r for _, r in allrows[:first]]
+        foot = [r for _, r in allrows[last + 1:]]
+        body = {}
+        for pg, r in allrows[first:last + 1]:
+            body.setdefault(pg, []).append(r)
+        # The title sits in the first header row, over the name column.
+        caption = head[0][1].strip() if head and len(head[0]) > 1 else ''
+        out[lid] = {'caption': caption, 'head': head, 'pages': body, 'foot': foot}
+    return out
+
+
+def _table_cells(cells):
+    import html
+    cells = [html.unescape(c).strip() for c in cells]
+    while cells and not cells[-1]:
+        cells.pop()
+    return cells
+
+
+def table_expected_rows(tbl):
+    """Every data row of a table, page by page, then the closing rows."""
+    rows = [r for pg in sorted(tbl['pages']) for r in tbl['pages'][pg]] + tbl['foot']
+    return [_table_cells(r) for r in rows]
+
+
+def table_rows_in_page(page_html):
+    """The data rows a built page shows in its diplomatic view, in order.
+
+    Used by both site checks, so a tabulated document is verified against the
+    corpus the same way wherever it is checked.
+    """
+    views = re.findall(r'data-view="diplomatic">(.*?)<div class="text-view" '
+                       r'data-view="reading"', page_html, re.S)
+    return [_table_cells(re.findall(r'<td[^>]*>(.*?)</td>', tr, re.S))
+            for v in views
+            for part in re.findall(r'<t(?:body|foot)>(.*?)</t(?:body|foot)>', v, re.S)
+            for tr in re.findall(r'<tr>(.*?)</tr>', part, re.S)]
 
 
 def require_fresh_corpus(*extra):

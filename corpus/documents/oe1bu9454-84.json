@@ -18,71 +18,77 @@
  "month": 10,
  "day": 20,
  "place": "Berlin",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 6724,
- "line_end": 6779,
+ "sender": "",
+ "recipient": "",
+ "line_start": 6732,
+ "line_end": 6786,
  "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "krotoszyn",
+  "betsche",
+  "polajewo"
+ ],
  "is_missing": 0,
- "n_lines": 55,
+ "n_lines": 51,
  "n_pages": 3,
- "text": "Durchlauchtigster Fürst\nGnädigster Herr,\nDa des Königs Majest. des H. v. Voss Excelz die Krotoszyn zu\nSache zu arangiren befohlen, so hatt derselbe\num 4 Wochen gebeten, als in welcher Zeit der Final\nBericht eingereicht werden solte. Die Kammern sollen\nalles recherchiren in welcher Art die revenuen sich\ngleich kommen. Meine Pläne sind nun schon ent¬\nwürfe und in eben dieser Stunde gehn ich von hier\nnach Betschen auch werde ich sehen was mit\ndem Bronzewski zu thun ist - den Absolut\nmüßen Unsere revenuen so hoch bleiben, und da\nman wegen Polajewo so vare thut, so soll\nman Ewr Durchlaucht von die Starostey Add¬\nnau welche hart mit Krotoszyn gränzt, so\nviel Güter zu geben als der höhere\nwerth unserer revenüen beträgt - und hiebey\n\nwird mehr als bey Polagewo profitirt - den da muß\nman ja auch zu 4 pC. die Sache rechnen. —\nGott giebt das alles gut ja sehr gut geht\nDer Prinz George wird künftige Woche in Breslau\nsen —  Sowohl deßen Sache als die Recherchen\nvon Ewr Durchlaucht Gütern will ich während\nder Zeit abmachen, um am Ende der Quaest. 4 Wochen\nwieder hier zu sein.\nVn dem Obrist v Köckritz wird wohl eben ein Schreiben\neingegangen sei - alle meine es gut, und außer¬\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche\nzu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen\nAus Rußland sind hier sonderbare Nachrichten einge¬\ngange. – Alles ist dorten in Verwirrung weil die\nNeue Maitresse den Kayser ganz umanschränkt be¬\nherrscht - zu Reppnin soll arretirt sie die Kurra¬\n[n?]ins sind alle weg Zubow hatt eilig müßen nach\nPetersburg kommen, und Panin soll auch seinen Ab¬\nschied gefordert haben - die Kayserin ist von dem\nPaul genushandelt im 3 Tage eingesperrt, der\n\nGroßFürst hatt sehr lamentirt und wie an Kind geweint –\nSiege heißt es wird abgehe um nur der Secretaire\nHier bleiben — Es sieht sonderbar aus – dennoch\nglaubt man es wird alles in Stata quo bleiben\nIn 5 Tage, habe ich das Glück mich Euer Durchlaucht\nVersönlich zu Füsz zu lege.\nzu tiefster Ehrfurcht ersterbe.\nEwr Hochfürstliche Durchlaucht\nBevelen\nden 20ten Octobr.\n1798.\ntreu untertängster Knecht\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Herr, Da des Königs Majest. des H. v. Voss Excelz die Krotoszyn zu Sache zu arangiren befohlen, so hatt derselbe um 4 Wochen gebeten, als in welcher Zeit der Final Bericht eingereicht werden solte. Die Kammern sollen alles recherchiren in welcher Art die revenuen sich gleich kommen. Meine Pläne sind nun schon entwürfe und in eben dieser Stunde gehn ich von hier nach Betschen auch werde ich sehen was mit dem Bronzewski zu thun ist - den Absolut müßen Unsere revenuen so hoch bleiben, und da man wegen Polajewo so vare thut, so soll man Ewr Durchlaucht von die Starostey Add nau welche hart mit Krotoszyn gränzt, so viel Güter zu geben als der höhere werth unserer revenüen beträgt - und hiebey\n\nwird mehr als bey Polagewo profitirt - den da muß man ja auch zu 4 pC. die Sache rechnen. — Gott giebt das alles gut ja sehr gut geht Der Prinz George wird künftige Woche in Breslau sen — Sowohl deßen Sache als die Recherchen von Ewr Durchlaucht Gütern will ich während der Zeit abmachen, um am Ende der Quaest. 4 Wochen wieder hier zu sein.\n\nVn dem Obrist v Köckritz wird wohl eben ein Schreiben eingegangen sei - alle meine es gut, und außer\n\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche zu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen Aus Rußland sind hier sonderbare Nachrichten einge gange. – Alles ist dorten in Verwirrung weil die Neue Maitresse den Kayser ganz umanschränkt beherrscht - zu Reppnin soll arretirt sie die Kurra[n?]ins sind alle weg Zubow hatt eilig müßen nach Petersburg kommen, und Panin soll auch seinen Abschied gefordert haben - die Kayserin ist von dem Paul genushandelt im 3 Tage eingesperrt, der\n\nGroßFürst hatt sehr lamentirt und wie an Kind geweint – Siege heißt es wird abgehe um nur der Secretaire Hier bleiben — Es sieht sonderbar aus – dennoch glaubt man es wird alles in Stata quo bleiben In 5 Tage, habe ich das Glück mich Euer Durchlaucht Versönlich zu Füsz zu lege. zu tiefster Ehrfurcht ersterbe. Ewr Hochfürstliche Durchlaucht Bevelen\n\nden 20ten Octobr.\n\n1798.\n\ntreu untertängster Knecht v Triebenfeld",
+ "text": "84\nDurchlauchtigster Fürst\nGnädigster Herr\nDa des Königs Majest. des H. v. Voss Excelz die Krotoszyn\nSache zu arangiren befohlen, so hatt derselbe\num 4 Wochen gebeten, als in welcher Zeit der Final\nBericht eingereicht werden solte. Die Kammern sollen\nalles recherchiren in welcher Art die revenuen sich\ngleich kommen. Meine Pläne sind nun schon ent¬\nwürfe und in eben dieser Stunde gehn ich von hier\nnach Betsche auch werde ich sehen was mit\ndem Broniewski zu thun ist - den Absolut\nmüßen Unsere revenuen so hoch bleiben, und da\nman wegen Polajewo so vare thut, so soll\nman Ewr Durchlaucht von die Starostey Adel¬\nnau welche hart mit Krotoszyn gränzt, so\nviel Güter zu geben als der höhere\nwerth unserer revenüen beträgt - und hiebey\nwird mehr als bey Polajewo profitirt - den da muß\nman ja auch zu 4 pC. die Sache rechnen. —\nGott giebt das alles gut ja sehr gut geht\nDer Prinz George wird künftige Woche in Breslau\nsen —  Sowohl deßen Sache als die Recherchen\nvon Ewr Durchlaucht Gütern will ich während\nder Zeit abmachen, um am Ende der Quest. 4 Wochen\nwieder hier zu sein.\nVon dem Obrist v Köckritz wird wohl eben ein Schreiben\neingegangen sei - alle meine es gut, und außer\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche\nzu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen\nAus Rußland sind hier sonderbare Nachrichten einge¬\ngangen. – Alles ist dorten in Verwirrung weil die\nNeue Maitresse den Kayser ganz umanschränkt be¬\nherrscht - zu Reppnin soll arretirt sie die Kurra¬\n[h/k?]ins sind alle weg Zubow hatt eilig müßen nach\nPetersburg kommen, und Panie soll auch seinen Ab¬\nschied gefordert haben - die Kayserin ist von dem\nH Paul gemißhandelt im 3 Tage eingesperrt, der\nGroßFürst hatt sehr lamentirt und wie an Kind geweint –\nSiege heißt es wird abgehe um nur der Secretair\nHier bleiben — Es sieht sonderbar aus – dennoch\nglaubt man es wird alles in Statu quo bleiben\nIn 5 Tage, habe ich das Glück mich Euer Durchlaucht\nPersönlich zu Füsz zu lege.\nIn tiefster Ehrfurcht ersterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin\nden 20ten Octobr.\n1798.\ntreu untertängster Knecht\nv Triebenfeld",
+ "text_reading": "84\n\nDurchlauchtigster Fürst\n\nGnädigster Herr Da des Königs Majest. des H. v. Voss Excelz die Krotoszyn Sache zu arangiren befohlen, so hatt derselbe um 4 Wochen gebeten, als in welcher Zeit der Final Bericht eingereicht werden solte. Die Kammern sollen alles recherchiren in welcher Art die revenuen sich gleich kommen. Meine Pläne sind nun schon entwürfe und in eben dieser Stunde gehn ich von hier nach Betsche auch werde ich sehen was mit dem Broniewski zu thun ist - den Absolut müßen Unsere revenuen so hoch bleiben, und da man wegen Polajewo so vare thut, so soll man Ewr Durchlaucht von die Starostey Adelnau welche hart mit Krotoszyn gränzt, so viel Güter zu geben als der höhere werth unserer revenüen beträgt - und hiebey\n\nwird mehr als bey Polajewo profitirt - den da muß man ja auch zu 4 pC. die Sache rechnen. — Gott giebt das alles gut ja sehr gut geht Der Prinz George wird künftige Woche in Breslau sen — Sowohl deßen Sache als die Recherchen von Ewr Durchlaucht Gütern will ich während der Zeit abmachen, um am Ende der Quest. 4 Wochen wieder hier zu sein.\n\nVon dem Obrist v Köckritz wird wohl eben ein Schreiben eingegangen sei - alle meine es gut, und außer\n\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche zu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen Aus Rußland sind hier sonderbare Nachrichten eingegangen. – Alles ist dorten in Verwirrung weil die Neue Maitresse den Kayser ganz umanschränkt beherrscht - zu Reppnin soll arretirt sie die Kurra[h/k?]ins sind alle weg Zubow hatt eilig müßen nach Petersburg kommen, und Panie soll auch seinen Abschied gefordert haben - die Kayserin ist von dem H Paul gemißhandelt im 3 Tage eingesperrt, der\n\nGroßFürst hatt sehr lamentirt und wie an Kind geweint – Siege heißt es wird abgehe um nur der Secretair Hier bleiben — Es sieht sonderbar aus – dennoch glaubt man es wird alles in Statu quo bleiben In 5 Tage, habe ich das Glück mich Euer Durchlaucht Persönlich zu Füsz zu lege. In tiefster Ehrfurcht ersterbe. Ewr Hochfürstliche Durchlaucht Berlin\n\nden 20ten Octobr.\n\n1798.\n\ntreu untertängster Knecht v Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 6725,
-   "line_end": 6741,
-   "n_lines": 17,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Herr,\nDa des Königs Majest. des H. v. Voss Excelz die Krotoszyn zu\nSache zu arangiren befohlen, so hatt derselbe\num 4 Wochen gebeten, als in welcher Zeit der Final\nBericht eingereicht werden solte. Die Kammern sollen\nalles recherchiren in welcher Art die revenuen sich\ngleich kommen. Meine Pläne sind nun schon ent¬\nwürfe und in eben dieser Stunde gehn ich von hier\nnach Betschen auch werde ich sehen was mit\ndem Bronzewski zu thun ist - den Absolut\nmüßen Unsere revenuen so hoch bleiben, und da\nman wegen Polajewo so vare thut, so soll\nman Ewr Durchlaucht von die Starostey Add¬\nnau welche hart mit Krotoszyn gränzt, so\nviel Güter zu geben als der höhere\nwerth unserer revenüen beträgt - und hiebey",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Herr,\nDa des Königs Majest. des H. v. Voss Excelz die Krotoszyn zu\nSache zu arangiren befohlen, so hatt derselbe\num 4 Wochen gebeten, als in welcher Zeit der Final\nBericht eingereicht werden solte. Die Kammern sollen\nalles recherchiren in welcher Art die revenuen sich\ngleich kommen. Meine Pläne sind nun schon ent-\nwürfe und in eben dieser Stunde gehn ich von hier\nnach Betschen auch werde ich sehen was mit\ndem Bronzewski zu thun ist - den Absolut\nmüßen Unsere revenuen so hoch bleiben, und da\nman wegen Polajewo so vare thut, so soll\nman Ewr Durchlaucht von die Starostey Add\nnau welche hart mit Krotoszyn gränzt, so\nviel Güter zu geben als der höhere\nwerth unserer revenüen beträgt - und hiebey",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Herr, Da des Königs Majest. des H. v. Voss Excelz die Krotoszyn zu Sache zu arangiren befohlen, so hatt derselbe um 4 Wochen gebeten, als in welcher Zeit der Final Bericht eingereicht werden solte. Die Kammern sollen alles recherchiren in welcher Art die revenuen sich gleich kommen. Meine Pläne sind nun schon entwürfe und in eben dieser Stunde gehn ich von hier nach Betschen auch werde ich sehen was mit dem Bronzewski zu thun ist - den Absolut müßen Unsere revenuen so hoch bleiben, und da man wegen Polajewo so vare thut, so soll man Ewr Durchlaucht von die Starostey Add nau welche hart mit Krotoszyn gränzt, so viel Güter zu geben als der höhere werth unserer revenüen beträgt - und hiebey",
+   "page_id": "0175_a",
+   "line_start": 6734,
+   "line_end": 6751,
+   "n_lines": 18,
+   "diplomatic": "84\nDurchlauchtigster Fürst\nGnädigster Herr\nDa des Königs Majest. des H. v. Voss Excelz die Krotoszyn\nSache zu arangiren befohlen, so hatt derselbe\num 4 Wochen gebeten, als in welcher Zeit der Final\nBericht eingereicht werden solte. Die Kammern sollen\nalles recherchiren in welcher Art die revenuen sich\ngleich kommen. Meine Pläne sind nun schon ent¬\nwürfe und in eben dieser Stunde gehn ich von hier\nnach Betsche auch werde ich sehen was mit\ndem Broniewski zu thun ist - den Absolut\nmüßen Unsere revenuen so hoch bleiben, und da\nman wegen Polajewo so vare thut, so soll\nman Ewr Durchlaucht von die Starostey Adel¬\nnau welche hart mit Krotoszyn gränzt, so\nviel Güter zu geben als der höhere\nwerth unserer revenüen beträgt - und hiebey",
+   "transcription": "84\nDurchlauchtigster Fürst\nGnädigster Herr\nDa des Königs Majest. des H. v. Voss Excelz die Krotoszyn\nSache zu arangiren befohlen, so hatt derselbe\num 4 Wochen gebeten, als in welcher Zeit der Final\nBericht eingereicht werden solte. Die Kammern sollen\nalles recherchiren in welcher Art die revenuen sich\ngleich kommen. Meine Pläne sind nun schon ent-\nwürfe und in eben dieser Stunde gehn ich von hier\nnach Betsche auch werde ich sehen was mit\ndem Broniewski zu thun ist - den Absolut\nmüßen Unsere revenuen so hoch bleiben, und da\nman wegen Polajewo so vare thut, so soll\nman Ewr Durchlaucht von die Starostey Adel-\nnau welche hart mit Krotoszyn gränzt, so\nviel Güter zu geben als der höhere\nwerth unserer revenüen beträgt - und hiebey",
+   "reading": "84\n\nDurchlauchtigster Fürst\n\nGnädigster Herr Da des Königs Majest. des H. v. Voss Excelz die Krotoszyn Sache zu arangiren befohlen, so hatt derselbe um 4 Wochen gebeten, als in welcher Zeit der Final Bericht eingereicht werden solte. Die Kammern sollen alles recherchiren in welcher Art die revenuen sich gleich kommen. Meine Pläne sind nun schon entwürfe und in eben dieser Stunde gehn ich von hier nach Betsche auch werde ich sehen was mit dem Broniewski zu thun ist - den Absolut müßen Unsere revenuen so hoch bleiben, und da man wegen Polajewo so vare thut, so soll man Ewr Durchlaucht von die Starostey Adelnau welche hart mit Krotoszyn gränzt, so viel Güter zu geben als der höhere werth unserer revenüen beträgt - und hiebey",
    "paragraphs": [
+    "84",
     "Durchlauchtigster Fürst",
-    "Gnädigster Herr, Da des Königs Majest. des H. v. Voss Excelz die Krotoszyn zu Sache zu arangiren befohlen, so hatt derselbe um 4 Wochen gebeten, als in welcher Zeit der Final Bericht eingereicht werden solte. Die Kammern sollen alles recherchiren in welcher Art die revenuen sich gleich kommen. Meine Pläne sind nun schon entwürfe und in eben dieser Stunde gehn ich von hier nach Betschen auch werde ich sehen was mit dem Bronzewski zu thun ist - den Absolut müßen Unsere revenuen so hoch bleiben, und da man wegen Polajewo so vare thut, so soll man Ewr Durchlaucht von die Starostey Add nau welche hart mit Krotoszyn gränzt, so viel Güter zu geben als der höhere werth unserer revenüen beträgt - und hiebey"
+    "Gnädigster Herr Da des Königs Majest. des H. v. Voss Excelz die Krotoszyn Sache zu arangiren befohlen, so hatt derselbe um 4 Wochen gebeten, als in welcher Zeit der Final Bericht eingereicht werden solte. Die Kammern sollen alles recherchiren in welcher Art die revenuen sich gleich kommen. Meine Pläne sind nun schon entwürfe und in eben dieser Stunde gehn ich von hier nach Betsche auch werde ich sehen was mit dem Broniewski zu thun ist - den Absolut müßen Unsere revenuen so hoch bleiben, und da man wegen Polajewo so vare thut, so soll man Ewr Durchlaucht von die Starostey Adelnau welche hart mit Krotoszyn gränzt, so viel Güter zu geben als der höhere werth unserer revenüen beträgt - und hiebey"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 18
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 6743,
-   "line_end": 6762,
+   "page_id": "0176_a1",
+   "line_start": 6753,
+   "line_end": 6772,
    "n_lines": 20,
-   "diplomatic": "wird mehr als bey Polagewo profitirt - den da muß\nman ja auch zu 4 pC. die Sache rechnen. —\nGott giebt das alles gut ja sehr gut geht\nDer Prinz George wird künftige Woche in Breslau\nsen —  Sowohl deßen Sache als die Recherchen\nvon Ewr Durchlaucht Gütern will ich während\nder Zeit abmachen, um am Ende der Quaest. 4 Wochen\nwieder hier zu sein.\nVn dem Obrist v Köckritz wird wohl eben ein Schreiben\neingegangen sei - alle meine es gut, und außer¬\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche\nzu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen\nAus Rußland sind hier sonderbare Nachrichten einge¬\ngange. – Alles ist dorten in Verwirrung weil die\nNeue Maitresse den Kayser ganz umanschränkt be¬\nherrscht - zu Reppnin soll arretirt sie die Kurra¬\n[n?]ins sind alle weg Zubow hatt eilig müßen nach\nPetersburg kommen, und Panin soll auch seinen Ab¬\nschied gefordert haben - die Kayserin ist von dem\nPaul genushandelt im 3 Tage eingesperrt, der",
-   "transcription": "wird mehr als bey Polagewo profitirt - den da muß\nman ja auch zu 4 pC. die Sache rechnen. —\nGott giebt das alles gut ja sehr gut geht\nDer Prinz George wird künftige Woche in Breslau\nsen —  Sowohl deßen Sache als die Recherchen\nvon Ewr Durchlaucht Gütern will ich während\nder Zeit abmachen, um am Ende der Quaest. 4 Wochen\nwieder hier zu sein.\nVn dem Obrist v Köckritz wird wohl eben ein Schreiben\neingegangen sei - alle meine es gut, und außer\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche\nzu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen\nAus Rußland sind hier sonderbare Nachrichten einge\ngange. – Alles ist dorten in Verwirrung weil die\nNeue Maitresse den Kayser ganz umanschränkt be-\nherrscht - zu Reppnin soll arretirt sie die Kurra-\n[n?]ins sind alle weg Zubow hatt eilig müßen nach\nPetersburg kommen, und Panin soll auch seinen Ab-\nschied gefordert haben - die Kayserin ist von dem\nPaul genushandelt im 3 Tage eingesperrt, der",
-   "reading": "wird mehr als bey Polagewo profitirt - den da muß man ja auch zu 4 pC. die Sache rechnen. — Gott giebt das alles gut ja sehr gut geht Der Prinz George wird künftige Woche in Breslau sen — Sowohl deßen Sache als die Recherchen von Ewr Durchlaucht Gütern will ich während der Zeit abmachen, um am Ende der Quaest. 4 Wochen wieder hier zu sein.\n\nVn dem Obrist v Köckritz wird wohl eben ein Schreiben eingegangen sei - alle meine es gut, und außer\n\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche zu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen Aus Rußland sind hier sonderbare Nachrichten einge gange. – Alles ist dorten in Verwirrung weil die Neue Maitresse den Kayser ganz umanschränkt beherrscht - zu Reppnin soll arretirt sie die Kurra[n?]ins sind alle weg Zubow hatt eilig müßen nach Petersburg kommen, und Panin soll auch seinen Abschied gefordert haben - die Kayserin ist von dem Paul genushandelt im 3 Tage eingesperrt, der",
+   "diplomatic": "wird mehr als bey Polajewo profitirt - den da muß\nman ja auch zu 4 pC. die Sache rechnen. —\nGott giebt das alles gut ja sehr gut geht\nDer Prinz George wird künftige Woche in Breslau\nsen —  Sowohl deßen Sache als die Recherchen\nvon Ewr Durchlaucht Gütern will ich während\nder Zeit abmachen, um am Ende der Quest. 4 Wochen\nwieder hier zu sein.\nVon dem Obrist v Köckritz wird wohl eben ein Schreiben\neingegangen sei - alle meine es gut, und außer\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche\nzu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen\nAus Rußland sind hier sonderbare Nachrichten einge¬\ngangen. – Alles ist dorten in Verwirrung weil die\nNeue Maitresse den Kayser ganz umanschränkt be¬\nherrscht - zu Reppnin soll arretirt sie die Kurra¬\n[h/k?]ins sind alle weg Zubow hatt eilig müßen nach\nPetersburg kommen, und Panie soll auch seinen Ab¬\nschied gefordert haben - die Kayserin ist von dem\nH Paul gemißhandelt im 3 Tage eingesperrt, der",
+   "transcription": "wird mehr als bey Polajewo profitirt - den da muß\nman ja auch zu 4 pC. die Sache rechnen. —\nGott giebt das alles gut ja sehr gut geht\nDer Prinz George wird künftige Woche in Breslau\nsen —  Sowohl deßen Sache als die Recherchen\nvon Ewr Durchlaucht Gütern will ich während\nder Zeit abmachen, um am Ende der Quest. 4 Wochen\nwieder hier zu sein.\nVon dem Obrist v Köckritz wird wohl eben ein Schreiben\neingegangen sei - alle meine es gut, und außer\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche\nzu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen\nAus Rußland sind hier sonderbare Nachrichten einge-\ngangen. – Alles ist dorten in Verwirrung weil die\nNeue Maitresse den Kayser ganz umanschränkt be-\nherrscht - zu Reppnin soll arretirt sie die Kurra-\n[h/k?]ins sind alle weg Zubow hatt eilig müßen nach\nPetersburg kommen, und Panie soll auch seinen Ab-\nschied gefordert haben - die Kayserin ist von dem\nH Paul gemißhandelt im 3 Tage eingesperrt, der",
+   "reading": "wird mehr als bey Polajewo profitirt - den da muß man ja auch zu 4 pC. die Sache rechnen. — Gott giebt das alles gut ja sehr gut geht Der Prinz George wird künftige Woche in Breslau sen — Sowohl deßen Sache als die Recherchen von Ewr Durchlaucht Gütern will ich während der Zeit abmachen, um am Ende der Quest. 4 Wochen wieder hier zu sein.\n\nVon dem Obrist v Köckritz wird wohl eben ein Schreiben eingegangen sei - alle meine es gut, und außer\n\nH. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche zu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen Aus Rußland sind hier sonderbare Nachrichten eingegangen. – Alles ist dorten in Verwirrung weil die Neue Maitresse den Kayser ganz umanschränkt beherrscht - zu Reppnin soll arretirt sie die Kurra[h/k?]ins sind alle weg Zubow hatt eilig müßen nach Petersburg kommen, und Panie soll auch seinen Abschied gefordert haben - die Kayserin ist von dem H Paul gemißhandelt im 3 Tage eingesperrt, der",
    "paragraphs": [
-    "wird mehr als bey Polagewo profitirt - den da muß man ja auch zu 4 pC. die Sache rechnen. — Gott giebt das alles gut ja sehr gut geht Der Prinz George wird künftige Woche in Breslau sen — Sowohl deßen Sache als die Recherchen von Ewr Durchlaucht Gütern will ich während der Zeit abmachen, um am Ende der Quaest. 4 Wochen wieder hier zu sein.",
-    "Vn dem Obrist v Köckritz wird wohl eben ein Schreiben eingegangen sei - alle meine es gut, und außer",
-    "H. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche zu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen Aus Rußland sind hier sonderbare Nachrichten einge gange. – Alles ist dorten in Verwirrung weil die Neue Maitresse den Kayser ganz umanschränkt beherrscht - zu Reppnin soll arretirt sie die Kurra[n?]ins sind alle weg Zubow hatt eilig müßen nach Petersburg kommen, und Panin soll auch seinen Abschied gefordert haben - die Kayserin ist von dem Paul genushandelt im 3 Tage eingesperrt, der"
+    "wird mehr als bey Polajewo profitirt - den da muß man ja auch zu 4 pC. die Sache rechnen. — Gott giebt das alles gut ja sehr gut geht Der Prinz George wird künftige Woche in Breslau sen — Sowohl deßen Sache als die Recherchen von Ewr Durchlaucht Gütern will ich während der Zeit abmachen, um am Ende der Quest. 4 Wochen wieder hier zu sein.",
+    "Von dem Obrist v Köckritz wird wohl eben ein Schreiben eingegangen sei - alle meine es gut, und außer",
+    "H. v Voss ist jeder Bereit Ewr Durchlaucht Wünsche zu vor zu kommen — dHn Voss regiert der Kr Rath Nöldichen Aus Rußland sind hier sonderbare Nachrichten eingegangen. – Alles ist dorten in Verwirrung weil die Neue Maitresse den Kayser ganz umanschränkt beherrscht - zu Reppnin soll arretirt sie die Kurra[h/k?]ins sind alle weg Zubow hatt eilig müßen nach Petersburg kommen, und Panie soll auch seinen Abschied gefordert haben - die Kayserin ist von dem H Paul gemißhandelt im 3 Tage eingesperrt, der"
    ],
    "continues_previous": true,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-   "doc_line_start": 18,
-   "doc_line_end": 37
+   "doc_line_start": 19,
+   "doc_line_end": 38
   },
   {
    "page": 3,
-   "page_id": "",
-   "line_start": 6764,
-   "line_end": 6776,
+   "page_id": "0176_a2",
+   "line_start": 6774,
+   "line_end": 6786,
    "n_lines": 13,
-   "diplomatic": "GroßFürst hatt sehr lamentirt und wie an Kind geweint –\nSiege heißt es wird abgehe um nur der Secretaire\nHier bleiben — Es sieht sonderbar aus – dennoch\nglaubt man es wird alles in Stata quo bleiben\nIn 5 Tage, habe ich das Glück mich Euer Durchlaucht\nVersönlich zu Füsz zu lege.\nzu tiefster Ehrfurcht ersterbe.\nEwr Hochfürstliche Durchlaucht\nBevelen\nden 20ten Octobr.\n1798.\ntreu untertängster Knecht\nv Triebenfeld",
-   "transcription": "GroßFürst hatt sehr lamentirt und wie an Kind geweint –\nSiege heißt es wird abgehe um nur der Secretaire\nHier bleiben — Es sieht sonderbar aus – dennoch\nglaubt man es wird alles in Stata quo bleiben\nIn 5 Tage, habe ich das Glück mich Euer Durchlaucht\nVersönlich zu Füsz zu lege.\nzu tiefster Ehrfurcht ersterbe.\nEwr Hochfürstliche Durchlaucht\nBevelen\nden 20ten Octobr.\n1798.\ntreu untertängster Knecht\nv Triebenfeld",
-   "reading": "GroßFürst hatt sehr lamentirt und wie an Kind geweint – Siege heißt es wird abgehe um nur der Secretaire Hier bleiben — Es sieht sonderbar aus – dennoch glaubt man es wird alles in Stata quo bleiben In 5 Tage, habe ich das Glück mich Euer Durchlaucht Versönlich zu Füsz zu lege. zu tiefster Ehrfurcht ersterbe. Ewr Hochfürstliche Durchlaucht Bevelen\n\nden 20ten Octobr.\n\n1798.\n\ntreu untertängster Knecht v Triebenfeld",
+   "diplomatic": "GroßFürst hatt sehr lamentirt und wie an Kind geweint –\nSiege heißt es wird abgehe um nur der Secretair\nHier bleiben — Es sieht sonderbar aus – dennoch\nglaubt man es wird alles in Statu quo bleiben\nIn 5 Tage, habe ich das Glück mich Euer Durchlaucht\nPersönlich zu Füsz zu lege.\nIn tiefster Ehrfurcht ersterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin\nden 20ten Octobr.\n1798.\ntreu untertängster Knecht\nv Triebenfeld",
+   "transcription": "GroßFürst hatt sehr lamentirt und wie an Kind geweint –\nSiege heißt es wird abgehe um nur der Secretair\nHier bleiben — Es sieht sonderbar aus – dennoch\nglaubt man es wird alles in Statu quo bleiben\nIn 5 Tage, habe ich das Glück mich Euer Durchlaucht\nPersönlich zu Füsz zu lege.\nIn tiefster Ehrfurcht ersterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin\nden 20ten Octobr.\n1798.\ntreu untertängster Knecht\nv Triebenfeld",
+   "reading": "GroßFürst hatt sehr lamentirt und wie an Kind geweint – Siege heißt es wird abgehe um nur der Secretair Hier bleiben — Es sieht sonderbar aus – dennoch glaubt man es wird alles in Statu quo bleiben In 5 Tage, habe ich das Glück mich Euer Durchlaucht Persönlich zu Füsz zu lege. In tiefster Ehrfurcht ersterbe. Ewr Hochfürstliche Durchlaucht Berlin\n\nden 20ten Octobr.\n\n1798.\n\ntreu untertängster Knecht v Triebenfeld",
    "paragraphs": [
-    "GroßFürst hatt sehr lamentirt und wie an Kind geweint – Siege heißt es wird abgehe um nur der Secretaire Hier bleiben — Es sieht sonderbar aus – dennoch glaubt man es wird alles in Stata quo bleiben In 5 Tage, habe ich das Glück mich Euer Durchlaucht Versönlich zu Füsz zu lege. zu tiefster Ehrfurcht ersterbe. Ewr Hochfürstliche Durchlaucht Bevelen",
+    "GroßFürst hatt sehr lamentirt und wie an Kind geweint – Siege heißt es wird abgehe um nur der Secretair Hier bleiben — Es sieht sonderbar aus – dennoch glaubt man es wird alles in Statu quo bleiben In 5 Tage, habe ich das Glück mich Euer Durchlaucht Persönlich zu Füsz zu lege. In tiefster Ehrfurcht ersterbe. Ewr Hochfürstliche Durchlaucht Berlin",
     "den 20ten Octobr.",
     "1798.",
     "treu untertängster Knecht v Triebenfeld"
@@ -90,8 +96,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0176_a2-L84_03.jpg",
-   "doc_line_start": 38,
-   "doc_line_end": 50
+   "doc_line_start": 39,
+   "doc_line_end": 51
   }
  ],
  "mentions": [
@@ -101,10 +107,32 @@
    "kind": "person",
    "surface": "Voss",
    "page": 1,
-   "page_id": "",
+   "page_id": "0175_a",
    "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
-   "line": 6727,
-   "doc_line": 3
+   "line": 6737,
+   "doc_line": 4
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface": "Broniew",
+   "page": 1,
+   "page_id": "0175_a",
+   "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
+   "line": 6745,
+   "doc_line": 12
+  },
+  {
+   "entity": "prinz-george",
+   "display": "Prinz George",
+   "kind": "person",
+   "surface": "George",
+   "page": 2,
+   "page_id": "0176_a1",
+   "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+   "line": 6756,
+   "doc_line": 22
   },
   {
    "entity": "koeckritz",
@@ -112,10 +140,10 @@
    "kind": "person",
    "surface": "Köckritz",
    "page": 2,
-   "page_id": "",
+   "page_id": "0176_a1",
    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-   "line": 6751,
-   "doc_line": 26
+   "line": 6761,
+   "doc_line": 27
   },
   {
    "entity": "voss",
@@ -123,10 +151,10 @@
    "kind": "person",
    "surface": "Voss",
    "page": 2,
-   "page_id": "",
+   "page_id": "0176_a1",
    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-   "line": 6753,
-   "doc_line": 28
+   "line": 6763,
+   "doc_line": 29
   },
   {
    "entity": "noldichen",
@@ -134,10 +162,10 @@
    "kind": "person",
    "surface": "Nöldichen",
    "page": 2,
-   "page_id": "",
+   "page_id": "0176_a1",
    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-   "line": 6754,
-   "doc_line": 29
+   "line": 6764,
+   "doc_line": 30
   },
   {
    "entity": "voss",
@@ -145,10 +173,21 @@
    "kind": "person",
    "surface": "Voss",
    "page": 2,
-   "page_id": "",
+   "page_id": "0176_a1",
    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-   "line": 6754,
-   "doc_line": 29
+   "line": 6764,
+   "doc_line": 30
+  },
+  {
+   "entity": "repnin",
+   "display": "Repnin",
+   "kind": "person",
+   "surface": "Reppnin",
+   "page": 2,
+   "page_id": "0176_a1",
+   "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+   "line": 6768,
+   "doc_line": 34
   },
   {
    "entity": "triebenfeld",
@@ -156,202 +195,69 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 3,
-   "page_id": "",
+   "page_id": "0176_a2",
    "scan": "Oe_1_Bu_9454_0176_a2-L84_03.jpg",
-   "line": 6776,
-   "doc_line": 50
+   "line": 6786,
+   "doc_line": 51
   }
  ],
- "mentions_english": [
-  {
-   "entity": "voss",
-   "display": "Voss",
-   "kind": "person",
-   "surface_de": "Voss",
-   "surface_en": "Voss",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Krotoszyn",
-   "kind": "place",
-   "surface_de": "Krotoszyn",
-   "surface_en": "Krotoszyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Betsche",
-   "kind": "place",
-   "surface_de": "Betschen",
-   "surface_en": "Betsche",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Bronzewski",
-   "kind": "person",
-   "surface_de": "Bronzewski",
-   "surface_en": "Bronzewski",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Polajewo",
-   "kind": "place",
-   "surface_de": "Polajewo",
-   "surface_en": "Polajewo",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Add nau",
-   "kind": "place",
-   "surface_de": "Add nau",
-   "surface_en": "Add nau",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Polagewo",
-   "kind": "place",
-   "surface_de": "Polagewo",
-   "surface_en": "Polagewo",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Prince George",
-   "kind": "person",
-   "surface_de": "Prinz George",
-   "surface_en": "Prince George",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 2
-  },
-  {
-   "entity": "koeckritz",
-   "display": "Köckritz",
-   "kind": "person",
-   "surface_de": "Köckritz",
-   "surface_en": "Köckritz",
-   "page": 2
-  },
-  {
-   "entity": "voss",
-   "display": "Voss",
-   "kind": "person",
-   "surface_de": "Voss",
-   "surface_en": "Voss",
-   "page": 2
-  },
-  {
-   "entity": "noldichen",
-   "display": "Nöldichen",
-   "kind": "person",
-   "surface_de": "Nöldichen",
-   "surface_en": "Nöldichen",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Russia",
-   "kind": "place",
-   "surface_de": "Rußland",
-   "surface_en": "Russia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Reppnin",
-   "kind": "other",
-   "surface_de": "Reppnin",
-   "surface_en": "Reppnin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Kurra[uncertain: n]ins",
-   "kind": "person",
-   "surface_de": "Kurra[n?]ins",
-   "surface_en": "Kurra[uncertain: n]ins",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Zubow",
-   "kind": "person",
-   "surface_de": "Zubow",
-   "surface_en": "Zubow",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Petersburg",
-   "kind": "place",
-   "surface_de": "Petersburg",
-   "surface_en": "Petersburg",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Panin",
-   "kind": "person",
-   "surface_de": "Panin",
-   "surface_en": "Panin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Paul",
-   "kind": "person",
-   "surface_de": "Paul",
-   "surface_en": "Paul",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Grand Duke",
-   "kind": "person",
-   "surface_de": "GroßFürst",
-   "surface_en": "Grand Duke",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "Siege",
-   "kind": "person",
-   "surface_de": "Siege",
-   "surface_en": "Siege",
-   "page": 3
-  },
-  {
-   "entity": "",
-   "display": "von Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "von Triebenfeld",
-   "page": 3
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
+  {
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0175_a",
+   "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
+   "line": 6737,
+   "doc_line": 4
+  },
   {
    "entity": "betsche",
    "display": "Betsche",
    "kind": "place",
-   "surface": "Betschen",
+   "surface": "Betsche",
    "page": 1,
-   "page_id": "",
+   "page_id": "0175_a",
    "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
-   "line": 6734,
-   "doc_line": 10
+   "line": 6744,
+   "doc_line": 11
+  },
+  {
+   "entity": "polajewo",
+   "display": "Polajewo",
+   "kind": "place",
+   "surface": "Polajewo",
+   "page": 1,
+   "page_id": "0175_a",
+   "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
+   "line": 6747,
+   "doc_line": 14
+  },
+  {
+   "entity": "krotoszyn",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface": "Krotoszyn",
+   "page": 1,
+   "page_id": "0175_a",
+   "scan": "Oe_1_Bu_9454_0175_a-L84_01.jpg",
+   "line": 6749,
+   "doc_line": 16
+  },
+  {
+   "entity": "polajewo",
+   "display": "Polajewo",
+   "kind": "place",
+   "surface": "Polajewo",
+   "page": 2,
+   "page_id": "0176_a1",
+   "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+   "line": 6753,
+   "doc_line": 19
   },
   {
    "entity": "breslau",
@@ -359,157 +265,48 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
-   "page_id": "",
+   "page_id": "0176_a1",
    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-   "line": 6746,
-   "doc_line": 21
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince\n\nMost gracious Lord, Since His Majesty the King has commanded His Excellency Mr. von Voss to arrange the Krotoszyn affair, the latter has asked for 4 weeks, as being the time within which the final report should be submitted. The Chambers are to investigate everything, in what manner the revenues come out equal. My plans are now already drafted, and at this very hour I go from here to Betsche, and I shall also see what is to be done with Bronzewski - for absolutely our revenues must remain as high, and since people are being so [uncertain: awkward] about Polajewo, one ought to give Your Serene Highness, out of the district governorship of Add nau, which borders hard upon Krotoszyn, as many estates as the higher value of our revenues amounts to - and in this way",
-   "names": [
-    {
-     "de": "Voss",
-     "en": "Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Krotoszyn",
-     "en": "Krotoszyn",
-     "kind": "place"
-    },
-    {
-     "de": "Betschen",
-     "en": "Betsche",
-     "kind": "place"
-    },
-    {
-     "de": "Bronzewski",
-     "en": "Bronzewski",
-     "kind": "person"
-    },
-    {
-     "de": "Polajewo",
-     "en": "Polajewo",
-     "kind": "place"
-    },
-    {
-     "de": "Add nau",
-     "en": "Add nau",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "4"
-   ]
+   "line": 6756,
+   "doc_line": 22
   },
   {
+   "entity": "russland",
+   "display": "Russland",
+   "kind": "place",
+   "surface": "Rußland",
    "page": 2,
-   "en": "more is gained than with Polagewo - for there too the matter must indeed be reckoned at 4 per cent. — God grant that all goes well, indeed very well. Prince George will be in Breslau next week — Both his affair and the investigations concerning Your Serene Highness's estates I intend to settle during that time, so as to be back here at the end of the 4 weeks in question.\n\nTo Colonel von Köckritz a letter will just now have come in - all mean it well, and apart from\n\nMr. von Voss everyone is ready to anticipate Your Serene Highness's wishes — Mr. von Voss is governed by the councillor of war Nöldichen. From Russia strange news has come in here. – Everything there is in confusion, because the new mistress rules the Emperor entirely without restraint - at Reppnin she is said to be arrested, the Kurra[uncertain: n]ins are all gone, Zubow has had to come in haste to Petersburg, and Panin is said also to have requested his discharge - the Empress has been ill-used by Paul and shut up for 3 days, the",
-   "names": [
-    {
-     "de": "Polagewo",
-     "en": "Polagewo",
-     "kind": "place"
-    },
-    {
-     "de": "Prinz George",
-     "en": "Prince George",
-     "kind": "person"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "Köckritz",
-     "en": "Köckritz",
-     "kind": "person"
-    },
-    {
-     "de": "Voss",
-     "en": "Voss",
-     "kind": "person"
-    },
-    {
-     "de": "Nöldichen",
-     "en": "Nöldichen",
-     "kind": "person"
-    },
-    {
-     "de": "Rußland",
-     "en": "Russia",
-     "kind": "place"
-    },
-    {
-     "de": "Reppnin",
-     "en": "Reppnin",
-     "kind": "other"
-    },
-    {
-     "de": "Kurra[n?]ins",
-     "en": "Kurra[uncertain: n]ins",
-     "kind": "person"
-    },
-    {
-     "de": "Zubow",
-     "en": "Zubow",
-     "kind": "person"
-    },
-    {
-     "de": "Petersburg",
-     "en": "Petersburg",
-     "kind": "place"
-    },
-    {
-     "de": "Panin",
-     "en": "Panin",
-     "kind": "person"
-    },
-    {
-     "de": "Paul",
-     "en": "Paul",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "4",
-    "4",
-    "3"
-   ]
+   "page_id": "0176_a1",
+   "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+   "line": 6765,
+   "doc_line": 31
   },
   {
+   "entity": "st-petersburg",
+   "display": "St Petersburg",
+   "kind": "place",
+   "surface": "Petersburg",
+   "page": 2,
+   "page_id": "0176_a1",
+   "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+   "line": 6770,
+   "doc_line": 36
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
    "page": 3,
-   "en": "Grand Duke has lamented greatly and wept like a child – Siege, it is said, will depart, only the secretary is to remain here — It looks strange – nevertheless it is believed that everything will remain in statu quo. In 5 days I shall have the happiness of laying myself personally at Your Serene Highness's feet. In deepest reverence I remain, until death, at Your Most Serene Highness's command\n\nthe 20th of October.\n\n1798.\n\nfaithful and most humble servant\nvon Triebenfeld",
-   "names": [
-    {
-     "de": "GroßFürst",
-     "en": "Grand Duke",
-     "kind": "person"
-    },
-    {
-     "de": "Siege",
-     "en": "Siege",
-     "kind": "person"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "von Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "5",
-    "20",
-    "1798"
-   ]
+   "page_id": "0176_a2",
+   "scan": "Oe_1_Bu_9454_0176_a2-L84_03.jpg",
+   "line": 6782,
+   "doc_line": 47
   }
  ],
- "text_english": "Most Serene Prince\n\nMost gracious Lord, Since His Majesty the King has commanded His Excellency Mr. von Voss to arrange the Krotoszyn affair, the latter has asked for 4 weeks, as being the time within which the final report should be submitted. The Chambers are to investigate everything, in what manner the revenues come out equal. My plans are now already drafted, and at this very hour I go from here to Betsche, and I shall also see what is to be done with Bronzewski - for absolutely our revenues must remain as high, and since people are being so [uncertain: awkward] about Polajewo, one ought to give Your Serene Highness, out of the district governorship of Add nau, which borders hard upon Krotoszyn, as many estates as the higher value of our revenues amounts to - and in this way\n\nmore is gained than with Polagewo - for there too the matter must indeed be reckoned at 4 per cent. — God grant that all goes well, indeed very well. Prince George will be in Breslau next week — Both his affair and the investigations concerning Your Serene Highness's estates I intend to settle during that time, so as to be back here at the end of the 4 weeks in question.\n\nTo Colonel von Köckritz a letter will just now have come in - all mean it well, and apart from\n\nMr. von Voss everyone is ready to anticipate Your Serene Highness's wishes — Mr. von Voss is governed by the councillor of war Nöldichen. From Russia strange news has come in here. – Everything there is in confusion, because the new mistress rules the Emperor entirely without restraint - at Reppnin she is said to be arrested, the Kurra[uncertain: n]ins are all gone, Zubow has had to come in haste to Petersburg, and Panin is said also to have requested his discharge - the Empress has been ill-used by Paul and shut up for 3 days, the\n\nGrand Duke has lamented greatly and wept like a child – Siege, it is said, will depart, only the secretary is to remain here — It looks strange – nevertheless it is believed that everything will remain in statu quo. In 5 days I shall have the happiness of laying myself personally at Your Serene Highness's feet. In deepest reverence I remain, until death, at Your Most Serene Highness's command\n\nthe 20th of October.\n\n1798.\n\nfaithful and most humble servant\nvon Triebenfeld",
- "summary_en": "Reports that the King has charged von Voss with settling the Krotoszyn exchange, and that he has asked four weeks for a final report while the Chambers check that the revenues balance. Triebenfeld, leaving for Betsche, urges that instead of Polajewo the Prince be given estates from the district governorship of Adelnau bordering Krotoszyn, reckoned at 4 per cent. Notes goodwill from Colonel von Köckritz, von Voss's reliance on war councillor Nöldichen, Prince George's visit to Breslau, and confused news from Russia.",
- "summary_de": "Bericht zur Krotoszyner Sache: Auf Befehl des Königs soll Herr von Voss sie regeln und hat dafür 4 Wochen erbeten, die Kammern prüfen den Ausgleich der Revenüen. Triebenfeld hat seine Pläne entworfen, reist nach Betsche und will Bronzewski klären; statt Polajewo empfiehlt er Güter aus der Landrätei Adelnau, zu 4 Prozent gerechnet. Erwähnt einen Brief an Oberst von Köckritz, Voss' Abhängigkeit von Kriegsrat Nöldichen, Prinz Georgs Aufenthalt in Breslau und verwirrende Nachrichten aus Russland (Zubow, Panin, Repnin)."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

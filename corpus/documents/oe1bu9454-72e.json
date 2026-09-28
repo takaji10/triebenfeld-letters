@@ -9,46 +9,49 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1812-03-05",
- "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1812-03-05]",
- "date_inferred_from": "supplied by researcher",
- "year": 1812,
- "month": 3,
- "day": 5,
- "place": "Warschau",
+ "date_iso": "",
+ "date_precision": "unknown",
+ "date_source": "none",
+ "date_display": "",
+ "date_inferred_from": "",
+ "year": "",
+ "month": "",
+ "day": "",
+ "place": "Warszawie",
  "sender": "",
  "recipient": "",
- "line_start": 5839,
- "line_end": 5857,
+ "line_start": 5847,
+ "line_end": 5865,
  "uncertainty_count": 1,
  "has_damage": 0,
- "language": "pl",
- "duplicate_of": "72d",
+ "language": "de",
+ "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
  "is_missing": 0,
- "n_lines": 18,
+ "n_lines": 17,
  "n_pages": 1,
- "text": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechsta",
- "text_reading": "w Warszawie dnia 5 Marca [18]12. Kochany Bracie!\n\nPospieszam z doniesieniem, iż dla różnych Interessów dopiero w dniu 15 m.b. z Warszawy będę mógł wyiechać. Okoliczność względem Trąbczyna podług powziętey pewney wiadomości w dobrym znayduie się położeniu, w czym przy powro cie dokładniey obiacnie. Dla krótkośći czasu ponieważ okazya odchodzi nie mogę więcey pisać.\n\nBędąc zdrów\n\n[k?]ony Bracie!\n\nprzyiaciela\n\nB. Brzechsta",
+ "text": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechffa",
+ "text_reading": "w Warszawie dnia 5 Marca [18]12. Kochany Bracie!\n\nPospieszam z doniesieniem, iż dla różnych Interessów dopiero w dniu 15 m.b. z Warszawy będę mógł wyiechać. Okoliczność względem Trąbczyna podług powziętey pewney wiadomości w dobrym znayduie się położeniu, w czym przy powro cie dokładniey obiacnie. Dla krótkośći czasu ponieważ okazya odchodzi nie mogę więcey pisać.\n\nBędąc zdrów\n\n[k?]ony Bracie!\n\nprzyiaciela\n\nB. Brzechffa",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 5840,
-   "line_end": 5856,
+   "page_id": "0148_a2",
+   "line_start": 5849,
+   "line_end": 5865,
    "n_lines": 17,
-   "diplomatic": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechsta",
-   "transcription": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechsta",
-   "reading": "w Warszawie dnia 5 Marca [18]12. Kochany Bracie!\n\nPospieszam z doniesieniem, iż dla różnych Interessów dopiero w dniu 15 m.b. z Warszawy będę mógł wyiechać. Okoliczność względem Trąbczyna podług powziętey pewney wiadomości w dobrym znayduie się położeniu, w czym przy powro cie dokładniey obiacnie. Dla krótkośći czasu ponieważ okazya odchodzi nie mogę więcey pisać.\n\nBędąc zdrów\n\n[k?]ony Bracie!\n\nprzyiaciela\n\nB. Brzechsta",
+   "diplomatic": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechffa",
+   "transcription": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechffa",
+   "reading": "w Warszawie dnia 5 Marca [18]12. Kochany Bracie!\n\nPospieszam z doniesieniem, iż dla różnych Interessów dopiero w dniu 15 m.b. z Warszawy będę mógł wyiechać. Okoliczność względem Trąbczyna podług powziętey pewney wiadomości w dobrym znayduie się położeniu, w czym przy powro cie dokładniey obiacnie. Dla krótkośći czasu ponieważ okazya odchodzi nie mogę więcey pisać.\n\nBędąc zdrów\n\n[k?]ony Bracie!\n\nprzyiaciela\n\nB. Brzechffa",
    "paragraphs": [
     "w Warszawie dnia 5 Marca [18]12. Kochany Bracie!",
     "Pospieszam z doniesieniem, iż dla różnych Interessów dopiero w dniu 15 m.b. z Warszawy będę mógł wyiechać. Okoliczność względem Trąbczyna podług powziętey pewney wiadomości w dobrym znayduie się położeniu, w czym przy powro cie dokładniey obiacnie. Dla krótkośći czasu ponieważ okazya odchodzi nie mogę więcey pisać.",
     "Będąc zdrów",
     "[k?]ony Bracie!",
     "przyiaciela",
-    "B. Brzechsta"
+    "B. Brzechffa"
    ],
    "continues_previous": false,
    "continues_next": false,
@@ -59,44 +62,19 @@
  ],
  "mentions": [
   {
-   "entity": "brzechsta",
-   "display": "Brzechsta",
+   "entity": "brzechffa",
+   "display": "Brzechffa",
    "kind": "person",
-   "surface": "Brzechsta",
+   "surface": "Brzechffa",
    "page": 1,
-   "page_id": "",
+   "page_id": "0148_a2",
    "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
-   "line": 5856,
+   "line": 5865,
    "doc_line": 17
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Warsaw",
-   "kind": "place",
-   "surface_de": "Warszawie",
-   "surface_en": "Warsaw",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyna",
-   "surface_en": "Trąbczyn",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "B. Brzechsta",
-   "kind": "person",
-   "surface_de": "B. Brzechsta",
-   "surface_en": "B. Brzechsta",
-   "page": 1
-  }
- ],
- "place_canonical": "Warschau",
+ "mentions_english": [],
+ "place_canonical": "Warszawie",
  "place_mentions": [
   {
    "entity": "trabczyn",
@@ -104,43 +82,15 @@
    "kind": "place",
    "surface": "Trąbczyna",
    "page": 1,
-   "page_id": "",
+   "page_id": "0148_a2",
    "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
-   "line": 5846,
+   "line": 5855,
    "doc_line": 7
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "In Warsaw, the 5th day of March [18]12. Dear Brother!\n\nI hasten to report that, on account of various matters of business, I shall not be able to depart from Warsaw until the 15th of the current month. The affair concerning Trąbczyn, according to certain intelligence I have received, stands in good posture, which upon my return I shall explain more fully. For want of time, since the conveyance is departing, I cannot write more.\n\nBe well\n\n[uncertain: k]ony Brother!\n\nfriend\n\nB. Brzechsta",
-   "names": [
-    {
-     "de": "Warszawie",
-     "en": "Warsaw",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyna",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "B. Brzechsta",
-     "en": "B. Brzechsta",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "5",
-    "18",
-    "12",
-    "15"
-   ]
-  }
- ],
- "text_english": "In Warsaw, the 5th day of March [18]12. Dear Brother!\n\nI hasten to report that, on account of various matters of business, I shall not be able to depart from Warsaw until the 15th of the current month. The affair concerning Trąbczyn, according to certain intelligence I have received, stands in good posture, which upon my return I shall explain more fully. For want of time, since the conveyance is departing, I cannot write more.\n\nBe well\n\n[uncertain: k]ony Brother!\n\nfriend\n\nB. Brzechsta",
- "summary_en": "A brief note from B. Brzechsta, writing as \"brother\", saying that business will keep him in Warsaw until the 15th of the month, and that on reliable information the Trąbczyn affair stands well, with fuller explanation promised on his return. Nothing further is given, the writer breaking off because the coach was leaving. A hasty few lines rather than a substantive report.",
- "summary_de": "Kurze Mitteilung eines B. Brzechsta an den Adressaten, den er als Bruder anredet: Wegen mehrerer Geschäfte könne er Warschau erst am 15. des Monats verlassen. Die Angelegenheit Trąbczyn stehe nach sicheren Nachrichten, die er erhalten habe, gut; Näheres wolle er nach seiner Rückkehr mündlich erläutern. Mehr könne er aus Zeitmangel nicht schreiben, da die Post bereits abgehe."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

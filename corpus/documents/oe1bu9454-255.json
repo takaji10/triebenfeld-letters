@@ -1,6 +1,6 @@
 {
  "letter_id": "255",
- "seq_archival": 268,
+ "seq_archival": 265,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-255",
@@ -18,52 +18,59 @@
  "month": 11,
  "day": 30,
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 18265,
- "line_end": 18305,
- "uncertainty_count": 0,
+ "sender": "",
+ "recipient": "",
+ "line_start": 18206,
+ "line_end": 18247,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 40,
+ "n_lines": 39,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5 ten Tag das Zimmer\nund Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey\nich es wahrhaft. Nicht nur daß die ganze Maschine im Stockcken kommen werde.\nsondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen\nbleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht ge¬\nholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant\ndemohngeachtet hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich\nallein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will\nBericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der\nMinister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als\ndaß wir schon genommen Spiel hätten - Hoffrath Hahns Gutachten hat noch\ngewürkt, weil alles dadurch was ich gesagt, bestätiget wird.\nIch hoffe mit festem Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des\nerhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen\nwerden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man\njezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück ge¬\nlegt - Auch gut den dorten giebts der Helfer mehrere\nVor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget\nwird, daß Eine Durchlaucht diese gräuliche Sache vom Halse los werden.\ndaß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr\nzum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener\ndorten leben dürfen. Alles andere findet sich den von selbst-\nSo eben könte B- und bringt mir die Nachricht, daß des Königes Majestät\n\nund alles was Preußen ist, den Dt. aber von hier nach Berlin abgeht - der Kayser\nAlles ander folgt mit allem was zu seinem Hof gehört den 10ten dahin, zugleich\nalle andere Souviania und sonstige hohe Herrschaften dann tritt auch der bidere\nKayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin\ndurch dauren. Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die\ngeruhen, weiter keine Briefe an mich zu senden den den 11ten M gedende ich mich\nHöchst Ihren Persönlich zu Füßen zu legen -\nIn tiefster Verehrung verharre\nEuer Durchlaucht\nWien den 30ten November\n1814.\ntreu gehorsamster Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5 ten Tag das Zimmer und Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey ich es wahrhaft. Nicht nur daß die ganze Maschine im Stockcken kommen werde. sondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen bleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht geholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant demohngeachtet hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich allein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will Bericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der Minister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als daß wir schon genommen Spiel hätten - Hoffrath Hahns Gutachten hat noch gewürkt, weil alles dadurch was ich gesagt, bestätiget wird. Ich hoffe mit festem Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des erhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen werden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man jezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück gelegt - Auch gut den dorten giebts der Helfer mehrere Vor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget wird, daß Eine Durchlaucht diese gräuliche Sache vom Halse los werden. daß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr zum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener dorten leben dürfen. Alles andere findet sich den von selbst- So eben könte B- und bringt mir die Nachricht, daß des Königes Majestät\n\nund alles was Preußen ist, den Dt. aber von hier nach Berlin abgeht - der Kayser Alles ander folgt mit allem was zu seinem Hof gehört den 10ten dahin, zugleich alle andere Souviania und sonstige hohe Herrschaften dann tritt auch der bidere Kayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin durch dauren. Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die geruhen, weiter keine Briefe an mich zu senden den den 11ten M gedende ich mich Höchst Ihren Persönlich zu Füßen zu legen - In tiefster Verehrung verharre\n\nEuer Durchlaucht\n\nWien den 30ten November\n\n1814.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+ "text": "255\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5ten Tag das Zimmer\nund Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey\nich es wahrhaft. Nicht nur daß die ganze Maschine im Stocken kommen werde,\nsondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen\nbleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht ge¬\nholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant\ndemohngeachtet[?] hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich\nallein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will\nBericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der\nMinister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als\ndaß wir schon gewonnen Spiel hätten - Hoffrath Hahns Gutachten hat noch\ngewürkt, weil alles dadurch was ich gesagt, bestätiget wird -\nIch hoffe mit reſten Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des\nerhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen\nwerden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man\njezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück ge¬\nlegt - Auch gut den dorten giebts der Helfer mehrere -\nVor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget\nwird, daß Ewr Durchlaucht diese gräuliche Sache vom Halse los werden.\ndaß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr\nzum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener\ndorten leben dürfen. Alles andere findet sich den von selbst -\nSo eben könte B - und bringt mir die Nachricht, daß des Königes Majestät\nund alles was Preußen ist, den 8ten Xbr von hier nach Berlin abgeht - der Kayser\nAlles ander folgt mit allem was zu seinem Hoff gehört den 10ten dahin, zugleich\nalle andere Souverains und sonstige hohe Herrschaften dann tritt auch der bidere\nKayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin\ndurch dauren - Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die\ngeruhen, weiter keine Briefe an mich zu senden den den 11ten K M gedenke ich mich\nHöchst Ihren Persönlich zu Füßen zu legen -\nIn tiefster Verehrung verharre\nEuer Durchlaucht\nWien den 30ten November\n1814.\ntreu gehorsamster Diener\nv Triebenfeld",
+ "text_reading": "255\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5ten Tag das Zimmer und Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey ich es wahrhaft. Nicht nur daß die ganze Maschine im Stocken kommen werde, sondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen bleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht geholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant demohngeachtet[?] hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich allein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will Bericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der Minister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als daß wir schon gewonnen Spiel hätten - Hoffrath Hahns Gutachten hat noch gewürkt, weil alles dadurch was ich gesagt, bestätiget wird - Ich hoffe mit reſten Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des erhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen werden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man jezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück gelegt - Auch gut den dorten giebts der Helfer mehrere - Vor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget wird, daß Ewr Durchlaucht diese gräuliche Sache vom Halse los werden. daß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr zum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener dorten leben dürfen. Alles andere findet sich den von selbst - So eben könte B - und bringt mir die Nachricht, daß des Königes Majestät\n\nund alles was Preußen ist, den 8ten Xbr von hier nach Berlin abgeht - der Kayser Alles ander folgt mit allem was zu seinem Hoff gehört den 10ten dahin, zugleich alle andere Souverains und sonstige hohe Herrschaften dann tritt auch der bidere Kayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin durch dauren - Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die geruhen, weiter keine Briefe an mich zu senden den den 11ten K M gedenke ich mich Höchst Ihren Persönlich zu Füßen zu legen -\n\nIn tiefster Verehrung verharre\n\nEuer Durchlaucht\n\nWien den 30ten November\n\n1814.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 18266,
-   "line_end": 18290,
-   "n_lines": 25,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5 ten Tag das Zimmer\nund Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey\nich es wahrhaft. Nicht nur daß die ganze Maschine im Stockcken kommen werde.\nsondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen\nbleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht ge¬\nholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant\ndemohngeachtet hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich\nallein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will\nBericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der\nMinister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als\ndaß wir schon genommen Spiel hätten - Hoffrath Hahns Gutachten hat noch\ngewürkt, weil alles dadurch was ich gesagt, bestätiget wird.\nIch hoffe mit festem Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des\nerhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen\nwerden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man\njezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück ge¬\nlegt - Auch gut den dorten giebts der Helfer mehrere\nVor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget\nwird, daß Eine Durchlaucht diese gräuliche Sache vom Halse los werden.\ndaß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr\nzum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener\ndorten leben dürfen. Alles andere findet sich den von selbst-\nSo eben könte B- und bringt mir die Nachricht, daß des Königes Majestät",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5 ten Tag das Zimmer\nund Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey\nich es wahrhaft. Nicht nur daß die ganze Maschine im Stockcken kommen werde.\nsondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen\nbleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht ge-\nholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant\ndemohngeachtet hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich\nallein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will\nBericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der\nMinister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als\ndaß wir schon genommen Spiel hätten - Hoffrath Hahns Gutachten hat noch\ngewürkt, weil alles dadurch was ich gesagt, bestätiget wird.\nIch hoffe mit festem Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des\nerhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen\nwerden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man\njezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück ge-\nlegt - Auch gut den dorten giebts der Helfer mehrere\nVor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget\nwird, daß Eine Durchlaucht diese gräuliche Sache vom Halse los werden.\ndaß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr\nzum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener\ndorten leben dürfen. Alles andere findet sich den von selbst-\nSo eben könte B- und bringt mir die Nachricht, daß des Königes Majestät",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5 ten Tag das Zimmer und Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey ich es wahrhaft. Nicht nur daß die ganze Maschine im Stockcken kommen werde. sondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen bleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht geholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant demohngeachtet hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich allein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will Bericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der Minister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als daß wir schon genommen Spiel hätten - Hoffrath Hahns Gutachten hat noch gewürkt, weil alles dadurch was ich gesagt, bestätiget wird. Ich hoffe mit festem Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des erhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen werden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man jezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück gelegt - Auch gut den dorten giebts der Helfer mehrere Vor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget wird, daß Eine Durchlaucht diese gräuliche Sache vom Halse los werden. daß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr zum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener dorten leben dürfen. Alles andere findet sich den von selbst- So eben könte B- und bringt mir die Nachricht, daß des Königes Majestät",
+   "page_id": "0470_b",
+   "line_start": 18208,
+   "line_end": 18233,
+   "n_lines": 26,
+   "diplomatic": "255\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5ten Tag das Zimmer\nund Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey\nich es wahrhaft. Nicht nur daß die ganze Maschine im Stocken kommen werde,\nsondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen\nbleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht ge¬\nholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant\ndemohngeachtet[?] hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich\nallein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will\nBericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der\nMinister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als\ndaß wir schon gewonnen Spiel hätten - Hoffrath Hahns Gutachten hat noch\ngewürkt, weil alles dadurch was ich gesagt, bestätiget wird -\nIch hoffe mit reſten Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des\nerhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen\nwerden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man\njezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück ge¬\nlegt - Auch gut den dorten giebts der Helfer mehrere -\nVor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget\nwird, daß Ewr Durchlaucht diese gräuliche Sache vom Halse los werden.\ndaß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr\nzum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener\ndorten leben dürfen. Alles andere findet sich den von selbst -\nSo eben könte B - und bringt mir die Nachricht, daß des Königes Majestät",
+   "transcription": "255\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5ten Tag das Zimmer\nund Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey\nich es wahrhaft. Nicht nur daß die ganze Maschine im Stocken kommen werde,\nsondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen\nbleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht ge-\nholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant\ndemohngeachtet[?] hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich\nallein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will\nBericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der\nMinister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als\ndaß wir schon gewonnen Spiel hätten - Hoffrath Hahns Gutachten hat noch\ngewürkt, weil alles dadurch was ich gesagt, bestätiget wird -\nIch hoffe mit reſten Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des\nerhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen\nwerden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man\njezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück ge-\nlegt - Auch gut den dorten giebts der Helfer mehrere -\nVor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget\nwird, daß Ewr Durchlaucht diese gräuliche Sache vom Halse los werden.\ndaß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr\nzum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener\ndorten leben dürfen. Alles andere findet sich den von selbst -\nSo eben könte B - und bringt mir die Nachricht, daß des Königes Majestät",
+   "reading": "255\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\ndes Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5ten Tag das Zimmer und Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey ich es wahrhaft. Nicht nur daß die ganze Maschine im Stocken kommen werde, sondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen bleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht geholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant demohngeachtet[?] hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich allein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will Bericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der Minister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als daß wir schon gewonnen Spiel hätten - Hoffrath Hahns Gutachten hat noch gewürkt, weil alles dadurch was ich gesagt, bestätiget wird - Ich hoffe mit reſten Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des erhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen werden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man jezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück gelegt - Auch gut den dorten giebts der Helfer mehrere - Vor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget wird, daß Ewr Durchlaucht diese gräuliche Sache vom Halse los werden. daß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr zum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener dorten leben dürfen. Alles andere findet sich den von selbst - So eben könte B - und bringt mir die Nachricht, daß des Königes Majestät",
    "paragraphs": [
+    "255",
     "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "des Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5 ten Tag das Zimmer und Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey ich es wahrhaft. Nicht nur daß die ganze Maschine im Stockcken kommen werde. sondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen bleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht geholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant demohngeachtet hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich allein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will Bericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der Minister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als daß wir schon genommen Spiel hätten - Hoffrath Hahns Gutachten hat noch gewürkt, weil alles dadurch was ich gesagt, bestätiget wird. Ich hoffe mit festem Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des erhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen werden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man jezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück gelegt - Auch gut den dorten giebts der Helfer mehrere Vor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget wird, daß Eine Durchlaucht diese gräuliche Sache vom Halse los werden. daß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr zum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener dorten leben dürfen. Alles andere findet sich den von selbst- So eben könte B- und bringt mir die Nachricht, daß des Königes Majestät"
+    "des Fürsten Staats Kanzlers Durchlaucht Hüthen heute schon den 5ten Tag das Zimmer und Bette. Mann Jemand für die Erhaltung dieses Mannes Gott im Stillen bittet ſo bey ich es wahrhaft. Nicht nur daß die ganze Maschine im Stocken kommen werde, sondern Ewr Durchlaucht Angelegenheiten würden auf halben Wege liegen bleiben. Jezt steht alles noch sehr gut – der Fürst H will Ewr Durchlaucht geholfen wißen, da erhalte ihm ja Gott - die Arbeiten des Herrn sind exorbitant demohngeachtet[?] hat er Ewr Durchlaucht Sachen, so viel ich deren eingab, sich allein zu geschrieben. Ein wahrhafter Beweiß daß Er helfen will Bericht hat der Fürst noch erfordert, woher aber weiß ich nicht nur der Minister Humboldt scheint mehr zu wißen, sagt aber weiter nichts, als daß wir schon gewonnen Spiel hätten - Hoffrath Hahns Gutachten hat noch gewürkt, weil alles dadurch was ich gesagt, bestätiget wird - Ich hoffe mit reſten Vertrauen zu Gott, daß Ewer Durchlaucht durch Hülfe des erhabenen Fürsten Hard: nun noch ein sehr ruhiges und glückliches Alter genießen werden. Über Ewr Durchlaucht Militäirische Angelegenheiten, schweigt man jezt gänzl. B. aber sagt dies sey bis Berlin auf bewahrt und zurück gelegt - Auch gut den dorten giebts der Helfer mehrere - Vor der Hand kömt nur alles darauf an, daß die Curische Sache beendiget wird, daß Ewr Durchlaucht diese gräuliche Sache vom Halse los werden. daß Cosmar geworfen wird, und daß Sie als würklicher Majorats Herr zum Besitz der Güter gelangen, und nicht mehr der Gnade Ihrer diener dorten leben dürfen. Alles andere findet sich den von selbst - So eben könte B - und bringt mir die Nachricht, daß des Königes Majestät"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 25
+   "doc_line_end": 26
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 18292,
-   "line_end": 18304,
+   "page_id": "0471_a1",
+   "line_start": 18235,
+   "line_end": 18247,
    "n_lines": 13,
-   "diplomatic": "und alles was Preußen ist, den Dt. aber von hier nach Berlin abgeht - der Kayser\nAlles ander folgt mit allem was zu seinem Hof gehört den 10ten dahin, zugleich\nalle andere Souviania und sonstige hohe Herrschaften dann tritt auch der bidere\nKayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin\ndurch dauren. Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die\ngeruhen, weiter keine Briefe an mich zu senden den den 11ten M gedende ich mich\nHöchst Ihren Persönlich zu Füßen zu legen -\nIn tiefster Verehrung verharre\nEuer Durchlaucht\nWien den 30ten November\n1814.\ntreu gehorsamster Diener\nv Triebenfeld",
-   "transcription": "und alles was Preußen ist, den Dt. aber von hier nach Berlin abgeht - der Kayser\nAlles ander folgt mit allem was zu seinem Hof gehört den 10ten dahin, zugleich\nalle andere Souviania und sonstige hohe Herrschaften dann tritt auch der bidere\nKayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin\ndurch dauren. Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die\ngeruhen, weiter keine Briefe an mich zu senden den den 11ten M gedende ich mich\nHöchst Ihren Persönlich zu Füßen zu legen -\nIn tiefster Verehrung verharre\nEuer Durchlaucht\nWien den 30ten November\n1814.\ntreu gehorsamster Diener\nv Triebenfeld",
-   "reading": "und alles was Preußen ist, den Dt. aber von hier nach Berlin abgeht - der Kayser Alles ander folgt mit allem was zu seinem Hof gehört den 10ten dahin, zugleich alle andere Souviania und sonstige hohe Herrschaften dann tritt auch der bidere Kayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin durch dauren. Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die geruhen, weiter keine Briefe an mich zu senden den den 11ten M gedende ich mich Höchst Ihren Persönlich zu Füßen zu legen - In tiefster Verehrung verharre\n\nEuer Durchlaucht\n\nWien den 30ten November\n\n1814.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
+   "diplomatic": "und alles was Preußen ist, den 8ten Xbr von hier nach Berlin abgeht - der Kayser\nAlles ander folgt mit allem was zu seinem Hoff gehört den 10ten dahin, zugleich\nalle andere Souverains und sonstige hohe Herrschaften dann tritt auch der bidere\nKayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin\ndurch dauren - Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die\ngeruhen, weiter keine Briefe an mich zu senden den den 11ten K M gedenke ich mich\nHöchst Ihren Persönlich zu Füßen zu legen -\nIn tiefster Verehrung verharre\nEuer Durchlaucht\nWien den 30ten November\n1814.\ntreu gehorsamster Diener\nv Triebenfeld",
+   "transcription": "und alles was Preußen ist, den 8ten Xbr von hier nach Berlin abgeht - der Kayser\nAlles ander folgt mit allem was zu seinem Hoff gehört den 10ten dahin, zugleich\nalle andere Souverains und sonstige hohe Herrschaften dann tritt auch der bidere\nKayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin\ndurch dauren - Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die\ngeruhen, weiter keine Briefe an mich zu senden den den 11ten K M gedenke ich mich\nHöchst Ihren Persönlich zu Füßen zu legen -\nIn tiefster Verehrung verharre\nEuer Durchlaucht\nWien den 30ten November\n1814.\ntreu gehorsamster Diener\nv Triebenfeld",
+   "reading": "und alles was Preußen ist, den 8ten Xbr von hier nach Berlin abgeht - der Kayser Alles ander folgt mit allem was zu seinem Hoff gehört den 10ten dahin, zugleich alle andere Souverains und sonstige hohe Herrschaften dann tritt auch der bidere Kayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin durch dauren - Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die geruhen, weiter keine Briefe an mich zu senden den den 11ten K M gedenke ich mich Höchst Ihren Persönlich zu Füßen zu legen -\n\nIn tiefster Verehrung verharre\n\nEuer Durchlaucht\n\nWien den 30ten November\n\n1814.\n\ntreu gehorsamster Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "und alles was Preußen ist, den Dt. aber von hier nach Berlin abgeht - der Kayser Alles ander folgt mit allem was zu seinem Hof gehört den 10ten dahin, zugleich alle andere Souviania und sonstige hohe Herrschaften dann tritt auch der bidere Kayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin durch dauren. Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die geruhen, weiter keine Briefe an mich zu senden den den 11ten M gedende ich mich Höchst Ihren Persönlich zu Füßen zu legen - In tiefster Verehrung verharre",
+    "und alles was Preußen ist, den 8ten Xbr von hier nach Berlin abgeht - der Kayser Alles ander folgt mit allem was zu seinem Hoff gehört den 10ten dahin, zugleich alle andere Souverains und sonstige hohe Herrschaften dann tritt auch der bidere Kayser Franz, seine Reise dahin an, und vermuthlich wird dies dem Carneval hin durch dauren - Ewr Durchlaucht werde ich nun weiter nicht schreiben. Auch die geruhen, weiter keine Briefe an mich zu senden den den 11ten K M gedenke ich mich Höchst Ihren Persönlich zu Füßen zu legen -",
+    "In tiefster Verehrung verharre",
     "Euer Durchlaucht",
     "Wien den 30ten November",
     "1814.",
@@ -73,8 +80,8 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0471_a1-L255_02.jpg",
-   "doc_line_start": 26,
-   "doc_line_end": 38
+   "doc_line_start": 27,
+   "doc_line_end": 39
   }
  ],
  "mentions": [
@@ -84,10 +91,10 @@
    "kind": "person",
    "surface": "Humboldt",
    "page": 1,
-   "page_id": "",
+   "page_id": "0470_b",
    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
-   "line": 18277,
-   "doc_line": 12
+   "line": 18220,
+   "doc_line": 13
   },
   {
    "entity": "hardenberg",
@@ -95,10 +102,10 @@
    "kind": "person",
    "surface": "Hard:",
    "page": 1,
-   "page_id": "",
+   "page_id": "0470_b",
    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
-   "line": 18281,
-   "doc_line": 16
+   "line": 18224,
+   "doc_line": 17
   },
   {
    "entity": "cosmar",
@@ -106,10 +113,10 @@
    "kind": "person",
    "surface": "Cosmar",
    "page": 1,
-   "page_id": "",
+   "page_id": "0470_b",
    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
-   "line": 18287,
-   "doc_line": 22
+   "line": 18230,
+   "doc_line": 23
   },
   {
    "entity": "triebenfeld",
@@ -117,118 +124,13 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0471_a1",
    "scan": "Oe_1_Bu_9454_0471_a1-L255_02.jpg",
-   "line": 18304,
-   "doc_line": 38
+   "line": 18247,
+   "doc_line": 39
   }
  ],
- "mentions_english": [
-  {
-   "entity": "humboldt",
-   "display": "Wilhelm von Humboldt",
-   "kind": "person",
-   "surface_de": "Humboldt",
-   "surface_en": "Humboldt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hahn",
-   "kind": "person",
-   "surface_de": "Hahn",
-   "surface_en": "Hahn",
-   "page": 1
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface_de": "Hard:",
-   "surface_en": "Hard:",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince H.",
-   "kind": "person",
-   "surface_de": "Fürst H",
-   "surface_en": "Prince H.",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "B.",
-   "kind": "person",
-   "surface_de": "B.",
-   "surface_en": "B.",
-   "page": 1
-  },
-  {
-   "entity": "cosmar",
-   "display": "Cosmar",
-   "kind": "person",
-   "surface_de": "Cosmar",
-   "surface_en": "Cosmar",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Courland",
-   "kind": "place",
-   "surface_de": "Curische",
-   "surface_en": "Courland",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prussia",
-   "kind": "place",
-   "surface_de": "Preußen",
-   "surface_en": "Prussia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
-   "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Emperor Franz",
-   "kind": "person",
-   "surface_de": "Kayser Franz",
-   "surface_en": "Emperor Franz",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -237,10 +139,10 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0470_b",
    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
-   "line": 18283,
-   "doc_line": 18
+   "line": 18226,
+   "doc_line": 19
   },
   {
    "entity": "berlin",
@@ -248,102 +150,26 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "",
+   "page_id": "0471_a1",
    "scan": "Oe_1_Bu_9454_0471_a1-L255_02.jpg",
-   "line": 18292,
-   "doc_line": 26
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nHis Serene Highness the Prince State Chancellor has today already kept to his room and bed for the 5th day. If anyone quietly prays to God for the preservation of this man, then truly I do so. [uncertain: Not only that] the whole machine would come to a standstill, but Your Serene Highness's affairs would be left lying half-way. At present everything still stands very well – Prince H. wishes Your Serene Highness to be helped; may God preserve him for that – the gentleman's labours are exorbitant, and notwithstanding this he has written up Your Serene Highness's matters, so far as I submitted them, entirely himself. A true proof that he means to help. The Prince has required a further report, but from where I do not know; only Minister Humboldt seems to know more, yet says nothing further than that we already had a won game – Court Councillor Hahn's opinion has had its effect besides, because everything I have said is confirmed by it. I hope, with firm trust in God, that Your Serene Highness, through the help of the exalted Prince Hard:, will now yet enjoy a very peaceful and happy old age. Of Your Serene Highness's military affairs there is at present complete silence; B., however, says this is kept in reserve and laid aside until Berlin – which is well too, for there the helpers are more numerous. For the present everything depends solely upon the Courland matter being brought to an end, so that Your Serene Highness may be rid of this dreadful business, that Cosmar may be overthrown, and that you may come into possession of the estates as actual lord of the entailed estate, and no longer have to live there on the mercy of your servants. Everything else will then follow of itself. – Just now B. was able to, and brings me the news, that His Majesty the King",
-   "names": [
-    {
-     "de": "Humboldt",
-     "en": "Humboldt",
-     "kind": "person"
-    },
-    {
-     "de": "Hahn",
-     "en": "Hahn",
-     "kind": "person"
-    },
-    {
-     "de": "Hard:",
-     "en": "Hard:",
-     "kind": "person"
-    },
-    {
-     "de": "Fürst H",
-     "en": "Prince H.",
-     "kind": "person"
-    },
-    {
-     "de": "B.",
-     "en": "B.",
-     "kind": "person"
-    },
-    {
-     "de": "Cosmar",
-     "en": "Cosmar",
-     "kind": "person"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Curische",
-     "en": "Courland",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "5"
-   ]
+   "line": 18235,
+   "doc_line": 27
   },
   {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
    "page": 2,
-   "en": "and everything that is Prussian, but the D[?] departs from here for Berlin – the Emperor; all the rest follows with everything belonging to his court on the 10th to that place, and at the same time all the other sovereigns and other high personages; then too the worthy Emperor Franz sets out on his journey thither, and presumably this will last through the Carnival. To Your Serene Highness I shall now write no further. May you also be pleased to send no further letters to me, for on the 11th of [uncertain: M] I intend to lay myself personally at your most exalted feet. – In deepest reverence I remain\n\nYour Serene Highness's\n\nVienna, the 30th of November\n\n1814.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Preußen",
-     "en": "Prussia",
-     "kind": "place"
-    },
-    {
-     "de": "Berlin",
-     "en": "Berlin",
-     "kind": "place"
-    },
-    {
-     "de": "Kayser Franz",
-     "en": "Emperor Franz",
-     "kind": "person"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "10",
-    "11",
-    "30",
-    "1814"
-   ]
+   "page_id": "0471_a1",
+   "scan": "Oe_1_Bu_9454_0471_a1-L255_02.jpg",
+   "line": 18244,
+   "doc_line": 36
   }
  ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nHis Serene Highness the Prince State Chancellor has today already kept to his room and bed for the 5th day. If anyone quietly prays to God for the preservation of this man, then truly I do so. [uncertain: Not only that] the whole machine would come to a standstill, but Your Serene Highness's affairs would be left lying half-way. At present everything still stands very well – Prince H. wishes Your Serene Highness to be helped; may God preserve him for that – the gentleman's labours are exorbitant, and notwithstanding this he has written up Your Serene Highness's matters, so far as I submitted them, entirely himself. A true proof that he means to help. The Prince has required a further report, but from where I do not know; only Minister Humboldt seems to know more, yet says nothing further than that we already had a won game – Court Councillor Hahn's opinion has had its effect besides, because everything I have said is confirmed by it. I hope, with firm trust in God, that Your Serene Highness, through the help of the exalted Prince Hard:, will now yet enjoy a very peaceful and happy old age. Of Your Serene Highness's military affairs there is at present complete silence; B., however, says this is kept in reserve and laid aside until Berlin – which is well too, for there the helpers are more numerous. For the present everything depends solely upon the Courland matter being brought to an end, so that Your Serene Highness may be rid of this dreadful business, that Cosmar may be overthrown, and that you may come into possession of the estates as actual lord of the entailed estate, and no longer have to live there on the mercy of your servants. Everything else will then follow of itself. – Just now B. was able to, and brings me the news, that His Majesty the King\n\nand everything that is Prussian, but the D[?] departs from here for Berlin – the Emperor; all the rest follows with everything belonging to his court on the 10th to that place, and at the same time all the other sovereigns and other high personages; then too the worthy Emperor Franz sets out on his journey thither, and presumably this will last through the Carnival. To Your Serene Highness I shall now write no further. May you also be pleased to send no further letters to me, for on the 11th of [uncertain: M] I intend to lay myself personally at your most exalted feet. – In deepest reverence I remain\n\nYour Serene Highness's\n\nVienna, the 30th of November\n\n1814.\n\nfaithful and most obedient servant\n\nv. Triebenfeld",
- "summary_en": "Reports from the Congress that the Prince State Chancellor Hardenberg has been confined to bed for five days, alarming because he has drafted the Prince's submissions himself and means to help; Minister Humboldt hints the case is already won, and Court Councillor Hahn's opinion supports it. The military claims lie dormant until Berlin. Everything turns on ending the Courland business, defeating Cosmar and securing possession of the entailed estates. Announces his arrival in person on the 11th.",
- "summary_de": "Bericht über den Stand der Sache am Wiener Kongress: Staatskanzler Fürst Hardenberg liegt seit fünf Tagen krank, hat die Angelegenheiten des Fürsten aber eigenhändig aufgesetzt und einen weiteren Bericht verlangt; Minister Humboldt spricht von einem schon gewonnenen Spiel, unterstützt durch das Gutachten des Hofrats Hahn. Die Militärsache ruht bis Berlin. Alles hänge am Abschluss der kurländischen Sache, am Sturz Cosmars und am Besitz der Güter als Fideikommissherr. Abreise des Königs und des Kaisers nach Berlin; Triebenfeld kündigt seine Ankunft für den 11. an und bittet, keine Briefe mehr zu senden."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

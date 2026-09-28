@@ -397,6 +397,17 @@
    "doc_line": 265
   },
   {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface": "Schenk",
+   "page": 11,
+   "page_id": "0028_a2",
+   "scan": "Oe_1_Bu_14526_0028_a2-L6_11.jpg",
+   "line": 1393,
+   "doc_line": 268
+  },
+  {
    "entity": "ogrodowicz",
    "display": "Ogrodowicz",
    "kind": "person",
@@ -678,8 +689,8 @@
    "page": 11
   },
   {
-   "entity": "",
-   "display": "Schenk",
+   "entity": "schenck",
+   "display": "Schenck",
    "kind": "person",
    "surface_de": "Schenk",
    "surface_en": "Schenk",
@@ -905,6 +916,17 @@
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0023_b",
+   "scan": "Oe_1_Bu_14526_0023_b-L6_01.jpg",
+   "line": 1122,
+   "doc_line": 7
+  },
+  {
    "entity": "osiny",
    "display": "Osiny",
    "kind": "place",
@@ -938,10 +960,32 @@
    "doc_line": 61
   },
   {
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
+   "kind": "place",
+   "surface": "Schweinern",
+   "page": 11,
+   "page_id": "0028_a2",
+   "scan": "Oe_1_Bu_14526_0028_a2-L6_11.jpg",
+   "line": 1401,
+   "doc_line": 276
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz",
    "kind": "place",
    "surface": "Kalischen",
+   "page": 11,
+   "page_id": "0028_a2",
+   "scan": "Oe_1_Bu_14526_0028_a2-L6_11.jpg",
+   "line": 1404,
+   "doc_line": 279
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreußen",
    "page": 11,
    "page_id": "0028_a2",
    "scan": "Oe_1_Bu_14526_0028_a2-L6_11.jpg",
@@ -1004,6 +1048,17 @@
    "doc_line": 323
   },
   {
+   "entity": "guhrwitz",
+   "display": "Guhrwitz",
+   "kind": "place",
+   "surface": "Guhrwitzschen",
+   "page": 13,
+   "page_id": "0029_a2",
+   "scan": "Oe_1_Bu_14526_0029_a2-L6_13.jpg",
+   "line": 1450,
+   "doc_line": 323
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -1024,6 +1079,17 @@
    "scan": "Oe_1_Bu_14526_0029_a2-L6_13.jpg",
    "line": 1459,
    "doc_line": 332
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 13,
+   "page_id": "0029_a2",
+   "scan": "Oe_1_Bu_14526_0029_a2-L6_13.jpg",
+   "line": 1462,
+   "doc_line": 335
   },
   {
    "entity": "guhrwitz",
@@ -1068,6 +1134,17 @@
    "scan": "Oe_1_Bu_14526_0030_a1-L6_14.jpg",
    "line": 1489,
    "doc_line": 361
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 14,
+   "page_id": "0030_a1",
+   "scan": "Oe_1_Bu_14526_0030_a1-L6_14.jpg",
+   "line": 1495,
+   "doc_line": 367
   },
   {
    "entity": "osiny",

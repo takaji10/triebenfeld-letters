@@ -1,6 +1,6 @@
 {
  "letter_id": "263",
- "seq_archival": 276,
+ "seq_archival": 273,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-263",
@@ -18,54 +18,58 @@
  "month": 12,
  "day": 28,
  "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 18684,
- "line_end": 18733,
+ "sender": "",
+ "recipient": "",
+ "line_start": 18629,
+ "line_end": 18678,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [
+  "schlawenschitz",
+  "lassowitz",
+  "oppurg"
+ ],
  "is_missing": 0,
- "n_lines": 49,
+ "n_lines": 47,
  "n_pages": 2,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens\nUnter den Nahmen eines Grafen v Teck verlies er gestern früh im Aefsten Incognito\nWien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König\netliche Tage vor seiner Abreise an die Kayserliche Deinerſchaft eigenhändig 4000 Ducat\nvertheilt - Theater Prinzeßinnen im Casperle, welche die Natur mit feisten Theilen des hinten,\nLeibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete\nWohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet\ntrat er die Reise in seinen Staaten gestern an\nder Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm,\nsind, und blieben bis am Ende des Congresses noch hier¬\nder Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine\nNote beym Congress ein.\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern\nAbend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten\nversehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche\nMänner, und Ein besonders mit Eberhardt etwas Gutes wegen Befriedigung der Curischen\nErben gemäß meines lezthinigen Vorschlags bewürkt werden. Inzwischen bange ich\ndaß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht\nselbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen\nund ausweisen sollen was ich und Hahn in der Eingaben gesagt haben,\nHn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,\n\noder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden\nsolte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise\nMittelst Bericht an dem Fürsten Kanzler einsenden solle.\nIndes hoffe ich daß des Barieges OC. Gericht den Irrthum nicht einsetzlichen\nandern die\nSache gemäß Vorschrift und Willen des Fürsten behandeln wird –\nFält der Bericht um halbwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens\nwürtheste geordnet —\nWegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey\nPublizirung des ganzen erst verlautbart werden.\nsonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den\nAnschein als wenn Ewr Durchlaucht von allen Kummer befreit, in\nIhren Alter glücklich und Mühig werden leben sollen –\nGott laße Ihnen gnädigster Fürst und Herr dies bevorstehende\nNeujahr so anfangen, und dann noch eine lange Reihe von\nJahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche\nder aber aus dem treuste Herzen könte.\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie\nzu meinen Jahre und erſterbe Ehrfurchtsvoll\nEwr Durchlaucht\nWien d. 28ten Decbr\n1814.\ntreu unterthäniger Diener\nv Triebenfeld",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens Unter den Nahmen eines Grafen v Teck verlies er gestern früh im Aefsten Incognito Wien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König etliche Tage vor seiner Abreise an die Kayserliche Deinerſchaft eigenhändig 4000 Ducat vertheilt - Theater Prinzeßinnen im Casperle, welche die Natur mit feisten Theilen des hinten, Leibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete Wohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet trat er die Reise in seinen Staaten gestern an der Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm, sind, und blieben bis am Ende des Congresses noch hier der Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine Note beym Congress ein.\n\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern Abend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten versehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche Männer, und Ein besonders mit Eberhardt etwas Gutes wegen Befriedigung der Curischen Erben gemäß meines lezthinigen Vorschlags bewürkt werden. Inzwischen bange ich daß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht selbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen und ausweisen sollen was ich und Hahn in der Eingaben gesagt haben, Hn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,\n\noder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden solte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise Mittelst Bericht an dem Fürsten Kanzler einsenden solle. Indes hoffe ich daß des Barieges OC. Gericht den Irrthum nicht einsetzlichen andern die Sache gemäß Vorschrift und Willen des Fürsten behandeln wird – Fält der Bericht um halbwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens würtheste geordnet — Wegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey Publizirung des ganzen erst verlautbart werden. sonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den Anschein als wenn Ewr Durchlaucht von allen Kummer befreit, in Ihren Alter glücklich und Mühig werden leben sollen – Gott laße Ihnen gnädigster Fürst und Herr dies bevorstehende Neujahr so anfangen, und dann noch eine lange Reihe von Jahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche der aber aus dem treuste Herzen könte.\n\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie zu meinen Jahre und erſterbe Ehrfurchtsvoll Ewr Durchlaucht\n\nWien d. 28ten Decbr\n\n1814.\n\ntreu unterthäniger Diener\n\nv Triebenfeld",
+ "text": "263\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens\nUnter den Nahmen eines Grafen v Teck verlies er gestern früh im tiefsten Incognito\nWien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König\netliche Tage vor seiner Abreise an die Kayserliche Dienerſchaft eigenhändig 4000 Ducat\nvertheilt - Theater Prinzeßinnen im Casperls, welche die Natur mit feisten Theilen des hinten,\nLeibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete\nWohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet\ntrat er die Reise in seinen Staaten gestern an -\nder Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm,\nsind, und blieben bis am Ende des Congresses noch hier -\nder Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine\nNote beym Congress ein -\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern\nAbend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten\nversehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche\nMänner, und Ein besonders mit Eberhard etwas Gutes wegen Befriedigung der Curischen\nErben gemäß meines lezthinigen Vorschlags bewürkt werden - Inzwischen bange ich\ndaß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht\nselbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen\nund ausweisen sollen was ich und Hahn in der Eingaben gesagt haben,\nHn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,\noder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden\nsolte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise\nMittelst Bericht an dem Fürsten Kanzler einsenden solle -\nIndes hoffe ich daß des Brieger O[ber]. L[andes]. Gericht den Irrthum nicht einsetzlichen ſondern die\nSache gemäß Vorschrift und Willen des Fürsten behandeln wird –\nFält der Bericht um hallwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens\nwürtheste geordnet —\nWegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey\nPublizirung des ganzen erst verlautbart werden -\nsonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den\nAnschein als wenn Ewr Durchlaucht von allen Kummer befreit, in\nIhren Alter glücklich und ruhig werden leben sollen –\nGott laße Ihnen gnädigster Fürst und Herr dies bevorstehende\nNeujahr so anfangen, und dann noch eine lange Reihe von\nJahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche\nder aber aus dem treuste Herzen könte -\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie\nzu meinen Jahre und erſterbe Ehrfurchtsvoll\nEwr Durchlaucht\nWien d. 28ten Decbr\n1814.\ntreu unterthäniger Diener\nv Triebenfeld",
+ "text_reading": "263\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens Unter den Nahmen eines Grafen v Teck verlies er gestern früh im tiefsten Incognito Wien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König etliche Tage vor seiner Abreise an die Kayserliche Dienerſchaft eigenhändig 4000 Ducat vertheilt - Theater Prinzeßinnen im Casperls, welche die Natur mit feisten Theilen des hinten, Leibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete Wohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet trat er die Reise in seinen Staaten gestern an - der Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm, sind, und blieben bis am Ende des Congresses noch hier - der Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine Note beym Congress ein - Jezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern Abend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten versehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche Männer, und Ein besonders mit Eberhard etwas Gutes wegen Befriedigung der Curischen Erben gemäß meines lezthinigen Vorschlags bewürkt werden - Inzwischen bange ich daß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht selbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen und ausweisen sollen was ich und Hahn in der Eingaben gesagt haben, Hn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,\n\noder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden solte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise Mittelst Bericht an dem Fürsten Kanzler einsenden solle - Indes hoffe ich daß des Brieger O[ber]. L[andes]. Gericht den Irrthum nicht einsetzlichen ſondern die Sache gemäß Vorschrift und Willen des Fürsten behandeln wird – Fält der Bericht um hallwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens würtheste geordnet — Wegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey Publizirung des ganzen erst verlautbart werden - sonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den Anschein als wenn Ewr Durchlaucht von allen Kummer befreit, in Ihren Alter glücklich und ruhig werden leben sollen – Gott laße Ihnen gnädigster Fürst und Herr dies bevorstehende Neujahr so anfangen, und dann noch eine lange Reihe von Jahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche der aber aus dem treuste Herzen könte - Ewr Durchlaucht Wohl wollen empfehle ich mich den im alten wie zu meinen Jahre und erſterbe Ehrfurchtsvoll Ewr Durchlaucht\n\nWien d. 28ten Decbr\n\n1814.\n\ntreu unterthäniger Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 18685,
-   "line_end": 18707,
-   "n_lines": 23,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens\nUnter den Nahmen eines Grafen v Teck verlies er gestern früh im Aefsten Incognito\nWien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König\netliche Tage vor seiner Abreise an die Kayserliche Deinerſchaft eigenhändig 4000 Ducat\nvertheilt - Theater Prinzeßinnen im Casperle, welche die Natur mit feisten Theilen des hinten,\nLeibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete\nWohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet\ntrat er die Reise in seinen Staaten gestern an\nder Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm,\nsind, und blieben bis am Ende des Congresses noch hier¬\nder Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine\nNote beym Congress ein.\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern\nAbend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten\nversehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche\nMänner, und Ein besonders mit Eberhardt etwas Gutes wegen Befriedigung der Curischen\nErben gemäß meines lezthinigen Vorschlags bewürkt werden. Inzwischen bange ich\ndaß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht\nselbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen\nund ausweisen sollen was ich und Hahn in der Eingaben gesagt haben,\nHn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens\nUnter den Nahmen eines Grafen v Teck verlies er gestern früh im Aefsten Incognito\nWien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König\netliche Tage vor seiner Abreise an die Kayserliche Deinerſchaft eigenhändig 4000 Ducat\nvertheilt - Theater Prinzeßinnen im Casperle, welche die Natur mit feisten Theilen des hinten,\nLeibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete\nWohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet\ntrat er die Reise in seinen Staaten gestern an\nder Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm,\nsind, und blieben bis am Ende des Congresses noch hier\nder Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine\nNote beym Congress ein.\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern\nAbend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten\nversehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche\nMänner, und Ein besonders mit Eberhardt etwas Gutes wegen Befriedigung der Curischen\nErben gemäß meines lezthinigen Vorschlags bewürkt werden. Inzwischen bange ich\ndaß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht\nselbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen\nund ausweisen sollen was ich und Hahn in der Eingaben gesagt haben,\nHn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens Unter den Nahmen eines Grafen v Teck verlies er gestern früh im Aefsten Incognito Wien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König etliche Tage vor seiner Abreise an die Kayserliche Deinerſchaft eigenhändig 4000 Ducat vertheilt - Theater Prinzeßinnen im Casperle, welche die Natur mit feisten Theilen des hinten, Leibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete Wohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet trat er die Reise in seinen Staaten gestern an der Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm, sind, und blieben bis am Ende des Congresses noch hier der Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine Note beym Congress ein.\n\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern Abend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten versehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche Männer, und Ein besonders mit Eberhardt etwas Gutes wegen Befriedigung der Curischen Erben gemäß meines lezthinigen Vorschlags bewürkt werden. Inzwischen bange ich daß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht selbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen und ausweisen sollen was ich und Hahn in der Eingaben gesagt haben, Hn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,",
+   "page_id": "0480_b",
+   "line_start": 18631,
+   "line_end": 18654,
+   "n_lines": 24,
+   "diplomatic": "263\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens\nUnter den Nahmen eines Grafen v Teck verlies er gestern früh im tiefsten Incognito\nWien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König\netliche Tage vor seiner Abreise an die Kayserliche Dienerſchaft eigenhändig 4000 Ducat\nvertheilt - Theater Prinzeßinnen im Casperls, welche die Natur mit feisten Theilen des hinten,\nLeibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete\nWohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet\ntrat er die Reise in seinen Staaten gestern an -\nder Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm,\nsind, und blieben bis am Ende des Congresses noch hier -\nder Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine\nNote beym Congress ein -\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern\nAbend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten\nversehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche\nMänner, und Ein besonders mit Eberhard etwas Gutes wegen Befriedigung der Curischen\nErben gemäß meines lezthinigen Vorschlags bewürkt werden - Inzwischen bange ich\ndaß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht\nselbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen\nund ausweisen sollen was ich und Hahn in der Eingaben gesagt haben,\nHn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,",
+   "transcription": "263\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr!\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens\nUnter den Nahmen eines Grafen v Teck verlies er gestern früh im tiefsten Incognito\nWien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König\netliche Tage vor seiner Abreise an die Kayserliche Dienerſchaft eigenhändig 4000 Ducat\nvertheilt - Theater Prinzeßinnen im Casperls, welche die Natur mit feisten Theilen des hinten,\nLeibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete\nWohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet\ntrat er die Reise in seinen Staaten gestern an -\nder Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm,\nsind, und blieben bis am Ende des Congresses noch hier -\nder Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine\nNote beym Congress ein -\nJezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern\nAbend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten\nversehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche\nMänner, und Ein besonders mit Eberhard etwas Gutes wegen Befriedigung der Curischen\nErben gemäß meines lezthinigen Vorschlags bewürkt werden - Inzwischen bange ich\ndaß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht\nselbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen\nund ausweisen sollen was ich und Hahn in der Eingaben gesagt haben,\nHn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,",
+   "reading": "263\n\nDurchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nÖsterreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens Unter den Nahmen eines Grafen v Teck verlies er gestern früh im tiefsten Incognito Wien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König etliche Tage vor seiner Abreise an die Kayserliche Dienerſchaft eigenhändig 4000 Ducat vertheilt - Theater Prinzeßinnen im Casperls, welche die Natur mit feisten Theilen des hinten, Leibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete Wohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet trat er die Reise in seinen Staaten gestern an - der Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm, sind, und blieben bis am Ende des Congresses noch hier - der Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine Note beym Congress ein - Jezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern Abend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten versehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche Männer, und Ein besonders mit Eberhard etwas Gutes wegen Befriedigung der Curischen Erben gemäß meines lezthinigen Vorschlags bewürkt werden - Inzwischen bange ich daß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht selbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen und ausweisen sollen was ich und Hahn in der Eingaben gesagt haben, Hn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,",
    "paragraphs": [
+    "263",
     "Durchlauchtigster Fürst",
     "Gnädigster Fürst und Herr!",
-    "Österreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens Unter den Nahmen eines Grafen v Teck verlies er gestern früh im Aefsten Incognito Wien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König etliche Tage vor seiner Abreise an die Kayserliche Deinerſchaft eigenhändig 4000 Ducat vertheilt - Theater Prinzeßinnen im Casperle, welche die Natur mit feisten Theilen des hinten, Leibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete Wohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet trat er die Reise in seinen Staaten gestern an der Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm, sind, und blieben bis am Ende des Congresses noch hier der Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine Note beym Congress ein.",
-    "Jezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern Abend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten versehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche Männer, und Ein besonders mit Eberhardt etwas Gutes wegen Befriedigung der Curischen Erben gemäß meines lezthinigen Vorschlags bewürkt werden. Inzwischen bange ich daß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht selbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen und ausweisen sollen was ich und Hahn in der Eingaben gesagt haben, Hn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,"
+    "Österreichs Hauptstadt trauret über die schnelle Abreise des Würtembergischen Monarchens Unter den Nahmen eines Grafen v Teck verlies er gestern früh im tiefsten Incognito Wien - Genereux und mit würklich Königl. Stolze, hat dieser Menscher liebende König etliche Tage vor seiner Abreise an die Kayserliche Dienerſchaft eigenhändig 4000 Ducat vertheilt - Theater Prinzeßinnen im Casperls, welche die Natur mit feisten Theilen des hinten, Leibes begabt hatte, genoßen von dieser Majestät hinter den Coulissen ausgezeichnete Wohlthaten - und mit viele Tausend Seegens wünsche von dieser Classe Menschen begleitet trat er die Reise in seinen Staaten gestern an - der Kron prinz Winzingerode, und Linden, leztere beide mit Vollmachten von ihm, sind, und blieben bis am Ende des Congresses noch hier - der Geheime Raths Göschel giebt heute Nahmens Ewer Durchlaucht noch wieder eine Note beym Congress ein - Jezt von der Haupt Sache. – Aus Ewr Durchlaucht Schreiben von 17ten welches ich gestern Abend erhielt, ersehe ich daß Sie den Hoffrath Hahn und Lombardini mit Vollmachten versehen, nach Brieg geſandt haben – Dies hat mich Freude gemacht, den beides ſind ehrliche Männer, und Ein besonders mit Eberhard etwas Gutes wegen Befriedigung der Curischen Erben gemäß meines lezthinigen Vorschlags bewürkt werden - Inzwischen bange ich daß hier kein Irrthum obwalten möge - der Fürst Kanzler will, daß Ewr Durchlaucht selbst persönlich vernommen werden sollen, und daß sie alles daß bestätigen und ausweisen sollen was ich und Hahn in der Eingaben gesagt haben, Hn dem Ende befahl der Fürst daß Ewr Durchlaucht nach Brieg gefordert werden,"
    ],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 23
+   "doc_line_end": 24
   },
   {
    "page": 2,
-   "page_id": "",
-   "line_start": 18709,
-   "line_end": 18732,
-   "n_lines": 24,
-   "diplomatic": "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden\nsolte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise\nMittelst Bericht an dem Fürsten Kanzler einsenden solle.\nIndes hoffe ich daß des Barieges OC. Gericht den Irrthum nicht einsetzlichen\nandern die\nSache gemäß Vorschrift und Willen des Fürsten behandeln wird –\nFält der Bericht um halbwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens\nwürtheste geordnet —\nWegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey\nPublizirung des ganzen erst verlautbart werden.\nsonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den\nAnschein als wenn Ewr Durchlaucht von allen Kummer befreit, in\nIhren Alter glücklich und Mühig werden leben sollen –\nGott laße Ihnen gnädigster Fürst und Herr dies bevorstehende\nNeujahr so anfangen, und dann noch eine lange Reihe von\nJahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche\nder aber aus dem treuste Herzen könte.\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie\nzu meinen Jahre und erſterbe Ehrfurchtsvoll\nEwr Durchlaucht\nWien d. 28ten Decbr\n1814.\ntreu unterthäniger Diener\nv Triebenfeld",
-   "transcription": "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden\nsolte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise\nMittelst Bericht an dem Fürsten Kanzler einsenden solle.\nIndes hoffe ich daß des Barieges OC. Gericht den Irrthum nicht einsetzlichen\nandern die\nSache gemäß Vorschrift und Willen des Fürsten behandeln wird –\nFält der Bericht um halbwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens\nwürtheste geordnet —\nWegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey\nPublizirung des ganzen erst verlautbart werden.\nsonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den\nAnschein als wenn Ewr Durchlaucht von allen Kummer befreit, in\nIhren Alter glücklich und Mühig werden leben sollen –\nGott laße Ihnen gnädigster Fürst und Herr dies bevorstehende\nNeujahr so anfangen, und dann noch eine lange Reihe von\nJahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche\nder aber aus dem treuste Herzen könte.\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie\nzu meinen Jahre und erſterbe Ehrfurchtsvoll\nEwr Durchlaucht\nWien d. 28ten Decbr\n1814.\ntreu unterthäniger Diener\nv Triebenfeld",
-   "reading": "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden solte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise Mittelst Bericht an dem Fürsten Kanzler einsenden solle. Indes hoffe ich daß des Barieges OC. Gericht den Irrthum nicht einsetzlichen andern die Sache gemäß Vorschrift und Willen des Fürsten behandeln wird – Fält der Bericht um halbwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens würtheste geordnet — Wegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey Publizirung des ganzen erst verlautbart werden. sonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den Anschein als wenn Ewr Durchlaucht von allen Kummer befreit, in Ihren Alter glücklich und Mühig werden leben sollen – Gott laße Ihnen gnädigster Fürst und Herr dies bevorstehende Neujahr so anfangen, und dann noch eine lange Reihe von Jahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche der aber aus dem treuste Herzen könte.\n\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie zu meinen Jahre und erſterbe Ehrfurchtsvoll Ewr Durchlaucht\n\nWien d. 28ten Decbr\n\n1814.\n\ntreu unterthäniger Diener\n\nv Triebenfeld",
+   "page_id": "0481_a1",
+   "line_start": 18656,
+   "line_end": 18678,
+   "n_lines": 23,
+   "diplomatic": "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden\nsolte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise\nMittelst Bericht an dem Fürsten Kanzler einsenden solle -\nIndes hoffe ich daß des Brieger O[ber]. L[andes]. Gericht den Irrthum nicht einsetzlichen ſondern die\nSache gemäß Vorschrift und Willen des Fürsten behandeln wird –\nFält der Bericht um hallwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens\nwürtheste geordnet —\nWegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey\nPublizirung des ganzen erst verlautbart werden -\nsonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den\nAnschein als wenn Ewr Durchlaucht von allen Kummer befreit, in\nIhren Alter glücklich und ruhig werden leben sollen –\nGott laße Ihnen gnädigster Fürst und Herr dies bevorstehende\nNeujahr so anfangen, und dann noch eine lange Reihe von\nJahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche\nder aber aus dem treuste Herzen könte -\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie\nzu meinen Jahre und erſterbe Ehrfurchtsvoll\nEwr Durchlaucht\nWien d. 28ten Decbr\n1814.\ntreu unterthäniger Diener\nv Triebenfeld",
+   "transcription": "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden\nsolte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise\nMittelst Bericht an dem Fürsten Kanzler einsenden solle -\nIndes hoffe ich daß des Brieger O[ber]. L[andes]. Gericht den Irrthum nicht einsetzlichen ſondern die\nSache gemäß Vorschrift und Willen des Fürsten behandeln wird –\nFält der Bericht um hallwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens\nwürtheste geordnet —\nWegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey\nPublizirung des ganzen erst verlautbart werden -\nsonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den\nAnschein als wenn Ewr Durchlaucht von allen Kummer befreit, in\nIhren Alter glücklich und ruhig werden leben sollen –\nGott laße Ihnen gnädigster Fürst und Herr dies bevorstehende\nNeujahr so anfangen, und dann noch eine lange Reihe von\nJahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche\nder aber aus dem treuste Herzen könte -\nEwr Durchlaucht Wohl wollen empfehle ich mich den im alten wie\nzu meinen Jahre und erſterbe Ehrfurchtsvoll\nEwr Durchlaucht\nWien d. 28ten Decbr\n1814.\ntreu unterthäniger Diener\nv Triebenfeld",
+   "reading": "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden solte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise Mittelst Bericht an dem Fürsten Kanzler einsenden solle - Indes hoffe ich daß des Brieger O[ber]. L[andes]. Gericht den Irrthum nicht einsetzlichen ſondern die Sache gemäß Vorschrift und Willen des Fürsten behandeln wird – Fält der Bericht um hallwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens würtheste geordnet — Wegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey Publizirung des ganzen erst verlautbart werden - sonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den Anschein als wenn Ewr Durchlaucht von allen Kummer befreit, in Ihren Alter glücklich und ruhig werden leben sollen – Gott laße Ihnen gnädigster Fürst und Herr dies bevorstehende Neujahr so anfangen, und dann noch eine lange Reihe von Jahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche der aber aus dem treuste Herzen könte - Ewr Durchlaucht Wohl wollen empfehle ich mich den im alten wie zu meinen Jahre und erſterbe Ehrfurchtsvoll Ewr Durchlaucht\n\nWien d. 28ten Decbr\n\n1814.\n\ntreu unterthäniger Diener\n\nv Triebenfeld",
    "paragraphs": [
-    "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden solte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise Mittelst Bericht an dem Fürsten Kanzler einsenden solle. Indes hoffe ich daß des Barieges OC. Gericht den Irrthum nicht einsetzlichen andern die Sache gemäß Vorschrift und Willen des Fürsten behandeln wird – Fält der Bericht um halbwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens würtheste geordnet — Wegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey Publizirung des ganzen erst verlautbart werden. sonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den Anschein als wenn Ewr Durchlaucht von allen Kummer befreit, in Ihren Alter glücklich und Mühig werden leben sollen – Gott laße Ihnen gnädigster Fürst und Herr dies bevorstehende Neujahr so anfangen, und dann noch eine lange Reihe von Jahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche der aber aus dem treuste Herzen könte.",
-    "Ewr Durchlaucht Wohl wollen empfehle ich mich den im alten wie zu meinen Jahre und erſterbe Ehrfurchtsvoll Ewr Durchlaucht",
+    "oder daß ein Commissarius zu Ewer durchlaucht nach Schlawenschitz hin deputirt werden solte, der von Ihnen alles höhren alles ad protocollum nehmen, unterſuchen, und alle Beweise Mittelst Bericht an dem Fürsten Kanzler einsenden solle - Indes hoffe ich daß des Brieger O[ber]. L[andes]. Gericht den Irrthum nicht einsetzlichen ſondern die Sache gemäß Vorschrift und Willen des Fürsten behandeln wird – Fält der Bericht um hallwege Vorteilhaft aus, so sind alle Ihre Sachen auf das wünschens würtheste geordnet — Wegen Pohlen ruht noch alles, und wird diese Geschichte nur beym Schluße des Congresses und bey Publizirung des ganzen erst verlautbart werden - sonsten geht, wie auch die Beilage zeiget, alles gut, und es hat den Anschein als wenn Ewr Durchlaucht von allen Kummer befreit, in Ihren Alter glücklich und ruhig werden leben sollen – Gott laße Ihnen gnädigster Fürst und Herr dies bevorstehende Neujahr so anfangen, und dann noch eine lange Reihe von Jahren zufrieden fortleben, dies ist der Inbegriff meiner Wünsche der aber aus dem treuste Herzen könte - Ewr Durchlaucht Wohl wollen empfehle ich mich den im alten wie zu meinen Jahre und erſterbe Ehrfurchtsvoll Ewr Durchlaucht",
     "Wien d. 28ten Decbr",
     "1814.",
     "treu unterthäniger Diener",
@@ -74,7 +78,7 @@
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0481_a1-L263_02.jpg",
-   "doc_line_start": 24,
+   "doc_line_start": 25,
    "doc_line_end": 47
   }
  ],
@@ -85,10 +89,10 @@
    "kind": "person",
    "surface": "Winzingerode",
    "page": 1,
-   "page_id": "",
+   "page_id": "0480_b",
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18695,
-   "doc_line": 11
+   "line": 18642,
+   "doc_line": 12
   },
   {
    "entity": "goeschel",
@@ -96,10 +100,10 @@
    "kind": "person",
    "surface": "Göschel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0480_b",
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18697,
-   "doc_line": 13
+   "line": 18644,
+   "doc_line": 14
   },
   {
    "entity": "lombardini",
@@ -107,10 +111,10 @@
    "kind": "person",
    "surface": "Lombardin",
    "page": 1,
-   "page_id": "",
+   "page_id": "0480_b",
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18700,
-   "doc_line": 16
+   "line": 18647,
+   "doc_line": 17
   },
   {
    "entity": "eberhard",
@@ -118,21 +122,10 @@
    "kind": "person",
    "surface": "Eberhard",
    "page": 1,
-   "page_id": "",
+   "page_id": "0480_b",
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18702,
-   "doc_line": 18
-  },
-  {
-   "entity": "eberhardt",
-   "display": "Eberhardt",
-   "kind": "person",
-   "surface": "Eberhardt",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18702,
-   "doc_line": 18
+   "line": 18649,
+   "doc_line": 19
   },
   {
    "entity": "triebenfeld",
@@ -140,170 +133,36 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 2,
-   "page_id": "",
+   "page_id": "0481_a1",
    "scan": "Oe_1_Bu_9454_0481_a1-L263_02.jpg",
-   "line": 18732,
+   "line": 18678,
    "doc_line": 47
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Austria's",
-   "kind": "place",
-   "surface_de": "Österreichs",
-   "surface_en": "Austria's",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Württemberg",
-   "kind": "place",
-   "surface_de": "Würtembergischen",
-   "surface_en": "Württemberg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Teck",
-   "kind": "other",
-   "surface_de": "Teck",
-   "surface_en": "Teck",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Casperle",
-   "kind": "other",
-   "surface_de": "Casperle",
-   "surface_en": "Casperle",
-   "page": 1
-  },
-  {
-   "entity": "winzingerode",
-   "display": "Winzingerode",
-   "kind": "person",
-   "surface_de": "Winzingerode",
-   "surface_en": "Winzingerode",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Linden",
-   "kind": "person",
-   "surface_de": "Linden",
-   "surface_en": "Linden",
-   "page": 1
-  },
-  {
-   "entity": "goeschel",
-   "display": "Göschel",
-   "kind": "person",
-   "surface_de": "Göschel",
-   "surface_en": "Göschel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hahn",
-   "kind": "person",
-   "surface_de": "Hahn",
-   "surface_en": "Hahn",
-   "page": 1
-  },
-  {
-   "entity": "lombardini",
-   "display": "Lombardini",
-   "kind": "person",
-   "surface_de": "Lombardini",
-   "surface_en": "Lombardini",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Brieg",
-   "kind": "place",
-   "surface_de": "Brieg",
-   "surface_en": "Brieg",
-   "page": 1
-  },
-  {
-   "entity": "eberhardt",
-   "display": "Eberhardt",
-   "kind": "person",
-   "surface_de": "Eberhardt",
-   "surface_en": "Eberhardt",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Courland",
-   "kind": "place",
-   "surface_de": "Curischen",
-   "surface_en": "Courland",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schlawenschitz",
-   "kind": "place",
-   "surface_de": "Schlawenschitz",
-   "surface_en": "Schlawenschitz",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Barieges",
-   "kind": "other",
-   "surface_de": "Barieges",
-   "surface_en": "Barieges",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Poland",
-   "kind": "place",
-   "surface_de": "Pohlen",
-   "surface_en": "Poland",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 2
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Wien",
  "place_mentions": [
   {
-   "entity": "brieg",
-   "display": "Brieg",
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
    "kind": "place",
-   "surface": "Brieg",
+   "surface": "Würtembergischen",
    "page": 1,
-   "page_id": "",
+   "page_id": "0480_b",
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18701,
-   "doc_line": 17
+   "line": 18634,
+   "doc_line": 4
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0480_b",
+   "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
+   "line": 18636,
+   "doc_line": 6
   },
   {
    "entity": "brieg",
@@ -311,10 +170,21 @@
    "kind": "place",
    "surface": "Brieg",
    "page": 1,
-   "page_id": "",
+   "page_id": "0480_b",
    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-   "line": 18707,
-   "doc_line": 23
+   "line": 18648,
+   "doc_line": 18
+  },
+  {
+   "entity": "brieg",
+   "display": "Brieg",
+   "kind": "place",
+   "surface": "Brieg",
+   "page": 1,
+   "page_id": "0480_b",
+   "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
+   "line": 18654,
+   "doc_line": 24
   },
   {
    "entity": "schlawenschitz",
@@ -322,126 +192,26 @@
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 2,
-   "page_id": "",
+   "page_id": "0481_a1",
    "scan": "Oe_1_Bu_9454_0481_a1-L263_02.jpg",
-   "line": 18709,
-   "doc_line": 24
-  }
- ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAustria's capital mourns the swift departure of the Württemberg monarch. Under the name of a Count of Teck he left Vienna yesterday morning in the [uncertain: strictest] incognito — Generous and with truly royal pride, this man-loving King, some days before his departure, distributed with his own hand 4000 ducats among the Imperial household staff — Theatre princesses at the Casperle, whom nature had endowed with plump parts of the hinder body, enjoyed distinguished benefactions from this Majesty behind the scenes — and accompanied by many thousand blessings and good wishes from this class of people he set out yesterday on the journey into his own states; the Crown Prince, Winzingerode, and Linden, the latter two furnished with powers of attorney from him, are here and will remain here until the end of the Congress. The Privy Councillor Göschel is today submitting yet another note to the Congress in Your Serene Highness's name.\n\nNow to the principal matter. — From Your Serene Highness's letter of the 17th, which I received yesterday evening, I see that you have furnished the Court Councillor Hahn and Lombardini with powers of attorney and sent them to Brieg — This has given me joy, for both are honest men, and something good may [uncertain: One] particularly, together with Eberhardt, be effected regarding the satisfaction of the Courland heirs in accordance with my most recent proposal. In the meantime I fear that no error may prevail here — the Prince Chancellor wishes that Your Serene Highness should be examined in person yourself, and that you should confirm and substantiate all that Hahn and I have said in the submissions; to this end the Prince ordered that Your Serene Highness be summoned to Brieg,",
-   "names": [
-    {
-     "de": "Österreichs",
-     "en": "Austria's",
-     "kind": "place"
-    },
-    {
-     "de": "Würtembergischen",
-     "en": "Württemberg",
-     "kind": "place"
-    },
-    {
-     "de": "Teck",
-     "en": "Teck",
-     "kind": "other"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    },
-    {
-     "de": "Casperle",
-     "en": "Casperle",
-     "kind": "other"
-    },
-    {
-     "de": "Winzingerode",
-     "en": "Winzingerode",
-     "kind": "person"
-    },
-    {
-     "de": "Linden",
-     "en": "Linden",
-     "kind": "person"
-    },
-    {
-     "de": "Göschel",
-     "en": "Göschel",
-     "kind": "person"
-    },
-    {
-     "de": "Hahn",
-     "en": "Hahn",
-     "kind": "person"
-    },
-    {
-     "de": "Lombardini",
-     "en": "Lombardini",
-     "kind": "person"
-    },
-    {
-     "de": "Brieg",
-     "en": "Brieg",
-     "kind": "place"
-    },
-    {
-     "de": "Eberhardt",
-     "en": "Eberhardt",
-     "kind": "person"
-    },
-    {
-     "de": "Curischen",
-     "en": "Courland",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "4000",
-    "17ten"
-   ]
+   "line": 18656,
+   "doc_line": 25
   },
   {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
    "page": 2,
-   "en": "or that a commissioner should be deputed to Your Serene Highness at Schlawenschitz, who should hear everything from you, take everything down for the record, investigate, and forward all the evidence to the Prince Chancellor by way of a report. In the meantime I hope that the [uncertain: Barieges] O.C. court will not [text lost] the error but will otherwise handle the matter in accordance with the Prince's prescription and will — If the report turns out even halfway favourable, then all your affairs are arranged in the most desirable manner — As regards Poland everything still rests, and this business will only be made known at the close of the Congress and upon the publication of the whole. Otherwise, as the enclosure also shows, all goes well, and it has the appearance as though Your Serene Highness, freed of all cares, shall live happily and at ease in your old age — God grant, most gracious Prince and Lord, that this coming New Year may begin for you thus, and that you may then live on contented for a long series of years besides; this is the sum of my wishes, which however [uncertain: could] come from the most faithful heart.\n\nTo Your Serene Highness's good favour I commend myself, in the old manner as befits my years, and I remain, until death, most reverentially Your Serene Highness's\n\nVienna, the 28th of December 1814.\n\nfaithful, humble and obedient servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "Schlawenschitz",
-     "en": "Schlawenschitz",
-     "kind": "place"
-    },
-    {
-     "de": "Barieges",
-     "en": "Barieges",
-     "kind": "other"
-    },
-    {
-     "de": "Pohlen",
-     "en": "Poland",
-     "kind": "place"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "28ten",
-    "1814"
-   ]
+   "page_id": "0481_a1",
+   "scan": "Oe_1_Bu_9454_0481_a1-L263_02.jpg",
+   "line": 18675,
+   "doc_line": 44
   }
  ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nAustria's capital mourns the swift departure of the Württemberg monarch. Under the name of a Count of Teck he left Vienna yesterday morning in the [uncertain: strictest] incognito — Generous and with truly royal pride, this man-loving King, some days before his departure, distributed with his own hand 4000 ducats among the Imperial household staff — Theatre princesses at the Casperle, whom nature had endowed with plump parts of the hinder body, enjoyed distinguished benefactions from this Majesty behind the scenes — and accompanied by many thousand blessings and good wishes from this class of people he set out yesterday on the journey into his own states; the Crown Prince, Winzingerode, and Linden, the latter two furnished with powers of attorney from him, are here and will remain here until the end of the Congress. The Privy Councillor Göschel is today submitting yet another note to the Congress in Your Serene Highness's name.\n\nNow to the principal matter. — From Your Serene Highness's letter of the 17th, which I received yesterday evening, I see that you have furnished the Court Councillor Hahn and Lombardini with powers of attorney and sent them to Brieg — This has given me joy, for both are honest men, and something good may [uncertain: One] particularly, together with Eberhardt, be effected regarding the satisfaction of the Courland heirs in accordance with my most recent proposal. In the meantime I fear that no error may prevail here — the Prince Chancellor wishes that Your Serene Highness should be examined in person yourself, and that you should confirm and substantiate all that Hahn and I have said in the submissions; to this end the Prince ordered that Your Serene Highness be summoned to Brieg,\n\nor that a commissioner should be deputed to Your Serene Highness at Schlawenschitz, who should hear everything from you, take everything down for the record, investigate, and forward all the evidence to the Prince Chancellor by way of a report. In the meantime I hope that the [uncertain: Barieges] O.C. court will not [text lost] the error but will otherwise handle the matter in accordance with the Prince's prescription and will — If the report turns out even halfway favourable, then all your affairs are arranged in the most desirable manner — As regards Poland everything still rests, and this business will only be made known at the close of the Congress and upon the publication of the whole. Otherwise, as the enclosure also shows, all goes well, and it has the appearance as though Your Serene Highness, freed of all cares, shall live happily and at ease in your old age — God grant, most gracious Prince and Lord, that this coming New Year may begin for you thus, and that you may then live on contented for a long series of years besides; this is the sum of my wishes, which however [uncertain: could] come from the most faithful heart.\n\nTo Your Serene Highness's good favour I commend myself, in the old manner as befits my years, and I remain, until death, most reverentially Your Serene Highness's\n\nVienna, the 28th of December 1814.\n\nfaithful, humble and obedient servant\n\nv. Triebenfeld",
- "summary_en": "News from the Congress: the King of Württemberg has left Vienna incognito as a Count of Teck, having handed out 4000 ducats to Imperial household staff and favoured actresses, leaving the Crown Prince, Winzingerode and Linden behind with powers of attorney; Privy Councillor Göschel submits a further note for the Prince. Welcomes the powers of attorney given to Court Councillor Hahn and Lombardini for Brieg, but warns the Chancellor wants the Prince examined in person, at Brieg or by a commissioner at Schlawenschitz, to confirm the submissions on satisfying the Courland heirs. Poland awaits the Congress's close.",
- "summary_de": "Bericht aus dem Wiener Kongress: Der württembergische König ist als Graf von Teck abgereist, nachdem er 4000 Ducaten unter der kaiserlichen Hofdienerschaft verteilt hatte; Kronprinz, Winzingerode und Linden bleiben mit Vollmachten bis zum Kongressende, Geheimrat Göschel überreicht eine weitere Note im Namen des Fürsten. Hauptsache ist die Vollmacht für Hofrat Hahn und Lombardini nach Brieg; der Fürst Staatskanzler verlangt persönliche Vernehmung des Fürsten in Brieg oder durch einen Kommissar in Schlawenschitz, um die Angaben zur Befriedigung der kurländischen Erben zu bestätigen. Die polnische Sache ruht bis Kongressende."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

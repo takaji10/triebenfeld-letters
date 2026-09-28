@@ -283,6 +283,17 @@
    "doc_line": 15
   },
   {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface": "Broniew",
+   "page": 2,
+   "page_id": "0016_a1",
+   "scan": "Oe_1_Bu_14526_0016_a1-L4_02.jpg",
+   "line": 644,
+   "doc_line": 40
+  },
+  {
    "entity": "michaelis",
    "display": "Michaelis",
    "kind": "person",
@@ -303,6 +314,17 @@
    "scan": "Oe_1_Bu_14526_0017_a1-L4_04.jpg",
    "line": 726,
    "doc_line": 120
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 4,
+   "page_id": "0017_a1",
+   "scan": "Oe_1_Bu_14526_0017_a1-L4_04.jpg",
+   "line": 738,
+   "doc_line": 132
   },
   {
    "entity": "triebenfeld",
@@ -870,6 +892,17 @@
  "place_canonical": "Frankfurt an der Oder",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_14526_0015_b-L4_01.jpg",
+   "line": 606,
+   "doc_line": 3
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -879,6 +912,39 @@
    "scan": "Oe_1_Bu_14526_0015_b-L4_01.jpg",
    "line": 608,
    "doc_line": 5
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurth",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_14526_0015_b-L4_01.jpg",
+   "line": 608,
+   "doc_line": 5
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Süd-Preußen",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_14526_0015_b-L4_01.jpg",
+   "line": 614,
+   "doc_line": 11
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Meseritz (Międzyrzecz)",
+   "kind": "place",
+   "surface": "Meseritzer",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_14526_0015_b-L4_01.jpg",
+   "line": 615,
+   "doc_line": 12
   },
   {
    "entity": "kamionno",
@@ -918,6 +984,17 @@
    "display": "Kamionna",
    "kind": "place",
    "surface": "Kaemen",
+   "page": 2,
+   "page_id": "0016_a1",
+   "scan": "Oe_1_Bu_14526_0016_a1-L4_02.jpg",
+   "line": 660,
+   "doc_line": 56
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface": "Kaemenwovon",
    "page": 2,
    "page_id": "0016_a1",
    "scan": "Oe_1_Bu_14526_0016_a1-L4_02.jpg",
@@ -969,6 +1046,17 @@
    "doc_line": 192
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 7,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14526_0018_a2-L4_07.jpg",
+   "line": 814,
+   "doc_line": 205
+  },
+  {
    "entity": "breslau",
    "display": "Breslau",
    "kind": "place",
@@ -978,6 +1066,17 @@
    "scan": "Oe_1_Bu_14526_0018_a2-L4_07.jpg",
    "line": 815,
    "doc_line": 206
+  },
+  {
+   "entity": "fuerth",
+   "display": "Fürth",
+   "kind": "place",
+   "surface": "Fürth",
+   "page": 7,
+   "page_id": "0018_a2",
+   "scan": "Oe_1_Bu_14526_0018_a2-L4_07.jpg",
+   "line": 819,
+   "doc_line": 210
   },
   {
    "entity": "breslau",
@@ -1024,6 +1123,28 @@
    "doc_line": 238
   },
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 8,
+   "page_id": "0019_a",
+   "scan": "Oe_1_Bu_14526_0019_a-L4_08.jpg",
+   "line": 850,
+   "doc_line": 240
+  },
+  {
+   "entity": "suedpreussen",
+   "display": "Südpreußen",
+   "kind": "place",
+   "surface": "Südpreussen",
+   "page": 8,
+   "page_id": "0019_a",
+   "scan": "Oe_1_Bu_14526_0019_a-L4_08.jpg",
+   "line": 853,
+   "doc_line": 243
+  },
+  {
    "entity": "kamionno",
    "display": "Kamionna",
    "kind": "place",
@@ -1033,6 +1154,28 @@
    "scan": "Oe_1_Bu_14526_0019_a-L4_08.jpg",
    "line": 855,
    "doc_line": 245
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurt",
+   "page": 8,
+   "page_id": "0019_a",
+   "scan": "Oe_1_Bu_14526_0019_a-L4_08.jpg",
+   "line": 867,
+   "doc_line": 257
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurt",
+   "page": 8,
+   "page_id": "0019_a",
+   "scan": "Oe_1_Bu_14526_0019_a-L4_08.jpg",
+   "line": 874,
+   "doc_line": 264
   }
  ],
  "translation_status": "draft",

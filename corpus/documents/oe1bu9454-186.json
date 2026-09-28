@@ -1,6 +1,6 @@
 {
  "letter_id": "186",
- "seq_archival": 199,
+ "seq_archival": 197,
  "parent_letter": "",
  "unit": "oe1bu9454",
  "uid": "oe1bu9454-186",
@@ -11,41 +11,42 @@
  "themes": [],
  "date_iso": "1810-08-29",
  "date_precision": "day",
- "date_source": "supplied",
- "date_display": "[1810-08-29]",
- "date_inferred_from": "supplied by researcher",
+ "date_source": "signature",
+ "date_display": "1810.",
+ "date_inferred_from": "",
  "year": 1810,
  "month": 8,
  "day": 29,
  "place": "Breslau",
  "sender": "",
  "recipient": "",
- "line_start": 13248,
- "line_end": 13265,
+ "line_start": 13224,
+ "line_end": 13242,
  "uncertainty_count": 0,
  "has_damage": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
+ "estates": [],
  "is_missing": 0,
  "n_lines": 17,
  "n_pages": 1,
- "text": "Lieber Freund!\nDie Sache mit H Weigel ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um\nlies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey\nmir im Schweineren sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen\nzu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen\nund das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie\nHerzer Freund in Requisition - und Bitte um eine Buttellie alten Mihn Wein und um einen\nButtellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und\n2 Wein Trauben — Alles andere habe ich\nich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie\nmir ja den Wein und die Früchte heraus. Immerdar bleibe ich\nBreslau\nden 29ten Aug.\n1810.\nIhr wahrer Freund und Diener\nv Triebenfeld",
- "text_reading": "Lieber Freund!\n\nDie Sache mit H Weigel ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um lies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey mir im Schweineren sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen zu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen und das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie Herzer Freund in Requisition - und Bitte um eine Buttellie alten Mihn Wein und um einen Buttellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und 2 Wein Trauben — Alles andere habe ich ich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie mir ja den Wein und die Früchte heraus. Immerdar bleibe ich\n\nBreslau\n\nden 29ten Aug.\n\n1810.\n\nIhr wahrer Freund und Diener\n\nv Triebenfeld",
+ "text": "186\nLieber Freund!\nDie Sache mit H Weigelt ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um\nlies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey\nmir im Schweinern sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen\nzu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen\nund das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie\nHerzer Freund in Requisition - und Bitte um eine Lüttellie alten Mihn Wein und um einen\nButtellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und\n2 Wein Trauben — Alles andere habe ich\nich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie\nmir ja den Wein und die Früchte heraus. Immerdar bleibe ich\nBreslau\nden 29ten Aug.\n1810.\nIhr wahrer Freund und Diener\nv Triebenfeld",
+ "text_reading": "186\n\nLieber Freund!\n\nDie Sache mit H Weigelt ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um lies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey mir im Schweinern sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen zu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen und das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie Herzer Freund in Requisition - und Bitte um eine Lüttellie alten Mihn Wein und um einen Buttellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und 2 Wein Trauben — Alles andere habe ich ich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie mir ja den Wein und die Früchte heraus. Immerdar bleibe ich Breslau\n\nden 29ten Aug.\n\n1810.\n\nIhr wahrer Freund und Diener\n\nv Triebenfeld",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 13249,
-   "line_end": 13264,
-   "n_lines": 16,
-   "diplomatic": "Lieber Freund!\nDie Sache mit H Weigel ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um\nlies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey\nmir im Schweineren sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen\nzu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen\nund das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie\nHerzer Freund in Requisition - und Bitte um eine Buttellie alten Mihn Wein und um einen\nButtellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und\n2 Wein Trauben — Alles andere habe ich\nich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie\nmir ja den Wein und die Früchte heraus. Immerdar bleibe ich\nBreslau\nden 29ten Aug.\n1810.\nIhr wahrer Freund und Diener\nv Triebenfeld",
-   "transcription": "Lieber Freund!\nDie Sache mit H Weigel ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um\nlies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey\nmir im Schweineren sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen\nzu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen\nund das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie\nHerzer Freund in Requisition - und Bitte um eine Buttellie alten Mihn Wein und um einen\nButtellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und\n2 Wein Trauben — Alles andere habe ich\nich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie\nmir ja den Wein und die Früchte heraus. Immerdar bleibe ich\nBreslau\nden 29ten Aug.\n1810.\nIhr wahrer Freund und Diener\nv Triebenfeld",
-   "reading": "Lieber Freund!\n\nDie Sache mit H Weigel ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um lies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey mir im Schweineren sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen zu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen und das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie Herzer Freund in Requisition - und Bitte um eine Buttellie alten Mihn Wein und um einen Buttellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und 2 Wein Trauben — Alles andere habe ich ich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie mir ja den Wein und die Früchte heraus. Immerdar bleibe ich\n\nBreslau\n\nden 29ten Aug.\n\n1810.\n\nIhr wahrer Freund und Diener\n\nv Triebenfeld",
+   "page_id": "0352_a1",
+   "line_start": 13226,
+   "line_end": 13242,
+   "n_lines": 17,
+   "diplomatic": "186\nLieber Freund!\nDie Sache mit H Weigelt ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um\nlies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey\nmir im Schweinern sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen\nzu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen\nund das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie\nHerzer Freund in Requisition - und Bitte um eine Lüttellie alten Mihn Wein und um einen\nButtellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und\n2 Wein Trauben — Alles andere habe ich\nich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie\nmir ja den Wein und die Früchte heraus. Immerdar bleibe ich\nBreslau\nden 29ten Aug.\n1810.\nIhr wahrer Freund und Diener\nv Triebenfeld",
+   "transcription": "186\nLieber Freund!\nDie Sache mit H Weigelt ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um\nlies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey\nmir im Schweinern sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen\nzu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen\nund das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie\nHerzer Freund in Requisition - und Bitte um eine Lüttellie alten Mihn Wein und um einen\nButtellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und\n2 Wein Trauben — Alles andere habe ich\nich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie\nmir ja den Wein und die Früchte heraus. Immerdar bleibe ich\nBreslau\nden 29ten Aug.\n1810.\nIhr wahrer Freund und Diener\nv Triebenfeld",
+   "reading": "186\n\nLieber Freund!\n\nDie Sache mit H Weigelt ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um lies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey mir im Schweinern sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen zu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen und das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie Herzer Freund in Requisition - und Bitte um eine Lüttellie alten Mihn Wein und um einen Buttellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und 2 Wein Trauben — Alles andere habe ich ich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie mir ja den Wein und die Früchte heraus. Immerdar bleibe ich Breslau\n\nden 29ten Aug.\n\n1810.\n\nIhr wahrer Freund und Diener\n\nv Triebenfeld",
    "paragraphs": [
+    "186",
     "Lieber Freund!",
-    "Die Sache mit H Weigel ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um lies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey mir im Schweineren sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen zu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen und das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie Herzer Freund in Requisition - und Bitte um eine Buttellie alten Mihn Wein und um einen Buttellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und 2 Wein Trauben — Alles andere habe ich ich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie mir ja den Wein und die Früchte heraus. Immerdar bleibe ich",
-    "Breslau",
+    "Die Sache mit H Weigelt ist so gut als abgemacht - Er schickte mir gestern Abend die Zusage - um lies mich heute hier herein bitten, oder im Fall ich es erlaubte, so wolte er den Donnerstag über bey mir im Schweinern sein - Ich habe das leztere angenommen und ihm morgen auf eine Seyen zu mir heraus gebeten. Mir fehlts nun an manche dem alten Herrn so recht zu bewirthen und das Herrn zu erwärmen. Es ist zum einzigen Wohl unsers Biedern Fürsten, daher sezze ich Sie Herzer Freund in Requisition - und Bitte um eine Lüttellie alten Mihn Wein und um einen Buttellie rechten guten alten Süßen Ungarischen Ausbruch, so wie um 6 Stück Pfirsichen und 2 Wein Trauben — Alles andere habe ich ich bin darum expresse herein gekommen – Solten Sie heute mein Billet nicht treffen, so schicken Sie mir ja den Wein und die Früchte heraus. Immerdar bleibe ich Breslau",
     "den 29ten Aug.",
     "1810.",
     "Ihr wahrer Freund und Diener",
@@ -55,7 +56,7 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 16
+   "doc_line_end": 17
   }
  ],
  "mentions": [
@@ -65,10 +66,10 @@
    "kind": "person",
    "surface": "Weigel",
    "page": 1,
-   "page_id": "",
+   "page_id": "0352_a1",
    "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
-   "line": 13250,
-   "doc_line": 2
+   "line": 13228,
+   "doc_line": 3
   },
   {
    "entity": "triebenfeld",
@@ -76,88 +77,25 @@
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "",
+   "page_id": "0352_a1",
    "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
-   "line": 13264,
-   "doc_line": 16
+   "line": 13242,
+   "doc_line": 17
   }
  ],
- "mentions_english": [
-  {
-   "entity": "",
-   "display": "Mr. Weigel",
-   "kind": "person",
-   "surface_de": "H Weigel",
-   "surface_en": "Mr. Weigel",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Schweineren",
-   "kind": "place",
-   "surface_de": "Schweineren",
-   "surface_en": "Schweineren",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hungarian Ausbruch",
-   "kind": "other",
-   "surface_de": "Ungarischen Ausbruch",
-   "surface_en": "Hungarian Ausbruch",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Breslau",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Breslau",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  }
- ],
+ "mentions_english": [],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
-   "entity": "wien",
-   "display": "Wien",
+   "entity": "schweinern",
+   "display": "Schweinern (Świniary)",
    "kind": "place",
-   "surface": "Wein",
+   "surface": "Schweinern",
    "page": 1,
-   "page_id": "",
+   "page_id": "0352_a1",
    "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
-   "line": 13255,
-   "doc_line": 7
-  },
-  {
-   "entity": "wien",
-   "display": "Wien",
-   "kind": "place",
-   "surface": "Wein",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
-   "line": 13257,
-   "doc_line": 9
-  },
-  {
-   "entity": "wien",
-   "display": "Wien",
-   "kind": "place",
-   "surface": "Wein",
-   "page": 1,
-   "page_id": "",
-   "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
-   "line": 13259,
-   "doc_line": 11
+   "line": 13230,
+   "doc_line": 5
   },
   {
    "entity": "breslau",
@@ -165,53 +103,15 @@
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
-   "page_id": "",
+   "page_id": "0352_a1",
    "scan": "Oe_1_Bu_9454_0352_a1-L186_01.jpg",
-   "line": 13260,
-   "doc_line": 12
+   "line": 13238,
+   "doc_line": 13
   }
  ],
- "translation_status": "draft",
- "translation": [
-  {
-   "page": 1,
-   "en": "Dear Friend!\n\nThe matter with Mr. Weigel is as good as settled — he sent me his agreement yesterday evening — and asked me to come in here today, or, in case I permitted it, he would spend Thursday with me at the [uncertain: Schweineren] — I have accepted the latter and have asked him out to me tomorrow [uncertain: for a Seyen]. I now lack various things for entertaining the old gentleman properly and warming up the [uncertain: gentleman]. It is for the sole good of our worthy Prince, and therefore I put you, dearest friend, under requisition — and beg for a bottle of old [uncertain: Mihn] wine and for a bottle of really good old sweet Hungarian Ausbruch, likewise for 6 peaches and 2 bunches of grapes — everything else I have; I have come in here expressly on that account. — Should you not meet with my note today, do be sure to send me the wine and the fruit out. Ever I remain\n\nBreslau\n\nthe 29th of August\n\n1810.\n\nYour true friend and servant\n\nv. Triebenfeld",
-   "names": [
-    {
-     "de": "H Weigel",
-     "en": "Mr. Weigel",
-     "kind": "person"
-    },
-    {
-     "de": "Schweineren",
-     "en": "Schweineren",
-     "kind": "place"
-    },
-    {
-     "de": "Ungarischen Ausbruch",
-     "en": "Hungarian Ausbruch",
-     "kind": "other"
-    },
-    {
-     "de": "Breslau",
-     "en": "Breslau",
-     "kind": "place"
-    },
-    {
-     "de": "v Triebenfeld",
-     "en": "v. Triebenfeld",
-     "kind": "person"
-    }
-   ],
-   "numbers": [
-    "6",
-    "2",
-    "29",
-    "1810"
-   ]
-  }
- ],
- "text_english": "Dear Friend!\n\nThe matter with Mr. Weigel is as good as settled — he sent me his agreement yesterday evening — and asked me to come in here today, or, in case I permitted it, he would spend Thursday with me at the [uncertain: Schweineren] — I have accepted the latter and have asked him out to me tomorrow [uncertain: for a Seyen]. I now lack various things for entertaining the old gentleman properly and warming up the [uncertain: gentleman]. It is for the sole good of our worthy Prince, and therefore I put you, dearest friend, under requisition — and beg for a bottle of old [uncertain: Mihn] wine and for a bottle of really good old sweet Hungarian Ausbruch, likewise for 6 peaches and 2 bunches of grapes — everything else I have; I have come in here expressly on that account. — Should you not meet with my note today, do be sure to send me the wine and the fruit out. Ever I remain\n\nBreslau\n\nthe 29th of August\n\n1810.\n\nYour true friend and servant\n\nv. Triebenfeld",
- "summary_en": "Reports that the business with Mr. Weigel is as good as settled, Weigel having sent his agreement the previous evening and being expected out to dinner the next day. To entertain the old gentleman properly, and in the Prince's interest, Triebenfeld requisitions from his correspondent a bottle of old wine, a bottle of good old sweet Hungarian Ausbruch, six peaches and two bunches of grapes, to be sent out if his note misses him.",
- "summary_de": "Mitteilung, dass die Sache mit Herrn Weigel so gut wie erledigt sei: Weigel habe am Abend zuvor seine Zustimmung geschickt und wolle den Donnerstag bei Triebenfeld auf dem Gut zubringen, worauf dieser ihn für den folgenden Tag eingeladen hat. Zur Bewirtung des alten Herrn – allein im Interesse des Fürsten – erbittet Triebenfeld eine Flasche alten Wein, eine Flasche guten alten süßen ungarischen Ausbruch sowie 6 Pfirsiche und 2 Trauben, die ihm hinausgeschickt werden sollen."
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "",
+ "summary_de": ""
 }

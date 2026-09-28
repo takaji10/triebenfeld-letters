@@ -565,6 +565,17 @@
  "place_canonical": "Zagórów",
  "place_mentions": [
   {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0103_b",
+   "scan": "Oe_1_Bu_14526_0103_b-L17_01.jpg",
+   "line": 5533,
+   "doc_line": 5
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
