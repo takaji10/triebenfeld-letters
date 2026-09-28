@@ -16589,6 +16589,45 @@
   "permalink": "/documents/oe1bu9454/255/"
  },
  {
+  "uid": "oe1bu9454-8",
+  "unit": "oe1bu9454",
+  "letter_id": "8",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1814-12",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Wien[?]",
+  "n_pages": 1,
+  "n_lines": 28,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0014_a",
+    "image": "Oe_1_Bu_9454_0014_a-L8_01.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 1,
+  "estates": [
+   "schlawenschitz",
+   "lassowitz",
+   "oppurg"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 8",
+  "path": "documents/oe1bu9454-8.json",
+  "text_path": "text/oe1bu9454-8.txt",
+  "permalink": "/documents/oe1bu9454/8/"
+ },
+ {
   "uid": "oe1bu9454-256",
   "unit": "oe1bu9454",
   "letter_id": "256",
@@ -16904,51 +16943,6 @@
   "path": "documents/oe1bu9454-263.json",
   "text_path": "text/oe1bu9454-263.txt",
   "permalink": "/documents/oe1bu9454/263/"
- },
- {
-  "uid": "oe1bu9454-4",
-  "unit": "oe1bu9454",
-  "letter_id": "4",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1815",
-  "date_precision": "year",
-  "date_source": "signature",
-  "place": "Wien",
-  "n_pages": 3,
-  "n_lines": 69,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0006_b",
-    "image": "Oe_1_Bu_9454_0006_b-L4_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0007_a1",
-    "image": "Oe_1_Bu_9454_0007_a1-L4_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0007_a2",
-    "image": "Oe_1_Bu_9454_0007_a2-L4_03.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 6,
-  "places_named": 7,
-  "estates": [],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 4",
-  "path": "documents/oe1bu9454-4.json",
-  "text_path": "text/oe1bu9454-4.txt",
-  "permalink": "/documents/oe1bu9454/4/"
  },
  {
   "uid": "oe1bu9454-281",
@@ -17427,6 +17421,52 @@
   "permalink": "/documents/oe1bu9454/269/"
  },
  {
+  "uid": "oe1bu9454-3",
+  "unit": "oe1bu9454",
+  "letter_id": "3",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1815-02",
+  "date_precision": "inferred",
+  "date_source": "inferred",
+  "place": "Wien[?]",
+  "n_pages": 2,
+  "n_lines": 61,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0004_b",
+    "image": "Oe_1_Bu_9454_0004_b-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0005_a1",
+    "image": "Oe_1_Bu_9454_0005_a1-L3_02.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 2,
+  "estates": [
+   "schlawenschitz",
+   "lassowitz",
+   "oppurg",
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 3",
+  "path": "documents/oe1bu9454-3.json",
+  "text_path": "text/oe1bu9454-3.txt",
+  "permalink": "/documents/oe1bu9454/3/"
+ },
+ {
   "uid": "oe1bu9454-270",
   "unit": "oe1bu9454",
   "letter_id": "270",
@@ -17534,52 +17574,6 @@
   "permalink": "/documents/oe1bu9454/2/"
  },
  {
-  "uid": "oe1bu9454-3",
-  "unit": "oe1bu9454",
-  "letter_id": "3",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1815-02-09",
-  "date_precision": "day",
-  "date_source": "supplied",
-  "place": "Wien[?]",
-  "n_pages": 2,
-  "n_lines": 61,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0004_b",
-    "image": "Oe_1_Bu_9454_0004_b-L3_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0005_a1",
-    "image": "Oe_1_Bu_9454_0005_a1-L3_02.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 2,
-  "estates": [
-   "schlawenschitz",
-   "lassowitz",
-   "oppurg",
-   "trabczyn",
-   "kamionno"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 3",
-  "path": "documents/oe1bu9454-3.json",
-  "text_path": "text/oe1bu9454-3.txt",
-  "permalink": "/documents/oe1bu9454/3/"
- },
- {
   "uid": "oe1bu9454-1a",
   "unit": "oe1bu9454",
   "letter_id": "1a",
@@ -17590,7 +17584,7 @@
   "repository": "hzan-neuenstein",
   "date_iso": "1815-02-12",
   "date_precision": "day",
-  "date_source": "supplied",
+  "date_source": "dateline",
   "place": "Wien",
   "n_pages": 1,
   "n_lines": 25,
@@ -17998,45 +17992,6 @@
   "permalink": "/documents/oe1bu9454/275/"
  },
  {
-  "uid": "oe1bu9454-8",
-  "unit": "oe1bu9454",
-  "letter_id": "8",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1815-03",
-  "date_precision": "inferred",
-  "date_source": "inferred",
-  "place": "Wien[?]",
-  "n_pages": 1,
-  "n_lines": 28,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0014_a",
-    "image": "Oe_1_Bu_9454_0014_a-L8_01.jpg"
-   }
-  ],
-  "uncertainty_count": 3,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 1,
-  "estates": [
-   "schlawenschitz",
-   "lassowitz",
-   "oppurg"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "title": "letter 8",
-  "path": "documents/oe1bu9454-8.json",
-  "text_path": "text/oe1bu9454-8.txt",
-  "permalink": "/documents/oe1bu9454/8/"
- },
- {
   "uid": "oe1bu9454-10",
   "unit": "oe1bu9454",
   "letter_id": "10",
@@ -18353,6 +18308,51 @@
   "path": "documents/oe1bu9454-279.json",
   "text_path": "text/oe1bu9454-279.txt",
   "permalink": "/documents/oe1bu9454/279/"
+ },
+ {
+  "uid": "oe1bu9454-4",
+  "unit": "oe1bu9454",
+  "letter_id": "4",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1815-03-19",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "n_pages": 3,
+  "n_lines": 69,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0006_b",
+    "image": "Oe_1_Bu_9454_0006_b-L4_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0007_a1",
+    "image": "Oe_1_Bu_9454_0007_a1-L4_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0007_a2",
+    "image": "Oe_1_Bu_9454_0007_a2-L4_03.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 6,
+  "places_named": 7,
+  "estates": [],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "title": "letter 4",
+  "path": "documents/oe1bu9454-4.json",
+  "text_path": "text/oe1bu9454-4.txt",
+  "permalink": "/documents/oe1bu9454/4/"
  },
  {
   "uid": "oe1bu9454-7",

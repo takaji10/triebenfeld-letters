@@ -2446,6 +2446,15 @@
     "doc_line": 27
    },
    {
+    "uid": "oe1bu9454-8",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0014_a",
+    "scan": "Oe_1_Bu_9454_0014_a-L8_01.jpg",
+    "line": 524,
+    "doc_line": 19
+   },
+   {
     "uid": "oe1bu9454-256",
     "surface": "Berlin",
     "page": 1,
@@ -2498,15 +2507,6 @@
     "scan": "Oe_1_Bu_9454_0479_a1-L262_02.jpg",
     "line": 18604,
     "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-4",
-    "surface": "Berlin",
-    "page": 1,
-    "page_id": "0006_b",
-    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
-    "line": 307,
-    "doc_line": 19
    },
    {
     "uid": "oe1bu9454-281",
@@ -2590,15 +2590,6 @@
     "doc_line": 35
    },
    {
-    "uid": "oe1bu9454-8",
-    "surface": "Berlin",
-    "page": 1,
-    "page_id": "0014_a",
-    "scan": "Oe_1_Bu_9454_0014_a-L8_01.jpg",
-    "line": 524,
-    "doc_line": 19
-   },
-   {
     "uid": "oe1bu9454-276",
     "surface": "Berlin",
     "page": 1,
@@ -2633,6 +2624,15 @@
     "scan": "Oe_1_Bu_9454_0503_a1-L276_02.jpg",
     "line": 19602,
     "doc_line": 53
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0006_b",
+    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
+    "line": 307,
+    "doc_line": 19
    },
    {
     "uid": "oe1bu9454-282",
@@ -18007,24 +18007,6 @@
     "doc_line": 25
    },
    {
-    "uid": "oe1bu9454-4",
-    "surface": "Schlawenschitz",
-    "page": 1,
-    "page_id": "0006_b",
-    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
-    "line": 305,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-4",
-    "surface": "Schlawenschitz",
-    "page": 2,
-    "page_id": "0007_a1",
-    "scan": "Oe_1_Bu_9454_0007_a1-L4_02.jpg",
-    "line": 317,
-    "doc_line": 28
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Schlawenschitz",
     "page": 1,
@@ -18079,15 +18061,6 @@
     "doc_line": 46
    },
    {
-    "uid": "oe1bu9454-2",
-    "surface": "Schlawenschitz",
-    "page": 3,
-    "page_id": "0003_a2",
-    "scan": "Oe_1_Bu_9454_0003_a2-L2_03.jpg",
-    "line": 175,
-    "doc_line": 63
-   },
-   {
     "uid": "oe1bu9454-3",
     "surface": "Schlawenschitz",
     "page": 2,
@@ -18095,6 +18068,15 @@
     "scan": "Oe_1_Bu_9454_0005_a1-L3_02.jpg",
     "line": 280,
     "doc_line": 55
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Schlawenschitz",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "Oe_1_Bu_9454_0003_a2-L2_03.jpg",
+    "line": 175,
+    "doc_line": 63
    },
    {
     "uid": "oe1bu9454-273",
@@ -18113,6 +18095,24 @@
     "scan": "Oe_1_Bu_9454_0021_a-L13_01.jpg",
     "line": 699,
     "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Schlawenschitz",
+    "page": 1,
+    "page_id": "0006_b",
+    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
+    "line": 305,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Schlawenschitz",
+    "page": 2,
+    "page_id": "0007_a1",
+    "scan": "Oe_1_Bu_9454_0007_a1-L4_02.jpg",
+    "line": 317,
+    "doc_line": 28
    },
    {
     "uid": "oe1bu9454-292",
@@ -23568,15 +23568,6 @@
     "doc_line": 16
    },
    {
-    "uid": "oe1bu9454-4",
-    "surface": "Blizanow",
-    "page": 2,
-    "page_id": "0007_a1",
-    "scan": "Oe_1_Bu_9454_0007_a1-L4_02.jpg",
-    "line": 318,
-    "doc_line": 29
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Blizanow",
     "page": 1,
@@ -23593,6 +23584,15 @@
     "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
     "line": 18848,
     "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Blizanow",
+    "page": 2,
+    "page_id": "0007_a1",
+    "scan": "Oe_1_Bu_9454_0007_a1-L4_02.jpg",
+    "line": 318,
+    "doc_line": 29
    },
    {
     "uid": "oe1bu9454-282",
@@ -24930,15 +24930,6 @@
     "doc_line": 23
    },
    {
-    "uid": "oe1bu9454-4",
-    "surface": "Paris",
-    "page": 3,
-    "page_id": "0007_a2",
-    "scan": "Oe_1_Bu_9454_0007_a2-L4_03.jpg",
-    "line": 349,
-    "doc_line": 59
-   },
-   {
     "uid": "oe1bu9454-267",
     "surface": "Paris",
     "page": 1,
@@ -24946,6 +24937,15 @@
     "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
     "line": 18926,
     "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Paris",
+    "page": 3,
+    "page_id": "0007_a2",
+    "scan": "Oe_1_Bu_9454_0007_a2-L4_03.jpg",
+    "line": 349,
+    "doc_line": 59
    },
    {
     "uid": "oe1bu9454-280",
@@ -29102,15 +29102,6 @@
     "doc_line": 60
    },
    {
-    "uid": "oe1bu9454-4",
-    "surface": "Frankreich",
-    "page": 1,
-    "page_id": "0006_b",
-    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
-    "line": 293,
-    "doc_line": 5
-   },
-   {
     "uid": "oe1bu9454-267",
     "surface": "Frankreich",
     "page": 1,
@@ -29154,6 +29145,15 @@
     "scan": "Oe_1_Bu_9454_0017_a1-L10_02.jpg",
     "line": 573,
     "doc_line": 34
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Frankreich",
+    "page": 1,
+    "page_id": "0006_b",
+    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
+    "line": 293,
+    "doc_line": 5
    },
    {
     "uid": "oe1bu9454-284",
@@ -29823,6 +29823,15 @@
     "doc_line": 27
    },
    {
+    "uid": "oe1bu9454-3",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0004_b",
+    "scan": "Oe_1_Bu_9454_0004_b-L3_01.jpg",
+    "line": 244,
+    "doc_line": 20
+   },
+   {
     "uid": "oe1bu9454-270",
     "surface": "Dresden",
     "page": 1,
@@ -29839,15 +29848,6 @@
     "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
     "line": 133,
     "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-3",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0004_b",
-    "scan": "Oe_1_Bu_9454_0004_b-L3_01.jpg",
-    "line": 244,
-    "doc_line": 20
    },
    {
     "uid": "oe1bu9454-271",
@@ -33288,15 +33288,6 @@
     "doc_line": 47
    },
    {
-    "uid": "oe1bu9454-4",
-    "surface": "Prag",
-    "page": 1,
-    "page_id": "0006_b",
-    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
-    "line": 313,
-    "doc_line": 25
-   },
-   {
     "uid": "oe1bu9454-281",
     "surface": "Prag",
     "page": 1,
@@ -33313,6 +33304,15 @@
     "scan": "Oe_1_Bu_9454_0509_b-L281_01.jpg",
     "line": 19885,
     "doc_line": 16
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Prag",
+    "page": 1,
+    "page_id": "0006_b",
+    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
+    "line": 313,
+    "doc_line": 25
    },
    {
     "uid": "oe1bu9454-282",
@@ -34033,63 +34033,6 @@
   ]
  },
  {
-  "entity": "grenoble",
-  "display": "Grenoble",
-  "count": 5,
-  "documents": [
-   "oe1bu9454-279",
-   "oe1bu9454-282",
-   "oe1bu9454-4"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-4",
-    "surface": "Grenoble",
-    "page": 1,
-    "page_id": "0006_b",
-    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
-    "line": 296,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu9454-4",
-    "surface": "Grenoble",
-    "page": 1,
-    "page_id": "0006_b",
-    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
-    "line": 297,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-279",
-    "surface": "Grenoble",
-    "page": 1,
-    "page_id": "0506_b",
-    "scan": "Oe_1_Bu_9454_0506_b-L279_01.jpg",
-    "line": 19763,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-279",
-    "surface": "Grenoble",
-    "page": 2,
-    "page_id": "0507_a1",
-    "scan": "Oe_1_Bu_9454_0507_a1-L279_02.jpg",
-    "line": 19776,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu9454-282",
-    "surface": "Grenoble",
-    "page": 2,
-    "page_id": "0511_a1",
-    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
-    "line": 19986,
-    "doc_line": 57
-   }
-  ]
- },
- {
   "entity": "frankfurt-am-main",
   "display": "Frankfurt am Main",
   "count": 5,
@@ -34144,6 +34087,63 @@
     "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
     "line": 21535,
     "doc_line": 98
+   }
+  ]
+ },
+ {
+  "entity": "grenoble",
+  "display": "Grenoble",
+  "count": 5,
+  "documents": [
+   "oe1bu9454-279",
+   "oe1bu9454-282",
+   "oe1bu9454-4"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-279",
+    "surface": "Grenoble",
+    "page": 1,
+    "page_id": "0506_b",
+    "scan": "Oe_1_Bu_9454_0506_b-L279_01.jpg",
+    "line": 19763,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-279",
+    "surface": "Grenoble",
+    "page": 2,
+    "page_id": "0507_a1",
+    "scan": "Oe_1_Bu_9454_0507_a1-L279_02.jpg",
+    "line": 19776,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Grenoble",
+    "page": 1,
+    "page_id": "0006_b",
+    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
+    "line": 296,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Grenoble",
+    "page": 1,
+    "page_id": "0006_b",
+    "scan": "Oe_1_Bu_9454_0006_b-L4_01.jpg",
+    "line": 297,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-282",
+    "surface": "Grenoble",
+    "page": 2,
+    "page_id": "0511_a1",
+    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
+    "line": 19986,
+    "doc_line": 57
    }
   ]
  },
