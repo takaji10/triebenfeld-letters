@@ -106,6 +106,21 @@ house_style: |
   The test is whether the particle points at something the person is lord of or
   simply at what they are called.
 
+  P, PP, PPP (perge, perge: "and so on") have three uses, rendered differently:
+
+    * after a TITLE OR FORM OF ADDRESS it stands for the rest of the titles the
+      writer did not copy out: `Durchlauchtigster Fürst pp.`, `Ew. p.`,
+      `Gr. F. Constantin pp.` Render "etc." or drop it from a salutation:
+      "Most Serene Prince, etc." / "Most Serene Prince";
+    * BEFORE A NAME it stands for an omitted title or rank: `des p Cosmar`,
+      `H. p. Eberhard`, `der p v Triebenfeld`, `dem p. Barbe`. Never "etc." In a
+      letter, drop it ("Cosmar", "Mr Eberhard"); in a deed or court record,
+      "the said" / "the aforesaid". Triebenfeld's `der p Honrichs`,
+      `des p Cosmar` is often contemptuous, but the English does not add a
+      sneer the words do not carry;
+    * AT THE END OF A LIST it is plain "etc." (`Laudemien, Jagd pp.`); `ppp` is
+      a longer "and so on and so forth".
+
   Terms of art keep their German form ONLY where this termbase says
   `policy: keep` - Rthl, Hufe, Morgen, Landschaft and the handful like them.
   Everything else is rendered into English, however technical. A German word

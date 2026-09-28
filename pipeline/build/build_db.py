@@ -130,6 +130,7 @@ INFERRED        = _R['INFERRED']
 DUP_OF          = _R['DUP_OF']
 SPLIT_NOTE      = _R['SPLIT_NOTE']
 DAMAGE_LETTERS  = _R['DAMAGE_LETTERS']
+ROUGH_LETTERS   = _R['ROUGH_LETTERS']
 RELATIONS       = _R['RELATIONS']
 ESTATES         = _R['ESTATES']
 # Checked against the place authority for the same reason era and theme are: a
@@ -421,6 +422,7 @@ for L in nums:
         line_start=s, line_end=e,
         uncertainty_count=unc,
         has_damage=int('[...]' in '\n'.join(body) or L in DAMAGE_LETTERS),
+        rough_transcription=int(L in ROUGH_LETTERS),
         language=DOC_LANGUAGE.get(L, 'de'),
         duplicate_of=DUP_OF.get(L, ''),
         # Typed links to other documents in this holding. Editorial assertions,

@@ -1,5 +1,5 @@
-﻿unit,uid,pad,permalink,letter_id,seq_archival,parent_letter,doc_type,date_iso,date_precision,date_source,date_display,date_inferred_from,year,month,day,place,sender,recipient,line_start,line_end,uncertainty_count,has_damage,duplicate_of,is_missing,n_lines,n_pages,era,text,text_reading
-oe1bu14525,oe1bu14525-1,oe1bu14525-001,/documents/oe1bu14525/1/,1,1,,donation,1800-07,month,signature,July 1800,,1800,7,,Kalisch,,,18,185,1,0,,0,159,8,hohenlohe,"Copia vidimata
+﻿unit,uid,pad,permalink,letter_id,seq_archival,parent_letter,doc_type,date_iso,date_precision,date_source,date_display,date_inferred_from,year,month,day,place,sender,recipient,line_start,line_end,uncertainty_count,has_damage,rough_transcription,duplicate_of,is_missing,n_lines,n_pages,era,text,text_reading
+oe1bu14525,oe1bu14525-1,oe1bu14525-001,/documents/oe1bu14525/1/,1,1,,donation,1800-07,month,signature,July 1800,,1800,7,,Kalisch,,,18,185,1,0,0,,0,159,8,hohenlohe,"Copia vidimata
 Wir Friedrich Wilhelm von Gottes
 Gnaden König von Preußen pp.
 Urkunden und erklären vermittelst
@@ -202,7 +202,7 @@ Tituli possessionis von Szetlewek für Seiner Durchlaucht des regierenden fürst
 Beda Ingrossator
 
 Schleyer[?]"
-oe1bu14525,oe1bu14525-2,oe1bu14525-002,/documents/oe1bu14525/2/,2,2,,certified_copy,1799-12,month,signature,1799. für den Creditor von Radzinski,,1799,12,,Kalisch,,,186,271,2,0,,0,82,3,hohenlohe,"Das in der Provinz Sued Preußen und deren Konin¬
+oe1bu14525,oe1bu14525-2,oe1bu14525-002,/documents/oe1bu14525/2/,2,2,,certified_copy,1799-12,month,signature,1799. für den Creditor von Radzinski,,1799,12,,Kalisch,,,186,271,2,0,0,,0,82,3,hohenlohe,"Das in der Provinz Sued Preußen und deren Konin¬
 schen District belegene freye allodial-Guth
 Szetlewek
 hat der zeitige Besitzer der regierende Fürst
@@ -314,7 +314,7 @@ Moz 2 gg.
 Bl 3 gg.
 
 *archiv 1 rt"
-oe1bu14525,oe1bu14525-3,oe1bu14525-003,/documents/oe1bu14525/3/,3,3,,donation,1798,year,signature,Geschehen Breslau den __ten ______ 1798.,,1798,,,Breslau,,,272,363,2,1,,0,88,3,hohenlohe,"Wir Friedrich Willhelm
+oe1bu14525,oe1bu14525-3,oe1bu14525-003,/documents/oe1bu14525/3/,3,3,,donation,1798,year,signature,Geschehen Breslau den __ten ______ 1798.,,1798,,,Breslau,,,272,363,2,1,0,,0,88,3,hohenlohe,"Wir Friedrich Willhelm
 von Gottes Gnaden König von Preußen¬
 Urkunden und erklären vermittelst dieses Unsers
 offenen Briefes für Uns und Unsere Nachkommen
@@ -412,7 +412,7 @@ und unausbleiblicher harter Ahndung. Das zu Urkund haben Wir gegenwärtigen Dona
 Schenkungs-Urkunde, für den Regierenden Fürsten Hohenlohe, Ingelfingen zum erb und eigenthümlichen Besitze, der Stadt Kamionna oder Klemen und des Marktflekens Kulm Posenschen, Kreises, der Dörfer Trąbczyn, Szetlewek, Nowa wies, Łazy, Alt und Neu-Laske, Osiny, Hauland Trąbczyński Koninschen Kreises, und des Dorfes Brzyce nebst Zubehör in Cujawien.
 
 Die gleichlautende Uebereinstimmung vorstehender A schrift mit dem Original, der Allerhöchst vollzogenen Schenckungs Urkunde wird hierdurch in fidem publicam attestiret und beglaubiget Geschehen Breslau den __ten ______ 1798. Richter Gouvernements Audit[or?]"
-oe1bu14525,oe1bu14525-4,oe1bu14525-004,/documents/oe1bu14525/4/,4,4,,donation,1802-02,month,signature,Breslau den 18.ten Februar. 1802,,1802,2,,Breslau,,,364,466,0,0,,0,98,4,hohenlohe,"Wir Friedrich Willhelm von Gottes Gnade
+oe1bu14525,oe1bu14525-4,oe1bu14525-004,/documents/oe1bu14525/4/,4,4,,donation,1802-02,month,signature,Breslau den 18.ten Februar. 1802,,1802,2,,Breslau,,,364,466,0,0,0,,0,98,4,hohenlohe,"Wir Friedrich Willhelm von Gottes Gnade
 König zu Preussen. pp.
 Urkunden, und erklären vermittelst dieses Unsers
 offenen Briefes für Uns und Unsere Nachkommen
@@ -524,7 +524,7 @@ Das zu Urkund haben Wir gegenwärtig Donations Brief höchst Eigenhändig unters
 Schenkungs Urkunde, für den regierenden Fürsten Hohenlohe Jngel: fingen zum Erb und eigenthümlichen Besitze, der Stadt Kamionna, oder Klemen und des Marktfleck Kulm Posenschen Creises der Dorfer Trąbczyn, Szetlewek, Nowa wies, Łazy, Alt und Neu Laske, Osiny, Hauland Trąbczyński, Koninschen Creises, und des Dorfes Brzyce nebst Zubehör in Cujavien daß vorstehende Abschrift mit dem Allerhöchstvollzogen
 
 original volkommen gleichlautend ist, wird hiermit sub sigillo judiciali, in fidem attestiret, Breslau den 18.ten Februar. 1802 Sonnabend, Auditeur des Hochfürstl. v Hohenlohschen Infant. Regiments"
-oe1bu14525,oe1bu14525-5,oe1bu14525-005,/documents/oe1bu14525/5/,5,5,,donation,1803-02-26,day,signature,"So geschehen, Breslau am 26. Febr. 1803.",,1803,2,26,Breslau,,,467,557,0,0,,0,86,4,hohenlohe,"Wir Friedrich Wilhelm, von Gottes Gnaden
+oe1bu14525,oe1bu14525-5,oe1bu14525-005,/documents/oe1bu14525/5/,5,5,,donation,1803-02-26,day,signature,"So geschehen, Breslau am 26. Febr. 1803.",,1803,2,26,Breslau,,,467,557,0,0,0,,0,86,4,hohenlohe,"Wir Friedrich Wilhelm, von Gottes Gnaden
 König von Preußen pp Urkunden, und erklären mit diesem
 Unserm offenen Briefe, für Uns und Unsere Nachkom¬
 men und Nachfolger an der Krone, der Chur, und Unsere
@@ -630,7 +630,7 @@ Daß vorstehende Abschrift mit der gouvernments
 gerichtlichen Copia vidimata vom 24. rt. febr. 1798 vollkommen gleichlautend und übereinstimmend befunden worden, solches wird hiermit, sub sigillo judiciali, in fidem pflichtmäßig attestiret.
 
 So geschehen, Breslau am 26. Febr. 1803. Sonnabend Auditeur des Hochfürstl. v Hohenlohische Inf. Regts"
-oe1bu14525,oe1bu14525-6,oe1bu14525-006,/documents/oe1bu14525/6/,6,6,,donation,1802-02,month,signature,Breslau den 18.ten Februar. 1802.,,1802,2,,Breslau,,,558,657,1,0,,0,95,4,hohenlohe,"Wir Friedrich Willhelm
+oe1bu14525,oe1bu14525-6,oe1bu14525-006,/documents/oe1bu14525/6/,6,6,,donation,1802-02,month,signature,Breslau den 18.ten Februar. 1802.,,1802,2,,Breslau,,,558,657,1,0,0,,0,95,4,hohenlohe,"Wir Friedrich Willhelm
 von Gottes Gnaden König von Preussen pp.
 Urkunden und erklären hiemit, und in Kraft dieses
 Unsers offenen Briefes, für Uns, und Unsere Nachkommen
@@ -755,7 +755,7 @@ Verleihungs Urkunde für den regierenden Fürsten von Hohenlohe Ingelfingen, zum
 daß vorstehende Abschrift mit dem Allerhöchst vollzo
 
 genen Original vollkommen gleichlautend und übereinstimmend ist, solches wird hiermit, sub sigillo judiciali in fidem attestiret Breslau den 18.ten Februar. 1802. Sonnabend, Auditeur des Hochfürstl. Hohenlohischen Infant. Regiments"
-oe1bu14525,oe1bu14525-7,oe1bu14525-007,/documents/oe1bu14525/7/,7,7,,donation,1802-06-19,day,signature,Breslau den 19 ten Juny 1802.,,1802,6,19,Breslau,,,658,890,0,0,,0,223,9,hohenlohe,"Copia vidimata.
+oe1bu14525,oe1bu14525-7,oe1bu14525-007,/documents/oe1bu14525/7/,7,7,,donation,1802-06-19,day,signature,Breslau den 19 ten Juny 1802.,,1802,6,19,Breslau,,,658,890,0,0,0,,0,223,9,hohenlohe,"Copia vidimata.
 Wir Friedrich Willhelm von Gottes Gnaden
 König von Preußen p. p. Markgraf zu Branden¬
 burg, des heil. römischen Reichs Erz Cämmerer
@@ -1052,7 +1052,7 @@ Hypothequen-Schein für den regierenden Fürst zu Hohenlohe Ingelfingen über da
 No 3397.
 
 daß vorstehende Abschrift mit dem Original volkommen gleichlautend und übereinstimmend ist, solches wird hiermit, sub sigillo judiciali, in fidem attestiret Breslau den 19 ten Juny 1802. Sonnabend. Auditeur des Hochfürstl. Hohenlohschen Infant. Regiments"
-oe1bu14525,oe1bu14525-8,oe1bu14525-008,/documents/oe1bu14525/8/,8,8,,donation,1798-02-24,day,signature,Geschehen Breslau den 24ten Februar 1798.,,1798,2,24,Breslau,,,891,983,0,0,,0,89,3,hohenlohe,"Wir Friedrich Willhelm, von Gottes Gnaden
+oe1bu14525,oe1bu14525-8,oe1bu14525-008,/documents/oe1bu14525/8/,8,8,,donation,1798-02-24,day,signature,Geschehen Breslau den 24ten Februar 1798.,,1798,2,24,Breslau,,,891,983,0,0,0,,0,89,3,hohenlohe,"Wir Friedrich Willhelm, von Gottes Gnaden
 König von Preußen pp. Urkunden und erklären mit diesem
 Unserm offenen Briefe, für Uns und Unsere Nachkomen
 und Nachfolger an der Krone, der Chur, und Unsern
@@ -1161,7 +1161,7 @@ für den regierenden Fürsten von Hohenlohe Ingelfingen, zum erb- und eigenthüm
 Hoym. Reck.
 
 Daß vor- und umstehende Abschrift mit dem Original der Allerhöchsten Schenckungs - Urkunde, nach erfolgter genauen ZusammenHaltung nach dem sämmtlichen Innhalt von Wort zu Wort gleich lautend und übereinstimmend befunden worden, wird in Fidem hierdurch beglaubiget und attestiret Geschehen Breslau den 24ten Februar 1798. Richter Gouvernements Auditt hierselbst"
-oe1bu14525,oe1bu14525-9,oe1bu14525-009,/documents/oe1bu14525/9/,9,9,,donation,1802-02,month,signature,Breslau am 18.ten Februar. 1802.,,1802,2,,Breslau,,,984,1082,0,0,,0,95,3,hohenlohe,"Wir Friedrich Wilhelm, von Gottes Gnaden
+oe1bu14525,oe1bu14525-9,oe1bu14525-009,/documents/oe1bu14525/9/,9,9,,donation,1802-02,month,signature,Breslau am 18.ten Februar. 1802.,,1802,2,,Breslau,,,984,1082,0,0,0,,0,95,3,hohenlohe,"Wir Friedrich Wilhelm, von Gottes Gnaden
 König von Preussen pp Urkunden und erklären mit
 diesem Unserm offenen Briefe, für Uns und Unser
 Nachkommen, und Nachfolger, an der Krone der Chur
@@ -1272,7 +1272,7 @@ Verleihungs=Urkunde für den regierenden Fürsten von Hohenlohe Ingelfingen, zum
 Hoym. Reck.
 
 Daß vorstehende Abschrift mit dem Original vollkommen gleichlautet und übereinstimmt, solches wird hiermit, sub sigillo judiciali, in fidem attestiret Breslau am 18.ten Februar. 1802. Sonnabend Auditeur des Fürst Hohenlohschen Infant. Regiments."
-oe1bu14525,oe1bu14525-10,oe1bu14525-010,/documents/oe1bu14525/10/,10,10,,donation,1797-06-19,day,signature,"des zur Urkunde pp. gegeben Berlin, den 19. Juni, 1797.",,1797,6,19,Breslau,,,1083,1166,0,0,,0,80,3,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden König von Preussen
+oe1bu14525,oe1bu14525-10,oe1bu14525-010,/documents/oe1bu14525/10/,10,10,,donation,1797-06-19,day,signature,"des zur Urkunde pp. gegeben Berlin, den 19. Juni, 1797.",,1797,6,19,Breslau,,,1083,1166,0,0,0,,0,80,3,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden König von Preussen
 Urkunden und erklären mit diesem Unserm offenen Briefe, für Uns
 und Unsere Nachkommen und Nachfolger an der Krone, der Chur
 und Unseren übrigen Landen, daß nachdem Uns Allerunterthänigst
@@ -1370,7 +1370,7 @@ Verleihungs Urkunde für den Reg. Fürsten zu Hohenlohe Ingelfingen zum Erb- und
 Daß vor- und umstehende Abschrift mit den Original der Allerhöchst vollzogenen Verleihungs-Urkunde, nach geschehener Zusammenhaltung durchgehends conform und gleichlautend sich ergeben hat; wird in fidem publicam hierdurch attestiret und beglaubiget. Breslau den 22ten December 1800.
 
 Richter Gouvernements und Garnison Auditeur"
-oe1bu14525,oe1bu14525-11,oe1bu14525-011,/documents/oe1bu14525/11/,11,11,,donation,1797-12-01,day,signature,Berlin den 1. Decembr. 1797.,,1797,12,1,Breslau,,,1167,1263,0,0,,0,93,3,hohenlohe,"Wir Friedrich Willhelm
+oe1bu14525,oe1bu14525-11,oe1bu14525-011,/documents/oe1bu14525/11/,11,11,,donation,1797-12-01,day,signature,Berlin den 1. Decembr. 1797.,,1797,12,1,Breslau,,,1167,1263,0,0,0,,0,93,3,hohenlohe,"Wir Friedrich Willhelm
 von Gottes Gnaden König von Preußen p.
 Urkunden und erklären hiemit, und in Kraft dieses Un¬
 sers offenen Briefes, für Uns und Unsere Nachkommen
@@ -1487,7 +1487,7 @@ Verleihungs Urkunde für den regierenden Fürsten v. Hohenlohe Ingelfingen, zum 
 daß vorstehende Abschrift mit dem höchstvollzogenen Original vollkommen gleichlautend ist wird hierdurch attestirt. Breslau, den 28. Januar, 1798. Geheimes - Südpreußl. Archiv.
 
 Beugnitz"
-oe1bu14525,oe1bu14525-12,oe1bu14525-012,/documents/oe1bu14525/12/,12,12,,certified_copy,1803-08-29,day,signature,Gegeben [...] den 29ten August 1803.,,1803,8,29,Posen,,,1264,1393,2,1,,0,124,5,hohenlohe,"Das unter der Gerichtsbarkeit der Königl.
+oe1bu14525,oe1bu14525-12,oe1bu14525-012,/documents/oe1bu14525/12/,12,12,,certified_copy,1803-08-29,day,signature,Gegeben [...] den 29ten August 1803.,,1803,8,29,Posen,,,1264,1393,2,1,0,,0,124,5,hohenlohe,"Das unter der Gerichtsbarkeit der Königl.
 Süd- Preußl. Regierung zu Posen, und
 Posenschen Districte gelegene adliche Gut¬
 Kolno
@@ -1639,7 +1639,7 @@ Herrn Friedrich Ludwig zu Hohenlohe Ingelfingen pro informatione hierdurch erthe
 Fest. John.
 
 Hypothequen-Schein pro informatione für den gierenden Fürsten Herrn Friedrich Ludwig zu Hohenlohe Ingelfingen über das im Posenschen District gelegene Gut Kolno No 1757."
-oe1bu14525,oe1bu14525-13,oe1bu14525-013,/documents/oe1bu14525/13/,13,13,,register,1794-07-22,day,signature,1794 zum Grunde gelegt.,,1794,7,22,,,,1394,1655,4,0,,0,249,12,hohenlohe,"Taxe
+oe1bu14525,oe1bu14525-13,oe1bu14525-013,/documents/oe1bu14525/13/,13,13,,register,1794-07-22,day,signature,1794 zum Grunde gelegt.,,1794,7,22,,,,1394,1655,4,0,0,,0,249,12,hohenlohe,"Taxe
 von
 den, dem regierenden Herrn Fürsten zu Hohenlohe Ingelfingen
 Friederich Ludwig durchlaucht gehorigen in der Provinz
@@ -2147,7 +2147,7 @@ derselben folgender gestalt berechnet
 und dabey auf ausdrückliches Verlangen die Westpreußischen detaxations
 Principien d. d. Marienwerder den 22 ten July
 1794 zum Grunde gelegt."
-oe1bu14525,oe1bu14525-14,oe1bu14525-014,/documents/oe1bu14525/14/,14,14,,register,1803-02-13,day,signature,Kalisch den 13 Februar 1803,,1803,2,13,Kalisch,,,1656,1791,4,0,,0,130,5,hohenlohe,"aufgenommene Taxe in allen
+oe1bu14525,oe1bu14525-14,oe1bu14525-014,/documents/oe1bu14525/14/,14,14,,register,1803-02-13,day,signature,Kalisch den 13 Februar 1803,,1803,2,13,Kalisch,,,1656,1791,4,0,0,,0,130,5,hohenlohe,"aufgenommene Taxe in allen
 Stücken als richtig recognosciret
 welches auf dem Grunde des hier¬
 über aufgenommenen Sepa¬
@@ -2410,7 +2410,7 @@ zu stehen können.
 Kalisch den 10ten Febr. 180
 Rochlitz
 Forst Inspectoren"
-oe1bu14525,oe1bu14525-15,oe1bu14525-015,/documents/oe1bu14525/15/,15,15,,certified_copy,1802-05-01,day,signature,Gegeben Posen d: 1ten May 1802.,,1802,5,1,Posen,,,1792,1878,0,0,,0,83,3,hohenlohe,"Die unter der Gerichtsbarkeit der Königlichen
+oe1bu14525,oe1bu14525-15,oe1bu14525-015,/documents/oe1bu14525/15/,15,15,,certified_copy,1802-05-01,day,signature,Gegeben Posen d: 1ten May 1802.,,1802,5,1,Posen,,,1792,1878,0,0,0,,0,83,3,hohenlohe,"Die unter der Gerichtsbarkeit der Königlichen
 Südpreußischen Regierung zu Posen im Posenschen District
 gelegene adliche Herrschaft
 Pszczew oder Betsche
@@ -2525,7 +2525,7 @@ Hypothequen Schein.
 für den regierenden Fürsten Herrn Friedrich Ludwig zu Hohenlohe Ingelfingen über die im Posenschen District gelegene Herrschaft Pszczew oder Betsche
 
 No. 4409."
-oe1bu14525,oe1bu14525-16,oe1bu14525-016,/documents/oe1bu14525/16/,16,16,,confirmation,1802-05-01,day,signature,1802. eingetragen worden. Posen d. 1ten May 1802.,,1802,5,1,Posen,,,1879,1969,0,0,,0,86,4,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden König
+oe1bu14525,oe1bu14525-16,oe1bu14525-016,/documents/oe1bu14525/16/,16,16,,confirmation,1802-05-01,day,signature,1802. eingetragen worden. Posen d. 1ten May 1802.,,1802,5,1,Posen,,,1879,1969,0,0,0,,0,86,4,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden König
 von Preußen pp.
 Thun kund und fügen hiermit jedermänniglich beson¬
 ders wo es von nöthen ist zu wißen, daß vor Unserer
@@ -2631,7 +2631,7 @@ Signations Briefes vom 29ten März 1802. ist Titulus Possessionis für den regie
 John.
 
 Ingrossator."
-oe1bu14525,oe1bu14525-17,oe1bu14525-017,/documents/oe1bu14525/17/,17,17,,donation,1802-05-01,day,signature,"worden, Posen den 1ten May 1802.",,1802,5,1,Posen,,,1970,2174,1,0,,0,194,10,hohenlohe,"Wir Friedrich Wilhelm von Gottes
+oe1bu14525,oe1bu14525-17,oe1bu14525-017,/documents/oe1bu14525/17/,17,17,,donation,1802-05-01,day,signature,"worden, Posen den 1ten May 1802.",,1802,5,1,Posen,,,1970,2174,1,0,0,,0,194,10,hohenlohe,"Wir Friedrich Wilhelm von Gottes
 Gnaden König von Preussen etc.
 Urkunden und erklären mit die¬
 sem Unserm offenen Briefe für
@@ -2865,7 +2865,7 @@ Copia Vidimata der Schenckungs Urkunde vom 19t Juny 1797. Auf den Grund der Verl
 de dato Berlin den 19ten Juny 1797. u. 1ten Decembr. ej. a. und des Resignations - Briefes vom 29ten Maerz. 1802. ist Titulus Possessionis für den regierenden Fürsten Herrn Friedrich Ludwig zu Hohenlohe Ingelfingen auf die Herrschaft Pszczew oder Betsche in des Hypothecken Buch Vol: VII Fol. 1. laut beygehefteten Hypothecken Schein, vigore Decreti vom 29ten Martz 1802. eingetragen worden, Posen den 1ten May 1802. Fest Archivarius
 
 John Ingrossator"
-oe1bu14525,oe1bu14525-18,oe1bu14525-018,/documents/oe1bu14525/18/,18,18,,donation,1802-11-06,day,signature,Breslau den 6 ten November 1802.,,1802,11,6,Breslau,,,2175,2385,0,0,,0,199,11,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden
+oe1bu14525,oe1bu14525-18,oe1bu14525-018,/documents/oe1bu14525/18/,18,18,,donation,1802-11-06,day,signature,Breslau den 6 ten November 1802.,,1802,11,6,Breslau,,,2175,2385,0,0,0,,0,199,11,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden
 König von Preussen pp
 Urkunden underklären hiermit und
 in Kraft dieses Unsers offenen
@@ -3116,7 +3116,7 @@ Archivarius.
 John Ingrossator
 
 Die praevia Collatione vorstehenden Hypotheque Scheins de dato Posen d. 1ten May 1802. und des Resignations-Briefes de dato Posen d. 29ten Maertz 1802. mit den vorgelegten Originalien, sich ergebene Conformitaet, so wie die Authenticitaet den übrigen abschriftlich beygefügten Documente, wird hierdurch in fidem beglaubiget Breslau den 6 ten November 1802. Richter Gouvernements Auditeur"
-oe1bu14525,oe1bu14525-19,oe1bu14525-019,/documents/oe1bu14525/19/,19,19,,royal_rescript,1800-07-29,day,signature,Regierung zu Kalisch den 29ten Julii 1800.,,1800,7,29,Kalisch,,,2386,2412,1,0,,0,25,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm
+oe1bu14525,oe1bu14525-19,oe1bu14525-019,/documents/oe1bu14525/19/,19,19,,royal_rescript,1800-07-29,day,signature,Regierung zu Kalisch den 29ten Julii 1800.,,1800,7,29,Kalisch,,,2386,2412,1,0,0,,0,25,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm
 König von Preußen etc.
 Unsern gnädigen Gruß und Königl. Gnade zuvor.
 Durchlauchtigster Fürst, freundlich lieber Vetter!
@@ -3149,7 +3149,7 @@ Durchlauchtigster Fürst, freundlich lieber Vetter! da, nach der von Unsrer hies
 An des regierenden Fürsten zu Hohenlohe Ingelfingen liebden in Breslau
 
 Schleyer[?]"
-oe1bu14525,oe1bu14525-20,oe1bu14525-020,/documents/oe1bu14525/20/,20,20,,royal_rescript,1800-09-30,day,signature,1800.,,1800,9,30,Kalisch,,,2413,2432,1,0,,0,18,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen
+oe1bu14525,oe1bu14525-20,oe1bu14525-020,/documents/oe1bu14525/20/,20,20,,royal_rescript,1800-09-30,day,signature,1800.,,1800,9,30,Kalisch,,,2413,2432,1,0,0,,0,18,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen
 Unsern gnädigen Gruß zuvor. Ehrenvester Rath. Lieber Getreuer:
 Zur Berichtigung des Tituli Possessionis in Ansehung
 der Guether Drzewce, Kopojno, Swięcia und Zagórów
@@ -3171,7 +3171,7 @@ Glenk zu Breslau.","Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen Unse
 Koenigliche Süedprüsse Regierung. Meuser[?]
 
 An Den fuerstlich Hohenlohschen Bau und Oeconomie Rath Glenk zu Breslau."
-oe1bu14525,oe1bu14525-21,oe1bu14525-021,/documents/oe1bu14525/21/,21,21,,certified_copy,1804-01-25,day,signature,dd. Breslau den 25. Januar 1804 zwischen dem,,1804,1,25,Kalisch,,,2433,2645,1,0,,0,204,8,hohenlohe,"Wyciąg Urzędowy
+oe1bu14525,oe1bu14525-21,oe1bu14525-021,/documents/oe1bu14525/21/,21,21,,certified_copy,1804-01-25,day,signature,dd. Breslau den 25. Januar 1804 zwischen dem,,1804,1,25,Kalisch,,,2433,2645,1,0,0,,0,204,8,hohenlohe,"Wyciąg Urzędowy
 [Das?] in der Provinz Süd Preußen (teraz zas
 w Xiestwie Warszawskim) und deren Koni¬
 ner Kreise belegene
@@ -3421,7 +3421,7 @@ Vorstehend sub intabulirten dreimal 30,000 Rthl beisammen 90,000 Rth. ist in dem
 3., Eine protestation wegen eines Capitals von 8000 Rthl. e. Acht tausend Reichsther nebst Zinsen a 5 procent von Weinachten 1803 für die Oberhof mundschmuck Graf von Seher Thosche Erben ist auf den Antrag des Königl. Breslauschen Pupillen Collegii vom 14 Febr. 1806 in Bezug auf den Vergleich dd. Breslau den 25. Januar 1804 zwischen dem Eigenthümer den Regierenden Fürsten zu Hohenlohe Ingelfingen Friedrich Ludwig Durchlaucht und dem special Bevollmächtigten des erwähnten Grafen Seher Thoss vermöge decreti vom 4ten Mart. 1806 auf die Guter Trąbczyn, Szetlewek, Zagórów, Kopojno u. Drzewce, auch Swięcia cum attinentiis eingetragen worden. Zgodność tego Wycziągu z Księgą hypoteczną po zeszłym Rządzie pozostałą, zaświadczam ninieyszym, z tym dodaniem iż się powyższy Stan hypo teczny Dobr Zagorowa do dnia dzisieyszego w ni zym nie odmienił. Dan w Kaliszu dnia Ośmnastego Września Tysiąc Ośmset Jedenastego Roku. Konservator Hypotek Departamentu Kaliskiego
 
 Dierschlag"
-oe1bu14525,oe1bu14525-22,oe1bu14525-022,/documents/oe1bu14525/22/,22,22,,donation,1804-10-04,day,signature,1804,,1804,10,4,Trąbczyn,,,2646,2940,1,0,,0,284,10,hohenlohe,"Copia
+oe1bu14525,oe1bu14525-22,oe1bu14525-022,/documents/oe1bu14525/22/,22,22,,donation,1804-10-04,day,signature,1804,,1804,10,4,Trąbczyn,,,2646,2940,1,0,0,,0,284,10,hohenlohe,"Copia
 Wir Friedrich Wilhelm von Gottes Gnaden
 König, von Preußen pp. Markgraf
 zu Brandenbücher, des heil. Römischen
@@ -3757,7 +3757,7 @@ Daß vorstehende Abschrifften mit denen mir vorgelegte Originalien völlig über
 Trąbczyn den 4. Octobr 1804
 
 Schenck Justiz BgMgstr"
-oe1bu14525,oe1bu14525-23,oe1bu14525-023,/documents/oe1bu14525/23/,23,23,,certified_copy,1803-01-28,day,signature,Kalisch am 28ten Januar 1803.,,1803,1,28,Kalisch,,,2941,3210,6,1,,0,258,11,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden
+oe1bu14525,oe1bu14525-23,oe1bu14525-023,/documents/oe1bu14525/23/,23,23,,certified_copy,1803-01-28,day,signature,Kalisch am 28ten Januar 1803.,,1803,1,28,Kalisch,,,2941,3210,6,1,0,,0,258,11,hohenlohe,"Wir Friedrich Wilhelm von Gottes Gnaden
 König von Preußen ex
 Thun kund und fügen hiemit zu wißen
 daß von dem adlichen Guthe Szetlewek
@@ -4155,7 +4155,7 @@ Gerichtliche Ausfer[...] der Taxe von [...] lichen Guthe Szetlewek. Tets. 2 rtlr
 Cop. 2 rtlr
 
 Schlegel"
-oe1bu14525,oe1bu14525-24,oe1bu14525-024,/documents/oe1bu14525/24/,24,24,,note,1803-04-18,day,signature,vom 18ten April 1803,,1803,4,18,,,,3211,3220,6,0,,0,8,1,hohenlohe,"Supplet zu inliegender
+oe1bu14525,oe1bu14525-24,oe1bu14525-024,/documents/oe1bu14525/24/,24,24,,note,1803-04-18,day,signature,vom 18ten April 1803,,1803,4,18,,,,3211,3220,6,0,0,,0,8,1,hohenlohe,"Supplet zu inliegender
 Vormahl des v. Laski[?]
 p. s ir[?] [?]itsats Melzer
 vom 18ten April 1803
@@ -4163,7 +4163,7 @@ in Sel[?]
 oder
 weg Vater bleib des Erbpacht Contracts
 Batkowo w[?] Suipi[?]",Supplet zu inliegender Vormahl des v. Laski[?] p. s ir[?] [?]itsats Melzer vom 18ten April 1803 in Sel[?] oder weg Vater bleib des Erbpacht Contracts Batkowo w[?] Suipi[?]
-oe1bu14525,oe1bu14525-25,oe1bu14525-025,/documents/oe1bu14525/25/,25,25,,certified_copy,1803-12-08,day,signature,So geschehen Breslau d. 8. Decembr. 1803,,1803,12,8,Breslau,,,3221,3361,4,0,,0,135,5,hohenlohe,"Die unter der Gerichtsbarkeit der Königl. Südpreußl. Regierung zu Posen
+oe1bu14525,oe1bu14525-25,oe1bu14525-025,/documents/oe1bu14525/25/,25,25,,certified_copy,1803-12-08,day,signature,So geschehen Breslau d. 8. Decembr. 1803,,1803,12,8,Breslau,,,3221,3361,4,0,0,,0,135,5,hohenlohe,"Die unter der Gerichtsbarkeit der Königl. Südpreußl. Regierung zu Posen
 im Posenschen District gelegene adliche Herrschaft
 Pszczew oder Betsche
 mit folgenden Attinentien
@@ -4340,7 +4340,7 @@ Hypotheken Schein für den bau und Oeconomie Rath Johann Wilhelm Glenk über die
 daß vorstehende Abschrift mit dem mir von dem Fürstlichen Baurath Herrn Glenk communicirten Original Hypothequen Scheine völlig gleichlautende befunden worden, solche habe ich hierdurch in fidem attestiren sollen.
 
 So geschehen Breslau d. 8. Decembr. 1803 Johann Jacob Wünster Königl. Hof und Criminal auch Justiz Commissions-Rath und Notarius publ. des Boes[?] Oblig. Departements"
-oe1bu14525,oe1bu14525-26,oe1bu14525-026,/documents/oe1bu14525/26/,26,26,,royal_rescript,1803-08-04,day,signature,Posen[?] den 4ten August 1803.,,1803,8,4,Posen,,,3362,3395,2,0,,0,32,1,hohenlohe,"Posen[?] den 4ten August 1803.
+oe1bu14525,oe1bu14525-26,oe1bu14525-026,/documents/oe1bu14525/26/,26,26,,royal_rescript,1803-08-04,day,signature,Posen[?] den 4ten August 1803.,,1803,8,4,Posen,,,3362,3395,2,0,0,,0,32,1,hohenlohe,"Posen[?] den 4ten August 1803.
 von Gottes Gnaden Friedrich Wilhelm, König
 von Preussen p. p.
 Unsere Königliche Gnade und Freundschaft zuvor
@@ -4384,7 +4384,7 @@ Taxe und Siegel 1. rth: 2. gg Stempel — 6 gg Mund: 2. gg
 Insin 3 gg
 
 No. 6219."
-oe1bu14525,oe1bu14525-27,oe1bu14525-027,/documents/oe1bu14525/27/,27,27,,certified_copy,1802-02-09,day,signature,ben Posen den 9ten Februar 1802.,,1802,2,9,Posen,,,3396,3435,1,0,,0,38,1,hohenlohe,"Wir Friedrich Wilhelm Gottes Gnaden
+oe1bu14525,oe1bu14525-27,oe1bu14525-027,/documents/oe1bu14525/27/,27,27,,certified_copy,1802-02-09,day,signature,ben Posen den 9ten Februar 1802.,,1802,2,9,Posen,,,3396,3435,1,0,0,,0,38,1,hohenlohe,"Wir Friedrich Wilhelm Gottes Gnaden
 König von Preußen
 Thun kund und fügen hiermit zu wißen, daß
 die Betscher Güter Meseritzer Creises
@@ -4426,7 +4426,7 @@ und Hypotheken Acten.","Wir Friedrich Wilhelm Gottes Gnaden König von Preußen 
 Fest.
 
 Attest für den regierenden Herrn Fürsten zu Hohenlohe Ingelfingen aus den Betscher Grü[?] und Hypotheken Acten."
-oe1bu14525,oe1bu14525-28,oe1bu14525-028,/documents/oe1bu14525/28/,28,28,,certified_copy,1802-08-26,day,signature,Posen den 26ten August 1802.,,1802,8,26,Posen,,,3436,3546,0,0,,0,104,6,hohenlohe,"Das unter der Gerichtsbarkeit der
+oe1bu14525,oe1bu14525-28,oe1bu14525-028,/documents/oe1bu14525/28/,28,28,,certified_copy,1802-08-26,day,signature,Posen den 26ten August 1802.,,1802,8,26,Posen,,,3436,3546,0,0,0,,0,104,6,hohenlohe,"Das unter der Gerichtsbarkeit der
 Königl. Südpreußl. Regierung zu
 Posen im Radziejewoschen
 Kreise gelegene adliche Guth
@@ -4560,7 +4560,7 @@ Fest. John.
 (L. S.)
 
 Hypotheken schein für den regierenden Herrn Fursten zu Hohenlohe Ingelfingen über des im Radziejewoschen Kreise belegene Guth Batkowo."
-oe1bu14525,oe1bu14525-29,oe1bu14525-029,/documents/oe1bu14525/29/,29,29,,letter,1800-11-03,day,signature,1800,,1800,11,3,Breslau,,,3547,3569,0,0,,0,21,1,hohenlohe,"Copia
+oe1bu14525,oe1bu14525-29,oe1bu14525-029,/documents/oe1bu14525/29/,29,29,,letter,1800-11-03,day,signature,1800,,1800,11,3,Breslau,,,3547,3569,0,0,0,,0,21,1,hohenlohe,"Copia
 Allerdurchlauchtigster Großmächtigster König!
 allergnädigster König und Herr!
 Euer Königlichen Majestät allerhöchstem Befehl vom 18
@@ -4587,7 +4587,7 @@ Allerdurchlauchtigster Großmächtigster König! allergnädigster König und Her
 Euer Königlichen Majestät allerhöchstem Befehl vom 18 November allerunterthänigst zu folgen, nach welchem der Titulus possessionis über die Hochfürstlich Hohenlohischen Güter Kopojno, Zagórów, Drzewce, p. p. berichtiget werden soll, habe ich für die Beybringung derer Dokumente alles erforderliche gethan, und ich hoffe daß der bißher obgewaltete Anstand gehoben, und Euer Maje stäts allerhöchsten Befehle binnen 4 Wochen genauest vollzogen werden können, daher, alle ernstliche Verfügungen hiergegen aufzuhalten, ich allerunterthänigst bitte, der ich in tiefster Ehrfurcht ersterbe Euer Königlichen Majestät allerunterthänigster Johann Wilhelm Glenk fürstl. Hohenlohischen Bau u Oeconomi Rath.
 
 Breslau den 3ten Novbr 1800"
-oe1bu14525,oe1bu14525-30,oe1bu14525-030,/documents/oe1bu14525/30/,30,30,,royal_rescript,1800-11,month,signature,Kalisch. den 18t Novbr 1800,,1800,11,,Kalisch,,,3570,3597,3,0,,0,26,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König v. Preussen
+oe1bu14525,oe1bu14525-30,oe1bu14525-030,/documents/oe1bu14525/30/,30,30,,royal_rescript,1800-11,month,signature,Kalisch. den 18t Novbr 1800,,1800,11,,Kalisch,,,3570,3597,3,0,0,,0,26,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König v. Preussen
 Unsere Gnädigen Gruß zuvor Ehrenvester Lieber Ge¬
 treuer: Jn Hypothequen Sachen des Gutes Swięcia
 wird Euch hierdurch bekant gemacht, daß wenn binnen
@@ -4625,7 +4625,7 @@ Bol[?] 3 gg
 Schleyer
 
 Nro 2092"
-oe1bu14525,oe1bu14525-31,oe1bu14525-031,/documents/oe1bu14525/31/,31,31,,royal_rescript,1798-12-28,day,signature,1798.,,1798,12,28,Kalisch,,,3598,3626,1,0,,0,27,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König von
+oe1bu14525,oe1bu14525-31,oe1bu14525-031,/documents/oe1bu14525/31/,31,31,,royal_rescript,1798-12-28,day,signature,1798.,,1798,12,28,Kalisch,,,3598,3626,1,0,0,,0,27,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König von
 Preussen p. p.
 Unsern gnädigen Gruß, Königl. Gnade und alles
 was Wir sonst Liebes und Gutes vermögen, zuvor!
@@ -4664,7 +4664,7 @@ An des Fürsten v. Hohenlohe Ingelfingen
 H. A. R. Lucas Schleyer
 
 No. 3459"
-oe1bu14525,oe1bu14525-32,oe1bu14525-032,/documents/oe1bu14525/32/,32,32,,letter,1800,year,signature,Kalisch den 18.ten Martz 1800.,,1800,,,Kalisch,,,3627,3642,1,0,,0,14,1,hohenlohe,"Eine Königliche Hochlöbl. Ober Amts Regierung
+oe1bu14525,oe1bu14525-32,oe1bu14525-032,/documents/oe1bu14525/32/,32,32,,letter,1800,year,signature,Kalisch den 18.ten Martz 1800.,,1800,,,Kalisch,,,3627,3642,1,0,0,,0,14,1,hohenlohe,"Eine Königliche Hochlöbl. Ober Amts Regierung
 er[?]suchen wir hierdurch ganz ergebenst,
 den regierenden Fürsten von Hohenlohe In¬
 gelfingen, Friedrich Ludwig ad requisitionem
@@ -4680,7 +4680,7 @@ Amts Regierung
 zu Breslau.","Eine Königliche Hochlöbl. Ober Amts Regierung er[?]suchen wir hierdurch ganz ergebenst, den regierenden Fürsten von Hohenlohe Ingelfingen, Friedrich Ludwig ad requisitionem vom 24ten Septbr. a. pr. das Homagium enumehro des baldigsten beliebigst ableisten und uns die darüber aufgenommene Verhandlung gefälligst zukommen zu laßen. Kalisch den 18.ten Martz 1800. Schultz
 
 An Eine Königl. Hochlöbl. Ober Amts Regierung zu Breslau."
-oe1bu14525,oe1bu14525-33,oe1bu14525-033,/documents/oe1bu14525/33/,33,33,,letter,1802-02-10,day,signature,und Betschen zu bitten. Breslau den 10ten Febr. 1802.,,1802,2,10,Breslau,,,3643,3675,7,0,,0,31,1,hohenlohe,"An die Königl. Kammer zu Posen.
+oe1bu14525,oe1bu14525-33,oe1bu14525-033,/documents/oe1bu14525/33/,33,33,,letter,1802-02-10,day,signature,und Betschen zu bitten. Breslau den 10ten Febr. 1802.,,1802,2,10,Breslau,,,3643,3675,7,0,0,,0,31,1,hohenlohe,"An die Königl. Kammer zu Posen.
 Allerdurchl.
 Es sind schon Unterm xxx ten xxx vorigen Jahres hat schon eine
 K. Reg: zu Posen laut der anliegenden Abschrift die Berichti¬
@@ -4721,7 +4721,7 @@ E. K. M. Glenk
 An die Regierung.
 
 Unterm xxx te xxx v. J. haben E. M. laut der anbeyfolgenden laut der anliegenden Abschrifft die Berichtigung des Tit. poss von dem E. H. B. von Sr. Dr. als dermassen nothwendig und eilig abgefordert, daß fiscus gegen eine längere Saumüst[?] excitirt werden sollte, wenn nicht innerhalb eines gesetzten 14 tägigen Frist solches geschehen seyn werde, worauf des H. Fürsten zu Hohenlohe Durchl. die hierzu gefehlten Original Donations Urkunden an 6[?] Mai eingeschickt haben. So sehr nun Sr Durchl. hierbey zur eiligen Berichtigung des Tit. poss. angestrengt worden sind, so sehr angelegen p."
-oe1bu14525,oe1bu14525-34,oe1bu14525-034,/documents/oe1bu14525/34/,34,34,,royal_rescript,1802-02-22,day,signature,Gnaden gewogen. Gegeben Posen de 22. Febru 1802,,1802,2,22,Posen,,,3676,3697,0,0,,0,20,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen
+oe1bu14525,oe1bu14525-34,oe1bu14525-034,/documents/oe1bu14525/34/,34,34,,royal_rescript,1802-02-22,day,signature,Gnaden gewogen. Gegeben Posen de 22. Febru 1802,,1802,2,22,Posen,,,3676,3697,0,0,0,,0,20,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen
 Unsere gnädige Gruß zuvor, Ehrenvester Rath lieber Ge¬
 treuer! Wir lassen Euch auf Eure Vorstellung vom 13. huj.
 m. hierdurch bekannt machen, daß die Resignation der Güter
@@ -4745,7 +4745,7 @@ zu Breslau","Von Gottes Gnaden Friedrich Wilhelm Koenig von Preussen Unsere gnä
 Götz.
 
 An den Fürstl. Hohenlohschen Bau und Oeconomie Rath Glenk zu Breslau"
-oe1bu14525,oe1bu14525-35,oe1bu14525-035,/documents/oe1bu14525/35/,35,35,,royal_rescript,1802-02-20,day,signature,Posen den 20 Februar 1802,,1802,2,20,Posen,,,3698,3716,1,0,,0,17,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König von Preußen
+oe1bu14525,oe1bu14525-35,oe1bu14525-035,/documents/oe1bu14525/35/,35,35,,royal_rescript,1802-02-20,day,signature,Posen den 20 Februar 1802,,1802,2,20,Posen,,,3698,3716,1,0,0,,0,17,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm König von Preußen
 Unsern gnädigen Gruß zuvor, Ehrenvester Rath, Lieber, Getreuer
 Wir eröffnen Euch hiermit auf Euren Antrag wegen
 Resignationsleistung sämtlicher Betscher und in Cuja¬
@@ -4766,7 +4766,7 @@ zu Breslau","Von Gottes Gnaden Friedrich Wilhelm König von Preußen Unsern gnä
 Posen den 20 Februar 1802 Königl. SüdPreuß. Krieges- und Domanien Cammer Münling[?]
 
 An den Fürstlich Hohenlohischen Bau und Oekonomie Rath Hr Wilh. Glenk zu Breslau"
-oe1bu14525,oe1bu14525-36,oe1bu14525-036,/documents/oe1bu14525/36/,36,36,,letter,1802-02-13,day,signature,Betschen den 13ten Februar 1802.,,1802,2,13,Betsche,,,3717,3741,0,0,,0,23,1,hohenlohe,"Allerdurchlauchtigster Großmächtigste König¬
+oe1bu14525,oe1bu14525-36,oe1bu14525-036,/documents/oe1bu14525/36/,36,36,,letter,1802-02-13,day,signature,Betschen den 13ten Februar 1802.,,1802,2,13,Betsche,,,3717,3741,0,0,0,,0,23,1,hohenlohe,"Allerdurchlauchtigster Großmächtigste König¬
 allergnädigster König und Herr!
 Schon vor geraumer Zeit hat eine Königliche Regierung zu
 Posen die Berichtigung des Tituli possessionis von dem
@@ -4799,7 +4799,7 @@ Betschen den 13ten Februar 1802.
 allerunterthänigster
 
 J. Wilhelm Glenk Fürstl. Hohenl. Bau und Oeconomie Rath"
-oe1bu14525,oe1bu14525-37,oe1bu14525-037,/documents/oe1bu14525/37/,37,37,,royal_rescript,1801-02-09,day,signature,1801.,,1801,2,9,Posen,,,3742,3763,0,0,,0,20,1,hohenlohe,"Von Gottes Gnaden Fredrich Wilhelm König von Preussen
+oe1bu14525,oe1bu14525-37,oe1bu14525-037,/documents/oe1bu14525/37/,37,37,,royal_rescript,1801-02-09,day,signature,1801.,,1801,2,9,Posen,,,3742,3763,0,0,0,,0,20,1,hohenlohe,"Von Gottes Gnaden Fredrich Wilhelm König von Preussen
 Unsern gnädigen Gruß zuvor, Hochgelahrter Rath, lieber Getreuer.
 In den Grund und Hypotheken - Acten der Herrschaft Betsche
 erinnern und befehlen Wir Euch, der Verfügung vom 30ten October
@@ -4831,7 +4831,7 @@ Stempel 6 gg
 Mand. 2 gg
 
 Ins. 3 gg"
-oe1bu14525,oe1bu14525-38,oe1bu14525-038,/documents/oe1bu14525/38/,38,38,,letter,1802-01-25,day,signature,1802,,1802,1,25,Posen,,,3764,3800,5,0,,0,34,2,hohenlohe,"Wohlgebohrner Herr!
+oe1bu14525,oe1bu14525-38,oe1bu14525-038,/documents/oe1bu14525/38/,38,38,,letter,1802-01-25,day,signature,1802,,1802,1,25,Posen,,,3764,3800,5,0,0,,0,34,2,hohenlohe,"Wohlgebohrner Herr!
 besonders hochzuehrender Herr Bau und Oeco¬
 nomie-Rath!
 Zur Resignation der Betscher Güter ist in dem
@@ -4881,7 +4881,7 @@ Melzer.
 Verte
 
 In diesem Augenblick erhalte ich das Appellat Erkentniß in der Sache mit dem Dohm Capitel und Kruhtswitz, welche Herr Riedel in erster Instantz geführt hatte. Es ist reformator ausgefallen, u das Dohm Capitel mit seinem Ferdicus[?] abgewiesen worden. Von unser Sei strum nur also mit dem Erkentniß sehr zu frieden seyn. Ich habe[?], die anbey de[?] Erkennen so zu über schicken M[?]"
-oe1bu14525,oe1bu14525-39,oe1bu14525-039,/documents/oe1bu14525/39/,39,39,,letter,1796-07-30,day,signature,1796.,,1796,7,30,Breslau,,,3801,3852,1,0,,0,49,2,hohenlohe,"Durchlauchtigster Fürst,
+oe1bu14525,oe1bu14525-39,oe1bu14525-039,/documents/oe1bu14525/39/,39,39,,letter,1796-07-30,day,signature,1796.,,1796,7,30,Breslau,,,3801,3852,1,0,0,,0,49,2,hohenlohe,"Durchlauchtigster Fürst,
 Gnädiger Herr!
 Eur Durchlaucht haben mittelst Cabinets Ordre vom 23ten dieses
 die Stadt Kamionna, nebst dem Marktflecken Kulm in
@@ -4944,7 +4944,7 @@ Breslau den 30ten Julÿ 1796.
 [P?]ohatum concordat Originali, hoc attestor in fidem
 
 Sonnabend Auditeur des Fürst zu Hohenlohsches Inf. Regiments"
-oe1bu14525,oe1bu14525-40,oe1bu14525-040,/documents/oe1bu14525/40/,40,40,,royal_rescript,1797-10-20,day,signature,det. Sinde G. Breslau den 20. Octbr. 1797.,,1797,10,20,Breslau,,,3853,3948,0,0,,0,92,3,hohenlohe,"Copia.
+oe1bu14525,oe1bu14525-40,oe1bu14525-040,/documents/oe1bu14525/40/,40,40,,royal_rescript,1797-10-20,day,signature,det. Sinde G. Breslau den 20. Octbr. 1797.,,1797,10,20,Breslau,,,3853,3948,0,0,0,,0,92,3,hohenlohe,"Copia.
 Friedrich Wilhelm etc. Unser
 Bey der Euch befohlenen Abnahme und Uebergabe der an des Fürsten
 zu Hohenlohe Liebden verliehenen südpreußischen Güter Eures Depar¬
@@ -5044,7 +5044,7 @@ Ansprüche, welche von fremden Personen auf diese Güter gemacht worden, näher 
 gesetzt werde, die nur irgend vom Fisco rechtsgültig übertragen werden können. Auch werdet Ihr, da die Detaxations-Anschläge von sämmtlichen geistlichen Gütern bereits an Euch mit approbation remittirt worden, sehr leicht und bald die Abgaben und die Competenz Gelder bestimmen können, welche des Fürsten zu Hohenlohe liebden zu entrichten haben, und da die Unzufrieden heit der Geistlichen immermehr wächst, je länger Ihr die Festsetzung und Vorausbezahlung dieser Competenz-Gelder verzögert, so habt Ihr aufs schleune ste solche auszumitteln und Unsdavon Anzeige zu machen. Ueberhaupt habt Ihr Uns von dem berichtigten Traditions Geschäft dieser Güter, und was dabey für Anstände obgewaltet, ausführlich, und je nachdem die Güter zusammen gehören, oder separirt sind besonders zu berichten, indem wir Uns versichert halten, daß Ihr nach dieser Unserer Willens meinung alles sorgfältig verfügen, und die Domanien Einrichtungs Commission, die Uebergabe Commissarien und das officium fisci, jedes in seinem Verhältniß, zur schleunigen Erfüllung des Verfügten anhalten werdet. Sinde G. Breslau den 20. Octbr. 1797.
 
 A. S. B. sign. Gr. v. Hoym An die p Kammer zu Posen und Petrikau."
-oe1bu14525,oe1bu14525-41,oe1bu14525-041,/documents/oe1bu14525/41/,41,41,,letter,1801-01-12,day,signature,Breslau den 12ten Januar 1801.,,1801,1,12,Breslau,,,3949,4060,0,0,,0,107,4,hohenlohe,"Durchlauchtiger Fürst
+oe1bu14525,oe1bu14525-41,oe1bu14525-041,/documents/oe1bu14525/41/,41,41,,letter,1801-01-12,day,signature,Breslau den 12ten Januar 1801.,,1801,1,12,Breslau,,,3949,4060,0,0,0,,0,107,4,hohenlohe,"Durchlauchtiger Fürst
 Gnädiger Herr!
 Es ist mir außerordentlich lieb, daß Eure Durchlaucht mich durch
 Dero Geehrtestes vom gestrigen Dato, wegen dero SüdPreussi¬
@@ -5171,7 +5171,7 @@ gantz gehorsamster Diener Hoym
 Daß vorausstehende Abschrift mit dem Original durchgehends gleichlautend und übereinstimmend sich verhält solches wird hiemit in fidem pflichtmäßig attestiret.
 
 Breslau den 12ten Januar 1801. Sonnabend Auditeur des fürst zu Hohenlohschen Infant. Regiments"
-oe1bu14525,oe1bu14525-42,oe1bu14525-042,/documents/oe1bu14525/42/,42,42,,royal_rescript,1798-12-28,day,signature,den 28. Decbr: 1798.,,1798,12,28,Kalisch,,,4061,4080,1,0,,0,18,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm, König von
+oe1bu14525,oe1bu14525-42,oe1bu14525-042,/documents/oe1bu14525/42/,42,42,,royal_rescript,1798-12-28,day,signature,den 28. Decbr: 1798.,,1798,12,28,Kalisch,,,4061,4080,1,0,0,,0,18,1,hohenlohe,"Von Gottes Gnaden Friedrich Wilhelm, König von
 Preußen p. p.
 Unsere gnädigen Gruß und geneigten Willen zuvor, Hoch¬
 gebohrner Fürst, besonders Lieber Getreuer. Euer
@@ -5197,7 +5197,7 @@ Königl. Süd preußl. Regierung.
 Meuser[?]
 
 An des Fürsten von Hohenlohe Ingelfingen p. p. Lucas"
-oe1bu14525,oe1bu14525-43,oe1bu14525-043,/documents/oe1bu14525/43/,43,43,,royal_rescript,1799-02-04,day,signature,geneigten Willen zugethan Gegeben. Posen den 4ten Febr 1799,,1799,2,4,Posen,,,4081,4107,1,0,,0,25,1,hohenlohe,"Copia
+oe1bu14525,oe1bu14525-43,oe1bu14525-043,/documents/oe1bu14525/43/,43,43,,royal_rescript,1799-02-04,day,signature,geneigten Willen zugethan Gegeben. Posen den 4ten Febr 1799,,1799,2,4,Posen,,,4081,4107,1,0,0,,0,25,1,hohenlohe,"Copia
 pr. d. 9ten Januar 1799
 Von Gottes Gnaden Friedrich Wilhelm König von Preußen
 Unsere Königliche Gnade und geneigten Willen zuvor
@@ -5228,7 +5228,7 @@ pr. d. 9ten Januar 1799 Von Gottes Gnaden Friedrich Wilhelm König von Preußen 
 Enge[r?]
 
 An des Fürsten von Hohenlohe Ingelfingen Liebde"
-oe1bu14525,oe1bu14525-44,oe1bu14525-044,/documents/oe1bu14525/44/,44,44,,royal_rescript,1799-02,month,signature,1799.,,1799,2,,Posen,,,4108,4138,2,0,,0,29,1,hohenlohe,"Fol. d. 20 Febr. 1799
+oe1bu14525,oe1bu14525-44,oe1bu14525-044,/documents/oe1bu14525/44/,44,44,,royal_rescript,1799-02,month,signature,1799.,,1799,2,,Posen,,,4108,4138,2,0,0,,0,29,1,hohenlohe,"Fol. d. 20 Febr. 1799
 von Gottes Gnaden Friedrich Wilhelm Koenig
 von Preußen p. p.
 Unsere Königliche Gnade und geneigten Willen

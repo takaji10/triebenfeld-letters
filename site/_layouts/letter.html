@@ -201,9 +201,10 @@ layout: default
       </dd>
       {% endif %}
 
-      {% if page.uncertainty_count > 0 or page.has_damage %}
+      {% if page.uncertainty_count > 0 or page.has_damage or page.rough_transcription %}
       <dt>Condition</dt>
       <dd>
+        {% if page.rough_transcription %}<strong>Rough transcription.</strong> Much of this letter is still a machine reading that could not be corrected; check the scan before relying on a word.<br>{% endif %}
         {% if page.uncertainty_count > 0 %}{{ page.uncertainty_count }} uncertain reading{% if page.uncertainty_count != 1 %}s{% endif %} marked in the text.<br>{% endif %}
         {% if page.has_damage %}Contains a damaged passage where text is missing.{% endif %}
       </dd>

@@ -366,6 +366,13 @@ documents:
   # Why a sub-record exists, shown on the document.
   split_note: {}
 
+rough:
+  # Letters whose transcription is still largely an uncorrected machine
+  # reading: the letter page tells the reader to check the scan. Chosen
+  # 2026-09-28 from the share of non-words left after every correction pass
+  # and a reading of each; take a letter off when it has been re-read.
+  letters: ["17", "21", "33", "36", "38", "46", "114", "138", "161", "176", "217", "245", "296"]
+
 damage:
   # Damage is read from the text's own [...] markers. List document numbers
   # here only for damage the transcription does not mark.

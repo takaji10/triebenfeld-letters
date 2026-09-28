@@ -295,6 +295,9 @@ def load_rulings(unit):
         # document settles that, so it is authored rather than counted.
         'ESTATES':        docs.get('estates') or {},
         'DAMAGE_LETTERS': set(damage.get('letters') or []),
+        # Documents whose transcription is still largely a machine reading the
+        # corrections could not rescue; the reader is told to check the scan.
+        'ROUGH_LETTERS':  {str(x) for x in ((r.get('rough') or {}).get('letters') or [])},
     }
 
 

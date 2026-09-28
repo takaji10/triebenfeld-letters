@@ -352,6 +352,7 @@ def main():
         fm.append(f'duplicate_of: {yaml_opt(r["duplicate_of"])}')
         fm.append(f'uncertainty_count: {r["uncertainty_count"]}')
         fm.append(f'has_damage: {"true" if r["has_damage"] else "false"}')
+        fm.append(f'rough_transcription: {"true" if r.get("rough_transcription") else "false"}')
         fm.append(f'is_missing: {"true" if r["is_missing"] else "false"}')
         fm.append(f'n_lines: {r["n_lines"]}')
         # The document's own line range, numbered from 1. The layout asked

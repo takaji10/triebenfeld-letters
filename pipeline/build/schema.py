@@ -26,7 +26,7 @@ DOCUMENT_FLAT_FIELDS = [
     'parent_letter', 'doc_type', 'date_iso', 'date_precision', 'date_source',
     'date_display', 'date_inferred_from', 'year', 'month', 'day', 'place',
     'sender', 'recipient', 'line_start', 'line_end', 'uncertainty_count',
-    'has_damage', 'duplicate_of', 'is_missing', 'n_lines', 'n_pages',
+    'has_damage', 'rough_transcription', 'duplicate_of', 'is_missing', 'n_lines', 'n_pages',
     'era',
     'text', 'text_reading',
 ]

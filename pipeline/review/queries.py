@@ -131,6 +131,8 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'niedz_queries': ('Niedziewiecki', 'His own signatures, and the spelling to standardise to.'),
         'initial_queries': ('Initials I was not sure of', 'Single-letter name abbreviations I did not expand. Pick an expansion or keep as written.'),
         'pohl_queries': ('Pohlen: the unclear ones', 'Forms of Pohlen and lookalikes the sentence did not settle.'),
+        'trial_245': ('Trial reading, letter 245', 'Each row is a word where my reading of the original scan differs from the current text. Pick what the page says.'),
+        'rescan_choice': ('Pages to request from the archive', 'One row per page on the shortlist, worst first. Open the letter, look at the scan, and choose Request or Skip.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

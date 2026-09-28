@@ -195,6 +195,7 @@ def main():
             'scans': [{'page': p['page'], 'page_id': p.get('page_id', ''),
                        'image': p.get('scan', '')} for p in (r.get('pages') or [])],
             'uncertainty_count': len(marks), 'has_damage': bool(r.get('has_damage')),
+            'rough_transcription': bool(r.get('rough_transcription')),
             'mentions': len({m['entity'] for m in ms}),
             'places_named': len({m['entity'] for m in pms}),
             # Authored: what the document is about, not what it mentions.
