@@ -9,13 +9,13 @@ segments:
     good will, We have weighed in Our Royal mind the important, distinguished and useful [text lost: service]
     rendered to Us and to Our Royal House for [uncertain: several] years by the High-born Prince, Our
     kindly beloved uncle, Friderich Ludewig, reigning Prince of Hohenlohe-Ingelfingen, Our Lieutenant
-    General of Infantry, Chief of a regiment of foot, Governor of the capital city of Breslau, Knight
+    General of Infantry, Chief of a regiment of foot, Governor of the capital city of Wrocław, Knight
     of Our Orders etc., and have resolved, in order to give the said Prince a mark of the recognition
     of his excellent merits and of Our Royal gratitude, to confer and convey to the same, hereditarily
     and in full property, the hereinafter named estates fallen in to Our All-Highest disposition, namely:
-    the town of Kamionna or Kamionna, and the market township of Kulm, in the district of Posen, and the
-    village of Brzyce together with its appurtenances in Cujavia, with all their appurtenances, by whatever
-    name they may be called.'
+    the town of Kamionna or Kamionna, and the market township of Kulm, in the district of Poznań, and
+    the village of Brzyce together with its appurtenances in Cujavia, with all their appurtenances, by
+    whatever name they may be called.'
   names:
   - de: Friedrich Willhelm
     en: Friedrich Willhelm
@@ -30,7 +30,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Kamionna
     en: Kamionna
@@ -42,7 +42,7 @@ segments:
     en: Kulm
     kind: place
   - de: Posenischen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Brzyce
     en: Brzyce
@@ -94,13 +94,13 @@ segments:
 
     Deed of donation, for the Reigning Prince of Hohenlohe-Ingelfingen, to the hereditary and proprietary
     possession of the town of Kamionna or Kamionna and of the market township of Kulm, in the district
-    of Posen, of the villages of Trąbczyn, Szetlewek, Nowa wieś, Łazy, Old and New Laske, Osiny, Hauland
+    of Poznań, of the villages of Trąbczyn, Szetlewek, Nowa wieś, Łazy, Old and New Laske, Osiny, Hauland
     Trąbczyński, in the district of Konin, and of the village of Brzyce together with appurtenances in
     Cujavia.
 
 
     The verbatim agreement of the foregoing copy with the original of the All-Highest executed deed of
-    donation is hereby attested and authenticated in fidem publicam. Done at Breslau, the __th of ______
+    donation is hereby attested and authenticated in fidem publicam. Done at Wrocław, the __th of ______
     1798. Richter, Government Audit[uncertain: or]'
   names:
   - de: Friedrich Willhelm
@@ -119,7 +119,7 @@ segments:
     en: Kulm
     kind: place
   - de: Posenschen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Trąbczyn
     en: Trąbczyn
@@ -152,7 +152,7 @@ segments:
     en: Cujavia
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Richter
     en: Richter

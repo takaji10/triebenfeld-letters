@@ -279,7 +279,13 @@ def canonical_renders():
             render = (e.get('render') or e.get('display') or '').strip()
             if not render:
                 continue
-            for v in unitlib.variant_records(e):
+            forms = list(unitlib.variant_records(e))
+            # The English names a place by its Polish name (editor, 2026-09-28),
+            # so the German name the letters print is itself a form to render.
+            g = (e.get('german') or '').strip()
+            if kind == 'place' and g and g.lower() not in {v['form'].strip().lower() for v in forms}:
+                forms.append({'form': g, 'match': True, 'canon': True})
+            for v in forms:
                 form = v['form'].strip()
                 if not (v['match'] and v['canon']) or _not_a_spelling(form):
                     continue

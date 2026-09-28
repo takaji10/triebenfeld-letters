@@ -19,7 +19,7 @@ segments:
     kind: place
 - page: 2
   en: 'affectionately dear Uncle Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Our Lieutenant-General
-    of Infantry, Chief of a Regiment of Foot, Governor of the capital city of Breslau, Knight of Our Orders
+    of Infantry, Chief of a Regiment of Foot, Governor of the capital city of Wrocław, Knight of Our Orders
     etc., the important, distinguished and useful services rendered for a considerable number of years
     to Us and to Our Royal House, weighed in Our Royal mind; and that, in order to give the said Lord
     Prince a mark of the recognition of his excellent merits and of Our Royal gratitude, We have resolved
@@ -36,7 +36,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Kamionna
     en: Kamionna
@@ -48,7 +48,7 @@ segments:
     en: Kulm
     kind: place
 - page: 3
-  en: 'of the Posen district; the villages of Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske,
+  en: 'of the Poznań district; the villages of Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske,
     Osiny, Hauland Trąbczyński of the Konin district; and the village of Brzyce together with its appurtenances
     in Cujavia, with all their belongings, by whatever names they may be called.
 
@@ -59,7 +59,7 @@ segments:
     of Hohenlohe-Ingelfingen, shall have the above-named estates with all rights and jurisdictions attach-'
   names:
   - de: Posenischen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Trąbczyn
     en: Trąbczyn
@@ -157,10 +157,10 @@ segments:
 
 
     for the Prince of Hohenlohe-Ingelfingen, for the heritable and proprietary possession of the town
-    of Kamionna or Kamionna and of the market-town of Kulm in the Posen district, of the villages of Trąbczyn,
-    Szetlewek, Nowa wies, Łazy, Old and New Laske, Osiny, Hauland Trąbczyński of the Konin district, and
-    of the village of Prijce together with its belongings in Cujavia. The foregoing copy agrees with its
-    original; I attest to this in good faith, Schlegel
+    of Kamionna or Kamionna and of the market-town of Kulm in the Poznań district, of the villages of
+    Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske, Osiny, Hauland Trąbczyński of the Konin district,
+    and of the village of Prijce together with its belongings in Cujavia. The foregoing copy agrees with
+    its original; I attest to this in good faith, Schlegel
 
 
     (L. S.)'
@@ -190,7 +190,7 @@ segments:
     en: Kulm
     kind: place
   - de: Posenischen Kreises
-    en: Posen district
+    en: Poznań district
     kind: place
   - de: Trąbczyn
     en: Trąbczyn

@@ -28,7 +28,7 @@ segments:
     to Our Royal house, has not been attained altogether as We had willed it, because the said estates
     were burdened with many debts, We have most highly resolved to leave over, to grant and to convey
     to His Lordship, heritably and in full property, the hereinafter named formerly ecclesiastical estates,
-    namely the villages of Betsche, Świechocin, Stoki, Łowyń, Głażewo, Tarmowo, Zagórów, Skokum, Swiątniki,
+    namely the villages of Pszczew, Świechocin, Stoki, Łowyń, Głażewo, Tarmowo, Zagórów, Skokum, Swiątniki,
     Kopojno, Olesnica, Drzewce, Grądzyn, Wrąbczyn, Winietz and Wolica together with all their appurtenances,
     by whatever names they may be called, against payment:
 
@@ -36,7 +36,7 @@ segments:
     1.) of the sovereign dues hitherto discharged therefrom, as a fixed and unal-'
   names:
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Świechocin
     en: Świechocin
@@ -140,7 +140,7 @@ segments:
 
 
     Grant instrument for the reigning Prince of Hohenlohe-Ingelfingen for the heritable and proprietary
-    [uncertain: possession] of the villages of Betsche, Świechocin, Stoki, Łowyń, Głażewo, Tarmowo, Zagórów,
+    [uncertain: possession] of the villages of Pszczew, Świechocin, Stoki, Łowyń, Głażewo, Tarmowo, Zagórów,
     Skokum'
   names:
   - de: Berlin
@@ -159,7 +159,7 @@ segments:
     en: Prince of Hohenlohe-Ingelfingen
     kind: person
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Świechocin
     en: Świechocin
@@ -191,7 +191,7 @@ segments:
 
 
     That the foregoing copy, which has been made out for the purpose of entering thereupon the notae intabulationis
-    tituli possessionis of the lordship of Betsche for the reigning Lord Prince Friedrich Ludwig of Hohenlohe-Ingelfingen,
+    tituli possessionis of the lordship of Pszczew for the reigning Lord Prince Friedrich Ludwig of Hohenlohe-Ingelfingen,
     has upon prior collation been found in every place to agree with the original, is hereby attested
     under the customary'
   names:
@@ -220,7 +220,7 @@ segments:
     en: Wolica
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Friedrich Ludwig von Hohenlohe Ingelfingen
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
@@ -232,7 +232,7 @@ segments:
   en: 'signature and greater seal of the Royal South Prussian Government.
 
 
-    Thus done at Posen, the 31st of August 1801. von Steudener
+    Thus done at Poznań, the 31st of August 1801. von Steudener
 
 
     (L. S.)
@@ -241,7 +241,7 @@ segments:
     Certified copy of the deed of donation of 19 June 1797. Upon the ground of the grant instruments'
   names:
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: v Steudener
     en: von Steudener
@@ -254,9 +254,9 @@ segments:
 - page: 10
   en: 'dated Berlin the 19th of June 1797 and the 1st of December of the same year, and of the letter
     of resignation of the 29th of March 1802, the titulus possessionis for the reigning Prince, Lord Friedrich
-    Ludwig of Hohenlohe-Ingelfingen, over the lordship of Pszczew or Betsche has been entered in the mortgage
+    Ludwig of Hohenlohe-Ingelfingen, over the lordship of Pszczew or Pszczew has been entered in the mortgage
     book Vol. VII fol. 1, according to the annexed mortgage certificate, by force of the decree of the
-    29th of March 1802. Posen, the 1st of May 1802. Fest, Archivist
+    29th of March 1802. Poznań, the 1st of May 1802. Fest, Archivist
 
 
     John, Engrosser'
@@ -271,10 +271,10 @@ segments:
     en: Pszczew
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Fest
     en: Fest

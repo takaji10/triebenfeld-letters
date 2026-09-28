@@ -240,7 +240,7 @@ segments:
 
     General power of attorney. I, the undersigned, make known and acknowledge hereby that I do expressly
     empower the Royal Councillor of War and Forests Peter Friedrich August von Triebenfeld, Your Honour,
-    of Schweinern etc., hereby to manage, both judicially and extrajudicially, in my name all and every
+    of Świniary etc., hereby to manage, both judicially and extrajudicially, in my name all and every
     affair concerning the Zagórów, Witów and Trąbczyn estates belonging to me, situated in South Prussia
     in the Kalisz Department, whether they concern a dismemberment, or a purchase and sale, a leasing
     or a pledging, or by whatever name they may be called and upon which they may bear and have influence;'
@@ -261,7 +261,7 @@ segments:
     en: Peter Friedrich August von Triebenfeld
     kind: person
   - de: Schweinern
-    en: Schweinern
+    en: Świniary
     kind: place
   - de: SüdPreußen
     en: South Prussia
@@ -303,13 +303,13 @@ segments:
     be required for this. In witness whereof I have subscribed this general power of attorney in my own
     hand and'
 - page: 15
-  en: 'confirmed it by the impression of my arms. Thus done at the Guhewitz Court of Justice near Breslau,
+  en: 'confirmed it by the impression of my arms. Thus done at the Guhewitz Court of Justice near Wrocław,
     the 19th of February 1805. (L. S.) read by myself and approved, Friedrich Ludwig, Prince of Hohenlohe.
 
 
     That His Serene Highness the reigning Prince and Lord, well known in person to the undersigned Court
     of Justice and fully capable of disposing, General of Infantry, chief of a regiment, Governor of the
-    town and fortress of Breslau and knight of the great Black and Red Eagle Orders, Friedrich Ludwig,
+    town and fortress of Wrocław and knight of the great Black and Red Eagle Orders, Friedrich Ludwig,
     Prince of Hohenlohe-Ingelfingen, drew up before us and with our attendance, on the date given, the
     foregoing general power of attorney directed to the Royal Councillor of War and Forests von Triebenfeld,
     acknowledged himself throughout to the literal content of the same, and thereupon, after His Highness
@@ -319,13 +319,13 @@ segments:
     en: Guhewitz Court of Justice
     kind: other
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Friedrich Ludwig Fürst zu Hohenlohe
     en: Friedrich Ludwig, Prince of Hohenlohe
     kind: person
   - de: Breslaw
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Friedrich Ludwig fürsten zu Hohenlohe Ingelfingen
     en: Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
@@ -339,7 +339,7 @@ segments:
 - page: 16
   en: 'and approved it, subscribed and sealed it in our presence as his own — this is hereby attested
     testando Protocolli de hodierno in fidem publicam. Thus done at the Guhrwitz Court of Justice near
-    Breslau, the 19th of February 1805. Baronial Stillfried Luhemitz Court of Justice
+    Wrocław, the 19th of February 1805. Baronial Stillfried Luhemitz Court of Justice
 
 
     (L. S.)
@@ -363,7 +363,7 @@ segments:
     en: Guhrwitz Court of Justice
     kind: other
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: freyherrlich stillfried Luhemitzer Justitz Amt
     en: Baronial Stillfried Luhemitz Court of Justice
@@ -408,9 +408,9 @@ segments:
     namely
 
 
-    A.) the demesne farms belonging to the lordship of Zagórów, Drzewce, Kopojno, Swiątniki, Swięcia
-    and Broniki, likewise the demesne farms belonging to the lordship of Trąbczyn, Nowawies, Przybislaw,
-    Stara Hutta and a part of the demesne farm of Trąbczyn;
+    A.) the demesne farms belonging to the lordship of Zagórów, Drzewce, Kopojno, Swiątniki, Swięcia and
+    Broniki, likewise the demesne farms belonging to the lordship of Trąbczyn, Nowawies, Przybislaw, Stara
+    Hutta and a part of the demesne farm of Trąbczyn;
 
 
     B. to let out in hereditary lease the demesne farm and village of Olesnica, likewise the demesne farm
@@ -470,7 +470,7 @@ segments:
 - page: 18
   en: 'the utility of this design, and of the profitable services rendered and still to be rendered to
     Us and Our Royal House by Your Lordship the reigning Prince of Hohenlohe-Ingelfingen, Our General
-    of Infantry and Governor of Breslau, by Cabinet Orders of the
+    of Infantry and Governor of Wrocław, by Cabinet Orders of the
 
 
     22nd of October and 7th of December of last year, resolved to grant this his petition in such manner
@@ -485,7 +485,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   numbers:
   - '22'
@@ -550,8 +550,8 @@ segments:
     Koch
 
 
-    Wayda. Consent to the dismemberment of the lordships of Zagórów and Trąbczyn. That the foregoing
-    copies have been found, praevia Collatione, to agree'
+    Wayda. Consent to the dismemberment of the lordships of Zagórów and Trąbczyn. That the foregoing copies
+    have been found, praevia Collatione, to agree'
   names:
   - de: Kalisch
     en: Kalisz

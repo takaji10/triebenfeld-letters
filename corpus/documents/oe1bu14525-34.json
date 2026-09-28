@@ -119,10 +119,10 @@
   },
   {
    "entity": "",
-   "display": "Betsche",
+   "display": "Pszczew",
    "kind": "place",
    "surface_de": "Betscher",
-   "surface_en": "Betsche",
+   "surface_en": "Pszczew",
    "page": 1
   },
   {
@@ -143,10 +143,10 @@
   },
   {
    "entity": "",
-   "display": "Posen",
+   "display": "Poznań",
    "kind": "place",
    "surface_de": "Posen",
-   "surface_en": "Posen",
+   "surface_en": "Poznań",
    "page": 1
   },
   {
@@ -175,10 +175,10 @@
   },
   {
    "entity": "",
-   "display": "Breslau",
+   "display": "Wrocław",
    "kind": "place",
    "surface_de": "Breslau",
-   "surface_en": "Breslau",
+   "surface_en": "Wrocław",
    "page": 1
   }
  ],
@@ -255,7 +255,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our gracious greeting first: Worthy Councillor, dear and faithful subject! We hereby make known to you, upon your representation of the 13th of this month, that the resignation of the estates of Kolno and Kamionna has already been performed by the Treasury (Fiscus). For the resignation of the Betsche estates a term is appointed for the 22nd of March of this year. As regards the estates situate in Cujavia which have been conferred upon the reigning Prince of Hohenlohe-Ingelfingen, the resignation of the Treasury has not yet been applied for at all, and it is expected that the rectification of the title of possession of these estates be effected by an admitted judicial commissary without [uncertain: Remonern] delay. We remain graciously disposed towards you. Given at Posen, the 22nd of February 1802. Royal South Prussian Government.\n\nGötz.\n\nTo the Princely Hohenlohe Building and Economy Councillor Glenck at Breslau",
+   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our gracious greeting first: Worthy Councillor, dear and faithful subject! We hereby make known to you, upon your representation of the 13th of this month, that the resignation of the estates of Kolno and Kamionna has already been performed by the Treasury (Fiscus). For the resignation of the Pszczew estates a term is appointed for the 22nd of March of this year. As regards the estates situate in Cujavia which have been conferred upon the reigning Prince of Hohenlohe-Ingelfingen, the resignation of the Treasury has not yet been applied for at all, and it is expected that the rectification of the title of possession of these estates be effected by an admitted judicial commissary without [uncertain: Remonern] delay. We remain graciously disposed towards you. Given at Poznań, the 22nd of February 1802. Royal South Prussian Government.\n\nGötz.\n\nTo the Princely Hohenlohe Building and Economy Councillor Glenck at Wrocław",
    "names": [
     {
      "de": "Friedrich Wilhelm",
@@ -279,7 +279,7 @@
     },
     {
      "de": "Betscher",
-     "en": "Betsche",
+     "en": "Pszczew",
      "kind": "place"
     },
     {
@@ -294,7 +294,7 @@
     },
     {
      "de": "Posen",
-     "en": "Posen",
+     "en": "Poznań",
      "kind": "place"
     },
     {
@@ -314,7 +314,7 @@
     },
     {
      "de": "Breslau",
-     "en": "Breslau",
+     "en": "Wrocław",
      "kind": "place"
     }
    ],
@@ -326,7 +326,7 @@
    ]
   }
  ],
- "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our gracious greeting first: Worthy Councillor, dear and faithful subject! We hereby make known to you, upon your representation of the 13th of this month, that the resignation of the estates of Kolno and Kamionna has already been performed by the Treasury (Fiscus). For the resignation of the Betsche estates a term is appointed for the 22nd of March of this year. As regards the estates situate in Cujavia which have been conferred upon the reigning Prince of Hohenlohe-Ingelfingen, the resignation of the Treasury has not yet been applied for at all, and it is expected that the rectification of the title of possession of these estates be effected by an admitted judicial commissary without [uncertain: Remonern] delay. We remain graciously disposed towards you. Given at Posen, the 22nd of February 1802. Royal South Prussian Government.\n\nGötz.\n\nTo the Princely Hohenlohe Building and Economy Councillor Glenck at Breslau",
- "summary_en": "Replying to a representation of the 13th, the Royal South Prussian Government at Posen informs Glenck, building and economy councillor to the Prince of Hohenlohe at Breslau, of the state of the title transfers: the Treasury has already resigned Kolno and Kamionna, a term for resigning the Betsche estates is set for 22 March, while for the Cujavian estates granted to the reigning Prince of Hohenlohe-Ingelfingen no resignation has yet been sought, and the title is to be put right promptly through an approved judicial commissary.",
+ "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our gracious greeting first: Worthy Councillor, dear and faithful subject! We hereby make known to you, upon your representation of the 13th of this month, that the resignation of the estates of Kolno and Kamionna has already been performed by the Treasury (Fiscus). For the resignation of the Pszczew estates a term is appointed for the 22nd of March of this year. As regards the estates situate in Cujavia which have been conferred upon the reigning Prince of Hohenlohe-Ingelfingen, the resignation of the Treasury has not yet been applied for at all, and it is expected that the rectification of the title of possession of these estates be effected by an admitted judicial commissary without [uncertain: Remonern] delay. We remain graciously disposed towards you. Given at Poznań, the 22nd of February 1802. Royal South Prussian Government.\n\nGötz.\n\nTo the Princely Hohenlohe Building and Economy Councillor Glenck at Wrocław",
+ "summary_en": "Replying to a representation of the 13th, the Royal South Prussian Government at Poznań informs Glenck, building and economy councillor to the Prince of Hohenlohe at Wrocław, of the state of the title transfers: the Treasury has already resigned Kolno and Kamionna, a term for resigning the Pszczew estates is set for 22 March, while for the Cujavian estates granted to the reigning Prince of Hohenlohe-Ingelfingen no resignation has yet been sought, and the title is to be put right promptly through an approved judicial commissary.",
  "summary_de": "Antwort der Königlich Südpreußischen Regierung auf eine Anfrage des fürstlich hohenloheschen Bau- und Wirtschaftsrats Glenck vom 13. desselben Monats: Die Resignation des Fiscus für die Güter Kolno und Kamionna ist bereits erfolgt, für die Betscher Güter ist ein Termin auf den 22. März angesetzt. Für die in Cujavien gelegenen, dem regierenden Fürsten von Hohenlohe-Ingelfingen verliehenen Güter ist die Resignation noch nicht beantragt; die Richtigstellung des Besitztitels soll unverzüglich durch einen zugelassenen Justizkommissar bewirkt werden. Unterzeichnet Götz."
 }

@@ -11,10 +11,10 @@ segments:
     marks of Our Royal benevolence, We have weighed in Our Royal mind the important, distinguished and
     useful services rendered to Us and to Our Royal House for a considerable number of years by the high-born
     Prince, Our friendly dear uncle, Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen, Our Lieutenant
-    General of Infantry, chief of a regiment of foot, Governor of the capital city of Breslau, Knight
+    General of Infantry, chief of a regiment of foot, Governor of the capital city of Wrocław, Knight
     of Our Orders, etc., and have resolved, in order to give the said Prince a mark of the recognition
     of his excellent merits and of Our Royal gratitude, to confer and convey upon the same the hereinafter
-    named estates, namely the town of Kamionna, or Kamionna, and the market town of Kulm, in the Posen
+    named estates, namely the town of Kamionna, or Kamionna, and the market town of Kulm, in the Poznań
     district, and the village of Brzyce together with its appurtenances in Cujavia, with all their belongings,
     by whatsoever name they may be called, hereditarily and in full ownership, and'
   names:
@@ -31,7 +31,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Kamionna
     en: Kamionna
@@ -43,7 +43,7 @@ segments:
     en: Kulm
     kind: place
   - de: Posenschen Creises
-    en: Posen district
+    en: Poznań district
     kind: place
   - de: Brzyce
     en: Brzyce
@@ -90,7 +90,7 @@ segments:
 
 
     Deed of donation, for the reigning Prince of Hohenlohe-Ingelfingen, to the hereditary and proprietary
-    possession of the town of Kamionna, or Kamionna, and of the market town of Kulm in the Posen district,
+    possession of the town of Kamionna, or Kamionna, and of the market town of Kulm in the Poznań district,
     of the villages of Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske, Osiny, Hauland Trąbczyński,
     in the Konin district, and of the village of Brzyce together with appurtenances in Cujavia. That the
     foregoing copy is in complete agreement with the All-Highest executed'
@@ -114,7 +114,7 @@ segments:
     en: Kulm
     kind: place
   - de: Posenschen Creises
-    en: Posen district
+    en: Poznań district
     kind: place
   - de: Trąbczyn
     en: Trąbczyn
@@ -147,11 +147,11 @@ segments:
     en: Cujavia
     kind: place
 - page: 4
-  en: original, is herewith attested under the seal of the court, in faith thereof. Breslau, the 18th
+  en: original, is herewith attested under the seal of the court, in faith thereof. Wrocław, the 18th
     of February 1802. Sonnabend, judge advocate of the Princely Hohenlohe Infantry Regiment.
   names:
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Sonnabend
     en: Sonnabend

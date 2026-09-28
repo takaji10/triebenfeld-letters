@@ -3,16 +3,16 @@ segments:
 - page: 1
   en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia. Our gracious greeting first, honourable
     Councillor, dear and faithful subject. We hereby inform you, upon your application of the 13th of
-    this month concerning the making of the resignation of all the Betsche estates and those situated
+    this month concerning the making of the resignation of all the Pszczew estates and those situated
     in Cujavia belonging to His Serene Highness and Lordship the Prince of Hohenlohe-Ingelfingen, that
     the Chamber fiscal officer Beyer has already received the requisite instructions for this making of
     the resignation of the Treasury. We remain graciously disposed towards you.
 
 
-    Posen, the 20th February 1802. Royal South Prussian War and Domains Chamber. Münling[uncertain: Münling]
+    Poznań, the 20th February 1802. Royal South Prussian War and Domains Chamber. Münling[uncertain: Münling]
 
 
-    To the Princely Hohenlohe Building and Economy Councillor Mr Wilh. Glenck at Breslau'
+    To the Princely Hohenlohe Building and Economy Councillor Mr Wilh. Glenck at Wrocław'
   names:
   - de: Friedrich Wilhelm
     en: Friedrich Wilhelm
@@ -21,7 +21,7 @@ segments:
     en: Prussia
     kind: place
   - de: Betscher
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Cujawien
     en: Cujavia
@@ -33,7 +33,7 @@ segments:
     en: Beyer
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: SüdPreuß.
     en: South Prussian
@@ -48,7 +48,7 @@ segments:
     en: Wilh. Glenck
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   numbers:
   - '13'

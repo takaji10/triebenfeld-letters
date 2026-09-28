@@ -1079,6 +1079,8 @@ places:
   warschau:
     display: "Warszawa"
     german: "Warschau"
+    # English has its own name for the capital; the translation uses it.
+    render: "Warsaw"
     kind: city
     match: 'Warschau\w*'
     tier: "Established"

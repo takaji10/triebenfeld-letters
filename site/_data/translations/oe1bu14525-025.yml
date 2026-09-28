@@ -1,32 +1,32 @@
 status: draft
 segments:
 - page: 1
-  en: 'The noble lordship of Pszczew or Betsche, lying under the jurisdiction of the Royal South Prussian
-    Government at Posen in the Posen District, with the following appurtenances: the village of Świechocin,
+  en: 'The noble lordship of Pszczew or Pszczew, lying under the jurisdiction of the Royal South Prussian
+    Government at Poznań in the Poznań District, with the following appurtenances: the village of Świechocin,
     the village of Stoki, the village of Łowyń, the village of Głażewo, the village of Dormowo, the village
     of Stołuń, the village of Kuligowo, the village of Szarcz, the bailiwick of Zielomyśl and Silna, the
     Hollander settlements, the Pomcher Hollander settlement, and the Heidemühle: these the reigning Prince,
     the Lord Friedrich Ludwig of Hohenlohe-Ingelfingen, has received in hereditary and proprietary grant
-    as formerly ecclesiastical estates, having once belonged to the Cathedral Chapter at Posen, following
+    as formerly ecclesiastical estates, having once belonged to the Cathedral Chapter at Poznań, following
     the confiscation of all ecclesiastical estates in South Prussia, by virtue of the instruments of grant
     of His Majesty Friedrich Wilhelm the Second, dated Berlin the 19th of June 1797, and of His Majesty
     King Friedrich Wilhelm the Third, Berlin the 1st of December of the same year; and the title of possession
     for the same has been entered on the'
   names:
   - de: Königl. Südpreußl. Regierung zu Posen
-    en: Royal South Prussian Government at Posen
+    en: Royal South Prussian Government at Poznań
     kind: other
   - de: Südpreußen
     en: South Prussia
     kind: place
   - de: Posenschen District
-    en: Posen District
+    en: Poznań District
     kind: place
   - de: Pszczew
     en: Pszczew
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Świechocin
     en: Świechocin
@@ -68,7 +68,7 @@ segments:
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
     kind: person
   - de: Dom Capitel zu Posen
-    en: Cathedral Chapter at Posen
+    en: Cathedral Chapter at Poznań
     kind: other
   - de: Friedrich Wilhelm des zweiten
     en: Friedrich Wilhelm the Second
@@ -101,12 +101,12 @@ segments:
 
     3. 2470 Rthl 16 Groschen 3 Pfennig, written out two thousand four hundred and seventy Reichsthaler,
     sixteen Groschen three Pfennig, being the annual maintenance allowance accruing therefrom to the former
-    ecclesiastical possessors of these estates, payable to the War and Domains Treasury at Posen in quarterly
+    ecclesiastical possessors of these estates, payable to the War and Domains Treasury at Poznań in quarterly
     instalments in advance; which allowance, together with those 100 Rthl, 11 1/10 d, written out one
     hundred Thaler four Groschen, eleven and one tenth Pfennig, which were provisionally noted above the
     line as an allowance out of the forest revenues pending the closer ascertainment of the latter, and
     the demanding of which has been further deferred, have been entered upon the basis of the produced
-    attestation of the War and Domains Chamber at Posen of the 4th of January 1803, at the application
+    attestation of the War and Domains Chamber at Poznań of the 4th of January 1803, at the application
     of the Lord proprietor, in the place of the indeterminate allowance intabulated under No. 1 at the
     entry of his title of possession by the decree of the 29th of March 1802 and now cancelled, by virtue
     of the decree of the 17th of January 1803.
@@ -121,13 +121,13 @@ segments:
     2. 48000 Rthl, written out forty-eight thousand Thaler Courant, which the Lord'
   names:
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Krieges und Domainen Casse zu Posen
-    en: War and Domains Treasury at Posen
+    en: War and Domains Treasury at Poznań
     kind: other
   - de: Krieges und Domainen Kammer zu Posen
-    en: War and Domains Chamber at Posen
+    en: War and Domains Chamber at Poznań
     kind: other
   numbers:
   - 29ten Maerz 1802
@@ -144,7 +144,7 @@ segments:
   - '48000'
 - page: 3
   en: 'proprietor has become owing to the Building and Economy Councillor Johann Wilhelm Glenck, who stands
-    in his service, according to the judicial instrument of debt given at Breslau the 2nd of January 1803,
+    in his service, according to the judicial instrument of debt given at Wrocław the 2nd of January 1803,
     at interest of 5 per cent and with six months'' notice of termination free to both parties, likewise
     against the pledging of this lordship, save however for the Łowyń heath, for capital, interest and
     costs; and which have been entered at the Lord proprietor''s own application, presented the 15th of
@@ -153,7 +153,7 @@ segments:
 
     3. 2000 Rthl, that is two thousand Thaler in Courant, according to the coinage standard of the year
     1764, which the Lord proprietor, according to the judicially acknowledged instrument of debt of the
-    26th of April 1803, has borrowed from the merchant Abraham Moses Hirschel at Breslau, at interest
+    26th of April 1803, has borrowed from the merchant Abraham Moses Hirschel at Wrocław, at interest
     of five per cent in half-yearly instalments, with reservation of half a year''s notice of termination
     and the pledging of this lordship, on account of capital, interest, damages and costs; and which have
     been entered at the creditor''s request, presented the 14th of May 1803, by the decree of the 16th
@@ -173,7 +173,7 @@ segments:
     en: Johann Wilhelm Glenck
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Lowiner Heide
     en: Łowyń heath
@@ -201,20 +201,20 @@ segments:
   - '1764'
   - '1803'
 - page: 4
-  en: 'the Lewiner oak wood. Entered upon the basis of the judicial bond of debt given at Breslau the
-    26th of April 1803, at the application of the special authorised representative of the Lord proprietor,
+  en: 'the Łowyń oak wood. Entered upon the basis of the judicial bond of debt given at Wrocław the 26th
+    of April 1803, at the application of the special authorised representative of the Lord proprietor,
     presented the 2nd of July 1803, by virtue of the decree of the 11th of the same month and [illegible].
 
 
     5. 5000 Rthl, written out five thousand Reichsthaler Courant, according to the coinage standard of
     176, which the Lord proprietor has become owing to the widowed chief district councillor''s wife Christiane
-    Dorothea Michaelis, born Eichborn, at Breslau, at five per cent in half-yearly instalments, namely
+    Dorothea Michaelis, born Eichborn, at Wrocław, at five per cent in half-yearly instalments, namely
     payable at Midsummer and Christmas, against repayment within six years reckoned from the 26th of March
     1803, and against a right of half-yearly notice of termination standing open to the Lord debtor at
     all times but to the lady creditor within the six years only [uncertain: if] either the interest remains
     in arrears longer than a year, or if a change of possession of these estates occurs; and has, for
     security on account of the capital, the interest, damages and [uncertain: otherwise], pledged this
-    lordship. Entered upon the basis of the judicial bond of debt dated Breslau the 26th of March 1803,
+    lordship. Entered upon the basis of the judicial bond of debt dated Wrocław the 26th of March 1803,
     at the application of the special authorised representative of the Lord proprietor, presented the
     2nd of July 1803, by virtue of the decree of the 11th of the same month and year.
 
@@ -228,10 +228,10 @@ segments:
     of these estates occurring; and this lordship is pledged for capital, interest,'
   names:
   - de: Lewiner Eichenwaldes
-    en: Lewiner oak wood
+    en: Łowyń oak wood
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Christiane Dorothea Michaelis, gebohrne Eichborn
     en: Christiane Dorothea Michaelis, born Eichborn
@@ -253,15 +253,15 @@ segments:
   - '1764'
   - 26ten März 1803
 - page: 5
-  en: 'interest, damages and costs. Entered upon the basis of the judicial bond of debt dated Breslau
+  en: 'interest, damages and costs. Entered upon the basis of the judicial bond of debt dated Wrocław
     the 26th of March 1803, at the application of the special authorised representative of the Lord proprietor,
     presented the 2nd of July 1803, by virtue of the decree of the 11th of the same month and year. Apart
     from the foregoing items, nothing is entered in the mortgage book against the lordship of Pszczew
-    or Betsche; and for the rest, the present mortgage certificate is hereby granted to the Building and
+    or Pszczew; and for the rest, the present mortgage certificate is hereby granted to the Building and
     Economy Councillor Johann Wilhelm Glenck by way of acknowledgment, on account of the 5000 Rthl Courant
     entered for him under No. 6 of the judicially secured debts upon the basis of the judicial bond of
-    debt dated Breslau the 26th of March 1803. In witness whereof, under the signature appointed by the
-    Royal South Prussian Government and the greater seal. Given at Posen the 29th of August 1803. von
+    debt dated Wrocław the 26th of March 1803. In witness whereof, under the signature appointed by the
+    Royal South Prussian Government and the greater seal. Given at Poznań the 29th of August 1803. von
     Braunschweig
 
 
@@ -272,7 +272,7 @@ segments:
 
 
     Mortgage certificate for the Building and Economy Councillor Johann Wilhelm Glenck concerning the
-    lordship of Pszczew or Betsche situated in the Posen District.
+    lordship of Pszczew or Pszczew situated in the Poznań District.
 
 
     That the foregoing copy has been found entirely to agree with the original mortgage certificate communicated
@@ -280,23 +280,23 @@ segments:
     good faith.
 
 
-    So done at Breslau the 8th of December 1803. Johann Jacob Wünster, Royal Court and Criminal, also
+    So done at Wrocław the 8th of December 1803. Johann Jacob Wünster, Royal Court and Criminal, also
     Judicial Commission Councillor, and notary public of the [uncertain: Boes] Obligations Department'
   names:
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Pszczew
     en: Pszczew
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Johann Wilhelm Glenk
     en: Johann Wilhelm Glenck
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Königl. Südpreußl. Regierung
     en: Royal South Prussian Government
@@ -311,7 +311,7 @@ segments:
     en: Fest
     kind: person
   - de: Posenschen Districte
-    en: Posen District
+    en: Poznań District
     kind: place
   - de: Glenk
     en: Glenck

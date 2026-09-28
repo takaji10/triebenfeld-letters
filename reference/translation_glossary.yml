@@ -106,6 +106,13 @@ house_style: |
   The test is whether the particle points at something the person is lord of or
   simply at what they are called.
 
+  PLACES NOW IN POLAND TAKE THEIR POLISH NAME in the English (editor, 2026-09-28):
+  Breslau is Wrocław, Posen is Poznań, Zagorowo is Zagórów, Kaemen is Kamionna,
+  Peisern is Pyzdry, Betsche is Pszczew. The German text keeps the German name
+  and the CANONICAL NAMES table gives the Polish one for each; use it, with its
+  diacritics. Places outside Poland keep their usual English or German name
+  (Berlin, Vienna, Frankfurt an der Oder).
+
   P, PP, PPP (perge, perge: "and so on") have three uses, rendered differently:
 
     * after a TITLE OR FORM OF ADDRESS it stands for the rest of the titles the

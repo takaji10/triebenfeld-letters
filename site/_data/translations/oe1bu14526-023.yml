@@ -11,7 +11,7 @@ segments:
     both by their mandataries legitimated hereto ad Acta, Our councillor of justice Melzer and Your Honour
     Councillor Guderian, appeared on the 6th of February 1805, and expressly acknowledged the purchase
     contract concluded on the 16th and 25th of January ejusd. concerning the estates Kolno and Kamionna
-    situated in the Posen district, and requested that We might graciously be pleased to furnish this
+    situated in the Poznań district, and requested that We might graciously be pleased to furnish this
     purchase contract with Our most high confirmation. The same, however, runs in its true content as
     follows:'
   names:
@@ -43,7 +43,7 @@ segments:
     en: Guderian
     kind: person
   - de: Posenschen
-    en: Posen
+    en: Poznań
     kind: place
   numbers:
   - '137'
@@ -53,12 +53,12 @@ segments:
   - 25ten
 - page: 2
   en: 'Between the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen,
-    Royal General of Infantry and Governor at Breslau, and the Royal bank director at Frankfurt an der
+    Royal General of Infantry and Governor at Wrocław, and the Royal bank director at Frankfurt an der
     Oder, Mr. George Conrad Leixner, the following purchase contract has been concluded.
 
 
-    §. 1. His Most Serene Highness sells to the bank director Mr. Leixner the estates Kolno and Kaemen
-    or Kamionna, situated in South Prussia, in the Posen Department and its Meseritz district, acquired
+    §. 1. His Most Serene Highness sells to the bank director Mr. Leixner the estates Kolno and Kamionna
+    or Kamionna, situated in South Prussia, in the Poznań Department and its Międzyrzecz district, acquired
     in property by the deed of donation of His Majesty the late King Friedrich Wilhelm II of the 9th of
     August 1796, with all appurtenances, mills, residents, fields, woods, lakes, waters, services, hunting,
     propination rights, and in general with all rights and privileges, burdens and en-'
@@ -67,7 +67,7 @@ segments:
     en: Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Franckfurth an der Oder
     en: Frankfurt an der Oder
@@ -79,16 +79,16 @@ segments:
     en: South Prussia
     kind: place
   - de: Posenschen Departement
-    en: Posen Department
+    en: Poznań Department
     kind: place
   - de: Meseritzer Kreise
-    en: Meseritz district
+    en: Międzyrzecz district
     kind: place
   - de: Kolno
     en: Kolno
     kind: place
   - de: Kaemen oder Kamionna
-    en: Kaemen or Kamionna
+    en: Kamionna or Kamionna
     kind: place
   - de: Friedrich Wilhelm das IIten
     en: Friedrich Wilhelm II
@@ -140,8 +140,8 @@ segments:
     books upon Kolno and Kamionna:
 
 
-    a, a capital of 100 florins, one hundred Polish florins, for the church at Kamionna, the interest whereof
-    is fixed annually at four Polish marks.
+    a, a capital of 100 florins, one hundred Polish florins, for the church at Kamionna, the interest
+    whereof is fixed annually at four Polish marks.
 
 
     b, for the same church a capital of 250 Rthl., two hundred and fifty Reichsthaler, or 1500, fifteen
@@ -189,8 +189,8 @@ segments:
   en: 'three years.
 
 
-    b, that in public dues no more is charged upon these estates than yearly for Kamionna 153 Rthl. 22 Groschen
-    8 Pfennig, for Kolno - 125 - 21 - 2, and in ecclesiastical dues for Kamionna 16 - 16 Groschen.
+    b, that in public dues no more is charged upon these estates than yearly for Kamionna 153 Rthl. 22
+    Groschen 8 Pfennig, for Kolno - 125 - 21 - 2, and in ecclesiastical dues for Kamionna 16 - 16 Groschen.
 
 
     §. 5. The delivery in kind of the estates to the purchaser has already taken place in the month of
@@ -314,7 +314,7 @@ segments:
     seals.
 
 
-    Breslau, the 16th of January 1805. Read by myself and approved (L. S.) Friedrich Ludwig Prince of
+    Wrocław, the 16th of January 1805. Read by myself and approved (L. S.) Friedrich Ludwig Prince of
     Hohenlohe. I have read and approved this instrument.
 
 
@@ -325,7 +325,7 @@ segments:
     Prince of Hohenlohe-Ingelfingen, Royal General of Infantry'
   names:
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Friedrich Ludwig Fürst zu Hohenlohe
     en: Friedrich Ludwig, Prince of Hohenlohe
@@ -344,18 +344,18 @@ segments:
   - 16ten
   - '1805'
 - page: 12
-  en: and Governor at Breslau p., who is personally well known to me, the undersigned notary, and to the
+  en: and Governor at Wrocław p., who is personally well known to me, the undersigned notary, and to the
     witnesses, and the banker at Frankfurt an der Oder likewise personally well known to us, Mr. Meyer
     Bernhard, in the name of and subject to the ratification of the Royal bank director Mr. George Conrad
     Leixner, was agreed and concluded in the manner set out above and with our participation, and that
     this instrument, after it had been read through and approval declared, was executed by their own-hand
     signatures and appended seals, is hereby attested upon the ground of the protocol taken down thereupon.
-    Breslau, the 16th of January 1805. (L. S.) Carl Gottlob Ebersbach, Royal councillor of the justice
-    commission and notary public in the Breslau Department. (L. S.) Johann George Strebel, as witness.
+    Wrocław, the 16th of January 1805. (L. S.) Carl Gottlob Ebersbach, Royal councillor of the justice
+    commission and notary public in the Wrocław Department. (L. S.) Johann George Strebel, as witness.
     (L. S.) Johann Carl Stude, as witness.
   names:
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Franckfurth an der Oder
     en: Frankfurt an der Oder
@@ -376,7 +376,7 @@ segments:
     en: Johann Carl Stude
     kind: person
   - de: Breslauschen Departement
-    en: Breslau Department
+    en: Wrocław Department
     kind: place
   numbers:
   - 16t
@@ -385,10 +385,10 @@ segments:
   en: The foregoing purchase contract I have read myself and found drawn up in accordance with my intention.
     Frankfurt an der Oder, the 25th of January 1805. George Conrad Leixner (L. S.) That the Royal bank
     cashier Mr. Georg Conrad Leixner, personally known to me and capable of disposing, has here signed
-    the purchase contract set out before and overleaf, dated Breslau the 16th of January 1805, by the
+    the purchase contract set out before and overleaf, dated Wrocław the 16th of January 1805, by the
     content whereof His Most Serene Highness, the reigning Prince Lord Friedrich Ludwig of Hohenlohe-Ingelfingen
     p. p., has sold to Mr. Leixner the estates Kollno and Kamionna, acquired by the deed of gift of His
-    late Majesty King Friedrich Wilhelm II of the 9th of August 1796 and situated in South Prussia, Posen
+    late Majesty King Friedrich Wilhelm II of the 9th of August 1796 and situated in South Prussia, Poznań
     Department, for the sum of 142,000 Rthl., one hundred and forty-two thousand, after having himself
   names:
   - de: Franckfurth an der Oder
@@ -401,7 +401,7 @@ segments:
     en: Georg Conrad Leixner
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Friedrich Ludwig zu Hohenlohe Ingelfingen
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
@@ -413,7 +413,7 @@ segments:
     en: South Prussia
     kind: place
   - de: Posenischen Departements
-    en: Posen Department
+    en: Poznań Department
     kind: place
   - de: Kollno
     en: Kollno
@@ -445,7 +445,7 @@ segments:
     Frankfurt an der Oder.
 
 
-    Actum Posen, the 6th of February 1805. In pursuance of the ordinance of the 8th of'
+    Actum Poznań, the 6th of February 1805. In pursuance of the ordinance of the 8th of'
   names:
   - de: Franckfurth a/o.
     en: Frankfurt an der Oder
@@ -460,7 +460,7 @@ segments:
     en: Frankfurt an der Oder
     kind: place
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   numbers:
   - 6ten
@@ -470,7 +470,7 @@ segments:
   en: 'October of last year, of the 21st of January of the current year, and of the agreement made orally
     with the interested parties on that account, a term stands today for the taking down of the purchase
     contract agreed between the Prince of Hohenlohe-Ingelfingen and the bank director Leixner at Frankfurt
-    an der Oder concerning the estates Kolno and Kamionna in the Posen district. At this term there appeared
+    an der Oder concerning the estates Kolno and Kamionna in the Poznań district. At this term there appeared
 
 
     1, on the part of the vendor
@@ -502,7 +502,7 @@ segments:
     en: Kamionna
     kind: place
   - de: Posenischen Districts
-    en: Posen district
+    en: Poznań district
     kind: place
   - de: Melzer
     en: Melzer
@@ -520,9 +520,9 @@ segments:
     of last year.
 
 
-    The interested parties on both sides hand in the annexed purchase contract, dated Breslau the 16th
+    The interested parties on both sides hand in the annexed purchase contract, dated Wrocław the 16th
     of January 1805, already executed in person by both parties, furnished with the recognition dated
-    Breslau of the same day and Frankfurt an der Oder the 25th of January of the current year, with the
+    Wrocław of the same day and Frankfurt an der Oder the 25th of January of the current year, with the
     declaration that they had expressly been authorised only to declare this contract, and that consequently
     a formal taking down of the contract would be as little required as they were authorised'
   names:
@@ -530,7 +530,7 @@ segments:
     en: Guderian
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Franckfurth a/O.
     en: Frankfurt an der Oder
@@ -553,7 +553,7 @@ segments:
 
 
     In like manner the criminal-court councillor Guderian acknowledged the purchase contract handed in
-    above, dated Breslau the 16th of January 1805.'
+    above, dated Wrocław the 16th of January 1805.'
   names:
   - de: Melzer
     en: Melzer
@@ -574,7 +574,7 @@ segments:
     en: Guderian
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   numbers:
   - '9.'
@@ -585,7 +585,7 @@ segments:
   en: with the bank director Mr. Leixner at Frankfurt an der Oder concerning the estates Kollno and Kamienne
     belonging to me, and their appurtenances, for a price of 142,000 Rthl., one hundred and forty-two
     thousand Reichsthaler, to execute the instrument of purchase in my stead, thereafter also to appear
-    in my name before a Most Praiseworthy Royal Government at Posen, to convey the ownership of the said
+    in my name before a Most Praiseworthy Royal Government at Poznań, to convey the ownership of the said
     estates to the purchaser upon the effecting of the civil delivery, to request confirmation of the
     purchase and to consent to the entry of the title of possession for the purchaser, and to give him
     receipt for the fully paid one hundred and forty-two thousand Reichsthaler of purchase money, and
@@ -604,7 +604,7 @@ segments:
     en: Kamienne
     kind: place
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: von Triebenfeld
     en: von Triebenfeld
@@ -616,12 +616,12 @@ segments:
     may be cancelled.
 
 
-    Breslau, the 5th of September 1804. Read by myself and approved. (L. S.) Friedrich Ludwig Prince of
+    Wrocław, the 5th of September 1804. Read by myself and approved. (L. S.) Friedrich Ludwig Prince of
     Hohenlohe. That the Most Serene Prince and Lord, Lord Friedrich Ludwig, reigning Prince of Hohenlohe-Ingelfingen,
-    Royal General of Infantry and Governor at Breslau, appeared in person under today''s date before the
+    Royal General of Infantry and Governor at Wrocław, appeared in person under today''s date before the
     von Stechow-Arnoldsmühl Court Office and executed the foregoing power of attorney, after it had been
     read through and approval declared, by his own-hand signature and appended seal, is hereby attested
-    upon the ground of the protocol taken down thereupon. Breslau, the 5th of September 1804. The von
+    upon the ground of the protocol taken down thereupon. Wrocław, the 5th of September 1804. The von
     Stechow-Arnoldsmühl Court Office. (L. S.)
 
 
@@ -640,7 +640,7 @@ segments:
     en: von Triebenfeld
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Friedrich Ludwig Fürst zu Hohenlohe
     en: Friedrich Ludwig, Prince of Hohenlohe
@@ -662,10 +662,10 @@ segments:
   - '1804'
 - page: 20
   en: Special power of attorney. I the undersigned do make known and acknowledge hereby that I hereby
-    expressly empower the criminal-court councillor Mr. Guderian at Posen to recognise judicially in my
-    name the purchase contract concluded between the authorised representative of His Serene Highness
+    expressly empower the criminal-court councillor Mr. Guderian at Poznań to recognise judicially in
+    my name the purchase contract concluded between the authorised representative of His Serene Highness
     the reigning Prince of Hohenlohe-Ingelfingen, the building councillor Mr. Glenck, and myself, concerning
-    the estates Kolno and Kamionna in the Posen Department, dated Frankfurt an der Oder the 15th of June
+    the estates Kolno and Kamionna in the Poznań Department, dated Frankfurt an der Oder the 15th of June
     1804; to accept the declaration of His Serene Highness that the purchase moneys of the 142,000 Rthl.,
     write one hundred and forty-two thousand Rthl., have been paid, and that consequently the §§ which
     speak of the payment of this purchase money are to be regarded as disposed of; also to hold §. 12,
@@ -677,7 +677,7 @@ segments:
     en: Guderian
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
@@ -692,7 +692,7 @@ segments:
     en: Kamionna
     kind: place
   - de: Posenschen Departements
-    en: Posen Department
+    en: Poznań Department
     kind: place
   - de: Franckfurth a/O.
     en: Frankfurt an der Oder
@@ -723,7 +723,7 @@ segments:
     today, it is hereby attested that the Royal bank cashier Mr. Georg Conrad Leixner, well known to me
     in person and capable of disposing, here read through himself, approved, and, as stands above, signed
     and sealed with his own hand in my presence the foregoing special power of attorney, filled out upon
-    his application and inquiry, wherein he authorises the criminal-court councillor Mr. Guderian at Posen
+    his application and inquiry, wherein he authorises the criminal-court councillor Mr. Guderian at Poznań
     to recognise the purchase contract concluded between himself and His Most Serene Highness of Hohenlohe-Ingelfingen,
 
 
@@ -742,7 +742,7 @@ segments:
     en: Guderian
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
@@ -763,13 +763,13 @@ segments:
 
 
     It is true that I have already, under the 21st of September 1804, authorised the criminal-court councillor
-    and justice commissarius Mr. Guderian at Posen by a judicial special power of attorney to recognise
+    and justice commissarius Mr. Guderian at Poznań by a judicial special power of attorney to recognise
     judicially in my name the purchase contract concluded between the authorised representative of His
     Serene Highness the reigning Prince and Lord of Hohenlohe-Ingelfingen, the building councillor Glencke,
     and myself, concerning the estates Kolno and Kamionna, dated Frankfurt an der Oder the 15th of June
     1804, to accept the declaration of His Serene Highness that the stipulated moneys of the one hundred
     and forty-two thousand thaler Courant have been paid, and so forth. But since afterwards, for moving
-    reasons, a new purchase contract was concluded between His Serene Highness and myself, dated Breslau
+    reasons, a new purchase contract was concluded between His Serene Highness and myself, dated Wrocław
     the 16th of January 1805 and Frankfurt an der Oder the 25th of January 1805, concerning the said estates,
     and the same has been judicially executed both by the Serene Highness of the vendor and by myself,
     and since the criminal-court councillor Guderian reports to me that the Royal Most Praiseworthy South
@@ -788,7 +788,7 @@ segments:
     en: Guderian
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
@@ -803,7 +803,7 @@ segments:
     en: Kamionna
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Südpreußl.
     en: South Prussian
@@ -824,7 +824,7 @@ segments:
   en: 'Government does not hold him legitimated by the power of attorney cited above, because it speaks
     of an earlier contract, I will hereby and by force of this extend the power of attorney already issued
     to Mr. Guderian to this effect: that he shall be entitled, upon the ground of the purchase contract
-    already judicially declared by me, dated Breslau the 16th and Frankfurt the 25th of January 1805,
+    already judicially declared by me, dated Wrocław the 16th and Frankfurt the 25th of January 1805,
     to apply for the entry of the title of possession in my name, to accept the resignationem bonorum,
     and in this business of purchase and sale to do everything in my name that I would do were I myself
     present; consequently, should it be needful, which however I do not believe, to recognise the purchase
@@ -844,7 +844,7 @@ segments:
     en: Guderian
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Franckfurth
     en: Frankfurt
@@ -868,7 +868,7 @@ segments:
   - '1805'
 - page: 25
   en: 'and extension of the special power of attorney previously issued to the criminal-court councillor
-    Mr. Guderian at Posen, concerning the entry of the title of possession of the South Prussian estates
+    Mr. Guderian at Poznań, concerning the entry of the title of possession of the South Prussian estates
     Kolno and Kamen in his, Mr. Leixner''s, name, after reading it through and approving it himself, signed
     and sealed with his own hand in my presence - this I hereby testify upon the ground of the protocol
     held in that behalf under today''s date. So done at Frankfurt an der Oder, the 8th of March 1805.
@@ -892,7 +892,7 @@ segments:
     en: Guderian
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Südpreußl.
     en: South Prussian
@@ -917,10 +917,10 @@ segments:
   - '1805'
 - page: 26
   en: 'and duties, and otherwise without prejudice to every man. In witness whereof under the usual signature
-    and greater seal of Our South Prussian Government here. Given at Posen, the 18th of March 1805. Confirmation
+    and greater seal of Our South Prussian Government here. Given at Poznań, the 18th of March 1805. Confirmation
     of the purchase contract concluded between the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen,
     as vendor, and the bank cashier George Conrad Leixner, as purchaser, concerning the estates Kolno
-    and Kamionna situated in the Posen district. Fee: 2 Rthl. 2 Groschen.
+    and Kamionna situated in the Poznań district. Fee: 2 Rthl. 2 Groschen.
 
 
     Stamp: 6 Groschen.
@@ -935,7 +935,7 @@ segments:
     No: 2244.'
   names:
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Friedrich Ludwig zu Hohenlohe-Ingelfingen
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
@@ -950,7 +950,7 @@ segments:
     en: Kamionna
     kind: place
   - de: Posenschen district
-    en: Posen district
+    en: Poznań district
     kind: place
   - de: Südpreuß. Regierung
     en: South Prussian Government

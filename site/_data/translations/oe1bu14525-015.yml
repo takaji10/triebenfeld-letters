@@ -1,8 +1,8 @@
 status: draft
 segments:
 - page: 1
-  en: 'The noble lordship of Pszczew or Betsche, situated under the jurisdiction of the Royal South Prussian
-    Government at Posen in the Posen District, with the following appurtenances:
+  en: 'The noble lordship of Pszczew or Pszczew, situated under the jurisdiction of the Royal South Prussian
+    Government at Poznań in the Poznań District, with the following appurtenances:
 
 
     the village of Świechocin, the village of Stoki.
@@ -14,7 +14,7 @@ segments:
 
 
     The reigning Prince, Friedrich Ludwig of Hohenlohe-Ingelfingen, has received these as estates formerly
-    ecclesiastical and belonging to the Cathedral Chapter at Posen, granted to him in hereditary freehold
+    ecclesiastical and belonging to the Cathedral Chapter at Poznań, granted to him in hereditary freehold
     ownership following the confiscation of all the ecclesiastical estates in South Prussia, by virtue
     of the deeds of grant of His Majesty King Friedrich Wilhelm the Second, dated Berlin the 19th of June
     1797, and of His Majesty King Friedrich Wilhelm the Third, dated Berlin the 1st of December of the
@@ -23,16 +23,16 @@ segments:
     20th of March 1802.'
   names:
   - de: Königlichen Südpreußischen Regierung zu Posen
-    en: Royal South Prussian Government at Posen
+    en: Royal South Prussian Government at Poznań
     kind: other
   - de: Posenschen District
-    en: Posen District
+    en: Poznań District
     kind: place
   - de: Pszczew
     en: Pszczew
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Świechocin
     en: Świechocin
@@ -74,7 +74,7 @@ segments:
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
     kind: person
   - de: Dohm-Capitel zu Posen
-    en: Cathedral Chapter at Posen
+    en: Cathedral Chapter at Poznań
     kind: other
   - de: Südpreußen
     en: South Prussia
@@ -104,7 +104,7 @@ segments:
 
 
     1.) The annual competence payable out of these estates by their former ecclesiastical possessors to
-    the War and Domains Treasury at Posen, which, since no determinate amount has been stated and certified,
+    the War and Domains Treasury at Poznań, which, since no determinate amount has been stated and certified,
     has been entered for an indeterminate sum upon the ground of the deeds of grant for the reigning Prince
     Friedrich Ludwig of Hohenlohe-Ingelfingen, dated Berlin the 19th of June 1797 and dated Berlin the
     1st of December of the same year, at the entry of the Titulus Possessionis in his name, ex officio
@@ -128,7 +128,7 @@ segments:
     Besides the foregoing items, there is entered against the'
   names:
   - de: Krieges und Domainen Casse zu Posen
-    en: War and Domains Treasury at Posen
+    en: War and Domains Treasury at Poznań
     kind: other
   - de: Friedrich Ludwig zu Hohenlohe Ingelfingen
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
@@ -154,10 +154,10 @@ segments:
   - 29ten
   - '1802'
 - page: 3
-  en: 'lordship of Pszczew or Betsche nothing in the mortgage book; and the present mortgage certificate
+  en: 'lordship of Pszczew or Pszczew nothing in the mortgage book; and the present mortgage certificate
     is hereby granted to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in vim recognitionis
     on account of the Titulus Possessionis entered for him. In witness whereof, under the signature appointed
-    for Our Royal South Prussian Government here and under the greater seal. Given at Posen the 1st of
+    for Our Royal South Prussian Government here and under the greater seal. Given at Poznań the 1st of
     May 1802. Diederich
 
 
@@ -171,7 +171,7 @@ segments:
 
 
     for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, concerning the lordship of Pszczew
-    or Betsche situated in the Posen District
+    or Pszczew situated in the Poznań District
 
 
     No. 4409.'
@@ -180,7 +180,7 @@ segments:
     en: Pszczew
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Friedrich Ludwig zu Hohenlohe Ingelfingen
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
@@ -189,7 +189,7 @@ segments:
     en: Royal South Prussian Government
     kind: other
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Diederich
     en: Diederich
@@ -201,7 +201,7 @@ segments:
     en: John
     kind: person
   - de: Posenschen District
-    en: Posen District
+    en: Poznań District
     kind: place
   numbers:
   - 1ten

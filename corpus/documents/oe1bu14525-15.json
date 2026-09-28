@@ -187,18 +187,18 @@
  "mentions_english": [
   {
    "entity": "",
-   "display": "Royal South Prussian Government at Posen",
+   "display": "Royal South Prussian Government at Poznań",
    "kind": "other",
    "surface_de": "Königlichen Südpreußischen Regierung zu Posen",
-   "surface_en": "Royal South Prussian Government at Posen",
+   "surface_en": "Royal South Prussian Government at Poznań",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Posen District",
+   "display": "Poznań District",
    "kind": "place",
    "surface_de": "Posenschen District",
-   "surface_en": "Posen District",
+   "surface_en": "Poznań District",
    "page": 1
   },
   {
@@ -211,10 +211,10 @@
   },
   {
    "entity": "",
-   "display": "Betsche",
+   "display": "Pszczew",
    "kind": "place",
    "surface_de": "Betsche",
-   "surface_en": "Betsche",
+   "surface_en": "Pszczew",
    "page": 1
   },
   {
@@ -323,10 +323,10 @@
   },
   {
    "entity": "",
-   "display": "Cathedral Chapter at Posen",
+   "display": "Cathedral Chapter at Poznań",
    "kind": "other",
    "surface_de": "Dohm-Capitel zu Posen",
-   "surface_en": "Cathedral Chapter at Posen",
+   "surface_en": "Cathedral Chapter at Poznań",
    "page": 1
   },
   {
@@ -363,10 +363,10 @@
   },
   {
    "entity": "",
-   "display": "War and Domains Treasury at Posen",
+   "display": "War and Domains Treasury at Poznań",
    "kind": "other",
    "surface_de": "Krieges und Domainen Casse zu Posen",
-   "surface_en": "War and Domains Treasury at Posen",
+   "surface_en": "War and Domains Treasury at Poznań",
    "page": 2
   },
   {
@@ -419,10 +419,10 @@
   },
   {
    "entity": "",
-   "display": "Betsche",
+   "display": "Pszczew",
    "kind": "place",
    "surface_de": "Betsche",
-   "surface_en": "Betsche",
+   "surface_en": "Pszczew",
    "page": 3
   },
   {
@@ -443,10 +443,10 @@
   },
   {
    "entity": "",
-   "display": "Posen",
+   "display": "Poznań",
    "kind": "place",
    "surface_de": "Posen",
-   "surface_en": "Posen",
+   "surface_en": "Poznań",
    "page": 3
   },
   {
@@ -475,10 +475,10 @@
   },
   {
    "entity": "",
-   "display": "Posen District",
+   "display": "Poznań District",
    "kind": "place",
    "surface_de": "Posenschen District",
-   "surface_en": "Posen District",
+   "surface_en": "Poznań District",
    "page": 3
   }
  ],
@@ -819,16 +819,16 @@
  "translation": [
   {
    "page": 1,
-   "en": "The noble lordship of Pszczew or Betsche, situated under the jurisdiction of the Royal South Prussian Government at Posen in the Posen District, with the following appurtenances:\n\nthe village of Świechocin, the village of Stoki.\n\nthe village of Łowyń, the village of Głażewo, the village of Dormowo, the village of Stołuń, the village of Kuligowo, the village of Szarcz, the bailiwick of Zielomyśl and Silna, the Hollander settlements, the Tomecher Hollander settlement, and the Heydemühle.\n\nThe reigning Prince, Friedrich Ludwig of Hohenlohe-Ingelfingen, has received these as estates formerly ecclesiastical and belonging to the Cathedral Chapter at Posen, granted to him in hereditary freehold ownership following the confiscation of all the ecclesiastical estates in South Prussia, by virtue of the deeds of grant of His Majesty King Friedrich Wilhelm the Second, dated Berlin the 19th of June 1797, and of His Majesty King Friedrich Wilhelm the Third, dated Berlin the 1st of December of the same year; and the Titulus Possessionis has been entered for him upon the ground of these deeds of grant and of the deed of resignation issued on the 29th of March 1802, by force of the Decree of the 20th of March 1802.",
+   "en": "The noble lordship of Pszczew or Pszczew, situated under the jurisdiction of the Royal South Prussian Government at Poznań in the Poznań District, with the following appurtenances:\n\nthe village of Świechocin, the village of Stoki.\n\nthe village of Łowyń, the village of Głażewo, the village of Dormowo, the village of Stołuń, the village of Kuligowo, the village of Szarcz, the bailiwick of Zielomyśl and Silna, the Hollander settlements, the Tomecher Hollander settlement, and the Heydemühle.\n\nThe reigning Prince, Friedrich Ludwig of Hohenlohe-Ingelfingen, has received these as estates formerly ecclesiastical and belonging to the Cathedral Chapter at Poznań, granted to him in hereditary freehold ownership following the confiscation of all the ecclesiastical estates in South Prussia, by virtue of the deeds of grant of His Majesty King Friedrich Wilhelm the Second, dated Berlin the 19th of June 1797, and of His Majesty King Friedrich Wilhelm the Third, dated Berlin the 1st of December of the same year; and the Titulus Possessionis has been entered for him upon the ground of these deeds of grant and of the deed of resignation issued on the 29th of March 1802, by force of the Decree of the 20th of March 1802.",
    "names": [
     {
      "de": "Königlichen Südpreußischen Regierung zu Posen",
-     "en": "Royal South Prussian Government at Posen",
+     "en": "Royal South Prussian Government at Poznań",
      "kind": "other"
     },
     {
      "de": "Posenschen District",
-     "en": "Posen District",
+     "en": "Poznań District",
      "kind": "place"
     },
     {
@@ -838,7 +838,7 @@
     },
     {
      "de": "Betsche",
-     "en": "Betsche",
+     "en": "Pszczew",
      "kind": "place"
     },
     {
@@ -908,7 +908,7 @@
     },
     {
      "de": "Dohm-Capitel zu Posen",
-     "en": "Cathedral Chapter at Posen",
+     "en": "Cathedral Chapter at Poznań",
      "kind": "other"
     },
     {
@@ -944,11 +944,11 @@
   },
   {
    "page": 2,
-   "en": "Entered thereupon are\n\nI. Perpetual burdens (Onera perpetua) and restrictions upon the ownership or the disposition\n\n1.) The annual competence payable out of these estates by their former ecclesiastical possessors to the War and Domains Treasury at Posen, which, since no determinate amount has been stated and certified, has been entered for an indeterminate sum upon the ground of the deeds of grant for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, dated Berlin the 19th of June 1797 and dated Berlin the 1st of December of the same year, at the entry of the Titulus Possessionis in his name, ex officio by force of the Decree of the 29th of March 1802.\n\n2. The sovereign prohibition that the estates in South Prussia which, having been confiscated from the clergy, have again been granted out under noble tenure may not be alienated to natives of the former Poland without the supreme Royal consent; which prohibition has been entered against these formerly ecclesiastical estates at the entry of the Titulus Possessionis in the name of the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, ex officio by force of the Decree of the 29th of March 1802.\n\nII. Judicially secured debts and other real obligations.\n\nare not entered.\n\nBesides the foregoing items, there is entered against the",
+   "en": "Entered thereupon are\n\nI. Perpetual burdens (Onera perpetua) and restrictions upon the ownership or the disposition\n\n1.) The annual competence payable out of these estates by their former ecclesiastical possessors to the War and Domains Treasury at Poznań, which, since no determinate amount has been stated and certified, has been entered for an indeterminate sum upon the ground of the deeds of grant for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, dated Berlin the 19th of June 1797 and dated Berlin the 1st of December of the same year, at the entry of the Titulus Possessionis in his name, ex officio by force of the Decree of the 29th of March 1802.\n\n2. The sovereign prohibition that the estates in South Prussia which, having been confiscated from the clergy, have again been granted out under noble tenure may not be alienated to natives of the former Poland without the supreme Royal consent; which prohibition has been entered against these formerly ecclesiastical estates at the entry of the Titulus Possessionis in the name of the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, ex officio by force of the Decree of the 29th of March 1802.\n\nII. Judicially secured debts and other real obligations.\n\nare not entered.\n\nBesides the foregoing items, there is entered against the",
    "names": [
     {
      "de": "Krieges und Domainen Casse zu Posen",
-     "en": "War and Domains Treasury at Posen",
+     "en": "War and Domains Treasury at Poznań",
      "kind": "other"
     },
     {
@@ -989,7 +989,7 @@
   },
   {
    "page": 3,
-   "en": "lordship of Pszczew or Betsche nothing in the mortgage book; and the present mortgage certificate is hereby granted to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in vim recognitionis on account of the Titulus Possessionis entered for him. In witness whereof, under the signature appointed for Our Royal South Prussian Government here and under the greater seal. Given at Posen the 1st of May 1802. Diederich\n\nv. Steudener (L. S.)\n\nJohn.\n\nMortgage certificate.\n\nfor the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, concerning the lordship of Pszczew or Betsche situated in the Posen District\n\nNo. 4409.",
+   "en": "lordship of Pszczew or Pszczew nothing in the mortgage book; and the present mortgage certificate is hereby granted to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in vim recognitionis on account of the Titulus Possessionis entered for him. In witness whereof, under the signature appointed for Our Royal South Prussian Government here and under the greater seal. Given at Poznań the 1st of May 1802. Diederich\n\nv. Steudener (L. S.)\n\nJohn.\n\nMortgage certificate.\n\nfor the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, concerning the lordship of Pszczew or Pszczew situated in the Poznań District\n\nNo. 4409.",
    "names": [
     {
      "de": "Pszczew",
@@ -998,7 +998,7 @@
     },
     {
      "de": "Betsche",
-     "en": "Betsche",
+     "en": "Pszczew",
      "kind": "place"
     },
     {
@@ -1013,7 +1013,7 @@
     },
     {
      "de": "Posen",
-     "en": "Posen",
+     "en": "Poznań",
      "kind": "place"
     },
     {
@@ -1033,7 +1033,7 @@
     },
     {
      "de": "Posenschen District",
-     "en": "Posen District",
+     "en": "Poznań District",
      "kind": "place"
     }
    ],
@@ -1044,7 +1044,7 @@
    ]
   }
  ],
- "text_english": "The noble lordship of Pszczew or Betsche, situated under the jurisdiction of the Royal South Prussian Government at Posen in the Posen District, with the following appurtenances:\n\nthe village of Świechocin, the village of Stoki.\n\nthe village of Łowyń, the village of Głażewo, the village of Dormowo, the village of Stołuń, the village of Kuligowo, the village of Szarcz, the bailiwick of Zielomyśl and Silna, the Hollander settlements, the Tomecher Hollander settlement, and the Heydemühle.\n\nThe reigning Prince, Friedrich Ludwig of Hohenlohe-Ingelfingen, has received these as estates formerly ecclesiastical and belonging to the Cathedral Chapter at Posen, granted to him in hereditary freehold ownership following the confiscation of all the ecclesiastical estates in South Prussia, by virtue of the deeds of grant of His Majesty King Friedrich Wilhelm the Second, dated Berlin the 19th of June 1797, and of His Majesty King Friedrich Wilhelm the Third, dated Berlin the 1st of December of the same year; and the Titulus Possessionis has been entered for him upon the ground of these deeds of grant and of the deed of resignation issued on the 29th of March 1802, by force of the Decree of the 20th of March 1802.\n\nEntered thereupon are\n\nI. Perpetual burdens (Onera perpetua) and restrictions upon the ownership or the disposition\n\n1.) The annual competence payable out of these estates by their former ecclesiastical possessors to the War and Domains Treasury at Posen, which, since no determinate amount has been stated and certified, has been entered for an indeterminate sum upon the ground of the deeds of grant for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, dated Berlin the 19th of June 1797 and dated Berlin the 1st of December of the same year, at the entry of the Titulus Possessionis in his name, ex officio by force of the Decree of the 29th of March 1802.\n\n2. The sovereign prohibition that the estates in South Prussia which, having been confiscated from the clergy, have again been granted out under noble tenure may not be alienated to natives of the former Poland without the supreme Royal consent; which prohibition has been entered against these formerly ecclesiastical estates at the entry of the Titulus Possessionis in the name of the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, ex officio by force of the Decree of the 29th of March 1802.\n\nII. Judicially secured debts and other real obligations.\n\nare not entered.\n\nBesides the foregoing items, there is entered against the\n\nlordship of Pszczew or Betsche nothing in the mortgage book; and the present mortgage certificate is hereby granted to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in vim recognitionis on account of the Titulus Possessionis entered for him. In witness whereof, under the signature appointed for Our Royal South Prussian Government here and under the greater seal. Given at Posen the 1st of May 1802. Diederich\n\nv. Steudener (L. S.)\n\nJohn.\n\nMortgage certificate.\n\nfor the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, concerning the lordship of Pszczew or Betsche situated in the Posen District\n\nNo. 4409.",
- "summary_en": "A mortgage certificate issued by the Royal South Prussian Government at Posen registering the Prince of Hohenlohe-Ingelfingen's title to the lordship of Pszczew or Betsche with its villages, from Świechocin and Łowyń to Szarcz, the bailiwick of Zielomyśl and Silna, the Hauländer settlements and the Heydemühle, formerly Cathedral Chapter property. No debts are recorded, only two permanent burdens: an unquantified annual payment to the War and Domains Treasury, and a ban on selling to former Polish subjects without royal consent.",
+ "text_english": "The noble lordship of Pszczew or Pszczew, situated under the jurisdiction of the Royal South Prussian Government at Poznań in the Poznań District, with the following appurtenances:\n\nthe village of Świechocin, the village of Stoki.\n\nthe village of Łowyń, the village of Głażewo, the village of Dormowo, the village of Stołuń, the village of Kuligowo, the village of Szarcz, the bailiwick of Zielomyśl and Silna, the Hollander settlements, the Tomecher Hollander settlement, and the Heydemühle.\n\nThe reigning Prince, Friedrich Ludwig of Hohenlohe-Ingelfingen, has received these as estates formerly ecclesiastical and belonging to the Cathedral Chapter at Poznań, granted to him in hereditary freehold ownership following the confiscation of all the ecclesiastical estates in South Prussia, by virtue of the deeds of grant of His Majesty King Friedrich Wilhelm the Second, dated Berlin the 19th of June 1797, and of His Majesty King Friedrich Wilhelm the Third, dated Berlin the 1st of December of the same year; and the Titulus Possessionis has been entered for him upon the ground of these deeds of grant and of the deed of resignation issued on the 29th of March 1802, by force of the Decree of the 20th of March 1802.\n\nEntered thereupon are\n\nI. Perpetual burdens (Onera perpetua) and restrictions upon the ownership or the disposition\n\n1.) The annual competence payable out of these estates by their former ecclesiastical possessors to the War and Domains Treasury at Poznań, which, since no determinate amount has been stated and certified, has been entered for an indeterminate sum upon the ground of the deeds of grant for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, dated Berlin the 19th of June 1797 and dated Berlin the 1st of December of the same year, at the entry of the Titulus Possessionis in his name, ex officio by force of the Decree of the 29th of March 1802.\n\n2. The sovereign prohibition that the estates in South Prussia which, having been confiscated from the clergy, have again been granted out under noble tenure may not be alienated to natives of the former Poland without the supreme Royal consent; which prohibition has been entered against these formerly ecclesiastical estates at the entry of the Titulus Possessionis in the name of the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, ex officio by force of the Decree of the 29th of March 1802.\n\nII. Judicially secured debts and other real obligations.\n\nare not entered.\n\nBesides the foregoing items, there is entered against the\n\nlordship of Pszczew or Pszczew nothing in the mortgage book; and the present mortgage certificate is hereby granted to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in vim recognitionis on account of the Titulus Possessionis entered for him. In witness whereof, under the signature appointed for Our Royal South Prussian Government here and under the greater seal. Given at Poznań the 1st of May 1802. Diederich\n\nv. Steudener (L. S.)\n\nJohn.\n\nMortgage certificate.\n\nfor the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, concerning the lordship of Pszczew or Pszczew situated in the Poznań District\n\nNo. 4409.",
+ "summary_en": "A mortgage certificate issued by the Royal South Prussian Government at Poznań registering the Prince of Hohenlohe-Ingelfingen's title to the lordship of Pszczew or Pszczew with its villages, from Świechocin and Łowyń to Szarcz, the bailiwick of Zielomyśl and Silna, the Hauländer settlements and the Heydemühle, formerly Cathedral Chapter property. No debts are recorded, only two permanent burdens: an unquantified annual payment to the War and Domains Treasury, and a ban on selling to former Polish subjects without royal consent.",
  "summary_de": "Ein Hypothekenschein der Südpreußischen Regierung zu Posen über die Herrschaft Pszczew oder Betsche im Posener Departement mit den Dörfern Świechocin, Stoki, Łowyń, Głażewo, Dormowo, Stołuń, Kuligowo, Szarcz, dem Vorwerk Zielomyśl und Silna, den Hauländereien, dem Tomecher Hauland und der Heydemühle. Der Titulus Possessionis ist für Friedrich Ludwig, Fürst von Hohenlohe-Ingelfingen, eingetragen aufgrund der Gnadenbriefe vom 19. Juni und 1. Dezember 1797 und der Resignation vom 29. März 1802. Eingetragen sind eine unbestimmte jährliche Kompetenz an die Kriegs- und Domänenkasse Posen sowie das Verbot der Veräußerung an Altpolen; Schulden sind nicht eingetragen."
 }

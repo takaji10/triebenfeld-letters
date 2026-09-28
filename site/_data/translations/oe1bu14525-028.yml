@@ -2,7 +2,7 @@ status: draft
 segments:
 - page: 1
   en: 'The noble estate of Batkowo, situated under the jurisdiction of the Royal South Prussian Government
-    at Posen in the Radziejewo district.
+    at Poznań in the Radziejewo district.
 
 
     Together with the estate of Siedlemin situated in the Brześć district, the reigning Prince Friedrich
@@ -11,10 +11,10 @@ segments:
     in South Prussia, from His Majesty King Friedrich Wilhelm the Third, according to'
   names:
   - de: Königl. Südpreußl. Regierung zu Posen
-    en: Royal South Prussian Government at Posen
+    en: Royal South Prussian Government at Poznań
     kind: other
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Radziejewoschen Kreise
     en: Radziejewo district
@@ -117,7 +117,7 @@ segments:
     en: Friedrich Ludwig of Hohenlohe-Ingelfingen
     kind: person
 - page: 6
-  en: 'the signature ordained for the Royal South Prussian Government and the greater seal. Given at Posen,
+  en: 'the signature ordained for the Royal South Prussian Government and the greater seal. Given at Poznań,
     26 August 1802. Götze
 
 
@@ -137,7 +137,7 @@ segments:
     en: Royal South Prussian Government
     kind: other
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Götze
     en: Götze

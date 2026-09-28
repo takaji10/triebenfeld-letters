@@ -4,7 +4,7 @@ segments:
   en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, royal grace and good will
     beforehand, High-born Prince, particularly dear Friend and dear Faithful Subject! In pursuance of
     the notification issued on the 5th of February of this year upon Your Lordship''s petition submitted
-    on the 31st of December of last year for permission to let out the lordship of Betsche on lease to
+    on the 31st of December of last year for permission to let out the lordship of Pszczew on lease to
     the burgesses there and the remaining rural residents, We hereby give Your Lordship, with the return
     of the hereditary-lease contract submitted, upon the ground of the rescript of Our South Prussian
     Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High
@@ -24,7 +24,7 @@ segments:
     en: Prussia
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: SüdPreußl.
     en: South Prussian
@@ -37,20 +37,20 @@ segments:
   - 1tens
   - 2tens
 - page: 2
-  en: 'because, secondly, the appropriate management of the Betsche forest — which, since this forest
+  en: 'because, secondly, the appropriate management of the Pszczew forest — which, since this forest
     is the only considerable one in that district, merits every regard — could not take place, inasmuch
     as, if free use of it were left to the hereditary lessees, even the best supervision could not wholly
     prevent its devastation; thirdly, there is also this circumstance to be weighed, that if Your Lordship''s
     application were deferred to, the lands to be taken in hereditary lease by the residents could not
     even be managed in an orderly fashion, since every resident, and likewise every burgess of the town
-    of Betsche, possesses as much land as he requires for a proper husbandry; and moreover, as regards
+    of Pszczew, possesses as much land as he requires for a proper husbandry; and moreover, as regards
     the burgesses, care is to be taken that they apply themselves rather to the pursuit of urban trades
     than to that of agriculture, most of the residents being besides too lacking in means to be able to
     raise the sums of money required for the management. In which We remain well disposed toward Your
     Lordship with friendship, royal grace and good will.
 
 
-    Posen, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller
+    Poznań, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller
 
 
     To
@@ -68,20 +68,20 @@ segments:
     of Infantry and Governor
 
 
-    of the Residence of Breslau, Chief of a Regiment of Foot, also Knight of the Order of the Black and
-    of the Red Eagle, at Breslau 434 R. Anno
+    of the Residence of Wrocław, Chief of a Regiment of Foot, also Knight of the Order of the Black and
+    of the Red Eagle, at Wrocław 434 R. Anno
 
 
     Raeder[uncertain: Raeder]'
   names:
   - de: Betscher Forst
-    en: Betsche forest
+    en: Pszczew forest
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   - de: SüdPreuß.
     en: South Prussian
@@ -93,7 +93,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: other
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Raeder[?]
     en: Raeder

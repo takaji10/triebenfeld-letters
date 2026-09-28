@@ -10,7 +10,7 @@ segments:
     gratitude for the distinguished and profitable services rendered to Us and to Our royal house — was
     not attained wholly as We had willed it, because the said estates were burdened with many debts, We
     have most highly resolved to make over, grant and convey to Your Lordship, in heritable ownership,
-    the hereafter-named formerly ecclesiastical estates, namely the villages of Betsche, Świechocin, Stoki,
+    the hereafter-named formerly ecclesiastical estates, namely the villages of Pszczew, Świechocin, Stoki,
     Łowyń, Głażewo, Tarmowo, Zagórów, Skokum, Swiątniki, Kopojno, Olesnica, Drzewce, Grąndzyń, Wrąbczyn,
     Wienietz and Wolica, together with all their appurtenances, by whatsoever name they may be called,
     against payment
@@ -38,7 +38,7 @@ segments:
     en: von Prusimski
     kind: person
   - de: Betschen
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Świechocin
     en: Świechocin
@@ -124,7 +124,7 @@ segments:
 
 
     for the reigning Prince of Hohenlohe-Ingelfingen, to the heritable and proprietary possession of the
-    villages of Betsche, Świechocin, Stoki, Łowyń, Głażewo, Tarmowo, Zagórów, Skokum, Swiątniki, Kopojno,
+    villages of Pszczew, Świechocin, Stoki, Łowyń, Głażewo, Tarmowo, Zagórów, Skokum, Swiątniki, Kopojno,
     Olesnica, Drzewce, Grądzyń, Wrąbczyn, Wienietz and Wolica, together with appurtenances
 
 
@@ -133,7 +133,7 @@ segments:
 
     That the foregoing and overleaf copy has, upon careful comparison, been found to agree and correspond
     word for word with the original of the Most High Instrument of Donation according to its entire contents,
-    is hereby, in fidem, attested and certified. Done at Breslau, the 24th of February 1798. Richter,
+    is hereby, in fidem, attested and certified. Done at Wrocław, the 24th of February 1798. Richter,
     Government Auditor here.'
   names:
   - de: Berlin
@@ -146,7 +146,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Betschen
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Świechocin
     en: Świechocin
@@ -200,7 +200,7 @@ segments:
     en: Reck
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Richter
     en: Richter

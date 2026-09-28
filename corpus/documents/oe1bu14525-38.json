@@ -119,10 +119,10 @@
  "mentions_english": [
   {
    "entity": "",
-   "display": "Betsche estates",
+   "display": "Pszczew estates",
    "kind": "place",
    "surface_de": "Betscher Güter",
-   "surface_en": "Betsche estates",
+   "surface_en": "Pszczew estates",
    "page": 1
   },
   {
@@ -135,10 +135,10 @@
   },
   {
    "entity": "",
-   "display": "Posen",
+   "display": "Poznań",
    "kind": "place",
    "surface_de": "Posen",
-   "surface_en": "Posen",
+   "surface_en": "Poznań",
    "page": 1
   },
   {
@@ -203,11 +203,11 @@
  "translation": [
   {
    "page": 1,
-   "en": "Your Honour!\n\nParticularly Highly Honoured Sir, Councillor of Building and Economy!\n\nFor the resignation of the Betsche estates, the Chamber fiscal has once again failed to appear at today's hearing, because he has as yet received no authorisation from the Chamber. I have indeed once more requested that a new hearing be appointed, but the matter will never come to an end unless the Chamber at last gives the fiscal a properly drawn instruction that he is to resign, and what he is to resign. If His Most Serene Highness might be pleased to approach the Chamber President von Harlem for an expediting of the business, we should surely at some point attain our object.\n\nI have the honour to be, with the most perfect [uncertain: esteem],\n\nYour Honour's most devoted servant\n\nPosen, the 25th of January 1802\n\nMelzer.\n\nTurn over",
+   "en": "Your Honour!\n\nParticularly Highly Honoured Sir, Councillor of Building and Economy!\n\nFor the resignation of the Pszczew estates, the Chamber fiscal has once again failed to appear at today's hearing, because he has as yet received no authorisation from the Chamber. I have indeed once more requested that a new hearing be appointed, but the matter will never come to an end unless the Chamber at last gives the fiscal a properly drawn instruction that he is to resign, and what he is to resign. If His Most Serene Highness might be pleased to approach the Chamber President von Harlem for an expediting of the business, we should surely at some point attain our object.\n\nI have the honour to be, with the most perfect [uncertain: esteem],\n\nYour Honour's most devoted servant\n\nPoznań, the 25th of January 1802\n\nMelzer.\n\nTurn over",
    "names": [
     {
      "de": "Betscher Güter",
-     "en": "Betsche estates",
+     "en": "Pszczew estates",
      "kind": "place"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
      "de": "Posen",
-     "en": "Posen",
+     "en": "Poznań",
      "kind": "place"
     },
     {
@@ -253,7 +253,7 @@
    ]
   }
  ],
- "text_english": "Your Honour!\n\nParticularly Highly Honoured Sir, Councillor of Building and Economy!\n\nFor the resignation of the Betsche estates, the Chamber fiscal has once again failed to appear at today's hearing, because he has as yet received no authorisation from the Chamber. I have indeed once more requested that a new hearing be appointed, but the matter will never come to an end unless the Chamber at last gives the fiscal a properly drawn instruction that he is to resign, and what he is to resign. If His Most Serene Highness might be pleased to approach the Chamber President von Harlem for an expediting of the business, we should surely at some point attain our object.\n\nI have the honour to be, with the most perfect [uncertain: esteem],\n\nYour Honour's most devoted servant\n\nPosen, the 25th of January 1802\n\nMelzer.\n\nTurn over\n\nAt this very moment I receive the appellate judgment in the matter with the Cathedral Chapter and Kruhtswitz, which Mr Riedel had conducted in the first instance. It has come out as a reversal, and the Cathedral Chapter has been dismissed with its [uncertain: Ferdicus]. On our si [text lost] therefore be very well satisfied with the judgment. I have[?], the enclosed [illegible] judgment thus to for ward M[?]",
- "summary_en": "Melzer reports from Posen that the Chamber's fiscal officer again failed to appear at the hearing for the resignation of the Betsche estates, having still received no authorisation, and that the business will not conclude until the Chamber instructs him plainly what he is to resign; he asks that the Prince press Chamber President von Harlem to expedite it. A postscript notes an appeal judgment in the case with the Cathedral Chapter and Kruhtswitz has been reversed in their favour.",
+ "text_english": "Your Honour!\n\nParticularly Highly Honoured Sir, Councillor of Building and Economy!\n\nFor the resignation of the Pszczew estates, the Chamber fiscal has once again failed to appear at today's hearing, because he has as yet received no authorisation from the Chamber. I have indeed once more requested that a new hearing be appointed, but the matter will never come to an end unless the Chamber at last gives the fiscal a properly drawn instruction that he is to resign, and what he is to resign. If His Most Serene Highness might be pleased to approach the Chamber President von Harlem for an expediting of the business, we should surely at some point attain our object.\n\nI have the honour to be, with the most perfect [uncertain: esteem],\n\nYour Honour's most devoted servant\n\nPoznań, the 25th of January 1802\n\nMelzer.\n\nTurn over\n\nAt this very moment I receive the appellate judgment in the matter with the Cathedral Chapter and Kruhtswitz, which Mr Riedel had conducted in the first instance. It has come out as a reversal, and the Cathedral Chapter has been dismissed with its [uncertain: Ferdicus]. On our si [text lost] therefore be very well satisfied with the judgment. I have[?], the enclosed [illegible] judgment thus to for ward M[?]",
+ "summary_en": "Melzer reports from Poznań that the Chamber's fiscal officer again failed to appear at the hearing for the resignation of the Pszczew estates, having still received no authorisation, and that the business will not conclude until the Chamber instructs him plainly what he is to resign; he asks that the Prince press Chamber President von Harlem to expedite it. A postscript notes an appeal judgment in the case with the Cathedral Chapter and Kruhtswitz has been reversed in their favour.",
  "summary_de": "Meldung Melzers an einen Bau- und Wirtschaftsrat, dass der Kammerfiskal zum Termin über die Resignation der Betscher Güter erneut nicht erschienen ist, weil ihm die Kammer noch keine Vollmacht erteilt hat; ein neuer Termin ist beantragt, doch werde die Sache erst vorangehen, wenn die Kammer dem Fiskal eine klare Anweisung gibt, was er zu resignieren hat. Vorgeschlagen wird, der Fürst möge Kammerpräsident von Harlem um Beschleunigung angehen. Nachschrift: das Appellationsurteil in der Sache mit dem Domkapitel und Kruhtswitz ist zugunsten der eigenen Seite ausgefallen."
 }

@@ -6,12 +6,12 @@ segments:
 
     We Friedrich Wilhelm, by the Grace of God King of Prussia etc. etc., Margrave of Brandenburg, Arch-Chamberlain
     and Elector of the Holy Roman Empire; sovereign and supreme Duke of Silesia, Sovereign Prince of Orange,
-    Neufchatel and Valangin, as also of the County of Glatz, Duke in Geldern, at Magdeburg, Cleve, Jülich,
-    Berg, Stettin, Pomerania, of the Cassubians and Wends, at Mecklenburg and Crossen, Burgrave of Nuremberg
-    above and below the mountains, Prince of Halberstadt, Minden, Camin, Wenden, Schwerin, Ratzeburg,
-    East Frisia and Mörs, Count of Hohenzollern, Ruppin, of the Mark Ravensberg, Hohenstein, Tecklenburg,
-    Schwerin, Lingen, Bühren and Leerdam; Lord of Ravenstein, of the lands of Rostock, Stargard, Limburg,
-    Lauenburg, Bütow, Arlaÿ and Breda etc. etc.
+    Neufchatel and Valangin, as also of the County of Kłodzko, Duke in Geldern, at Magdeburg, Cleve, Jülich,
+    Berg, Szczecin, Pomerania, of the Cassubians and Wends, at Mecklenburg and Krosno Odrzańskie, Burgrave
+    of Nuremberg above and below the mountains, Prince of Halberstadt, Minden, Camin, Wenden, Schwerin,
+    Ratzeburg, East Frisia and Mörs, Count of Hohenzollern, Ruppin, of the Mark Ravensberg, Hohenstein,
+    Tecklenburg, Schwerin, Lingen, Bühren and Leerdam; Lord of Ravenstein, of the lands of Rostock, Stargard,
+    Limburg, Lauenburg, Bütow, Arlaÿ and Breda etc. etc.
 
 
     Do hereby make known and declare, and by virtue of this Our open letter, for Ourselves and Our descendants
@@ -39,7 +39,7 @@ segments:
     en: Valangin
     kind: place
   - de: Glatz
-    en: Glatz
+    en: Kłodzko
     kind: place
   - de: Geldern
     en: Geldern
@@ -57,7 +57,7 @@ segments:
     en: Berg
     kind: place
   - de: Stettin
-    en: Stettin
+    en: Szczecin
     kind: place
   - de: Pommern
     en: Pomerania
@@ -72,7 +72,7 @@ segments:
     en: Mecklenburg
     kind: place
   - de: Crossen
-    en: Crossen
+    en: Krosno Odrzańskie
     kind: place
   - de: Nürnberg
     en: Nuremberg
@@ -155,11 +155,11 @@ segments:
     in order to give him a new proof of Our royal gratitude for the distinguished and beneficial services
     rendered to Us and to Our Royal House, We have found Ourselves moved to make over, grant and convey
     to Your Lordship, heritably and in full property, in addition to the estates already granted to him
-    by the instrument of the 19th of June of this year, namely Betsche, Zagórów and Wienietz, the appurtenant
+    by the instrument of the 19th of June of this year, namely Pszczew, Zagórów and Wienietz, the appurtenant
     parcels belonging to those estates, namely
 
 
-    1.) at Betsche, the settlements of Stołuń, Kuligowo, Szarcz, Vogtey, Zielomyśl and Silna together
+    1.) at Pszczew, the settlements of Stołuń, Kuligowo, Szarcz, Vogtey, Zielomyśl and Silna together
     with the Hollander holdings, the Pommser Hollander holding and Heÿdemühle'
   names:
   - de: Friedrich Ludwig
@@ -169,7 +169,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Zagórów
     en: Zagórów
@@ -255,7 +255,7 @@ segments:
 - page: 4
   en: shall from now and for all time, for himself and his descendants and heirs, irrevocably have, hold,
     possess and enjoy from Us and Our descendants and successors, as a true, well-acquired and unrestricted
-    property, the above-named appurtenant parcels belonging to the estates of Betsche, Zagórów and Wienitz,
+    property, the above-named appurtenant parcels belonging to the estates of Pszczew, Zagórów and Wienitz,
     with all rights and privileges attaching thereto as these have hitherto been exercised or may lawfully
     be exercised, with all the lands belonging thereto in fields, woodlands and meadows, likewise in ponds
     and waters, according to the lawful boundaries and bounds, just as everything has hitherto been used
@@ -263,7 +263,7 @@ segments:
     at his pleasure under the conditions mentioned above,
   names:
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Zagórów
     en: Zagórów
@@ -279,7 +279,7 @@ segments:
     whom this concerns, hereby as graciously as earnestly, that they in no wise hinder or trouble either
     the aforementioned Lord Prince of Hohenlohe-Ingelfingen, Your Lordship, in the heritable and proprietary
     possession thus granted to him of the above-named appurtenant parcels belonging to the estates of
-    Betsche, Zagórów and Wienitz, nor him or those upon whom he shall in time bequeath the same by virtue
+    Pszczew, Zagórów and Wienitz, nor him or those upon whom he shall in time bequeath the same by virtue
     of this Our letter of grant, or otherwise lawfully transfer them by other acts inter vivos aut mortis
     causa, but rather shall let His Lordship, and in the event also them, enjoy the same freely and quietly,
     themselves doing nothing'
@@ -288,7 +288,7 @@ segments:
     en: Hohenlohe-Ingelfingen
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Zagórów
     en: Zagórów
@@ -305,7 +305,7 @@ segments:
 
 
     Letter of grant for the reigning Prince of Hohenlohe-Ingelfingen. Hoym. Reck. for the heritable and
-    proprietary possession of the appurtenant parcels belonging to the estates of Betsche, Zagórów and
+    proprietary possession of the appurtenant parcels belonging to the estates of Pszczew, Zagórów and
     Wienietz.
 
 
@@ -330,7 +330,7 @@ segments:
     en: Ingelfingen
     kind: place
   - de: Betsche
-    en: Betsche
+    en: Pszczew
     kind: place
   - de: Zagórów
     en: Zagórów
@@ -483,7 +483,7 @@ segments:
 
 
     That the foregoing copy is perfectly conformable and in agreement with the original is hereby, sub
-    sigillo judiciali, attested in fidem. Breslau, the 19th of June 1802. Sonnabend, Judge Advocate of
+    sigillo judiciali, attested in fidem. Wrocław, the 19th of June 1802. Sonnabend, Judge Advocate of
     the Princely Hohenlohe Infantry Regiment'
   names:
   - de: Hohenlohe Ingelfingen
@@ -514,7 +514,7 @@ segments:
     en: Beda
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Sonnabend
     en: Sonnabend

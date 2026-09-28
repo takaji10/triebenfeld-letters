@@ -6,7 +6,7 @@ segments:
 
     Your Serene Highness has, by Cabinet Order of the 23rd of this month, received as a gift from His
     Majesty, in heredity and full property, the town of Kamionna, together with the market town of Kulm
-    in the Posen district, the villages of Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske, Osiny,
+    in the Poznań district, the villages of Trąbczyn, Szetlewek, Nowa wies, Łazy, Old and New Laske, Osiny,
     Hauland Trąbczyński in the Konin district, and the village of Brzyce with its appurtenances in the
     Cujavian district; and His Most High Majesty commands me to make the necessary notifications upon
     the proposals that have been made, concerning the most high intention of his will in the matter.
@@ -17,7 +17,7 @@ segments:
     deed of donation for the same expedited soon. Since these estates belonged to a principal insurgent,
     von Prusimski, and since it is necessary to know the debts that may be charged upon these estates,
     so as to free them from the same so far as possible, I am likewise making the necessary arrangements
-    on that account with the Government at Posen.
+    on that account with the Government at Poznań.
 
 
     According to the preliminary reports, these estates yield at least an annual return of 4000 Thalers;
@@ -30,7 +30,7 @@ segments:
     en: Kulm
     kind: place
   - de: Posenschen
-    en: Posen
+    en: Poznań
     kind: place
   - de: Trąbczyn
     en: Trąbczyn
@@ -66,7 +66,7 @@ segments:
     en: von Prusimski
     kind: person
   - de: Posen
-    en: Posen
+    en: Poznań
     kind: place
   numbers:
   - '23'
@@ -82,7 +82,7 @@ segments:
     most obedient servant, Hoym
 
 
-    Breslau, the 30th of July 1796.
+    Wrocław, the 30th of July 1796.
 
 
     [illegible] agrees with the original, this I attest in witness thereof
@@ -121,7 +121,7 @@ segments:
     en: Hoym
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Sonnabend
     en: Sonnabend
