@@ -1,9 +1,9 @@
 {
   "1": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: from Schlawenschitz, the prince's seat, to the Krieges Rath; unsigned",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "10": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -90,10 +90,10 @@
     "sender": "von Triebenfeld"
   },
   "112": {
-    "basis": "sig:|sal:Hochf(ü|ue)rstliche\\s+Du",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: Nachtrag to his letter of 10 Feb 1801",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "113": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -102,10 +102,10 @@
     "sender": "von Triebenfeld"
   },
   "114": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Frig[?], Berlin",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Frig[?]"
   },
   "115": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -120,10 +120,10 @@
     "sender": "von Triebenfeld"
   },
   "117": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "118a": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -204,16 +204,16 @@
     "sender": "von Triebenfeld"
   },
   "129": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
-    "confidence": "partial",
-    "recipient": "",
+    "basis": "ruling 2026-09-28: addressed \"Ewr Hoch[fürstliche Durchlaucht]\"",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
     "sender": "von Triebenfeld"
   },
   "13": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "130": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -264,10 +264,10 @@
     "sender": "von Triebenfeld"
   },
   "138": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Amelang",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Amelang"
   },
   "139": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -300,16 +300,16 @@
     "sender": "von Triebenfeld"
   },
   "143": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Amelang",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Amelang"
   },
   "144": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Amelang",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Amelang"
   },
   "145": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -342,10 +342,10 @@
     "sender": "von Triebenfeld"
   },
   "15": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "150": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
@@ -366,10 +366,10 @@
     "sender": "von Triebenfeld"
   },
   "153": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business, reporting to the prince; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "154": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -420,10 +420,10 @@
     "sender": "von Triebenfeld"
   },
   "161": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Amelang",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Amelang"
   },
   "162": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -498,10 +498,10 @@
     "sender": "von Triebenfeld"
   },
   "173": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business, reporting to the prince; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "174": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
@@ -564,10 +564,10 @@
     "sender": "von Triebenfeld"
   },
   "183": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "184": {
     "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|body address form",
@@ -606,10 +606,10 @@
     "sender": "Hahn"
   },
   "19": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: Anhang to letter 18 (Triebenfeld, Blizanow, 6 Jul 1812)",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "190": {
     "basis": "sig:\\bA[:.]?\\s*Hahn\\b|\\bHahn|body address form",
@@ -624,10 +624,10 @@
     "sender": "von Triebenfeld"
   },
   "192": {
-    "basis": "unmatched",
-    "confidence": "none",
+    "basis": "ruling 2026-09-28: \"Es liegen in Berlin 360000 rt die mir zugesagt sind\" - his loan; Trąbczyn 1806",
+    "confidence": "partial",
     "recipient": "",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "193": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -654,10 +654,10 @@
     "sender": "von Triebenfeld"
   },
   "197": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "198": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -672,10 +672,10 @@
     "sender": "von Triebenfeld"
   },
   "1a": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "2": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -708,10 +708,10 @@
     "sender": "von Triebenfeld"
   },
   "203": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "204": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -840,10 +840,10 @@
     "sender": "von Triebenfeld"
   },
   "223": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: from Schlawenschitz, the prince on his debts, to the Krieges und Forst Rath",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "224": {
     "basis": "unmatched",
@@ -864,10 +864,10 @@
     "sender": "von Triebenfeld"
   },
   "228": {
-    "basis": "unmatched",
-    "confidence": "none",
+    "basis": "ruling 2026-09-28: signed Sommer",
+    "confidence": "partial",
     "recipient": "",
-    "sender": ""
+    "sender": "Sommer"
   },
   "229": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -876,22 +876,22 @@
     "sender": "von Triebenfeld"
   },
   "23": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: dated from Kontop, his estate; his children and Lombardini",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "230": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: the prince awaiting Triebenfeld and Brzechffa, on \"meines Schuldenwesens\" commission",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "231": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed C. F. Weigel",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Weigel"
   },
   "232": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -942,10 +942,10 @@
     "sender": "von Triebenfeld"
   },
   "24": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
+    "basis": "ruling 2026-09-28: \"meiner Südpreußischen Herrschaften Zagorowo und Trąbczyn\": the prince, to a Geheimer Rath, not Triebenfeld",
     "confidence": "partial",
-    "recipient": "von Triebenfeld",
-    "sender": ""
+    "recipient": "",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "240": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -990,10 +990,10 @@
     "sender": "von Triebenfeld"
   },
   "247": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business, reporting to the prince; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "248": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1014,10 +1014,10 @@
     "sender": "von Triebenfeld"
   },
   "250": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Humbo[ldt], \"An den herrn Herrn v. Triebenfeld\"",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Humboldt"
   },
   "251": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1026,10 +1026,10 @@
     "sender": "von Triebenfeld"
   },
   "252": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed C f v Hardenberg, Vienna",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Hardenberg"
   },
   "253": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1080,22 +1080,22 @@
     "sender": "von Triebenfeld"
   },
   "260": {
-    "basis": "sig:|sal:Hochf(ü|ue)rstliche\\s+Du",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "261": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "262": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "263": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1104,22 +1104,22 @@
     "sender": "von Triebenfeld"
   },
   "264": {
-    "basis": "sig:|sal:Gn(ä|ae)digster\\s+F(ü|ue",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his secret plan put to the prince; the revers at the end is a draft for the prince to sign",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "265a": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Wohlgeborner\\s+Herr",
+    "basis": "ruling 2026-09-28: from Schlawenschitz in the prince's voice (\"der verstorbene König verlieh mir 1796\"), to a Geheimer Staatsrath - not to Triebenfeld",
     "confidence": "partial",
-    "recipient": "von Triebenfeld",
-    "sender": ""
+    "recipient": "",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "265b": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochwohlgeb\\w*\\s+Herr",
+    "basis": "ruling 2026-09-28: the same, to a General - not to Triebenfeld",
     "confidence": "partial",
-    "recipient": "von Triebenfeld",
-    "sender": ""
+    "recipient": "",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "266": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1152,10 +1152,10 @@
     "sender": "von Triebenfeld"
   },
   "27": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed \"Peter\" - Peter Friedrich August von Triebenfeld",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "270": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1206,10 +1206,10 @@
     "sender": "von Triebenfeld"
   },
   "278": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Eberhard (Brieg)",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Eberhard"
   },
   "279": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1218,10 +1218,10 @@
     "sender": "von Triebenfeld"
   },
   "28": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Hawich",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Hawich"
   },
   "280": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1248,10 +1248,10 @@
     "sender": "Beguelin"
   },
   "284": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "285": {
     "basis": "unmatched",
@@ -1260,10 +1260,10 @@
     "sender": ""
   },
   "286": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "287": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1278,22 +1278,22 @@
     "sender": "von Triebenfeld"
   },
   "289": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
-    "recipient": "von Triebenfeld",
-    "sender": ""
+    "basis": "ruling 2026-09-28: signed v Triebenfeld, to the Geheimer Cabinets Rath (Albrecht)",
+    "confidence": "high",
+    "recipient": "Albrecht",
+    "sender": "von Triebenfeld"
   },
   "29": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Bally",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Bally"
   },
   "290": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "291": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1302,16 +1302,16 @@
     "sender": "von Triebenfeld"
   },
   "292": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
-    "confidence": "partial",
-    "recipient": "",
+    "basis": "ruling 2026-09-28: addressed \"Durchl. Fürst\"",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
     "sender": "von Triebenfeld"
   },
   "294": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed [G/J?] Bisenti",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Bisenti[?]"
   },
   "295": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1344,15 +1344,15 @@
     "sender": "von Triebenfeld"
   },
   "3": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "30": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
-    "confidence": "partial",
-    "recipient": "",
+    "basis": "ruling 2026-09-28: addressed \"Euer Hochfürstlichen Durchlaucht\"",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
     "sender": "von Triebenfeld"
   },
   "300": {
@@ -1410,9 +1410,9 @@
     "sender": "von Triebenfeld"
   },
   "36": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
+    "basis": "ruling 2026-09-28: draft of a letter to the Krieges Rath v. Triebenfeld's wife, from Öhringen",
+    "confidence": "partial",
+    "recipient": "Charlotte von Triebenfeld",
     "sender": ""
   },
   "37": {
@@ -1434,22 +1434,22 @@
     "sender": "von Triebenfeld"
   },
   "4": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "40": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed \"Peter\" - Peter Friedrich August von Triebenfeld",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "41": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed \"Peter\" - Peter Friedrich August von Triebenfeld",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "42": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1476,10 +1476,10 @@
     "sender": "von Triebenfeld"
   },
   "46": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: signed Amelang, to \"Mein Theuerster Freund\" about the prince's letter to him",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Amelang"
   },
   "47": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
@@ -1506,10 +1506,10 @@
     "sender": "von Triebenfeld"
   },
   "50": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: the prince to the King, \"Ewr König Majestät\", Schlawenschitz; his Zagorowo capital",
+    "confidence": "high",
+    "recipient": "König Friedrich Wilhelm III. von Preußen",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "51": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1524,10 +1524,10 @@
     "sender": "von Triebenfeld"
   },
   "53": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed \"Peter\" - Peter Friedrich August von Triebenfeld",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "54": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1542,10 +1542,10 @@
     "sender": "von Triebenfeld"
   },
   "56": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "57": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1578,28 +1578,28 @@
     "sender": "von Triebenfeld"
   },
   "61": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Wohlgeborner\\s+Herr",
+    "basis": "ruling 2026-09-28: signed v Triebenfeld; addressed to a Hofrat, not to himself",
     "confidence": "partial",
-    "recipient": "von Triebenfeld",
-    "sender": ""
+    "recipient": "",
+    "sender": "von Triebenfeld"
   },
   "62": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "63": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "64": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "65": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1614,10 +1614,10 @@
     "sender": "von Triebenfeld"
   },
   "67": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "68": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1626,10 +1626,10 @@
     "sender": "von Triebenfeld"
   },
   "69": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Bally",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Bally"
   },
   "7": {
     "basis": "sig:Charlotte\\s+von\\s+Triebe|sal:Durchlauchtigster?\\s+F(ü",
@@ -1668,22 +1668,22 @@
     "sender": "von Triebenfeld"
   },
   "72c": {
-    "basis": "sig:|sal:Hochwohlgeb\\w*\\s+Herr",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed \"der Kreis Rath Thiel\"",
+    "confidence": "high",
     "recipient": "von Triebenfeld",
-    "sender": ""
+    "sender": "Thiel"
   },
   "72d": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: signed Brzechffa, to \"Lieber Bruder\"",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Brzechffa"
   },
   "72e": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: Polish version of 72d",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Brzechffa"
   },
   "72f": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Gn(ä|ae)digster\\s+F(ü|ue",
@@ -1698,10 +1698,10 @@
     "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "74a": {
-    "basis": "unmatched",
-    "confidence": "none",
+    "basis": "ruling 2026-09-28: signed Seelmann (pro Fisco)",
+    "confidence": "partial",
     "recipient": "",
-    "sender": ""
+    "sender": "Seelmann"
   },
   "74b": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|body address form",
@@ -1710,16 +1710,16 @@
     "sender": "von Triebenfeld"
   },
   "74c": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: the Glogau court to Minister Kircheisen as executor",
+    "confidence": "high",
+    "recipient": "Kircheisen",
+    "sender": "Ober Landes Gericht von Schlesien (Fülleborn)"
   },
   "74d": {
-    "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:",
-    "confidence": "partial",
-    "recipient": "",
-    "sender": "von Triebenfeld"
+    "basis": "ruling 2026-09-28: court decree signed Stoewersand, addressed to Herrn von Triebenfeld zu Kontop",
+    "confidence": "high",
+    "recipient": "von Triebenfeld",
+    "sender": "Stoewersand"
   },
   "75": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Hochf(ü|ue)rstliche\\s+Du",
@@ -1740,10 +1740,10 @@
     "sender": "von Triebenfeld"
   },
   "78": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Michaelis",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Michaelis"
   },
   "79": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1752,10 +1752,10 @@
     "sender": "von Triebenfeld"
   },
   "8": {
-    "basis": "sig:|body address form",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business: money pleas, his children, his estates Kontop/Schweinern, the Vienna mission; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "80": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1764,22 +1764,22 @@
     "sender": "von Triebenfeld"
   },
   "81": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Michaelis",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Michaelis"
   },
   "82": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed C. F. G. Eysenhardt senior",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Eysenhardt"
   },
   "83": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: his hand and business, reporting to the prince; unsigned or signature lost",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "von Triebenfeld"
   },
   "84": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1788,28 +1788,28 @@
     "sender": "von Triebenfeld"
   },
   "85": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: signed Friedrich Wilhelm, \"A Mon Cousin le Prince de Hohenlohe Ingelfingen\"",
+    "confidence": "high",
+    "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+    "sender": "König Friedrich Wilhelm III. von Preußen"
   },
   "86": {
-    "basis": "sig:|sal:Allerdurchlauchtigster",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: the prince's copy, addressed to the King, Breslau",
+    "confidence": "high",
     "recipient": "König Friedrich Wilhelm III. von Preußen",
-    "sender": ""
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "87": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: copy, \"An den Herrn Obrist von Köckritz\"",
+    "confidence": "high",
+    "recipient": "Köckritz",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "88": {
-    "basis": "unmatched",
-    "confidence": "none",
-    "recipient": "",
-    "sender": ""
+    "basis": "ruling 2026-09-28: copy, \"An den Herrn Minister v. Voss\"",
+    "confidence": "high",
+    "recipient": "Voss",
+    "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen"
   },
   "89": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1836,10 +1836,10 @@
     "sender": "Beyme"
   },
   "92": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Michaelis",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Michaelis"
   },
   "93": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",
@@ -1848,10 +1848,10 @@
     "sender": "von Triebenfeld"
   },
   "94": {
-    "basis": "sig:|sal:Durchlauchtigster?\\s+F(ü",
-    "confidence": "partial",
+    "basis": "ruling 2026-09-28: signed Zastrow",
+    "confidence": "high",
     "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-    "sender": ""
+    "sender": "Zastrow"
   },
   "95": {
     "basis": "sig:(Kriegs\\s*Rath\\s+)?v\\.?\\|sal:Durchlauchtigster?\\s+F(ü",

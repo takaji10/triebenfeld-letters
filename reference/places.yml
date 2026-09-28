@@ -431,10 +431,11 @@ places:
       - {form: "Schlawinschitz"}
 
   guhrwitz:
-    display: "Guhrwitz"
+    display: "Górzyce"
+    german: "Guhrwitz"
     kind: estate
     match: 'Guhrwitz\w*'
-    tier: "Context-inferred"
+    tier: "Established"   # Guhrwitz, Kreis Breslau = Górzyce (gov.genealogy.net), 2026-09-28
     variants: []
     open_questions:
       - "Rittergut near Breslau, seat of the Freiherrlich von Stillfried
@@ -935,7 +936,7 @@ places:
     match: 'Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
     tier: "Context-inferred"
     variants: []
-    # The market town (Marktflecken) Kulm beside Kamionna, Posen district (14525: 'die Stadt Kamionna, nebst dem Marktflecken Kulm'). Kaemen and Kulm are pledged to Meyer Bernhard (9454 letters 284-286). Modern name unsettled.
+    # The market town (Marktflecken) Kulm beside Kamionna, Posen district (14525: 'die Stadt Kamionna, nebst dem Marktflecken Kulm'). Kaemen and Kulm are pledged to Meyer Bernhard (9454 letters 284-286). Modern name unsettled; Chełmno by Pniewy is a candidate, not confirmed.
 
   oppurg:
     display: "Oppurg"
@@ -946,24 +947,30 @@ places:
     # Part of the Prince's majorat with Schlawenschitz and Lassowitz (Thuringia).
 
   lassowitz:
-    display: "Lassowitz"
+    display: "Lasowice"
+    german: "Lassowitz"
     kind: estate
+    # Groß and Klein Lassowitz (Lasowice Wielkie / Małe, Kluczbork county) were bought into the Slawentzitz lordship.
     match: 'La(?:ss|ß|s)owitz\w*'
     tier: "Context-inferred"
     variants: []
     # Part of the Prince's majorat with Schlawenschitz and Oppurg (Silesia).
 
   bischdorf:
-    display: "Bischdorf"
+    display: "Biskupice"
+    german: "Bischdorf"
     kind: estate
+    # Most likely Bischdorf by Rosenberg O.S. (Biskupice, Olesno county), near Molna; several Bischdorfs exist.
     match: 'Bischdorff?\w*'
     tier: "Context-inferred"
     variants: []
     # In the 1809 exchange plans with Mollna (9454 letters 5, 64).
 
   mollna:
-    display: "Mollna"
+    display: "Molna"
+    german: "Mollna"
     kind: estate
+    # Mollna by Koschentin = Molna, gmina Ciasna, Lubliniec county.
     match: 'Mollna(?![a-zà-ÿ])'
     tier: "Context-inferred"
     variants: []
@@ -1670,8 +1677,10 @@ places:
     variants: []
 
   lohsen:
-    display: "Lohsen"
+    display: "Łosiów"
+    german: "Lohsen"
     kind: village
+    # "Lohsen bei Brieg" = Lossen, Kreis Brieg, now Łosiów.
     match: 'Lohsen'
     tier: "Established"
     variants: []

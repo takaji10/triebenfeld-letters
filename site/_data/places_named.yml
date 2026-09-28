@@ -348,7 +348,7 @@
   count: 4
   letters: [{id: "54", url: "/documents/oe1bu9454/54/"}, {id: "74a", url: "/documents/oe1bu9454/74a/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}, {id: "74d", url: "/documents/oe1bu9454/74d/"}]
 - slug: "bischdorf"
-  name: "Bischdorf"
+  name: "Biskupice (Bischdorf)"
   count: 3
   letters: [{id: "64", url: "/documents/oe1bu9454/64/"}, {id: "205", url: "/documents/oe1bu9454/205/"}, {id: "5", url: "/documents/oe1bu9454/5/"}]
 - slug: "teutschland"
@@ -444,7 +444,7 @@
   count: 2
   letters: [{id: "224", url: "/documents/oe1bu9454/224/"}, {id: "223", url: "/documents/oe1bu9454/223/"}]
 - slug: "guhrwitz"
-  name: "Guhrwitz"
+  name: "Górzyce (Guhrwitz)"
   count: 2
   letters: [{id: "8", url: "/documents/oe1bu14526/8/"}, {id: "6", url: "/documents/oe1bu14526/6/"}]
 - slug: "havelberg"
@@ -600,7 +600,7 @@
   count: 1
   letters: [{id: "262", url: "/documents/oe1bu9454/262/"}]
 - slug: "lassowitz"
-  name: "Lassowitz"
+  name: "Lasowice (Lassowitz)"
   count: 1
   letters: [{id: "245", url: "/documents/oe1bu9454/245/"}]
 - slug: "liegnitz"
@@ -611,10 +611,6 @@
   name: "Lille"
   count: 1
   letters: [{id: "284", url: "/documents/oe1bu9454/284/"}]
-- slug: "lohsen"
-  name: "Lohsen"
-  count: 1
-  letters: [{id: "29", url: "/documents/oe1bu9454/29/"}]
 - slug: "luebliniz"
   name: "Lubliniec (Lublinitz)"
   count: 1
@@ -628,7 +624,7 @@
   count: 1
   letters: [{id: "196", url: "/documents/oe1bu9454/196/"}]
 - slug: "mollna"
-  name: "Mollna"
+  name: "Molna (Mollna)"
   count: 1
   letters: [{id: "64", url: "/documents/oe1bu9454/64/"}]
 - slug: "myslowice"
@@ -695,6 +691,10 @@
   name: "Ząbkowice Śląskie (Frankenstein)"
   count: 1
   letters: [{id: "239", url: "/documents/oe1bu9454/239/"}]
+- slug: "lohsen"
+  name: "Łosiów (Lohsen)"
+  count: 1
+  letters: [{id: "29", url: "/documents/oe1bu9454/29/"}]
 - slug: "lukom"
   name: "Łukom"
   count: 1
