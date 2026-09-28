@@ -38,7 +38,7 @@ small{color:var(--mute)}button{font:inherit;padding:4px 12px;margin:0 6px 6px 0;
 button.on{background:var(--fg);color:var(--bg)}input{font:inherit;width:100%;box-sizing:border-box;margin-top:4px;padding:4px 6px;background:var(--bg);color:var(--fg);border:1px solid var(--line)}
 #status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}a{color:inherit}
 </style>
-<h1>__TITLE__: __N__ words</h1>
+<h1>__TITLE__: __N__ items</h1>
 <p>__INTRO__ Open the letter,
 find the line on the scan, and pick what the page says, or type it under "Something else".
 "Can't tell" is a fine answer. Answers save as you go.</p>
@@ -88,6 +88,9 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         text = html.escape(corpus[n - 1])
         w = html.escape(r['word'])
         text = text.replace(w, f'<span class=w>{w}</span>', 1)
+        if r.get('summary'):
+            # a summary to judge, not a word: show the paragraph itself
+            text = f"<p style='font:16px/1.5 Georgia,serif'>{html.escape(r['summary'])}</p>"
         opts = [o for o in r['options'].split('|') if o]
         buttons = ''.join(
             f"<button data-v='{html.escape(o, quote=True)}'>"
@@ -134,6 +137,7 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'trial_245': ('Trial reading, letter 245', 'Each row is a word where my reading of the original scan differs from the current text. Pick what the page says.'),
         'rescan_choice': ('Pages to request from the archive', 'One row per page on the shortlist, worst first. Open the letter, look at the scan, and choose Request or Skip.'),
         'date_queries': ('Dates: yours against the page', 'Where the new transcription reads a date differently from the date you supplied. Pick the date the letter should carry.'),
+        'pilot_summaries': ('Pilot: ten letters read', 'Ten German summaries written from the letters, each checked claim by claim against the text, and four corrections found in the same reading. For a summary: is it right and useful? For a correction: which does the page say? Open the letter to compare.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),
