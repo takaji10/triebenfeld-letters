@@ -42,7 +42,7 @@
   "drzewce",
   "gradzyn",
   "wrabczyn",
-  "wienietz",
+  "wieniec",
   "wolica",
   "skokum"
  ],
@@ -963,8 +963,8 @@
    "doc_line": 37
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Winietz",
    "page": 2,
@@ -1172,8 +1172,8 @@
    "doc_line": 154
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Wienietz",
    "page": 8,

@@ -32,7 +32,7 @@
   "kontop",
   "zagorowo",
   "kamionno",
-  "kulm",
+  "kolno",
   "trabczyn"
  ],
  "is_missing": 0,
@@ -548,8 +548,8 @@
    "doc_line": 140
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 7,

@@ -32,7 +32,7 @@
   "krotoszyn",
   "wieniec",
   "kamionno",
-  "kulm",
+  "kolno",
   "trabczyn",
   "szetlewek"
  ],
@@ -327,7 +327,7 @@
   },
   {
    "entity": "wieniec",
-   "display": "Wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Winicer",
    "page": 2,
@@ -338,7 +338,7 @@
   },
   {
    "entity": "wieniec",
-   "display": "Wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Winicer",
    "page": 2,
@@ -359,8 +359,8 @@
    "doc_line": 58
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 3,

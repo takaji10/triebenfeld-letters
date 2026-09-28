@@ -31,7 +31,7 @@
  "estates": [
   "betsche",
   "kamionno",
-  "kulm"
+  "kolno"
  ],
  "is_missing": 0,
  "n_lines": 163,
@@ -1131,8 +1131,8 @@
    "doc_line": 142
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulmner",
    "page": 7,

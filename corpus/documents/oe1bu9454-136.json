@@ -47,8 +47,7 @@
   "lassowitz",
   "oppurg",
   "wieniec",
-  "betsche",
-  "kulm"
+  "betsche"
  ],
  "is_missing": 0,
  "n_lines": 230,
@@ -811,7 +810,7 @@
   },
   {
    "entity": "kolno",
-   "display": "Kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kolno",
    "page": 1,
@@ -1240,7 +1239,7 @@
   },
   {
    "entity": "wieniec",
-   "display": "Wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Winnica",
    "page": 11,
@@ -1305,8 +1304,8 @@
    "doc_line": 223
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 12,

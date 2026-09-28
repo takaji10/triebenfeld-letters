@@ -241,20 +241,16 @@ documents:
     "3": [kamionno, trabczyn, szetlewek, osiny, brzyce]
     "4": [kamionno, trabczyn, szetlewek, osiny, brzyce]
     "5": [betsche, swiechocin, stoki, lowyn, glazewo, zagorowo, swiatniki, kopojno,
-          olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
-    "6": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+          olesnica, drzewce, gradzyn, wrabczyn, wieniec, wolica, skokum]
+    "6": [betsche, zagorowo, wieniec, stolun, kuligowo, szarcz, silna, zielomysl,
           swiecia, konty, szedlemin, batkowo]
-    "7": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+    "7": [betsche, zagorowo, wieniec, stolun, kuligowo, szarcz, silna, zielomysl,
           swiecia, konty, karczyn]
     "8": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
-          kopojno, olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
-    "9": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
-          kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wienietz, wolica,
-          skokum]
-    "10": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
-           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wienietz, wolica,
-           skokum]
-    "11": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+          kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wolica, skokum]
+    "9": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki, kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wolica, skokum]
+    "10": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki, kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wolica, skokum]
+    "11": [betsche, zagorowo, wieniec, stolun, kuligowo, szarcz, silna, zielomysl,
            swiecia, konty, szedlemin, batkowo, karczyn]
     "12": [kolno, kamionno]
     "13": [kamionno, kolno]
@@ -264,8 +260,8 @@ documents:
     "16": [betsche, swiechocin, stoki, lowyn, glazewo, dormowo, stolun, kuligowo,
            szarcz, silna]
     "17": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
-           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
-    "18": [betsche, zagorowo, wienietz, stolun, kuligowo, szarcz, silna, zielomysl,
+           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wolica, skokum]
+    "18": [betsche, zagorowo, wieniec, stolun, kuligowo, szarcz, silna, zielomysl,
            swiecia, konty, batkowo, karczyn]
     "19": [kopojno, drzewce, swiecia, zagorowo]
     "20": [drzewce, kopojno, swiecia, zagorowo]
@@ -273,7 +269,7 @@ documents:
     # the recital of how title was acquired, not as its subject.
     "21": [zagorowo]
     "22": [betsche, swiechocin, stoki, lowyn, glazewo, tarmowo, zagorowo, swiatniki,
-           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wienietz, wolica, skokum]
+           kopojno, olesnica, drzewce, gradzyn, wrabczyn, wieniec, wolica, skokum]
     "23": [szetlewek]
     "24": [batkowo]
     "25": [betsche, swiechocin, stoki, lowyn, glazewo, dormowo, stolun, kuligowo,

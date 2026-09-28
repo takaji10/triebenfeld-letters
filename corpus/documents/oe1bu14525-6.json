@@ -37,7 +37,7 @@
  "estates": [
   "betsche",
   "zagorowo",
-  "wienietz",
+  "wieniec",
   "stolun",
   "kuligowo",
   "szarcz",
@@ -487,8 +487,8 @@
    "doc_line": 16
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Wienietz",
    "page": 1,
@@ -619,8 +619,8 @@
    "doc_line": 24
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Wienietz",
    "page": 1,
@@ -652,8 +652,8 @@
    "doc_line": 41
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Wienietz",
    "page": 2,
@@ -707,8 +707,8 @@
    "doc_line": 65
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Wienitz",
    "page": 3,
@@ -751,8 +751,8 @@
    "doc_line": 84
   },
   {
-   "entity": "wienietz",
-   "display": "Wienietz",
+   "entity": "wieniec",
+   "display": "Wieniec (Wienietz)",
    "kind": "place",
    "surface": "Wienietz",
    "page": 3,

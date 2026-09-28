@@ -31,7 +31,7 @@
  "estates": [
   "kamionno",
   "betsche",
-  "kulm",
+  "kolno",
   "trabczyn"
  ],
  "is_missing": 0,
@@ -279,8 +279,8 @@
    "doc_line": 21
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulmschen",
    "page": 1,
@@ -290,8 +290,8 @@
    "doc_line": 22
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulmische",
    "page": 1,

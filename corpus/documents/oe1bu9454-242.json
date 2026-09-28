@@ -31,7 +31,7 @@
  "estates": [
   "koschentin",
   "trabczyn",
-  "kulm",
+  "kolno",
   "schlawenschitz",
   "lassowitz",
   "oppurg"
@@ -258,8 +258,8 @@
    "doc_line": 43
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 2,

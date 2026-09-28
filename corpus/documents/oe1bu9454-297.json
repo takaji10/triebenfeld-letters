@@ -31,7 +31,7 @@
  "estates": [
   "betsche",
   "kamionno",
-  "kulm",
+  "kolno",
   "schlawenschitz",
   "lassowitz",
   "oppurg",
@@ -668,8 +668,8 @@
    "doc_line": 47
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 2,
@@ -789,8 +789,8 @@
    "doc_line": 107
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 4,

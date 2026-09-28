@@ -866,6 +866,34 @@
   ]
  },
  {
+  "entity": "kolno",
+  "display": "Kolno (Kulm)",
+  "count": 21,
+  "documents": [
+   "oe1bu14525-12",
+   "oe1bu14525-13",
+   "oe1bu14525-14",
+   "oe1bu14525-34",
+   "oe1bu14526-22",
+   "oe1bu14526-23",
+   "oe1bu14526-4",
+   "oe1bu14526-5",
+   "oe1bu9454-102",
+   "oe1bu9454-103",
+   "oe1bu9454-134",
+   "oe1bu9454-135",
+   "oe1bu9454-136",
+   "oe1bu9454-138",
+   "oe1bu9454-140",
+   "oe1bu9454-242",
+   "oe1bu9454-275",
+   "oe1bu9454-284",
+   "oe1bu9454-285",
+   "oe1bu9454-297",
+   "oe1bu9454-299"
+  ]
+ },
+ {
   "entity": "krotoszyn",
   "display": "Krotoszyn",
   "count": 21,
@@ -941,6 +969,27 @@
   ]
  },
  {
+  "entity": "wieniec",
+  "display": "Wieniec (Wienietz)",
+  "count": 14,
+  "documents": [
+   "oe1bu14525-10",
+   "oe1bu14525-11",
+   "oe1bu14525-17",
+   "oe1bu14525-18",
+   "oe1bu14525-22",
+   "oe1bu14525-41",
+   "oe1bu14525-5",
+   "oe1bu14525-6",
+   "oe1bu14525-7",
+   "oe1bu14525-8",
+   "oe1bu14525-9",
+   "oe1bu9454-103",
+   "oe1bu9454-136",
+   "oe1bu9454-286"
+  ]
+ },
+ {
   "entity": "skokum",
   "display": "Skokum",
   "count": 13,
@@ -977,24 +1026,6 @@
    "oe1bu9454-191",
    "oe1bu9454-213",
    "oe1bu9454-24"
-  ]
- },
- {
-  "entity": "kolno",
-  "display": "Kolno",
-  "count": 11,
-  "documents": [
-   "oe1bu14525-12",
-   "oe1bu14525-13",
-   "oe1bu14525-14",
-   "oe1bu14525-34",
-   "oe1bu14526-22",
-   "oe1bu14526-23",
-   "oe1bu14526-4",
-   "oe1bu14526-5",
-   "oe1bu9454-135",
-   "oe1bu9454-136",
-   "oe1bu9454-138"
   ]
  },
  {
@@ -1088,24 +1119,6 @@
   ]
  },
  {
-  "entity": "kulm",
-  "display": "Kulm",
-  "count": 11,
-  "documents": [
-   "oe1bu9454-102",
-   "oe1bu9454-103",
-   "oe1bu9454-134",
-   "oe1bu9454-136",
-   "oe1bu9454-140",
-   "oe1bu9454-242",
-   "oe1bu9454-275",
-   "oe1bu9454-284",
-   "oe1bu9454-285",
-   "oe1bu9454-297",
-   "oe1bu9454-299"
-  ]
- },
- {
   "entity": "witow",
   "display": "Witów (Wittow)",
   "count": 11,
@@ -1121,23 +1134,6 @@
    "oe1bu9454-23",
    "oe1bu9454-31",
    "oe1bu9454-64"
-  ]
- },
- {
-  "entity": "wienietz",
-  "display": "Wienietz",
-  "count": 10,
-  "documents": [
-   "oe1bu14525-10",
-   "oe1bu14525-11",
-   "oe1bu14525-17",
-   "oe1bu14525-18",
-   "oe1bu14525-22",
-   "oe1bu14525-5",
-   "oe1bu14525-6",
-   "oe1bu14525-7",
-   "oe1bu14525-8",
-   "oe1bu14525-9"
   ]
  },
  {
@@ -1255,19 +1251,6 @@
    "oe1bu14525-4",
    "oe1bu14526-15",
    "oe1bu14526-6"
-  ]
- },
- {
-  "entity": "wieniec",
-  "display": "Wieniec",
-  "count": 6,
-  "documents": [
-   "oe1bu14525-10",
-   "oe1bu14525-41",
-   "oe1bu14525-9",
-   "oe1bu9454-103",
-   "oe1bu9454-136",
-   "oe1bu9454-286"
   ]
  },
  {

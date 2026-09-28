@@ -31,7 +31,7 @@
  "estates": [
   "trabczyn",
   "kamionno",
-  "kulm",
+  "kolno",
   "betsche",
   "zagorowo"
  ],
@@ -336,8 +336,8 @@
    "doc_line": 6
   },
   {
-   "entity": "kulm",
-   "display": "Kulm",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kulm",
    "page": 1,

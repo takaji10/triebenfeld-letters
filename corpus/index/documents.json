@@ -174,7 +174,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 20,
+  "places_named": 19,
   "estates": [
    "betsche",
    "swiechocin",
@@ -190,7 +190,6 @@
    "gradzyn",
    "wrabczyn",
    "wieniec",
-   "wienietz",
    "wolica",
    "skokum"
   ],
@@ -286,7 +285,7 @@
   "estates": [
    "betsche",
    "zagorowo",
-   "wienietz",
+   "wieniec",
    "stolun",
    "kuligowo",
    "szarcz",
@@ -407,7 +406,7 @@
    "drzewce",
    "gradzyn",
    "wrabczyn",
-   "wienietz",
+   "wieniec",
    "wolica",
    "skokum"
   ],
@@ -1897,7 +1896,7 @@
   "places_named": 7,
   "estates": [
    "krotoszyn",
-   "kulm"
+   "kolno"
   ],
   "translation_status": "untranslated",
   "has_summary": false,
@@ -1952,7 +1951,7 @@
    "krotoszyn",
    "wieniec",
    "kamionno",
-   "kulm",
+   "kolno",
    "trabczyn",
    "szetlewek"
   ],
@@ -3283,7 +3282,7 @@
   "estates": [
    "betsche",
    "zagorowo",
-   "wienietz",
+   "wieniec",
    "stolun",
    "kuligowo",
    "szarcz",
@@ -3337,7 +3336,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 20,
+  "places_named": 19,
   "estates": [
    "betsche",
    "swiechocin",
@@ -3353,7 +3352,6 @@
    "gradzyn",
    "wrabczyn",
    "wieniec",
-   "wienietz",
    "wolica",
    "skokum"
   ],
@@ -3755,7 +3753,7 @@
    "drzewce",
    "gradzyn",
    "wrabczyn",
-   "wienietz",
+   "wieniec",
    "wolica",
    "skokum"
   ],
@@ -3876,7 +3874,7 @@
   "estates": [
    "betsche",
    "zagorowo",
-   "wienietz",
+   "wieniec",
    "stolun",
    "kuligowo",
    "szarcz",
@@ -4078,7 +4076,7 @@
   "estates": [
    "betsche",
    "zagorowo",
-   "wienietz",
+   "wieniec",
    "stolun",
    "kuligowo",
    "szarcz",
@@ -4296,7 +4294,7 @@
    "drzewce",
    "gradzyn",
    "wrabczyn",
-   "wienietz",
+   "wieniec",
    "wolica",
    "skokum"
   ],
@@ -4546,7 +4544,7 @@
   "has_damage": true,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 6,
+  "places_named": 5,
   "estates": [
    "kolno",
    "kamionno"
@@ -5682,7 +5680,7 @@
    "kontop",
    "zagorowo",
    "kamionno",
-   "kulm",
+   "kolno",
    "trabczyn"
   ],
   "translation_status": "untranslated",
@@ -5773,7 +5771,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 22,
-  "places_named": 25,
+  "places_named": 24,
   "estates": [
    "kamionno",
    "kolno",
@@ -5793,8 +5791,7 @@
    "lassowitz",
    "oppurg",
    "wieniec",
-   "betsche",
-   "kulm"
+   "betsche"
   ],
   "translation_status": "untranslated",
   "has_summary": false,
@@ -6008,7 +6005,7 @@
   "estates": [
    "betsche",
    "kamionno",
-   "kulm"
+   "kolno"
   ],
   "translation_status": "untranslated",
   "has_summary": false,
@@ -6571,7 +6568,7 @@
    "drzewce",
    "gradzyn",
    "wrabczyn",
-   "wienietz",
+   "wieniec",
    "wolica",
    "skokum"
   ],
@@ -16043,7 +16040,7 @@
   "estates": [
    "koschentin",
    "trabczyn",
-   "kulm",
+   "kolno",
    "schlawenschitz",
    "lassowitz",
    "oppurg"
@@ -17979,7 +17976,7 @@
   "estates": [
    "trabczyn",
    "kamionno",
-   "kulm",
+   "kolno",
    "schlawenschitz",
    "lassowitz",
    "oppurg"
@@ -18535,7 +18532,7 @@
   "estates": [
    "trabczyn",
    "kamionno",
-   "kulm",
+   "kolno",
    "betsche",
    "zagorowo"
   ],
@@ -18576,7 +18573,7 @@
   "estates": [
    "kamionno",
    "betsche",
-   "kulm",
+   "kolno",
    "trabczyn"
   ],
   "translation_status": "untranslated",
@@ -19204,7 +19201,7 @@
   "estates": [
    "betsche",
    "kamionno",
-   "kulm",
+   "kolno",
    "schlawenschitz",
    "lassowitz",
    "oppurg",
@@ -19345,7 +19342,7 @@
   "estates": [
    "betsche",
    "kamionno",
-   "kulm"
+   "kolno"
   ],
   "translation_status": "untranslated",
   "has_summary": false,

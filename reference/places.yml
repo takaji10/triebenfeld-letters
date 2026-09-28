@@ -208,8 +208,12 @@ places:
 
   kolno:
     display: "Kolno"
+    german: "Kulm"
     kind: estate
-    match: 'Kolno\b'
+    # Kulm is Kolno: "dem Marktflecken Kolno oder Kulm" (14525 line 1272), the market
+    # town bordering Kaemen to the north (14525 line 1444). Merged from the old kulm
+    # entry, editor 2026-09-28.
+    match: 'Kolno\b|Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
     tier: "Book-confirmed"
     variants: []
 
@@ -695,33 +699,20 @@ places:
   # pattern below is written against the forms observed in corpus/text, and
   # deliberately not on a stem - see the Wienietz and Konty notes.
 
-  wienietz:
-    display: "Wienietz"
-    kind: estate
-    # NOT a stem. `Wien\w*` or `Win\w*` would take Winter, Winterung and
-    # Winterjahreszeit, which are ordinary German and occur in these files.
-    # The exact form plus the observed misspellings is the whole of it.
-    match: 'Wienietz\w*'
-    tier: ""
-    variants: ["Wienitz", "Winietz", "Winieces"]
-    distinct_from: [wieniec]
-    open_questions:
-      - "A DIFFERENT place from Wieniec. Wienietz heads its own group of
-         appurtenances - 'bey Wienietz, Konty, Szedlemin, Botkowo und Karczyn' -
-         while Wieniec appears only beside Wolica among the Cujavian estates.
-         Do not fold either into the other."
-
   wieniec:
     display: "Wieniec"
+    german: "Wienietz"
     kind: estate
-    match: 'Wieniecz?\w*'
-    tier: ""
-    variants: ["Winniec", "Winnica", "Winicer"]   # Winnica = Wieniec: editor, 2026-09-28
-    distinct_from: [wienietz]
-    open_questions:
-      - "Paired with Wolica every time it occurs, and document 41 has the Bishop
-         of Cujavia vacating 'die Güther Wieniec und Wolica' - a Cujavian
-         holding, not one of the Betsche appurtenances."
+    # NOT a stem: `Wien\w*` or `Win\w*` would take Wien, Winter and Winterung.
+    # The exact forms plus the observed misspellings are the whole of it.
+    match: 'Wieniecz?\w*|Wienietz\w*|Wienitz|Winietz|Winieces'
+    tier: "Context-inferred"
+    variants: ["Wienietz", "Wienitz", "Winietz", "Winieces", "Winniec", "Winnica", "Winicer"]   # Winnica = Wieniec: editor, 2026-09-28
+    # Wienietz and Wieniec are one place (merged 2026-09-28, editor's question). The
+    # same list of former church villages, copied in 14525 documents 5, 8, 9 and 10,
+    # spells it Wienitz, Wienietz, Wieniec and Wieniecz in the same slot before Wolica.
+    # Document 41 has the Bishop of Cujavia vacating 'die Güther Wieniec und Wolica';
+    # it heads the group 'bey Wienietz, Konty, Szedlemin, Botkowo und Karczyn'.
 
   drzewce:
     display: "Drzewce"
@@ -929,14 +920,6 @@ places:
     tier: "Context-inferred"
     variants: []
     # Triebenfeld's own estate, in the Breslau Oberlandesgericht district (9454 letters 74a, 170, 202).
-
-  kulm:
-    display: "Kulm"
-    kind: estate
-    match: 'Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
-    tier: "Context-inferred"
-    variants: []
-    # The market town (Marktflecken) Kulm beside Kamionna, Posen district (14525: 'die Stadt Kamionna, nebst dem Marktflecken Kulm'). Kaemen and Kulm are pledged to Meyer Bernhard (9454 letters 284-286). Modern name unsettled; Chełmno by Pniewy is a candidate, not confirmed.
 
   oppurg:
     display: "Oppurg"

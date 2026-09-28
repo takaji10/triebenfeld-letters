@@ -11371,7 +11371,7 @@
   "relations": [],
   "estates": [
    "krotoszyn",
-   "kulm"
+   "kolno"
   ],
   "is_missing": 0,
   "n_lines": 73,
@@ -11497,7 +11497,7 @@
    "krotoszyn",
    "wieniec",
    "kamionno",
-   "kulm",
+   "kolno",
    "trabczyn",
    "szetlewek"
   ],
@@ -14338,7 +14338,7 @@
    "kontop",
    "zagorowo",
    "kamionno",
-   "kulm",
+   "kolno",
    "trabczyn"
   ],
   "is_missing": 0,
@@ -14674,8 +14674,7 @@
    "lassowitz",
    "oppurg",
    "wieniec",
-   "betsche",
-   "kulm"
+   "betsche"
   ],
   "is_missing": 0,
   "n_lines": 230,
@@ -15278,7 +15277,7 @@
   "estates": [
    "betsche",
    "kamionno",
-   "kulm"
+   "kolno"
   ],
   "is_missing": 0,
   "n_lines": 163,
@@ -26205,7 +26204,7 @@
   "estates": [
    "koschentin",
    "trabczyn",
-   "kulm",
+   "kolno",
    "schlawenschitz",
    "lassowitz",
    "oppurg"
@@ -29429,7 +29428,7 @@
   "estates": [
    "trabczyn",
    "kamionno",
-   "kulm",
+   "kolno",
    "schlawenschitz",
    "lassowitz",
    "oppurg"
@@ -30237,7 +30236,7 @@
   "estates": [
    "trabczyn",
    "kamionno",
-   "kulm",
+   "kolno",
    "betsche",
    "zagorowo"
   ],
@@ -30372,7 +30371,7 @@
   "estates": [
    "kamionno",
    "betsche",
-   "kulm",
+   "kolno",
    "trabczyn"
   ],
   "is_missing": 0,
@@ -31530,7 +31529,7 @@
   "estates": [
    "betsche",
    "kamionno",
-   "kulm",
+   "kolno",
    "schlawenschitz",
    "lassowitz",
    "oppurg",
@@ -31754,7 +31753,7 @@
   "estates": [
    "betsche",
    "kamionno",
-   "kulm"
+   "kolno"
   ],
   "is_missing": 0,
   "n_lines": 109,
