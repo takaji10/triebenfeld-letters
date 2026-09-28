@@ -182,8 +182,8 @@
   "place": "Trąbczyn",
   "count": 21,
   "documents": [
-   "oe1bu9454-128",
    "oe1bu14525-22",
+   "oe1bu9454-128",
    "oe1bu9454-146",
    "oe1bu9454-148",
    "oe1bu9454-149",
@@ -387,14 +387,6 @@
   ]
  },
  {
-  "place": "Frankfurt an der Oder",
-  "count": 2,
-  "documents": [
-   "oe1bu9454-136",
-   "oe1bu14526-4"
-  ]
- },
- {
   "place": "Öhringen",
   "count": 2,
   "documents": [
@@ -456,24 +448,38 @@
   ]
  },
  {
-  "place": "Frankfurt a/d O",
+  "place": "Frankfurth a/d O",
   "count": 1,
   "documents": [
    "oe1bu9454-132"
   ]
  },
  {
-  "place": "Frankfurt",
+  "place": "Frankfurth",
   "count": 1,
   "documents": [
    "oe1bu9454-133"
   ]
  },
  {
-  "place": "Frankfurt a.d. O[der]",
+  "place": "Frankfurth an der Oder",
+  "count": 1,
+  "documents": [
+   "oe1bu9454-136"
+  ]
+ },
+ {
+  "place": "Frankfurth a.d. O[der]",
   "count": 1,
   "documents": [
    "oe1bu9454-137"
+  ]
+ },
+ {
+  "place": "Frankfurt an der Oder",
+  "count": 1,
+  "documents": [
+   "oe1bu14526-4"
   ]
  },
  {

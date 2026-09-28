@@ -168,7 +168,7 @@ places:
   witow:
     display: "Witów"
     kind: village
-    match: 'W[iy]tt?ow\w*'
+    match: 'W[iy]tt?[oó]w\w*'
     tier: ""
     variants: ["Witow", "Wittow", "Witttow", "Wyttow", "Witowes"]
 
@@ -186,7 +186,9 @@ places:
     # (document 12) describes 'der Stadt Kamionna oder Kaemen', and the 1796
     # donation deed (document 1) 'Kamiono oder Keemen'.
     # Not `Ka[e]?h?men`, which also takes the bare word Kamen.
-    match: 'Kamionn\w*|Kamiono\b|Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b'
+    # Kaemen inside `Kamionna [Kaemen]` (the edition's form since 2026-09-28)
+    # is the same mention, not a second one.
+    match: 'Kamionn\w*|Kamiono\b|(?<!\[)(?:Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b)'
     tier: "Book-confirmed"
     variants:
       - "Kamionno"
@@ -968,7 +970,7 @@ places:
   wieruszow:
     display: "Wieruszów"
     kind: town
-    match: 'Wieruszow\w*'
+    match: 'Wierusz[oó]w\w*'
     tier: "Context-inferred"
     variants: []
     # Near Amt Sokolnik (9454 letters 6, 288).
@@ -1469,7 +1471,7 @@ places:
   brzesc:
     display: "Brześć"
     kind: town
-    match: 'Brzesc'
+    match: 'Brze[sś][cć]'
     tier: "Established"
     variants: []
 
@@ -1553,7 +1555,7 @@ places:
   ostrow:
     display: "Ostrów"
     kind: town
-    match: 'Ostrow(?![a-zà-ÿ])'
+    match: 'Ostr[oó]w(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 
@@ -1567,7 +1569,7 @@ places:
   wielun:
     display: "Wieluń"
     kind: town
-    match: 'Vielun|Wielun'
+    match: 'Vielun|Wielu[nń]'
     tier: "Established"
     variants: []
 
@@ -1595,7 +1597,7 @@ places:
   przybyslaw:
     display: "Przybysław"
     kind: village
-    match: 'Przybislaw'
+    match: 'Przyb[iy]s[lł]aw\w*'
     tier: "Established"
     variants: []
 

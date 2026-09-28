@@ -51,22 +51,26 @@
   slug: "fr-ankfurt-a-d-oder"
   count: 1
   letters: [{id: "130", url: "/documents/oe1bu9454/130/"}]
-- name: "Frankfurt"
-  slug: "frankfurt"
-  count: 1
-  letters: [{id: "133", url: "/documents/oe1bu9454/133/"}]
-- name: "Frankfurt a.d. O[der]"
-  slug: "frankfurt-a-d-o-der"
-  count: 1
-  letters: [{id: "137", url: "/documents/oe1bu9454/137/"}]
-- name: "Frankfurt a/d O"
-  slug: "frankfurt-a-d-o"
-  count: 1
-  letters: [{id: "132", url: "/documents/oe1bu9454/132/"}]
 - name: "Frankfurt an der Oder"
   slug: "frankfurt-an-der-oder"
-  count: 2
-  letters: [{id: "136", url: "/documents/oe1bu9454/136/"}, {id: "4", url: "/documents/oe1bu14526/4/"}]
+  count: 1
+  letters: [{id: "4", url: "/documents/oe1bu14526/4/"}]
+- name: "Frankfurth"
+  slug: "frankfurth"
+  count: 1
+  letters: [{id: "133", url: "/documents/oe1bu9454/133/"}]
+- name: "Frankfurth a.d. O[der]"
+  slug: "frankfurth-a-d-o-der"
+  count: 1
+  letters: [{id: "137", url: "/documents/oe1bu9454/137/"}]
+- name: "Frankfurth a/d O"
+  slug: "frankfurth-a-d-o"
+  count: 1
+  letters: [{id: "132", url: "/documents/oe1bu9454/132/"}]
+- name: "Frankfurth an der Oder"
+  slug: "frankfurth-an-der-oder"
+  count: 1
+  letters: [{id: "136", url: "/documents/oe1bu9454/136/"}]
 - name: "Glogau"
   slug: "glogau"
   count: 2
@@ -146,7 +150,7 @@
 - name: "Trąbczyn"
   slug: "trabczyn"
   count: 21
-  letters: [{id: "128", url: "/documents/oe1bu9454/128/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "148", url: "/documents/oe1bu9454/148/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "16", url: "/documents/oe1bu14526/16/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}, {id: "11", url: "/documents/oe1bu14526/11/"}, {id: "12", url: "/documents/oe1bu14526/12/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "9", url: "/documents/oe1bu14526/9/"}, {id: "8", url: "/documents/oe1bu14526/8/"}, {id: "7", url: "/documents/oe1bu14526/7/"}, {id: "6", url: "/documents/oe1bu14526/6/"}, {id: "191", url: "/documents/oe1bu9454/191/"}]
+  letters: [{id: "22", url: "/documents/oe1bu14525/22/"}, {id: "128", url: "/documents/oe1bu9454/128/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "148", url: "/documents/oe1bu9454/148/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "16", url: "/documents/oe1bu14526/16/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}, {id: "11", url: "/documents/oe1bu14526/11/"}, {id: "12", url: "/documents/oe1bu14526/12/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "9", url: "/documents/oe1bu14526/9/"}, {id: "8", url: "/documents/oe1bu14526/8/"}, {id: "7", url: "/documents/oe1bu14526/7/"}, {id: "6", url: "/documents/oe1bu14526/6/"}, {id: "191", url: "/documents/oe1bu9454/191/"}]
 - name: "Warschau"
   slug: "warschau"
   count: 1

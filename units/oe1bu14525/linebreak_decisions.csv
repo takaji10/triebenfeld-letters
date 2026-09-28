@@ -92,7 +92,7 @@
 7,2,688,689,¬,Ingel,fingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,92,,1,,11,,renden Fürsten von Hohenlohe Ingel¬ || fingen zutragenden Freundschaft und
 7,2,695,696,¬,bewo,gen,bewogen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,19,,"Erkenntlichkeit zu geben, Uns bewo¬ || gen gefunden, Jo: Liebden annoch"
 7,2,702,703,¬,Sto,łuń,Stołuń,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,"1.) zu Betsche, die Ortschaften Sto¬ || łuń, Kuligowo, Szarcz, Vogtey,"
-7,3,710,711,¬,Bot,kowo,Botkowo,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"3.) bey Wienitz, Konty, Siedlemyn, Bot¬ || kowo und Karczin gegen Erlegung"
+7,3,710,711,¬,Bot,kowo,Botkowo,join,held,joined form occurs elsewhere in this corpus,False,0,0,0,21469264,1,5307,"3.) bey Wienitz, Konty, Siedlemyn, Bot¬ || kowo und Karczyn gegen Erlegung"
 7,3,712,713,¬,Hauslände,reyen,Hausländereyen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,," der von gedachten Ortschaften, Hauslände¬ || reyen und Grundstücken bishero ent¬"
 7,3,713,714,¬,ent,richteten,entrichteten,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,2,,reyen und Grundstücken bishero ent¬ || richteten Landes herrlichen Abgaben
 7,3,715,716,¬,unabändern,lichen,unabändernlichen,join,high,head is not a word on its own,False,0,0,0,0,11,,als eines bestimmten und unabändern¬ || lichen Canons und
@@ -329,7 +329,7 @@
 18,2,2205,2206,¬,gehö,rigen,gehörigen,join,high,joined form occurs elsewhere in this corpus,False,22,,0,,5,,"rów, und und Wienietz gehö¬ || rigen Pertinenz Stücke"
 18,2,2208,2209,¬,Ort,schaften,Ortschaften,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,"1.) zu Betschen, die Ort¬ || schaften Stołuń, Kuligo¬"
 18,2,2209,2210,¬,Kuligo,wo,Kuligowo,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,8,,"schaften Stołuń, Kuligo¬ || wo, Szarcz, Vogtey"
-18,3,2218,2219,¬,Szedle,min,Szedlemin,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"3. bey Wienietz, Konty, Szedle¬ || min, Botkowo und Karczyn"
+18,3,2218,2219,¬,Szedle,min,Szedlemin,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"3. bey Wienietz, Konty, Szedle¬ || min, Batkowo und Karczyn"
 18,3,2221,2222,¬,Ort,schaften,Ortschaften,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,"1.) der von gedachten Ort¬ || schaften, Hauländereyen und"
 18,3,2223,2224,¬,ent,richteten,entrichteten,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,2,,Grundestücken bis hero ent¬ || richteten Landes herrlichen
 18,3,2225,2226,¬,bestim,ten,bestimten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,160,,"Abgaben, als eines bestim¬ || ten und unabänderlichen Ca¬"
@@ -465,7 +465,7 @@
 22,10,2913,2914,¬,Verleihungs,Urkunde,VerleihungsUrkunde,join,high,joined form occurs elsewhere in this corpus,False,2,,29,,44,,auf den Grund der Verleihungs¬ || Urkunde d. d. Berlin d. 19. Juli
 23,1,2954,2955,¬,Süd,preußen,Südpreußen,join,high,joined form occurs elsewhere in this corpus,False,7,,16,,24,,durchlaucht gehörigen in der Provinz Süd¬ || preußen im Departement der Königl.
 23,1,2962,2963,¬,cal,culo,calculo,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"oder 187,031 fl. 25 g. pol in cal¬ || culo richtig."
-23,2,2967,2968,¬,Depar,tement,Departement,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,Das in der Provinz Südpreußen im Depar¬ || tement der Königl. Regierung in Kalisch
+23,2,2967,2968,¬,Depar,tement,Departement,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,Das in der Provinz Südpreußen im Depar¬ || tement der Königl. Regierung in Kalisz
 23,2,2975,2976,¬,Grabi,enice,Grabienice,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"gegen Morgen mit Podbiele und Grabi¬ || enice hat eine Ek[?]grenze mit Grabienice,"
 23,2,2982,2983,¬,Retra,dition,Retradition,join,high,head is not a word on its own,False,0,0,0,118,1,,im Jahr 1799. eine gerichtliche Retra¬ || dition vorgenommen würde zeigten
 23,2,2986,2987,¬,Domi,nium,Dominium,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,"abgerissen worden, die das Domi¬ || nium vindiciren will hier jedoch"
@@ -488,7 +488,7 @@
 23,9,3174,3175,¬,gehö,rigen,gehörigen,join,high,joined form occurs elsewhere in this corpus,False,22,,0,,5,,Friederich Ludewig durchlaucht gehö¬ || rigen Guthe Szetlewek.
 23,10,3184,3185,¬,Kirch,spiel,Kirchspiel,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,dem im Koniner Kreise und im Kirch¬ || spiel Rzgow gelegenen und dem
 23,11,3200,3201,¬,grö,ssern,grössern,join,held,"held: a real word broken at the line end; the joined form is a period, Latin, Polish or name spelling (checked 2026-09-28)",False,0,114,0,1184,1,220,Königl. Südpr. Regierung grö¬ || ssern Innse[...] und Unter¬
-23,11,3201,3202,¬,Unter,schrift,Unterschrift,join,high,joined form occurs elsewhere in this corpus,False,14,,45,,4,,ssern Innse[...] und Unter¬ || schrift. Geg[...] Kalisch den 3ten
+23,11,3201,3202,¬,Unter,schrift,Unterschrift,join,high,joined form occurs elsewhere in this corpus,False,14,,45,,4,,ssern Innse[...] und Unter¬ || schrift. Geg[...] Kalisz den 3ten
 25,1,3245,3246,¬,verlie,hen,verliehen,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,"ejusdem anni erb und eigenthümlich verlie¬ || hen erhalten, und ist Titulus possessionis"
 25,2,3264,3265,¬,beige,brachten,beigebrachten,join,high,"joined form attested in DWDS (3,207 hits)",False,0,3207,0,,1,,esetzt worden ist auf den Grund des beige¬ || brachten Attestes der Krieges und Domainen
 25,2,3268,3269,¬,Competi,vigore,Competivigore,join,high,head is not a word on its own,False,0,0,0,0,12,, nunmehro gelöschten unbestimmten Competi¬ || vigore Decreti vom 17ten Januar 1803. eing
@@ -545,7 +545,7 @@
 31,1,3610,3611,¬,Ur,tels,Urtels,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"esem Ende eine beglaubte Abschrift des Ur¬ || tels, wodurch das gesammte Vermöegen des A"
 31,1,3612,3613,¬,wor,den,worden,join,high,joined form occurs elsewhere in this corpus,False,120,,0,,299,,von Prusimski dem Fisco zugesprochen wor¬ || den nebst einem Attest des Judicii compete
 31,1,3613,3614,¬,competen,tis,competentis,join,high,head is not a word on its own,False,0,0,0,27,1,,n nebst einem Attest des Judicii competen¬ || tis: dass das Urtel die Rechtskraft beschr
-31,1,3616,3617,¬,wohl,beygethan,wohlbeygethan,join,held,"held: a real word broken at the line end; the joined form is a period, Latin, Polish or name spelling (checked 2026-09-28)",False,0,0,8,13849753,1,0,n mit Königl. Gnade und Freundschaft wohl¬ || beygethan. Gegeben Kalisch den 28. Decbr
+31,1,3616,3617,¬,wohl,beygethan,wohlbeygethan,join,held,"held: a real word broken at the line end; the joined form is a period, Latin, Polish or name spelling (checked 2026-09-28)",False,0,0,8,13849753,1,0,n mit Königl. Gnade und Freundschaft wohl¬ || beygethan. Gegeben Kalisz den 28. Decbr
 32,1,3631,3632,¬,In,gelfingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,92,,241,,4,,"den regierenden Fürsten von Hohenlohe In¬ || gelfingen, Friedrich Ludwig ad requisition"
 32,1,3633,3634,¬,enu,mehro,enumehro,join,high,head is not a word on its own,False,0,0,0,844,1,,vom 24ten Septbr. a. pr. das Homagium enu¬ || mehro des baldigsten beliebigst ableisten
 32,1,3635,3636,¬,Verhand,lung,Verhandlung,join,high,"joined form attested in DWDS (2,501,317 hits)",False,0,2501317,0,,1,,und uns die darüber aufgenommene Verhand¬ || lung gefälligst zukommen zu laßen.
@@ -555,7 +555,7 @@
 33,1,3657,3658,¬,höchsti,solche,höchstisolche,join,high,head is not a word on its own,False,0,0,0,8,28,,", so sehr angelegen sehen seitdem höchsti¬ || solche der Beendigung dieser Sache entgege"
 33,1,3674,3675,¬,ange,strengt,angestrengt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,," eiligen Berichtigung des Tit. poss. ange¬ || strengt worden sind, so sehr angelegen p."
 34,1,3679,3680,¬,Ge,treuer,Getreuer,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,2,,"ge Gruß zuvor, Ehrenvester Rath lieber Ge¬ || treuer! Wir lassen Euch auf Eure Vorstellu"
-34,1,3682,3683,¬,wor,den,worden,join,high,joined form occurs elsewhere in this corpus,False,120,,0,,299,,aemen von dem Fisco bereits geleistet wor¬ || den ist. Zur Resignation der Betscher Güte
+34,1,3682,3683,¬,wor,den,worden,join,high,joined form occurs elsewhere in this corpus,False,120,,0,,299,,emen] von dem Fisco bereits geleistet wor¬ || den ist. Zur Resignation der Betscher Güte
 34,1,3685,3686,¬,In,gelfingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,92,,241,,4,,regierenden Herrn Fürsten zu Hohenlohe In¬ || gelfingen verliehenen Güter ist die Resign
 34,1,3689,3690,¬,Remo,nern,Remonern,split,high,joined form unattested; both halves are real words,False,0,0,0,93651,1,2144,nen recipirten Justiz Commissar ohne Remo¬ || nern Anstand bewürkt werde. Sind Euch mit
 35,1,3703,3704,¬,Cuja,wien,Cujawien,join,high,head is not a word on its own,False,0,0,0,104,1,,sleistung sämtlicher Betscher und in Cuja¬ || wien belegenen Güther des Fürsten von Hohe

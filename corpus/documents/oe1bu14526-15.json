@@ -217,28 +217,6 @@
    "doc_line": 2
   },
   {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 4,
-   "page_id": "0090_a1",
-   "scan": "Oe_1_Bu_14526_0090_a1-L15_04.jpg",
-   "line": 4874,
-   "doc_line": 98
-  },
-  {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 4,
-   "page_id": "0090_a1",
-   "scan": "Oe_1_Bu_14526_0090_a1-L15_04.jpg",
-   "line": 4876,
-   "doc_line": 100
-  },
-  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
@@ -653,6 +631,17 @@
    "scan": "Oe_1_Bu_14526_0088_b-L15_01.jpg",
    "line": 4780,
    "doc_line": 7
+  },
+  {
+   "entity": "przybyslaw",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface": "Przybisław",
+   "page": 1,
+   "page_id": "0088_b",
+   "scan": "Oe_1_Bu_14526_0088_b-L15_01.jpg",
+   "line": 4781,
+   "doc_line": 8
   },
   {
    "entity": "trabczyn",

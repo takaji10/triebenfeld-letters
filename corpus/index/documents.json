@@ -686,7 +686,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 11,
+  "mentions": 12,
   "places_named": 3,
   "estates": [
    "krotoszyn"
@@ -2179,7 +2179,7 @@
   "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 2,
   "estates": [
    "dormowo",
@@ -2637,8 +2637,8 @@
   "era": "hohenlohe",
   "themes": [],
   "repository": "",
-  "date_iso": "1800-07",
-  "date_precision": "month",
+  "date_iso": "1800-07-08",
+  "date_precision": "day",
   "date_source": "signature",
   "place": "Kalisch",
   "n_pages": 8,
@@ -3142,6 +3142,103 @@
   "path": "documents/oe1bu9454-113.json",
   "text_path": "text/oe1bu9454-113.txt",
   "permalink": "/documents/oe1bu9454/113/"
+ },
+ {
+  "uid": "oe1bu14525-22",
+  "unit": "oe1bu14525",
+  "letter_id": "22",
+  "doc_type": "donation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "",
+  "date_iso": "1801-08-29",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Trąbczyn",
+  "n_pages": 10,
+  "n_lines": 284,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0085_a2",
+    "image": "Oe_1_Bu_14525_0085_a2-L22_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0086_a1",
+    "image": "Oe_1_Bu_14525_0086_a1-L22_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0086_a2",
+    "image": "Oe_1_Bu_14525_0086_a2-L22_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0087_a1",
+    "image": "Oe_1_Bu_14525_0087_a1-L22_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0087_a2",
+    "image": "Oe_1_Bu_14525_0087_a2-L22_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0088_a1",
+    "image": "Oe_1_Bu_14525_0088_a1-L22_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0088_a2",
+    "image": "Oe_1_Bu_14525_0088_a2-L22_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0089_a1",
+    "image": "Oe_1_Bu_14525_0089_a1-L22_08.jpg"
+   },
+   {
+    "page": 9,
+    "page_id": "0089_a2",
+    "image": "Oe_1_Bu_14525_0089_a2-L22_09.jpg"
+   },
+   {
+    "page": 10,
+    "page_id": "0090_a1",
+    "image": "Oe_1_Bu_14525_0090_a1-L22_10.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 5,
+  "places_named": 28,
+  "estates": [
+   "betsche",
+   "swiechocin",
+   "stoki",
+   "lowyn",
+   "glazewo",
+   "tarmowo",
+   "zagorowo",
+   "swiatniki",
+   "kopojno",
+   "olesnica",
+   "drzewce",
+   "gradzyn",
+   "wrabczyn",
+   "wienietz",
+   "wolica",
+   "skokum"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "title": "donation 22",
+  "path": "documents/oe1bu14525-22.json",
+  "text_path": "text/oe1bu14525-22.txt",
+  "permalink": "/documents/oe1bu14525/22/"
  },
  {
   "uid": "oe1bu14525-38",
@@ -3989,7 +4086,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "batkowo",
    "szedlemin"
@@ -5443,7 +5540,7 @@
   "date_iso": "1804-05-23",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Frankfurt a/d O",
+  "place": "Frankfurth a/d O",
   "n_pages": 3,
   "n_lines": 61,
   "scans": [
@@ -5491,7 +5588,7 @@
   "date_iso": "1804-05-23",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Frankfurt",
+  "place": "Frankfurth",
   "n_pages": 5,
   "n_lines": 94,
   "scans": [
@@ -5607,7 +5704,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 1,
+  "mentions": 2,
   "places_named": 3,
   "estates": [
    "trabczyn"
@@ -5707,7 +5804,7 @@
   "date_iso": "1804-06",
   "date_precision": "month",
   "date_source": "signature",
-  "place": "Frankfurt an der Oder",
+  "place": "Frankfurth an der Oder",
   "n_pages": 12,
   "n_lines": 230,
   "scans": [
@@ -5818,7 +5915,7 @@
   "date_iso": "1804-06-21",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Frankfurt a.d. O[der]",
+  "place": "Frankfurth a.d. O[der]",
   "n_pages": 3,
   "n_lines": 51,
   "scans": [
@@ -6489,103 +6586,6 @@
   "permalink": "/documents/oe1bu9454/142/"
  },
  {
-  "uid": "oe1bu14525-22",
-  "unit": "oe1bu14525",
-  "letter_id": "22",
-  "doc_type": "donation",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "",
-  "date_iso": "1804-10-04",
-  "date_precision": "day",
-  "date_source": "signature",
-  "place": "Trąbczyn",
-  "n_pages": 10,
-  "n_lines": 284,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0085_a2",
-    "image": "Oe_1_Bu_14525_0085_a2-L22_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0086_a1",
-    "image": "Oe_1_Bu_14525_0086_a1-L22_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0086_a2",
-    "image": "Oe_1_Bu_14525_0086_a2-L22_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0087_a1",
-    "image": "Oe_1_Bu_14525_0087_a1-L22_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0087_a2",
-    "image": "Oe_1_Bu_14525_0087_a2-L22_05.jpg"
-   },
-   {
-    "page": 6,
-    "page_id": "0088_a1",
-    "image": "Oe_1_Bu_14525_0088_a1-L22_06.jpg"
-   },
-   {
-    "page": 7,
-    "page_id": "0088_a2",
-    "image": "Oe_1_Bu_14525_0088_a2-L22_07.jpg"
-   },
-   {
-    "page": 8,
-    "page_id": "0089_a1",
-    "image": "Oe_1_Bu_14525_0089_a1-L22_08.jpg"
-   },
-   {
-    "page": 9,
-    "page_id": "0089_a2",
-    "image": "Oe_1_Bu_14525_0089_a2-L22_09.jpg"
-   },
-   {
-    "page": 10,
-    "page_id": "0090_a1",
-    "image": "Oe_1_Bu_14525_0090_a1-L22_10.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 5,
-  "places_named": 28,
-  "estates": [
-   "betsche",
-   "swiechocin",
-   "stoki",
-   "lowyn",
-   "glazewo",
-   "tarmowo",
-   "zagorowo",
-   "swiatniki",
-   "kopojno",
-   "olesnica",
-   "drzewce",
-   "gradzyn",
-   "wrabczyn",
-   "wienietz",
-   "wolica",
-   "skokum"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "title": "donation 22",
-  "path": "documents/oe1bu14525-22.json",
-  "text_path": "text/oe1bu14525-22.txt",
-  "permalink": "/documents/oe1bu14525/22/"
- },
- {
   "uid": "oe1bu9454-143",
   "unit": "oe1bu9454",
   "letter_id": "143",
@@ -7094,7 +7094,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
+  "mentions": 5,
   "places_named": 3,
   "estates": [
    "trabczyn"
@@ -8386,8 +8386,8 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
-  "places_named": 4,
+  "mentions": 7,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "osiny"
@@ -8753,7 +8753,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "trabczyn"
   ],
@@ -9253,7 +9253,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 15,
-  "places_named": 19,
+  "places_named": 20,
   "estates": [
    "trabczyn",
    "betsche",
@@ -11712,7 +11712,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 12,
+  "mentions": 13,
   "places_named": 10,
   "estates": [
    "kontop"
@@ -19346,7 +19346,7 @@
   "uncertainty_count": 9,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 25,
+  "mentions": 26,
   "places_named": 11,
   "estates": [
    "trabczyn",

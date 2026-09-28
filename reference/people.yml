@@ -80,7 +80,7 @@ people:
     variants: []
   bornstaedt:
     display: "Bornstädt"
-    match: "Bornstädt|Bornstaedt|Bornstaet"
+    match: 'Bornst(?:ä|ae|a)e?dt\w*|Bornstaet'
     tier: "Externally confirmed (family), role unclear beyond creditor"
     variants: ["Bornstaedt", "Bornstaet"]
   broniewski:
@@ -1055,3 +1055,21 @@ people:
     tier: "Context-inferred"
     variants: []
     identity: "Henri-Gatien Bertrand, Napoleon's Grand Marshal of the Palace, with him on Elba and in 1815 (letters 4, 277). Transcribed Bertherand; standardised 2026-09-28."
+  schulze:
+    display: "Geheimer Finanzrat Schulze"
+    match: 'Schulze(?![a-zà-ÿ])|Schulzische\w*'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Geheimer Finanz Rath Schulze, Berlin, in the Krotoszyn exchange (9454 letters 79-81). Kept apart from the Schulz of Strelitz and from Wilhelm Daniel Schulz (editor 2026-09-28)."
+  schulz-strelitz:
+    display: "Postmeister Schulz (Strelitz)"
+    match: '(?<=PostMeister )Schulz(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Post master at Strelitz (9454 letter 55)."
+  schulz-wilhelm-daniel:
+    display: "Wilhelm Daniel Schulz"
+    match: '(?<=Daniel )Schulz(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Dutch settler (Holländer) from Krolikowo, party to the 14526 hereditary-lease contracts (letters 15-16)."

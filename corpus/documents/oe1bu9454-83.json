@@ -110,7 +110,7 @@
  "mentions": [
   {
    "entity": "schulze",
-   "display": "Schulze",
+   "display": "Geheimer Finanzrat Schulze",
    "kind": "person",
    "surface": "Schulze",
    "page": 1,
@@ -168,17 +168,6 @@
    "display": "Beyme",
    "kind": "person",
    "surface": "Beyme",
-   "page": 2,
-   "page_id": "0174_a1",
-   "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",
-   "line": 6700,
-   "doc_line": 39
-  },
-  {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulze",
    "page": 2,
    "page_id": "0174_a1",
    "scan": "Oe_1_Bu_9454_0174_a1-L83_02.jpg",

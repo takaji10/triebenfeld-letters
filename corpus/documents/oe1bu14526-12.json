@@ -548,6 +548,17 @@
    "doc_line": 48
   },
   {
+   "entity": "przybyslaw",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface": "Przybysław",
+   "page": 2,
+   "page_id": "0073_a1",
+   "scan": "Oe_1_Bu_14526_0073_a1-L12_02.jpg",
+   "line": 3800,
+   "doc_line": 50
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -557,6 +568,17 @@
    "scan": "Oe_1_Bu_14526_0073_a1-L12_02.jpg",
    "line": 3805,
    "doc_line": 55
+  },
+  {
+   "entity": "przybyslaw",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface": "Przybisław",
+   "page": 2,
+   "page_id": "0073_a1",
+   "scan": "Oe_1_Bu_14526_0073_a1-L12_02.jpg",
+   "line": 3817,
+   "doc_line": 67
   }
  ],
  "translation_status": "draft",

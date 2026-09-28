@@ -347,17 +347,6 @@
    "doc_line": 17
   },
   {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 1,
-   "page_id": "0009_b",
-   "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
-   "line": 363,
-   "doc_line": 20
-  },
-  {
    "entity": "jankowski",
    "display": "Jankowski",
    "kind": "person",
@@ -367,17 +356,6 @@
    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
    "line": 373,
    "doc_line": 29
-  },
-  {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 2,
-   "page_id": "0010_a1",
-   "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
-   "line": 387,
-   "doc_line": 43
   },
   {
    "entity": "gelanski",
@@ -413,17 +391,6 @@
    "doc_line": 49
   },
   {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 4,
-   "page_id": "0011_a1",
-   "scan": "Oe_1_Bu_14526_0011_a1-L3_04.jpg",
-   "line": 442,
-   "doc_line": 96
-  },
-  {
    "entity": "hertzog",
    "display": "Hertzog",
    "kind": "person",
@@ -433,17 +400,6 @@
    "scan": "Oe_1_Bu_14526_0011_a2-L3_05.jpg",
    "line": 451,
    "doc_line": 104
-  },
-  {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 5,
-   "page_id": "0011_a2",
-   "scan": "Oe_1_Bu_14526_0011_a2-L3_05.jpg",
-   "line": 456,
-   "doc_line": 109
   },
   {
    "entity": "jankowski",
@@ -501,17 +457,6 @@
    "doc_line": 154
   },
   {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 7,
-   "page_id": "0012_a2",
-   "scan": "Oe_1_Bu_14526_0012_a2-L3_07.jpg",
-   "line": 506,
-   "doc_line": 157
-  },
-  {
    "entity": "jankowski",
    "display": "Jankowski",
    "kind": "person",
@@ -532,17 +477,6 @@
    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
    "line": 528,
    "doc_line": 178
-  },
-  {
-   "entity": "schulze",
-   "display": "Schulze",
-   "kind": "person",
-   "surface": "Schulzen",
-   "page": 8,
-   "page_id": "0013_a1",
-   "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
-   "line": 529,
-   "doc_line": 179
   },
   {
    "entity": "jankowski",
