@@ -526,7 +526,7 @@ b6f26012,oe1bu14526-017,6,Amt stehet den Einsmaßen,Auch stehet den Einsassen fr
 4a89ed29,oe1bu14526-017,7,"zwischen Thalenten, Aeltere und Kindern","zwischen Ehegatten, Aeltern und Kindern",n,"The standard laudemium exemption is for spouses, parents and children."
 ae579889,oe1bu14526-017,8,Nuurbar,Nutzbarkeiten,y,"Fits the formulaic triad Ländereien, Wiesen und Nutzbarkeiten."
 6c31b452,oe1bu14526-018,19,Kauf und Einstands quanto,Kauf und Erbstands quanto,y,The deed elsewhere reads 'Kauf und Erbstands quantum'.
-81e80870,oe1bu14526-018,22,Eichaust,Echaust,n,Pages 23 and 25 read 'Echaust' / 'Josef Echaust'; one of the two spellings is a misreading.
+b2461cee,oe1bu14526-018,22,Eichaust,Echaust,@6175 Eichaust -> Echaust,"Name standardised across units: Echaust, as the interpreter signs himself (Josef Echaust, letters 18-19) (2026-09-28)"
 c1350f2f,oe1bu14526-018,25,Betrche,Betsche,y,The place is called Betsche throughout; 'Betrche' is a transcription slip.
 f4bff823,oe1bu14526-019,3,großen Orten,großen Orden,y,Formula for orders of knighthood; 't'/'d' confusion.
 4d023ed9,oe1bu14526-019,15,Einstandts quantum,Erbstandts quantum,y,Every other occurrence in the deed reads 'Kauf und Erbstands Quantum'.
@@ -939,3 +939,26 @@ e1560f65,oe1bu14526-024,1,Einseßen,Einsaßen,@7645 Einseßen -> Einsaßen,Nonwo
 0a8f9daf,oe1bu14526-006,1,Dürchlauch,Durchlaucht,@1116 Dürchlauch -> Durchlaucht,Formula misreading (editor's watch-list 2026-09-28)
 b68bcc2b,oe1bu14526-006,6,fehni¬,stehen¬,@1257 fehni¬ -> stehen¬,Split word: one half misread (auf dieser Hufe stehende Holz)
 40e54fe9,oe1bu14526-005,3,auf de,auf de[n],@962 auf de -> auf de[n],Lost ending supplied in brackets (auf den Herrn Käufer über)
+03973396,oe1bu14526-003,8,Eichaust,Echaust,@537 Eichaust -> Echaust,"Name standardised across units: Echaust, as the interpreter signs himself (Josef Echaust, letters 18-19) (2026-09-28)"
+5e77056b,oe1bu14526-003,10,Eichaust,Echaust,@576 Eichaust -> Echaust,"Name standardised across units: Echaust, as the interpreter signs himself (Josef Echaust, letters 18-19) (2026-09-28)"
+6d694866,oe1bu14526-006,11,Schenk,Schenck,@1393 Schenk -> Schenck,"Name standardised across units: Schenck, the spelling of 9454 and the name index (2026-09-28)"
+c3006b7d,oe1bu14526-007,11,Schenk,Schenck,@1767 Schenk -> Schenck,"Name standardised across units: Schenck, the spelling of 9454 and the name index (2026-09-28)"
+719b101f,oe1bu14526-009,10,Schenk,Schenck,@2818 Schenk -> Schenck,"Name standardised across units: Schenck, the spelling of 9454 and the name index (2026-09-28)"
+65de1531,oe1bu14526-009,13,Schenk,Schenck,@2888 Schenk -> Schenck,"Name standardised across units: Schenck, the spelling of 9454 and the name index (2026-09-28)"
+83258718,oe1bu14526-018,1,Glenk,Glenck,@5749 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+49cfa446,oe1bu14526-018,2,Glenk,Glenck,@5767 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+5267bc4f,oe1bu14526-018,3,Glenk,Glenck,@5789 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+a3d9c9a9,oe1bu14526-018,7,Glenk,Glenck,@5875 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+16180df6,oe1bu14526-018,8,Hirchel,Hirschel,@5885 Hirchel -> Hirschel,"Name standardised across units: Hirschel, the spelling of 9454 and the name index (2026-09-28)"
+29c637e5,oe1bu14526-018,9,Glenk,Glenck,@5901 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+721cdb5d,oe1bu14526-018,23,Glenk,Glenck,@6199 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+7f5ab323,oe1bu14526-018,25,Glenk,Glenck,@6228 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+bdde4acd,oe1bu14526-019,1,Glenk,Glenck,@6330 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+31319d2a,oe1bu14526-019,2,Glenk,Glenck,@6352 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+347c976f,oe1bu14526-019,5,Glenk,Glenck,@6441 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+e91c6407,oe1bu14526-019,6,Glenk,Glenck,@6469 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+a8537854,oe1bu14526-019,17,Glenk,Glenck,@6762 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+8fc8db97,oe1bu14526-019,19,Glenk,Glenck,@6794 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+873467bf,oe1bu14526-023,15,Glenk,Glenck,@7333 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"
+6d50b91b,oe1bu14526-025,1,Radzinsky,Radzinski,@7732 Radzinsky -> Radzinski,"Name standardised across units: Radzinski, the standard spelling (editor ruling for 14526 letter 28) (2026-09-28)"
+ad025a48,oe1bu14526-028,2,Glenk,Glenck,@7998 Glenk -> Glenck,"Name standardised across units: Glenck, the spelling of 9454 and the name index (2026-09-28)"

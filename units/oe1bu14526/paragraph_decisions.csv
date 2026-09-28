@@ -57,24 +57,24 @@
 3,497,run,review,short_line,0.34,17,50,gewechselt worden,So geschehen Birnbaum den 24ten Juny 1797
 3,499,break,high,short_line+column,0.56,28,50,(L. S.) Joseph von Jankowski,(L. S.) Andreas Ernst Gneust.
 3,500,break,high,short_line,0.58,29,50,(L. S.) Andreas Ernst Gneust.,daß die denen Endes unterzeichneten Gerichts Personen
-3,517,break,high,short_line,0.62,26,42,Birnbaum den 24 Juny 1797.,Goeker
-3,518,break,high,short_line+column,0.14,6,42,Goeker,Justiz Bürger Meister
-3,519,break,high,short_line+column,0.5,21,42,Justiz Bürger Meister,und Justitiarius hieselbst
-3,520,break,high,short_line+column,0.62,26,42,und Justitiarius hieselbst,(L. S.)
-3,521,break,high,short_line+column,0.17,7,42,(L. S.),Bauer
-3,522,break,high,short_line+column,0.12,5,42,Bauer,Stadt und Justiz Seon
-3,523,break,high,short_line+column,0.5,21,42,Stadt und Justiz Seon,hieselbst
-3,524,run,review,short_line,0.21,9,42,hieselbst,Actum Betsche den 6ten May 1799.
-3,534,break,high,rubric+short_line,0.26,11,42,erschienen.,"1, der Verkäufer Joseph von Jankowski"
-3,535,break,high,rubric,0.88,37,42,"1, der Verkäufer Joseph von Jankowski",2. der Kaufer Kreis Steuer Einnehmer Gneust
+3,517,break,high,short_line,0.63,26,41,Birnbaum den 24 Juny 1797.,Goeker
+3,518,break,high,short_line+column,0.15,6,41,Goeker,Justiz Bürger Meister
+3,519,break,high,short_line+column,0.51,21,41,Justiz Bürger Meister,und Justitiarius hieselbst
+3,520,break,high,short_line+column,0.63,26,41,und Justitiarius hieselbst,(L. S.)
+3,521,break,high,short_line+column,0.17,7,41,(L. S.),Bauer
+3,522,break,high,short_line+column,0.12,5,41,Bauer,Stadt und Justiz Seon
+3,523,break,high,short_line+column,0.51,21,41,Stadt und Justiz Seon,hieselbst
+3,524,run,review,short_line,0.22,9,41,hieselbst,Actum Betsche den 6ten May 1799.
+3,534,break,high,rubric+short_line,0.27,11,41,erschienen.,"1, der Verkäufer Joseph von Jankowski"
+3,535,break,high,rubric,0.9,37,41,"1, der Verkäufer Joseph von Jankowski",2. der Kaufer Kreis Steuer Einnehmer Gneust
 3,549,break,high,short_line,0.61,22,36,bedächtig vor Gericht.,wie sie diesem Kauf Contract hiermit
 3,553,run,review,short_line,0.36,13,36,halten wollen,Besonders erklärte der Verkäufer von
 3,555,run,review,short_line,0.25,9,36,Jankowski,wie er das verkaufte Grundstük dem
 3,563,run,review,short_line,0.25,9,36,genehmige,daß der Titulus possessionis für den
 3,567,break,high,short_line,0.44,16,36,richtiget werde.,Womit dieses Verlautbarungs Protocoll zur
 3,575,break,high,short_line+column,0.42,16,38,Joseph Jankowski,Andreas Ernst Gneust
-3,576,break,high,short_line+column,0.53,20,38,Andreas Ernst Gneust,Eichaust
-3,577,break,high,short_line+column,0.21,8,38,Eichaust,Schleich
+3,576,break,high,short_line+column,0.53,20,38,Andreas Ernst Gneust,Echaust
+3,577,break,high,short_line+column,0.18,7,38,Echaust,Schleich
 3,578,break,high,short_line+column,0.21,8,38,Schleich,Hintsch
 3,579,run,review,short_line,0.18,7,38,Hintsch,Wir wollen nun auf das Ansuchen der Contrahenten
 3,587,run,review,short_line,0.39,15,38,fertigen lassen,so geschehen Betsche den 6ten May 1799
@@ -217,8 +217,8 @@
 6,1390,break,high,short_line,0.54,22,41,bei und unterzeichnet.,v Triebenfeld.
 6,1391,break,high,short_line,0.34,14,41,v Triebenfeld.,xxx bedeutet Blazy Kukulski.
 6,1392,break,high,short_line,0.68,28,41,xxx bedeutet Blazy Kukulski.,a u s
-6,1393,break,high,short_line+column,0.12,5,41,a u s,Schenk
-6,1394,break,high,short_line+column,0.15,6,41,Schenk,Justitiarius
+6,1393,break,high,short_line+column,0.12,5,41,a u s,Schenck
+6,1394,break,high,short_line+column,0.17,7,41,Schenck,Justitiarius
 6,1395,break,high,short_line+column,0.29,12,41,Justitiarius,Ogrodowicz
 6,1396,break,high,short_line+column,0.24,10,41,Ogrodowicz,Protocollführer
 6,1397,break,high,short_line+column,0.37,15,41,Protocollführer,General Vollmacht
@@ -260,8 +260,8 @@
 7,1717,break,high,rubric+short_line,0.69,20,29,richtigen laßen kann,§. XVI
 7,1742,run,review,short_line,0.2,6,30,lustig,Beide Theile versprechen diesen
 7,1765,break,high,rubric+short_line,0.4,10,25,schrieben.,v. Triebenfeld
-7,1767,break,high,short_line+column,0.56,14,25,Gottlieb Sarre,Schenk
-7,1768,break,high,short_line+column,0.24,6,25,Schenk,Justitiarius
+7,1767,break,high,short_line+column,0.56,14,25,Gottlieb Sarre,Schenck
+7,1768,break,high,short_line+column,0.28,7,25,Schenck,Justitiarius
 7,1769,break,high,short_line+column,0.48,12,25,Justitiarius,Ogrodowicz
 7,1770,break,high,short_line+column,0.4,10,25,Ogrodowicz,Protocoll Führer
 7,1771,run,review,short_line,0.64,16,25,Protocoll Führer,Co dla wiary publiczney pod
@@ -364,8 +364,8 @@
 9,2815,break,high,short_line+column,0.67,18,27,Maciey Niedźwiecki,Anton v Rapacki
 9,2816,break,high,short_line+column,0.56,15,27,Anton v Rapacki,jako Swiadek.
 9,2817,break,high,short_line,0.48,13,27,jako Swiadek.,u. u. u.
-9,2818,break,high,short_line,0.3,8,27,u. u. u.,Schenk.
-9,2819,break,high,salutation+short_line,0.26,7,27,Schenk.,Actum
+9,2818,break,high,short_line,0.3,8,27,u. u. u.,Schenck.
+9,2819,break,high,salutation+short_line,0.3,8,27,Schenck.,Actum
 9,2824,break,high,rubric,0.87,26,30,das Vorwerk Kopoyno unterm,17. ten dieses Monaths geschloße.
 9,2831,break,high,rubric+short_line,0.5,15,30,Uebereinkommen.,§. I.
 9,2846,break,high,rubric+short_line,0.27,8,30,Beträgt.,§. 2
@@ -375,8 +375,8 @@
 9,2885,break,high,short_line+column,0.67,18,27,Maciey Niedźwiecki,Antoni Rapacki
 9,2886,break,high,short_line+column,0.52,14,27,Antoni Rapacki,jako Swiadek.
 9,2887,break,high,short_line,0.48,13,27,jako Swiadek.,u. u. u.
-9,2888,break,high,short_line,0.3,8,27,u. u. u.,Schenk
-9,2889,run,review,short_line,0.22,6,27,Schenk,Es wird also dieser Contract hiemit unter Beydrü¬
+9,2888,break,high,short_line,0.3,8,27,u. u. u.,Schenck
+9,2889,run,review,short_line,0.26,7,27,Schenck,Es wird also dieser Contract hiemit unter Beydrü¬
 9,2895,break,high,short_line+column,0.26,7,27,Schenck,Justitiarius
 9,2896,run,review,short_line,0.44,12,27,Justitiarius,Ausfertigung des Pacht Contracts
 10,2914,break,high,salutation+short_line,0.59,17,29,vorlautbahrt ist.,Actum Trąbczyn den 11. ten May
@@ -694,7 +694,7 @@
 18,5741,break,high,short_line+column,0.12,5,40,Copia,No. 92.
 18,5742,break,high,short_line,0.17,7,40,No. 92.,Wir das Fürstlich Hohenloh-Ingelfingensche
 18,5747,break,high,rubric+short_line,0.28,11,40,erschienen:,"1, der Fürstlich Hohenlohe-Ingelfingensche Güter"
-18,5750,break,high,rubric,0.75,30,40,"Johann Wilhelm Glenk an einem,","2, desgleichen die Bevollmächtigten der Stadt-"
+18,5750,break,high,rubric,0.78,31,40,"Johann Wilhelm Glenck an einem,","2, desgleichen die Bevollmächtigten der Stadt-"
 18,5754,break,high,rubric+short_line,0.5,20,40,"Lowin und Kulligowo,","a, der Bürger und Stadt-Representant Ma¬"
 18,5756,break,high,rubric+short_line,0.42,17,40,theus Młynkiewicz,b) der Freyschulze Johann Chmara
 18,5764,run,review,short_line,0.57,25,44,"ren besaget, also lautend",Actum Betsche den 28ten Juli 1804.
@@ -749,7 +749,7 @@
 18,6197,break,high,rubric+short_line,0.41,13,32,Heute erschei,"1, der Fürstlich Hohenlohe Ingelfingensche Gene¬"
 18,6207,break,high,rubric+short_line,0.59,26,44,Contract nachfolgendes bey,§. 1.
 18,6213,break,high,rubric+short_line,0.11,5,44,wird.,§. 2.
-18,6229,break,high,short_line,0.5,21,42,Johann Wilhelm Glenk.,J. Chmara mpp
+18,6229,break,high,short_line,0.52,22,42,Johann Wilhelm Glenck.,J. Chmara mpp
 18,6230,break,high,short_line+column,0.31,13,42,J. Chmara mpp,M. Młynkiewicz
 18,6231,break,high,short_line+column,0.33,14,42,M. Młynkiewicz,Metzig
 18,6232,break,high,short_line+column,0.14,6,42,Metzig,Neumann
@@ -770,7 +770,7 @@
 18,6303,run,review,short_line,0.2,5,24,Frost,Trybunals Archiven
 19,6307,break,high,short_line,0.18,7,40,No. 93.,Wir das Fürstliche Hohenloh-Ingelfingensche
 19,6312,break,high,rubric+short_line,0.48,19,40,vor Uns erschienen.,"1. der Fürstlich Hohenlohe-Ingelfingen, ihn Güther"
-19,6315,break,high,rubric,0.73,29,40,Johann Wilhelm Glenk an einem,2. Desgleichen die Bevollmächtigten der Stadt
+19,6315,break,high,rubric,0.76,30,40,Johann Wilhelm Glenck an einem,2. Desgleichen die Bevollmächtigten der Stadt
 19,6319,break,high,rubric+short_line,0.71,28,40,"Stocki, Lowin und Kulligowo,",a) der Bürger und Stadt Repraesentant
 19,6321,break,high,rubric+short_line,0.48,19,40,Matheus Młynkiewicz,b) der Freyscholze Johann Chmara
 19,6329,break,high,rubric+short_line,0.25,10,40,Erscheinen,"1., der fürstlichen Hohenlohe = Ingelfingensche"
@@ -786,11 +786,11 @@
 19,6390,run,review,short_line,0.65,28,43,und die Einwohner der Dörfer,"Kulligowo, Stalluhn, Schartzig, Stocki,"
 19,6420,break,high,rubric,1.04,41,40,"schenken können mögen und sollen, für ein",§ 2.
 19,6423,run,review,short_line,0.08,3,40,von,Einmahlhundert und Achtzigtausend
-19,6429,run,review,short_line,0.29,8,28,zins von,Eintausend Reichsthaler
-19,6431,break,high,rubric,1.21,34,28,in Courant nach gleichem Münzfuße.,3.
-19,6440,break,high,rubric,1.25,35,28,intabulirte Hipotheyen Schulden als,"1, 48000 rtlr"
-19,6447,run,review,short_line,0.64,18,28,den Banquier Meyer,Bernhard zu Frankfurth
-19,6449,break,high,short_line,0.57,16,28,a/o cedirt sind.,48000 Rthl
+19,6429,run,review,short_line,0.28,8,29,zins von,Eintausend Reichsthaler
+19,6431,break,high,rubric,1.17,34,29,in Courant nach gleichem Münzfuße.,3.
+19,6440,break,high,rubric,1.21,35,29,intabulirte Hipotheyen Schulden als,"1, 48000 rtlr"
+19,6447,run,review,short_line,0.62,18,29,den Banquier Meyer,Bernhard zu Frankfurth
+19,6449,break,high,short_line,0.55,16,29,a/o cedirt sind.,48000 Rthl
 19,6452,break,high,rubric+short_line,0.37,10,27,48000 Rthl,"2, 2000 rtl."
 19,6456,break,high,rubric,0.93,25,27,Breslau eingetragen sind.,"3, 5000 rttllr"
 19,6462,break,high,rubric+short_line,0.59,16,27,a/o cedirt sind.,"4, 5000 rthl"
@@ -821,15 +821,15 @@
 19,6723,break,high,rubric+short_line,0.14,6,42,wurde.,§ 18.
 19,6753,break,high,short_line,0.15,5,34,tent.,Josef Echaust als Dollmetscher
 19,6755,break,high,short_line+column,0.18,6,34,Metzig,Justitiarius
-19,6756,break,high,short_line+column,0.36,12,34,Justitiarius,Neumann
+19,6756,break,high,short_line+column,0.35,12,34,Justitiarius,Neumann
 19,6757,break,high,short_line+column,0.21,7,34,Neumann,Actuarius
-19,6758,run,review,short_line,0.27,9,34,Actuarius,Actum Betsche den 29ten July 1804
-19,6760,break,high,rubric+short_line,0.42,14,34,Heute erschien,"1, der Fürstl. Hohenloh-Ingelfingensche"
+19,6758,run,review,short_line,0.26,9,34,Actuarius,Actum Betsche den 29ten July 1804
+19,6760,break,high,rubric+short_line,0.41,14,34,Heute erschien,"1, der Fürstl. Hohenloh-Ingelfingensche"
 19,6771,break,high,rubric+short_line,0.46,18,40,nachfolgendes bey.,§. 1.
 19,6777,break,high,rubric,0.73,29,40,keines gekündigt werden wird.,§. 2.
 19,6785,break,high,short_line,0.41,16,40,immer zu tragen.,Somit
-19,6794,break,high,short_line,0.54,19,35,und unterschrieben.,Johann Wilhelm Glenk
-19,6795,break,high,rubric+short_line,0.57,20,35,Johann Wilhelm Glenk,H. Chmara mpp M. Młynkiewicz
+19,6794,break,high,short_line,0.54,19,35,und unterschrieben.,Johann Wilhelm Glenck
+19,6795,break,high,rubric+short_line,0.6,21,35,Johann Wilhelm Glenck,H. Chmara mpp M. Młynkiewicz
 19,6797,break,high,short_line,0.23,8,35,Echaust.,Metzig
 19,6798,break,high,short_line+column,0.17,6,35,Metzig,Neumann.
 19,6799,break,high,short_line,0.23,8,35,Neumann.,Da nun eine beglaubte ausfertigung von nöthen
@@ -903,7 +903,7 @@
 23,7326,break,high,rubric,0.94,29,31,an. In diesem Termin erschien,"1, von Seiten des Herrn Verkäufers"
 23,7327,break,high,rubric,1.1,34,31,"1, von Seiten des Herrn Verkäufers","a, als dessen Mandatarius der Justiz¬"
 23,7332,break,high,rubric,1.03,32,31,"Special - Vollmacht, legitimirt;","b, der General-Mandatarius des"
-23,7333,break,high,rubric,0.97,30,31,"b, der General-Mandatarius des","H. Fürsten, der Bau-Rath Glenk,"
+23,7333,break,high,rubric,0.97,30,31,"b, der General-Mandatarius des","H. Fürsten, der Bau-Rath Glenck,"
 23,7336,break,high,rubric+short_line,0.61,19,31,persönlich bekannt;,"2, von Seiten des Käufers, der Crimi¬"
 23,7345,break,high,short_line,0.28,8,29,bezieht.,Beiderseitige Interessenten
 23,7363,break,high,short_line,0.42,13,31,risirt wären.,Es erklärte darauf ins besondere
@@ -1000,8 +1000,8 @@
 28,7981,break,high,short_line+column,0.61,30,49,wobey ich bitte daß Sie solche,den v. Radzinski zurechnen möchten.
 28,7982,break,high,short_line,0.71,35,49,den v. Radzinski zurechnen möchten.,aber
 28,7993,break,high,short_line,0.13,7,53,mußten.,Zugleich nehme ich mir die Ehre 5 Stück Enten mitzusenden.
-28,7998,break,high,short_line,0.62,33,53,Karte zu beschicken. Ich bin p.p.,Glenk
-28,7999,break,high,short_line+column,0.09,5,53,Glenk,Zagorowo den 27ten May 1799
+28,7998,break,high,short_line,0.62,33,53,Karte zu beschicken. Ich bin p.p.,Glenck
+28,7999,break,high,short_line+column,0.11,6,53,Glenck,Zagorowo den 27ten May 1799
 29,8003,break,high,short_line+column,0.62,23,37,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 29,8004,break,high,short_line,0.7,26,37,Gnädigster Fürst und Herr!,Aus dem in Abschrift beygehenden Kauf Contrac¬
 29,8014,run,review,short_line,0.24,9,37,dieselben,(Der Contract ist unter Vorbehalt
