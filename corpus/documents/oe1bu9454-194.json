@@ -205,7 +205,7 @@
  "place_mentions": [
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 1,
@@ -216,7 +216,7 @@
   },
   {
    "entity": "glogau",
-   "display": "Glogau (Głogów)",
+   "display": "Głogów (Glogau)",
    "kind": "place",
    "surface": "Glogau",
    "page": 1,
@@ -238,7 +238,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
@@ -260,7 +260,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 2,

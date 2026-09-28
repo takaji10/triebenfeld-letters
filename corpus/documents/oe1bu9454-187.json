@@ -253,7 +253,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -275,7 +275,7 @@
   },
   {
    "entity": "olesnica",
-   "display": "Olesnica",
+   "display": "Oleśnica (Olesnice)",
    "kind": "place",
    "surface": "Olesnica",
    "page": 2,
@@ -297,7 +297,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betsche",
    "page": 2,
@@ -308,7 +308,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betscher",
    "page": 2,
@@ -319,7 +319,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betsche",
    "page": 3,
@@ -330,7 +330,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 3,
@@ -385,7 +385,7 @@
   },
   {
    "entity": "glogau",
-   "display": "Glogau (Głogów)",
+   "display": "Głogów (Glogau)",
    "kind": "place",
    "surface": "Glogausche",
    "page": 3,
@@ -396,7 +396,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -407,7 +407,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 3,

@@ -238,6 +238,37 @@ def load_place_canon():
     return canon
 
 
+def place_label(entry):
+    """How the site names a place: the Polish name, then the German in brackets.
+
+    The transcriptions print the German name the letters use (Zagorowo, Kaemen,
+    Breslau); `display` holds the modern Polish name and `german` the German
+    one (editor, 2026-09-28). A place with no German form - Trąbczyn, Swięcia -
+    or outside Poland has no `german`, and is named by `display` alone.
+    """
+    d = (entry.get('display') or '').strip()
+    g = (entry.get('german') or '').strip()
+    return f'{d} ({g})' if g and g != d else d
+
+
+def load_place_labels():
+    """{any known form, lowercased: place_label} - for naming a place of writing.
+
+    The dateline carries whatever spelling the writer used, so every form the
+    authority knows - the Polish, the German and each matched variant - leads
+    to the same label.
+    """
+    out = {}
+    for slug, e in (load_places_authority().get('places') or {}).items():
+        label = place_label(e) or slug
+        forms = [e.get('display'), e.get('german')]
+        forms += [f for f, matched in entity_variants(e) if matched]
+        for f in forms:
+            if f:
+                out[str(f).strip().lower()] = label
+    return out
+
+
 def load_rulings(unit):
     """The unit's editorial decisions, plus the place canon shared by all units.
 

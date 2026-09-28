@@ -232,7 +232,7 @@
  "place_mentions": [
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 1,
@@ -243,7 +243,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 1,
@@ -287,7 +287,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 2,

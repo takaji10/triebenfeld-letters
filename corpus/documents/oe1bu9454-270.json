@@ -244,7 +244,7 @@
  "place_mentions": [
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
@@ -321,7 +321,7 @@
   },
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 3,

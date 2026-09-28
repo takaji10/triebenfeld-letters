@@ -133,7 +133,7 @@
  "place_mentions": [
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 1,
@@ -144,7 +144,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 1,
@@ -188,7 +188,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 2,

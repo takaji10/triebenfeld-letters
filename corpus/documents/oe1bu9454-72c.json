@@ -91,7 +91,7 @@
  "place_mentions": [
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 1,
@@ -113,7 +113,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,

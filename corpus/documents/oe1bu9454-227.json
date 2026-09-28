@@ -303,7 +303,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -314,7 +314,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 2,
@@ -325,7 +325,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 3,
@@ -336,7 +336,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 4,
@@ -358,7 +358,7 @@
   },
   {
    "entity": "olesnica",
-   "display": "Olesnica",
+   "display": "Oleśnica (Olesnice)",
    "kind": "place",
    "surface": "Olesnicer",
    "page": 4,
@@ -380,7 +380,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 4,

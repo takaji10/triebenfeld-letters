@@ -15,10 +15,6 @@
   slug: "berlin-den-ten"
   count: 1
   letters: [{id: "97", url: "/documents/oe1bu9454/97/"}]
-- name: "Betsche"
-  slug: "betsche"
-  count: 6
-  letters: [{id: "3", url: "/documents/oe1bu14526/3/"}, {id: "36", url: "/documents/oe1bu14525/36/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "29", url: "/documents/oe1bu14526/29/"}]
 - name: "Blizanow"
   slug: "blizanow"
   count: 18
@@ -27,12 +23,8 @@
   slug: "bre-slau"
   count: 1
   letters: [{id: "27", url: "/documents/oe1bu9454/27/"}]
-- name: "Breslau"
-  slug: "breslau"
-  count: 65
-  letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "10", url: "/documents/oe1bu14525/10/"}, {id: "40", url: "/documents/oe1bu14525/40/"}, {id: "11", url: "/documents/oe1bu14525/11/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "75", url: "/documents/oe1bu9454/75/"}, {id: "76", url: "/documents/oe1bu9454/76/"}, {id: "86", url: "/documents/oe1bu9454/86/"}, {id: "87", url: "/documents/oe1bu9454/87/"}, {id: "88", url: "/documents/oe1bu9454/88/"}, {id: "99", url: "/documents/oe1bu9454/99/"}, {id: "102", url: "/documents/oe1bu9454/102/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "104", url: "/documents/oe1bu9454/104/"}, {id: "108", url: "/documents/oe1bu9454/108/"}, {id: "29", url: "/documents/oe1bu14525/29/"}, {id: "41", url: "/documents/oe1bu14525/41/"}, {id: "4", url: "/documents/oe1bu14525/4/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "33", url: "/documents/oe1bu14525/33/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "115", url: "/documents/oe1bu9454/115/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "20", url: "/documents/oe1bu14526/20/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "116", url: "/documents/oe1bu9454/116/"}, {id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "118b", url: "/documents/oe1bu9454/118b/"}, {id: "118c", url: "/documents/oe1bu9454/118c/"}, {id: "119", url: "/documents/oe1bu9454/119/"}, {id: "120", url: "/documents/oe1bu9454/120/"}, {id: "122", url: "/documents/oe1bu9454/122/"}, {id: "123", url: "/documents/oe1bu9454/123/"}, {id: "124", url: "/documents/oe1bu9454/124/"}, {id: "125", url: "/documents/oe1bu9454/125/"}, {id: "126", url: "/documents/oe1bu9454/126/"}, {id: "127", url: "/documents/oe1bu9454/127/"}, {id: "129", url: "/documents/oe1bu9454/129/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "142", url: "/documents/oe1bu9454/142/"}, {id: "165", url: "/documents/oe1bu9454/165/"}, {id: "155", url: "/documents/oe1bu9454/155/"}, {id: "170", url: "/documents/oe1bu9454/170/"}, {id: "175", url: "/documents/oe1bu9454/175/"}, {id: "176", url: "/documents/oe1bu9454/176/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "26", url: "/documents/oe1bu9454/26/"}, {id: "34", url: "/documents/oe1bu9454/34/"}, {id: "55", url: "/documents/oe1bu9454/55/"}, {id: "58", url: "/documents/oe1bu9454/58/"}, {id: "195", url: "/documents/oe1bu9454/195/"}, {id: "199", url: "/documents/oe1bu9454/199/"}, {id: "200", url: "/documents/oe1bu9454/200/"}, {id: "186", url: "/documents/oe1bu9454/186/"}, {id: "201", url: "/documents/oe1bu9454/201/"}, {id: "204", url: "/documents/oe1bu9454/204/"}, {id: "205", url: "/documents/oe1bu9454/205/"}, {id: "206", url: "/documents/oe1bu9454/206/"}, {id: "208", url: "/documents/oe1bu9454/208/"}, {id: "209", url: "/documents/oe1bu9454/209/"}, {id: "231", url: "/documents/oe1bu9454/231/"}, {id: "7", url: "/documents/oe1bu9454/7/"}]
-- name: "Brieg"
-  slug: "brieg"
+- name: "Brzeg (Brieg)"
+  slug: "brzeg-brieg"
   count: 3
   letters: [{id: "220", url: "/documents/oe1bu9454/220/"}, {id: "14", url: "/documents/oe1bu9454/14/"}, {id: "278", url: "/documents/oe1bu9454/278/"}]
 - name: "Dolsk"
@@ -71,26 +63,22 @@
   slug: "frankfurth-an-der-oder"
   count: 1
   letters: [{id: "136", url: "/documents/oe1bu9454/136/"}]
-- name: "Glogau"
-  slug: "glogau"
-  count: 2
-  letters: [{id: "54", url: "/documents/oe1bu9454/54/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}]
 - name: "Grevenitz"
   slug: "grevenitz"
   count: 1
   letters: [{id: "296", url: "/documents/oe1bu9454/296/"}]
+- name: "Głogów (Glogau)"
+  slug: "glogow-glogau"
+  count: 2
+  letters: [{id: "54", url: "/documents/oe1bu9454/54/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}]
 - name: "Ingelfingen"
   slug: "ingelfingen"
   count: 1
   letters: [{id: "184", url: "/documents/oe1bu9454/184/"}]
-- name: "Kalisch"
-  slug: "kalisch"
-  count: 13
-  letters: [{id: "31", url: "/documents/oe1bu14525/31/"}, {id: "42", url: "/documents/oe1bu14525/42/"}, {id: "2", url: "/documents/oe1bu14525/2/"}, {id: "32", url: "/documents/oe1bu14525/32/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "23", url: "/documents/oe1bu14525/23/"}, {id: "14", url: "/documents/oe1bu14525/14/"}, {id: "2", url: "/documents/oe1bu14526/2/"}, {id: "21", url: "/documents/oe1bu14525/21/"}, {id: "21", url: "/documents/oe1bu14526/21/"}]
-- name: "Kalisz"
-  slug: "kalisz"
-  count: 10
-  letters: [{id: "145", url: "/documents/oe1bu9454/145/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "162", url: "/documents/oe1bu9454/162/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "174", url: "/documents/oe1bu9454/174/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "72c", url: "/documents/oe1bu9454/72c/"}, {id: "237", url: "/documents/oe1bu9454/237/"}]
+- name: "Kalisz (Kalisch)"
+  slug: "kalisz-kalisch"
+  count: 23
+  letters: [{id: "31", url: "/documents/oe1bu14525/31/"}, {id: "42", url: "/documents/oe1bu14525/42/"}, {id: "2", url: "/documents/oe1bu14525/2/"}, {id: "32", url: "/documents/oe1bu14525/32/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "23", url: "/documents/oe1bu14525/23/"}, {id: "14", url: "/documents/oe1bu14525/14/"}, {id: "2", url: "/documents/oe1bu14526/2/"}, {id: "21", url: "/documents/oe1bu14525/21/"}, {id: "145", url: "/documents/oe1bu9454/145/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "162", url: "/documents/oe1bu9454/162/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "21", url: "/documents/oe1bu14526/21/"}, {id: "174", url: "/documents/oe1bu9454/174/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "72c", url: "/documents/oe1bu9454/72c/"}, {id: "237", url: "/documents/oe1bu9454/237/"}]
 - name: "Klein Althammer"
   slug: "klein-althammer"
   count: 1
@@ -99,12 +87,12 @@
   slug: "klein-oehringen"
   count: 1
   letters: [{id: "211", url: "/documents/oe1bu9454/211/"}]
-- name: "Kontop"
-  slug: "kontop"
+- name: "Konotop (Kontop)"
+  slug: "konotop-kontop"
   count: 17
   letters: [{id: "43", url: "/documents/oe1bu9454/43/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "48", url: "/documents/oe1bu9454/48/"}, {id: "49", url: "/documents/oe1bu9454/49/"}, {id: "51", url: "/documents/oe1bu9454/51/"}, {id: "59", url: "/documents/oe1bu9454/59/"}, {id: "60", url: "/documents/oe1bu9454/60/"}, {id: "61", url: "/documents/oe1bu9454/61/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "22", url: "/documents/oe1bu9454/22/"}, {id: "21", url: "/documents/oe1bu9454/21/"}, {id: "68", url: "/documents/oe1bu9454/68/"}, {id: "69", url: "/documents/oe1bu9454/69/"}, {id: "70", url: "/documents/oe1bu9454/70/"}, {id: "71", url: "/documents/oe1bu9454/71/"}, {id: "193", url: "/documents/oe1bu9454/193/"}, {id: "194", url: "/documents/oe1bu9454/194/"}]
-- name: "Kopojno"
-  slug: "kopojno"
+- name: "Kopojno (Kopoyno)"
+  slug: "kopojno-kopoyno"
   count: 3
   letters: [{id: "232", url: "/documents/oe1bu9454/232/"}, {id: "72a", url: "/documents/oe1bu9454/72a/"}, {id: "72f", url: "/documents/oe1bu9454/72f/"}]
 - name: "Königsberg"
@@ -115,44 +103,44 @@
   slug: "kantwicz"
   count: 1
   letters: [{id: "198", url: "/documents/oe1bu9454/198/"}]
-- name: "Neisse"
-  slug: "neisse"
-  count: 2
-  letters: [{id: "239", url: "/documents/oe1bu9454/239/"}, {id: "241", url: "/documents/oe1bu9454/241/"}]
 - name: "Neustadt"
   slug: "neustadt"
   count: 1
   letters: [{id: "240", url: "/documents/oe1bu9454/240/"}]
-- name: "Posen"
-  slug: "posen"
+- name: "Nysa (Neisse)"
+  slug: "nysa-neisse"
+  count: 2
+  letters: [{id: "239", url: "/documents/oe1bu9454/239/"}, {id: "241", url: "/documents/oe1bu9454/241/"}]
+- name: "Poznań (Posen)"
+  slug: "poznan-posen"
   count: 19
   letters: [{id: "44", url: "/documents/oe1bu14525/44/"}, {id: "43", url: "/documents/oe1bu14525/43/"}, {id: "37", url: "/documents/oe1bu14525/37/"}, {id: "38", url: "/documents/oe1bu14525/38/"}, {id: "27", url: "/documents/oe1bu14525/27/"}, {id: "35", url: "/documents/oe1bu14525/35/"}, {id: "34", url: "/documents/oe1bu14525/34/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "28", url: "/documents/oe1bu14525/28/"}, {id: "26", url: "/documents/oe1bu14525/26/"}, {id: "12", url: "/documents/oe1bu14525/12/"}, {id: "139", url: "/documents/oe1bu9454/139/"}, {id: "141", url: "/documents/oe1bu9454/141/"}, {id: "22", url: "/documents/oe1bu14526/22/"}, {id: "23", url: "/documents/oe1bu14526/23/"}, {id: "24", url: "/documents/oe1bu14526/24/"}, {id: "295", url: "/documents/oe1bu9454/295/"}]
-- name: "Pyzdry"
-  slug: "pyzdry"
+- name: "Pszczew (Betsche)"
+  slug: "pszczew-betsche"
+  count: 6
+  letters: [{id: "3", url: "/documents/oe1bu14526/3/"}, {id: "36", url: "/documents/oe1bu14525/36/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "29", url: "/documents/oe1bu14526/29/"}]
+- name: "Pyzdry (Peisern)"
+  slug: "pyzdry-peisern"
   count: 1
   letters: [{id: "28", url: "/documents/oe1bu9454/28/"}]
-- name: "Schlawenschitz"
-  slug: "schlawenschitz"
-  count: 11
-  letters: [{id: "29", url: "/documents/oe1bu9454/29/"}, {id: "20", url: "/documents/oe1bu9454/20/"}, {id: "50", url: "/documents/oe1bu9454/50/"}, {id: "223", url: "/documents/oe1bu9454/223/"}, {id: "228", url: "/documents/oe1bu9454/228/"}, {id: "73", url: "/documents/oe1bu9454/73/"}, {id: "238", url: "/documents/oe1bu9454/238/"}, {id: "264", url: "/documents/oe1bu9454/264/"}, {id: "265a", url: "/documents/oe1bu9454/265a/"}, {id: "265b", url: "/documents/oe1bu9454/265b/"}, {id: "1", url: "/documents/oe1bu9454/1/"}]
 - name: "Schwarzwald bey Miedzibor[?]"
   slug: "schwarzwald-bey-miedzibor"
   count: 1
   letters: [{id: "196", url: "/documents/oe1bu9454/196/"}]
-- name: "Schweinern"
-  slug: "schweinern"
-  count: 1
-  letters: [{id: "57", url: "/documents/oe1bu9454/57/"}]
 - name: "Swiątniki"
   slug: "swiatniki"
   count: 2
   letters: [{id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}]
+- name: "Sławięcice (Schlawenschitz)"
+  slug: "slawiecice-schlawenschitz"
+  count: 11
+  letters: [{id: "29", url: "/documents/oe1bu9454/29/"}, {id: "20", url: "/documents/oe1bu9454/20/"}, {id: "50", url: "/documents/oe1bu9454/50/"}, {id: "223", url: "/documents/oe1bu9454/223/"}, {id: "228", url: "/documents/oe1bu9454/228/"}, {id: "73", url: "/documents/oe1bu9454/73/"}, {id: "238", url: "/documents/oe1bu9454/238/"}, {id: "264", url: "/documents/oe1bu9454/264/"}, {id: "265a", url: "/documents/oe1bu9454/265a/"}, {id: "265b", url: "/documents/oe1bu9454/265b/"}, {id: "1", url: "/documents/oe1bu9454/1/"}]
 - name: "Trąbczyn"
   slug: "trabczyn"
   count: 21
-  letters: [{id: "22", url: "/documents/oe1bu14525/22/"}, {id: "128", url: "/documents/oe1bu9454/128/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "148", url: "/documents/oe1bu9454/148/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "16", url: "/documents/oe1bu14526/16/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}, {id: "11", url: "/documents/oe1bu14526/11/"}, {id: "12", url: "/documents/oe1bu14526/12/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "9", url: "/documents/oe1bu14526/9/"}, {id: "8", url: "/documents/oe1bu14526/8/"}, {id: "7", url: "/documents/oe1bu14526/7/"}, {id: "6", url: "/documents/oe1bu14526/6/"}, {id: "191", url: "/documents/oe1bu9454/191/"}]
-- name: "Warschau"
-  slug: "warschau"
+  letters: [{id: "128", url: "/documents/oe1bu9454/128/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "148", url: "/documents/oe1bu9454/148/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "16", url: "/documents/oe1bu14526/16/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}, {id: "11", url: "/documents/oe1bu14526/11/"}, {id: "12", url: "/documents/oe1bu14526/12/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "9", url: "/documents/oe1bu14526/9/"}, {id: "8", url: "/documents/oe1bu14526/8/"}, {id: "7", url: "/documents/oe1bu14526/7/"}, {id: "6", url: "/documents/oe1bu14526/6/"}, {id: "191", url: "/documents/oe1bu9454/191/"}]
+- name: "Warszawa (Warschau)"
+  slug: "warszawa-warschau"
   count: 1
   letters: [{id: "72d", url: "/documents/oe1bu9454/72d/"}]
 - name: "Warszawie"
@@ -163,8 +151,12 @@
   slug: "wien"
   count: 43
   letters: [{id: "242", url: "/documents/oe1bu9454/242/"}, {id: "243", url: "/documents/oe1bu9454/243/"}, {id: "244", url: "/documents/oe1bu9454/244/"}, {id: "245", url: "/documents/oe1bu9454/245/"}, {id: "246", url: "/documents/oe1bu9454/246/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "250", url: "/documents/oe1bu9454/250/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "251", url: "/documents/oe1bu9454/251/"}, {id: "252", url: "/documents/oe1bu9454/252/"}, {id: "253", url: "/documents/oe1bu9454/253/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "256", url: "/documents/oe1bu9454/256/"}, {id: "258", url: "/documents/oe1bu9454/258/"}, {id: "259", url: "/documents/oe1bu9454/259/"}, {id: "263", url: "/documents/oe1bu9454/263/"}, {id: "281", url: "/documents/oe1bu9454/281/"}, {id: "266", url: "/documents/oe1bu9454/266/"}, {id: "267", url: "/documents/oe1bu9454/267/"}, {id: "269a", url: "/documents/oe1bu9454/269a/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "1a", url: "/documents/oe1bu9454/1a/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "271", url: "/documents/oe1bu9454/271/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "274", url: "/documents/oe1bu9454/274/"}, {id: "275", url: "/documents/oe1bu9454/275/"}, {id: "10", url: "/documents/oe1bu9454/10/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "11", url: "/documents/oe1bu9454/11/"}, {id: "277", url: "/documents/oe1bu9454/277/"}, {id: "279", url: "/documents/oe1bu9454/279/"}, {id: "280", url: "/documents/oe1bu9454/280/"}, {id: "282", url: "/documents/oe1bu9454/282/"}, {id: "287", url: "/documents/oe1bu9454/287/"}, {id: "16", url: "/documents/oe1bu9454/16/"}, {id: "288", url: "/documents/oe1bu9454/288/"}, {id: "289", url: "/documents/oe1bu9454/289/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "292", url: "/documents/oe1bu9454/292/"}, {id: "294", url: "/documents/oe1bu9454/294/"}]
-- name: "Zagórów"
-  slug: "zagorow"
+- name: "Wrocław (Breslau)"
+  slug: "wroclaw-breslau"
+  count: 65
+  letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "10", url: "/documents/oe1bu14525/10/"}, {id: "40", url: "/documents/oe1bu14525/40/"}, {id: "11", url: "/documents/oe1bu14525/11/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "75", url: "/documents/oe1bu9454/75/"}, {id: "76", url: "/documents/oe1bu9454/76/"}, {id: "86", url: "/documents/oe1bu9454/86/"}, {id: "87", url: "/documents/oe1bu9454/87/"}, {id: "88", url: "/documents/oe1bu9454/88/"}, {id: "99", url: "/documents/oe1bu9454/99/"}, {id: "102", url: "/documents/oe1bu9454/102/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "104", url: "/documents/oe1bu9454/104/"}, {id: "108", url: "/documents/oe1bu9454/108/"}, {id: "29", url: "/documents/oe1bu14525/29/"}, {id: "41", url: "/documents/oe1bu14525/41/"}, {id: "4", url: "/documents/oe1bu14525/4/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "33", url: "/documents/oe1bu14525/33/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "115", url: "/documents/oe1bu9454/115/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "20", url: "/documents/oe1bu14526/20/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "116", url: "/documents/oe1bu9454/116/"}, {id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "118b", url: "/documents/oe1bu9454/118b/"}, {id: "118c", url: "/documents/oe1bu9454/118c/"}, {id: "119", url: "/documents/oe1bu9454/119/"}, {id: "120", url: "/documents/oe1bu9454/120/"}, {id: "122", url: "/documents/oe1bu9454/122/"}, {id: "123", url: "/documents/oe1bu9454/123/"}, {id: "124", url: "/documents/oe1bu9454/124/"}, {id: "125", url: "/documents/oe1bu9454/125/"}, {id: "126", url: "/documents/oe1bu9454/126/"}, {id: "127", url: "/documents/oe1bu9454/127/"}, {id: "129", url: "/documents/oe1bu9454/129/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "142", url: "/documents/oe1bu9454/142/"}, {id: "165", url: "/documents/oe1bu9454/165/"}, {id: "155", url: "/documents/oe1bu9454/155/"}, {id: "170", url: "/documents/oe1bu9454/170/"}, {id: "175", url: "/documents/oe1bu9454/175/"}, {id: "176", url: "/documents/oe1bu9454/176/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "26", url: "/documents/oe1bu9454/26/"}, {id: "34", url: "/documents/oe1bu9454/34/"}, {id: "55", url: "/documents/oe1bu9454/55/"}, {id: "58", url: "/documents/oe1bu9454/58/"}, {id: "195", url: "/documents/oe1bu9454/195/"}, {id: "199", url: "/documents/oe1bu9454/199/"}, {id: "200", url: "/documents/oe1bu9454/200/"}, {id: "186", url: "/documents/oe1bu9454/186/"}, {id: "201", url: "/documents/oe1bu9454/201/"}, {id: "204", url: "/documents/oe1bu9454/204/"}, {id: "205", url: "/documents/oe1bu9454/205/"}, {id: "206", url: "/documents/oe1bu9454/206/"}, {id: "208", url: "/documents/oe1bu9454/208/"}, {id: "209", url: "/documents/oe1bu9454/209/"}, {id: "231", url: "/documents/oe1bu9454/231/"}, {id: "7", url: "/documents/oe1bu9454/7/"}]
+- name: "Zagórów (Zagorowo)"
+  slug: "zagorow-zagorowo"
   count: 5
   letters: [{id: "25", url: "/documents/oe1bu14526/25/"}, {id: "27", url: "/documents/oe1bu14526/27/"}, {id: "28", url: "/documents/oe1bu14526/28/"}, {id: "26", url: "/documents/oe1bu14526/26/"}, {id: "17", url: "/documents/oe1bu14526/17/"}]
 - name: "Öhringen"
@@ -175,6 +167,10 @@
   slug: "oehringen-13"
   count: 1
   letters: [{id: "36", url: "/documents/oe1bu9454/36/"}]
+- name: "Świniary (Schweinern)"
+  slug: "swiniary-schweinern"
+  count: 1
+  letters: [{id: "57", url: "/documents/oe1bu9454/57/"}]
 - name: "Unknown"
   slug: "unknown"
   count: 64

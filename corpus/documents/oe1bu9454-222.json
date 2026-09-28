@@ -387,7 +387,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -420,7 +420,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -431,7 +431,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 3,
@@ -442,7 +442,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 3,
@@ -464,7 +464,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 3,
@@ -475,7 +475,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 4,

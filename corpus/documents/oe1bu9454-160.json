@@ -115,7 +115,7 @@
  "place_mentions": [
   {
    "entity": "glogau",
-   "display": "Glogau (Głogów)",
+   "display": "Głogów (Glogau)",
    "kind": "place",
    "surface": "Glogau",
    "page": 2,
@@ -126,7 +126,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 2,
@@ -137,7 +137,7 @@
   },
   {
    "entity": "olesnica",
-   "display": "Olesnica",
+   "display": "Oleśnica (Olesnice)",
    "kind": "place",
    "surface": "Olesnicer",
    "page": 2,

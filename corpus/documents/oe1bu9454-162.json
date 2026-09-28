@@ -206,7 +206,7 @@
  "place_mentions": [
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalischen",
    "page": 1,
@@ -217,7 +217,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 1,
@@ -250,7 +250,7 @@
   },
   {
    "entity": "olesnica",
-   "display": "Olesnica",
+   "display": "Oleśnica (Olesnice)",
    "kind": "place",
    "surface": "Olesnicer",
    "page": 3,
@@ -261,7 +261,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 3,

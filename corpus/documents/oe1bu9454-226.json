@@ -281,7 +281,7 @@
  "place_mentions": [
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 2,
@@ -292,7 +292,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 3,
@@ -303,7 +303,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betsche",
    "page": 3,

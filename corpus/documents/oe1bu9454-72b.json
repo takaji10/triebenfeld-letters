@@ -330,7 +330,7 @@
  "place_mentions": [
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 1,
@@ -341,7 +341,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 1,
@@ -363,7 +363,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -385,7 +385,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 2,
@@ -396,7 +396,7 @@
   },
   {
    "entity": "olesnica",
-   "display": "Olesnica",
+   "display": "Oleśnica (Olesnice)",
    "kind": "place",
    "surface": "Olesnicer",
    "page": 2,
@@ -429,7 +429,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 3,
@@ -451,7 +451,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 4,

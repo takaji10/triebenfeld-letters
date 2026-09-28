@@ -202,7 +202,7 @@
  "place_mentions": [
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 1,
@@ -213,7 +213,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betsche",
    "page": 1,
@@ -224,7 +224,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 1,

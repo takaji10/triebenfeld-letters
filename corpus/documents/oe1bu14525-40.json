@@ -192,7 +192,7 @@
  "place_mentions": [
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -203,7 +203,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 3,

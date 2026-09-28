@@ -235,7 +235,7 @@
  "place_mentions": [
   {
    "entity": "cosel",
-   "display": "Cosel (Koźle)",
+   "display": "Koźle (Cosel)",
    "kind": "place",
    "surface": "Cosel",
    "page": 1,
@@ -257,7 +257,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 2,
@@ -268,7 +268,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 2,
@@ -279,7 +279,7 @@
   },
   {
    "entity": "ruschinowitz",
-   "display": "Ruschinowitz (Rusinowice)",
+   "display": "Rusinowice (Ruschinowitz)",
    "kind": "place",
    "surface": "Ruschinowitz",
    "page": 3,
@@ -312,7 +312,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 4,

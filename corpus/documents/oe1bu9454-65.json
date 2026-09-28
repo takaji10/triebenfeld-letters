@@ -226,7 +226,7 @@
  "place_mentions": [
   {
    "entity": "glogau",
-   "display": "Glogau (Głogów)",
+   "display": "Głogów (Glogau)",
    "kind": "place",
    "surface": "Glogausche",
    "page": 1,
@@ -237,7 +237,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 1,
@@ -259,7 +259,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschäntner",
    "page": 1,
@@ -270,7 +270,7 @@
   },
   {
    "entity": "boyadel",
-   "display": "Boyadel (Bojadła)",
+   "display": "Bojadła (Boyadel)",
    "kind": "place",
    "surface": "Boyadel",
    "page": 2,
@@ -281,7 +281,7 @@
   },
   {
    "entity": "boyadel",
-   "display": "Boyadel (Bojadła)",
+   "display": "Bojadła (Boyadel)",
    "kind": "place",
    "surface": "Boyadel",
    "page": 2,
@@ -325,7 +325,7 @@
   },
   {
    "entity": "glatz",
-   "display": "Glatz (Kłodzko)",
+   "display": "Kłodzko (Glatz)",
    "kind": "place",
    "surface": "Glatz",
    "page": 3,
@@ -336,7 +336,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 3,
@@ -358,7 +358,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 3,

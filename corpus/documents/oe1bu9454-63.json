@@ -422,7 +422,7 @@
  "place_mentions": [
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
@@ -444,7 +444,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 1,
@@ -477,7 +477,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 3,
@@ -488,7 +488,7 @@
   },
   {
    "entity": "czestochowa",
-   "display": "Czenstochau (Częstochowa)",
+   "display": "Częstochowa (Czenstochau)",
    "kind": "place",
    "surface": "Czenstochau",
    "page": 3,
@@ -499,7 +499,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 3,
@@ -510,7 +510,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 3,
@@ -521,7 +521,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschauer",
    "page": 4,

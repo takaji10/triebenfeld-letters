@@ -205,7 +205,7 @@
  "place_mentions": [
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
@@ -216,7 +216,7 @@
   },
   {
    "entity": "leobschuetz",
-   "display": "Leobschütz (Głubczyce)",
+   "display": "Głubczyce (Leobschütz)",
    "kind": "place",
    "surface": "Leobschütz",
    "page": 1,
@@ -260,7 +260,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,

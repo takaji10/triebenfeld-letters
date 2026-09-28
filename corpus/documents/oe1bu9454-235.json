@@ -123,7 +123,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -134,7 +134,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 1,
@@ -145,7 +145,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 1,
@@ -156,7 +156,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 2,
@@ -167,7 +167,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 2,

@@ -171,7 +171,7 @@
  "place_mentions": [
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinernsche",
    "page": 1,
@@ -281,7 +281,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslauer",
    "page": 2,
@@ -325,7 +325,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,

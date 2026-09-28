@@ -240,7 +240,7 @@
  "place_mentions": [
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
@@ -251,7 +251,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 1,
@@ -295,7 +295,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betscher",
    "page": 1,
@@ -328,7 +328,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 2,
@@ -372,7 +372,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 3,
@@ -383,7 +383,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 3,

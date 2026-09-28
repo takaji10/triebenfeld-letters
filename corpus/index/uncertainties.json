@@ -727,7 +727,7 @@
   "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
   "line": 3578,
   "doc_line": 7,
-  "context": "Drzewce und Zagórów unv[?] berichtigt wird,"
+  "context": "Drzewce und Zagorowo unv[?] berichtigt wird,"
  },
  {
   "uid": "oe1bu14525-30",
@@ -768,16 +768,6 @@
   "line": 8639,
   "doc_line": 22,
   "context": "daß mich der Gad[?] nicht antastet um hier arctiren läßt."
- },
- {
-  "uid": "oe1bu14525-22",
-  "marker": "[?]",
-  "page": 10,
-  "page_id": "0090_a1",
-  "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-  "line": 2923,
-  "doc_line": 267,
-  "context": "Danckelmann (L. S.) Husarzewech[?]"
  },
  {
   "uid": "oe1bu14525-38",
@@ -828,6 +818,16 @@
   "line": 3800,
   "doc_line": 34,
   "context": "M[?]"
+ },
+ {
+  "uid": "oe1bu14525-6",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "0016_a2",
+  "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
+  "line": 579,
+  "doc_line": 20,
+  "context": "Scarczig(9), Vogtig Santomysł[?](10), und Silna und"
  },
  {
   "uid": "oe1bu14525-6",
@@ -987,7 +987,7 @@
   "scan": "Oe_1_Bu_14525_0110_a1-L23_11.jpg",
   "line": 3202,
   "doc_line": 250,
-  "context": "schrift. Geg[...] Kalisz den 3ten"
+  "context": "schrift. Geg[...] Kalisch den 3ten"
  },
  {
   "uid": "oe1bu14525-23",
@@ -1247,7 +1247,7 @@
   "scan": "Oe_1_Bu_9454_0239_a-L119_01.jpg",
   "line": 8984,
   "doc_line": 12,
-  "context": "Der Bote von Zagórów ist zurück und hat beifolgende Piecen[?]"
+  "context": "Der Bote von Zagorowo ist zurück und hat beifolgende Piecen[?]"
  },
  {
   "uid": "oe1bu9454-119",
@@ -1518,6 +1518,16 @@
   "line": 10439,
   "doc_line": 13,
   "context": "ich beigehendes Scopptisches[?] Billet."
+ },
+ {
+  "uid": "oe1bu14525-22",
+  "marker": "[?]",
+  "page": 10,
+  "page_id": "0090_a1",
+  "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+  "line": 2923,
+  "doc_line": 267,
+  "context": "Danckelmann (L. S.) Husarzewech[?]"
  },
  {
   "uid": "oe1bu9454-145",
@@ -5857,7 +5867,7 @@
   "scan": "Oe_1_Bu_9454_0540_a-L302_01.jpg",
   "line": 21359,
   "doc_line": 3,
-  "context": "Ich habe den Justiz Bürgermeister Hawich aus Zagórów der alswirkl. Herzog Co[?]"
+  "context": "Ich habe den Justiz Bürgermeister Hawich aus Zagorowo der alswirkl. Herzog Co[?]"
  },
  {
   "uid": "oe1bu9454-302",

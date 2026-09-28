@@ -275,7 +275,7 @@
  "place_mentions": [
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 1,
@@ -341,7 +341,7 @@
   },
   {
    "entity": "wartenberg",
-   "display": "Polnisch Wartenberg (Syców)",
+   "display": "Syców (Polnisch Wartenberg)",
    "kind": "place",
    "surface": "Wartenberg",
    "page": 2,
@@ -352,7 +352,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 2,

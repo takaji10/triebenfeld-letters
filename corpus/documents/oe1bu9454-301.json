@@ -156,7 +156,7 @@
  "place_mentions": [
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 1,
@@ -167,7 +167,7 @@
   },
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betsche",
    "page": 2,
@@ -178,7 +178,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 2,
@@ -189,7 +189,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 2,
@@ -200,7 +200,7 @@
   },
   {
    "entity": "posen",
-   "display": "Posen",
+   "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 2,

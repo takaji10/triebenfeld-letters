@@ -173,7 +173,7 @@
  "place_mentions": [
   {
    "entity": "betsche",
-   "display": "Betsche",
+   "display": "Pszczew (Betsche)",
    "kind": "place",
    "surface": "Betsche",
    "page": 1,
@@ -184,7 +184,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 4,
@@ -195,7 +195,7 @@
   },
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 4,
@@ -206,7 +206,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 4,

@@ -1,7 +1,8 @@
 ﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
 1,21,break,held,short_line,0.44,14,32,Copia vidimata,Wir Friedrich Wilhelm von Gottes
 1,57,run,held,short_line+column,0.45,15,33,heim gefallenen,"Güter, nemlich:"
-1,58,break,high,short_line,0.45,15,33,"Güter, nemlich:",Kamionna oder Kamionna [Kaemen]
+1,58,break,high,short_line,0.45,15,33,"Güter, nemlich:",Kamiono oder Keemen
+1,59,run,review,short_line+column,0.58,19,33,Kamiono oder Keemen,die Stadt
 1,60,run,held,short_line,0.27,9,33,die Stadt,mit den Marckt-Flecken Kulm
 1,71,break,high,short_line,0.53,18,34,und zu übereignen.,"Wir thun auch solches hiermit, und"
 1,106,break,held,short_line,0.69,22,32,männiglich ungehindert,"Wir befehlen, und gebiethen dem¬"
@@ -47,10 +48,10 @@
 3,363,run,held,short_line+column,0.19,7,37,Richter,Gouvernements Audit[or?]
 4,368,break,high,short_line,0.49,22,45,König zu Preussen. pp.,"Urkunden, und erklären vermittelst dieses Unsers"
 4,399,break,high,short_line,0.31,14,45,zu übereignen.,"Wir thun auch solches hiermit, und in Kraft dieses"
-4,446,break,high,short_line,0.5,22,44,licher harter Ahndung.,Das zu Urkund haben Wir gegenwärtig
-4,449,break,high,short_line+column,0.41,18,44,Friedrich Willhelm,"Schenkungs Urkunde,"
-4,450,run,held,short_line+column,0.43,19,44,"Schenkungs Urkunde,",für den
-4,451,run,held,short_line,0.16,7,44,für den,regierenden Fürsten Hohenlohe Jngel:
+4,446,break,high,short_line,0.51,22,43,licher harter Ahndung.,Das zu Urkund haben Wir gegenwärtig
+4,449,break,high,short_line+column,0.42,18,43,Friedrich Willhelm,"Schenkungs Urkunde,"
+4,450,run,held,short_line+column,0.44,19,43,"Schenkungs Urkunde,",für den
+4,451,run,held,short_line,0.16,7,43,für den,regierenden Fürsten Hohenlohe Jngel:
 4,465,run,held,short_line,0.59,19,32,"Sonnabend, Auditeur",des Hochfürstl. v Hohenlohschen
 5,492,break,high,rubric,0.87,48,55,"mögen Namen haben wie sie wollen gegen Erlegung,",1.) der bisher davon entrichteten Landesherrlichen Abgaben
 5,494,break,high,rubric,0.93,51,55,als eines bestimmten und unabänderlichen Canons und,"2, der den Geistlichen Corporationen oder Stiftungen"
@@ -65,9 +66,9 @@
 5,556,run,held,short_line+column,0.22,9,41,Sonnabend,Auditeur des Hochfürstl.
 5,557,run,held,short_line,0.59,24,41,Auditeur des Hochfürstl.,v Hohenlohische Inf. Regts
 6,561,run,held,short_line,0.48,22,46,Wir Friedrich Willhelm,von Gottes Gnaden König von Preussen pp.
-6,578,break,high,rubric+short_line,0.2,9,46,nehmlich.,"1.) zu Betsche, die Ortschaften Stołuń(7), Kuligowo(8)"
-6,582,break,high,rubric+short_line,0.33,15,46,und Heydemühle.,"2.) zu Zagórów, des Dörfchen Swięcin und endlich"
-6,583,break,high,rubric,1.05,48,46,"2.) zu Zagórów, des Dörfchen Swięcin und endlich","3.) bey Wienietz, Konty Szedlemin, Batkowo, und"
+6,578,break,high,rubric+short_line,0.2,9,46,nehmlich.,"1.) zu Betsche, die Ortschaften Stalien(7), Kalligo(8)"
+6,582,break,high,rubric+short_line,0.33,15,46,und Heydemühle.,"2.) zu Zagorow, des Dörfchen Swięcin und endlich"
+6,583,break,high,rubric,1.05,48,46,"2.) zu Zagorow, des Dörfchen Swięcin und endlich","3.) bey Wienietz, Konty Szedlemin, Botkow, und"
 6,585,run,held,short_line+column,0.22,10,46,Karezin[?],gegen Erlegung.
 6,586,break,high,rubric+short_line,0.33,15,46,gegen Erlegung.,"1.) der von gedachten Ortschaften, Hauländereyen"
 6,591,break,high,rubric,0.65,31,48,"und unabänderlichen Canons, und","2.) der den geistlichen Korporationen, und Stiftun¬"
@@ -83,10 +84,10 @@
 6,656,run,held,short_line,0.54,19,35,"Sonnabend, Auditeur",des Hochfürstl. Hohenlohischen
 7,661,break,high,short_line,0.38,15,40,Copia vidimata.,Wir Friedrich Willhelm von Gottes Gnaden
 7,679,break,high,short_line,0.7,28,40,"Bütow, Arlaÿ und Breda p. p.",Urkunden und erklären hiermit und
-7,702,break,high,rubric+short_line,0.23,8,35,nehmlich,"1.) zu Betsche, die Ortschaften Sto¬"
-7,708,break,high,rubric,0.74,26,35,Hauländerey und Heÿdemühle,2.) zu Zagórów des Dorfchen Swięcin
+7,702,break,high,rubric+short_line,0.23,8,35,nehmlich,"1.) zu Betsche, die Ortschaften Sta¬"
+7,708,break,high,rubric,0.74,26,35,Hauländerey und Heÿdemühle,2.) zu Zagorowo des Dorfchen Swięcin
 7,710,break,high,rubric+short_line,0.33,11,33,und endlich,"3.) bey Wienitz, Konty, Siedlemyn, Bot¬"
-7,712,break,high,rubric,0.94,31,33,kowo und Karczyn gegen Erlegung,"1.) der von gedachten Ortschaften, Hauslände¬"
+7,712,break,high,rubric,0.94,31,33,kowo und Karczin gegen Erlegung,"1.) der von gedachten Ortschaften, Hauslände¬"
 7,717,break,high,rubric+short_line,0.52,17,33,lichen Canons und,2.) der den geistlichen Corporationen
 7,722,break,high,short_line,0.55,18,33,und zu übereignen.,Wir thun auch solches hiermit und
 7,756,break,high,short_line,0.68,23,34,männiglich ungehindert.,Wir befehlen und gebiethen demnach
@@ -96,7 +97,7 @@
 7,796,run,held,short_line+column,0.68,21,31,Fürsten von Hohenlohe,Hoym. Reck
 7,797,run,held,short_line+column,0.32,10,31,Hoym. Reck,Ingelfingen zum Erb¬
 7,799,run,held,short_line,0.61,19,31,und eigenthümlichen,besitze der zu den Güthern
-7,801,run,held,short_line+column,0.52,16,31,"Betsche, Zagórów",und Wienietz gehörigen
+7,801,run,held,short_line+column,0.52,16,31,"Betsche, Zagorow",und Wienietz gehörigen
 7,802,run,held,short_line+column,0.71,22,31,und Wienietz gehörigen,Pertinenz=Stücke.
 7,803,break,high,short_line,0.55,17,31,Pertinenz=Stücke.,Urkundlich ist diese beglaubte Abschrift Be¬
 7,814,break,high,short_line+column,0.26,7,27,(L. S.),Schultz
@@ -158,10 +159,10 @@
 10,1166,run,held,short_line+column,0.47,17,36,Gouvernements und,Garnison Auditeur
 11,1170,run,held,short_line,0.47,22,47,Wir Friedrich Willhelm,von Gottes Gnaden König von Preußen p.
 11,1184,run,held,rubric,1.0,47,47,"nen, denenselben durch die Urkunde vom 19. Juny","d. J. bereits verliehenen Gütern: Betschen,"
-11,1187,break,high,rubric+short_line,0.26,12,47,"ke, nehmlich","1. zu Betschen, die Ortschaften Stołuń, Kuligowo,"
-11,1191,break,high,rubric+short_line,0.3,14,47,und Heidemühle,"2. zu Zagórów, das Dörfchen Swięcin und endlich"
-11,1192,break,high,rubric,1.0,47,47,"2. zu Zagórów, das Dörfchen Swięcin und endlich","3. bey Wienietz, Konty, Szedlemin, Batkowo und"
-11,1194,run,held,short_line+column,0.15,7,47,Karczyn,gegen Erlegung:
+11,1187,break,high,rubric+short_line,0.26,12,47,"ke, nehmlich","1. zu Betschen, die Ortschaften Stalun, Kulligowo,"
+11,1191,break,high,rubric+short_line,0.3,14,47,und Heidemühle,"2. zu Zagorow, das Dörfchen Swięcin und endlich"
+11,1192,break,high,rubric,1.0,47,47,"2. zu Zagorow, das Dörfchen Swięcin und endlich","3. bey Wienietz, Konty, Szedlemin, Botkowo und"
+11,1194,run,held,short_line+column,0.15,7,47,Karczin,gegen Erlegung:
 11,1195,break,high,rubric+short_line,0.32,15,47,gegen Erlegung:,"1. der von gedachten Ortschaften, Hausländereyen"
 11,1200,break,high,rubric,0.7,31,44,und unabänderlichen Canons; und,2. der den geistlichen Korporationen und Stif¬
 11,1204,break,high,short_line,0.4,18,44,und zu übereignen.,Wir thun auch solches hiermit und in Kraft die
@@ -172,7 +173,7 @@
 11,1261,run,held,rubric,0.84,38,46,"wird hierdurch attestirt. Breslau, den","28. Januar, 1798."
 11,1263,break,high,short_line,0.64,29,46,Geheimes - Südpreußl. Archiv.,Beugnitz
 12,1270,run,held,short_line,0.14,5,36,Kolno,aus der Stadt Kamionna oder
-12,1272,run,held,short_line+column,0.59,21,36,Kamionna [Kaemen] und,dem Marktflecken Kolno
+12,1272,run,held,short_line+column,0.28,10,36,Kaemen und,dem Marktflecken Kolno
 12,1273,run,held,short_line+column,0.62,22,36,dem Marktflecken Kolno,oder Kulm
 12,1274,run,held,short_line,0.25,9,36,oder Kulm,"bestehend, hat der regierende Fürst, Herr"
 12,1287,run,held,rubric,0.9,32,36,Wilhelm des zweiten Majestät vom,9. August 1796. erb und eigenthümlich
@@ -191,14 +192,14 @@
 12,1388,run,held,short_line,0.59,18,30,Hypothequen-Schein,pro informatione für den
 15,1797,run,held,short_line+column,0.64,27,42,gelegene adliche Herrschaft,Pszczew oder Betsche
 15,1798,run,held,short_line+column,0.48,20,42,Pszczew oder Betsche,mit folgenden Attinenzien:
-15,1799,break,high,short_line,0.62,26,42,mit folgenden Attinenzien:,dem Dorfe Świechocin
-15,1800,run,held,short_line+column,0.48,20,42,dem Dorfe Świechocin,dem Dorfe Stoki.
-15,1801,break,high,short_line,0.38,16,42,dem Dorfe Stoki.,dem Dorfe Łowyń
-15,1802,run,held,short_line+column,0.36,15,42,dem Dorfe Łowyń,dem Dorfe Głażewo
+15,1799,break,high,short_line,0.62,26,42,mit folgenden Attinenzien:,dem Dorfe Swiechozin
+15,1800,run,held,short_line+column,0.48,20,42,dem Dorfe Swiechozin,dem Dorfe Stoki.
+15,1801,break,high,short_line,0.38,16,42,dem Dorfe Stoki.,dem Dorfe Lowin
+15,1802,run,held,short_line+column,0.36,15,42,dem Dorfe Lowin,dem Dorfe Głażewo
 15,1803,run,held,short_line+column,0.4,17,42,dem Dorfe Głażewo,dem Dorfe Dormowo
 15,1804,run,held,short_line+column,0.4,17,42,dem Dorfe Dormowo,dem Dorfe Stołuń
-15,1805,run,held,short_line+column,0.38,16,42,dem Dorfe Stołuń,dem Dorfe Kuligowo
-15,1806,run,held,short_line+column,0.43,18,42,dem Dorfe Kuligowo,dem Dorfe Szarcz
+15,1805,run,review,short_line+column,0.38,16,42,dem Dorfe Stołuń,dem Dorfe Kuligow
+15,1806,run,held,short_line+column,0.4,17,42,dem Dorfe Kuligow,dem Dorfe Szarcz
 15,1807,run,held,short_line+column,0.38,16,42,dem Dorfe Szarcz,der Vogtey Zielomyśl und Silna
 15,1810,run,held,short_line+column,0.07,3,42,und,der Heydemühle.
 15,1811,break,high,short_line,0.36,15,42,der Heydemühle.,hat der regierende Fürst Herr Friedrich Ludwig
@@ -241,7 +242,7 @@
 17,2174,run,held,short_line+column,0.1,4,40,John,Ingrossator
 18,2203,run,held,short_line,0.04,1,24,d,J. bereits verliehenen
 18,2208,break,high,rubric+short_line,0.33,8,24,nehmlich,"1.) zu Betschen, die Ort¬"
-18,2216,break,high,rubric+short_line,0.54,14,26,und Heydemühle,2.) zu Zagórów das Dörfchen
+18,2216,break,high,rubric+short_line,0.54,14,26,und Heydemühle,2.) zu Zagorow das Dörfchen
 18,2218,break,high,rubric,0.77,20,26,"Swięcin, und endlich","3. bey Wienietz, Konty, Szedle¬"
 18,2221,break,high,rubric+short_line,0.54,14,26,gegen Erlegung,1.) der von gedachten Ort¬
 18,2228,break,high,rubric+short_line,0.35,9,26,"nons, und",2.) der den geistlichen Corpo¬
@@ -260,19 +261,19 @@
 18,2384,run,held,short_line+column,0.17,7,42,Richter,Gouvernements
 18,2385,run,held,short_line+column,0.31,13,42,Gouvernements,Auditeur
 19,2390,break,high,short_line,0.52,22,42,König von Preußen etc.,Unsern gnädigen Gruß und Königl. Gnade zuvor.
-19,2391,break,high,salutation,1.07,45,42,Unsern gnädigen Gruß und Königl. Gnade zuvor.,"Durchlauchtigster Fürst, freundlich lieber Vetter!"
+19,2391,break,high,salutation,1.06,45,42,Unsern gnädigen Gruß und Königl. Gnade zuvor.,"Durchlauchtigster Fürst, freundlich lieber Vetter!"
 19,2407,break,high,short_line,0.12,5,42,Reck.,An
 19,2408,run,held,short_line+column,0.05,2,42,An,des regierenden Fürsten zu
-19,2410,run,held,short_line+column,0.5,21,42,Hohenlohe Ingelfingen,liebden
-19,2411,run,held,short_line+column,0.17,7,42,liebden,in Breslau
+19,2410,run,held,short_line+column,0.49,21,42,Hohenlohe Ingelfingen,liebden
+19,2411,run,held,short_line+column,0.16,7,42,liebden,in Breslau
 19,2412,break,high,short_line+column,0.24,10,42,in Breslau,Schleyer[?]
 20,2427,break,high,short_line,0.11,5,45,1800.,Koenigliche Süedprüsse Regierung.
 20,2429,break,high,short_line+column,0.2,9,45,Meuser[?],An
 20,2430,run,held,short_line+column,0.04,2,45,An,Den fuerstlich Hohenlohschen
 20,2431,run,held,short_line+column,0.62,28,45,Den fuerstlich Hohenlohschen,Bau und Oeconomie Rath
 21,2436,break,held,short_line,0.43,15,35,Wyciąg Urzędowy,[Das?] in der Provinz Süd Preußen (teraz zas
-21,2439,run,held,short_line+column,0.54,19,35,ner Kreise belegene,Stadt Zagórów
-21,2440,run,held,short_line,0.37,13,35,Stadt Zagórów,hat der regierende Fürst zu Hohenlohe
+21,2439,run,review,short_line+column,0.54,19,35,ner Kreise belegene,Stadt Zagorowo
+21,2440,run,held,short_line,0.4,14,35,Stadt Zagorowo,hat der regierende Fürst zu Hohenlohe
 21,2450,break,high,rubric+short_line,0.66,23,35,Darauf sind eingetragen,I. Onera perpetua und Einschränkun¬
 21,2453,break,high,rubric+short_line,0.26,9,35,position.,"1., ist gelöscht."
 21,2454,break,high,rubric,0.49,17,35,"1., ist gelöscht.","2., 88 rtl. 5 g. 9 d. Acht und Achtzig Rthlr. 5. gg. 9 d"
@@ -308,8 +309,8 @@
 22,2828,break,high,salutation,0.84,19,22,daran hangen laßen.,"So geschehen, und gegeben"
 22,2838,break,high,short_line,0.44,11,25,Hoym. Reck.,Verleihungs Urkunde
 22,2865,break,held,short_line,0.58,14,24,(L. S.) Schulz,Die in der Provinz Sud Preußen
-22,2868,run,held,short_line+column,0.58,14,24,belegene Stadt,Zagórów
-22,2869,run,held,short_line,0.29,7,24,Zagórów,hat der regierende Fürst
+22,2868,break,high,short_line+column,0.58,14,24,belegene Stadt,Zagorowo
+22,2869,run,held,short_line,0.33,8,24,Zagorowo,hat der regierende Fürst
 22,2883,break,high,short_line,0.61,14,23,tragen worden.,Darauf sind eingetragen
 22,2884,break,high,rubric,1.0,23,23,Darauf sind eingetragen,I. onera perpetua Einschrän¬
 22,2887,break,high,rubric+short_line,0.65,15,23,der Disposition,"1., Vermöge Verordnung vom"
@@ -318,19 +319,19 @@
 22,2897,break,high,rubric,0.91,21,23,hier vermerkt worden.,II. Gerichtlich versicherte Schulden
 22,2900,break,high,short_line,0.65,15,23,bindlichkeiten.,nichts
 22,2901,break,held,short_line,0.26,6,23,nichts,Außer vorstehender
-22,2922,break,high,short_line,0.52,13,25,Unterschrift.,Gegeben Kalisz d. 29. Aug. 1801
-22,2932,break,held,short_line,0.52,13,25,Stadt Zagórów,Daß vorstehende Abschrifften
+22,2922,break,high,short_line,0.52,13,25,Unterschrift.,Gegeben Kalisch d. 29. Aug. 1801
+22,2932,break,held,short_line,0.56,14,25,Stadt Zagorowo,Daß vorstehende Abschrifften
 22,2937,break,held,short_line,0.32,8,25,in fidem,Trąbczyn den 4. Octobr
 22,2939,break,high,short_line+column,0.16,4,25,1804,Schenck
 22,2940,run,held,short_line+column,0.28,7,25,Schenck,Justiz BgMgstr
 23,2950,break,high,short_line,0.41,14,34,folget lautet:,Instrumentum taxationis
-23,2951,run,held,short_line+column,0.68,23,34,Instrumentum taxationis,von
+23,2951,run,held,short_line+column,0.67,23,34,Instrumentum taxationis,von
 23,2952,run,held,short_line,0.09,3,34,von,"dem, dem regierenden Herrn Fürsten zu"
-23,2959,run,held,short_line+column,0.15,5,34,Güthe,Szetlewek.
+23,2959,run,held,short_line+column,0.14,5,34,Güthe,Szetlewek.
 23,2960,break,high,short_line,0.29,10,34,Szetlewek.,Ist im rectificirten Capitals werth
 23,2964,break,high,short_line,0.38,13,34,culo richtig.,Cretius
-23,2965,run,held,short_line+column,0.21,7,34,Cretius,Regierungs Calculator.
-23,2967,break,high,page_end,0.65,22,34,Regierungs Calculator.,Das in der Provinz Südpreußen im Depar¬
+23,2965,run,held,short_line+column,0.2,7,34,Cretius,Regierungs Calculator.
+23,2967,break,high,page_end,0.64,22,34,Regierungs Calculator.,Das in der Provinz Südpreußen im Depar¬
 23,2999,break,high,rubric,1.13,34,30,dem Bonitirungs Register enthalten,I. die herrschftl. Grundstücke
 23,3000,break,high,rubric,1.0,30,30,I. die herrschftl. Grundstücke,"1., An Acker, a zur 1ten Ex. Boden dessen Bestand"
 23,3006,break,high,rubric,0.87,26,30,Hafer säen kann 239 M 39 R,"b., zur 2te Classe. Boden der"
@@ -406,11 +407,12 @@
 23,3210,break,held,short_line+column,0.41,11,27,Cop. 2 rtlr,Schlegel
 24,3218,run,held,short_line+column,0.41,9,22,in Sel[?],oder
 24,3219,run,held,short_line,0.18,4,22,oder,weg Vater bleib des Erbpacht Contracts
-25,3229,run,held,short_line+column,0.62,15,24,Dem Dorfe Stoki,Dem Dorfe Łowyń
-25,3230,run,held,short_line+column,0.62,15,24,Dem Dorfe Łowyń,Dem Dorfe Głażewo
+25,3229,run,review,short_line+column,0.62,15,24,Dem Dorfe Stoki,Dem Dorfe Lowin
+25,3230,run,held,short_line+column,0.62,15,24,Dem Dorfe Lowin,Dem Dorfe Głażewo
 25,3231,run,held,short_line+column,0.71,17,24,Dem Dorfe Głażewo,Dem Dorfe Dormowo
 25,3232,run,held,short_line+column,0.71,17,24,Dem Dorfe Dormowo,Dem Dorfe Stołuń
-25,3233,run,held,short_line,0.67,16,24,Dem Dorfe Stołuń,Dem Dorfe Kuligowo
+25,3233,run,review,short_line+column,0.67,16,24,Dem Dorfe Stołuń,Dem Dorfe Kuligow
+25,3234,run,review,short_line+column,0.71,17,24,Dem Dorfe Kuligow,Dem Dorfe Szarcz
 25,3235,run,held,short_line,0.67,16,24,Dem Dorfe Szarcz,der Vogtey Zielomyśl und
 25,3237,run,held,short_line,0.21,5,24,Silna,"den Holländereyen, die Pomcher Holländerey und"
 25,3239,run,held,short_line,0.62,15,24,"der Heidemühle,",hat der regierende Fürst Herr Friedrich Ludwig zu Hohenlohe
@@ -460,12 +462,12 @@
 28,3541,break,high,short_line,0.42,11,26,Fest. John.,(L. S.)
 28,3542,break,high,short_line+column,0.26,7,26,(L. S.),Hypotheken schein
 28,3543,run,held,short_line,0.64,17,26,Hypotheken schein,für den regierenden Herrn Fursten
-29,3550,break,held,short_line,0.11,5,48,Copia,Allerdurchlauchtigster Großmächtigster König!
+29,3550,break,held,short_line,0.1,5,48,Copia,Allerdurchlauchtigster Großmächtigster König!
 29,3552,break,high,short_line,0.65,31,48,allergnädigster König und Herr!,Euer Königlichen Majestät allerhöchstem Befehl vom 18
-29,3564,run,held,short_line+column,0.53,25,48,Euer Königlichen Majestät,allerunterthänigster
+29,3564,run,held,short_line+column,0.52,25,48,Euer Königlichen Majestät,allerunterthänigster
 29,3565,run,review,short_line+column,0.42,20,48,allerunterthänigster,Johann Wilhelm Glenck
 29,3566,run,held,short_line,0.44,21,48,Johann Wilhelm Glenck,fürstl. Hohenlohischen Bau u Oeconomi
-29,3568,break,high,short_line,0.11,5,48,Rath.,Breslau den 3ten Novbr
+29,3568,break,high,short_line,0.1,5,48,Rath.,Breslau den 3ten Novbr
 30,3587,break,high,short_line+column,0.3,9,30,Meuser[?],An
 30,3588,run,held,short_line,0.07,2,30,An,den Fürstlich Hohenlohschen
 30,3591,run,held,short_line+column,0.3,9,30,Glenck zu,Breslau
@@ -481,7 +483,6 @@
 31,3622,run,held,short_line+column,0.05,2,42,An,des Fürsten v. Hohenlohe
 31,3624,break,high,rubric+short_line,0.27,11,42,Ingelfingen,H. A. R. Lucas
 31,3626,break,high,short_line+column,0.19,8,42,Schleyer,No. 3459
-32,3638,break,high,short_line,0.71,29,41,Kalisz den 18.ten Martz 1800.,Schultz
 32,3639,break,high,short_line+column,0.17,7,41,Schultz,An
 32,3640,run,review,short_line+column,0.05,2,41,An,Eine Königl. Hochlöbl. Ober
 32,3642,run,held,short_line+column,0.34,14,41,Amts Regierung,zu Breslau.

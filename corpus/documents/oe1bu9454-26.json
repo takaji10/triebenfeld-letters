@@ -221,7 +221,7 @@
  "place_mentions": [
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontopper",
    "page": 1,
@@ -254,7 +254,7 @@
   },
   {
    "entity": "sagan",
-   "display": "Sagan (Żagań)",
+   "display": "Żagań (Sagan)",
    "kind": "place",
    "surface": "Sagan",
    "page": 1,
@@ -265,7 +265,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
@@ -276,7 +276,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
@@ -287,7 +287,7 @@
   },
   {
    "entity": "stettin",
-   "display": "Stettin",
+   "display": "Szczecin (Stettin)",
    "kind": "place",
    "surface": "Stettin",
    "page": 2,
@@ -309,7 +309,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontopper",
    "page": 2,
@@ -331,7 +331,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontopper",
    "page": 3,
@@ -342,7 +342,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslauer",
    "page": 3,
@@ -353,7 +353,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,

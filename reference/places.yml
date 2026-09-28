@@ -110,6 +110,7 @@ places:
     # Zagorowo, the corpus dateline form, until the editor ruled on 2026-09-15
     # that it prints Zagórów, across every holding.
     display: "Zagórów"
+    german: "Zagorowo"
     kind: town
     match: 'Zag[oó]r[oó]w\w*|Zagurow\w*'
     tier: "Book-confirmed"
@@ -160,6 +161,7 @@ places:
 
   kopojno:
     display: "Kopojno"
+    german: "Kopoyno"
     kind: village
     match: 'Kop[oa]yn\w*|Kopojn\w*'
     tier: ""
@@ -167,6 +169,7 @@ places:
 
   witow:
     display: "Witów"
+    german: "Wittow"
     kind: village
     match: 'W[iy]tt?[oó]w\w*'
     tier: ""
@@ -176,6 +179,7 @@ places:
     # The register prints Kamionno. The editor ruled on 2026-09-15 that the
     # edition prints Kamionna, across every holding, departing from the register.
     display: "Kamionna"
+    german: "Kaemen"
     kind: estate
     # `Kamionn?o` demanded a final o and the corpus never writes one: it has
     # Kamionne 14 times and Kamionna 3. Both are inflections of this one
@@ -301,7 +305,8 @@ places:
       - {form: "Berti"}
 
   breslau:
-    display: "Breslau"
+    display: "Wrocław"
+    german: "Breslau"
     kind: city
     match: 'Bre(?:ss|ß|ſs|s)?lau\w*'
     tier: "Established"
@@ -366,21 +371,24 @@ places:
       - {form: "Wien[?]", match: false}   # a trailing [?] is a ruling, not a spelling
 
   posen:
-    display: "Posen"
+    display: "Poznań"
+    german: "Posen"
     kind: city
     match: 'Posen\b'
     tier: "Established"
     variants: ["Poser"]
 
   brieg:
-    display: "Brieg"
+    display: "Brzeg"
+    german: "Brieg"
     kind: town
     match: 'Brieg\b'
     tier: ""
     variants: ["Brzeg"]
 
   betsche:
-    display: "Betsche"
+    display: "Pszczew"
+    german: "Betsche"
     kind: town
     match: 'Betsch\w*|Psz?czew\w*'
     tier: ""
@@ -409,7 +417,8 @@ places:
       - {form: "Owringen"}
 
   schlawenschitz:
-    display: "Schlawenschitz"
+    display: "Sławięcice"
+    german: "Schlawenschitz"
     kind: village
     match: 'Schlaw[ei]n[sz]ch?[iü]t?z\w*'
     tier: ""
@@ -434,6 +443,7 @@ places:
   # --- Polish and South Prussian places ----------------------------------
   pyzdry:
     display: "Pyzdry"
+    german: "Peisern"
     kind: town
     match: 'Pyzdry\w*|Pe[iy]sern\w*'
     tier: "Established"
@@ -445,6 +455,7 @@ places:
 
   kalisz:
     display: "Kalisz"
+    german: "Kalisch"
     kind: city
     match: 'Kalis(?:z|ch)\w*'
     tier: "Established"
@@ -471,7 +482,8 @@ places:
     variants: ["Bleranow"]
 
   kontop:
-    display: "Kontop"
+    display: "Konotop"
+    german: "Kontop"
     kind: village
     # The character class belongs on the first letter, not the second: as
     # `K[oc]ontop` this required Koontop or Kcontop and matched none of the 66
@@ -494,6 +506,7 @@ places:
     # Głazewo until the editor ruled on 2026-09-15 that the edition prints
     # Głażewo, across every holding.
     display: "Głażewo"
+    german: "Gloszewo"
     kind: village
     match: 'G[lł][oa][zsż]+ewo\w*|G[lł]a[zż]ew(?:i|er|skie)\w*'
     tier: ""
@@ -515,6 +528,7 @@ places:
   # Spellings ruled by the editor on 2026-09-15, first met in Oe 1 Bü 14525.
   swiechocin:
     display: "Świechocin"
+    german: "Schwiechodezin"
     kind: village
     match: '[ŚS]wiechoc[iy]n\w*|Swiechozin\w*|Swie?g[ao]sz[iy]n\w*|Swiegoschin\w*|S(?:ch)?wie?cho(?:d[iec]?)?[cz]+[iy]n\w*'
     tier: ""
@@ -532,6 +546,7 @@ places:
 
   stoki:
     display: "Stoki"
+    german: "Stocki"
     kind: village
     match: 'Stoc?ki\b'
     tier: ""
@@ -539,6 +554,7 @@ places:
 
   lowyn:
     display: "Łowyń"
+    german: "Lowin"
     kind: village
     match: '[ŁL]owy[nń]\b|Lowin\w*|Lewiner\b'
     tier: ""
@@ -553,6 +569,7 @@ places:
 
   stolun:
     display: "Stołuń"
+    german: "Stalluhn"
     kind: village
     # Not `Stall?uh?n\w*`, which also takes Stallungen (stables).
     match: 'Sto[lł]u[nń]\w*|Stalun\b|Stall?uhn\w*|Stalien\b'
@@ -561,6 +578,7 @@ places:
 
   kuligowo:
     display: "Kuligowo"
+    german: "Kulligowo"
     kind: village
     match: 'Kul+igo\w*|Kalligo\b'
     tier: ""
@@ -568,6 +586,7 @@ places:
 
   szarcz:
     display: "Szarcz"
+    german: "Schartzig"
     kind: village
     match: 'Szarcz\w*|Sc[au]rczig\w*|S(?:ch|z)artzig\w*'
     tier: ""
@@ -624,7 +643,8 @@ places:
     variants: ["Allexandrien"]
 
   olesnica:
-    display: "Olesnica"
+    display: "Oleśnica"
+    german: "Olesnice"
     kind: village
     # Not preceded by Michalinów: Michalinów Oleśnicki is a DIFFERENT place and
     # the register says so twice over.
@@ -850,21 +870,24 @@ places:
     variants: []
 
   miedzyrzecz:
-    display: "Meseritz (Międzyrzecz)"
+    display: "Międzyrzecz"
+    german: "Meseritz"
     kind: town
     match: 'Me[sz]eritz\w*|Miedzeritz\w*|Mi[eę]dzyrzecz\w*'
     tier: "Established"
     variants: []
 
   wartenberg:
-    display: "Polnisch Wartenberg (Syców)"
+    display: "Syców"
+    german: "Polnisch Wartenberg"
     kind: town
     match: 'Warte[nm]berg\w*'
     tier: "Context-inferred"
     variants: []
 
   koschentin:
-    display: "Koschentin (Koszęcin)"
+    display: "Koszęcin"
+    german: "Koschentin"
     kind: estate
     match: 'Kosch(?:entin|enten|äntner)\w*'
     tier: "Context-inferred"
@@ -872,7 +895,8 @@ places:
     # The Prince's Upper Silesian estate, offered to Pourtalès in 1815 with Boronow and Cieschowa (9454).
 
   boronow:
-    display: "Boronow (Boronów)"
+    display: "Boronów"
+    german: "Boronow"
     kind: estate
     match: 'Boronow\w*'
     tier: "Context-inferred"
@@ -880,7 +904,8 @@ places:
     # Part of the Koschentin sale (9454 letter 264).
 
   cieszowa:
-    display: "Cieschowa (Cieszowa)"
+    display: "Cieszowa"
+    german: "Cieschowa"
     kind: estate
     match: 'Cie(?:sch|sz)ow\w*'
     tier: "Context-inferred"
@@ -896,7 +921,8 @@ places:
     # Estate in the 1798 exchange with the King, beside Krotoszyn (9454 letters 84-101).
 
   schweinern:
-    display: "Schweinern (Świniary)"
+    display: "Świniary"
+    german: "Schweinern"
     kind: estate
     match: 'Schweinern\w*'
     tier: "Context-inferred"
@@ -944,7 +970,8 @@ places:
     # In the 1809 exchange plans with Bischdorf (9454 letter 64).
 
   schurgast:
-    display: "Schurgast (Skorogoszcz)"
+    display: "Skorogoszcz"
+    german: "Schurgast"
     kind: estate
     match: 'Schurgast\w*'
     tier: "Context-inferred"
@@ -984,7 +1011,8 @@ places:
     # Colonists' settlement on the Prince's Polish estates (9454 letter 47).
 
   kempen:
-    display: "Kempen (Kępno)"
+    display: "Kępno"
+    german: "Kempen"
     kind: town
     match: 'Kempen(?![a-zà-ÿ])'
     tier: "Context-inferred"
@@ -1008,7 +1036,8 @@ places:
     # A mile from Kalisz on the Kempen road (9454 letter 298).
 
   miedzibor:
-    display: "Medzibor (Międzybórz)"
+    display: "Międzybórz"
+    german: "Medzibor"
     kind: town
     match: 'Miedzibor\w*'
     tier: "Context-inferred"
@@ -1048,7 +1077,8 @@ places:
     # Hohenlohe principality named with Öhringen and Ingelfingen.
 
   warschau:
-    display: "Warschau"
+    display: "Warszawa"
+    german: "Warschau"
     kind: city
     match: 'Warschau\w*'
     tier: "Established"
@@ -1062,7 +1092,8 @@ places:
     variants: []
 
   neisse:
-    display: "Neisse (Nysa)"
+    display: "Nysa"
+    german: "Neisse"
     kind: town
     match: 'Neisse(?![a-zà-ÿ])'
     tier: "Established"
@@ -1083,14 +1114,16 @@ places:
     variants: []
 
   cosel:
-    display: "Cosel (Koźle)"
+    display: "Koźle"
+    german: "Cosel"
     kind: town
     match: 'Cosel(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 
   glogau:
-    display: "Glogau (Głogów)"
+    display: "Głogów"
+    german: "Glogau"
     kind: town
     match: 'Glogau\w*'
     tier: "Established"
@@ -1132,14 +1165,16 @@ places:
     variants: []
 
   boyadel:
-    display: "Boyadel (Bojadła)"
+    display: "Bojadła"
+    german: "Boyadel"
     kind: village
     match: 'Boyadel\w*'
     tier: "Established"
     variants: []
 
   grueneberg:
-    display: "Grüneberg (Zielona Góra)"
+    display: "Zielona Góra"
+    german: "Grüneberg"
     kind: town
     match: 'Grüneberg\w*'
     tier: "Established"
@@ -1160,21 +1195,24 @@ places:
     variants: []
 
   frankenstein:
-    display: "Frankenstein (Ząbkowice Śląskie)"
+    display: "Ząbkowice Śląskie"
+    german: "Frankenstein"
     kind: town
     match: 'Fran[ck]+enstein'
     tier: "Established"
     variants: []
 
   ujest:
-    display: "Ujest (Ujazd)"
+    display: "Ujazd"
+    german: "Ujest"
     kind: town
     match: 'Ujest'
     tier: "Established"
     variants: []
 
   crossen:
-    display: "Crossen (Krosno Odrzańskie)"
+    display: "Krosno Odrzańskie"
+    german: "Crossen"
     kind: town
     match: 'Crossen'
     tier: "Established"
@@ -1265,7 +1303,8 @@ places:
     variants: []
 
   stettin:
-    display: "Stettin"
+    display: "Szczecin"
+    german: "Stettin"
     kind: city
     match: 'Stettin(?![a-zà-ÿ])'
     tier: "Established"
@@ -1280,21 +1319,24 @@ places:
     variants: []
 
   glatz:
-    display: "Glatz (Kłodzko)"
+    display: "Kłodzko"
+    german: "Glatz"
     kind: town
     match: 'Glatz(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 
   oppeln:
-    display: "Oppeln (Opole)"
+    display: "Opole"
+    german: "Oppeln"
     kind: town
     match: 'Oppeln(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 
   liegnitz:
-    display: "Liegnitz (Legnica)"
+    display: "Legnica"
+    german: "Liegnitz"
     kind: town
     match: 'Liegnitz\w*'
     tier: "Established"
@@ -1462,7 +1504,8 @@ places:
     variants: []
 
   czestochowa:
-    display: "Czenstochau (Częstochowa)"
+    display: "Częstochowa"
+    german: "Czenstochau"
     kind: town
     match: 'Czenstochau'
     tier: "Established"
@@ -1490,28 +1533,32 @@ places:
     variants: []
 
   sagan:
-    display: "Sagan (Żagań)"
+    display: "Żagań"
+    german: "Sagan"
     kind: town
     match: 'Sagan(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 
   karge:
-    display: "Karge (Kargowa)"
+    display: "Kargowa"
+    german: "Karge"
     kind: town
     match: 'Karge(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 
   unruhstadt:
-    display: "Unruhstadt"
+    display: "Kargowa"
+    german: "Unruhstadt"
     kind: town
     match: 'Unruh[sſ]tadt?'
     tier: "Established"
     variants: []
 
   neusalz:
-    display: "Neusalz"
+    display: "Nowa Sól"
+    german: "Neusalz"
     kind: town
     match: 'Neusalz'
     tier: "Established"
@@ -1525,14 +1572,16 @@ places:
     variants: []
 
   leobschuetz:
-    display: "Leobschütz (Głubczyce)"
+    display: "Głubczyce"
+    german: "Leobschütz"
     kind: town
     match: 'Leobschütz'
     tier: "Established"
     variants: []
 
   luebliniz:
-    display: "Lublinitz (Lubliniec)"
+    display: "Lubliniec"
+    german: "Lublinitz"
     kind: town
     match: 'Lüblinitz|Lublinitz'
     tier: "Established"
@@ -1560,7 +1609,8 @@ places:
     variants: []
 
   lenschitz:
-    display: "Lenschitz (Łęczyca)"
+    display: "Łęczyca"
+    german: "Lenschitz"
     kind: town
     match: 'Lenschitz'
     tier: "Established"
@@ -1581,14 +1631,16 @@ places:
     variants: []
 
   ruschinowitz:
-    display: "Ruschinowitz (Rusinowice)"
+    display: "Rusinowice"
+    german: "Ruschinowitz"
     kind: estate
     match: 'Ru(?:sch|z)[iy]nowi(?:tz|ce)\w*|Ruszyno'
     tier: "Established"
     variants: []
 
   konstadt:
-    display: "Konstadt (Wołczyn)"
+    display: "Wołczyn"
+    german: "Konstadt"
     kind: town
     match: '[CK]onstadt?\w*'
     tier: "Established"

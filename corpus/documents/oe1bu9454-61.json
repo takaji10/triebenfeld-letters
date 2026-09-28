@@ -187,7 +187,7 @@
  "place_mentions": [
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
@@ -198,7 +198,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
@@ -231,7 +231,7 @@
   },
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 2,
@@ -242,7 +242,7 @@
   },
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 2,
@@ -253,7 +253,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 2,
@@ -264,7 +264,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 2,

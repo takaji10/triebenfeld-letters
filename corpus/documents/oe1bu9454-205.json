@@ -209,7 +209,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorowo",
    "page": 1,
@@ -231,7 +231,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentin",
    "page": 1,
@@ -242,7 +242,7 @@
   },
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 1,
@@ -286,7 +286,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 2,
@@ -330,7 +330,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,

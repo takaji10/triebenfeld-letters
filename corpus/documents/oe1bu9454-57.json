@@ -263,7 +263,7 @@
  "place_mentions": [
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
@@ -285,7 +285,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 1,
@@ -307,7 +307,7 @@
   },
   {
    "entity": "cosel",
-   "display": "Cosel (Koźle)",
+   "display": "Koźle (Cosel)",
    "kind": "place",
    "surface": "Cosel",
    "page": 2,
@@ -340,7 +340,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 3,
@@ -351,7 +351,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 3,
@@ -406,7 +406,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 4,
@@ -417,7 +417,7 @@
   },
   {
    "entity": "luebliniz",
-   "display": "Lublinitz (Lubliniec)",
+   "display": "Lubliniec (Lublinitz)",
    "kind": "place",
    "surface": "Lüblinitz",
    "page": 4,
@@ -428,7 +428,7 @@
   },
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 4,

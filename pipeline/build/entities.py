@@ -144,7 +144,8 @@ def place_authority():
     for slug, e in load_place_records().items():
         pat = _pattern_for(e)
         if pat:
-            out.append((slug, e.get('display') or slug,
+            # the label, Polish (German), is what every listing shows
+            out.append((slug, unitlib.place_label(e) or slug,
                         re.compile(_ANCHOR % pat, re.UNICODE)))
     return out
 

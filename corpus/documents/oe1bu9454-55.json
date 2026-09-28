@@ -372,7 +372,7 @@
  "place_mentions": [
   {
    "entity": "glatz",
-   "display": "Glatz (Kłodzko)",
+   "display": "Kłodzko (Glatz)",
    "kind": "place",
    "surface": "Glatz",
    "page": 1,
@@ -383,7 +383,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
@@ -394,7 +394,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 1,
@@ -416,7 +416,7 @@
   },
   {
    "entity": "glatz",
-   "display": "Glatz (Kłodzko)",
+   "display": "Kłodzko (Glatz)",
    "kind": "place",
    "surface": "Glatz",
    "page": 3,
@@ -427,7 +427,7 @@
   },
   {
    "entity": "liegnitz",
-   "display": "Liegnitz (Legnica)",
+   "display": "Legnica (Liegnitz)",
    "kind": "place",
    "surface": "Liegnitz",
    "page": 3,
@@ -449,7 +449,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 3,
@@ -482,7 +482,7 @@
   },
   {
    "entity": "crossen",
-   "display": "Crossen (Krosno Odrzańskie)",
+   "display": "Krosno Odrzańskie (Crossen)",
    "kind": "place",
    "surface": "Crossen",
    "page": 3,
@@ -515,7 +515,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 4,
@@ -526,7 +526,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 4,

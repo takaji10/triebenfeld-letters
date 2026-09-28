@@ -4579,78 +4579,6 @@
     "doc_line": 14
    },
    {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 2,
-    "page_id": "0086_a1",
-    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
-    "line": 2685,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 3,
-    "page_id": "0086_a2",
-    "scan": "Oe_1_Bu_14525_0086_a2-L22_03.jpg",
-    "line": 2738,
-    "doc_line": 89
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 5,
-    "page_id": "0087_a2",
-    "scan": "Oe_1_Bu_14525_0087_a2-L22_05.jpg",
-    "line": 2791,
-    "doc_line": 140
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 2840,
-    "doc_line": 187
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 8,
-    "page_id": "0089_a1",
-    "scan": "Oe_1_Bu_14525_0089_a1-L22_08.jpg",
-    "line": 2857,
-    "doc_line": 203
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 8,
-    "page_id": "0089_a1",
-    "scan": "Oe_1_Bu_14525_0089_a1-L22_08.jpg",
-    "line": 2870,
-    "doc_line": 216
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 10,
-    "page_id": "0090_a1",
-    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-    "line": 2910,
-    "doc_line": 254
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hohenlohe",
-    "page": 10,
-    "page_id": "0090_a1",
-    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-    "line": 2926,
-    "doc_line": 270
-   },
-   {
     "uid": "oe1bu14525-4",
     "surface": "Hohenlohe",
     "page": 1,
@@ -5864,6 +5792,78 @@
     "scan": "Oe_1_Bu_14526_0023_a-L5_08.jpg",
     "line": 1112,
     "doc_line": 229
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 2,
+    "page_id": "0086_a1",
+    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
+    "line": 2685,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 3,
+    "page_id": "0086_a2",
+    "scan": "Oe_1_Bu_14525_0086_a2-L22_03.jpg",
+    "line": 2738,
+    "doc_line": 89
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 5,
+    "page_id": "0087_a2",
+    "scan": "Oe_1_Bu_14525_0087_a2-L22_05.jpg",
+    "line": 2791,
+    "doc_line": 140
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 2840,
+    "doc_line": 187
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 8,
+    "page_id": "0089_a1",
+    "scan": "Oe_1_Bu_14525_0089_a1-L22_08.jpg",
+    "line": 2857,
+    "doc_line": 203
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 8,
+    "page_id": "0089_a1",
+    "scan": "Oe_1_Bu_14525_0089_a1-L22_08.jpg",
+    "line": 2870,
+    "doc_line": 216
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 10,
+    "page_id": "0090_a1",
+    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+    "line": 2910,
+    "doc_line": 254
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hohenlohe",
+    "page": 10,
+    "page_id": "0090_a1",
+    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+    "line": 2926,
+    "doc_line": 270
    },
    {
     "uid": "oe1bu14526-16",
@@ -13086,24 +13086,6 @@
     "doc_line": 99
    },
    {
-    "uid": "oe1bu14525-22",
-    "surface": "Schenck",
-    "page": 10,
-    "page_id": "0090_a1",
-    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Schenck",
-    "page": 10,
-    "page_id": "0090_a1",
-    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-    "line": 2939,
-    "doc_line": 283
-   },
-   {
     "uid": "oe1bu14525-17",
     "surface": "Schenck",
     "page": 9,
@@ -13120,6 +13102,24 @@
     "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
     "line": 9951,
     "doc_line": 155
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Schenck",
+    "page": 10,
+    "page_id": "0090_a1",
+    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Schenck",
+    "page": 10,
+    "page_id": "0090_a1",
+    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+    "line": 2939,
+    "doc_line": 283
    },
    {
     "uid": "oe1bu9454-146",
@@ -21286,15 +21286,6 @@
     "doc_line": 46
    },
    {
-    "uid": "oe1bu14525-22",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0086_a1",
-    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
-    "line": 2687,
-    "doc_line": 39
-   },
-   {
     "uid": "oe1bu14525-9",
     "surface": "Prusimski",
     "page": 1,
@@ -21383,6 +21374,15 @@
     "scan": "Oe_1_Bu_14525_0034_a1-L12_04.jpg",
     "line": 1353,
     "doc_line": 85
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0086_a1",
+    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
+    "line": 2687,
+    "doc_line": 39
    },
    {
     "uid": "oe1bu9454-164",
@@ -22642,24 +22642,6 @@
     "doc_line": 99
    },
    {
-    "uid": "oe1bu14525-22",
-    "surface": "Hoym",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Hoym",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 2837,
-    "doc_line": 184
-   },
-   {
     "uid": "oe1bu14525-9",
     "surface": "Hoym",
     "page": 3,
@@ -22748,6 +22730,24 @@
     "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
     "line": 545,
     "doc_line": 75
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hoym",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Hoym",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 2837,
+    "doc_line": 184
    },
    {
     "uid": "oe1bu9454-303",
@@ -35417,24 +35417,6 @@
     "doc_line": 21
    },
    {
-    "uid": "oe1bu14525-22",
-    "surface": "Danckelmann",
-    "page": 10,
-    "page_id": "0090_a1",
-    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Danckelmann",
-    "page": 10,
-    "page_id": "0090_a1",
-    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
-    "line": 2923,
-    "doc_line": 267
-   },
-   {
     "uid": "oe1bu14525-7",
     "surface": "Danckelmann",
     "page": 9,
@@ -35451,6 +35433,24 @@
     "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
     "line": 867,
     "doc_line": 200
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Danckelmann",
+    "page": 10,
+    "page_id": "0090_a1",
+    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Danckelmann",
+    "page": 10,
+    "page_id": "0090_a1",
+    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
+    "line": 2923,
+    "doc_line": 267
    },
    {
     "uid": "oe1bu9454-57",

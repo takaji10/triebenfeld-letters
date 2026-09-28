@@ -50,6 +50,8 @@ PLACE_CANON = load_places()
 # the question worth asking: the dateline gives the chancery, not the estate.
 PLACES_RE = place_authority()
 PLACE_DISP = {slug: disp for slug, disp, _ in PLACES_RE}
+# The place of writing takes the same Polish (German) label as the lists.
+PLACE_LABEL = unitlib.load_place_labels()
 
 MONTHS = {1:'January',2:'February',3:'March',4:'April',5:'May',6:'June',
           7:'July',8:'August',9:'September',10:'October',11:'November',12:'December'}
@@ -288,6 +290,7 @@ def main():
                 people_index[slug].append(r['uid'])
         r['_people'] = found
         p = PLACE_CANON.get(r['place'], r['place'])
+        p = PLACE_LABEL.get((p or '').strip().lower(), p)
         # Letters that name no place of writing are grouped under "Unknown"
         # rather than dropped. Many of these genuinely never say where they were
         # written, and silently omitting them made the places list look complete

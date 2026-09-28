@@ -366,7 +366,7 @@
  "place_mentions": [
   {
    "entity": "grueneberg",
-   "display": "Grüneberg (Zielona Góra)",
+   "display": "Zielona Góra (Grüneberg)",
    "kind": "place",
    "surface": "Grüneberg",
    "page": 1,
@@ -377,7 +377,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
@@ -399,7 +399,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
@@ -421,7 +421,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -432,7 +432,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -443,7 +443,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalisz",
    "page": 1,
@@ -454,7 +454,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 1,
@@ -465,7 +465,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschauer",
    "page": 1,
@@ -476,7 +476,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -487,7 +487,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -498,7 +498,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalischen",
    "page": 1,
@@ -509,7 +509,7 @@
   },
   {
    "entity": "warschau",
-   "display": "Warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Warschau",
    "page": 1,
@@ -520,7 +520,7 @@
   },
   {
    "entity": "glogau",
-   "display": "Glogau (Głogów)",
+   "display": "Głogów (Glogau)",
    "kind": "place",
    "surface": "Glogauschen",
    "page": 1,
@@ -531,7 +531,7 @@
   },
   {
    "entity": "grueneberg",
-   "display": "Grüneberg (Zielona Góra)",
+   "display": "Zielona Góra (Grüneberg)",
    "kind": "place",
    "surface": "Grüneberg",
    "page": 1,
@@ -542,7 +542,7 @@
   },
   {
    "entity": "kontop",
-   "display": "Kontop",
+   "display": "Konotop (Kontop)",
    "kind": "place",
    "surface": "Kontop",
    "page": 1,
@@ -564,7 +564,7 @@
   },
   {
    "entity": "glogau",
-   "display": "Glogau (Głogów)",
+   "display": "Głogów (Glogau)",
    "kind": "place",
    "surface": "Glogauschen",
    "page": 1,
@@ -575,7 +575,7 @@
   },
   {
    "entity": "schweinern",
-   "display": "Schweinern (Świniary)",
+   "display": "Świniary (Schweinern)",
    "kind": "place",
    "surface": "Schweinern",
    "page": 1,
@@ -597,7 +597,7 @@
   },
   {
    "entity": "kalisz",
-   "display": "Kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
    "surface": "Kalischen",
    "page": 2,
@@ -608,7 +608,7 @@
   },
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 2,

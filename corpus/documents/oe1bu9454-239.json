@@ -196,7 +196,7 @@
  "place_mentions": [
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 1,
@@ -251,7 +251,7 @@
   },
   {
    "entity": "frankenstein",
-   "display": "Frankenstein (Ząbkowice Śląskie)",
+   "display": "Ząbkowice Śląskie (Frankenstein)",
    "kind": "place",
    "surface": "Franckenstein",
    "page": 2,
@@ -273,7 +273,7 @@
   },
   {
    "entity": "frankenstein",
-   "display": "Frankenstein (Ząbkowice Śląskie)",
+   "display": "Ząbkowice Śląskie (Frankenstein)",
    "kind": "place",
    "surface": "Franckenstein",
    "page": 2,
@@ -284,7 +284,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
@@ -295,7 +295,7 @@
   },
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 2,

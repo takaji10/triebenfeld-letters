@@ -252,7 +252,7 @@
  "place_mentions": [
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 1,
@@ -263,7 +263,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslausche",
    "page": 1,
@@ -285,7 +285,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
@@ -307,7 +307,7 @@
   },
   {
    "entity": "miedzibor",
-   "display": "Medzibor (Międzybórz)",
+   "display": "Międzybórz (Medzibor)",
    "kind": "place",
    "surface": "Miedzibor",
    "page": 3,

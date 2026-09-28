@@ -137,7 +137,7 @@
  },
  {
   "entity": "zagorowo",
-  "display": "Zagórów",
+  "display": "Zagórów (Zagorowo)",
   "count": 78,
   "documents": [
    "oe1bu14525-10",
@@ -222,7 +222,7 @@
  },
  {
   "entity": "kamionno",
-  "display": "Kamionna",
+  "display": "Kamionna (Kaemen)",
   "count": 70,
   "documents": [
    "oe1bu14525-1",
@@ -299,7 +299,7 @@
  },
  {
   "entity": "schlawenschitz",
-  "display": "Schlawenschitz",
+  "display": "Sławięcice (Schlawenschitz)",
   "count": 66,
   "documents": [
    "oe1bu9454-1",
@@ -518,7 +518,7 @@
  },
  {
   "entity": "betsche",
-  "display": "Betsche",
+  "display": "Pszczew (Betsche)",
   "count": 60,
   "documents": [
    "oe1bu14525-10",
@@ -585,7 +585,7 @@
  },
  {
   "entity": "olesnica",
-  "display": "Olesnica",
+  "display": "Oleśnica (Olesnice)",
   "count": 50,
   "documents": [
    "oe1bu14525-10",
@@ -747,7 +747,7 @@
  },
  {
   "entity": "koschentin",
-  "display": "Koschentin (Koszęcin)",
+  "display": "Koszęcin (Koschentin)",
   "count": 25,
   "documents": [
    "oe1bu9454-13",
@@ -779,7 +779,7 @@
  },
  {
   "entity": "kopojno",
-  "display": "Kopojno",
+  "display": "Kopojno (Kopoyno)",
   "count": 23,
   "documents": [
    "oe1bu14525-10",
@@ -838,7 +838,7 @@
  },
  {
   "entity": "kontop",
-  "display": "Kontop",
+  "display": "Konotop (Kontop)",
   "count": 22,
   "documents": [
    "oe1bu9454-129",
@@ -919,7 +919,7 @@
  },
  {
   "entity": "schweinern",
-  "display": "Schweinern (Świniary)",
+  "display": "Świniary (Schweinern)",
   "count": 16,
   "documents": [
    "oe1bu9454-115",
@@ -999,7 +999,7 @@
  },
  {
   "entity": "swiechocin",
-  "display": "Świechocin",
+  "display": "Świechocin (Schwiechodezin)",
   "count": 11,
   "documents": [
    "oe1bu14525-10",
@@ -1017,7 +1017,7 @@
  },
  {
   "entity": "stoki",
-  "display": "Stoki",
+  "display": "Stoki (Stocki)",
   "count": 11,
   "documents": [
    "oe1bu14525-10",
@@ -1035,7 +1035,7 @@
  },
  {
   "entity": "lowyn",
-  "display": "Łowyń",
+  "display": "Łowyń (Lowin)",
   "count": 11,
   "documents": [
    "oe1bu14525-10",
@@ -1053,7 +1053,7 @@
  },
  {
   "entity": "glazewo",
-  "display": "Głażewo",
+  "display": "Głażewo (Gloszewo)",
   "count": 11,
   "documents": [
    "oe1bu14525-10",
@@ -1107,7 +1107,7 @@
  },
  {
   "entity": "witow",
-  "display": "Witów",
+  "display": "Witów (Wittow)",
   "count": 11,
   "documents": [
    "oe1bu14526-1",
@@ -1142,7 +1142,7 @@
  },
  {
   "entity": "stolun",
-  "display": "Stołuń",
+  "display": "Stołuń (Stalluhn)",
   "count": 9,
   "documents": [
    "oe1bu14525-11",
@@ -1158,7 +1158,7 @@
  },
  {
   "entity": "kuligowo",
-  "display": "Kuligowo",
+  "display": "Kuligowo (Kulligowo)",
   "count": 9,
   "documents": [
    "oe1bu14525-11",
@@ -1174,7 +1174,7 @@
  },
  {
   "entity": "szarcz",
-  "display": "Szarcz",
+  "display": "Szarcz (Schartzig)",
   "count": 9,
   "documents": [
    "oe1bu14525-11",
@@ -1370,7 +1370,7 @@
  },
  {
   "entity": "schurgast",
-  "display": "Schurgast (Skorogoszcz)",
+  "display": "Skorogoszcz (Schurgast)",
   "count": 3,
   "documents": [
    "oe1bu9454-218",
@@ -1398,7 +1398,7 @@
  },
  {
   "entity": "boronow",
-  "display": "Boronow (Boronów)",
+  "display": "Boronów (Boronow)",
   "count": 1,
   "documents": [
    "oe1bu9454-264"
@@ -1406,7 +1406,7 @@
  },
  {
   "entity": "cieszowa",
-  "display": "Cieschowa (Cieszowa)",
+  "display": "Cieszowa (Cieschowa)",
   "count": 1,
   "documents": [
    "oe1bu9454-264"

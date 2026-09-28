@@ -213,7 +213,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -224,7 +224,7 @@
   },
   {
    "entity": "oppeln",
-   "display": "Oppeln (Opole)",
+   "display": "Opole (Oppeln)",
    "kind": "place",
    "surface": "Oppeln",
    "page": 2,

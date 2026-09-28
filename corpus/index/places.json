@@ -182,8 +182,8 @@
   "place": "Trąbczyn",
   "count": 21,
   "documents": [
-   "oe1bu14525-22",
    "oe1bu9454-128",
+   "oe1bu14525-22",
    "oe1bu9454-146",
    "oe1bu9454-148",
    "oe1bu9454-149",
@@ -256,7 +256,7 @@
  },
  {
   "place": "Kontop",
-  "count": 17,
+  "count": 16,
   "documents": [
    "oe1bu9454-43",
    "oe1bu9454-45",
@@ -267,7 +267,6 @@
    "oe1bu9454-60",
    "oe1bu9454-61",
    "oe1bu9454-65",
-   "oe1bu9454-22",
    "oe1bu9454-21",
    "oe1bu9454-68",
    "oe1bu9454-69",
@@ -536,6 +535,13 @@
   "count": 1,
   "documents": [
    "oe1bu9454-57"
+  ]
+ },
+ {
+  "place": "Konotop",
+  "count": 1,
+  "documents": [
+   "oe1bu9454-22"
   ]
  },
  {

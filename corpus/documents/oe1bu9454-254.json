@@ -294,7 +294,7 @@
  "place_mentions": [
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentiner",
    "page": 2,
@@ -316,7 +316,7 @@
   },
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 3,
@@ -327,7 +327,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -338,7 +338,7 @@
   },
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 3,
@@ -349,7 +349,7 @@
   },
   {
    "entity": "koschentin",
-   "display": "Koschentin (Koszęcin)",
+   "display": "Koszęcin (Koschentin)",
    "kind": "place",
    "surface": "Koschentiner",
    "page": 3,
@@ -360,7 +360,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 5,
@@ -371,7 +371,7 @@
   },
   {
    "entity": "miedzyrzecz",
-   "display": "Meseritz (Międzyrzecz)",
+   "display": "Międzyrzecz (Meseritz)",
    "kind": "place",
    "surface": "Meseritz",
    "page": 6,
@@ -382,7 +382,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 6,

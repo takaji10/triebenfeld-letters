@@ -235,7 +235,7 @@
  "place_mentions": [
   {
    "entity": "zagorowo",
-   "display": "Zagórów",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
    "surface": "Zagorower",
    "page": 1,
@@ -290,7 +290,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -301,7 +301,7 @@
   },
   {
    "entity": "ruschinowitz",
-   "display": "Ruschinowitz (Rusinowice)",
+   "display": "Rusinowice (Ruschinowitz)",
    "kind": "place",
    "surface": "Ruzynowice",
    "page": 3,
@@ -312,7 +312,7 @@
   },
   {
    "entity": "ruschinowitz",
-   "display": "Ruschinowitz (Rusinowice)",
+   "display": "Rusinowice (Ruschinowitz)",
    "kind": "place",
    "surface": "Ruzynowice",
    "page": 3,
@@ -323,7 +323,7 @@
   },
   {
    "entity": "ruschinowitz",
-   "display": "Ruschinowitz (Rusinowice)",
+   "display": "Rusinowice (Ruschinowitz)",
    "kind": "place",
    "surface": "Ruzynowice",
    "page": 3,
@@ -345,7 +345,7 @@
   },
   {
    "entity": "neisse",
-   "display": "Neisse (Nysa)",
+   "display": "Nysa (Neisse)",
    "kind": "place",
    "surface": "Neisse",
    "page": 4,

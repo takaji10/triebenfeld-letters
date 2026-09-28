@@ -480,7 +480,7 @@
   },
   {
    "entity": "ujest",
-   "display": "Ujest (Ujazd)",
+   "display": "Ujazd (Ujest)",
    "kind": "place",
    "surface": "Ujest",
    "page": 1,
@@ -491,7 +491,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
@@ -513,7 +513,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 2,
@@ -524,7 +524,7 @@
   },
   {
    "entity": "ujest",
-   "display": "Ujest (Ujazd)",
+   "display": "Ujazd (Ujest)",
    "kind": "place",
    "surface": "Ujest",
    "page": 2,
@@ -546,7 +546,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 2,
@@ -579,7 +579,7 @@
   },
   {
    "entity": "schlawenschitz",
-   "display": "Schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
    "kind": "place",
    "surface": "Schlawenschitz",
    "page": 3,
@@ -590,7 +590,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -601,7 +601,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 3,
@@ -623,7 +623,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 6,
@@ -678,7 +678,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 7,
@@ -689,7 +689,7 @@
   },
   {
    "entity": "brieg",
-   "display": "Brieg",
+   "display": "Brzeg (Brieg)",
    "kind": "place",
    "surface": "Brieg",
    "page": 7,
@@ -700,7 +700,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 7,
@@ -711,7 +711,7 @@
   },
   {
    "entity": "breslau",
-   "display": "Breslau",
+   "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
    "page": 7,
