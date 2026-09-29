@@ -369,5 +369,105 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld erklärt, ohne Vergleich mit den Prinzessinnen lasse sich in Wien nichts mehr erreichen, da man dem Fürsten Kanzler einen Vergleich über 162/m Rthl vorgespiegelt habe. Er drängt, Eberhard mit einem Pass herzuschicken. Er beklagt, dass Fürst August die Präsidentenstelle angenommen hat. Ein Schreiben fordert, ihm die 100/m Rthl bar auszuzahlen. Er bittet, Barbes Bedienten abzufertigen, eine Fuhre nach Prag zu schicken und Tambour und Wawrzyn nach Blizanow zurückzusenden. Er berichtet von Napoleons Vormarsch auf Paris."
+ "summary_de": "v. Triebenfeld erklärt, ohne Vergleich mit den Prinzessinnen lasse sich in Wien nichts mehr erreichen, da man dem Fürsten Kanzler einen Vergleich über 162/m Rthl vorgespiegelt habe. Er drängt, Eberhard mit einem Pass herzuschicken. Er beklagt, dass Fürst August die Präsidentenstelle angenommen hat. Ein Schreiben fordert, ihm die 100/m Rthl bar auszuzahlen. Er bittet, Barbes Bedienten abzufertigen, eine Fuhre nach Prag zu schicken und Tambour und Wawrzyn nach Blizanow zurückzusenden. Er berichtet von Napoleons Vormarsch auf Paris.",
+ "reading": {
+  "letter": "282",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to the Prince. He has received two letters of the 18th with an enclosure from Eberhard. Without a settlement with the princesses (the \"Curische\" princesses of doc 280) nothing more can be done. The Fürst Kanzler was misled about a settlement at 162/m rt. Eberhard must come to Vienna; he needs a pass. There are complaints about Cosmar. Fürst August has accepted the presidency (Württemberg matter), and a letter has gone off saying the 100/m rt are to be paid to him in cash. Practical requests: send off Barbe's servant, a cart to Prague for the glass, and send Tambour and Wawrzyn back to Blizanow. News of Napoleon marching on Paris. Glenck has been found. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Ohne Vergleich mit den Prinzessinnen nichts mehr zu erreichen; Fürst Kanzler mit Vergleich über 162/m Rthl belogen",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Drängt, Eberhard mit Pass herzuschicken",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     63
+    ]
+   },
+   {
+    "statement": "Beklagt Annahme der Präsidentenstelle durch Fürst August",
+    "lines": [
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Schreiben, dass ihm die 100/m Rthl bar verabfolgt werden sollen",
+    "lines": [
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "statement": "Bitten: Bedienten des Barbe spedieren, Fuhre nach Prag, Tambour und Wawrzyn nach Blizanow",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "Napoleon drängt nach Paris",
+    "lines": [
+     56,
+     57,
+     58,
+     59,
+     60,
+     61
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "kurz",
+    "note": "probably 'Curischen' (cf. doc 280)"
+   },
+   {
+    "line": 8,
+    "word": "Weiler",
+    "note": "unclear; perhaps 'Erbinnen' or a name"
+   },
+   {
+    "line": 10,
+    "word": "deraugt",
+    "note": "garbled"
+   },
+   {
+    "line": 22,
+    "word": "Güste",
+    "note": "garbled"
+   },
+   {
+    "line": 28,
+    "word": "Paille",
+    "note": "possibly Bally"
+   },
+   {
+    "line": 62,
+    "word": "Meinand",
+    "note": "probably 'Niemand'"
+   },
+   {
+    "line": 68,
+    "word": "schasten[?]",
+    "note": "garbled passage about Glenck's offer"
+   }
+  ],
+  "read_against": "40189e900e8ebcfb"
+ }
 }

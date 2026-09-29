@@ -100,5 +100,80 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Gräfin Schlabrendorff will mit den 50000 Rthl bis zum 1. Januar 1805 warten. Einen längeren Termin konnte Homuth nicht erreichen, sie beklagt ihren Verlust. Muss der Fürst bis dahin keine Zinsen zahlen, rät Triebenfeld, den Termin anzunehmen, da 2500 Rthl gewonnen seien. Homuth bittet um den Vergleich, um die Urkunde aufzusetzen, und will versuchen, die alten Wechsel zurückzubekommen. Der Conducteur Cabanis ist abgereist und will draußen eine Bauernfuhre mieten, die er für 4 oder 5 Rthl zu bekommen glaubt."
+ "summary_de": "Gräfin Schlabrendorff will mit den 50000 Rthl bis zum 1. Januar 1805 warten. Einen längeren Termin konnte Homuth nicht erreichen, sie beklagt ihren Verlust. Muss der Fürst bis dahin keine Zinsen zahlen, rät Triebenfeld, den Termin anzunehmen, da 2500 Rthl gewonnen seien. Homuth bittet um den Vergleich, um die Urkunde aufzusetzen, und will versuchen, die alten Wechsel zurückzubekommen. Der Conducteur Cabanis ist abgereist und will draußen eine Bauernfuhre mieten, die er für 4 oder 5 Rthl zu bekommen glaubt.",
+ "reading": {
+  "letter": "118c",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince. Gräfin Schlabrendorff will wait for the 50000 Rthl until 1 January 1805. Homuth could not get her to agree to a longer term. If no interest is due before then, Triebenfeld advises accepting, since 2500 Rthl are gained. Homuth asks for the Vergleich so he can draft the deed for the countess, and he will try to get the old Wechsel back. The postscript says Conducteur Cabanis has left and will hire a peasant cart outside the city for 4 or 5 rt. Coachmen in Breslau wanted 20 rt. Nothing here on Trąbczyn. A parallel copy (118b) supports two corrections.",
+  "claims": [
+   {
+    "statement": "Gräfin Schlabrendorff will mit den 50000 Rthl bis zum 1. Januar 1805 warten, einen längeren Termin konnte Homuth nicht erreichen.",
+    "lines": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Sie beklagt ihren Verlust.",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Muss der Fürst bis dahin keine Zinsen zahlen, rät Triebenfeld, den Termin anzunehmen, da 2500 Rthl gewonnen seien.",
+    "lines": [
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Homuth bittet um den Vergleich, um die Urkunde aufzusetzen, und will die alten Wechsel zurückbekommen.",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ],
+    "check": "overstated",
+    "why": "Lines 15-16: Homuth will only try to see whether he can get the old bills back ('wird probiren, ob er ... heraus bekommen kan')."
+   },
+   {
+    "statement": "Cabanis ist abgereist und will draußen eine Bauernfuhre für 4 oder 5 Rthl mieten.",
+    "lines": [
+     17,
+     18,
+     19,
+     20
+    ],
+    "check": "overstated",
+    "why": "Lines 18-20: Cabanis only believes he can get the cart for 4 or 5 rt ('die er glaubt vor 4 oder 5 rt. zu erhalten')."
+   },
+   {
+    "statement": "Die Mietkutscher in Breslau verlangten 20 Rthl.",
+    "lines": [
+     20,
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 22,
+    "word": "Entter",
+    "note": "Also 'Entter' in 118b. Possibly a misreading of 'Futter' (fodder), but this cannot be proven."
+   },
+   {
+    "line": 1,
+    "word": "Hochfürstliche",
+    "note": "This heading line is missing from the copy 118b. It may have been added in the edition or come from a different part of the sheet."
+   }
+  ],
+  "read_against": "f3f579ffe2534416"
+ }
 }

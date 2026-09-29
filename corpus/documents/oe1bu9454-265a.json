@@ -207,5 +207,87 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber dankt dem Geheimen Staats Rath dafür, dass er seine Angelegenheiten gelenkt hat. Alles hängt am Vorschuss von 112/m Rthl: Dann wäre der König ex nexu, erhielte das Schuldinstrument über 300/m Rthl zurück, und die Gläubiger würden befriedigt. Tilgen ließe sich der Vorschuss aus Geldern, die Cosmar zurückhält: 60000 Rthl für Sohn August, 100/m Rthl für den ältesten Sohn und über 48000 Rthl für den Schreiber."
+ "summary_de": "Der Schreiber dankt dem Geheimen Staats Rath dafür, dass er seine Angelegenheiten gelenkt hat. Alles hängt am Vorschuss von 112/m Rthl: Dann wäre der König ex nexu, erhielte das Schuldinstrument über 300/m Rthl zurück, und die Gläubiger würden befriedigt. Tilgen ließe sich der Vorschuss aus Geldern, die Cosmar zurückhält: 60000 Rthl für Sohn August, 100/m Rthl für den ältesten Sohn und über 48000 Rthl für den Schreiber.",
+ "reading": {
+  "letter": "265a",
+  "legibility": "partly garbled",
+  "notes": "The letter is dated Schlawenschitz, 8 January 1815. Sender and recipient are not identified. It is addressed to a \"Geheimer Staats Rath\" and speaks of Majorats Güter, the writer's sons and Cosmar, but no names can be added. The writer thanks the addressee for steering his affairs, which Triebenfeld reports, with the hope of rescue from Cosmar. He refers to a report of the Oberlandesgericht at Brieg and asks for a state advance of 112/m Rthl to pay off heirs. He explains how the advance could be repaid from funds Cosmar must account for. Several words are garbled (Burischen, Garischer, 11213., the passage on 461000). Nothing concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Dank an den Geheimen Staats Rath für die Lenkung der Angelegenheiten, Hoffnung auf Rettung vor Cosmar",
+    "lines": [
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Bericht des Brieger Ober Landes Gerichts soll bestätigen, was über Triebenfeld und Hoffrath Hahn vorgetragen wurde",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Alles hängt am Vorschuss von 112/m Rthl; dann König ex nexu, Rückerhalt des Schuldinstruments über 300/m Rthl, Gläubiger befriedigt",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     19
+    ]
+   },
+   {
+    "statement": "Tilgung aus von Cosmar zurückgehaltenen Geldern: 60000 Rthl für Sohn August, 100/m Rthl für den ältesten Sohn, über 48000 Rthl an den Schreiber",
+    "lines": [
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "11213.",
+    "note": "probably 112/m (cf. lines 19, 32); a figure, so not changed"
+   },
+   {
+    "line": 13,
+    "word": "Burischen",
+    "note": "doc 264 has 'Curische Schuld'; the reading is uncertain"
+   },
+   {
+    "line": 32,
+    "word": "Garischer",
+    "note": "probably the same name as 'Burischen'/'Curische'"
+   },
+   {
+    "line": 9,
+    "word": "verstellen",
+    "note": "probably 'vorstellen'"
+   },
+   {
+    "line": 17,
+    "word": "iez",
+    "note": "garbled; perhaps 'außer'"
+   },
+   {
+    "line": 6,
+    "word": "Handen des Bosen",
+    "note": "probably 'Händen des bösen'"
+   }
+  ],
+  "read_against": "105d0c8ac2a6a63a"
+ }
 }

@@ -429,5 +429,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Minister Voss hat jede Revision der Taxen untersagt, Triebenfeld wartet auf Amelangs Antwort zur landrätlichen Revision. Für die Dismembration soll ein Rat Zagórów und Trąbczyn besichtigen. Mit Meierowitz hat er abgeschlossen. Radzinski bietet für Szetlewek (1700 Morgen) zusammen 48000 Rthl, strittig ist nur die Weide. Triebenfeld hofft bis Juli auf 80000 Rthl. Amelang lärmt, weil Oppenheimer für die an ihn zedierte Glencksche Hypothek auf Oleśnica die Priorität verweigert."
+ "summary_de": "Minister Voss hat jede Revision der Taxen untersagt, Triebenfeld wartet auf Amelangs Antwort zur landrätlichen Revision. Für die Dismembration soll ein Rat Zagórów und Trąbczyn besichtigen. Mit Meierowitz hat er abgeschlossen. Radzinski bietet für Szetlewek (1700 Morgen) zusammen 48000 Rthl, strittig ist nur die Weide. Triebenfeld hofft bis Juli auf 80000 Rthl. Amelang lärmt, weil Oppenheimer für die an ihn zedierte Glencksche Hypothek auf Oleśnica die Priorität verweigert.",
+ "reading": {
+  "letter": "169",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Kalisz. Minister Voss has forbidden any revision of the Taxen. Triebenfeld is waiting for Amelang's answer on whether the Landrath's revision will be accepted. The dismembration application is in, and the President is sending a Rath to Zagórów and Trąbczyn. He has closed a deal with Meierowitz and wants Honrichs out. Radzinski offers 48000 Rthl in all for Szetlewek; they still disagree about pasture. There are plans for Oleśnica and the Propination, and he hopes for 80000 Rthl by July. Amelang is angry because Goldstücker ceded the Glenck mortgage to Oppenheimer, who refuses to yield priority. The Przespolewski matter will end well. Complaints about Glenck, Sprengel and Chwalowski follow.",
+  "claims": [
+   {
+    "statement": "Voss hat Revision der Taxen untersagt",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "wartet auf Amelangs Antwort zur landrätlichen Revision",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Rat soll für Dismembration Zagórów und Trąbczyn besichtigen",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Abschluss mit Meierowitz",
+    "lines": [
+     16
+    ],
+    "check": "overstated",
+    "why": "Zeile 16 bestätigt den Abschluss mit 'dH. Meierowitz'. Einen Vornamen nennt der Brief nicht. Die Zusammenfassung fügt 'Franz' hinzu."
+   },
+   {
+    "statement": "Radzinski bietet für Szetlewek, 1700 Morgen, zusammen 48000 Rthl; Streit um Weide",
+    "lines": [
+     23,
+     24,
+     26,
+     27,
+     29,
+     30,
+     31
+    ],
+    "check": "overstated",
+    "why": "Angebot, 48000 rt, 1700 Morgen und der Streit um die Weide stehen im Brief. Der Brief sagt aber nur 'Radzinski'. 'Ignatz von' ist hinzugefügt."
+   },
+   {
+    "statement": "hofft bis Juli auf 80000 Rthl",
+    "lines": [
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Amelang lärmt wegen Oppenheimers Verweigerung der Priorität der Glenckschen Hypothek auf Oleśnica",
+    "lines": [
+     68,
+     69,
+     70,
+     74,
+     75,
+     76,
+     77,
+     78
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "um",
+    "note": "probably 'und' (Zagorowo und Trąbczyn)"
+   },
+   {
+    "line": 11,
+    "word": "an ist",
+    "note": "garbled; perhaps 'Antrag' or 'Plan'"
+   },
+   {
+    "line": 20,
+    "word": "Weigelt",
+    "note": "possibly Weigel, but it could be a different person"
+   },
+   {
+    "line": 57,
+    "word": "zogen",
+    "note": "probably 'zögern'"
+   },
+   {
+    "line": 66,
+    "word": "wären.",
+    "note": "probably 'warnt'"
+   },
+   {
+    "line": 68,
+    "word": "Spiele",
+    "note": "probably 'Spießgesellen' or similar"
+   },
+   {
+    "line": 53,
+    "word": "Länchen",
+    "note": "garbled; perhaps 'Lehnchen' or 'Anlehn'"
+   },
+   {
+    "line": 33,
+    "word": "facienden",
+    "note": "garbled"
+   },
+   {
+    "line": 87,
+    "word": "vermaßen",
+    "note": "perhaps 'vermessen'"
+   }
+  ],
+  "read_against": "dc9a91d91079e7e1"
+ }
 }

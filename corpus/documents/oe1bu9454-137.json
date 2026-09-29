@@ -335,5 +335,106 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt über die hinhaltenden Leixner und Meyer Bernhard. Sie versprechen nun, 76/m Rthl und etwa 20/m Rthl in Banco Obligation an Bernhardi zu schicken, halten aber 30/m Rthl zurück, weil der Fürst Betsche zurückgekauft habe. Für Trąbczyn nahm er einige Tausend Rthl auf Wechsel. Durch den Groß Kanzler und Köckritz erreichte er, dass die Deposition der Broniewskischen Gelder angeordnet wird. Köckritz stellt Güter in Erbpacht in Aussicht. Fürstin Sacken kündigte durch Cosmar das Capital von 30/m Rthl auf Koschentin."
+ "summary_de": "Triebenfeld klagt über die hinhaltenden Leixner und Meyer Bernhard. Sie versprechen nun, 76/m Rthl und etwa 20/m Rthl in Banco Obligation an Bernhardi zu schicken, halten aber 30/m Rthl zurück, weil der Fürst Betsche zurückgekauft habe. Für Trąbczyn nahm er einige Tausend Rthl auf Wechsel. Durch den Groß Kanzler und Köckritz erreichte er, dass die Deposition der Broniewskischen Gelder angeordnet wird. Köckritz stellt Güter in Erbpacht in Aussicht. Fürstin Sacken kündigte durch Cosmar das Capital von 30/m Rthl auf Koschentin.",
+ "reading": {
+  "letter": "137",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Frankfurt/Oder. He complains that the buyers Leixner, Meyer Bernhard and their partners keep putting off payment. They now promise 76/m rt plus about 20/m rt in Banco Obligation to Bernhardi, but they hold back 30/m rt because the Prince bought Betsche back. He took a few thousand rt on bills of exchange to be ready for Trąbczyn. Through the Groß Kanzler and Köckritz he got the deposition of the Broniewski money ordered. The King answered kindly on the Dedomagement, and Köckritz says estates in Erbpacht will follow. Fürstin Sacken has called in the 30/m rt capital on Koschentin through Cosmar.",
+  "claims": [
+   {
+    "statement": "Klage über Leixner, Meyer Bernhard und Consorten, die die Zahlung hinhalten",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ],
+    "check": "overstated",
+    "why": "Die Klage und das Hinhalten stehen in Z. 4-7. Die Zusammenfassung nennt die beiden aber 'Käufer', und das sagt der Brief nicht."
+   },
+   {
+    "statement": "Versprechen, 76/m Rthl und etwa 20/m Rthl in Banco Obligation an Bernhardi zu schicken",
+    "lines": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "30/m Rthl zurückgehalten, weil der Fürst Betsche zurückgekauft habe",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "einige Tausend Rthl auf Wechsel genommen für Trąbczyn",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Deposition der Broniewskischen Gelder durch Groß Kanzler und Köckritz durchgesetzt",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Köckritz stellt Güter in Erbpacht in Aussicht",
+    "lines": [
+     30,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Fürstin Sacken kündigt durch Cosmar das Capital von 30/m Rthl auf Koschentin",
+    "lines": [
+     37,
+     38,
+     39,
+     40
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 37,
+    "word": "Fürsten",
+    "note": "probably Fürstin"
+   },
+   {
+    "line": 39,
+    "word": "durch",
+    "note": "probably Durchl."
+   },
+   {
+    "line": 20,
+    "word": "durch",
+    "note": "unclear; possibly Durchl."
+   },
+   {
+    "line": 17,
+    "word": "noch",
+    "note": "possibly nicht; the sense is unclear"
+   },
+   {
+    "line": 41,
+    "word": "Breenhau[?]",
+    "note": "garbled word"
+   },
+   {
+    "line": 12,
+    "word": "zu rückgekauft",
+    "note": "zurückgekauft, split at the line break"
+   }
+  ],
+  "read_against": "c9c5f5a10872fa66"
+ }
 }

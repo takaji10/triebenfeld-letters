@@ -469,5 +469,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bestätigt den Empfang des Schreibens vom 6ten mit der Anweisung auf 200 # und drei Blanquets und wünscht erneut, dass Eberhard und Hahn nach Wien kommen. Die polnische Güterangelegenheit hat er nochmals mit allen Aktenstücken übergeben und auf Anraten Beguelins an Zerboni geschrieben; dessen Antwort liegt bei. Stägemann hatte noch keinen Vortrag. Cosmar gelte als so gut wie vernichtet, August solle die Vollmacht zurückfordern. Er meldet Napoleons Landung in Antibes."
+ "summary_de": "Triebenfeld bestätigt den Empfang des Schreibens vom 6ten mit der Anweisung auf 200 # und drei Blanquets und wünscht erneut, dass Eberhard und Hahn nach Wien kommen. Die polnische Güterangelegenheit hat er nochmals mit allen Aktenstücken übergeben und auf Anraten Beguelins an Zerboni geschrieben; dessen Antwort liegt bei. Stägemann hatte noch keinen Vortrag. Cosmar gelte als so gut wie vernichtet, August solle die Vollmacht zurückfordern. Er meldet Napoleons Landung in Antibes.",
+ "reading": {
+  "letter": "277",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, in Wien, writes to the Prince. He has received the Prince's letter of the 6th by Estaffette, with a money order for 200 # and 3 blank signed sheets (Blanquets). He is ill and writing in haste. He wants Eberhard and Hahn to come to Wien. Stägemann has still not presented the matter. He has handed the Polish estates matter over again with all the files, and on Beguelin's advice he wrote to Zerboni (answer enclosed). Cosmar is said to be as good as ruined. August must take back his Vollmacht from the advocate. Bartenstein, Göschel and Winzingerode are pressing August. Pourtalès has not answered yet but is expected. Political news: Napoleon's escape and landing at Antibes, Murat, the King of Saxony. Encloses the King of Württemberg's papers concerning the Hohenlohe houses.",
+  "claims": [
+   {
+    "statement": "Empfang des Schreibens vom 6ten mit Anweisung auf 200 # und drei Blanquets",
+    "lines": [
+     4,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "wünscht, dass Eberhard und Hahn nach Wien kommen",
+    "lines": [
+     12
+    ]
+   },
+   {
+    "statement": "polnische Güterangelegenheit nochmals mit allen Aktenstücken übergeben",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "auf Anraten Beguelins an Zerboni geschrieben, Antwort beiliegend",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Stägemann noch kein Vortrag",
+    "lines": [
+     15
+    ]
+   },
+   {
+    "statement": "Cosmar so gut wie vernichtet",
+    "lines": [
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "August soll die Vollmacht abfordern",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Napoleon in Antibes gelandet",
+    "lines": [
+     40,
+     41
+    ]
+   },
+   {
+    "statement": "Schriftstücke zum Erlass des Königs von Württemberg an die Hohenloher beiliegend",
+    "lines": [
+     49,
+     50
+    ],
+    "check": "overstated",
+    "why": "Zeilen 49 und 50 nennen nur, was der König 'an die Hohenloher erlaßen' hat. Die Zusammenfassung macht daraus ein 'Vorgehen gegen die Hohenloher', und das deutet mehr hinein, als der Brief sagt."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "dencke",
+    "note": "probably 'dancke'"
+   },
+   {
+    "line": 11,
+    "word": "den",
+    "note": "'den Post' probably 'der Post'"
+   },
+   {
+    "line": 16,
+    "word": "H Durch",
+    "note": "unclear which Fürst is meant (H[ardenberg]? Durchlaucht?)"
+   },
+   {
+    "line": 28,
+    "word": "dauf",
+    "note": "garbled, perhaps 'über den' / 'von'"
+   },
+   {
+    "line": 38,
+    "word": "Hofte, Gäste als Gedienter Offizien",
+    "note": "passage garbled"
+   },
+   {
+    "line": 41,
+    "word": "Massen",
+    "note": "probably Masséna"
+   },
+   {
+    "line": 44,
+    "word": "Märte",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "9c21e8b6f80bb3b3"
+ }
 }

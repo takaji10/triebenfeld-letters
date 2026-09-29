@@ -796,5 +796,127 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Abschrift einer Vorstellung des Fürsten von Hohenlohe an den König zum Tausch seiner südpreußischen Güter gegen Krotoszyn und Polajewo. Sie widerlegt die Ablehnung durch Minister von Voss: 30100 Rthl sei der Nettoertrag, das angebliche Vorwerk eine von Triebenfeld erworbene Holländer Hufe, die Wälder seien verwüstet. Neues Angebot: Verzicht auf Polajewo, jährlich 8000 Rthl auf Krotoszyn, Ausgleich des Wertunterschieds in bar an die Seehandlungs Societaet. Erbeten werden eine Untersuchung durch die Posener Kammer und ein Bericht Hoyms."
+ "summary_de": "Abschrift einer Vorstellung des Fürsten von Hohenlohe an den König zum Tausch seiner südpreußischen Güter gegen Krotoszyn und Polajewo. Sie widerlegt die Ablehnung durch Minister von Voss: 30100 Rthl sei der Nettoertrag, das angebliche Vorwerk eine von Triebenfeld erworbene Holländer Hufe, die Wälder seien verwüstet. Neues Angebot: Verzicht auf Polajewo, jährlich 8000 Rthl auf Krotoszyn, Ausgleich des Wertunterschieds in bar an die Seehandlungs Societaet. Erbeten werden eine Untersuchung durch die Posener Kammer und ein Bericht Hoyms.",
+ "reading": {
+  "letter": "101",
+  "legibility": "sound",
+  "notes": "A copy (Copia) of a submission to the King. The heading calls it the Prince of Hohenlohe's further submission on exchanging his South Prussian estates for Krotoszyn and Polajewo. The writer rebuts the Minister von Voss, who turned the exchange down on three grounds: the Reservations Casse, a Vorwerk left out of the valuation, and Triebenfeld's mast rights. The writer then makes a new offer: give up Polajewo, pay 8000 rt a year on Krotoszyn, and pay the difference in value in cash to the Seehandlungs Societaet. He asks that the Posen Kammer investigate and that Hoym report. Nothing here concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Abschrift einer Vorstellung des Fürsten von Hohenlohe an den König zum Tausch der südpreußischen Güter gegen Krotoszyn und Polajewo",
+    "lines": [
+     2,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Voss hat den Tausch abgelehnt",
+    "lines": [
+     7,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "30100 Rthl ist der Nettoertrag",
+    "lines": [
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Das angebliche Vorwerk ist eine von Triebenfeld erworbene Holländer Hufe",
+    "lines": [
+     60,
+     62,
+     63,
+     64
+    ]
+   },
+   {
+    "statement": "Die Wälder sind verwüstet",
+    "lines": [
+     70,
+     72,
+     73
+    ]
+   },
+   {
+    "statement": "Verzicht auf Polajewo, 8000 Rthl jährlich auf Krotoszyn",
+    "lines": [
+     135,
+     137,
+     138,
+     139
+    ]
+   },
+   {
+    "statement": "Wertunterschied wird bar an die Seehandlungs Societaet gezahlt",
+    "lines": [
+     147,
+     148,
+     149,
+     150
+    ]
+   },
+   {
+    "statement": "Bitte um Untersuchung durch die Posener Kammer per Cabinets Ordre und um einen Bericht Hoyms",
+    "lines": [
+     172,
+     173,
+     174,
+     178,
+     179
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "9540",
+    "note": "line 40 gives 9543 and 9543+30100=39643 (line 43); a figure, so not changed"
+   },
+   {
+    "line": 86,
+    "word": "Kan.",
+    "note": "probably 'H.' or 'Min.' (before 'Voss')"
+   },
+   {
+    "line": 99,
+    "word": "vor dem HC. von Voss durch dieser",
+    "note": "probably 'war dem H. von Voss dieser Plan'"
+   },
+   {
+    "line": 92,
+    "word": "beynaß",
+    "note": "probably 'beynah'"
+   },
+   {
+    "line": 126,
+    "word": "hingehom̅t",
+    "note": "probably 'hinzukommt'"
+   },
+   {
+    "line": 135,
+    "word": "Rath",
+    "note": "probably 'Amt'"
+   },
+   {
+    "line": 165,
+    "word": "Buck",
+    "note": "place name uncertain"
+   },
+   {
+    "line": 77,
+    "word": "wohl",
+    "note": "probably 'woher'"
+   }
+  ],
+  "read_against": "2044963d32cdb936"
+ }
 }

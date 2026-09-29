@@ -466,5 +466,122 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt über Sequestration von Kontop und Execution auf den Schweinernschen Gütern wegen 2560 Rthl Zinsen und der Schuld bei von der Lahr. Diesem schickte er Eisen und Bretter für 2570 Rthl, 430 Rthl bleiben offen. Getreide, Wolle und Holz für etwa 7000 Rthl findet keinen Käufer, darum kann er nicht zum Fürsten kommen. Der Fürst soll direkt an den König schreiben. Honrichs darf kein Geld ausführen, Triebenfeld fragt Brzechffa, ob Vieh und Getreide ausgeführt werden dürfen."
+ "summary_de": "Triebenfeld klagt über Sequestration von Kontop und Execution auf den Schweinernschen Gütern wegen 2560 Rthl Zinsen und der Schuld bei von der Lahr. Diesem schickte er Eisen und Bretter für 2570 Rthl, 430 Rthl bleiben offen. Getreide, Wolle und Holz für etwa 7000 Rthl findet keinen Käufer, darum kann er nicht zum Fürsten kommen. Der Fürst soll direkt an den König schreiben. Honrichs darf kein Geld ausführen, Triebenfeld fragt Brzechffa, ob Vieh und Getreide ausgeführt werden dürfen.",
+ "reading": {
+  "letter": "59",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to the Prince about his own ruin. Kontop is under sequestration and there is execution on the Schweinern estates for 2560 rt interest and the van der Lahr debt. He has sent iron and boards to van der Lahr and still owes him money. His produce cannot be sold, which he blames on Königsberg letting the Poles import. He cannot come to the Prince. On the Prince's own affairs he says the Prince should write to the King; his friends are v. Pirch and Hache, and Gneisenau is not to be trusted. He adds political rumours, and says Honrichs may not take money out: it goes to Brzechffa in Kalisz, and Triebenfeld has asked whether cattle and grain could go instead. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Kontop bleibt sequestriert",
+    "lines": [
+     7
+    ]
+   },
+   {
+    "statement": "Execution auf den Schweinernschen Gütern wegen 2560 Rthl Zinsen und der von der Lahrschen Schuld",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "an von der Lahr Eisen und Bretter für zusammen 2570 Rthl geschickt, 430 Rthl bleiben offen",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Getreide, Wolle und Holz für etwa 7000 Rthl finden keinen Käufer",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "kann deshalb nicht zum Fürsten kommen",
+    "lines": [
+     50,
+     51,
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Fürst soll direkt an den König schreiben",
+    "lines": [
+     71,
+     72
+    ]
+   },
+   {
+    "statement": "Honrichs darf kein Geld ausführen; Anfrage bei Brzechffa, ob Vieh und Getreide ausgeführt werden dürfen",
+    "lines": [
+     96,
+     97,
+     98,
+     102,
+     103
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 64,
+    "word": "Lequestrionen",
+    "note": "probably Sequestrationen"
+   },
+   {
+    "line": 103,
+    "word": "Getraut",
+    "note": "probably Getreide (cf. line 28)"
+   },
+   {
+    "line": 105,
+    "word": "Mich",
+    "note": "probably Vieh (cf. line 103)"
+   },
+   {
+    "line": 99,
+    "word": "Französehen",
+    "note": "Französischen"
+   },
+   {
+    "line": 91,
+    "word": "Schloßen",
+    "note": "possibly Schlesien"
+   },
+   {
+    "line": 54,
+    "word": "unterischen",
+    "note": "garbled"
+   },
+   {
+    "line": 39,
+    "word": "Natten",
+    "note": "probably Ratten"
+   },
+   {
+    "line": 83,
+    "word": "braun",
+    "note": "possibly traue"
+   },
+   {
+    "line": 26,
+    "word": "Güstel",
+    "note": "probably Gipfel"
+   },
+   {
+    "line": 108,
+    "word": "Preußig",
+    "note": "garbled, perhaps Preußen"
+   }
+  ],
+  "read_against": "d46c6d3ee9a9baa4"
+ }
 }

@@ -93,5 +93,53 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Brzechffa teilt mit, dass er wegen verschiedener Geschäfte erst am 15. des Monats aus Warszawa abreisen kann. Nach zuverlässigen Nachrichten, die er eingezogen hat, stehe die Sache wegen Trąbczyn gut. Näheres will er nach seiner Rückkehr berichten. Wegen der abgehenden Gelegenheit schreibt er nur kurz."
+ "summary_de": "Brzechffa teilt mit, dass er wegen verschiedener Geschäfte erst am 15. des Monats aus Warszawa abreisen kann. Nach zuverlässigen Nachrichten, die er eingezogen hat, stehe die Sache wegen Trąbczyn gut. Näheres will er nach seiner Rückkehr berichten. Wegen der abgehenden Gelegenheit schreibt er nur kurz.",
+ "reading": {
+  "letter": "72e",
+  "legibility": "sound",
+  "notes": "A short Polish note from Brzechffa to Triebenfeld, whom he calls \"Kochany Bracie\". Because of various business he cannot leave Warsaw before the 15th of the month. He has reliable information that the Trąbczyn matter stands well and will explain in person when he returns. He writes little because the messenger is leaving. The German copy (72d) matches the text. Line 10 \"obiacnie\" probably stands for \"objaśnię\" (explain), but I cannot prove it. \"[k?]ony\" is in brackets, so it is left alone.",
+  "claims": [
+   {
+    "statement": "Brzechffa kann wegen verschiedener Geschäfte erst am 15. des Monats aus Warszawa abreisen.",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Nach zuverlässigen Nachrichten steht die Sache wegen Trąbczyn gut.",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Näheres will er nach seiner Rückkehr berichten.",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er schreibt nur kurz, weil die Gelegenheit abgeht.",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "obiacnie",
+    "note": "Probably 'obiaśnię' (objaśnię, 'I will explain'); the German copy has 'mündlich ein Mehreres sagen'. Not provable letter by letter."
+   }
+  ],
+  "read_against": "665e159d06196983"
+ }
 }

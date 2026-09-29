@@ -183,5 +183,94 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Weigel hat Triebenfeld seine gesamten Sachen mit dem Fürsten übergeben. Nach seiner Genesung soll Triebenfeld mit ihm zum Fürsten reisen. Weigels Offerten hält er für vorteilhaft. Weigel will kaufen, daher ist der Pachtvertrag aufgeschoben. Triebenfeld wartet auf die Papiere und bittet, den beiliegenden Brief an den Prefecten unterschrieben per Expressen zurückzuschicken. Sobottendorff könne beruhigt sein, Honrichs sei ein Bösewicht. Cosmar habe seinem Sohn versichert, kein Gläubiger des Fürsten erhalte je einen Groschen."
+ "summary_de": "Weigel hat Triebenfeld seine gesamten Sachen mit dem Fürsten übergeben. Nach seiner Genesung soll Triebenfeld mit ihm zum Fürsten reisen. Weigels Offerten hält er für vorteilhaft. Weigel will kaufen, daher ist der Pachtvertrag aufgeschoben. Triebenfeld wartet auf die Papiere und bittet, den beiliegenden Brief an den Prefecten unterschrieben per Expressen zurückzuschicken. Sobottendorff könne beruhigt sein, Honrichs sei ein Bösewicht. Cosmar habe seinem Sohn versichert, kein Gläubiger des Fürsten erhalte je einen Groschen.",
+ "reading": {
+  "letter": "236",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Blizanow. Weigel has visited and handed over all his affairs with the Prince. Once Triebenfeld recovers, the two are to travel to the Prince. Triebenfeld thinks Weigel's offers are good. Sobottendorff can be reassured. Triebenfeld is waiting for the papers and encloses a letter for the Prince to sign and send back by express so he can give it to the Prefect. He calls Honrichs a villain. His son reports that Cosmar says no creditor of the Prince will ever get a Groschen. Postscript: Weigel wants to buy, so the lease contract has been put off. Triebenfeld first needs to know the Prince's intentions, especially how he stands with his children. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Weigel hat Triebenfeld seine gesamten Sachen mit dem Fürsten übergeben.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Nach seiner Genesung soll Triebenfeld mit ihm zum Fürsten reisen.",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Weigels Offerten hält er für vorteilhaft.",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Weigel will kaufen, daher ist der Pachtvertrag aufgeschoben.",
+    "lines": [
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Triebenfeld wartet auf die Papiere und bittet, den beiliegenden Brief an den Prefecten unterschrieben per Expressen zurückzuschicken.",
+    "lines": [
+     13,
+     15,
+     16,
+     17,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Sobottendorff könne beruhigt sein, Honrichs sei ein Bösewicht.",
+    "lines": [
+     11,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Cosmar habe seinem Sohn versichert, kein Gläubiger des Fürsten erhalte je einen Groschen.",
+    "lines": [
+     20,
+     21,
+     22,
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "wäre",
+    "note": "probably 'wenn' or 'wann' (when I get there)"
+   },
+   {
+    "line": 38,
+    "word": "Kamen",
+    "note": "probably 'kennen' (I must first get to know)"
+   },
+   {
+    "line": 24,
+    "word": "um",
+    "note": "probably 'nicht' (not a Heller)"
+   },
+   {
+    "line": 40,
+    "word": "finden",
+    "note": "probably 'fügen'; 'den' = dann"
+   }
+  ],
+  "read_against": "cdff1791834cc765"
+ }
 }

@@ -264,5 +264,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "In der Sache der polnischen Güter soll v. Triebenfeld ruhig bleiben, bis über Polen entschieden ist. Fällt der Bezirk der Trąbczyner Güter an Russland, werde der Fürst Kanzler sich beim Kaiser für den Fürsten einsetzen. Eine Eingabe hat er nach zweimaliger Änderung eingereicht. In der Koszęciner Sache ist noch nichts Wesentliches geschehen. Kongressnachrichten: Sachsen fällt ganz an Preußen, über Polen ist nichts entschieden. Zerboni erhielt den Roten Adlerorden. Er legt eine Broschüre Gärtners bei."
+ "summary_de": "In der Sache der polnischen Güter soll v. Triebenfeld ruhig bleiben, bis über Polen entschieden ist. Fällt der Bezirk der Trąbczyner Güter an Russland, werde der Fürst Kanzler sich beim Kaiser für den Fürsten einsetzen. Eine Eingabe hat er nach zweimaliger Änderung eingereicht. In der Koszęciner Sache ist noch nichts Wesentliches geschehen. Kongressnachrichten: Sachsen fällt ganz an Preußen, über Polen ist nichts entschieden. Zerboni erhielt den Roten Adlerorden. Er legt eine Broschüre Gärtners bei.",
+ "reading": {
+  "letter": "246",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from the Congress in Vienna to the Prince. The Prince's letter of the 9th reached him only on the 23rd. Political news: the monarchs have gone to Hungary, Saxony goes to Prussia, Poland is still undecided. Triebenfeld and Gärtner have both been ill. He has submitted a piece, after two revisions, to the Staats Kanzler. Nothing yet on Koszęcin (B[arbe] and A. advise waiting). On the Polish estates he is to keep quiet until Poland's fate is settled; if the Trąbczyn district falls to Russia, the Fürst Kanzler will act. Zerboni has received the Red Eagle Order. The mediatised princes (Neuwied, Erbach, Leiningen) went to the Kaiser as deputies; the King refused them an audience. Gärtner's pamphlets; a brochure is enclosed.",
+  "claims": [
+   {
+    "statement": "Bis zur Entscheidung über Polen soll er in der Sache der polnischen Güter ruhig bleiben; fällt der Bezirk der Trąbczyner Güter an Russland, werde der Fürst Kanzler sich beim Kaiser für den Fürsten einsetzen.",
+    "lines": [
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Eingabe nach zweimaliger Änderung eingereicht",
+    "lines": [
+     23,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Koszęciner Sache: noch nichts geschehen",
+    "lines": [
+     27,
+     28
+    ],
+    "check": "overstated",
+    "why": "Line 27 says 'noch nichts wesentliches geschehen' (nothing significant yet), not that nothing at all has happened."
+   },
+   {
+    "statement": "Sachsen fällt ganz an Preußen, über Polen nichts entschieden",
+    "lines": [
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Zerboni erhielt den Roten Adlerorden",
+    "lines": [
+     33
+    ]
+   },
+   {
+    "statement": "Broschüre Gärtners beigelegt",
+    "lines": [
+     41,
+     42,
+     43,
+     45
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Sachſtens",
+    "note": "probably Sachsens"
+   },
+   {
+    "line": 10,
+    "word": "erhölt",
+    "note": "probably erhält"
+   },
+   {
+    "line": 10,
+    "word": "Meinungen",
+    "note": "probably Meiningen"
+   },
+   {
+    "line": 11,
+    "word": "Laug",
+    "note": "unclear"
+   },
+   {
+    "line": 13,
+    "word": "haft",
+    "note": "probably hofft"
+   },
+   {
+    "line": 17,
+    "word": "Huß",
+    "note": "probably Rußlands (Huß landt)"
+   },
+   {
+    "line": 31,
+    "word": "Westen",
+    "note": "unclear; possibly Rußischen"
+   },
+   {
+    "line": 36,
+    "word": "angeführt",
+    "note": "probably aufgenommen or angehört"
+   },
+   {
+    "line": 36,
+    "word": "aufsstände",
+    "note": "probably Reichsstände/Standesherren"
+   },
+   {
+    "line": 41,
+    "word": "Bombardindt",
+    "note": "probably bombardirt"
+   },
+   {
+    "line": 48,
+    "word": "Spannen und vom",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "7cb2a8ce4d2912e3"
+ }
 }

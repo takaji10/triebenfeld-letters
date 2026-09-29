@@ -198,5 +198,122 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der König lehnt den vom Fürsten beantragten Tausch seiner südpreußischen Güter gegen die Domänenämter Krotoszyn und Polajewo ab. Laut Bericht des Ministers v. Voss könne Krotoszyn allein schon 49043 Rthl Revenue gewähren, wenn die bei der jetzigen Verpachtung nicht veranschlagten Pertinenzien hinzukommen; v. Triebenfeld habe für die Abtretung der Pacht einen Abstand von 26,000 Rthl erhalten. Der Staat verlöre jährlich 17400 Rthl. Die auf 8650 Rthl veranschlagten Güter des Fürsten brächten nach etwa 26,000 Rthl Meliorationen jetzt 40,500 Rthl."
+ "summary_de": "Der König lehnt den vom Fürsten beantragten Tausch seiner südpreußischen Güter gegen die Domänenämter Krotoszyn und Polajewo ab. Laut Bericht des Ministers v. Voss könne Krotoszyn allein schon 49043 Rthl Revenue gewähren, wenn die bei der jetzigen Verpachtung nicht veranschlagten Pertinenzien hinzukommen; v. Triebenfeld habe für die Abtretung der Pacht einen Abstand von 26,000 Rthl erhalten. Der Staat verlöre jährlich 17400 Rthl. Die auf 8650 Rthl veranschlagten Güter des Fürsten brächten nach etwa 26,000 Rthl Meliorationen jetzt 40,500 Rthl.",
+ "reading": {
+  "letter": "85",
+  "legibility": "partly garbled",
+  "notes": "This is a copy of a letter from King Friedrich Wilhelm III to the Prince, sent from Berlin on 4 Dec 1798. The Prince had proposed exchanging his South Prussian estates for the domain offices of Krotoszyn and Polajewo. The King turns this down, relying on a report by Minister v. Voss. That report says Krotoszyn alone yields 49043 Rthl and that Triebenfeld received 26,000 Rthl compensation (Abstand) for giving up the lease in 1795. On that basis the state would lose 17400 Rthl a year. The Prince's estates were valued at 8650 Rthl and, after about 26,000 Rthl of improvements, now yield 40,500 Rthl. On 19 July Voss had already been told to reject such proposals. Several phrases are garbled.",
+  "claims": [
+   {
+    "statement": "Der König lehnt den Tausch der südpreußischen Güter gegen die Domänenämter Krotoszyn und Polajewo ab",
+    "lines": [
+     5,
+     6,
+     7,
+     31,
+     32,
+     33,
+     39,
+     40,
+     41
+    ]
+   },
+   {
+    "statement": "Laut Bericht des Ministers v. Voss bringt Krotoszyn allein schon 49043 Rthl Revenue",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "check": "overstated",
+    "why": "Laut Z. 10-12 gilt der Betrag nur, wenn die bei der jetzigen Verpachtung nicht veranschlagten Pertinenzien hinzukommen. Er ist also bedingt und kein gegenwärtiger Ertrag."
+   },
+   {
+    "statement": "v. Triebenfeld erhielt für die Abtretung der Pacht einen Abstand von 26,000 Rthl",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Der Staat verlöre jährlich 17400 Rthl",
+    "lines": [
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Die auf 8650 Rthl veranschlagten Güter des Fürsten bringen nach etwa 26,000 Rthl Meliorationen jetzt 40,500 Rthl",
+    "lines": [
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Voss wurde am 19. Juli angewiesen, solche Anträge abzuweisen",
+    "lines": [
+     34,
+     35,
+     36
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Südßpreüstl.",
+    "note": "garbled form of Südpreußischen"
+   },
+   {
+    "line": 8,
+    "word": "Minichr.",
+    "note": "probably Minister"
+   },
+   {
+    "line": 15,
+    "word": "nur",
+    "note": "probably 'für' (für die Abtretung)"
+   },
+   {
+    "line": 16,
+    "word": "benen",
+    "note": "garbled, perhaps 'baaren'"
+   },
+   {
+    "line": 25,
+    "word": "selbt",
+    "note": "probably selbst"
+   },
+   {
+    "line": 30,
+    "word": "ver¬",
+    "note": "with 'den' on line 31, probably 'werden'"
+   },
+   {
+    "line": 33,
+    "word": "durch ich nicht",
+    "note": "garbled, perhaps 'durch manches'"
+   },
+   {
+    "line": 37,
+    "word": "wehren",
+    "note": "probably 'wahrer'"
+   },
+   {
+    "line": 50,
+    "word": "gutwilliger Grün",
+    "note": "closing formula garbled, perhaps 'gutwilliger Vetter' or similar"
+   }
+  ],
+  "read_against": "e093d611364f4c64"
+ }
 }

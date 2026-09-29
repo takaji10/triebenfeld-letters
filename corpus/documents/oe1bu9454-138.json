@@ -156,5 +156,102 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Amelang meldet zur Broniewski-Sache, dass die Deposition nun angeordnet ist. Nach Auskunft v. Triebenfelds wolle der Fürst eine Caution mit deponieren, um in den Besitz der Güter zu gelangen. Amelang hat diese Caution von 10000 Rthl angeboten. Daraufhin wurden der Regierung zu Poznań die Deposition und eine Verfügung zu Kolno und Kamionna anbefohlen. Zum ersten Depositionsversuch verweist er auf eine Resolution vom 25 Juny. Er erwartet, dass dem Fürsten die Verfügung angenehm ist."
+ "summary_de": "Amelang meldet zur Broniewski-Sache, dass die Deposition nun angeordnet ist. Nach Auskunft v. Triebenfelds wolle der Fürst eine Caution mit deponieren, um in den Besitz der Güter zu gelangen. Amelang hat diese Caution von 10000 Rthl angeboten. Daraufhin wurden der Regierung zu Poznań die Deposition und eine Verfügung zu Kolno und Kamionna anbefohlen. Zum ersten Depositionsversuch verweist er auf eine Resolution vom 25 Juny. Er erwartet, dass dem Fürsten die Verfügung angenehm ist.",
+ "reading": {
+  "letter": "138",
+  "legibility": "partly garbled",
+  "notes": "Amelang writes from Berlin to the Prince about the Broniewski case. He points to a resolution of 25 June on the first attempt at deposition. Triebenfeld had told him the Prince would also deposit a caution so as to get possession of the estates. Amelang offered it, and it is put at 10000 rthl. Following this, the deposition and something to do with Kolno and Kaemen (Kamionna) were ordered to the Regierung zu Posen. Amelang expects the Prince to welcome this order. The text is rough: fruchtniß, Beygeschlafen, ſaunte, Angeschrey, Räumig and Ehrpfängt are garbled.",
+  "claims": [
+   {
+    "statement": "Zum ersten Depositionsversuch in der Broniewski-Sache verweist Amelang auf eine Resolution vom 25 Juny.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Nach Auskunft v. Triebenfelds wolle der Fürst eine Caution mit deponieren, um in den Besitz der Güter zu gelangen.",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Amelang hat diese Caution von 10000 Rthl angeboten.",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Daraufhin wurden der Regierung zu Poznań die Deposition und eine Verfügung zu Kolno und Kamionna anbefohlen.",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Er erwartet, dass dem Fürsten die Verfügung angenehm ist.",
+    "lines": [
+     19,
+     20
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "fruchtniß",
+    "note": "probably 'fruchtlos'; the outcome of the first attempt is therefore left out of the summary"
+   },
+   {
+    "line": 7,
+    "word": "Beygeschlafen",
+    "note": "probably 'beygeschlossenen' (enclosed)"
+   },
+   {
+    "line": 9,
+    "word": "ſaunte",
+    "note": "probably 'säumte'"
+   },
+   {
+    "line": 9,
+    "word": "Angeschrey",
+    "note": "garbled; perhaps 'anzuwenden' or 'anzustrengen'"
+   },
+   {
+    "line": 10,
+    "word": "recession",
+    "note": "unclear; perhaps 'reussiren'"
+   },
+   {
+    "line": 14,
+    "word": "fels",
+    "note": "probably 'habe'"
+   },
+   {
+    "line": 17,
+    "word": "Räumig",
+    "note": "probably 'Räumung'"
+   },
+   {
+    "line": 22,
+    "word": "Ehrpfängt",
+    "note": "probably 'Ehrfurcht'"
+   },
+   {
+    "line": 4,
+    "word": "taht",
+    "note": "probably 'Sache'"
+   }
+  ],
+  "read_against": "a363c401ae09b778"
+ }
 }

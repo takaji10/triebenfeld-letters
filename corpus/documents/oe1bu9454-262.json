@@ -355,5 +355,98 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, Hardenberg habe dem Prinzen Hohenlohe-Bartenstein zugesagt, sich der Sache des Fürsten tätig anzunehmen. Alles hänge nun an der Erklärung des Fürsten und der Bestätigung seiner Memoirs; dann würden die Cur. Erben befriedigt und Cosmar zur Verantwortung gezogen. Ein Dankschreiben an den Staatskanzler soll erwähnen, dass Cosmar nur 2500 Rthl statt 72000 Rthl gegeben habe. Er bittet dringend um 100 #. Nachschrift: regt an, Hardenberg an die über Meyer nach Koblenz gesandten 100/m Fr. d'or zu erinnern."
+ "summary_de": "Triebenfeld berichtet, Hardenberg habe dem Prinzen Hohenlohe-Bartenstein zugesagt, sich der Sache des Fürsten tätig anzunehmen. Alles hänge nun an der Erklärung des Fürsten und der Bestätigung seiner Memoirs; dann würden die Cur. Erben befriedigt und Cosmar zur Verantwortung gezogen. Ein Dankschreiben an den Staatskanzler soll erwähnen, dass Cosmar nur 2500 Rthl statt 72000 Rthl gegeben habe. Er bittet dringend um 100 #. Nachschrift: regt an, Hardenberg an die über Meyer nach Koblenz gesandten 100/m Fr. d'or zu erinnern.",
+ "reading": {
+  "letter": "262",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Vienna (Congress) to Prince Hohenlohe-Ingelfingen about the Cosmar/Curische heirs affair: Hardenberg favourable; everything depends on the Prince confirming Triebenfeld's and Hahn's memoirs; Barbe wants early copies of commission results and Oberlandesgericht report; drafts content of a thank-you letter to Hardenberg; Hohenlohe mediatisation matter progressing; he is penniless, asks 100 #, Barbe lent 50 #. Postscript: King of Württemberg leaving; Bavarian call for claims on France; suggests reminding Hardenberg of 100/m Fr. d'or sent via Meyer to Koblenz, Meyer's Revers from Artois for 240/m Livres. No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Hardenberg sagte gegenüber dem Prinzen Hohenlohe-Bartenstein zu, sich der Sache des Fürsten tätig anzunehmen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Alles hängt an der Erklärung des Fürsten und der Bestätigung der Memoirs; dann Befriedigung der Curischen Erben und Verantwortung Cosmars",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "check": "overstated",
+    "why": "Die Zeilen 10-15 stützen die Aussage. Der Brief schreibt aber nur 'Cur. Erben'. Die Auflösung zu 'Curischen' ist eine Deutung der Abkürzung."
+   },
+   {
+    "statement": "Dankschreiben an den Staatskanzler soll erwähnen, dass Cosmar nur 2500 Rthl statt 72000 Rthl gegeben habe",
+    "lines": [
+     21,
+     22,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "bittet dringend um 100 #",
+    "lines": [
+     42,
+     46
+    ]
+   },
+   {
+    "statement": "Nachschrift: regt an, Hardenberg an die über Meyer nach Koblenz gesandten 100/m Fr. d'or zu erinnern",
+    "lines": [
+     64,
+     65,
+     66
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 22,
+    "word": "Inſem",
+    "note": "probably 'diesem' (Sagen Sie diesem edlen Mann)"
+   },
+   {
+    "line": 23,
+    "word": "üngsten",
+    "note": "probably 'innigsten'"
+   },
+   {
+    "line": 23,
+    "word": "zolten",
+    "note": "probably 'zollten'"
+   },
+   {
+    "line": 11,
+    "word": "ihm",
+    "note": "probably 'Ihro' (durch Ihro Durchlaucht)"
+   },
+   {
+    "line": 65,
+    "word": "Brandreich",
+    "note": "probably 'Frankreich' (cf. line 60)"
+   },
+   {
+    "line": 69,
+    "word": "Mininst",
+    "note": "probably 'Minist[er]'"
+   },
+   {
+    "line": 25,
+    "word": "daher",
+    "note": "probably 'Jahren'; garbled"
+   }
+  ],
+  "read_against": "1bea20276204b77a"
+ }
 }

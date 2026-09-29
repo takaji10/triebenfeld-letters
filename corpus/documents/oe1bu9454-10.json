@@ -282,5 +282,139 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld wundert sich, dass seine Briefe, meist über Teichelmann geschickt, nicht angekommen sind, und will ihnen einen Laufzettel nachsenden. Stägemann hat noch keinen Vortrag gehalten, der Fürst Kanzler aber gibt beste Versicherungen. Die polnische Angelegenheit hat er der Commission übergeben und erwartet dafür Güter statt Geld. Er berichtet Kriegsnachrichten und Gerüchte, wundert sich über das Zögern von Fürst August, die Vollmacht zu widerrufen, und legt einen Brief an Eberhard bei."
+ "summary_de": "v. Triebenfeld wundert sich, dass seine Briefe, meist über Teichelmann geschickt, nicht angekommen sind, und will ihnen einen Laufzettel nachsenden. Stägemann hat noch keinen Vortrag gehalten, der Fürst Kanzler aber gibt beste Versicherungen. Die polnische Angelegenheit hat er der Commission übergeben und erwartet dafür Güter statt Geld. Er berichtet Kriegsnachrichten und Gerüchte, wundert sich über das Zögern von Fürst August, die Vollmacht zu widerrufen, und legt einen Brief an Eberhard bei.",
+ "reading": {
+  "letter": "10",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Hohenlohe-Ingelfingen. He acknowledges the Prince's letter of the 24th of last month and is astonished that his own letters, sent twice a week and mostly via Teichelmann, have not arrived; he will have a Laufzettel sent after them. Stägemann has still made no report, but the Fürst Kanzler has given good assurances. Triebenfeld has handed the Polish matter to the Commission with a pro memoria and expects estates rather than money. He passes on war news and rumours, says the Württemberg affair should end well, is surprised at Fürst August's delay in revoking the Vollmacht, and encloses a letter for Eberhard.",
+  "claims": [
+   {
+    "statement": "Wundert sich, dass seine Briefe, meist über Teichelmann geschickt, nicht angekommen sind, und will einen Laufzettel nachsenden",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Stägemann hat noch keinen Vortrag gehalten",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Der Fürst Kanzler gibt beste Versicherungen",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Polnische Angelegenheit mit Pro Memoria der Commission übergeben, erwartet Güter statt Geld",
+    "lines": [
+     15,
+     16,
+     17
+    ],
+    "check": "overstated",
+    "why": "Die Angelegenheit ist der Commission übergeben, und laut Zeilen 16-17 werden wohl Güter statt Geld kommen. Das Pro Memoria mit der Berechnung legt er aber diesem Brief an den Fürsten bei (beigehendes). Dass es der Commission übergeben wurde, steht nicht im Brief."
+   },
+   {
+    "statement": "Berichtet Kriegsnachrichten und Gerüchte",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Wundert sich über das Zögern von Fürst August, die Vollmacht zu widerrufen",
+    "lines": [
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Legt einen Brief an Eberhard bei",
+    "lines": [
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "abholet",
+    "note": "garbled, perhaps 'überhaupt' or 'alsobald'"
+   },
+   {
+    "line": 24,
+    "word": "Ruſten",
+    "note": "probably Russen"
+   },
+   {
+    "line": 24,
+    "word": "Bauern",
+    "note": "probably Bayern"
+   },
+   {
+    "line": 26,
+    "word": "Marat",
+    "note": "probably Murat"
+   },
+   {
+    "line": 26,
+    "word": "Boulonga",
+    "note": "probably Bologna"
+   },
+   {
+    "line": 27,
+    "word": "Parteigieſen",
+    "note": "probably Portugiesen"
+   },
+   {
+    "line": 41,
+    "word": "kendiren",
+    "note": "with 'bis' at the end of line 40, probably 'suspendiren'"
+   },
+   {
+    "line": 41,
+    "word": "dH. H. C.",
+    "note": "unclear abbreviation"
+   },
+   {
+    "line": 46,
+    "word": "die Gnädiger Herr",
+    "note": "garbled, perhaps 'Sie Gnädiger Herr'"
+   },
+   {
+    "line": 47,
+    "word": "unstribt",
+    "note": "garbled, perhaps 'umstrickt'"
+   },
+   {
+    "line": 42,
+    "word": "Anheimen",
+    "note": "perhaps 'Ansinnen'"
+   }
+  ],
+  "read_against": "5aeba6b674a82fe5"
+ }
 }

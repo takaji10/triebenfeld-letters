@@ -103,5 +103,69 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn schickt die anliegenden Blanquets nach, die beim Abgang der Estaffette vergessen worden waren, und bittet um Nachsicht. Er klagt über traurige Erfahrungen im Herrendienst: Die alten Ingelfingischen Diener würden über den neueren vergessen, die man ohne Verdienst glücklich mache. Er will sich aus eigener Kraft loswinden und vertraut darauf, dass Triebenfeld von diesem Ausbruch keinen Gebrauch macht."
+ "summary_de": "Hahn schickt die anliegenden Blanquets nach, die beim Abgang der Estaffette vergessen worden waren, und bittet um Nachsicht. Er klagt über traurige Erfahrungen im Herrendienst: Die alten Ingelfingischen Diener würden über den neueren vergessen, die man ohne Verdienst glücklich mache. Er will sich aus eigener Kraft loswinden und vertraut darauf, dass Triebenfeld von diesem Ausbruch keinen Gebrauch macht.",
+ "reading": {
+  "letter": "184",
+  "legibility": "sound",
+  "notes": "Short covering note from Hahn at Ingelfingen to von Triebenfeld. The blanquets enclosed with it had been forgotten when the Estaffette was recently sent, and Hahn apologises for this. Most of the note is a personal complaint: the old Ingelfingen servants are passed over in favour of newer ones who are rewarded however little they deserve. Hahn hopes to free himself by his own efforts and trusts Triebenfeld not to make use of this outburst. There is nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Hahn schickt die anliegenden Blanquets nach, die beim Abgang der Estaffette vergessen worden waren, und bittet um Nachsicht.",
+    "lines": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er klagt über traurige Erfahrungen im Herrendienst: Die alten Ingelfingischen Diener würden über den neueren vergessen, die man ohne Verdienst glücklich mache.",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er will sich aus eigener Kraft loswinden.",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Er vertraut darauf, dass Triebenfeld von diesem Ausbruch keinen Gebrauch macht.",
+    "lines": [
+     22,
+     23,
+     24,
+     25,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 23,
+    "word": "fünd¬",
+    "note": "Probably 'Euer' (Euer Hochwohlgebohren), the form used on line 4; the reading is garbled."
+   },
+   {
+    "line": 17,
+    "word": "hohenlichischen",
+    "note": "Probably 'hohenlohischen'."
+   },
+   {
+    "line": 19,
+    "word": "Kraff",
+    "note": "Probably 'Kraft'."
+   }
+  ],
+  "read_against": "ebce8b0e1e9ae64d"
+ }
 }

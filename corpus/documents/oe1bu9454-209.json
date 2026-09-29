@@ -113,5 +113,40 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bestätigt den Eingang der Anweisung. Er will das Geld erheben und sofort abreisen. Aus Zagórów will er dem Fürsten sogleich alles durch einen reitenden Boten melden, der H. v. Knobelsdorff dorthin bringen soll."
+ "summary_de": "Triebenfeld bestätigt den Eingang der Anweisung. Er will das Geld erheben und sofort abreisen. Aus Zagórów will er dem Fürsten sogleich alles durch einen reitenden Boten melden, der H. v. Knobelsdorff dorthin bringen soll.",
+ "reading": {
+  "letter": "209",
+  "legibility": "sound",
+  "notes": "A short note from Triebenfeld in Breslau to the Prince. The payment order (Anweisung) has arrived. He will draw the money and leave at once. From Zagórów he will report everything by a mounted messenger, and that messenger is to bring H. v. Knobelsdorff there. He closes because the post is leaving. Context: in doc 208 he could not travel for lack of money. In doc 211 Knobelsdorff has inspected the Locale.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bestätigt den Eingang der Anweisung und will das Geld erheben und sofort abreisen.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Aus Zagórów will er sogleich alles durch einen reitenden Boten melden, der H. v. Knobelsdorff dorthin bringen soll.",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "verharren",
+    "note": "Probably 'verharre' (1st person singular); the closing formula varies, so this is not proven."
+   },
+   {
+    "line": 8,
+    "word": "tiefsten",
+    "note": "Possibly 'tiefstem'; kept as the writer's own form, as in doc 208."
+   }
+  ],
+  "read_against": "fa2a799fbd47f54e"
+ }
 }

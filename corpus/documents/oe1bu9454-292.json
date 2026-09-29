@@ -500,5 +500,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Meldet, die Entschädigungssache liege dem Kayser vor; Minister v. Stein habe Hilfe versprochen, Hardenberg werde schriftlich zusagen. Im Streit mit Cosmar verteidige Stägemann diesen; Triebenfeld verlangte vor dem Fürst Kanzler die Hinterlegung der Summen aus der Urkunde von 1799 und dem Transact von 1811 beim Oberlandesgericht Brzeg. Fürst August sollen per Cabinets Ordre 100000 Rthl sofort gezahlt werden. Cosmar soll wegen unterschlagener Familiengelder denunziert sein. Schlägt vor, den Fürst Kanzler in Nysa zu treffen."
+ "summary_de": "Meldet, die Entschädigungssache liege dem Kayser vor; Minister v. Stein habe Hilfe versprochen, Hardenberg werde schriftlich zusagen. Im Streit mit Cosmar verteidige Stägemann diesen; Triebenfeld verlangte vor dem Fürst Kanzler die Hinterlegung der Summen aus der Urkunde von 1799 und dem Transact von 1811 beim Oberlandesgericht Brzeg. Fürst August sollen per Cabinets Ordre 100000 Rthl sofort gezahlt werden. Cosmar soll wegen unterschlagener Familiengelder denunziert sein. Schlägt vor, den Fürst Kanzler in Nysa zu treffen.",
+ "reading": {
+  "letter": "292",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Friedrich Ludwig. The compensation matter is recognised and now lies with the Kayser; Stein promises help and Hardenberg is to confirm in writing. In the Cosmar affair Stägemann defends Cosmar and wants everything referred to the Justice Minister. Triebenfeld argues before the Fürst Kanzler that Cosmar must deposit the sums fixed in the 1799 deed and the 1811 settlement at the Brieg court. The 100000 rt for Fürst August are to be paid at once by Cabinets Ordre, despite Cosmar's excuse about a 300/m rt debt to Hessen. There is a rumour that Cosmar has been denounced over family money from Courland. Triebenfeld proposes the Prince meet Hardenberg at Neisse. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Entschädigungssache liegt dem Kayser vor; Stein hat Hilfe versprochen, Hardenberg wird schriftlich zusagen",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Stägemann verteidigt Cosmar",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Triebenfeld verlangte vor dem Fürst Kanzler Hinterlegung der Summen aus Urkunde 1799 und Transact 1811 beim Brieger Oberlandesgericht",
+    "lines": [
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     42
+    ]
+   },
+   {
+    "statement": "Fürst August sollen per Cabinets Ordre 100000 Rthl sofort gezahlt werden",
+    "lines": [
+     55,
+     56,
+     64,
+     65,
+     66,
+     67,
+     68
+    ]
+   },
+   {
+    "statement": "Cosmar soll wegen unterschlagener Familiengelder denunziert sein",
+    "lines": [
+     49,
+     50,
+     51
+    ]
+   },
+   {
+    "statement": "Vorschlag, Hardenberg in Nysa zu treffen",
+    "lines": [
+     76,
+     77,
+     78
+    ],
+    "check": "overstated",
+    "why": "Lines 76-78 speak of 'der Fürst Kanzler', who goes 'über Neisse?'. At this point the letter does not name him Hardenberg; the identification is an inference."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "Wesben nebst zu stürben",
+    "note": "garbled; perhaps 'Wesen selbst zu stören'"
+   },
+   {
+    "line": 22,
+    "word": "Conferung",
+    "note": "likely Conferenz"
+   },
+   {
+    "line": 28,
+    "word": "bestellmächtigten",
+    "note": "likely Bevollmächtigten"
+   },
+   {
+    "line": 44,
+    "word": "weinte",
+    "note": "likely meinte"
+   },
+   {
+    "line": 47,
+    "word": "noch",
+    "note": "likely nach (nach mehreren Redensarten)"
+   },
+   {
+    "line": 49,
+    "word": "Noch",
+    "note": "likely Nach"
+   },
+   {
+    "line": 7,
+    "word": "Curischen",
+    "note": "doubtful; perhaps Curländischen/Cosmarschen"
+   },
+   {
+    "line": 20,
+    "word": "Schraubt",
+    "note": "likely schnaubt"
+   },
+   {
+    "line": 29,
+    "word": "quaett in überläuft",
+    "note": "garbled"
+   },
+   {
+    "line": 74,
+    "word": "Grob",
+    "note": "likely Grab"
+   },
+   {
+    "line": 81,
+    "word": "erwitt",
+    "note": "likely ereilt"
+   }
+  ],
+  "read_against": "7a39d5ad1d5dc796"
+ }
 }

@@ -213,5 +213,107 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, die Anleihe sei in gutem Gang und liege einem Mann zur Prüfung vor. Gegen Wollenhaupts Gerede von einer Sequestration stellt er, Lichnowski habe den Arrest auf 6 Wochen aufgehoben, der Arrest wegen Magnuski sei laut Grimm ebenfalls aufgehoben. Przespolewski habe keine 30000 Rthl zu fordern, die Dębinska habe nur Arrest gegen Auszahlungen an Magnuski gelegt. Blomberg drohe in einem Brief vom 25. Dezember, ohne Erfüllung seiner Forderungen werde aus der Dismembration nichts. Triebenfeld hat ihn scharf zurechtgewiesen."
+ "summary_de": "Triebenfeld meldet, die Anleihe sei in gutem Gang und liege einem Mann zur Prüfung vor. Gegen Wollenhaupts Gerede von einer Sequestration stellt er, Lichnowski habe den Arrest auf 6 Wochen aufgehoben, der Arrest wegen Magnuski sei laut Grimm ebenfalls aufgehoben. Przespolewski habe keine 30000 Rthl zu fordern, die Dębinska habe nur Arrest gegen Auszahlungen an Magnuski gelegt. Blomberg drohe in einem Brief vom 25. Dezember, ohne Erfüllung seiner Forderungen werde aus der Dismembration nichts. Triebenfeld hat ihn scharf zurechtgewiesen.",
+ "reading": {
+  "letter": "154",
+  "legibility": "sound",
+  "notes": "Triebenfeld to the Prince, Berlin, 15 Jan 1805. The loan is going well and is being examined by a good man. He will carry out the commissions of the 13th. Against Wollenhaupt's talk of sequestration: Lichnowski has lifted the arrest for 6 weeks. Grimm says the arrest concerning Magnuski is also lifted. Przespolewski has no 30000 rt to claim. The Dębinska has only laid an arrest against paying anything out to Magnuski. Blomberg wrote on 25 Dec with outrageous demands and threatened that the Dismembration would fail unless they were met. Triebenfeld has rebuked and threatened him. Trąbczyn is not named in the letter.",
+  "claims": [
+   {
+    "statement": "Anleihe in gutem Gang, liegt einem Mann zur Prüfung vor",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Gegen Wollenhaupts Gerede von Sequestration: Lichnowski hob Arrest auf 6 Wochen auf",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Arrest wegen Magnuski laut Grimm aufgehoben",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Przespolewski hat keine 30000 Rthl zu fordern",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Dębinska legte Arrest gegen Auszahlung an Magnuski",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Blomberg droht im Brief vom 25. Dezember, sonst werde aus der Dismembration nichts",
+    "lines": [
+     20,
+     23,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Triebenfeld hat ihn scharf zurechtgewiesen",
+    "lines": [
+     36,
+     37,
+     38,
+     39
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "Lage",
+    "note": "probably Lüge"
+   },
+   {
+    "line": 36,
+    "word": "Laage",
+    "note": "probably Lauge (die volle Lauge)"
+   },
+   {
+    "line": 38,
+    "word": "man",
+    "note": "probably mein (Vorwißen)"
+   },
+   {
+    "line": 29,
+    "word": "drau",
+    "note": "unclear, perhaps drauf/darauf"
+   },
+   {
+    "line": 34,
+    "word": "7﻿-hohlt",
+    "note": "garbled; possibly 'der T[eufel] hohlt'"
+   },
+   {
+    "line": 43,
+    "word": "leuteten",
+    "note": "closing formula garbled; perhaps 'tiefster'"
+   },
+   {
+    "line": 16,
+    "word": "ausgewürde",
+    "note": "probably ausgewirkte"
+   }
+  ],
+  "read_against": "be860ddd70f350e1"
+ }
 }

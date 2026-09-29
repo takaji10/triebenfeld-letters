@@ -190,5 +190,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass der Befehl nach Berlin an Kircheisen und Finanzminister v. Bulow abgehen soll, eine Kommission zur Untersuchung von Cosmars Handeln einzusetzen. Stägemann soll für den Staats Kanzler ein Gutachten erstellen, doch Triebenfeld misstraut ihm als Freund Zerbonis und Cosmars. Abfindung der Curischen Erben und Vorschuss von 112/m Rthl bleiben offen. Er klagt über fehlendes Geld, Akten und Instruktionen (Transact von 1811 unvollständig), erbittet Beweise und Blanquette und Unterstützung seiner Kinder in Wrocław."
+ "summary_de": "Triebenfeld berichtet, dass der Befehl nach Berlin an Kircheisen und Finanzminister v. Bulow abgehen soll, eine Kommission zur Untersuchung von Cosmars Handeln einzusetzen. Stägemann soll für den Staats Kanzler ein Gutachten erstellen, doch Triebenfeld misstraut ihm als Freund Zerbonis und Cosmars. Abfindung der Curischen Erben und Vorschuss von 112/m Rthl bleiben offen. Er klagt über fehlendes Geld, Akten und Instruktionen (Transact von 1811 unvollständig), erbittet Beweise und Blanquette und Unterstützung seiner Kinder in Wrocław.",
+ "reading": {
+  "letter": "256",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna during the Congress. The monarchs' departure is put off by 4 to 6 weeks, so nothing on the Polish estates can be settled yet. The Staats Kanzler is well disposed and has asked Stägemann for a report. An order is going to Kircheisen and Finance Minister v. Bulow in Berlin to set up a commission investigating Cosmar. The main matter, the settlement with the Curish heirs and the advance of 112/m rt, is still open. He complains that he has no money, instructions or files: the 1811 Transact is incomplete, and he has never seen the other Transacte or the Codizill. He distrusts Stägemann, asks for proofs and blanks, asks the Prince to support his children in Breslau and to detain his bad servant.",
+  "claims": [
+   {
+    "statement": "Befehl nach Berlin an Kircheisen und v. Bulow, Kommission soll Cosmars Handeln untersuchen",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Stägemann beauftragt zu prüfen und Bericht zu erstatten",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Misstrauen gegen Stägemann als Freund Zerbonis und Cosmars",
+    "lines": [
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Abfindung der Curischen Erben und Vorschuss von 112/m rt noch ungeklärt",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Klage über fehlendes Geld, Instruktion, Akten; Transact von 1811 unvollständig",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Bitte um Beweise und Blanquette",
+    "lines": [
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Bitte um Unterstützung seiner Kinder in Breslau",
+    "lines": [
+     36,
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Tournare",
+    "note": "probably 'Tournure'"
+   },
+   {
+    "line": 9,
+    "word": "beyden",
+    "note": "probably 'bey den'"
+   },
+   {
+    "line": 10,
+    "word": "Ewr.",
+    "note": "odd before Staats Kanzlers"
+   },
+   {
+    "line": 13,
+    "word": "so durchlaucht",
+    "note": "garbled, perhaps 'Sr. Durchlaucht'"
+   },
+   {
+    "line": 19,
+    "word": "küßt nicht loß",
+    "note": "probably 'läßt nicht los'"
+   },
+   {
+    "line": 25,
+    "word": "ihn",
+    "note": "probably 'ich'"
+   },
+   {
+    "line": 26,
+    "word": "die dich",
+    "note": "probably 'Sie sich'"
+   },
+   {
+    "line": 31,
+    "word": "allem",
+    "note": "probably 'allein'"
+   },
+   {
+    "line": 32,
+    "word": "weiten",
+    "note": "uncertain, perhaps 'eigenen'"
+   },
+   {
+    "line": 36,
+    "word": "unterstüzgen",
+    "note": "probably 'unterstüzzen'"
+   }
+  ],
+  "read_against": "4a57e4b5cbef91ee"
+ }
 }

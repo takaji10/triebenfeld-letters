@@ -211,5 +211,110 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld schickt die ihm mitgeteilten Schreiben des Gr. v. S. zurück. Er freut sich, dass der Graf sich gerade verhält, bedauert aber, dem Fürsten nicht 40 bis 50/m Rthl gewinnen zu können. Laut Reinhardt ist wegen der Assistenz des Fisci nichts erfolgt. Goldbeck hört, Hoym behalte das Südpreußische Departement; Priebich versicherte Rath Kruger dagegen, Haugwitz werde Minister. Chełmski hat nicht appelliert, die Güter könnten vielleicht zu Johanni verpachtet werden. Das Formular zur Vollmacht folgt nach Melzers Rückkehr."
+ "summary_de": "Triebenfeld schickt die ihm mitgeteilten Schreiben des Gr. v. S. zurück. Er freut sich, dass der Graf sich gerade verhält, bedauert aber, dem Fürsten nicht 40 bis 50/m Rthl gewinnen zu können. Laut Reinhardt ist wegen der Assistenz des Fisci nichts erfolgt. Goldbeck hört, Hoym behalte das Südpreußische Departement; Priebich versicherte Rath Kruger dagegen, Haugwitz werde Minister. Chełmski hat nicht appelliert, die Güter könnten vielleicht zu Johanni verpachtet werden. Das Formular zur Vollmacht folgt nach Melzers Rückkehr.",
+ "reading": {
+  "letter": "75",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Breslau writes to the Prince. He returns the letters of a \"Gr. v. S.\" that the Prince had passed to him. He regrets losing the chance to gain the Prince 40 bis 50/m Rthl. Reinhardt writes from Bonn: nothing yet on the Assistenz des Fisci. Goldbeck reports a Berlin rumour that Hoym keeps the Südpreußisches Departement. Priebich, a confidant of Haugwitz, told Rath Kruger that Haugwitz will become minister. Chełmski has not appealed, so the estates may be leased at Johanni. Melzer was away when the express came back with news from Gravenitz; the form for the power of attorney will follow. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld schickt die mitgeteilten Schreiben des Gr. v. S. zurück",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "freut sich über das gerade Verhalten des Grafen, bedauert, dem Fürsten nicht 40 bis 50/m Rthl gewinnen zu können",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Reinhardt: wegen Assistenz des Fisci nichts erfolgt",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Goldbeck: Hoym behalte das Südpreußische Departement",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Priebich versicherte Rath Kruger, Haugwitz werde südpreußischer Minister",
+    "lines": [
+     33,
+     34,
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Chełmski nicht appelliert, Güter vielleicht zu Johanni verpachtbar",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Formular zur Vollmacht folgt nach Melzers Rückkehr",
+    "lines": [
+     41,
+     42,
+     43,
+     44,
+     45
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Tage",
+    "note": "probably 'Lege' (lege ich ... zu Füßen)"
+   },
+   {
+    "line": 19,
+    "word": "Menschl",
+    "note": "probably 'Menschen'"
+   },
+   {
+    "line": 30,
+    "word": "Anabach in Baerautschen",
+    "note": "probably 'Ansbach und Bayreuthischen'; passage garbled"
+   },
+   {
+    "line": 42,
+    "word": "Gravenitz",
+    "note": "probably Grävenitz/Grevenitz; the edition lists both forms, so which one cannot be decided"
+   },
+   {
+    "line": 43,
+    "word": "um",
+    "note": "possibly 'und'"
+   }
+  ],
+  "read_against": "6a5f26fbcabe7fbd"
+ }
 }

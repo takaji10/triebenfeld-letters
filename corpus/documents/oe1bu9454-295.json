@@ -397,5 +397,141 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld verfehlte in Kalisz den russischen Kaiser. Laut Ober Post Director Espagne ist Fürst Kanzler Hardenberg noch in Paris und kommt erst in drei Wochen nach Berlin; Barbe liege dort am Nervenfieber. Triebenfeld prüft die Sache von Pszczew (Betsche), wo die Untertanen Aufhebung des Contracts beantragten, will Geld vom Pächter in Blizanow holen und nach Berlin reisen. Er legt Zerbonis Antwort an Schenck bei und bezweifelt dessen angeblichen Bericht an Hardenberg. Außerdem Gerüchte über Stein, Radziwiłł und Biron."
+ "summary_de": "v. Triebenfeld verfehlte in Kalisz den russischen Kaiser. Laut Ober Post Director Espagne ist Fürst Kanzler Hardenberg noch in Paris und kommt erst in drei Wochen nach Berlin; Barbe liege dort am Nervenfieber. Triebenfeld prüft die Sache von Pszczew (Betsche), wo die Untertanen Aufhebung des Contracts beantragten, will Geld vom Pächter in Blizanow holen und nach Berlin reisen. Er legt Zerbonis Antwort an Schenck bei und bezweifelt dessen angeblichen Bericht an Hardenberg. Außerdem Gerüchte über Stein, Radziwiłł und Biron.",
+ "reading": {
+  "letter": "295",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Posen to the Prince. His main plan has failed: the Russian Kaiser passed through Kalisz the night before he arrived. In Posen, Ober Post Director Espagne tells him that Staats Kanzler Hardenberg is still in Paris, will travel via Cassel and Frankfurt, and will reach Berlin only in about 3 weeks. Espagne also says Barbe is lying ill with nerve fever in Paris. Triebenfeld is looking into the Betsche (Pszczew) matter, where the subjects have asked for the contract to be cancelled. He then means to go to Blizanow for money from his tenant, and on to Berlin. He encloses Zerboni's answer to Schenck and doubts Zerboni's claimed report to Hardenberg. He adds news about Stein and rumours about Radziwiłł and Biron. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bei der Ankunft in Kalisz war der russische Kaiser schon durchgereist, der Hauptplan gescheitert",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Espagne, Ober Post Director in Posen, berichtet: der Fürst Kanzler ist noch in Paris, reist über Cassel und Frankfurt, kommt erst in 3 Wochen nach Berlin",
+    "lines": [
+     9,
+     10,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Barbe liegt in Paris am Nervenfieber krank",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Triebenfeld untersucht die Betscher Sache; die Untertanen haben um Aufhebung des Contracts angehalten",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Er will in Blizanow Geld von seinem Pächter holen und dann nach Berlin eilen",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Zerbonis Antwort an Schenck liegt bei; Triebenfeld bezweifelt den angeblichen Bericht an den Fürsten Kanzler, weil die Akten an Schenck zurückgegeben wurden",
+    "lines": [
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Stein ist nach Aussage des Ober Post Directors kaltgestellt",
+    "lines": [
+     40,
+     41
+    ]
+   },
+   {
+    "statement": "Gerüchte: Fürst Radziwiłł vom Kaiser nach Warschau bestellt, Biron komme nach Posen",
+    "lines": [
+     47,
+     48,
+     49
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Reiſer",
+    "note": "probably 'Reise'"
+   },
+   {
+    "line": 15,
+    "word": "erſe",
+    "note": "probably 'erst'"
+   },
+   {
+    "line": 13,
+    "word": "in am Nerven fieber Brand",
+    "note": "garbled; perhaps 'krank am Nervenfieber'"
+   },
+   {
+    "line": 22,
+    "word": "Spositen[?]",
+    "note": "unclear word"
+   },
+   {
+    "line": 31,
+    "word": "klag sein vollender",
+    "note": "probably 'klug sein wollender'"
+   },
+   {
+    "line": 35,
+    "word": "dem",
+    "note": "probably 'den'"
+   },
+   {
+    "line": 41,
+    "word": "Scat",
+    "note": "probably 'Schatten'"
+   },
+   {
+    "line": 43,
+    "word": "Ch",
+    "note": "abbreviation unclear"
+   },
+   {
+    "line": 44,
+    "word": "sehe",
+    "note": "probably 'sehr'"
+   },
+   {
+    "line": 49,
+    "word": "kannz",
+    "note": "probably 'Prinz'"
+   },
+   {
+    "line": 52,
+    "word": "tiefsten",
+    "note": "probably 'tiefster'"
+   }
+  ],
+  "read_against": "0d93c88bd947fb67"
+ }
 }

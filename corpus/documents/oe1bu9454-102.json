@@ -406,5 +406,83 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, Minister v. Voss werde in etwa 3 Wochen in Krotoszyn erwartet. Chełmski hat auch in zweiter Instanz verloren. Mit Broniewski will er erst nach dem Krotoszyner Tausch für etliche Tausend Rthl abschließen. Brzyce wollte man in Poznań einziehen; er erreichte 6 Wochen Frist und rät, beim Groß Kanzler 5 Monate Verlängerung zu erbitten. Hoym ließ die Akten zum Konfiskationsdekret gegen die Prusimska heimlich zurücklegen, damit das Mädchen etwas bekomme."
+ "summary_de": "Triebenfeld meldet, Minister v. Voss werde in etwa 3 Wochen in Krotoszyn erwartet. Chełmski hat auch in zweiter Instanz verloren. Mit Broniewski will er erst nach dem Krotoszyner Tausch für etliche Tausend Rthl abschließen. Brzyce wollte man in Poznań einziehen; er erreichte 6 Wochen Frist und rät, beim Groß Kanzler 5 Monate Verlängerung zu erbitten. Hoym ließ die Akten zum Konfiskationsdekret gegen die Prusimska heimlich zurücklegen, damit das Mädchen etwas bekomme.",
+ "reading": {
+  "letter": "102",
+  "legibility": "sound",
+  "notes": "Triebenfeld (Breslau) to the Prince about the Krotoszyn exchange (Voss is expected in Krotoszyn), the Chełmski lawsuit lost by the opponent at second instance, and the Broniewski settlement, which waits on Krotoszyn. Also covered: Glenck's interest from Kamionna and Kolno, and Brzyce, which Posen wanted to seize for the Prusimski daughter (6-week deadline, advice to ask the Groß Kanzler for 5 months more). Hoym secretly had the confiscation files put aside. Further points: the Winiecer Forst dispute, a trip to Berlin after Prince George's affairs, Schlabrendorff, and war news about the Russians.",
+  "claims": [
+   {
+    "statement": "Minister v. Voss wird in etwa 3 Wochen in Krotoszyn erwartet",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Chełmski hat in zweiter Instanz verloren",
+    "lines": [
+     10
+    ]
+   },
+   {
+    "statement": "Abschluss mit Broniewski erst nach dem Krotoszyner Tausch, Vergleich auf etliche Tausend Rthl",
+    "lines": [
+     13,
+     14,
+     15,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Brzyce sollte in Posen für die Prusimskische Tochter eingezogen werden; 6 Wochen Termin erreicht",
+    "lines": [
+     24,
+     25,
+     26,
+     27
+    ],
+    "check": "overstated",
+    "why": "Z. 25-26: 'gleich vor der Prusimskischen Tochter einziehen'. Das 'vor' ist mehrdeutig. Nach dem Zusammenhang (Konfiskation gegen die Prusimska) ist eine Einziehung zugunsten der Tochter eine Deutung, die der Brief nicht trägt. Die Frist von 6 Wochen ist belegt."
+   },
+   {
+    "statement": "Rat, beim Groß Kanzler 5 Monate Terminsverlängerung zu erbitten",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Hoym ließ die Akten zum Konfiskationsdekret heimlich reponieren, damit dem Mädchen etwas zugewandt werde",
+    "lines": [
+     33,
+     34,
+     35,
+     36,
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "den",
+    "note": "Grammatically 'der Minister' is expected; possibly the writer's own form."
+   },
+   {
+    "line": 16,
+    "word": "Patri[?]",
+    "note": "Unclear; perhaps 'Patron' (compare doc. 103, 'Der Patron')."
+   },
+   {
+    "line": 52,
+    "word": "Kur:[?]",
+    "note": "The addressee of this letter cannot be identified."
+   }
+  ],
+  "read_against": "6c1d16bc0afc937d"
+ }
 }

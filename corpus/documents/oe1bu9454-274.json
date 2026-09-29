@@ -321,5 +321,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Zur Trąbczyner Vindication hat Triebenfeld noch keine Resolution des Fürsten Kanzler. Bei einer Kommission unter General Amstetten wurde ihm die Einreichung vorerst widerraten. Die Urkunden ließ er abschreiben und vidimieren, die Prozessakten beeidigt ins Deutsche übersetzen. Die Bewilligung des Vorschusses von 112000 Rthl erhofft er bald. Vom Kongress berichtet er über den württembergischen Landtag zum 15. März und den Protest der Stände. Barbe und Göschel bitten, Fürst August zu warnen, nichts einzuräumen."
+ "summary_de": "Zur Trąbczyner Vindication hat Triebenfeld noch keine Resolution des Fürsten Kanzler. Bei einer Kommission unter General Amstetten wurde ihm die Einreichung vorerst widerraten. Die Urkunden ließ er abschreiben und vidimieren, die Prozessakten beeidigt ins Deutsche übersetzen. Die Bewilligung des Vorschusses von 112000 Rthl erhofft er bald. Vom Kongress berichtet er über den württembergischen Landtag zum 15. März und den Protest der Stände. Barbe und Göschel bitten, Fürst August zu warnen, nichts einzuräumen.",
+ "reading": {
+  "letter": "274",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna, where he is ill, to the Prince with news from the Congress. The King of Württemberg has called a Landtag for 15 March, and the princely houses have protested at the Congress. Barbe and Göschel ask that Fürst August be warned. There is also news on Saxony, Hessen-Darmstadt, East Frisia and Swedish Pomerania. The loan of 112000 rt was delayed by fear of war. On the Trąbczyn Vindication there is still no resolution from the Fürst Kanzler. A commission under General Amstetten exists, but he was advised against submitting to it yet. The deeds have been copied and certified and the court files translated. The Congress should last 6 more weeks, and Bülow is ill. Many words are garbled.",
+  "claims": [
+   {
+    "statement": "Zur Trąbczyner Vindication noch keine Resolution des Fürsten Kanzler",
+    "lines": [
+     54,
+     55,
+     56
+    ]
+   },
+   {
+    "statement": "Kommission unter General Amstetten, Einreichung widerraten",
+    "lines": [
+     56,
+     57,
+     58
+    ]
+   },
+   {
+    "statement": "Urkunden abgeschrieben und vidimiert, Prozessakten von geschworenem Dolmetscher übersetzt",
+    "lines": [
+     60,
+     61,
+     62
+    ]
+   },
+   {
+    "statement": "Hofft auf baldige Bewilligung des Vorschusses von 112000 Rthl",
+    "lines": [
+     48,
+     49,
+     50,
+     51,
+     52,
+     53
+    ]
+   },
+   {
+    "statement": "König von Württemberg beruft Stände zum 15. März; Stände protestieren beim Kongress",
+    "lines": [
+     5,
+     6,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Barbe und Göschel wünschen, dass Fürst August gewarnt wird, nichts einzuräumen",
+    "lines": [
+     23,
+     24,
+     25,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Gemalt",
+    "note": "probably Gewalt"
+   },
+   {
+    "line": 12,
+    "word": "Wirpfriedrich",
+    "note": "probably 'Wir Friedrich'"
+   },
+   {
+    "line": 18,
+    "word": "Jedest",
+    "note": "probably Indes or Jedoch"
+   },
+   {
+    "line": 24,
+    "word": "muß das eiligsten",
+    "note": "garbled, perhaps 'auf das eiligste'"
+   },
+   {
+    "line": 29,
+    "word": "dar sich zudrung",
+    "note": "garbled"
+   },
+   {
+    "line": 50,
+    "word": "Gemehungung",
+    "note": "probably Genehmigung"
+   },
+   {
+    "line": 57,
+    "word": "niedergesagt",
+    "note": "probably niedergesetzt"
+   },
+   {
+    "line": 59,
+    "word": "unregedeutet",
+    "note": "garbled, perhaps 'angedeutet'"
+   },
+   {
+    "line": 62,
+    "word": "ausgekauft",
+    "note": "probably ausgehändigt, or similar"
+   },
+   {
+    "line": 8,
+    "word": "Studern",
+    "note": "probably Steuern"
+   }
+  ],
+  "read_against": "ccc5214946c4a75a"
+ }
 }

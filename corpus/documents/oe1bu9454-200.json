@@ -294,5 +294,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bedauert, dass die vom Fürsten gesandten Vögel erst nach der Abreise des Generals v. Köckritz eintreffen. Seegebarth soll man auf erhoffte Gelder aus den polnischen Besitzungen vertrösten. Triebenfeld will nach Zagórów reisen. Er bezweifelt, dass Weigel Stössel als Schuldner annimmt, und schlägt Weigel vor, die vom Fürsten in Schlesien anzunehmenden Güter zu erwerben und Stössel zu befriedigen. Er hat angefragt, ob der Fürst sich dem König in Koźle oder anderswo zeigen dürfe."
+ "summary_de": "Triebenfeld bedauert, dass die vom Fürsten gesandten Vögel erst nach der Abreise des Generals v. Köckritz eintreffen. Seegebarth soll man auf erhoffte Gelder aus den polnischen Besitzungen vertrösten. Triebenfeld will nach Zagórów reisen. Er bezweifelt, dass Weigel Stössel als Schuldner annimmt, und schlägt Weigel vor, die vom Fürsten in Schlesien anzunehmenden Güter zu erwerben und Stössel zu befriedigen. Er hat angefragt, ob der Fürst sich dem König in Koźle oder anderswo zeigen dürfe.",
+ "reading": {
+  "letter": "200",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Breslau to the Prince. The Prince's letter came with \"Hauses häuer\" (garbled; they are the \"Vögel\"). The birds arrive too late for General v. Köckritz, who will have left. Seegebarth is to be told the rest will be settled once money comes from the Polish estates. Brufurt has not come, so T. must find another way to reach Poland and Zagórów, and wants to be back by the 7th. Weigel will probably not accept Stössel as his debtor. T. proposes that Weigel acquire the Silesian estates the Prince takes and satisfy Stössel, arguing that the Prince's estates are entailed (fideicommiss). The King is coming, and T. has asked whether the Prince might show himself to the King in Koźle. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Vögel treffen erst nach Abreise von Köckritz ein",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Seegebarth auf Gelder aus polnischen Besitzungen vertrösten",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "will nach Zagórów reisen",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "bezweifelt, dass Weigel Stössel als Schuldner annimmt",
+    "lines": [
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Vorschlag an Weigel: Güter in Schlesien erwerben, Stössel befriedigen",
+    "lines": [
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Anfrage, ob der Fürst sich dem König in Koźle zeigen dürfe",
+    "lines": [
+     42,
+     43,
+     44
+    ],
+    "check": "overstated",
+    "why": "Z. 42-43: Er hat angefragt, ob man es übel deuten würde, wenn der Fürst sich dem König 'in Cosel oder wo es sey' zeigte. Der Ort ist also nicht auf Koźle festgelegt."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Hauses häuer",
+    "note": "garbled; probably a kind of game bird (the 'Vögel' of line 7)"
+   },
+   {
+    "line": 11,
+    "word": "umfangehr",
+    "note": "garbled; perhaps 'sobald' or 'insofern'"
+   },
+   {
+    "line": 16,
+    "word": "Brufurt",
+    "note": "unclear name or word"
+   },
+   {
+    "line": 20,
+    "word": "ſondern",
+    "note": "doubtful reading"
+   },
+   {
+    "line": 24,
+    "word": "pauren",
+    "note": "garbled"
+   },
+   {
+    "line": 27,
+    "word": "gewesen",
+    "note": "probably a misreading (e.g. 'loswerden' or 'verkaufen')"
+   },
+   {
+    "line": 31,
+    "word": "fide. Cörruch",
+    "note": "probably 'fidei Commiss'"
+   },
+   {
+    "line": 35,
+    "word": "vorleihhaft",
+    "note": "probably 'vortheilhaft' (cf. line 28)"
+   },
+   {
+    "line": 40,
+    "word": "Tismarschen",
+    "note": "possibly 'Tesmarschen' (Tesmar)"
+   },
+   {
+    "line": 41,
+    "word": "der Königl.",
+    "note": "probably 'den König'"
+   }
+  ],
+  "read_against": "9cccc0e14e7ee67b"
+ }
 }

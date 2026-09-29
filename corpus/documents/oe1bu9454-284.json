@@ -593,5 +593,118 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass Trąbczyn, Kamionna und Kolno nicht mehr zu erwarten sind: Alexander habe erreicht, dass die Polen die ihnen zurückgegebenen Güter behalten. Er beantragt Entschädigung. Für Kamionna fordert er 93000 Rthl baar (Pfandschilling Broniewski samt Zinsen) und 120000 Rthl in Gütern. Für Trąbczyn, taxiert auf 316000 Rthl, bleiben nach Abzug der Schulden 246000 Rthl. Insgesamt 459000 Rthl. Weigels 30000 Rthl sind auf Zagórów übertragen. Stägemann tut nichts. Bittet um Blanquets und um Eberhards Kommen wegen des Vergleichs."
+ "summary_de": "Triebenfeld meldet, dass Trąbczyn, Kamionna und Kolno nicht mehr zu erwarten sind: Alexander habe erreicht, dass die Polen die ihnen zurückgegebenen Güter behalten. Er beantragt Entschädigung. Für Kamionna fordert er 93000 Rthl baar (Pfandschilling Broniewski samt Zinsen) und 120000 Rthl in Gütern. Für Trąbczyn, taxiert auf 316000 Rthl, bleiben nach Abzug der Schulden 246000 Rthl. Insgesamt 459000 Rthl. Weigels 30000 Rthl sind auf Zagórów übertragen. Stägemann tut nichts. Bittet um Blanquets und um Eberhards Kommen wegen des Vergleichs.",
+ "reading": {
+  "letter": "284",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to the Prince. The outbreak of war is holding everything up. Trąbczyn, Kamionna and Kolno will not come back to the Prince: Alexander got \"unsern Allgsten Herren\" to sign that the Poles keep the estates the commission returned to them. Triebenfeld is therefore petitioning for compensation and sets out his calculation. Kamionna: 93000 rt in cash plus 120000 rt in estates. Trąbczyn: valued at 316000 rt, net 246000 rt after debts. Total 459000 rt: 366000 rt in debt-free estates plus 93000 rt in cash. Weigel's 30000 rt have been moved onto Zagorowo. Stägemann is doing nothing and Pourtalès has not answered. The rest is news of Napoleon, Paris, Murat and Württemberg. He asks for blank forms and wants Eberhard in Vienna for the settlement.",
+  "claims": [
+   {
+    "statement": "Trąbczyn, Kamionna und Kolno nicht mehr zu erwarten; Alexander erreichte Unterzeichnung, dass Polen zurückgegebene Güter behalten",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "beantragt Entschädigung",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Kamionna: 93000 Rthl baar (Pfandschilling Broniewski und Zinsen) und 120000 Rthl in Gütern",
+    "lines": [
+     13,
+     14,
+     15,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Trąbczyn taxiert 316000 Rthl, nach Schulden 246000 Rthl",
+    "lines": [
+     26,
+     27,
+     28,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "insgesamt 459000 Rthl",
+    "lines": [
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Weigels 30000 Rthl auf Zagórów übertragen",
+    "lines": [
+     37
+    ]
+   },
+   {
+    "statement": "Stägemann tut nichts",
+    "lines": [
+     40
+    ]
+   },
+   {
+    "statement": "Bitte um Blanquets und um Eberhards Kommen wegen Vergleich",
+    "lines": [
+     89,
+     90,
+     91,
+     92
+    ]
+   },
+   {
+    "statement": "Nachrichten über Napoleon",
+    "lines": [
+     46,
+     97
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "um mehr",
+    "note": "probably 'nimmermehr'"
+   },
+   {
+    "line": 10,
+    "word": "Laug",
+    "note": "probably 'König'"
+   },
+   {
+    "line": 42,
+    "word": "Jedes",
+    "note": "possibly 'Indes' misread; the sentence is unclear"
+   },
+   {
+    "line": 15,
+    "word": "Sud[?]",
+    "note": "probably 'Summa'"
+   },
+   {
+    "line": 38,
+    "word": "Genoreugen[?]",
+    "note": "garbled"
+   },
+   {
+    "line": 98,
+    "word": "Seige",
+    "note": "a name, garbled"
+   }
+  ],
+  "read_against": "5f41240e05c4d343"
+ }
 }

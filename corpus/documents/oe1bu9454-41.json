@@ -360,5 +360,109 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld erhielt das Schreiben zu spät, um mit dem Grafen nach Erfurt zu reisen, und hat kein Bargeld. Er will Geld borgen und bei der Rückkehr der Kaiser über den Großfürsten für den Fürsten wirken. Das französische Gouvernement habe die Sequestration in Südpreußen teilweise aufgehoben und die Freigabe der Revenuen befohlen. Lichnowski gehöre nach Trąbczyn und müsse dort abwarten. Melzig soll zurechtgewiesen werden, weil er die Schulden der Bürger von 8 bis 9000 Rthl nicht eintreibt."
+ "summary_de": "Triebenfeld erhielt das Schreiben zu spät, um mit dem Grafen nach Erfurt zu reisen, und hat kein Bargeld. Er will Geld borgen und bei der Rückkehr der Kaiser über den Großfürsten für den Fürsten wirken. Das französische Gouvernement habe die Sequestration in Südpreußen teilweise aufgehoben und die Freigabe der Revenuen befohlen. Lichnowski gehöre nach Trąbczyn und müsse dort abwarten. Melzig soll zurechtgewiesen werden, weil er die Schulden der Bürger von 8 bis 9000 Rthl nicht eintreibt.",
+ "reading": {
+  "letter": "41",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince, Berlin Sept 1808. Regrets receiving letter too late to join 'der Graff' to Erfurt; lacks cash; Erfurt will only draft things. Plans to borrow and attach himself to the returning emperors and Grand Duke to work for the Prince. Political remarks on Stein's fall, court, Kalckreuth. Advises Prince to go to Silesia, notify King. Südpreußen: French government lifted part of sequestration, ordered revenues released; sent to Warsaw chargé d'affaires; after publication in Kalisz money will come. Letters to Lichnowski and Metzig good; Lichnowski belongs at Trąbczyn and must wait. Melzig to be reprimanded: burghers owe Laudemial money and 4000 rt purchase rest, over 8-9000 rt; he got 200 d'or from Triebenfeld.",
+  "claims": [
+   {
+    "statement": "Schreiben zu spät erhalten, um mit dem Grafen nach Erfurt zu reisen; kein Bargeld",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "will Geld borgen und bei Rückkehr der Kaiser über den Großfürsten für den Fürsten wirken",
+    "lines": [
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "französisches Gouvernement hob Sequestration teilweise auf, Revenuen freigegeben (Südpreußen)",
+    "lines": [
+     74,
+     75,
+     76,
+     77
+    ]
+   },
+   {
+    "statement": "Lichnowski gehöre nach Trąbczyn und müsse abwarten",
+    "lines": [
+     84,
+     85
+    ]
+   },
+   {
+    "statement": "Melzig zurechtweisen; Bürger schulden über 8 bis 9000 Rthl, er treibt es nicht ein",
+    "lines": [
+     86,
+     87,
+     88,
+     89,
+     90
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "nüslich",
+    "note": "sense requires 'unnütz'"
+   },
+   {
+    "line": 32,
+    "word": "Hjostein",
+    "note": "probably 'H v Stein' (cf. line 36)"
+   },
+   {
+    "line": 42,
+    "word": "zum alten W. und",
+    "note": "garbled passage lines 42-43"
+   },
+   {
+    "line": 48,
+    "word": "Palzen",
+    "note": "possibly Götzen; Lottom[?] unclear"
+   },
+   {
+    "line": 52,
+    "word": "rechts",
+    "note": "probably 'nichts'"
+   },
+   {
+    "line": 59,
+    "word": "von",
+    "note": "probably 'wenn'"
+   },
+   {
+    "line": 72,
+    "word": "werden",
+    "note": "probably 'Thaler'"
+   },
+   {
+    "line": 83,
+    "word": "Metzig",
+    "note": "same person written Melzig on line 86; unclear which is right"
+   },
+   {
+    "line": 88,
+    "word": "inq",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "5f2ac9d0c322bf15"
+ }
 }

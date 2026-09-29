@@ -121,5 +121,81 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn schickt im Auftrag des Fürsten als Nachtrag zum schon abgesandten fürstlichen Schreiben einen abschriftlichen Auszug aus dem, was mit der reitenden Post von Glenck eingegangen ist. Der Fürst hält es für nützlich. Dem Fürsten geht es besser: Der Anfall ist aus der rechten Hand in den linken Fuß gezogen, der Schmerz hat nachts aufgehört. Bernhardi ist angekommen, aber nicht ganz gesund. Der Fürst ließ ihn durch Hahn beruhigen. Hahn wünscht Triebenfeld Genesung."
+ "summary_de": "Hahn schickt im Auftrag des Fürsten als Nachtrag zum schon abgesandten fürstlichen Schreiben einen abschriftlichen Auszug aus dem, was mit der reitenden Post von Glenck eingegangen ist. Der Fürst hält es für nützlich. Dem Fürsten geht es besser: Der Anfall ist aus der rechten Hand in den linken Fuß gezogen, der Schmerz hat nachts aufgehört. Bernhardi ist angekommen, aber nicht ganz gesund. Der Fürst ließ ihn durch Hahn beruhigen. Hahn wünscht Triebenfeld Genesung.",
+ "reading": {
+  "letter": "165",
+  "legibility": "sound",
+  "notes": "A. Hahn writes from Breslau on 8 March 1805 to Krieges und Forst Rath von Triebenfeld. On the Prince's orders he adds a postscript to the princely letter already posted: he encloses an extract copy of news received from Glenck by today's riding post. He reports that the Prince's health is improving (the attack moved from the right hand to the left foot, and the pain stopped overnight). Bergrath Bernhardi has arrived but is unwell, and the Prince sent Hahn to reassure him. Hahn wishes Triebenfeld a recovery. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Nachtrag im Auftrag des Fürsten zum schon abgesandten fürstlichen Schreiben, Auszug aus Glencks Post in Abschrift beigelegt",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Fürst hält es für nützlich",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Gesundheit des Fürsten besser, Anfall von rechter Hand in linken Fuß, Schmerz nachts aufgehört",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Bergrath Bernhardi angekommen, aber krank; Hahn vom Fürsten zu ihm geschickt, um ihn zu beruhigen",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht 'Burgrath', nicht 'Bergrath'. Der Titel ist also gedeutet. Außerdem heißt es nur 'nicht ganz gesund' bzw. 'fortdauernde Unpäßlichkeit', nicht 'krank'. Dass der Fürst Hahn zur Beruhigung schickte, ist belegt."
+   },
+   {
+    "statement": "Wunsch für Triebenfelds Genesung",
+    "lines": [
+     23,
+     24,
+     25
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 18,
+    "word": "für",
+    "note": "Probably 'hier' ('iſt hier angekommen')."
+   },
+   {
+    "line": 17,
+    "word": "besten",
+    "note": "Probably 'beste' ('das beste')."
+   },
+   {
+    "line": 12,
+    "word": "in dem",
+    "note": "Possibly 'indem' in the sense 'da'; unclear."
+   }
+  ],
+  "read_against": "7c77f98b683ee187"
+ }
 }

@@ -209,5 +209,126 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld nennt die Eingabe von Honrichs grenzenlosen Unsinn: Auf 21 Briefe habe dieser nie geantwortet und weder Geld noch Rechnung geliefert. Nach Schmids Tod habe er Hecker für jährlich 600 Rthl und Deputat angestellt, da die französische Behörde die Reste beitreiben lassen wolle und dafür gerichtlich attestierte Nachweise nötig seien. Hauptsorge ist die Rückzahlung der für die Invaliden Casse geborgten Gelder und die Rückgabe von Zastrows Wechsel und Hypotheque."
+ "summary_de": "Triebenfeld nennt die Eingabe von Honrichs grenzenlosen Unsinn: Auf 21 Briefe habe dieser nie geantwortet und weder Geld noch Rechnung geliefert. Nach Schmids Tod habe er Hecker für jährlich 600 Rthl und Deputat angestellt, da die französische Behörde die Reste beitreiben lassen wolle und dafür gerichtlich attestierte Nachweise nötig seien. Hauptsorge ist die Rückzahlung der für die Invaliden Casse geborgten Gelder und die Rückgabe von Zastrows Wechsel und Hypotheque.",
+ "reading": {
+  "letter": "34",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld (Breslau, ill) answers the Prince's letter of the 7th. Complains of Honrichs: no replies to 21 letters, no money or accounts; after Schmid's death he appointed Hecker (600 rt + Deputat) because the French authorities will help collect arrears and need attested accounts. Hopes Prince's firm letter makes Honrichs release papers. No help from Prussian authorities. Main worry: repaying money borrowed for Invaliden Casse and returning Zastrow's Wechsel and pledged Hypotheque. Letters to Amelang and Kopp held back. If Prince can get money 'dorten', he will come and cede the 250/m rt Hypotheque. PS: complains of no answers despite sending estimates and vidimated pieces. Several garbled words (Gringen, Bösmacht, Bude, Gräne, Schonau).",
+  "claims": [
+   {
+    "statement": "Triebenfeld nennt die Eingabe von Honrichs grenzenlosen Unsinn",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Auf 21 Briefe habe Honrichs nie geantwortet und weder Geld noch Rechnung geliefert",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Nach Schmids Tod habe er Hecker für jährlich 600 Rthl und Deputat angestellt",
+    "lines": [
+     11,
+     12,
+     16
+    ]
+   },
+   {
+    "statement": "da die französische Behörde die Reste beitreiben lassen wolle und dafür gerichtlich attestierte Nachweise nötig seien",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Hauptsorge ist die Rückzahlung der für die Invaliden Casse geborgten Gelder und die Rückgabe von Zastrows Wechsel und Hypotheque",
+    "lines": [
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Kann der Fürst dort Geld erhalten, will er kommen und die Hypotheque von 250/m Rthl cedieren",
+    "lines": [
+     36,
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "Schanck",
+    "note": "unclear; perhaps a name or a misreading (Schmid? Honrichs?)"
+   },
+   {
+    "line": 16,
+    "word": "Tietz",
+    "note": "possibly Carl Titz of the edition list"
+   },
+   {
+    "line": 17,
+    "word": "Bude",
+    "note": "likely misreading (Bube?)"
+   },
+   {
+    "line": 18,
+    "word": "Bösmacht",
+    "note": "garbled"
+   },
+   {
+    "line": 23,
+    "word": "Gmacher",
+    "note": "garbled"
+   },
+   {
+    "line": 26,
+    "word": "Gringen",
+    "note": "garbled place name, possibly Ingelfingen"
+   },
+   {
+    "line": 27,
+    "word": "Gräne",
+    "note": "probably Gram"
+   },
+   {
+    "line": 28,
+    "word": "Schonau",
+    "note": "probably Schimpf or similar"
+   },
+   {
+    "line": 29,
+    "word": "von",
+    "note": "probably 'wenn'"
+   },
+   {
+    "line": 31,
+    "word": "Kopp",
+    "note": "person uncertain; previous letter has 'Kopey'; list has Koppe/Koppen"
+   },
+   {
+    "line": 36,
+    "word": "Eier",
+    "note": "probably Euer/Ewr"
+   },
+   {
+    "line": 36,
+    "word": "soll",
+    "note": "second 'soll' probably 'hell' (cf. line 26)"
+   },
+   {
+    "line": 41,
+    "word": "Addresion",
+    "note": "probably 'addressire'"
+   }
+  ],
+  "read_against": "5b11aa46c07d4fdd"
+ }
 }

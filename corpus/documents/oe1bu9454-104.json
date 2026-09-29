@@ -180,5 +180,109 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld verbürgt sich, die Sache des Fürsten werde in ein paar Monaten ehrenvoll und vorteilhaft beendet. Man wolle eine Taxe der fürstlichen Güter verhindern und alles als Gnadensache erscheinen lassen. Über den Tausch entscheide das Gleichgewicht der Güter. Graf Schlabrendorff habe er überredet, für die Zinsen einen Wechsel auf ein Jahr zu nehmen. Etwa am 16. April reist er bis Ende Mai nach Berlin. Die an Prinz George verkauften Güter seien nun über 700/m Rthl taxiert."
+ "summary_de": "v. Triebenfeld verbürgt sich, die Sache des Fürsten werde in ein paar Monaten ehrenvoll und vorteilhaft beendet. Man wolle eine Taxe der fürstlichen Güter verhindern und alles als Gnadensache erscheinen lassen. Über den Tausch entscheide das Gleichgewicht der Güter. Graf Schlabrendorff habe er überredet, für die Zinsen einen Wechsel auf ein Jahr zu nehmen. Etwa am 16. April reist er bis Ende Mai nach Berlin. Die an Prinz George verkauften Güter seien nun über 700/m Rthl taxiert.",
+ "reading": {
+  "letter": "104",
+  "legibility": "partly garbled",
+  "notes": "v. Triebenfeld writes to Prince Hohenlohe from Breslau. He tells him that his affair (apparently the exchange of estates) will be settled within a couple of months. There are efforts to block a valuation (Taxe) of the Prince's estates and to make the whole thing look like a favour. The exchange depends on the estates being of equal value. Graf Schlabrendorff has been persuaded to take a bill payable in one year for his interest. Prittwitz is called a liar. The postscript says he goes to Berlin around 16 April and stays until the end of May, and that the estates sold to Prinz George are now valued at over 700/m rt. The end of the postscript (lines 63-66) is garbled. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Verbürgt sich, die Sache werde in ein paar Monaten ehrenvoll und vorteilhaft beendet",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Man wolle eine Taxe der Güter verhindern und es solle eine Gnadensache heißen",
+    "lines": [
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Das Gleichgewicht der Güter entscheidet über den Tausch",
+    "lines": [
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Schlabrendorff nimmt für die Zinsen einen Wechsel, zahlbar übers Jahr",
+    "lines": [
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Prittwitz ein Lügner",
+    "lines": [
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Reise etwa 16. April nach Berlin, bleibt bis Ende Mai",
+    "lines": [
+     58,
+     59,
+     60
+    ]
+   },
+   {
+    "statement": "Die an Prinz George verkauften Güter nach Taxe über 700/m Rthl",
+    "lines": [
+     61,
+     62
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Gras sprecher",
+    "note": "probably Großsprecher"
+   },
+   {
+    "line": 27,
+    "word": "Apröbaret",
+    "note": "probably approbiret"
+   },
+   {
+    "line": 41,
+    "word": "Wildeganstes",
+    "note": "name doubtful"
+   },
+   {
+    "line": 51,
+    "word": "b.",
+    "note": "unclear abbreviation"
+   },
+   {
+    "line": 62,
+    "word": "Räthl",
+    "note": "probably Räthl. or Rathliche; unclear"
+   },
+   {
+    "line": 63,
+    "word": "Hlrn",
+    "note": "garbled line"
+   },
+   {
+    "line": 65,
+    "word": "Thun öfters eine und einen",
+    "note": "lines 64-66 garbled"
+   }
+  ],
+  "read_against": "66a57649ce24bba0"
+ }
 }

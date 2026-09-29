@@ -144,5 +144,98 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Amelang meldet, Triebenfeld werde das Schreiben des Fürsten von Hohenlohe samt beiliegendem Geld wohl erhalten haben; es sei von Berlin auf Kontop gezogen. In einer Sache lägen die Akten im Appellatorium zum Spruch, doch sei kein günstiges Erkenntnis zu erwarten. Grund ist eine heute in den Berliner Zeitungen stehende Deklaration des Königs: Verschreibungen seien in Courant zu zahlen, rückwirkend bis 1806. Amelang bedauert Triebenfeld. Der Text ist teilweise unleserlich."
+ "summary_de": "Amelang meldet, Triebenfeld werde das Schreiben des Fürsten von Hohenlohe samt beiliegendem Geld wohl erhalten haben; es sei von Berlin auf Kontop gezogen. In einer Sache lägen die Akten im Appellatorium zum Spruch, doch sei kein günstiges Erkenntnis zu erwarten. Grund ist eine heute in den Berliner Zeitungen stehende Deklaration des Königs: Verschreibungen seien in Courant zu zahlen, rückwirkend bis 1806. Amelang bedauert Triebenfeld. Der Text ist teilweise unleserlich.",
+ "reading": {
+  "letter": "46",
+  "legibility": "partly garbled",
+  "notes": "Amelang writes from Berlin to Triebenfeld. The Prince's letter, with the money attached, should by now have reached Triebenfeld; it was drawn on Kontop. A case lies in the appeal court awaiting judgment, but Amelang expects no favourable outcome. The reason is a royal declaration printed in the Berlin newspapers: bonds must be repaid in Courant even when the Valuta was paid in state papers, back to 1806. The passage on interest rates is garbled. Amelang sympathises with Triebenfeld. The text is a rough transcription. The next letter (doc 20) shows the matter is the van der Lahr debt, but this letter does not name it.",
+  "claims": [
+   {
+    "statement": "Triebenfeld werde das Schreiben des Fürsten von Hohenlohe samt Geld wohl erhalten haben; es sei auf Kontop gezogen",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Die Akten liegen im Appellatorium zum Spruch, doch ist kein günstiges Erkenntnis zu erwarten",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Eine königliche Deklaration in den Berliner Zeitungen verlangt, dass Verschreibungen in Courant gezahlt werden, rückwirkend bis 1806",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Amelang bedauert Triebenfeld",
+    "lines": [
+     24
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "adtatorten",
+    "note": "garbled; possibly a reference to the case in question (van der Lahr?)"
+   },
+   {
+    "line": 11,
+    "word": "beinen",
+    "note": "garbled, possibly 'Papieren' or 'baarem'"
+   },
+   {
+    "line": 12,
+    "word": "Kagis[?]",
+    "note": "probably 'Papieren' (Staats Papieren)"
+   },
+   {
+    "line": 13,
+    "word": "heit bliegen",
+    "note": "garbled, possibly 'jetzt in baarem'"
+   },
+   {
+    "line": 14,
+    "word": "wurde",
+    "note": "garbled, possibly 'wirkende Kraft'"
+   },
+   {
+    "line": 25,
+    "word": "Vorillungen",
+    "note": "garbled, possibly 'Verlusten' or 'Verwickelungen'"
+   },
+   {
+    "line": 26,
+    "word": "tricanten",
+    "note": "garbled"
+   },
+   {
+    "line": 27,
+    "word": "Wildbach",
+    "note": "garbled"
+   },
+   {
+    "line": 28,
+    "word": "nicht",
+    "note": "probably 'recht' (Leben Sie recht wohl)"
+   },
+   {
+    "line": 29,
+    "word": "Ergebührt",
+    "note": "garbled closing formula"
+   }
+  ],
+  "read_against": "2aaba31423418887"
+ }
 }

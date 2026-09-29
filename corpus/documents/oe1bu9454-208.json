@@ -339,5 +339,153 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld kann aus Geldmangel noch nicht nach Pohlen reisen. In der Sache Schlieben wurde Arrest auf seine Schweinernschen Pachtgelder gelegt, und man schickte ihm eine Execution über 48 Rthl 6 g Kosten. Triebenfeld bittet den Fürsten, Lombardini zur Zahlung der 48 Rthl 6 g anzuweisen. Außerdem berichtet er Neuigkeiten: Manöver des Königs bei Potsdam und Berlin, Beschlagnahme von Colonialwaaren an der Elbe, Gerüchte über 60000 Franzosen, 30 Verhaftungen in Berlin, mit Kalckreuth fange es an zu hinken."
+ "summary_de": "v. Triebenfeld kann aus Geldmangel noch nicht nach Pohlen reisen. In der Sache Schlieben wurde Arrest auf seine Schweinernschen Pachtgelder gelegt, und man schickte ihm eine Execution über 48 Rthl 6 g Kosten. Triebenfeld bittet den Fürsten, Lombardini zur Zahlung der 48 Rthl 6 g anzuweisen. Außerdem berichtet er Neuigkeiten: Manöver des Königs bei Potsdam und Berlin, Beschlagnahme von Colonialwaaren an der Elbe, Gerüchte über 60000 Franzosen, 30 Verhaftungen in Berlin, mit Kalckreuth fange es an zu hinken.",
+ "reading": {
+  "letter": "208",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Breslau to the Prince. He has not yet travelled to Poland because he has no money. He says prospects look better and mentions a third party besides Knobelsdorff and Strachwitz, but that passage is garbled. In \"die Schlieben\" matter he was nearly distrained: his Schweinern lease money was arrested and an execution for 48 rt 6 g in costs was sent. Lombardini refused to pay and sent the executor away. Triebenfeld asks the Prince to instruct Lombardini to pay. The rest is news: royal manoeuvres near Potsdam and Berlin, Labaye's offer in Paris of linen and iron for the contribution, colonial goods seized on the Elbe, a rumour of 60000 French troops, 30 arrests in Berlin, and Kalckreuth's standing slipping. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Reise nach Pohlen aus Geldmangel noch nicht angetreten",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "In der Sache Schlieben Arrest auf die Schweinernschen Pachtgelder, Execution über 48 Rthl 6 g Kosten",
+    "lines": [
+     12,
+     13,
+     14,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Lombardini verweigerte die Zahlung und wies den Executor ab",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Bitte, Lombardini zur Zahlung der 48 Rthl 6 g anzuweisen",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Manöver des Königs bei Potsdam und zwischen Berlin und Köpnick",
+    "lines": [
+     29,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "An der Elbe werden Schiffe angehalten und Colonialwaaren confiscirt",
+    "lines": [
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Gerücht über 60000 Franzosen, die durch Berlin ziehen sollen; 30 Personen in Berlin verhaftet",
+    "lines": [
+     41,
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Kalckreuths Stellung beginnt zu wanken",
+    "lines": [
+     45
+    ],
+    "check": "overstated",
+    "why": "Line 45 only says 'fängt es mit den F. M. Kalckreuth an zu hinken. Mann wird lau'. The summary's 'schwindender Einfluss' is an interpretation."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Auszählen",
+    "note": "probably 'Aussichten'"
+   },
+   {
+    "line": 9,
+    "word": "täuschen",
+    "note": "possibly 'tauschen' or 'kaufen'; the sense is unclear"
+   },
+   {
+    "line": 8,
+    "word": "am",
+    "note": "probably 'ein'"
+   },
+   {
+    "line": 11,
+    "word": "Hoofen",
+    "note": "probably 'Hefen'"
+   },
+   {
+    "line": 15,
+    "word": "wiederöfen",
+    "note": "garbled, perhaps 'entschieden'"
+   },
+   {
+    "line": 15,
+    "word": "denien",
+    "note": "probably 'Denier/Pfennig'"
+   },
+   {
+    "line": 18,
+    "word": "Schöck",
+    "note": "the executor's name appears as 'Schoch' on line 22; one of the two forms is misread"
+   },
+   {
+    "line": 24,
+    "word": "wahr",
+    "note": "probably 'wehe'"
+   },
+   {
+    "line": 32,
+    "word": "Bäut",
+    "note": "probably 'geht'"
+   },
+   {
+    "line": 33,
+    "word": "Man solerem",
+    "note": "garbled"
+   },
+   {
+    "line": 34,
+    "word": "Kuralien",
+    "note": "a person's name, possibly Kurakin"
+   },
+   {
+    "line": 34,
+    "word": "Elten",
+    "note": "garbled, perhaps 'Feten'"
+   },
+   {
+    "line": 39,
+    "word": "tra[?]g[?]",
+    "note": "doubtful reading"
+   },
+   {
+    "line": 46,
+    "word": "anderen",
+    "note": "probably 'ändern'"
+   }
+  ],
+  "read_against": "456040c7cdfe626b"
+ }
 }

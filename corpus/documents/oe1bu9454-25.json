@@ -309,5 +309,84 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat einen neuen Bauernaufstand in Zagórów gegen die Separation der Gründe beigelegt. Über Justiz Rath Bucholz sind ihm 80000 Rthl eines von Bredow zugesichert: 30000 Rthl auf Konotop, 20000 auf Świniary, 30000 auf Trąbczyn für die Grotowskische Hypothek Weigels. Auszuzahlen sind 25000 an Gräfin Schlabrendorff, 25000 an Weigel, 5000 an Hahn für Koszęcin und 5000 bar an den Fürsten. Tismar verhandelt mit Nathusius in Magdeburg über 360000 Rthl auf die südpreußischen Güter."
+ "summary_de": "Triebenfeld hat einen neuen Bauernaufstand in Zagórów gegen die Separation der Gründe beigelegt. Über Justiz Rath Bucholz sind ihm 80000 Rthl eines von Bredow zugesichert: 30000 Rthl auf Konotop, 20000 auf Świniary, 30000 auf Trąbczyn für die Grotowskische Hypothek Weigels. Auszuzahlen sind 25000 an Gräfin Schlabrendorff, 25000 an Weigel, 5000 an Hahn für Koszęcin und 5000 bar an den Fürsten. Tismar verhandelt mit Nathusius in Magdeburg über 360000 Rthl auf die südpreußischen Güter.",
+ "reading": {
+  "letter": "25",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Berlin. He had to rush to Zagorowo because the peasants had risen again and would not accept the separation of the lands; that matter is now settled. The King and Triebenfeld's patron have left Berlin, so he has found money another way: Justiz Rath Bucholz manages 80000 rt belonging to a von Bredow, to be lent on mortgages on Kontop, Schweinern and Trąbczyn and paid out to Schlabrendorff, Weigel, Hahn, the Prince and for the Wulffen debt. Separately, Tismar (Tesmar) is negotiating a loan of 360000 rt with Nathusius in Magdeburg. Land sales are slow because of the war, but Honrichs reports new buyers at the higher prices.",
+  "claims": [
+   {
+    "statement": "Bauernaufstand in Zagórów gegen die Separation der Gründe beigelegt",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Über Bucholz 80000 Rthl eines von Bredow zugesichert",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "30000 auf Konotop, 20000 auf Świniary, 30000 auf Trąbczyn für Grotowskische Hypothek Weigels",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Auszahlungen an Schlabrendorff, Weigel, Hahn für Koszęcin, Fürst",
+    "lines": [
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Tesmar verhandelt mit Nathusius Magdeburg über 360000 Rthl auf die südpreußischen Güter",
+    "lines": [
+     29,
+     30,
+     31
+    ],
+    "check": "overstated",
+    "why": "The letter writes 'v Tismar'. 'Tesmar' interprets the name. The content itself is supported (lines 29-31)."
+   },
+   {
+    "statement": "Honrichs meldet neue Käufer zu den höheren Preisen",
+    "lines": [
+     37,
+     38,
+     39
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 34,
+    "word": "dann ich",
+    "note": "verb probably omitted (komme)"
+   },
+   {
+    "line": 15,
+    "word": "dh",
+    "note": "probably 'des Herrn' abbreviation"
+   },
+   {
+    "line": 32,
+    "word": "versagte",
+    "note": "possibly 'versetzte' (pledged)"
+   }
+  ],
+  "read_against": "1be573594ce545c7"
+ }
 }

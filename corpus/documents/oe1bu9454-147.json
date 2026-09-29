@@ -291,5 +291,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber (unterzeichnet v. Triebenfeld) meldet nach einer Reise durch West- und Ostpreußen, die Mennoniten wollten am 19. Dezember in Breslau abschließen, verlangten aber die Propination. Er hat Landsberger und Oderbrücher kommen lassen, um deren Angebote zu vergleichen. Stückweisen Verkauf lehnt er ab. Die Taxe durch Schenck geht langsam voran. Im Nachsatz beklagt er Glencks Vorwürfe und Anordnungen gegen seine eigenen. Der Justizbürgermeister erbittet Weisung zu den Wrąbczyner Gründen. Die Voigtey dürfte auf etwa 11000 Rthl taxiert werden."
+ "summary_de": "Der Schreiber (unterzeichnet v. Triebenfeld) meldet nach einer Reise durch West- und Ostpreußen, die Mennoniten wollten am 19. Dezember in Breslau abschließen, verlangten aber die Propination. Er hat Landsberger und Oderbrücher kommen lassen, um deren Angebote zu vergleichen. Stückweisen Verkauf lehnt er ab. Die Taxe durch Schenck geht langsam voran. Im Nachsatz beklagt er Glencks Vorwürfe und Anordnungen gegen seine eigenen. Der Justizbürgermeister erbittet Weisung zu den Wrąbczyner Gründen. Die Voigtey dürfte auf etwa 11000 Rthl taxiert werden.",
+ "reading": {
+  "letter": "147",
+  "legibility": "partly garbled",
+  "notes": "The metadata gives Glenck as sender, but the letter is signed \"v Triebenfeld\" (line 42) and speaks of Glenck in the third person (lines 43-53). So the writer is Triebenfeld. The summary says \"der Schreiber (unterzeichnet v. Triebenfeld)\" and does not name Glenck as writer. The main text reports on the sale of the estates, parcel by parcel: the Mennonites, the Landsberg and Oder-Bruch settlers, and Schenck's valuation. The postscript complains about Glenck's reproaches and his orders on the spot, and reports that the Justiz Bürgermeister (written \"Schema\", i.e. Schenck) asks for instructions about the Wrąbczyn lands.",
+  "claims": [
+   {
+    "statement": "Reise durch West- und Ostpreußen",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Mennoniten wollen am 19. Dezember in Breslau abschließen, verlangen Propination",
+    "lines": [
+     5,
+     6,
+     7,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Landsberger und Oderbrücher bestellt, um Angebote zu vergleichen",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "lehnt stückweisen Verkauf ab",
+    "lines": [
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Taxe durch Schenck langsam",
+    "lines": [
+     31,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Vorwürfe Glencks, Anordnungen gegen seine eigenen",
+    "lines": [
+     43,
+     44,
+     45,
+     46,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Bürgermeister erbittet Weisung zu Wrąbczyner Gründen, Voigtey etwa 11000 Rthl",
+    "lines": [
+     58,
+     59,
+     60,
+     61,
+     62
+    ],
+    "check": "overstated",
+    "why": "Im Brief bittet der Justiz Bürgermeister 'Schema' um Weisung. Die Zusammenfassung macht daraus Schenck, obwohl der Brief diesen Namen hier nicht nennt. Die Angabe zur Voigtey (gegen 11000 rt, dürfte) ist gedeckt."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Baußen",
+    "note": "probably 'kaufen'"
+   },
+   {
+    "line": 21,
+    "word": "Heuchlär",
+    "note": "unclear; perhaps a disparaging term for the Mennonites"
+   },
+   {
+    "line": 26,
+    "word": "Bube",
+    "note": "perhaps 'Hauländer' or similar"
+   },
+   {
+    "line": 32,
+    "word": "weil",
+    "note": "probably 'weiß'"
+   },
+   {
+    "line": 18,
+    "word": "seinen",
+    "note": "garbled; sense unclear"
+   }
+  ],
+  "read_against": "839aa673203599f7"
+ }
 }

@@ -484,5 +484,107 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Nach einer neuen Cabinets Ordre muss trotz Valuta in Papier in Courant gezahlt werden. Das bringt in der von der Lahrschen Sache 1500 Rthl Verlust. Der Schreiber fürchtet wegen 3000 Rthl eine Verhaftung durch van der Lahr. Er schrieb Amelang, dieser solle van der Lahr einen Vergleich anbieten: 1000 Rthl bar und 350 Centner Eisen a 6 Rthl bis Ende April. Dafür erbittet er 950 oder 1000 Centner Eisen bis zum 20. April nach Konotop."
+ "summary_de": "Nach einer neuen Cabinets Ordre muss trotz Valuta in Papier in Courant gezahlt werden. Das bringt in der von der Lahrschen Sache 1500 Rthl Verlust. Der Schreiber fürchtet wegen 3000 Rthl eine Verhaftung durch van der Lahr. Er schrieb Amelang, dieser solle van der Lahr einen Vergleich anbieten: 1000 Rthl bar und 350 Centner Eisen a 6 Rthl bis Ende April. Dafür erbittet er 950 oder 1000 Centner Eisen bis zum 20. April nach Konotop.",
+ "reading": {
+  "letter": "20",
+  "legibility": "sound",
+  "notes": "Pro Memoria signed \"v Triebenfeld\" at Kontop, 7 March 1809, to a Durchlaucht. Metadata leaves sender and recipient unidentified, so the summary does not name them. A new Cabinets Ordre forces repayment in Courant; loss of 1500 rt in the von der Lahr matter; fear of arrest over 3000 rt. The offer, made through Amelang: 1000 rt cash plus 350 Centner iron at 6 rt by end of April. The writer asks for 950 or 1000 Centner iron at Kontop by 20 April. Costs of the Zagórów powers of attorney: 163 rt. Zastrow's view of Jena. Planned trip to Wien. A copy of the offer letter to van der Lahr is attached (Wechsel 5260 rt, 2260 + 153 repaid, 3000 remaining). Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Neue Cabinets Ordre: Zahlung in Courant, auch wenn Valuta in Papier gegeben",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Verlust von 1500 Rthl in der von der Lahrschen Sache",
+    "lines": [
+     7
+    ]
+   },
+   {
+    "statement": "Fürchtet Verhaftung durch van der Lahr wegen 3000 Rthl",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Vergleichsangebot über Amelang: 1000 Rthl bar und 350 Centner Eisen a 6 Rthl bis Ende April",
+    "lines": [
+     14,
+     16,
+     17,
+     18
+    ],
+    "check": "overstated",
+    "why": "Die Zahlen stimmen (Z. 16-18). Laut Z. 14-16 hat er Amelang aber nur geschrieben, er solle den Vergleich anbieten, und zwar im Namen der Durchlaucht. Ob das Angebot schon gemacht wurde, sagt der Brief nicht."
+   },
+   {
+    "statement": "Bittet um 950 oder 1000 Centner Eisen bis 20. April nach Konotop",
+    "lines": [
+     22,
+     23,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Abschrift des Angebots an van der Lahr beigefügt",
+    "lines": [
+     64,
+     65,
+     66,
+     78,
+     79,
+     80
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Nachmäus",
+    "note": "probably 'Nahmens' (cf. line 36)"
+   },
+   {
+    "line": 19,
+    "word": "Weiterer",
+    "note": "unclear, perhaps a misreading of a name or of 'Letztere'"
+   },
+   {
+    "line": 28,
+    "word": "Neufeln",
+    "note": "doc. 48 has Schenck aus Neusatz"
+   },
+   {
+    "line": 46,
+    "word": "Leute",
+    "note": "probably 'Centner'"
+   },
+   {
+    "line": 81,
+    "word": "Werden",
+    "note": "probably 'Werken'"
+   },
+   {
+    "line": 82,
+    "word": "verſenden",
+    "note": "perhaps 'verhandeln'"
+   },
+   {
+    "line": 3,
+    "word": "Aus",
+    "note": "probably 'Aus' for 'Auf' or 'Aus dem'"
+   },
+   {
+    "line": 80,
+    "word": "Weise",
+    "note": "probably 'reifen' (cf. line 41)"
+   }
+  ],
+  "read_against": "1ac5081314d11ffa"
+ }
 }

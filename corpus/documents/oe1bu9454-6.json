@@ -452,5 +452,123 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet über die Entschädigung im russischen Anteil: Er hat die Starostei Sokolnik gefordert, verrechnet mit der Forderung des Fürsten; Minister Stein soll dies mit Nesselrode regeln. In der Curischen Angelegenheit erhielt er über Stägemann den Auftrag, sich mit den Curischen Erben zu vergleichen. Diese zeigten an, Cosmar habe ihnen die Sytener Güter angetragen. In 2 Tagen erwartet er die Erklärung des Königs. Hardenberg verspreche nur. Er bittet dringend um 100 Ducaten per Estaffette."
+ "summary_de": "Triebenfeld berichtet über die Entschädigung im russischen Anteil: Er hat die Starostei Sokolnik gefordert, verrechnet mit der Forderung des Fürsten; Minister Stein soll dies mit Nesselrode regeln. In der Curischen Angelegenheit erhielt er über Stägemann den Auftrag, sich mit den Curischen Erben zu vergleichen. Diese zeigten an, Cosmar habe ihnen die Sytener Güter angetragen. In 2 Tagen erwartet er die Erklärung des Königs. Hardenberg verspreche nur. Er bittet dringend um 100 Ducaten per Estaffette.",
+ "reading": {
+  "letter": "6",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to the Prince, sending the letter with Prinz Adolph, who is leaving. He reports on two matters. The first is compensation in the Russian share: he has demanded the Starostei Sokolnik with Wieruszew, set against the Prince's claim, with Stein and Nesselrode handling it. The second is the Curische affair: Albrecht, the King, Stägemann, a settlement with the Curische Erben, and Cosmar's mismanagement. He sends his and Albrecht's plan as an enclosure. He also covers Hardenberg's empty promises, Pourtalès and Adolph's business, begs for 100 Ducaten by Estaffette and complains about F. August, enclosing a Langenburg letter. The middle section, lines 28-41, is florid and partly garbled. Nothing concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Entschädigung im russischen Anteil; Starostei Sokolnik mit Wieruszew gefordert, verrechnet mit der Forderung des Fürsten",
+    "lines": [
+     7,
+     8,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Z. 8 nennt das Dedomagement im russischen Anteil, Z. 12-13 sagen, die Starostei Sokolnik sei gefordert und werde mit der Forderung des Fürsten kompensiert. Die Verbindung zu Wieruszew steht aber im entstellten Wort 'ohnmit' (wohl 'ohnweit', also nahe Wieruszew). 'mit Wieruszew' legt dieses Wort aus, und es ist nicht belegt, dass Wieruszew mitgefordert wurde."
+   },
+   {
+    "statement": "Minister Stein soll dies mit Nesselrode regeln",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Über Stägemann Auftrag, sich mit den Curischen Erben zu vergleichen",
+    "lines": [
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Curische Erben zeigten an, Cosmar habe ihnen die Sytener Güter angetragen",
+    "lines": [
+     39,
+     40,
+     41
+    ]
+   },
+   {
+    "statement": "In 2 Tagen Erklärung des Königs erwartet",
+    "lines": [
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Hardenberg verspricht, hält nichts",
+    "lines": [
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Bittet um 100 Ducaten per Estaffette",
+    "lines": [
+     59
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Würtembergsehen",
+    "note": "probably 'Würtembergschen'"
+   },
+   {
+    "line": 7,
+    "word": "Conjunctoren",
+    "note": "probably 'Conjuncturen'"
+   },
+   {
+    "line": 11,
+    "word": "Itali",
+    "note": "garbled"
+   },
+   {
+    "line": 14,
+    "word": "würden",
+    "note": "garbled, perhaps 'wirken'"
+   },
+   {
+    "line": 15,
+    "word": "Zeitung",
+    "note": "whole line garbled"
+   },
+   {
+    "line": 22,
+    "word": "ſchrift man",
+    "note": "garbled"
+   },
+   {
+    "line": 29,
+    "word": "Wolde",
+    "note": "probably 'Wolke'"
+   },
+   {
+    "line": 38,
+    "word": "kopillen",
+    "note": "garbled"
+   },
+   {
+    "line": 47,
+    "word": "defach",
+    "note": "garbled"
+   },
+   {
+    "line": 51,
+    "word": "Marconetten",
+    "note": "probably 'Marionetten'"
+   },
+   {
+    "line": 52,
+    "word": "erkauft",
+    "note": "sense unclear"
+   }
+  ],
+  "read_against": "4e7cea1df66b2c23"
+ }
 }

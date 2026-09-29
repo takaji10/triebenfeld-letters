@@ -274,5 +274,102 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Beim Friedensgericht ist die Vindication der Trąbczyner Güter sehr vorteilhaft ausgefallen, die Sache ist an das Tribunal in Kalisz verwiesen. Der König von Sachsen soll einen Indult auf 10 Jahre geben. Die Invaliden Casse verlangt von Triebenfeld das ganze Capital und hat geklagt, Termin am 26ten. Er hat die Prefectur gebeten, Honrichs zu suspendieren und die 11700 Rthl für die rückständigen Zinsen zu verwenden. Podprefect Brzechffa habe für Honrichs Caution geleistet und falsche Atteste gegeben."
+ "summary_de": "Beim Friedensgericht ist die Vindication der Trąbczyner Güter sehr vorteilhaft ausgefallen, die Sache ist an das Tribunal in Kalisz verwiesen. Der König von Sachsen soll einen Indult auf 10 Jahre geben. Die Invaliden Casse verlangt von Triebenfeld das ganze Capital und hat geklagt, Termin am 26ten. Er hat die Prefectur gebeten, Honrichs zu suspendieren und die 11700 Rthl für die rückständigen Zinsen zu verwenden. Podprefect Brzechffa habe für Honrichs Caution geleistet und falsche Atteste gegeben.",
+ "reading": {
+  "letter": "194",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Kontop. He is kept from travelling to Sławięcice because the Invaliden Casse has sued him: it gets no interest and wants the whole capital. The hearing is on the 26th. In Poland things go better. The Friedensgericht has decided the vindication of the Trąbczyn estates favourably, and the case has gone to the Tribunal in Kalisz. The King of Saxony is to grant a 10-year Indult. Triebenfeld wants to shelter the Invaliden debt behind it. Weigel should not hear of the Indult. Honrichs should be suspended, his goods seized, and the 11700 rt he owes used for the interest arrears. Podprefect Brzechffa stood surety for him and gave false attestations, so the Prefectur must recover the deficits from Honrichs or Brzechffa.",
+  "claims": [
+   {
+    "statement": "Beim Friedensgericht ist die Vindication der Trąbczyner Güter sehr vorteilhaft ausgefallen, die Sache ist an das Tribunal in Kalisz verwiesen.",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Der König von Sachsen soll einen Indult auf 10 Jahre geben.",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Die Invaliden Casse verlangt das ganze Capital und hat geklagt, Termin am 26ten.",
+    "lines": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er hat die Prefectur gebeten, Honrichs zu suspendieren und die 11700 Rthl für die rückständigen Zinsen zu verwenden.",
+    "lines": [
+     25,
+     26,
+     27,
+     28
+    ],
+    "check": "overstated",
+    "why": "Zeilen 25-28: Die Bitte steht so im Brief. Die Zusammenfassung nennt die 11700 Rthl aber 'geschuldet'. Laut Brief soll Honrichs sie nur 'nach Anzeige des Heckerts schuldig sein'. Das ist Hörensagen und keine feststehende Schuld."
+   },
+   {
+    "statement": "Podprefect Brzechffa habe für Honrichs Caution geleistet und falsche Atteste gegeben.",
+    "lines": [
+     29,
+     30,
+     31,
+     32,
+     33
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Sub hästerin",
+    "note": "probably 'subhastiren' (to sell at auction)"
+   },
+   {
+    "line": 14,
+    "word": "gnüßigten",
+    "note": "garbled, meaning unclear"
+   },
+   {
+    "line": 16,
+    "word": "Anseinen",
+    "note": "perhaps 'Ansinnen'"
+   },
+   {
+    "line": 19,
+    "word": "Schuz wahr",
+    "note": "probably 'Schutzwehr'"
+   },
+   {
+    "line": 19,
+    "word": "Invalide",
+    "note": "perhaps 'Invaliden' as on line 7"
+   },
+   {
+    "line": 23,
+    "word": "daſer",
+    "note": "unclear, perhaps 'dieser'"
+   },
+   {
+    "line": 27,
+    "word": "Heckerts",
+    "note": "probably Hecker (line 20)"
+   },
+   {
+    "line": 28,
+    "word": "Bezah¬ bey",
+    "note": "'Bezahlung der' probably intended"
+   }
+  ],
+  "read_against": "9f1930f8e0544115"
+ }
 }

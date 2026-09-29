@@ -105,5 +105,47 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Beguelin sagt zu, den an den Fürsten Staatskanzler gerichteten Brief des Fürsten unverzüglich zu übergeben und ihm dabei die Wünsche des Fürsten vorzutragen. Er wäre glücklich, im Auftrag des Staatskanzlers diese Wünsche erfüllen zu helfen. Triebenfeld habe er vorher nicht gekannt und erst in Wien kennengelernt. Dass dieser sich auf den Fürsten berief, habe genügt, ihm volle Aufmerksamkeit zu schenken."
+ "summary_de": "Beguelin sagt zu, den an den Fürsten Staatskanzler gerichteten Brief des Fürsten unverzüglich zu übergeben und ihm dabei die Wünsche des Fürsten vorzutragen. Er wäre glücklich, im Auftrag des Staatskanzlers diese Wünsche erfüllen zu helfen. Triebenfeld habe er vorher nicht gekannt und erst in Wien kennengelernt. Dass dieser sich auf den Fürsten berief, habe genügt, ihm volle Aufmerksamkeit zu schenken.",
+ "reading": {
+  "letter": "283",
+  "legibility": "sound",
+  "notes": "A short French letter from Beguelin in Vienna to Prince Hohenlohe-Ingelfingen. He will soon hand the Prince's letter to the Prince Chancellier d'Etat (the Staats Kanzler; the letter gives no name) and will put the Prince's wishes before him. He would be glad to be the Chancellor's instrument in meeting those wishes. He had not known Triebenfeld before and met him only in Vienna. Triebenfeld's mention of the Prince was enough for him to pay full attention. Nothing about Trąbczyn. The text is sound, and the period French spelling (assés, connoitre, daignée) is left as it is.",
+  "claims": [
+   {
+    "statement": "Beguelin will den an den Fürsten Staatskanzler gerichteten Brief unverzüglich übergeben und ihm die Wünsche des Fürsten vortragen.",
+    "lines": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er wäre glücklich, im Auftrag des Staatskanzlers diese Wünsche erfüllen zu helfen.",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Triebenfeld habe er vorher nicht gekannt und erst in Wien kennengelernt.",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Die Berufung Triebenfelds auf den Fürsten habe genügt, ihm volle Aufmerksamkeit zu schenken.",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   }
+  ],
+  "doubtful_words": [],
+  "read_against": "4753fee3fcc076e3"
+ }
 }

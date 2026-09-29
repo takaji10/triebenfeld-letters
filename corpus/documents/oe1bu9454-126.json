@@ -104,5 +104,59 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass Cabanis mit den Hussiten zurückgekehrt ist, denen es außerordentlich gefallen habe. Sie wollen zurückeilen, ihre Glaubensbrüder sammeln und in 14 Tagen alles abmachen. Cabanis bringe viele Neuigkeiten, die Triebenfeld mit dem Fürsten besprechen müsse; dringend solle sogleich jemand hingehen. Triebenfeld arbeitet mit den Leuten aus Oleśnica und bittet den Fürsten, nach der Parade eine Viertelstunde zu ihm zu kommen, sie selbst anzuhören und Befehle zu erteilen."
+ "summary_de": "Triebenfeld meldet, dass Cabanis mit den Hussiten zurückgekehrt ist, denen es außerordentlich gefallen habe. Sie wollen zurückeilen, ihre Glaubensbrüder sammeln und in 14 Tagen alles abmachen. Cabanis bringe viele Neuigkeiten, die Triebenfeld mit dem Fürsten besprechen müsse; dringend solle sogleich jemand hingehen. Triebenfeld arbeitet mit den Leuten aus Oleśnica und bittet den Fürsten, nach der Parade eine Viertelstunde zu ihm zu kommen, sie selbst anzuhören und Befehle zu erteilen.",
+ "reading": {
+  "letter": "126",
+  "legibility": "sound",
+  "notes": "Short note from Triebenfeld in Breslau to the Prince. Cabanis has come back with the \"Hussiten\", who liked it very much. They want to hurry home, gather their fellow believers and settle everything within 14 days. Cabanis has news that has to be discussed, and someone must go there at once. Triebenfeld is negotiating with the people from Oleśnica (see doc. 125) and asks the Prince to call on him for a quarter of an hour after the parade, hear them himself and give orders. The irregular grammar is the writer's own (mit die, Seiner Hochfürstliche, den = denn). There is nothing to correct.",
+  "claims": [
+   {
+    "statement": "Cabanis ist mit den Hussiten zurück, denen es außerordentlich gefallen hat",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Sie wollen zurückeilen, Glaubensbrüder sammeln und in 14 Tagen alles abmachen",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Cabanis bringt viele Neuigkeiten, die Triebenfeld mit dem Fürsten besprechen muss",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Es ist äußerst nötig, dass sogleich jemand hingeht",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Triebenfeld arbeitet mit den Leuten aus Oleśnica",
+    "lines": [
+     13
+    ]
+   },
+   {
+    "statement": "Bitte an den Fürsten, nach der Parade eine Viertelstunde zu kommen, die Leute anzuhören und Befehle zu erteilen",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18
+    ]
+   }
+  ],
+  "doubtful_words": [],
+  "read_against": "fe8c5b66d53211da"
+ }
 }

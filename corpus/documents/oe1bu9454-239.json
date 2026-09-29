@@ -309,5 +309,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Wegen seines Podagras verspätet in Nysa angekommen, berichtet Triebenfeld, der König sei nach drei Tagen Richtung Teplitz abgereist, wo der russische Kaiser bei seiner Schwester sei; dass Kaiser Franz komme, werde bezweifelt. Österreich wolle neutral bleiben. Napoleon sei nach Paris geeilt. Die Regierung gehe nach Ząbkowice Śląskie. Triebenfeld will zu General Ortel nach Neustadt, sein Plan habe Beifall. Briefe für Frau v. Hahn und Ober Forst Meister v Kleist seien besorgt."
+ "summary_de": "Wegen seines Podagras verspätet in Nysa angekommen, berichtet Triebenfeld, der König sei nach drei Tagen Richtung Teplitz abgereist, wo der russische Kaiser bei seiner Schwester sei; dass Kaiser Franz komme, werde bezweifelt. Österreich wolle neutral bleiben. Napoleon sei nach Paris geeilt. Die Regierung gehe nach Ząbkowice Śląskie. Triebenfeld will zu General Ortel nach Neustadt, sein Plan habe Beifall. Briefe für Frau v. Hahn und Ober Forst Meister v Kleist seien besorgt.",
+ "reading": {
+  "letter": "239",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince from Neisse, June 1813, during the armistice. He arrived late because of podagra. The King has left for Teplitz, where the Russian Emperor is. There is a rumour about Kaiser Franz, and Austria is neutral. Bülow and Czerniszeff (garbled). Napoleon has gone to Paris. The government moves to Frankenstein and the post is restored. Triebenfeld goes to General Ortel in Neustadt and then to Frankenstein. Letters for Frau v. Hahn and v Kleist have been delivered. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Wegen Podagra verspätet in Nysa angekommen",
+    "lines": [
+     4
+    ]
+   },
+   {
+    "statement": "König nach drei Tagen Richtung Teplitz abgereist, wo der russische Kaiser bei seiner Schwester ist",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Gerücht, Kaiser Franz komme, wird bezweifelt",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Österreich will neutral bleiben",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Napoleon nach Paris geeilt",
+    "lines": [
+     23
+    ]
+   },
+   {
+    "statement": "Regierung geht nach Ząbkowice Śląskie",
+    "lines": [
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Triebenfeld will zu General Ortel nach Neustadt, der seinen Plan billigt, dann nach Ząbkowice Śląskie",
+    "lines": [
+     30,
+     31,
+     32
+    ],
+    "check": "overstated",
+    "why": "Z. 31: '/ den mein Plan hatt Beifall /' sagt nur, dass sein Plan Beifall hat. Dass gerade Ortel ihn billigt, steht dort nicht."
+   },
+   {
+    "statement": "Briefe für Frau v. Hahn und v Kleist besorgt",
+    "lines": [
+     34,
+     35,
+     36,
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "mich Holz ab",
+    "note": "garbled, perhaps 'nach Glatz ab' or similar"
+   },
+   {
+    "line": 14,
+    "word": "eodem",
+    "note": "probably 'evidenz', cf. letter 240 line 4 'bis zur höchsten evidenz erwieſen'"
+   },
+   {
+    "line": 14,
+    "word": "bitt",
+    "note": "probably 'tritt (Österreich nicht) bei' or similar; phrase garbled"
+   },
+   {
+    "line": 15,
+    "word": "Lau",
+    "note": "perhaps 'lau werden'"
+   },
+   {
+    "line": 19,
+    "word": "duplirt",
+    "note": "probably 'dupirt'"
+   },
+   {
+    "line": 26,
+    "word": "unß",
+    "note": "possibly 'muß' or 'geht'"
+   },
+   {
+    "line": 33,
+    "word": "sucht",
+    "note": "passage garbled, perhaps 'sinkt in der Meinung aller'"
+   }
+  ],
+  "read_against": "7b653c2ccae4bd19"
+ }
 }

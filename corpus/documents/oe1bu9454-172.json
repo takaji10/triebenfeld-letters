@@ -267,5 +267,120 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld betreibt in Trąbczyn die Dismembration. Er hat den Haupttermin auf Montag verschoben und will dann die Contracte über alle Gründe abschließen. Er zitiert einen Brief des Präsidenten v. Goldbeck an Minister Voss: Die Kammer habe bereits eingewilligt, Krieges Rath zur Höllen habe Fehler begangen, und diese sollen, wenn Voss den Consens erteilt, nach Möglichkeit berichtigt werden. Kunckel von den Olesnicern ist in Verwahrung gebracht worden. Wegen Szetlewek erwartet Triebenfeld einen schweren Tag."
+ "summary_de": "Triebenfeld betreibt in Trąbczyn die Dismembration. Er hat den Haupttermin auf Montag verschoben und will dann die Contracte über alle Gründe abschließen. Er zitiert einen Brief des Präsidenten v. Goldbeck an Minister Voss: Die Kammer habe bereits eingewilligt, Krieges Rath zur Höllen habe Fehler begangen, und diese sollen, wenn Voss den Consens erteilt, nach Möglichkeit berichtigt werden. Kunckel von den Olesnicern ist in Verwahrung gebracht worden. Wegen Szetlewek erwartet Triebenfeld einen schweren Tag.",
+ "reading": {
+  "letter": "172",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Trąbczyn about the dismembration (the parcelling of the estate into plots). The main hearing is postponed to Monday, when he expects to sign contracts for all plots. He quotes a letter from President v. Goldbeck to Minister Voss: the Kammer has already consented, the Departements Rath zur Höllen made errors, and Goldbeck promises to put them right. He also reports on the Oleśnica men (Kunckel taken into custody), expects a hard day tomorrow over Szetlewek, and says the Winnicki heirs are suing for 1300 rt. He asks the Prince to have tables and fruit trees taken to the President and hopes Amelang's dealings go well.",
+  "claims": [
+   {
+    "statement": "Triebenfeld betreibt in Trąbczyn die Dismembration, hat den Haupttermin auf Montag verschoben und will dann die Contracte über alle Gründe abschließen.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Goldbeck an Voss: Die Kammer habe bereits eingewilligt, Krieges Rath zur Höllen habe Fehler begangen, die berichtigt werden sollen.",
+    "lines": [
+     10,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     21,
+     22,
+     26,
+     27,
+     28,
+     29
+    ],
+    "check": "overstated",
+    "why": "The consent (lines 17-18) and the errors (lines 21-22) are stated. But the correction is only a promise to fix the errors 'nach Möglichkeit', and only if Voss grants consent to the dismembration (lines 26-29)."
+   },
+   {
+    "statement": "Kunckel von den Olesnicern ist in Verwahrung gebracht.",
+    "lines": [
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Wegen Szetlewek erwartet Triebenfeld einen schweren Tag.",
+    "lines": [
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Die Winnickischen Erben klagen auf 1300 Rthl Vermessungskosten.",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Bitte, 6 Tische und 30 Obstbäume an den Präsidenten fahren zu lassen.",
+    "lines": [
+     45,
+     46
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "münt",
+    "note": "probably 'nimmt' ('nimmt sich jezt noble und brav')"
+   },
+   {
+    "line": 17,
+    "word": "üherer",
+    "note": "probably 'näherer Prüfung'"
+   },
+   {
+    "line": 36,
+    "word": "Schencis",
+    "note": "unclear; perhaps a name (Schenck?)"
+   },
+   {
+    "line": 35,
+    "word": "Mona",
+    "note": "unclear word before Kunckel"
+   },
+   {
+    "line": 38,
+    "word": "Bube",
+    "note": "next letter has '3 Buben'"
+   },
+   {
+    "line": 32,
+    "word": "querden",
+    "note": "probably 'Querelen' or similar"
+   },
+   {
+    "line": 47,
+    "word": "bringt",
+    "note": "perhaps 'kommt'"
+   },
+   {
+    "line": 13,
+    "word": "Epl.",
+    "note": "probably 'Excell.'"
+   },
+   {
+    "line": 16,
+    "word": "würden",
+    "note": "perhaps 'werden könne'"
+   }
+  ],
+  "read_against": "4c2a5908d3a7e086"
+ }
 }

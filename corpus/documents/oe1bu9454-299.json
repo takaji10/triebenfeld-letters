@@ -634,5 +634,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld will in Pszczew mit Leixner in Międzyrzecz die aufgefundene Quittung geltend machen und die Schuld löschen lassen. Einer Aufhebung des Kontrakts, die Bürger, Bauern und Zerboni wünschen, will er nur unter Bedingungen zustimmen, darunter 11000 Rthl rückständiger Canon an den Fürsten. Aus Pszczew stünden dem Fürsten noch 99000 Rthl zu. Triebenfeld besteht darauf, dass die 72000 und 65000 Rthl auf Kamionna gehörten. Trzciński erhält Aufschub bis Johanni. Schenck will eine Generalvollmacht; Triebenfeld bittet um ein Schreiben, um ihn loszuwerden."
+ "summary_de": "Triebenfeld will in Pszczew mit Leixner in Międzyrzecz die aufgefundene Quittung geltend machen und die Schuld löschen lassen. Einer Aufhebung des Kontrakts, die Bürger, Bauern und Zerboni wünschen, will er nur unter Bedingungen zustimmen, darunter 11000 Rthl rückständiger Canon an den Fürsten. Aus Pszczew stünden dem Fürsten noch 99000 Rthl zu. Triebenfeld besteht darauf, dass die 72000 und 65000 Rthl auf Kamionna gehörten. Trzciński erhält Aufschub bis Johanni. Schenck will eine Generalvollmacht; Triebenfeld bittet um ein Schreiben, um ihn loszuwerden.",
+ "reading": {
+  "letter": "299",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Blizanow. He is over his illness but still weak. Main subject is Pszczew (Betsche): he wants to reach agreement with Leixner in Międzyrzecz about the receipt that has been found. The townspeople and peasants want the contract cancelled, and Zerboni wishes the same; Triebenfeld sets his conditions and works out what the Prince would receive (127000 Rthl, of which 99000 are still outstanding). He argues that the 72000 and 65000 Rthl charged on Pszczew belong on Kamionna. Also covered: Trzciński asks for a delay until Johanni; Schenck wants a general power of attorney, and Triebenfeld asks for a letter so he can be rid of him; the compensation business, with Minister Humboldt; Zerboni's household. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Er will sich in Pszczew mit Leixner in Międzyrzecz einigen, die aufgefundene Quittung geltend machen und die Schuld im Hypothekenbuch löschen lassen.",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Bürger und Bauern sowie Zerboni wünschen die Aufhebung des Kontrakts; Triebenfeld will nur unter Bedingungen zustimmen, darunter die Abführung von 11000 Rthl rückständigem Canon an den Fürsten.",
+    "lines": [
+     20,
+     21,
+     25,
+     26,
+     27,
+     30
+    ]
+   },
+   {
+    "statement": "Nach seiner Rechnung stehen dem Fürsten aus Pszczew noch 99000 Rthl zu.",
+    "lines": [
+     45,
+     46,
+     47
+    ]
+   },
+   {
+    "statement": "Die auf Pszczew eingetragenen 72000 und 65000 Rthl gehören laut Quittung auf Kamionna.",
+    "lines": [
+     63,
+     64,
+     65
+    ],
+    "check": "overstated",
+    "why": "Lines 63-65 give this as what Triebenfeld insists on ('Ich bestehe darauf'), not as an established fact."
+   },
+   {
+    "statement": "Trzciński hat um Aufschub bis Johanni gebeten und ihn erhalten.",
+    "lines": [
+     72,
+     73,
+     74,
+     75
+    ]
+   },
+   {
+    "statement": "Schenck will eine Generalvollmacht; Triebenfeld bittet den Fürsten um ein Schreiben, um ihn loszuwerden.",
+    "lines": [
+     77,
+     78,
+     79
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "wir",
+    "note": "probably 'mir' (Es bleiben mir ...)"
+   },
+   {
+    "line": 8,
+    "word": "Kohlen",
+    "note": "possibly 'Pohlen'"
+   },
+   {
+    "line": 16,
+    "word": "sich",
+    "note": "probably 'mich'"
+   },
+   {
+    "line": 24,
+    "word": "ber",
+    "note": "probably 'Ewr'; 'Angebe' unclear"
+   },
+   {
+    "line": 37,
+    "word": "Dein",
+    "note": "garbled"
+   },
+   {
+    "line": 56,
+    "word": "nählen",
+    "note": "possibly 'nähmen' or 'zählen'"
+   },
+   {
+    "line": 77,
+    "word": "sehr",
+    "note": "probably 'sehe'"
+   },
+   {
+    "line": 93,
+    "word": "schalen",
+    "note": "possibly 'schicken'"
+   },
+   {
+    "line": 10,
+    "word": "sendenhaft",
+    "note": "garbled, possibly 'schändlich'"
+   },
+   {
+    "line": 82,
+    "word": "Seager",
+    "note": "name uncertain"
+   }
+  ],
+  "read_against": "f3f5e214b6e289fb"
+ }
 }

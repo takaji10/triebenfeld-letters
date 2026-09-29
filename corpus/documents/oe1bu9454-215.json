@@ -1154,5 +1154,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bestätigt 1000 Rthl über Bally. Hawich und Hecker sollen entlassen werden. Er drängt nach Anweisung von 5100 Rthl Zinsen auf Aufhebung der Sequestration von Zagórów. Die Dąbska habe Trąbczyn ohne Urteil in Besitz genommen, ihre Eintragung ins Hypothekenbuch sei abgewiesen; er betreibt die Vindikation von Trąbczyn und Kamionna. Von Honrichs, Hawich und Hecker angeeignete Gründe sollen zurück und mit Colonisten besetzt werden; den Colonisten der Herrschaft Zagórów soll dieses Jahr ein Drittel der Zinsen erlassen werden."
+ "summary_de": "Triebenfeld bestätigt 1000 Rthl über Bally. Hawich und Hecker sollen entlassen werden. Er drängt nach Anweisung von 5100 Rthl Zinsen auf Aufhebung der Sequestration von Zagórów. Die Dąbska habe Trąbczyn ohne Urteil in Besitz genommen, ihre Eintragung ins Hypothekenbuch sei abgewiesen; er betreibt die Vindikation von Trąbczyn und Kamionna. Von Honrichs, Hawich und Hecker angeeignete Gründe sollen zurück und mit Colonisten besetzt werden; den Colonisten der Herrschaft Zagórów soll dieses Jahr ein Drittel der Zinsen erlassen werden.",
+ "reading": {
+  "letter": "215",
+  "legibility": "partly garbled",
+  "notes": "Promemoria from Triebenfeld to the Prince, answering his points one by one. It covers: 1000 Rthl received through Bally; 255 Rthl sent to Triebenfeld's children; Honrichs cleared, Hawich exposed and dismissed, Hecker to be let go; lifting the Zagórów sequestration after paying 5100 Rthl interest on the Oppenheimer claim; the advocate Stenger replaced by Raszkowski; the Dąbska holding Trąbczyn without a decree, her entry in the Hypothekenbuch refused; plans to recover Trąbczyn and Kamionna; land to be taken back and settled with colonists; a third of the colonists' interest to be remitted; arrears in Pszczew; the Witów lawsuit (Schlieffen, Meierowitz); the Collonna affair and Beyme; Brzechffa's proposed purchase.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bestätigt 1000 Rthl über Bally.",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Hawich und Hecker sollen entlassen werden.",
+    "lines": [
+     16,
+     17,
+     21
+    ]
+   },
+   {
+    "statement": "Er drängt nach Anweisung von 5100 Rthl Zinsen auf Aufhebung der Sequestration von Zagórów.",
+    "lines": [
+     26,
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "Die Dąbska habe Trąbczyn ohne Urteil in Besitz genommen.",
+    "lines": [
+     62,
+     63,
+     64
+    ]
+   },
+   {
+    "statement": "Ihre Eintragung ins Hypothekenbuch sei abgewiesen.",
+    "lines": [
+     173,
+     174,
+     175,
+     176,
+     177
+    ]
+   },
+   {
+    "statement": "Er betreibt die Vindikation von Trąbczyn und Kamionna.",
+    "lines": [
+     72,
+     85,
+     86,
+     194,
+     195
+    ]
+   },
+   {
+    "statement": "Von Honrichs, Hawich und Hecker angeeignete Gründe sollen zurück und mit Colonisten besetzt werden.",
+    "lines": [
+     110,
+     111,
+     112,
+     113,
+     114,
+     115,
+     116
+    ]
+   },
+   {
+    "statement": "Den Colonisten der Herrschaft Zagórów soll dieses Jahr ein Drittel der Zinsen erlassen werden.",
+    "lines": [
+     119,
+     120,
+     121,
+     122,
+     123,
+     124
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "nach fehlen",
+    "note": "garbled; the 600 Rthl were probably sent somewhere named here"
+   },
+   {
+    "line": 64,
+    "word": "Kur[?] und [?]geti",
+    "note": "garbled names of the two judges"
+   },
+   {
+    "line": 110,
+    "word": "Karzunki[?]",
+    "note": "name uncertain"
+   },
+   {
+    "line": 81,
+    "word": "findt",
+    "note": "garbled"
+   },
+   {
+    "line": 228,
+    "word": "Man",
+    "note": "probably 'Mein'"
+   },
+   {
+    "line": 67,
+    "word": "daß ein",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 283,
+    "word": "Die",
+    "note": "probably 'Sr' (Durchlaucht)"
+   }
+  ],
+  "read_against": "7faafbe715993ebc"
+ }
 }

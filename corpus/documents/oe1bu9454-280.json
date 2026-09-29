@@ -442,5 +442,99 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bedauert, dass Eberhard nicht kommt und kein Vergleich mit den curischen Erbinnen zustande gebracht ist; er fürchtet Verschleppung durch Cosmar und Stägemann. Fürst August hat die Vollmacht noch nicht aufgehoben; mit Prinz Adolph ist wegen Koszęcin nichts zu machen. Zu den polnischen Gütern antwortete der Fürst Kanzler; an den Kaiser soll Triebenfeld nicht schreiben. Dazu Wiener Nachrichten: Napoleons Marsch auf Paris, Wellingtons Abreise, Talleyrands Streit mit Kaiser Alexander. Er bittet, Eberhard eilig zu schicken."
+ "summary_de": "Triebenfeld bedauert, dass Eberhard nicht kommt und kein Vergleich mit den curischen Erbinnen zustande gebracht ist; er fürchtet Verschleppung durch Cosmar und Stägemann. Fürst August hat die Vollmacht noch nicht aufgehoben; mit Prinz Adolph ist wegen Koszęcin nichts zu machen. Zu den polnischen Gütern antwortete der Fürst Kanzler; an den Kaiser soll Triebenfeld nicht schreiben. Dazu Wiener Nachrichten: Napoleons Marsch auf Paris, Wellingtons Abreise, Talleyrands Streit mit Kaiser Alexander. Er bittet, Eberhard eilig zu schicken.",
+ "reading": {
+  "letter": "280",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Wien to the Prince, answering his letters of the 10th and 13th. Eberhard is not coming, and no settlement has been reached with the \"Curischen Erbinnen\" (princesses), so he fears Cosmar and Stägemann will drag the matter out. He complains about the old prince's testament on Prinz Adolph's majority and about Fürst August not revoking the power of attorney. Nothing can be done with Prinz Adolph over Koschentin. Barbe is waiting for Pourtalès. On the Polish estates the Fürst Kanzler answered as in the Zerboni matter, and he is not to write to the Kaiser. Political news: Napoleon, Wellington, Talleyrand against Alexander, Württemberg. He asks for Eberhard to be sent urgently. No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Bedauern, dass Eberhard nicht kommt und kein Vergleich mit den curischen Erbinnen zustande gebracht ist",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Befürchtung der Verschleppung durch Cosmar und Stägemann",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Fürst August hat die Vollmacht noch nicht aufgehoben",
+    "lines": [
+     26
+    ]
+   },
+   {
+    "statement": "Mit Prinz Adolph wegen Koszęcin nichts zu machen",
+    "lines": [
+     31
+    ]
+   },
+   {
+    "statement": "Fürst Kanzler zu den polnischen Gütern wie in der Sache Zerboni; an den Kaiser nicht schreiben",
+    "lines": [
+     35,
+     36
+    ],
+    "check": "overstated",
+    "why": "Lines 35-36: the Fürst Kanzler answered the same thing that Hohenlohe recently wrote to Zerboni. The letter mentions no 'Sache Zerboni'. The part about not writing to the Kaiser is supported."
+   },
+   {
+    "statement": "Nachrichten über Napoleon, Wellington, Talleyrand und Kaiser Alexander",
+    "lines": [
+     39,
+     41,
+     45,
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "statement": "Bitte, Eberhard eilig zu schicken",
+    "lines": [
+     64,
+     65
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "ſehen res",
+    "note": "probably 'ſichereres' or similar, broken across the line"
+   },
+   {
+    "line": 15,
+    "word": "Henneberg",
+    "note": "doubtful name reading"
+   },
+   {
+    "line": 42,
+    "word": "Frandreichs",
+    "note": "probably 'Frankreichs'"
+   },
+   {
+    "line": 39,
+    "word": "Næpolian",
+    "note": "probably 'Napoleon'"
+   },
+   {
+    "line": 14,
+    "word": "ſchmall",
+    "note": "unclear, possibly 'ſchnell'"
+   },
+   {
+    "line": 29,
+    "word": "Sp:",
+    "note": "unclear abbreviation before Cosmar"
+   }
+  ],
+  "read_against": "8b237df7bb6b8dee"
+ }
 }

@@ -83,5 +83,104 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Von Triebenfeld bittet den Fürsten eindringlich, seinen notleidenden Kindern 120 Rthl zu schicken und bei längerem Aufenthalt monatlich 60 Rthl. Er lebe von geborgtem Geld. Die Sache des Fürsten stehe gut. Er fragt, ob vom Curischen Mandatarius eine schriftliche Zusage zu erhalten sei, dass die Sache mit 112/m Rthl abgemacht sein solle. Es gebe mächtige Feinde. Außer dieser Zusage brauche er hier nichts. An Hahn will er selbst schreiben."
+ "summary_de": "Von Triebenfeld bittet den Fürsten eindringlich, seinen notleidenden Kindern 120 Rthl zu schicken und bei längerem Aufenthalt monatlich 60 Rthl. Er lebe von geborgtem Geld. Die Sache des Fürsten stehe gut. Er fragt, ob vom Curischen Mandatarius eine schriftliche Zusage zu erhalten sei, dass die Sache mit 112/m Rthl abgemacht sein solle. Es gebe mächtige Feinde. Außer dieser Zusage brauche er hier nichts. An Hahn will er selbst schreiben.",
+ "reading": {
+  "letter": "8",
+  "legibility": "partly garbled",
+  "notes": "Short, desperate note from Triebenfeld (Vienna, December 1814) to the Prince. He has received three letters (8, 25 and 27 November). Letters from his children leave him close to despair. He asks for 120 Rthl for the children and 60 Rthl a month while he stays. He lives on borrowed money. He says the Prince's affair stands well. He asks for a small written promise from the Curische Mandatarius that the matter will be settled for 112/m Rthl. He speaks of powerful enemies (passage garbled). He will write to Hahn. He needs no papers except a few words from the Mandatarius. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bittet, den Kindern 120 Rthl und bei längerem Aufenthalt monatlich 60 Rthl zu schicken",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Lebt von geborgtem Geld",
+    "lines": [
+     6
+    ],
+    "check": "overstated",
+    "why": "Zeile 6 sagt 'ich lebe blos von erborgten Gelde', aber die Zusammenfassung verortet ihn in Wien. Der Brief nennt Wien nicht, er sagt nur 'hier'."
+   },
+   {
+    "statement": "Die Sache des Fürsten stehe gut",
+    "lines": [
+     9
+    ]
+   },
+   {
+    "statement": "Fragt nach schriftlicher Zusage des Curischen Mandatarius über Abschluss mit 112/m Rthl",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Es gebe mächtige Feinde",
+    "lines": [
+     15
+    ]
+   },
+   {
+    "statement": "Braucht außer ein paar Worten des Mandatarius keine Papiere",
+    "lines": [
+     22,
+     23
+    ],
+    "check": "overstated",
+    "why": "Zeile 22 hat das unsichere Wort 'Papinse[?]'. 'Papiere' ist eine Deutung dieses verstümmelten Wortes. Der Brief sagt nur, dass er das jetzt nicht hier brauche, weil es nur dort nötig sei, außer ein paar Worten vom kurischen Mandatarius."
+   },
+   {
+    "statement": "Will an Hahn selbst schreiben",
+    "lines": [
+     20
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 2,
+    "word": "um",
+    "note": "probably 'und' (letters of the 25th and 27th)"
+   },
+   {
+    "line": 2,
+    "word": "zuvermünden",
+    "note": "garbled; perhaps refers to enclosed letters from his children"
+   },
+   {
+    "line": 5,
+    "word": "erhängern",
+    "note": "probably 'verhungern'"
+   },
+   {
+    "line": 10,
+    "word": "Dölchen Seiche",
+    "note": "probably 'Dolchen gleich'"
+   },
+   {
+    "line": 11,
+    "word": "Seine",
+    "note": "probably 'Beine'"
+   },
+   {
+    "line": 9,
+    "word": "Können",
+    "note": "garbled; unclear who is meant"
+   },
+   {
+    "line": 15,
+    "word": "Spreizt[?]",
+    "note": "garbled passage lines 15-18"
+   },
+   {
+    "line": 17,
+    "word": "adten",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "363ae4778848a0bc"
+ }
 }

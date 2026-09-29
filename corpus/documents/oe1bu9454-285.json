@@ -327,5 +327,133 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Pro Memoria mit Berechnung der Entschädigungsforderung des Fürsten Hohenlohe für Kamionna und Trąbczyn. Kamionna, 1796 nach Anton v. Prusimski verliehen und an Broniewski verpfändet, löste der Fürst 1804 per Vergleich mit 55000 Rthl ein; mit Prozesskosten und Zinsen soll die Prusimska 94550 Rthl baar erstatten. Trąbczyn wurde auf 316000 Rthl taxiert; von 138000 Rthl Schulden (Lichnowski, Weigel, Grotowski, Zerboni u.a.) bleiben 78000 Rthl. Die Souverains sollen 367164 Rthl in Gütern oder baar leisten, zusammen 461714 Rthl."
+ "summary_de": "Pro Memoria mit Berechnung der Entschädigungsforderung des Fürsten Hohenlohe für Kamionna und Trąbczyn. Kamionna, 1796 nach Anton v. Prusimski verliehen und an Broniewski verpfändet, löste der Fürst 1804 per Vergleich mit 55000 Rthl ein; mit Prozesskosten und Zinsen soll die Prusimska 94550 Rthl baar erstatten. Trąbczyn wurde auf 316000 Rthl taxiert; von 138000 Rthl Schulden (Lichnowski, Weigel, Grotowski, Zerboni u.a.) bleiben 78000 Rthl. Die Souverains sollen 367164 Rthl in Gütern oder baar leisten, zusammen 461714 Rthl.",
+ "reading": {
+  "letter": "285",
+  "legibility": "partly garbled",
+  "notes": "Unsigned Pro Memoria of 27 March 1815 (sender/recipient not identified). It calculates the Prince's compensation claim: Kamionna (Kaemen), granted 1796 after Anton v. Prusimski and pledged to Broniewski. Settlement of 55000 rt in 1804, plus 6000 rt costs and interest, gives 94550 rt. Taxed value 180000 less 55000 is 125000, totalling 223714 rt. Trąbczyn taxed at 316000 rt; debts 138000 rt, of which 60000 paid, 78000 remain; surplus 238000. Prusimska to pay 94550 in cash; the Souverains to compensate 367164; total 461714 (line 54 gives 467114, internal inconsistency). Several garbled lines (14, 17, 18, 24, 56). It matches Triebenfeld's calculation in doc. 284, but sender not stated.",
+  "claims": [
+   {
+    "statement": "Kamionna 1796 dem Fürsten nach Anton v. Prusimski verliehen",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "an Broniewski verpfändet",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Vergleich, 1804 55000 Rthl bezahlt",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Prusimska soll 94550 Rthl baar zahlen, Pfandschilling nebst Zinsen",
+    "lines": [
+     13,
+     14,
+     27,
+     28,
+     29,
+     55
+    ]
+   },
+   {
+    "statement": "Trąbczyn taxiert 316000 Rthl",
+    "lines": [
+     40
+    ]
+   },
+   {
+    "statement": "Schulden 138000 Rthl, davon 60000 bezahlt, 78000 bleiben",
+    "lines": [
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Souverains sollen 367164 Rthl in Gütern oder baar leisten, zusammen 461714",
+    "lines": [
+     56,
+     57
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "gebet",
+    "note": "likely 'gekostet'"
+   },
+   {
+    "line": 8,
+    "word": "der Fürsten",
+    "note": "probably 'dem Fürsten'"
+   },
+   {
+    "line": 14,
+    "word": "bewogen",
+    "note": "line garbled"
+   },
+   {
+    "line": 17,
+    "word": "Z[?]erobowski",
+    "note": "unclear name"
+   },
+   {
+    "line": 18,
+    "word": "Sinnen",
+    "note": "probably 'Summa'"
+   },
+   {
+    "line": 19,
+    "word": "habnen",
+    "note": "probably 'haben'"
+   },
+   {
+    "line": 24,
+    "word": "für zum",
+    "note": "garbled"
+   },
+   {
+    "line": 33,
+    "word": "Wirthe[?]",
+    "note": "probably 'Werth'"
+   },
+   {
+    "line": 45,
+    "word": "Seeher Thoss",
+    "note": "name uncertain, 'Seher Thos' in doc. 284"
+   },
+   {
+    "line": 54,
+    "word": "467114",
+    "note": "inconsistent with 461714 (line 57); not changed"
+   },
+   {
+    "line": 56,
+    "word": "entschicken",
+    "note": "probably 'entschädigen'"
+   }
+  ],
+  "read_against": "3bfabf53c9bcbcd4"
+ }
 }

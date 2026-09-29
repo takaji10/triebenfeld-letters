@@ -213,5 +213,126 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber reist unverrichteter Dinge nach Wrocław zurück, weil er vergeblich auf Glenck gewartet hat. Er klagt, bei Pszczew hätten andere 30000 Rthl am Fürsten gewonnen. Der Freund soll Director Stubenrauch zum Kauf von Kamionna bewegen, damit dieser das Geld bis Johanni hergibt. Der Schreiber will für 10000 Rthl jährliche Revenue haften. Der Fürst wäre mit 180000 Rthl zufrieden. Ohne Einstandsgeld zahlten die Unterthanen 50 Rthl pro Hufe jährlich. Er mahnt zur Vorsicht beim Cabinets Rath."
+ "summary_de": "Der Schreiber reist unverrichteter Dinge nach Wrocław zurück, weil er vergeblich auf Glenck gewartet hat. Er klagt, bei Pszczew hätten andere 30000 Rthl am Fürsten gewonnen. Der Freund soll Director Stubenrauch zum Kauf von Kamionna bewegen, damit dieser das Geld bis Johanni hergibt. Der Schreiber will für 10000 Rthl jährliche Revenue haften. Der Fürst wäre mit 180000 Rthl zufrieden. Ohne Einstandsgeld zahlten die Unterthanen 50 Rthl pro Hufe jährlich. Er mahnt zur Vorsicht beim Cabinets Rath.",
+ "reading": {
+  "letter": "132",
+  "legibility": "partly garbled",
+  "notes": "The letter is signed v Triebenfeld and written to \"Mein Theuerster Freund\". The header lists the sender as not identified, so the summary calls him \"der Schreiber\". After waiting in vain for Glenck in Frankfurt he is going back to Breslau. He complains that people are profiting from the Prince at Betsche (Pszczew) and want the same at Kaemen (Kamionna). He asks the friend to get Director Stubenrauch to buy the estates. He sets out valuations: 10000 Rthl a year in revenue, a capital of 200000 or 250000 Rthl, and the Prince would be content with 180000 Rthl. He also gives figures for Hufe payments. Last, he asks the friend to act on the Koltzig/compensation matter, and to be careful with the Cabinets Rath. Nothing here concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Der Schreiber reist unverrichteter Dinge nach Wrocław zurück, weil er vergeblich auf Glenck gewartet hat.",
+    "lines": [
+     3,
+     4,
+     5,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Er klagt, bei Pszczew hätten andere 30000 Rthl am Fürsten gewonnen.",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Der Freund soll Director Stubenrauch zum Kauf von Kamionna bewegen und das Geld bis Johanni beschaffen.",
+    "lines": [
+     12,
+     16,
+     17,
+     18,
+     48,
+     49,
+     50
+    ],
+    "check": "overstated",
+    "why": "Das Geld soll laut Zeilen 49-50 Stubenrauch bis Johanni hergeben, nicht der Freund. Der Freund soll ihn nur dazu bewegen."
+   },
+   {
+    "statement": "Der Schreiber will für 10000 Rthl jährliche Revenue haften.",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Der Fürst wäre mit 180000 Rthl zufrieden.",
+    "lines": [
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Ohne Einstandsgeld zahlten die Unterthanen 50 Rthl pro Hufe jährlich.",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Wegen des Koltziger Entschädigungsgeschäfts mahnt er zur Vorsicht beim Cabinets Rath.",
+    "lines": [
+     51,
+     52,
+     53,
+     54
+    ],
+    "check": "overstated",
+    "why": "Der Brief nennt die 'Koltziger Güter Sache oder' das 'Dedomagirungs Geschäft' als zwei Möglichkeiten und bittet den Freund dort um sein Bestes. Die Mahnung zur Vorsicht beim Cabinets Rath begründet er mit seiner Furcht vor diesem Mann, nicht mit einem zusammengelegten Koltziger Entschädigungsgeschäft."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "sezzi¬",
+    "note": "Probably 'sizzen' (to sit); the word is cut off at the line end."
+   },
+   {
+    "line": 17,
+    "word": "dh Ere",
+    "note": "Probably a garbled 'den Herrn'."
+   },
+   {
+    "line": 17,
+    "word": "Güterkauft",
+    "note": "Probably 'Güter kauft'."
+   },
+   {
+    "line": 26,
+    "word": "gewandts Cap.",
+    "note": "Unclear; perhaps 'gewönne das Capitel'."
+   },
+   {
+    "line": 32,
+    "word": "inle",
+    "note": "Unclear; perhaps 'eile'."
+   },
+   {
+    "line": 45,
+    "word": "Vereine",
+    "note": "Probably 'Revenue' (compare line 19)."
+   },
+   {
+    "line": 49,
+    "word": "Kaufmacht",
+    "note": "Probably 'Kauf macht'."
+   },
+   {
+    "line": 23,
+    "word": "ob",
+    "note": "Probably 'es'."
+   },
+   {
+    "line": 43,
+    "word": "ein en norm",
+    "note": "Probably 'ein enorm'."
+   }
+  ],
+  "read_against": "924d1e94ca4ea4f1"
+ }
 }

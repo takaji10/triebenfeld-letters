@@ -725,5 +725,144 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Auszug aus den Fürstlich Hohenloheschen Liquidationsprotokollen mit 142 Kapitalforderungen, zusammen 17,874 Rthl Gold und 1,414,377 Rthl 7 g 11 d Courant. Zu den größten Forderungen gehören Carl v Stoessel mit 191,000 Rthl, Goldstücker mit 170,000 Rthl, der Stoesselsche Curator mit 169,400 Rthl, Fr. Charlotte von Triebenfeld mit 112,000 Rthl, Kaufmann Koppan in Breslau mit 80,000 Rthl, die v Köckritzschen Erben mit 50,000 Rthl und die v Sobottendorffischen Erben mit 44,200 Rthl. Genannt sind auch Bornstädt, Zerboni und Lombardini."
+ "summary_de": "Auszug aus den Fürstlich Hohenloheschen Liquidationsprotokollen mit 142 Kapitalforderungen, zusammen 17,874 Rthl Gold und 1,414,377 Rthl 7 g 11 d Courant. Zu den größten Forderungen gehören Carl v Stoessel mit 191,000 Rthl, Goldstücker mit 170,000 Rthl, der Stoesselsche Curator mit 169,400 Rthl, Fr. Charlotte von Triebenfeld mit 112,000 Rthl, Kaufmann Koppan in Breslau mit 80,000 Rthl, die v Köckritzschen Erben mit 50,000 Rthl und die v Sobottendorffischen Erben mit 44,200 Rthl. Genannt sind auch Bornstädt, Zerboni und Lombardini.",
+ "reading": {
+  "letter": "303",
+  "legibility": "partly garbled",
+  "notes": "This is not a letter but a table: an extract from the Fürstlich Hohenlohe liquidation protocols listing 142 capital claims, each with its sum in Gold or Courant. The total is 17,874 Rthl Gold and 1,414,377 Rthl 7 g 11 d Courant. Among the largest claims are Carl v Stoessel, Goldstücker, the Stoessel curator, Hein in Breslau, Charlotte von Triebenfeld, Koppan, Barnheim, the Köckritz heirs and the Sobottendorff heirs. Many names are garbled. There is no reference to Trąbczyn. No sender, recipient or date is given.",
+  "claims": [
+   {
+    "statement": "Auszug aus den Liquidationsprotokollen, Kapitalforderungen",
+    "lines": [
+     1,
+     2
+    ]
+   },
+   {
+    "statement": "142 Forderungen, Summe 17,874 Gold und 1,414,377 Rthl 7 g 11 d Courant",
+    "lines": [
+     144,
+     145
+    ]
+   },
+   {
+    "statement": "Carl v Stoessel 191,000 Rthl",
+    "lines": [
+     56
+    ]
+   },
+   {
+    "statement": "Goldstücker 170,000 Rthl",
+    "lines": [
+     28
+    ]
+   },
+   {
+    "statement": "Stoesselscher Curator 169,400 Rthl",
+    "lines": [
+     72
+    ]
+   },
+   {
+    "statement": "Charlotte von Triebenfeld 112,000 Rthl",
+    "lines": [
+     24
+    ]
+   },
+   {
+    "statement": "Koppan 80,000 Rthl",
+    "lines": [
+     118
+    ]
+   },
+   {
+    "statement": "Köckritzsche Erben 50,000 Rthl",
+    "lines": [
+     79
+    ]
+   },
+   {
+    "statement": "Sobottendorffische Erben 44,200 Rthl",
+    "lines": [
+     5
+    ]
+   },
+   {
+    "statement": "Bornstädt, Zerboni, Lombardini genannt",
+    "lines": [
+     10,
+     18,
+     60
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Geheimetzath Strahlen",
+    "note": "The same sum, 2,666 16, appears at line 96 as 'Geheimer Rath Strehn'. Probably Geheimrath; the name is uncertain."
+   },
+   {
+    "line": 83,
+    "word": "Kaufmauer Lampe sehr Con.e.",
+    "note": "Garbled; probably 'Kaufmann Lampe Concurs Masse'."
+   },
+   {
+    "line": 95,
+    "word": "Fraußmann",
+    "note": "Possibly Kaufmann."
+   },
+   {
+    "line": 20,
+    "word": "Herrenmirth",
+    "note": "Possibly Herrenwirth or Gastwirth."
+   },
+   {
+    "line": 6,
+    "word": "Gräfen",
+    "note": "Probably Gräfin."
+   },
+   {
+    "line": 11,
+    "word": "schlossen",
+    "note": "Probably Schlosser."
+   },
+   {
+    "line": 108,
+    "word": "Hertschmer",
+    "note": "Probably Kretschmer."
+   },
+   {
+    "line": 110,
+    "word": "stehender",
+    "note": "Garbled; also at line 111."
+   },
+   {
+    "line": 106,
+    "word": "Baugnur",
+    "note": "Possibly Banquier."
+   },
+   {
+    "line": 123,
+    "word": "Baugerin",
+    "note": "Possibly Banquierin."
+   },
+   {
+    "line": 98,
+    "word": "Frankner",
+    "note": "Possibly Banquier."
+   },
+   {
+    "line": 131,
+    "word": "Glester",
+    "note": "Possibly Glaser."
+   },
+   {
+    "line": 78,
+    "word": "stöpfen",
+    "note": "Garbled; possibly Töpfer."
+   }
+  ],
+  "read_against": "305063ecf987fd8f"
+ }
 }

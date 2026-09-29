@@ -1108,5 +1108,170 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Ein Executions Decret aus Posen verlangte für die Prusimska an 22000 Rthl; in Kalisz gewann er mit Dokumenten von Rapacki Zeit. Bauern hatten angewiesene Gründe verlassen, alte besät und deutsche Colonisten verjagt; er ließ Wortführer mit dem Kantschu schlagen und die Gründe abgrenzen. Die Pachtverträge von Honrichs, v. Zglinski und dem Pächter von Kopojno wurden aufgehoben oder auf ein Jahr verkürzt; Vorwerke sollen zu 600 Rthl je Hufe dismembriert werden. Glenck rede mit einem Pasquill Käufer ab."
+ "summary_de": "Ein Executions Decret aus Posen verlangte für die Prusimska an 22000 Rthl; in Kalisz gewann er mit Dokumenten von Rapacki Zeit. Bauern hatten angewiesene Gründe verlassen, alte besät und deutsche Colonisten verjagt; er ließ Wortführer mit dem Kantschu schlagen und die Gründe abgrenzen. Die Pachtverträge von Honrichs, v. Zglinski und dem Pächter von Kopojno wurden aufgehoben oder auf ein Jahr verkürzt; Vorwerke sollen zu 600 Rthl je Hufe dismembriert werden. Glenck rede mit einem Pasquill Käufer ab.",
+ "reading": {
+  "letter": "191",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince from Trąbczyn after 5 weeks of gall fever. Lists the debts to be paid from the Justizfond (Oppenheimer, Lichnowski, Prusimska etc.). An execution decree from Posen for the Prusimska dowry claim (about 22000 rt); he gained time in Kalisz with Rapacki's documents. In Trąbczyn: tenants claim war losses; peasants left their assigned grounds, took back old ones, drove off German colonists; floggings at Swiątniki, peasants submit, boundaries drawn. Contracts of Honrichs (now one year, 2800 rt at Christmas), Zglinski (gave up) and Kopojno (1 year, 2500 rt) changed; dismemberment at 600 rt/Hufe. Tietz of Drzewce claims a 600 rt pension. Glenck's lampoon scares off buyers; Wrąbczyn Voigtey interest. PS: Tesmar says 360000 rt available.",
+  "claims": [
+   {
+    "statement": "Triebenfeld seit 5 Wochen am Gallenfieber krank",
+    "lines": [
+     4,
+     214,
+     215
+    ]
+   },
+   {
+    "statement": "Executions Decret aus Posen: Prusimska an 22000 Rthl",
+    "lines": [
+     40,
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "In Kalisz mit Dokumenten von Rapacki Zeit gewonnen",
+    "lines": [
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Bauern verließen angewiesene Gründe, besäten alte, verjagten deutsche Colonisten",
+    "lines": [
+     57,
+     59,
+     62,
+     63,
+     64
+    ]
+   },
+   {
+    "statement": "Wortführer mit Kantschu geschlagen, Gründe abgegrenzt",
+    "lines": [
+     149,
+     150,
+     154,
+     169,
+     170,
+     171,
+     172,
+     173
+    ]
+   },
+   {
+    "statement": "Pachtverträge Honrichs, Zglinski, Kopojno aufgehoben bzw. einjährig",
+    "lines": [
+     99,
+     100,
+     179,
+     185,
+     189,
+     190
+    ]
+   },
+   {
+    "statement": "Dismembration zu 600 Rthl je Hufe",
+    "lines": [
+     103,
+     181,
+     182
+    ]
+   },
+   {
+    "statement": "Glenck redet mit Pasquill Käufer ab",
+    "lines": [
+     224,
+     227,
+     233,
+     234
+    ]
+   },
+   {
+    "statement": "Nachschrift: Tesmar meldet 360000 Rthl",
+    "lines": [
+     314,
+     315,
+     316,
+     317
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 38,
+    "word": "Eichaust",
+    "note": "probably Echaust (edition list)"
+   },
+   {
+    "line": 41,
+    "word": "Metzer",
+    "note": "perhaps Metzig"
+   },
+   {
+    "line": 168,
+    "word": "Schanden",
+    "note": "probably Schenck"
+   },
+   {
+    "line": 16,
+    "word": "Secher Thoss[?]",
+    "note": "unclear name"
+   },
+   {
+    "line": 22,
+    "word": "Euch",
+    "note": "probably 'auch'"
+   },
+   {
+    "line": 68,
+    "word": "Massette",
+    "note": "garbled"
+   },
+   {
+    "line": 79,
+    "word": "Rußisch",
+    "note": "garbled in context"
+   },
+   {
+    "line": 122,
+    "word": "Labirath[?]",
+    "note": "Labyrinth"
+   },
+   {
+    "line": 105,
+    "word": "Dummabredt",
+    "note": "garbled"
+   },
+   {
+    "line": 204,
+    "word": "vulimirte",
+    "note": "probably vidimirte"
+   },
+   {
+    "line": 205,
+    "word": "Inachten",
+    "note": "garbled"
+   },
+   {
+    "line": 220,
+    "word": "Weigens",
+    "note": "garbled"
+   },
+   {
+    "line": 280,
+    "word": "Schwedenstrei¬",
+    "note": "garbled"
+   },
+   {
+    "line": 301,
+    "word": "v. H[e?]llen",
+    "note": "uncertain name"
+   }
+  ],
+  "read_against": "60a7c91e4c3c8c95"
+ }
 }

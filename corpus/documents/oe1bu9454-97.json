@@ -216,5 +216,91 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der König wünscht, dass der Fürst über Berlin reist und einige Tage bleibt. Triebenfeld hört, der Tausch solle vor der Ankunft abgeschlossen werden: Laut Obrist v. Zastrow erklärte der König, beide Güter seien so zu prüfen, dass weder Staat noch Fürst verliere; es fehle nur eine öffentliche Cabinets Ordre. Minister v. Voss arbeitete dagegen, Beyme und Köckritz blieben fest. Zum Secularisations Geschäft rät er vorerst zu schweigen. Er bleibt in Berlin, bis die Krotoszyner Sache geregelt ist."
+ "summary_de": "Der König wünscht, dass der Fürst über Berlin reist und einige Tage bleibt. Triebenfeld hört, der Tausch solle vor der Ankunft abgeschlossen werden: Laut Obrist v. Zastrow erklärte der König, beide Güter seien so zu prüfen, dass weder Staat noch Fürst verliere; es fehle nur eine öffentliche Cabinets Ordre. Minister v. Voss arbeitete dagegen, Beyme und Köckritz blieben fest. Zum Secularisations Geschäft rät er vorerst zu schweigen. Er bleibt in Berlin, bis die Krotoszyner Sache geregelt ist.",
+ "reading": {
+  "letter": "97",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Berlin to the Prince, January 1799. King wishes the Prince to come via Berlin for a few days (Zastrow had asked about a route via Dresden). Triebenfeld doubts a 6-month absence from Schlesien would be welcome. Exchange (Tausch) to be settled before arrival; king declared both estates to be examined so neither state nor Prince loses; only a public Cabinets Ordre remains. Voss opposed; Beyme and Köckritz firm. Advises silence on secularisation matters. Glenck delayed ~24h. Triebenfeld stays in Berlin until the Krotoszyn matter is in order. No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Der König wünscht, dass der Fürst über Berlin reist und einige Tage bleibt.",
+    "lines": [
+     4,
+     5,
+     6,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Triebenfeld hört, der Tausch solle vor der Ankunft abgeschlossen werden.",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Laut Zastrow erklärte der König, beide Güter seien so zu prüfen, dass weder Staat noch Fürst verliere; es fehle nur eine öffentliche Cabinets Ordre.",
+    "lines": [
+     19,
+     20,
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Minister v. Voss arbeitete dagegen, Beyme und Köckritz blieben fest.",
+    "lines": [
+     26,
+     27,
+     28,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Zum Secularisations Geschäft rät er vorerst zu schweigen.",
+    "lines": [
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Er bleibt in Berlin, bis die Krotoszyner Sache geregelt ist.",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 21,
+    "word": "bey",
+    "note": "'beider bey Güter' probably a misreading or stray word (beider Güter)."
+   },
+   {
+    "line": 35,
+    "word": "Mutsch",
+    "note": "Not a German word; perhaps 'deutsch' or similar adverb."
+   },
+   {
+    "line": 37,
+    "word": "könt",
+    "note": "Probably 'kommt' (kommt ... nach), context uncertain."
+   },
+   {
+    "line": 40,
+    "word": "an",
+    "note": "'gehe ich an hier nicht ab' garbled."
+   }
+  ],
+  "read_against": "d530369056c64df6"
+ }
 }

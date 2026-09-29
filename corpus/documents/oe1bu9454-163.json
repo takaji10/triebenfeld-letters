@@ -461,5 +461,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Meldet einen Termin in Trąbczyn gegen die Olesnicer, die trotz früherer Protestationen gegen die 10000 Rthl nun einlenken. Otocki will Szetlewek für 10000 Rthl Bestandsgeld und 1500 Rthl Canon in Erbpacht, die Propination beider Güter und 20 bis 30 Hufen wie die Colonisten übernehmen. Honrichs zahlt nicht; nach Aufhebung seines Contracts würde Meierowitz kaufen. Grimm bietet 2000 Rthl für Witów. Szczucki und Czizewski sollen verklagt werden. Der alte Lichnowski bittet um 1390 Rthl."
+ "summary_de": "Meldet einen Termin in Trąbczyn gegen die Olesnicer, die trotz früherer Protestationen gegen die 10000 Rthl nun einlenken. Otocki will Szetlewek für 10000 Rthl Bestandsgeld und 1500 Rthl Canon in Erbpacht, die Propination beider Güter und 20 bis 30 Hufen wie die Colonisten übernehmen. Honrichs zahlt nicht; nach Aufhebung seines Contracts würde Meierowitz kaufen. Grimm bietet 2000 Rthl für Witów. Szczucki und Czizewski sollen verklagt werden. Der alte Lichnowski bittet um 1390 Rthl.",
+ "reading": {
+  "letter": "163",
+  "legibility": "sound",
+  "notes": "Triebenfeld schreibt aus Kalisz an den Fürsten. Die Antwort an die Olesnicer ist zugestellt, morgen ist Termin in Trąbczyn. Otocki will Szetlewek in Erbpacht nehmen und die Propination beider Güter pachten, laut PS außerdem 20 bis 30 Hufen wie die Colonisten. Tietz soll die alten Bauern in Swincin auskaufen. Honrichs zahlt nicht; Meierowitz würde nach Aufhebung von dessen Contract kaufen. Grimm bietet für Witów. Klage gegen Szczucki und Czizewski in der Przespolewskischen Sache. Der alte Lichnowski bittet um 1390 rth. Beschwerde über den Kammer President; Lavoir und Büsten sollen geschickt werden. Das Gallenfieber ist zurück.",
+  "claims": [
+   {
+    "statement": "Termin in Trąbczyn in der Olesnicer Sache",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Olesnicer hatten mit dem Landrath protestiert, um die 10000 Rthl nicht zu zahlen, und lenken nun ein",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Otocki will Szetlewek für 10000 Rthl Bestandsgeld und 1500 Rthl Canon in Erbpacht nehmen",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Otocki will die Propination beider Güter pachten",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Otocki will 20 bis 30 Hufen in Erbpacht nehmen und wie die Colonisten zahlen",
+    "lines": [
+     79,
+     80,
+     81,
+     82
+    ]
+   },
+   {
+    "statement": "Honrichs zahlt nicht; nach Aufhebung des Contracts würde Meierowitz kaufen",
+    "lines": [
+     32,
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Grimm bietet 2000 Rthl für Witów",
+    "lines": [
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Szczucki und Czizewski sollen verklagt werden",
+    "lines": [
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Der alte Lichnowski bittet um 1390 Rthl",
+    "lines": [
+     64
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "bustands",
+    "note": "wohl Bestands (Geld)"
+   },
+   {
+    "line": 53,
+    "word": "Gemein",
+    "note": "unklar, vielleicht 'ich' oder ein Name"
+   },
+   {
+    "line": 56,
+    "word": "gley",
+    "note": "wohl 'gleich'"
+   },
+   {
+    "line": 60,
+    "word": "Massette",
+    "note": "unklar"
+   },
+   {
+    "line": 66,
+    "word": "werde",
+    "note": "grammatisch wohl 'werden'"
+   },
+   {
+    "line": 69,
+    "word": "Besten",
+    "note": "wohl 'Bestie'; auch 'um' für 'und'"
+   },
+   {
+    "line": 80,
+    "word": "Ader",
+    "note": "wohl 'Acker'"
+   },
+   {
+    "line": 84,
+    "word": "weme bei",
+    "note": "verderbt"
+   },
+   {
+    "line": 26,
+    "word": "Swincin",
+    "note": "vielleicht Swięcia; Tietz vielleicht Carl Titz"
+   }
+  ],
+  "read_against": "9600ade0b48e1c63"
+ }
 }

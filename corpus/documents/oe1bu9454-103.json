@@ -440,5 +440,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld verzögert einen Vergleich in der Broniewskischen Sache, weil Rapackis Beweise gegen den Patron sprechen, außer der Krotoszyner Tausch verlange ihn. Den Chełmskischen Prozess gewann er in zweiter Instanz. Gegen den Vorwurf, der Fürst habe zu viele Güter erhalten, verfasst er eine Beschreibung. Die Prusimskischen Güter seien als gekauft anzusehen, weil sie erst gerichtlich zu erstreiten seien. Als Ertrag nennt er Kamionna und Kolno 6000, Trąbczyn 8400, Szetlewek 1600 und Brzyce 4000 Rthl. Glenck soll die Darstellung Prittwitz vorlegen."
+ "summary_de": "Triebenfeld verzögert einen Vergleich in der Broniewskischen Sache, weil Rapackis Beweise gegen den Patron sprechen, außer der Krotoszyner Tausch verlange ihn. Den Chełmskischen Prozess gewann er in zweiter Instanz. Gegen den Vorwurf, der Fürst habe zu viele Güter erhalten, verfasst er eine Beschreibung. Die Prusimskischen Güter seien als gekauft anzusehen, weil sie erst gerichtlich zu erstreiten seien. Als Ertrag nennt er Kamionna und Kolno 6000, Trąbczyn 8400, Szetlewek 1600 und Brzyce 4000 Rthl. Glenck soll die Darstellung Prittwitz vorlegen.",
+ "reading": {
+  "letter": "103",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Breslau about several lawsuits. In the Broniewski case he is holding off a settlement because of the coming court date, Rapacki's proofs, and the planned Krotoszyn exchange. He also covers Schlabrendorff's bill of exchange, the Chełmski lawsuit won on appeal, and the Brzyze and Winicer forest disputes. Most of the letter answers the Minister's claim that the Prince received too many estates. The confiscated Prusimski estates count as bought, not given. He lists yields: Kaemen/Kulm 6000, Trąbczyn 8400, Szetlewek 1600, Brzyze 4000 Rthl. The gifted church estates have 8640 Rthl in revenues plus a surplus of about 14000. He compares these with other grants, and Glenck is to pass this account to Prittwitz.",
+  "claims": [
+   {
+    "statement": "Triebenfeld verzögert einen Vergleich mit Broniewski, weil Rapackis Beweise gegen den Patron sprechen, außer der Krotoszyner Tausch verlange ihn",
+    "lines": [
+     4,
+     6,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Der Brief spricht von der 'Broniewskischen Sache' und vom 'Patron', der sich vergleichen will. Dass der Patron Broniewski selbst ist, sagt der Brief nicht. Der Aufschub, Rapackis Beweise und die Ausnahme für den Krotoszyner Tausch stehen dagegen im Brief (Z. 8-13)."
+   },
+   {
+    "statement": "Den Chełmskischen Prozess gewann er in zweiter Instanz",
+    "lines": [
+     19
+    ]
+   },
+   {
+    "statement": "Gegen den Vorwurf, der Fürst habe zu viele Güter erhalten, verfasst er eine Beschreibung",
+    "lines": [
+     30,
+     31,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Die Prusimskischen Güter seien als gekauft anzusehen, weil sie erst gerichtlich zu erstreiten seien",
+    "lines": [
+     51,
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Ertrag: Kamionna und Kolno 6000, Trąbczyn 8400, Szetlewek 1600, Brzyce 4000 Rthl",
+    "lines": [
+     57,
+     58,
+     59,
+     60,
+     61
+    ]
+   },
+   {
+    "statement": "Glenck soll die Darstellung Prittwitz vorlegen",
+    "lines": [
+     90,
+     91
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 82,
+    "word": "Ruchts",
+    "note": "possibly Rüchel (General Rüchel)"
+   },
+   {
+    "line": 44,
+    "word": "Beukerts",
+    "note": "Kammerrath name uncertain, possibly Bewert"
+   },
+   {
+    "line": 81,
+    "word": "Dolfschen",
+    "note": "name of the estates uncertain"
+   },
+   {
+    "line": 76,
+    "word": "Gepkerr",
+    "note": "garbled, perhaps Gewirr/Geplärr"
+   },
+   {
+    "line": 31,
+    "word": "Zände",
+    "note": "probably Zänkerey"
+   },
+   {
+    "line": 34,
+    "word": "seine",
+    "note": "probably Sinne"
+   },
+   {
+    "line": 48,
+    "word": "sein",
+    "note": "probably Sinn"
+   },
+   {
+    "line": 89,
+    "word": "beharrigen",
+    "note": "probably beherzigen"
+   },
+   {
+    "line": 87,
+    "word": "mir",
+    "note": "probably nur"
+   },
+   {
+    "line": 66,
+    "word": "seren",
+    "note": "garbled"
+   },
+   {
+    "line": 21,
+    "word": "Kordaszewcken",
+    "note": "name uncertain"
+   },
+   {
+    "line": 79,
+    "word": "g[?]",
+    "note": "doubtful"
+   }
+  ],
+  "read_against": "315e82063818773d"
+ }
 }

@@ -317,5 +317,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet dringend um die vergessene Vollmacht für Hof Fiscal Pochammer, um Blanquets und gerichtlich attestierte Blankovollmachten. Ohne sie kann er seit Wochen nichts tun. An Beyme und Minister v. Voss hat er im Namen des Fürsten geschrieben und Pochammer empfohlen. Er will Faudel, Haugwitz und Graf von Keller aufsuchen. Er klagt über den faulen Amelang und über Grattenauer, der Titel und Zeugnisse will und nach dem, was Triebenfeld hört, Justiz Rath werden will, und schlägt eine abweisende Antwort vor."
+ "summary_de": "Triebenfeld bittet dringend um die vergessene Vollmacht für Hof Fiscal Pochammer, um Blanquets und gerichtlich attestierte Blankovollmachten. Ohne sie kann er seit Wochen nichts tun. An Beyme und Minister v. Voss hat er im Namen des Fürsten geschrieben und Pochammer empfohlen. Er will Faudel, Haugwitz und Graf von Keller aufsuchen. Er klagt über den faulen Amelang und über Grattenauer, der Titel und Zeugnisse will und nach dem, was Triebenfeld hört, Justiz Rath werden will, und schlägt eine abweisende Antwort vor.",
+ "reading": {
+  "letter": "182",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Berlin to the Prince, 16 May 1806, in the night. He has received the Prince's letter of the 11th with dispatches for Haugwitz, Faudel and Glenck, but the power of attorney for Hof Fiscal Pochammer and the blank sheets were left out, so he cannot act. He asks for them and for court-attested blank powers of attorney. He has written in the Prince's name to Beyme and Minister v. Voss, recommending Pochammer. He will call on Faudel, Haugwitz and Graf von Keller, who is expected to take the portfolio. He complains about Amelang and Grattenauer, and suggests how the Prince should answer Grattenauer's demands. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Vollmacht für Pochammer und Blanquets vergessen, ohne sie seit Wochen untätig",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "bittet um Vollmacht, Blanquets und gerichtlich attestierte Blankovollmachten",
+    "lines": [
+     15,
+     16,
+     17,
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "an Beyme und Voss im Namen des Fürsten geschrieben, Pochammer empfohlen",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "will Faudel, Haugwitz und Graf von Keller aufsuchen",
+    "lines": [
+     28,
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Klage über den faulen Amelang",
+    "lines": [
+     51,
+     52,
+     53
+    ]
+   },
+   {
+    "statement": "Grattenauer will Titel, Zeugnis, Justiz Rath werden",
+    "lines": [
+     54,
+     55,
+     56,
+     57,
+     65,
+     66,
+     67
+    ],
+    "check": "overstated",
+    "why": "Title and certificate are Triebenfeld's own complaint (lines 55-57). The Justiz Rath wish is only hearsay ('Nun höhre', line 65): Grattenauer reportedly intends to ask the prince for it. The summary states it as fact."
+   },
+   {
+    "statement": "schlägt eine abweisende Antwort an Grattenauer vor",
+    "lines": [
+     70,
+     71,
+     72,
+     73,
+     74,
+     75,
+     76,
+     77,
+     78,
+     79,
+     80,
+     81,
+     82,
+     83,
+     84
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Glagte[?] und Beclage[?]",
+    "note": "garbled, possibly Klage und Beilage"
+   },
+   {
+    "line": 27,
+    "word": "ganz",
+    "note": "a figure for the hour seems to be missing"
+   },
+   {
+    "line": 47,
+    "word": "kennen einzigem",
+    "note": "probably keinen einzigen"
+   },
+   {
+    "line": 48,
+    "word": "Eure Frühle",
+    "note": "garbled, perhaps Ewr Durchlaucht / Fürstl. Hause"
+   },
+   {
+    "line": 58,
+    "word": "erkraus",
+    "note": "garbled, perhaps 'er krank'"
+   },
+   {
+    "line": 71,
+    "word": "ſogerühm",
+    "note": "probably 'so geruhen'"
+   },
+   {
+    "line": 76,
+    "word": "kennen",
+    "note": "probably keinen"
+   }
+  ],
+  "read_against": "4e1f124694fdd118"
+ }
 }

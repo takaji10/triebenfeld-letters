@@ -130,5 +130,99 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wartet dringend auf die erbetenen Vollmachten und Blanquets, ohne die er nichts ausrichten kann. Er fürchtet, die Verzögerung wecke Misstrauen bei den Verhandlungspartnern. Er bittet erneut um eine Vollmacht für Hof Fiscal Pochammer, 2 gerichtlich attestierte Blankovollmachten und einige Blanquets. Gegen die Eingriffe Württembergs in die fürstlichen Staaten verspricht man in Berlin Hilfe, doch er zweifelt an der Aufrichtigkeit. Er will vielleicht nach Öhringen kommen."
+ "summary_de": "Triebenfeld wartet dringend auf die erbetenen Vollmachten und Blanquets, ohne die er nichts ausrichten kann. Er fürchtet, die Verzögerung wecke Misstrauen bei den Verhandlungspartnern. Er bittet erneut um eine Vollmacht für Hof Fiscal Pochammer, 2 gerichtlich attestierte Blankovollmachten und einige Blanquets. Gegen die Eingriffe Württembergs in die fürstlichen Staaten verspricht man in Berlin Hilfe, doch er zweifelt an der Aufrichtigkeit. Er will vielleicht nach Öhringen kommen.",
+ "reading": {
+  "letter": "185",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Berlin to the Prince. He is waiting impatiently for the powers of attorney and blank signed sheets (Blanquets) he asked for, and fears the delay will make the negotiating parties mistrust him. He asks again for a power of attorney for Hof Fiscal Pochammer, 2 court-attested powers in blanco and some Blanquets. On the Württemberg encroachments into the Prince's territories, Berlin promises help but he doubts its sincerity. President v Hähneln told him the Prince still suffers from gout, and he urges a fontanelle. He may come to Öhringen once the business is done. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld wartet dringend auf die erbetenen Vollmachten und Blanquets, ohne die er nichts ausrichten kann.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Er fürchtet, die Verzögerung wecke Misstrauen bei den Verhandlungspartnern.",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Bittet um eine Vollmacht für Hof Fiscal Pochammer, 2 gerichtlich attestierte Blankovollmachten und einige Blanquets.",
+    "lines": [
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Gegen die Eingriffe Württembergs verspricht man in Berlin Hilfe, er zweifelt an der Aufrichtigkeit.",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Von v Hähneln hat er von der Gicht des Fürsten erfahren und rät zu einer Fontanelle.",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Er will vielleicht nach Öhringen kommen.",
+    "lines": [
+     26,
+     27
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "denklichsten",
+    "note": "possibly 'erdenklichsten'"
+   },
+   {
+    "line": 13,
+    "word": "Haßes",
+    "note": "probably 'Hauses' (Württemberg house)"
+   },
+   {
+    "line": 18,
+    "word": "bekann",
+    "note": "probably 'bekannt'"
+   },
+   {
+    "line": 21,
+    "word": "Bau",
+    "note": "probably 'Bein'"
+   },
+   {
+    "line": 22,
+    "word": "lage",
+    "note": "probably 'legen'"
+   },
+   {
+    "line": 27,
+    "word": "fußen",
+    "note": "probably 'Füßen'"
+   }
+  ],
+  "read_against": "92579a4f764ee1d4"
+ }
 }

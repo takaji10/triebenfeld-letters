@@ -178,5 +178,69 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld reicht ein per Estaffette eingegangenes Schreiben Kunckels ein und bittet um Verhaltungsbefehle. Er hält ein Abkommen mit Otocki für nötig; ein gütlicher Vergleich, bei dem Otocki mit 1500 oder 2000 Rthl zufrieden wäre, sei vorteilhaft. Ob Kunckel Vollmacht zum Vergleich erhalten soll, stellt er dem Fürsten anheim. Er fürchtet, dass Kunckel und Jentsch gegeneinander handeln, und rät, beide zu instruieren. Glenck kam nicht mehr, ließ aber die Rechnungen von Konotop zurück, die über alles Aufschluss geben."
+ "summary_de": "Triebenfeld reicht ein per Estaffette eingegangenes Schreiben Kunckels ein und bittet um Verhaltungsbefehle. Er hält ein Abkommen mit Otocki für nötig; ein gütlicher Vergleich, bei dem Otocki mit 1500 oder 2000 Rthl zufrieden wäre, sei vorteilhaft. Ob Kunckel Vollmacht zum Vergleich erhalten soll, stellt er dem Fürsten anheim. Er fürchtet, dass Kunckel und Jentsch gegeneinander handeln, und rät, beide zu instruieren. Glenck kam nicht mehr, ließ aber die Rechnungen von Konotop zurück, die über alles Aufschluss geben.",
+ "reading": {
+  "letter": "123",
+  "legibility": "sound",
+  "notes": "Triebenfeld sends on to the Prince a letter from Kunckel that came by Estaffette and asks for instructions. He advises settling with Otocki and says a friendly settlement at 1500 or 2000 rt would be good. He leaves it to the Prince whether Kunckel should get the power of attorney for the settlement. He fears that Kunckel and Jentsch are working against each other and advises instructing both of them. Glenck did not come back and left the Konotop accounts behind, which explain the whole matter. Nothing in the letter concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld reicht ein per Estaffette eingegangenes Schreiben Kunckels ein und bittet um Verhaltungsbefehle.",
+    "lines": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Er hält ein Abkommen mit Otocki für nötig; ein gütlicher Vergleich, bei dem Otocki mit 1500 oder 2000 Rthl zufrieden wäre, sei vorteilhaft.",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Ob Kunckel Vollmacht zum Vergleich erhalten soll, stellt er dem Fürsten anheim.",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er fürchtet, dass Kunckel und Jentsch gegeneinander handeln, und rät, beide zu instruieren.",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Glenck kam nicht mehr, ließ aber die Rechnungen von Konotop zurück, die über alles Aufschluss geben.",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "lezt",
+    "note": "'dabei lezt einreiche' reads oddly; perhaps a misreading of 'unterthänigst' or of a similar word."
+   },
+   {
+    "line": 7,
+    "word": "wären",
+    "note": "'so wären es eine ... Sache' would need 'wäre'; this may be the writer's own slip."
+   }
+  ],
+  "read_against": "b6afe5ae9cef06be"
+ }
 }

@@ -216,5 +216,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kündigt den Freipass für Hohenlohische Weine an und hofft, die 25000 Rthl bald zu übermachen. Die von Glenck eingetragenen Schulden lasten nicht nur auf Swięcia und Oleśnica, sondern auf allen Ortschaften der Zagórówer Güter, was die Sache erschwert. Nothardt ist gestorben und Goldbeck Präsident in Kalisz; sollten Hindernisse bei der Dismembration eintreten, hofft Triebenfeld, sie in Berlin zu beheben. Bernhardi ließ ihn mit dem Geld im Stich. Voss werde sich gewiss bald zurückziehen. Nothard hinterlässt 28000 Rthl Schulden."
+ "summary_de": "Triebenfeld kündigt den Freipass für Hohenlohische Weine an und hofft, die 25000 Rthl bald zu übermachen. Die von Glenck eingetragenen Schulden lasten nicht nur auf Swięcia und Oleśnica, sondern auf allen Ortschaften der Zagórówer Güter, was die Sache erschwert. Nothardt ist gestorben und Goldbeck Präsident in Kalisz; sollten Hindernisse bei der Dismembration eintreten, hofft Triebenfeld, sie in Berlin zu beheben. Bernhardi ließ ihn mit dem Geld im Stich. Voss werde sich gewiss bald zurückziehen. Nothard hinterlässt 28000 Rthl Schulden.",
+ "reading": {
+  "letter": "152",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Berlin. A free pass for Hohenlohe wines will arrive soon, and he hopes to remit the 25000 rt shortly. The debts Glenck had registered on the Zagórów estates lie on all the villages, not only on Swięcia and Oleśnica. Nothardt has died and Goldbeck is now President at Kalisz. Triebenfeld expects to settle any trouble over the dismembration from Berlin. Bernhardi left him without the money and sent an impertinent letter. There is Berlin gossip: Voss's fête, a prince's christening, and Voss's certain retirement. Nothard leaves 28000 rt of debts. The letter does not mention Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Freipass für Hohenlohische Weine kommt bald",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "hofft, die 25000 Rthl bald zu übermachen",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Glencks Schulden auf allen Ortschaften der Zagórówer Güter, nicht nur Swięcia und Oleśnica; erschwert die Sache",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Nothardt gestorben, Goldbeck Präsident in Kalisz",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "will Hindernisse bei der Dismembration in Berlin beheben",
+    "lines": [
+     12,
+     13,
+     14
+    ],
+    "check": "overstated",
+    "why": "Z. 12-14 sind nur bedingt und als Hoffnung formuliert: Falls Widerwärtigkeiten eintreten sollten, hofft er, sie hier schnell zu besorgen. Eine feste Absicht steht dort nicht."
+   },
+   {
+    "statement": "Bernhardi ließ ihn mit dem Geld im Stich",
+    "lines": [
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Voss werde sich gewiss bald zurückziehen",
+    "lines": [
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Nothard hinterlässt 28000 Rthl Schulden",
+    "lines": [
+     31
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 19,
+    "word": "Woche",
+    "note": "'aus Woche' makes no sense; probably misread"
+   },
+   {
+    "line": 21,
+    "word": "Herzig",
+    "note": "possibly 'herzhaft'"
+   },
+   {
+    "line": 23,
+    "word": "um",
+    "note": "probably 'und' ('und wann')"
+   },
+   {
+    "line": 27,
+    "word": "grauung",
+    "note": "garbled word before 'große fête'"
+   },
+   {
+    "line": 29,
+    "word": "er",
+    "note": "probably 'en bon ordre'"
+   },
+   {
+    "line": 31,
+    "word": "Nothard",
+    "note": "written 'Nothardt' on line 11; which spelling is right is unclear"
+   }
+  ],
+  "read_against": "f5d25cce056dce2d"
+ }
 }

@@ -275,5 +275,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Ein neuer Befehl des General Finanz Departements verbietet den Kammern Revisionen gerichtlicher Taxen ohne dessen Vorwissen. Triebenfeld führt ihn auf Prinz George und Krieges Rath Korn zurück. Er hofft auf die Erlaubnis, die Präsident v Goldbeck beantragt hat und die Amelang in Berlin betreiben soll. Er will die Dismembrationspläne einreichen. Der Fürst soll für Goldbeck drei Büsten und ein Lavoir kaufen und schicken. Die Olesnicer Sache ist durch Hussarzewski an das Patrimonialgericht zurückgegangen."
+ "summary_de": "Ein neuer Befehl des General Finanz Departements verbietet den Kammern Revisionen gerichtlicher Taxen ohne dessen Vorwissen. Triebenfeld führt ihn auf Prinz George und Krieges Rath Korn zurück. Er hofft auf die Erlaubnis, die Präsident v Goldbeck beantragt hat und die Amelang in Berlin betreiben soll. Er will die Dismembrationspläne einreichen. Der Fürst soll für Goldbeck drei Büsten und ein Lavoir kaufen und schicken. Die Olesnicer Sache ist durch Hussarzewski an das Patrimonialgericht zurückgegangen.",
+ "reading": {
+  "letter": "162",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Kalisz to the Prince. A new order from the General Finanz Departement stops the chambers from revising court valuations (Taxen) without its approval. He blames Prinz George and Krieges Rath Korn, who was to revise valuations he had made himself. President v Goldbeck has asked Berlin for permission; Triebenfeld sent this by Estaffette and asked Amelang to push it. Meanwhile he will submit the dismemberment plans. Goldbeck reproached him about the Starostey Strehlitz; they made it up. Goldbeck wants three busts and a Lavoir, which the Prince is asked to buy and send. Through Hussarzewski the Oleśnica matter has gone back to the Patrimonial Gericht. He will calm Lichnowski.",
+  "claims": [
+   {
+    "statement": "Ein neuer Befehl des General Finanz Departements verbietet den Kammern Revisionen gerichtlicher Taxen ohne dessen Vorwissen.",
+    "lines": [
+     4,
+     5,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Triebenfeld führt ihn auf Prinz George und Krieges Rath Korn zurück.",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     14
+    ]
+   },
+   {
+    "statement": "Er hofft auf die Erlaubnis, die Präsident v Goldbeck beantragt hat und die Amelang in Berlin betreiben soll.",
+    "lines": [
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     57
+    ]
+   },
+   {
+    "statement": "Er will die Dismembrationspläne einreichen.",
+    "lines": [
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Der Fürst soll für Goldbeck drei Büsten und ein Lavoir kaufen und schicken.",
+    "lines": [
+     42,
+     44,
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "statement": "Die Olesnicer Sache ist durch Hussarzewski an das Patrimonialgericht zurückgegangen.",
+    "lines": [
+     51,
+     52,
+     53
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 36,
+    "word": "Bau",
+    "note": "Garbled word. From the context it probably means something like 'unfriendly' or 'cool'."
+   },
+   {
+    "line": 38,
+    "word": "Dolfs",
+    "note": "Possibly a misread name, perhaps Ludolff."
+   },
+   {
+    "line": 15,
+    "word": "Abord",
+    "note": "Unclear word, perhaps a misreading."
+   },
+   {
+    "line": 29,
+    "word": "helfe",
+    "note": "Probably 'helfen'."
+   },
+   {
+    "line": 50,
+    "word": "überaschun",
+    "note": "Probably 'überraschen'."
+   },
+   {
+    "line": 61,
+    "word": "bei",
+    "note": "Probably 'bin'."
+   },
+   {
+    "line": 62,
+    "word": "Hochachtung",
+    "note": "The edition's closing formula is 'In tiefster Ehrfurcht ersterbe', but the writer's own wording varies, so this is not corrected."
+   },
+   {
+    "line": 64,
+    "word": "franzirte",
+    "note": "Probably 'bronzirte', compare 'branzirte' on line 42."
+   },
+   {
+    "line": 42,
+    "word": "branzirte",
+    "note": "Probably 'bronzirte'."
+   }
+  ],
+  "read_against": "fdeb52700dcd6e8d"
+ }
 }

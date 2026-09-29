@@ -317,5 +317,106 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld übersendet sein Schreiben an den Staatskanzler, das Hoffrath Barbe mit der Kircheisenschen Korrespondenz überreicht hat. Die Sache liegt nun bei Stägemann. Um Trąbczyn fürchtet er, falls der Kreis an Russland fällt. Hardenberg sage, der Fürst müsse sonst entschädigt werden. Eine Erlaubnis, sich wegen Trąbczyn an russische Behörden zu wenden, hat er noch nicht. Er will Cosmars Sturz und die Administration der Majoratsgüter betreiben und erwartet die Antwort des Grafen Pourtalès."
+ "summary_de": "Triebenfeld übersendet sein Schreiben an den Staatskanzler, das Hoffrath Barbe mit der Kircheisenschen Korrespondenz überreicht hat. Die Sache liegt nun bei Stägemann. Um Trąbczyn fürchtet er, falls der Kreis an Russland fällt. Hardenberg sage, der Fürst müsse sonst entschädigt werden. Eine Erlaubnis, sich wegen Trąbczyn an russische Behörden zu wenden, hat er noch nicht. Er will Cosmars Sturz und die Administration der Majoratsgüter betreiben und erwartet die Antwort des Grafen Pourtalès.",
+ "reading": {
+  "letter": "269",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld reports from Vienna to the Prince. He sends a copy of what he wrote to the Staats Kanzler when handing over the Kircheisen correspondence. Hoffrath Barbe delivered it and the matter now lies with Stägemann. Barbe regards Cosmar's fall and the loan as settled. Triebenfeld fears for Trąbczyn if the district goes to Russia. Hardenberg is reported as saying the Prince must then be compensated. He has no permission yet to approach Russian authorities. The letter also covers Constantin's conscription in Poland, war talk, the departures of monarchs, Cosmar and the administration of the entailed estates, waiting for Pourtalès, and the cabals of Metternich and Talleyrand. Several words are garbled.",
+  "claims": [
+   {
+    "statement": "Triebenfeld übersendet sein Schreiben an den Staatskanzler zur Kircheisenschen Korrespondenz",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Hoffrath Barbe hat es überreicht",
+    "lines": [
+     7
+    ]
+   },
+   {
+    "statement": "Die Sache liegt nun bei Stägemann",
+    "lines": [
+     9
+    ]
+   },
+   {
+    "statement": "Er fürchtet um Trąbczyn, falls der Kreis an Russland fällt",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Hardenberg sagt, der Fürst müsse sonst entschädigt werden",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Er hat noch keine Erlaubnis, sich wegen Trąbczyn an russische Behörden zu wenden",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Er will Cosmars Sturz und die Administration der Majoratsgüter betreiben",
+    "lines": [
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Er erwartet die Antwort des Grafen Pourtalès",
+    "lines": [
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Fr",
+    "note": "probably Sr (Durchlaucht)"
+   },
+   {
+    "line": 10,
+    "word": "Zeitwurf",
+    "note": "garbled word"
+   },
+   {
+    "line": 16,
+    "word": "Last",
+    "note": "probably läßt"
+   },
+   {
+    "line": 24,
+    "word": "könt",
+    "note": "probably kömt"
+   },
+   {
+    "line": 38,
+    "word": "Lerm",
+    "note": "garbled; sentence unclear"
+   },
+   {
+    "line": 38,
+    "word": "auß,",
+    "note": "probably muß"
+   },
+   {
+    "line": 20,
+    "word": "würden",
+    "note": "the verb seems to be missing (e.g. sprechen)"
+   }
+  ],
+  "read_against": "b10ed1035e37c18c"
+ }
 }

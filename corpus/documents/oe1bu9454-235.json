@@ -192,5 +192,88 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, der alte Weigel wolle den Pachtvertrag schließen und sei auf seinen Rat nicht abgeneigt, die Zagorower Güter zu kaufen: Er übernehme die Schulden und zahle 200000 Rthl zu, die er auf Koszęcin anrechnen wolle. Weigel rät, die Sache geheim zu halten und Koszęcin versteigern zu lassen. Er würde es per Revers dem Fürsten abtreten und glaubt, es sei unter 600000 Rthl zu erhalten. Triebenfeld bittet um geheime Weisung und um eilige Zusendung der Papiere."
+ "summary_de": "Triebenfeld meldet, der alte Weigel wolle den Pachtvertrag schließen und sei auf seinen Rat nicht abgeneigt, die Zagorower Güter zu kaufen: Er übernehme die Schulden und zahle 200000 Rthl zu, die er auf Koszęcin anrechnen wolle. Weigel rät, die Sache geheim zu halten und Koszęcin versteigern zu lassen. Er würde es per Revers dem Fürsten abtreten und glaubt, es sei unter 600000 Rthl zu erhalten. Triebenfeld bittet um geheime Weisung und um eilige Zusendung der Papiere.",
+ "reading": {
+  "letter": "235",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Blizanow to the Prince. His messenger was held up. Old Weigel has arrived. He will sign the lease contract and, on Triebenfeld's advice, would buy the Zagorower Güter: he takes over the debts and pays 200000 rth on top, to be set against Koschentin. He advises keeping this secret and letting Koschentin go to forced auction. He would bid as creditor, hoping to get it below the valuation, and would give a written undertaking (Revers) to hand it to the Prince. He thinks it could be had for under 600000 rt. Triebenfeld asks for secret instructions and for the papers urgently. Nothing here concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Weigel will den Pachtvertrag schließen und auf Triebenfelds Rat die Zagorower Güter kaufen",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "check": "overstated",
+    "why": "Zum Pachtvertrag hat er laut Brief 'den besten Willen'. Beim Kauf heißt es nur, er sei auf Triebenfelds Rat 'nicht abgeneigt' (Z. 10-12). Einen festen Kaufwillen nennt der Brief nicht."
+   },
+   {
+    "statement": "übernimmt die Schulden, zahlt 200000 Rthl zu, auf Koszęcin anzurechnen",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "rät Geheimhaltung und Versteigerung von Koszęcin",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "würde Koszęcin per Revers abtreten; glaubt, unter 600000 Rthl erhältlich",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "bittet um geheime Weisung und eilige Zusendung der Papiere",
+    "lines": [
+     28,
+     29,
+     31,
+     32
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 19,
+    "word": "alt",
+    "note": "probably 'als' (mehr als zu arg)"
+   },
+   {
+    "line": 20,
+    "word": "legagirt",
+    "note": "probably 'engagirt'; 'können' perhaps 'einen'"
+   },
+   {
+    "line": 18,
+    "word": "unß",
+    "note": "garbled passage; 'den' perhaps 'denn'"
+   },
+   {
+    "line": 35,
+    "word": "muß",
+    "note": "probably 'nützt'"
+   },
+   {
+    "line": 16,
+    "word": "den",
+    "note": "possibly 'dann/denn'; sense unclear"
+   }
+  ],
+  "read_against": "aa7526198320373d"
+ }
 }

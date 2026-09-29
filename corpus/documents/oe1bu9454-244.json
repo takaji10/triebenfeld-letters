@@ -267,5 +267,96 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Berichtet vom Wiener Kongress: Der Kayser, der König und Großfürst Constantin erhielten österreichische Regimenter. Reichsfürsten und Stände baten Metternich, den Kaiser von Österreich wieder als Oberhaupt einzusetzen. Über Polen ist nichts bestimmt, Humboldt wirkt bestens. Triebenfeld verbürgt dem Fürsten ein ruhiges Leben in Sławięcice, erwartet dringend dessen Schreiben und fragt, ob jemand wegen Cosmar und des Transacts von 1811 nach Brzeg gesandt werden soll."
+ "summary_de": "Berichtet vom Wiener Kongress: Der Kayser, der König und Großfürst Constantin erhielten österreichische Regimenter. Reichsfürsten und Stände baten Metternich, den Kaiser von Österreich wieder als Oberhaupt einzusetzen. Über Polen ist nichts bestimmt, Humboldt wirkt bestens. Triebenfeld verbürgt dem Fürsten ein ruhiges Leben in Sławięcice, erwartet dringend dessen Schreiben und fragt, ob jemand wegen Cosmar und des Transacts von 1811 nach Brzeg gesandt werden soll.",
+ "reading": {
+  "letter": "244",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna during the Congress: manoeuvre, monarchs receiving Austrian regiments, King of Württemberg, deputation of Reichsfürsten to Metternich, Saxony, Poland undecided, Humboldt working for it; assures Prince of a quiet life in Schlawenschitz (Sławięcice) and his enemy's fall; Gärtner ill; awaits Prince's letter. Garbled final part: Hardenberg report on Cosmar, Brieg Oberlandesgericht, 1811 Transact; asks whether someone should be sent to Brieg. No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Beim großen Manöver erhielten Kayser, König und Großfürst Constantin Regimenter der österreichischen Armee",
+    "lines": [
+     4,
+     7,
+     8
+    ],
+    "check": "overstated",
+    "why": "Der Brief sagt, dass sie Regimenter in der österreichischen Armee erhalten haben und diese beim Manöver vorgeführt haben. Dass sie die Regimenter beim Manöver erhielten, steht dort nicht."
+   },
+   {
+    "statement": "Reichsfürsten und Stände baten Metternich, den Kaiser von Österreich wieder als Oberhaupt einzusetzen",
+    "lines": [
+     27,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Über Polen ist nichts bestimmt, Humboldt wirkt bestens",
+    "lines": [
+     37,
+     39
+    ]
+   },
+   {
+    "statement": "verbürgt dem Fürsten ein ruhiges Leben in Sławięcice",
+    "lines": [
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "erwartet dringend ein Schreiben des Fürsten",
+    "lines": [
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "fragt, ob jemand wegen Cosmar und des Transacts von 1811 zum Brieger Ober Landes Gericht gesandt werden soll",
+    "lines": [
+     52,
+     53,
+     54,
+     55
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 58,
+    "word": "Verehrung",
+    "note": "closing formula normally 'In tiefster Ehrfurcht ersterbe'; writer may vary, not changed"
+   },
+   {
+    "line": 28,
+    "word": "Fur:",
+    "note": "probably 'Fürst' (cf. line 32), possibly writer's abbreviation"
+   },
+   {
+    "line": 48,
+    "word": "Fägelnitzet",
+    "note": "not German; unclear"
+   },
+   {
+    "line": 37,
+    "word": "Binderste",
+    "note": "garbled, perhaps 'sicherste'"
+   },
+   {
+    "line": 22,
+    "word": "büsdenkende",
+    "note": "lines 22-23 heavily garbled"
+   },
+   {
+    "line": 54,
+    "word": "forderheit",
+    "note": "perhaps 'sonderheit'/'besonderheit'"
+   }
+  ],
+  "read_against": "504aaff18279abff"
+ }
 }

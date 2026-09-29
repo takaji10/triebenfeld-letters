@@ -853,5 +853,138 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Abschriften zu einem Entschuldungsplan für Zagórów und Trąbczyn: Kammerübersicht mit reinem Jahresertrag von 40260 Rthl, darunter Honrichs für Vorwerk Trąbczyn 3000 Rthl und Radzinski auf Szetlewek 1500 Rthl; Passiva des Fürsten von 698784 Rthl, darunter Lichnowski auf Trąbczyn 42000 Rthl und eine Protestation der Prusimska 8333 Rthl; Eingabeentwurf v. Triebenfelds an den König um 698000 Rthl in Tresorscheinen mit Amortisationsfonds von 34000 Rthl jährlich, unter Hinweis auf 16 neue Dörfer und 500 Familien."
+ "summary_de": "Abschriften zu einem Entschuldungsplan für Zagórów und Trąbczyn: Kammerübersicht mit reinem Jahresertrag von 40260 Rthl, darunter Honrichs für Vorwerk Trąbczyn 3000 Rthl und Radzinski auf Szetlewek 1500 Rthl; Passiva des Fürsten von 698784 Rthl, darunter Lichnowski auf Trąbczyn 42000 Rthl und eine Protestation der Prusimska 8333 Rthl; Eingabeentwurf v. Triebenfelds an den König um 698000 Rthl in Tresorscheinen mit Amortisationsfonds von 34000 Rthl jährlich, unter Hinweis auf 16 neue Dörfer und 500 Familien.",
+ "reading": {
+  "letter": "179a",
+  "legibility": "sound",
+  "notes": "Group of copied enclosures (179a) about a debt-relief plan for Zagórów and Trąbczyn. A: summary of revenues from the Kalisz Kammer (Kalisz, 28 March 1806; Mencke, v Hellen), net 40260 rthl 14 g 11 d. B: list of the Prince of Hohenlohe's debts, total 698784 rt including the Courland debt. C: draft memorial to the King (Berlin, 25 April 1806), signed v Triebenfeld, asking for 698000 rt in Tresorscheine secured on the estates, with an amortisation fund of 34000 Rthl a year. D: amortisation plan. Then a fragment of a power of attorney. Sender and recipient are given as not identified; only the signature on the memorial names Triebenfeld.",
+  "claims": [
+   {
+    "statement": "Kammerübersicht der Revenuen von Zagórów und Trąbczyn, reiner Ertrag 40260 Rthl",
+    "lines": [
+     4,
+     5,
+     6,
+     22,
+     25
+    ]
+   },
+   {
+    "statement": "Honrichs pachtet Vorwerk Trąbczyn für 3000 Rthl",
+    "lines": [
+     14
+    ]
+   },
+   {
+    "statement": "Radzinski auf Szetlewek 1500 Rthl Erbpachts Canon",
+    "lines": [
+     10,
+     12
+    ]
+   },
+   {
+    "statement": "Passiva des Fürsten insgesamt 698784 Rthl",
+    "lines": [
+     36,
+     52,
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "Lichnowski auf Trąbczyn 42000 Rthl",
+    "lines": [
+     45
+    ]
+   },
+   {
+    "statement": "Protestation für die Prusimska 8333 Rthl",
+    "lines": [
+     49
+    ]
+   },
+   {
+    "statement": "Entwurf einer Eingabe an den König, gezeichnet v Triebenfeld, um 698000 Rthl in Tresorscheinen auf die Güter",
+    "lines": [
+     57,
+     86,
+     87,
+     125
+    ]
+   },
+   {
+    "statement": "Amortisationsfonds 34000 Rthl jährlich",
+    "lines": [
+     93,
+     94,
+     95
+    ]
+   },
+   {
+    "statement": "16 neue Dörfer und 500 Familien",
+    "lines": [
+     78
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "erwarten",
+    "note": "probably 'eruirten' (cf. 'eruirt', line 28)"
+   },
+   {
+    "line": 18,
+    "word": "Tietz",
+    "note": "possibly Titz (Carl Titz)"
+   },
+   {
+    "line": 70,
+    "word": "Weich",
+    "note": "probably 'Reich'"
+   },
+   {
+    "line": 77,
+    "word": "der oder in",
+    "note": "probably 'Dero Krieges und'"
+   },
+   {
+    "line": 98,
+    "word": "Eidei kommt",
+    "note": "probably 'Fidei Commiss'"
+   },
+   {
+    "line": 100,
+    "word": "zweckken",
+    "note": "probably 'abzwecken'"
+   },
+   {
+    "line": 123,
+    "word": "E. P. M.",
+    "note": "probably 'E. K. M.'"
+   },
+   {
+    "line": 133,
+    "word": "greipllig",
+    "note": "garbled"
+   },
+   {
+    "line": 140,
+    "word": "er geechtlich",
+    "note": "probably 'gerichtlich'"
+   },
+   {
+    "line": 142,
+    "word": "Geflußs",
+    "note": "garbled, perhaps 'Geschäfts'"
+   },
+   {
+    "line": 136,
+    "word": "Sliedt[?]",
+    "note": "perhaps 'schiedsrichterlichen'"
+   }
+  ],
+  "read_against": "55965ec67f30c885"
+ }
 }

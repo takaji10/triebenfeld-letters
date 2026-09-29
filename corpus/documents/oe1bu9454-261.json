@@ -256,5 +256,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet die feste Zusage zur Wiedererhaltung der polnischen Güter. Für die Trąbczyner Güter soll er eine Berechnung bereithalten, die Schadensberechnung für Kamionna möge Leixner vortragen. Alles hänge von der Erklärung des Fürsten und dem Bericht des Oberlandesgerichts Brzeg ab, die mit seiner Eingabe übereinstimmen müssten. Dann kämen 112000 Rthl zur Bezahlung der Curischen, und Cosmar wäre gestürzt. Er bittet, Hahn wirken zu lassen, und sendet ein Vollmachtsformular für v. Göschel. Laut Gärtner steht die Hohenlohische Sache sehr gut."
+ "summary_de": "Triebenfeld meldet die feste Zusage zur Wiedererhaltung der polnischen Güter. Für die Trąbczyner Güter soll er eine Berechnung bereithalten, die Schadensberechnung für Kamionna möge Leixner vortragen. Alles hänge von der Erklärung des Fürsten und dem Bericht des Oberlandesgerichts Brzeg ab, die mit seiner Eingabe übereinstimmen müssten. Dann kämen 112000 Rthl zur Bezahlung der Curischen, und Cosmar wäre gestürzt. Er bittet, Hahn wirken zu lassen, und sendet ein Vollmachtsformular für v. Göschel. Laut Gärtner steht die Hohenlohische Sache sehr gut.",
+ "reading": {
+  "letter": "261",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Wien schreibt an Fürst Friedrich Ludwig. Es gibt eine feste Zusage, dass die polnischen Güter zurückgegeben werden. Für die Trąbczyner Güter soll er eine Berechnung bereithalten. Die Schadensrechnung für Kamionna soll Leixner vortragen. Alles hängt jetzt an der Erklärung des Fürsten und am Bericht des Oberlandesgerichts Brieg. Beide müssen mit Triebenfelds Eingabe übereinstimmen. Dann gäbe es 112000 rt für die Curischen, Cosmar wäre gestürzt und die Transacte und Codizille wären aufgehoben. Der Fürst soll Hahn wirken lassen und Eberhards Rat annehmen. Beigelegt ist ein Vollmachtsformular für Göschel. In der Nachschrift: Triebenfeld hat Schulden, ein Missverständnis mit dem Tambour um die Pferde, und er zitiert Gärtner, wonach die Hohenlohische Sache sehr gut steht.",
+  "claims": [
+   {
+    "statement": "Feste Zusage zur Wiedererhaltung der polnischen Güter",
+    "lines": [
+     4
+    ]
+   },
+   {
+    "statement": "Berechnung für die Trąbczyner Güter bereithalten",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Schadensberechnung für Kamionna soll Leixner vortragen",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Alles hängt von der Erklärung des Fürsten und dem Bericht des Oberlandesgerichts Brzeg ab, die mit seiner Eingabe übereinstimmen müssen",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Dann 112000 Rthl zur Bezahlung der Curischen, Cosmar gestürzt",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Bittet, Hahn wirken zu lassen",
+    "lines": [
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Sendet Vollmachtsformular für v. Göschel",
+    "lines": [
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Laut Gärtner steht die Hohenlohische Sache sehr gut",
+    "lines": [
+     53,
+     54
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "nun nun",
+    "note": "Wort doppelt geschrieben"
+   },
+   {
+    "line": 11,
+    "word": "sowehr ... wohn",
+    "note": "entstellt, vermutlich 'um so mehr als ich noch nicht weiß wohin'"
+   },
+   {
+    "line": 12,
+    "word": "weit",
+    "note": "wohl 'nimmt'"
+   },
+   {
+    "line": 29,
+    "word": "Zustel.",
+    "note": "wohl 'Justiz'"
+   },
+   {
+    "line": 30,
+    "word": "spazern",
+    "note": "wohl 'speien'"
+   },
+   {
+    "line": 33,
+    "word": "Witter",
+    "note": "wohl 'Ritter'"
+   },
+   {
+    "line": 33,
+    "word": "sieht",
+    "note": "wohl 'sie'"
+   },
+   {
+    "line": 37,
+    "word": "verdenken",
+    "note": "entstellt"
+   },
+   {
+    "line": 49,
+    "word": "Laren",
+    "note": "wohl 'Lärm'"
+   },
+   {
+    "line": 50,
+    "word": "Bestim nur von hier laß sei",
+    "note": "entstellt"
+   },
+   {
+    "line": 57,
+    "word": "Explorien",
+    "note": "wohl 'Explosion'; 'Minor' wohl 'Memoire'"
+   },
+   {
+    "line": 58,
+    "word": "Argen",
+    "note": "wohl 'Ärger'"
+   }
+  ],
+  "read_against": "5e8adf6e913eb976"
+ }
 }

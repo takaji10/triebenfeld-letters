@@ -108,5 +108,78 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Berichtet über ein Pasquill mit dem Titel „Preußischer Charaktüre“, das den Fürsten scharf angreift und auch Triebenfeld nennt. Darin heißt es, der Fürst brauche viel Geld und Triebenfeld bereichere sich an dessen Sachen, ein intriganter Mensch, der sich vom Bedienten emporgearbeitet habe. Das Buch wollte er mitschicken, die französische Behörde ließ es aber konfiszieren. Als Verfasser gelten Obrist Massenbach und ein hiesiger Professor. Auch Köckritz wird darin angegriffen."
+ "summary_de": "Berichtet über ein Pasquill mit dem Titel „Preußischer Charaktüre“, das den Fürsten scharf angreift und auch Triebenfeld nennt. Darin heißt es, der Fürst brauche viel Geld und Triebenfeld bereichere sich an dessen Sachen, ein intriganter Mensch, der sich vom Bedienten emporgearbeitet habe. Das Buch wollte er mitschicken, die französische Behörde ließ es aber konfiszieren. Als Verfasser gelten Obrist Massenbach und ein hiesiger Professor. Auch Köckritz wird darin angegriffen.",
+ "reading": {
+  "letter": "183",
+  "legibility": "partly garbled",
+  "notes": "Short fragment or postscript (no address, no closing) from Triebenfeld to the Prince. A pamphlet \"Preußischer Charaktüre\" has appeared, attacking the Prince and Triebenfeld. It claims the Prince needs a lot of money and that Triebenfeld uses the Prince's business to get rich, an intriguer who rose from servant. The French authority confiscated the book Triebenfeld meant to send. The author is said to be Colonel Massenbach and/or a local professor (\"Buch holz\"). A gapped passage offers Massenbach his pistols if his authorship is proven. Köckritz is also attacked. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Pasquill 'Preußischer Charaktüre' greift den Fürsten an und nennt Triebenfeld",
+    "lines": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Behauptung: Fürst braucht viel Geld, Triebenfeld bereichert sich, intrigant, vom Bedienten emporgearbeitet",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Buch sollte mitgeschickt werden, französische Behörde ließ es konfiszieren",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Als Verfasser gelten Obrist Massenbach und ein hiesiger Professor",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Köckritz wird ebenfalls angegriffen",
+    "lines": [
+     15
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Geschäfts von",
+    "note": "probably 'Geschäftsmann'"
+   },
+   {
+    "line": 8,
+    "word": "Edellung",
+    "note": "probably 'Edelmann'"
+   },
+   {
+    "line": 12,
+    "word": "um",
+    "note": "probably 'und' (or 'oder')"
+   },
+   {
+    "line": 12,
+    "word": "Buch holz",
+    "note": "probably the name Buchholz written as one word"
+   },
+   {
+    "line": 13,
+    "word": "Es erst",
+    "note": "probably 'Ist es erst'; there is a gap before it"
+   }
+  ],
+  "read_against": "b474694a33086abd"
+ }
 }

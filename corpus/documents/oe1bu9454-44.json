@@ -260,5 +260,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Lahrsche Prozeß hält Triebenfeld zurück: Lahr erhält laut dem von Amelang mitgeteilten Erkenntnis noch 3000 Rthl nebst Zinsen, muss aber Papiere nehmen. Coste hat er die 9000 Rthl zurückgewährt und 450 Rthl Zinsen gezahlt; er benötigt 2068 Rthl. Laut Befehl des französischen Gouvernements sind diese Gelder aus den Gütern von Zagórów zu erstatten. Michaelis will die 2068 Rthl berichtigen, wenn der Fürst ihm bis Mai 600 Centner Eisen zu 4 Rthl frei Opole liefert."
+ "summary_de": "Der Lahrsche Prozeß hält Triebenfeld zurück: Lahr erhält laut dem von Amelang mitgeteilten Erkenntnis noch 3000 Rthl nebst Zinsen, muss aber Papiere nehmen. Coste hat er die 9000 Rthl zurückgewährt und 450 Rthl Zinsen gezahlt; er benötigt 2068 Rthl. Laut Befehl des französischen Gouvernements sind diese Gelder aus den Gütern von Zagórów zu erstatten. Michaelis will die 2068 Rthl berichtigen, wenn der Fürst ihm bis Mai 600 Centner Eisen zu 4 Rthl frei Opole liefert.",
+ "reading": {
+  "letter": "44",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to Prince Hohenlohe, 3 Feb 1809. The Lahr lawsuit keeps him where he is. The judgment Amelang reported gives Lahr 3000 rt plus interest, but Lahr has to take papers; Triebenfeld's pledged obligations must be redeemed. He has returned to Coste the 9000 rt deposited against Lahr's 5000 rt, paid 450 rt interest and 118 rt to the bookkeeper and the broker Oldekopp, and comes to 2068 rt. He says the French Gouvernement ordered this money repaid from the Zagórów estates. Michaelis offers to settle the 2068 rt if the Prince delivers 600 Centner of iron at 4 rt free to Opole by May. Triebenfeld also asks for 932 rt in outlays (521 for the Oppenheimer suit and messengers, 411 for the gendarmerie).",
+  "claims": [
+   {
+    "statement": "Der Lahrsche Prozeß hält Triebenfeld zurück",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Lahr erhält laut dem von Amelang mitgeteilten Erkenntnis noch 3000 Rthl nebst Zinsen, muss aber Papiere nehmen",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Coste 9000 Rthl zurückgewährt und 450 Rthl Zinsen gezahlt",
+    "lines": [
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "benötigt 2068 Rthl",
+    "lines": [
+     22,
+     23,
+     29
+    ]
+   },
+   {
+    "statement": "Französisches Gouvernement befahl Erstattung dieser Gelder aus den Zagorower Gütern",
+    "lines": [
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Michaelis will die 2068 Rthl berichtigen gegen 600 Centner Eisen zu 4 Rthl bis Mai, frei Oppeln",
+    "lines": [
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "bittet um Zusage der 600 Centner Eisen und um 932 Rthl Auslagen",
+    "lines": [
+     40,
+     41,
+     43,
+     44,
+     45,
+     46,
+     48,
+     49
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 27,
+    "word": "Man vorzüglichster Cammer",
+    "note": "probably 'Mein vorzüglichster Kummer'"
+   },
+   {
+    "line": 26,
+    "word": "remboeshen",
+    "note": "garbled; probably 'rembourßiren'"
+   },
+   {
+    "line": 47,
+    "word": "Fleckrühren",
+    "note": "probably 'Fleck rühren'"
+   },
+   {
+    "line": 48,
+    "word": "unterlich",
+    "note": "garbled; possibly 'nämlich'"
+   },
+   {
+    "line": 46,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 17,
+    "word": "Coste",
+    "note": "name uncertain"
+   }
+  ],
+  "read_against": "b4b0bcda9e013a76"
+ }
 }

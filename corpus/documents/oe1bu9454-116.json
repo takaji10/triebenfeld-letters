@@ -165,5 +165,101 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kann krankheitshalber nicht persönlich Befehle zum Güterverkauf einholen. Er hält das Gerede, auf Trąbczyn hafteten 150000 Rthl Schulden, die Walichnowski übernehmen solle, und er solle dennoch 56000 Rthl und einen Canon von 5000 Rthl jährlich zahlen, für missverstanden und fürchtet um die Ehre des Fürsten. Er schlägt vor, von Walichnowski 60000 oder 80000 Rthl Erbkaufgeld und 4 bis 5000 Rthl jährlichen Erbzins fest zu fordern. Er bittet um Verschwiegenheit und geheime Weisung. Walichnowski wolle die Trąbczyner Güter ernsthaft erwerben."
+ "summary_de": "Triebenfeld kann krankheitshalber nicht persönlich Befehle zum Güterverkauf einholen. Er hält das Gerede, auf Trąbczyn hafteten 150000 Rthl Schulden, die Walichnowski übernehmen solle, und er solle dennoch 56000 Rthl und einen Canon von 5000 Rthl jährlich zahlen, für missverstanden und fürchtet um die Ehre des Fürsten. Er schlägt vor, von Walichnowski 60000 oder 80000 Rthl Erbkaufgeld und 4 bis 5000 Rthl jährlichen Erbzins fest zu fordern. Er bittet um Verschwiegenheit und geheime Weisung. Walichnowski wolle die Trąbczyner Güter ernsthaft erwerben.",
+ "reading": {
+  "letter": "116",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Breslau. He is ill and cannot come in person to take orders about the sale, or hereditary lease (Erbpacht), of the estates. The Poles keep choosing him as arbiter, but there is no fixed plan. He reports a rumour: Trąbczyn carries 150000 rt of debt, which Walichnowski would take over, and he is still supposed to pay 56000 rt plus a canon of 5000 rt a year. Triebenfeld calls this misunderstood gossip. He proposes firm terms for Walichnowski: 60000 or 80000 rt purchase money now and 4-5000 rt Erbzins a year for ever. He asks that the note be kept confidential and that the Prince send instructions secretly. Walichnowski is genuinely keen to acquire the Trąbczyn estates.",
+  "claims": [
+   {
+    "statement": "Triebenfeld ist krank und kann nicht persönlich Befehle zum Güterverkauf einholen.",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Gerede: auf Trąbczyn hafteten 150000 Rthl Schulden, die Walichnowski übernehmen solle, und er solle dennoch 56000 Rthl und einen Canon von 5000 Rthl jährlich zahlen.",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er hält das für missverstandenes Gerede und fürchtet um die Ehre des Fürsten.",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Vorschlag: Walichnowski soll 60000 oder 80000 Rthl Erbkaufgeld und 4 bis 5000 Rthl jährlichen Erbzins zahlen, als festes Wort.",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Bittet, das Billet niemandem zu zeigen und ihm im Stillen Weisung zu geben.",
+    "lines": [
+     37,
+     38,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Walichnowski will die Trąbczyner Güter wirklich erwerben.",
+    "lines": [
+     48,
+     49
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "zu Kosten lagen",
+    "note": "Probably 'zu Füßen legen'."
+   },
+   {
+    "line": 8,
+    "word": "vnter",
+    "note": "Probably 'fester' (Plan)."
+   },
+   {
+    "line": 16,
+    "word": "Geschwäh¬",
+    "note": "Probably 'Geschwätz'."
+   },
+   {
+    "line": 38,
+    "word": "Wünstere",
+    "note": "Unclear: possibly a name or 'Ministern'."
+   },
+   {
+    "line": 42,
+    "word": "Laßen",
+    "note": "Sentence garbled; possibly 'Lästern'."
+   },
+   {
+    "line": 26,
+    "word": "an, wenn",
+    "note": "Possibly 'an wen'."
+   }
+  ],
+  "read_against": "54000e6a04c1b82a"
+ }
 }

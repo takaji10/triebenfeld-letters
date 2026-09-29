@@ -364,5 +364,91 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wartet vergeblich auf die 1000 Centner Eisen, ohne die er weder Reisegeld hat noch Michaelis befriedigen und nach Königsberg reisen kann, und bittet um baldige Lieferung nach Bojadła. Im Nachtrag meldet er, dass Eisen von Opole abgegangen ist, er aber die Fracht zahlen soll. Lahr soll 400 Centner zu 5 Rthl 12 ggl, also 2200 Rthl, erhalten. Er bittet, die Fracht zu übernehmen und die fehlenden 217 Centner zu schicken."
+ "summary_de": "Triebenfeld wartet vergeblich auf die 1000 Centner Eisen, ohne die er weder Reisegeld hat noch Michaelis befriedigen und nach Königsberg reisen kann, und bittet um baldige Lieferung nach Bojadła. Im Nachtrag meldet er, dass Eisen von Opole abgegangen ist, er aber die Fracht zahlen soll. Lahr soll 400 Centner zu 5 Rthl 12 ggl, also 2200 Rthl, erhalten. Er bittet, die Fracht zu übernehmen und die fehlenden 217 Centner zu schicken.",
+ "reading": {
+  "letter": "56",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Kontop (Konotop) to Prince Hohenlohe. Waiting for 1000 Centner of iron. He can't travel to Königsberg or pay Michaelis without it. Asks for delivery to Boyadel (Bojadła). News: sharp cartridges issued in Berlin, war declaration expected, a parole \"Carl u Hoff\", Russian troops at the Polish border, Constantin with 75000 men near Brześć, crowding at the silver delivery in Berlin, King's letter to Zastrow. Postscript: iron left Oppeln (Opole), but he has to pay freight. Michaelis gets 600 Rtl of iron. Lahr gets 400 Centner at 5 rt 12 ggl = 2200 rt. 500 rt promised for Sunday. Asks the Prince to cover freight and send the missing 217 Centner, to be forwarded to van der Lahr in Berlin.",
+  "claims": [
+   {
+    "statement": "Wartet vergeblich auf das Eisen, hat kein Reisegeld, kann Michaelis nicht befriedigen und nicht nach Königsberg reisen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Bittet um baldige Lieferung der 1000 Centner Eisen nach Bojadła",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Eisen ist von Opole abgegangen, er soll die Fracht zahlen",
+    "lines": [
+     44,
+     45,
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "statement": "Lahr erhält 400 Centner zu 5 Rthl 12 ggl, also 2200 Rthl",
+    "lines": [
+     50,
+     51
+    ]
+   },
+   {
+    "statement": "Bittet, die Fracht zu übernehmen und die fehlenden 217 Centner zu schicken",
+    "lines": [
+     56,
+     57,
+     58,
+     59,
+     60
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "gewust",
+    "note": "probably 'gewesen', garbled sentence"
+   },
+   {
+    "line": 34,
+    "word": "Begmode",
+    "note": "probably 'Begierde'"
+   },
+   {
+    "line": 44,
+    "word": "Hoh",
+    "note": "perhaps 'Hof' Verwalter"
+   },
+   {
+    "line": 56,
+    "word": "frachtlichen",
+    "note": "probably 'Frachtlohn' (cf. line 47)"
+   },
+   {
+    "line": 57,
+    "word": "sehen",
+    "note": "does not fit the construction, possibly misread"
+   },
+   {
+    "line": 16,
+    "word": "Listog[?]",
+    "note": "name of the general unclear"
+   }
+  ],
+  "read_against": "1e6494a0a01554e3"
+ }
 }

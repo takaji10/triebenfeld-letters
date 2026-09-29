@@ -134,5 +134,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Amelang meldet, dass das fürstliche Schreiben vom 3. eintraf, als v. Triebenfeld gerade abreisen wollte. Er konnte es ihm noch vorlegen, und Triebenfeld freute sich über die Zufriedenheit des Fürsten. Die Zahlung der Assignation ist erfolgt. Alles hängt nun von der Revision und ihrer Beschleunigung ab. Vor 3 bis 4 Monaten wäre das Geschäft schneller erledigt worden. Amelang versichert seinen Eifer. Teilweise schwer lesbar."
+ "summary_de": "Amelang meldet, dass das fürstliche Schreiben vom 3. eintraf, als v. Triebenfeld gerade abreisen wollte. Er konnte es ihm noch vorlegen, und Triebenfeld freute sich über die Zufriedenheit des Fürsten. Die Zahlung der Assignation ist erfolgt. Alles hängt nun von der Revision und ihrer Beschleunigung ab. Vor 3 bis 4 Monaten wäre das Geschäft schneller erledigt worden. Amelang versichert seinen Eifer. Teilweise schwer lesbar.",
+ "reading": {
+  "letter": "161",
+  "legibility": "partly garbled",
+  "notes": "Amelang, Berlin, schreibt an den Fürsten. Der fürstliche Brief vom 3. traf ein, als v. Triebenfeld gerade abreisen wollte. Amelang zeigte ihn ihm noch, und Triebenfeld freute sich über die Zufriedenheit des Fürsten. Die Zahlung der Assignation ist erfolgt (der Empfänger ist unleserlich). Der weitere Verlauf hängt von einer Revision ab (wohl der Taxen) und davon, wie schnell sie geht. Die Behörden sind jetzt schwerfällig; vor 3 bis 4 Monaten wäre das Geschäft schneller erledigt worden. Amelang beteuert seinen Eifer und hofft, dass Triebenfeld ihm Fleiß bezeugt. Die Abschrift ist rau, viele Wörter sind verderbt.",
+  "claims": [
+   {
+    "statement": "Das fürstliche Schreiben vom 3. traf ein, als v. Triebenfeld abreisen wollte; Amelang legte es ihm noch vor, Triebenfeld freute sich über die Zufriedenheit des Fürsten.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Die Zahlung der Assignation ist erfolgt.",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Alles hängt von der Revision und ihrer Beschleunigung ab.",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Behörden schleppend; vor 3 bis 4 Monaten wäre das Geschäft schneller erledigt worden.",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ],
+    "check": "overstated",
+    "why": "Die Zeilen 13 bis 15 über die Behörden sind verstümmelt ('so Passagair', '4 Wochen einstehen läßet'). 'Schleppend' ist eine Deutung dieser Stelle. Belegt ist nur, dass das Geschäft vor 3 bis 4 Monaten kürzer und mit weniger Bedenken abgewickelt wurde und es jetzt anders ist."
+   },
+   {
+    "statement": "Amelang versichert seinen Eifer.",
+    "lines": [
+     19,
+     20,
+     22,
+     23,
+     24
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "ledighe Courtoir[?]",
+    "note": "Empfänger der Zahlung unleserlich"
+   },
+   {
+    "line": 12,
+    "word": "Lage",
+    "note": "vermutlich 'Taxe' (vgl. Revision der Taxen in Nr. 160/162)"
+   },
+   {
+    "line": 13,
+    "word": "Principie",
+    "note": "unklar, evtl. 'Prinzipien'"
+   },
+   {
+    "line": 14,
+    "word": "Passagair",
+    "note": "unklar, evtl. verderbt"
+   },
+   {
+    "line": 15,
+    "word": "ringt",
+    "note": "Satz verderbt"
+   },
+   {
+    "line": 16,
+    "word": "rum",
+    "note": "vermutlich 'wäre'"
+   },
+   {
+    "line": 19,
+    "word": "beſtrengen",
+    "note": "vermutlich 'beytragen'"
+   },
+   {
+    "line": 24,
+    "word": "mangeben",
+    "note": "vermutlich 'mangeln'"
+   },
+   {
+    "line": 25,
+    "word": "destr.",
+    "note": "vermutlich 'ließ'"
+   }
+  ],
+  "read_against": "3fd7c600e3db7834"
+ }
 }

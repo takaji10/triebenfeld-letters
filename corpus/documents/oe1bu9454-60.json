@@ -265,5 +265,123 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass auf Betreiben van der Lahrs in Świniary alles versiegelt und sequestriert ist, auch in Konotop. Van der Lahr ist bezahlt, und Grävenitz schickt dessen Quittung und Einwilligung, die Triebenfeld an Loen nach Wrocław sendet. Die Sequestration bleibt aber wegen der Zinsen von 1860 Rthl bestehen. Geld aus Zagórów zu holen wurde verboten, Honrichs verhaftet. Er bittet den Fürsten, 1800 Rthl aufzutreiben und an Professor Schade zu schicken. Zum Fürsten reisen könne er vorerst nicht."
+ "summary_de": "Triebenfeld meldet, dass auf Betreiben van der Lahrs in Świniary alles versiegelt und sequestriert ist, auch in Konotop. Van der Lahr ist bezahlt, und Grävenitz schickt dessen Quittung und Einwilligung, die Triebenfeld an Loen nach Wrocław sendet. Die Sequestration bleibt aber wegen der Zinsen von 1860 Rthl bestehen. Geld aus Zagórów zu holen wurde verboten, Honrichs verhaftet. Er bittet den Fürsten, 1800 Rthl aufzutreiben und an Professor Schade zu schicken. Zum Fürsten reisen könne er vorerst nicht.",
+ "reading": {
+  "letter": "60",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Konotop in despair. On van der Lahr's application the Świniary (Schweinern) estates have been sealed and sequestered, and Konotop is sequestered too. Van der Lahr is now paid, and Grävenitz is sending his receipt and consent, which goes on to Loen in Breslau. The sequestration stays in place over interest of 1860 rt. Triebenfeld's plan to draw money from Zagórów on the decrees of the French General Gouvernement was forbidden, and Honrichs was arrested. He asks the Prince to raise 1800 rt and send it to Professor Schade. He says he cannot come as Lombardini's letter asks. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Auf Betreiben van der Lahrs ist in Świniary alles versiegelt und zur Sequestration beschlagnahmt",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Auch in Konotop (hier) ist die Sequestration verhängt",
+    "lines": [
+     11,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Van der Lahr ist bezahlt; Grävenitz schickt dessen Quittung und Einwilligung in die Aufhebung, Triebenfeld sendet sie an Loen nach Wrocław",
+    "lines": [
+     9,
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "statement": "Sequestration bleibt wegen alter und neuer Zinsen von 1860 Rthl bestehen",
+    "lines": [
+     57,
+     58,
+     59
+    ]
+   },
+   {
+    "statement": "Plan, Geld aus Zagórów zu holen, wurde verboten, Honrichs verhaftet",
+    "lines": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Bitte, 1800 Rthl aufzutreiben und an Professor Schade zu schicken",
+    "lines": [
+     74,
+     75,
+     76,
+     77
+    ]
+   },
+   {
+    "statement": "Kann Lombardinis Aufforderung zur Reise zum Fürsten derzeit nicht folgen",
+    "lines": [
+     78,
+     79,
+     80,
+     81,
+     82,
+     85,
+     86
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Schweiner",
+    "note": "line 37 has Schweinern; may be a misreading or the writer's own form"
+   },
+   {
+    "line": 54,
+    "word": "Brust",
+    "note": "probably Brief"
+   },
+   {
+    "line": 60,
+    "word": "Fächste",
+    "note": "unclear, perhaps Flachs or Füchse"
+   },
+   {
+    "line": 65,
+    "word": "Aubte Vierchitz",
+    "note": "garbled"
+   },
+   {
+    "line": 71,
+    "word": "Kockeitzschen",
+    "note": "possibly Köckritzschen"
+   },
+   {
+    "line": 43,
+    "word": "arum",
+    "note": "possibly arme"
+   },
+   {
+    "line": 16,
+    "word": "Baum",
+    "note": "possibly kaum"
+   },
+   {
+    "line": 12,
+    "word": "kleinen Jord",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "a101c5250a3aaf77"
+ }
 }

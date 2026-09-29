@@ -154,5 +154,88 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn meldet im Auftrag des Fürsten, dass Kanzler Hohmuth wegen der Schlabrendorffischen Zahlung keinen längeren Aufschub zusagt. Die Gräfin, gereizt durch die Verzögerung, lasse sich nur durch schnelle Zahlung vor dem nächsten Berliner Posttag von der Wiederaufnahme der Klage abhalten. Würden 25/m Rthl bald gezahlt, wolle Hohmuth sie bewegen, auf die übrige Hälfte noch zu warten. Eine Obligation dafür lehne er ab. Das wilde Schwein ist über Kalisz nach Trąbczyn abgeschickt."
+ "summary_de": "Hahn meldet im Auftrag des Fürsten, dass Kanzler Hohmuth wegen der Schlabrendorffischen Zahlung keinen längeren Aufschub zusagt. Die Gräfin, gereizt durch die Verzögerung, lasse sich nur durch schnelle Zahlung vor dem nächsten Berliner Posttag von der Wiederaufnahme der Klage abhalten. Würden 25/m Rthl bald gezahlt, wolle Hohmuth sie bewegen, auf die übrige Hälfte noch zu warten. Eine Obligation dafür lehne er ab. Das wilde Schwein ist über Kalisz nach Trąbczyn abgeschickt.",
+ "reading": {
+  "letter": "155",
+  "legibility": "sound",
+  "notes": "Hahn writes from Breslau to Triebenfeld on the Prince's orders. He has seen Kanzler Hohmuth about the Schlabrendorff payment and a longer deadline. The countess will not resume her suit only if payment arrives quickly, before the next Berlin post day. If 25/m rthl come soon, Hohmuth would get her to wait for the remaining half of 25/m. He refuses outright to hear of an obligation (bond) for that remainder. Postscript: someone ('Nurlich'?) has left with the wild boar for a Regierungs-Rath, via Kalisz to Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Im Auftrag des Fürsten bei Kanzler Hohmuth wegen der Schlabrendorffischen Zahlung und längerer Frist gewesen, ohne tröstliches Ergebnis",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Die Gräfin, gereizt durch die Verzögerung, lasse sich nur durch schnelle Zahlung vor dem nächsten Berliner Posttag von der Wiederaufnahme der Klage abhalten",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Bei baldiger Zahlung von 25/m Rthl wolle Hohmuth die Gräfin bewegen, auf die übrige Hälfte zu warten",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Eine Obligation auf die letzte Zahlung lehnt er ab",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Das wilde Schwein ist über Kalisz nach Trąbczyn abgereist",
+    "lines": [
+     26,
+     27,
+     28
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Hohmuth",
+    "note": "Letter 156a writes 'Hemuth'. The name is uncertain."
+   },
+   {
+    "line": 7,
+    "word": "Ihnen",
+    "note": "Probably 'ihn' (Hohmuth was spoken to)."
+   },
+   {
+    "line": 26,
+    "word": "Nurlich",
+    "note": "Possibly a personal name, or a misreading (Neulich?). Not used in the summary."
+   },
+   {
+    "line": 27,
+    "word": "Hussaczinski[?]",
+    "note": "Doubtful name. Possibly Hussarzewski."
+   },
+   {
+    "line": 19,
+    "word": "wagtes",
+    "note": "Probably 'wagte es'."
+   }
+  ],
+  "read_against": "8ae2b61d09db3a57"
+ }
 }

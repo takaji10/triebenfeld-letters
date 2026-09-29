@@ -105,5 +105,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt, auf fünf Briefe keine Antwort erhalten zu haben, und schickt diesen sechsten über den Ober Post Director Mann. Er berichtet, alles scheine zu gelingen: Die Curische Schuld werde getilgt, der Transact cassirt, Cosmar müsse ausscheiden, der Fürst komme in Besitz des Majorats, und die polnischen Güter müssten zurückgegeben werden. Er leide drückende Not und bittet dringend um Geld, notfalls durch einen Expressen. Briefe sollen an Mann in Wien gehen."
+ "summary_de": "Triebenfeld klagt, auf fünf Briefe keine Antwort erhalten zu haben, und schickt diesen sechsten über den Ober Post Director Mann. Er berichtet, alles scheine zu gelingen: Die Curische Schuld werde getilgt, der Transact cassirt, Cosmar müsse ausscheiden, der Fürst komme in Besitz des Majorats, und die polnischen Güter müssten zurückgegeben werden. Er leide drückende Not und bittet dringend um Geld, notfalls durch einen Expressen. Briefe sollen an Mann in Wien gehen.",
+ "reading": {
+  "letter": "62",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince. He complains that five letters have gone unanswered; this sixth one goes through Ober Post Director Mann. He reports progress: the Curische Schuld is to be paid off, the Transact cancelled and Cosmar must withdraw. The Prince will come into the Majorat, and the Polish estates must be given back. He complains of dire need and asks for money. Letters are to be addressed to Mann in Vienna, or money sent by express. Several garbled words: Brust (Brief), Prensten (Preußischen), reuenen, genennen, Töpfchen Spiel, Massakroff 1156 rt (probably an address or house number, not a sum).",
+  "claims": [
+   {
+    "statement": "Klagt, auf fünf Briefe keine Antwort erhalten zu haben; dies ist der sechste, über Ober Post Director Mann gesandt",
+    "lines": [
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Alles scheine zu gelingen",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Curische Schuld wird getilgt, Transact cassirt, Cosmar muss ausscheiden, Fürst kommt in Besitz des Majorats",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Polnische Güter müssen zurückgegeben werden",
+    "lines": [
+     11
+    ]
+   },
+   {
+    "statement": "Leidet drückende Not, bittet um Geld",
+    "lines": [
+     12,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Briefe an Ober Post Director Mann in Wien richten",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Falls die Post schuld sei, Geld durch einen Expressen senden",
+    "lines": [
+     20,
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Brust",
+    "note": "probably 'Brief' (cf. 'Briefe' line 2)"
+   },
+   {
+    "line": 3,
+    "word": "dereckte[...]",
+    "note": "Director (cf. line 18)"
+   },
+   {
+    "line": 5,
+    "word": "ihrer",
+    "note": "probably 'Ewr'"
+   },
+   {
+    "line": 7,
+    "word": "genennen",
+    "note": "perhaps 'gewinnen'"
+   },
+   {
+    "line": 7,
+    "word": "Kosch-Sachen",
+    "note": "unclear referent, perhaps Koschentin matter"
+   },
+   {
+    "line": 11,
+    "word": "Auf",
+    "note": "probably 'Auch'"
+   },
+   {
+    "line": 14,
+    "word": "Töpfchen",
+    "note": "garbled passage; perhaps 'kein Tüttelchen' or similar"
+   },
+   {
+    "line": 18,
+    "word": "Prensten",
+    "note": "probably 'Preußischen'"
+   },
+   {
+    "line": 19,
+    "word": "Massakroff 1156 rt",
+    "note": "likely an address and house number, not a sum; 'rt' doubtful"
+   },
+   {
+    "line": 21,
+    "word": "reuenen",
+    "note": "perhaps 'einen'"
+   }
+  ],
+  "read_against": "f83c7d4f71954325"
+ }
 }

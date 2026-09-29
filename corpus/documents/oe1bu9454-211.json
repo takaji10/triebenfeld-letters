@@ -140,5 +140,72 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Herr von Knobelsdorff hat die Örtlichkeit besichtigt, sie gefällt ihm. Triebenfeld will nun alles so ordnen, dass man die Sache sofort überblicken kann. Er klagt über große Verwirrung und halsstarrige Leute, die von Hawich gehört werden. Vom Prozess um Trąbczyn erwartet er ein gutes Ende: Der Termin steht seit dem 24. an, bis zur Verlesung des Dekrets des Tribunals kann es noch 14 Tage dauern. Gewinnt er, soll alle Not enden."
+ "summary_de": "Herr von Knobelsdorff hat die Örtlichkeit besichtigt, sie gefällt ihm. Triebenfeld will nun alles so ordnen, dass man die Sache sofort überblicken kann. Er klagt über große Verwirrung und halsstarrige Leute, die von Hawich gehört werden. Vom Prozess um Trąbczyn erwartet er ein gutes Ende: Der Termin steht seit dem 24. an, bis zur Verlesung des Dekrets des Tribunals kann es noch 14 Tage dauern. Gewinnt er, soll alle Not enden.",
+ "reading": {
+  "letter": "211",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, in Klein Öhringen, writes to the Prince. Knobelsdorff has come, looked over the property and likes it. Triebenfeld is putting the affairs in order, so that everything can be seen at a glance. He complains of great confusion and of stubborn people who are heard by Hawich. He expects the Trąbczyn lawsuit to end well: the hearing has been open since the 24th, and it may be 14 days more before the tribunal's decree is read. Winning would end all distress. Lines 16-19, his opinion of Knobelsdorff and a condition about being given sole management, are garbled.",
+  "claims": [
+   {
+    "statement": "Knobelsdorff hat die Örtlichkeit besichtigt, sie gefällt ihm",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Triebenfeld will alles so ordnen, dass man die Sache sofort überblicken kann",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Große Verwirrung, halsstarrige Leute, die von Hawich gehört werden",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Der Prozess um Trąbczyn wird ein gutes Ende nehmen; der Termin steht seit dem 24. an, es kann noch 14 Tage bis zur Verlesung des Dekrets des Tribunals dauern",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Gewinnt er, soll alle Not enden",
+    "lines": [
+     15
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "rechtschaft",
+    "note": "probably 'rechtschaffenen', broken across the line end together with 'fang' in line 17"
+   },
+   {
+    "line": 17,
+    "word": "sein haabe",
+    "note": "garbled, meaning unclear"
+   },
+   {
+    "line": 19,
+    "word": "abholen",
+    "note": "does not fit the sentence, probably a misreading"
+   },
+   {
+    "line": 18,
+    "word": "was",
+    "note": "possibly the end of a broken word (ge-was?), unclear"
+   }
+  ],
+  "read_against": "86f5a7013a8976cb"
+ }
 }

@@ -188,5 +188,87 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass Stägemann dem Staats Kanzler noch immer keinen Vortrag gehalten hat. Er vermutet bösen Willen; man würde für Cosmar entscheiden, wäre der Brieger Bericht nicht so günstig für den Fürsten. Seine größte Sorge ist die Einreichung der Akten und Dokumente wegen Trąbczyn, Kolno und Kamionna bei der Kommission: Der Übersetzer gibt die Akten mit der Übersetzung nur gegen Bezahlung heraus. Er bittet dringend um Geld und die angebotenen Blanquets. Er ist krank und bettlägerig."
+ "summary_de": "Triebenfeld berichtet, dass Stägemann dem Staats Kanzler noch immer keinen Vortrag gehalten hat. Er vermutet bösen Willen; man würde für Cosmar entscheiden, wäre der Brieger Bericht nicht so günstig für den Fürsten. Seine größte Sorge ist die Einreichung der Akten und Dokumente wegen Trąbczyn, Kolno und Kamionna bei der Kommission: Der Übersetzer gibt die Akten mit der Übersetzung nur gegen Bezahlung heraus. Er bittet dringend um Geld und die angebotenen Blanquets. Er ist krank und bettlägerig.",
+ "reading": {
+  "letter": "275",
+  "legibility": "sound",
+  "notes": "Triebenfeld, sick in bed in Vienna, to the Prince. Stägemann has still made no report to the Staats Kanzler. Triebenfeld suspects ill will: the case would go Cosmar's way if the Brieg report were not so favourable to the Prince. He has been assured that the Fürst means well by the Hohenlohe houses, and something is going off to the King of Württemberg today; an enclosure is mentioned. His main worry is submitting the documents on Trąbczyn, Kulm and Kaemen to the Commission. The translator won't release the files until paid, and Triebenfeld has no money. He asks for money and the offered Blanquets. The closing political news is vague and figurative.",
+  "claims": [
+   {
+    "statement": "Stägemann hat dem Staats Kanzler noch keinen Vortrag gehalten",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "vermutet bösen Willen; man würde für Cosmar entscheiden, wäre der Brieger Bericht nicht so günstig",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "größte Sorge: Akten und Dokumente wegen Trąbczyn, Kolno und Kamionna bei der Kommission einreichen",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Übersetzer gibt Akten mit Übersetzung nur gegen Bezahlung heraus, er hat kein Geld",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "bittet um Geld und die angebotenen Blanquets",
+    "lines": [
+     19,
+     20,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "krank und bettlägerig",
+    "lines": [
+     9,
+     10,
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "hälte",
+    "note": "probably 'halte' (ich halte es vor bösen Willen)"
+   },
+   {
+    "line": 25,
+    "word": "Süchser",
+    "note": "probably 'Sechser' (a coin), fits the metaphor of it turning back into an 8-Groschen piece"
+   },
+   {
+    "line": 26,
+    "word": "Wehen",
+    "note": "unclear exclamation; perhaps 'O weh'"
+   },
+   {
+    "line": 21,
+    "word": "verzehre",
+    "note": "probably 'verzehren' (plural, parallel to 'reiben')"
+   },
+   {
+    "line": 30,
+    "word": "den sonsten",
+    "note": "'den' is likely period spelling for 'denn'; no change"
+   }
+  ],
+  "read_against": "a13462fbbf9849d8"
+ }
 }

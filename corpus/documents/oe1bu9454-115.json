@@ -194,5 +194,116 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld entschuldigt sein Fernbleiben vom Mittag: Sein Pächter in Świniary bittet ihn dringend, die Bauern zur Ordnung zu bringen, die die Dienste verweigern. Der Minister scheine es wegen Schlabrendorff etwas krumm zu nehmen, dass der Fürst ihm nichts sage. Er habe Schlabrendorff zum 15. herbestellt und ihm geraten, alle Klagen zurückzunehmen, sonst könne er ihn nicht retten. Auch Asch soll ihn dazu bewegen. Triebenfeld geht nach Lądek, will aber am 15. zurück sein und Hirsch hinzuziehen."
+ "summary_de": "Triebenfeld entschuldigt sein Fernbleiben vom Mittag: Sein Pächter in Świniary bittet ihn dringend, die Bauern zur Ordnung zu bringen, die die Dienste verweigern. Der Minister scheine es wegen Schlabrendorff etwas krumm zu nehmen, dass der Fürst ihm nichts sage. Er habe Schlabrendorff zum 15. herbestellt und ihm geraten, alle Klagen zurückzunehmen, sonst könne er ihn nicht retten. Auch Asch soll ihn dazu bewegen. Triebenfeld geht nach Lądek, will aber am 15. zurück sein und Hirsch hinzuziehen.",
+ "reading": {
+  "letter": "115",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince. He excuses himself from the midday meal because his tenant at Schweinern (Świniary) needs him: the peasants refuse their services. He reports a talk with the Minister about Schlabrendorff. The Minister is annoyed that the Prince tells him nothing. He has written to Schlabrendorff to be in Breslau on the 15th, to withdraw all complaints, and warned that he could not protect him. He has instructed Asch, who goes to \"Stolze\" (reading unclear) the day after tomorrow. Triebenfeld goes to Lądek tomorrow, will be back on the 15th and will bring in Hirsch. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Pächter in Świniary bittet dringend, die Bauern in Ordnung zu bringen, die die Dienste verweigern",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "entschuldigt Fernbleiben vom Mittag",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Minister nimmt es krumm, dass der Fürst ihm nichts sagt",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Line 11 says 'so scheint er es etwas krum zu nehmen': this is Triebenfeld's impression, not a fact."
+   },
+   {
+    "statement": "Minister bestellt Schlabrendorff zum 15., rät Rücknahme aller Klagen, könne ihn sonst nicht retten",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Asch soll Schlabrendorff dazu bewegen, am 15. hier zu sein",
+    "lines": [
+     28,
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Triebenfeld geht nach Lądek, am 15. zurück, will Hirsch hinzuziehen",
+    "lines": [
+     33,
+     34
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Se",
+    "note": "likely \"So eben\""
+   },
+   {
+    "line": 8,
+    "word": "woll",
+    "note": "likely \"wollen\""
+   },
+   {
+    "line": 14,
+    "word": "rech",
+    "note": "garbled; perhaps \"Recht\""
+   },
+   {
+    "line": 16,
+    "word": "daß",
+    "note": "second \"daß\" probably \"des (Monats)\""
+   },
+   {
+    "line": 28,
+    "word": "Dem",
+    "note": "probably \"Den\""
+   },
+   {
+    "line": 29,
+    "word": "Grafe in Stolze",
+    "note": "garbled place/person"
+   },
+   {
+    "line": 33,
+    "word": "bei",
+    "note": "probably \"bin\""
+   },
+   {
+    "line": 33,
+    "word": "gehn",
+    "note": "probably \"gehe\""
+   }
+  ],
+  "read_against": "c4456525d33718c1"
+ }
 }

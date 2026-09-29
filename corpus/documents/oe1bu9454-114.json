@@ -122,5 +122,113 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Großenteils unleserlich. Erkennbar ist: Der Schreiber nennt einen Ungenannten einen abgefeimten Buben, der Sr. Durchlaucht viele Schwierigkeiten gemacht habe und nun, da nichts mehr zu erpressen sei, das Ganze schließen wolle. Er hofft auf baldigen Abschluss, damit Triebenfeld nicht länger gekränkt werde. In seiner eigenen Sache wolle jemand etwas, was ihm nicht gelingen solle. Abgeholt werde am Dienstag, spätestens am Mittwoch. Seine Gesundheit bessere sich."
+ "summary_de": "Großenteils unleserlich. Erkennbar ist: Der Schreiber nennt einen Ungenannten einen abgefeimten Buben, der Sr. Durchlaucht viele Schwierigkeiten gemacht habe und nun, da nichts mehr zu erpressen sei, das Ganze schließen wolle. Er hofft auf baldigen Abschluss, damit Triebenfeld nicht länger gekränkt werde. In seiner eigenen Sache wolle jemand etwas, was ihm nicht gelingen solle. Abgeholt werde am Dienstag, spätestens am Mittwoch. Seine Gesundheit bessere sich.",
+ "reading": {
+  "letter": "114",
+  "legibility": "largely garbled",
+  "notes": "A short, badly garbled note to Krieges Rath von Triebenfeld. The sender is not identified (\"Frig[?]\") and signs as \"unterthäniger Knecht\". Someone unnamed (the name is missing at line 4) is called a scoundrel who made difficulties for Sr. Durchlaucht; now that nothing more can be squeezed out, he wants to conclude the whole matter. The writer hopes it will be settled soon so that Triebenfeld is no longer troubled, and there is a garbled mention of Schlabrendorff. On his own affair: it is neither good nor bad; \"L. Asch\" wants something (garbled) but will not succeed, and the writer expects a reply today. Things will be collected on Tuesday or at the latest Wednesday. His health is improving.",
+  "claims": [
+   {
+    "statement": "Ein Ungenannter wird als abgefeimter Bube bezeichnet, der Sr. Durchlaucht viele Schwierigkeiten gemacht habe",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Da nichts mehr zu erpressen sei, wolle er das Ganze schließen",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Der Schreiber hofft auf baldigen Abschluss, damit Triebenfeld nicht länger gekränkt werde",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "In seiner eigenen Sache wolle Asch etwas erreichen, was ihm nicht gelingen solle",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ],
+    "check": "overstated",
+    "why": "'Der L. Asch jen will zullen' ist verstümmelt. Der Name 'Asch' und das 'erreichen' sind aus unleserlichen Wörtern gedeutet. Sicher lesbar ist nur, dass jemand etwas will, was ihm nicht gelingen soll."
+   },
+   {
+    "statement": "Abholung am Dienstag, spätestens am Mittwoch",
+    "lines": [
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Seine Gesundheit bessere sich",
+    "lines": [
+     36,
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "rihm",
+    "note": "probably 'sieht' or 'merkt'"
+   },
+   {
+    "line": 12,
+    "word": "Schnee noth",
+    "note": "garbled"
+   },
+   {
+    "line": 16,
+    "word": "Jusend",
+    "note": "garbled"
+   },
+   {
+    "line": 17,
+    "word": "Grüße",
+    "note": "perhaps 'Gute' or 'Geschäfte'"
+   },
+   {
+    "line": 23,
+    "word": "zullen",
+    "note": "garbled verb"
+   },
+   {
+    "line": 25,
+    "word": "in bring",
+    "note": "garbled"
+   },
+   {
+    "line": 26,
+    "word": "Bethe",
+    "note": "perhaps 'Antwort'"
+   },
+   {
+    "line": 33,
+    "word": "Schöpfe",
+    "note": "garbled; what is collected is unclear"
+   },
+   {
+    "line": 35,
+    "word": "stattend",
+    "note": "garbled"
+   },
+   {
+    "line": 37,
+    "word": "uns",
+    "note": "probably 'aus'"
+   }
+  ],
+  "read_against": "70d4fa6363e168b2"
+ }
 }

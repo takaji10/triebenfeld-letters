@@ -229,5 +229,93 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld antwortet, die Forderung des Juden Nathan Liepmann stehe schon in der Designation der Passiva; alle Creditoren sollen befriedigt werden. Auf die Dismembrationsgelder von an 60000 Rthl könne er nicht schnell rechnen und müsse weiter borgen. Nach Ende der Pszczewer Sache sollen die Leute 2000 Rthl, Raven 1200 Rthl Laudemien zahlen; weigert Raven sich, sollen die Gemeinden das Gut zurückfordern. Pochammer soll am 11. bei Beyme über das Anlehn sprechen; die Taxen gehen zurück nach Kalisz."
+ "summary_de": "Triebenfeld antwortet, die Forderung des Juden Nathan Liepmann stehe schon in der Designation der Passiva; alle Creditoren sollen befriedigt werden. Auf die Dismembrationsgelder von an 60000 Rthl könne er nicht schnell rechnen und müsse weiter borgen. Nach Ende der Pszczewer Sache sollen die Leute 2000 Rthl, Raven 1200 Rthl Laudemien zahlen; weigert Raven sich, sollen die Gemeinden das Gut zurückfordern. Pochammer soll am 11. bei Beyme über das Anlehn sprechen; die Taxen gehen zurück nach Kalisz.",
+ "reading": {
+  "letter": "180",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Berlin answers the Prince's letters of 8 and 18 April. The creditor Nathan Liepmann's claim is already listed among the known debts. The dismemberment money of about 60,000 rt will come in slowly, so he must keep borrowing. With the Betsche (Pszczew) matter settled, the people are to pay 2,000 rt and Raven 1,200 rt in transfer fees (Laudemien). He will collect at Johanni to raise 30/m rt. The Michaelis matter is for the Betsche subjects to pay. He knows nothing of a Posen miller claiming 1 rt 7 g. If Raven will not pay the fees, the communities are to take the estate back. The Glenck matter was reported earlier. Pochammer visits Beyme at Steglitz on the 11th about the loan. The valuations go back to Kalisz, and he waits in Berlin.",
+  "claims": [
+   {
+    "statement": "Forderung Nathan Liepmanns steht in der Designation der Passiva; alle Creditoren sollen befriedigt werden",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Dismembrationsgelder an 60000 Rthl gehen langsam ein, er muss weiter borgen",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Nach Ende der Pszczewer Sache sollen die Leute 2000 Rthl, Raven 1200 Rthl Laudemien zahlen",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Weigert Raven die Laudemien, sollen die Gemeinden das Gut zurückfordern",
+    "lines": [
+     30,
+     31,
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Pochammer am 11. bei Beyme wegen des Anlehns",
+    "lines": [
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Taxen gehen zurück nach Kalisz",
+    "lines": [
+     41,
+     42,
+     43
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "steignet",
+    "note": "probably 'segnet'"
+   },
+   {
+    "line": 28,
+    "word": "Absonditat",
+    "note": "probably 'Absurditäten'"
+   },
+   {
+    "line": 46,
+    "word": "hintenz",
+    "note": "line garbled (probably 'sezze alles mein hinten an' / 'undenklichste')"
+   },
+   {
+    "line": 47,
+    "word": "Hochachtung",
+    "note": "edition formula is 'In tiefster Ehrfurcht ersterbe'; the writer may have written Hochachtung"
+   },
+   {
+    "line": 20,
+    "word": "Tresor scheinen geschaft",
+    "note": "probably 'Tresorscheinen geschafft'"
+   }
+  ],
+  "read_against": "e42273f03ce5a0b2"
+ }
 }

@@ -342,5 +342,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Friedrich Ludwig bittet den König, v. Triebenfeld nicht durch Execution oder Auspfändung zur Zahlung einer Summe zu zwingen, für die er selbst einsteht. Das französische Gouvernement hatte von Triebenfeld 3125 Rthl Zinsen der Invaliden Casse auf ein Capital von 50000 Rthl auf den Zagórówer Gütern erzwungen. Dafür lieh Triebenfeld bei van der Lahr 5140 Rthl gegen einen Wechsel mit Zastrow. Van der Lahr klagte auf den Rest. Amelang soll sich vergleichen: 1000 Rthl bar, der Rest in Eisen bis Mai."
+ "summary_de": "Friedrich Ludwig bittet den König, v. Triebenfeld nicht durch Execution oder Auspfändung zur Zahlung einer Summe zu zwingen, für die er selbst einsteht. Das französische Gouvernement hatte von Triebenfeld 3125 Rthl Zinsen der Invaliden Casse auf ein Capital von 50000 Rthl auf den Zagórówer Gütern erzwungen. Dafür lieh Triebenfeld bei van der Lahr 5140 Rthl gegen einen Wechsel mit Zastrow. Van der Lahr klagte auf den Rest. Amelang soll sich vergleichen: 1000 Rthl bar, der Rest in Eisen bis Mai.",
+ "reading": {
+  "letter": "50",
+  "legibility": "sound",
+  "notes": "This is a petition from the Prince to King Friedrich Wilhelm III. In 1808 the Prince owed the Invaliden Casse 3125 rt in interest on a 50000 rt capital secured on the Zagórów estates. The French government, which had taken over that fund, forced the money out of Triebenfeld in Berlin by arrest and military execution. To pay it, Triebenfeld borrowed 5140 rt in paper money from van der Lahr on a joint bill with Zastrow. The Prince sent 3000 rt; van der Lahr sued for the rest, won a judgment and threatens execution. Amelang is to settle: 1000 rt in cash and the rest in iron by May. Van der Lahr has accepted, apart from the iron price. The Prince asks the King to spare Triebenfeld from execution. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Der Fürst bittet den König, Triebenfeld nicht durch Execution oder Auspfändung zur Zahlung einer Summe zu zwingen, zu der er selbst verpflichtet ist.",
+    "lines": [
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61
+    ]
+   },
+   {
+    "statement": "Das französische Gouvernement erzwang von Triebenfeld durch Arrest und militärische Execution 3125 Rthl Zinsen der Invaliden Casse auf ein Capital von 50000 Rthl auf den Zagórówer Gütern.",
+    "lines": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Triebenfeld nahm bei van der Lahr 5140 Rthl gegen einen Solidarwechsel mit Zastrow auf.",
+    "lines": [
+     17,
+     18,
+     19,
+     20,
+     21,
+     24
+    ]
+   },
+   {
+    "statement": "Van der Lahr klagte auf den Rest und erhielt ein günstiges Urteil.",
+    "lines": [
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Amelang soll sich mit van der Lahr vergleichen: 1000 Rthl bar, der Rest bis Mai in Eisen.",
+    "lines": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "ein",
+    "note": "probably 'im Herzogthum Warschau'"
+   },
+   {
+    "line": 3,
+    "word": "eine",
+    "note": "probably 'einem Capital'"
+   },
+   {
+    "line": 43,
+    "word": "Ersten",
+    "note": "probably 'Eysen' (Staab und Reifen Eysen)"
+   },
+   {
+    "line": 46,
+    "word": "im",
+    "note": "with 'genommen' (line 47) probably 'angenommen'"
+   },
+   {
+    "line": 50,
+    "word": "falßige",
+    "note": "probably 'diesfällige'"
+   },
+   {
+    "line": 36,
+    "word": "vom",
+    "note": "probably 'von'"
+   },
+   {
+    "line": 37,
+    "word": "im",
+    "note": "probably 'in dieser Sache'"
+   },
+   {
+    "line": 30,
+    "word": "3000",
+    "note": "Rest of 3000 does not add up (5140 less 3000); figure left as written"
+   }
+  ],
+  "read_against": "29d1368d63134368"
+ }
 }

@@ -506,5 +506,136 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld antwortet einem Hoffrath auf vier Punkte. Das sächsische Moratorium schütze die Güter 3 Jahre, wenn die Zinsen gezahlt würden. Die 50000 Rthl der Invaliden Casse stünden als erste Hypothek, gegen Oppenheimer liefen Prozesse in Berlin und Kalisz. Meyers Forderung sei unbegründet, gegen Giese et Consorten laufe ein Prozess wegen 25000 Rthl, ebenso in Niedźwieckis Sache. Das Gesuch der Augustinower Colonisten um Remission soll abgewiesen werden, da ihre Erbpachtcontracte zur Zahlung verpflichten."
+ "summary_de": "Triebenfeld antwortet einem Hoffrath auf vier Punkte. Das sächsische Moratorium schütze die Güter 3 Jahre, wenn die Zinsen gezahlt würden. Die 50000 Rthl der Invaliden Casse stünden als erste Hypothek, gegen Oppenheimer liefen Prozesse in Berlin und Kalisz. Meyers Forderung sei unbegründet, gegen Giese et Consorten laufe ein Prozess wegen 25000 Rthl, ebenso in Niedźwieckis Sache. Das Gesuch der Augustinower Colonisten um Remission soll abgewiesen werden, da ihre Erbpachtcontracte zur Zahlung verpflichten.",
+ "reading": {
+  "letter": "47",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to a Hoffrath (Wohlgeborner Herr; the edition gives the Prince as recipient) and refers to the Prince in the third person. Hawich and Hecker came from Zagórów, and a report went to the Prince by express. He answers four points. (1) The Saxon moratorium and the Invaliden Casse's 50000 Rthl first mortgage: only interest needs paying; Honrichs, as sequestrator, has handed the money over; lawsuits against Oppenheimer are running in Berlin and Kalisz. (2) Meyer's claim for building work is unknown to him; Meyer was never in the Prince's service; Giese and consorts owe 25000 Rthl, under lawsuit. (3) Niedźwiecki: a lawsuit is pending. (4) The Augustinow colonists' petition for remission is to be refused. He cannot travel to Schlawenschitz: debts, and his Kontop estates are sequestrated.",
+  "claims": [
+   {
+    "statement": "Antwort an einen Hoffrath auf vier mitgeteilte Sachen",
+    "lines": [
+     3,
+     7
+    ]
+   },
+   {
+    "statement": "Moratorium des Königs von Sachsen schützt die Güter 3 Jahre, wenn die Zinsen bezahlt werden",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "50000 Rthl der Invaliden Casse als erste Hypothek eingetragen",
+    "lines": [
+     17,
+     18,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Prozesse gegen Oppenheimer in Berlin und Kalisz",
+    "lines": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Meyers Forderung unbekannt, Meyer nie im Dienst des Fürsten",
+    "lines": [
+     47,
+     48,
+     49,
+     50,
+     51
+    ]
+   },
+   {
+    "statement": "Prozess gegen Giese et Consorten wegen 25000 Rthl",
+    "lines": [
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "In Niedźwieckis Sache schwebt ein Prozess",
+    "lines": [
+     66
+    ]
+   },
+   {
+    "statement": "Gesuch der Augustinower Colonisten abweisen; Erbpachtcontracte verpflichten zur Zahlung ohne Remission",
+    "lines": [
+     87,
+     88,
+     89,
+     90,
+     91,
+     92
+    ]
+   },
+   {
+    "statement": "Reise nach Schlawenschitz verhindert durch Schulden und Sequestration der Kontopper Güter",
+    "lines": [
+     115,
+     118,
+     119,
+     124,
+     125,
+     126,
+     128
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 30,
+    "word": "war",
+    "note": "probably 'wan/wenn'"
+   },
+   {
+    "line": 49,
+    "word": "durchläuß",
+    "note": "garbled, likely 'Durchlaucht'"
+   },
+   {
+    "line": 51,
+    "word": "Die",
+    "note": "likely 'Sr'"
+   },
+   {
+    "line": 60,
+    "word": "vorauf",
+    "note": "likely 'worauf'"
+   },
+   {
+    "line": 67,
+    "word": "Zürich",
+    "note": "garbled, perhaps 'Gericht'"
+   },
+   {
+    "line": 109,
+    "word": "Unsern",
+    "note": "garbled, perhaps 'Unsinn'"
+   },
+   {
+    "line": 110,
+    "word": "Johannischen",
+    "note": "garbled, meaning unclear"
+   },
+   {
+    "line": 120,
+    "word": "bei",
+    "note": "likely 'bin'"
+   }
+  ],
+  "read_against": "0f4e349746e19c29"
+ }
 }

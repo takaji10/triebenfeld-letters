@@ -138,5 +138,83 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Zastrow kündigt ein mit heutiger Post abgehendes Schreiben des Königs an: Der König will den wahren Wert der südpreußischen Güter des Fürsten sowie von Krotoszyn und Polajewo untersuchen lassen, um sie gegeneinander abzuwägen. Stehen dem beabsichtigten Tausch keine wichtigen Hindernisse entgegen, werde der König den Wunsch gern erfüllen. Zastrow dankt für das Schreiben vom 7. des Monats. Die Sache gehöre nicht in sein Fach, er hoffe aber auf einen befriedigenden Abschluss."
+ "summary_de": "Zastrow kündigt ein mit heutiger Post abgehendes Schreiben des Königs an: Der König will den wahren Wert der südpreußischen Güter des Fürsten sowie von Krotoszyn und Polajewo untersuchen lassen, um sie gegeneinander abzuwägen. Stehen dem beabsichtigten Tausch keine wichtigen Hindernisse entgegen, werde der König den Wunsch gern erfüllen. Zastrow dankt für das Schreiben vom 7. des Monats. Die Sache gehöre nicht in sein Fach, er hoffe aber auf einen befriedigenden Abschluss.",
+ "reading": {
+  "letter": "94",
+  "legibility": "sound",
+  "notes": "Zastrow writes to the Prince from Berlin. He announces a letter from the King, sent by today's post: the King will have the true value of the Prince's South Prussian estates and of Krotoszyn and Polajewo examined so that they can be balanced against each other for the planned exchange. Zastrow assures the Prince that the King will gladly grant the wish if no important obstacles stand in the way. He thanks the Prince for his letter of the 7th. The matter does not pass through his hands because it is not in his department, but he hopes to see it settled to the Prince's satisfaction. Nothing in it concerns Trąbczyn directly.",
+  "claims": [
+   {
+    "statement": "Zastrow kündigt ein mit heutiger Post abgehendes Schreiben des Königs an.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Der König will den wahren Wert der südpreußischen Güter sowie von Krotoszyn und Polajewo untersuchen lassen, um sie gegeneinander abzuwägen.",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Stehen dem Tausch keine wichtigen Hindernisse entgegen, werde der König den Wunsch gern erfüllen.",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Dank für das Schreiben vom 7. des Monats.",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Die Sache gehört nicht in sein Fach, er hofft aber auf einen befriedigenden Abschluss.",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 25,
+    "word": "nur",
+    "note": "probably 'mich' ('könnte mich hiernächst glücklicher machen')"
+   },
+   {
+    "line": 25,
+    "word": "hier„",
+    "note": "probably 'hier¬' (the word continues as 'hiernächst')"
+   },
+   {
+    "line": 12,
+    "word": "den",
+    "note": "the dative 'dem König' is expected, but this may be the writer's own grammar"
+   },
+   {
+    "line": 18,
+    "word": "u.",
+    "note": "unclear abbreviation, perhaps 'unterthänigst' or 'ich'"
+   }
+  ],
+  "read_against": "3690a2d0cc79825e"
+ }
 }

@@ -148,5 +148,101 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Grevenitz schickt Triebenfeld die bei ihm eingegangene Post und zwei Original-Anlagen. Er meldet, dass Hoffrath Barby in Paris gestorben ist, und will bei der Witwe nachfragen. Der Staats Kanzler wurde erwartet und ist inzwischen angekommen. Philippischen soll gefährlich krank sein. Grevenitz bekundet Anteil an Triebenfelds Krankheit. Cosmar wurde in erster Instanz unredlichen Verfahrens überführt, hat aber appelliert; bleibt es dabei, verliert er die Vormundschaft."
+ "summary_de": "Grevenitz schickt Triebenfeld die bei ihm eingegangene Post und zwei Original-Anlagen. Er meldet, dass Hoffrath Barby in Paris gestorben ist, und will bei der Witwe nachfragen. Der Staats Kanzler wurde erwartet und ist inzwischen angekommen. Philippischen soll gefährlich krank sein. Grevenitz bekundet Anteil an Triebenfelds Krankheit. Cosmar wurde in erster Instanz unredlichen Verfahrens überführt, hat aber appelliert; bleibt es dabei, verliert er die Vormundschaft.",
+ "reading": {
+  "letter": "296",
+  "legibility": "partly garbled",
+  "notes": "Grevenitz writes from Berlin to Triebenfeld, addressed as a friend. He encloses post that has come for Triebenfeld and reports that Hoffrath Barby (probably Barbe, whose death is also reported in doc. 297) has died in Paris; he will ask the widow. The Staats Kanzler is expected this week, and a postscript says he arrived yesterday. Two original enclosures are sent. Philippischen is said to be seriously ill. Grevenitz sends sympathy on Triebenfeld's own illness. Cosmar has been found guilty at first instance of dishonest dealing and has appealed; if the verdict stands he loses the guardianship. The letter has nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Grevenitz schickt die bei ihm eingegangene Post und zwei Original-Anlagen",
+    "lines": [
+     5,
+     6,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Hoffrath Barby in Paris gestorben, will bei der Witwe nachfragen",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Staats Kanzler erwartet und inzwischen angekommen",
+    "lines": [
+     9,
+     10,
+     11,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Philippischen soll gefährlich krank sein",
+    "lines": [
+     11,
+     12,
+     13,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Anteil an Triebenfelds Krankheit",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Cosmar in erster Instanz unredlichen Verfahrens überführt, hat appelliert, verliert sonst die Vormundschaft",
+    "lines": [
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "by",
+    "note": "'Bar¬by' may be a misreading of Barbe, whose death is reported in doc. 297. Not proven, so not corrected."
+   },
+   {
+    "line": 14,
+    "word": "nahm",
+    "note": "Probably 'nahe' (nahe gehet)."
+   },
+   {
+    "line": 25,
+    "word": "führ",
+    "note": "Probably 'führt' (überführt geachtet)."
+   },
+   {
+    "line": 36,
+    "word": "ihn",
+    "note": "'ihn fährlich' probably 'gefährlich'."
+   },
+   {
+    "line": 11,
+    "word": "Philippischen",
+    "note": "Unclear name, perhaps 'Die Philippischen' or a misreading."
+   }
+  ],
+  "read_against": "609a372cfc655fc5"
+ }
 }

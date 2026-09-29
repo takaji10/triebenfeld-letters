@@ -325,5 +325,100 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld, in Poznań mit Gallenfieber bettlägerig, berichtet über die Broniewski-Sache. Der geschlossene Vergleich biete keine Sicherheit und solle umgeändert werden; dazu brauche es Broniewskis Frau. Wunster halte er für einen Spitzbuben, der mit Broniewski und Guderian zusammenstecke. Meyer Bernhard und Simon wollten statt 13000 Rthl nur 6000 Rthl zahlen. Plan: Broniewski leistet Sicherheit, Glenck dringt auf Deponierung der 66000 Rthl; Broniewski erhält 53000 Rthl, der Fürst 13000 Rthl. Aus Pszczew will er 30000 Rthl holen."
+ "summary_de": "Triebenfeld, in Poznań mit Gallenfieber bettlägerig, berichtet über die Broniewski-Sache. Der geschlossene Vergleich biete keine Sicherheit und solle umgeändert werden; dazu brauche es Broniewskis Frau. Wunster halte er für einen Spitzbuben, der mit Broniewski und Guderian zusammenstecke. Meyer Bernhard und Simon wollten statt 13000 Rthl nur 6000 Rthl zahlen. Plan: Broniewski leistet Sicherheit, Glenck dringt auf Deponierung der 66000 Rthl; Broniewski erhält 53000 Rthl, der Fürst 13000 Rthl. Aus Pszczew will er 30000 Rthl holen.",
+ "reading": {
+  "letter": "141",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, laid up in Posen with gall fever, writes to the Prince about the Broniewski affair. The settlement (Vergleich) that has been concluded gives no security. Redoing it needs Broniewski's wife, who is in Kollo or Warschau. He calls Wunster a scoundrel who colludes with Broniewski and Guderian and pushed the bad settlement through Glenck. Meyer Bernhard and Simon want to pay 6000 instead of 13000 rt. His plan: Broniewski gives security, Glenck presses for 66000 rt to be deposited with Melzer, Broniewski hands over the estates, then Broniewski takes his 53000 rt and Glenck the 13000 for the Prince. There was an attempted seizure (Pfändung) in Betsche; he aims at 30000 rt from Betsche. He defends his openness towards Glenck. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld liegt in Poznań mit Gallenfieber im Bett",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Der Vergleich in der Broniewski-Sache bietet keine Sicherheit und soll umgeändert werden; dazu wird Broniewskis Frau gebraucht",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Wunster hält er für einen Spitzbuben, der mit Broniewski und Guderian zusammensteckt",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Meyer Bernhard und Simon wollen statt 13000 Rthl nur 6000 Rthl zahlen",
+    "lines": [
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Plan: Broniewski leistet Sicherheit, Glenck dringt auf Deponierung der 66000 Rthl bei Melzer",
+    "lines": [
+     23,
+     24,
+     25
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht 'mit Melzer dringen'. Dass bei Melzer hinterlegt werden soll, sagt der Brief nicht."
+   },
+   {
+    "statement": "Broniewski erhält 53000 Rthl, Glenck 13000 Rthl für den Fürsten",
+    "lines": [
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Er will 30000 Rthl aus Pszczew holen",
+    "lines": [
+     31,
+     32
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "sey",
+    "note": "probably 'sein' (sein Weib)"
+   },
+   {
+    "line": 17,
+    "word": "d",
+    "note": "stray letter after Tauſend, perhaps a currency abbreviation"
+   },
+   {
+    "line": 20,
+    "word": "ein",
+    "note": "probably 'um' (um hernach)"
+   },
+   {
+    "line": 40,
+    "word": "wohn",
+    "note": "unclear, perhaps 'weh' or 'unrecht'"
+   },
+   {
+    "line": 10,
+    "word": "wertl.",
+    "note": "probably 'werth'"
+   },
+   {
+    "line": 33,
+    "word": "höchst die jeden",
+    "note": "garbled, perhaps 'höchstdieselben'"
+   }
+  ],
+  "read_against": "700316cbac143fd9"
+ }
 }

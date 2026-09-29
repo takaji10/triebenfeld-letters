@@ -388,5 +388,101 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bestätigt den Empfang von 1125 fl Papiergeld. Er hat die Schreiben an den König und den Staats Kanzler abgegeben und Briefe an General v. Schöler und Stägemann schreiben lassen. Die Trąbczyner Sache macht ihm Sorge, weil die Gegend wahrscheinlich an Russland fällt. Er will den Kaiser durch General v. Schöler bearbeiten lassen. Nach Hoffrath Hahn ergibt der Ausweis der Beamten kaum halb so viel Einkünfte der Majoratsgüter."
+ "summary_de": "Triebenfeld bestätigt den Empfang von 1125 fl Papiergeld. Er hat die Schreiben an den König und den Staats Kanzler abgegeben und Briefe an General v. Schöler und Stägemann schreiben lassen. Die Trąbczyner Sache macht ihm Sorge, weil die Gegend wahrscheinlich an Russland fällt. Er will den Kaiser durch General v. Schöler bearbeiten lassen. Nach Hoffrath Hahn ergibt der Ausweis der Beamten kaum halb so viel Einkünfte der Majoratsgüter.",
+ "reading": {
+  "letter": "268",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna during the Congress to the Prince. He has received 1125 fl and delivered letters to the King and to Hardenberg. He had letters written to General v. Schöler and Stägemann and handed a Revers to Barbe. He is waiting for the Brieg report and for Pourtalès. The Cosmar/Curische Erben business needs 112/m rt. He fears Trąbczyn will fall to Russia and wants the Kaiser worked on through Schöler. Court news: Württemberg, Köckritz. Hoffrath Hahn reports the Majorat revenues come to barely half. Postscript 268a: clothes cost 926 fl, and he begs for 200 Ducaten, partly to repay 100 # advanced by Hardenberg that Jordan is pressing him for.",
+  "claims": [
+   {
+    "statement": "Empfang von 1125 fl Papiergeld",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Schreiben an König und Staats Kanzler abgegeben, Briefe an Schöler und Stägemann",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Sorge um Trąbczyn, Gegend fällt wohl an Russland",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "will den Kaiser durch General v. Schöler bearbeiten lassen",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Hahn: Ausweis ergibt kaum halb so viel Einkünfte der Majoratsgüter",
+    "lines": [
+     35,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "bittet um 200 Ducaten, auch zur Rückzahlung von Hardenbergs Vorschuss",
+    "lines": [
+     64,
+     65,
+     71,
+     72,
+     73,
+     74,
+     75
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "höchſtenrehrtes",
+    "note": "probably höchstverehrtes"
+   },
+   {
+    "line": 27,
+    "word": "entschiffen",
+    "note": "probably entziffern"
+   },
+   {
+    "line": 23,
+    "word": "sie",
+    "note": "probably so"
+   },
+   {
+    "line": 44,
+    "word": "dersteten",
+    "note": "unclear, perhaps 'der sterbliche'"
+   },
+   {
+    "line": 48,
+    "word": "Gift zähen",
+    "note": "probably Giftzähne"
+   },
+   {
+    "line": 60,
+    "word": "Frade",
+    "note": "probably Frack"
+   },
+   {
+    "line": 41,
+    "word": "den wohne",
+    "note": "garbled, perhaps 'denn wovon'"
+   }
+  ],
+  "read_against": "9da7f897d03c0965"
+ }
 }

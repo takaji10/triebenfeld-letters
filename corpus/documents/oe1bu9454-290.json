@@ -237,5 +237,99 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Nach 7 Monaten ist Cosmar angewiesen, die Gelder aus 3 Jahren, von denen jährlich 12/m Rthl den Gläubigern zugewiesen sind, schleunigst beim Oberlandesgericht Brzeg einzuzahlen und Rechnung zu legen. Stägemann verteidigt Cosmar und berät die Curischen Erbinnen. Minister Stein betreibt die Entschädigung durch das Amt Sokolnik und hat den Kanzler hinzugezogen, damit beide sie dem Kaiser vorschlagen. Triebenfeld will ein Memoire zur Curischen Sache und zum Militärgehalt einreichen. Triebenfeld bittet dringend um 100 # per Estaffette."
+ "summary_de": "Nach 7 Monaten ist Cosmar angewiesen, die Gelder aus 3 Jahren, von denen jährlich 12/m Rthl den Gläubigern zugewiesen sind, schleunigst beim Oberlandesgericht Brzeg einzuzahlen und Rechnung zu legen. Stägemann verteidigt Cosmar und berät die Curischen Erbinnen. Minister Stein betreibt die Entschädigung durch das Amt Sokolnik und hat den Kanzler hinzugezogen, damit beide sie dem Kaiser vorschlagen. Triebenfeld will ein Memoire zur Curischen Sache und zum Militärgehalt einreichen. Triebenfeld bittet dringend um 100 # per Estaffette.",
+ "reading": {
+  "letter": "290",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt aus Wien an den Fürsten. Nach 7 Monaten ist angeordnet, dass Cosmar die Gelder aus 3 Jahren (davon jährlich 12/m rt für die Gläubiger angewiesen) beim Oberlandesgericht Brieg einzahlen und Rechnung legen muss. Stägemann ist feindlich gesinnt und berät Cosmar und die Curischen Erbinnen. Der Fürst Kanzler verspricht alles und tut nichts. Minister Stein betreibt die Entschädigung durch das Amt Sokolnik. Triebenfeld will ein Memoire zur Curischen Sache und zum Militärgehalt einreichen. Im PS: Adolph hat sich beim König ungeschickt benommen. Bitte um 100 # per Estaffette. Mit Trąbczyn hat der Brief nichts zu tun.",
+  "claims": [
+   {
+    "statement": "Cosmar muss die Gelder aus 3 Jahren, von denen jährlich 12/m Rthl den Gläubigern zugewiesen sind, schleunigst beim Oberlandesgericht Brieg einzahlen und Rechnung legen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Stägemann verteidigt Cosmar und berät die Curischen Erbinnen",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Stein betreibt mit dem Kanzler beim Kaiser die Entschädigung durch das Amt Sokolnik",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ],
+    "check": "overstated",
+    "why": "Laut den Zeilen 13-16 arbeitet Stein an der Entschädigung und hat den Kanzler hinzugezogen, damit beide die Sache dem Kaiser vorschlagen. Der Vorschlag beim Kaiser ist also erst beabsichtigt und noch nicht geschehen."
+   },
+   {
+    "statement": "Memoire wegen der Curischen Angelegenheit und des Militärgehalts",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Adolph trat beim König ungeschickt auf",
+    "lines": [
+     26,
+     27,
+     28,
+     29
+    ],
+    "check": "overstated",
+    "why": "Das weiß Triebenfeld nur vom Hörensagen durch Oberstleutnant v F (Zeile 26), die Zusammenfassung stellt es aber als Tatsache dar. Außerdem nennt der Brief Adolph nicht 'Prinz'."
+   },
+   {
+    "statement": "Bitte um 100 # per Estaffette",
+    "lines": [
+     41,
+     43
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "hinte",
+    "note": "wohl 'hinter' (hinter sich habenden), am Zeilenende abgeschnitten"
+   },
+   {
+    "line": 28,
+    "word": "frey",
+    "note": "wohl 'frug'"
+   },
+   {
+    "line": 36,
+    "word": "thun, nie nacharten",
+    "note": "verderbt, Sinn unklar"
+   },
+   {
+    "line": 39,
+    "word": "rümt",
+    "note": "wohl 'rinnt'"
+   },
+   {
+    "line": 41,
+    "word": "meist",
+    "note": "wohl 'weiß'"
+   },
+   {
+    "line": 44,
+    "word": "schlagen",
+    "note": "wohl 'schlecht' o.ä."
+   }
+  ],
+  "read_against": "10b5636f537ff746"
+ }
 }

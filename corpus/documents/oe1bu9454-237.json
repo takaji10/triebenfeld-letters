@@ -265,5 +265,91 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet, ihm das Schreiben des Fürsten postlagernd nach Dresden zu senden; mit dem Schreiben an den Kaiser erhalte er Trąbczyn und Kamionna gewiss zurück. Er reist nach Dresden ab, da sein ältester Sohn in Naumburg durch beide Schenkel geschossen liegt. Amtmann König gab seinen letzten Brief in Syców zur Post, statt ihn nach Sławięcice zu schicken. Trzciński, Zerboni und Meierowitz bieten nur Ausflüchte, nur gegen Meierowitz läuft die Execution. Radke kann wegen 80000 Russen nicht abkommen."
+ "summary_de": "Triebenfeld bittet, ihm das Schreiben des Fürsten postlagernd nach Dresden zu senden; mit dem Schreiben an den Kaiser erhalte er Trąbczyn und Kamionna gewiss zurück. Er reist nach Dresden ab, da sein ältester Sohn in Naumburg durch beide Schenkel geschossen liegt. Amtmann König gab seinen letzten Brief in Syców zur Post, statt ihn nach Sławięcice zu schicken. Trzciński, Zerboni und Meierowitz bieten nur Ausflüchte, nur gegen Meierowitz läuft die Execution. Radke kann wegen 80000 Russen nicht abkommen.",
+ "reading": {
+  "letter": "237",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kalisz to the Prince. His last letter went via Amtmann König, who posted it in Polnisch Wartenberg rather than sending it by express to Schlawenschitz. He must leave tonight for Dresden because his eldest son lies in Naumburg, shot through both thighs. He will be back in Dresden within 12 days and asks for the Prince's letter to be sent there to wait at the post office. Once he has the Prince's letter to the Emperor, he expects to get Trąbczyn and Kaemen back. He has not seen Trzciński, König, Zerboni or Meierowitz and gets only evasions. Execution has been levied against Meierowitz alone. Radke cannot get away because 80000 Russians stand in his area.",
+  "claims": [
+   {
+    "statement": "Bittet, das Schreiben postlagernd nach Dresden zu senden",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Mit dem Schreiben an den Kaiser erhalte er Trąbczyn und Kamionna gewiss zurück",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Reist nach Dresden, ältester Sohn in Naumburg durch beide Schenkel geschossen",
+    "lines": [
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Amtmann König gab den Brief in Syców zur Post statt ihn nach Sławięcice zu schicken",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Trzciński, Zerboni, Meierowitz nur Ausflüchte; Execution nur gegen Meierowitz",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Radke kann wegen 80000 Russen nicht abkommen",
+    "lines": [
+     22,
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "könten und könne und kann auch",
+    "note": "garbled repetition, probably 'bat'/'ersuchte' or similar"
+   },
+   {
+    "line": 15,
+    "word": "Beruf",
+    "note": "probably 'Brief'"
+   },
+   {
+    "line": 18,
+    "word": "Fieder entworfen Art",
+    "note": "garbled; perhaps 'in Händen' or similar"
+   },
+   {
+    "line": 12,
+    "word": "gehn",
+    "note": "probably 'gehe'"
+   },
+   {
+    "line": 25,
+    "word": "tiefen Respect",
+    "note": "closing formula, possibly 'tiefstem Respect'"
+   }
+  ],
+  "read_against": "5fa2ffd8d2436e18"
+ }
 }

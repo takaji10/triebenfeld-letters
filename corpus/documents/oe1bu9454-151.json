@@ -297,5 +297,93 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Die Mennonisten sind in Trąbczyn und wollen beide Güter zusammen kaufen, doch hoher Schnee verhindert alle Arbeiten. Die Taxe muss umgearbeitet werden: Swięcia bringt statt 1800 nur 918 Rthl, Wrąbczyn statt 1500 nur 1123 Rthl. Hundert Hufen Wald bei Grądzyń und Drzewce sollen 3000 Rthl Zinsen, also 60000 Rthl Capital, bringen. Lichnowski hat einen Teil der 10000 Rthl der Oleśnicer mit Arrest belegt. Laut Nerlich verweigern die Wrąbczyner die Weihnachtsrate."
+ "summary_de": "Die Mennonisten sind in Trąbczyn und wollen beide Güter zusammen kaufen, doch hoher Schnee verhindert alle Arbeiten. Die Taxe muss umgearbeitet werden: Swięcia bringt statt 1800 nur 918 Rthl, Wrąbczyn statt 1500 nur 1123 Rthl. Hundert Hufen Wald bei Grądzyń und Drzewce sollen 3000 Rthl Zinsen, also 60000 Rthl Capital, bringen. Lichnowski hat einen Teil der 10000 Rthl der Oleśnicer mit Arrest belegt. Laut Nerlich verweigern die Wrąbczyner die Weihnachtsrate.",
+ "reading": {
+  "letter": "151",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Trąbczyn to the Prince, replying to letters of 30 Nov and 2 Dec. He is glad about Nothardt as a friend and future Director and mentions the Harlem/Nöldichen affair. His report: the Mennonites are in Trąbczyn and want to buy both estates, but snow stops all work. He plans to sell 100 Hufen of forest at Grądzyń and Drzewce. Revenues fall short at Swięcia and Wrąbczyn, so the Taxe has to be redone. Lichnowski has put an arrest on part of the Oleśnica payment. The Wrąbczyn people refuse their Christmas instalment. Capital for Schlabrendorff and Lichnowski is to come from Berlin.",
+  "claims": [
+   {
+    "statement": "Mennonisten in Trąbczyn wollen beide Güter zusammen kaufen",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Schnee verhindert Arbeiten",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Taxe muss umgearbeitet werden",
+    "lines": [
+     30,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Swięcia 918 statt 1800 Rthl, Wrąbczyn 1123 statt 1500 Rthl",
+    "lines": [
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "100 Hufen Wald Grądzyń/Drzewce: 3000 Rthl Zinsen, 60000 Rthl Capital",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Lichnowski hat Teil der 10000 Rthl der Oleśnicer mit Arrest belegt",
+    "lines": [
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Wrąbczyner verweigern laut Nerlich die Weihnachtsrate",
+    "lines": [
+     37,
+     38
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "mir",
+    "note": "likely 'nur' (conjunction)"
+   },
+   {
+    "line": 18,
+    "word": "gern",
+    "note": "garbled; perhaps 'ewigen' Zins"
+   },
+   {
+    "line": 19,
+    "word": "Die",
+    "note": "possibly 'Denn'"
+   },
+   {
+    "line": 23,
+    "word": "den",
+    "note": "likely 'denn'"
+   },
+   {
+    "line": 58,
+    "word": "Hochachtung",
+    "note": "edition formula is 'In tiefster Ehrfurcht ersterbe', but doc 149 also reads Hochachtung; not changed"
+   }
+  ],
+  "read_against": "98de820c268cdb34"
+ }
 }

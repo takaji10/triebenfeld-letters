@@ -190,5 +190,85 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass ihm durch Vermittlung des Generals v. Köckritz ein Darlehn aus der Invaliden Casse zugesagt ist. Nach der Bewilligung will er 60000 Rthl nehmen, die geliehenen zehntausend zurückzahlen und dem Fürsten 50/m Rthl schicken, damit die Schlabrendorff bezahlt werden kann. Pochammer werde keine Klage einreichen, wenn sie in diesem Vierteljahr Geld erhält. Giraud und Haugt will er die Zinsen zahlen und ihre Hypothek an jemanden cedieren lassen, der 18000 Rthl auf vier Jahre gibt."
+ "summary_de": "Triebenfeld meldet, dass ihm durch Vermittlung des Generals v. Köckritz ein Darlehn aus der Invaliden Casse zugesagt ist. Nach der Bewilligung will er 60000 Rthl nehmen, die geliehenen zehntausend zurückzahlen und dem Fürsten 50/m Rthl schicken, damit die Schlabrendorff bezahlt werden kann. Pochammer werde keine Klage einreichen, wenn sie in diesem Vierteljahr Geld erhält. Giraud und Haugt will er die Zinsen zahlen und ihre Hypothek an jemanden cedieren lassen, der 18000 Rthl auf vier Jahre gibt.",
+ "reading": {
+  "letter": "157",
+  "legibility": "sound",
+  "notes": "Triebenfeld schreibt aus Berlin an den Fürsten: Durch General v. Köckritz ist ein Darlehn aus der Invaliden Casse zugesagt, wann es kommt, ist noch offen. In Berlin herrscht Geldnot. Pochammer will keine Klage für die Schlabrendorff einreichen, wenn sie in diesem Vierteljahr Geld bekommt. Giraud und Haugt sollen ihre Zinsen erhalten, ihre Hypothek soll an einen Geldgeber über 18000 rt auf vier Jahre cediert werden. Ist das Darlehn bewilligt, will er 60000 Rthl nehmen, die geliehenen zehntausend zurückzahlen und dem Fürsten 50/m rt schicken. Im Postskript: Brief an Homuth, er möge die Gräfin beruhigen. Kein Bezug zu Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Durch Vermittlung des Generals v. Köckritz ist das Darlehn aus der Invaliden Casse zugesagt",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Nach Bewilligung will er 60000 Rthl nehmen, die geliehenen zehntausend zurückzahlen und 50/m Rthl schicken, damit die Schlabrendorff bezahlt werden kann",
+    "lines": [
+     28,
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Pochammer werde keine Klage einreichen, wenn sie in diesem Vierteljahr Geld erhält",
+    "lines": [
+     16,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Giraud und Haugt Zinsen zahlen, Hypothek an jemanden cedieren, der 18000 Rthl auf vier Jahre gibt",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Homuth gebeten, die Gräfin zu beruhigen",
+    "lines": [
+     35,
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 26,
+    "word": "Bicke",
+    "note": "wahrscheinlich 'biedere' (vgl. 'bidern Generale' Z. 4)"
+   },
+   {
+    "line": 27,
+    "word": "Incletiarius[?]",
+    "note": "unklares Amt beim Militair Department, der Wortlaut ist unsicher"
+   },
+   {
+    "line": 28,
+    "word": "Köehnen",
+    "note": "Name unsicher gelesen"
+   },
+   {
+    "line": 31,
+    "word": "Frändische Siehe",
+    "note": "verlesen, vielleicht 'Fränkische Schulden' o.ä."
+   },
+   {
+    "line": 35,
+    "word": "Homuth",
+    "note": "in Dok. 156 'Hemuth' (Kanzler), eine der beiden Formen ist möglicherweise verlesen"
+   }
+  ],
+  "read_against": "1a351beaf77b52b7"
+ }
 }

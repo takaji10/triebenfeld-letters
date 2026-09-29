@@ -106,5 +106,55 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn übersendet auf Befehl des Fürsten, der eben mit dem alten Herrn zur Kirche fährt, einen beiliegenden Brief mit dessen Empfehlung an Triebenfeld. Der Fürst hätte gern selbst geschrieben, doch die Ordonanz gehe schon in einer Stunde ab. Der alte Fürst sei für sein Alter sehr wohl und zeige viel Attachement für Hahns Herrn. Die Rückkunft nach Wrocław sei unfehlbar auf den 25. bestimmt."
+ "summary_de": "Hahn übersendet auf Befehl des Fürsten, der eben mit dem alten Herrn zur Kirche fährt, einen beiliegenden Brief mit dessen Empfehlung an Triebenfeld. Der Fürst hätte gern selbst geschrieben, doch die Ordonanz gehe schon in einer Stunde ab. Der alte Fürst sei für sein Alter sehr wohl und zeige viel Attachement für Hahns Herrn. Die Rückkunft nach Wrocław sei unfehlbar auf den 25. bestimmt.",
+ "reading": {
+  "letter": "167",
+  "legibility": "sound",
+  "notes": "A. Hahn, who serves the Prince (\"meinen gnädigsten Herren\"), writes from Öhringen to Krieges und Forst Rath von Triebenfeld. He is covering an enclosed letter. The Prince was about to drive to church with \"dem alten Herrn\" and told Hahn to send it with his regards. He would have written himself, but the courier (Ordonanz) leaves within the hour. The old Prince is very well for his age and shows great attachment to Hahn's master. Postscript: the return to Breslau is fixed for the 25th. Nothing about Trąbczyn. The text is sound. Nothing needs a provable correction.",
+  "claims": [
+   {
+    "statement": "Hahn übersendet auf Befehl des Fürsten, der mit dem alten Herrn zur Kirche fährt, einen beiliegenden Brief mit dessen Empfehlung.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Der Fürst hätte selbst geschrieben, doch die Ordonanz geht in einer Stunde ab.",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Der alte Fürst ist für sein Alter sehr wohl und zeigt viel Attachement für Hahns Herrn.",
+    "lines": [
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Die Rückkunft nach Wrocław ist unfehlbar auf den 25. bestimmt.",
+    "lines": [
+     25,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Raths",
+    "note": "Possibly meant to be 'Rath' in the address formula; the genitive-looking -s may be the writer's own form."
+   }
+  ],
+  "read_against": "43986c8033028152"
+ }
 }

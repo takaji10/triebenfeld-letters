@@ -231,5 +231,107 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat weder aus Berlin noch aus Frankfurt Briefe und bittet den Fürsten, ihm tröstliche Nachrichten von Glenck mitzuteilen. Wegen Kolzig antwortet Amelang nicht; schweigt er weiter, müsse der Verkauf von Konotop eifrig betrieben werden. Den Pächter Bernhardi hat er herbestellt und angewiesen, die Güter jedem Kauflustigen zu empfehlen, statt den Kauf aus Eigennutz zu hindern, und Ludolff und Stubenrauch gut aufzunehmen. Nachmittags will er die Sendung nach Südpreußen herausbringen."
+ "summary_de": "Triebenfeld hat weder aus Berlin noch aus Frankfurt Briefe und bittet den Fürsten, ihm tröstliche Nachrichten von Glenck mitzuteilen. Wegen Kolzig antwortet Amelang nicht; schweigt er weiter, müsse der Verkauf von Konotop eifrig betrieben werden. Den Pächter Bernhardi hat er herbestellt und angewiesen, die Güter jedem Kauflustigen zu empfehlen, statt den Kauf aus Eigennutz zu hindern, und Ludolff und Stubenrauch gut aufzunehmen. Nachmittags will er die Sendung nach Südpreußen herausbringen.",
+ "reading": {
+  "letter": "129",
+  "legibility": "partly garbled",
+  "notes": "A short note from Triebenfeld in Breslau to the Prince. He has no letters from Berlin or Frankfurt and is anxious, and asks for any news from Glenck. On Kolzig, Amelang does not answer. If Amelang stays silent, the sale of Kontop (Konotop) must be pushed hard. He summoned the tenant Bernhardi and told him to recommend the estates to buyers, because a tenant might block the sale or be bribed. Bernhardi is to receive Ludolf and Stubenrauch well. In the afternoon he will bring out the things for Südpreußen. Nothing here concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Keine Briefe aus Berlin oder Frankfurt; bittet um tröstliche Nachricht von Glenck",
+    "lines": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Wegen Kolzig antwortet Amelang nicht; bei weiterem Schweigen muss der Verkauf von Konotop eifrig betrieben werden",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Pächter Bernhardi herbestellt, soll die Güter Kauflustigen empfehlen statt den Kauf zu hindern",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Bernhardi soll Ludolff und Stubenrauch gut aufnehmen und alles von der besten Seite schildern",
+    "lines": [
+     23,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Nachmittags will er das nach Südpreußen zu Schickende herausbringen",
+    "lines": [
+     27,
+     28
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "gantirt",
+    "note": "possibly 'garantirt'; reading uncertain"
+   },
+   {
+    "line": 17,
+    "word": "Dem",
+    "note": "probably 'Denn'"
+   },
+   {
+    "line": 17,
+    "word": "ſelch",
+    "note": "probably 'solch ein'"
+   },
+   {
+    "line": 20,
+    "word": "ſolcht",
+    "note": "garbled, perhaps 'sucht'"
+   },
+   {
+    "line": 22,
+    "word": "ihm",
+    "note": "probably 'ihn'"
+   },
+   {
+    "line": 23,
+    "word": "ihr",
+    "note": "probably 'ihn'; 'sage ... fort' perhaps 'schicke ... fort'"
+   },
+   {
+    "line": 29,
+    "word": "dern",
+    "note": "probably 'deren'"
+   },
+   {
+    "line": 10,
+    "word": "gemachte",
+    "note": "perhaps 'gemachten'"
+   }
+  ],
+  "read_against": "22f6145a0d6a60ac"
+ }
 }

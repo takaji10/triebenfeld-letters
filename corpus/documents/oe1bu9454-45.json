@@ -401,5 +401,138 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat Berlin verlassen, um der Haft zu entgehen, nachdem das Gericht die sofortige Zahlung von 3000 Rthl an Lahr verfügte. Amelang hat appelliert. Kaufmann Michaelis gab 2400 Rthl zur Bezahlung Mathieus. Triebenfeld dankt für die Zusage von 600 Centner Eisen, die er Michaelis bis 1. May zu 4 Rthl je Centner frei Berlin verkauft hat, und bittet um Lieferung nach Konotop Anfang April sowie um 100 f d'or und 100 Ducaten. Hawich und Hecker brachten gute Nachricht aus Zagórów."
+ "summary_de": "Triebenfeld hat Berlin verlassen, um der Haft zu entgehen, nachdem das Gericht die sofortige Zahlung von 3000 Rthl an Lahr verfügte. Amelang hat appelliert. Kaufmann Michaelis gab 2400 Rthl zur Bezahlung Mathieus. Triebenfeld dankt für die Zusage von 600 Centner Eisen, die er Michaelis bis 1. May zu 4 Rthl je Centner frei Berlin verkauft hat, und bittet um Lieferung nach Konotop Anfang April sowie um 100 f d'or und 100 Ducaten. Hawich und Hecker brachten gute Nachricht aus Zagórów.",
+ "reading": {
+  "letter": "45",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Konotop to the Prince. He left Berlin in a hurry because the court ordered him to pay von der Lahr 3000 rt, and he feared arrest. Amelang has appealed. Michaelis lent him 2400 rt to pay Mathieu. He thanks the Prince for promising 600 Centner of iron, which he has contracted to deliver to Michaelis by 1 May at 4 rt per Centner, at the Ober Baum in Berlin, and asks for it to be sent to Konotop in early April. He asks for 100 f d'or and 100 Ducaten. He reports Amelang's news about Cosmar. In a postscript, Hawich and Hecker have arrived from Zagórów with good news. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hat Berlin verlassen, um der Haft zu entgehen",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Gericht verfügte sofortige Zahlung von 3000 Rthl an Lahr",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Amelang hat appelliert",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Michaelis gab 2400 Rthl zur Bezahlung Mathieus",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Dank für Zusage von 600 Centner Eisen, Vertrag mit Michaelis bis 1. May zu 4 Rthl je Centner frei Berlin",
+    "lines": [
+     30,
+     33,
+     34,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Bitte um Lieferung nach Konotop Anfang April",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Bitte um 100 f d'or und 100 Ducaten",
+    "lines": [
+     27,
+     28,
+     58,
+     59
+    ]
+   },
+   {
+    "statement": "Hawich und Hecker kamen mit guter Nachricht aus Zagórów",
+    "lines": [
+     67,
+     68,
+     69
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Vandertahr",
+    "note": "probably 'van der Lahr' (cf. line 25)"
+   },
+   {
+    "line": 8,
+    "word": "Decretenster",
+    "note": "probably 'Decret erster'"
+   },
+   {
+    "line": 11,
+    "word": "haft",
+    "note": "probably 'hofft'"
+   },
+   {
+    "line": 19,
+    "word": "Cedirt",
+    "note": "probably 'lädirt'"
+   },
+   {
+    "line": 41,
+    "word": "nicht",
+    "note": "probably 'doch'"
+   },
+   {
+    "line": 45,
+    "word": "wäre",
+    "note": "probably 'rar'"
+   },
+   {
+    "line": 48,
+    "word": "Worten",
+    "note": "probably 'Werth'"
+   },
+   {
+    "line": 49,
+    "word": "Canzner",
+    "note": "probably 'Centner'"
+   },
+   {
+    "line": 51,
+    "word": "trafhändig",
+    "note": "garbled"
+   },
+   {
+    "line": 54,
+    "word": "frey",
+    "note": "probably 'frug'"
+   },
+   {
+    "line": 64,
+    "word": "unbegrünsteten",
+    "note": "probably 'unbegränztesten'"
+   },
+   {
+    "line": 71,
+    "word": "unterthum",
+    "note": "probably 'unterthänigst'"
+   }
+  ],
+  "read_against": "45e830179bb66033"
+ }
 }

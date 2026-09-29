@@ -192,5 +192,82 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat in Berlin nur Schwindel und Lügen vorgefunden: Ohne sein Kommen wäre Ewr Durchlaucht angeführt worden, von dort sei kein Heller zu erwarten. Er will am 20. nach Frankfurt zurück, mit Leixner wegen Kamionna abschließen und die für Koszęcin nötigen Gelder sichern. Man mache eher Hoffnung auf die Güter, da der König kein Geld weggeben wolle. In der Broniewskischen Sache soll der Arrest angenommen werden, sobald die Causae arresti nachgewiesen sind."
+ "summary_de": "Triebenfeld hat in Berlin nur Schwindel und Lügen vorgefunden: Ohne sein Kommen wäre Ewr Durchlaucht angeführt worden, von dort sei kein Heller zu erwarten. Er will am 20. nach Frankfurt zurück, mit Leixner wegen Kamionna abschließen und die für Koszęcin nötigen Gelder sichern. Man mache eher Hoffnung auf die Güter, da der König kein Geld weggeben wolle. In der Broniewskischen Sache soll der Arrest angenommen werden, sobald die Causae arresti nachgewiesen sind.",
+ "reading": {
+  "letter": "131",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Berlin to the Prince. He has made enquiries in Berlin and says the reports there are lies. On the 20th he means to go back to Frankfurt, settle with Leixner over Kemen (Kamionna) and secure the money needed for Koschentin (Koszęcin). He will prepare the ground so the Prince gets \"Koltzig\" (doubtful) or the loan. He thinks there is more hope for the estates than for money, because the King does not want to give money away and Russia wants war. In the Broniewski affair the arrest is to be accepted once the causae arresti are proven. The rest (2000 rt, Mell[itz?] and Glenck) is garbled. Nothing here concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "In Berlin findet er nur Schwindel und Lügen vor, ohne sein Kommen wäre der Fürst angeführt worden, von dort ist kein Heller zu erwarten",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er will am 20. nach Frankfurt zurück, mit Leixner wegen Kamionna abschließen und die Gelder für Koszęcin sichern",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Man macht eher Hoffnung auf die Güter, weil der König kein Geld weggeben will",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "In der Broniewskischen Sache soll der Arrest angenommen werden, sobald die Causae arresti nachgewiesen sind",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Schwindeleine",
+    "note": "probably Schwindeleien"
+   },
+   {
+    "line": 12,
+    "word": "schließen",
+    "note": "the sentence needs 'schließe' (first person, parallel to 'gehe ich')"
+   },
+   {
+    "line": 15,
+    "word": "Kol¬tzig",
+    "note": "doubtful name of an estate; possibly a misreading"
+   },
+   {
+    "line": 22,
+    "word": "Schlagen",
+    "note": "probably 'Arrestschlag' or 'Arrest-Schlag'; the sentence is garbled"
+   },
+   {
+    "line": 25,
+    "word": "an",
+    "note": "the sentence about the 2000 rt in f. d'or is garbled"
+   },
+   {
+    "line": 27,
+    "word": "gewust",
+    "note": "unclear, perhaps 'gewesen'"
+   }
+  ],
+  "read_against": "5909a854c81cee84"
+ }
 }

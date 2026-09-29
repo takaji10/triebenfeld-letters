@@ -114,5 +114,61 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Michaelis meldet, dass Baurath Glenck ihm die Quittungen der Gleisſenbergen und des Schneider übergeben hat. Damit kann er dem General Auditoriat auf dessen Verfügungen antworten, die dem Fürsten mitgeteilt worden waren. Er erwartet, dass Krieges Rath v. Triebenfeld dem Fürsten heute über den Stand einer weiteren Angelegenheit berichtet, deren Bezeichnung unsicher gelesen ist."
+ "summary_de": "Michaelis meldet, dass Baurath Glenck ihm die Quittungen der Gleisſenbergen und des Schneider übergeben hat. Damit kann er dem General Auditoriat auf dessen Verfügungen antworten, die dem Fürsten mitgeteilt worden waren. Er erwartet, dass Krieges Rath v. Triebenfeld dem Fürsten heute über den Stand einer weiteren Angelegenheit berichtet, deren Bezeichnung unsicher gelesen ist.",
+ "reading": {
+  "letter": "92",
+  "legibility": "sound",
+  "notes": "Michaelis writes from Berlin to the Prince. He has the information the Prince asked for: Baurath Glenck handed him receipts from \"Gleisſenbergen\" and Schneider, so he can now answer the orders of the General Auditoriat that were communicated to the Prince. He expects Triebenfeld to report today on the state of the \"Kroctoczyner tausp.\" matter, probably the Krotoszyn exchange (Tausch), but that reading is garbled. The letter has nothing to do with Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Baurath Glenck hat Michaelis die Quittungen der Gleisſenbergen und des Schneider übergeben",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Damit kann er dem General Auditoriat auf dessen dem Fürsten mitgeteilte Verfügungen antworten",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er erwartet, dass Triebenfeld heute über den Stand einer Angelegenheit berichtet (Bezeichnung unsicher)",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "Kroctoczyner",
+    "note": "probably Krotoszyner (Krotoszyn), cf. the Krotoszyn exchange in doc. 94; not proven"
+   },
+   {
+    "line": 13,
+    "word": "tausp.",
+    "note": "probably Tausch (exchange); garbled"
+   },
+   {
+    "line": 7,
+    "word": "Gleisſenbergen",
+    "note": "name doubtful, possibly misread"
+   },
+   {
+    "line": 6,
+    "word": "Donntag",
+    "note": "probably an abbreviation of Donnerstag"
+   }
+  ],
+  "read_against": "c6425d4ffb25ae07"
+ }
 }

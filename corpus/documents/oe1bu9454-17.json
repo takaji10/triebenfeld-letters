@@ -401,5 +401,93 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wehrt sich gegen den Vorwurf, den General Kleist vor Prefect Graf Garczynski in Kalisz erhob: Die Söhne des Fürsten hätten in Berlin erzählt, Triebenfeld stecke alle Einkünfte ein. Er verweist auf Cabanis, Hecker, Honrichs und die Sequestratoren und lässt die Sache durch Komornik v. Chomanowski untersuchen. Die Zinsrückstände betrügen ohne die Olesnicer, Wrąbczyner und Bauerngüter an 30000 Rthl. Er beklagt Gerüchte Sommers über die Schulden des Fürsten und bittet um schnelle Antwort wegen Sobottendorff, Weigel und der Invaliden-Summe."
+ "summary_de": "Triebenfeld wehrt sich gegen den Vorwurf, den General Kleist vor Prefect Graf Garczynski in Kalisz erhob: Die Söhne des Fürsten hätten in Berlin erzählt, Triebenfeld stecke alle Einkünfte ein. Er verweist auf Cabanis, Hecker, Honrichs und die Sequestratoren und lässt die Sache durch Komornik v. Chomanowski untersuchen. Die Zinsrückstände betrügen ohne die Olesnicer, Wrąbczyner und Bauerngüter an 30000 Rthl. Er beklagt Gerüchte Sommers über die Schulden des Fürsten und bittet um schnelle Antwort wegen Sobottendorff, Weigel und der Invaliden-Summe.",
+ "reading": {
+  "letter": "17",
+  "legibility": "partly garbled",
+  "notes": "Pro Memoria from Triebenfeld to the Prince. General Kleist asked Prefect Garczynski in Kalisz about the Hohenlohe estates. Kleist said the Prince's sons had told him in Berlin that Triebenfeld pockets all the income. Triebenfeld defends himself: Cabanis, Hecker, Honrichs and the sequestrators managed the estates, and Cabanis is now laying his account before Komornik Chomanowski. He gives figures for the interest arrears. He complains that Sommer has spread rumours about the Prince's debts and asks that Sommer not be sent again. He asks for a quick answer on Sobottendorff, Weigel and the Invaliden sum, and for the Anweisung on the French decree and the original receipt. Much of the text is garbled.",
+  "claims": [
+   {
+    "statement": "General Kleist fragte in Kalisz Prefect Graf Garczynski nach den Hohenlohischen Gütern; die Söhne hätten in Berlin erzählt, Triebenfeld stecke alle Einkünfte ein",
+    "lines": [
+     3,
+     4,
+     5,
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er verweist auf Cabanis, Hecker, Honrichs und die Sequestratoren; Untersuchung durch Komornik v. Chomanowski",
+    "lines": [
+     16,
+     17,
+     19,
+     20,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Zinsrückstände ohne Olesnicer, Wrąbczyner und Bauerngüter an 30000 Rthl",
+    "lines": [
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Gerüchte Sommers über Schulden des Fürsten",
+    "lines": [
+     57,
+     58,
+     59,
+     60,
+     61
+    ]
+   },
+   {
+    "statement": "Bitte um schnelle Antwort wegen Sobottendorff, Weigel und Invaliden-Summe",
+    "lines": [
+     73,
+     74
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 42,
+    "word": "1500",
+    "note": "probably 15000 (cf. doc 233: 14. bis 15000 rt); figure not changed"
+   },
+   {
+    "line": 16,
+    "word": "lassen halten",
+    "note": "garbled, perhaps 'Haushalter' or similar"
+   },
+   {
+    "line": 52,
+    "word": "Quette",
+    "note": "garbled, perhaps 'Quelle'"
+   },
+   {
+    "line": 82,
+    "word": "außen Siedort",
+    "note": "garbled passage"
+   },
+   {
+    "line": 85,
+    "word": "Departements",
+    "note": "likely 'Gouvernements' (cf. doc 232 line 57)"
+   },
+   {
+    "line": 89,
+    "word": "Unzucht",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "1ceb8417595f5eb8"
+ }
 }

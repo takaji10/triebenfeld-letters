@@ -535,5 +535,136 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet nach siebenwöchiger Krankheit, er müsse vor Verpachtung von Konotop 8000 Rthl Rückstände zahlen und hoffe auf einen Holzkäufer. Honrichs ist eingetroffen; Triebenfeld rät, auf den Prefect einzugehen, der die Güter kaufen will und bei der Wiedererlangung der Trąbczyner Güter helfen kann, Dąbska die angeeigneten Güter zu entreißen und den Administrator abzuweisen. Hecker und Hawich stifteten Niedźwiecki und Ostarszewski zu einer Denunziation an, die Honrichs' Verhaftung bewirkte; die Denuncianten haben sie schriftlich widerrufen."
+ "summary_de": "Triebenfeld berichtet nach siebenwöchiger Krankheit, er müsse vor Verpachtung von Konotop 8000 Rthl Rückstände zahlen und hoffe auf einen Holzkäufer. Honrichs ist eingetroffen; Triebenfeld rät, auf den Prefect einzugehen, der die Güter kaufen will und bei der Wiedererlangung der Trąbczyner Güter helfen kann, Dąbska die angeeigneten Güter zu entreißen und den Administrator abzuweisen. Hecker und Hawich stifteten Niedźwiecki und Ostarszewski zu einer Denunziation an, die Honrichs' Verhaftung bewirkte; die Denuncianten haben sie schriftlich widerrufen.",
+ "reading": {
+  "letter": "63",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince. He has been ill for 7 weeks and is now recovering. He has a tenant for Konotop but must first pay 8000 rt of arrears. A man grown rich on French deliveries wants to buy wood. He hopes to be in Schlawenschitz by New Year. Affairs in Königsberg are said to be going well. Honrichs has arrived and brings a pro memoria with three points: deal with the Prefect who wants to buy the estates, because he could help recover the Trąbczyn estates; wrest from Dąbska the estates she seized; after the sequestration is lifted, the money must go to the Prince and the administrator must be rejected. Triebenfeld gave Honrichs provisional power of attorney and asks for authorisation. Hecker and Hawich stirred up Niedźwiecki, Ostarszewski and Lenski to denounce Honrichs, who was arrested. The denouncers have since retracted in writing.",
+  "claims": [
+   {
+    "statement": "Siebenwöchige Krankheit",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Vor Verpachtung von Konotop 8000 Rthl rückständige Zinsen und Schulden zu zahlen",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Hofft auf einen Holzkäufer, der voraus bezahlen will",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Honrichs ist eingetroffen",
+    "lines": [
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Auf den Prefect eingehen, der die Güter kaufen will und bei Wiedererlangung der Trąbczyner Güter helfen kann",
+    "lines": [
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Dąbska die angeeigneten Güter entreißen",
+    "lines": [
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Administrator abweisen",
+    "lines": [
+     36,
+     37,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Hecker und Hawich stifteten Niedźwiecki und Ostarszewski zur Denunziation an; Honrichs verhaftet",
+    "lines": [
+     47,
+     52,
+     53,
+     54,
+     55,
+     62,
+     63,
+     73,
+     74,
+     75
+    ]
+   },
+   {
+    "statement": "Denuncianten widerriefen schriftlich",
+    "lines": [
+     73,
+     74,
+     75,
+     78,
+     79,
+     83,
+     84
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Carte",
+    "note": "name or word unclear"
+   },
+   {
+    "line": 15,
+    "word": "Fürber",
+    "note": "possibly Färber"
+   },
+   {
+    "line": 26,
+    "word": "bis",
+    "note": "possibly 'ließ'"
+   },
+   {
+    "line": 31,
+    "word": "sind",
+    "note": "possibly 'Sous' (Sous-Prefect)"
+   },
+   {
+    "line": 58,
+    "word": "Hoft[?]",
+    "note": "possibly Hof"
+   },
+   {
+    "line": 61,
+    "word": "reconfeileration",
+    "note": "possibly Conföderation"
+   },
+   {
+    "line": 78,
+    "word": "Woche",
+    "note": "possibly Rache"
+   },
+   {
+    "line": 82,
+    "word": "Beschwörz",
+    "note": "likely beschwören"
+   }
+  ],
+  "read_against": "0821a3c792af4c9b"
+ }
 }

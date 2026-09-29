@@ -136,5 +136,82 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, der Kampf um „die Sache“ sei jetzt groß, und hofft auf Erfolg. Er klagt über die Zustände in Berlin und über die Bösewichter dort: Der Monarch sei gut, nicht aber die Minister. Die 7000 Rthl, die die Fürstin Sacken keinesfalls vorschießen will, würde er auf seinen eigenen Namen negociren und dafür seine ganze Habe verpfänden, damit die Sache nicht verloren geht. Mehrere Stellen sind unklar."
+ "summary_de": "Triebenfeld meldet, der Kampf um „die Sache“ sei jetzt groß, und hofft auf Erfolg. Er klagt über die Zustände in Berlin und über die Bösewichter dort: Der Monarch sei gut, nicht aber die Minister. Die 7000 Rthl, die die Fürstin Sacken keinesfalls vorschießen will, würde er auf seinen eigenen Namen negociren und dafür seine ganze Habe verpfänden, damit die Sache nicht verloren geht. Mehrere Stellen sind unklar.",
+ "reading": {
+  "letter": "90",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Berlin: a short, agitated note on \"die Sache\" (from the context letters, the estate exchange, but this letter does not name it). He says the fight is now at its height and hopes to win. He mentions the Prince's letter to Glenck about a \"gewiße Person\". He praises the monarch but laments the ministers. He offers to raise the 7000 rt that Fürstin Sacken will not advance in his own name, pledging all he owns. Lines 6-9 and 21-23 are partly garbled. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Der Kampf um die Sache ist jetzt groß, Triebenfeld hofft auf Erfolg.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Klage über die Zustände in Berlin und über Bösewichter dort; der Monarch sei gut, nicht die Minister.",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Er würde die 7000 Rthl, die die Fürstin Sacken nicht vorschießen will, auf seinen Namen negociren und seine Habe verpfänden, damit die Sache nicht verloren geht.",
+    "lines": [
+     16,
+     17,
+     18,
+     19
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "ein höchst Ihren",
+    "note": "probably 'in höchst Ihrem'"
+   },
+   {
+    "line": 11,
+    "word": "Allen",
+    "note": "probably 'Allein'"
+   },
+   {
+    "line": 18,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 16,
+    "word": "durch keines",
+    "note": "probably 'durchaus keines-weges'"
+   },
+   {
+    "line": 17,
+    "word": "herschließen",
+    "note": "probably 'herschießen/vorschießen'"
+   },
+   {
+    "line": 21,
+    "word": "wegen",
+    "note": "passage garbled, perhaps 'wenn'"
+   },
+   {
+    "line": 22,
+    "word": "den guten Ewr Durch mich brod",
+    "note": "garbled passage"
+   },
+   {
+    "line": 23,
+    "word": "ad in",
+    "note": "unclear, perhaps 'und in'"
+   }
+  ],
+  "read_against": "e430ff10d47330da"
+ }
 }

@@ -312,5 +312,140 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat die Resolution Hardenbergs und die Verfügung an das Brieger Oberlandesgericht per Estaffette übersandt und setzt auf Hoffrath Hahn. Er gibt die Punkte der fürstlichen Erklärung vor: in Haft zu Transacten und Codizill induziert, Summen größtenteils fingiert, alles von Cosmar betrieben, der den Sohn gegen den Vater aufgebracht habe. Ziel: Aufhebung der Transacte, Überlassung der Güter, Vorschuss von 112/m Rthl. Er bittet um Abschrift, Blanquets und einen Dankbrief an Hardenberg. Nachschrift: bittet dringend um 300 Rthl in Gold."
+ "summary_de": "Triebenfeld hat die Resolution Hardenbergs und die Verfügung an das Brieger Oberlandesgericht per Estaffette übersandt und setzt auf Hoffrath Hahn. Er gibt die Punkte der fürstlichen Erklärung vor: in Haft zu Transacten und Codizill induziert, Summen größtenteils fingiert, alles von Cosmar betrieben, der den Sohn gegen den Vater aufgebracht habe. Ziel: Aufhebung der Transacte, Überlassung der Güter, Vorschuss von 112/m Rthl. Er bittet um Abschrift, Blanquets und einen Dankbrief an Hardenberg. Nachschrift: bittet dringend um 300 Rthl in Gold.",
+ "reading": {
+  "letter": "260",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Vienna to Prince Hohenlohe. Yesterday he sent Hardenberg's resolution and the order to the Brieg Oberlandesgericht by estafette via Neisse. He relies on Hoffrath Hahn. He sets out seven points for the Prince's declaration (induced into the Transacte/Codizill while in custody, fictitious sums, Cosmar's schemes, the son turned against his father) and the aim: annul the Transacte against the 1799 document, leave the estates to the Prince, settle with the creditors, advance 112/m rt. He stays in Vienna until the Brieg matter and Poland are settled. He asks for a copy, blank sheets (Blanquets) and a thank-you letter to Hardenberg. Postscript: Humboldt is helping; he urgently needs 300 rt in gold and has only 118 fl left.",
+  "claims": [
+   {
+    "statement": "Resolution des Staats Kanzlers und Verfügung an das Brieger Oberlandesgericht per Estaffette über Neisse übersandt",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "setzt auf Hoffrath Hahn",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "in Haft zum Beitritt zu Transacten und Codizill induziert",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Summen fingiert",
+    "lines": [
+     14,
+     15,
+     16
+    ],
+    "check": "overstated",
+    "why": "Zeilen 14-15: die Summen sind 'größentheils fingirt', nicht alle."
+   },
+   {
+    "statement": "Cosmar betrieb alles und brachte den Sohn gegen den Vater auf",
+    "lines": [
+     19,
+     21,
+     22,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Ziel: Aufhebung der Transacte, Überlassung der Güter, Vorschuss 112/m Rthl",
+    "lines": [
+     33,
+     34,
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "bittet um Abschrift, Blanquets, Dankbrief an Hardenberg",
+    "lines": [
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "statement": "bittet dringend um 300 Rthl in Gold",
+    "lines": [
+     69
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "nur",
+    "note": "probably 'nun'"
+   },
+   {
+    "line": 7,
+    "word": "Gemein",
+    "note": "'Gemeinheit' does not fit; possibly another noun"
+   },
+   {
+    "line": 14,
+    "word": "alter Fürsten",
+    "note": "probably 'alten Fürstin' (cf. doc 259 'mit der alten in Berlin')"
+   },
+   {
+    "line": 19,
+    "word": "Fürsten",
+    "note": "probably 'Fürstin'"
+   },
+   {
+    "line": 23,
+    "word": "bäten",
+    "note": "probably 'könnten' or similar"
+   },
+   {
+    "line": 44,
+    "word": "unßmehr",
+    "note": "probably 'umsomehr'"
+   },
+   {
+    "line": 44,
+    "word": "belasten",
+    "note": "doubtful reading"
+   },
+   {
+    "line": 45,
+    "word": "nun",
+    "note": "probably 'nicht'"
+   },
+   {
+    "line": 56,
+    "word": "eeligsten",
+    "note": "garbled, perhaps 'eigenhändig'"
+   },
+   {
+    "line": 58,
+    "word": "habe",
+    "note": "probably 'hierher'"
+   },
+   {
+    "line": 66,
+    "word": "daß",
+    "note": "sense unclear"
+   }
+  ],
+  "read_against": "65b4d118358c633d"
+ }
 }

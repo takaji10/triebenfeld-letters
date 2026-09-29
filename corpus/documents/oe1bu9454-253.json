@@ -207,5 +207,99 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Zu Trąbczyn und Kamionna erhielt Triebenfeld auf Nachfrage nur einen kurzen Bescheid (beigelegt). Er schließt daraus, dass die Sache in der großen allgemeinen Regelung mit erledigt wird. Hoffrath Hahns Gutachten übergab er dem Staats Kanzler, der darin nichts Neues sah. Die Herzogin von Sagan will Geld auf Żagań aufnehmen und verpfändet dafür die königliche Schuld, die für Fürst Hohenlohe garantierte Summa. Der König hat dies vertagt. Triebenfeld will eine schriftliche Zusicherung, um mit den Curischen Mandatarien abzuschließen."
+ "summary_de": "Zu Trąbczyn und Kamionna erhielt Triebenfeld auf Nachfrage nur einen kurzen Bescheid (beigelegt). Er schließt daraus, dass die Sache in der großen allgemeinen Regelung mit erledigt wird. Hoffrath Hahns Gutachten übergab er dem Staats Kanzler, der darin nichts Neues sah. Die Herzogin von Sagan will Geld auf Żagań aufnehmen und verpfändet dafür die königliche Schuld, die für Fürst Hohenlohe garantierte Summa. Der König hat dies vertagt. Triebenfeld will eine schriftliche Zusicherung, um mit den Curischen Mandatarien abzuschließen.",
+ "reading": {
+  "letter": "253",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, in Vienna, writes to the Prince. He handed Hoffrath Hahn's latest opinion to the Staats Kanzler, who replied that it adds nothing new but agrees with the earlier view. The Staats Kanzler's quoted answer goes on: the Herzogin von Sagan seeks the King's leave to raise money on Sagan and pledges what the King owes her, which is the sum guaranteed for Fürst Hohenlohe; the King has postponed the matter. Triebenfeld wants written assurance before concluding with the Curische Mandatarien. On Trąbczyn and Kaemen he got a curt answer (enclosed, cf. doc 252) and concludes the matter will be settled in the general settlement. Also political news: the King of Württemberg threatens to leave, and there is unrest in Württemberg, Baden and Switzerland.",
+  "claims": [
+   {
+    "statement": "Auf mündliche Anfrage zu Trąbczyn und Kamionna nur kurzer Bescheid, beigelegt",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Sache wird in der allgemeinen Regelung mit erledigt",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Hahns Gutachten dem Staats Kanzler übergeben, nichts Neues",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Herzogin von Sagan will Geld auf Żagań aufnehmen, verpfändet königliche Schuld, die für Fürst Hohenlohe garantierte Summa",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "König hat Sache vertagt",
+    "lines": [
+     11
+    ]
+   },
+   {
+    "statement": "Triebenfeld sucht schriftliche Zusicherung, mit den Curischen Mandatarien abzuschließen",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Drohungen des Königs von Württemberg",
+    "lines": [
+     24,
+     25,
+     26,
+     27
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "weit",
+    "note": "probably 'weiset' (cf. 'weißet' l.9) or 'meint'"
+   },
+   {
+    "line": 16,
+    "word": "ſie Damen",
+    "note": "probably 'die Dame'"
+   },
+   {
+    "line": 20,
+    "word": "Gewesen",
+    "note": "probably 'Gewiß'"
+   },
+   {
+    "line": 28,
+    "word": "Hochen",
+    "note": "unclear, perhaps 'Sachen'"
+   },
+   {
+    "line": 29,
+    "word": "mann",
+    "note": "probably 'wenn'"
+   },
+   {
+    "line": 30,
+    "word": "sie",
+    "note": "probably 'seyn'"
+   }
+  ],
+  "read_against": "c688ec46e58447fc"
+ }
 }

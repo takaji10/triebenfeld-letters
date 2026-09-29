@@ -465,5 +465,150 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet den Fürsten, Glenck zur Beschaffung der Punctation zwischen Rochlitz und Honrichs über Witów samt Rochlitz' Vollmacht anzuweisen. Im Trąbczyner Archiv fand sich nichts, sonst drohe der Verlust von 14000 Rthl. Mit einem Kammerrat will er in Trąbczyn das Locale nach den Dismembrationsplänen revidieren; insgesamt erhofft er 350000 Rthl. Szetlewek will er diese Woche erledigen. Für 8 neue Dörfer erbittet er Namen. Den beiliegenden Vertrag mit Schenck soll der Fürst wegen 5 Huben Land und des Actuarius beanstanden."
+ "summary_de": "Triebenfeld bittet den Fürsten, Glenck zur Beschaffung der Punctation zwischen Rochlitz und Honrichs über Witów samt Rochlitz' Vollmacht anzuweisen. Im Trąbczyner Archiv fand sich nichts, sonst drohe der Verlust von 14000 Rthl. Mit einem Kammerrat will er in Trąbczyn das Locale nach den Dismembrationsplänen revidieren; insgesamt erhofft er 350000 Rthl. Szetlewek will er diese Woche erledigen. Für 8 neue Dörfer erbittet er Namen. Den beiliegenden Vertrag mit Schenck soll der Fürst wegen 5 Huben Land und des Actuarius beanstanden.",
+ "reading": {
+  "letter": "173",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld an den Fürsten. Punctation Rochlitz/Honrichs über Witów und Rochlitz' Vollmacht sollen laut Glenck im Trąbczyner Archiv liegen; Tietz und Schenck finden nichts; der Fürst soll Glenck anweisen, sonst droht der Verlust von 14000 Rthl. Amelang zu den Taxen; Blomberg verlangt 1000 Rthl voraus. Am Montag Revision in Trąbczyn mit einem Kammerrat nach den Dismembrationsplänen, danach Concession. Erwartet werden 50000+200000+100000=350000 Rthl. Szetlewek soll diese Woche erledigt werden, Oleśnica ist eingeleitet, Propination an den Meistbietenden. 8 neue Dörfer, der Fürst soll Namen schicken. Vertrag mit Schenck liegt bei: 5 Huben und Ernennung des Actuarius beanstandet. Dazu eine Gehaltsrechnung.",
+  "claims": [
+   {
+    "statement": "Bitte, Glenck zur Beschaffung der Punctation Rochlitz/Honrichs über Witów und der Vollmacht anzuweisen",
+    "lines": [
+     4,
+     5,
+     6,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Im Trąbczyner Archiv nichts gefunden",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "sonst drohe Verlust von 14000 Rthl",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Revision des Locale in Trąbczyn mit Kammerrat nach Dismembrationsplänen",
+    "lines": [
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "insgesamt 350000 Rthl erhofft",
+    "lines": [
+     36,
+     37,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Szetlewek diese Woche erledigen",
+    "lines": [
+     46
+    ]
+   },
+   {
+    "statement": "Namen für 8 neue Dörfer erbeten",
+    "lines": [
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "Vertrag mit Schenck beiliegend, 5 Huben Land und Ernennung des Actuarius beanstanden",
+    "lines": [
+     58,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Anfang",
+    "note": "wohl 'Anhang'"
+   },
+   {
+    "line": 6,
+    "word": "um",
+    "note": "wohl 'und'"
+   },
+   {
+    "line": 8,
+    "word": "Tietz",
+    "note": "möglicherweise Carl Titz, nicht belegbar"
+   },
+   {
+    "line": 30,
+    "word": "keine",
+    "note": "wohl 'Reine'"
+   },
+   {
+    "line": 30,
+    "word": "Nachm.",
+    "note": "wohl 'Rachen'"
+   },
+   {
+    "line": 41,
+    "word": "Beer",
+    "note": "wohl 'Bär' (einen Bären lösen)"
+   },
+   {
+    "line": 42,
+    "word": "applarirt",
+    "note": "wohl 'applanirt'"
+   },
+   {
+    "line": 43,
+    "word": "könne",
+    "note": "wohl 'komme'"
+   },
+   {
+    "line": 44,
+    "word": "würden",
+    "note": "wohl 'fort würken'"
+   },
+   {
+    "line": 59,
+    "word": "schweren",
+    "note": "wohl 'schmieren'"
+   },
+   {
+    "line": 75,
+    "word": "Mono:",
+    "note": "unklar, vielleicht 'Monsieur Schenck'"
+   },
+   {
+    "line": 84,
+    "word": "in",
+    "note": "wohl 'er'"
+   },
+   {
+    "line": 88,
+    "word": "Gari[?]",
+    "note": "unklar"
+   }
+  ],
+  "read_against": "de43610a3e45ad0e"
+ }
 }

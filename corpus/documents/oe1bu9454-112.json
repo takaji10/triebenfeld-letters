@@ -138,5 +138,103 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Nachschrift. Triebenfeld erfährt vom Hoffrath Wunster, dass Wildeganst und der Jude Heymann in der Sache des Fürsten nichts getan haben. Nach Wildeganst sei über den von Triebenfeld für den Fürsten unterschriebenen Wechsel über 11/m Rthl bereits erkannt, er solle arretiert werden. Der Amtpfänder Rudolph hat sich schon nach ihm erkundigt. Er fleht um schleunige Vorkehrungen. Prinz George habe seine Güter für 750000 Rthl verkauft. Er schlägt vor, der Fürst möge Graf Schlabrendorff bewegen, den Wechsel von den Juden zurückzunehmen."
+ "summary_de": "Nachschrift. Triebenfeld erfährt vom Hoffrath Wunster, dass Wildeganst und der Jude Heymann in der Sache des Fürsten nichts getan haben. Nach Wildeganst sei über den von Triebenfeld für den Fürsten unterschriebenen Wechsel über 11/m Rthl bereits erkannt, er solle arretiert werden. Der Amtpfänder Rudolph hat sich schon nach ihm erkundigt. Er fleht um schleunige Vorkehrungen. Prinz George habe seine Güter für 750000 Rthl verkauft. Er schlägt vor, der Fürst möge Graf Schlabrendorff bewegen, den Wechsel von den Juden zurückzunehmen.",
+ "reading": {
+  "letter": "112",
+  "legibility": "partly garbled",
+  "notes": "This is a postscript by Triebenfeld to a letter he had already sealed. Hoffrath Wunster told him that Wildeganst and the Jew Heymann did nothing in the Prince's matter. Wildeganst also said that judgment had been given on the bill of exchange for 11/m Rthl that Triebenfeld signed for the Prince, and that Triebenfeld is to be arrested. The Amtpfänder Rudolph has asked for him at his house. He begs the Prince to make arrangements quickly. Prinz George sold Triebenfeld's estates for 750000 rt and bought tangled ones. Triebenfeld suggests the Prince move Graf Schlabrendorff to take the bill back from the Jews. Nothing about Trąbczyn. Lines 28 and 44 are garbled.",
+  "claims": [
+   {
+    "statement": "Hoffrath Wunster berichtet, dass Wildeganst und der Jude Heymann in der Sache des Fürsten nichts getan haben.",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Nach Wildeganst ist über den Wechsel über 11/m Rthl bereits erkannt, Triebenfeld soll arretiert werden.",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Der Amtpfänder Rudolph hat sich nach ihm erkundigt.",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Er fleht um schleunige Vorkehrungen gegen die Verhaftung.",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Prinz George hat seine Güter für 750000 Rthl verkauft.",
+    "lines": [
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Vorschlag, dass der Fürst Graf Schlabrendorff bewegen möge, den Wechsel von den Juden zurückzunehmen.",
+    "lines": [
+     41,
+     42,
+     43,
+     46,
+     47,
+     48,
+     49
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 28,
+    "word": "Pölgen bei ich los",
+    "note": "garbled passage"
+   },
+   {
+    "line": 42,
+    "word": "vermäht¬",
+    "note": "probably vermöchte / vermögen"
+   },
+   {
+    "line": 44,
+    "word": "den ſen",
+    "note": "garbled, perhaps 'denn es'"
+   },
+   {
+    "line": 19,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 32,
+    "word": "um",
+    "note": "'Tage um Nacht' probably 'Tag und Nacht'"
+   },
+   {
+    "line": 4,
+    "word": "um",
+    "note": "probably 'und'"
+   }
+  ],
+  "read_against": "d80924a7841853a6"
+ }
 }

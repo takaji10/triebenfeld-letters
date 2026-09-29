@@ -345,5 +345,122 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hohenlohe klagt, dass Trzciński nichts gezahlt und Zerboni seine Verbindlichkeiten nicht erfüllt habe. Herr Weigelt dränge ihn, er will ihn mit Trzcińskis Wechseln beruhigen. Ein früherer Brief Triebenfelds sei wohl beim Brand des Posthauses in Wartenberg verloren. Er legt ein offenes Schreiben an den russischen Kaiser zum Gebrauch bei. König, Staats Kanzler und Justiz Minister verweigerten ihm Hilfe beim Vergleich mit den Gläubigern zu Brieg. Er hofft, von Meierowitz etwas zu erhalten, und fragt nach Ratke."
+ "summary_de": "Hohenlohe klagt, dass Trzciński nichts gezahlt und Zerboni seine Verbindlichkeiten nicht erfüllt habe. Herr Weigelt dränge ihn, er will ihn mit Trzcińskis Wechseln beruhigen. Ein früherer Brief Triebenfelds sei wohl beim Brand des Posthauses in Wartenberg verloren. Er legt ein offenes Schreiben an den russischen Kaiser zum Gebrauch bei. König, Staats Kanzler und Justiz Minister verweigerten ihm Hilfe beim Vergleich mit den Gläubigern zu Brieg. Er hofft, von Meierowitz etwas zu erhalten, und fragt nach Ratke.",
+ "reading": {
+  "letter": "238",
+  "legibility": "partly garbled",
+  "notes": "In this letter the Prince, at Schlawenschitz, answers Triebenfeld's letter of 29 April (doc 237). Trzciński, Zerboni and Koenig have not been in touch, and Weigelt is pressing him for money. An earlier letter from Triebenfeld was lost, perhaps in the fire at the Wartenberg post office. The Prince encloses a letter to the Russian Emperor under open seal. The King, the Staats Kanzler and the Justiz Minister refused to support his settlement with the creditors at Brieg. He gave his letters for the monarchs to Hardenberg and to Stein. He hopes for money from Meierowitz and asks about Ratke. He also sends sympathy for Triebenfeld's wounded son. The letter does not mention Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Trzciński hat nichts gezahlt, Zerboni seine Verbindlichkeiten nicht erfüllt",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Weigelt drängt; Hohenlohe will ihn mit Trzcińskis Wechseln beruhigen",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "früherer Brief wohl beim Brand des Posthauses in Wartenberg verloren",
+    "lines": [
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "legt offenes Schreiben an den russischen Kaiser bei",
+    "lines": [
+     37,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "König, Staats Kanzler und Justiz Minister verweigerten Unterstützung beim Vergleich mit Gläubigern zu Brieg",
+    "lines": [
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51
+    ]
+   },
+   {
+    "statement": "hofft auf Geld von Meierowitz, fragt nach Ratke",
+    "lines": [
+     79,
+     80,
+     81,
+     82,
+     83
+    ],
+    "check": "overstated",
+    "why": "Zeilen 79-83: Er hofft nur, von Meierowitz bald 'etwas' zu erhalten. Von Geld spricht der Brief nicht ausdrücklich. Die Frage nach Ratke ist belegt."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 28,
+    "word": "Könige",
+    "note": "probably Koenig (line 8), perhaps in genitive form 'Königs'"
+   },
+   {
+    "line": 26,
+    "word": "anderun¬",
+    "note": "probably 'Andenken'"
+   },
+   {
+    "line": 31,
+    "word": "mitt",
+    "note": "probably 'nicht'"
+   },
+   {
+    "line": 35,
+    "word": "schließte",
+    "note": "probably 'schlimmste'"
+   },
+   {
+    "line": 63,
+    "word": "Verehreigen",
+    "note": "probably 'verschweigen'"
+   },
+   {
+    "line": 64,
+    "word": "Loſen",
+    "note": "probably 'Lassen'"
+   },
+   {
+    "line": 73,
+    "word": "Auszeigung",
+    "note": "probably 'Auszeichnung'"
+   },
+   {
+    "line": 10,
+    "word": "placzt",
+    "note": "probably 'plagt'"
+   },
+   {
+    "line": 10,
+    "word": "Weigelt",
+    "note": "possibly the same person as Weigel in the edition list; not proven"
+   }
+  ],
+  "read_against": "1e9c05c62291c4e2"
+ }
 }

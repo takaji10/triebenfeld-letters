@@ -340,5 +340,98 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hält einen echten Vergleich mit den Curischen Erbinnen für entscheidend. Danach würde der Staats Kanzler Vorschuss und Administration besorgen. Er erwartet sehnlich Eberhard. Hohenlohe-Bartenstein, Winzingerode und Göschel haben nach Langenburg und Kirchberg geschrieben. Er vermutet, Fürst August habe die Vollmacht zurückgefordert, womit Cosmar ungeschützt wäre. Zu den polnischen Gütern verlangt der Kanzler Geduld bis zur Entscheidung über die den Donatarien abgenommenen Güter. Außerdem berichtet er Nachrichten und Gerüchte über Napoleons Vormarsch und seine Ächtung."
+ "summary_de": "Triebenfeld hält einen echten Vergleich mit den Curischen Erbinnen für entscheidend. Danach würde der Staats Kanzler Vorschuss und Administration besorgen. Er erwartet sehnlich Eberhard. Hohenlohe-Bartenstein, Winzingerode und Göschel haben nach Langenburg und Kirchberg geschrieben. Er vermutet, Fürst August habe die Vollmacht zurückgefordert, womit Cosmar ungeschützt wäre. Zu den polnischen Gütern verlangt der Kanzler Geduld bis zur Entscheidung über die den Donatarien abgenommenen Güter. Außerdem berichtet er Nachrichten und Gerüchte über Napoleons Vormarsch und seine Ächtung.",
+ "reading": {
+  "letter": "279",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Friedrich Ludwig. What matters now is a real settlement (Vergleich) with the Curische heiresses. Once it is made, the Staats Kanzler will arrange the advance and the administration. He waits anxiously for Eberhard. Hohenlohe-Bartenstein, Winzingerode and Göschel have written to Langenburg and Kirchberg, and he expects Fürst August to have recalled the Vollmacht, which would leave Cosmar exposed. On the Polish estates the Kanzler asks for patience until the question of the Donatarien estates is settled. Most of the letter is Congress and Napoleon news. Nothing on Trąbczyn. Some garbled passages (Pourtalès, the kohl matter).",
+  "claims": [
+   {
+    "statement": "Ein echter Vergleich mit den Curischen Erbinnen ist entscheidend; danach würde der Staats Kanzler Vorschuss und Administration besorgen",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Er erwartet sehnlich Eberhard",
+    "lines": [
+     6,
+     7,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Hohenlohe-Bartenstein, Winzingerode und Göschel haben nach Langenburg und Kirchberg geschrieben",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Vermutung, Fürst August habe die Vollmacht zurückgefordert, womit Cosmar ungeschützt wäre",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Kanzler verlangt Geduld bis zur Entscheidung über die den Donatarien abgenommenen Güter",
+    "lines": [
+     39,
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Nachrichten und Gerüchte über Napoleons Vormarsch und Ächtung",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     35,
+     36
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "beim",
+    "note": "probably 'keine' (no answer yet from Pourtalès)"
+   },
+   {
+    "line": 15,
+    "word": "eniffer[?]¬",
+    "note": "garbled; the kohl passage cannot be read"
+   },
+   {
+    "line": 40,
+    "word": "E",
+    "note": "probably 'Staats' Kanzler; 'man' is probably 'man müsse'"
+   },
+   {
+    "line": 49,
+    "word": "Eichen",
+    "note": "unclear; perhaps a place or a misreading"
+   },
+   {
+    "line": 22,
+    "word": "ſeynen",
+    "note": "probably 'seyn'; 'ſchwe' is garbled"
+   },
+   {
+    "line": 24,
+    "word": "Verstellens",
+    "note": "probably 'Verstecken(s)'"
+   }
+  ],
+  "read_against": "7f845dd9f762af01"
+ }
 }

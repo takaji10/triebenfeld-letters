@@ -252,5 +252,118 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass französische Gendarmen ihn als Generalbevollmächtigten unter Arrest hielten, bis die rückständigen Zinsen von 5000 Rthl auf die 50000 Rthl der Invaliden Casse bezahlt waren. Oppenheimer, der die Zahlung übernommen hatte, kaufte sich los. Zastrow bürgte für 5000 Rthl, die zum 1. Juny zurückzuzahlen sind. Triebenfeld bittet dringend um Rücksendung der an Eysenhardt zedierten Anweisung auf 6000 Rthl, um seine verpfändete Hypotheque von 10000 auszulösen. Zastrow betreibt bei der französischen Behörde die Rückgabe der Trąbczyner Güter."
+ "summary_de": "Triebenfeld berichtet, dass französische Gendarmen ihn als Generalbevollmächtigten unter Arrest hielten, bis die rückständigen Zinsen von 5000 Rthl auf die 50000 Rthl der Invaliden Casse bezahlt waren. Oppenheimer, der die Zahlung übernommen hatte, kaufte sich los. Zastrow bürgte für 5000 Rthl, die zum 1. Juny zurückzuzahlen sind. Triebenfeld bittet dringend um Rücksendung der an Eysenhardt zedierten Anweisung auf 6000 Rthl, um seine verpfändete Hypotheque von 10000 auszulösen. Zastrow betreibt bei der französischen Behörde die Rückgabe der Trąbczyner Güter.",
+ "reading": {
+  "letter": "30",
+  "legibility": "sound",
+  "notes": "Abschrift. Triebenfeld schreibt aus Berlin an den Fürsten. Französische Gendarmen haben ihn als Generalbevollmächtigten unter Arrest gehalten, bis die rückständigen Zinsen auf die 50000 Rthl aus der Invaliden Casse bezahlt wären: 2 Jahre, 5000 Rthl. Oppenheimer hatte die Zahlung übernommen, kaufte sich aber los. Zastrow bürgte für 5000 Rthl Papiergeld (ergab 2875 Rthl), die am 1. Juni in Courant zurückzuzahlen sind. Triebenfeld bittet, die an Eysenhardt zedierte Anweisung auf 6000 Rthl zurückzuschicken, damit er die verpfändete Hypothek von 10000 auslösen kann. Zastrow betreibt mit ihm bei der französischen Behörde die Rückgabe der Trąbczyner Güter. Die Reise nach Petersburg hat sich durch den Arrest zerschlagen.",
+  "claims": [
+   {
+    "statement": "Französische Gendarmen hielten Triebenfeld als Generalbevollmächtigten unter Arrest, bis die rückständigen Zinsen auf die 50000 Rthl aus der Invaliden Casse bezahlt wären.",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Die rückständigen Zinsen betrugen 5000 Rthl.",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Oppenheimer hatte die Zahlung übernommen und kaufte sich los.",
+    "lines": [
+     27,
+     28,
+     29,
+     30,
+     35
+    ]
+   },
+   {
+    "statement": "Zastrow bürgte für 5000 Rthl, die zum 1. Juny zurückzuzahlen sind.",
+    "lines": [
+     37,
+     38,
+     39,
+     40,
+     41
+    ]
+   },
+   {
+    "statement": "Bitte um baldige Rücksendung der an Eysenhardt zedierten Anweisung auf 6000 Rthl, um die verpfändete Hypotheque von 10000 zurückzunehmen.",
+    "lines": [
+     52,
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "statement": "Zastrow arbeitet bei der französischen Behörde daran, dass die Trąbczyner Güter dem Fürsten zurückgegeben werden.",
+    "lines": [
+     65,
+     66,
+     67
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 23,
+    "word": "seinehe",
+    "note": "verderbt, Sinn unklar"
+   },
+   {
+    "line": 30,
+    "word": "Stamen",
+    "note": "wahrscheinlich 'Namen'"
+   },
+   {
+    "line": 32,
+    "word": "denia",
+    "note": "wahrscheinlich 'Denier'/'Heller'"
+   },
+   {
+    "line": 44,
+    "word": "Ansehe",
+    "note": "wahrscheinlich 'Ansehen'"
+   },
+   {
+    "line": 55,
+    "word": "Kontazen",
+    "note": "verderbt, Sinn unklar"
+   },
+   {
+    "line": 56,
+    "word": "der Besitz",
+    "note": "passt grammatisch nicht, vielleicht verlesen"
+   },
+   {
+    "line": 58,
+    "word": "geriren",
+    "note": "vielleicht 'giriren' (girieren)"
+   },
+   {
+    "line": 64,
+    "word": "oder baar",
+    "note": "vielleicht verlesen"
+   },
+   {
+    "line": 5,
+    "word": "Franz-strenger",
+    "note": "vielleicht 'Franz. strenger'"
+   }
+  ],
+  "read_against": "07dd20e9feab6e5f"
+ }
 }

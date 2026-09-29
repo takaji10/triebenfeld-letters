@@ -351,5 +351,116 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, der König habe laut Schreiben des Staats Kanzlers gegen die Auszahlung der von Fürst August geforderten 100000 Rthl, eines Vermächtnisses der Fürstin Sakkin, nichts einzuwenden; Kircheisen sei beauftragt. Der Vorschuss von 112000 Rthl gelte als gelungen, Cosmars Entfernung sei beschlossen. Die Trąbczyner Sache werde große Schwierigkeiten haben; die polnischen Akten müssten übersetzt werden, doch fehlten ihm die 260 fl für den Translateur. Schwer krank und mittellos bittet er dringend um Hilfe, auch für seine Tochter."
+ "summary_de": "Triebenfeld meldet, der König habe laut Schreiben des Staats Kanzlers gegen die Auszahlung der von Fürst August geforderten 100000 Rthl, eines Vermächtnisses der Fürstin Sakkin, nichts einzuwenden; Kircheisen sei beauftragt. Der Vorschuss von 112000 Rthl gelte als gelungen, Cosmars Entfernung sei beschlossen. Die Trąbczyner Sache werde große Schwierigkeiten haben; die polnischen Akten müssten übersetzt werden, doch fehlten ihm die 260 fl für den Translateur. Schwer krank und mittellos bittet er dringend um Hilfe, auch für seine Tochter.",
+ "reading": {
+  "letter": "15",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Vienna to Prince Hohenlohe-Ingelfingen. First he reports business. Fürst August's claim to 100000 rt, a legacy of Fürstin Sakkin: the Staats Kanzler writes to Öhringen that the King has no objection, and Kircheisen is instructed. The Prince's case lies with Stägemann. The advance of 112000 rt counts as successful. Cosmar's removal is decided. On the Polish affairs, the Posen items will be easy to obtain, but the Trąbczyn matter faces great difficulties. The files are in Polish and must be translated, and the sworn translator wants 260 fl, which Triebenfeld lacks. Then he describes his own misery: ill, penniless, owing Barbe 70 #. Beguelin will press the Chancellor and Stägemann. Nothing has come from the Prince since 7 Feb. He asks for support for his daughter.",
+  "claims": [
+   {
+    "statement": "Staats Kanzler schreibt an Fürst August, der König habe gegen Auszahlung der 100000 Rthl nichts; Kircheisen beauftragt",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Die 100000 Rthl sind ein Vermächtnis der Fürstin Sakkin",
+    "lines": [
+     4,
+     5,
+     6
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht „Fürstin Sakkin“ (Z. 6). Die Zusammenfassung macht daraus „Sacken“ und deutet damit den verderbten Namen."
+   },
+   {
+    "statement": "Vorschuss von 112000 Rthl gilt als gelungen",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Cosmars Entfernung beschlossen",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Trąbczyner Sache wird großen Schwierigkeiten unterworfen sein",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Akten polnisch, müssen übersetzt werden; Translateur verlangt 260 fl, die er nicht hat",
+    "lines": [
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Schwer krank, mittellos, bittet um Hilfe und Unterstützung seiner Tochter",
+    "lines": [
+     39,
+     40,
+     41,
+     42,
+     48,
+     49,
+     69
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 20,
+    "word": "der",
+    "note": "probably a word such as 'jenseits der Prosna' is missing or misread"
+   },
+   {
+    "line": 23,
+    "word": "altesſtirt",
+    "note": "likely 'attestirt'"
+   },
+   {
+    "line": 28,
+    "word": "Caſte und Hintzung",
+    "note": "likely 'Kost und Heitzung'"
+   },
+   {
+    "line": 29,
+    "word": "mich",
+    "note": "likely 'noch'"
+   },
+   {
+    "line": 31,
+    "word": "hätte",
+    "note": "likely 'hüte' (hüte das Zimmer)"
+   },
+   {
+    "line": 34,
+    "word": "mit",
+    "note": "likely 'mich' (wird mich Gott bewahren)"
+   },
+   {
+    "line": 48,
+    "word": "schleine",
+    "note": "likely 'schleichenden'"
+   },
+   {
+    "line": 12,
+    "word": "Staatstrath",
+    "note": "elsewhere 'Staats Rath' (lines 53, 56-57)"
+   }
+  ],
+  "read_against": "7a3d2f9bda4c37eb"
+ }
 }

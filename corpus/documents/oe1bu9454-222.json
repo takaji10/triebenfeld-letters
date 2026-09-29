@@ -511,5 +511,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass Baron Stössel die Güter von Zagórów nach seinem Plan für seine Forderungen annehmen will, und bittet dringend um Antwort, ob der Fürst die Sache so mit Stössel und Weigel abgemacht wissen will. Stössel verlangt ein Schreiben des Fürsten; Graf Wartensleben rät, darin zu erklären, wegen des Testaments der Schwiegermutter könne Koszęcin nicht bezahlt werden, daher gebe er Zagórów, dem Triebenfeld die Güter von Blizanow zufügen wolle. Köckritz ruft Triebenfeld nach Berlin."
+ "summary_de": "Triebenfeld meldet, dass Baron Stössel die Güter von Zagórów nach seinem Plan für seine Forderungen annehmen will, und bittet dringend um Antwort, ob der Fürst die Sache so mit Stössel und Weigel abgemacht wissen will. Stössel verlangt ein Schreiben des Fürsten; Graf Wartensleben rät, darin zu erklären, wegen des Testaments der Schwiegermutter könne Koszęcin nicht bezahlt werden, daher gebe er Zagórów, dem Triebenfeld die Güter von Blizanow zufügen wolle. Köckritz ruft Triebenfeld nach Berlin.",
+ "reading": {
+  "letter": "222",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, writing from Blizanow, reports to the Prince that Baron Stössel is willing to take the Zagórów estates for his claims under Triebenfeld's plan. The evidence is an enclosed letter. He urgently asks whether the Prince agrees to settle with Stössel and Weigel this way. In the postscript, Graf Wartensleben has come from Breslau: Stössel will deal together with Weigel, but wants a letter from the Prince. Wartensleben suggests what that letter should say about Koschentin, the mother-in-law's will, and Zagórów, to which Triebenfeld would add the Blizanow estates. A mounted messenger has been sent. Köckritz calls Triebenfeld to Berlin. His eldest son has been appointed to the Garde du Corps. Mostly readable; some words are garbled.",
+  "claims": [
+   {
+    "statement": "Stössel will die Zagorower Güter nach Triebenfelds Plan für seine Forderungen annehmen",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Bitte um schleunige Antwort, ob der Fürst die Sache nach diesem Plan mit Stössel und Weigel abgemacht wissen will",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Stössel verlangt ein Schreiben des Fürsten, dass er in den Plan willige",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Wartensleben rät zum Schreiben an Stössel: Koschentin erhalten wollen, Testament der Schwiegermutter lässt nichts übrig, daher Zagorower Güter, Triebenfeld fügt Blizanower Güter hinzu",
+    "lines": [
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "Köckritz schreibt, Triebenfeld solle bald nach Berlin kommen",
+    "lines": [
+     64,
+     65
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Zukunft",
+    "note": "probably Zurückkunft (return of the messenger)"
+   },
+   {
+    "line": 36,
+    "word": "übergebenden",
+    "note": "probably 'übergeben, da läst'"
+   },
+   {
+    "line": 37,
+    "word": "meldig",
+    "note": "probably 'melden'"
+   },
+   {
+    "line": 37,
+    "word": "Cesur",
+    "note": "unclear title or first name of Wartensleben"
+   },
+   {
+    "line": 55,
+    "word": "könt",
+    "note": "probably kömt"
+   },
+   {
+    "line": 55,
+    "word": "Zueten",
+    "note": "probably 'Zu dem' (cf. line 50)"
+   },
+   {
+    "line": 56,
+    "word": "schon",
+    "note": "probably 'schicke'"
+   },
+   {
+    "line": 58,
+    "word": "allerwächigste",
+    "note": "probably allereiligste"
+   },
+   {
+    "line": 62,
+    "word": "heen",
+    "note": "garbled"
+   },
+   {
+    "line": 67,
+    "word": "Schluſe zuſaren",
+    "note": "probably 'Schlesischen Husaren'"
+   }
+  ],
+  "read_against": "70ad7460d919dac0"
+ }
 }

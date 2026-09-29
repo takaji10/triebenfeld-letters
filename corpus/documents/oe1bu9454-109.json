@@ -180,5 +180,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber berichtet einem Freund, Wildegansch sei in Berlin und behaupte, der Fürst habe ihn gesandt; er habe mit seinem Anhang ein Geldgeschäft mit Asch und Schlabrendorff erfunden, um den Fürsten um die Kosten zu prellen. Wie er höre, werde in 2 Monaten nichts entschieden. Nachschrift: Bukowiecki will für Pszczew nur 2400 Rthl Jahrespacht zahlen. Er höre, man wolle den Schreiber wegen eines an Schlabrendorff gegebenen Wechsels von 11/m verklagen und ein Exekutionsdekret erwirken; der Freund soll den Fürsten warnen."
+ "summary_de": "Der Schreiber berichtet einem Freund, Wildegansch sei in Berlin und behaupte, der Fürst habe ihn gesandt; er habe mit seinem Anhang ein Geldgeschäft mit Asch und Schlabrendorff erfunden, um den Fürsten um die Kosten zu prellen. Wie er höre, werde in 2 Monaten nichts entschieden. Nachschrift: Bukowiecki will für Pszczew nur 2400 Rthl Jahrespacht zahlen. Er höre, man wolle den Schreiber wegen eines an Schlabrendorff gegebenen Wechsels von 11/m verklagen und ein Exekutionsdekret erwirken; der Freund soll den Fürsten warnen.",
+ "reading": {
+  "letter": "109",
+  "legibility": "partly garbled",
+  "notes": "Private note to a \"Lieber Freund\", signed v Triebenfeld, but the metadata gives the sender as not identified, so the summary uses \"der Schreiber\". Wildegansch is in Berlin and claims the Fürst sent him. The writer says Wildegansch and his followers made up a money deal with Asch and Schlabrendorff to cheat the Fürst over the costs, and that nothing will be decided for 2 months. Postscript: Bukowiecki offers only 2400 rt a year to lease Betsche (Pszczew). A Jew, Aich (probably Asch), and Schlabrendorff's front man mean to sue the writer over a bill of exchange of 11/m given to Schlabrendorff and to obtain an execution decree. The friend is asked to warn Seiner Durchlaucht. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Wildegansch ist in Berlin und behauptet, der Fürst habe ihn gesandt",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Er erfand mit seinem Anhang ein Geldgeschäft mit Asch und Schlabrendorff, um den Fürsten um die Kosten zu prellen",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "In 2 Monaten wird nichts entschieden",
+    "lines": [
+     22,
+     23
+    ],
+    "check": "overstated",
+    "why": "Z. 22-23 geben das nur als Gehörtes wieder: 'Wie ich aber höhre, so wird im 2 Monats ... nichts entschieden werden'."
+   },
+   {
+    "statement": "Bukowiecki will für Pszczew nur 2400 Rthl Jahrespacht zahlen",
+    "lines": [
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Man will den Schreiber wegen eines an Schlabrendorff gegebenen Wechsels von 11/m verklagen und ein Exekutionsdekret erwirken",
+    "lines": [
+     35,
+     36,
+     37,
+     38,
+     39
+    ],
+    "check": "overstated",
+    "why": "Z. 35 leitet das als Gehörtes ein: 'Hier höhre ich auch daß ...'. In der Zusammenfassung fehlt dieser Vorbehalt."
+   },
+   {
+    "statement": "Der Freund soll den Fürsten warnen",
+    "lines": [
+     39,
+     40
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "flater",
+    "note": "unclear word, perhaps a misreading"
+   },
+   {
+    "line": 10,
+    "word": "wird",
+    "note": "probably 'weis'"
+   },
+   {
+    "line": 12,
+    "word": "ankbare",
+    "note": "probably 'undankbare'"
+   },
+   {
+    "line": 18,
+    "word": "Aignirt",
+    "note": "perhaps 'indignirt'"
+   },
+   {
+    "line": 21,
+    "word": "hannsch",
+    "note": "garbled"
+   },
+   {
+    "line": 16,
+    "word": "Wildegansch",
+    "note": "the next letter has 'Wildegansct'; settled form uncertain"
+   },
+   {
+    "line": 28,
+    "word": "Undrehnen",
+    "note": "garbled, perhaps 'unveränderter'"
+   },
+   {
+    "line": 36,
+    "word": "Pärzten",
+    "note": "probably 'Prinzen' or 'Fürsten'"
+   },
+   {
+    "line": 41,
+    "word": "Feige",
+    "note": "doubtful reading"
+   }
+  ],
+  "read_against": "56b0ff1eabfaafc5"
+ }
 }

@@ -329,5 +329,107 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bleibt in Berlin, bis die Sache geklärt ist, und schickt Glenck zum Fürsten voraus. Der König lädt den Fürsten nach Berlin ein; reist er am 14. oder 15. ab, kann er 3 bis 4 Tage bleiben. Vertraulich berichtet er von der geheimen Heirat des Prinzen Solms mit der verwitweten Prinzessin Louise, von Hoyms geheimem Gutachten, auf das sich Voss beruft, und rät, das Secularisations Geschäft nicht zu erwähnen, sondern mit Prinz George in Wien zu betreiben."
+ "summary_de": "Triebenfeld bleibt in Berlin, bis die Sache geklärt ist, und schickt Glenck zum Fürsten voraus. Der König lädt den Fürsten nach Berlin ein; reist er am 14. oder 15. ab, kann er 3 bis 4 Tage bleiben. Vertraulich berichtet er von der geheimen Heirat des Prinzen Solms mit der verwitweten Prinzessin Louise, von Hoyms geheimem Gutachten, auf das sich Voss beruft, und rät, das Secularisations Geschäft nicht zu erwähnen, sondern mit Prinz George in Wien zu betreiben.",
+ "reading": {
+  "letter": "98",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin to the Prince, 9 Jan 1799. Stays until the 'Quest: Sache' is settled; sends Glenck ahead. King (with Köckritz, Zastrow well disposed) invites the Prince via Berlin; leaving 14th/15th he can stay 3-4 days. Court gossip: Prince Solms secretly married widowed Princess Louise; King angry, she loses rank, to leave with husband posted to Ansbach; keep silent. Hoym spoke well before King but secretly gave bad opinion used by Voss. Don't tell Fürstin Sacken about Hoym/Wedell. Don't mention secularisation; Prinz George advises against; do it in Vienna. Haugwitz rising, Schulenburg removed. No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bleibt in Berlin, bis die Sache geklärt ist",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "schickt Glenck zum Fürsten voraus",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Der König lädt den Fürsten nach Berlin ein; bei Abreise am 14. oder 15. kann er 3 bis 4 Tage bleiben",
+    "lines": [
+     13,
+     14,
+     16,
+     17,
+     18,
+     20
+    ]
+   },
+   {
+    "statement": "geheime Heirat des Prinzen Solms mit der verwitweten Prinzessin Louise",
+    "lines": [
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Hoyms geheimes Gutachten, auf das sich Voss beruft",
+    "lines": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Secularisations Geschäft nicht erwähnen, mit Prinz George in Wien betreiben",
+    "lines": [
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 31,
+    "word": "Ausbach",
+    "note": "probably Ansbach; may be writer's spelling"
+   },
+   {
+    "line": 67,
+    "word": "Schulemburg",
+    "note": "probably Schulenburg; possibly writer's spelling"
+   },
+   {
+    "line": 12,
+    "word": "Wannvoller und [C?]abewesen",
+    "note": "garbled"
+   },
+   {
+    "line": 21,
+    "word": "Be¬",
+    "note": "garbled, 'Be¬ es wohl' unclear"
+   },
+   {
+    "line": 37,
+    "word": "Armez verwerten",
+    "note": "probably 'armen verwitweten'"
+   },
+   {
+    "line": 38,
+    "word": "Reiformements",
+    "note": "probably 'Raisonnements'"
+   },
+   {
+    "line": 44,
+    "word": "Weddi[?]",
+    "note": "probably Wedell"
+   }
+  ],
+  "read_against": "a49c6ae791c05877"
+ }
 }

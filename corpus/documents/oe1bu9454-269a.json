@@ -186,5 +186,101 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Abschrift einer Eingabe Triebenfelds im Auftrag des Fürsten von Hohenlohe. Er übersendet die Korrespondenz mit Kircheisen, die das Oberlandesgericht Brieg nicht zu Protokoll nehmen wollte. Cosmar habe die Forderung der Curischen Erben von 300/m Rthl blockiert und mit Arrest belegt. Die Erben seien mit 112000 Rthl zufrieden: 12/m Rthl bar und eine Anweisung auf 100000 Rthl. Triebenfeld bittet, dem Fürsten diese Summe vorzuschießen und die Majoratsgüter verwalten zu lassen. Dafür will er die Schuldinstrumente und die königliche Garantie ausliefern."
+ "summary_de": "Abschrift einer Eingabe Triebenfelds im Auftrag des Fürsten von Hohenlohe. Er übersendet die Korrespondenz mit Kircheisen, die das Oberlandesgericht Brieg nicht zu Protokoll nehmen wollte. Cosmar habe die Forderung der Curischen Erben von 300/m Rthl blockiert und mit Arrest belegt. Die Erben seien mit 112000 Rthl zufrieden: 12/m Rthl bar und eine Anweisung auf 100000 Rthl. Triebenfeld bittet, dem Fürsten diese Summe vorzuschießen und die Majoratsgüter verwalten zu lassen. Dafür will er die Schuldinstrumente und die königliche Garantie ausliefern.",
+ "reading": {
+  "letter": "269a",
+  "legibility": "partly garbled",
+  "notes": "Abschrift. Triebenfeld schreibt aus Wien an eine ungenannte \"Hochfürstl. Durchlaucht\" und handelt dabei im Auftrag des Fürsten von Hohenlohe. Er übersendet Akten mit der Korrespondenz mit Kircheisen, die das Oberlandesgericht Brieg nicht ins Protokoll aufnehmen wollte, und klagt über Cosmars Schikanen um die Forderung der Curischen Erben. Er bittet um einen Vorschuss von 112000 Rthl (12/m bar, 100000 als Anweisung); die Majoratsgüter sollen dafür für die Kasse verwaltet werden. Er rechnet vor, woraus die Schuld von 147/m getilgt werden könnte. Trąbczyn kommt nicht vor. Mehrere Stellen sind verderbt (Z. 4, 11, 15, 16, 28, 29, 31, 32).",
+  "claims": [
+   {
+    "statement": "Abschrift einer Eingabe Triebenfelds im Auftrag des Fürsten von Hohenlohe",
+    "lines": [
+     2,
+     4,
+     36
+    ]
+   },
+   {
+    "statement": "übersendet die Korrespondenz mit Kircheisen, die das Oberlandesgericht Brieg nicht zu Protokoll nehmen wollte",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Cosmar habe die Forderung der Curischen Erben von 300/m Rthl blockiert und mit Arrest belegt",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Erben mit 112000 Rthl zu befriedigen: 12/m bar und Anweisung auf 100000 Rthl",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "bittet um Vorschuss für den Fürsten und Verwaltung der Majoratsgüter",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "verpflichtet sich, die Schuldinstrumente und die Garantie des Königs auszuliefern",
+    "lines": [
+     17,
+     18
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "allerzubeißen",
+    "note": "verderbt, wohl eine Form von 'allerunterthänigst'"
+   },
+   {
+    "line": 11,
+    "word": "nur wischen",
+    "note": "wohl 'nunmehr'"
+   },
+   {
+    "line": 16,
+    "word": "gewißen",
+    "note": "wohl 'gerissen'"
+   },
+   {
+    "line": 25,
+    "word": "je",
+    "note": "wohl 'ja'"
+   },
+   {
+    "line": 28,
+    "word": "Er führen",
+    "note": "wohl 'Erhören'"
+   },
+   {
+    "line": 29,
+    "word": "anverschuldet ... granz anlaſaſten",
+    "note": "verderbt; wohl 'unverschuldet' und 'ganz unerträglichen'"
+   },
+   {
+    "line": 31,
+    "word": "unbegragter",
+    "note": "wohl 'unbegrenzter'"
+   },
+   {
+    "line": 7,
+    "word": "Fürstl.",
+    "note": "wohl 'Fürsten'"
+   }
+  ],
+  "read_against": "f3c4d0a34adc2cb3"
+ }
 }

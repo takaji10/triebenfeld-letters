@@ -407,5 +407,137 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat Hawich und Oberinspektor Hecker empfangen und dreizehn gerichtliche Vollmachten ausgestellt. Hawich soll auf Abweisung der Dąbska wegen der Trąbczyner Güter dringen und die Aufhebung der Sequestration betreiben. Weitere Aufträge: Zinsen eintreiben, Oppenheimer et Wolff in Kalisz verklagen, Sequester Honrichs absetzen und seine eigenmächtigen Landverkäufe annullieren, Pachtrückstände von Niedźwiecki beitreiben, Grenzprozesse führen und den Fürsten auf dem Reichstag zu Warschau vertreten. Triebenfeld glaubt, seine Obligation über 250000 Rthl verschaffe ihm Mitsprache bei den Gläubigern."
+ "summary_de": "Triebenfeld hat Hawich und Oberinspektor Hecker empfangen und dreizehn gerichtliche Vollmachten ausgestellt. Hawich soll auf Abweisung der Dąbska wegen der Trąbczyner Güter dringen und die Aufhebung der Sequestration betreiben. Weitere Aufträge: Zinsen eintreiben, Oppenheimer et Wolff in Kalisz verklagen, Sequester Honrichs absetzen und seine eigenmächtigen Landverkäufe annullieren, Pachtrückstände von Niedźwiecki beitreiben, Grenzprozesse führen und den Fürsten auf dem Reichstag zu Warschau vertreten. Triebenfeld glaubt, seine Obligation über 250000 Rthl verschaffe ihm Mitsprache bei den Gläubigern.",
+ "reading": {
+  "letter": "48",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Kontop to Prince Hohenlohe. He had Hawich, the Justiz Bürgermeister of Zagórów, and Ober Inspector Hecker with him and issued thirteen special powers of attorney. They cover the rejection of Dąbska's claim to Trąbczyn, lifting the sequestration, collecting interest, a suit against Oppenheimer et Wolff, removing Honrichs as sequester and annulling his land sales, arrears from Niedźwiecki, the Oleśnica tenants, boundary suits, the Warsaw Reichstag, the Invaliden Casse and the Radzinski heirs. The acts were recorded by Schenck. A second copy (doc 302) differs in some figures and names.",
+  "claims": [
+   {
+    "statement": "Hawich und Oberinspektor Hecker waren bei Triebenfeld, der gerichtliche Spezialvollmachten ausstellte",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Abweisung der Dąbska wegen der Trąbczyner Güter",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Aufhebung der Sequestration",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Zinsen eintreiben",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Oppenheimer et Wolff in Kalisz verklagen",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Honrichs als Sequester absetzen, seine Verkäufe annullieren",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Pachtrückstände von Niedźwiecki",
+    "lines": [
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Grenzprozesse und Vertretung auf dem Reichstag zu Warschau",
+    "lines": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Obligation über 250000 Rthl gibt Mitsprache bei den Gläubigern",
+    "lines": [
+     55,
+     56,
+     57
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Abweisung",
+    "note": "Copy doc 302 reads 'Anweisung'."
+   },
+   {
+    "line": 7,
+    "word": "nach",
+    "note": "Copy reads 'noch'."
+   },
+   {
+    "line": 20,
+    "word": "Betrüge",
+    "note": "Copy has 'Betrügl:' (Betrüger?)."
+   },
+   {
+    "line": 36,
+    "word": "inclusum",
+    "note": "Copy reads 'inclusive'."
+   },
+   {
+    "line": 36,
+    "word": "23000",
+    "note": "Copy gives 32000; figure uncertain, so it is left out of the summary."
+   },
+   {
+    "line": 50,
+    "word": "Radzinskischen",
+    "note": "Copy reads 'Niedźwieckischen'; left out of the summary."
+   },
+   {
+    "line": 57,
+    "word": "erwünschstete",
+    "note": "Copy reads 'erwünschte'."
+   },
+   {
+    "line": 44,
+    "word": "jezt",
+    "note": "Word repeated from line 43, a dittography."
+   }
+  ],
+  "read_against": "2aa5c431f2e0a92e"
+ }
 }

@@ -593,5 +593,147 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kann Kontop nicht verlassen, da Coste nicht gekommen ist; Kontop ist verpachtet, Świniary noch nicht. Hawich bezichtigt Honrichs des Betrugs; Triebenfeld hat beide vorgeladen und will einen Actuarius nach Zagórów senden, um zu ermitteln, wer von Untertanen und Pächtern Geld genommen hat. Hawich, Honrichs und Hecker hätten sich widerrechtlich Hufen angeeignet. Über 12 Deputationen der Gemeinden baten um Zahlungsfrist. Er bittet um die Fracht-, Zoll- und Wagezettel für das Eisen."
+ "summary_de": "Triebenfeld kann Kontop nicht verlassen, da Coste nicht gekommen ist; Kontop ist verpachtet, Świniary noch nicht. Hawich bezichtigt Honrichs des Betrugs; Triebenfeld hat beide vorgeladen und will einen Actuarius nach Zagórów senden, um zu ermitteln, wer von Untertanen und Pächtern Geld genommen hat. Hawich, Honrichs und Hecker hätten sich widerrechtlich Hufen angeeignet. Über 12 Deputationen der Gemeinden baten um Zahlungsfrist. Er bittet um die Fracht-, Zoll- und Wagezettel für das Eisen.",
+ "reading": {
+  "letter": "67",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to the Prince. He cannot leave because Coste has not come. Kontop is leased, Schweinern is not. On the Polish affair: Hawich accuses Honrichs of fraud. T. has summoned both and will send an actuary to Zagórów to find out who took money from the subjects and tenants. The sequestration was lifted by decree and only an overseer remains. More than 12 community deputations asked for time to pay. Hawich, Honrichs and Hecker took Hufen unlawfully. Berlin news comes via Grevenitz: Köckritz, Kleist, the general moratorium. He asks for the freight, toll and weigh slips for the iron. Postscript: Honrichs's letter came by express. T. suspects Hawich and Hecker, will hear from Brzechffa/Garczynski, and Hecker's paper caution is forfeit.",
+  "claims": [
+   {
+    "statement": "Triebenfeld kann nicht abreisen, da Coste nicht gekommen ist",
+    "lines": [
+     7
+    ]
+   },
+   {
+    "statement": "Kontop verpachtet, Świniary noch nicht",
+    "lines": [
+     8
+    ]
+   },
+   {
+    "statement": "Hawich bezichtigt Honrichs des Betrugs",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "beide vorgeladen",
+    "lines": [
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Actuarius soll in Zagórów ermitteln, wer von Untertanen und Pächtern Geld genommen hat",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Hawich, Honrichs und Hecker haben sich widerrechtlich Hufen angeeignet",
+    "lines": [
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "über 12 Deputationen der Gemeinden baten um Zahlungsfrist",
+    "lines": [
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "bittet um Fracht-, Zoll- und Wagezettel des im Mai gesandten Eisens",
+    "lines": [
+     68,
+     69,
+     70,
+     71
+    ],
+    "check": "overstated",
+    "why": "Zeilen 68-69: Im Mai wurden die Zettel an den Fürsten geschickt ('die Ihnen im May hingesandte Fracht, Zoll, und Wage Zettel'), nicht das Eisen. Die Zusammenfassung ordnet die Zeitangabe dem falschen Gegenstand zu."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Schweinere",
+    "note": "probably Schweinern (Świniary)"
+   },
+   {
+    "line": 22,
+    "word": "der Teutsch ein pohleisch Bau",
+    "note": "garbled; perhaps 'der Teutsch und Pohlnisch kann'"
+   },
+   {
+    "line": 27,
+    "word": "beigefunden",
+    "note": "probably beigefügten"
+   },
+   {
+    "line": 39,
+    "word": "trom",
+    "note": "probably 'etwas' or 'trotz'; sense unclear"
+   },
+   {
+    "line": 41,
+    "word": "Geisteren",
+    "note": "probably Geistlichen?"
+   },
+   {
+    "line": 45,
+    "word": "ein Approbirt",
+    "note": "probably 'nicht approbirt'"
+   },
+   {
+    "line": 58,
+    "word": "eine hinnen",
+    "note": "probably einnehmen"
+   },
+   {
+    "line": 60,
+    "word": "Götz",
+    "note": "perhaps Götzen"
+   },
+   {
+    "line": 67,
+    "word": "B — und Lecht Meyer Wolff",
+    "note": "garbled"
+   },
+   {
+    "line": 72,
+    "word": "zu tiefen Respect ersterben",
+    "note": "formula garbled; probably 'In tiefstem Respect ersterbe'"
+   },
+   {
+    "line": 84,
+    "word": "Lube",
+    "note": "unclear; perhaps Lügner or Buben"
+   },
+   {
+    "line": 87,
+    "word": "Liebe",
+    "note": "probably Leute"
+   },
+   {
+    "line": 95,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 101,
+    "word": "Barotto Hamel",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "f4dacda778ae7e71"
+ }
 }

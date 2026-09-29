@@ -256,5 +256,102 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld schlägt vor, den Geometer Cabanis zu Husiten zu schicken und etwa 500 Wirte anwerben zu lassen. Laut Glencks Tabelle aus Zagórów wären rund 31000 Morgen Dominialgründe zu dismembrieren. Cabanis hatte bei Strehlen bereits ein Gütchen an Husiten aufgeteilt, die für 23 Hufen 25/m Rthl bar zahlten. Uminski findet laut Prinz Biron den Preis für die Kamionna-Güter zu hoch, will sie aber besichtigen. Triebenfeld hält das für Spott, da Broniewski dort noch sitzt. Rapackis Kaufwillige verlangen zu lange Zahlungsfristen."
+ "summary_de": "Triebenfeld schlägt vor, den Geometer Cabanis zu Husiten zu schicken und etwa 500 Wirte anwerben zu lassen. Laut Glencks Tabelle aus Zagórów wären rund 31000 Morgen Dominialgründe zu dismembrieren. Cabanis hatte bei Strehlen bereits ein Gütchen an Husiten aufgeteilt, die für 23 Hufen 25/m Rthl bar zahlten. Uminski findet laut Prinz Biron den Preis für die Kamionna-Güter zu hoch, will sie aber besichtigen. Triebenfeld hält das für Spott, da Broniewski dort noch sitzt. Rapackis Kaufwillige verlangen zu lange Zahlungsfristen.",
+ "reading": {
+  "letter": "119",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Breslau. Prinz Biron says Uminski finds the price too high but wants a letter to the administrator of the Kamionna estates so he can inspect them. Triebenfeld thinks Uminski is not serious, since Broniewski still holds the estates. The messenger from Zagórów has brought Glenck's table, which shows 31000 Morgen of demesne land that could be divided up. Triebenfeld proposes sending the surveyor Cabanis to recruit about 500 Hussite settlers. Three years ago Cabanis divided a small estate near Strehlen among such people. Rapacki's prospective buyers want long payment terms. Schöneich plans the same kind of sale. Trąbczyn is not mentioned.",
+  "claims": [
+   {
+    "statement": "Vorschlag, Cabanis zu den Husiten zu schicken und etwa 500 Wirte anzuwerben",
+    "lines": [
+     19,
+     20,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Glencks Tabelle aus Zagórów: an 31000 Morgen Dominialgründe zu dismembrieren",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Cabanis teilte bei Strehlen ein Gütchen an Husiten auf, die für 23 Hufen 25/m Rthl bar zahlten",
+    "lines": [
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Uminski findet laut Prinz Biron den Preis hoch, will die Kamionna-Güter aber besichtigen",
+    "lines": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Triebenfeld hält das für Spott, da Broniewski noch in den Gütern sitzt",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Rapackis Kaufwillige verlangen weit aussehende Zahlungstermine",
+    "lines": [
+     34,
+     35,
+     36
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "erlaube",
+    "note": "probably 'erlauben' (before 'wird'); could also be the writer's own grammar"
+   },
+   {
+    "line": 18,
+    "word": "um",
+    "note": "probably 'und' ('für Stadt und Land')"
+   },
+   {
+    "line": 19,
+    "word": "Mühenwürdig",
+    "note": "unclear; perhaps 'rühmenswürdig'"
+   },
+   {
+    "line": 41,
+    "word": "Bittz",
+    "note": "probably 'bitten'"
+   },
+   {
+    "line": 43,
+    "word": "dechiffrirt",
+    "note": "odd in this context; the meaning is doubtful"
+   },
+   {
+    "line": 45,
+    "word": "M[s?]tower",
+    "note": "place name uncertain"
+   },
+   {
+    "line": 22,
+    "word": "Betsche",
+    "note": "a small estate near Strehlen, not Pszczew (Betsche); do not identify it with Pszczew"
+   }
+  ],
+  "read_against": "48bd8a26abbd11d7"
+ }
 }

@@ -437,5 +437,101 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wartet auf die Berliner Resolution und will bei Erschwerung der Taxrevision den Landrath die Taxen revidieren lassen. Otocki verspricht 10000 Rthl und 2000 Rthl Propinationspacht; Meierowitz würde nach Honrichs' Abgang 20000 Rthl und 500 Rthl Canon zahlen. Ein Kammeredikt über Erbpacht habe Glenck verschwiegen und den Olesnicer Vertrag vom 22. Februar 1804 schließen lassen. Laut Dombrowski liegen der Prusimskische Kompromiss und Zahlungsquittungen im Kowaler Archiv."
+ "summary_de": "Triebenfeld wartet auf die Berliner Resolution und will bei Erschwerung der Taxrevision den Landrath die Taxen revidieren lassen. Otocki verspricht 10000 Rthl und 2000 Rthl Propinationspacht; Meierowitz würde nach Honrichs' Abgang 20000 Rthl und 500 Rthl Canon zahlen. Ein Kammeredikt über Erbpacht habe Glenck verschwiegen und den Olesnicer Vertrag vom 22. Februar 1804 schließen lassen. Laut Dombrowski liegen der Prusimskische Kompromiss und Zahlungsquittungen im Kowaler Archiv.",
+ "reading": {
+  "letter": "164",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to Prince from Kalisz. Topics: no Berlin resolution yet (Amelang); Taxen revision chicanes blamed on Prinz George and Kalckreuth, Minister v. Voss; fallback: Landrath revises/attests taxes. Otocki to pay 10000 Rthl and 2000 Rthl half-year Propination pacht in advance; Meierowitz 20000 Rthl and 500 Rthl canon if Honrichs removed. Buyers for Huben; presses for Consens. Kammer edict on Erbpacht, notified to Glenck and Landrath v. Blomberg 23 Dec 1803; Glenck concealed it, contract with Olesnicer 22 Feb 1804. Dombrowski: Prusimski Compromiss and receipts in Kowal archive. Ribbeck/Floricke, Lichnowski; ill health.",
+  "claims": [
+   {
+    "statement": "Berliner Resolution steht aus",
+    "lines": [
+     4
+    ]
+   },
+   {
+    "statement": "will bei Erschwerung der Revision den Landrath die Taxen revidieren lassen",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Otocki verspricht 10000 Rthl und 2000 Rthl Propinationspacht",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Meierowitz zahlt nach Honrichs' Abgang 20000 Rthl und 500 Rthl Canon",
+    "lines": [
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Kammeredikt über Erbpacht, von Glenck verschwiegen, Olesnicer Vertrag vom 22. Februar 1804",
+    "lines": [
+     46,
+     47,
+     48,
+     49,
+     57,
+     58,
+     59,
+     60,
+     61,
+     73,
+     74,
+     75,
+     76,
+     77
+    ]
+   },
+   {
+    "statement": "Dombrowski: Prusimskischer Kompromiss und Quittungen im Kowaler Archiv",
+    "lines": [
+     80,
+     81,
+     82
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Zand",
+    "note": "unclear, probably a name or 'Graf' misread"
+   },
+   {
+    "line": 29,
+    "word": "[me?]hhn",
+    "note": "garbled; 'bestandes' likely 'besonders'"
+   },
+   {
+    "line": 52,
+    "word": "Zad",
+    "note": "unclear right (list item b)"
+   },
+   {
+    "line": 6,
+    "word": "ober",
+    "note": "passage lines 6-7 garbled; possibly 'oder'"
+   },
+   {
+    "line": 38,
+    "word": "war",
+    "note": "possibly 'wan' (wenn)"
+   },
+   {
+    "line": 17,
+    "word": "Unfuhr",
+    "note": "possibly 'Erfuhr'/'Man erfuhr'"
+   }
+  ],
+  "read_against": "aa3774f13212f3c9"
+ }
 }

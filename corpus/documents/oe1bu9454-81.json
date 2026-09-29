@@ -180,5 +180,75 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Michaelis kann trotz Drängens von Triebenfeld und Eysenhardt noch nichts Bestimmtes über den Gütertausch melden. Bei der südpreußischen Expedition ist nichts eingegangen, die Sache stecke also noch in der Korrespondenz zwischen Minister v. Voss und dem Geheimen Finanzrat Schulze, und entschieden sei noch nichts. Er erwartet die Vollmacht des Fürsten am kommenden Dienstag. Mit ihr will er sich legitimieren und bei Schulze eine zuverlässige Erkundigung einholen."
+ "summary_de": "Michaelis kann trotz Drängens von Triebenfeld und Eysenhardt noch nichts Bestimmtes über den Gütertausch melden. Bei der südpreußischen Expedition ist nichts eingegangen, die Sache stecke also noch in der Korrespondenz zwischen Minister v. Voss und dem Geheimen Finanzrat Schulze, und entschieden sei noch nichts. Er erwartet die Vollmacht des Fürsten am kommenden Dienstag. Mit ihr will er sich legitimieren und bei Schulze eine zuverlässige Erkundigung einholen.",
+ "reading": {
+  "letter": "81",
+  "legibility": "sound",
+  "notes": "Michaelis writes from Berlin to the Prince. Triebenfeld and Eysenhardt are pressing him for news on the estate exchange (Gütertausch). Nothing has yet come in to the Südpreußische registry and expedition office, so the matter must still sit in the correspondence between Minister v. Voss and Geh. Finanzrat Schulze, and nothing has been decreed. He will not keep troubling Schulze with visits. He expects the Prince's power of attorney next Tuesday; with it he will prove his authority and get reliable information from Schulze. The letter is short and the text is sound, apart from small case errors and a few odd words.",
+  "claims": [
+   {
+    "statement": "Trotz Drängens von Triebenfeld und Eysenhardt kann er noch nichts Bestimmtes über den Gütertausch melden.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Bei der südpreußischen Expedition ist nichts eingegangen.",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Die Sache steckt noch in der Korrespondenz zwischen v. Voss und dem Geheimen Finanzrat Schulze, und es ist noch nichts decretirt.",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Der Brief zieht das nur als Schluss daraus, dass nichts eingegangen ist (\"dies ist ein Zeichen, daß ... stecken muß\"). Die Behauptung stellt es als Tatsache hin. Die Zusammenfassung selbst gibt es mit \"stecke also\" schon als Schluss wieder."
+   },
+   {
+    "statement": "Er erwartet die Vollmacht am kommenden Dienstag und will sich damit legitimieren und bei Schulze eine zuverlässige Erkundigung einholen.",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Registratus mit",
+    "note": "probably 'Registratur und'"
+   },
+   {
+    "line": 16,
+    "word": "vorgemahl",
+    "note": "probably 'vorigemal'"
+   },
+   {
+    "line": 20,
+    "word": "von",
+    "note": "with 'zuziehen' on line 21 probably 'einzuziehen'"
+   },
+   {
+    "line": 17,
+    "word": "weiter",
+    "note": "the sentence is unclear; perhaps 'warten'"
+   }
+  ],
+  "read_against": "6c09583957caf84a"
+ }
 }

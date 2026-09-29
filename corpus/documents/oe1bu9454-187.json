@@ -432,5 +432,98 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Die Vollmachten und Blanquets sind eingegangen. Der Gros Kanzler soll 90000 Rthl aus dem Justiz Fond geben, womit Weigel, die Schlabrendorff und Lichnowski bezahlt werden; der Fürst soll die gewünschten 30000 Rthl erhalten. Der Hypothekenschein der Güter Zagórów und Trąbczyn ist so belastet, dass man nicht weiter borgen will. Triebenfeld will Oppenheimer loswerden, um die Hypothek von 250000 Rthl zurückzubekommen. Er will nach Pszczew wegen der Klage Meyer Bernhards, dann nach Kalisz und Trąbczyn, um Geld einzutreiben."
+ "summary_de": "Die Vollmachten und Blanquets sind eingegangen. Der Gros Kanzler soll 90000 Rthl aus dem Justiz Fond geben, womit Weigel, die Schlabrendorff und Lichnowski bezahlt werden; der Fürst soll die gewünschten 30000 Rthl erhalten. Der Hypothekenschein der Güter Zagórów und Trąbczyn ist so belastet, dass man nicht weiter borgen will. Triebenfeld will Oppenheimer loswerden, um die Hypothek von 250000 Rthl zurückzubekommen. Er will nach Pszczew wegen der Klage Meyer Bernhards, dann nach Kalisz und Trąbczyn, um Geld einzutreiben.",
+ "reading": {
+  "letter": "187",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Berlin writes to the Prince. The powers of attorney he had asked for (doc. 185) have arrived. With the help of the General, the Gros Kanzler will provide 90000 rt from the Justiz Fond to pay Weigel, Schlabrendorff and Lichnowski. Lichnowski is to return 20000 rt against a mortgage on Świniary, and then the Prince gets his 30000 rt. The mortgage register of Zagórów and Trąbczyn is so encumbered that nobody will lend more. He wants to be rid of Oppenheimer so he can recover the 250000 rt mortgage, and he lists Oppenheimer's unmet obligations. He plans trips to Betsche (Meyer Bernhard's lawsuit), Kalisz and Trąbczyn. He also describes the Wulffen/Kontop payment demand.",
+  "claims": [
+   {
+    "statement": "Die Vollmachten und Blanquets sind eingegangen.",
+    "lines": [
+     4
+    ]
+   },
+   {
+    "statement": "Der Gros Kanzler soll 90000 Rthl aus dem Justiz Fond geben, womit Weigel, die Schlabrendorff und Lichnowski bezahlt werden.",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Der Fürst soll die gewünschten 30000 Rthl erhalten.",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Der Hypothekenschein der Güter Zagórów und Trąbczyn ist so belastet, dass man nicht weiter borgen will.",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Triebenfeld will Oppenheimer loswerden, um die Hypothek von 250000 Rthl zurückzubekommen.",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Er will nach Pszczew wegen der Klage Meyer Bernhards.",
+    "lines": [
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Dann will er nach Kalisz und Trąbczyn, um Geld einzutreiben.",
+    "lines": [
+     43,
+     44
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 27,
+    "word": "Lichnowchen",
+    "note": "probably Lichnowski (line 24), but the ending is unclear"
+   },
+   {
+    "line": 50,
+    "word": "baldgöllig",
+    "note": "probably 'bald völlig'"
+   },
+   {
+    "line": 53,
+    "word": "günstigen",
+    "note": "the context suggests 'ungünstigen'"
+   },
+   {
+    "line": 34,
+    "word": "zu rücken die das",
+    "note": "probably 'zurück, die dann' or similar"
+   },
+   {
+    "line": 59,
+    "word": "statteten",
+    "note": "a word may be missing (e.g. 'aus')"
+   },
+   {
+    "line": 16,
+    "word": "Jura Ca[u?]sa",
+    "note": "uncertain Latin term"
+   }
+  ],
+  "read_against": "7ee341ef1176515f"
+ }
 }

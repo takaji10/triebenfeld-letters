@@ -127,5 +127,49 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Kreis Rath Thiel übersendet Triebenfeld einen soeben über den Advokaten v Wieckowski erhaltenen Brief des Podprefecten v Brzechffa. Daraus gehe hervor, dass Brzechffa seiner Geschäfte wegen erst am 15. d. M. aus Warszawa abzureisen gedenkt und dass in Ansehung der Herrschaft Trąbczyn gute Aussicht besteht."
+ "summary_de": "Kreis Rath Thiel übersendet Triebenfeld einen soeben über den Advokaten v Wieckowski erhaltenen Brief des Podprefecten v Brzechffa. Daraus gehe hervor, dass Brzechffa seiner Geschäfte wegen erst am 15. d. M. aus Warszawa abzureisen gedenkt und dass in Ansehung der Herrschaft Trąbczyn gute Aussicht besteht.",
+ "reading": {
+  "letter": "72c",
+  "legibility": "sound",
+  "notes": "Kreis Rath Thiel (Kalisz) to Krieges Rath v. Triebenfeld, cover note: forwards a letter of Podprefect v Brzechffa (doc 72e) received via Advocate v Wieckowski. Brzechffa leaves Warsaw only on the 15th; good prospects regarding the Trąbczyn Herrschaft. Docket 'ad 12. Merz 1812' matches Triebenfeld's letter 72b forwarding both. Line 2 title garbled ('Frühsttag', probably Forst Rath). 'geben ich' is a grammar slip for 'gebe ich'.",
+  "claims": [
+   {
+    "statement": "Thiel übersendet einen über den Advokaten v Wieckowski erhaltenen Brief des Podprefecten v Brzechffa",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Brzechffa gedenkt seiner Geschäfte wegen erst am 15. d. M. aus Warszawa abzureisen",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "gute Aussicht in Ansehung der Herrschaft Trąbczyn",
+    "lines": [
+     10,
+     11
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 2,
+    "word": "Frühsttag",
+    "note": "Not German; in the salutation 'Krieges und ...' probably 'Forst Rath' (Triebenfeld's title Krieges- und Forstrath), but this cannot be proven from the letter"
+   },
+   {
+    "line": 11,
+    "word": "hochwohlgeb.",
+    "note": "'für hochwohlgeb. / nen' likely a broken 'Hochwohlgebohrnen' (Dieselben); garbled"
+   }
+  ],
+  "read_against": "b07802a1c884e8f9"
+ }
 }

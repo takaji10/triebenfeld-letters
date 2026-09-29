@@ -184,5 +184,95 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn meldet, dass er nach dem Tod des Bergrath Bernhardi den Befehl erhielt, nach Oberschlesien zu reisen und die Angelegenheiten der Herrschaft Koszęcin mit Inspector Krenig und Forstmeister Reichmann zu regeln. Nach vernehmen sei dort nicht alles in Ordnung. Er bittet um Erlaubnis, v. Triebenfeld in Trąbczyn zu besuchen, bevor er über Wrocław ins Reich zurückkehrt. Beim Fürsten hat er ebenfalls darum nachgesucht. Er erbittet einige Zeilen nach Koszęcin."
+ "summary_de": "Hahn meldet, dass er nach dem Tod des Bergrath Bernhardi den Befehl erhielt, nach Oberschlesien zu reisen und die Angelegenheiten der Herrschaft Koszęcin mit Inspector Krenig und Forstmeister Reichmann zu regeln. Nach vernehmen sei dort nicht alles in Ordnung. Er bittet um Erlaubnis, v. Triebenfeld in Trąbczyn zu besuchen, bevor er über Wrocław ins Reich zurückkehrt. Beim Fürsten hat er ebenfalls darum nachgesucht. Er erbittet einige Zeilen nach Koszęcin.",
+ "reading": {
+  "letter": "189",
+  "legibility": "sound",
+  "notes": "A. Hahn writes to Triebenfeld from Klein Althammer. After the death of Bergrath Bernhardi he has been ordered to Upper Silesia, to settle the affairs of the Koszęcin (Koschentin) estate together with Inspector Krenig and Forstmeister Reichmann. Afterwards he will go back to Breslau and then into the Reich. He asks permission to visit Triebenfeld in Trąbczyn and has asked the Prince for the same leave. He hears that things at Koszęcin are not in good order and asks Triebenfeld to write to him there. Herlich, who is travelling with him, sends his respects. The closing formula is partly garbled.",
+  "claims": [
+   {
+    "statement": "Nach dem Tod des Bergrath Bernhardi erhielt Hahn den Befehl, nach Oberschlesien zu reisen und die Angelegenheiten der Herrschaft mit Inspector Krenig und Forstmeister Reichmann zu regeln.",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Er hört, dass in Koszęcin nicht alles in bester Ordnung ist.",
+    "lines": [
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Er bittet um Erlaubnis, v. Triebenfeld in Trąbczyn zu besuchen, bevor er über Wrocław ins Reich zurückkehrt.",
+    "lines": [
+     16,
+     17,
+     18,
+     21,
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Auch beim Fürsten hat er um Erlaubnis nachgesucht.",
+    "lines": [
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Er erbittet einige Zeilen nach Koszęcin.",
+    "lines": [
+     32,
+     33,
+     34
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 36,
+    "word": "hanuge",
+    "note": "probably 'hänge' (hänge ... auf = add), garbled"
+   },
+   {
+    "line": 36,
+    "word": "Verſt.",
+    "note": "with 'cherung' on line 37 probably 'Versicherung'"
+   },
+   {
+    "line": 29,
+    "word": "wirdmal",
+    "note": "perhaps 'wird mal' or 'wird viel'"
+   },
+   {
+    "line": 22,
+    "word": "und",
+    "note": "probably 'um' (um die Erlaubnis bitten)"
+   },
+   {
+    "line": 26,
+    "word": "und",
+    "note": "probably 'um' gnädige Erlaubnis"
+   },
+   {
+    "line": 34,
+    "word": "Herlich",
+    "note": "name uncertain"
+   }
+  ],
+  "read_against": "c72f7f092b4cbb6b"
+ }
 }

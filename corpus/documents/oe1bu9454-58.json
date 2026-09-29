@@ -311,5 +311,132 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld dankt für 50 fr d'or, die er durch Bally erhielt und mit denen er sich für 4 Wochen von der Execution loskaufte. In Kosten muss er an 80 bewaffnete Männer stellen. Aus Kalisz, wo Garczynski Ober Prefect ist und Zychlinski amtiert, berichtet er über die Pläne der Pohlen: Wiederherstellung Pohlens und Konstantin als König. Er schreibt dem König, die Ausfuhr ebenfalls zu verbieten, warnt vor Confiscation der Güter bei voreiligem Handeln."
+ "summary_de": "Triebenfeld dankt für 50 fr d'or, die er durch Bally erhielt und mit denen er sich für 4 Wochen von der Execution loskaufte. In Kosten muss er an 80 bewaffnete Männer stellen. Aus Kalisz, wo Garczynski Ober Prefect ist und Zychlinski amtiert, berichtet er über die Pläne der Pohlen: Wiederherstellung Pohlens und Konstantin als König. Er schreibt dem König, die Ausfuhr ebenfalls zu verbieten, warnt vor Confiscation der Güter bei voreiligem Handeln.",
+ "reading": {
+  "letter": "58",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Breslau. He has received the Prince's letter and 50 fr d'or through Bally, and the money has bought him 4 weeks' relief from execution. He is leaving for Kontop and Kosten, where he must provide Honrichs with armed men, and will then go to Schlawenschitz. He reports on Polish export rules and has written to the King urging a matching ban. He went to Kalisz himself to gather intelligence on the Poles' plans (restoring Poland, Konstantin as king). Garczynski and Zychlinski are his men but cannot act at present. He asks for news from Böhmen, will come in person within 10 days, and urges the Prince to heed his earlier advice on the military matter. Nothing is said about Trąbczyn specifically.",
+  "claims": [
+   {
+    "statement": "Dank für 50 fr d'or, erhalten durch Bally, damit für 4 Wochen von der Execution losgekauft",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "muss in Kosten Honrichs 80 bewaffnete Männer stellen",
+    "lines": [
+     8,
+     9,
+     10
+    ],
+    "check": "overstated",
+    "why": "'Honrichs' ist ein verstümmeltes Wort. Dass es die Männer eines Honrichs sind, ist eine Deutung. Der Brief sagt nur 'an 80 Mann völlig armirte', also etwa 80."
+   },
+   {
+    "statement": "in Kalisz über die Pläne der Pohlen unterrichtet; Garczynski Ober Prefect, Zychlinski",
+    "lines": [
+     22,
+     23,
+     24,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Pohlen soll wiederhergestellt werden, Konstantin König",
+    "lines": [
+     56,
+     57,
+     58
+    ]
+   },
+   {
+    "statement": "schreibt dem König, die Ausfuhr ebenfalls zu verbieten",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18,
+     19
+    ],
+    "check": "overstated",
+    "why": "Er schreibt dem König, 'letzteres' ebenfalls zu verbieten, damit 'unser Geld' nicht außer Landes geht. Gemeint ist also nicht die polnische Ausfuhr. Die Zusammenfassung macht daraus 'die polnische Ausfuhr'."
+   },
+   {
+    "statement": "warnt vor Confiscation der Güter bei voreiligem Handeln",
+    "lines": [
+     37,
+     38
+    ]
+   },
+   {
+    "statement": "bittet um Nachrichten aus Böhmen",
+    "lines": [
+     66,
+     67
+    ],
+    "check": "overstated",
+    "why": "Zeilen 66-67 drücken ein Bedauern aus: Der Fürst hätte doch etwas über Böhmen schreiben sollen, damit er es mit einsenden kann. Um Nachrichten gebeten wird nicht."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "laut[?]",
+    "note": "unclear; possibly 'Sold' or similar"
+   },
+   {
+    "line": 15,
+    "word": "Schazte",
+    "note": "likely 'Schafe'"
+   },
+   {
+    "line": 20,
+    "word": "Gift",
+    "note": "likely misreading (Luft?)"
+   },
+   {
+    "line": 30,
+    "word": "pöd.",
+    "note": "garbled, perhaps 'mir ... Unter'"
+   },
+   {
+    "line": 37,
+    "word": "Nerlich",
+    "note": "garbled, possibly 'Ewr Durchlaucht' or a name"
+   },
+   {
+    "line": 45,
+    "word": "Wollſäde",
+    "note": "probably 'Woywoden' or similar"
+   },
+   {
+    "line": 47,
+    "word": "Herr",
+    "note": "likely 'Heer' (Heer Spione)"
+   },
+   {
+    "line": 58,
+    "word": "organibus",
+    "note": "likely 'organisiren'"
+   },
+   {
+    "line": 59,
+    "word": "Liste Telung",
+    "note": "garbled; perhaps place names"
+   },
+   {
+    "line": 72,
+    "word": "verehrt",
+    "note": "garbled, perhaps 'erhält'"
+   }
+  ],
+  "read_against": "8ed39893cb1955b0"
+ }
 }

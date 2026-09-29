@@ -498,5 +498,118 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Abschriften zum Verkauf von Kamionna und Kolno. Kabinets Rath Werner fordert beim Cammer Director 2 pc Provision laut Revers des Fürsten zu Hohenlohe vom 17. Dezember 1803, da er einen Käufer vorgeschlagen habe. Er fürchtet Einwände Glencks. Glenck fragt an, ob der Adressat bei einem Wert von 200/m Rthl hinter 100/m Rthl 60000 Rthl als zweite Hypothek leihen würde. Stubenrauch schickt die Papiere zurück und lehnt ab, weil die Güter durch Makler in üblen Ruf gekommen seien."
+ "summary_de": "Abschriften zum Verkauf von Kamionna und Kolno. Kabinets Rath Werner fordert beim Cammer Director 2 pc Provision laut Revers des Fürsten zu Hohenlohe vom 17. Dezember 1803, da er einen Käufer vorgeschlagen habe. Er fürchtet Einwände Glencks. Glenck fragt an, ob der Adressat bei einem Wert von 200/m Rthl hinter 100/m Rthl 60000 Rthl als zweite Hypothek leihen würde. Stubenrauch schickt die Papiere zurück und lehnt ab, weil die Güter durch Makler in üblen Ruf gekommen seien.",
+ "reading": {
+  "letter": "135",
+  "legibility": "partly garbled",
+  "notes": "Three copies filed together about selling Kamionna (Kaemen) and Kolno. (1) Kabinets Rath Werner, Berlin 19 May 1804, to a Cammer Director. He claims the 2 pc commission promised in the Prince's Revers because he proposed a buyer in December, and says he has learned the sale was concluded through Kammer Rath Ludolff. He fears Glenck will dispute the claim and asks what the purchase price is. (2) The Revers itself, Breslau 17 Dec 1803, signed by Friedrich Ludwig Fürst zu Hohenlohe. (3) Glenck, 12 May 1804, asking about a loan of 60000 rt as a second mortgage. (4) A note from Stubenrauch, 22 May 1804, returning the papers and declining.",
+  "claims": [
+   {
+    "statement": "Werner fordert beim Cammer Director 2 pc Provision laut Revers",
+    "lines": [
+     3,
+     5,
+     6,
+     8,
+     17,
+     18,
+     35
+    ]
+   },
+   {
+    "statement": "Revers des Fürsten vom 17. Dezember 1803",
+    "lines": [
+     38,
+     41,
+     42,
+     45,
+     47
+    ]
+   },
+   {
+    "statement": "da er einen Käufer vorgeschlagen habe",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "fürchtet Einwände Glencks",
+    "lines": [
+     12,
+     13,
+     14,
+     21
+    ]
+   },
+   {
+    "statement": "Glenck fragt nach 60000 Rthl als zweite Hypothek hinter 100/m Rthl bei Wert von 200/m Rthl",
+    "lines": [
+     54,
+     55,
+     56,
+     65
+    ]
+   },
+   {
+    "statement": "Stubenrauch schickt Papiere zurück, lehnt ab wegen üblen Rufs durch Makler",
+    "lines": [
+     68,
+     71,
+     72,
+     73,
+     74
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "Ein Hahn",
+    "note": "garbled; possibly a buyer's name or 'einem ...'"
+   },
+   {
+    "line": 11,
+    "word": "bevollen ihr",
+    "note": "probably 'Bevollmächtigten'"
+   },
+   {
+    "line": 14,
+    "word": "genugleichten",
+    "note": "probably 'dergleichen'"
+   },
+   {
+    "line": 26,
+    "word": "elirignen",
+    "note": "probably 'dirigiren'"
+   },
+   {
+    "line": 26,
+    "word": "ausgesagt",
+    "note": "probably 'ausgesetzt'"
+   },
+   {
+    "line": 42,
+    "word": "Sinne",
+    "note": "probably 'Summe'; 'Kaufsbretii' for 'Kaufspretii'"
+   },
+   {
+    "line": 68,
+    "word": "Remiliere",
+    "note": "probably 'Remittire'"
+   },
+   {
+    "line": 68,
+    "word": "Pappium",
+    "note": "probably 'Papiere'"
+   },
+   {
+    "line": 6,
+    "word": "Hochverabschriften",
+    "note": "garbled, perhaps 'Hochwohlgeboren abschriftlich'"
+   }
+  ],
+  "read_against": "5880b1e5c8fcf6b6"
+ }
 }

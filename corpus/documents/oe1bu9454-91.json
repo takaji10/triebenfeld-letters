@@ -113,5 +113,84 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Beyme dankt dem Fürsten für die Aufschlüsse in der Güter-Vertauschungs-Angelegenheit. Er freut sich, dass der König eine weitere Untersuchung verfügt hat, und versichert, er werde seine Pflichten weiter gewissenhaft erfüllen. Dabei will er die Wünsche des Fürsten, die Bereitschaft seines Herrn, ihm entgegenzukommen, und das Interesse des Staates miteinander vereinigen."
+ "summary_de": "Beyme dankt dem Fürsten für die Aufschlüsse in der Güter-Vertauschungs-Angelegenheit. Er freut sich, dass der König eine weitere Untersuchung verfügt hat, und versichert, er werde seine Pflichten weiter gewissenhaft erfüllen. Dabei will er die Wünsche des Fürsten, die Bereitschaft seines Herrn, ihm entgegenzukommen, und das Interesse des Staates miteinander vereinigen.",
+ "reading": {
+  "letter": "91",
+  "legibility": "sound",
+  "notes": "Beyme (Berlin) replies to the Prince: thanks him for explanations about the estate-exchange matter (Güther-Vertauschungs Angelegenheit), is glad the King has ordered a further investigation, and promises to keep doing his duty as conscientiously as before, looking for a way to bring together the Prince's wishes, his master's willingness to accommodate him, and the interest of the state. Short courtesy letter. A few words are garbled: \"Er\" on line 4 (a formula error), \"nur\" on line 7, \"unbringt\" on line 15, \"des Interesse\" on line 18.",
+  "claims": [
+   {
+    "statement": "Beyme dankt für die Aufschlüsse in der Güter-Vertauschungs-Angelegenheit.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er freut sich, dass der König eine weitere Untersuchung verfügt hat.",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er versichert, er werde seine Pflichten weiter gewissenhaft erfüllen.",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er will die Wünsche des Fürsten, die Bereitschaft seines Herrn, ihm entgegenzukommen, und das Staatsinteresse vereinigen.",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "nur",
+    "note": "probably 'mir' (Aufschlüsse ... mir zu ertheilen geruhet haben)"
+   },
+   {
+    "line": 15,
+    "word": "unbringt",
+    "note": "probably 'unversucht'"
+   },
+   {
+    "line": 14,
+    "word": "Auswegen",
+    "note": "probably 'Ausweg'"
+   },
+   {
+    "line": 16,
+    "word": "Geneigs",
+    "note": "probably 'Geneigt-heit' (Geneigtheit)"
+   },
+   {
+    "line": 9,
+    "word": "angetragenen",
+    "note": "probably 'angetragene'"
+   },
+   {
+    "line": 11,
+    "word": "versicher",
+    "note": "possibly 'versichere'"
+   }
+  ],
+  "read_against": "771103d7aa0b249e"
+ }
 }

@@ -203,5 +203,109 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld schickt das königliche Schreiben auf die letzte Eingabe. Minister v Struensee musste die Akten dem König vorlegen. Obrist v. Köckritz, der eine Pro Memoria Triebenfelds dem König vorlegte, verspricht einen guten Ausgang. Darin bietet Triebenfeld an, falls Polajewo im Wege stehe, die Güter 30 Jahre zu pachten, jährlich 6 Bauerngüter zu bauen, wüste Gründe zu roden und 20000 Rthl Pacht zu zahlen. Wegen der 7000 Rthl will er die Niedernhallsche Sache beenden."
+ "summary_de": "Triebenfeld schickt das königliche Schreiben auf die letzte Eingabe. Minister v Struensee musste die Akten dem König vorlegen. Obrist v. Köckritz, der eine Pro Memoria Triebenfelds dem König vorlegte, verspricht einen guten Ausgang. Darin bietet Triebenfeld an, falls Polajewo im Wege stehe, die Güter 30 Jahre zu pachten, jährlich 6 Bauerngüter zu bauen, wüste Gründe zu roden und 20000 Rthl Pacht zu zahlen. Wegen der 7000 Rthl will er die Niedernhallsche Sache beenden.",
+ "reading": {
+  "letter": "93",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin writes to the Prince about the exchange of his South Prussian estates for crown domains (the Polajewo matter). He sends the royal letter that answered the last petition. Minister Struensee had to put the files before the King. Obrist von Köckritz supports the Prince, Cabinets Rath Beyme is thought honest, and Krieges Rath v Cöln wrote up the case well. Triebenfeld's Pro Memoria offers a 30-year lease of the estates on set terms. He will now work on the 7000 rt so that the Niedernhall matter can be settled. The Minister has left after receiving a snuff box, and Triebenfeld advises the Prince how to deal with him. Lines 32-35 are a garbled military metaphor.",
+  "claims": [
+   {
+    "statement": "Triebenfeld schickt das königliche Schreiben auf die letzte Eingabe.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Minister v Struensee musste die Akten dem König vorlegen.",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Köckritz legte die Pro Memoria dem König vor und verspricht guten Ausgang.",
+    "lines": [
+     11,
+     12,
+     13,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Pachtangebot: falls Polajewo im Wege, 30 Jahre Pacht, jährlich 6 Bauerngüter, Rodung, 20000 Rthl Pacht.",
+    "lines": [
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Wegen der 7000 Rthl will er arbeiten, damit die Niedernhallsche Sache endet.",
+    "lines": [
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Rat, dem abgereisten Minister freundlich, aber offen zu begegnen.",
+    "lines": [
+     40,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 33,
+    "word": "freundlich Stücke elementiren",
+    "note": "probably 'feindliche Stücke demontiren'"
+   },
+   {
+    "line": 35,
+    "word": "Haupt April",
+    "note": "garbled, meaning unclear"
+   },
+   {
+    "line": 31,
+    "word": "nachweisen",
+    "note": "perhaps 'nachweislich'"
+   },
+   {
+    "line": 41,
+    "word": "vlld",
+    "note": "unclear abbreviation"
+   },
+   {
+    "line": 48,
+    "word": "erkken",
+    "note": "garbled verb"
+   },
+   {
+    "line": 62,
+    "word": "Dein",
+    "note": "probably 'Diener' or 'Knecht'"
+   },
+   {
+    "line": 59,
+    "word": "Hochachtung",
+    "note": "usual formula is 'Ehrfurcht'"
+   }
+  ],
+  "read_against": "b4aeeb966d54c033"
+ }
 }

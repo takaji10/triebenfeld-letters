@@ -305,5 +305,103 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hawich meldet, dass die Trąbczyner Güter auf Verordnung der regierenden Commission durch den Appellationsrichter v Lipski abgenommen und Canonicus v Jezierski, Generalbevollmächtigtem der Frau v Dąbska geb. v Prusimska, übergeben wurden; er protestierte. Neue Prozesse: Probst Iwanski fordert den Decem von Swięcia, Martin v. Otocki und Müller Ekstaedt etwa 7000 Rthl Entschädigung aus einem Trąbczyner Pachtvertrag von 1798. Er bittet um den Vergleich aus Wrocław und eine Vollmacht."
+ "summary_de": "Hawich meldet, dass die Trąbczyner Güter auf Verordnung der regierenden Commission durch den Appellationsrichter v Lipski abgenommen und Canonicus v Jezierski, Generalbevollmächtigtem der Frau v Dąbska geb. v Prusimska, übergeben wurden; er protestierte. Neue Prozesse: Probst Iwanski fordert den Decem von Swięcia, Martin v. Otocki und Müller Ekstaedt etwa 7000 Rthl Entschädigung aus einem Trąbczyner Pachtvertrag von 1798. Er bittet um den Vergleich aus Wrocław und eine Vollmacht.",
+ "reading": {
+  "letter": "28",
+  "legibility": "sound",
+  "notes": "Hawich schreibt aus Pyzdry an den Fürsten. Die Trąbczyner Güter sind am 3. d. M. durch den Kaliszer Appellationsrichter v Lipski abgenommen worden, auf Verordnung der regierenden Commission. Übergeben wurden sie an Canonicus v Jezierski, den Generalbevollmächtigten der Frau v Dąbska geb. v Prusimska. Hawich hat protestiert und sich dabei auf den Tilsiter Frieden berufen. Er hat eine Abschrift der Verordnung erbeten und die Rechte wegen der bezahlten Schulden vorbehalten. Dazu kommen zwei neue Prozesse: Probst Iwanski fordert den Decem von Swięcia. Otocki und der Müller Ekstaedt fordern etwa 7000 Rthl aus dem Trąbczyner Pachtvertrag von 1798. Hawich bittet, den in Breslau geschlossenen Vergleich zu schicken und eine Vollmacht zu erteilen.",
+  "claims": [
+   {
+    "statement": "Trąbczyner Güter auf Verordnung der regierenden Commission durch Appellationsrichter v Lipski abgenommen",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "übergeben an Canonicus v Jezierski, Generalmandatar der Frau v Dąbska geb. v Prusimska",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Hawich protestierte",
+    "lines": [
+     17,
+     18,
+     19,
+     20,
+     31,
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Probst Iwanski fordert den Decem von Swięcia",
+    "lines": [
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Otocki und Müller Ekstaedt fordern circa 7000 Rthl Entschädigung aus Pachtvertrag von 1798 über Trąbczyn",
+    "lines": [
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "bittet, den Vergleich aus Wrocław zu schicken und eine Vollmacht zu erteilen",
+    "lines": [
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 44,
+    "word": "und",
+    "note": "probably 'zu' (Probst Iwanski zu Kuchary)"
+   },
+   {
+    "line": 19,
+    "word": "Vorstellen",
+    "note": "possibly 'Vorstellung' or 'Schreiben'"
+   },
+   {
+    "line": 42,
+    "word": "2[?]",
+    "note": "number doubtful, though two lawsuits are described"
+   }
+  ],
+  "read_against": "6e83ffa4f290ea5b"
+ }
 }

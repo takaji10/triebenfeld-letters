@@ -201,5 +201,78 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Die Rochlitzsche Sache ist eingeleitet. Triebenfeld hofft, dass der Fürst nichts zahlen muss, und nennt sie eine Prellerei. Er habe Rochlitz 1804 als Generalbevollmächtigter abgesetzt, was Glenck bezeugen könne. Er bittet dringend um zwei bis drei unterschriebene und gesiegelte gedruckte Prozessvollmachten, damit Melzig die Sache betreiben und ausstehende Reste von an 18000 Rthl einfordern kann. Er erwartet Honrichs und will nach Sławięcice kommen, sobald die Sache in sicherem Geleise ist."
+ "summary_de": "Die Rochlitzsche Sache ist eingeleitet. Triebenfeld hofft, dass der Fürst nichts zahlen muss, und nennt sie eine Prellerei. Er habe Rochlitz 1804 als Generalbevollmächtigter abgesetzt, was Glenck bezeugen könne. Er bittet dringend um zwei bis drei unterschriebene und gesiegelte gedruckte Prozessvollmachten, damit Melzig die Sache betreiben und ausstehende Reste von an 18000 Rthl einfordern kann. Er erwartet Honrichs und will nach Sławięcice kommen, sobald die Sache in sicherem Geleise ist.",
+ "reading": {
+  "letter": "71",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Kontop. The Rochlitz matter has been started in court (enclosure). Triebenfeld calls it a fraud, says he dismissed Rochlitz in 1804 as Generalbevollmächtigter and names Glenck as a witness. He asks for 2-3 signed and sealed blank printed Prozessvollmachten so that Melzig can pursue the case and collect outstanding arrears of about 18000 rt. He expects Honrichs tomorrow or the day after and will then come to Schlawenschitz. The postscript about the \"Pohlinische Sachen\" is fragmentary. Nothing in the letter concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Die Rochlitzsche Sache ist laut Beilage eingeleitet, Triebenfeld hofft, der Fürst werde nichts bezahlen.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er nennt sie eine Prellerei.",
+    "lines": [
+     6
+    ]
+   },
+   {
+    "statement": "Er habe Rochlitz 1804 als Generalbevollmächtigter abgesetzt, Glenck könne es bezeugen.",
+    "lines": [
+     8,
+     9,
+     10,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Bitte um zwei bis drei unterschriebene und gesiegelte gedruckte Prozessvollmachten für Melzig, um die Sache zu betreiben und ausstehende Reste von an 18000 Rthl einzufordern.",
+    "lines": [
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Er erwartet Honrichs und will dann nach Sławięcice kommen.",
+    "lines": [
+     22,
+     23,
+     24
+    ],
+    "check": "overstated",
+    "why": "Line 22 says he expects Honrichs tomorrow or the day after. But lines 23-24 tie his coming to Schlawenschitz to the matter being 'im gehörigen und sichern Geleise', not to Honrichs arriving."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 7,
+    "word": "sezzen",
+    "note": "the sentence 'hat das ſo in Geheim durch sezzen um ... betrügen wollen' is garbled"
+   },
+   {
+    "line": 27,
+    "word": "Pohlinische",
+    "note": "the postscript on lines 27-28 is fragmentary and cannot be read"
+   },
+   {
+    "line": 13,
+    "word": "solte",
+    "note": "the syntax 'habe, solte' is doubtful"
+   }
+  ],
+  "read_against": "aa188332bafdf10e"
+ }
 }

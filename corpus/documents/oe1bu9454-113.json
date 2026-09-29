@@ -147,5 +147,91 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld dankt für die Zusicherung, mit Asch und Gad sei wegen der 11000 Rthl alles abgemacht, meldet aber, dass in dieser Sache ein Arrest gegen ihn vorliege: Zahle der Fürst die versprochenen 4000 Rthl nicht, solle er sofort verhaftet werden. Prinz George erkläre sich über nichts und verschleppe seine Sache. Wildeganst lasse ausrichten, Asch und ein Weiterer würden bis Johanni warten, was ihm keine Rettung sei. Er bittet flehentlich, die Sache mit den 4000 Rthl zu bereinigen."
+ "summary_de": "Triebenfeld dankt für die Zusicherung, mit Asch und Gad sei wegen der 11000 Rthl alles abgemacht, meldet aber, dass in dieser Sache ein Arrest gegen ihn vorliege: Zahle der Fürst die versprochenen 4000 Rthl nicht, solle er sofort verhaftet werden. Prinz George erkläre sich über nichts und verschleppe seine Sache. Wildeganst lasse ausrichten, Asch und ein Weiterer würden bis Johanni warten, was ihm keine Rettung sei. Er bittet flehentlich, die Sache mit den 4000 Rthl zu bereinigen.",
+ "reading": {
+  "letter": "113",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Berlin to the Prince in distress. The Prince has assured him that the matter of the 11000 rt with Asch and Gad is settled. But an arrest order in the case still stands against him: he is to be arrested if the Prince does not pay the promised 4000 rt. Prinz George will not commit himself and keeps dragging out Triebenfeld's own affair. Wildeganst sends word that Asch and Gad would wait until Johanni, which Triebenfeld says does not save him. He begs the Prince to settle the matter with the 4000 rthl. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Dank für die Zusicherung, mit Asch und Gad sei wegen der 11000 Rthl alles abgemacht",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Arrest gegen ihn; Verhaftung, falls die versprochenen 4000 Rthl nicht gezahlt werden",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Prinz George erklärt sich über nichts und verschleppt seine Sache",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Wildeganst lässt sagen, Asch und Gad würden bis Johanni warten; keine Rettung",
+    "lines": [
+     24,
+     25,
+     26
+    ],
+    "check": "overstated",
+    "why": "Zeile 24 hat 'der Asch und Geld'. Dass 'Geld' für Gad steht, ist eine Deutung eines verderbten Wortes. Sicher ist nur, dass Asch und jemand Weiteres (Plural 'würden') bis Johanni warten würden."
+   },
+   {
+    "statement": "Bitte, die Sache durch die 4000 Rthl zu bereinigen",
+    "lines": [
+     27,
+     28,
+     29
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "nur",
+    "note": "probably 'mir' (die Gnade gehabt, mir zu versichern)"
+   },
+   {
+    "line": 11,
+    "word": "Orten",
+    "note": "probably 'Ordre' (die Ordre hergegeben)"
+   },
+   {
+    "line": 18,
+    "word": "um",
+    "note": "probably 'und' (Ehre, Freyheit und das Leben)"
+   },
+   {
+    "line": 22,
+    "word": "um",
+    "note": "probably 'und' (antastet und hier arretiren läßt)"
+   },
+   {
+    "line": 29,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 31,
+    "word": "Hochachtung",
+    "note": "the usual closing formula is 'In tiefster Ehrfurcht ersterbe'; the word may be misread"
+   }
+  ],
+  "read_against": "d96c6159e3982593"
+ }
 }

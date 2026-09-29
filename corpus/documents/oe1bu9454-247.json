@@ -325,5 +325,109 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, Polens Schicksal sei günstig entschieden; nun kämen die Reichsangelegenheiten, wozu er die Eingabe des Geh. Rath Goerch für das Gesamthaus Hohenlohe abschriftlich schickt. Humboldt versprach Unterstützung. Der Staats Kanzler erklärte, das Geld solle gegeben werden, die Aufhebung des von Cosmar betriebenen Transacts werde aber Lärm geben. Die Curischen Erben seien mit 112/m Rthl, die übrigen Creditoren mit 12000 Rthl jährlich zu befriedigen. Beiliegende Rechnung: Ertrag 79500 Rthl, Ausgaben 79462 Rthl."
+ "summary_de": "Triebenfeld meldet, Polens Schicksal sei günstig entschieden; nun kämen die Reichsangelegenheiten, wozu er die Eingabe des Geh. Rath Goerch für das Gesamthaus Hohenlohe abschriftlich schickt. Humboldt versprach Unterstützung. Der Staats Kanzler erklärte, das Geld solle gegeben werden, die Aufhebung des von Cosmar betriebenen Transacts werde aber Lärm geben. Die Curischen Erben seien mit 112/m Rthl, die übrigen Creditoren mit 12000 Rthl jährlich zu befriedigen. Beiliegende Rechnung: Ertrag 79500 Rthl, Ausgaben 79462 Rthl.",
+ "reading": {
+  "letter": "247",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Wien (Kongress), 28.10.1814, an den Fürsten. Polen entschieden; Reichsangelegenheiten; Goerchs Eingabe fürs Gesamthaus Hohenlohe; Humboldt verspricht Unterstützung. Staatskanzler zur Eingabe: Geld Kleinigkeit, aber Transact-Aufhebung schwierig. Argumente gegen Cosmar und den Transact der Fürstin Sacken, Curische Erben 112/m rt, andere Creditoren 12000 rt jährlich. Beilage Ertrags-/Ausgabenrechnung 79500 vs 79462 rt. Kein Trąbczyn-Bezug. Datum im Kopf irrig (aus Zeile 73).",
+  "claims": [
+   {
+    "statement": "Polens Schicksal günstig entschieden",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Reichsangelegenheiten kommen, Abschrift der Eingabe Goerchs für das Gesamthaus Hohenlohe",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Humboldt versprach Unterstützung",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Staats Kanzler: Geld soll gegeben werden, Aufhebung des Transacts macht bei der Justiz Lärm",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Transact von Cosmar betrieben",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     35
+    ]
+   },
+   {
+    "statement": "Curische Erben mit 112/m Rthl, andere Creditoren mit 12000 Rthl jährlich",
+    "lines": [
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Rechnung Ertrag 79500 Rthl, Ausgaben 79462 Rthl",
+    "lines": [
+     64,
+     77,
+     78
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Goerch",
+    "note": "Name unsicher"
+   },
+   {
+    "line": 19,
+    "word": "hohenlohn",
+    "note": "wohl Hohenlohe"
+   },
+   {
+    "line": 36,
+    "word": "einem",
+    "note": "wohl 'sobald' oder 'wenn'"
+   },
+   {
+    "line": 47,
+    "word": "Dannemord",
+    "note": "wohl Dännemark"
+   },
+   {
+    "line": 45,
+    "word": "Par Willhelm",
+    "note": "wohl Prinz Wilhelm"
+   },
+   {
+    "line": 59,
+    "word": "Lasso uren",
+    "note": "verderbt"
+   },
+   {
+    "line": 70,
+    "word": "Zutreche",
+    "note": "verderbt"
+   }
+  ],
+  "read_against": "4c22e9e97f18d2d4"
+ }
 }

@@ -328,5 +328,127 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld berichtet aus Wien, der Kongress sei bis 1. November ausgesetzt und Frankreich sträube sich gegen die sächsische und polnische Erwerbung, Hardenberg bleibe aber fest. Die württembergischen Angelegenheiten gingen gut. Seinen Plan zu Sławięcice hat er nach Beratung mit Barbe Hardenberg eingereicht, er wurde gutgeheißen. Koszęcin muss warten, bis die Curische Sache gelungen ist. Zu Kolno, Kamionna und Trąbczyn werde vor der Entscheidung über Polens Schicksal nichts bestimmt. Die Moscinska geborene Prusimska habe große Freunde."
+ "summary_de": "v. Triebenfeld berichtet aus Wien, der Kongress sei bis 1. November ausgesetzt und Frankreich sträube sich gegen die sächsische und polnische Erwerbung, Hardenberg bleibe aber fest. Die württembergischen Angelegenheiten gingen gut. Seinen Plan zu Sławięcice hat er nach Beratung mit Barbe Hardenberg eingereicht, er wurde gutgeheißen. Koszęcin muss warten, bis die Curische Sache gelungen ist. Zu Kolno, Kamionna und Trąbczyn werde vor der Entscheidung über Polens Schicksal nichts bestimmt. Die Moscinska geborene Prusimska habe große Freunde.",
+ "reading": {
+  "letter": "242",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Vienna. He describes the journey, the high prices and the paper money. The Congress is postponed to 1 November and the sovereigns are going to Ofen and Pest. France resists the Saxon and Polish acquisitions, but Hardenberg stands firm. Württemberg affairs go well: the King will draft a constitution. He mentions Metternich, the marriage, Gärtner and Goesch. He discussed the Schlawenschitz affair with Barbe and A. and submitted his plan to Hardenberg. Koschentin must wait until the Curische Sache succeeds. Nothing can be decided on Kulm, Kaemen or Trąbczyn before Poland's fate is settled. The Moscinska née Prusimska has great friends. PS: princes unable to provide 12000 men are to be mediatised.",
+  "claims": [
+   {
+    "statement": "Kongress bis 1. November ausgesetzt",
+    "lines": [
+     12
+    ]
+   },
+   {
+    "statement": "Frankreich sträubt sich gegen sächsische und polnische Erwerbung",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Hardenberg bleibt fest",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Württembergische Angelegenheiten gehen gut",
+    "lines": [
+     22
+    ]
+   },
+   {
+    "statement": "Plan zu Sławięcice nach Beratung mit Barbe Hardenberg eingereicht und gutgeheißen",
+    "lines": [
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Koszęcin wartet, bis die Curische Sache gelungen ist",
+    "lines": [
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Zu Kolno, Kamionna und Trąbczyn vor Entscheidung über Polens Schicksal nichts bestimmt",
+    "lines": [
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Moscinska geb. Prusimska hat große Freunde",
+    "lines": [
+     45
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 43,
+    "word": "Land",
+    "note": "probably 'kan'/'kann'"
+   },
+   {
+    "line": 13,
+    "word": "Post",
+    "note": "probably 'Pest' (Ofen und Pest)"
+   },
+   {
+    "line": 16,
+    "word": "Neuweke",
+    "note": "probably 'Neuigkeit'"
+   },
+   {
+    "line": 18,
+    "word": "um",
+    "note": "'gesund um stark' likely 'und'; token occurs twice on line"
+   },
+   {
+    "line": 7,
+    "word": "am Stande",
+    "note": "perhaps 'an den Rand'"
+   },
+   {
+    "line": 46,
+    "word": "Nesſi",
+    "note": "possibly Nesselrode, doubtful"
+   },
+   {
+    "line": 31,
+    "word": "Goesch",
+    "note": "possibly Göschel"
+   },
+   {
+    "line": 47,
+    "word": "Concire",
+    "note": "probably 'Couriere'"
+   },
+   {
+    "line": 29,
+    "word": "wir",
+    "note": "probably 'wo'"
+   },
+   {
+    "line": 14,
+    "word": "monreniren[?]",
+    "note": "garbled, perhaps 'Manoeuvres'"
+   },
+   {
+    "line": 30,
+    "word": "fandel",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "97d88ffd8b052dc4"
+ }
 }

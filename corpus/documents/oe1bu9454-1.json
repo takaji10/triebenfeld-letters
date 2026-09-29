@@ -167,5 +167,118 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Fürst drängt Triebenfeld, bei Fürst Hardenberg den Vorschuss von 112000 Rthl und die sofortige Administration der Majoratsgüter zu erwirken; damit ende Cosmars Macht. Ein Mandatarius habe gegen 12000 Rthl und eine sichere Anweisung auf hunderttausend Rthl die Auslieferung des Schuldinstruments zugesagt. Der günstige Bericht des Oberlandesgerichts Brzeg sei eingesandt. Zudem soll Triebenfeld die Sache Trąbczyn und Kamionna betreiben: Die vom König verliehenen Güter hätten die Polen eigenmächtig weggenommen, der Kaiser müsse die Rückgabe befehlen."
+ "summary_de": "Der Fürst drängt Triebenfeld, bei Fürst Hardenberg den Vorschuss von 112000 Rthl und die sofortige Administration der Majoratsgüter zu erwirken; damit ende Cosmars Macht. Ein Mandatarius habe gegen 12000 Rthl und eine sichere Anweisung auf hunderttausend Rthl die Auslieferung des Schuldinstruments zugesagt. Der günstige Bericht des Oberlandesgerichts Brzeg sei eingesandt. Zudem soll Triebenfeld die Sache Trąbczyn und Kamionna betreiben: Die vom König verliehenen Güter hätten die Polen eigenmächtig weggenommen, der Kaiser müsse die Rückgabe befehlen.",
+ "reading": {
+  "letter": "1",
+  "legibility": "partly garbled",
+  "notes": "The Prince writes to Triebenfeld (in Vienna, at the Congress). He has heard from a friend that Austria, Russia and Prussia have agreed on Saxony and Poland, and he has had no news from Triebenfeld since 13 January. He urges Triebenfeld to get Hardenberg to grant the 112000 Rthl advance and put the Majorat estates under administration, which would end Cosmar's power. A mandatary has promised to hand over the debt instrument for 12000 Rthl in cash and a secure assignment on 100000. The favourable report of the Brieg Oberlandesgericht has been sent in. Triebenfeld should also pursue the Trąbczyn and Kamionna matter: the King granted these estates, the Poles took them away, and the Kaiser should order their return. Several words are garbled.",
+  "claims": [
+   {
+    "statement": "Drängt, bei Hardenberg den Vorschuss von 112000 Rthl und die Administration der Majoratsgüter zu erwirken",
+    "lines": [
+     13,
+     14,
+     19,
+     20,
+     21,
+     34
+    ]
+   },
+   {
+    "statement": "Damit ende Cosmars Macht",
+    "lines": [
+     22
+    ]
+   },
+   {
+    "statement": "Mandatarius sagte gegen 12000 Rthl und Anweisung auf hunderttausend Rthl Auslieferung des Schuldinstruments zu",
+    "lines": [
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Günstiger Bericht des Oberlandesgerichts Brzeg eingesandt",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Triebenfeld soll Sache Trąbczyn und Kamionna betreiben; vom König verliehene Güter von den Polen eigenmächtig weggenommen; Kaiser müsse Rückgabe befehlen",
+    "lines": [
+     37,
+     38,
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Vnß land",
+    "note": "probably Rußland"
+   },
+   {
+    "line": 6,
+    "word": "Begrif jezt schreib",
+    "note": "garbled, perhaps 'Congress jezt bald'"
+   },
+   {
+    "line": 22,
+    "word": "Kurz",
+    "note": "unclear; perhaps a name or 'Cur.' (Curische Erben)"
+   },
+   {
+    "line": 23,
+    "word": "Baur",
+    "note": "probably 'baar'"
+   },
+   {
+    "line": 25,
+    "word": "einzinsicht",
+    "note": "garbled"
+   },
+   {
+    "line": 32,
+    "word": "Die",
+    "note": "probably 'Dies'"
+   },
+   {
+    "line": 34,
+    "word": "gemühet",
+    "note": "probably 'gewähret'"
+   },
+   {
+    "line": 35,
+    "word": "bey",
+    "note": "probably 'bin'"
+   },
+   {
+    "line": 36,
+    "word": "Kleinen",
+    "note": "probably 'Krallen' (cf. previous letter)"
+   },
+   {
+    "line": 39,
+    "word": "beseſchen",
+    "note": "probably 'besessen'"
+   },
+   {
+    "line": 40,
+    "word": "Tilſetter",
+    "note": "probably 'Tilsiter'"
+   },
+   {
+    "line": 42,
+    "word": "rembocersirt",
+    "note": "probably 'remboursirt'"
+   }
+  ],
+  "read_against": "65e9ff03750d1ef3"
+ }
 }

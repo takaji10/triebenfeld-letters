@@ -122,5 +122,71 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn berichtet, dass der Fürst am Fuß fast geheilt und sonst wohlauf sei. Der Fuß sei nur noch wenig geschwollen und schmerze nicht. Der Andreas Orden habe Freude bereitet, mehr noch das artige Benehmen des Kaysers, von dem der Fürst bezaubert sei. Auch in Wrocław soll der Kayser schmeichelhaft vom Fürsten gesprochen haben. Das Regiment Hohenlohe sei durch Erfurt marschiert, der Fürst ritt ihm entgegen. Der Herzog von Weimar werde erwartet."
+ "summary_de": "Hahn berichtet, dass der Fürst am Fuß fast geheilt und sonst wohlauf sei. Der Fuß sei nur noch wenig geschwollen und schmerze nicht. Der Andreas Orden habe Freude bereitet, mehr noch das artige Benehmen des Kaysers, von dem der Fürst bezaubert sei. Auch in Wrocław soll der Kayser schmeichelhaft vom Fürsten gesprochen haben. Das Regiment Hohenlohe sei durch Erfurt marschiert, der Fürst ritt ihm entgegen. Der Herzog von Weimar werde erwartet.",
+ "reading": {
+  "letter": "171",
+  "legibility": "sound",
+  "notes": "A. Hahn writes from Erfurt to Triebenfeld with news of the Prince (Sr Durchlaucht). The Prince's foot is nearly healed: only slightly swollen and no longer painful. He is pleased with the Andreas Orden and even more with the courteous manner of the Emperor (Kayser), who is also said to have spoken very flatteringly of him in Breslau. The Hohenlohe regiment marched through today and the Prince rode out to meet it. The Duke of Weimar is expected tomorrow. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Hahn berichtet, dass der Fürst am Fuß fast geheilt und sonst wohlauf sei; der Fuß nur wenig geschwollen, ohne Schmerzen.",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Der Andreas Orden habe Freude bereitet, mehr noch das artige Benehmen des Kaysers, von dem der Fürst bezaubert sei.",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Auch in Wrocław soll der Kayser schmeichelhaft vom Fürsten gesprochen haben.",
+    "lines": [
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Das Regiment Hohenlohe marschierte durch Erfurt, der Fürst ritt ihm entgegen.",
+    "lines": [
+     21,
+     22,
+     23,
+     30
+    ]
+   },
+   {
+    "statement": "Der Herzog von Weimar werde erwartet.",
+    "lines": [
+     23,
+     24
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Bibel",
+    "note": "Probably 'Übel' (ailment of the foot); not proven"
+   },
+   {
+    "line": 13,
+    "word": "doch",
+    "note": "Possibly 'durch' or 'noch'; sense unclear"
+   }
+  ],
+  "read_against": "ecc30c457ea64367"
+ }
 }

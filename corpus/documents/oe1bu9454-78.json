@@ -241,5 +241,132 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Michaelis berichtet vom Besuch beim Geheimen Finanzrat Schulze. Dieser kannte nur das Schreiben des Fürsten an Minister v. Voss und äußerte sich weder dafür noch dagegen. Michaelis bat ihn, bei Hindernissen nicht ohne Anhörung zu entscheiden. Auf Schulzes Rat erbittet er eine Vollmacht zur Hinterlegung in der Registratur und schlägt ihren Wortlaut vor: Betreibung des vorgeschlagenen Tausches der verliehenen Güter gegen eine Herrschaft beim Südpreußischen Departement. Laut Triebenfeld gehen die Verfügungen des Kabinetts erst jetzt an Voss."
+ "summary_de": "Michaelis berichtet vom Besuch beim Geheimen Finanzrat Schulze. Dieser kannte nur das Schreiben des Fürsten an Minister v. Voss und äußerte sich weder dafür noch dagegen. Michaelis bat ihn, bei Hindernissen nicht ohne Anhörung zu entscheiden. Auf Schulzes Rat erbittet er eine Vollmacht zur Hinterlegung in der Registratur und schlägt ihren Wortlaut vor: Betreibung des vorgeschlagenen Tausches der verliehenen Güter gegen eine Herrschaft beim Südpreußischen Departement. Laut Triebenfeld gehen die Verfügungen des Kabinetts erst jetzt an Voss.",
+ "reading": {
+  "letter": "78",
+  "legibility": "partly garbled",
+  "notes": "Michaelis writes to the Prince from Berlin about the Prince's proposal, which has gone to Minister v. Voss. Michaelis called on Geh. Finanzrat Schulze, who knew nothing beyond having read the Prince's letter to Voss and took no position either way. Schulze suggested that Michaelis deposit a power of attorney in the Registratur. Triebenfeld told Michaelis that the cabinet orders are going to Voss now, so Schulze will have the royal order by Wednesday or Thursday. Michaelis proposes wording for the power of attorney (exchange of the granted estates for a Herrschaft at the Südpreußen Departement), asks for information and a receipt, and praises Triebenfeld's zeal. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Besuch bei Geh. Finanzrat Schulze, der nur das Schreiben an Voss kannte",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Schulze weder dafür noch dagegen",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Bitte, bei Hindernissen nicht ohne Anhörung zu entscheiden",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Vollmacht zur Hinterlegung in der Registratur",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Vorgeschlagener Wortlaut der Vollmacht: Tausch der verliehenen Güter gegen eine Herrschaft beim Südpreußischen Departement",
+    "lines": [
+     38,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   },
+   {
+    "statement": "Triebenfeld: Verfügungen aus dem Kabinett gehen erst jetzt an Voss",
+    "lines": [
+     22,
+     23,
+     26,
+     27,
+     28
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 19,
+    "word": "Registratus",
+    "note": "probably Registratur"
+   },
+   {
+    "line": 20,
+    "word": "wan",
+    "note": "probably 'was an'"
+   },
+   {
+    "line": 25,
+    "word": "es ... vergebe",
+    "note": "probably 'er ... vorgebe'"
+   },
+   {
+    "line": 28,
+    "word": "wegen",
+    "note": "probably 'morgen'"
+   },
+   {
+    "line": 29,
+    "word": "Schultz",
+    "note": "refers to Schulze (line 24); may be the writer's own variant"
+   },
+   {
+    "line": 31,
+    "word": "Wohl.",
+    "note": "probably Durchl.; also 'De' probably 'Da'"
+   },
+   {
+    "line": 35,
+    "word": "Instandsbungung bierzubeigen",
+    "note": "garbled, probably 'Instandbringung beizutragen'"
+   },
+   {
+    "line": 40,
+    "word": "kaysl.",
+    "note": "probably königl."
+   },
+   {
+    "line": 43,
+    "word": "hochfürstl. Kr. Magistät",
+    "note": "probably Königl. Majestät"
+   },
+   {
+    "line": 49,
+    "word": "Grolltowskischen",
+    "note": "doubtful name"
+   },
+   {
+    "line": 50,
+    "word": "Schneides",
+    "note": "doubtful"
+   },
+   {
+    "line": 51,
+    "word": "Wohl",
+    "note": "probably Durchl."
+   }
+  ],
+  "read_against": "81669fafcef9a614"
+ }
 }

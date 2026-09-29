@@ -284,5 +284,100 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet vom Wiener Kongress: Die polnische Grenze über Słupca bei Pyzdry, Warthe und Prosna sei angenommen, der König von Sachsen behalte Dresden, Leipzig und Bautzen. Er dränge weiter den Fürsten Kanzler, die Akten lägen bei Stägemann. Der Vorschuss von 112/m Rthl gelte als sicher. August solle Cosmars Vollmacht aufheben und dies dem Justizminister und dem Oberlandesgericht in Brzeg schreiben. Zu den polnischen Gütern erwartet er Bescheid, ob er kommen soll."
+ "summary_de": "Triebenfeld berichtet vom Wiener Kongress: Die polnische Grenze über Słupca bei Pyzdry, Warthe und Prosna sei angenommen, der König von Sachsen behalte Dresden, Leipzig und Bautzen. Er dränge weiter den Fürsten Kanzler, die Akten lägen bei Stägemann. Der Vorschuss von 112/m Rthl gelte als sicher. August solle Cosmars Vollmacht aufheben und dies dem Justizminister und dem Oberlandesgericht in Brzeg schreiben. Zu den polnischen Gütern erwartet er Bescheid, ob er kommen soll.",
+ "reading": {
+  "letter": "271",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt aus Wien an Fürst Friedrich Ludwig mit Neuigkeiten vom Kongress: Die polnische Grenze läuft über Słupca und Peisern, Warthe und Prosna; Sachsen behält Dresden, Leipzig und Bautzen; dazu Streitfragen um England, Ostfriesland und Dänemark sowie um Land für den Vizekönig von Italien. Er drängt weiter den Fürsten Kanzler, die Akten liegen bei Stägemann. Der Vorschuss von 112/m rt gilt als sicher. August soll die Vollmacht für Cosmar aufheben und das dem Justizminister und dem OLG Brieg mitteilen. Zu den polnischen Gütern erwartet er Bescheid, ob er kommen soll. Außerdem: Barbe, Pourtalès und ein Brief des Königs, der auf der Feldpost liegt.",
+  "claims": [
+   {
+    "statement": "Polnische Grenze über Słupca bei Pyzdry, Warthe und Prosna angenommen",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "König von Sachsen behält Dresden, Leipzig und Bautzen",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er drängt den Fürsten Kanzler, die Akten liegen bei Stägemann",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Vorschuss von 112/m Rthl gilt als sicher",
+    "lines": [
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "August soll Cosmars Vollmacht aufheben und an Justizminister und OLG Brieg schreiben",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Zu den polnischen Gütern erwartet er Bescheid, ob er kommen soll",
+    "lines": [
+     34,
+     35
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Concir",
+    "note": "wohl 'Courier'"
+   },
+   {
+    "line": 9,
+    "word": "Läute",
+    "note": "verlesen, vielleicht 'dürfte'"
+   },
+   {
+    "line": 10,
+    "word": "Waßer hände",
+    "note": "verlesen, Sinn unklar"
+   },
+   {
+    "line": 16,
+    "word": "gemahlen",
+    "note": "wohl 'gemalt'"
+   },
+   {
+    "line": 28,
+    "word": "f",
+    "note": "wohl F[ürst] August"
+   },
+   {
+    "line": 32,
+    "word": "&",
+    "note": "wohl 'O' (Ober Landes Gericht)"
+   },
+   {
+    "line": 34,
+    "word": "von",
+    "note": "wohl 'hin' oder 'dorthin'"
+   },
+   {
+    "line": 4,
+    "word": "Thorenſchen",
+    "note": "wohl 'Thornschen'"
+   }
+  ],
+  "read_against": "cb49382336145e14"
+ }
 }

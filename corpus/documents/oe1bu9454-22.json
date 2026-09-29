@@ -391,5 +391,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld klagt über Prozesse, die er wegen seiner Bürgschaft für den Fürsten führt: wegen der Invaliden Casse, mit Oppenheimer und mit der Schliefen. In Polen klagt er gegen Meierowitz, der der Schliefen 6000 Rthl Kaufgeld von Witów und dem Fürsten 2500 Rthl Erbzinsen schuldet. Stenger soll die Sachen betreiben; Hawich nennt er den größten Spitzbuben, ein Badenski ziehe alle Gelder ein. Lombardini zahlte die 150 Rthl nicht; er wünscht sich 500 Rthl Münze für seine Kinder."
+ "summary_de": "v. Triebenfeld klagt über Prozesse, die er wegen seiner Bürgschaft für den Fürsten führt: wegen der Invaliden Casse, mit Oppenheimer und mit der Schliefen. In Polen klagt er gegen Meierowitz, der der Schliefen 6000 Rthl Kaufgeld von Witów und dem Fürsten 2500 Rthl Erbzinsen schuldet. Stenger soll die Sachen betreiben; Hawich nennt er den größten Spitzbuben, ein Badenski ziehe alle Gelder ein. Lombardini zahlte die 150 Rthl nicht; er wünscht sich 500 Rthl Münze für seine Kinder.",
+ "reading": {
+  "letter": "22",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Konotop. He is ill with gout. He complains of four lawsuits he has to carry because he stood surety for the Prince: the Invaliden Casse, Oppenheimer, and Obrist Schliefen (Breslau). In Poland he is suing Meierowitz, who owes Schliefen 6000 rt purchase money for Wittow and owes the Prince 500 rt a year in Erbzins, 2500 rt in arrears. He has hired Stenger. He is expecting Honrichs and Hawich, and calls Hawich the greatest rogue; a Badenski appointed by the government collects all the money. Lombardini did not pay the 150 rt for his son and daughters. He asks for 500 rt Münze for his children and would repay 1000 at Johanni. He will present his account once he is well.",
+  "claims": [
+   {
+    "statement": "Prozesse wegen der Bürgschaft für den Fürsten: Invaliden Casse, Oppenheimer, Schliefen",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "In Polen klagt er gegen Meierowitz",
+    "lines": [
+     25,
+     26,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Meierowitz schuldet der Schliefen 6000 Rthl Kaufgeld von Witów und dem Fürsten 2500 Rthl Erbzinsen",
+    "lines": [
+     27,
+     29,
+     30,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Stenger soll die Sachen betreiben",
+    "lines": [
+     47,
+     48,
+     64,
+     65
+    ]
+   },
+   {
+    "statement": "Hawich der größte Spitzbube; Badenski zieht alles ein",
+    "lines": [
+     66,
+     67,
+     68
+    ]
+   },
+   {
+    "statement": "Lombardini zahlte die 150 Rthl nicht",
+    "lines": [
+     71,
+     83,
+     84
+    ]
+   },
+   {
+    "statement": "erbittet 500 Rthl Münze für seine Kinder",
+    "lines": [
+     86,
+     87,
+     88,
+     95
+    ],
+    "check": "overstated",
+    "why": "Der Brief äußert nur einen Wunsch: 'könte ich in der Eil 500 rt. Münze auftreiben' und 'O hatte ich nur bald 500 rt für meine arme Kinder'. Er bittet nicht ausdrücklich darum."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "Ewie-",
+    "note": "probably Ewr (broken across the line)"
+   },
+   {
+    "line": 23,
+    "word": "Empich",
+    "note": "unclear name of the lawyer in the Oppenheimer suit"
+   },
+   {
+    "line": 29,
+    "word": "das ein",
+    "note": "possibly 'allein'"
+   },
+   {
+    "line": 31,
+    "word": "H.",
+    "note": "probably S. (Schliefen)"
+   },
+   {
+    "line": 38,
+    "word": "Sümerlos",
+    "note": "probably 'sinnlos'"
+   },
+   {
+    "line": 40,
+    "word": "Nahme laßen",
+    "note": "probably 'namenlosen'"
+   },
+   {
+    "line": 44,
+    "word": "stränkt",
+    "note": "probably 'sträubt'"
+   },
+   {
+    "line": 66,
+    "word": "rt",
+    "note": "probably 'ist'"
+   },
+   {
+    "line": 72,
+    "word": "requirte",
+    "note": "probably 'riskirte'"
+   },
+   {
+    "line": 68,
+    "word": "Badenski",
+    "note": "name uncertain, appears only here"
+   }
+  ],
+  "read_against": "8af111b579433d1f"
+ }
 }

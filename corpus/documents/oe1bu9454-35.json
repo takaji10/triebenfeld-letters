@@ -375,5 +375,120 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld protestiert gegen die Verfügungen, die der Fürst durch Hoffrath Meyer an Geh. Rath Amelang erließ: Beträge sollen auf die für ungültig erklärte Bankanweisung über 6000 Rthl angewiesen werden. Wegen 5000 Rthl Zinsen sei er als Bevollmächtigter arretiert worden; mit Hilfe des Ministers v Zastrow wurden 5000 Rthl von der Laar geborgt, zahlbar am 14. May. Er bittet dringend um Rat zur Zahlung der fehlenden 3125 Rthl und um Befehl an Amelang, ihm die Bankanweisung zurückzugeben."
+ "summary_de": "Triebenfeld protestiert gegen die Verfügungen, die der Fürst durch Hoffrath Meyer an Geh. Rath Amelang erließ: Beträge sollen auf die für ungültig erklärte Bankanweisung über 6000 Rthl angewiesen werden. Wegen 5000 Rthl Zinsen sei er als Bevollmächtigter arretiert worden; mit Hilfe des Ministers v Zastrow wurden 5000 Rthl von der Laar geborgt, zahlbar am 14. May. Er bittet dringend um Rat zur Zahlung der fehlenden 3125 Rthl und um Befehl an Amelang, ihm die Bankanweisung zurückzugeben.",
+ "reading": {
+  "letter": "35",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, ill in Berlin, protests to the Prince about orders sent via Hoffrath Meyer to Geh. Rath Amelang. These assign money on a bank order for 6000 rt that he had declared void, \"out of pity\" for him. He recounts being arrested and guarded by 2 gendarmes over 5000 rt interest owed by the Prince. With help from Minister v Zastrow, money was borrowed from von der Laar, due 14 May. 3125 rt is still missing. He asks for help paying it and for an order to Amelang to return the bank order, which Eysenhardt deposited. Sums for Meyer's allowance are inconsistent (2600/1600/2000). Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Protest gegen die Verfügungen des Fürsten durch Hoffrath Meyer an Geh. Rath Amelang",
+    "lines": [
+     4,
+     5,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Beträge auf die für ungültig erklärte Bankanweisung angewiesen; Anweisung über 6000 Rthl",
+    "lines": [
+     9,
+     10,
+     22,
+     23,
+     52,
+     71
+    ]
+   },
+   {
+    "statement": "wegen 5000 Rthl Zinsen als Bevollmächtigter arretiert, 2 Gensdarmen",
+    "lines": [
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Minister v Zastrow half, 5000 Rthl von der Laar geborgt, zahlbar 14. May",
+    "lines": [
+     18,
+     40,
+     43,
+     44,
+     46,
+     85,
+     86
+    ]
+   },
+   {
+    "statement": "bittet um Rat zur Zahlung der fehlenden 3125 Rthl",
+    "lines": [
+     59,
+     67,
+     68,
+     79
+    ]
+   },
+   {
+    "statement": "bittet um Befehl an Amelang, die Bankanweisung zurückzugeben",
+    "lines": [
+     70,
+     71,
+     72,
+     79,
+     80
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "zumres",
+    "note": "probably 'Inneres'"
+   },
+   {
+    "line": 8,
+    "word": "Bau",
+    "note": "probably 'Baron' (von Stein)"
+   },
+   {
+    "line": 9,
+    "word": "acklärk¬",
+    "note": "probably 'erklärte'"
+   },
+   {
+    "line": 16,
+    "word": "meer",
+    "note": "probably 'meiner'"
+   },
+   {
+    "line": 26,
+    "word": "erreichen",
+    "note": "garbled word, sense unclear"
+   },
+   {
+    "line": 42,
+    "word": "v. J.",
+    "note": "probably 'v. Z.' (Zastrow, lines 18, 40)"
+   },
+   {
+    "line": 43,
+    "word": "Baugmer",
+    "note": "probably 'Banquier'"
+   },
+   {
+    "line": 56,
+    "word": "man",
+    "note": "probably 'am' (am Ende)"
+   },
+   {
+    "line": 76,
+    "word": "erinnert",
+    "note": "probably 'zerrüttet'"
+   }
+  ],
+  "read_against": "1b0da7311da9d406"
+ }
 }

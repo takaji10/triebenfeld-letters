@@ -278,5 +278,136 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber bittet einen Hoffrath in Wrocław dringend, beim Fürsten 1800 Rthl für fällige Zinsen zu erwirken. Durch die v. d. Lahrsche Geschichte sei er bloßgestellt, und seine Güter seien sequestriert. Mit 1800 Rthl könne Świniary gerettet werden. Er will dann einen Teil seiner Güter dismembrieren, den Kindern die Zinsen zum Unterhalt anweisen und zum König gehen. Ohne Hilfe gehe er nach Königsberg. Mit Hilfe könne er am 12. Sept. abreisen und am 16. in Sławięcice sein."
+ "summary_de": "Der Schreiber bittet einen Hoffrath in Wrocław dringend, beim Fürsten 1800 Rthl für fällige Zinsen zu erwirken. Durch die v. d. Lahrsche Geschichte sei er bloßgestellt, und seine Güter seien sequestriert. Mit 1800 Rthl könne Świniary gerettet werden. Er will dann einen Teil seiner Güter dismembrieren, den Kindern die Zinsen zum Unterhalt anweisen und zum König gehen. Ohne Hilfe gehe er nach Königsberg. Mit Hilfe könne er am 12. Sept. abreisen und am 16. in Sławięcice sein.",
+ "reading": {
+  "letter": "61",
+  "legibility": "partly garbled",
+  "notes": "A distraught letter signed v Triebenfeld (the sender is recorded as not identified) to a Hoffrath who is not named and is now in Breslau. The writer needs 1800 rt of interest to be paid. The v. d. Lahr affair has disgraced him, and his estates, including Schweinern, have been sequestered. He begs the recipient to get the Fürst to pay. His plan: sell off part of his estates, settle the interest on his children and go to the King. If no help comes, he will go to Königsberg. With help he could leave on 12 Sept and be in Schlawenschitz by the 16th. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bittet einen Hoffrath, beim Fürsten 1800 Rthl für Zinsen zu erwirken",
+    "lines": [
+     3,
+     9,
+     13,
+     14,
+     23,
+     30,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Empfänger in Wrocław",
+    "lines": [
+     5
+    ]
+   },
+   {
+    "statement": "Durch die v. d. Lahrsche Geschichte bloßgestellt",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Güter sequestriert",
+    "lines": [
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Mit 1800 Rthl kann Świniary gerettet werden",
+    "lines": [
+     37
+    ]
+   },
+   {
+    "statement": "Plan: Teil der Güter dismembrieren, Kindern Zinsen anweisen, zum König gehen",
+    "lines": [
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Ohne Hilfe nach Königsberg",
+    "lines": [
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Abreise 12. Sept., am 16. in Sławięcice",
+    "lines": [
+     45,
+     46
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Wetter",
+    "note": "probably 'Retter'"
+   },
+   {
+    "line": 11,
+    "word": "nicht",
+    "note": "probably 'im' (auf dem Spiel)"
+   },
+   {
+    "line": 17,
+    "word": "Bruß",
+    "note": "probably 'Brief' (compare 'Brust' used for Brief in neighbouring letters)"
+   },
+   {
+    "line": 17,
+    "word": "Er",
+    "note": "probably 'Sr.' or 'Ihro'"
+   },
+   {
+    "line": 35,
+    "word": "ewigen",
+    "note": "probably 'wegen'"
+   },
+   {
+    "line": 36,
+    "word": "geschwemmen",
+    "note": "garbled"
+   },
+   {
+    "line": 38,
+    "word": "Regenreiche",
+    "note": "probably 'segensreiche'"
+   },
+   {
+    "line": 41,
+    "word": "sie",
+    "note": "probably 'Sr.'"
+   },
+   {
+    "line": 42,
+    "word": "Lebeseeligkeit",
+    "note": "garbled"
+   },
+   {
+    "line": 47,
+    "word": "verlaste",
+    "note": "probably 'verlasse'"
+   },
+   {
+    "line": 48,
+    "word": "danns baren",
+    "note": "probably 'dankbaren'"
+   },
+   {
+    "line": 24,
+    "word": "Wahl oder Wohn",
+    "note": "probably 'Wohl oder Wehe'"
+   }
+  ],
+  "read_against": "97d89f3b48c7f2cc"
+ }
 }

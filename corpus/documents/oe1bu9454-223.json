@@ -599,5 +599,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Fürst berichtet über ein Tauschangebot des Generals v Schimmelpfennig, der die Zagorower Güter gegen seine Güter Szelce und Maderzewo bei Mysłowice eintauschen will (Ertrag 8000 Rthl, nach anderen 6000 Rthl). Lieutenant Sommer soll die Besichtigung in Zagórów vorbereiten. Einen Abschluss mit Weigel bezweifelt er. Er braucht bis Weihnachten dringend Bargeld, fragt nach dem Trąbczyner Prozess nicht mehr und erlaubt, Trąbczyn vorteilhaft in einen Handel einzubeziehen. Einem Werber aus Hohenlohe-Kirchberg gab er seine Zustimmung zur Heirat mit Adele."
+ "summary_de": "Der Fürst berichtet über ein Tauschangebot des Generals v Schimmelpfennig, der die Zagorower Güter gegen seine Güter Szelce und Maderzewo bei Mysłowice eintauschen will (Ertrag 8000 Rthl, nach anderen 6000 Rthl). Lieutenant Sommer soll die Besichtigung in Zagórów vorbereiten. Einen Abschluss mit Weigel bezweifelt er. Er braucht bis Weihnachten dringend Bargeld, fragt nach dem Trąbczyner Prozess nicht mehr und erlaubt, Trąbczyn vorteilhaft in einen Handel einzubeziehen. Einem Werber aus Hohenlohe-Kirchberg gab er seine Zustimmung zur Heirat mit Adele.",
+ "reading": {
+  "letter": "223",
+  "legibility": "partly garbled",
+  "notes": "Prince Hohenlohe (dictated, eyes inflamed) answers Triebenfeld's letter of 20 Nov. Doubts deal with Weigel and Stössel will work, declines adding Ruszynowitz/Blizanow, returns Triebenfeld's and Graf Wartensleben's plans. Desperate for cash by Christmas; Polish lawsuits lost or abandoned, won't ask about Trąbczyn. Main: General v Schimmelpfennig wants Zagorower Güter in exchange for Szelce and Maderzewo near Mysłowice; figures on yield, price. Lieutenant Sommer to prepare the inspection; Triebenfeld asked to use and pay him. Gollawia estate. Suitor from Hohenlohe-Kirchberg for Adele. Permission to include Trąbczyn in a deal.",
+  "claims": [
+   {
+    "statement": "Tauschangebot des Generals v Schimmelpfennig: Zagorower Güter gegen Szelce und Maderzewo bei Mysłowice",
+    "lines": [
+     105,
+     106,
+     108,
+     109,
+     110,
+     111,
+     112,
+     113
+    ]
+   },
+   {
+    "statement": "Ertrag 8000 Rthl nach ihm, nach anderen 6000 Rthl",
+    "lines": [
+     113,
+     114,
+     115
+    ]
+   },
+   {
+    "statement": "Sommer soll die Besichtigung in Zagórów vorbereiten",
+    "lines": [
+     178,
+     179,
+     180,
+     181,
+     182,
+     186,
+     188,
+     189,
+     190,
+     191
+    ]
+   },
+   {
+    "statement": "Zweifel am Abschluss mit Weigel",
+    "lines": [
+     51,
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "dringend Bargeld bis Weihnachten",
+    "lines": [
+     84,
+     85
+    ]
+   },
+   {
+    "statement": "fragt nach dem Trąbczyner Prozess nicht mehr",
+    "lines": [
+     93,
+     94
+    ]
+   },
+   {
+    "statement": "erlaubt, Trąbczyn vorteilhaft in einen Handel einzubeziehen",
+    "lines": [
+     239,
+     240,
+     241
+    ]
+   },
+   {
+    "statement": "Zustimmung zur Heirat Adeles mit einem Werber aus Hohenlohe-Kirchberg",
+    "lines": [
+     224,
+     225,
+     226,
+     229
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 224,
+    "word": "Erbfleung",
+    "note": "probably Erbprinz"
+   },
+   {
+    "line": 111,
+    "word": "schuldensterin",
+    "note": "probably schuldenfreien"
+   },
+   {
+    "line": 202,
+    "word": "van den Lahrschen",
+    "note": "probably von der Lahrschen (von der Lahr)"
+   },
+   {
+    "line": 138,
+    "word": "Deſchenten",
+    "note": "garbled; perhaps Der ehemalige/Ihr gewesener"
+   },
+   {
+    "line": 121,
+    "word": "Oppreu[?]stischen",
+    "note": "perhaps Ostpreußischen"
+   },
+   {
+    "line": 54,
+    "word": "Ruszyno¬wig",
+    "note": "probably Ruschinowitz (Rusinowice)"
+   }
+  ],
+  "read_against": "16ce82585ef289f7"
+ }
 }

@@ -281,5 +281,95 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Zerboni hat Trzciński aufgefordert, ihm aufgrund einer angeblichen Cession der fürstlichen Forderung von 10000 und 5000 Rthl zu zahlen. v. Triebenfeld bestreitet dies vorläufig und bittet dringend um Auskunft; er fürchtet, der Fürst habe Zerboni etwa ein Blanquett gegeben. Trzciński will auf Zerbonis Anweisung schon an König für das Geschäft in Biskupice gezahlt haben, was v. Triebenfeld für Betrug hält. Präfekt v Smiedecki in Kalisz sei gewonnen und werde in der Entschädigungssache wegen Amt Sokolnik günstig berichten."
+ "summary_de": "Zerboni hat Trzciński aufgefordert, ihm aufgrund einer angeblichen Cession der fürstlichen Forderung von 10000 und 5000 Rthl zu zahlen. v. Triebenfeld bestreitet dies vorläufig und bittet dringend um Auskunft; er fürchtet, der Fürst habe Zerboni etwa ein Blanquett gegeben. Trzciński will auf Zerbonis Anweisung schon an König für das Geschäft in Biskupice gezahlt haben, was v. Triebenfeld für Betrug hält. Präfekt v Smiedecki in Kalisz sei gewonnen und werde in der Entschädigungssache wegen Amt Sokolnik günstig berichten.",
+ "reading": {
+  "letter": "5",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Blizanow. Zerboni has asked Trzciński to pay him, citing an alleged cession of the Prince's claim of 10000 r. and 5000 r. Triebenfeld disputes this and asks for quick information. Trzciński also says he paid 1000 to König for the Bischdorf business on Zerboni's instruction; Triebenfeld calls it a swindle and fears the Prince may have given Zerboni a blank signed sheet. Prefect v Smiedecki in Kalisz has been won over and will report favourably in the compensation matter concerning Sokolnik. Triebenfeld awaits answers on Betsche and other matters. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Zerboni fordert von Trzciński Zahlung aufgrund einer angeblichen Cession der Forderung von 10000 und 5000 Rthl",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "v. Triebenfeld bestreitet dies vorläufig und bittet um schnellste Auskunft",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Befürchtung, der Fürst habe Zerboni ein Blanquett gegeben",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Trzciński gibt an, auf Zerbonis Anweisung an König für das Bischdorffer Geschäft gezahlt zu haben; v. Triebenfeld hält es für Betrug",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Präfekt v Smiedecki in Kalisz gewonnen, wird in der Entschädigungssache wegen Sokolnik vorteilhaft berichten",
+    "lines": [
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Erwartet Antworten zur Betscher Sache",
+    "lines": [
+     22,
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "langen",
+    "note": "probably a misreading of a title such as 'O P' (Ober Präsident) before Zerboni"
+   },
+   {
+    "line": 12,
+    "word": "vnd",
+    "note": "probably a currency abbreviation (rt?) after 'Ein tausend'"
+   },
+   {
+    "line": 9,
+    "word": "Quare",
+    "note": "probably 'Quere' (in die Quere kommen)"
+   },
+   {
+    "line": 14,
+    "word": "Poellerey",
+    "note": "doubtful word; the meaning is unclear"
+   },
+   {
+    "line": 16,
+    "word": "Dieherey",
+    "note": "possibly 'Dieberey'"
+   },
+   {
+    "line": 19,
+    "word": "Prefeckt",
+    "note": "edition form Prefect; possibly the writer's own spelling"
+   }
+  ],
+  "read_against": "f19ba12a33407189"
+ }
 }

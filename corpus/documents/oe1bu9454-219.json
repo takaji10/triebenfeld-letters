@@ -176,5 +176,86 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet dringend um Entscheidung über den eingesandten Plan, da ein Medicinal Rath aus Kalisz bereits mit dem alten Graf Wartensleben verhandelt. Der Vorteil sei klar, wenn Weigel und Stössel dadurch befriedigt würden. Bei Zustimmung will er nach Nysa reisen und sein Blizanow mit dem älteren Sohn Wartenslebens tauschen, um die Gläubiger zu befriedigen. Er klagt über steigende Abgaben und wachsende Not und fürchtet Mord und Aufruhr. Bei Präsident Dierschlag sei nachgefragt worden, ob er Güter gekauft habe."
+ "summary_de": "Triebenfeld bittet dringend um Entscheidung über den eingesandten Plan, da ein Medicinal Rath aus Kalisz bereits mit dem alten Graf Wartensleben verhandelt. Der Vorteil sei klar, wenn Weigel und Stössel dadurch befriedigt würden. Bei Zustimmung will er nach Nysa reisen und sein Blizanow mit dem älteren Sohn Wartenslebens tauschen, um die Gläubiger zu befriedigen. Er klagt über steigende Abgaben und wachsende Not und fürchtet Mord und Aufruhr. Bei Präsident Dierschlag sei nachgefragt worden, ob er Güter gekauft habe.",
+ "reading": {
+  "letter": "219",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Blizanow to the Prince, following up letter 218, in which he sent a plan to exchange estates with Graf Wartensleben (Schurgast). He urges a quick decision because a Medicinal Rath from Kalisz is already negotiating with old Wartensleben. If the Prince agrees, he will go to Neisse and trade his Blizanow with Wartensleben's elder son to help settle the creditors (Weigel, Stössel). He complains of rising taxes and hardship on the local estates. A rumour from the embassy has died down, and Präsident Dierschlag asked about him. Lines 19 and 22-23 are partly garbled. Trąbczyn is not mentioned.",
+  "claims": [
+   {
+    "statement": "Bittet dringend um Entscheidung über den eingesandten Plan, da ein Medicinal Rath aus Kalisz bereits mit dem alten Graf Wartensleben verhandelt",
+    "lines": [
+     4,
+     5,
+     6,
+     16,
+     17,
+     25
+    ]
+   },
+   {
+    "statement": "Vorteil klar, wenn Weigel und Stössel befriedigt würden",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Will bei Zustimmung nach Nysa reisen und Blizanow mit dem älteren Sohn Wartenslebens tauschen, um die Gläubiger zu befriedigen",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Klagt über steigende Abgaben, wachsende Not, fürchtet Mord und Aufruhr",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Präsident Dierschlag fragte nach, ob er Gelder eintragen ließ und Güter kaufte",
+    "lines": [
+     20,
+     21
+    ],
+    "check": "overstated",
+    "why": "Zeilen 19-21 sagen, dass 'die Nachfrage bey dem Hypothequen Conservator Presidenten Dierschlag' aufgefallen sei. Gefragt wurde also bei Dierschlag. Dass Dierschlag selbst gefragt hat, steht nicht im Brief."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 19,
+    "word": "brint",
+    "note": "unclear word, perhaps 'Gerücht' or similar"
+   },
+   {
+    "line": 22,
+    "word": "Mein bis ihrem",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 23,
+    "word": "schiedig",
+    "note": "garbled word"
+   },
+   {
+    "line": 23,
+    "word": "Dein",
+    "note": "probably 'kein'"
+   },
+   {
+    "line": 16,
+    "word": "Ihrem",
+    "note": "probably 'Ihren' (Entschluß, accusative)"
+   }
+  ],
+  "read_against": "df07280733535725"
+ }
 }

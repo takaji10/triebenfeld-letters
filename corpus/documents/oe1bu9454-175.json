@@ -107,5 +107,70 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn übersendet auf Befehl zwei beiliegende Schriftstücke, ein Original und eine Abschrift. Der Fürst bittet v. Triebenfeld um seine Meinung, was in diesen Sachen zu tun sei. Besonders Girard dränge. Der Fürst würde die nötige Summe sofort schicken, um die Herren zufriedenzustellen, wären seine Mittel durch die Reise nicht so erschöpft."
+ "summary_de": "Hahn übersendet auf Befehl zwei beiliegende Schriftstücke, ein Original und eine Abschrift. Der Fürst bittet v. Triebenfeld um seine Meinung, was in diesen Sachen zu tun sei. Besonders Girard dränge. Der Fürst würde die nötige Summe sofort schicken, um die Herren zufriedenzustellen, wären seine Mittel durch die Reise nicht so erschöpft.",
+ "reading": {
+  "letter": "175",
+  "legibility": "partly garbled",
+  "notes": "Hahn, who writes from the Prince's household in Breslau, sends Triebenfeld two papers on the Prince's orders: one an original, the other a copy. The Prince asks for Triebenfeld's opinion on what to do in these matters. Girard and Haugk[?] are pressing hard. The Prince would send the sum at once to satisfy them, if his funds had not been drained by the journey. \"Lasserwelche\" is garbled (probably \"Casse, welche\"). The letter says nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Hahn übersendet auf Befehl zwei beiliegende Schriftstücke, ein Original und eine Abschrift",
+    "lines": [
+     4,
+     5,
+     6
+    ],
+    "check": "overstated",
+    "why": "Z. 4-6 sprechen von einem Befehl, zwei Stücke zu übersenden, eines das Original, eines die Abschrift. Wessen Befehl das ist, sagt der Brief nicht. Die Zusammenfassung schreibt 'im Auftrag des Fürsten', das ist eine Deutung."
+   },
+   {
+    "statement": "Der Fürst bittet um Triebenfelds Meinung, was zu tun sei",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Besonders Girard drängt",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Der Fürst würde die erforderliche Summe sofort schicken, wären seine Mittel durch die Reise nicht erschöpft",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "Lasserwelche",
+    "note": "Probably 'Casse, welche' (the Prince's funds), but garbled."
+   },
+   {
+    "line": 8,
+    "word": "dern",
+    "note": "Probably 'deren' or 'Ihre'."
+   },
+   {
+    "line": 10,
+    "word": "Haugk[?]",
+    "note": "Doubtful name reading; not used in the summary."
+   },
+   {
+    "line": 4,
+    "word": "habe dem Befehl",
+    "note": "The word 'auf' or 'zufolge' may be missing (e.g. 'habe auf dem Befehl')."
+   }
+  ],
+  "read_against": "8ec3d58e676850b2"
+ }
 }

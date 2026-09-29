@@ -111,5 +111,78 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Charlotte von Triebenfeld bittet den Fürsten, ihr durch einen seiner Untergebenen die Adresse ihres Vaters zukommen zu lassen, damit sie ihm selbst schreiben kann. Es ist ihr dritter Brief ohne Antwort; ein Brief des Vaters habe sie erneut an die Gnade des Fürsten verwiesen. Ihr Elend habe alle Grenzen überschritten, zumal sie die Hoffnung aufgeben müsse, dem Vater ihre Lage mündlich zu schildern. Um Hilfe wage sie nicht mehr zu bitten."
+ "summary_de": "Charlotte von Triebenfeld bittet den Fürsten, ihr durch einen seiner Untergebenen die Adresse ihres Vaters zukommen zu lassen, damit sie ihm selbst schreiben kann. Es ist ihr dritter Brief ohne Antwort; ein Brief des Vaters habe sie erneut an die Gnade des Fürsten verwiesen. Ihr Elend habe alle Grenzen überschritten, zumal sie die Hoffnung aufgeben müsse, dem Vater ihre Lage mündlich zu schildern. Um Hilfe wage sie nicht mehr zu bitten.",
+ "reading": {
+  "letter": "7",
+  "legibility": "sound",
+  "notes": "Charlotte von Triebenfeld, the daughter of the agent, writes to the Prince from Breslau. It is her third letter and none has been answered. A letter from her father has again pointed her to the Prince's grace. She is in great misery. She no longer asks for help, only for her father's address, which one of the Prince's subordinates could send her. The letter has nothing to do with Trąbczyn. The text is sound, with a few doubtful endings and a doubtful closing verb in line 22.",
+  "claims": [
+   {
+    "statement": "Sie bittet, ihr durch einen Untergebenen des Fürsten die Adresse ihres Vaters zukommen zu lassen, damit sie ihm selbst schreiben kann.",
+    "lines": [
+     10,
+     11,
+     16,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Es ist ihr dritter Brief, eine Antwort hat sie nicht erhalten.",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Ein Brief des Vaters hat sie erneut an die Gnade des Fürsten verwiesen.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Ihr Elend hat alle Grenzen überschritten, zumal sie die Hoffnung aufgeben muss, dem Vater ihre Lage mündlich zu schildern.",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Um Hilfe wagt sie nicht mehr zu bitten.",
+    "lines": [
+     15,
+     16
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 22,
+    "word": "verſamme",
+    "note": "The closing verb is likely misread, probably 'verharre' or 'ersterbe'. It cannot be decided, so it is not corrected."
+   },
+   {
+    "line": 18,
+    "word": "Untergebener",
+    "note": "The grammar calls for 'Untergebenen' (irgend einen Ihrer Untergebenen). This may be the writer's own slip."
+   },
+   {
+    "line": 14,
+    "word": "meine",
+    "note": "The grammar calls for 'meiner Lage'. This could be the writer's own slip or a misreading."
+   },
+   {
+    "line": 6,
+    "word": "Eu",
+    "note": "Abbreviated 'Euer', broken across the line. Probably the writer's abbreviation, not an error."
+   }
+  ],
+  "read_against": "d6e28a6290a7a5cb"
+ }
 }

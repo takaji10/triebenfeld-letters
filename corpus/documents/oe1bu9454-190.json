@@ -253,5 +253,128 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn übersendet im Auftrag des Fürsten eine Charta blanche und einen Auszug aus Glencks Schreiben vom 22. März 1806. Der Fürst will Glenck noch einmal retten und fordert Triebenfeld auf, ebenso zu handeln und ihm das Schema zum Consens zu schicken. Lehnt Glenck die Bedingungen erneut ab, soll man ihn seinem Verderben überlassen. Glenck klagt über Not wegen der Wrąbczyner Güter, hat Wilhelmsruh vor der Subhastation gerettet und will mit dem Consens Rybbeck aus dem Kauf von Wrąbczyn bringen."
+ "summary_de": "Hahn übersendet im Auftrag des Fürsten eine Charta blanche und einen Auszug aus Glencks Schreiben vom 22. März 1806. Der Fürst will Glenck noch einmal retten und fordert Triebenfeld auf, ebenso zu handeln und ihm das Schema zum Consens zu schicken. Lehnt Glenck die Bedingungen erneut ab, soll man ihn seinem Verderben überlassen. Glenck klagt über Not wegen der Wrąbczyner Güter, hat Wilhelmsruh vor der Subhastation gerettet und will mit dem Consens Rybbeck aus dem Kauf von Wrąbczyn bringen.",
+ "reading": {
+  "letter": "190",
+  "legibility": "partly garbled",
+  "notes": "Hahn, the Prince's secretary, writes from Öhringen to Triebenfeld. On the Prince's orders he sends a blank signed sheet (charta blanche) for a reply to a H. von Rewen[?] (doubtful name) and an extract from Glenck's letter of 22 March 1806. Glenck is close to ruin. The Prince is ready to help him and asks Triebenfeld to do the same, by sending the Prince the draft (Schema) of the consent, so that Glenck's complaints stop. If Glenck refuses the conditions again, he is to be left to his ruin. In the extract, Glenck describes his distress over the Wrąbczyn estates. He has saved Wilhelmsruh from forced sale and wants to show the consent to get Rybbeck out of the Wrąbczyn purchase.",
+  "claims": [
+   {
+    "statement": "Hahn übersendet im Auftrag des Fürsten eine Charta blanche und einen Auszug aus Glencks Schreiben vom 22. März 1806.",
+    "lines": [
+     2,
+     3,
+     4,
+     7,
+     8,
+     9,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Der Fürst will Glenck noch einmal retten und fordert Triebenfeld zu gleichem Handeln auf.",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Triebenfeld soll dem Fürsten das Schema zum Consens schicken.",
+    "lines": [
+     26,
+     27,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Lehnt Glenck die Bedingungen erneut ab, bleibt nur, ihn seinem Verderben zu überlassen.",
+    "lines": [
+     34,
+     35,
+     66,
+     67,
+     68,
+     69
+    ]
+   },
+   {
+    "statement": "Glenck klagt über Not wegen der Wrąbczyner Güter.",
+    "lines": [
+     38,
+     39,
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Glenck hat Wilhelmsruh vor der Subhastation gerettet.",
+    "lines": [
+     54,
+     55,
+     56
+    ]
+   },
+   {
+    "statement": "Er will mit dem Consens Rybbeck aus dem Kauf von Wrąbczyn bringen.",
+    "lines": [
+     61,
+     62,
+     63,
+     64
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Rewen[?]",
+    "note": "Name uncertain, left out of the summary"
+   },
+   {
+    "line": 9,
+    "word": "befehlen",
+    "note": "probably 'befohlen'"
+   },
+   {
+    "line": 47,
+    "word": "Wlisd",
+    "note": "not a German word; perhaps 'Verlust des' or similar"
+   },
+   {
+    "line": 49,
+    "word": "räumen nun",
+    "note": "perhaps 'rennen um'"
+   },
+   {
+    "line": 57,
+    "word": "Menngen",
+    "note": "probably 'Meinigen'"
+   },
+   {
+    "line": 59,
+    "word": "Glenck",
+    "note": "probably 'Glück', misread as the name"
+   },
+   {
+    "line": 68,
+    "word": "vollen",
+    "note": "probably 'rollen' or 'fallen'"
+   },
+   {
+    "line": 13,
+    "word": "Randdes",
+    "note": "'Rand des', the words run together"
+   }
+  ],
+  "read_against": "578e7b1210b6d4bb"
+ }
 }

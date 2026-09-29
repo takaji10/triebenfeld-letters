@@ -360,5 +360,118 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber berichtet krank aus dem Bett: In Berlin seien 360000 Rthl zugesagt. Er habe die aufgehetzten Bauern beruhigt und die Pächter verjagt. Glenck wiegle mit den Olesnicaer Leuten die Menschen auf, weise Käufer ab und verbreite ein Pasquill unter kaufwilligen Kolonisten. Der Fürst habe bereits 10000 Rthl von Swięcia, 10000 Rthl von Olesnica und 12000 Rthl von Szetlewek erhalten. Das Urteil zur Olesnicaer Erbverpachtung verbietet die Exmittierung; der Schreiber will nun den Konsens beantragen."
+ "summary_de": "Der Schreiber berichtet krank aus dem Bett: In Berlin seien 360000 Rthl zugesagt. Er habe die aufgehetzten Bauern beruhigt und die Pächter verjagt. Glenck wiegle mit den Olesnicaer Leuten die Menschen auf, weise Käufer ab und verbreite ein Pasquill unter kaufwilligen Kolonisten. Der Fürst habe bereits 10000 Rthl von Swięcia, 10000 Rthl von Olesnica und 12000 Rthl von Szetlewek erhalten. Das Urteil zur Olesnicaer Erbverpachtung verbietet die Exmittierung; der Schreiber will nun den Konsens beantragen.",
+ "reading": {
+  "letter": "192",
+  "legibility": "partly garbled",
+  "notes": "Letter to \"Mein lieber Freund\", signed v Triebenfeld (the sender is given as not identified, so no name is used). The writer has been ill in bed in Trąbczyn for five weeks. He reports that 360000 rt are promised in Berlin and that he has calmed the peasants and driven off the tenants. Glenck, allied with the Olesnica people, stirs people up and turns buyers away. Weigel and Lichnowski are to be paid from the Justiz Fond. The letter gives receipts from Swięcia, Olesnica and Szetlewek and projects cash and revenues for the Prince. In the postscripts the writer cannot judge the Koschentin matter, and Glenck's pasquil is spread among the colonists wanting to buy. The second page gives the court verdict in the Olesnica hereditary-lease case.",
+  "claims": [
+   {
+    "statement": "360000 Rthl in Berlin zugesagt; Schreiber liegt krank im Bett",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "aufgehetzte Bauern beruhigt, Pächter verjagt",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Glenck mit Olesnicaer Leuten verbündet, wiegelt auf, weist Käufer ab",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Pasquill Glencks unter kaufwilligen Kolonisten verbreitet",
+    "lines": [
+     47,
+     48,
+     49
+    ]
+   },
+   {
+    "statement": "Weigel und Lichnowski aus Justizfonds zu bezahlen",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Fürst erhielt 10000 Rthl Swięcia, 10000 Rthl Olesnica, 12000 Rthl Szetlewek",
+    "lines": [
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Urteil: keine Exmittierung; Schreiber will Konsens beantragen",
+    "lines": [
+     59,
+     60,
+     61,
+     62,
+     63,
+     67
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Argus schien",
+    "note": "probably 'Ärger schier'"
+   },
+   {
+    "line": 15,
+    "word": "zuuntenfel",
+    "note": "probably 'zum Teufel'"
+   },
+   {
+    "line": 32,
+    "word": "bauen",
+    "note": "probably 'Bauren' (cf. line 6)"
+   },
+   {
+    "line": 26,
+    "word": "3tal",
+    "note": "unclear, perhaps '3ten Theil'"
+   },
+   {
+    "line": 41,
+    "word": "feucht",
+    "note": "garbled"
+   },
+   {
+    "line": 42,
+    "word": "Stös:",
+    "note": "abbreviation unclear, perhaps Stössel"
+   },
+   {
+    "line": 57,
+    "word": "Schluzbuben",
+    "note": "perhaps 'Schutzbuben' or 'Schelmbuben'"
+   },
+   {
+    "line": 60,
+    "word": "Fenſe",
+    "note": "name uncertain"
+   },
+   {
+    "line": 11,
+    "word": "Rybbek",
+    "note": "edition form Rybbeck; may be the writer's own spelling"
+   }
+  ],
+  "read_against": "3898fd93818401f2"
+ }
 }

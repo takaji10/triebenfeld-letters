@@ -91,5 +91,88 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet den Fürsten um Hilfe mit 900 Rthl, da er, um Execution zu vermeiden, 910 Rthl zahlen muss: 700 Rthl für das vom Prinzen unter seiner Garantie zugesagte Inventarium, 175 Rthl Zinsen von 1799 und 35 Rthl Prozesskosten. Der Prinz habe keine Zinsen berichtigt. Seine Kasse sei erschöpft, da er gestern bereits 1537 Rthl 12 gg in einer weiteren Sache des Prinzen gezahlt habe. Wildegans und Heyman Pincus versprechen Berichtigung. Zu Johanni will er den Fürsten mit Holzgeldern unterstützen."
+ "summary_de": "Triebenfeld bittet den Fürsten um Hilfe mit 900 Rthl, da er, um Execution zu vermeiden, 910 Rthl zahlen muss: 700 Rthl für das vom Prinzen unter seiner Garantie zugesagte Inventarium, 175 Rthl Zinsen von 1799 und 35 Rthl Prozesskosten. Der Prinz habe keine Zinsen berichtigt. Seine Kasse sei erschöpft, da er gestern bereits 1537 Rthl 12 gg in einer weiteren Sache des Prinzen gezahlt habe. Wildegans und Heyman Pincus versprechen Berichtigung. Zu Johanni will er den Fürsten mit Holzgeldern unterstützen.",
+ "reading": {
+  "letter": "127",
+  "legibility": "sound",
+  "notes": "Short note from Triebenfeld to the Prince (Hohenlohe-Ingelfingen), Breslau. An unnamed \"Prinz\" has not paid the interest, so Triebenfeld as guarantor must pay 910 rt (700 for the inventory, 175 in interest since 1799, 35 in court costs). His funds are exhausted after paying 1537 rt 12 gg yesterday in the \"Nudnichische\" matter (possibly Rudnicki, cf. doc. 128), which the Prinz had promised to settle. Wildegans and Heyman Pincus promise to settle everything. He asks the Prince to help with 900 rt, offers to support him with timber money at Johanni, and wants to avoid Execution. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bittet den Fürsten um Hilfe mit 900 Rthl",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Muss zahlen, um Execution zu vermeiden",
+    "lines": [
+     2,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "910 Rthl: 700 Inventarium unter seiner Garantie, 175 Zinsen von 1799, 35 Prozesskosten",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Der Prinz hat keine Zinsen berichtigt",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Kasse erschöpft, gestern 1537 Rthl 12 gg in einer Sache gezahlt, die der Prinz zu berichtigen versprochen hatte",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Wildegans und Heyman Pincus versprechen Berichtigung",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Zu Johanni Unterstützung mit Holzgeldern",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "Nudnichischen",
+    "note": "Possibly a misreading of 'Rudnickischen' (v. Rudnicki appears in doc. 128); cannot be proven."
+   },
+   {
+    "line": 2,
+    "word": "um",
+    "note": "Probably 'und' ('soll und muß'), but the writer uses 'um' for 'und' elsewhere, so it may be his own spelling."
+   },
+   {
+    "line": 12,
+    "word": "Vierfach",
+    "note": "Possibly 'vierfachen'; the reading is uncertain."
+   }
+  ],
+  "read_against": "4b31aae11b28fad7"
+ }
 }

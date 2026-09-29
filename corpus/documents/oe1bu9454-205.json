@@ -344,5 +344,124 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld betreibt den Tauschhandel: Knobelsdorff steht laut Brief an Fischbach ab dem 11ten für die Reise nach Zagórów bereit, Triebenfeld hat ihn nach Termin und Treffpunkt gefragt. Weigel will, falls Stössel die Bischdorfer Güter nimmt, sich dort eintragen lassen, den Fürsten quittieren und auf Koszęcin alles löschen lassen. Berichtet, Labage solle in Paris Leinwand und Eisen für Kontributionen anbieten, und erwartet steigende Eisenpreise. Warnt den Fürsten vor falschen Freunden."
+ "summary_de": "Triebenfeld betreibt den Tauschhandel: Knobelsdorff steht laut Brief an Fischbach ab dem 11ten für die Reise nach Zagórów bereit, Triebenfeld hat ihn nach Termin und Treffpunkt gefragt. Weigel will, falls Stössel die Bischdorfer Güter nimmt, sich dort eintragen lassen, den Fürsten quittieren und auf Koszęcin alles löschen lassen. Berichtet, Labage solle in Paris Leinwand und Eisen für Kontributionen anbieten, und erwartet steigende Eisenpreise. Warnt den Fürsten vor falschen Freunden.",
+ "reading": {
+  "letter": "205",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Breslau to the Prince. Köckritz has left, and the King is to follow. On the exchange deal (Tausch), Knobelsdorff has told Fischbach he is free from the 11th to go to Zagórów, and Triebenfeld has written to him by express. Weigel would accept being registered on the Bischdorf estates if Stössel takes them, and would then clear Koszęcin. He reports that debts in Poland are to be paid, that war between France and Russia is feared, and a rumour of peace between Russia and Turkey. Labage is offering linen and iron in Paris against contributions. He warns the Prince against false friends. Nothing on Trąbczyn. Lines 50-55 and some other passages are garbled.",
+  "claims": [
+   {
+    "statement": "Triebenfeld betreibt den Tauschhandel",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Knobelsdorff schrieb an Fischbach, er stehe ab dem 11ten zur Reise nach Zagórów bereit",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Triebenfeld fragte ihn nach Reisetermin und Treffpunkt",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Weigel will sich bei Übernahme der Bischdorfer Güter durch Stössel dort eintragen lassen, quittieren und auf Koszęcin löschen lassen",
+    "lines": [
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Labage soll in Paris Leinwand und Eisen für Kontributionen anbieten",
+    "lines": [
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "erwartet steigende Eisenpreise",
+    "lines": [
+     45,
+     46,
+     48,
+     49
+    ]
+   },
+   {
+    "statement": "warnt vor falschen Freunden",
+    "lines": [
+     51,
+     52,
+     53,
+     54
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 26,
+    "word": "Nochrich",
+    "note": "unknown name, probably misread"
+   },
+   {
+    "line": 28,
+    "word": "schließes",
+    "note": "garbled verb"
+   },
+   {
+    "line": 32,
+    "word": "Hegel",
+    "note": "probably a misreading (Asche? Kohlen?)"
+   },
+   {
+    "line": 38,
+    "word": "verwähnt",
+    "note": "perhaps verscheucht or verweht"
+   },
+   {
+    "line": 39,
+    "word": "Erden Wallen",
+    "note": "probably Erdenwaller or similar; the sentence is garbled"
+   },
+   {
+    "line": 41,
+    "word": "einzusetzen",
+    "note": "doubtful; the sense of the sentence is unclear"
+   },
+   {
+    "line": 51,
+    "word": "geäbt",
+    "note": "lines 50-51 are garbled"
+   },
+   {
+    "line": 55,
+    "word": "Hollen fein",
+    "note": "perhaps Höllenpein"
+   },
+   {
+    "line": 61,
+    "word": "Müller",
+    "note": "probably Erdenwaller"
+   },
+   {
+    "line": 43,
+    "word": "Labage",
+    "note": "name uncertain"
+   }
+  ],
+  "read_against": "437238e5513fbfb9"
+ }
 }

@@ -264,5 +264,135 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass den Zagórówer Gütern eine übermäßige Getreide- und Strohlieferung auferlegt und sie erneut sequestriert wurden; die Ober Prefectur in Kalisz verweigerte die Zinsbeitreibung bei den Bauern. Brzechffa war auf seine Bitte bereit, die Lieferungen zu begleichen; der Sequestor wurde abgerufen. Triebenfeld liegt mit Podagra, klagt über Einquartierung, geflohene Untertanen und Geldnot. Honrichs soll wegen unterschlagener Abgaben verhaftet werden."
+ "summary_de": "Triebenfeld berichtet, dass den Zagórówer Gütern eine übermäßige Getreide- und Strohlieferung auferlegt und sie erneut sequestriert wurden; die Ober Prefectur in Kalisz verweigerte die Zinsbeitreibung bei den Bauern. Brzechffa war auf seine Bitte bereit, die Lieferungen zu begleichen; der Sequestor wurde abgerufen. Triebenfeld liegt mit Podagra, klagt über Einquartierung, geflohene Untertanen und Geldnot. Honrichs soll wegen unterschlagener Abgaben verhaftet werden.",
+ "reading": {
+  "letter": "72f",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, from Kopojno, sick with podagra, reports to the Prince: excessive delivery (grain, straw) imposed on the Zagórów estates; Ober Prefectur Kalisz refused his objection and refused execution against peasants for arrears; the estates were sequestrated again; he hurried here; Podprefect Brzechffa agreed to pay the deliveries from 2000 rt he meant to bring to Sławięcice, receipts to count as lease; the sequestor was recalled and put under observation. Billeting, fled subjects, no money. Courts idle until 1 June; peasants went to Warsaw cassation court; decisions awaited; garbled plan to come at Johanni with money. Postscript: Honrichs to be arrested for embezzling taxes. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Den Zagórówer Gütern wurde eine übermäßige Lieferung an Getreide und Stroh angekündigt",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Die Ober Prefectur in Kalisz lehnte Execution bei den Bauern zur Beitreibung rückständiger Zinsen ab",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Die Güter wurden wieder unter Sequestration genommen",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Brzechffa war bereit, die Lieferungen aus 2000 Rthl zu berichtigen, die er nach Sławięcice mitbringen wollte",
+    "lines": [
+     23,
+     24,
+     25,
+     26,
+     27,
+     28
+    ],
+    "check": "overstated",
+    "why": "Laut Zeilen 23-24 hatte der Podprefect die 2000 rt liegen und wollte sie nach Schlawenschitz mitbringen. Dass Brzechffa dieser Podprefect ist, steht nicht ausdrücklich im Brief. Belegt ist nur, dass Brzechffa sofort bereit war (Z. 27-28)."
+   },
+   {
+    "statement": "Der Sequestor wurde abgerufen",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Triebenfeld liegt mit Podagra",
+    "lines": [
+     30,
+     31,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Klagen über Einquartierung, geflohene Untertanen und Geldnot",
+    "lines": [
+     35,
+     36,
+     37,
+     40,
+     41,
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Honrichs soll verhaftet werden, er hat Abgaben unterschlagen",
+    "lines": [
+     83,
+     84,
+     85
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "excibitante",
+    "note": "probably 'exorbitante'"
+   },
+   {
+    "line": 7,
+    "word": "wie",
+    "note": "garbled; perhaps 'wandte mich'/'wehrte mich'"
+   },
+   {
+    "line": 62,
+    "word": "Werbizer",
+    "note": "possibly 'Wrąbczyner' (cf. 72b line 24), not proven"
+   },
+   {
+    "line": 64,
+    "word": "Olleinue",
+    "note": "garbled; perhaps 'Oleśnica' (Olesnicer Sache, 72b line 29)"
+   },
+   {
+    "line": 65,
+    "word": "ſorrechſta",
+    "note": "garbled name; possibly Brzechffa or another creditor"
+   },
+   {
+    "line": 45,
+    "word": "Arspiegel",
+    "note": "garbled"
+   },
+   {
+    "line": 34,
+    "word": "Erquilett",
+    "note": "perhaps 'Skelett'/'Exquilete' as in doc 232"
+   },
+   {
+    "line": 59,
+    "word": "Junch",
+    "note": "probably 'Juny'"
+   }
+  ],
+  "read_against": "ab1d9e502cafa138"
+ }
 }

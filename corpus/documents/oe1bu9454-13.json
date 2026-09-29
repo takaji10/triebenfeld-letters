@@ -257,5 +257,118 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet dringend um 200 # und 2 französisch unterzeichnete Blanquets. Er schuldet Barbe 145 # und braucht einen Rock, die Papiere verlieren stark an Wert. Der Fürst will ihm 100 # Vorschuss geben lassen, gegen Rückzahlung an die Casse. Seit 3 1/2 Wochen ohne Nachricht, lebt er von Wasser und Brot. Laut Bericht will H., dass Adolph Koszęcin kauft, das 55/m Rthl jährlich trage. Triebenfeld vergleicht es mit Sławięcice."
+ "summary_de": "Triebenfeld bittet dringend um 200 # und 2 französisch unterzeichnete Blanquets. Er schuldet Barbe 145 # und braucht einen Rock, die Papiere verlieren stark an Wert. Der Fürst will ihm 100 # Vorschuss geben lassen, gegen Rückzahlung an die Casse. Seit 3 1/2 Wochen ohne Nachricht, lebt er von Wasser und Brot. Laut Bericht will H., dass Adolph Koszęcin kauft, das 55/m Rthl jährlich trage. Triebenfeld vergleicht es mit Sławięcice.",
+ "reading": {
+  "letter": "13",
+  "legibility": "partly garbled",
+  "notes": "This is a confidential letter from Triebenfeld, in Vienna, to the Prince, on two pages. It criticises how the matter was taken down in the protocol, including the Adolph affair. \"Hahn\" (H) wants Adolph freed and declared of age by the King so that he can buy Koschentin. It compares the yields of Koschentin and Schlawenschitz. On his own affairs: paper money is losing value, he owes Barbe 145 #, he needs clothes, and he asks for 200 # and 2 blank sheets signed in French. The Fürst is giving him an advance of 100 #. Page 2: no letter for 3½ weeks, and he is living on bread and water. Barbe will raise money to redeem the papers. There are hopes for help from the King, but that passage is garbled. A new translator will do the Acten for 15 Ducaten. There is still no answer from Pourtalès. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bittet dringend um 200 # und 2 französisch unterzeichnete Blanquets",
+    "lines": [
+     28,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "schuldet Barbe 145 #, braucht einen Rock, Papiere verlieren an Wert",
+    "lines": [
+     17,
+     18,
+     20,
+     21
+    ],
+    "check": "overstated",
+    "why": "Die Kernaussagen stehen in Z. 17-21. Der Brief nennt aber keine Stadt (nur 'hier'), 'in Wien' ist hinzugefügt. Auch der Kausalzusammenhang ('da') steht nicht im Brief."
+   },
+   {
+    "statement": "Der Fürst gibt 100 # Vorschuss gegen Rückzahlung an die Casse",
+    "lines": [
+     25,
+     26,
+     27
+    ],
+    "check": "overstated",
+    "why": "Z. 25: 'Morgen läßt der Fürst mir 100 t# Vorschuß geben'. Das ist angekündigt, nicht schon geschehen."
+   },
+   {
+    "statement": "seit 3 1/2 Wochen ohne Nachricht, lebt von Wasser und Brot",
+    "lines": [
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "H. will, dass Adolph Koszęcin kauft, das 55/m Rthl jährlich trage",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Vergleich mit Sławięcice",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Barbe fand Übersetzer für die Acten für 15 Ducaten",
+    "lines": [
+     48
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Majoram",
+    "note": "probably 'majorenn'"
+   },
+   {
+    "line": 21,
+    "word": "Bubken",
+    "note": "unclear, perhaps 'gucken'"
+   },
+   {
+    "line": 36,
+    "word": "hafft",
+    "note": "probably 'Kaffee'"
+   },
+   {
+    "line": 37,
+    "word": "Gerize",
+    "note": "unclear, perhaps 'Gerippe'"
+   },
+   {
+    "line": 44,
+    "word": "haft",
+    "note": "probably 'hofft'"
+   },
+   {
+    "line": 44,
+    "word": "dieſon",
+    "note": "garbled"
+   },
+   {
+    "line": 46,
+    "word": "Vollerns",
+    "note": "garbled"
+   },
+   {
+    "line": 28,
+    "word": "ein",
+    "note": "probably 'um' (um Gottes Willen)"
+   },
+   {
+    "line": 33,
+    "word": "dritte",
+    "note": "probably 'dürfte'"
+   }
+  ],
+  "read_against": "86a61190ed6c940e"
+ }
 }

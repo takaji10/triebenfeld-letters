@@ -172,5 +172,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass Staatskanzler Hardenberg seit fünf Tagen krank liegt; ohne ihn blieben die Angelegenheiten des Fürsten liegen. Hardenberg habe diese an sich gezogen, Minister Humboldt spreche von gewonnenem Spiel, Hoffrath Hahns Gutachten habe gewirkt. Vorrangig seien die Beendigung der Curischen Sache, Cosmars Sturz und der Besitz der Güter als Majoratsherr. Laut einer erhaltenen Nachricht reise der König von Preußen am 8ten Dezember nach Berlin; Triebenfeld will sich am 11ten persönlich einfinden und bittet, keine Briefe mehr zu senden."
+ "summary_de": "Triebenfeld berichtet, dass Staatskanzler Hardenberg seit fünf Tagen krank liegt; ohne ihn blieben die Angelegenheiten des Fürsten liegen. Hardenberg habe diese an sich gezogen, Minister Humboldt spreche von gewonnenem Spiel, Hoffrath Hahns Gutachten habe gewirkt. Vorrangig seien die Beendigung der Curischen Sache, Cosmars Sturz und der Besitz der Güter als Majoratsherr. Laut einer erhaltenen Nachricht reise der König von Preußen am 8ten Dezember nach Berlin; Triebenfeld will sich am 11ten persönlich einfinden und bittet, keine Briefe mehr zu senden.",
+ "reading": {
+  "letter": "255",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Vienna to Prince Hohenlohe-Ingelfingen. Staatskanzler (Hardenberg, 'Fürst Hard:' l.17) ill in bed 5 days; T. prays for him since the Prince's affairs depend on him. Hardenberg took the Prince's matters on himself; Humboldt says game won; Hahn's opinion effective. Military matters reserved until Berlin (Barbe). Priorities: end the Curische Sache, Cosmar ousted, Prince as actual Majoratsherr takes possession. Barbe reports King of Prussia leaves 8 Xbr for Berlin, Emperor (Alexander, garbled) 10th, Kaiser Franz too. T. will write no more, asks no letters be sent, plans to appear personally on the 11th K M. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Staatskanzler Hardenberg liegt seit fünf Tagen krank im Zimmer und Bett",
+    "lines": [
+     4,
+     5,
+     17
+    ]
+   },
+   {
+    "statement": "Ohne ihn blieben die Angelegenheiten des Fürsten auf halbem Wege liegen",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Hardenberg hat die Sachen des Fürsten an sich gezogen",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Minister Humboldt sagt, man habe gewonnen Spiel",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Hoffrath Hahns Gutachten hat gewirkt",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Vorrangig: Beendigung der Curischen Sache, Cosmar geworfen, Fürst als Majoratsherr im Besitz der Güter",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "König von Preußen reist am 8ten Xbr nach Berlin ab",
+    "lines": [
+     26,
+     27
+    ],
+    "check": "overstated",
+    "why": "Lines 26-27: this is news someone brought to the writer ('bringt mir die Nachricht'), not his own statement of fact."
+   },
+   {
+    "statement": "Triebenfeld will nicht mehr schreiben, bittet keine Briefe zu senden, will sich am 11ten persönlich einfinden",
+    "lines": [
+     31,
+     32,
+     33
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Mann",
+    "note": "probably 'Wenn'; also 'bey ich' likely 'bin ich'"
+   },
+   {
+    "line": 16,
+    "word": "reſten",
+    "note": "probably 'festen'"
+   },
+   {
+    "line": 26,
+    "word": "könte",
+    "note": "probably 'kömt'"
+   },
+   {
+    "line": 28,
+    "word": "Alles ander",
+    "note": "probably 'Alexander' (der Kayser Alexander)"
+   },
+   {
+    "line": 32,
+    "word": "K M",
+    "note": "likely 'künftigen Monats'; 'den den' likely 'denn den'"
+   },
+   {
+    "line": 12,
+    "word": "noch",
+    "note": "sense unclear, possibly misread (e.g. 'nicht')"
+   }
+  ],
+  "read_against": "4c4cf82833a342b5"
+ }
 }

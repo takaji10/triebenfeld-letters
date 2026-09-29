@@ -462,5 +462,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld berichtet vom Scheitern der Geschäfte: Glenck kann nichts nachweisen; Leixner, durch Betrug in Pszczew abgeschreckt, soll die Zahlungen halten, verlangt für Kamionna Eviction und Incolat sowie die Aufhebung des Societätskontrakts mit Glenck. Das Darlehen von 100/m Rthl der Invalidenkasse ist unsicher. Triebenfeld will in Berlin mit Amelang bei Stubenrauch abschließen. Beyme habe das Entschädigungsgesuch des Fürsten vorgetragen und geraten, ihm Schulden über 200000 Rthl zu erlassen. Im Kriegsfall erhalte der Fürst das Kommando."
+ "summary_de": "v. Triebenfeld berichtet vom Scheitern der Geschäfte: Glenck kann nichts nachweisen; Leixner, durch Betrug in Pszczew abgeschreckt, soll die Zahlungen halten, verlangt für Kamionna Eviction und Incolat sowie die Aufhebung des Societätskontrakts mit Glenck. Das Darlehen von 100/m Rthl der Invalidenkasse ist unsicher. Triebenfeld will in Berlin mit Amelang bei Stubenrauch abschließen. Beyme habe das Entschädigungsgesuch des Fürsten vorgetragen und geraten, ihm Schulden über 200000 Rthl zu erlassen. Im Kriegsfall erhalte der Fürst das Kommando.",
+ "reading": {
+  "letter": "133",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Frankfurt an der Oder, where he waited three days for Glenck with no result. He goes through seven points: Glenck can prove nothing; Leixner was frightened by fraud at Betsche (Pszczew); the terms for Kaemen (Kamionna); cancelling the partnership contract with Glenck; the Ordens Cammer; the Harlem purchase; and the 100/m rt loan from the Invaliden Casse. He is going back to Berlin to try to close with Stubenrauch, helped by Amelang. News from Berlin: Beyme presented the Prince's compensation request and advised the King to cancel his debt of over 200000 rt. Köckritz is involved. The Prince would get the command if war comes. Also Russia–Austria alliance, Haugwitz. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Glenck kann nichts nachweisen",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Leixner durch Betrug in Pszczew abgeschreckt, soll Zahlungen halten",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "verlangt für Kamionna Eviction und Incolat",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Aufhebung des Societätskontrakts mit Glenck",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Darlehen von 100/m Rthl der Invalidenkasse unsicher",
+    "lines": [
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "will in Berlin mit Amelang bei Stubenrauch abschließen",
+    "lines": [
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Beyme trug Entschädigungsgesuch vor, riet Erlass der Schuld über 200000 Rthl",
+    "lines": [
+     44,
+     45,
+     57,
+     58,
+     59,
+     60
+    ]
+   },
+   {
+    "statement": "Im Kriegsfall erhält der Fürst das Kommando",
+    "lines": [
+     72,
+     73
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 32,
+    "word": "werden nach Aber",
+    "note": "garbled, unreadable"
+   },
+   {
+    "line": 47,
+    "word": "weggen",
+    "note": "probably 'weggenommen'"
+   },
+   {
+    "line": 63,
+    "word": "bitte",
+    "note": "possibly 'gute'"
+   },
+   {
+    "line": 63,
+    "word": "durch",
+    "note": "possibly 'Durchl.'"
+   },
+   {
+    "line": 66,
+    "word": "Koltzig-Rohde[?]",
+    "note": "unclear; perhaps refers to the Koltzig estates"
+   },
+   {
+    "line": 75,
+    "word": "Leitischen Laagen",
+    "note": "garbled"
+   },
+   {
+    "line": 85,
+    "word": "Scath",
+    "note": "unclear, perhaps 'Schatten'"
+   }
+  ],
+  "read_against": "7d23609f4494f243"
+ }
 }

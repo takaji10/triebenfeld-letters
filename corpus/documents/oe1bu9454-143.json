@@ -108,5 +108,66 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Amelang bestätigt, vom Fürsten über den Ausgang der ihn betreffenden Entschädigungsangelegenheit unterrichtet worden zu sein. Der Fürst erklärt sich mit dem Abschluss dieses Geschäfts zufrieden. Die anschließende Passage über die fortdauernde Gnade des Königs gegenüber dem Fürsten ist teilweise unleserlich."
+ "summary_de": "Amelang bestätigt, vom Fürsten über den Ausgang der ihn betreffenden Entschädigungsangelegenheit unterrichtet worden zu sein. Der Fürst erklärt sich mit dem Abschluss dieses Geschäfts zufrieden. Die anschließende Passage über die fortdauernde Gnade des Königs gegenüber dem Fürsten ist teilweise unleserlich.",
+ "reading": {
+  "letter": "143",
+  "legibility": "partly garbled",
+  "notes": "Amelang in Berlin writes a short reply to the Prince. He thanks him for being told how the Prince's compensation matter (Entschädigungs Angelegenheit) turned out. The Prince has said he is satisfied with how it ended, so Amelang is left only with a wish (the word is garbled as \"Würch\") about the King's continued favour. Lines 14-15 are garbled. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Amelang dankt für die Nachricht vom Ausgang der Entschädigungsangelegenheit des Fürsten.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ],
+    "check": "overstated",
+    "why": "In den Zeilen 4-7 heißt es nur, der Fürst habe 'die Gnade gehabt', Amelang vom Ausgang der Angelegenheit zu unterrichten. Das ist eine höfliche Bestätigung. Ein ausdrücklicher Dank steht nicht da."
+   },
+   {
+    "statement": "Der Fürst erklärt sich mit dem Abschluss zufrieden; für Amelang bleibt nichts weiter übrig.",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ],
+    "check": "overstated",
+    "why": "Dass der Fürst zufrieden ist, steht in den Zeilen 8-10. Zeile 11 geht aber weiter: 'kein Würch [vermutlich Wunsch] weiter übrig als der, daß...'. Der Satz handelt also von einem verbleibenden Wunsch, der die Gnade des Königs betrifft. Dass Amelang 'nichts weiter zu tun' bleibt, ist eine Fehldeutung."
+   },
+   {
+    "statement": "Die Passage über die fortdauernde Gnade des Königs ist teilweise unleserlich.",
+    "lines": [
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "Würch",
+    "note": "Probably 'Wunsch' ('kein Wunsch weiter übrig als der, daß ...'), but this cannot be proven."
+   },
+   {
+    "line": 14,
+    "word": "gränzen laß",
+    "note": "Garbled. Possibly 'gränzenlos' or 'gränzenlos sein'."
+   },
+   {
+    "line": 15,
+    "word": "etwa Verdienste um die Staat",
+    "note": "Garbled. Possibly 'Dero Verdienste um den Staat'."
+   },
+   {
+    "line": 20,
+    "word": "dier.",
+    "note": "Probably 'Diener' (closing formula). It could also be an abbreviation."
+   }
+  ],
+  "read_against": "5c2c2c9a28c04ada"
+ }
 }

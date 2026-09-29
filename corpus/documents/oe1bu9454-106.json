@@ -177,5 +177,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hält den vom Juden Dann vorgeschlagenen Güterkauf für Schwindel. Dann wolle H. v. Echart, den Käufer der Lichtenauschen Häuser, dafür gewinnen, und er habe auch Prinz George solche Pläne vorgetragen. Nach einem Contumacial Decret der Posener Regierung sollen dem Fürsten die Güter in Brzyce wieder genommen werden. Die Cammern intrigieren wegen der Forsten, Prozesse verursachen hohe Kosten, und die Tauschsache stockt. Er glaubt, die Minister würden den Tausch nur auf Befehl des Monarchen zulassen."
+ "summary_de": "Triebenfeld hält den vom Juden Dann vorgeschlagenen Güterkauf für Schwindel. Dann wolle H. v. Echart, den Käufer der Lichtenauschen Häuser, dafür gewinnen, und er habe auch Prinz George solche Pläne vorgetragen. Nach einem Contumacial Decret der Posener Regierung sollen dem Fürsten die Güter in Brzyce wieder genommen werden. Die Cammern intrigieren wegen der Forsten, Prozesse verursachen hohe Kosten, und die Tauschsache stockt. Er glaubt, die Minister würden den Tausch nur auf Befehl des Monarchen zulassen.",
+ "reading": {
+  "letter": "106",
+  "legibility": "sound",
+  "notes": "Triebenfeld, writing from Berlin, answers the Prince's letter about an estate purchase that the Jew Dann proposed. Hof Fiscal Michaelis passed that letter on. Dann hopes to talk H. v. Echart, the buyer of the Lichtenau houses, into it, and Triebenfeld dismisses the plan as a swindle. Bad news follows: a contumacial decree of the Posen government would take the Brzyzer Güter back. The Cammern are intriguing over the forests, lawsuits and costs are mounting, and the exchange (Tausch) is stalled because the ministers act as sovereigns. In the postscript he mentions P's ill will and the Prince's fall from his horse, which Eysenhardt reported. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hält den vom Juden Dann vorgeschlagenen Güterkauf für Schwindel.",
+    "lines": [
+     4,
+     5,
+     6,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Dann wolle H. v. Echart, den Käufer der Lichtenauschen Häuser, dafür gewinnen.",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er habe auch Prinz George solche Pläne vorgetragen.",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Nach einem Contumacial Decret der Posener Regierung sollen dem Fürsten die Güter in Brzyce wieder genommen werden.",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Die Cammern intrigieren wegen der Forsten, Prozesse verursachen hohe Kosten.",
+    "lines": [
+     23,
+     24,
+     25,
+     28,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Die Tauschsache stockt; die Minister würden den Tausch nur auf Befehl des Monarchen zulassen.",
+    "lines": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     39
+    ],
+    "check": "overstated",
+    "why": "Dass die Sache stockt, steht in Z. 34-36. Die Aussage über die Minister ist aber nur Triebenfelds Vermutung ('so glaube ich', Z. 37)."
+   },
+   {
+    "statement": "Er bittet den Fürsten nach dessen Sturz vom Pferd um Vorsicht.",
+    "lines": [
+     53,
+     54,
+     55
+    ],
+    "check": "overstated",
+    "why": "Den Sturz kennt Triebenfeld nur vom Hörensagen ('wie nur Eysenhardt sagt', Z. 53). Er ist also berichtet und nicht als Tatsache belegt."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "Empletu",
+    "note": "probably 'Emplette' (purchase)"
+   },
+   {
+    "line": 15,
+    "word": "Mecklen",
+    "note": "probably 'Mäkler' (broker's plan)"
+   },
+   {
+    "line": 11,
+    "word": "Echart",
+    "note": "name uncertain; possibly Eckart or Echaust"
+   },
+   {
+    "line": 12,
+    "word": "dahe",
+    "note": "probably 'dahin'"
+   },
+   {
+    "line": 48,
+    "word": "Wildeganchen",
+    "note": "unclear name or word"
+   },
+   {
+    "line": 53,
+    "word": "nur",
+    "note": "probably 'mir' (wie mir Eysenhardt sagt)"
+   },
+   {
+    "line": 54,
+    "word": "die",
+    "note": "probably 'Sie'"
+   },
+   {
+    "line": 24,
+    "word": "macht",
+    "note": "subject 'die Cammern' plural; possibly 'machen' or singular 'Cammer'"
+   }
+  ],
+  "read_against": "d032cd36cb84d1fa"
+ }
 }

@@ -250,5 +250,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Rechnet vor, dass ein Justitiarius, der auch den Posten eines Rendanten übernimmt, durch Ersparnisse so viel einbringe, wie Schenck erhält; die Sporteln würden auf wenigstens 1200 Rthl steigen. Bittet, Hahn nach Świniary zu schicken, um Amtmann Käufer und Förster Peltzold zu verwarnen. In Trąbczyn warten Kaufwillige auf etliche Huben Land gegen Barzahlung. Erwähnt die 1390 Rthl für Lichnowski und sendet Amelangs Brief zurück. Wiesolowski berichtet von russischen Truppen, zusammen über 300/m Mann."
+ "summary_de": "Rechnet vor, dass ein Justitiarius, der auch den Posten eines Rendanten übernimmt, durch Ersparnisse so viel einbringe, wie Schenck erhält; die Sporteln würden auf wenigstens 1200 Rthl steigen. Bittet, Hahn nach Świniary zu schicken, um Amtmann Käufer und Förster Peltzold zu verwarnen. In Trąbczyn warten Kaufwillige auf etliche Huben Land gegen Barzahlung. Erwähnt die 1390 Rthl für Lichnowski und sendet Amelangs Brief zurück. Wiesolowski berichtet von russischen Truppen, zusammen über 300/m Mann.",
+ "reading": {
+  "letter": "174",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Kalisz. The start is missing: the letter opens mid-argument, working out that a Justitiarius who also serves as Rendant would cost nothing, given the savings and rising Sporteln. He complains that his own estate at Schweinern (Świniary) is going to ruin and asks the Prince to send Hahn to warn the Amtmann Käufer and the Förster Peltzold. Hahn's letter of 19 March carries this out. He asks that 1390 rt be sent to Lichnowski. Buyers in Trąbczyn are waiting for Huben of land. He returns Amelang's letter and suggests a text for the Prince to write to the patron about 100/m and 50/m. His cousin Wiesolowski reports on Russian troop numbers. The postscript about busts is garbled.",
+  "claims": [
+   {
+    "statement": "Ein Justitiarius, der auch den Posten eines Rendanten übernimmt, bringe durch Ersparnisse so viel ein, wie Schenck erhält; die Sporteln würden auf wenigstens 1200 Rthl steigen",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Bittet, Hahn nach Świniary zu schicken, um Amtmann Käufer und Förster Peltzold zu verwarnen",
+    "lines": [
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "In Trąbczyn warten Kaufwillige auf etliche Huben Land gegen Barzahlung",
+    "lines": [
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Bittet, Lichnowski die 1390 Rthl zu schicken",
+    "lines": [
+     30,
+     31
+    ],
+    "check": "overstated",
+    "why": "Line 30 is garbled ('Habe Ewr Durchlaucht den im Lichnowski die 1390 rt geschickt') and reads more like a question whether the money was sent. Calling it a request is an interpretation."
+   },
+   {
+    "statement": "Sendet Amelangs Brief zurück",
+    "lines": [
+     38
+    ]
+   },
+   {
+    "statement": "Wiesolowski berichtet von russischen Truppen, zusammen über 300/m Mann",
+    "lines": [
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "werde",
+    "note": "Probably 'werden' ('darf mehr gehalten werden'), but it may be the writer's own slip."
+   },
+   {
+    "line": 21,
+    "word": "Peltzold",
+    "note": "Hahn's letter (doc. 170) writes 'bezold'; the correct form is uncertain."
+   },
+   {
+    "line": 57,
+    "word": "Besitz",
+    "note": "Garbled; perhaps 'russische'."
+   },
+   {
+    "line": 57,
+    "word": "Baum",
+    "note": "Possibly 'Beinen' ('auf den Beinen')."
+   },
+   {
+    "line": 60,
+    "word": "Schuld",
+    "note": "Garbled; perhaps 'Pulk'."
+   },
+   {
+    "line": 60,
+    "word": "März",
+    "note": "Garbled; probably 'Mann'."
+   },
+   {
+    "line": 60,
+    "word": "Palch",
+    "note": "Probably 'Pulk' (regiment)."
+   },
+   {
+    "line": 36,
+    "word": "wegähren",
+    "note": "Probably 'wegfahren'."
+   },
+   {
+    "line": 70,
+    "word": "hergeschieden",
+    "note": "The postscript in lines 67-71 is garbled."
+   }
+  ],
+  "read_against": "83f27556c8886f76"
+ }
 }

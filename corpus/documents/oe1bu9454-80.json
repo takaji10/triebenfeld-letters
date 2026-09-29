@@ -128,5 +128,81 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld ergänzt sein Schreiben vom Vortag, das Hauptmann Hahn mitnahm. Minister Hoym sei zufrieden aus Potsdam zurückgekehrt, wo nach Aussage eines anderen Mannes mehrfach vom Fürsten die Rede gewesen sei. Dies bestätige, dass der König den Fürsten schätze, und er hofft auf einen guten Ausgang. In Berlin rede man von Märschen oder Krieg, er glaube aber noch nicht daran. Von Herrn von Voss sei noch nichts zurück."
+ "summary_de": "Triebenfeld ergänzt sein Schreiben vom Vortag, das Hauptmann Hahn mitnahm. Minister Hoym sei zufrieden aus Potsdam zurückgekehrt, wo nach Aussage eines anderen Mannes mehrfach vom Fürsten die Rede gewesen sei. Dies bestätige, dass der König den Fürsten schätze, und er hofft auf einen guten Ausgang. In Berlin rede man von Märschen oder Krieg, er glaube aber noch nicht daran. Von Herrn von Voss sei noch nichts zurück.",
+ "reading": {
+  "letter": "80",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince from Berlin, a short follow-up to his letter of the previous day, which went with Hauptmann (u.?) Hahn. Hoym came back from Potsdam in good spirits; someone reports that the Prince was discussed there and that the King esteems him. There is talk in Berlin of marches or war, which Triebenfeld doubts because of the King's firm principles. Nothing has come back yet from Minister von Voss, and Triebenfeld hopes Voss will not act against the King's interest or the Prince's peace. The letter has nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld ergänzt sein Schreiben vom Vortag, das Hauptmann Hahn mitnahm.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Hoym kehrte zufrieden aus Potsdam zurück, wo nach Aussage eines anderen Mannes mehrfach vom Fürsten die Rede war.",
+    "lines": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Das bestätige, dass der König den Fürsten schätze; er hofft auf einen guten Ausgang.",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "In Berlin rede man von Märschen oder Krieg, er glaubt noch nicht daran.",
+    "lines": [
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Von Minister von Voss ist noch nichts zurück.",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ],
+    "check": "overstated",
+    "why": "Zeile 18 nennt nur 'des Herrn von Voss Excellenz'; dass er Minister ist, steht nicht im Brief."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "u.",
+    "note": "'H. Hauptmann u. Hahn': may be 'v. Hahn', or two people may be meant."
+   },
+   {
+    "line": 6,
+    "word": "habe",
+    "note": "The plural subject calls for 'haben'; this may be the writer's own slip."
+   },
+   {
+    "line": 15,
+    "word": "Monarchen",
+    "note": "Probably 'Monarch' (nominative singular)."
+   },
+   {
+    "line": 22,
+    "word": "Verehrung",
+    "note": "The edition's formula is 'In tiefster Ehrfurcht ersterbe', but 'Verehrung' could be what the writer actually wrote."
+   }
+  ],
+  "read_against": "f3cdb8742b5cd85c"
+ }
 }

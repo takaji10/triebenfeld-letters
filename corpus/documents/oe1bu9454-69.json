@@ -178,5 +178,82 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Bally berichtet, dass er das Geld in Wrocław nicht sofort erhalten konnte und durch Wege und Wetter aufgehalten wurde. Am 25. mittags traf er Honrichs und Cabanis noch an. Beide reisten noch am selben Tag ab, Honrichs mit 6000 Rthl und den Schenkungsurkunden im Original, und zwar mit den frohesten Aussichten. Triebenfeld leidet am rechten Arm. Er hat versprochen, für einige Wochen nach Schlawentz zu kommen, sobald seine eigenen Geschäfte beendet sind. Bally will bald zurückkehren."
+ "summary_de": "Bally berichtet, dass er das Geld in Wrocław nicht sofort erhalten konnte und durch Wege und Wetter aufgehalten wurde. Am 25. mittags traf er Honrichs und Cabanis noch an. Beide reisten noch am selben Tag ab, Honrichs mit 6000 Rthl und den Schenkungsurkunden im Original, und zwar mit den frohesten Aussichten. Triebenfeld leidet am rechten Arm. Er hat versprochen, für einige Wochen nach Schlawentz zu kommen, sobald seine eigenen Geschäfte beendet sind. Bally will bald zurückkehren.",
+ "reading": {
+  "letter": "69",
+  "legibility": "sound",
+  "notes": "Bally schreibt dem Fürsten aus Kontop. Er hat das Geld in Breslau nicht gleich bekommen können, und schlechte Wege und schlechtes Wetter haben ihn aufgehalten. Am 25. mittags ist er trotzdem angekommen und hat Honrichs und Cabanis noch angetroffen. Beide sind noch am selben Tag abgereist, mit 6000 rt und den Schenkungsurkunden im Original. Das Verb im Nebensatz fehlt. Triebenfeld leidet am rechten Arm. Er hat versprochen, für einige Wochen nach Schlawentz zu kommen, sobald seine eigenen Geschäfte erledigt sind. Bally will zurückkehren, sobald er auf seine Aufträge Antwort hat. Zeile 18 ist verderbt.",
+  "claims": [
+   {
+    "statement": "Bally konnte das Geld in Wrocław nicht sofort empfangen und wurde durch Wege und Wetter aufgehalten",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er war am 25. mittags dort und traf Honrichs und Cabanis noch an",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Beide reisten mit 6000 Rthl und den Schenkungsurkunden im Original und mit den frohesten Aussichten noch am selben Tag ab",
+    "lines": [
+     11,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Laut Zeilen 11-13 sind die 6000 rt. und die Urkunden mit Honrichs verbunden, nicht mit beiden. Beide reisten am selben Tag ab."
+   },
+   {
+    "statement": "Triebenfeld leidet am rechten Arm und hat versprochen, nach Beendigung seiner Geschäfte für einige Wochen nach Schlawentz zu kommen",
+    "lines": [
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Bally will bald zurückkehren",
+    "lines": [
+     18,
+     19
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "zur beendiget",
+    "note": "wohl 'zu Ende gebracht' oder 'beendiget'; verderbt"
+   },
+   {
+    "line": 18,
+    "word": "werden antworte erhalte",
+    "note": "Zeile verderbt, wohl 'auf alle erhaltenen gnädigsten Aufträge Antwort erhalten'"
+   },
+   {
+    "line": 12,
+    "word": "Honrichs",
+    "note": "Im Nebensatz fehlt ein Verb (etwa 'erhalten')"
+   },
+   {
+    "line": 7,
+    "word": "noch ohne",
+    "note": "Sinn unklar, vielleicht 'noch durch'"
+   },
+   {
+    "line": 17,
+    "word": "Schlawentz",
+    "note": "wohl Sławięcice (Schlawenschitz), verkürzte Schreibung"
+   }
+  ],
+  "read_against": "76f9c5b85fd1cae1"
+ }
 }

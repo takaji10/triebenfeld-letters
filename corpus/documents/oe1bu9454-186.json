@@ -114,5 +114,83 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber meldet, die Sache mit Weigelt sei so gut wie abgemacht. Weigelt habe seine Zusage geschickt, und er habe ihn für morgen zu sich nach Świniary gebeten. Um den alten Herrn gut zu bewirten, was dem Wohl des Fürsten diene, bittet er den Freund um eine Flasche guten alten süßen Ungarischen Ausbruch, 6 Pfirsiche und 2 Weintrauben. Wein und Früchte sollen notfalls herausgeschickt werden."
+ "summary_de": "Der Schreiber meldet, die Sache mit Weigelt sei so gut wie abgemacht. Weigelt habe seine Zusage geschickt, und er habe ihn für morgen zu sich nach Świniary gebeten. Um den alten Herrn gut zu bewirten, was dem Wohl des Fürsten diene, bittet er den Freund um eine Flasche guten alten süßen Ungarischen Ausbruch, 6 Pfirsiche und 2 Weintrauben. Wein und Früchte sollen notfalls herausgeschickt werden.",
+ "reading": {
+  "letter": "186",
+  "legibility": "partly garbled",
+  "notes": "A short note to a \"Lieber Freund\", signed v Triebenfeld, written in Breslau. The metadata gives sender and recipient as not identified, so the summary calls him \"der Schreiber\". The business with H Weigelt is as good as settled. Weigelt will come out to the writer at Schweinern (Świniary) tomorrow. The writer asks the friend for wine and fruit to entertain the old gentleman, which he says is for the good of \"unsers Biedern Fürsten\". Letter 201 of the same day tells the Prince about the same visit. Some words are garbled (Seyen, Mihn, Lüttellie).",
+  "claims": [
+   {
+    "statement": "Die Sache mit Weigelt ist so gut wie abgemacht, Weigelt schickte die Zusage.",
+    "lines": [
+     3
+    ]
+   },
+   {
+    "statement": "Weigelt kommt morgen zu ihm nach Świniary.",
+    "lines": [
+     4,
+     5,
+     6
+    ],
+    "check": "overstated",
+    "why": "Zeilen 4-6: Weigelt bot an, den Donnerstag in Schweinern zu verbringen; der Schreiber nahm an und hat ihn für morgen zu sich gebeten. Das ist eine Einladung, kein bestätigter Besuch."
+   },
+   {
+    "statement": "Bewirtung des alten Herrn, zum Wohl des Fürsten.",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Bitte um eine Flasche Ungarischen Ausbruch, 6 Pfirsiche und 2 Weintrauben.",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Wein und Früchte sollen notfalls herausgeschickt werden.",
+    "lines": [
+     11,
+     12
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Seyen",
+    "note": "garbled; perhaps a word for a meal or a time of day"
+   },
+   {
+    "line": 8,
+    "word": "Mihn",
+    "note": "probably 'Rhein' (Rhine wine), not provable"
+   },
+   {
+    "line": 6,
+    "word": "manche",
+    "note": "perhaps 'Allem' or 'Manchem'"
+   },
+   {
+    "line": 7,
+    "word": "Herrn",
+    "note": "'das Herrn zu erwärmen' probably 'das Herz'"
+   },
+   {
+    "line": 8,
+    "word": "Herzer",
+    "note": "probably 'Herzens' or 'Theurer'"
+   },
+   {
+    "line": 3,
+    "word": "um",
+    "note": "probably 'und'"
+   }
+  ],
+  "read_against": "001c67530760089a"
+ }
 }

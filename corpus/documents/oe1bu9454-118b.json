@@ -101,5 +101,71 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Die Gräfin Schlabrendorff will mit den 50000 Rthl bis zum 1. Januar 1805 warten; eine längere Frist konnte Homuth nicht erreichen. Sie beklagt ihren Verlust, da sie keine Zinsen erhält. Müssen bis dahin keine Zinsen gezahlt werden, sind 2500 Rthl gewonnen. Homuth bittet um den Vergleich, um ihn der Gräfin zur Vollziehung zu schicken, und will versuchen, die alten Wechsel zurückzubekommen. Der Conducteur Cabanis ist abgereist; die Breslauer Mietkutscher verlangten 20 Rthl."
+ "summary_de": "Die Gräfin Schlabrendorff will mit den 50000 Rthl bis zum 1. Januar 1805 warten; eine längere Frist konnte Homuth nicht erreichen. Sie beklagt ihren Verlust, da sie keine Zinsen erhält. Müssen bis dahin keine Zinsen gezahlt werden, sind 2500 Rthl gewonnen. Homuth bittet um den Vergleich, um ihn der Gräfin zur Vollziehung zu schicken, und will versuchen, die alten Wechsel zurückzubekommen. Der Conducteur Cabanis ist abgereist; die Breslauer Mietkutscher verlangten 20 Rthl.",
+ "reading": {
+  "letter": "118b",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince, a short note that survives in two copies (118b and 118c). Gräfin Schlabrendorff will wait for her 50000 Rthl until 1 January 1805. Homuth could not get a longer term from her. She complains of her loss because she gets no interest. If the Prince pays no interest until then, 2500 Rthl are gained. Homuth asks for the Vergleich so he can draft it and send it to her for execution, and he will try to recover the old bills of exchange. The Conducteur Cabanis has left and will hire a peasant cart for 4 or 5 Rthl outside town, because the coachmen in Breslau wanted 20 Rthl plus extras. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Gräfin Schlabrendorff will mit den 50000 Rthl bis 1. Januar 1805 warten; längere Frist konnte Homuth nicht erreichen",
+    "lines": [
+     1,
+     2,
+     3
+    ]
+   },
+   {
+    "statement": "Sie beklagt Verlust, da sie keine Zinsen erhält",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Ohne Zinszahlung bis dahin sind 2500 Rthl gewonnen",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Homuth bittet um den Vergleich zur Vollziehung durch die Gräfin und will die alten Wechsel herausbekommen",
+    "lines": [
+     12,
+     13,
+     14,
+     15
+    ],
+    "check": "overstated",
+    "why": "Zeilen 14-15: er will nur probieren, ob er die alten Wechsel herausbekommen kann."
+   },
+   {
+    "statement": "Conducteur Cabanis abgereist; Mietkutscher verlangten 20 Rthl",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 21,
+    "word": "Entter",
+    "note": "probably 'Futter' (fodder), not proven"
+   },
+   {
+    "line": 5,
+    "word": "Da",
+    "note": "capital after 'und' (copy: 'um'); the transition at the line end is unclear"
+   }
+  ],
+  "read_against": "45cd39a02c2500f7"
+ }
 }

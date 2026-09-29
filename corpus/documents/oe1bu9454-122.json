@@ -111,5 +111,53 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber leitet ein Billet weiter, das versehentlich in seinem alten Logis liegen geblieben war. Herr Homuth bittet dringend, diese Post bald zu berichtigen, damit er durch den Boten den Eingang der 166 Rthl 16 g anzeigen kann. Cabanis reist mit der Post nach Hussinitz ab; der Schreiber verspricht sich davon schnellen, glücklichen Erfolg. Aus Berlin oder Frankfurth hat er heute keine Nachricht erhalten."
+ "summary_de": "Der Schreiber leitet ein Billet weiter, das versehentlich in seinem alten Logis liegen geblieben war. Herr Homuth bittet dringend, diese Post bald zu berichtigen, damit er durch den Boten den Eingang der 166 Rthl 16 g anzeigen kann. Cabanis reist mit der Post nach Hussinitz ab; der Schreiber verspricht sich davon schnellen, glücklichen Erfolg. Aus Berlin oder Frankfurth hat er heute keine Nachricht erhalten.",
+ "reading": {
+  "letter": "122",
+  "legibility": "sound",
+  "notes": "A short note, signed v Triebenfeld, written at Breslau on 6 April 1804. The sender and recipient are given as not identified, so the summary calls him \"der Schreiber\". He forwards a Billet that had been left at his old lodging. Herr Homuth asks for this Post to be settled quickly so that he can confirm receipt of 166 rt. 16 g. Cabanis is leaving by post for Hussinitz, and the writer expects a quick success there. This fits the previous letter, about the Hussites wanting to buy land. No news has come from Berlin or Frankfurth. The text is sound.",
+  "claims": [
+   {
+    "statement": "Der Schreiber leitet ein Billet weiter, das versehentlich im alten Logis liegen geblieben war.",
+    "lines": [
+     2,
+     3
+    ]
+   },
+   {
+    "statement": "Homuth bittet, die Post bald zu berichtigen, damit er den Eingang der 166 Rthl 16 g anzeigen kann.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Cabanis reist mit der Post nach Hussinitz ab; der Schreiber erwartet schnellen, glücklichen Erfolg.",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Aus Berlin oder Frankfurth keine Nachricht.",
+    "lines": [
+     11,
+     12
+    ],
+    "check": "overstated",
+    "why": "Lines 11-12 sagen nur, dass er 'heute' keine Sylbe erhalten hat. Ohne 'heute' klingt es, als sei nie eine Nachricht gekommen."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "glücklichſte",
+    "note": "Grammatically one would expect 'glücklichſten', but this may be the writer's own form or a machine misreading. Left unchanged."
+   }
+  ],
+  "read_against": "6d2ebecd0d74f76a"
+ }
 }

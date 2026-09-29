@@ -93,5 +93,67 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kann das Geld zur Auslösung der Urkunde nicht aufbringen, da Wildegansct ihm in Berlin allen Kredit verderbe. Dem Freund, der die Sache vermittelt hat, gab er 300 Rthl als Angeld aus seinem Reisegeld. Er bittet um eine Anweisung auf die 240 f. d'or um 200 Rthl Courant, sonst drohe ein böser Streich. Köckritz und Zastrow nennt er wahre Freunde des Fürsten. Wegen des Geklätsches will er sich im Hintergrund halten."
+ "summary_de": "Triebenfeld kann das Geld zur Auslösung der Urkunde nicht aufbringen, da Wildegansct ihm in Berlin allen Kredit verderbe. Dem Freund, der die Sache vermittelt hat, gab er 300 Rthl als Angeld aus seinem Reisegeld. Er bittet um eine Anweisung auf die 240 f. d'or um 200 Rthl Courant, sonst drohe ein böser Streich. Köckritz und Zastrow nennt er wahre Freunde des Fürsten. Wegen des Geklätsches will er sich im Hintergrund halten.",
+ "reading": {
+  "letter": "111",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Berlin to the Prince. He cannot raise the money to redeem the Urkunde (compare doc. 110: 240 Fr d'or and about 200 rt for the documents on the church estates). He blames Wildegans for ruining his credit, has paid 300 Rtrl as a deposit to the friend who arranged the matter, and asks for an Anweisung. He calls Köckritz and Zastrow true friends, but because of the gossip he will keep his distance. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld kann das Geld zur Auslösung der Urkunde nicht aufbringen, da Wildegansct ihm allen Kredit verderbe.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Dem Freund, der die Sache gemacht hat, gab er 300 Rthl als Angeld aus seinem Reisegeld.",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er bittet um eine Anweisung auf die 240 f. d'or und 200 Rthl Courant, sonst drohe ein böser Streich.",
+    "lines": [
+     9,
+     10,
+     11,
+     12
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht 'auf die 240 f. d'or um 200 Rt Courant'. Das ist ein einziger Betrag mit Umrechnungsangabe. Das 'und' macht daraus zwei getrennte Summen."
+   },
+   {
+    "statement": "Köckritz und Zastrow seien wahre Freunde des Fürsten.",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Wegen des Geklätsches will er sich im Hintergrund halten.",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Wildegansct",
+    "note": "Doc. 109 has 'Wildegansch'. The final 'ct' may be a misreading of 'ch', but a single witness in another letter does not prove it."
+   },
+   {
+    "line": 19,
+    "word": "tiefer",
+    "note": "Elsewhere the formula is 'In tiefster Submission'. This may be a misreading, but the writer's wording varies, so it is not proven."
+   }
+  ],
+  "read_against": "705a5975aec09ebc"
+ }
 }

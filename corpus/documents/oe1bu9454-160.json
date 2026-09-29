@@ -162,5 +162,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass die Invaliden Casse die Seehandlungs Obligationen herausgibt und er nun Livi befriedigen kann. Weitere Gelder sollen nach Revision der Taxen durch die Cammer folgen. Girard erhielt 900 Rthl Zinsen, das Kapital soll einige Jahre ungekündigt bleiben. Bei Seebald wurden 1800 Rthl Proxeneticum erspart. Die Olesnicer Leute, die gegen die Dismembrierung der Wälder protestieren, will er hinauswerfen. Die Nachkäufer haben 10000 Rthl bezahlt und wollen weitere 10000 Rthl zahlen. Geplante Abreise am 5ten über Kontop und Glogau."
+ "summary_de": "Triebenfeld meldet, dass die Invaliden Casse die Seehandlungs Obligationen herausgibt und er nun Livi befriedigen kann. Weitere Gelder sollen nach Revision der Taxen durch die Cammer folgen. Girard erhielt 900 Rthl Zinsen, das Kapital soll einige Jahre ungekündigt bleiben. Bei Seebald wurden 1800 Rthl Proxeneticum erspart. Die Olesnicer Leute, die gegen die Dismembrierung der Wälder protestieren, will er hinauswerfen. Die Nachkäufer haben 10000 Rthl bezahlt und wollen weitere 10000 Rthl zahlen. Geplante Abreise am 5ten über Kontop und Glogau.",
+ "reading": {
+  "letter": "160",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Berlin writes to the Prince. The Invaliden Casse is releasing the Seehandlung bonds, so he can now settle with banker Levi, who advanced the draft. The further funds are to follow once the Cammer has revised the Taxen. He has settled with Girard (900 Rthl interest paid, exchange of Reverse). The deal with Seebald fell through, which saves 1800 Rthl Proxeneticum. He will finish with Eysenhardt tomorrow and leave on the 5th via Kontop and Glogau, where he has missed 2 court dates. The Oleśnica people have entered protests against the dismemberment of the forests. The later buyers paid 10000 Rthl. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Invaliden Casse gibt die Seehandlungs Obligationen heraus, danach kann er Levi befriedigen",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "check": "overstated",
+    "why": "Der Brief schreibt 'Bang: Livi'; 'Bankier Levi' ist eine Deutung eines verderbten Wortes. Die Herausgabe selbst ist belegt (Z. 5-7)."
+   },
+   {
+    "statement": "Weitere Gelder sollen nach Revision der Taxen durch die Cammer erfolgen",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Girard 900 Rthl Zinsen bezahlt, Kapital soll einige Jahre ungekündigt stehen",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Bei Seebald 1800 Rthl Proxeneticum erspart",
+    "lines": [
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Olesnicer Leute sollen hinausgeworfen werden, sie protestieren gegen die Desmembrirung der Wälder",
+    "lines": [
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Nachkäufer haben 10000 Rthl bezahlt und verpflichten sich, weitere 10000 Rthl zu zahlen",
+    "lines": [
+     39,
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Abreise am 5ten über Kontop und Glogau",
+    "lines": [
+     27,
+     28
+    ],
+    "check": "overstated",
+    "why": "Z. 27: 'gedenke ich ... abzugehen', eine Absicht, keine erfolgte Abreise."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "Studen",
+    "note": "garbled; possibly Thaler (compare the 100000 rt in doc. 159)"
+   },
+   {
+    "line": 7,
+    "word": "Livi",
+    "note": "probably Levi (banker)"
+   },
+   {
+    "line": 20,
+    "word": "Ze¬tressen",
+    "note": "probably Zinsen or Intressen"
+   },
+   {
+    "line": 37,
+    "word": "hätten",
+    "note": "garbled adjective (hartnäckige?)"
+   },
+   {
+    "line": 29,
+    "word": "verliehen",
+    "note": "probably verlieren"
+   },
+   {
+    "line": 6,
+    "word": "müßten",
+    "note": "subject is ich; probably mußte"
+   },
+   {
+    "line": 38,
+    "word": "fürchte mußte",
+    "note": "probably 'fürchten muß'"
+   },
+   {
+    "line": 30,
+    "word": "Contenagirt",
+    "note": "probably contumacirt"
+   }
+  ],
+  "read_against": "076ae0fe81e8ec3d"
+ }
 }

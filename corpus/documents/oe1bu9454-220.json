@@ -566,5 +566,116 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kam beim alten Grafen Wartensleben in Nysa zu spät, der über Skorogoszcz schon mit einem Kaufmann aus Kalisz abgeschlossen hat. Er schlägt die Güter von Wołczyn des jungen Wartensleben vor (Forderung 200000 Rthl, Schulden 120000 Rthl). Weigel und Stössel sollen diese Güter samt der Hypothek auf Zagórów übernehmen und dem Fürsten über 350000 Rthl quittieren. Koszęcin könnte als Majorat für Prinz Alexander genommen werden."
+ "summary_de": "Triebenfeld kam beim alten Grafen Wartensleben in Nysa zu spät, der über Skorogoszcz schon mit einem Kaufmann aus Kalisz abgeschlossen hat. Er schlägt die Güter von Wołczyn des jungen Wartensleben vor (Forderung 200000 Rthl, Schulden 120000 Rthl). Weigel und Stössel sollen diese Güter samt der Hypothek auf Zagórów übernehmen und dem Fürsten über 350000 Rthl quittieren. Koszęcin könnte als Majorat für Prinz Alexander genommen werden.",
+ "reading": {
+  "letter": "220",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Brieg. The Prince's letter reached him three weeks late by way of Schweinern. He sold his wool in Ostrów and went to the old Graf Wartensleben in Neisse, but came too late: Wartensleben had already closed a deal over Schurgast with a Kalisz merchant. He now proposes the Constadt estates of the young Wartensleben (asking price 200000, debts 120000). Weigel and Stössel would take these estates together with the Zagórów mortgage and give the Prince a receipt for 350000, which would free Koschentin as a Majorat for Prinz Alexander. He asks for a quick answer to Blizanow, and for the Anschlag and the list of arrears back in the original for the court date in Kalisz. Nothing in the letter concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld kam beim alten Wartensleben in Nysa zu spät; Skorogoszcz ging für 135000 Rthl an einen Kaufmann aus Kalisz",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ],
+    "check": "overstated",
+    "why": "Zu spät und Abschluss mit einem Kaufmann aus Kalisz stimmen. Die 135000 rt sind aber der Wert der Güter, die Wartensleben für Schurgast annimmt (Z. 10). Es ist kein Kaufpreis für Skorogoszcz."
+   },
+   {
+    "statement": "Güter von Wołczyn des jungen Wartensleben: Forderung 200000 Rthl, Schulden 120000 Rthl",
+    "lines": [
+     11,
+     12,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Weigel und Stössel sollen Wołczyn und die Hypothek auf Zagórów übernehmen und über 350000 Rthl quittieren",
+    "lines": [
+     20,
+     21,
+     22,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Koszęcin als Majorat für Prinz Alexander",
+    "lines": [
+     30,
+     31,
+     33
+    ],
+    "check": "overstated",
+    "why": "Z. 33 sagt nur 'könte ... genommen werden'. Laut Z. 30-31 gehört das zur anderen Variante ohne Constadt, nicht zwingend zur Variante mit Wołczyn. Das Wort 'frei' steht nicht im Brief."
+   },
+   {
+    "statement": "Bitte um schnelle Antwort nach Blizanow",
+    "lines": [
+     17,
+     18,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Rückgabe von Anschlag und Restendesignation für den Termin in Kalisz",
+    "lines": [
+     42,
+     43
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Reuhonbasch[?]",
+    "note": "Maiden name of the wife is unreadable"
+   },
+   {
+    "line": 17,
+    "word": "betriren",
+    "note": "Probably 'betreiben' or 'entriren'"
+   },
+   {
+    "line": 17,
+    "word": "allerniligsten",
+    "note": "Probably 'allereiligsten'"
+   },
+   {
+    "line": 32,
+    "word": "ren",
+    "note": "Probably 'frey' (Koschentin frey bekommen)"
+   },
+   {
+    "line": 34,
+    "word": "ausbar",
+    "note": "Passage is garbled"
+   },
+   {
+    "line": 38,
+    "word": "um",
+    "note": "Probably 'und'"
+   },
+   {
+    "line": 44,
+    "word": "Baurrretten",
+    "note": "Line is garbled"
+   },
+   {
+    "line": 46,
+    "word": "mein",
+    "note": "Probably 'weiß'"
+   },
+   {
+    "line": 48,
+    "word": "luth",
+    "note": "Probably 'bat'"
+   }
+  ],
+  "read_against": "2335336079d48382"
+ }
 }

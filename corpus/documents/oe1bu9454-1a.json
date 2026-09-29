@@ -141,5 +141,115 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld legt ein soeben erhaltenes Schreiben des in großer Not lebenden Fürsten von Hohenlohe vor und bittet, sich seiner zu erbarmen. Nur der Vorschuss von 112000 Rthl könne ihn retten: Die Curländischen Erben würden befriedigt, Cosmars Gewalt ende, Sr Majestät erhalte die 112000 Rthl aus den Fonds der Majoratsgüter zurück. Zu den in jenem Schreiben erwähnten Trąbczyner Gütern im Kreis Konin erbittet er Weisung, ob er jetzt die Urkunden und Dokumente einreichen darf."
+ "summary_de": "Triebenfeld legt ein soeben erhaltenes Schreiben des in großer Not lebenden Fürsten von Hohenlohe vor und bittet, sich seiner zu erbarmen. Nur der Vorschuss von 112000 Rthl könne ihn retten: Die Curländischen Erben würden befriedigt, Cosmars Gewalt ende, Sr Majestät erhalte die 112000 Rthl aus den Fonds der Majoratsgüter zurück. Zu den in jenem Schreiben erwähnten Trąbczyner Gütern im Kreis Konin erbittet er Weisung, ob er jetzt die Urkunden und Dokumente einreichen darf.",
+ "reading": {
+  "letter": "1a",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, in Vienna, sends the Prince a letter he has just received from the \"so höchst bedrängten Fürsten von Hohenlohe\" and describes that prince's terrible need. He pleads for the advance of 112000 rt. With it the Curland heirs would be paid off, Cosmar's hold on the Majorat estates would end, His Majesty would get the money back from the Majorat funds, and the creditors would be paid. The other prince's letter mentions the Trąbczyn estates in Konin district. Triebenfeld asks whether he may now submit the deeds and documents. Several words are garbled (lines 4-5, 7-8, 10, 12).",
+  "claims": [
+   {
+    "statement": "Triebenfeld legt ein soeben erhaltenes Schreiben des bedrängten Fürsten von Hohenlohe vor.",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er bittet, sich des Fürsten zu erbarmen, der in großer Not lebt.",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Nur der Vorschuss von 112000 Rthl könne ihn retten.",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Die Curländischen Erben würden befriedigt, und Cosmars Gewalt hätte ein Ende.",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Sr Majestät erhalte die 112000 Rthl aus den Fonds der Majoratsgüter zurück, und die Gläubiger würden nach und nach bezahlt.",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Zu den Trąbczyner Gütern im Kreis Konin, die im Schreiben erwähnt werden, erbittet er Weisung, ob er jetzt die Urkunden und Dokumente einreichen darf.",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "erstehe",
+    "note": "probably 'erflehe'"
+   },
+   {
+    "line": 4,
+    "word": "vogt",
+    "note": "probably 'wage'"
+   },
+   {
+    "line": 5,
+    "word": "Lebensest",
+    "note": "garbled, perhaps 'unterthänigst'"
+   },
+   {
+    "line": 6,
+    "word": "beiden",
+    "note": "probably 'biedern'"
+   },
+   {
+    "line": 6,
+    "word": "Bildentwurf",
+    "note": "probably 'Bild entwerfen'"
+   },
+   {
+    "line": 7,
+    "word": "ländern",
+    "note": "probably 'lindern'"
+   },
+   {
+    "line": 8,
+    "word": "Blad",
+    "note": "garbled, perhaps 'Loos'"
+   },
+   {
+    "line": 10,
+    "word": "welcher Willen",
+    "note": "probably 'um welcher Willen', garbled"
+   },
+   {
+    "line": 12,
+    "word": "ex nexa",
+    "note": "probably 'ex nexu'"
+   },
+   {
+    "line": 12,
+    "word": "Vorsitzung",
+    "note": "probably 'Vorschuß'"
+   }
+  ],
+  "read_against": "98c157a2cc09dbab"
+ }
 }

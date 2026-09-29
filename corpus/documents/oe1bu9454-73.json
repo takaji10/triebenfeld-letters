@@ -326,5 +326,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Fürst stellt Bedingungen für Brzechffas Pachtangebot auf die Zagorower Güther: halbjährige Pachtzahlung prenumerando, eine bare Caution, Schutz vor Remissionsklagen, alle Lasten beim Pächter, ein Abstandsquantum bei Verkauf. Triebenfeld soll bald mit Brzechffa kommen, der mehrere tausend Rthl mitbringen soll. Der Güterhandel mit Schimmelpfennig stockt. Den Verkaufsplan an Weigelt und Stössel hält er für wenig aussichtsreich. Er wünscht Erfolg in der Oleschnicer und Trąbczyner Sache und hofft auf eine bedeutende Summe."
+ "summary_de": "Der Fürst stellt Bedingungen für Brzechffas Pachtangebot auf die Zagorower Güther: halbjährige Pachtzahlung prenumerando, eine bare Caution, Schutz vor Remissionsklagen, alle Lasten beim Pächter, ein Abstandsquantum bei Verkauf. Triebenfeld soll bald mit Brzechffa kommen, der mehrere tausend Rthl mitbringen soll. Der Güterhandel mit Schimmelpfennig stockt. Den Verkaufsplan an Weigelt und Stössel hält er für wenig aussichtsreich. Er wünscht Erfolg in der Oleschnicer und Trąbczyner Sache und hofft auf eine bedeutende Summe.",
+ "reading": {
+  "letter": "73",
+  "legibility": "partly garbled",
+  "notes": "This is a copy of the Prince's reply of 27 January 1812 from Schlawenschitz to Triebenfeld (called Forstrath), answering his letter of 1 January. It was dictated after he talked it over with H v Weithausen and Bally. It sets the Prince's terms for Brzechffa's lease offer on the Zagorower Güter: rent paid half-yearly in advance, a cash deposit, protection against remission claims, the tenant to bear all charges, and a fixed payment if the estate is sold during the lease. It reports that the Schimmelpfennig exchange has stalled and that he doubts the Weigelt/Stössel sale plan. It blesses the work on the Oleschnicer and Trąbczyner matter and mentions game and a dog. The passage on the 300 rt is garbled.",
+  "claims": [
+   {
+    "statement": "Bedingungen zum Pachtangebot Brzechffas: halbjährige Zahlung prenumerando, bare Caution, Schutz vor Remissions- und Regressklagen, Lasten beim Pächter, Abstandsquantum bei Verkauf",
+    "lines": [
+     12,
+     13,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Triebenfeld soll bald mit Brzechffa kommen, Brzechffa soll mehrere tausend Rthl mitbringen",
+    "lines": [
+     35,
+     36,
+     37,
+     40,
+     41,
+     55,
+     56
+    ]
+   },
+   {
+    "statement": "Güterhandel mit Schimmelpfennig nicht vorangekommen",
+    "lines": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Verkaufsprojekt an Weigelt und Stössel wenig aussichtsreich",
+    "lines": [
+     65,
+     66,
+     67,
+     68,
+     71,
+     72
+    ]
+   },
+   {
+    "statement": "Segenswunsch für die Oleschnicer und Trąbczyner Sache, Hoffnung auf bedeutende Summe",
+    "lines": [
+     75,
+     76,
+     77
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Weithausen",
+    "note": "possibly von Heuthausen (edition list)"
+   },
+   {
+    "line": 7,
+    "word": "schritte",
+    "note": "likely 'schickte'"
+   },
+   {
+    "line": 60,
+    "word": "Portin",
+    "note": "probably 'Partie' or 'Portion'"
+   },
+   {
+    "line": 80,
+    "word": "Erbott",
+    "note": "passage on 300 rt garbled"
+   },
+   {
+    "line": 81,
+    "word": "lese",
+    "note": "probably 'lasse'"
+   },
+   {
+    "line": 87,
+    "word": "Jägerni",
+    "note": "probably 'Jägerei'"
+   },
+   {
+    "line": 35,
+    "word": "bilde",
+    "note": "probably 'balde'"
+   }
+  ],
+  "read_against": "679e93ebde719c33"
+ }
 }

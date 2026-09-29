@@ -308,5 +308,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld warnt vor Gefahren, rät, von der Regierung nichts zu erwarten, und will notfalls nach Petersburg reisen. Knobelsdorffs Tausch sei sicher. Wegen der 35/m Rthl fehle Eberhards Schema. Scharnhorst sprach in Cosel viel wegen des Fürsten; ein angebotenes Stück Geld soll dieser ablehnen. Am 2. will Triebenfeld nach Polen: Cabanis soll eidlich die zu Zagórów gehörenden Gründe beweisen, alle Contracte sollen vorgelegt werden, jeder Erbpächter und Colonist soll Gezahltes und Rückstände anerkennen, und mit Honrichs soll man sich auseinandersetzen."
+ "summary_de": "Triebenfeld warnt vor Gefahren, rät, von der Regierung nichts zu erwarten, und will notfalls nach Petersburg reisen. Knobelsdorffs Tausch sei sicher. Wegen der 35/m Rthl fehle Eberhards Schema. Scharnhorst sprach in Cosel viel wegen des Fürsten; ein angebotenes Stück Geld soll dieser ablehnen. Am 2. will Triebenfeld nach Polen: Cabanis soll eidlich die zu Zagórów gehörenden Gründe beweisen, alle Contracte sollen vorgelegt werden, jeder Erbpächter und Colonist soll Gezahltes und Rückstände anerkennen, und mit Honrichs soll man sich auseinandersetzen.",
+ "reading": {
+  "letter": "206",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Breslau to the Prince after Lombardini's visit. He warns of hidden dangers, says the Prince should expect nothing from this government and should hope for satisfaction from the North, and offers to go to Petersburg himself. Knobelsdorff's exchange (Tausch) is going ahead. On the 35/m rt he is waiting for Eberhard's schema. In Cosel Scharnhorst spoke on the Prince's behalf, and a sum of money was offered, which the Prince should refuse. Triebenfeld has to sell something at Petersdorff because his travel is costly. He plans a trip to Poland on the 2nd with a four-point plan for Zagorowo (Cabanis, the contracts, the settlers' payments, Honrichs) and names Sommer and Hegener as helpers. Several lines are garbled (14, 29, 36-37, 44-46).",
+  "claims": [
+   {
+    "statement": "Triebenfeld warnt vor Gefahren und rät, von der Regierung nichts zu erwarten",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "will notfalls selbst nach Petersburg gehen",
+    "lines": [
+     16
+    ]
+   },
+   {
+    "statement": "Knobelsdorffs Tausch sei sicher",
+    "lines": [
+     13
+    ]
+   },
+   {
+    "statement": "wegen der 35/m Rthl fehlt Eberhards Schema",
+    "lines": [
+     18,
+     19,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Scharnhorst sprach in Cosel für den Fürsten; angebotenes Geld soll abgelehnt werden",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ],
+    "check": "overstated",
+    "why": "Lines 19-20 say only that Scharnhorst spoke a lot in Cosel about the prince ('Ewr Durchlaucht wegen'), not that he spoke in his favour. The money offer and the advice to refuse it are supported (lines 21-22)."
+   },
+   {
+    "statement": "Reise nach Polen am 2.",
+    "lines": [
+     32
+    ]
+   },
+   {
+    "statement": "Plan: Cabanis soll eidlich die zu Zagórów gehörenden Gründe beweisen; Contracte vorlegen; Erbpächter und Colonisten sollen Gezahltes und Rückstände anerkennen; Auseinandersetzung mit Honrichs",
+    "lines": [
+     34,
+     35,
+     36,
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Tatz",
+    "note": "unclear name, possibly Titz"
+   },
+   {
+    "line": 9,
+    "word": "willenen mahl",
+    "note": "probably 'vielleicht einmal'"
+   },
+   {
+    "line": 29,
+    "word": "von gei mal gei 3 frey stellen",
+    "note": "garbled"
+   },
+   {
+    "line": 36,
+    "word": "verurbeachtet",
+    "note": "possibly 'vererbpachtet'"
+   },
+   {
+    "line": 37,
+    "word": "Vorwürde",
+    "note": "probably 'Vorwerke'"
+   },
+   {
+    "line": 43,
+    "word": "erwirt",
+    "note": "probably 'erwirkt'"
+   },
+   {
+    "line": 44,
+    "word": "unterſam",
+    "note": "unclear"
+   },
+   {
+    "line": 46,
+    "word": "verfigiren",
+    "note": "possibly 'verificiren'"
+   },
+   {
+    "line": 12,
+    "word": "an",
+    "note": "probably 'und'"
+   }
+  ],
+  "read_against": "3efb1f9d26e7ebf9"
+ }
 }

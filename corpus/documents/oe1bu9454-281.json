@@ -317,5 +317,96 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet, Stock, dem Bedienten des Hoffraths Barbe, der mit Triebenfelds 3 Pferden Barbes Schwester nach Berlin holen soll, einen Korbwagen zu geben, dazu eine zweispännige Fuhre, die Kisten Glas der Hoffräthe Barbe, Heym und Philippsborn von Prag nach Sławięcice bringen soll. Stägemann hat noch keinen Vortrag gemacht; eine Intrige wird vermutet. Eberhard kann den Vergleich mit den Curischen Erbinnen nicht abschließen. Bei Verlust von Trąbczyn soll der Fürst andere Güter, vielleicht in Schlesien, erhalten."
+ "summary_de": "Triebenfeld bittet, Stock, dem Bedienten des Hoffraths Barbe, der mit Triebenfelds 3 Pferden Barbes Schwester nach Berlin holen soll, einen Korbwagen zu geben, dazu eine zweispännige Fuhre, die Kisten Glas der Hoffräthe Barbe, Heym und Philippsborn von Prag nach Sławięcice bringen soll. Stägemann hat noch keinen Vortrag gemacht; eine Intrige wird vermutet. Eberhard kann den Vergleich mit den Curischen Erbinnen nicht abschließen. Bei Verlust von Trąbczyn soll der Fürst andere Güter, vielleicht in Schlesien, erhalten.",
+ "reading": {
+  "letter": "281",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Vienna to the Prince. Bearer Stock, servant of Hoffrath Barbe, goes to fetch Barbe's sister to Berlin; T. lent 3 horses; asks Prince to give Stock a Korbwagen, and a two-horse cart to carry glass cases of Hoffräthe Barbe, Heym, Philippsborn from Prague to Schlawenschitz; Knecht to return to Blizanow. Stägemann has not reported; intrigue suspected. Eberhard cannot come to conclude settlement with Curische Erbinnen. Pourtalès silent, Polish matter unresolved; if Trąbczyn lost, other estates possibly in Silesia (line 40 wording doubtful). Congress news: Württemberg constitution, Napoleon, intercepted letters.",
+  "claims": [
+   {
+    "statement": "Stock, Bedienter des Hoffraths Barbe, soll mit Triebenfelds 3 Pferden Barbes Schwester nach Berlin holen; Bitte um Korbwagen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Zweispännige Fuhre soll Kisten Glas der Hoffräthe Barbe, Heym, Philippsborn von Prag nach Sławięcice bringen",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Stägemann hat noch keinen Vortrag gemacht; Intrige vermutet",
+    "lines": [
+     25,
+     26
+    ],
+    "check": "overstated",
+    "why": "Zeile 25 bestätigt, dass kein Vortrag gemacht wurde. Nach Zeile 26 halten aber 'jede Freunde' eine Intrige für wahrscheinlich. Die Vermutung wird also nicht ausdrücklich Triebenfeld allein zugeschrieben."
+   },
+   {
+    "statement": "Eberhard kann den Vergleich mit den Curischen Erbinnen nicht abschließen",
+    "lines": [
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Bei Verlust von Trąbczyn andere Güter, vielleicht in Schlesien",
+    "lines": [
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "Gehaupt",
+    "note": "unclear, perhaps Geheimen"
+   },
+   {
+    "line": 32,
+    "word": "zogt",
+    "note": "garbled, perhaps jezt"
+   },
+   {
+    "line": 42,
+    "word": "meldigen",
+    "note": "probably melden"
+   },
+   {
+    "line": 40,
+    "word": "nichts",
+    "note": "sense suggests 'nun' or 'nur'; negation doubtful"
+   },
+   {
+    "line": 40,
+    "word": "Trąbczyner",
+    "note": "probably Trąbczyn"
+   },
+   {
+    "line": 21,
+    "word": "waarzug",
+    "note": "garbled passage"
+   },
+   {
+    "line": 31,
+    "word": "Ließen Berg",
+    "note": "garbled passage lines 31-37"
+   }
+  ],
+  "read_against": "5c631460a4dd7b6a"
+ }
 }

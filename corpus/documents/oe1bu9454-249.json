@@ -227,5 +227,91 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bestätigt zwei Schreiben des Fürsten. Hoffrath Hahns Aufsatz könne der Eingabe nicht mehr beigefügt werden, da diese schon Seiner Majestät vorliege. Er brauche rasch 12000 Rthl zum Abschluss mit den Bevollmächtigten; danach würden 100000 Rthl in Berlin angewiesen. Humboldts Wohlwollen belege die Beilage. Gärtner soll dem Kongress eine Schrift zu den hohenlohischen Gravamina übergeben. Göschels Vollmacht soll der Fürst ohne Namen ausfertigen; Triebenfeld will Göschel oder Gärtner eintragen."
+ "summary_de": "Triebenfeld bestätigt zwei Schreiben des Fürsten. Hoffrath Hahns Aufsatz könne der Eingabe nicht mehr beigefügt werden, da diese schon Seiner Majestät vorliege. Er brauche rasch 12000 Rthl zum Abschluss mit den Bevollmächtigten; danach würden 100000 Rthl in Berlin angewiesen. Humboldts Wohlwollen belege die Beilage. Gärtner soll dem Kongress eine Schrift zu den hohenlohischen Gravamina übergeben. Göschels Vollmacht soll der Fürst ohne Namen ausfertigen; Triebenfeld will Göschel oder Gärtner eintragen.",
+ "reading": {
+  "letter": "249",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Vienna during the Congress to the Prince. He acknowledges two letters. Hahn's paper cannot be added to the petition because the petition is already before the King. He needs 12000 rt quickly to settle with the plenipotentiaries (\"kurz\" is probably a misreading of \"Curischen\"), after which 100000 rt would be assigned in Berlin. The Staats Kanzler supports the Prince, and Humboldt's goodwill is shown by the enclosure (doc 250). Gärtner will submit a paper on the Hohenlohe gravamina, and the mediatised houses are to regain their prerogatives. There is gossip about a secret conference, the monarchs' journey and Poland. Göschel's power of attorney is to be executed with the name left blank. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bestätigt zwei Schreiben des Fürsten.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Hoffrath Hahns Aufsatz könne der Eingabe nicht mehr beigefügt werden, da diese schon dem König vorliege.",
+    "lines": [
+     9,
+     10,
+     11
+    ],
+    "check": "overstated",
+    "why": "Der Brief sagt nur „Sr Majeſtät“; welcher Monarch gemeint ist, sagt er nicht. „König“ ist eine Deutung."
+   },
+   {
+    "statement": "Er brauche rasch 12000 Rthl zum Abschluss mit den Bevollmächtigten; danach würden 100000 Rthl in Berlin angewiesen.",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Humboldts Wohlwollen belege die Beilage.",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Gärtner soll dem Kongress eine Schrift zu den hohenlohischen Gravamina übergeben.",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Göschels Vollmacht soll der Fürst ohne Namen ausfertigen; Triebenfeld will Göschel oder Gärtner eintragen.",
+    "lines": [
+     34,
+     35,
+     36,
+     37,
+     38
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "kurz",
+    "note": "Probably 'Curischen' (the Curische Erben/Mandatarien of doc 251)."
+   },
+   {
+    "line": 20,
+    "word": "ungene",
+    "note": "Unclear adjective, perhaps 'eigene'."
+   },
+   {
+    "line": 26,
+    "word": "Wessling",
+    "note": "Possibly a misreading of Wessenberg."
+   },
+   {
+    "line": 38,
+    "word": "heran",
+    "note": "Possibly 'hinein' or 'herein'."
+   },
+   {
+    "line": 32,
+    "word": "heiß",
+    "note": "Possibly 'heißt'."
+   }
+  ],
+  "read_against": "9028698bb6d6e800"
+ }
 }

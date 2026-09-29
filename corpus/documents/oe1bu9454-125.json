@@ -99,5 +99,43 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Meldet, dass die Leute aus Oleśnica mit den Geldern angekommen sind und um 4 Uhr beim Fürsten erscheinen wollen. v. Triebenfeld hat bereits mit ihnen verhandelt. Er will dem Fürsten am Nachmittag darüber Vortrag halten und glaubt, es werde ihm nicht unlieb sein."
+ "summary_de": "Meldet, dass die Leute aus Oleśnica mit den Geldern angekommen sind und um 4 Uhr beim Fürsten erscheinen wollen. v. Triebenfeld hat bereits mit ihnen verhandelt. Er will dem Fürsten am Nachmittag darüber Vortrag halten und glaubt, es werde ihm nicht unlieb sein.",
+ "reading": {
+  "letter": "125",
+  "legibility": "sound",
+  "notes": "Short note from Triebenfeld in Breslau to the Prince. The people from Oleśnica have arrived with the money and will call on the Prince at 4 o'clock. Triebenfeld has already negotiated something with them, will report on it in the afternoon, and thinks the Prince will not be displeased. Nothing about Trąbczyn. The writer's grammar is nonstandard throughout (\"mit die Gelder\", \"mit sie\"), so \"im 4 Uhr\" may be his own wording and is not corrected. \"Euer Durchlaucht\" is an acceptable form.",
+  "claims": [
+   {
+    "statement": "Die Leute aus Oleśnica sind mit den Geldern angekommen und wollen um 4 Uhr beim Fürsten erscheinen.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "v. Triebenfeld hat mit ihnen verhandelt und will am Nachmittag darüber Vortrag halten.",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Er glaubt, es werde dem Fürsten nicht unlieb sein.",
+    "lines": [
+     9,
+     10
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "im",
+    "note": "The sense requires 'um 4 Uhr'. This may be a misreading, but it may also be the writer's own nonstandard grammar, so it is not corrected."
+   }
+  ],
+  "read_against": "ad6e3e855e33696c"
+ }
 }

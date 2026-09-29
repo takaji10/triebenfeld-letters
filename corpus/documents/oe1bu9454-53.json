@@ -216,5 +216,106 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass in der Erbschaftsangelegenheit noch keine Resolution ergangen ist; die Sache liegt mit dem Gutachten des Cabinets Rath Albrecht bei Großkanzler Beyme. Er drängt den Fürsten, in seiner Kriegssache offen an den König zu schreiben und um Beendigung zu bitten. Major von Pirch sei sein treuester Freund. Massenbachs Sache hängt am fieberkranken Scharnhorst. Dazu Kriegsnachrichten: Russland breche die diplomatischen Verhandlungen mit Österreich ab, Schill habe 2 Regimenter zusammengehauen und 4 Kanonen genommen."
+ "summary_de": "Triebenfeld meldet, dass in der Erbschaftsangelegenheit noch keine Resolution ergangen ist; die Sache liegt mit dem Gutachten des Cabinets Rath Albrecht bei Großkanzler Beyme. Er drängt den Fürsten, in seiner Kriegssache offen an den König zu schreiben und um Beendigung zu bitten. Major von Pirch sei sein treuester Freund. Massenbachs Sache hängt am fieberkranken Scharnhorst. Dazu Kriegsnachrichten: Russland breche die diplomatischen Verhandlungen mit Österreich ab, Schill habe 2 Regimenter zusammengehauen und 4 Kanonen genommen.",
+ "reading": {
+  "letter": "53",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Königsberg to the Prince, answering his letters of the 24th and 29th of last month. The inheritance matter is still unresolved and lies with Beyme, together with Albrecht's opinion. The Auspfändung affair will go as the Prince wishes. On the Prince's military case, Triebenfeld urges him to write openly to the King; he praises Major von Pirch, and Köckritz is well-meaning. Massenbach's case depends on Scharnhorst, who is ill. The letter closes with war news: Austrian losses, Russia breaking off talks with Austria, and Schill's raid. Nothing concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "In der Erbschaftsangelegenheit ist noch keine Resolution ergangen; die Sache liegt mit dem Gutachten Albrechts bei Beyme.",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er drängt den Fürsten, an den König zu schreiben und um Beendigung seiner Sache zu bitten.",
+    "lines": [
+     13,
+     14,
+     15,
+     29,
+     30,
+     31,
+     52
+    ]
+   },
+   {
+    "statement": "Major von Pirch ist der treueste Freund des Fürsten.",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Massenbach beruft sich auf Scharnhorst, der Fieber hat.",
+    "lines": [
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Russland bricht die diplomatischen Verhandlungen mit Österreich ab.",
+    "lines": [
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Schill hat 2 Regimenter zusammengehauen und 4 Kanonen genommen.",
+    "lines": [
+     46,
+     47,
+     48
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 35,
+    "word": "Stelle",
+    "note": "wohl 'Sichere'; 'Armen' wohl 'Armeen'"
+   },
+   {
+    "line": 38,
+    "word": "Er Consul",
+    "note": "wohl 'Ex Consul' oder 'französische Consul'"
+   },
+   {
+    "line": 41,
+    "word": "Muße",
+    "note": "wohl 'Rußische'"
+   },
+   {
+    "line": 49,
+    "word": "Trun zum",
+    "note": "wohl 'Truppen schon'"
+   },
+   {
+    "line": 29,
+    "word": "die selbst-folgen",
+    "note": "verderbt, etwa 'Sie, folgen Sie'"
+   },
+   {
+    "line": 32,
+    "word": "Haus fremder Sünde",
+    "note": "unverständlich"
+   },
+   {
+    "line": 50,
+    "word": "Hanna[?]",
+    "note": "unklar, etwa 'Hannöverschen'"
+   },
+   {
+    "line": 25,
+    "word": "hingegt",
+    "note": "wohl 'hinlenkt/hinführt'"
+   }
+  ],
+  "read_against": "5772076695ca1e43"
+ }
 }

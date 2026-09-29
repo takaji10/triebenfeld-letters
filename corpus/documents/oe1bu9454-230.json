@@ -207,5 +207,124 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Fürst beklagt, dass Triebenfeld den selbst gesetzten Termin des 8. versäumt hat, mit Brzechffa zu ihm zu kommen. Da er aus den Gütern nichts bezieht, will er das Kaufinteresse des Generals von Schimmelpfennig an Zagórów nutzen, der Anfang März besichtigen will. Er verlangt bestimmte Antwort und Geldhilfe. Gegen die Verpachtung an Brzechffa hat er nichts, drängt aber auf Eile, da er beim König eine Kommission zur Regelung seiner Schulden erbeten hat."
+ "summary_de": "Der Fürst beklagt, dass Triebenfeld den selbst gesetzten Termin des 8. versäumt hat, mit Brzechffa zu ihm zu kommen. Da er aus den Gütern nichts bezieht, will er das Kaufinteresse des Generals von Schimmelpfennig an Zagórów nutzen, der Anfang März besichtigen will. Er verlangt bestimmte Antwort und Geldhilfe. Gegen die Verpachtung an Brzechffa hat er nichts, drängt aber auf Eile, da er beim König eine Kommission zur Regelung seiner Schulden erbeten hat.",
+ "reading": {
+  "letter": "230",
+  "legibility": "partly garbled",
+  "notes": "This is a draft or set of fragments from Prince Hohenlohe to Triebenfeld. (1) Lines 2-54: he complains that Triebenfeld missed his own date, the 8th, for coming with Brzechffa. The Prince gets nothing from the estates and his son is arriving soon. General von Schimmelpfennig wants to acquire Zagórów and will view it in early March. The Prince asks for a definite answer and for money. (2) Lines 55-83: a fragment. Someone (\"p Sommer\", line 71) is being sent to confer openly with Triebenfeld or to come back with him. The Prince wants exact knowledge of the estates because of a \"Commission\". (3) Lines 84-115: his letter of the 19th of the previous month went unanswered. He asks for the deed of gift (\"Trapergner\", garbled) and for a plan for Zagórów. He does not object to leasing to Brzechffa but urges haste, because he has asked the King for a commission to settle his debts.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hat den selbst gesetzten Termin des 8. versäumt, mit Brzechffa zu kommen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Der Fürst bezieht nichts aus den Gütern",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "General von Schimmelpfennig will Zagórów erwerben und Anfang März besichtigen",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Bitte um bestimmte Antwort und Geldhilfe",
+    "lines": [
+     40,
+     41,
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Keine Einwände gegen Verpachtung an Brzechffa, aber Eile nötig",
+    "lines": [
+     96,
+     97,
+     98,
+     99,
+     100,
+     101,
+     102,
+     103,
+     104
+    ]
+   },
+   {
+    "statement": "Beim König Kommission zur Regelung des Schuldenwesens erbeten",
+    "lines": [
+     105,
+     106,
+     107,
+     108,
+     109,
+     110,
+     111
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 26,
+    "word": "scheint",
+    "note": "probably 'schrieb'"
+   },
+   {
+    "line": 56,
+    "word": "übergangen",
+    "note": "probably 'überzeugen'"
+   },
+   {
+    "line": 61,
+    "word": "Ehrer",
+    "note": "probably 'Ehren'"
+   },
+   {
+    "line": 63,
+    "word": "Lieutent binnen",
+    "note": "garbled, likely rank + name"
+   },
+   {
+    "line": 68,
+    "word": "Strügung meiner Molike[?]",
+    "note": "garbled, perhaps 'Prüfung meiner Motive'"
+   },
+   {
+    "line": 76,
+    "word": "demgend",
+    "note": "probably 'dringend'"
+   },
+   {
+    "line": 88,
+    "word": "Trapergner",
+    "note": "garbled name of the deed of gift, perhaps Trąbczyner"
+   },
+   {
+    "line": 110,
+    "word": "Körpern",
+    "note": "probably 'binnen Kurzem'"
+   },
+   {
+    "line": 89,
+    "word": "H.",
+    "note": "'welches soliden Project H.' garbled, perhaps 'Ew. H. mit'"
+   }
+  ],
+  "read_against": "07834108517ab922"
+ }
 }

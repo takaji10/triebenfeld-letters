@@ -463,5 +463,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Meldet den gewonnenen Prozess gegen die Wrąbczyner Bauern: Kontrakt kassiert, Rückstände zu zahlen, Exmission möglich. Die Reise mit Brzechffa nach Sławięcice verschiebt sich, da er und Präfekt Garczynski nach Warszawa berufen wurden; Brzechffa bringt 2 bis 3000 Rthl, der Fürst soll über den Pachtkontrakt für Zagórów entscheiden. Die Trąbczyner Sache soll vor die Rada Stanu. Trotz 80000 Rthl Schulden wären die Güter schuldenfrei, wenn die alten Hauländer 40000 Rthl für den Wald zahlen und die Dąbska Schadenersatz leisten muss."
+ "summary_de": "Meldet den gewonnenen Prozess gegen die Wrąbczyner Bauern: Kontrakt kassiert, Rückstände zu zahlen, Exmission möglich. Die Reise mit Brzechffa nach Sławięcice verschiebt sich, da er und Präfekt Garczynski nach Warszawa berufen wurden; Brzechffa bringt 2 bis 3000 Rthl, der Fürst soll über den Pachtkontrakt für Zagórów entscheiden. Die Trąbczyner Sache soll vor die Rada Stanu. Trotz 80000 Rthl Schulden wären die Güter schuldenfrei, wenn die alten Hauländer 40000 Rthl für den Wald zahlen und die Dąbska Schadenersatz leisten muss.",
+ "reading": {
+  "letter": "72a",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kopojno to the Prince. The lease of the Zagórów estates to Podprefect Brzechffa has been concluded. The joint trip to Schlawenschitz is postponed because Brzechffa and Prefect Garczynski were called to Warsaw; they will now leave after 11/12 March, and Brzechffa will bring 2-3000 rt. The Prince won the case against the Wrąbczyn peasants at the Tribunal. The Olesnicer case is expected to be won too. The Trąbczyn case is to go before the Rada Stanu. Triebenfeld sets out a calculation: 80000 Rthl of debts, 40000 rt from the old Hauländer for the forest, and the Dąbska owing damages and 6 years of revenue, against estates worth 300000 rt. He also reports heavy levies.",
+  "claims": [
+   {
+    "statement": "Prozess gegen Wrąbczyner Bauern gewonnen, Kontrakt kassiert, Rückstände zu zahlen, Exmission möglich",
+    "lines": [
+     23,
+     24,
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Reise nach Sławięcice verschoben, Garczynski und Brzechffa nach Warszawa berufen",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Brzechffa bringt 2 bis 3000 Rthl; der Fürst entscheidet über den Pachtkontrakt für Zagórów",
+    "lines": [
+     3,
+     4,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Trąbczyner Sache soll vor die Rada Stanu",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "80000 Rthl Schulden; alte Hauländer 40000 Rthl für den Wald; Dąbska Schadenersatz; dann schuldenfrei",
+    "lines": [
+     50,
+     51,
+     52,
+     53,
+     54,
+     55
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "rali",
+    "note": "probably 'rati' (sub spe rati)"
+   },
+   {
+    "line": 9,
+    "word": "schritete",
+    "note": "probably 'scheiterte'"
+   },
+   {
+    "line": 16,
+    "word": "rahlichabiren",
+    "note": "probably 'ratihabiren'"
+   },
+   {
+    "line": 18,
+    "word": "Rückunft",
+    "note": "Rückkunft"
+   },
+   {
+    "line": 28,
+    "word": "Burgruf",
+    "note": "perhaps a bailiff title (Burggraf/Woźny?)"
+   },
+   {
+    "line": 32,
+    "word": "Kerlsabschließen",
+    "note": "garbled"
+   },
+   {
+    "line": 34,
+    "word": "weines",
+    "note": "perhaps 'wie'"
+   },
+   {
+    "line": 40,
+    "word": "sondern",
+    "note": "perhaps 'sondiren'"
+   },
+   {
+    "line": 47,
+    "word": "Schlähre",
+    "note": "garbled"
+   },
+   {
+    "line": 57,
+    "word": "ihr",
+    "note": "perhaps 'der'"
+   }
+  ],
+  "read_against": "1b46465a56ccef29"
+ }
 }

@@ -205,5 +205,110 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass die Familie Prusimski Trąbczyn und Kamionna mit Gewalt an sich genommen hat. Er hat nur Protestationen einlegen lassen, um die von ihm eingetragene Summa zu sichern, erwartet aber vorerst Abweisung. Die Antwort Napoleons auf ein Schreiben der Generalin v. Sanitz, der man die Güter ihres Gemahls nahm, werde als Norm dienen. Er will morgen nach Memel reisen, vielleicht nach St Petersburg, und hofft über Kaiser Alexander oder Großfürst Constantin Hilfe zu erreichen."
+ "summary_de": "Triebenfeld meldet, dass die Familie Prusimski Trąbczyn und Kamionna mit Gewalt an sich genommen hat. Er hat nur Protestationen einlegen lassen, um die von ihm eingetragene Summa zu sichern, erwartet aber vorerst Abweisung. Die Antwort Napoleons auf ein Schreiben der Generalin v. Sanitz, der man die Güter ihres Gemahls nahm, werde als Norm dienen. Er will morgen nach Memel reisen, vielleicht nach St Petersburg, und hofft über Kaiser Alexander oder Großfürst Constantin Hilfe zu erreichen.",
+ "reading": {
+  "letter": "27",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Breslau. The Prusimski family has taken Trąbczyn and Kaemen (Kamionna) by force. He has only lodged protests to secure the sum registered in his name, and expects them to be rejected for now. Generalin v. Sanitz has written to Napoleon about her husband's estates (lines 22-23 garbled), and her answer is to serve as the norm for the Prince's case. He is leaving for Memel tomorrow, perhaps going on to Petersburg, and hopes for help from Alexander or Grand Duke Constantin. The King and Queen revere the Prince but cannot help. Several garbled words in the passage from line 18 to line 43.",
+  "claims": [
+   {
+    "statement": "Die Familie Prusimski hat Trąbczyn und Kamionna mit Gewalt genommen.",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Er hat nur Protestationen einlegen lassen, um die von ihm eingetragene Summa zu sichern, und erwartet vorerst Abweisung.",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Die Generalin v. Sanitz, der man die ihrem Gemahl verliehenen Güter nahm, schrieb an Napoleon; die Antwort werde als Norm dienen.",
+    "lines": [
+     20,
+     21,
+     22,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Er will morgen nach Memel reisen, vielleicht nach St Petersburg oder dorthin, wo Kaiser Alexander ist.",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Er hofft, über Großfürst Constantin oder Alexander Hilfe zu erreichen.",
+    "lines": [
+     30,
+     31,
+     32,
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 18,
+    "word": "Heppige",
+    "note": "probably 'jetzige'"
+   },
+   {
+    "line": 19,
+    "word": "Ander",
+    "note": "probably 'Anker'"
+   },
+   {
+    "line": 19,
+    "word": "baar",
+    "note": "probably 'baue'"
+   },
+   {
+    "line": 22,
+    "word": "im Erklärung",
+    "note": "lines 22-23 garbled ('weil er nur alle, dem Wibicki das Gut Maniecki'); names uncertain"
+   },
+   {
+    "line": 33,
+    "word": "Höst",
+    "note": "probably 'Hof'"
+   },
+   {
+    "line": 35,
+    "word": "Alantons",
+    "note": "unclear, perhaps 'Anverwandten'"
+   },
+   {
+    "line": 39,
+    "word": "Bei",
+    "note": "probably 'Bin' or 'Werde'"
+   },
+   {
+    "line": 40,
+    "word": "Ihre",
+    "note": "probably 'dem' (Constantin)"
+   },
+   {
+    "line": 43,
+    "word": "Söhnen erschloßen",
+    "note": "garbled, perhaps 'Sinnen' / 'erschrecken'"
+   },
+   {
+    "line": 12,
+    "word": "kan werde",
+    "note": "doubled verb, one probably superfluous"
+   }
+  ],
+  "read_against": "a4182348afc07fc0"
+ }
 }

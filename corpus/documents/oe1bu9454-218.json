@@ -618,5 +618,152 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld schlägt vor, die Güter von Zagórów gegen Skorogoszcz des Grafen Wartensleben zu tauschen; Stössel und Weigel sollen Skorogoszcz und eine Hypothek von 207625 Rthl übernehmen. Notfalls will er Blizanow an Wartenslebens ältesten Sohn vertauschen und eine Hypothek von 30000 Rthl auf Konotop beisteuern. Er bittet um schnelle, geheime Antwort, da Wartensleben mit Gumperts verhandelt. Er will die Prozesse mit Oleśnica und Wrąbczyn gewinnen, empfiehlt Heuthausen für die Reste in Pszczew (an 20000 Rthl) und meldet Arreste auf Świniary."
+ "summary_de": "Triebenfeld schlägt vor, die Güter von Zagórów gegen Skorogoszcz des Grafen Wartensleben zu tauschen; Stössel und Weigel sollen Skorogoszcz und eine Hypothek von 207625 Rthl übernehmen. Notfalls will er Blizanow an Wartenslebens ältesten Sohn vertauschen und eine Hypothek von 30000 Rthl auf Konotop beisteuern. Er bittet um schnelle, geheime Antwort, da Wartensleben mit Gumperts verhandelt. Er will die Prozesse mit Oleśnica und Wrąbczyn gewinnen, empfiehlt Heuthausen für die Reste in Pszczew (an 20000 Rthl) und meldet Arreste auf Świniary.",
+ "reading": {
+  "letter": "218",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld (Blizanow) to Prince Hohenlohe. Heuthausen will present reports. Plan: exchange the Zagórów estates with General Graf Wartensleben for Schurgast (Skorogoszcz): Schurgast 207000 rt, 92000 rt debts, 115000 net; Zagórów valued at 560000 rt with 237375 rt debts, 322625 net; after deducting 115000 a mortgage of 207625 rt remains. Stössel and Weigel are to take Schurgast and the mortgage. If the debts are higher, Triebenfeld would trade Blizanow with Wartensleben's eldest son and add a 30000 rt mortgage on Kontop. He wants a quick, secret answer because Wartensleben is negotiating with Gumperts. Also: lawsuits with Olesnica and Wrąbczyn, arrears in Betsche (20000 rt), Heuthausen recommended, Schweinern under arrest, his own hardship.",
+  "claims": [
+   {
+    "statement": "Vorschlag, die Güter von Zagórów gegen Skorogoszcz des Grafen Wartensleben zu tauschen",
+    "lines": [
+     15,
+     18
+    ]
+   },
+   {
+    "statement": "Stössel und Weigel sollen Skorogoszcz und eine Hypothek von 207625 Rthl übernehmen",
+    "lines": [
+     22,
+     23,
+     24,
+     26
+    ]
+   },
+   {
+    "statement": "Notfalls Tausch von Blizanow mit Wartenslebens ältestem Sohn und Hypothek von 30000 Rthl auf Konotop",
+    "lines": [
+     29,
+     30,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Bitte um schnelle, geheime Antwort, da Wartensleben mit Gumperts verhandelt",
+    "lines": [
+     39,
+     40,
+     42,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "will die Prozesse mit Oleśnica und Wrąbczyn gewinnen",
+    "lines": [
+     46,
+     47
+    ]
+   },
+   {
+    "statement": "Heuthausen empfohlen für die Reste in Pszczew, an 20000 Rthl",
+    "lines": [
+     64,
+     67,
+     68,
+     69,
+     70,
+     71
+    ]
+   },
+   {
+    "statement": "Arreste auf Świniary",
+    "lines": [
+     74,
+     77
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "Stöck",
+    "note": "probably Stössel (lines 24, 26)"
+   },
+   {
+    "line": 11,
+    "word": "hier durchlaucht",
+    "note": "probably 'Ewr Durchlaucht'"
+   },
+   {
+    "line": 7,
+    "word": "Cabanis",
+    "note": "unclear; perhaps a name or 'Copia'"
+   },
+   {
+    "line": 8,
+    "word": "Außerheiten",
+    "note": "garbled, perhaps 'Aussichten'"
+   },
+   {
+    "line": 9,
+    "word": "um mich als",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 36,
+    "word": "Bewer",
+    "note": "unclear"
+   },
+   {
+    "line": 37,
+    "word": "Witwecke",
+    "note": "garbled"
+   },
+   {
+    "line": 48,
+    "word": "förd",
+    "note": "garbled"
+   },
+   {
+    "line": 56,
+    "word": "Graff[?]",
+    "note": "perhaps 'Groschen'"
+   },
+   {
+    "line": 65,
+    "word": "hingefan",
+    "note": "garbled"
+   },
+   {
+    "line": 66,
+    "word": "Künsel",
+    "note": "doubtful name"
+   },
+   {
+    "line": 66,
+    "word": "Erleuchter",
+    "note": "perhaps 'erläutert'"
+   },
+   {
+    "line": 73,
+    "word": "Bestandurchlaucht",
+    "note": "garbled"
+   },
+   {
+    "line": 79,
+    "word": "Felde",
+    "note": "perhaps 'dulde'"
+   },
+   {
+    "line": 81,
+    "word": "eifschilft",
+    "note": "garbled, perhaps 'aushilft'"
+   }
+  ],
+  "read_against": "87177d217da7c294"
+ }
 }

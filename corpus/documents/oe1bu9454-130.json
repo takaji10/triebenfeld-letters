@@ -245,5 +245,90 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld berichtet, dass noch nichts geschehen ist und einer dem anderen nicht traut. Mit M. Bernhard hat er vereinbart: Er soll die Sache in Pszczew zustande bringen, die Güter bleiben auf den Namen des Fürsten, und Leixner will Kamionna übernehmen, auf den Namen des Fürsten oder Triebenfelds. Leixner ist bedrängt und zufrieden, wenn Triebenfeld ihm seinen Namen leiht. Triebenfeld hat Glenck eine Estafette nachgeschickt, reist nach Berlin, will Sonnabend zurück sein und danach in Pszczew abschließen."
+ "summary_de": "v. Triebenfeld berichtet, dass noch nichts geschehen ist und einer dem anderen nicht traut. Mit M. Bernhard hat er vereinbart: Er soll die Sache in Pszczew zustande bringen, die Güter bleiben auf den Namen des Fürsten, und Leixner will Kamionna übernehmen, auf den Namen des Fürsten oder Triebenfelds. Leixner ist bedrängt und zufrieden, wenn Triebenfeld ihm seinen Namen leiht. Triebenfeld hat Glenck eine Estafette nachgeschickt, reist nach Berlin, will Sonnabend zurück sein und danach in Pszczew abschließen.",
+ "reading": {
+  "letter": "130",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Frankfurt an der Oder. On arrival he finds Glenck has left and Leixner is away. Nothing has been done yet. He has agreed with M. Bernhard (Meyer Bernhard) that he will settle the Betsche (Pszczew) matter, that the estates stay in the Prince's name, and that Leixner takes Kaemen (Kamionna) in the Prince's or Triebenfeld's name. Leixner is in difficulty over the Incolat and Graf Schulenburg; he is content if Triebenfeld lends his name. Triebenfeld sent an estafette after Glenck and goes to Berlin today. He will return Saturday, then go to Betsche, then come to the Prince. Johanni is near. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Noch nichts geschehen, einer traut dem anderen nicht",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Abkommen mit Meyer Bernhard: Pszczew-Sache, Güter auf Namen des Fürsten",
+    "lines": [
+     9,
+     10,
+     11,
+     12
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht nur 'M Bernhard' (Z. 9). Die Auflösung zu 'Meyer' ist erfunden. Der Inhalt des Abkommens (Betscher Sache, Güter bleiben auf dem Namen des Fürsten) ist belegt."
+   },
+   {
+    "statement": "Leixner will Kamionna nehmen, auf Namen des Fürsten oder Triebenfelds",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Leixner bedrängt, zufrieden, wenn Triebenfeld seinen Namen leiht",
+    "lines": [
+     15,
+     16,
+     19
+    ]
+   },
+   {
+    "statement": "Estafette an Glenck, Reise nach Berlin, Rückkehr Sonnabend, dann Pszczew",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24,
+     25
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "bey",
+    "note": "probably 'bin'"
+   },
+   {
+    "line": 5,
+    "word": "nach vielen",
+    "note": "garbled destination"
+   },
+   {
+    "line": 16,
+    "word": "darauf",
+    "note": "probably 'darf'"
+   },
+   {
+    "line": 27,
+    "word": "dem",
+    "note": "probably 'denn'"
+   },
+   {
+    "line": 36,
+    "word": "Dein",
+    "note": "probably 'Diener'"
+   },
+   {
+    "line": 11,
+    "word": "Durch Nähmen",
+    "note": "probably 'Durchlaucht Nahmen'"
+   }
+  ],
+  "read_against": "e83d40161fc55741"
+ }
 }

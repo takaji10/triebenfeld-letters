@@ -464,5 +464,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kann keine neue Nachweisung schicken; in der vor 2 Jahren übersandten seien nur die Trąbczyner Revenuen abzuziehen. Die Einkünfte der Herrschaft Zagórów beziffert er auf 27700 Rthl jährlich, die Schulden auf 148,800 Rthl, sodass 20260 Rthl blieben. Oppenheimer hat die 50000 Rthl an die Invaliden Casse nicht bezahlt; Triebenfeld hat ihn verklagt. Die Trąbczyner Güter hält er nicht für verloren. Er hatte 200000 Rthl aus Holland in Aussicht und bittet um baldige Nachricht über Aussichten des Fürsten."
+ "summary_de": "Triebenfeld kann keine neue Nachweisung schicken; in der vor 2 Jahren übersandten seien nur die Trąbczyner Revenuen abzuziehen. Die Einkünfte der Herrschaft Zagórów beziffert er auf 27700 Rthl jährlich, die Schulden auf 148,800 Rthl, sodass 20260 Rthl blieben. Oppenheimer hat die 50000 Rthl an die Invaliden Casse nicht bezahlt; Triebenfeld hat ihn verklagt. Die Trąbczyner Güter hält er nicht für verloren. Er hatte 200000 Rthl aus Holland in Aussicht und bittet um baldige Nachricht über Aussichten des Fürsten.",
+ "reading": {
+  "letter": "32",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld (Berlin) answers the Prince's letter of 23 March: sends no new statement, refers to the one of 2 years ago minus Trąbczyn revenues; lists Zagórów revenues (27700 rt), debts (148,800 rt, interest 7440 rt, surplus 20260 rt); Oppenheimer holds hypothec of 250,000 rt, has not paid 50000 rt to Invaliden Casse, sued; arrears on estates, he got nothing in 2 years; Trąbczyn estates not lost; Kaemen matter; 200000 rt capital from Holland in prospect, asks Prince for quick answer. Partly garbled, esp. lines 45-58, 63-80.",
+  "claims": [
+   {
+    "statement": "Keine neue Nachweisung möglich; in der vor 2 Jahren erhaltenen sind nur die Trąbczyner Revenuen abzuziehen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Einkünfte Zagórów 27700 Rthl jährlich",
+    "lines": [
+     10,
+     26
+    ]
+   },
+   {
+    "statement": "Schulden 148,800 Rthl, Zinsen 7440, Überschuss 20260 Rthl",
+    "lines": [
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Oppenheimer hat 50000 Rthl an Invaliden Casse nicht bezahlt; verklagt",
+    "lines": [
+     36,
+     37,
+     49,
+     50,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Trąbczyner Güter nicht verloren",
+    "lines": [
+     76,
+     77
+    ]
+   },
+   {
+    "statement": "Kapital von 200000 Rthl aus Holland in Aussicht; bittet um baldige Antwort",
+    "lines": [
+     84,
+     85,
+     86,
+     87,
+     88,
+     89,
+     90,
+     91
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 45,
+    "word": "Wir auf",
+    "note": "probably 'Worauf'/'Hierauf'"
+   },
+   {
+    "line": 47,
+    "word": "gewöhnet",
+    "note": "probably 'bedungen'/'ausbedungen'"
+   },
+   {
+    "line": 55,
+    "word": "hier durchlaucht",
+    "note": "probably 'Ewr Durchlaucht'"
+   },
+   {
+    "line": 58,
+    "word": "unschende",
+    "note": "unclear"
+   },
+   {
+    "line": 63,
+    "word": "Ein dem Flauche Eröhn",
+    "note": "garbled; possibly 'an Ew. Durchlaucht ...'"
+   },
+   {
+    "line": 69,
+    "word": "Haaren",
+    "note": "unclear"
+   },
+   {
+    "line": 72,
+    "word": "wurren Vorte",
+    "note": "garbled"
+   },
+   {
+    "line": 75,
+    "word": "möchte",
+    "note": "probably 'erschöpft'/'machtlos'"
+   }
+  ],
+  "read_against": "8b0ea55a658b66ec"
+ }
 }

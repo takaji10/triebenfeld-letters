@@ -405,5 +405,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld schickt ein beunruhigendes Schreiben Eberhards aus Brzeg und bittet es zurück. Stägemann hat die Sache noch nicht vorgetragen, Hardenberg hat erneut Hilfe zugesagt. Verlangt habe er stets nur 112000 Rthl zur Befriedigung der Curischen Erben und Verwaltung der Güter unter dem Fürsten. Er bittet dringend, Eberhard für einen Vergleich mit den Prinzessinnen nach Wien zu senden. Die Eingabe wegen der polnischen Güter ist fertig, es fehlen Befehl des Staatskanzlers und Geld für Übersetzungen."
+ "summary_de": "Triebenfeld schickt ein beunruhigendes Schreiben Eberhards aus Brzeg und bittet es zurück. Stägemann hat die Sache noch nicht vorgetragen, Hardenberg hat erneut Hilfe zugesagt. Verlangt habe er stets nur 112000 Rthl zur Befriedigung der Curischen Erben und Verwaltung der Güter unter dem Fürsten. Er bittet dringend, Eberhard für einen Vergleich mit den Prinzessinnen nach Wien zu senden. Die Eingabe wegen der polnischen Güter ist fertig, es fehlen Befehl des Staatskanzlers und Geld für Übersetzungen.",
+ "reading": {
+  "letter": "276",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Hohenlohe. The Curische Erben matter: Justizcommissarius Eberhard (Brieg) sent disturbing news, enclosed. Nothing has been decided yet; the file is with Stägemann. Hardenberg promises help and Fürst Bartenstein will remind him. Triebenfeld has asked only for 112000 rt and for administration of the estates under the Prince's aegis. He urges that Eberhard be sent to Vienna to settle with the princesses. He explains that the King's answer to the three ladies was a political move drafted by Humboldt. Congress news: the King of Saxony is in Pressburg, and the monarchs' travel plans. The petition about the Polish estates is ready but needs the Chancellor's order and money for translations. Nothing about Trąbczyn specifically.",
+  "claims": [
+   {
+    "statement": "Schickt Eberhards Schreiben aus Brzeg mit und bittet es zurück",
+    "lines": [
+     5,
+     6,
+     58,
+     59
+    ]
+   },
+   {
+    "statement": "Stägemann hat noch keinen Vortrag gehabt",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Hardenberg hat erneut Hilfe zugesagt",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Nur 112000 Rthl für Curische Erben und Administration der Güter verlangt",
+    "lines": [
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Bittet, Eberhard zum Vergleich mit den Prinzessinnen nach Wien zu senden",
+    "lines": [
+     19,
+     20,
+     21,
+     22,
+     41
+    ]
+   },
+   {
+    "statement": "Königliche Antwort sei eine von Humboldt entworfene politische Wendung",
+    "lines": [
+     25,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Eingabe wegen polnischer Güter fertig; wartet auf Befehl des Staatskanzlers und Geld für Übersetzungen",
+    "lines": [
+     56,
+     57
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "ein hell",
+    "note": "garbled, possibly 'um hell zu sehen'"
+   },
+   {
+    "line": 7,
+    "word": "zermahnt",
+    "note": "unclear word"
+   },
+   {
+    "line": 22,
+    "word": "herr",
+    "note": "probably 'her'"
+   },
+   {
+    "line": 37,
+    "word": "wann",
+    "note": "probably 'man'"
+   },
+   {
+    "line": 41,
+    "word": "von fält und en[...]",
+    "note": "garbled"
+   },
+   {
+    "line": 45,
+    "word": "baut",
+    "note": "probably 'bunt'"
+   },
+   {
+    "line": 54,
+    "word": "bey von sie",
+    "note": "garbled, probably 'wo sie'"
+   }
+  ],
+  "read_against": "f8a1cff3eac57048"
+ }
 }

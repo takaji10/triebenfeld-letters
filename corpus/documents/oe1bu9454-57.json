@@ -442,5 +442,142 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld kann aus Geldmangel nicht berichten kommen: Unterwegs wurde ihm ein Koffer im Wert von über 800 Rthl gestohlen. Das Eisen liegt in Konotop; die restlichen 400 Centner reichen nicht, um an von der Lahr die 3000 Rthl zu zahlen. Aus Königsberg: Der König befahl, den Fürsten zu schonen; in der Erbschaftssache soll Hoyok in Warszawa nach dem Testament forschen. Nach Entscheidung seiner Sache soll der Fürst General Gouverneur von Schlesien werden."
+ "summary_de": "Triebenfeld kann aus Geldmangel nicht berichten kommen: Unterwegs wurde ihm ein Koffer im Wert von über 800 Rthl gestohlen. Das Eisen liegt in Konotop; die restlichen 400 Centner reichen nicht, um an von der Lahr die 3000 Rthl zu zahlen. Aus Königsberg: Der König befahl, den Fürsten zu schonen; in der Erbschaftssache soll Hoyok in Warszawa nach dem Testament forschen. Nach Entscheidung seiner Sache soll der Fürst General Gouverneur von Schlesien werden.",
+ "reading": {
+  "letter": "57",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Świniary (Schweinern) after coming back from Königsberg. He is out of money: he was robbed on the road and has distraint (Execution) in his house. Money matters: the iron meant for Lahr is still lying at Konotop, he owes von der Lahr 3000 rt, and he borrowed money for the journey. From Königsberg: the King ordered that the Prince be spared, the inheritance matter is being handled through Hoyok in Warsaw and possibly Danckelmann, and the Prince is to be made General Gouverneur of Silesia. Also mentioned: Scharnhorst and Massenbach, Pirch, Erzherzog Ferdinand and Falkenhausen, the Tugendbund, and his son arrested at Kalisz. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld kann aus Geldmangel nicht persönlich kommen",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Ihm wurde unterwegs ein Koffer mit Geld, Kleidung und Wäsche im Wert von über 800 Rthl gestohlen",
+    "lines": [
+     8,
+     91,
+     92
+    ]
+   },
+   {
+    "statement": "Das Eisen liegt noch in Konotop",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Die restlichen 400 Centner reichen nicht, um von der Lahr die 3000 Rthl zu zahlen",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Der König befahl, den Fürsten zu schonen",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "In der Erbschaftssache soll Hoyok in Warschau nach dem Testament forschen",
+    "lines": [
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Der Fürst soll nach Entscheidung seiner Sache General Gouverneur von Schlesien werden",
+    "lines": [
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Triebenfeld will seinen in Kalisz verhafteten jüngsten Sohn zurückholen",
+    "lines": [
+     59,
+     60
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 29,
+    "word": "geheimstes",
+    "note": "garbled; perhaps 'gereist bin' or similar"
+   },
+   {
+    "line": 30,
+    "word": "sagt",
+    "note": "probably 'sezt' (setzt ihre Hoffnung)"
+   },
+   {
+    "line": 48,
+    "word": "Königern",
+    "note": "probably 'Königin'; 'andere' perhaps 'und andere'"
+   },
+   {
+    "line": 54,
+    "word": "Lahn",
+    "note": "garbled; perhaps 'Kreuz' (zu Kreuze kriechen)"
+   },
+   {
+    "line": 54,
+    "word": "überlittet",
+    "note": "doubtful reading, perhaps 'überlistet'"
+   },
+   {
+    "line": 63,
+    "word": "mit",
+    "note": "perhaps 'nimmt' or 'möchte'"
+   },
+   {
+    "line": 65,
+    "word": "Pohle,",
+    "note": "probably 'Pohlen'"
+   },
+   {
+    "line": 68,
+    "word": "accoutirt",
+    "note": "doubtful reading"
+   },
+   {
+    "line": 79,
+    "word": "Kronebühlten",
+    "note": "probably 'Krone buhlten'"
+   },
+   {
+    "line": 80,
+    "word": "M St.",
+    "note": "abbreviation unclear"
+   },
+   {
+    "line": 97,
+    "word": "Richter",
+    "note": "doubtful; perhaps 'Diener'"
+   },
+   {
+    "line": 105,
+    "word": "Lungenhänd",
+    "note": "probably 'Lumpenhund'"
+   },
+   {
+    "line": 10,
+    "word": "habe",
+    "note": "grammatically 'haben', but it may be the writer's own form"
+   }
+  ],
+  "read_against": "b1f1a516c7a7b102"
+ }
 }

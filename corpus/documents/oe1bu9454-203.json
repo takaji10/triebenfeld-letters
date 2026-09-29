@@ -443,5 +443,132 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld übersendet das Weigel übergebene Exposée zum geplanten Tausch der Güter eines v. Knobelsdorff gegen Pohlnische Güter. Laut Fischbach bleiben den Knobelsdorffschen Gütern netto 310000 Rthl; den Zagorower Gütern (Wert etwa 540000 Rthl, Schulden 247000 Rthl) bleiben 293000 Rthl. Fischbach will den Tausch gegen 1 1/2 Prozent vermitteln. Vielleicht übernimmt Knobelsdorff auch die Trąbczyner Güter samt Schulden und führt den Prozess selbst zu Ende. Triebenfeld bittet um Befehl, ob beide nach Sławięcice kommen sollen."
+ "summary_de": "v. Triebenfeld übersendet das Weigel übergebene Exposée zum geplanten Tausch der Güter eines v. Knobelsdorff gegen Pohlnische Güter. Laut Fischbach bleiben den Knobelsdorffschen Gütern netto 310000 Rthl; den Zagorower Gütern (Wert etwa 540000 Rthl, Schulden 247000 Rthl) bleiben 293000 Rthl. Fischbach will den Tausch gegen 1 1/2 Prozent vermitteln. Vielleicht übernimmt Knobelsdorff auch die Trąbczyner Güter samt Schulden und führt den Prozess selbst zu Ende. Triebenfeld bittet um Befehl, ob beide nach Sławięcice kommen sollen.",
+ "reading": {
+  "letter": "203",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Schweinern. He sends the exposé he gave Weigel, who means the Knobelsdorff estates. He needs 500 rt so he can leave for Zagorów on the 11th, and he is negotiating the sale of Schweinern with the merchants Wiener and Schiller. Postscript: Eberhard says the rumoured exchange of estates with Strachwitz is untrue. Fischbach has passed on valuations of Knobelsdorff's estates, and Knobelsdorff wants to exchange them for Polish estates. There is a balance comparing them with the Zagorów estates. Fischbach wants 1 1/2 % for arranging it. Knobelsdorff might also take the Trąbczyn estates with their debts and pursue the lawsuit himself. Triebenfeld asks for orders on whether Fischbach and Knobelsdorff should come to Sławięcice. The Knobelsdorff sum of 70000 on line 35 does not fit the arithmetic, so it is not used.",
+  "claims": [
+   {
+    "statement": "Übersendet das Weigel gegebene Exposée; Weigel meint die Knobelsdorffschen Güter",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Knobelsdorff will gegen Pohlnische Güter tauschen; Taxen von Fischbach",
+    "lines": [
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Knobelsdorffsche Güter: netto 310000 Rthl",
+    "lines": [
+     38
+    ]
+   },
+   {
+    "statement": "Zagorower Güter Wert 540000 Rthl, Schulden 247000, bleibt 293000",
+    "lines": [
+     39,
+     40,
+     47,
+     48
+    ],
+    "check": "overstated",
+    "why": "Die Zahlen stehen in Z. 39-48, aber die Zusammenfassung schreibt sie Fischbachs Taxen zu. Diese betreffen nur die Güter Knobelsdorffs. Außerdem ist der Wert von 540000 Rthl nur aus dem geschätzten Ertrag abgeleitet ('sollen tragen ... wäre am Werth')."
+   },
+   {
+    "statement": "Fischbach will Tausch vermitteln für 1 1/2 pr Ct",
+    "lines": [
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Knobelsdorff nimmt vielleicht Trąbczyner Güter mit Schulden und führt den Prozess",
+    "lines": [
+     61,
+     62,
+     63
+    ]
+   },
+   {
+    "statement": "Bitte um Befehl, ob Fischbach mit Knobelsdorff nach Sławięcice kommen soll",
+    "lines": [
+     52,
+     53,
+     54,
+     64,
+     65,
+     66
+    ]
+   },
+   {
+    "statement": "Verhandlungen wegen Schweinern mit Kaufmann Wiener und Kaufmann Schiller",
+    "lines": [
+     15,
+     16
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "dH. v Knobelse ortt",
+    "note": "garbled; probably 'dem H. v Knobelsdorff'"
+   },
+   {
+    "line": 14,
+    "word": "vor mitem",
+    "note": "garbled; perhaps 'vorlegen'"
+   },
+   {
+    "line": 44,
+    "word": "Weigelt",
+    "note": "probably Weigel (lines 5, 9)"
+   },
+   {
+    "line": 45,
+    "word": "Seher Thos",
+    "note": "garbled name of a creditor"
+   },
+   {
+    "line": 35,
+    "word": "70000",
+    "note": "the arithmetic (390000 + 310000) implies 700000; not changed"
+   },
+   {
+    "line": 49,
+    "word": "Wertschoben",
+    "note": "garbled; perhaps 'Werth haben'"
+   },
+   {
+    "line": 58,
+    "word": "etwärmigen",
+    "note": "probably 'etwanigen'"
+   },
+   {
+    "line": 65,
+    "word": "rüh",
+    "note": "probably 'früh'"
+   },
+   {
+    "line": 7,
+    "word": "Hainen[?]",
+    "note": "unclear name"
+   },
+   {
+    "line": 16,
+    "word": "Tismar",
+    "note": "possibly Tesmar in edition form; spelled Tismar consistently in the letters"
+   }
+  ],
+  "read_against": "217e26f2e405b611"
+ }
 }

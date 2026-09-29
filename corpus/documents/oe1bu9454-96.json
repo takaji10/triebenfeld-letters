@@ -294,5 +294,99 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet im Auftrag von Obrist v Köckritz, dass der Tausch so gut wie genehmigt sei. Nur die Unpäßlichkeit des Königs verzögere den Abschluss. Für die Reise nach Öhringen rät er, sofort beim König um Urlaub zu bitten, den Brief per Estaffette an ihn zu schicken und über Berlin statt durch Böhmen zu reisen. Wedel in Breslau habe zur Krotoszyner Sache ein lügenhaftes Gutachten abgegeben, ein anderer Herr Krotoszyn 50/m Rthl Tragfähigkeit zugeschrieben. Beyme ließ ihn die Akten lesen."
+ "summary_de": "Triebenfeld meldet im Auftrag von Obrist v Köckritz, dass der Tausch so gut wie genehmigt sei. Nur die Unpäßlichkeit des Königs verzögere den Abschluss. Für die Reise nach Öhringen rät er, sofort beim König um Urlaub zu bitten, den Brief per Estaffette an ihn zu schicken und über Berlin statt durch Böhmen zu reisen. Wedel in Breslau habe zur Krotoszyner Sache ein lügenhaftes Gutachten abgegeben, ein anderer Herr Krotoszyn 50/m Rthl Tragfähigkeit zugeschrieben. Beyme ließ ihn die Akten lesen.",
+ "reading": {
+  "letter": "96",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin an den Fürsten. Er gibt die Botschaft von Obrist v Köckritz weiter: Der Tausch gilt als so gut wie genehmigt, nur die Unpässlichkeit des Königs hält den Vortrag auf. Zur Reise nach Öhringen: Der Fürst soll sofort beim König um Urlaub bitten, den Brief per Estaffette an Triebenfeld schicken und über Berlin reisen, nicht über Böhmen. Zum Secularisations Geschäft ist jetzt nichts zu tun. Echte Freunde sind nur der König, Köckritz und der Prinz von Hessen Darmstadt. Wedel in Breslau hat ein bösartiges Gutachten zur Krotoszyner Sache abgegeben, und ein anderer Herr meinte, Krotoszyn könne 50/m Rthl tragen. Beyme hat Triebenfeld die Akten im Cabinet lesen lassen. Die Zeilen 20 und 61-62 sind verderbt. Mit Trąbczyn hat der Brief nichts zu tun.",
+  "claims": [
+   {
+    "statement": "Köckritz lässt versichern, der Tausch sei so gut wie approbirt und abgeschlossen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Die Unpäßlichkeit des Königs verzögert die Erledigung",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Rat, sofort beim König um Urlaub für die Reise nach Öhringen zu bitten, den Brief per Estaffette an Triebenfeld zu schicken und über Berlin statt durch Böhmen zu reisen",
+    "lines": [
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Wedel in Breslau gab zur Krotoszyner Sache ein lügenhaftes Gutachten ab; ein anderer Herr meinte, Krotoszyn könne 50/m Rthl tragen",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "statement": "Beyme ließ Triebenfeld die Akten im Cabinet lesen",
+    "lines": [
+     59,
+     60
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 20,
+    "word": "Quelle reinen",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 32,
+    "word": "um eile dan",
+    "note": "probably 'und eile dann'"
+   },
+   {
+    "line": 46,
+    "word": "um der Ort",
+    "note": "unclear; perhaps 'nicht der Ort'"
+   },
+   {
+    "line": 61,
+    "word": "Gehirn",
+    "note": "line 61 is garbled, perhaps a line is missing before it"
+   },
+   {
+    "line": 38,
+    "word": "am",
+    "note": "probably 'an'"
+   },
+   {
+    "line": 19,
+    "word": "gemeßen",
+    "note": "probably 'genießen'"
+   }
+  ],
+  "read_against": "0659c6e434a723f5"
+ }
 }

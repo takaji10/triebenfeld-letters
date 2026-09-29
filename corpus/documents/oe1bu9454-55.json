@@ -540,5 +540,151 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, van der Lahr gehe nun auch in Breslau gegen ihn vor. Er wartet auf 1000 Centner Eisen in Konotop. Zur Colonnaschen Erbschaft für die Königin kann Graf Götzen Zeuge sein, rät aber wegen Graf Wratislaw zur Zurückhaltung. Triebenfeld schlägt vor, die Königin solle die Güter von an 3 Millionen Wert nehmen und Wratislaw das Geld lassen. Für Götzen hat er ein Schreiben an die Königin entworfen. Dazu Kriegsnachrichten und Bethusys Schulden von an 500000 Rthl."
+ "summary_de": "Triebenfeld berichtet, van der Lahr gehe nun auch in Breslau gegen ihn vor. Er wartet auf 1000 Centner Eisen in Konotop. Zur Colonnaschen Erbschaft für die Königin kann Graf Götzen Zeuge sein, rät aber wegen Graf Wratislaw zur Zurückhaltung. Triebenfeld schlägt vor, die Königin solle die Güter von an 3 Millionen Wert nehmen und Wratislaw das Geld lassen. Für Götzen hat er ein Schreiben an die Königin entworfen. Dazu Kriegsnachrichten und Bethusys Schulden von an 500000 Rthl.",
+ "reading": {
+  "letter": "55",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Breslau after coming back from Glatz. Van der Lahr is now pursuing him in Breslau too, and he is waiting for 1000 Centner of iron to reach Kontop. The main subject is the Colonna inheritance in favour of the Queen: Götzen is a witness to the will; the Prussian Landrecht on codicils is quoted; the anonymous letter came from Gräfin Henckel. Götzen advises caution because of Graf Wratislaw. Triebenfeld proposes that the Queen take the estates worth 3 million, and he has drafted a letter from Götzen to her. He will then go to Königsberg. Also politics (war, contribution, Rüchel rumour, Massow's resignation) and, in the postscript, Bethusy's debts. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "van der Lahr geht nun auch in Breslau gegen Triebenfeld vor",
+    "lines": [
+     6
+    ]
+   },
+   {
+    "statement": "wartet auf 1000 Centner Eisen in Konotop, ohne die er nicht nach Königsberg reisen kann",
+    "lines": [
+     9,
+     75,
+     76,
+     77,
+     78
+    ],
+    "check": "overstated",
+    "why": "Das Warten auf das Eisen steht in Z. 9. Die Abreise nach Königsberg hängt aber am Schreiben des Grafen (Z. 75-76). Ohne das Eisen müsste er nur 'unthätig liegen bleiben' (Z. 76-78). Der Brief knüpft die Reise nicht ausdrücklich an das Eisen."
+   },
+   {
+    "statement": "Graf Götzen kann Zeuge der Colonnaschen Erbschaft zugunsten der Königin sein",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Götzen rät wegen Graf Wratislaw zur Zurückhaltung",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "statement": "Vorschlag: Königin nimmt Güter im Wert von an 3 Millionen, Wratislaw bleibt das Geld",
+    "lines": [
+     59,
+     60,
+     61,
+     62,
+     63
+    ]
+   },
+   {
+    "statement": "Triebenfeld hat für Götzen ein Schreiben an die Königin entworfen",
+    "lines": [
+     66,
+     67,
+     68
+    ]
+   },
+   {
+    "statement": "Kriegsnachrichten",
+    "lines": [
+     79,
+     80,
+     81,
+     82,
+     85,
+     86
+    ]
+   },
+   {
+    "statement": "Bethusys Güter mit an 500000 Rthl Schulden belastet",
+    "lines": [
+     104,
+     108,
+     109
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "ſniken",
+    "note": "not a German word; perhaps 'Sinken'"
+   },
+   {
+    "line": 18,
+    "word": "Klagen",
+    "note": "probably 'klugen' (Rechts Freundes)"
+   },
+   {
+    "line": 19,
+    "word": "Karten",
+    "note": "probably 'Knoten' (the knot can easily be cut)"
+   },
+   {
+    "line": 20,
+    "word": "Teichulman",
+    "note": "garbled name or word"
+   },
+   {
+    "line": 22,
+    "word": "Gratschreiber",
+    "note": "garbled, probably a name"
+   },
+   {
+    "line": 29,
+    "word": "im Sache",
+    "note": "perhaps 'im Sack'"
+   },
+   {
+    "line": 28,
+    "word": "100000",
+    "note": "conflicts with the 10000 rt on line 34"
+   },
+   {
+    "line": 56,
+    "word": "Höst",
+    "note": "probably 'Hof'"
+   },
+   {
+    "line": 83,
+    "word": "Brint",
+    "note": "perhaps 'Bruit' (Aufsehen)"
+   },
+   {
+    "line": 83,
+    "word": "Armen",
+    "note": "probably 'Armee'"
+   },
+   {
+    "line": 77,
+    "word": "Lauvun[?]",
+    "note": "unclear; perhaps a word for a gun or ship"
+   },
+   {
+    "line": 7,
+    "word": "Höcht",
+    "note": "probably 'höchst'"
+   }
+  ],
+  "read_against": "81633bdd14e670af"
+ }
 }

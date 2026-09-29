@@ -152,5 +152,103 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Obrist v. Köckritz lässt durch v. Triebenfeld versichern, das Tauschgeschäft stehe sehr gut und sei so gut wie beendigt; schreiben will er erst nach dem Abschluss. Der Geheime Cabinets Rath handle nach eigener Aussage gegen seinen Willen auf Wunsch des Souveräns. Mit B sei eine harte Ablehnung geplant worden. Der König ist unpässlich, daher gibt es keinen Vortrag; v. Triebenfeld fürchtet neue Umtriebe von H. v. Voss. Das Säkularisationsgeschäft hält er für einen Köder der Franzosen."
+ "summary_de": "Obrist v. Köckritz lässt durch v. Triebenfeld versichern, das Tauschgeschäft stehe sehr gut und sei so gut wie beendigt; schreiben will er erst nach dem Abschluss. Der Geheime Cabinets Rath handle nach eigener Aussage gegen seinen Willen auf Wunsch des Souveräns. Mit B sei eine harte Ablehnung geplant worden. Der König ist unpässlich, daher gibt es keinen Vortrag; v. Triebenfeld fürchtet neue Umtriebe von H. v. Voss. Das Säkularisationsgeschäft hält er für einen Köder der Franzosen.",
+ "reading": {
+  "letter": "95",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Berlin to Prince Hohenlohe about the planned exchange (Tausch) of estates. Obrist v. Köckritz sends his regards and says the exchange is going very well, as good as settled. The Geheimer Cabinets Rath says he acts against his will, on the sovereign's wish. Triebenfeld attacks the Breslau officials as villains and says a plan with B for a hard refusal was made. The King is unwell, so there is no Vortrag. He fears v. Voss will turn the matter again. The secularisation business is far off, a bait thrown by the French. There is talk of peace with the Kaiser. PS: an estafette will come; the Prince can then write about leave. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Köckritz lässt versichern, das Tauschgeschäft stehe sehr gut und sei so gut wie beendigt",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Köckritz will erst nach dem Abschluss schreiben",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Der Geheime Cabinets Rath handle gegen seinen Willen auf Wunsch des Souveräns",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "In Breslau sei mit B eine harte Ablehnung geplant worden",
+    "lines": [
+     15,
+     16,
+     17,
+     21,
+     22,
+     23
+    ],
+    "check": "overstated",
+    "why": "Zeilen 21-23 sagen nur, der Plan mit B sei im letzten Moment vor der Abreise gemacht worden. Einen Ort nennt der Brief dafür nicht. Breslau kommt nur als 'Breslausche denkart' vor."
+   },
+   {
+    "statement": "Der König ist unpässlich, daher kein Vortrag",
+    "lines": [
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Er fürchtet neue Umtriebe von H. v. Voss",
+    "lines": [
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Das Säkularisationsgeschäft hält er für einen Köder der Franzosen",
+    "lines": [
+     37,
+     38,
+     39,
+     40
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Quest",
+    "note": "unclear word before 'Tausch Geschäfte'"
+   },
+   {
+    "line": 30,
+    "word": "zugwischen kannst es mich",
+    "note": "garbled; perhaps 'inzwischen kränkt es mich'"
+   },
+   {
+    "line": 38,
+    "word": "Brode",
+    "note": "possibly 'Brocke' (morsel/bait)"
+   },
+   {
+    "line": 39,
+    "word": "verweiden",
+    "note": "unclear; possibly 'verbeißen'"
+   },
+   {
+    "line": 10,
+    "word": "dem",
+    "note": "probably 'den Augen'; may be the writer's own usage"
+   }
+  ],
+  "read_against": "3bf519fde8c09152"
+ }
 }

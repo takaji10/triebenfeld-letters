@@ -154,5 +154,97 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Eysenhardt berichtet, dass das königliche Cabinets Schreiben in der Sache des Fürsten dem Minister v. Voss nach Havelberg nachgesandt wurde und in der Kanzeley noch nicht eingegangen ist. Voss kehre vorzeitig schon nächsten Donnerstag zurück und bringe es vielleicht selbst mit. Lautet es so entschieden, wie v. Triebenfeld sagt, rechnet Eysenhardt mit einem günstigen Ausgang. Außerdem hat er v. Triebenfeld für Rechnung des Fürsten 300 Pr Courant gegen Schein gezahlt."
+ "summary_de": "Eysenhardt berichtet, dass das königliche Cabinets Schreiben in der Sache des Fürsten dem Minister v. Voss nach Havelberg nachgesandt wurde und in der Kanzeley noch nicht eingegangen ist. Voss kehre vorzeitig schon nächsten Donnerstag zurück und bringe es vielleicht selbst mit. Lautet es so entschieden, wie v. Triebenfeld sagt, rechnet Eysenhardt mit einem günstigen Ausgang. Außerdem hat er v. Triebenfeld für Rechnung des Fürsten 300 Pr Courant gegen Schein gezahlt.",
+ "reading": {
+  "letter": "82",
+  "legibility": "sound",
+  "notes": "Eysenhardt senior writes from Berlin to Prince Hohenlohe. Minister v. Voss is still at Havelberg, so the King's Cabinets Schreiben in the Prince's matter was sent on to him there. Eysenhardt had a friend check the Kanzeley (chancery) and nothing has arrived yet. Voss may bring the letter himself, since he is returning 14 days early, next Thursday. If the letter is as decided as Triebenfeld says, Eysenhardt is sure all will go as wished, and his patrons have assured him of this. Second, Triebenfeld asked him for 300 Pr Courant for the Prince's use and on his account; Eysenhardt paid it against a receipt. A few words are garbled.",
+  "claims": [
+   {
+    "statement": "Das königliche Cabinets Schreiben wurde dem Minister v. Voss nach Havelberg nachgesandt.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "In der Kanzeley ist es noch nicht eingegangen.",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Voss kehrt vorzeitig am nächsten Donnerstag zurück und bringt es vielleicht selbst mit.",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Lautet das Schreiben so entschieden wie von Triebenfeld dargestellt, erwartet Eysenhardt einen günstigen Ausgang.",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Er hat v. Triebenfeld auf dessen Verlangen 300 Pr Courant für Rechnung des Fürsten gegen Schein gezahlt.",
+    "lines": [
+     22,
+     23,
+     24,
+     25
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "bereit",
+    "note": "possibly 'bereits' or 'bereit[s]'; the sense is unclear"
+   },
+   {
+    "line": 14,
+    "word": "falle",
+    "note": "garbled; possibly 'derselbe'"
+   },
+   {
+    "line": 18,
+    "word": "verführen",
+    "note": "probably 'vorführen' or a similar word"
+   },
+   {
+    "line": 20,
+    "word": "Gunnen",
+    "note": "probably 'Gönnern'"
+   },
+   {
+    "line": 20,
+    "word": "vnd",
+    "note": "possibly 'von'"
+   },
+   {
+    "line": 23,
+    "word": "der",
+    "note": "probably 'Ew' (Ew Durchlaucht)"
+   },
+   {
+    "line": 26,
+    "word": "tief der",
+    "note": "probably 'tiefster'"
+   }
+  ],
+  "read_against": "a0439283acf94036"
+ }
 }

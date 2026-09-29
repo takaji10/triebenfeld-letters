@@ -207,5 +207,104 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Von Sanitz fragt, ob das erste Tribunal über die Trąbczyner Güter des Fürsten schon entschieden hat, und bittet möglichst um Abschriften des Friedensrichter-Urteils und der Tribunalsentenz. Er ist nach Berlin gezogen, um Reste seines verlorenen Vermögens zu retten. Sein früherer Posener Sachwalter Weltzer hat wenig Hoffnung. Vom sächsischen Hof hört er, Polnische Commissarien hätten auf eine Bittschrift von Dąbska befohlen, ihr die Güter zurückzugeben. Man vermute einen baldigen Krieg im Norden."
+ "summary_de": "Von Sanitz fragt, ob das erste Tribunal über die Trąbczyner Güter des Fürsten schon entschieden hat, und bittet möglichst um Abschriften des Friedensrichter-Urteils und der Tribunalsentenz. Er ist nach Berlin gezogen, um Reste seines verlorenen Vermögens zu retten. Sein früherer Posener Sachwalter Weltzer hat wenig Hoffnung. Vom sächsischen Hof hört er, Polnische Commissarien hätten auf eine Bittschrift von Dąbska befohlen, ihr die Güter zurückzugeben. Man vermute einen baldigen Krieg im Norden.",
+ "reading": {
+  "letter": "217",
+  "legibility": "partly garbled",
+  "notes": "Von Sanitz writes from Berlin to Triebenfeld, whom he addresses as Lieutenant. He apologises for answering late. He has left Silesia after about 49 years and is in Berlin to try to save his lost fortune. His former lawyer Weltzer has little hope. The foreign department has approached the Dresden court, and the French envoy offers conditional hope. The Saxon court reports that Dąbska petitioned the Emperor and that Polish commissioners ordered the estates returned to her. He asks whether the first Tribunal has given its sentence on the Prince's Trąbczyn estates, and asks for copies of the Friedensrichter ruling and of the tribunal sentence. He adds rumours of war in the North. The text is heavily garbled.",
+  "claims": [
+   {
+    "statement": "Fragt nach der Sentenz des ersten Tribunals über die Trąbczyner Güter und bittet um Abschriften zu Friedensrichter und Tribunal",
+    "lines": [
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62
+    ]
+   },
+   {
+    "statement": "Hat Schlesien verlassen und betreibt in Berlin die Rettung seines verlorenen Vermögens",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Früherer Posener Sachwalter Weltzer hat wenig Hoffnung",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Laut sächsischem Hof befahlen Polnische Commissarien nach Bittschrift von Dąbska die Rückgabe der Güter an sie",
+    "lines": [
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "Man vermutet baldigen Kriegsausbruch im Norden",
+    "lines": [
+     67,
+     68,
+     69,
+     70
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "Brau",
+    "note": "probably Breslau"
+   },
+   {
+    "line": 40,
+    "word": "Pluischen",
+    "note": "probably Polnischen"
+   },
+   {
+    "line": 28,
+    "word": "tilsitum",
+    "note": "probably Tilsiter Friedens Artikel"
+   },
+   {
+    "line": 22,
+    "word": "Huffe verraut",
+    "note": "probably Hofe verwandt"
+   },
+   {
+    "line": 49,
+    "word": "Fr.",
+    "note": "probably Se. Hochfürstlich Durchlaucht"
+   },
+   {
+    "line": 83,
+    "word": "Sud[?] a[?] dien",
+    "note": "garbled closing formula"
+   },
+   {
+    "line": 19,
+    "word": "Weltzer",
+    "note": "name uncertain"
+   }
+  ],
+  "read_against": "b4bd7893cc9d5711"
+ }
 }

@@ -134,5 +134,81 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld sorgt sich um die Beschaffung der 25000 Rthl, da Bankpräsident von Stein erneut jedes Diskontieren untersagt hat. Das Kapital von 140000 Rthl soll die Invaliden Casse oder das Potsdamer Waisenhaus geben, aber erst nach Erledigung aller Formalien und nicht in Raten. Mit Amelang sucht er die 25000 Rthl vorläufig zu beschaffen. Er berichtet über Geldmangel und drohende Bankrotte in Südpreußen. Der Brief bricht ab."
+ "summary_de": "v. Triebenfeld sorgt sich um die Beschaffung der 25000 Rthl, da Bankpräsident von Stein erneut jedes Diskontieren untersagt hat. Das Kapital von 140000 Rthl soll die Invaliden Casse oder das Potsdamer Waisenhaus geben, aber erst nach Erledigung aller Formalien und nicht in Raten. Mit Amelang sucht er die 25000 Rthl vorläufig zu beschaffen. Er berichtet über Geldmangel und drohende Bankrotte in Südpreußen. Der Brief bricht ab.",
+ "reading": {
+  "letter": "153",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince about raising the 25000 Rthl. Herr von Stein, now President of the Bank, has again forbidden all discounting. The capital of 140000 Rthl is expected from the Invaliden Casse or the Potsdam Waysen Haus, but nobody will pay in instalments and no fund pays before the formalities are settled. With Amelang he is trying to get the 25000 Rthl as a stopgap. He reports that business in general is at a standstill, that the Wittwen Casse and Pupillen Collegio are under pressure from threatened bankruptcies in Südpreußen, and that the King is asking where the millions sent there went. The fragment breaks off at line 22. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Sorge um die Beschaffung der 25000 Rthl, da Bankpräsident von Stein erneut jedes Diskontieren untersagt hat",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Kapital von 140000 Rthl von Invaliden Casse oder Potsdamer Waisenhaus, keine Ratenzahlung, erst nach Erledigung der Formalien",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "mit Amelang sucht er die 25000 Rthl vorläufig zu beschaffen",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Geldmangel und drohende Bankrotte in Südpreußen",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Brief bricht ab",
+    "lines": [
+     22
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 15,
+    "word": "Banquersts",
+    "note": "probably 'Banquerots'"
+   },
+   {
+    "line": 16,
+    "word": "wägen",
+    "note": "probably 'wagen'"
+   },
+   {
+    "line": 14,
+    "word": "Liebe",
+    "note": "odd before 'Wittwen Casse'; possibly a misreading"
+   },
+   {
+    "line": 11,
+    "word": "wo",
+    "note": "'wo zu erhalten' is unclear; possibly 'wozu' or 'so'"
+   }
+  ],
+  "read_against": "ee3cc8a5067519f8"
+ }
 }

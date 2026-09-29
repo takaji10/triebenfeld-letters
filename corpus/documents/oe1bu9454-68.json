@@ -466,5 +466,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Honrichs hat die Angaben des Hawich als falsch erwiesen. Die Requisitionen von 22000 Rthl müssen laut Contract die Colonisten dem Fürsten erstatten. Für den Termin am 28. beim Friedensrichter Kwilecki in Konin braucht Honrichs die Original-Donationsurkunde über Trąbczyn. Triebenfeld bittet dringend, sie per Estaffette zu schicken, auch die Sache Kamionna hänge davon ab. Kwilecki rät, Lipski zu verklagen, der die Trąbczyner Güter der Dąbska übergab. Triebenfeld ist mittellos und verlangt mindestens 1000 Rthl Courant."
+ "summary_de": "Honrichs hat die Angaben des Hawich als falsch erwiesen. Die Requisitionen von 22000 Rthl müssen laut Contract die Colonisten dem Fürsten erstatten. Für den Termin am 28. beim Friedensrichter Kwilecki in Konin braucht Honrichs die Original-Donationsurkunde über Trąbczyn. Triebenfeld bittet dringend, sie per Estaffette zu schicken, auch die Sache Kamionna hänge davon ab. Kwilecki rät, Lipski zu verklagen, der die Trąbczyner Güter der Dąbska übergab. Triebenfeld ist mittellos und verlangt mindestens 1000 Rthl Courant.",
+ "reading": {
+  "letter": "68",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to the Prince. Honrichs has arrived and shown that Hawich's statements are false. The requisitions of 22000 rt were collected under military execution, and by contract the colonists must hand them over to the Prince. Honrichs needs the original deed of gift for Trąbczyn for a hearing on the 28th in Konin before the justice of the peace Kwilecki. Triebenfeld urges that it be sent by Estaffette, and says the Kamionna case depends on it too. Kwilecki advises suing Lipski, who handed the estates to Dąbska. Dąbska took 15000 rt in ducats out of them. There is a rumour of a Russian advance. Triebenfeld has no money and asks for at least 1000 rt Courant.",
+  "claims": [
+   {
+    "statement": "Honrichs hat die Angaben des Hawich als falsch erwiesen.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Die Requisitionen von 22000 Rthl müssen laut Contract die Colonisten dem Fürsten erstatten.",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Für den Termin am 28. beim Friedensrichter Kwilecki in Konin braucht Honrichs die Original-Donationsurkunde über Trąbczyn.",
+    "lines": [
+     14,
+     15,
+     16,
+     29
+    ]
+   },
+   {
+    "statement": "Bitte um Zusendung per Estaffette; auch die Sache Kamionna hängt davon ab.",
+    "lines": [
+     21,
+     22,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Kwilecki rät, Lipski zu verklagen, der die Trąbczyner Güter der Dąbska übergab; diese zog 15000 Rthl in Dukaten.",
+    "lines": [
+     34,
+     35,
+     36,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Triebenfeld ist mittellos und verlangt mindestens 1000 Rthl Courant.",
+    "lines": [
+     51,
+     52,
+     54,
+     58,
+     59
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 42,
+    "word": "Früß",
+    "note": "probably 'Fürst'"
+   },
+   {
+    "line": 20,
+    "word": "matten",
+    "note": "probably 'warten' (compare doc 21, 'wardt hier darauf')"
+   },
+   {
+    "line": 8,
+    "word": "um",
+    "note": "probably 'und' (Ruhe und Friede)"
+   },
+   {
+    "line": 34,
+    "word": "Lipscki",
+    "note": "written 'Lipski' on line 38; unclear which spelling is right"
+   },
+   {
+    "line": 18,
+    "word": "sondern",
+    "note": "makes no sense here; perhaps 'senden'"
+   },
+   {
+    "line": 46,
+    "word": "kohlen",
+    "note": "garbled; perhaps 'Pohlen'"
+   },
+   {
+    "line": 64,
+    "word": "fendes",
+    "note": "garbled closing formula"
+   },
+   {
+    "line": 66,
+    "word": "Ternuis[?]",
+    "note": "probably 'Terminus'"
+   },
+   {
+    "line": 69,
+    "word": "Getraffest",
+    "note": "garbled; perhaps 'Estaffette'"
+   },
+   {
+    "line": 72,
+    "word": "schwoll",
+    "note": "garbled"
+   },
+   {
+    "line": 77,
+    "word": "Regt",
+    "note": "probably 'Liegt'"
+   }
+  ],
+  "read_against": "fc67da46f96c1145"
+ }
 }

@@ -473,5 +473,93 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, er sei als Bevollmächtigter des Fürsten von französischer Gendarmerie verhaftet worden, um rückständige Zinsen von 3521 Rthl an die Invaliden Casse zu zahlen. Da van der Lahr ihn wegen noch 3000 Rthl verklagt und seine Abreise verhindert, bittet er dringend um 2068 Rthl nach Konotop, das seine Gläubiger sequestrieren. Das französische Generalgouvernement habe die Aufhebung der Sequestration wegen der Invaliden Casse angeordnet. Gegen die Sequestration von Zagórów habe er protestiert und gegen Oppenheimer einen Prozess eingeleitet."
+ "summary_de": "Triebenfeld berichtet, er sei als Bevollmächtigter des Fürsten von französischer Gendarmerie verhaftet worden, um rückständige Zinsen von 3521 Rthl an die Invaliden Casse zu zahlen. Da van der Lahr ihn wegen noch 3000 Rthl verklagt und seine Abreise verhindert, bittet er dringend um 2068 Rthl nach Konotop, das seine Gläubiger sequestrieren. Das französische Generalgouvernement habe die Aufhebung der Sequestration wegen der Invaliden Casse angeordnet. Gegen die Sequestration von Zagórów habe er protestiert und gegen Oppenheimer einen Prozess eingeleitet.",
+ "reading": {
+  "letter": "42",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Berlin to the Prince. French gendarmerie arrested him as the Prince's plenipotentiary to force payment of 3521 rt interest arrears to the Invaliden Casse. He was bailed by Grevenitz and Mathieu. Loans from Zastrow and Coste (9000 rt papers); 3000 rt from the Prince, of which 2153 went to Lahr. Lahr is suing him for the remaining 3000 rt, so he cannot leave. He needs 2068 rt sent to Kontop (Konotop), which his creditors are sequestering. The French order to lift the Invaliden Casse sequestration has gone to Warsaw. He has protested against the Zagórów sequestration and has a lawsuit running against Oppenheimer. Also: an iron-merchant plan, news from Königsberg, Fürstin Sacken. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Als Bevollmächtigter des Fürsten von französischer Gendarmerie verhaftet, um rückständige Zinsen von 3521 Rthl an die Invaliden Casse zu zahlen",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Lahr verklagt ihn wegen noch 3000 Rthl und verhindert seine Abreise",
+    "lines": [
+     48,
+     49
+    ]
+   },
+   {
+    "statement": "Bittet dringend um 2068 Rthl, nach Konotop zu schicken",
+    "lines": [
+     59,
+     60,
+     63,
+     64,
+     65,
+     94,
+     95
+    ]
+   },
+   {
+    "statement": "Gläubiger sequestrieren Konotop",
+    "lines": [
+     69,
+     70
+    ]
+   },
+   {
+    "statement": "Französisches Generalgouvernement ordnet Aufhebung der Sequestration wegen der Invaliden Casse an",
+    "lines": [
+     96,
+     97,
+     98
+    ]
+   },
+   {
+    "statement": "Protestation gegen die Sequestration in Zagórów; Prozess gegen Oppenheimer",
+    "lines": [
+     104,
+     105,
+     106,
+     107
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 54,
+    "word": "Coetensche",
+    "note": "Probably 'Costesche', since the papers came from Färber Coste (lines 30, 32)"
+   },
+   {
+    "line": 100,
+    "word": "durch lang",
+    "note": "Probably 'Durchlaucht'"
+   },
+   {
+    "line": 18,
+    "word": "Maluce[?]",
+    "note": "Name of the French Intendant is uncertain"
+   },
+   {
+    "line": 74,
+    "word": "Münzer",
+    "note": "Unclear; perhaps a type of coin ('Münze')"
+   },
+   {
+    "line": 142,
+    "word": "Dercke",
+    "note": "Name uncertain"
+   }
+  ],
+  "read_against": "667af692d91bb2ad"
+ }
 }

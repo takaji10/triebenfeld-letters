@@ -192,5 +192,84 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt, Prinz George antworte trotz der von Präsident v. Schuckmann zugestellten Briefe nicht und schicke keine Remessen. Kuh habe ihn wegen 5800 Rthl verklagt und ein Exekutionsdekret erwirkt; am Freitag drohe Arrest. Der Minister wollte Kuh beruhigen, soll aber erst Donnerstag kommen. Der Prinz habe die ihm für 280000 Rthl verkauften Güter mit 270000 Rthl verschuldet. Fällig sind 20000 Rthl an Liepman Meyer und am 7. August 12000 Rthl. Triebenfeld will den Prinzen aufsuchen und bittet um einen Ausweg."
+ "summary_de": "Triebenfeld klagt, Prinz George antworte trotz der von Präsident v. Schuckmann zugestellten Briefe nicht und schicke keine Remessen. Kuh habe ihn wegen 5800 Rthl verklagt und ein Exekutionsdekret erwirkt; am Freitag drohe Arrest. Der Minister wollte Kuh beruhigen, soll aber erst Donnerstag kommen. Der Prinz habe die ihm für 280000 Rthl verkauften Güter mit 270000 Rthl verschuldet. Fällig sind 20000 Rthl an Liepman Meyer und am 7. August 12000 Rthl. Triebenfeld will den Prinzen aufsuchen und bittet um einen Ausweg.",
+ "reading": {
+  "letter": "108",
+  "legibility": "sound",
+  "notes": "Triebenfeld to the Prince, Breslau 22 July 1800, in distress over Prinz George: no reply or remittances despite letters delivered via Präsident v. Schuckman; Jew Kuh sued for 5800 Rthl with execution decree, arrest threatened Friday; minister (visited at Dyhrenfurth) to calm him, delayed to Thursday. Accounting: the Prince has encumbered the estates with 270000 Rthl, sold to him for 280000, rest 10000. Due: Liepman Meyer 20000, 12000 on 7 August; total 37800. Wants to go seek the Prince; asks for a way out. Not about Trąbczyn explicitly.",
+  "claims": [
+   {
+    "statement": "Prinz George antwortet trotz zugestellter Briefe (Schuckmann) nicht, schickt keine Remessen",
+    "lines": [
+     4,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Kuh verklagte ihn wegen 5800 Rthl, Exekutionsdekret, Freitag zahlen oder Arrest",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Minister wollte Kuh beruhigen, kommt erst Donnerstag",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ],
+    "check": "overstated",
+    "why": "Lines 12-14: The minister promised to calm the Jew. That he will only come on Thursday is hearsay ('da heißt es'), not a fact."
+   },
+   {
+    "statement": "Güter mit 270000 Rthl verschuldet, für 280000 Rthl verkauft",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Liepman Meyer 20000 Rthl, 7. August 12000 Rthl, zusammen 37800 Rthl",
+    "lines": [
+     30,
+     31,
+     32
+    ],
+    "check": "overstated",
+    "why": "20000 + 12000 is not 37800. The 'Post von 37800 rt' in line 32 also includes Kuh's 5800 Rthl (line 29), so the total is attached to the wrong items."
+   },
+   {
+    "statement": "will den Prinzen aufsuchen, bittet um Ausweg",
+    "lines": [
+     35,
+     39,
+     40
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 36,
+    "word": "Kirche",
+    "note": "unclear verb, garbled"
+   },
+   {
+    "line": 17,
+    "word": "Schuz",
+    "note": "possibly a name (Schulz?) misread"
+   },
+   {
+    "line": 40,
+    "word": "Ihre",
+    "note": "possibly 'Ehre'"
+   }
+  ],
+  "read_against": "d9141b87ef8910ed"
+ }
 }

@@ -147,5 +147,40 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hardenberg antwortet auf Triebenfelds Gesuch vom 25. des Vormonats. Die Ansprüche des Fürsten von Hohenlohe auf Trąbczyn und Kamionna würden sich von selbst ausgleichen, sobald die im Werk begriffene allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau ausgeführt werde."
+ "summary_de": "Hardenberg antwortet auf Triebenfelds Gesuch vom 25. des Vormonats. Die Ansprüche des Fürsten von Hohenlohe auf Trąbczyn und Kamionna würden sich von selbst ausgleichen, sobald die im Werk begriffene allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau ausgeführt werde.",
+ "reading": {
+  "letter": "252",
+  "legibility": "sound",
+  "notes": "Hardenberg replies briefly to Triebenfeld's request of the 25th of the previous month. He says the Prince of Hohenlohe's claims to Trąbczyn and Kamionna (Kaemen) will settle themselves once the general settlement and agreement over the Duchy of Warsaw, now in progress, is carried out. Doc 253 shows Triebenfeld forwarding this answer to the Prince. The text is sound. Line 12 \"herr\" is probably a docket fragment. Nothing needs correcting.",
+  "claims": [
+   {
+    "statement": "Hardenberg antwortet auf Triebenfelds Gesuch vom 25. des Vormonats.",
+    "lines": [
+     2
+    ]
+   },
+   {
+    "statement": "Die Ansprüche des Fürsten von Hohenlohe auf Trąbczyn und Kamionna würden sich von selbst ausgleichen, sobald die allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau ausgeführt werde.",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "herr",
+    "note": "Isolated word at the end of the address, probably a fragment of the docket or address."
+   },
+   {
+    "line": 8,
+    "word": "C f v Hardenberg",
+    "note": "Probably a signature abbreviation (C[arl] F[ürst] v Hardenberg); left as transcribed."
+   }
+  ],
+  "read_against": "5c36978640b43c73"
+ }
 }

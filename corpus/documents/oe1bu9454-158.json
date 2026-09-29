@@ -286,5 +286,136 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Durch Vermittlung des Generals v. Köckritz hat das Invaliden Departement 150000 Rthl zugesagt: vorerst 50000 Rthl auf Hypothek und Triebenfelds Wechsel, die 100000 Rthl nach Revision der Taxen durch die Kammer, die er ab Mittwoch in Kalisz leiten will. Danach will er 10000 Rthl zahlen und den Rest senden. Er rät von der Klage wegen der proxenetica ab und weist den Tadel in der Schlabrendorffschen Sache zurück. Von 30/m Rthl für das Reich könnte etwa die Hälfte beisammen sein."
+ "summary_de": "Durch Vermittlung des Generals v. Köckritz hat das Invaliden Departement 150000 Rthl zugesagt: vorerst 50000 Rthl auf Hypothek und Triebenfelds Wechsel, die 100000 Rthl nach Revision der Taxen durch die Kammer, die er ab Mittwoch in Kalisz leiten will. Danach will er 10000 Rthl zahlen und den Rest senden. Er rät von der Klage wegen der proxenetica ab und weist den Tadel in der Schlabrendorffschen Sache zurück. Von 30/m Rthl für das Reich könnte etwa die Hälfte beisammen sein.",
+ "reading": {
+  "letter": "158",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin to the Prince. Through General v. Köckritz the Invaliden Departement will lend 150000 rt without royal permission: 50000 rt now on mortgage and his bill, 100000 rt after the Kammer revises the Taxen (can stand 50 years if interest paid). Money crisis: other institutions lend nothing to Südpreußen. On receipt he will pay the 10000 rt and send the rest. Girard/Hauk matter settled. Advises against suit over proxenetica; defends himself over Schlabrendorff rebuke. Mennonites to be answered; Wollenhaupt's opinion on dismemberment dismissed; Rochlitz matters on return to Unruhstadt; wine Freypass; Betsche subjects' letter. Goes Wednesday to Kalisz. Amelang handles Eysenhardt. PS: half of 30/m rt for the Reich ready, suggests sending now and 15000 rt later.",
+  "claims": [
+   {
+    "statement": "Durch Vermittlung des Generals v. Köckritz hat das Invaliden Departement 150000 Rthl zugesagt",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "vorerst 50000 Rthl auf Hypothek und Wechsel, die 100000 Rthl nach Revision der Taxen durch die Kammer",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Revision der Taxe will er ab Mittwoch in Kalisz leiten",
+    "lines": [
+     70,
+     71,
+     72
+    ]
+   },
+   {
+    "statement": "danach will er 10000 Rthl zahlen und den Rest senden",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "rät von der Klage wegen der proxenetica ab",
+    "lines": [
+     34,
+     35,
+     36,
+     37,
+     38
+    ]
+   },
+   {
+    "statement": "weist den Tadel in der Schlabrendorffschen Sache zurück",
+    "lines": [
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Von 30/m Rthl für das Reich ist etwa die Hälfte beisammen",
+    "lines": [
+     77,
+     78,
+     79
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht 'könt nun etwa die Hälfte ... zusammen', also 'könnte'. Das ist eine Möglichkeit und keine festgestellte Tatsache."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "von",
+    "note": "probably 'wenn' (die, wenn die Zinsen richtig bezahlt werden)"
+   },
+   {
+    "line": 14,
+    "word": "Ezer",
+    "note": "unclear, perhaps 'Heller'"
+   },
+   {
+    "line": 18,
+    "word": "Braun",
+    "note": "probably 'brave' (cf. doc 157 'Der Brave Mann')"
+   },
+   {
+    "line": 21,
+    "word": "proximaticum",
+    "note": "likely 'proxeneticum'"
+   },
+   {
+    "line": 22,
+    "word": "Liep: Meyer Wolff fest",
+    "note": "garbled; person and verb unclear"
+   },
+   {
+    "line": 25,
+    "word": "sind",
+    "note": "perhaps 'und'"
+   },
+   {
+    "line": 28,
+    "word": "ſehen",
+    "note": "garbled, perhaps 'hier'/'schon'"
+   },
+   {
+    "line": 31,
+    "word": "Haukſche",
+    "note": "cf. Haugt in doc 157; Girard vs Giraud"
+   },
+   {
+    "line": 45,
+    "word": "was",
+    "note": "probably 'weis'"
+   },
+   {
+    "line": 50,
+    "word": "Schläbe",
+    "note": "Schlabrendorff, broken over the line"
+   },
+   {
+    "line": 61,
+    "word": "Tausendtstäd",
+    "note": "garbled"
+   },
+   {
+    "line": 64,
+    "word": "befördig",
+    "note": "probably 'befördern'"
+   }
+  ],
+  "read_against": "61306dbed9ec87fa"
+ }
 }

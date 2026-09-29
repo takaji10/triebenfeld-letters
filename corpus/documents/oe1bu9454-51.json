@@ -232,5 +232,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, die Execution sei aufgehoben, das Eysen aber noch nicht da. Er reist morgen nach Königsberg und will über die Erbschaftsangelegenheit erst danach urteilen. Wegen des neuen Dekrets über Arrestschlag in Pohlen hat er Honrichs herbestellt, der dem Fürsten mehrere Tausend zuführen will. Hawich scheine ein Cujon zu sein; Triebenfeld fürchtet, er halte ihm anvertraute Originalpapiere zurück. Bethney liegt schwer krank. Gerüchte aus Sachsen: Fürst Hohenzollern bei Leipzig, Österreicher in München. Nachschrift: Honrichs kommt und soll Geld bringen."
+ "summary_de": "Triebenfeld meldet, die Execution sei aufgehoben, das Eysen aber noch nicht da. Er reist morgen nach Königsberg und will über die Erbschaftsangelegenheit erst danach urteilen. Wegen des neuen Dekrets über Arrestschlag in Pohlen hat er Honrichs herbestellt, der dem Fürsten mehrere Tausend zuführen will. Hawich scheine ein Cujon zu sein; Triebenfeld fürchtet, er halte ihm anvertraute Originalpapiere zurück. Bethney liegt schwer krank. Gerüchte aus Sachsen: Fürst Hohenzollern bei Leipzig, Österreicher in München. Nachschrift: Honrichs kommt und soll Geld bringen.",
+ "reading": {
+  "letter": "51",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to the Prince. The iron has not arrived, but the Execution has been lifted, so he leaves for Königsberg tomorrow. He will wait until he is back to judge the inheritance matter. There is a new decree on seizures (Arrestschlag) in Poland. He has summoned Honrichs, who promises the Prince several thousand. He calls Hawich a Cujon who keeps back original papers entrusted to him. Bethney is ill in Mal[z?]dorff. War rumours come from bankers in Züllichau. Postscript: Honrichs is coming and will bring money. Lines 14 to 17 are partly garbled. The letter does not touch Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Die Execution ist aufgehoben, das Eysen aber noch nicht da; Triebenfeld reist morgen nach Königsberg",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er will über die Erbschaftsangelegenheit erst nach der Rückkehr urteilen",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Wegen des neuen Dekrets über Arrestschlag in Pohlen hat er Honrichs herbestellt",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Honrichs will dem Fürsten mehrere Tausend zuführen",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Hawich hält ihm anvertraute Originalpapiere zurück",
+    "lines": [
+     18,
+     19
+    ],
+    "check": "overstated",
+    "why": "Zeilen 17-19: Hawich 'scheint' ein Cujon zu sein, und der Satz steht im Zusammenhang einer Befürchtung ('ich fürchte'). Der Anschluss 'den wären' ist verstümmelt, die Zusammenfassung macht daraus eine Tatsache."
+   },
+   {
+    "statement": "Bethney liegt schwer krank",
+    "lines": [
+     23
+    ]
+   },
+   {
+    "statement": "Gerüchte: Fürst Hohenzollern bei Leipzig, Österreicher besetzen München",
+    "lines": [
+     31,
+     34,
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Nachschrift: Honrichs kommt und soll Geld bringen",
+    "lines": [
+     46,
+     47,
+     49
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 23,
+    "word": "Bethney",
+    "note": "possibly Bethusy (edition name list); not proven"
+   },
+   {
+    "line": 14,
+    "word": "Buren[?]",
+    "note": "garbled; perhaps Piecen/Papiere"
+   },
+   {
+    "line": 15,
+    "word": "und zuführen",
+    "note": "probably 'zu zuführen' as in line 21"
+   },
+   {
+    "line": 17,
+    "word": "brut[?]",
+    "note": "garbled passage"
+   },
+   {
+    "line": 16,
+    "word": "bruder",
+    "note": "garbled; sense unclear"
+   },
+   {
+    "line": 27,
+    "word": "Wäde¬",
+    "note": "probably 'Winde'"
+   },
+   {
+    "line": 28,
+    "word": "thunig",
+    "note": "probably 'thätig'"
+   },
+   {
+    "line": 39,
+    "word": "Beſter",
+    "note": "unclear word"
+   },
+   {
+    "line": 18,
+    "word": "wären",
+    "note": "perhaps 'warum' or similar; unclear"
+   }
+  ],
+  "read_against": "da5e2245a30e34a1"
+ }
 }

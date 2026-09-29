@@ -242,5 +242,115 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld erwartet, dass Privatschulden und Bayonner Summen (Bank-, Invaliden- und Pupillengelder) einem Moratorium von 41 3/4 Jahren unterworfen werden; 200000 Rthl auf den Gütern würden so mit 6 pCt. amortisiert. Er verlangt dringend Entscheidung, ob der Fürst die Güter behält oder vertauscht; beim Behalten will er die Hauländer gerichtlich vertreiben und Vorwerke bilden. Er bittet um Vollmacht für Advocat Schmid in Kalisz gegen Hecker, der mit Hawich die Unterthanen aufwiegelt, und um einen Brief an Hecker."
+ "summary_de": "Triebenfeld erwartet, dass Privatschulden und Bayonner Summen (Bank-, Invaliden- und Pupillengelder) einem Moratorium von 41 3/4 Jahren unterworfen werden; 200000 Rthl auf den Gütern würden so mit 6 pCt. amortisiert. Er verlangt dringend Entscheidung, ob der Fürst die Güter behält oder vertauscht; beim Behalten will er die Hauländer gerichtlich vertreiben und Vorwerke bilden. Er bittet um Vollmacht für Advocat Schmid in Kalisz gegen Hecker, der mit Hawich die Unterthanen aufwiegelt, und um einen Brief an Hecker.",
+ "reading": {
+  "letter": "216",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince from Blizanow. The private debts and the Bayonne sums (bank, invalid and pupil funds) are expected to fall under a 41 3/4-year moratorium. That would amortise 200000 Rthl at 6 pCt. He urgently asks whether the Prince will keep the estates or exchange them. If they are kept, he will have the Hauländer/Colonisten removed by court judgement and form Vorwerke, which should take about 2 months. The Olesnicer and Wrąbczyner cases are pending. Many lawsuits over arrears, little money to expect. Hecker stirs up the subjects together with Hawich. He asks for a power of attorney for Advocat Schmid in Kalisz and for the Prince to write to Hecker himself, using an enclosed draft. The messenger is to be paid.",
+  "claims": [
+   {
+    "statement": "Triebenfeld erwartet, dass Privatschulden und Bayonner Summen (Bank-, Invaliden- und Pupillengelder) einem Moratorium von 41 3/4 Jahren unterworfen werden",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "200000 Rthl auf den Gütern würden so mit 6 pCt. amortisiert",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Er verlangt dringend Entscheidung, ob der Fürst die Güter behält oder vertauscht",
+    "lines": [
+     14,
+     15,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "beim Behalten will er die Hauländer gerichtlich vertreiben und Vorwerke bilden",
+    "lines": [
+     16,
+     17,
+     18,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Er bittet um Vollmacht für Advocat Schmid in Kalisz gegen Hecker, der mit Hawich die Unterthanen aufwiegelt",
+    "lines": [
+     35,
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "und um einen Brief an Hecker",
+    "lines": [
+     44,
+     45
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "denenenſelben",
+    "note": "probably denenſelben (dittography)"
+   },
+   {
+    "line": 11,
+    "word": "sämtzen",
+    "note": "probably sämtlichen"
+   },
+   {
+    "line": 12,
+    "word": "warte",
+    "note": "possibly werth / mehr werth"
+   },
+   {
+    "line": 14,
+    "word": "viel",
+    "note": "possibly bald"
+   },
+   {
+    "line": 17,
+    "word": "genommen",
+    "note": "possibly gewinnen"
+   },
+   {
+    "line": 23,
+    "word": "wie",
+    "note": "probably mir"
+   },
+   {
+    "line": 40,
+    "word": "Fatharium",
+    "note": "unclear word"
+   },
+   {
+    "line": 47,
+    "word": "Rechten",
+    "note": "possibly achten"
+   },
+   {
+    "line": 48,
+    "word": "Verehrung ersterben",
+    "note": "formula usually 'In tiefster Ehrfurcht ersterbe'; wording may be the writer's own"
+   }
+  ],
+  "read_against": "8555592e4255f3f7"
+ }
 }

@@ -90,5 +90,59 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hält die Anstellung eines Oberförsters in Zagórów für nötig. Der Richter muss jetzt die Propination verwalten, weil die Nageln ihren Neffen, der als Propinationsbeamter vorgesehen war, abgerufen hat. Will der Fürst dem armen Radszewski helfen, soll er ihn schnell schicken; mit 300 Rthl jährlich müsse dieser zufrieden sein. Triebenfeld bittet zugleich um die Meinung des Fürsten zum Tausch der Güter."
+ "summary_de": "Triebenfeld hält die Anstellung eines Oberförsters in Zagórów für nötig. Der Richter muss jetzt die Propination verwalten, weil die Nageln ihren Neffen, der als Propinationsbeamter vorgesehen war, abgerufen hat. Will der Fürst dem armen Radszewski helfen, soll er ihn schnell schicken; mit 300 Rthl jährlich müsse dieser zufrieden sein. Triebenfeld bittet zugleich um die Meinung des Fürsten zum Tausch der Güter.",
+ "reading": {
+  "letter": "74b",
+  "legibility": "sound",
+  "notes": "A short memo (P. M.) from Triebenfeld to the Prince. Zagórów needs an Ober Förster. Triebenfeld had lined up the old Richter's son for one post and the Nageln's nephew as Propinations Beamter. Because the Nageln has called her nephew away, Richter now has to run the propination. If the Prince wants to help Radszewski, he should send him quickly: 300 Rthl a year. Triebenfeld also asks for the Prince's opinion on the exchange of estates. There is a gap in line 3 (\"bey der Bra[...]\"), so it is unclear which post the son was meant for.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hält die Anstellung eines Oberförsters in Zagórów für nötig.",
+    "lines": [
+     2,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Der Richter muss jetzt die Propination verwalten, weil die Nageln ihren als Propinationsbeamten vorgesehenen Neffen abgerufen hat.",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Will der Fürst Radszewski helfen, soll er ihn schnell schicken; mit 300 Rthl jährlich muss dieser zufrieden sein.",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Bittet um die Meinung des Fürsten zum Tausch der Güter.",
+    "lines": [
+     12,
+     13
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Bra[...]",
+    "note": "Truncated; possibly 'Brauerey'. Because of the gap it is unclear which post Richter's son was meant for."
+   },
+   {
+    "line": 9,
+    "word": "ihm",
+    "note": "Probably 'ihn' (herzuschicken), but this may be the writer's own usage, so not corrected."
+   }
+  ],
+  "read_against": "2e154000452a55ce"
+ }
 }

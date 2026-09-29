@@ -353,5 +353,142 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wünscht, dass Prinz Adolph bis spätestens zum 22. eintrifft. Er klagt, die Sache Cosmar werde seit 5 Monaten verschleppt; Cosmar solle alle Gelder beim Oberlandesgericht Brzeg deponieren und Rechnung legen. Wegen Trąbczyn hat er sich an Minister v. Stein gewandt und erhofft sich viel von einem französischen Brief des Fürsten, der dem russischen Kaiser vorgezeigt werden kann. Ottos Wertansatz für Trąbczyn von höchstens 160000 Rthl verwirft er; Entschädigung sei nach Blombergs Überschlag von 316000 Rthl zu fordern."
+ "summary_de": "Triebenfeld wünscht, dass Prinz Adolph bis spätestens zum 22. eintrifft. Er klagt, die Sache Cosmar werde seit 5 Monaten verschleppt; Cosmar solle alle Gelder beim Oberlandesgericht Brzeg deponieren und Rechnung legen. Wegen Trąbczyn hat er sich an Minister v. Stein gewandt und erhofft sich viel von einem französischen Brief des Fürsten, der dem russischen Kaiser vorgezeigt werden kann. Ottos Wertansatz für Trąbczyn von höchstens 160000 Rthl verwirft er; Entschädigung sei nach Blombergs Überschlag von 316000 Rthl zu fordern.",
+ "reading": {
+  "letter": "288",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt aus Wien an den Fürsten. Er wartet auf Prinz Adolph, der vor dem 22. eintreffen soll, weil der König dann abreist. Er klagt, dass die Sache Cosmar verschleppt wird: Cosmar soll die Gelder beim Brieger OLG hinterlegen und Rechnung legen. In der Trąbczyn-Sache hat er sich an Minister v. Stein gewandt; ein französischer Brief des Fürsten, den man dem russischen Kaiser zeigen kann, würde helfen. Als Ämter will er Sokolnik und Klunowo vorschlagen. Ottos Tableau (Trąbczyn höchstens 160000 rt) verwirft er und stützt sich auf den Überschlag von Blomberg bei der Dismembration (316000 rt). Außerdem: die Auslage für Kamionna, Kriegsgerüchte, Eberhard, Thielens Bemerkung über die Schulden des Fürsten.",
+  "claims": [
+   {
+    "statement": "Triebenfeld wünscht, dass Prinz Adolph bis spätestens zum 22. eintrifft.",
+    "lines": [
+     4,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Die Sache Cosmar wird seit 5 Monaten verschleppt.",
+    "lines": [
+     11,
+     12,
+     19
+    ]
+   },
+   {
+    "statement": "Cosmar soll alle Gelder beim Oberlandesgericht Brzeg deponieren und Rechnung legen.",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Wegen Trąbczyn hat er sich an Minister v. Stein gewandt und erhofft sich viel von einem französischen Brief des Fürsten, der dem russischen Kaiser vorgezeigt werden kann.",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Er will Amt Sokolnik und Klunowo vorschlagen.",
+    "lines": [
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Ottos Wertansatz für Trąbczyn von höchstens 160000 Rthl verwirft er.",
+    "lines": [
+     29,
+     30,
+     31,
+     33
+    ]
+   },
+   {
+    "statement": "Entschädigung sei nach Blombergs Überschlag von 316000 Rthl zu fordern.",
+    "lines": [
+     34,
+     35,
+     36
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "umsammehr",
+    "note": "wohl 'umsomehr'"
+   },
+   {
+    "line": 8,
+    "word": "Gott wird wohin",
+    "note": "verlesen, vielleicht 'Gott weiß wohin'"
+   },
+   {
+    "line": 9,
+    "word": "sie",
+    "note": "wohl 'so'"
+   },
+   {
+    "line": 23,
+    "word": "unternen",
+    "note": "unklar, vielleicht 'mündliche' oder 'unsere'"
+   },
+   {
+    "line": 29,
+    "word": "Port[e?]",
+    "note": "vielleicht 'Porto'"
+   },
+   {
+    "line": 31,
+    "word": "wilunver",
+    "note": "verlesen, vielleicht 'mit und ohne'; der Bezug auf Szetlewek ist unsicher"
+   },
+   {
+    "line": 31,
+    "word": "meine",
+    "note": "wohl 'wenn'/'wegen'; ob die 760000 rt Schulden die des Fürsten sind, ist unklar"
+   },
+   {
+    "line": 36,
+    "word": "Na[??]r",
+    "note": "unleserlich"
+   },
+   {
+    "line": 38,
+    "word": "Donna[?]",
+    "note": "verlesen, vielleicht 'nimmt mir dann'"
+   },
+   {
+    "line": 40,
+    "word": "sich",
+    "note": "Satz verderbt, vielleicht 'der König schätze/brauche'"
+   },
+   {
+    "line": 41,
+    "word": "See",
+    "note": "wohl 'Sie'"
+   },
+   {
+    "line": 44,
+    "word": "langerilig",
+    "note": "wohl 'langweilig'"
+   },
+   {
+    "line": 47,
+    "word": "Brück",
+    "note": "verlesen, vielleicht 'Glück' oder 'drück'"
+   },
+   {
+    "line": 34,
+    "word": "[Bus?]ttollen[?]",
+    "note": "Name des Krieges Rath unleserlich"
+   }
+  ],
+  "read_against": "020136336af0b87a"
+ }
 }

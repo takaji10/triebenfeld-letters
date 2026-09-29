@@ -340,5 +340,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass der Gros Kanzler aus dem Justiz Fond an 176000 Rthl gibt, womit die lästigen Gläubiger, besonders Weigel, bezahlt werden; die bei Oppenheimer versetzte Hypothek von 200000 Rthl will er auslösen. In Pszczew hat er alles geordnet, Eichaust ist befriedigt. Er reist nach Kalisz und Trąbczyn, um Geld für Fürth einzutreiben; dort stehen an 102000 Rthl aus (Pächter, Einstandsgelder, Zinsen, Wrąbczyn, Swięcia, Olesnica). Schenck soll beitreiben. Klagt über Grattenauer, der nichts tue und dem Minister diene."
+ "summary_de": "Triebenfeld meldet, dass der Gros Kanzler aus dem Justiz Fond an 176000 Rthl gibt, womit die lästigen Gläubiger, besonders Weigel, bezahlt werden; die bei Oppenheimer versetzte Hypothek von 200000 Rthl will er auslösen. In Pszczew hat er alles geordnet, Eichaust ist befriedigt. Er reist nach Kalisz und Trąbczyn, um Geld für Fürth einzutreiben; dort stehen an 102000 Rthl aus (Pächter, Einstandsgelder, Zinsen, Wrąbczyn, Swięcia, Olesnica). Schenck soll beitreiben. Klagt über Grattenauer, der nichts tue und dem Minister diene.",
+ "reading": {
+  "letter": "188",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince. Friends in Berlin helped him, and the Gros Kanzler is giving about 176000 rt from the Justiz Fond. That pays off the troublesome creditors, Weigel in particular. He wants to free the 200000 rt mortgage pledged with Oppenheimer. Schlabrendorff is to be paid through a Schweinern mortgage of 20000 rt from von Hellen. In Betsche (Pszczew) matters are settled: Eichaust is satisfied, and the deputies owe 4000 rt on 6 July. He is now going to Kalisz and Trąbczyn, where about 102000 rt is outstanding (his itemised list). Schenck has been told to collect it. He complains that Grattenauer is idle and working for the Minister.",
+  "claims": [
+   {
+    "statement": "Der Gros Kanzler gibt aus dem Justiz Fond an 176000 Rthl; damit werden die lästigen Gläubiger, besonders Weigel, bezahlt.",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Er will die bei Oppenheimer versetzte Hypothek von 200000 Rthl auslösen.",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "In Pszczew hat er alles geordnet, Eichaust ist befriedigt.",
+    "lines": [
+     24,
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Er reist nach Kalisz und Trąbczyn, um Geld für eine Anweisung nach Fürth einzutreiben.",
+    "lines": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "In Trąbczyn stehen an 102000 Rthl aus: Pächter, Einstandsgelder, Johannis-Pacht und -Zinsen, Wrąbczyn, Swięcia, Olesnica.",
+    "lines": [
+     30,
+     31,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Schenck hat den Auftrag, die Gelder beizutreiben.",
+    "lines": [
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Grattenauer tue nichts und diene dem Minister als Factor.",
+    "lines": [
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "ge¬",
+    "note": "'Vorzüglich ge¬ liegt' across lines 7 and 8 looks garbled; perhaps 'gelegen liegt'."
+   },
+   {
+    "line": 10,
+    "word": "Ge",
+    "note": "Probably an abbreviated title, e.g. 'Gen[eralin]'."
+   },
+   {
+    "line": 18,
+    "word": "Kaste",
+    "note": "Possibly 'Casse'; the passage in lines 17 and 18 is unclear."
+   },
+   {
+    "line": 26,
+    "word": "Eichaust",
+    "note": "The edition's form is Echaust. This may be the writer's own spelling, so I did not correct it."
+   },
+   {
+    "line": 36,
+    "word": "Can:",
+    "note": "Probably an abbreviation for 'Canaille'."
+   },
+   {
+    "line": 51,
+    "word": "Ehrfurchts",
+    "note": "The closing formula is unusual; perhaps 'In Ehrfurcht' or similar."
+   }
+  ],
+  "read_against": "3b8900378cc436c6"
+ }
 }

@@ -334,5 +334,166 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, die Angelegenheit des Fürsten solle diese Woche günstig entschieden werden, drängt aber, Eberhard eilig nach Wien zu senden, um einen Vergleich mit den Erbinnen zu schließen; schlimmstenfalls müssten die Güter 5 Jahre länger administriert werden. Er beklagt, dass Fürst August Cosmar die Vollmacht nicht abnehmen will, schlägt einen über Hardenberg zu betreibenden Schritt zugunsten Prinz Adolphs vor und erbittet 100 #, um Barbe zu bezahlen. Dazu Kongressnachrichten und Kriegsgerüchte."
+ "summary_de": "Triebenfeld meldet, die Angelegenheit des Fürsten solle diese Woche günstig entschieden werden, drängt aber, Eberhard eilig nach Wien zu senden, um einen Vergleich mit den Erbinnen zu schließen; schlimmstenfalls müssten die Güter 5 Jahre länger administriert werden. Er beklagt, dass Fürst August Cosmar die Vollmacht nicht abnehmen will, schlägt einen über Hardenberg zu betreibenden Schritt zugunsten Prinz Adolphs vor und erbittet 100 #, um Barbe zu bezahlen. Dazu Kongressnachrichten und Kriegsgerüchte.",
+ "reading": {
+  "letter": "11",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna during the Congress. He says the Prince's affair is to be decided this week. He urges that Eberhard be sent at once to settle with the heirs (\"Churp. Erbinen\"). If needed, the estates would be administered 5 years longer, and a pension of 10-12/m or 6/m rt is mentioned. Congress news: Saxony, Württemberg, Russia in Poland. He is outraged that Fürst August will not take the power of attorney back from Cosmar. He proposes a step for Prinz Adolph through Hardenberg (the key word \"Magirenn\" is garbled) and asks for 100 # to pay Barbe. Postscript: rumour that the Austrian army is being put on a war footing. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Angelegenheit soll diese Woche günstig entschieden werden",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Eberhard soll eilig nach Wien gesandt werden, Vergleich mit den Erbinnen",
+    "lines": [
+     6,
+     7,
+     16
+    ]
+   },
+   {
+    "statement": "Güter müssten 5 Jahre länger administriert werden",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Fürst August will Cosmar die Vollmacht nicht abnehmen",
+    "lines": [
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Vorschlag zugunsten Prinz Adolphs über Hardenberg",
+    "lines": [
+     39,
+     40,
+     41,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "erbittet 100 #, um Barbe zu bezahlen",
+    "lines": [
+     52,
+     53
+    ]
+   },
+   {
+    "statement": "Kongressnachrichten und Kriegsgerüchte",
+    "lines": [
+     18,
+     19,
+     20,
+     27,
+     62,
+     63,
+     64,
+     65,
+     66
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "reſten",
+    "note": "probably 'festen'"
+   },
+   {
+    "line": 5,
+    "word": "Leer",
+    "note": "garbled idiom (leeres Stroh)"
+   },
+   {
+    "line": 6,
+    "word": "Churp. Erbinen",
+    "note": "abbreviation unclear"
+   },
+   {
+    "line": 10,
+    "word": "allen",
+    "note": "probably a currency word (Gulden?)"
+   },
+   {
+    "line": 14,
+    "word": "war",
+    "note": "probably 'wer'"
+   },
+   {
+    "line": 18,
+    "word": "ruhnet",
+    "note": "probably 'rühmt'"
+   },
+   {
+    "line": 22,
+    "word": "west",
+    "note": "probably 'fest'"
+   },
+   {
+    "line": 22,
+    "word": "fehlen",
+    "note": "unclear, perhaps 'selbst Polen'"
+   },
+   {
+    "line": 23,
+    "word": "hinwelischen",
+    "note": "garbled"
+   },
+   {
+    "line": 29,
+    "word": "Zernmieden",
+    "note": "garbled, perhaps 'Beschwerden'"
+   },
+   {
+    "line": 36,
+    "word": "Chattgoria",
+    "note": "Categorie"
+   },
+   {
+    "line": 41,
+    "word": "Magirenn",
+    "note": "probably 'majorenn'"
+   },
+   {
+    "line": 46,
+    "word": "Haube",
+    "note": "probably 'Habe'"
+   },
+   {
+    "line": 46,
+    "word": "mälert",
+    "note": "garbled"
+   },
+   {
+    "line": 62,
+    "word": "Neuperg Court",
+    "note": "garbled name"
+   },
+   {
+    "line": 63,
+    "word": "Ostere",
+    "note": "probably 'österreichische'"
+   },
+   {
+    "line": 64,
+    "word": "pertacte",
+    "note": "garbled"
+   },
+   {
+    "line": 65,
+    "word": "einzerhoben",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "5cf74c02962fcff7"
+ }
 }

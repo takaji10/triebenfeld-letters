@@ -210,5 +210,110 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld will die Einlagen des Fürsten nicht an Koppen weitergeben, weil danach Eysenhardt Gelder aus der Bank-Assignation beziehen soll. Der zugehörige Wechsel sei abgelaufen. Der Fürst soll Amelang anweisen, die Assignation zurückzugeben, und Eysenhardt anderweitig befriedigen. Sonst will v. Triebenfeld sie öffentlich für ungültig erklären lassen. Er sei so gut wie arretiert und bittet um 2000 Rthl für die Invalidenzinsen. Laar müsse 5000 Rthl Courant erhalten, sonst gerate Zastrow in Verlegenheit."
+ "summary_de": "v. Triebenfeld will die Einlagen des Fürsten nicht an Koppen weitergeben, weil danach Eysenhardt Gelder aus der Bank-Assignation beziehen soll. Der zugehörige Wechsel sei abgelaufen. Der Fürst soll Amelang anweisen, die Assignation zurückzugeben, und Eysenhardt anderweitig befriedigen. Sonst will v. Triebenfeld sie öffentlich für ungültig erklären lassen. Er sei so gut wie arretiert und bittet um 2000 Rthl für die Invalidenzinsen. Laar müsse 5000 Rthl Courant erhalten, sonst gerate Zastrow in Verlegenheit.",
+ "reading": {
+  "letter": "37",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin writes to the Prince in reply to his letter of 23 April. He will not pass the enclosures to Koppen, just back from Paris, because they let Eysenhardt draw on the bank Assignation. The bill given with it has expired. The Assignation lies with Geh. Rath Amelang, who should return it. Otherwise Triebenfeld will have it annulled in the newspapers. He is as good as arrested over this and the Invaliden interest. He asks for 2000 rt. Laar must have 5000 Courant or Minister v Zastrow is embarrassed. Money is available in Holland but none on Polish estates. His recovery is slow. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Will die Einlagen nicht an Koppen abgeben, weil Eysenhardt Gelder aus der Assignation beziehen soll",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Der Wechsel ist abgelaufen, die Assignation soll an die Bank zurück",
+    "lines": [
+     8,
+     9,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Der Fürst soll Amelang schreiben, dass er die Assignation zurückgibt, und Eysenhardt anderweitig befriedigen",
+    "lines": [
+     13,
+     14,
+     15,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Sonst will er sie in öffentlichen Blättern für ungültig erklären lassen",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Er ist so gut wie arretiert und kann wegen der Invalidenzinsen nicht abreisen",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Er bittet um 2000 Rthl für die Invalidenzinsen",
+    "lines": [
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Laar muss 5000 Rthl Courant haben, sonst gerät Zastrow in Verlegenheit",
+    "lines": [
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Geld gibt es in Holland, aber nicht auf Güter in Pohlen",
+    "lines": [
+     27,
+     28,
+     29
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "breit unnulliren",
+    "note": "probably 'Avertissement annulliren' or similar; unclear"
+   },
+   {
+    "line": 14,
+    "word": "eine selbige",
+    "note": "probably 'mir selbige'"
+   },
+   {
+    "line": 23,
+    "word": "ein Papieren beſtellte",
+    "note": "probably 'in Papieren bestellte'"
+   },
+   {
+    "line": 25,
+    "word": "Laar",
+    "note": "possibly the edition's 'von der Lahr'; not certain it is the same person"
+   },
+   {
+    "line": 21,
+    "word": "Rath",
+    "note": "'Rath schafft' seems to be split across the line; unclear word order"
+   },
+   {
+    "line": 27,
+    "word": "Stürer",
+    "note": "probably 'Stüver'"
+   }
+  ],
+  "read_against": "913e04dcd22af92c"
+ }
 }

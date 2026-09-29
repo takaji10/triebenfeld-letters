@@ -105,5 +105,75 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, er glaube, das Geschäft wegen der Urkunden über sämtliche geistliche Güter abgeschlossen zu haben. Sollte sich sein Aufenthalt hinziehen, will er sie mit der nächsten Post nach Wrocław schicken. Anfangs verlangte man das 2½-fache, jetzt zahlt er nur 240 Fr d'or und etwa 200 Rthl. Das Geld hat er beim Geheimen Ober Rechnungsrath Mathias geliehen, der es in 14 Tagen zurück braucht. Er bittet den Fürsten, es bald anzuweisen."
+ "summary_de": "Triebenfeld meldet, er glaube, das Geschäft wegen der Urkunden über sämtliche geistliche Güter abgeschlossen zu haben. Sollte sich sein Aufenthalt hinziehen, will er sie mit der nächsten Post nach Wrocław schicken. Anfangs verlangte man das 2½-fache, jetzt zahlt er nur 240 Fr d'or und etwa 200 Rthl. Das Geld hat er beim Geheimen Ober Rechnungsrath Mathias geliehen, der es in 14 Tagen zurück braucht. Er bittet den Fürsten, es bald anzuweisen.",
+ "reading": {
+  "letter": "110",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Berlin to the Prince. He reports that he has settled the business of the documents (Urkunden) for all the ecclesiastical estates. The fee first demanded was 2½ times that for the first document, because of the value stated in the first ministerial report. He now pays only 240 Fr d'or and about 200 rt, borrowed from Geheimer Ober Rechnungsrath Mathias, who needs it back in 14 days. He asks the Prince to assign the money quickly. He himself will get no money before Johanni. He expects news tomorrow in the Prince's other matter. The NB on line 23 is unclear. Nothing concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld meldet, er habe das Geschäft wegen der Urkunden über sämtliche geistliche Güter abgeschlossen.",
+    "lines": [
+     4,
+     5
+    ],
+    "check": "overstated",
+    "why": "Der Brief sagt 'glaube ich ... abgemacht zu haben'. Triebenfeld glaubt also nur, das Geschäft erledigt zu haben. Die Zusammenfassung stellt es als Tatsache dar."
+   },
+   {
+    "statement": "Sollte sich sein Aufenthalt hinziehen, will er sie mit der nächsten Post nach Wrocław schicken.",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Anfangs verlangte man das 2½-fache, jetzt zahlt er nur 240 Fr d'or und etwa 200 Rthl.",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Das Geld hat er beim Geheimen Ober Rechnungsrath Mathias geliehen, der es in 14 Tagen zurück braucht.",
+    "lines": [
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er bittet den Fürsten, es bald anzuweisen.",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "In der anderen Sache des Fürsten hofft er morgen mehr zu erfahren.",
+    "lines": [
+     19,
+     20,
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "nun",
+    "note": "Possibly 'mein' (mein Aufenthalt); not provable."
+   },
+   {
+    "line": 23,
+    "word": "NB. statt 14175 — und 1500 —",
+    "note": "The postscript's meaning and its figures are unclear; left out of the summary."
+   }
+  ],
+  "read_against": "629dc9a7a543b81e"
+ }
 }

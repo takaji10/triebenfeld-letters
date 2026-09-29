@@ -469,5 +469,115 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld beklagt, dass der Brief vom 3ten Aprill unverschlossen beim Post Director lag und wohl gelesen wurde. Er begrüßt Prinz Adolphs Entschluss und will vor der Abreise des Königs, angeblich am 18ten, diesem den Entschluss vortragen und fragen, wohin Adolph kommen und welche Uniform er tragen soll. Beguelin gab Lombardinis Schreiben dem Kanzler, Hahns drohendes Schreiben zeigt Triebenfeld nicht. Er berichtet über die Rüstungen gegen Bonaparte und weist die Vorwürfe wegen des geschickten Geldes zurück."
+ "summary_de": "Triebenfeld beklagt, dass der Brief vom 3ten Aprill unverschlossen beim Post Director lag und wohl gelesen wurde. Er begrüßt Prinz Adolphs Entschluss und will vor der Abreise des Königs, angeblich am 18ten, diesem den Entschluss vortragen und fragen, wohin Adolph kommen und welche Uniform er tragen soll. Beguelin gab Lombardinis Schreiben dem Kanzler, Hahns drohendes Schreiben zeigt Triebenfeld nicht. Er berichtet über die Rüstungen gegen Bonaparte und weist die Vorwürfe wegen des geschickten Geldes zurück.",
+ "reading": {
+  "letter": "287",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to the Prince. The Prince's letter of 3 April arrived unsealed inside the envelope to the Post Director. Triebenfeld welcomes Prinz Adolph's decision to join the army. He will ask the King, who is said to leave on the 18th, where Adolph should go and which uniform he should wear. He passed Lombardini's letter on through Beguelin but is holding back Hahn's threatening one. The letter then gives long political and military news: the Hortensia letter, troop numbers of the allies, Bonaparte outlawed. Pourtalès has not arrived, and Radziwiłł is going to Posen with Zerboni. Triebenfeld rejects the Prince's reproaches about the money he sent. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Brief vom 3ten Aprill unverschlossen beim Post Director, wohl gelesen",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "begrüßt Prinz Adolphs Entschluss",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "will vor Abreise des Königs am 18ten diesem den Entschluss vortragen, fragen wohin Adolph kommen und welche Uniform",
+    "lines": [
+     12,
+     14,
+     15,
+     82,
+     83,
+     84,
+     85
+    ]
+   },
+   {
+    "statement": "Beguelin gab Lombardinis Schreiben dem Kanzler",
+    "lines": [
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Hahns drohendes Schreiben zeigt er nicht",
+    "lines": [
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "berichtet über Rüstungen gegen Bonaparte",
+    "lines": [
+     89,
+     90,
+     91,
+     98,
+     99,
+     100
+    ]
+   },
+   {
+    "statement": "weist Vorwürfe wegen des geschickten Geldes zurück",
+    "lines": [
+     118,
+     119,
+     120
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 24,
+    "word": "Liende",
+    "note": "unclear word, perhaps a name or 'meine'"
+   },
+   {
+    "line": 21,
+    "word": "Irrenrieden",
+    "note": "perhaps 'Klagelieder' or similar"
+   },
+   {
+    "line": 60,
+    "word": "Caropin",
+    "note": "meaning unclear"
+   },
+   {
+    "line": 72,
+    "word": "zugegangen",
+    "note": "probably 'zu befriedigen'"
+   },
+   {
+    "line": 87,
+    "word": "Schicksicht",
+    "note": "probably 'Schicksal'"
+   },
+   {
+    "line": 111,
+    "word": "Rohr",
+    "note": "unclear, perhaps a name"
+   },
+   {
+    "line": 8,
+    "word": "kublen",
+    "note": "probably 'gucken'"
+   }
+  ],
+  "read_against": "e7fc77b5fa3c1d7e"
+ }
 }

@@ -101,5 +101,41 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Abschrift. Beyme teilt dem Fürsten mit, dass Sr Majestät nach dem Vortrag seines Schreibens vom 21. d. M. befohlen hat, die Antwort darauf bis zum Eingang des Berichts zurückzustellen, den der Etats Minister v. Voss liefern soll. Der Fürst habe dies nach Beymes Worten selbst zu erwarten geschienen."
+ "summary_de": "Abschrift. Beyme teilt dem Fürsten mit, dass Sr Majestät nach dem Vortrag seines Schreibens vom 21. d. M. befohlen hat, die Antwort darauf bis zum Eingang des Berichts zurückzustellen, den der Etats Minister v. Voss liefern soll. Der Fürst habe dies nach Beymes Worten selbst zu erwarten geschienen.",
+ "reading": {
+  "letter": "100",
+  "legibility": "sound",
+  "notes": "Copy of a short note from Cabinets Rath Beyme to the Prince. He reports that the King has considered the Prince's letter of the 21st of this month and ordered that the answer wait until a report requested from Etats Minister v. Voss has come in. The text is sound. It has nothing to do with Trąbczyn. From the context this is probably the Krotoszyn matter, but the letter does not say so, so it stays out of the summary.",
+  "claims": [
+   {
+    "statement": "Abschrift",
+    "lines": [
+     2
+    ]
+   },
+   {
+    "statement": "Der König hat nach dem Vortrag des fürstlichen Schreibens vom 21. d. M. befohlen, die Antwort bis zum Eingang des von v. Voss erforderten Berichts auszusetzen.",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Der Fürst hat dies nach Beymes Worten selbst erwartet.",
+    "lines": [
+     9,
+     10
+    ],
+    "check": "overstated",
+    "why": "Lines 9-10 say 'wie Euer Hochfürstliche Durchlaucht selbst zu erwarten schienen': the prince only seemed to expect it. The letter does not say he expected it for certain."
+   }
+  ],
+  "doubtful_words": [],
+  "read_against": "a9eab0f74be36dc7"
+ }
 }

@@ -314,5 +314,106 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, dass eine Cabinets Ordre vom 27. April die sofortige Auszahlung der 100000 Rthl an Fürst August befiehlt. Die Entschädigung für die polnischen Güter sei durch Minister Humboldt entschieden, das Wie und Wann hänge aber vom Kayser ab. Stein, Worowzow und Nesselrode setzen sich dafür ein. Cosmar soll die Gelder des Fürsten sofort hinterlegen, sonst drohen ihm Arrest und ein Oberaufseher. In der Militärsache gibt es nichts Neues. Triebenfeld bittet dringend um Geld."
+ "summary_de": "Triebenfeld meldet, dass eine Cabinets Ordre vom 27. April die sofortige Auszahlung der 100000 Rthl an Fürst August befiehlt. Die Entschädigung für die polnischen Güter sei durch Minister Humboldt entschieden, das Wie und Wann hänge aber vom Kayser ab. Stein, Worowzow und Nesselrode setzen sich dafür ein. Cosmar soll die Gelder des Fürsten sofort hinterlegen, sonst drohen ihm Arrest und ein Oberaufseher. In der Militärsache gibt es nichts Neues. Triebenfeld bittet dringend um Geld.",
+ "reading": {
+  "letter": "291",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Friedrich Ludwig. The Cabinets Ordre of 27 April orders prompt payment of 100000 rt to Fürst August; it was sent to Kircheisen and made known on 6 May. The compensation for the Polish estates has been decided through Humboldt, but the Kayser has not yet settled how. Stein, Worowzow and Nesselrode are pressing him (300000 rt). Cosmar is to deposit the Prince's money at once or face arrest and a supervisor; the order awaits the Kanzler's signature. Nothing yet on the military matter. The King leaves on the night of 25/26 May for Berlin and Heilbronn. Also: news of Württemberg, Koppe's post in Hanover, and an urgent request for money. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Cabinets Ordre vom 27. April befiehlt schleunigste Auszahlung der 100000 Rthl an Fürst August",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Entschädigung wegen der polnischen Güter durch Minister Humboldt entschieden, Wie und Wann hängt vom Kayser ab",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Stein, Worowzow und Nesselrode bemühen sich darum",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Cosmar soll die Gelder des Fürsten sofort hinterlegen, sonst drohen Arrest und ein Oberaufseher",
+    "lines": [
+     24,
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "In der Militärsache nichts Neues",
+    "lines": [
+     32
+    ]
+   },
+   {
+    "statement": "Bittet dringend um Geld",
+    "lines": [
+     47,
+     48,
+     49,
+     50
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "stoff",
+    "note": "probably 'steht'"
+   },
+   {
+    "line": 21,
+    "word": "im",
+    "note": "probably 'in'"
+   },
+   {
+    "line": 30,
+    "word": "Hr:",
+    "note": "passage 'Hr: wittert' is garbled"
+   },
+   {
+    "line": 34,
+    "word": "in",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 36,
+    "word": "noch",
+    "note": "probably 'nach', but the writer may write it this way himself"
+   },
+   {
+    "line": 45,
+    "word": "mehren",
+    "note": "sentence 'Schreiben für Durchl. um nicht mehren mich' is garbled"
+   },
+   {
+    "line": 49,
+    "word": "Both",
+    "note": "unclear; perhaps 'bat' or 'Bote'"
+   },
+   {
+    "line": 19,
+    "word": "Worowzow",
+    "note": "probably Woronzow"
+   }
+  ],
+  "read_against": "f34b1720ad32b633"
+ }
 }

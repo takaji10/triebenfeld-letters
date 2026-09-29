@@ -273,5 +273,71 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Das Kammergericht fordert Kircheisen als Testamentsvollstrecker der verstorbenen Fürstin von Sacken auf, Triebenfeld nichts von einem Legat auszuzahlen. Dies gilt, falls die Klage der General Invaliden Casse zutrifft, wonach Fürst Hohenlohe-Ingelfingen aus dem Nachlass 80000 Rthl erhalte und diese Triebenfeld zur Begleichung seiner Forderungen angewiesen habe. Gleichlautend ergeht das Schreiben an Cosmar. Das Ober Landes Gericht von Schlesien übersendet Triebenfeld in Konotop die Vorladung des Kammergerichts und verlangt eine Empfangsbescheinigung."
+ "summary_de": "Das Kammergericht fordert Kircheisen als Testamentsvollstrecker der verstorbenen Fürstin von Sacken auf, Triebenfeld nichts von einem Legat auszuzahlen. Dies gilt, falls die Klage der General Invaliden Casse zutrifft, wonach Fürst Hohenlohe-Ingelfingen aus dem Nachlass 80000 Rthl erhalte und diese Triebenfeld zur Begleichung seiner Forderungen angewiesen habe. Gleichlautend ergeht das Schreiben an Cosmar. Das Ober Landes Gericht von Schlesien übersendet Triebenfeld in Konotop die Vorladung des Kammergerichts und verlangt eine Empfangsbescheinigung.",
+ "reading": {
+  "letter": "74c",
+  "legibility": "sound",
+  "notes": "Copied court papers. Part 1 (lines 1-19): order from the Königl. Preuß. Kammergericht, Berlin, 1 August 1811, to Minister von Kircheisen as executor of the will of the late Fürstin von Sacken. The same order went to Ober Medicinal Rath Cosmar and to Triebenfeld at Kontop. It says: if the General Invaliden Casse is right that the Prince's legacy of 80000 rt has been assigned to Triebenfeld, pay Triebenfeld nothing of it. Part 2 (lines 20-27): cover note from the Ober Landes Gericht von Schlesien in Glogau, 6 August, signed Fülleborn. It forwards the Kammergericht's summons to Triebenfeld and asks him to confirm receipt.",
+  "claims": [
+   {
+    "statement": "Das Kammergericht fordert Kircheisen als Testamentsvollstrecker der verstorbenen Fürstin von Sacken auf, Triebenfeld nichts auszuzahlen.",
+    "lines": [
+     1,
+     2,
+     8,
+     9,
+     11
+    ]
+   },
+   {
+    "statement": "Dies gilt, falls die Klage der General Invaliden Casse zutrifft, wonach Hohenlohe-Ingelfingen ein Legat von 80000 Rthl erhalte und dieses Triebenfeld zur Begleichung seiner Forderungen angewiesen habe.",
+    "lines": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Gleichlautend an Cosmar und Triebenfeld.",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19
+    ],
+    "check": "overstated",
+    "why": "'in simili' (lines 15-17) covers only Cosmar. The address to Triebenfeld (lines 18-19) is the heading of the separate Glogau letter from the Ober Landes Gericht, not a second copy of the Kammergericht letter."
+   },
+   {
+    "statement": "Das Ober Landes Gericht von Schlesien übersendet Triebenfeld in Konotop die Vorladung und verlangt eine Empfangsbescheinigung.",
+    "lines": [
+     18,
+     19,
+     21,
+     22,
+     23,
+     24,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Fürsten",
+    "note": "Wahrscheinlich 'Fürstin' (vgl. Z. 2 'Furstin'), kann aber auch die Schreibung des Schreibers sein."
+   },
+   {
+    "line": 26,
+    "word": "Preußl.",
+    "note": "Ungewöhnliche Abkürzung, wohl 'Preuß.' wie in Z. 11."
+   }
+  ],
+  "read_against": "6ca5b7a964f23330"
+ }
 }

@@ -229,5 +229,84 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Vorladung des Kammergerichts Berlin: Auf Antrag der General Invaliden Casse gegen Triebenfeld ist ein Arrest auf das Legat von 80000 Rthl verhängt, das die verstorbene Fürstin von Sacken dem Fürsten von Hohenlohe-Ingelfingen vermacht hat. Triebenfeld soll am 23. August um 10 Uhr vor Kammergerichtsrath Roitsch selbst oder durch einen Justizkommissar erscheinen, seine Einwendungen und seinen Schaden vortragen, die Höhe der Caution angeben und einen Vergleich versuchen. Bleibt er aus, bleibt der Arrest bestehen."
+ "summary_de": "Vorladung des Kammergerichts Berlin: Auf Antrag der General Invaliden Casse gegen Triebenfeld ist ein Arrest auf das Legat von 80000 Rthl verhängt, das die verstorbene Fürstin von Sacken dem Fürsten von Hohenlohe-Ingelfingen vermacht hat. Triebenfeld soll am 23. August um 10 Uhr vor Kammergerichtsrath Roitsch selbst oder durch einen Justizkommissar erscheinen, seine Einwendungen und seinen Schaden vortragen, die Höhe der Caution angeben und einen Vergleich versuchen. Bleibt er aus, bleibt der Arrest bestehen.",
+ "reading": {
+  "letter": "74d",
+  "legibility": "sound",
+  "notes": "Summons from the Königl. Preuß. Cammergericht in Berlin (signed Woldermann, with the name Stoewersand at the foot) to Triebenfeld at Konotop. The General Invaliden Casse asked for an arrest on the 80000 rt legacy that the late Fürstin von Sacken left to the Prince. The court granted the arrest and set a hearing for 23 August at 10 before Kammergerichtsrath Roitsch. Triebenfeld must appear in person or through a Justizkommissar, answer, state his damage and the amount of caution, and try for a settlement. If he does not appear, the arrest stands. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Die General Invaliden Casse hat gegen Triebenfeld einen Arrest auf das Legat von 80000 Rthl beantragt, das die verstorbene Fürstin von Sacken dem Fürsten von Hohenlohe-Ingelfingen vermacht hat.",
+    "lines": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Das Gericht hat den Arrest verhängt und einen Termin am 23. August um 10 Uhr vor Kammergerichtsrath Roitsch angesetzt.",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Triebenfeld soll selbst oder durch einen Justizkommissar erscheinen, seine Einwendungen und seinen Schaden vortragen und die Höhe der Caution angeben.",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Er soll mit dem Kläger einen Vergleich versuchen.",
+    "lines": [
+     16,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Bleibt er aus, bleibt der Arrest bestehen.",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Es handelt sich um eine Vorladung des Kammergerichts Berlin.",
+    "lines": [
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "übersprüche übe,",
+    "note": "Garbled. Probably 'überhaupt aber über das, was' or something similar; not certain."
+   },
+   {
+    "line": 24,
+    "word": "nach dem Antrage",
+    "note": "Something seems to be missing between lines 23 and 24 (for example 'und in der Hauptsache')."
+   },
+   {
+    "line": 14,
+    "word": "verklären",
+    "note": "Probably 'erklären'."
+   }
+  ],
+  "read_against": "33de8658b4167af6"
+ }
 }

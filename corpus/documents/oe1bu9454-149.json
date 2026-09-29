@@ -316,5 +316,123 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld erwartet die Leute aus dem Oder- und Netzebruch und hat wüste Gründe an der Grenze vorteilhaft verkauft; keine Hufe soll unter 600 Rthl abgegeben werden. Er hofft, die Taxe der Zagorower Güter ergebe über 400000 Rthl, und will in Berlin Geld für Schlabrendorff und Lichnowski aufnehmen. Die Wrąbczyner Untertanen verweigern den Zins, klagen über Glencks Drohungen und Zwangsdienste bei Zagorower Bürgern und bieten einen Rthl pro Morgen; er verwies sie an Justiz Bürgermeister Schenck."
+ "summary_de": "Triebenfeld erwartet die Leute aus dem Oder- und Netzebruch und hat wüste Gründe an der Grenze vorteilhaft verkauft; keine Hufe soll unter 600 Rthl abgegeben werden. Er hofft, die Taxe der Zagorower Güter ergebe über 400000 Rthl, und will in Berlin Geld für Schlabrendorff und Lichnowski aufnehmen. Die Wrąbczyner Untertanen verweigern den Zins, klagen über Glencks Drohungen und Zwangsdienste bei Zagorower Bürgern und bieten einen Rthl pro Morgen; er verwies sie an Justiz Bürgermeister Schenck.",
+ "reading": {
+  "letter": "149",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Trąbczyn to the Prince. He is waiting for settlers from the Oder and Netze Brüche and has sold waste plots at the border. His price floor is 600 rt per Hufe. He hopes the Taxe of the Zagorower estates will come to over 400000 rt, and he will borrow in Berlin to pay Schlabrendorff and Lichnowski. He has quarrelled with Glenck, has had colic, and has trouble with the Oleśnica Erbpächter. The Wrąbczyn subjects refuse their Zins and complain that Glenck threatened to take their plots, that Glenck's Schreiber forced them to serve and that the Meyer hired 18 of them out to Zagorowo burghers at 4 gg a day. The Meyer has also told them they are to be sold with the Voigtey to Marowecki for 15000 rt. They offer one rthlr per Morgen, and Triebenfeld has sent them to Justiz Bürgermeister Schenck.",
+  "claims": [
+   {
+    "statement": "erwartet die Leute aus dem Oder- und Netzebruch",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "hat wüste Gründe an der Grenze vorteilhaft verkauft",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "keine Hufe soll unter 600 Rthl abgegeben werden",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "hofft, die Taxe der Zagorower Güter ergebe über 400000 Rthl",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "will in Berlin Geld für Schlabrendorff und Lichnowski aufnehmen",
+    "lines": [
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Wrąbczyner Untertanen verweigern den Zins",
+    "lines": [
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "klagen über Glencks Drohungen und Zwangsdienste bei Zagorower Bürgern",
+    "lines": [
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41
+    ]
+   },
+   {
+    "statement": "bieten einen Rthl pro Morgen",
+    "lines": [
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "verwies sie an Justiz Bürgermeister Schenck",
+    "lines": [
+     51,
+     52,
+     53
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "Beſſerpre",
+    "note": "garbled, probably 'Besseren' (better plots)"
+   },
+   {
+    "line": 10,
+    "word": "ebene die Figur",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 7,
+    "word": "ausgemerkt",
+    "note": "doubtful reading; meaning unclear"
+   },
+   {
+    "line": 35,
+    "word": "ihme",
+    "note": "probably 'ihnen'"
+   },
+   {
+    "line": 52,
+    "word": "Schenck",
+    "note": "The edition's notes give Hawich as Justiz Bürgermeister of Zagórów; the name here may be misread, or it may be a different person"
+   },
+   {
+    "line": 20,
+    "word": "Ge",
+    "note": "abbreviation or fragment before Schlabrendorff, unclear"
+   },
+   {
+    "line": 56,
+    "word": "Hochachtung",
+    "note": "The edition's formula is 'Ehrfurcht', but letter 151 also has Hochachtung, so not corrected"
+   }
+  ],
+  "read_against": "41a3579d87b9bf3c"
+ }
 }

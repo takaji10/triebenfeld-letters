@@ -481,5 +481,127 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Wartet sehnlich auf den Bericht des Ministers von Voss zum geplanten Gütertausch. Schulenburg zeigt sich bereitwillig, Hoym versprach Unterstützung und wolle 1000 Rthl geben, wenn die Sache bald zustande komme. Nennt die Verteilung der Summe: Schulzes Tochter 2500 Rthl, Klewitz 3000 Rthl, Michaelis 300 Dukaten. Berichtet vom Streit am Hof über einen Krieg. Bleibt bis zur Erledigung der Krotoszyn-Sache in Berlin, verhandelt 120/m Rthl aus der Witwenkasse und bittet erneut um die Blanketts."
+ "summary_de": "Wartet sehnlich auf den Bericht des Ministers von Voss zum geplanten Gütertausch. Schulenburg zeigt sich bereitwillig, Hoym versprach Unterstützung und wolle 1000 Rthl geben, wenn die Sache bald zustande komme. Nennt die Verteilung der Summe: Schulzes Tochter 2500 Rthl, Klewitz 3000 Rthl, Michaelis 300 Dukaten. Berichtet vom Streit am Hof über einen Krieg. Bleibt bis zur Erledigung der Krotoszyn-Sache in Berlin, verhandelt 120/m Rthl aus der Witwenkasse und bittet erneut um die Blanketts.",
+ "reading": {
+  "letter": "79",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin to Prince Hohenlohe on the proposed exchange of the estates granted by the King (Güter Tausch). Awaits Voss's report; Schulenburg (Dispositions Casse) willing; Hoym, called to Potsdam, promises help and 1000 rt if quick; Struensee informed via Beyme. Rumoured distribution of the sum: Schulz's daughter 2500, Klewitz 3000, Michaelis 300 Ducaten, rest 'X Spinne' and Treskow. Informants in Potsdam. Politics: war debate at court. Stays until Krotoszyn affair settled; negotiating 120/m Rthl from the Wittwen Casse on his estates; asks for blanquets. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Wartet sehnlich auf den Bericht des Ministers von Voss",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Geplanter Gütertausch",
+    "lines": [
+     91,
+     92
+    ]
+   },
+   {
+    "statement": "Schulenburg zeigt sich bereitwillig",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Hoym versprach Unterstützung und wolle 1000 Rthl geben, wenn die Sache bald zustande komme",
+    "lines": [
+     20,
+     21,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Verteilung: Schulzes Tochter 2500 Rthl, Klewitz 3000 Rthl, Michaelis 300 Dukaten",
+    "lines": [
+     41,
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Streit am Hof über einen Krieg",
+    "lines": [
+     55,
+     56,
+     57,
+     62
+    ]
+   },
+   {
+    "statement": "Bleibt bis zur Erledigung der Krotoszyn-Sache in Berlin",
+    "lines": [
+     87,
+     88,
+     89
+    ]
+   },
+   {
+    "statement": "Verhandelt 120/m Rthl aus der Witwenkasse",
+    "lines": [
+     90,
+     91,
+     92
+    ]
+   },
+   {
+    "statement": "Bittet erneut um die Blanketts",
+    "lines": [
+     95,
+     96
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "Anfait",
+    "note": "probably 'Avis' or 'Anzeige' (cf. 'Anfalt' l. 30)"
+   },
+   {
+    "line": 30,
+    "word": "Anfalt",
+    "note": "same unclear word as l. 17"
+   },
+   {
+    "line": 73,
+    "word": "Woche",
+    "note": "probably 'Folge'"
+   },
+   {
+    "line": 76,
+    "word": "Mittwen",
+    "note": "garbled passage; probably not a word"
+   },
+   {
+    "line": 84,
+    "word": "Obest",
+    "note": "probably 'Obrist'"
+   },
+   {
+    "line": 84,
+    "word": "Stru-Parthe",
+    "note": "probably 'Struensee Parthey'"
+   },
+   {
+    "line": 22,
+    "word": "deswilligen",
+    "note": "probably 'deswillen'"
+   },
+   {
+    "line": 95,
+    "word": "briefen",
+    "note": "unclear; perhaps 'schicken'"
+   }
+  ],
+  "read_against": "f2164969d2d23c8c"
+ }
 }

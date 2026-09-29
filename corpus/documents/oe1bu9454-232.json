@@ -433,5 +433,109 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld, seit Wochen krank und ohne Geld für einen Arzt, berichtet von Schikanen um die Verpachtung; Brzechffa habe erklärt, zu Johanni zu zahlen. Mit Brzechffa will er nach Warszawa, um die Trąbczyner und Wrąbczyner Sache zu betreiben. Er bittet eilig um eine gerichtlich ausgestellte Erklärung, die ihm 3125 Rthl, mit Zinsen und Kosten 4219 Rthl, aus den Zinsen von Swięcia, Wrąbczyn, Alt Olesnica, Skokum, Sophienthal, Kopojno und Adelow anweist. Getreide, Vieh und Futter seien weggenommen, die Not sei groß."
+ "summary_de": "Triebenfeld, seit Wochen krank und ohne Geld für einen Arzt, berichtet von Schikanen um die Verpachtung; Brzechffa habe erklärt, zu Johanni zu zahlen. Mit Brzechffa will er nach Warszawa, um die Trąbczyner und Wrąbczyner Sache zu betreiben. Er bittet eilig um eine gerichtlich ausgestellte Erklärung, die ihm 3125 Rthl, mit Zinsen und Kosten 4219 Rthl, aus den Zinsen von Swięcia, Wrąbczyn, Alt Olesnica, Skokum, Sophienthal, Kopojno und Adelow anweist. Getreide, Vieh und Futter seien weggenommen, die Not sei groß.",
+ "reading": {
+  "letter": "232",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kopojno to the Prince. He has been ill for weeks and has no money. He reports chicanery over the lease and the propination (the right to make and sell liquor), Brzechffa's promise to pay at Johanni, and a plan to have General Prokurator Lipski come. He plans a Warsaw trip with Brzechffa about the Trąbczyn and Wrąbczyn matters. The 300 rt for Sommer cannot be found. He asks for a court-certified declaration assigning him 3125 rt (4219 rt with interest and costs) from the dues of several villages. He describes the want caused by troops. The Prince has written \"Jawohl!\" in the margin. Much of the text is garbled.",
+  "claims": [
+   {
+    "statement": "Triebenfeld ist seit Wochen krank und kann sich ohne Geld keinen Arzt nehmen",
+    "lines": [
+     6,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Schikanen um die Verpachtung",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Brzechffa erklärte, zu Johanni zu zahlen",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Plan, mit Brzechffa nach Warschau zu gehen, um die Trąbczyner und Wrąbczyner Sache zu betreiben",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Die 300 Rthl für Sommer sind nicht aufzubringen",
+    "lines": [
+     46,
+     47
+    ]
+   },
+   {
+    "statement": "Bitte um gerichtlich ausgestellte Erklärung über 3125 Rthl, mit Zinsen und Kosten 4219 Rthl, anzuweisen auf Zinsen der genannten Dörfer",
+    "lines": [
+     61,
+     62,
+     63,
+     65,
+     66,
+     67,
+     68,
+     74,
+     75
+    ]
+   },
+   {
+    "statement": "Getreide, Vieh und Futter weggenommen, große Not",
+    "lines": [
+     78,
+     79,
+     80
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 18,
+    "word": "Kuntzel",
+    "note": "possibly Kunckel (edition list), unproven"
+   },
+   {
+    "line": 29,
+    "word": "Herrlichen",
+    "note": "garbled; perhaps Invaliden Casse (cf. l.57)"
+   },
+   {
+    "line": 54,
+    "word": "heralichen",
+    "note": "same garbled Casse name as l.29"
+   },
+   {
+    "line": 24,
+    "word": "sammelat",
+    "note": "probably 'sammelt'; object Stiennen[?] unclear (Stimmen?)"
+   },
+   {
+    "line": 79,
+    "word": "durch warſche",
+    "note": "probably 'Durchmärsche'"
+   },
+   {
+    "line": 90,
+    "word": "1811",
+    "note": "edition dates letter 1812; figure not changed"
+   },
+   {
+    "line": 85,
+    "word": "Kontopper",
+    "note": "likely Konotop (Kontop) contract"
+   }
+  ],
+  "read_against": "a521bc6c5df81d05"
+ }
 }

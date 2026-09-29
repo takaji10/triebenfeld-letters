@@ -255,5 +255,82 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, Weigel wolle die für Zagórów einzuhandelnden Güter (Knobelsdorffsche oder Poninskische) annehmen und dafür seine und Stössels Forderungen abrechnen; am 30. will er in Świniary konferieren. Für Świniary bot ein Käufer 220000 Rthl bar, verlangt werden 250000 Rthl; da nur 90000 Rthl intabuliert sind, blieben 160000 Rthl. Sind Weigel und Stössel befriedigt und gehören Grotowski, Lichnowski, Zerboni u. a. auf Trąbczyn, glaubt er mit 150000 Rthl alle übrigen Schulden zu tilgen. Mahnt, den Plan mit F. August zu betreiben."
+ "summary_de": "Triebenfeld meldet, Weigel wolle die für Zagórów einzuhandelnden Güter (Knobelsdorffsche oder Poninskische) annehmen und dafür seine und Stössels Forderungen abrechnen; am 30. will er in Świniary konferieren. Für Świniary bot ein Käufer 220000 Rthl bar, verlangt werden 250000 Rthl; da nur 90000 Rthl intabuliert sind, blieben 160000 Rthl. Sind Weigel und Stössel befriedigt und gehören Grotowski, Lichnowski, Zerboni u. a. auf Trąbczyn, glaubt er mit 150000 Rthl alle übrigen Schulden zu tilgen. Mahnt, den Plan mit F. August zu betreiben.",
+ "reading": {
+  "letter": "201",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince. Weigel has agreed to take the estates being bargained for in exchange for Zagórów, the Knobelsdorff or Poninski ones. In return he will offset his own and Stössel's claims. He is to come to Schweinern (Świniary) on the 30th to talk it over. Triebenfeld's plan: rich Breslau merchants want to buy estates. Someone has offered 220000 rt cash for Schweinern and he asks 250000. With 90000 intabulated (registered as debt on the estate), 160000 would be left in cash. Once Weigel and Stössel are paid, and Grotowski, Lichnowski and Zerboni are charged to Trąbczyn, 150000 would clear the other debts. He urges the Prince to pursue the plan with F. August.",
+  "claims": [
+   {
+    "statement": "Weigel will die für Zagórów einzuhandelnden Güter (Knobelsdorff oder Poninski) annehmen und seine und Stössels Forderungen abrechnen",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "am 30. will er in Świniary konferieren",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Angebot 220000 Rthl bar für Świniary, verlangt 250000 Rthl, 90000 intabuliert, 160000 bar",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "nach Befriedigung Weigels und Stössels, Grotowski, Lichnowski, Zerboni u. a. auf Trąbczyn, mit 150000 Rthl übrige Schulden tilgen",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Mahnt, den Plan mit F. August zu betreiben",
+    "lines": [
+     21
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 19,
+    "word": "viel nicht",
+    "note": "probably 'vielleicht'"
+   },
+   {
+    "line": 20,
+    "word": "ernäußchstete",
+    "note": "garbled; perhaps 'erwünschteste'"
+   },
+   {
+    "line": 23,
+    "word": "krumme Lorenze",
+    "note": "garbled; perhaps 'Complimente' or 'Reverenze'"
+   },
+   {
+    "line": 23,
+    "word": "Sequenz",
+    "note": "garbled; perhaps 'Reverenz'"
+   },
+   {
+    "line": 18,
+    "word": "Linien",
+    "note": "possibly 'Knien'"
+   },
+   {
+    "line": 15,
+    "word": "Weigelt",
+    "note": "Weigel on line 4; both forms occur in this correspondence, so not corrected"
+   }
+  ],
+  "read_against": "14380ce7515fdda1"
+ }
 }

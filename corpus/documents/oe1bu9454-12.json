@@ -124,5 +124,93 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet dringend um die Übersendung der 200 #, da man hier ohne Geld nichts ausrichten könne und sonst trotz guter Lage alles verloren sei. Fürst August solle die Vollmacht rasch von Cosmar zurückfordern. Er warnt vor dem Revers des jungen Herrn, den der Fürst, wie er höre, in Öhringen gelassen habe. Der König von Württemberg habe die Mediatisierten als Stände anerkannt und einen Verfassungsentwurf geschickt."
+ "summary_de": "Triebenfeld bittet dringend um die Übersendung der 200 #, da man hier ohne Geld nichts ausrichten könne und sonst trotz guter Lage alles verloren sei. Fürst August solle die Vollmacht rasch von Cosmar zurückfordern. Er warnt vor dem Revers des jungen Herrn, den der Fürst, wie er höre, in Öhringen gelassen habe. Der König von Württemberg habe die Mediatisierten als Stände anerkannt und einen Verfassungsentwurf geschickt.",
+ "reading": {
+  "letter": "12",
+  "legibility": "partly garbled",
+  "notes": "This is a short, urgent note or postscript from Triebenfeld (probably in Vienna) to the Prince. He begs for \"die 200 #\" (the currency sign is unclear). Without money nothing can be done in Vienna, and everything would be lost. The Prince should make sure Fürst August quickly takes the power of attorney back from Cosmar. People in Vienna think poorly of the young gentleman. The Prince should watch out for the Revers he gave, which the Prince seems to have left in Öhringen. On Württemberg: the King has recognised the mediatised as Stände and sent a draft constitution, and the Stände have protested. The text breaks off at the end. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bittet dringend um die Übersendung der 200 #",
+    "lines": [
+     2,
+     19
+    ]
+   },
+   {
+    "statement": "ohne Geld könne man hier nichts ausrichten, sonst sei trotz guter Lage alles verloren",
+    "lines": [
+     4,
+     5,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Fürst August solle die Vollmacht rasch von Cosmar zurückfordern",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Warnung vor dem Revers des jungen Herrn, den der Fürst in Öhringen gelassen habe",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
+    "check": "overstated",
+    "why": "Z. 12-13 enthalten die Warnung, aber dass der Revers in Öhringen liegt, kennt Triebenfeld nur vom Hörensagen ('Wie ich höhre'). Die Zusammenfassung gibt das als Tatsache wieder."
+   },
+   {
+    "statement": "Der König von Württemberg habe die Mediatisierten als Stände anerkannt und einen Verfassungsentwurf geschickt",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "Projut",
+    "note": "probably 'Project' (draft constitution)"
+   },
+   {
+    "line": 18,
+    "word": "Auf habe",
+    "note": "garbled; perhaps 'Auch haben'"
+   },
+   {
+    "line": 11,
+    "word": "Schuru¬bars",
+    "note": "probably 'Schnurrbart'"
+   },
+   {
+    "line": 4,
+    "word": "wähnte",
+    "note": "meaning unclear, possibly misread"
+   },
+   {
+    "line": 7,
+    "word": "nur allen thun",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 6,
+    "word": "nun",
+    "note": "possibly 'um' (um zu würken)"
+   },
+   {
+    "line": 3,
+    "word": "Bläme",
+    "note": "probably 'Blame' (Blamage), uncertain"
+   }
+  ],
+  "read_against": "3e3595c95dcc55df"
+ }
 }

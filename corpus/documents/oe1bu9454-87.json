@@ -471,5 +471,110 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Fürst Hohenlohe-Ingelfingen bittet Obrist von Köckritz, beim König seine Rechtfertigung im gescheiterten Tausch seiner verliehenen Güter gegen die Krotoszyner Güter zu unterstützen. Minister v. Voss und der König erklärten den Tausch für nachteilig, da Krotoszyn 17400 rt mehr trage. Der Fürst hält dagegen, Krotoszyn trage 30100 rtl, seine Güter 41500 rt. Voss habe auf Anraten des Kriegesrath Nöldichen ohne Untersuchung vor Ort berichtet. Er hat den König um eine unparteiische Untersuchung und die Vorlage der Akten von Struensee gebeten."
+ "summary_de": "Fürst Hohenlohe-Ingelfingen bittet Obrist von Köckritz, beim König seine Rechtfertigung im gescheiterten Tausch seiner verliehenen Güter gegen die Krotoszyner Güter zu unterstützen. Minister v. Voss und der König erklärten den Tausch für nachteilig, da Krotoszyn 17400 rt mehr trage. Der Fürst hält dagegen, Krotoszyn trage 30100 rtl, seine Güter 41500 rt. Voss habe auf Anraten des Kriegesrath Nöldichen ohne Untersuchung vor Ort berichtet. Er hat den König um eine unparteiische Untersuchung und die Vorlage der Akten von Struensee gebeten.",
+ "reading": {
+  "letter": "87",
+  "legibility": "sound",
+  "notes": "Fürst Hohenlohe-Ingelfingen schreibt an Obrist von Köckritz über den gescheiterten Tausch seiner vom König verliehenen südpreußischen Güter gegen die Krotoszyner Güter. Minister Voss und der König halten den Tausch für nachteilig für den Staat (17400 rt Mehrertrag von Krotoszyn). Der Fürst hält dagegen: Krotoszyn trage 30100, höchstens 36000 rtl, seine Güter 41500 rt. Er sieht seine Ehre verletzt, beschuldigt Voss, auf Nöldichens Anraten ohne Lokaluntersuchung berichtet zu haben, bittet um unparteiische Untersuchung und Vorlage der Struensee-Akten und bittet Köckritz um Fürsprache beim König. Mit Trąbczyn hat der Brief nichts zu tun. Die Schlusszeile ist verderbt.",
+  "claims": [
+   {
+    "statement": "Bittet Köckritz, das Gesuch dem König ans Herz zu legen",
+    "lines": [
+     86,
+     87
+    ]
+   },
+   {
+    "statement": "Tausch der verliehenen Güter gegen die Krotoszyner Güter",
+    "lines": [
+     20,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Voss und König: Tausch nachteilig, Krotoszyn trage 17400 rt mehr",
+    "lines": [
+     28,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Krotoszyn trägt 30100 rtl, seine Güter 41500 rt",
+    "lines": [
+     65,
+     69
+    ]
+   },
+   {
+    "statement": "Voss berichtete auf Anraten Nöldichens ohne lokale Recherche",
+    "lines": [
+     74,
+     75,
+     76
+    ]
+   },
+   {
+    "statement": "Bitte an den König um unparteiische Untersuchung und Vorlage der Akten von Struensee",
+    "lines": [
+     79,
+     80,
+     81,
+     82,
+     83,
+     84
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "sich",
+    "note": "Zu erwarten wäre 'mich' (erste Person); nicht bewiesen"
+   },
+   {
+    "line": 8,
+    "word": "zur Widmen",
+    "note": "Wohl 'zu widmen'"
+   },
+   {
+    "line": 19,
+    "word": "vorzeichen",
+    "note": "Unklar, vielleicht 'vorzuschießen'"
+   },
+   {
+    "line": 26,
+    "word": "nur",
+    "note": "Wohl 'mir' (gab mir eine gnädige Antwort); ebenso Zeile 29"
+   },
+   {
+    "line": 29,
+    "word": "nur",
+    "note": "Wohl 'mir schrieben'"
+   },
+   {
+    "line": 35,
+    "word": "gerüchtet",
+    "note": "Vielleicht 'gerichtet/berichtigt'; auch in Dok. 86"
+   },
+   {
+    "line": 37,
+    "word": "aufact",
+    "note": "Wohl 'au fait'"
+   },
+   {
+    "line": 15,
+    "word": "#",
+    "note": "Währungszeichen unklar"
+   },
+   {
+    "line": 89,
+    "word": "von die Chor habe",
+    "note": "Verderbte Schlussformel, vielleicht '... die Ehre habe'"
+   }
+  ],
+  "read_against": "0b56dc158dc035f1"
+ }
 }

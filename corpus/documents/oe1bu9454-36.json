@@ -382,5 +382,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Schreiben an v. Triebenfeld, teils unleserlich. Der Schreiber rechtfertigt sein Vorgehen mit der Anweisung über 6000 Rthl: Eysenhardt verlangte im Januar 1807 wegen einer alten Schuld 2500 Rthl bar und erhielt dafür die Anweisung gegen Rückzahlung von 3,500 Rthl. Nach der Zahlungssistierung beauftragte der Schreiber Assessor Koppe, Eysenhardt zu bezahlen und die bei Amelang verwahrte Anweisung zurückzunehmen. Er schickt die geforderten 3000 Rthl Courant und bittet um einen Besuch auf der Reise nach Wien."
+ "summary_de": "Schreiben an v. Triebenfeld, teils unleserlich. Der Schreiber rechtfertigt sein Vorgehen mit der Anweisung über 6000 Rthl: Eysenhardt verlangte im Januar 1807 wegen einer alten Schuld 2500 Rthl bar und erhielt dafür die Anweisung gegen Rückzahlung von 3,500 Rthl. Nach der Zahlungssistierung beauftragte der Schreiber Assessor Koppe, Eysenhardt zu bezahlen und die bei Amelang verwahrte Anweisung zurückzunehmen. Er schickt die geforderten 3000 Rthl Courant und bittet um einen Besuch auf der Reise nach Wien.",
+ "reading": {
+  "letter": "36",
+  "legibility": "largely garbled",
+  "notes": "A copy of a letter to Krieges Rath v. Triebenfeld, written at Öhringen. The writer is not named. He answers a hurt letter from Triebenfeld and explains what he did with a 6000 Rthl Anweisung. In January 1807 Eysenhardt came from Berlin about an old debt and wanted 2500 Rthl in cash. The writer ceded the Anweisung to him on condition that he pay back 3500 Rthl once he had collected it. Then payment was stopped (sistirt). The writer has told Assessor Koppe to pay Eysenhardt the 2500 Rthl and take the Anweisung back from Amelang. He sends the 3000 Rthl Courant that was asked for, voices concern about relations with Minister v. Stein, and invites Triebenfeld to visit on his way to Wien via Dresden. Heavily garbled. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Abschrift eines Schreibens an v. Triebenfeld",
+    "lines": [
+     2,
+     3
+    ],
+    "check": "overstated",
+    "why": "The heading word is garbled ('Cococe[?]t', probably 'Concept', i.e. a draft). Calling the letter an Abschrift interprets a garbled word. What is supported is only that this is a Schreiben to Kriegesrath v. Triebenfeld."
+   },
+   {
+    "statement": "Eysenhardt kam im Januar 1807 wegen einer alten Schuld und verlangte 2500 Rthl bar",
+    "lines": [
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     68,
+     71,
+     72,
+     73,
+     74,
+     75,
+     76
+    ]
+   },
+   {
+    "statement": "Anweisung über 6000 Rthl an Eysenhardt abgetreten, unter der Bedingung, dass er den Rest von 3,500 Rthl herausgibt",
+    "lines": [
+     66,
+     67,
+     78,
+     79,
+     80,
+     81,
+     82,
+     83,
+     84,
+     85,
+     86,
+     87
+    ]
+   },
+   {
+    "statement": "Zahlung wurde sistiert",
+    "lines": [
+     101,
+     102,
+     103
+    ]
+   },
+   {
+    "statement": "Koppe beauftragt, Eysenhardt die 2500 Rthl zu zahlen und die bei Amelang verwahrte Anweisung zurückzunehmen",
+    "lines": [
+     149,
+     151,
+     152,
+     153,
+     154,
+     155,
+     156,
+     157,
+     158
+    ]
+   },
+   {
+    "statement": "sendet die geforderten 3000 Rthl Courant",
+    "lines": [
+     193,
+     194,
+     195,
+     196
+    ]
+   },
+   {
+    "statement": "bittet um einen Besuch auf der Reise nach Wien",
+    "lines": [
+     226,
+     227,
+     228,
+     229
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 45,
+    "word": "Eysach",
+    "note": "probably Eysenhardt (compare lines 60, 68), but not certain enough to correct"
+   },
+   {
+    "line": 58,
+    "word": "Major",
+    "note": "a name; line 81 has 'Mayer'; the correct form is uncertain"
+   },
+   {
+    "line": 4,
+    "word": "Ehefrau gegebohrner",
+    "note": "probably a misreading of 'Hochwohlgebohren'"
+   },
+   {
+    "line": 123,
+    "word": "Er",
+    "note": "probably 'Ew'"
+   },
+   {
+    "line": 218,
+    "word": "Er.",
+    "note": "'Er. v. Stein' is unclear, perhaps 'Frhr.'"
+   }
+  ],
+  "read_against": "8c7e46599872ffa9"
+ }
 }

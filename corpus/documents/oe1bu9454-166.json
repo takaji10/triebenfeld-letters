@@ -231,5 +231,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Minister Voss hatte die Dismembration in Trąbczyn inhibieren lassen. Triebenfeld berichtet, die Kommission der Kammer habe seine Nachweise bestätigt und die Inhibition zurückgenommen. Die reinen Jahreseinkünfte wurden auf 31000 Rthl festgestellt. Nach der Konzession hofft er auf Kredit von 3 bis 400000 Rthl und will die ausstehenden 180850 Rthl zur Schuldentilgung verwenden. Die Käufer sind jedoch abgesprungen. Wegen eigener Verluste von 19500 Rthl muss er nach Świniary und Konotop. Schenck soll inzwischen die Gelder einnehmen."
+ "summary_de": "Minister Voss hatte die Dismembration in Trąbczyn inhibieren lassen. Triebenfeld berichtet, die Kommission der Kammer habe seine Nachweise bestätigt und die Inhibition zurückgenommen. Die reinen Jahreseinkünfte wurden auf 31000 Rthl festgestellt. Nach der Konzession hofft er auf Kredit von 3 bis 400000 Rthl und will die ausstehenden 180850 Rthl zur Schuldentilgung verwenden. Die Käufer sind jedoch abgesprungen. Wegen eigener Verluste von 19500 Rthl muss er nach Świniary und Konotop. Schenck soll inzwischen die Gelder einnehmen.",
+ "reading": {
+  "letter": "166",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Trąbczyn to the Prince. Minister Voss had the dismemberment (parcelling and sale) at Trąbczyn stopped and sent a Cammer commission to check it. Triebenfeld won: the inhibition was withdrawn and net revenues were set at 31000 Rthl. Once the finance department confirms this, credit of 3 to 400000 Rthl will be possible, and the 180850 Rthl still to come in can pay off debts. Buyers had run away when the inhibition became known. He is worn out, has lost 19500 Rthl on his own estates (Schweinern, Kontop), and must go there. Schenck and a few others are to collect the money meanwhile.",
+  "claims": [
+   {
+    "statement": "Minister Voss ließ die Dismembration in Trąbczyn inhibieren",
+    "lines": [
+     5,
+     6,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Die Kommission bestätigte Triebenfelds Nachweise und nahm die Inhibition zurück",
+    "lines": [
+     20,
+     22,
+     37,
+     38
+    ]
+   },
+   {
+    "statement": "Die reinen Jahreseinkünfte wurden auf 31000 Rthl festgestellt",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Nach der Konzession hofft er auf Kredit von 3 bis 400000 Rthl",
+    "lines": [
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Die ausstehenden 180850 Rthl sollen zur Schuldentilgung dienen",
+    "lines": [
+     48,
+     49
+    ]
+   },
+   {
+    "statement": "Die Käufer sind nach Bekanntwerden der Inhibition abgesprungen",
+    "lines": [
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Eigene Verluste von 19500 Rthl zwingen ihn nach Świniary und Konotop",
+    "lines": [
+     75,
+     81,
+     82
+    ]
+   },
+   {
+    "statement": "Schenck soll inzwischen die Gelder einnehmen",
+    "lines": [
+     84,
+     85
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Nahmen laßen",
+    "note": "probably 'namenlosen'"
+   },
+   {
+    "line": 16,
+    "word": "warm",
+    "note": "probably 'wären'"
+   },
+   {
+    "line": 44,
+    "word": "unß",
+    "note": "probably 'muß'"
+   },
+   {
+    "line": 55,
+    "word": "Schulz frey",
+    "note": "probably 'schuldenfrey'"
+   },
+   {
+    "line": 63,
+    "word": "werde",
+    "note": "probably 'Werk'"
+   },
+   {
+    "line": 29,
+    "word": "daß",
+    "note": "probably 'die'"
+   },
+   {
+    "line": 90,
+    "word": "tiefer Hochachtung",
+    "note": "the usual closing formula is 'In tiefster Ehrfurcht ersterbe'; this may be misread, or the writer's own wording"
+   }
+  ],
+  "read_against": "c23338d03efd2127"
+ }
 }

@@ -112,5 +112,56 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Humboldt bestätigt den Empfang von Triebenfelds Schreiben vom 3. des Monats, das ihn über das dem Fürsten v. Hardenberg übergebene Memorial unterrichtet hat. Er sendet die ihm überlassene Abschrift zurück und sagt zu, sich für dessen Inhalt einzusetzen, soweit es in seinem Wirkungskreis liegt. Das Schreiben liegt als Beilage dem Brief vom 17. November bei."
+ "summary_de": "Humboldt bestätigt den Empfang von Triebenfelds Schreiben vom 3. des Monats, das ihn über das dem Fürsten v. Hardenberg übergebene Memorial unterrichtet hat. Er sendet die ihm überlassene Abschrift zurück und sagt zu, sich für dessen Inhalt einzusetzen, soweit es in seinem Wirkungskreis liegt. Das Schreiben liegt als Beilage dem Brief vom 17. November bei.",
+ "reading": {
+  "letter": "250",
+  "legibility": "sound",
+  "notes": "Humboldt writes from Wien to v. Triebenfeld. It is a short courtesy reply and was filed as an enclosure to Triebenfeld's letter of 17 November. Humboldt acknowledges Triebenfeld's letter of the 3rd of the month, from which he learned of the memorial handed to Fürst Hardenberg. He returns the copy of it and promises to support its content as far as his sphere of action allows. The text is sound. The only doubtful word is \"für\" in line 11, where the formula would expect \"Ew.\"; it goes in suspicions only.",
+  "claims": [
+   {
+    "statement": "Humboldt bestätigt den Empfang von Triebenfelds Schreiben vom 3. des Monats",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "das ihn über das dem Fürsten v. Hardenberg übergebene Memorial unterrichtet hat",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Er sendet die Abschrift zurück",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "sagt zu, sich für dessen Inhalt einzusetzen, soweit es in seinem Wirkungskreis liegt",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Beilage zum Brief vom 17. November",
+    "lines": [
+     2
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "für",
+    "note": "Probably a misreading of \"Ew.\" (\"Empfangen Ew. Hochwohlgeboren hiermit die Versicherungen\"). It cannot be proven, so it is not corrected."
+   }
+  ],
+  "read_against": "7434e13c78d99b9b"
+ }
 }

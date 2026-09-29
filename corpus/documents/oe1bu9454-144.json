@@ -101,5 +101,54 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Amelang bestätigt den Eingang des fürstlichen Befehls vom 31. des Vormonats. Er will morgen früh den Grafen von Schulenburg aufsuchen, ihm das an ihn gerichtete Schreiben übergeben und seine nähere Erklärung abwarten. Über das Ergebnis dieser Unterredung will er mit der nächsten Post berichten."
+ "summary_de": "Amelang bestätigt den Eingang des fürstlichen Befehls vom 31. des Vormonats. Er will morgen früh den Grafen von Schulenburg aufsuchen, ihm das an ihn gerichtete Schreiben übergeben und seine nähere Erklärung abwarten. Über das Ergebnis dieser Unterredung will er mit der nächsten Post berichten.",
+ "reading": {
+  "letter": "144",
+  "legibility": "sound",
+  "notes": "Amelang in Berlin schreibt einen kurzen Brief an den Fürsten Hohenlohe-Ingelfingen. Er bestätigt, dass der fürstliche Befehl vom 31. des Vormonats eingegangen ist. Am nächsten Morgen will er den Grafen von Schulenburg aufsuchen, ihm das an ihn gerichtete Schreiben übergeben und seine Erklärung abwarten. Über das Ergebnis der Unterredung will er mit der nächsten Post berichten. Der Inhalt des Schreibens an Schulenburg wird nicht genannt. Zeile 10/11 \"in Unter thenigtes\" ist verlesen, wohl für \"unterthänigst\". \"v. h.\" in Zeile 5 steht wohl für \"v. M.\" (vorigen Monats), bleibt aber unverändert, weil es zur Datumsangabe gehört. Zu Trąbczyn steht nichts im Brief.",
+  "claims": [
+   {
+    "statement": "Amelang bestätigt den Eingang des fürstlichen Befehls vom 31. des Vormonats.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er will morgen früh den Grafen von Schulenburg aufsuchen, ihm das Schreiben übergeben und seine Erklärung abwarten.",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Über das Ergebnis der Unterredung will er mit der nächsten Post berichten.",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "in Unter",
+    "note": "Zusammen mit Zeile 11 \"thenigtes\" wohl verlesen für \"unterthänigst\"."
+   },
+   {
+    "line": 11,
+    "word": "thenigtes",
+    "note": "Wohl \"unterthänigst\" (über den Zeilenumbruch hinweg)."
+   },
+   {
+    "line": 5,
+    "word": "v. h.",
+    "note": "Wahrscheinlich \"v. M.\" (vorigen Monats); als Teil der Datumsangabe nicht geändert."
+   }
+  ],
+  "read_against": "eb92dd3f8253aa59"
+ }
 }

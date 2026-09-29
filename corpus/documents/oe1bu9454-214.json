@@ -335,5 +335,127 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet den bestätigten Transact: Bank- und Invalidenschulden sollen in 41 ¾ Jahren mit 6 pct. bezahlt werden. Für Privatschulden und Weigel stellt der Minister ein gleiches Moratorium in Aussicht. Die Erbpächter zahlen nichts, er erwartet die Kassierung ihrer Contracte und will Vorwerke anlegen. Die Prozesse um Oleśnica und Wrąbczyn schweben, mit Swięcia steht es ebenso. Hecker und Hawich wiegeln die Leute auf, Hecker soll noch 2500 Rthl herauszahlen. Am 28. will er nach Berlin reisen."
+ "summary_de": "Triebenfeld meldet den bestätigten Transact: Bank- und Invalidenschulden sollen in 41 ¾ Jahren mit 6 pct. bezahlt werden. Für Privatschulden und Weigel stellt der Minister ein gleiches Moratorium in Aussicht. Die Erbpächter zahlen nichts, er erwartet die Kassierung ihrer Contracte und will Vorwerke anlegen. Die Prozesse um Oleśnica und Wrąbczyn schweben, mit Swięcia steht es ebenso. Hecker und Hawich wiegeln die Leute auf, Hecker soll noch 2500 Rthl herauszahlen. Am 28. will er nach Berlin reisen.",
+ "reading": {
+  "letter": "214",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kalisz to the Prince. He offers condolences on the death of the Fürstin Sacken and reports the approved Transact: bank and invalid debts are to be paid off over 41¾ years at 6 pct. The minister has hinted at a similar moratorium for private debts, including Weigel. The Erbpächter pay nothing and their contracts are to be cassated, with Vorwerke laid out instead. Beer and brandy rights have been administered for the Prince since 1 July. Lawsuits over Olesnice, Wrąbczyn and Swięcia are pending. He complains of Hecker and Hawich; Hecker's account shows he still owes 2500 rt. He denies not having written and suspects his letters were intercepted. He has cut staff and plans a trip to Berlin. Several passages are garbled.",
+  "claims": [
+   {
+    "statement": "Bestätigter Transact: Bank- und Invalidenschulden in 41 ¾ Jahren mit 6 pct. zu bezahlen",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Minister stellt gleiches Moratorium für Privatschulden und Weigel in Aussicht",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Erbpächter zahlen nichts; Kassierung der Contracte erwartet, Vorwerke sollen angelegt werden",
+    "lines": [
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Prozesse um Oleśnica, Wrąbczyn und Swięcia schweben",
+    "lines": [
+     32,
+     33,
+     34,
+     36,
+     37
+    ],
+    "check": "overstated",
+    "why": "Line 32 names only the Oleśnica and Wrąbczyn lawsuits as pending. For Swięcia (lines 36-37) the letter says only that it is exactly the same: the owners pay nothing and must go."
+   },
+   {
+    "statement": "Hecker und Hawich wiegeln die Leute auf",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Hecker soll noch 2500 Rthl herauszahlen",
+    "lines": [
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "Reise nach Berlin am 28.",
+    "lines": [
+     79
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "schande",
+    "note": "probably 'schenke'"
+   },
+   {
+    "line": 31,
+    "word": "Baum",
+    "note": "probably 'kaum'"
+   },
+   {
+    "line": 42,
+    "word": "leester",
+    "note": "unclear, perhaps 'Leute'"
+   },
+   {
+    "line": 35,
+    "word": "er 40000 rt. auf ein jedes dort",
+    "note": "garbled line"
+   },
+   {
+    "line": 69,
+    "word": "Arzt",
+    "note": "perhaps 'Asyl'"
+   },
+   {
+    "line": 83,
+    "word": "Grüner",
+    "note": "probably 'Gönner'"
+   },
+   {
+    "line": 86,
+    "word": "kösten",
+    "note": "probably 'Füßen'"
+   },
+   {
+    "line": 61,
+    "word": "Hunde geringer ein fallest",
+    "note": "garbled"
+   },
+   {
+    "line": 54,
+    "word": "erthegt",
+    "note": "garbled"
+   },
+   {
+    "line": 55,
+    "word": "Manneider",
+    "note": "perhaps 'Mann, der'"
+   },
+   {
+    "line": 4,
+    "word": "Sacken",
+    "note": "name as transcribed; identity of the Fürstin uncertain"
+   }
+  ],
+  "read_against": "5cd80c72365edcf8"
+ }
 }

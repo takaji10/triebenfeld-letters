@@ -194,5 +194,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber fragt, warum auf die Beschwerde des Fürsten zu Hohenlohe noch nichts verfügt sei. Er hält eine angeblich eingeleitete Untersuchung gegen Cosmar für schädlich, da Cosmar dann die seit Johannis 1812 rückständige Rente zurückhalten könnte. Ein Vergleich über die Schuld sei gescheitert: Die Generalmandatarien lehnen ab, weil Justizrath Henneberg in Berlin beschieden wurde, die Sache ruhen zu lassen. Der König solle die Schuld ganz übernehmen; dem Fürsten dürften wohl auch 35000 Rthl erlassen werden."
+ "summary_de": "Der Schreiber fragt, warum auf die Beschwerde des Fürsten zu Hohenlohe noch nichts verfügt sei. Er hält eine angeblich eingeleitete Untersuchung gegen Cosmar für schädlich, da Cosmar dann die seit Johannis 1812 rückständige Rente zurückhalten könnte. Ein Vergleich über die Schuld sei gescheitert: Die Generalmandatarien lehnen ab, weil Justizrath Henneberg in Berlin beschieden wurde, die Sache ruhen zu lassen. Der König solle die Schuld ganz übernehmen; dem Fürsten dürften wohl auch 35000 Rthl erlassen werden.",
+ "reading": {
+  "letter": "14",
+  "legibility": "partly garbled",
+  "notes": "A letter to a \"Freund\" who is about to come back from Vienna, signed Eberhard at line 28. The metadata gives sender and recipient as not identified, so the summary says \"der Schreiber\". Points: why has the Staats Kanzler (garbled at line 2) not acted on the Prince's complaint; private news from Berlin of an investigation against Cosmar, which the writer thinks would do harm; the Karl/Curische debt, which could not be settled; a request that the King take the debt over; the 35000 Rthl the Prince owes the King. A postscript in another hand speaks of Eberhard in the third person and calls the news a Schreckschuss. There is nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Der Schreiber fragt, warum auf die Beschwerde des Fürsten noch nichts verfügt sei.",
+    "lines": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Eine Untersuchung gegen Cosmar soll laut Privatnachricht aus Berlin eingeleitet sein; der Schreiber hält das für schädlich, da Cosmar die seit Johannis 1812 rückständige Rente zurückhalten könnte.",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Ein Vergleich über die Schuld ist gescheitert: Die Generalmandatarien lehnen ab, weil Justizrath Henneberg in Berlin beschieden wurde, die Sache auszusetzen.",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Der König soll die Schuld nicht nur vorschießen, sondern ganz übernehmen und dem Fürsten auch die 35000 Rthl erlassen.",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ],
+    "check": "overstated",
+    "why": "Lines 18-19 ask that the King take over the debt entirely. On the 35000 rth the Fürst owes the King, line 21 only says they might well also be cancelled ('wohl auch erlaßen werden dürfte'). It is an expectation, not a demand."
+   },
+   {
+    "statement": "Eine Nachschrift hält die Nachricht für einen Schreckschuss; hier sei nichts verfügt.",
+    "lines": [
+     30,
+     31
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 2,
+    "word": "Theuerstag",
+    "note": "probably 'Theuerster'"
+   },
+   {
+    "line": 2,
+    "word": "Staats lang durch",
+    "note": "probably 'Staats Kanzler'; this is several tokens, so it is not fixed"
+   },
+   {
+    "line": 5,
+    "word": "Thurmard",
+    "note": "garbled; perhaps 'Kurmärkischen' (Pupillen Collegio)"
+   },
+   {
+    "line": 8,
+    "word": "inquiri",
+    "note": "garbled; perhaps 'bemühen' or similar"
+   },
+   {
+    "line": 11,
+    "word": "herzoglich Karl",
+    "note": "garbled; compare 'Curischen Schuld' in line 22; perhaps 'Kurländisch'"
+   },
+   {
+    "line": 15,
+    "word": "Völlehr",
+    "note": "probably 'Rückkehr'; the word 'auch' before it also looks misread"
+   },
+   {
+    "line": 17,
+    "word": "Erbenen",
+    "note": "probably 'Erbinnen'"
+   },
+   {
+    "line": 20,
+    "word": "das",
+    "note": "probably 'der Fürst', as in line 3"
+   },
+   {
+    "line": 31,
+    "word": "sind",
+    "note": "probably 'sein'"
+   }
+  ],
+  "read_against": "ecafc14dcf22efd5"
+ }
 }

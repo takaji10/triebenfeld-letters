@@ -327,5 +327,130 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, man habe ihm in Berlin versichert, der Fürst werde die Krotoszyner Güter erhalten. Voss soll nachgiebiger geworden sein. Nach Köckritz sollen Knobloch und Prittwitz die Sache beenden, Wildeganst soll Prittwitz assistieren. Einen Entwurf des K. Rath v Cöln zu Krotoszyn erhielt Voss, der beim König auf dessen Kassation antrug. In Berlin erwartet man Krieg. Erbeten wird ein Patent als Comissions Rath für Carl Theodor Fischbach in Pszczew. Broniewski wird wohl nichts erhalten."
+ "summary_de": "Triebenfeld berichtet, man habe ihm in Berlin versichert, der Fürst werde die Krotoszyner Güter erhalten. Voss soll nachgiebiger geworden sein. Nach Köckritz sollen Knobloch und Prittwitz die Sache beenden, Wildeganst soll Prittwitz assistieren. Einen Entwurf des K. Rath v Cöln zu Krotoszyn erhielt Voss, der beim König auf dessen Kassation antrug. In Berlin erwartet man Krieg. Erbeten wird ein Patent als Comissions Rath für Carl Theodor Fischbach in Pszczew. Broniewski wird wohl nichts erhalten.",
+ "reading": {
+  "letter": "99",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Breslau to the Prince, who is presumably travelling to Öhringen. The letter is about the Krotoszyn estates. Triebenfeld left Berlin assured that the Prince will receive them. Voss is said to have softened his tone. Köckritz says Knobloch and Prittwitz will be given the task of concluding the matter, and Wildeganst is to assist Prittwitz. Berlin expects war, and more Cabinets Räthe are rumoured. A draft on Krotoszyn by K. Rath v Cöln reached Voss, who asked the King for the man's dismissal. Triebenfeld asks for a Commissions Rath patent for Fischbach at Pszczew (Betsche). Postscript: Broniewski should get nothing. Nothing about Trąbczyn. Several passages are garbled (lines 28, 41, 44-47, 54-55).",
+  "claims": [
+   {
+    "statement": "Man hat Triebenfeld in Berlin versichert, der Fürst werde die Krotoszyner Güter erhalten.",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Voss soll seinen Ton herabgestimmt haben.",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Nach Köckritz sollen Knobloch und Prittwitz die Sache beenden; Wildeganst soll Prittwitz assistieren.",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Einen Entwurf des K. Rath v Cöln zu Krotoszyn erhielt Voss, der beim König auf dessen Kassation antrug.",
+    "lines": [
+     39,
+     40,
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "In Berlin erwartet man Krieg.",
+    "lines": [
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Erbeten wird ein Patent als Comissions Rath für Carl Theodor Fischbach in Pszczew.",
+    "lines": [
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "Broniewski soll nichts erhalten.",
+    "lines": [
+     53,
+     54,
+     55,
+     56
+    ],
+    "check": "overstated",
+    "why": "Z. 53-54 sagt nur vermutend: \"wird wohl nicht einen heller erhalten dürfen\". Das ist eine Erwartung, keine Festlegung."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "u",
+    "note": "probably 'zu' or 'in' (zufrieden zu/in Öhringen)"
+   },
+   {
+    "line": 8,
+    "word": "ann",
+    "note": "probably 'am' or 'zum'"
+   },
+   {
+    "line": 15,
+    "word": "Durchlaucht",
+    "note": "probably 'Der O.' (Obrist) v Köckritz, compare line 43"
+   },
+   {
+    "line": 16,
+    "word": "9. f.",
+    "note": "garbled; perhaps 'G. R.' or 'Gen.'"
+   },
+   {
+    "line": 28,
+    "word": "Brand:",
+    "note": "unclear name or abbreviation"
+   },
+   {
+    "line": 41,
+    "word": "dHl",
+    "note": "probably 'dem H.'"
+   },
+   {
+    "line": 44,
+    "word": "um 13",
+    "note": "garbled; perhaps 'ihn'"
+   },
+   {
+    "line": 45,
+    "word": "Löte",
+    "note": "unclear; perhaps a name, or the v Cöln mentioned in line 39"
+   },
+   {
+    "line": 47,
+    "word": "den",
+    "note": "probably 'denken'"
+   },
+   {
+    "line": 54,
+    "word": "Mier",
+    "note": "unclear, perhaps 'mir'"
+   }
+  ],
+  "read_against": "5c260e40db75c171"
+ }
 }

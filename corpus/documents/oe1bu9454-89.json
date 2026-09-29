@@ -495,5 +495,129 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld betreibt den Tausch der Güter des Fürsten gegen Krotoszyn und Polajewo. Schreiben an den König, an Beyme und Zastrow sind abgegeben. Nach Triebenfelds Plan soll der König einen Commissarius ernennen oder nach gleichem Ertrag und Werth entscheiden. Glenck zahlt als General Pächter jährlich 44500 Rthl. Triebenfeld bestreitet, dass Krotoszyn 49000 Rthl bringe (Pacht 30000 Rthl), und beteuert seine Uneigennützigkeit. Die Fürstin Sacken gibt höchstens 30/m Rthl, circa 7000 Rthl fehlen noch."
+ "summary_de": "Triebenfeld betreibt den Tausch der Güter des Fürsten gegen Krotoszyn und Polajewo. Schreiben an den König, an Beyme und Zastrow sind abgegeben. Nach Triebenfelds Plan soll der König einen Commissarius ernennen oder nach gleichem Ertrag und Werth entscheiden. Glenck zahlt als General Pächter jährlich 44500 Rthl. Triebenfeld bestreitet, dass Krotoszyn 49000 Rthl bringe (Pacht 30000 Rthl), und beteuert seine Uneigennützigkeit. Die Fürstin Sacken gibt höchstens 30/m Rthl, circa 7000 Rthl fehlen noch.",
+ "reading": {
+  "letter": "89",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince about the planned exchange of the Prince's South Prussian estates for Krotoszyn (and Polajewo). Letters to the King, B[eyme] and Z[astrow] have been handed in, and Struensee's view is expected. Triebenfeld's plan is that the King names a Commissarius or decides by equal yield and value. Figures: Glenck is general lessee (9 years, 44500 rtl a year, caution of 10/m, 67/m paid to him). He rebuts the Krotoszyn yield claims of Voss's man (49000 against a lease of 30000) and protests his own good faith. Schulenburg's assurance was given to Fürstin Sa[cken]. She will give at most 30/m rt, and circa 7000 Rthl are still missing. Nothing on Trąbczyn apart from an owner \"Trąpczynski\" (l. 57).",
+  "claims": [
+   {
+    "statement": "Triebenfeld betreibt den Tausch gegen Krotoszyn und Polajewo",
+    "lines": [
+     4,
+     5,
+     14,
+     65
+    ]
+   },
+   {
+    "statement": "Schreiben an König, Beyme und Zastrow abgegeben",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "König soll Commissarius ernennen oder nach gleichem Ertrag und Werth entscheiden",
+    "lines": [
+     34,
+     35,
+     36,
+     37,
+     38
+    ],
+    "check": "overstated",
+    "why": "Lines 34-38 present this as Triebenfeld's plan ('mein Plan'), not as a fact or decision."
+   },
+   {
+    "statement": "Glenck als General Pächter zahlt jährlich 44500 Rthl",
+    "lines": [
+     41,
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "statement": "bestreitet Angabe von 49000 Rthl für Krotoszyn, Pachtcontract 30000 Rthl",
+    "lines": [
+     66,
+     67,
+     68,
+     69,
+     70
+    ]
+   },
+   {
+    "statement": "beteuert Uneigennützigkeit",
+    "lines": [
+     132,
+     133,
+     134,
+     135,
+     136,
+     137,
+     138
+    ]
+   },
+   {
+    "statement": "Fürstin Sacken gibt höchstens 30/m Rthl, circa 7000 Rthl fehlen",
+    "lines": [
+     139,
+     145,
+     146,
+     147,
+     150
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 24,
+    "word": "Angruß",
+    "note": "probably Angriff"
+   },
+   {
+    "line": 43,
+    "word": "Bäbe reien",
+    "note": "possibly Bübereien"
+   },
+   {
+    "line": 57,
+    "word": "Trąpczynski",
+    "note": "possibly Trąbczynski (name of an estate owner)"
+   },
+   {
+    "line": 82,
+    "word": "wirt",
+    "note": "probably mit"
+   },
+   {
+    "line": 93,
+    "word": "Cassini",
+    "note": "probably Cassirer or similar"
+   },
+   {
+    "line": 145,
+    "word": "Wege",
+    "note": "probably Wegen"
+   },
+   {
+    "line": 153,
+    "word": "Fürsten",
+    "note": "probably Fürstin"
+   },
+   {
+    "line": 18,
+    "word": "wirdes",
+    "note": "probably wird es (word division)"
+   },
+   {
+    "line": 126,
+    "word": "Chase[?]",
+    "note": "unclear"
+   }
+  ],
+  "read_against": "aeeb1315f7bfac52"
+ }
 }

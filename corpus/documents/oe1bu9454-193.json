@@ -270,5 +270,130 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Das Schreiben des Fürsten kam erst nach 10 Tagen an, daher scheitert der Reiseplan. Triebenfeld rät von einer Reise nach Parchwitz ab. Er will noch im April vor Berlin nach Sławięcice kommen, um den Willen des Fürsten zu erfahren. Die polnischen Güter: Die Dąbska zahlt alle Kosten. Prefect Garczynski lässt Honrichs verhaften, der über 10000 Rthl schuldet. Triebenfeld erhielt 600 Rthl von ihm zurück. Die Rückstände sollen rasch bezahlt, die Güter frei zurückgegeben werden."
+ "summary_de": "Das Schreiben des Fürsten kam erst nach 10 Tagen an, daher scheitert der Reiseplan. Triebenfeld rät von einer Reise nach Parchwitz ab. Er will noch im April vor Berlin nach Sławięcice kommen, um den Willen des Fürsten zu erfahren. Die polnischen Güter: Die Dąbska zahlt alle Kosten. Prefect Garczynski lässt Honrichs verhaften, der über 10000 Rthl schuldet. Triebenfeld erhielt 600 Rthl von ihm zurück. Die Rückstände sollen rasch bezahlt, die Güter frei zurückgegeben werden.",
+ "reading": {
+  "letter": "193",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to the Prince. The Prince's letter took 10 days to arrive, so the planned meeting falls through. He advises against the Prince travelling to Parchwitz and will himself come to Schlawenschitz this month, before going to Berlin. Scharffenberg reports ferment in Petersburg. On the Polish estates: the Dąbska pays all costs. Prefect Garczynski is having Honrichs arrested; Honrichs owes over 10000 rt, and Podprefect Brzechffa stood surety for him. Triebenfeld got 600 rt back from Honrichs. Hecker and the administrator are to go through the papers so that the arrears are paid and the estates are handed back free.",
+  "claims": [
+   {
+    "statement": "Schreiben nach 10 Tagen erhalten, Reiseplan scheitert",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "rät von Reise nach Parchwitz ab",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "kommt diesen Monat vor Berlin nach Sławięcice, braucht Willensmeinung",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Scharffenberg: Gärung in Petersburg",
+    "lines": [
+     13
+    ]
+   },
+   {
+    "statement": "Dąbska zahlt alle Kosten",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Garczynski lässt Honrichs verhaften",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Honrichs schuldet über 10000 Rthl; Brzechffa leistete Caution",
+    "lines": [
+     19,
+     21,
+     25,
+     26
+    ],
+    "check": "overstated",
+    "why": "Die Schuld von über 10000 rt steht in Zeile 21. Die Zusammenfassung dreht aber um, wer die Caution geleistet hat: Laut Zeile 25 hat der Podprefect Caution für den Patron geleistet. Dass Honrichs für Brzechffa Caution leistete, steht nicht im Brief."
+   },
+   {
+    "statement": "600 Rthl zurückerhalten",
+    "lines": [
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Rückstände bezahlt, Güter frei übergeben",
+    "lines": [
+     30,
+     31,
+     32,
+     33
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "so wahr ein Gott über aus ist",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 13,
+    "word": "Aufkrauß",
+    "note": "unclear, perhaps Aufruhr"
+   },
+   {
+    "line": 16,
+    "word": "ausgewesen",
+    "note": "perhaps ausgewichen"
+   },
+   {
+    "line": 17,
+    "word": "genommen",
+    "note": "perhaps gewinnen"
+   },
+   {
+    "line": 18,
+    "word": "unun",
+    "note": "garbled"
+   },
+   {
+    "line": 19,
+    "word": "trag",
+    "note": "likely trotz"
+   },
+   {
+    "line": 23,
+    "word": "um",
+    "note": "perhaps nun"
+   },
+   {
+    "line": 30,
+    "word": "Läß",
+    "note": "likely läßt"
+   },
+   {
+    "line": 30,
+    "word": "angestelten",
+    "note": "angestellten"
+   }
+  ],
+  "read_against": "75bcb8f25c590ea9"
+ }
 }

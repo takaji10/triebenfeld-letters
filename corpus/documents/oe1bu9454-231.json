@@ -125,5 +125,63 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Weigel bittet v. Triebenfeld, einen Tag für ein Treffen in Kalisz oder an einem anderen Ort seiner Wahl zu bestimmen. Dort will er die Angelegenheiten zwischen dem Fürsten v. Hohenlohe und sich besprechen und beraten. Vor einigen Wochen war er in eigenen Geschäften in Kalisz und hatte gehofft, v. Triebenfeld dort zu sehen. Dessen Aufenthaltsort konnte er aber nicht sicher erfahren. Er bittet um baldige Antwort."
+ "summary_de": "Weigel bittet v. Triebenfeld, einen Tag für ein Treffen in Kalisz oder an einem anderen Ort seiner Wahl zu bestimmen. Dort will er die Angelegenheiten zwischen dem Fürsten v. Hohenlohe und sich besprechen und beraten. Vor einigen Wochen war er in eigenen Geschäften in Kalisz und hatte gehofft, v. Triebenfeld dort zu sehen. Dessen Aufenthaltsort konnte er aber nicht sicher erfahren. Er bittet um baldige Antwort.",
+ "reading": {
+  "letter": "231",
+  "legibility": "sound",
+  "notes": "C. F. Weigel writes from Breslau to Triebenfeld. A few weeks earlier he was in Kalisz on his own business and hoped to meet Triebenfeld there, but could not find out where he was staying. He wants to discuss and consult on the affairs between the Prince of Hohenlohe and himself, and asks Triebenfeld to name a day for a meeting in Kalisz or wherever he prefers. There is nothing on Trąbczyn. The writer's grammar is loose (einem Beweiß, meinem Besuch, Im Erwartung).",
+  "claims": [
+   {
+    "statement": "Weigel bittet, einen Tag für ein Treffen in Kalisz oder anderswo zu bestimmen.",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Er will die Angelegenheiten zwischen dem Fürsten v. Hohenlohe und sich besprechen und beraten.",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Er war vor einigen Wochen in eigenen Geschäften in Kalisz und hoffte, v. Triebenfeld dort zu sehen.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Er konnte den Aufenthaltsort v. Triebenfelds nicht sicher erfahren.",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er bittet um baldige Antwort.",
+    "lines": [
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "waren",
+    "note": "probably 'wegen' (eigener Geschäfte wegen); the sentence reads oddly as transcribed"
+   },
+   {
+    "line": 10,
+    "word": "Fürstens",
+    "note": "after 'Ihrem' one would expect 'Fürsten'; this may be the writer's own form"
+   }
+  ],
+  "read_against": "24cfa10c4d5cd542"
+ }
 }

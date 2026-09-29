@@ -183,5 +183,130 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld, schwer krank, meldet den Empfang von 3000 Rthl vom Bankier Veit und die Übergabe der Anweisung an Amelang. Neue Schulden von 5176 Rthl habe er damit teils getilgt. Statt Geld wurden Holz und Bretter aus Konotop angenommen, womit 4176 Rthl getilgt werden sollen. Den Verlust von 3480 Rthl soll der Fürst ihm ersetzen. Er rät, 150000 Rthl aufzubringen, um für 750000 Rthl Papiere zu erwerben und alle Schulden zu bezahlen."
+ "summary_de": "Triebenfeld, schwer krank, meldet den Empfang von 3000 Rthl vom Bankier Veit und die Übergabe der Anweisung an Amelang. Neue Schulden von 5176 Rthl habe er damit teils getilgt. Statt Geld wurden Holz und Bretter aus Konotop angenommen, womit 4176 Rthl getilgt werden sollen. Den Verlust von 3480 Rthl soll der Fürst ihm ersetzen. Er rät, 150000 Rthl aufzubringen, um für 750000 Rthl Papiere zu erwerben und alle Schulden zu bezahlen.",
+ "reading": {
+  "letter": "38",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Berlin. He is ill and keeps it short. He has received 3000 rt from the banker Veit and handed the Anweisung to Amelang. He explains his debts: 5176 rt of new debt, borrowed with Zastrow's help. Hecker's caution papers have lost value, and a total of 4209 rt cannot be raised in cash. Wood and boards from Konotop were taken instead of money, which pays off 4176 rt, and Zastrow has his papers back. He loses 3480 rt on the wood and asks to be reimbursed. He advises the Prince to raise 150000 rt, which would buy 750000 rt in papers and pay all debts. He plans to go to Vienna and perhaps Öhringen. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld ist schwer krank",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "3000 Rthl vom Bankier Veit erhalten, Anweisung an Amelang abgegeben",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "neue Schulden von 5176 Rthl, mit Hilfe Zastrows geliehen, mit den 3000 Rthl des Fürsten teils getilgt",
+    "lines": [
+     8,
+     9,
+     10
+    ],
+    "check": "overstated",
+    "why": "Laut Z. 8 hat er mit Zastrows Hilfe nur 3000 Rthl geliehen. Die 5176 Rthl sind die neuen Schulden insgesamt (Z. 9). Die Zuordnung zu Zastrow gehört also zu einer anderen Summe. Belegt ist, dass er die 3000 Rthl des Fürsten zur Tilgung genommen hat."
+   },
+   {
+    "statement": "Heckers Kautionspapiere stark gefallen",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Holz und Bretter aus Konotop statt Geld angenommen, 4176 Rthl werden getilgt",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Verlust von 3480 Rthl am Holz soll der Fürst ersetzen",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Rat, 150000 Rthl aufzubringen, dafür 750000 Rthl Papiere, damit alle Schulden bezahlen",
+    "lines": [
+     22,
+     23,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "will nach Wien reisen",
+    "lines": [
+     26,
+     27
+    ],
+    "check": "overstated",
+    "why": "Z. 26-27: Die Reise ist an eine Bedingung geknüpft, nämlich dass er das Geld schnell aufbringen kann."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "kunde",
+    "note": "probably 'heute'"
+   },
+   {
+    "line": 11,
+    "word": "erfallen",
+    "note": "probably 'verfallen'"
+   },
+   {
+    "line": 13,
+    "word": "Defrahirung",
+    "note": "probably 'Defrayirung'"
+   },
+   {
+    "line": 14,
+    "word": "graue wollen",
+    "note": "probably 'grauenvollen'"
+   },
+   {
+    "line": 16,
+    "word": "Baupiner oder Later",
+    "note": "garbled; a buyer or creditor who took wood instead of money"
+   },
+   {
+    "line": 19,
+    "word": "hier",
+    "note": "probably 'Ewr'"
+   },
+   {
+    "line": 21,
+    "word": "dahrliche",
+    "note": "garbled"
+   },
+   {
+    "line": 22,
+    "word": "hindert laufend",
+    "note": "garbled"
+   },
+   {
+    "line": 26,
+    "word": "Weise",
+    "note": "garbled"
+   },
+   {
+    "line": 31,
+    "word": "wirdet",
+    "note": "garbled ending"
+   }
+  ],
+  "read_against": "18ff47e1616dd509"
+ }
 }

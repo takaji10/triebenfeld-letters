@@ -1190,5 +1190,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet per Estaffette um Hilfe: Die Gemeinden in Pszczew wollen, von Rochlitz aufgehetzt, vom Kauf zurücktreten. Verlangt werden die Cassation des Contracts zwischen Leixner und v. Brandenstein, Glencks Herausgabe des Societaets Contracts und eine Abmachung mit Bornstädt. Der Fürst soll Glenck die Papiere abfordern und Brandensteins Revers schicken. Triebenfeld fragt, was er Bornstädt wegen der zugesagten 1000 Friedrichsd'or antworten soll. Glenck habe Meyer Bernhard abgeraten, die 66/m Rthl am 29. in Posen zu zahlen."
+ "summary_de": "Triebenfeld bittet per Estaffette um Hilfe: Die Gemeinden in Pszczew wollen, von Rochlitz aufgehetzt, vom Kauf zurücktreten. Verlangt werden die Cassation des Contracts zwischen Leixner und v. Brandenstein, Glencks Herausgabe des Societaets Contracts und eine Abmachung mit Bornstädt. Der Fürst soll Glenck die Papiere abfordern und Brandensteins Revers schicken. Triebenfeld fragt, was er Bornstädt wegen der zugesagten 1000 Friedrichsd'or antworten soll. Glenck habe Meyer Bernhard abgeraten, die 66/m Rthl am 29. in Posen zu zahlen.",
+ "reading": {
+  "letter": "140",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Betsche (Pszczew) to the Prince and sends this by express. The sale of Pszczew to the Gemeinden and the Frankfurt buyers (Meyer Bernhard, Leixner) has stalled. Rochlitz is stirring up the settlers with a contract his relative Klein holds. Glenck is intriguing, and the tenant Bornstädt has to be dealt with. Triebenfeld asks for a revers from v. Brandenstein and wants Glenck ordered to hand over the contracts. He asks what to say about the 1000 Friedrichsd'or promised to Bornstädt. Glenck has talked Meyer Bernhard out of paying 66/m Rthl in Posen. Nothing can be done yet about dividing up Kamionna and Kolno. Trąbczyn is not mentioned.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bittet per Estaffette um Hilfe",
+    "lines": [
+     6,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "Gemeinden in Pszczew wollen, von Rochlitz aufgehetzt, vom Kauf zurücktreten",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Verlangt werden Cassation des Contracts Leixner/Brandenstein, Herausgabe des Societaets Contracts durch Glenck, Abmachung mit Bornstädt",
+    "lines": [
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63
+    ]
+   },
+   {
+    "statement": "Der Fürst soll Glenck die Papiere abfordern und Brandensteins Revers schicken",
+    "lines": [
+     64,
+     65,
+     66,
+     67,
+     74,
+     75,
+     77,
+     78,
+     79
+    ]
+   },
+   {
+    "statement": "Frage wegen der Bornstädt zugesagten 1000 Friedrichsd'or",
+    "lines": [
+     107,
+     108,
+     109,
+     110,
+     112,
+     113,
+     114
+    ]
+   },
+   {
+    "statement": "Glenck riet Meyer Bernhard ab, die 66/m Rthl am 29. in Posen zu zahlen",
+    "lines": [
+     130,
+     131,
+     132,
+     133,
+     134,
+     135
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "mirn",
+    "note": "garbled; 'recta mirn' unclear (perhaps 'erflehen')"
+   },
+   {
+    "line": 20,
+    "word": "bis",
+    "note": "probably 'ließ' (ließ ich die Deputirten rufen)"
+   },
+   {
+    "line": 58,
+    "word": "um",
+    "note": "probably 'und'"
+   },
+   {
+    "line": 64,
+    "word": "um",
+    "note": "probably 'und' (Rath und Bitte)"
+   },
+   {
+    "line": 13,
+    "word": "Pre: Braunschweig",
+    "note": "unclear title/name"
+   },
+   {
+    "line": 118,
+    "word": "[k?]antigen",
+    "note": "garbled"
+   },
+   {
+    "line": 143,
+    "word": "Liebt[?]",
+    "note": "garbled"
+   },
+   {
+    "line": 116,
+    "word": "ſchneden",
+    "note": "probably 'verschweigen' or similar; unclear"
+   }
+  ],
+  "read_against": "4b04339def3568d6"
+ }
 }

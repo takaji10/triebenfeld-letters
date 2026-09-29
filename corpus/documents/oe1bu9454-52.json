@@ -138,5 +138,84 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld hat das Schreiben des Fürsten samt Beilagen der Königin überreicht, die es wohlwollend aufnahm. Sie übergab die Sache dem Groß Kanzler, der sie an Cabinets und Cammergerichts Rath Allbrecht weiterleitete, mit dem Triebenfeld nun daran arbeitet. Weil Beyme sehr auf die Form zu achten scheint, fürchtet er eine langwierige Sache. Der König hat verboten, über Politik und besonders über den Krieg zwischen Frankreich und Österreich zu räsonieren, da die Nachrichten sich widersprechen. Köckritz lässt sich empfehlen."
+ "summary_de": "v. Triebenfeld hat das Schreiben des Fürsten samt Beilagen der Königin überreicht, die es wohlwollend aufnahm. Sie übergab die Sache dem Groß Kanzler, der sie an Cabinets und Cammergerichts Rath Allbrecht weiterleitete, mit dem Triebenfeld nun daran arbeitet. Weil Beyme sehr auf die Form zu achten scheint, fürchtet er eine langwierige Sache. Der König hat verboten, über Politik und besonders über den Krieg zwischen Frankreich und Österreich zu räsonieren, da die Nachrichten sich widersprechen. Köckritz lässt sich empfehlen.",
+ "reading": {
+  "letter": "52",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Königsberg to the Prince. He handed the Prince's letter and its enclosures to the Queen, who received them with pleasure. She passed the matter to the Groß Kanzler, who handed it on to Cabinets und Cammergerichts Rath Allbrecht, and Triebenfeld now works on it with him. Beyme seems to insist on form, so the matter may drag on. Allbrecht is praised. The King has ordered, at the parole, that no one discuss politics, above all the war between France and Austria, because the reports contradict each other. Triebenfeld cannot yet say how long he will stay. Köckritz sends his compliments. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Schreiben samt Beilagen der Königin überreicht, wohlwollend aufgenommen",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Königin übergab die Sache dem Groß Kanzler, dieser an Allbrecht; Triebenfeld arbeitet mit ihm",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Beyme scheint sehr auf die Form zu achten; Sache wird langwierig",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "König verbot Räsonieren über Politik, besonders über den Krieg Frankreich/Österreich, wegen widersprüchlicher Nachrichten",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Köckritz empfiehlt sich",
+    "lines": [
+     25,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "J M",
+    "note": "probably an abbreviated title (Geh. Minister?) misread"
+   },
+   {
+    "line": 10,
+    "word": "scheinen und es",
+    "note": "sentence garbled; likely 'scheint auf die Form zu sehen'"
+   },
+   {
+    "line": 13,
+    "word": "mit den ich zu gekannt habe",
+    "note": "garbled; probably 'den ich je gekannt habe'"
+   },
+   {
+    "line": 22,
+    "word": "Die Juni-",
+    "note": "stray fragment, unclear"
+   },
+   {
+    "line": 8,
+    "word": "Allbrecht",
+    "note": "the edition's form is Albrecht; the writer spells it Allbrecht twice (lines 8 and 12), so it is not corrected"
+   }
+  ],
+  "read_against": "4b6c8efd593350c7"
+ }
 }

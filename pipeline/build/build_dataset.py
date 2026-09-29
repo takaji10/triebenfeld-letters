@@ -69,6 +69,24 @@ def load_summaries():
             out[lang] = yaml.safe_load(f) or {}
     return out
 
+def load_readings():
+    """The whole-letter reading of each document, keyed by pad.
+
+    units/<slug>/reading.json, where a holding has been read letter by letter
+    (pipeline/review/read_letters.py): who writes to whom about what, how
+    legible it is, every statement of the summary with the lines it rests on,
+    and the words suspected but not proven to be misread. Authored once and
+    paid for; carried into the dataset so a question can use it without
+    re-reading the German.
+    """
+    out = {}
+    for u in unitlib.load_units():
+        p = os.path.join(u.dir, 'reading.json')
+        if os.path.isfile(p):
+            with open(p, encoding='utf-8') as f:
+                out.update(json.load(f))
+    return out
+
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -96,6 +114,7 @@ def main():
     places = place_authority()
     trans = load_translations()
     summaries = load_summaries()
+    readings = load_readings()
     print(f'{len(recs)} documents, {len(people)} people in the authority')
 
     manifest, people_idx, place_idx = [], defaultdict(list), defaultdict(list)
@@ -159,6 +178,7 @@ def main():
         doc['text_english'] = en
         doc['summary_en'] = sum_en
         doc['summary_de'] = sum_de
+        doc['reading'] = readings.get(r['pad']) or {}
         write_json(os.path.join(DOCS, uid + '.json'), doc)
 
         # --- the plain-text mirror -----------------------------------------
@@ -170,6 +190,8 @@ def main():
         # German first, then the summary and the English under their own
         # headings, so a grep hit says which language it was found in.
         body = ['\n'.join(head), r['text']]
+        if sum_de:
+            body.append('\n--- SUMMARY (German) ---\n' + sum_de)
         if sum_en:
             body.append('\n--- SUMMARY (English) ---\n' + sum_en)
         if en:
@@ -191,6 +213,7 @@ def main():
             'repository': _REPO_OF.get(r['unit'], ''),
             'date_iso': r.get('date_iso') or '', 'date_precision': r.get('date_precision') or '',
             'date_source': r.get('date_source') or '', 'place': place,
+            'sender': r.get('sender') or '', 'recipient': r.get('recipient') or '',
             'n_pages': len(r.get('pages') or []), 'n_lines': r.get('n_lines') or 0,
             'scans': [{'page': p['page'], 'page_id': p.get('page_id', ''),
                        'image': p.get('scan', '')} for p in (r.get('pages') or [])],
@@ -201,7 +224,8 @@ def main():
             # Authored: what the document is about, not what it mentions.
             'estates': r.get('estates') or [],
             'translation_status': doc['translation_status'],
-            'has_summary': bool(sum_en),
+            'has_summary': bool(sum_en), 'has_summary_de': bool(sum_de),
+            'legibility': (readings.get(r['pad']) or {}).get('legibility') or '',
             'title': f'{(r.get("doc_type") or "document").replace("_", " ")} {r["letter_id"]}',
             'path': f'documents/{uid}.json', 'text_path': f'text/{uid}.txt',
             'permalink': r['permalink'],

@@ -561,5 +561,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Trąbczyn soll bis spätestens Micheli zurückkommen, die Sequestration ist aufgehoben. Die Rechnungen von Honrichs und Frankiewicz, für die Brzechffa bürgt, prüft der Calculator Schneider. Hecker und Hawich sollen die veruntreuten 11700 Rthl beweisen. Hecker darf Administrator werden. Der Pächter Smidkowski will gleich etliche Tausend zahlen, um auf den Gütern zu bleiben. Die Dąbska ist beim König in Warschau mit ihrem Gesuch wegen Trąbczyn abgewiesen worden. Köckritz will die Papiere der Colonnaschen Sache schicken. Hardenberg soll das Schuldenwesen ordnen."
+ "summary_de": "Trąbczyn soll bis spätestens Micheli zurückkommen, die Sequestration ist aufgehoben. Die Rechnungen von Honrichs und Frankiewicz, für die Brzechffa bürgt, prüft der Calculator Schneider. Hecker und Hawich sollen die veruntreuten 11700 Rthl beweisen. Hecker darf Administrator werden. Der Pächter Smidkowski will gleich etliche Tausend zahlen, um auf den Gütern zu bleiben. Die Dąbska ist beim König in Warschau mit ihrem Gesuch wegen Trąbczyn abgewiesen worden. Köckritz will die Papiere der Colonnaschen Sache schicken. Hardenberg soll das Schuldenwesen ordnen.",
+ "reading": {
+  "letter": "198",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes to the Prince two days after getting back from Poland. He says Trąbczyn will be returned by Michaelmas at the latest and the sequestration is lifted. The accounts of Honrichs and Frankiewicz are being audited, and Hecker and Hawich must prove the 11700 rt that was embezzled. Triebenfeld has agreed to Hecker becoming administrator. The tenant Smidkowski will pay several thousand to stay on. Dąbska's petition to the King about Trąbczyn was rejected. There is also Berlin news from Köckritz and Tismar: the King's good opinion of the Prince and of Triebenfeld, the papers in the Colonna affair, Invaliden interest, Hardenberg's return, and the 35000 rt through Rhoden.",
+  "claims": [
+   {
+    "statement": "Trąbczyn soll bis spätestens Micheli zurückkommen",
+    "lines": [
+     6
+    ]
+   },
+   {
+    "statement": "Sequestration aufgehoben",
+    "lines": [
+     7
+    ]
+   },
+   {
+    "statement": "Rechnungen von Honrichs und Frankiewicz, von Brzechffa garantiert, prüft Calculator Schneider",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Hecker und Hawich sollen die veruntreuten 11700 Rthl beweisen",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Hecker darf Administrator werden",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Pächter Smidkowski will etliche Tausend zahlen, um auf den Gütern zu bleiben",
+    "lines": [
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Dąbska beim König in Warschau wegen Trąbczyn abgewiesen",
+    "lines": [
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Köckritz will die Papiere der Colonnaschen Sache schicken",
+    "lines": [
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Hardenberg soll das Schuldenwesen ordnen",
+    "lines": [
+     67,
+     68
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 35,
+    "word": "Colon nasche",
+    "note": "probably 'Colonnasche', cf. line 62 'Colonnaschen'"
+   },
+   {
+    "line": 50,
+    "word": "Rückel",
+    "note": "possibly Rüchel (General Rüchel); could be the writer's own spelling"
+   },
+   {
+    "line": 84,
+    "word": "Streiten",
+    "note": "place name misread? possibly Strelitz"
+   },
+   {
+    "line": 65,
+    "word": "Hornizen",
+    "note": "probably 'Hornissen'"
+   },
+   {
+    "line": 12,
+    "word": "Frankiewicz",
+    "note": "line 8 has 'Frankiewitz'; not clear which spelling is right"
+   },
+   {
+    "line": 43,
+    "word": "Sa[?]en",
+    "note": "name of the Geheimer Rath cannot be read"
+   },
+   {
+    "line": 48,
+    "word": "einhänig",
+    "note": "garbled, perhaps 'einhängen'"
+   }
+  ],
+  "read_against": "44ad48a7c6ed30f3"
+ }
 }

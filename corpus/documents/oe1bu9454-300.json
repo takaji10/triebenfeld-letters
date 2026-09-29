@@ -284,5 +284,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Berichtet über einen Streit in Posen: Zerboni ließ mit seinem Sekretär Schmidt ein Gutachten zur Organisation Posens entwerfen. Fürst Radziwiłł verweigerte die Mitunterschrift, weil es dem Befehl des Königs widersprach, worauf Zerboni erklärte, er sei hier regierender Herr. Zerboni wurde nach Berlin geschickt. Gerüchte: Der Senat in Petersburg soll die polnische Verfassung verworfen haben, Großfürst Constantin eilte nach Petersburg. Nach Rückkehr seines Boten aus Sławięcice will Triebenfeld nach Pszczew und dann nach Berlin wegen der Entschädigung reisen."
+ "summary_de": "Berichtet über einen Streit in Posen: Zerboni ließ mit seinem Sekretär Schmidt ein Gutachten zur Organisation Posens entwerfen. Fürst Radziwiłł verweigerte die Mitunterschrift, weil es dem Befehl des Königs widersprach, worauf Zerboni erklärte, er sei hier regierender Herr. Zerboni wurde nach Berlin geschickt. Gerüchte: Der Senat in Petersburg soll die polnische Verfassung verworfen haben, Großfürst Constantin eilte nach Petersburg. Nach Rückkehr seines Boten aus Sławięcice will Triebenfeld nach Pszczew und dann nach Berlin wegen der Entschädigung reisen.",
+ "reading": {
+  "letter": "300",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Blizanow to the Prince. The upper left margin is damaged. First, something (\"[...]schlag\") has been left at Gostyszyn but no letter came with it, and he will send for it. Then Posen news: Zerboni and his secretary Schmidt drafted a report on organising the Grand Duchy of Posen. Fürst Radziwiłł refused to co-sign because it contradicted what the King had told him, and Zerboni answered \"Ich bin hier regierender Herr\". Radziwiłł left offended, his wife followed, and Z was sent to Berlin. Rumours from Petersburg: the Senate is said to have rejected the Polish constitution, and Grand Duke Constantin has hurried there. Plans: once his messenger is back from Schlawenschitz, he goes to Betsche and then to Berlin for the compensation business. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Zerboni ließ mit seinem Sekretär Schmidt ein Gutachten zur Organisation des Großherzogtums Posen entwerfen",
+    "lines": [
+     10,
+     11,
+     12
+    ],
+    "check": "overstated",
+    "why": "Zeilen 11-12 sagen, dass Zerboni das Gutachten mit seinem Sekretär Schmidt entwarf. Nur steht dort 'des G L. Posens'. Die Auflösung der Abkürzung als 'Großherzogtum' ist eine Deutung des verderbten Textes."
+   },
+   {
+    "statement": "Radziwiłł verweigerte die Mitunterschrift, weil es dem Befehl des Königs widersprach",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Zerboni erklärte, er sei hier regierender Herr",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Zerboni wurde nach Berlin geschickt",
+    "lines": [
+     26
+    ]
+   },
+   {
+    "statement": "Gerücht: Senat in Petersburg soll die polnische Verfassung verworfen haben",
+    "lines": [
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Großfürst Constantin eilte nach Petersburg",
+    "lines": [
+     38
+    ]
+   },
+   {
+    "statement": "Nach Rückkehr des Boten aus Sławięcice will er nach Pszczew und dann nach Berlin wegen der Entschädigung",
+    "lines": [
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Gosztiszyn",
+    "note": "The writer spells it Gostyszyn elsewhere (doc 298)."
+   },
+   {
+    "line": 9,
+    "word": "gerichtfelt",
+    "note": "Probably 'gerüffelt'."
+   },
+   {
+    "line": 17,
+    "word": "zuvöd",
+    "note": "Probably 'zurück'."
+   },
+   {
+    "line": 30,
+    "word": "gänztig",
+    "note": "Unclear, perhaps 'gräßlich'."
+   },
+   {
+    "line": 32,
+    "word": "Cziszewska",
+    "note": "Name doubtful."
+   },
+   {
+    "line": 35,
+    "word": "aufopfar¬",
+    "note": "Probably 'aufopfern'."
+   },
+   {
+    "line": 39,
+    "word": "könne",
+    "note": "Probably 'kömt'."
+   },
+   {
+    "line": 43,
+    "word": "Ehrfurchts woll",
+    "note": "Probably 'Ehrfurchtsvoll'."
+   },
+   {
+    "line": 11,
+    "word": "Organication",
+    "note": "Organisation; may be the writer's own spelling."
+   }
+  ],
+  "read_against": "5eae7be37d6388a6"
+ }
 }

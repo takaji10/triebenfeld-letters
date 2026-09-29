@@ -353,5 +353,147 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Berichtet über Napoleons Rückkehr: Grenoble sei in seiner Gewalt, er habe etwa 30/m Mann, auf seinen Kopf seien 10 Millionen Francken gesetzt. Bittet den Fürsten um einen Korbwagen für den Diener von Hoffrath Barbe, der von Sławięcice aus Barbes Schwester aus der Schweiz holen soll, und um ein Fuhrwerk mit 2 Pferden für Glaskisten der Hoffräthe Barbe, Heym und Philipsborn aus Prag. Wünscht Eberhards Kommen, fragt nach F. Augusts Schritten wegen der Vollmacht und erbittet weitere Blanquets."
+ "summary_de": "Berichtet über Napoleons Rückkehr: Grenoble sei in seiner Gewalt, er habe etwa 30/m Mann, auf seinen Kopf seien 10 Millionen Francken gesetzt. Bittet den Fürsten um einen Korbwagen für den Diener von Hoffrath Barbe, der von Sławięcice aus Barbes Schwester aus der Schweiz holen soll, und um ein Fuhrwerk mit 2 Pferden für Glaskisten der Hoffräthe Barbe, Heym und Philipsborn aus Prag. Wünscht Eberhards Kommen, fragt nach F. Augusts Schritten wegen der Vollmacht und erbittet weitere Blanquets.",
+ "reading": {
+  "letter": "4",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to the Prince. News of Napoleon's return: Grenoble taken, about 30,000 men, a bounty of 10 million francs on his head. Requests: a Korbwagen for Hoffrath Barbe's servant, who is to go from Sławięcice to Switzerland to fetch Barbe's sister; a cart with 2 horses to bring glass from Prague for the Hofräte Barbe, Heym and Philipsborn; a pass for his own two men back to Blizanow. He wants Eberhard to come and is indignant at Eberhard's demand for a Vorspann pass and travel costs. He asks what Fürst August did about the Vollmacht and wants more Blanquets. The postscript covers conflicting rumours and fear of Napoleon's appeal to the lower classes. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Grenoble in Napoleons Gewalt, etwa 30/m Mann",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "10 Millionen Francken auf Napoleons Kopf gesetzt",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Korbwagen für Barbes Diener, der von Sławięcice aus Barbes Schwester aus der Schweiz holen soll",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Fuhrwerk mit 2 Pferden für Glaskisten der Hoffräthe Barbe, Heym, Philipsborn aus Prag",
+    "lines": [
+     24,
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Wünscht Eberhards Kommen, empört über Forderung nach Vorspannpass und Reisekosten",
+    "lines": [
+     35,
+     37,
+     38,
+     39,
+     41
+    ]
+   },
+   {
+    "statement": "Fragt nach Fürst Augusts Schritten wegen der Vollmacht",
+    "lines": [
+     42,
+     43
+    ],
+    "check": "overstated",
+    "why": "Der Brief schreibt nur 'F August'; die Auflösung zu 'Fürst' ist eine Deutung der Abkürzung."
+   },
+   {
+    "statement": "Erbittet weitere Blanquets",
+    "lines": [
+     48,
+     49
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Wölden",
+    "note": "probably Wolken"
+   },
+   {
+    "line": 5,
+    "word": "haft",
+    "note": "probably hofft"
+   },
+   {
+    "line": 6,
+    "word": "Baselick",
+    "note": "probably Basilisk"
+   },
+   {
+    "line": 7,
+    "word": "vorück",
+    "note": "probably vorrücke"
+   },
+   {
+    "line": 8,
+    "word": "Livn",
+    "note": "probably Lyon"
+   },
+   {
+    "line": 13,
+    "word": "Marsena",
+    "note": "probably Massena"
+   },
+   {
+    "line": 21,
+    "word": "dritchene",
+    "note": "probably drillichene"
+   },
+   {
+    "line": 27,
+    "word": "Eufrchn",
+    "note": "garbled, perhaps Fuhre"
+   },
+   {
+    "line": 39,
+    "word": "alsiren",
+    "note": "garbled"
+   },
+   {
+    "line": 40,
+    "word": "Dicelten",
+    "note": "garbled"
+   },
+   {
+    "line": 51,
+    "word": "Taufendfache",
+    "note": "probably Tausendfache; the line is garbled"
+   },
+   {
+    "line": 65,
+    "word": "Anfang",
+    "note": "probably Anhang"
+   },
+   {
+    "line": 67,
+    "word": "nicht sich",
+    "note": "probably naht sich"
+   },
+   {
+    "line": 58,
+    "word": "bäut",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "af77abce2bc50524"
+ }
 }

@@ -115,5 +115,50 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Von Triebenfeld meldet, dass der Gütertausch jetzt im Gange ist und vielleicht bald abgeschlossen wird. Er will Anfang September nach Berlin reisen und bis Ende des Monats bleiben. Dort hofft er den Fürsten wiederzusehen und ihm persönlich über mehrere Geschäfte zu berichten."
+ "summary_de": "Von Triebenfeld meldet, dass der Gütertausch jetzt im Gange ist und vielleicht bald abgeschlossen wird. Er will Anfang September nach Berlin reisen und bis Ende des Monats bleiben. Dort hofft er den Fürsten wiederzusehen und ihm persönlich über mehrere Geschäfte zu berichten.",
+ "reading": {
+  "letter": "76",
+  "legibility": "sound",
+  "notes": "A short note from Triebenfeld in Breslau to the Prince. He says a certain exchange of estates is under way and may soon be settled. He will travel to Berlin at the beginning of September and stay until the end of the month. There he hopes to see the Prince and report in person on several matters of business. Trąbczyn is not mentioned. In line 7, \"dörfen\" looks odd; it may be \"dorten\". Line 11 repeats \"den, den\".",
+  "claims": [
+   {
+    "statement": "Der Gütertausch ist im Gange und vielleicht bald abgeschlossen.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er will Anfang September nach Berlin reisen und bis Ende des Monats bleiben.",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Er hofft den Fürsten in Berlin wiederzusehen und persönlich über mehrere Geschäfte zu berichten.",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "dörfen",
+    "note": "Does not fit the sentence; possibly \"dorten\" (there)."
+   },
+   {
+    "line": 11,
+    "word": "den, den",
+    "note": "Possibly a repeated word, or a misreading of \"dann\"."
+   }
+  ],
+  "read_against": "153deb9c8646b7cf"
+ }
 }

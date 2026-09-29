@@ -190,5 +190,140 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn übersendet auf Befehl die entworfene Antwort an Fürst August. Die Rücknahme der Vollmacht führt er auf die Wiener Beschlüsse zurück. Er fürchtet neue Missgriffe in Öhringen, die nur mündlich abzuwenden seien. Für den äußersten Fall wäre ihm eine geheime Instruction nebst Vollmacht nöthig. Durch Besichtigung der Güter will Hahn deren wahren Ertrag und den Baubedarf nachweisen. Die Mittel der Güter dürften nicht länger an einen Berliner Advocaten gehen."
+ "summary_de": "Hahn übersendet auf Befehl die entworfene Antwort an Fürst August. Die Rücknahme der Vollmacht führt er auf die Wiener Beschlüsse zurück. Er fürchtet neue Missgriffe in Öhringen, die nur mündlich abzuwenden seien. Für den äußersten Fall wäre ihm eine geheime Instruction nebst Vollmacht nöthig. Durch Besichtigung der Güter will Hahn deren wahren Ertrag und den Baubedarf nachweisen. Die Mittel der Güter dürften nicht länger an einen Berliner Advocaten gehen.",
+ "reading": {
+  "letter": "272",
+  "legibility": "partly garbled",
+  "notes": "Hoffrath Hahn writes to Prince Friedrich Ludwig, sending the draft reply to Fürst August he was ordered to write. He thinks the withdrawal of the Vollmacht follows from the Vienna decisions. He fears new blunders in Öhringen that could only be averted by talking in person, and asks for a secret instruction and a power of attorney for the worst case. He hopes the Prince will add something in his own hand about the travel money. He blames H. v. Braun, who was no match for Cosmar. He plans to inspect the estates to show their true yield and building needs, and to propose a fund. He wants the estates' means kept from a Berlin advocate. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Hahn übersendet auf Befehl die entworfene Antwort an Fürst August.",
+    "lines": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Er führt die Rücknahme der Vollmacht auf die Wiener Beschlüsse zurück.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Er fürchtet neue Missgriffe in Öhringen, die nur mündlich abzuwenden seien.",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Für den äußersten Fall bittet er um eine geheime Instruction und Vollmacht.",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24
+    ],
+    "check": "overstated",
+    "why": "Hahn schreibt nur, eine geheime Instruction nebst Vollmacht wäre ihm für diesen Fall dringend nothwendig. Gleich danach fügt er hinzu, er glaube, dies alles sei nicht nöthig. Eine ausdrückliche Bitte steht nicht im Brief."
+   },
+   {
+    "statement": "H. v. Braun sei die Wurzel des Übels, da er Cosmar nicht gewachsen gewesen sei.",
+    "lines": [
+     42,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Durch Besichtigung der Güter will er den wahren Ertrag und den Baubedarf nachweisen.",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "statement": "Die Mittel der Güter dürften nicht länger an einen Berliner Advocaten gehen.",
+    "lines": [
+     65,
+     66,
+     67,
+     68,
+     69
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "selbstän",
+    "note": "broken or garbled; the sense of the line is unclear"
+   },
+   {
+    "line": 19,
+    "word": "gemeins",
+    "note": "probably 'gewohnt' or 'gemeint'"
+   },
+   {
+    "line": 28,
+    "word": "erhälte",
+    "note": "the sense wants something like 'entgeht' or 'verliert'"
+   },
+   {
+    "line": 33,
+    "word": "Wißeine",
+    "note": "probably 'Bis eine'"
+   },
+   {
+    "line": 36,
+    "word": "ira",
+    "note": "with 'gen' on line 37, probably 'wegen'"
+   },
+   {
+    "line": 37,
+    "word": "Reißelgeldes",
+    "note": "probably 'Reisegeldes'"
+   },
+   {
+    "line": 39,
+    "word": "Goldstüker",
+    "note": "unclear whether this is a name or a misreading"
+   },
+   {
+    "line": 43,
+    "word": "bißferi¬",
+    "note": "probably 'bisheri-(gen)'"
+   },
+   {
+    "line": 46,
+    "word": "würde",
+    "note": "probably 'wußte'"
+   },
+   {
+    "line": 54,
+    "word": "Etatsfähr",
+    "note": "probably 'Etatsjahr'"
+   },
+   {
+    "line": 59,
+    "word": "neuen",
+    "note": "probably 'nennen' or 'vorschlagen'"
+   }
+  ],
+  "read_against": "a2ba8c0ef7ed2910"
+ }
 }

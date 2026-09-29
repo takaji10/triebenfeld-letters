@@ -108,5 +108,80 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn meldet, dass er unter seinen Papieren noch einige von Sr Durchlaucht unterschriebene chartes blanches gefunden hat, die für Triebenfeld bestimmt waren. Er entschuldigt das Versehen: In den letzten Nächten vor der Abreise sei der Cammer Director Graf eingetroffen und alles Hohenlohische musste vor der Reise erledigt werden. Die übrigen chartes blanches hat er an die Fräulein von Triebenfeld geschickt. Nachschrift: Sr Durchlaucht hat ihn vor der Abreise zum Expeditions Rath ernannt."
+ "summary_de": "Hahn meldet, dass er unter seinen Papieren noch einige von Sr Durchlaucht unterschriebene chartes blanches gefunden hat, die für Triebenfeld bestimmt waren. Er entschuldigt das Versehen: In den letzten Nächten vor der Abreise sei der Cammer Director Graf eingetroffen und alles Hohenlohische musste vor der Reise erledigt werden. Die übrigen chartes blanches hat er an die Fräulein von Triebenfeld geschickt. Nachschrift: Sr Durchlaucht hat ihn vor der Abreise zum Expeditions Rath ernannt.",
+ "reading": {
+  "letter": "178",
+  "legibility": "partly garbled",
+  "notes": "Hahn writes to Triebenfeld from Dresden. He has found, among his papers, some chartes blanches signed by the Prince that were meant for Triebenfeld and were packed in haste. He apologises: in the last nights before leaving he got no rest, because Cammer Director Graf arrived and all Hohenlohe business had to be settled before the journey. He sent the other chartes blanches to the Fräulein von Triebenfeld. In a postscript he says the Prince has named him Expeditions Rath. Nothing about Trąbczyn. Several words are garbled: Eilrigbreslau, Behringen, ankand, angrenge.",
+  "claims": [
+   {
+    "statement": "Hahn hat unter seinen Papieren noch von Sr Durchlaucht unterschriebene chartes blanches gefunden, die für Triebenfeld bestimmt waren",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Er entschuldigt das Versehen: In den letzten Nächten vor der Abreise sei der Cammer Director Graf eingetroffen, alles Hohenlohische musste vor der Reise erledigt werden",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Die übrigen chartes blanches hat er an die Fräulein von Triebenfeld geschickt",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Der Fürst hat ihn vor der Abreise zum Expeditions Rath ernannt",
+    "lines": [
+     21,
+     22
+    ],
+    "check": "overstated",
+    "why": "Der Brief schreibt nur 'Sr. Durchl.' und nennt keinen Titel 'Fürst'. Das ist eine Deutung, deshalb auf den Wortlaut des Briefs zurückgeführt."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Eilrigbreslau",
+    "note": "garbled; perhaps 'Eile zu Breslau'"
+   },
+   {
+    "line": 12,
+    "word": "Behringen",
+    "note": "possibly Öhringen (the Hohenlohe residence)"
+   },
+   {
+    "line": 12,
+    "word": "ankand",
+    "note": "probably 'ankam'"
+   },
+   {
+    "line": 13,
+    "word": "angrenge",
+    "note": "probably 'angienge'"
+   },
+   {
+    "line": 16,
+    "word": "Frauenlein",
+    "note": "probably 'Fräulein'"
+   }
+  ],
+  "read_against": "429c09293065dae1"
+ }
 }

@@ -113,5 +113,74 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Aktenauszug: Landesältester v. Lichnowski fordert mit Schreiben vom 23. Nov. 1804 vom Fürsten einen Zinsrückstand von 5572 Rthl 12 gg für anderthalb Jahre (4. Mai 1803 bis 4. Nov.). Ein Mandat der Kalischer Regierung setzte eine Zahlungsfrist von 14 Tagen, die ohne Zahlung verstrichen ist. Er droht mit einem Antrag auf Sequestration, wünscht aber gutes Einvernehmen. Die Antwort lautet, die Pächter hätten nicht gezahlt. Er werde befriedigt werden, da Herr v. Triebenfeld alles in Ordnung bringe."
+ "summary_de": "Aktenauszug: Landesältester v. Lichnowski fordert mit Schreiben vom 23. Nov. 1804 vom Fürsten einen Zinsrückstand von 5572 Rthl 12 gg für anderthalb Jahre (4. Mai 1803 bis 4. Nov.). Ein Mandat der Kalischer Regierung setzte eine Zahlungsfrist von 14 Tagen, die ohne Zahlung verstrichen ist. Er droht mit einem Antrag auf Sequestration, wünscht aber gutes Einvernehmen. Die Antwort lautet, die Pächter hätten nicht gezahlt. Er werde befriedigt werden, da Herr v. Triebenfeld alles in Ordnung bringe.",
+ "reading": {
+  "letter": "150",
+  "legibility": "partly garbled",
+  "notes": "This is a file note, not a letter. It abstracts a letter from Landesältester v. Lichnowski dated 23 Nov 1804 to the Prince (Sr Durchl.). Lichnowski claims 5572 rthl 12 gg of arrears on interest covering 4 May 1803 to 4 Nov. He obtained a mandate from the Kalisz government requiring payment within 14 days. That deadline has passed, so he threatens to apply for sequestration, though he hopes to stay on good terms and expects funds by Christmas. The draft answer, dated 27 Nov 1804, says the tenants have not paid and that he will be satisfied once Triebenfeld has put things in order. Line 6 'admiuhträt' is garbled (probably 'administrirt'). Line 11 'abwägerne' is probably 'aber gerne' and line 13 'Selittel' probably 'Mittel'.",
+  "claims": [
+   {
+    "statement": "Lichnowski schreibt am 23. Nov. 1804 an den Fürsten",
+    "lines": [
+     2,
+     3
+    ]
+   },
+   {
+    "statement": "Zinsrückstand von 5572 Rthl 12 gg für anderthalb Jahre, 4. Mai 1803 bis 4. Nov.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Mandat der Kalischer Regierung mit 14 Tagen Zahlungsfrist, die ohne Zahlung verstrichen ist",
+    "lines": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "droht mit Antrag auf Sequestration, wünscht aber gutes Einvernehmen",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Antwort: Pächter hätten nicht gezahlt, er werde befriedigt, da Triebenfeld alles in Ordnung bringe",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "admiuhträt",
+    "note": "probably 'administrirt'"
+   },
+   {
+    "line": 11,
+    "word": "abwägerne",
+    "note": "probably 'aber gerne'"
+   },
+   {
+    "line": 13,
+    "word": "Selittel",
+    "note": "probably 'Mittel'"
+   },
+   {
+    "line": 14,
+    "word": "ihr",
+    "note": "probably 'ihn'"
+   }
+  ],
+  "read_against": "257913367053e76a"
+ }
 }

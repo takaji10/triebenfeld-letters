@@ -127,5 +127,104 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber meldet einem Freund, dass Vater Weigel nach einem Besuch zufrieden ist und ihm die ganze Sache überlassen hat. Weigel will die Güter annehmen, die der Fürst einhandelt. Der Schreiber soll ihm alles genau ausarbeiten, damit Weigel es seinem Sohn erklären kann. Weigel lobt ausführlich die Uneigennützigkeit des Schreibers und will ihn öfter besuchen. Nachschrift: Der Schreiber hofft, die 2 Freystellen bald zu verkaufen."
+ "summary_de": "Der Schreiber meldet einem Freund, dass Vater Weigel nach einem Besuch zufrieden ist und ihm die ganze Sache überlassen hat. Weigel will die Güter annehmen, die der Fürst einhandelt. Der Schreiber soll ihm alles genau ausarbeiten, damit Weigel es seinem Sohn erklären kann. Weigel lobt ausführlich die Uneigennützigkeit des Schreibers und will ihn öfter besuchen. Nachschrift: Der Schreiber hofft, die 2 Freystellen bald zu verkaufen.",
+ "reading": {
+  "letter": "202",
+  "legibility": "partly garbled",
+  "notes": "A private letter to a \"Lieber Freund\", signed v Triebenfeld and written at Schweinern (Świniary), dated in the text \"20ten Aug 10\". The edition dates it 1810-08-30, which fits letter 201's note that Weigel would visit on the 30th. Sender and recipient are marked not identified, so the summary says \"der Schreiber\". Weigel has visited, left satisfied and put the matter in the writer's hands. He will accept the estates the Fürst is acquiring, and he wants a detailed written plan so he can explain it to his son. A long quoted speech by Weigel praises the writer's lack of self-interest. In a postscript the writer hopes to sell 2 Freystellen quickly. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Vater Weigel ist zufrieden gegangen und hat die ganze Sache in die Hände des Schreibers gelegt",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Weigel will die Güter annehmen, die der Fürst einhandelt",
+    "lines": [
+     4
+    ]
+   },
+   {
+    "statement": "Der Schreiber soll alles genau ausarbeiten, damit Weigel es seinem Sohn erklären kann",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Weigel lobt die Uneigennützigkeit des Schreibers und will ihn öfter besuchen",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Der Schreiber hofft, die 2 Freystellen bald zu verkaufen",
+    "lines": [
+     32,
+     33
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Anfalt",
+    "note": "probably 'Anstalt' (von allen Anstalten in Kenntnis setzen)"
+   },
+   {
+    "line": 9,
+    "word": "freyung",
+    "note": "garbled; perhaps 'krönen' or 'fördern'"
+   },
+   {
+    "line": 14,
+    "word": "Eignung",
+    "note": "probably 'Eigennutz'"
+   },
+   {
+    "line": 25,
+    "word": "man",
+    "note": "probably 'wan' (wenn)"
+   },
+   {
+    "line": 29,
+    "word": "Taywerd[?]",
+    "note": "garbled"
+   },
+   {
+    "line": 33,
+    "word": "kohlen",
+    "note": "unclear, possibly a place name or 'holen'"
+   },
+   {
+    "line": 35,
+    "word": "aufruchtiger",
+    "note": "probably 'aufrichtiger'"
+   },
+   {
+    "line": 34,
+    "word": "20ten",
+    "note": "the edition dates the letter 30 Aug; letter 201 announces Weigel's visit for the 30th, so '20ten' may be a misreading of '30ten'"
+   }
+  ],
+  "read_against": "161716a67a10f08a"
+ }
 }

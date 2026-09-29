@@ -172,5 +172,87 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt, dass ein Bote aus dem Haus des Fürsten ohne Antwort auf sein Schreiben kam. Er stehe unter Arrest und dürfe erst fort, wenn die zugesagten 600 Centner Eisen abgeschickt sind und Justiz Bürgermeister Schenck ihn losgesprochen hat. Er bittet dringend, das Eisen nach Bojadła (Boyadel) an seinen Verwalter Neumann zu senden. Mit 1000 Centnern wären Michaelis Lahr und alle Berliner Kosten befriedigt. Nachschrift: Gerücht über ein russisches Corps an der polnisch-schlesischen Grenze."
+ "summary_de": "Triebenfeld klagt, dass ein Bote aus dem Haus des Fürsten ohne Antwort auf sein Schreiben kam. Er stehe unter Arrest und dürfe erst fort, wenn die zugesagten 600 Centner Eisen abgeschickt sind und Justiz Bürgermeister Schenck ihn losgesprochen hat. Er bittet dringend, das Eisen nach Bojadła (Boyadel) an seinen Verwalter Neumann zu senden. Mit 1000 Centnern wären Michaelis Lahr und alle Berliner Kosten befriedigt. Nachschrift: Gerücht über ein russisches Corps an der polnisch-schlesischen Grenze.",
+ "reading": {
+  "letter": "49",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop (Konotop) to the Prince. He is disappointed that a messenger came from the Prince's household without a reply to his letter. He is under arrest and may not leave until the 600 Centner of iron he gave his word of honour for have been sent off and Justiz Bürgermeister Schenck has released him. He asks for the iron to be sent to Boyadel, to his Verwalter Neumann, for handing over to Schenck. There is a partly garbled passage saying that 1000 Centner would satisfy Michaelis, Lahr and the Berlin costs. Postscript: a rumour of a Russian corps at the Polish and Silesian border. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bote aus dem Haus des Fürsten ohne Antwort auf sein Schreiben",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Unter Arrest, darf erst fort nach Absendung der 600 Centner Eisen und Lossagung durch Schenck",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     13
+    ]
+   },
+   {
+    "statement": "Bitte, das Eisen nach Boyadel an Verwalter Neumann zu senden, zur Übergabe an Schenck",
+    "lines": [
+     14,
+     15,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Mit 1000 Centnern wären Michaelis, Lahr und die Berliner Kosten befriedigt",
+    "lines": [
+     16,
+     17
+    ],
+    "check": "overstated",
+    "why": "Zeilen 16-17 sind verderbt. Der Brief schreibt 'Michaelis Lahr' ohne Trennung. Die Aufteilung in zwei Posten Michaelis und Lahr deutet den verderbten Text aus."
+   },
+   {
+    "statement": "Gerücht über ein russisches Corps an der polnischen und schlesischen Grenze",
+    "lines": [
+     27,
+     28,
+     29
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "nieder gedannet",
+    "note": "probably niedergedonnert"
+   },
+   {
+    "line": 11,
+    "word": "Neufallen[?]",
+    "note": "doc. 302 calls Schenck the Justiz Bürgermeister aus Neusatz; probably the same place"
+   },
+   {
+    "line": 15,
+    "word": "wollen die alten meinen Kummer haben",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 16,
+    "word": "vor voll dem",
+    "note": "garbled, perhaps 'voll, denn'"
+   },
+   {
+    "line": 29,
+    "word": "stehen können",
+    "note": "doubtful, perhaps 'stehen' or 'kommen'"
+   }
+  ],
+  "read_against": "bcecba3198f4e234"
+ }
 }

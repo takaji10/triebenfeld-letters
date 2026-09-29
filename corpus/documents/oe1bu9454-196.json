@@ -321,5 +321,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld ist aus Breslau geflohen: Lahr, dem er 1500 Rthl schuldet, ließ trotz zugesagter Frist bis Michaeli durch seinen Mandatarius Ludwig heimlich einen Haftbefehl erwirken. Er muss seine Mühle zum halben Preis verkaufen. Er verdächtigt Flesch und Consorten und hält dessen Tauschhandel für Schwindel, will aber die Vindication der Trąbczyner Güter weiter betreiben. Die Holländische Anleihe ist gescheitert. Der Fürst soll unter Berufung auf Bergers Zeugnis an die Liquidations Commission in Berlin schreiben."
+ "summary_de": "Triebenfeld ist aus Breslau geflohen: Lahr, dem er 1500 Rthl schuldet, ließ trotz zugesagter Frist bis Michaeli durch seinen Mandatarius Ludwig heimlich einen Haftbefehl erwirken. Er muss seine Mühle zum halben Preis verkaufen. Er verdächtigt Flesch und Consorten und hält dessen Tauschhandel für Schwindel, will aber die Vindication der Trąbczyner Güter weiter betreiben. Die Holländische Anleihe ist gescheitert. Der Fürst soll unter Berufung auf Bergers Zeugnis an die Liquidations Commission in Berlin schreiben.",
+ "reading": {
+  "letter": "196",
+  "legibility": "sound",
+  "notes": "Triebenfeld to the Prince. He has fled Breslau because Lahr, to whom he owes 1500 rt, had his Mandatarius Ludwig secretly obtain an arrest warrant, although Lahr had promised to wait until Michaeli. Friends warned him in time. He must now sell his mill at half price. He suspects Flesch and his associates and calls Flesch's proposed exchange deal a swindle, but will keep pursuing the Vindication of the Trąbczyn estates. Political rumours: Napoleon wants the contribution paid quickly, 15000 Mann, Hardenberg, 10 Millionen fr. against 20000 Mann. The Dutch loan has collapsed. Professor Schade will write about the 35000 rt business. The Prince should write to the Liquidations Commission in Berlin and cite Berger's testimony.",
+  "claims": [
+   {
+    "statement": "Flucht aus Breslau, um der Verhaftung zu entgehen",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Lahr, dem er 1500 Rthl schuldet, wollte ihn verhaften lassen, obwohl er Frist bis Michaeli zugesagt hatte; der Mandatarius Ludwig erwirkte heimlich den Haftbefehl",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "muss seine Mühle zum halben Preis verkaufen",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "verdächtigt Flesch und Consorten, hält den Tauschhandel für Schwindel",
+    "lines": [
+     16,
+     17,
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "will die Vindication der Trąbczyner Güter weiter betreiben",
+    "lines": [
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Holländische Anleihe gescheitert",
+    "lines": [
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Fürst soll an die Liquidations Commission in Berlin schreiben und sich auf Bergers Zeugnis berufen",
+    "lines": [
+     55,
+     56,
+     57,
+     58
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 43,
+    "word": "Pfarren Insel",
+    "note": "probably Pfauen Insel"
+   },
+   {
+    "line": 26,
+    "word": "verstochen",
+    "note": "possibly verkrochen"
+   },
+   {
+    "line": 38,
+    "word": "hätten",
+    "note": "probably halten"
+   },
+   {
+    "line": 37,
+    "word": "für im",
+    "note": "unclear, perhaps 'es nicht'"
+   },
+   {
+    "line": 46,
+    "word": "schwinden",
+    "note": "perhaps fallen or schwinden; compare doc 195 'fallen laßen'"
+   },
+   {
+    "line": 48,
+    "word": "mir",
+    "note": "probably nur"
+   },
+   {
+    "line": 62,
+    "word": "Leus Praefat[?]",
+    "note": "garbled, perhaps Prefect"
+   },
+   {
+    "line": 21,
+    "word": "habe",
+    "note": "perhaps haben"
+   },
+   {
+    "line": 5,
+    "word": "SP.",
+    "note": "unclear abbreviation"
+   }
+  ],
+  "read_against": "3982d9e72d2991d3"
+ }
 }

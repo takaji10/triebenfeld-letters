@@ -111,5 +111,94 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn berichtet, er sei auf Befehl des Fürsten nach Triebenfelds Erbgut Świniary geritten, um mit dem Amtmann Käufer und dem Förster Bezold zu reden. Der Förster fragte, wer ihn beim Fürsten angeschwärzt habe, und versicherte, alle Kräfte für das herrschaftliche Interesse einzusetzen. Den Amtmann traf Hahn in Breslau. Dieser erwiderte dasselbe, verwies auf beste Zeugnisse und seinen guten Namen und sieht einer Untersuchung seiner Handlungen ruhig entgegen."
+ "summary_de": "Hahn berichtet, er sei auf Befehl des Fürsten nach Triebenfelds Erbgut Świniary geritten, um mit dem Amtmann Käufer und dem Förster Bezold zu reden. Der Förster fragte, wer ihn beim Fürsten angeschwärzt habe, und versicherte, alle Kräfte für das herrschaftliche Interesse einzusetzen. Den Amtmann traf Hahn in Breslau. Dieser erwiderte dasselbe, verwies auf beste Zeugnisse und seinen guten Namen und sieht einer Untersuchung seiner Handlungen ruhig entgegen.",
+ "reading": {
+  "letter": "170",
+  "legibility": "sound",
+  "notes": "A. Hahn writes from Breslau to Triebenfeld. The Prince had ordered him to ride to Triebenfeld's own estate Schweinern (Świniary) and warn the Amtmann Käufer and the Förster Bezold, as Triebenfeld asked in doc 174, where the forester is called Peltzold. The forester asked who had denounced him and said he was doing his utmost. Hahn then found the Amtmann in Breslau, who said the same, pointed to his testimonials and good name, and said he could face an investigation calmly. At the end Hahn says something (\"Wüsten\", probably Büsten) is going off by the fahrende Post. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Auf Befehl des Fürsten ritt Hahn nach Triebenfelds Erbgut Świniary, um mit dem Amtmann Käufer und dem Förster Bezold zu reden.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Er ermahnte den Förster zu Rechtschaffenheit; der Förster fragte, wer ihn beim Fürsten angeschwärzt habe.",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Der Förster versicherte, alle Kräfte für das herrschaftliche Interesse einzusetzen.",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Den Amtmann traf er in Breslau; dieser erwiderte dasselbe, verwies auf beste Zeugnisse und seinen guten Namen und sieht einer Untersuchung ruhig entgegen.",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Breslangeritten",
+    "note": "probably 'Breslau geritten'"
+   },
+   {
+    "line": 7,
+    "word": "bezold",
+    "note": "doc 174 has 'Peltzold'; the name form is uncertain"
+   },
+   {
+    "line": 11,
+    "word": "von",
+    "note": "a word seems to be missing after 'von' (e.g. Triebenfeld or 'Ihnen')"
+   },
+   {
+    "line": 22,
+    "word": "ehegefahr¬",
+    "note": "garbled; perhaps 'ohngefähr'"
+   },
+   {
+    "line": 32,
+    "word": "Wüsten",
+    "note": "probably 'Büsten' (doc 174 mentions Büste)"
+   },
+   {
+    "line": 18,
+    "word": "nis[?]",
+    "note": "garbled, perhaps 'mir'"
+   },
+   {
+    "line": 13,
+    "word": "sagt",
+    "note": "probably 'sagte'"
+   }
+  ],
+  "read_against": "605dae763a247381"
+ }
 }

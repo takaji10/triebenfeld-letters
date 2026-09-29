@@ -538,5 +538,127 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld ist entsetzt, dass der Fürst seit dem 13. keine Briefe erhalten haben will. Er erinnert an seine 7 Briefe, darunter an General Schöler wegen Trąbczyn und die Nachricht, dass die Kreise der Güter an Russland fallen. Er fleht um 200 Ducaten, da er dem Fürsten Kanzler 100 und Barbe 70 geben müsse. Die Sachen lägen bei Stägemann, das Geld werde gezahlt und ein Administrator angestellt. Fürst August soll Cosmars Vollmacht sofort widerrufen und dies den Gerichten anzeigen."
+ "summary_de": "Triebenfeld ist entsetzt, dass der Fürst seit dem 13. keine Briefe erhalten haben will. Er erinnert an seine 7 Briefe, darunter an General Schöler wegen Trąbczyn und die Nachricht, dass die Kreise der Güter an Russland fallen. Er fleht um 200 Ducaten, da er dem Fürsten Kanzler 100 und Barbe 70 geben müsse. Die Sachen lägen bei Stägemann, das Geld werde gezahlt und ein Administrator angestellt. Fürst August soll Cosmars Vollmacht sofort widerrufen und dies den Gerichten anzeigen.",
+ "reading": {
+  "letter": "2",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt aus Wien während des Kongresses an Fürst Friedrich Ludwig. Er ist bestürzt, dass der Fürst seit dem 13. keine Briefe erhalten haben will, und zählt auf, was in seinen 7 Briefen stand: General Schöler wegen Trąbczyn, Dank an Stägemann, die Güterkreise fallen an Russland, Sachsen. Er fleht um 200 Ducaten, weil er dem Staatskanzler 100 und Barbe 70 schuldet. Die Akten liegen bei Stägemann, das Geld werde gezahlt und ein Administrator angestellt. Pourtalès will in der Sache „Ko:“ kaufen, hat aber vorerst nur 150/m bar. Kongressgerüchte. Fürst August soll Cosmars Vollmacht sofort widerrufen und den Widerruf den Gerichten mitteilen.",
+  "claims": [
+   {
+    "statement": "Entsetzt, dass der Fürst seit dem 13. keine Briefe erhalten haben will; 7 Briefe gesandt",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "An General Schöler wegen Trąbczyn geschrieben",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Kreise, in denen die Güter liegen, fallen an Russland",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Bittet um 200 Ducaten, muss dem Fürsten Kanzler 100 und Barbe 70 geben",
+    "lines": [
+     27,
+     28,
+     29,
+     98
+    ]
+   },
+   {
+    "statement": "Sachen liegen bei Stägemann; Geld wird gezahlt, Administrator angestellt",
+    "lines": [
+     48,
+     49,
+     53
+    ]
+   },
+   {
+    "statement": "Pourtalès will kaufen, verfügt vorerst nur über 150/m rt bar",
+    "lines": [
+     55,
+     56
+    ],
+    "check": "overstated",
+    "why": "Der Brief schreibt nur die Abkürzung 'Gr. Pourt:'. Der volle Name Pourtalès ist eine Deutung. Der Rest steht in den Zeilen 55-56."
+   },
+   {
+    "statement": "Fürst August soll Vollmacht für Cosmar widerrufen und Gerichten anzeigen",
+    "lines": [
+     81,
+     82,
+     84,
+     85,
+     86,
+     87,
+     88,
+     89,
+     90
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "gehen",
+    "note": "wohl 'geheimen' (vgl. Z. 48 Geh[eimen]. Staats Rath Stägemann)"
+   },
+   {
+    "line": 18,
+    "word": "Kálitz",
+    "note": "wohl Kalisch/Kalisz"
+   },
+   {
+    "line": 22,
+    "word": "durch weiter",
+    "note": "wohl 'Durchlaucht weiter'"
+   },
+   {
+    "line": 24,
+    "word": "durch wenn",
+    "note": "verderbt"
+   },
+   {
+    "line": 46,
+    "word": "angerahmen",
+    "note": "verderbt"
+   },
+   {
+    "line": 55,
+    "word": "Narken",
+    "note": "wohl 'Nur kan'"
+   },
+   {
+    "line": 61,
+    "word": "weill Anfait",
+    "note": "verderbt"
+   },
+   {
+    "line": 83,
+    "word": "lachirte",
+    "note": "wohl 'cassirte'"
+   },
+   {
+    "line": 84,
+    "word": "J. Aequit",
+    "note": "unklar"
+   },
+   {
+    "line": 98,
+    "word": "schenk",
+    "note": "wohl 'schnell'"
+   }
+  ],
+  "read_against": "5edd93b06e2cd1fc"
+ }
 }

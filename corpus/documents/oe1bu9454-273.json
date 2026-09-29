@@ -271,5 +271,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld verteidigt sich gegen die Vorwürfe des Fürsten. Die Revenuen habe er nach dessen Angabe mit 79000 Rthl eingesetzt, die Beamten setzten sie auf 36000 Rthl herab. Hoffrath Hahn schätze den Wert der Güter auf 2 Millionen und den Ertrag auf 60/m Rthl. Der Vorschuss von 112/m Rthl werde gegeben. Geheime Abmachungen mit den Curischen Erben weist er empört zurück. Nesselrode zuckt die Achseln. Er bittet, bald einen Nachfolger zu schicken, und hat Hahn als Administrator genannt."
+ "summary_de": "Triebenfeld verteidigt sich gegen die Vorwürfe des Fürsten. Die Revenuen habe er nach dessen Angabe mit 79000 Rthl eingesetzt, die Beamten setzten sie auf 36000 Rthl herab. Hoffrath Hahn schätze den Wert der Güter auf 2 Millionen und den Ertrag auf 60/m Rthl. Der Vorschuss von 112/m Rthl werde gegeben. Geheime Abmachungen mit den Curischen Erben weist er empört zurück. Nesselrode zuckt die Achseln. Er bittet, bald einen Nachfolger zu schicken, und hat Hahn als Administrator genannt.",
+ "reading": {
+  "letter": "273",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Wien antwortet auf ein kühles Schreiben des Fürsten vom 7. und verteidigt sich. Punkte: Gen Schüler will sich nicht einmischen, Nesselrode zuckt die Achseln; Hilfe nur über den Staatskanzler und Humboldt; Bitte um 2 Blanquets für einen neuen Brief an den Kaiser, Barbe setzt ihn auf. Widerspruch beim Güterertrag: der Fürst gab 79000 rt an, die Beamten 36000 rt, Hahn schätzt den Wert auf 2 Millionen und den Ertrag auf 60/m rt. Der Vorschuss von 112/m rt werde gewährt. Er weist den Vorwurf geheimer Absprachen mit den Curischen Erben zurück, ist gekränkt, bittet um einen Nachfolger und hat Hahn als Administrator genannt. Trąbczyn kommt nicht vor.",
+  "claims": [
+   {
+    "statement": "Triebenfeld verteidigt sich gegen die Vorwürfe des Fürsten",
+    "lines": [
+     4,
+     5,
+     6,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64
+    ]
+   },
+   {
+    "statement": "Revenuen nach Angabe des Fürsten 79000 Rthl, Beamte setzen auf 36000 Rthl herab",
+    "lines": [
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Hahn schätzt Wert 2 Millionen, Ertrag 60/m Rthl",
+    "lines": [
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Vorschuss von 112/m Rthl werde gegeben",
+    "lines": [
+     46
+    ]
+   },
+   {
+    "statement": "weist geheime Abmachungen mit den Curischen Erben zurück",
+    "lines": [
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "Nesselrode zuckt die Achseln",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "bittet, bald jemanden zu senden, der die Geschäfte übernimmt",
+    "lines": [
+     92,
+     93
+    ]
+   },
+   {
+    "statement": "hat Hahn als Administrator genannt",
+    "lines": [
+     106,
+     107,
+     108
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Schüler",
+    "note": "Name des Generals unsicher"
+   },
+   {
+    "line": 14,
+    "word": "Hlrr H. F rath",
+    "note": "verderbt, wohl 'Herr Hoffrath'"
+   },
+   {
+    "line": 103,
+    "word": "Künstl",
+    "note": "wohl 'Curischen' (vgl. Z. 49, 85)"
+   },
+   {
+    "line": 35,
+    "word": "zwei¬thum",
+    "note": "wohl 'Irrthum'"
+   },
+   {
+    "line": 43,
+    "word": "Anfänger Eger",
+    "note": "verderbt, vielleicht 'Anhänger Ewr'"
+   },
+   {
+    "line": 3,
+    "word": "iſ",
+    "note": "wohl 'iſt'"
+   },
+   {
+    "line": 104,
+    "word": "Ausan-",
+    "note": "unklar, wohl ein Schimpfwort wie 'filon' (Z. 52)"
+   }
+  ],
+  "read_against": "f831d84c8167e485"
+ }
 }

@@ -323,5 +323,112 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, widerspricht dem Bericht des Staatsministers von Voss zum Tausch seiner südpreußischen Güter gegen Krotoszyn. Voss habe den Verzicht auf Polajewo anscheinend nicht angezeigt und sich nur auf Kriegesrath Nöldichen gestützt. Statt der behaupteten 49043 Rthl Ertrag und 17400 Rthl Verlust zahle Krotoszyn 30100 Rthl Pacht, seine Güter trügen 41500 Rthl. Er bittet um einen unparteiischen Commissarius zur Prüfung beider Güter. Ziel sei ein Kapital zur Tilgung seiner Schulden gewesen."
+ "summary_de": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, widerspricht dem Bericht des Staatsministers von Voss zum Tausch seiner südpreußischen Güter gegen Krotoszyn. Voss habe den Verzicht auf Polajewo anscheinend nicht angezeigt und sich nur auf Kriegesrath Nöldichen gestützt. Statt der behaupteten 49043 Rthl Ertrag und 17400 Rthl Verlust zahle Krotoszyn 30100 Rthl Pacht, seine Güter trügen 41500 Rthl. Er bittet um einen unparteiischen Commissarius zur Prüfung beider Güter. Ziel sei ein Kapital zur Tilgung seiner Schulden gewesen.",
+ "reading": {
+  "letter": "86",
+  "legibility": "sound",
+  "notes": "Prince Hohenlohe-Ingelfingen writes from Breslau to the King, answering the royal letter of 4 Dec 1798 that turned down the exchange of his South Prussian estates for the domain of Krotoszyn. He objects to Minister von Voss's report: Voss left out that the Prince had dropped Polajewo from the request, and he relied only on Kriegesrath Nöldichen. The Prince disputes the 49043 r yield Voss gives for Krotoszyn and the claimed loss of 17400 rt. He asks for an impartial commissioner to compare the two sets of estates, and says his aim was to raise capital to pay his debts. Trąbczyn is not mentioned.",
+  "claims": [
+   {
+    "statement": "Der Fürst widerspricht dem Bericht des Staatsministers von Voss zum Tausch seiner südpreußischen Güter gegen Krotoszyn.",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Voss habe den Verzicht auf Polajewo nicht angezeigt.",
+    "lines": [
+     17,
+     18,
+     19,
+     20,
+     21,
+     22
+    ],
+    "check": "overstated",
+    "why": "Zeilen 19-22 sind vorsichtig formuliert: 'wenn der Minister diese Modification ... nicht angezeigt haben sollte, wie ... zu erhellen scheint'. Das ist eine Vermutung und keine Feststellung. 'Verschwiegen' unterstellt zudem eine Absicht."
+   },
+   {
+    "statement": "Der Bericht stütze sich nur auf Angaben des Kriegesrath Nöldichen.",
+    "lines": [
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Voss nennt 49043 Rthl Ertrag und 17400 Rthl Verlust für den Staat.",
+    "lines": [
+     36,
+     37,
+     38
+    ]
+   },
+   {
+    "statement": "Krotoszyn zahlt 30100 Rthl Pacht, die Güter des Fürsten tragen 41500 Rthl.",
+    "lines": [
+     39,
+     40,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "Bitte um einen unparteiischen Commissarius, der beide Güter prüft.",
+    "lines": [
+     59,
+     60,
+     61,
+     62,
+     67,
+     68,
+     69,
+     70,
+     71
+    ]
+   },
+   {
+    "statement": "Ziel war ein Kapital auf Krotoszyn zur Bezahlung seiner Schulden.",
+    "lines": [
+     72,
+     73,
+     74
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 18,
+    "word": "der",
+    "note": "probably 'den Tausch'; could be the writer's own slip"
+   },
+   {
+    "line": 32,
+    "word": "in",
+    "note": "probably 'an den Minister von Struensee'"
+   },
+   {
+    "line": 34,
+    "word": "gerüchtet",
+    "note": "unclear, perhaps 'berichtet' or 'gerichtet'; the same word appears in doc 87"
+   },
+   {
+    "line": 8,
+    "word": "Lichten",
+    "note": "probably 'Lichte'"
+   },
+   {
+    "line": 40,
+    "word": "der",
+    "note": "probably 'den vorwaltenden Praerogativen'"
+   }
+  ],
+  "read_against": "7f9e844eaf7ee7cc"
+ }
 }

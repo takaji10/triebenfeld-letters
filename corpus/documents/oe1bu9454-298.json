@@ -358,5 +358,135 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld ist weiter krank. Wegen der im Wiener Tractat zugesagten Entschädigung fürchtet er nichts, da sein Freund Boidelang, Vertrauter Humboldts, an Barbes Stelle treten soll. Er will erst hier aufräumen, dann die Angelegenheit in Pszczew ordnen, danach nach Berlin reisen. Er bittet, das Postamt Strelitz anweisen zu lassen und ihm Briefe durch Expresse zu schicken. Erbetenes Wild soll in Gostyszyn beim Generalpächter Faust abgegeben werden. In Kalisz gelte der preußische Taler nur noch 20 gg."
+ "summary_de": "Triebenfeld ist weiter krank. Wegen der im Wiener Tractat zugesagten Entschädigung fürchtet er nichts, da sein Freund Boidelang, Vertrauter Humboldts, an Barbes Stelle treten soll. Er will erst hier aufräumen, dann die Angelegenheit in Pszczew ordnen, danach nach Berlin reisen. Er bittet, das Postamt Strelitz anweisen zu lassen und ihm Briefe durch Expresse zu schicken. Erbetenes Wild soll in Gostyszyn beim Generalpächter Faust abgegeben werden. In Kalisz gelte der preußische Taler nur noch 20 gg.",
+ "reading": {
+  "letter": "298",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, ill at Blizanow, P.M. to the Prince: forwards letters (Madame Schenck delayed messenger), illness continues; Zerboni's view; compensation secured via Vienna treaty, Boidelang to succeed Barbe, friend of Humboldt; Kaiser returns end of March, no hurry to Berlin; first affairs here, then Betsche, then Berlin. Missing letters; asks Strelitz post office to forward by express; stays till 15 Jan. Asks for game delivered to Faust at Gostyszyn. Prussian money devalued in Kalisz; Poles refuse troops against Turks (garbled). No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Triebenfeld ist weiter krank.",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Wegen der im Wiener Tractat zugesagten Entschädigung fürchtet er nichts, da Boidelang, sein Freund und Vertrauter Humboldts, an Barbes Stelle treten soll.",
+    "lines": [
+     16,
+     17,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Er will erst hier aufräumen, dann die Angelegenheit in Pszczew ordnen, danach nach Berlin reisen.",
+    "lines": [
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Bitte, das Postamt Strelitz anzuweisen, Briefe durch Expresse zu schicken.",
+    "lines": [
+     31,
+     32,
+     33,
+     34
+    ],
+    "check": "overstated",
+    "why": "Lines 31-34: the Strelitz post office is to hand all letters to the Fürst, and the Fürst is to send them on by express messenger. The post office does not send them to Triebenfeld itself."
+   },
+   {
+    "statement": "Erbetenes Wild soll in Gostyszyn beim Generalpächter Faust abgegeben werden.",
+    "lines": [
+     36,
+     37,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "In Kalisz gelte der preußische Taler nur noch 20 gg.",
+    "lines": [
+     42,
+     43,
+     44
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "stärte",
+    "note": "unclear, probably a postage term"
+   },
+   {
+    "line": 11,
+    "word": "daurer",
+    "note": "probably 'dauert'"
+   },
+   {
+    "line": 12,
+    "word": "Sezzen",
+    "note": "probably 'Sitzen'"
+   },
+   {
+    "line": 27,
+    "word": "es beste",
+    "note": "probably 'ins beste'"
+   },
+   {
+    "line": 29,
+    "word": "fehr",
+    "note": "probably 'fehlen'"
+   },
+   {
+    "line": 30,
+    "word": "Brafurt",
+    "note": "unclear place name"
+   },
+   {
+    "line": 36,
+    "word": "Rehbrück",
+    "note": "probably 'Rehböcke'"
+   },
+   {
+    "line": 36,
+    "word": "König",
+    "note": "unclear"
+   },
+   {
+    "line": 37,
+    "word": "Italienis",
+    "note": "garbled"
+   },
+   {
+    "line": 38,
+    "word": "werth",
+    "note": "unclear"
+   },
+   {
+    "line": 42,
+    "word": "Vert",
+    "note": "garbled, 'Vert und zahlen' unclear"
+   },
+   {
+    "line": 47,
+    "word": "Türde",
+    "note": "probably 'Türken'"
+   },
+   {
+    "line": 48,
+    "word": "beoßer",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "c227f8425f9ba7f1"
+ }
 }

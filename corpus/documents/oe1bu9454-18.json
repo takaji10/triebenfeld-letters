@@ -308,5 +308,127 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld weist das vom Fürsten übersandte Instrument samt Vollmacht zurück, da er Generalvollmacht besitze und alles mit Arrest belegt sei. Unter französischem Arrest habe er für den Fürsten an die Invaliden Casse zahlen müssen. Die französische General Direction ordnete die Rückzahlung der 3121 Rthl aus den Gütern an. Er verlangt eine Erklärung, die ihm 4219 Rthl aus den Zinsresten der Einwohner von Wrąbczyn, Alt Olesnica, Kopojno, Skokum, Swiątniki und anderen Orten anweist, beizutreiben durch einen Komornik."
+ "summary_de": "v. Triebenfeld weist das vom Fürsten übersandte Instrument samt Vollmacht zurück, da er Generalvollmacht besitze und alles mit Arrest belegt sei. Unter französischem Arrest habe er für den Fürsten an die Invaliden Casse zahlen müssen. Die französische General Direction ordnete die Rückzahlung der 3121 Rthl aus den Gütern an. Er verlangt eine Erklärung, die ihm 4219 Rthl aus den Zinsresten der Einwohner von Wrąbczyn, Alt Olesnica, Kopojno, Skokum, Swiątniki und anderen Orten anweist, beizutreiben durch einen Komornik.",
+ "reading": {
+  "letter": "18",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, ill with fever at Blizanow, writes to the Prince. He objects to the instrument and power of attorney the Prince sent, since he already holds a general power of attorney. The Invaliden Casse has put everything under arrest. While he was held by the French in Berlin he had to pay the Prince's debt, and the French General Direction ordered 3121 rt plus costs and interest repaid to him from the estates. He claims 4219 rt and dictates the declaration the Prince should issue, on the Komornik's advice: the sum is to be assigned to him from the interest arrears of the inhabitants of Wrąbczyn, Alt Olesnica, Kopojno and other places, collectable by execution. He sends his forester and needs the instrument by the 15th or 16th.",
+  "claims": [
+   {
+    "statement": "v. Triebenfeld weist das übersandte Instrument samt Vollmacht zurück, da er Generalvollmacht habe und alles mit Arrest belegt sei",
+    "lines": [
+     7,
+     8,
+     9,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Unter französischem Arrest musste er als Bevollmächtigter für den Fürsten an die Invaliden Casse zahlen",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Die französische General Direction befahl die Rückgabe der 3121 Rthl aus den Gütern",
+    "lines": [
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Er verlangt eine Erklärung, die ihm 4219 Rthl aus den Zinsresten der Einwohner von Wrąbczyn, Alt Olesnica, Kopojno, Skokum, Swiątniki u.a. anweist",
+    "lines": [
+     30,
+     31,
+     36,
+     37,
+     38,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56
+    ]
+   },
+   {
+    "statement": "Die Beitreibung soll durch einen Komornik erfolgen",
+    "lines": [
+     59,
+     60,
+     61
+    ]
+   },
+   {
+    "statement": "Er schickt seinen Förster und braucht das Instrument bis zum 15. oder 16.",
+    "lines": [
+     70,
+     71,
+     72,
+     73,
+     74,
+     75,
+     78,
+     79,
+     80
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Summe",
+    "note": "probably 'Sinne' or 'Seele'; does not fit the context"
+   },
+   {
+    "line": 10,
+    "word": "W hier",
+    "note": "probably 'Wäre hier' or 'Wenn hier'"
+   },
+   {
+    "line": 26,
+    "word": "Jemas",
+    "note": "probably 'Gemäs' (cf. 'gemäs' in line 38)"
+   },
+   {
+    "line": 17,
+    "word": "Collé",
+    "note": "unclear word"
+   },
+   {
+    "line": 22,
+    "word": "Maluce",
+    "note": "name of the Intendant; reading uncertain"
+   },
+   {
+    "line": 45,
+    "word": "Remtonschen",
+    "note": "garbled, possibly 'remboursiren'"
+   },
+   {
+    "line": 61,
+    "word": "bef",
+    "note": "probably 'dem'/'bey' or a fragment"
+   },
+   {
+    "line": 41,
+    "word": "3125",
+    "note": "line 24 has 3121; the figure is left unchanged"
+   },
+   {
+    "line": 85,
+    "word": "dein",
+    "note": "probably 'Diener' (closing formula)"
+   }
+  ],
+  "read_against": "62be21343c98527e"
+ }
 }

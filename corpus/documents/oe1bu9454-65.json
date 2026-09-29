@@ -372,5 +372,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet, dass die Koszęciner Hütte ihm 300 Centner Schien- und Reifeneisen gegen beiliegenden Wechsel borgt, zu 4 Rthl 12 g je Centner frei bis Bojadła. Die Fracht soll dort bezahlt werden, da Schiffer ihm früher Eisen genommen hätten. Er will Eisen gegen Spiritus umsetzen. Eine Kommission soll seine Sequestration beenden, danach will er nach Sławięcice reisen. Er schildert seine Schulden (zusammen 25100 Rthl) und berichtet ein Gerücht, der Fürst sei zum General Gouverneur von Schlesien ernannt."
+ "summary_de": "Triebenfeld bittet, dass die Koszęciner Hütte ihm 300 Centner Schien- und Reifeneisen gegen beiliegenden Wechsel borgt, zu 4 Rthl 12 g je Centner frei bis Bojadła. Die Fracht soll dort bezahlt werden, da Schiffer ihm früher Eisen genommen hätten. Er will Eisen gegen Spiritus umsetzen. Eine Kommission soll seine Sequestration beenden, danach will er nach Sławięcice reisen. Er schildert seine Schulden (zusammen 25100 Rthl) und berichtet ein Gerücht, der Fürst sei zum General Gouverneur von Schlesien ernannt.",
+ "reading": {
+  "letter": "65",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Kontop to the Prince. The Glogau Landschaft, v d Lahr and the Oberlandgericht have ruined him. A commission is to lift the sequestration of his estates, and he will then travel to Schlawenschitz and has asked Lombardini for 40 fr d'or. He plans an iron-for-spirits trade and asks the Koszęcin works to give him 300 Centner of iron on credit against an enclosed bill, delivered to Boyadel with the freight settled there. He recounts his debts. He reports a rumour that the Prince's case has been decided and that the Prince has been named General Gouverneur of Schlesien. Postscript: news about Sacken. Trąbczyn is not mentioned.",
+  "claims": [
+   {
+    "statement": "Bittet, dass die Koszęciner Hütte 300 Centner Eisen gegen beiliegenden Wechsel borgt",
+    "lines": [
+     22,
+     23,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "4 Rthl 12 g je Centner frei bis Bojadła",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Fracht soll dort bezahlt werden, da Schiffer früher Eisen genommen",
+    "lines": [
+     31,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Will Eisen gegen Spiritus umsetzen",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Kommission soll Sequestration beenden, danach Reise nach Sławięcice",
+    "lines": [
+     8,
+     9,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Schulden zusammen 25100 Rthl",
+    "lines": [
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "Gerücht über Ernennung zum General Gouverneur von Schlesien",
+    "lines": [
+     65,
+     66,
+     67
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Lungenheim",
+    "note": "unclear word, garbled"
+   },
+   {
+    "line": 6,
+    "word": "Erloffeln",
+    "note": "probably Kartoffeln"
+   },
+   {
+    "line": 6,
+    "word": "Wester",
+    "note": "probably Wasser"
+   },
+   {
+    "line": 14,
+    "word": "wohn",
+    "note": "probably weh"
+   },
+   {
+    "line": 67,
+    "word": "ſohnen",
+    "note": "probably schon"
+   },
+   {
+    "line": 68,
+    "word": "1",
+    "note": "number of days doubtful"
+   },
+   {
+    "line": 33,
+    "word": "Einkaufend Leuth",
+    "note": "garbled"
+   },
+   {
+    "line": 72,
+    "word": "Schien Ersten",
+    "note": "garbled"
+   }
+  ],
+  "read_against": "3739aa5fee46ceeb"
+ }
 }

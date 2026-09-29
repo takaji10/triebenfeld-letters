@@ -156,5 +156,90 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Fürst antwortet auf das Schreiben von Voss vom 1ten dieses. Voss hat dem beim König beantragten Tausch der südpreußischen Güter des Fürsten gegen das Amt Krotoszyn, ohne Polajewo, nicht in der gewünschten Art beigepflichtet. Nach Ansicht des Fürsten beruhen Voss' Gründe nur auf den Berichten der Commissarien, die bei Krotoszyn mehr angenommen hätten, als eine unparteiische Untersuchung ergeben würde. Er ist fast entschlossen, den König von der Uneigennützigkeit seines Vorschlags zu überzeugen."
+ "summary_de": "Der Fürst antwortet auf das Schreiben von Voss vom 1ten dieses. Voss hat dem beim König beantragten Tausch der südpreußischen Güter des Fürsten gegen das Amt Krotoszyn, ohne Polajewo, nicht in der gewünschten Art beigepflichtet. Nach Ansicht des Fürsten beruhen Voss' Gründe nur auf den Berichten der Commissarien, die bei Krotoszyn mehr angenommen hätten, als eine unparteiische Untersuchung ergeben würde. Er ist fast entschlossen, den König von der Uneigennützigkeit seines Vorschlags zu überzeugen.",
+ "reading": {
+  "letter": "88",
+  "legibility": "sound",
+  "notes": "Copy of a letter from Prince Hohenlohe to Minister v. Voss, answering Voss's letter of the 1st of the month. Voss has declined to back the proposed exchange of the Prince's South Prussian estates for Amt Krotoszyn. The Prince says Polajewo was never part of it. He argues that Voss's reasons rest on the commissioners' reports, and that these overrated Krotoszyn. He is almost resolved to convince the King that the proposal was not self-interested, and he asks Voss to approve and support his further steps. Nothing about Trąbczyn. The text is sound apart from a few odd words.",
+  "claims": [
+   {
+    "statement": "Abschrift eines Schreibens an Voss als Antwort auf dessen Schreiben vom 1ten dieses",
+    "lines": [
+     2,
+     3,
+     5
+    ]
+   },
+   {
+    "statement": "Voss hat dem beim König beantragten Tausch der südpreußischen Güter gegen das Amt Krotoszyn, ohne Polajewo, nicht beigepflichtet",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "check": "overstated",
+    "why": "Der Brief sagt, Voss habe dem Tausch 'nicht in der gewünschten Art' beigepflichtet (Z. 10). Das ist schwächer als eine glatte Ablehnung. Polajewo und der Antrag beim König stehen im Brief."
+   },
+   {
+    "statement": "Die Gründe beruhen nur auf den Berichten der Commissarien, die bei Krotoszyn mehr angenommen hätten, als eine unparteiische Untersuchung ergeben würde",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Der Fürst ist fast entschlossen, den König zu überzeugen, dass keine eigennützigen Absichten zugrunde lagen",
+    "lines": [
+     28,
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Er hofft, dass Voss seine weiteren Demarchen billigt und unterstützt",
+    "lines": [
+     35,
+     36,
+     37,
+     38,
+     39,
+     40
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "lenz",
+    "note": "Probably the second half of 'Excel-lenz' left over after the full 'Excellenz' on line 11, so the word is doubled across the line break."
+   },
+   {
+    "line": 28,
+    "word": "beyder",
+    "note": "Probably 'bey der', parallel to 'bey der Reinheit' earlier in the line."
+   },
+   {
+    "line": 33,
+    "word": "nachdem",
+    "note": "Probably 'nach dem' (preposition plus article)."
+   },
+   {
+    "line": 37,
+    "word": "gebräubten",
+    "note": "Not a German word. Possibly 'gekränkten' (wounded sense of honour), but this cannot be proven."
+   }
+  ],
+  "read_against": "677110c705829235"
+ }
 }

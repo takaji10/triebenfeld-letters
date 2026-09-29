@@ -305,5 +305,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass er die 25000 Rthl ohne das große Geschäft nicht erhalten kann. Zweimal sei das Geld hintertrieben worden, vermutlich vom jungen Eysenhardt, der 18000 Rthl fordert. Ein Angebot des Hoffrath Meyer lehnte er vorerst ab, da 9000 Rthl auf Szetlewek eingetragen seien. Beigelegt ist eine Abschrift, in der Gräfin Schlabrendorff mit Fortsetzung der Klage in Berlin droht, falls die rückständigen Vergleichsgelder für ihre Kinder nicht bis zum nächsten Posttag gezahlt werden."
+ "summary_de": "Triebenfeld berichtet, dass er die 25000 Rthl ohne das große Geschäft nicht erhalten kann. Zweimal sei das Geld hintertrieben worden, vermutlich vom jungen Eysenhardt, der 18000 Rthl fordert. Ein Angebot des Hoffrath Meyer lehnte er vorerst ab, da 9000 Rthl auf Szetlewek eingetragen seien. Beigelegt ist eine Abschrift, in der Gräfin Schlabrendorff mit Fortsetzung der Klage in Berlin droht, falls die rückständigen Vergleichsgelder für ihre Kinder nicht bis zum nächsten Posttag gezahlt werden.",
+ "reading": {
+  "letter": "156",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Berlin to the Prince. He has not been able to raise the 25000 rt without the \"große Geschäft\". The papers are judged good but the lenders hesitate. He thinks young Eysenhardt, who claims 18000 rt, has twice spoiled the deal. He has turned down for now an offer by Hoffrath Meyer (20000 rt, taking over the debt): the lawsuit is still open, and 9000 rthl are registered on Szetlewek. He complains of Bernhardi. Enclosure 156a is a copy of Gräfin Schlabrendorff's letter (Breslau, 16 Jan) threatening to continue her suit. Postscripts cover Köckritz and Amelang, a free pass for wine, and a new trick by Bernhardi.",
+  "claims": [
+   {
+    "statement": "Er konnte die 25000 Rthl ohne das große Geschäft nicht erhalten",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Papiere gelten als gut, man zögert",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Zweimal hintertrieben, vermutlich vom jungen Eysenhardt, der 18000 Rthl fordert",
+    "lines": [
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Angebot des Hoffrath Meyer vorerst abgelehnt, da 9000 Rthl auf Szetlewek eingetragen",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Abschrift: Gräfin Schlabrendorff droht mit Fortsetzung der Klage in Berlin, falls die rückständigen Vergleichsgelder für ihre Kinder nicht bis zum nächsten Posttag gezahlt werden",
+    "lines": [
+     39,
+     43,
+     44,
+     54,
+     55,
+     56,
+     61
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "war",
+    "note": "probably 'wann'"
+   },
+   {
+    "line": 15,
+    "word": "wen",
+    "note": "probably 'um' (um ans Ziel ... zu gelangen)"
+   },
+   {
+    "line": 24,
+    "word": "Janvelen",
+    "note": "possibly 'Juwelen'"
+   },
+   {
+    "line": 41,
+    "word": "Hemuth",
+    "note": "elsewhere Hohmuth/Homuth"
+   },
+   {
+    "line": 46,
+    "word": "gegebennt",
+    "note": "probably 'gegebenes'"
+   },
+   {
+    "line": 49,
+    "word": "bitte",
+    "note": "does not fit the syntax, perhaps a misreading"
+   },
+   {
+    "line": 57,
+    "word": "Euer",
+    "note": "'Durchlaucht' seems to be missing"
+   },
+   {
+    "line": 67,
+    "word": "Eignier",
+    "note": "probably 'Eimer'"
+   },
+   {
+    "line": 74,
+    "word": "wäben",
+    "note": "garbled"
+   },
+   {
+    "line": 77,
+    "word": "Liep",
+    "note": "unclear name"
+   },
+   {
+    "line": 79,
+    "word": "bey",
+    "note": "probably 'bin'"
+   },
+   {
+    "line": 21,
+    "word": "Hoft",
+    "note": "probably 'Hof'; 'Hoft Rath' would be the title Hoffrath"
+   }
+  ],
+  "read_against": "db63fd112af320a8"
+ }
 }

@@ -228,5 +228,126 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld leitet ein Schreiben des Obristen von Zastrow weiter und will das königliche Cabinets Schreiben bis zur baldigen Ankunft des Fürsten behalten. Die Fürstin Sacken empfing ihn nicht. Er ließ ihr das Schreiben des Fürsten übergeben. Sie soll erklärt haben, nie zum Fürsten zurückzukehren, frei leben zu wollen und mit 2/m Rthl Appanage zufrieden zu sein. Sie sei aus Abneigung und aus Liebe zu ihren Kindern gegangen. Freunde raten dem Fürsten zu Festigkeit."
+ "summary_de": "Triebenfeld leitet ein Schreiben des Obristen von Zastrow weiter und will das königliche Cabinets Schreiben bis zur baldigen Ankunft des Fürsten behalten. Die Fürstin Sacken empfing ihn nicht. Er ließ ihr das Schreiben des Fürsten übergeben. Sie soll erklärt haben, nie zum Fürsten zurückzukehren, frei leben zu wollen und mit 2/m Rthl Appanage zufrieden zu sein. Sie sei aus Abneigung und aus Liebe zu ihren Kindern gegangen. Freunde raten dem Fürsten zu Festigkeit.",
+ "reading": {
+  "letter": "107",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Berlin to the Prince about the separation affair with the Fürstin Sacken. He forwards a letter from Obrist von Zastrow, holds a royal cabinet letter until the Prince arrives, was not received by the Fürstin, sends her a Zastrow letter to Köckritz. Her declaration (via 'Hein', garbled): she will never return, wants to live freely on 2/m rt appanage, left out of aversion and to protect her children's fortune. Her circle: Rietesel, Cosmar, Heinitz, Hoym, Selle. Friends urge firmness. Court rumour: Suvarow beaten and captured. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Leitet Schreiben des Obristen von Zastrow weiter",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Behält das Cabinets Schreiben bis zur Ankunft des Fürsten",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Von der Fürstin Sacken nicht empfangen; Schreiben des Fürsten übergeben lassen",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Fürstin will nie zurück, frei leben, mit 2/m Rthl Appanage zufrieden",
+    "lines": [
+     33,
+     34,
+     35,
+     36
+    ],
+    "check": "overstated",
+    "why": "Zeile 33 ist verstümmelt, gibt die Erklärung aber offenbar aus zweiter Hand wieder ('durch Hein[itz?] ... habe erklärt'). Die Zusammenfassung macht aus dieser Hörensagen-Angabe eine Tatsache."
+   },
+   {
+    "statement": "Gründe: Abneigung, Liebe zu den Kindern",
+    "lines": [
+     39,
+     40,
+     41,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Freunde wünschen Festigkeit gegenüber der Fürstin Sacken",
+    "lines": [
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Nachricht am Hof: Suvarow geschlagen und gefangen",
+    "lines": [
+     54,
+     55,
+     56
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "König",
+    "note": "probably Königl."
+   },
+   {
+    "line": 12,
+    "word": "durch",
+    "note": "perhaps Durchl. or misreading"
+   },
+   {
+    "line": 21,
+    "word": "Haft",
+    "note": "probably Hof"
+   },
+   {
+    "line": 31,
+    "word": "man[?]",
+    "note": "line garbled (Haare klein?)"
+   },
+   {
+    "line": 33,
+    "word": "Hein",
+    "note": "possibly Heinitz; line garbled"
+   },
+   {
+    "line": 38,
+    "word": "mir",
+    "note": "probably nur (nur weggegangen)"
+   },
+   {
+    "line": 49,
+    "word": "Gewaſſche",
+    "note": "line garbled"
+   },
+   {
+    "line": 51,
+    "word": "mir",
+    "note": "probably nur"
+   },
+   {
+    "line": 53,
+    "word": "Allse",
+    "note": "probably Aller"
+   }
+  ],
+  "read_against": "c485c45ed1bf3721"
+ }
 }

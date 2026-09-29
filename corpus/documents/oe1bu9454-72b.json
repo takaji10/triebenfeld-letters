@@ -476,5 +476,130 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet nach beiliegenden Schreiben von Brzechffa und Thiele, dass Brzechffa erst am 15. aus Warschau abreisen kann und Geld nach Sławięcice mitbringen will. Brzechffa hat versprochen, die neue Veranlagung der Zagórów-Güter mit 5897 Rthl abzuwenden. Niedźwiecki verlor den Prozess und soll 2000 Rthl zahlen. Die Wrąbczyner Bauern drohen mit Appellation. Landunterrichter Piekarski, Rädelsführer in der Trąbczyner Sache, der die Zinsbeitreibung untersagt und die Kolonisten zu Klagen verleitet hatte, ist suspendiert."
+ "summary_de": "Triebenfeld berichtet nach beiliegenden Schreiben von Brzechffa und Thiele, dass Brzechffa erst am 15. aus Warschau abreisen kann und Geld nach Sławięcice mitbringen will. Brzechffa hat versprochen, die neue Veranlagung der Zagórów-Güter mit 5897 Rthl abzuwenden. Niedźwiecki verlor den Prozess und soll 2000 Rthl zahlen. Die Wrąbczyner Bauern drohen mit Appellation. Landunterrichter Piekarski, Rädelsführer in der Trąbczyner Sache, der die Zinsbeitreibung untersagt und die Kolonisten zu Klagen verleitet hatte, ist suspendiert.",
+ "reading": {
+  "letter": "72b",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt aus Blizanow an den Fürsten. Themen: Beilagen von Brzechffa und Kreisrat Thiele; Brzechffa reist erst am 15. aus Warschau ab und will Geld nach Sławięcice mitbringen; neue Veranlagung der Zagórów-Güter mit 5897 rthl; Appellationsdrohung der Wrąbczyner Bauern; Einigung mit Hawich (1200 rt, Rückgabe von 9 Hufen); Niedźwiecki hat den Prozess verloren (2000 rt); Landunterrichter Piekarski, Rädelsführer in der Trąbczyner Sache, suspendiert, weil er die Kolonisten gegen die Zinsbeitreibung geschützt hatte. Am Schluss: die junge Fürstin, geplante Reise, Nachschrift.",
+  "claims": [
+   {
+    "statement": "Nach beiliegenden Schreiben von Brzechffa und Thiele kann Brzechffa erst am 15. aus Warschau abreisen",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Brzechffa will Geld nach Sławięcice mitbringen",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Neue Veranlagung der Zagórów-Güter mit 5897 Rthl, Brzechffa verspricht Abhilfe",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Hawich erhält 1200 Rthl Gehalt für anderthalb Jahre und muss 9 Hufen zurückgeben",
+    "lines": [
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Niedźwiecki verlor den Prozess und soll 2000 Rthl herausgeben",
+    "lines": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Wrąbczyner Bauern drohen mit Appellation",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Piekarski, Rädelsführer in der Trąbczyner Sache, suspendiert; hatte Zinsbeitreibung untersagt und Kolonisten zu Klagen verführt",
+    "lines": [
+     52,
+     53,
+     54,
+     56,
+     57,
+     58
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Thiele",
+    "note": "der vorige Brief ist mit 'Thiel' unterschrieben"
+   },
+   {
+    "line": 15,
+    "word": "redreisen",
+    "note": "wohl 'redressiren'"
+   },
+   {
+    "line": 22,
+    "word": "ihm ergandt",
+    "note": "verderbt"
+   },
+   {
+    "line": 29,
+    "word": "Sprührecht",
+    "note": "wohl 'spruchreif'"
+   },
+   {
+    "line": 32,
+    "word": "Herr",
+    "note": "wohl 'Ewr' Durchlaucht"
+   },
+   {
+    "line": 37,
+    "word": "geneigt",
+    "note": "vielleicht 'geeinigt'"
+   },
+   {
+    "line": 52,
+    "word": "müſo",
+    "note": "wohl 'um so'"
+   },
+   {
+    "line": 55,
+    "word": "verspricht",
+    "note": "Satz verderbt"
+   },
+   {
+    "line": 63,
+    "word": "Bidern",
+    "note": "wohl 'biedern'"
+   },
+   {
+    "line": 67,
+    "word": "er",
+    "note": "wohl 'Ewr'"
+   }
+  ],
+  "read_against": "5a6c9891b674676a"
+ }
 }

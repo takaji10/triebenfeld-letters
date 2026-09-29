@@ -416,5 +416,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld übersendet das Angebot des Unterpräfecten von Brzechffa, die Herrschaft Zagórów 6 Jahre für jährlich 20,000-25,000 Rthl zu pachten und die 3 Vorwerke für 3000 Rthl instand zu setzen. Triebenfeld rät zum Vertrag, da er Abgaben und Zinsen, darunter 1250 Rthl an die Invaliden Casse, nicht aufbringen kann und neue Sequestration droht. Er bittet um Entscheidung zwischen einem Handel mit General von Schimmelpfennig und der Pacht mit anschließendem Vergleich mit Weigel und Stössel zur Freimachung von Koszęcin."
+ "summary_de": "Triebenfeld übersendet das Angebot des Unterpräfecten von Brzechffa, die Herrschaft Zagórów 6 Jahre für jährlich 20,000-25,000 Rthl zu pachten und die 3 Vorwerke für 3000 Rthl instand zu setzen. Triebenfeld rät zum Vertrag, da er Abgaben und Zinsen, darunter 1250 Rthl an die Invaliden Casse, nicht aufbringen kann und neue Sequestration droht. Er bittet um Entscheidung zwischen einem Handel mit General von Schimmelpfennig und der Pacht mit anschließendem Vergleich mit Weigel und Stössel zur Freimachung von Koszęcin.",
+ "reading": {
+  "letter": "227",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Blizanow to the Prince. He sends on Brzechffa's offer to lease the Zagórów estate for 6 years, with its terms. He advises signing a contract because war is coming and he cannot raise the taxes and interest; he lists five payments that are due. The arrests have been lifted, but sequestration will return if the costs stay unpaid. Brzechffa is taking over the collection of interest and arrears. Triebenfeld asks the Prince to choose: deal with Schimmelpfennig, or lease to Brzechffa and then settle with Weigel and Stössel to free Koschentin. He also reports new taxes from the Warsaw Reichstag and sends New Year wishes. Nothing in the letter concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld übersendet das Angebot Brzechffas, Zagórów 6 Jahre zu pachten",
+    "lines": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "jährlich 20,000-25,000 Rthl, 3 Vorwerke für 3000 Rthl instand setzen",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Abstandsquantum von 10,000 Rthl bei Verkauf",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Triebenfeld rät zum Vertrag",
+    "lines": [
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "kann Abgaben und Zinsen nicht aufbringen, 1250 Rthl an Invaliden Casse",
+    "lines": [
+     27,
+     28,
+     29,
+     33
+    ]
+   },
+   {
+    "statement": "neue Sequestration droht",
+    "lines": [
+     36,
+     37,
+     38
+    ]
+   },
+   {
+    "statement": "bittet um Entscheidung Schimmelpfennig oder Pacht mit Vergleich mit Weigel und Stössel, Koszęcin frei machen",
+    "lines": [
+     48,
+     49,
+     50,
+     51,
+     52,
+     53
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 30,
+    "word": "diein",
+    "note": "garbled"
+   },
+   {
+    "line": 35,
+    "word": "bemühtiger",
+    "note": "probably 'berichtigen'"
+   },
+   {
+    "line": 41,
+    "word": "[G?]ukarski",
+    "note": "name uncertain"
+   },
+   {
+    "line": 45,
+    "word": "seelen",
+    "note": "possibly 'vielen'"
+   },
+   {
+    "line": 58,
+    "word": "Frey inne[?]",
+    "note": "garbled"
+   },
+   {
+    "line": 58,
+    "word": "schlechtschenden",
+    "note": "possibly 'schlechtstehenden'"
+   },
+   {
+    "line": 64,
+    "word": "beynekt",
+    "note": "probably 'beendigt'"
+   },
+   {
+    "line": 65,
+    "word": "einsandle",
+    "note": "garbled"
+   },
+   {
+    "line": 65,
+    "word": "drinigebe",
+    "note": "possibly 'mit dreingebe'"
+   }
+  ],
+  "read_against": "dc9912df5e426cf6"
+ }
 }

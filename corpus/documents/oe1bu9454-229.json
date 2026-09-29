@@ -207,5 +207,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld übermittelt Geburtstagswünsche. Er meldet den Dank des Generalprokurators Graf Lipski, des Tribunalspräsidenten Smogorzewski und der Tribunalsräte für das Wildpret; die Wirkung erwartet er bei der Entscheidung der Olesnicer und Wrąbczyner Sache. Mit Brzechffa hat er vorbehaltlich der Genehmigung den Pachtvertrag über die Zagórówer Güter auf 20000 Rthl geschlossen. Am 8. Februar will er mit ihm in Sławięcice eintreffen. Die Zinsen seien gesichert, das Bayonner Kapital werde getilgt. Die eingereichten Urkunden hätten jeden Streit beseitigt, vielleicht würden die Abgaben gemildert."
+ "summary_de": "Triebenfeld übermittelt Geburtstagswünsche. Er meldet den Dank des Generalprokurators Graf Lipski, des Tribunalspräsidenten Smogorzewski und der Tribunalsräte für das Wildpret; die Wirkung erwartet er bei der Entscheidung der Olesnicer und Wrąbczyner Sache. Mit Brzechffa hat er vorbehaltlich der Genehmigung den Pachtvertrag über die Zagórówer Güter auf 20000 Rthl geschlossen. Am 8. Februar will er mit ihm in Sławięcice eintreffen. Die Zinsen seien gesichert, das Bayonner Kapital werde getilgt. Die eingereichten Urkunden hätten jeden Streit beseitigt, vielleicht würden die Abgaben gemildert.",
+ "reading": {
+  "letter": "229",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Blizanow to the Prince with birthday wishes. He passes on thanks from Graf Lipski, Smogorzewski and the tribunal councillors for game the Prince sent, and expects this to show in the Oleśnica and \"Wrąbczyn\" cases. He has made a lease contract for the Zagórów estates with Brzechffa at 20000 rt, subject to the Prince's approval, and plans to arrive in Schlawenschitz on 8 Feb so it can be concluded there. The interest is secured and the Bayonne capital will be paid off. The documents the Prince sent have been handed in, the dispute is settled and taxes may be reduced. The originals will be returned. A \"Parobeck\" is coming, perhaps with a bigger dog.",
+  "claims": [
+   {
+    "statement": "Geburtstagswünsche",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Dank von Lipski, Smogorzewski und Tribunalsräten für Wildpret",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Wirkung bei Entscheidung der Olesnicer und Wrąbczyner Sache erwartet",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Pachtvertrag mit Brzechffa über Zagórówer Güter auf 20000 Rthl sub spe rati",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Am 8. Februar mit ihm in Sławięcice",
+    "lines": [
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Zinsen gesichert, Bayonner Kapital amortisiert",
+    "lines": [
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Urkunden eingereicht, Streit gehoben, Abgaben evtl. gemildert",
+    "lines": [
+     32,
+     33,
+     34,
+     35
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "wir",
+    "note": "probably 'nur' (Ich kan es nur noch schriftlich)"
+   },
+   {
+    "line": 10,
+    "word": "Wuhr",
+    "note": "garbled, perhaps 'Wohl'"
+   },
+   {
+    "line": 19,
+    "word": "Wrąbczyner",
+    "note": "the Prince's letter of the same date has 'Oleschnicer und Trąbczyner Sache'; may be misread for Trąbczyner"
+   },
+   {
+    "line": 27,
+    "word": "früßen",
+    "note": "probably 'fressen'"
+   },
+   {
+    "line": 29,
+    "word": "d",
+    "note": "unclear abbreviation after 'tausend'"
+   },
+   {
+    "line": 31,
+    "word": "wahre wegen",
+    "note": "garbled, perhaps 'wahren Segen'"
+   },
+   {
+    "line": 35,
+    "word": "Inturo",
+    "note": "probably 'futuro'"
+   },
+   {
+    "line": 35,
+    "word": "könt",
+    "note": "probably 'kömmt'"
+   },
+   {
+    "line": 37,
+    "word": "nachgemachten",
+    "note": "probably 'nach gemachtem'"
+   },
+   {
+    "line": 39,
+    "word": "Parobeck",
+    "note": "unclear, possibly a dog's name"
+   }
+  ],
+  "read_against": "72ef51e775b1e4a0"
+ }
 }

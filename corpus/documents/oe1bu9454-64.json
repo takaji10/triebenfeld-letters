@@ -559,5 +559,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet den Tod der Königin zu Strelitz und die schwere Krankheit des Königs. Die Collonnasche Sache sei nun ein Unding, der Fürst solle seine 100000 Rthl sichern. Wegen der Zinsen des Invaliden Capitals droht ihm die Sequestration seiner Güter. Beigefügt ist ein Vorschlag an einen Freund: Knobelsdorffs Güter Biskupice und Molna zu 700000 Rthl gegen die Zagórówer Güter und Quittierung der Forderungen Weigelts und Stössels. Im Nachtrag bittet Triebenfeld dringend um 300 Rthl in Gold."
+ "summary_de": "Triebenfeld meldet den Tod der Königin zu Strelitz und die schwere Krankheit des Königs. Die Collonnasche Sache sei nun ein Unding, der Fürst solle seine 100000 Rthl sichern. Wegen der Zinsen des Invaliden Capitals droht ihm die Sequestration seiner Güter. Beigefügt ist ein Vorschlag an einen Freund: Knobelsdorffs Güter Biskupice und Molna zu 700000 Rthl gegen die Zagórówer Güter und Quittierung der Forderungen Weigelts und Stössels. Im Nachtrag bittet Triebenfeld dringend um 300 Rthl in Gold.",
+ "reading": {
+  "letter": "64",
+  "legibility": "partly garbled",
+  "notes": "Three parts. (1) A short note from Triebenfeld to the Prince, dated 6 Xbr 1809. A Berlin friend reports the Queen's death at Strelitz and the King's illness. The Colonna matter is void, and the Prince should secure his 100000 rt. Triebenfeld wants to go to Berlin and is threatened with sequestration over interest on the Invaliden Capital. (2) A copy of Triebenfeld's letter to a friend (Weigelt) with a plan: Knobelsdorff's Bischdorf and Molna estates (700000 rt) in exchange for the Zagórów estates and quittance of the Weigelt (190000) and Stössel (180000) claims. (3) A Nachtrag of 30 October from Vienna: the Staats Kanzler supports the Prince's cause (112000 rt), and Triebenfeld begs for 300 rt in gold. Letters are to go via Ober Post Director Mann in Wien.",
+  "claims": [
+   {
+    "statement": "Nachricht vom Tod der Königin zu Strelitz und Krankheit des Königs",
+    "lines": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Collonnasche Sache ein Unding, Fürst soll 100000 Rthl sichern",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Wegen Zinsen des Invaliden Capitals droht Sequestration seiner Güter",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Vorschlag an Weigelt: Knobelsdorffs Güter Biskupice und Molna zu 700000 Rthl",
+    "lines": [
+     36,
+     37,
+     74,
+     75,
+     76
+    ],
+    "check": "overstated",
+    "why": "Die Copia richtet sich an einen 'Lieber redlicher Freund', dessen Name nicht genannt wird. Weigelt kommt im Text in der dritten Person vor. Dass er der Empfänger ist, ist eine Schlussfolgerung. Güter und Summe stimmen (Zeilen 36-37, 70, 74-76)."
+   },
+   {
+    "statement": "gegen Zagórówer Güter und Quittierung der Forderungen Weigelts und Stössels",
+    "lines": [
+     79,
+     80,
+     83,
+     84,
+     85,
+     86,
+     97,
+     99,
+     100,
+     101
+    ]
+   },
+   {
+    "statement": "Nachtrag: Bitte um 300 Rthl in Gold",
+    "lines": [
+     108,
+     135,
+     144
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Lämmen",
+    "note": "Probably 'können'; lines 14-16 are garbled"
+   },
+   {
+    "line": 15,
+    "word": "Einwieder Ihnen vermuthlich seigen",
+    "note": "Garbled"
+   },
+   {
+    "line": 13,
+    "word": "Fahndet eigene Dage",
+    "note": "Garbled"
+   },
+   {
+    "line": 22,
+    "word": "Roßem",
+    "note": "Unclear"
+   },
+   {
+    "line": 139,
+    "word": "Leute",
+    "note": "Probably 'Heute'"
+   },
+   {
+    "line": 131,
+    "word": "eine",
+    "note": "Possibly 'einreiche' or similar"
+   },
+   {
+    "line": 121,
+    "word": "Forst",
+    "note": "Probably 'Fürst'; line garbled"
+   },
+   {
+    "line": 118,
+    "word": "Lang auß die Lerische",
+    "note": "Garbled"
+   },
+   {
+    "line": 57,
+    "word": "Weigelts",
+    "note": "Edition list has Weigel; not certain it is the same person"
+   }
+  ],
+  "read_against": "b17c300138cf468f"
+ }
 }

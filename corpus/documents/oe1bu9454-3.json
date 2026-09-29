@@ -157,5 +157,107 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld klagt über Geldnot: Er rechnete mit 1400 Rthl auf 4 Wochen, erhielt in 5 Monaten aber nur 932 Rthl, und bittet dringend um 200 #. Mit Barbe will er in der polnischen Sache zu Minister Nesselrode. Er rät, per Pro Memoria einen ergebenen, kautionsfähigen und sachkundigen Administrator der Majoratsgüter für königliche Rechnung vorzuschlagen. Er hofft bald auf die Resolution des Fürsten über den Vorschuss und die polnischen Güter."
+ "summary_de": "v. Triebenfeld klagt über Geldnot: Er rechnete mit 1400 Rthl auf 4 Wochen, erhielt in 5 Monaten aber nur 932 Rthl, und bittet dringend um 200 #. Mit Barbe will er in der polnischen Sache zu Minister Nesselrode. Er rät, per Pro Memoria einen ergebenen, kautionsfähigen und sachkundigen Administrator der Majoratsgüter für königliche Rechnung vorzuschlagen. Er hofft bald auf die Resolution des Fürsten über den Vorschuss und die polnischen Güter.",
+ "reading": {
+  "letter": "3",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna, apparently February 1815, to Prince Hohenlohe-Ingelfingen. He has had only two letters from him (19 and 28 Jan). He is in desperate need of money: he reckoned on 1400 rt per 4 weeks but has received only 932 rt in 5 months, and he owes \"dem Fürsten und Barben\" 170 #. With Barbe he is going to Nesselrode and Schröder about the Polish matter. He asks urgently for 200 #. He advises the Prince to send a Pro Memoria proposing a trustworthy administrator of the Majorat estates for the King's account, and lists the qualities that man needs. He hopes for the Fürst's resolution on the advance and the Polish estates.",
+  "claims": [
+   {
+    "statement": "Klagt über Geldnot; rechnete 1400 Rthl auf 4 Wochen, erhielt in 5 Monaten nur 932 Rthl",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Bittet dringend um 200 #",
+    "lines": [
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Will mit Barbe in der polnischen Sache zu Minister Nesselrode",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Rät, per Pro Memoria einen ergebenen, kautionsfähigen, sachkundigen Administrator der Majoratsgüter für königliche Rechnung vorzuschlagen",
+    "lines": [
+     35,
+     36,
+     37,
+     38,
+     41,
+     43,
+     45
+    ]
+   },
+   {
+    "statement": "Hofft auf Resolution des Fürsten über Vorschuss und polnische Güter",
+    "lines": [
+     51,
+     52,
+     53
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "Seelen",
+    "note": "probably 'sehr'"
+   },
+   {
+    "line": 12,
+    "word": "trosten",
+    "note": "garbled; the phrase 'zum trosten Geheimen hoffen Rath' is unclear"
+   },
+   {
+    "line": 14,
+    "word": "vorzubungen",
+    "note": "probably 'vorzubeugen'"
+   },
+   {
+    "line": 26,
+    "word": "Wenn",
+    "note": "probably 'Wen'"
+   },
+   {
+    "line": 33,
+    "word": "Bäte",
+    "note": "probably 'dürfte' or 'könnte'"
+   },
+   {
+    "line": 34,
+    "word": "Recenzen",
+    "note": "probably 'Revenüen'"
+   },
+   {
+    "line": 36,
+    "word": "Gäntz",
+    "note": "unclear, perhaps 'gesammten'"
+   },
+   {
+    "line": 41,
+    "word": "aprin",
+    "note": "unclear"
+   },
+   {
+    "line": 45,
+    "word": "haupt",
+    "note": "probably 'hängt'"
+   },
+   {
+    "line": 9,
+    "word": "Tobolckis",
+    "note": "perhaps 'Tobolsks'"
+   }
+  ],
+  "read_against": "21b67c58aafe1690"
+ }
 }

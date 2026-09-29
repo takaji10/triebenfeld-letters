@@ -352,5 +352,115 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Berichtet, Russland verlange die Prosna als Grenze, wodurch Trąbczyn und Triebenfelds Blizanower Güter unter fremde Hoheit kämen und Trąbczyn schwer zurückzubekommen wäre. Der Fürst Kanzler widersetze sich. Erhalte Russland die Distrikte, müsse die Sache mit Kaiser Alexander abgemacht werden, da Dąbska oder Moscinska bei Lanskoy in Gnaden stehe. Erwartet den Bericht des Brieger Oberlandesgerichts. Bittet um Blanquets, Vollmachten, den Brief an den Kanzler und den Revers für Barbe, da Pourtalès wohl eintrete."
+ "summary_de": "Berichtet, Russland verlange die Prosna als Grenze, wodurch Trąbczyn und Triebenfelds Blizanower Güter unter fremde Hoheit kämen und Trąbczyn schwer zurückzubekommen wäre. Der Fürst Kanzler widersetze sich. Erhalte Russland die Distrikte, müsse die Sache mit Kaiser Alexander abgemacht werden, da Dąbska oder Moscinska bei Lanskoy in Gnaden stehe. Erwartet den Bericht des Brieger Oberlandesgerichts. Bittet um Blanquets, Vollmachten, den Brief an den Kanzler und den Revers für Barbe, da Pourtalès wohl eintrete.",
+ "reading": {
+  "letter": "266",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna during the Congress. Russia is demanding the Prosna as the border, which would put Trąbczyn and his own Blizanów estates under Russian rule. The Fürst Kanzler opposes this. If Russia gets the districts, the matter must be settled with Kaiser Alexander; Dąbska/Moscinska is in favour with Lanskoy. He is waiting for the Brieg Oberlandesgericht report. He gives the route for letters (cover to Barbe, via Post Director Balke in Dresden) and has had nothing since 17 Dec. He wants the blanquets, powers of attorney, the letter to the Kanzler and the Revers for Barbe. Pourtalès is likely to take part. He owes Barbe 104 ducats and asks for 100 and then 200 more.",
+  "claims": [
+   {
+    "statement": "Russland verlangt die Prosna als Grenze",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Trąbczyn und die Blizanower Güter kämen unter fremde Hoheit, Trąbczyn schwer zurückzubekommen",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Fürst Kanzler widersetzt sich",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Sache müsse sonst mit Kaiser Alexander abgemacht werden; Dąbska oder Moscinska bei Lanskoy in Gnaden",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht kein \"andernfalls\". Die Bedingung lautet: wenn Russland die Distrikte erhält, in denen die Güter liegen (Z. 15-16)."
+   },
+   {
+    "statement": "Erwartet Bericht des Brieger Oberlandesgerichts",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Bittet um Blanquets, Vollmachten, Brief an den Kanzler, Revers für Barbe; Pourtalès wird wohl eintreten",
+    "lines": [
+     29,
+     30,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Schuldet Barbe 104 Ducaten, braucht Geld",
+    "lines": [
+     36,
+     43,
+     44
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Wüste[?]",
+    "note": "probably 'Rußische'"
+   },
+   {
+    "line": 8,
+    "word": "Hizze fezzan",
+    "note": "garbled, perhaps 'schwer halten'"
+   },
+   {
+    "line": 12,
+    "word": "Gesammste",
+    "note": "garbled"
+   },
+   {
+    "line": 16,
+    "word": "umfürehr",
+    "note": "garbled"
+   },
+   {
+    "line": 36,
+    "word": "Auf",
+    "note": "probably 'Auch'"
+   },
+   {
+    "line": 40,
+    "word": "sei laße",
+    "note": "probably 'Sie laßen'"
+   },
+   {
+    "line": 18,
+    "word": "Landskoy",
+    "note": "Lanskoy"
+   },
+   {
+    "line": 10,
+    "word": "ſeinem auch ſtehr",
+    "note": "probably 'scheinen auch sehr'"
+   }
+  ],
+  "read_against": "3dd2f7671f18fedc"
+ }
 }

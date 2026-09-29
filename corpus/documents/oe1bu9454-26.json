@@ -367,5 +367,102 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat durch Secretair Koppe erfahren, dass der Fürst die Niederlage der Armee überlebt hat. Minister von Stein lieh ihm auf die Konotoper Hypothek von 10000 Rthl 8000 Rthl. Die Anweisung über 6000 Rthl schickt er an Koppe, 4000 Rthl will er bringen, sobald er den Aufenthalt des Fürsten kennt. Auf eine Hypothek auf Świniary von 20000 Rthl will er Stein erneut um Geld bitten. Er hofft, der Fürst erhalte die Kolziger Güter; dann könne er 100000 Rthl beschaffen."
+ "summary_de": "Triebenfeld hat durch Secretair Koppe erfahren, dass der Fürst die Niederlage der Armee überlebt hat. Minister von Stein lieh ihm auf die Konotoper Hypothek von 10000 Rthl 8000 Rthl. Die Anweisung über 6000 Rthl schickt er an Koppe, 4000 Rthl will er bringen, sobald er den Aufenthalt des Fürsten kennt. Auf eine Hypothek auf Świniary von 20000 Rthl will er Stein erneut um Geld bitten. Er hofft, der Fürst erhalte die Kolziger Güter; dann könne er 100000 Rthl beschaffen.",
+ "reading": {
+  "letter": "26",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince after the army's defeat in 1806. Secretair Koppe has told him the Prince survived. Minister von Stein lent him 8000 Rthl on the Konotop mortgage of 10000 Rthl. False reports led him towards Sagan. Now he sends a 6000 Rthl draft on Breslau to Koppe and will bring 4000 Rthl more. He will ask Stein for money on the Schweinern mortgage of 20000 Rthl. He has heard from the Cabinet that the Prince's bravery is praised and hopes the Prince will receive the Kolziger Güter, which would bring 100000 Rthl. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hat durch Secretair Koppe erfahren, dass der Fürst die Niederlage überlebt hat.",
+    "lines": [
+     4,
+     5,
+     12,
+     13,
+     23,
+     25
+    ]
+   },
+   {
+    "statement": "Minister von Stein lieh ihm auf die Konotoper Hypothek von 10000 Rthl 8000 Rthl.",
+    "lines": [
+     10,
+     11,
+     46,
+     47
+    ]
+   },
+   {
+    "statement": "Die Anweisung über 6000 Rthl schickt er an Koppe.",
+    "lines": [
+     19,
+     26,
+     27,
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "4000 Rthl will er bringen, sobald er den Aufenthalt kennt.",
+    "lines": [
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Auf eine Hypothek auf Świniary von 20000 Rthl will er Stein erneut um Geld bitten.",
+    "lines": [
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Er hofft, der Fürst erhalte die Kolziger Güter; dann könne er 100000 Rthl beschaffen.",
+    "lines": [
+     60,
+     61,
+     62,
+     63,
+     64
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 24,
+    "word": "einen",
+    "note": "probably 'mein' (Kummer), cf. line 5"
+   },
+   {
+    "line": 40,
+    "word": "Kantschumeiner",
+    "note": "probably 'Kantschu meiner', a word-division problem"
+   },
+   {
+    "line": 35,
+    "word": "Biderst",
+    "note": "probably 'biedersten'"
+   },
+   {
+    "line": 53,
+    "word": "Hr.",
+    "note": "probably 'per' (Estafette)"
+   },
+   {
+    "line": 53,
+    "word": "in",
+    "note": "probably 'an' (dH Koppe)"
+   },
+   {
+    "line": 4,
+    "word": "der",
+    "note": "probably 'dem' (schrecklichsten Gefahr)"
+   }
+  ],
+  "read_against": "79ea305d4da5105d"
+ }
 }

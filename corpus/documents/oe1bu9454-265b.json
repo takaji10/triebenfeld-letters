@@ -293,5 +293,99 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber bittet einen General, beim Kaiser zu erwirken, dass ihm die Trąbczyner Güter samt 8 Jahren Revenuen zurückgegeben werden. Der verstorbene König hatte ihm 1796 die konfiszierten Prusimski-Güter Kamionna und Trąbczyn verliehen. 1807 übergab die Verwaltungskommission sie der Tochter Prusimskis, jetzt Moscinska. Das Tribunal in Kalisz verwies ihn an Napoleon. Nun soll die Prosna Grenze werden. Er fürchtet Moscinskis Einfluss auf den Generalgouverneur und bittet, v. Triebenfeld anzuhören."
+ "summary_de": "Der Schreiber bittet einen General, beim Kaiser zu erwirken, dass ihm die Trąbczyner Güter samt 8 Jahren Revenuen zurückgegeben werden. Der verstorbene König hatte ihm 1796 die konfiszierten Prusimski-Güter Kamionna und Trąbczyn verliehen. 1807 übergab die Verwaltungskommission sie der Tochter Prusimskis, jetzt Moscinska. Das Tribunal in Kalisz verwies ihn an Napoleon. Nun soll die Prosna Grenze werden. Er fürchtet Moscinskis Einfluss auf den Generalgouverneur und bittet, v. Triebenfeld anzuhören.",
+ "reading": {
+  "letter": "265b",
+  "legibility": "sound",
+  "notes": "The estate owner, not named in the document, writes from Schlawenschitz to a \"Herr General\", also unnamed. The late King granted him the confiscated Prusimski estates of Kamionna and Trąbczyn in 1796. In 1807 the administrative commission took them away and gave them to Prusimski's daughter, now Moscinska. The Kalisz tribunal declined to act and referred him to Napoleon. Hardenberg told Triebenfeld to wait until Poland's affairs were settled. Now the Prosna is said to be the border, so the Trąbczyn district falls to the Emperor, apparently of Russia (the word is garbled). The writer fears Moscinski's influence on the Governor-General. He asks the General to use his influence with the Emperor to get the estates back with 8 years' revenues, and to receive Triebenfeld.",
+  "claims": [
+   {
+    "statement": "Bittet einen General, beim Kaiser die Rückgabe der Trąbczyner Güter samt 8 Jahren Revenuen zu erwirken",
+    "lines": [
+     2,
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Der verstorbene König verlieh 1796 die konfiszierten Prusimski-Güter Kamionna und Trąbczyn",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "1807 gab die Verwaltungskommission die Güter der Tochter Prusimskis, jetzt Moscinska",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Das Kalischer Tribunal verwies ihn an Napoleon",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Die Prosna soll die Grenze werden",
+    "lines": [
+     16
+    ]
+   },
+   {
+    "statement": "Fürchtet Moscinskis Einfluss auf den Generalgouverneur",
+    "lines": [
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Bittet, v. Triebenfeld anzuhören",
+    "lines": [
+     24,
+     25,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "verliche",
+    "note": "probably 'verliehe'"
+   },
+   {
+    "line": 15,
+    "word": "Pahlens",
+    "note": "probably 'Pohlens'"
+   },
+   {
+    "line": 16,
+    "word": "Wust",
+    "note": "probably 'Ruf' or similar"
+   },
+   {
+    "line": 17,
+    "word": "Wüstl.",
+    "note": "probably 'Russ.' (Russischen)"
+   },
+   {
+    "line": 21,
+    "word": "herzigsten",
+    "note": "probably 'herzlichsten'"
+   },
+   {
+    "line": 18,
+    "word": "recto¬mirung",
+    "note": "probably 'reclamirung'"
+   }
+  ],
+  "read_against": "debe5cade2b0b216"
+ }
 }

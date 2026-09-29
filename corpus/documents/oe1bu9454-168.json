@@ -505,5 +505,115 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat die Kontrakte mit den alten Bauern und die Sicherung der Abgabe gerichtlich abgeschlossen. Wegen Szetlewek und der Propination verhandelt er mit v. Otocki. Amelang verspricht Hilfe beim Anlehen, der Consens zur Dismembration wird erwartet. Glenck, Wollenhaupt, die drei Olesnicer und ein Meyer reden Käufern ab. Von Forderungen über 3011 Rthl hält er Wollenhaupts 800 Rthl Gegenforderungen von 1200 Rthl entgegen."
+ "summary_de": "Triebenfeld hat die Kontrakte mit den alten Bauern und die Sicherung der Abgabe gerichtlich abgeschlossen. Wegen Szetlewek und der Propination verhandelt er mit v. Otocki. Amelang verspricht Hilfe beim Anlehen, der Consens zur Dismembration wird erwartet. Glenck, Wollenhaupt, die drei Olesnicer und ein Meyer reden Käufern ab. Von Forderungen über 3011 Rthl hält er Wollenhaupts 800 Rthl Gegenforderungen von 1200 Rthl entgegen.",
+ "reading": {
+  "letter": "168",
+  "legibility": "sound",
+  "notes": "Triebenfeld, snowed in at Trąbczyn, reports: contracts with old peasants concluded in court; negotiating with Otocki on Szetlewek and Propination (Radzinski wavering); Amelang promises help with loan; Voss's refusal on Taxen to be sent to Amelang; dismembration consent expected (Goldbeck). Complains of Glenck, Wollenhaupt, the three Olesnica men and Meyer dissuading buyers. Claims: Winnicki heirs 1300, Chwalowski 850, Sprengel 61, Wollenhaupt 800 = 3011 rt; everything must be re-surveyed. Counterclaims against Wollenhaupt 1200 rt, so he owes 400; he refuses to vacate his dwelling. Schenck demands land and the right to choose his Actuarius.",
+  "claims": [
+   {
+    "statement": "Kontrakte mit den alten Bauern und Sicherung der Abgabe gerichtlich abgeschlossen",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "verhandelt mit v. Otocki wegen Szetlewek und Propination",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Amelang verspricht Hilfe beim Anlehen",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Consens zur Dismembration wird erwartet",
+    "lines": [
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Glenck, Wollenhaupt, die drei Olesnicer und Meyer reden Käufern ab",
+    "lines": [
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Forderungen von 3011 Rthl",
+    "lines": [
+     46,
+     47,
+     48,
+     49,
+     50,
+     51
+    ]
+   },
+   {
+    "statement": "Wollenhaupt fordert 800 Rthl, Gegenrechnung 1200 Rthl",
+    "lines": [
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "schade",
+    "note": "probably 'überschicke' (über/schicke split across lines 16-17)"
+   },
+   {
+    "line": 18,
+    "word": "Kleur",
+    "note": "possibly Klewitz (line 25)"
+   },
+   {
+    "line": 21,
+    "word": "würcken",
+    "note": "probably 'würden'"
+   },
+   {
+    "line": 40,
+    "word": "haab",
+    "note": "unclear; perhaps 'habsüchtig'"
+   },
+   {
+    "line": 84,
+    "word": "Casuliren",
+    "note": "perhaps 'cajoliren'"
+   },
+   {
+    "line": 85,
+    "word": "ten",
+    "note": "probably 'den'"
+   },
+   {
+    "line": 91,
+    "word": "Herren",
+    "note": "probably 'Huben' (cf. lines 65, 74)"
+   }
+  ],
+  "read_against": "ee4e8b612e455593"
+ }
 }

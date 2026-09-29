@@ -220,5 +220,121 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat General Gneisenau in Neisse das Schreiben des Fürsten übergeben. Gneisenau will antworten und lässt ausrichten, der Fürst solle ruhig sein, es werde besser werden. Gneisenau führt jetzt die schlesische Landwehr und ist Chef des Generalstabs. Köckritz hat Zastrow umgestimmt, der jetzt warm vom Fürsten spricht. Hardenberg ist mit dem russischen Kaiser in Böhmen und kehrt in 5 Tagen zurück. Für Triebenfelds Plan zur Verpflegung aus Polen sprechen sich alle aus."
+ "summary_de": "Triebenfeld hat General Gneisenau in Neisse das Schreiben des Fürsten übergeben. Gneisenau will antworten und lässt ausrichten, der Fürst solle ruhig sein, es werde besser werden. Gneisenau führt jetzt die schlesische Landwehr und ist Chef des Generalstabs. Köckritz hat Zastrow umgestimmt, der jetzt warm vom Fürsten spricht. Hardenberg ist mit dem russischen Kaiser in Böhmen und kehrt in 5 Tagen zurück. Für Triebenfelds Plan zur Verpflegung aus Polen sprechen sich alle aus.",
+ "reading": {
+  "letter": "241",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Neisse, 22 June 1813, during the armistice. He has handed the Prince's letter to Gneisenau, who promises a reply and reassurance. He reports that Zastrow has a new post, Gneisenau's commands, Köckritz's influence, Hardenberg's being with the Russian Emperor in Bohemia, support for his supply plan from Poland, and Landwehr reviews. The letter has nothing on Trąbczyn. Several words are garbled: Gewerner, Eignung, Armen, 'rt.' after 55000, and the passage on lines 26-27.",
+  "claims": [
+   {
+    "statement": "Triebenfeld traf Gneisenau in Neisse und übergab ihm das Schreiben des Fürsten",
+    "lines": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Gneisenau will antworten, der Fürst solle ruhig sein, es werde besser werden",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Gneisenau führt die schlesische Landwehr und ist Chef des Generalstabs",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Köckritz hat Zastrow umgestimmt, der jetzt warm vom Fürsten spricht",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Hardenberg ist mit dem russischen Kaiser in Böhmen und kehrt in 5 Tagen zurück",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Für Triebenfelds Plan zur Verpflegung aus Polen sprechen sich alle aus",
+    "lines": [
+     19,
+     20
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Gewerner",
+    "note": "probably 'Gouverneur' (compare line 12), i.e. General Gouverneur"
+   },
+   {
+    "line": 5,
+    "word": "vom",
+    "note": "probably 'von'"
+   },
+   {
+    "line": 11,
+    "word": "rt.",
+    "note": "doubtful unit; document 240 line 37 has '55000 Mann'"
+   },
+   {
+    "line": 12,
+    "word": "Sch",
+    "note": "probably an abbreviation for 'Schlesischer'"
+   },
+   {
+    "line": 16,
+    "word": "von",
+    "note": "probably 'wo'"
+   },
+   {
+    "line": 19,
+    "word": "Armen",
+    "note": "probably 'Armee'"
+   },
+   {
+    "line": 20,
+    "word": "Ewr",
+    "note": "stray word before 'v. Gneis[enau]'"
+   },
+   {
+    "line": 21,
+    "word": "Eignung",
+    "note": "garbled; meaning unclear"
+   },
+   {
+    "line": 22,
+    "word": "wie / wie",
+    "note": "probably 'wir / wie'"
+   },
+   {
+    "line": 23,
+    "word": "bringen",
+    "note": "probably 'vordringen' or similar"
+   },
+   {
+    "line": 25,
+    "word": "übern",
+    "note": "garbled"
+   },
+   {
+    "line": 26,
+    "word": "Fall und Schwartz",
+    "note": "garbled line"
+   }
+  ],
+  "read_against": "98e45734e75f5b07"
+ }
 }

@@ -97,5 +97,77 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet wegen der schrecklichen Teuerung in Wien um 300 Rthl in Gold, sonst müsse er am 23. abreisen. Für umgetauschte 400 Rthl erhielt er 1200 fl. Wiener Einlösungsscheine, von denen er 392 fl ausgab. Er rechnet mit täglich 50 fl. W.W. oder 15 Rthl und 260 fl. für die Rückreise. Er könne nur noch 10 Tage leben, die Sache solle aber noch mindestens 5 Wochen dauern. Er wohnt in der Goldenen Ente, Schulerstraße."
+ "summary_de": "Triebenfeld bittet wegen der schrecklichen Teuerung in Wien um 300 Rthl in Gold, sonst müsse er am 23. abreisen. Für umgetauschte 400 Rthl erhielt er 1200 fl. Wiener Einlösungsscheine, von denen er 392 fl ausgab. Er rechnet mit täglich 50 fl. W.W. oder 15 Rthl und 260 fl. für die Rückreise. Er könne nur noch 10 Tage leben, die Sache solle aber noch mindestens 5 Wochen dauern. Er wohnt in der Goldenen Ente, Schulerstraße.",
+ "reading": {
+  "letter": "243",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to the Prince, asking for money. Prices are very high. He had to change 400 rt, because Prussian Courant is not accepted, and got 1200 fl Wiener Einlösungsscheine. He has spent 392 fl and has about 800 fl left. He lists his daily costs: about 45 fl 30 x, so he reckons 50 fl W.W., or 15 rt, a day. After setting aside 260 fl for the return journey and other costs, he could live for about 10 days, but the business is expected to last at least 5 more weeks. He asks for 300 rt in gold; without it he will leave on the 23rd. He gives his address. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bittet wegen der Teuerung um 300 Rthl in Gold, sonst Abreise am 23.",
+    "lines": [
+     4,
+     5,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Für 400 Rthl erhielt er 1200 fl. Wiener Einlösungsscheine, 392 fl ausgegeben",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Rechnet täglich 50 fl. W.W. oder 15 Rthl, 260 fl. für die Rückreise",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Geld reicht für 10 Tage, die Sache soll noch mindestens 5 Wochen dauern",
+    "lines": [
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Wohnt in der Goldenen Ente, Schulerstraße",
+    "lines": [
+     27
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "unsezzen",
+    "note": "probably 'umsezzen' (exchange)"
+   },
+   {
+    "line": 16,
+    "word": "Vieh Acker ... Erste",
+    "note": "garbled line, perhaps about firewood/heating"
+   },
+   {
+    "line": 17,
+    "word": "theil",
+    "note": "probably 'thut' (makes/totals)"
+   },
+   {
+    "line": 20,
+    "word": "den guten auch noch die 40 fl auf",
+    "note": "garbled phrase"
+   },
+   {
+    "line": 26,
+    "word": "gehn",
+    "note": "probably 'gehe'"
+   }
+  ],
+  "read_against": "f66ba33d88f0826f"
+ }
 }

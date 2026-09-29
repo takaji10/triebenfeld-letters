@@ -640,5 +640,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Das von Glenck zugesicherte Anlehn der Invaliden Casse scheitert, weil die Ottosche Taxe auf 78/m Rthl herabgesetzt wurde; auch Stubenrauch und das Pupillen Collegio versagen. Beyme ließ Amelang sagen, der König wolle dem Fürsten als Entschädigung für die Brzyce-Güter seine Schulden erlassen. Amelang schlug die konfiszierten Kolziger Güter Schlabrendorffs vor. Triebenfeld will versuchen, ob man auf Konotop und Zagórów 120/m Rthl leiht; gelänge dies, könnte man die Güter von Zagórów und Trąbczyn in Ruhe dismembrieren."
+ "summary_de": "Das von Glenck zugesicherte Anlehn der Invaliden Casse scheitert, weil die Ottosche Taxe auf 78/m Rthl herabgesetzt wurde; auch Stubenrauch und das Pupillen Collegio versagen. Beyme ließ Amelang sagen, der König wolle dem Fürsten als Entschädigung für die Brzyce-Güter seine Schulden erlassen. Amelang schlug die konfiszierten Kolziger Güter Schlabrendorffs vor. Triebenfeld will versuchen, ob man auf Konotop und Zagórów 120/m Rthl leiht; gelänge dies, könnte man die Güter von Zagórów und Trąbczyn in Ruhe dismembrieren.",
+ "reading": {
+  "letter": "134",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Berlin to the Prince. The Invaliden Casse loan has failed because the Ottosche Taxe was reworked downwards to 78/m rt through Leugnich. Stubenrauch and the Pupillen Collegio are refusing too. Beyme told Amelang that the King would write off the Prince's debts as compensation for the Brzyce goods. Amelang proposed Schlabrendorff's confiscated Kolzig goods instead. Figures given: Zagórów taxed at 124/m, carrying debts of 56000. Kolno and Kamionna taxed at 118000, of which 66/m was awarded to Broniewski. Plans: ask Pliehen in Potsdam, borrow 120/m on Konotop and Zagórów, then dismember the Zagórów and Trąbczyn goods. Glenck is heavily blamed.",
+  "claims": [
+   {
+    "statement": "Das von Glenck zugesicherte Anlehn der Invaliden Casse scheitert, weil die Ottosche Taxe auf 78/m Rthl herabgesetzt wurde",
+    "lines": [
+     4,
+     5,
+     6,
+     14
+    ]
+   },
+   {
+    "statement": "auch Stubenrauch und das Pupillen Collegio versagen",
+    "lines": [
+     101,
+     102,
+     103,
+     104
+    ]
+   },
+   {
+    "statement": "Beyme ließ Amelang sagen, der König wolle als Entschädigung für die Brzyce-Güter die Schulden erlassen",
+    "lines": [
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Amelang schlug die konfiszierten Kolziger Güter Schlabrendorffs vor",
+    "lines": [
+     70,
+     71
+    ]
+   },
+   {
+    "statement": "will auf Konotop und Zagórów 120/m Rthl leihen, um danach die Güter von Zagórów und Trąbczyn zu dismembrieren",
+    "lines": [
+     143,
+     144,
+     145,
+     146,
+     147
+    ],
+    "check": "overstated",
+    "why": "Laut Z. 143-147 will er nur versuchen, ob man ihm 120/m rt leiht. Das Dismembrieren in Muße ist die Folge, falls das gelingt, und kein fester Plan."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 39,
+    "word": "Man",
+    "note": "probably 'Mein' (innigster Wunsch)"
+   },
+   {
+    "line": 25,
+    "word": "um",
+    "note": "probably 'nicht' (vorzeigen dürfen)"
+   },
+   {
+    "line": 55,
+    "word": "ner",
+    "note": "garbled, perhaps 'sein'"
+   },
+   {
+    "line": 67,
+    "word": "Charger Stempel um andere Gebürz",
+    "note": "garbled passage"
+   },
+   {
+    "line": 77,
+    "word": "träst",
+    "note": "probably 'trifft'"
+   },
+   {
+    "line": 97,
+    "word": "laßenen",
+    "note": "probably 'laßen'"
+   },
+   {
+    "line": 105,
+    "word": "schonir",
+    "note": "probably 'schöner'"
+   },
+   {
+    "line": 145,
+    "word": "recessoren",
+    "note": "unclear, perhaps 'redressiren'"
+   },
+   {
+    "line": 149,
+    "word": "man heil",
+    "note": "garbled"
+   },
+   {
+    "line": 22,
+    "word": "davon muß",
+    "note": "garbled, meaning unclear"
+   }
+  ],
+  "read_against": "a1a8776a1aba9d6b"
+ }
 }

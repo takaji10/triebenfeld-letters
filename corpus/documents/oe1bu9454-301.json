@@ -225,5 +225,113 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bestätigt das durch Lombardini überbrachte Schreiben vom 26.. Neues berichtet er nicht, er bittet um die Entschlüsse des Fürsten; Lombardini soll berichten. Er erwartet seinen Sohn und einen Pächter für Świniary und will danach nach Poznań und Pszczew reisen. In der Entschädigungssache hofft er auf guten Ausgang, da er den Ober Prefect v Smiedecki in Kalisz gewonnen habe. Wildbret für hier und für Zerboni in Poznań würde gut wirken, das letzte sei fast ganz verdorben."
+ "summary_de": "Triebenfeld bestätigt das durch Lombardini überbrachte Schreiben vom 26.. Neues berichtet er nicht, er bittet um die Entschlüsse des Fürsten; Lombardini soll berichten. Er erwartet seinen Sohn und einen Pächter für Świniary und will danach nach Poznań und Pszczew reisen. In der Entschädigungssache hofft er auf guten Ausgang, da er den Ober Prefect v Smiedecki in Kalisz gewonnen habe. Wildbret für hier und für Zerboni in Poznań würde gut wirken, das letzte sei fast ganz verdorben.",
+ "reading": {
+  "letter": "301",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Blizanow to the Prince. He has received the Prince's letter of the 26th through Lombardini and sends congratulations for \"the important day\" (a birthday or name day). He has no new business to report beyond his earlier letters and asks for the Prince's decisions. Lombardini will report in person. Triebenfeld is waiting for his son and for a tenant for Schweinern (Świniary), and will then go to Posen and Betsche. He is hopeful about the compensation matter because he has won over Ober Prefect v Smiedecki in Kalisz. He suggests that game be sent, for here and for Zerboni in Posen, since the last delivery spoiled. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Schreiben vom 26. durch Lombardini erhalten",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Glückwünsche zum heutigen Tag",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "keine neuen Nachrichten, bittet um Entschlüsse",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Lombardini soll berichten",
+    "lines": [
+     18,
+     19
+    ],
+    "check": "overstated",
+    "why": "Zeilen 18-19: Lombardini wird treu berichten. 'Mündlich' steht nicht im Brief."
+   },
+   {
+    "statement": "erwartet Sohn und Pächter für Świniary, dann Reise nach Poznań und Pszczew",
+    "lines": [
+     23,
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Entschädigungssache, Smiedecki in Kalisz gewonnen",
+    "lines": [
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Wildbret erwünscht, auch für Zerboni in Poznań; letztes verdorben",
+    "lines": [
+     29,
+     30,
+     31
+    ],
+    "check": "overstated",
+    "why": "Zeilen 29-31: das erhaltene Wildbret war 'fast ganz' verdorben, nicht einfach verdorben."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Haushoffmeißen",
+    "note": "probably Haushoffmeister"
+   },
+   {
+    "line": 5,
+    "word": "erst reutet",
+    "note": "probably 'erfreulich' or similar"
+   },
+   {
+    "line": 8,
+    "word": "Andern",
+    "note": "unclear; perhaps 'redlichen' (compare line 18)"
+   },
+   {
+    "line": 12,
+    "word": "Mühn",
+    "note": "unclear word in the list of good wishes"
+   },
+   {
+    "line": 16,
+    "word": "auf",
+    "note": "the second 'auf' is probably 'mich' (auf welche ich mich beziehe)"
+   },
+   {
+    "line": 16,
+    "word": "dern",
+    "note": "probably 'Dero' or 'deren'"
+   },
+   {
+    "line": 34,
+    "word": "Bider",
+    "note": "unclear; perhaps 'Bruder'"
+   }
+  ],
+  "read_against": "3683210c99db507c"
+ }
 }

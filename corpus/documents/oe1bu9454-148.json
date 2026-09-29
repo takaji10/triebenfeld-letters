@@ -138,5 +138,76 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld rechnet vor, dass das Gut Swięcia verschleudert worden sei. Glencks Tableau wies 1800 Rthl jährliche Zinsen und 10000 Rthl Capital aus. Die heute beendete Revision der Taxatoren ergibt dagegen nur 918 Rthl Zinsen. Das Gut mit 3792 Morgen sei für 28360 Rthl weggegeben worden, was einen Verlust von 47340 Rthl bedeute. Zusammen mit dem Olesnicer Verlust von 48000 Rthl verliere der Fürst an beiden Gütern netto 95340 Rthl. Ein ebensolcher Ausfall entstehe jetzt bei der Taxe."
+ "summary_de": "v. Triebenfeld rechnet vor, dass das Gut Swięcia verschleudert worden sei. Glencks Tableau wies 1800 Rthl jährliche Zinsen und 10000 Rthl Capital aus. Die heute beendete Revision der Taxatoren ergibt dagegen nur 918 Rthl Zinsen. Das Gut mit 3792 Morgen sei für 28360 Rthl weggegeben worden, was einen Verlust von 47340 Rthl bedeute. Zusammen mit dem Olesnicer Verlust von 48000 Rthl verliere der Fürst an beiden Gütern netto 95340 Rthl. Ein ebensolcher Ausfall entstehe jetzt bei der Taxe.",
+ "reading": {
+  "letter": "148",
+  "legibility": "sound",
+  "notes": "Short memo (P. M.) from Triebenfeld to the Prince, dated at Trąbczyn. It works out the loss on the sale of Swięcia. Glenck's table showed 1800 rthl a year in interest and 10000 rt capital. The appraisers' revision, finished that day, gives only 918 rt interest. The estate has 3792 Morgen; it went for an equivalent of 28360 rt, a loss of 47340 rt. With the Olesnica loss of 48000 rt the total is 95340 rthl. The figures are consistent with each other. Unclear words: 'zu künfig' (line 7), 'Mannen' (line 10), 'eben' (line 3).",
+  "claims": [
+   {
+    "statement": "Glencks Tableau wies für Swięcia 1800 Rthl jährliche Zinsen und 10000 Rthl Capital aus.",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Die heute beendete Revision der Taxatoren ergibt nur 918 Rthl Zinsen.",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Das Gut sei verschleudert worden.",
+    "lines": [
+     8
+    ]
+   },
+   {
+    "statement": "Swięcia hat 3792 Morgen und wurde für 28360 Rthl weggegeben, mit einem Verlust von 47340 Rthl.",
+    "lines": [
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Mit dem Olesnicer Verlust von 48000 Rthl beträgt der Verlust an beiden Gütern netto 95340 Rthl.",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Ein ebensolcher Ausfall entsteht jetzt bei der Taxe.",
+    "lines": [
+     16,
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "künfig",
+    "note": "Not a German word; probably a misreading (possibly 'auffällig' or similar). Not used in the summary."
+   },
+   {
+    "line": 10,
+    "word": "Mannen",
+    "note": "Unclear; possibly 'Thaler'/'Werth' or a phrase like 'an Mann bringen'."
+   },
+   {
+    "line": 3,
+    "word": "eben",
+    "note": "Possibly 'über' ('über alle Revenuen')."
+   }
+  ],
+  "read_against": "a97b43aad2799941"
+ }
 }

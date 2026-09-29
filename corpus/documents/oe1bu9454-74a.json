@@ -644,5 +644,116 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Arrestgesuch der General Invaliden Casse an das Kammergericht wegen eines Darlehns von 50000 Rthl an v. Triebenfeld, gesichert durch eine Obligation des Fürsten über 250000 Rthl auf die Zagórówer Güter. Seit 1807 sind 9375 Rthl Zinsen rückständig. Advocat Mitschke in Kalisz soll klagen und nötigenfalls Sequestration beantragen. Da die Kalischer Präfektur die Hypothek zu den Bayonner Summen schlug und Konotop und Świniary verschuldet sind, soll das Vermächtnis der Fürstin von Sacken von 80000 Rthl beim angeblichen Testamentsvollstrecker Kircheisen arrestiert werden."
+ "summary_de": "Arrestgesuch der General Invaliden Casse an das Kammergericht wegen eines Darlehns von 50000 Rthl an v. Triebenfeld, gesichert durch eine Obligation des Fürsten über 250000 Rthl auf die Zagórówer Güter. Seit 1807 sind 9375 Rthl Zinsen rückständig. Advocat Mitschke in Kalisz soll klagen und nötigenfalls Sequestration beantragen. Da die Kalischer Präfektur die Hypothek zu den Bayonner Summen schlug und Konotop und Świniary verschuldet sind, soll das Vermächtnis der Fürstin von Sacken von 80000 Rthl beim angeblichen Testamentsvollstrecker Kircheisen arrestiert werden.",
+ "reading": {
+  "letter": "74a",
+  "legibility": "partly garbled",
+  "notes": "Copy of a fiscal application for arrest (\"Pro Fisco\", signed Seelmann, the sender is given as not identified) to the Kammergericht in Berlin on behalf of the General Invaliden Casse. Triebenfeld borrowed 50000 rt in 1805 and pledged the Prince's obligation of 250000 rt, secured on the Zagórów estates. Interest of 9375 rt has been unpaid since Nov 1807. The Kalisz prefecture has added the mortgage to the Bayonne sums, and Konotop and Świniary are heavily indebted. The application asks for arrest on the 80000 rt legacy from the Fürstin von Sacken's estate, reportedly due to the Prince and to be paid on to Triebenfeld. Kircheisen is the executor. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Arrestgesuch der General Invaliden Casse an das Kammergericht",
+    "lines": [
+     3,
+     41,
+     42,
+     43,
+     77,
+     78
+    ]
+   },
+   {
+    "statement": "Darlehn von 50000 Rthl an v. Triebenfeld, gesichert durch Obligation des Fürsten über 250000 Rthl auf die Zagórówer Güter",
+    "lines": [
+     5,
+     6,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "9375 Rthl Zinsen seit 1807 rückständig",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Advocat Mitschke in Kalisz bevollmächtigt zu klagen und nötigenfalls Sequestration zu beantragen",
+    "lines": [
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Kalischer Präfektur schlug Hypothek zu den Bayonner Summen; Konotop und Świniary verschuldet",
+    "lines": [
+     25,
+     26,
+     27,
+     28,
+     31,
+     33,
+     34,
+     58,
+     59
+    ]
+   },
+   {
+    "statement": "Arrest auf 80000 Rthl Vermächtnis der Fürstin von Sacken, Kircheisen als Testamentsvollstrecker",
+    "lines": [
+     37,
+     38,
+     41,
+     79,
+     80,
+     81,
+     82
+    ],
+    "check": "overstated",
+    "why": "Lines 78-80: the Casse has only heard that Kircheisen 'Executor ... sein soll'. This is hearsay, not fact."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 37,
+    "word": "Selchen",
+    "note": "likely misreading of 'von Sacken' (cf. line 80 Fürstin von Sacken)"
+   },
+   {
+    "line": 12,
+    "word": "Hautgestellt",
+    "note": "probably 'ausgestellt'"
+   },
+   {
+    "line": 15,
+    "word": "darhöhe",
+    "note": "probably 'Darlehn'"
+   },
+   {
+    "line": 11,
+    "word": "so",
+    "note": "probably 'Sr.'"
+   },
+   {
+    "line": 42,
+    "word": "Hochpreißlich in",
+    "note": "probably 'Hochpreißlichen'"
+   },
+   {
+    "line": 71,
+    "word": "50000",
+    "note": "context suggests 80000; figure not changed"
+   },
+   {
+    "line": 40,
+    "word": "Zimmerz",
+    "note": "probably 'Innern'"
+   }
+  ],
+  "read_against": "f8bb29c70e48b391"
+ }
 }

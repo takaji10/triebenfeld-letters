@@ -211,5 +211,88 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Kunckel und 2 Kolonisten aus Oleśnica bieten 1500 Rthl und wollen einen Vertrag. Triebenfeld hält sie für Glücksritter, die die 17000 Rthl zu Martini und Johanni kaum zahlen könnten, und rechnet mit endlosen Prozessen. Nur auf Befehl des Fürsten will er einen Vertrag entwerfen lassen. Oberamtmann Nerlich will durch Kunckel Trąbczyn oder Zagórów in Erbpacht nehmen und hat 80000 Rthl bar. Walichnowski fragt, was er zahlen soll. Urbanowski hat den Trąbczyner Anschlag angefordert. Triebenfeld bittet um Weisung."
+ "summary_de": "Kunckel und 2 Kolonisten aus Oleśnica bieten 1500 Rthl und wollen einen Vertrag. Triebenfeld hält sie für Glücksritter, die die 17000 Rthl zu Martini und Johanni kaum zahlen könnten, und rechnet mit endlosen Prozessen. Nur auf Befehl des Fürsten will er einen Vertrag entwerfen lassen. Oberamtmann Nerlich will durch Kunckel Trąbczyn oder Zagórów in Erbpacht nehmen und hat 80000 Rthl bar. Walichnowski fragt, was er zahlen soll. Urbanowski hat den Trąbczyner Anschlag angefordert. Triebenfeld bittet um Weisung.",
+ "reading": {
+  "letter": "118a",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince about offers for the estates. Kunckel came with 2 colonists from Oleśnica who offer 1500 rt and want a contract. Triebenfeld doubts they can raise the 17000 Rthl due at Martini and Johanni and calls them fortune-seekers. He will only contract if the Prince orders it. Kunckel also holds a commission from Oberamtmann Nerlich, who wants Trąbczyn or Zagórów in Erbpacht and has 80000 rt in cash. Walichnowski wants to know what he should pay. Urbanowski has sent for the Trąbczyn Anschlag. Triebenfeld asks for instructions.",
+  "claims": [
+   {
+    "statement": "Kunckel und 2 Kolonisten aus Oleśnica bieten 1500 Rthl und wollen einen Vertrag.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Triebenfeld hält sie für Glücksritter, die die 17000 Rthl zu Martini und Johanni kaum zahlen könnten, und rechnet mit endlosen Prozessen.",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Nur auf Befehl des Fürsten will er einen Vertrag entwerfen lassen.",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Oberamtmann Nerlich will durch Kunckel Trąbczyn oder Zagórów in Erbpacht nehmen und hat 80000 Rthl bar.",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Walichnowski fragt, was er zahlen soll.",
+    "lines": [
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Urbanowski hat den Trąbczyner Anschlag angefordert.",
+    "lines": [
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Triebenfeld bittet um Weisung.",
+    "lines": [
+     25,
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "dem",
+    "note": "The sense requires 'den Contract', but this may be the writer's own den/dem confusion, so it is not corrected."
+   },
+   {
+    "line": 33,
+    "word": "den",
+    "note": "Probably 'dem' (Urbanowski), again possibly the writer's usage."
+   },
+   {
+    "line": 13,
+    "word": "tro-",
+    "note": "Probably 'trotz', broken across the line end."
+   }
+  ],
+  "read_against": "af117889cb1dcc3d"
+ }
 }

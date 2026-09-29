@@ -186,5 +186,110 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld legt einen Brief von T. über den König und Köckritz bei. Er geht nicht nach Berlin, will aber Wein und Wildgeflügel an T. schicken, damit beim Abschiedsschmaus manches besprochen wird. T. soll Hardenberg dazu mitnehmen. Dass Hardenberg laut einem Billet des H v M mit dem König komme, bezweifelt er. Er will eilig nach Zagórów, hofft seine Mühle in Świniary für 6000 Rthl zu verkaufen und Rückstände von seinen Untertanen einzuziehen."
+ "summary_de": "Triebenfeld legt einen Brief von T. über den König und Köckritz bei. Er geht nicht nach Berlin, will aber Wein und Wildgeflügel an T. schicken, damit beim Abschiedsschmaus manches besprochen wird. T. soll Hardenberg dazu mitnehmen. Dass Hardenberg laut einem Billet des H v M mit dem König komme, bezweifelt er. Er will eilig nach Zagórów, hofft seine Mühle in Świniary für 6000 Rthl zu verkaufen und Rückstände von seinen Untertanen einzuziehen.",
+ "reading": {
+  "letter": "199",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt dem Fürsten gleich nach seiner Ankunft in Breslau, um Mitternacht. Er legt einen Brief von \"T.\" über den König und K[öckritz] bei. Er geht nicht nach Berlin, sondern schickt Wein und Wildgeflügel an T. für einen Abschiedsschmaus, zu dem T. Hardenberg mitnehmen soll. Ein Billet des \"H v M\" meldet, Hardenberg komme mit dem König; Triebenfeld bezweifelt das. Er will eilig nach Zagorowo, hofft, seine Mühle in Schweinern für 6000 rt zu verkaufen und Rückstände von seinen Untertanen einzuziehen. Der Schluss ist stark verderbt. Trąbczyn kommt nicht vor.",
+  "claims": [
+   {
+    "statement": "Triebenfeld legt einen Brief von T. über den König und Köckritz bei.",
+    "lines": [
+     7
+    ]
+   },
+   {
+    "statement": "Er geht nicht nach Berlin, will aber Wein und Wildgeflügel an T. schicken, damit beim Abschiedsschmaus manches besprochen wird.",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "T. soll Hardenberg zum Abschiedsschmaus mitnehmen.",
+    "lines": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Ein Billet des H v M meldet, Hardenberg komme mit dem König; Triebenfeld bezweifelt das.",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Er will eilig nach Zagórów.",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Er hofft, seine Mühle in Świniary für 6000 Rthl zu verkaufen und Rückstände von seinen Untertanen einzuziehen.",
+    "lines": [
+     21,
+     22,
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Brück",
+    "note": "Probably 'Brief' followed by a lost verb (e.g. 'kommt'); the sentence has no verb."
+   },
+   {
+    "line": 11,
+    "word": "Nacht",
+    "note": "Probably 'Nach' (nach einem Billet)."
+   },
+   {
+    "line": 18,
+    "word": "der",
+    "note": "Possibly 'hier' or 'von hier'."
+   },
+   {
+    "line": 24,
+    "word": "Schweunen",
+    "note": "Possibly 'Schweinern' (see l. 21), but the context is unclear."
+   },
+   {
+    "line": 23,
+    "word": "[b?]ack",
+    "note": "Garbled; possibly 'Sack'."
+   },
+   {
+    "line": 26,
+    "word": "Fürsten",
+    "note": "Probably 'Fürstin' or 'Prinzeß' Emilie (cf. doc. 200, l. 46)."
+   },
+   {
+    "line": 26,
+    "word": "Bütern",
+    "note": "Garbled."
+   },
+   {
+    "line": 27,
+    "word": "ihrerbietagste",
+    "note": "Probably 'ehrerbietigste'."
+   },
+   {
+    "line": 27,
+    "word": "starbe",
+    "note": "'er starbe' is probably 'ersterbe'."
+   },
+   {
+    "line": 4,
+    "word": "Gönners[?]",
+    "note": "Doubtful; lines 4-5 are garbled."
+   }
+  ],
+  "read_against": "bc10f5cf80b1cc16"
+ }
 }

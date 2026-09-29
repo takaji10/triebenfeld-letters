@@ -379,5 +379,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet um strenge Geheimhaltung seines Plans für Koszęcin. Da er gehört hatte, der König dulde keinen Tausch oder Ankauf von Gütern mehr, zog er Hoffrath Barbe ins Vertrauen, der über das angeblich für Fürst Hardenberg verlangte Geschenk von 30000 Rthl empört war. Nun soll Graf Pourtalès, der sich in Schlesien ankaufen will, Koszęcin kaufen; der Fürst erhielte noch 38000 Rthl heraus. Triebenfeld hat Barbe 30000 Rthl zugesagt und bittet um Zusendung des entworfenen Reverses."
+ "summary_de": "Triebenfeld bittet um strenge Geheimhaltung seines Plans für Koszęcin. Da er gehört hatte, der König dulde keinen Tausch oder Ankauf von Gütern mehr, zog er Hoffrath Barbe ins Vertrauen, der über das angeblich für Fürst Hardenberg verlangte Geschenk von 30000 Rthl empört war. Nun soll Graf Pourtalès, der sich in Schlesien ankaufen will, Koszęcin kaufen; der Fürst erhielte noch 38000 Rthl heraus. Triebenfeld hat Barbe 30000 Rthl zugesagt und bittet um Zusendung des entworfenen Reverses.",
+ "reading": {
+  "letter": "264",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince about the Koszęcin (Koschentin) affair and asks him to keep it strictly secret. He touched on it with Hardenberg and got a short answer, and he heard that the King will no longer allow estates to be exchanged or bought. He then told Barbe the plan, including the 30000 Rthl present said to have been demanded for Hardenberg. Barbe was outraged and was only calmed when shown the Prince's signed instruction. Now Graf Pourtalès, who wants to buy estates in Silesia, is to buy Koszęcin, with Barbe acting as go-between. Triebenfeld has promised Barbe 30000 Rthl. He asks the Prince to send the draft Revers (lines 68-78), made out for the Prince's signature. Lines 55 and 57 are garbled. Nothing concerns Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld bittet um strenge Geheimhaltung seines Plans für Koszęcin.",
+    "lines": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Der König dulde keinen Tausch oder Ankauf von Gütern mehr.",
+    "lines": [
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Lines 12-13: Triebenfeld only heard this in confidence ('höhrte ich, Geheim'). It is hearsay, not an established fact."
+   },
+   {
+    "statement": "Er zog Hoffrath Barbe ins Vertrauen.",
+    "lines": [
+     16
+    ]
+   },
+   {
+    "statement": "Barbe war empört über das angeblich für Fürst Hardenberg verlangte Geschenk von 30000 Rthl.",
+    "lines": [
+     19,
+     20,
+     23,
+     24,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Graf Pourtalès will sich in Schlesien ankaufen und soll Koszęcin kaufen.",
+    "lines": [
+     43,
+     44,
+     45,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Der Fürst erhielte noch 38000 Rthl heraus.",
+    "lines": [
+     56
+    ]
+   },
+   {
+    "statement": "Triebenfeld hat Barbe 30000 Rthl zugesagt und bittet um Zusendung des Reverses.",
+    "lines": [
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70,
+     71,
+     72
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 23,
+    "word": "ß",
+    "note": "Probably B (Barbe), as abbreviated elsewhere in the letter"
+   },
+   {
+    "line": 31,
+    "word": "einen",
+    "note": "Probably 'nimm' (nimm mirs nicht übel)"
+   },
+   {
+    "line": 38,
+    "word": "u",
+    "note": "Probably 'ich'"
+   },
+   {
+    "line": 45,
+    "word": "Gräs.",
+    "note": "Probably 'Graf'"
+   },
+   {
+    "line": 55,
+    "word": "Mitlein Einmahl handlet",
+    "note": "Garbled; the sum demanded cannot be read"
+   }
+  ],
+  "read_against": "48f2d730a5b34639"
+ }
 }

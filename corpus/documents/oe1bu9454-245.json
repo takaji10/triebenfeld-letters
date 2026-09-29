@@ -496,5 +496,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Eingabe an Staats Kanzler Hardenberg für den notleidenden Fürsten Hohenlohe, teils unleserlich. Medizinalrat Cosmar beherrsche als Testamentsvollstrecker der Fürstin Sacken die Majoratsgüter Sławięcice, Lasowice und Oppurg (79500 Rthl Ertrag). Er stütze sich auf einen Transact von 1811, zahle nichts und lege keine Rechnung. Die Curischen Erben wollen für 426000 Rthl 112000 nehmen. Erbeten werden ein Vorschuss von 112000 Rthl, Aufhebung des Transacts, Absetzung Cosmars und ein Bericht des Oberlandesgerichts Brzeg. Triebenfeld bietet 60000 Rthl Kaution."
+ "summary_de": "Eingabe an Staats Kanzler Hardenberg für den notleidenden Fürsten Hohenlohe, teils unleserlich. Medizinalrat Cosmar beherrsche als Testamentsvollstrecker der Fürstin Sacken die Majoratsgüter Sławięcice, Lasowice und Oppurg (79500 Rthl Ertrag). Er stütze sich auf einen Transact von 1811, zahle nichts und lege keine Rechnung. Die Curischen Erben wollen für 426000 Rthl 112000 nehmen. Erbeten werden ein Vorschuss von 112000 Rthl, Aufhebung des Transacts, Absetzung Cosmars und ein Bericht des Oberlandesgerichts Brzeg. Triebenfeld bietet 60000 Rthl Kaution.",
+ "reading": {
+  "letter": "245",
+  "legibility": "partly garbled",
+  "notes": "Line 2 shows this is a petition from Triebenfeld to Staats Kanzler Hardenberg, written on behalf of Prince Hohenlohe, who is in need (probably the piece enclosed in doc 246). Against Medicinalrath Cosmar, executor of the late Fürstin Sacken: the majorat estates Schlawenschitz, Lassowitz and Oppurg (worth over 2 million Rthl, yield 79500 Rthl) and the 1811 Transact. The Curische Erben's claim is 426000 Rthl, settled at 112000. It asks for an advance of 112/m, annulment of the Transact, removal of Cosmar, and a report from the OLG Brieg. Nothing on Trąbczyn. Rough transcription, many passages garbled.",
+  "claims": [
+   {
+    "statement": "Eingabe an Hardenberg für den Fürsten Hohenlohe in Not",
+    "lines": [
+     2,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Cosmar, Medizinalrat, beherrscht als Testamentsvollstrecker der Fürstin Sacken die Majoratsgüter Schlawenschitz, Lassowitz, Oppurg mit 79500 Rthl Ertrag",
+    "lines": [
+     11,
+     12,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "stützt sich auf Transact von 1811, zahlt nichts, legt keine Rechnung",
+    "lines": [
+     30,
+     31,
+     43,
+     45,
+     46,
+     47,
+     55
+    ]
+   },
+   {
+    "statement": "Curische Erben wollen für 426000 Rthl 112000 nehmen",
+    "lines": [
+     53,
+     54,
+     67
+    ]
+   },
+   {
+    "statement": "Bitte um Vorschuss von 112000 Rthl, Aufhebung des Transacts, Absetzung Cosmars",
+    "lines": [
+     71,
+     72,
+     74,
+     75,
+     76
+    ]
+   },
+   {
+    "statement": "Bericht des Oberlandesgerichts Brieg erbeten",
+    "lines": [
+     89,
+     90,
+     91
+    ]
+   },
+   {
+    "statement": "Triebenfeld bietet Kaution von 60000 Rthl",
+    "lines": [
+     76
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "allerhäbniße[...]",
+    "note": "garbled, perhaps 'allerunterthänigst'"
+   },
+   {
+    "line": 22,
+    "word": "Advitalitaets besiztern",
+    "note": "probably 'Advitalitäts Besitzerin'"
+   },
+   {
+    "line": 27,
+    "word": "Besuchrund",
+    "note": "garbled, perhaps 'Bevollmächtigter'"
+   },
+   {
+    "line": 43,
+    "word": "canckwirten",
+    "note": "probably 'sanctionirten'"
+   },
+   {
+    "line": 50,
+    "word": "Mk.",
+    "note": "elsewhere rt; probably a misreading"
+   },
+   {
+    "line": 52,
+    "word": "Einwendigung",
+    "note": "garbled line"
+   }
+  ],
+  "read_against": "97bac67b2ec16cee"
+ }
 }

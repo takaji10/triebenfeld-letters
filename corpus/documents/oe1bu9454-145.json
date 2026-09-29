@@ -215,5 +215,93 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Honrichs zahlt die 4000 Rthl nicht, obwohl alles gelöscht und mit Zustimmung des Pupillen Collegiums geregelt ist. Hoffrath Grimm, schwer krank, will ihn gerichtlich belangen, doch fehlen Contract und Vollmacht; der Contract liegt bei Rochlitz. Triebenfeld bittet, ihn dort eilig anzufordern und mit Vollmacht an Grimm zu schicken. In Trąbczyn werden, wie er hört, seinem Plan widersprechende Befehle gegeben: 100 Scheffel Korn wurden verliehen, viele Äcker besät. Nach einem Wagenbruch will er nach der Reparatur dorthin eilen."
+ "summary_de": "Honrichs zahlt die 4000 Rthl nicht, obwohl alles gelöscht und mit Zustimmung des Pupillen Collegiums geregelt ist. Hoffrath Grimm, schwer krank, will ihn gerichtlich belangen, doch fehlen Contract und Vollmacht; der Contract liegt bei Rochlitz. Triebenfeld bittet, ihn dort eilig anzufordern und mit Vollmacht an Grimm zu schicken. In Trąbczyn werden, wie er hört, seinem Plan widersprechende Befehle gegeben: 100 Scheffel Korn wurden verliehen, viele Äcker besät. Nach einem Wagenbruch will er nach der Reparatur dorthin eilen.",
+ "reading": {
+  "letter": "145",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld an den Fürsten, Kalisz, 14.11.1804. Sein Wagen ist gebrochen, er ist trotzdem angekommen und muss auf die Reparatur warten. Hoffrath Grimm ist krank, soll aber in der Sache v. Radzinski tätig werden, wofür die Contracte nötig sind. Honrichs zahlt die 4000 rthl nicht, obwohl alles gelöscht ist. Grimm will klagen, ihm fehlen aber Contract und Vollmacht; den Contract hat Rochlitz. Triebenfeld bittet, den Contract bei Rochlitz anzufordern und mit Vollmacht an Grimm zu schicken. In Trąbczyn werden Befehle gegen seinen Plan gegeben: 100 Scheffel Korn verliehen, Äcker besät. Er will hinfahren, sobald der Wagen fertig ist.",
+  "claims": [
+   {
+    "statement": "Honrichs zahlt die 4000 Rthl nicht, obwohl alles gelöscht und mit Consentiment des Pupillen Collegiums geregelt ist",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Hoffrath Grimm ist schwer krank",
+    "lines": [
+     8
+    ]
+   },
+   {
+    "statement": "Grimm will Honrichs gerichtlich belangen, ihm fehlen Contract und Vollmacht; der Contract liegt bei Rochlitz",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Bitte, den Contract eilig bei Rochlitz anzufordern und mit Vollmacht an Grimm zu schicken",
+    "lines": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "In Trąbczyn werden Befehle gegen seinen Plan gegeben; 100 Scheffel Korn verliehen, großer Teil der Äcker besät",
+    "lines": [
+     22,
+     23,
+     24,
+     25,
+     26
+    ],
+    "check": "overstated",
+    "why": "Zeile 22 sagt 'höhre ich': Triebenfeld gibt nur weiter, was er gehört hat. Die Zusammenfassung stellt es als Tatsache dar."
+   },
+   {
+    "statement": "Wagenbruch; er will nach der Reparatur nach Trąbczyn eilen",
+    "lines": [
+     4,
+     6,
+     7,
+     27
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "verarbeiten",
+    "note": "probably 'vorarbeiten' or similar; unclear what Grimm is to do for v. Radzinski"
+   },
+   {
+    "line": 25,
+    "word": "einen denen",
+    "note": "garbled; possibly 'einen Scheffel' / 'etwas davon'"
+   },
+   {
+    "line": 6,
+    "word": "reparien",
+    "note": "probably 'Reparirung/repariren'"
+   },
+   {
+    "line": 28,
+    "word": "den",
+    "note": "probably 'dann'"
+   },
+   {
+    "line": 29,
+    "word": "Ehrfurchtsvoll",
+    "note": "closing formula differs from the usual 'In tiefster Ehrfurcht ersterbe'; not changed"
+   }
+  ],
+  "read_against": "ee429ade5033bc06"
+ }
 }

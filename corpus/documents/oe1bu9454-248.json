@@ -326,5 +326,97 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass der Fürst Kanzler den besten Willen hat und Minister v. Humboldt die Sache des Fürsten eifrig betreibt. Die Curischen Erben haben den König um Befriedigung gebeten; der König will die Sache nach seiner Rückkehr erledigen. Graf Winzingerode will für Fürst August 100000 Rthl nach dem Testament der Fürstin Sacken aus den Einkünften von Sławięcice und Lasowice fordern; Triebenfeld entgegnet, sie sei nur lebenslange Besitzerin gewesen. Wegen Warschau ruht die Trąbczyner und Kamionnaer Sache."
+ "summary_de": "Triebenfeld berichtet, dass der Fürst Kanzler den besten Willen hat und Minister v. Humboldt die Sache des Fürsten eifrig betreibt. Die Curischen Erben haben den König um Befriedigung gebeten; der König will die Sache nach seiner Rückkehr erledigen. Graf Winzingerode will für Fürst August 100000 Rthl nach dem Testament der Fürstin Sacken aus den Einkünften von Sławięcice und Lasowice fordern; Triebenfeld entgegnet, sie sei nur lebenslange Besitzerin gewesen. Wegen Warschau ruht die Trąbczyner und Kamionnaer Sache.",
+ "reading": {
+  "letter": "248",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Vienna (Congress) to Prince Hohenlohe-Ingelfingen. Optimistic: Hardenberg well-disposed, Humboldt active. Curische heirs petitioned the King; King will settle after his return. Winzingerode preparing petition for Fürst August for 100000 rt under testament of Fürstin Sacken from revenues of majorat estates Schlawenschitz and Lasswitz; Triebenfeld objects she was only life holder (postscript: act of 1799 makes old Fürst the real owner). Warsaw question undecided, so Trąbczyn and Kamionna matter rests. Rumour of French 200,000 men over the Rhine denied; unrest in Baden/Württemberg; monarchs leave in 18 days.",
+  "claims": [
+   {
+    "statement": "Fürst Kanzler und Minister v. Humboldt betreiben die Sache eifrig",
+    "lines": [
+     5,
+     6
+    ],
+    "check": "overstated",
+    "why": "Z. 5-6: Der Fürst Kanzler 'hat den besten Willen', nur Humboldt ist 'äußerst thätig'. Der Eifer passt nur zu Humboldt."
+   },
+   {
+    "statement": "Curische Erben haben den König um Befriedigung gebeten",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "König will die Sache nach seiner Rückkehr erledigen",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Winzingerode will für Fürst August 100000 Rthl nach Testament der Fürstin Sacken aus Einkünften von Schlawenschitz und Lasswitz fordern",
+    "lines": [
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Triebenfeld entgegnet, sie sei nur lebenslange Besitzerin gewesen",
+    "lines": [
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Wegen Warschau ruht die Trąbczyner und Kamionnaer Sache",
+    "lines": [
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "Gerücht über 200000 Mann Franzosen über den Rhein grundlos",
+    "lines": [
+     40,
+     41,
+     42,
+     43
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 25,
+    "word": "Quest",
+    "note": "unclear, perhaps a misreading of an estate name or 'quaest.'"
+   },
+   {
+    "line": 33,
+    "word": "laas",
+    "note": "perhaps 'Loos' (lot)"
+   },
+   {
+    "line": 40,
+    "word": "Brink",
+    "note": "likely misreading, e.g. 'Lärm'"
+   },
+   {
+    "line": 53,
+    "word": "gusten",
+    "note": "likely 'gunsten'"
+   },
+   {
+    "line": 41,
+    "word": "Marschin,",
+    "note": "probably 'marschiren'"
+   }
+  ],
+  "read_against": "d02114ecbaa47025"
+ }
 }

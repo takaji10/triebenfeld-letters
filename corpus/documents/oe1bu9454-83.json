@@ -359,5 +359,107 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld meldet, Krotoszyn werde dem Fürsten sicher überlassen. Bei Polajewo gebe es noch Bedenken, doch Geh. Finanzrat Schulze versichere, auch dies sei zu erhalten; dort seien 100/m Rthl zu gewinnen, trotz Widerstand der Kammern. Er bittet, Prinz George, falls dieser früher eintreffe, aufzuhalten, bis er selbst kommt. Hoym sei nach Pommern gereist, Voss komme Donnerstag zurück. Triebenfeld hat an Voss, Schulze, Beyme und den Obersten geschrieben. Dazu Gerüchte: Repnin habe einen Ukas erhalten, die Franzosen wollten Hannover nehmen."
+ "summary_de": "v. Triebenfeld meldet, Krotoszyn werde dem Fürsten sicher überlassen. Bei Polajewo gebe es noch Bedenken, doch Geh. Finanzrat Schulze versichere, auch dies sei zu erhalten; dort seien 100/m Rthl zu gewinnen, trotz Widerstand der Kammern. Er bittet, Prinz George, falls dieser früher eintreffe, aufzuhalten, bis er selbst kommt. Hoym sei nach Pommern gereist, Voss komme Donnerstag zurück. Triebenfeld hat an Voss, Schulze, Beyme und den Obersten geschrieben. Dazu Gerüchte: Repnin habe einen Ukas erhalten, die Franzosen wollten Hannover nehmen.",
+ "reading": {
+  "letter": "83",
+  "legibility": "sound",
+  "notes": "v. Triebenfeld writes from Berlin to Prince Hohenlohe-Ingelfingen about an exchange of estates. He reports that Krotoszyn is as good as granted, while Polajewo still meets hesitation; Geh. Finanz Rath Schulze has given assurances, and Polajewo could bring 100/m rt. He is worried that Prinz George will reach Breslau before him and asks the Prince to hold him there. Hoym has gone to Pommern, Voss returns Thursday, and Triebenfeld has written to Voss, Schulze, Beyme and the Oberst. The postscript carries court rumours: the King in a bad mood, Repnin under a ukase, Mencke active again, and a claim that the French want Hannover. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Krotoszyn wird dem Fürsten sicher gegeben",
+    "lines": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Bedenken wegen Polajewo, Schulze versichert, auch dies sei zu erhalten",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "bei Polajewo 100/m Rthl zu gewinnen, Hindernisse mit den Kammern",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "bittet, Prinz George aufzuhalten, bis er kommt",
+    "lines": [
+     21,
+     22,
+     23,
+     25,
+     26
+    ],
+    "check": "overstated",
+    "why": "Z. 25-26: Die Bitte ist bedingt ('Solte der Prinz ... eher als ich eintreffen'). Der Ort des Aufhaltens ist unklar (der entstellte Ausdruck 'in das Forte'). Dass der Prinz in Breslau aufgehalten werden soll, sagt der Brief nicht ausdrücklich."
+   },
+   {
+    "statement": "Hoym nach Pommern gereist, Voss kommt Donnerstag zurück",
+    "lines": [
+     34,
+     36
+    ]
+   },
+   {
+    "statement": "Schreiben an Voss, Schulze, Beyme und den Obersten",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Gerücht über Repnin und Ukas",
+    "lines": [
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "statement": "Gerücht, die Franzosen wollten Hannover nehmen",
+    "lines": [
+     65,
+     66
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Suprenstis",
+    "note": "not German; the word naming the possessions offered in exchange is unreadable"
+   },
+   {
+    "line": 24,
+    "word": "bei",
+    "note": "probably 'bin'"
+   },
+   {
+    "line": 28,
+    "word": "Präflorey",
+    "note": "probably 'Prahlerey'"
+   },
+   {
+    "line": 37,
+    "word": "sind",
+    "note": "probably 'sein'"
+   },
+   {
+    "line": 68,
+    "word": "um",
+    "note": "probably 'ein'"
+   }
+  ],
+  "read_against": "b6f107a977fab9f8"
+ }
 }

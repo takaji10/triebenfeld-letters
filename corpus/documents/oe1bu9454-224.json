@@ -370,5 +370,106 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber verhandelt über den Verkauf der Zagórówer Güter an General Schimmelpfennig, der sie für 200/m Rthl erhalten will. Dessen Schwiegersöhne Rittmeister von Kotzow und v. Johnston sollen die Güter mit Lieutenant Sommer besichtigen. Zahlungsplan: Güter Seliz und Modzewo für 110/m, das Gut Goła Wieś, 66000 Rthl in Pfandbriefen al pari, Rest bar oder in schlesischen Pfandbriefen. Der Verkauf an Weigel und Stössel ist laut Rittmeister v Stössel auf Rusinowice gescheitert. Der Adressat soll die Prozesse beenden."
+ "summary_de": "Der Schreiber verhandelt über den Verkauf der Zagórówer Güter an General Schimmelpfennig, der sie für 200/m Rthl erhalten will. Dessen Schwiegersöhne Rittmeister von Kotzow und v. Johnston sollen die Güter mit Lieutenant Sommer besichtigen. Zahlungsplan: Güter Seliz und Modzewo für 110/m, das Gut Goła Wieś, 66000 Rthl in Pfandbriefen al pari, Rest bar oder in schlesischen Pfandbriefen. Der Verkauf an Weigel und Stössel ist laut Rittmeister v Stössel auf Rusinowice gescheitert. Der Adressat soll die Prozesse beenden.",
+ "reading": {
+  "letter": "224",
+  "legibility": "partly garbled",
+  "notes": "Writer (owner of the Zagorower Güter, \"meine Güter\") to a Hochwohlgeb. agent. General Schimmelpfennig wants the Zagorów estates at 200/m rt; will send sons-in-law Rittmeister v. Kotzow and v. Johnston with Lieut. Sommer after holidays. Payment plan: Seliz and Modzewo for 110/m, Goła Wieś (Johnston, 6000 rt), 66000 rt Pfandbriefe of the Generalin al pari, rest cash/Silesian Pfandbriefe/mortgages. Weigel/Stössel sale failed per Rittmeister v Stössel of Rusinowice. Urges ending lawsuits; Estaffette to Öhringen for son. Sender/recipient unidentified: do not name.",
+  "claims": [
+   {
+    "statement": "Verkauf der Zagórówer Güter an General Schimmelpfennig, der sie für 200/m Rthl erhalten will",
+    "lines": [
+     7,
+     8,
+     9,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Schwiegersöhne Rittmeister von Kotzow und v. Johnston sollen mit Lieutenant Sommer die Güter besichtigen",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Zahlungsplan: Seliz und Modzewo für 110/m, Goła Wieś, 66000 Rthl Pfandbriefe al pari, Rest bar oder schlesische Pfandbriefe",
+    "lines": [
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     33
+    ]
+   },
+   {
+    "statement": "Verkauf an Weigel und Stössel laut Rittmeister v Stössel auf Rusinowice gescheitert",
+    "lines": [
+     74,
+     75,
+     76,
+     79,
+     80,
+     84,
+     88,
+     89
+    ]
+   },
+   {
+    "statement": "Adressat soll die Prozesse beenden",
+    "lines": [
+     92,
+     93,
+     94
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Toten",
+    "note": "probably 'Boten'"
+   },
+   {
+    "line": 30,
+    "word": "Achtpreußischen",
+    "note": "probably 'Westpreußischen'"
+   },
+   {
+    "line": 75,
+    "word": "geneigt",
+    "note": "probably 'gelingt'"
+   },
+   {
+    "line": 91,
+    "word": "Pfaden",
+    "note": "probably 'Faden'"
+   },
+   {
+    "line": 68,
+    "word": "Eerwir",
+    "note": "garbled, likely 'Ew. Hochw.'"
+   },
+   {
+    "line": 90,
+    "word": "nöthiges",
+    "note": "likely 'nöthiger'"
+   },
+   {
+    "line": 100,
+    "word": "Küsten",
+    "note": "garbled, perhaps 'Rüsten'"
+   }
+  ],
+  "read_against": "c146262d6e26c021"
+ }
 }

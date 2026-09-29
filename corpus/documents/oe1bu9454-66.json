@@ -557,5 +557,171 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld erwartet, dass die falschen Denuncianten 6 Jahre Festungsstrafe erhalten und die Aufwiegler ausgewiesen werden. Honrichs' Forderung an Hecker übersteigt dessen Caution dreifach. Bitten der Collonisten und Bauern um Zinsnachlass seien abzuweisen. Für Garczynski, Zakrzewski und Brzechffa lässt er drei Böcke schießen. Die Schiffer Kulawy und Neumann halten etliche 70 Centner Eisen wegen 243 Rthl 14 sg Frachtlohn fest; er bittet um die Quittungen. Der Trąbczyner Prozess wird viel kosten. Coste würde 2000 Centner Schieneisen mit 8000 Rthl bezahlen."
+ "summary_de": "Triebenfeld erwartet, dass die falschen Denuncianten 6 Jahre Festungsstrafe erhalten und die Aufwiegler ausgewiesen werden. Honrichs' Forderung an Hecker übersteigt dessen Caution dreifach. Bitten der Collonisten und Bauern um Zinsnachlass seien abzuweisen. Für Garczynski, Zakrzewski und Brzechffa lässt er drei Böcke schießen. Die Schiffer Kulawy und Neumann halten etliche 70 Centner Eisen wegen 243 Rthl 14 sg Frachtlohn fest; er bittet um die Quittungen. Der Trąbczyner Prozess wird viel kosten. Coste würde 2000 Centner Schieneisen mit 8000 Rthl bezahlen.",
+ "reading": {
+  "letter": "66",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld, writing from Kontop, to the Prince. This is the continuation of doc. 63 on the Polish affairs. Expected verdict: the false denunciators get 6 years' fortress, the instigators are expelled. Hecker: Honrichs has a claim against him three times his paper caution. Colonists and old peasants begging for remission of interest should be refused; arrears count at a sale. Three bucks to be shot for Garczynski, Zakrzewski and Brzechffa. If things go well Honrichs gets the Casse back at New Year and the administration ends. Political rumours (King, Paris, Napoleon ill, Poles ordered back to Galicia). Postscript: iron held by the boatmen Kulawy and Neumann over freight; he asks for the receipts. Lawsuit costs (Trąbczyn, Niedźwiecki, Ostarszewski). Proposes delivery of 2000 Centner of rail iron for 8000 rt, with Coste paying.",
+  "claims": [
+   {
+    "statement": "Urteil erwartet: falsche Denuncianten 6 Jahre Festung, Aufwiegler ausgewiesen",
+    "lines": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Honrichs' Forderung an Hecker übersteigt Caution dreifach",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Bitten der Collonisten und Bauern um Zinsnachlass abweisen",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "drei Böcke für Garczynski, Zakrzewski, Brzechffa",
+    "lines": [
+     24,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Kulawy und Neumann halten etliche 70 Centner Eisen wegen Frachtlohn 243 Rthl 14 sg fest",
+    "lines": [
+     77,
+     78,
+     82
+    ]
+   },
+   {
+    "statement": "bittet um Quittungen",
+    "lines": [
+     87,
+     88,
+     89,
+     104
+    ]
+   },
+   {
+    "statement": "Trąbczyner Prozess wird viel kosten",
+    "lines": [
+     99,
+     100,
+     101
+    ]
+   },
+   {
+    "statement": "Coste würde 2000 Centner Schieneisen mit 8000 Rthl bezahlen",
+    "lines": [
+     105,
+     106,
+     107,
+     108
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "Niemann",
+    "note": "probably 'Niemand' (nobody pays)"
+   },
+   {
+    "line": 24,
+    "word": "Weh",
+    "note": "probably 'Reh' (Rehböcke)"
+   },
+   {
+    "line": 33,
+    "word": "unter des",
+    "note": "perhaps 'Indes'; 'schmerz' garbled"
+   },
+   {
+    "line": 44,
+    "word": "Seat",
+    "note": "perhaps 'Stich'"
+   },
+   {
+    "line": 45,
+    "word": "Executent",
+    "note": "garbled, perhaps 'Existenz'"
+   },
+   {
+    "line": 53,
+    "word": "Tischlinge",
+    "note": "garbled"
+   },
+   {
+    "line": 62,
+    "word": "Müßen",
+    "note": "probably 'Rußen'"
+   },
+   {
+    "line": 64,
+    "word": "Coste worden hält",
+    "note": "garbled passage"
+   },
+   {
+    "line": 80,
+    "word": "Centy",
+    "note": "probably 'Centner'"
+   },
+   {
+    "line": 85,
+    "word": "Neasal[?]",
+    "note": "probably Neusalz (line 78)"
+   },
+   {
+    "line": 86,
+    "word": "benomtade",
+    "note": "garbled, perhaps 'verfrachtet'"
+   },
+   {
+    "line": 91,
+    "word": "zu wäre",
+    "note": "perhaps 'rar'"
+   },
+   {
+    "line": 92,
+    "word": "verschüste",
+    "note": "probably 'Vorschüsse'"
+   },
+   {
+    "line": 97,
+    "word": "gemeinen",
+    "note": "probably 'genommen'"
+   },
+   {
+    "line": 98,
+    "word": "Burggreßen",
+    "note": "probably 'Burgrafen'"
+   },
+   {
+    "line": 101,
+    "word": "Bebt",
+    "note": "reading uncertain"
+   },
+   {
+    "line": 70,
+    "word": "Hochachtung",
+    "note": "the usual closing formula has 'Ehrfurcht'"
+   }
+  ],
+  "read_against": "cf6653ef68d28263"
+ }
 }

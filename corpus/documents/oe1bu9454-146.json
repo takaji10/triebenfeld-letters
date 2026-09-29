@@ -457,5 +457,108 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, die Mennonisten wollten die Güter Zagórów und Trąbczyn im Ganzen kaufen; er will morgen nach Lunau reisen. Die Taxation stockt wegen Glencks Contract vom 5. Sept. über 300 Morgen Dominalgründe und seines Verkaufs der Komornitzen in Wrąbczyn an v Malachowski; die Gemeinde protestiert. Er erbittet Reverse Glencks sowie die Contracte der Müllerin aus Wrąbczyn und der Swięcier Hauländer. Gegen eine Execution über 6500 Rthl wegen Przespolewski hat er Einspruch eingelegt."
+ "summary_de": "Triebenfeld berichtet, die Mennonisten wollten die Güter Zagórów und Trąbczyn im Ganzen kaufen; er will morgen nach Lunau reisen. Die Taxation stockt wegen Glencks Contract vom 5. Sept. über 300 Morgen Dominalgründe und seines Verkaufs der Komornitzen in Wrąbczyn an v Malachowski; die Gemeinde protestiert. Er erbittet Reverse Glencks sowie die Contracte der Müllerin aus Wrąbczyn und der Swięcier Hauländer. Gegen eine Execution über 6500 Rthl wegen Przespolewski hat er Einspruch eingelegt.",
+ "reading": {
+  "letter": "146",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Trąbczyn to the Prince. A letter from Pankratz, a Mennonite elder, is enclosed: the Mennonites want to buy the Zagórów and Trąbczyn estates as a whole. Triebenfeld will travel to Lunau. The valuation commission is held up by Glenck's contract of 5 Sept (300 Morgen of demesne land), by his sale of the Komornitzen in Wrąbczyn to v Malachowski, and by a protest from the Gemeinde. He asks for Glenck's reverses and for the contracts of the miller's wife and of the Swięcia Hauländer. He also complains about the fields having been sown, about the surveyors, Wollenhaupt and Landrath v Blomberg. He has lodged an objection to a 6500 rt execution in the Przespolewski matter. Postscript on Radzinski and the disordered registry.",
+  "claims": [
+   {
+    "statement": "Nach dem beigelegten Schreiben des Pankratz wollen die Mennonisten die Güter Zagórów und Trąbczyn im Ganzen kaufen",
+    "lines": [
+     4,
+     5,
+     6,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Laut dem beigelegten Schreiben werden die Mennonisten nur allgemein kaufen (Z. 4-6). Dass sie die Güter Zagórów und Trąbczyn im Ganzen kaufen wollen, stammt aus einer mündlichen Versicherung des Pankratz gegenüber dem alten Kreisboten (Z. 9-12), nicht aus dem Schreiben."
+   },
+   {
+    "statement": "Er will morgen nach Lunau reisen",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Die Taxation stockt wegen Glencks Contract vom 5. Sept. über 300 Morgen Dominalgründe und dessen Verkauf der Komornitzen in Wrąbczyn an v Malachowski; die Gemeinde protestiert",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Er erbittet Reverse Glencks sowie die Contracte der Müllerin aus Wrąbczyn und der Swięcier Hauländer",
+    "lines": [
+     34,
+     35,
+     36,
+     37,
+     40,
+     41,
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Gegen eine Execution über 6500 Rthl wegen Przespolewski hat er Einspruch eingelegt",
+    "lines": [
+     78,
+     79,
+     80
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 47,
+    "word": "Wird",
+    "note": "The sense is unclear, possibly a misreading (Preis?)."
+   },
+   {
+    "line": 60,
+    "word": "fäulste",
+    "note": "Possibly misread; the sentence is garbled."
+   },
+   {
+    "line": 19,
+    "word": "Als den ist ihnen",
+    "note": "The syntax is unclear."
+   },
+   {
+    "line": 92,
+    "word": "Sentachen",
+    "note": "Probably misread (Senatoren? Sachen?)."
+   },
+   {
+    "line": 93,
+    "word": "[?]uft",
+    "note": "The passage is garbled."
+   },
+   {
+    "line": 73,
+    "word": "Cassen zu lernen",
+    "note": "Possibly 'kennen' or another word."
+   }
+  ],
+  "read_against": "93de355a39d47c3b"
+ }
 }

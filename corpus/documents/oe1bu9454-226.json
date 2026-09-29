@@ -350,5 +350,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hält den Tauschplan mit General Schimmelpfennig für gescheitert oder durch Hindernisse aufgehalten, da weder Sommer noch der General eingetroffen sind. Er übersendet ein Schreiben des Grafen Wartensleben: Es komme lediglich auf ein Schreiben des Fürsten an Stössel an, wonach Stössel und Weigel nur durch die Güter im Herzogtum Warschau befriedigt werden könnten. Der Prefect verlangt die Originalurkunde über Zagórów, sonst droht die Konfiskation. Er fragt, ob der Prozess um die Trąbczyner Güter fortgesetzt werden soll."
+ "summary_de": "Triebenfeld hält den Tauschplan mit General Schimmelpfennig für gescheitert oder durch Hindernisse aufgehalten, da weder Sommer noch der General eingetroffen sind. Er übersendet ein Schreiben des Grafen Wartensleben: Es komme lediglich auf ein Schreiben des Fürsten an Stössel an, wonach Stössel und Weigel nur durch die Güter im Herzogtum Warschau befriedigt werden könnten. Der Prefect verlangt die Originalurkunde über Zagórów, sonst droht die Konfiskation. Er fragt, ob der Prozess um die Trąbczyner Güter fortgesetzt werden soll.",
+ "reading": {
+  "letter": "226",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Blizanow to the Prince, answering his letter with its enclosures. Neither his first messenger, nor Sommer, nor General Schimmelpfennig has arrived, so he thinks the exchange plan with Schimmelpfennig has failed. He sends by express a letter from Graf Wartensleben about settling with Stössel and Weigel through the estates in the Duchy of Warsaw. He defends himself at length against the Prince's reproach about the lawsuits and the missing money. The Prefect wants the original deed for the Zagórów estates, or the estates will be confiscated. He asks whether the Trąbczyn lawsuit should go on.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hält den Tauschplan mit General Schimmelpfennig für gescheitert, da weder Sommer noch der General eingetroffen sind.",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "check": "overstated",
+    "why": "Er schreibt, er müsse glauben, der Plan sei gescheitert ODER es stünden Hindernisse im Weg, die erst beseitigt werden müssten. Die Zeilen 6-10 lassen also beides offen."
+   },
+   {
+    "statement": "Er übersendet ein Schreiben des Grafen Wartensleben: Stössel will über eine Befriedigung von sich und Weigel durch die Güter im Herzogtum Warschau verhandeln, wenn der Fürst ihm schreibt.",
+    "lines": [
+     18,
+     19,
+     20,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ],
+    "check": "overstated",
+    "why": "Laut dem Schreiben kommt es lediglich auf einen Brief des Fürsten an Stössel an. Stössel würde nur dann ersucht, mit Triebenfeld zu verhandeln, wenn ihm dies genehm wäre. Dass er verhandeln will, steht dort nicht."
+   },
+   {
+    "statement": "Triebenfeld weist Vorwürfe wegen ausbleibender Gelder und der Prozesse zurück.",
+    "lines": [
+     34,
+     35,
+     37,
+     38,
+     52,
+     53
+    ]
+   },
+   {
+    "statement": "Der Prefect verlangt die Originalurkunde über Zagórów, sonst droht die Konfiskation.",
+    "lines": [
+     61,
+     62,
+     63,
+     64
+    ]
+   },
+   {
+    "statement": "Er fragt, ob der Prozess um die Trąbczyner Güter fortgesetzt werden soll.",
+    "lines": [
+     66,
+     67,
+     68
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Wann ind es",
+    "note": "garbled; probably 'Da nun weder' or similar"
+   },
+   {
+    "line": 61,
+    "word": "Prefectus",
+    "note": "probably 'Prefectur'"
+   },
+   {
+    "line": 62,
+    "word": "Betsche",
+    "note": "unclear in 'die über Trąbczyn Betsche ist hier'; maybe a misreading"
+   },
+   {
+    "line": 44,
+    "word": "Gros sprechen haben zu Rittern",
+    "note": "garbled; probably 'Großsprecher haben zu Anfang'"
+   },
+   {
+    "line": 47,
+    "word": "Preischer Leidsum",
+    "note": "garbled"
+   },
+   {
+    "line": 39,
+    "word": "Ung zu",
+    "note": "garbled"
+   },
+   {
+    "line": 10,
+    "word": "getörten",
+    "note": "probably 'getreten'"
+   },
+   {
+    "line": 35,
+    "word": "Begüterse.",
+    "note": "probably 'Begütertsten'"
+   }
+  ],
+  "read_against": "f94d1df34126c8b0"
+ }
 }

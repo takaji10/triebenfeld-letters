@@ -460,5 +460,105 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld fleht den Fürsten an, die 600 Centner Eisen (300 Stab- und Reifeneisen, 300 Schieneisen) bis zum 23. April nach Bojadła statt Ende Mai nach Opole zu liefern. Michaelis sei Lieferung am 1. Mai in Berlin zugesagt, bei 500 Rthl Strafe und einem Wechsel über 2400 Rthl. Von der Lahr biete 5 1/2 Rthl pro Centner, solle 6 Rthl annehmen. Triebenfeld will die in Zagórów assignierten 4000 Rthl beschaffen. Gegen eine angebliche Drohung Weigels schütze das Generalmoratorium bis Johanni 1810."
+ "summary_de": "Triebenfeld fleht den Fürsten an, die 600 Centner Eisen (300 Stab- und Reifeneisen, 300 Schieneisen) bis zum 23. April nach Bojadła statt Ende Mai nach Opole zu liefern. Michaelis sei Lieferung am 1. Mai in Berlin zugesagt, bei 500 Rthl Strafe und einem Wechsel über 2400 Rthl. Von der Lahr biete 5 1/2 Rthl pro Centner, solle 6 Rthl annehmen. Triebenfeld will die in Zagórów assignierten 4000 Rthl beschaffen. Gegen eine angebliche Drohung Weigels schütze das Generalmoratorium bis Johanni 1810.",
+ "reading": {
+  "letter": "54",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Glogau to the Prince. The Ober Post Amt held back the 100 Fr. d'or until he had paid postage and 480 rt, so the Prince's letter of 3 Feb arrived late. The Prince's news that the 600 Centner of iron will reach Oppeln only at the end of May dismays him, because he promised Michaelis delivery in Berlin on 1 May (bill of exchange for 2400 rt, penalty 500 rt). He begs for the iron to be at Boyadel by 23 April. Van der Lahr offers 5 1/2 rthl per Centner and should accept 6 rt. Triebenfeld means to obtain the 4000 rt assigned in Zagorowo. On Weigel: the general moratorium protects the Prince until Johanni 1810. Several garbled passages in lines 32-38 and 71-72.",
+  "claims": [
+   {
+    "statement": "Bittet um die 600 Centner Eisen (300 Stab- und Reifeneisen, 300 Schieneisen) bis 23. April in Bojadła statt Ende Mai in Opole",
+    "lines": [
+     11,
+     12,
+     20,
+     21,
+     22,
+     23,
+     59,
+     60
+    ]
+   },
+   {
+    "statement": "Lieferung an Michaelis am 1. Mai in Berlin zugesagt, Wechsel über 2400 Rthl, Strafe 500 Rthl",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Von der Lahr bietet 5 1/2 Rthl pro Centner, soll 6 Rthl annehmen",
+    "lines": [
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "Will die in Zagórów assignierten 4000 Rthl beschaffen",
+    "lines": [
+     46,
+     47,
+     68,
+     69
+    ]
+   },
+   {
+    "statement": "Weigel droht, Generalmoratorium schützt bis Johanni 1810",
+    "lines": [
+     51,
+     52,
+     53
+    ],
+    "check": "overstated",
+    "why": "The threat is hearsay. Hofrat Hahn writes that Weigel is threatening (line 51), and the summary states it as fact. The moratorium part is supported (line 53)."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 72,
+    "word": "ſchnke",
+    "note": "probably 'schicke'"
+   },
+   {
+    "line": 32,
+    "word": "würt",
+    "note": "probably 'Wort'"
+   },
+   {
+    "line": 34,
+    "word": "haupt",
+    "note": "probably 'hängt'"
+   },
+   {
+    "line": 35,
+    "word": "gelaufe",
+    "note": "garbled, perhaps 'hebe auf'"
+   },
+   {
+    "line": 80,
+    "word": "Bruch",
+    "note": "probably 'Brief'"
+   },
+   {
+    "line": 22,
+    "word": "Rt",
+    "note": "context suggests 'Cent.', but it is a unit attached to a figure, so not changed"
+   },
+   {
+    "line": 72,
+    "word": "man",
+    "note": "perhaps 'statt'"
+   },
+   {
+    "line": 10,
+    "word": "laucht",
+    "note": "repeats the end of 'Durchlaucht' at the line break"
+   }
+  ],
+  "read_against": "81d6770b0c629524"
+ }
 }

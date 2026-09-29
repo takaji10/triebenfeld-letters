@@ -388,5 +388,120 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld betreibt die Ablösung der Forderung des v. Grotowski: Weigel sichert ihm gegen Garantie Triebenfelds 30/m Rthl samt Zinsen zu. Die Banque discontirt aber erst nach gerichtlicher Cession, deren Instrument Hoffrath Ebersbach entworfen hat. Der Fürst soll Weigels Brief per Expressen an Grotowski schicken. Grotowskis Mandatarius in Kalisz soll der Regierung melden, dass keine Subhastation mehr anstehe. Dazu: Tod des Hauptmanns v Müllern und Morgenbeßers, Nelsons Sieg, Jubel in Wien, Bernhardis Brief an Stössel."
+ "summary_de": "Triebenfeld betreibt die Ablösung der Forderung des v. Grotowski: Weigel sichert ihm gegen Garantie Triebenfelds 30/m Rthl samt Zinsen zu. Die Banque discontirt aber erst nach gerichtlicher Cession, deren Instrument Hoffrath Ebersbach entworfen hat. Der Fürst soll Weigels Brief per Expressen an Grotowski schicken. Grotowskis Mandatarius in Kalisz soll der Regierung melden, dass keine Subhastation mehr anstehe. Dazu: Tod des Hauptmanns v Müllern und Morgenbeßers, Nelsons Sieg, Jubel in Wien, Bernhardis Brief an Stössel.",
+ "reading": {
+  "letter": "117",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Breslau to the Prince about a Grotowski credit. Weigel, backed by Triebenfeld's guarantee, is to pay Grotowski 30/m rt plus interest. First Grotowski must execute a cession instrument in court, which Hoffrath Ebersbach has drafted, because the Banque will not discount before that. The Prince is asked to forward Weigel's letter to Grotowski by express. The letter also reports the deaths of Hauptmann v Müllern and of Morgenbeßer, gives news of Nelson and the mood in Vienna, and says Bernhardi has written to Stössel. In the postscript, Grotowski is to tell his Mandatarius in Kalisz to inform the Regierung that he is satisfied, so that there is no further talk of Subhastation, all before the 22nd. The estates are not mentioned.",
+  "claims": [
+   {
+    "statement": "Weigel sichert gegen Garantie Triebenfelds v. Grotowski 30/m Rthl samt Zinsen zu",
+    "lines": [
+     4,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Banque discontirt erst nach Cession; gerichtliches Cessions Instrument über 30/m Rthl nötig",
+    "lines": [
+     5,
+     6,
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Hoffrath Ebersbach hat das Instrument entworfen",
+    "lines": [
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Fürst soll Weigels Brief per Expressen an Grotowski schicken",
+    "lines": [
+     17,
+     18,
+     19,
+     20,
+     62,
+     63,
+     64
+    ]
+   },
+   {
+    "statement": "Mandatarius in Kalisz soll der Regierung melden, dass keine Subhastation mehr anstehe",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58
+    ]
+   },
+   {
+    "statement": "Tod des Hauptmanns v Müllern und Morgenbeßers",
+    "lines": [
+     21,
+     28
+    ]
+   },
+   {
+    "statement": "Nelsons Sieg über die Franzosen von Toulon, Jubel in Wien",
+    "lines": [
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "statement": "Bernhardi hat an Stössel geschrieben",
+    "lines": [
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 17,
+    "word": "derstest",
+    "note": "garbled, perhaps 'schleunigst' or similar"
+   },
+   {
+    "line": 37,
+    "word": "Siderung",
+    "note": "probably 'Sidney' (Sidney Smith)"
+   },
+   {
+    "line": 36,
+    "word": "Höff",
+    "note": "probably 'Hof'"
+   },
+   {
+    "line": 40,
+    "word": "Willens Mann",
+    "note": "probably 'Willensmeinung'"
+   },
+   {
+    "line": 63,
+    "word": "ziemachen",
+    "note": "probably 'zuzumachen'/'zumachen'"
+   },
+   {
+    "line": 51,
+    "word": "müßen",
+    "note": "probably 'möge' or 'müße'"
+   }
+  ],
+  "read_against": "18727ae2a848ac44"
+ }
 }

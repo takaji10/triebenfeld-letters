@@ -167,5 +167,70 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Bally erinnert von Triebenfeld an das Treffen, das dieser ihm bei der Begegnung mit Hoffrath Hahn in Łosiów bei Brzeg versprochen hatte. Er vermutet ihn wieder in Wrocław und fragt, ob und wann er ihm dort aufwarten könne, da sein Herr (Durchlaucht) danach gefragt habe. Er hat gehört, dass auch in Sławięcice französische Einquartierung kommen soll. Dann könne er nicht fort, schlimmer noch, wenn er die Stallungen räumen müsse. Er hofft auf ein baldiges Gespräch."
+ "summary_de": "Bally erinnert von Triebenfeld an das Treffen, das dieser ihm bei der Begegnung mit Hoffrath Hahn in Łosiów bei Brzeg versprochen hatte. Er vermutet ihn wieder in Wrocław und fragt, ob und wann er ihm dort aufwarten könne, da sein Herr (Durchlaucht) danach gefragt habe. Er hat gehört, dass auch in Sławięcice französische Einquartierung kommen soll. Dann könne er nicht fort, schlimmer noch, wenn er die Stallungen räumen müsse. Er hofft auf ein baldiges Gespräch.",
+ "reading": {
+  "letter": "29",
+  "legibility": "partly garbled",
+  "notes": "Bally writes from Sławięcice to Krieges Rath von Triebenfeld. At their meeting with Hoffrath Hahn in Łosiów near Brzeg, Triebenfeld promised a rendezvous, apparently after his return from Memel. Bally supposes he is back in Wrocław and asks whether and when he may call on him, because his gracious lord (Durchlaucht) has asked about it. He has heard that French troops are to be billeted in Sławięcice too, which would keep him from leaving, and it would be worse if he had to clear the stables. He hopes to speak with him soon. Nothing on Trąbczyn. Some garbled phrases: lines 6, 10, 17, 20.",
+  "claims": [
+   {
+    "statement": "Bally erinnert an das bei der Begegnung mit Hoffrath Hahn in Łosiów bei Brzeg versprochene Treffen",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "vermutet ihn wieder in Wrocław, fragt ob und wann er aufwarten könne, da sein Herr danach gefragt habe",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "französische Einquartierung soll auch in Sławięcice kommen; er könne dann nicht fort, schlimmer bei Räumung der Stallungen",
+    "lines": [
+     13,
+     14,
+     15,
+     16,
+     22
+    ]
+   },
+   {
+    "statement": "hofft auf baldiges Gespräch",
+    "lines": [
+     18,
+     19
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "noch",
+    "note": "probably 'nach der Retour von Memel'"
+   },
+   {
+    "line": 10,
+    "word": "durch in Breslau war",
+    "note": "garbled; perhaps 'ich in Breslau Ew. Hochwohlgeboren'"
+   },
+   {
+    "line": 20,
+    "word": "erstorben ad",
+    "note": "closing formula garbled; likely 'ersterbe'"
+   },
+   {
+    "line": 17,
+    "word": "wird",
+    "note": "subject unclear, sentence fragmentary"
+   }
+  ],
+  "read_against": "b892bdf270138154"
+ }
 }

@@ -180,5 +180,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Abschrift eines Pro Memoria, unterzeichnet von Hecker und Honrichs: Die Einleitung des Trąbczyner Prozesses in Kalisz ist besorgt, Termin am 24. Oktober. Der Anwalt sagt günstigen Ausgang zu und erhielt 200 Rthl Vorschuss. Die Sequestration der Güter ist beendet. Mit den Erbpächtern von Oleśnica wird ein Vergleich über 12 Hufen in Erbpacht empfohlen. Die Holländer halten statt 3 fl nur 2 fl pro Morgen für tragbar. v. Triebenfeld meint, Rückstände könnten teilweise erlassen werden; Knobelsdorff wolle lieber Land als Zinsen."
+ "summary_de": "Abschrift eines Pro Memoria, unterzeichnet von Hecker und Honrichs: Die Einleitung des Trąbczyner Prozesses in Kalisz ist besorgt, Termin am 24. Oktober. Der Anwalt sagt günstigen Ausgang zu und erhielt 200 Rthl Vorschuss. Die Sequestration der Güter ist beendet. Mit den Erbpächtern von Oleśnica wird ein Vergleich über 12 Hufen in Erbpacht empfohlen. Die Holländer halten statt 3 fl nur 2 fl pro Morgen für tragbar. v. Triebenfeld meint, Rückstände könnten teilweise erlassen werden; Knobelsdorff wolle lieber Land als Zinsen.",
+ "reading": {
+  "letter": "207",
+  "legibility": "sound",
+  "notes": "This is a copy of a Pro Memoria from Kalisz, signed at line 28 by Hecker and Honrichs (the estate side) and addressed to \"Ewr p\", presumably the Prince. The metadata identifies neither sender nor recipient, so the summary describes the document by its signatures. It reports four things: the Trąbczyn lawsuit has been started in Kalisz with a hearing on 24 October; the lawyer (name doubtful: Falz[?]) has been paid a 200 Rthl advance; the sequestration has ended; and there is a rumour that the King of Prussia will take back the outstanding money. It then covers a proposed settlement with the Erbpächter of Olesnica (12 Hufen) and the complaints of the peasants and Holländer about grain prices and rent per Morgen. v Triebenfeld's note at lines 30-33 is about remitting arrears, and adds that Knobelsdorff prefers land to interest.",
+  "claims": [
+   {
+    "statement": "Abschrift eines Pro Memoria, unterzeichnet von Hecker und Honrichs",
+    "lines": [
+     2,
+     4,
+     28
+    ]
+   },
+   {
+    "statement": "Einleitung des Trąbczyner Prozesses in Kalisz besorgt, Termin am 24. Oktober",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Anwalt sagt günstigen Ausgang zu und erhielt 200 Rthl Vorschuss",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     16
+    ]
+   },
+   {
+    "statement": "Sequestration der Güter beendet",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Vergleich mit Erbpächtern von Oleśnica über 12 Hufen in Erbpacht empfohlen",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Holländer mit 3 fl pro Morgen nicht zufrieden, meinen nur mit 2 fl bestehen zu können",
+    "lines": [
+     24,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "v. Triebenfeld: Rückstände könnten teilweise erlassen werden; Knobelsdorff will lieber Land als Zinsen",
+    "lines": [
+     30,
+     31,
+     32,
+     33,
+     34
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 16,
+    "word": "fremden",
+    "note": "probably 'zufrieden' (zu frieden)"
+   },
+   {
+    "line": 15,
+    "word": "Er",
+    "note": "probably 'Ewr' before durchlaucht"
+   },
+   {
+    "line": 26,
+    "word": "um",
+    "note": "fixed phrase 'an Ort und Stelle'"
+   },
+   {
+    "line": 30,
+    "word": "Bauen",
+    "note": "probably 'Bauern'; line 24 has 'Bauren'"
+   },
+   {
+    "line": 24,
+    "word": "Geträder",
+    "note": "probably 'Getreide'"
+   },
+   {
+    "line": 12,
+    "word": "günstigte",
+    "note": "probably 'günstigste' or 'günstige'"
+   },
+   {
+    "line": 31,
+    "word": "reisen",
+    "note": "possibly 'reißen' or 'ziehen'; meaning unclear"
+   },
+   {
+    "line": 10,
+    "word": "Falz[?]",
+    "note": "lawyer's name is doubtful"
+   }
+  ],
+  "read_against": "4530343d0c7cba44"
+ }
 }

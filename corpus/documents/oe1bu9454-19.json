@@ -246,5 +246,150 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld drängt auf eine Einigung mit Sobottendorff, dem der Fürst 40000 Rthl schuldet. Nach der Einigung mit Tschachmann und mit Hawich, dem er für 1300 Rthl eine Hypothek auf sein Blizanow geben muss, will er Gründe, Gebäude und Wiesen auf 18 Jahre für 36000 Rthl an Sobottendorff verpachten. Er bittet eilig um das Instrument nach seiner Vorschrift, da alles mit Arrest belegt ist und stellt dem Fürsten 4000 Rthl aus dem Witower Prozess in Aussicht, falls dieser gewonnen wird."
+ "summary_de": "Triebenfeld drängt auf eine Einigung mit Sobottendorff, dem der Fürst 40000 Rthl schuldet. Nach der Einigung mit Tschachmann und mit Hawich, dem er für 1300 Rthl eine Hypothek auf sein Blizanow geben muss, will er Gründe, Gebäude und Wiesen auf 18 Jahre für 36000 Rthl an Sobottendorff verpachten. Er bittet eilig um das Instrument nach seiner Vorschrift, da alles mit Arrest belegt ist und stellt dem Fürsten 4000 Rthl aus dem Witower Prozess in Aussicht, falls dieser gewonnen wird.",
+ "reading": {
+  "letter": "19",
+  "legibility": "partly garbled",
+  "notes": "This is Triebenfeld's appendix (\"Anhang\") to doc 18 of the same date. He pushes a plan to pay off Sobottendorff, whom the Prince owes 40000 rt, through an 18-year lease. He has come to terms with Tschachmann or Cybalski and with Hawich, and will give Hawich a mortgage on his own Blizanow for 1300 rt Abstand. He will lease the lands, buildings and meadows to Sobottendorff for 36000 rt. He urges haste and asks for the instrument exactly as he drafted it, because everything is under arrest. He needs 300 rt for the Warsaw lawsuit. He expects news on the Witów lawsuit, which would bring 4000 rt. He complains about expenses and hardship. The text is garbled in places.",
+  "claims": [
+   {
+    "statement": "Der Fürst schuldet Sobottendorff 40000 Rthl.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Einigung mit Tschachmann oder Cybalski und mit Hawich, dem er für 1300 Rthl eine Hypothek auf Blizanow geben muss.",
+    "lines": [
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Verpachtung von Gründen, Gebäuden und Wiesen an Sobottendorff auf 18 Jahre für 36000 Rthl.",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Bittet eilig um das Instrument nach seiner Vorschrift; alles ist mit Arrest belegt.",
+    "lines": [
+     26,
+     27,
+     28,
+     30,
+     31,
+     58,
+     59,
+     60,
+     61
+    ]
+   },
+   {
+    "statement": "Für den Prozess in Warschau werden 300 Rthl gebraucht.",
+    "lines": [
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "statement": "Aus dem Witower Prozess erhofft er 4000 Rthl.",
+    "lines": [
+     49,
+     50,
+     51,
+     52
+    ],
+    "check": "overstated",
+    "why": "Z. 51-52: Die 4000 rt 'baare Zinßen' bekäme der Fürst ('da bekommen Sie'), wenn der Prozess gewonnen wird. Laut Brief fließt das Geld nicht an Triebenfeld."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "vor",
+    "note": "probably 'von' (cf. line 20 'Herrn v Sobottendorff')"
+   },
+   {
+    "line": 10,
+    "word": "hinſt",
+    "note": "unclear"
+   },
+   {
+    "line": 21,
+    "word": "rt er um guter",
+    "note": "garbled, perhaps 'Ist er ein guter Wirth'"
+   },
+   {
+    "line": 29,
+    "word": "mir",
+    "note": "possibly 'nur'"
+   },
+   {
+    "line": 32,
+    "word": "fransche G.",
+    "note": "probably 'französische G[ouvernements]'"
+   },
+   {
+    "line": 39,
+    "word": "zahil",
+    "note": "garbled"
+   },
+   {
+    "line": 39,
+    "word": "Ortl.",
+    "note": "unclear"
+   },
+   {
+    "line": 41,
+    "word": "Lorenz",
+    "note": "unclear, perhaps a misreading"
+   },
+   {
+    "line": 48,
+    "word": "hätze",
+    "note": "garbled"
+   },
+   {
+    "line": 53,
+    "word": "Salz",
+    "note": "unclear whether this is a person's name"
+   },
+   {
+    "line": 55,
+    "word": "Schliefen",
+    "note": "unclear"
+   },
+   {
+    "line": 57,
+    "word": "Schweiner",
+    "note": "perhaps Świniary (Schweinern)"
+   },
+   {
+    "line": 71,
+    "word": "abhobet",
+    "note": "garbled"
+   },
+   {
+    "line": 77,
+    "word": "Sommes",
+    "note": "unclear"
+   },
+   {
+    "line": 78,
+    "word": "Drucken",
+    "note": "perhaps 'Druck'"
+   }
+  ],
+  "read_against": "efd65b295e0c20a9"
+ }
 }

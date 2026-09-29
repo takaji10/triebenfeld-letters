@@ -392,5 +392,131 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Zu Trąbczyn meldet Triebenfeld einen Vorteil: Kramplitz ist nicht erschienen, am 2. April ist ein neuer Termin angesetzt. Raczkowski und Küntzel betreiben die Sache mit Honrichs, er hält die Rückgewinnung für gewiss. Hecker, der sich verbürgt hat und bis Johanni zahlen will, bleibt wegen eines Missverständnisses des Ober Prefectus Garczynski an der Kasse; Cabanis soll ihn kontrollieren. Triebenfeld will für 6 Tage nach Berlin. Für die Sequestration seiner eigenen Güter fordert die Landschaft an 4000 Rthl Kosten."
+ "summary_de": "Zu Trąbczyn meldet Triebenfeld einen Vorteil: Kramplitz ist nicht erschienen, am 2. April ist ein neuer Termin angesetzt. Raczkowski und Küntzel betreiben die Sache mit Honrichs, er hält die Rückgewinnung für gewiss. Hecker, der sich verbürgt hat und bis Johanni zahlen will, bleibt wegen eines Missverständnisses des Ober Prefectus Garczynski an der Kasse; Cabanis soll ihn kontrollieren. Triebenfeld will für 6 Tage nach Berlin. Für die Sequestration seiner eigenen Güter fordert die Landschaft an 4000 Rthl Kosten.",
+ "reading": {
+  "letter": "70",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld schreibt aus Kontop an den Fürsten. Hecker hat sich mit Leib und Seele verbürgt und will bis Johanni alles zahlen. Wegen eines Missverständnisses des Ober Prefectus Garczynski muss Triebenfeld ihn an der Casse lassen; Cabanis soll ihm als Kontrolleur zur Seite gesetzt werden. Zu Trąbczyn: Kramplitz ist nicht erschienen, neuer Termin am 2. April; Raczkowski und Küntzel betreiben die Sache mit Honrichs; ihre Briefe liegen bei. Triebenfeld will vor Sławięcice (Schlawenschitz) für 6 Tage nach Berlin. Außerdem: Sache Colloma, Klagen gegen den König, 600 rt in ungarischem Wein. Seine eigenen Güter sind verpachtet, die Landschaft fordert an 4000 rt Sequestrationskosten. Einige Passagen sind verderbt (Z. 37, 47, 52 bis 54).",
+  "claims": [
+   {
+    "statement": "Zu Trąbczyn ein Vorteil: Kramplitz ist nicht erschienen",
+    "lines": [
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Neuer Termin am 2. April",
+    "lines": [
+     25
+    ]
+   },
+   {
+    "statement": "Raczkowski und Küntzel betreiben die Sache mit Honrichs; Rückgewinnung (Vindizierung) gewiss",
+    "lines": [
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Hecker hat sich verbürgt und will bis Johanni zahlen",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Wegen eines Missverständnisses des Ober Prefectus Garczynski bleibt Hecker an der Kasse",
+    "lines": [
+     6,
+     7,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Cabanis soll als Kontrolleur beigestellt werden",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Triebenfeld will für 6 Tage nach Berlin",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Die Landschaft fordert für die Sequestration seiner Güter an 4000 Rthl Kosten",
+    "lines": [
+     58,
+     60,
+     61,
+     62
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Heiller",
+    "note": "Name unsicher, möglicherweise verlesen"
+   },
+   {
+    "line": 13,
+    "word": "Costen",
+    "note": "Ortsname unklar"
+   },
+   {
+    "line": 23,
+    "word": "stehen",
+    "note": "wohl 'haben/sehen'"
+   },
+   {
+    "line": 33,
+    "word": "reinen",
+    "note": "wohl 'zürnen'"
+   },
+   {
+    "line": 37,
+    "word": "unerre",
+    "note": "verderbt; 'verkennen'?"
+   },
+   {
+    "line": 47,
+    "word": "Nachhandelt mann Sie zu und ankbar",
+    "note": "Passage verderbt"
+   },
+   {
+    "line": 52,
+    "word": "Leck",
+    "note": "wohl 'keck'"
+   },
+   {
+    "line": 53,
+    "word": "Rochad",
+    "note": "Name unsicher"
+   },
+   {
+    "line": 54,
+    "word": "weill bemüht ſind",
+    "note": "verderbt"
+   },
+   {
+    "line": 65,
+    "word": "Hochachtung",
+    "note": "Die Formel lautet sonst 'In tiefster Ehrfurcht'; nicht sicher"
+   },
+   {
+    "line": 19,
+    "word": "Controllens",
+    "note": "wohl 'Controlleur'"
+   }
+  ],
+  "read_against": "aa7603b5638a7d97"
+ }
 }

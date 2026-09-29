@@ -206,5 +206,113 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat Graf Schlabrendorff befriedigt; die Zinsen betrugen 11085 Rthl, die Quittung lautet auf den Fürsten, eine Deckung für ihn selbst fehlt. Bei der Fürstin wurde er dreimal nicht vorgelassen; er erwähnt ein Schreiben von Prittwitz. Glenck meldet Ungünstiges im Prusimski-Prozess; Triebenfeld würde mit den ihm anvertrauten Blanquets beim Großkanzler um Verlängerung des Termins bitten. Dazu Hofnachrichten: die Königin erholt sich, an Krieg ist nicht zu denken."
+ "summary_de": "Triebenfeld hat Graf Schlabrendorff befriedigt; die Zinsen betrugen 11085 Rthl, die Quittung lautet auf den Fürsten, eine Deckung für ihn selbst fehlt. Bei der Fürstin wurde er dreimal nicht vorgelassen; er erwähnt ein Schreiben von Prittwitz. Glenck meldet Ungünstiges im Prusimski-Prozess; Triebenfeld würde mit den ihm anvertrauten Blanquets beim Großkanzler um Verlängerung des Termins bitten. Dazu Hofnachrichten: die Königin erholt sich, an Krieg ist nicht zu denken.",
+ "reading": {
+  "letter": "105",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince from Berlin. He has paid Graf Schlabrendorff the interest (11085 rt); the receipt is made out to the Prince, and nothing covers Triebenfeld's own outlay. The Fürstin refused to receive him three times; he suspects a letter by Prittwitz, which seems to have caused a sensation in Breslau. Court news follows: the Queen is recovering, the King is working and drilling the old Guard, Köckritz, Zastrow and R. are well, no war is expected. Glenck sends bad news in the Prusimski lawsuit; T. would use the blank sheets (Blanquets) he holds to write to the Gros Kanzler asking for the deadline to be extended.",
+  "claims": [
+   {
+    "statement": "Triebenfeld hat Graf Schlabrendorff befriedigt; die Zinsen betrugen 11085 Rthl",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "die Quittung lautet auf den Fürsten, eine Deckung für ihn selbst fehlt",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Bei der Fürstin wurde er dreimal nicht vorgelassen, anscheinend wegen eines Schreibens von Prittwitz",
+    "lines": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "check": "overstated",
+    "why": "Lines 12-14 support the three refused visits. Lines 15-17 only say that Prittwitz's letter seems to have caused a sensation in Breslau too. The letter never says this was why he was refused."
+   },
+   {
+    "statement": "Glenck meldet Ungünstiges im Prusimski-Prozess",
+    "lines": [
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "statement": "Triebenfeld würde mit den Blanquets beim Großkanzler um Verlängerung des Termins bitten",
+    "lines": [
+     40,
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "die Königin erholt sich",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "an Krieg ist nicht zu denken",
+    "lines": [
+     34
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 39,
+    "word": "werde",
+    "note": "probably 'merke'; the sentence does not work as written"
+   },
+   {
+    "line": 15,
+    "word": "des zu",
+    "note": "garbled; probably 'des Prittwitz' or similar"
+   },
+   {
+    "line": 20,
+    "word": "bester",
+    "note": "probably 'bessert'"
+   },
+   {
+    "line": 28,
+    "word": "mir dencklichste",
+    "note": "garbled, perhaps 'merkwürdigste' or 'unverkennbarste'"
+   },
+   {
+    "line": 12,
+    "word": "hier für",
+    "note": "perhaps 'hier durch' (passing through)"
+   },
+   {
+    "line": 36,
+    "word": "alle Denkart",
+    "note": "garbled; the sentence is left unfinished"
+   },
+   {
+    "line": 31,
+    "word": "fühle",
+    "note": "probably 'fühlen'"
+   },
+   {
+    "line": 44,
+    "word": "gewonnen",
+    "note": "the proverb suggests 'Zeit gewonnen, alles gewonnen'; 'gewinnen' may be misread"
+   }
+  ],
+  "read_against": "c124287b7d31f358"
+ }
 }

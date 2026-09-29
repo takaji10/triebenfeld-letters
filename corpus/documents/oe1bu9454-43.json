@@ -303,5 +303,90 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet ein von Amelang mitgeteiltes Urteil: Lahr soll die restlichen 3000 Rthl bar statt in Papieren erhalten, im Wechselprozess droht Triebenfeld sonst Arrest. Amelang hat appelliert und hält mit Grevenitz den Sieg für gewiss, was etwa 1500 Rthl rettet. Triebenfeld fleht um schnelle Deponierung der 3000 Rthl. Die Sequestration soll nach Zahlung von etwa 10000 Rthl Zinsen aufgehoben werden. Er bittet um 600 Centner Eisen für Kaufmann Michaelis, der ihm 2000 Rthl gab."
+ "summary_de": "Triebenfeld meldet ein von Amelang mitgeteiltes Urteil: Lahr soll die restlichen 3000 Rthl bar statt in Papieren erhalten, im Wechselprozess droht Triebenfeld sonst Arrest. Amelang hat appelliert und hält mit Grevenitz den Sieg für gewiss, was etwa 1500 Rthl rettet. Triebenfeld fleht um schnelle Deponierung der 3000 Rthl. Die Sequestration soll nach Zahlung von etwa 10000 Rthl Zinsen aufgehoben werden. Er bittet um 600 Centner Eisen für Kaufmann Michaelis, der ihm 2000 Rthl gab.",
+ "reading": {
+  "letter": "43",
+  "legibility": "sound",
+  "notes": "Triebenfeld, writing from Kontop, tells the Prince that Amelang has reported a judgment: Lahr is to get his remaining 3000 rt in cash rather than in papers. Because it is a bill-of-exchange case, Triebenfeld faces arrest if he neither pays nor deposits the sum. Amelang has appealed, and he and Grevenitz expect to win, which would save about 1500 rt. By order of the French General Government the Lahr money is to be refunded, and the sequestration is to be lifted once about 10000 Rthl of interest has been paid. Hawich has been summoned. The Oppenheimer case is going well. Triebenfeld has a contract with Michaelis for 600 Centner of iron, for which he received 2000 rt, and asks the Prince to supply the iron. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Amelang teilt ein Urteil mit: Lahr soll die restlichen 3000 Rthl bar statt in Papieren erhalten",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Im Wechselprozess droht Triebenfeld Arrest, wenn er nicht zahlt oder deponiert",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Amelang hat appelliert; Grevenitz und Amelang halten den Sieg für gewiss, etwa 1500 Rthl werden gerettet",
+    "lines": [
+     8,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Triebenfeld fleht um schnelle Deponierung der 3000 Rthl",
+    "lines": [
+     15,
+     16,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Die Sequestration soll nach Zahlung von etwa 10000 Rthl Zinsen aufgehoben werden",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Bitte um 600 Centner Eisen für Kaufmann Michaelis, von dem er 2000 Rthl erhielt",
+    "lines": [
+     33,
+     34,
+     36,
+     37
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "Herzbarst",
+    "note": "probably 'Herz birst' / 'Herz bricht'"
+   },
+   {
+    "line": 21,
+    "word": "gekauft",
+    "note": "probably 'gehäuft' (costs piled up)"
+   },
+   {
+    "line": 24,
+    "word": "inch",
+    "note": "probably 'incl.' (inclusive)"
+   },
+   {
+    "line": 40,
+    "word": "zahlen",
+    "note": "probably 'zählen' (rely on this man)"
+   },
+   {
+    "line": 6,
+    "word": "Klag[?]:",
+    "note": "unclear qualifier before Courant, possibly 'klingend'"
+   }
+  ],
+  "read_against": "b05ed798da46690d"
+ }
 }

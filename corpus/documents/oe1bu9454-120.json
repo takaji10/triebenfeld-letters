@@ -151,5 +151,116 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Cabanis meldet Kaufwillige unter den Husiten in Husinich und Rentsch. Sie halten 300 Rthl pro Hufe und 15 Rthl jährlichen Zins für billig, haben einen Boten an ihre mährischen Glaubensbrüder geschickt und wollen binnen 14 Tagen in Corpore erscheinen. Cabanis soll sie über den Geistlichen in Hussinitz weiter antreiben. Gräfin Schlabrendorff gibt das Instrument erst nach Erhalt der übrigen 50/m Rthl heraus. Homuth bewirkt eine Frist bis 1. Januar 1805."
+ "summary_de": "Cabanis meldet Kaufwillige unter den Husiten in Husinich und Rentsch. Sie halten 300 Rthl pro Hufe und 15 Rthl jährlichen Zins für billig, haben einen Boten an ihre mährischen Glaubensbrüder geschickt und wollen binnen 14 Tagen in Corpore erscheinen. Cabanis soll sie über den Geistlichen in Hussinitz weiter antreiben. Gräfin Schlabrendorff gibt das Instrument erst nach Erhalt der übrigen 50/m Rthl heraus. Homuth bewirkt eine Frist bis 1. Januar 1805.",
+ "reading": {
+  "letter": "120",
+  "legibility": "sound",
+  "notes": "Triebenfeld to the Prince, Breslau. The surveyor Cabanis is back: Hussites in Husinich/Hussinitz and Rentsch want to buy land at 300 Rthl per Hufe plus 15 rt yearly Zins. They have sent an express to their Moravian brethren and plan to come in corpore within 14 days. Cabanis is to go back and spur them on through the local clergyman. Countess Schlabrendorff will not release the instrument until she has the other 50/m rt. Homuth has arranged a term to 1 Jan 1805. Kunckel is expected; his mother is destitute, and the Prince is asked for a few Thaler. The letter does not name the estate the land is for.",
+  "claims": [
+   {
+    "statement": "Cabanis meldet Kaufwillige unter den Husiten in Husinich und Rentsch",
+    "lines": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "halten 300 Rthl pro Hufe und 15 Rthl Zins für billig",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Boten an mährische Glaubensbrüder",
+    "lines": [
+     6,
+     7
+    ],
+    "check": "overstated",
+    "why": "Zeile 7 nennt 'einen Expressen', also einen einzigen Boten, nicht mehrere."
+   },
+   {
+    "statement": "wollen binnen 14 Tagen in Corpore erscheinen",
+    "lines": [
+     12
+    ]
+   },
+   {
+    "statement": "Cabanis soll sie über den Geistlichen in Hussinitz antreiben",
+    "lines": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Schlabrendorff gibt Instrument erst nach Erhalt der übrigen 50/m Rthl heraus",
+    "lines": [
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Homuth bewirkt Frist bis 1. Januar 1805",
+    "lines": [
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Kunckel wird erwartet",
+    "lines": [
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "bittet um ein paar Thaler für Kunckels notleidende Mutter",
+    "lines": [
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "hinweitem",
+    "note": "probably a misreading of 'hinreisen' or similar"
+   },
+   {
+    "line": 18,
+    "word": "vnnd",
+    "note": "possibly 'rund' (rund ab)"
+   },
+   {
+    "line": 19,
+    "word": "Quest:",
+    "note": "unclear; the continuation of 'Instru¬' is probably 'Instrument'"
+   },
+   {
+    "line": 4,
+    "word": "Husinich",
+    "note": "written 'Hussinitz' on line 14; the place name form is uncertain"
+   },
+   {
+    "line": 22,
+    "word": "solches",
+    "note": "possibly 'solcher' (solcher Form)"
+   }
+  ],
+  "read_against": "13b39bdccb1d9ea6"
+ }
 }

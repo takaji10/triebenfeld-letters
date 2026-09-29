@@ -214,5 +214,87 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld begrüßt, dass Hoffrath Hahn und Lombardini mit Vollmachten nach Brzeg gesandt wurden, und hofft mit Eberhard auf Befriedigung der Curischen Erben. Er warnt jedoch: Der Fürst Kanzler will den Fürsten persönlich vernehmen lassen, in Brzeg oder durch einen Commissarius in Sławięcice, der an ihn berichten soll. Göschel reicht eine weitere Note beim Congress ein. Zu Polen ruht alles bis Congressende. Außerdem berichtet er von der Abreise des Königs von Württemberg."
+ "summary_de": "Triebenfeld begrüßt, dass Hoffrath Hahn und Lombardini mit Vollmachten nach Brzeg gesandt wurden, und hofft mit Eberhard auf Befriedigung der Curischen Erben. Er warnt jedoch: Der Fürst Kanzler will den Fürsten persönlich vernehmen lassen, in Brzeg oder durch einen Commissarius in Sławięcice, der an ihn berichten soll. Göschel reicht eine weitere Note beim Congress ein. Zu Polen ruht alles bis Congressende. Außerdem berichtet er von der Abreise des Königs von Württemberg.",
+ "reading": {
+  "letter": "263",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes from Vienna during the Congress. He reports that the King of Württemberg has left incognito and that Göschel is handing in another note for the Prince. Main business: the Prince's letter of the 17th says Hoffrath Hahn and Lombardini have been sent to Brieg with powers of attorney. Triebenfeld hopes that, together with Eberhard, they can settle with the Curische Erben. He fears a misunderstanding, because the Fürst Kanzler wants the Prince heard in person, either in Brieg or by a commissioner sent to Schlawenschitz, who is to report back to him. The Polish question stays at rest until the Congress ends. New Year wishes. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Hahn und Lombardini mit Vollmachten nach Brzeg gesandt, Triebenfeld begrüßt dies",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Hoffnung mit Eberhard auf Befriedigung der Curischen Erben",
+    "lines": [
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Fürst Kanzler will persönliche Vernehmung in Brzeg oder durch Commissarius in Sławięcice mit Bericht",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27
+    ],
+    "check": "overstated",
+    "why": "Vernehmung in Brieg oder durch einen Commissarius in Schlawenschitz mit Bericht an den Fürsten Kanzler steht in den Zeilen 21-27. Laut Zeilen 22-23 soll aber der Fürst selbst bestätigen, was Triebenfeld und Hahn eingegeben haben. Der Commissarius soll die Aussagen nur hören, protokollieren, untersuchen und berichten. Die Zusammenfassung schreibt die Bestätigung dem Commissarius zu."
+   },
+   {
+    "statement": "Göschel reicht Note beim Congress ein",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Polen ruht bis Congressende",
+    "lines": [
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Abreise des Königs von Württemberg",
+    "lines": [
+     4,
+     5,
+     6,
+     11
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 24,
+    "word": "Hn",
+    "note": "probably 'Zu' (Zu dem Ende)"
+   },
+   {
+    "line": 19,
+    "word": "Ein",
+    "note": "probably 'kan' or 'wird'"
+   },
+   {
+    "line": 28,
+    "word": "einsetzlichen",
+    "note": "garbled, meaning unclear"
+   },
+   {
+    "line": 40,
+    "word": "könte",
+    "note": "garbled, probably 'kömt' or 'quillt'"
+   }
+  ],
+  "read_against": "49d0b71099b0d731"
+ }
 }

@@ -474,5 +474,147 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, die Staatsabgaben seien bis auf 900 Rthl bezahlt, und hofft, die Sequestration aufzuheben. Weil Schuldner dem Fürsten als Ausländer nichts zahlen wollen, schweben 43 Prozesse, etwa gegen Niedźwiecki (6000 Rthl), Nossalski (3000 Rthl), die Wrąbczyner Bauern (Zinsrückstand 1200), 8 Hauländer (5000 Rthl Einkaufsgelder) und Colonisten (39000 Rthl Zinsen). Der Trąbczyner und der Meierowitzsche Prozess kosteten bisher 750 Rthl. Hardenberg fordert Beweise über den neuen Arrestschlag, die Triebenfeld ihm morgen senden will."
+ "summary_de": "Triebenfeld berichtet, die Staatsabgaben seien bis auf 900 Rthl bezahlt, und hofft, die Sequestration aufzuheben. Weil Schuldner dem Fürsten als Ausländer nichts zahlen wollen, schweben 43 Prozesse, etwa gegen Niedźwiecki (6000 Rthl), Nossalski (3000 Rthl), die Wrąbczyner Bauern (Zinsrückstand 1200), 8 Hauländer (5000 Rthl Einkaufsgelder) und Colonisten (39000 Rthl Zinsen). Der Trąbczyner und der Meierowitzsche Prozess kosteten bisher 750 Rthl. Hardenberg fordert Beweise über den neuen Arrestschlag, die Triebenfeld ihm morgen senden will.",
+ "reading": {
+  "letter": "213",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Swiątniki. He has recovered from illness but was hurt when his carriage overturned on the way to Konin. The state taxes are paid except 900 t, and he hopes to lift the sequestration. Debtors refuse to pay because the Prince is a foreigner, so 43 lawsuits are pending; he lists ten of them with sums (Niedźwiecki, Nossalski, the Olesnicer, the Wrąbczyn peasants, Berda, the Hauländer, Rybbeck, a miller, the colonists). He gives figures for collections and costs; the Trąbczyn and Meierowitz suits have cost 750 rt. The sequestor is a favourite of Prefect Garczynski. Hardenberg knows nothing of the new arrest on Prussian sums lent to Poland and has asked for proofs.",
+  "claims": [
+   {
+    "statement": "Staatsabgaben bis auf 900 bezahlt; hofft, die Sequestration aufzuheben",
+    "lines": [
+     9,
+     10,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Schuldner zahlen nicht, da der Fürst Ausländer sei; 43 Prozesse",
+    "lines": [
+     26,
+     27,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Prozesse gegen Niedźwiecki 6000, Nossalski 3000",
+    "lines": [
+     32,
+     34
+    ]
+   },
+   {
+    "statement": "Wrąbczyner Bauern Zinsrückstand 1200",
+    "lines": [
+     40
+    ]
+   },
+   {
+    "statement": "8 Hauländer 5000 rt Einkaufsgelder",
+    "lines": [
+     59
+    ]
+   },
+   {
+    "statement": "Colonisten 39000 rt Zinsen",
+    "lines": [
+     69,
+     70
+    ]
+   },
+   {
+    "statement": "Trąbczyner und Meierowitzscher Prozess 750 rt",
+    "lines": [
+     92,
+     93
+    ]
+   },
+   {
+    "statement": "Hardenberg fordert Beweise über den neuen Arrestschlag, erhält sie",
+    "lines": [
+     115,
+     116
+    ],
+    "check": "overstated",
+    "why": "Z. 115-116: Hardenberg fordert Beweise, Triebenfeld will sie ihm erst morgen senden. Dass er sie erhält, steht dort nicht, nur die geplante Sendung."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "gewesen",
+    "note": "probably 'beheben' (cf. line 15), sense-based only"
+   },
+   {
+    "line": 12,
+    "word": "Nassalski",
+    "note": "line 34 has Nossalski; unclear which form is correct"
+   },
+   {
+    "line": 4,
+    "word": "Staats Schuldig",
+    "note": "probably 'Staats Schulden'"
+   },
+   {
+    "line": 16,
+    "word": "Weigelt",
+    "note": "possibly Weigel"
+   },
+   {
+    "line": 16,
+    "word": "Seher Thos",
+    "note": "garbled"
+   },
+   {
+    "line": 36,
+    "word": "Buben",
+    "note": "probably 'Bauren'"
+   },
+   {
+    "line": 53,
+    "word": "Geist",
+    "note": "unclear"
+   },
+   {
+    "line": 73,
+    "word": "geräfte",
+    "note": "probably 'glaube' or 'zweifle'"
+   },
+   {
+    "line": 84,
+    "word": "durch",
+    "note": "probably 'Durchlaucht'"
+   },
+   {
+    "line": 84,
+    "word": "Causa",
+    "note": "probably 'Casse'"
+   },
+   {
+    "line": 87,
+    "word": "Staunz, Podat",
+    "note": "garbled"
+   },
+   {
+    "line": 88,
+    "word": "Mathern",
+    "note": "garbled"
+   },
+   {
+    "line": 98,
+    "word": "hiesigt",
+    "note": "garbled"
+   },
+   {
+    "line": 113,
+    "word": "Häusichem",
+    "note": "lines 113-114 garbled"
+   }
+  ],
+  "read_against": "7515b012b191eb20"
+ }
 }

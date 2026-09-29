@@ -319,5 +319,143 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet nach schwerer Krankheit, dass niemand zahlt und 31 Prozesse schweben. Die Olesnicer, Niedźwiecki aus Kopojno und Hawich aus Drzewce sollen hinausgesetzt, 3 Vorwerke wieder eingerichtet werden. Napoleons Erklärung zur Tilgung der Schulden an Preußen in 40 Jahren verwirrt die Kolonisten; angebotenen Zinsnachlass nehmen sie nicht an. Die Trąbczyner Sache verwies das Tribunal nach Poniatowskis Schreiben an die höhere Magistratur. Die alten Hauländer bieten sofort 40000 Rthl. Anschlag Zagórów: 22140 Rthl Jahresertrag, 7140 Rthl Überschuss ab Johanni."
+ "summary_de": "Triebenfeld berichtet nach schwerer Krankheit, dass niemand zahlt und 31 Prozesse schweben. Die Olesnicer, Niedźwiecki aus Kopojno und Hawich aus Drzewce sollen hinausgesetzt, 3 Vorwerke wieder eingerichtet werden. Napoleons Erklärung zur Tilgung der Schulden an Preußen in 40 Jahren verwirrt die Kolonisten; angebotenen Zinsnachlass nehmen sie nicht an. Die Trąbczyner Sache verwies das Tribunal nach Poniatowskis Schreiben an die höhere Magistratur. Die alten Hauländer bieten sofort 40000 Rthl. Anschlag Zagórów: 22140 Rthl Jahresertrag, 7140 Rthl Überschuss ab Johanni.",
+ "reading": {
+  "letter": "212",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince from Swiątniki, 1 January 1811. After a severe illness he reports that nobody pays: 31 lawsuits are pending, and he plans to evict the Olesnicer, Niedźwiecki (Kopojno) and Hawich (Drzewce) and to re-establish 3 Vorwerke. He lists debts (garbled passage). New edicts give colonists 6 free years. He offered colonists remission of interest, which they refuse. Napoleon's declaration on 40-year repayment of debts owed to Prussia has confused everyone. In the Trąbczyn case, after a secret letter from Poniatowski, the tribunal referred the matter to the higher magistracy. The Hauländer offer 40000 rt. There is an Anschlag for the Zagórów estates. He is ill and freezing in a peasant hut.",
+  "claims": [
+   {
+    "statement": "Schwere Krankheit hat ihn am Schreiben gehindert",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Niemand zahlt, 31 Prozesse schweben",
+    "lines": [
+     9
+    ]
+   },
+   {
+    "statement": "Olesnicer, Niedźwiecki aus Kopojno und Hawich aus Drzewce sollen hinausgesetzt, 3 Vorwerke wieder eingerichtet werden",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Napoleons Erklärung zur Tilgung der Schulden an Preußen in 40 Jahren verwirrt die Leute",
+    "lines": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Kolonisten weigern sich trotz versprochenen Zinsnachlasses",
+    "lines": [
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "statement": "Tribunal verwies die Trąbczyner Sache nach Poniatowskis geheimem Schreiben an die höhere Magistratur",
+    "lines": [
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   },
+   {
+    "statement": "Alte Hauländer erbieten sich sogleich 40000 Rthl zu erlegen",
+    "lines": [
+     52,
+     53
+    ]
+   },
+   {
+    "statement": "Anschlag Zagórów: 22140 Rthl jährlicher Ertrag, 7140 Rthl bleiben, ab Johanni",
+    "lines": [
+     55,
+     57,
+     58,
+     67,
+     68,
+     72
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "einflossen",
+    "note": "probably 'einschlucken' or similar"
+   },
+   {
+    "line": 19,
+    "word": "kann",
+    "note": "probably 'kaum'"
+   },
+   {
+    "line": 20,
+    "word": "seinen",
+    "note": "garbled, perhaps 'decken'"
+   },
+   {
+    "line": 24,
+    "word": "Podacken[?]",
+    "note": "probably 'Podatki' (taxes)"
+   },
+   {
+    "line": 31,
+    "word": "prangt",
+    "note": "garbled"
+   },
+   {
+    "line": 49,
+    "word": "fardurchlaucht antrißen",
+    "note": "garbled, perhaps 'Ewr Durchlaucht entrissen'"
+   },
+   {
+    "line": 50,
+    "word": "Salz",
+    "note": "letter 210 has 'Falz' for the lawyer"
+   },
+   {
+    "line": 78,
+    "word": "Baurn hätte",
+    "note": "probably 'Bauernhütte'"
+   },
+   {
+    "line": 79,
+    "word": "Schweinern weil ich hier bei",
+    "note": "garbled; sequestration of Świniary uncertain"
+   },
+   {
+    "line": 81,
+    "word": "Fürsten Sacken",
+    "note": "unclear"
+   },
+   {
+    "line": 47,
+    "word": "König von",
+    "note": "name of the kingdom missing"
+   }
+  ],
+  "read_against": "d678b27c71ddcdde"
+ }
 }

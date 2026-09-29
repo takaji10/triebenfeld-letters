@@ -176,5 +176,110 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Eingabe v. Triebenfelds an eine ungenannte Durchlaucht in Sachen des Fürsten von Hohenlohe, die zurückgesandt werden soll. Er wendet sich gegen die über Stägemann eröffnete Überweisung an eine Commission in Berlin. Dabei wiederholt er seinen Vorschlag: Die Curischen Erben sähen die Schuld mit 112000 Rthl als getilgt an, der Fürst zahle jährlich 25000 Rthl ab und tilge die 1790 in Wrocław erhobenen 35/m Rthl. Er warnt vor Nachfragen bei Graf Wratislaw, bietet eine Caution von 60000 Rthl an."
+ "summary_de": "Eingabe v. Triebenfelds an eine ungenannte Durchlaucht in Sachen des Fürsten von Hohenlohe, die zurückgesandt werden soll. Er wendet sich gegen die über Stägemann eröffnete Überweisung an eine Commission in Berlin. Dabei wiederholt er seinen Vorschlag: Die Curischen Erben sähen die Schuld mit 112000 Rthl als getilgt an, der Fürst zahle jährlich 25000 Rthl ab und tilge die 1790 in Wrocław erhobenen 35/m Rthl. Er warnt vor Nachfragen bei Graf Wratislaw, bietet eine Caution von 60000 Rthl an.",
+ "reading": {
+  "letter": "258",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Wien, with a copy of a submission to a \"Hochfürstliche Durchlaucht\" (not named) \"in Sachen des Fürsten von Hohenlohe\". The postscript asks for it to be sent back because there is no other copy. Through Stägemann he has learned that the matter is to go to a commission in Berlin. He objects that this overlooks the state's interest in paying off the Curische debt, and repeats his proposal: settlement at 112000 rt, repaid in instalments, plus the 35/m rt of 1790, a gain of 461/m rt for the state. He warns against making inquiries with Graf Wratislaw, offers a caution of 60000 rt and asks for an audience. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Eingabe in Sachen des Fürsten von Hohenlohe an eine Durchlaucht; soll zurückgesandt werden, da keine Abschrift",
+    "lines": [
+     2,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Über Stägemann eröffnet, die Sache solle einer Commission in Berlin vorgelegt werden; Interesse des Staats übersehen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Curische Erben sähen die Schuld mit 112000 Rthl als getilgt an",
+    "lines": [
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Fürst tilge jährlich 25000 Rthl und die 1790 von der Kasse zu Breslau erhobenen 35/m Rthl",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Warnung vor Nachfragen bei Graf Wratislaw",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Caution von 60000 Rthl, Bitte um eine Stunde zur Erläuterung",
+    "lines": [
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "[...]tegranzstatoth[?]",
+    "note": "garbled, unreadable"
+   },
+   {
+    "line": 4,
+    "word": "nur",
+    "note": "probably 'mir'"
+   },
+   {
+    "line": 6,
+    "word": "F. ein Hohenlohe Weißl.",
+    "note": "garbled passage"
+   },
+   {
+    "line": 12,
+    "word": "gefolgt",
+    "note": "probably 'getilgt'"
+   },
+   {
+    "line": 13,
+    "word": "anfechtig",
+    "note": "probably 'anheischig'"
+   },
+   {
+    "line": 19,
+    "word": "Rflatiren",
+    "note": "probably 'reflectiren'"
+   },
+   {
+    "line": 22,
+    "word": "Kurz",
+    "note": "probably 'Curischen', compare line 11"
+   },
+   {
+    "line": 30,
+    "word": "Ehrerbietigkeit",
+    "note": "the edition's formula is 'Ehrfurcht', but the wording here may be the writer's own"
+   }
+  ],
+  "read_against": "d4043214dc44949c"
+ }
 }

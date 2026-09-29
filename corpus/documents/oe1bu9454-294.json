@@ -128,5 +128,85 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Bisenti berichtet über Verhandlungen mit der Herzogin von Żagań wegen ihrer Forderung von 30000 Rthl oder 100000 # in Gold. Sie hofft, dass der König allein zahlt. Solange ihr nicht von höherer Seite gesagt wird, dass er nicht zahlt, kann Bisenti nichts unternehmen. Danach erwartet er einen Vergleich auf das ihr gemachte Angebot von 150000 Rthl, vorbehaltlich höherer Ratifikation. Er bittet Triebenfeld, dafür zu sorgen, dass man den Erbinnen dies offen sagt."
+ "summary_de": "Bisenti berichtet über Verhandlungen mit der Herzogin von Żagań wegen ihrer Forderung von 30000 Rthl oder 100000 # in Gold. Sie hofft, dass der König allein zahlt. Solange ihr nicht von höherer Seite gesagt wird, dass er nicht zahlt, kann Bisenti nichts unternehmen. Danach erwartet er einen Vergleich auf das ihr gemachte Angebot von 150000 Rthl, vorbehaltlich höherer Ratifikation. Er bittet Triebenfeld, dafür zu sorgen, dass man den Erbinnen dies offen sagt.",
+ "reading": {
+  "letter": "294",
+  "legibility": "sound",
+  "notes": "Bisenti[?], writing from Vienna, reports to Triebenfeld on his talks with the Herzogin von Sagan about her claim of 30000 rt or 100000 # in gold. She believes the King alone will pay, so nothing can be done until she is told from higher up that he will not. After that she would settle, and Bisenti expects to close the matter on his offer of 150000 Rt, subject to ratification. He asks Triebenfeld to see that the heiresses are told plainly. She has asked him to visit her. She is staying in Vienna and will take the baths this month. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Verhandlungen mit der Herzogin von Żagań wegen ihrer Forderung von 30000 Rthl oder 100000 # in Gold",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Sie hofft, dass der König allein zahlt",
+    "lines": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Solange ihr nicht von höherer Seite gesagt wird, dass er nicht zahlt, kann er nichts unternehmen",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Danach erwartet er einen Vergleich auf sein Angebot von 150000 Rthl, vorbehaltlich höherer Ratifikation",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18,
+     19
+    ],
+    "check": "overstated",
+    "why": "Zeile 17 spricht nur von der 'ihr gemachten Offerte' per 150000 Rt. Wer das Angebot gemacht hat, sagt der Brief nicht. Dass es Bisentis eigenes Angebot war, ist nicht belegt."
+   },
+   {
+    "statement": "Bittet Triebenfeld, dafür zu sorgen, dass man den Erbinnen dies offen sagt",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 30,
+    "word": "Banden",
+    "note": "Probably 'Baden' (a spa), but this cannot be proven."
+   },
+   {
+    "line": 22,
+    "word": "die",
+    "note": "Dative 'den Erbinnen' would be expected; this may be the writer's own grammar."
+   },
+   {
+    "line": 25,
+    "word": "bemerken",
+    "note": "'bemerke' would be expected; this may be the writer's own form."
+   },
+   {
+    "line": 38,
+    "word": "Bisenti",
+    "note": "The signature and the initial are uncertain."
+   }
+  ],
+  "read_against": "c52adbadd7b6d680"
+ }
 }

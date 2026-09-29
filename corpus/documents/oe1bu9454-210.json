@@ -411,5 +411,147 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet über seine Prozesse. Den um Trąbczyn hofft er zu gewinnen, was 22000 Rthl Brautschatz retten würde; Falz und Präsident Smagorzewski hat er Geld gegeben. Die deutschen Siedler in Oleśnica schulden 39270 Rthl und sollen durch polnische Bauern ersetzt werden; gegen Niedźwiecki (6000 Rthl) und den Propinationspächter (3000 Rthl) geht er gerichtlich vor. Bis Neujahr erhofft er 44000 Rthl, darunter 6000 Rthl von Radzinski aus Szetlewek. Der Fürst soll bei Danckelmann Urlaub für Sommer erwirken."
+ "summary_de": "Triebenfeld berichtet über seine Prozesse. Den um Trąbczyn hofft er zu gewinnen, was 22000 Rthl Brautschatz retten würde; Falz und Präsident Smagorzewski hat er Geld gegeben. Die deutschen Siedler in Oleśnica schulden 39270 Rthl und sollen durch polnische Bauern ersetzt werden; gegen Niedźwiecki (6000 Rthl) und den Propinationspächter (3000 Rthl) geht er gerichtlich vor. Bis Neujahr erhofft er 44000 Rthl, darunter 6000 Rthl von Radzinski aus Szetlewek. Der Fürst soll bei Danckelmann Urlaub für Sommer erwirken.",
+ "reading": {
+  "letter": "210",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Kalisz, where he is pursuing several lawsuits before the tribunal. The Trąbczyn case is still waiting its turn. He has paid Falz, the tribunal president Smagorzewski and others, and says a win would also save the registered dowry of 22000 rt. Second case: the Olesnicer settlers owe 39270 rt; Polish peasants from Olesnica offer to take their places. Third: Niedźwiecki owes 6000 rt, and his wood and cattle have been seized. Hawich is called a scoundrel; the Zins-Bauern pay nothing. Next case: the Propinations-Pächter owes 3000 rt and has been sued. He expects 44000 rt by New Year, including 12000 rt from the old Hauländer and 6000 rt from Radzinski of Szetlewek. He asks the Prince to get Referendarius Sommer more leave from President Danckelmann.",
+  "claims": [
+   {
+    "statement": "Triebenfeld berichtet über seine Prozesse",
+    "lines": [
+     16,
+     22
+    ]
+   },
+   {
+    "statement": "hofft den Prozess um Trąbczyn zu gewinnen",
+    "lines": [
+     23
+    ]
+   },
+   {
+    "statement": "was 22000 Rthl Brautschatz retten würde",
+    "lines": [
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Falz und Präsident Smagorzewski hat er Geld gegeben",
+    "lines": [
+     24,
+     25,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Siedler in Oleśnica schulden 39270 Rthl",
+    "lines": [
+     37,
+     38,
+     42
+    ]
+   },
+   {
+    "statement": "sollen durch polnische Bauern ersetzt werden",
+    "lines": [
+     38,
+     46,
+     47,
+     65,
+     66,
+     68
+    ]
+   },
+   {
+    "statement": "gegen Niedźwiecki (6000 Rthl) geht er vor",
+    "lines": [
+     53,
+     54,
+     56
+    ]
+   },
+   {
+    "statement": "Propinationspächter 3000 Rthl verklagt",
+    "lines": [
+     71,
+     72,
+     76
+    ]
+   },
+   {
+    "statement": "Hawich nennt er einen Spitzbuben",
+    "lines": [
+     57
+    ]
+   },
+   {
+    "statement": "erhofft bis Neujahr 44000 Rthl, darunter 6000 Rthl von Radzinski aus Szetlewek",
+    "lines": [
+     87,
+     89,
+     90
+    ]
+   },
+   {
+    "statement": "Der Fürst soll bei Danckelmann Urlaub für Sommer erwirken",
+    "lines": [
+     92,
+     93,
+     94,
+     96
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Zürich",
+    "note": "probably 'Gerichts' (court offices)"
+   },
+   {
+    "line": 12,
+    "word": "Ups",
+    "note": "unclear term, perhaps 'Aufruf'"
+   },
+   {
+    "line": 18,
+    "word": "empfrozeß",
+    "note": "probably 'ein Prozeß'"
+   },
+   {
+    "line": 24,
+    "word": "Falz",
+    "note": "document 212 writes 'Salz'; spelling of the name uncertain"
+   },
+   {
+    "line": 29,
+    "word": "Assoren",
+    "note": "probably 'Assessoren'"
+   },
+   {
+    "line": 36,
+    "word": "fehlen",
+    "note": "unclear, perhaps 'Geschenke' or 'Mittel'"
+   },
+   {
+    "line": 57,
+    "word": "aufhaupt",
+    "note": "probably 'aufhezt'"
+   },
+   {
+    "line": 64,
+    "word": "Adict",
+    "note": "unclear, perhaps 'defect'"
+   },
+   {
+    "line": 65,
+    "word": "Poladen",
+    "note": "probably 'Polacken'"
+   }
+  ],
+  "read_against": "71de80417d66311e"
+ }
 }

@@ -258,5 +258,124 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, Österreich wolle neutral bleiben und nur vermitteln. Russische Truppen und Generäle murrten über den Waffenstillstand. Köckritz habe sich mit Hardenberg überworfen und vor dem Monarchen dessen Zuversicht verspottet. Die Verpflegung sei ungewiss, Getreide knapp, die Wege grundlos. Zastrow soll die Landwehr in Nysa (55000 Mann) kommandieren, Ortel liege krank. Triebenfeld will über Nysa nach Ząbkowice Śląskie, in die Hauptquartiere und nach Świniary reisen, um Produkte heranzubringen und Geld zu beschaffen."
+ "summary_de": "Triebenfeld berichtet, Österreich wolle neutral bleiben und nur vermitteln. Russische Truppen und Generäle murrten über den Waffenstillstand. Köckritz habe sich mit Hardenberg überworfen und vor dem Monarchen dessen Zuversicht verspottet. Die Verpflegung sei ungewiss, Getreide knapp, die Wege grundlos. Zastrow soll die Landwehr in Nysa (55000 Mann) kommandieren, Ortel liege krank. Triebenfeld will über Nysa nach Ząbkowice Śląskie, in die Hauptquartiere und nach Świniary reisen, um Produkte heranzubringen und Geld zu beschaffen.",
+ "reading": {
+  "letter": "240",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Neustadt during the 1813 armistice. It is a political and military report: Austria stays neutral; the Russian troops and generals grumble about the armistice; there is a reported exchange in which Köckritz quarrels with Hardenberg in front of the monarch; supplying the troops is a problem; Zastrow will command the Landwehr gathering at Neisse; General Ortel is ill. Triebenfeld plans to travel via Neisse to Frankenstein, then to the headquarters, then to Schweinern to bring in produce and raise money. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Österreich will neutral bleiben und vermitteln",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Russische Truppen und Generäle murren über den Waffenstillstand",
+    "lines": [
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Köckritz hat sich mit Hardenberg überworfen, Streitgespräch vor dem Monarchen",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Verpflegung ungewiss, wenig Getreide, Wege grundlos",
+    "lines": [
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Zastrow soll die Landwehr in Neisse kommandieren, 55000 Mann",
+    "lines": [
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Ortel liegt krank in Neustadt",
+    "lines": [
+     38
+    ]
+   },
+   {
+    "statement": "Reiseplan über Neisse nach Frankenstein, in die Hauptquartiere und nach Schweinern, um Produkte heranzubringen und Geld zu beschaffen",
+    "lines": [
+     39,
+     40,
+     41
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "ermüdet",
+    "note": "sense unclear; perhaps 'ermuntert'"
+   },
+   {
+    "line": 8,
+    "word": "Ruße",
+    "note": "probably 'Rußischen'"
+   },
+   {
+    "line": 12,
+    "word": "Von",
+    "note": "probably 'Nun'"
+   },
+   {
+    "line": 15,
+    "word": "Mitt",
+    "note": "probably 'Min[ister]', the speaker label"
+   },
+   {
+    "line": 17,
+    "word": "ſind",
+    "note": "probably 'seyn'; same on line 24"
+   },
+   {
+    "line": 20,
+    "word": "Brönen",
+    "note": "not a German word; garbled"
+   },
+   {
+    "line": 23,
+    "word": "zagen",
+    "note": "probably 'jagen'"
+   },
+   {
+    "line": 29,
+    "word": "erſte",
+    "note": "perhaps 'öftere'; the sense is unclear"
+   },
+   {
+    "line": 34,
+    "word": "weit",
+    "note": "probably 'weiß'"
+   }
+  ],
+  "read_against": "61e4dd20e71c8eaa"
+ }
 }

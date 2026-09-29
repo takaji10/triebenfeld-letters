@@ -896,5 +896,115 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Wegen der Mobilmachung ist in Berlin wenig zu erreichen. Die Approbation der Dismembration bei Zagórów und Trąbczyn betreibt Geheimer Rath Reinbeck; davon hängt das erhoffte Geld von Invaliden Casse und Pupillen Collegium ab. Beigefügt ist ein Verzeichnis der neuen Kolonien (21407 Morgen, 578 Wirthe; dem Dominium bleiben 4575 Morgen). Radzinski soll 6000 Rthl erlegen. Zerstreute Colonisten versprachen etliche Tausend Rthl. Zu zahlen bleiben Prusimska 20000, Weigel 23000, Schlabrendorff 25000 Rthl."
+ "summary_de": "Wegen der Mobilmachung ist in Berlin wenig zu erreichen. Die Approbation der Dismembration bei Zagórów und Trąbczyn betreibt Geheimer Rath Reinbeck; davon hängt das erhoffte Geld von Invaliden Casse und Pupillen Collegium ab. Beigefügt ist ein Verzeichnis der neuen Kolonien (21407 Morgen, 578 Wirthe; dem Dominium bleiben 4575 Morgen). Radzinski soll 6000 Rthl erlegen. Zerstreute Colonisten versprachen etliche Tausend Rthl. Zu zahlen bleiben Prusimska 20000, Weigel 23000, Schlabrendorff 25000 Rthl.",
+ "reading": {
+  "letter": "177",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Berlin during the Prussian mobilisation. Voss and Klewitz are away, so little can be done. Reinbeck is pushing the approval of the dismemberment (the new colonies at Zagórów and Trąbczyn), and the loans from the Invaliden Casse and the Pupillen Collegium depend on it. Political news follows. Enclosures: proposed names for the new villages, and list B of the colonies (21407 Morgen, 578 Wirthe; 4575 Morgen stay with the Dominium). Money: 7130 rt received; Radzinski owes 6000; the scattered colonists and a would-be tenant promise payments; Prusimska 20000, Weigel 23000 and Schlabrendorff 25000 rt still to pay. Postscript: 2000 rt paid to Obrist v Schlieben; he has not yet been able to speak to Hardenberg.",
+  "claims": [
+   {
+    "statement": "Wegen der Mobilmachung ist in Berlin wenig zu erreichen.",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Reinbeck betreibt die Approbation der Dismembration bei Zagórów und Trąbczyn.",
+    "lines": [
+     8,
+     9,
+     48,
+     49
+    ]
+   },
+   {
+    "statement": "Davon hängt das erhoffte Geld von Invaliden Casse und Pupillen Collegium ab.",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Verzeichnis der neuen Kolonien: 21407 Morgen, 578 Wirthe; dem Dominium bleiben 4575 Morgen.",
+    "lines": [
+     65,
+     89,
+     97
+    ]
+   },
+   {
+    "statement": "Radzinski soll 6000 Rthl erlegen.",
+    "lines": [
+     104
+    ]
+   },
+   {
+    "statement": "Zerstreute Colonisten versprachen etliche Tausend Rthl.",
+    "lines": [
+     106,
+     107,
+     108
+    ]
+   },
+   {
+    "statement": "Zu zahlen bleiben Prusimska 20000, Weigel 23000, Schlabrendorff 25000 Rthl.",
+    "lines": [
+     115,
+     116,
+     117
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "reiste",
+    "note": "unclear; perhaps 'bereit' or 'frei'"
+   },
+   {
+    "line": 23,
+    "word": "Verführung",
+    "note": "probably 'Versicherung'"
+   },
+   {
+    "line": 33,
+    "word": "ihr",
+    "note": "probably 'ihm'"
+   },
+   {
+    "line": 36,
+    "word": "Buße",
+    "note": "probably 'Russen'"
+   },
+   {
+    "line": 46,
+    "word": "Dolfe",
+    "note": "doubtful name"
+   },
+   {
+    "line": 126,
+    "word": "Güterkilgt",
+    "note": "probably 'Güter tilgt'"
+   },
+   {
+    "line": 138,
+    "word": "Er",
+    "note": "possibly 'Ewr'"
+   },
+   {
+    "line": 153,
+    "word": "Könne ist ein",
+    "note": "probably 'König ist in' (Paretz)"
+   },
+   {
+    "line": 109,
+    "word": "vorwürdchen",
+    "note": "probably 'Vorwerckchen'"
+   }
+  ],
+  "read_against": "1c97f3e08ef18852"
+ }
 }

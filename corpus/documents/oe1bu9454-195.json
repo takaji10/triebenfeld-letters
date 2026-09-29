@@ -274,5 +274,119 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wartet in Breslau auf Graf Strachwitz, der am 23. eintreffen soll. Es geht um ein Geschäft über Güter bei Głubczyce, deren Wert mit 900000 Rthl angegeben wird. Flesch tadelt Goldstücker, weil er den Namen des Grafen genannt hat, und mahnt zur Verschwiegenheit. Triebenfeld vermutet eine Schwindelei. Er meldet Gerüchte: Der König soll die Contribution rasch zahlen, sonst rückten die Franzosen ein. Napoleon verlange 20000 Mann gegen die Türken. Hardenberg kehre zurück. Das Moratorium ist auf 2 Jahre verlängert."
+ "summary_de": "Triebenfeld wartet in Breslau auf Graf Strachwitz, der am 23. eintreffen soll. Es geht um ein Geschäft über Güter bei Głubczyce, deren Wert mit 900000 Rthl angegeben wird. Flesch tadelt Goldstücker, weil er den Namen des Grafen genannt hat, und mahnt zur Verschwiegenheit. Triebenfeld vermutet eine Schwindelei. Er meldet Gerüchte: Der König soll die Contribution rasch zahlen, sonst rückten die Franzosen ein. Napoleon verlange 20000 Mann gegen die Türken. Hardenberg kehre zurück. Das Moratorium ist auf 2 Jahre verlängert.",
+ "reading": {
+  "letter": "195",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Breslau to the Prince. He is waiting for Graf Strachwitz, who is due on the 23rd, about a proposed deal involving estates near Leobschütz valued at 900000 rt. Flesch blames Goldstücker for naming the Graf and urges secrecy. Triebenfeld suspects a swindle, and a lawsuit is to be settled as part of the deal. He also mentions Massow and Merckel in connection with a lawsuit that was taken away. He passes on political rumours (Contribution, Napoleon's demand for 20000 men against the Turks, Hardenberg's return, Dohna) and a rumour about a testament handed to Legationsrath Henckel. Postscript: the Moratorium has been extended by 2 years. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld wartet in Breslau auf Graf Strachwitz, der am 23. eintreffen soll",
+    "lines": [
+     5,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Güter bei Głubczyce, deren Wert mit 900000 Rthl angegeben wird",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Flesch tadelt Goldstücker, weil er den Namen des Grafen genannt hat, und mahnt zur Verschwiegenheit",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Triebenfeld vermutet eine Schwindelei",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Der König soll die Contribution rasch zahlen, sonst rückten die Franzosen ein",
+    "lines": [
+     25,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Napoleon verlange 20000 Mann gegen die Türken",
+    "lines": [
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "statement": "Hardenberg kehre zurück",
+    "lines": [
+     31
+    ]
+   },
+   {
+    "statement": "Das Moratorium ist auf 2 Jahre verlängert",
+    "lines": [
+     47,
+     48
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Ein",
+    "note": "probably 'Mir' (Mir scheint)"
+   },
+   {
+    "line": 16,
+    "word": "Zackraw[Zastrow?]",
+    "note": "doubtful place or estate name"
+   },
+   {
+    "line": 16,
+    "word": "Steine",
+    "note": "unclear name, possibly an estate"
+   },
+   {
+    "line": 20,
+    "word": "Mein Er Schade",
+    "note": "garbled; possibly 'Professor Schade' (cf. doc 196)"
+   },
+   {
+    "line": 20,
+    "word": "Tagen",
+    "note": "garbled, perhaps 'Tages-'"
+   },
+   {
+    "line": 25,
+    "word": "günſteigen",
+    "note": "probably misread, e.g. 'gewaltigen'"
+   },
+   {
+    "line": 39,
+    "word": "Colorma[?]",
+    "note": "unclear name"
+   },
+   {
+    "line": 38,
+    "word": "Whode",
+    "note": "unclear name"
+   },
+   {
+    "line": 41,
+    "word": "Fenckenstein",
+    "note": "possibly Finckenstein"
+   }
+  ],
+  "read_against": "efc21c67ffc9127f"
+ }
 }

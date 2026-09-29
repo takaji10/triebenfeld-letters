@@ -216,5 +216,114 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld bittet Albrecht, beim König einen kategorischen Bescheid zur Forderung der Curischen Erben zu erwirken. Die Schuld beträgt 300/m Rthl, mit Zinsen 426/m Rthl, und der König hat sie als Selbstschuldner unterschrieben. Zahlt der König, soll die Cosmarische Administration der Majoratsgüter aufgehoben werden. Sagt er sich los, will Triebenfeld mit den Erben vergleichen, die zuvor circa 112/m Rthl annehmen wollten, und bittet um einen königlichen Vorschuss dafür. Cosmar legt keine Rechnung."
+ "summary_de": "Triebenfeld bittet Albrecht, beim König einen kategorischen Bescheid zur Forderung der Curischen Erben zu erwirken. Die Schuld beträgt 300/m Rthl, mit Zinsen 426/m Rthl, und der König hat sie als Selbstschuldner unterschrieben. Zahlt der König, soll die Cosmarische Administration der Majoratsgüter aufgehoben werden. Sagt er sich los, will Triebenfeld mit den Erben vergleichen, die zuvor circa 112/m Rthl annehmen wollten, und bittet um einen königlichen Vorschuss dafür. Cosmar legt keine Rechnung.",
+ "reading": {
+  "letter": "289",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Wien schreibt an Cabinets Rath Albrecht über die Forderung der Curischen Erben gegen den Fürsten Hohenlohe: 300/m rt, mit Zinsen 426/m rt. Der König hatte die Schuld als Selbstschuldner unterschrieben, hatte sich dann losgesagt und in Wien eine neue Prüfung in Berlin zugesagt. Darauf wurden die Vergleichsverhandlungen um ca. 112/m rt abgebrochen. Triebenfeld bittet um einen kategorischen Bescheid: Entweder zahlt der König und die Cosmarische Administration der Majoratsgüter wird aufgehoben, oder der König sagt sich los, damit der Vergleich geschlossen werden kann, und schießt die Vergleichssumme vor. Trąbczyn kommt nicht vor.",
+  "claims": [
+   {
+    "statement": "Die Curischen Erben fordern 300/m Rthl, mit Zinsen 426/m Rthl; der König hat als Selbstschuldner unterschrieben",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     10
+    ]
+   },
+   {
+    "statement": "Früher wollten die Erben sich mit circa 112/m Rthl vergleichen",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Bitte an Albrecht um einen kategorischen Bescheid des Königs",
+    "lines": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     77,
+     78,
+     79
+    ]
+   },
+   {
+    "statement": "Zahlt der König, soll die Cosmarische Administration aufgehoben werden",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55
+    ]
+   },
+   {
+    "statement": "Sagt der König sich los, soll der Vergleich geschlossen und die Summe vom König vorgeschossen werden",
+    "lines": [
+     56,
+     57,
+     58,
+     59,
+     60,
+     64,
+     65,
+     66
+    ]
+   },
+   {
+    "statement": "Cosmar verwaltet die Majoratsgüter und legt seit 4 Jahren keine Rechnung",
+    "lines": [
+     35,
+     36,
+     37
+    ],
+    "check": "overstated",
+    "why": "Lines 35-37 say Cosmar administers the Majorat estates and 'gibt keinem Menschen davon schon seit 4 Jahr wenig oder nichts, legt keine Rechnung'. The 4 years belong to his paying out little or nothing. The letter says he keeps no accounts but gives no time span for that."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "E.",
+    "note": "wohl F. (Fürst) v. Hohenlohe"
+   },
+   {
+    "line": 17,
+    "word": "noch",
+    "note": "wohl 'nach welchem'"
+   },
+   {
+    "line": 68,
+    "word": "noch",
+    "note": "wohl 'nach'"
+   },
+   {
+    "line": 23,
+    "word": "roth",
+    "note": "wohl 'Rath'"
+   },
+   {
+    "line": 15,
+    "word": "Beweg",
+    "note": "wohl 'bewog'"
+   },
+   {
+    "line": 34,
+    "word": "bitte",
+    "note": "wohl 'litte'"
+   },
+   {
+    "line": 17,
+    "word": "einzuschreiten",
+    "note": "wohl 'einzugehen/einzutreten'"
+   }
+  ],
+  "read_against": "f32cb869892679e5"
+ }
 }

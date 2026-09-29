@@ -283,5 +283,122 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld erwartet stündlich Hardenbergs Resolution, dass das Oberlandesgericht Brzeg die Sache schleunigst untersuchen und berichten soll. Stimmt der Bericht mit seinen Eingaben überein, lasse der Staatskanzler die 112/m Rthl zahlen. Der Fürst soll vor dem Commissarius offen erklären, er sei zum Beitritt verleitet worden, die Transacte schadeten den Creditoren, die Schulden seien fingiert und Cosmar habe alles geschmiedet. Er soll Hoffrath Hahn zu Rate ziehen und auch seinen Sohn nicht schonen. Barbe setzt sich für ihn ein."
+ "summary_de": "v. Triebenfeld erwartet stündlich Hardenbergs Resolution, dass das Oberlandesgericht Brzeg die Sache schleunigst untersuchen und berichten soll. Stimmt der Bericht mit seinen Eingaben überein, lasse der Staatskanzler die 112/m Rthl zahlen. Der Fürst soll vor dem Commissarius offen erklären, er sei zum Beitritt verleitet worden, die Transacte schadeten den Creditoren, die Schulden seien fingiert und Cosmar habe alles geschmiedet. Er soll Hoffrath Hahn zu Rate ziehen und auch seinen Sohn nicht schonen. Barbe setzt sich für ihn ein.",
+ "reading": {
+  "letter": "259",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Friedrich Ludwig. He expects any minute Staatskanzler Hardenberg's resolution telling the Brieg Oberlandesgericht to investigate the matter at once and report. If the court's report agrees with Triebenfeld's submissions, Hardenberg will have 112/m rt paid. He tells the Prince to declare everything openly before the commissioner (Brieg or Schlawenschitz): he was induced to join the transacts, the debts are fictitious, Cosmar forged everything, the papers were sent to Öhringen while he was under arrest. He should consult Hoffrath Hahn and spare nobody, not even his son. The news goes by courier to Neisse and on by estafette. Barbe, Gärtner and Göschel are helping. The congress's end is not in sight. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld erwartet stündlich Hardenbergs Resolution, dass das Oberlandesgericht Brzeg die Sache schleunigst untersuchen und berichten soll",
+    "lines": [
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Stimmt der Bericht mit seinen Eingaben überein, lässt der Staatskanzler die 112/m Rthl zahlen",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Der Fürst soll vor dem Commissarius offen erklären: Verleitung zum Beitritt, Transacte zum Nachteil der Creditoren, fingierte Schulden, Cosmar habe alles geschmiedet",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Er soll Hoffrath Hahn zu Rate ziehen und auch seinen Sohn nicht schonen",
+    "lines": [
+     26,
+     27,
+     33
+    ]
+   },
+   {
+    "statement": "Barbe setzt sich für ihn ein",
+    "lines": [
+     42,
+     43,
+     44
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "Bürger",
+    "note": "probably 'biedern' (compare 'Biedere Fürst Kanzler', line 41)"
+   },
+   {
+    "line": 7,
+    "word": "Kerzen",
+    "note": "probably 'kürzesten'"
+   },
+   {
+    "line": 10,
+    "word": "erhrhn[?]",
+    "note": "probably 'ersehen'"
+   },
+   {
+    "line": 17,
+    "word": "heil",
+    "note": "probably 'Scheu'"
+   },
+   {
+    "line": 20,
+    "word": "dem Comission",
+    "note": "probably 'die Commission'"
+   },
+   {
+    "line": 25,
+    "word": "reat",
+    "note": "unclear, perhaps 'recht'"
+   },
+   {
+    "line": 28,
+    "word": "Schmülle",
+    "note": "unclear"
+   },
+   {
+    "line": 35,
+    "word": "reicht",
+    "note": "probably 'auftreten' or similar"
+   },
+   {
+    "line": 41,
+    "word": "Früchten",
+    "note": "probably 'Fürchten'"
+   },
+   {
+    "line": 41,
+    "word": "vorhabene",
+    "note": "probably 'erhabene'"
+   },
+   {
+    "line": 45,
+    "word": "Dich",
+    "note": "probably 'sich'"
+   },
+   {
+    "line": 38,
+    "word": "ich nun also Ihnen beßer Fürst",
+    "note": "garbled passage"
+   }
+  ],
+  "read_against": "631c8a16e6ff16be"
+ }
 }

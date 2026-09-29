@@ -70,6 +70,9 @@ One row per document.
 | `uncertainty_count` | surviving `[?]` and `[...]` markers |
 | `translation_status` | `untranslated`, `draft` or `reviewed` - see below |
 | `has_summary` | an English finding-aid summary exists |
+| `has_summary_de` | a German summary exists (9454: written from the German, claims checked) |
+| `sender`, `recipient` | the correspondents, as in the letter record; empty where not identified |
+| `legibility` | from the whole-letter reading: sound / partly garbled / largely garbled |
 | `has_damage` | text is missing or illegible |
 | `mentions` | how many distinct people are named |
 | `title` | a human label, e.g. `contract 18` |
@@ -149,7 +152,8 @@ Everything in the manifest row, plus:
 | `line_start`, `line_end` | the document's range in the unit's `corpus.txt` |
 | `text_english` | the whole English translation, flowed. Empty where `untranslated` |
 | `translation` | the same English, one segment per manuscript page: `{page, en}` |
-| `summary_en`, `summary_de` | one-paragraph finding-aid summaries, written from the English |
+| `summary_en`, `summary_de` | one-paragraph finding-aid summaries; 14525 and 14526 written from the English, 9454's German ones from the German |
+| `reading` | the whole-letter reading (units/<slug>/reading.json): `notes`, `legibility`, `claims` (each summary statement with its letter lines, and the check's objection where there was one), `doubtful_words` |
 
 The English is **generated and not canonical**. It is never checked against
 `text` for fidelity, because it cannot be: the build's character-exact

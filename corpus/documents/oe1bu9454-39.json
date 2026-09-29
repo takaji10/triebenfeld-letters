@@ -108,5 +108,97 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld droht nach seiner Rückkehr eine Execution wegen 3000 Rthl Schulden. Von den zu berichtigenden 6125 Rthl hat der Fürst 3000 Rthl angewiesen, 3125 Rthl bleiben offen. Er bittet flehentlich um eine Anweisung über wenigstens 2000 Rthl, damit er nach Königsberg reisen kann, und will Bürgen suchen. Aus Zagórów geht nichts ein, daher sei die strengste Execution bei der französischen Behörde nötig. Briefe sollen an Justiz Commissarius Empich gehen. Er erinnert an das große Anlehn."
+ "summary_de": "Triebenfeld droht nach seiner Rückkehr eine Execution wegen 3000 Rthl Schulden. Von den zu berichtigenden 6125 Rthl hat der Fürst 3000 Rthl angewiesen, 3125 Rthl bleiben offen. Er bittet flehentlich um eine Anweisung über wenigstens 2000 Rthl, damit er nach Königsberg reisen kann, und will Bürgen suchen. Aus Zagórów geht nichts ein, daher sei die strengste Execution bei der französischen Behörde nötig. Briefe sollen an Justiz Commissarius Empich gehen. Er erinnert an das große Anlehn.",
+ "reading": {
+  "letter": "39",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Berlin. He is back from \"W:\" and has settled his business there, but creditors are already threatening execution over 3000 rt he owes. He borrowed that money after getting out of French arrest in February. Of the 6125 rt owed, the Prince paid 3000 rt, which leaves 3125 rt. Nothing is coming in from Zagórów, so he wants the strictest execution requested from the French authority. He expects travel orders within 7 days and will probably go on to Königsberg. He wants guarantors, begs for at least 2000 rt, and asks that letters go to Justiz Commissarius Empich. He also reminds the Prince of the große Anlehn. The letter says nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Nach seiner Rückkehr droht Triebenfeld eine Execution wegen 3000 Rthl Schulden.",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "6125 Rthl waren zu berichtigen, 3000 Rthl hat der Fürst angewiesen, 3125 Rthl bleiben offen.",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Er bittet um eine Anweisung über wenigstens 2000 Rthl, damit er nach Königsberg reisen kann.",
+    "lines": [
+     18,
+     19,
+     21,
+     22,
+     23
+    ]
+   },
+   {
+    "statement": "Er will Bürgen (Caventen) suchen.",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Aus Zagórów geht nichts ein, daher sei die strengste Execution bei der französischen Behörde nötig.",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Briefe sollen an Justiz Commissarius Empich gehen.",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Er erinnert an das große Anlehn.",
+    "lines": [
+     26
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Käme",
+    "note": "Probably 'Kaum' ('Kaum aber bin ich angekommen')."
+   },
+   {
+    "line": 5,
+    "word": "auch auch",
+    "note": "The word appears twice; this may be the writer's own repetition."
+   },
+   {
+    "line": 7,
+    "word": "Zewalden ſasse",
+    "note": "Garbled; perhaps a word for a treasury or fund ('Casse')."
+   },
+   {
+    "line": 8,
+    "word": "durch die Zeit",
+    "note": "Unclear; perhaps 'für die Zeit'."
+   },
+   {
+    "line": 15,
+    "word": "§:",
+    "note": "The destination abbreviation cannot be read."
+   },
+   {
+    "line": 23,
+    "word": "P[?]",
+    "note": "Doubtful place abbreviation."
+   }
+  ],
+  "read_against": "134b4b79ab9b15ed"
+ }
 }

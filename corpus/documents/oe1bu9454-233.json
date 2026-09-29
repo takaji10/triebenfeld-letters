@@ -431,5 +431,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Schlägt Pläne zur Tilgung der Schulden vor: v. Sobottendorff, dem der Fürst 40000 Rthl schuldet, soll Drzewce 18 Jahre für jährlich 2000 Rthl pachten; seine beiden Söhne sollen 4 freie Colonistenstellen in Swięcia zu je 1000 Rthl erhalten. Weigel soll für seine 50000 Rthl das Vorwerk Kopojno mit Propination 9 Jahre für jährlich 6000 Rthl pachten. Fürst August soll 50000 Rthl an die Invaliden Casse zahlen. Cabanis legt vor Chomanowski Rechnung und bringt sie nach Sławięcice."
+ "summary_de": "Schlägt Pläne zur Tilgung der Schulden vor: v. Sobottendorff, dem der Fürst 40000 Rthl schuldet, soll Drzewce 18 Jahre für jährlich 2000 Rthl pachten; seine beiden Söhne sollen 4 freie Colonistenstellen in Swięcia zu je 1000 Rthl erhalten. Weigel soll für seine 50000 Rthl das Vorwerk Kopojno mit Propination 9 Jahre für jährlich 6000 Rthl pachten. Fürst August soll 50000 Rthl an die Invaliden Casse zahlen. Cabanis legt vor Chomanowski Rechnung und bringt sie nach Sławięcice.",
+ "reading": {
+  "letter": "233",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Blizanow. He sets out plans for paying off creditors. Sobottendorff, who is owed 40000 rt, would lease Drzewce for 18 years at 2000 rt a year, and his two sons would get 4 vacant Colonisten places in Swięcia at 1000 rt each. Weigel, owed 50000 rt, would lease Kopojno with the Propination for 9 years at 6000 rt a year. Fürst August would pay 50000 rt to the Invaliden Casse. He then projects the revenues, including the Olesnica and Wrąbczyn lawsuits and the Meierowitz case. Cabanis is to render his accounts in front of Komornik Chomanowski and bring them to Schlawenschitz. The second half, lines 46-66, is partly garbled.",
+  "claims": [
+   {
+    "statement": "Sobottendorff, dem der Fürst 40000 Rthl schuldet",
+    "lines": [
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "soll Drzewce 18 Jahre für jährlich 2000 Rthl pachten",
+    "lines": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "statement": "Söhne sollen 4 freie Colonistenstellen in Swięcia zu je 1000 Rthl erhalten",
+    "lines": [
+     12,
+     13,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Weigel soll für 50000 Rthl Kopojno mit Propination 9 Jahre für jährlich 6000 Rthl pachten",
+    "lines": [
+     35,
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Fürst August soll 50000 Rthl an die Invaliden Casse zahlen",
+    "lines": [
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Cabanis legt vor Chomanowski Rechnung und bringt sie nach Sławięcice",
+    "lines": [
+     80,
+     82,
+     83,
+     84
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 20,
+    "word": "Herr",
+    "note": "probably 'Ewr' (Durchlaucht); 'uns' possibly 'das'"
+   },
+   {
+    "line": 22,
+    "word": "recherten",
+    "note": "unclear word"
+   },
+   {
+    "line": 23,
+    "word": "Rybbek",
+    "note": "edition form is Rybbeck; may be the writer's own spelling"
+   },
+   {
+    "line": 33,
+    "word": "einsend",
+    "note": "probably 'einsenden'"
+   },
+   {
+    "line": 34,
+    "word": "kriegenden",
+    "note": "probably 'kläglichen' or similar"
+   },
+   {
+    "line": 49,
+    "word": "ihnen",
+    "note": "possibly 'ohne'"
+   },
+   {
+    "line": 53,
+    "word": "ladien",
+    "note": "possibly 'cediren'"
+   },
+   {
+    "line": 55,
+    "word": "Sach",
+    "note": "unclear word"
+   },
+   {
+    "line": 77,
+    "word": "Vocande",
+    "note": "garbled passage"
+   },
+   {
+    "line": 79,
+    "word": "Ander",
+    "note": "garbled word"
+   },
+   {
+    "line": 82,
+    "word": "Beisen",
+    "note": "probably 'Beisein'"
+   },
+   {
+    "line": 85,
+    "word": "Welt",
+    "note": "unclear phrase 'um den Welt'"
+   }
+  ],
+  "read_against": "31719e9dcc3ee6ab"
+ }
 }

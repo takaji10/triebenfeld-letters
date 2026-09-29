@@ -410,5 +410,140 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, der Vergleich mit Broniewski sei nicht mehr rückgängig zu machen. Glenck reichte ihn am 6. zur Approbation ein, der Protest des Fürsten traf am 8. ein, wurde aber beiseitegelegt. Keiner will schuld sein, einer schiebt es auf den anderen, Melzer gibt aber zu, eine Deposition hätte Broniewski besiegt. Gegen Bornstädt habe man wie gegen die Trąbczyner auf Exmission geklagt, ohne ein Liquidum festzusetzen. Triebenfeld will nach Pszczew. Melzer erwartet einen Liquidationsprozess von 6 bis 8 Jahren."
+ "summary_de": "Triebenfeld berichtet, der Vergleich mit Broniewski sei nicht mehr rückgängig zu machen. Glenck reichte ihn am 6. zur Approbation ein, der Protest des Fürsten traf am 8. ein, wurde aber beiseitegelegt. Keiner will schuld sein, einer schiebt es auf den anderen, Melzer gibt aber zu, eine Deposition hätte Broniewski besiegt. Gegen Bornstädt habe man wie gegen die Trąbczyner auf Exmission geklagt, ohne ein Liquidum festzusetzen. Triebenfeld will nach Pszczew. Melzer erwartet einen Liquidationsprozess von 6 bis 8 Jahren.",
+ "reading": {
+  "letter": "139",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Posen to the Prince. The Broniewski settlement (Vergleich) cannot be undone. Glenck submitted it for approval on the 6th. The Prince's protest arrived on the 8th, was set aside, and the settlement was approved and sent to court. Melzer and Glenck each blame the other, or Wunster. Melzer admits that a deposition would have beaten Broniewski. Triebenfeld is going to Betsche. In the Bornstädt affair the court sued for eviction without fixing a liquidum, as it had with the Trąbczyn people. He will come back to evict Bornstädt and check Broniewski's caution. Glenck arrives but has no excuse. Melzer expects the liquidation suit to take 6 to 8 years.",
+  "claims": [
+   {
+    "statement": "Der Vergleich ist nicht mehr rückgängig zu machen",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Glenck reichte ihn am 6. zur Approbation ein",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Das Protestschreiben des Fürsten kam am 8. an und wurde beiseitegelegt",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Melzer und Glenck schieben sich gegenseitig die Schuld zu",
+    "lines": [
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     40,
+     41,
+     42
+    ],
+    "check": "overstated",
+    "why": "Laut Brief will keiner schuld sein, und einer schiebt es auf den anderen. Melzer beschuldigt Glenck und Wunster. Dass Glenck seinerseits Melzer beschuldigt, steht nicht im Brief."
+   },
+   {
+    "statement": "Melzer gibt zu, dass eine Deposition Broniewski besiegt hätte",
+    "lines": [
+     35,
+     36,
+     37,
+     38,
+     39,
+     66,
+     67,
+     68,
+     69
+    ]
+   },
+   {
+    "statement": "Gegen Bornstädt wurde wie gegen die Trąbczyner auf Exmission geklagt, ohne ein Liquidum festzusetzen",
+    "lines": [
+     45,
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "statement": "Triebenfeld will nach Pszczew reisen",
+    "lines": [
+     43,
+     44
+    ]
+   },
+   {
+    "statement": "Melzer erwartet 6 bis 8 Jahre Liquidationsprozess",
+    "lines": [
+     72,
+     73
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 15,
+    "word": "Kläger",
+    "note": "probably 'kläglicher' or similar adjective before 'Schnelligkeit'"
+   },
+   {
+    "line": 20,
+    "word": "zu Bett",
+    "note": "unclear; perhaps 'spottet'"
+   },
+   {
+    "line": 20,
+    "word": "verlauft",
+    "note": "perhaps 'verlacht'"
+   },
+   {
+    "line": 25,
+    "word": "nage",
+    "note": "garbled phrase 'nage ſizze'"
+   },
+   {
+    "line": 42,
+    "word": "schutzlich",
+    "note": "probably 'schuldig'"
+   },
+   {
+    "line": 43,
+    "word": "man",
+    "note": "probably 'wan' (wenn)"
+   },
+   {
+    "line": 58,
+    "word": "verwurf",
+    "note": "garbled; perhaps 'vertuschen' or 'verwerfen'"
+   },
+   {
+    "line": 9,
+    "word": "würde",
+    "note": "context requires 'wurde'"
+   },
+   {
+    "line": 16,
+    "word": "ihm",
+    "note": "probably 'ihn'"
+   }
+  ],
+  "read_against": "c4f2fa09d9ba7be4"
+ }
 }

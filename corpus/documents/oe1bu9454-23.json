@@ -524,5 +524,126 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt, der Fürst habe seinen Töchtern kein Geld geschickt; er selbst habe über die erhaltenen 4300 Rthl hinaus große Kosten getragen, erleide Execution und sei gichtkrank. Criminal Rath Stenger soll in Zagórów, Trąbczyn, Pszczew und Witów alles ordnen, verspricht Trąbczyn und Kamionna zurückzubringen und schlägt einen Actuarius Seifert für 250 bis 300 Rthl vor; Triebenfeld erbittet die Genehmigung. Honrichs soll sich ausweisen, sonst lässt Stenger ihn verhaften. Es heißt, die Russen würden Polen besetzen."
+ "summary_de": "Triebenfeld klagt, der Fürst habe seinen Töchtern kein Geld geschickt; er selbst habe über die erhaltenen 4300 Rthl hinaus große Kosten getragen, erleide Execution und sei gichtkrank. Criminal Rath Stenger soll in Zagórów, Trąbczyn, Pszczew und Witów alles ordnen, verspricht Trąbczyn und Kamionna zurückzubringen und schlägt einen Actuarius Seifert für 250 bis 300 Rthl vor; Triebenfeld erbittet die Genehmigung. Honrichs soll sich ausweisen, sonst lässt Stenger ihn verhaften. Es heißt, die Russen würden Polen besetzen.",
+ "reading": {
+  "letter": "23",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Kontop. He complains that no money was sent to his daughters and sets out his accounts (4300 rt received; papers taken from v.d. Lahr and Coste; money still owed to Lahr and to Blochsdorff/Holzapfel). He lists his hardships: distraint, gout, hunger. Criminal Rath Stenger from Kargowa is to put things in order in Zagórów, Trąbczyn, Pszczew and Witów, recover Trąbczyn and Kamionna, and wants to hire an actuary Seifert. Triebenfeld lists the pending lawsuits and mentions a rumour that the Russians will occupy Poland. In the postscript Honrichs faces arrest over three Vorwerke, and Lombardini has not paid the 150 rt.",
+  "claims": [
+   {
+    "statement": "Klage, der Fürst habe den Töchtern kein Geld geschickt",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "über die erhaltenen 4300 Rthl hinaus große Kosten getragen",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     54,
+     75,
+     76
+    ]
+   },
+   {
+    "statement": "erleidet Execution und ist gichtkrank",
+    "lines": [
+     33,
+     47,
+     56,
+     57,
+     78
+    ]
+   },
+   {
+    "statement": "Stenger soll in Zagórów, Trąbczyn, Pszczew und Witów alles ordnen",
+    "lines": [
+     50,
+     51
+    ]
+   },
+   {
+    "statement": "verspricht Trąbczyn und Kamionna zurückzubringen",
+    "lines": [
+     52,
+     53,
+     71,
+     111
+    ]
+   },
+   {
+    "statement": "schlägt Actuarius Seifert für 250 bis 300 Rthl vor; Bitte um Genehmigung",
+    "lines": [
+     93,
+     94,
+     95,
+     100
+    ]
+   },
+   {
+    "statement": "Honrichs soll sich ausweisen, sonst Verhaftung durch Stenger",
+    "lines": [
+     101,
+     102,
+     103
+    ]
+   },
+   {
+    "statement": "Gerücht, die Russen würden Polen besetzen",
+    "lines": [
+     82
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 52,
+    "word": "viedigern",
+    "note": "probably 'vindiciren' (cf. lines 71, 111), cannot be proven"
+   },
+   {
+    "line": 118,
+    "word": "Klüßen",
+    "note": "possibly 'Rußen' (cf. line 82)"
+   },
+   {
+    "line": 90,
+    "word": "Hakern",
+    "note": "possibly Heckern, cf. 'Heckersche' line 91"
+   },
+   {
+    "line": 30,
+    "word": "höhere",
+    "note": "likely 'höre'"
+   },
+   {
+    "line": 76,
+    "word": "hungera-",
+    "note": "probably 'hungere'"
+   },
+   {
+    "line": 64,
+    "word": "etwas",
+    "note": "garbled; possibly the name of a Casse"
+   },
+   {
+    "line": 25,
+    "word": "1/Ewr",
+    "note": "garbled line"
+   },
+   {
+    "line": 4,
+    "word": "legt",
+    "note": "probably 'lezt'"
+   }
+  ],
+  "read_against": "9cbc3b7ea2faa7d4"
+ }
 }

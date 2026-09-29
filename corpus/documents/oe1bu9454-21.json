@@ -268,5 +268,129 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld schickt über Lombardini einen weiteren Boten an den Fürsten. Nach Dlugo Lędckis Besuch berichtet er von Furcht vor der baldigen Ankunft der Russen; nach dem Urteil jedes Polen erhalte der Fürst die Güter Trąbczyn, Kamionna und Brzyce zurück. Er bittet um schnelle Antwort und Geld zum Bestechen, da er mittellos sei; Konotop und Świniary habe er für 14000 Rthl jährlich verpachtet. Er erwartet Urkunde und Geld. Lombardini soll seinen Töchtern in Wrocław wenigstens 200 Rthl Münze geben."
+ "summary_de": "Triebenfeld schickt über Lombardini einen weiteren Boten an den Fürsten. Nach Dlugo Lędckis Besuch berichtet er von Furcht vor der baldigen Ankunft der Russen; nach dem Urteil jedes Polen erhalte der Fürst die Güter Trąbczyn, Kamionna und Brzyce zurück. Er bittet um schnelle Antwort und Geld zum Bestechen, da er mittellos sei; Konotop und Świniary habe er für 14000 Rthl jährlich verpachtet. Er erwartet Urkunde und Geld. Lombardini soll seinen Töchtern in Wrocław wenigstens 200 Rthl Münze geben.",
+ "reading": {
+  "letter": "21",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Konotop late at night to the Prince, covering a second messenger sent to Lombardini after the Estaffette sent at noon. Dlugo Lędcki visited; people fear the Russians will come soon. Every Pole expects the Prince to recover the Trąbczyn, Kaemen and Brzyce estates. There is a garbled plan about Constantin, Lowicz and Talleyrand, then garbled gossip (Dorothechen, \"die alte Ziege\" in Paris). He asks for a quick answer and for money to bribe and to work; Richter has pawned his watch. Konotop and Schweinern are leased for 14000 rt a year, and old arrears take everything until Johanni. He is waiting for the Urkunde and the money; Honrichs is waiting to leave with Stenger. Lombardini should give at least 200 rt Münze to his daughters in Breslau.",
+  "claims": [
+   {
+    "statement": "Triebenfeld schickt über Lombardini einen weiteren Boten an den Fürsten.",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Nach Dlugo Lędckis Besuch berichtet er von Furcht vor der baldigen Ankunft der Russen.",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Nach dem Urteil jedes Polen erhalte der Fürst die Güter Trąbczyn, Kamionna und Brzyce zurück.",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Er bittet um schnelle Antwort und Geld zum Bestechen, da er mittellos sei.",
+    "lines": [
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Richter habe seine Uhr versetzt.",
+    "lines": [
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Konotop und Świniary habe er für 14000 Rthl jährlich verpachtet.",
+    "lines": [
+     22
+    ]
+   },
+   {
+    "statement": "Er erwartet Urkunde und Geld.",
+    "lines": [
+     29
+    ]
+   },
+   {
+    "statement": "Lombardini soll seinen Töchtern in Wrocław wenigstens 200 Rthl Münze geben.",
+    "lines": [
+     32,
+     33,
+     35
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 3,
+    "word": "Genuenſter Fürſt",
+    "note": "Probably 'Gnädigster Fürst' or a misread place name; the Estaffette went to the Prince."
+   },
+   {
+    "line": 6,
+    "word": "Wenn dann dem es untern linke Knopflich",
+    "note": "Garbled passage."
+   },
+   {
+    "line": 8,
+    "word": "Inatangialia",
+    "note": "Garbled; perhaps a word for protection or help."
+   },
+   {
+    "line": 9,
+    "word": "Jedes seit, ich brauppe",
+    "note": "Garbled; 'Jedes' is perhaps 'Indes'."
+   },
+   {
+    "line": 13,
+    "word": "Königl. Constantin",
+    "note": "Garbled line about Constantin and the Fürstenthum Lowicz."
+   },
+   {
+    "line": 17,
+    "word": "kiz",
+    "note": "Probably 'muß'."
+   },
+   {
+    "line": 23,
+    "word": "Wäldigewährten",
+    "note": "Garbled; cannot say what the 6000 rt refers to."
+   },
+   {
+    "line": 24,
+    "word": "der 7.",
+    "note": "Unclear."
+   },
+   {
+    "line": 27,
+    "word": "schaften",
+    "note": "Probably 'schaffen'."
+   },
+   {
+    "line": 30,
+    "word": "wardt",
+    "note": "Probably 'wartet'; compare 'ward hier darauf' in the next letter."
+   },
+   {
+    "line": 33,
+    "word": "ein",
+    "note": "Probably 'in' (Breslau)."
+   }
+  ],
+  "read_against": "0a62b7882d0895f2"
+ }
 }

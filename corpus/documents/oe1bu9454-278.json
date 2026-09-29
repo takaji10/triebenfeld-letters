@@ -226,5 +226,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Eberhard bittet den Fürsten dringend, mindestens 5 bis 600 Rthl für eine Reise nach Wien aufzubringen, zu der v. Triebenfeld ihn drängt. Ein Vergleich mit den Curischen Erben sei nur jetzt möglich, solange die 3 Prinzessinnen persönlich in Wien seien. Hindernisse sind eine Weisung der General Mandatarien der Erben, sich nicht einzumischen, sein Geldmangel und nötige Pässe. Einen Plan mit 2 Wegen, die Reise zu begründen, schickt er v. Triebenfeld."
+ "summary_de": "Eberhard bittet den Fürsten dringend, mindestens 5 bis 600 Rthl für eine Reise nach Wien aufzubringen, zu der v. Triebenfeld ihn drängt. Ein Vergleich mit den Curischen Erben sei nur jetzt möglich, solange die 3 Prinzessinnen persönlich in Wien seien. Hindernisse sind eine Weisung der General Mandatarien der Erben, sich nicht einzumischen, sein Geldmangel und nötige Pässe. Einen Plan mit 2 Wegen, die Reise zu begründen, schickt er v. Triebenfeld.",
+ "reading": {
+  "letter": "278",
+  "legibility": "sound",
+  "notes": "Eberhard, a copy written from Brieg, to the Prince. Triebenfeld has urged him to come to Vienna. Eberhard thinks a settlement (Vergleich) with the Curland heirs is possible while the 3 princesses are there in person. He lists three obstacles: the General Mandatarien of the heirs told him not to interfere; he has no money for the journey; and he needs passes from the Justice Minister and the Staats Kanzler. He begs the Prince to raise at least 5 to 600 Rthl. He doubts the King will leave on the 26th; in any case the Staats Kanzler stays. Today he is sending Triebenfeld a plan with 2 ways of justifying his journey. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld drängt Eberhard, nach Wien zu kommen",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Vergleich mit den Curischen Erben möglich, nur jetzt bei Anwesenheit der 3 Prinzessinnen",
+    "lines": [
+     11,
+     12,
+     13,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Weisung der General Mandatarien, sich nicht einzumischen",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Geldmangel für Reisekosten",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Pässe nötig",
+    "lines": [
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "bittet um mindestens 5 bis 600 Rthl",
+    "lines": [
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Plan mit 2 Wegen an Triebenfeld",
+    "lines": [
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 23,
+    "word": "Pöſe",
+    "note": "probably Pässe"
+   },
+   {
+    "line": 23,
+    "word": "Münster",
+    "note": "probably Minister"
+   },
+   {
+    "line": 24,
+    "word": "Curland",
+    "note": "possibly Ausland"
+   },
+   {
+    "line": 30,
+    "word": "Danckbar",
+    "note": "probably denkbar"
+   },
+   {
+    "line": 53,
+    "word": "Stunde",
+    "note": "possibly Reise (Reise Geld)"
+   },
+   {
+    "line": 53,
+    "word": "Korb kann er",
+    "note": "garbled"
+   },
+   {
+    "line": 55,
+    "word": "unterzeigen",
+    "note": "probably unterzeichne"
+   },
+   {
+    "line": 36,
+    "word": "Vermögen",
+    "note": "probably vermag"
+   }
+  ],
+  "read_against": "63aaf9836f919dd2"
+ }
 }

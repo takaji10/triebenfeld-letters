@@ -815,5 +815,146 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet den Tod seiner Tochter, Barbes und Trzcińskis sowie seine schwere Krankheit. In der Pszczewer Sache beantragen die Einsassen Aufhebung des Contracts; Zerboni verlangt Aufschluss und scheint mit Schencks Vortrag etwas unzufrieden. Von Kolno und Kamionna sei nichts zu hoffen, die Tochter Prusimskis kaum über den gezahlten Pfandschilling hinaus zu zwingen. Er will sich mit Leixner einigen, Eichausts Rechnungen prüfen und bittet um eigenhändige Antwort zur Generalvollmacht für Schenck."
+ "summary_de": "Triebenfeld meldet den Tod seiner Tochter, Barbes und Trzcińskis sowie seine schwere Krankheit. In der Pszczewer Sache beantragen die Einsassen Aufhebung des Contracts; Zerboni verlangt Aufschluss und scheint mit Schencks Vortrag etwas unzufrieden. Von Kolno und Kamionna sei nichts zu hoffen, die Tochter Prusimskis kaum über den gezahlten Pfandschilling hinaus zu zwingen. Er will sich mit Leixner einigen, Eichausts Rechnungen prüfen und bittet um eigenhändige Antwort zur Generalvollmacht für Schenck.",
+ "reading": {
+  "letter": "297",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld to the Prince from Blizanow, grief-stricken: daughter died after childbirth, Barbe dead (Boidelang reports), Trzciński suffocated in Warsaw. Severe gout/colic at Betsche, brought to Posen, now at Blizanow. Schenck left for Warsaw. Betsche affair: papers extracted, Einsassen seek cancellation of contract, Zerboni wants information, dissatisfied with Schenck. Kulm and Kaemen: nothing to hope; Prusimski's daughter hardly compellable beyond Pfandschilling. Eichaust forest devastation, accounts to be demanded, Leixner negotiations. Quoted draft concerning general Vollmacht for Schenck (garbled). Grevenitz letters on Cosmar enclosed.",
+  "claims": [
+   {
+    "statement": "Tod der Tochter, Barbes und Trzcińskis",
+    "lines": [
+     7,
+     8,
+     9,
+     11,
+     12,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "schwere Krankheit",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     28,
+     29,
+     32
+    ]
+   },
+   {
+    "statement": "Einsassen beantragen Aufhebung des Contracts in der Pszczewer Sache",
+    "lines": [
+     39,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "Zerboni verlangt Aufschluss, unzufrieden mit Schenck",
+    "lines": [
+     57,
+     95,
+     96,
+     97
+    ],
+    "check": "overstated",
+    "why": "Z. 57 Aufschluss belegt; Z. 96 aber nur: 'Er schien etwas unzufrieden mit Schencks Vortrag'."
+   },
+   {
+    "statement": "Von Kolno und Kamionna nichts zu hoffen",
+    "lines": [
+     47,
+     107
+    ]
+   },
+   {
+    "statement": "Tochter Prusimskis kaum über gezahlten Pfandschilling hinaus zu zwingen",
+    "lines": [
+     109,
+     110
+    ]
+   },
+   {
+    "statement": "will sich mit Leixner einigen und Rechnungen prüfen",
+    "lines": [
+     48,
+     49,
+     64,
+     65,
+     104,
+     105,
+     106
+    ]
+   },
+   {
+    "statement": "bittet um eigenhändige Antwort zur Generalvollmacht für Schenck",
+    "lines": [
+     60,
+     61,
+     70,
+     75,
+     76
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 4,
+    "word": "Graue",
+    "note": "Gram already supplied"
+   },
+   {
+    "line": 6,
+    "word": "Inremieden",
+    "note": "garbled"
+   },
+   {
+    "line": 22,
+    "word": "Hämerhördal",
+    "note": "probably Hämorrhoidal"
+   },
+   {
+    "line": 56,
+    "word": "revenirt",
+    "note": "garbled, perhaps ruinirt/devastirt"
+   },
+   {
+    "line": 62,
+    "word": "freiegelt",
+    "note": "garbled"
+   },
+   {
+    "line": 76,
+    "word": "genüge",
+    "note": "likely genehmige"
+   },
+   {
+    "line": 102,
+    "word": "Collores",
+    "note": "doubtful name"
+   },
+   {
+    "line": 108,
+    "word": "Brodgenomen",
+    "note": "garbled"
+   },
+   {
+    "line": 111,
+    "word": "Schend",
+    "note": "possibly Schenck"
+   },
+   {
+    "line": 51,
+    "word": "Eichaust",
+    "note": "edition list has Echaust; consistent in letter, left"
+   }
+  ],
+  "read_against": "c14fc3d7818adf32"
+ }
 }

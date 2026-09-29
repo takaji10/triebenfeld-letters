@@ -144,5 +144,85 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Amelang hat mit großer Mühe vom Bankier leve eine Anweisung an die Gebrüder Kuh auf 36755 Rthl 7 gg erhalten, im Zusammenhang mit den Geldern der Invaliden Casse, die eigentlich in Seehandlungs Obligationen bestehen. v. Triebenfeld übersendet die Anweisung und bittet, den Brief an die Herren Kuh sofort abgeben zu lassen. Morgen sollen die Hanusche und die Eysenhardtsche Sache geordnet werden. Danach will er nach Kalisz zurück, um die 100000 Rthl zu besorgen."
+ "summary_de": "Amelang hat mit großer Mühe vom Bankier leve eine Anweisung an die Gebrüder Kuh auf 36755 Rthl 7 gg erhalten, im Zusammenhang mit den Geldern der Invaliden Casse, die eigentlich in Seehandlungs Obligationen bestehen. v. Triebenfeld übersendet die Anweisung und bittet, den Brief an die Herren Kuh sofort abgeben zu lassen. Morgen sollen die Hanusche und die Eysenhardtsche Sache geordnet werden. Danach will er nach Kalisz zurück, um die 100000 Rthl zu besorgen.",
+ "reading": {
+  "letter": "159",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Berlin. Amelang got the banker leve to give an Anweisung on Gebrüder Kuh (36755 rt 7 gg) before the Invaliden Casse money, which is really held in Seehandlung obligations, came in. Triebenfeld forwards it. Tomorrow the Hanusche and Eysenhardt matters are to be settled, then he returns to Kalisz to secure the 100000 rt. Postscripts: the Prince should have the letter to the Kuhs delivered at once; there is also a garbled question about preventing the dismembration.",
+  "claims": [
+   {
+    "statement": "Amelang hat mit großer Mühe vom Bankier leve eine Anweisung an die Gebrüder Kuh auf 36755 Rthl 7 gg erhalten, noch vor den Geldern der Invaliden Casse, die eigentlich in Seehandlungs Obligationen bestehen",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "check": "overstated",
+    "why": "Die Anweisung, die Mühe, leve, die Gebrüder Kuh, der Betrag und die Seehandlungs Obligationen stehen im Brief. Das 'noch bevor' stützt sich aber nur auf das verstümmelte Wort 'ehe'. Wahrscheinlich bezieht sich die Anweisung auf die Gelder der Invaliden Casse selbst. Eine zeitliche Reihenfolge lässt sich daraus nicht ablesen."
+   },
+   {
+    "statement": "v. Triebenfeld übersendet die Anweisung",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "bittet, den Brief an die Herren Kuh sofort abgeben zu lassen",
+    "lines": [
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Morgen sollen die Hanusche und die Eysenhardtsche Sache geordnet werden",
+    "lines": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "danach will er nach Kalisz zurück, um die 100000 Rthl zu besorgen",
+    "lines": [
+     13,
+     14,
+     15,
+     16
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 6,
+    "word": "ehe",
+    "note": "probably 'ehe er', i.e. before he had received the funds; words may be missing"
+   },
+   {
+    "line": 8,
+    "word": "in",
+    "note": "stray 'in' after 'Obligation', perhaps 'Obligationen'"
+   },
+   {
+    "line": 14,
+    "word": "in",
+    "note": "stray 'in' before 'nach Kalisz'"
+   },
+   {
+    "line": 21,
+    "word": "Wie war ist wohl",
+    "note": "garbled, perhaps 'Wer ist wohl im Stande'"
+   },
+   {
+    "line": 6,
+    "word": "leve",
+    "note": "the banker's name, written 'Livi' in doc. 160"
+   }
+  ],
+  "read_against": "eb26d76bc14ac050"
+ }
 }

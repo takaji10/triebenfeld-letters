@@ -244,5 +244,142 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber hat das Tauschprojekt mit General v Schimmelpfennig aufgegeben und vermutet, dass die Verpachtung an Brzechffa gescheitert ist. Er hat die Besichtigung der Güter um Zagórów für ein neues Tauschprojekt erlaubt. Er will auch seine Praetensionen an die Trąbczyner Güter verkaufen und schickt wegen der Original-Schenkungsurkunde einen Expressen. Er fragt nach dem Erfolg von Brzechffas Fürsprache in Warschau im Trąbczyner Prozess und bittet um die 300 Rthl für Lieutenant Sommer."
+ "summary_de": "Der Schreiber hat das Tauschprojekt mit General v Schimmelpfennig aufgegeben und vermutet, dass die Verpachtung an Brzechffa gescheitert ist. Er hat die Besichtigung der Güter um Zagórów für ein neues Tauschprojekt erlaubt. Er will auch seine Praetensionen an die Trąbczyner Güter verkaufen und schickt wegen der Original-Schenkungsurkunde einen Expressen. Er fragt nach dem Erfolg von Brzechffas Fürsprache in Warschau im Trąbczyner Prozess und bittet um die 300 Rthl für Lieutenant Sommer.",
+ "reading": {
+  "letter": "72",
+  "legibility": "partly garbled",
+  "notes": "This is an unsigned letter to a \"Krieges und Forst Rath\", written by the owner of the Zagórów and Trąbczyn claims. He waited for the addressee to arrive with Brzechffa, and on the addressee's wish he dropped the exchange with General v Schimmelpfennig. He now assumes the lease to Brzechffa has fallen through. Pressed by his creditors, he has allowed a newly offered exchange partner to inspect the Zagórów estates. He also wants to sell his Praetensionen on the Trąbczyn estates, and sends a courier because of the original deed of gift. He asks whether Brzechffa's intercession in Warsaw over the Trąbczyn lawsuit has worked, and he asks for the 300 rt for Lieutenant Sommer. Several passages are garbled and the closing formula is corrupt.",
+  "claims": [
+   {
+    "statement": "Er hat das Tauschprojekt mit General v Schimmelpfennig aufgegeben.",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Er vermutet, dass die Verpachtung an Brzechffa gescheitert ist.",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Von Gläubigern bedrängt, hat er die Besichtigung der Güter um Zagórów für ein neues Tauschprojekt erlaubt.",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     46,
+     47,
+     48
+    ],
+    "check": "overstated",
+    "why": "Lines 20-26 support the permission to inspect the Zagorower Güter for a new exchange project. But the reasons given there are his conjectures and the need to decide about his Polish estates. Lines 46-48 say he is pressed 'von allen Seiten' to carry out the arrangement with his creditors, not that the creditors are pressing him."
+   },
+   {
+    "statement": "Er will seine Praetensionen an die Trąbczyner Güter verkaufen und schickt wegen der Original-Schenkungsurkunde einen Expressen.",
+    "lines": [
+     60,
+     61,
+     62,
+     63,
+     64,
+     67,
+     68,
+     69
+    ]
+   },
+   {
+    "statement": "Er fragt nach dem Erfolg von Brzechffas Fürsprache in Warschau im Trąbczyner Prozess.",
+    "lines": [
+     69,
+     70,
+     71,
+     72,
+     73,
+     74,
+     75,
+     76
+    ]
+   },
+   {
+    "statement": "Er bittet um die 300 Rthl für Lieutenant Sommer.",
+    "lines": [
+     88,
+     89,
+     90,
+     91,
+     92
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 49,
+    "word": "läßig",
+    "note": "probably 'lästig'"
+   },
+   {
+    "line": 50,
+    "word": "begange",
+    "note": "probably 'begnüge'"
+   },
+   {
+    "line": 58,
+    "word": "Ewer",
+    "note": "garbled; perhaps 'Pläne' or similar"
+   },
+   {
+    "line": 64,
+    "word": "not",
+    "note": "stray word; perhaps misread"
+   },
+   {
+    "line": 66,
+    "word": "unmöglich",
+    "note": "probably 'unumgänglich'; the sense is uncertain"
+   },
+   {
+    "line": 76,
+    "word": "darinkeiten",
+    "note": "garbled; perhaps 'damit ich'"
+   },
+   {
+    "line": 82,
+    "word": "beiwissen",
+    "note": "probably 'beiwirken'"
+   },
+   {
+    "line": 86,
+    "word": "flüßig",
+    "note": "probably 'lästig'"
+   },
+   {
+    "line": 88,
+    "word": "lege",
+    "note": "with 'ten' probably 'letzten'"
+   },
+   {
+    "line": 99,
+    "word": "Rahten",
+    "note": "garbled; perhaps 'Güte' or 'Rath'"
+   },
+   {
+    "line": 102,
+    "word": "anschönen",
+    "note": "garbled closing formula"
+   }
+  ],
+  "read_against": "a8cd39e1baed06c8"
+ }
 }

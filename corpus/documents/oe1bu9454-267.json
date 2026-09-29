@@ -213,5 +213,101 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld klagt, seit dem am 21. erhaltenen Schreiben vom 17. Dezember nichts mehr vom Fürsten erhalten zu haben. Vergeblich wartet er auf das Schreiben an den Fürsten Kanzler, die Blanquets, die Vollmacht für Göschel, den Revers für Barbe wegen Koszęcin und auf Geld; Barbe könne nichts mehr geben. Am meisten sorgt ihn der ausbleibende Bericht aus Brzeg. Russland wolle unserem Herrn wegen Polen nahetreten."
+ "summary_de": "Triebenfeld klagt, seit dem am 21. erhaltenen Schreiben vom 17. Dezember nichts mehr vom Fürsten erhalten zu haben. Vergeblich wartet er auf das Schreiben an den Fürsten Kanzler, die Blanquets, die Vollmacht für Göschel, den Revers für Barbe wegen Koszęcin und auf Geld; Barbe könne nichts mehr geben. Am meisten sorgt ihn der ausbleibende Bericht aus Brzeg. Russland wolle unserem Herrn wegen Polen nahetreten.",
+ "reading": {
+  "letter": "267",
+  "legibility": "sound",
+  "notes": "Triebenfeld in Vienna to the Prince, 13 Jan 1815. Complains: no letter since the Prince's of 17 Dec (received 21st). Waiting in vain for letter to Fürst Kanzler, Blanquets, power of attorney for Geh. Rath v. Göschel, the Revers for Barbe re Koschentin, and money; Barbe can give no more, he starves. Most worried about the report from Brieg. Barbe begins to doubt. Asks for Laufzettel. Congress news: England's peace with America; Russia presses re Poland. Fürst Bartenstein got 400000 Franken from French king; suggests Prince go himself. Hardenberg recovered. No Trąbczyn content.",
+  "claims": [
+   {
+    "statement": "Seit dem am 21. erhaltenen Schreiben vom 17. Dezember nichts mehr vom Fürsten erhalten",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Wartet vergeblich auf Schreiben an Fürsten Kanzler, Blanquets, Vollmacht für Göschel, Revers für Barbe wegen Koszęcin und Geld",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Barbe kann nichts mehr geben",
+    "lines": [
+     8
+    ]
+   },
+   {
+    "statement": "Am meisten sorgt ihn, dass aus Brzeg nichts kommt (Bericht)",
+    "lines": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Russland will unserem Herrn wegen Polen nahetreten",
+    "lines": [
+     24
+    ]
+   },
+   {
+    "statement": "Fürst Bartenstein erhält vom französischen König 400000 Franken",
+    "lines": [
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Rät dem Fürsten, selbst hinzugehen und mit dem König zu verhandeln",
+    "lines": [
+     28,
+     29,
+     30
+    ],
+    "check": "overstated",
+    "why": "The advice is conditional: only if everything here goes as wished (Wenn hier alles noch nach Wunsch ginge)."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "sichzen",
+    "note": "probably sizzen (sitzen)"
+   },
+   {
+    "line": 12,
+    "word": "kapiere",
+    "note": "probably Papiere"
+   },
+   {
+    "line": 16,
+    "word": "der immer",
+    "note": "unclear, perhaps 'wahrlich nicht mehr'"
+   },
+   {
+    "line": 22,
+    "word": "Verſiſche",
+    "note": "probably Persische"
+   },
+   {
+    "line": 27,
+    "word": "renehirte",
+    "note": "unclear verb, perhaps reclamirte/negocirte"
+   },
+   {
+    "line": 18,
+    "word": "allerbaldigten",
+    "note": "probably allerbaldigsten"
+   },
+   {
+    "line": 34,
+    "word": "Verehrung",
+    "note": "standard formula is 'In tiefster Ehrfurcht'; may be the writer's variant"
+   }
+  ],
+  "read_against": "01d7c4cd1bfd24ae"
+ }
 }

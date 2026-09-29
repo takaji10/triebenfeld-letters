@@ -685,5 +685,117 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld, nach der Arretirung wegen rückständiger Zinsen erkrankt, bittet um Rücksendung der Anweisung über 6000 Rthl, um die verpfändete Hypotheque von 10000 Rthl zurückzuerhalten. Er beklagt, dass der Fürst Hawich aus Pyzdry als Justitiarius angestellt und Honrichs eine General Vollmacht gegeben hat, die zurückgefordert werden soll, und schlägt Gehälter von zusammen 1800 Rthl vor. Zu Prozessen: Ignatz von Radzinski ist als Erbpachter von Szetlewek im Rückstand; die Przespolewskische Sache gehört zu Trąbczyn und den Prusimskischen Erben."
+ "summary_de": "Triebenfeld, nach der Arretirung wegen rückständiger Zinsen erkrankt, bittet um Rücksendung der Anweisung über 6000 Rthl, um die verpfändete Hypotheque von 10000 Rthl zurückzuerhalten. Er beklagt, dass der Fürst Hawich aus Pyzdry als Justitiarius angestellt und Honrichs eine General Vollmacht gegeben hat, die zurückgefordert werden soll, und schlägt Gehälter von zusammen 1800 Rthl vor. Zu Prozessen: Ignatz von Radzinski ist als Erbpachter von Szetlewek im Rückstand; die Przespolewskische Sache gehört zu Trąbczyn und den Prusimskischen Erben.",
+ "reading": {
+  "letter": "31",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Berlin. He fell ill after being arrested over unpaid interest. He asks for the 6000 rt Anweisung to be sent back so he can redeem the pledged 10000 rt Hypotheque, and discusses ceding the Hypotheque for a loan from Holland. He complains that Hawich was appointed Justitiarius and that Honrichs was given a General Vollmacht, and proposes a salary list (1800 rt against 3700 rt before). He answers on lawsuits: Otocki, Radzinski (Szetlewek), Iwanski, Przespolewski/Prusimski. The last page is heavily garbled: Tresor Scheine, Eysenhardt/Ephraim, and recalling Honrichs' Vollmacht.",
+  "claims": [
+   {
+    "statement": "Nach der Arretirung wegen rückständiger Zinsen erkrankt",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "bittet um Rücksendung der Anweisung über 6000 Rthl, um die verpfändete Hypotheque von 10000 Rthl zurückzuerhalten",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Fürst hat Hawich aus Pyzdry als Justitiarius angestellt und Honrichs eine General Vollmacht gegeben",
+    "lines": [
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "statement": "Vollmacht soll zurückgefordert werden",
+    "lines": [
+     47,
+     48,
+     111
+    ]
+   },
+   {
+    "statement": "schlägt Gehälter von zusammen 1800 Rthl vor",
+    "lines": [
+     51,
+     52,
+     53,
+     54,
+     55,
+     56
+    ]
+   },
+   {
+    "statement": "Ignatz von Radzinski als Erbpachter von Szetlewek im Rückstand",
+    "lines": [
+     80,
+     81
+    ]
+   },
+   {
+    "statement": "Przespolewskische Sache gehört zu Trąbczyn und den Prusimskischen Erben",
+    "lines": [
+     86,
+     87
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "sezige",
+    "note": "probably 'sitze'"
+   },
+   {
+    "line": 36,
+    "word": "sei ist",
+    "note": "probably '/ er ist'"
+   },
+   {
+    "line": 60,
+    "word": "Tietz",
+    "note": "possibly Carl Titz"
+   },
+   {
+    "line": 79,
+    "word": "Exstädt",
+    "note": "unclear name, possibly Bornstädt"
+   },
+   {
+    "line": 95,
+    "word": "Haucht",
+    "note": "unclear name, also appears at line 107"
+   },
+   {
+    "line": 7,
+    "word": "im paar wahr",
+    "note": "garbled"
+   },
+   {
+    "line": 91,
+    "word": "hintzten",
+    "note": "closing formula garbled, probably 'tiefsten'"
+   },
+   {
+    "line": 54,
+    "word": "Geannter",
+    "note": "garbled, probably 'Beamter'"
+   },
+   {
+    "line": 58,
+    "word": "Husten Land Pferde Gottes",
+    "note": "garbled line"
+   }
+  ],
+  "read_against": "087742abefdb6fc5"
+ }
 }

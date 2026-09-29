@@ -232,5 +232,85 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld ist krank und bettlägerig. Bornstädt will abreisen, doch der Streit mit ihm soll vorher beigelegt werden. Triebenfeld bittet den Fürsten, Glenck zur Übersendung der mit Bornstädt geschlossenen Contracte, Vergleiche und Berechnungen anzuweisen. Außerdem soll der Fürst schriftlich erklären, Bornstädt aus besonderer Gnade 5000 Rthl geben zu wollen. Nach einem Gutachten stünden Bornstädt ohne das versprochene Honorar im Kaufgeschäft von Pszczew 7500 Rthl zu."
+ "summary_de": "Triebenfeld ist krank und bettlägerig. Bornstädt will abreisen, doch der Streit mit ihm soll vorher beigelegt werden. Triebenfeld bittet den Fürsten, Glenck zur Übersendung der mit Bornstädt geschlossenen Contracte, Vergleiche und Berechnungen anzuweisen. Außerdem soll der Fürst schriftlich erklären, Bornstädt aus besonderer Gnade 5000 Rthl geben zu wollen. Nach einem Gutachten stünden Bornstädt ohne das versprochene Honorar im Kaufgeschäft von Pszczew 7500 Rthl zu.",
+ "reading": {
+  "letter": "142",
+  "legibility": "sound",
+  "notes": "Triebenfeld, sick in Breslau, writes to the Prince. Bornstädt means to leave (the enclosed letter says so). T. asked Glenck to bring the lease and settlement contracts with Bornstädt and got back a curt note (the word describing it is doubtful). He asks the Prince to order Glenck to send the contracts, settlements and accounts, and to write that out of special grace he will give Bornstädt 5000 rt to end everything. An adviser's opinion (\"des Brauns Gutachten\", unclear) says Bornstädt would need 7500 rt, not counting the honorarium promised in the Betsche (Pszczew) purchase. Nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld ist krank und bettlägerig.",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Bornstädt will abreisen, doch der Streit mit ihm soll vorher beigelegt werden.",
+    "lines": [
+     8,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Triebenfeld bittet den Fürsten, Glenck zur Übersendung der Contracte, Vergleiche und Berechnungen mit Bornstädt anzuweisen.",
+    "lines": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "statement": "Der Fürst soll schriftlich erklären, Bornstädt aus besonderer Gnade 5000 Rthl geben zu wollen.",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Nach einem Gutachten stünden Bornstädt ohne das versprochene Honorar im Kaufgeschäft von Pszczew 7500 Rthl zu.",
+    "lines": [
+     23,
+     24
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 13,
+    "word": "Scopptisches[?]",
+    "note": "Doubtful reading; perhaps 'schnippisches' or 'spöttisches'."
+   },
+   {
+    "line": 23,
+    "word": "Brauns",
+    "note": "Unclear; could be a person's name or a garbled word."
+   },
+   {
+    "line": 26,
+    "word": "non solides fude",
+    "note": "Garbled; possibly 'ein solides Geschäft' or similar."
+   },
+   {
+    "line": 28,
+    "word": "Jahren",
+    "note": "Probably 'Ihnen' ('Höchst Ihnen')."
+   },
+   {
+    "line": 12,
+    "word": "erhalten",
+    "note": "The grammar calls for 'erhalte'; may be the writer's own slip."
+   },
+   {
+    "line": 19,
+    "word": "ſchicke",
+    "note": "The grammar calls for 'ſchicken'; may be the writer's own slip or a misreading at the line end."
+   }
+  ],
+  "read_against": "32072f0da1f576ac"
+ }
 }

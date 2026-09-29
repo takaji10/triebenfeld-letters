@@ -180,5 +180,78 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Das von Sommer unterzeichnete Promemoria berichtet über seine Sendung zu General Schimmelpfennig v der Oye. Der General ist weiter bereit, den geplanten Tausch mit den Zagórówer Gütern einzugehen. Verzögert haben ihn seine Krankheit und die schwierigen Verhandlungen seines Sohnes, des Rittmeisters, mit Stägemann in Berlin über die herauszugebenden Gelder. Diese stehen durch Vermittlung des sächsischen Gesandten nun günstiger. Weil im Winter keine Besichtigung der Güter möglich ist, bittet der General, die Sache bis zum Frühjahr auszusetzen."
+ "summary_de": "Das von Sommer unterzeichnete Promemoria berichtet über seine Sendung zu General Schimmelpfennig v der Oye. Der General ist weiter bereit, den geplanten Tausch mit den Zagórówer Gütern einzugehen. Verzögert haben ihn seine Krankheit und die schwierigen Verhandlungen seines Sohnes, des Rittmeisters, mit Stägemann in Berlin über die herauszugebenden Gelder. Diese stehen durch Vermittlung des sächsischen Gesandten nun günstiger. Weil im Winter keine Besichtigung der Güter möglich ist, bittet der General, die Sache bis zum Frühjahr auszusetzen.",
+ "reading": {
+  "letter": "228",
+  "legibility": "sound",
+  "notes": "Promemoria signed \"Sommer\", written at Schlawenschitz to \"Ew Durchleucht\" (recipient given as not identified). It reports on his mission to General Schimmelpfennig v der Oye about the planned exchange involving the Zagórów estates. The General is still willing, but two things have slowed the matter: his illness, and his son's negotiations with Stägemann in Berlin over money that is to be released. Those negotiations have improved since the Saxon envoy stepped in. Because it is winter the estates cannot be inspected, so the General asks for the matter to be put off until spring. Two passages are garbled (lines 15-16 and 24-25).",
+  "claims": [
+   {
+    "statement": "Das Promemoria ist von Sommer unterzeichnet und berichtet über seine Sendung zu General Schimmelpfennig v der Oye.",
+    "lines": [
+     3,
+     4,
+     5,
+     38
+    ]
+   },
+   {
+    "statement": "Der General ist weiter bereit, den geplanten Tausch mit den Zagórówer Gütern einzugehen.",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Verzögert haben ihn seine Krankheit und die Verhandlungen seines Sohnes mit Stägemann in Berlin über die herauszugebenden Gelder.",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Durch Vermittlung des sächsischen Gesandten, an den sich der Rittmeister v Schimmelpfennig wandte, stehen diese Verhandlungen nun günstiger.",
+    "lines": [
+     20,
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Wegen des Winters ist keine Besichtigung der Güter möglich, und der General bittet, die Sache bis zum Frühjahr auszusetzen.",
+    "lines": [
+     27,
+     28,
+     29,
+     30,
+     31,
+     32
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 15,
+    "word": "mitwuhr",
+    "note": "Garbled, together with 'tigen' on line 16. Probably 'mit wichtigen'."
+   },
+   {
+    "line": 25,
+    "word": "benen Kurgen",
+    "note": "Probably 'binnen Kurzem'. The full stop after 'werde' on line 24 also looks spurious."
+   }
+  ],
+  "read_against": "0468e3225602b6d6"
+ }
 }

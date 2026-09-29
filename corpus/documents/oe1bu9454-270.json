@@ -335,5 +335,133 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Kalisz wird wohl russisch. Triebenfeld soll Trąbczyn zurückgewinnen, erhält aber keine Zusicherung. Man sagt, der Kaiser werde die Maßnahmen der Wohlverwaltungs Commission kaum aufheben, eher den Fürsten anders entschädigen. Der Staats Kanzler verbietet ihm jede Demarche. Moscinski, Ehemann der geborenen Prusimska, ist mit Graf Lanskoy eng befreundet. Die Sache liegt bei Stägemann. Werden die Cur. befriedigt, fällt Cosmars Arrestschlag. Der Revenuen Überschlag zum Brieger Protocoll erschreckt ihn. Dazu Gerüchte über Sachsen und Wellington."
+ "summary_de": "Kalisz wird wohl russisch. Triebenfeld soll Trąbczyn zurückgewinnen, erhält aber keine Zusicherung. Man sagt, der Kaiser werde die Maßnahmen der Wohlverwaltungs Commission kaum aufheben, eher den Fürsten anders entschädigen. Der Staats Kanzler verbietet ihm jede Demarche. Moscinski, Ehemann der geborenen Prusimska, ist mit Graf Lanskoy eng befreundet. Die Sache liegt bei Stägemann. Werden die Cur. befriedigt, fällt Cosmars Arrestschlag. Der Revenuen Überschlag zum Brieger Protocoll erschreckt ihn. Dazu Gerüchte über Sachsen und Wellington.",
+ "reading": {
+  "letter": "270",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from the Vienna Congress to the Prince. Kalisz will probably go to Russia. He must now work to get Trąbczyn back, but people say the Emperor will not annul what the Wohlverwaltungs Commission did and would sooner compensate the Prince in some other way. The Staatskanzler forbids him any démarche. Moscinski (husband of the née Prusimska) and Graf Lanskoy are close friends. Rumours about Saxony, Wellington, Metternich and Talleyrand. The Majorat matter lies with Stägemann. If the creditors are satisfied, Cosmar's arrest on the estates will be lifted. He is shocked by the revenue estimate attached to the Brieg protocol. Emperor Franz has extended the lodgings for 2 months.",
+  "claims": [
+   {
+    "statement": "Kalisz wird wohl russisch",
+    "lines": [
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Triebenfeld soll Trąbczyn zurückgewinnen, erhält aber keine tröstliche Zusicherung",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Man sagt, der Kaiser werde die Maßnahmen der Wohlverwaltungs Commission kaum aufheben, eher den Fürsten anders entschädigen",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Der Staats Kanzler verbietet ihm jede Demarche",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "Moscinski, Ehemann der geborenen Prusimska, und Graf Lanskoy sind Busenfreunde",
+    "lines": [
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Majoratssache liegt bei Stägemann",
+    "lines": [
+     27,
+     28,
+     29
+    ],
+    "check": "overstated",
+    "why": "Z. 27-28 sagen nur 'die Sache' liegt Stägemann vor. Dass es die Majoratssache ist, steht dort nicht, das ist eine Deutung."
+   },
+   {
+    "statement": "Bei Befriedigung der Gläubiger fällt Cosmars Arrestschlag",
+    "lines": [
+     31,
+     32,
+     33
+    ],
+    "check": "overstated",
+    "why": "Im Brief steht nur die Abkürzung 'Cur.'. Sie als 'Gläubiger' aufzulösen ist eine Deutung."
+   },
+   {
+    "statement": "Revenuen Überschlag zum Brieger Protocoll erschreckt ihn",
+    "lines": [
+     35,
+     36,
+     37,
+     38
+    ]
+   },
+   {
+    "statement": "Kongressgerüchte über Sachsen und Wellington",
+    "lines": [
+     14,
+     19,
+     20,
+     21,
+     42
+    ],
+    "check": "overstated",
+    "why": "Der Brief berichtet Gerüchte über Sachsen und dass Wellington angekommen ist und sich angeblich für den König von Sachsen ausspricht. Von einem Kongress spricht er nicht ausdrücklich."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 14,
+    "word": "eingetrösten",
+    "note": "probably eingetroffen"
+   },
+   {
+    "line": 15,
+    "word": "Kosten",
+    "note": "unclear, perhaps a name or Sachsen"
+   },
+   {
+    "line": 22,
+    "word": "muet",
+    "note": "probably nimmt"
+   },
+   {
+    "line": 41,
+    "word": "Fullenbaum",
+    "note": "name doubtful"
+   },
+   {
+    "line": 51,
+    "word": "Neisse",
+    "note": "probably Nichte"
+   },
+   {
+    "line": 53,
+    "word": "führe",
+    "note": "probably höre"
+   },
+   {
+    "line": 57,
+    "word": "Bau",
+    "note": "probably kann"
+   },
+   {
+    "line": 50,
+    "word": "Ausvermählte",
+    "note": "garbled, perhaps Auserwählte"
+   }
+  ],
+  "read_against": "66f1593cd9d9a8df"
+ }
 }

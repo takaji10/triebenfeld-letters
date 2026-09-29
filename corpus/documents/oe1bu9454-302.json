@@ -381,5 +381,123 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, er habe Hawich und Ober-Inspektor Hecker bei sich gehabt und dreizehn gerichtliche Vollmachten ausgestellt: wegen der Dąbska und der Trąbczyner Güter, zur Aufhebung der Sequestration, zur Klage gegen Oppenheimer et Wolf in Kalisz auf Löschung von über 72000 Rthl, zur Absetzung des Sequesters Honrichs und Annullierung seiner eigenmächtigen Grundverkäufe, gegen Niedźwiecki wegen rückständiger Pacht, gegen die Olesnicer Erbpächter und zur Vertretung auf dem Reichstag in Warszawa. Seine Obligationen über 250000 Rthl gäben ihm Mitspracherecht."
+ "summary_de": "Triebenfeld berichtet, er habe Hawich und Ober-Inspektor Hecker bei sich gehabt und dreizehn gerichtliche Vollmachten ausgestellt: wegen der Dąbska und der Trąbczyner Güter, zur Aufhebung der Sequestration, zur Klage gegen Oppenheimer et Wolf in Kalisz auf Löschung von über 72000 Rthl, zur Absetzung des Sequesters Honrichs und Annullierung seiner eigenmächtigen Grundverkäufe, gegen Niedźwiecki wegen rückständiger Pacht, gegen die Olesnicer Erbpächter und zur Vertretung auf dem Reichstag in Warszawa. Seine Obligationen über 250000 Rthl gäben ihm Mitspracherecht.",
+ "reading": {
+  "letter": "302",
+  "legibility": "sound",
+  "notes": "Triebenfeld to the Prince, from Kontop. He had Hawich (Justiz Bürgermeister of Zagorowo, now a Warsaw notary) and Ober-Inspektor Hecker with him and issued thirteen court powers of attorney. They cover: the Dąbska and the Trąbczyn estates, lifting the sequestration, interest payments, a suit against Oppenheimer et Wolf, removing the sequester Honrichs, Niedźwiecki's rent arrears, purchase-money arrears, the Olesnicer hereditary tenants, boundary suits, the Reichstag, the Invaliden Casse and the heirs' arrears. Schenck of Neusatz recorded them. The parallel copy (doc 48) differs in a few places: Abweisung, 23000, Radzinskischen, Lahrschen.",
+  "claims": [
+   {
+    "statement": "Hawich und Ober-Inspektor Hecker waren bei Triebenfeld; er stellte gerichtliche Special-Vollmachten aus",
+    "lines": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Vollmacht wegen der Dąbska und der Trąbczyner Güter",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Vollmacht zur Aufhebung der Sequestration",
+    "lines": [
+     9
+    ]
+   },
+   {
+    "statement": "Klage gegen Oppenheimer et Wolf in Kalisz auf Löschung von über 72000 Rthl",
+    "lines": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Absetzung des Sequesters Honrichs und Annullierung seiner eigenmächtigen Grundverkäufe",
+    "lines": [
+     19,
+     20,
+     26,
+     27
+    ]
+   },
+   {
+    "statement": "Vollmacht gegen Niedźwiecki wegen rückständiger Pacht",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Vollmacht gegen die Olesnicer Erbpächter",
+    "lines": [
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "statement": "Vertretung auf dem Reichstag in Warszawa",
+    "lines": [
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "Obligationen über 250000 Rthl geben ihm Mitspracherecht",
+    "lines": [
+     57,
+     58
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Anweisung",
+    "note": "Copy (doc 48 l.8) reads 'Abweisung'; preposition 'Auf der' would then be 'auf die'"
+   },
+   {
+    "line": 36,
+    "word": "32000",
+    "note": "Copy reads 23000; figure not changed, so it is left out of the summary"
+   },
+   {
+    "line": 52,
+    "word": "Niedźwieckischen",
+    "note": "Copy reads 'Radzinskischen Erben'"
+   },
+   {
+    "line": 49,
+    "word": "Larischen",
+    "note": "Copy reads 'Lahrschen', probably von der Lahr"
+   },
+   {
+    "line": 18,
+    "word": "wißfalls",
+    "note": "Probably 'weshalb/wasfalls'; copy 'waßfals'"
+   },
+   {
+    "line": 3,
+    "word": "alswirkl. Herzog Co[?]",
+    "note": "Copy: 'als würklicher Herzoglich Warschauer'"
+   },
+   {
+    "line": 15,
+    "word": "b",
+    "note": "Stray letter; copy reads 'abzuführen gegeben'"
+   },
+   {
+    "line": 22,
+    "word": "ſollet",
+    "note": "Copy reads 'solle'"
+   }
+  ],
+  "read_against": "9caed4eba6095f09"
+ }
 }

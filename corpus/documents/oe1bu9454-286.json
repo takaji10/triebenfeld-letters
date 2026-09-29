@@ -706,5 +706,137 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet über Napoleons Rückkehr und den drohenden Krieg; bei den Verwirrungen sei wenig zu erreichen, Hardenberg verspreche alles, Stägemann handle, wie es ihm gefalle. Da die Prusimska die polnischen Güter zurückerhalten habe, reichte er ein beiliegendes Pro Memoria ein: Es berechnet die Verluste an Kamionna und Trąbczyn (taxiert auf 316000 Rthl, reiner Wert 240000 Rthl) und fordert 390100 Rthl bar oder in Gütern. Er bittet um schnellste Antwort und Blanquets; Beguelin wünscht ein Schreiben des Fürsten."
+ "summary_de": "Triebenfeld berichtet über Napoleons Rückkehr und den drohenden Krieg; bei den Verwirrungen sei wenig zu erreichen, Hardenberg verspreche alles, Stägemann handle, wie es ihm gefalle. Da die Prusimska die polnischen Güter zurückerhalten habe, reichte er ein beiliegendes Pro Memoria ein: Es berechnet die Verluste an Kamionna und Trąbczyn (taxiert auf 316000 Rthl, reiner Wert 240000 Rthl) und fordert 390100 Rthl bar oder in Gütern. Er bittet um schnellste Antwort und Blanquets; Beguelin wünscht ein Schreiben des Fürsten.",
+ "reading": {
+  "letter": "286",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Hohenlohe during the Hundred Days. He comments on Napoleon's advance and says little can be done for now: Hardenberg promises, and Stägemann does as he pleases. Because the Prusimska has been given the Polish estates back, he has handed in a P.M. (286a). The P.M. works out the Prince's claims on the Kaemen and Trąbczyn estates, totalling 390100 rt, to be paid in cash or in estates. General Amstetten supports compensation in estates. Triebenfeld asks for a quick answer and blank sheets (Blanquets), and says Beguelin wants a letter from the Prince. A postscript dated 1 April covers politics again. The text is partly garbled, especially the passage on lines 36-47.",
+  "claims": [
+   {
+    "statement": "Triebenfeld berichtet über Napoleons Rückkehr und den drohenden Krieg",
+    "lines": [
+     7,
+     16,
+     17,
+     18,
+     107,
+     108
+    ]
+   },
+   {
+    "statement": "bei den Verwirrungen sei wenig zu erreichen, Hardenberg verspreche alles, Stägemann handle, wie es ihm gefalle",
+    "lines": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Da die Prusimska die polnischen Güter zurückerhalten habe, reichte er ein beiliegendes Pro Memoria ein",
+    "lines": [
+     24,
+     25
+    ]
+   },
+   {
+    "statement": "Das P.M. berechnet die Verluste an Kamionna und Trąbczyn; Trąbczyn taxiert auf 316000 Rthl, reiner Wert 240000 Rthl",
+    "lines": [
+     63,
+     89,
+     90,
+     99
+    ]
+   },
+   {
+    "statement": "fordert 390100 Rthl bar oder in Gütern",
+    "lines": [
+     103,
+     104,
+     105
+    ]
+   },
+   {
+    "statement": "bittet um schnellste Antwort und Blanquets",
+    "lines": [
+     51,
+     52
+    ]
+   },
+   {
+    "statement": "Beguelin wünscht ein Schreiben des Fürsten",
+    "lines": [
+     53,
+     54
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "Huße",
+    "note": "probably Rußen"
+   },
+   {
+    "line": 12,
+    "word": "Schönlich",
+    "note": "probably Schändlich"
+   },
+   {
+    "line": 15,
+    "word": "Dir",
+    "note": "probably wir"
+   },
+   {
+    "line": 24,
+    "word": "Ihren",
+    "note": "probably Herren (the two monarchs)"
+   },
+   {
+    "line": 26,
+    "word": "würde",
+    "note": "sentence garbled; probably 'Abgewiesen können Ewr Durchlaucht damit nicht werden'"
+   },
+   {
+    "line": 29,
+    "word": "gemeinen",
+    "note": "probably gewinnen"
+   },
+   {
+    "line": 37,
+    "word": "gelesen",
+    "note": "passage garbled (Cosmar ... Herr der Majorats Güter)"
+   },
+   {
+    "line": 43,
+    "word": "gestett",
+    "note": "garbled"
+   },
+   {
+    "line": 67,
+    "word": "Frörmig",
+    "note": "garbled"
+   },
+   {
+    "line": 95,
+    "word": "Mann Ge. Seher Thos",
+    "note": "garbled creditor name; document 285 reads 'Seeher Thoss'"
+   },
+   {
+    "line": 107,
+    "word": "schuldig",
+    "note": "doubtful; perhaps ernsthaft"
+   },
+   {
+    "line": 113,
+    "word": "schwerfelligen",
+    "note": "probably schwerfällig"
+   },
+   {
+    "line": 119,
+    "word": "Marat",
+    "note": "probably Murat"
+   }
+  ],
+  "read_against": "918a0ede40973f30"
+ }
 }

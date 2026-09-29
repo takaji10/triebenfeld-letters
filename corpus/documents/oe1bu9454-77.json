@@ -241,5 +241,125 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld meldet, die Sache laufe nach Wunsch: Der König hat über Beyme geschrieben, Minister v Voss soll schleunigst berichten. Glenck soll die Anschläge passend zur Designation und zu den Contracten gründlich ausarbeiten. Triebenfeld hat einen Mann in Potsdam gewonnen und sorgt für eine Anleihe. Michaelis werde um eine Vollmacht schreiben. Triebenfeld bittet um unterschriebene Blanketts. Nachschrift: Buerensprung wurde Land Forstmeister, Wedel bleibt im Amt, Lindenau erhielt den Titel Excellenz."
+ "summary_de": "Triebenfeld meldet, die Sache laufe nach Wunsch: Der König hat über Beyme geschrieben, Minister v Voss soll schleunigst berichten. Glenck soll die Anschläge passend zur Designation und zu den Contracten gründlich ausarbeiten. Triebenfeld hat einen Mann in Potsdam gewonnen und sorgt für eine Anleihe. Michaelis werde um eine Vollmacht schreiben. Triebenfeld bittet um unterschriebene Blanketts. Nachschrift: Buerensprung wurde Land Forstmeister, Wedel bleibt im Amt, Lindenau erhielt den Titel Excellenz.",
+ "reading": {
+  "letter": "77",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld in Berlin reports to the Prince on a pending matter at court: a letter from the King sent via Geh. Rath Beyme, and the matter referred to Minister v Voss for a quick report. Glenck is to prepare the Anschläge so they match the Designation and the contracts. He has engaged a man in Potsdam, says Michaelis will ask for a Vollmacht, is arranging a loan, and asks for signed blank sheets (blanquets). He will visit Fürstin Sacken. Postscript on appointments: Buerensprung made Land Forstmeister, Wedel stays in post, Lindenau made Excellenz. The letter does not mention Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Die Sache läuft nach Wunsch, Schreiben des Königs über Beyme",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Minister v Voss soll schleunigst berichten",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Glenck soll Anschläge gemäß Designation und Contracten formieren",
+    "lines": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "statement": "Mann in Potsdam engagiert",
+    "lines": [
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Vollmacht für Michaelis erbeten",
+    "lines": [
+     22,
+     23,
+     24,
+     25
+    ],
+    "check": "overstated",
+    "why": "Z. 22-25: Michaelis selbst werde um eine Vollmacht schreiben, der Fürst möge sie durch ihn schicken. Für wen die Vollmacht ist, sagt der Brief nicht klar, und nicht Triebenfeld bittet darum."
+   },
+   {
+    "statement": "sorgt für eine Anleihe",
+    "lines": [
+     31,
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "statement": "bittet um unterschriebene Blanketts",
+    "lines": [
+     47,
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "statement": "Buerensprung Land Forstmeister, Wedel bleibt, Lindenau Excellenz",
+    "lines": [
+     62,
+     63,
+     64,
+     66
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "Fuh aus",
+    "note": "garbled, perhaps 'Hochdieselben' or 'durch'"
+   },
+   {
+    "line": 51,
+    "word": "dreiber ergebenster dier",
+    "note": "probably 'darüber ... Diener'"
+   },
+   {
+    "line": 54,
+    "word": "mippen",
+    "note": "probably 'nützen' or similar"
+   },
+   {
+    "line": 57,
+    "word": "Fürsten",
+    "note": "probably 'Fürstin'; 'im' probably 'um'"
+   },
+   {
+    "line": 43,
+    "word": "ſpänle",
+    "note": "probably 'spiele'"
+   },
+   {
+    "line": 64,
+    "word": "sich",
+    "note": "probably 'sieht'"
+   },
+   {
+    "line": 60,
+    "word": "Hochachtung",
+    "note": "usual formula is 'In tiefster Ehrfurcht ersterbe'; this may be the writer's own variant"
+   },
+   {
+    "line": 15,
+    "word": "Tietz",
+    "note": "possibly Carl Titz"
+   }
+  ],
+  "read_against": "66cff908fc7aa083"
+ }
 }

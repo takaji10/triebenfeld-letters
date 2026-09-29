@@ -203,5 +203,124 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld hat Obristlieutenant v Thiel gefragt, ob der König bei Prinz Adolphs Ankunft am 20. noch in Wien sei. Thiel versichert, der König werde sich freuen und man reise nicht vor dem 22. ab. Mit Hardenberg hat Triebenfeld noch nicht gesprochen, die Sachen des Fürsten ruhen weiter. Er berichtet, Murat sei bis Mantua vorgedrungen und Bonaparte sammle Truppen bei Paris. Dem Fürsten müsse für Güter ein Äquivalent gegeben werden. Der Schluss über eine Hypothek bei Zagórów ist kaum lesbar."
+ "summary_de": "Triebenfeld hat Obristlieutenant v Thiel gefragt, ob der König bei Prinz Adolphs Ankunft am 20. noch in Wien sei. Thiel versichert, der König werde sich freuen und man reise nicht vor dem 22. ab. Mit Hardenberg hat Triebenfeld noch nicht gesprochen, die Sachen des Fürsten ruhen weiter. Er berichtet, Murat sei bis Mantua vorgedrungen und Bonaparte sammle Truppen bei Paris. Dem Fürsten müsse für Güter ein Äquivalent gegeben werden. Der Schluss über eine Hypothek bei Zagórów ist kaum lesbar.",
+ "reading": {
+  "letter": "16",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Vienna to Prince Hohenlohe-Ingelfingen. Rumours about when the monarchs will leave keep changing; he encloses a Nota. He asked Obristlieutenant v Thiel whether the King will still be in Vienna when Prinz Adolph arrives on the 20th. Thiel said the King would be glad and that they would not leave before the 22nd. He has not yet spoken to Hardenberg, and the Prince's affairs are still stuck. War news: Murat has reached Mantua, the Russians are marching, Bonaparte is massing troops at Paris. The end of the letter is garbled: some estate business, an equivalent owed to the Prince, creditors, and a hypothec on Zagorowo in the writer's favour.",
+  "claims": [
+   {
+    "statement": "Triebenfeld fragte Obristlieutenant v Thiel, ob der König bei Prinz Adolphs Ankunft am 20. noch in Wien sei",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "Thiel versichert, der König werde sich freuen, und man reise nicht vor dem 22. ab",
+    "lines": [
+     18,
+     19,
+     21,
+     22
+    ]
+   },
+   {
+    "statement": "Mit Hardenberg hat er noch nicht gesprochen; die Sachen des Fürsten liegen trotz Versicherungen still",
+    "lines": [
+     23,
+     25,
+     26
+    ]
+   },
+   {
+    "statement": "Murat ist bis Mantua vorgedrungen; Bonaparte zieht Truppen bei Paris zusammen",
+    "lines": [
+     27,
+     32,
+     33
+    ]
+   },
+   {
+    "statement": "Dem Fürsten muss ein angemessenes Äquivalent für Güter gegeben werden",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Schluss über eine Hypothek auf Zagórów kaum lesbar",
+    "lines": [
+     42,
+     43
+    ],
+    "check": "overstated",
+    "why": "Line 43 says 'bey Zagorowo eine hypotheque auf mich ausstellen'. The hypothec is on Triebenfeld ('auf mich'), placed at Zagórów. The letter does not say it is a hypothec on Zagórów."
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 10,
+    "word": "Harum",
+    "note": "Unclear; probably a place name or noun that has been misread."
+   },
+   {
+    "line": 11,
+    "word": "Bericht",
+    "note": "Probably 'bemüht'."
+   },
+   {
+    "line": 18,
+    "word": "Thiels",
+    "note": "Line 13 has 'v Thiel'; the -s may be a misreading."
+   },
+   {
+    "line": 30,
+    "word": "Waßtag",
+    "note": "Probably 'Rasttag'; see line 31 'raß Tag'."
+   },
+   {
+    "line": 33,
+    "word": "kleinen",
+    "note": "Probably 'Linien'."
+   },
+   {
+    "line": 38,
+    "word": "Kosten",
+    "note": "Uncertain which estate business is meant; possibly a misreading."
+   },
+   {
+    "line": 41,
+    "word": "jagt",
+    "note": "Garbled passage."
+   },
+   {
+    "line": 41,
+    "word": "Unfäng",
+    "note": "Garbled; reading uncertain."
+   },
+   {
+    "line": 43,
+    "word": "Ihm",
+    "note": "Possibly 'Ihnen'."
+   },
+   {
+    "line": 44,
+    "word": "Hochachtung",
+    "note": "The usual closing formula is 'In tiefster Ehrfurcht'; possibly a misreading."
+   },
+   {
+    "line": 29,
+    "word": "wie",
+    "note": "Possibly 'nun'."
+   }
+  ],
+  "read_against": "d222aa41c5dabc5f"
+ }
 }

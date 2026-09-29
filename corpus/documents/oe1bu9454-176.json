@@ -222,5 +222,109 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Hahn meldet den Tod des regierenden Fürsten zu Hohenlohe-Neuenstein am 27. Juli durch Schlagfluss. Laut Testament ist Hahns Fürst Alleinerbe; in Öhringen und den übrigen Orten wurde sofort Besitz ergriffen. Maßnahmen der Fürsten zu Langenburg und Kirchberg, gestützt auf einen Teilungsvertrag, wurden abgewehrt, ihre Truppen zurückgewiesen. Der Fürst will im September nach den schlesischen Revuen dorthin reisen. Er überlässt die südpreußischen Angelegenheiten Triebenfelds Einsicht, da er lange abwesend sein wird."
+ "summary_de": "Hahn meldet den Tod des regierenden Fürsten zu Hohenlohe-Neuenstein am 27. Juli durch Schlagfluss. Laut Testament ist Hahns Fürst Alleinerbe; in Öhringen und den übrigen Orten wurde sofort Besitz ergriffen. Maßnahmen der Fürsten zu Langenburg und Kirchberg, gestützt auf einen Teilungsvertrag, wurden abgewehrt, ihre Truppen zurückgewiesen. Der Fürst will im September nach den schlesischen Revuen dorthin reisen. Er überlässt die südpreußischen Angelegenheiten Triebenfelds Einsicht, da er lange abwesend sein wird.",
+ "reading": {
+  "letter": "176",
+  "legibility": "partly garbled",
+  "notes": "Hahn writes from Breslau to Triebenfeld. An express courier has brought news that the reigning Prince of Hohenlohe-Neuenstein has died. He took ill on 24 July and died of a stroke on 27 July. Under his will Hahn's \"gnädigster Fürst\" is sole heir, and possession was taken at once in Öhringen and the other places. The Princes of Langenburg and Kirchberg tried measures based on a partition treaty; their troops were turned back and the Ingelfingen patents posted. The Prince will travel there in September after the Silesian reviews. Because he will be away a long time, he leaves the South Prussian affairs to Triebenfeld. Rough transcription: several words are garbled.",
+  "claims": [
+   {
+    "statement": "Hahn meldet den Tod des regierenden Fürsten zu Hohenlohe-Neuenstein am 27. Juli durch Schlagfluss",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Laut Testament ist Hahns Fürst Alleinerbe; in Öhringen und den übrigen Orten wurde sofort Besitz ergriffen",
+    "lines": [
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Maßnahmen der Fürsten zu Langenburg und Kirchberg, gestützt auf einen Teilungsvertrag, wurden abgewehrt, ihre Truppen zurückgewiesen",
+    "lines": [
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ]
+   },
+   {
+    "statement": "Der Fürst will im September nach den schlesischen Revuen dorthin reisen",
+    "lines": [
+     38,
+     39,
+     40
+    ]
+   },
+   {
+    "statement": "Er überlässt die südpreußischen Angelegenheiten Triebenfelds Einsicht, da er lange abwesend sein wird",
+    "lines": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 11,
+    "word": "Rathlauf",
+    "note": "probably 'Rothlauf' (erysipelas)"
+   },
+   {
+    "line": 15,
+    "word": "Fraues",
+    "note": "probably 'frommes'"
+   },
+   {
+    "line": 15,
+    "word": "rähmliches",
+    "note": "probably 'rühmliches'"
+   },
+   {
+    "line": 24,
+    "word": "geheliche",
+    "note": "garbled; perhaps 'gewaltsame' or 'gefährliche'"
+   },
+   {
+    "line": 27,
+    "word": "Aufaenger",
+    "note": "garbled; perhaps 'Anhängern' or 'Beamten'"
+   },
+   {
+    "line": 32,
+    "word": "beygehen",
+    "note": "probably 'beygehen lassen' = presumed; also 'welche anzuschlagen' unclear"
+   },
+   {
+    "line": 48,
+    "word": "mus",
+    "note": "probably 'mir'"
+   },
+   {
+    "line": 49,
+    "word": "anzuhren",
+    "note": "probably 'anzubringen' (broken across line)"
+   }
+  ],
+  "read_against": "f20f8b1e89a3e7d8"
+ }
 }

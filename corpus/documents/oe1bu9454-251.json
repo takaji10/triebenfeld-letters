@@ -122,5 +122,81 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld legt ein Gutachten vor, das der Fürst zu Hohenlohe aus den Akten des Brieger Oberlandesgerichts anfertigen ließ. Er bittet um die schriftliche Hoffnung, dass 112/m Rthl zur Abfindung der C. Erben vorgeschossen werden, damit der Fürst den Vergleich mit deren Mandatarien schließen kann. Transakt und Codizill von 1811 seien von Cosmar geschmiedet. Der Fürst ist an 66 Jahre alt, jede Verzögerung sei daher gefährlich: Der Monarch könnte 461000 Rthl einschließlich 35000 Rthl verlieren."
+ "summary_de": "Triebenfeld legt ein Gutachten vor, das der Fürst zu Hohenlohe aus den Akten des Brieger Oberlandesgerichts anfertigen ließ. Er bittet um die schriftliche Hoffnung, dass 112/m Rthl zur Abfindung der C. Erben vorgeschossen werden, damit der Fürst den Vergleich mit deren Mandatarien schließen kann. Transakt und Codizill von 1811 seien von Cosmar geschmiedet. Der Fürst ist an 66 Jahre alt, jede Verzögerung sei daher gefährlich: Der Monarch könnte 461000 Rthl einschließlich 35000 Rthl verlieren.",
+ "reading": {
+  "letter": "251",
+  "legibility": "partly garbled",
+  "notes": "Abschrift. Triebenfeld, Wien, 19.11.1814. Der Brief spricht einen \"Durchlauchtigster Fürst\" an und nennt den Fürsten zu Hohenlohe in der dritten Person. Er ist also wohl ein Bittschreiben an einen anderen Fürsten zugunsten Hohenlohes. Die Kopie liegt bei den Briefen an Friedrich Ludwig. Inhalt: Hohenlohe hat aus den Brieger OLG-Akten ein Gutachten erstellen lassen. Er leidet unter dem Medicinal Rath Cosmar. Erbeten wird die schriftliche Zusage, 112/m rt zur Abfindung der C. Erben vorzuschießen. Dann könne Hohenlohe den Vergleich abschließen. Transakt und Codizill von 1811 seien von Cosmar geschmiedet. Jede Verzögerung sei gefährlich, der Monarch könne sonst 461000 rt verlieren. Nichts zu Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Triebenfeld legt ein Gutachten vor, das der Fürst zu Hohenlohe aus den Brieger Oberlandesgerichtsakten anfertigen ließ",
+    "lines": [
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Bitte um schriftliche Zusage, 112/m Rthl zur Abfindung der C. Erben vorzuschießen, damit der Fürst mit den Mandatarien den Vergleich schließen kann",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ],
+    "check": "overstated",
+    "why": "Lines 10-13 ask only that the Fürst be given the written 'Hoffnung' (hope) that the 112/m rt would be advanced. That is weaker than a 'Zusage' (promise). The rest is supported."
+   },
+   {
+    "statement": "Transakt und Codizill von 1811 von Cosmar geschmiedet",
+    "lines": [
+     15,
+     16
+    ]
+   },
+   {
+    "statement": "Fürst an 66 Jahre alt, jede Verzögerung gefährlich",
+    "lines": [
+     20,
+     22
+    ]
+   },
+   {
+    "statement": "Monarch könnte inklusive der 35000 Rthl 461000 Rthl verlieren",
+    "lines": [
+     27,
+     28
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "unglückt",
+    "note": "wohl 'unglückliche'"
+   },
+   {
+    "line": 20,
+    "word": "Allersebnißest",
+    "note": "garbled, wohl 'Allerunterthänigst' o.ä."
+   },
+   {
+    "line": 27,
+    "word": "Wege",
+    "note": "wohl 'Wegen'"
+   },
+   {
+    "line": 27,
+    "word": "wurden",
+    "note": "Sinn 'würden'"
+   },
+   {
+    "line": 14,
+    "word": "König",
+    "note": "wohl 'Königliche'"
+   }
+  ],
+  "read_against": "8458482d5d333067"
+ }
 }

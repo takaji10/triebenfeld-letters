@@ -144,5 +144,62 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "v. Triebenfeld legt dem Fürsten seinen Entwurf der Antwort an Kunckel vor, damit dieser prüft, ob sie seinem Willen entspricht. Er bittet, beide Schreiben von jemand anderem ins Reine schreiben zu lassen, da seine Frau heute beigesetzt wird und er sich mit den Kindern zu seinem Schwager zurückgezogen hat. In seinem eigenen Schreiben an Kunckel will er alles gründlich darlegen. Eine Karte von Kopojno, Skokum und Swiątniki habe er bei sich."
+ "summary_de": "v. Triebenfeld legt dem Fürsten seinen Entwurf der Antwort an Kunckel vor, damit dieser prüft, ob sie seinem Willen entspricht. Er bittet, beide Schreiben von jemand anderem ins Reine schreiben zu lassen, da seine Frau heute beigesetzt wird und er sich mit den Kindern zu seinem Schwager zurückgezogen hat. In seinem eigenen Schreiben an Kunckel will er alles gründlich darlegen. Eine Karte von Kopojno, Skokum und Swiątniki habe er bei sich.",
+ "reading": {
+  "letter": "124",
+  "legibility": "sound",
+  "notes": "Triebenfeld writes a short note to the Prince from Wrocław. He encloses his draft reply to Kunckel for the Prince to check against his wishes. He asks that someone make fair copies of both letters, because his wife is being buried today and he has gone with the children to his brother-in-law's. He will explain everything in his own letter to Kunckel. The last sentence mentions a map of Kopojno, Skokum and Swiątniki and breaks off with \"habe ich hier\". There is nothing about Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Legt den Entwurf der Antwort an Kunckel zur Prüfung vor, ob sie dem Willen des Fürsten entspricht",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Bittet, beide Schreiben von jemandem ins Reine schreiben zu lassen",
+    "lines": [
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Seine Frau wird heute beigesetzt, er hat sich mit den Kindern zum Schwager zurückgezogen",
+    "lines": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Will im eigenen Schreiben an Kunckel alles gründlich darlegen",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Hat eine Karte von Kopojno, Skokum und Swiątniki bei sich",
+    "lines": [
+     12,
+     13
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "mich mir",
+    "note": "Doubled reflexive pronoun. This may be a slip by the writer or a misreading."
+   },
+   {
+    "line": 13,
+    "word": "habe ich hier",
+    "note": "The sentence breaks off before the date. Text may be missing or the letter may continue on another page."
+   }
+  ],
+  "read_against": "d437aedade4ed1ed"
+ }
 }

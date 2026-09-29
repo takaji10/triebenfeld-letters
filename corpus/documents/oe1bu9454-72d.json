@@ -113,5 +113,50 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Brzechffa teilt Triebenfeld mit, dass er wegen verschiedener Geschäfte erst am 15. des Monats aus Warschau abreisen kann. Nach eingezogenen zuverlässigen Nachrichten steht die Sache wegen Trąbczyn recht gut. Näheres will er mündlich berichten. Wegen der abgehenden Gelegenheit schreibt er nur kurz."
+ "summary_de": "Brzechffa teilt Triebenfeld mit, dass er wegen verschiedener Geschäfte erst am 15. des Monats aus Warschau abreisen kann. Nach eingezogenen zuverlässigen Nachrichten steht die Sache wegen Trąbczyn recht gut. Näheres will er mündlich berichten. Wegen der abgehenden Gelegenheit schreibt er nur kurz.",
+ "reading": {
+  "letter": "72d",
+  "legibility": "sound",
+  "notes": "Short note from Brzechffa in Warsaw to Triebenfeld, whom he calls \"Bruder\". He can leave Warsaw only on the 15th of the month because of other business. He has reliable information that the Trąbczyn matter stands well and will tell more in person. A Polish copy (72e) confirms the content. The previous letter shows Brzechffa was in Warsaw pursuing the Trąbczyn restitution with Prefect Garczynski.",
+  "claims": [
+   {
+    "statement": "Brzechffa kann wegen verschiedener Geschäfte erst am 15. des Monats aus Warschau abreisen.",
+    "lines": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Nach eingezogenen zuverlässigen Nachrichten steht die Sache wegen Trąbczyn recht gut.",
+    "lines": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Näheres will er mündlich berichten.",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "Wegen der abgehenden Gelegenheit schreibt er nur kurz.",
+    "lines": [
+     9,
+     10
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "dem",
+    "note": "Probably 'Dein Freund und Bruder' (Polish 'przyiaciela'); not provable."
+   }
+  ],
+  "read_against": "5865dfb7bbc38cf1"
+ }
 }

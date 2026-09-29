@@ -81,5 +81,66 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Der Schreiber bezieht sich auf die Vorstellung des Adressaten, wonach sich der Fürst zu Hohenlohe im Transact von 1811 verpflichtet habe, das den Curländischen Erben geschuldete Capital selbst zu bezahlen. Da er die Stelle nicht finden kann, bittet er, sie im beigefügten Transact anzustreichen und ihm das Stück durch den Überbringer zurückzuschicken."
+ "summary_de": "Der Schreiber bezieht sich auf die Vorstellung des Adressaten, wonach sich der Fürst zu Hohenlohe im Transact von 1811 verpflichtet habe, das den Curländischen Erben geschuldete Capital selbst zu bezahlen. Da er die Stelle nicht finden kann, bittet er, sie im beigefügten Transact anzustreichen und ihm das Stück durch den Überbringer zurückzuschicken.",
+ "reading": {
+  "letter": "257",
+  "legibility": "partly garbled",
+  "notes": "Short note, writer not identified (signature garbled, \"[?]aumann[??]\"), to an addressee styled \"Ew. Hochwolgeb.\". The addressee's Vorstellung (dated \"23. Oct.\" though the note is dated 7 Oct. 1814) states that the Fürst zu Hohenlohe undertook in the Transact of 1811 to pay the capital owed to the Curländische Erben himself and to release \"Fr. Gr.\" from co-liability. The writer cannot find the passage and asks the addressee to mark it in the enclosed Transact and return it by the bearer. Sum on line 7 doubtful. Ending of the sentence on lines 8-9 garbled.",
+  "claims": [
+   {
+    "statement": "Bezug auf die Vorstellung des Adressaten: Fürst zu Hohenlohe habe sich im Transact von 1811 verpflichtet, das den Curländischen Erben geschuldete Capital selbst zu bezahlen",
+    "lines": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "statement": "Schreiber findet die Stelle nicht und bittet, sie im beigefügten Transact anzustreichen und durch den Überbringer zurückzuschicken",
+    "lines": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 12,
+    "word": "gefüllig",
+    "note": "probably 'gefällig'"
+   },
+   {
+    "line": 14,
+    "word": "zurückbeschikten",
+    "note": "probably 'zurückzuschicken'"
+   },
+   {
+    "line": 15,
+    "word": "empfehlung",
+    "note": "probably 'empfehlend' (closing formula)"
+   },
+   {
+    "line": 12,
+    "word": "Rothestein",
+    "note": "probably 'Rothstein' (red chalk)"
+   },
+   {
+    "line": 7,
+    "word": "Fr. Gr.",
+    "note": "abbreviation, perhaps 'Frau Gräfin'; the reference is unclear"
+   },
+   {
+    "line": 16,
+    "word": "[?]aumann[??]",
+    "note": "signature garbled; the writer cannot be identified from it"
+   }
+  ],
+  "read_against": "36ae3067c930faea"
+ }
 }

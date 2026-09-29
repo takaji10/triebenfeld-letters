@@ -286,5 +286,116 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld berichtet, dass General Köckritz van der Lahr laut Richter derb zur Ruhe verwiesen habe; Lahr wolle nun warten. Köckritz solle zudem Geduld wegen der Zinsen an die Invaliden Casse erwirken. Triebenfeld will die Angelegenheiten in Kalisz einleiten, dann nach Wrocław zurück, und drängt Goldstucker und Flesch zum Tauschhandel. Ober Amtmann Hegener soll alles in Zagórów revidieren. Die Trąbczyner Sache würde er energisch betreiben. Nachschrift: Laut Tismar weiß Lahr von nichts; Triebenfeld vermutet eine Büberei von Flesch und Consorten."
+ "summary_de": "Triebenfeld berichtet, dass General Köckritz van der Lahr laut Richter derb zur Ruhe verwiesen habe; Lahr wolle nun warten. Köckritz solle zudem Geduld wegen der Zinsen an die Invaliden Casse erwirken. Triebenfeld will die Angelegenheiten in Kalisz einleiten, dann nach Wrocław zurück, und drängt Goldstucker und Flesch zum Tauschhandel. Ober Amtmann Hegener soll alles in Zagórów revidieren. Die Trąbczyner Sache würde er energisch betreiben. Nachschrift: Laut Tismar weiß Lahr von nichts; Triebenfeld vermutet eine Büberei von Flesch und Consorten.",
+ "reading": {
+  "letter": "197",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes from Ollabock to the Prince. His man Richter has come back from Berlin: General Köckritz has sharply rebuked van der Lahr, who now declares he will wait. Köckritz will also speak about patience over the interest payments to the Invaliden Casse. Triebenfeld plans to settle matters in Kalisz and then return to Breslau. He is urging Goldstucker and Flesch on the exchange deal. He has found an old friend, Oberamtmann Hegener, who is to prepare things for Strachwitz and audit Zagórów. He wants to push the Trąbczyn matter hard. Postscript: Tismar writes that Lahr swears he knew nothing about it. Triebenfeld suspects Flesch and his associates of a knavish trick.",
+  "claims": [
+   {
+    "statement": "Köckritz hat laut Richter van der Lahr derb zur Ruhe verwiesen, Lahr will warten",
+    "lines": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "statement": "Geduld wegen der Zinszahlungen an die Invaliden Casse",
+    "lines": [
+     7,
+     8
+    ]
+   },
+   {
+    "statement": "will Angelegenheiten in Kalisz einleiten, dann nach Wrocław zurück",
+    "lines": [
+     9,
+     10
+    ]
+   },
+   {
+    "statement": "drängt Goldstucker und Flesch zum Tauschhandel",
+    "lines": [
+     11,
+     12,
+     23,
+     24
+    ]
+   },
+   {
+    "statement": "Hegener soll alles in Zagórów revidieren",
+    "lines": [
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Trąbczyner Sache energisch betreiben",
+    "lines": [
+     21
+    ],
+    "check": "overstated",
+    "why": "Zeile 21 steht im Konjunktiv: 'Ich würde jetzt ... furiore vorschreiten'. Das ist eine bedingte Absicht, kein fester Vorsatz."
+   },
+   {
+    "statement": "Tismar: Lahr weiß von nichts",
+    "lines": [
+     32,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Vermutet Büberei von Flesch und Consorten",
+    "lines": [
+     41,
+     42
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "beiden",
+    "note": "garbled; sentence unclear (perhaps 'der brave General')"
+   },
+   {
+    "line": 17,
+    "word": "voreiten",
+    "note": "probably 'vorbereiten'"
+   },
+   {
+    "line": 22,
+    "word": "Konojader[?]",
+    "note": "doubtful place/name"
+   },
+   {
+    "line": 23,
+    "word": "gewämt",
+    "note": "probably 'gewinnt'"
+   },
+   {
+    "line": 36,
+    "word": "begegte",
+    "note": "garbled with 'fenen' line 37, perhaps 'abgeschlossenen'"
+   },
+   {
+    "line": 44,
+    "word": "Sack",
+    "note": "unclear whom this refers to; perhaps misread name"
+   },
+   {
+    "line": 32,
+    "word": "Tismar",
+    "note": "possibly Tesmar (edition list); also Tismar in doc 198"
+   },
+   {
+    "line": 39,
+    "word": "Filze",
+    "note": "period word 'Filz' = rebuke, probably fine"
+   }
+  ],
+  "read_against": "2529fc68597b8b11"
+ }
 }

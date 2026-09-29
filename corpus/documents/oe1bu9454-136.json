@@ -1330,5 +1330,134 @@
  "translation": [],
  "text_english": "",
  "summary_en": "",
- "summary_de": "Triebenfeld wartet ohne Vollmacht vergeblich auf Glenck; die Käufer von Kolno und Kamionna sollen 76/m Rthl hier zahlen. Mit Radzinski in Szetlewek ist er weitgehend fertig, zwei Interessenten bieten für Szetlewek 1 Rthl Grundzins pro Morgen. Gegen die Pächter um Floricke liegt ein Solutionsdecret vor. Trąbczyn will er ein Jahr an Otocki verpachten, die Mennonisten auf etwa 400 Hufen ansiedeln. Voss will Dismembrationen ab 1. July untersagen. Blomberg zufolge hält Glenck in Wrąbczyn Ansiedler ab."
+ "summary_de": "Triebenfeld wartet ohne Vollmacht vergeblich auf Glenck; die Käufer von Kolno und Kamionna sollen 76/m Rthl hier zahlen. Mit Radzinski in Szetlewek ist er weitgehend fertig, zwei Interessenten bieten für Szetlewek 1 Rthl Grundzins pro Morgen. Gegen die Pächter um Floricke liegt ein Solutionsdecret vor. Trąbczyn will er ein Jahr an Otocki verpachten, die Mennonisten auf etwa 400 Hufen ansiedeln. Voss will Dismembrationen ab 1. July untersagen. Blomberg zufolge hält Glenck in Wrąbczyn Ansiedler ab.",
+ "reading": {
+  "letter": "136",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld writes to the Prince from Frankfurt/Oder. He is waiting for Glenck and Wunster without papers or a power of attorney. The buyers of Kolno and Kamionna are to pay 76/m rt there. Other matters: Kölzig and the Schlabrendorff confiscation; the Zagórów mortgage and Lichnowski; the settlement with Radzinski in Szetlewek and bidders for Szetlewek; a solutions decree against the tenants around Floricke; a plan to lease Trąbczyn to Otocki for a year and dismember it; leftover land at Swięcia (Biskupski); Drzewce/Grądzyń; settling the Mennonites on about 400 Hufen; a brewery; Voss banning dismemberments from 1 July; the Glenck episode and the lost bet with Blomberg; the handover to Dąbrowski.",
+  "claims": [
+   {
+    "statement": "Triebenfeld wartet ohne Vollmacht vergeblich auf Glenck",
+    "lines": [
+     8,
+     9,
+     10,
+     152,
+     194
+    ]
+   },
+   {
+    "statement": "Käufer von Kolno und Kamionna sollen 76/m Rthl hier zahlen",
+    "lines": [
+     4,
+     11,
+     12,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "statement": "Mit Radzinski in Szetlewek weitgehend fertig",
+    "lines": [
+     58,
+     59
+    ]
+   },
+   {
+    "statement": "zwei Interessenten bieten für Szetlewek 1 Rthl Grundzins pro Morgen",
+    "lines": [
+     72,
+     73
+    ]
+   },
+   {
+    "statement": "Solutionsdecret gegen die Pächter um Floricke",
+    "lines": [
+     76
+    ]
+   },
+   {
+    "statement": "Trąbczyn ein Jahr an Otocki verpachten",
+    "lines": [
+     81,
+     83,
+     84
+    ]
+   },
+   {
+    "statement": "Mennonisten auf etwa 400 Hufen um Kopojno ansiedeln",
+    "lines": [
+     119,
+     120,
+     121
+    ],
+    "check": "overstated",
+    "why": "Z. 119-121: Die 400 Hufen umfassen Kopojno, Skokum, Swiątniki, das Olesnicer Bruch und die Wrąbcziner Warthegründe. \"Um Kopojno\" verengt das auf einen Ort."
+   },
+   {
+    "statement": "Voss will Dismembrationen ab 1. July untersagen",
+    "lines": [
+     144,
+     148,
+     149
+    ]
+   },
+   {
+    "statement": "Blomberg zufolge hält Glenck in Wrąbczyn Ansiedler ab",
+    "lines": [
+     160,
+     161,
+     163,
+     164,
+     165,
+     182,
+     183
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 40,
+    "word": "Luckesine",
+    "note": "probably a garbled name (cf. Luckedini[?] line 43/44)"
+   },
+   {
+    "line": 186,
+    "word": "Beyme",
+    "note": "probably 'Bey' or 'Beym' (exclamation 'Großen Gott!'), not the person Beyme"
+   },
+   {
+    "line": 211,
+    "word": "Dąmbrowski",
+    "note": "spelled Dąbrowski in line 209; may be the writer's own variant"
+   },
+   {
+    "line": 163,
+    "word": "Gehau",
+    "note": "unclear, perhaps 'Gehege' or a similar word"
+   },
+   {
+    "line": 159,
+    "word": "Dummesbrunter",
+    "note": "garbled"
+   },
+   {
+    "line": 139,
+    "word": "Marianton",
+    "note": "unclear place name"
+   },
+   {
+    "line": 55,
+    "word": "sieht er muß wenig",
+    "note": "garbled passage"
+   },
+   {
+    "line": 154,
+    "word": "Schenck",
+    "note": "The edition names Hawich as Justiz Bürgermeister (of Zagorowo); here the letter writes Schenck, not corrected"
+   }
+  ],
+  "read_against": "20e5ba83f9a5b26a"
+ }
 }
