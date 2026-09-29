@@ -1,7 +1,8 @@
 # Taking a new holding through the pipeline
 
 The order of operations, and the reasons the order is what it is. Written after
-Oe 1 Bü 14526 went through it, at the cost of one avoidable re-run.
+Oe 1 Bü 14526 went through it, at the cost of one avoidable re-run; sections 3a and 3b and
+mistakes 11-15 were added after 9454's new transcription was corrected and read (September 2026).
 
 Every stage takes `--unit <slug>` and means it. Nothing here is automatic:
 several of these steps cost money, and a run that sweeps every holding because a
@@ -31,6 +32,35 @@ and the three fields the machine cannot infer:
   German.
 
 None of this belongs in code. `pipeline/check_pipeline.py` enforces that.
+
+### If this replaces an existing transcription
+
+A new reading of a holding that is already built (9454 received one in September
+2026) is not a fresh intake. The hand-made layer on top of the old text does not
+travel with it by itself:
+- `correspondents.json`;
+- the `rulings.yml` dates, place overrides, languages, twins and estates;
+- the scan decisions.
+
+On 9454 the swap silently cost 214 letters their sender and recipient, 44 dates
+and 77 places, and nothing failed: the site built and verified clean.
+
+- **Before importing,** move the old unit into `Trash/<slug>_old/` whole: corpus,
+  rulings, correspondents, decisions, and its built `corpus/documents`.
+- **After the first build,** compare the old and new outputs letter by letter:
+  - date;
+  - place of writing;
+  - sender and recipient;
+  - language;
+  - twins.
+
+  Then restore each ruling that still applies. Where the new text now reads a
+  date or place differently, put the disagreement to the editor. Don't pick one
+  silently.
+- **Treat the old transcription's corrections as candidates, not decisions.**
+  Several of its "fixes" were wrong, and the new reading showed it.
+- Letters the archive no longer holds get a placeholder document whose text is
+  `(missing)`, so their numbers still resolve.
 
 ## 1. Intake
 
@@ -88,6 +118,116 @@ handed to the model verbatim in the prompt.
 Editing `rulings.yml` makes `corpus/letters.json` stale, and
 `require_fresh_corpus()` will stop the next paid step until you rebuild. Run
 `regenerate.py --unit <slug>` after this section, not after discovering it.
+
+**Correspondents** come from `derive_correspondents.py`. Run it once, then settle
+the letters with only a sender or only a recipient from context (signature,
+salutation, hand, business), writing each ruling with its reason into
+`correspondents.json`. **Do not run the script again after that:** it overwrites
+the file, rulings included.
+
+## 3a. Correct the transcription — free passes, before anything is paid for
+
+An AI Kurrent reading, even one hand-corrected for names and layout, still
+carries thousands of small slips. Every one left in is translated, summarised
+and indexed. 9454 went through these passes in roughly this order; each is
+logged in its `notes.md`.
+
+**The standard for every correction.** A reading is changed only when something
+proves it:
+- a fixed formula;
+- the same word written correctly elsewhere in the same letter;
+- a form attested across the units, with the count checked;
+- a copy of the letter;
+- a sentence with exactly one grammatical reading;
+- an edition form already settled.
+
+Never change a word because another would make better sense: every error the
+editor caught on 9454 was of that kind. Leave alone:
+- his grammar (case endings, dropped endings);
+- period spelling and doubled letters;
+- figures, dates, and the editor's own `[..]` expansions.
+
+Don't correct inside a largely garbled passage. A corrupt word with no reading
+that meets the standard stays as it is and is logged in
+`review/<slug>/unresolved.md`. No `[?]` is added.
+
+1. **Recurring misreadings.** Count a pattern across the unit first; the editor
+   approves it once (Ewr before Durchlaucht, Jezt, Schicken Sie, Indes, Summa).
+2. **Nonwords.** `pipeline/review/spelling_audit.py`: a rare form one Kurrent
+   confusion away from a common one, and unknown to DWDS
+   (`reference/dwds_cache.json`).
+3. **Line ends.** A word broken at the line end is `¬`; a real hyphen stays `-`.
+   Check every `¬` whose halves don't join to a known word, and every `-` that
+   breaks a word.
+4. **Dashes.** A punctuation dash is `—`. A hyphen stays only in compounds and on
+   paired words (`Kriegs- und Forst Rath`); figure ranges stay as written.
+5. **Names, titles, places.** Standardise misreadings to the settled forms in
+   `people.yml` / `places.yml`:
+   - Titles take the writer's commonest spelling.
+   - A one-letter name variant with no settled form stays: it may be the
+     writer's own.
+   - Places: German text keeps the German name, Polish text the Polish.
+   - Keep a watch-list of names the transcriber habitually misreads.
+   - Count the index hits before and after any authority change (mistake 7).
+6. **Abbreviations.** Expand in brackets only where the letters or the period
+   settle them: title abbreviations, forms of address (`E[wr]. D[urchlaucht].`),
+   single-letter initials. `p`/`pp`/`ppp` and `rt` stay.
+7. **Doubt marks.** Decide `[?]` words from context where the evidence is solid;
+   the rest stay. A settled letter drops its brackets; brackets stay only on
+   expansions.
+8. **Letters too garbled to correct** get `rough: letters:` in `rulings.yml`. The
+   site then marks them "Rough transcription". Asking a model to re-read them
+   from the scan was tested and rejected: 72% of words right against 89% for the
+   editor's recognition model.
+
+**Tools:**
+- `pipeline/review/show_letter.py` prints a letter with corpus and letter line
+  numbers.
+- `pipeline/review/fix_sheet.py` turns rulings (corpus line, old, new, reason)
+  into the sheet that `apply_transcription_fixes.py --apply` applies and logs.
+
+Text added to a unit later goes through the same passes. See
+`units/oe1bu9454/new_text_checklist.md` for the order.
+
+## 3b. Read every document whole — paid, before translating
+
+```
+python pipeline/review/read_letters.py --unit <slug> --dry-run        # free: prompt and token count
+python pipeline/review/read_letters.py --unit <slug> --letters a,b,…  # pilot, live
+python pipeline/review/read_letters.py --unit <slug> --batch          # then --collect
+python pipeline/review/read_letters.py --unit <slug> --verify --batch # the claim check, then --collect
+python pipeline/review/read_letters.py --unit <slug> --check          # free local filters
+```
+
+Each document is read with the one before and after it in date order. The model:
+- proposes corrections, each with a witness;
+- writes a German summary, citing the lines for every statement;
+- records reading notes, legibility and suspected misreadings.
+
+A second, separate call checks every statement against the document. It may
+only cut or weaken, never add. On 9454 it changed 132 of 313 summaries:
+- hearsay stated as fact;
+- a sum attached to the wrong item;
+- a plan written up as done;
+- a garbled word interpreted.
+
+- **Proposed corrections** pass a machine filter, and then a human read of each
+  line. 180 of 250 were applied on 9454.
+- **The reading record** goes into `units/<slug>/reading.json`, which is tracked:
+  the cache is gitignored and the reading is expensive. `build_dataset.py`
+  carries it into each document.
+- **Summaries** go into `units/<slug>/summaries_de.yml`, and are published
+  through `summarise.py --build --lang de`.
+- **English summaries:** when the English exists, translate the checked German
+  summaries rather than summarising the English afresh.
+
+Do this before translating. The translation then starts from corrected German,
+and the reading notes and doubtful words can go to the translator.
+
+Cost on 9454: about $30 for 313 letters. Two lessons from that run:
+- **Re-estimate from the pilot, not the dry run.** The model wrote about 2,500
+  output tokens per letter against the 1,500 assumed.
+- **Budget the claim check** at about a third of the reading on top.
 
 ## 4. Translate — and expect to do it twice
 
@@ -210,7 +350,7 @@ python regenerate.py --site
 ```
 
 Summaries are written from the English, so they follow it: if the translation
-was re-run, the affected summaries must be too. `summaries.yml` is one file for
+was re-run, the affected summaries must be too. A unit read whole in 3b already has checked German summaries: skip the `--lang de` run for it and translate those into English instead. `summaries.yml` is one file for
 the whole project and the build refuses to write a smaller one than it found —
 a unit-scoped walk once quietly replaced 345 summaries with 32.
 
@@ -308,6 +448,33 @@ answer is *no differences*, or differences you can name exactly.
    not about the edition. Parse it and walk the segments. Grepping bytes
    reported 27 ruled-against renderings in a published holding; parsing the same
    files reported none, which was the truth.
+
+11. **Asking the editor to judge what they cannot see.** The editor reads Kurrent
+   letter shapes on a scan but does not read German. Accuracy of anything drawn
+   from the German (summaries, translations, readings made from sense) rests on
+   the checks and on us. When the editor's view is needed, put it on a short spot
+   sheet (`pipeline/review/queries.py --sheet`): a word against the scan, or an
+   English rendering to judge for focus. Never a long queue: decide what the
+   rules decide, and record why.
+12. **A correction made from sense.** See the standard in 3a. Each of the three
+   misses the editor caught on 9454 was a plausible word chosen because it fit.
+   A spelling that varies within one letter is not proof of a misreading either:
+   the editor kept Kiełszewski beside Kiełczewski.
+13. **Place names in the wrong language.**
+   - The transcription keeps what the page says: German names in German text,
+     Polish in Polish.
+   - The site labels every place now in Poland "Polish (German)": the `display`
+     and `german` fields in `places.yml`.
+   - The English translation uses the Polish name.
+
+   One pass that put Polish names into the German text had to be reversed.
+14. **Trusting a model's defaults.** Opus 5.5 refuses a forced `tool_choice`: ask
+   for the tool in the prompt and retry a result without it. Batch timestamps
+   are UTC. An API outage leaves batches running, and their results stay
+   collectable for 29 days.
+15. **Paying for a check the build already makes.** Figures in a summary are
+   compared with the document for free, including figures written out in words.
+   Only claims about meaning need the paid check.
 
 ### State files
 
