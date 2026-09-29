@@ -137,7 +137,7 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'trial_245': ('Trial reading, letter 245', 'Each row is a word where my reading of the original scan differs from the current text. Pick what the page says.'),
         'rescan_choice': ('Pages to request from the archive', 'One row per page on the shortlist, worst first. Open the letter, look at the scan, and choose Request or Skip.'),
         'date_queries': ('Dates: yours against the page', 'Where the new transcription reads a date differently from the date you supplied. Pick the date the letter should carry.'),
-        'pilot_summaries': ('Pilot: ten letters read', 'Ten German summaries written from the letters, each checked claim by claim against the text, and four corrections found in the same reading. For a summary: is it right and useful? For a correction: which does the page say? Open the letter to compare.'),
+        'pilot_summaries': ('Pilot: ten letters read', 'English renderings of the German summaries for ten letters. Their accuracy has been checked against the letters claim by claim, so you are not asked to judge that. Say only whether each picks out what you want: the right focus, something missing, too much detail, or the wrong emphasis.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),
