@@ -415,6 +415,10 @@
   name: "Żagań (Sagan)"
   count: 3
   letters: [{id: "26", url: "/documents/oe1bu9454/26/"}, {id: "253", url: "/documents/oe1bu9454/253/"}, {id: "294", url: "/documents/oe1bu9454/294/"}]
+- slug: "ansbach"
+  name: "Ansbach"
+  count: 2
+  letters: [{id: "103", url: "/documents/oe1bu9454/103/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "baden"
   name: "Baden"
   count: 2
@@ -503,10 +507,6 @@
   name: "Altenburg"
   count: 1
   letters: [{id: "238", url: "/documents/oe1bu9454/238/"}]
-- slug: "ansbach"
-  name: "Ansbach"
-  count: 1
-  letters: [{id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "antibes"
   name: "Antibes"
   count: 1

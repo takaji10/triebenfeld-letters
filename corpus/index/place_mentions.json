@@ -25682,7 +25682,7 @@
  {
   "entity": "sachsen",
   "display": "Sachsen",
-  "count": 35,
+  "count": 36,
   "documents": [
    "oe1bu9454-1",
    "oe1bu9454-11",
@@ -25908,6 +25908,15 @@
     "scan": "Oe_1_Bu_9454_0003_a2-L2_03.jpg",
     "line": 178,
     "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Sachsen",
+    "page": 4,
+    "page_id": "0004_a",
+    "scan": "Oe_1_Bu_9454_0004_a-L2_04.jpg",
+    "line": 199,
+    "doc_line": 86
    },
    {
     "uid": "oe1bu9454-271",
@@ -35297,6 +35306,35 @@
   ]
  },
  {
+  "entity": "ansbach",
+  "display": "Ansbach",
+  "count": 2,
+  "documents": [
+   "oe1bu9454-103",
+   "oe1bu9454-303"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Ansbach",
+    "page": 4,
+    "page_id": "0215_a",
+    "scan": "Oe_1_Bu_9454_0215_a-L103_04.jpg",
+    "line": 8140,
+    "doc_line": 95
+   },
+   {
+    "uid": "oe1bu9454-303",
+    "surface": "Ansbach",
+    "page": 2,
+    "page_id": "0543_a1",
+    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
+    "line": 21453,
+    "doc_line": 20
+   }
+  ]
+ },
+ {
   "entity": "mecklenburg",
   "display": "Mecklenburg",
   "count": 2,
@@ -36560,25 +36598,6 @@
     "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",
     "line": 20493,
     "doc_line": 26
-   }
-  ]
- },
- {
-  "entity": "ansbach",
-  "display": "Ansbach",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-303"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-303",
-    "surface": "Ansbach",
-    "page": 2,
-    "page_id": "0543_a1",
-    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-    "line": 21453,
-    "doc_line": 20
    }
   ]
  }

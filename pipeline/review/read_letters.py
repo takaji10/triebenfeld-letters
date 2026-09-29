@@ -33,7 +33,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='repla
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 MODEL = 'claude-opus-5-5'
 PRICES = {'claude-opus-5-5': (5, 25), 'claude-opus-5': (5, 25)}
-MAX_TOKENS = 8000
+MAX_TOKENS = 16000
 NEIGHBOUR_LINES = 80        # context letters are cut to this many lines each
 
 # Approved recurring patterns and settled title spellings (memory / notes.md).
@@ -244,6 +244,7 @@ class Corpus:
 
 def load_meta(unit):
     rows = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    # pipeline-check: scoped to one unit; the corpus.txt [DOC n] number is the key
     return {str(r['letter_id']): r for r in rows if r.get('unit') == unit.slug}
 
 
@@ -623,6 +624,12 @@ def check_fix(f, lid, letter, vocab, forms, rough):
         return False, 'rough letter: only same_letter / standard_form'
     others = '\n'.join(t for n, t in letter.items() if n != ln)
     nw = re.findall(WORD, new)
+    if cat == 'same_letter' and new[:1].isupper() and not all(w in forms for w in nw):
+        # A name spelled two ways in one letter may be the writer's own
+        # variation, not a misreading: the editor kept Kiełszewski in letter
+        # 215 although line 176 has Kiełczewski (2026-09-29). Names change
+        # only to a settled edition form.
+        return None, 'capitalised: a name stays unless an edition form exists; a noun may be fixed'
     if cat == 'same_letter':
         ok = re.search(r'(?<![^\W\d_])' + re.escape(new) + r'(?![^\W\d_])', others)
         return (True, 'same letter') if ok else (False, 'new form not elsewhere in the letter')
