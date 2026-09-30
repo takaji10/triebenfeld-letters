@@ -1,0 +1,79 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ihagrrep7cnr3705
+ref: I. HA GR, Rep. 7 C, Nr. 3705
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+title: >-
+  Acta wegen des von dem Fürsten zu Hohenlohe-Oehringen verErbpachteten Guts
+  Olesnica: Triebenfeld's petition to the King for the sequestration of the
+  Olesnica estate, 1805
+date_span: 1805
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# Eighteen scans. 0001 is the file's title page; 0002-0018 are two-page
+# spreads photographed open. The transcriptions came one per scan, a spread
+# read as one piece, so the scans are not cropped or split: each was copied
+# unchanged into raw_dir/processed/ as <capture>_a.jpg and staged from there,
+# and a "page" of this holding is a scan (a spread).
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/Olesnica estate lease from Hohenlohe (I. HA GR, Rep. 7 C, Nr. 3705)
+  raw_glob: I_HA_Rep_7_C_Nr_3705_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: I_HA_Rep_7_C_Nr_3705
+
+# Transcriptions that arrived already matched to the scans, one file per scan.
+# They came as <seq>_I_HA_Rep_7_C_Nr_3705_<capture>.txt and are kept here with
+# _a added, the page id of the scan each was read from:
+#   0003_I_HA_Rep_7_C_Nr_3705_0003_a.txt  ->  0003_a
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: "I_HA_Rep_7_C_Nr_3705_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  A Prussian ministry file on the Olesnica estate, part of the Prince of
+  Hohenlohe-Ingelfingen's lordships of Trąbczyn and Zagórów. It holds
+  Triebenfeld's petition to the King, written at Breslau on 18 September 1805
+  as the Prince's general plenipotentiary. On 22 February 1804 the Prince had
+  let Olesnica in hereditary lease to three townsmen, Giese, Bagans and
+  Gietzinger, for 20,000 rt entry money and 2,000 rt a year. They paid half,
+  sub-let and broke up the land without his consent, kept the income and
+  paid neither rent nor taxes, while the Chamber refused to confirm the
+  contract. The government at Kalisch would not sequester the estate while
+  the lawsuits ran, and the petition argues from the Allgemeines Landrecht,
+  point by point, that it must. It names the enclosures (A to H) that went
+  with it: the contract, the list of sub-lessees, the Prince's
+  representations and the government's refusals.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A petition to the King in formal legal German, written by a plenipotentiary
+  in the Prince's first person (Ich, mein Guth). It argues from Prussian law:
+  citations of the Allgemeines Landrecht (Th. I. Tit. 21. §. 187) and the
+  Allgemeine Gerichtsordnung keep their numbering exactly. Latin legal terms
+  are part of the register and are kept: clausula cassatoria, in via
+  executionis, in via arresti, effectum devolutivum, exceptiones ulterioris
+  indaginis, ad separatum, in processu ordinario, casus non dabilis, sine
+  titulo et jure, ad depositum judiciale, onera publica, contra jus in thesi.
+  Erbpacht is hereditary lease; Erbstandsgeld the entry money; Aftererbpacht
+  and Untererbpächter the sub-lease and sub-lessees; Natural-Besitz and
+  Civil-Besitz natural and civil possession, a distinction the argument turns
+  on. The letters (A) to (H) in the margin refer to enclosures that are not in
+  this file. Giese, Bagans and Gietzinger are the three lessees; Winitzki,
+  Chwalowski and Cabanis sworn surveyors; Mondro a Criminal Councillor who
+  acted for the Prince. Olesnize is Olesnica.

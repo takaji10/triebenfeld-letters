@@ -356,6 +356,17 @@
    "doc_line": 170
   },
   {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 6,
+   "page_id": "0421_a1",
+   "scan": "Oe_1_Bu_9454_0421_a1-L223_06.jpg",
+   "line": 16266,
+   "doc_line": 171
+  },
+  {
    "entity": "schimmelpfennig",
    "display": "Schimmelpfennig",
    "kind": "person",
@@ -398,17 +409,6 @@
    "scan": "Oe_1_Bu_9454_0421_a2-L223_07.jpg",
    "line": 16303,
    "doc_line": 207
-  },
-  {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 8,
-   "page_id": "0422_a",
-   "scan": "Oe_1_Bu_9454_0422_a-L223_08.jpg",
-   "line": 16313,
-   "doc_line": 216
   },
   {
    "entity": "emilie",

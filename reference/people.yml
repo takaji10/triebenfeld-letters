@@ -1171,3 +1171,52 @@ people:
     tier: "Established"
     variants: []
     identity: "Friedrich Wilhelm III (1770-1840), King of Prussia from 16 November 1797; issued the supplementary grants of December 1797 and confirmed the Prince's family majorat in 1805. Added 2026-09-30."
+  giese:
+    display: "Johann Giese"
+    render: "Giese"
+    match: 'Giese(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "One of the three townsmen who took the Olesnica estate in hereditary lease from the Prince on 22 February 1804 (14525; I. HA GR, Rep. 7 C, Nr. 3705); 'Giese et Consorten', 'der Giese in Olesnica' in 9454. Added 2026-09-30."
+  bagans:
+    display: "Johann Bagans"
+    render: "Bagans"
+    match: 'Bagans(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "One of the three lessees of Olesnica, 1804 (14525; I. HA GR, Rep. 7 C, Nr. 3705). Added 2026-09-30."
+  gietzinger:
+    display: "Friedrich Gietzinger"
+    render: "Gietzinger"
+    match: 'Gietzinger(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "One of the three lessees of Olesnica, 1804 (14525; I. HA GR, Rep. 7 C, Nr. 3705). Added 2026-09-30."
+  cabanis:
+    display: "Cabanis"
+    match: 'Cabanis\w*|Cabani(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "The Prince's Ober-Förster on the South Prussian estates, named often in 9454; the sworn surveyor (vereydeter Conducteur) who measured Olesnica at 3338 Morgen is taken to be the same man (I. HA GR, Rep. 7 C, Nr. 3705). Was a name candidate of unknown kind, never indexed. Added 2026-09-30."
+  mondro:
+    display: "Mondro"
+    match: 'Mondro(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Criminal-Rath, the Prince's mandatary who brought the three Olesnica suits (I. HA GR, Rep. 7 C, Nr. 3705, 1805). Added 2026-09-30."
+  winitzki:
+    display: "Winitzki"
+    match: 'Winitzki(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Sworn surveyor (Conducteur) who measured Olesnica with Chwalowski and Cabanis (I. HA GR, Rep. 7 C, Nr. 3705). Added 2026-09-30."
+  fuerst-august:
+    display: "Fürst August zu Hohenlohe-Ingelfingen"
+    render: "Fürst August"
+    # Only after a title: the bare name is also the month and Triebenfeld's
+    # own middle name (Peter Friedrich August), which the old catch-all
+    # "August" candidate counted as a person (dropped 2026-09-30).
+    match: '(?<=F\. )August\w*|(?<=f\. )August\w*|(?<=F )August\w*|(?<=f )August\w*|(?<=Fürst\. )August\w*|(?<=Fürst )August\w*|(?<=Fürsten )August\w*|(?<=Prinz )August\w*|(?<=Prinzen )August\w*|(?<=Sohn )August\w*|(?<=Sohne )August\w*'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Friedrich August Karl (1784-1853), the Prince's eldest son and heir (Erbprinz), reigning Prince from 1806; the 'Fürst August' of the 1815 letters, whose power of attorney to Cosmar runs through them. Added 2026-09-30."

@@ -259,17 +259,6 @@
    "doc_line": 123
   },
   {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 6,
-   "page_id": "0081_a1",
-   "scan": "Oe_1_Bu_14526_0081_a1-L13_06.jpg",
-   "line": 4355,
-   "doc_line": 171
-  },
-  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
@@ -301,6 +290,17 @@
    "scan": "Oe_1_Bu_14526_0081_a1-L13_06.jpg",
    "line": 4360,
    "doc_line": 176
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 6,
+   "page_id": "0081_a1",
+   "scan": "Oe_1_Bu_14526_0081_a1-L13_06.jpg",
+   "line": 4361,
+   "doc_line": 177
   }
  ],
  "mentions_english": [

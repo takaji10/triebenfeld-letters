@@ -717,7 +717,7 @@ places:
     kind: village
     # Not preceded by Michalinów: Michalinów Oleśnicki is a DIFFERENT place and
     # the register says so twice over.
-    match: '(?<!w )(?<!ów )Ole[sś]ni[cs]\w*'
+    match: '(?<!w )(?<!ów )Ole[sś]ni[csz]\w*'   # Olesnize (I. HA GR, Rep. 7 C, Nr. 3705)
     tier: "Editor-settled (spelling)"
     distinct_from: [michalinow-olesnicki]
     variants:

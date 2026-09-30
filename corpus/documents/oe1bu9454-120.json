@@ -81,6 +81,28 @@
  ],
  "mentions": [
   {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 1,
+   "page_id": "0240_a2",
+   "scan": "Oe_1_Bu_9454_0240_a2-L120_01.jpg",
+   "line": 9056,
+   "doc_line": 2
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 1,
+   "page_id": "0240_a2",
+   "scan": "Oe_1_Bu_9454_0240_a2-L120_01.jpg",
+   "line": 9067,
+   "doc_line": 13
+  },
+  {
    "entity": "schlabrendorff",
    "display": "Schlabrendorff",
    "kind": "person",

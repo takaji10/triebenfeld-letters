@@ -1,0 +1,37 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,10,run,review,short_line,0.2,5,25,König,Allergnädigster König und Herr!
+1,24,break,high,short_line,0.44,11,25,zubefehlen.,Ew Königl. Majestaet Regierung in Ka¬
+1,34,break,high,short_line,0.68,24,36,"willigen, zugefügt wird.",Die Sache hat folgenden der Wahr¬
+1,37,break,high,short_line,0.59,21,36,gemäßen zusammenhang.,Am 22ten Februar vorigen Jah¬
+1,77,break,high,short_line,0.11,4,35,ken.,Auf den Grund dieses Contracts
+1,107,break,high,rubric,1.0,35,35,Domainen Cammer hierauf mit 431 rt;,17. gl. 11. pf. und 17 rt. 21. gg. mit Executi¬
+1,117,run,review,short_line,0.56,18,32,Cabinets-Ordre vom,/: in v Hoff und Mathies jurist:
+1,129,break,high,rubric,1.06,34,32,in welchen er auf den Grund der im,§. 4. enthaltenen Clausula cassa
+1,141,break,high,short_line,0.19,6,32,ruhen.,(C) Während nun diese Prozeße ihren
+1,193,break,high,short_line,0.47,15,32,ten gemäß sind.,"Ich kann mir nicht denken, daß je¬"
+1,227,break,high,rubric+short_line,0.25,8,32,denn was,I. die Resolution vom 13. August c.
+1,229,break,high,rubric+short_line,0.56,18,32,"betrift, so ist es","a.) contra jus in thesi, daß die"
+1,234,break,high,rubric,0.91,29,32,gemeine Landrecht Th. I. Tit.,15. §. 103-105. Tit. 18. §. 344.
+1,252,break,high,short_line,0.6,15,25,forderlich ist.,Ad b. und c. bleibt es aber
+1,278,break,high,rubric,0.76,19,25,vom 12ten August c.,II. Eben so unzureichend sind die Gründ¬
+1,280,break,high,rubric,0.96,24,25,de in der Resolution vom,20. August c. denn
+1,281,break,high,rubric,0.72,18,25,20. August c. denn,1.) ist es eine ganz unrichtige
+1,283,break,high,rubric,1.04,26,25,Erklärung des §. 204. Tit.,21. Th. I. des allgemeinen
+1,303,run,review,short_line,0.44,11,25,Allein auch,""" zur Sicherheit des Erb¬"
+1,305,run,review,short_line,0.52,13,25,"verpachters """,soll nach der deutlichen
+1,323,break,high,rubric+short_line,0.2,5,25,sind.,2.) So unrichtig diese Interpretati¬
+1,390,break,high,short_line,0.19,5,27,dern.,"Alle Einwendungen, welche"
+1,429,break,high,rubric,1.18,33,28,te entrichtet. /: Allg. L. R. Th.,1. Tit. 21. §. 187. 190. / die
+1,445,break,high,rubric,0.79,22,28,len können als wollen.,3.) Allerdings sind die Gegner
+1,506,break,high,rubric,1.04,29,28,trachten. Wenn ich aber diese,"10,000 rthlr. den Unterabneh¬"
+1,517,break,high,rubric,1.21,34,28,"habe ich diese 10,000. rthlr. nach",§. 5. des Erbpacht - Contracts
+1,523,break,high,short_line,0.18,5,28,dent.,"bb, der zweyte Fall der"
+1,539,break,high,rubric+short_line,0.68,19,28,weigert werden muß.,"cc, Was endlich die abermals vom"
+1,552,run,review,short_line,0.59,16,27,sichtiget worden,Ich vermag es durchaus nicht
+1,641,break,high,short_line+column,0.7,19,27,unter Remission der,Acten anzubefehlen.
+1,642,break,high,short_line,0.7,19,27,Acten anzubefehlen.,"Es ist mir nicht unbekannt, daß"
+1,661,break,high,short_line,0.59,16,27,Selbst zu laßen.,Der Hauptprozeß wird lang¬
+1,684,break,high,short_line+column,0.25,7,28,Breslau,den 18 Septbr.
+1,685,break,high,short_line,0.5,14,28,den 18 Septbr.,1805.
+1,686,break,high,short_line,0.18,5,28,1805.,allerunterthänigst eben gehorsamster
+1,687,break,high,rubric,1.29,36,28,allerunterthänigst eben gehorsamster,v. Triebenfeld

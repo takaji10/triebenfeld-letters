@@ -157,17 +157,6 @@
    "doc_line": 22
   },
   {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 1,
-   "page_id": "0503_a2",
-   "scan": "Oe_1_Bu_9454_0503_a2-L277_01.jpg",
-   "line": 19701,
-   "doc_line": 24
-  },
-  {
    "entity": "hohenlohe-bartenstein",
    "display": "Prince Hohenlohe-Bartenstein",
    "kind": "person",
@@ -201,8 +190,8 @@
    "doc_line": 27
   },
   {
-   "entity": "august",
-   "display": "August",
+   "entity": "fuerst-august",
+   "display": "Fürst August zu Hohenlohe-Ingelfingen",
    "kind": "person",
    "surface": "August",
    "page": 1,

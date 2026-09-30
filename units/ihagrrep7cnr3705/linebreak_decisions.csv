@@ -1,0 +1,252 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,15,16,¬,aller,gehorsamst,allergehorsamst,join,high,"joined form attested in DWDS (33,535 hits)",False,0,33535,4,,1,,"und Zagorowo bittet aller¬ || gehorsamst, der Regierung in"
+1,1,17,18,¬,Prozeß,Sache,ProzeßSache,split,high,joined form unattested; both halves are real words,False,0,67,0,4293409,9,8267095,Kalisch in seiner Prozeß¬ || Sache wider die sogenannten
+1,1,20,21,¬,Seque,stration,Sequestration,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,und Gietzinger die Seque¬ || stration seines Guthes
+1,1,22,23,¬,an,zubefehlen,anzubefehlen,join,high,joined form occurs elsewhere in this corpus,False,1,,15,,1,,Olesnize allergnädigst an¬ || zubefehlen.
+1,1,24,25,¬,Ka,lisch,Kalisch,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,2,,Ew Königl. Majestaet Regierung in Ka¬ || lisch nötiget mich Allerhöchst denensel¬
+1,1,25,26,¬,denensel,ben,denenselben,join,high,head is not a word on its own,False,0,45,0,0,1,,"lisch nötiget mich Allerhöchst denensel¬ || ben ein Gesuch vortragen zu müßen, von"
+1,2,28,29,¬,voll,kommen,vollkommen,join,high,"joined form attested in DWDS (1,281,722 hits)",False,0,1281722,0,,3,,"deßen Rechtmäßigkeit ich eben so voll¬ || kommen überzeugt bin, als der Schaden"
+1,2,31,32,¬,hoch,gedachter,hochgedachter,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"durch die bisherige Weigerung hoch¬ || gedachter Regierung, mein Gesuch zu be¬"
+1,2,32,33,¬,be,willigen,bewilligen,join,high,"joined form attested in DWDS (363,459 hits)",False,0,363459,0,,1,,"gedachter Regierung, mein Gesuch zu be¬ || willigen, zugefügt wird."
+1,2,34,35,¬,Wahr,heit,Wahrheit,join,high,"joined form attested in DWDS (1,972,463 hits)",False,0,1972463,0,,2,,Die Sache hat folgenden der Wahr¬ || heit und dem Innhalte der Akten
+1,2,37,38,¬,Jah,res,Jahres,join,high,"joined form attested in DWDS (120,565,678 hits)",False,0,120565678,0,,2,,Am 22ten Februar vorigen Jah¬ || res schloß ich mit drey Personen des
+1,2,43,44,¬,Oles,nize,Olesnize,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,und Zagorowo gehörige Guth Oles¬ || nize den in Abschrift beÿgefügten
+1,2,45,46,¬,Jnn,halt,Jnnhalt,join,high,head is not a word on its own,False,0,0,0,94,3,,"(A) Erbpachts-Contract, nach deßen Jnn¬ || halt / §. 4. / sich die Erbpächter verbind"
+1,2,46,47,¬,verbind,lich,verbindlich,join,high,"joined form attested in DWDS (742,354 hits)",False,0,742354,0,,2,,"alt / §. 4. / sich die Erbpächter verbind¬ || lich machten, ein Erbstandsgeld von"
+1,2,49,50,¬,Abfüh,rung,Abführung,join,high,"joined form attested in DWDS (13,854 hits)",False,0,13854,0,,3,,von 10000 rthlr: und ausser der Abfüh¬ || rung aller landesherrlichen Abgaben
+1,2,51,52,¬,ei,nen,einen,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,5,,"nd öffentlichen Lasten, / §. 7. / auch ei¬ || nen jährlichen Erbpacht -Zins von 2000."
+1,2,53,54,¬,Termi,nen,Terminen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,5,,"rthtr; ebenfalls in zwey gleichen Termi¬ || nen, zu entrichten, zugleich aber die"
+1,2,57,58,¬,erfolg,ten,erfolgten,join,high,"joined form attested in DWDS (404,588 hits)",False,0,404588,0,,13,,"nicht festgesetztermaaßen erfolg¬ || ten, der Contract null und nichtig"
+1,2,59,60,¬,Conven,tional,Conventional,join,high,head is not a word on its own,False,0,178,0,7,1,,"seÿn, und überdies noch eine Conven¬ || tional-Strafe von 10000. rthlr. statt"
+1,2,61,62,¬,Erb,pächtern,Erbpächtern,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,finden solle. Auch wurde den Erb¬ || pächtern zwar die Erlaubniß er¬
+1,2,62,63,¬,er,theilt,ertheilt,split,high,joined form unattested; both halves are real words,False,0,419,2,184157988,1,169,"pächtern zwar die Erlaubniß er¬ || theilt, das vererbpachtete Guth wie¬"
+1,2,63,64,¬,wie,derum,wiederum,join,high,"joined form attested in DWDS (2,781,408 hits)",False,0,2781408,7,,1,,"theilt, das vererbpachtete Guth wie¬ || derum zu veraftererbpachten und zu"
+1,2,66,67,¬,Äftererbpachts,Contracte,ÄftererbpachtsContracte,join,high,head is not a word on its own,False,0,0,0,0,3,,"ich mir vor, daß die Äftererbpachts¬ || Contracte nicht ohne meinen speciellen"
+1,2,68,69,¬,Erb,standsgelder,Erbstandsgelder,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Consens geschloßen, und sämtliche Erb¬ || standsgelder der Erbafterpachter an¬"
+1,2,69,70,¬,an,mich,anmich,split,high,joined form unattested; both halves are real words,False,0,120,15,203629291,15,0,"standsgelder der Erbafterpachter an¬ || mich directe gezahlt werden sollten,"
+1,3,72,73,¬,er,forderliche,erforderliche,join,high,"joined form attested in DWDS (4,862,914 hits)",False,0,4862914,2,,1,,"wogegen ich mich verpflichtete, die er¬ || forderliche Approbation Ew. Königl."
+1,3,74,75,¬,Cam,mer,Cammer,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,2,,"Majestæt Krieges, und Domainen Cam¬ || mer zu diesem Contracte zu bewir¬"
+1,3,75,76,¬,bewir,ken,bewirken,join,high,"joined form attested in DWDS (854,328 hits)",False,0,854328,0,,1,,mer zu diesem Contracte zu bewir¬ || ken.
+1,3,79,80,¬,besonde,re,besondere,join,high,"joined form attested in DWDS (8,682,665 hits)",False,0,8682665,0,,1,,"das Guth selbst, jedoch ohne besonde¬ || re Traditions-Verhandlungen, na¬"
+1,3,80,81,¬,na,turaliter,naturaliter,split,high,joined form unattested; both halves are real words,False,0,42,0,1650764,1,0,"re Traditions-Verhandlungen, na¬ || turaliter übergeben, und der schon vor¬"
+1,3,81,82,¬,vor,her,vorher,join,high,"joined form attested in DWDS (3,659,570 hits)",False,0,3659570,2,,1,,"turaliter übergeben, und der schon vor¬ || her von drey vereydeten Conduc¬"
+1,3,82,83,¬,Conduc,teurs,Conducteurs,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"her von drey vereydeten Conduc¬ || teurs, dem Winitzki, dem Chwalows¬"
+1,3,83,84,¬,Chwalows,ki,Chwalowski,join,high,head is not a word on its own,False,0,5,0,0,1,,"teurs, dem Winitzki, dem Chwalows¬ || ki, und dem Cabanis, genau ver¬"
+1,3,84,85,¬,ver,meßene,vermeßene,join,high,head is not a word on its own,False,0,0,0,0,1,,"ki, und dem Cabanis, genau ver¬ || meßene und revidirte Flächen-Inn¬"
+1,3,85,86,¬,Inn,halt,Innhalt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,meßene und revidirte Flächen-Inn¬ || halt von 3338. Morgen 14. R[ute]. Mag¬
+1,3,86,87,¬,Mag,deburgl,Magdeburgl,split,high,joined form unattested; both halves are real words,False,0,5,0,25146106,1,0,halt von 3338. Morgen 14. R[ute]. Mag¬ || deburgl. angewiesen. Nachdem sie
+1,3,88,89,¬,Na,tural,Natural,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"solchergestallt in den völligen Na¬ || tural-Besitz gesetzt waren, ver¬"
+1,3,89,90,¬,ver,aftererbpachteten,veraftererbpachteten,join,high,head is not a word on its own,False,0,0,0,0,1,,"tural-Besitz gesetzt waren, ver¬ || aftererbpachteten und dismem¬"
+1,3,90,91,¬,dismem,brirten,dismembrirten,join,high,head is not a word on its own,False,0,0,0,0,1,,aftererbpachteten und dismem¬ || brirten sie einen großen Theil des
+1,3,93,94,¬,Unter,erbpächter,Untererbpächter,split,high,joined form unattested; both halves are real words,False,0,21,3,64975681,3,0,(B) Specification benannten Unter¬ || erbpächter und zahlten mir von
+1,3,95,96,¬,erhobe,nen,erhobenen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,5,,"diesen schon contractwidrig erhobe¬ || nen, an mich selbst direct zahlbaren"
+1,3,97,98,¬,Erb,standsgeldes,Erbstandsgeldes,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"Geldern die erste Hälfte des Erb¬ || standsgeldes mit 10000 rthll:, auch"
+1,3,99,100,¬,ei,jährigen,eijährigen,split,high,joined form unattested; both halves are real words,False,0,13,0,76569,1,262995,berichtigten sie successive den ersten ei¬ || jährigen Pacht-zins. Mit der zweiten
+1,3,107,108,¬,Executi,on,Execution,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,2,,l. 11. pf. und 17 rt. 21. gg. mit Executi¬ || on von mir selbst beygetrieben wür¬
+1,3,108,109,¬,wür,den,würden,join,high,"joined form attested in DWDS (466,722,429 hits)",False,0,466722429,0,,45,,on von mir selbst beygetrieben wür¬ || den Auch erhielt ich von hochgedachter
+1,3,110,111,¬,Con,firmation,Confirmation,split,high,joined form unattested; both halves are real words,False,0,783,0,96931,1,29,Cammer auf mein Gesuch um die Con¬ || firmation des ErbpachtContracts
+1,3,112,113,¬,Gemas,heit,Gemasheit,join,high,head is not a word on its own,False,0,0,0,170,2,,"zur Resolution, daß solche in Gemas¬ || heit der nach deßen Abschluß in Ew¬"
+1,3,113,114,¬,Ew,Königl,EwKönigl,split,high,joined form unattested; both halves are real words,False,0,0,10,12117,11,995,heit der nach deßen Abschluß in Ew¬ || Königl. Majestæt allerhöchsteignen
+1,4,124,125,¬,Man,datarius,Mandatarius,join,high,head is not a word on its own,False,0,7,0,0,1,,"zu werden, und mein damaliger Man¬ || datarius, Krim: Rath Mondro, hielt"
+1,4,126,127,¬,verschie,dene,verschiedene,join,high,"joined form attested in DWDS (15,266,232 hits)",False,0,15266232,0,,1,,"es für zweckmäßig, drey verschie¬ || dene Prozeße deshalb anzustellen,"
+1,4,130,131,¬,Con,tracts,Contracts,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"toria auf Annullirung des Con¬ || tracts antrug, und den laufenden"
+1,4,135,136,¬,Ma,jestaet,Majestaet,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,"befinden, werden Ew. Königl. Ma¬ || jestaet aus der beygefügten Ab¬"
+1,4,136,137,¬,Ab,schrift,Abschrift,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,jestaet aus der beygefügten Ab¬ || schrift meiner Vorstellung an die
+1,4,138,139,¬,Au,gust,August,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,Regierung in Kalisch vom 12ten Au¬ || gust c. ausführlich zu ersehen ge¬
+1,4,139,140,¬,ge,ruhen,geruhen,split,high,joined form unattested; both halves are real words,False,0,42,0,215421,1,665119,gust c. ausführlich zu ersehen ge¬ || ruhen.
+1,4,142,143,¬,Erb,pächter,Erbpächter,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"Gang fortgehen, haben die Erb¬ || pächter nicht nur alle Einkünfte"
+1,4,147,148,¬,Untererbpach,tern,Untererbpachtern,join,high,head is not a word on its own,False,0,0,0,0,1,,"dafür von den Untererbpach¬ || tern einkommende Erbstandsgeld,"
+1,4,149,150,¬,einzu,nehmen,einzunehmen,join,high,"joined form attested in DWDS (1,218,868 hits)",False,0,1218868,0,,1,,"so wie den lauffenden Zins einzu¬ || nehmen, ohne an mich das Gering¬"
+1,4,150,151,¬,Gering,ste,Geringste,join,high,"joined form attested in DWDS (5,652,534 hits)",False,0,5652534,0,,2,,"nehmen, ohne an mich das Gering¬ || ste zu zahlen, und ohne auch nur"
+1,4,153,154,¬,berichti,gen,berichtigen,join,high,"joined form attested in DWDS (49,910 hits)",False,0,49910,0,,4,,und Onera publica zu berichti¬ || gen. Sie sind auch mit ihren Un¬
+1,4,154,155,¬,Un,terabnehmern,Unterabnehmern,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"gen. Sie sind auch mit ihren Un¬ || terabnehmern, die sie auf viel¬"
+1,4,155,156,¬,viel,fache,vielfache,join,high,"joined form attested in DWDS (778,487 hits)",False,0,778487,1,,1,,"terabnehmern, die sie auf viel¬ || fache Art hintergangen haben,"
+1,5,159,160,¬,bey,kommen,beykommen,split,high,joined form unattested; both halves are real words,False,0,0,4,34970,3,68165331,"gerathen, ja sie haben sich sogar bey¬ || kommen laßen, sich öffentlich für"
+1,5,163,164,¬,schänd,lichste,schändlichste,join,high,"joined form attested in DWDS (37,494 hits)",False,0,37494,0,,1,,"(D) vom 6. August auf das schänd¬ || lichste zu verläumden, daß ich sie"
+1,5,165,166,¬,ge,waltthätig,gewaltthätig,split,high,joined form unattested; both halves are real words,False,0,24,0,215421,1,0,"eigenmächtig exmittiren und ge¬ || waltthätig behandlen laße, wie¬"
+1,5,166,167,¬,wie,wohl,wiewohl,join,high,"joined form attested in DWDS (36,969 hits)",False,0,36969,7,,1,,"waltthätig behandlen laße, wie¬ || wohl das gerichtliche Attest vom"
+1,5,172,173,¬,Ein,künfte,Einkünfte,join,high,joined form occurs elsewhere in this corpus,False,1,,14,,1,,"seyn, daß mir nicht nur alle Ein¬ || künfte meines beträchtlichen Gutes"
+1,5,174,175,¬,des,sen,dessen,join,high,"joined form attested in DWDS (409,889,890 hits)",False,0,409889890,33,,2,,"ohne alles Recht vorenthalten, des¬ || sen Pertinenzien eigenmächtig alie¬"
+1,5,175,176,¬,alie,nirt,alienirt,split,high,joined form unattested; both halves are real words,False,0,0,0,1199,1,15,"sen Pertinenzien eigenmächtig alie¬ || nirt, deteriorirt, und devastirt wur¬"
+1,5,176,177,¬,wur,den,wurden,join,high,"joined form attested in DWDS (466,722,429 hits)",False,0,466722429,0,,45,,"nirt, deteriorirt, und devastirt wur¬ || den; auch mußte es mich empfindlich"
+1,5,179,180,¬,Ab,gaben,Abgaben,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,"ein alle laufende Lasten und Ab¬ || gaben tragen, und aus eigenen Mit¬"
+1,5,180,181,¬,Mit,teln,Mitteln,join,high,joined form occurs elsewhere in this corpus,False,2,,16,,1,,"gaben tragen, und aus eigenen Mit¬ || teln bezahlen sollte. Dies bestimm¬"
+1,5,181,182,¬,bestimm,te,bestimmte,join,high,"joined form attested in DWDS (6,900,741 hits)",False,0,6900741,0,,2,,teln bezahlen sollte. Dies bestimm¬ || te mich Ew. Königl. Majestaet Re¬
+1,5,182,183,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,7,,1,,2,,te mich Ew. Königl. Majestaet Re¬ || gierung in Kalisch um die Seque¬
+1,5,183,184,¬,Seque,stration,Sequestration,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,gierung in Kalisch um die Seque¬ || stration dieses Guthes in zwey
+1,5,189,190,¬,Ein,gaben,Eingaben,join,high,"joined form attested in DWDS (426,012 hits)",False,0,426012,14,,2,,"versichere, daß alle in den Ein¬ || gaben enthaltene factische Be¬"
+1,5,190,191,¬,Be,hauptungen,Behauptungen,join,high,"joined form attested in DWDS (641,222 hits)",False,0,641222,0,,1,,gaben enthaltene factische Be¬ || hauptungen dem Innhalt der Ac¬
+1,5,191,192,¬,Ac,ten,Acten,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,13,,hauptungen dem Innhalt der Ac¬ || ten gemäß sind.
+1,5,193,194,¬,je,ne,jene,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"Ich kann mir nicht denken, daß je¬ || ne abschläglichen Resolutionen den"
+1,5,200,201,¬,Pro,zeße,Prozeße,join,high,joined form occurs elsewhere in this corpus,False,8,,1,,1,,und weitläuftige chikanöse Pro¬ || zeße gegen den Eigenthümer an¬
+1,5,201,202,¬,an,stellt,anstellt,join,high,"joined form attested in DWDS (971,667 hits)",False,0,971667,15,,1,,"zeße gegen den Eigenthümer an¬ || stellt, aber nichts an Pacht und"
+1,6,207,208,¬,un,ersetzlichen,unersetzlichen,join,high,"joined form attested in DWDS (49,783 hits)",False,0,49783,0,,1,,"zu verwüsten, und dem Eigenthümer un¬ || ersetzlichen Schaden zugefügen. Ein sol¬"
+1,6,208,209,¬,sol,ches,solches,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,ersetzlichen Schaden zugefügen. Ein sol¬ || ches Mittel giebt es in Ew. Königl. Majes
+1,6,210,211,¬,eingeführ,ten,eingeführten,join,high,"joined form attested in DWDS (266,178 hits)",False,0,266178,0,,13,,"aet mit so unendlicher Weisheit eingeführ¬ || ten Prozeßform ganz zuverläßig, und"
+1,6,212,213,¬,Rechtsver,ständigen,Rechtsverständigen,join,high,head is not a word on its own,False,0,19,0,32,1,,"nach dem Gutachten aller Rechtsver¬ || ständigen muß in jedem Fall, wo der"
+1,6,214,215,¬,unbeweg,lichen,unbeweglichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,4,,"Besitz und die Benutzung eines unbeweg¬ || lichen Guthes, oder einer lebendig beweg¬"
+1,6,215,216,¬,beweg,lichen,beweglichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,4,,"lichen Guthes, oder einer lebendig beweg¬ || lichen Sache streitig ist, das gegensei¬"
+1,6,216,217,¬,gegensei,tige,gegenseitige,join,high,"joined form attested in DWDS (1,654,660 hits)",False,0,1654660,0,,1,,"lichen Sache streitig ist, das gegensei¬ || tige Recht der Partheyen durch Seques¬"
+1,6,217,218,¬,Seques,tration,Sequestration,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,tige Recht der Partheyen durch Seques¬ || tration sichergestellt werden.
+1,6,219,220,¬,Ma,jestaet,Majestaet,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,"Die Gründe, welche Ew. Königl. Ma¬ || jestaet Regierung in Kalisch wider"
+1,6,221,222,¬,ange,führt,angeführt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"dies allgemeinegültige Prinzip ange¬ || führt hat, können mich um so weni¬"
+1,6,222,223,¬,weni,ger,weniger,join,high,"joined form attested in DWDS (20,319,320 hits)",False,0,20319320,0,,1,,"führt hat, können mich um so weni¬ || ger überzeugen, als sie schon an"
+1,6,224,225,¬,Legis,latur,Legislatur,join,high,"joined form attested in DWDS (54,935 hits)",False,0,54935,0,,1,,sich mit den Grundsätzen der Legis¬ || latur im Widerspruch stehen.
+1,6,230,231,¬,Exe,cutiv,Executiv,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Sequestration blos ein Exe¬ || cutiv- und nicht auch ein Sicher¬
+1,6,231,232,¬,Sicher,heitsmittel,Sicherheitsmittel,split,high,joined form unattested; both halves are real words,False,0,390,2,14489839,1,0,"cutiv- und nicht auch ein Sicher¬ || heitsmittel sey, da das all¬"
+1,6,232,233,¬,all,gemeine,allgemeine,join,high,"joined form attested in DWDS (6,185,747 hits)",False,0,6185747,0,,1,,"heitsmittel sey, da das all¬ || gemeine Landrecht Th. I. Tit."
+1,6,235,236,¬,aus,drücklich,ausdrücklich,join,high,joined form occurs elsewhere in this corpus,False,2,,6,,2,,"Tit. 21. §. 140. und 244. aus¬ || drücklich bestimmt, daß die"
+1,6,237,238,¬,Fäl,len,Fällen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"Sequestration in allen Fäl¬ || len verfügt werden soll, wo"
+1,6,240,241,¬,Be,nutzung,Benutzung,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"die Verwaltung, und die Be¬ || nutzung einer unbeweglichen"
+1,6,245,246,¬,vorhan,den,vorhanden,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,45,,"die streitenden Theile vorhan¬ || den, mithin unter gleichen recht"
+1,6,247,248,¬,be,weglichen,beweglichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"lichen Modalitäten, bey be¬ || weglichen leblosen Sachen, die"
+1,6,249,251,¬,er,forderlich,erforderlich,join,review,crosses a page break - check by hand,True,0,4862914,2,184157988,1,750,gerichtliche Deposition er¬ || forderlich ist.
+1,7,254,255,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,7,,1,,2,,"Widerspruch, wenn die Re¬ || gierung annimmt, daß die"
+1,7,259,260,¬,Cam,mer,Cammer,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,2,,"und nichtig, auch von der Cam¬ || mer Behörde, vermöge eines"
+1,7,261,262,¬,schlech,terdings,schlechterdings,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,Speciellen Gesetzes für schlech¬ || terdings ungültig erklärt
+1,7,266,267,¬,Erbstands,Geld,ErbstandsGeld,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,auch kein Kauf- und Erbstands¬ || Geld aus eignen Mitteln von
+1,7,268,269,¬,der,gestallt,dergestallt,split,high,joined form unattested; both halves are real words,False,0,56,68,0,2,3361,"ihnen bezahlt worden, der¬ || gestallt possessionirt wären,"
+1,7,272,273,¬,si,cher,sicher,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,ihrer Ansäßigkeit für si¬ || cher geachtet werden müß¬
+1,7,273,274,¬,müß,ten,müßten,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,13,,cher geachtet werden müß¬ || ten. Hierüber beziehe
+1,7,275,276,¬,In,halt,Inhalt,join,high,"joined form attested in DWDS (7,818,683 hits)",False,0,7818683,53,,3,,ich mich lediglich auf den In¬ || halt meiner Vorstellung
+1,7,278,279,¬,Gründ,de,Gründde,join,high,head is not a word on its own,False,0,0,0,920,2,,II. Eben so unzureichend sind die Gründ¬ || de in der Resolution vom
+1,7,284,285,¬,De,cernent,Decernent,split,high,joined form unattested; both halves are real words,False,0,0,2,7610982,1,0,"Landrechts, wenn der De¬ || cernent annimmt, daß"
+1,7,287,288,¬,Vor,schrift,Vorschrift,join,high,"joined form attested in DWDS (1,337,906 hits)",False,0,1337906,2,,2,,dieser gesetzlichen Vor¬ || schrift in Rücksicht der
+1,7,289,290,¬,An,wendung,Anwendung,join,high,"joined form attested in DWDS (3,506,747 hits)",False,0,3506747,15,,1,,"Erbzinsreste nur dann An¬ || wendung finden könne,"
+1,7,291,292,¬,Erbpach,ter,Erbpachter,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,wenn solche vom Erbpach¬ || ter als unstreitig zuge¬
+1,7,292,294,¬,zuge,standen,zugestanden,join,review,crosses a page break - check by hand,True,1,215663,0,3709,1,49853858,ter als unstreitig zuge¬ || standen wären. In einem
+1,8,295,296,¬,Exe,cution,Execution,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"solchen Fall findet die Exe¬ || cution statt, und es kann"
+1,8,297,298,¬,Seques,tration,Sequestration,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,allerdings auch die Seques¬ || tration in via executionis
+1,8,300,301,¬,Gerichts,Ordnung,GerichtsOrdnung,split,high,joined form unattested; both halves are real words,False,0,991,1,5151705,1,2099451,der allgemeinen Gerichts¬ || Ordnung verfügt werden.
+1,8,303,304,¬,Erb,verpachters,Erbverpachters,split,high,joined form unattested; both halves are real words,False,0,0,0,217132,1,0,""" zur Sicherheit des Erb¬ || verpachters """
+1,8,311,312,¬,allgemei,nen,allgemeinen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,5,,Fall nur eben die allgemei¬ || nen Grundsätze angewandt
+1,8,316,317,¬,For,derungen,Forderungen,join,high,"joined form attested in DWDS (2,794,822 hits)",False,0,2794822,0,,1,,"hinreichend ist, wenn die For¬ || derungen nur einigermaaßen"
+1,8,318,319,¬,Un,sicherheit,Unsicherheit,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"bescheiniget, Gründe der Un¬ || sicherheit des Arrestaten"
+1,8,323,324,¬,Interpretati,on,Interpretation,join,high,"joined form attested in DWDS (613,663 hits)",False,0,613663,0,,2,,2.) So unrichtig diese Interpretati¬ || on des Gesetzes nun an sich
+1,8,325,326,¬,aktenwi,drig,aktenwidrig,join,high,head is not a word on its own,False,0,739,0,0,1,,"selbst ist, eben so aktenwi¬ || drig ist die Behauptung, daß"
+1,8,330,331,¬,Rück,stand,Rückstand,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"welcher den ersten Rück¬ || stand der 1000. rt. betrift,"
+1,8,332,333,¬,Patrimoni,al,Patrimonial,join,high,head is not a word on its own,False,0,529,0,29,1,,und vor meinem Patrimoni¬ || al-Gerichte instruirt und
+1,8,334,335,¬,Rich,tigkeit,Richtigkeit,join,high,"joined form attested in DWDS (320,888 hits)",False,0,320888,0,,2,,"entschieden worden, die Rich¬ || tigkeit dieses Restes unbe¬"
+1,8,335,337,¬,unbe,dingt,unbedingt,join,review,crosses a page break - check by hand,True,0,4202667,0,1176,1,77614,tigkeit dieses Restes unbe¬ || dingt eingeräumt; die Sache ist
+1,9,347,348,¬,Ver,bindlichkeit,Verbindlichkeit,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"""Simpliciter ihre Zahlungs-Ver¬ || bindlichkeit anerkannt hätte."
+1,9,350,351,¬,inda,ginis,indaginis,split,high,joined form unattested; both halves are real words,False,0,0,0,1433,1,0,"Exceptiones ulterioris inda¬ || ginis, eines Theils zu dem Haupt-"
+1,9,351,352,-,Haupt,Prozeße,HauptProzeße,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,8,,"ginis, eines Theils zu dem Haupt- || Prozeße über die Annulli¬"
+1,9,352,353,¬,Annulli,rung,Annullirung,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,3,,Prozeße über die Annulli¬ || rung des Erbpacht Contracts
+1,9,354,355,¬,sepa,ratum,separatum,split,high,joined form unattested; both halves are real words,False,0,165,0,5024,1,14,"gehörten, andern Theils ad sepa¬ || ratum verwiesen werden"
+1,9,357,358,¬,Protocol,le,Protocolle,split,high,joined form unattested; both halves are real words,False,0,13,0,17017,1,923367,auch im Publications - Protocol¬ || le dieser Sentenz vom 2ten
+1,9,360,361,¬,dage,gen,dagegen,join,high,"joined form attested in DWDS (6,132,701 hits)",False,0,6132701,0,,4,,"gemacht, daß ihre sofort dage¬ || gen erhobene Appellation nur"
+1,9,364,365,¬,aller,gehorsamsten,allergehorsamsten,join,high,"joined form attested in DWDS (33,535 hits)",False,0,33535,4,,1,,werden müße. Meines aller¬ || gehorsamsten Erachtens hätte
+1,9,367,368,¬,An,trag,Antrag,join,high,"joined form attested in DWDS (4,085,331 hits)",False,0,4085331,15,,1,,die von mir wiederholt in An¬ || trag gebrachte Execution ver¬
+1,9,368,369,¬,ver,fügt,verfügt,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"trag gebrachte Execution ver¬ || fügt, und vollstreckt werden"
+1,9,371,372,¬,Irrun,gen,Irrungen,join,high,"joined form attested in DWDS (32,615 hits)",False,0,32615,0,,4,,an sich ganz unerhebliche Irrun¬ || gen in den Formularien der
+1,9,373,374,¬,des,halb,deshalb,join,high,joined form occurs elsewhere in this corpus,False,5,,33,,2,,"Citationen reflectirt und des¬ || halb die Sache, als nur in pro¬"
+1,9,374,375,¬,pro,cessu,processu,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,"halb die Sache, als nur in pro¬ || cessu ordinario verhandelt, be¬"
+1,9,375,376,¬,be,trachtet,betrachtet,join,high,"joined form attested in DWDS (2,883,670 hits)",False,0,2883670,0,,1,,"cessu ordinario verhandelt, be¬ || trachtet werden sollte, so ist"
+1,9,377,378,¬,ge,wiß,gewiß,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"doch so viel unbezweifelt ge¬ || wiß, daß durch ein condemna¬"
+1,9,378,380,¬,condemna,torisches,condemnatorisches,split,review,crosses a page break - check by hand,True,0,0,0,0,1,27,"wiß, daß durch ein condemna¬ || torisches, wenn gleich noch nicht"
+1,10,381,382,¬,wel,ches,welches,split,high,joined form unattested; both halves are real words,False,0,0,0,8416,2,4316,"rechtskräftiges Urteil, wel¬ || ches sich auf eine simpliciter er¬"
+1,10,382,383,¬,er,folgte,erfolgte,join,high,"joined form attested in DWDS (6,594,896 hits)",False,0,6594896,2,,1,,ches sich auf eine simpliciter er¬ || folgte Agnition der Schuld von
+1,10,384,385,¬,grün,det,gründet,join,high,"joined form attested in DWDS (3,988,136 hits)",False,0,3988136,0,,1,,"Seiten des Verklagten grün¬ || det, die Forderung selbst we¬"
+1,10,385,386,¬,we,nigstens,wenigstens,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"det, die Forderung selbst we¬ || nigstens soweit hinreichend be¬"
+1,10,386,387,¬,be,scheinigt,bescheinigt,join,high,"joined form attested in DWDS (382,854 hits)",False,0,382854,0,,1,,"nigstens soweit hinreichend be¬ || scheinigt ist, als es die Gesetze"
+1,10,388,389,¬,erfor,dern,erfordern,join,high,"joined form attested in DWDS (1,472,401 hits)",False,0,1472401,0,,2,,bey einem Arrestgesuche erfor¬ || dern.
+1,10,391,392,¬,Zahlungs,Verbindlichkeit,ZahlungsVerbindlichkeit,split,high,joined form unattested; both halves are real words,False,0,321,1,847,1,237689,die Gegner ihrer Zahlungs¬ || Verbindlichkeit im Appella¬
+1,10,392,393,¬,Appella,torio,Appellatorio,join,high,head is not a word on its own,False,0,0,0,74,1,,Verbindlichkeit im Appella¬ || torio dieses Prozeßes und
+1,10,397,398,¬,be,stehen,bestehen,join,high,"joined form attested in DWDS (11,955,045 hits)",False,0,11955045,0,,3,,"entgegen gesetzt haben, be¬ || stehen in der Behauptung."
+1,10,402,403,¬,hät,ten,hätten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,13,,"Ruthen nicht erhalten hät¬ || ten, und daß der Cammer¬"
+1,10,403,404,¬,Cammer,Consens,CammerConsens,split,high,joined form unattested; both halves are real words,False,0,0,4,2764,4,10666,"ten, und daß der Cammer¬ || Consens von mir nicht be¬"
+1,10,404,405,¬,be,wirkt,bewirkt,join,high,"joined form attested in DWDS (854,328 hits)",False,0,854328,0,,1,,Consens von mir nicht be¬ || wirkt worden. Beyde Ex¬
+1,10,405,406,¬,Ex,ceptionen,Exceptionen,split,high,joined form unattested; both halves are real words,False,0,0,1,190998,1,0,wirkt worden. Beyde Ex¬ || ceptionen sind an sich uner¬
+1,10,406,407,¬,uner,heblich,unerheblich,join,high,"joined form attested in DWDS (308,203 hits)",False,0,308203,0,,1,,"ceptionen sind an sich uner¬ || heblich, und überdies falsch,"
+1,10,408,409,¬,Rich,tigkeit,Richtigkeit,join,high,"joined form attested in DWDS (320,888 hits)",False,0,320888,0,,2,,denn ich habe schon die Rich¬ || tigkeit des Flächen-Innhalts
+1,10,410,411,¬,vereyde,ten,vereydeten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,13,,"durch Atteste des vereyde¬ || ten Conducteurs, der sie"
+1,10,415,416,¬,Con,sens,Consens,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"nachgesuchte Cammer-Con¬ || sens, auf den Grund der"
+1,10,417,418,¬,Verord,nung,Verordnung,join,high,"joined form attested in DWDS (909,322 hits)",False,0,909322,0,,1,,neuern gesetzlichen Verord¬ || nung in der Cabinets Ordre
+1,10,419,421,¬,abgeschla,gen,abgeschlagen,join,review,crosses a page break - check by hand,True,0,84825,0,11,4,381373,vom 10ten April c. abgeschla¬ || gen worden. Ueberhaupt ge¬
+1,11,421,422,¬,ge,hört,gehört,join,high,"joined form attested in DWDS (17,625,842 hits)",False,0,17625842,0,,1,,gen worden. Ueberhaupt ge¬ || hört alles dies zum Haupt¬
+1,11,422,423,¬,Haupt,prozeße,Hauptprozeße,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,8,,hört alles dies zum Haupt¬ || prozeße über die Annulli
+1,11,424,425,¬,Erb,zins,Erbzins,split,high,joined form unattested; both halves are real words,False,0,650,0,217132,4,1293269,rung des Contracts. Der Erb¬ || zins wird für die Benutzung
+1,11,427,428,¬,Einkünf,te,Einkünfte,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,seiner fortlaufenden Einkünf¬ || te entrichtet. /: Allg. L. R. Th.
+1,11,430,431,¬,Ge,nuß,Genuß,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Gegner sind im Besitz und Ge¬ || nuß aller Guths Revenuen
+1,11,432,433,¬,fort,laufenden,fortlaufenden,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"und müßen also auch den fort¬ || laufenden Canon so lange,"
+1,11,435,436,¬,be,zahlen,bezahlen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"Contracts entschieden ist, be¬ || zahlen, oder im schlimmsten Fall"
+1,11,439,440,¬,ausdrück,lich,ausdrücklich,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"ich sie gleich dazu noch ausdrück¬ || lich habe auffordern lassen,"
+1,11,443,444,¬,zah,len,zahlen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,daß die Gegner so wenig zah¬ || len können als wollen.
+1,11,447,448,¬,Al,ternative,Alternative,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,Resolution aufgestellte Al¬ || ternative ist weder akten¬
+1,11,448,449,¬,akten,mäßig,aktenmäßig,join,high,"joined form attested in DWDS (1,014 hits)",False,0,1014,1,,1,,ternative ist weder akten¬ || mäßig noch logisch richtig.
+1,11,455,456,¬,die,se,diese,join,high,joined form occurs elsewhere in this corpus,False,11,,88,,1,,"und ich schuldig sey, ihnen die¬ || se Summe, wenn der Erb¬"
+1,11,456,457,¬,Erb,pacht,Erbpacht,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"se Summe, wenn der Erb¬ || pacht-Contract annullirt"
+1,12,462,463,¬,Unter,abnehmern,Unterabnehmern,join,high,joined form occurs elsewhere in this corpus,False,2,,3,,1,,von ihnen von ihren Unter¬ || abnehmern contractwidrig
+1,12,464,465,¬,di,rect,direct,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"erhobenen, an mich selbst di¬ || rect zahlbaren Summe der"
+1,12,472,473,¬,aus,drücklich,ausdrücklich,join,high,joined form occurs elsewhere in this corpus,False,2,,6,,2,,ohne meinen mir im §. 10. aus¬ || drücklich reservirten Consens
+1,12,474,475,¬,der,gestallt,dergestallt,split,high,joined form unattested; both halves are real words,False,0,56,68,0,2,3361,"abgeschloßen, und für mich der¬ || gestallt unverbindlich, daß"
+1,12,476,477,¬,Unterabneh,mern,Unterabnehmern,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,ich die von den Unterabneh¬ || mern an die Gegner ge¬
+1,12,477,478,¬,ge,leistete,geleistete,join,high,"joined form attested in DWDS (254,087 hits)",False,0,254087,0,,1,,mern an die Gegner ge¬ || leistete Zahlungen zu agnos¬
+1,12,478,479,¬,agnos,ciren,agnosciren,join,high,head is not a word on its own,False,0,0,0,196,1,,leistete Zahlungen zu agnos¬ || ciren nicht schuldig bin. Wenn
+1,12,483,484,¬,ande,res,anderes,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"die größtentheils kein ande¬ || res Vermögen, als das einge¬"
+1,12,484,485,¬,einge,zahlte,eingezahlte,join,high,"joined form attested in DWDS (39,080 hits)",False,0,39080,0,,1,,"res Vermögen, als das einge¬ || zahlte Einstandsgeld, haben,"
+1,12,489,490,¬,nun,mermehr,nunmermehr,split,high,joined form unattested; both halves are real words,False,0,0,3,36252066,1,0,"werden. Dies würde ich nun¬ || mermehr zugeben, und ich habe"
+1,12,494,495,¬,hintergan,genen,hintergangenen,join,high,"joined form attested in DWDS (30,891 hits)",False,0,30891,0,,1,,"Gegnern schändlich hintergan¬ || genen Unterabnehmern,"
+1,12,498,499,¬,abzu,chen,abzuchen,split,high,joined form unattested; both halves are real words,False,0,0,0,1309,2,139864,Strenge meines Rechts abzu¬ || chen. Ew. Königl. Ma¬
+1,12,499,500,¬,Ma,jestaet,Majestaet,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,chen. Ew. Königl. Ma¬ || jestaet werden diese mei¬
+1,12,500,501,¬,mei,ne,meine,split,high,joined form unattested; both halves are real words,False,0,0,0,64013,3,1335885,jestaet werden diese mei¬ || ne Erklärung gewiß als
+1,12,503,505,¬,be,trachten,betrachten,join,review,crosses a page break - check by hand,True,0,2883670,0,105863,1,54224,meiner Person würdig be¬ || trachten. Wenn ich aber diese
+1,13,506,507,¬,Unterabneh,mern,Unterabnehmern,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"10,000 rthlr. den Unterabneh¬ || mern der Gegner solcherge¬"
+1,13,507,508,¬,solcherge,stallt,solchergestallt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"mern der Gegner solcherge¬ || stallt anrechne, und dadurch"
+1,13,514,515,¬,re,stituiren,restituiren,split,high,joined form unattested; both halves are real words,False,0,6,1,906113,1,0,"Händen habe, und ihnen nie re¬ || stituiren kann. Ueberdies"
+1,13,518,519,¬,Conventio,nal,Conventional,join,high,head is not a word on its own,False,0,178,0,56,1,,als verfallene Conventio¬ || nal Strafe in Anspruch ge¬
+1,13,519,520,¬,ge,nommen,genommen,join,high,"joined form attested in DWDS (27,446,580 hits)",False,0,27446580,0,,1,,"nal Strafe in Anspruch ge¬ || nommen, und auch dieser Punct"
+1,13,521,522,¬,litispen,dent,litispendent,join,high,head is not a word on its own,False,0,0,0,0,1,,ist im Hauptprozeße litispen¬ || dent.
+1,13,524,525,¬,Con,tract,Contract,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"Alternative, daß der Con¬ || tract stehen bliebe, und für"
+1,13,529,530,¬,cassato,ria,cassatoria,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Theils die clausula cassato¬ || ria des §. 5. eintritt, weil"
+1,13,532,533,¬,be,zahlt,bezahlt,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"des Erbstandsgeldes nicht be¬ || zahlt, und auch nicht deponirt"
+1,13,536,537,¬,ge,setzlichen,gesetzlichen,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"ist, und nach den neuesten ge¬ || setzlichen Bestimmungen ver¬"
+1,13,537,538,¬,ver,weigert,verweigert,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,setzlichen Bestimmungen ver¬ || weigert werden muß.
+1,13,540,541,¬,Un,säßigkeit,Unsäßigkeit,split,high,joined form unattested; both halves are real words,False,0,0,0,594768,1,0,Decernenten angenommene Un¬ || säßigkeit der Gegner be¬
+1,13,541,542,¬,be,trift,betrift,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"säßigkeit der Gegner be¬ || trift, so beruht diese Sup¬"
+1,13,542,543,¬,Sup,position,Supposition,split,high,joined form unattested; both halves are real words,False,0,58,0,82942,1,3771077,"trift, so beruht diese Sup¬ || position ganz augenfällig auf"
+1,13,544,545,¬,Verwechse,lung,Verwechselung,join,high,"joined form attested in DWDS (101,183 hits)",False,0,101183,0,,1,,einer offenbaren Verwechse¬ || lung der Rechtsbegriffe von
+1,14,549,550,¬,Gegen,Vorstellung,GegenVorstellung,join,high,"joined form attested in DWDS (6,343 hits)",False,0,6343,2,,3,,August enthaltene Gegen¬ || Vorstellung ist gar nicht berück¬
+1,14,550,551,¬,berück,sichtiget,berücksichtiget,join,high,"joined form attested in DWDS (2,479,003 hits)",False,0,2479003,0,,1,,Vorstellung ist gar nicht berück¬ || sichtiget worden
+1,14,561,562,¬,Con,tract,Contract,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"ist, und deshalb weil sein Con¬ || tract nichtig bleibt, nur be¬"
+1,14,562,563,¬,be,richtiget,berichtiget,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"tract nichtig bleibt, nur be¬ || richtiget werden kann, ein"
+1,14,564,565,¬,rechtli,chen,rechtlichen,join,high,"joined form attested in DWDS (2,359,393 hits)",False,0,2359393,0,,2,,Guthsbesitzer im rechtli¬ || chen Sinne sey -; es bleibt
+1,14,567,568,¬,Be,sitz,Besitz,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,den Gegnern den Civil Be¬ || sitz dadurch zugestanden
+1,14,570,571,¬,Be,sitzes,Besitzes,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Genuß des Natural-Be¬ || sitzes den laufenden Erb¬
+1,14,571,572,¬,Erb,pachtzins,Erbpachtzins,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"sitzes den laufenden Erb¬ || pachtzins, so lange bis der Con¬"
+1,14,572,573,¬,Con,tract,Contract,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"pachtzins, so lange bis der Con¬ || tract annullirt, und die Exmis¬"
+1,14,573,574,¬,Exmis,sion,Exmission,join,high,head is not a word on its own,False,0,296,0,0,1,,"tract annullirt, und die Exmis¬ || sion der Gegner realisirt ist, von"
+1,14,577,578,¬,pos,sessionirt,possessionirt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"nicht, wie Jemand für pos¬ || sessionirt, ansäßig, und si¬"
+1,14,578,579,¬,si,cher,sicher,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"sessionirt, ansäßig, und si¬ || cher geachtet werden kann,"
+1,14,586,587,¬,Al,lerhöchst,Allerhöchst,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,Herr! Nie würde ich Al¬ || lerhöchst dieselben mit diesem
+1,14,588,590,¬,ei,ner,einer,join,review,crosses a page break - check by hand,True,4,942668787,0,76569,1,152600,"weitläuftigen Gesuche, in ei¬ || ner leider sehr verworrenen"
+1,15,593,594,¬,kei,nen,keinen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,5,,"würde. Ich habe durchaus kei¬ || nen andern Zweck, als gegen"
+1,15,595,596,¬,unersetz,lichen,unersetzlichen,join,high,"joined form attested in DWDS (49,783 hits)",False,0,49783,0,,4,,die offenbaren ganz unersetz¬ || lichen Beschädigungen der Ge¬
+1,15,596,597,¬,Ge,gner,Gegner,join,high,joined form occurs elsewhere in this corpus,False,14,,0,,1,,lichen Beschädigungen der Ge¬ || gner sicher gestellt zu werden
+1,15,601,602,¬,be,wirken,bewirken,join,high,"joined form attested in DWDS (854,328 hits)",False,0,854328,0,,1,,"aller Lasten und Abgaben be¬ || wirken muß, ohne irgend ei¬"
+1,15,602,603,¬,ei,ne,eine,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,3,,"wirken muß, ohne irgend ei¬ || ne Einnahme und Revencie des"
+1,15,605,606,¬,Mit,tel,Mittel,join,high,joined form occurs elsewhere in this corpus,False,2,,16,,1,,"es ein anderes rechtliches Mit¬ || tel mich sicher zu stellen, als"
+1,15,612,613,¬,vor,handen,vorhanden,join,high,joined form occurs elsewhere in this corpus,False,1,,2,,1,,"kein anderes Mittel vor¬ || handen sey, und deshalb"
+1,15,614,615,¬,Seques,trations,Sequestrations,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,muß ich auf meinem Seques¬ || trations Gesuche beharren.
+1,15,617,618,¬,Reve,nuen,Revenuen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"als daß die Guths-Reve¬ || nuen, welche der Seques¬"
+1,15,618,619,¬,Seques,ter,Sequester,join,high,"joined form attested in DWDS (4,652 hits)",False,0,4652,0,,2,,"nuen, welche der Seques¬ || ter erheben wird, ad depo¬"
+1,15,619,620,¬,depo,situm,depositum,join,high,"joined form attested in DWDS (1,701 hits)",False,0,1701,0,,1,,"ter erheben wird, ad depo¬ || situm judiciale gezahlt"
+1,15,621,622,¬,so,gar,sogar,join,high,joined form occurs elsewhere in this corpus,False,3,,20,,4,,"werden, und habe mich so¬ || gar für den in Vorschlag"
+1,15,623,624,¬,an,dern,andern,join,high,joined form occurs elsewhere in this corpus,False,3,,15,,2,,"gebrachten, oder einen an¬ || dern soliden Sequestor"
+1,15,626,627,¬,Erach,tens,Erachtens,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,erboten. Meines Erach¬ || tens sind dadurch alle nur
+1,15,631,633,¬,Ka,lisch,Kalisch,join,review,crosses a page break - check by hand,True,4,11040,0,87542,2,1960716,der Regierung in Ka¬ || lisch die sämtlichen Ak¬
+1,16,633,634,¬,Ak,ten,Akten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,13,,lisch die sämtlichen Ak¬ || ten abfordern zu las¬
+1,16,634,635,¬,las,sen,lassen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"ten abfordern zu las¬ || sen, demnächst aber die"
+1,16,638,639,¬,Reali,sirung,Realisirung,split,high,joined form unattested; both halves are real words,False,0,22,0,1286,1,0,unverzügliche Reali¬ || sirung der Regierung
+1,16,643,644,¬,Be,richt,Bericht,join,high,"joined form attested in DWDS (5,199,039 hits)",False,0,5199039,0,,2,,"sonst nur gewöhnlich ein Be¬ || richt in sollchen Fällen, wie"
+1,16,646,647,¬,des,halb,deshalb,join,high,joined form occurs elsewhere in this corpus,False,5,,33,,2,,bitte aber ausdrücklich des¬ || halb um Abforderung der
+1,16,648,649,¬,Be,richt,Bericht,join,high,"joined form attested in DWDS (5,199,039 hits)",False,0,5199039,0,,2,,"Acten, weil ein bloßer Be¬ || richt nicht so vollständig aus¬"
+1,16,649,650,¬,aus,fallen,ausfallen,join,high,"joined form attested in DWDS (1,459,789 hits)",False,0,1459789,6,,1,,"richt nicht so vollständig aus¬ || fallen, und die vollkommen¬"
+1,16,650,651,¬,vollkommen,ste,vollkommenste,join,high,"joined form attested in DWDS (1,282,478 hits)",False,0,1282478,0,,2,,"fallen, und die vollkommen¬ || ste Rechtmäßigkeit meines"
+1,16,653,654,¬,dar,thun,darthun,split,high,joined form unattested; both halves are real words,False,0,49,0,2608541,1,240169,"keinen Fall so gründlich dar¬ || thun würde, als wenn, wa¬"
+1,16,654,655,¬,wa,rum,warum,join,high,"joined form attested in DWDS (10,241,072 hits)",False,0,10241072,0,,1,,"thun würde, als wenn, wa¬ || rum ich ehrerbiethigst bitte,"
+1,16,656,657,¬,geru,hen,geruhen,join,high,head is not a word on its own,False,0,42,0,360,1,,"Ew. Königl. Majestaet geru¬ || hen wollen, sich solches unter"
+1,16,661,662,¬,lang,wierig,langwierig,join,high,"joined form attested in DWDS (276,237 hits)",False,0,276237,0,,1,,"Der Hauptprozeß wird lang¬ || wierig instruirt, die Beweis"
+1,16,668,669,¬,ordi,nario,ordinario,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Sache blos in processu ordi¬ || nario eingeleitet worden,"
+1,16,670,671,¬,Jah,ren,Jahren,join,high,"joined form attested in DWDS (120,565,678 hits)",False,0,120565678,0,,1,,noch wenigstens in zwey Jah¬ || ren an kein Judicat und eine
+1,17,679,680,¬,Ehr,erbietung,Ehrerbietung,join,high,"joined form attested in DWDS (11,443 hits)",False,0,11443,0,,1,,mit derjenigen Zuversicht und Ehr¬ || erbietung entgegen sehen zu

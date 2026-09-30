@@ -238,15 +238,37 @@
    "doc_line": 8
   },
   {
-   "entity": "august",
-   "display": "August",
+   "entity": "bagans",
+   "display": "Johann Bagans",
    "kind": "person",
-   "surface": "August",
-   "page": 4,
-   "page_id": "0083_a1",
-   "scan": "Oe_1_Bu_14525_0083_a1-L21_04.jpg",
-   "line": 2515,
-   "doc_line": 78
+   "surface": "Bagans",
+   "page": 2,
+   "page_id": "0082_a1",
+   "scan": "Oe_1_Bu_14525_0082_a1-L21_02.jpg",
+   "line": 2480,
+   "doc_line": 45
+  },
+  {
+   "entity": "giese",
+   "display": "Johann Giese",
+   "kind": "person",
+   "surface": "Giese",
+   "page": 2,
+   "page_id": "0082_a1",
+   "scan": "Oe_1_Bu_14525_0082_a1-L21_02.jpg",
+   "line": 2480,
+   "doc_line": 45
+  },
+  {
+   "entity": "gietzinger",
+   "display": "Friedrich Gietzinger",
+   "kind": "person",
+   "surface": "Gietzinger",
+   "page": 2,
+   "page_id": "0082_a1",
+   "scan": "Oe_1_Bu_14525_0082_a1-L21_02.jpg",
+   "line": 2481,
+   "doc_line": 46
   },
   {
    "entity": "triebenfeld",
@@ -430,7 +452,7 @@
    "page": 2
   },
   {
-   "entity": "",
+   "entity": "giese",
    "display": "Johann Giese",
    "kind": "person",
    "surface_de": "Johann Giese",
@@ -438,7 +460,7 @@
    "page": 2
   },
   {
-   "entity": "",
+   "entity": "bagans",
    "display": "Johann Bagans",
    "kind": "person",
    "surface_de": "Johann Bagans",
@@ -446,7 +468,7 @@
    "page": 2
   },
   {
-   "entity": "",
+   "entity": "gietzinger",
    "display": "Friedrich Gietzinger",
    "kind": "person",
    "surface_de": "Friedrich Gietzinger",

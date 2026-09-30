@@ -61,6 +61,17 @@
  ],
  "mentions": [
   {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 1,
+   "page_id": "0241_a2",
+   "scan": "Oe_1_Bu_9454_0241_a2-L122_01.jpg",
+   "line": 9103,
+   "doc_line": 8
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",

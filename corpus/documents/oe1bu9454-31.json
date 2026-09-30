@@ -333,6 +333,17 @@
    "doc_line": 53
   },
   {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 2,
+   "page_id": "0056_a1",
+   "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
+   "line": 2098,
+   "doc_line": 54
+  },
+  {
    "entity": "honrichs",
    "display": "Honrichs",
    "kind": "person",
@@ -375,6 +386,17 @@
    "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
    "line": 2104,
    "doc_line": 60
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 2,
+   "page_id": "0056_a1",
+   "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
+   "line": 2105,
+   "doc_line": 61
   },
   {
    "entity": "honrichs",

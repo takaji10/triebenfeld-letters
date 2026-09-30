@@ -244,8 +244,8 @@
    "doc_line": 44
   },
   {
-   "entity": "august",
-   "display": "August",
+   "entity": "fuerst-august",
+   "display": "Fürst August zu Hohenlohe-Ingelfingen",
    "kind": "person",
    "surface": "August",
    "page": 3,
@@ -264,6 +264,28 @@
    "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
    "line": 17066,
    "doc_line": 77
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 4,
+   "page_id": "0440_a",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17069,
+   "doc_line": 80
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 4,
+   "page_id": "0440_a",
+   "scan": "Oe_1_Bu_9454_0440_a-L233_04.jpg",
+   "line": 17072,
+   "doc_line": 83
   },
   {
    "entity": "chomanowski",

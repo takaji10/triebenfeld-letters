@@ -170,6 +170,17 @@
    "doc_line": 13
   },
   {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 1,
+   "page_id": "0026_a",
+   "scan": "Oe_1_Bu_9454_0026_a-L17_01.jpg",
+   "line": 924,
+   "doc_line": 16
+  },
+  {
    "entity": "hecker",
    "display": "Hecker",
    "kind": "person",
@@ -201,6 +212,17 @@
    "scan": "Oe_1_Bu_9454_0026_a-L17_01.jpg",
    "line": 926,
    "doc_line": 18
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 1,
+   "page_id": "0026_a",
+   "scan": "Oe_1_Bu_9454_0026_a-L17_01.jpg",
+   "line": 927,
+   "doc_line": 19
   },
   {
    "entity": "chomanowski",

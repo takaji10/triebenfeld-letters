@@ -1,0 +1,32 @@
+# Editorial rulings for I. HA GR, Rep. 7 C, Nr. 3705 (GStA PK).
+#
+# One document: Triebenfeld's petition to the King. The title page (0001) is
+# front matter. Established 2026-09-30 by reading the whole file.
+
+places:
+  overrides:
+    "1": Breslau
+
+dates:
+  # [year, month, day, precision]; read off the closing dateline,
+  # "Breslau den 18 Septbr. 1805."
+  read:
+    "1": [1805, 9, 18, "day"]
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # A petition to the King, signed by Triebenfeld for the Prince: `letter`,
+  # the vocabulary's word for correspondence.
+  doc_type:
+    "1": letter
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+  estates:
+    "1": [olesnica, trabczyn, zagorowo]
+
+damage:
+  letters: []

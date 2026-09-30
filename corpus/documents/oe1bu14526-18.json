@@ -1030,28 +1030,6 @@
    "doc_line": 166
   },
   {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 11,
-   "page_id": "0114_a2",
-   "scan": "Oe_1_Bu_14526_0114_a2-L18_11.jpg",
-   "line": 5947,
-   "doc_line": 198
-  },
-  {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 11,
-   "page_id": "0114_a2",
-   "scan": "Oe_1_Bu_14526_0114_a2-L18_11.jpg",
-   "line": 5956,
-   "doc_line": 207
-  },
-  {
    "entity": "born",
    "display": "Born",
    "kind": "person",
@@ -1237,17 +1215,6 @@
    "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
    "line": 6185,
    "doc_line": 424
-  },
-  {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 23,
-   "page_id": "0120_a2",
-   "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
-   "line": 6188,
-   "doc_line": 427
   },
   {
    "entity": "triebenfeld",

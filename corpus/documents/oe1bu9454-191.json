@@ -704,6 +704,17 @@
    "doc_line": 238
   },
   {
+   "entity": "giese",
+   "display": "Johann Giese",
+   "kind": "person",
+   "surface": "Giese",
+   "page": 10,
+   "page_id": "0366_a1",
+   "scan": "Oe_1_Bu_9454_0366_a1-L191_10.jpg",
+   "line": 13858,
+   "doc_line": 282
+  },
+  {
    "entity": "glenck",
    "display": "Glenck",
    "kind": "person",
@@ -713,6 +724,17 @@
    "scan": "Oe_1_Bu_9454_0366_a1-L191_10.jpg",
    "line": 13858,
    "doc_line": 282
+  },
+  {
+   "entity": "giese",
+   "display": "Johann Giese",
+   "kind": "person",
+   "surface": "Giese",
+   "page": 10,
+   "page_id": "0366_a1",
+   "scan": "Oe_1_Bu_9454_0366_a1-L191_10.jpg",
+   "line": 13862,
+   "doc_line": 286
   },
   {
    "entity": "schenck",
@@ -735,6 +757,17 @@
    "scan": "Oe_1_Bu_9454_0366_a2-L191_11.jpg",
    "line": 13882,
    "doc_line": 305
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 11,
+   "page_id": "0366_a2",
+   "scan": "Oe_1_Bu_9454_0366_a2-L191_11.jpg",
+   "line": 13884,
+   "doc_line": 307
   },
   {
    "entity": "honrichs",

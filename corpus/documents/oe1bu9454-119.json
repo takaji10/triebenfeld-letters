@@ -164,6 +164,39 @@
    "doc_line": 14
   },
   {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 1,
+   "page_id": "0239_a",
+   "scan": "Oe_1_Bu_9454_0239_a-L119_01.jpg",
+   "line": 9025,
+   "doc_line": 22
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 2,
+   "page_id": "0240_a1",
+   "scan": "Oe_1_Bu_9454_0240_a1-L119_02.jpg",
+   "line": 9029,
+   "doc_line": 25
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface": "Cabanis",
+   "page": 2,
+   "page_id": "0240_a1",
+   "scan": "Oe_1_Bu_9454_0240_a1-L119_02.jpg",
+   "line": 9032,
+   "doc_line": 28
+  },
+  {
    "entity": "rapacki",
    "display": "Rapacki",
    "kind": "person",

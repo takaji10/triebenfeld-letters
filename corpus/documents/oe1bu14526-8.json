@@ -610,17 +610,6 @@
    "doc_line": 389
   },
   {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 12,
-   "page_id": "0043_a1",
-   "scan": "Oe_1_Bu_14526_0043_a1-L8_12.jpg",
-   "line": 2187,
-   "doc_line": 395
-  },
-  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
@@ -740,17 +729,6 @@
    "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
    "line": 2506,
    "doc_line": 704
-  },
-  {
-   "entity": "august",
-   "display": "August",
-   "kind": "person",
-   "surface": "August",
-   "page": 22,
-   "page_id": "0048_a1",
-   "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
-   "line": 2510,
-   "doc_line": 708
   },
   {
    "entity": "hohenlohe",
