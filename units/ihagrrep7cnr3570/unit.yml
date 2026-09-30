@@ -11,7 +11,11 @@ title: >-
 # The charters and their covering papers are of July and August 1796; the
 # registry notes at the front are of 1826.
 date_span: 1796
-status: draft              # draft | transcribed | translated | published
+status: translated         # draft | transcribed | translated | published
+
+# The translation generation this holding was published from; pass --tag v2
+# to every translation tool.
+published_tag: v2
 
 # Which era this holding belongs to - reference/eras.yml.
 era: hohenlohe
@@ -24,9 +28,9 @@ repository: gstapk-berlin
 # rest (0002-0006, 0008-0026) were copied unchanged into raw_dir/processed/ as
 # <capture>_a.jpg and staged from there; a "page" of this holding is a scan.
 #
-# Not every page is transcribed yet. The editor sent blank files for
-# 0013-0024 and no text for 0008 and 0009; 0006 was missed and its
-# transcription is to follow (2026-09-30). Each of those pages carries the
+# Not every page is transcribed. 0013-0024 are the same formulaic charters
+# for the other six officers, skipped by the editor as less relevant
+# (2026-09-30); 0006, 0008 and 0009 arrived later the same day. Each of those pages carries the
 # placeholder line "(not transcribed)", so the page and its scan are in the
 # edition and the text can replace the placeholder later.
 scans:

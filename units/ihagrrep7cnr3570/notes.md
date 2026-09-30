@@ -14,8 +14,8 @@ raw_dir/processed/ as <capture>_a.jpg and staged; a "page" here is a scan.
 ## Transcription
 
 One file per scan. 0006, 0008 and 0009 arrived later the same day and replaced
-their placeholders. Still not transcribed: 0013-0024 (the editor sent blank
-files for these); each carries the placeholder line "(not transcribed)", so
+their placeholders. Not transcribed, by the editor's choice (2026-09-30): 0013-0024, the
+same formulaic charters for the other six officers, skipped as less relevant; each carries the placeholder line "(not transcribed)", so
 the page and its scan are in the edition. **When a transcription arrives,
 replace that page's placeholder in corpus.txt and run the correction passes on
 the new lines (units/oe1bu9454/new_text_checklist.md).**
@@ -84,3 +84,17 @@ Szettlewek, Prusimski, Hoym, in originali, Reinschriften).
 ## Damage
 
 None recorded.
+
+## Reading, translation and summaries (2026-09-30)
+
+- Read whole and checked ($0.29): "partly garbled" (the draft charter and
+  Hoym's letter), no correction proposed, no unsupported claim. German summary
+  79 words.
+- Translated with --tag v2 ($1.22), with 0013-0024 as placeholders on the
+  editor's instruction. The translator's eight proposals (Heimath, Suprensten,
+  raque, verkauft voller, Neu ern, Re sollen, Munde, and a signature that looks
+  like Goldbeck's) rest on sense and none was applied. The English keeps the
+  German as written and flags them. One edit to the English: "[Glodk?]" was
+  left in German form and is now "[uncertain: Glodk]", the house style.
+- English summary translated by hand from the checked German one. Published
+  from v2.

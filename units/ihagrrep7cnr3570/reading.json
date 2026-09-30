@@ -1,0 +1,132 @@
+{
+ "ihagrrep7cnr3570-001": {
+  "letter": "1",
+  "legibility": "partly garbled",
+  "notes": "This is a composite file from the ministry. It holds: (1) Hoym's letter of 30 July 1796 from Breslau to Minister von der Reck, asking him to have the charters made out in the Lehns Canzley and to always add the clause \"cum appertinentia\"; (2) a copy of Hoym's report of 14 July to the King, proposing the confiscated Prusimski estates for Hohenlohe and other estates for six officers; (3) a copy of the cabinet order of 23 July approving this; (4) the covering letter of 9 August to Hoym; (5) the report to the King; (6) the draft charter for the Prince; (7) Hoym's letter of 20 August to Goldbeck returning the co-signed charters.",
+  "claims": [
+   {
+    "statement": "Hoym schlägt vor, dem Fürsten von Hohenlohe-Ingelfingen die Prusimski konfiszierten Güter Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Lazy, Alt- und Neu-Laske, Osiny, Hauland Trąbczyński und Brzyce zu verleihen",
+    "lines": [
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70,
+     71,
+     72,
+     73,
+     74,
+     75,
+     76,
+     77,
+     78,
+     79,
+     80,
+     81,
+     92,
+     93,
+     94
+    ]
+   },
+   {
+    "statement": "Die Kabinettsordre genehmigt dies sowie Güter für Sanitz, Blücher, Dolffs, Pontanus, Holtzendorff und Larisch",
+    "lines": [
+     170,
+     173,
+     174,
+     175,
+     176,
+     177,
+     178,
+     179,
+     180,
+     182,
+     184,
+     186,
+     188,
+     190,
+     191,
+     192
+    ]
+   },
+   {
+    "statement": "Entwurf der Schenkungsurkunde für den Fürsten",
+    "lines": [
+     270,
+     271,
+     272,
+     273,
+     274,
+     275,
+     276,
+     277,
+     278,
+     279,
+     309,
+     310,
+     311,
+     312,
+     313,
+     314,
+     315,
+     316,
+     317
+    ]
+   },
+   {
+    "statement": "Hoym wünscht die Klausel cum appertinentia",
+    "lines": [
+     23,
+     24,
+     25
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "verkauft voller",
+    "note": "probably 'verdienstvoller' (Officiers); line 7 'zum Besten' is also doubtful"
+   },
+   {
+    "line": 26,
+    "word": "Suprensten",
+    "note": "probably 'Südpreußen'"
+   },
+   {
+    "line": 38,
+    "word": "raque",
+    "note": "probably 'vage' or a similar word"
+   },
+   {
+    "line": 305,
+    "word": "Heimath",
+    "note": "does not fit the context; perhaps 'Gnaden' or 'Rath'"
+   },
+   {
+    "line": 341,
+    "word": "sollen",
+    "note": "probably 'Regierungen' / 'Provinzen'; 'Neu ern' probably 'Steuern'"
+   },
+   {
+    "line": 361,
+    "word": "verarben",
+    "note": "probably 'vererben'; 'darinnß' is also doubtful"
+   },
+   {
+    "line": 358,
+    "word": "Parteinenzum",
+    "note": "probably a misreading of the word written 'Pertinenzien' in line 317, but the exact form cannot be proven ('Pertinenzen', 'Pertinentien' are equally possible); not applied"
+   },
+   {
+    "line": 267,
+    "word": "Munde",
+    "note": "probably 'Mundo' as in the parallel formula in line 384 ('im Concept und Mundo'), but 'Munde' could render the plural 'Munda' (compare line 409 'die Munde als Concepte'); not applied"
+   }
+  ],
+  "read_against": "2aeb3eb8b5febc9e"
+ }
+}
