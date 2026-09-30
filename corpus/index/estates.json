@@ -2,9 +2,10 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 132,
+  "count": 133,
   "documents": [
    "app5371057-1",
+   "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3705-1",
    "oe1bu14525-1",
    "oe1bu14525-3",
@@ -228,8 +229,9 @@
  {
   "entity": "kamionno",
   "display": "Kamionna (Kaemen)",
-  "count": 70,
+  "count": 71,
   "documents": [
+   "ihagrrep7cnr3570-1",
    "oe1bu14525-1",
    "oe1bu14525-12",
    "oe1bu14525-13",
@@ -724,6 +726,39 @@
   ]
  },
  {
+  "entity": "szetlewek",
+  "display": "Szetlewek",
+  "count": 26,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "oe1bu14525-1",
+   "oe1bu14525-2",
+   "oe1bu14525-23",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu14525-42",
+   "oe1bu14526-25",
+   "oe1bu14526-26",
+   "oe1bu14526-27",
+   "oe1bu9454-103",
+   "oe1bu9454-136",
+   "oe1bu9454-156",
+   "oe1bu9454-163",
+   "oe1bu9454-168",
+   "oe1bu9454-169",
+   "oe1bu9454-172",
+   "oe1bu9454-173",
+   "oe1bu9454-179a",
+   "oe1bu9454-192",
+   "oe1bu9454-210",
+   "oe1bu9454-215",
+   "oe1bu9454-24",
+   "oe1bu9454-288",
+   "oe1bu9454-31"
+  ]
+ },
+ {
   "entity": "koschentin",
   "display": "Koszęcin (Koschentin)",
   "count": 26,
@@ -757,38 +792,6 @@
   ]
  },
  {
-  "entity": "szetlewek",
-  "display": "Szetlewek",
-  "count": 25,
-  "documents": [
-   "oe1bu14525-1",
-   "oe1bu14525-2",
-   "oe1bu14525-23",
-   "oe1bu14525-3",
-   "oe1bu14525-39",
-   "oe1bu14525-4",
-   "oe1bu14525-42",
-   "oe1bu14526-25",
-   "oe1bu14526-26",
-   "oe1bu14526-27",
-   "oe1bu9454-103",
-   "oe1bu9454-136",
-   "oe1bu9454-156",
-   "oe1bu9454-163",
-   "oe1bu9454-168",
-   "oe1bu9454-169",
-   "oe1bu9454-172",
-   "oe1bu9454-173",
-   "oe1bu9454-179a",
-   "oe1bu9454-192",
-   "oe1bu9454-210",
-   "oe1bu9454-215",
-   "oe1bu9454-24",
-   "oe1bu9454-288",
-   "oe1bu9454-31"
-  ]
- },
- {
   "entity": "kopojno",
   "display": "Kopojno (Kopoyno)",
   "count": 23,
@@ -816,6 +819,35 @@
    "oe1bu9454-233",
    "oe1bu9454-24",
    "oe1bu9454-32"
+  ]
+ },
+ {
+  "entity": "kolno",
+  "display": "Kolno (Kulm)",
+  "count": 22,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "oe1bu14525-12",
+   "oe1bu14525-13",
+   "oe1bu14525-14",
+   "oe1bu14525-34",
+   "oe1bu14526-22",
+   "oe1bu14526-23",
+   "oe1bu14526-4",
+   "oe1bu14526-5",
+   "oe1bu9454-102",
+   "oe1bu9454-103",
+   "oe1bu9454-134",
+   "oe1bu9454-135",
+   "oe1bu9454-136",
+   "oe1bu9454-138",
+   "oe1bu9454-140",
+   "oe1bu9454-242",
+   "oe1bu9454-275",
+   "oe1bu9454-284",
+   "oe1bu9454-285",
+   "oe1bu9454-297",
+   "oe1bu9454-299"
   ]
  },
  {
@@ -874,34 +906,6 @@
    "oe1bu9454-58",
    "oe1bu9454-59",
    "oe1bu9454-67"
-  ]
- },
- {
-  "entity": "kolno",
-  "display": "Kolno (Kulm)",
-  "count": 21,
-  "documents": [
-   "oe1bu14525-12",
-   "oe1bu14525-13",
-   "oe1bu14525-14",
-   "oe1bu14525-34",
-   "oe1bu14526-22",
-   "oe1bu14526-23",
-   "oe1bu14526-4",
-   "oe1bu14526-5",
-   "oe1bu9454-102",
-   "oe1bu9454-103",
-   "oe1bu9454-134",
-   "oe1bu9454-135",
-   "oe1bu9454-136",
-   "oe1bu9454-138",
-   "oe1bu9454-140",
-   "oe1bu9454-242",
-   "oe1bu9454-275",
-   "oe1bu9454-284",
-   "oe1bu9454-285",
-   "oe1bu9454-297",
-   "oe1bu9454-299"
   ]
  },
  {
@@ -1197,6 +1201,20 @@
   ]
  },
  {
+  "entity": "osiny",
+  "display": "Osiny",
+  "count": 7,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "oe1bu14525-1",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu14526-15",
+   "oe1bu14526-6"
+  ]
+ },
+ {
   "entity": "wolica",
   "display": "Wolica",
   "count": 7,
@@ -1253,16 +1271,16 @@
   ]
  },
  {
-  "entity": "osiny",
-  "display": "Osiny",
+  "entity": "brzyce",
+  "display": "Brzyce",
   "count": 6,
   "documents": [
+   "ihagrrep7cnr3570-1",
    "oe1bu14525-1",
    "oe1bu14525-3",
    "oe1bu14525-39",
    "oe1bu14525-4",
-   "oe1bu14526-15",
-   "oe1bu14526-6"
+   "oe1bu9454-106"
   ]
  },
  {
@@ -1276,18 +1294,6 @@
    "oe1bu14525-28",
    "oe1bu14525-6",
    "oe1u199-1"
-  ]
- },
- {
-  "entity": "brzyce",
-  "display": "Brzyce",
-  "count": 5,
-  "documents": [
-   "oe1bu14525-1",
-   "oe1bu14525-3",
-   "oe1bu14525-39",
-   "oe1bu14525-4",
-   "oe1bu9454-106"
   ]
  },
  {

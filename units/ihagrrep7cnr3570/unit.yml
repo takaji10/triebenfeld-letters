@@ -1,0 +1,83 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ihagrrep7cnr3570
+ref: I. HA GR, Rep. 7 C, Nr. 3570
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+title: >-
+  Acta: die Schenkungs-Urkunden über die dem Fürsten von Hohenlohe-Ingelfingen
+  zum erblichen Besitz verliehenen Güter - the ministry file on the donation
+  charters of August 1796 for the Prince and six officers
+# The charters and their covering papers are of July and August 1796; the
+# registry notes at the front are of 1826.
+date_span: 1796
+status: draft              # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# 28 scans, most of them two-page spreads photographed open. Left out on the
+# editor's instruction: 0001, 0027 and 0028, and 0007, two blank pages. The
+# rest (0002-0006, 0008-0026) were copied unchanged into raw_dir/processed/ as
+# <capture>_a.jpg and staged from there; a "page" of this holding is a scan.
+#
+# Not every page is transcribed yet. The editor sent blank files for
+# 0013-0024 and no text for 0008 and 0009; 0006 was missed and its
+# transcription is to follow (2026-09-30). Each of those pages carries the
+# placeholder line "(not transcribed)", so the page and its scan are in the
+# edition and the text can replace the placeholder later.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/Deed of donation of Hohenlohe estates (I. HA GR, Rep. 7 C, Nr. 3570)
+  raw_glob: I_HA_Rep_7_C_Nr_3570_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: I_HA_Rep_7_C_Nr_3570
+
+# Transcriptions matched to the scans, one file per scan, kept here as
+# I_HA_Rep_7_C_Nr_3570_<capture>_a.txt (the page id of the scan each was read
+# from); the placeholders above are among them.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: "I_HA_Rep_7_C_Nr_3570_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  The Prussian ministry file on the donation charters of August 1796, by which
+  Friedrich Wilhelm II gave estates confiscated from Polish insurgents in South
+  Prussia to the Prince of Hohenlohe-Ingelfingen and to six officers: Colonel
+  von Sanitz, General von Blücher, General von Dolffs, Major von Pontanus,
+  Lieutenant von Holtzendorff and General von Larisch. The Prince received the
+  town of Kamionna (Klemen), the market town of Kulm, the villages of Trąbczyn,
+  Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny and the Trąbczyn
+  Hauland, and Brzyce in Kuyavia, all confiscated from the insurgent Anton
+  Prusimski. The file holds Minister Hoym's report of 14 July proposing the
+  grants, his letter of 30 July, the covering report to the King of 9 August,
+  the draft of the Prince's charter of 9 August 1796, and the correspondence
+  on its signing. Registry notes of 1826 at the front show the file being
+  called up over Sanitz's claim for his lost estates. Several pages, probably
+  the other officers' charters, are not yet transcribed.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A ministry file, not one instrument: reports to the King, letters between
+  the ministers Hoym, Goldbeck and von der Reck, the draft of a royal donation
+  charter (Schenkungs-Urkunde, Donations-Brief) in the King's voice (Wir,
+  Unser), and registry dockets. The charter is a draft: "(tot. tit.)" and
+  "(Inseratur der Charakter des Fürsten im Königl. Dienst)" are the clerk's
+  instructions to insert the full title and the Prince's rank, and stay as
+  they are. Latin chancery terms are kept: Expediatur, conclusum eodem,
+  cum appertinentia, Actus inter vivos, mortis causa, Ad contrasignandum,
+  Munda and Concepte (fair copies and drafts), hujus, submissest. Gratial-Güter
+  are estates granted by royal favour; Insurgenten-Güter estates confiscated
+  from the insurgents of 1794. Pages marked "(not transcribed)" are placeholders for pages whose text
+  has not been transcribed; render them as such and add nothing.

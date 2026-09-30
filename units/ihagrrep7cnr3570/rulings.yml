@@ -1,0 +1,35 @@
+# Editorial rulings for I. HA GR, Rep. 7 C, Nr. 3570 (GStA PK).
+#
+# One document: the ministry file on the donation charters of 1796, as a
+# package headed by the Prince's donation charter (the editor counts a file as
+# one document). The registry notes of 1826 and the file's title (0002-0003)
+# are front matter. Established 2026-09-30.
+
+places:
+  overrides:
+    "1": Berlin
+
+dates:
+  # [year, month, day, precision]; the charter's own dateline, "So geschehen
+  # Berlin, d. 9. August 1796". The papers around it run from Hoym's report of
+  # 14 July to the dockets of 26 August 1796.
+  read:
+    "1": [1796, 8, 9, "day"]
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": donation
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+  # The Prince's grant: Kamionna and Kulm (Kolno), Trąbczyn, Szetlewek, Osiny
+  # and Brzyce, as in 14525's copies of the same charter.
+  estates:
+    "1": [kamionno, kolno, trabczyn, szetlewek, osiny, brzyce]
+
+damage:
+  letters: []

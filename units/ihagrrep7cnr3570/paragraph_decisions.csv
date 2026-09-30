@@ -1,0 +1,72 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,49,break,high,short_line,0.09,5,53,1796.,etc. conclusum eodem.
+1,50,break,high,short_line,0.4,21,53,etc. conclusum eodem.,Mellentz[?]
+1,51,run,review,short_line,0.21,11,53,Mellentz[?],"Auf verschiedene von Sr. Majestät erhaltene Befehle, vacante"
+1,58,break,high,short_line,0.28,15,53,migen befunden.,Da der Inhalt der bisher entworfenen Donations-Ur¬
+1,79,break,high,short_line,0.55,29,53,zu den Haupt-Güthern gehören.,So werden zB. zu den Duninower Güthern die Dörfer
+1,97,break,high,short_line+column,0.13,4,32,Hoym,An
+1,98,run,review,short_line,0.06,2,32,An,des Königlichen Würklich Geheimen Herrn
+1,102,break,high,short_line,0.32,10,32,zu Berlin.,Abschrift.
+1,103,break,high,short_line,0.32,10,32,Abschrift.,Warschau den 14ten July 1796.
+1,105,break,high,short_line+column,0.06,2,32,An,des Königs Majestät
+1,106,break,high,short_line+column,0.6,19,32,des Königs Majestät,wegen
+1,107,run,review,short_line,0.16,5,32,wegen,der an wohlverdienten Officiers
+1,112,break,high,rubric,1.05,33,32,Fürsten von Hohenlohe-Ingelfingen,a) die nachfolgenden dem Haupt Insurgenti
+1,115,break,high,rubric,0.89,28,32,ther allerunterthänigst vor:,1. im Posenschen Creise
+1,118,break,high,rubric+short_line,0.67,21,32,der Markt Fleken Kulm,2.) im Koninschen Creise.
+1,120,break,high,short_line+column,0.6,19,32,die Dörfer Trąbczyn,Szettlewek
+1,121,break,high,short_line+column,0.32,10,32,Szettlewek,Nowawies
+1,122,break,high,short_line+column,0.25,8,32,Nowawies,Lazy
+1,123,break,high,short_line+column,0.13,4,32,Lazy,Alt u[nd] Neu Laske
+1,124,break,high,short_line+column,0.6,19,32,Alt u[nd] Neu Laske,Oszyny
+1,125,break,high,short_line+column,0.19,6,32,Oszyny,Hauland Trąbczyński
+1,126,break,high,rubric+short_line,0.6,19,32,Hauland Trąbczyński,3. in Cujawien
+1,128,break,high,short_line+column,0.48,15,32,das Dorf Brzyce,nebſt Zubehör
+1,129,run,review,short_line,0.41,13,32,nebſt Zubehör,(120000 à 1. pc. —. 1200. rt.)
+1,138,break,high,short_line,0.57,18,32,dahero submissest:,die No. 1. 2. u. 3. benannten Güther
+1,144,break,high,short_line,0.57,18,32,zigen Disposition.,Allerhöchst dieselben habe
+1,145,break,high,rubric,0.83,26,32,Allerhöchst dieselben habe,b.) dem beym F[ürst]. v Hohenlohe Regiment
+1,155,break,high,short_line,0.68,26,38,"Berlin, d. 9. August 1796.",An Seine Königliche Majestät.
+1,170,break,high,rubric+short_line,0.18,7,38,kunden.,1.) für den Fürsten von Hohenlohe-In¬
+1,172,break,high,rubric+short_line,0.26,10,38,"gelfingen,",2.) für den bey dem Regiment Fürst von
+1,175,break,high,rubric+short_line,0.5,19,38,mandeur von Sanitz;,3.) für den General-Major von Blucher;
+1,176,break,high,rubric,1.0,38,38,3.) für den General-Major von Blucher;,4.) für den General-Lieutenant von Dolffs;
+1,177,break,high,rubric,1.11,42,38,4.) für den General-Lieutenant von Dolffs;,5.) für den Major von Pontanus;
+1,178,break,high,rubric,0.82,31,38,5.) für den Major von Pontanus;,6.) für den Lieutenant von Holzendorff;
+1,179,break,high,rubric,1.03,39,38,6.) für den Lieutenant von Holzendorff;,7.) für den General-Major von Larisch;
+1,184,break,high,short_line,0.68,26,38,"Berlin, d. 9. August 1796.",u. Breslau den 20: Aug.
+1,185,break,high,short_line,0.61,23,38,u. Breslau den 20: Aug.,Goldbeck
+1,186,break,high,short_line+column,0.21,8,38,Goldbeck,Hoym
+1,187,run,review,short_line,0.11,4,38,Hoym,zur gefälligen Mitzeichnung des Königl. pp.
+1,193,break,high,short_line,0.67,26,39,"Berlin, d. 9. August 1796.",Schenkungs = Urkunde
+1,194,run,review,short_line,0.51,20,39,Schenkungs = Urkunde,für den Fürsten von Hohenlohe
+1,203,break,high,short_line,0.69,27,39,"nebst zubehör, in Cujavien.",den 24. Novbr. extrad.
+1,204,break,high,short_line,0.56,22,39,den 24. Novbr. extrad.,W.
+1,205,break,high,short_line,0.05,2,39,W.,"Gen. Lieut. der Infanterie, Chef eines Regiments"
+1,246,break,high,short_line,0.17,7,40,eignen.,Wir thun auch solches hiemit und in
+1,301,break,high,short_line,0.65,26,40,"Berlin, d. 9. August 1796.",Ad contrasignandum
+1,302,break,high,short_line+column,0.45,18,40,Ad contrasignandum,Goldbeck
+1,303,break,high,short_line+column,0.2,8,40,Goldbeck,Hoym
+1,304,break,high,short_line+column,0.1,4,40,Hoym,Me[?]od[k?]
+1,305,run,review,short_line,0.28,11,40,Me[?]od[k?],Zur gefälligen Mitzeichnung und Mitcontra¬
+1,337,break,high,rubric+short_line,0.18,8,44,Urkunden,"1. Für den Fürsten zu Hohenlohe Ingelfingen,"
+1,338,break,high,rubric,1.0,44,44,"1. Für den Fürsten zu Hohenlohe Ingelfingen,","2. für den Obristen und Commandeur v Sanitz,"
+1,339,break,high,rubric,1.0,44,44,"2. für den Obristen und Commandeur v Sanitz,",3. für den General Major v. Blücher
+1,340,break,high,rubric,0.8,35,44,3. für den General Major v. Blücher,4. für den General Lieutenant v. Dolffs
+1,341,break,high,rubric,0.89,39,44,4. für den General Lieutenant v. Dolffs,5. für den Major v. Pontanus
+1,342,break,high,rubric,0.64,28,44,5. für den Major v. Pontanus,6. für den Lieutenant v. Holzendorff
+1,343,break,high,rubric,0.82,36,44,6. für den Lieutenant v. Holzendorff,"7. für den General Major v. Larisch,"
+1,351,break,high,short_line,0.64,28,44,Breslau d. 20. August. 1796.,Hoym
+1,352,break,high,short_line+column,0.09,4,44,Hoym,An
+1,353,run,review,short_line,0.05,2,44,An,des Königl. Würklich Geheimen Etats und Justitz
+1,367,break,high,rubric,0.73,36,49,Vollziehung die Schenckungs-Urkunden,"1, für den Fürsten von Hohenlohe-Ingelfingen;"
+1,368,break,high,rubric,0.92,45,49,"1, für den Fürsten von Hohenlohe-Ingelfingen;","2, für den bey dem Regiment Fürst von Hohenlohe stehenden"
+1,370,break,high,rubric+short_line,0.71,35,49,Obristen und Commandeur von Sanitz;,"3, für den General-Major von Blücher,"
+1,371,break,high,rubric,0.76,37,49,"3, für den General-Major von Blücher,","4, für den General-Lieutenant von Dolffs;"
+1,372,break,high,rubric,0.84,41,49,"4, für den General-Lieutenant von Dolffs;","5, für den Major von Pontanus;"
+1,373,break,high,rubric,0.61,30,49,"5, für den Major von Pontanus;","6, für den Lieutenant von Holtzendorff; und"
+1,374,break,high,rubric,0.88,43,49,"6, für den Lieutenant von Holtzendorff; und","7, für den General-Major von Larisch;"
+1,378,break,high,short_line+column,0.08,4,49,Hoym,Goldbeck
+1,379,run,review,short_line,0.16,8,49,Goldbeck,Berlin den 9ten und Breslau den 20ten August 1796.
+1,381,break,high,short_line+column,0.69,34,49,volgigen jede[?]. d. 26. Aug. 1796,Goldbeck
+1,382,break,high,short_line+column,0.16,8,49,Goldbeck,An Seine Königliche Majestaet.

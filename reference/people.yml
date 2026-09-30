@@ -524,7 +524,7 @@ people:
     variants: []
   schenck:
     display: "Schenck"
-    match: 'Schenck|Schenk(?![a-zà-ÿ])'
+    match: 'Schencks?(?![a-zà-ÿ])|Schenk(?![a-zà-ÿ])'   # not Schenckungs-Urkunde (2026-09-30)
     tier: "Context-inferred"
     variants: []
   schlabrendorff:
@@ -1150,7 +1150,7 @@ people:
     # which follow the wording of the 1796 charter; only he issued donation
     # charters for these estates. He died on 16 November 1797.
     issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?\s*$|Friedrich Wil{1,2}helm(?= etc\.)'
-    issued_in: [oe1bu14525-1, oe1bu14525-3, oe1bu14525-4, oe1bu14525-5, oe1bu14525-8, oe1bu14525-9, oe1bu14525-10, oe1bu14525-40]
+    issued_in: [oe1bu14525-1, oe1bu14525-3, oe1bu14525-4, oe1bu14525-5, oe1bu14525-8, oe1bu14525-9, oe1bu14525-10, oe1bu14525-40, ihagrrep7cnr3570-1]   # the last: the draft of the 1796 charter itself (added 2026-09-30)
     tier: "Established"
     variants: []
     identity: "Friedrich Wilhelm II (1744-1797), King of Prussia from 1786; granted the South Prussian estates to the Prince in 1796-97. Added 2026-09-30."
@@ -1220,3 +1220,51 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "Friedrich August Karl (1784-1853), the Prince's eldest son and heir (Erbprinz), reigning Prince from 1806; the 'Fürst August' of the 1815 letters, whose power of attorney to Cosmar runs through them. Added 2026-09-30."
+  sanitz:
+    display: "von Sanitz"
+    match: '(?<!Generalin v\. )Sanitz(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Colonel and commander in the Prince's regiment, granted the confiscated estates of Pawłów, Dzwonów and Burenbusch in 1796 (I. HA GR, Rep. 7 C, Nr. 3570; 14525); later General-Major, whose claim for his lost South Prussian estates brought the file out again in 1826. His wife, 'die Frau Generalin v. Sanitz' (9454), is not matched. Added 2026-09-30."
+  bluecher:
+    display: "General-Major von Blücher"
+    match: '(?<=Major von )Bl[üu]cher|(?<=Major v\. )Bl[üu]cher'
+    tier: "Context-inferred"
+    variants: []
+    identity: "General-Major von Blücher, granted the Duninów estates in 1796 (I. HA GR, Rep. 7 C, Nr. 3570); presumably Gebhard Leberecht von Blücher, General-Major from 1794. Matched only after his rank, so 9454's uncertain 'Blucher' is not taken. Added 2026-09-30."
+  dolffs:
+    display: "von Dolffs"
+    match: 'Dolffs(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "General-Lieutenant von Dolffs, granted the estate of Strzelce in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
+  pontanus:
+    display: "Major von Pontanus"
+    match: 'Pontanus(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Granted Dziejorzów, Borschków and Jakubie in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
+  holtzendorff:
+    display: "Lieutenant von Holtzendorff"
+    match: 'Holt?zendorff(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Holzendorff"]
+    identity: "Granted Głuchów, Malawieś and Grochole in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
+  larisch:
+    display: "General-Major von Larisch"
+    match: '(?<=Major von )Larisch|(?<=Major v\. )Larisch'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Granted Lekarzewice in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Matched only after his rank; 9454's 'Larischen Summa' is not taken. Added 2026-09-30."
+  von-der-reck:
+    display: "Freiherr von der Reck"
+    match: '(?<=von der )Reck(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Eberhard Friedrich Christoph Ludwig von der Reck, Prussian minister of state and justice, to whom Hoym sent the grants for engrossing in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
+  bever:
+    display: "Bever"
+    match: 'Bever(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Registry official who sent the file up in November 1826 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."

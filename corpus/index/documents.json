@@ -128,7 +128,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 10,
   "estates": [
    "kamionno",
@@ -145,6 +145,157 @@
   "path": "documents/oe1bu14525-39.json",
   "text_path": "text/oe1bu14525-39.txt",
   "permalink": "/documents/oe1bu14525/39/"
+ },
+ {
+  "uid": "ihagrrep7cnr3570-1",
+  "unit": "ihagrrep7cnr3570",
+  "letter_id": "1",
+  "doc_type": "donation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1796-08-09",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 22,
+  "n_lines": 317,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0004_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0004_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0005_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0006_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0006_a-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0008_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0008_a-L1_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0009_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0009_a-L1_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0010_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0010_a-L1_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0011_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0011_a-L1_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0012_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0012_a-L1_08.jpg"
+   },
+   {
+    "page": 9,
+    "page_id": "0013_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0013_a-L1_09.jpg"
+   },
+   {
+    "page": 10,
+    "page_id": "0014_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0014_a-L1_10.jpg"
+   },
+   {
+    "page": 11,
+    "page_id": "0015_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0015_a-L1_11.jpg"
+   },
+   {
+    "page": 12,
+    "page_id": "0016_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0016_a-L1_12.jpg"
+   },
+   {
+    "page": 13,
+    "page_id": "0017_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0017_a-L1_13.jpg"
+   },
+   {
+    "page": 14,
+    "page_id": "0018_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0018_a-L1_14.jpg"
+   },
+   {
+    "page": 15,
+    "page_id": "0019_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0019_a-L1_15.jpg"
+   },
+   {
+    "page": 16,
+    "page_id": "0020_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0020_a-L1_16.jpg"
+   },
+   {
+    "page": 17,
+    "page_id": "0021_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0021_a-L1_17.jpg"
+   },
+   {
+    "page": 18,
+    "page_id": "0022_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0022_a-L1_18.jpg"
+   },
+   {
+    "page": 19,
+    "page_id": "0023_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0023_a-L1_19.jpg"
+   },
+   {
+    "page": 20,
+    "page_id": "0024_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0024_a-L1_20.jpg"
+   },
+   {
+    "page": 21,
+    "page_id": "0025_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0025_a-L1_21.jpg"
+   },
+   {
+    "page": 22,
+    "page_id": "0026_a",
+    "image": "I_HA_Rep_7_C_Nr_3570_0026_a-L1_22.jpg"
+   }
+  ],
+  "uncertainty_count": 6,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 12,
+  "places_named": 12,
+  "estates": [
+   "kamionno",
+   "kolno",
+   "trabczyn",
+   "szetlewek",
+   "osiny",
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "has_summary_de": false,
+  "legibility": "",
+  "title": "donation 1",
+  "path": "documents/ihagrrep7cnr3570-1.json",
+  "text_path": "text/ihagrrep7cnr3570-1.txt",
+  "permalink": "/documents/ihagrrep7cnr3570/1/"
  },
  {
   "uid": "oe1bu14525-10",
@@ -361,7 +512,7 @@
   "uncertainty_count": 2,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 3,
+  "mentions": 2,
   "places_named": 10,
   "estates": [
    "kamionno",
@@ -416,7 +567,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 4,
   "places_named": 19,
   "estates": [
    "betsche",
@@ -2803,7 +2954,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 4,
   "places_named": 12,
   "estates": [
    "kamionno",
@@ -3994,7 +4145,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 4,
   "places_named": 19,
   "estates": [
    "betsche",
@@ -15699,7 +15850,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": true,
-  "mentions": 1,
+  "mentions": 2,
   "places_named": 4,
   "estates": [
    "trabczyn"
