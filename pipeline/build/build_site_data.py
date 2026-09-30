@@ -283,11 +283,11 @@ def main():
     named_index = defaultdict(list)
     estate_index = defaultdict(list)
     for r in recs:
-        found = []
-        for slug, disp, rx in PEOPLE_RE:
-            if rx.search(r['text']):
-                found.append(slug)
-                people_index[slug].append(r['uid'])
+        # The shared matcher, so a pattern limited to some documents (a king
+        # named only as "Wir Friedrich Wilhelm") is limited here too.
+        found = entities_in(r, PEOPLE_RE)
+        for slug in found:
+            people_index[slug].append(r['uid'])
         r['_people'] = found
         p = PLACE_CANON.get(r['place'], r['place'])
         _lab = PLACE_LABEL.get((p or '').strip().lower())

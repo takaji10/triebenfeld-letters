@@ -136,6 +136,17 @@
    "doc_line": 7
   },
   {
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm II.",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
+   "line": 195,
+   "doc_line": 8
+  },
+  {
    "entity": "radzinski",
    "display": "Ignatz von Radzinski",
    "kind": "person",
@@ -255,8 +266,8 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Friedrich Wilhelm II",
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Wilhelm II.",
    "surface_en": "Friedrich Wilhelm II",

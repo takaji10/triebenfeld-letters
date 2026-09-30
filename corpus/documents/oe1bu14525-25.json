@@ -178,6 +178,28 @@
    "doc_line": 17
   },
   {
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm des zweiten",
+   "page": 1,
+   "page_id": "0112_a2",
+   "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+   "line": 3243,
+   "doc_line": 21
+  },
+  {
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm des dritten",
+   "page": 1,
+   "page_id": "0112_a2",
+   "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+   "line": 3244,
+   "doc_line": 22
+  },
+  {
    "entity": "glenck",
    "display": "Glenck",
    "kind": "person",
@@ -420,8 +442,8 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Friedrich Wilhelm the Second",
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Wilhelm des zweiten",
    "surface_en": "Friedrich Wilhelm the Second",
@@ -436,8 +458,8 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Friedrich Wilhelm the Third",
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Wilhelm des dritten",
    "surface_en": "Friedrich Wilhelm the Third",

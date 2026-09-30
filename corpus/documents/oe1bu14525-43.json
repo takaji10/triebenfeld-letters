@@ -63,6 +63,17 @@
  ],
  "mentions": [
   {
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm",
+   "page": 1,
+   "page_id": "0152_a2",
+   "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
+   "line": 4085,
+   "doc_line": 3
+  },
+  {
    "entity": "prusimski",
    "display": "Prusimski family (Trąbczyn estates)",
    "kind": "person",
@@ -120,8 +131,8 @@
  ],
  "mentions_english": [
   {
-   "entity": "",
-   "display": "Friedrich Wilhelm",
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Wilhelm",
    "surface_en": "Friedrich Wilhelm",

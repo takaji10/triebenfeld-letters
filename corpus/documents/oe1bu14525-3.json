@@ -107,6 +107,17 @@
  ],
  "mentions": [
   {
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Willhelm",
+   "page": 1,
+   "page_id": "0010_a2",
+   "scan": "Oe_1_Bu_14525_0010_a2-L3_01.jpg",
+   "line": 274,
+   "doc_line": 1
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -140,6 +151,17 @@
    "doc_line": 55
   },
   {
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Willhelm",
+   "page": 3,
+   "page_id": "0011_a2",
+   "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
+   "line": 345,
+   "doc_line": 70
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -164,8 +186,8 @@
  ],
  "mentions_english": [
   {
-   "entity": "",
-   "display": "Friedrich Willhelm",
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Willhelm",
    "surface_en": "Friedrich Willhelm",
@@ -284,8 +306,8 @@
    "page": 2
   },
   {
-   "entity": "",
-   "display": "Friedrich Willhelm",
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Willhelm",
    "surface_en": "Friedrich Willhelm",

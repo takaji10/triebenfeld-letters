@@ -100,6 +100,17 @@
  ],
  "mentions": [
   {
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm",
+   "page": 1,
+   "page_id": "0147_b",
+   "scan": "Oe_1_Bu_14525_0147_b-L40_01.jpg",
+   "line": 3856,
+   "doc_line": 2
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",

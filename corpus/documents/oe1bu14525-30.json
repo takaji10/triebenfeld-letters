@@ -69,6 +69,17 @@
  ],
  "mentions": [
   {
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm",
+   "page": 1,
+   "page_id": "0127_b",
+   "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
+   "line": 3572,
+   "doc_line": 1
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",

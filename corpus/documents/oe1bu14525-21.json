@@ -227,6 +227,17 @@
    "doc_line": 6
   },
   {
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
+   "kind": "person",
+   "surface": "Friedrich Wilhelm des IIten",
+   "page": 1,
+   "page_id": "0081_b",
+   "scan": "Oe_1_Bu_14525_0081_b-L21_01.jpg",
+   "line": 2442,
+   "doc_line": 8
+  },
+  {
    "entity": "august",
    "display": "August",
    "kind": "person",
@@ -387,8 +398,8 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Friedrich Wilhelm II",
+   "entity": "friedrich-wilhelm-ii",
+   "display": "Friedrich Wilhelm II, King of Prussia",
    "kind": "person",
    "surface_de": "Friedrich Wilhelm des IIten",
    "surface_en": "Friedrich Wilhelm II",

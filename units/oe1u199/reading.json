@@ -1,0 +1,149 @@
+{
+ "oe1u199-001": {
+  "letter": "1",
+  "legibility": "sound",
+  "notes": "Engrossed charter: the King of Prussia (named in the text as Friedrich Wilhelm) confirms the family majorat and fideicommiss that Friedrich Ludwig zu Hohenlohe-Ingelfingen founded in his will of 7 Oct 1805. It recites the certified Breslau extract of the will (§§ XII–XV, XXIV): houses in Breslau, the park at Scheitnig, Byttkow, Koschentin with its related estates, and the South Prussian lordships including Trąbczyn. It also sets the succession if the male line fails (Adelheid, Emilie, Auguste). Then come the ratification, the King's reservations and the order to the authorities. The royal title (lines 9–13) is partly garbled; otherwise the text is sound.",
+  "claims": [
+   {
+    "statement": "Der König von Preußen bestätigt das Familienmajorat und Fideicommiss Friedrich Ludwigs zu Hohenlohe-Ingelfingen",
+    "lines": [
+     2,
+     3,
+     14,
+     15,
+     16,
+     17,
+     24,
+     247,
+     249,
+     250,
+     251,
+     252,
+     253
+    ]
+   },
+   {
+    "statement": "Gestiftet im Testament vom 7. October 1805",
+    "lines": [
+     23,
+     42
+    ]
+   },
+   {
+    "statement": "Häuser in Wrocław und Park in Szczytniki werden Majorat",
+    "lines": [
+     25,
+     55,
+     59,
+     62
+    ]
+   },
+   {
+    "statement": "Bytków wird Majorat",
+    "lines": [
+     26,
+     106,
+     107
+    ]
+   },
+   {
+    "statement": "Koszęcin mit Boronów, Olszyna, Harbultowitz und Cieszowa wird Majorat",
+    "lines": [
+     27,
+     28,
+     134,
+     135,
+     136,
+     137
+    ]
+   },
+   {
+    "statement": "Südpreußische Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Batkowo werden Majorat",
+    "lines": [
+     29,
+     30,
+     31,
+     151,
+     152,
+     153,
+     154
+    ]
+   },
+   {
+    "statement": "Beim Aussterben des Mannsstamms: südpreußische Güter an die dritte Tochter Auguste",
+    "lines": [
+     162,
+     165,
+     168,
+     183,
+     184,
+     185
+    ]
+   },
+   {
+    "statement": "Schlesische Hüttenwerke an Adelheid",
+    "lines": [
+     170,
+     171,
+     172,
+     173,
+     174,
+     175
+    ]
+   },
+   {
+    "statement": "Koszęcin an Emilie",
+    "lines": [
+     177,
+     178,
+     179,
+     180,
+     181
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 9,
+    "word": "Hildeshuom",
+    "note": "probably Hildesheim"
+   },
+   {
+    "line": 10,
+    "word": "Rücklinbüro",
+    "note": "garbled place name in the royal title"
+   },
+   {
+    "line": 10,
+    "word": "Lübsfeld",
+    "note": "garbled place name in the royal title"
+   },
+   {
+    "line": 11,
+    "word": "Ellen",
+    "note": "possibly Elten"
+   },
+   {
+    "line": 13,
+    "word": "Strden",
+    "note": "garbled place name in the royal title"
+   },
+   {
+    "line": 25,
+    "word": "wie zu",
+    "note": "probably 'wozu'"
+   },
+   {
+    "line": 143,
+    "word": "Hüttenweisen",
+    "note": "probably Hüttenwesen (cf. line 148)"
+   },
+   {
+    "line": 148,
+    "word": "Revencirch",
+    "note": "garbled, perhaps 'Revenüen'"
+   }
+  ],
+  "read_against": "db51e2aefb1c7b99"
+ }
+}

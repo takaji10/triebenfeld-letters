@@ -1133,3 +1133,41 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "The Prince's third daughter; heir to the South Prussian estates if his male line fails (Oe 1 U 199, will of 1805). Matched only after 'Tochter', so the name August is not taken. Added 2026-09-30."
+  friedrich-wilhelm-ii:
+    display: "Friedrich Wilhelm II, King of Prussia"
+    render: "Friedrich Wilhelm II"
+    # Named with his ordinal (II, IIten, des Zweyten), or as the late King
+    # ("hoch seel. Königs Friedrich Wilhelm"). span_lines: the ordinal is
+    # often on the next line.
+    match: 'Fri?ede?rich[s]? Wil{1,2}helms? (?:II(?:ten)?\b\.?|d[ae]s IIten|des [Zz]wey?ten|des [Zz]weiten)|(?<=seel\. Königs )Friedrich Wil{1,2}helm'
+    span_lines: true
+    # As the issuer of an instrument ("Wir Friedrich Wilhelm", "Von Gottes
+    # Gnaden Friedrich Wilhelm", his signature on a line of its own), only in
+    # the documents whose instrument is his, dated by its own "Gegeben" line,
+    # not by the date of the copy: the donation of 1796 (14525-1), the grants
+    # of 10 and 19 June 1797 (-5, -8, -9, -10), the rescript of 20 October
+    # 1797 (-40), and the two undated copies of donation charters (-3, -4),
+    # which follow the wording of the 1796 charter; only he issued donation
+    # charters for these estates. He died on 16 November 1797.
+    issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?\s*$|Friedrich Wil{1,2}helm(?= etc\.)'
+    issued_in: [oe1bu14525-1, oe1bu14525-3, oe1bu14525-4, oe1bu14525-5, oe1bu14525-8, oe1bu14525-9, oe1bu14525-10, oe1bu14525-40]
+    tier: "Established"
+    variants: []
+    identity: "Friedrich Wilhelm II (1744-1797), King of Prussia from 1786; granted the South Prussian estates to the Prince in 1796-97. Added 2026-09-30."
+  friedrich-wilhelm-iii:
+    display: "Friedrich Wilhelm III, King of Prussia"
+    render: "Friedrich Wilhelm III"
+    match: 'Fri?ede?rich[s]? Wil{1,2}helms? (?:III(?:ten)?\b\.?|des IIIten|des [Dd]ritten)'
+    span_lines: true
+    # As issuer, only in the documents whose instrument is his: the grants of
+    # 1 December 1797 (14525-6, -7, -11), the rescripts and Posen and Kalisch
+    # instruments issued in his name 1798-1804 (14525-16 to -20, -22, -23,
+    # -26 to -28, -30, -31, -34, -35, -42 to -44), 14526's of 1804-06 (-8,
+    # -18, -22 to -24), the majorat confirmation of 1805 (oe1u199-1), and his
+    # French letter to the Prince of December 1798, signed "Friedrich Wilhelm."
+    # (oe1bu9454-85).
+    issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?\s*$|(?<=\) )Friedrich Wil{1,2}helm(?= K(?:ö|oe)nig)'
+    issued_in: [oe1bu14525-6, oe1bu14525-7, oe1bu14525-11, oe1bu14525-16, oe1bu14525-17, oe1bu14525-18, oe1bu14525-19, oe1bu14525-20, oe1bu14525-22, oe1bu14525-23, oe1bu14525-26, oe1bu14525-27, oe1bu14525-28, oe1bu14525-30, oe1bu14525-31, oe1bu14525-34, oe1bu14525-35, oe1bu14525-42, oe1bu14525-43, oe1bu14525-44, oe1bu14526-8, oe1bu14526-18, oe1bu14526-22, oe1bu14526-23, oe1bu14526-24, oe1u199-1, oe1bu9454-85]
+    tier: "Established"
+    variants: []
+    identity: "Friedrich Wilhelm III (1770-1840), King of Prussia from 16 November 1797; issued the supplementary grants of December 1797 and confirmed the Prince's family majorat in 1805. Added 2026-09-30."

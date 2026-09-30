@@ -93,6 +93,31 @@ def _pattern_for(entry):
     return '|'.join(parts)
 
 
+class _Rx:
+    """A compiled pattern with two optional limits, for the few entries that
+    need them. Behaves like the compiled pattern everywhere else.
+
+    only_in  the uids of the documents this pattern may match in. For a form
+             that names different people in different documents: "Wir Friedrich
+             Wilhelm" is Friedrich Wilhelm II in a grant of June 1797 and his
+             son in one of December 1797, and nothing in the words says which.
+    span     match across a line end. The ordinal that decides a king often
+             sits on the next line ("des Königs Friedrich Wilhelm / des IIten
+             Majestaet"), and the lines are matched one at a time.
+    """
+    def __init__(self, rx, only_in=None, span=False):
+        self.rx, self.only_in, self.span = rx, only_in, span
+        self.pattern = rx.pattern
+        self.search, self.finditer = rx.search, rx.finditer
+
+    def applies(self, uid):
+        return self.only_in is None or uid in self.only_in
+
+
+def _applies(rx, rec):
+    return not isinstance(rx, _Rx) or rx.applies(rec.get('uid'))
+
+
 def load_people():
     """[(slug, display, compiled)] - the curated authority, then the long tail.
 
@@ -108,8 +133,16 @@ def load_people():
         if not pat:
             continue
         rx = re.compile(_ANCHOR % pat, re.UNICODE)
+        if e.get('span_lines'):
+            rx = _Rx(rx, span=True)
         out.append((slug, e.get('display') or slug, rx))
         covered.append(re.compile(pat, re.UNICODE))
+        # The same person named by a form that is only his in some documents
+        # (see _Rx): matched there and nowhere else.
+        if e.get('issuer_match'):
+            out.append((slug, e.get('display') or slug,
+                        _Rx(re.compile(_ANCHOR % e['issuer_match'], re.UNICODE),
+                            only_in=set(e.get('issued_in') or []))))
 
     seeds = os.path.join(ROOT, 'reference', 'name_seeds.json')
     if os.path.isfile(seeds):
@@ -204,6 +237,14 @@ def _mentions(rec, authority, kind):
             # surface is still cut from the line as it stands.
             flat, pos = _flatten(line)
             for slug, disp, rx in authority:
+                if not _applies(rx, rec):
+                    continue
+                if getattr(rx, 'span', False) and i + 1 < len(lines):
+                    # read on into the next line; cited where the match starts
+                    joined = flat + ' ' + _flatten(lines[i + 1])[0]
+                    found += [(slug, disp, m, joined[m.start():m.end()])
+                              for m in rx.finditer(joined) if m.start() < len(flat)]
+                    continue
                 found += [(slug, disp, m, _surface(raw[i], pos, m.start(), m.end()))
                           for m in rx.finditer(flat)]
             # a name broken over the line end (Stäge¬ / mann) is only whole
@@ -213,6 +254,8 @@ def _mentions(rec, authority, kind):
                 joined = head + lines[i + 1].lstrip()
                 joined_raw = raw[i][:len(head)] + raw[i + 1].lstrip()
                 for slug, disp, rx in authority:
+                    if not _applies(rx, rec) or getattr(rx, 'span', False):
+                        continue
                     found += [(slug, disp, m, joined_raw[m.start():m.end()])
                               for m in rx.finditer(joined)
                               if m.start() < len(head) < m.end()]
@@ -270,7 +313,12 @@ def entities_in(rec, people=None):
     people = people if people is not None else load_people()
     # expansion brackets out, as in _mentions, so B[arbe] counts as Barbe
     text = _EXPANSION.sub(lambda m: m.group(0)[1:-1], rec['text'])
-    return [slug for slug, _, rx in people if rx.search(text)]
+    # a spanning pattern searches the text with its line ends as spaces
+    flat_text = text.replace('\n', ' ')
+    return list(dict.fromkeys(
+        slug for slug, _, rx in people
+        if _applies(rx, rec)
+        and rx.search(flat_text if getattr(rx, 'span', False) else text)))
 
 
 # --------------------------------------------------------------- canon ----
