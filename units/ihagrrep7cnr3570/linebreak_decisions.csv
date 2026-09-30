@@ -1,67 +1,91 @@
 ﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
 1,1,55,56,¬,Zurü,Erbittung,ZurüErbittung,join,high,head is not a word on its own,False,0,0,0,310,1,,räge nach der unter ganz ergebenster Zurü¬ || Erbittung accludirten Cabinets Ordre vom 2
 1,1,56,57,¬,geneh,migen,genehmigen,join,high,"joined form attested in DWDS (811,049 hits)",False,0,811049,0,,1,, Cabinets Ordre vom 23ten dieses zu geneh¬ || migen befunden.
-1,1,58,59,¬,Ur,kunden,Urkunden,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,3,,"nhalt der bisher entworfenen Donations-Ur¬ || kunden mit denjenigen, welche nunmehr zu e"
-1,1,67,68,¬,zusen,den,zusenden,join,high,"joined form attested in DWDS (164,634 hits)",False,0,164634,0,,45,,tern Beförderung an Sr. Majestät zu zusen¬ || den belieben wollen. Ich bemerke dabey mir
-1,1,74,75,¬,Nach,theil,Nachtheil,split,high,joined form unattested; both halves are real words,False,0,339,6,156778084,1,16422, sonst leicht die Beneficiaten einen Nach¬ || theil wider Sr. Majestät Absicht leiden wü
-1,1,76,77,¬,Ur,kunden,Urkunden,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,3,,rch stricte Bestimmungen der Donations Ur¬ || kunden ihnen Appertinentien unverreicht bl
-1,2,82,83,¬,Grati,al,Gratial,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,, blos durch den Ausdruck: Duninower Grati¬ || al-Güther von 1500. rt. am Ertrage; bezeic
-1,2,91,92,¬,Gü,ther,Güther,join,high,joined form occurs elsewhere in this corpus,False,9,,0,,2,,ions- Instruments und den Verreich der Gü¬ || ther bald wünschten; so darf Euer Excellen
-1,2,113,114,¬,Gü,ther,Güther,join,high,joined form occurs elsewhere in this corpus,False,9,,0,,2,,"Anton von Prusimski, conſiscirten Gü¬ || ther allerunterthänigst vor:"
+1,1,58,59,¬,Ur,kunden,Urkunden,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,"nhalt der bisher entworfenen Donations-Ur¬ || kunden mit denjenigen, welche nunmehr zu e"
+1,1,67,68,¬,zusen,den,zusenden,join,high,"joined form attested in DWDS (164,634 hits)",False,0,164634,0,,59,,tern Beförderung an Sr. Majestät zu zusen¬ || den belieben wollen. Ich bemerke dabey mir
+1,1,74,75,¬,Nach,theil,Nachtheil,split,high,joined form unattested; both halves are real words,False,0,339,8,156778084,1,16422, sonst leicht die Beneficiaten einen Nach¬ || theil wider Sr. Majestät Absicht leiden wü
+1,1,76,77,¬,Ur,kunden,Urkunden,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,rch stricte Bestimmungen der Donations Ur¬ || kunden ihnen Appertinentien unverreicht bl
+1,2,82,83,¬,Grati,al,Gratial,join,high,joined form occurs elsewhere in this corpus,False,13,,0,,1,, blos durch den Ausdruck: Duninower Grati¬ || al-Güther von 1500. rt. am Ertrage; bezeic
+1,2,91,92,¬,Gü,ther,Güther,join,high,joined form occurs elsewhere in this corpus,False,15,,0,,2,,ions- Instruments und den Verreich der Gü¬ || ther bald wünschten; so darf Euer Excellen
+1,2,113,114,¬,Gü,ther,Güther,join,high,joined form occurs elsewhere in this corpus,False,15,,0,,2,,"Anton von Prusimski, conſiscirten Gü¬ || ther allerunterthänigst vor:"
 1,2,134,135,¬,Erkennt,nisse,Erkenntnisse,join,high,"joined form attested in DWDS (2,452,806 hits)",False,0,2452806,0,,1,,nicht erst jezt durch rechtliche Erkennt¬ || nisse der Regierungen beendiget
-1,2,139,140,¬,Ingel,fingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,dem Fürsten von Hohenlohe Ingel¬ || fingen allergnädigst zu conferiren.
-1,3,148,150,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,4,150,152,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,6,156,157,¬,Aller,höchste,Allerhöchste,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,Da Ew. Königl. Majestät durch die Aller¬ || höchste Cabinets-Ordre vom 23. v. M. die
-1,6,161,162,¬,Gra,tial,Gratial,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"röfneten, theils confiscirten, theils Gra¬ || tial-Güter, an verdiente Generale und andr"
-1,6,163,164,¬,Vor,schläge,Vorschläge,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,"fficiern, gethane allerunterthänigste Vor¬ || schläge, huldreichst zu approbiren geruhet"
-1,6,167,168,-,allerhöch,gefälligen,allerhöchgefälligen,join,high,head is not a word on its own,False,0,0,0,11,3,,hierbey zu Ew. Königl. Majestät allerhöch- || gefälligen Vollziehung die Schenkungs-Ur¬
-1,6,168,169,¬,Ur,kunden,Urkunden,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,3,,gefälligen Vollziehung die Schenkungs-Ur¬ || kunden.
-1,6,170,171,¬,In,gelfingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,7,,20,,1,,"1.) für den Fürsten von Hohenlohe-In¬ || gelfingen,"
-1,6,173,174,¬,Com,mandeur,Commandeur,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,Hohenlohe stehenden Obristen und Com¬ || mandeur von Sanitz;
-1,6,181,182,¬,De,partement,Departement,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,vollzogenen Urkunden an des Lehens-De¬ || partement in Gnaden remittiren zu laßen.
-1,6,188,189,¬,Ex,cellenz,Excellenz,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,Minister Herrn Grafen von Hoym Ex¬ || cellenz im Conzept und Munde.
-1,7,195,196,¬,eigen,thümlichen,eigenthümlichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Ingelfingen, zum Erb- und eigen¬ || thümlichen Besitz der Stadt Kamiono"
-1,7,198,199,¬,Nova,wies,Novawies,split,high,joined form unattested; both halves are real words,False,0,0,0,156811,1,4565806,"dorfer Trąbczyn, Szettlewek, Nova¬ || wies, Lazy, Alt- und Neu-Laske,"
-1,7,200,201,¬,Konin,schen,Koninschen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"Oszny, Häuland Trąbczyński, Konin¬ || schen Creises; und das Dorfes Brzyce,"
-1,7,210,211,¬,Un,sern,Unsern,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"Unsers offenen Briefes für Uns und Un¬ || sern Nachkommen an der Krone, der Chur"
-1,7,214,215,¬,ange,stammter,angestammter,join,high,"joined form attested in DWDS (114,405 hits)",False,0,114405,0,,1,,Gnaden zu wißen: daß wie Wir aus ange¬ || stammter Huld und Milde sehr geneigt
-1,7,222,223,¬,Hohen,lohe,Hohenlohe,join,high,joined form occurs elsewhere in this corpus,False,11,,0,,1,,"Ludewig, regierenden Fürsten von Hohen¬ || lohe Ingelfingen, Unserm (Inseratur der"
-1,7,226,227,¬,ge,leisteten,geleisteten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Jahren Uns und Unserm Königl. Hause ge¬ || leisteten wichtigen, ausgezeichneten und n"
-1,7,228,229,¬,un,gedachtem,ungedachtem,split,high,joined form unattested; both halves are real words,False,0,742,0,594768,1,62265,"n Unserm Königl. Heimath erwogen, und, un¬ || gedachtem Herrn Fürsten ein Merkmal der"
-1,7,232,233,¬,benan,ten,benanten,join,high,head is not a word on its own,False,0,7,0,348,9,,"solviret haben, demselben, die nach benan¬ || ten zu Unserer Allerhöchsten Disposition"
-1,7,236,237,-,dör,fer,dörfer,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"Flecken Kulm, Posenschen Creises; die dör- || fer Trąbczyn, Szettlewek, Nowawies, Lazy"
-1,7,238,239,¬,Trąb,czyński,Trąbczyński,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"Alt- und Neu-Laske, Oszny, Hauland Trąb¬ || czyński, Koninschen Creises; und das dorff"
-1,8,244,245,¬,über,eignen,übereignen,join,high,"joined form attested in DWDS (19,996 hits)",False,0,19996,1,,1,,eigenthümlich zu verleihen und zu über¬ || eignen.
-1,8,247,248,¬,Voll,kommenheit,Vollkommenheit,join,high,"joined form attested in DWDS (35,109 hits)",False,0,35109,0,,1,,"Kraft dieses, aus Königl. Macht und Voll¬ || kommenheit, für Uns und Unsere Nachkom-"
-1,8,248,249,-,Nachkom,men,Nachkommen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"kommenheit, für Uns und Unsere Nachkom- || men und Nachfolger an der Krone, der"
-1,8,250,251,¬,derge,stalt,dergestalt,join,high,"joined form attested in DWDS (37,858 hits)",False,0,37858,0,,1,,"Chur und Unsern übrigen Landen, derge¬ || stalt und also, daß obgedachter Unser freu"
-1,8,251,252,¬,freund,lich,freundlich,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"lt und also, daß obgedachter Unser freund¬ || lich lieber Oheim, der Fürst von Hohenlohe"
-1,8,257,258,¬,Parti,nenzien,Partinenzien,split,high,joined form unattested; both halves are real words,False,0,0,0,10104,1,0,"wie nicht weniger mit allen ihren Parti¬ || nenzien und andern Zubehorungen, sie mö-"
-1,8,258,259,-,mö,gen,mögen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"nenzien und andern Zubehorungen, sie mö- || gen Namen haben wie ſie wollen, ſo wie"
-1,8,262,263,¬,Ei,genthum,Eigenthum,split,high,joined form unattested; both halves are real words,False,0,886,0,76569,1,0,"ein wohlerworbenes und unverschränktes Ei¬ || genthum, jedoch unter dem Vorbehalt, der g"
-1,8,264,265,¬,Re,sollen,Resollen,split,high,joined form unattested; both halves are real words,False,0,0,0,906113,2,87999785,andern Gütern Unserer Süd-Preußischen Re¬ || sollen darauf zu legenden Landesherrl. Neu
-1,8,270,271,-,bey,gelegt,beygelegt,split,high,joined form unattested; both halves are real words,False,0,21,5,34970,1,10039397,"nd benutzen, auch demselben die Macht bey- || gelegt seyn solle, darüber nach Gefallen"
-1,8,274,275,¬,Re,gierungen,Regierungen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Unsern sämmtlichen Süd-Preußischen Re¬ || gierungen und Krieges- und Domainen-Cam¬
-1,8,275,276,¬,Cam,mern,Cammern,split,high,joined form unattested; both halves are real words,False,0,13,0,113017,1,1523,"gierungen und Krieges- und Domainen-Cam¬ || mern, wie auch allen andern Behörden, die"
-1,8,284,285,¬,Schen,kungs,Schenkungs,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,"vermöge und in Kraft dieses Unsers Schen¬ || kungs-Briefes, solchen darinnß verarben"
-1,8,286,287,¬,an,mortis,anmortis,split,high,joined form unattested; both halves are real words,False,0,0,16,203629291,1,5844,er sonst durch andre Actus inter vivos an¬ || mortis causa auf rechtliche Weise übertre
-1,8,292,293,¬,ge,schehn,geschehn,join,high,"joined form attested in DWDS (4,127 hits)",False,0,4127,0,,1,,"chts thun, noch daß solches von andern ge¬ || schehn veranlaßen oder gestatten, bey Ver¬"
-1,8,293,294,¬,Ver,meidung,Vermeidung,join,high,"joined form attested in DWDS (302,063 hits)",False,0,302063,0,,1,,"schehn veranlaßen oder gestatten, bey Ver¬ || meidung Unsere Allerhöchsten Ungnade und"
-1,8,296,297,-,gegenwär,tigen,gegenwärtigen,join,high,"joined form attested in DWDS (1,460,442 hits)",False,0,1460442,0,,1,,des zu Urkund haben Wir gegenwär- || tigen Donations-Brief Höchsteigenhand
-1,8,305,306,¬,Mitcontra,signatur,Mitcontrasignatur,join,high,head is not a word on its own,False,0,0,0,0,1,,Zur gefälligen Mitzeichnung und Mitcontra¬ || signatur des Königl. pp Ministri Herrn
-1,9,310,312,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,10,312,314,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,11,314,316,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,12,316,318,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,13,318,320,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,14,320,322,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,15,322,324,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,16,324,326,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,17,326,328,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,18,328,330,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,19,330,332,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,21,335,336,¬,Schenkungs,Urkunden,SchenkungsUrkunden,split,high,joined form unattested; both halves are real words,False,0,0,2,22,6,734991,en vom 9ten hujus habe ich die Schenkungs¬ || Urkunden
-1,22,358,359,-,Staats,Minister,StaatsMinister,join,high,"joined form attested in DWDS (104,039 hits)",False,0,104039,1,,3,,"3. vorigen Monats die von mir, dem Staats- || Minister Grafen von Hoym, wegen Verleihung"
-1,22,362,363,¬,allerunterthä,nigste,allerunterthänigste,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"nd andre Officiere, gethane allerunterthä¬ || nigste Vorschläge, huldreichst zu approbir"
-1,22,364,365,¬,Depar,tement,Departement,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,preußische Provinzial- und das Lehn-Depar¬ || tement hiebey zu Eurer Königlichen Majesta
+1,2,139,140,¬,Ingel,fingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,1,,dem Fürsten von Hohenlohe Ingel¬ || fingen allergnädigst zu conferiren.
+1,2,146,148,,stehenden,stehenden,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"stehenden || stehenden Commandeur, Obristen von"
+1,3,151,152,¬,Wegrowie,czischen,Wegrowieczischen,join,high,head is not a word on its own,False,0,0,0,0,1,,"Prusimski auch noch im Wegrowie¬ || czischen Creise die Dörfer Pawlow,"
+1,3,153,154,-,hinter,lassen,hinterlassen,join,high,"joined form attested in DWDS (2,710,892 hits)",False,0,2710892,0,,1,,Dzwonow und Beerenbusch hinter- || lassen die nach Abzug der Schulden
+1,3,160,161,¬,un,Kowallschen,unKowallschen,split,high,joined form unattested; both halves are real words,False,0,0,0,594768,1,0,"a, Ferner sind durch Todesfall die un¬ || Kowallschen Creise liegenden Gratial"
+1,3,170,171,¬,ein,trägt,einträgt,join,high,"joined form attested in DWDS (927,877 hits)",False,0,927877,3,,2,,vacant so ohngefähr 1000 rtlr ein¬ || trägt:
+1,3,179,180,¬,ohnge,fähr,ohngefähr,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,alle im Sieradzschen Creise und ohnge¬ || fähr von 600 rt. jährlichen Ertrages
+1,3,183,184,¬,be,willigen,bewilligen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,dem Major von Pontanus zu be¬ || willigen geruhen.
+1,3,185,186,¬,Holzen,dorff,Holzendorff,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,2,,"f, der Artillerie Lieutenant von Holzen¬ || dorff würde sich durch die Güther Gluskow"
+1,3,187,188,¬,ohn,gefähr,ohngefähr,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Malavies u. Grocholle welche ohn¬ || gefähr 400 rt einbringen, sehr belohnen"
+1,3,193,194,¬,Hol,zendorff,Holzendorff,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,diese Gratial Güther dem von Hol¬ || zendorff zu schenken.
+1,3,200,201,¬,Kielczews,ki,Kielczewski,join,high,head is not a word on its own,False,0,331,0,0,1,,den Tod eines gewissen von Kielczews¬ || ki auch erledigt; es trägt gegen 600 rtl
+1,3,204,205,¬,Gene,ral,General,join,high,joined form occurs elsewhere in this corpus,False,15,,0,,1,,dieses Guth Lekarziewice dem Gene¬ || ral Major von Larisch zu conferiren.
+1,3,210,211,¬,Compe,tenten,Competenten,join,high,head is not a word on its own,False,0,10,0,158,1,,nur die obigen dringendsten Compe¬ || tenten zu Ewrp. Huldreichen Appro¬
+1,3,211,212,¬,Appro,bation,Approbation,join,high,"joined form attested in DWDS (30,934 hits)",False,0,30934,0,,1,,"tenten zu Ewrp. Huldreichen Appro¬ || bation allerunterthänigst angezeigt,"
+1,3,213,214,¬,wei,tern,weitern,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,indem ich auf Allerhöchst Dero wei¬ || tern Befehle pflichtmässig submettern.
+1,4,218,219,¬,ver,schiedener,verschiedener,join,high,"joined form attested in DWDS (15,266,232 hits)",False,0,15266232,0,,1,,re Graf v Hoym! Eure Vorschläge wegen ver¬ || schiedener in Südpreußen confiscirten oder
+1,4,219,220,¬,Be,sitzer,Besitzer,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"en oder durch Absterben der bisherigen Be¬ || sitzer vacant gewordenen, und nach meinen "
+1,4,220,221,¬,wohlverdien,te,wohlverdiente,join,high,"joined form attested in DWDS (104,422 hits)",False,0,104422,0,,1,,"inen successiven Befehlen, an wohlverdien¬ || te Officiers zu ertheilende Güter, approbi"
+1,4,223,224,¬,Nova,wies,Novawies,split,high,joined form unattested; both halves are real words,False,0,0,0,156811,2,4565806,"es) die Dörfer Trąbczyn, Szettlewek, Nova¬ || wies, Lazy, Alt- und Neu-Laske, Oszny, Häu"
+1,4,232,233,¬,zwi,schen,zwischen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,," v. Dolffs, das Gratial-Guth Strzelec zwi¬ || schen Gostinin und Kuttnow, wie auch"
+1,5,251,252,¬,Bres,lau,Breslau,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,Grafen von Hoym Excellenz zu Bres¬ || lau.
+1,5,256,257,¬,ori,ginali,originali,split,high,joined form unattested; both halves are real words,False,0,55,0,8495,1,0,"v. M. communicirten, und hierbey in ori¬ || ginali zurükerfolgenden Cabinets-Ordre"
+1,5,262,263,-,Schen,kungs,Schenkungs,join,high,joined form occurs elsewhere in this corpus,False,2,,2,,2,,"be ich keinen Anstand genommen, die Schen- || kungs-Urkunden"
+1,5,264,265,¬,In,gelfingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,8,,31,,2,,1.) für den Fürsten von Hohenlohe-In¬ || gelfingen;
+1,5,273,274,¬,ge,fälliger,gefälliger,join,high,"joined form attested in DWDS (155,454 hits)",False,0,155454,0,,1,,ungs-Bericht an Sr Königl. Majestät zu ge¬ || fälliger Mitzeichnung und Mitcontrosignatu
+1,5,275,276,¬,dienst,lich,dienstlich,join,high,"joined form attested in DWDS (141,093 hits)",False,0,141093,2,,2,,in den Concepten und Reinschriften dienst¬ || lich zu übersenden.
+1,6,284,285,¬,Aller,höchste,Allerhöchste,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,Da Ew. Königl. Majestät durch die Aller¬ || höchste Cabinets-Ordre vom 23. v. M. die
+1,6,289,290,¬,Gra,tial,Gratial,join,high,joined form occurs elsewhere in this corpus,False,13,,0,,1,,"röfneten, theils confiscirten, theils Gra¬ || tial-Güter, an verdiente Generale und andr"
+1,6,291,292,¬,Vor,schläge,Vorschläge,join,high,joined form occurs elsewhere in this corpus,False,3,,1,,1,,"fficiern, gethane allerunterthänigste Vor¬ || schläge, huldreichst zu approbiren geruhet"
+1,6,295,296,-,allerhöch,gefälligen,allerhöchgefälligen,join,high,head is not a word on its own,False,0,0,0,11,3,,hierbey zu Ew. Königl. Majestät allerhöch- || gefälligen Vollziehung die Schenkungs-Ur¬
+1,6,296,297,¬,Ur,kunden,Urkunden,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,gefälligen Vollziehung die Schenkungs-Ur¬ || kunden.
+1,6,298,299,¬,In,gelfingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,8,,31,,2,,"1.) für den Fürsten von Hohenlohe-In¬ || gelfingen,"
+1,6,301,302,¬,Com,mandeur,Commandeur,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,Hohenlohe stehenden Obristen und Com¬ || mandeur von Sanitz;
+1,6,309,310,¬,De,partement,Departement,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,vollzogenen Urkunden an des Lehens-De¬ || partement in Gnaden remittiren zu laßen.
+1,6,316,317,¬,Ex,cellenz,Excellenz,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,1,,Minister Herrn Grafen von Hoym Ex¬ || cellenz im Conzept und Munde.
+1,7,323,324,¬,eigen,thümlichen,eigenthümlichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Ingelfingen, zum Erb- und eigen¬ || thümlichen Besitz der Stadt Kamiono"
+1,7,326,327,¬,Nova,wies,Novawies,split,high,joined form unattested; both halves are real words,False,0,0,0,156811,2,4565806,"dorfer Trąbczyn, Szettlewek, Nova¬ || wies, Lazy, Alt- und Neu-Laske,"
+1,7,328,329,¬,Konin,schen,Koninschen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,2,,"Oszny, Häuland Trąbczyński, Konin¬ || schen Creises; und das Dorfes Brzyce,"
+1,7,338,339,¬,Un,sern,Unsern,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"Unsers offenen Briefes für Uns und Un¬ || sern Nachkommen an der Krone, der Chur"
+1,7,342,343,¬,ange,stammter,angestammter,join,high,"joined form attested in DWDS (114,405 hits)",False,0,114405,0,,1,,Gnaden zu wißen: daß wie Wir aus ange¬ || stammter Huld und Milde sehr geneigt
+1,7,350,351,¬,Hohen,lohe,Hohenlohe,join,high,joined form occurs elsewhere in this corpus,False,13,,0,,1,,"Ludewig, regierenden Fürsten von Hohen¬ || lohe Ingelfingen, Unserm (Inseratur der"
+1,7,354,355,¬,ge,leisteten,geleisteten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Jahren Uns und Unserm Königl. Hause ge¬ || leisteten wichtigen, ausgezeichneten und n"
+1,7,356,357,¬,un,gedachtem,ungedachtem,split,high,joined form unattested; both halves are real words,False,0,742,0,594768,1,62265,"n Unserm Königl. Heimath erwogen, und, un¬ || gedachtem Herrn Fürsten ein Merkmal der"
+1,7,360,361,¬,benan,ten,benanten,join,high,head is not a word on its own,False,0,7,0,348,9,,"solviret haben, demselben, die nach benan¬ || ten zu Unserer Allerhöchsten Disposition"
+1,7,364,365,-,dör,fer,dörfer,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"Flecken Kulm, Posenschen Creises; die dör- || fer Trąbczyn, Szettlewek, Nowawies, Lazy"
+1,7,366,367,¬,Trąb,czyński,Trąbczyński,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"Alt- und Neu-Laske, Oszny, Hauland Trąb¬ || czyński, Koninschen Creises; und das dorff"
+1,8,372,373,¬,über,eignen,übereignen,join,high,"joined form attested in DWDS (19,996 hits)",False,0,19996,1,,1,,eigenthümlich zu verleihen und zu über¬ || eignen.
+1,8,375,376,¬,Voll,kommenheit,Vollkommenheit,join,high,"joined form attested in DWDS (35,109 hits)",False,0,35109,0,,1,,"Kraft dieses, aus Königl. Macht und Voll¬ || kommenheit, für Uns und Unsere Nachkom-"
+1,8,376,377,-,Nachkom,men,Nachkommen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"kommenheit, für Uns und Unsere Nachkom- || men und Nachfolger an der Krone, der"
+1,8,378,379,¬,derge,stalt,dergestalt,join,high,"joined form attested in DWDS (37,858 hits)",False,0,37858,0,,1,,"Chur und Unsern übrigen Landen, derge¬ || stalt und also, daß obgedachter Unser freu"
+1,8,379,380,¬,freund,lich,freundlich,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"lt und also, daß obgedachter Unser freund¬ || lich lieber Oheim, der Fürst von Hohenlohe"
+1,8,385,386,¬,Parti,nenzien,Partinenzien,split,high,joined form unattested; both halves are real words,False,0,0,0,10104,1,0,"wie nicht weniger mit allen ihren Parti¬ || nenzien und andern Zubehorungen, sie mö-"
+1,8,386,387,-,mö,gen,mögen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,4,,"nenzien und andern Zubehorungen, sie mö- || gen Namen haben wie ſie wollen, ſo wie"
+1,8,390,391,¬,Ei,genthum,Eigenthum,split,high,joined form unattested; both halves are real words,False,0,886,0,76569,1,0,"ein wohlerworbenes und unverschränktes Ei¬ || genthum, jedoch unter dem Vorbehalt, der g"
+1,8,392,393,¬,Re,sollen,Resollen,split,high,joined form unattested; both halves are real words,False,0,0,0,906113,3,87999785,andern Gütern Unserer Süd-Preußischen Re¬ || sollen darauf zu legenden Landesherrl. Neu
+1,8,398,399,-,bey,gelegt,beygelegt,split,high,joined form unattested; both halves are real words,False,0,21,6,34970,1,10039397,"nd benutzen, auch demselben die Macht bey- || gelegt seyn solle, darüber nach Gefallen"
+1,8,402,403,¬,Re,gierungen,Regierungen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Unsern sämmtlichen Süd-Preußischen Re¬ || gierungen und Krieges- und Domainen-Cam¬
+1,8,403,404,¬,Cam,mern,Cammern,split,high,joined form unattested; both halves are real words,False,0,13,0,113017,1,1523,"gierungen und Krieges- und Domainen-Cam¬ || mern, wie auch allen andern Behörden, die"
+1,8,412,413,¬,Schen,kungs,Schenkungs,join,high,joined form occurs elsewhere in this corpus,False,2,,2,,2,,"vermöge und in Kraft dieses Unsers Schen¬ || kungs-Briefes, solchen darinnß verarben"
+1,8,414,415,¬,an,mortis,anmortis,split,high,joined form unattested; both halves are real words,False,0,0,24,203629291,1,5844,er sonst durch andre Actus inter vivos an¬ || mortis causa auf rechtliche Weise übertre
+1,8,420,421,¬,ge,schehn,geschehn,join,high,"joined form attested in DWDS (4,127 hits)",False,0,4127,0,,1,,"chts thun, noch daß solches von andern ge¬ || schehn veranlaßen oder gestatten, bey Ver¬"
+1,8,421,422,¬,Ver,meidung,Vermeidung,join,high,"joined form attested in DWDS (302,063 hits)",False,0,302063,0,,1,,"schehn veranlaßen oder gestatten, bey Ver¬ || meidung Unsere Allerhöchsten Ungnade und"
+1,8,424,425,-,gegenwär,tigen,gegenwärtigen,join,high,"joined form attested in DWDS (1,460,442 hits)",False,0,1460442,0,,1,,des zu Urkund haben Wir gegenwär- || tigen Donations-Brief Höchsteigenhand
+1,8,433,434,¬,Mitcontra,signatur,Mitcontrasignatur,join,high,head is not a word on its own,False,0,0,0,0,1,,Zur gefälligen Mitzeichnung und Mitcontra¬ || signatur des Königl. pp Ministri Herrn
+1,9,438,440,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,10,440,442,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,11,442,444,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,12,444,446,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,13,446,448,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,14,448,450,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,15,450,452,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,16,452,454,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,17,454,456,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,18,456,458,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,19,458,460,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,21,463,464,¬,Schenkungs,Urkunden,SchenkungsUrkunden,split,high,joined form unattested; both halves are real words,False,0,0,2,22,7,734991,en vom 9ten hujus habe ich die Schenkungs¬ || Urkunden
+1,22,486,487,-,Staats,Minister,StaatsMinister,join,high,"joined form attested in DWDS (104,039 hits)",False,0,104039,1,,3,,"3. vorigen Monats die von mir, dem Staats- || Minister Grafen von Hoym, wegen Verleihung"
+1,22,490,491,¬,allerunterthä,nigste,allerunterthänigste,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"nd andre Officiere, gethane allerunterthä¬ || nigste Vorschläge, huldreichst zu approbir"
+1,22,492,493,¬,Depar,tement,Departement,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,preußische Provinzial- und das Lehn-Depar¬ || tement hiebey zu Eurer Königlichen Majesta

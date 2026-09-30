@@ -13,13 +13,12 @@ raw_dir/processed/ as <capture>_a.jpg and staged; a "page" here is a scan.
 
 ## Transcription
 
-One file per scan. Not yet transcribed: 0006 (missed; the editor will send
-it), 0008, 0009 and 0013-0024 (the editor sent blank files for these). Each
-of those pages carries the placeholder line "(not transcribed)", so the page
-and its scan are in the edition. **When a transcription arrives, replace that
-page's placeholder in corpus.txt and run the correction passes on the new
-lines (units/oe1bu9454/new_text_checklist.md). Translation is on hold until
-0006 is in (editor, 2026-09-30).**
+One file per scan. 0006, 0008 and 0009 arrived later the same day and replaced
+their placeholders. Still not transcribed: 0013-0024 (the editor sent blank
+files for these); each carries the placeholder line "(not transcribed)", so
+the page and its scan are in the edition. **When a transcription arrives,
+replace that page's placeholder in corpus.txt and run the correction passes on
+the new lines (units/oe1bu9454/new_text_checklist.md).**
 
 ## The document
 
@@ -36,6 +35,14 @@ lines (units/oe1bu9454/new_text_checklist.md). Translation is on hold until
   the insurgent Anton Prusimski: Kamionna (Klemen) and Kulm; Trąbczyn,
   Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny and the Trąbczyn
   Hauland; Brzyce in Kuyavia.
+- 0006: the end of Hoym's report: the officers' grants (Pawłów, Dzwonów and
+  Beerenbusch to Sanitz, also from Prusimski; Duninów to Blücher; Strzelce to
+  Dolffs; Dziejorzów, Borschków and Jakubie to Pontanus; Głuchów, Malawieś and
+  Grochole to Holtzendorff; Lekarzewice to Larisch), signed Graf von Hoym.
+- 0008: copy of the King's cabinet order to Hoym, Pyrmont, 23 July 1796,
+  approving all seven grants, signed Friedrich Wilhelm (II).
+- 0009: Goldbeck to Hoym, Berlin, 9 August 1796, sending the engrossed
+  charters and the covering report for countersignature.
 - 0010: the covering report of 9 August presenting the seven charters (the
   Prince; Sanitz, Blücher, Dolffs, Pontanus, Holtzendorff, Larisch).
 - 0011-0012: the draft of the Prince's charter, "So geschehen Berlin, d. 9.
@@ -56,6 +63,12 @@ cannot address front matter:
 - line 37: Szettlewel, -> Szettlewek, (same file; place standard)
 - line 42: Schüter -> Güter (the same list's 'erhält die Güter')
 
+## Corrections to 0006, 0008, 0009 (2026-09-30)
+
+13 fixes with witnesses on the same pages or in the file (vacant,
+ohngefähr, allerunterthänigst, conferiren, Grocholle, Lekarzewice, Duninow,
+Szettlewek, Prusimski, Hoym, in originali, Reinschriften).
+
 ## Index
 
 - People added: von Sanitz (not his wife, the 'Frau Generalin' of 9454),
@@ -63,6 +76,8 @@ cannot address front matter:
   their rank), von Dolffs, Major von Pontanus, Lieutenant von Holtzendorff,
   Freiherr von der Reck, Bever. The charter is Friedrich Wilhelm II's and is
   on his list. Prusimski is standardised in the text (Prusſiemski).
+- Kiełczewski, the Tribunal President of 9454, no longer matches the late
+  holder of Lekarzewice ('eines gewissen von Kielczewski', 0006).
 - A fix for all holdings: Schenck no longer matches "Schenckungs-Urkunde"
   (5 false mentions, 4 in 14525).
 

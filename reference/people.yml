@@ -955,7 +955,8 @@ people:
     identity: "Justiz Bürgermeister Melzig (letters 41, 140). Added 2026-09-28 in the names pass."
   kielczewski:
     display: "Kiełczewski"
-    match: 'Kie[łl]czewski\w*'
+    # not the late holder of Lekarzewice, 'eines gewissen von Kielczewski' (I. HA GR, Rep. 7 C, Nr. 3570, 1796)
+    match: '(?<!gewissen von )Kie[łl]czewski\w*'
     tier: "Context-inferred"
     variants: []
     identity: "Tribunal President (letter 215). Added 2026-09-28 in the names pass."
