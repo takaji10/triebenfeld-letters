@@ -15921,15 +15921,6 @@
     "doc_line": 59
    },
    {
-    "uid": "oe1bu9454-247",
-    "surface": "Wien",
-    "page": 2,
-    "page_id": "0458_a1",
-    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
-    "line": 17897,
-    "doc_line": 50
-   },
-   {
     "uid": "oe1bu9454-117",
     "surface": "Wien",
     "page": 2,
@@ -16135,6 +16126,15 @@
     "scan": "Oe_1_Bu_9454_0457_a1-L246_02.jpg",
     "line": 17841,
     "doc_line": 51
+   },
+   {
+    "uid": "oe1bu9454-247",
+    "surface": "Wien",
+    "page": 2,
+    "page_id": "0458_a1",
+    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
+    "line": 17897,
+    "doc_line": 50
    },
    {
     "uid": "oe1bu9454-254",
@@ -17598,15 +17598,6 @@
   ],
   "mentions": [
    {
-    "uid": "oe1bu9454-247",
-    "surface": "Schlawenschitzer",
-    "page": 3,
-    "page_id": "0458_a2",
-    "scan": "Oe_1_Bu_9454_0458_a2-L247_03.jpg",
-    "line": 17908,
-    "doc_line": 60
-   },
-   {
     "uid": "oe1bu9454-109",
     "surface": "Schlawenschitz",
     "page": 1,
@@ -18055,6 +18046,15 @@
     "scan": "Oe_1_Bu_9454_0455_a-L245_01.jpg",
     "line": 17702,
     "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-247",
+    "surface": "Schlawenschitzer",
+    "page": 3,
+    "page_id": "0458_a2",
+    "scan": "Oe_1_Bu_9454_0458_a2-L247_03.jpg",
+    "line": 17908,
+    "doc_line": 60
    },
    {
     "uid": "oe1bu9454-254",
@@ -25469,363 +25469,6 @@
   ]
  },
  {
-  "entity": "wuerttemberg",
-  "display": "Württemberg",
-  "count": 36,
-  "documents": [
-   "oe1bu9454-10",
-   "oe1bu9454-11",
-   "oe1bu9454-12",
-   "oe1bu9454-185",
-   "oe1bu9454-2",
-   "oe1bu9454-242",
-   "oe1bu9454-244",
-   "oe1bu9454-247",
-   "oe1bu9454-248",
-   "oe1bu9454-253",
-   "oe1bu9454-260",
-   "oe1bu9454-262",
-   "oe1bu9454-263",
-   "oe1bu9454-268",
-   "oe1bu9454-274",
-   "oe1bu9454-275",
-   "oe1bu9454-277",
-   "oe1bu9454-280",
-   "oe1bu9454-281",
-   "oe1bu9454-282",
-   "oe1bu9454-284",
-   "oe1bu9454-287",
-   "oe1bu9454-291",
-   "oe1bu9454-6"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-247",
-    "surface": "Wurtemberg",
-    "page": 2,
-    "page_id": "0458_a1",
-    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
-    "line": 17893,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-185",
-    "surface": "Würtembergschen",
-    "page": 1,
-    "page_id": "0351_a2",
-    "scan": "Oe_1_Bu_9454_0351_a2-L185_01.jpg",
-    "line": 13258,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-242",
-    "surface": "Würtembergsche",
-    "page": 1,
-    "page_id": "0450_a2",
-    "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
-    "line": 17551,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-242",
-    "surface": "W[ürtemberg]",
-    "page": 1,
-    "page_id": "0450_a2",
-    "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
-    "line": 17551,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-242",
-    "surface": "Würtemberg",
-    "page": 2,
-    "page_id": "0451_a1",
-    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-    "line": 17564,
-    "doc_line": 34
-   },
-   {
-    "uid": "oe1bu9454-244",
-    "surface": "Wurtemberg",
-    "page": 1,
-    "page_id": "0452_b",
-    "scan": "Oe_1_Bu_9454_0452_b-L244_01.jpg",
-    "line": 17629,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-248",
-    "surface": "Würtembergischen",
-    "page": 2,
-    "page_id": "0460_a1",
-    "scan": "Oe_1_Bu_9454_0460_a1-L248_02.jpg",
-    "line": 17973,
-    "doc_line": 43
-   },
-   {
-    "uid": "oe1bu9454-253",
-    "surface": "Würtemberg",
-    "page": 1,
-    "page_id": "0464_a",
-    "scan": "Oe_1_Bu_9454_0464_a-L253_01.jpg",
-    "line": 18130,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-253",
-    "surface": "Würtembergschen",
-    "page": 2,
-    "page_id": "0465_a1",
-    "scan": "Oe_1_Bu_9454_0465_a1-L253_02.jpg",
-    "line": 18139,
-    "doc_line": 32
-   },
-   {
-    "uid": "oe1bu9454-260",
-    "surface": "Würtembergsche",
-    "page": 2,
-    "page_id": "0475_a1",
-    "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
-    "line": 18524,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-260",
-    "surface": "Würtembergschen",
-    "page": 2,
-    "page_id": "0475_a1",
-    "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
-    "line": 18525,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu9454-262",
-    "surface": "Würtemberge",
-    "page": 2,
-    "page_id": "0479_a1",
-    "scan": "Oe_1_Bu_9454_0479_a1-L262_02.jpg",
-    "line": 18669,
-    "doc_line": 48
-   },
-   {
-    "uid": "oe1bu9454-262",
-    "surface": "Würt[emberg]",
-    "page": 3,
-    "page_id": "0479_a2",
-    "scan": "Oe_1_Bu_9454_0479_a2-L262_03.jpg",
-    "line": 18678,
-    "doc_line": 56
-   },
-   {
-    "uid": "oe1bu9454-263",
-    "surface": "Würtembergischen",
-    "page": 1,
-    "page_id": "0480_b",
-    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-    "line": 18702,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu9454-281",
-    "surface": "Würtemberg",
-    "page": 2,
-    "page_id": "0510_a1",
-    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
-    "line": 19978,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-268",
-    "surface": "Würtemberg",
-    "page": 1,
-    "page_id": "0487_a2",
-    "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
-    "line": 19030,
-    "doc_line": 26
-   },
-   {
-    "uid": "oe1bu9454-268",
-    "surface": "Wurtemberg",
-    "page": 3,
-    "page_id": "0488_a2",
-    "scan": "Oe_1_Bu_9454_0488_a2-L268_03.jpg",
-    "line": 19074,
-    "doc_line": 68
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Würtemberg",
-    "page": 3,
-    "page_id": "0003_a2",
-    "scan": "Oe_1_Bu_9454_0003_a2-L2_03.jpg",
-    "line": 190,
-    "doc_line": 78
-   },
-   {
-    "uid": "oe1bu9454-274",
-    "surface": "Würtemberg",
-    "page": 1,
-    "page_id": "0499_b",
-    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
-    "line": 19497,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu9454-274",
-    "surface": "W[ürtembergische]",
-    "page": 1,
-    "page_id": "0499_b",
-    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
-    "line": 19504,
-    "doc_line": 11
-   },
-   {
-    "uid": "oe1bu9454-274",
-    "surface": "W[ürtemberg]",
-    "page": 1,
-    "page_id": "0499_b",
-    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
-    "line": 19510,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-275",
-    "surface": "Wurtemberg",
-    "page": 1,
-    "page_id": "0501_b",
-    "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
-    "line": 19588,
-    "doc_line": 14
-   },
-   {
-    "uid": "oe1bu9454-10",
-    "surface": "Würtemberger",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "Oe_1_Bu_9454_0016_a-L10_01.jpg",
-    "line": 569,
-    "doc_line": 25
-   },
-   {
-    "uid": "oe1bu9454-10",
-    "surface": "Würtemberger",
-    "page": 2,
-    "page_id": "0017_a1",
-    "scan": "Oe_1_Bu_9454_0017_a1-L10_02.jpg",
-    "line": 582,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu9454-12",
-    "surface": "Würtemberg",
-    "page": 1,
-    "page_id": "0020_b",
-    "scan": "Oe_1_Bu_9454_0020_b-L12_01.jpg",
-    "line": 685,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-11",
-    "surface": "Würtemberg",
-    "page": 1,
-    "page_id": "0018_b",
-    "scan": "Oe_1_Bu_9454_0018_b-L11_01.jpg",
-    "line": 627,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-277",
-    "surface": "Würtemberg",
-    "page": 2,
-    "page_id": "0504_a1",
-    "scan": "Oe_1_Bu_9454_0504_a1-L277_02.jpg",
-    "line": 19727,
-    "doc_line": 49
-   },
-   {
-    "uid": "oe1bu9454-280",
-    "surface": "Würtemberg",
-    "page": 3,
-    "page_id": "0508_a2",
-    "scan": "Oe_1_Bu_9454_0508_a2-L280_03.jpg",
-    "line": 19920,
-    "doc_line": 60
-   },
-   {
-    "uid": "oe1bu9454-282",
-    "surface": "Würtemberg",
-    "page": 2,
-    "page_id": "0511_a1",
-    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
-    "line": 20028,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Wurtembergsche",
-    "page": 3,
-    "page_id": "0514_a2",
-    "scan": "Oe_1_Bu_9454_0514_a2-L284_03.jpg",
-    "line": 20171,
-    "doc_line": 72
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Würtemberg",
-    "page": 3,
-    "page_id": "0520_a2",
-    "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
-    "line": 20463,
-    "doc_line": 59
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Würtemberg",
-    "page": 3,
-    "page_id": "0520_a2",
-    "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
-    "line": 20470,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Wurtemberg",
-    "page": 4,
-    "page_id": "0521_a",
-    "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
-    "line": 20499,
-    "doc_line": 94
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Würtembergsehen",
-    "page": 1,
-    "page_id": "0010_a",
-    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
-    "line": 403,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-291",
-    "surface": "Würtemberg",
-    "page": 2,
-    "page_id": "0525_a1",
-    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-    "line": 20781,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-291",
-    "surface": "Würtemberg",
-    "page": 2,
-    "page_id": "0525_a1",
-    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-    "line": 20784,
-    "doc_line": 42
-   }
-  ]
- },
- {
   "entity": "paris",
   "display": "Paris",
   "count": 36,
@@ -26176,6 +25819,363 @@
     "scan": "Oe_1_Bu_9454_0534_a-L297_04.jpg",
     "line": 21137,
     "doc_line": 92
+   }
+  ]
+ },
+ {
+  "entity": "wuerttemberg",
+  "display": "Württemberg",
+  "count": 36,
+  "documents": [
+   "oe1bu9454-10",
+   "oe1bu9454-11",
+   "oe1bu9454-12",
+   "oe1bu9454-185",
+   "oe1bu9454-2",
+   "oe1bu9454-242",
+   "oe1bu9454-244",
+   "oe1bu9454-247",
+   "oe1bu9454-248",
+   "oe1bu9454-253",
+   "oe1bu9454-260",
+   "oe1bu9454-262",
+   "oe1bu9454-263",
+   "oe1bu9454-268",
+   "oe1bu9454-274",
+   "oe1bu9454-275",
+   "oe1bu9454-277",
+   "oe1bu9454-280",
+   "oe1bu9454-281",
+   "oe1bu9454-282",
+   "oe1bu9454-284",
+   "oe1bu9454-287",
+   "oe1bu9454-291",
+   "oe1bu9454-6"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-185",
+    "surface": "Würtembergschen",
+    "page": 1,
+    "page_id": "0351_a2",
+    "scan": "Oe_1_Bu_9454_0351_a2-L185_01.jpg",
+    "line": 13258,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-242",
+    "surface": "Würtembergsche",
+    "page": 1,
+    "page_id": "0450_a2",
+    "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+    "line": 17551,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-242",
+    "surface": "W[ürtemberg]",
+    "page": 1,
+    "page_id": "0450_a2",
+    "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+    "line": 17551,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-242",
+    "surface": "Würtemberg",
+    "page": 2,
+    "page_id": "0451_a1",
+    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+    "line": 17564,
+    "doc_line": 34
+   },
+   {
+    "uid": "oe1bu9454-244",
+    "surface": "Wurtemberg",
+    "page": 1,
+    "page_id": "0452_b",
+    "scan": "Oe_1_Bu_9454_0452_b-L244_01.jpg",
+    "line": 17629,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-247",
+    "surface": "Wurtemberg",
+    "page": 2,
+    "page_id": "0458_a1",
+    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
+    "line": 17893,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-248",
+    "surface": "Würtembergischen",
+    "page": 2,
+    "page_id": "0460_a1",
+    "scan": "Oe_1_Bu_9454_0460_a1-L248_02.jpg",
+    "line": 17973,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-253",
+    "surface": "Würtemberg",
+    "page": 1,
+    "page_id": "0464_a",
+    "scan": "Oe_1_Bu_9454_0464_a-L253_01.jpg",
+    "line": 18130,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-253",
+    "surface": "Würtembergschen",
+    "page": 2,
+    "page_id": "0465_a1",
+    "scan": "Oe_1_Bu_9454_0465_a1-L253_02.jpg",
+    "line": 18139,
+    "doc_line": 32
+   },
+   {
+    "uid": "oe1bu9454-260",
+    "surface": "Würtembergsche",
+    "page": 2,
+    "page_id": "0475_a1",
+    "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
+    "line": 18524,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-260",
+    "surface": "Würtembergschen",
+    "page": 2,
+    "page_id": "0475_a1",
+    "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
+    "line": 18525,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu9454-262",
+    "surface": "Würtemberge",
+    "page": 2,
+    "page_id": "0479_a1",
+    "scan": "Oe_1_Bu_9454_0479_a1-L262_02.jpg",
+    "line": 18669,
+    "doc_line": 48
+   },
+   {
+    "uid": "oe1bu9454-262",
+    "surface": "Würt[emberg]",
+    "page": 3,
+    "page_id": "0479_a2",
+    "scan": "Oe_1_Bu_9454_0479_a2-L262_03.jpg",
+    "line": 18678,
+    "doc_line": 56
+   },
+   {
+    "uid": "oe1bu9454-263",
+    "surface": "Würtembergischen",
+    "page": 1,
+    "page_id": "0480_b",
+    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
+    "line": 18702,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu9454-281",
+    "surface": "Würtemberg",
+    "page": 2,
+    "page_id": "0510_a1",
+    "scan": "Oe_1_Bu_9454_0510_a1-L281_02.jpg",
+    "line": 19978,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-268",
+    "surface": "Würtemberg",
+    "page": 1,
+    "page_id": "0487_a2",
+    "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
+    "line": 19030,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-268",
+    "surface": "Wurtemberg",
+    "page": 3,
+    "page_id": "0488_a2",
+    "scan": "Oe_1_Bu_9454_0488_a2-L268_03.jpg",
+    "line": 19074,
+    "doc_line": 68
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Würtemberg",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "Oe_1_Bu_9454_0003_a2-L2_03.jpg",
+    "line": 190,
+    "doc_line": 78
+   },
+   {
+    "uid": "oe1bu9454-274",
+    "surface": "Würtemberg",
+    "page": 1,
+    "page_id": "0499_b",
+    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
+    "line": 19497,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu9454-274",
+    "surface": "W[ürtembergische]",
+    "page": 1,
+    "page_id": "0499_b",
+    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
+    "line": 19504,
+    "doc_line": 11
+   },
+   {
+    "uid": "oe1bu9454-274",
+    "surface": "W[ürtemberg]",
+    "page": 1,
+    "page_id": "0499_b",
+    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
+    "line": 19510,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-275",
+    "surface": "Wurtemberg",
+    "page": 1,
+    "page_id": "0501_b",
+    "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
+    "line": 19588,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-10",
+    "surface": "Würtemberger",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "Oe_1_Bu_9454_0016_a-L10_01.jpg",
+    "line": 569,
+    "doc_line": 25
+   },
+   {
+    "uid": "oe1bu9454-10",
+    "surface": "Würtemberger",
+    "page": 2,
+    "page_id": "0017_a1",
+    "scan": "Oe_1_Bu_9454_0017_a1-L10_02.jpg",
+    "line": 582,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu9454-12",
+    "surface": "Würtemberg",
+    "page": 1,
+    "page_id": "0020_b",
+    "scan": "Oe_1_Bu_9454_0020_b-L12_01.jpg",
+    "line": 685,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-11",
+    "surface": "Würtemberg",
+    "page": 1,
+    "page_id": "0018_b",
+    "scan": "Oe_1_Bu_9454_0018_b-L11_01.jpg",
+    "line": 627,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-277",
+    "surface": "Würtemberg",
+    "page": 2,
+    "page_id": "0504_a1",
+    "scan": "Oe_1_Bu_9454_0504_a1-L277_02.jpg",
+    "line": 19727,
+    "doc_line": 49
+   },
+   {
+    "uid": "oe1bu9454-280",
+    "surface": "Würtemberg",
+    "page": 3,
+    "page_id": "0508_a2",
+    "scan": "Oe_1_Bu_9454_0508_a2-L280_03.jpg",
+    "line": 19920,
+    "doc_line": 60
+   },
+   {
+    "uid": "oe1bu9454-282",
+    "surface": "Würtemberg",
+    "page": 2,
+    "page_id": "0511_a1",
+    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
+    "line": 20028,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Wurtembergsche",
+    "page": 3,
+    "page_id": "0514_a2",
+    "scan": "Oe_1_Bu_9454_0514_a2-L284_03.jpg",
+    "line": 20171,
+    "doc_line": 72
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Würtemberg",
+    "page": 3,
+    "page_id": "0520_a2",
+    "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+    "line": 20463,
+    "doc_line": 59
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Würtemberg",
+    "page": 3,
+    "page_id": "0520_a2",
+    "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+    "line": 20470,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Wurtemberg",
+    "page": 4,
+    "page_id": "0521_a",
+    "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+    "line": 20499,
+    "doc_line": 94
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Würtembergsehen",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
+    "line": 403,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-291",
+    "surface": "Würtemberg",
+    "page": 2,
+    "page_id": "0525_a1",
+    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+    "line": 20781,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-291",
+    "surface": "Würtemberg",
+    "page": 2,
+    "page_id": "0525_a1",
+    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
+    "line": 20784,
+    "doc_line": 42
    }
   ]
  },
@@ -34972,45 +34972,6 @@
   ]
  },
  {
-  "entity": "ungarn",
-  "display": "Ungarn",
-  "count": 3,
-  "documents": [
-   "oe1bu9454-246",
-   "oe1bu9454-247",
-   "oe1bu9454-287"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-247",
-    "surface": "Ungarn",
-    "page": 2,
-    "page_id": "0458_a1",
-    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
-    "line": 17892,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-246",
-    "surface": "Ungarn",
-    "page": 1,
-    "page_id": "0456_b",
-    "scan": "Oe_1_Bu_9454_0456_b-L246_01.jpg",
-    "line": 17796,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Ungarn",
-    "page": 1,
-    "page_id": "0519_b",
-    "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
-    "line": 20406,
-    "doc_line": 4
-   }
-  ]
- },
- {
   "entity": "crossen",
   "display": "Krosno Odrzańskie (Crossen)",
   "count": 3,
@@ -35316,6 +35277,45 @@
     "scan": "Oe_1_Bu_9454_0021_a-L13_01.jpg",
     "line": 705,
     "doc_line": 13
+   }
+  ]
+ },
+ {
+  "entity": "ungarn",
+  "display": "Ungarn",
+  "count": 3,
+  "documents": [
+   "oe1bu9454-246",
+   "oe1bu9454-247",
+   "oe1bu9454-287"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-246",
+    "surface": "Ungarn",
+    "page": 1,
+    "page_id": "0456_b",
+    "scan": "Oe_1_Bu_9454_0456_b-L246_01.jpg",
+    "line": 17796,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-247",
+    "surface": "Ungarn",
+    "page": 2,
+    "page_id": "0458_a1",
+    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
+    "line": 17892,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Ungarn",
+    "page": 1,
+    "page_id": "0519_b",
+    "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
+    "line": 20406,
+    "doc_line": 4
    }
   ]
  },

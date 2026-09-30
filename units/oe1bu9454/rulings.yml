@@ -146,6 +146,7 @@ dates:
     "1a": [1815, 2, 12, "day"]   # "Wien d. 12. in Febr. 1815"
     "4": [1815, 3, 19, "day"]    # "19ten Mertz 1815"
     "13": [1815, 2, 21, "day"]
+    "247": [1814, 10, 28, "day"]  # "Wien den 28ten Octob. 1814."; the parser took 1799 from the enclosure (editor checked the scan, 2026-09-30)
 
   # Undated and left so.
   no_date: ["121", "181", "225", "293", "303", "9"]   # 121, 181, 225, 293 are missing from the Büschel
