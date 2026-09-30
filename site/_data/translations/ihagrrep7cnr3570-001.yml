@@ -69,7 +69,7 @@ segments:
     proprietor possessed in this or that district, and which by that measure are to be transferred by
     His Majesty to the present recipients. Since each of them would wish soon to have the donation instrument
     put into his hands and the estates delivered over, I may all the more humbly request Your Excellency
-    to have the issue of the charters expedited as far as possible. Breslau, the 30th of July 1796. Hoym
+    to have the issue of the charters expedited as far as possible. Wrocław, the 30th of July 1796. Hoym
 
 
     To His Excellency the Royal Actual Privy Minister of State and Justice, Baron von der Reck, at Berlin.
@@ -138,7 +138,7 @@ segments:
     en: Duninow
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Hoym
     en: Hoym
@@ -254,10 +254,10 @@ segments:
     be pleased to grant to Major von Pontanus.
 
 
-    f, the artillery lieutenant von Holzendorff would find himself very well rewarded by the estates Gluskow,
-    Malavies and Grocholle, which bring in approximately 400 rt. (8000 rt. at 1 per cent 80 rt.), since
-    they lie very conveniently for him here in the district of Blonie, and I likewise most humbly propose:
-    to make a gift of these estates granted by royal favour to von Holzendorff.
+    f, the artillery lieutenant von Holtzendorff would find himself very well rewarded by the estates
+    Gluskow, Malavies and Grocholle, which bring in approximately 400 rt. (8000 rt. at 1 per cent 80 rt.),
+    since they lie very conveniently for him here in the district of Blonie, and I likewise most humbly
+    propose: to make a gift of these estates granted by royal favour to von Holtzendorff.
 
 
     They have become vacant through the Polish Colonel von Rakalowicz, who fell in the action at Warsaw.
@@ -329,7 +329,7 @@ segments:
     en: Major von Pontanus
     kind: person
   - de: Lieutenant von Holzendorff
-    en: lieutenant von Holzendorff
+    en: lieutenant von Holtzendorff
     kind: person
   - de: Gluskow
     en: Gluskow
@@ -573,7 +573,7 @@ segments:
   en: 'Berlin, 9 August 1796.
 
 
-    To His Excellency the Royal etc. Minister, Count von Hoym, at Breslau.
+    To His Excellency the Royal etc. Minister, Count von Hoym, at Wrocław.
 
 
     resineatur[?] Copy.
@@ -601,7 +601,7 @@ segments:
     5.) for Major von Pontanus;
 
 
-    6.) for Lieutenant von Holzendorff; and
+    6.) for Lieutenant von Holtzendorff; and
 
 
     7.) for Major General von Larisch, and I give myself the honour of transmitting the same herewith
@@ -627,7 +627,7 @@ segments:
     en: Count von Hoym
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Süd-Preußen
     en: South Prussia
@@ -648,7 +648,7 @@ segments:
     en: von Pontanus
     kind: person
   - de: von Holzendorff
-    en: von Holzendorff
+    en: von Holtzendorff
     kind: person
   - de: von Larisch
     en: von Larisch
@@ -700,14 +700,14 @@ segments:
     5.) for Major von Pontanus;
 
 
-    6.) for Lieutenant von Holzendorff;
+    6.) for Lieutenant von Holtzendorff;
 
 
     7.) for Major General von Larisch; with the most humble request that the executed charters may graciously
     be remitted to the Department of Fiefs. Berlin, 9 August 1796.
 
 
-    and Breslau, the 20th of Aug.
+    and Wrocław, the 20th of Aug.
 
 
     Goldbeck
@@ -744,7 +744,7 @@ segments:
     en: von Pontanus
     kind: person
   - de: von Holzendorff
-    en: von Holzendorff
+    en: von Holtzendorff
     kind: person
   - de: von Larisch
     en: von Larisch
@@ -756,7 +756,7 @@ segments:
     en: Hoym
     kind: person
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   numbers:
   - '9'
@@ -789,7 +789,7 @@ segments:
     W.
 
 
-    Lieutenant General of Infantry, Chief of a Regiment of Foot, Governor of the capital city of Breslau
+    Lieutenant General of Infantry, Chief of a Regiment of Foot, Governor of the capital city of Wrocław
     We Friedrich Wilhelm by the Grace of God King of Prussia (tot. tit.) do declare and make known by
     means of this Our open letter, for Ourselves and Our successors in the Crown, the Electorate and Our
     remaining lands, and hereby graciously give to know to each and every one whom it concerns: that,
@@ -861,7 +861,7 @@ segments:
     en: Kuyavia
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Friedrich Wilhelm
     en: Friedrich Wilhelm
@@ -978,14 +978,14 @@ segments:
     5. for Major von Pontanus
 
 
-    6. for Lieutenant von Holzendorff
+    6. for Lieutenant von Holtzendorff
 
 
     7. for Major General von Larisch, concerning the estates bestowed upon them in South Prussia, together
     with the cabinet order relating thereto and the covering report to His Majesty, and, having countersigned
     both the fair copies and the drafts, I may be permitted by Your Excellency to remit both, the Munda
     and the drafts, in the enclosures, with the most humble request that you will be pleased to forward
-    the latter onward. Breslau, 20 August 1796.
+    the latter onward. Wrocław, 20 August 1796.
 
 
     Hoym
@@ -1010,7 +1010,7 @@ segments:
     en: von Pontanus
     kind: person
   - de: v. Holzendorff
-    en: von Holzendorff
+    en: von Holtzendorff
     kind: person
   - de: v. Larisch
     en: von Larisch
@@ -1019,7 +1019,7 @@ segments:
     en: South Prussia
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   - de: Hoym
     en: Hoym
@@ -1071,7 +1071,7 @@ segments:
     be remitted to the Department of Fiefs. Hoym
 
 
-    Goldbeck Berlin the 9th and Breslau the 20th of August 1796. following each[?]. 26 Aug. 1796
+    Goldbeck Berlin the 9th and Wrocław the 20th of August 1796. following each[?]. 26 Aug. 1796
 
 
     Goldbeck
@@ -1119,7 +1119,7 @@ segments:
     en: Berlin
     kind: place
   - de: Breslau
-    en: Breslau
+    en: Wrocław
     kind: place
   numbers:
   - '23'

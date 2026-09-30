@@ -1223,12 +1223,14 @@ people:
     identity: "Friedrich August Karl (1784-1853), the Prince's eldest son and heir (Erbprinz), reigning Prince from 1806; the 'Fürst August' of the 1815 letters, whose power of attorney to Cosmar runs through them. Added 2026-09-30."
   sanitz:
     display: "von Sanitz"
+    render: "Sanitz"
     match: '(?<!Generalin v\. )Sanitz(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
     identity: "Colonel and commander in the Prince's regiment, granted the confiscated estates of Pawłów, Dzwonów and Burenbusch in 1796 (I. HA GR, Rep. 7 C, Nr. 3570; 14525); later General-Major, whose claim for his lost South Prussian estates brought the file out again in 1826. His wife, 'die Frau Generalin v. Sanitz' (9454), is not matched. Added 2026-09-30."
   bluecher:
     display: "General-Major von Blücher"
+    render: "Blücher"
     match: '(?<=Major von )Bl[üu]cher|(?<=Major v\. )Bl[üu]cher'
     tier: "Context-inferred"
     variants: []
@@ -1241,24 +1243,28 @@ people:
     identity: "General-Lieutenant von Dolffs, granted the estate of Strzelce in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
   pontanus:
     display: "Major von Pontanus"
+    render: "Pontanus"
     match: 'Pontanus(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
     identity: "Granted Dziejorzów, Borschków and Jakubie in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
   holtzendorff:
     display: "Lieutenant von Holtzendorff"
+    render: "Holtzendorff"
     match: 'Holt?zendorff(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: ["Holzendorff"]
     identity: "Granted Głuchów, Malawieś and Grochole in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
   larisch:
     display: "General-Major von Larisch"
+    render: "Larisch"
     match: '(?<=Major von )Larisch|(?<=Major v\. )Larisch'
     tier: "Text-confirmed"
     variants: []
     identity: "Granted Lekarzewice in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Matched only after his rank; 9454's 'Larischen Summa' is not taken. Added 2026-09-30."
   von-der-reck:
     display: "Freiherr von der Reck"
+    render: "von der Reck"
     match: '(?<=von der )Reck(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
