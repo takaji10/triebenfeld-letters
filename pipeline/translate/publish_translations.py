@@ -104,7 +104,7 @@ def main():
         if not os.path.isfile(SHEET):
             sys.exit(f'no review sheet at {SHEET}\n'
                      f'Run: python pipeline/translate/check_translations.py '
-                     f'--unit {a.unit.slug}'
+                     f'--unit {a.unit}'
                      + (f' --tag {a.tag}' if a.tag else '')
                      + '\n(or --force to publish with no blocking checks at all)')
         if os.path.getmtime(SHEET) < newest:
@@ -112,7 +112,7 @@ def main():
                      'have to block:\n'
                      f'  {SHEET}\n'
                      f'Re-run: python pipeline/translate/check_translations.py '
-                     f'--unit {a.unit.slug}'
+                     f'--unit {a.unit}'
                      + (f' --tag {a.tag}' if a.tag else ''))
 
     held, held_letters = (set(), set()) if a.force else blocked_pages()
