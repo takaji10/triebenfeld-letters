@@ -9,7 +9,11 @@ title: >-
   Olesnica: Triebenfeld's petition to the King for the sequestration of the
   Olesnica estate, 1805
 date_span: 1805
-status: transcribed        # draft | transcribed | translated | published
+status: translated         # draft | transcribed | translated | published
+
+# The translation generation this holding was published from; pass --tag v2
+# to every translation tool.
+published_tag: v2
 
 # Which era this holding belongs to - reference/eras.yml.
 era: hohenlohe

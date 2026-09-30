@@ -52,3 +52,18 @@ was left.
 ## Damage
 
 None recorded.
+
+## Reading, translation and summaries (2026-09-30)
+
+- Read whole and checked ($0.27): rated "sound". The check cut the lessees'
+  first names from the summary, which are known from 14525, not from this
+  letter. One correction with a same-letter witness was applied
+  (Erbeinsrückstand -> Erbzinsrückstand). German summary 73 words.
+- Translated with --tag v2 ($0.42). Of the translator's four proposals, one
+  was applied: "allerunterthänigst eben gehorsamster" -> "treu gehorsamster",
+  Triebenfeld's standing closing formula (28 times in 9454). It changes one
+  word, so the English was edited to match ("most faithfully obedient")
+  rather than re-translated. The others (Revencie, hätte, nunmermehr) rest on
+  sense or grammar and stay as written.
+- English summary translated by hand from the checked German one. Published
+  from v2.

@@ -1,0 +1,161 @@
+{
+ "ihagrrep7cnr3705-001": {
+  "letter": "1",
+  "legibility": "sound",
+  "notes": "This is a petition to Friedrich Wilhelm III. It is written in the first person of the Prince (Fürst von Hohenlohe-Oehringen und Ingelfingen, dominium of Trąbczyn and Zagorowo) and signed by v. Triebenfeld as General Bevollmächtigter. It asks that the government at Kalisch be ordered to sequester the estate of Olesnize, which was let in hereditary lease to Giese, Bagans and Gietzinger on 22 Feb of the previous year. The lessees owe the second half of the entry money, the rent and the taxes, and are selling off parcels. The Chamber refused its consent. The government's resolutions of 13 and 20 August are refuted from the ALR. The petition asks for the files to be called in and offers caution.",
+  "claims": [
+   {
+    "statement": "v. Triebenfeld bittet als General Bevollmächtigter des Fürsten um Befehl an die Regierung in Kalisz zur Sequestration von Oleśnica",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     664,
+     665
+    ]
+   },
+   {
+    "statement": "Das Gut gehört zur Herrschaft Trąbczyn und Zagórów",
+    "lines": [
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "Erbpächter Giese, Bagans, Gietzinger; Erbstandsgeld 20000 Rthl",
+    "lines": [
+     32,
+     39,
+     40
+    ],
+    "check": "overstated",
+    "why": "Der Brief nennt nur die Nachnamen (Z. 32). Die Vornamen Johann, Johann und Friedrich in der Zusammenfassung stehen nicht im Brief. Die 20000 Rthl sind belegt (Z. 39-40)."
+   },
+   {
+    "statement": "Nur erste Hälfte 10000 Rthl gezahlt, aus Geldern der Untererbpächter",
+    "lines": [
+     85,
+     86,
+     87,
+     88,
+     89,
+     92,
+     93
+    ]
+   },
+   {
+    "statement": "Rückstand bei Zins und Abgaben, Veräußerung von Gutsteilen",
+    "lines": [
+     93,
+     94,
+     95,
+     133,
+     134,
+     135,
+     136,
+     137,
+     138,
+     139,
+     140,
+     141,
+     142,
+     143
+    ]
+   },
+   {
+    "statement": "Kammer verweigerte die Bestätigung des Vertrags",
+    "lines": [
+     100,
+     101,
+     102,
+     103,
+     110
+    ]
+   },
+   {
+    "statement": "Widerlegt die ablehnenden Resolutionen der Regierung",
+    "lines": [
+     207,
+     208,
+     209,
+     210,
+     215,
+     265,
+     266,
+     267
+    ]
+   },
+   {
+    "statement": "Verlangt Abforderung der Akten und bietet Kaution an",
+    "lines": [
+     600,
+     601,
+     602,
+     603,
+     604,
+     605,
+     610,
+     611,
+     612,
+     613,
+     614,
+     615
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 22,
+    "word": "nur",
+    "note": "probably 'mir' (Schaden, welcher mir ... zugefügt wird)"
+   },
+   {
+    "line": 196,
+    "word": "zugefügen",
+    "note": "probably 'zuzufügen'"
+   },
+   {
+    "line": 471,
+    "word": "nunmermehr",
+    "note": "probably 'nimmermehr'"
+   },
+   {
+    "line": 582,
+    "word": "Revencie",
+    "note": "probably 'Revenüe'/'Revenue' (cf. line 414 'Revenuen')"
+   },
+   {
+    "line": 663,
+    "word": "eben",
+    "note": "probably 'treu' (treugehorsamster)"
+   },
+   {
+    "line": 515,
+    "word": "de",
+    "note": "stray letters"
+   },
+   {
+    "line": 654,
+    "word": "h",
+    "note": "stray letter before 'halte'"
+   },
+   {
+    "line": 333,
+    "word": "hätte",
+    "note": "probably 'hätten' (subject 'sie')"
+   }
+  ],
+  "read_against": "aca674452442b302"
+ }
+}
