@@ -2051,7 +2051,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 11,
-  "places_named": 7,
+  "places_named": 8,
   "estates": [
    "krotoszyn",
    "kolno"
@@ -4450,7 +4450,7 @@
   "uncertainty_count": 6,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 4,
   "places_named": 10,
   "estates": [
    "szetlewek"
@@ -9480,7 +9480,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 6,
   "estates": [
    "drzewce",
@@ -9901,7 +9901,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 16,
+  "mentions": 14,
   "places_named": 21,
   "estates": [
    "trabczyn",
@@ -10010,6 +10010,130 @@
   "path": "documents/oe1bu9454-171.json",
   "text_path": "text/oe1bu9454-171.txt",
   "permalink": "/documents/oe1bu9454/171/"
+ },
+ {
+  "uid": "oe1u199-1",
+  "unit": "oe1u199",
+  "letter_id": "1",
+  "doc_type": "confirmation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1805-12-19",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 15,
+  "n_lines": 293,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0003_b",
+    "image": "Oe_1_U_199_0003_b-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0004_a",
+    "image": "Oe_1_U_199_0004_a-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0004_b",
+    "image": "Oe_1_U_199_0004_b-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0005_a",
+    "image": "Oe_1_U_199_0005_a-L1_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0005_b",
+    "image": "Oe_1_U_199_0005_b-L1_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0006_a",
+    "image": "Oe_1_U_199_0006_a-L1_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0006_b",
+    "image": "Oe_1_U_199_0006_b-L1_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0007_a",
+    "image": "Oe_1_U_199_0007_a-L1_08.jpg"
+   },
+   {
+    "page": 9,
+    "page_id": "0007_b",
+    "image": "Oe_1_U_199_0007_b-L1_09.jpg"
+   },
+   {
+    "page": 10,
+    "page_id": "0008_a",
+    "image": "Oe_1_U_199_0008_a-L1_10.jpg"
+   },
+   {
+    "page": 11,
+    "page_id": "0008_b",
+    "image": "Oe_1_U_199_0008_b-L1_11.jpg"
+   },
+   {
+    "page": 12,
+    "page_id": "0009_a",
+    "image": "Oe_1_U_199_0009_a-L1_12.jpg"
+   },
+   {
+    "page": 13,
+    "page_id": "0009_b",
+    "image": "Oe_1_U_199_0009_b-L1_13.jpg"
+   },
+   {
+    "page": 14,
+    "page_id": "0010_a",
+    "image": "Oe_1_U_199_0010_a-L1_14.jpg"
+   },
+   {
+    "page": 15,
+    "page_id": "0010_b",
+    "image": "Oe_1_U_199_0010_b-L1_15.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 7,
+  "places_named": 29,
+  "estates": [
+   "zagorowo",
+   "trabczyn",
+   "betsche",
+   "wieniec",
+   "batkowo",
+   "koschentin",
+   "boronow",
+   "olszyna",
+   "cieszowa",
+   "bytkow",
+   "schlawenschitz",
+   "lassowitz",
+   "birawa",
+   "stara-kuznia"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "has_summary_de": false,
+  "legibility": "",
+  "title": "confirmation 1",
+  "path": "documents/oe1u199-1.json",
+  "text_path": "text/oe1u199-1.txt",
+  "permalink": "/documents/oe1u199/1/"
  },
  {
   "uid": "oe1bu14526-8",
@@ -11303,7 +11427,7 @@
   "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 13,
+  "mentions": 11,
   "places_named": 21,
   "estates": [
    "trabczyn",
@@ -11796,7 +11920,7 @@
   "uncertainty_count": 2,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 8,
   "places_named": 13,
   "estates": [
    "trabczyn",
@@ -12451,7 +12575,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 11,
+  "mentions": 10,
   "places_named": 9,
   "estates": [
    "zagorowo",
@@ -14117,7 +14241,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 9,
   "places_named": 5,
   "estates": [],
   "translation_status": "untranslated",
@@ -17191,7 +17315,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 9,
   "places_named": 8,
   "estates": [],
   "translation_status": "untranslated",
@@ -17461,7 +17585,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 5,
   "estates": [
    "schlawenschitz",
@@ -21428,7 +21552,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 19,
-  "places_named": 12,
+  "places_named": 13,
   "estates": [],
   "translation_status": "untranslated",
   "has_summary": false,

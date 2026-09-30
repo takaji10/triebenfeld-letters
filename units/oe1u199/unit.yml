@@ -1,0 +1,77 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: oe1u199
+ref: Oe 1 U 199
+archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+title: >-
+  Landesherrliche Confirmation: Friedrich Wilhelm III confirms the family
+  majorat and fideicommiss founded by Friedrich Ludwig, Prince of
+  Hohenlohe-Ingelfingen, over his Silesian and South Prussian estates
+# The confirmation is dated Berlin, 19 December 1805; the extract of the
+# Prince's will that it recites is of 7 October 1805.
+date_span: 1805
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: hzan-neuenstein
+
+# The archive sent ten PDFs, one per capture (0002-0011). They were exported
+# and cropped before this unit was set up: raw_dir/processed/ holds the fifteen
+# text pages, 0003_b to 0010_b. Left out on purpose: 0002, the front cover of
+# red leather photographed with the hanging wax seal and its silver seal box;
+# 0003_a, a blank endpaper; 0011, the back cover.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Hohenlohe-Zentralarchiv Neuenstein/Oe 1_U 199
+  raw_glob: Oe 1_U 199_*.pdf
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: Oe_1_U_199
+
+# Transcriptions that arrived already matched to the scans, one file per page,
+# named <seq>_<archival stem>_<capture>_<crop>.txt:
+#   0001_Oe 1_U 199_0003_b.txt  ->  0003_b
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: "Oe 1_U 199_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  A single engrossed charter, bound in red leather with the King's seal hanging
+  from it: Friedrich Wilhelm III's confirmation, given at Berlin on 19 December
+  1805, of the family majorat and fideicommiss that Friedrich Ludwig, Prince of
+  Hohenlohe-Ingelfingen, founded in his will to keep his house's fortune
+  together. The charter recites the Breslau court's certified extract of the
+  will (7 October 1805), which settles as majorat the Prince's houses in
+  Breslau and his park at Scheitnig, the estate of Byttkow and the Silesian
+  ironworks, the lordship of Koschentin with Boronow, Harbultowitz, Olschin and
+  Czischowa, and the South Prussian estates of Zagórów, Trąbczyn, Betsche,
+  Wieniec and Bątkowo. It also lays down who inherits if the male line fails:
+  the Silesian works to the eldest daughter Adelheid, Koschentin and the Saxon
+  estates to Emilie, and the South Prussian estates to Auguste.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A royal charter in chancery German: it opens with the King's full title (a
+  long list of territories, many garbled in the transcription; render them as
+  well as they can honestly be read and do not invent the missing ones), then
+  recites a certified extract of the Prince's will, then confirms it. The will
+  extract is in the Prince's own voice (Ich, Mein, capitalised) inside the
+  King's (Wir, Uns); keep the two voices distinct. Majorat and Fideicommiss are
+  legal institutions (an entailed estate settled on the eldest son); the will's
+  sections are numbered § XII-XV and § XXIV and keep that numbering. Latin tags
+  (in Fidem publicam, usufruiren, in Capita, in Stirpes, Uxoral Güter, Allodium,
+  L. S.) belong to the legal register and are kept. Scheitnig (Szczytniki) is
+  the Prince's park in Breslau; Schlawentzitz and Lassowitz are his Silesian
+  ironworks; Baildon is the ironmaster John Baildon; Bernhardi and Koenig are
+  estate officials.

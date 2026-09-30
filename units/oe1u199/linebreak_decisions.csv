@@ -1,0 +1,67 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,5,6,¬,Bran,denburg,Brandenburg,join,high,"joined form attested in DWDS (1,479,963 hits)",False,0,1479963,0,,1,,"naden König von Preußen, Markgraf zu Bran¬ || denburg, des heiligen Römischen Reichs Erz"
+1,1,6,7,¬,sou,verainer,souverainer,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,hen Reichs Erzkämmerer und Churfürst; sou¬ || verainer und Oberster Herzog von Schlesien
+1,1,11,12,¬,Wen,den,Wenden,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,21,,"Halberstadt, Münster, Minden, Cammin, Wen¬ || den Schwerin, Ratzeburg, Ostfriesland, Lüb"
+1,1,13,14,-,Hohen,stein,Hohenstein,join,high,"joined form attested in DWDS (42,532 hits)",False,0,42532,2,,1,,"lern, Ruppin, der Mark, Ravensberg, Hohen- || stein, Tecklenburg, Schwerin, Lingen, Bühr"
+1,1,20,21,¬,Nieder,Schlesischen,NiederSchlesischen,split,high,joined form unattested; both halves are real words,False,0,0,0,745696,3,2604,"erneur von Breslau, Inspecteur der Nieder¬ || Schlesischen und Fränkischen Infanterie, I"
+1,2,29,30,¬,Schlesi,sche,Schlesische,join,high,"joined form attested in DWDS (74,732 hits)",False,0,74732,0,,1,,"Gut Byttkow, die von ihm erkaufte Schlesi¬ || sche Herrschaft Koschentin nebst den damit"
+1,2,32,33,-,nament,lich,namentlich,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,2,,", welche er in Südpreußen besitzt, nament- || lich die Herrschaften Zagorowo, Trąbczyn, "
+1,2,34,35,-,allerun,tertänigsten,alleruntertänigsten,join,high,head is not a word on its own,False,0,211,0,0,1,,"o bestimme, mit dem hinzugefügten allerun- || tertänigsten Ansuchen, daß, weil die Erric"
+1,2,39,40,¬,vorerwähn,ten,vorerwähnten,join,high,head is not a word on its own,False,0,81,0,0,7,,esem Gesuche aus besonderer dem vorerwähn¬ || ten regierenden Fürsten zu Hohenlohe Ingel
+1,3,45,46,¬,enthal,tenden,enthaltenden,join,high,"joined form attested in DWDS (20,934 hits)",False,0,20934,0,,1,, Familien Majorat und Fideicommiss enthal¬ || tenden Extract des Sub dato Breslau den 7t
+1,3,46,47,¬,er,richteten,errichteten,join,high,joined form occurs elsewhere in this corpus,False,2,,4,,1,,ub dato Breslau den 7ten October 1805. er¬ || richteten Testaments des Durchlauchtigen r
+1,3,50,51,¬,Durch,laucht,Durchlaucht,join,high,joined form occurs elsewhere in this corpus,False,1,,2,,1,,"zug des Testamentes, welches Seiner Durch¬ || laucht der regierende Fürst zu Hohenlohe N"
+1,3,51,52,¬,Ingel,fingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,rende Fürst zu Hohenlohe Neuenstein Ingel¬ || fingen bey dem Breslauer Gouvernements Ger
+1,3,56,57,¬,Be,gründung,Begründung,join,high,"joined form attested in DWDS (1,453,062 hits)",False,0,1453062,0,,1,,standteile Meines Privat Vermögens zur Be¬ || gründung des Floris Meines Fürstlichen Hau
+1,3,59,60,¬,vo,rigen,vorigen,join,high,"joined form attested in DWDS (808,328 hits)",False,0,808328,0,,1,,in Breslau und hinfolglich auch das im vo¬ || rigen Jahre erst neu erkaufte Schulziusche
+1,4,67,68,¬,schla,ge,schlage,join,high,"joined form attested in DWDS (6,164,250 hits)",False,0,6164250,0,,2,,"jorat, wie es oben beschrieben. Ich schla¬ || ge zu diesem Majorate, und erkläre ihm hie"
+1,4,69,70,¬,son,in,sonin,split,high,joined form unattested; both halves are real words,False,0,294,0,80440,40,0,"er und in der Stadt und zu Scheitnig, son¬ || in den dasigen Lusthäusern, befindliche Am"
+1,4,70,71,¬,sämt,liches,sämtliches,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"äusern, befindliche Ameublemente und sämt¬ || liches Geräth. Namentlich Mein sämtliches "
+1,4,72,73,¬,Kup,ferstiche,Kupferstiche,join,high,"joined form attested in DWDS (28,478 hits)",False,0,28478,0,,1,,"n Tafel-Aufsätze, Weiszeug, Gemählde, Kup¬ || ferstiche. Alles dies ist von jedem künfti"
+1,4,74,75,¬,Verän,derungen,Veränderungen,join,high,"joined form attested in DWDS (3,054,799 hits)",False,0,3054799,0,,1,,und er kann zwar Verbesserungen und Verän¬ || derungen bey sich verändernder Mode u s. v
+1,4,75,76,¬,da,mit,damit,join,high,joined form occurs elsewhere in this corpus,False,4,,2,,14,,"erändernder Mode u s. v. nach Belieben da¬ || mit machen; der Werth im Ganzen aber, und "
+1,5,93,94,¬,bau,lichen,baulichen,join,high,"joined form attested in DWDS (486,721 hits)",False,0,486721,0,,1,,von Mir gesetzten Monumente im besten bau¬ || lichen Stande und auf ewige Zeiten fleißig
+1,5,96,97,¬,künfti,gen,künftigen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,reslauer Publicum auch unter jedem künfti¬ || gen Majorats Herrn eine öffentliche Promen
+1,5,103,104,-,Ver,gnügen,Vergnügen,join,high,"joined form attested in DWDS (547,514 hits)",False,0,547514,0,,1,,"Ort, und von Mir auch dem allgemeinen Ver- || gnügen gewidmeten Spaziergang unter besond"
+1,6,113,114,¬,Allodial,Gut,AllodialGut,split,high,joined form unattested; both halves are real words,False,0,744,1,303,2,98383556,h das von Mir erkaufte bisherige Allodial¬ || Gut Byttkow zu Majorat hiermit gemacht und
+1,6,115,116,¬,ha,ben,haben,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,entzizer Hütten Departement geschlagen ha¬ || ben. Dem Majorats Herrn mache Ich es hier 
+1,6,118,119,¬,Ex,tention,Extention,split,high,joined form unattested; both halves are real words,False,0,262,0,190998,1,109,"Steinkohlen Hohen Ofens in möglichster Ex¬ || tention zu beendigen, und den hierüber von"
+1,6,120,121,¬,unverbrich,lich,unverbrichlich,join,high,head is not a word on its own,False,0,0,0,0,2,,"en Societäts Contract fest und unverbrich¬ || lich zu halten, auch diesen Herrn stets in"
+1,6,121,122,-,Verbin,dung,Verbindung,join,high,"joined form attested in DWDS (4,272,185 hits)",False,0,4272185,0,,1,,esen Herrn stets in seiner jezigen Verbin- || dung mit dem Schlawenzizer Werken zu conse
+1,6,127,128,¬,ver,bundenen,verbundenen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"e Herrschaft Koschentin und die damit ver¬ || bundenen Herrschaften Boronow, Olschin, Ha"
+1,7,134,135,¬,Eigen,thum,Eigenthum,split,high,joined form unattested; both halves are real words,False,0,886,0,26111988,1,28508,"ann also sicher rechnen, ein reines Eigen¬ || thum von fünfmal hundert tausend Thaler sc"
+1,7,135,136,-,gegen,wärtig,gegenwärtig,join,high,"joined form attested in DWDS (1,460,442 hits)",False,0,1460442,1,,2,,"ünfmal hundert tausend Thaler schon gegen- || wärtig in denselben zu besitzen, wobey Ich"
+1,7,143,144,-,Har,bultowitz,Harbultowitz,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"ndenen Herrschaften Boronow, Olschin, Har- || bultowitz und Czyschowa mache Ich hierdurc"
+1,8,153,154,-,Hüt,ten,Hütten,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,7,,n und wirklich verdienten Lassowitzer Hüt- || ten Inspectorem Koenig auch an die Spitze 
+1,8,156,157,-,Ver,besserung,Verbesserung,join,high,"joined form attested in DWDS (2,107,208 hits)",False,0,2107208,0,,1,,schaft und immer steigende Cultur und Ver- || besserung des Hütten Wesens gleichfalls di
+1,9,173,174,-,Vor,behaltes,Vorbehaltes,join,high,"joined form attested in DWDS (358,734 hits)",False,0,358734,2,,1,,"ey zu verfügen. Theils vermöge dieses Vor- || behaltes, theils vermöge Meines eigenen Re"
+1,9,174,175,-,Rech,tes,Rechtes,join,high,"joined form attested in DWDS (5,918,341 hits)",False,0,5918341,1,,1,,"altes, theils vermöge Meines eigenen Rech- || tes verordne Ich daher, daß Falls Meine mä"
+1,9,175,176,-,männ,liche,männliche,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,," verordne Ich daher, daß Falls Meine männ- || liche Descendenz in allen dreien Einen Mei"
+1,9,180,181,-,Altham,mer,Althammer,join,high,"joined form attested in DWDS (6,574 hits)",False,0,6574,0,,1,,"1. Die Güter Schlawentziz, Byrawa, Altham- || mer, Lassowitz nebst denen dazu gehörigen"
+1,9,183,184,-,zuzu,kaufendem,zuzukaufendem,split,high,joined form unattested; both halves are real words,False,0,63,0,1874,1,6538,"ute Byttkow, und dem allenfalls noch zuzu- || kaufendem Gute Landsberg, meiner älte-"
+1,9,184,185,-,älte,sten,ältesten,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"kaufendem Gute Landsberg, meiner älte- || sten Tochter Adelheid oder deren künf¬"
+1,9,185,186,¬,künf,tigen,künftigen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,sten Tochter Adelheid oder deren künf¬ || tigen Descendentschaft
+1,9,188,189,-,verbun,denen,verbundenen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,errschaft Koschentin und die damit verbun- || denen Herrschaften Boronow Olschin
+1,10,194,195,-,Mei,ner,Meiner,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,. Die sämtlichen Südpreußischen Güter Mei- || ner dritten Tochter Auguste und Ihrer
+1,10,198,199,-,Prinzes,sin,Prinzessin,join,high,joined form occurs elsewhere in this corpus,False,3,,1,,2,,Scheitnig nebst allem Zubehör der Prinzes- || sin Adelheid meiner ältesten Toch
+1,11,214,215,¬,frü,hen,frühen,join,high,"joined form attested in DWDS (14,290,911 hits)",False,0,14290911,0,,1,,"bey Ausgang des Mannsstammes, welchen frü¬ || hen Tod das Schiksal verhüte, so würde die"
+1,11,217,218,¬,der,selbe,derselbe,join,high,"joined form attested in DWDS (1,719,125 hits)",False,0,1719125,36,,2,,fruiren.  So dann aber mit Ihrem Tode der¬ || selbe auf den Erstgebohrnen männlichen Des
+1,11,218,219,-,Des,cendenten,Descendenten,join,high,joined form occurs elsewhere in this corpus,False,3,,21,,1,,elbe auf den Erstgebohrnen männlichen Des- || cendenten vererben; und in Ihrer männliche
+1,11,225,226,-,leib,liche,leibliche,join,high,"joined form attested in DWDS (445,037 hits)",False,0,445037,0,,2,," Eben so wird es gehalten wenn Meine leib- || liche Prinzessin Tochter nicht mehr lebt, "
+1,11,226,227,-,Aus,gang,Ausgang,join,high,joined form occurs elsewhere in this corpus,False,2,,4,,1,,"inzessin Tochter nicht mehr lebt, bey Aus- || gang Meines Mannsstammes. Ihr"
+1,11,228,229,-,Erstge,bohrnen,Erstgebohrnen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,teil fällt als dann gleich auf den Erstge- || bohrnen der Ersten Linie Ihrer männlichen
+1,11,231,232,¬,ge,dacht,gedacht,join,high,"joined form attested in DWDS (2,883,150 hits)",False,0,2883150,2,,1,,"wird es eben so gehalten, wie vorhin ge¬ || dacht."
+1,12,245,246,¬,Aus,zug,Auszug,join,high,joined form occurs elsewhere in this corpus,False,2,,4,,1,, vor- und umstehender abschriftlicher Aus¬ || zug des Testamentes Seiner Hochfürstlichen
+1,12,247,248,-,Neu,enstein,Neuenstein,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,egierenden Reichsfürsten zu Hohenlohe Neu- || enstein Ingelfingen mit dem Subscripto vor
+1,12,248,249,¬,vorge,legten,vorgelegten,join,high,"joined form attested in DWDS (352,714 hits)",False,0,352714,0,,1,,tein Ingelfingen mit dem Subscripto vorge¬ || legten Originali nach erfolgter genauen
+1,13,259,260,-,Audi,teur,Auditeur,split,high,joined form unattested; both halves are real words,False,0,302,0,819348,1,720,Königl. Gouvernements Audi- || teur alhier.
+1,13,261,262,¬,Rech,te,Rechte,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,zen Innhalte und der darin̄ nach dem Rech¬ || te der Erstgeburt vorgeschriebenen Success
+1,13,262,263,¬,Ord,nung,Ordnung,join,high,"joined form attested in DWDS (2,099,451 hits)",False,0,2099451,0,,1,,stgeburt vorgeschriebenen Successions-Ord¬ || nung aus Königlicher Macht Vollkommenheit 
+1,13,267,268,-,Un,sern,Unsern,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"wige Zeiten gelten soll; jedoch Uns an Un- || sern Rechten und den Verbindlichkeiten, we"
+1,14,278,279,-,sämtli,chen,sämtlichen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"fehlen und gebieten demnach Unsern sämtli- || chen Ober Landes Collegiis, wie auch allen"
+1,14,280,281,¬,We,sens,Wesens,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"und Untertanen, wes Standes Würde oder We¬ || sens sie seyen, insonderheit aber Unsern S"
+1,14,284,285,-,Su,cessoren,Sucessoren,split,high,joined form unattested; both halves are real words,False,0,0,0,256463,1,0,"ernach allergehorsamst achten, und die Su- || cessoren und Nachkommen des mehrgedachten "
+1,14,285,286,-,re,gierenden,regierenden,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,soren und Nachkommen des mehrgedachten re- || gierenden Fürsten Friedrich Ludwig zu Hohe
+1,14,288,289,¬,Hy,pothequen,Hypothequen,split,high,joined form unattested; both halves are real words,False,0,0,0,8697,1,0,st bestätigten und in die betreffenden Hy¬ || pothequen-Bücher gehörig einzutragenden Fa
+1,14,289,290,-,Fa,milien,Familien,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"othequen-Bücher gehörig einzutragenden Fa- || milien, Majorats und Fideicommiss."
+1,14,294,295,¬,Un,gnade,Ungnade,join,high,"joined form attested in DWDS (39,005 hits)",False,0,39005,0,,1,,"atten, bey Vermeidung Unserer höchsten Un¬ || gnade und unausbleiblich schwerer Ahndung."

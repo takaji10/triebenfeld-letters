@@ -49,6 +49,11 @@ UNIT = unitlib.one_unit(unitlib.unit_arg())
 LETTERS = os.path.join(ROOT, 'corpus', 'letters.json')
 GLOSSARY = os.path.join(ROOT, 'reference', 'translation_glossary.yml')
 CORRESPONDENTS = os.path.join(UNIT.dir, 'correspondents.json')
+# The whole-document reading (read_letters.py), where the unit has one: what
+# each document is about, how legible it is, and the words suspected of being
+# misread. Given to the translator as context, so a garbled passage is marked
+# rather than smoothed into fluent English.
+READING = os.path.join(UNIT.dir, 'reading.json')
 
 MODEL = 'claude-opus-5'
 MAX_TOKENS = 16000       # floor: enough for any letter in the correspondence
@@ -422,6 +427,46 @@ def latin_block(g):
     return chr(10).join(out)
 
 
+_READING = None
+
+
+def reading_block(rec):
+    """The reading record for this document, as context for the translator.
+
+    Context only: it is a second opinion about the German, not text to be
+    translated, and it can be wrong. The doubtful words are misreadings that
+    were suspected but not proved, so the translator is told to flag any it
+    relies on rather than to correct them. The reading was made before some
+    later corrections, so a word listed here may already be right in the text.
+    """
+    global _READING
+    if _READING is None:
+        _READING = (json.load(open(READING, encoding='utf-8'))
+                    if os.path.isfile(READING) else {})
+    r = _READING.get(pad(rec['letter_id']))
+    if not r:
+        return ''
+    out = ['', 'READING NOTES - from an earlier whole-document reading of the German. '
+           'Context only: do not translate them, and do not let them override what '
+           'the German says.']
+    if r.get('legibility'):
+        out.append(f"Legibility: {r['legibility']}.")
+        if r['legibility'] != 'sound':
+            out.append('Where a passage is garbled, translate what can honestly be '
+                       'read and record the rest in `unparseable`; do not smooth it '
+                       'into fluent English.')
+    if r.get('notes'):
+        out.append('What the document is about: ' + ' '.join(r['notes'].split()))
+    dw = [d for d in (r.get('doubtful_words') or []) if d.get('word')]
+    if dw:
+        out.append('Words suspected of being misread (not proved; some may already '
+                   'be corrected in the text below). Do not correct them silently: '
+                   'if the sense of your English rests on one, put it in `flagged`.')
+        for d in dw:
+            out.append(f"  - {d['word']}" + (f": {d['note']}" if d.get('note') else ''))
+    return chr(10).join(out)
+
+
 def user_block(rec, corr, g=None):
     g = g if g is not None else load_glossary()
     lid = str(rec['letter_id'])
@@ -444,6 +489,7 @@ def user_block(rec, corr, g=None):
                     f"{lang}; the same rules apply.")
         if 'latin' in lang.lower():
             extra = latin_block(g)
+    extra += reading_block(rec)
     return (f"{chr(10).join(meta)}{extra}\n\n"
             f"Translate the following, returning exactly {len(rec['pages'])} page "
             f"segment(s) via the submit_translation tool.\n\n{german_for(rec)}")

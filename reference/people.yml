@@ -1112,3 +1112,24 @@ people:
     tier: "Text-confirmed"
     variants: ["Erbert", "Krysztof Erbert"]
     identity: "Settler (Einsaaße) of the Trąbczyn Hauland who took one Magdeburg Hufe of the Trąbczyn forest in hereditary lease from the Prince, 31 March 1806 (app5371057 documents 1, 4); Krysztof Erbert in Hawich's Polish letter of 1811, which asks that the court costs be recovered from him (document 2). Marks with a cross. Added 2026-09-30."
+  baildon:
+    display: "John Baildon"
+    render: "Baildon"
+    match: 'Baildon(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "The Scottish ironmaster in Prussian service, the Prince's partner by a Societäts-Contract in the coke blast furnace at the Sławięcice works; the will tells the heir to keep him and take his advice (Oe 1 U 199, 1805). Added 2026-09-30."
+  prinzessin-adelheid:
+    display: "Prinzessin Adelheid zu Hohenlohe-Ingelfingen"
+    render: "Adelheid"
+    match: 'Adelheid(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Adelhaid"]
+    identity: "The Prince's eldest daughter; heir to the Silesian works, the Breslau houses and the Scheitnig park if his male line fails (Oe 1 U 199, will of 1805). Added 2026-09-30."
+  prinzessin-auguste:
+    display: "Prinzessin Auguste zu Hohenlohe-Ingelfingen"
+    render: "Auguste"
+    match: '(?<=Tochter )Auguste(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The Prince's third daughter; heir to the South Prussian estates if his male line fails (Oe 1 U 199, will of 1805). Matched only after 'Tochter', so the name August is not taken. Added 2026-09-30."

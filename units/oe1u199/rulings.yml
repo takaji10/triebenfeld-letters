@@ -1,0 +1,45 @@
+# Editorial rulings for Oe 1 U 199.
+#
+# One document: the royal confirmation, with the certified extract of the
+# Prince's will that it recites (a package, as in 14526). Established
+# 2026-09-30 by reading the whole charter.
+
+places:
+  # Place of writing.
+  overrides:
+    "1": Berlin
+
+dates:
+  # [year, month, day, precision]; null where that element is unknown.
+  # Read off the charter's dateline, "Berlin den 19ten December 1805". The
+  # extract of the will it recites is dated Breslau, 7 October 1805.
+  read:
+    "1": [1805, 12, 19, "day"]
+
+  # Taken from the document's own duplicate.
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
+
+  # Undated and left so.
+  no_date: []
+
+documents:
+  # The vocabulary of 14525 and 14526.
+  doc_type:
+    "1": confirmation
+
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estates the majorat is made of. Harbultowitz is not yet identified.
+  estates:
+    "1": [zagorowo, trabczyn, betsche, wieniec, batkowo, koschentin, boronow, olszyna, cieszowa, bytkow, schlawenschitz, lassowitz, birawa, stara-kuznia]
+
+damage:
+  # Damage is read from the text's own [...] markers. List document numbers
+  # here only for damage the transcription does not mark.
+  letters: []

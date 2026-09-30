@@ -460,17 +460,6 @@
    "doc_line": 54
   },
   {
-   "entity": "sommer",
-   "display": "Sommer",
-   "kind": "person",
-   "surface": "Sommern",
-   "page": 6,
-   "page_id": "0052_a1",
-   "scan": "Oe_1_Bu_14526_0052_a1-L9_06.jpg",
-   "line": 2682,
-   "doc_line": 153
-  },
-  {
    "entity": "niedzwiecki",
    "display": "Maciej Niedźwiecki",
    "kind": "person",
@@ -579,17 +568,6 @@
    "scan": "Oe_1_Bu_14526_0055_a1-L9_12.jpg",
    "line": 2853,
    "doc_line": 318
-  },
-  {
-   "entity": "sommer",
-   "display": "Sommer",
-   "kind": "person",
-   "surface": "Sommer",
-   "page": 12,
-   "page_id": "0055_a1",
-   "scan": "Oe_1_Bu_14526_0055_a1-L9_12.jpg",
-   "line": 2865,
-   "doc_line": 330
   },
   {
    "entity": "august",

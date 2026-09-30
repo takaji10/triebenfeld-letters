@@ -123,7 +123,11 @@ def load_people():
                 slug = _slug(name)
                 if not slug or any(s == slug for s, _, _ in out):
                     continue
-                pat = re.escape(name) + r'(?:s|n|en|es|sche\w*|ische\w*)?'
+                # Ended at the word's end: without it "Stein" was found in
+                # Steinkohlen, "Sommer" in Sommerfeld, "August" in the colony
+                # Augustinow (19 false mentions, 2026-09-30).
+                pat = (re.escape(name) + r'(?:s|n|en|es|sche\w*|ische\w*)?'
+                       r'(?![a-zà-ÿ])')
                 out.append((slug, name, re.compile(_ANCHOR % pat, re.UNICODE)))
     return out
 

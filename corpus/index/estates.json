@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 130,
+  "count": 131,
   "documents": [
    "app5371057-1",
    "oe1bu14525-1",
@@ -133,13 +133,14 @@
    "oe1bu9454-72d",
    "oe1bu9454-72e",
    "oe1bu9454-73",
-   "oe1bu9454-89"
+   "oe1bu9454-89",
+   "oe1u199-1"
   ]
  },
  {
   "entity": "zagorowo",
   "display": "Zagórów (Zagorowo)",
-  "count": 78,
+  "count": 79,
   "documents": [
    "oe1bu14525-10",
    "oe1bu14525-11",
@@ -218,7 +219,8 @@
    "oe1bu9454-72f",
    "oe1bu9454-73",
    "oe1bu9454-74a",
-   "oe1bu9454-74b"
+   "oe1bu9454-74b",
+   "oe1u199-1"
   ]
  },
  {
@@ -301,7 +303,7 @@
  {
   "entity": "schlawenschitz",
   "display": "Sławięcice (Schlawenschitz)",
-  "count": 66,
+  "count": 67,
   "documents": [
    "oe1bu9454-1",
    "oe1bu9454-11",
@@ -368,13 +370,14 @@
    "oe1bu9454-6",
    "oe1bu9454-62",
    "oe1bu9454-74c",
-   "oe1bu9454-8"
+   "oe1bu9454-8",
+   "oe1u199-1"
   ]
  },
  {
   "entity": "lassowitz",
   "display": "Lasowice (Lassowitz)",
-  "count": 66,
+  "count": 67,
   "documents": [
    "oe1bu9454-1",
    "oe1bu9454-11",
@@ -441,7 +444,8 @@
    "oe1bu9454-6",
    "oe1bu9454-62",
    "oe1bu9454-74c",
-   "oe1bu9454-8"
+   "oe1bu9454-8",
+   "oe1u199-1"
   ]
  },
  {
@@ -520,7 +524,7 @@
  {
   "entity": "betsche",
   "display": "Pszczew (Betsche)",
-  "count": 60,
+  "count": 61,
   "documents": [
    "oe1bu14525-10",
    "oe1bu14525-11",
@@ -581,7 +585,8 @@
    "oe1bu9454-300",
    "oe1bu9454-301",
    "oe1bu9454-5",
-   "oe1bu9454-84"
+   "oe1bu9454-84",
+   "oe1u199-1"
   ]
  },
  {
@@ -716,6 +721,39 @@
   ]
  },
  {
+  "entity": "koschentin",
+  "display": "Koszęcin (Koschentin)",
+  "count": 26,
+  "documents": [
+   "oe1bu9454-13",
+   "oe1bu9454-131",
+   "oe1bu9454-136",
+   "oe1bu9454-137",
+   "oe1bu9454-189",
+   "oe1bu9454-192",
+   "oe1bu9454-2",
+   "oe1bu9454-204",
+   "oe1bu9454-205",
+   "oe1bu9454-218",
+   "oe1bu9454-220",
+   "oe1bu9454-221",
+   "oe1bu9454-222",
+   "oe1bu9454-223",
+   "oe1bu9454-235",
+   "oe1bu9454-242",
+   "oe1bu9454-246",
+   "oe1bu9454-25",
+   "oe1bu9454-254",
+   "oe1bu9454-264",
+   "oe1bu9454-267",
+   "oe1bu9454-280",
+   "oe1bu9454-62",
+   "oe1bu9454-64",
+   "oe1bu9454-65",
+   "oe1u199-1"
+  ]
+ },
+ {
   "entity": "szetlewek",
   "display": "Szetlewek",
   "count": 25,
@@ -745,38 +783,6 @@
    "oe1bu9454-24",
    "oe1bu9454-288",
    "oe1bu9454-31"
-  ]
- },
- {
-  "entity": "koschentin",
-  "display": "Koszęcin (Koschentin)",
-  "count": 25,
-  "documents": [
-   "oe1bu9454-13",
-   "oe1bu9454-131",
-   "oe1bu9454-136",
-   "oe1bu9454-137",
-   "oe1bu9454-189",
-   "oe1bu9454-192",
-   "oe1bu9454-2",
-   "oe1bu9454-204",
-   "oe1bu9454-205",
-   "oe1bu9454-218",
-   "oe1bu9454-220",
-   "oe1bu9454-221",
-   "oe1bu9454-222",
-   "oe1bu9454-223",
-   "oe1bu9454-235",
-   "oe1bu9454-242",
-   "oe1bu9454-246",
-   "oe1bu9454-25",
-   "oe1bu9454-254",
-   "oe1bu9454-264",
-   "oe1bu9454-267",
-   "oe1bu9454-280",
-   "oe1bu9454-62",
-   "oe1bu9454-64",
-   "oe1bu9454-65"
   ]
  },
  {
@@ -973,7 +979,7 @@
  {
   "entity": "wieniec",
   "display": "Wieniec (Wienietz)",
-  "count": 14,
+  "count": 15,
   "documents": [
    "oe1bu14525-10",
    "oe1bu14525-11",
@@ -988,7 +994,8 @@
    "oe1bu14525-9",
    "oe1bu9454-103",
    "oe1bu9454-136",
-   "oe1bu9454-286"
+   "oe1bu9454-286",
+   "oe1u199-1"
   ]
  },
  {
@@ -1256,6 +1263,19 @@
   ]
  },
  {
+  "entity": "batkowo",
+  "display": "Batkowo",
+  "count": 6,
+  "documents": [
+   "oe1bu14525-11",
+   "oe1bu14525-18",
+   "oe1bu14525-24",
+   "oe1bu14525-28",
+   "oe1bu14525-6",
+   "oe1u199-1"
+  ]
+ },
+ {
   "entity": "brzyce",
   "display": "Brzyce",
   "count": 5,
@@ -1277,18 +1297,6 @@
    "oe1bu14525-22",
    "oe1bu14525-8",
    "oe1bu14525-9"
-  ]
- },
- {
-  "entity": "batkowo",
-  "display": "Batkowo",
-  "count": 5,
-  "documents": [
-   "oe1bu14525-11",
-   "oe1bu14525-18",
-   "oe1bu14525-24",
-   "oe1bu14525-28",
-   "oe1bu14525-6"
   ]
  },
  {
@@ -1374,27 +1382,61 @@
   ]
  },
  {
-  "entity": "mollna",
-  "display": "Molna (Mollna)",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-64"
-  ]
- },
- {
   "entity": "boronow",
   "display": "Boronów (Boronow)",
-  "count": 1,
+  "count": 2,
   "documents": [
-   "oe1bu9454-264"
+   "oe1bu9454-264",
+   "oe1u199-1"
   ]
  },
  {
   "entity": "cieszowa",
   "display": "Cieszowa (Cieschowa)",
+  "count": 2,
+  "documents": [
+   "oe1bu9454-264",
+   "oe1u199-1"
+  ]
+ },
+ {
+  "entity": "olszyna",
+  "display": "Olszyna (Olschin)",
   "count": 1,
   "documents": [
-   "oe1bu9454-264"
+   "oe1u199-1"
+  ]
+ },
+ {
+  "entity": "bytkow",
+  "display": "Bytków (Byttkow)",
+  "count": 1,
+  "documents": [
+   "oe1u199-1"
+  ]
+ },
+ {
+  "entity": "birawa",
+  "display": "Birawa (Byrawa)",
+  "count": 1,
+  "documents": [
+   "oe1u199-1"
+  ]
+ },
+ {
+  "entity": "stara-kuznia",
+  "display": "Stara Kuźnia (Althammer)",
+  "count": 1,
+  "documents": [
+   "oe1u199-1"
+  ]
+ },
+ {
+  "entity": "mollna",
+  "display": "Molna (Mollna)",
+  "count": 1,
+  "documents": [
+   "oe1bu9454-64"
   ]
  },
  {

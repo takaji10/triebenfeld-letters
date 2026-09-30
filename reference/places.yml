@@ -175,6 +175,58 @@ places:
     tier: ""
     variants: ["Witow", "Wittow", "Witttow", "Wyttow", "Witowes"]
 
+  szczytniki:
+    # Scheitnig, the Prince's park and gardens by Breslau, made a public
+    # promenade in his will (Oe 1 U 199); now Park Szczytnicki, Wrocław.
+    # Added 2026-09-30.
+    display: "Szczytniki"
+    german: "Scheitnig"
+    kind: settlement
+    match: 'Scheit(?:nig|nich)(?![a-zà-ÿ])'
+    tier: "Established"
+    variants: ["Scheitnich"]
+
+  bytkow:
+    # Byttkow, the Silesian allodial estate the Prince made majorat and joined
+    # to the Sławięcice ironworks department (Oe 1 U 199). Added 2026-09-30.
+    display: "Bytków"
+    german: "Byttkow"
+    kind: estate
+    match: 'Byttkow\w*'
+    tier: "Context-inferred"
+    variants: []
+
+  birawa:
+    # Byrawa, with Sławięcice, Althammer and Lassowitz among the Prince's
+    # Silesian works estates (Oe 1 U 199). Added 2026-09-30.
+    display: "Birawa"
+    german: "Byrawa"
+    kind: estate
+    match: 'Byrawa\w*'
+    tier: "Context-inferred"
+    variants: []
+
+  stara-kuznia:
+    # Althammer by Sławięcice, one of the Prince's works estates (Oe 1 U 199).
+    # Not matched after "Klein": 9454's Klein Althammer may be another place.
+    # Added 2026-09-30.
+    display: "Stara Kuźnia"
+    german: "Althammer"
+    kind: estate
+    match: '(?<!Klein )Althammer\w*'
+    tier: "Context-inferred"
+    variants: []
+
+  olszyna:
+    # Olschin, one of the lordships bought with Koschentin (Oe 1 U 199).
+    # Added 2026-09-30.
+    display: "Olszyna"
+    german: "Olschin"
+    kind: estate
+    match: 'Olschin\w*'
+    tier: "Context-inferred"
+    variants: []
+
   mariantow:
     # Where the Hohenlohe patrimonial court for Trąbczyn sat: "Actum Marianton"
     # (app5371057, 1806). Mariantów in gmina Zagórów, powiat słupecki, the area
@@ -436,7 +488,7 @@ places:
     display: "Sławięcice"
     german: "Schlawenschitz"
     kind: village
-    match: 'Schlaw[ei]n[sz]ch?[iü]t?z\w*'
+    match: 'Schlaw[ei]n[sz]ch?[iü]t?z\w*|Schlawent?zi[sz]\w*'   # Schlawentziz, Schlawenzizer (Oe 1 U 199)
     tier: ""
     variants:
       - "Schlawenzitz"
@@ -717,7 +769,7 @@ places:
     kind: estate
     # NOT a stem: `Wien\w*` or `Win\w*` would take Wien, Winter and Winterung.
     # The exact forms plus the observed misspellings are the whole of it.
-    match: 'Wieniecz?\w*|Wienietz\w*|Wienitz|Winietz|Winieces'
+    match: 'Wieniecz?\w*|Wienietz\w*|Wienitz|Winietz|Winieces|Winiec\w*'   # Winiec (Oe 1 U 199; 9454 'Winiecer Forst')
     tier: "Context-inferred"
     variants: ["Wienietz", "Wienitz", "Winietz", "Winieces", "Winniec", "Winnica", "Winicer"]   # Winnica = Wieniec: editor, 2026-09-28
     # Wienietz and Wieniec are one place (merged 2026-09-28, editor's question). The
@@ -786,7 +838,7 @@ places:
   batkowo:
     display: "Batkowo"
     kind: village
-    match: 'B[ao]tkow\w*'
+    match: 'B[aoą]tkow\w*'
     tier: ""
     variants: []
     open_questions:
@@ -911,7 +963,7 @@ places:
     display: "Cieszowa"
     german: "Cieschowa"
     kind: estate
-    match: 'Cie(?:sch|sz)ow\w*'
+    match: 'Cie(?:sch|sz)ow\w*|Cz[iy]s(?:ch)?ow\w*'   # Czyschowa, Czischowa, Czysowa (Oe 1 U 199)
     tier: "Context-inferred"
     variants: []
     # Part of the Koschentin sale (9454 letter 264).

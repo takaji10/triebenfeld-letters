@@ -1,0 +1,40 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,4,break,high,short_line+column,0.28,19,69,Zehn Tausend Thaler,Wir Friedrich Wilhelm
+1,5,run,review,short_line,0.3,21,69,Wir Friedrich Wilhelm,"von Gottes Gnaden König von Preußen, Markgraf zu Bran¬"
+1,17,run,review,short_line,0.7,48,69,Urkunden und bekennen hiermit für Uns und Unsere,"Nachfolger in der Regierung, daß, nachdem der durchlauchtige"
+1,20,run,review,short_line,0.61,42,69,zu Hohenlohe-Ingelfingen Unser General der,"Infanterie, Gouverneur von Breslau, Inspecteur der Nieder¬"
+1,43,break,high,short_line,0.6,34,57,und Wohlgewogenheit Statt gegeben.,Als haben Wir den Uns alleruntertänigst überreicht
+1,50,break,high,short_line,0.56,32,57,"Wort zu Wort lautet, wie folget:","Abschriftlicher Auszug des Testamentes, welches Seiner Durch¬"
+1,54,break,high,rubric+short_line,0.3,17,57,niedergelegt hat.,§ XII.
+1,59,break,high,rubric,0.91,52,57,Majorat erheben werde. Ich erkläre daher zuvörderst:,1. Meine Häuser in Breslau und hinfolglich auch das im vo¬
+1,63,break,high,rubric+short_line,0.28,16,57,stehet und liegt,2. Meinen Parc und Gärten zu Scheitnig mit Einschluß so
+1,78,break,high,short_line,0.57,34,60,"Gewicht, soll sich nie vermindern.","Auch meine hiesige Bibliothec und Karten Kammer schlag,"
+1,83,break,high,short_line,0.52,31,60,"kann, Ihnen nicht vorenthalten.","Ich mache es auch, Meinem ältesten Sohne, und jedem"
+1,91,break,high,short_line+column,0.4,23,58,das Nachpflanzen der Ge,"tze sich empfohlen seyn zu laßen, und"
+1,92,run,review,short_line,0.64,37,58,"tze sich empfohlen seyn zu laßen, und",vor Allem die den dreien Königen von Preußen welchen
+1,101,break,high,short_line,0.34,20,58,desselben verlangen.,In dieser Hinsicht richte Ich auch hierdurch an das Breslauer
+1,106,break,high,short_line,0.4,23,58,und Aufsicht zu nehmen.,Mein Erbe wird an diese hohen Behörden einen abschriftlichen
+1,110,break,high,rubric+short_line,0.5,29,58,befördern und gelangen laßen.,§ XIII.
+1,126,break,high,rubric+short_line,0.57,33,58,Oeconomie vorzüglich nützen kann.,§ XIV
+1,159,break,high,rubric+short_line,0.3,16,53,fonds begründet.,§ XV
+1,164,break,high,rubric+short_line,0.6,32,53,"und Trąbczyn, Bątkowo und Winiec",§. XXIV.
+1,180,break,high,rubric,0.79,33,42,"ausgegangen seyn sollte, alsdann:","1. Die Güter Schlawentziz, Byrawa, Altham-"
+1,187,break,high,rubric+short_line,0.52,22,42,tigen Descendentschaft,"II. Die sämtlichen Sächsischen Güter, so wie die"
+1,194,break,high,rubric+short_line,0.46,18,39,Descendent schaft.,III. Die sämtlichen Südpreußischen Güter Mei-
+1,197,break,high,rubric+short_line,0.69,27,39,künftigen Descendentschaft.,IV. Meine Häuser in Breslau und Parc in
+1,202,break,high,short_line,0.18,7,39,allein.,"zufallen, und zugeeignet werden sollen."
+1,206,break,high,short_line,0.59,23,39,ist oben schon verfügt.,"Alles übrige was hier nicht erwähnt ist, wird in"
+1,210,run,review,short_line,0.62,24,39,"Prinzen, freyes Allodium",Mit jenen Zutheilungen aber soll es folgen
+1,212,break,high,rubric+short_line,0.72,28,39,der gestalt gehalten werden.,I. Lebte eine Meiner drey Prinzessin noch
+1,225,break,high,rubric+short_line,0.42,18,43,es freyes Allodium,II. Eben so wird es gehalten wenn Meine leib-
+1,228,run,review,short_line,0.67,29,43,gang Meines Mannsstammes. Ihr,Anteil fällt als dann gleich auf den Erstge-
+1,233,break,high,rubric+short_line,0.14,6,43,dacht.,III. Ist bey dem Ausgang Meines Manns
+1,256,break,high,salutation,0.76,41,54,Fidem publicam beglaubigt und attestiret.,So geschehen Breslau d 7ten October im Jahre 1805.
+1,258,break,high,short_line+column,0.13,7,54,(L. S.),Richter
+1,259,break,high,short_line+column,0.13,7,54,Richter,Königl. Gouvernements Audi-
+1,261,break,high,short_line,0.22,12,54,teur alhier.,nach seinem ganzen Innhalte und der darin̄ nach dem Rech¬
+1,270,break,high,rubric,1.06,57,54,und der Fürstin mit Rücksicht auf die Cabinets ordres vom,"27. September und 25 October 1804, obliegen, auch sonst jedermann"
+1,291,break,high,short_line,0.71,34,48,"milien, Majorats und Fideicommiss.",Instituti ruhig und unbekümmert laßen
+1,302,break,high,short_line+column,0.41,17,41,Friedrich Wilhelm,Landesherrliche Confirmation
+1,303,run,review,short_line,0.68,28,41,Landesherrliche Confirmation,des von dem regierenden Fürsten Friedrich
+1,308,break,high,short_line+column,0.37,15,41,Fideicommissi -,Rech

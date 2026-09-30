@@ -85,17 +85,6 @@
  ],
  "mentions": [
   {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 1,
-   "page_id": "0447_b",
-   "scan": "Oe_1_Bu_9454_0447_b-L239_01.jpg",
-   "line": 17405,
-   "doc_line": 6
-  },
-  {
    "entity": "bulow",
    "display": "Bülow",
    "kind": "person",
