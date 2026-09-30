@@ -58,3 +58,6 @@ None recorded.
   review/oe1u199/unresolved.md.
 - English summary translated by hand from the checked German one. Published
   from v2.
+- The King's title (2026-09-30): the five words the 1797 witness could not
+  settle were read by the editor on the scan: Hildesheim, Eichsfeld,
+  Quedlinburg, Elten, and [W?]erden (first letter unsure).

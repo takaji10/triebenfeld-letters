@@ -1,7 +1,7 @@
 ﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
 1,1,5,6,¬,Bran,denburg,Brandenburg,join,high,"joined form attested in DWDS (1,479,963 hits)",False,0,1479963,0,,1,,"naden König von Preußen, Markgraf zu Bran¬ || denburg, des heiligen Römischen Reichs Erz"
 1,1,6,7,¬,sou,verainer,souverainer,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,hen Reichs Erzkämmerer und Churfürst; sou¬ || verainer und Oberster Herzog von Schlesien
-1,1,11,12,¬,Wen,den,Wenden,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,21,,"Halberstadt, Münster, Minden, Cammin, Wen¬ || den Schwerin, Ratzeburg, Ostfriesland, Lüb"
+1,1,11,12,¬,Wen,den,Wenden,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,21,,"Halberstadt, Münster, Minden, Cammin, Wen¬ || den Schwerin, Ratzeburg, Ostfriesland, Eic"
 1,1,13,14,-,Hohen,stein,Hohenstein,join,high,"joined form attested in DWDS (42,532 hits)",False,0,42532,2,,1,,"lern, Ruppin, der Mark, Ravensberg, Hohen- || stein, Tecklenburg, Schwerin, Lingen, Bühr"
 1,1,20,21,¬,Nieder,Schlesischen,NiederSchlesischen,split,high,joined form unattested; both halves are real words,False,0,0,0,745696,3,2604,"erneur von Breslau, Inspecteur der Nieder¬ || Schlesischen und Fränkischen Infanterie, I"
 1,2,29,30,¬,Schlesi,sche,Schlesische,join,high,"joined form attested in DWDS (74,732 hits)",False,0,74732,0,,1,,"Gut Byttkow, die von ihm erkaufte Schlesi¬ || sche Herrschaft Koschentin nebst den damit"
