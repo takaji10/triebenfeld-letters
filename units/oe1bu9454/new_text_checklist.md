@@ -11,11 +11,16 @@ reason) into the sheet `apply_transcription_fixes.py --apply` applies and logs.
 
 ## 1. Insert
 
-- The sideways text is the letter continuing where the writer ran out of room.
-  It is not a marginal note, so it gets no marker.
-- Insert it as ordinary lines in reading order: normally right after the last line
-  of the page it is written on, under that `[PAGE ...]`. If the sense shows it
-  belongs elsewhere (a postscript after the closing), put it there and say so.
+- Sideways text stays on the page it is written on (editor, 2026-09-30), so a
+  reader sees it beside its scan. Insert it as ordinary lines under that
+  `[PAGE ...]`, after the page's last line. Where the page ends mid-sentence,
+  put it at the last paragraph end on that page instead, so no sentence is split.
+- Record every block in `sideways.yml` (letter, page, exact first line, number
+  of lines). The site sets these lines apart under "Written sideways on the
+  page", the reading view gives them their own paragraph, and the text exports
+  say which lines they are. No marker goes into `corpus.txt` itself. If a fix
+  later changes a block's first line, change it in `sideways.yml` too:
+  `build_db.py` stops if it cannot find a block.
 - Ask which page only when the letter has several pages and the sense doesn't
   decide it. Scans are listed in `page_scan_map.csv`.
 - Keep the editor's line breaks. Before inserting, note each affected letter's

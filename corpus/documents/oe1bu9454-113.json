@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 8615,
- "line_end": 8653,
+ "line_start": 8646,
+ "line_end": 8684,
  "uncertainty_count": 2,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0229_b",
-   "line_start": 8617,
-   "line_end": 8637,
+   "line_start": 8648,
+   "line_end": 8668,
    "n_lines": 21,
    "diplomatic": "113\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 rt alles abgemacht sey, und daß ich keinen\nVerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 rt zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kre[?]\nbe ich noch — der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verlieren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein",
    "transcription": "113\nDurchlauchtigſter Fürſt\nGnädigster Herr!\nEwr Hochfürstliche Durchlaucht haben die Gnade gehabt, nur\nzu verſichern, daß mit dem Asch und Gad in Betreff\nder 11000 rt alles abgemacht sey, und daß ich keinen\nVerdrus davon haben ſolle.\nEw. Hochfürstliche Durchlaucht danke ich für diese Gnädige\nZusicherung unterthänigst.\nIndes bemerke ich nur daß der Arrest in dieser Sache\nwieder mich hier liegt, und daß man hier die Orten\nhergegeben, daß wann Ewr Hochfürstliche Durchlaucht\nnicht die versprochene 4000 rt zahlen würden\nman mir sofort arretiren solle.\nIch weis vor Angst nicht was ich thun soll. Elend kre[?]\nbe ich noch — der Prinz George erklärt sich über nichts\nund schleppt meine Sache auf der langen Bahn fort\nIch risquire hier noch Ehre Freyheit um das Leben\nzu verlieren.\nHabe Ewr Hochfürstliche Durchlaucht doch nur die\neinzige Gnade und leit die Sache dort, so ein",
@@ -54,6 +54,8 @@
     "Ich weis vor Angst nicht was ich thun soll. Elend kre[?] be ich noch — der Prinz George erklärt sich über nichts und schleppt meine Sache auf der langen Bahn fort Ich risquire hier noch Ehre Freyheit um das Leben zu verlieren.",
     "Habe Ewr Hochfürstliche Durchlaucht doch nur die einzige Gnade und leit die Sache dort, so ein"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
@@ -63,8 +65,8 @@
   {
    "page": 2,
    "page_id": "0230_a1",
-   "line_start": 8639,
-   "line_end": 8653,
+   "line_start": 8670,
+   "line_end": 8684,
    "n_lines": 15,
    "diplomatic": "daß mich der Gad[?] nicht antastet um hier arctiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildeganst läßt mich sagen, daß der Asch und Gad\nbis Johanni warten würden — aber daz wäre keine\nRettung für mich —\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIn tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
    "transcription": "daß mich der Gad[?] nicht antastet um hier arctiren läßt.\nich hatte ja den Tod auf der Stelle.\nWildeganst läßt mich sagen, daß der Asch und Gad\nbis Johanni warten würden — aber daz wäre keine\nRettung für mich —\nIch bitte Ewr Durchlaucht um alles was heilig ist\nlaßen Sie doch die Sache durch die 4000 rthl aufs reine\nbringen. Hilft nur Gott um habe ich wieder Creditoren\nso will ich ja gern Vermögen und Seeligkeit gebe,\nIn tiefſter Hochachtung erſterbe.\nEwr Hochfürstliche Durchlaucht\nBerlin den 23ten May\n1801\ntreu unterthänigster Diener.\nv Triebenfeld",
@@ -75,6 +77,8 @@
     "treu unterthänigster Diener.",
     "v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
@@ -91,7 +95,7 @@
    "page": 1,
    "page_id": "0229_b",
    "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
-   "line": 8621,
+   "line": 8652,
    "doc_line": 5
   },
   {
@@ -102,7 +106,7 @@
    "page": 1,
    "page_id": "0229_b",
    "scan": "Oe_1_Bu_9454_0229_b-L113_01.jpg",
-   "line": 8632,
+   "line": 8663,
    "doc_line": 16
   },
   {
@@ -113,7 +117,7 @@
    "page": 2,
    "page_id": "0230_a1",
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "line": 8641,
+   "line": 8672,
    "doc_line": 24
   },
   {
@@ -124,7 +128,7 @@
    "page": 2,
    "page_id": "0230_a1",
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "line": 8653,
+   "line": 8684,
    "doc_line": 36
   }
  ],
@@ -139,7 +143,7 @@
    "page": 2,
    "page_id": "0230_a1",
    "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
-   "line": 8650,
+   "line": 8681,
    "doc_line": 33
   }
  ],

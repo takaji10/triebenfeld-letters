@@ -20,8 +20,8 @@
  "place": "Breslau",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 14768,
- "line_end": 14783,
+ "line_start": 14820,
+ "line_end": 14835,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0391_b",
-   "line_start": 14770,
-   "line_end": 14783,
+   "line_start": 14822,
+   "line_end": 14835,
    "n_lines": 14,
    "diplomatic": "209\nDurchlauchtigster Fürst\ngnädigster Fürst und Herr\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich muß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nBreslau\n16ten 8br.\n1810.\nunterthänigster Diener\nv Triebenfeld",
    "transcription": "209\nDurchlauchtigster Fürst\ngnädigster Fürst und Herr\nDie Anweisung ist eingegangen das Geld werde ich erheben und sofort\nabreisen. Von Zagorowo aus melde ich Ewr Durchlaucht sogleich alles\ndurch einen reitenden Bothen der den H. v. Knobelsdorff dorthin bringen\nsoll. Die Post will fort ich muß schließen.\nIn tiefsten Respect verharren\nEwr Hochfürstliche Durchlaucht\nBreslau\n16ten 8br.\n1810.\nunterthänigster Diener\nv Triebenfeld",
@@ -52,6 +52,8 @@
     "1810.",
     "unterthänigster Diener v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
@@ -68,7 +70,7 @@
    "page": 1,
    "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14775,
+   "line": 14827,
    "doc_line": 6
   },
   {
@@ -79,7 +81,7 @@
    "page": 1,
    "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14783,
+   "line": 14835,
    "doc_line": 14
   }
  ],
@@ -94,7 +96,7 @@
    "page": 1,
    "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14774,
+   "line": 14826,
    "doc_line": 5
   },
   {
@@ -105,7 +107,7 @@
    "page": 1,
    "page_id": "0391_b",
    "scan": "Oe_1_Bu_9454_0391_b-L209_01.jpg",
-   "line": 14779,
+   "line": 14831,
    "doc_line": 10
   }
  ],

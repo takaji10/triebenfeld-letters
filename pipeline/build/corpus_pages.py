@@ -57,6 +57,36 @@ def load_decisions(path=None):
 PAGE_TAG = re.compile(r'^\[PAGE ([^\]\s][^\]]*)\]$')
 
 
+def load_sideways(path, lines, bounds):
+    """Absolute line numbers of text written sideways on the page.
+
+    units/<slug>/sideways.yml names each block by its letter, its first line
+    (exactly as it stands in corpus.txt) and its length. The text itself is
+    ordinary corpus text; this only says which lines were written sideways, so
+    the site can set them apart rather than let them read as if they ran on in
+    order. Keyed by text rather than line number, so edits elsewhere in the
+    corpus do not move it. A block that cannot be found stops the build: a
+    silent miss would publish the text unmarked.
+    """
+    out = set()
+    if not path or not os.path.isfile(path):
+        return out
+    import yaml
+    for b in (yaml.safe_load(open(path, encoding='utf-8')) or {}).get('blocks') or []:
+        s, e = bounds[str(b['letter'])]
+        hits = [j for j in range(s + 1, e + 1) if lines[j - 1] == b['first']]
+        if len(hits) != 1:
+            sys.exit(f'sideways.yml: letter {b["letter"]}: first line found '
+                     f'{len(hits)} times: {b["first"]!r}')
+        block = range(hits[0], hits[0] + int(b['lines']))
+        if block[-1] > e or any(not lines[j - 1].strip() or PAGE_TAG.match(lines[j - 1].strip())
+                                for j in block):
+            sys.exit(f'sideways.yml: letter {b["letter"]}: block of {b["lines"]} lines '
+                     f'runs past a page or document end: {b["first"]!r}')
+        out.update(block)
+    return out
+
+
 def split_pages(body):
     """
     body: [(abs_line_no, text)] for one document, blanks and markers included.
@@ -133,7 +163,8 @@ def page_transcription(page, letter_id, decisions):
     return '\n'.join(out)
 
 
-def page_reading(page, letter_id, decisions, is_register=False, paras=None):
+def page_reading(page, letter_id, decisions, is_register=False, paras=None,
+                 sideways=None, flags=None):
     """
     Flow one page's lines into readable text, applying the wrap decisions.
 
@@ -145,7 +176,15 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None):
     from the previous page starts a new entry here. build_pages records that
     with continues_previous / continues_next, and the site renders such a
     paragraph without an indent so the false break does not show.
+
+    Lines in `sideways` (text written sideways on the page) always make
+    paragraphs of their own, so they never merge with the text around them;
+    `flags`, where given, receives one bool per returned paragraph saying
+    whether it is sideways text.
     """
+    sideways = sideways or set()
+    if flags is None:
+        flags = []
     if is_register:
         # Tabular: one entry per line. Flowing it would destroy the table. A
         # catchword is still the scribe's note of the page overleaf rather than
@@ -161,11 +200,13 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None):
                 if hits:
                     s = s[:hits[-1].start()].rstrip()
             rows.append(s)
+        flags.append(False)
         return ['\n'.join(rows)]
 
     paras = paras or set()
     out = []
     buf = ''
+    buf_side = False           # the paragraph in `buf` is sideways text
     join_next = False          # this line ended mid-word: append with no space
 
     for lineno, text in page:
@@ -197,12 +238,15 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None):
         # A recorded paragraph break starts a new one - but never in the middle
         # of a word carried over the line end, which would put half a word in
         # one paragraph and half in the next.
-        if buf and not join_next and lineno in paras:
+        side = lineno in sideways
+        if buf and not join_next and (lineno in paras or side != buf_side):
             out.append(re.sub(r'[ \t]+', ' ', buf).strip())
+            flags.append(buf_side)
             buf = ''
 
         if not buf:
             buf = s
+            buf_side = side
         elif join_next:
             buf += s
         elif s:
@@ -212,10 +256,12 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None):
 
     if buf.strip():
         out.append(re.sub(r'[ \t]+', ' ', buf).strip())
+        flags.append(buf_side)
     return out
 
 
-def build_pages(body, letter_id, decisions, is_register=False, paras=None):
+def build_pages(body, letter_id, decisions, is_register=False, paras=None,
+                sideways=None):
     """
     Returns a list of page dicts:
       page, page_id, line_start, line_end, n_lines, diplomatic, reading,
@@ -227,8 +273,11 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None):
     """
     out = []
     pages = split_pages(body)
+    sideways = sideways or set()
     for i, (page_id, page) in enumerate(pages, 1):
-        paragraphs = page_reading(page, letter_id, decisions, is_register, paras)
+        flags = []
+        paragraphs = page_reading(page, letter_id, decisions, is_register, paras,
+                                  sideways, flags)
         # A paragraph runs on across a page break unless the first line of this
         # page was itself ruled a paragraph start. The reading text still never
         # crosses the break - the flag only tells the reader that it did.
@@ -252,6 +301,11 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None):
             'transcription': page_transcription(page, letter_id, decisions),
             'reading': '\n\n'.join(paragraphs),
             'paragraphs': paragraphs,
+            # Text written sideways on the page (sideways.yml): which of this
+            # page's lines (0-based) and which of its paragraphs. Empty for
+            # almost every page.
+            'sideways_lines': [k for k, (ln, _) in enumerate(page) if ln in sideways],
+            'sideways_paragraphs': [k for k, f in enumerate(flags) if f],
             'continues_previous': cont_prev,
             'continues_next': cont_next,
             'scan': '',

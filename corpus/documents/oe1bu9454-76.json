@@ -20,8 +20,8 @@
  "place": "Breslau",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 6299,
- "line_end": 6317,
+ "line_start": 6323,
+ "line_end": 6341,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -41,8 +41,8 @@
   {
    "page": 1,
    "page_id": "0161_b",
-   "line_start": 6301,
-   "line_end": 6317,
+   "line_start": 6325,
+   "line_end": 6341,
    "n_lines": 17,
    "diplomatic": "76\nDurchlauchtigster Fürst\nGnädigster Herr!\nDer gewiße Güter Tausch ist jezt im Gange und vieleicht\nist die Sache in Kurzen aufs Reine. Ich gehn\nAnfangs Septembr nach Berlin, und bleibe bis Ende deßelben\nMonats dörfen. Das vorzüglichste Glück welches\nich in Berlin, theilhaftig zu werden hoffe ist Ewr Hoch¬\nFürstliche Durchlaucht Gesund wiederzusehen und mich Hoch¬\ndenenselben Persöhnlich zu Füßen legen zu können, wo¬\nbey ich den, den treueſten Bericht vom mehreren Geſchäften\nabſtatten werde.\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau den 23ten Aug. 1798.\ntreu unterthänigster Diener\nv Triebenfeld",
    "transcription": "76\nDurchlauchtigster Fürst\nGnädigster Herr!\nDer gewiße Güter Tausch ist jezt im Gange und vieleicht\nist die Sache in Kurzen aufs Reine. Ich gehn\nAnfangs Septembr nach Berlin, und bleibe bis Ende deßelben\nMonats dörfen. Das vorzüglichste Glück welches\nich in Berlin, theilhaftig zu werden hoffe ist Ewr Hoch-\nFürstliche Durchlaucht Gesund wiederzusehen und mich Hoch-\ndenenselben Persöhnlich zu Füßen legen zu können, wo-\nbey ich den, den treueſten Bericht vom mehreren Geſchäften\nabſtatten werde.\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nBreslau den 23ten Aug. 1798.\ntreu unterthänigster Diener\nv Triebenfeld",
@@ -54,6 +54,8 @@
     "Der gewiße Güter Tausch ist jezt im Gange und vieleicht ist die Sache in Kurzen aufs Reine. Ich gehn Anfangs Septembr nach Berlin, und bleibe bis Ende deßelben Monats dörfen. Das vorzüglichste Glück welches ich in Berlin, theilhaftig zu werden hoffe ist Ewr HochFürstliche Durchlaucht Gesund wiederzusehen und mich Hochdenenselben Persöhnlich zu Füßen legen zu können, wobey ich den, den treueſten Bericht vom mehreren Geſchäften abſtatten werde.",
     "In tiefster Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht Breslau den 23ten Aug. 1798. treu unterthänigster Diener v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0161_b-L76_01.jpg",
@@ -70,7 +72,7 @@
    "page": 1,
    "page_id": "0161_b",
    "scan": "Oe_1_Bu_9454_0161_b-L76_01.jpg",
-   "line": 6317,
+   "line": 6341,
    "doc_line": 17
   }
  ],
@@ -85,7 +87,7 @@
    "page": 1,
    "page_id": "0161_b",
    "scan": "Oe_1_Bu_9454_0161_b-L76_01.jpg",
-   "line": 6306,
+   "line": 6330,
    "doc_line": 6
   },
   {
@@ -96,7 +98,7 @@
    "page": 1,
    "page_id": "0161_b",
    "scan": "Oe_1_Bu_9454_0161_b-L76_01.jpg",
-   "line": 6308,
+   "line": 6332,
    "doc_line": 8
   },
   {
@@ -107,7 +109,7 @@
    "page": 1,
    "page_id": "0161_b",
    "scan": "Oe_1_Bu_9454_0161_b-L76_01.jpg",
-   "line": 6315,
+   "line": 6339,
    "doc_line": 15
   }
  ],

@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "Beyme",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 7273,
- "line_end": 7304,
+ "line_start": 7302,
+ "line_end": 7333,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -41,8 +41,8 @@
   {
    "page": 1,
    "page_id": "0190_a",
-   "line_start": 7275,
-   "line_end": 7292,
+   "line_start": 7304,
+   "line_end": 7321,
    "n_lines": 18,
    "diplomatic": "91\nDurchläuchtigſter Fürſt.\nGnädigster Herr.\nEw Hochfürstlichen Durchlaucht danke ich\nunterthänigst, für die Aufschluße, die\nHöchstdieselben in der Güther-Vertauschungs\nAngelegenheit nur zu ertheilen geruhet\nhaben. Dabey ist es mir eine unendliche\nFreude, daß Sr. Majestät die angetragenen\nweitere Untersuchung verfügt haben,\nund versicher ich unterthänigst, daß ich im\nweitern Verfolg dieser Angelegenheit\nmeine Pflichten eben so gewißenhaft als\nbisher beobachten, also auch keinen Auswegen\nunbringt laßen werde, der die Wünsche\nEw Hochfürstlichen Durchlaucht, die Geneigs\nheit meines Herrn ihnen entgegen zu\nkommen und des Interesse des Staats mit",
    "transcription": "91\nDurchläuchtigſter Fürſt.\nGnädigster Herr.\nEw Hochfürstlichen Durchlaucht danke ich\nunterthänigst, für die Aufschluße, die\nHöchstdieselben in der Güther-Vertauschungs\nAngelegenheit nur zu ertheilen geruhet\nhaben. Dabey ist es mir eine unendliche\nFreude, daß Sr. Majestät die angetragenen\nweitere Untersuchung verfügt haben,\nund versicher ich unterthänigst, daß ich im\nweitern Verfolg dieser Angelegenheit\nmeine Pflichten eben so gewißenhaft als\nbisher beobachten, also auch keinen Auswegen\nunbringt laßen werde, der die Wünsche\nEw Hochfürstlichen Durchlaucht, die Geneigs\nheit meines Herrn ihnen entgegen zu\nkommen und des Interesse des Staats mit",
@@ -53,6 +53,8 @@
     "Gnädigster Herr.",
     "Ew Hochfürstlichen Durchlaucht danke ich unterthänigst, für die Aufschluße, die Höchstdieselben in der Güther-Vertauschungs Angelegenheit nur zu ertheilen geruhet haben. Dabey ist es mir eine unendliche Freude, daß Sr. Majestät die angetragenen weitere Untersuchung verfügt haben, und versicher ich unterthänigst, daß ich im weitern Verfolg dieser Angelegenheit meine Pflichten eben so gewißenhaft als bisher beobachten, also auch keinen Auswegen unbringt laßen werde, der die Wünsche Ew Hochfürstlichen Durchlaucht, die Geneigs heit meines Herrn ihnen entgegen zu kommen und des Interesse des Staats mit"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0190_a-L91_01.jpg",
@@ -62,8 +64,8 @@
   {
    "page": 2,
    "page_id": "0191_a1",
-   "line_start": 7294,
-   "line_end": 7304,
+   "line_start": 7323,
+   "line_end": 7333,
    "n_lines": 11,
    "diplomatic": "einander zu vereinigen im Stande\nseyn wird. Dieser Versicherung füge\nich die Betheuerung der unbegrenz¬\ntesten Ehrerbietigkeit hinzu, womit\nich lebenslang verharre\nEw Hochfürstlichen Durchlaucht\nBerlin\nden 17ten Xbr.\n1798.\nunterthänigster Diener\nBeyme",
    "transcription": "einander zu vereinigen im Stande\nseyn wird. Dieser Versicherung füge\nich die Betheuerung der unbegrenz-\ntesten Ehrerbietigkeit hinzu, womit\nich lebenslang verharre\nEw Hochfürstlichen Durchlaucht\nBerlin\nden 17ten Xbr.\n1798.\nunterthänigster Diener\nBeyme",
@@ -74,6 +76,8 @@
     "1798.",
     "unterthänigster Diener Beyme"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0191_a1-L91_02.jpg",
@@ -90,7 +94,7 @@
    "page": 2,
    "page_id": "0191_a1",
    "scan": "Oe_1_Bu_9454_0191_a1-L91_02.jpg",
-   "line": 7304,
+   "line": 7333,
    "doc_line": 29
   }
  ],
@@ -105,7 +109,7 @@
    "page": 2,
    "page_id": "0191_a1",
    "scan": "Oe_1_Bu_9454_0191_a1-L91_02.jpg",
-   "line": 7300,
+   "line": 7329,
    "doc_line": 25
   }
  ],

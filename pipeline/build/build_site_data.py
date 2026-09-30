@@ -455,10 +455,24 @@ def main():
                 # Numbered from 1 in each document, contiguously. The unit-absolute
                 # line is internal and is not published; corpus/index/ carries the
                 # mapping for anyone who needs to resolve a citation.
-                body.append('<ol class="dip" start="' + str(p['doc_line_start']) + '">')
-                for ln in p.get('transcription', p['diplomatic']).split('\n'):
+                # Text written sideways on the page gets a list of its own under
+                # a label, so it does not read as if it ran on in order. The
+                # numbering carries straight through; the lists stay
+                # <ol class="dip"> so verify_site reads every line back.
+                side = set(p.get('sideways_lines') or [])
+                _lines = p.get('transcription', p['diplomatic']).split('\n')
+                _run = None
+                for k, ln in enumerate(_lines):
+                    if (k in side) != _run:
+                        if _run is not None:
+                            body.append('</ol>' + ('</div>' if _run else ''))
+                        _run = k in side
+                        if _run:
+                            body.append('<div class="sideways"><div class="sideways-note" data-i18n="sideways">'
+                                        'Written sideways on the page</div>')
+                        body.append('<ol class="dip" start="' + str(p['doc_line_start'] + k) + '">')
                     body.append('<li>' + html.escape(ln) + '</li>')
-                body.append('</ol>')
+                body.append('</ol>' + ('</div>' if _run else ''))
             body.append('</div>')
             # view 2 - reading
             body.append('<div class="text-view" data-view="reading" hidden>')
@@ -473,12 +487,18 @@ def main():
                 # page break, so it would otherwise look like a fresh paragraph
                 # every time a page turns. The style drops the indent there.
                 paras = p.get('paragraphs') or [p['reading']]
+                side = set(p.get('sideways_paragraphs') or [])
                 for _i, _para in enumerate(paras):
                     if not _para.strip():
                         continue
                     _cls = ' class="runs-on"' if (_i == 0
                                                   and p.get('continues_previous')) else ''
-                    body.append(f'<p{_cls}>' + html.escape(_para) + '</p>')
+                    if _i in side:
+                        body.append('<div class="sideways"><div class="sideways-note" data-i18n="sideways">'
+                                    'Written sideways on the page</div>'
+                                    '<p>' + html.escape(_para) + '</p></div>')
+                    else:
+                        body.append(f'<p{_cls}>' + html.escape(_para) + '</p>')
             body.append('</div>')
             # view 3 - translation, filled in from _data/translations later
             body.append(f'<div class="text-view" data-view="translation" hidden '

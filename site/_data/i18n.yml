@@ -136,6 +136,7 @@ en:
   missing_notice: >-
     This number is missing or skipped in the archive. No text survives under it.
   page_untranslated: This page has not been translated yet.
+  sideways: Written sideways on the page
   place: Place
   extent: Extent
   lines: lines
@@ -371,6 +372,7 @@ de:
   missing_notice: >-
     Diese Nummer fehlt im Archiv oder wurde übersprungen. Darunter ist kein Text überliefert.
   page_untranslated: Diese Seite ist noch nicht übersetzt.
+  sideways: Quer auf die Seite geschrieben
   place: Ort
   extent: Umfang
   lines: Zeilen

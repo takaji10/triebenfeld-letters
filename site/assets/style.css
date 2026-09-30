@@ -296,6 +296,14 @@ ol.dip li::marker {
 .text-view[data-view="reading"] p + p { margin-top: 0; text-indent: 1.4em; }
 .text-view[data-view="reading"] p.runs-on { text-indent: 0; }
 
+/* Text written sideways on the page (units/<slug>/sideways.yml): set apart
+   under a label so it does not read as if it ran on in order with the lines
+   around it. The line numbering carries straight through. */
+.sideways { border-left: 3px solid var(--rule); padding-left: .8em; margin: .6em 0; }
+.sideways-note { font-family: var(--sans); font-size: .8em; font-style: italic; color: var(--ink-soft); }
+.sideways ol.dip { margin-top: .2em; margin-bottom: 0; }
+.text-view[data-view="reading"] .sideways p { text-indent: 0; margin-top: .2em; }
+
 /* A document laid out as a table (a register of creditors): entry number,
    name, then amounts grouped by currency. Scrolls sideways on its own rather
    than widening the page. */

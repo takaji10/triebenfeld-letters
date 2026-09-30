@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 6164,
- "line_end": 6179,
+ "line_start": 6188,
+ "line_end": 6203,
  "uncertainty_count": 1,
  "has_damage": 1,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0156_a2",
-   "line_start": 6166,
-   "line_end": 6179,
+   "line_start": 6190,
+   "line_end": 6203,
    "n_lines": 14,
    "diplomatic": "P[ro]. M[emoria].\nEs ist nöthig daß in Zagorowo ein Ober Förster angestellt\nwird — ich hatte den alten Richter seinen Sohn, und bey der Bra[...]\nmeine Brennerey der Nageln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat — Es ist also wie vorge\nsagt ein Ober Förster nöthig —\nwollen Ewr Durchlaucht den armen Radszewski helfen so\ngeruhen Sie ihm schnell herzuschicken — Mitt 300 rt jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft —\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radszewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tausch\nder Güter mit\nv Triebenfeld",
    "transcription": "P[ro]. M[emoria].\nEs ist nöthig daß in Zagorowo ein Ober Förster angestellt\nwird — ich hatte den alten Richter seinen Sohn, und bey der Bra[...]\nmeine Brennerey der Nageln ihren Neveu als Propinations Beamten\nbestimmt, der Richter muß aber jezt das leztere verwalten, weil\ndie Nageln ihren Neveu abgerufen hat — Es ist also wie vorge\nsagt ein Ober Förster nöthig —\nwollen Ewr Durchlaucht den armen Radszewski helfen so\ngeruhen Sie ihm schnell herzuschicken — Mitt 300 rt jährl. muß\ner zu frieden ſein bis der Himmel weiter hilft —\nGenehmigen Sie gnädigster Herr dies, so senden Sie Radszewski\neiligst und schicken mir gleich Ihre Meinung wegen den Tausch\nder Güter mit\nv Triebenfeld",
@@ -51,6 +51,8 @@
     "Es ist nöthig daß in Zagorowo ein Ober Förster angestellt wird — ich hatte den alten Richter seinen Sohn, und bey der Bra[...] meine Brennerey der Nageln ihren Neveu als Propinations Beamten bestimmt, der Richter muß aber jezt das leztere verwalten, weil die Nageln ihren Neveu abgerufen hat — Es ist also wie vorge sagt ein Ober Förster nöthig — wollen Ewr Durchlaucht den armen Radszewski helfen so geruhen Sie ihm schnell herzuschicken — Mitt 300 rt jährl. muß er zu frieden ſein bis der Himmel weiter hilft — Genehmigen Sie gnädigster Herr dies, so senden Sie Radszewski eiligst und schicken mir gleich Ihre Meinung wegen den Tausch der Güter mit",
     "v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg",
@@ -67,7 +69,7 @@
    "page": 1,
    "page_id": "0156_a2",
    "scan": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg",
-   "line": 6179,
+   "line": 6203,
    "doc_line": 14
   }
  ],
@@ -82,7 +84,7 @@
    "page": 1,
    "page_id": "0156_a2",
    "scan": "Oe_1_Bu_9454_0156_a2-L74b_01.jpg",
-   "line": 6167,
+   "line": 6191,
    "doc_line": 2
   }
  ],

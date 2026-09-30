@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 8536,
- "line_end": 8560,
+ "line_start": 8567,
+ "line_end": 8591,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0227_a",
-   "line_start": 8538,
-   "line_end": 8560,
+   "line_start": 8569,
+   "line_end": 8591,
    "n_lines": 23,
    "diplomatic": "111\nDurchlauchtigster Fürst\nGnädigster Herr!\nIch habe das Geld zur Auslösung der Urkunde nicht aufbringen\nkönnen, den Wildegansct verdirbt mir hier allen Credit —\nDrey hundert Rtrl habe ich an den Freund der die Sache\ngemacht, als Angeld gegeben — mehr kan ich von mein\nReise Geld nicht mißen sonsten bleibe ich hier sizzen.\nIst es Ewr Hochfürstliche Durchlaucht möglich so geruhen\nHochstdieselben nur eine Anweisung auf die 240 f. d'or um\n200 Rt Courant zu schicken, damit ich die Urkunde auslösen\nkan. Es könte sonsten ein böser Streich paßiren —\nDie Herrn Ob. v K[öckritz]. und v. Z[astrow]. sind gewis Ewr Durchlaucht\nwahren Freunde, ich bin auch gewis daß alles sehr gut\nwerden wird. Indes ist das Geklätsche hier jezt so\narg daß ich vor der Hand nur immer so von weiten\nstehn, und besonders werde ich mich um eines Menschs\nWillen im hinter Grunde halten, und so kalt wie möglich handeln\nIn tiefer Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin d. 10t Febr. 1801.\ntreuester Knecht\nv Triebenfeld",
    "transcription": "111\nDurchlauchtigster Fürst\nGnädigster Herr!\nIch habe das Geld zur Auslösung der Urkunde nicht aufbringen\nkönnen, den Wildegansct verdirbt mir hier allen Credit —\nDrey hundert Rtrl habe ich an den Freund der die Sache\ngemacht, als Angeld gegeben — mehr kan ich von mein\nReise Geld nicht mißen sonsten bleibe ich hier sizzen.\nIst es Ewr Hochfürstliche Durchlaucht möglich so geruhen\nHochstdieselben nur eine Anweisung auf die 240 f. d'or um\n200 Rt Courant zu schicken, damit ich die Urkunde auslösen\nkan. Es könte sonsten ein böser Streich paßiren —\nDie Herrn Ob. v K[öckritz]. und v. Z[astrow]. sind gewis Ewr Durchlaucht\nwahren Freunde, ich bin auch gewis daß alles sehr gut\nwerden wird. Indes ist das Geklätsche hier jezt so\narg daß ich vor der Hand nur immer so von weiten\nstehn, und besonders werde ich mich um eines Menschs\nWillen im hinter Grunde halten, und so kalt wie möglich handeln\nIn tiefer Submission ersterbe\nEwr Hochfürstliche Durchlaucht\nBerlin d. 10t Febr. 1801.\ntreuester Knecht\nv Triebenfeld",
@@ -54,6 +54,8 @@
     "treuester Knecht",
     "v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0227_a-L111_01.jpg",
@@ -70,7 +72,7 @@
    "page": 1,
    "page_id": "0227_a",
    "scan": "Oe_1_Bu_9454_0227_a-L111_01.jpg",
-   "line": 8560,
+   "line": 8591,
    "doc_line": 23
   }
  ],
@@ -85,7 +87,7 @@
    "page": 1,
    "page_id": "0227_a",
    "scan": "Oe_1_Bu_9454_0227_a-L111_01.jpg",
-   "line": 8558,
+   "line": 8589,
    "doc_line": 21
   }
  ],

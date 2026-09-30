@@ -20,8 +20,8 @@
  "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 534,
- "line_end": 536,
+ "line_start": 540,
+ "line_end": 542,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0015_b",
-   "line_start": 536,
-   "line_end": 536,
+   "line_start": 542,
+   "line_end": 542,
    "n_lines": 1,
    "diplomatic": "(skipped)",
    "transcription": "(skipped)",
@@ -47,6 +47,8 @@
    "paragraphs": [
     "(skipped)"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",

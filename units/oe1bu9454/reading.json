@@ -360,8 +360,8 @@
    {
     "statement": "Bittet dringend um 200 #",
     "lines": [
-     25,
-     26
+     28,
+     29
     ]
    },
    {
@@ -374,21 +374,21 @@
    {
     "statement": "Rät, per Pro Memoria einen ergebenen, kautionsfähigen, sachkundigen Administrator der Majoratsgüter für königliche Rechnung vorzuschlagen",
     "lines": [
-     35,
-     36,
-     37,
      38,
+     39,
+     40,
      41,
-     43,
-     45
+     44,
+     46,
+     48
     ]
    },
    {
     "statement": "Hofft auf Resolution des Fürsten über Vorschuss und polnische Güter",
     "lines": [
-     51,
-     52,
-     53
+     54,
+     55,
+     56
     ]
    }
   ],
@@ -409,32 +409,32 @@
     "note": "probably 'vorzubeugen'"
    },
    {
-    "line": 26,
+    "line": 29,
     "word": "Wenn",
     "note": "probably 'Wen'"
    },
    {
-    "line": 33,
+    "line": 36,
     "word": "Bäte",
     "note": "probably 'dürfte' or 'könnte'"
    },
    {
-    "line": 34,
+    "line": 37,
     "word": "Recenzen",
     "note": "probably 'Revenüen'"
    },
    {
-    "line": 36,
+    "line": 39,
     "word": "Gäntz",
     "note": "unclear, perhaps 'gesammten'"
    },
    {
-    "line": 41,
+    "line": 44,
     "word": "aprin",
     "note": "unclear"
    },
    {
-    "line": 45,
+    "line": 48,
     "word": "haupt",
     "note": "probably 'hängt'"
    },
@@ -9350,59 +9350,17 @@
  "oe1bu9454-079": {
   "letter": "79",
   "legibility": "partly garbled",
-  "notes": "Triebenfeld in Berlin to Prince Hohenlohe on the proposed exchange of the estates granted by the King (Güter Tausch). Awaits Voss's report; Schulenburg (Dispositions Casse) willing; Hoym, called to Potsdam, promises help and 1000 rt if quick; Struensee informed via Beyme. Rumoured distribution of the sum: Schulz's daughter 2500, Klewitz 3000, Michaelis 300 Ducaten, rest 'X Spinne' and Treskow. Informants in Potsdam. Politics: war debate at court. Stays until Krotoszyn affair settled; negotiating 120/m Rthl from the Wittwen Casse on his estates; asks for blanquets. Nothing about Trąbczyn.",
+  "notes": "Triebenfeld writes from Berlin to the Prince about the planned exchange of the Prince's granted estates (Güter Tausch, Krotoszyn affair). He is awaiting Minister von Voss's report. He reports that Schulenburg, Hoym (who offers 1000 rt) and Struensee support it, lists how the payoff sum is to be divided, and describes his informants in the Potsdam cabinet (200 fr d'or). Court politics on war and peace follow, with Hoym, Schulenburg and Struensee. Triebenfeld will stay in Berlin until the Krotoszyn matter is settled. He is negotiating 120/m Rthl from the Wittwen Casse on his own estates and asks for blanquets. PS: Fürstin Sacken, Haugwitz. Nothing on Trąbczyn.",
   "claims": [
    {
-    "statement": "Wartet sehnlich auf den Bericht des Ministers von Voss",
+    "statement": "Triebenfeld wartet auf den Bericht des Ministers von Voss",
     "lines": [
      4,
      5
     ]
    },
    {
-    "statement": "Geplanter Gütertausch",
-    "lines": [
-     91,
-     92
-    ]
-   },
-   {
-    "statement": "Schulenburg zeigt sich bereitwillig",
-    "lines": [
-     9,
-     10,
-     11
-    ]
-   },
-   {
-    "statement": "Hoym versprach Unterstützung und wolle 1000 Rthl geben, wenn die Sache bald zustande komme",
-    "lines": [
-     20,
-     21,
-     28,
-     29
-    ]
-   },
-   {
-    "statement": "Verteilung: Schulzes Tochter 2500 Rthl, Klewitz 3000 Rthl, Michaelis 300 Dukaten",
-    "lines": [
-     41,
-     42,
-     43,
-     44
-    ]
-   },
-   {
-    "statement": "Streit am Hof über einen Krieg",
-    "lines": [
-     55,
-     56,
-     57,
-     62
-    ]
-   },
-   {
-    "statement": "Bleibt bis zur Erledigung der Krotoszyn-Sache in Berlin",
+    "statement": "bleibt in Berlin, bis die Krotoszyn Sache geregelt ist",
     "lines": [
      87,
      88,
@@ -9410,7 +9368,40 @@
     ]
    },
    {
-    "statement": "Verhandelt 120/m Rthl aus der Witwenkasse",
+    "statement": "Schulenburg, Hoym und Struensee der Sache gewogen",
+    "lines": [
+     9,
+     10,
+     11,
+     20,
+     21,
+     30,
+     31
+    ],
+    "check": "overstated",
+    "why": "Schulenburg declared himself willing and Hoym gave his word. For Struensee Triebenfeld only expects that he 'wird wahrhaftig nicht entgegen sein'."
+   },
+   {
+    "statement": "Hoym wolle 1000 Rthl geben",
+    "lines": [
+     28,
+     29
+    ],
+    "check": "overstated",
+    "why": "Lines 28-29: the offer is conditional ('wann die Sache bald zu Stande käme')."
+   },
+   {
+    "statement": "Verteilung der Summe: Schulzes Tochter 2500, Klewitz 3000, Michaelis 300 Ducaten, Rest Spinne und Treskow",
+    "lines": [
+     41,
+     42,
+     43,
+     44,
+     45
+    ]
+   },
+   {
+    "statement": "will 120/m Rthl aus der Wittwen Casse auf seine Güter aufnehmen, für den Güter Tausch",
     "lines": [
      90,
      91,
@@ -9418,7 +9409,19 @@
     ]
    },
    {
-    "statement": "Bittet erneut um die Blanketts",
+    "statement": "Streit am Hof um einen Krieg",
+    "lines": [
+     55,
+     56,
+     57,
+     62,
+     63,
+     64,
+     65
+    ]
+   },
+   {
+    "statement": "bittet um die Blanquets",
     "lines": [
      95,
      96
@@ -9429,12 +9432,7 @@
    {
     "line": 17,
     "word": "Anfait",
-    "note": "probably 'Avis' or 'Anzeige' (cf. 'Anfalt' l. 30)"
-   },
-   {
-    "line": 30,
-    "word": "Anfalt",
-    "note": "same unclear word as l. 17"
+    "note": "garbled; compare 'Anfalt' on line 30, perhaps 'Avis'"
    },
    {
     "line": 73,
@@ -9444,17 +9442,17 @@
    {
     "line": 76,
     "word": "Mittwen",
-    "note": "garbled passage; probably not a word"
+    "note": "garbled, perhaps 'unnützen'"
    },
    {
-    "line": 84,
-    "word": "Obest",
-    "note": "probably 'Obrist'"
+    "line": 102,
+    "word": "Fürsten",
+    "note": "probably 'Fürstin' (see 'Sie' on line 103)"
    },
    {
-    "line": 84,
-    "word": "Stru-Parthe",
-    "note": "probably 'Struensee Parthey'"
+    "line": 104,
+    "word": "ungdeßen",
+    "note": "garbled"
    },
    {
     "line": 22,
@@ -9462,12 +9460,12 @@
     "note": "probably 'deswillen'"
    },
    {
-    "line": 95,
-    "word": "briefen",
-    "note": "unclear; perhaps 'schicken'"
+    "line": 84,
+    "word": "Stru-Parthe",
+    "note": "read as Struensee's Parthey"
    }
   ],
-  "read_against": "f2164969d2d23c8c"
+  "read_against": "b66f8b42a8c7ebb9"
  },
  "oe1bu9454-080": {
   "letter": "80",
@@ -12294,18 +12292,18 @@
    {
     "statement": "Bukowiecki will für Pszczew nur 2400 Rthl Jahrespacht zahlen",
     "lines": [
-     32,
-     33
+     34,
+     35
     ]
    },
    {
     "statement": "Man will den Schreiber wegen eines an Schlabrendorff gegebenen Wechsels von 11/m verklagen und ein Exekutionsdekret erwirken",
     "lines": [
-     35,
-     36,
      37,
      38,
-     39
+     39,
+     40,
+     41
     ],
     "check": "overstated",
     "why": "Z. 35 leitet das als Gehörtes ein: 'Hier höhre ich auch daß ...'. In der Zusammenfassung fehlt dieser Vorbehalt."
@@ -12313,8 +12311,8 @@
    {
     "statement": "Der Freund soll den Fürsten warnen",
     "lines": [
-     39,
-     40
+     41,
+     42
     ]
    }
   ],
@@ -12355,12 +12353,12 @@
     "note": "garbled, perhaps 'unveränderter'"
    },
    {
-    "line": 36,
+    "line": 38,
     "word": "Pärzten",
     "note": "probably 'Prinzen' or 'Fürsten'"
    },
    {
-    "line": 41,
+    "line": 43,
     "word": "Feige",
     "note": "doubtful reading"
    }
@@ -14740,8 +14738,8 @@
      8,
      9,
      10,
-     152,
-     194
+     154,
+     196
     ]
    },
    {
@@ -14778,17 +14776,17 @@
    {
     "statement": "Trąbczyn ein Jahr an Otocki verpachten",
     "lines": [
-     81,
      83,
-     84
+     85,
+     86
     ]
    },
    {
     "statement": "Mennonisten auf etwa 400 Hufen um Kopojno ansiedeln",
     "lines": [
-     119,
-     120,
-     121
+     121,
+     122,
+     123
     ],
     "check": "overstated",
     "why": "Z. 119-121: Die 400 Hufen umfassen Kopojno, Skokum, Swiątniki, das Olesnicer Bruch und die Wrąbcziner Warthegründe. \"Um Kopojno\" verengt das auf einen Ort."
@@ -14796,21 +14794,21 @@
    {
     "statement": "Voss will Dismembrationen ab 1. July untersagen",
     "lines": [
-     144,
-     148,
-     149
+     146,
+     150,
+     151
     ]
    },
    {
     "statement": "Blomberg zufolge hält Glenck in Wrąbczyn Ansiedler ab",
     "lines": [
-     160,
-     161,
+     162,
      163,
-     164,
      165,
-     182,
-     183
+     166,
+     167,
+     184,
+     185
     ]
    }
   ],
@@ -14821,27 +14819,27 @@
     "note": "probably a garbled name (cf. Luckedini[?] line 43/44)"
    },
    {
-    "line": 186,
+    "line": 188,
     "word": "Beyme",
     "note": "probably 'Bey' or 'Beym' (exclamation 'Großen Gott!'), not the person Beyme"
    },
    {
-    "line": 211,
+    "line": 213,
     "word": "Dąmbrowski",
     "note": "spelled Dąbrowski in line 209; may be the writer's own variant"
    },
    {
-    "line": 163,
+    "line": 165,
     "word": "Gehau",
     "note": "unclear, perhaps 'Gehege' or a similar word"
    },
    {
-    "line": 159,
+    "line": 161,
     "word": "Dummesbrunter",
     "note": "garbled"
    },
    {
-    "line": 139,
+    "line": 141,
     "word": "Marianton",
     "note": "unclear place name"
    },
@@ -14851,7 +14849,7 @@
     "note": "garbled passage"
    },
    {
-    "line": 154,
+    "line": 156,
     "word": "Schenck",
     "note": "The edition names Hawich as Justiz Bürgermeister (of Zagorowo); here the letter writes Schenck, not corrected"
    }
@@ -17463,98 +17461,129 @@
  "oe1bu9454-164": {
   "letter": "164",
   "legibility": "partly garbled",
-  "notes": "Triebenfeld to Prince from Kalisz. Topics: no Berlin resolution yet (Amelang); Taxen revision chicanes blamed on Prinz George and Kalckreuth, Minister v. Voss; fallback: Landrath revises/attests taxes. Otocki to pay 10000 Rthl and 2000 Rthl half-year Propination pacht in advance; Meierowitz 20000 Rthl and 500 Rthl canon if Honrichs removed. Buyers for Huben; presses for Consens. Kammer edict on Erbpacht, notified to Glenck and Landrath v. Blomberg 23 Dec 1803; Glenck concealed it, contract with Olesnicer 22 Feb 1804. Dombrowski: Prusimski Compromiss and receipts in Kowal archive. Ribbeck/Floricke, Lichnowski; ill health.",
+  "notes": "Triebenfeld to Hohenlohe, from Kalisz. There is still no resolution from Berlin. He blames the new revision of the Taxen on Prinz George and Kalckreuth, and will have the Landrath attest the Taxen instead. Otocki promises 10000 Rthl plus 2000 rt of Propination rent in advance. If Honrichs is removed, Meierowitz will pay 20000 rtl and a 500 rthl Canon. Buyers want Huben once the land is broken up; he is pressing for the Consens. A Kammer edict of 23 Dec 1803 limits Erbpacht; Glenck kept it quiet and the Olesnicer contract of 22 Febr 1804 was concluded anyway. Dombrowski reports the Prusimski Compromiss and receipts in the Kowaler Archiv. Postscript about busts.",
   "claims": [
    {
-    "statement": "Berliner Resolution steht aus",
+    "statement": "Triebenfeld wartet auf die Berliner Resolution",
     "lines": [
-     4
+     4,
+     10,
+     11
     ]
    },
    {
-    "statement": "will bei Erschwerung der Revision den Landrath die Taxen revidieren lassen",
+    "statement": "führt die neue Taxenrevision auf Prinz George und Kalckreuth zurück",
     "lines": [
-     8,
-     9
+     12,
+     13
     ]
    },
    {
-    "statement": "Otocki verspricht 10000 Rthl und 2000 Rthl Propinationspacht",
+    "statement": "Otocki verspricht 10000 Rthl und 2000 Rthl Propinationspacht im Voraus",
     "lines": [
-     21,
-     22,
-     23
+     26,
+     27,
+     28
     ]
    },
    {
-    "statement": "Meierowitz zahlt nach Honrichs' Abgang 20000 Rthl und 500 Rthl Canon",
+    "statement": "Meierowitz würde nach Honrichs' Abgang 20000 Rthl und 500 Rthl jährlichen Canon zahlen",
     "lines": [
-     24,
-     25,
-     26
+     29,
+     30,
+     31
     ]
    },
    {
-    "statement": "Kammeredikt über Erbpacht, von Glenck verschwiegen, Olesnicer Vertrag vom 22. Februar 1804",
+    "statement": "Ein Kammeredikt verbot die Erbpacht an Nichtadlige ohne königlichen Consens",
     "lines": [
-     46,
-     47,
-     48,
-     49,
-     57,
-     58,
-     59,
-     60,
-     61,
-     73,
-     74,
-     75,
-     76,
-     77
+     51,
+     52,
+     53,
+     54
     ]
    },
    {
-    "statement": "Dombrowski: Prusimskischer Kompromiss und Quittungen im Kowaler Archiv",
+    "statement": "Glenck habe dies verschwiegen und den Contract mit den Olesnicern schließen lassen",
     "lines": [
+     62,
+     63,
+     64,
+     65,
+     66,
+     78,
+     79,
      80,
-     81,
-     82
+     81
+    ]
+   },
+   {
+    "statement": "Laut Dombrowski liegen der Prusimskische Compromiss und Quittungen über Prusimskis Zahlung im Archiv",
+    "lines": [
+     85,
+     86,
+     87
     ]
    }
   ],
   "doubtful_words": [
    {
+    "line": 6,
+    "word": "ober füllt",
+    "note": "garbled; perhaps 'oder füllt'"
+   },
+   {
+    "line": 13,
+    "word": "Kalchreuthern",
+    "note": "inflected form of Kalckreuth (line 18); may be a misreading"
+   },
+   {
     "line": 14,
     "word": "Zand",
-    "note": "unclear, probably a name or 'Graf' misread"
-   },
-   {
-    "line": 29,
-    "word": "[me?]hhn",
-    "note": "garbled; 'bestandes' likely 'besonders'"
-   },
-   {
-    "line": 52,
-    "word": "Zad",
-    "note": "unclear right (list item b)"
-   },
-   {
-    "line": 6,
-    "word": "ober",
-    "note": "passage lines 6-7 garbled; possibly 'oder'"
-   },
-   {
-    "line": 38,
-    "word": "war",
-    "note": "possibly 'wan' (wenn)"
+    "note": "unclear; perhaps a name or title"
    },
    {
     "line": 17,
     "word": "Unfuhr",
-    "note": "possibly 'Erfuhr'/'Man erfuhr'"
+    "note": "perhaps 'Ich erfuhr'"
+   },
+   {
+    "line": 18,
+    "word": "Ehe",
+    "note": "perhaps 'eher' or 'schon'"
+   },
+   {
+    "line": 43,
+    "word": "war",
+    "note": "probably 'wan' (wenn)"
+   },
+   {
+    "line": 57,
+    "word": "Zad",
+    "note": "probably 'Jagd'"
+   },
+   {
+    "line": 86,
+    "word": "Compromist",
+    "note": "probably 'Compromiss'"
+   },
+   {
+    "line": 94,
+    "word": "im",
+    "note": "probably 'um'"
+   },
+   {
+    "line": 97,
+    "word": "gagen",
+    "note": "probably 'jagen'"
+   },
+   {
+    "line": 20,
+    "word": "Jtzig[?]",
+    "note": "doubtful name"
    }
   ],
-  "read_against": "aa3774f13212f3c9"
+  "read_against": "1961ce79cfdb1783"
  },
  "oe1bu9454-165": {
   "letter": "165",
@@ -17793,11 +17822,11 @@
  },
  "oe1bu9454-168": {
   "letter": "168",
-  "legibility": "sound",
-  "notes": "Triebenfeld, snowed in at Trąbczyn, reports: contracts with old peasants concluded in court; negotiating with Otocki on Szetlewek and Propination (Radzinski wavering); Amelang promises help with loan; Voss's refusal on Taxen to be sent to Amelang; dismembration consent expected (Goldbeck). Complains of Glenck, Wollenhaupt, the three Olesnica men and Meyer dissuading buyers. Claims: Winnicki heirs 1300, Chwalowski 850, Sprengel 61, Wollenhaupt 800 = 3011 rt; everything must be re-surveyed. Counterclaims against Wollenhaupt 1200 rt, so he owes 400; he refuses to vacate his dwelling. Schenck demands land and the right to choose his Actuarius.",
+  "legibility": "partly garbled",
+  "notes": "Triebenfeld reports to the Prince from Trąbczyn. Snow is holding up his work there. He has concluded contracts with the old peasants, is negotiating with v. Otocki over Szetlewek and the propination, and has good news from Amelang about the loan. Consent to the dismembration is expected. He complains of Glenck, Wollenhaupt, the three Oleśnica men and a Meyer, who are working against him. Claims for surveying and other costs total 3011 rt; he answers Wollenhaupt's claim with counter-claims. Schenck's demands. Postscript: the old subjects of Swięcia bought out, and a new contract for 28 Hufen.",
   "claims": [
    {
-    "statement": "Kontrakte mit den alten Bauern und Sicherung der Abgabe gerichtlich abgeschlossen",
+    "statement": "Verträge mit den alten Bauern und Sicherung der Abgaben gerichtlich abgeschlossen",
     "lines": [
      6,
      7,
@@ -17805,7 +17834,7 @@
     ]
    },
    {
-    "statement": "verhandelt mit v. Otocki wegen Szetlewek und Propination",
+    "statement": "Verhandelt mit v. Otocki über Szetlewek und die Propination",
     "lines": [
      9,
      10
@@ -17819,14 +17848,14 @@
     ]
    },
    {
-    "statement": "Consens zur Dismembration wird erwartet",
+    "statement": "Konsens zur Dismembration erwartet",
     "lines": [
      22,
      23
     ]
    },
    {
-    "statement": "Glenck, Wollenhaupt, die drei Olesnicer und Meyer reden Käufern ab",
+    "statement": "Glenck, Wollenhaupt, die drei Oleśnicaer und ein Meyer reden Käufern ab",
     "lines": [
      33,
      34,
@@ -17838,7 +17867,7 @@
     ]
    },
    {
-    "statement": "Forderungen von 3011 Rthl",
+    "statement": "Forderungen von insgesamt 3011 Rthl",
     "lines": [
      46,
      47,
@@ -17849,25 +17878,28 @@
     ]
    },
    {
-    "statement": "Wollenhaupt fordert 800 Rthl, Gegenrechnung 1200 Rthl",
+    "statement": "Gegenforderungen an Wollenhaupt, er müsse 400 Rthl herausgeben",
     "lines": [
-     61,
      62,
      63,
      64,
      65,
      66,
      67,
-     68
+     68,
+     69
+    ]
+   },
+   {
+    "statement": "Swięcia: alte Untertanen ausgekauft, neuer Vertrag über 28 Hufen zu 400 Rthl je Hufe und 15 Rthl jährlichem Zins",
+    "lines": [
+     100,
+     101,
+     102
     ]
    }
   ],
   "doubtful_words": [
-   {
-    "line": 17,
-    "word": "schade",
-    "note": "probably 'überschicke' (über/schicke split across lines 16-17)"
-   },
    {
     "line": 18,
     "word": "Kleur",
@@ -17876,12 +17908,27 @@
    {
     "line": 21,
     "word": "würcken",
-    "note": "probably 'würden'"
+    "note": "probably 'würden' (verkauft würden)"
+   },
+   {
+    "line": 21,
+    "word": "des Consens aus",
+    "note": "probably 'der Consens auch'"
+   },
+   {
+    "line": 19,
+    "word": "gegen für",
+    "note": "garbled"
    },
    {
     "line": 40,
     "word": "haab",
-    "note": "unclear; perhaps 'habsüchtig'"
+    "note": "unclear adjective"
+   },
+   {
+    "line": 51,
+    "word": "aus",
+    "note": "perhaps 'Summa'"
    },
    {
     "line": 84,
@@ -17890,16 +17937,21 @@
    },
    {
     "line": 85,
-    "word": "ten",
-    "note": "probably 'den'"
+    "word": "ten nun ... durch gewißet",
+    "note": "garbled"
    },
    {
     "line": 91,
     "word": "Herren",
-    "note": "probably 'Huben' (cf. lines 65, 74)"
+    "note": "probably 'Huben' (cf. doc 173)"
+   },
+   {
+    "line": 104,
+    "word": "gegen den 1sten verkauft",
+    "note": "passage unclear"
    }
   ],
-  "read_against": "ee4e8b612e455593"
+  "read_against": "c92061a8c37380e7"
  },
  "oe1bu9454-169": {
   "letter": "169",
@@ -22197,88 +22249,87 @@
  "oe1bu9454-210": {
   "letter": "210",
   "legibility": "partly garbled",
-  "notes": "Triebenfeld writes to the Prince from Kalisz, where he is pursuing several lawsuits before the tribunal. The Trąbczyn case is still waiting its turn. He has paid Falz, the tribunal president Smagorzewski and others, and says a win would also save the registered dowry of 22000 rt. Second case: the Olesnicer settlers owe 39270 rt; Polish peasants from Olesnica offer to take their places. Third: Niedźwiecki owes 6000 rt, and his wood and cattle have been seized. Hawich is called a scoundrel; the Zins-Bauern pay nothing. Next case: the Propinations-Pächter owes 3000 rt and has been sued. He expects 44000 rt by New Year, including 12000 rt from the old Hauländer and 6000 rt from Radzinski of Szetlewek. He asks the Prince to get Referendarius Sommer more leave from President Danckelmann.",
+  "notes": "Triebenfeld writes to the Prince from Kalisz about the lawsuits pending before the Tribunal. The Trąbczyn vindication case is 11th on the register. He describes payments to Falz, to President Smagorzewski and to assessors. The Oleśnica settlers owe 39270 rt, and Polish peasants from Oleśnica offer to take over their contract. Niedźwiecki owes 6000 rt and his wood and cattle are under arrest. Hawich stirs up the Zins peasants, and a military execution has failed. The propination tenant owes 3000 rt. Triebenfeld expects 44000 rt by New Year, including 12000 from the old Hauländer and 6000 from Radzinski of Szetlewek. He asks the Prince to write to Danckelmann about leave for Sommer. Postscript: Meierowitz's debts.",
   "claims": [
    {
-    "statement": "Triebenfeld berichtet über seine Prozesse",
+    "statement": "Berichtet über drei Prozesse am Tribunal",
     "lines": [
      16,
      22
     ]
    },
    {
-    "statement": "hofft den Prozess um Trąbczyn zu gewinnen",
+    "statement": "Hofft Trąbczyn zu vindizieren und 22000 Rthl Brautschatz zu retten",
     "lines": [
-     23
-    ]
-   },
-   {
-    "statement": "was 22000 Rthl Brautschatz retten würde",
-    "lines": [
+     23,
      32,
      33
     ]
    },
    {
-    "statement": "Falz und Präsident Smagorzewski hat er Geld gegeben",
+    "statement": "Falz, Präsident Smagorzewski und Assessoren erhielten Zuwendungen",
     "lines": [
      24,
      25,
      27,
-     28
+     28,
+     29,
+     30
     ]
    },
    {
-    "statement": "Siedler in Oleśnica schulden 39270 Rthl",
+    "statement": "Oleśnicer schulden 39270 Rthl",
     "lines": [
      37,
      38,
+     39,
+     40,
+     41,
      42
     ]
    },
    {
-    "statement": "sollen durch polnische Bauern ersetzt werden",
+    "statement": "Polnische Bauern aus Oleśnica wollen in den Contract treten",
     "lines": [
-     38,
      46,
      47,
-     65,
-     66,
-     68
+     48
     ]
    },
    {
-    "statement": "gegen Niedźwiecki (6000 Rthl) geht er vor",
+    "statement": "Niedźwiecki schuldet 6000 Rthl",
     "lines": [
-     53,
-     54,
-     56
+     53
     ]
    },
    {
-    "statement": "Propinationspächter 3000 Rthl verklagt",
+    "statement": "Propinationspächter schuldet 3000 Rthl",
     "lines": [
      71,
-     72,
-     76
+     72
     ]
    },
    {
-    "statement": "Hawich nennt er einen Spitzbuben",
+    "statement": "Hawich muss fort, Zinsbauern zahlen nicht",
     "lines": [
-     57
+     57,
+     58,
+     59,
+     61
     ]
    },
    {
-    "statement": "erhofft bis Neujahr 44000 Rthl, darunter 6000 Rthl von Radzinski aus Szetlewek",
+    "statement": "Bis Neujahr erhofft 44000 Rthl, darunter 12000 von alten Hauländern und 6000 von Radzinski von Szetlewek",
     "lines": [
+     81,
+     82,
      87,
      89,
      90
     ]
    },
    {
-    "statement": "Der Fürst soll bei Danckelmann Urlaub für Sommer erwirken",
+    "statement": "Fürst soll bei Danckelmann Urlaub für Sommer erwirken",
     "lines": [
      92,
      93,
@@ -22291,12 +22342,7 @@
    {
     "line": 8,
     "word": "Zürich",
-    "note": "probably 'Gerichts' (court offices)"
-   },
-   {
-    "line": 12,
-    "word": "Ups",
-    "note": "unclear term, perhaps 'Aufruf'"
+    "note": "makes no sense in the context of Kalisz bureaux; probably a misreading"
    },
    {
     "line": 18,
@@ -22306,35 +22352,45 @@
    {
     "line": 24,
     "word": "Falz",
-    "note": "document 212 writes 'Salz'; spelling of the name uncertain"
+    "note": "the next letter (212) writes 'Salz'; the name is uncertain"
    },
    {
     "line": 29,
     "word": "Assoren",
-    "note": "probably 'Assessoren'"
+    "note": "probably Assessoren"
    },
    {
     "line": 36,
     "word": "fehlen",
-    "note": "unclear, perhaps 'Geschenke' or 'Mittel'"
+    "note": "unclear, perhaps 'Summen' or 'Geschenke'"
    },
    {
     "line": 57,
     "word": "aufhaupt",
-    "note": "probably 'aufhezt'"
+    "note": "probably 'aufhetzt'"
    },
    {
     "line": 64,
     "word": "Adict",
-    "note": "unclear, perhaps 'defect'"
+    "note": "unclear"
    },
    {
     "line": 65,
     "word": "Poladen",
-    "note": "probably 'Polacken'"
+    "note": "unclear, perhaps 'Polacken'"
+   },
+   {
+    "line": 104,
+    "word": "renigirt",
+    "note": "probably 'renitirt' or 'weigert'"
+   },
+   {
+    "line": 107,
+    "word": "fehnden",
+    "note": "unclear, perhaps 'senden'"
    }
   ],
-  "read_against": "71de80417d66311e"
+  "read_against": "580aac1142c45ec0"
  },
  "oe1bu9454-211": {
   "letter": "211",
@@ -22544,10 +22600,10 @@
  "oe1bu9454-213": {
   "letter": "213",
   "legibility": "partly garbled",
-  "notes": "Triebenfeld writes to the Prince from Swiątniki. He has recovered from illness but was hurt when his carriage overturned on the way to Konin. The state taxes are paid except 900 t, and he hopes to lift the sequestration. Debtors refuse to pay because the Prince is a foreigner, so 43 lawsuits are pending; he lists ten of them with sums (Niedźwiecki, Nossalski, the Olesnicer, the Wrąbczyn peasants, Berda, the Hauländer, Rybbeck, a miller, the colonists). He gives figures for collections and costs; the Trąbczyn and Meierowitz suits have cost 750 rt. The sequestor is a favourite of Prefect Garczynski. Hardenberg knows nothing of the new arrest on Prussian sums lent to Poland and has asked for proofs.",
+  "notes": "Triebenfeld writes to the Prince from Swiątniki. He has recovered from illness but was hurt when his carriage overturned on the way to Konin. State taxes are paid except 900 t., and he hopes to lift the sequestration soon. He lists the 43 lawsuits against debtors (Niedźwiecki, Nossalski, the Olesnicer, the Wrąbczyn peasants, Berda, the Hauländer, Rybbeck, a miller, and 29 against the Colonisten). He gives expected revenues and his costs, including the Trąbczyn and Meierowitz suits at 750 rt. The sequestor is a favourite of Prefect Garczynski. There are rumours from Berlin: Hardenberg does not know of the new arrest and the 40-year amortisation, and asks for proofs. In the postscript Triebenfeld asks to be written to by express messenger and reports that he has hired 3 lawyers for 700 rt.",
   "claims": [
    {
-    "statement": "Staatsabgaben bis auf 900 bezahlt; hofft, die Sequestration aufzuheben",
+    "statement": "Staatsabgaben bis auf 900 bezahlt, hofft Sequestration aufzuheben",
     "lines": [
      9,
      10,
@@ -22557,9 +22613,8 @@
     ]
    },
    {
-    "statement": "Schuldner zahlen nicht, da der Fürst Ausländer sei; 43 Prozesse",
+    "statement": "niemand zahlt, 43 Prozesse",
     "lines": [
-     26,
      27,
      28,
      29,
@@ -22567,93 +22622,78 @@
     ]
    },
    {
-    "statement": "Prozesse gegen Niedźwiecki 6000, Nossalski 3000",
+    "statement": "Niedźwiecki 6000, Nossalski 3000, Olesnicer circa 33000",
     "lines": [
      32,
-     34
+     34,
+     36
     ]
    },
    {
-    "statement": "Wrąbczyner Bauern Zinsrückstand 1200",
+    "statement": "Wrąbczyner Bauern",
     "lines": [
      40
     ]
    },
    {
-    "statement": "8 Hauländer 5000 rt Einkaufsgelder",
-    "lines": [
-     59
-    ]
-   },
-   {
-    "statement": "Colonisten 39000 rt Zinsen",
+    "statement": "29 Prozesse gegen Colonisten mit 39000 rt Zinsen",
     "lines": [
      69,
      70
     ]
    },
    {
-    "statement": "Trąbczyner und Meierowitzscher Prozess 750 rt",
+    "statement": "Prozesskosten 1450 rt, davon Trąbczyner und Meierowitzscher 750 rt",
     "lines": [
      92,
      93
     ]
    },
    {
-    "statement": "Hardenberg fordert Beweise über den neuen Arrestschlag, erhält sie",
+    "statement": "Hardenberg fordert Beweise über den neuen Arrest auf Summen aus Preußen nach Polen",
     "lines": [
+     110,
+     111,
      115,
      116
-    ],
-    "check": "overstated",
-    "why": "Z. 115-116: Hardenberg fordert Beweise, Triebenfeld will sie ihm erst morgen senden. Dass er sie erhält, steht dort nicht, nur die geplante Sendung."
+    ]
    }
   ],
   "doubtful_words": [
    {
     "line": 5,
     "word": "gewesen",
-    "note": "probably 'beheben' (cf. line 15), sense-based only"
+    "note": "sense requires something like 'heben/beheben' (cf. l.15); garbled"
    },
    {
     "line": 12,
     "word": "Nassalski",
-    "note": "line 34 has Nossalski; unclear which form is correct"
+    "note": "spelled Nossalski on l.34; which form is correct is uncertain"
    },
    {
-    "line": 4,
-    "word": "Staats Schuldig",
-    "note": "probably 'Staats Schulden'"
+    "line": 26,
+    "word": "Kühn",
+    "note": "probably 'Kühn' misread (e.g. 'Kund')"
    },
    {
-    "line": 16,
-    "word": "Weigelt",
-    "note": "possibly Weigel"
+    "line": 27,
+    "word": "beich",
+    "note": "truncated/garbled, likely 'bezahlen'"
    },
    {
-    "line": 16,
-    "word": "Seher Thos",
-    "note": "garbled"
-   },
-   {
-    "line": 36,
-    "word": "Buben",
-    "note": "probably 'Bauren'"
-   },
-   {
-    "line": 53,
-    "word": "Geist",
-    "note": "unclear"
+    "line": 33,
+    "word": "deiner",
+    "note": "garbled, perhaps 'Heller'"
    },
    {
     "line": 73,
     "word": "geräfte",
-    "note": "probably 'glaube' or 'zweifle'"
+    "note": "garbled, perhaps 'zweifle'"
    },
    {
     "line": 84,
     "word": "durch",
-    "note": "probably 'Durchlaucht'"
+    "note": "probably 'Durchl.' after 'Ew.'"
    },
    {
     "line": 84,
@@ -22661,27 +22701,27 @@
     "note": "probably 'Casse'"
    },
    {
-    "line": 87,
-    "word": "Staunz, Podat",
-    "note": "garbled"
-   },
-   {
     "line": 88,
     "word": "Mathern",
-    "note": "garbled"
+    "note": "garbled, perhaps 'Martern'"
    },
    {
-    "line": 98,
-    "word": "hiesigt",
-    "note": "garbled"
+    "line": 90,
+    "word": "Napolons",
+    "note": "probably Napoleons"
    },
    {
-    "line": 113,
-    "word": "Häusichem",
-    "note": "lines 113-114 garbled"
+    "line": 16,
+    "word": "Weigelt",
+    "note": "edition list has Weigel; uncertain"
+   },
+   {
+    "line": 16,
+    "word": "Seher Thos",
+    "note": "garbled names"
    }
   ],
-  "read_against": "7515b012b191eb20"
+  "read_against": "b9c7bf5b7e65bc53"
  },
  "oe1bu9454-214": {
   "letter": "214",

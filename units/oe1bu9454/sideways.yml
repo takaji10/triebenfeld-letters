@@ -1,0 +1,78 @@
+# Text written sideways on the page, which the first transcription missed and the
+# editor transcribed from the scans (2026-09-30). The lines are ordinary text in
+# corpus.txt; this file only says which of them were written sideways, so the site
+# can set them apart. Each block stays on the page it is written on: at the end
+# of the page, or, where the page ends mid-sentence, at the last paragraph end on it.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '3'
+    page: '0004_b'
+    first: 'von des Fürsten Staats Kanzlers Reise sagen Ewr'
+    lines: 3
+  - letter: '6'
+    page: '0011_a2'
+    first: 'Es wäre wohl sehr gescheid wenn P. Adolph über Berlin giengen'
+    lines: 3
+  - letter: '38'
+    page: '0071_b'
+    first: 'In daß Land muß was großes los sein die Rußischen Papiere sind d. 8ten d. M. in Breslau selbst'
+    lines: 4
+  - letter: '41'
+    page: '0077_a'
+    first: 'Heut komt ein Courir von Prinzen Willhelm, da würde ich erfahren, ob der Aufenthalt'
+    lines: 5
+  - letter: '49'
+    page: '0092_a'
+    first: 'Van der Lahr wünscht, daß er nur Scheinen'
+    lines: 5
+  - letter: '54'
+    page: '0103_a2'
+    first: 'laßen Ewr durchlaucht, ist ja nicht lange auf Antwort warten, den abendenen'
+    lines: 4
+  - letter: '79'
+    page: '0168_a'
+    first: 'Die Fürsten Sacken durchl. wären über die Nachricht gestern äußerst froh'
+    lines: 5
+  - letter: '109'
+    page: '0225_a'
+    first: 'An Sr durchl. schreibe ich nicht, weil ich höchst dieselbe im Schlawenschitz glauben'
+    lines: 2
+  - letter: '136'
+    page: '0264_a'
+    first: 'NB die Prozeß Kosten denke ich dem Radzinski bey meinen künftigen'
+    lines: 2
+  - letter: '164'
+    page: '0309_b'
+    first: 'NB Amelang hat dem Juden Jtzig[?] selbst die 18000 rt die er anders wo sicher hat, gekündigt'
+    lines: 5
+  - letter: '164'
+    page: '0311_a'
+    first: 'Der Wasch Tisch hat sehr viel Freude gemacht — die Büste von Bronze'
+    lines: 4
+  - letter: '168'
+    page: '0317_a'
+    first: 'die Swięcier Alten Unterthanen habe ich vor eine Bagatelle ausgekauft'
+    lines: 5
+  - letter: '169'
+    page: '0319_a'
+    first: 'die Büsten sind eingegangen und abgegeben sie gefielen sehr —'
+    lines: 3
+  - letter: '179'
+    page: '0340_a'
+    first: 'Die mit der Unterschrift an König habe ich noch alle aus die andern sind alle —'
+    lines: 2
+  - letter: '210'
+    page: '0394_a'
+    first: 'Der Meierowitz ist auch an der Schlieben 7800 rt und an Ewr Durchl. 3000 rt. Canon schuldig'
+    lines: 5
+  - letter: '213'
+    page: '0399_a'
+    first: 'Geruhen Ewr Durchlaucht mir doch durch einen Expressen zu schreiben — Sie habe ja dort solche'
+    lines: 5
+  - letter: '282'
+    page: '0511_a1'
+    first: 'N. S. Ich werde morgen noch einen Vorsuch machen, Ob Muß Humboldt nicht dem Curischen Vergleich abmachen und das was[?]'
+    lines: 5

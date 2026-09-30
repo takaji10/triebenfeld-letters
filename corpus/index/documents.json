@@ -709,7 +709,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 101,
+  "n_lines": 106,
   "scans": [
    {
     "page": 1,
@@ -732,10 +732,10 @@
     "image": "Oe_1_Bu_9454_0168_a-L79_04.jpg"
    }
   ],
-  "uncertainty_count": 0,
+  "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 12,
+  "mentions": 13,
   "places_named": 3,
   "estates": [
    "krotoszyn"
@@ -3166,7 +3166,7 @@
   "sender": "",
   "recipient": "",
   "n_pages": 2,
-  "n_lines": 45,
+  "n_lines": 47,
   "scans": [
    {
     "page": 1,
@@ -3183,7 +3183,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "betsche"
   ],
@@ -6166,7 +6166,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 12,
-  "n_lines": 230,
+  "n_lines": 232,
   "scans": [
    {
     "page": 1,
@@ -7704,7 +7704,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 91,
+  "n_lines": 94,
   "scans": [
    {
     "page": 1,
@@ -8410,7 +8410,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 98,
+  "n_lines": 107,
   "scans": [
    {
     "page": 1,
@@ -8433,7 +8433,7 @@
     "image": "Oe_1_Bu_9454_0311_a-L164_04.jpg"
    }
   ],
-  "uncertainty_count": 2,
+  "uncertainty_count": 6,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 12,
@@ -8882,7 +8882,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 99,
+  "n_lines": 104,
   "scans": [
    {
     "page": 1,
@@ -8909,7 +8909,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 13,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "szetlewek",
    "betsche",
@@ -8918,7 +8918,7 @@
   "translation_status": "untranslated",
   "has_summary": false,
   "has_summary_de": true,
-  "legibility": "sound",
+  "legibility": "partly garbled",
   "title": "letter 168",
   "path": "documents/oe1bu9454-168.json",
   "text_path": "text/oe1bu9454-168.txt",
@@ -10461,7 +10461,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 8,
-  "n_lines": 207,
+  "n_lines": 209,
   "scans": [
    {
     "page": 1,
@@ -11933,7 +11933,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 1,
-  "n_lines": 35,
+  "n_lines": 39,
   "scans": [
    {
     "page": 1,
@@ -11945,7 +11945,7 @@
   "has_damage": false,
   "rough_transcription": true,
   "mentions": 5,
-  "places_named": 4,
+  "places_named": 6,
   "estates": [
    "kontop"
   ],
@@ -12061,7 +12061,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 100,
+  "n_lines": 105,
   "scans": [
    {
     "page": 1,
@@ -12084,7 +12084,7 @@
     "image": "Oe_1_Bu_9454_0077_a-L41_04.jpg"
    }
   ],
-  "uncertainty_count": 3,
+  "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 7,
@@ -12588,7 +12588,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 1,
-  "n_lines": 34,
+  "n_lines": 39,
   "scans": [
    {
     "page": 1,
@@ -12596,7 +12596,7 @@
     "image": "Oe_1_Bu_9454_0092_a-L49_01.jpg"
    }
   ],
-  "uncertainty_count": 1,
+  "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 5,
@@ -12627,7 +12627,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 3,
-  "n_lines": 87,
+  "n_lines": 91,
   "scans": [
    {
     "page": 1,
@@ -14790,7 +14790,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 102,
+  "n_lines": 107,
   "scans": [
    {
     "page": 1,
@@ -14816,7 +14816,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 9,
   "places_named": 5,
   "estates": [
    "trabczyn",
@@ -14909,7 +14909,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 4,
-  "n_lines": 119,
+  "n_lines": 124,
   "scans": [
    {
     "page": 1,
@@ -14936,7 +14936,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 10,
-  "places_named": 14,
+  "places_named": 15,
   "estates": [
    "olesnica",
    "wrabczyn",
@@ -18801,7 +18801,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 2,
-  "n_lines": 61,
+  "n_lines": 64,
   "scans": [
    {
     "page": 1,
@@ -19915,7 +19915,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 2,
-  "n_lines": 72,
+  "n_lines": 77,
   "scans": [
    {
     "page": 1,
@@ -19928,10 +19928,10 @@
     "image": "Oe_1_Bu_9454_0511_a1-L282_02.jpg"
    }
   ],
-  "uncertainty_count": 4,
+  "uncertainty_count": 7,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 9,
   "places_named": 11,
   "estates": [
    "schlawenschitz",
@@ -20329,7 +20329,7 @@
   "sender": "von Triebenfeld",
   "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
   "n_pages": 3,
-  "n_lines": 78,
+  "n_lines": 81,
   "scans": [
    {
     "page": 1,
@@ -20350,7 +20350,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 14,
+  "mentions": 15,
   "places_named": 9,
   "estates": [
    "sokolnik",

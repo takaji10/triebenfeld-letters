@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "Michaelis",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 6593,
- "line_end": 6624,
+ "line_start": 6622,
+ "line_end": 6653,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -41,8 +41,8 @@
   {
    "page": 1,
    "page_id": "0169_a",
-   "line_start": 6595,
-   "line_end": 6610,
+   "line_start": 6624,
+   "line_end": 6639,
    "n_lines": 16,
    "diplomatic": "81\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr.\nSo sehr der Herr von Triebenfeld, und Eysenhardt auch\nin mich dringen, daß ich ihnen bestimmte Nachricht von des\nitzigen Lage des Güter tausches schaffen soll; so bin ich\ndoch nicht im Stande Euer hochfürstl. Durchl. heute etwas\nbestimtes zu melden. In der Südpreußischen Registra¬\ntus mit Expedition, woran ich so eben zurückomme, ist\nnoch nichts angekommen; dies ist ein Zeichen, daß die\nSache noch in der Correspondenz zwischen dem Minister\nv. Voss, und dem Geh[eimen]. Finanz Rath Schulze stecken muß\nund noch nichts decretirt ist. Ich halte es nicht zweck¬\nmäßig der p Schulze so oft mit meinen Visiten zu be¬\nhelligen, da ich was er vorläufig wißen muß, ihm\nschon das vorgemahl gesagt habe, ich werde daher bis",
    "transcription": "81\nDurchlauchtigster Fürst\nGnädigster Fürst und Herr.\nSo sehr der Herr von Triebenfeld, und Eysenhardt auch\nin mich dringen, daß ich ihnen bestimmte Nachricht von des\nitzigen Lage des Güter tausches schaffen soll; so bin ich\ndoch nicht im Stande Euer hochfürstl. Durchl. heute etwas\nbestimtes zu melden. In der Südpreußischen Registra-\ntus mit Expedition, woran ich so eben zurückomme, ist\nnoch nichts angekommen; dies ist ein Zeichen, daß die\nSache noch in der Correspondenz zwischen dem Minister\nv. Voss, und dem Geh[eimen]. Finanz Rath Schulze stecken muß\nund noch nichts decretirt ist. Ich halte es nicht zweck-\nmäßig der p Schulze so oft mit meinen Visiten zu be-\nhelligen, da ich was er vorläufig wißen muß, ihm\nschon das vorgemahl gesagt habe, ich werde daher bis",
@@ -54,6 +54,8 @@
     "So sehr der Herr von Triebenfeld, und Eysenhardt auch in mich dringen, daß ich ihnen bestimmte Nachricht von des itzigen Lage des Güter tausches schaffen soll; so bin ich doch nicht im Stande Euer hochfürstl. Durchl. heute etwas bestimtes zu melden. In der Südpreußischen Registratus mit Expedition, woran ich so eben zurückomme, ist noch nichts angekommen; dies ist ein Zeichen, daß die Sache noch in der Correspondenz zwischen dem Minister",
     "v. Voss, und dem Geh[eimen]. Finanz Rath Schulze stecken muß und noch nichts decretirt ist. Ich halte es nicht zweckmäßig der p Schulze so oft mit meinen Visiten zu behelligen, da ich was er vorläufig wißen muß, ihm schon das vorgemahl gesagt habe, ich werde daher bis"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0169_a-L81_01.jpg",
@@ -63,8 +65,8 @@
   {
    "page": 2,
    "page_id": "0170_a1",
-   "line_start": 6612,
-   "line_end": 6624,
+   "line_start": 6641,
+   "line_end": 6653,
    "n_lines": 13,
    "diplomatic": "bis zum Eingang Euer durchl. Vollmacht weiter, und\nda ich selbiger am künftigen Dienstag entgegen sehe,\nunverzüglich alsdenn mich damit zu legitimiren, und\neine zuverläßige Erkundigung von H. Schulze von\nzuziehen, bemühet seyn.\nIch ersterbe\nEuer hochfürstl. durchl.\nBerlin\nden 13. Octobr.\n1798\nunterthänigst treu gehor¬\nsamstes\nMichaelis",
    "transcription": "bis zum Eingang Euer durchl. Vollmacht weiter, und\nda ich selbiger am künftigen Dienstag entgegen sehe,\nunverzüglich alsdenn mich damit zu legitimiren, und\neine zuverläßige Erkundigung von H. Schulze von\nzuziehen, bemühet seyn.\nIch ersterbe\nEuer hochfürstl. durchl.\nBerlin\nden 13. Octobr.\n1798\nunterthänigst treu gehor-\nsamstes\nMichaelis",
@@ -75,6 +77,8 @@
     "1798 unterthänigst treu gehorsamstes",
     "Michaelis"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0170_a1-L81_02.jpg",
@@ -91,7 +95,7 @@
    "page": 1,
    "page_id": "0169_a",
    "scan": "Oe_1_Bu_9454_0169_a-L81_01.jpg",
-   "line": 6598,
+   "line": 6627,
    "doc_line": 4
   },
   {
@@ -102,7 +106,7 @@
    "page": 1,
    "page_id": "0169_a",
    "scan": "Oe_1_Bu_9454_0169_a-L81_01.jpg",
-   "line": 6598,
+   "line": 6627,
    "doc_line": 4
   },
   {
@@ -113,7 +117,7 @@
    "page": 1,
    "page_id": "0169_a",
    "scan": "Oe_1_Bu_9454_0169_a-L81_01.jpg",
-   "line": 6606,
+   "line": 6635,
    "doc_line": 12
   },
   {
@@ -124,7 +128,7 @@
    "page": 1,
    "page_id": "0169_a",
    "scan": "Oe_1_Bu_9454_0169_a-L81_01.jpg",
-   "line": 6606,
+   "line": 6635,
    "doc_line": 12
   },
   {
@@ -135,7 +139,7 @@
    "page": 1,
    "page_id": "0169_a",
    "scan": "Oe_1_Bu_9454_0169_a-L81_01.jpg",
-   "line": 6608,
+   "line": 6637,
    "doc_line": 14
   },
   {
@@ -146,7 +150,7 @@
    "page": 2,
    "page_id": "0170_a1",
    "scan": "Oe_1_Bu_9454_0170_a1-L81_02.jpg",
-   "line": 6615,
+   "line": 6644,
    "doc_line": 20
   },
   {
@@ -157,7 +161,7 @@
    "page": 2,
    "page_id": "0170_a1",
    "scan": "Oe_1_Bu_9454_0170_a1-L81_02.jpg",
-   "line": 6624,
+   "line": 6653,
    "doc_line": 29
   }
  ],
@@ -172,7 +176,7 @@
    "page": 2,
    "page_id": "0170_a1",
    "scan": "Oe_1_Bu_9454_0170_a1-L81_02.jpg",
-   "line": 6619,
+   "line": 6648,
    "doc_line": 24
   }
  ],

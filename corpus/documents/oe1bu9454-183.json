@@ -20,8 +20,8 @@
  "place": "",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 13141,
- "line_end": 13157,
+ "line_start": 13193,
+ "line_end": 13209,
  "uncertainty_count": 2,
  "has_damage": 1,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0349_b",
-   "line_start": 13143,
-   "line_end": 13157,
+   "line_start": 13195,
+   "line_end": 13209,
    "n_lines": 15,
    "diplomatic": "183\nEs ist hier ein Pasquill unter den Titel Preußischer Charaktüre erschienen\nda werden Ewr Durchlaucht eben sehr angegriffen, und selbst meine Wenig¬\nkeit komt in Ihrer Geschichte vor\nEs heißt der Fürst braucht viel Geld er hat einen Geschäfts von in der\nPerson des Krieges Rath v. Triebenfeld dieser aber scheint sein Intresse\nmehr bey des Fürsten Sache zu benuzzen und sich zu bereichern. Es ist ein\nintriganter Mensch der sich von einem Bedienten zum Edellung hinauf\ngearbeitet hat. —\nIch hatte daß Buch mitgeschickt, aber selbst die Französische Behörde\nhat es confisciren laßen — übrigens soll der Verfaßer der Obrist\nMassenbach um der hiesige Profeßor Buch holz sein\n[...] Es erst völlig erwiesen, daß Massenbach der Fabriquant ist,\n[...]n stehen ihm meine Pistolen zu dienste.\nder biedere Köckritz wird auch grausam mitgenommen",
    "transcription": "183\nEs ist hier ein Pasquill unter den Titel Preußischer Charaktüre erschienen\nda werden Ewr Durchlaucht eben sehr angegriffen, und selbst meine Wenig-\nkeit komt in Ihrer Geschichte vor\nEs heißt der Fürst braucht viel Geld er hat einen Geschäfts von in der\nPerson des Krieges Rath v. Triebenfeld dieser aber scheint sein Intresse\nmehr bey des Fürsten Sache zu benuzzen und sich zu bereichern. Es ist ein\nintriganter Mensch der sich von einem Bedienten zum Edellung hinauf\ngearbeitet hat. —\nIch hatte daß Buch mitgeschickt, aber selbst die Französische Behörde\nhat es confisciren laßen — übrigens soll der Verfaßer der Obrist\nMassenbach um der hiesige Profeßor Buch holz sein\n[...] Es erst völlig erwiesen, daß Massenbach der Fabriquant ist,\n[...]n stehen ihm meine Pistolen zu dienste.\nder biedere Köckritz wird auch grausam mitgenommen",
@@ -48,6 +48,8 @@
     "183 Es ist hier ein Pasquill unter den Titel Preußischer Charaktüre erschienen da werden Ewr Durchlaucht eben sehr angegriffen, und selbst meine Wenigkeit komt in Ihrer Geschichte vor Es heißt der Fürst braucht viel Geld er hat einen Geschäfts von in der Person des Krieges Rath v. Triebenfeld dieser aber scheint sein Intresse mehr bey des Fürsten Sache zu benuzzen und sich zu bereichern. Es ist ein intriganter Mensch der sich von einem Bedienten zum Edellung hinauf gearbeitet hat. — Ich hatte daß Buch mitgeschickt, aber selbst die Französische Behörde hat es confisciren laßen — übrigens soll der Verfaßer der Obrist Massenbach um der hiesige Profeßor Buch holz sein [...] Es erst völlig erwiesen, daß Massenbach der Fabriquant ist, [...]n stehen ihm meine Pistolen zu dienste.",
     "der biedere Köckritz wird auch grausam mitgenommen"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0349_b-L183_01.jpg",
@@ -64,7 +66,7 @@
    "page": 1,
    "page_id": "0349_b",
    "scan": "Oe_1_Bu_9454_0349_b-L183_01.jpg",
-   "line": 13148,
+   "line": 13200,
    "doc_line": 6
   },
   {
@@ -75,7 +77,7 @@
    "page": 1,
    "page_id": "0349_b",
    "scan": "Oe_1_Bu_9454_0349_b-L183_01.jpg",
-   "line": 13154,
+   "line": 13206,
    "doc_line": 12
   },
   {
@@ -86,7 +88,7 @@
    "page": 1,
    "page_id": "0349_b",
    "scan": "Oe_1_Bu_9454_0349_b-L183_01.jpg",
-   "line": 13155,
+   "line": 13207,
    "doc_line": 13
   },
   {
@@ -97,7 +99,7 @@
    "page": 1,
    "page_id": "0349_b",
    "scan": "Oe_1_Bu_9454_0349_b-L183_01.jpg",
-   "line": 13157,
+   "line": 13209,
    "doc_line": 15
   }
  ],

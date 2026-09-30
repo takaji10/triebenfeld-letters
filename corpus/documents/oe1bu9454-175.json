@@ -20,8 +20,8 @@
  "place": "Breslau",
  "sender": "Hahn",
  "recipient": "von Triebenfeld",
- "line_start": 12337,
- "line_end": 12360,
+ "line_start": 12387,
+ "line_end": 12410,
  "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0327_b",
-   "line_start": 12339,
-   "line_end": 12352,
+   "line_start": 12389,
+   "line_end": 12402,
    "n_lines": 14,
    "diplomatic": "175\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Rath!\nIch habe dem Befehl Euer Hochwohlgebohren die anlie¬\ngenden Piecen zu übersenden, wovon das eine\nOriginal und das zweite eine Abschrifft ist.\nSr Durchlaucht bitten ergebenst hierüber\ndern Meinung zuschreiben, und was in die¬\nsen Sachen zu thun ist, besonders draengen\ndie Girard und Haugk[?], und stünden Sr. durchlaucht\nmit Ihrer Lasserwelche durch die Reiße sehr\nerschöpft wurde, nicht etwas im bloßen, so wür¬\nden Höchst Sie sogleich die erforderliche Summa\nschiken, um diesen Herrn zu befriedigen",
    "transcription": "175\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Rath!\nIch habe dem Befehl Euer Hochwohlgebohren die anlie-\ngenden Piecen zu übersenden, wovon das eine\nOriginal und das zweite eine Abschrifft ist.\nSr Durchlaucht bitten ergebenst hierüber\ndern Meinung zuschreiben, und was in die-\nsen Sachen zu thun ist, besonders draengen\ndie Girard und Haugk[?], und stünden Sr. durchlaucht\nmit Ihrer Lasserwelche durch die Reiße sehr\nerschöpft wurde, nicht etwas im bloßen, so wür-\nden Höchst Sie sogleich die erforderliche Summa\nschiken, um diesen Herrn zu befriedigen",
@@ -48,6 +48,8 @@
     "175",
     "Hochwohlgebohrner Herr Hochzuverehrender Herr Krieges und Forst Rath! Ich habe dem Befehl Euer Hochwohlgebohren die anliegenden Piecen zu übersenden, wovon das eine Original und das zweite eine Abschrifft ist. Sr Durchlaucht bitten ergebenst hierüber dern Meinung zuschreiben, und was in diesen Sachen zu thun ist, besonders draengen die Girard und Haugk[?], und stünden Sr. durchlaucht mit Ihrer Lasserwelche durch die Reiße sehr erschöpft wurde, nicht etwas im bloßen, so würden Höchst Sie sogleich die erforderliche Summa schiken, um diesen Herrn zu befriedigen"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0327_b-L175_01.jpg",
@@ -57,8 +59,8 @@
   {
    "page": 2,
    "page_id": "0328_a1",
-   "line_start": 12354,
-   "line_end": 12360,
+   "line_start": 12404,
+   "line_end": 12410,
    "n_lines": 7,
    "diplomatic": "Ich empfehle mich zu fernerer Gewogenheit\nund beharre in treuer Verehrung\nEuer Hochwohlgebohren\nBreslau d 2ten August\n1805.\nunterthäniger Diener\nA. Hahn",
    "transcription": "Ich empfehle mich zu fernerer Gewogenheit\nund beharre in treuer Verehrung\nEuer Hochwohlgebohren\nBreslau d 2ten August\n1805.\nunterthäniger Diener\nA. Hahn",
@@ -68,6 +70,8 @@
     "unterthäniger Diener",
     "A. Hahn"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0328_a1-L175_02.jpg",
@@ -84,7 +88,7 @@
    "page": 2,
    "page_id": "0328_a1",
    "scan": "Oe_1_Bu_9454_0328_a1-L175_02.jpg",
-   "line": 12357,
+   "line": 12407,
    "doc_line": 18
   }
  ],
@@ -99,7 +103,7 @@
    "page": 2,
    "page_id": "0328_a1",
    "scan": "Oe_1_Bu_9454_0328_a1-L175_02.jpg",
-   "line": 12357,
+   "line": 12407,
    "doc_line": 18
   }
  ],

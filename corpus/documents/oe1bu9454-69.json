@@ -20,8 +20,8 @@
  "place": "Kontop",
  "sender": "Bally",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 5402,
- "line_end": 5430,
+ "line_start": 5426,
+ "line_end": 5454,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0134_a",
-   "line_start": 5404,
-   "line_end": 5413,
+   "line_start": 5428,
+   "line_end": 5437,
    "n_lines": 10,
    "diplomatic": "69\nDurchlauchtigſter Fürſt,\nGnädigster Fürst und Herr!\nEuer Hochfürstlichen Durchlaucht werden durch den H.\nH. Lombardini schon erfahren haben, daß ich das Geld\nnicht sogleich in Breslau habe empfangen können und\nnoch ohne die großen Hinderniße der unbeschreiblichen Wege\nund Wetters bin aufgehalten worden. Demohngeachtet\naber von Breslau aus meine Reise so beschleuniget, daß\nden 25ten zu Mittag hier war und Honrichs und Cabanis",
    "transcription": "69\nDurchlauchtigſter Fürſt,\nGnädigster Fürst und Herr!\nEuer Hochfürstlichen Durchlaucht werden durch den H.\nH. Lombardini schon erfahren haben, daß ich das Geld\nnicht sogleich in Breslau habe empfangen können und\nnoch ohne die großen Hinderniße der unbeschreiblichen Wege\nund Wetters bin aufgehalten worden. Demohngeachtet\naber von Breslau aus meine Reise so beschleuniget, daß\nden 25ten zu Mittag hier war und Honrichs und Cabanis",
@@ -51,6 +51,8 @@
     "Euer Hochfürstlichen Durchlaucht werden durch den H.",
     "H. Lombardini schon erfahren haben, daß ich das Geld nicht sogleich in Breslau habe empfangen können und noch ohne die großen Hinderniße der unbeschreiblichen Wege und Wetters bin aufgehalten worden. Demohngeachtet aber von Breslau aus meine Reise so beschleuniget, daß den 25ten zu Mittag hier war und Honrichs und Cabanis"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0134_a-L69_01.jpg",
@@ -60,8 +62,8 @@
   {
    "page": 2,
    "page_id": "0135_a1",
-   "line_start": 5415,
-   "line_end": 5430,
+   "line_start": 5439,
+   "line_end": 5454,
    "n_lines": 16,
    "diplomatic": "noch angetroffen, welche dann auch, nachdem Honrichs\n6000 rt. und die Schenkungs Urkunden in original mit den\nFrohesten Aussichten, noch denselben Tag abgefahren.\nDen Herr K[rieges]. R[ath]. von Triebenfeld befinden sich am rechtl. Arm\nsehr leydend, doch haben Sie mir versprochen, so bald Sie nur\nhier Ihre eigene Geschäften zur beendiget haben würden, sogleich\nauf einigen Wochen nach Schlawentz zu kommen.\nNachdem hierüber aller erhaltenen Gnädigst Aufträgen werden antworte erhalte\nhaben werde ich eylen zurück zu kommen.\nIn tiefsten Unterwerfung ersterben als\nEuer Hochfürstlich Durchlaucht\nKontop\nd. 26ten febr.\n1810.\nunterthänigst treu gehorsamte\nBally",
    "transcription": "noch angetroffen, welche dann auch, nachdem Honrichs\n6000 rt. und die Schenkungs Urkunden in original mit den\nFrohesten Aussichten, noch denselben Tag abgefahren.\nDen Herr K[rieges]. R[ath]. von Triebenfeld befinden sich am rechtl. Arm\nsehr leydend, doch haben Sie mir versprochen, so bald Sie nur\nhier Ihre eigene Geschäften zur beendiget haben würden, sogleich\nauf einigen Wochen nach Schlawentz zu kommen.\nNachdem hierüber aller erhaltenen Gnädigst Aufträgen werden antworte erhalte\nhaben werde ich eylen zurück zu kommen.\nIn tiefsten Unterwerfung ersterben als\nEuer Hochfürstlich Durchlaucht\nKontop\nd. 26ten febr.\n1810.\nunterthänigst treu gehorsamte\nBally",
@@ -73,6 +75,8 @@
     "unterthänigst treu gehorsamte",
     "Bally"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0135_a1-L69_02.jpg",
@@ -89,7 +93,7 @@
    "page": 1,
    "page_id": "0134_a",
    "scan": "Oe_1_Bu_9454_0134_a-L69_01.jpg",
-   "line": 5408,
+   "line": 5432,
    "doc_line": 5
   },
   {
@@ -100,7 +104,7 @@
    "page": 1,
    "page_id": "0134_a",
    "scan": "Oe_1_Bu_9454_0134_a-L69_01.jpg",
-   "line": 5413,
+   "line": 5437,
    "doc_line": 10
   },
   {
@@ -111,7 +115,7 @@
    "page": 2,
    "page_id": "0135_a1",
    "scan": "Oe_1_Bu_9454_0135_a1-L69_02.jpg",
-   "line": 5415,
+   "line": 5439,
    "doc_line": 11
   },
   {
@@ -122,7 +126,7 @@
    "page": 2,
    "page_id": "0135_a1",
    "scan": "Oe_1_Bu_9454_0135_a1-L69_02.jpg",
-   "line": 5418,
+   "line": 5442,
    "doc_line": 14
   },
   {
@@ -133,7 +137,7 @@
    "page": 2,
    "page_id": "0135_a1",
    "scan": "Oe_1_Bu_9454_0135_a1-L69_02.jpg",
-   "line": 5430,
+   "line": 5454,
    "doc_line": 26
   }
  ],
@@ -148,7 +152,7 @@
    "page": 1,
    "page_id": "0134_a",
    "scan": "Oe_1_Bu_9454_0134_a-L69_01.jpg",
-   "line": 5409,
+   "line": 5433,
    "doc_line": 6
   },
   {
@@ -159,7 +163,7 @@
    "page": 1,
    "page_id": "0134_a",
    "scan": "Oe_1_Bu_9454_0134_a-L69_01.jpg",
-   "line": 5412,
+   "line": 5436,
    "doc_line": 9
   },
   {
@@ -170,7 +174,7 @@
    "page": 2,
    "page_id": "0135_a1",
    "scan": "Oe_1_Bu_9454_0135_a1-L69_02.jpg",
-   "line": 5426,
+   "line": 5450,
    "doc_line": 22
   }
  ],

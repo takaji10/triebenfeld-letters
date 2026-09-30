@@ -20,8 +20,8 @@
  "place": "Kalisz",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 10507,
- "line_end": 10543,
+ "line_start": 10540,
+ "line_end": 10576,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0282_a",
-   "line_start": 10509,
-   "line_end": 10526,
+   "line_start": 10542,
+   "line_end": 10559,
    "n_lines": 18,
    "diplomatic": "145\nDurchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable krank; indes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus — der Mensch zahlt\ndie 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Consentiment des Pupillen Collegiums aufs reinen\ngebracht ist.\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten — es fehlt ihm aber der Contract und eine voll\nmacht — den Contract hat Rochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.",
    "transcription": "145\nDurchlauchtigster Fürst\nGnädigster Herr!\nNachdem ich den Wage und beinahe den Hals dazu gebrochen, bin ich,\nobwohl etwas zerquatscht, dennoch wohlbehalten hier in Kalisz an\ngelangt. Der gröste Verlust ist die Zeit, die ich zur reparien\nmeines Wagens bedarf, um damit weiter reisen zu können\nDer Hoffrath Grimm liegt miserable krank; indes wird\ner dem v. Radzinski verarbeiten, wozu aber die Contracte\nerfordert würden.\nMit dem Honrichs sieht es übel aus — der Mensch zahlt\ndie 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und\nmit Consentiment des Pupillen Collegiums aufs reinen\ngebracht ist.\nDer p Grimm will ihm sofort gerichtlich zur Zahlung an\nhalten — es fehlt ihm aber der Contract und eine voll\nmacht — den Contract hat Rochlitz, auch hat derselbe eine\nVollmacht zur Betreibung dieser Sache gehabt.",
@@ -54,6 +54,8 @@
     "Mit dem Honrichs sieht es übel aus — der Mensch zahlt die 4000 rthl nicht, ohnerachtet alles quittirt gelöſcht und mit Consentiment des Pupillen Collegiums aufs reinen gebracht ist.",
     "Der p Grimm will ihm sofort gerichtlich zur Zahlung an halten — es fehlt ihm aber der Contract und eine voll macht — den Contract hat Rochlitz, auch hat derselbe eine Vollmacht zur Betreibung dieser Sache gehabt."
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
@@ -63,8 +65,8 @@
   {
    "page": 2,
    "page_id": "0283_a1",
-   "line_start": 10528,
-   "line_end": 10543,
+   "line_start": 10561,
+   "line_end": 10576,
    "n_lines": 16,
    "diplomatic": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er¬\nteilen, daß der Contract auf das eiligste von Rochlitz ab¬\ngefordert und mittelst Vollmacht an H. p Grimm abgeschickt\nwerde. In Trąbczyn höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin eilen\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
    "transcription": "Geruhen Ewr Hochfürstliche Durchlaucht doch den Befehl zu er-\nteilen, daß der Contract auf das eiligste von Rochlitz ab-\ngefordert und mittelst Vollmacht an H. p Grimm abgeschickt\nwerde. In Trąbczyn höhre ich giebt man andere Befehle\ndie meinen Plan gerade entgegen sind. So hat einer von\nden Befehls habern 100 Scheffel Korn an jemand geborgt\nwo Ewr Durchlaucht nie einen denen erhalten, auch hat\nman einen großen Theil der Äcker besaet\nIch werde sobald mein Wagen Mobil ist, dahin eilen\num den Ewr Durchlaucht das weitere melden.\nEhrfurchtsvoll ersterbe\nEwr hochfürstliche Durchlaucht\nKalisz den 14ten Novbr\n1804.\nunterthäniger Diener\nv Triebenfeld",
@@ -77,6 +79,8 @@
     "unterthäniger Diener",
     "v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
@@ -93,7 +97,7 @@
    "page": 1,
    "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10516,
+   "line": 10549,
    "doc_line": 8
   },
   {
@@ -104,7 +108,7 @@
    "page": 1,
    "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10517,
+   "line": 10550,
    "doc_line": 9
   },
   {
@@ -115,7 +119,7 @@
    "page": 1,
    "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10519,
+   "line": 10552,
    "doc_line": 11
   },
   {
@@ -126,7 +130,7 @@
    "page": 1,
    "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10523,
+   "line": 10556,
    "doc_line": 15
   },
   {
@@ -137,7 +141,7 @@
    "page": 1,
    "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10525,
+   "line": 10558,
    "doc_line": 17
   },
   {
@@ -148,7 +152,7 @@
    "page": 2,
    "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10529,
+   "line": 10562,
    "doc_line": 20
   },
   {
@@ -159,7 +163,7 @@
    "page": 2,
    "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10530,
+   "line": 10563,
    "doc_line": 21
   },
   {
@@ -170,7 +174,7 @@
    "page": 2,
    "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10543,
+   "line": 10576,
    "doc_line": 34
   }
  ],
@@ -185,7 +189,7 @@
    "page": 1,
    "page_id": "0282_a",
    "scan": "Oe_1_Bu_9454_0282_a-L145_01.jpg",
-   "line": 10513,
+   "line": 10546,
    "doc_line": 5
   },
   {
@@ -196,7 +200,7 @@
    "page": 2,
    "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10531,
+   "line": 10564,
    "doc_line": 22
   },
   {
@@ -207,7 +211,7 @@
    "page": 2,
    "page_id": "0283_a1",
    "scan": "Oe_1_Bu_9454_0283_a1-L145_02.jpg",
-   "line": 10540,
+   "line": 10573,
    "doc_line": 31
   }
  ],

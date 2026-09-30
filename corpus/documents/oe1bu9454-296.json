@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "Grevenitz",
  "recipient": "von Triebenfeld",
- "line_start": 20928,
- "line_end": 20973,
+ "line_start": 20995,
+ "line_end": 21040,
  "uncertainty_count": 3,
  "has_damage": 0,
  "rough_transcription": 1,
@@ -42,8 +42,8 @@
   {
    "page": 1,
    "page_id": "0530_b",
-   "line_start": 20930,
-   "line_end": 20960,
+   "line_start": 20997,
+   "line_end": 21027,
    "n_lines": 31,
    "diplomatic": "296\nBerlin den 8. Xbr.\n1815\nverehrtesten Freund\nWas alhier bei mir eingelaufen ist, für\nge ich bei: der Hoffrath Bar¬\nby ist in Paris gestorben,\nich will bei der Witwe auch\nnoch nach fragen. Der Staats\nkanzler wird diese Woche\nerwartet. Philippischen\nsoll in Stache[?] sehr krank\ngeworden seyn, welches mir\ninnigst nahm gehet. Auch\nDeiner Krankheit wegen sey\nmeiner Theilnahme ver¬\nsichert. Ich erwarte doch recht\nbald.\nCosmar\nist in er¬\nei[?] Instanz\neines un¬\nredlichen\nverfahrens über¬\nführ geachtet — hat\naber appellirt. bleibt es\ndabei, so verliert er die\nvormundschaft.\nDein\ntreu geh. diener\nGrevenitz",
    "transcription": "296\nBerlin den 8. Xbr.\n1815\nverehrtesten Freund\nWas alhier bei mir eingelaufen ist, für\nge ich bei: der Hoffrath Bar-\nby ist in Paris gestorben,\nich will bei der Witwe auch\nnoch nach fragen. Der Staats\nkanzler wird diese Woche\nerwartet. Philippischen\nsoll in Stache[?] sehr krank\ngeworden seyn, welches mir\ninnigst nahm gehet. Auch\nDeiner Krankheit wegen sey\nmeiner Theilnahme ver-\nsichert. Ich erwarte doch recht\nbald.\nCosmar\nist in er\nei[?] Instanz\neines un-\nredlichen\nverfahrens über-\nführ geachtet — hat\naber appellirt. bleibt es\ndabei, so verliert er die\nvormundschaft.\nDein\ntreu geh. diener\nGrevenitz",
@@ -55,6 +55,8 @@
     "eines unredlichen verfahrens überführ geachtet — hat aber appellirt. bleibt es dabei, so verliert er die vormundschaft.",
     "Dein treu geh. diener Grevenitz"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
@@ -64,8 +66,8 @@
   {
    "page": 2,
    "page_id": "0531_b",
-   "line_start": 20962,
-   "line_end": 20973,
+   "line_start": 21029,
+   "line_end": 21040,
    "n_lines": 12,
    "diplomatic": "Gestern etc. der H. Staats Kanzler\nwirklich angelangt —  dieses\nmelde ich sogleich unter Bei fü¬\ngung der 2 Original Anlagen\nPhilippischen soll jezt ihn\nfährlich krank seyn — mein\nSchmerz ist so gros als wäre\nes meine eigne Kohler[?]\ndein\ntr[eu]. geh.\nGrevenitz\n8 Xbr. 1815.",
    "transcription": "Gestern etc. der H. Staats Kanzler\nwirklich angelangt —  dieses\nmelde ich sogleich unter Bei fü-\ngung der 2 Original Anlagen\nPhilippischen soll jezt ihn\nfährlich krank seyn — mein\nSchmerz ist so gros als wäre\nes meine eigne Kohler[?]\ndein\ntr[eu]. geh.\nGrevenitz\n8 Xbr. 1815.",
@@ -76,6 +78,8 @@
     "Grevenitz",
     "8 Xbr. 1815."
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0531_b-L296_02.jpg",
@@ -92,7 +96,7 @@
    "page": 1,
    "page_id": "0530_b",
    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
-   "line": 20948,
+   "line": 21015,
    "doc_line": 19
   },
   {
@@ -103,7 +107,7 @@
    "page": 1,
    "page_id": "0530_b",
    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
-   "line": 20960,
+   "line": 21027,
    "doc_line": 31
   },
   {
@@ -114,7 +118,7 @@
    "page": 2,
    "page_id": "0531_b",
    "scan": "Oe_1_Bu_9454_0531_b-L296_02.jpg",
-   "line": 20972,
+   "line": 21039,
    "doc_line": 42
   }
  ],
@@ -129,7 +133,7 @@
    "page": 1,
    "page_id": "0530_b",
    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
-   "line": 20931,
+   "line": 20998,
    "doc_line": 2
   },
   {
@@ -140,7 +144,7 @@
    "page": 1,
    "page_id": "0530_b",
    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
-   "line": 20936,
+   "line": 21003,
    "doc_line": 7
   }
  ],

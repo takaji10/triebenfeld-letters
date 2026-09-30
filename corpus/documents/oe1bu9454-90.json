@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 7245,
- "line_end": 7272,
+ "line_start": 7274,
+ "line_end": 7301,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0189_b",
-   "line_start": 7247,
-   "line_end": 7272,
+   "line_start": 7276,
+   "line_end": 7301,
    "n_lines": 26,
    "diplomatic": "90\nDurchlauchtigster Fürst\nGnädigster Herr!\nJezt gilt die Sache — nun ist der Kampf groß — ich hoffe zu\nGott daß wir siegen — Aber ich habe Menschen kennen\nlernen — Was Ewr Hochfürstl Durchlaucht ein höchst Ihren\nSchreiben an Glenck sagen — daß wann die gewiße\nPerson nicht jezt indirecte handle, so sey er der,\nder Freude davon habe von die Sache Contrecarirt\nwürde. Es kan wohl so sein\nAllen wie gesagt Gott wird helfen — Es ist wahrlich\nſchräcklich wie es hier geht.\nDer Monarch ist gut — nur die Mini — o Gott das\narme Land! — Aber es wird beßer werden\nNur jezt muß man sorgen — oder — es ist aus\nDie 7000 rt welche die Fürstin Sacken durch keines\nweges herschließen will, würde ich auf meinen Nahmen\nNegociren, um all mein Haabe verpfänden, damit man\neine so gute Sache sich nicht entgehen, sieht — Ich ersterbe\nEwr Hochfürstliche Durchlaucht\nIch gebe alles wegen es erfordert sei, und habe ich nichts mehr\nden guten Ewr Durch mich brod in Ingelfingen, — O was\ngiebt es vor Bösewichter hier — ad in Breslau\nBerlin d. 14ten Xbr 1798.\ntreu unterthänigsten Knecht\nv Triebenfeld",
    "transcription": "90\nDurchlauchtigster Fürst\nGnädigster Herr!\nJezt gilt die Sache — nun ist der Kampf groß — ich hoffe zu\nGott daß wir siegen — Aber ich habe Menschen kennen\nlernen — Was Ewr Hochfürstl Durchlaucht ein höchst Ihren\nSchreiben an Glenck sagen — daß wann die gewiße\nPerson nicht jezt indirecte handle, so sey er der,\nder Freude davon habe von die Sache Contrecarirt\nwürde. Es kan wohl so sein\nAllen wie gesagt Gott wird helfen — Es ist wahrlich\nſchräcklich wie es hier geht.\nDer Monarch ist gut — nur die Mini — o Gott das\narme Land! — Aber es wird beßer werden\nNur jezt muß man sorgen — oder — es ist aus\nDie 7000 rt welche die Fürstin Sacken durch keines\nweges herschließen will, würde ich auf meinen Nahmen\nNegociren, um all mein Haabe verpfänden, damit man\neine so gute Sache sich nicht entgehen, sieht — Ich ersterbe\nEwr Hochfürstliche Durchlaucht\nIch gebe alles wegen es erfordert sei, und habe ich nichts mehr\nden guten Ewr Durch mich brod in Ingelfingen, — O was\ngiebt es vor Bösewichter hier — ad in Breslau\nBerlin d. 14ten Xbr 1798.\ntreu unterthänigsten Knecht\nv Triebenfeld",
@@ -53,6 +53,8 @@
     "treu unterthänigsten Knecht",
     "v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
@@ -69,7 +71,7 @@
    "page": 1,
    "page_id": "0189_b",
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
-   "line": 7253,
+   "line": 7282,
    "doc_line": 7
   },
   {
@@ -80,7 +82,7 @@
    "page": 1,
    "page_id": "0189_b",
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
-   "line": 7262,
+   "line": 7291,
    "doc_line": 16
   },
   {
@@ -91,7 +93,7 @@
    "page": 1,
    "page_id": "0189_b",
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
-   "line": 7272,
+   "line": 7301,
    "doc_line": 26
   }
  ],
@@ -106,7 +108,7 @@
    "page": 1,
    "page_id": "0189_b",
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
-   "line": 7268,
+   "line": 7297,
    "doc_line": 22
   },
   {
@@ -117,7 +119,7 @@
    "page": 1,
    "page_id": "0189_b",
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
-   "line": 7269,
+   "line": 7298,
    "doc_line": 23
   },
   {
@@ -128,7 +130,7 @@
    "page": 1,
    "page_id": "0189_b",
    "scan": "Oe_1_Bu_9454_0189_b-L90_01.jpg",
-   "line": 7270,
+   "line": 7299,
    "doc_line": 24
   }
  ],

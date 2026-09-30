@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 6564,
- "line_end": 6592,
+ "line_start": 6593,
+ "line_end": 6621,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0168_b",
-   "line_start": 6566,
-   "line_end": 6592,
+   "line_start": 6595,
+   "line_end": 6621,
    "n_lines": 27,
    "diplomatic": "80\nDurchlauchtigster Fürst\nGnädigster Herr!\nVermuthlich werden Ewr Hochfürstliche Durchlaucht mein\nSchreiben, welches ich gestern dem H. Hauptmann u. Hahn mit\ngegeben wohl schon erhalten habe. — Außer diesen worin\nich alles gesagt habe, hohle ich nur noch nach, daß der\nMinister Hoym recht vergnügt von Potsdam retournirt\nist, wo nach Versicherung eines andern Mannes ver¬\nschiedenes von Ewr Durchlaucht gesprochen worden —\nEs ist hierbey bestättiget daß Sie der gute Mo¬\nnarch wahrhaftig schäzt, und in dieser Hinsicht hoffe\nich wird und muß alles nach Wunsch gehen\nHeute raisonnirt man hier sehr viel von Marschen oder\nKrieg — ich glaube noch nicht daran, den der Monarchen\nhält zu feste Grundsäzze, und behauptet seine redlich\ngute Vorsäzze —\nVon des Herrn von Voss Excellenz ist noch nichts zurück\nDer Himmel regiere sein Herz damit er nicht gegen\ndes Königs Intresse und gegen Ewr Durchlaucht Ruhe\nhandle.\nIn tiefſter Verehrung erſterbe\nEwr Hochfürstliche Durchlaucht\nBerlin d. 9ten Octob.\n1798.\ntreuester Knecht\nv. Triebenfeld",
    "transcription": "80\nDurchlauchtigster Fürst\nGnädigster Herr!\nVermuthlich werden Ewr Hochfürstliche Durchlaucht mein\nSchreiben, welches ich gestern dem H. Hauptmann u. Hahn mit\ngegeben wohl schon erhalten habe. — Außer diesen worin\nich alles gesagt habe, hohle ich nur noch nach, daß der\nMinister Hoym recht vergnügt von Potsdam retournirt\nist, wo nach Versicherung eines andern Mannes ver-\nschiedenes von Ewr Durchlaucht gesprochen worden —\nEs ist hierbey bestättiget daß Sie der gute Mo-\nnarch wahrhaftig schäzt, und in dieser Hinsicht hoffe\nich wird und muß alles nach Wunsch gehen\nHeute raisonnirt man hier sehr viel von Marschen oder\nKrieg — ich glaube noch nicht daran, den der Monarchen\nhält zu feste Grundsäzze, und behauptet seine redlich\ngute Vorsäzze —\nVon des Herrn von Voss Excellenz ist noch nichts zurück\nDer Himmel regiere sein Herz damit er nicht gegen\ndes Königs Intresse und gegen Ewr Durchlaucht Ruhe\nhandle.\nIn tiefſter Verehrung erſterbe\nEwr Hochfürstliche Durchlaucht\nBerlin d. 9ten Octob.\n1798.\ntreuester Knecht\nv. Triebenfeld",
@@ -56,6 +56,8 @@
     "treuester Knecht",
     "v. Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0168_b-L80_01.jpg",
@@ -72,7 +74,7 @@
    "page": 1,
    "page_id": "0168_b",
    "scan": "Oe_1_Bu_9454_0168_b-L80_01.jpg",
-   "line": 6573,
+   "line": 6602,
    "doc_line": 8
   },
   {
@@ -83,7 +85,7 @@
    "page": 1,
    "page_id": "0168_b",
    "scan": "Oe_1_Bu_9454_0168_b-L80_01.jpg",
-   "line": 6583,
+   "line": 6612,
    "doc_line": 18
   },
   {
@@ -94,7 +96,7 @@
    "page": 1,
    "page_id": "0168_b",
    "scan": "Oe_1_Bu_9454_0168_b-L80_01.jpg",
-   "line": 6592,
+   "line": 6621,
    "doc_line": 27
   }
  ],
@@ -109,7 +111,7 @@
    "page": 1,
    "page_id": "0168_b",
    "scan": "Oe_1_Bu_9454_0168_b-L80_01.jpg",
-   "line": 6573,
+   "line": 6602,
    "doc_line": 8
   },
   {
@@ -120,7 +122,7 @@
    "page": 1,
    "page_id": "0168_b",
    "scan": "Oe_1_Bu_9454_0168_b-L80_01.jpg",
-   "line": 6589,
+   "line": 6618,
    "doc_line": 24
   }
  ],

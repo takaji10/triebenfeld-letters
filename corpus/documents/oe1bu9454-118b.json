@@ -20,8 +20,8 @@
  "place": "Breslau",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 8918,
- "line_end": 8943,
+ "line_start": 8949,
+ "line_end": 8974,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0237_a2",
-   "line_start": 8920,
-   "line_end": 8943,
+   "line_start": 8951,
+   "line_end": 8974,
    "n_lines": 24,
    "diplomatic": "Die Gräfin Schlabrendorff wird mit die 50000 Rthl bis Weinachten\noder eigentlich bis d. 1ten Januar 1805 warten, zu einem längern\nTermin hat sie Homuth nicht bewegen können.\nSie hat sehr kläglich gethan daß sie so viel verliere müste, und\nDa sie keine Intressen von dieses Capital erhielte, so wäre der\nVerlust noch größer wann sie länger als bis den 1 ten Januar\n1805 warten solte —\nIst dem so daß Ewer durchlaucht bis dahin keine Interessen zahlen\ndürfen, so glaube ich daß es leicht fallen wird, sich bey diesen\nTermin zu beruhigen — Es sind doch dabey 2500 Rthl gewonnen —\nund bis zu der Zeit wird Geld genug eingehen —\nHomuth bittet um den Vergleich, damit er das nötige auf\nsezzen und der Gräfin zur Vollziehung zu schicken könne —\nEr wird probiren ob er bey der Gelegenheit die alten Wechsel\nheraus bekommen kan.\nDer Conducteur Cabanis ist abgegangen\nEr wird sich draußen eine Bauer Fuhre\nmiethen die er glaubt vor 4 oder 5 rt.\nzu erhalten. Hier wolte die Mieths\nKutscher 20 rt. habe und verlangten\nnoch auf Entter und Gott weis was\neine Beihülfe —\nBreslau den 29ten Marz 1804.\nv Triebenfeld",
    "transcription": "Die Gräfin Schlabrendorff wird mit die 50000 Rthl bis Weinachten\noder eigentlich bis d. 1ten Januar 1805 warten, zu einem längern\nTermin hat sie Homuth nicht bewegen können.\nSie hat sehr kläglich gethan daß sie so viel verliere müste, und\nDa sie keine Intressen von dieses Capital erhielte, so wäre der\nVerlust noch größer wann sie länger als bis den 1 ten Januar\n1805 warten solte —\nIst dem so daß Ewer durchlaucht bis dahin keine Interessen zahlen\ndürfen, so glaube ich daß es leicht fallen wird, sich bey diesen\nTermin zu beruhigen — Es sind doch dabey 2500 Rthl gewonnen —\nund bis zu der Zeit wird Geld genug eingehen —\nHomuth bittet um den Vergleich, damit er das nötige auf\nsezzen und der Gräfin zur Vollziehung zu schicken könne —\nEr wird probiren ob er bey der Gelegenheit die alten Wechsel\nheraus bekommen kan.\nDer Conducteur Cabanis ist abgegangen\nEr wird sich draußen eine Bauer Fuhre\nmiethen die er glaubt vor 4 oder 5 rt.\nzu erhalten. Hier wolte die Mieths\nKutscher 20 rt. habe und verlangten\nnoch auf Entter und Gott weis was\neine Beihülfe —\nBreslau den 29ten Marz 1804.\nv Triebenfeld",
@@ -51,6 +51,8 @@
     "Breslau den 29ten Marz 1804.",
     "v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0237_a2-L118b_01.jpg",
@@ -67,7 +69,7 @@
    "page": 1,
    "page_id": "0237_a2",
    "scan": "Oe_1_Bu_9454_0237_a2-L118b_01.jpg",
-   "line": 8920,
+   "line": 8951,
    "doc_line": 1
   },
   {
@@ -78,7 +80,7 @@
    "page": 1,
    "page_id": "0237_a2",
    "scan": "Oe_1_Bu_9454_0237_a2-L118b_01.jpg",
-   "line": 8943,
+   "line": 8974,
    "doc_line": 24
   }
  ],
@@ -93,7 +95,7 @@
    "page": 1,
    "page_id": "0237_a2",
    "scan": "Oe_1_Bu_9454_0237_a2-L118b_01.jpg",
-   "line": 8942,
+   "line": 8973,
    "doc_line": 23
   }
  ],

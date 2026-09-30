@@ -20,8 +20,8 @@
  "place": "Wien[?]",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 504,
- "line_end": 533,
+ "line_start": 510,
+ "line_end": 539,
  "uncertainty_count": 3,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -42,8 +42,8 @@
   {
    "page": 1,
    "page_id": "0014_a",
-   "line_start": 506,
-   "line_end": 533,
+   "line_start": 512,
+   "line_end": 539,
    "n_lines": 28,
    "diplomatic": "den Augenblick als mich niedersezte um Ewr Durchlaucht zu schreiben erhielt ich auf einemmahlen\n3 Briefe — einer von 8ten einen von 25 um 27ten Novbr. — Die beifolgende zuvermünden meinen\narmen Kinder brachte, mich beinahe zum Wahnsinn und mit zitternder Hand schreibe ich —\nErbarmen sie sich doch und schicken an die Kinder 120 rt und bleiben ich noch lange, wieder\npro Monath aber 60 rt. — die Würmer müßen zu erhängern —\nIch opfern mich hier für Sie, ich lebe blos von erborgten Gelde, ich ſezze mein und meiner\nKinder Wohl um Ihrentwillen aus den Augen, und Sie sind so unbarmherzig und\nlaßen die Kinder die höchste Noth troz allen meinen Bitte leiden —\nIhre Sache steht nun himmlisch gut, selbst die Können nun schon Credit haben, also laßen\nSie dort meine Kinder nicht hungern — Dölchen Seiche sind nur die Klagelieder der verlaßenen\nKinder im Herzen — Seine und Glieder mögte mir erlahmen, wenn ich das Jammer geschrey\nlaßen muß, und dennoch soll ich für Sie mein Fürst arbeiten\nJezt noch eins — wäre es den nicht möglich von dem Cur[ischen] Mandatarius ein kleine\nſchriftliche Zusage zu erhalten, daß die Sache mit 112/m rt abgemacht ſeyn ſolle.\nder Fürst glaubt mir, aber wir haben mächtige Feinde — Mann Spreizt[?] gewalt\nden Wochen, über das was gegen das pp geschehen geschehen ist, und hätte ich nicht\ndurch dem adten B. — es am gehörigen Ort wißen laßen daß H. z. M. v. Kirche[?] selbst die\nParthey anzusehen sey, weil er als O Vormund in der Sache paradiere, so wäre\nalles nach Berlin geſandt —\nHahn wird sich sehr freuen ich werde ihm selbst schreiben\nNur sorgen Sie gnädiger Herr für meine Kinder dorten, — ich werde schon hier sorgen\nPapinse[?] brauche ich jezt nicht hierher, den die ſind nur dorten nötig. Außer ein\npaar Worte von kurischen Mandatarius —\nSo bekomme ich den 2ten Brief von\nmeine arme Tochter — Fürst helfen\nSie oder mich hohlt der Teufel\nMeine Kinder und ich gehen im Elend\nunter und das in Ihrentwillen.",
    "transcription": "den Augenblick als mich niedersezte um Ewr Durchlaucht zu schreiben erhielt ich auf einemmahlen\n3 Briefe — einer von 8ten einen von 25 um 27ten Novbr. — Die beifolgende zuvermünden meinen\narmen Kinder brachte, mich beinahe zum Wahnsinn und mit zitternder Hand schreibe ich —\nErbarmen sie sich doch und schicken an die Kinder 120 rt und bleiben ich noch lange, wieder\npro Monath aber 60 rt. — die Würmer müßen zu erhängern —\nIch opfern mich hier für Sie, ich lebe blos von erborgten Gelde, ich ſezze mein und meiner\nKinder Wohl um Ihrentwillen aus den Augen, und Sie sind so unbarmherzig und\nlaßen die Kinder die höchste Noth troz allen meinen Bitte leiden —\nIhre Sache steht nun himmlisch gut, selbst die Können nun schon Credit haben, also laßen\nSie dort meine Kinder nicht hungern — Dölchen Seiche sind nur die Klagelieder der verlaßenen\nKinder im Herzen — Seine und Glieder mögte mir erlahmen, wenn ich das Jammer geschrey\nlaßen muß, und dennoch soll ich für Sie mein Fürst arbeiten\nJezt noch eins — wäre es den nicht möglich von dem Cur[ischen] Mandatarius ein kleine\nſchriftliche Zusage zu erhalten, daß die Sache mit 112/m rt abgemacht ſeyn ſolle.\nder Fürst glaubt mir, aber wir haben mächtige Feinde — Mann Spreizt[?] gewalt\nden Wochen, über das was gegen das pp geschehen geschehen ist, und hätte ich nicht\ndurch dem adten B. — es am gehörigen Ort wißen laßen daß H. z. M. v. Kirche[?] selbst die\nParthey anzusehen sey, weil er als O Vormund in der Sache paradiere, so wäre\nalles nach Berlin geſandt —\nHahn wird sich sehr freuen ich werde ihm selbst schreiben\nNur sorgen Sie gnädiger Herr für meine Kinder dorten, — ich werde schon hier sorgen\nPapinse[?] brauche ich jezt nicht hierher, den die ſind nur dorten nötig. Außer ein\npaar Worte von kurischen Mandatarius —\nSo bekomme ich den 2ten Brief von\nmeine arme Tochter — Fürst helfen\nSie oder mich hohlt der Teufel\nMeine Kinder und ich gehen im Elend\nunter und das in Ihrentwillen.",
@@ -56,6 +56,8 @@
     "Meine Kinder und ich gehen im Elend",
     "unter und das in Ihrentwillen."
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0014_a-L8_01.jpg",
@@ -75,7 +77,7 @@
    "page": 1,
    "page_id": "0014_a",
    "scan": "Oe_1_Bu_9454_0014_a-L8_01.jpg",
-   "line": 524,
+   "line": 530,
    "doc_line": 19
   }
  ],

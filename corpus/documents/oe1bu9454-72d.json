@@ -20,8 +20,8 @@
  "place": "Warschau",
  "sender": "Brzechffa",
  "recipient": "von Triebenfeld",
- "line_start": 5832,
- "line_end": 5846,
+ "line_start": 5856,
+ "line_end": 5870,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0147_a2",
-   "line_start": 5834,
-   "line_end": 5846,
+   "line_start": 5858,
+   "line_end": 5870,
    "n_lines": 13,
    "diplomatic": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie¬\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausfahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich dir\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab¬\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Brude[r]\nBrzechffa",
    "transcription": "Warschau den 5t Maerz 1812.\nLieber Bruder\nIch eile dich zu benachrichtigen, daß ich verschie-\ndner Geschäfte wegen erst den 15t d. M. aus\nWarschau werde ausfahren können. Die Sache\nwegen Trąbczyn steht eingezogenen zuverläßigen\nNachrichten zu folge recht gut, worüber ich dir\nmündlich ein Mehreres sagen werde.\nwegen Kürze der Zeit, da die Gelegenheit ab-\ngeht, kann ich Dir nicht mehr schreiben\nLeb wol\ndem Freund und Brude[r]\nBrzechffa",
@@ -52,6 +52,8 @@
     "dem Freund und Brude[r]",
     "Brzechffa"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
@@ -68,7 +70,7 @@
    "page": 1,
    "page_id": "0147_a2",
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
-   "line": 5846,
+   "line": 5870,
    "doc_line": 13
   }
  ],
@@ -83,7 +85,7 @@
    "page": 1,
    "page_id": "0147_a2",
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
-   "line": 5834,
+   "line": 5858,
    "doc_line": 1
   },
   {
@@ -94,7 +96,7 @@
    "page": 1,
    "page_id": "0147_a2",
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
-   "line": 5838,
+   "line": 5862,
    "doc_line": 5
   },
   {
@@ -105,7 +107,7 @@
    "page": 1,
    "page_id": "0147_a2",
    "scan": "Oe_1_Bu_9454_0147_a2-L72d_01.jpg",
-   "line": 5839,
+   "line": 5863,
    "doc_line": 6
   }
  ],

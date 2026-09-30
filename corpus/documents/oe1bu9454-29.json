@@ -20,8 +20,8 @@
  "place": "Schlawenschitz",
  "sender": "Bally",
  "recipient": "von Triebenfeld",
- "line_start": 1924,
- "line_end": 1952,
+ "line_start": 1930,
+ "line_end": 1958,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0051_b",
-   "line_start": 1926,
-   "line_end": 1936,
+   "line_start": 1932,
+   "line_end": 1942,
    "n_lines": 11,
    "diplomatic": "29\nHochwohlgeborner Herr,\nHöchst zu verehrender Herr Krieges Rath!\nals Ew. Hochwohlgeboren ich die Ehr hatte mit dem Hoffrath\nHahn in Lohsen bei Brieg zu begegnen, waren Sie so gnädig\nnur ein Rendez Vous zu versprechen, noch der Retour von\nMemel. Da dies noch nicht geschehen und ich vermuthen, daß\nHochdieselben schon wieder in Breslau seyn werden, so unter¬\nstehen mich hiermit gehorsamst zu bitten, ob ich Hoffnung\nhaben kann und wann durch in Breslau war aufzuwarten\nda ich von meinen gnädigsten Herrn Durchlaucht darum gefragt wor[den]",
    "transcription": "29\nHochwohlgeborner Herr,\nHöchst zu verehrender Herr Krieges Rath!\nals Ew. Hochwohlgeboren ich die Ehr hatte mit dem Hoffrath\nHahn in Lohsen bei Brieg zu begegnen, waren Sie so gnädig\nnur ein Rendez Vous zu versprechen, noch der Retour von\nMemel. Da dies noch nicht geschehen und ich vermuthen, daß\nHochdieselben schon wieder in Breslau seyn werden, so unter-\nstehen mich hiermit gehorsamst zu bitten, ob ich Hoffnung\nhaben kann und wann durch in Breslau war aufzuwarten\nda ich von meinen gnädigsten Herrn Durchlaucht darum gefragt wor[den]",
@@ -50,6 +50,8 @@
     "Höchst zu verehrender Herr Krieges Rath!",
     "als Ew. Hochwohlgeboren ich die Ehr hatte mit dem Hoffrath Hahn in Lohsen bei Brieg zu begegnen, waren Sie so gnädig nur ein Rendez Vous zu versprechen, noch der Retour von Memel. Da dies noch nicht geschehen und ich vermuthen, daß Hochdieselben schon wieder in Breslau seyn werden, so unterstehen mich hiermit gehorsamst zu bitten, ob ich Hoffnung haben kann und wann durch in Breslau war aufzuwarten da ich von meinen gnädigsten Herrn Durchlaucht darum gefragt wor[den]"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
@@ -59,8 +61,8 @@
   {
    "page": 2,
    "page_id": "0052_a1",
-   "line_start": 1938,
-   "line_end": 1952,
+   "line_start": 1944,
+   "line_end": 1958,
    "n_lines": 15,
    "diplomatic": "Sehr glücklich, wann Ew. Hochwohlgeboren ich die Ehre haben\nkönnten zu sprechen, würden es mich machen, nur im Augen,\nBlick hör ich, daß wir auch hier französisch Einquartierung\nbekommen sollen: da könnte ich nicht vom Fleck und noch\nhärten wären es, wann ich die Stallungen räumen sollten.\nund wird einen andern Aufenthalts Ort suchen.\nDemohngeachtet hoffe ich bald mündlich die Ehren haben zu\nkönnen, zu versichern, daß ich in tiefster Hochachtung\nerstorben ad\nEw. Hochwohlgeboren\nSchlawenschitz\nd. 10. Februar\n1808\ntreu gehorſamſt\nBally",
    "transcription": "Sehr glücklich, wann Ew. Hochwohlgeboren ich die Ehre haben\nkönnten zu sprechen, würden es mich machen, nur im Augen,\nBlick hör ich, daß wir auch hier französisch Einquartierung\nbekommen sollen: da könnte ich nicht vom Fleck und noch\nhärten wären es, wann ich die Stallungen räumen sollten.\nund wird einen andern Aufenthalts Ort suchen.\nDemohngeachtet hoffe ich bald mündlich die Ehren haben zu\nkönnen, zu versichern, daß ich in tiefster Hochachtung\nerstorben ad\nEw. Hochwohlgeboren\nSchlawenschitz\nd. 10. Februar\n1808\ntreu gehorſamſt\nBally",
@@ -73,6 +75,8 @@
     "treu gehorſamſt",
     "Bally"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0052_a1-L29_02.jpg",
@@ -89,7 +93,7 @@
    "page": 2,
    "page_id": "0052_a1",
    "scan": "Oe_1_Bu_9454_0052_a1-L29_02.jpg",
-   "line": 1952,
+   "line": 1958,
    "doc_line": 26
   }
  ],
@@ -104,7 +108,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1930,
+   "line": 1936,
    "doc_line": 5
   },
   {
@@ -115,7 +119,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1930,
+   "line": 1936,
    "doc_line": 5
   },
   {
@@ -126,7 +130,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1932,
+   "line": 1938,
    "doc_line": 7
   },
   {
@@ -137,7 +141,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1933,
+   "line": 1939,
    "doc_line": 8
   },
   {
@@ -148,7 +152,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1935,
+   "line": 1941,
    "doc_line": 10
   },
   {
@@ -159,7 +163,7 @@
    "page": 2,
    "page_id": "0052_a1",
    "scan": "Oe_1_Bu_9454_0052_a1-L29_02.jpg",
-   "line": 1948,
+   "line": 1954,
    "doc_line": 22
   }
  ],

@@ -190,6 +190,22 @@ def main():
         # German first, then the summary and the English under their own
         # headings, so a grep hit says which language it was found in.
         body = ['\n'.join(head), r['text']]
+        # Text written sideways on the page stands in the text above like any
+        # other line; this says which lines those are (document line numbers).
+        side = []
+        for p in (r.get('pages') or []):
+            ks = p.get('sideways_lines') or []
+            runs = []
+            for k in ks:
+                if runs and k == runs[-1][1] + 1:
+                    runs[-1][1] = k
+                else:
+                    runs.append([k, k])
+            for a, b in runs:
+                side.append(f'page {p["page"]}, lines {p["doc_line_start"] + a}'
+                            f'-{p["doc_line_start"] + b}')
+        if side:
+            body.append('\n--- WRITTEN SIDEWAYS ON THE PAGE ---\n' + '\n'.join(side))
         if sum_de:
             body.append('\n--- SUMMARY (German) ---\n' + sum_de)
         if sum_en:

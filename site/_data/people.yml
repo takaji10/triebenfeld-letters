@@ -141,8 +141,8 @@
   letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "40", url: "/documents/oe1bu14525/40/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "75", url: "/documents/oe1bu9454/75/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "80", url: "/documents/oe1bu9454/80/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "86", url: "/documents/oe1bu9454/86/"}, {id: "87", url: "/documents/oe1bu9454/87/"}, {id: "98", url: "/documents/oe1bu9454/98/"}, {id: "102", url: "/documents/oe1bu9454/102/"}, {id: "107", url: "/documents/oe1bu9454/107/"}, {id: "101", url: "/documents/oe1bu9454/101/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "41", url: "/documents/oe1bu14525/41/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "humboldt"
   name: "Wilhelm von Humboldt"
-  count: 16
-  letters: [{id: "247", url: "/documents/oe1bu9454/247/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "250", url: "/documents/oe1bu9454/250/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "260", url: "/documents/oe1bu9454/260/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "299", url: "/documents/oe1bu9454/299/"}]
+  count: 17
+  letters: [{id: "247", url: "/documents/oe1bu9454/247/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "250", url: "/documents/oe1bu9454/250/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "260", url: "/documents/oe1bu9454/260/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "282", url: "/documents/oe1bu9454/282/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "299", url: "/documents/oe1bu9454/299/"}]
 - slug: "jankowski"
   name: "Jankowski"
   count: 1
@@ -205,8 +205,8 @@
   letters: [{id: "183", url: "/documents/oe1bu9454/183/"}, {id: "57", url: "/documents/oe1bu9454/57/"}, {id: "53", url: "/documents/oe1bu9454/53/"}]
 - slug: "meierowitz"
   name: "Franz Meierowitz"
-  count: 12
-  letters: [{id: "169", url: "/documents/oe1bu9454/169/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "21", url: "/documents/oe1bu14526/21/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "22", url: "/documents/oe1bu9454/22/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "237", url: "/documents/oe1bu9454/237/"}, {id: "238", url: "/documents/oe1bu9454/238/"}]
+  count: 13
+  letters: [{id: "169", url: "/documents/oe1bu9454/169/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "21", url: "/documents/oe1bu14526/21/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "22", url: "/documents/oe1bu9454/22/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "237", url: "/documents/oe1bu9454/237/"}, {id: "238", url: "/documents/oe1bu9454/238/"}]
 - slug: "melzer"
   name: "Melzer"
   count: 10
@@ -297,8 +297,8 @@
   letters: [{id: "14", url: "/documents/oe1bu14525/14/"}, {id: "2", url: "/documents/oe1bu14526/2/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "145", url: "/documents/oe1bu9454/145/"}, {id: "147", url: "/documents/oe1bu9454/147/"}, {id: "158", url: "/documents/oe1bu9454/158/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "71", url: "/documents/oe1bu9454/71/"}]
 - slug: "sacken"
   name: "Sacken (Sakken)"
-  count: 21
-  letters: [{id: "77", url: "/documents/oe1bu9454/77/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "90", url: "/documents/oe1bu9454/90/"}, {id: "98", url: "/documents/oe1bu9454/98/"}, {id: "247", url: "/documents/oe1bu9454/247/"}, {id: "107", url: "/documents/oe1bu9454/107/"}, {id: "137", url: "/documents/oe1bu9454/137/"}, {id: "42", url: "/documents/oe1bu9454/42/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "55", url: "/documents/oe1bu9454/55/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "74a", url: "/documents/oe1bu9454/74a/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}, {id: "74d", url: "/documents/oe1bu9454/74d/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "234", url: "/documents/oe1bu9454/234/"}, {id: "245", url: "/documents/oe1bu9454/245/"}, {id: "248", url: "/documents/oe1bu9454/248/"}]
+  count: 22
+  letters: [{id: "77", url: "/documents/oe1bu9454/77/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "90", url: "/documents/oe1bu9454/90/"}, {id: "98", url: "/documents/oe1bu9454/98/"}, {id: "247", url: "/documents/oe1bu9454/247/"}, {id: "107", url: "/documents/oe1bu9454/107/"}, {id: "137", url: "/documents/oe1bu9454/137/"}, {id: "42", url: "/documents/oe1bu9454/42/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "55", url: "/documents/oe1bu9454/55/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "74a", url: "/documents/oe1bu9454/74a/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}, {id: "74d", url: "/documents/oe1bu9454/74d/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "234", url: "/documents/oe1bu9454/234/"}, {id: "245", url: "/documents/oe1bu9454/245/"}, {id: "248", url: "/documents/oe1bu9454/248/"}]
 - slug: "sarre"
   name: "Gottlieb Sarre"
   count: 1
@@ -629,8 +629,8 @@
   letters: [{id: "55", url: "/documents/oe1bu9454/55/"}, {id: "51", url: "/documents/oe1bu9454/51/"}]
 - slug: "grevenitz"
   name: "Grevenitz"
-  count: 8
-  letters: [{id: "42", url: "/documents/oe1bu9454/42/"}, {id: "43", url: "/documents/oe1bu9454/43/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "198", url: "/documents/oe1bu9454/198/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
+  count: 9
+  letters: [{id: "42", url: "/documents/oe1bu9454/42/"}, {id: "43", url: "/documents/oe1bu9454/43/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "198", url: "/documents/oe1bu9454/198/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
 - slug: "haugt"
   name: "Haugt"
   count: 6

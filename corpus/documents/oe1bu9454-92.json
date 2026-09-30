@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "Michaelis",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 7305,
- "line_end": 7327,
+ "line_start": 7334,
+ "line_end": 7356,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0192_a",
-   "line_start": 7307,
-   "line_end": 7327,
+   "line_start": 7336,
+   "line_end": 7356,
    "n_lines": 21,
    "diplomatic": "92\nDurchlauchtigſter Fürſt,\nGnädigſter Fürſt und Herr,\nDie von Ew. Hochfürstlichen Durchlaucht mir vorigen Posttag\nausgebetene Auskunft habe ich dadurch erhalten, daß der Herr\nBaurath Glenck mir am Donntag die Quittungen der\nGleisſenbergen und des Schneider zugeſtellt hat, wodurch\nich mich völlig im Stand gesetzt fühle, dem General Auditoriat\nauf ſeine Ew. Hochfürſtlichen Durchlaucht mitgetheilte Verfü¬\ngungen antworten zu können.\nIch zweifle nicht, daß der Herr Krieges Rath v. Triebenfeld\nEw: hochfürſtlichen Durchlaucht von der itzigen Lage der\nKroctoczyner tausp. Angelegenheit heute Nachricht geben\nwird, und erſterbe in tiefſtem Respect\nEw. Hochfürstlichen Durchlaucht\nBerlin\ndie 18ten Decbr.\n1798.\nunterthänigst treu gehor\nsamſtes\nMichaelis",
    "transcription": "92\nDurchlauchtigſter Fürſt,\nGnädigſter Fürſt und Herr,\nDie von Ew. Hochfürstlichen Durchlaucht mir vorigen Posttag\nausgebetene Auskunft habe ich dadurch erhalten, daß der Herr\nBaurath Glenck mir am Donntag die Quittungen der\nGleisſenbergen und des Schneider zugeſtellt hat, wodurch\nich mich völlig im Stand gesetzt fühle, dem General Auditoriat\nauf ſeine Ew. Hochfürſtlichen Durchlaucht mitgetheilte Verfü-\ngungen antworten zu können.\nIch zweifle nicht, daß der Herr Krieges Rath v. Triebenfeld\nEw: hochfürſtlichen Durchlaucht von der itzigen Lage der\nKroctoczyner tausp. Angelegenheit heute Nachricht geben\nwird, und erſterbe in tiefſtem Respect\nEw. Hochfürstlichen Durchlaucht\nBerlin\ndie 18ten Decbr.\n1798.\nunterthänigst treu gehor\nsamſtes\nMichaelis",
@@ -53,6 +53,8 @@
     "samſtes",
     "Michaelis"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0192_a-L92_01.jpg",
@@ -69,7 +71,7 @@
    "page": 1,
    "page_id": "0192_a",
    "scan": "Oe_1_Bu_9454_0192_a-L92_01.jpg",
-   "line": 7312,
+   "line": 7341,
    "doc_line": 6
   },
   {
@@ -80,7 +82,7 @@
    "page": 1,
    "page_id": "0192_a",
    "scan": "Oe_1_Bu_9454_0192_a-L92_01.jpg",
-   "line": 7317,
+   "line": 7346,
    "doc_line": 11
   },
   {
@@ -91,7 +93,7 @@
    "page": 1,
    "page_id": "0192_a",
    "scan": "Oe_1_Bu_9454_0192_a-L92_01.jpg",
-   "line": 7327,
+   "line": 7356,
    "doc_line": 21
   }
  ],
@@ -106,7 +108,7 @@
    "page": 1,
    "page_id": "0192_a",
    "scan": "Oe_1_Bu_9454_0192_a-L92_01.jpg",
-   "line": 7322,
+   "line": 7351,
    "doc_line": 16
   }
  ],

@@ -20,8 +20,8 @@
  "place": "Breslau",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 9120,
- "line_end": 9133,
+ "line_start": 9151,
+ "line_end": 9164,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0244_a2",
-   "line_start": 9122,
-   "line_end": 9133,
+   "line_start": 9153,
+   "line_end": 9164,
    "n_lines": 12,
    "diplomatic": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen — Sie wollen im 4 Uhr bey Ewr Hoch¬\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü¬\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen — ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
    "transcription": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen — Sie wollen im 4 Uhr bey Ewr Hoch-\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü-\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen — ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
@@ -49,6 +49,8 @@
    "paragraphs": [
     "125 Seiner Hochfürstliche Durchlaucht Die Leute aus Olesnica sind mit die Gelder an gekommen — Sie wollen im 4 Uhr bey Ewr Hochfürstliche Durchlaucht sein. Ich habe hier etwas mit sie verhandelt, darüber werde ich Euer Durchlaucht Nachmittag Vortrag machen — ich glaube es wird Ewr Durchlaucht nicht unlieb sein Breslau den 28ten April 1804 v Triebenfeld"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
@@ -65,7 +67,7 @@
    "page": 1,
    "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9133,
+   "line": 9164,
    "doc_line": 12
   }
  ],
@@ -80,7 +82,7 @@
    "page": 1,
    "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9125,
+   "line": 9156,
    "doc_line": 4
   },
   {
@@ -91,7 +93,7 @@
    "page": 1,
    "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9132,
+   "line": 9163,
    "doc_line": 11
   }
  ],

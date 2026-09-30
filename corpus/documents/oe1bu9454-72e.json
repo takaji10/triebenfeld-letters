@@ -20,8 +20,8 @@
  "place": "Warschau",
  "sender": "Brzechffa",
  "recipient": "von Triebenfeld",
- "line_start": 5847,
- "line_end": 5865,
+ "line_start": 5871,
+ "line_end": 5889,
  "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0148_a2",
-   "line_start": 5849,
-   "line_end": 5865,
+   "line_start": 5873,
+   "line_end": 5889,
    "n_lines": 17,
    "diplomatic": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechffa",
    "transcription": "w Warszawie dnia 5 Marca [18]12.\nKochany Bracie!\nPospieszam z doniesieniem, iż dla\nróżnych Interessów dopiero w dniu\n15 m.b. z Warszawy będę mógł\nwyiechać. Okoliczność względem\nTrąbczyna podług powziętey pewney\nwiadomości w dobrym znayduie\nsię położeniu, w czym przy powro\ncie dokładniey obiacnie.\nDla krótkośći czasu ponieważ\nokazya odchodzi nie mogę\nwięcey pisać.\nBędąc zdrów\n[k?]ony Bracie!\nprzyiaciela\nB. Brzechffa",
@@ -54,6 +54,8 @@
     "przyiaciela",
     "B. Brzechffa"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
@@ -70,7 +72,7 @@
    "page": 1,
    "page_id": "0148_a2",
    "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
-   "line": 5865,
+   "line": 5889,
    "doc_line": 17
   }
  ],
@@ -85,7 +87,7 @@
    "page": 1,
    "page_id": "0148_a2",
    "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
-   "line": 5855,
+   "line": 5879,
    "doc_line": 7
   }
  ],

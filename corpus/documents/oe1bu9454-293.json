@@ -20,8 +20,8 @@
  "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 20823,
- "line_end": 20824,
+ "line_start": 20890,
+ "line_end": 20891,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "",
-   "line_start": 20824,
-   "line_end": 20824,
+   "line_start": 20891,
+   "line_end": 20891,
    "n_lines": 1,
    "diplomatic": "(missing)",
    "transcription": "(missing)",
@@ -47,6 +47,8 @@
    "paragraphs": [
     "(missing)"
    ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "scan": "",

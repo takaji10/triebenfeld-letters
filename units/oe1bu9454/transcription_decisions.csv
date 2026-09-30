@@ -3906,3 +3906,16 @@ e0dfd804,oe1bu9454-279,1,ja,zu,@19745 ja -> zu,"Whole-letter reading (2026-09-29
 ada79af7,oe1bu9454-297,1,Podepro,Podagra,@20996 Podepro -> Podagra,"Whole-letter reading (2026-09-29), same_letter: line 24: Podagra"
 50aaa099,oe1bu9454-005,2,am,an,@385 am -> an,"Whole-letter reading (2026-09-29), grammar: 'an Ewr Durchlaucht gesandte Schreiben'"
 ee9db5fc,oe1bu9454-303,2,Helempner,Klempner,@21462 Helempner -> Klempner,"Whole-letter reading (2026-09-29), same_letter: dem Klempner Fürst, line 135"
+d679eedb,oe1bu9454-003,2,B.s,B[arbe]s,@289 B.s -> B[arbe]s,Vienna 1815: B. is Barbe in these letters (B[arbe] 36 times; letter 3 line 12)
+2538300f,oe1bu9454-038,1,legte,lezte,@2886 legte -> lezte,'das legte Band' has no grammatical reading; his form lezte (84 times); z read as g
+32f976d7,oe1bu9454-041,4,Chatoulle[?],Chatoulle,@3102 Chatoulle[?] -> Chatoulle,"editor's doubt settled: 'in der Chatoulle haben', single reading"
+e4ad392d,oe1bu9454-079,4,Sakken,Sacken,@6588 Sakken -> Sacken,name standard: Fürstin Sacken (30 times in 9454)
+74d39ac9,oe1bu9454-136,4,dende,denke,@9906 dende -> denke,nonword where the sentence needs its verb; 'denke ich' 15 times
+940c6c25,oe1bu9454-168,4,Swięcer,Swięcier,@11973 Swięcer -> Swięcier,place standard: his adjective is Swięcier (4 times); name_decisions
+ba1b4765,oe1bu9454-168,4,Husten,Hufen,@11974 Husten -> Hufen,same line 'pro Hufe': a contract on 28 Hufen; long s/f
+dd06c0d9,oe1bu9454-210,4,Maierowitz,Meierowitz,@14946 Maierowitz -> Meierowitz,name standard (people.yml meierowitz)
+17800881,oe1bu9454-210,4,Anon,Canon,@14943 Anon -> Canon,nonword; 'Canon' is Meierowitz's annual payment in letter 164 line 25
+c59c48d6,oe1bu9454-282,2,Humbolt,Humboldt,@20064 Humbolt -> Humboldt,name standard (Humboldt 18 times)
+8341a046,oe1bu9454-164,1,Schnee,Schein,@11614 Schnee -> Schein,editor on the scan (sideways_queries s01): 'nur zum Schein'
+3499624f,oe1bu9454-169,4,Lust spielig,Kost spielig,@12075 Lust spielig -> Kost spielig,editor on the scan (sideways_queries s02)
+2856c3ad,oe1bu9454-210,4,kleinen[?],Klemme,@14945 kleinen[?] -> Klemme,editor on the scan (sideways_queries s03): 'in der Klemme'
