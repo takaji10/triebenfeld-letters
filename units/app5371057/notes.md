@@ -1,6 +1,6 @@
 # 53/71/0/-/57 (APP)
 
-One court file: 4 documents on 21 pages, plus the title page, 1806-1811. The
+One court file: 1 document on 21 pages, plus the title page, 1806-1811. The
 hereditary-lease contract between the Prince of Hohenlohe-Ingelfingen and the
 settler Christoph Erbet over one Magdeburg Hufe of the Trąbczyn forest, with
 what was filed with it.
@@ -23,27 +23,28 @@ the pairing declared, so every page carries its [PAGE] marker.
 
 ## Documents
 
-Numbered 1-4 in the order they are bound; the file has no numbers of its own.
-Where each starts is in review/app5371057/document_boundaries.csv.
+One document (editor, 2026-09-30: split further it gets too granular). The
+title page (0001) is front matter. The package, in the order it is bound:
 
-1. contract. The protocol of the Trąbczyn patrimonial court, Actum Marianton,
-   31 March 1806 (the date written out in words): Triebenfeld, for the Prince,
-   lets the Hufe to Erbet for 100 rt entry money and 30 rt a year, in sixteen
-   paragraphs. It ends with the court's order of 23 May 1806 to engross it.
-2. letter, in Polish. Hawich to the peace court of the Konin district, Drzewce,
-   28 March 1811, handing over the file on the Tribunal's order with a bill of
-   costs (9 Tal. 18 dgl.) to be recovered from Erbet.
-3. certified_copy. The powers of attorney filed as Triebenfeld's legitimation:
-   a blank special power of attorney, and a copy of the Prince's general power
-   of attorney (Guhrwitz, 19 February 1805) certified at Marianton on 31 March
-   1806. Dated by the certification.
-4. certification. The engrossment of the contract and its two covering notes,
-   Marianton, 23 May 1806.
+- pages 1-12 (0002-0013): the protocol of the Trąbczyn patrimonial court, Actum
+  Marianton, 31 March 1806 (the date written out in words). Triebenfeld, for
+  the Prince, lets the Hufe to Erbet for 100 rt entry money and 30 rt a year,
+  in sixteen paragraphs. It ends with the court's order of 23 May 1806 to
+  engross it.
+- pages 13-14 (0014-0015), in Polish: Hawich to the peace court of the Konin
+  district, Drzewce, 28 March 1811, handing over the file on the Tribunal's
+  order, with a bill of costs (9 Tal. 18 dgl.) to be recovered from Erbet.
+- pages 15-19 (0016-0021): the powers of attorney filed as Triebenfeld's
+  legitimation. A blank special power of attorney, and a copy of the Prince's
+  general power of attorney (Guhrwitz, 19 February 1805), certified at
+  Marianton on 31 March 1806.
+- pages 20-21 (0022-0023): the engrossment of the contract and its two
+  covering notes, Marianton, 23 May 1806.
 
-The package convention of 14526 would make 1, 3 and 4 one document. The 1811
-letter is bound between them, and a document must be a continuous run of pages,
-so they are separate, linked by relations (2 transmits 1, 3 supplements 1,
-4 certifies 1).
+Dated by the contract that heads it (31 March 1806), as 14526 dates its
+packages. Recorded as German; the Polish pages are named in the translation
+note. It was first built as four documents with relations between them, and
+merged the same day.
 
 ## Quirks worth knowing
 
@@ -53,8 +54,9 @@ so they are separate, linked by relations (2 transmits 1, 3 supplements 1,
   It had been in the name seeds as a person; that seed is dropped.
 - 14526's Trąbczyn lease contracts (documents 6-16) use the same formulas, from
   the same court, in the same weeks, and are the witness for most corrections.
-- The contract's paragraph numbers read VII twice and have no IX. That is on
-  the spot sheet.
+- The contract's paragraph numbers read VII twice and had no IX. The editor
+  read the scan (2026-09-30): the second is §. VIII, and §. IX is on the page;
+  the missing heading line was added, and the numbering now runs I-XVI.
 
 ## Corrections (2026-09-30)
 

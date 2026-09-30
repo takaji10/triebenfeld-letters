@@ -10172,8 +10172,8 @@
   "place": "Marianton",
   "sender": "",
   "recipient": "",
-  "n_pages": 12,
-  "n_lines": 274,
+  "n_pages": 21,
+  "n_lines": 511,
   "scans": [
    {
     "page": 1,
@@ -10234,13 +10234,58 @@
     "page": 12,
     "page_id": "0013_a",
     "image": "APP_53_71_0_57_0013_a-L1_12.jpg"
+   },
+   {
+    "page": 13,
+    "page_id": "0014_a",
+    "image": "APP_53_71_0_57_0014_a-L1_13.jpg"
+   },
+   {
+    "page": 14,
+    "page_id": "0015_a",
+    "image": "APP_53_71_0_57_0015_a-L1_14.jpg"
+   },
+   {
+    "page": 15,
+    "page_id": "0016_a",
+    "image": "APP_53_71_0_57_0016_a-L1_15.jpg"
+   },
+   {
+    "page": 16,
+    "page_id": "0017_a",
+    "image": "APP_53_71_0_57_0017_a-L1_16.jpg"
+   },
+   {
+    "page": 17,
+    "page_id": "0018_a",
+    "image": "APP_53_71_0_57_0018_a-L1_17.jpg"
+   },
+   {
+    "page": 18,
+    "page_id": "0019_a",
+    "image": "APP_53_71_0_57_0019_a-L1_18.jpg"
+   },
+   {
+    "page": 19,
+    "page_id": "0021_a",
+    "image": "APP_53_71_0_57_0021_a-L1_19.jpg"
+   },
+   {
+    "page": 20,
+    "page_id": "0022_a",
+    "image": "APP_53_71_0_57_0022_a-L1_20.jpg"
+   },
+   {
+    "page": 21,
+    "page_id": "0023_a",
+    "image": "APP_53_71_0_57_0023_a-L1_21.jpg"
    }
   ],
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 4,
+  "mentions": 8,
+  "places_named": 12,
   "estates": [
    "trabczyn"
   ],
@@ -10252,69 +10297,6 @@
   "path": "documents/app5371057-1.json",
   "text_path": "text/app5371057-1.txt",
   "permalink": "/documents/app5371057/1/"
- },
- {
-  "uid": "app5371057-3",
-  "unit": "app5371057",
-  "letter_id": "3",
-  "doc_type": "certified_copy",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "app-poznan",
-  "date_iso": "1806-03-31",
-  "date_precision": "day",
-  "date_source": "dateline",
-  "place": "Marianton",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 5,
-  "n_lines": 108,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0016_a",
-    "image": "APP_53_71_0_57_0016_a-L3_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0017_a",
-    "image": "APP_53_71_0_57_0017_a-L3_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0018_a",
-    "image": "APP_53_71_0_57_0018_a-L3_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0019_a",
-    "image": "APP_53_71_0_57_0019_a-L3_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0021_a",
-    "image": "APP_53_71_0_57_0021_a-L3_05.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 6,
-  "places_named": 10,
-  "estates": [
-   "trabczyn",
-   "zagorowo",
-   "witow"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "has_summary_de": false,
-  "legibility": "",
-  "title": "certified copy 3",
-  "path": "documents/app5371057-3.json",
-  "text_path": "text/app5371057-3.txt",
-  "permalink": "/documents/app5371057/3/"
  },
  {
   "uid": "oe1bu9454-190",
@@ -10762,52 +10744,6 @@
   "path": "documents/oe1bu9454-185.json",
   "text_path": "text/oe1bu9454-185.txt",
   "permalink": "/documents/oe1bu9454/185/"
- },
- {
-  "uid": "app5371057-4",
-  "unit": "app5371057",
-  "letter_id": "4",
-  "doc_type": "certification",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "app-poznan",
-  "date_iso": "1806-05-23",
-  "date_precision": "day",
-  "date_source": "dateline",
-  "place": "Marianton",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 2,
-  "n_lines": 66,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0022_a",
-    "image": "APP_53_71_0_57_0022_a-L4_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0023_a",
-    "image": "APP_53_71_0_57_0023_a-L4_02.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 5,
-  "estates": [
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "has_summary_de": false,
-  "legibility": "",
-  "title": "certification 4",
-  "path": "documents/app5371057-4.json",
-  "text_path": "text/app5371057-4.txt",
-  "permalink": "/documents/app5371057/4/"
  },
  {
   "uid": "oe1bu9454-187",
@@ -15111,52 +15047,6 @@
   "path": "documents/oe1bu9454-213.json",
   "text_path": "text/oe1bu9454-213.txt",
   "permalink": "/documents/oe1bu9454/213/"
- },
- {
-  "uid": "app5371057-2",
-  "unit": "app5371057",
-  "letter_id": "2",
-  "doc_type": "letter",
-  "language": "pl",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "app-poznan",
-  "date_iso": "1811-03-28",
-  "date_precision": "day",
-  "date_source": "dateline",
-  "place": "Drzewce",
-  "sender": "Hawich",
-  "recipient": "Sąd Pokoju Powiatu Konińskiego (peace court of the Konin district)",
-  "n_pages": 2,
-  "n_lines": 62,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0014_a",
-    "image": "APP_53_71_0_57_0014_a-L2_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0015_a",
-    "image": "APP_53_71_0_57_0015_a-L2_02.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 4,
-  "estates": [
-   "trabczyn"
-  ],
-  "translation_status": "untranslated",
-  "has_summary": false,
-  "has_summary_de": false,
-  "legibility": "",
-  "title": "letter 2",
-  "path": "documents/app5371057-2.json",
-  "text_path": "text/app5371057-2.txt",
-  "permalink": "/documents/app5371057/2/"
  },
  {
   "uid": "oe1bu9454-74b",

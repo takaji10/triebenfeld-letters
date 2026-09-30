@@ -405,15 +405,6 @@
   ]
  },
  {
-  "place": "Marianton",
-  "count": 3,
-  "documents": [
-   "app5371057-1",
-   "app5371057-3",
-   "app5371057-4"
-  ]
- },
- {
   "place": "Schweinern",
   "count": 3,
   "documents": [
@@ -561,6 +552,13 @@
   ]
  },
  {
+  "place": "Marianton",
+  "count": 1,
+  "documents": [
+   "app5371057-1"
+  ]
+ },
+ {
   "place": "Ingelfingen",
   "count": 1,
   "documents": [
@@ -628,13 +626,6 @@
   "count": 1,
   "documents": [
    "oe1bu9454-211"
-  ]
- },
- {
-  "place": "Drzewce",
-  "count": 1,
-  "documents": [
-   "app5371057-2"
   ]
  },
  {
