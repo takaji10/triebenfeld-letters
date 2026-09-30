@@ -698,17 +698,6 @@
    "doc_line": 537
   },
   {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 17,
-   "page_id": "0045_a2",
-   "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
-   "line": 2340,
-   "doc_line": 543
-  },
-  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -718,17 +707,6 @@
    "scan": "Oe_1_Bu_14526_0046_a1-L8_18.jpg",
    "line": 2379,
    "doc_line": 581
-  },
-  {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 22,
-   "page_id": "0048_a1",
-   "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
-   "line": 2502,
-   "doc_line": 700
   },
   {
    "entity": "hohenlohe",
@@ -1138,9 +1116,9 @@
    "page": 16
   },
   {
-   "entity": "marianton",
+   "entity": "",
    "display": "Marianton",
-   "kind": "person",
+   "kind": "place",
    "surface_de": "Marianton",
    "surface_en": "Marianton",
    "page": 17
@@ -1346,9 +1324,9 @@
    "page": 21
   },
   {
-   "entity": "marianton",
+   "entity": "",
    "display": "Marianton",
-   "kind": "person",
+   "kind": "place",
    "surface_de": "Marianton",
    "surface_en": "Marianton",
    "page": 22
@@ -1658,6 +1636,17 @@
    "doc_line": 541
   },
   {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 17,
+   "page_id": "0045_a2",
+   "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
+   "line": 2340,
+   "doc_line": 543
+  },
+  {
    "entity": "zagorowo",
    "display": "Zagórów (Zagorowo)",
    "kind": "place",
@@ -1832,6 +1821,17 @@
    "scan": "Oe_1_Bu_14526_0047_a2-L8_21.jpg",
    "line": 2492,
    "doc_line": 691
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 22,
+   "page_id": "0048_a1",
+   "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
+   "line": 2502,
+   "doc_line": 700
   },
   {
    "entity": "trabczyn",

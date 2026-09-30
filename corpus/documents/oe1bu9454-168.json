@@ -405,17 +405,6 @@
    "doc_line": 75
   },
   {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 4,
-   "page_id": "0317_a",
-   "scan": "Oe_1_Bu_9454_0317_a-L168_04.jpg",
-   "line": 11949,
-   "doc_line": 76
-  },
-  {
    "entity": "glenck",
    "display": "Glenck",
    "kind": "person",
@@ -506,6 +495,17 @@
    "scan": "Oe_1_Bu_9454_0316_a1-L168_02.jpg",
    "line": 11908,
    "doc_line": 37
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 4,
+   "page_id": "0317_a",
+   "scan": "Oe_1_Bu_9454_0317_a-L168_04.jpg",
+   "line": 11949,
+   "doc_line": 76
   },
   {
    "entity": "trabczyn",

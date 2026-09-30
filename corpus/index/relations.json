@@ -108,10 +108,28 @@
   "note": "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
  },
  {
+  "from": "app5371057-3",
+  "kind": "supplements",
+  "to": "app5371057-1",
+  "note": "The powers of attorney by which Triebenfeld is 'durch beiliegende Vollmacht legitimirt' in the contract protocol; the copy was certified at Marianton on the day of the contract, 31 March 1806."
+ },
+ {
+  "from": "app5371057-4",
+  "kind": "certifies",
+  "to": "app5371057-1",
+  "note": "The court's engrossment (Ausfertigung) of the contract protocol of 31 March 1806, issued in duplicate on 23 May 1806, as the protocol's closing decree orders."
+ },
+ {
   "from": "oe1bu9454-302",
   "kind": "duplicate_of",
   "to": "oe1bu9454-48",
   "note": ""
+ },
+ {
+  "from": "app5371057-2",
+  "kind": "transmits",
+  "to": "app5371057-1",
+  "note": "Hawich hands the Acta on the contract with Krysztof Erbet (Erbet) to the peace court of the Konin district, on the Tribunal's order, with the costs to be recovered from Erbet."
  },
  {
   "from": "oe1bu9454-72e",

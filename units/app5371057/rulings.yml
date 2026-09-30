@@ -1,0 +1,83 @@
+# Editorial rulings for 53/71/0/-/57 (APP).
+#
+# The file carries no document numbers of its own, so the four documents are
+# numbered 1-4 in the order they are bound; the title page (0001) is front
+# matter. Where each document starts, and why, is in
+# review/app5371057/document_boundaries.csv. Established 2026-09-30 by reading
+# the whole file.
+
+places:
+  # Place of writing. The court sat at Marianton (Mariantów, by Trąbczyn);
+  # Hawich wrote from Drzewce.
+  overrides:
+    "1": Marianton
+    "2": Drzewce
+    "3": Marianton
+    "4": Marianton
+
+dates:
+  # [year, month, day, precision]; null where that element is unknown.
+  # Read off each document's own dateline. Document 1's is written out in words
+  # ("den Ein und dreystigsten Maerz Ein Tausend Acht hundert und Sechs"), which
+  # the parser cannot read. Document 3 is dated by the certification of the
+  # copy (Marianton, 31 March 1806), not by the power of attorney it copies
+  # (19 February 1805), as 14526 dates its copies by their certification.
+  read:
+    "1": [1806, 3, 31, "day"]
+    "2": [1811, 3, 28, "day"]
+    "3": [1806, 3, 31, "day"]
+    "4": [1806, 5, 23, "day"]
+
+  # Taken from the document's own duplicate.
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
+
+  # Undated and left so.
+  no_date: []
+
+documents:
+  # The vocabulary of 14525 and 14526.
+  doc_type:
+    "1": contract
+    "2": letter
+    "3": certified_copy
+    "4": certification
+
+  language:
+    "2": pl
+
+  # Same document, transcribed twice.
+  duplicate_of: {}
+
+  # Why a sub-record exists, shown on the document.
+  split_note: {}
+
+  relations:
+    "2":
+      - kind: transmits
+        target: "1"
+        note: "Hawich hands the Acta on the contract with Krysztof Erbet (Erbet) to the peace court of the Konin district, on the Tribunal's order, with the costs to be recovered from Erbet."
+    "3":
+      - kind: supplements
+        target: "1"
+        note: "The powers of attorney by which Triebenfeld is 'durch beiliegende Vollmacht legitimirt' in the contract protocol; the copy was certified at Marianton on the day of the contract, 31 March 1806."
+    "4":
+      - kind: certifies
+        target: "1"
+        note: "The court's engrossment (Ausfertigung) of the contract protocol of 31 March 1806, issued in duplicate on 23 May 1806, as the protocol's closing decree orders."
+
+  # The estates each document is about. The general power of attorney covers
+  # the Zagórów, Witów and Trąbczyn estates; everything else concerns the one
+  # Hufe of the Trąbczyn forest.
+  estates:
+    "1": [trabczyn]
+    "2": [trabczyn]
+    "3": [trabczyn, zagorowo, witow]
+    "4": [trabczyn]
+
+damage:
+  # Damage is read from the text's own [...] markers. List document numbers
+  # here only for damage the transcription does not mark.
+  letters: []

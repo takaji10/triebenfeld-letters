@@ -175,6 +175,18 @@ places:
     tier: ""
     variants: ["Witow", "Wittow", "Witttow", "Wyttow", "Witowes"]
 
+  mariantow:
+    # Where the Hohenlohe patrimonial court for Trąbczyn sat: "Actum Marianton"
+    # (app5371057, 1806). Mariantów in gmina Zagórów, powiat słupecki, the area
+    # of the former gmina Trąbczyn. Also the unclear "Marianton" of 9454 letter
+    # 136. Added 2026-09-30.
+    display: "Mariantów"
+    german: "Marianton"
+    kind: village
+    match: 'Mariant[oó][nw]\w*'
+    tier: "Context-inferred"
+    variants: ["Marianton"]
+
   kamionno:
     # The register prints Kamionno. The editor ruled on 2026-09-15 that the
     # edition prints Kamionna, across every holding, departing from the register.
@@ -475,7 +487,7 @@ places:
   konin:
     display: "Konin"
     kind: town
-    match: 'Konin\w*'
+    match: 'Konin\w*|Konińsk\w*'   # Powiatu Konińskiego (app5371057 doc 2)
     tier: "Established"
     variants: []
 
@@ -717,7 +729,7 @@ places:
   drzewce:
     display: "Drzewce"
     kind: estate
-    match: 'Drzewce\w*'
+    match: 'Drzewce\w*|Drzewiec\w*'   # Polish 'z Drzewiec' (app5371057 doc 2)
     tier: ""
     variants: ["Drzewitz"]
 

@@ -715,17 +715,6 @@
    "doc_line": 416
   },
   {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 15,
-   "page_id": "0064_a2",
-   "scan": "Oe_1_Bu_14526_0064_a2-L10_15.jpg",
-   "line": 3338,
-   "doc_line": 421
-  },
-  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -1044,9 +1033,9 @@
    "page": 15
   },
   {
-   "entity": "marianton",
+   "entity": "",
    "display": "Marianton",
-   "kind": "person",
+   "kind": "place",
    "surface_de": "Marianton",
    "surface_en": "Marianton",
    "page": 15
@@ -1179,6 +1168,17 @@
    "scan": "Oe_1_Bu_14526_0064_a1-L10_14.jpg",
    "line": 3300,
    "doc_line": 384
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 15,
+   "page_id": "0064_a2",
+   "scan": "Oe_1_Bu_14526_0064_a2-L10_15.jpg",
+   "line": 3338,
+   "doc_line": 421
   },
   {
    "entity": "ingelfingen",

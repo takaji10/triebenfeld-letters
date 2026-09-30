@@ -194,17 +194,6 @@
    "doc_line": 51
   },
   {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 2,
-   "page_id": "0041_a2",
-   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-   "line": 1615,
-   "doc_line": 61
-  },
-  {
    "entity": "blomberg",
    "display": "Blomberg",
    "kind": "person",
@@ -570,6 +559,17 @@
    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
    "line": 1613,
    "doc_line": 59
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 2,
+   "page_id": "0041_a2",
+   "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+   "line": 1615,
+   "doc_line": 61
   },
   {
    "entity": "szetlewek",

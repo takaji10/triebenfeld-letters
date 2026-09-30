@@ -265,17 +265,6 @@
    "doc_line": 14
   },
   {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 1,
-   "page_id": "0340_b",
-   "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
-   "line": 12901,
-   "doc_line": 16
-  },
-  {
    "entity": "niedzwiecki",
    "display": "Maciej Niedźwiecki",
    "kind": "person",
@@ -630,6 +619,17 @@
    "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
    "line": 12900,
    "doc_line": 15
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 1,
+   "page_id": "0340_b",
+   "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
+   "line": 12901,
+   "doc_line": 16
   },
   {
    "entity": "kopojno",

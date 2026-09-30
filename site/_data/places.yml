@@ -19,6 +19,10 @@
   slug: "dresden"
   count: 1
   letters: [{id: "178", url: "/documents/oe1bu9454/178/"}]
+- name: "Drzewce"
+  slug: "drzewce"
+  count: 1
+  letters: [{id: "2", url: "/documents/app5371057/2/"}]
 - name: "Erfurt"
   slug: "erfurt"
   count: 1
@@ -67,6 +71,10 @@
   slug: "kantwicz"
   count: 1
   letters: [{id: "198", url: "/documents/oe1bu9454/198/"}]
+- name: "Mariantów (Marianton)"
+  slug: "mariantow-marianton"
+  count: 3
+  letters: [{id: "1", url: "/documents/app5371057/1/"}, {id: "3", url: "/documents/app5371057/3/"}, {id: "4", url: "/documents/app5371057/4/"}]
 - name: "Neustadt"
   slug: "neustadt"
   count: 1

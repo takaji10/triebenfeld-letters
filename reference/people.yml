@@ -1105,3 +1105,10 @@ people:
     tier: "Context-inferred"
     variants: []
     identity: "Lawyer (H. R. R.) handling the prince's lawsuits before the Kalisz tribunal, 1810-11: took over the case, paid and kept on retainer (9454 letters 207, 210, 213). Written Salz in 212 ('Salz arbeitet jezt die Sache aus') and, probably the same man, in 19; the right spelling is not settled, so the text keeps each letter's form. Salz as a word (salt) is not matched. Added 2026-09-30."
+  erbet:
+    display: "Christoph Erbet"
+    render: "Erbet"
+    match: 'Erber?t(?:a|em)?(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Erbert", "Krysztof Erbert"]
+    identity: "Settler (Einsaaße) of the Trąbczyn Hauland who took one Magdeburg Hufe of the Trąbczyn forest in hereditary lease from the Prince, 31 March 1806 (app5371057 documents 1, 4); Krysztof Erbert in Hawich's Polish letter of 1811, which asks that the court costs be recovered from him (document 2). Marks with a cross. Added 2026-09-30."

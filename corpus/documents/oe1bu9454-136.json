@@ -582,17 +582,6 @@
    "doc_line": 125
   },
   {
-   "entity": "marianton",
-   "display": "Marianton",
-   "kind": "person",
-   "surface": "Marianton",
-   "page": 7,
-   "page_id": "0265_a2",
-   "scan": "Oe_1_Bu_9454_0265_a2-L136_07.jpg",
-   "line": 9969,
-   "doc_line": 141
-  },
-  {
    "entity": "voss",
    "display": "Voss",
    "kind": "person",
@@ -1189,6 +1178,17 @@
    "scan": "Oe_1_Bu_9454_0265_a2-L136_07.jpg",
    "line": 9968,
    "doc_line": 140
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Marianton",
+   "page": 7,
+   "page_id": "0265_a2",
+   "scan": "Oe_1_Bu_9454_0265_a2-L136_07.jpg",
+   "line": 9969,
+   "doc_line": 141
   },
   {
    "entity": "trabczyn",

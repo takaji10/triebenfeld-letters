@@ -1,0 +1,81 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app5371057
+ref: 53/71/0/-/57
+archive: Archiwum Państwowe w Poznaniu (APP)
+title: >-
+  Erbpachts-Contracts zwischen dem Fürsten zu Hohenlohe-Ingelfingen: the court
+  file of the hereditary-lease contract between the Prince and Christoph Erbet
+  over one Hufe of the Trąbczyn forest
+# The file's own title reads 1806-1811: the contract and its engrossment are of
+# 1806 (with a power of attorney of 1805 copied in), and the covering letter by
+# which the file was handed to the Konin peace court is of 28 March 1811.
+date_span: 1806-1811
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The scans arrived as single pages that need no cropping (editor, 2026-09-30),
+# so crop_scans.py and split_spreads.py are not run: each scan was copied
+# unchanged into raw_dir/processed/ as <capture>_a.jpg, which is the name the
+# cropping step would have given a single leaf, and staged from there.
+# Capture 0020 is not among the scans; the text runs on from 0019 to 0021
+# without a gap, so it was a blank page or was not photographed.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/Erbpachts - Contracts - zwischen - dem Fürsten zu Hohenlohe Ingelfingen 1806-1811 (53.71.0.-.57)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: APP_53_71_0_57
+
+# Transcriptions that arrived already matched to the scans, one file per page.
+# They came as <seq>_<capture>.txt; they are kept here as <capture>_a.txt, the
+# page id of the scan each was read from (0020_0021.txt -> 0021_a.txt).
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  One court file from the Hohenlohe patrimonial court at Trąbczyn, sitting at
+  Marianton (Mariantów): the hereditary-lease contract of 31 March 1806 by which
+  the Prince of Hohenlohe-Ingelfingen, through his plenipotentiary Triebenfeld,
+  let one Magdeburg Hufe of the Trąbczyn forest to the settler Christoph Erbet
+  for ever, at 100 rt entry money and 30 rt a year. Filed with it are the
+  powers of attorney that gave Triebenfeld the right to sign, including a
+  certified copy of the Prince's general power of attorney of 19 February 1805;
+  the court's engrossment of the contract and its covering notes to both
+  parties, of 23 May 1806; and the Polish covering letter and bill of costs of
+  28 March 1811 with which Hawich handed the file to the peace court of the
+  Konin district, asking that the costs be recovered from Erbet. It is the
+  only holding here from the State Archive in Poznań, and the court record of
+  a lease of the kind 14526 holds the Prince's copies of.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  These are court and title records, not letters: formulaic chancery German
+  from a patrimonial court protocol, with Latin tags (Actum, in duplo,
+  testante protocollo de hodierno, in fidem publicam, praevia collatione,
+  L. S.) that belong to the legal register and should be kept, not rendered.
+  The contract is numbered in paragraphs (§. I to §. XVI); keep that numbering.
+
+  Document 2 is in POLISH throughout: a covering letter to the peace court of
+  the Konin district (Sąd Pokoju Powiatu Konińskiego), dated Drzewce 1811, and
+  a bill of costs (Likwidacya) in Talar and Dobry Groszy (Tal., dgl.). It is
+  source text, not corrupt German. Sąd Pokoju is the peace court; Trybunał the
+  departmental tribunal; Olędry the Hauländer (Dutch-law settlers).
+
+  Trąbczyn, Drzewce, Konin, Kalisch and Marianton (Mariantów, where the court
+  sat) are place names; Erbet (also Erbert) is the lessee's surname. A Hufe
+  Magdeburgisch is a measure of land (thirty Morgen), not a person or place.
