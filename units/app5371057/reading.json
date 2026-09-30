@@ -1,0 +1,143 @@
+{
+ "app5371057-001": {
+  "letter": "1",
+  "legibility": "sound",
+  "notes": "This is a court protocol of the Hohenlohe patrimonial court at Trąbczyn, held at Marianton on 31.3.1806. Triebenfeld, as the Prince's plenipotentiary, and the settler Christoph Erbet from the Trąbczyn Hauland declare a hereditary-lease contract for 1 Magdeburg Hufe in the Trąbczyn forest: 100 rt entry money (already paid), 30 rt a year, free years, redemption of half the canon, drink and mill compulsion. After it come the court order of 23.5.1806 on engrossment and confirmation by the government in Kalisz, and the Polish covering letter of 1811 by Hawich to the peace court in Konin with the bill of costs. Then the special power of attorney, a certified copy of the Prince's general power of attorney of 19.2.1805, the engrossment and the covering notes to Triebenfeld and to Erbet.",
+  "claims": [
+   {
+    "statement": "Triebenfeld als Bevollmächtigter des Fürsten zu Hohenlohe Ingelfingen",
+    "lines": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     13
+    ]
+   },
+   {
+    "statement": "Christoph Erbet, Einsasse aus dem Trąbczyner Hauland",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "eine Magdeburger Hufe im Trąbczyner Wald auf ewig in Erbpacht",
+    "lines": [
+     27,
+     28,
+     29,
+     32,
+     33,
+     34,
+     35
+    ]
+   },
+   {
+    "statement": "100 Rthl Einkaufsgeld, bereits bezahlt",
+    "lines": [
+     38,
+     39,
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "statement": "30 Rthl jährlicher Erbzins",
+    "lines": [
+     52,
+     53
+    ]
+   },
+   {
+    "statement": "drei Freijahre, erste Rate 15 Rthl zu Weihnachten 1809",
+    "lines": [
+     64,
+     69,
+     70
+    ]
+   },
+   {
+    "statement": "Generalvollmacht vom 19. Februar 1805",
+    "lines": [
+     344,
+     360,
+     409,
+     410
+    ]
+   },
+   {
+    "statement": "Ausfertigung vom 23. Mai 1806, Bestätigung bei der Regierung in Kalisz nachzusuchen",
+    "lines": [
+     269,
+     272,
+     273,
+     274,
+     471,
+     488,
+     490,
+     491
+    ]
+   },
+   {
+    "statement": "Hawich übergibt 1811 die Akten dem Friedensgericht des Kreises Konin und bittet, 9 Tal. 18 dgl. Kosten von Erbet durch Exekution einzutreiben",
+    "lines": [
+     277,
+     278,
+     279,
+     287,
+     289,
+     290,
+     291,
+     292,
+     300
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 289,
+    "word": "Piosztów",
+    "note": "probably 'Kosztów' (costs)"
+   },
+   {
+    "line": 294,
+    "word": "Kassować się miary",
+    "note": "garbled passage about stamp duty"
+   },
+   {
+    "line": 110,
+    "word": "gesonnen",
+    "note": "garbled; probably a word for the kinds of dues (e.g. 'gesammten')"
+   },
+   {
+    "line": 111,
+    "word": "pänglichen",
+    "note": "garbled, possibly 'königlichen'"
+   },
+   {
+    "line": 112,
+    "word": "gleitlichen",
+    "note": "garbled, possibly 'geistlichen'"
+   },
+   {
+    "line": 343,
+    "word": "mualiegenden",
+    "note": "probably 'anliegenden'"
+   },
+   {
+    "line": 382,
+    "word": "seyen",
+    "note": "probably 'setzen' (auseinander zu setzen)"
+   },
+   {
+    "line": 250,
+    "word": "verabgeredeter",
+    "note": "probably 'anders abgeredeter'"
+   }
+  ],
+  "read_against": "73437b673f872829"
+ }
+}

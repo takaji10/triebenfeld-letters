@@ -77,3 +77,22 @@ Drzewce now also match their Polish forms (Konińskiego, z Drzewiec).
 ## Damage
 
 None recorded.
+
+## Reading, translation and summaries (2026-09-30)
+
+- Read whole by read_letters.py and checked by a second call ($0.30). The
+  reading rated it "sound", proposed no corrections, and found no unsupported
+  claim. The German summary was cut from 95 words to 79 by deletion only
+  (summaries_de.yml; the reading record is in reading.json).
+- Translated into English with --tag v2 ($0.42). The translator proposed two
+  corrections that had a witness in the file: Piosztów -> Kosztów (the file's
+  German bill is headed "Kosten Liquidation") and mualiegenden -> anliegenden
+  (the file writes "anliegend"). Both were applied, and the document was
+  translated again from the corrected German ($0.43). The English marks the
+  garbled dues on page 5 and "Gütung" on page 6 as uncertain rather than
+  smoothing them. The glossary flags were checked and are acceptable:
+  General-Bevollmächtigter is "plenipotentiary", as the termbase's own gloss
+  says.
+- English summary: translated from the checked German summary by hand, not
+  summarised afresh from the English (docs/NEW_UNIT.md 6).
+- Published from v2 (`published_tag` in unit.yml).
