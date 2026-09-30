@@ -8,13 +8,13 @@ segments:
     and Elector of the Holy Roman Empire; sovereign and supreme Duke of Silesia, sovereign Prince of Orange,
     Neufchatel and Vallangin, as also of the County of Kłodzko, Duke of Magdeburg, Cleve, Berg, Szczecin,
     Pomerania, of the Cassubians and Wends, of Mecklenburg and Krosno Odrzańskie; Burgrave of Nuremberg,
-    above and below the mountains, Prince of Hildeshuom, Paderborn, Halberstadt, Münster, Minden, Cammin,
-    Wenden, Schwerin, Ratzeburg, East Frisia, Lübsfeld, Erfurt, Essen, Rücklinbüro and Ellen, Count of
+    above and below the mountains, Prince of Hildesheim, Paderborn, Halberstadt, Münster, Minden, Cammin,
+    Wenden, Schwerin, Ratzeburg, East Frisia, Eichsfeld, Erfurt, Essen, Quedlinburg and Elten, Count of
     Hohenzollern, Ruppin, the Mark, Ravensberg, Hohenstein, Tecklenburg, Schwerin, Lingen, Bühren and
-    Leerdamm; Lord of the lands of Rostock, Stargard, Strden, Limburg, Lauenburg, Bütow, Arlay and Breda,
-    etc. We do hereby make known and confess, for Ourselves and Our successors in the government, that,
-    whereas the Serene Prince, Our friendly dear cousin, Friedrich Ludwig of Hohenlohe-Ingelfingen, Our
-    General of Infantry, Governor of Wrocław, Inspector of the Lower Silesian and Franconian Infantry
+    Leerdamm; Lord of the lands of Rostock, Stargard, [uncertain: Werden], Limburg, Lauenburg, Bütow,
+    Arlay and Breda, etc. We do hereby make known and confess, for Ourselves and Our successors in the
+    government, that, whereas the Serene Prince, Our friendly dear cousin, Friedrich Ludwig of Hohenlohe-Ingelfingen,
+    Our General of Infantry, Governor of Wrocław, Inspector of the Lower Silesian and Franconian Infantry
     Inspections, Knight of Our Red and of Our Great Black Eagle Order, has'
   names:
   - de: Friedrich Wilhelm
@@ -71,8 +71,8 @@ segments:
   - de: Nürnberg
     en: Nuremberg
     kind: place
-  - de: Hildeshuom
-    en: Hildeshuom
+  - de: Hildesheim
+    en: Hildesheim
     kind: place
   - de: Paderborn
     en: Paderborn
@@ -101,8 +101,8 @@ segments:
   - de: Ostfriesland
     en: East Frisia
     kind: place
-  - de: Lübsfeld
-    en: Lübsfeld
+  - de: Eichsfeld
+    en: Eichsfeld
     kind: place
   - de: Erfurt
     en: Erfurt
@@ -110,11 +110,11 @@ segments:
   - de: Essen
     en: Essen
     kind: place
-  - de: Rücklinbüro
-    en: Rücklinbüro
+  - de: Quedlinburg
+    en: Quedlinburg
     kind: place
-  - de: Ellen
-    en: Ellen
+  - de: Elten
+    en: Elten
     kind: place
   - de: Hohenzollern
     en: Hohenzollern
@@ -152,8 +152,8 @@ segments:
   - de: Stargard
     en: Stargard
     kind: place
-  - de: Strden
-    en: Strden
+  - de: '[W?]erden'
+    en: Werden
     kind: place
   - de: Limburg
     en: Limburg
