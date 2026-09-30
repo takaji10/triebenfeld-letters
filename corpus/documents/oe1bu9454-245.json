@@ -253,6 +253,17 @@
    "entity": "cosmar",
    "display": "Cosmar",
    "kind": "person",
+   "surface": "Cos[mar]",
+   "page": 1,
+   "page_id": "0455_a",
+   "scan": "Oe_1_Bu_9454_0455_a-L245_01.jpg",
+   "line": 17732,
+   "doc_line": 44
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
    "surface": "Cosmar",
    "page": 1,
    "page_id": "0455_a",

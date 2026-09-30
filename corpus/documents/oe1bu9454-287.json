@@ -128,6 +128,17 @@
  ],
  "mentions": [
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0519_b",
+   "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
+   "line": 20409,
+   "doc_line": 7
+  },
+  {
    "entity": "lombardini",
    "display": "Lombardini",
    "kind": "person",

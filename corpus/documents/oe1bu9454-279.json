@@ -171,6 +171,17 @@
    "doc_line": 10
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0506_b",
+   "scan": "Oe_1_Bu_9454_0506_b-L279_01.jpg",
+   "line": 19815,
+   "doc_line": 13
+  },
+  {
    "entity": "pourtales",
    "display": "Pourtalès (Pourtales)",
    "kind": "person",

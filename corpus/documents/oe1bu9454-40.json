@@ -138,6 +138,17 @@
    "doc_line": 34
   },
   {
+   "entity": "stein",
+   "display": "Stein",
+   "kind": "person",
+   "surface": "St[ein]",
+   "page": 2,
+   "page_id": "0074_a1",
+   "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
+   "line": 2961,
+   "doc_line": 38
+  },
+  {
    "entity": "august",
    "display": "August",
    "kind": "person",
@@ -206,6 +217,17 @@
    "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
    "line": 2930,
    "doc_line": 8
+  },
+  {
+   "entity": "holland",
+   "display": "Holland",
+   "kind": "place",
+   "surface": "H[olland]",
+   "page": 1,
+   "page_id": "0073_b",
+   "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
+   "line": 2931,
+   "doc_line": 9
   },
   {
    "entity": "paris",

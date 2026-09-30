@@ -70,6 +70,17 @@
  ],
  "mentions": [
   {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 1,
+   "page_id": "0378_b",
+   "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+   "line": 14340,
+   "doc_line": 7
+  },
+  {
    "entity": "hardenberg",
    "display": "Hardenberg",
    "kind": "person",

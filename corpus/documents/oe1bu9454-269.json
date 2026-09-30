@@ -104,6 +104,17 @@
    "doc_line": 5
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0489_b",
+   "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+   "line": 19093,
+   "doc_line": 7
+  },
+  {
    "entity": "staegemann",
    "display": "Stägemann",
    "kind": "person",
@@ -113,6 +124,17 @@
    "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
    "line": 19095,
    "doc_line": 9
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0489_b",
+   "scan": "Oe_1_Bu_9454_0489_b-L269_01.jpg",
+   "line": 19096,
+   "doc_line": 10
   },
   {
    "entity": "cosmar",
@@ -179,6 +201,17 @@
    "scan": "Oe_1_Bu_9454_0490_a1-L269_02.jpg",
    "line": 19122,
    "doc_line": 35
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0490_a1",
+   "scan": "Oe_1_Bu_9454_0490_a1-L269_02.jpg",
+   "line": 19124,
+   "doc_line": 37
   },
   {
    "entity": "pourtales",

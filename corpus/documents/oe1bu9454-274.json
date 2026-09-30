@@ -121,6 +121,17 @@
    "doc_line": 15
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0499_b",
+   "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
+   "line": 19516,
+   "doc_line": 23
+  },
+  {
    "entity": "goeschel",
    "display": "Göschel",
    "kind": "person",
@@ -211,6 +222,28 @@
    "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
    "line": 19497,
    "doc_line": 4
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "W[ürtembergische]",
+   "page": 1,
+   "page_id": "0499_b",
+   "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
+   "line": 19504,
+   "doc_line": 11
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface": "W[ürtemberg]",
+   "page": 1,
+   "page_id": "0499_b",
+   "scan": "Oe_1_Bu_9454_0499_b-L274_01.jpg",
+   "line": 19510,
+   "doc_line": 17
   },
   {
    "entity": "bruenn",

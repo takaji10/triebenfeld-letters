@@ -135,6 +135,17 @@
    "doc_line": 14
   },
   {
+   "entity": "metternich",
+   "display": "Metternich",
+   "kind": "person",
+   "surface": "Met[ternich]",
+   "page": 1,
+   "page_id": "0491_b",
+   "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
+   "line": 19191,
+   "doc_line": 17
+  },
+  {
    "entity": "talleyrand",
    "display": "Talleyrand",
    "kind": "person",
@@ -166,6 +177,17 @@
    "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
    "line": 19203,
    "doc_line": 28
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0492_a1",
+   "scan": "Oe_1_Bu_9454_0492_a1-L270_02.jpg",
+   "line": 19204,
+   "doc_line": 29
   },
   {
    "entity": "cosmar",

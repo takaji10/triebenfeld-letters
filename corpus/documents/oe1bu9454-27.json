@@ -203,6 +203,17 @@
    "scan": "Oe_1_Bu_9454_0048_a1-L27_02.jpg",
    "line": 1821,
    "doc_line": 29
+  },
+  {
+   "entity": "breslau",
+   "display": "Wrocław (Breslau)",
+   "kind": "place",
+   "surface": "Bre[slau]",
+   "page": 2,
+   "page_id": "0048_a1",
+   "scan": "Oe_1_Bu_9454_0048_a1-L27_02.jpg",
+   "line": 1842,
+   "doc_line": 50
   }
  ],
  "translation_status": "untranslated",

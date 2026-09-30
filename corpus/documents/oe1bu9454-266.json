@@ -205,6 +205,39 @@
    "doc_line": 32
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0486_a1",
+   "scan": "Oe_1_Bu_9454_0486_a1-L266_02.jpg",
+   "line": 18938,
+   "doc_line": 34
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0486_a1",
+   "scan": "Oe_1_Bu_9454_0486_a1-L266_02.jpg",
+   "line": 18945,
+   "doc_line": 41
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0486_a1",
+   "scan": "Oe_1_Bu_9454_0486_a1-L266_02.jpg",
+   "line": 18945,
+   "doc_line": 41
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",

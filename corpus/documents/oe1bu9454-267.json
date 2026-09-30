@@ -99,6 +99,28 @@
    "doc_line": 7
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0486_a2",
+   "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
+   "line": 18970,
+   "doc_line": 8
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0486_a2",
+   "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
+   "line": 18976,
+   "doc_line": 14
+  },
+  {
    "entity": "hohenlohe-bartenstein",
    "display": "Prince Hohenlohe-Bartenstein",
    "kind": "person",

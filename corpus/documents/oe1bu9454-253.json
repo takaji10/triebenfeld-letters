@@ -104,6 +104,17 @@
    "doc_line": 10
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0464_a",
+   "scan": "Oe_1_Bu_9454_0464_a-L253_01.jpg",
+   "line": 18121,
+   "doc_line": 15
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",

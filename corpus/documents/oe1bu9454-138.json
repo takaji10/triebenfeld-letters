@@ -154,6 +154,17 @@
    "scan": "Oe_1_Bu_9454_0271_a1-L138_02.jpg",
    "line": 10141,
    "doc_line": 18
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Ber[lin]",
+   "page": 2,
+   "page_id": "0271_a1",
+   "scan": "Oe_1_Bu_9454_0271_a1-L138_02.jpg",
+   "line": 10147,
+   "doc_line": 24
   }
  ],
  "translation_status": "untranslated",

@@ -65,6 +65,28 @@
  ],
  "mentions": [
   {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 1,
+   "page_id": "0227_a",
+   "scan": "Oe_1_Bu_9454_0227_a-L111_01.jpg",
+   "line": 8581,
+   "doc_line": 13
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface": "Z[astrow]",
+   "page": 1,
+   "page_id": "0227_a",
+   "scan": "Oe_1_Bu_9454_0227_a-L111_01.jpg",
+   "line": 8581,
+   "doc_line": 13
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",

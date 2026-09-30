@@ -382,6 +382,17 @@
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
+   "surface": "B[erlin]",
+   "page": 1,
+   "page_id": "0260_b",
+   "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
+   "line": 9779,
+   "doc_line": 36
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
    "surface": "Berlin",
    "page": 2,
    "page_id": "0261_a1",
@@ -498,6 +509,17 @@
    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
    "line": 9798,
    "doc_line": 54
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Ber[lin]",
+   "page": 3,
+   "page_id": "0261_a2",
+   "scan": "Oe_1_Bu_9454_0261_a2-L135_03.jpg",
+   "line": 9820,
+   "doc_line": 75
   }
  ],
  "translation_status": "untranslated",

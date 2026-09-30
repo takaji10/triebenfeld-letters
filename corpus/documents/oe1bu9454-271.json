@@ -126,6 +126,17 @@
    "doc_line": 24
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0494_a1",
+   "scan": "Oe_1_Bu_9454_0494_a1-L271_02.jpg",
+   "line": 19270,
+   "doc_line": 27
+  },
+  {
    "entity": "august",
    "display": "August",
    "kind": "person",
@@ -170,6 +181,28 @@
    "doc_line": 32
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0494_a1",
+   "scan": "Oe_1_Bu_9454_0494_a1-L271_02.jpg",
+   "line": 19279,
+   "doc_line": 36
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0494_a1",
+   "scan": "Oe_1_Bu_9454_0494_a1-L271_02.jpg",
+   "line": 19279,
+   "doc_line": 36
+  },
+  {
    "entity": "pourtales",
    "display": "Pourtalès (Pourtales)",
    "kind": "person",
@@ -179,6 +212,17 @@
    "scan": "Oe_1_Bu_9454_0494_a1-L271_02.jpg",
    "line": 19279,
    "doc_line": 36
+  },
+  {
+   "entity": "pourtales",
+   "display": "Pourtalès (Pourtales)",
+   "kind": "person",
+   "surface": "P[ourtal",
+   "page": 2,
+   "page_id": "0494_a1",
+   "scan": "Oe_1_Bu_9454_0494_a1-L271_02.jpg",
+   "line": 19280,
+   "doc_line": 37
   },
   {
    "entity": "triebenfeld",

@@ -172,6 +172,17 @@
    "entity": "barbe",
    "display": "Barbe",
    "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0465_a2",
+   "scan": "Oe_1_Bu_9454_0465_a2-L254_01.jpg",
+   "line": 18153,
+   "doc_line": 3
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
    "surface": "Barbe",
    "page": 1,
    "page_id": "0465_a2",
@@ -244,6 +255,17 @@
    "scan": "Oe_1_Bu_9454_0466_a1-L254_02.jpg",
    "line": 18193,
    "doc_line": 42
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0466_a1",
+   "scan": "Oe_1_Bu_9454_0466_a1-L254_02.jpg",
+   "line": 18197,
+   "doc_line": 46
   },
   {
    "entity": "triebenfeld",

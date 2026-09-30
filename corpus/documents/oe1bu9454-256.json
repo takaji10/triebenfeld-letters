@@ -107,6 +107,17 @@
    "doc_line": 16
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0471_a2",
+   "scan": "Oe_1_Bu_9454_0471_a2-L256_01.jpg",
+   "line": 18336,
+   "doc_line": 19
+  },
+  {
    "entity": "staegemann",
    "display": "Stägemann",
    "kind": "person",

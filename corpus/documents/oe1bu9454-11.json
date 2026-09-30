@@ -214,6 +214,28 @@
    "entity": "barbe",
    "display": "Barbe",
    "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0019_a1",
+   "scan": "Oe_1_Bu_9454_0019_a1-L11_02.jpg",
+   "line": 650,
+   "doc_line": 49
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface": "Hum[boldt]",
+   "page": 2,
+   "page_id": "0019_a1",
+   "scan": "Oe_1_Bu_9454_0019_a1-L11_02.jpg",
+   "line": 651,
+   "doc_line": 50
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
    "surface": "Barbe",
    "page": 2,
    "page_id": "0019_a1",

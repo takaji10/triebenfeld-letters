@@ -698,7 +698,7 @@ people:
       Duchy of Posen from 1815 (letters 287, 295, 300). Added 2026-09-27."
   gneisenau:
     display: "Gneisenau"
-    match: 'Gnei[sz]enau\w*|Gniez\[enau\]'
+    match: 'Gnei[sz]enau\w*|Gniezenau'
     tier: "Context-inferred"
     variants: ["Gneis[enau]"]
     identity: "August Neidhardt von Gneisenau, commanding the Silesian Landwehr in 1813
@@ -769,7 +769,7 @@ people:
     identity: "Cabinets- und Cammergerichts Rath Albrecht, Berlin (letters 6, 52, 53, 289). Added 2026-09-28 in the names pass."
   prinz-adolph:
     display: "Prinz Adolph"
-    match: '(?<=Prinz )Adolph\w*|(?<=Prinzen )Adolph\w*|(?<=Pr\. )Adolph\w*|(?<=Pr )Adolph\w*|(?<=P )Adolph\w*|Adolphsche\w*'
+    match: '(?<=Prinz )Adolph\w*|(?<=P\. )Adolph\w*|(?<=Prinzen )Adolph\w*|(?<=Pr\. )Adolph\w*|(?<=Pr )Adolph\w*|(?<=P )Adolph\w*|Adolphsche\w*'
     tier: "Context-inferred"
     variants: []
     identity: "Prince Adolph of Hohenlohe-Ingelfingen, the Prince's younger son; his majority and his entry into the army in 1815 are argued in letters 11, 13, 16, 288. Added 2026-09-28 in the names pass."
@@ -1039,7 +1039,7 @@ people:
     identity: "Creditor, named with Oppenheimer and Giraud (letters 33, 157, 179). Letter 31's Haucht und Consorten may be the same man; not merged. Added 2026-09-28 after the nonword sweep."
   kaiser-alexander:
     display: "Kaiser Alexander I."
-    match: '(?<=Kayser )Al{1,2}exander|(?<=R\. K\. )Allex\[ander\]|(?<=wogegen )Alexander|(?<=glücklich )Alexander'
+    match: '(?<=Kayser )Al{1,2}exander|(?<=Kayser )Allex(?=:)|(?<=R\. K\. )Allexander|(?<=wogegen )Alexander|(?<=glücklich )Alexander'
     tier: "Context-inferred"
     variants: []
     identity: "Tsar Alexander I of Russia (letters 27, 59, 266, 280, 298). Kept apart from Prinz Alexander of Hohenlohe, whose entry matches only after Prinz/Prinzen. Added 2026-09-28."

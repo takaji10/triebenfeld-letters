@@ -103,12 +103,56 @@
    "entity": "koeckritz",
    "display": "Köckritz",
    "kind": "person",
-   "surface": "Köck",
+   "surface": "Köck[ritz]",
    "page": 1,
    "page_id": "0448_a2",
    "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
    "line": 17455,
    "doc_line": 11
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 1,
+   "page_id": "0448_a2",
+   "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
+   "line": 17456,
+   "doc_line": 12
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 1,
+   "page_id": "0448_a2",
+   "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
+   "line": 17458,
+   "doc_line": 14
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface": "Nap[oleon]",
+   "page": 1,
+   "page_id": "0448_a2",
+   "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
+   "line": 17459,
+   "doc_line": 15
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 1,
+   "page_id": "0448_a2",
+   "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
+   "line": 17461,
+   "doc_line": 17
   },
   {
    "entity": "hardenberg",
@@ -120,6 +164,17 @@
    "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
    "line": 17469,
    "doc_line": 25
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 1,
+   "page_id": "0448_a2",
+   "scan": "Oe_1_Bu_9454_0448_a2-L240_01.jpg",
+   "line": 17470,
+   "doc_line": 26
   },
   {
    "entity": "hardenberg",

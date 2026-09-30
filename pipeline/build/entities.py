@@ -150,6 +150,36 @@ def place_authority():
     return out
 
 
+_EXPANSION = re.compile(r'\[[^\]?]*\]')
+
+
+def _flatten(line):
+    """The line with the edition's expansion brackets taken out, so `B[arbe]`
+    reads as Barbe and `K[öckritz]` as Köckritz, and for each character of
+    the result the offset it came from in the line. A doubt mark (`[?]`,
+    `Falz[?]`) is not an expansion and stays as written.
+    """
+    flat, pos, k = [], [], 0
+    for m in _EXPANSION.finditer(line):
+        for j in range(k, m.start()):
+            flat.append(line[j]); pos.append(j)
+        for j in range(m.start() + 1, m.end() - 1):
+            flat.append(line[j]); pos.append(j)
+        k = m.end()
+    for j in range(k, len(line)):
+        flat.append(line[j]); pos.append(j)
+    return ''.join(flat), pos
+
+
+def _surface(raw, pos, start, end):
+    """The text a match on the flattened line covers in the raw line, closing
+    bracket included where the match ends inside an expansion."""
+    a, b = pos[start], pos[end - 1] + 1
+    while b < len(raw) and raw[b] == ']' and raw.count('[', a, b) > raw.count(']', a, b):
+        b += 1
+    return raw[a:b]
+
+
 def _mentions(rec, authority, kind):
     """Every entity of one kind in a record, with where each was found.
 
@@ -165,8 +195,13 @@ def _mentions(rec, authority, kind):
         base = p['line_start']
         for i, line in enumerate(lines):
             found = []
+            # Matched with the expansion brackets out, so an expanded name
+            # (B[arbe], K[öckritz]) is found like a written-out one; the
+            # surface is still cut from the line as it stands.
+            flat, pos = _flatten(line)
             for slug, disp, rx in authority:
-                found += [(slug, disp, m, raw[i]) for m in rx.finditer(line)]
+                found += [(slug, disp, m, _surface(raw[i], pos, m.start(), m.end()))
+                          for m in rx.finditer(flat)]
             # a name broken over the line end (Stäge¬ / mann) is only whole
             # joined; it is cited at the line where it starts
             if re.search(r'[¬\-‗=]\s*$', line) and i + 1 < len(lines):
@@ -174,14 +209,15 @@ def _mentions(rec, authority, kind):
                 joined = head + lines[i + 1].lstrip()
                 joined_raw = raw[i][:len(head)] + raw[i + 1].lstrip()
                 for slug, disp, rx in authority:
-                    found += [(slug, disp, m, joined_raw) for m in rx.finditer(joined)
+                    found += [(slug, disp, m, joined_raw[m.start():m.end()])
+                              for m in rx.finditer(joined)
                               if m.start() < len(head) < m.end()]
-            for slug, disp, m, src in found:
+            for slug, disp, m, surface in found:
                 out.append({
                     'entity': slug,
                     'display': disp,
                     'kind': kind,
-                    'surface': src[m.start():m.end()],
+                    'surface': surface,
                     'page': p['page'],
                     'page_id': p.get('page_id', ''),
                     # the image, so a citation resolves to the manuscript
@@ -228,7 +264,9 @@ def entities_in(rec, people=None):
     it emits.
     """
     people = people if people is not None else load_people()
-    return [slug for slug, _, rx in people if rx.search(rec['text'])]
+    # expansion brackets out, as in _mentions, so B[arbe] counts as Barbe
+    text = _EXPANSION.sub(lambda m: m.group(0)[1:-1], rec['text'])
+    return [slug for slug, _, rx in people if rx.search(text)]
 
 
 # --------------------------------------------------------------- canon ----

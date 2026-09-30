@@ -243,6 +243,17 @@
    "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
    "line": 9370,
    "doc_line": 30
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Fr[ankfurt]",
+   "page": 2,
+   "page_id": "0250_a1",
+   "scan": "Oe_1_Bu_9454_0250_a1-L130_02.jpg",
+   "line": 9373,
+   "doc_line": 33
   }
  ],
  "translation_status": "untranslated",

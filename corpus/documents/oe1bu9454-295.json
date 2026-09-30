@@ -156,6 +156,17 @@
    "entity": "zerboni",
    "display": "Zerboni",
    "kind": "person",
+   "surface": "Zerb[oni]",
+   "page": 2,
+   "page_id": "0529_a1",
+   "scan": "Oe_1_Bu_9454_0529_a1-L295_02.jpg",
+   "line": 20957,
+   "doc_line": 22
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
    "surface": "Zerboni",
    "page": 2,
    "page_id": "0529_a1",
@@ -276,6 +287,17 @@
    "scan": "Oe_1_Bu_9454_0528_a2-L295_01.jpg",
    "line": 20946,
    "doc_line": 12
+  },
+  {
+   "entity": "frankfurt-am-main",
+   "display": "Frankfurt am Main",
+   "kind": "place",
+   "surface": "Frankf[urt] am Main",
+   "page": 1,
+   "page_id": "0528_a2",
+   "scan": "Oe_1_Bu_9454_0528_a2-L295_01.jpg",
+   "line": 20948,
+   "doc_line": 14
   },
   {
    "entity": "kassel",

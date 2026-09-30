@@ -173,6 +173,17 @@
    "doc_line": 12
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0022_b",
+   "scan": "Oe_1_Bu_9454_0022_b-L15_01.jpg",
+   "line": 795,
+   "doc_line": 14
+  },
+  {
    "entity": "cosmar",
    "display": "Cosmar",
    "kind": "person",

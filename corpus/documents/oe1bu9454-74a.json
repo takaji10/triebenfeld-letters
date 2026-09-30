@@ -578,6 +578,17 @@
    "doc_line": 32
   },
   {
+   "entity": "breslau",
+   "display": "Wrocław (Breslau)",
+   "kind": "place",
+   "surface": "Bresl[auer]",
+   "page": 1,
+   "page_id": "0155_a",
+   "scan": "Oe_1_Bu_9454_0155_a-L74a_01.jpg",
+   "line": 6133,
+   "doc_line": 33
+  },
+  {
    "entity": "schweinern",
    "display": "Świniary (Schweinern)",
    "kind": "place",

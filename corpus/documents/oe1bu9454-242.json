@@ -104,6 +104,17 @@
    "doc_line": 18
   },
   {
+   "entity": "metternich",
+   "display": "Metternich",
+   "kind": "person",
+   "surface": "Mett[ernich]",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17556,
+   "doc_line": 26
+  },
+  {
    "entity": "gaertner",
    "display": "Gärtner (Geh. Rath)",
    "kind": "person",
@@ -124,6 +135,17 @@
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
    "line": 17563,
    "doc_line": 33
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17566,
+   "doc_line": 36
   },
   {
    "entity": "hardenberg",
@@ -232,12 +254,34 @@
    "entity": "wuerttemberg",
    "display": "Württemberg",
    "kind": "place",
+   "surface": "W[ürtemberg]",
+   "page": 1,
+   "page_id": "0450_a2",
+   "scan": "Oe_1_Bu_9454_0450_a2-L242_01.jpg",
+   "line": 17551,
+   "doc_line": 22
+  },
+  {
+   "entity": "wuerttemberg",
+   "display": "Württemberg",
+   "kind": "place",
    "surface": "Würtemberg",
    "page": 2,
    "page_id": "0451_a1",
    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
    "line": 17564,
    "doc_line": 34
+  },
+  {
+   "entity": "schlawenschitz",
+   "display": "Sławięcice (Schlawenschitz)",
+   "kind": "place",
+   "surface": "Schlaw[enschitz]",
+   "page": 2,
+   "page_id": "0451_a1",
+   "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+   "line": 17566,
+   "doc_line": 36
   },
   {
    "entity": "koschentin",

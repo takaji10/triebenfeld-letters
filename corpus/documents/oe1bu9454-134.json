@@ -307,6 +307,17 @@
    "doc_line": 37
   },
   {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface": "Am[elang]",
+   "page": 3,
+   "page_id": "0257_a2",
+   "scan": "Oe_1_Bu_9454_0257_a2-L134_03.jpg",
+   "line": 9626,
+   "doc_line": 43
+  },
+  {
    "entity": "beyme",
    "display": "Beyme",
    "kind": "person",
@@ -373,6 +384,50 @@
    "doc_line": 77
   },
   {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface": "Am[elang]",
+   "page": 5,
+   "page_id": "0258_b",
+   "scan": "Oe_1_Bu_9454_0258_b-L134_05.jpg",
+   "line": 9665,
+   "doc_line": 80
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface": "A[melang]",
+   "page": 5,
+   "page_id": "0258_b",
+   "scan": "Oe_1_Bu_9454_0258_b-L134_05.jpg",
+   "line": 9666,
+   "doc_line": 81
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface": "K[öckritz]",
+   "page": 5,
+   "page_id": "0258_b",
+   "scan": "Oe_1_Bu_9454_0258_b-L134_05.jpg",
+   "line": 9672,
+   "doc_line": 87
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface": "Am[elang]",
+   "page": 5,
+   "page_id": "0258_b",
+   "scan": "Oe_1_Bu_9454_0258_b-L134_05.jpg",
+   "line": 9673,
+   "doc_line": 88
+  },
+  {
    "entity": "beyme",
    "display": "Beyme",
    "kind": "person",
@@ -382,6 +437,17 @@
    "scan": "Oe_1_Bu_9454_0258_b-L134_05.jpg",
    "line": 9673,
    "doc_line": 88
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface": "A[melang]",
+   "page": 5,
+   "page_id": "0258_b",
+   "scan": "Oe_1_Bu_9454_0258_b-L134_05.jpg",
+   "line": 9677,
+   "doc_line": 92
   },
   {
    "entity": "beyme",
@@ -644,7 +710,7 @@
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
-   "surface": "Berl",
+   "surface": "Berl[in]",
    "page": 8,
    "page_id": "0260_a",
    "scan": "Oe_1_Bu_9454_0260_a-L134_08.jpg",

@@ -113,6 +113,17 @@
    "doc_line": 17
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0470_b",
+   "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
+   "line": 18294,
+   "doc_line": 19
+  },
+  {
    "entity": "cosmar",
    "display": "Cosmar",
    "kind": "person",
@@ -122,6 +133,17 @@
    "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
    "line": 18298,
    "doc_line": 23
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 1,
+   "page_id": "0470_b",
+   "scan": "Oe_1_Bu_9454_0470_b-L255_01.jpg",
+   "line": 18301,
+   "doc_line": 26
   },
   {
    "entity": "triebenfeld",

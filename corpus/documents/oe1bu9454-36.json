@@ -228,12 +228,45 @@
    "entity": "eysenhardt",
    "display": "Eysenhardt",
    "kind": "person",
+   "surface": "Eysenh[ardt]",
+   "page": 2,
+   "page_id": "0066_a1",
+   "scan": "Oe_1_Bu_9454_0066_a1-L36_02.jpg",
+   "line": 2578,
+   "doc_line": 60
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
    "surface": "Eysenhardt",
    "page": 2,
    "page_id": "0066_a1",
    "scan": "Oe_1_Bu_9454_0066_a1-L36_02.jpg",
    "line": 2586,
    "doc_line": 68
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface": "Eys[enhardt]",
+   "page": 3,
+   "page_id": "0066_a2",
+   "scan": "Oe_1_Bu_9454_0066_a2-L36_03.jpg",
+   "line": 2617,
+   "doc_line": 98
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface": "Eys[enhardt]",
+   "page": 4,
+   "page_id": "0067_a",
+   "scan": "Oe_1_Bu_9454_0067_a-L36_04.jpg",
+   "line": 2632,
+   "doc_line": 112
   },
   {
    "entity": "koppe",
@@ -245,6 +278,17 @@
    "scan": "Oe_1_Bu_9454_0067_b-L36_05.jpg",
    "line": 2670,
    "doc_line": 149
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface": "Eys[enhardt]",
+   "page": 5,
+   "page_id": "0067_b",
+   "scan": "Oe_1_Bu_9454_0067_b-L36_05.jpg",
+   "line": 2673,
+   "doc_line": 152
   },
   {
    "entity": "amelang",
@@ -300,6 +344,17 @@
    "scan": "Oe_1_Bu_9454_0069_a-L36_08.jpg",
    "line": 2780,
    "doc_line": 256
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Tr[iebenfeld]",
+   "page": 8,
+   "page_id": "0069_a",
+   "scan": "Oe_1_Bu_9454_0069_a-L36_08.jpg",
+   "line": 2805,
+   "doc_line": 281
   }
  ],
  "mentions_english": [],

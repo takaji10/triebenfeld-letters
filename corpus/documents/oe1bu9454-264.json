@@ -168,6 +168,17 @@
    "doc_line": 21
   },
   {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Trieb[enfeld]",
+   "page": 2,
+   "page_id": "0482_a1",
+   "scan": "Oe_1_Bu_9454_0482_a1-L264_02.jpg",
+   "line": 18778,
+   "doc_line": 29
+  },
+  {
    "entity": "barbe",
    "display": "Barbe",
    "kind": "person",
@@ -201,6 +212,61 @@
    "doc_line": 50
   },
   {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0482_a1",
+   "scan": "Oe_1_Bu_9454_0482_a1-L264_02.jpg",
+   "line": 18800,
+   "doc_line": 51
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0482_a1",
+   "scan": "Oe_1_Bu_9454_0482_a1-L264_02.jpg",
+   "line": 18800,
+   "doc_line": 51
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 2,
+   "page_id": "0482_a1",
+   "scan": "Oe_1_Bu_9454_0482_a1-L264_02.jpg",
+   "line": 18802,
+   "doc_line": 53
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 3,
+   "page_id": "0482_a2",
+   "scan": "Oe_1_Bu_9454_0482_a2-L264_03.jpg",
+   "line": 18808,
+   "doc_line": 58
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 3,
+   "page_id": "0482_a2",
+   "scan": "Oe_1_Bu_9454_0482_a2-L264_03.jpg",
+   "line": 18811,
+   "doc_line": 61
+  },
+  {
    "entity": "pourtales",
    "display": "Pourtalès (Pourtales)",
    "kind": "person",
@@ -210,6 +276,17 @@
    "scan": "Oe_1_Bu_9454_0482_a2-L264_03.jpg",
    "line": 18812,
    "doc_line": 62
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "B[arbe]",
+   "page": 3,
+   "page_id": "0482_a2",
+   "scan": "Oe_1_Bu_9454_0482_a2-L264_03.jpg",
+   "line": 18814,
+   "doc_line": 64
   },
   {
    "entity": "pourtales",
