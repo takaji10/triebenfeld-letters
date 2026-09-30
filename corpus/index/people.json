@@ -4150,7 +4150,7 @@
  {
   "entity": "hohenlohe",
   "display": "Hohenlohe",
-  "count": 322,
+  "count": 323,
   "documents": [
    "app5371057-1",
    "oe1bu14525-1",
@@ -6399,6 +6399,15 @@
     "scan": "Oe_1_Bu_9454_0321_a1-L171_02.jpg",
     "line": 12142,
     "doc_line": 21
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Hohenlohe",
+    "page": 2,
+    "page_id": "0004_a",
+    "scan": "Oe_1_U_199_0004_a-L1_02.jpg",
+    "line": 0,
+    "language": "en"
    },
    {
     "uid": "oe1u199-1",
@@ -16978,6 +16987,664 @@
   ]
  },
  {
+  "entity": "friedrich-wilhelm-iii",
+  "display": "Friedrich Wilhelm III, King of Prussia",
+  "count": 69,
+  "documents": [
+   "oe1bu14525-11",
+   "oe1bu14525-16",
+   "oe1bu14525-17",
+   "oe1bu14525-18",
+   "oe1bu14525-19",
+   "oe1bu14525-20",
+   "oe1bu14525-22",
+   "oe1bu14525-23",
+   "oe1bu14525-25",
+   "oe1bu14525-26",
+   "oe1bu14525-27",
+   "oe1bu14525-28",
+   "oe1bu14525-30",
+   "oe1bu14525-31",
+   "oe1bu14525-34",
+   "oe1bu14525-35",
+   "oe1bu14525-42",
+   "oe1bu14525-43",
+   "oe1bu14525-44",
+   "oe1bu14525-6",
+   "oe1bu14525-7",
+   "oe1bu14526-18",
+   "oe1bu14526-22",
+   "oe1bu14526-23",
+   "oe1bu14526-24",
+   "oe1bu14526-8",
+   "oe1bu9454-85",
+   "oe1u199-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-11",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0030_a2",
+    "scan": "Oe_1_Bu_14525_0030_a2-L11_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-11",
+    "surface": "Friedrich Wilhelm",
+    "page": 3,
+    "page_id": "0031_a2",
+    "scan": "Oe_1_Bu_14525_0031_a2-L11_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-11",
+    "surface": "Friedrich Willhelm",
+    "page": 1,
+    "page_id": "0030_a2",
+    "scan": "Oe_1_Bu_14525_0030_a2-L11_01.jpg",
+    "line": 1169,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-11",
+    "surface": "Friedrich Wilhelm",
+    "page": 3,
+    "page_id": "0031_a2",
+    "scan": "Oe_1_Bu_14525_0031_a2-L11_03.jpg",
+    "line": 1251,
+    "doc_line": 81
+   },
+   {
+    "uid": "oe1bu9454-85",
+    "surface": "Friedrich Wilhelm.",
+    "page": 2,
+    "page_id": "0178_a1",
+    "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
+    "line": 6869,
+    "doc_line": 51
+   },
+   {
+    "uid": "oe1bu14525-31",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0129_b",
+    "scan": "Oe_1_Bu_14525_0129_b-L31_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-31",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0129_b",
+    "scan": "Oe_1_Bu_14525_0129_b-L31_01.jpg",
+    "line": 3600,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-42",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0151_b",
+    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-42",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0151_b",
+    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+    "line": 4063,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-44",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0155_b",
+    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-44",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0155_b",
+    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
+    "line": 4111,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14525-43",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0152_a2",
+    "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-43",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0152_a2",
+    "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
+    "line": 4085,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu14525-19",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0077_b",
+    "scan": "Oe_1_Bu_14525_0077_b-L19_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-19",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0077_b",
+    "scan": "Oe_1_Bu_14525_0077_b-L19_01.jpg",
+    "line": 2388,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-20",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0079_a2",
+    "scan": "Oe_1_Bu_14525_0079_a2-L20_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-20",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0079_a2",
+    "scan": "Oe_1_Bu_14525_0079_a2-L20_01.jpg",
+    "line": 2415,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-30",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0127_b",
+    "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
+    "line": 3572,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-6",
+    "surface": "Friedrich Willhelm",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-6",
+    "surface": "Friedrich Willhelm",
+    "page": 3,
+    "page_id": "0017_a2",
+    "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-6",
+    "surface": "Friedrich Willhelm",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
+    "line": 560,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-6",
+    "surface": "Friedrich Willhelm",
+    "page": 3,
+    "page_id": "0017_a2",
+    "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
+    "line": 641,
+    "doc_line": 80
+   },
+   {
+    "uid": "oe1bu14525-27",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-27",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 3398,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-35",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0137_b",
+    "scan": "Oe_1_Bu_14525_0137_b-L35_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-35",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0137_b",
+    "scan": "Oe_1_Bu_14525_0137_b-L35_01.jpg",
+    "line": 3700,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-34",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0135_b",
+    "scan": "Oe_1_Bu_14525_0135_b-L34_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-34",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0135_b",
+    "scan": "Oe_1_Bu_14525_0135_b-L34_01.jpg",
+    "line": 3678,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-16",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0063_a2",
+    "scan": "Oe_1_Bu_14525_0063_a2-L16_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-16",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0063_a2",
+    "scan": "Oe_1_Bu_14525_0063_a2-L16_01.jpg",
+    "line": 1881,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-17",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0065_a2",
+    "scan": "Oe_1_Bu_14525_0065_a2-L17_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-17",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0065_a2",
+    "scan": "Oe_1_Bu_14525_0065_a2-L17_01.jpg",
+    "line": 1972,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Friedrich Wilhelm",
+    "page": 6,
+    "page_id": "0021_a1",
+    "scan": "Oe_1_Bu_14525_0021_a1-L7_06.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Friedrich Wilhelm the Third",
+    "page": 8,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Friedrich Willhelm",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
+    "line": 661,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Friedrich Willhelm",
+    "page": 6,
+    "page_id": "0021_a1",
+    "scan": "Oe_1_Bu_14525_0021_a1-L7_06.jpg",
+    "line": 792,
+    "doc_line": 128
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Friedrich Willhelm des Dritten",
+    "page": 8,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
+    "line": 835,
+    "doc_line": 169
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Friedrich Wilhelm the Third",
+    "page": 1,
+    "page_id": "0121_b",
+    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Friedrich Wilhelm the Third",
+    "page": 3,
+    "page_id": "0122_a2",
+    "scan": "Oe_1_Bu_14525_0122_a2-L28_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Friedrich Wilhelm des dritten",
+    "page": 1,
+    "page_id": "0121_b",
+    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+    "line": 3454,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Friedrich Wilhelm des IIIten",
+    "page": 3,
+    "page_id": "0122_a2",
+    "scan": "Oe_1_Bu_14525_0122_a2-L28_03.jpg",
+    "line": 3483,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu14525-18",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "Oe_1_Bu_14525_0071_a2-L18_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-18",
+    "surface": "Friedrich Wilhelm",
+    "page": 9,
+    "page_id": "0075_a2",
+    "scan": "Oe_1_Bu_14525_0075_a2-L18_09.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-18",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "Oe_1_Bu_14525_0071_a2-L18_01.jpg",
+    "line": 2177,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-18",
+    "surface": "Friedrich Wilhelm",
+    "page": 9,
+    "page_id": "0075_a2",
+    "scan": "Oe_1_Bu_14525_0075_a2-L18_09.jpg",
+    "line": 2335,
+    "doc_line": 151
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0091_b",
+    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0091_b",
+    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
+    "line": 2943,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-26",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0117_b",
+    "scan": "Oe_1_Bu_14525_0117_b-L26_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-26",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0117_b",
+    "scan": "Oe_1_Bu_14525_0117_b-L26_01.jpg",
+    "line": 3365,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14525-25",
+    "surface": "Friedrich Wilhelm the Third",
+    "page": 1,
+    "page_id": "0112_a2",
+    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-25",
+    "surface": "Friedrich Wilhelm des dritten",
+    "page": 1,
+    "page_id": "0112_a2",
+    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+    "line": 3244,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Friedrich Wilhelm",
+    "page": 25,
+    "page_id": "0121_a2",
+    "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-18",
+    "surface": "Friedrich Wilhelm",
+    "page": 25,
+    "page_id": "0121_a2",
+    "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
+    "line": 6242,
+    "doc_line": 479
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0085_a2",
+    "scan": "Oe_1_Bu_14525_0085_a2-L22_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Friedrich Willhelm",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0085_a2",
+    "scan": "Oe_1_Bu_14525_0085_a2-L22_01.jpg",
+    "line": 2649,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Friedrich Willhelm",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 2836,
+    "doc_line": 183
+   },
+   {
+    "uid": "oe1bu14526-22",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0138_b",
+    "scan": "Oe_1_Bu_14526_0138_b-L22_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-22",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0138_b",
+    "scan": "Oe_1_Bu_14526_0138_b-L22_01.jpg",
+    "line": 6939,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0139_a2",
+    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0139_a2",
+    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
+    "line": 6965,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu14526-24",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0154_a2",
+    "scan": "Oe_1_Bu_14526_0154_a2-L24_01.jpg",
+    "line": 7639,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0003_b",
+    "scan": "Oe_1_U_199_0003_b-L1_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Friedrich Wilhelm",
+    "page": 15,
+    "page_id": "0010_b",
+    "scan": "Oe_1_U_199_0010_b-L1_15.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Friedrich Wilhelm",
+    "page": 1,
+    "page_id": "0003_b",
+    "scan": "Oe_1_U_199_0003_b-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Friedrich Wilhelm",
+    "page": 15,
+    "page_id": "0010_b",
+    "scan": "Oe_1_U_199_0010_b-L1_15.jpg",
+    "line": 301,
+    "doc_line": 285
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Friedrich Wilhelm",
+    "page": 16,
+    "page_id": "0045_a1",
+    "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Friedrich Wilhelm",
+    "page": 16,
+    "page_id": "0045_a1",
+    "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
+    "line": 2323,
+    "doc_line": 527
+   }
+  ]
+ },
+ {
   "entity": "leixner",
   "display": "George Conrad Leixner",
   "count": 68,
@@ -17613,646 +18280,6 @@
     "scan": "Oe_1_Bu_9454_0536_a1-L299_02.jpg",
     "line": 21284,
     "doc_line": 59
-   }
-  ]
- },
- {
-  "entity": "friedrich-wilhelm-iii",
-  "display": "Friedrich Wilhelm III, King of Prussia",
-  "count": 67,
-  "documents": [
-   "oe1bu14525-11",
-   "oe1bu14525-16",
-   "oe1bu14525-17",
-   "oe1bu14525-18",
-   "oe1bu14525-19",
-   "oe1bu14525-20",
-   "oe1bu14525-22",
-   "oe1bu14525-23",
-   "oe1bu14525-25",
-   "oe1bu14525-26",
-   "oe1bu14525-27",
-   "oe1bu14525-28",
-   "oe1bu14525-30",
-   "oe1bu14525-31",
-   "oe1bu14525-34",
-   "oe1bu14525-35",
-   "oe1bu14525-42",
-   "oe1bu14525-43",
-   "oe1bu14525-44",
-   "oe1bu14525-6",
-   "oe1bu14525-7",
-   "oe1bu14526-18",
-   "oe1bu14526-22",
-   "oe1bu14526-23",
-   "oe1bu14526-24",
-   "oe1bu14526-8",
-   "oe1bu9454-85",
-   "oe1u199-1"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-11",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0030_a2",
-    "scan": "Oe_1_Bu_14525_0030_a2-L11_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-11",
-    "surface": "Friedrich Wilhelm",
-    "page": 3,
-    "page_id": "0031_a2",
-    "scan": "Oe_1_Bu_14525_0031_a2-L11_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-11",
-    "surface": "Friedrich Willhelm",
-    "page": 1,
-    "page_id": "0030_a2",
-    "scan": "Oe_1_Bu_14525_0030_a2-L11_01.jpg",
-    "line": 1169,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-11",
-    "surface": "Friedrich Wilhelm",
-    "page": 3,
-    "page_id": "0031_a2",
-    "scan": "Oe_1_Bu_14525_0031_a2-L11_03.jpg",
-    "line": 1251,
-    "doc_line": 81
-   },
-   {
-    "uid": "oe1bu9454-85",
-    "surface": "Friedrich Wilhelm.",
-    "page": 2,
-    "page_id": "0178_a1",
-    "scan": "Oe_1_Bu_9454_0178_a1-L85_02.jpg",
-    "line": 6869,
-    "doc_line": 51
-   },
-   {
-    "uid": "oe1bu14525-31",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0129_b",
-    "scan": "Oe_1_Bu_14525_0129_b-L31_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-31",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0129_b",
-    "scan": "Oe_1_Bu_14525_0129_b-L31_01.jpg",
-    "line": 3600,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-42",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0151_b",
-    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-42",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0151_b",
-    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
-    "line": 4063,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-44",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0155_b",
-    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-44",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0155_b",
-    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
-    "line": 4111,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14525-43",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0152_a2",
-    "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-43",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0152_a2",
-    "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
-    "line": 4085,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu14525-19",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0077_b",
-    "scan": "Oe_1_Bu_14525_0077_b-L19_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-19",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0077_b",
-    "scan": "Oe_1_Bu_14525_0077_b-L19_01.jpg",
-    "line": 2388,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-20",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0079_a2",
-    "scan": "Oe_1_Bu_14525_0079_a2-L20_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-20",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0079_a2",
-    "scan": "Oe_1_Bu_14525_0079_a2-L20_01.jpg",
-    "line": 2415,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-30",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0127_b",
-    "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
-    "line": 3572,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-6",
-    "surface": "Friedrich Willhelm",
-    "page": 1,
-    "page_id": "0016_a2",
-    "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-6",
-    "surface": "Friedrich Willhelm",
-    "page": 3,
-    "page_id": "0017_a2",
-    "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-6",
-    "surface": "Friedrich Willhelm",
-    "page": 1,
-    "page_id": "0016_a2",
-    "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
-    "line": 560,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-6",
-    "surface": "Friedrich Willhelm",
-    "page": 3,
-    "page_id": "0017_a2",
-    "scan": "Oe_1_Bu_14525_0017_a2-L6_03.jpg",
-    "line": 641,
-    "doc_line": 80
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 3398,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-35",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0137_b",
-    "scan": "Oe_1_Bu_14525_0137_b-L35_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-35",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0137_b",
-    "scan": "Oe_1_Bu_14525_0137_b-L35_01.jpg",
-    "line": 3700,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-34",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0135_b",
-    "scan": "Oe_1_Bu_14525_0135_b-L34_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-34",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0135_b",
-    "scan": "Oe_1_Bu_14525_0135_b-L34_01.jpg",
-    "line": 3678,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-16",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0063_a2",
-    "scan": "Oe_1_Bu_14525_0063_a2-L16_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-16",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0063_a2",
-    "scan": "Oe_1_Bu_14525_0063_a2-L16_01.jpg",
-    "line": 1881,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-17",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0065_a2",
-    "scan": "Oe_1_Bu_14525_0065_a2-L17_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-17",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0065_a2",
-    "scan": "Oe_1_Bu_14525_0065_a2-L17_01.jpg",
-    "line": 1972,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0018_a2",
-    "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Friedrich Wilhelm",
-    "page": 6,
-    "page_id": "0021_a1",
-    "scan": "Oe_1_Bu_14525_0021_a1-L7_06.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Friedrich Wilhelm the Third",
-    "page": 8,
-    "page_id": "0022_a1",
-    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Friedrich Willhelm",
-    "page": 1,
-    "page_id": "0018_a2",
-    "scan": "Oe_1_Bu_14525_0018_a2-L7_01.jpg",
-    "line": 661,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Friedrich Willhelm",
-    "page": 6,
-    "page_id": "0021_a1",
-    "scan": "Oe_1_Bu_14525_0021_a1-L7_06.jpg",
-    "line": 792,
-    "doc_line": 128
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Friedrich Willhelm des Dritten",
-    "page": 8,
-    "page_id": "0022_a1",
-    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
-    "line": 835,
-    "doc_line": 169
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Friedrich Wilhelm the Third",
-    "page": 1,
-    "page_id": "0121_b",
-    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Friedrich Wilhelm the Third",
-    "page": 3,
-    "page_id": "0122_a2",
-    "scan": "Oe_1_Bu_14525_0122_a2-L28_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Friedrich Wilhelm des dritten",
-    "page": 1,
-    "page_id": "0121_b",
-    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
-    "line": 3454,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Friedrich Wilhelm des IIIten",
-    "page": 3,
-    "page_id": "0122_a2",
-    "scan": "Oe_1_Bu_14525_0122_a2-L28_03.jpg",
-    "line": 3483,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu14525-18",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0071_a2",
-    "scan": "Oe_1_Bu_14525_0071_a2-L18_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-18",
-    "surface": "Friedrich Wilhelm",
-    "page": 9,
-    "page_id": "0075_a2",
-    "scan": "Oe_1_Bu_14525_0075_a2-L18_09.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-18",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0071_a2",
-    "scan": "Oe_1_Bu_14525_0071_a2-L18_01.jpg",
-    "line": 2177,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-18",
-    "surface": "Friedrich Wilhelm",
-    "page": 9,
-    "page_id": "0075_a2",
-    "scan": "Oe_1_Bu_14525_0075_a2-L18_09.jpg",
-    "line": 2335,
-    "doc_line": 151
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0091_b",
-    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0091_b",
-    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
-    "line": 2943,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14525-26",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0117_b",
-    "scan": "Oe_1_Bu_14525_0117_b-L26_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-26",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0117_b",
-    "scan": "Oe_1_Bu_14525_0117_b-L26_01.jpg",
-    "line": 3365,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14525-25",
-    "surface": "Friedrich Wilhelm the Third",
-    "page": 1,
-    "page_id": "0112_a2",
-    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-25",
-    "surface": "Friedrich Wilhelm des dritten",
-    "page": 1,
-    "page_id": "0112_a2",
-    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
-    "line": 3244,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Friedrich Wilhelm",
-    "page": 25,
-    "page_id": "0121_a2",
-    "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-18",
-    "surface": "Friedrich Wilhelm",
-    "page": 25,
-    "page_id": "0121_a2",
-    "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
-    "line": 6242,
-    "doc_line": 479
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0085_a2",
-    "scan": "Oe_1_Bu_14525_0085_a2-L22_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Friedrich Willhelm",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0085_a2",
-    "scan": "Oe_1_Bu_14525_0085_a2-L22_01.jpg",
-    "line": 2649,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Friedrich Willhelm",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 2836,
-    "doc_line": 183
-   },
-   {
-    "uid": "oe1bu14526-22",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0138_b",
-    "scan": "Oe_1_Bu_14526_0138_b-L22_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-22",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0138_b",
-    "scan": "Oe_1_Bu_14526_0138_b-L22_01.jpg",
-    "line": 6939,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0139_a2",
-    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0139_a2",
-    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
-    "line": 6965,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu14526-24",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0154_a2",
-    "scan": "Oe_1_Bu_14526_0154_a2-L24_01.jpg",
-    "line": 7639,
-    "doc_line": 1
-   },
-   {
-    "uid": "oe1u199-1",
-    "surface": "Friedrich Wilhelm",
-    "page": 1,
-    "page_id": "0003_b",
-    "scan": "Oe_1_U_199_0003_b-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1u199-1",
-    "surface": "Friedrich Wilhelm",
-    "page": 15,
-    "page_id": "0010_b",
-    "scan": "Oe_1_U_199_0010_b-L1_15.jpg",
-    "line": 301,
-    "doc_line": 285
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Friedrich Wilhelm",
-    "page": 16,
-    "page_id": "0045_a1",
-    "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Friedrich Wilhelm",
-    "page": 16,
-    "page_id": "0045_a1",
-    "scan": "Oe_1_Bu_14526_0045_a1-L8_16.jpg",
-    "line": 2323,
-    "doc_line": 527
    }
   ]
  },
@@ -33995,6 +34022,190 @@
   ]
  },
  {
+  "entity": "bernhardi",
+  "display": "Bergrath Bernhardi",
+  "count": 18,
+  "documents": [
+   "oe1bu14526-5",
+   "oe1bu9454-117",
+   "oe1bu9454-129",
+   "oe1bu9454-136",
+   "oe1bu9454-137",
+   "oe1bu9454-152",
+   "oe1bu9454-156",
+   "oe1bu9454-165",
+   "oe1bu9454-189",
+   "oe1bu9454-200",
+   "oe1bu9454-303",
+   "oe1bu9454-32",
+   "oe1u199-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-117",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "0235_a1",
+    "scan": "Oe_1_Bu_9454_0235_a1-L117_02.jpg",
+    "line": 8878,
+    "doc_line": 40
+   },
+   {
+    "uid": "oe1bu9454-129",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0248_b",
+    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
+    "line": 9318,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0262_a",
+    "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
+    "line": 9837,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "0263_a1",
+    "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
+    "line": 9851,
+    "doc_line": 28
+   },
+   {
+    "uid": "oe1bu9454-137",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0268_b",
+    "scan": "Oe_1_Bu_9454_0268_b-L137_01.jpg",
+    "line": 10076,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Bernhardi",
+    "page": 6,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Bernhardi",
+    "page": 6,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
+    "line": 1065,
+    "doc_line": 184
+   },
+   {
+    "uid": "oe1bu9454-165",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "0312_a1",
+    "scan": "Oe_1_Bu_9454_0312_a1-L165_02.jpg",
+    "line": 11724,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-152",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0292_a",
+    "scan": "Oe_1_Bu_9454_0292_a-L152_01.jpg",
+    "line": 10941,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-152",
+    "surface": "Bern[hardi]",
+    "page": 1,
+    "page_id": "0292_a",
+    "scan": "Oe_1_Bu_9454_0292_a-L152_01.jpg",
+    "line": 10943,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-156",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "0297_a1",
+    "scan": "Oe_1_Bu_9454_0297_a1-L156_02.jpg",
+    "line": 11110,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-156",
+    "surface": "Bernhardi",
+    "page": 4,
+    "page_id": "0298_a2",
+    "scan": "Oe_1_Bu_9454_0298_a2-L156_04.jpg",
+    "line": 11154,
+    "doc_line": 71
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Bernhardi",
+    "page": 7,
+    "page_id": "0006_b",
+    "scan": "Oe_1_U_199_0006_b-L1_07.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Bernhardi",
+    "page": 7,
+    "page_id": "0006_b",
+    "scan": "Oe_1_U_199_0006_b-L1_07.jpg",
+    "line": 148,
+    "doc_line": 140
+   },
+   {
+    "uid": "oe1bu9454-189",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0356_b",
+    "scan": "Oe_1_Bu_9454_0356_b-L189_01.jpg",
+    "line": 13436,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0057_b",
+    "scan": "Oe_1_Bu_9454_0057_b-L32_01.jpg",
+    "line": 2214,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-200",
+    "surface": "Bernhardi",
+    "page": 1,
+    "page_id": "0379_a",
+    "scan": "Oe_1_Bu_9454_0379_a-L200_01.jpg",
+    "line": 14387,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu9454-303",
+    "surface": "Bernhardi",
+    "page": 2,
+    "page_id": "0543_a1",
+    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
+    "line": 21521,
+    "doc_line": 21
+   }
+  ]
+ },
+ {
   "entity": "guderian",
   "display": "Guderian",
   "count": 18,
@@ -34164,181 +34375,6 @@
     "scan": "Oe_1_Bu_14526_0151_a2-L23_25.jpg",
     "line": 7588,
     "doc_line": 603
-   }
-  ]
- },
- {
-  "entity": "bernhardi",
-  "display": "Bergrath Bernhardi",
-  "count": 17,
-  "documents": [
-   "oe1bu14526-5",
-   "oe1bu9454-117",
-   "oe1bu9454-129",
-   "oe1bu9454-136",
-   "oe1bu9454-137",
-   "oe1bu9454-152",
-   "oe1bu9454-156",
-   "oe1bu9454-165",
-   "oe1bu9454-189",
-   "oe1bu9454-200",
-   "oe1bu9454-303",
-   "oe1bu9454-32",
-   "oe1u199-1"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-117",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "0235_a1",
-    "scan": "Oe_1_Bu_9454_0235_a1-L117_02.jpg",
-    "line": 8878,
-    "doc_line": 40
-   },
-   {
-    "uid": "oe1bu9454-129",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0248_b",
-    "scan": "Oe_1_Bu_9454_0248_b-L129_01.jpg",
-    "line": 9318,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0262_a",
-    "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
-    "line": 9837,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "0263_a1",
-    "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
-    "line": 9851,
-    "doc_line": 28
-   },
-   {
-    "uid": "oe1bu9454-137",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0268_b",
-    "scan": "Oe_1_Bu_9454_0268_b-L137_01.jpg",
-    "line": 10076,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Bernhardi",
-    "page": 6,
-    "page_id": "0022_a1",
-    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Bernhardi",
-    "page": 6,
-    "page_id": "0022_a1",
-    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
-    "line": 1065,
-    "doc_line": 184
-   },
-   {
-    "uid": "oe1bu9454-165",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "0312_a1",
-    "scan": "Oe_1_Bu_9454_0312_a1-L165_02.jpg",
-    "line": 11724,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-152",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0292_a",
-    "scan": "Oe_1_Bu_9454_0292_a-L152_01.jpg",
-    "line": 10941,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-152",
-    "surface": "Bern[hardi]",
-    "page": 1,
-    "page_id": "0292_a",
-    "scan": "Oe_1_Bu_9454_0292_a-L152_01.jpg",
-    "line": 10943,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-156",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "0297_a1",
-    "scan": "Oe_1_Bu_9454_0297_a1-L156_02.jpg",
-    "line": 11110,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-156",
-    "surface": "Bernhardi",
-    "page": 4,
-    "page_id": "0298_a2",
-    "scan": "Oe_1_Bu_9454_0298_a2-L156_04.jpg",
-    "line": 11154,
-    "doc_line": 71
-   },
-   {
-    "uid": "oe1u199-1",
-    "surface": "Bernhardi",
-    "page": 7,
-    "page_id": "0006_b",
-    "scan": "Oe_1_U_199_0006_b-L1_07.jpg",
-    "line": 148,
-    "doc_line": 140
-   },
-   {
-    "uid": "oe1bu9454-189",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0356_b",
-    "scan": "Oe_1_Bu_9454_0356_b-L189_01.jpg",
-    "line": 13436,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-32",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0057_b",
-    "scan": "Oe_1_Bu_9454_0057_b-L32_01.jpg",
-    "line": 2214,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-200",
-    "surface": "Bernhardi",
-    "page": 1,
-    "page_id": "0379_a",
-    "scan": "Oe_1_Bu_9454_0379_a-L200_01.jpg",
-    "line": 14387,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu9454-303",
-    "surface": "Bernhardi",
-    "page": 2,
-    "page_id": "0543_a1",
-    "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
-    "line": 21521,
-    "doc_line": 21
    }
   ]
  },
@@ -39785,6 +39821,84 @@
   ]
  },
  {
+  "entity": "emilie",
+  "display": "Emilie",
+  "count": 7,
+  "documents": [
+   "oe1bu9454-199",
+   "oe1bu9454-200",
+   "oe1bu9454-223",
+   "oe1bu9454-272",
+   "oe1bu9454-66",
+   "oe1u199-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1u199-1",
+    "surface": "Emilie",
+    "page": 9,
+    "page_id": "0007_b",
+    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Emilie",
+    "page": 9,
+    "page_id": "0007_b",
+    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
+    "line": 191,
+    "doc_line": 181
+   },
+   {
+    "uid": "oe1bu9454-66",
+    "surface": "Emilie",
+    "page": 3,
+    "page_id": "0128_a2",
+    "scan": "Oe_1_Bu_9454_0128_a2-L66_03.jpg",
+    "line": 5178,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-199",
+    "surface": "Emilie",
+    "page": 1,
+    "page_id": "0378_b",
+    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
+    "line": 14359,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-200",
+    "surface": "Emilie",
+    "page": 2,
+    "page_id": "0380_a1",
+    "scan": "Oe_1_Bu_9454_0380_a1-L200_02.jpg",
+    "line": 14414,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-223",
+    "surface": "Emilie",
+    "page": 8,
+    "page_id": "0422_a",
+    "scan": "Oe_1_Bu_9454_0422_a-L223_08.jpg",
+    "line": 16316,
+    "doc_line": 219
+   },
+   {
+    "uid": "oe1bu9454-272",
+    "surface": "Emilie",
+    "page": 3,
+    "page_id": "0496_a2",
+    "scan": "Oe_1_Bu_9454_0496_a2-L272_03.jpg",
+    "line": 19339,
+    "doc_line": 47
+   }
+  ]
+ },
+ {
   "entity": "koppe",
   "display": "Koppe",
   "count": 7,
@@ -40546,75 +40660,6 @@
     "scan": "Oe_1_Bu_9454_0397_b-L213_01.jpg",
     "line": 15087,
     "doc_line": 16
-   }
-  ]
- },
- {
-  "entity": "emilie",
-  "display": "Emilie",
-  "count": 6,
-  "documents": [
-   "oe1bu9454-199",
-   "oe1bu9454-200",
-   "oe1bu9454-223",
-   "oe1bu9454-272",
-   "oe1bu9454-66",
-   "oe1u199-1"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1u199-1",
-    "surface": "Emilie",
-    "page": 9,
-    "page_id": "0007_b",
-    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
-    "line": 191,
-    "doc_line": 181
-   },
-   {
-    "uid": "oe1bu9454-66",
-    "surface": "Emilie",
-    "page": 3,
-    "page_id": "0128_a2",
-    "scan": "Oe_1_Bu_9454_0128_a2-L66_03.jpg",
-    "line": 5178,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu9454-199",
-    "surface": "Emilie",
-    "page": 1,
-    "page_id": "0378_b",
-    "scan": "Oe_1_Bu_9454_0378_b-L199_01.jpg",
-    "line": 14359,
-    "doc_line": 26
-   },
-   {
-    "uid": "oe1bu9454-200",
-    "surface": "Emilie",
-    "page": 2,
-    "page_id": "0380_a1",
-    "scan": "Oe_1_Bu_9454_0380_a1-L200_02.jpg",
-    "line": 14414,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-223",
-    "surface": "Emilie",
-    "page": 8,
-    "page_id": "0422_a",
-    "scan": "Oe_1_Bu_9454_0422_a-L223_08.jpg",
-    "line": 16316,
-    "doc_line": 219
-   },
-   {
-    "uid": "oe1bu9454-272",
-    "surface": "Emilie",
-    "page": 3,
-    "page_id": "0496_a2",
-    "scan": "Oe_1_Bu_9454_0496_a2-L272_03.jpg",
-    "line": 19339,
-    "doc_line": 47
    }
   ]
  },
@@ -42373,6 +42418,52 @@
   ]
  },
  {
+  "entity": "prinzessin-adelheid",
+  "display": "Prinzessin Adelheid zu Hohenlohe-Ingelfingen",
+  "count": 4,
+  "documents": [
+   "oe1u199-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1u199-1",
+    "surface": "Adelheid",
+    "page": 9,
+    "page_id": "0007_b",
+    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Adelheid",
+    "page": 10,
+    "page_id": "0008_a",
+    "scan": "Oe_1_U_199_0008_a-L1_10.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Adelheid",
+    "page": 9,
+    "page_id": "0007_b",
+    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
+    "line": 185,
+    "doc_line": 175
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Adelheid",
+    "page": 10,
+    "page_id": "0008_a",
+    "scan": "Oe_1_U_199_0008_a-L1_10.jpg",
+    "line": 199,
+    "doc_line": 188
+   }
+  ]
+ },
+ {
   "entity": "massenbach",
   "display": "Massenbach",
   "count": 4,
@@ -43492,8 +43583,8 @@
   ]
  },
  {
-  "entity": "prinzessin-adelheid",
-  "display": "Prinzessin Adelheid zu Hohenlohe-Ingelfingen",
+  "entity": "baildon",
+  "display": "John Baildon",
   "count": 2,
   "documents": [
    "oe1u199-1"
@@ -43501,21 +43592,49 @@
   "mentions": [
    {
     "uid": "oe1u199-1",
-    "surface": "Adelheid",
-    "page": 9,
-    "page_id": "0007_b",
-    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
-    "line": 185,
-    "doc_line": 175
+    "surface": "Baildon",
+    "page": 6,
+    "page_id": "0006_a",
+    "scan": "Oe_1_U_199_0006_a-L1_06.jpg",
+    "line": 0,
+    "language": "en"
    },
    {
     "uid": "oe1u199-1",
-    "surface": "Adelheid",
+    "surface": "Baildon",
+    "page": 6,
+    "page_id": "0006_a",
+    "scan": "Oe_1_U_199_0006_a-L1_06.jpg",
+    "line": 120,
+    "doc_line": 113
+   }
+  ]
+ },
+ {
+  "entity": "prinzessin-auguste",
+  "display": "Prinzessin Auguste zu Hohenlohe-Ingelfingen",
+  "count": 2,
+  "documents": [
+   "oe1u199-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1u199-1",
+    "surface": "Auguste",
     "page": 10,
     "page_id": "0008_a",
     "scan": "Oe_1_U_199_0008_a-L1_10.jpg",
-    "line": 199,
-    "doc_line": 188
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1u199-1",
+    "surface": "Auguste",
+    "page": 10,
+    "page_id": "0008_a",
+    "scan": "Oe_1_U_199_0008_a-L1_10.jpg",
+    "line": 195,
+    "doc_line": 184
    }
   ]
  },
@@ -43910,44 +44029,6 @@
     "scan": "Oe_1_Bu_9454_0326_a2-L174_03.jpg",
     "line": 12366,
     "doc_line": 55
-   }
-  ]
- },
- {
-  "entity": "baildon",
-  "display": "John Baildon",
-  "count": 1,
-  "documents": [
-   "oe1u199-1"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1u199-1",
-    "surface": "Baildon",
-    "page": 6,
-    "page_id": "0006_a",
-    "scan": "Oe_1_U_199_0006_a-L1_06.jpg",
-    "line": 120,
-    "doc_line": 113
-   }
-  ]
- },
- {
-  "entity": "prinzessin-auguste",
-  "display": "Prinzessin Auguste zu Hohenlohe-Ingelfingen",
-  "count": 1,
-  "documents": [
-   "oe1u199-1"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1u199-1",
-    "surface": "Auguste",
-    "page": 10,
-    "page_id": "0008_a",
-    "scan": "Oe_1_U_199_0008_a-L1_10.jpg",
-    "line": 195,
-    "doc_line": 184
    }
   ]
  },

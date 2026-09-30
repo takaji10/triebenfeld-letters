@@ -11,7 +11,11 @@ title: >-
 # The confirmation is dated Berlin, 19 December 1805; the extract of the
 # Prince's will that it recites is of 7 October 1805.
 date_span: 1805
-status: transcribed        # draft | transcribed | translated | published
+status: translated         # draft | transcribed | translated | published
+
+# The translation generation this holding was published from; pass --tag v2
+# to every translation tool.
+published_tag: v2
 
 # Which era this holding belongs to - reference/eras.yml.
 era: hohenlohe

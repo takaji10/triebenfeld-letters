@@ -44,3 +44,17 @@ written are in review/oe1u199/unresolved.md.
 ## Damage
 
 None recorded.
+
+## Reading, translation and summaries (2026-09-30)
+
+- Read whole and checked ($0.27): rated "sound", no unsupported claim. One
+  correction with a same-document witness was applied (Einen -> Linien: "aus
+  allen dreien Linien Meiner Prinzen"). German summary 73 words
+  (summaries_de.yml; reading record in reading.json).
+- Translated into English with --tag v2 ($0.46). The translator's five
+  proposals (Hildesheim and Elten in the royal title, Revenüen, Gehölze,
+  wozu) rest on sense or outside knowledge with no witness in the corpus, so
+  none was applied, and the German stayed as translated. They are logged in
+  review/oe1u199/unresolved.md.
+- English summary translated by hand from the checked German one. Published
+  from v2.

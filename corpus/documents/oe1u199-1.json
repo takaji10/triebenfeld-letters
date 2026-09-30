@@ -572,7 +572,1104 @@
    "doc_line": 288
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brandenburg",
+   "kind": "place",
+   "surface_de": "Brandenburg",
+   "surface_en": "Brandenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Orange",
+   "kind": "place",
+   "surface_de": "Oranien",
+   "surface_en": "Orange",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Neufchatel",
+   "kind": "place",
+   "surface_de": "Neufchatel",
+   "surface_en": "Neufchatel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vallangin",
+   "kind": "place",
+   "surface_de": "Vallangin",
+   "surface_en": "Vallangin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kłodzko",
+   "kind": "place",
+   "surface_de": "Glatz",
+   "surface_en": "Kłodzko",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface_de": "Magdeburg",
+   "surface_en": "Magdeburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cleve",
+   "kind": "place",
+   "surface_de": "Cleve",
+   "surface_en": "Cleve",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berg",
+   "kind": "place",
+   "surface_de": "Berge",
+   "surface_en": "Berg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szczecin",
+   "kind": "place",
+   "surface_de": "Stettin",
+   "surface_en": "Szczecin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pomerania",
+   "kind": "place",
+   "surface_de": "Pommern",
+   "surface_en": "Pomerania",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cassubians",
+   "kind": "other",
+   "surface_de": "Cassuben",
+   "surface_en": "Cassubians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wends",
+   "kind": "other",
+   "surface_de": "Wenden",
+   "surface_en": "Wends",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mecklenburg",
+   "kind": "place",
+   "surface_de": "Mecklenburg",
+   "surface_en": "Mecklenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krosno Odrzańskie",
+   "kind": "place",
+   "surface_de": "Crossen",
+   "surface_en": "Krosno Odrzańskie",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nuremberg",
+   "kind": "place",
+   "surface_de": "Nürnberg",
+   "surface_en": "Nuremberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hildeshuom",
+   "kind": "place",
+   "surface_de": "Hildeshuom",
+   "surface_en": "Hildeshuom",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Paderborn",
+   "kind": "place",
+   "surface_de": "Paderborn",
+   "surface_en": "Paderborn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Halberstadt",
+   "kind": "place",
+   "surface_de": "Halberstadt",
+   "surface_en": "Halberstadt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Münster",
+   "kind": "place",
+   "surface_de": "Münster",
+   "surface_en": "Münster",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minden",
+   "kind": "place",
+   "surface_de": "Minden",
+   "surface_en": "Minden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cammin",
+   "kind": "place",
+   "surface_de": "Cammin",
+   "surface_en": "Cammin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wenden",
+   "kind": "place",
+   "surface_de": "Wenden",
+   "surface_en": "Wenden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schwerin",
+   "kind": "place",
+   "surface_de": "Schwerin",
+   "surface_en": "Schwerin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ratzeburg",
+   "kind": "place",
+   "surface_de": "Ratzeburg",
+   "surface_en": "Ratzeburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "East Frisia",
+   "kind": "place",
+   "surface_de": "Ostfriesland",
+   "surface_en": "East Frisia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lübsfeld",
+   "kind": "place",
+   "surface_de": "Lübsfeld",
+   "surface_en": "Lübsfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Erfurt",
+   "kind": "place",
+   "surface_de": "Erfurt",
+   "surface_en": "Erfurt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Essen",
+   "kind": "place",
+   "surface_de": "Essen",
+   "surface_en": "Essen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rücklinbüro",
+   "kind": "place",
+   "surface_de": "Rücklinbüro",
+   "surface_en": "Rücklinbüro",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ellen",
+   "kind": "place",
+   "surface_de": "Ellen",
+   "surface_en": "Ellen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenzollern",
+   "kind": "place",
+   "surface_de": "Hohenzollern",
+   "surface_en": "Hohenzollern",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ruppin",
+   "kind": "place",
+   "surface_de": "Ruppin",
+   "surface_en": "Ruppin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Mark",
+   "kind": "place",
+   "surface_de": "der Mark",
+   "surface_en": "the Mark",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ravensberg",
+   "kind": "place",
+   "surface_de": "Ravensberg",
+   "surface_en": "Ravensberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenstein",
+   "kind": "place",
+   "surface_de": "Hohenstein",
+   "surface_en": "Hohenstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tecklenburg",
+   "kind": "place",
+   "surface_de": "Tecklenburg",
+   "surface_en": "Tecklenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schwerin",
+   "kind": "place",
+   "surface_de": "Schwerin",
+   "surface_en": "Schwerin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lingen",
+   "kind": "place",
+   "surface_de": "Lingen",
+   "surface_en": "Lingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bühren",
+   "kind": "place",
+   "surface_de": "Bühren",
+   "surface_en": "Bühren",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Leerdamm",
+   "kind": "place",
+   "surface_de": "Leerdamm",
+   "surface_en": "Leerdamm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rostock",
+   "kind": "place",
+   "surface_de": "Rostock",
+   "surface_en": "Rostock",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stargard",
+   "kind": "place",
+   "surface_de": "Stargard",
+   "surface_en": "Stargard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strden",
+   "kind": "place",
+   "surface_de": "Strden",
+   "surface_en": "Strden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Limburg",
+   "kind": "place",
+   "surface_de": "Limburg",
+   "surface_en": "Limburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lauenburg",
+   "kind": "place",
+   "surface_de": "Lauenburg",
+   "surface_en": "Lauenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bütow",
+   "kind": "place",
+   "surface_de": "Bütow",
+   "surface_en": "Bütow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Arlay",
+   "kind": "place",
+   "surface_de": "Arlay",
+   "surface_en": "Arlay",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Breda",
+   "kind": "place",
+   "surface_de": "Breda",
+   "surface_en": "Breda",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig zu Hohenlohe-Ingelfingen",
+   "surface_en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szczytniki",
+   "kind": "place",
+   "surface_de": "Scheitnig",
+   "surface_en": "Szczytniki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bytków",
+   "kind": "place",
+   "surface_de": "Byttkow",
+   "surface_en": "Bytków",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Boronów",
+   "kind": "place",
+   "surface_de": "Boronow",
+   "surface_en": "Boronów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Harbultowitz",
+   "kind": "place",
+   "surface_de": "Harbultowitz",
+   "surface_en": "Harbultowitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Olszyna",
+   "kind": "place",
+   "surface_de": "Olschin",
+   "surface_en": "Olszyna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Czischowa",
+   "kind": "place",
+   "surface_de": "Czischowa",
+   "surface_en": "Czischowa",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wieniec",
+   "kind": "place",
+   "surface_de": "Winiec",
+   "surface_en": "Wieniec",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Batkowo",
+   "kind": "place",
+   "surface_de": "Batkowo",
+   "surface_en": "Batkowo",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "place",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+   "surface_en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Neuenstein-Ingelfingen",
+   "kind": "place",
+   "surface_de": "Hohenlohe Neuenstein Ingelfingen",
+   "surface_en": "Hohenlohe-Neuenstein-Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslauer",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schulzius",
+   "kind": "person",
+   "surface_de": "Schulziusche",
+   "surface_en": "Schulzius",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Szczytniki",
+   "kind": "place",
+   "surface_de": "Scheitnig",
+   "surface_en": "Szczytniki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Countess von Götz",
+   "kind": "person",
+   "surface_de": "Gräfin von Götz",
+   "surface_en": "Countess von Götz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Szczytniki",
+   "kind": "place",
+   "surface_de": "Scheitnig",
+   "surface_en": "Szczytniki",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Szczytniki",
+   "kind": "place",
+   "surface_de": "Scheitnig",
+   "surface_en": "Szczytniki",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslauer",
+   "surface_en": "Wrocław",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Wrocław Government",
+   "kind": "other",
+   "surface_de": "Breslauer Gouvernement",
+   "surface_en": "Wrocław Government",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Bytków",
+   "kind": "place",
+   "surface_de": "Byttkow",
+   "surface_en": "Bytków",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawentzizer",
+   "surface_en": "Sławięcice",
+   "page": 6
+  },
+  {
+   "entity": "baildon",
+   "display": "John Baildon",
+   "kind": "person",
+   "surface_de": "Baildon",
+   "surface_en": "Baildon",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenzizer",
+   "surface_en": "Sławięcice",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Boronów",
+   "kind": "place",
+   "surface_de": "Boronow",
+   "surface_en": "Boronów",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Olszyna",
+   "kind": "place",
+   "surface_de": "Olschin",
+   "surface_en": "Olszyna",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Harbultowitz",
+   "kind": "place",
+   "surface_de": "Harbultowitz",
+   "surface_en": "Harbultowitz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Czyschowa",
+   "kind": "place",
+   "surface_de": "Czyschowa",
+   "surface_en": "Czyschowa",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Boronów",
+   "kind": "place",
+   "surface_de": "Boronow",
+   "surface_en": "Boronów",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Olszyna",
+   "kind": "place",
+   "surface_de": "Olschin",
+   "surface_en": "Olszyna",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Harbultowitz",
+   "kind": "place",
+   "surface_de": "Harbultowitz",
+   "surface_en": "Harbultowitz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "August, Hereditary Prince",
+   "kind": "person",
+   "surface_de": "Erb Prinz August",
+   "surface_en": "August, Hereditary Prince",
+   "page": 7
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentiner",
+   "surface_en": "Koszęcin",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Lasowice",
+   "kind": "place",
+   "surface_de": "Lassowitzer",
+   "surface_en": "Lasowice",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Koenig",
+   "kind": "person",
+   "surface_de": "Koenig",
+   "surface_en": "Koenig",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Bątkowo",
+   "kind": "place",
+   "surface_de": "Bątkowo",
+   "surface_en": "Bątkowo",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Wieniec",
+   "kind": "place",
+   "surface_de": "Winiec",
+   "surface_en": "Wieniec",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawentziz",
+   "surface_en": "Sławięcice",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Birawa",
+   "kind": "place",
+   "surface_de": "Byrawa",
+   "surface_en": "Birawa",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Stara Kuźnia",
+   "kind": "place",
+   "surface_de": "Althammer",
+   "surface_en": "Stara Kuźnia",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Lasowice",
+   "kind": "place",
+   "surface_de": "Lassowitz",
+   "surface_en": "Lasowice",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Bytków",
+   "kind": "place",
+   "surface_de": "Byttkow",
+   "surface_en": "Bytków",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Landsberg",
+   "kind": "place",
+   "surface_de": "Landsberg",
+   "surface_en": "Landsberg",
+   "page": 9
+  },
+  {
+   "entity": "prinzessin-adelheid",
+   "display": "Prinzessin Adelheid zu Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Adelheid",
+   "surface_en": "Adelheid",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Saxon",
+   "kind": "other",
+   "surface_de": "Sächsischen",
+   "surface_en": "Saxon",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Boronów",
+   "kind": "place",
+   "surface_de": "Boronow",
+   "surface_en": "Boronów",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Olszyna",
+   "kind": "place",
+   "surface_de": "Olschin",
+   "surface_en": "Olszyna",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Harbultowitz",
+   "kind": "place",
+   "surface_de": "Harbultowitz",
+   "surface_en": "Harbultowitz",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Czysowa",
+   "kind": "place",
+   "surface_de": "Czysowa",
+   "surface_en": "Czysowa",
+   "page": 9
+  },
+  {
+   "entity": "emilie",
+   "display": "Emilie",
+   "kind": "person",
+   "surface_de": "Emilie",
+   "surface_en": "Emilie",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "other",
+   "surface_de": "Südpreußischen",
+   "surface_en": "South Prussian",
+   "page": 10
+  },
+  {
+   "entity": "prinzessin-auguste",
+   "display": "Prinzessin Auguste zu Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Auguste",
+   "surface_en": "Auguste",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Szczytniki",
+   "kind": "place",
+   "surface_de": "Scheitnig",
+   "surface_en": "Szczytniki",
+   "page": 10
+  },
+  {
+   "entity": "prinzessin-adelheid",
+   "display": "Prinzessin Adelheid zu Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Adelheid",
+   "surface_en": "Adelheid",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Oehringer",
+   "surface_en": "Öhringen",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Neuenstein-Ingelfingen",
+   "kind": "place",
+   "surface_de": "Hohenlohe Neuenstein Ingelfingen",
+   "surface_en": "Hohenlohe-Neuenstein-Ingelfingen",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 13
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 13
+  },
+  {
+   "entity": "",
+   "display": "Silesian",
+   "kind": "other",
+   "surface_de": "Schlesischen",
+   "surface_en": "Silesian",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "other",
+   "surface_de": "Südpreußischen",
+   "surface_en": "South Prussian",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+   "surface_en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 15
+  },
+  {
+   "entity": "friedrich-wilhelm-iii",
+   "display": "Friedrich Wilhelm III, King of Prussia",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+   "surface_en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Silesian",
+   "kind": "other",
+   "surface_de": "Schlesischen",
+   "surface_en": "Silesian",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "other",
+   "surface_de": "Südpreußischen",
+   "surface_en": "South Prussian",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Rech",
+   "kind": "other",
+   "surface_de": "Rech",
+   "surface_en": "Rech",
+   "page": 15
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -1379,11 +2476,840 @@
    "doc_line": 288
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
- "summary_en": "",
- "summary_de": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Ten Thousand Thaler\n\nWe Friedrich Wilhelm, by the Grace of God King of Prussia, Margrave of Brandenburg, Arch-Chamberlain and Elector of the Holy Roman Empire; sovereign and supreme Duke of Silesia, sovereign Prince of Orange, Neufchatel and Vallangin, as also of the County of Kłodzko, Duke of Magdeburg, Cleve, Berg, Szczecin, Pomerania, of the Cassubians and Wends, of Mecklenburg and Krosno Odrzańskie; Burgrave of Nuremberg, above and below the mountains, Prince of Hildeshuom, Paderborn, Halberstadt, Münster, Minden, Cammin, Wenden, Schwerin, Ratzeburg, East Frisia, Lübsfeld, Erfurt, Essen, Rücklinbüro and Ellen, Count of Hohenzollern, Ruppin, the Mark, Ravensberg, Hohenstein, Tecklenburg, Schwerin, Lingen, Bühren and Leerdamm; Lord of the lands of Rostock, Stargard, Strden, Limburg, Lauenburg, Bütow, Arlay and Breda, etc. We do hereby make known and confess, for Ourselves and Our successors in the government, that, whereas the Serene Prince, Our friendly dear cousin, Friedrich Ludwig of Hohenlohe-Ingelfingen, Our General of Infantry, Governor of Wrocław, Inspector of the Lower Silesian and Franconian Infantry Inspections, Knight of Our Red and of Our Great Black Eagle Order, has",
+   "names": [
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Brandenburg",
+     "en": "Brandenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Oranien",
+     "en": "Orange",
+     "kind": "place"
+    },
+    {
+     "de": "Neufchatel",
+     "en": "Neufchatel",
+     "kind": "place"
+    },
+    {
+     "de": "Vallangin",
+     "en": "Vallangin",
+     "kind": "place"
+    },
+    {
+     "de": "Glatz",
+     "en": "Kłodzko",
+     "kind": "place"
+    },
+    {
+     "de": "Magdeburg",
+     "en": "Magdeburg",
+     "kind": "place"
+    },
+    {
+     "de": "Cleve",
+     "en": "Cleve",
+     "kind": "place"
+    },
+    {
+     "de": "Berge",
+     "en": "Berg",
+     "kind": "place"
+    },
+    {
+     "de": "Stettin",
+     "en": "Szczecin",
+     "kind": "place"
+    },
+    {
+     "de": "Pommern",
+     "en": "Pomerania",
+     "kind": "place"
+    },
+    {
+     "de": "Cassuben",
+     "en": "Cassubians",
+     "kind": "other"
+    },
+    {
+     "de": "Wenden",
+     "en": "Wends",
+     "kind": "other"
+    },
+    {
+     "de": "Mecklenburg",
+     "en": "Mecklenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Crossen",
+     "en": "Krosno Odrzańskie",
+     "kind": "place"
+    },
+    {
+     "de": "Nürnberg",
+     "en": "Nuremberg",
+     "kind": "place"
+    },
+    {
+     "de": "Hildeshuom",
+     "en": "Hildeshuom",
+     "kind": "place"
+    },
+    {
+     "de": "Paderborn",
+     "en": "Paderborn",
+     "kind": "place"
+    },
+    {
+     "de": "Halberstadt",
+     "en": "Halberstadt",
+     "kind": "place"
+    },
+    {
+     "de": "Münster",
+     "en": "Münster",
+     "kind": "place"
+    },
+    {
+     "de": "Minden",
+     "en": "Minden",
+     "kind": "place"
+    },
+    {
+     "de": "Cammin",
+     "en": "Cammin",
+     "kind": "place"
+    },
+    {
+     "de": "Wenden",
+     "en": "Wenden",
+     "kind": "place"
+    },
+    {
+     "de": "Schwerin",
+     "en": "Schwerin",
+     "kind": "place"
+    },
+    {
+     "de": "Ratzeburg",
+     "en": "Ratzeburg",
+     "kind": "place"
+    },
+    {
+     "de": "Ostfriesland",
+     "en": "East Frisia",
+     "kind": "place"
+    },
+    {
+     "de": "Lübsfeld",
+     "en": "Lübsfeld",
+     "kind": "place"
+    },
+    {
+     "de": "Erfurt",
+     "en": "Erfurt",
+     "kind": "place"
+    },
+    {
+     "de": "Essen",
+     "en": "Essen",
+     "kind": "place"
+    },
+    {
+     "de": "Rücklinbüro",
+     "en": "Rücklinbüro",
+     "kind": "place"
+    },
+    {
+     "de": "Ellen",
+     "en": "Ellen",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenzollern",
+     "en": "Hohenzollern",
+     "kind": "place"
+    },
+    {
+     "de": "Ruppin",
+     "en": "Ruppin",
+     "kind": "place"
+    },
+    {
+     "de": "der Mark",
+     "en": "the Mark",
+     "kind": "place"
+    },
+    {
+     "de": "Ravensberg",
+     "en": "Ravensberg",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenstein",
+     "en": "Hohenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Tecklenburg",
+     "en": "Tecklenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Schwerin",
+     "en": "Schwerin",
+     "kind": "place"
+    },
+    {
+     "de": "Lingen",
+     "en": "Lingen",
+     "kind": "place"
+    },
+    {
+     "de": "Bühren",
+     "en": "Bühren",
+     "kind": "place"
+    },
+    {
+     "de": "Leerdamm",
+     "en": "Leerdamm",
+     "kind": "place"
+    },
+    {
+     "de": "Rostock",
+     "en": "Rostock",
+     "kind": "place"
+    },
+    {
+     "de": "Stargard",
+     "en": "Stargard",
+     "kind": "place"
+    },
+    {
+     "de": "Strden",
+     "en": "Strden",
+     "kind": "place"
+    },
+    {
+     "de": "Limburg",
+     "en": "Limburg",
+     "kind": "place"
+    },
+    {
+     "de": "Lauenburg",
+     "en": "Lauenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Bütow",
+     "en": "Bütow",
+     "kind": "place"
+    },
+    {
+     "de": "Arlay",
+     "en": "Arlay",
+     "kind": "place"
+    },
+    {
+     "de": "Breda",
+     "en": "Breda",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig zu Hohenlohe-Ingelfingen",
+     "en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "most humbly given Us to understand in what manner, in order to preserve the flourishing of the Princely House of Hohenlohe, he has founded in his will drawn up on the 7th of October 1805 a family entailed estate and fideicommiss, for which he designates his houses in Wrocław, his park at Szczytniki, his Silesian allodial estate of Bytków, the Silesian lordship of Koszęcin purchased by him together with the estates connected therewith, Boronów, Harbultowitz, Olszyna and Czischowa, and finally those estates which he possesses in South Prussia, namely the lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Batkowo; with the added most humble request that, since the erection of such an entailed estate and fideicommiss cannot take place under the laws of the land without Our sovereign approbation, We might most graciously be pleased to grant him the same; whereupon We have then granted this request out of the particular royal favour and goodwill We bear towards the aforementioned reigning Prince of Hohenlohe-Ingelfingen and his family.\n\nAccordingly We have, the extract most humbly presented to Us",
+   "names": [
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Scheitnig",
+     "en": "Szczytniki",
+     "kind": "place"
+    },
+    {
+     "de": "Byttkow",
+     "en": "Bytków",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Boronow",
+     "en": "Boronów",
+     "kind": "place"
+    },
+    {
+     "de": "Harbultowitz",
+     "en": "Harbultowitz",
+     "kind": "place"
+    },
+    {
+     "de": "Olschin",
+     "en": "Olszyna",
+     "kind": "place"
+    },
+    {
+     "de": "Czischowa",
+     "en": "Czischowa",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Winiec",
+     "en": "Wieniec",
+     "kind": "place"
+    },
+    {
+     "de": "Batkowo",
+     "en": "Batkowo",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1805"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "containing the above-named family entailed estate and fideicommiss, from the will of the Serene reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen drawn up under date Wrocław the 7th of October 1805, which runs word for word as follows:\n\nCopy of an extract from the will which His Serene Highness the reigning Prince of Hohenlohe-Neuenstein-Ingelfingen deposited with the Wrocław Government Court on the 9th of October 1805.\n\n§ XII. Already in the settlement I declared that I would likewise raise to an entailed estate various considerable portions of My private fortune, for the founding of the flourishing of My Princely House. I therefore declare first of all:\n\n1. My houses in Wrocław, and consequently also the Schulzius house first newly purchased in the past year, which is at present joined with My older house, as it stands and lies;\n\n2. My park and gardens at Szczytniki, including both the dwelling houses belonging thereto and also including",
+   "names": [
+    {
+     "de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+     "en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe Neuenstein Ingelfingen",
+     "en": "Hohenlohe-Neuenstein-Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Breslauer",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Schulziusche",
+     "en": "Schulzius",
+     "kind": "person"
+    },
+    {
+     "de": "Scheitnig",
+     "en": "Szczytniki",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1805",
+    "9",
+    "1805",
+    "XII",
+    "1",
+    "2"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "the garden in Szczytniki purchased by Me from the Countess von Götz, in the most solemn legal form as an entailed estate, as described above. I add to this entailed estate, and hereby declare incorporated in it, the furnishings and all the utensils to be found in My houses here and in the town and at Szczytniki, and likewise in the pleasure-houses there. Namely, all My silver plate to be found here, porcelain table centrepieces, linen, paintings, copper engravings. All this is to be well preserved by every future lord of the entailed estate, and he may indeed make improvements and alterations therein as fashion changes and so forth, at his pleasure; but the value as a whole, and the silver by weight, shall never be diminished.\n\nMy library and map-room here I likewise add to the entailed estate. My eldest son must, however, not withhold from his younger brothers whatever may be of use to them from the library and map-room for their military study.\n\nI also make it the express duty of My eldest son, and of every successor in the entailed estate, to keep the road and the bridge to the garden always in good",
+   "names": [
+    {
+     "de": "Gräfin von Götz",
+     "en": "Countess von Götz",
+     "kind": "person"
+    },
+    {
+     "de": "Scheitnig",
+     "en": "Szczytniki",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "repair; likewise to conserve well all the plantations in the park, and also the water features in the same, and to increase and improve them according to his good taste; in particular to have the replanting of the [text lost] commended to him, and above all to conserve diligently and in the best structural condition, for all time, the monuments set up by Me to the three Kings of Prussia whom I have served. At the same time I hereby ordain that the garden and park at Szczytniki shall, under every future lord of the entailed estate also, remain a public promenade for the public of Wrocław. Yet every possessor may in return require decent conduct of the public and faithful care of the park and of all its parts.\n\nIn this regard I also hereby address to the Wrocław Government and to the Police Directorate here the urgent request to take this place of pleasure, and this walk dedicated by Me to the general enjoyment, under their special protection and supervision.\n\nMy heir shall duly forward and convey to these high authorities a copy of the extract of the present passage of My will",
+   "names": [
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Scheitnig",
+     "en": "Szczytniki",
+     "kind": "place"
+    },
+    {
+     "de": "Breslauer",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Breslauer Gouvernement",
+     "en": "Wrocław Government",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "en": "in proper form.\n\n§ XIII. Now, in order further to promote the flourishing of My Princely House, I will by the present solemn legal disposition also have the hitherto allodial estate of Bytków purchased by Me hereby made into an entailed estate, and namely have the same added to the Sławięcice ironworks department. I here make it the express duty of the lord of the entailed estate to complete, in the greatest possible extension, the establishment of a coal-fired blast furnace erected by Me but not yet quite finished, and to hold firmly and inviolably to the partnership contract concluded by Me with Mr Baildon upon this matter; also always to preserve this gentleman in his present connexion with the Sławięcice works, and to make use of his good counsel, as one who in My conviction can be of excellent service to the interest of this branch of estate economy.\n\n§ XIV. I have also purchased the lordship of Koszęcin and the lordships connected therewith, Boronów, Olszyna, Harbultowitz",
+   "names": [
+    {
+     "de": "Byttkow",
+     "en": "Bytków",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawentzizer",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Baildon",
+     "en": "Baildon",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenzizer",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Boronow",
+     "en": "Boronów",
+     "kind": "place"
+    },
+    {
+     "de": "Olschin",
+     "en": "Olszyna",
+     "kind": "place"
+    },
+    {
+     "de": "Harbultowitz",
+     "en": "Harbultowitz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "XIII",
+    "XIV"
+   ]
+  },
+  {
+   "page": 7,
+   "en": "and Czyschowa, for about one million thaler. Their true value may, however, well reach fourteen hundred thousand thaler. Into these estates I have paid two hundred thousand Reichsthaler in cash; and I can therefore safely reckon that I already at present possess in them a clear property of five hundred thousand thaler, whereby I have at the same time worked towards regulating the debts still resting upon them in such a way that I cannot be incommoded by any calling-in of them, but that it depends upon the possessor whether, when, and how much of them he will successively discharge and pay off. This lordship of Koszęcin too, and the lordships connected therewith, Boronów, Olszyna, Harbultowitz and Czyschowa, I hereby make into an entailed estate, as characterised above. To My eldest son, the Hereditary Prince August, who thus succeeds Me first in these estates also, I commend the mining councillor Bernhardi, who now directs the administration. Should he, however,",
+   "names": [
+    {
+     "de": "Czyschowa",
+     "en": "Czyschowa",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Boronow",
+     "en": "Boronów",
+     "kind": "place"
+    },
+    {
+     "de": "Olschin",
+     "en": "Olszyna",
+     "kind": "place"
+    },
+    {
+     "de": "Harbultowitz",
+     "en": "Harbultowitz",
+     "kind": "place"
+    },
+    {
+     "de": "Erb Prinz August",
+     "en": "August, Hereditary Prince",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "eine Million",
+    "Vierzehn hundert tausend",
+    "zweymal hundert tausend",
+    "fünfmal hundert tausend"
+   ]
+  },
+  {
+   "page": 8,
+   "en": "in his sickliness depart this life early, then I advise My dear successor to place at the head of the Koszęcin administration also the Lasowice ironworks inspector Koenig, who is very experienced in ironworking and truly deserving; in which [administration] the best possible forestry management and the ever-increasing cultivation and improvement of the ironworks likewise founds the most solid Revencirch funds.\n\n§ XV. Finally I also declare those estates and lordships which I leave behind Me at My death in South Prussia to be an entailed estate, namely the lordships of Pszczew, Zagórów and Trąbczyn, Bątkowo and Wieniec.\n\n§ XXIV. Since all My entail foundations relate only to the flourishing of My House and Princely name, I have already in the settlement of 1799, § 10 no. 8, had the power conveyed to Me to dispose freely, by a particular disposition, also in respect of the Uxoral Güter made into entailed estates for My male line, for",
+   "names": [
+    {
+     "de": "Koschentiner",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Lassowitzer",
+     "en": "Lasowice",
+     "kind": "place"
+    },
+    {
+     "de": "Koenig",
+     "en": "Koenig",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Bątkowo",
+     "en": "Bątkowo",
+     "kind": "place"
+    },
+    {
+     "de": "Winiec",
+     "en": "Wieniec",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "XV",
+    "XXIV",
+    "1799",
+    "10",
+    "8"
+   ]
+  },
+  {
+   "page": 9,
+   "en": "the event of the extinction of My male line. Partly by virtue of this reservation, partly by virtue of My own right, I therefore ordain that, in case My male descent in all three lines of My beloved Princes should — which may fate avert to the latest times! — die out and be extinct, then:\n\n1. The estates of Sławięcice, Birawa, Stara Kuźnia, Lasowice, together with the manufactories and ironworks belonging thereto, as also the estate of Bytków, and the estate of Landsberg possibly still to be purchased, [shall fall] to My eldest daughter Adelheid or her future descendants;\n\nII. All the Saxon estates, as also the lordship of Koszęcin and the lordships connected therewith, Boronów, Olszyna, Harbultowitz and Czysowa, to My second daughter Emilie and her future",
+   "names": [
+    {
+     "de": "Schlawentziz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Byrawa",
+     "en": "Birawa",
+     "kind": "place"
+    },
+    {
+     "de": "Althammer",
+     "en": "Stara Kuźnia",
+     "kind": "place"
+    },
+    {
+     "de": "Lassowitz",
+     "en": "Lasowice",
+     "kind": "place"
+    },
+    {
+     "de": "Byttkow",
+     "en": "Bytków",
+     "kind": "place"
+    },
+    {
+     "de": "Landsberg",
+     "en": "Landsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Adelheid",
+     "en": "Adelheid",
+     "kind": "person"
+    },
+    {
+     "de": "Sächsischen",
+     "en": "Saxon",
+     "kind": "other"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Boronow",
+     "en": "Boronów",
+     "kind": "place"
+    },
+    {
+     "de": "Olschin",
+     "en": "Olszyna",
+     "kind": "place"
+    },
+    {
+     "de": "Harbultowitz",
+     "en": "Harbultowitz",
+     "kind": "place"
+    },
+    {
+     "de": "Czysowa",
+     "en": "Czysowa",
+     "kind": "place"
+    },
+    {
+     "de": "Emilie",
+     "en": "Emilie",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "II"
+   ]
+  },
+  {
+   "page": 10,
+   "en": "descendants.\n\nIII. All the South Prussian estates to My third daughter Auguste and her future descendants.\n\nIV. My houses in Wrocław and the park at Szczytniki, together with all appurtenances, to the Princess Adelheid, My eldest daughter, and her descendants, likewise alone,\n\nshall fall and be assigned. How matters are to be handled with the Öhringen fideicommiss capital of the 200,000 fr [illegible] has already been disposed of above.\n\nAll the remainder, which is not mentioned here, becomes free allodium in the person of the last possessor and male descendant out of all three lines of My Princes. With those allotments, however, it shall be held as follows.\n\nI. Were one of My three Princesses still living",
+   "names": [
+    {
+     "de": "Südpreußischen",
+     "en": "South Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "Auguste",
+     "en": "Auguste",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Scheitnig",
+     "en": "Szczytniki",
+     "kind": "place"
+    },
+    {
+     "de": "Adelheid",
+     "en": "Adelheid",
+     "kind": "person"
+    },
+    {
+     "de": "Oehringer",
+     "en": "Öhringen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "III",
+    "IV",
+    "200,000",
+    "I"
+   ]
+  },
+  {
+   "page": 11,
+   "en": "at the extinction of the male line — which early death may fate avert — then the Princess would enjoy the usufruct of the share assigned to her for her lifetime. Thereafter, however, upon her death the same shall descend to the firstborn male descendant; and in her male descent the assigned share remains a family fideicommiss according to the right of lineal succession and of primogeniture, but in the person of the last male descendant it becomes free allodium.\n\nII. The same shall be held if My own Princess daughter is no longer living at the extinction of My male line. Her share then falls at once to the firstborn of the first line of her male descendants, and in the further transmission it shall be held just as before stated.\n\nIII. If at the extinction of My male",
+   "numbers": [
+    "II",
+    "III"
+   ]
+  },
+  {
+   "page": 12,
+   "en": "line one of the Princesses has also died without leaving any male or female descent, then her share falls to the two remaining Princesses and their descendants in equal parts. But if there is still female, though no male, descent of the Princess, then the female descendants then living succeed to her share as to a free allodium; yet not in Capita but in Stirpes. That the foregoing and overleaf copy of the extract of the will of His Most Serene Highness the reigning Prince of the Empire of Hohenlohe-Neuenstein-Ingelfingen has, after careful comparison and collation, been found conformable to and agreeing with the original laid before the undersigned, is hereby on the part of the Royal Government Court here",
+   "names": [
+    {
+     "de": "Hohenlohe Neuenstein Ingelfingen",
+     "en": "Hohenlohe-Neuenstein-Ingelfingen",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "en": "certified and attested in Fidem publicam.\n\nThus done at Wrocław, the 7th of October in the year 1805. (L. S.)\n\nRichter\n\nRoyal Government Auditor here.\n\n[We have] ratified and approved [the same], according to its whole content and the order of succession prescribed therein by the right of primogeniture, out of the plenitude of Royal power. We do so also hereby and by virtue of these presents, ratify and approve the foregoing extract of the will in every respect, and will that the foundation contained therein shall be valid for all time; saving, however, Us in Our rights and in the obligations which lie upon the Prince and the Princess with regard to the cabinet orders of\n\n27 September and 25 October 1804, and likewise saving to every man his well-acquired and well-founded rights, and with the provision that the legal prescriptions, according to which none of Our vassals may reside outside the country",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1805",
+    "27",
+    "25",
+    "1804"
+   ]
+  },
+  {
+   "page": 14,
+   "en": "without Our express permission, are also to be exactly observed by each successive possessor of this entailed estate and fideicommiss. We therefore command and enjoin all Our Supreme Provincial Colleges, as also each and every one of Our vassals and subjects, of whatever estate, dignity or condition they may be, but in particular Our Silesian Supreme Provincial Governments and Our South Prussian Governments, and moreover every man whomsoever, that they conduct themselves most obediently accordingly, and leave the successors and descendants of the oft-mentioned reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen quiet and undisturbed in the operation of the family entailed estate and fideicommiss\n\ninstitution most graciously confirmed by Us and duly to be entered in the relevant mortgage books; that on the contrary they neither contest, hinder nor trouble them therein, nor occasion or permit that such be done by others, upon pain of Our highest displeasure and unfailing severe punishment.",
+   "names": [
+    {
+     "de": "Schlesischen",
+     "en": "Silesian",
+     "kind": "other"
+    },
+    {
+     "de": "Südpreußischen",
+     "en": "South Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+     "en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "en": "In witness whereof We have executed this confirmation with Our own most high hand and have caused Our Royal seal to be appended thereto. Thus done and given at Berlin, the 19th of December 1805. Friedrich Wilhelm\n\nSovereign confirmation of the entailed estate and family fideicommiss erected by the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen out of his Silesian and South Prussian estates and possessions —\n\nRech",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich Ludwig zu Hohenlohe Ingelfingen",
+     "en": "Friedrich Ludwig of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Schlesischen",
+     "en": "Silesian",
+     "kind": "other"
+    },
+    {
+     "de": "Südpreußischen",
+     "en": "South Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "Rech",
+     "en": "Rech",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "Ten Thousand Thaler\n\nWe Friedrich Wilhelm, by the Grace of God King of Prussia, Margrave of Brandenburg, Arch-Chamberlain and Elector of the Holy Roman Empire; sovereign and supreme Duke of Silesia, sovereign Prince of Orange, Neufchatel and Vallangin, as also of the County of Kłodzko, Duke of Magdeburg, Cleve, Berg, Szczecin, Pomerania, of the Cassubians and Wends, of Mecklenburg and Krosno Odrzańskie; Burgrave of Nuremberg, above and below the mountains, Prince of Hildeshuom, Paderborn, Halberstadt, Münster, Minden, Cammin, Wenden, Schwerin, Ratzeburg, East Frisia, Lübsfeld, Erfurt, Essen, Rücklinbüro and Ellen, Count of Hohenzollern, Ruppin, the Mark, Ravensberg, Hohenstein, Tecklenburg, Schwerin, Lingen, Bühren and Leerdamm; Lord of the lands of Rostock, Stargard, Strden, Limburg, Lauenburg, Bütow, Arlay and Breda, etc. We do hereby make known and confess, for Ourselves and Our successors in the government, that, whereas the Serene Prince, Our friendly dear cousin, Friedrich Ludwig of Hohenlohe-Ingelfingen, Our General of Infantry, Governor of Wrocław, Inspector of the Lower Silesian and Franconian Infantry Inspections, Knight of Our Red and of Our Great Black Eagle Order, has\n\nmost humbly given Us to understand in what manner, in order to preserve the flourishing of the Princely House of Hohenlohe, he has founded in his will drawn up on the 7th of October 1805 a family entailed estate and fideicommiss, for which he designates his houses in Wrocław, his park at Szczytniki, his Silesian allodial estate of Bytków, the Silesian lordship of Koszęcin purchased by him together with the estates connected therewith, Boronów, Harbultowitz, Olszyna and Czischowa, and finally those estates which he possesses in South Prussia, namely the lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Batkowo; with the added most humble request that, since the erection of such an entailed estate and fideicommiss cannot take place under the laws of the land without Our sovereign approbation, We might most graciously be pleased to grant him the same; whereupon We have then granted this request out of the particular royal favour and goodwill We bear towards the aforementioned reigning Prince of Hohenlohe-Ingelfingen and his family.\n\nAccordingly We have, the extract most humbly presented to Us\n\ncontaining the above-named family entailed estate and fideicommiss, from the will of the Serene reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen drawn up under date Wrocław the 7th of October 1805, which runs word for word as follows:\n\nCopy of an extract from the will which His Serene Highness the reigning Prince of Hohenlohe-Neuenstein-Ingelfingen deposited with the Wrocław Government Court on the 9th of October 1805.\n\n§ XII. Already in the settlement I declared that I would likewise raise to an entailed estate various considerable portions of My private fortune, for the founding of the flourishing of My Princely House. I therefore declare first of all:\n\n1. My houses in Wrocław, and consequently also the Schulzius house first newly purchased in the past year, which is at present joined with My older house, as it stands and lies;\n\n2. My park and gardens at Szczytniki, including both the dwelling houses belonging thereto and also including\n\nthe garden in Szczytniki purchased by Me from the Countess von Götz, in the most solemn legal form as an entailed estate, as described above. I add to this entailed estate, and hereby declare incorporated in it, the furnishings and all the utensils to be found in My houses here and in the town and at Szczytniki, and likewise in the pleasure-houses there. Namely, all My silver plate to be found here, porcelain table centrepieces, linen, paintings, copper engravings. All this is to be well preserved by every future lord of the entailed estate, and he may indeed make improvements and alterations therein as fashion changes and so forth, at his pleasure; but the value as a whole, and the silver by weight, shall never be diminished.\n\nMy library and map-room here I likewise add to the entailed estate. My eldest son must, however, not withhold from his younger brothers whatever may be of use to them from the library and map-room for their military study.\n\nI also make it the express duty of My eldest son, and of every successor in the entailed estate, to keep the road and the bridge to the garden always in good\n\nrepair; likewise to conserve well all the plantations in the park, and also the water features in the same, and to increase and improve them according to his good taste; in particular to have the replanting of the [text lost] commended to him, and above all to conserve diligently and in the best structural condition, for all time, the monuments set up by Me to the three Kings of Prussia whom I have served. At the same time I hereby ordain that the garden and park at Szczytniki shall, under every future lord of the entailed estate also, remain a public promenade for the public of Wrocław. Yet every possessor may in return require decent conduct of the public and faithful care of the park and of all its parts.\n\nIn this regard I also hereby address to the Wrocław Government and to the Police Directorate here the urgent request to take this place of pleasure, and this walk dedicated by Me to the general enjoyment, under their special protection and supervision.\n\nMy heir shall duly forward and convey to these high authorities a copy of the extract of the present passage of My will\n\nin proper form.\n\n§ XIII. Now, in order further to promote the flourishing of My Princely House, I will by the present solemn legal disposition also have the hitherto allodial estate of Bytków purchased by Me hereby made into an entailed estate, and namely have the same added to the Sławięcice ironworks department. I here make it the express duty of the lord of the entailed estate to complete, in the greatest possible extension, the establishment of a coal-fired blast furnace erected by Me but not yet quite finished, and to hold firmly and inviolably to the partnership contract concluded by Me with Mr Baildon upon this matter; also always to preserve this gentleman in his present connexion with the Sławięcice works, and to make use of his good counsel, as one who in My conviction can be of excellent service to the interest of this branch of estate economy.\n\n§ XIV. I have also purchased the lordship of Koszęcin and the lordships connected therewith, Boronów, Olszyna, Harbultowitz\n\nand Czyschowa, for about one million thaler. Their true value may, however, well reach fourteen hundred thousand thaler. Into these estates I have paid two hundred thousand Reichsthaler in cash; and I can therefore safely reckon that I already at present possess in them a clear property of five hundred thousand thaler, whereby I have at the same time worked towards regulating the debts still resting upon them in such a way that I cannot be incommoded by any calling-in of them, but that it depends upon the possessor whether, when, and how much of them he will successively discharge and pay off. This lordship of Koszęcin too, and the lordships connected therewith, Boronów, Olszyna, Harbultowitz and Czyschowa, I hereby make into an entailed estate, as characterised above. To My eldest son, the Hereditary Prince August, who thus succeeds Me first in these estates also, I commend the mining councillor Bernhardi, who now directs the administration. Should he, however,\n\nin his sickliness depart this life early, then I advise My dear successor to place at the head of the Koszęcin administration also the Lasowice ironworks inspector Koenig, who is very experienced in ironworking and truly deserving; in which [administration] the best possible forestry management and the ever-increasing cultivation and improvement of the ironworks likewise founds the most solid Revencirch funds.\n\n§ XV. Finally I also declare those estates and lordships which I leave behind Me at My death in South Prussia to be an entailed estate, namely the lordships of Pszczew, Zagórów and Trąbczyn, Bątkowo and Wieniec.\n\n§ XXIV. Since all My entail foundations relate only to the flourishing of My House and Princely name, I have already in the settlement of 1799, § 10 no. 8, had the power conveyed to Me to dispose freely, by a particular disposition, also in respect of the Uxoral Güter made into entailed estates for My male line, for\n\nthe event of the extinction of My male line. Partly by virtue of this reservation, partly by virtue of My own right, I therefore ordain that, in case My male descent in all three lines of My beloved Princes should — which may fate avert to the latest times! — die out and be extinct, then:\n\n1. The estates of Sławięcice, Birawa, Stara Kuźnia, Lasowice, together with the manufactories and ironworks belonging thereto, as also the estate of Bytków, and the estate of Landsberg possibly still to be purchased, [shall fall] to My eldest daughter Adelheid or her future descendants;\n\nII. All the Saxon estates, as also the lordship of Koszęcin and the lordships connected therewith, Boronów, Olszyna, Harbultowitz and Czysowa, to My second daughter Emilie and her future\n\ndescendants.\n\nIII. All the South Prussian estates to My third daughter Auguste and her future descendants.\n\nIV. My houses in Wrocław and the park at Szczytniki, together with all appurtenances, to the Princess Adelheid, My eldest daughter, and her descendants, likewise alone,\n\nshall fall and be assigned. How matters are to be handled with the Öhringen fideicommiss capital of the 200,000 fr [illegible] has already been disposed of above.\n\nAll the remainder, which is not mentioned here, becomes free allodium in the person of the last possessor and male descendant out of all three lines of My Princes. With those allotments, however, it shall be held as follows.\n\nI. Were one of My three Princesses still living\n\nat the extinction of the male line — which early death may fate avert — then the Princess would enjoy the usufruct of the share assigned to her for her lifetime. Thereafter, however, upon her death the same shall descend to the firstborn male descendant; and in her male descent the assigned share remains a family fideicommiss according to the right of lineal succession and of primogeniture, but in the person of the last male descendant it becomes free allodium.\n\nII. The same shall be held if My own Princess daughter is no longer living at the extinction of My male line. Her share then falls at once to the firstborn of the first line of her male descendants, and in the further transmission it shall be held just as before stated.\n\nIII. If at the extinction of My male\n\nline one of the Princesses has also died without leaving any male or female descent, then her share falls to the two remaining Princesses and their descendants in equal parts. But if there is still female, though no male, descent of the Princess, then the female descendants then living succeed to her share as to a free allodium; yet not in Capita but in Stirpes. That the foregoing and overleaf copy of the extract of the will of His Most Serene Highness the reigning Prince of the Empire of Hohenlohe-Neuenstein-Ingelfingen has, after careful comparison and collation, been found conformable to and agreeing with the original laid before the undersigned, is hereby on the part of the Royal Government Court here\n\ncertified and attested in Fidem publicam.\n\nThus done at Wrocław, the 7th of October in the year 1805. (L. S.)\n\nRichter\n\nRoyal Government Auditor here.\n\n[We have] ratified and approved [the same], according to its whole content and the order of succession prescribed therein by the right of primogeniture, out of the plenitude of Royal power. We do so also hereby and by virtue of these presents, ratify and approve the foregoing extract of the will in every respect, and will that the foundation contained therein shall be valid for all time; saving, however, Us in Our rights and in the obligations which lie upon the Prince and the Princess with regard to the cabinet orders of\n\n27 September and 25 October 1804, and likewise saving to every man his well-acquired and well-founded rights, and with the provision that the legal prescriptions, according to which none of Our vassals may reside outside the country\n\nwithout Our express permission, are also to be exactly observed by each successive possessor of this entailed estate and fideicommiss. We therefore command and enjoin all Our Supreme Provincial Colleges, as also each and every one of Our vassals and subjects, of whatever estate, dignity or condition they may be, but in particular Our Silesian Supreme Provincial Governments and Our South Prussian Governments, and moreover every man whomsoever, that they conduct themselves most obediently accordingly, and leave the successors and descendants of the oft-mentioned reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen quiet and undisturbed in the operation of the family entailed estate and fideicommiss\n\ninstitution most graciously confirmed by Us and duly to be entered in the relevant mortgage books; that on the contrary they neither contest, hinder nor trouble them therein, nor occasion or permit that such be done by others, upon pain of Our highest displeasure and unfailing severe punishment.\n\nIn witness whereof We have executed this confirmation with Our own most high hand and have caused Our Royal seal to be appended thereto. Thus done and given at Berlin, the 19th of December 1805. Friedrich Wilhelm\n\nSovereign confirmation of the entailed estate and family fideicommiss erected by the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen out of his Silesian and South Prussian estates and possessions —\n\nRech",
+ "summary_en": "The King of Prussia's confirmation, as sovereign, of the family majorat and fideicommiss that Friedrich Ludwig of Hohenlohe-Ingelfingen founded in his will of 7 October 1805. The extract of the will it recites makes majorat his houses in Wrocław, the park at Szczytniki, Bytków, Koszęcin with Boronów, Olszyna, Harbultowitz and Cieszowa, and the South Prussian lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Batkowo. If the male line dies out, his third daughter Auguste receives the South Prussian estates, Adelheid the Silesian ironworks, and Emilie Koszęcin.",
+ "summary_de": "Landesherrliche Bestätigung des Königs von Preußen für das Familienmajorat und Fideicommiss, das Friedrich Ludwig zu Hohenlohe-Ingelfingen im Testament vom 7. October 1805 stiftete. Der eingerückte Testamentsauszug erklärt zu Majorat: seine Häuser in Wrocław, den Park in Szczytniki, Bytków, Koszęcin mit Boronów, Olszyna, Harbultowitz und Cieszowa sowie die südpreußischen Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Batkowo. Stirbt der Mannsstamm aus, erhält die dritte Tochter Auguste die südpreußischen Güter, Adelheid die schlesischen Hüttenwerke, Emilie Koszęcin.",
  "reading": {
   "letter": "1",
   "legibility": "sound",
