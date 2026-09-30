@@ -223,6 +223,17 @@
    "doc_line": 20
   },
   {
+   "entity": "itzig",
+   "display": "Itzig",
+   "kind": "person",
+   "surface": "Jtzig",
+   "page": 1,
+   "page_id": "0309_b",
+   "scan": "Oe_1_Bu_9454_0309_b-L164_01.jpg",
+   "line": 11613,
+   "doc_line": 20
+  },
+  {
    "entity": "honrichs",
    "display": "Honrichs",
    "kind": "person",
@@ -353,6 +364,17 @@
    "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
    "line": 11699,
    "doc_line": 103
+  },
+  {
+   "entity": "echtler",
+   "display": "Echtler",
+   "kind": "person",
+   "surface": "Echtler",
+   "page": 4,
+   "page_id": "0311_a",
+   "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+   "line": 11702,
+   "doc_line": 106
   }
  ],
  "mentions_english": [],

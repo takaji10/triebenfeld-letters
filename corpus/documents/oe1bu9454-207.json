@@ -64,6 +64,28 @@
  ],
  "mentions": [
   {
+   "entity": "falz",
+   "display": "Falz (Salz)",
+   "kind": "person",
+   "surface": "Falz",
+   "page": 1,
+   "page_id": "0389_b",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14739,
+   "doc_line": 10
+  },
+  {
+   "entity": "falz",
+   "display": "Falz (Salz)",
+   "kind": "person",
+   "surface": "Falz",
+   "page": 1,
+   "page_id": "0389_b",
+   "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+   "line": 14743,
+   "doc_line": 14
+  },
+  {
    "entity": "hecker",
    "display": "Hecker",
    "kind": "person",

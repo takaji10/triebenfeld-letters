@@ -39474,6 +39474,74 @@
   ]
  },
  {
+  "entity": "falz",
+  "display": "Falz (Salz)",
+  "count": 6,
+  "documents": [
+   "oe1bu9454-19",
+   "oe1bu9454-207",
+   "oe1bu9454-210",
+   "oe1bu9454-212",
+   "oe1bu9454-213"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-207",
+    "surface": "Falz",
+    "page": 1,
+    "page_id": "0389_b",
+    "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+    "line": 14739,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu9454-207",
+    "surface": "Falz",
+    "page": 1,
+    "page_id": "0389_b",
+    "scan": "Oe_1_Bu_9454_0389_b-L207_01.jpg",
+    "line": 14743,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-210",
+    "surface": "Falz",
+    "page": 2,
+    "page_id": "0393_a1",
+    "scan": "Oe_1_Bu_9454_0393_a1-L210_02.jpg",
+    "line": 14862,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-212",
+    "surface": "Salz",
+    "page": 3,
+    "page_id": "0396_a2",
+    "scan": "Oe_1_Bu_9454_0396_a2-L212_03.jpg",
+    "line": 15028,
+    "doc_line": 50
+   },
+   {
+    "uid": "oe1bu9454-213",
+    "surface": "Falz",
+    "page": 4,
+    "page_id": "0399_a",
+    "scan": "Oe_1_Bu_9454_0399_a-L213_04.jpg",
+    "line": 15198,
+    "doc_line": 124
+   },
+   {
+    "uid": "oe1bu9454-19",
+    "surface": "Salz",
+    "page": 3,
+    "page_id": "0031_a2",
+    "scan": "Oe_1_Bu_9454_0031_a2-L19_03.jpg",
+    "line": 1149,
+    "doc_line": 53
+   }
+  ]
+ },
+ {
   "entity": "radziwill",
   "display": "Antoni Radziwiłł",
   "count": 6,
@@ -39651,6 +39719,64 @@
     "scan": "Oe_1_Bu_9454_0316_a2-L168_03.jpg",
     "line": 11929,
     "doc_line": 57
+   }
+  ]
+ },
+ {
+  "entity": "schlieben",
+  "display": "von Schlieben (Oberst, widow and heirs)",
+  "count": 5,
+  "documents": [
+   "oe1bu14526-2",
+   "oe1bu9454-177",
+   "oe1bu9454-208",
+   "oe1bu9454-210"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14526-2",
+    "surface": "Schlieben",
+    "page": 2,
+    "page_id": "0004_a1",
+    "scan": "Oe_1_Bu_14526_0004_a1-L2_02.jpg",
+    "line": 77,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Schlieben",
+    "page": 7,
+    "page_id": "0334_a2",
+    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+    "line": 12620,
+    "doc_line": 142
+   },
+   {
+    "uid": "oe1bu9454-208",
+    "surface": "Schlieben",
+    "page": 1,
+    "page_id": "0390_b",
+    "scan": "Oe_1_Bu_9454_0390_b-L208_01.jpg",
+    "line": 14777,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-210",
+    "surface": "Schlieben",
+    "page": 4,
+    "page_id": "0394_a",
+    "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+    "line": 14943,
+    "doc_line": 103
+   },
+   {
+    "uid": "oe1bu9454-210",
+    "surface": "Schlieben",
+    "page": 4,
+    "page_id": "0394_a",
+    "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+    "line": 14946,
+    "doc_line": 106
    }
   ]
  },
@@ -40319,6 +40445,55 @@
     "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
     "line": 7786,
     "doc_line": 7
+   }
+  ]
+ },
+ {
+  "entity": "prinz-wilhelm",
+  "display": "Prinz Wilhelm von Preußen",
+  "count": 4,
+  "documents": [
+   "oe1bu9454-195",
+   "oe1bu9454-247",
+   "oe1bu9454-41",
+   "oe1bu9454-64"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-247",
+    "surface": "Willhelm",
+    "page": 2,
+    "page_id": "0458_a1",
+    "scan": "Oe_1_Bu_9454_0458_a1-L247_02.jpg",
+    "line": 17892,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-41",
+    "surface": "Willhelm",
+    "page": 4,
+    "page_id": "0077_a",
+    "scan": "Oe_1_Bu_9454_0077_a-L41_04.jpg",
+    "line": 3098,
+    "doc_line": 101
+   },
+   {
+    "uid": "oe1bu9454-64",
+    "surface": "Willhelm",
+    "page": 1,
+    "page_id": "0120_b",
+    "scan": "Oe_1_Bu_9454_0120_b-L64_01.jpg",
+    "line": 4867,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-195",
+    "surface": "Willhelm",
+    "page": 2,
+    "page_id": "0372_a1",
+    "scan": "Oe_1_Bu_9454_0372_a1-L195_02.jpg",
+    "line": 14103,
+    "doc_line": 36
    }
   ]
  },
@@ -42200,6 +42375,44 @@
     "scan": "Oe_1_Bu_14526_0129_a1-L19_12.jpg",
     "line": 6623,
     "doc_line": 307
+   }
+  ]
+ },
+ {
+  "entity": "itzig",
+  "display": "Itzig",
+  "count": 1,
+  "documents": [
+   "oe1bu9454-164"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-164",
+    "surface": "Jtzig",
+    "page": 1,
+    "page_id": "0309_b",
+    "scan": "Oe_1_Bu_9454_0309_b-L164_01.jpg",
+    "line": 11613,
+    "doc_line": 20
+   }
+  ]
+ },
+ {
+  "entity": "echtler",
+  "display": "Echtler",
+  "count": 1,
+  "documents": [
+   "oe1bu9454-164"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-164",
+    "surface": "Echtler",
+    "page": 4,
+    "page_id": "0311_a",
+    "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+    "line": 11702,
+    "doc_line": 106
    }
   ]
  },

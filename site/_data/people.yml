@@ -659,6 +659,26 @@
   name: "Wilhelm Daniel Schulz"
   count: 2
   letters: [{id: "17", url: "/documents/oe1bu14526/17/"}, {id: "16", url: "/documents/oe1bu14526/16/"}]
+- slug: "itzig"
+  name: "Itzig"
+  count: 1
+  letters: [{id: "164", url: "/documents/oe1bu9454/164/"}]
+- slug: "echtler"
+  name: "Echtler"
+  count: 1
+  letters: [{id: "164", url: "/documents/oe1bu9454/164/"}]
+- slug: "schlieben"
+  name: "von Schlieben (Oberst, widow and heirs)"
+  count: 4
+  letters: [{id: "2", url: "/documents/oe1bu14526/2/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "208", url: "/documents/oe1bu9454/208/"}, {id: "210", url: "/documents/oe1bu9454/210/"}]
+- slug: "prinz-wilhelm"
+  name: "Prinz Wilhelm von Preußen"
+  count: 4
+  letters: [{id: "247", url: "/documents/oe1bu9454/247/"}, {id: "41", url: "/documents/oe1bu9454/41/"}, {id: "64", url: "/documents/oe1bu9454/64/"}, {id: "195", url: "/documents/oe1bu9454/195/"}]
+- slug: "falz"
+  name: "Falz (Salz)"
+  count: 5
+  letters: [{id: "207", url: "/documents/oe1bu9454/207/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "19", url: "/documents/oe1bu9454/19/"}]
 - slug: "amstetten"
   name: "Amstetten"
   count: 2

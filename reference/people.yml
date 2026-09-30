@@ -1073,3 +1073,35 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "Dutch settler (Holländer) from Krolikowo, party to the 14526 hereditary-lease contracts (letters 15-16)."
+  itzig:
+    display: "Itzig"
+    match: 'Jtzig|Itzig'
+    tier: "Context-inferred"
+    variants: ["Jtzig"]
+    identity: "'dem Juden Jtzig[?]': a Jewish creditor from whom Amelang called in 18000 rt (9454 letter 164, Kalisz 1805). Probably of the Berlin banking family Itzig; the reading is the editor's doubtful one. Added 2026-09-30 with the sideways text."
+  echtler:
+    display: "Echtler"
+    match: 'Echtler(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Named once as likely to have plaster busts finished to look like bronze in stock (9454 letter 164, 1805); a dealer or maker, not identified. Added 2026-09-30 with the sideways text."
+  schlieben:
+    display: "von Schlieben (Oberst, widow and heirs)"
+    render: "Schlieben"
+    match: 'Schlieben(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Oberst von Schlieben held a royal grant from Friedrich Wilhelm II; the prince bought it from his widow and heirs by contract of 22 Oct 1799 (14526 letter 2). The later 9454 mentions are the family as creditors for the rest of the price: 'der Obrist v Schlieben' paid 2000 rt (177, 1805), 'die Schlieben' (208, 210; 1810), to whom Meierowitz owes 7800 rt as the rest of the purchase money. Colonel and widow are not told apart in the text, so one entry. Added 2026-09-30."
+  prinz-wilhelm:
+    display: "Prinz Wilhelm von Preußen"
+    match: '(?<=Prinzen )Wil{1,2}helm|(?<=Prinz )Wil{1,2}helm|(?<=Pr )Wil{1,2}helm|(?<=Par )Wil{1,2}helm'
+    tier: "Context-inferred"
+    variants: ["Pr Willhelm", "Par Willhelm"]
+    identity: "Prince Wilhelm of Prussia (1783-1851), brother of Friedrich Wilhelm III: a courier from him during the Erfurt congress (9454 letter 41, 1808); with the emperors and the king on the Hungarian excursion of the Vienna congress (247); also 64, 195. 'herzog Willhelm' (284) is someone else and is not matched. Added 2026-09-30."
+  falz:
+    display: "Falz (Salz)"
+    render: "Falz"
+    match: 'Falz(?![a-zà-ÿ])|(?<=\. )Salz(?= arbeitet)|(?<=durch )Salz(?= betreiben)'
+    tier: "Context-inferred"
+    variants: []
+    identity: "Lawyer (H. R. R.) handling the prince's lawsuits before the Kalisz tribunal, 1810-11: took over the case, paid and kept on retainer (9454 letters 207, 210, 213). Written Salz in 212 ('Salz arbeitet jezt die Sache aus') and, probably the same man, in 19; the right spelling is not settled, so the text keeps each letter's form. Salz as a word (salt) is not matched. Added 2026-09-30."

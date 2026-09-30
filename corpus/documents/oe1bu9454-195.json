@@ -193,6 +193,17 @@
    "doc_line": 32
   },
   {
+   "entity": "prinz-wilhelm",
+   "display": "Prinz Wilhelm von Preußen",
+   "kind": "person",
+   "surface": "Willhelm",
+   "page": 2,
+   "page_id": "0372_a1",
+   "scan": "Oe_1_Bu_9454_0372_a1-L195_02.jpg",
+   "line": 14103,
+   "doc_line": 36
+  },
+  {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
